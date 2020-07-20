@@ -1,0 +1,1952 @@
+#5300
+Entrance to the Overlord's Lair~
+You are standing in a great hallway filled with an assortment of 
+beautiful paintings.  The walls are made of white marble and a soft
+white light seems to eminate from them.  The air is fresh and clean here.
+Creatures of all shapes and sizes seem to be going this way and that.
+Everybody is certainly very busy.
+~
+30 8 0 1 99 0
+D0
+nothing special.
+~
+door north~
+1 -1 17687
+D2
+The hallway continues south.
+~
+~
+0 -1 5301
+E
+walls~
+It looks as if the light from the walls comes from somthing glowing behind
+them.
+~
+E
+paintings~
+Several paintings adorn the walls of this hallway.  Some paintings look
+startlingly familiar: a portrait of Fish and Sunshine are among the more
+familiar ones.
+~
+S
+#5301
+Hallway~
+You are in a hallway with marble floors.  Beautiful paintings line the
+walls.  To the north is the Entrance.  To the west is the Guards' room.
+To the east is an Embassary's chamber.  The hallway continues to the south.
+~
+30 8 0 1 99 0
+D0
+The Entrance is to the north.
+~
+~
+0 -1 5300
+D1
+To the east is an embassary's chamber.
+~
+~
+0 -1 5302
+D2
+The hallway continues to the south.
+~
+~
+0 -1 5304
+D3
+To the west is a Guard's room.
+~
+~
+0 -1 5303
+E
+paintings~
+Several paintings adron the walls of this hallway.  Some paintings look
+startlingly familiar: a portrait of Draythen the Zone lord is amongst
+the more familiar ones.
+~
+S
+#5302
+Embassary's Chamber~
+You stand within a dimly lit room.  A few books and quills seem to be
+scattered at random locations on several desks and tables.  A bed
+is in the southern corner of the room.
+~
+30 8 0 1 99 0
+D3
+To the west is the hallway.
+~
+~
+0 -1 5301
+S
+#5303
+Guards' Chamber~
+You are in a Guards' room.  Several non-descript weapons are littered
+about.  A few books on war and tactics in battle are here.  This room 
+smells funny...
+~
+30 8 0 1 99 0
+D1
+To the east is the hallway.
+~
+~
+0 -1 5301
+E
+books~
+You leaf through one of the books on war and find the following comment
+scribbled in one the margins:
+BOOK OF WAR --> hidden library
+~
+S
+#5304
+Hallway~
+The hallway continues to the south.
+~
+30 8 0 1 99 0
+D0
+The hallway continues to the north.
+~
+~
+0 -1 5301
+D1
+To the east is an Embassary's Chamber.
+~
+~
+0 -1 5305
+D2
+The hallway continues to the south.
+~
+~
+0 -1 5309
+D3
+To the west is an Embassary's chamber.
+~
+~
+0 -1 5306
+S
+#5305
+Embassary's Chamber~
+You are in a dimly lit room.  You can almost smell the prescence of evil.
+Symbols of a spider line the walls.
+~
+30 8 0 1 99 0
+D3
+To the west is the hallway.
+~
+~
+0 -1 5304
+E
+spider symbol~
+The symbol of a spider is most prominant in this room.  You wonder if it
+is the same as the drow symbol of Lloth.
+~
+S
+#5306
+Embassary's Chamber~
+You are in what is supposed to be an embassary's chamber,
+however the room just lloks like it is filled with junk.
+Suddenly you hear a creak under a piece of furniture.  Who
+is here with you?
+~
+30 8 0 1 99 0
+D1
+To the east is the hallway.
+~
+~
+0 -1 5304
+D3
+To the west is a very dark room.
+~
+door~
+31 5327 5307
+E
+furniture~
+A large couch on the west wall seems to move slightly as you look at it.
+~
+S
+#5307
+Down~
+You are in a small, non-descript room.
+~
+30 13 0 1 99 0
+D1
+To the east is an Embasarry's Chamber.
+~
+door~
+29 5327 5306
+D5
+nothing but darkness.
+~
+trap~
+1 -1 5308
+S
+#5308
+Down~
+A dark shaft.
+~
+30 8 0 1 99 0
+D4
+A faint light is seen from above.
+~
+trap~
+1 -1 5307
+D5
+The shaft continues down.
+~
+~
+0 -1 5325
+S
+#5309
+Intersection~
+The hallway turns int a 4-way junction here.
+~
+30 8 0 1 99 0
+D0
+The hallway continues to the north.
+~
+~
+0 -1 5304
+D1
+The hallway continues to the east.
+~
+~
+0 -1 5315
+D2
+The hallway continues to the south.
+~
+~
+0 -1 5310
+D3
+The hallway continues to the west.
+~
+~
+0 -1 5312
+S
+#5310
+Hallway~
+You are in a beautiful hallway.  To the west is the Resident
+Wizard's room.  Going south leads to the throne room.
+~
+30 8 0 1 99 0
+D0
+The hallway continues to the north.
+~
+~
+0 -1 5309
+D2
+Approaching the throne room...
+~
+~
+0 -1 5318
+D3
+To the west is the Wizard's Chamber.
+~
+~
+0 -1 5311
+S
+#5311
+Wizard's Chamber~
+An assortment of books and tomes rest on shelves.  A black cat looks up at
+you.  It then scatters off, disappearing behind a dresser.
+~
+30 8 0 1 99 0
+D1
+To the east is the hallway.
+~
+~
+0 -1 5310
+E
+books tomes~
+You read a few titles of various books:
+"The Never Ending Change of the Word 'Good.'"
+"Atoms and Electrons"
+"Card Magic ... Playing with a trick deck"
+"Sphere", by Michael Chrichton
+~
+S
+#5312
+West Hall~
+You can smell the scent of old books to the west. There is a
+painting on a wall here of a very old woman.  The painting is simply
+titled, "Mom."
+~
+30 8 0 1 99 0
+D1
+To the east is the Intersection.
+~
+~
+0 -1 5309
+D3
+The Library is the the west.
+~
+~
+0 -1 5313
+S
+#5313
+Overlord's Library~
+You are standing in a rather large room filled with books from floor
+to ceiling.  Some books appear to be rotting and most have yellow
+pages.  You feel a strange prescence in this room.
+~
+30 8 0 1 99 0
+D1
+To the east is the hallway.
+~
+~
+0 -1 5312
+D2
+~
+book~
+25 -1 5314
+E
+books~
+You look at several old books.  As you pick them up they seem to crumble
+in your hands; they are so old!  One book in particular seems to outclass
+itself from the rest.  Perhaps if you open this book...
+~
+S
+#5314
+Hidden Library~
+You are standing in a rather large room filled with books from floor
+to ceiling.  Some books appear to be rotting and most have yellow
+pages.  You feel a strange prescence in this room.
+~
+30 8 0 1 99 0
+D0
+To the north is the Overlord's Library.
+~
+door~
+1 -1 5313
+S
+#5315
+East Hall~
+You are standing in the east hall.  There is a painting of a very
+old man on the wall here.  The title simply reads, "Dad."
+You feel you are being watched...
+~
+30 8 0 1 99 0
+D1
+The Servants Concourse is to the east.
+~
+~
+0 -1 5316
+D3
+The hallway continues to the west.
+~
+~
+0 -1 5309
+E
+painting dad~
+The eyes of this painting seem to follow you as you move from side to side.
+~
+S
+#5316
+Servant's Concourse~
+Several shadowy beings are walking to and fro.  Some are carrying food
+on platters, others are practicing with their weapons, most are just
+sitting around looking at you.
+~
+30 8 0 1 99 0
+D0
+The Servant's quarters are to the north.
+~
+~
+0 -1 5317
+D1
+The kitchen is to the east.
+~
+~
+0 -1 5412
+D2
+The concourse continues to the south.
+~
+~
+0 -1 5321
+D3
+The hallway continues to the west.
+~
+~
+0 -1 5315
+S
+#5317
+Servant's Quarters~
+Several shadowy beings are walking to and fro.  Some are carrying food
+on platters, others are practicing with their weapons, most are just
+sitting around looking at you.
+Several beds and hammocks are arrayed at the ends of this room.
+~
+30 8 0 1 99 0
+D2
+The Servants Concourse is to the south.
+~
+~
+0 -1 5316
+S
+#5318
+Before the Throne Room of the Overlord~
+You are in a lavishly decorated room.  You feel your skin warm up as
+heat eminates from the south.
+~
+30 8 0 1 99 0
+D0
+The hallway continues to the north.
+~
+~
+0 -1 5310
+D1
+The hallway continues...
+~
+~
+0 -1 5319
+D2
+To the south is the Throne Room.
+~
+~
+0 -1 5323
+S
+#5319
+Anteroom~
+You are in a lavishly decorated room.  You feel your skin warm up as
+heat eminates from the south.
+~
+30 8 0 1 99 0
+D1
+Servants Concourse is to the east.
+~
+~
+0 -1 5320
+D3
+The Ante-room is to the west.
+~
+~
+0 -1 5318
+S
+#5320
+Servants' Concourse~
+The Servants' Concourse continues to the north.  The head servant is
+to the south.
+~
+30 8 0 1 99 0
+D0
+The Concourse continues to the north.
+~
+~
+0 -1 5321
+D2
+James' personal quarters are to the south.
+~
+~
+0 -1 5322
+D3
+The hallway continues...
+~
+~
+0 -1 5319
+S
+#5321
+Servants' Concourse~
+You are in the middle of the Servant's Concourse.  Many people, especially
+demiservants walk passed you. 
+~
+30 8 0 1 99 0
+D0
+The Concourse continues to the north.
+~
+~
+0 -1 5316
+D1
+The pantry is to the east.
+~
+~
+0 -1 5411
+D2
+The Servants' Concourse ends to the south.
+~
+~
+0 -1 5320
+S
+#5322
+James' Personal Quarters~
+You are in a very tidy room to the extreme; nothing is out of place.
+All the furntiture is made of fine oak woods. You notice a piece of
+paper on a desk.
+~
+30 8 0 1 99 0
+D0
+The Servant's Concourse is to the north.
+~
+~
+0 -1 5320
+E
+paper~
+You examine the paper and read:
+Keep all visitors away from pass James...do my bidding.
+Inform me of daily events...you will get your reward when the
+time comes...
+~
+S
+#5323
+Throne Room of the Overlord~
+You are standing in a very large room.  Many weapons and cracked
+paintings of famous heros stare down at you.  The heat in this room
+is intense, yet the Overlord rests comfortably on his throne.
+~
+30 8 0 1 99 0
+D0
+To the north is the Ante-room.
+~
+~
+0 -1 5318
+D1
+The Overlord's living chamber is to the east.
+~
+~
+0 -1 5324
+E
+weapons~
+Large halberds, and two-handed swords cross one another along the walls.
+~
+E
+paintings~
+The paintings are of fine quality but seem almost ruined because of the
+heat that radiates in this room.  You either recognize or are familiar with
+the visages of those depicted: Lord Decay, Carnage, Aiur, etc.
+~
+E
+throne~
+The Overlord's chair is made entirely of stone.  It is rough hewn and is simple in design.
+~
+S
+#5324
+Living Room~
+You are in a lavishly decorated room.  You feel you skin warm up as
+heat eminates from the west.  This room appears to be lived in quite
+a bit...
+You are about to leave the room when you notice a rather oddly-placed
+tapestry. You look behind it and see a shimmering outline of a door.
+You think if you walk through you will be far far away from the room
+you are in now.
+~
+30 12 0 1 99 0
+D2
+A shimmering door lies to the south.
+~
+~
+0 -1 5413
+D3
+The Throne Room is to the west.
+~
+~
+0 -1 5323
+S
+#5325
+Entrance to the Underground Mines~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 1
+D1
+You sense a faint wind from the east.
+~
+~
+0 -1 5330
+D2
+~
+door~
+25 -1 5329
+D3
+The tunnel continues...
+~
+~
+0 -1 5326
+D4
+The shaft continues up.
+~
+~
+0 -1 5308
+S
+#5326
+Duerger Mines~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 1
+D1
+The tunnel continues..
+~
+~
+0 -1 5325
+D2
+The tunnel continues...
+~
+~
+0 -1 5327
+S
+#5327
+Duerger Mines~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 1
+D0
+The tunnel continues...
+~
+~
+0 -1 5326
+D2
+The tunnels widens to the south.
+~
+~
+0 -1 5328
+S
+#5328
+Dead End~
+Through the blackness, you detect a small glint on the wall.
+Could it be a diamond in the rough?
+~
+30 9 0 1 99 1
+D0
+The tunnel continues...
+~
+~
+0 -1 5327
+E
+glint diamond~
+You examine the glint and discover that it is indeed a diamond amidst
+the stone wall of the cave.
+~
+S
+#5329
+Supply room~
+You have stumbled upon a secret cache of supplies.
+~
+30 9 0 1 99 1
+D0
+~
+door~
+17 -1 5325
+S
+#5330
+Duergar mines~
+The smell of decayed flesh fills your nostrils.  On the ground
+before you are several dead rooks, as well as what appears to
+be a badly mutilated body of an old frump.  They seem to have
+been dead for days.
+~
+30 9 0 1 99 1
+D1
+The tunnel continues...
+~
+~
+0 -1 5331
+D3
+The tunnel continues...
+~
+~
+0 -1 5325
+E
+rooks~
+The rooks seem to have died by quick, and efficient slices to their gutts
+and necks.
+~
+E
+frump~
+You think this is a frump...
+~
+S
+#5331
+Duergar mines~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 1
+D1
+nothing but darkness.
+~
+~
+0 -1 5332
+D3
+The tunnel continues...
+~
+~
+0 -1 5330
+S
+#5332
+Duergar mines~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 0
+D2
+nothing but darkness.
+~
+~
+0 -1 5333
+D3
+nothing but darkness.
+~
+~
+0 -1 5331
+S
+#5333
+Duergar mines~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5332
+D2
+nothing but darkness.
+~
+~
+0 -1 5335
+D3
+nothing but darkness.
+~
+~
+0 -1 5334
+S
+#5334
+Duerger Mines~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5333
+S
+#5335
+Duergar mines~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 13 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5333
+D2
+nothing but darkness.
+~
+~
+0 -1 5336
+D5
+nothing but darkness.
+~
+~
+0 -1 5337
+S
+#5336
+Hobart's Room~
+You appear to be in a hollowed out room, filled with dead rats
+and mice.  The smell is awful.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5335
+S
+#5337
+Dark Shaft~
+You hear the faint sounds of mining to the south.
+~
+30 9 0 1 99 0
+D2
+nothing but darkness.
+~
+~
+0 -1 5339
+D4
+nothing but darkness.
+~
+~
+0 -1 5335
+D5
+Your nerves tingle something awful.
+~
+~
+0 -1 5338
+S
+#5338
+Duerger Mines~
+You're DEAD!!!
+~
+30 11 0 1 99 0
+D4
+~
+~
+0 -1 5337
+S
+#5339
+Duergar mines~
+A small breeze passes across your face.  The air is chilly down here.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5337
+D2
+nothing but darkness.
+~
+~
+0 -1 5340
+S
+#5340
+Duergar mines~
+You hear the sound of metal scraping against rock to the south and east.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5339
+D1
+You hear what sounds like mining and voices talking in a low rumble.
+~
+~
+0 -1 5341
+D2
+nothing but darkness.
+~
+~
+0 -1 5342
+S
+#5341
+Small diamond mine~
+The rock walls have been mined here.  The walls sparkle with the
+glint of diamonds in the rough.
+~
+30 9 0 1 99 0
+D3
+nothing but darkness.
+~
+~
+0 -1 5340
+S
+#5342
+South mines~
+The sound of mining seems to be getting closer.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5340
+D2
+nothing but darkness.
+~
+~
+0 -1 5344
+D3
+a faint light to the west.
+~
+~
+0 -1 5343
+S
+#5343
+The Toilet~
+You have just stepped in what appears to be a mushy, brown substance.
+Oh God...its, its.  Oh God.  This place stinks!
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5342
+S
+#5344
+South mines~
+You find yourself at a 4-way junction.  The sound of mining eminates
+from the east.  To the south you here what is either humming, or
+chanting.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5342
+D1
+a faint glow to the east.
+~
+~
+0 -1 5345
+D2
+You can descern what appears to be a green glow to the south.
+~
+~
+0 -1 5348
+D3
+nothing but blackness.
+~
+~
+0 -1 5347
+S
+#5345
+South mines~
+You are in one of several mine passages.  To the east you hear the sounds
+of heavy mining.  You smell the stink of rotting corpses nearby.
+~
+30 9 0 1 99 0
+D1
+a faint glow ahead...
+~
+~
+0 -1 5346
+D3
+blackness ahead.
+~
+~
+0 -1 5344
+S
+#5346
+Diamond Mine~
+You are in a large mined out area.  Several duergar are here hammering
+and chiseling away at the stone.  They turn to look at you and you think
+maybe I should be somewhere else.
+~
+30 9 0 1 99 0
+D3
+nothing but darkness.
+~
+~
+0 -1 5345
+S
+#5347
+A bend in the passage~
+You are in one of several mine passages.  You smell the faint stink
+of rotting corpses.
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5344
+D2
+nothing but darkness.
+~
+~
+0 -1 5349
+S
+#5348
+Grimvare's Green Moss Temple~
+You appear to be in a hollowed out room, filled with a green glowing
+moss everywhere.  It hugs the walls, the ceiling, and the floor in
+large patches.  In the middle of the room stands a very ugly duergar
+dwarf clothed in black robes.  The dwarf is apparently quite disturbed
+that you interrupted his singing.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5344
+E
+moss~
+This moss seems to be a natural underground growth in these parts.  It
+gives off an extreme faint glow; many humans would not be able to detect
+this glow.
+~
+S
+#5349
+West mines~
+You feel a faint breeze on coming from the west.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5347
+D3
+nothing special...
+~
+~
+0 -1 5350
+S
+#5350
+West mines~
+You feel a faint breeze coming from the west.  For some reason you
+think you smell ammonia.
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5349
+D2
+You feel funny about going south, but you think it'll be safe.
+~
+~
+0 -1 5351
+D3
+nothing but darkness.
+~
+~
+0 -1 5353
+D5
+More mines.
+~
+~
+0 -1 1903
+S
+#5351
+West mines~
+You have entered one of the endless passages of the duergar.  To the
+east you rell a strange prescence.  Your combat instincts tell you to
+be ready.
+~
+30 9 0 1 99 0
+D0
+You can't see a thing...
+~
+~
+0 -1 5350
+D1
+nothing but darkness.
+~
+~
+0 -1 5352
+S
+#5352
+Room of the Wraith~
+Your senses assault you as the strangeness of this room takes hold.
+There is something here with you; you can feel it...
+~
+30 9 0 1 99 0
+D3
+nothing.
+~
+~
+0 -1 5351
+S
+#5353
+West mines~
+You feel a faint breeze coming from the west.  For some reason you
+think you smell ammonia.
+Hmm, no maybe not ammonia, but rather the smell of clean.
+~
+30 9 0 1 99 0
+D1
+nothing but blackness.
+~
+~
+0 -1 5350
+D3
+You sense something to the west.
+~
+~
+0 -1 5354
+S
+#5354
+Before a Great Door~
+This place is very clean.  The walls are white with not a spec of dirt
+on them; certainly this couldn't have been done by duergar.
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5353
+D2
+The Hall lies to the south.
+~
+door~
+9 -1 5355
+S
+#5355
+The Ancient Hall~
+You stand in a strange hall.  The walls are made entirely of an opaque
+white stone.  If you listen hard you can hear the sound of many voices
+whispering.  Occasionally you hear the sound of laughter.  You feel that
+the place you stand in is ancient, perhaps even before the time of Gods.
+~
+30 1032 0 1 99 0
+D0
+A white stone hallway lies to the north.
+~
+door~
+1 -1 5354
+D2
+The Hall continues...
+~
+~
+0 -1 5356
+S
+#5356
+The Ancient Hall~
+You stand in a strange hall.  The walls are made entirely of an opaque
+white stone.  If you listen hard you can hear the sound of many voices
+whispering.  Occasionally a soft echo of laughter can be heard.  You
+fell that the place you stand in is ancient, perhaps even before the
+time of Gods.
+~
+30 1032 0 1 99 0
+D0
+The Hall continues...
+~
+~
+0 -1 5355
+D2
+The Hall continues...
+~
+~
+0 -1 5357
+S
+#5357
+The Ancient Hall~
+You stand in a strange hall.  The walls are made entirely of an opaque
+white stone.  If you listen hard you can hear the sound of many voices
+whispering.  Occasionally a soft echo of laughter can be heard.  You
+feel that the place you stand in is ancient, perhaps even before the
+time of Gods.
+To the south, east, and west are massive doors.
+~
+30 1032 0 1 99 0
+D0
+The Hall continues...
+~
+~
+0 -1 5356
+D1
+nothing special...
+~
+door~
+9 -1 5358
+D2
+A massive door looms in front of you
+~
+door~
+9 -1 5408
+D3
+nothing special.
+~
+door~
+9 -1 5361
+S
+#5358
+Before a Great Door~
+This place is very clean.  The walls are white with not a spec of dirt
+on them; certainly this couldn't have been done by duergar.
+~
+30 9 0 1 99 0
+D3
+To the west is an entrance into the Hall.
+~
+door~
+9 -1 5357
+S
+#5359
+Antechamber before the Demon Lord~
+Several maps are hung up on the walls here.  Upon closer inspection
+you realize that many of these maps are of places that you have
+ventured in before: Midguaard, Castle Bryan, the Shire...
+You wonder who needs these maps.  Perhaps it is the duergar on the
+far end of the room looking at you.
+~
+30 9 0 1 99 0
+D0
+~
+~
+9 -1 5410
+D2
+nothing but darkness.
+~
+~
+0 -1 5360
+S
+#5360
+At the Demon Lord~
+A swirling ball of glowing red spins in the far corner of the room.  A
+large, dark creature looms over it, massaging it.  You look within the
+red glowing swirl and see the faint image of a mightly duergar,
+wielding a giant battle-axe.  The dark creature seems to say a few
+words before it takes notice of you.  Suddenly, within your brain, you
+feel the thoughts of, "Puny creature, leave before you are dead!!"
+~
+30 9 0 1 99 0
+D0
+nothing special...
+~
+~
+0 -1 5359
+S
+#5361
+Room of Shulk the Guardian~
+You stand within a large room.  There is a great door located on the
+east wall, however, there is one mightly looking duergar standing
+in front of it.
+~
+30 9 0 1 99 0
+D1
+To the east lies an entrance to the Hall.
+~
+door~
+9 -1 5357
+D3
+nothing but darkness.
+~
+~
+0 -1 5362
+S
+#5362
+Lower tunnel~
+You feel a faint breeze from the north.  The air is chilly down here.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5363
+D1
+Shulk's room is to the east.
+~
+~
+0 -1 5361
+S
+#5363
+Lower tunnel~
+It seems to be very silent here.
+~
+30 9 0 1 99 0
+D2
+nothing but darkness.
+~
+~
+0 -1 5362
+D3
+You sense a breeze coming from the west.
+~
+~
+0 -1 5364
+S
+#5364
+Lower tunnel~
+You are at the bottom of a staircase.  You hear grumbling sounds to the
+east.
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5363
+D4
+nothing but blackness.
+~
+~
+0 -1 5365
+S
+#5365
+The Underworld~
+There are stairs leading down here.  You hear faint grunting sounds coming
+from the bottom of the staircase or beyond...
+~
+30 9 0 1 99 0
+D3
+nothing but darkness.
+~
+~
+0 -1 5366
+D5
+nothing but blackness.
+~
+~
+0 -1 5364
+S
+#5366
+The Underworld~
+You appear to be in a well-constructed hallway.  You can hear the voices
+of duergar dwarves some distance away.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5367
+D1
+nothing but darkness.
+~
+~
+0 -1 5365
+D2
+You smell a rude scent to the south.
+~
+~
+0 -1 5407
+D3
+nothing but darkness.
+~
+~
+0 -1 5371
+S
+#5367
+The Underworld~
+You are in a well-constructed hallway.  To the west you hear the grunting
+sounds of duergar-speak.  All is silent to the north and east.  The hallway
+continues to the south.
+~
+30 9 0 1 99 0
+D0
+the faint glow of green moss.
+~
+~
+0 -1 5369
+D1
+the faint glow of green moss.
+~
+~
+0 -1 5368
+D2
+nothing but darkness.
+~
+~
+0 -1 5366
+D3
+Your nerves tingle as you contemplate lies to the west.
+~
+~
+0 -1 5370
+S
+#5368
+Duergar underground home~
+You find yourself in a duergar dwelling.  Various weapons are hung on the
+walls, most prominent of which are a large hammer and battle-axe.  The
+occupants of this room are none too pleased with your prescence.
+~
+30 9 0 1 99 0
+D3
+nothing but darkness.
+~
+~
+0 -1 5367
+S
+#5369
+In a dwelling~
+You seem to be in an abandoned dwelling.  Scraps of meat and hide are 
+littered about.  Rats scurry to and fro.
+~
+30 9 0 1 99 0
+D2
+nothing but darkness.
+~
+~
+0 -1 5367
+S
+#5370
+Pit to the Center of the Earth~
+Your DEAD!!!
+~
+30 11 0 1 99 0
+S
+#5371
+The Underworld~
+You appear to be in a well-constructed hallway.  You can hear the grunting
+sounds of duergar-speak to the south. 
+~
+30 9 0 1 99 0
+D0
+Your nerves tingle as you contemplate what lies to the north.
+~
+~
+0 -1 5370
+D1
+nothing but darkness.
+~
+~
+0 -1 5366
+D2
+the faint glow of green moss.
+~
+~
+0 -1 5372
+D3
+nothing but darkness.
+~
+~
+0 -1 5373
+S
+#5372
+In a dwelling~
+Softly glowing green moss lights this room.  Several duergar and goblins
+stare back at you.  They don't seem to be pleased that you are here.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5371
+E
+moss~
+This moss seems to glow brighter than the rest.  You would think that the
+dwarves would not like any light, but perhaps this moss does something
+else for them...
+~
+S
+#5373
+a bend in the hallway~
+You are in a well-constructed hallway.  A faint breeze comes from the north.
+The air is chilly and dank.  Voices and grunting sounds are all around.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5375
+D1
+nothing but darkness.
+~
+~
+0 -1 5371
+D2
+the faint glow of green moss.
+~
+~
+0 -1 5374
+S
+#5374
+Planning Chamber~
+You stand within a large room.  Various maps of the Underworld are tacked to
+the walls.  In the middle of the room is a large table, at the center of
+which is another map of a place you do not recognize.  Several duergar
+were pondering over it until you walked in and disturbed them.  They do
+not seem pleased.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5373
+D3
+The Map room lies to the west.
+~
+~
+0 -1 5406
+E
+maps~
+You see a complete map of Moria and the underground Shire...
+~
+S
+#5375
+The Underworld~
+You are in a well-constructed hallway.  The hal continues to the north and
+south.  The hallway seems to get wider to the west.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5376
+D1
+You decide that it isn't good for your health to go east.
+~
+~
+0 -1 5370
+D2
+nothing but darkness.
+~
+~
+0 -1 5373
+D3
+nothing but darkness.
+~
+~
+0 -1 5384
+S
+#5376
+The Underworld~
+You are at a 4-way junction in a well-constructed hallway.  You can barely
+hear the sound of running water underneath you.  The air is chilly.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5378
+D1
+a red glow to the east.
+~
+~
+0 -1 5377
+D2
+nothing but darkness.
+~
+~
+0 -1 5375
+D3
+nothing but darkness.
+~
+~
+0 -1 5380
+S
+#5377
+Duergar Captain's room~
+You seem to be in a massive looking duergar's room.  He is very upset with
+you entering it.
+~
+30 9 0 1 99 0
+D2
+Your senses tell you not to venture to the south.
+~
+~
+0 -1 5370
+D3
+nothing but darkness.
+~
+~
+0 -1 5376
+S
+#5378
+The Underworld~
+You appear to be in a well-constructed hallway.  You can hear the voices
+of duergar dwarves some distance away.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5379
+D2
+nothing but the dark.
+~
+~
+0 -1 5376
+D3
+the extreme faint glow of green moss.
+~
+~
+0 -1 5381
+S
+#5379
+The Underworld~
+You appear to be in a well-constructed hallway.  The sound of low voices
+is prominent and the smell of ale and rust fills your nostrils.
+To the north is a staircase leading up.
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5382
+D1
+the faint glow of green moss.
+~
+~
+0 -1 5387
+D2
+nothing but darkness.
+~
+~
+0 -1 5378
+D3
+You are not sure what you see.
+~
+~
+0 -1 5386
+S
+#5380
+In a dwelling~
+You appear to be in a small dweling.  A few goblin slaves have made this 
+room their 'unofficial' home.  Several carcasses of eaten giant rats lie
+around.
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5376
+S
+#5381
+Duergar underground home~
+You find yourself in a duergar dwelling.  Various weapons are hung on the
+walls, most prominent of which are a large hammer and battle-axe.  The
+occupants of this room are none too pleased with your prescence.
+~
+30 9 0 1 99 0
+D1
+nothing but blackness.
+~
+~
+0 -1 5378
+E
+battle-axe axe~
+The axe hangs next to the hammer and appears to be too old to be used
+effectively.  There are dried blood stains on the axe.
+~
+E
+hammer~
+The hammer is a mining hammer but seems to be too old to be used effective-
+ly.
+~
+S
+#5382
+staircase leading up~
+You are at the base of a flight of stairs going up into darkness.  You
+sense an opening to the south.
+~
+30 9 0 1 99 0
+D2
+darness ahead.
+~
+~
+0 -1 5379
+D4
+~
+~
+0 -1 5383
+S
+#5383
+staircase leading down~
+You are at the top of a flight of stairs which lead down into darkness.
+On the north wall is a large picture of a skull, mug, and axe.
+~
+30 13 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 5396
+D5
+nothing but darkness.  You wonder if you should go down the stairs.
+~
+~
+0 -1 5382
+E
+picture~
+This picture seems to be etched in the wall and then the etching was 
+painted.  The skull appears to have fanged teeth, and the mug is wide
+and full of a frothy ale.  The axe seems to have been made by a very
+dark steel.
+~
+S
+#5384
+The Underworld~
+You are in a well-constructed hallway.  The hal continues to the north and
+south.  The hallway seems to get wider to the west.
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5375
+D3
+nothing but darkness.
+~
+~
+0 -1 5385
+S
+#5385
+staircase leading down~
+You are at the top of a flight of stairs which lead down into darkness.
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5384
+D5
+The stairway descends into darkness.
+~
+~
+0 -1 5388
+S
+#5386
+A dwelling~
+You have entered a living room of sorts.  Many beds, hammocks and couches
+are here.  This room smells mostly of dried ale.
+~
+30 9 0 1 99 0
+D1
+nothing but darkness.
+~
+~
+0 -1 5379
+S
+#5387
+In a dwelling~
+Softly glowing green moss lights this room.  Several duergar and goblins
+stare back at you.  They don't seem to be pleased that you are here.
+~
+30 9 0 1 99 0
+D3
+nothing but darkness.
+~
+~
+0 -1 5379
+S
+#5388
+Entrance to the Halls of the Warlord~
+You are at the bottom of a flight of stairs.  The scent of incensce lingers
+in the air.  You hear sounds coming from the level above you.  The hallway
+continues to the west.
+~
+30 13 0 1 99 0
+D3
+nothing but darkness.
+~
+~
+0 -1 5389
+D4
+The stairway ascends into darkness.
+~
+~
+0 -1 5385
+S
+#5389
+Halls of the Duergar Warlord~
+You are in a well-constructed hallway.  The faint smell of incense lingers
+in the air.  The floor beneath your feet is damp and somewhat slippery.
+These halls are quiet...
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5390
+D1
+nothing but darkness.
+~
+~
+0 -1 5388
+S
+#5390
+Halls of the Duergar Warlord~
+You are in a well-constructed hallway.  The faint smell of incense lingers
+in the air.  The floor beneath your feet is damp and somewhat slippery.
+These halls are quiet...
+~
+30 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5391
+D2
+nothing but darkness.
+~
+~
+0 -1 5389
+S
+#5391
+The Bridge Underground~
+You are standing on a sturdy bridge that crosses a dark pool of water
+below.  To the hall continues to the north and south.
+~
+30 13 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5394
+D2
+nothing but darkness.
+~
+~
+0 -1 5390
+D5
+You can't see anything save the occasional glint of the water below you.
+What would such a large pool being doing in the abode of a duergar
+warlord.  Duergars cant swim can they?
+~
+~
+0 -1 5392
+E
+pool~
+The pool of water appears to be moving in a random fashion.  You conclude
+that this must be where the sounds of running water come from...
+~
+S
+#5392
+in the dark pool~
+You plunge into the depths of the dark water.  Its frighteningly black
+and thick with muck.  When you feel something brush against your leg
+you realize that you are not alone in this pool.
+~
+30 9 0 1 99 8
+D0
+You can't make out anything through the mucky water.
+~
+~
+0 -1 5393
+D4
+The surface of the water is above you.
+~
+~
+0 -1 5391
+S
+#5393
+Treasure room of the Duergar Warlord~
+You are standing within a room overgrown with moss and grass.  In the very
+center of the room lies a large wooden chest.  To the south is one of the
+strangest sights you have ever seen: a shimmering wall of water.  You 
+feel very uncomfortable in this room.
+~
+30 1033 0 1 99 0
+D2
+a shimmering wall of black water held at bay by some unseen
+magical force.
+~
+~
+0 -1 5392
+E
+wall water~
+The wall of water appears to be held back by some unseen magical force.
+~
+E
+chest wooden~
+The chest is made of mahogany and by itself would be worth thousands in 
+gold.  It is of obvious dwarvish design; you assume duergar, but you are
+not sure.  In any event, the chest is padlocked.
+~
+S
+#5394
+Halls of the Duergar Warlord~
+You are in a well-constructed hallway.  The faint smell of incense lingers
+in the air.  The floor beneath your feet is damp and somewhat slippery.
+These halls are quiet...
+A large wooden door blocks your vision to the north.  A strange
+enscription surrounds walls just previous to the door.
+A familiar-looking symbol is carved on the door itself: a picture of
+a skull, mug and axe.
+~
+30 9 0 1 99 0
+D0
+A great wooden door looms before you.
+~
+door~
+9 -1 5395
+D2
+nothing but darkness to the south.
+~
+~
+0 -1 5391
+E
+enscription wall~
+The enscription is carved deep into the wall.  It is written in a
+language you are not familiar with, so there is no way of knowing
+what it means.
+~
+E
+picture door~
+The picture enscribed on the door is what you believe to be the clan
+symbol of these duergar dwarves...
+~
+E
+enscription walls~
+The enscription is carved deep into the wall, no doubt my magic.  It
+is written in a language that you do not know, so there is no way of
+knowing what the enscription means.
+~
+S
+#5395
+Chamber of the Duergar Warlord~
+You are in a great room carved out from the rocks of the earth that 
+comprise the walls of this room.  Before you is a great table with
+a large throne at the far end.  At the far end of the room are other
+pieces of furniture and a straw bed.  This room seems much warmer than
+others you have been in.
+~
+30 9 0 1 99 0
+D1
+A great door looms before you.
+~
+~
+0 -1 5357
+D2
+A great wooden door lies to the south.
+~
+door~
+1 -1 5394
+E
+enscription walls~
+The enscription is carved deep into the wall, no doubt my magic.  It
+is written in a language that you do not know, so there is no way of
+knowing what the enscription means.
+~
+S
+#5396
+Duergar Caves~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 5397
+D3
+nothing special.
+~
+~
+0 -1 5383
+S
+#5397
+Duergar Caves~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 5398
+D3
+nothing special.
+~
+~
+0 -1 5396
+S
+#5398
+UnderMountain Caves~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 0
+D2
+nothing special.
+~
+~
+0 -1 5397
+D3
+nothing special.
+~
+~
+0 -1 5399
+S
+#5399
+UnderMoutain Caves~
+You detect the scent of wet rust and dirt.  It is dark here.
+~
+30 9 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 5398
+D3
+~
+~
+0 -1 5400
+S
+$~
+#999999

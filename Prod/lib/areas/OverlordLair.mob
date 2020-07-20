@@ -1,0 +1,370 @@
+#5300
+mob shadow demi servant~
+a demiservant~
+A shadowy demiservant stands here.
+~
+The shadowy demiservant seems to have things on his mind.  You look him
+over and detect a shadowy bracelet on his wrist.
+~
+1048648 1 136249361 8 0 S
+12 27 32 9d9+110 3d5+4
+1000 3635
+8 8 1
+0 0 15 16 14 12 10 13
+#5301
+mob keep guard~
+a Keep Guard~
+A Keep Guard stands here looking at you suspicously.
+~
+An imposing guard is eyeing you suspiciously.  You notice a short sword by
+his side.  You get the feeling that he knows how to use this weapon.
+~
+72 32769 136249361 0 10 S
+14 25 30 9d19+100 5d5+2
+2250 4215
+8 8 1
+1 0 15 14 12 12 13 12
+SKILL=SKILL_HUNT 38
+#5302
+mob embassary man~
+an embassary~
+A scholarly-looking man stands here.
+~
+A man of many years stands here holding a book in one hand and a pen in
+the other.  He seems to be contemplating something.
+~
+202 1 136249361 0 300 S
+10 29 34 7d9+90 3d3+5
+800 3000
+8 8 1
+1 0 14 14 12 13 12 8
+#5303
+mob duergar dwarf warrior~
+a Duergar warrior~
+A Duergar warrior stands here, grinning evilly at you.
+~
+You see a fairly ugly, grey-skinned, duergar dwarf.  He smiles weakly at you
+as he brandishes his axe.
+~
+57422 1 136249361 34078720 -500 S
+18 22 26 10d19+200 5d5+10
+4410 5315
+8 8 1
+2 4 16 14 15 15 12 12
+#5304
+mob wizard resident mage~
+an old Wizard~
+An old wizard is standing here looking for his cat.
+~
+You see an old wizard with a flowing, white beard.  He is dressed in a 
+black cloak with siler stars and moons embroidered upon it.  His eyes 
+are darting this way and that.  He looks as if he is trying to find
+something.
+~
+14 32769 136249361 8 100 S
+16 24 28 30d7+110 3d5+12
+4205 5000
+8 8 1
+0 1 15 15 14 13 12 14
+SKILL=SPELL_BLINDNESS 42
+SKILL=SPELL_BURNING_HANDS 42
+SKILL=SPELL_CURSE 42
+SKILL=SPELL_ENERGY_DRAIN 42
+SKILL=SPELL_LIGHTNING_BOLT 42
+SKILL=SPELL_MAGIC_MISSILE 42
+#5305
+mob James servant butler~
+James~
+James, the head butler, stands here looking at you inquisitively.
+~
+The head butler is dressed in a very proper suit and bow tie.  He is of
+middle years with dark, brown hair and blue eyes.  He is very much a human,
+unlike his underlings whom are very much not human.
+~
+200 1 136249361 536870912 0 S
+12 27 32 10d19+60 4d3+5
+1000 3545
+8 8 1
+0 0 15 13 13 13 13 11
+#5306
+mob Grey Rook~
+the Grey Rook~
+The Grey Rook stands here guarding the entrance.
+~
+The Grey Rook looks pretty formidable.  He is guarding the entrance to the
+Keep Manor.
+~
+57422 32769 136249361 8 -500 S
+25 15 18 11d19+2000 7d5+25
+17250 80000
+8 8 0
+0 0 18 18 16 17 16 16
+SKILL=SPELL_LIGHTNING_BREATH 60
+#5307
+mob Hobart hobgoblin~
+Hobart the Hobgoblin~
+Hobart stands here grinning a toothless grin.
+~
+Hobart looks to be in the height of fashion with his feathered hat and
+pink tights.  He smiles toothlessly at you with a bit of slobber running
+down his chin.
+~
+57422 1 136249361 33554434 -500 S
+16 24 28 30d9+80 5d3+10
+4000 4735
+8 8 1
+0 0 15 16 13 14 14 10
+#5308
+mob Gornath duergar dwarf~
+Gornath~
+Gornath stands here wielding a glowing red axe.
+~
+You see an overgrown duergar dwarf.  He grunts, "Leave here...for your own
+good, leave.  The Demon Lord must not be disturbed!"  Seeing that you are
+not about to leave, Gornath spits in your face.
+~
+74 32769 136249361 33554472 -600 S
+20 20 24 56d19+1000 5d5+15
+5100 58000
+8 8 1
+2 0 17 15 15 14 13 14
+SKILL=SPELL_GAS_BREATH 50
+#5309
+mob Grimvare duergar dwarf~
+Grimvare~
+Grimvare stands here.
+~
+You see a duergar, who seems older than all the others, with a beard and
+hair of purest white, and creased and wrinkled, ugly face.  This duergar
+is called Grimvare, which means judge and healer.  He seems very upset
+that his chanting has been disturbed.
+~
+57550 32769 136249361 33556616 -600 S
+25 15 18 10d9+500 5d5+30
+16675 76375
+8 8 1
+2 0 18 17 17 17 16 14
+SKILL=SPELL_BLINDNESS 60
+SKILL=SPELL_HAIL_STORM 60
+SKILL=SPELL_CURSE 60
+SKILL=SPELL_HARM 60
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SPELL_POISON 60
+SKILL=SPELL_CAUSE_CRITIC 60
+SKILL=SPELL_HEAL_MINOR 60
+SKILL=SPELL_EARTHQUAKE 60
+#5310
+mob mine leader duergar dwarf~
+the Mine leader~
+A Duergar Mine Leader is here giving directions.
+~
+The duergar mine leader is dressed in ringmail armor.  He wields a
+hammer with stains of blood on it.
+~
+57418 1 136249361 33554464 -500 S
+16 24 28 30d9+85 5d5+6
+4000 4890
+8 8 1
+2 0 16 14 15 15 11 13
+#5311
+mob wraith lesser~
+the lesser Wraith~
+A misty-looking being seems startled by your prescence, before suddenly lunging at you.
+~
+A ghostly form flies at you at incredible speed.
+~
+33554506 1 136249361 604241928 0 S
+25 15 18 11d19+2000 5d5+30
+17250 80000
+8 8 0
+0 0 17 17 17 17 16 15
+#5312
+mob Shulk duergar~
+Shulk~
+Shulk the duergar dwarf, door guardian to the hall stands here.
+~
+Shulk stands before the great door.  He is a massively built duergar dwarf.
+His eyes glow red, yet you can still see your reflection in them.  Shulk
+strengthens his position before the door.
+~
+74 32769 136249361 33816584 -700 S
+20 20 24 55d19+1000 5d5+15
+3000 61250
+8 8 1
+0 0 16 16 15 15 14 14
+SKILL=SPELL_GAS_BREATH 50
+#5313
+mob Captain duergar dwarf~
+the Captain of Arms~
+The Duergar Captain stands mightily before you.
+~
+The duergar Captain of Arms stands stoicly before you. He looks at you
+and laughs.  This dwarf is armed and armored.  You sense that he is quite
+ready for battle.
+~
+78 32769 136249361 33554504 -700 S
+22 18 22 80d19+1000 5d5+20
+9985 67350
+8 8 1
+2 0 17 16 15 15 14 11
+SKILL=SKILL_HUNT 54
+#5314
+mob Kuo Kan embassary~
+Kuo Kan the embassary of old~
+Kuo Kan, the embassary of old, stands here.
+~
+A stout oriental man stands in front of you.  He is 5'8" tall but you 
+consider him a big man.  You wonder what knowledge he possesses behind
+those angled eyes.
+~
+1342177358 1 136249361 1074004096 -5 S
+20 20 24 40d19+400 5d5+15
+5355 61475
+8 8 1
+1 6 16 18 14 14 12 14
+#5315
+mob Overlord~
+the Overlord~
+The Overlord rises from his throne and stands to look at you.
+~
+The Dark Overlord stands before you looking very uncompromising.  He seems
+to be radiating heat.  He is giant of a man, close to 10' tall weighing
+close to 500 pounds and all of it is muscle.  He does not seem too pleased
+with your unannounced entrance.
+~
+8708110 32769 136249361 8 -1000 S
+30 13 5 79d19+1000 9d5+35
+32250 191000
+8 8 1
+0 5 18 19 16 16 16 14
+SKILL=SPELL_LIGHTNING_BREATH 70
+#5316
+mob Warlord duergar dwarf~
+the Duergar Warlord~
+The Duergar Warlord looks very imposing.
+~
+The eye's of this duergar glow birght red.  His movements seem almost
+unnatural as if he is possessed by some alien being.  He is however, very
+very quick.  He wields a great axe almost twice his own size, yet he
+does not seem to have any difficulty in handling it.  This duergar is no
+doubt 'king' of these parts.
+~
+262222 1 136249361 301990088 -1000 S
+28 15 11 22d19+1000 8d5+30
+25000 85000
+8 8 1
+2 0 19 19 16 17 17 17
+#5317
+mob Nightmare demon lord~
+Nightmare the Demon Lord~
+Nightmare the Demon Lord stands imposingly before you.
+~
+That which stands before you is nothing less than a true demon.  It is
+black in the utmost!  No light escapes from its body save the burning
+glow of its eyes.  It does not seem to talk yet you hear within your
+mind the distinct words, "So be it...you are dead."
+~
+335863882 32769 136249361 67371208 -1000 S
+33 10 -4 20d19+1800 8d5+50
+59500 200000
+8 8 0
+7 0 19 21 18 17 16 15
+SKILL=SPELL_BLINDNESS 76
+SKILL=SPELL_BURNING_HANDS 76
+SKILL=SPELL_COLOUR_SPRAY 76
+SKILL=SPELL_CURSE 76
+SKILL=SPELL_ENERGY_DRAIN 76
+SKILL=SPELL_FIREBALL 76
+SKILL=SPELL_LIGHTNING_BOLT 76
+SKILL=SPELL_MAGIC_MISSILE 76
+SKILL=SPELL_SLEEP 76
+SKILL=SPELL_FIRE_BREATH 76
+#5318
+mob water wierd~
+a water wierd~
+You sense the water has a will of its own.
+~
+You see nothing but the water.
+~
+319562 1 136249361 84934784 0 S
+15 25 29 10d9+55 5d5+4
+3225 4775
+8 8 0
+0 0 14 13 12 14 10 10
+#5319
+mob goblin slave~
+a goblin~
+A goblin works here, doing the biddings of his masters.
+~
+A goblin slave looks pretty tired.  He almost seems sad.
+~
+200 1 136249361 0 -450 S
+3 34 38 5d5+15 2d2+2
+239 125
+8 8 1
+21 0 11 12 11 10 8 6
+#5320
+mob demiwolf wolf~
+the Demiwolf~
+A demiwolf skulks here, guarding its master.
+~
+The demiwolf bares its fangs as it considers eating you.
+~
+17825866 1 136249361 32 -500 S
+14 25 30 9d19+100 5d5+2
+2115 4150
+8 8 0
+0 0 15 14 12 12 13 11
+#5321
+mob cat black~
+the wizard's black cat~
+The wizard's black cat is here.
+~
+A black, domestic cat is here, looking a little bit scared at your 
+prescence.
+~
+327882 1 136249361 262144 100 S
+2 35 38 5d5+6 1d1+2
+200 62
+8 8 2
+0 0 11 12 9 9 9 7
+#5322
+mob duergar guard roaming~
+a Duergar~
+A Duergar warrior stands here, wielding an axe.
+~
+You see a fairly ugly, grey-skinned, duergar dwarf.  He smiles weakly at
+you as he brandishes his axe.
+~
+57420 1 136249361 34078720 -500 S
+18 22 26 20d15+140 5d5+3
+4410 5455
+8 8 1
+0 0 16 14 13 14 11 14
+#5323
+mob librarian apparition~
+an apparition~
+You faintly make out the image of a ghostly librarian.
+~
+An apparition of a librarian hovers near some books.
+~
+33554634 1 136249361 1049632 -10 S
+8 30 35 9d5+24 3d3+3
+350 248
+8 8 2
+0 0 13 13 12 13 11 11
+#5324
+mob rat~
+a rat~
+A rat is scurrying here.
+~
+An small, dirty rat hurries from shadow to shadow.
+~
+74 32769 136249361 4096 0 S
+1 35 39 5d5+2 1d1+2
+200 34
+8 8 0
+0 0 11 12 9 9 9 7
+SKILL=SKILL_HUNT 12
+$~
+#999999

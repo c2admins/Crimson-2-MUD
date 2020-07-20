@@ -1,0 +1,482 @@
+#8625
+mob Dove Falconhand Knight Myth Drannor~
+&bDove &cFalcon&bhand,&cK&bnight &nof &cM&byth &cD&brannor&n~
+Dove Falconhand, Knight of Myth Drannor
+~
+Dove Falconhand, wife of Florin Falconhand, stand before you.  Secretly one of Mystra's Choosen
+she is one of the Seven Sisters.  Like all her kin, she us tall (about six feet tall), shapely
+and has long magnificent hair of silvery hue.  Graceful and quiet, Dove is kind, calm, and firm.
+She stands here quietly playing her magical harp, aware of your presence yet entirely unconcerned.
+~
+1074790666 1 136249361 67117186 1000 S
+48 10 -40 100d100+36000 75d4+35
+3000000 1444000
+8 8 2
+0 1 23 18 16 23 15 13
+SKILL=SPELL_HEAL_MAJOR 99
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_TYPE=101
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=101
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_TYPE=101
+#8626
+mob Florin Falconhand, Knight of Myth Drannor~
+&bFlorin &cFalcon&bhand, &cK&bnight &nof &cM&byth &cD&brannor&n~
+Florin Falconhand, Knight of Myth Drannor
+~
+Florin Falconhand stands beside his wife, Dove.  His stature appears only slightly larger than
+Dove's.  Florin is the greatest of all the Knight's, although he appears more as a elder
+statesman for Elminster and personal bodyguard to his wife.  Covered head to toe is glowing
+platemail, with his hand gently resting on a dazzingly long sword, Florin appears
+much like the folk heroes of old.  
+~
+8970 1 136249361 1073750144 1000 S
+48 0 -37 100d100+37000 100d3+66
+1000000 1700000
+8 8 1
+0 0 25 15 16 25 14 25
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_TYPE=103
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_SKILL=60
+ATTACK_TYPE=103
+#8627
+mob Cylyria Dragonbreast Knight Myth Drannor~
+&bCylyria &cDragon&bbreast,&cK&bnight &nof &cM&byth &cD&brannor&n~
+Cylyria Dragonbreast, Lady Knight of Myth Drannor
+~
+Cylyria was once famous from the Sea of Fallen Stars to the Sword Coast for her bell-like
+singing voice that could dip to warm, smoky low notes and soar ringing and clear to the heights.
+She is soft-spoken, gentle, and grave, with a slim, graceful beauty that has made more
+that a score of young male Harpers, each generation, to follow her aoubt in helpless admiration.
+Cylyria's long straight white hair are contrasted by her large eyes, of a deep emerald hue.
+~
+8458 1 136249361 67117184 1000 S
+48 0 -35 100d100+50000 100d5+40
+2696969 1500000
+8 8 2
+0 0 16 16 16 25 12 25
+SKILL=SPELL_HEAL_MAJOR 99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#8628
+mob Elminster Old Mage~
+&SE&Sl&Sm&Si&Sn&Ss&St&Se&Sr&n, the Old Mage~
+Elminster, the "Old Mage"
+~
+Elminster, Sage of Shadowdale, is veiled in a constant glow of the Moon.  Flowing cerulean robes
+hide all but his elderly, slender hands.  A matching hat adorns his head.  From under its 
+bill you notice billowing smoke rings gliding gently around a huge pipe.  The "Old Mage"
+as he is often called has forgotten more spells than most mages have learned.  It is said
+he also carries with him many artifacts of generations past and some of generations future.
+~
+532746 262145 136249361 2121870 0 S
+48 10 -37 100d100+52000 50d11+75
+5000000 2000000
+8 8 0
+0 0 25 25 25 25 25 12
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+#8629
+mob Poison Giant~
+&gPoison Giant&n~
+The legendary Poison Giant
+~
+Before you stand the legendary Poison Giant.  For centuries he has roamed the lands destroying everything
+in his path.  He is so huge be defies description.
+~
+25288792 1 136249361 1075839112 0 S
+48 10 25 1d1+50000 10d100+100
+5000000 2000000
+8 8 0
+0 0 25 15 15 3 14 14
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#8630
+mob Khelben Blackstaff Arunson~
+&KKhelben "&rB&Kl&ra&Kc&rk&Ks&rt&Ka&rf&Kf" Arunson&n~
+&KKhelben "&rB&Kl&ra&Kc&rk&Ks&rt&Ka&rf&Kf" Arunson&n
+~
+Khelben Arunson is one of the noble do-gooders of the Realms.  He is a not-so-secret Lord of
+Waterdeep, and the best known mage of that city.  Khelben spends most of his time outside
+this plane.  Khelben has a temper and is armed with a cache of weapons, staffs, and other
+magical items at his disposel.  His personal honor code is as restrictive as most paladins 
+and will never stop until he see's these lands rid of evil.
+~
+1048586 1 136249361 2105476 1000 S
+48 0 -35 10d125+32000 100d20+100
+3333333 2000000
+8 8 0
+0 0 17 17 15 25 13 11
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#8631
+mob Mari Al'maren~
+&rMari Al'maren&n, &cBow&brider&n of &cM&byth &cD&brannor&n ~
+&rMari Al'maren&n, &cBow&brider&n of &cM&byth &cD&brannor&n 
+~
+A young and enthusiastic Harper, Mari has a fiery spirit and a zeal that borders on wrecklessness.  
+She is sufficently skilled with her longbow, &rRomoquenaro&n the "Fiery Envoy", that she
+can cut ropes from a distance with her arrows.  Her lack of experience is more than made up
+by her growing coolness in battle.
+Mari has dark auburn hair, and is wearing her usual breeches and boots of soft buckskin
+and a dark forest green tunic..
+~
+8970 1 136249361 128 500 S
+48 5 -30 10d100+28000 100d2+60
+750000 750000
+8 8 0
+0 0 16 16 15 25 14 14
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=107
+#8632
+mob Galvin~
+&SG&Sa&Sl&Sv&Si&Sn&n~
+&SG&Sa&Sl&Sv&Si&Sn&n
+~
+This druid has studied the ways of nature for almost two decades.  He has been an active
+member of the Knights for the last decade.  Galvin hates and avoids cities, won't eat meat
+and is the master of herbal lore and remedies.  He is at home in the wild.  He readily 
+shifts forms between a variety of beasts to keep in harmony to his surroundings.
+Galvin has long, blond hair, soft green eyes, high cheeckbones, and a tanned, athletic body.
+~
+778 1 136249361 8320 0 S
+48 6 -20 10d100+29000 100d13+55
+100000 1000000
+8 8 0
+0 0 23 15 14 23 12 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#8633
+mob Brenna Greycloak~
+&yBrenna &KGrey&ycloak&n~
+&yBrenna &KGrey&ycloak&n
+~
+Little more than 5 feet tall, Brenna has dark red curly hair, earth brown eyes, and an extensive
+wardrobe.  Able in battle, she has been throughout the lands with her friends Galvin and
+Wynter.  Brenna has been taught by Elminster himself in the ways of Mystra and without error
+can repeat many of the spells very few other wizards have even heard about.
+~
+8714 1 136249361 128 1000 S
+48 6 -20 100d10+27500 50d20+50
+800000 800000
+8 8 0
+0 0 17 18 16 22 14 13
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+#8634
+mob Wynter~
+&KW&wy&Kn&wt&Ke&wr&n~
+&KW&wy&Kn&wt&Ke&wr&n
+~
+Wynter is a seven-foot tall centaur who ooks like a glossy black warhorse topped with
+the muscular torso of a man with inky black hair.  He is armed with a longbow, a staff
+(which appears to be large enough for even a giant).  A farmer by trade, Wynter
+is not a good hunter but the many battle scars lining his flanks show untold
+experience in battle.
+~
+16777994 1 136249361 1073750016 1000 S
+48 2 -30 100d10+45000 100d4+25
+1000000 650000
+8 8 0
+0 0 23 15 14 25 12 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#8635
+mob Arilyn Moonblade~
+&wA&Kr&wi&Kl&wy&Kn &wMoon&Kblade&n~
+&wA&Kr&wi&Kl&wy&Kn &wMoon&Kblade&n
+~
+Arilyn is the daughter of a human ranger, Bran Skorlson, and the moon-elven warrior-mage
+Princess Amnestria of Evermeet, who both died early in Arilyn's life.  She took the name
+Moonblade because her prized weapon was the only thing left to her from her parents.
+She has always wanted to be a warrior like her mother and is known to the Knights
+as one of the most stubborn, hot-headed, and unreasonable people any of them
+has ever met.  She takes fierce pride in her ability to stand it alone despite long odds
+Arilyn stand a cool six feet tall, and looks deceptively delicate. Her voice comes through
+as a clear, resonant alto.
+~
+1056840 1 136249361 8320 1000 S
+48 0 -37 100d100+30000 100d6+30
+1200000 1200000
+8 8 0
+0 0 16 15 14 23 12 14
+SKILL=SPELL_HEAL_MAJOR 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_TYPE=103
+#8636
+mob Finder Wyvernspur~
+&KF&Bi&Kn&Bd&Ke&Br &KW&By&Kv&Be&Kr&Bn&Kspur&n~
+&KF&Bi&Kn&Bd&Ke&Br &KW&By&Kv&Be&Kr&Bn&Kspur&n
+~
+Finder was once one of the Harpers biggest disappointments.  His sin was vanity: he wanted
+his songs to live forever- and not be twisted by others, but sung exactly like he sung them.
+His efforts to magically record his works lead to the creation of the Finder's Stone.
+He then tried to create an immortal simulacrum of himself and failed horribly, killing
+2 of his assistants.  Harper seniors sentanced his name and his songs forbidden and for
+two centuries he lived without being known.  Although his sentance has since been lifted
+his days as a Harper are long gone, still Elminster takes alot of interest in him.@
+~
+1048586 1 136249361 8320 1000 S
+48 4 -32 100d10+35000 100d3+30
+2000000 1000000
+8 8 0
+0 0 17 18 14 23 15 14
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=1
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=1
+ATTACK_TYPE=107
+#8637
+mob Olive Ruskettle~
+&POlive &WRuskettle&n~
+&POlive &WRuskettle&n
+~
+Although this irrepressible, charismatic, short, hazel-eyed, and red-headed bundle of troubles
+styles herself a "bard," she has never managed to find the time for formal bardic training.
+Acquiring the name of a justly famous bard, Olav Ruskettle, in a game of dice, Olive has
+never looked back.  Unfortunately her foresight isn't very good either.  She wanders the realms
+popping in when least expected -or wanted for that matter.  She has no the less survived many
+battles with ancient dragons, gods, and demons.  Always interested in food, drink, and song
+she is the life of any party.
+~
+10 1 136249361 128 1000 S
+48 5 -40 35d100+31000 100d4+20
+4545000 1000000
+8 8 0
+0 0 16 18 15 25 12 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#8638
+mob Sheenra Duth~
+&WSheenra &bD&Wu&bt&Wh&n~
+&WSheenra &bD&Wu&bt&Wh&n
+~
+Sheenra Duth is the nature born thief.  Even from the earliest age she had mastered all
+the most contemporary sleight of hand techniques.  Born to Athkatla, a wood elf hunter, and
+his human wife, Bella.  Sheenra is the best of both worlds.  Without the keen elven looks she
+can pass as full human, yet graceful enough to pass as elven royalty.  The master of all
+"provision replacement" jobs the knights take up she is casually resting in Myth Drannor
+In the forest
+@ a few months more.
+~
+10 1 136249361 8320 0 S
+48 5 -40 100d10+41000 100d4+35
+4500000 1200000
+8 8 0
+0 0 17 17 16 25 13 14
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=107
+#8639
+mob Minitiper Moonsilver~
+&WMini&Ktiper &WM&Ko&Wo&Kn&Wsilver&n~
+&WMini&Ktiper &WM&Ko&Wo&Kn&Wsilver&n
+~
+The most famous traveler from the lands of the Sword Coast.  He is the only mercenary to have
+stormed the ghoul-hold of Hellgate Keep and lived to tell the tale.  Minitiper has blue eyes
+that grow very dark when anger, or shine luminously blue when he is excited or delighted.
+An old burn scar runs diagonally across the back of his right hand.  He is known as the 
+"Lonely Harpist".  
+~
+8202 1 136249361 8320 1000 S
+48 0 -39 100d10+55000 100d6+40
+1200000 1200000
+8 8 0
+0 0 16 17 14 23 15 11
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_TYPE=103
+#8640
+mob Knight Myth Drannor~
+&CK&bnight &Co&bf &CM&byth &CD&brannor&n~
+&CK&bnight &Co&bf &CM&byth &CD&brannor&n
+~
+A knight of Myth Drannor stand here quietly awaiting orders from his commander.
+~
+72 1 136249361 8320 1000 S
+42 0 -20 10d100+10500 100d2+40
+500000 400000
+8 8 0
+0 0 25 16 14 21 14 15
+ATTACK_SKILL=99
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+#8641
+mob Holy Paladin Myth Drannor~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n
+~
+A proud paladin of Myth Drannor is resting here after a long watch.  He is lightly dosing off.
+~
+10 1 136249361 8320 1000 S
+43 0 -30 10d100+13000 100d10+35
+1200000 700000
+8 8 0
+0 0 25 15 14 16 14 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#8642
+mob Guardian Myth Drannor~
+&yGuardian &nof &CMy&bth &CD&brannor&n~
+&yGuardian &nof &CMy&bth &CD&brannor&n
+~
+An elemental guardian of Myth Drannor. It is constantly changing forms.
+~
+3146250 1 136249361 8320 0 S
+43 4 -20 10d100+12000 100d2+20
+1000000 1000000
+8 8 0
+0 0 23 15 15 23 13 13
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#8643
+mob Holy Paladin Myth Drannor~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n
+~
+A proud paladin of Myth Drannor is resting here after a long watch.  He is lightly dosing off.
+~
+10 1 136249361 8320 1000 S
+43 0 -30 10d100+13000 100d10+35
+1000000 700000
+8 8 0
+0 0 25 15 14 16 14 14
+#8644
+mob Holy Paladin Myth Drannor~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n
+~
+A proud paladin of Myth Drannor is resting here after a long watch.  He is lightly dosing off.
+~
+10 1 136249361 8320 1000 S
+43 0 -30 10d100+13000 100d10+35
+1000000 700000
+8 8 0
+0 0 25 15 14 16 14 14
+#8645
+mob Holy Paladin Myth Drannor~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n
+~
+A proud paladin of Myth Drannor is resting here after a long watch.  He is lightly dosing off.
+~
+10 1 136249361 8320 1000 S
+43 0 -30 10d100+13000 100d10+35
+1000000 700000
+8 8 0
+0 0 25 15 14 16 14 14
+#8646
+mob Holy Paladin Myth Drannor~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n
+~
+A proud paladin of Myth Drannor is resting here after a long watch.  He is lightly dosing off.
+~
+10 1 136249361 8320 1000 S
+43 0 -30 10d100+13000 100d10+35
+1000000 700000
+8 8 0
+0 0 25 15 14 16 14 14
+#8647
+mob Holy Paladin Myth Drannor~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n~
+&wHoly Paladin &nof &CM&byth &CD&brannor&n
+~
+A proud paladin of Myth Drannor is resting here after a long watch.  He is lightly dosing off.
+~
+10 1 136249361 8320 1000 S
+43 0 -30 10d100+13000 100d10+35
+1000000 700000
+8 8 0
+0 0 25 15 14 16 14 14
+$~
+#999999

@@ -1,0 +1,434 @@
+#5300
+obj bracelet shadowy~
+10
+&wa sh&Kadowy brace&wlet&n~
+A shadowy bracelet is lying here.~
+~
+11 591556 0 4097
+0 0 10 0
+3 1500 1000
+A
+23 1
+A
+26 -1
+#5301
+obj axe dark~
+8
+&Ka dark axe&n~
+A dark, double-bladed axe lies here.~
+~
+5 1049172 0 8193
+1 3 10 3
+13 58000 15000
+A
+5 1
+A
+18 1
+A
+19 1
+A
+24 1
+#5302
+obj axe two-handed giant~
+10
+&wa &ygiant &wtwo-handed &Kaxe&n~
+A giant two-handed axe, that smells of dried blood, lies here.~
+~
+5 1049158 0 8193
+3 8 4 3
+18 80000 30000
+A
+1 2
+A
+5 2
+A
+3 -3
+A
+19 2
+#5303
+obj broadsword sword grunding~
+10
+&Wgr&wu&Bnd&wi&Wng&n~
+Grunding, the dwarven-forged, broad sword lies here.~
+~
+5 2229571 0 8193
+8 4 10 3
+30 100000 50000
+E
+grunding enscription~
+The broad blade is made of an alloy of steel and silver.  A small
+enscription on the base of the blade reads, "Grunding  Wendol Slayer."
+~
+A
+1 2
+A
+5 2
+A
+2 -3
+A
+19 5
+#5304
+obj note parchment~
+100
+&wa parchment note&n~
+A parchment note lies wrinkled on the ground.~
+~
+16 262176 0 16385
+0 2 10 2
+1 0 5
+E
+note~
+Upon the aged parchment note, you see:
+The black dwarves, untrustworthy through and through, know not what
+they dig for.  Think them the diamonds, think I the amulet.  Four
+to the north from here and then two to the west through the hidden
+door, yes the hidden...and then down through the trap.  The amulet.
+~
+#5305
+obj hammer mining~
+20
+&wa &ymining &Khammer&n~
+A duergar, mining hammer lies in the dirt here.~
+~
+5 524352 0 8193
+0 2 10 3
+18 20000 5000
+A
+1 1
+A
+4 1
+A
+18 1
+A
+3 -2
+#5306
+obj girth duergar warlord~
+50
+&wa &Kduergar &yg&Wirt&yh&n~
+The girth of the duergar Warlord lies here.~
+~
+9 64 0 2049
+10 0 10 0
+5 4000 3500
+A
+1 1
+#5307
+obj cloak black grimvare~
+25
+&WGri&wm&pva&wr&We's &Kblack cloak&n~
+A short, black cloak decorated with symbols of evil gods, lies here.~
+~
+9 17830468 0 9
+10 0 10 0
+6 40000 10000
+A
+4 4
+A
+1 -2
+A
+12 20
+#5308
+obj hat feathered~
+10
+&wa &Wfeat&Kh&We&Kr&Wed &yhat&n~
+An extravagant-looking, feathered hat lies here.~
+~
+11 705 0 17
+0 0 10 0
+5 1000 250
+A
+24 1
+A
+6 1
+#5309
+obj tights pink~
+10
+&wa pa&Wir &Pof pink t&Wig&whts&n~
+A pair of bright, pink tights lie here.~
+~
+9 65600 0 33
+4 0 0 0
+4 4000 1500
+A
+14 15
+#5310
+obj ring gold shiny overlord~
+10
+&wa sh&Winy &Ygold &Wr&wing&n~
+A gold ring demands your attention.~
+~
+11 193 0 3
+0 0 10 0
+4 0 150
+A
+1 -10
+A
+13 -25
+#5311
+obj plate armor duergar~
+7
+&wdue&Krg&yar-plate &Kar&wmor&n~
+A suit of duergar-plate armor has been left here.~
+~
+9 17830484 0 9
+15 0 0 0
+15 50000 24000
+A
+19 2
+A
+18 2
+A
+13 10
+#5312
+obj sword magnificent cursed~
+20
+&Wa magnificent &Ksword&n~
+A magnificent-looking sword lies in the dirt here.~
+~
+5 524418 0 8193
+0 3 6 3
+28 50000 12500
+A
+19 2
+#5313
+obj mug ale frothy~
+100
+&wa &Wfrothy &wmug of &yale&n~
+A frothy mug of ale sits here.~
+~
+17 262144 0 16385
+4 4 4 0
+2 5 10
+E
+grunding~
+~
+A
+3 2
+#5314
+obj tie bow~
+10
+&Ka bow-tie&n~
+A black, bow-tie lies here.~
+~
+9 64 0 5
+5 0 0 0
+3 1000 1000
+A
+32 -1
+A
+6 2
+A
+1 -1
+#5315
+obj candle black~
+10
+&Ka black can&wd&Yle&n~
+A black candle lies in the dirt here.~
+~
+1 0 0 65537
+0 0 200 0
+2 120000 25000
+A
+3 2
+A
+4 1
+A
+32 -1
+A
+26 -1
+#5316
+obj chest wooden~
+100
+&ya large mahogany chest&n~
+&yA large mahogany chest sits in the center of the room.&n~
+~
+15 0 0 0
+2000 8 5328 0
+200 15000 5000
+#5317
+obj note warlord~
+100
+&wa &Kblackened&w note&n~
+A blackened note lies here buried by some dirt.~
+~
+16 262144 0 1
+0 0 10 0
+1 5 5
+E
+note black warlord~
+Written in a dark red ink are the words:
+
+I will give you the lands of the shire and their underground domain
+also you will keep 70% of the diamonds found...but the   g  T
+is mine!
+
+A few of the words seem to be impossible to read because the note is
+somewhat scorched.
+~
+#5318
+obj book war overlord~
+10
+&ya book of &Kw&ra&Kr&n~
+A book of war lies here.~
+~
+11 524288 0 16385
+0 0 10 0
+5 10000 17500
+A
+19 2
+#5319
+obj book wisdom overlord~
+10
+&ya book of &wwisdom&n~
+A book of wisdom lies on the floor.~
+~
+11 1048576 0 16385
+0 0 10 0
+1 100000 11000
+A
+4 2
+A
+12 20
+#5320
+obj bread loaf~
+100
+&ya loaf of b&Wrea&yd&n~
+A loaf of bread has been left here.~
+~
+19 0 0 16385
+15 0 10 0
+2 50 5
+#5321
+obj caviar can~
+100
+a can of caviar~
+A can of caviar has been left here.~
+~
+19 0 0 16385
+12 0 10 0
+2 200 50
+#5322
+obj sword glamdring~
+5
+&WGl&wa&Cmdr&wi&Wng&w, the &rmage &Ksword&n~
+A thin, longsword has been left here unattended.~
+~
+5 2220099 0 8193
+8 3 10 3
+13 100000 35000
+E
+thin longsword glamdring~
+~
+A
+18 4
+A
+3 2
+A
+19 4
+#5323
+obj sword short overlord~
+100
+&wa short&Ksword&n~
+A shortsword is here.~
+~
+5 0 0 8193
+0 1 10 3
+12 400 150
+#5324
+obj diamond small~
+100
+&Wa small, sparkling diamond&n~
+A small, sparkling diamond lies here.~
+~
+20 0 0 16385
+10000 0 0 0
+1 10000 5
+#5325
+obj dagger hobart sharp~
+10
+&wHobart's &Kdagger&n~
+Someone has dropped a very Sharp Dagger here.~
+~
+5 1048576 0 8193
+0 4 4 11
+6 80000 20000
+A
+19 5
+A
+18 1
+A
+3 -1
+A
+1 -1
+#5326
+obj potion purple overlord~
+100
+&wa &ppurple&w potion&n~
+A potion has been left here.~
+~
+10 262144 0 16385
+15 16 14 36
+2 500 5
+#5327
+obj key underworld~
+2
+&Kkey to the underworld&n~
+A dark key has been left here.~
+~
+18 262152 0 16385
+5327 0 10 0
+1 5 5
+#5328
+obj key mahogany~
+2
+&ya wooden key&n~
+A mahogany key is here.~
+~
+18 262152 0 16385
+5328 0 10 0
+1 5 5
+#5329
+obj dwarfstone charm~
+1
+&wa dw&Ka&yrfst&Ko&wne &Wcharm&n~
+Someone has left a beautiful charm here.~
+~
+9 2097152 0 5
+16 0 0 0
+10 12000 20000
+A
+19 3
+A
+18 1
+A
+14 -15
+#5330
+obj amulet white gold~
+10
+&wa &Wwhite &Ygold &wamulet&n~
+A white gold amulet lies in the dust.~
+~
+9 2099201 0 5
+9 0 10 0
+1 100000 25000
+A
+3 2
+A
+12 30
+A
+24 -5
+A
+31 -1
+#5331
+obj potion white chalky~
+100
+&Wa white potion&n~
+A chalky, white potion lies here.~
+~
+10 262144 0 1
+20 106 75 33
+1 5 5
+A
+1 -1
+$~
+#999999
