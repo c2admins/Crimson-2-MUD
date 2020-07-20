@@ -1,0 +1,375 @@
+#1750
+mob cerberus~
+Cerberus~
+Cerberus, guardian of the Great Gate is standing here.
+~
+You gaze apon a very large, very unfriendly looking creature.  It has three
+heads but you can tell that each is that of some kind of dog.  Your skin crawls
+as the creature emits a low snarl.
+~
+1099030542 32769 136249393 136 -1000 S
+45 1 -24 2d2+13050 9d7+35
+2500000 800000
+8 8 0
+0 0 16 17 14 16 13 14
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_TYPE=106
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=106
+#1751
+mob lost soul~
+Lost Soul~
+A Lost Soul stands here.
+~
+   You see a person, kinda, walking around the room moaning curses to his
+captors.  He looks to be old and also quite transparent.    
+~
+1075052552 32769 136249361 67108866 -1000 S
+41 2 -23 100d30+13000 10d5+30
+750000 250000
+8 8 1
+0 0 17 17 16 14 15 11
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 60
+SKILL=SKILL_FOURTH 40
+SKILL=SKILL_HUNT 99
+#1752
+mob tormented spirit~
+Tormented Spirit~
+A Tormented Spirit rests before you.
+~
+   You gaze apon the figure of a female, long deceased.  You notice the
+old-fashioned clothing.  You also notice the transparency of the form.    
+~
+1075052552 4227073 136249361 1048576 -1000 S
+41 2 -20 5d100+13500 15d5+20
+750000 250000
+8 8 2
+0 0 17 16 15 15 15 12
+SKILL=SKILL_SECOND 85
+SKILL=SKILL_THIRD 65
+SKILL=SKILL_HUNT 99
+#1753
+mob hyperion~
+Hyperion~
+Hyperion, the Sun Titan stands here.
+~
+   You look straight ahead to only be able to see his ankles.  He stands about
+100 feet tall and weighs much, much more than that.  He has long, black hair
+and a very stern face.
+~
+8712202 2129921 136249361 2097288 -1000 S
+46 0 -30 45d45+20000 19d18+20
+3100000 1000000
+8 8 1
+0 0 17 18 14 15 15 11
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_SECOND 95
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 85
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_EARTHQUAKE 99
+#1754
+mob torture master~
+Torture Master~
+The Torture Master stands here.
+~
+Your first thought is, wow.  He stands about 8 feet tall and looks to weigh
+about 300 pounds of muscle.  He is wearing a black robe and hood.  He is
+beckoning you to come closer
+~
+1074028554 32769 136249361 2097288 -1000 S
+42 2 -25 70d15+10000 10d13+10
+1250000 500000
+8 8 1
+0 0 16 18 14 15 12 12
+SKILL=SPELL_FIRE_BREATH 50
+SKILL=SKILL_SECOND 70
+SKILL=SKILL_THIRD 40
+SKILL=SKILL_HUNT 99
+#1755
+mob pain elemental~
+The Pain Elemental~
+The Pain Elemental hovers nearby.
+~
+You gaze upon a being that resembles a shaved ape.  It emits a growl as
+it charges you.
+~
+42328074 5537793 136249361 1074790536 -1000 S
+48 0 -30 100d10+39999 30d25+60
+3500000 1500000
+8 8 0
+0 0 16 18 14 14 15 15
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 60
+SKILL=SKILL_FOURTH 30
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+#1756
+mob harpy~
+A Harpy~
+A Harpy hovers here.
+~
+You look up to see a female figure, with wings.  It is green and looks like
+a human female with green skin and large wings.  Yours ears beg for mercy as
+the harpy screams at you.
+~
+1090818062 32769 136249361 16392 -1000 S
+40 4 -20 55d70+10000 10d8+20
+650000 240000
+8 8 2
+0 0 16 17 16 16 12 12
+SKILL=SKILL_SECOND 60
+SKILL=SKILL_THIRD 30
+SKILL=SPELL_HEAL_MINOR 75
+SKILL=SKILL_HUNT 99
+#1757
+mob wraith~
+A Wraith~
+A Wraith stands here, losing body parts.
+~
+YUCK!  You see an almost totally rotted corpse walking around the room,
+eating the flesh of some poor victim.  You notice it has no eyes, just sockets.
+~
+1107628040 32769 136249361 8 -1000 S
+41 2 -25 20d90+15000 15d5+30
+750000 350000
+8 8 0
+0 0 16 16 14 14 12 15
+SKILL=SPELL_ACID_BREATH 50
+SKILL=SKILL_SECOND 70
+SKILL=SPELL_MAGIC_IMMUNE 50
+SKILL=SKILL_HUNT 99
+#1758
+mob medusa~
+Medusa~
+Medusa, the Gorgon stands here.
+~
+You look at her and behold the most hideous creature you have ever laid eyes
+on.  She is about 15 feet from her snake-like tail to her hideous head.  You
+also notice the snakes she has instead of hair, they seem to beckon you ever
+closer.
+~
+33939466 32769 136249361 136 0 S
+43 1 -26 50d10+10000 10d30+50
+1500000 550000
+8 8 2
+0 0 17 16 16 15 14 13
+SKILL=SKILL_PARRY 60
+SKILL=SPELL_GAS_BREATH 70
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 50
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_HOLD_PERSON 99
+SKILL=SPELL_FIRELANCE 99
+#1759
+mob queen cleavage~
+Queen Cleavage~
+The Queen Cleavage stands here, striking a pose.
+~
+WOW!  Are those real?  Other thoughts run through your head like how much
+and for how long.
+~
+394 294913 136249361 0 -1000 S
+35 8 -10 40d5+4100 9d8+9
+325000 205000
+8 8 2
+0 0 17 15 15 15 12 14
+SKILL=SKILL_SECOND 75
+SKILL=SKILL_HUNT 99
+#1760
+mob guido~
+Guido~
+Guido, the Deranged Pimp stands here.
+~
+You see a small man, weighing about one hundred twenty pounds and standing
+about five feet tall.  He is wearing a white vest, LOTS of gold rings, and LOTS
+of gold necklaces.  He looks very intent on making some money tonight.
+~
+1208225802 32769 136249361 136 -1000 S
+41 2 -25 10d10+9000 9d8+10
+750000 350000
+8 8 1
+0 0 16 18 14 14 12 11
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 70
+SKILL=SKILL_FOURTH 60
+SKILL=SKILL_HUNT 99
+#1761
+mob zombie master~
+The Zombie Master~
+The Zombie Master stands here
+~
+You behold a half rotten thing that seems to be a part of this room itself.
+It is wearing very torn green pants and a black shirt.
+~
+33677322 2129921 136249361 2097288 -1000 S
+44 1 -30 5d10+15000 15d15+35
+2000000 700000
+8 8 0
+0 0 16 17 14 14 13 15
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 60
+SKILL=SKILL_FOURTH 40
+SKILL=SPELL_HEAL_MEDIUM 80
+SKILL=SKILL_HUNT 99
+#1762
+mob gold beast~
+The Great Gold Beast~
+The Great Gold Beast stands here.
+~
+You behold a wonderful yet frightening sight, a gigantic beast made of solid
+gold.  Its golden lips curl as you approach, warning you to get out.
+~
+1166336008 32769 136249361 68157576 -1000 S
+42 1 -25 20d20+10000 10d15+50
+1300000 375000
+8 8 0
+0 0 16 18 14 14 15 15
+SKILL=SKILL_PARRY 40
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 40
+SKILL=SKILL_FOURTH 10
+SKILL=SPELL_HEAL_MINOR 60
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+#1763
+mob torturing daemon~
+A Torturing Daemon~
+A Torturing Daemon stands here.
+~
+An immense creature.  It looks as if it has ripped its own skin off with
+its own fingernails.  Its teeth drip with blood, while chunks of yellow 
+flesh fall from his mouth.
+~
+58843162 6324225 136249361 1074790600 -1000 S
+44 0 -30 10d20+15000 20d15+20
+2000000 800000
+8 8 0
+0 0 17 15 14 16 14 11
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 80
+SKILL=SKILL_FOURTH 40
+SKILL=SKILL_HUNT 99
+#1764
+mob sacrificial lamb~
+a sacrificial lamb~
+A Sacrificial lamb is tied here.
+~
+A pitiful sight.  It looks to be less than one year old.  You think hard
+about saving it.
+~
+16777354 1 136249361 0 1000 S
+10 30 34 2d2+125 4d2+3
+1000 1000
+8 8 0
+0 0 16 16 14 14 15 15
+#1765
+mob hades~
+Hades~
+Hades, Lord of the Dead stands before you.
+~
+You see a rather handsome, and rather large man here.  He is wearing some
+kind of black armor that seems to be alive.  His eyes glow red as you walk
+near.
+~
+42328074 2392065 136249361 2097290 -1000 S
+48 0 -30 50d50+40000 20d15+50
+3500000 1500000
+8 8 1
+0 0 17 16 15 16 12 12
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 80
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_TYPE=100
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+#1766
+mob satan~
+Satan~
+Satan, king of Traitors stands here.
+~
+You see the most horrible sight of your life.  It stands about thirty feet
+tall, has three heads, and three diffrent sets of wings.  It utters a short
+curse, then attacks.
+~
+12967950 32769 136249361 1073741832 -1000 S
+47 0 -35 50d90+40000 10d10+45
+3350000 1100000
+8 8 1
+0 0 17 18 14 14 13 12
+SKILL=SKILL_PARRY 70
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=90
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+#1767
+mob azrael angel death~
+Azrael, The Angel of Death~
+Azrael, The Angel of Death stands here.
+~
+I am Azrael. The Angel of Death.
+~
+10 32769 136249361 67108994 0 S
+45 0 -30 50d50+15000 12d14+20
+2500000 900000
+8 8 1
+0 0 16 16 16 14 12 14
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SMITE 99
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_TYPE=100
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=100
+$~
+#999999

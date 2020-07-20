@@ -1,0 +1,324 @@
+#1500
+mob dweller dark shadow~
+a Dark Dweller~
+A dark shadow passes across your vision.
+~
+A dark shadow in a roughly human form is all that you can make out.  No doubt
+these creatures come from the spirit world.  You have heard legends of these
+things, called dark dwellers.  They are only found in a place of death.
+~
+1209016392 4227073 136249361 100663304 -200 S
+30 13 5 10d39+3000 5d5+7
+293 185000
+8 8 0
+7 0 16 13 9 18 15 9
+SKILL=SKILL_SECOND 50
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#1501
+mob Gromen apprentice mage~
+Gromen~
+Gromen, an apprentice to Gerin, glares at you.
+~
+Gromen is dressed in green robes trimmed with gold.  He is a stunning man,
+very big, even bear-like in size.  He could have been a great warrior, or
+perhaps he is a great warrior and just happens to be multi-talented.  Gromen
+seems to be quite concerned that you are here.  The magical tower defenses
+must have failed.
+~
+266830 1081345 136249361 16 50 S
+30 13 5 40d19+2800 8d5+35
+300 182000
+8 8 1
+1 1 19 18 15 13 16 11
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_DETECT_INVISIBLE 95
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SKILL_EXTRA_DAMAGE 50
+SKILL=SKILL_DODGE 60
+SKILL=SPELL_DARKSIGHT 90
+SKILL=SPELL_CONFLAGRATION 99
+#1502
+mob Ziljus apprentice mage~
+Ziljus~
+Ziljus, apprentice to Gerin, seems surprised to see you.
+~
+Ziljus is dressed in a red and black cloak that travels from his neck to his
+feet. As soon as he sees you he says, "How on earth did you get passed the
+dark dwellers?  The tower defenses must be weakening!"
+~
+262730 1081345 136249361 67108896 0 S
+28 15 11 30d19+2150 5d7+35
+260 86500
+8 8 1
+1 1 11 19 17 15 7 11
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_CURSE 99
+SKILL=SPELL_INVISIBLE 60
+SKILL=SPELL_LIGHTNING_BOLT 94
+SKILL=SPELL_DARKSIGHT 90
+SKILL=SPELL_HASTE 99
+#1503
+mob Tester apprentice mage~
+Tester~
+Tester, an apprentice to Gerin, looks slightly burnt.
+~
+Tester is dressed in a pair of shorts and a yellow t-shirt.  His hair looks
+slightly burnt on his left side, and his face is red on that side too.  Tester
+seems glad to see you.  Perhaps he would like you to share in a laboratory
+experiment with him.
+~
+1074004552 1605633 136249361 100663424 0 S
+28 15 11 10d19+1150 9d3+20
+250 85000
+8 8 1
+1 1 12 19 14 18 14 13
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_DETECT_INVISIBLE 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SECOND 45
+SKILL=SPELL_EARTHQUAKE 45
+#1504
+mob Nezryn Illvar vampire~
+Nezryn Illvar~
+Nezryn Illvar appears to be unaffected by your prescence.
+~
+His skin is a pale white, and his eyes glow with a blood red hue.  He smiles
+and bows, then continues to read his book.  He is wearing a long black cape
+over a black tunic and pants.  He makes no sound as he wanders around here,
+reading as he goes.
+~
+1076629580 32769 136249361 637796544 -500 S
+36 7 -14 10d39+2550 9d3+37
+900 215000
+8 8 1
+7 1 22 19 18 22 17 20
+SKILL=SPELL_CURE_CRITIC 99
+SKILL=SKILL_PARRY 20
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SECOND 50
+SKILL=SKILL_THIRD 10
+#1505
+mob Masa'Shing adventurer~
+Masa'Shing~
+Masa 'Shing, human adventurer, stands here, quite happy with himself.
+~
+A man from the temple of Shaolin stands before you.  His eyes are wide and
+frantic-looking, not from fright, but from exhiliration.  Masa 'Shing has
+found the entrance into Gerin's Tower, just like you, and is ready to kill
+everything to get to the bounty of gold and magic that lies in the peak of
+the tower.
+~
+315468 32769 136249361 33816640 -50 S
+32 11 -1 10d19+2800 2d5+25
+540 197500
+8 8 1
+1 4 16 12 14 16 16 14
+SKILL=SPELL_BLINDNESS 50
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_SANCTUARY 50
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 15
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 30
+SKILL=SPELL_HEAL_MINOR 85
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 50
+#1506
+mob Mathias senior apprentice~
+Mathias~
+Mathias, senior apprentice to Gerin, is startled to see you.
+~
+Mathias is dressed in a red velvet cloak with gold trimmings.  He has dark
+hair with ice blue eyes, giving him an eerie, but attractive look.  Mathias
+says, "I thought Gerin was testing us, but he would never allow intruders
+in the castle.  Something must be wrong with Gerin.  At any rate, you must
+die, so that i can fix things!"
+~
+1074008136 557057 136249361 100933832 0 S
+38 5 -18 10d19+3400 5d5+75
+3000 232000
+8 8 1
+1 1 11 20 18 16 12 14
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_POISON 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 5
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_PHASE_DOOR 99
+#1507
+mob chef swedish~
+the Swedish Chef~
+The Swedish Chef is here.
+~
+'Schmore-ne-bor-ne-bor', says the Swedish Chef!  He looks quite comical with
+big furry eyebrows, a fluffy mustache and his big white chef's hat.  You are
+quite sure you have seen him somewhere before.
+~
+330 1 136249361 33554432 100 S
+18 22 26 20d9+255 2d3+15
+45 5475
+8 8 1
+0 0 12 9 9 11 11 11
+#1508
+mob golem wood~
+a Wood Golem~
+A Wood Golem blocks your way.
+~
+A large wooden golem snaps a twig off its arms as it looks down to gaze at
+you. A strange moaning fills the air as the wood golem moves to block your
+way.
+~
+1082392650 32769 136249361 637534216 0 S
+36 7 -14 20d19+3500 3d9+55
+0 218000
+8 8 0
+0 0 22 12 10 15 16 7
+SKILL=SPELL_CURE_CRITIC 99
+SKILL=SKILL_DODGE 99
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#1509
+mob golem stone~
+a Stone Golem~
+A Stone Golem stands here, faithfully standing watch.
+~
+It is a big chunk of rock that has been magically formed into a giant
+creature. He stands here still guarding the door to Gerin's private des-
+mesnes.
+~
+1082396746 32769 136249361 100663432 0 S
+40 3 -22 20d9+6300 8d5+51
+0 300000
+8 8 0
+0 0 23 9 10 12 18 8
+SKILL=SKILL_BASH 99
+ATTACK_SKILL=45
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#1510
+mob spider wolf small~
+a wolf-spider~
+A small wolf-spider is here creeping along the wall.
+~
+A small furry wolf-spider is here creeping along the wall.  It stops, noticing
+you, noticing it.
+~
+72 1 136249361 33558560 0 S
+1 35 39 2d3+14 1d1+2
+0 38
+8 8 0
+0 0 12 10 10 9 10 8
+#1511
+mob roach~
+a roach~
+A disgusting roach scitters along the floor.
+~
+A large brown roach scitters a little too close to you.
+~
+72 1 136249361 33554464 0 S
+1 35 39 2d5+12 1d1+1
+0 32
+8 8 0
+0 0 11 10 11 10 10 8
+#1512
+mob Desdemona wraith body~
+the wraith of Desdemona~
+The frail, withered body of Desdemona opens its eyes and stares at you.
+~
+Desdemona is withered and wrinkled and skeletal in appearance.  Her body 
+appears to be well over a hundred years old, yet life seems to stay locked
+inside of it.  Deep black eyes stare at you from behind whispy thin bangs.
+As Desdemona moves off the bed, you have the sickly feeling that what is 
+before you is not alive.
+~
+1110216778 32769 136249361 639893544 -750 S
+41 2 -24 10d29+14400 3d3+22
+9000 400000
+8 8 2
+0 0 20 20 20 20 16 7
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_CURSE 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_CAUSE_CRITIC 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 30
+SKILL=SPELL_HEAL_MEDIUM 50
+ATTACK_SKILL=99
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#1513
+mob rock reaver~
+a Rock Reaver~
+A Rock Reaver emerges from the stone walls and glares at you.
+~
+A moving human-like rockform emerges from the walls and bares down at you.
+~
+1074061386 32769 136249361 33558728 0 S
+38 5 -18 10d19+3450 3d5+22
+0 230000
+8 8 0
+0 0 22 13 11 9 7 7
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+#1514
+mob Gerin arch mage~
+Gerin~
+An old and withered Gerin seems to stare at you through glazed eyes.
+~
+The old and withered mage Gerin looks to be the oldest living being you have
+ever seen. His skin is pale and wrinkled and only the slightest hint of red
+touches his cheeks. He appears to be staring directly at you, but you see
+no meaning behind his eyes. Gerin looks if his life is about to end: a stab
+with a pin might kill him, you think.
+~
+1074003994 32769 136249361 637665514 -400 S
+50 -59 -24 1d1+39999 25d25+90
+9500 375000
+8 8 1
+1 1 12 23 19 9 10 14
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 75
+SKILL=SPELL_METEOR_SWARM 99
+#1515
+mob bug goldbug~
+a goldbug~
+A small goldbug scampers across the floor.
+~
+A beetle scampers across the floor and the only reason you notice it, is
+because it seems to be made out of pure gold.  It as if Midas himself had
+touched it.
+~
+72 1 136249361 33554464 0 S
+1 35 39 3d3+11 1d1+1
+0 27
+8 8 0
+0 0 12 12 10 9 8 6
+$~
+#999999

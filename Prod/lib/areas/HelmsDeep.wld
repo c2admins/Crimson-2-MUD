@@ -1,0 +1,624 @@
+#23800
+&yHelms Deep Pass&n~
+  &wA cool wind blows in your face as travel northwards along Helms
+pass. This pass has been carved out of the mountain through the ages.
+Heading north you make your way to Helms Deep fortress.
+~
+187 536870920 0 41 99 1
+D0
+&yThe pass continues.
+~
+~
+0 -1 23801
+D3
+the moor
+~
+~
+0 -1 17658
+S
+#23801
+&yHelms Deep Pass&n~
+  &wAs you continue through Helms pass the cool wind continues to
+&wblow. With the wind brings a foul stench that fills the air.&n
+~
+187 8 0 1 99 1
+D0
+&yThe pass continues.&n
+~
+~
+0 -1 23802
+D2
+&yThe pass continues.
+~
+~
+0 -1 23800
+S
+#23802
+&yHelms Deep Pass&n~
+  &wThe foul stench in the air grows stronger, the pass widens you
+find your self just before Helms pass fortress. You are surrounded
+by an army of orc and goblins.
+~
+187 268435464 0 1 99 1
+D0
+&wThe great gates of Helms deep fortress.&n
+~
+~
+0 -1 23803
+D2
+&yThe pass continues.&n
+~
+~
+0 -1 23801
+S
+#23803
+&yFortress gate&n~
+ &wYou stand before the gates of helms deep fortress. The gates alone
+stand atleast twenty feet in height. The gates have been barred shut
+so that unwanted visitors shall not pass.&n
+~
+187 268451848 0 1 99 1
+D0
+&yThe inside of the fortress awaits.&n
+~
+gate~
+15 23809 23818
+D1
+&wThe fortress wall continues to the east.&n
+~
+~
+0 -1 23807
+D2
+&yThe pass continues.&n
+~
+~
+0 -1 23802
+D3
+&yThe walls of the fortress reach out to the west.
+~
+~
+0 -1 23804
+S
+#23804
+&wFortress walls&n~
+&w You stand before the fortress walls surrounded by the
+Uruk-hai. At your feet lays a fallen ladder.&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe fortress gates lie that away.
+~
+~
+0 -1 23803
+D3
+&yThe walls of the fortress reach out towards the mountain side.&n
+~
+~
+0 -1 23805
+S
+#23805
+&wFortress walls&n~
+&w  The fortress walls continue to reach out westward towards
+the very mountain side. With every step you take the Uruk-hai
+begin to close in on you.&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe fortress wall continues to the east.&n
+~
+~
+0 -1 23804
+D3
+&yThe fortress walls continues to the west.&n
+~
+~
+0 -1 23806
+S
+#23806
+&wFortress walls&n~
+&w You have reached the very side of the mountain. The uruk-hai are
+still nipping at your heels. You have no place else to go, either
+you fight your way out or you scale the ladder to the top of the
+fortress wall.&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe fortress wall continues to the east.&n
+~
+~
+0 -1 23805
+S
+#23807
+&wFortress walls&n~
+&w You stand before the fortress walls surrounded by the
+Uruk-hai. At your feet lays a fallen ladder.&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe fortress walls lead eastwards toward the mountain side.&n
+~
+~
+0 -1 23808
+D3
+&yYou make a the fortress gates.&n
+~
+~
+0 -1 23803
+S
+#23808
+&wFortress walls&n~
+&w  The fortress walls continue to reach out westward towards
+the very mountain side. With every step you the the Uruk-hai
+beging to close in on you.&n
+~
+187 8 0 1 99 1
+D1
+&yYou notice the fortress wall comes to a end.&n
+~
+~
+0 -1 23809
+D3
+&yThe fortress walls lead to the gates ahead.&n
+~
+~
+0 -1 23807
+S
+#23809
+&wFortress walls&n~
+&w You have reached the very side of the mountain. The uruk-hai have
+now pinned you in. You notice only two possible ways of escape. you
+must now draw your sword and charge to battle, or climb the ladder
+that leads to the top of the fortress wall.&n
+~
+187 268435464 0 1 99 1
+D3
+&yThe fortress wall continues westward.&n
+~
+~
+0 -1 23808
+S
+#23810
+&YFalling to your &r&fDeath&n~
+&wAs you climb the ladder to the top of the fortress wall, find a 
+few archers waiting at the top for you. They draw back and fire
+filling your body full of arrows. Death now comes for you.&n
+~
+187 14 512 1 99 1
+S
+#23811
+&wAtop the fortress wall&n~
+&wThe top of the fortress wall is home to the &Ge&glve&Gn &yarchers&w defending
+the keep. As you make your way across the fortress walls the archers take aim
+at you.&n
+~
+187 268435464 0 1 99 1
+D1
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23812
+D3
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23815
+D5
+&yYou can't clearly make out anything.&n
+~
+~
+0 -1 23818
+S
+#23812
+&wAtop the fortress wall&n~
+&wThe top of the fortress wall is home to the &Ge&glve&Gn &yarchers&w defending
+the keep. As you make your way across the fortress walls the archers take aim
+at you.&n
+~
+187 268435464 0 1 99 1
+D1
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23813
+D3
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23811
+S
+#23813
+&wAtop the fortress wall&n~
+&wThe top of the fortress wall is home to the &Ge&glve&Gn &yarchers&w defending
+the keep. As you make your way across the fortress walls the archers take aim
+at you.&n
+~
+187 268435464 0 1 99 1
+D1
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23814
+D3
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23812
+S
+#23814
+&wAtop the fortress wall&n~
+&wThe top of the fortress wall is home to the &Ge&glve&Gn &yarchers&w defending
+the keep. As you make your way across the fortress walls the archers take aim
+at you.&n
+~
+187 268435464 0 1 99 1
+D3
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23813
+S
+#23815
+&wAtop the fortress wall&n~
+&wThe top of the fortress wall is home to the &Ge&glve&Gn &yarchers&w defending
+the keep. As you make your way across the fortress walls the archers take aim
+at you.&n
+~
+187 268435464 0 1 99 1
+D1
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23811
+D3
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23816
+S
+#23816
+&wAtop the fortress wall&n~
+&wThe top of the fortress wall is home to the &Ge&glve&Gn &yarchers&w defending
+the keep. As you make your way across the fortress walls the archers take aim
+at you.&n
+~
+187 268435464 0 1 99 1
+D1
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23815
+D3
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23817
+S
+#23817
+&wAtop the fortress wall&n~
+&wThe top of the fortress wall is home to the &Ge&glve&Gn &yarchers&w defending
+the keep. As you make your way across the fortress walls the archers take aim
+at you.&n
+~
+187 268435464 0 1 99 1
+D1
+&yAll the arrow fire makes it impossible for you to make out anything.&n
+~
+~
+0 -1 23816
+S
+#23818
+&wInside the fortress&n~
+&wYou have fought your way through the Hruk-kai and made it inside
+the fortress of Helms Deep.
+&n
+~
+187 268435464 0 1 99 1
+D0
+Nothing special there..
+~
+~
+16 -1 23827
+D1
+&yThe walkway leads east.&n
+~
+~
+0 -1 23819
+D2
+&wThe gates are open.&n
+~
+~
+1 -1 23803
+D3
+&yThe walkway leads west.&n
+~
+~
+0 -1 23823
+D4
+&yWith all the arrow fire you can't clearly make anything out.&n
+~
+~
+0 -1 23811
+S
+#23819
+&wInside the fortress&n~
+&wAfter making your way inside the fortress all other doors have 
+been barred shut. There is no place else to go. The floors are 
+covered with blood from the fallen combatants brutal conflict.
+~
+187 268435464 0 1 99 1
+D1
+&yThe walkway leads east.&n
+~
+~
+0 -1 23820
+D3
+&yThe gates out of the fortress lay just ahead.&n
+~
+~
+0 -1 23818
+S
+#23820
+&wInside the fortress&n~
+&wAfter making your way inside the fortress all other doors have 
+been barred shut. There is no place else to go. The floors are 
+covered with blood from the fallen combatants brutal conflict.
+&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe walkway leads east.&n
+~
+~
+0 -1 23821
+D3
+&yThe walkway leads west.&n
+~
+~
+0 -1 23819
+S
+#23821
+&wInside the fortress&n~
+&wAfter making your way inside the fortress all other doors have 
+been barred shut. There is no place else to go. The floors are 
+covered with blood from the fallen combatants brutal conflict.
+&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe walkway leads east.&n
+~
+~
+0 -1 23822
+D3
+&yThe walkway leads west.&n
+~
+~
+0 -1 23820
+S
+#23822
+&wInside the fortress&n~
+&wAfter making your way inside the fortress all other doors have 
+been barred shut. There is no place else to go. The floors are 
+covered with blood from the fallen combatants brutal conflict.
+&n
+~
+187 268435464 0 1 99 1
+D3
+&yThe walkway leads west.&n
+~
+~
+0 -1 23821
+D5
+&yWith all the arrow fire you can't clearly make anything out.&n
+~
+~
+0 -1 23818
+S
+#23823
+&wInside the fortress&n~
+&wAfter making your way inside the fortress all other doors have 
+been barred shut. There is no place else to go. The floors are 
+covered with blood from the fallen combatants brutal conflict.
+&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe gates of the fortress lay to the east.&n
+~
+~
+0 -1 23818
+D3
+&yThe walkway leads west.&n
+~
+~
+0 -1 23824
+S
+#23824
+&wInside the fortress&n~
+&wAfter making your way inside the fortress all other doors have 
+been barred shut. There is no place else to go. The floors are 
+covered with blood from the fallen combatants brutal conflict.
+&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe walkway leads east.&n
+~
+~
+0 -1 23823
+D3
+&yThe walkway leads west.&n
+~
+~
+0 -1 23825
+S
+#23825
+&wInside the fortress&n~
+&wAfter making your way inside the fortress all other doors have 
+been barred shut. There is no place else to go. The floors are 
+covered with blood from the fallen combatants brutal conflict.
+&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe walkway leads east.&n
+~
+~
+0 -1 23824
+D3
+&yThe walkway leads west.&n
+~
+~
+0 -1 23826
+S
+#23826
+&wInside the fortress&n~
+&wAfter making your way inside the fortress all other doors have 
+been barred shut. There is no place else to go. The floors are 
+covered with blood from the fallen combatants brutal conflict.
+&n
+~
+187 268435464 0 1 99 1
+D1
+&yThe walkway leads east.&n
+~
+~
+0 -1 23825
+S
+#23827
+&wThe throne room&n~
+&wThis room is a make shift throne room for King Theodon. This room
+is rather bare for being a throne room to a king. It is a very
+damp and dreary room. At the back of the room sits King Theodon,
+along side him stand four guards.&n
+~
+187 268435464 0 1 99 0
+D0
+Nothing special there..
+~
+~
+16 -1 23828
+D2
+Nothing special there..
+~
+~
+0 -1 23818
+S
+#23828
+&wA &Kstone &ypassage&n~
+&wAfter pushing on the throne, you have found a secret passage out
+of the Helms deep fortress. The pass is very damp and muggy. A
+&Gg&gree&Gn &gmold&w grows all along the &Kstoney &ypassage&w.&n
+~
+187 536870920 0 1 99 0
+D0
+Nothing special there..
+~
+~
+16 -1 23829
+D2
+&KThe throne room.&n
+~
+~
+16 -1 23827
+S
+#23829
+&wA &Kstone &ypassage&n~
+&wThe pass is very damp and muggy. A smelly &Gg&gree&Gn &wmold
+grows all along the &Kstoney &ypassage.&n
+~
+187 536870920 0 1 99 0
+D2
+Nothing special there..
+~
+~
+16 -1 23828
+D3
+Nothing special there..
+~
+~
+16 -1 23830
+S
+#23830
+&wA &Kstone &ypassage&n~
+&wThe pass is very damp and muggy. A smelly &Gg&gree&Gn &wmold
+grows all along the &Kstoney &ypassage.&n
+~
+187 536870920 0 1 99 0
+D0
+Nothing special there..
+~
+~
+16 -1 23831
+D1
+Nothing special there..
+~
+~
+16 -1 23829
+S
+#23831
+&wA &Kstone &ypassage&n~
+&wThe pass is very damp and muggy. A smelly &Gg&gree&Gn &wmold
+grows all along the &Kstoney &ypassage.&n
+~
+187 536870920 0 1 99 0
+D0
+Nothing special there..
+~
+~
+16 -1 23832
+D2
+Nothing special there..
+~
+~
+16 -1 23830
+S
+#23832
+&wA &Kstone &ypassage&n~
+&wThe pass is very damp and muggy. A smelly &Gg&gree&Gn &wmold
+grows all along the &Kstoney &ypassage.&n
+~
+187 536870920 0 1 99 0
+D1
+Nothing special there..
+~
+~
+16 -1 23833
+D2
+Nothing special there..
+~
+~
+16 -1 23831
+S
+#23833
+&wA &Kstone &ypassage&n~
+&wThe pass is very damp and muggy. A smelly &Gg&gree&Gn &wmold
+grows all along the &Kstoney &ypassage.&n
+~
+187 536870920 0 1 99 0
+D3
+Nothing special there..
+~
+~
+16 -1 23832
+D5
+Nothing special there..
+~
+~
+16 -1 23834
+S
+#23834
+&wThe secret &ypassage &wout&n~
+&wYou have made your way through the stone passage. You seem to
+have found the secret escape of out Helms deep fortress. The
+battle that rages is far behind.&n
+~
+187 536870920 0 1 99 0
+D4
+Nothing special there..
+~
+~
+16 -1 23833
+S
+$~
+#999999

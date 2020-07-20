@@ -1,0 +1,564 @@
+#1500
+obj torch~
+100
+&ya torch&n~
+A torch is lying here.~
+~
+1 0 0 65537
+0 0 10 0
+1 5 5
+#1501
+obj key apprentice~
+2
+key to the apprentices' dorm~
+The key to the apprentice's dorm lies on the floor.~
+~
+18 262153 0 16385
+1501 0 10 0
+1 5 5
+#1502
+obj cloak green~
+10
+&Ga gr&geen cl&Goak&n~
+A green cloak with gold edges lies here.~
+~
+9 1048576 0 5
+2 0 0 0
+1 25000 10000
+A
+19 1
+A
+24 -3
+A
+18 2
+#1503
+obj slippers green~
+10
+&ga pair o&Gf green sli&gppers&n~
+A pair of green slippers lie here.~
+~
+9 524288 0 65
+2 0 0 0
+1 32000 8000
+A
+14 20
+A
+12 5
+#1504
+obj cloak red black~
+15
+&wa &rred &wand &Kblack&w cloak&n~
+A red and black cloak lies in a heap on the floor.~
+~
+9 524288 0 5
+10 0 10 0
+10 20000 10000
+A
+9 -5
+A
+12 12
+A
+3 1
+#1505
+obj potion curing~
+50
+&wa &Ycu&Wri&Yng &wpotion&n~
+A curing potion lies unattended here.~
+~
+10 262144 0 1
+20 14 15 16
+3 3400 2500
+#1506
+obj dust disappearance~
+40
+&Ymagic &ydust&n~
+A small pile of glittering dust is here.~
+~
+4 0 0 16385
+16 2 2 9
+2 12000 5000
+A
+13 2
+#1507
+obj shirt yellow faded~
+15
+&Wa &Yf&wade&Yd yellow &Wshirt&n~
+A faded yellow shirt lies on the floor here.~
+~
+9 65600 0 9
+10 0 0 0
+3 5000 5000
+A
+13 10
+A
+2 1
+A
+31 -1
+#1508
+obj shorts pair~
+15
+&ya pair of shorts&n~
+An old pair of shorts lie here.~
+~
+9 65600 0 33
+0 0 0 0
+3 500 2500
+A
+14 15
+A
+21 5
+#1509
+obj scroll parched protect~
+20
+&Wa &wparched&W scroll&n~
+A parched scroll is here.~
+~
+2 0 0 1
+20 1 15 106
+2 5000 500
+#1510
+obj bracelet nightshade~
+5
+&Ka nigh&Btsh&bade&B bra&Kcelet&n~
+A nightshade bracelet lies unattended here.~
+~
+9 64 16 4097
+5 0 0 0
+5 25000 20000
+A
+19 2
+A
+18 1
+A
+13 -10
+#1511
+obj pendant star~
+15
+&wa &Ystar &Kpe&Yn&Wd&Ya&Knt&n~
+A star pendant lies on the ground here.~
+~
+1 1048641 0 65541
+0 0 200 0
+5 45000 18000
+A
+3 2
+A
+27 -1
+A
+26 -1
+#1512
+obj potion sustenance ~
+50
+&wa potion of &Ysustenance&n~
+A potion of sustenance is here.~
+~
+10 262788 0 1
+20 88 0 0
+1 3000 500
+#1513
+obj ring wrought iron~
+15
+&Ka wrought iron ring&n~
+A black, wrought iron ring lies here.~
+~
+9 1048576 0 3
+11 0 0 0
+3 50000 20000
+A
+12 10
+A
+14 10
+A
+13 10
+A
+9 5
+#1514
+obj encyclopedia britannica~
+5
+&ythe encyclopedia Britannica&n~
+The encyclopedia Britannica lies here.~
+~
+12 524352 0 16385
+0 0 0 0
+5 20000 5000
+A
+3 1
+A
+4 1
+#1515
+obj shield shaolin sturdy~
+10
+&wa sh&Wie&cld of Sh&Wao&wlin&n~
+A sturdy shield from Shaolin lies here.~
+~
+9 589889 0 513
+10 0 0 0
+12 35000 5000
+A
+2 1
+A
+19 1
+#1516
+obj fang hammerfang hammer~
+1
+&rhammer&Kfang&n~
+The magic weapon hammerfang has been left here unattended.~
+~
+5 4194304 0 24577
+2168 5 9 11
+10 200000 80000
+A
+18 2
+A
+33 -1
+A
+13 -50
+A
+24 -1
+#1517
+obj key senior lab~
+2
+the senior lab key~
+The senior lab key lies on the floor.~
+~
+18 262152 0 1
+1517 0 10 0
+1 5 5
+#1518
+obj cloak red velvet~
+3
+&Ka re&wd v&relvet &wcl&Koak&n~
+A red velvet cloak, with gold trimmings lies in a heap here.~
+~
+15 69247041 0 5
+70 0 0 0
+14 100000 60000
+E
+cloak velvet~
+The cloak is of a spectacular design and is quite magical in nature.  Mathias
+made this cloak from scratch and surely wants it back.
+~
+A
+3 2
+A
+13 10
+A
+17 10
+A
+19 2
+#1519
+obj treastise immortal~
+100
+a treastise~
+A treastise on Vampire Immortality lies here.~
+~
+16 262144 0 16385
+0 0 10 0
+1 5 5
+E
+treastise~
+The several pages that comprise the treastise talk about the idiosyncracies
+of Vampire Immortality.  It discusses the endless need for victims blood to
+stay alive, or to stay immortal.  It seems that some spirit, or essence is
+contained within the vampire blood which gives vampires immortality, but also
+makes them need others' blood.
+~
+#1520
+obj diary page~
+100
+a page of a diary~
+A page of a diary lies on the floor.~
+~
+16 67371072 0 16385
+0 0 10 0
+1 5 5
+E
+diary page~
+I am at a loss...I have tried for so long...and now I feel sick for the
+crimes I have committed as I knew I would...There must be a way...I must live
+on forever!...but I have not found it...
+My vampire friend Nezryn knows not how his own powers work!...and yet evil
+experiments we did to find out...That path of my life was dark...dismal...yet
+it is as easy to be evil as you can imagine...simply dont care...its easy
+if you are mad that is...and thats what I must be...Immortality! hah!
+It is the joke of my life...my death...I cannot die!...I cannot die!...I will
+not die!...
+I shall wait...wait...until...until I find the way...strange that I can be
+immortal, but I cannot live my life while my body lives...cryogenics...not
+immortality...at least not my definition...
+~
+A
+12 5
+#1521
+obj diary torn page~
+100
+a torn page of a diary~
+A torn page of a diary lies here.~
+~
+16 67371072 0 16385
+0 0 10 0
+1 5 5
+E
+torn diary page~
+And these are my crimes, which ironically, if I find immortality, I will
+never have to repent for:
+The winners of my contest, the bravest of the brave, the strongest of the
+strong, the wisest of the wise, they get there winnings and other prizes
+and live there life to the fullest...but come 10 months later...they are dead.
+I have killed them...There are too many to list...
+They die so that I might live...the vampire way...
+Yet I have decided to end that way...in search for true immortality, the kind
+that does not live off of others...One month per victim of extra life is not
+good...I need more...
+So this is why I must wait...
+~
+A
+12 5
+#1522
+obj elixir health~
+40
+&wan &pe&rlixi&pr&w of &rh&pealt&rh&n~
+An elixir of health rests comfortably on the floor here.~
+~
+10 67371072 0 1
+35 76 15 106
+3 35000 50000
+#1523
+obj kit make-up~
+40
+&ya make-up kit&n~
+A make-up kit is here.~
+~
+12 0 0 16385
+0 0 10 0
+1 100 200
+A
+6 2
+#1524
+obj key upper tower~
+2
+the upper tower key~
+The upper tower key is here.~
+~
+18 262152 0 1
+1524 0 10 0
+1 5 5
+#1525
+obj flask crystal fluids~
+20
+&wa &Kflask &wof &Kinfinite fluids&n~
+A crystal flask is here.~
+~
+17 1 0 1
+300 300 0 0
+8 80000 20000
+#1526
+obj ring bloodstone~
+15
+&Wa &rbl&pood&rs&pto&rne &rr&pin&rg&n~
+A bloodstone ring lies on the floor here.~
+~
+9 2097152 0 3
+10 0 10 0
+3 120000 50000
+A
+13 25
+A
+1 2
+A
+9 20
+A
+24 1
+#1527
+obj diary page wife~
+100
+a page of a diary~
+A page of a diary lies here undisturbed.~
+~
+16 262272 0 16385
+0 0 10 0
+1 5 5
+E
+diary page wife~
+I cannot believe what sins I have committed...all in the search for
+immortality...my wife...Desdemona...bless her soul...
+I am mad you know...the vampire has told me so...
+Yet I still write in my diary...the ramblings of a mad man...
+God forgive me for Desdemona...the experiment gone wrong...
+I can no longer live with myself...yet I will not allow myself to die...
+the chamber is almost complete...and in it I will rest...
+my freeze chamber...the cold oblivion of peace...
+Forgive me Desdemona...your body lives on, but your mind is gone...
+I, Gerin, do confess...sometimes I wonder if I am myself...
+What would my friend Phisher say...he lives in my waters...
+He would say die...die Gerin...
+~
+#1528
+obj ring wedding dark~
+40
+&Ka dark wedding ring&n~
+A dark wedding ring lies here.~
+~
+11 524352 0 3
+0 0 0 0
+1 40000 10000
+A
+17 -5
+A
+13 5
+A
+12 5
+A
+32 -1
+#1529
+obj book black vellum~
+20
+&Ka black vellum book&n~
+A black vellum book is here.~
+~
+2 2138644 0 16385
+38 112 54 0
+3 120000 25000
+E
+book black~
+The book discusses arcane secrets of necromancy, specifically how to animate
+the dead...
+~
+A
+4 1
+A
+12 5
+#1530
+obj flask blood~
+50
+&Ka &rblood-filled &Kf&wlas&Kk&n~
+A blood-filled flask lies here.~
+~
+17 0 0 1
+8 8 13 0
+6 400 250
+#1531
+obj note paper~
+100
+a wrinkled note~
+A wrinkled note lies here.~
+~
+16 262144 0 1
+0 0 10 0
+1 5 5
+E
+note paper wrinkled~
+Through the years Gerin has become more obsessed with his quest for immor-
+tality. He's does not wish to enter the life that I possess, too much work
+for him...having to feed every day.  He is convinced there is a better way.
+A way that will make him like a God...thats what he wants...So if he can
+become a God I will surely follow...otherwise...well...lets say I haven't
+made up my mind just yet...
+~
+#1532
+obj Darvathain dwarf corpse~
+100
+Darvathain the dwarf~
+The 'corpse' of Darvathain the dwarf lies mingled with other bodies.~
+~
+15 0 0 0
+0 0 10 100
+1 5 5
+E
+darvathain~
+The dieing dwarf named Darvathain spits out his last words at you,
+'My time...is near...yet I see...now...the death...around you...
+so that...you...may...live...take heart...and live...enter a wall...
+in the...room with...a...blue...torch...the ring...I hid...is yours...
+And speak of ... Darvathain...so that they will re..member.....
+'
+~
+E
+corpse~
+'My time...is near...yet I see...the shadows...of death...around you...I see
+much...and dazed am...I...argh...it hurts...my soul...withered...away...
+in the...room...argh...with...my...blue...torch...there is a secret...wall
+...there...you must go...and remember always...Darvathain!......
+remember me...'
+~
+#1533
+obj torch blue~
+40
+&ya &Bblue-&bf&Bl&wa&Bm&be &ytorch&n~
+A blue-flame torch is here.~
+~
+1 262144 0 81921
+0 0 10 0
+10 5 5
+#1534
+obj ring immortality gold~
+10
+&Kring &wof &Wimmor&wta&Klity&n~
+A bright gold ring lies here unattended.~
+~
+9 138477633 0 3
+20 0 0 0
+3 200000 100000
+A
+13 60
+A
+9 30
+#1535
+obj chest iron~
+1
+&Kan iron  chest&n~
+A large iron chest rests in the middle of the room.~
+~
+15 262152 0 0
+40 15 1536 0
+30 5 5
+#1536
+obj key treasure room~
+2
+treasure room key~
+The treasure room key to Gerin's vault lies here!~
+~
+18 262152 0 16385
+1535 2 0 0
+1 5 5
+#1537
+obj gold pile~
+100
+&Ya huge pile of gold&n~
+A huge pile of gold is here!~
+~
+20 262144 0 1
+3000000 0 0 0
+1 5 5
+#1538
+obj mage boots gerin~
+1
+&cG&Cerin&cs &KB&woot&Ks&n~
+The boots of the arch-mage Gerin rest here, still giving off steam.~
+~
+9 4194304 0 65
+30 0 0 0
+10 200000 80000
+A
+19 3
+A
+18 2
+#1539
+obj fang hammerfang hammer 2~
+1
+&rhammer&Kfang&n~
+The magic weapon hammerfang has been left here unattended.~
+~
+5 4194304 0 24577
+6264 10 5 11
+10 200000 80000
+A
+18 2
+A
+33 -1
+A
+13 -40
+A
+24 -1
+$~
+#999999

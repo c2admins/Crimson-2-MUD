@@ -1,0 +1,470 @@
+#18800
+mob dfdf~
+Git the fighter~
+A large burly male fighter named, Git
+~
+A stupid fighter sits here picking his butt and dreaming of Jenny McCarthy
+My role model
+~
+8650956 2097153 136249361 262312 0 S
+41 2 -24 90d19+7000 3d5+12
+0 435000
+8 8 1
+24 4 25 3 3 23 14 12
+ATTACK_SKILL=99
+ATTACK_SKILL=60
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_TYPE=108
+#18801
+mob king rowan ice~
+King Rowan~
+The ruler of the Ice Crystal Palace, King Rowan stands here.
+~
+Before you, you see a large man.  He stands with a aura of power and commands your
+attention at all times.  He does not seem to be a friendly person, which is nothing
+like what you have heard about him.  He does seem very powerful and would not think
+twice to rip you apart at a whim.
+~
+1141112842 32769 136249393 136 1000 S
+49 -25 -22 100d10+45000 35d35+95
+1000000 2000000
+8 8 0
+1 4 25 16 16 14 23 13
+SKILL=SKILL_DODGE 75
+SKILL=SPELL_FROST_BREATH 80
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#18802
+mob prince perdix~
+Perdix~
+The youngest in line to the throne, Prince Perdix
+~
+Before you stands the youngest prince of the Ice Crystal Palace.
+He does not seem very foritable but none the less demands respect from
+one and all. He looks as though he may one day become a great ruler.
+~
+1082130442 32769 136249393 603979968 0 S
+45 -20 -4 1d1+19999 20d20+25
+200000 197365
+8 8 1
+24 4 25 18 15 15 13 11
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=35
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+#18803
+mob son royal hobarth mage~
+Hobarth~
+The young mage, Prince Hobarth
+~
+Before you stands the royal son, Prince Hobarth. He is dressed in long
+flowing gowns. He is an intense young man, whose eyes are full of
+experience and wisdom. He has the look of a mage fighter but his wisdom
+is that of an archmage. This is why he is one of the most feared spellcasters
+in the land.
+~
+8650762 32769 136249393 537133202 500 S
+47 -25 -28 1d1+25999 20d20+20
+400000 230000
+8 8 0
+24 1 25 17 25 14 21 11
+SKILL=SPELL_HEAL_MAJOR 80
+SKILL=SPELL_CONFLAGRATION 85
+SKILL=SPELL_FIRELANCE 85
+SKILL=SPELL_FIRESTORM 90
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=90
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_TYPE=108
+#18804
+mob guard sentry~
+Ice Palace Sentry~
+A royal sentry of the Ice Crystal Palace
+~
+You are staring at the largest guard you have ever seen.  His height is only
+paled by his apparent strength.  He notices you stare and returns it tenfold.
+He seems to pierce your soul looking for any evil upon which to prey.  You
+hope he finds you good or else you may face his wrath.
+~
+134225930 32769 136249393 140 1000 S
+33 10 -4 99d19+1250 2d7+15
+450000 202000
+8 8 0
+24 4 16 16 15 15 15 11
+SKILL=SPELL_FROST_BREATH 50
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=88
+ATTACK_SKILL=77
+ATTACK_TYPE=103
+#18805
+mob worm remorhaz~
+remorhaz~
+The great ice worm is lying here
+~
+The great ice worm, also knows as the remorhaz is before you. 
+It's large maw is opened and you can see bits of corpses in it's mouth.
+The full body of this worm must be at least 100 feet long and could
+crush you with great ease.
+~
+16777226 32769 136249393 1074135176 0 S
+43 1 -28 30d19+12500 5d5+38
+0 650000
+8 8 0
+0 0 25 15 14 16 13 11
+SKILL=SPELL_LIGHTNING_BREATH 99
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=65
+ATTACK_SKILL=65
+ATTACK_TYPE=108
+#18806
+mob guard elite ice~
+Royal Guard of the Palace~
+You are standing before a large guard. 
+~
+This is the elite guard and they make those sentry guards look slow and
+small.  His burly arms and broad chest seem to take up all you see.  His uses no
+weapons because you could imagine what his hands could do to your skull.  The 
+gloves he wears seem to pulsate.
+~
+142925838 32769 136249393 536870988 1000 S
+43 1 -28 30d19+12000 10d10+25
+655555 675000
+8 8 1
+24 4 26 16 16 15 25 14
+SKILL=SKILL_KICK 99
+SKILL=SPELL_FROST_BREATH 40
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=33
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+#18807
+mob paladin ice royal~
+Royal Paladin~
+A royal Paladin of the Ice Palace. 
+~
+This is the holiest man you have seen in years. His presence draws all you attention
+You cannot help being in awe of this giant man.  He is dressed out in royal garb
+and you would like to have his armor for your own someday.  But you figure that
+he could kill with such ease that you might as well try to kill yourself
+~
+134217738 1 136249393 536871040 1000 S
+43 1 -28 30d19+11575 20d10+25
+950000 670000
+8 8 0
+24 7 26 15 15 14 14 11
+ATTACK_SKILL=99
+ATTACK_SKILL=95
+ATTACK_SKILL=90
+ATTACK_TYPE=103
+#18808
+mob ice lich great~
+Ice Lich~
+The Ice Lich sits here about to kill you.
+~
+You cannot get a good look at the lich besides the fact that almost no
+skin is left on those old bones.  This lich's power cannot be taken
+lightly.  You must ponder the fact that living much longer is very
+possible.
+~
+1108611082 32769 136249393 536871112 -1000 S
+48 -25 -26 1d1+29999 25d25+40
+2500000 2000000
+8 8 0
+0 1 25 17 14 14 14 14
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_FIRELANCE 90
+ATTACK_SKILL=99
+ATTACK_SKILL=95
+ATTACK_SKILL=90
+ATTACK_TYPE=100
+#18809
+mob diplomat icewind royal~
+Diplomat of Icewind Dale~
+A diplomat from the north stands here.
+~
+This is the royal diplomat of Icewind Dale.  He is in this cell on charges
+of treason.  He was here on a mission to form a pact with the palace.
+He had spent many years in these halls.  But one day he awoke in the bed
+of the royal daughter of the king and was put into chains and sentenced
+to life in jail.  His clothes are still nice and apperance is good.
+~
+1073741832 32769 136249393 262272 0 S
+38 5 -18 35d19+3750 5d20+20
+115000 223000
+8 8 0
+1 4 16 15 16 15 13 14
+SKILL=SPELL_FROST_BREATH 99
+ATTACK_SKILL=90
+ATTACK_SKILL=85
+ATTACK_SKILL=80
+ATTACK_TYPE=104
+#18810
+mob thief ice crystal palace~
+Ice Thief~
+A puny thief is plotting his escape.
+~
+You are looking at a sneaky thief. He has been stealing his way through
+the palace and you hope he won't steal from you.
+~
+262156 1343489 136249393 524354 0 S
+40 3 -22 70d19+10000 3d35+10
+710000 235000
+8 8 0
+0 5 17 18 16 15 15 13
+SKILL=SKILL_STEAL 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_TYPE=102
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#18811
+mob Kazgoroth demon~
+Kazgoroth~
+The largest demon you have ever seen, Kazgoroth.
+~
+Kazgoroth is standing here plotting his escape from this cell and
+returning to the area of Tristan Kendrick to kill him.  The minion's
+size is that of the legandary Tarrasque.  You wonder how powerful this
+creature is but do not dare test it.
+~
+1208283148 4227073 136249393 2097314 -1000 S
+42 1 -26 100d19+9000 10d10+10
+565000 500000
+8 8 1
+24 4 26 16 15 15 25 15
+SKILL=SPELL_CONFLAGRATION 80
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_TYPE=104
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#18812
+mob old man king~
+old man~
+A large old man stands in a corner
+~
+This man has been in this cell for a long time.  It looks like he 
+has been forgotten.  His size makes you look small.  Upon asking him
+about his crimes he utters something that you cannot understand.  He
+is guarding after a bag he has in his hands.  The bag looks like
+something is in it.  You ask him what is in it and get no answer.  Maybe
+he does not want to speak with you, you might ask the king about this
+prisoner.
+~
+1082392586 32769 136249393 67108932 1000 S
+47 0 -25 100d10+31000 10d10+25
+3000000 1500000
+8 8 1
+24 1 16 16 14 16 15 13
+ATTACK_SKILL=99
+ATTACK_SKILL=95
+ATTACK_SKILL=90
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=108
+#18813
+mob Lady Eskaia~
+Lady Eskaia~
+The warrior princess Lady Eskaia stands here.
+~
+Lady Eskaia is not as big as her adopted family but she still is as
+good a fighter as many men and monsters in the land.  She serves as a 
+general for the land in times of war.  She is dressed in the leathers
+of her tribe and holds the biggest axe you have ever seen.
+~
+1074003978 1 136249393 536871040 0 S
+47 -25 24 1d1+22999 25d20+30
+53000 58000
+8 8 2
+0 4 25 15 14 14 13 12
+ATTACK_SKILL=99
+ATTACK_SKILL=98
+ATTACK_SKILL=97
+ATTACK_TYPE=103
+#18814
+mob Queen Robyn Onire~
+Queen Robyn Onire~
+The queen of the Ice Crystal Palace, Robyn Onire.
+~
+This is the beautiful Queen Robyn Onire.  She is very attractive and caring.
+She does not have the size of the rest of her family and is the only one
+that has a love of art and poetry.  She spends alot of her time making new
+paintings and writing poetry.
+~
+1074003978 1 136249393 128 0 S
+47 -20 -22 35d19+5500 55d55+65
+275000 234525
+8 8 0
+0 5 17 18 16 15 13 13
+#18815
+mob Alban onire prince~
+Alban Onire~
+The prince Alban Onire stand here.
+~
+This is the prince of the Ice Crystal Palace.  His face is scared from his
+many battles.  He is one of the greatest generals that has ever lived.  He 
+helped lead to forces of the Ice Palace to capture the minion of Bhaal.
+He recieved no credit from the king for his efforts but is valuable to
+the day to day operations of the palace.
+~
+1216618506 32769 136249393 33554572 1000 S
+43 1 -28 100d19+10000 20d10+15
+999999 620000
+8 8 0
+24 7 26 18 16 14 25 11
+ATTACK_SKILL=99
+ATTACK_SKILL=95
+ATTACK_SKILL=85
+ATTACK_TYPE=103
+#18816
+mob Gwen Onire~
+Gwen Onire~
+The royal cleric and princess, Gwen Onire stand here.
+~
+Gwen Onire is the royal cleric of the Palace.  She is dressed with plain
+priestly robes and a holy symbol.  She looks frail in comparison to her kin.
+But you do not know her true power.
+~
+134488074 32769 136249393 140 500 S
+45 -20 -28 100d19+9750 20d20+25
+725000 630000
+8 8 0
+24 3 16 25 25 14 12 13
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=90
+ATTACK_TYPE=100
+#18817
+mob knight ice~
+Royal Knight~
+Ice Crystal Knight stands here.
+~
+This is a knight of the Ice Crystal Palace.  His job is to guard the royal
+cmabers from intruders.  He is very powerful and can kill almost anything.
+~
+1074012424 1 136249393 262156 0 S
+40 3 -22 70d19+12500 5d3+20
+325000 242000
+8 8 0
+24 4 16 18 16 15 13 12
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=85
+ATTACK_TYPE=103
+#18818
+mob Royal captain~
+Royal Captain~
+The royal captain of the guard stands here.
+~
+The royal captain is here.  He stands before you and you can feel the power 
+of his size.  You do not want to make this man mad and you do not look at
+him further.
+~
+134217738 32769 136249393 536871040 1000 S
+41 2 -24 100d19+7100 10d18+25
+1000000 375000
+8 8 0
+24 7 26 15 15 14 14 11
+#18819
+mob horde rats~
+Horde of Rats~
+A large pack of rats is here.
+~
+A large pack of rats is here.  They attack you before can see their size 
+or strength.  You feel that you can kill them but there is alot of them.
+~
+134602764 32769 136249393 536870952 0 S
+33 10 -4 98d19+3000 10d4+15
+0 195000
+8 8 0
+0 0 16 17 14 16 14 12
+ATTACK_SKILL=99
+ATTACK_SKILL=95
+ATTACK_SKILL=90
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=90
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=90
+ATTACK_TYPE=106
+#18820
+mob Ice golem~
+Ice Golem~
+An Ice Golem stands here.
+~
+A large golem that has been animated by the Ice Lich stands here.  It 
+notices you and has been given orders to kill anything that enters without
+permission and seeing that you do not it attacks.
+~
+1208279048 32769 136249393 200 -1000 S
+40 3 -22 35d19+5785 10d10+10
+500000 248000
+8 8 0
+0 1 16 18 15 16 12 13
+SKILL=SPELL_FROST_BREATH 50
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=60
+ATTACK_TYPE=108
+#18821
+mob talking goat~
+The Talking Goat~
+Here is the famous Talking Goat
+~
+This is the famous talking goat.  You are suprised that such a thing really
+exists.  You wonder if it can play football or wants to go to a mosh pit.
+The talking goat wonders why you are such an idiot.
+~
+10 1 136249393 128 0 S
+48 0 -25 100d100+45000 40d9+35
+0 500000
+8 8 0
+0 0 25 25 25 25 25 25
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+$~
+#999999

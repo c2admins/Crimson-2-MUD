@@ -1,0 +1,355 @@
+#2900
+mob lizardman guard~
+The lizardman guard~
+A lizardman guard makes sure you will be no trouble.
+~
+This is one mean motor skooter.  This guy is like the local police officer.  He
+patrols the streets here and makes sure none of the visitors are any trouble.
+He also keeps out the good elements from the castle.  This creature stands at
+about seven foot even.  The muscles ripple off this mass of scales.
+~
+78 1048577 136249361 0 -300 S
+14 25 30 1d1+200 3d2+14
+2000 4435
+8 8 0
+32 4 17 18 15 15 12 14
+#2901
+mob prince eric~
+Prince Eric~
+A large fat dragon prince named Eric stands here eating Human Finger-Poofs
+~
+This rather large dragon is named Prince Eric.  He is a very girthy reptile
+indeed.  You can see by the sausage sized fingers that this monster is a bit
+slow.  Fear strikes your heart as you can see the cut engraved into his stomach
+area.  It seems to spell the word "Beafcake".  Be prepared this guy wants you
+for a late night snack.
+~
+138674250 32769 136249361 128 -1000 S
+36 1 -14 1d1+5500 5d4+5
+100000 217000
+8 8 1
+11 0 17 18 14 15 12 15
+SKILL=SPELL_ACID_BREATH 75
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_TYPE=105
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=104
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=104
+#2902
+mob kenny slave human~
+Kenny the human slave~
+Kenny the human slave is here mining coal.
+~
+You see a human slave named Kenny.  He is all dirty and grimey from the tunnel.
+There is a strange deathwish this kid seems to have.  Like his fate is really
+short.  There is a strange aura of death about him.  Maybe you should put him
+out of his misery too.
+~
+10 1 136249361 0 0 S
+35 8 -10 1d1+4556 5d5+5
+80000 212000
+8 8 0
+0 0 16 16 16 16 13 11
+ATTACK_SKILL=65
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2903
+mob garrison jester~
+The court jester Garrison~
+Garrison the court jester is here playing with his puppet.
+~
+You see before you a freak of nature.  This lizard has totally lost its mind.
+It stands here and tries to ventriloquate through a puppet on his hand.  Some
+say its for amusement.  Some say he was once a teacher at a local school for
+these  kids of the area.  He got this job because no one else wants it.
+~
+262152 1 136249361 0 -750 S
+38 5 -18 1d1+8699 5d8+74
+300000 228000
+8 8 0
+32 4 17 16 16 15 15 14
+#2904
+mob Officer Barbrady~
+Office Barbrady~
+The lizardman Officer Barbrady stands here.
+~
+ Officer Barbrady is a little more intelligent than one might think.  In this
+time he is one of the few that has learned to read the humans languages.  He
+thinks that he should be the only law in town.  Although he is still not too
+bright.  A very agressive mob.  The officer is the last line of protection for
+these lizard-people.
+~
+32776 1 136249361 67379368 0 S
+39 5 -23 1d1+5299 6d6+15
+400000 236000
+8 8 0
+0 0 16 17 16 16 15 13
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=104
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2905
+mob chef~
+Chef~
+The royal chef is here cookin up some human stew.
+~
+You can see this dark lizard has got alot of wisdom in him.  There is no doubt.
+He has also been counsel to the younger guards in times.  You can see his power
+and his faith to this kitchen.  He can also cook up a nice human stew.  You feel
+like dinner standing in his kitchen.  Maybe it's time for you to go.
+~
+10 1 136249361 0 0 S
+35 8 -10 1d1+5000 4d4+8
+75000 209000
+8 8 0
+0 0 17 18 16 16 12 15
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=104
+#2906
+mob stan guard~
+Stan, Captain of the guard.~
+Stan, the captain of the guard is keeping lookout.
+~
+Stan is the leader of the guard in this castle.  He doesn't take any flak from
+anyone.  He searches the castle for intruders.  However, he doesn't seem to take
+his job very serious.  He is dating another of the guards.  Wendy is the love
+of his life.  
+~
+33036 2097153 136249361 136 -500 S
+33 8 40 20d20+2000 6d3+4
+82000 205000
+8 8 1
+32 4 20 15 16 16 15 12
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=103
+#2907
+mob wendy guard~
+Wendy, A royal guard~
+Wendy, A royal guard is searching for intruders.
+~
+Wendy, is a very smart and loyal guard.  She is the first female of the
+lizardmen to become a royal guard.  This woman has dressed herself in her best
+suit of armor for Stan.  Stan is her mate for life.  She has soft black eyes
+and a decorated tail.  Wendy is one of the most promising guards due to her
+very short temper and brilliant mind.
+~
+8 1 136249361 128 -500 S
+30 13 5 10d20+1550 12d8+6
+32500 180500
+8 8 2
+32 1 17 16 15 16 12 14
+#2908
+mob kyle guard~
+Kyle, A royal guard~
+Kyle, A royal guard is searching the castle for intruders.
+~
+Kyle is a very spiritual lizardman.  He believes in a different deity than the
+rest of the lizardmen.  This makes him uncomfortable around others during some
+festive times.  However, Kyle is still friendly with the other guards in his
+circle.  He protects the castle with the same loyalty as the rest.
+~
+8 1 136249361 128 -500 S
+30 13 5 10d20+1550 12d8+6
+28000 183000
+8 8 1
+32 2 17 17 16 15 12 13
+#2909
+mob pip guard~
+Pip, A royal guard~
+Pip, A royal guard is searching for intruders.
+~
+This is Pip.  He is a smart foreign guard.  He is the laughing stock of the
+lizardman guards.  You can see he is mainly scared and shivering from the
+thought of being attacked by anything.  
+~
+8 1 136249361 128 -500 S
+30 13 5 10d20+1550 4d4+6
+30000 180000
+8 8 1
+32 3 17 18 16 16 12 13
+ATTACK_SKILL=45
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=35
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#2910
+mob desert citizen lizardman~
+A South Desert Citizen~
+A south desert citizen wanders about.
+~
+This is one of the citizens of South Desert.  They are a pretty unintelligent
+group of people.  They all argue and fight amongst each other.  It is all petty
+arguments and lame squables.  These are the rednecks of the lizard people.
+~
+8 1 136249361 0 -500 S
+25 15 18 20d30+1850 14d5+6
+17000 73500
+8 8 0
+32 0 16 15 16 16 15 11
+#2911
+mob queen cartman~
+Queen Cartman~
+Queen Cartman is here laid on the bed.
+~
+Queen Cartman is said to be the most friendly person around this city.  Every
+male has mated with her at one time or the other.  However, she seems to have
+no idea as to who her son's father is.  She seems to be a very powerful leader.
+As being the lizardman leader, she is a dragon.  The most powerful of lizards.
+The gleam in her eye seems to entice you closer.
+~
+262154 32769 136249361 67108992 -1000 S
+45 0 -25 50d50+17000 33d20+50
+2400000 950000
+8 8 0
+0 0 17 16 14 15 15 11
+SKILL=SPELL_FROST_BREATH 75
+#2912
+mob gate guard~
+A gate guard~
+A gate guard stands here blocking your way.
+~
+These guards look pretty tough, but they are just geckos deep down inside.  You
+can see by their coloration that they are not very happy.  Their skin has been
+bleached by the vastly hot sun.
+~
+520 1 136249361 0 -500 S
+20 20 24 50d50+400 3d5+25
+4900 61500
+8 8 0
+0 0 17 18 15 14 14 11
+#2913
+mob al big lizard~
+Big happy Al~
+Big happy Al is selling herbs and perfumes.
+~
+This reptile is always happy.  He has an affinity for nature and life.  You can
+see that he has service with a smile.  Singing a jingle he does called
+"I feel super, thanks for askin."  This is one of the rarest and weirdest
+creatures you will ever find here.  Al has flowers from the area all about his
+scales.
+~
+262282 1 136249361 67108992 0 S
+30 11 3 50d5+1450 7d6+36
+35000 183000
+8 8 0
+32 2 16 16 15 14 12 12
+#2914
+mob bill gates~
+Bill Gates~
+Bill Gates torments you as windows crashes.
+~
+This is the biggest geek in the world.  He is also the most powerful man in the
+known universe.  God asks this man for a loan.  However much you despise him,
+it would be stupid to become agressive with him.
+~
+10 32769 136249361 128 0 S
+48 0 -25 100d100+55000 10d10+40
+3700000 1900000
+8 8 0
+1 0 25 25 25 25 25 5
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_TELEPORT_SELF 99
+SKILL=SKILL_SWITCH 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=104
+#2915
+mob mackey lizard~
+Mr Mackey the royal counsel~
+Mr. Mackey the royal counsel is here going over plans.
+~
+This is Mr. Mackey, he is a rather fearsome looking strategist.  He seems to be
+too occupied looking over documents and such.  He doesn't even know you are 
+here.  You can see by his skin that he is a very old and worn lizard.  He is
+very wise, however not very hip with the younger guards.
+~
+295050 1 136249361 67108992 -1000 S
+35 8 -10 40d10+2222 5d5+7
+75000 211111
+8 8 0
+32 2 17 16 16 14 12 13
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#2916
+mob ned lizardman~
+Ned~
+Ned, the "Retail Outfitter", is here selling his goods.
+~
+You can see this is a mountain of a man.  Don't let his size fool you, Ned is
+pretty old.  He is very experienced in fighting and has gone through several
+wars with his people.  Ned is usually an extremist.  He feels you should fight
+first and ask questions later.
+~
+10 1 136249361 67108992 -1000 S
+30 13 5 40d4+1500 5d3+14
+37500 170000
+8 8 0
+32 4 17 17 15 15 14 13
+ATTACK_SKILL=45
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=106
+#2917
+mob i r baboon~
+I R Baboon~
+I R Baboon is here babooning.
+~
+You can see a not so intelligent baboon here.  He just wants to be better than
+I AM Weesel.  I R is just a lovable creature who doesn't get along with the
+weasel.  You can see by his sloping forehead, long dragging arms, and red ass,
+that this baboon takes shit from no one.
+~
+10 1 136249361 67109032 0 S
+20 20 24 10d4+775 5d5+14
+500 60000
+8 8 0
+0 0 17 16 16 14 14 11
+$~
+#999999
