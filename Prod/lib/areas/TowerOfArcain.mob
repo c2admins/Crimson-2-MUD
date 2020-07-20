@@ -1,0 +1,40 @@
+#2700
+mob Keeper~
+The Keeper of the pit~
+The Keeper of the pit is here laughing at you.
+~
+The Keeper of the pit stand 10 feet tall with skin the color of ashes.His 
+arms are scared with many battle scar's.He looks up at you and laughs and 
+then attacks.
+~
+72 1 136249361 536871048 -200 S
+10 29 34 1d100+24 1d11+2
+800 3000
+8 8 0
+16 4 16 18 15 14 14 13
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=15
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=15
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=15
+ATTACK_TYPE=105
+#2701
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 14 16 12 15
+$~
+#999999

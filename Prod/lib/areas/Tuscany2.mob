@@ -1,0 +1,486 @@
+#21200
+mob seolfor ancient silver dragon wyrm~
+&WSe&wolf&Wor&w, the &KAncient &wSi&Klv&wer &KD&wr&Wag&wo&Kn&n~
+The ancient silver dragon Seolfur welcomes you to your death.
+~
+You are gazing into the eyes of a gigantic ancient wyrm.  Seolfor's
+appearance could put the fear of god into any brave warrior, it just happens
+that you were the particular fool who entered his lair.  He stands taller
+that a three-story house and you can't even judge how wide.  His scales are
+thick and look like individual interlocking breastplates.  His claws are the
+size of small giants and his mouth could swallow ettins whole.  His fangs
+are stained with blood and he looks really pissed off.
+~
+1078222862 2392065 136249361 1040449704 1000 S
+50 -40 -40 100d1+75000 35d20+60
+5000000 2500000
+8 8 1
+11 0 24 25 23 25 19 22
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 30
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=75
+ATTACK_TYPE=105
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=75
+ATTACK_TYPE=105
+#21201
+mob peacock hierophant cabal~
+Peacock, Hierophant of the Cabal~
+Peacock, Hierophant of the Cabal, meticulously examines the grove
+~
+Peacock, appears almost like his namesake.  He is dressed in robes with
+magnificently colored feathers flowing around him.  His hair hangs just
+past his knees and is a rusty-brown color.  He is wearing no shoes or
+leggings that you can see beneath his robes.  His movements suggest that
+he is totally engulfed in his work and either doesn't know of your presense
+or, more likely, doesn't care.  He is the highest ranking druid in all
+the realms and he has more important things to worry about then you.
+~
+1074004110 32769 136249361 1041760426 0 S
+35 0 -8 50d1+5000 10d10+20
+80000 210000
+8 8 1
+1 0 23 25 23 23 21 22
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 50
+SKILL=SPELL_HEAL_MINOR 80
+SKILL=SPELL_HEAL_MEDIUM 40
+SKILL=SPELL_HEAL_MAJOR 10
+#21202
+mob telgar ranger lord~
+Telgar, the Ranger Lord~
+Telgar, the Ranger Lord, contemplates the fate of the forest.
+~
+Telgar stands before you radiating power.  Dressed in bright green platemail
+and armed with a green glowing longsword, with a hooded cloak draped around
+his body, he stands as a true warrior of Mielikki.  He is going over some
+maps and doesn't seem to mind that you are in his quarters.
+~
+1074004366 2129921 136249393 1040711848 0 S
+44 -20 -40 99d1+15000 20d3+50
+1200000 1350000
+8 8 1
+1 0 24 23 23 23 22 22
+SKILL=SPELL_FIREBALL 80
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#21203
+mob tower guard~
+a Tower Guard~
+A man stands here guarding the entrance to the tower.
+~
+A powerfully built man in armor prevents your passage.
+~
+10 1 136249361 0 100 S
+25 20 7 2d10+2000 5d10+10
+2000 75000
+8 8 1
+0 0 14 12 11 12 10 8
+#21204
+mob horseman~
+a Horseman~
+A young man is here performing small duties.
+~
+A smallish young man stands carefully grooming a powerful
+horse.  He lovingly applies every stroke.
+~
+8 1 136249361 0 100 S
+5 10 10 5d1+10 1d6+5
+2000 150
+8 8 1
+0 0 13 14 12 11 8 7
+#21205
+mob lanceman man lance~
+a Lancer~
+A man with a lance is here.
+~
+A man with a tall lance dressed in leather armor is before you.
+~
+8 1 136249361 0 100 S
+7 6 8 7d1+40 2d5+5
+3000 210
+8 8 1
+0 0 12 13 11 11 9 10
+#21206
+mob armiger man~
+an Armiger~
+There is an armiger here trying out his armor.
+~
+A man gentle admires the craftmanship of a suit of armour.
+~
+8 1 136249361 0 100 S
+10 3 7 12d1+100 2d6+10
+7000 3000
+8 8 1
+0 0 14 12 12 12 12 10
+#21207
+mob greel esquire guard~
+Greel, the Esquire Guard~
+Greel stands at the ready, guarding the door.
+~
+The noble knight before you stands ever viligant awaiting for his
+chance to once again shine in combat.
+~
+262154 1 136249361 136 100 S
+20 0 4 75d1+1500 3d8+30
+15000 60000
+8 8 1
+0 0 17 16 14 15 15 11
+#21208
+mob esquire man~
+an Esquire~
+An Esquire stands at the ready.
+~
+A warrior stands ready to enter the fray.
+~
+8 1 136249361 0 100 S
+14 0 5 15d1+80 3d6+20
+10000 4200
+8 8 1
+0 0 14 14 14 13 10 11
+#21209
+mob sir barrow knight errant~
+Sir Barrow, the Knight Errant~
+Sir Barrow is standing before a brass door.
+~
+A tall warrior in brass-plated armour stands before this great
+door.  He eyes you warily as you approach his hand reaching for
+his blade.
+~
+262154 1 136249361 136 100 S
+23 0 3 30d1+1800 3d8+40
+25000 69000
+8 8 1
+0 0 17 18 15 16 15 15
+#21210
+mob knight errant new~
+a Knight Errant~
+A newly knighted errant examines his armor.
+~
+A newly vested Knight errant prepares for his journeys.
+~
+8 1 136249361 0 100 S
+20 0 4 30d1+1500 3d8+30
+15000 60000
+8 8 1
+0 0 17 18 15 14 13 12
+#21211
+mob sir timor knight bachelor~
+Sir Timor, the Knight Bachelor~
+Sir Timor guards the bronze door.
+~
+A tall warrior in bronze-armour awaits you before this very solid
+looking door.
+~
+262154 1 136249361 136 100 S
+26 0 2 20d1+2200 10d3+50
+33000 78000
+8 8 1
+0 0 18 19 15 16 13 15
+#21212
+mob sir briara knight~
+Sir Briara, the Knight~
+Sir Briara, the Knight, stands here polishing his shield.
+~
+A short stocky looking warrior with a shield almost his size
+rests lazily against the wall here.
+~
+262154 1 136249361 136 100 S
+30 0 1 100d1+3100 12d3+70
+45000 180000
+8 8 1
+0 0 19 17 16 18 16 13
+#21213
+mob knight~
+a Knight~
+A knight stands rigid here.
+~
+A tall cavalier in a Knight's armor is preparing for glorious
+combat.
+~
+262152 1 136249361 0 100 S
+26 0 2 50d1+2000 10d3+50
+33000 78000
+8 8 1
+0 0 17 18 17 17 13 14
+#21214
+mob banneret~
+a Banneret~
+A bold banneret awaits a challenge.
+~
+A bold man awaits your challenge.
+~
+262152 1 136249361 0 100 S
+33 0 0 50d1+4000 6d8+90
+60000 204000
+8 8 1
+0 0 20 19 18 18 17 18
+#21215
+mob sir silverstreak elven tower guard~
+Sir Silverstreak, the Elven Tower Guard~
+Sir Silverstreak, glows of sapphire.
+~
+A lithe elven warrior with an immense blue bow rests against the
+far wall.  He uncoils his tall frame as you approach.
+~
+262154 1 136249361 136 100 S
+33 0 0 80d1+3900 6d8+90
+60000 198000
+8 8 1
+0 0 19 20 18 17 16 14
+#21216
+mob sir mathis eurid ivory guard~
+Sir Mathis Eurid, the Ivory Guard~
+Sir Mathis Eurid glows of ivory.
+~
+A tall night dressed in the finest ivory battle gear you
+have ever seen stands pouring over some battle maps.
+~
+262158 1 136249361 1174405288 100 S
+40 0 -4 12d1+12000 10d10+80
+100000 240000
+8 8 1
+0 0 21 23 21 20 20 20
+#21217
+mob sir mentor grand knight~
+Sir Mentor, the Grand Knight~
+Sir Mentor, stands watchfully over the antechamber.
+~
+An older looking knight in battlestained armor stands at attention
+before you.
+~
+262154 1 136249361 136 100 S
+30 0 1 8d1+3400 12d3+70
+45000 180000
+8 8 1
+0 0 19 19 17 16 17 13
+#21218
+mob sir randal benzidar master trainer~
+Sir Randal Benzidar, the Master Trainer~
+Sir Randal Benzidar practices his skills.
+~
+Randal Benzidar is one of the most fit people you will ever meet.
+Every point of his body seems as if it is chiseled in stone.  He
+practices quitely to himself going through a long regime of
+exercises.
+~
+327694 1 136249361 1174405288 100 S
+40 0 -4 12d1+12000 13d8+50
+100000 240000
+8 8 1
+0 0 22 20 20 19 17 17
+#21219
+mob sir randal grand knight~
+Sir Randal, the Grand Knight~
+Sir Randal, stands watchfully over the antechamber.
+~
+An older man in grand armor stands watchfully at his post.
+~
+262154 1 136249361 136 100 S
+30 0 1 8d1+3400 12d3+70
+45000 180000
+8 8 1
+0 0 19 20 17 17 15 14
+#21220
+mob bachelor knight~
+a Knight Bachelor~
+A Bachelor Knight is preparing for his grand ceremony of entrance
+~
+A Knight prepares for his ceremony.
+~
+8 1 136249361 0 100 S
+23 0 3 90d1+1800 3d8+40
+25000 69000
+8 8 1
+0 0 17 16 15 15 15 15
+#21221
+mob xavier canadrel ivory keeper~
+Sir Xavier Canadrel, the Ivory Keeper~
+Sir Xavier Canadrel has an ivory glow about him.
+~
+A tall knight stands at attention.  He is dressed all in ivory and
+his armor seems to glow with a very bright light.
+~
+262158 1 136249361 1174405288 100 S
+30 0 1 43d1+3500 5d6+20
+45000 180000
+8 8 1
+0 0 19 17 16 18 16 14
+#21222
+mob sir triumph ranger knight~
+Sir Triumph, the Ranger Knight~
+Sir Triumph, the Ranger Knight, guards the locked door.
+~
+The door before you is guarded by a wall... er..hmm actually
+Sir Triumph the much touted Ranger Knight guards the way
+further in.  He is remarkably powerful looking and you shiver
+despite yourself.
+~
+262922 1 136249361 100663464 0 S
+40 0 -5 50d1+12650 15d10+30
+100000 240000
+8 8 1
+0 0 22 23 20 21 20 20
+#21223
+mob master hunt ranger~
+the Master of the Hunt~
+The Master of the Hunt is tracking his next kill.
+~
+A tall muscular looking man stands before you.  He is about
+nine feet tall with antlers sprouting from his head.  A soft
+pelt of fur covers the lower half of his body.
+~
+262664 1 136249361 100663464 -200 S
+40 0 -5 50d1+12650 20d8+80
+150000 240000
+8 8 1
+0 0 22 23 19 20 17 17
+#21224
+mob ranger tracker~
+a tracker~
+There is a ranger here, apparently tracking someone.
+~
+A lithe man stands examining everything around him.
+~
+8 1 136249361 0 0 S
+20 0 -3 20d1+1500 8d10+10
+30000 60000
+8 8 1
+0 0 17 15 14 14 12 11
+#21225
+mob courser~
+a courser~
+A courser is here, guarding the fort.
+~
+A tall soldier is before you watching you with a suspicous look.
+~
+8 1 136249361 0 0 S
+15 0 -2 10d1+200 5d10+10
+10000 4500
+8 8 1
+0 0 15 15 12 12 13 11
+#21226
+mob mountain lion~
+a mountain lion~
+A ferocious mountian lion growls angirly.
+~
+A powerful lion with sharp eyes and a sleek coat of golden
+fur. His legs are muscular from living in these conditions.
+~
+16777224 1 136249361 0 0 S
+8 0 0 8d1+50 2d10+2
+0 240
+8 8 0
+9 0 13 12 12 12 11 9
+#21227
+mob mountain dwarf~
+a mountain dwarf~
+A mountain dwarf is here yelling at you 'Don't go any higher!'
+~
+A stout fellow with a worried look on his face.  He is just over
+three feet tall, but he is sturdily build and his long white
+beard shows his age.  With a stern look on his face he looks
+at you.
+~
+8 32769 136249361 67108864 30 S
+28 0 -2 40d1+2400 5d4+20
+30000 84000
+8 8 1
+2 4 19 15 16 15 13 14
+SKILL=SKILL_KICK 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 50
+SKILL=SKILL_FOURTH 20
+#21228
+mob corwel ranger~
+Corwel, the Ranger~
+Corwel, the Ranger, is here practicing his gardening techniques.
+~
+A tall ranger stands tending his garden.  He turns to you and smiles.
+Amazingly it is the ever valiant Corwel.
+~
+8 1 136249361 100663336 0 S
+25 0 -4 20d1+2000 12d10+10
+50000 78000
+8 8 1
+0 0 18 17 16 17 15 13
+#21229
+mob belor ranger~
+Belor, the Ranger~
+Belor, the Ranger is here, practicing his gardening techniques.
+~
+Before you is the famous ranger Belor.  He stands a good six feet
+tall and he lovingly cares for his small garden.
+~
+8 1 136249361 101187592 0 S
+25 0 -4 20d1+2000 12d10+10
+50000 78000
+8 8 1
+0 0 18 17 16 15 14 15
+#21230
+mob squirrel druidic farmer~
+Squirrel, the druidic farmer~
+Squirrel, the druid, is overseeing the farmlands.
+~
+Squirrel sits here in meditation.  His hands continually make
+strange gestures then scoop up a bit of soil and disperse
+it evenly around him.  His hair is a dark green hue and
+his clothes have the color of earth itself.
+~
+522 32769 136249361 168 0 S
+20 0 4 75d1+1500 15d2+20
+10000 60000
+8 8 1
+1 6 17 17 16 14 14 14
+SKILL=SPELL_CAUSE_CRITIC 99
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MINOR 99
+#21231
+mob sir ludwig von helstrom~
+Sir Ludwig Von Helstrom~
+Sir Ludwig Von Helstrom is here, guarding a magical cage.
+~
+  Sir Ludwig has been charged with guarding the magical cage of the beast Slatag. He won't allow anyone to 
+enter, so perhaps it's best to turn back while you still can.
+~
+1074006286 32769 136249393 1040711848 500 S
+40 0 -8 200d1+30000 20d4+70
+800000 900000
+8 8 1
+1 4 24 22 23 19 19 21
+SKILL=SKILL_KICK 90
+SKILL=SKILL_RESCUE 99
+SKILL=SKILL_EXTRA_DAMAGE 80
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_SECOND 50
+SKILL=SKILL_THIRD 30
+SKILL=SKILL_FOURTH 20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+$~
+#999999

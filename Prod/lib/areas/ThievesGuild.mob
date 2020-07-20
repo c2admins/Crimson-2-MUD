@@ -1,0 +1,411 @@
+#16600
+mob shady thief guard~
+The shady guard~
+A shady guard is here, eyeing you suspiciously.
+~
+This is a shady guard, guarding the entrance to an obviously 
+cooler place.
+~
+57418 1 136249361 34078760 -250 S
+17 23 27 100d5+0 6d5+5
+4200 5000
+8 8 0
+1 3 14 16 12 12 10 11
+#16601
+mob quinn thief master~
+Quinn, the Master Thief~
+Quinn, the Master Thief, is expecting your arrival.
+~
+Looking at this suave guy, you would never know that he is the head of 
+this operation.  But then, an ordinary looking guy makes the best 
+thief.  He winks at you and rushes to the attack!
+~
+57422 1 136249361 34078856 -200 S
+36 7 -14 1300d3+100 5d6+4
+100000 212000
+8 8 0
+1 3 19 19 18 17 16 13
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+#16602
+mob head interrogator~
+The Head Interrogator~
+The Head Interrogator is devising a plan to loosen your tongue!
+~
+   A woman with no compassion in her eyes stares at you in disbelief for
+barging into her room.  You think, "How could a woman be the head 
+interrogator?"  But then you realize that only a woman could be cruel
+enough for the job.  She does all she can to kill you.
+~
+319566 32769 136249361 33554568 -1000 S
+31 12 2 1100d2+100 15d6+10
+43000 188000
+8 8 0
+1 0 20 18 18 19 16 18
+SKILL=SPELL_GAS_BREATH 76
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#16603
+mob annoying hidden guard~
+An annoying hidden guard~
+A hidden mob is here; you can't see him.
+~
+This guard was hidden, which is why you didn't see him until he attacked
+you.  You suspect he is only one of many.
+~
+57420 1 136249361 43515912 -185 S
+18 22 26 200d2+40 6d7+2
+4700 5355
+8 8 0
+1 0 14 13 12 13 12 9
+#16604
+mob scary spider~
+A scary spider~
+A scary spider is looking for someone to suck.
+~
+Even you, a hardened adventurer, is intimidated by this abnormally large
+spider.  It turns its fangs upon you and contemplates whether to suck away.
+~
+16842952 1 136249361 33554432 0 S
+5 32 37 10d5+5 1d4+4
+200 140
+8 8 0
+0 0 13 12 12 11 8 7
+#16605
+mob thief blacksmith~
+the blacksmith~
+An enormously strong blacksmith is here, making thiefly tools.
+~
+The thieves' blacksmith is an enormously huge man, with forearms as big as
+your thighs.  He pays no attention to you when you walk in, but continues
+his delicate work on a set of lockpicks.
+~
+262158 32769 136249361 33556616 -200 S
+31 12 2 100d19+800 20d5+5
+4500 193000
+8 8 0
+1 3 17 19 16 15 13 13
+SKILL=SKILL_STEAL 60
+SKILL=SPELL_FROST_BREATH 60
+#16606
+mob graffin's shadow thief~
+the shadow~
+The shadow knows what evil lurks in the hearts of thieves.
+~
+Who knows what evils lurk in the hearts of thieves?  The shadow, of
+course.  And he will know what lurks in your heart too, as soon as he 
+slices it open!
+~
+140 32769 136249361 102236160 -200 S
+16 24 28 100d3+95 8d5+0
+3500 5000
+8 8 0
+0 3 14 16 13 14 10 13
+SKILL=SKILL_STEAL 40
+SKILL=SPELL_FROST_BREATH 40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#16607
+mob Mystif sage soothsayer~
+Mystif~
+Mystif, resident sage and soothsayer, is telling the future here.
+~
+The secret to a successful thieves guild is a good sage and soothsayer, 
+preferably one who can see the future, as this grizzled old man can.
+He doesn't SEEM to have much physical strength.
+~
+14 32769 136249361 33554568 -1 S
+35 8 -10 1500d3+200 6d10+5
+85000 220220
+8 8 0
+1 1 19 18 18 19 15 17
+SKILL=SPELL_BLINDNESS 80
+SKILL=SPELL_BURNING_HANDS 80
+SKILL=SPELL_HAIL_STORM 80
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_CURSE 80
+SKILL=SPELL_ENERGY_DRAIN 80
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_HARM 80
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_MAGIC_MISSILE 80
+SKILL=SPELL_POISON 80
+SKILL=SPELL_SLEEP 80
+SKILL=SPELL_CAUSE_CRITIC 80
+SKILL=SPELL_FIRE_BREATH 80
+SKILL=SPELL_HEAL_MINOR 80
+SKILL=SPELL_EARTHQUAKE 80
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#16608
+mob ugly otyugh~
+the Otyugh~
+An ugly Otyugh is here, devouring garbage, and YOU!
+~
+The Otyugh is a bulbous creature, 6 feet high with fearsome teeth and 
+tentacles.  As you enter he raise his tentacles for a stike at fresh meat.
+~
+122894 32769 136249361 100663432 0 S
+27 15 14 400d4+300 30d2+5
+22000 85000
+8 8 0
+0 0 18 19 16 16 16 15
+SKILL=SPELL_ACID_BREATH 64
+#16609
+mob jhessail~
+Jhessail the Relentless~
+Jhessail the Relentless is preparing to meet her next victum.
+~
+  You see before you a very short woman.  She is only about 3 and 1/2 feet
+tall but she seems very intimidating none the less.  She is here practicing
+her fighting skills and you notice that she moves with lightning speed and
+always goes directly for the kill, never leaving her victums any opportunity
+to harm her.  She seem to be a great warrior in thieves clothing and you see
+a fire building in her eyes as she turns toward you.  She raises her weapons
+and runs directly at you, obviously preparing to add you name to her list of
+deceased foes.
+~
+319566 32769 136249361 33816744 -250 S
+35 8 -10 100d23+1000 20d6+10
+80000 215000
+8 8 0
+1 4 18 17 17 16 15 17
+SKILL=SPELL_ACID_BREATH 70
+#16610
+mob deadly virus~
+The Deadly Virus~
+The Deadly Virus is here, attempting to enter you.
+~
+The Deadly Virus is a thief who earned that name by being quick, invisible,
+and impossible to kill.  Not to mention he messes you up really bad for
+a long time.
+~
+57420 32769 136249361 102236296 0 S
+23 17 21 350d3+100 7d9+3
+10000 67000
+8 8 0
+0 0 18 17 17 16 15 12
+SKILL=SKILL_STEAL 60
+SKILL=SPELL_FIRE_BREATH 60
+#16611
+mob high thief guard~
+the thief guard~
+A high-ranking thief guard is here, guarding stuff.
+~
+A high level thief guard move with the grace and confidence of a cat.  His
+piercing eyes help in intimidating you as he looks for your weaknesses.
+~
+57358 1 136249361 33554568 -100 S
+28 15 11 100d17+370 30d2+10
+25000 83000
+8 8 0
+0 3 19 17 16 17 16 15
+#16612
+mob the court jester~
+the Court Jester~
+The Court Jester is here, entertaining you.
+~
+The jester in this court has a thankless job.  If for just one day he fails
+to make Quinn laugh, he is sent to the Interrogator for some "reward."  
+He implores you to smile.
+~
+262282 32769 136249361 34078848 100 S
+31 12 2 900d3+200 40d2+5
+35000 193000
+8 8 0
+1 0 18 17 18 17 15 13
+SKILL=SKILL_STEAL 68
+SKILL=SPELL_FROST_BREATH 68
+#16613
+mob nick fence~
+Nick~
+Nick the Fence is here, selling not-so-hot merchandise.
+~
+Before you stands a VERY big man with a smile on his face.  He examines you
+nonchalantly and furtively covers his merchandise.  He looks you right in
+the eye and says, "What can i get for ya?"
+~
+262222 32769 136249361 101187712 0 S
+32 11 -1 100d29+400 10d10+10
+55000 198000
+8 8 0
+1 0 18 16 17 17 14 14
+SKILL=SKILL_STEAL 64
+SKILL=SPELL_GAS_BREATH 64
+#16614
+mob rust monster~
+the rust monster~
+A rust monster is here, looking for some food.
+~
+This is a small, flat mammalian-looking create with shovel-shaped tail and a
+craving for metal as food.  It eyes you and then decides it is hungry.
+~
+16834636 32769 136249361 100663296 0 S
+17 23 27 100d3+120 15d2+2
+4400 5500
+8 8 0
+0 0 14 15 13 13 11 11
+SKILL=SPELL_FROST_BREATH 40
+SKILL=SPELL_ACID_BREATH 40
+#16615
+mob flame salamander fire~
+the flame salamander~
+A fire salamander is here, emerging from the lava flow.
+~
+This is apparently a tall, thin humanoid with red, scaly skin and a tail.
+It has a passion for fire and wields a wicked-looking weapon.
+~
+16834764 32769 136249361 33554432 0 S
+18 22 26 100d3+100 3d10+5
+5000 5655
+8 8 0
+0 0 14 15 11 13 11 8
+SKILL=SPELL_FIRE_BREATH 30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#16616
+mob grendel fiery dragon~
+Grendel~
+Grendel, the Fiery Dragon, is here, ruling his people.
+~
+Grendel the dragon rules his people with an even hand.  His symbol is, of 
+course, the scales of justice.  He has little tolerance of people other
+than his own.
+~
+4456458 32769 136249361 100663432 0 S
+35 8 -10 100d29+700 4d4+7
+85000 215000
+8 8 0
+11 0 19 21 18 18 15 18
+SKILL=SPELL_BLINDNESS 80
+SKILL=SPELL_BURNING_HANDS 80
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_CURSE 80
+SKILL=SPELL_ENERGY_DRAIN 80
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_MAGIC_MISSILE 80
+SKILL=SPELL_SLEEP 80
+SKILL=SPELL_FIRE_BREATH 80
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#16617
+mob glabrezu~
+the glabrezu~
+The glabrezu is here, and it is hungry!
+~
+The glabrezu is a creature native to another plane of existence, a plane
+not as nice as this one.  Needless to say it is not happy about being 
+trapped in this maze, and it wants to take its frustrations out on you.
+~
+57420 32769 136249361 101187592 -500 S
+20 20 24 50d19+300 10d4+5
+5000 64000
+8 8 0
+0 0 16 15 16 14 15 13
+SKILL=SPELL_BLINDNESS 50
+SKILL=SPELL_BURNING_HANDS 50
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_CURSE 50
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SPELL_MAGIC_MISSILE 50
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_ACID_BREATH 50
+#16618
+mob pit fiend~
+the pit fiend~
+A pit fiend is here, heating up lunch with his breath.
+~
+The horrid abomination before you is one of the ruling race of Tarterus.
+He is EXTREMELY upset about being trapped in this crappy dimension.
+~
+57420 32769 136249361 101187592 -1000 S
+22 18 22 50d19+1200 25d2+0
+10000 69000
+8 8 0
+0 0 16 18 14 15 15 13
+SKILL=SPELL_BLINDNESS 50
+SKILL=SPELL_BURNING_HANDS 50
+SKILL=SPELL_HAIL_STORM 50
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_CURSE 50
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SPELL_HARM 50
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SPELL_MAGIC_MISSILE 50
+SKILL=SPELL_POISON 50
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_CAUSE_CRITIC 50
+SKILL=SPELL_FIRE_BREATH 50
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_EARTHQUAKE 50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#16619
+mob worm purple~
+the purple worm~
+A purple worm is here, existing.
+~
+The purple worm is a gigantic monster, a full 30 feet long and all
+tube.  You almost don't know which end to attack.
+~
+17096718 32769 136249361 33554432 0 S
+29 14 8 100d29+1000 25d3+10
+28000 100000
+8 8 0
+0 0 17 16 16 15 12 13
+SKILL=SPELL_ACID_BREATH 50
+#16620
+mob black cat~
+the black attack cat~
+The black attack cat is here, guarding the room.
+~
+This black cat is large for its species, but is still as agile
+and powerful as its cousins.  It stares you down with its
+yellow eyes.
+~
+16834698 1 136249361 36175872 0 S
+10 29 34 50d3+20 4d3+4
+650 2985
+8 8 0
+0 0 14 15 11 11 10 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#16621
+mob foxy lady~
+the foxy lady~
+A foxy lady is here, attempting to seduce you.
+~
+A scantily clad young lady is trying to seduce you.  It doesn't
+matter if you are female too, she will still try to seduce you.
+What is this mud coming to?
+~
+142 32769 136249361 33554560 -250 S
+20 20 24 300d3+50 20d2+2
+5000 30000
+8 8 0
+1 0 15 16 12 14 10 11
+SKILL=SKILL_STEAL 40
+$~
+#999999

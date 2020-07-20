@@ -1,0 +1,682 @@
+#21300
+mob lucifanticus luck dragon ancient wyrm~
+The Ancient Wyrm of Luck, Lucifanticus~
+Lucifanticus, the Ancient Luck Wyrm rests easily here.
+~
+This enormous beast has the eyes of a kitten.  He seems to look at
+you as if waiting to receive a scratch.  Make no mistake though he
+is one of the largest creatures you've ever seen.  The entire
+roof of the tower is his lair.  From head to tip of tail you'd guess
+him to be no shorter than one-hundred feet long.  His wings, although
+tucked, appear as if they could block out the sun.  There is a
+bright golden stripe down his back, starting at his neck.  His underbelly
+is as white as ivory and you'd almost swear that his scales are made
+of ivory.
+~
+1212527374 32769 136249393 1308623016 0 S
+50 -15 -40 60d1+45000 10d10+20
+10000000 4500000
+8 8 1
+0 0 24 22 21 23 19 20
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_CURE_BLIND 99
+SKILL=SPELL_REMOVE_POISON 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_UNDETECT_INVIS 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_HASTE 99
+SKILL=SPELL_AID 99
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_TYPE=106
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_TYPE=105
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_TYPE=105
+#21301
+mob sir abelson chambers guard~
+Sir Abelson, the Chambers Guard~
+Sir Abelson, guards the chambers.
+~
+Abelson stands before you in this small chamber.  He is powerfully
+built and stands ever viligant at his task.
+~
+262154 1 136249361 136 100 S
+30 0 1 8d1+3200 12d3+70
+45000 180000
+8 8 1
+0 0 18 17 16 18 17 14
+#21302
+mob sir ludwig von henrice blue knight~
+Sir Ludwig Von Henrics, the Blue Knight~
+Sir Ludwig Von Henrics, the Blue Knight ponders your significance.
+~
+Sir Ludwig Henrics is the lord of the Tuscan cavaliers.  He stands before you
+as a very imposing sight.  He is over six feet tall with dark brown hair and
+brown eyes which seem to gaze right through you to your very soul.  There are
+many visible scars on his face and neck and the dents in the shield that he
+prominently displays, are no doubt from many vicious battles.  His shield
+displays his coat of arms upon which are several symbols that you do not
+recognize. Sir Ludwig is often referred to as 'The Blue Knight,' a name
+derived from his suit of full platemail which has been enchanted to glow
+blue. You also notice that he seems to have a lot of mobility for someone
+wearing full plate, as well as the fact that he moves without making a sound.
+~
+1074006286 32769 136249393 1040711848 500 S
+40 0 -8 100d1+9000 20d4+70
+800000 900000
+8 8 1
+1 4 24 22 23 19 19 21
+SKILL=SKILL_KICK 90
+SKILL=SKILL_RESCUE 99
+SKILL=SKILL_EXTRA_DAMAGE 80
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_SECOND 50
+SKILL=SKILL_THIRD 30
+SKILL=SKILL_FOURTH 20
+#21303
+mob ivory golem~
+the Ivory Golem~
+A giant statue of Ivory seem to stare at you.
+~
+A tall automaton made of pure ivory stands awaiting the call of its
+creator.  It makes the perfect guard as it never grows tired of
+standing at its post.
+~
+8724494 1 136249361 1174405288 0 S
+40 0 -7 50d1+10000 12d5+40
+400000 600000
+8 8 0
+0 0 22 23 19 20 17 18
+#21304
+mob sir grendall von dennal cavalier sorcerer~
+Sir Grendall Von Dennal, the Cavalier/Sorcerer~
+Sir Grendall Von Dennal, delicately mixes some potions.
+~
+This knight is odd for he wears the robes of a knight but not
+the armor and instead of practicing with his weapons he is
+slowly mixing many delicate potions.
+~
+328462 1 136249361 1175453866 100 S
+37 0 -5 50d1+7000 17d3+50
+200000 600000
+8 8 1
+0 0 22 23 22 20 19 17
+#21305
+mob chevalier~
+a Chevalier~
+Awaiting his promotion, a chevalier prepares here.
+~
+A tall chevalier stands at attention awaiting the eyes of his
+superior.
+~
+262152 1 136249361 0 100 S
+24 0 -1 15d1+1200 6d4+20
+15000 72000
+8 8 1
+0 0 20 19 19 20 18 16
+#21306
+mob sir endar marrot lord mounts~
+Sir Endar Marrot, the Lord of Mounts~
+Sir Endar Marrot polishes a HUGE saddle.
+~
+A rough looking knight with powerful looking shoulders stands
+beside a warhorse polishing his saddle.
+
+~
+262158 1 136249361 1174405290 0 S
+35 0 -8 60d1+4500 12d3+30
+80000 210000
+8 8 1
+0 0 23 22 20 20 19 21
+#21307
+mob water elemental~
+the water elemental~
+You can barely make out a strange form in the water.
+~
+A giant swirling whirlpool which blends perfectly with its surroundings.
+It looks like the river itself has come alive to feed on those passing
+by it.
+~
+57358 32769 136249361 101712040 0 S
+35 0 -1 50d1+2000 10d10+10
+10000 300000
+8 8 0
+0 0 20 20 18 17 17 14
+SKILL=SPELL_LIGHTNING_BREATH 90
+#21308
+mob fire elemental~
+fire elemental~
+A writhing flame is burning here.
+~
+A swirling mass of flame.  If it wasn't moving towards you with
+such a direct path you might think this was an ordinary forest
+fire. However, the heat that it generates makes you think that
+it comes from the elemental plane.
+~
+262154 32769 136249361 100665512 0 S
+40 0 -3 50d1+5000 35d2+30
+50000 230000
+8 8 0
+0 0 21 20 21 21 19 16
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_RESCUE 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_SECOND 99
+#21309
+mob earth elemental~
+the earth elemental~
+The earth seems to shift strangely.
+~
+This giant statue of earth stands about fifteen feet above your
+head. Clearly this is no average elemental.  Its arms are the
+size of oak trunks and its head, if hollowed, could make a nice
+dwelling for a couple of trolls.
+~
+262154 32769 136249361 101711912 0 S
+40 0 -3 50d1+6000 70d2+50
+50000 300000
+8 8 0
+0 0 22 21 19 21 19 20
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SPELL_HOLD_PERSON 99
+SKILL=SPELL_HASTE 99
+SKILL=SPELL_EARTHQUAKE 99
+#21310
+mob untamo god sleep~
+Untamo, God of Sleep and Dreams~
+A Finnish God stands here putting people to sleep.
+~
+Untamo is among the first rank of the Gods of RamsHorn, brother to Ukko, Ikka, Ahto, Hissi and Flamenhein. He
+is a quiet, unprepossessing deity, little concerned in the politics or day to day lives of men. But he holds 
+sway over the mind of mankind, in sleep and in darkness, and as such has great power.
+The secrets than we all keep hidden from others, that we admit not even to ourselves, these are visible to
+Untamo in the realm of dreams. He may send dreams of pleasure and inspiration, or portents of warning and 
+nightmares of sweat drenching terror. The wrath of Untamo, rare as it is, can be a terrible thing, for to those 
+so singled out, rest and sleep is denied. The mere act of closing one's eyes can bring on visions that freeze 
+the soul, and those that do not kill themselves soon succumb to lack of sleep.
+~
+262926 1 136249361 637534376 0 S
+50 -15 -40 50d1+40000 20d20+50
+5000000 2500000
+8 8 1
+0 0 26 25 26 25 22 22
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#21311
+mob slatag beast~
+Slatag~
+The Slatag eyes you and charges.
+~
+The mere sight of this monster makes you wish you had stayed
+away.  It is a bipedal beast with numerous limbs with which to
+attack you with.  Its carapace is reflective and looks to be
+incredibly hard.  His head is mostly mouth with a huge metallic
+object stuck atop.  The Slatag prepares to charge.
+~
+1140973580 2916353 136249393 1325662760 -400 S
+50 -10 -40 20d1+35000 25d13+40
+5000000 2500000
+8 8 0
+0 0 24 23 21 23 20 19
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_RESCUE 99
+SKILL=SKILL_PARRY 80
+SKILL=SKILL_DODGE 60
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=75
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#21312
+mob mithril golem~
+an Ancient Mithril Golem~
+A statue of brilliant mithril guards the door.
+~
+An automaton made of pure mithril stands silently here awaiting the
+call of its creator.
+~
+8708110 1 136249361 1174405288 0 S
+40 0 -7 50d1+10000 12d3+99
+400000 400000
+8 8 0
+0 0 21 23 21 19 20 19
+#21313
+mob ichzentenopheous man mental mystic~
+Ichzentenopheous, the Mental Mystic~
+A VERY old man is deep in contemplation.
+~
+A man who radiates such a glow must surely be magical.  His body
+itself seems to give off a magical hue.  His white hair seems to
+touch his ankles yet he has the face of a nineteen year old.
+He never seems to be in one place, his body seems to move though
+you are sure he is sitting perfectly still.  His cloak seems to
+have a life of its own as well.  The greens of it seem to be a
+smoke which moves about the purple fabric.
+~
+1141112846 262145 136249361 570687656 0 S
+45 -5 -40 20d1+15000 20d10+99
+1400000 1400000
+8 8 1
+1 0 27 25 26 25 24 24
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#21314
+mob vainamoinen hero~
+Vainamoinen, Hero of the Kalevala~
+A mighty Finnish hero stands here.
+~
+The son of ILMATAR, he spent 730 years in her womb and became so bored waiting to be born that he took matters 
+into his own hands and crawled out. 
+He discovered fire in the belly of a fish which was in the belly of a fish which was in the belly of a fish, 
+and thus created the world's first three-course fish dinner. 
+He also invented the world's first harp, using the bones of a gigantic pike and the hair of a maiden (who was 
+presumably equally gigantic).
+~
+262926 1 136249361 100663464 200 S
+49 -15 -40 14d1+30000 70d10+99
+4500000 2250000
+8 8 1
+0 0 24 22 22 22 22 20
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#21315
+mob kullervo hero~
+Kullervo, Hero of the Kalevala~
+A mighty Finnish hero stands here.
+~
+In the Finnish Kalevala Kullervo was the ill-fated son of Kalervo. He is the only unredeemably tragic character 
+in Finnish mythology.
+His father died in a clash with his own brother Untamo, who sells Kullervo as a slave to Ilmarinen. Later 
+Kullervo flees and finds that his family is still alive except for his sister who has disappeared. 
+Kullervo's father sends him to pay the taxes and on the way back he seduces his sister without realising who
+she is. Out of shame the sister commits suicide. Seeking revenge Kullervo kills Untamo and his family, only to
+find his own family dead when he returns home. In the end Kullervo also commits suicide.
+Kullervo proved inept and ignorant having not had a father to pass on knowledge and skills.
+The death poem of Kullervo, where he (like Hamlet) interrogates his blade, is justly famous. Unlike the dagger 
+in Hamlet, Kullervos sword replies, bursting into song affirming that if it gladly participated in his other 
+foul deeds, it would gladly drink of his blood also.
+~
+319758 1 136249361 100663464 0 S
+48 -5 -40 14d1+30000 25d15+100
+3500000 1440000
+8 8 1
+0 0 24 25 23 23 22 20
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#21316
+mob lemminkainen hero~
+Lemminkainen, Hero of the Kalevala~
+A mighty Finnish hero stands here.
+~
+Lemminkinens mother, after finding that her son has been killed, goes to the netherworld. Collecting the
+severed pieces of the fallen heros body from the black river of death, she puts them together and revives her 
+son by means of the nectar of immortality fetched for her from heaven by the honey bee. 
+~
+262926 1 136249361 100663464 50 S
+50 -25 -40 14d1+30000 25d15+100
+5000000 2500000
+8 8 1
+0 0 23 23 21 22 20 18
+ATTACK_SKILL=65
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=103
+ATTACK_SKILL=65
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=103
+#21317
+mob ilmarinen hero~
+Ilmarinen~
+A mighty Finnish hero stands here.
+~
+The Divine Smith and Eternal Hammerer. 
+He was the brother (or possibly just a good friend) of VAINAMOINEN, for whom he forged a SAMPO. This was a 
+magic mill of amazing complexity which included the magic ingredients of a swan's quill tip, a barren cow's 
+milk, a barley grain and the wool of one ewe. It was three-sided and could grind corn, money and salt, yet was 
+easily portable. 
+This gadget was supposed to buy a bride for VAINAMOINEN, but things didn't work out with the prosective in-laws 
+and they snatched it back. During a chase it got lost at sea, but it still grinds out salt.
+~
+262926 1 136249361 100663464 50 S
+49 -26 -40 14d1+30000 25d15+100
+4500000 2250000
+8 8 1
+0 0 24 22 23 23 21 22
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_SKILL=60
+ATTACK_TYPE=108
+#21318
+mob tiera shield man~
+Tiera, Lemminkainen's Shield Man~
+A mighty shield man, guard's a Finnish Hero.
+~
+  Tiera will protect Lemminkainen, even if it means his life!
+~
+263694 1 136249361 100663464 200 S
+40 0 -6 80d1+10000 20d10+90
+200000 240000
+8 8 1
+0 0 22 23 19 19 19 16
+#21319
+mob ilmatar goddess mothers~
+Ilmatar, Goddess of Mothers~
+The Goddess of Mothers watches over the nursery.
+~
+Goddess of Air and Creator of the world via Cosmic Egg cookery. 
+In the beginning there was only ILMATAR, the void and a great deal of wind. ILMATAR, tired of counting 
+rainbows and letting the wind play with her hair, began to long for a son.  
+Her longing was so great that the East Wind itself took pity. She found herself buffeted and tossed by the 
+wind's tempestuous love-making until, exhausted, she could bear it no longer and collapsed. And there inside 
+her was conceived VAINAMOINEN, the child of the wind.  
+Unfortunately he didn't seem inclined to make an appearance, and after seven centuries or so she began to 
+give up hope of seeing him. Then one day she noticed a Celestial Eagle flying overhead. 
+The poor bird was desperately pregnant and looking for somewhere to land. So ILMATAR helpfully raised her 
+knee and the bird came swooping down. Half a dozen Cosmic Eggs were laid, followed by an egg made of iron. The 
+bird then gathered them all up, sat upon them and went to sleep... 
+And now ILMATAR was faced with a problem familiar to anyone with a household pet. How do you move without
+waking them up? Her leg was aching, so she slowly, carefully, she began to stretch out her leg.. and slowly, 
+inevitably, the seven eggs rolled off and fell majestically into the raging sea. 
+No sooner had they touched the water than the shells cracked and a vast Cosmic Omelette was formed upon the 
+waves. ILMATAR watched in amazement as the churning mixture solidified into Heaven and Earth. One yolk slipped 
+into the sky to form PAIVA, the Sun, while the egg white became KUU, the glistening Moon. Stars were made from 
+pieces of speckled eggshell, and thus the world was formed. 
+ILMATAR was delighted with events, and busied herself shaping the lands and adding finnishing touches. And then 
+she felt a stirring inside her. VAINAMOINEN had woken up after so many years and was eager to see the new 
+world. 
+~
+262926 32769 136249361 637534376 500 S
+50 -40 -40 14d1+60000 25d25+99
+5000000 2500000
+8 8 2
+0 0 26 26 24 24 25 23
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#21320
+mob mielikki goddess nature~
+Mielikki, the Goddess of Nature~
+The Mistress of the Forest watches over nature.
+~
+Mielikki is the Finnish goddess of forests and the hunt. She is referred to in various tales as either the
+wife or the daughter-in-law of Tapio. She is said to have played a central role in the creation of the bear.
+~
+262926 32769 136249361 637534376 50 S
+50 -45 -40 50d1+60000 20d20+50
+5000000 2500000
+8 8 2
+0 0 27 27 25 26 22 23
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_TYPE=100
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_TYPE=100
+#21321
+mob kiputytto goddess sickness~
+Kiputytto, Goddess of Sickness~
+The Mother of the Plague is here causing disease.
+~
+Kiputytto is a twisted and bent hag, with sagging sick covered in sores and blisters that constantly run with
+fresh puss. She is wicked and fickle, sparing some and killing others with no obvious reasons. It is only known 
+that she enjoys greatly the slow suffering caused by illness. It is said that Kiputytto is mother of Diancecht.
+~
+385806 32769 136249361 637534376 -1000 S
+50 -35 -40 14d1+40000 20d20+50
+5000000 2500000
+8 8 2
+0 0 27 25 26 26 24 25
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_PESTILENCE 99
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_TYPE=105
+#21322
+mob loviatar goddess hurt~
+Loviatar, Goddess of Hurt~
+The Maiden of Pain decides to torture you next.
+~
+Loviatar is the goddess of pain and suffering.  She delights in inflicting pain on others and often descends to 
+the Material Plane to sate her wicked desires.  Loviatar often appears as a beautiful blonde human woman with 
+blood red lips.  Her followers are sadists who inflict harm onto others for the shear enjoyment of it.  
+Worshipers of Loviatar believe that only through pain may they reach a pure state. 
+~
+320270 32769 136249361 637534376 -1000 S
+50 -35 -40 50d1+65000 20d20+50
+5000000 2500000
+8 8 2
+0 0 26 28 26 25 22 25
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#21323
+mob surma demigod death trickery~
+Surma, Demigod of Death~
+A gigantic demigod calls for your death.
+~
+Surma is said to be the son of Tuoni and Tuonetar, and is depicted as a shrouded figure, with green eyes 
+blazing in the shadow of his cowl. He is the youngest of the northern gods, but is said that even though he was 
+a babe during the First Godswar he caused great evil. 
+Surma is a trickster god that takes great pleasure in betraying trust and taking advantage of the greed and 
+lust of humans. It is said that even his own parents try to ban him from the Underworld, but that he always 
+finds a way to get there anyway. Hiisi rarely allows him in his court, and Guuron is said to want to kill him 
+for following him around for years and bringing him ill-luck. 
+~
+385806 32769 136249361 637534376 -1000 S
+50 -10 -40 50d1+50000 30d20+99
+5000000 2500000
+8 8 1
+0 0 26 25 26 24 23 24
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#21324
+mob louhi old crone~
+Louhi, Old Crone of Pohjola~
+An old woman is here, looking over the events in Pohjola.
+~
+In Finnish mythology and the mythology of Lapland, Louhi is a goddess of the land of the dead known as Pohjola.
+She always appears as an old crone, and it is said her magical powers and hatred of people is unrivaled.
+~
+385806 32769 136249361 603979944 -1000 S
+48 0 -40 14d40+30000 15d15+100
+300000 1440000
+8 8 2
+0 0 24 23 21 22 22 21
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+SKILL=SPELL_LIFETAP 99
+ATTACK_SKILL=80
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#21325
+mob hiisi god evil~
+Hiisi, God of Evil~
+A Greater God stands here looking over all that is evil.
+~
+Hiisi is a bald man of great girth dressed in black. He is the leader of the Pohjolan faction of gods, and
+is sometimes called Ukkos brother. Hiisi wants nothing more than to destroy the Kalevala and rule all realms 
+and planes, and to avoid the fate deigned to be his at Ragnarok. He is as dedicated to following the letter 
+and truth of law as Ukko, but only to his benefit.
+~
+385806 1 136249361 1174407336 -900 S
+50 -35 -40 90d1+70000 30d30+50
+5000000 2500000
+8 8 1
+0 0 28 27 27 26 26 27
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#21326
+mob tuoni god underworld~
+Tuoni, God of the Underworld~
+The Lord of the Underworld readies his weapon.
+~
+Tuoni is the banned god. It was he who shouldered the blame for beginning the Second Godwar, and as 
+punishment, Ukko banned him from granted powers or spells to any mortals. He spends his time scying on the 
+mortal realm in his silver pool, and relives battles with the spirits of the dead. Tuonis anger and 
+resentment is said to be greater than all the other gods of the Pohjola, hating them all except save for his 
+wife, Tuonetar.
+Tuoni is a tall man with ashen skin, dressed in black furs, and surrounded by a pack of hell hounds. It is 
+said that when Tuoni leaves the Underworld to conquer the mortal realm, Ragnarok shall begin
+~
+319502 1 136249361 1174405288 -800 S
+50 -59 -40 90d1+90000 30d30+50
+5000000 2500000
+8 8 1
+0 0 28 27 27 26 24 25
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=70
+ATTACK_TYPE=100
+#21327
+mob tuonetar goddess underworld~
+Tuonetar, Goddess of the Underworld~
+The Lady of the Underworld readies her weapon.
+~
+Tuonetar is the Goddess of Death and the Underworld. She is the wife of Tuoni, God of the Underworld, and is
+a frighteningly white woman, bone-thin and very tall, with jagged grey hair, and almost claw-like fingers. She 
+the patron of many evil witches in the Northern Reaches, and is said to take great pleasure in the pain the 
+separation through death causes lovers. Legends say that she may offer a lover an impossible task to 
+accomplish in order to return his beloved to life but steals that soul as well when he fails. 
+Tuonetar once shared the domain of death with her husband, but Tuonis power is now banned from the mortal 
+world, and while revered he has no church.
+~
+320270 1 136249361 1174405288 -900 S
+49 -10 -40 90d1+65000 30d30+50
+4500000 2250000
+8 8 2
+0 0 29 27 27 28 24 23
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#21328
+mob ahto god sea~
+Ahto, God of Seas and Waters~
+There is a strange yet powerful presence in the water.
+~
+Ahto is the important God of Seas and Waters.  Sacrifices are made to this greater god by putting valuables 
+into deep water. He frequently sends his shield man, the Water Dwarf, to aid those who call upon him.
+~
+262926 1 136249361 1174405288 500 S
+50 -27 -40 90d1+65000 30d30+50
+5000000 2500000
+8 8 1
+0 0 29 30 26 27 24 23
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=100
+#21329
+mob water dwarf shield man~
+Water Dwarf, Shield Man for Ahto~
+A powerful shield man is here.
+~
+The Water Dwarf serves the water god Ahto, and is grequently sent on missions to aid those who call upon the
+aid of the water god.
+~
+262158 1 136249361 100663464 500 S
+42 0 -30 14d1+15800 20d2+40
+1000000 369000
+8 8 1
+0 0 24 24 23 22 20 18
+#21330
+mob ukko supreme god air~
+Ukko, Supreme God of the Kalevala~
+The Supreme God of the Kalevala stands here.
+~
+Top Sky God who brought ILMATAR into being. He specialises in Storms and Lightning. 
+He's also the source of a mysterious celestial beverage which drops from the skies. This is not so much manna 
+from heaven as honey from the clouds. It's not only sweet but also has amazing adhesive properties
+~
+262922 1 136249361 1174405288 300 S
+50 -59 -40 70d1+100000 40d20+100
+15000000 5000000
+8 8 1
+0 0 30 28 28 28 28 25
+ATTACK_SKILL=90
+ATTACK_SKILL=90
+ATTACK_SKILL=90
+ATTACK_TYPE=100
+$~
+#999999

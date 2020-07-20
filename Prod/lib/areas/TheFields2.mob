@@ -1,0 +1,331 @@
+#20500
+mob dirt maggot~
+A Flesh-Eating Dirt Maggot~
+A long and feeble looking worm looks for flesh to gnaw upon.
+~
+  You see a small, skin-eating creature roaming down in the ashes, it has caught
+the scent of your flesh and approaches you with great hunger, it looks like it's
+feeding time.
+~
+83943434 1 136249361 128 -1000 S
+41 10 -5 1d1+4999 10d10+23
+750000 275000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_SECOND 99
+#20501
+mob corpse bloated~
+A Bloated Corpse~
+A skinless, headless monstrousity still roams.
+~
+  A long dead hero stands next to you.  His flesh half there and half rotted, yet
+he still roams here, imagining that of yesteryear, when he was alive and when
+something actually meant a damn to him, now he's just a piece of rotted flesh for
+you to batter and bruise.
+~
+67108874 1 136249361 2097280 -1000 S
+41 0 -10 1d1+7499 10d10+30
+1000000 380000
+8 8 0
+0 0 25 15 14 16 14 11
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=45
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20502
+mob spiral~
+Spiral~
+The guardian to your fate stands above you.
+~
+  This is the first creature in a long gauntlet to reach an element so rich, that in 
+order to reach him you would have to go through his minions.  This is the creature
+that begins the maze, he is very mysterious.  Once legend has it that him and his
+brother, MindKiller ruled this realm.  Onkara and his tribe overcame them in a
+battle not to far from here.  They were banished to beneath the remains of the havoc
+they had caused, spending their immortality wasting away.  He carries with him at
+all times a sword crafted by God himself.  He stands seven feet tall with the features
+of a half man half drow elf.  His girth is tremendous and the armor he wears 
+seems to be rather large, the craft of his armor makes you wonder how hard this
+beast will be.
+~
+210763786 32769 136249361 2097280 -1000 S
+46 0 -27 1d1+19999 30d30+45
+3000000 1104000
+8 8 0
+0 0 25 17 15 14 12 11
+SKILL=SPELL_ENERGY_DRAIN 45
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SKILL_HUNT 99
+#20503
+mob mindkiller~
+MindKiller~
+Your mind has been sucked into the realm of hate.
+~
+  A fearsome man indeed towers above.  He is the twin of Spiral, the man that
+begins the maze.  Him and Spiral once ruled the Primitive Lands above the fields.
+But like all hierarchy's their power grew too immense and a rebellion was what
+overthrew the tyranny.
+~
+222298122 32769 136249361 2097280 -1000 S
+46 0 -30 1d1+19999 30d30+45
+2600000 1104000
+8 8 0
+0 0 25 17 15 14 12 11
+SKILL=SPELL_ENERGY_DRAIN 45
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20504
+mob skin elemental~
+Skin Elemental~
+A blob of flesh and veins begins to take shape.
+~
+  A flesh, pulsating, hideous mass sits before you.  This is Spiral's god.  He is the
+unknown element, skin.  His flesh oozes out blood and secrete's from his body.
+The ooze is of some orangish color and his skin seems to be bleeding from every
+orphace visible.  It turns away from you, as you open the door.  It becomes frail
+from the light, its strength seems to be diminished.  If you attack, now is the time.
+~
+202375176 1343489 136249361 2097280 -1000 S
+48 0 -40 1d1+19999 30d30+35
+5000000 2000000
+8 8 0
+0 0 25 16 16 15 15 15
+SKILL=SPELL_ENERGY_DRAIN 49
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 50
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 70
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#20505
+mob luncrully~
+Luncrully, Pain Master.~
+A man with a large figure stands here.
+~
+  A very large, very muscular beast stands here.  It has the eyes of a cat and the
+head of a bull.  It's body seems to be made up of other parts that are unknown to
+human kind or evolution.  It stands atleast ten feet tall, glancing down upon you
+with a dagger in hand, ready to scalp you and rescue you from your flesh.
+~
+70258698 1 136249361 128 -1000 S
+47 0 -35 1d1+17599 21d21+33
+2250000 1250000
+8 8 0
+0 0 25 15 16 16 12 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20506
+mob spithate~
+SpitHate~
+The hate inside you becomes the monster standing here.
+~
+  A frail, boneless human stands here.  She is naked except for the doll she carries.
+  Her body is decayed to a point of blackness, yet the beauty in her eyes still shows
+through. 
+~
+67108874 32769 136249361 128 -500 S
+46 0 -37 1d1+15999 30d15+25
+2500000 999999
+8 8 0
+0 0 25 17 14 16 14 15
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 25
+SKILL=SPELL_MORTICE_FLAME 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20507
+mob el cu cuy~
+El Cu Cuy~
+The boogie man has returned.
+~
+  A horried monster sleeps here.  He is the fabled Boogie Man.  Legend has it, he
+was put here by Spiral for protection, a look into these monster's eyes will send
+even the strongest of people back into their holes.  His physique is large and 
+frail.  He only awaits you to enter your dreams and kill you.
+~
+67108874 1 136249361 128 -1000 S
+48 0 -40 1d1+29999 20d20+20
+3700000 1750000
+8 8 0
+0 0 25 17 15 15 13 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#20508
+mob dream stealer~
+Dream Stealer~
+Your dreams come here after you awake, he has them all locked away.
+~
+  This is a wierd, very odd lookin beast indeed.  His shape is that of a dream catcher
+yet it looks very much alive.  It's glow comes from the center of it, where all your
+dreams enter and never come out, sleep now, and die here with the others.
+~
+67108874 1 136249361 128 -1000 S
+48 0 -35 1d1+24999 30d30+17
+2222222 1111111
+8 8 0
+0 0 25 18 15 15 12 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20509
+mob king of the hole~
+King of The Hole~
+A very dark evil lies within, hoping you don't disturb it.
+~
+  A very young man walks in the shadows.  He turns to you and smiles, happy to
+see other life here.  He begins to come closer to you, then his teeth begin to show.
+  They look very sharp, and are blood covered, he is one of the remaining few
+in this realm that have been blessed with the dark gift.
+~
+68157450 1 136249361 128 -1000 S
+48 0 -37 1d1+30999 27d27+27
+3450000 1300000
+8 8 0
+0 0 17 17 15 14 15 13
+#20510
+mob thought swirler~
+Thought Swirler~
+A small body of gas floats around here.
+~
+  A noxious gas floats around.  It absorbs what you are thinking, turning your mind
+against you, your thoughts become blurred, you can only think of serving this
+thing, you better kill it before it kills you.
+~
+67108874 1 136249361 128 -1000 S
+47 0 -39 1d1+14999 20d35+35
+3000000 1269000
+8 8 0
+0 0 25 16 15 14 15 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20511
+mob soulwound~
+SoulWound~
+Everytime you think you will die, a wound within your soul emerges.
+~
+  Every time that pain sets in, every time you feel sad, your soul begins to tear.
+This is what you become after the sorrow has become so painful you cant withstand
+it anymore.  This is what consumes a man when the pressure is just to much.
+~
+67108874 32769 136249361 128 -1000 S
+47 0 -31 1d1+17599 30d30+15
+3000000 1300000
+8 8 0
+0 0 25 16 15 14 12 12
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_HEAL_MAJOR 75
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+#20512
+mob GodFlesh~
+GodFlesh~
+A very holy man stands here awaiting you.
+~
+  There is an aura of death surrounding this man.  His flesh begins falling down 
+into piles on the floor.  The stench of decay enters your nostrils and shoots into
+your head, stunning you for a second.  The putrid smell of death lingers every
+where, you have opened the last door before skin, this is the last for either you
+or him, he will guard his god until he dies a second time.
+~
+67108874 1 136249361 128 -1000 S
+48 0 -40 1d1+27999 30d30+45
+3750000 1500000
+8 8 0
+0 0 17 16 16 16 13 12
+#20513
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 15 15 14 12
+#20514
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 16 14 16 12 12
+$~
+#999999
