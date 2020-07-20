@@ -1,0 +1,537 @@
+#12400
+obj chrysalis key~
+100
+&wChrysalis Key&n~
+&wA cocoon is hanging here.&n~
+~
+18 262152 0 5
+0 1 0 0
+1 5 5
+#12401
+obj Mystical Vine Whip~
+1
+&gMy&Gs&Wti&Gc&gal &gV&Gi&gne &GWh&gi&Gp&n~
+&gA long piece of ivy lays here&n~
+~
+5 4194304 0 8193
+2100224 5 8 2
+1 225000 5000000
+A
+13 20
+A
+19 2
+A
+18 2
+#12402
+obj Pearls de Vita~
+2
+&WPe&Car&Wls &cdi &CV&Wit&Ca&n~
+&WA string of pearls are laying here.&n~
+~
+9 4194560 0 5
+20 0 0 0
+1 85000 5
+A
+18 2
+A
+19 2
+A
+37 -1
+A
+3 1
+#12403
+obj farfalla de carnivale'~
+2
+&KFa&Wr&Kfa&Wl&Kla &Wdi &KC&War&Kniv&Wal&Ke'&n~
+&KYou see a carnival mask.&n~
+~
+9 4194304 0 17
+20 0 0 0
+1 25000 55000
+A
+18 2
+A
+19 2
+A
+36 -1
+#12404
+obj Musicale' Nota de Charm Bracelet~
+2
+&YMu&ys&Yic&ya&Yle' &yN&Yo&yta &Ydi &yCh&Ya&yrm &YBra&yce&Ylet&n~
+&YA pretty gold bracelet&n~
+~
+9 4194304 1024 4097
+15 0 0 0
+1 95000 55000
+A
+19 2
+A
+12 -30
+A
+41 1
+#12405
+obj Lantern~
+1
+&BL&ba&Wn&Yt&We&br&Bn &Wdi &bTr&Bi&Ws&Yt&We&Bz&bza&n~
+&BA teardrop lantern has been left here.&n~
+~
+1 4194305 0 65537
+0 0 0 0
+3 30000 30000
+A
+19 2
+A
+18 1
+A
+14 -25
+A
+26 -1
+#12406
+obj Ametista belt~
+1
+&pAm&we&pti&ws&pta &wC&pin&wt&pur&wa&n~
+&pYou see a pretty purple bracelet laying here.&n~
+~
+9 4194304 0 2049
+20 0 0 0
+1 55000 3500000
+A
+19 2
+A
+18 2
+A
+14 -30
+A
+40 1
+#12407
+obj Hour Glass Key~
+100
+&RHour&K-&RGlass&K Sh&Rap&Ked &RK&Ke&Ry&n~
+&RHour&K-&RGlass&K Sh&Rap&Ked &RK&Ke&Ry&n~
+~
+18 262152 0 5
+0 0 0 0
+1 5 5
+#12408
+obj Spider Tattoo~
+2
+&KB&rl&Ra&rc&Kk &KW&ri&Rd&ro&Kw &KSp&Ri&Kder &KT&ra&Rtt&ro&Ko&n~
+&KB&rl&Ra&rc&Kk &KW&ri&Rd&ro&Kw &KSp&Ri&Kder &KT&ra&Rtt&ro&Ko&n~
+~
+9 4194304 0 257
+30 0 0 0
+1 35000 60000
+A
+19 2
+A
+18 2
+A
+14 -30
+A
+12 30
+#12409
+obj hour glass pendant~
+1
+&RR&re&Rd &rH&Rou&rr &RG&rl&Ra&rs&Rs &rPe&Rn&rd&Ra&rnt&n~
+&RR&re&Rd &rH&Rou&rr &RG&rl&Ra&rs&Rs &rPe&Rn&rd&Ra&rnt&n~
+~
+9 4194304 0 5
+20 0 0 0
+1 65000 65000
+A
+19 2
+A
+18 2
+A
+20 1
+#12410
+obj Morning Dew Potion~
+5
+&PMo&Gr&Wn&Gi&Png D&We&Pw &GP&Po&Wti&Po&Gn&n~
+&PMo&Gr&Wn&Gi&Png D&We&Pw &GP&Po&Wti&Po&Gn&n~
+~
+10 4456448 1024 16385
+50 36 36 36
+1 5 5
+#12411
+obj Pink Butterfly Barrette~
+1
+&PP&Wi&Pnk&W Cr&Pys&Wtal &PBu&Wtt&Perfly &PBa&Wrr&Pette&n~
+&PP&Wi&Pnk&W Cr&Pys&Wtal &PBu&Wtt&Perfly &PBa&Wrr&Pette&n~
+~
+9 4194368 0 17
+20 0 0 0
+5 45000 3500000
+A
+18 2
+A
+19 1
+A
+40 1
+A
+6 1
+#12412
+obj oak leaf shield~
+1
+&rO&Ra&Yk &rL&Re&Ya&rf &RS&Yh&ri&Re&Yl&rd&n~
+&yA wooden shield has been discarded here.&n~
+~
+9 4194624 0 513
+50 0 0 0
+15 55000 350000
+A
+18 2
+A
+19 2
+A
+14 -15
+A
+23 -1
+#12413
+obj quest2 glistening suntan~
+3
+&YG&yl&Yi&ys&Yt&ye&Yn&yi&Yn&yg&Y S&yu&Yn&yt&Ya&yn&n~
+&YG&yl&Yi&ys&Yt&ye&Yn&yi&Yn&yg&Y S&yu&Yn&yt&Ya&yn&n~
+~
+9 4456705 0 257
+50 0 0 0
+1 5 5
+A
+18 2
+A
+19 2
+A
+40 6
+A
+41 3
+#12414
+obj Floral Head Wreath~
+2
+&YFlo&Wr&Gal H&Yead &WW&Grea&Yth&n~
+&YA circle of flowers lies here.&n~
+~
+9 4194304 0 17
+20 0 0 0
+1 120000 5500000
+A
+27 -1
+A
+26 -1
+A
+18 2
+A
+19 2
+#12415
+obj Staff de Neve'~
+1
+&cS&Ct&wa&Cf&cf &Kdi &CN&ce&Wv&Ce&K'&n~
+A long forgotten staff lies here.~
+~
+5 4194560 0 8193
+527360 10 4 7
+15 390000 5500000
+A
+19 3
+A
+18 3
+A
+14 -50
+A
+40 1
+#12416
+obj Snowflake Earring~
+1
+&WSn&wo&KwF&wla&Wke &KEa&wr&Wr&wi&Kng&n~
+&wA glittering snowflake has fallen here.&n~
+~
+9 4194304 0 17
+15 0 0 0
+1 65000 4500000
+A
+9 30
+A
+18 2
+A
+19 2
+A
+12 -30
+#12417
+obj Halo's Key~
+5
+&CH&Wal&Co&c'&Cs K&We&Cy&n~
+&CA key to the passage lies here.&n~
+~
+18 262152 0 5
+0 0 0 0
+15 350000 5
+#12418
+obj Thigh High White Armor Boots~
+1
+&WT&wh&Ki&wg&Wh &WH&wig&Wh &WWhite&W A&wr&Km&wo&Wr &WB&wo&Ko&wt&Ws&n~
+&WA pair of finely crafted boots have been left here.&n~
+~
+9 4194304 0 65
+20 0 0 0
+1 350000 5000000
+A
+19 2
+A
+18 2
+A
+14 -30
+A
+41 1
+#12419
+obj Squillo de Truth~
+1
+&GSqu&Killo di Tr&Guth&n~
+&GThe sparkle catches your eye.&n~
+~
+9 4194304 0 3
+20 0 0 0
+25 650000 4500000
+A
+19 2
+A
+18 2
+A
+12 -20
+#12420
+obj Libro de Wisdom~
+2
+&pL&Pi&Wb&Pr&po &Pdi &pW&Pi&Wsd&Po&pm&n~
+&pA very interesting book has been left here&n~
+~
+9 4194304 0 24577
+20 0 0 0
+15 350000 5500000
+A
+19 3
+A
+18 2
+A
+4 2
+#12421
+obj Mantello de Conscience~
+1
+&WM&Ba&bn&Wte&bl&Bl&Wo &Kdi &WCo&Bn&bs&Wci&be&Bn&Wce&n~
+&bA shimmering piece of cloth is lying here.&n~
+~
+15 4194304 0 1025
+350 0 0 0
+15 950000 9500000
+A
+17 -50
+A
+18 1
+A
+13 -10
+#12422
+obj Latern de Vero Valore~
+1
+&YL&ya&wte&yr&Yn &wdi &YV&ye&Yr&yo &YV&ya&wlo&yr&Ye&w'&n~
+&yA light of True Worth has been left here.&n~
+~
+1 4194304 0 65537
+0 0 0 0
+5 37500 3950000
+A
+19 3
+A
+26 -1
+A
+27 -1
+A
+18 1
+#12423
+obj Corragia's Corset~
+1
+&rC&Ro&yr&Kra&yg&Ri&ra&K'&Ks &rC&Ro&Krs&Re&rt&n~
+&rSomeone's corset lies here.&n~
+~
+9 4194304 0 9
+70 0 0 0
+1 500000 500000
+A
+19 2
+A
+18 2
+A
+40 1
+#12424
+obj Scales of Justice~
+1
+&rS&Rc&Ka&Wl&Re&rs &Wof &rJ&Ru&Ks&Wt&Ki&Rc&re&n~
+&KA pair of ornate leggings lie here.&n~
+~
+9 4194304 0 33
+40 0 0 0
+1 750000 5
+A
+19 3
+A
+18 1
+A
+14 -20
+A
+40 1
+#12425
+obj Blue Bird of Happiness~
+2
+&CB&Kl&wu&Ce &CB&wi&Kr&Cd &Wof &CHa&Kp&wp&Wi&wn&Ke&Css&n~
+&BA little blue bird is singing here.&n~
+~
+9 4194304 0 16385
+20 0 0 0
+1 750000 8500000
+A
+25 1
+A
+19 2
+A
+18 1
+#12426
+obj Credenza Sandals~
+1
+&pC&Kr&we&Wde&wn&Kz&pa &pS&Ka&wn&Wd&wa&Kl&ps&n~
+&pSomething to make your feet happy is lying here.&n~
+~
+9 4194560 0 65
+20 0 0 0
+15 975000 9750000
+A
+19 2
+A
+18 1
+A
+23 -1
+A
+24 -1
+#12427
+obj Wings of the Promised Land~
+1
+&KW&wi&Wn&wg&Ks &wof &Wthe &KPr&wo&Wmi&ws&Ked &KL&wa&Wn&Kd&n~
+Something promising lies here.~
+~
+15 4194304 0 1025
+350 0 0 0
+20 5 5
+A
+19 2
+A
+18 1
+A
+14 -50
+A
+17 -50
+#12428
+obj Serenity Gloves~
+2
+&KSe&Pr&Wen&Pi&Kty &PG&Kl&Wov&Ke&Ps&n~
+&PA pair of pink gloves.&n~
+~
+9 4194304 0 129
+20 0 0 0
+5 675000 7750000
+A
+19 2
+A
+18 1
+A
+25 1
+A
+12 -30
+#12429
+obj A Broken Heart~
+2
+&RA &rBr&Rok&ren &RHe&ra&Rrt&n~
+&RA sadden heart beats here.&n~
+~
+9 675282944 0 5
+20 0 0 0
+5 5 5
+A
+18 2
+A
+19 2
+A
+12 -20
+#12430
+obj zero clock imm~
+0
+&yAn&Kt&wi&Kq&yue &KGr&yan&wdfa&yth&Ker &yC&Kl&wo&Kc&yk&n~
+&yAn antique clock sits here...tick tock!&n~
+~
+5 0 2112 24593
+543792 5000 5000 6
+1 5 5
+A
+40 30
+A
+18 30
+A
+19 30
+A
+6 50
+#12431
+obj zero minute imm~
+0
+&K>>----->&n~
+&KA minute hand&n~
+~
+5 0 2112 24577
+15723571 5000 5000 6
+1 5 5
+A
+18 30
+A
+19 30
+A
+40 48
+A
+13 100
+#12432
+obj mistletoe~
+32767
+&gM&Gi&rs&Rt&Wl&Re&rT&Go&ge&n~
+&gM&Gi&rs&Rt&Wl&Re&rT&Go&ge&n~
+~
+13 0 0 18449
+0 0 0 0
+1 5 5
+A
+6 50
+#12433
+obj Birthday Hat~
+32767
+&pB&Bi&Gr&Yt&Rh&rd&Pa&py &BH&Ga&Yt&n~
+&BIt's &GSomeone's &YBirthday&n~
+~
+9 1074003968 0 17
+100 0 0 0
+1 5 5
+A
+41 5
+A
+40 5
+A
+18 10
+A
+19 10
+#12434
+obj Birthday Balloon~
+32767
+&pA &BB&Gi&Yr&Rt&rh&Pd&pa&By &GB&Ya&Rl&rl&Po&po&Bn&n~
+&RIt's &YMy &rBirthday!&n~
+~
+1 1074003968 0 16385
+100 0 0 0
+1 5 5
+A
+25 5
+A
+18 10
+A
+19 10
+$~
+#999999

@@ -1,0 +1,904 @@
+#7600
+mob M'yeslika wizard fire~
+M'yeslika~
+M'yeslika spins around with eyes of flame to engulf you.
+~
+M'yeslika stands about five feet tall her hair is an amberous red and flows 
+out from her head at weird angles.  It appears her head is engulfed with 
+flames.  She has a wicked expression on her face as you have disturbed her 
+and now you will pay for that discrepency.
+~
+262154 32769 136249361 136 -885 S
+37 6 -16 50d19+3000 20d3+48
+99750 223500
+8 8 2
+1 1 21 20 20 19 19 18
+SKILL=SPELL_BLINDNESS 84
+SKILL=SPELL_COLOUR_SPRAY 84
+SKILL=SPELL_CURSE 84
+SKILL=SPELL_ENERGY_DRAIN 84
+SKILL=SPELL_FIREBALL 84
+SKILL=SPELL_LIGHTNING_BOLT 84
+SKILL=SPELL_SLEEP 84
+#7601
+mob Phyrshanct Daemon~
+Phyrshanct~
+Phyrshanct is here to rob you of your life.
+~
+Phyrshanct stands here awaiting your corpse.  He has stolen the minds of
+Mirielle and rules his many followers.  He could kill you in a heartbeat
+if you were not filled with such a terror that yours had stopped beating.
+He has black skin, a tail, hooves and a grotesque face that is in a
+continous snarl.
+~
+319514 32769 136249361 536871048 -1000 S
+42 1 -26 45d19+9000 9d9+30
+980000 510000
+8 8 1
+7 4 22 22 21 21 17 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=99
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7602
+mob Jhersa~
+Jhersa~
+Jhersa, evil borne of innocence is here
+~
+This young child looks sweet and innocent lying in this crib.  You ponder
+the evil eminating from this place and wonder at the innocence of a child.
+Jhersa is the spawn of two of the archfiends.  She was made out of evil and
+a small part of good.  She is clutching something in her grasp and while she
+sleeps, an evil grin takes over the inncocent face and you venture to guess
+the working in the mind of the infantile leader of the Archfiends of Zalmynk.
+~
+10 32769 136249361 69337288 0 S
+48 -35 -25 20d100+55000 20d20+50
+5000000 2200000
+8 8 2
+0 0 23 22 22 23 22 18
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_ACID_BREATH 40
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=106
+#7603
+mob Silvie~
+Silvie~
+Silvie is here strumming a harp
+~
+Silvie sits hear lost in thought playing her platinum harp.  She has a quaint
+peaceful look upon her face.  Although lines of hatred can be seen etched
+in the aging face.  She turns to face you and smirks.
+~
+262154 1 136249361 536870912 -225 S
+28 15 11 44d19+2000 9d7+18
+26000 82500
+8 8 2
+0 0 18 19 17 17 14 14
+#7604
+mob Shadowen~
+Shadowen~
+Shadowen hides within the darkness to grab you
+~
+A creature of Shadowen is here, there features are grotesque manifestations of
+darklings, demons and shadows.  The are more animal than anything.  They are
+made from extremely dark magic and are knwon to hide and sneak up on people.
+~
+16834632 32769 136249361 35127338 -750 S
+22 18 22 80d19+950 9d5+9
+97500 65500
+8 8 0
+0 0 16 15 16 16 13 14
+SKILL=SKILL_STEAL 54
+#7605
+mob vulture~
+vulture~
+the demon vulture
+~
+Kyranchix' pet vulture is here.  He has a razor sharp beak and is more than 
+prepared to defend his master.  The gleam in his eye may be the death of you.
+~
+17039374 32769 136249361 524296 -450 S
+25 15 18 11d19+2000 8d5+21
+17250 75250
+8 8 0
+0 0 17 18 17 15 15 12
+SKILL=SPELL_LIGHTNING_BREATH 60
+#7606
+mob Bear-Ogre~
+Bear-Ogre~
+A growling Bear_Ogre
+~
+A large pale Bear-Ogre is here.  It looks incredibly mean and has a shock
+of dirty white furr covering dangling limbs.  It appears incredibly strong
+but a touch stupid and not quite as nimble as you.
+~
+16777242 1 136249361 536870920 -150 S
+23 17 21 89d19+1000 7d7+11
+12350 69300
+8 8 0
+0 0 16 17 14 16 13 15
+#7607
+mob LizardRat~
+LizardRat~
+A strange manifestation stands here a large LizardRat
+~
+Kyranchix must have played around with an evil magic as he has crossed a
+lizard and a rat and it is nearly as large as a human.  A white froth is at
+it's lips and you wonder if it might be deadly.
+~
+17104910 1 136249361 8 0 S
+24 16 20 100d19+1000 8d7+10
+15000 73000
+8 8 0
+0 0 18 17 15 15 14 12
+#7608
+mob Moriarty~
+Moriarty~
+THe infamous Moriarty stands here
+~
+Moriarty stands here with an infamous grin crossing his lips.  Perhaps he
+sees something in you that sparks his interest or perhaps he just figures
+you are another easy corpse.
+~
+262154 32769 136249361 136 -666 S
+29 14 8 28d19+1000 8d5+33
+27000 87425
+8 8 1
+1 1 19 20 18 18 17 17
+SKILL=SPELL_BLINDNESS 68
+SKILL=SPELL_BURNING_HANDS 68
+SKILL=SPELL_COLOUR_SPRAY 68
+SKILL=SPELL_CURSE 68
+SKILL=SPELL_ENERGY_DRAIN 68
+SKILL=SPELL_FIREBALL 68
+SKILL=SPELL_LIGHTNING_BOLT 68
+SKILL=SPELL_MAGIC_MISSILE 68
+SKILL=SPELL_SLEEP 68
+#7609
+mob Ishphyph~
+Ishphylph~
+An Ishphylph stands here guarding a door
+~
+A strange creature stands here guarding a smoked glass door.  It is a creature
+borne of magic so anchient it withstands the test of time.
+~
+262154 32769 136249361 136 0 S
+27 15 14 12d19+1000 7d5+30
+22550 83000
+8 8 0
+0 0 18 17 15 17 14 16
+SKILL=SPELL_FIRE_BREATH 64
+#7610
+mob Bryshilmer~
+Bryshilmer~
+Bryshilmer, the feline lover of Lord Jaxom
+~
+Lord Jaxom's lover, Bryshilmer awaits her lover on a bed.  Her feline stature
+accompanied with her cunning dispostion make you wonder if she is all that
+she appears.  She lays here licking her paws and swirling her tail.
+~
+17039370 32769 136249361 537395336 325 S
+31 12 2 77d19+1000 8d5+40
+38250 187500
+8 8 2
+9 6 18 19 16 16 15 17
+SKILL=SPELL_BLINDNESS 72
+SKILL=SPELL_BURNING_HANDS 72
+SKILL=SPELL_COLOUR_SPRAY 72
+SKILL=SPELL_CURSE 72
+SKILL=SPELL_ENERGY_DRAIN 72
+SKILL=SPELL_FIREBALL 72
+SKILL=SPELL_LIGHTNING_BOLT 72
+SKILL=SPELL_MAGIC_MISSILE 72
+SKILL=SPELL_SLEEP 72
+#7611
+mob Lord Jaxom~
+Lord Jaxom~
+The learning master of the wizards, Lord Jaxom
+~
+A tall burly half giant wizard stands here.  He is incredibly cruel and
+using unorthodox methods in disciplining his students.  He seems to prefer
+torturing them more than anything.  His incredible brute strength overwhelms
+you and you shake in fear.
+~
+8650762 32769 136249361 136 -987 S
+37 6 -16 50d19+3000 9d7+53
+99750 225000
+8 8 1
+5 1 21 20 18 19 18 19
+SKILL=SPELL_BLINDNESS 84
+SKILL=SPELL_BURNING_HANDS 84
+SKILL=SPELL_COLOUR_SPRAY 84
+SKILL=SPELL_CURSE 84
+SKILL=SPELL_ENERGY_DRAIN 84
+SKILL=SPELL_FIREBALL 84
+SKILL=SPELL_LIGHTNING_BOLT 84
+SKILL=SPELL_MAGIC_MISSILE 84
+SKILL=SPELL_SLEEP 84
+#7612
+mob T'Sagrez~
+T'Sagrez~
+the evil twin of T'Sartle, T'Sagrez
+~
+T'Sagrez is here worshipping his own evil.  He was thrown out of the church
+of T'Salchoic for his practicing of evil ministry and his worshipping of
+demons.  He is the twin brother of T'Sartle.
+~
+262154 32769 136249361 200 -1000 S
+38 5 -18 35d19+4000 8d5+22
+287500 234000
+8 8 1
+1 2 21 22 20 20 17 17
+SKILL=SPELL_BLINDNESS 86
+SKILL=SPELL_HAIL_STORM 86
+SKILL=SPELL_CURSE 86
+SKILL=SPELL_HARM 86
+SKILL=SPELL_MAGIC_MISSILE 86
+SKILL=SPELL_POISON 86
+SKILL=SPELL_CAUSE_CRITIC 86
+SKILL=SKILL_SECOND 90
+SKILL=SPELL_HEAL_MINOR 86
+SKILL=SPELL_EARTHQUAKE 86
+ATTACK_SKILL=80
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7613
+mob Kyranchix~
+Kyranchix~
+The evil steward of the archangels, Kyranchix
+~
+Kyranchix stands here playing with his pets.  If they have not finished you
+off he very well will.  Perhaps he will create a new species with you.  He
+probably has a million ideas as to what he could combine your life form
+with to make you into a new killing machine.
+~
+262154 32769 136249361 136 -135 S
+34 9 -7 13d19+2000 7d7+48
+68250 207500
+8 8 1
+1 0 20 20 17 17 17 14
+SKILL=SPELL_BLINDNESS 78
+SKILL=SPELL_BURNING_HANDS 78
+SKILL=SPELL_HAIL_STORM 78
+SKILL=SPELL_COLOUR_SPRAY 78
+SKILL=SPELL_CURSE 78
+SKILL=SPELL_ENERGY_DRAIN 78
+SKILL=SPELL_FIREBALL 78
+SKILL=SPELL_HARM 78
+SKILL=SPELL_LIGHTNING_BOLT 78
+SKILL=SPELL_MAGIC_MISSILE 78
+SKILL=SPELL_POISON 78
+SKILL=SPELL_SLEEP 78
+SKILL=SPELL_CAUSE_CRITIC 78
+SKILL=SPELL_HEAL_MINOR 78
+SKILL=SPELL_EARTHQUAKE 78
+#7614
+mob B'Ragandor~
+B'Ragandor~
+the psychotic B'Ragandor is here to steal your mind...
+~
+A man clearly phychotically disturbed stands before you.  His attire is in
+shreads and his eyes has a lost look.  He gave his mind up awhile ago to the
+demons that live within it.
+~
+319498 32769 136249361 536871040 -1000 S
+33 10 -4 99d19+1000 9d7+36
+59500 202000
+8 8 1
+1 0 19 20 19 19 16 17
+SKILL=SPELL_BLINDNESS 76
+SKILL=SPELL_BURNING_HANDS 76
+SKILL=SPELL_HAIL_STORM 76
+SKILL=SPELL_COLOUR_SPRAY 76
+SKILL=SPELL_CURSE 76
+SKILL=SPELL_ENERGY_DRAIN 76
+SKILL=SPELL_FIREBALL 76
+SKILL=SPELL_HARM 76
+SKILL=SPELL_LIGHTNING_BOLT 76
+SKILL=SPELL_MAGIC_MISSILE 76
+SKILL=SPELL_POISON 76
+SKILL=SPELL_SLEEP 76
+SKILL=SPELL_CAUSE_CRITIC 76
+SKILL=SPELL_LIGHTNING_BREATH 76
+SKILL=SPELL_HEAL_MINOR 76
+SKILL=SPELL_EARTHQUAKE 76
+#7615
+mob Hyleshia~
+Hyleshia~
+the lover of the evil here, Hyleshia awaits you
+~
+Hyleshia is a manipulative female.  She uses her feminine side to charm and
+rule both the demon and the ruler of these people.  She does not posess the
+capability to rule only to influence those who do.
+~
+385034 32769 136249361 128 -1000 S
+35 8 -10 28d19+2000 8d9+40
+81900 215000
+8 8 2
+1 0 20 18 18 18 17 16
+SKILL=SPELL_BLINDNESS 80
+SKILL=SPELL_BURNING_HANDS 80
+SKILL=SPELL_HAIL_STORM 80
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_CURSE 80
+SKILL=SPELL_ENERGY_DRAIN 80
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_HARM 80
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_MAGIC_MISSILE 80
+SKILL=SPELL_POISON 80
+SKILL=SPELL_SLEEP 80
+SKILL=SPELL_CAUSE_CRITIC 80
+SKILL=SPELL_HEAL_MINOR 80
+SKILL=SPELL_EARTHQUAKE 80
+#7616
+mob Baltor~
+Baltor~
+Baltor stands here examining his wares
+~
+Baltor stands about 7 feet tall.  He is a rather husky individual.  He likes
+to try on his wears to make sure they are sellable so he usually looks rather
+funny wearing a variety of items and sometimes he is wielding a
+special weapon.  He has a lost look in his eyes as if he is under a spell.
+~
+262154 1 136249361 1073741960 0 S
+45 0 -25 5d19+15000 80d9+70
+2316000 953000
+8 8 1
+1 0 23 21 20 22 21 20
+#7617
+mob Ziard~
+Ziard~
+Ziard, the beholder of the elixer
+~
+Ziard is an old man with sparce white long hair and black eyes.  He seems 
+protected from whatever took over this town.  He has a mysterious aura 
+around him, maybe it is from a potion he sells.
+~
+262154 1 136249361 1073741952 -100 S
+43 1 -28 30d19+11000 19d23+42
+1432500 657000
+8 8 1
+1 0 22 20 20 20 20 17
+#7618
+mob Dwellor~
+A lost dwellor~
+a dwellor stands here with imprtant information for you
+~
+A small dwellor stands here.  His body look worn with age and trying times.
+He appears to be rather fragile and meek.
+~
+262154 32769 136249361 138 325 S
+31 12 2 78d19+1000 8d9+24
+39950 185000
+8 8 1
+1 0 18 17 16 18 15 17
+SKILL=SPELL_ACID_BREATH 72
+#7619
+mob Follex~
+Follex~
+Follex stands here holding something...
+~
+A strange little pixie stands here playign with a prizm of light.  He shoos 
+you away and continues to amuse himself.  He is one weird little person.
+~
+262154 32769 136249361 537919616 0 S
+29 14 8 28d19+1000 8d7+25
+27810 90000
+8 8 1
+0 0 18 18 16 18 15 14
+SKILL=SPELL_BLINDNESS 68
+SKILL=SPELL_BURNING_HANDS 68
+SKILL=SPELL_COLOUR_SPRAY 68
+SKILL=SPELL_CURSE 68
+SKILL=SPELL_ENERGY_DRAIN 68
+SKILL=SPELL_FIREBALL 68
+SKILL=SPELL_LIGHTNING_BOLT 68
+SKILL=SPELL_MAGIC_MISSILE 68
+SKILL=SPELL_SLEEP 68
+#7620
+mob Sylph~
+Sylph~
+Sylphs run rampant through the trees here.
+~
+A created formed from a forest lifeform such as a tree and a species such as
+a human stands before you.  They posess a great magic and are much a part of
+there surroundings.
+~
+10 32769 136249361 540541072 120 S
+21 19 23 8d9+800 6d5+15
+8050 61500
+8 8 0
+0 0 17 17 15 15 14 12
+SKILL=SPELL_BLINDNESS 52
+SKILL=SPELL_BURNING_HANDS 52
+SKILL=SPELL_COLOUR_SPRAY 52
+SKILL=SPELL_CURSE 52
+SKILL=SPELL_ENERGY_DRAIN 52
+SKILL=SPELL_LIGHTNING_BOLT 52
+SKILL=SPELL_MAGIC_MISSILE 52
+SKILL=SPELL_SLEEP 52
+#7621
+mob Phrenx~
+Phrenx~
+A strange creature, Phrenx is here
+~
+A small furry animal is here he has 3 orange eyes and a long tail.  He would
+resemble a cat but it walks on it's hind legs and stands about 16 
+inches tall.  It's fur is lavender colour and it has violet teeth.
+~
+16777228 1 136249361 524288 -50 S
+19 21 25 9d19+260 3d5+18
+4690 5745
+8 8 0
+0 0 16 17 15 15 11 10
+#7622
+mob beast~
+The sancted beast~
+An evil beast from the realms of sanctuary awaits you...
+~
+A beast stands here he seems to be no more than the white aura from whence he 
+came.  The one spark of true goodness in this evil place.  He fears you to be 
+the evil around him.
+~
+262154 32769 136249361 524424 1000 S
+31 12 2 78d19+1000 8d7+32
+38250 188000
+8 8 0
+0 0 18 19 18 18 15 15
+SKILL=SPELL_BLINDNESS 72
+SKILL=SPELL_HAIL_STORM 72
+SKILL=SPELL_CURSE 72
+SKILL=SPELL_HARM 72
+SKILL=SPELL_MAGIC_MISSILE 72
+SKILL=SPELL_POISON 72
+SKILL=SPELL_CAUSE_CRITIC 72
+SKILL=SPELL_LIGHTNING_BREATH 72
+SKILL=SPELL_HEAL_MINOR 72
+SKILL=SPELL_EARTHQUAKE 72
+#7623
+mob Quasit~
+the crystal quasit~
+A crystal quasit guards a crystal box
+~
+A rugged being of pure crystal stands here guarding a crystal inlaid box.  It 
+seems to be a rather study individual and it is attacking you.
+~
+319498 1 136249361 136 0 S
+37 6 -16 50d19+3000 12d9+28
+86625 225000
+8 8 0
+0 0 20 22 18 18 19 18
+#7624
+mob Wizard~
+student of wizardry~
+One of Lord Jaxom's students, a wizard
+~
+A wiard stands before you much like th others rushing past you.  He is a tempter
+of fate and a believer in magic.  he fears his master, Lord Jaxom.
+~
+8 1 136249361 0 -100 S
+23 17 21 89d19+1000 8d3+23
+12870 70000
+8 8 1
+1 1 16 16 16 15 14 12
+#7625
+mob lady mirienne~
+A Mirienne~
+A wandering lady who lives in Mirielle
+~
+A lady stands here with a lost look in her eyes.  She seems to wander the 
+streets aimlessly as if in a sort of trance.  
+~
+72 1 136249361 0 100 S
+15 25 29 19d9+120 5d5+4
+3310 4450
+8 8 2
+1 0 15 13 12 13 10 10
+#7626
+mob Mirien~
+A strange Mirien~
+A man wanders Mirielle
+~
+A man wanders town, you wonder if he even realizes where he is.  He has the 
+same lost look that a lot of the people here do as if something or someone
+has used a strange magic to take over there minds.
+~
+72 1 136249361 0 250 S
+17 23 27 10d39+65 4d9+3
+4200 5130
+8 8 1
+1 0 16 17 13 14 14 13
+#7627
+mob Dave shopkeeper~
+Dave, the shop keeper~
+Dave is here showing off his wares
+~
+Dave?  Dave not here, well he is but he has very few things for sale. 
+Personally, I might knock dave a round a bit, he seems like kind of a jerk.
+~
+262154 32769 136249361 136 350 S
+45 0 -25 50d19+15000 99d5+75
+2250000 949000
+8 8 1
+1 0 22 23 20 22 20 18
+SKILL=SPELL_FROST_BREATH 45
+#7628
+mob MazeDemon~
+the maze demon~
+The maze demon awaits you perhaps you should not go astray
+~
+A creature of the maze stands here ready to interrupt you progress.  He has
+glowing red eyes and noticed you before you noticed him.
+~
+319496 32769 136249361 138 -250 S
+23 17 21 9d9+900 10d5+9
+12350 71250
+8 8 0
+7 0 17 15 14 15 15 11
+SKILL=SPELL_GAS_BREATH 56
+#7629
+mob monk phyrshanct~
+A phyrshanct monk~
+The phyrshanct mob wanders looking for souls to steal
+~
+A pair of eyes looks back at you through a dirty cowl.  The face has lost
+the set imagination it once had to wander aimlessly doing it's master's
+bidding.  It has a wicked snarl as it glares at you...
+~
+262216 32769 136249361 136 -250 S
+24 16 20 10d19+900 15d3+12
+15000 7495
+8 8 0
+1 2 17 17 15 15 13 14
+SKILL=SPELL_BLINDNESS 58
+SKILL=SPELL_HAIL_STORM 58
+SKILL=SPELL_CURSE 58
+SKILL=SPELL_HARM 58
+SKILL=SPELL_MAGIC_MISSILE 58
+SKILL=SPELL_POISON 58
+SKILL=SPELL_CAUSE_CRITIC 58
+SKILL=SPELL_HEAL_MINOR 58
+SKILL=SPELL_EARTHQUAKE 58
+#7630
+mob Shadow~
+Crystal Shadow~
+A crystal shadow stalks these halls, reaching out from the walls
+~
+A shapeless shadow is here, awaiting a wrong move on your part.  It carries 
+no real substance for you to fight and looks fairly mean.
+~
+1892424 1 136249361 1077411842 -350 S
+31 12 2 55d19+3000 9d9+20
+38250 189500
+8 8 0
+0 0 19 19 18 16 16 16
+#7631
+mob monk lost~
+A lost monk~
+A monk wanders around the catacombs looking for peace
+~
+A monk wanders around here searching for his salvation.  You wonder what 
+has driven him to wander aimlessly thru the catacombs searching for 
+such an easy thing.
+~
+136 32769 136249361 8196 200 S
+26 15 16 22d19+2000 7d5+27
+17600 80000
+8 8 0
+1 2 18 19 15 17 14 14
+SKILL=SPELL_BLINDNESS 62
+SKILL=SPELL_HAIL_STORM 62
+SKILL=SPELL_CURSE 62
+SKILL=SPELL_HARM 62
+SKILL=SPELL_MAGIC_MISSILE 62
+SKILL=SPELL_POISON 62
+SKILL=SPELL_CAUSE_CRITIC 62
+SKILL=SPELL_HEAL_MINOR 62
+SKILL=SPELL_EARTHQUAKE 62
+#7632
+mob soul~
+A lost soul~
+A lost soul wanders aimlessly looking for a host
+~
+You can feel the icy loss that this creature feels.  It has had it's body
+stolen from it to wander aimlessly looking for a host.  You appear to be as
+good as any that it might find to kill.
+~
+909320 1 136249361 536871042 -500 S
+30 13 5 60d19+1000 9d9+15
+30000 180000
+8 8 0
+0 0 19 20 17 18 15 17
+#7633
+mob demon crystal~
+A crystal demon~
+A crystal demon awaits you here, it will rob your soul
+~
+A demon of pure crystal stands before you, it eyes appear to be rubies set 
+into a crystal face.  A snarl pierces it lips and a growl escapes it.  
+~
+319512 1 136249361 136 -175 S
+42 -5 -4 20d100+25000 30d10+50
+493000 1500000
+8 8 0
+7 0 20 21 18 20 16 19
+#7634
+mob Zalmynk~
+The corpse of Zalmynk~
+The past ruler of Zalmynk lies here awaiting those killing his protege.
+~
+A great evil lies here, he may have died but his soul lives within this body
+and you have disturbed his protege.  You will pay for that indiscretion.
+~
+33873934 32769 136249361 136 -1000 S
+49 -35 -25 100d50+60000 20d20+65
+5000000 2300000
+8 8 1
+0 4 24 24 21 22 22 21
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_FIRE_BREATH 95
+SKILL=SPELL_FROST_BREATH 95
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_HEAL_MEDIUM 95
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#7635
+mob W'Sylvilgar~
+W'Sylvilgar~
+W'Sylvilgar stands within his crimson room deciding to cover the walls in blood
+~
+W'Sylvilgar adores the scent, sight and smell of blood perhaps yours will add
+a fresh coat to his walls which look recently painted.  He is a very large 
+beast and not very inviting.
+~
+385034 32769 136249393 136 -750 S
+48 -20 -24 20d100+50000 20d20+65
+4000000 2000000
+8 8 1
+0 4 21 22 20 21 20 16
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+#7636
+mob Phymalianch~
+Phymalianch~
+Phymalianch, the bringer of disease sits here waiting to devour you
+~
+A gaunt looking man with pale yellowed skin stands before you.  His whole 
+surroundings are a putrid shade of jaundice.  You can feel sickness and death
+eminating from the creature and his room.
+~
+385034 32769 136249393 136 -850 S
+48 -20 -24 20d100+50000 20d20+65
+4000000 2000000
+8 8 1
+0 4 22 22 20 19 17 18
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+#7637
+mob Dypartes~
+Dypartes~
+Dypartes stands here fuming with jealousy
+~
+Dypartes stands here fuming with rage, her jealousy having long since overtaken
+her mind.  She lost her lover to another archfiend and does not trust anyone.
+She sees you as someone who can take what little she has left.
+~
+319498 32769 136249393 67109000 -900 S
+48 -20 -24 20d100+50000 20d20+65
+4000000 2000000
+8 8 2
+0 4 21 21 20 19 20 17
+SKILL=SPELL_ACID_BREATH 45
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+#7638
+mob Malioch~
+Malioch~
+Malioch, the one good archfiend
+~
+Malioch was once good, however the archfiends have turn her into a wicked 
+soul.  She posesses a greatness the other archfiends do not.  She holds both
+good and evil within her and perhaps she will spare your life...
+~
+319498 32769 136249393 603979912 -100 S
+48 -20 -24 20d100+50000 20d20+65
+3500000 2000000
+8 8 2
+0 4 22 23 21 20 17 16
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+#7639
+mob Nysphemia~
+Nysphemia~
+Evil is her shadow, and her name is Nysphemia
+~
+Nysphemia emits a very black mood.  Her utter soul is evil.  She is probably
+the biggest plotter in House Zalmynk.  Perhaps she has intentions to run it
+one day.  Her black mood consumes you and her eyes bore through you.
+~
+319498 32769 136249393 200 -900 S
+48 -20 -24 20d100+50000 20d20+65
+4000000 2000000
+8 8 2
+0 4 22 22 20 19 18 18
+SKILL=SPELL_FROST_BREATH 45
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+#7640
+mob Losarious~
+Losarious~
+Losarious, the current leader of House Zalmynk
+~
+Losarious stands here protecting his offspring and his lover from you and
+the other archfiends.  In his eyes the tumult of House Zalmynk spawns.  He 
+is a creature that builds fear in the hearts of those most noble.
+~
+319498 32769 136249393 67109064 -1000 S
+48 -20 -24 20d100+50000 20d20+65
+3500000 2000000
+8 8 1
+0 4 22 21 21 21 19 18
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SKILL_EXTRA_DAMAGE 90
+SKILL=SPELL_ACID_BREATH 45
+SKILL=SPELL_LIGHTNING_BREATH 45
+SKILL=SKILL_SECOND 70
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+#7641
+mob Shimmer~
+A shimmer of magic~
+A create made of no substance but magic awaits you
+~
+A lisp of air stands before you.  The whole substance of this creature is 
+magic.  It appears to cackle at you and your attempts to charm it.
+~
+262152 32769 136249361 538968226 10 S
+30 13 5 60d19+1000 8d9+20
+30000 184000
+8 8 0
+0 0 18 20 17 17 14 13
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+$~
+#999999

@@ -1,0 +1,680 @@
+#4200
+mob statue horned minotaur~
+the horned statue~
+A statue of a minotaur stands here, frozen in battle.
+~
+The horned statue is of a great minotaur warrior, frozen in battle.  Two
+huge horns stick up out of his stone head, which is half bowed as if ready to
+charge into battle.  The statue holds a huge battle axe above his head, 
+ready to deliver a first and final death blow to whoever crosses his path.
+The statue of the minotaur wears little armer, only a ragged loincloth
+carved in the stone.
+~
+262170 1 136249361 1073741824 0 S
+30 13 5 20d19+3000 4d5+12
+30000 182000
+8 8 1
+22 4 18 18 17 16 15 17
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=103
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=108
+#4201
+mob Toraak lord trainer chaos warrior~
+Lord Toraak~
+Lord Toraak, the elite chaos warrior trainer, paces about the room.
+~
+Lord Toraak is in his late thirties.  His face is hardened from many wars
+and battle, and shows a few scars from bloody wounds.  He dresses in the
+finest armor, with a thin red cloth hanging from his shoulders.
+~
+262154 1 136249361 128 0 S
+35 8 -10 600d9+400 8d3+25
+82222 213500
+8 8 1
+1 4 20 18 18 17 16 15
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_TYPE=103
+#4202
+mob Kithnak minotaur~
+Kithnak~
+A huge wild minotaur stands here, steam coming off his muscular body.
+~
+Standing before you is a great minotaur named Kithnak.  Kithnak and his 
+ancestors have lived below the citadel of chaos for centuries, refusing to
+live amongst the chaos warriors, they retreated to their underground 
+labyrinth.  Right in the middle of the labyrinth, Kithnak has made his small
+lair, and he doesnt take kindly to intruders.
+~
+319502 1 136249361 33554440 -400 S
+38 5 -18 70d19+8000 5d5+10
+300000 232000
+8 8 1
+22 4 21 21 20 20 16 18
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#4203
+mob Omant lord chaos adviser~
+Lord Omant~
+The retired Lord Omant is standing here.
+~
+Lord Omant has retired from his days of combat and war.  He is now taking 
+life a bit more slower, acting as an adviser to Viscount Berin.  Lord Omant
+now spends most of his time practising the art of magic, trying to become
+both a skilled fighter, and a master magician.
+~
+262154 32769 136249361 0 0 S
+25 15 18 10d19+2000 5d5+19
+17250 76345
+8 8 1
+22 1 18 19 16 17 15 14
+SKILL=SPELL_BLINDNESS 60
+SKILL=SPELL_BURNING_HANDS 60
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_CURSE 60
+SKILL=SPELL_ENERGY_DRAIN 60
+SKILL=SPELL_FIREBALL 60
+SKILL=SPELL_LIGHTNING_BOLT 60
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SPELL_SLEEP 60
+SKILL=SKILL_PARRY 20
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_TYPE=102
+#4204
+mob Doorin mage chaos~
+Doorin~
+Doorin, the mage of chaos, is standing here.
+~
+Doorin is an old man, dressed in a strange red robe.  His frail body seems
+shaken from years of magic, and chaos.
+~
+319498 32769 136249361 33554432 -20 S
+26 15 16 22d19+2000 5d5+18
+20405 80000
+8 8 1
+1 1 17 16 17 16 13 13
+SKILL=SPELL_BLINDNESS 62
+SKILL=SPELL_BURNING_HANDS 62
+SKILL=SPELL_COLOUR_SPRAY 62
+SKILL=SPELL_CURSE 62
+SKILL=SPELL_ENERGY_DRAIN 62
+SKILL=SPELL_FIREBALL 62
+SKILL=SPELL_LIGHTNING_BOLT 62
+SKILL=SPELL_MAGIC_MISSILE 62
+SKILL=SPELL_SLEEP 62
+SKILL=SKILL_PARRY 20
+ATTACK_SKILL=33
+ATTACK_SKILL=33
+ATTACK_SKILL=33
+ATTACK_TYPE=108
+#4205
+mob Mithar chaos warrior preacher~
+Mithar~
+Mithar, the chaos warrior preacher is standing here.
+~
+Mithat has made it his duty to preach about the gods of chaos to all the 
+chaos warriors in the citadel, he spends his days conducting his religous
+services in his makeshift temple, or calling on his gods to heal wounds
+from the chaos warriors training.
+~
+262154 32769 136249361 0 -100 S
+26 15 16 22d19+2000 6d3+10
+20435 79375
+8 8 1
+1 2 18 17 15 16 16 12
+SKILL=SPELL_BLINDNESS 62
+SKILL=SPELL_HAIL_STORM 62
+SKILL=SPELL_CURSE 62
+SKILL=SPELL_HARM 62
+SKILL=SPELL_MAGIC_MISSILE 62
+SKILL=SPELL_POISON 62
+SKILL=SKILL_BASH 30
+SKILL=SPELL_CAUSE_CRITIC 62
+SKILL=SKILL_PARRY 30
+SKILL=SPELL_HEAL_MINOR 62
+SKILL=SPELL_EARTHQUAKE 62
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#4206
+mob Berin viscount chaos warrior~
+the Viscount Berin~
+The Viscount Berin is standing here.
+~
+Viscount Berin rules over all the chaos warriors in the citadel, he is a 
+middle aged man who stands proud of his small, but strong army.  He has
+a deep respect for the minotaurs of the citadel, which has earnt him an
+extreemly powerfull ally if war were to breakout through the lands.
+~
+262154 1 136249361 128 0 S
+34 9 -7 13d19+2000 3d3+6
+67500 207870
+8 8 1
+1 0 20 19 19 19 17 18
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+#4207
+mob Igour minotaur battle master~
+Igour~
+Igour, a mighty minotaur battle master stands here.
+~
+Igour stand here looking out his window over the vast lands to the east,
+hopeing that soon he will be able to lead his minotaur friends into battle
+once more.  He is well over seven foot tall and thick brown hair and fur
+covers his reddish skin.
+~
+262154 1 136249361 0 0 S
+36 7 -14 50d19+5000 4d3+11
+90450 217900
+8 8 1
+22 4 20 22 19 20 16 17
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+ATTACK_SKILL=56
+ATTACK_SKILL=56
+ATTACK_SKILL=56
+ATTACK_TYPE=103
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+#4208
+mob Nark minotaur veteran~
+Nark~
+Nark, the minotaur veteran, is standing here.
+~
+Nark is an aging minotaur that has lived in the citadel for most of his 
+life.  Like most minotaurs from the citadel of chaos, he has a reddish skin
+covered by a think dark brown fur.
+~
+262154 1 136249361 0 0 S
+36 7 -14 50d19+5000 8d3+13
+91200 217485
+8 8 1
+22 4 20 22 18 20 17 17
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=33
+ATTACK_SKILL=33
+ATTACK_SKILL=33
+ATTACK_TYPE=105
+ATTACK_SKILL=33
+ATTACK_SKILL=33
+ATTACK_SKILL=33
+ATTACK_TYPE=105
+#4209
+mob Quarth minotaur mage~
+Quarth~
+Quarth, the minotaur mage is standing here.
+~
+Quarth has challenged all customry beliefs about minotaurs of the citadel, 
+by picking up the art of magic, instead of a more traditional battle axe.
+~
+262154 32769 136249361 0 0 S
+33 10 -4 98d19+3000 5d5+14
+59500 200000
+8 8 1
+22 1 19 21 18 18 16 18
+SKILL=SPELL_BLINDNESS 76
+SKILL=SPELL_BURNING_HANDS 76
+SKILL=SPELL_COLOUR_SPRAY 76
+SKILL=SPELL_CURSE 76
+SKILL=SPELL_ENERGY_DRAIN 76
+SKILL=SPELL_FIREBALL 76
+SKILL=SPELL_LIGHTNING_BOLT 76
+SKILL=SPELL_MAGIC_MISSILE 76
+SKILL=SPELL_SLEEP 76
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+#4210
+mob Lamarth chaos warrior speaker~
+Lamarth~
+Lamarth, the human speaker for the minotaurs s standing here.
+~
+Lamarth is one of the only chaos warriors that live in the southern half of the
+citadel of chaos, his duty is to represent the minotaurs in all diplomatic
+affairs reguarding the minotaurs.
+~
+262154 1 136249361 128 0 S
+30 13 5 60d19+1000 6d5+19
+30000 182000
+8 8 1
+1 4 18 20 16 17 15 15
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+#4211
+mob minotaur bodyguard~
+the minotaur bodyguard~
+A big minotaur bodyguard stands at the enterance to the Halls of Raak.
+~
+This minotaur looks to be one of the biggest minotaurs in the citadel.  The
+minotaur highlord, Raak, must of chosen this minotaur to be his bodyguard
+on the grounds that the meer look of his awsome muscles is enough to deter
+any would-be assassin.
+~
+262154 1 136249361 128 0 S
+30 13 5 60d19+1000 3d3+10
+30000 183450
+8 8 1
+22 4 19 18 18 16 14 17
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=37
+ATTACK_SKILL=37
+ATTACK_SKILL=37
+ATTACK_TYPE=103
+ATTACK_SKILL=15
+ATTACK_SKILL=15
+ATTACK_SKILL=15
+ATTACK_TYPE=105
+ATTACK_SKILL=15
+ATTACK_SKILL=15
+ATTACK_SKILL=15
+ATTACK_TYPE=105
+#4212
+mob Raak minotaur highlord~
+Raak~
+The minotaur highlord Raak, stands demanding to know why you are here.
+~
+Being in the position of highlord in the citadel, Raak is second only to one
+other, and that is the minotaur overlord, Henark.  Raak is an extreemly well
+built minotaur, nearing eight feet tall.
+~
+262154 32769 136249361 136 0 S
+38 5 -18 35d19+4000 5d5+18
+300000 235000
+8 8 1
+22 4 20 20 19 18 18 15
+SKILL=SPELL_BLINDNESS 86
+SKILL=SPELL_HAIL_STORM 86
+SKILL=SPELL_CURSE 86
+SKILL=SPELL_HARM 86
+SKILL=SPELL_MAGIC_MISSILE 86
+SKILL=SPELL_POISON 86
+SKILL=SPELL_SUMMON 50
+SKILL=SKILL_BASH 30
+SKILL=SPELL_CAUSE_CRITIC 86
+SKILL=SKILL_PARRY 30
+SKILL=SPELL_HEAL_MINOR 86
+SKILL=SKILL_HUNT 86
+SKILL=SPELL_EARTHQUAKE 86
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+#4213
+mob Sinth minotaur savage~
+Sinth~
+Sinth, a savage looking minotaur, looks up as you enter his lair.
+~
+Sinth is a savage looking minotaur that look like he can never have too much
+fighting in his life.  His savage minotaur upbringing has only taught him
+hatred of all races exept minotaurs, but living in the citadel he has
+managed to tolorate the chaos warriors, most of the time.
+~
+319498 32769 136249361 33554440 -300 S
+35 8 -10 55d19+4000 5d3+5
+84000 213450
+8 8 1
+22 4 20 20 17 18 18 15
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_HUNT 80
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_TYPE=105
+ATTACK_SKILL=74
+ATTACK_SKILL=74
+ATTACK_SKILL=74
+ATTACK_TYPE=106
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_TYPE=105
+#4214
+mob Fasht minotaur savage~
+Fasht~
+Fasht, an extreemly savage minotaur notices your arrival
+~
+Fasht is the most savage looking minotaur you have ever lays eyes on, He wears
+a loincloth around his waist, and spikes down his legs and on his boots.  
+Fasht has a mixture of blood and saliva dripping from his mouth in a 
+discusting way.
+~
+319498 32769 136249361 33554440 -500 S
+38 5 -18 70d19+8000 4d3+11
+300000 232985
+8 8 1
+22 4 20 19 20 20 18 19
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_HUNT 86
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+ATTACK_SKILL=55
+ATTACK_SKILL=55
+ATTACK_SKILL=55
+ATTACK_TYPE=106
+ATTACK_SKILL=44
+ATTACK_SKILL=44
+ATTACK_SKILL=44
+ATTACK_TYPE=101
+#4215
+mob Tiron minotaur savage~
+Tiron~
+Tiron, a savage minotaur, looks up as you enter his lair.
+~
+Tiron is a savage looking minotaur that looks like can never have too much
+fighting in his life.  His savage minotaur upbringing has only taught him
+hatred of all races except minotaurs, but living in the citadel, he has 
+managed to tolorate the chaos warriors.
+~
+319498 32769 136249361 33554440 -300 S
+35 8 -10 55d19+4000 4d3+6
+82250 212475
+8 8 1
+22 4 19 21 19 19 17 18
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_HUNT 80
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_TYPE=105
+ATTACK_SKILL=74
+ATTACK_SKILL=74
+ATTACK_SKILL=74
+ATTACK_TYPE=106
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_TYPE=106
+#4216
+mob Gonark minotaur adviser~
+Gonark~
+Gonark, a minotaur adviser, is standing here.
+~
+Gonark is a noble looking minotaur who seems to be a little different from
+most other minotaurs around the citadel, he still has a huge muscular build,
+like all other minotaurs, but he prefers a lifestyle with not as much
+bloodthirst and fighting.
+~
+262154 32769 136249361 128 0 S
+37 6 -16 50d19+3000 5d3+9
+99750 223125
+8 8 1
+22 4 21 21 20 18 17 19
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_HUNT 84
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=101
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#4217
+mob Jorn minotaur adviser~
+Jorn~
+Jorn, a minotaur adviser, is standing here.
+~
+Jorn is one big brute of a minotaur!!, his muscular arms look like they 
+could throw you through the window, and down the mountainside beyond.
+~
+262154 32769 136249361 128 0 S
+37 6 -16 50d19+3000 4d3+11
+100800 222980
+8 8 1
+22 4 20 21 19 20 18 19
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_HUNT 84
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#4218
+mob Henark minotaur overlord~
+Henark~
+Henark, the minotaur Overlord, stand in one corner of his chamber.
+~
+Henark is probably the biggest minotaur you will ever see.  A thick coating
+of black hair and fur, covers parts of his red skinned muscular body.  
+Flames seem to emerege from his lower legs and dance around his body in a
+strange magical way.
+~
+319498 32769 136249361 136 -300 S
+40 3 -22 35d19+6000 20d5+45
+714000 285000
+8 8 1
+22 4 21 21 20 19 20 20
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_SUMMON 50
+SKILL=SKILL_BASH 30
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SKILL_PARRY 30
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SKILL_HUNT 90
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=1
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#4219
+mob squire chaos~
+the chaos squire~
+A chaos squire stands here, trying to please his trainer.
+~
+The young chaos squire tries desperatly to impress the eyes of a few of the 
+older chaos warriors about the citadel.
+~
+72 1 136249361 0 0 S
+18 22 26 10d9+250 4d5+13
+4550 5345
+8 8 1
+1 4 16 16 14 13 12 14
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#4220
+mob minotaur~
+the minotaur~
+A minotaur roaming through the labyrinth gives you a suspisious glance.
+~
+The minotaur has probably lived in the dark labyrinth for his whole life.  He
+wears little clothing, just a few rags tied together around his waist and arms.
+~
+57416 32769 136249361 33554432 -100 S
+21 19 23 68d19+1000 5d5+14
+7590 62135
+8 8 1
+22 4 17 16 15 16 15 11
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_HUNT 52
+ATTACK_SKILL=17
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#4221
+mob warrior chaos~
+the chaos warrior~
+A chaos warrior stands here, eager to get onto the battle field.
+~
+The chaos warrior shows scars and bruises of many battles, he looks about
+thirty years old, and has probably been fighting more most of his life.
+~
+72 1 136249361 0 0 S
+22 18 22 78d19+1000 4d5+16
+10010 66000
+8 8 1
+1 4 17 17 16 14 12 15
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#4222
+mob warrior veteran chaos~
+the veteran chaos warrior~
+A veteran chaos warrior raises an eyebrow at your approach.
+~
+The veteran chaos warrior is part of an elite army of warriors and minotaurs
+serving the citadel of chaos.
+~
+72 1 136249361 0 0 S
+25 15 18 11d19+2000 5d5+26
+17250 75000
+8 8 1
+22 4 17 19 15 16 14 12
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=103
+#4223
+mob minotaur warrior~
+the minotaur warrior~
+A minotaur warrior is standing here.
+~
+This minotaur is very much the same as most other minotaurs in the citadel,
+He wears a small amount of armor, most rusting and of poor quality.
+~
+262216 1 136249361 0 0 S
+25 15 18 11d19+2000 5d5+15
+17250 74050
+8 8 1
+22 4 18 16 16 16 15 14
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#4224
+mob minotaur battle hardened~
+the battle hardened minotaur~
+A battle hardened minotaur is standing here.
+~
+The minotaur has a number of scars across his face and chest.  His eyes are dark
+and his bull like face looks like it is steaming with anger.
+~
+262216 1 136249361 0 0 S
+28 15 11 44d19+2000 5d5+15
+26000 83000
+8 8 1
+22 4 18 18 16 18 14 14
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=5
+ATTACK_TYPE=103
+#4225
+mob minotaur elite guard~
+the elite minotaur guard~
+An elite minotaur guard paces the hallways of the citadel.
+~
+Only a handfull of minotaurs make it to the status of elite minotaur guard,
+the minotaurs have to undertake trials, mainly of strength, to see if they
+are worthy of the task.
+~
+262216 32769 136249361 128 0 S
+33 10 -4 99d19+1000 5d5+36
+59500 200000
+8 8 1
+22 4 19 20 18 17 15 16
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_HUNT 76
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=103
+$~
+#999999

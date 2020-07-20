@@ -1,0 +1,2707 @@
+#7600
+Gateway into Mirielle~
+As you pass thru the archway into this mystical city you notice townfolk
+wandering the streets lost in thought and mumbling to themselves.
+You glance and notice mist covered trees in the distance.  There is a
+large orb floating above you that causes you to wonder whether to enter
+or go back the way you came.
+~
+76 268435468 0 1 99 1
+D0
+The cobblestone road
+~
+~
+0 -1 7601
+D2
+the woods
+~
+~
+0 -1 7732
+S
+#7601
+Cobblestone Road~
+A somewhat paved road reaches out in front of you into the business district 
+You notice small homes around you and businesses up ahead.
+~
+76 0 0 1 99 1
+D0
+~
+~
+0 -1 7602
+D2
+the gateway into mirielle
+~
+~
+0 -1 7600
+S
+#7602
+Cobblestone Road~
+A somewhat paved road reaches out in front of you into the business district.
+You notice a bank to the east and a somewhat broken down inn to the west.
+More of the district continues up ahead.
+~
+76 0 0 1 99 1
+D0
+~
+~
+0 -1 7608
+D1
+the bank
+~
+~
+0 -1 7603
+D2
+~
+~
+0 -1 7601
+D3
+~
+~
+0 -1 7606
+S
+#7603
+Bank of Mirielle~
+You have just entered what appears to be a bank of some sort.  A teller 
+waits behind a window made of crystal looking rather distraught.
+~
+76 12 0 1 99 0
+D3
+~
+~
+0 -1 7602
+D4
+~
+~
+16 -1 7604
+S
+#7604
+Crystal Vault~
+You have entered a hidden vault made entirely of solid crystal you did
+not even realize it was here. a small altar type box is in the corner.
+~
+76 8 0 1 99 0
+S
+#7605
+Cavern of Sound~
+A music that is quaint and mystical fills your head and you begin to be 
+unable to concentrate.  You shiver uncontrollably.  A glow of light comes from the north.  It feels rather eerie down here.
+~
+76 12 0 1 99 0
+D0
+~
+~
+0 -1 7607
+D4
+~
+~
+0 -1 7606
+S
+#7606
+Silvie's Inn~
+You have entered a damp dusty room of what years ago may have been a nice
+place to come and rest your tired bones.  No one is quite sure who Silvie
+is or where she is now.  A quaint mystical tune fills your head and you wish
+to fall asleep.
+~
+76 8 0 1 99 0
+D1
+the cobblesstone road
+~
+~
+0 -1 7602
+D4
+reception
+~
+~
+0 -1 7703
+D5
+~
+door~
+9 -1 7605
+S
+#7607
+Silvie's Musical Room~
+The intensity of that music was coming from this room.  Silvie sits here
+strumming a platinum harp, the strange music eminates from her fingers
+strumming the strings.  Silvie does not appear to notice you, maybe that is
+a good thing.
+~
+76 8 0 1 99 0
+D2
+~
+~
+0 -1 7605
+S
+#7608
+Cobblestone Road~
+A somewhat paved road reaches out in front of you into the business district.
+A small gurgling fountain appears to the west and a store is to your east.
+~
+76 0 0 1 99 1
+D0
+the cobblestone road
+~
+~
+0 -1 7611
+D1
+the store
+~
+~
+0 -1 7610
+D2
+~
+~
+0 -1 7602
+D3
+a strange fountain
+~
+~
+0 -1 7609
+S
+#7609
+The Iridescent Fountain~
+A glass fountain that yields a bunch of prisms of light when you look at it.
+Iridescent water spills over the edges and pools in the bottom.  You wonder
+what will happen if you drink the pretty liquid.
+~
+76 0 0 1 99 3
+D1
+~
+~
+0 -1 7608
+S
+#7610
+The store~
+Various bags and lanterns cover the walls and a nice shopkeeper who looks
+dreamily into your eyes is here.  He appears to be half asleep.
+~
+76 8 0 1 99 0
+D3
+the main road
+~
+~
+0 -1 7608
+S
+#7611
+Cobblestone Road~
+A somewhat paved road reaches out in front of you into the business district.
+a small path contunes the the east and the west disappears into a dense
+forest.
+~
+76 0 0 1 99 1
+D0
+cobblestone road
+~
+~
+0 -1 7698
+D1
+a meandering path
+~
+~
+0 -1 7612
+D2
+the cobblestone road
+~
+~
+0 -1 7608
+S
+#7612
+A small meandering path~
+
+The path is slightly overgrown with brush.  It appears to run down toward
+a group of trees perhaps you are just wandering in the forest.  The path
+continues east.
+~
+76 4 0 1 99 3
+D1
+further down the path
+~
+~
+0 -1 7613
+D3
+the cobblestone road
+~
+~
+0 -1 7611
+S
+#7613
+A small meandering path~
+The path is slightly overgrown with brush.  It appears to run down toward
+a group of trees perhaps you are just wandering in the forest.  The path
+continues north.
+~
+76 0 0 1 99 3
+D0
+near the bay
+~
+~
+0 -1 7614
+D3
+the path
+~
+~
+0 -1 7612
+S
+#7614
+A small meandering path~
+The path is slightly overgrown with brush.  It appears you are almost to
+a clearing, it seems it is right in front of you to the east.
+~
+76 0 0 1 99 3
+D0
+the path
+~
+~
+0 -1 7615
+D2
+the path
+~
+~
+0 -1 7613
+S
+#7615
+A small meandering path~
+The path is slightly overgrown with brush.  It appears you are almost to
+a clearing, it seems it is right in front of you to the east.
+~
+76 0 0 1 99 3
+D0
+the path
+~
+~
+0 -1 7616
+S
+#7616
+A small meandering path~
+The path is slightly overgrown with brush.  It appears you are almost to
+a clearing, it seems it is right in front of you to the east.
+~
+76 0 0 1 99 3
+D0
+the path
+~
+~
+0 -1 7617
+S
+#7617
+A small meandering path~
+The path is slightly overgrown with brush.  It appears you are almost to
+a clearing, it seems it is right in front of you to the east.
+~
+76 0 0 1 99 3
+D0
+the path
+~
+~
+0 -1 7614
+D1
+the path
+~
+branch~
+9 -1 7619
+S
+#7618
+A catherdral of trees~
+The path opened up into a beautiful catherdral of trees.  The trees surround
+you and the cloudy mist swirls around you.  A set of stairs is here spiraling
+down into a hazy darkness.  The steps whether made of stone or cut earth are
+intermixed with roots and weeds sticking out at ackward directions.  A cool
+dampness pushes up at you and you wonder if this is the only entrance/exit
+You feel drawn downward by a strange force maybe you should explore or maybe
+you should turn back to Mirielle.
+~
+76 4 0 1 99 3
+D3
+the path
+~
+~
+0 -1 7619
+D5
+The downward spiral
+~
+~
+0 -1 7620
+S
+#7619
+A small meandering path~
+The path is slightly overgrown with brush.  It appears you are almost to
+the clearing.  Maybe it is directly in front of you to the east.
+~
+76 0 0 1 99 3
+D1
+near a clearing?
+~
+~
+0 -1 7618
+D3
+the path
+~
+~
+0 -1 7617
+S
+#7620
+On the steps~
+The steps appear to be made of old stone now that you are adventuring down them.
+They cut further into the earth and continue downward.  The air is thicker here
+and the dampness surrounds you.  You feel lost within the darkness and the mists
+but you are unsure what they are.
+~
+76 0 0 1 99 0
+D4
+A stand of trees
+~
+~
+0 -1 7618
+D5
+further into the mist
+~
+~
+0 -1 7622
+S
+#7621
+A fireplace~
+A large fireplace is here.  Ashes and soot cover the floor but a piece of old
+paper appears to be visible.
+~
+76 0 0 1 99 1
+D3
+the chambers
+~
+~
+0 -1 7712
+S
+#7622
+The stairs~
+The mist overwhelms your perceptions you can barely make out which way to go
+and there is a feeling of hysteria in the air.  Things seem to be laughing
+ you from all directions.
+~
+76 0 0 1 99 0
+D4
+the staircase in mist
+~
+~
+0 -1 7620
+D5
+further down
+~
+~
+0 -1 7623
+S
+#7623
+Further down the old stairs~
+The stairs continue here adn you feel as if you are almost near the bottom.
+You try and see your feet so as to watch you step but you cannot see
+them through the mist.
+~
+76 8 0 1 99 0
+D4
+the stairs swirled in mist
+~
+~
+0 -1 7622
+D5
+the landing
+~
+~
+0 -1 7624
+S
+#7624
+The landing at the bottom of the stairs~
+You have finally reached the bottom of the sprialing staircase.  Mists swirl
+over your head, but the paths are fairly clear here.  A path leads east
+the rocks appear as though they may crush you if they fall.  A much safer path
+appears north.
+~
+76 8 0 1 99 0
+D0
+A musty old hallway
+~
+~
+0 -1 7638
+D1
+crumbling passage
+~
+~
+0 -1 7625
+S
+#7625
+Crumbling Passage~
+This looks very unsafe adventuring further you may risk being crushed,
+although a light appears in that direction.
+~
+76 8 0 1 99 0
+D1
+You wonder if maybe you will meet your death down here.
+~
+~
+0 -1 7626
+D3
+the dock
+~
+~
+0 -1 7624
+S
+#7626
+Your grave~
+The ceiling has just caved in on you.  That light appeared to be a torch still
+glowing from the last victim this pit took hold of.  At first you only heard
+pebbles fall on you until gradually rocks bounced off your armor and began
+to hurt you.  Soon you could no longer bear to stand up and the rocks began
+to seal you in your rocky coffin.  Maybe if you had not tempted fate this one
+last time you would live to see the light of day again.  Perhaps you will
+remember this moment as you live out your personal hell for all of eternity
+Memories fade and life fails to exist as the last boulder seals you in.
+Perhaps Mirielle is a better place to visit and not adventure in.
+Perhaps your life is now gone.........
+~
+76 1344274442 0 1 99 0
+S
+#7627
+Wandering the halls~
+The walls here explain the dampness that sent shivers thru your body and made
+you wish you had turned back.  Noises can be heard rebounding through the 
+caverns.  You begin to wonder what kind of place you have found.
+~
+76 8 0 1 99 0
+D2
+Back towards the entrance...you hope.
+~
+~
+0 -1 7638
+D3
+A bend in the hall
+~
+~
+0 -1 7628
+S
+#7628
+An illuminated wider cavern~
+The hallway opens up into a wider cavern, there is a hidden illimination here
+Maybe it comes from the moss covered walls.  A stairway or air shaft appears 
+to the west almost hidden by tangled vines and shadows.  A shiver runs through
+you from the dampness and the eeriness of this place.
+~
+76 8 0 1 99 0
+D0
+the boat
+~
+~
+0 -1 7630
+D1
+Through the caverns
+~
+~
+0 -1 7627
+D3
+the rubbish pile hiding the stairs
+~
+~
+0 -1 7629
+S
+#7629
+The pile of rubbish~
+Stumbling thru rubbish and in the mists of shadows a path appears south.  
+You can just barely make out the frame of a door up ahead.
+~
+76 8 0 1 99 0
+D1
+the large illuminated cavern
+~
+~
+0 -1 7628
+D2
+the doorway
+~
+~
+0 -1 7631
+S
+#7630
+A musty hallway~
+Insane laughing can be heard up ahead.  Weird shadows are cast across the 
+walls here and you appears to want to venture north or south you spin around 
+and the way you came is gone.
+~
+76 6291464 0 1 99 0
+D3
+Wandering the halls
+~
+~
+0 -1 7632
+S
+#7631
+An old wooden door with a mysterious Crystal lock~
+A door is here guarding a special area.  There are old scratched words on the
+door, they seem to read the House of Zalmynk.  A warning is here, it reads,
+"For all those who enter here must have a special fate, the key to your
+passage awaits you in a vault, we the archfiends of Zalmynk have placed
+the key on a crystal quasit.  But remember, your death awaits you inside
+this door, be brave of heart or turn back we do not care.  All we wish
+is the protection of our leader and your soul if you choose to take us on.
+                              ------the archfiends of Zalmynk            "
+The lock and doornob appear to be made of solid crystal.  You ponder your 
+mortality before finding the key to enter there home.
+~
+76 136 0 1 99 0
+D0
+the rubbish
+~
+~
+0 -1 7629
+D2
+You can see sheets of flame, and hear screaming.
+~
+door south~
+13 7615 7706
+S
+#7632
+Lost in the caverns~
+Your mind plays tricks on you and you wonder which way to go.  Perhaps if you
+trying going in a few different directions this will be easier.
+Oops back again for more...this may be harder than it seemed.
+~
+76 6291468 0 1 99 0
+D3
+Lost!
+~
+~
+0 -1 7650
+S
+#7633
+The enlightened hallway~
+You stand in an enlightened hallway, perhaps it is that you made it thru the
+maze or perhaps it is the eerie light illuminating from the crystal filled 
+walls that surround you.
+~
+76 8 0 1 99 0
+D0
+branch in tunnels
+~
+~
+0 -1 7657
+D3
+the rear deck
+~
+~
+0 -1 7634
+S
+#7634
+The door~
+You have come upon a door it appears open and you can see mysterious people
+running aroudn sporadically waving hands in the air and chanting mysterious 
+incantations.  There is a certain evil about this place.
+~
+76 12 0 1 99 0
+D1
+the enlightened hallway
+~
+~
+0 -1 7633
+D2
+the magical room
+~
+~
+0 -1 7635
+D5
+you are not sure
+~
+~
+17 -1 7635
+S
+#7635
+The room of incantation~
+Wizards scurry around you lost in thought and to be more afraid of the doors
+that lead off from this room than you yourself.
+~
+76 268435464 0 1 99 0
+D0
+the opened door
+~
+~
+0 -1 7634
+D2
+the sloping incline
+~
+~
+0 -1 7643
+D3
+a panel in the wall
+~
+~
+0 -1 7637
+D5
+a trapdoor
+~
+door~
+9 -1 7636
+S
+#7636
+A secret place~
+A path leads south.  The air is thick with smoke and an evil dread fills your
+soul.  The insane Laughter you heard comes from down here.
+~
+76 8 0 1 99 0
+D2
+the small cramped hallway
+~
+~
+0 -1 7640
+D4
+the room of wizards
+~
+trapdoor~
+0 -1 7635
+S
+#7637
+The panel~
+A panel has appeared in the wall.  Venture beyond it and find what is hidden
+on the other side.
+~
+76 8 0 1 99 0
+D1
+The room of wizards
+~
+~
+0 -1 7635
+D3
+Moriarty's chambers
+~
+door~
+9 -1 7639
+S
+#7638
+A damp dark hallway~
+This hallway leds away from the stairs and mist swirl and conceal them from
+your view the wall are covered in damp moss and the path continues north.
+~
+76 8 0 1 99 0
+D0
+further into the tunnels
+~
+~
+0 -1 7627
+D2
+the stairs??!?>?
+~
+~
+0 -1 7624
+S
+#7639
+The chambers of Moriarty~
+You have stumbled into the chambers of Moriarty.  His evil presece overwhelms
+you as does his physical presence.  The look on his face fills you with such
+a dread that you wish you were back out in the wizards chamber.
+~
+76 8 0 1 99 0
+D1
+the panel in the wall
+~
+door~
+9 -1 7637
+S
+#7640
+A small hallway~
+A hallway continues to the south.  It is very small in here but you feel you
+see a light further up ahead.
+~
+76 8 0 1 99 0
+D0
+under the trapdoor
+~
+~
+0 -1 7636
+D2
+the Ishphylph's door
+~
+~
+0 -1 7641
+S
+#7641
+A door made of smoked glass~
+An ishpylph stands here guarding the door.  The laughter comes from behind it.
+If you have the opportunity before he notices, you maybe you should try the
+door to see if it is locked.
+~
+76 8 0 1 99 0
+D0
+the small hallway
+~
+~
+0 -1 7640
+D1
+M'yeslika's Room
+~
+door~
+1 7647 7642
+D3
+hallway of smoked glass
+~
+door~
+0 7647 7704
+S
+#7642
+M'yeslika's Room~
+You have stumbled into her chamber and she does not appear happy.  Her ceiling
+and walls appear to be covered in flames.  It feels incredibly warm in here.
+The furniture is blackened and on a desk you see a wide variety of potions.
+Be careful of her she may move faster than you can think or react.
+~
+76 8 0 1 99 0
+D3
+the Ishphylph's door
+~
+~
+1 -1 7641
+D5
+not sure
+~
+~
+16 -1 7644
+S
+#7643
+The sloping incline~
+This hallway slopes upward towards the end of the hall.  The end of the hall
+is to your east.  Marks appear on the wall here and you wonder what they
+mean.  If perhaps they mark some sort of score.
+~
+76 8 0 1 99 0
+D0
+the room of wizards
+~
+~
+0 -1 7635
+D1
+the hall
+~
+~
+0 -1 7644
+S
+#7644
+The hall~
+At the end of a hallway appears a room to the south and a ladder leading
+upward.  Since the rooms have no doors, you wonder if these lead to the 
+masters of the wizards in the room you left.  And feel a tremble of fear
+run through your soul.
+~
+76 8 0 1 99 0
+D2
+Lord Jaxom's Room
+~
+~
+0 -1 7646
+D3
+the incline
+~
+~
+0 -1 7643
+D4
+Bryshilmer's Alcove
+~
+~
+0 -1 7645
+S
+#7645
+Bryshilmer's Alcove~
+The head master of the wizards in the room of incatantion keeps his muse here.
+She appears to be friendly as she awakens on the bed.  She is of feline
+origin and the room is done is the colours of midnight and sunrise.
+~
+76 8 0 1 99 0
+D5
+the end of the hall
+~
+~
+0 -1 7644
+S
+#7646
+Lord Jaxom's Room~
+The door slammed shut behind you and while this room may not be a death room,
+the enormous HalfGiant Wizard who turns to face you will cause your death.
+His office appears to be ransacked with broken furniture and smashed walls.
+Perhaps he is the cause of this.
+~
+76 8 0 1 99 0
+D4
+Bryshilmer's Room
+~
+~
+16 -1 7645
+S
+#7647
+A cozy French Chateau for all the private misadventures~
+You enter a quiet white chateau, vines cover the outside and a warm entrance
+beckons you in past a cozy kitchen and a comfortable living area.
+~
+76 268435976 0 1 99 0
+D4
+the master bedroom
+~
+~
+0 -1 7648
+S
+#7648
+The master Suite~
+A comfortable bedroom with a canopy bed covered in white eyelet covers, many
+pillows cover the headboard and the bed looks inviting.  To the east is a
+dressign area and a large bath.
+~
+76 8 0 1 99 0
+D1
+the bath
+~
+~
+0 -1 7649
+D5
+the entrance to our place
+~
+~
+0 -1 7647
+S
+#7649
+The sunlit bath~
+A wonderful bath with a large two person tub for all those wonderful bubble
+baths that we can share.  The skylight fills the room with light and a dressing
+area is here.
+~
+76 8 0 1 99 0
+D3
+the bedroom
+~
+~
+0 -1 7648
+S
+#7650
+Lost in the caverns~
+Your mind plays tricks on you and you wonder which way to go.  Perhaps if you
+trying going in a few different directions this will be easier.
+~
+76 6291464 0 1 99 0
+D1
+Lost
+~
+~
+0 -1 7651
+D2
+Lost!
+~
+~
+0 -1 7632
+S
+#7651
+Lost in the caverns~
+Your mind plays tricks on you and you wonder which way to go.  Perhaps if you
+trying going in a few different directions this will be easier.
+~
+76 4194312 0 1 99 0
+D0
+Lost!
+~
+~
+0 -1 7632
+D2
+Lost!
+~
+~
+0 -1 7652
+D3
+Lost!
+~
+~
+0 -1 7632
+S
+#7652
+Lost in the caverns~
+Your mind plays tricks on you and you wonder which way to go.  Perhaps if you
+trying going in a few different directions this will be easier.
+~
+76 4194312 0 1 99 0
+D1
+Lost!
+~
+~
+0 -1 7632
+D2
+Lost!
+~
+~
+0 -1 7653
+D3
+Lost!
+~
+~
+0 -1 7632
+S
+#7653
+Lost in the caverns~
+Your mind plays tricks on you and you wonder which way to go.  Perhaps if you
+trying going in a few different directions this will be easier.
+~
+76 4194312 0 1 99 0
+D0
+Lost!
+~
+~
+0 -1 7632
+D3
+Lost!
+~
+~
+0 -1 7654
+S
+#7654
+Lost in the caverns~
+Your mind plays tricks on you and you wonder which way to go.  Perhaps if you
+trying going in a few different directions this will be easier.
+~
+76 4194312 0 1 99 0
+D0
+Lost!
+~
+~
+0 -1 7632
+D1
+Lost!
+~
+~
+0 -1 7632
+D3
+Lost!
+~
+~
+0 -1 7655
+S
+#7655
+Lost in the caverns~
+Your mind plays tricks on you and you wonder which way to go.  Perhaps if you
+trying going in a few different directions this will be easier.
+~
+76 4194312 0 1 99 0
+D1
+Lost!
+~
+~
+0 -1 7632
+D2
+Lost!
+~
+~
+0 -1 7656
+D3
+Lost!
+~
+~
+0 -1 7632
+S
+#7656
+Lost in the caverns~
+Your mind plays tricks on you and you wonder which way to go.  Perhaps if you
+trying going in a few different directions this will be easier.
+~
+76 4194316 0 1 99 0
+D0
+Lost!
+~
+~
+0 -1 7632
+D2
+A path out of the maze?!?
+~
+~
+0 -1 7657
+D3
+Lost!
+~
+~
+0 -1 7632
+S
+#7657
+A branch in hallways~
+A sign of relief fills you to have found your way thru the maze.  Although
+now you are unsure of your surroundings.  Insane laughter fills your head.
+The maze opened up into a room washed with colour and walls made of pure
+crystal.  Whatever or whoever makes it home here has mastered the fine art of
+mystery and illusion.  The town of Mirielle caused you to wonder about many
+things could this area possible be what has made the townfolk so strange.
+~
+76 8 0 1 99 0
+D0
+The maze
+~
+~
+0 -1 7656
+D1
+a dark hallway
+~
+~
+0 -1 7658
+D2
+Within the enlightened hallway
+~
+~
+0 -1 7633
+S
+#7658
+The violet hallway~
+This hallway gives off an eerie purple cast.  The walls glow with it, emitting
+an iridescent purple white aura.  Like the whole area here is blessed with
+a special force.
+~
+76 8 0 1 99 0
+D1
+the strange room
+~
+~
+0 -1 7660
+D3
+the branch in hallways
+~
+~
+0 -1 7657
+S
+#7659
+Iridescent Room~
+The purple iridescent aura has made you begin to feel strange and unsure of
+your surroundings.  This seems so different from the entrance to the caverns.
+The are nooks cut into the walls and you are drawn to a heavily guilded door.
+~
+76 12 0 1 99 0
+D0
+The catacombs
+~
+door~
+9 -1 7661
+D2
+the strange room
+~
+~
+0 -1 7660
+S
+#7660
+The strange room~
+This room fills you with a strange sensation and you wonder if coming here was
+such a good idea.  There are strange shadows on the walls.  And from what you
+have seen a powerful and strange evil magic lurks here.
+~
+76 1032 0 1 99 0
+D0
+~
+~
+0 -1 7659
+D3
+the violet hall
+~
+~
+0 -1 7658
+S
+#7661
+The catacombs~
+The door opened into a room filled with halls leadinng off it. You have entered
+the unholy catacombs under Mirielle.  A chanting can be heard thruout the
+cavernous room and sparce furniture adorns the walls.  Altars it seems are
+built into every nook and crany in this place.
+~
+76 8 0 1 99 0
+D0
+deeper in the catcombs
+~
+~
+0 -1 7662
+D2
+The iridescent room
+~
+~
+1 -1 7659
+S
+#7662
+Catacombs~
+You have come to a pass in the catcombs where things branch off in all 
+directions.  the sense of magic here is highly aligned and you wish you were
+as powerful as this area seems.
+~
+76 8 0 1 99 0
+D0
+Narrow Hallway
+~
+~
+0 -1 7665
+D1
+a mysterious hallway
+~
+~
+0 -1 7663
+D2
+the entrance to the catacombs
+~
+~
+0 -1 7661
+D3
+the whispering hallway
+~
+~
+0 -1 7664
+S
+#7663
+A mysterious hallway~
+The hallway appears to be full of light from some inaparent lightsource. 
+It continues to the east perhaps you should try and find where the light is 
+coming from.  It grows brighter to the east.
+~
+76 12 0 1 99 0
+D1
+the hall?
+~
+~
+0 -1 7723
+D3
+catacombs
+~
+~
+0 -1 7662
+S
+#7664
+The hall of whispers~
+Whispers creep out at you from every angle.  You spin around trying to grasp
+their source.  You hear a strange gurgling noise coming from the south.
+~
+76 12 0 1 99 0
+D1
+Catacombs
+~
+~
+0 -1 7662
+D2
+whispers
+~
+~
+0 -1 7727
+S
+#7665
+Narrow Hallway~
+The catacombs opened up into a narrow hallway.  Men float around you in awe
+they appear to have a part of the soul stored in your surroundings.  The
+hallway is so narrow walking single file is the only way to continue.
+~
+76 8 0 1 99 0
+D0
+the narrow hall
+~
+~
+0 -1 7666
+D2
+catacombs
+~
+~
+0 -1 7662
+S
+#7666
+An empty intersection~
+The hallway continues into even more norrower hallways.  Your choices are to
+the left or to the right.  An intense cold comes from the right.
+~
+76 8 0 1 99 0
+D1
+T turn in a narrow hallway
+~
+~
+0 -1 7668
+D2
+the narrow hall
+~
+~
+0 -1 7665
+D3
+west hallway
+~
+~
+0 -1 7667
+S
+#7667
+West Hallway~
+The hallway continues into even more norrower hallways.  The hall continues
+to the north it appears soemone is watching you and yoru soul is filled with 
+dread.  Shivers run up adn down you spine.
+~
+76 8 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 7672
+D1
+T turn in a narrow hallway
+~
+~
+0 -1 7666
+S
+#7668
+East Hallway~
+The hallway continues into even more norrower hallways.  Men float around you
+in awe they appear to have a part of the soul stored in your surroundings.
+The hallway is so narrow walking single file is the only way to continue.
+It continues up and west.
+~
+76 8 0 1 99 0
+D0
+the cold hall
+~
+~
+0 -1 7669
+D3
+east hallway
+~
+~
+0 -1 7666
+S
+#7669
+The cold hall~
+There is an uncanny coldness here almost bitter.  It seems to come from the
+awful evilness eminating from the walls.  The hall continues up ahead.
+~
+76 4104 0 1 99 0
+D0
+the cold hall
+~
+~
+0 -1 7670
+D2
+the east hallway
+~
+~
+0 -1 7668
+S
+#7670
+The cold hall~
+There is an uncanny coldness here almost bitter.  It seems to come from the
+awful evilness eminating from the walls.  The hall continues up ahead.
+~
+76 2056 0 1 99 0
+D0
+the cold hall
+~
+~
+0 -1 7671
+D2
+the cold hall
+~
+~
+0 -1 7669
+S
+#7671
+The intersection of evil and good~
+This intersection makes you wonder when the creatures in this place were ever 
+good.  The eerie evilness surrounds you and you feel the need to leave this
+place before the evilness surrounds you and steals your nature.  A dark stair
+leads up from here
+~
+76 8 0 1 99 0
+D2
+the cold hall
+~
+~
+0 -1 7670
+D3
+the bare hall
+~
+~
+0 -1 7674
+D4
+the stairs of faces
+~
+~
+0 -1 7675
+S
+#7672
+The bare hall~
+The hallway continues into even more norrower hallways.  The hall continues
+to the north it appears someone is watching you and your soul is filled with
+dread.  Shivers run up and down your spine.
+~
+76 8 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 7673
+D2
+a turn in a hall
+~
+~
+0 -1 7667
+S
+#7673
+The bare hall~
+The hallway continues into even more norrower hallways.  The hall continues
+to the east it appears someone is watching you and your soul is filled with
+dread.  Shivers run up and down your spine and the hall is devoid of everything.
+~
+76 8 0 1 99 1
+D1
+near the intersection
+~
+~
+0 -1 7674
+D2
+the hall
+~
+~
+0 -1 7672
+S
+#7674
+The bare hall~
+The hallway continues into even more norrower hallways.  The hall continues
+to the east it appears someone is watching you and your soul is filled with
+dread.  Shivers run up and down your spine and the hall is devoid of everything.
+~
+76 8 0 1 99 0
+D1
+good and evil
+~
+~
+0 -1 7671
+D3
+a turn
+~
+~
+0 -1 7673
+S
+#7675
+The stairs of faces~
+Faces with blank expressions seem to live in the walls here they seem to 
+stretch out from the walls here to warn you of perhaps a more dreaded evil 
+that lurks further up the stairs.
+~
+76 8 0 1 99 0
+D4
+the stairs
+~
+~
+0 -1 7676
+D5
+The intersection of evil and good
+~
+~
+0 -1 7671
+S
+#7676
+The stairs of faces~
+Faces with blank expressions seem to live in the walls here they seem to 
+stretch out from the walls here to warn you of perhaps a more dreaded evil 
+that lurks further up the stairs.
+~
+76 8 0 1 99 0
+D0
+a landing in the stairs
+~
+~
+0 -1 7677
+D5
+the stairs
+~
+~
+0 -1 7675
+S
+#7677
+The Phyrshanct landing~
+Faces with blank expressions seem to live in the walls here they seem to
+stretch out from the walls here to warn you of perhaps a more dreaded evil
+that lurks further within the catacombs.
+~
+76 12 0 1 99 0
+D2
+the stairs
+~
+~
+0 -1 7676
+D3
+the obsidian hallway
+~
+~
+0 -1 7678
+S
+#7678
+The obsidian Hall~
+A hallway of obsidian leads into a worship room.  Chanting can be heard 
+bouncing off the walls.  It resounds with in your ears.  If the worship were
+of a god and not some strange evil you might not let the fear sink into your
+soul so much
+~
+76 8 0 1 99 0
+D1
+The Phyrshanct landing
+~
+~
+0 -1 7677
+D3
+obsidian hall
+~
+~
+0 -1 7679
+S
+#7679
+The obsidian Hall~
+A hallway of obsidian leads into a worship room.  Chanting can be heard 
+bouncing off the walls.  It resounds with in your ears.  If the worship were
+of a god and not some strange evil you might not let the fear sink into your
+soul so much
+~
+76 12 0 1 99 0
+D1
+obsidian hall
+~
+~
+0 -1 7678
+D3
+the Phyrshanct Room
+~
+~
+0 -1 7680
+S
+#7680
+The Phyrshanct Room~
+The hall opened up into a large worship room, sacrificial pits line the walls.
+The creatures here while creatures of worship are intensely evil and their 
+god is one of evil that is feared with one's soul and not just one's mind.
+~
+76 8 0 1 99 0
+D1
+a very dark hall
+~
+~
+0 -1 7679
+D3
+Phyrshanct
+~
+~
+0 -1 7681
+S
+#7681
+The Phyrshanct Room~
+The hall opened up into a large worship room, sacrificial pits line the walls.
+The creatures here while creatures of worship are intensely evil and their 
+god is one of evil that is feared with one's soul and not just one's mind.
+~
+76 8 0 1 99 0
+D0
+Phyrshanct
+~
+~
+0 -1 7683
+D1
+Phyrshanct
+~
+~
+0 -1 7680
+D2
+Phyrshanct
+~
+~
+0 -1 7684
+D3
+Phyrshanct
+~
+~
+0 -1 7682
+S
+#7682
+The Phyrshanct Room~
+The hall opened up into a large worship room, sacrificial pits line the walls.
+The creatures here while creatures of worship are intensely evil and their 
+god is one of evil that is feared with one's soul and not just one's mind.
+~
+76 12 0 1 99 0
+D1
+Phyrshanct
+~
+~
+0 -1 7681
+D3
+something strange
+~
+~
+17 -1 7685
+S
+#7683
+The Phyrshanct Room~
+The hall opened up into a large worship room, sacrificial pits line the walls.
+The creatures here while creatures of worship are intensely evil and their 
+god is one of evil that is feared with one's soul and not just one's mind.
+~
+76 8 0 1 99 0
+D0
+Whispering Hallway
+~
+~
+0 -1 7686
+D2
+Phyrshanct
+~
+~
+0 -1 7681
+S
+#7684
+The Phyrshanct Room~
+The hall opened up into a large worship room, sacrificial pits line the walls.
+The creatures here while creatures of worship are intensely evil and their 
+god is one of evil that is feared with one's soul and not just one's mind.
+~
+76 8 0 1 99 0
+D0
+Phyrshanct
+~
+~
+0 -1 7681
+D2
+the lost hallway
+~
+~
+0 -1 7691
+S
+#7685
+The room of sanctuary~
+This whole room is surrounded in a white aura.  The intense aura makes it hard
+for you to discern the creature who is now attacking you.
+~
+76 8 0 1 99 0
+D1
+Phyrshanct
+~
+~
+17 -1 7682
+S
+#7686
+The whispering hallway~
+This hallway leads down past walls that appears to move as you pass them.
+Voices reach out to you through your mind and you have trouble concentrating.
+Perhaps it best to move quickly thru this area
+~
+76 12 0 1 99 0
+D0
+Whispering hallway
+~
+~
+0 -1 7687
+D2
+Phyrshanct
+~
+~
+0 -1 7683
+S
+#7687
+The whispering hallway~
+This hallway leads down past walls that appears to move as you pass them.
+Voices reach out to you through your mind and you have trouble concetrating.
+Perhaps it best to move quickly thru this area.
+
+Doors appear to the west and down.
+~
+76 8 0 1 99 0
+D2
+Whispering hallway
+~
+~
+0 -1 7686
+D3
+a damp breezeway
+~
+~
+0 -1 7689
+D5
+T'Sagrez's Pit
+~
+gate~
+9 -1 7688
+S
+#7688
+T'Sagrez's Pit~
+The pit you have just climbed down ihnto reeks of the smell of blood and old 
+rotting bones.  This is where the evil twin of T'Sartle came when his brother
+banned him from the Church of T'Salchoic.  It appears he worships a very 
+black magic unlike that of his brother.  The glinting of his eyes does little
+for the fear building inside you.
+~
+76 8 0 1 99 0
+D4
+Whispers
+~
+~
+0 -1 7687
+S
+#7689
+A damp breezeway~
+This hallway leads down past walls that appears to move as you pass them.
+A heavily locked door is here, but the key is on the floor covered in a light
+dust.  This is highly precurious.
+~
+76 8 0 1 99 0
+D1
+whispers
+~
+~
+0 -1 7687
+D2
+Phyrshanct's haven
+~
+door~
+13 7616 7690
+S
+#7690
+Phyrshanct's Haven~
+You have stumbled into the head demon's quarters.  This is the creature from
+which they derive their black magic.  He is the epitomy of evil itself, but
+something tells you further evil lurks here if you were only strong enough
+to take it on.  The demon comes at you with a gleam in his eye and
+something tells you that exiting this room may mystify you more.
+~
+76 8 0 1 99 0
+D0
+???????
+~
+~
+0 -1 7632
+S
+#7691
+The lost hallway~
+The Phyrshanct room opened up into many hallways this is just one of them.
+A mysterious glow emanates from up ahead.  Maybe the master of this place use
+this as their secret getaway or their sleeping quarters.
+~
+76 12 0 1 99 0
+D0
+Phyrshanct
+~
+~
+0 -1 7684
+D2
+the lost hallway
+~
+~
+0 -1 7692
+S
+#7692
+The lost hallway~
+The Phyrshanct room opened up into many hallways this is just one of them.
+A mysterious glow emanates from up ahead.  Maybe the master of this place use
+this as their secret getaway or their sleeping quarters.
+~
+76 8 0 1 99 0
+D0
+the lost hallway
+~
+~
+0 -1 7691
+D1
+turning in the lost hallway
+~
+~
+0 -1 7693
+S
+#7693
+The lost hallway~
+The Phyrshanct room opened up into many hallways this is just one of them.
+A mysterious glow emanates from up ahead.  Maybe the master of this place use
+this as their secret getaway or their sleeping quarters.
+~
+76 8 0 1 99 0
+D1
+before the rooms
+~
+~
+0 -1 7694
+D3
+turning in the lost hallway
+~
+~
+0 -1 7692
+S
+#7694
+Before the rooms of the 3 ArchAngels~
+The Phyrshanct room opened up into many hallways this is just one of them.
+A mysterious glow emanates from up ahead.  Maybe the master of this place use
+this as their secret getaway or their sleeping quarters.
+~
+76 8 0 1 99 0
+D0
+Hyleshia's Entrapment
+~
+~
+0 -1 7697
+D1
+Kyranchix Room
+~
+~
+0 -1 7695
+D2
+B'Ragandor's Chamber
+~
+~
+0 -1 7696
+D3
+the lost hallway
+~
+~
+0 -1 7693
+S
+#7695
+Kyranchix Room~
+You have entered the chamber of Kyranchix, he is probably the least of your 
+concerns as he is known to keep pets.  He is a master of his own mind.  And
+as soon as his pets have their way with you.  He will run rampant in yours.
+~
+76 8 0 1 99 0
+D3
+before the rooms
+~
+~
+0 -1 7694
+S
+#7696
+B'Ragandor's Chamber~
+You have entered the chamber of B'Ragandor, his smirk teases his lips as you
+ponder what must run throu such a wicked mind.  His clothes lay in tatters
+as if maybe his psychotic mind has played tricks on him.
+~
+76 8 0 1 99 0
+D0
+before the rooms
+~
+~
+0 -1 7694
+S
+#7697
+Hyleshia's Entrapment~
+You have entered the chamber of Hyleshia, she is probably the evilest of the
+3 ArchAngels.  She is an admitted lover of both the master and the demon,
+who have a grasp on the minds of the people here.
+~
+76 8 0 1 99 0
+D2
+before the rooms
+~
+~
+0 -1 7694
+S
+#7698
+Cobblestone Road~
+A somewhat paved road reaches out behind you into the business district.
+You a strange small home up ahead and businesses to the east and west.
+~
+76 0 0 1 99 1
+D0
+end of the road
+~
+~
+0 -1 7699
+D1
+the shop of potions
+~
+~
+0 -1 7702
+D2
+near the center of town
+~
+~
+0 -1 7611
+D3
+the weapon shop
+~
+~
+0 -1 7701
+S
+#7699
+The end of cobblestone road~
+A somewhat paved road reaches out behind you into the business district.
+You notice a small House on your left that does not appear to be what it 
+at first appeared to be.
+~
+76 0 0 1 99 1
+D2
+heading back into town
+~
+~
+0 -1 7698
+D3
+the dwellor's house
+~
+~
+0 -1 7700
+S
+#7700
+The dwellor's house~
+An old dwellor of Mirielle lives here on his wall you can see the following
+words written.  To the east of this town lies a staircase that descends into 
+swirls.  Within this cavernous place you will find the purpose behind
+the strange force that has taken over the townfolk.  the only directions I can
+give our that it is north and east then you must move a branch out of the path
+to continue.  Be careful the creatures that live within this place will take over your mind or desecrate your soul.
+~
+76 0 0 1 99 0
+D1
+end of the road
+~
+~
+0 -1 7699
+S
+#7701
+Baltor's Weapon and Armor Emporium~
+Baltor runs a fine shop if he is even paying attention to you.  He seems
+more mystified with something that has afixed his gaze, a small swirling
+slip of blue in front of his face.
+~
+76 8 0 1 99 0
+D1
+the cobblestone road
+~
+~
+0 -1 7698
+S
+#7702
+The shop of Potions~
+The wizard, Ziard is here to sell you some items you may need.  The shop
+itself seems protect from the strange force that overwhelmed Mirielle.
+~
+76 8 0 1 99 0
+D3
+the cobblestone road
+~
+~
+0 -1 7698
+S
+#7703
+The broken down reception~
+You have entered a damp dusty room of what years ago may have been a nice
+place to come and save you character.  Linxia would eb more than happy to take
+your money but you may not have all your eq when you return from the looks
+of this place.
+~
+76 8 0 1 99 1
+D5
+the inn
+~
+~
+0 -1 7606
+S
+#7704
+Smoked glass hallway~
+The entire hallway is made from smoked glass almost like somethign with very 
+powerful fire has smoked the glass from within
+~
+76 8 0 1 99 0
+D1
+the smoked glass door
+~
+~
+0 -1 7641
+D3
+You can see huge sheets of flame.
+~
+~
+0 -1 7705
+S
+#7705
+Firebane~
+You are engulfed in flames.  This room was a firebane trap.  The fire licks 
+at you skin and you can smell the scent of your hair as it singes on your head
+and burns off.  Leaving your naked scalp exposed to the fire.  You look down
+through the flames to see you skin blacken and melt.  Your appendages start
+to fall off your body in charred chunks and you can feel your face melting.
+from the intense heat.  You don't even believe your soul will live through
+this fiery hell and the last thought to cross through you mind before your
+brain boils and you lose all sense of being.......
+Is why has god forsaken you?
+~
+76 14 0 1 99 0
+S
+#7706
+The torture trap of Zalmynk~
+Ever since the beginning of time the water torture treatment has robbed the
+minds of many people.  Blaze can be as sadistic as she likes and has created
+a special room for her enjoyment.  As you walk into this room you are viced
+in a trap.  Straps and bindings hold you and Blaze starts to play her
+sadistic game.  At first a small drip can be heard and pain shoots through
+your body as a drop of acid hits your face.  A flame thrower is mounted
+into a bracket near your side, and as you twitch it blasts you with flames.
+Little cannibalistic Phyllimar starts to nibble at your feet and legs,
+crawling up to leave little bite marks and trails of blood down your legs.
+By now the consistent sound of acid dropping has begun to throw your mind
+into fits of rage, and the acid itself is starting to burn through your
+scalp.  The flames have melted your gear and have blackened your skin.
+Your legs become weak as they have trouble supporting you with the loss of
+blood from Phyllimar's biting.  You begin to hang in your bindings and
+Blaze leaves you here to watch you sadistically dissolve into nothingness
+as the acid begins eating away at your brain...
+
+As one final cannibalistic move, a large metal hook with appendages jumps out
+from the wall to grab your still-beating heart for her mentor:
+
+High Lord Rawhead of the Cannibalistic Church.
+~
+76 1073741832 0 1 99 0
+D0
+the door
+~
+door~
+13 7615 7631
+D5
+purple haze of Zalmynk
+~
+~
+0 -1 7707
+S
+#7707
+The purple haze of Zalmynk~
+You have entered a room filled with a strange purple haze.  Perhaps it is the
+aftermath of the last room you entered.  The path leads north further into 
+the lair of the hosue of Zalmynk.  They appear to take intruders very seriously.
+~
+76 268435464 0 1 99 0
+D0
+crystal walk
+~
+~
+0 -1 7708
+D4
+your heart stops beating
+~
+~
+0 -1 7706
+S
+#7708
+The crystal walk~
+This walkway is entirely made of crystal.  The magic and intense evil runs
+throu the place.  You wonder just what one must do to become a member of
+House Zalmynk.  Tortured screams fill your head and you feel the need to hide
+and run away from the evil lurking here.
+~
+76 268435464 0 1 99 0
+D1
+crystal rain
+~
+~
+0 -1 7709
+D2
+purple haze
+~
+~
+0 -1 7707
+S
+#7709
+Crystal Rain~
+The evil of House Zalmynk now washes over you in a crystal rain.  There 
+chambers appear to be up ahead.  You wonder what this rain is doing to you.
+It has an beauty about it that beholds it's evilness and strange desires.
+~
+76 268435464 0 1 99 0
+D1
+crystal rain
+~
+~
+0 -1 7710
+D3
+crystal walk
+~
+~
+0 -1 7708
+S
+#7710
+Crystal Rain~
+The evil of House Zalmynk now washes over you in a crystal rain.  There 
+chambers appear to be up ahead.  You wonder what this rain is doing to you.
+It has an beauty about it that beholds it's evilness and strange desires.
+~
+76 268435464 0 1 99 0
+D3
+crystal rain
+~
+~
+0 -1 7709
+D5
+a stairway
+~
+~
+0 -1 7711
+S
+#7711
+The iridescent steps~
+Iridescent steps lead down into a hall with many doors leading off it.  You
+have ventured into the main chambers of this evil house.
+~
+76 268435464 0 1 99 0
+D0
+chambers
+~
+~
+0 -1 7712
+D4
+crystal rain
+~
+~
+0 -1 7710
+S
+#7712
+Chambers of the Archfiends of Zalmynk~
+As you glance aroudn you, you notice you have discovered the main chambers of
+the House of Zalmynk.  Sparse furniture is here along with a strange mystical
+hallway surrounded in swirls of mysts.  The hall is north.  You question your
+intentions and why you have come.
+~
+76 268435464 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 7713
+D1
+a fireplace
+~
+~
+0 -1 7621
+D2
+the stairs
+~
+~
+0 -1 7711
+D3
+the holy hallway
+~
+~
+0 -1 7742
+S
+#7713
+A mystical hallway~
+A strange mystical hallway leads to an intersection.  The mysts swirl around
+you and a strange evil presence fills you with dread.  The hall leads to an
+intersection and a door.  It appears one room is forward and others to the 
+east and west.
+~
+76 268435464 0 1 99 0
+D0
+intersection of conception
+~
+~
+0 -1 7714
+D2
+chambers
+~
+~
+0 -1 7712
+S
+#7714
+Intersection of Conception~
+The hallway led to a heavily guilded door of pink bronze and an intersection
+of two hallways.  One leads to the east and the other to the west.  The door
+appears to have six locks.  You wonder what could possibly be behind it.
+What strange evil could lurk behind it as you have become remourseful from
+the intense evil.
+~
+76 268435592 0 1 99 0
+D0
+room before Jhersa
+~
+door~
+15 7645 7730
+D1
+the dark hall
+~
+~
+0 -1 7715
+D2
+the hall
+~
+~
+0 -1 7713
+D3
+the light hallway
+~
+~
+0 -1 7719
+S
+#7715
+The dark hall~
+This hallway was to the east of the main chambers.  Three doors are here.  
+They are all of a different shade of colour.
+~
+76 268435464 0 1 99 0
+D0
+the jaundice room
+~
+~
+0 -1 7717
+D1
+room of emerald
+~
+~
+0 -1 7718
+D2
+the crimson room
+~
+~
+0 -1 7716
+D3
+intersection of conception
+~
+~
+0 -1 7714
+S
+#7716
+W'Sylvilgar's room of crimson~
+The walls in this room and everything is a shade of crimson.  W'sylvilgar is
+here to welcome you and beckon you in.  Maybe his room is crimson because he 
+wields the power of fire.  Or maybe he just thirsts to drink your blood.
+~
+76 268435464 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 7715
+S
+#7717
+Phymalianch's room of jaundice~
+The putrid shade of jaundice leaps from the walls here and Phymalianch sits
+here licking his wounds.  He loves inflicting new ones.  Perhaps he is about 
+to inflict a few upon you.
+~
+76 268435464 0 1 99 0
+D2
+the hall
+~
+~
+0 -1 7715
+S
+#7718
+Dypartes room of emerald~
+Dypartes is here sitting within her room shaded emerald.  Her intense
+jealousy is what makes her surroundings there beautiful shade of emerald.
+She sneers at you in disgust and wonderment as you may cause her to desire
+something even more.
+~
+76 268435464 0 1 99 0
+D3
+the hall
+~
+~
+0 -1 7715
+S
+#7719
+The light hall~
+This hallway was west of the intersection, there are three more doors here.
+The evilness is greater here altho the hall is light.
+~
+76 268435464 0 1 99 0
+D0
+the midnight room
+~
+~
+0 -1 7721
+D1
+intersection of conception
+~
+~
+0 -1 7714
+D2
+the dawn room
+~
+~
+0 -1 7722
+D3
+the sapphire room
+~
+~
+0 -1 7720
+S
+#7720
+The sapphire haven of Malioch~
+This room emits a blue feeling that fills you with sadness.  Malioch the lord
+of this chamber is filled with the same sadness and dread that is emitted from
+the walls.  At one point in time she was good only to be recruited into the
+House of Zalmynk and have her innocence stolen and asundered.
+~
+76 268435464 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 7719
+S
+#7721
+The black midnight room of Nyshphemia~
+This midnight room contemplates the reality of Nyshphemia.  She stands in her
+black room emitting a glow of evil.  The whole feeling from this room makes
+you shudder in utter fear.
+~
+76 268435464 0 1 99 0
+D2
+the hall
+~
+~
+0 -1 7719
+S
+#7722
+The dawn room of Losarious~
+Entering this room you find that when your next morning dawns you will no
+longer be among the living.  Losarious is here contemplating a more evil
+reality.  The eldest of the House of Zalmynk he is the founder and surrounds
+himself int eh colour of a new dawn, bright flaming orange.  
+~
+76 268435464 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 7719
+S
+#7723
+A mysterious hallway~
+The hallway appears to be full of light from some inaparent lightsource. 
+It continues to the east perhaps you should try and find where the light is 
+coming from.  It grows brighter to the east.
+~
+76 8 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 7724
+D3
+the hall?
+~
+~
+0 -1 7663
+S
+#7724
+A mysterious hallway~
+The hallway appears to be full of light from some inaparent lightsource.
+It continues to the east perhaps you should try and find where the light is
+coming from.  It grows brighter to the north.
+~
+76 8 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 7725
+D3
+the hall?
+~
+~
+0 -1 7723
+S
+#7725
+A mysterious hallway~
+The hallway appears to be full of light from some inaparent lightsource.
+It continues to the east perhaps you should try and find where the light is
+coming from.  It grows brighter to the north.
+~
+76 8 0 1 99 0
+D0
+the strange end
+~
+~
+0 -1 7726
+D2
+the hall?
+~
+~
+0 -1 7724
+S
+#7726
+A strange end~
+The mysterious hallway led to a strange and weird tiny room.  A small pixie
+is here playing with a very small sphere.  He screams at you in rage and
+tells you to get away very quickly.
+~
+76 8 0 1 99 0
+D2
+the hall
+~
+~
+0 -1 7725
+S
+#7727
+The hall of whispers~
+Whispers creep out at you from every angle.  You spin around trying to grasp
+their source.  You hear a strange gurgling noise coming from the south.
+~
+76 8 0 1 99 0
+D0
+whispers
+~
+~
+0 -1 7664
+D2
+whispers
+~
+~
+0 -1 7728
+S
+#7728
+The hall of whispers~
+Whispers creep out at you from every angle.  You spin around trying to grasp
+their source.  You hear a strange gurgling noise coming from the south.
+~
+76 8 0 1 99 0
+D0
+whispers
+~
+~
+0 -1 7727
+D2
+the weird water
+~
+~
+0 -1 7729
+S
+#7729
+The room of the strange flow of water~
+An iridescent flow of water is here running up towards the ceiling.  You can
+see that it flows up through the ground and into the roof of the cavern.  You
+ponder at how and why it does this.  This place is filled with a strange magic
+that becomes more and more apparent the more you look at it.
+~
+76 8 0 1 99 0
+D0
+whispers
+~
+~
+0 -1 7728
+S
+#7730
+The room before Jhersa's nursery~
+The hallway led to a heavily guilded door of pink bronze and an intersection
+of two hallways.  One leads to the east and the other to the west.  The door
+appears to have six locks.  You wonder what could possibly be behind it.
+What strange evil could lurk behind it as you have become remourseful from
+the intense evil.
+~
+76 268435464 0 1 99 0
+D0
+Jhersa
+~
+~
+0 -1 7731
+D2
+intersection of conception
+~
+door~
+13 7645 7714
+S
+#7731
+Jhersa's nursery~
+A beautiful room combining all the colours of the rainbow is here.  A small
+guilded cradle lies in the center of the room.  An cooing noises can be heard
+from within the cradle.  As you approach you wonder why the Archfiends held
+the keys to unlock this room.  It seems so peaceful you start to relax and
+walk over to the crib to see what lays inside.
+~
+76 268435464 0 1 99 0
+D2
+the room before Jhersa
+~
+~
+0 0 7730
+D5
+stairs
+~
+~
+0 -1 7736
+S
+#7732
+Before the gateway into Mirielle~
+Directly in front of you lies the gateway into Mirielle.  The town looks 
+almost sleepy in it's enhanced magical state.  An evil presence is felt 
+through the magic.  This is not a place to play for those of the weak at heart.
+~
+76 8 0 1 99 3
+D0
+Mirielle
+~
+~
+0 -1 7600
+D3
+the woods
+~
+~
+0 -1 7733
+S
+#7733
+Woods before Mirielle~
+A path here is clearly visible.  There appear to be creatures flying about
+you through the trees even though you are unable to detect them.  Perhaps
+they possess some sort of strange magic.
+~
+76 8 0 1 99 3
+D1
+the path
+~
+~
+0 -1 7732
+D2
+the trees
+~
+~
+0 -1 7734
+S
+#7734
+Woods before Mirielle~
+A path here is clearly visible.  There appear to be creatures flying about
+you through the trees even though you are unable to detect them.  Perhaps
+they possess some sort of strange magic.
+~
+76 8 0 1 99 3
+D0
+further in the woods
+~
+~
+0 -1 7733
+D2
+the fields
+~
+~
+0 -1 7735
+S
+#7735
+The entrance to the woods~
+As you wander through a serene forest you notice the woods have come alive with
+a mystical quality.  The trees come alive with magic and there is a strange 
+coolness in the air that makes you shiver.
+~
+76 12 0 1 99 3
+D0
+the woods
+~
+~
+0 -1 7734
+D2
+The path continues.
+~
+~
+0 -1 8382
+S
+#7736
+A lost hallway~
+A strange set of stair leads further down.  The dampness here is overwhelming.
+Cobwebs cover the walls and a musty smell is in the air.
+~
+76 268435464 0 1 99 0
+D4
+the nursery
+~
+~
+0 -1 7731
+D5
+stairs
+~
+~
+0 -1 7737
+S
+#7737
+A lost hallway~
+A strange set of stair leads further down.  The dampness here is overwhelming.
+Cobwebs cover the walls and a musty smell is in the air.
+~
+76 268435464 0 1 99 0
+D0
+the open hall
+~
+~
+0 -1 7738
+D4
+the stairs
+~
+~
+0 -1 7736
+S
+#7738
+A lost hallway~
+The stairs opened to a hallway leading to a massive door.  You wonder if the
+key jhersa was wearing will unlock it.
+~
+76 268435464 0 1 99 0
+D0
+anteroom
+~
+door~
+15 7617 7739
+D2
+the stairs
+~
+~
+0 -1 7737
+S
+#7739
+The anteroom~
+An anteroom is here and evil washes over you whatever is housed down here,
+may be the death of you.  There is a stair down into a crypt.
+~
+76 268435464 0 1 99 0
+D2
+the hall
+~
+door~
+13 7617 7738
+D5
+the crypt
+~
+~
+0 -1 7740
+S
+#7740
+The crypt~
+A crypt is here containing a single tomb to the south.  The tomb is inlaid 
+in a violet crystal.  It looks respected and preserved.
+~
+76 268435464 0 1 99 0
+D2
+Have you checked your fate lately?
+~
+~
+0 -1 7741
+D4
+the anteroom
+~
+~
+0 -1 7739
+S
+#7741
+The avatar tomb of Zalmynk.~
+You have wandered into your death for the evil that spawned House Zalmynk is
+here.  Zalmynk himself, or rather the preserved corpse of him is here to
+prove to you just how mortal you really are.  If you have time to read this
+then perhaps you have time to recall or use goto, but somehow I doubt it.
+Zalmynk's soul does not want your friendship or you, he just wants your soul
+to torment for all eternity.  You may have thought an avat could not enter
+a death trap, but Zalmynk will prove it is possible...
+Your death awaits you.
+~
+76 268435464 0 1 99 0
+S
+#7742
+The holy hallway~
+You glance down a very holy hallway, a feeling of bliss surrounds you.  This
+must be the one place that the house of Zalmynk has not touched with its
+evil.  You venture further a colourful light appears to be emanating from
+further up the hallway.
+~
+76 268435464 0 1 99 0
+D1
+the chambers
+~
+~
+0 -1 7712
+D3
+the holy hallway
+~
+~
+0 -1 7743
+S
+#7743
+The holy hallway~
+You glance down a very holy hallway, a feeling of bliss surrounds you.  This
+must be the one place that the house of Zalmynk has not touched with its
+evil.  You venture further a colourful light appears to be emanating from
+further up the hallway.
+~
+76 268435464 0 1 99 0
+D1
+the holy hallway
+~
+~
+0 -1 7742
+D3
+the holy hallway
+~
+~
+0 -1 7744
+S
+#7744
+The holy hallway~
+You glance down a very holy hallway, a feeling of bliss surrounds you.  This
+must be the one place that the house of Zalmynk has not touched with its
+evil.  You venture further a colourful light appears to be emanating from
+further up the hallway.
+~
+76 268435464 0 1 99 0
+D1
+the holy hallway
+~
+~
+0 -1 7743
+D2
+the holy hallway
+~
+~
+0 -1 7745
+S
+#7745
+The holy hallway~
+You glance down a very holy hallway, a feeling of bliss surrounds you.  This
+must be the one place that the house of Zalmynk has not touched with its
+evil.  You venture further a colourful light appears to be emanating from
+further up the hallway.
+~
+76 268435464 0 1 99 0
+D0
+the holy hallway
+~
+~
+0 -1 7744
+D2
+the holy hallway
+~
+~
+0 -1 7746
+S
+#7746
+The holy hallway~
+You glance down a very holy hallway, a feeling of bliss surrounds you.  This
+must be the one place that the house of Zalmynk has not touched with its
+evil.  You venture further a colourful light appears to be emanating from
+further up the hallway.
+~
+76 268435464 0 1 99 0
+D0
+the holy hallway
+~
+~
+0 -1 7745
+D3
+the day room of dawn
+~
+~
+0 -1 7747
+S
+#7747
+The day room of the dawn~
+A room eminating a bright light is here.  You glance around to get your 
+bearings and notice a lit altar to the south.  A shaft of light appears to
+fill it.
+~
+76 268435464 0 1 99 0
+D1
+the holy hallway
+~
+~
+0 -1 7746
+D2
+the lit altar
+~
+~
+0 -1 7748
+S
+#7748
+The lit altar~
+A shaft of sunlight fills the room and the brilliance you saw came from
+a crystal box laying on the altar.  Idols depicting all six archfiends
+surround the altar and you feel an intense magic at work here.  You wonder
+if placing certain items in the box will possibly do something to help
+you reach your ultimate goal.
+~
+76 268435464 0 1 99 0
+D0
+the day room
+~
+~
+0 -1 7747
+S
+$~
+#999999

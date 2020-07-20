@@ -1,0 +1,1617 @@
+#16200
+Outside Castle Bryan~
+You stand in the shadow of the mighty Castle Bryan.  As you look across the
+country side you are impressed by the size of the legendary home of King
+Bryan and his skilled knights.  The path is surrounded by farmland that is
+used to provide the king with the income needed to upkeep his castle.
+~
+61 4 0 1 99 1
+D0
+This path leads to Castle Bryan
+~
+~
+0 -1 16201
+D2
+The road continues back south.
+~
+~
+0 -1 3734
+S
+#16201
+A Large Dirt Path~
+This path is surrounded by many more fields that are being tended by poor
+farmers.  Just north of here is the drawbridge that allows passage into
+Castle Bryan.
+~
+61 4 0 1 99 1
+D0
+This path leads to the castle's drawbridge~
+~
+0 -1 16205
+D2
+This path leads away from Castle Bryan
+~
+~
+0 -1 16200
+S
+#16202
+Temple to The Grand Universal Mike~
+This is the temple to The Grand Universal Mike who is known throughout the
+realm for being a kind god to those that worship him.  In the center of the
+room you notice a small marble statue surrounded by red candles.  There is
+also a small door in the other end of the room.  You are greeted by the
+temple's head priest.
+~
+61 8 0 1 99 1
+D1
+Bryan street.~
+~
+0 -1 16209
+D3
+It's pretty dark in there.~
+door~
+25 -1 16203
+S
+#16203
+Temple Storage Room~
+Cases of supplies line the walls of this room.  It seems as though this 
+temple has been built recently because the contents of most of the cases
+are building materials.  In a few cases, marked "ship to weaponsmith", you
+find many daggers, apperantly for some sort of ceremony.  There is little
+else of intrest here, other than that mean looking guard in the corner.
+~
+61 9 0 1 99 1
+D1
+The main part of the temple.~
+~
+9 -1 16202
+S
+#16204
+Dwarven Weaponsmith Workshop~
+As you enter you are shocked by the amount of heat you feel coming from the
+center of the room.  There are various weapons and pieces of armor scattered
+about the room.  The short dwarven smith looks up at you and continues his
+work on the two daggers he has in his hand.
+~
+61 8 0 1 99 1
+D3
+Bryan street.~
+~
+0 -1 16209
+S
+#16205
+The Drawbridge~
+Before you stands the drawbridge of Castle Bryan.  There are 2 guard towers to
+either side of the path leading in.  Some castle guards stop you and ask what 
+your business in the castle is.  You hope someone will lower the drawbridge.
+~
+61 4 0 1 99 1
+D0
+You are now entering Castle Bryan.~
+drawbridge~
+15 16202 16206
+D2
+A dirt path leads away from the castle~
+~
+0 -1 16201
+S
+#16206
+Bryan Street~
+This is the main road in the castle.  Far north lies the gates to the inner
+parts of the castle.  South of here is the drawbridge. Many people are in
+the streets going from shop to shop looking for various idems.
+~
+61 0 0 1 99 1
+D0
+You are getting closer to the heart of the castle.~
+~
+0 -1 16207
+D2
+The drawbridge is ahead~
+drawbridge~
+15 16202 16205
+S
+#16207
+Bryan Street~
+Bryan street continues further north into the heart of the Castle.  To the
+east you see the entrance to the castle stables.  Sounds of laughter are
+coming from the west at the Pig'N'Wistle Inn.
+~
+61 0 0 1 99 1
+D0
+fewer people toward the center of the castle.~
+~
+0 -1 16208
+D1
+An evil smell comes from the east.~
+~
+0 -1 16213
+D2
+Shops and people line the streets ahead.~
+~
+0 -1 16206
+D3
+There are sounds of laughter coming from within the Inn.~
+~
+0 -1 16212
+S
+#16208
+Bryan Street~
+The center of the castle is now much closer.  There is a crossroad here 
+that appears to lead into some of the less reputable places of Castle
+Bryan.  Guards are on the watch for trouble.
+~
+61 0 0 1 99 1
+D0
+The center of the castle is much closer now.~
+~
+0 -1 16209
+D1
+Another small side street.~
+~
+0 -1 16224
+D2
+Bryan street continues south.~
+~
+0 -1 16207
+D3
+It looks dark back there.~
+~
+0 -1 16210
+S
+#16209
+Bryan Street~
+There is a beautiful temple to the west of here and what appears to be a
+small shop to the east.  Some people are filtering into the temple for 
+some sort of service.  The street is blocked off further north.
+~
+61 12 0 1 99 1
+D0
+Check point one lies ahead.~
+~
+0 -1 16255
+D1
+The shop entrance is open.~
+~
+0 -1 16204
+D2
+Bryan street continues.~
+~
+0 -1 16208
+D3
+This is the entrance to the temple.~
+~
+0 -1 16202
+S
+#16210
+Dark Alley~
+This path leads away from Bryan Street into much shadier looking parts of
+town.  You feel a slight chill and think that it may be best to turn back
+now... before it's too late.
+~
+61 1 0 1 99 1
+D1
+Bryan street is that way.~
+~
+0 -1 16208
+D3
+It is getting darker.~
+~
+0 -1 16211
+S
+#16211
+Dark Alley~
+This street seems to be infested with various sorts of creatures that are 
+roaming in search of food.  Did you just see a shadowy figure behind you...
+~
+61 1 0 1 99 1
+D1
+It looks a bit brighter there.~
+~
+0 -1 16210
+D3
+It's dark back there.~
+~
+0 -1 16215
+S
+#16212
+Pig'N'Wistle Inn~
+This bar is packed with people looking for a good time. There is a mandolin
+band playing on a small stage on the north end of the room.  There is a 
+strange looking man at the bar who is telling stories of his adventures 
+across the land, he seems to have had a bit much to drink.  There are also
+off duty castle guards scattered amoung the patrons here.  This looks like
+a comfortable place to be.
+~
+61 8 0 1 99 1
+D1
+That looks alot like Bryan street.~
+~
+0 -1 16207
+S
+#16213
+Castle Stables~
+As you enter this room you are overcome by the stench of horse droppings.
+There are many horses here, however, there are only a few squires tending to
+them.  Upon further inspection you have found that one of your sandals has
+landed in some of the remains.
+~
+61 0 0 1 99 1
+D3
+Fresh air is out there.~
+~
+0 -1 16207
+S
+#16214
+Dark Alley~
+This is a back alley crossroad.  It doesn't seem quite as dark here, however,
+you notice that there is no one here.  It looks somewhat brighter to the 
+south, but, you are not completely sure which way to go.
+~
+61 5 0 1 99 1
+D1
+It's dark back there.~
+~
+0 -1 16215
+D2
+It's dark back there.~
+~
+0 -1 16220
+D3
+It's dark back there.~
+~
+0 -1 16216
+S
+#16215
+Dark Alley~
+The alley has gotten much darker, the surrounding area if filled with trash
+and utterly worthless idems.  
+~
+61 1 0 1 99 1
+D1
+It's dark back there.~
+~
+0 -1 16211
+D3
+It's dark back there.~
+~
+0 -1 16214
+S
+#16216
+Dark Alley~
+This alley looks like every other dark alley in the world.  The place is
+littered with trash and it's pretty dark.  The only problem is you seem 
+to be lost.
+~
+61 1 0 1 99 1
+D0
+It's dark back there.~
+~
+0 -1 16217
+D1
+It's dark back there.~
+~
+0 -1 16216
+D2
+It's dark back there.~
+~
+0 -1 16216
+D3
+It's dark back there.~
+~
+0 -1 16217
+S
+#16217
+Dark Alley~
+This alley looks like every other dark alley in the world.  The place is
+littered with trash and it's pretty dark.  The only problem is you seem 
+to be lost.
+~
+61 1 0 1 99 1
+D0
+It's dark back there.~
+~
+0 -1 16217
+D1
+It's dark back there.~
+~
+0 -1 16218
+D2
+It's dark back there.~
+~
+0 -1 16217
+D3
+It's dark back there.~
+~
+0 -1 16216
+S
+#16218
+Dark Alley~
+This alley looks like every other dark alley in the world.  The place is
+littered with trash and it's pretty dark.  The only problem is you seem 
+to be lost.
+~
+61 1 0 1 99 1
+D0
+It's dark back there.~
+~
+0 -1 16217
+D1
+It's dark back there.~
+~
+0 -1 16216
+D2
+It's dark back there.~
+~
+0 -1 16214
+D3
+It's dark back there.~
+~
+0 -1 16219
+S
+#16219
+Dead End.~
+The alley comes to an abrupt end.  It is much darker here than in the 
+other parts of the alley.  It feels as though someone is watching you.
+Your instincts tell you that you should leave this part of the alley.
+~
+61 1 0 1 99 1
+D1
+It's dark back there.~
+~
+0 -1 16216
+S
+#16220
+Dark Alley~
+This alley looks like every other dark alley in the world.  The place is
+littered with trash and it's pretty dark.  The only problem is you seem 
+to be lost.
+~
+61 1 0 1 99 1
+D0
+It's dark back there.~
+~
+0 -1 16214
+D2
+It's dark back there.~
+~
+0 -1 16221
+S
+#16221
+Dark Alley~
+This alley looks like every other dark alley in the world.  The place is
+littered with trash and it's pretty dark.  The only problem is you seem 
+to be lost.
+~
+61 1 0 1 99 1
+D0
+It's dark back there.~
+~
+0 -1 16220
+D3
+It's dark back there.~
+~
+0 -1 16222
+S
+#16222
+Dark Alley~
+This alley looks like every other dark alley in the world.  The place is
+littered with trash and it's pretty dark.  The only problem is you seem 
+to be lost.
+~
+61 1 0 1 99 1
+D1
+It's dark back there.~
+~
+0 -1 16221
+D2
+It's dark over there.~
+~
+0 -1 16223
+S
+#16223
+Memory Lane~
+This place was evidently important at some time.  There are still remains
+of what appear to once have been statues with inscriptions under them.
+Most are worn down to the point where you do not understand them.  There 
+is one however that appears to have been put here recently.  It reads:
+"For all those that walked with me along that hard road, you shall always
+ be remembered in my heart." it is signed in dried blood "S.G." 
+~
+61 1 0 1 99 1
+D0
+It's dark back there.~
+~
+0 -1 16222
+D1
+It's dark back there.~
+~
+0 -1 16223
+D2
+It's dark back there.~
+~
+0 -1 16223
+D3
+It's dark back there.~
+~
+0 -1 16223
+S
+#16224
+Side Street~
+This street leads away from the main center of town towards what appears to
+be the living area of most of the castle laborers.  These streets are less
+crouded than Bryan Street and you sence that there is very little to fear 
+back here.
+~
+61 0 0 1 99 1
+D1
+This street continues east.~
+~
+0 -1 16225
+D3
+There is Bryan Street.~
+~
+0 -1 16208
+S
+#16225
+Side Street~
+This street continues to boarder on homes.  There is a small path that leads
+away from this street to the north.  To the east you see the castle wall 
+getting closer.
+~
+61 0 0 1 99 1
+D0
+There is a small path there.~
+~
+0 -1 16229
+D1
+There is a street over there.~
+~
+0 -1 16226
+D3
+Just another side street.~
+~
+0 -1 16224
+S
+#16226
+Side Street~
+This street leads to the west and the south.  There is a sign here that reads
+"All tower guards report to the east drawbridge tower." There is a map that
+shows a path from here leading south to the tower entrance.
+~
+61 0 0 1 99 1
+D2
+A small dirt path.~
+~
+0 -1 16227
+D3
+There is a street over there.~
+~
+0 -1 16225
+S
+#16227
+Tower Road~
+This small path leads south to one of the guard towers.  There is a rather 
+large home to the east that seems almost out of place.  Some guards are
+traveling along this path, to and from the tower.  You hear soft music coming
+from inside the house.
+~
+61 4 0 1 99 1
+D0
+Just another street.~
+~
+0 -1 16226
+D1
+There is a small house there.~
+~
+0 -1 16235
+D2
+That is the guard tower.~
+~
+0 -1 16228
+S
+#16228
+East Drawbridge Tower.~
+This is the lower level of one of the guard towers.  It looks well constructed
+and well maintained. Castle guards roam about making sure the castle is secure
+from any possible intruders.  There is a spiral staircase that leads to the 
+upper part of the tower.
+~
+61 8 0 1 99 1
+D0
+That exit leads to a small dirt path.~
+~
+0 -1 16227
+D4
+The staircase leads to the upper tower.~
+~
+0 -1 16236
+S
+#16229
+Small Dirt Path~
+A narrow path leads through this part of town.  It appears to be a road that 
+is hardly ever used.  The path continues north and south.
+~
+61 0 0 1 99 1
+D0
+There is a dirt road ahead.~
+~
+0 -1 16230
+D2
+This path leads to a larger street.~
+~
+0 -1 16225
+S
+#16230
+Small Dirt Path~
+There is a bend in this narrow dirt road that leads to a small house.  The
+path leads east and south.
+~
+61 0 0 1 99 1
+D1
+There is a small house to the east.~
+~
+0 -1 16231
+D2
+There is a dirt path over there.~
+~
+0 -1 16229
+S
+#16231
+Shady Looking Bar.~
+This musty room serves as a bar. You notice that there are very few people
+in this room and most of them are not drinking.  As you approach the bar
+you feel the stares of all the bar patrons upon you.  There appears to be
+noise coming from below the floor.
+~
+61 8 0 1 99 1
+D3
+There is a dirt path out there.~
+~
+0 -1 16230
+D5
+There are sounds of combat down there.~
+~
+0 -1 16232
+S
+#16232
+The Pit Arena.~
+This is a large room with a small pit in the center where fighters meet to
+challenge each other for the entertainment of the bar patrons. There 
+appears to be large quantaties of money changing hands here.
+There are a few fighters currently resting between matches on the field.
+~
+61 8 0 1 99 1
+D2
+It is strangely quiet back there.~
+~
+0 -1 16234
+D4
+There is a bar up there.~
+~
+0 -1 16231
+D5
+You hear screams of pain followed by a strange crunching sound.~
+~
+0 -1 16233
+S
+#16233
+Demon Nacho Stand~
+There is a small concessions stand here.  You see some round bread like 
+things that start to move when you approach.  They get up and they are 
+HUGE nachos coming to eat YOU.... You try to push them away only to 
+overwelmed by their superior numbers ... and some melted cheese...
+You think maybe you don't want nachos after all.
+~
+61 10 0 1 99 1
+S
+#16234
+Gladiator Resting Area.~
+There are a few pit fighters resting here for their next battle. Most of
+them are sharpening their blades or assesing the competition.  A small 
+creature, on the other side of the room, eyes you strangely.
+~
+61 8 0 1 99 1
+D0
+There are sounds of battle coming from the north.~
+~
+0 -1 16232
+S
+#16235
+Joe's Place.~
+This home is beautifully decorated with artifacts from across the land.
+It appears as though the castle's head cleric has seen most (if not all)
+of the planet.  There is a painting of a beautiful elvin woman on the 
+wall.  Just as you start looking for the residents of the home you are 
+greated by the woman whose portrait you just saw.  
+~
+61 8 0 1 99 1
+D3
+Tower road is out there.~
+~
+0 -1 16227
+S
+#16236
+East Drawbridge Upper Tower.~
+This is one of the smaller guard towers in the castle.  You can see most
+of the inner castle and all of the surrounding farmland from this point.
+There are guards moving about, to and from their posts, keeping the castle
+secure.
+~
+61 8 0 1 99 1
+D1
+This path leads to the castle wall.~
+~
+0 -1 16237
+D3
+A path leads west.
+~
+~
+0 -1 16254
+D5
+This staircase leads to the lower tower.~
+~
+0 -1 16228
+S
+#16237
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D1
+This path leads to a guard tower.~
+~
+0 -1 16238
+D3
+The East Drawbridge lies ahead.~
+~
+0 -1 16236
+S
+#16238
+South East Guard Tower.~
+This is one of the corner towers.  There are large deffensive weapons set up
+here.  It appears as though the castle was recently under attack or may be
+preparing for one.  The guards are much more aware of your presence now. 
+There are guards moving to and from the tower.
+~
+61 8 0 1 99 1
+D0
+The path goes north to another tower.
+~
+~
+0 -1 16239
+D3
+There is a path that leads to another tower.~
+~
+0 -1 16237
+S
+#16239
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D0
+The path continues north.~
+~
+0 -1 16240
+D2
+This path leads to one of the guard towers.~
+~
+0 -1 16238
+S
+#16240
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D0
+The path continues north.~
+~
+0 -1 16241
+D2
+The path continues south.~
+~
+0 -1 16239
+S
+#16241
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D0
+You are nearing a guard tower.~
+~
+0 -1 16242
+D2
+The path continues south.~
+~
+0 -1 16240
+S
+#16242
+North East Guard Tower.~
+This is one of the corner towers.  There are large deffensive weapons set up
+here.  It appears as though the castle was recently under attack or may be
+preparing for one.  The guards are much more aware of your presence now. 
+There are guards moving to and from the tower.
+~
+61 8 0 1 99 1
+D2
+This path leads to another tower.~
+~
+0 -1 16241
+D3
+This path leads to another tower.~
+~
+0 -1 16243
+S
+#16243
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D1
+This path leads into a tower.~
+~
+0 -1 16242
+D3
+The path continues west.~
+~
+0 -1 16244
+S
+#16244
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D1
+The path continues east.~
+~
+0 -1 16243
+D3
+The path continues west.~
+~
+0 -1 16245
+S
+#16245
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D1
+The path continues east.~
+~
+0 -1 16244
+D3
+The path continues west.~
+~
+0 -1 16246
+S
+#16246
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D1
+The path continues east.~
+~
+0 -1 16245
+D3
+The path leads into a tower.~
+~
+0 -1 16247
+S
+#16247
+North West Guard Tower.~
+This is one of the corner towers.  There are large deffensive weapons set up
+here.  It appears as though the castle was recently under attack or may be
+preparing for one.  The guards are much more aware of your presence now. 
+There are guards moving to and from the tower.
+~
+61 8 0 1 99 1
+D1
+The path leads to another tower.~
+~
+0 -1 16246
+D2
+This path leads to another tower.~
+~
+0 -1 16248
+S
+#16248
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D0
+You can enter one of the towers.~
+~
+0 -1 16247
+D2
+The path continues south.~
+~
+0 -1 16249
+S
+#16249
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D0
+The path continues north.~
+~
+0 -1 16248
+D2
+The path continues south.~
+~
+0 -1 16250
+S
+#16250
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D0
+The path continues north.~
+~
+0 -1 16249
+D2
+You can enter a tower.~
+~
+0 -1 16251
+S
+#16251
+South West Guard Tower.~
+This is one of the corner towers.  There are large deffensive weapons set up
+here.  It appears as though the castle was recently under attack or may be
+preparing for one.  The guards are much more aware of your presence now. 
+There are guards moving to and from the tower.
+~
+61 8 0 1 99 1
+D0
+The path leads to another tower.~
+~
+0 -1 16250
+D1
+The path leads to another tower.~
+~
+0 -1 16252
+S
+#16252
+Along The Castle Wall.~
+This path leads from one of the guard towers to the next.  Most of the 
+castle and the surrounding area are visible from here.  It appears as
+though you can gain access to all the towers from these paths. 
+More guards wander around protecting the castle.
+~
+61 0 0 1 99 1
+D1
+You can enter a guard tower.~
+~
+0 -1 16253
+D3
+You can enter a guard tower.~
+~
+0 -1 16251
+S
+#16253
+West Drawbridge Guard Tower.~
+This is one of the smaller guard towers in the castle.  You can see most
+of the inner castle and all of the surrounding farmland from this point.
+There are guards moving about, to and from their posts, keeping the castle
+secure.
+~
+61 8 0 1 99 1
+D1
+A path lies ahead.~
+~
+0 -1 16254
+D3
+This path leads to another tower.~
+~
+0 -1 16252
+S
+#16254
+Above The Drawbridge.~
+You are moving along the path that leads over the drawbridge.  There are 
+holes in the floor where weapons may be used as some sort of trap.  The
+measures this castle seems to take to prevent intruders is somewhat 
+impressive.  Guards scurry about looking for trouble.~
+61 0 0 1 99 1
+D1
+There is a tower over there.~
+~
+0 -1 16236
+D3
+There is a tower over there.~
+~
+0 -1 16253
+S
+#16255
+Check Point One.~
+There are a pair of guards here who stop all would-be passers and check for
+keys.  They then escort the person to the gate where that person may use a
+key to enter.  The inner castle is only open to those that can afford a key.
+There are sounds of battle coming from the east.
+~
+61 0 0 1 99 1
+D0
+Check point two lies ahead.~
+door~
+15 16203 16257
+D1
+There are sounds of combat over there.~
+~
+0 -1 16262
+D2
+Bryan street lies ahead.~
+~
+0 -1 16209
+S
+#16256
+Vangar's Closet~
+There are many sets of cloths scattered about this room... You get the 
+general impression that Vangar can get to be a very messy person 
+at times... When he is doing his zone must be one of those times.
+~
+61 8 0 1 99 1
+S
+#16257
+Check Point Two.~
+There are a pair of guards here who stop all would-be passers and check for
+keys.  They then escort the person to the gate where that person may use a
+key to enter.  The inner castle is only open to those that can afford a key.
+Many guards are going to the building to the west.
+~
+61 0 0 1 99 1
+D0
+Check point three lies ahead.~
+door north~
+15 16204 16258
+D2
+Check point one lies ahead.~
+door~
+15 16203 16255
+D3
+There seem to be guards moving around over there.~
+~
+0 -1 16260
+S
+#16258
+Check Point Three.~
+There are a pair of guards here who stop all would-be passers and check for
+keys.  They then escort the person to the gate where that person may use a
+key to enter.  The inner castle is only open to those that can afford a key.
+~
+61 0 0 1 99 1
+D0
+Check point four lies ahead.~
+door north~
+15 16205 16259
+D2
+Check point two lies ahead.~
+door south~
+15 16204 16257
+S
+#16259
+Check Point Four.~
+There are a pair of guards here who stop all would-be passers and check for
+keys.  They then escort the person to the gate where that person may use a
+key to enter.  The inner castle is only open to those that can afford a key.
+A small path leads off to the east.
+~
+61 0 0 1 99 1
+D0
+The Grand Castle Doors are between you and the inside of the castle.
+~
+door north~
+15 16200 16268
+D1
+It looks calm over there.~
+~
+0 -1 16261
+D2
+Check point three lies ahead.~
+door south~
+15 16205 16258
+S
+#16260
+Royal Armory~
+There are weapons lining the walls here.  Most of them are primitive when 
+compared to the weapons you have seen elsewhere, but they do look equally
+dangerous.  Some guards are coming in and equiping them selves while others
+leave after a long day's work.
+~
+61 8 0 1 99 1
+D1
+The check point is that way.~
+~
+0 -1 16257
+S
+#16261
+Small Courtyard~
+This is a lightly forrested courtyard.  There are many rare and beautiful 
+plants here that catch your eye.  There are also some small animals from 
+distant countries. The king has spared no expence to make this place look
+peaceful.
+~
+61 0 0 1 99 1
+D3
+The last check point is west of here.~
+~
+0 -1 16259
+S
+#16262
+Entrance to the Knight Training Area.~
+This path leads to the training grounds of the famous Knights of Bryan. 
+Many would-be knights come here each year to see if they have what it takes
+to be one of the very few to be chosen as a knight.  Some people are 
+scurrying back and forth in search of the training masters.
+~
+61 4 0 1 99 1
+D1
+There are sounds of combat.~
+~
+0 -1 16263
+D3
+The first check point is over there.~
+~
+0 -1 16255
+S
+#16263
+Training Ground~
+There is a master here training some squires in the arts of unarmed combat.
+The master seems to have no difficulty taking on all the squires at once. 
+There are sounds of metal striking metal to the east.
+~
+61 0 0 1 99 1
+D1
+There are sounds of combat from the east.~
+~
+0 -1 16264
+D3
+~
+~
+0 -1 16262
+S
+#16264
+Training Ground~
+There are many squires here learning the art of using various arms and 
+armor.  The master seems adept in all forms of armed combat as well as good
+use of his armor to avoid taking damage.  There are sounds of combat all 
+around you.
+~
+61 0 0 1 99 1
+D1
+There are sounds of battle coming from the east.~
+~
+0 -1 16265
+D3
+There are sounds of combat from the west.~
+~
+0 -1 16263
+S
+#16265
+Training Ground~
+This master is showing the squires how use and defend against various types 
+of lances.  You notice that the training includes lancing from horseback.
+The sounds of combat training surround you.
+~
+61 0 0 1 99 1
+D1
+There are sounds of explosions coming from the east.~
+~
+0 -1 16266
+D3
+There are sounds of battle coming from the west.~
+~
+0 -1 16264
+S
+#16266
+Training Ground~
+There is a magic user here showing the squires some of the more well known 
+spells and how to defend against them.  Suddenly a fireball bursts out of no
+where and almost explodes in your face.  There are sounds of squires training
+all around you.
+~
+61 0 0 1 99 1
+D1
+Sounds of combat come from the east.~
+~
+0 -1 16267
+D3
+There are sounds of combat training coming from the west
+~
+~
+0 -1 16265
+S
+#16267
+Training Ground~
+There is a master here showing the squires how to work well as a team. Most 
+of the training here is with bows and polearms.  The skill shown by both the
+squires and the masters has impressed you.
+~
+61 0 0 1 99 1
+D3
+Sounds of explosions come from the west.~
+~
+0 -1 16266
+S
+#16268
+Castle Bryan Foyer~
+This is an extremely large room that is adorned with decorations from across
+the many lands.  There is a large staircase that leads up to the second floor
+that appears to be where the guests quarters are.  A large hall leads north
+while two small halls lead east and west.
+~
+61 8 0 1 99 1
+D0
+A hall lies to the north.~
+~
+0 -1 16277
+D1
+A hall leads off to the east.~
+~
+0 -1 16274
+D2
+This path leads out of the castle.~
+south door~
+15 16200 16259
+D3
+A hall leads off to the west.~
+~
+0 -1 16281
+D4
+There are stairs that lead up.~
+~
+0 -1 16269
+S
+#16269
+Upper Foyer~
+From here the entire foyer area is clearly visible.  It is amazing how large
+this place is.  There are many pieces of art that are only visible from here.
+The floor's tile pattern is that of the Crest of Bryan. 
+~
+61 8 0 1 99 1
+D0
+There is a hall here.~
+~
+0 -1 16270
+D5
+The stairs return you to the foyer area.~
+~
+0 -1 16268
+S
+#16270
+Hallway in the Castle~
+This hall is covered with portraits of many important looking individuals.
+Some of them look like well known rulers from other, distant countries.  There
+are three doors here.  The one to the north appears to be heavily guarded.
+~
+61 8 0 1 99 1
+D0
+There is a large room ahead.~
+door~
+9 -1 16273
+D1
+There is a bedroom over there.~
+east~
+9 2 16272
+D2
+The hall goes south.~
+~
+0 -1 16269
+D3
+There is a bedroom over there.~
+west~
+9 1 16271
+S
+#16271
+Guest Bedroom.~
+This is a finly firnished room that is used to house the guests that come to
+visit King Bryan.  This room has a view of one of the beautiful courtyards
+that surround the castle.  The king puts much effort in making his guests feel
+as comfortable as possible.
+~
+61 8 0 1 99 1
+D1
+The hall is out there.~
+door~
+9 6 16270
+S
+#16272
+Guest Bedroom.~
+This is a finly firnished room that is used to house the guests that come to
+visit King Bryan.  This room has a view of one of the beautiful courtyards
+that surround the castle.  The king puts much effort in making his guests feel
+as comfortable as possible.
+~
+61 8 0 1 99 1
+D3
+The hall is out there.~
+door~
+9 5 16270
+S
+#16273
+Royal Bedroom~
+This room is at least twice the size of the other bed rooms in the castle.
+There are several paintings and sculptures throughout the room.  The bed
+has been lavishly decorated.  There is a balcony that overlooks all of the
+inner sanctum.  
+~
+61 8 0 1 99 1
+D0
+You can see nothing ahead.~
+~
+25 -1 16293
+D2
+This door way leads into a hallway.~
+door south~
+9 8 16270
+S
+#16274
+Hallway in the Castle~
+This hall is decorated with some small sculptures.  There is very little
+else of intrest here.  The hall continues east and west.
+~
+61 8 0 1 99 1
+D1
+A hall leads off to the east.~
+~
+0 -1 16275
+D3
+A large room is ahead.~
+~
+0 -1 16268
+S
+#16275
+Hallway in the Castle~
+This hall is decorated with some small sculptures.  There is very little
+else of intrest here.  The hall continues east and west.
+~
+61 8 0 1 99 1
+D1
+A room lies ahead.~
+~
+0 -1 16276
+D3
+A hall leads off to the west.~
+~
+0 -1 16274
+S
+#16276
+Observation Room~
+From this room one has a clear view of the knight training grounds south
+of here.  It appears as though you are now noticed by anyone on the 
+fields.  This room is probably used by the king to judge potential 
+knights.
+~
+61 8 0 1 99 1
+D3
+A hall leads off to the west.~
+~
+0 -1 16275
+S
+#16277
+Hallway in the Castle~
+This hall is decorated with some paintings.  A few guards note your
+presence as you pass by.  There is little else of intrest here.
+~
+61 8 0 1 99 1
+D0
+A large room lies ahead.~
+~
+0 -1 16279
+D1
+A large room lies to the east.~
+~
+0 -1 16278
+D2
+A large room lies ahead.~
+~
+0 -1 16268
+S
+#16278
+Royal Library~
+This is a large room filled with many books.  There are some scribes here 
+that are copying the material in one book to another.  Most of the books
+seem to be of no use to you, except for the one entitled "Map of The
+Realms" which appears to be sealed.
+~
+61 8 0 1 99 1
+D3
+A hall lies to the west.~
+~
+0 -1 16277
+S
+#16279
+Outside The Throne Room~
+This room is much bigger than the other rooms in the castle.  There are
+suits of armor that line these walls, likely from some of the knights that
+faught valiently to defend this castle.  There are some guards here that
+look at you and watch you as you pass them by.
+~
+61 8 0 1 99 1
+D0
+The throne lies ahead.~
+~
+0 -1 16280
+D2
+A hall leads to the south.~
+~
+0 -1 16277
+S
+#16280
+Throne Room of Castle Bryan~
+This room is the legendary throne room of Castle Bryan.  THe royal throne
+is at the north end of the room.  There is a plush red carpet that leads
+along the centre of the room to where the King speaks with those that seek an
+audience with him.  There is a strange curtain that is hanging behind the
+throne.  This room is quite impressive when compared to others like it.
+~
+61 8 0 1 99 1
+D0
+You can barely see anything ahead.~
+curtian~
+25 16280 16294
+D2
+You are leaving the throne room.~
+~
+0 -1 16279
+S
+#16281
+Hallway in the Castle~
+This hall is lined with some of the nicer art in the castle, probably to 
+impress the guests.  Some guards watch you as you walk by.  This corredor 
+leads east and west.
+~
+61 8 0 1 99 1
+D1
+A large room lies ahead.~
+~
+0 -1 16268
+D3
+You hear voices to the west.~
+~
+0 -1 16282
+S
+#16282
+Royal Dining Room~
+There is an extremely large table in the center of this room that is used 
+for royal dining.  There are some guests here now endulging in a light snack
+between meals.  A couple of small looking squires are serving food to the 
+demanding nobles.
+~
+61 8 0 1 99 1
+D1
+A hall leads off to the east.~
+~
+0 -1 16281
+D3
+You smell food ahead.~
+~
+0 -1 16283
+S
+#16283
+Royal Kitchen~
+This room looks well equiped to serve at least twice the number of people 
+that can be seated out in the dining room.  There are spices from across the
+lands here, as well as a good supply of every cooking ingredient imaginable.
+This is the work place of the legendary head chef of Bryan.
+~
+61 8 0 1 99 1
+D0
+There is a room to the north.~
+~
+0 -1 16284
+D1
+The dining area is ahead.~
+~
+0 -1 16282
+S
+#16284
+Royal Pantry~
+This is the storeroom for all the food used to feed the people in the castle.
+Many large barrels of food line the walls.  You notice a small stair case to
+the west of you, it leads down into darkness.
+~
+61 8 0 1 99 1
+D2
+The smell of cooking food is still quite strong here.~
+~
+0 -1 16283
+D5
+It is dark down there.~
+~
+0 -1 16285
+S
+#16285
+Staircase~
+This set of stairs leads down into darkness. You wonder what lies ahead.
+~
+61 8 0 1 99 1
+D4
+There is some light ahead.~
+~
+0 -1 16284
+D5
+It is dark down there, scary.~
+~
+0 -1 16286
+S
+#16286
+Royal Wine Cellar~
+This musty room is filled with bottles of wine, along with various other 
+beverages with witch one uses to get drunk.  You notice an oddly placed rack
+along the south wall, some strange sounds come from behind it.
+~
+61 9 0 1 99 1
+D2
+It is dark over there.~
+door rack~
+9 11 16287
+D4
+It is dark up there.~
+~
+0 -1 16285
+S
+#16287
+Staircase~
+This set of stairs leads down into darkness. You wonder what lies ahead.
+There is light coming from below along with screams of pain.
+~
+61 9 0 1 99 1
+D0
+It is dark over there.~
+door rack~
+9 12 16286
+D5
+Light comes from below.~
+~
+0 -1 16288
+S
+#16288
+Royal Prison~
+This room is appearently the entrance to the less reputable parts of Castle
+Bryan.  There are sounds of people being tortured to the south, while some
+poor souls await their fate in the cell to the east.
+~
+61 8 0 1 99 1
+D1
+A cell lies to the east.~
+door~
+9 15 16289
+D2
+A room lies ahead.~
+~
+0 -1 16290
+D4
+The stairs lead away from this vile place~
+~
+0 -1 16287
+S
+#16289
+Prison Cell~
+This room if filled with occupants that are awaiting an unfortunate end.  
+Many small beds line the walls, however there is hardly enough space in one
+of these cells for half the people in here.  
+~
+61 8 0 1 99 1
+D3
+There is a room over there.
+~
+door~
+9 16 16288
+S
+#16290
+Torture Chamber~
+This room is filled with many painful looking torture devices.  One of them 
+is an inclined board with a weight suspended above.  There are Inquisitors
+here forcing confessons from the tortured people.  All of the devices 
+currently hold victems.
+~
+61 2056 0 1 99 1
+D0
+A room lies ahead.~
+~
+0 -1 16288
+D2
+A small passage lies ahead.~
+~
+0 -1 16292
+D3
+A room lies ahead.~
+~
+0 -1 16291
+S
+#16291
+Planning Room~
+There is a small table here with a map of the castle.  There are also some 
+lines that appear to represent troop movements anong and through the castle's
+defences.  It looks like the king's greatest danger comes from within. 
+~
+61 8 0 1 99 1
+D1
+A room lies ahead.~
+~
+0 -1 16290
+S
+#16292
+Small Dirty Passage~
+This small path leads to the north and east.  The walls are covered with dirt
+and there is no light here.  There is a small, unsafe looking passage to the
+south.
+~
+61 9 0 1 99 1
+D0
+A room lies ahead.~
+~
+0 -1 16290
+D1
+A room lies ahead.~
+~
+0 -1 16293
+D2
+You hear screams of pain followed by a strange crunching sound.~
+~
+0 -1 16233
+S
+#16293
+Cardinal's Room~
+This room is almost completely without decoration with the exception of a
+small bed a desk and a chair.  On the desk you see a note that has an order
+for the assassination of the king.
+~
+61 8 0 1 99 1
+D3
+A passage lies ahead.~
+~
+0 -1 16292
+S
+#16294
+Secret Escape~
+This is the secret exit for the king and queen to be used only in extreme
+danger.  This passage is completely devoid of anything. You wonder where
+this will lead.
+~
+61 8 0 1 99 1
+D0
+A light comes from ahead
+~
+~
+0 -1 16200
+S
+$~
+#999999

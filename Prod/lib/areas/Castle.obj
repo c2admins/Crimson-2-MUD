@@ -1,0 +1,383 @@
+#16200
+obj key black~
+5
+&Ka dark black key&n~
+&KSomeone has left a dark black key here.&n~
+~
+18 262156 0 1
+16200 0 10 0
+3 100 5
+#16201
+obj demon nacho~
+10
+&wa &RD&Kemo&Rn &YNacho&n~
+&wA &RD&Kemo&Rn &YNacho &wis here, chewing on your leg.&n~
+~
+19 0 0 1
+10 0 10 0
+1 20 5
+#16202
+obj key bryan castle~
+5
+&wThe key to Castle Bryan&n~
+&wA large, iron key lies here.&n~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#16203
+obj key cream~
+5
+&wa &Wcr&ye&Wam &wcolored key&n~
+&wA &ylig&Wht br&yown &wkey is here, collecting &ydust&n~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#16204
+obj key blood red~
+5
+&wa &Rb&rloo&Rd &Rr&re&Rd &wkey&n~
+&wA &Rb&rloo&d &Rr&re&Rd &wkey lies here.&n~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#16205
+obj key fire red~
+5
+&wA &Rbright red &wkey catches your attention.&n~
+A bright red key catches your attention.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#16206
+obj helmet ghostly~
+10
+&WGh&wo&Wstl&wy &KHelmet&n~
+&wAn old, &Wgh&wo&Wstl&wy &Khelmet &whas been left here.&n~
+~
+9 1130500 0 17
+12 0 0 0
+4 4000 20000
+A
+26 0
+A
+32 0
+A
+33 0
+A
+13 -50
+#16207
+obj iron maiden~
+50
+Iron Maiden~
+A large Iron Maiden is on the ground, unoccupied at the moment~
+~
+9 130 0 9
+20 0 10 0
+40 200000 50000
+A
+13 -128
+A
+13 -128
+A
+13 -128
+A
+13 -128
+#16208
+obj shiny breast plate~
+10
+&wa &Wsh&wi&Wny &wmetal breast&Kplate&n~
+&wA &Kplate&w of &Wshi&wn&Wing &wmetal lies here.&n~
+~
+9 527360 0 9
+8 0 0 0
+21 40000 10000
+A
+18 2
+A
+13 10
+#16209
+obj shiny arm plates~
+10
+&Wsh&wi&Wny &wmetal arm&Kplates&n~
+&wA set of &Wsh&wi&Wny &wmetal arm&Kplates&w lies here.&n~
+~
+9 527360 0 257
+10 0 0 0
+8 4000 1000
+A
+18 2
+#16210
+obj shiny leg plates~
+10
+&Wsh&wi&Wny &wmetal leg&Kplates&n~
+&wA set of &Wsh&wi&Wny &wmetal leg&Kplates &wlies here.&n~
+~
+9 527360 0 33
+5 0 0 0
+8 2250 800
+A
+18 2
+#16211
+obj shiny gauntlets~
+12
+&Wsh&wi&Wny &wmetal &Kgauntlets&n~
+&wA pair of &Wsh&wi&Wny &wmetal &Kgauntlets &wlies here.&n~
+~
+9 527360 0 129
+6 0 0 0
+4 4000 1000
+A
+18 2
+#16212
+obj blade ghostly~
+10
+&WGh&wo&Wstl&wy &KBlade&n~
+&wAn odd &Wgh&wo&Wstl&wy &Kblade &whas been left here.&n~
+~
+5 2097156 0 8193
+131072 7 5 3
+6 300000 75000
+A
+19 1
+#16213
+obj fluffy pillow~
+50
+&Wa fluffy pillow&n~
+&WA large, fluffy pillow haas been left here.&n~
+~
+5 98304 0 8193
+0 1 2 7
+8 8000 2000
+A
+14 -10
+#16214
+obj ladel death~
+15
+&wThe &Kladel &wof &rD&Keat&rh&n~
+&wa simple &ywooden &Kladel &wlies here.&n~
+~
+9 524800 0 16385
+2 0 0 0
+2 44000 11000
+A
+23 -2
+A
+19 1
+A
+5 1
+#16215
+obj bracers crested~
+10
+&Yc&yre&Ys&yte&Yd &Kb&wracer&Ks&n~
+&wA set of &Yg&yol&Yd &Kbracers&w lies here.&n~
+~
+9 1049857 0 257
+7 0 0 0
+9 40000 10000
+A
+1 3
+A
+2 -1
+#16216
+obj mail silvery chain~
+10
+&wSi&Klv&wery chain mail &Karmor&n~
+&wThere is a nice suit of chain mail &Karmor &where.&n~
+~
+9 2097217 0 9
+6 0 10 0
+20 80000 20000
+A
+12 25
+A
+19 3
+#16217
+obj marching boots~
+10
+&yMa&Krchi&yng boots&n~
+&yA pair of military boots lies here.&n~
+~
+9 1061888 0 65
+0 0 0 0
+4 16000 15000
+A
+2 1
+A
+14 20
+A
+19 1
+#16218
+obj knee spikes~
+5
+&wknee &Ks&wp&Wik&we&Ks&n~
+&wA pair of &Ks&wp&Wik&we&Kd &wknee guards rests here.&n~
+~
+9 1070082 0 33
+15 0 0 0
+6 48000 17000
+A
+19 2
+#16219
+obj axe giant battle~
+10
+&cG&Kian&ct &wBattle &KA&wx&Ke&n~
+&wThere is a &cg&Kian&ct &wbattle &Ka&wx&Ke &wresting on the ground here.&n~
+~
+5 1060864 0 8193
+32768 10 2 3
+16 80000 20000
+A
+19 2
+A
+18 -2
+#16220
+obj dagger light~
+10
+&wThe &KDagger &wof &YLi&Wg&Yht&n~
+&wA &Ygle&Wam&Ying &Kdagger &whas been dropped here.&n~
+~
+1 525313 0 65537
+0 0 1000000 0
+3 44000 11000
+A
+19 1
+A
+18 1
+#16221
+obj dagger darkness~
+10
+&wThe &KDagger &wof &KDa&crkne&Kss&n~
+&wA &Wsh&wi&Wny &Kobsidian dagger &wlies here.&n~
+~
+1 524804 0 65537
+0 0 1000000 0
+2 44000 11000
+A
+19 1
+A
+17 5
+#16222
+obj leggings royal~
+10
+&wThe &pRoyal L&Pe&Wggin&Pg&ps&n~
+&wA pair of &pf&Pa&Wn&Pc&py &pl&Pe&Wggin&Pg&ps &whas been placed here.&n~
+~
+9 524288 0 33
+6 0 0 0
+8 40000 10000
+A
+14 15
+A
+12 10
+#16223
+obj ball black magic sphere~
+10
+&WMagic 8 &Kball&n~
+&wA small &Kblack sphere &whas been carelessly left here.&n~
+~
+9 524288 0 16385
+0 0 10 0
+4 75000 15000
+A
+4 -1
+A
+3 2
+A
+24 -2
+#16224
+obj seal knight~
+5
+&WKni&wgh&Kt'&ws S&Weal&n~
+&wA &Wkni&wgh&Kt'&ws s&Weal &whas been dropped here.&n~
+~
+9 2116608 0 16385
+5 0 0 0
+4 90000 21000
+A
+19 4
+A
+18 1
+A
+13 10
+#16225
+obj armor heavy battle~
+10
+&wH&yeav&wy &rB&Rattl&re &KArmor&n~
+&wSome heavy &rb&Rattl&re &Karmor &wis lying here.&n~
+~
+9 1055745 0 9
+9 0 0 0
+22 100000 35000
+A
+19 1
+A
+18 2
+A
+13 10
+#16226
+obj bow recurved~
+10
+&yRecurved bow&n~
+&wAn average looking &ybow&w is resting on the ground here.&n~
+~
+5 524288 0 8193
+0 4 6 8
+10 40000 7000
+A
+17 5
+A
+18 1
+#16227
+obj ring amber~
+10
+&YAmber &Kring&n~
+&wA small &Yamber &Kring &wis lying on the ground here.&n~
+~
+9 1048576 0 3
+5 0 0 0
+1 40000 10000
+A
+12 30
+#16228
+obj hat funky magic~
+10
+&GF&gunk&Gy &WMagic &KHat&n~
+&wA &Gf&gunk&Gy &wlooking &Wmagic-user's &Khat &whas been left here.&n~
+~
+15 0 0 17
+50 0 10 0
+4 5 14500
+A
+17 5
+#16229
+obj bracelet black opal~
+3
+&KBlack Opal &cBr&wa&Wce&wl&cet&n~
+&wA &Kblack opal &cbr&wa&Wce&wl&cet &whas been left here.&n~
+~
+9 524292 0 4097
+2 0 0 0
+4 40000 10000
+A
+19 1
+A
+18 1
+#16230
+obj ring signet bryan~
+5
+&wThe &YS&yigne&Yt &Kring &wof &yBryan&n~
+&wThe king must have left his &Kring &where.&n~
+~
+9 1049600 0 3
+0 0 0 0
+1 50000 15000
+A
+19 2
+A
+18 1
+$~
+#999999

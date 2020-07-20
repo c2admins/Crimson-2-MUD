@@ -1,0 +1,170 @@
+#9200
+mob gurgleflounder gurgle flounder~
+&GA Gurgle &YFlounder&n~
+&GA Gurgle &YFlounder &blies here stinking up the joint!&n
+~
+This strange fish seems to swim upside down.  You have a strange sense
+that everyone and everything here is baked off its ass.  There seems
+to be a dorsil fin growing from his left eyebrow  fear!
+~
+29360154 32769 136249361 67108864 1000 S
+45 -5 -30 100d100+50000 10d20+60
+1000000 1000000
+8 8 0
+0 0 16 17 14 16 13 12
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SCALES 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#9201
+mob fagus flytrap~
+&BA Fagus&G Flytrap&n~
+&BA Fagus flytrap&G is here hanging from a tree&n.
+~
+This strange snapping creature is massive in size.  He hangs from the trees
+like a biting trapeze.  You feel this little bastard could rip your leg off
+at any time.  Too bad he can't seem to reach you.  You may want to hurry
+through here before one falls down.
+~
+29360216 32769 136249361 0 1000 S
+46 -5 -40 100d100+65000 100d5+60
+1000000 900000
+8 8 0
+0 0 16 18 14 15 15 15
+#9202
+mob flaming fungus~
+&RA &rFlam&ying F&rung&Rus&n~
+&RA &rFlam&ying F&rung&Rus&n &yis resting here.&n
+~
+This creature stands nearling 20 feet tall.  He seems as he would crush
+you except that he is made of pure jello!  You can feel the heat comming
+from his flaring nostrils.  He seems to have broken tusk swollen from
+his inner eyes.  This creature may be blind as a bat.  You have to
+investigate to find out further!
+~
+29360216 32769 136249361 0 -1000 S
+47 -5 40 100d1+65000 100d5+60
+750000 1000000
+8 8 0
+0 0 16 18 14 15 15 15
+SKILL=SPELL_GAS_BREATH 99
+#9203
+mob hog bush hogbush~
+&GHo&ggb&Yush&n~
+&YA &GHo&ggb&Yush&G is stand&Ying h&gere.&n
+~
+This strange creature is massive in size and waist.  They seem to feed off each
+other.  They grow larger as they eat the leaves off of other hogbushes.  There
+seems to be no kind of pack or order with them.  They just roam grazing off each
+others asses.
+~
+29425752 32769 136249361 0 1000 S
+46 -5 -30 100d100+65000 100d4+80
+1000000 800000
+8 8 0
+0 0 16 17 16 15 14 14
+#9204
+mob A Felixian guard~
+A Felixian Guard~
+A Felixian Guard is standing here guarding the gate.
+~
+This guy seems to be searching the horizons for xelifians.  They are the
+enemy of the Felixians.  You can see by his flashy uniform and his tireless
+stance that he does his job well.  The Felixians are wise and peaceful people
+however, they can kick some ass if pressed.
+~
+25165898 32769 136249361 67108864 1000 S
+45 -5 -30 100d100+30000 10d20+60
+1000000 1000000
+8 8 0
+0 0 16 17 14 16 13 12
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SCALES 99
+#9205
+mob felixian guardian~
+&WA Felix&Gian Gu&Wardian&n~
+&WA Felix&Gian Gu&Wardian&n is here training.
+~
+This large mountain of a Felixian stands nearly twelve feet tall.  He is
+ripped from head to toe.  This guardian has been here training for many years
+for the great battle of the Xelifians.  You can feel the strange green glow
+about him.
+~
+25550858 32769 136249361 128 1000 S
+48 1 -26 90d90+25000 10d20+40
+1000000 1700000
+8 8 0
+0 0 25 23 19 20 20 18
+#9206
+mob fagus king~
+&GFagus &WKing of the &GFelixians&n~
+&GFagus &WKing of the &GFelixians&W is standing here.&n
+~
+You are seeying a giant of a man.  This king has grown with the lands that
+has been placed before him.  He is the eldest and most wise in the ways of Nyg.
+The Felixians have led a nice and tranquil life in this strange world.  There
+are many Felixians that pride themself on a calm world.  This king knows all
+too well that the evil Xelifians may come at any time to bring down his people.
+~
+25192202 32769 136249361 67108992 1000 S
+50 -29 -40 100d100+35000 20d15+60
+5000000 2500000
+8 8 0
+0 0 22 22 22 22 22 22
+ATTACK_SKILL=45
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=45
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#9207
+mob king personal bodyguard~
+&GThe kings &Wpersonal &Gbodyguard&n~
+&GThe kings &Wpersonal &Gbodyguard&W is protecting the king.&n
+~
+This creature is the king's personal bodyguard.  He seems to fume with anger
+and doesn't seem to like being disturbed.
+~
+159442698 32769 136253457 0 1000 S
+45 0 -25 100d100+12000 100d2+75
+1000000 1250000
+8 8 0
+0 0 17 16 14 14 13 13
+#9208
+mob xelifian spy~
+&wXelifian &rSpy&n~
+&wA Xelifian &rspy is stan&wding here&n.
+~
+This spy seems to be an abnormal one.  You can see his strength is high and
+his dex is off the charts.  He seems to be packing a sharp dagger.  There
+seems to be no guards around to help you out.  This spy seems to want
+to kill the king.
+~
+25231448 32769 136249361 1572864 -1000 S
+46 0 -40 100d100+30000 25d25+50
+1000000 1500000
+8 8 0
+0 0 23 15 15 25 13 14
+#9209
+mob a felixian guard~
+A Felixian Guard~
+A Felixian Guard is standing here guarding the gate.
+~
+This guy seems to be searching the horizons for xelifians.  They are the
+enemy of the Felixians.  You can see by his flashy uniform and his tireless
+stance that he does his job well.  The Felixians are wise and peaceful people
+however, they can kick some ass if pressed.
+~
+25165898 32769 136249361 67108864 1000 S
+45 -5 -30 100d100+30000 10d20+60
+1000000 1000000
+8 8 0
+0 0 16 17 14 16 13 12
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SCALES 99
+$~
+#999999

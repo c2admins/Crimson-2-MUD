@@ -1,0 +1,1163 @@
+#20550
+&WClimbing &yThe Mountain.&n~
+  The fields become harder and harder to walk among, you start to ascend towards the clouds.  This road seems to lead to where all the people have hidden  due to the war.  It seems to lead into caves.
+~
+115 13 8 20 99 1
+D2
+S
+~
+~
+0 -1 7768
+D4
+U
+~
+~
+0 -1 20551
+S
+#20551
+&WClimbing &yThe Mountain.&n~
+You are at the top of the mountain.  You see insects moving about.  A foggy mist
+comes from west of here, it emits a horrid stench, might not want to enter.
+~
+115 268435465 0 20 40 1
+D3
+W
+~
+~
+0 -1 20552
+D4
+A large palace arises, strange elements bursting out from within its structure.
+~
+~
+0 -1 9510
+D5
+D
+~
+~
+0 -1 20550
+S
+#20552
+&CThe Lighted Entrance.&n~
+  You step inside a large opening above the grassy fields below.  You just stand here, the light inside glows and flickers.  A very damp mist becomes barreling out of the cave, engulfing you.
+~
+115 268435465 0 20 40 1
+D0
+The hidden treasure room.
+~
+caved in~
+31 20574 20584
+D1
+E
+~
+~
+0 -1 20551
+D3
+W
+~
+~
+0 -1 20553
+S
+#20553
+&CThe Misty Hallway.&n~
+You stand, just inside the cave.  This is a man-made cavern, built to protect those
+who fled the messiah's wrath.  They hide in here, fearing for their lives, if the
+Messiah knew where they were, all would perish.
+~
+115 268435465 0 20 40 1
+D1
+The lighted entrance
+~
+~
+0 -1 20552
+D5
+D
+~
+~
+0 -1 20554
+S
+#20554
+&CThe Misty Hallway.&n~
+  You step inside a large opening above the grassy fields below.  You just stand here, the light inside glows and flickers.  A very damp mist becomes barreling out of the cave, engulfing you.
+~
+115 268435465 0 20 40 1
+D3
+W
+~
+~
+0 -1 20562
+D4
+U
+~
+~
+0 -1 20553
+S
+#20555
+&KDeeper into the Laboratory&n.~
+You enter the back of the cave, from here the only ways out are to backtrack
+the way you came in or head south, the mist makes it hard to tell what could lie
+there, but it might be worth a look.
+~
+115 268435977 0 20 75 1
+D2
+S
+~
+~
+0 -1 20556
+S
+#20556
+&KA Damp Tunnel Beneath The Laboratory&n.~
+It seems that there is something hidden deep within here, heading down might
+show you what lies there, but it might lead to your death...Are you willing to chance it?
+~
+115 268435977 0 20 75 1
+D0
+N
+~
+~
+0 -1 20555
+D5
+D
+~
+~
+0 -1 20557
+S
+#20557
+&KA Damp Tunnel Beneath The Laboratory&n.~
+You stand in a passage, only large enough for you and a comrade, the walls are
+four feet away from each other, this narrow passage leads downward.  But it 
+leads into a darkness, that you can not see yet.
+~
+115 268435977 0 20 75 1
+D2
+S
+~
+~
+0 -1 20558
+D4
+U
+~
+~
+0 -1 20556
+S
+#20558
+&KA Damp Tunnel Beneath The Laboratory&n.~
+The passage becomes even smaller.  You can only fit through here to see what 
+might lie below.  *gulp* Do you feel like dying?
+~
+115 268435977 0 20 75 1
+D0
+N
+~
+~
+0 -1 20557
+D5
+D
+~
+~
+0 -1 20559
+S
+#20559
+&KA Damp Tunnel Beneath The Laboratory&n.~
+A beaming light blinds you for a second.  Then you realize that the mist has
+subsided and that all around you is brightened by this light.  You see heading
+down it gets darker, and the light will not follow. Is this as far as you wish to go?
+~
+115 268435977 0 20 75 1
+D4
+U
+~
+~
+0 -1 20558
+D5
+D
+~
+~
+0 -1 20560
+S
+#20560
+&KA Damp Tunnel Beneath The Laboratory&n.~
+&nThe light has almost faded, the darkness has consumed every inch of this tunnel
+and knowing nothing at all as to what resides in here.  It might be best to turn
+back, but as soon as you turn your back and head the way you came, a strange
+beam of light comes from downward in the tunnel.  A strange scream comes from
+down there, whats going on?  Light engulfs your eyes as you see him!  The doctor
+that left that note on the wall at the beginning of this laboratory!  Its Dr. Wyzlitrus!
+~
+115 268435465 0 20 75 1
+D4
+A damp tunnel beneath the laboratory
+~
+~
+16 -1 20559
+S
+#20561
+&KThe Hidden Lair of the &WMi&Kthr&Wil &KGolem&n.~
+&nStanding in a hidden lair, you suddenly realize that this must be the end of 
+the caves.  The monster before you stand tall and proud.  It stands at the 
+opening of this lair, well over one hundred feet high, and thirty feet wide,
+it would not fit further in the lair it has hidden in.  Whats wierd is this
+golem itself is half made, the rest of it seems to be made of spare parts 
+around the laboratory.  A third leg made of steel, some armour coloured in 
+platinum, and what looks to be like some kind of golden gauntlet to cover 
+its wrist.  Be quick, because this golem has the power of every single one 
+that was made before him, and he isnt very happy that you have discovered 
+where he hides.
+~
+115 1879048456 536870912 42 75 1
+D4
+A damp tunnel beneath the laboratory
+~
+~
+16 -1 20560
+S
+#20562
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 0 20 40 1
+D1
+Misty hallway.
+~
+~
+0 -1 20554
+D2
+S
+~
+~
+0 -1 20563
+S
+#20563
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 0 20 40 1
+D0
+N
+~
+~
+0 -1 20562
+D5
+D
+~
+~
+0 -1 20564
+S
+#20564
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 0 20 40 1
+D3
+W
+~
+~
+0 -1 20565
+D4
+U
+~
+~
+0 -1 20563
+S
+#20565
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 0 20 40 1
+D1
+E
+~
+~
+0 -1 20564
+D5
+D
+~
+~
+0 -1 20566
+S
+#20566
+&WThe Room of Mists.&n~
+You stand deep within the earth.  The mist is alot hazier and thicker then it was
+at the entrance.  You start seeing things that arent there.  The cave has begun
+to take its effect on you. You're going mad, and there is no way out.
+~
+115 268435465 0 20 40 1
+D1
+E
+~
+~
+0 -1 20567
+D3
+W
+~
+~
+0 -1 20569
+D4
+U
+~
+~
+0 -1 20565
+S
+#20567
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 0 20 40 1
+D2
+S
+~
+~
+0 -1 20570
+D3
+w
+~
+~
+0 -1 20566
+S
+#20568
+&WT&Kh&We &KL&Wa&Ki&Wr &KO&Wf &KB&Wo&Kn&We&Ks&n.~
+  You stand in a room filled with bones.  In the corner is a complete set, decaying
+from the humidity in the air.  It perks up, eyes glowing red, and spots you.  Its 
+time to die.
+~
+115 268435469 0 20 40 1
+D0
+N
+~
+~
+0 -1 20569
+S
+#20569
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 0 20 40 1
+D1
+E
+~
+~
+0 -1 20566
+D2
+S
+~
+~
+0 -1 20568
+S
+#20570
+&CA Healing Light&n.~
+You stand inside a lighted room, what stands in front of you is a long deceased
+healer. His body and skin still in tact, he goes about his business as if he isn't dead at all.
+~
+115 268435469 0 20 40 1
+D0
+N
+~
+~
+0 -1 20567
+S
+#20571
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 9 536870912 1 99 1
+D2
+Deep within the earth.
+~
+~
+0 -1 8906
+D5
+D
+~
+~
+0 -1 20572
+S
+#20572
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 536870912 41 75 1
+D1
+E
+~
+~
+0 -1 20573
+D2
+S
+~
+~
+0 -1 20575
+D3
+W
+~
+~
+0 -1 20574
+D4
+U
+~
+~
+0 -1 20571
+S
+#20573
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435469 536870912 41 75 1
+S
+#20574
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435469 536870912 41 75 1
+S
+#20575
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20572
+D1
+E
+~
+~
+0 -1 20576
+D3
+W
+~
+~
+0 -1 20577
+D5
+D
+~
+gatetoearth~
+3 20568 20578
+S
+#20576
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 536870912 41 75 1
+S
+#20577
+&KDeep Within The &yEarth&n.~
+Little insects creep and crawl across your feet.  The ground is damp and its
+so dark in here even using a light its hard to find a path.  There is a fog coming
+from deeper within.  Inspecting it might mean your doom. but you realize now 
+there is no other choice because the cave has shut you in, now there is not exit.
+~
+115 268435465 536870912 41 75 1
+S
+#20578
+&KDeep Within The &yEarth&n.~
+&nYou look in all directions, wondering what lies ahead.  The heat coming from
+deeper inside sends your skin crackling.  The sweat drips from your brow, and
+you realize that, you are succumbing to the heat.  Maybe if you move on, it might
+get colder....
+~
+115 268435465 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20579
+D4
+U
+~
+gatetoearth~
+3 20568 20575
+S
+#20579
+&KDeep Within The &yEarth&n.~
+&nThe &rflames&n spit from deeper inside.  It burns and the only exit is to go 
+further into the &rflames&n.  Is this how you die?
+~
+115 268435465 536870912 41 75 1
+D1
+E
+~
+~
+0 -1 20580
+S
+#20580
+&KDeep Within The &yEarth&n.~
+You stand above the &Rflames&n.  The intense heat is charring your skin.  The
+sweat begins dripping even more.  Your throat becomes dry, as you realize, you have to go exstinguish the mighty flames before you can escape the heat.
+~
+115 268435465 536870912 41 75 1
+D5
+D
+~
+~
+0 -1 20581
+S
+#20581
+&KSpiraling to &RHell&n.~
+&nThe &Rflames &nshoot from the floor.  The &rheat&n seers your &yflesh&n and
+begins to peel it away.  In the center of the &Rflames &nstands a larger &Rflame&n
+it seems to be alive and very angry that you have entered its lair, now you will
+suffer the heat of this beast's anger.
+~
+115 268435464 536870912 41 75 1
+D5
+Inside the machine
+~
+~
+0 -1 20602
+S
+#20582
+&RPit of Corpses&n.~
+&nYou stand in a large pit.  Corpses sweep past you, brushing you with the
+decay of their bones.  There are no exits, now YOU become one of these lifeless
+corpses.
+~
+115 268435465 536870912 41 75 1
+D4
+The sewer of dreams
+~
+~
+0 -1 20609
+S
+#20583
+&BCollapsing the soul&n.~
+&nYou enter a vortex unlike that you have seen before.  A creature stands 
+before you, angry at you making the slightest sound.  It eyes you hungrily, then
+with one swoop it attacks!....
+~
+115 268435465 536870912 41 75 1
+D2
+The final clouds
+~
+~
+0 -1 9018
+S
+#20584
+&WThe hidden treasure room.&n~
+This is the treasure room of those whom have fled.  They keep their valuables 
+here for safe keeping.  The chest in here is not too big, but made of silver and 
+twinkles with the encrusted gems upon it.
+~
+115 1342177293 0 20 40 1
+D2
+The lighted entrance.
+~
+caved in~
+29 20574 20552
+S
+#20585
+&WThe Peaceful &yCabin&n.~
+                  :              _   _
+                  :               `v'
+         `.       ;       .'                 ,~-.
+           `.  .-'''-.  .',~')       _ _    (    )~.
+             ;'       `; (    `-.   ' V `  ,'       )~.  _ _
+            /           ;-`      )        (          __)' v `
+           |           (_         )~./\    `~'--~'`~' _
+      '''''|            (_    __    /##\            ,' )_
+            \           /(   _HH_,~/#/\#\          ( c'  `._
+             `.       .'  `~[____]/#/==\#\       ,-' -' (_c )
+            .' `-,,,-' `.    |=_|/#/= _=\#\      `>o  ~    '-.
+          .'      ;      `.  |-=/#/=____=\#\     ( ~ ,~.~.,`-'),
+           _  _   :        ` |=/#/=/,~~.\=\#\    ,' (\\||,' `-'),
+         .' \/ `. :          |/#/=(/_)(_\)=\#\  (`~ (_\`|)o ~   )
+                             /#/_= |_\/_|  _\#\  >(   `~' ._,~ '-.
+                            /#/ _=[______]= _\#\(' `~,  c    ~. c)
+                           /#/=,---. _ = ___ =\#\`( (  ~ _.'   <'
+                          /#/ /_____\ ==/,-.\ =\#\(  c   c___ ) )
+                          `|=(/_|_|_\) //.-.\\=_|' `-.__,' //`-'
+                        `v@|==| : : |=(/:|_|:\)=|   `,-\ `'/`,-
+                      `v@'~|= |_;_;_| =|     | =|       \ |
+              _/\_/\_,(c`@'|=[_______]=|  =()|==|_/\_/\_| |/\_
+              -||-||-@~'(_@|= _o@&8o_ =|     | =|-||-||-( |||-
+           ,@C @,~' @,-v~'    """""""`[_______]         | |
+
+
+  You stand in a small, relaxing room.  Couches adorn the walls, and in the
+background you can hear the hum of a coffee machine brewing another batch.
+There are two coffee cups in which to drink from.  You have been summoned
+here to discuss your problems and thus you shall.  Thank you for your time.
+- The Immortal Crew on C2.
+~
+115 2013380744 805306368 44 75 1
+D0
+The Ante Conference Room
+~
+~
+0 -1 15
+D1
+The Meth Conference Room
+~
+~
+0 -1 13
+D2
+The Highlord Conference Room
+~
+~
+0 -1 16
+D3
+The Overlord Conference Room
+~
+~
+0 -1 17
+D4
+Cloud-top view of Crimsworld.
+~
+~
+0 -1 8349
+D5
+Imm Chat Room.
+~
+~
+0 -1 4
+S
+#20586
+Haven of Animals and Angels.~
+Large creatures stir in here.  The cold darkness saps into you, now you know, that you shouldnt be in here.  The snarls coming from deeper within tell you that
+this isnt the greatest of places to be.
+~
+115 1342177293 0 1 99 1
+D4
+Angel's Demise
+~
+~
+0 -1 8917
+S
+#20587
+An odd laboratory.~
+&nEverywhere you look, there is scrap metal from what seems to be a laboratory.
+The room itself is adorned with cases, filled with vials of experimental
+elements.  Upon the one of the walls you see a &gnote&n.
+~
+115 268435465 0 41 75 1
+D5
+Breaking internally.
+~
+~
+0 -1 20588
+E
+Dr. Wyzlitrus note~
+&KI fled from the wrath of the Messiah.  He 
+attacked Onkara, and slayed his army.  I 
+survived, along with Munkril.  We stayed 
+in the caves, for fear of our lives.  Not
+even Cantrel could save us.  Knowing that,
+I decided to create monsters that would be 
+able to defeat the mighty Messiah.  All I
+could come up with were robots that moved 
+but didnt posses any skill, or didnt move
+at all.  One day, while trying to create
+them, I stumbled across a formula that
+would make the ultimate monsters.  All I
+&Kneeded were seperate metals to make each 
+&Kone have a significant skill, good enough 
+&Kto kill the Messiah.  I gave them life,
+&Kand now they're after mine.  Save what you 
+&Kcan.  Remember, the power to defeat these 
+&Kmonsters is in the spirit of the eternal
+&Kdragon, Shi'Ihi.  The palace of the elements 
+&Kis where he is located,  God save us all, I
+&Kcreated them for revenge, but instead, they 
+&Kbecame killers.&n
+~
+S
+#20588
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 41 75 1
+D2
+Breaking internally.
+~
+~
+0 -1 20593
+D4
+A strange laboratory.
+~
+~
+0 -1 20587
+S
+#20589
+&wInside the lair of the &KSteel Golem&n.~
+&nYou stand inside a large lair.  Circuits buzz in the background and all strewn
+across the floor are wires and pieces of scrap metal.  The walls are made of 
+pure steel, and in the corner you see one of the killers.  It seems to be a
+metallic golem. Its heading right towards you.
+~
+115 268435465 0 1 99 1
+D3
+Breaking internally.
+~
+~
+0 -1 20594
+S
+#20590
+&wInside the lair of the &YGolden &KGolem&n.~
+&nYou stand inside a large lair.  Circuits buzz in the background and all strewn
+across the floor are wires and pieces of scrap metal.  The walls are made of 
+pure steel, and in the corner you see one of the killers.  It seems to be a
+metallic golem. Its heading right towards you.
+~
+115 268435465 0 1 99 1
+D1
+Breaking internally.
+~
+~
+0 -1 20595
+S
+#20591
+&wInside the lair of the &WPlatinum &KGolem&n.~
+&nYou stand inside a large lair.  Circuits buzz in the background and all strewn
+across the floor are wires and pieces of scrap metal.  The walls are made of 
+pure steel, and in the corner you see one of the killers.  It seems to be a
+metallic golem. Its heading right towards you.
+~
+115 268435465 0 1 99 1
+D3
+Breaking internally.
+~
+~
+0 -1 20598
+S
+#20592
+Inside the lair of the &KAdamantium Golem&n.~
+&nYou stand inside a large lair.  Circuits buzz in the background and all strewn
+across the floor are wires and pieces of scrap metal.  The walls are made of 
+pure steel, and in the corner you see one of the killers.  It seems to be a
+metallic golem. Its heading right towards you.
+~
+115 268435465 0 1 99 1
+D2
+A hidden exit, going deeper into the laboratory.
+~
+HiddenLair~
+63 20593 20555
+D4
+Breaking internally.
+~
+~
+0 -1 20601
+S
+#20593
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 1 99 1
+D0
+Breaking internally.
+~
+~
+0 -1 20588
+D2
+Breaking internally.
+~
+~
+0 -1 20594
+S
+#20594
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 1 99 1
+D0
+Breaking internally
+~
+~
+0 -1 20593
+D1
+The lair of the Steel Golem
+~
+~
+0 -1 20589
+D2
+Breaking internally.
+~
+~
+0 -1 20595
+S
+#20595
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 1 99 1
+D0
+Breaking internally.
+~
+~
+0 -1 20594
+D2
+Breaking internally.
+~
+~
+0 -1 20596
+D3
+The lair of the Golden Golem
+~
+~
+0 -1 20590
+S
+#20596
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 1 99 1
+D0
+Breaking internally.
+~
+~
+0 -1 20595
+D2
+Breaking internally.
+~
+~
+0 -1 20597
+S
+#20597
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 1 99 1
+D0
+Breaking interally
+~
+~
+0 -1 20596
+D2
+Breaking internally.
+~
+~
+0 -1 20598
+S
+#20598
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 1 99 1
+D0
+Breaking internally.
+~
+~
+0 -1 20597
+D1
+The lair of the Platinum Golem
+~
+~
+0 -1 20591
+D2
+Breaking internally
+~
+~
+0 -1 20599
+S
+#20599
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 1 99 1
+D0
+Breaking internally
+~
+~
+0 -1 20598
+D2
+Breaking internally.
+~
+~
+0 -1 20600
+S
+#20600
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 1 99 1
+D0
+Breaking internally.
+~
+~
+0 -1 20599
+D3
+Breaking internally.
+~
+~
+0 -1 20601
+S
+#20601
+&KBreaking Internally&n.~
+&nThere is &Rblood&n upon the walls.  Spattered all along the sides of the 
+smooth marble hallway.  The foul stench of decaying flesh enters your nose and
+you feel the sudden urge to vomit.  You begin walking further inward in this 
+odd laboratory.
+~
+115 268435977 0 1 99 1
+D1
+Breaking internally.
+~
+~
+0 -1 20600
+D4
+The hidden temple.
+~
+~
+0 -1 8988
+D5
+The lair of the adamantium golem.
+~
+~
+0 -1 20592
+S
+#20602
+&wInside the &KM&wachin&Ke&n~
+&wStanding within the machine, you see the wires and cables every where.  You
+hear the buzz of them as the circuits malfunction.  Standing in what looks like
+a machine you feel your mind swell, your bones begin to stress, and your eyes
+bulge, as you realize, you're being sucked into a vortex.
+~
+115 1342177293 0 41 75 1
+D4
+The vortex of pain
+~
+~
+144 -1 20603
+D5
+A slice of God.
+~
+~
+16 -1 9032
+S
+#20603
+&CV&corte&Cx &wof &RP&rai&Rn&n~
+&nStanding just inside the &CV&corte&Cx &wof &RP&rai&Rn&n, a large echo of screams surrounds you.
+Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
+around you, murrmering words and staring blankly at you.
+~
+115 1346371593 0 41 75 1
+D0
+Vortex of pain
+~
+~
+0 -1 20604
+D1
+Vortex of pain
+~
+~
+0 -1 20603
+D2
+Vortex of pain
+~
+~
+0 -1 20603
+D3
+Vortex of pain
+~
+~
+0 -1 20603
+D4
+Vortex of pain
+~
+~
+0 -1 20603
+D5
+Vortex of pain
+~
+~
+0 -1 20603
+S
+#20604
+&CV&corte&Cx &wof &RP&rai&Rn&n~
+&nStanding just inside the &CV&corte&Cx &wof &RP&rai&Rn&n, a large echo of screams surrounds you.
+Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
+around you, murrmering words and staring blankly at you.
+~
+115 1346371593 0 1 99 1
+D0
+Vortex of pain
+~
+~
+0 -1 20604
+D1
+vortex of pain
+~
+~
+0 -1 20604
+D2
+Vortex of pain
+~
+~
+0 -1 20603
+D3
+Vortex of Pain
+~
+~
+0 -1 20604
+D4
+Vortex of pain
+~
+~
+0 -1 20605
+D5
+Vortex of Pain
+~
+~
+0 -1 20604
+S
+#20605
+&CV&corte&Cx &wof &RP&rai&Rn&n~
+&nStanding just inside the &CV&corte&Cx &wof &RP&rai&Rn&n, a large echo of screams surrounds you.
+Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
+around you, murrmering words and staring blankly at you.
+~
+115 1346371593 0 1 99 1
+D0
+Vortex of pain
+~
+~
+0 -1 20607
+D2
+Vortex of pain
+~
+~
+0 -1 20603
+D4
+Something is in there...
+And all that snarling, maybe you shouldnt enter.
+~
+~
+16 -1 20606
+D5
+Vortex of pain
+~
+~
+0 -1 20604
+S
+#20606
+&wA &KDemise &KU&wn&Kf&wo&Kr&ws&Ke&we&Kn &win &bYour &YEyes&n~
+&nStanding just inside the &CV&corte&Cx &wof &RP&rai&Rn&n, a large echo of screams surrounds you.
+Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
+around you, murrmering words and staring blankly at you.
+~
+115 1883249801 536870912 1 99 1
+D5
+Vortex of Pain
+~
+~
+0 -1 20605
+S
+#20607
+&CV&corte&Cx &wof &RP&rai&Rn&n~
+&nStanding just inside the &CV&corte&Cx &wof &RP&rai&Rn&n, a large echo of screams surrounds you.
+Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
+around you, murrmering words and staring blankly at you.
+~
+115 1346371593 0 1 99 1
+D0
+A hidden part of the vortex.
+~
+~
+16 -1 20608
+D2
+Vortex of Pain
+~
+~
+0 -1 20605
+S
+#20608
+&CV&corte&Cx &wof &RP&rai&Rn&n~
+&nStanding just inside the &CV&corte&Cx &wof &RP&rai&Rn&n, a large echo of screams surrounds you.
+Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
+around you, murrmering words and staring blankly at you.
+~
+115 1346371593 0 1 99 1
+D2
+The Vortex of pain
+~
+~
+16 -1 20607
+D5
+An exit lying half hidden...
+~
+~
+16 -1 20609
+S
+#20609
+&wThe &gSewer &wof &KDreams&n.~
+&nStanding just inside the &CV&corte&Cx &wof &RP&rai&Rn&n, a large echo of screams surrounds you.
+Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
+around you, murrmering words and staring blankly at you.
+~
+115 1346371593 0 1 99 1
+D4
+Vortex of Pain
+~
+~
+16 -1 20608
+D5
+Pit of corpses
+~
+Something~
+19 20559 20582
+S
+$~
+#999999

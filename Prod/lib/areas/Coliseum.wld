@@ -1,0 +1,909 @@
+#9050
+Coliseum Foyer~
+Looking both to the west and the east you see dimly lit corridors, presumably
+leading to the Coliseum fighting grounds.  A stairway leading up lies in
+front of you.  You nearly overlook a well-hidden entrance leading below...
+~
+66 1048584 0 20 99 0
+D0
+the Arena way
+~
+~
+0 -1 14941
+D1
+a corridor.
+~
+~
+0 -1 9072
+D3
+A corridor which may lead to the Coliseum.
+~
+~
+0 -1 9051
+D4
+~
+~
+0 -1 9068
+D5
+The tombs beneath the Coliseum.
+~
+~
+16 -1 9056
+S
+#9051
+Dim Corridor~
+Water drips irregularly in this warm, dark corridor.  Further to the west you 
+hear quiet cheering and yelling.  To the east you see the foyer.
+~
+66 1048584 0 1 99 0
+D1
+the Coliseum foyer.
+~
+~
+0 -1 9050
+D3
+More corridor space... Is that light peeking around the bend?
+~
+~
+0 -1 9052
+E
+new~
+You see the dim corridor...
+~
+S
+#9052
+Dim Corridor~
+The cheering is louder.  The sound of weapons and the smell of blood are 
+strong in the air, and you hear bursts of screaming and clapping.  There is a
+light coming from the north...
+~
+66 1048584 0 1 99 0
+D0
+a gate leading to the practice chamber.
+~
+door~
+1 0 9053
+D1
+a dim corridor.
+~
+~
+0 -1 9051
+E
+You see the dim corridor...~
+~
+S
+#9053
+Dim Corridor~
+Immediately to your north is the practice chamber.  A sign on the archway tells
+You that the trainer, Baralius, anxiously awaits your "comedic attempts" to 
+best him.  
+~
+66 1048584 0 1 99 0
+D0
+the practice chamber
+~
+door north~
+9 0 9054
+D2
+a dim corridor.
+~
+~
+0 0 9052
+E
+You see the dim corridor...~
+~
+S
+#9054
+Training Room of Baralius~
+The heat and humidity cling to your body as you face the master of this room.  Baralius, the great trainer, stands here, tensed and ready for your attack.
+~
+66 1048584 0 1 99 0
+D2
+a dim corridor
+~
+door south~
+9 0 9053
+D3
+a corridor...could it lead to the Coliseum?
+~
+door west ~
+1 0 9055
+E
+You see the dim corridor...~
+~
+S
+#9055
+Corridor~
+A wide passageway, possibly a path to the Coliseum battle grounds.
+~
+66 1048584 0 1 99 0
+D1
+the training room of Baralius.the training room of Baralius.
+~
+door east~
+9 0 9054
+D3
+A corridor.
+~
+~
+0 -1 9070
+E
+You see the dim corridor...~
+~
+S
+#9056
+Tomb's Entrance~
+You are now in the tombs beneath the Coliseum.
+All gladiators, regardless of how great, how puny, or how rich they were,
+are buried here.  You must be on your guard, however, because Cokren, the 
+Overseer of Corpses, guards his territory jealously.  
+~
+66 1048588 0 35 99 0
+D0
+~
+~
+0 -1 9057
+D4
+The foyer of the Coliseum.
+~
+~
+0 -1 9050
+S
+#9057
+In the Tomb~
+You are wandering around the tomb underneath the battlegrounds.  You notice
+how quiet this place is, and feel slightly uneasy.  Occasionally you hear
+muted footfalls following your own.  Watch out...some of the fresher 
+"residents" didn't come here willingly...
+~
+66 1048584 0 1 99 0
+D0
+~
+~
+0 -1 9058
+D1
+~
+~
+0 -1 9062
+D2
+You wander around this massive tomb of buried gladiators.  Watch out...you
+may fall into a fresh grave!
+~
+~
+0 -1 9056
+D3
+~
+~
+0 -1 9060
+S
+#9058
+In the Tomb~
+You are wandering around the tomb underneath the battlegrounds.  You notice
+how quiet this place is, and feel slightly uneasy.  Occasionally you hear
+muted footfalls following your own.  Watch out...some of the fresher 
+"residents" didn't come here willingly...
+~
+66 1048584 0 1 99 0
+D0
+~
+~
+0 -1 9059
+D2
+~
+~
+0 -1 9057
+S
+#9059
+In the Tomb~
+You are wandering around the tomb underneath the battlegrounds.  You notice
+how quiet this place is, and feel slightly uneasy.  Occasionally you hear
+muted footfalls following your own.  Watch out...some of the fresher 
+"residents" didn't come here willingly...
+~
+66 1048584 0 1 99 0
+D0
+~
+door north~
+13 9053 9064
+D2
+~
+~
+0 -1 9058
+S
+#9060
+In the Tomb~
+You are wandering around the tomb underneath the battlegrounds.  You notice
+how quiet this place is, and feel slightly uneasy.  Occasionally you hear
+muted footfalls following your own.  Watch out...some of the fresher 
+"residents" didn't come here willingly...
+~
+66 1048584 0 1 99 0
+D1
+~
+~
+0 -1 9057
+D3
+~
+~
+0 -1 9061
+S
+#9061
+In the Tomb~
+You are wandering around the tomb underneath the battlegrounds.  You notice
+how quiet this place is, and feel slightly uneasy.  Occasionally you hear
+muted footfalls following your own.  Watch out...some of the fresher 
+"residents" didn't come here willingly...
+~
+66 1048588 0 1 99 0
+D1
+~
+~
+0 -1 9060
+D2
+~
+~
+0 -1 9065
+S
+#9062
+In the Tomb~
+You are wandering around the tomb underneath the battlegrounds.  You notice
+how quiet this place is, and feel slightly uneasy.  Occasionally you hear
+muted footfalls following your own.  Watch out...some of the fresher 
+"residents" didn't come here willingly...
+~
+66 1048584 0 1 99 0
+D1
+~
+~
+0 -1 9063
+D3
+~
+~
+0 -1 9057
+S
+#9063
+In the Tomb~
+You are wandering around the tomb underneath the battlegrounds.  You notice
+how quiet this place is, and feel slightly uneasy.  Occasionally you hear
+muted footfalls following your own.  Watch out...some of the fresher 
+"residents" didn't come here willingly...
+~
+66 1048584 0 1 99 0
+D0
+~
+~
+0 -1 9066
+D3
+~
+~
+0 -1 9062
+S
+#9064
+The Preparation Room~
+This is where Cokren prepares the bodies of the gladiators who died in the
+Coliseum above.  Though this room is dark, murky, and filthy, Cokren seems to
+enjoy his work.  You see naked corpses piled in the corners of the room.
+Where did their equipment go?
+~
+66 269484040 536870912 1 99 0
+D2
+This is where Cokren prepares the bodies of the gladiators who died above in
+the Coliseum.  You notice that he seems to enjoy his job.  You also notice 
+the corpses are naked when he's done with them.  Where did their equipment go?
+~
+door south~
+9 9053 9059
+S
+#9065
+an unfinished chamber~
+This chamber hasn't been enclosed yet.  You notice much of the brick work has
+already been completed, but Cokren must not have gotten around to finishing
+his job.  You notice a rotten odor in here.
+~
+66 1048584 0 1 99 0
+D0
+~
+~
+0 -1 9061
+S
+#9066
+an unfinished chamber~
+This chamber hasn't been enclosed yet.  You notice much of the brick work has
+already been completed, but Cokren must not have gotten around to finishing
+his job.  You notice a rotten odor in here.
+~
+66 1048584 0 1 99 0
+D2
+~
+~
+0 -1 9063
+S
+#9067
+Dim Corridor~
+Water drips irregularly in this warm, dark corridor.  Further to the east you
+hear quite cheering and yelling.  To the west you see the foyer.
+~
+66 8 0 1 99 0
+D3
+~
+~
+0 -1 9050
+E
+new~
+You see the dim corridor...
+~
+S
+#9068
+Second Floor of the Coliseum~
+You are now on the second floor of the Coliseum.  Spectators cheer loudly as
+new gladiators are brought in and slaughtered.  You notice coliseum guards
+moving around, looking for people who would try to spoil the day's festivities.
+~
+66 1048584 0 1 99 0
+D0
+Barfatorium Entrance
+~
+~
+0 -1 9079
+D1
+a brightly lit corridor
+~
+~
+0 -1 9069
+D5
+~
+~
+0 -1 9050
+S
+#9069
+Second Floor of the Coliseum~
+A brightly lighted corridor that looks out upon the stadium floor.
+The sights and sounds of battle overwhelm you.  The skills of those who are
+fighting....and dying!....are impressive to behold.
+~
+66 1048584 0 1 99 0
+D3
+second floor entryway.
+~
+~
+0 -1 9068
+D4
+The office of the Coliseum big man, Caesar Smurf!
+~
+~
+0 -1 9075
+S
+#9070
+Coliseum Terrace~
+To the south is the entrance to the fighting grounds.  If you continue to the
+west, you will follow a passage way back to the foyer.  Hrm... But it appears
+that there may be another exit here.  The wall looks slightly discolored.
+~
+66 1048584 0 1 99 0
+D0
+Hidden passage.
+~
+~
+16 -1 9095
+D1
+~
+~
+0 -1 9055
+D2
+The battlegrounds.
+~
+~
+0 -1 9071
+D3
+The corridor.
+~
+~
+0 -1 9072
+E
+You see the dim corridor...~
+~
+S
+#9071
+Battlegrounds~
+You see an expansive area meant solely for death.  You are impressed by the 
+magnitude that people place upon fighting and slaughter.  Taking a deep breath, you plunge into the fray.
+~
+66 1048584 0 1 99 0
+D0
+The Terrace.
+~
+~
+0 -1 9070
+D5
+Battlegrounds, Room 1.
+~
+~
+0 -1 9073
+E
+You see the dim corridor...~
+~
+S
+#9072
+The Corridor~
+Following this path leads you back to the foyer.  Hmm... Have you gone upstairs and downstairs?
+~
+66 1048584 0 1 99 0
+D1
+The Terrace.
+~
+~
+0 -1 9070
+D3
+the Foyer.
+~
+~
+0 -1 9050
+E
+You see the dim corridor...~
+~
+S
+#9073
+Battle grounds, Room 1.~
+Blood, bone and bits of flesh litter the ground.  
+Beware.  In this room, all is possible.
+~
+66 1074790408 537919488 1 99 0
+D2
+Battlegrounds, Room 2.
+~
+~
+0 -1 9074
+D4
+the entrance to the battleground.
+~
+~
+0 -1 9071
+E
+You see the dim corridor...~
+~
+S
+#9074
+Battle grounds, Room 2.~
+Teeth, toes and bits of organ decorate the room, giving everything a festive, Jeffrey Dahmer-ish touch.
+~
+66 1074790408 537919488 1 99 0
+D0
+Battlegrounds, Room 1.
+~
+~
+0 -1 9073
+D1
+Another bloody arena room.
+~
+~
+0 -1 9077
+E
+You see the dim corridor...~
+~
+S
+#9075
+Second Floor of the Coliseum~
+Caesar Smurf is big, blue and BAD!
+Don't bite his tale, or he'll take your head and beat it like a drum.
+~
+66 1048584 0 1 99 0
+D1
+A passageway.
+~
+~
+0 -1 9084
+D4
+The Uppermost level.  Nothing for you up there.
+~
+~
+0 -1 9076
+D5
+The second floor entry way.
+~
+~
+0 -1 9069
+S
+#9076
+Second Floor of the Coliseum~
+There is nothing here.  This has a great view, though.  You can see all of Rome from here.
+Not a bad hang out, at that.
+~
+66 1048584 0 1 99 0
+D5
+Caesar Smurfs office
+~
+~
+0 -1 9075
+S
+#9077
+Battle grounds, Room 3.~
+A spleen here, a liver there and pieces of ear are strewn about in an almost
+artistic fashion.  Pausing to admire the intricasies of the atmosphere around
+you, you notice that it smells bad here.
+~
+66 1074790408 536870912 1 99 0
+D3
+Another bloody arena room.
+~
+~
+0 -1 9074
+D5
+The Pit of Eternal Sulfur
+~
+~
+9 0 9078
+E
+You see the dim corridor...~
+~
+S
+#9078
+Sulfur's Stinky Sanctuary~
+The demon Sulfur lives in this abhorrent pit.  The stench of death and decay 
+looms heavily here.  Beware.
+~
+66 1048584 0 1 99 0
+D4
+Another bloody arena room.
+~
+~
+9 0 9077
+E
+You see the dim corridor...~
+~
+S
+#9079
+Barfatorium entry way~
+The rich and the powerful gather here regularly to splurge and glut themselves
+on the abundance of food they have.
+Be careful...there may be puddles!
+~
+66 1048584 0 1 99 0
+D0
+Barfatorium communal room
+~
+~
+0 -1 9080
+D2
+Second floor entry way.
+~
+~
+0 -1 9068
+S
+#9080
+Barfatorium communal room~
+All around this area walk men with full bellies and messy clothes.
+You look to the left and see more of them.  To your right is a fountain, 
+presumably to clean yourself with.
+~
+66 1048584 0 1 99 0
+D1
+The Barfatorium fountain
+~
+~
+0 -1 9081
+D2
+The Barfatorium entrance.
+~
+~
+0 -1 9079
+D3
+Barfatorium communal room
+~
+~
+0 -1 9082
+S
+#9081
+Barfatorium Fountain~
+This fountain has uses other than cleanliness.  You lean forward and detect a 
+sharp smell.  Hrm... Is that fermented barley?  Perhaps you should take a sip...
+~
+66 1048584 0 1 99 0
+D3
+Barfatorium communal room
+~
+~
+0 -1 9080
+D5
+The hut of the happiest gladiator that ever walked the Coliseum.
+~
+~
+0 -1 9083
+S
+#9082
+Barfatorium communal room~
+Ah, the glorious scents that hang on the air!  Why, you can smell mutton, cheese and grapes!  But there is a faintly acrid smell as well.
+~
+66 1048584 0 1 99 0
+D1
+Barfatorium communal room
+~
+~
+0 -1 9080
+S
+#9083
+Smileus Gratisimus' Hut~
+Smileus Gratisimus has survived endless struggles and has managed to maintain
+honor and respect without taking the lives of those he fought.  He is a nice,
+friendly gladiator.  But he will fight if provoked.
+~
+66 1048584 0 1 99 0
+D4
+The Barfatorium Fountain
+~
+~
+0 -1 9081
+S
+#9084
+Passageway~
+This passageway seems remotely neglected.  Though it connects to Caesar Smurf's office, it doesn't look well-maintained.  Hmm... 
+~
+66 1048584 0 1 99 0
+D1
+Passageway.
+~
+~
+0 -1 9085
+D3
+Caesar Smurf's office.
+~
+~
+0 -1 9075
+S
+#9085
+Passageway~
+This passageway seems remotely neglected.  Though it connects to Caesar Smurf's office, it doesn't look well-maintained.  Hmm... 
+~
+66 1048584 0 1 99 0
+D1
+Passageway
+~
+~
+0 -1 9086
+D3
+Passageway.
+~
+~
+0 -1 9084
+S
+#9086
+Passageway~
+This passageway seems remotely neglected.  Though it connects to Caesar Smurf's office, it doesn't look well-maintained.  Hmm... 
+~
+66 1048584 0 1 99 0
+D0
+Abandoned passage.
+~
+~
+0 -1 9089
+D2
+A small room.
+~
+~
+0 -1 9087
+D3
+Passageway
+~
+~
+0 -1 9085
+S
+#9087
+A small dungeon.~
+This small dungeon held those that had displeased Caesar Smurf.
+However, due to the dust and small bones that mark the decoration of this place, it appears that this dungeon hasn't been used in a long time.
+~
+66 1048584 0 1 99 0
+D0
+Passageway
+~
+~
+0 -1 9086
+D2
+Dungeon holding room.
+~
+~
+0 -1 9088
+S
+#9088
+Dungeon Holding Room.~
+This dungeon's restraining bars are so rusted that they give easily in your hands.  You step through into the cell and see the skeletons.
+Odd... The skeletons are starting to shift.  Could they be alive?
+~
+66 1048584 0 1 99 0
+D0
+The dungeon entryway.
+~
+~
+0 -1 9087
+S
+#9089
+Abandoned passage.~
+This passageway continues to the north.  What will you find?  
+~
+66 1048584 0 1 99 0
+D0
+Abandoned passage.
+~
+~
+0 -1 9090
+D2
+Passageway
+~
+~
+0 -1 9086
+S
+#9090
+Abandoned passage.~
+This passageway continues to the north.  What will you find?  
+~
+66 1048584 0 1 99 0
+D0
+Abandoned passage.
+~
+~
+0 -1 9091
+D2
+Abandoned passage.
+~
+~
+0 -1 9089
+S
+#9091
+Abandoned passage.~
+This passageway makes an abrupt turn towards the west.  Near the end you see a well-lit room.
+~
+66 8 0 1 99 0
+D2
+Abandoned passage.
+~
+~
+0 -1 9090
+D3
+A dimly lit passage.
+~
+~
+0 -1 9092
+S
+#9092
+Abandoned passage.~
+This passageway is very short.  At the end you see a small room with a man standing inside it.
+~
+66 8 0 1 99 0
+D1
+Abandoned passage.
+~
+~
+0 -1 9091
+D3
+A short passage.
+~
+~
+0 -1 9093
+S
+#9093
+Abandoned passage.~
+Immediately to your west you see the final room in this passage.  Inside appears to be a large, monstrous thing.
+~
+66 8 0 1 99 0
+D1
+Short passage.
+~
+~
+0 -1 9092
+D3
+The room of Titus Bloatus.
+~
+~
+0 -1 9094
+S
+#9094
+Titus' room.~
+Titus Bloatus lives in this room.
+He has occupied this room for who knows how many years.
+He is angry, powerful and insane.
+Good luck.
+~
+66 8 0 1 99 0
+D1
+Abandoned passage.
+~
+~
+0 -1 9093
+S
+#9095
+Hidden Passage~
+Hmm... This passage isn't in the blue prints.  Could this be some secret lair?
+~
+66 1048584 0 1 99 0
+D0
+Hidden passage.
+~
+~
+0 -1 9096
+D2
+Coliseum Terrace
+~
+~
+0 -1 9070
+E
+You see the dim corridor...~
+~
+S
+#9096
+Hidden Passage~
+The passage continues to the north.  Or you can always turn back to the south.
+~
+66 1048584 0 1 99 0
+D0
+Hidden passage 
+~
+~
+0 -1 9097
+D2
+Hidden passage entrance
+~
+~
+0 -1 9095
+E
+You see the dim corridor...~
+~
+S
+#9097
+Hidden Passage~
+The passage continues to the north.  Or you can always turn back to the south.
+~
+66 1048584 0 1 99 0
+D0
+Hidden passage.
+~
+~
+0 -1 9098
+D2
+Hidden passage
+~
+~
+0 -1 9096
+E
+You see the dim corridor...~
+~
+S
+#9098
+Hidden Passage~
+The hidden passage makes a sharp turn towards the east.
+In this passage way you can hear grunting coming from the next room.
+~
+66 1048584 0 1 99 0
+D1
+The room of the Mad Battler.
+~
+~
+9 0 9099
+D2
+Hidden passage.
+~
+~
+0 -1 9097
+E
+You see the dim corridor...~
+~
+S
+#9099
+Mad Battler's Room~
+This room houses a true beast.  The Mad Battler was the original trainer of 
+all gladiators.  His prowess as a fighter was legendary.  There was no move
+he couldn't do.  No enemy he wouldn't face.
+But then he snapped.  All the blood, hatred and glory went to his head.  He
+chose to attack Caesar and take control of the Coliseum.  He was stopped by 
+warriors that he himself trained, and he was exiled to this very room.
+~
+66 1048584 0 1 99 0
+D3
+Hidden passage.
+~
+~
+9 0 9098
+E
+You see the dim corridor...~
+~
+S
+$~
+#999999

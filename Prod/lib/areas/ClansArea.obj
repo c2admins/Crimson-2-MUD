@@ -1,0 +1,395 @@
+#400
+obj step ladder~
+100
+a large V shaped ladder~
+someone has left a large V shaped ladder here~
+~
+25 262144 0 1
+1000000 1000000 13 0
+20 5 5
+#401
+obj notice IOU~
+0
+Notice of IOU~
+Questmaster has given you a Notice of IOU.~
+~
+8 262152 0 0
+0 0 10 0
+1 1000000 1000000
+#402
+obj table oaken large~
+1
+A large oaken table~
+A large oaken table dominates the room.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+E
+table~
+The time and care of generations of clan wolf members went into
+the polishing and caring for this large table given to the clan
+from the heart of the earth itself by Mother Gaia.
+~
+#403
+obj marble fountain Court AA~
+100
+&wthe common &Km&wa&Wrb&wl&Ke &pwine &Kf&wo&Wunta&wi&Kn &wof &WAA&n~
+&W A giant &Km&wa&Wrb&wl&Ke f&wo&Wunta&wi&Kn &Wstands in the center of the courtyard.&n~
+~
+17 262144 0 0
+10000000 10000000 2 0
+2000000 5 5
+E
+marble fountain fount~
+&wYou are immediately struck by the sheer size and beauty of this fabulous &Km&wa&Wrb&wl&Ke f&wo&Wunta&wi&Kn&w.
+It stands over 10 feet tall and shoots &pwine&w straight up into the air, creating a fine
+mist that blankets the &Ggrass&w and scents the air.  As you bend down to breathe in the
+wonderful aroma, you notice &rrose petals&w floating on the surface.&n
+~
+#404
+obj extra bulletin board 1~
+100
+A spare bulletin board~
+A spare bulletin board hangs on a wall.~
+~
+13 8 0 0
+0 0 0 0
+1 5 5
+#405
+obj extra bulletin board 2~
+100
+A spare bulletin board~
+A spare bulletin board hangs on a wall.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+E
+board~
+~
+#406
+obj extra bulletin board 3~
+100
+A spare bulletin board~
+A spare bulletin board hangs on a wall.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+E
+board~
+~
+#407
+obj wolf key~
+100
+Wolf Key~
+A key with the head of a wolf lies discarded here.~
+~
+18 0 0 24581
+0 0 10 0
+1 5 5
+#408
+obj ebony chest~
+100
+an ebony chest~
+An ebony chest lies here.~
+~
+15 0 0 0
+100 15 409 0
+40 100 30
+#409
+obj raistlin chest key~
+32767
+Raistlin's Chest Key~
+A key made of a dragon's soul.~
+~
+18 0 0 1
+408 0 0 0
+1 5 50
+#410
+obj extra bulletin board 4~
+100
+A spare bulletin board~
+A spare bulletin board hangs on a wall.~
+~
+13 8 0 0
+0 0 0 0
+0 100 0
+E
+board~
+~
+#411
+obj extra bulletin board 5~
+100
+A spare bulletin board~
+A spare bulletin board hangs on a wall.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+E
+board~
+This is the board of Clan BlackHand
+~
+#412
+obj key talons~
+0
+Talons key~
+A Talons key lies here.~
+~
+18 0 0 1
+0 0 10 0
+1 5 5
+#413
+obj fountain grey~
+100
+The Grey fountain~
+A large grey stone fountain rests here, bubbling with sparkling waters.~
+~
+17 8 0 0
+50 50 0 0
+500 3000 1000
+#414
+obj Special Projects Board~
+100
+Special Projects Board~
+A bulletin board with ideas for special projects stands here~
+~
+13 8 0 0
+0 0 0 0
+1 5 5
+#415
+obj whiterose bulletin board~
+100
+Whiterose Bulletin Board~
+The Whiterose bulletin board hangs on the wall~
+~
+13 8 0 0
+0 0 0 0
+1 5 5
+E
+board~
+~
+#416
+obj chest~
+100
+a chest~
+A chest is sitting here.~
+~
+15 0 0 0
+100 1 0 0
+40 100 30
+#417
+obj marble fountain PentH AA~
+100
+&wthe greater &Km&wa&Wrb&wl&Ke &pwine&K f&wo&Wunta&wi&Kn &wof &WAA&n~
+&WA truly magnificent &Km&wa&Wrb&wl&Ke f&wo&Wunta&wi&Kn&W towers above you.&n~
+~
+17 262144 0 1
+50000000 50000000 2 0
+2000000 5 5
+E
+marble fountain wine~
+&wYep...this is a damn fine fountain.  Even better and more impressive than the one
+downstairs.  Really.  Wine tastes better up here, too.  Seriously.&n
+~
+#418
+obj astral plane~
+100
+&Kthe Astral Plane&n~
+&KA thick fog covers the doors between dimensions.&n~
+~
+15 0 0 0
+100 15 428 0
+50 100 5
+#419
+obj Hope Chest~
+100
+A Hope Chest~
+A Hope Chest lies here.~
+~
+15 0 0 0
+100 5 0 0
+100 100 5
+#420
+obj key Pandora Psychosis~
+100
+The key to Pandora's Box~
+The key to Pandora's Box lies here.~
+~
+18 0 0 1
+421 0 0 0
+1 5 5
+#421
+obj box pandora psychosis~
+100
+Pandora's Box~
+Pandora's Box lies here.~
+~
+15 0 0 0
+100 15 420 0
+100 5 5
+#422
+obj blood pack pool chest~
+1
+a &Wp&go&Ro&Gl &Ko&rf &rb&Rl&ro&Ro&rd&n~
+A &Wp&go&Ro&Gl &Ko&rf &rb&Rl&ro&Ro&rd&n is here, mounted of a pile of bones.~
+~
+15 8 0 0
+100 15 423 0
+1 5 5
+#423
+obj vampiric tooth blood pack key~
+100
+a &yv&Ka&Gm&Bp&Yi&gr&ri&wc &Wt&wo&yo&Yt&Rh&n~
+A &yv&Ka&Gm&Bp&Yi&gr&ri&wc &Wt&wo&yo&Yt&Rh&n is lying here, dripping &rb&Rl&ro&Ro&rd&n.~
+~
+18 8 0 1
+422 0 0 0
+1 5 5
+#424
+obj whiterose vertigo box apocalyptic envy~
+1
+&GVer&gtig&Go's &ybox &Wof &RApo&rcalyp&Rtic &KE&Wnv&Ky&n~
+&GVer&gtig&Go's &ybox &Wof &RApo&rcalyp&Rtic &KE&Wnv&Ky&n is here, perched on a large &Wwhite rose&n.~
+~
+15 8 0 0
+100 15 425 0
+1 5 5
+#425
+obj piece flint key~
+32767
+a piece of &KF&yl&wi&yn&Kt&n~
+A piece of &KF&yl&wi&yn&Kt&n is here in a pool of &Rbl&roo&Rd&n.~
+~
+18 0 0 1
+424 0 0 0
+1 5 5
+#426
+obj large pile glittering gold~
+100
+&Ya large pile of glittering gold&n~
+&YA large pile of glittering gold is here.&n~
+~
+15 0 0 0
+250 15 427 0
+1 5 5
+#427
+obj daemonic armament~
+0
+Daemonic Armament~
+Daemonic Armament lies here.~
+~
+18 0 0 1
+426 0 0 0
+1 5 5
+#428
+obj astral projection~
+0
+&YAstral Projection&n~
+An &YAstral Projection&n lies here.~
+~
+18 536870912 0 1
+418 0 0 0
+2 0 5
+#429
+obj gear key AA~
+100
+&Kt&wh&Ke &wG&Ke&wa&Kr&n~
+&wa small &Kg&wea&Kr &wis out of place.&n~
+~
+18 675282944 1536 1
+0 0 0 0
+1 1 1
+#430
+obj vortex transdimensional chest AA~
+100
+&GT&gr&Ga&gn&Gs&gd&Gi&gm&Ge&gn&Gs&gi&Go&gn&Ga&gl&P V&po&Pr&pt&Pe&px&n~
+&wA &P~&p`&G,&g^&G`&p.&P'&GT&gr&Ga&gn&Gs&gd&Gi&gm&Ge&gn&Gs&gi&Go&gn&Ga&gl &PV&po&Pr&pt&Pe&px&g.&G'&g~&p,&P`&p.&P. &whas torn through reality.&n~
+~
+15 262144 0 0
+1000000000 5 0 0
+2000 5 5
+#431
+obj seesaw teeter-totter AA~
+100
+&wA &E&x&fSee&x&fSaw&E&w.~
+&E&wA large &E&x&fTeeTer&E&x-&E&x&fToTTer&E&w is &E&x&fSee&E&x&fSaw&E&xing&E&w in the center of the room.&E~
+~
+25 134479872 0 0
+0 0 0 0
+2147483647 5 5
+#432
+obj enigma cloth imm~
+32767
+&x&fE&E&Gnig&E&rmatic&E&y Cloth&E&w of&E&c Holding&E~
+A strange bundle is tossed here in the corner.~
+~
+15 134217760 64 433
+2147483647 1 0 0
+1 2147483647 5
+A
+25 127
+A
+40 50
+A
+41 50
+A
+42 50
+#433
+obj ivory fountain zul kiras~
+100
+&WI&wvor&Wy &Kfountain &wof &yZul Kiras&n~
+&wA &Wi&wvor&Wy &Wf&wountai&Wn &wrests here.&n~
+~
+17 0 0 0
+10000 10000 11 0
+2000 5 5
+#434
+obj hole key~
+32767
+key to a hole~
+A key to a hole.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#435
+obj funk box~
+75
+&xT&xh&xE &xf&xU&xn&xK &xb&xO&xx&n~
+&xT&xh&xE &xf&xU&xn&xK &xb&xO&xx&n~
+~
+15 0 0 0
+4000 15 436 0
+400 5 5
+#436
+obj funk key~
+32767
+&xF&xu&xN&xk &xK&xe&xY&n~
+&xF&xu&xN&xk &xK&xe&xY&n~
+~
+18 0 0 1
+435 0 0 0
+1 5 5
+#437
+obj whiterose altar cleric~
+100
+&KTet&wrag&Wram&wmat&Kon &wAl&Kt&war&n~
+&wThe &KTet&wrag&Wram&wmat&Kon &wAl&Kt&war&n is resting in the center of the room~
+~
+15 8 0 0
+100 15 438 0
+1 5 5
+#438
+obj whiterose seal key~
+32767
+&KTet&wrag&Wram&wmat&Kon &KS&wea&Kl&n~
+&wThe &KTet&wrag&Wram&wmat&Kon &KS&wea&Kl&n lies in a pool of &wPro&Kz&wium.&n~
+~
+18 0 0 1
+437 0 0 0
+1 5 5
+$~
+#999999
