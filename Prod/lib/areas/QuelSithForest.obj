@@ -1,0 +1,283 @@
+#8500
+obj barkskin shield~
+15
+&ya barkskin shield&n~
+A small shield made of bark lies here.~
+~
+9 524544 0 513
+1 0 0 0
+9 2600 300
+A
+18 1
+A
+1 1
+#8501
+obj dryad charm~
+8
+&Ga &ydryad's &Gcharm&n~
+A small charm shaped like an acorn lies here on the ground.~
+~
+9 134253632 8 5
+1 0 0 0
+1 5600 1000
+A
+19 1
+A
+18 1
+A
+12 5
+#8502
+obj leather pouch~
+9
+&ya small leather pouch&n~
+A small pouch made from leather lies on the ground.~
+~
+15 524288 0 2049
+62 0 0 0
+5 100 10
+A
+13 10
+A
+35 10
+#8503
+obj leaf shroud~
+7
+&wa &Kshroud &wof &Gleaves&n~
+Hundreds of leaves float and twist around, as if blown by an unseen wind.~
+~
+12 135277568 0 1025
+0 0 10 0
+3 10 10
+A
+18 1
+A
+19 2
+A
+14 10
+#8504
+obj hero lantern~
+9
+&ca hero's &Ylantern&n~
+A very bright lantern lies here, several runes have been inscribed on it.~
+~
+1 134742016 0 65537
+0 0 99 0
+6 4000 400
+A
+18 1
+A
+26 -1
+#8505
+obj dragon tooth~
+10
+&Ka dragon's &Wtooth&n~
+A large tooth from a dragon rests here.~
+~
+5 544768 0 8193
+0 7 3 11
+4 2000 100
+A
+18 1
+#8506
+obj faerie dragon tail~
+10
+&ra faerie dragons tail&n~
+The tail of a very small lizard-like creature lies here.~
+~
+9 558080 0 262145
+10 0 0 0
+3 5000 100
+A
+19 2
+A
+18 1
+A
+5 1
+A
+3 2
+#8507
+obj forest robe~
+9
+&ya robe of the &Gforest&n~
+A long glowing robe woven with beautiful colors lies here.~
+~
+9 32768 8 9
+6 0 0 0
+10 6500 500
+A
+19 1
+A
+12 10
+A
+4 2
+#8508
+obj faerie gauntlets~
+8
+&wa set of &pfairie&w gauntlets&n~
+A pair of gauntlets made to fit small hands lies here.~
+~
+9 16777216 8 129
+6 0 0 0
+3 800 100
+A
+19 1
+A
+2 2
+#8509
+obj pixie bow~
+12
+&Ya pixie &ybow&n~
+A tiny golden bow lies here.~
+~
+5 16794624 8 8193
+1 5 5 6
+4 5000 300
+A
+18 1
+#8510
+obj scaled gauntlets~
+10
+&ca pair of &Gscaled&c gauntlets&n~
+A pair of gauntlets made from the hide of a scaly beast rest here.~
+~
+9 1069057 0 129
+10 0 0 0
+6 1000 100
+A
+13 15
+A
+19 1
+#8511
+obj blood red potion~
+15
+&ra blood red potion&n~
+A potion the color of blood lies here.~
+~
+10 1 0 16385
+30 39 75 0
+2 2000 200
+#8512
+obj gnomish helm helmet~
+9
+&wa &Wgnomish&w helm&n~
+A smallish helm worn by gnomes rests here.~
+~
+9 525568 0 17
+1 0 0 0
+5 1000 100
+A
+19 1
+A
+5 1
+#8513
+obj electrum sword~
+7
+&wan &celectrum &wsword&n~
+A sword made from electrum is here.~
+~
+5 134226945 8 8193
+0 4 7 3
+7 7500 500
+A
+18 1
+A
+37 -1
+#8514
+obj wand protection~
+8
+&ya wand of &Pprotection&n~
+A bright silver wand lies here unattended.~
+~
+3 557058 0 16385
+35 3 3 36
+2 4000 200
+A
+17 -5
+#8515
+obj blessed cudgel~
+14
+&ya blessed cudgel&n~
+A cudgel used by druids lies here.~
+~
+5 524545 0 8193
+0 4 4 7
+7 500 20
+A
+18 1
+#8516
+obj druid staff~
+8
+&ya Druid staff&n~
+A staff used by druids lies here.~
+~
+12 40960 8 16385
+0 0 10 0
+8 1000 500
+A
+19 2
+A
+4 1
+#8517
+obj small silver blade~
+15
+&Wa small &wsilver&W blade&n~
+A small blade made from silver lies here collecting dust.~
+~
+5 17301504 0 8193
+32 4 4 11
+3 300 20
+#8518
+obj golden potion~
+7
+&Ya small golden potion&n~
+A vial filled with a golden liquid lies here.~
+~
+10 0 0 16385
+20 9 68 0
+3 8200 300
+#8519
+obj platinum axe~
+2
+&Ka &wplatinum &Kaxe&n~
+A great axe fashioned from platinum lies here.~
+~
+5 68174849 0 8193
+0 4 8 3
+1 5 5
+A
+19 2
+#8520
+obj displacement cloak~
+1
+&Ga cloak of &Kdisplacement&n~
+A black cloak lies here collecting dust.~
+~
+9 4096 8 5
+13 0 0 0
+7 3000 500
+A
+19 1
+A
+36 -1
+A
+13 7
+#8521
+obj pile gold~
+10
+&YA huge pile of gold&n~
+A huge pile of gold lies here.~
+~
+20 0 0 1
+100000 0 0 0
+1 5 5
+#8522
+obj test sword~
+32767
+a testing sword~
+a testing sword has lost its owner~
+~
+5 0 0 8193
+0 10 10 11
+1 5 5
+$~
+#999999

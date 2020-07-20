@@ -1,0 +1,610 @@
+#5450
+obj roots mass~
+50
+&ya tangled mass of roots&n~
+A tangled mass of roots lies at your feet.~
+~
+19 0 0 16385
+15 0 10 0
+3 20 10
+#5451
+obj bracelet clover clovers~
+25
+&ya &Gcl&go&Gv&ge&Gr &ybracelet&n~
+A small pile of clovers lies here.~
+~
+11 16777216 0 4097
+0 0 10 0
+4 10000 3000
+A
+6 1
+A
+13 5
+A
+12 5
+#5452
+obj ring clover~
+10
+&ya &Gcl&go&Gv&ge&Gr &yring&n~
+A small pile of clovers lies here.~
+~
+11 16777216 0 3
+0 0 10 0
+2 500 300
+A
+6 1
+A
+2 2
+#5453
+obj cravat silken~
+10
+&wa s&Wilke&wn &ccravat&n~
+A crumpled silken cravat lies here.~
+~
+11 17301504 0 5
+0 0 10 0
+3 12000 3000
+A
+12 25
+A
+4 1
+#5454
+obj jacket smoking~
+10
+&Ka sm&wo&rking jac&wk&Ket&n~
+A luxurious smoking jacket lies in a heap on the floor.~
+~
+11 16777216 0 1025
+0 0 10 0
+7 6000 500
+A
+6 2
+A
+13 -10
+#5455
+obj chain expensive silver~
+13
+&wan &Wex&wpens&Kiv&we cha&Win&n~
+An expensive silver chain lies here.~
+~
+11 17301504 0 5
+0 0 10 0
+8 24000 6000
+A
+19 1
+A
+13 20
+#5456
+obj band silver ring~
+10
+&wa wide si&Klv&wer band&n~
+A wide silver band has fallen on the floor.~
+~
+11 17301504 0 3
+0 0 10 0
+4 4000 1000
+A
+32 -1
+A
+19 1
+A
+18 1
+#5457
+obj vial clear~
+100
+a clear vial~
+A small clear vial stands here.~
+~
+10 262144 0 1
+13 36 0 0
+2 1500 5
+#5458
+obj vial black~
+100
+&Ka black vial&n~
+A small black vial stands here.~
+~
+10 262144 0 1
+25 98 0 0
+1 1500 5
+#5459
+obj vial red~
+100
+&wa &rred vial&n~
+A small red vial stands here.~
+~
+10 262144 0 1
+25 106 0 0
+1 1500 5
+#5460
+obj shield oaken tree~
+80
+&yan oaken shield&n~
+A large hunk of a tree lies here.~
+~
+9 0 0 513
+10 0 0 0
+10 1000 400
+#5461
+obj crown flowered dogwood~
+10
+&ya &Wfl&Yow&Wer&Yed &ycrown&n~
+A pile of large dogwood blossoms lies here.~
+~
+11 17301504 0 17
+0 0 10 0
+3 20000 5000
+A
+1 2
+A
+6 1
+#5462
+obj wings hymenopterous~
+10
+&chy&Cm&we&Wnopte&wr&Co&cus &Kw&Wing&Ks&n~
+A pair of hymenopterous wings is here.~
+~
+11 17826817 0 3073
+0 0 10 0
+4 50000 12500
+A
+14 10
+A
+2 1
+A
+19 2
+#5463
+obj dagger guardian's~
+5
+&wa &Kgu&wa&brdi&wa&Kn's &Kdagger&n~
+A small, yet elaborate dagger is here.~
+~
+5 17825792 0 24577
+0 3 10 11
+6 120000 16000
+A
+18 3
+A
+19 3
+#5464
+obj ring guardian's~
+5
+&wa &Kgu&wa&brdi&wa&Kn's &Kring&n~
+An intricately carved ring lies here.~
+~
+9 17825792 0 3
+5 0 48 0
+2 26000 6500
+A
+5 1
+A
+19 2
+A
+13 10
+#5465
+obj helm guardian's~
+50
+&wa &Kgu&wa&brdi&wa&Kn's &Khelm&n~
+A guardian's helm lies here.~
+~
+11 17825792 0 17
+0 0 10 0
+12 32000 8000
+A
+27 -1
+#5466
+obj cup fluted golden~
+100
+&Ga f&glute&Gd &Yg&yolde&Yn &Yd&ya&Yff&yo&Yd&yi&Yl&g cup&n~
+A fluted golden daffodil cup lies here.~
+~
+17 0 0 1
+5 5 6 0
+20 100 40
+#5467
+obj gown flowing silver~
+10
+&wa &Wflowing &Ksi&wlv&Ker &wgown&n~
+A glowing silver pile of cloth lies here.~
+~
+11 17825793 0 9
+0 0 10 0
+5 65000 7500
+A
+4 1
+A
+2 1
+A
+12 10
+#5468
+obj earrings silver hoop~
+10
+&Ksi&wlv&Ker &whoop earrings&n~
+Two silver hoops lie here.~
+~
+11 17302529 0 17
+0 0 10 0
+3 35000 4000
+A
+3 1
+A
+12 10
+#5469
+obj sandals laced silver~
+10
+&Wlaced &Ksi&wlv&Ker &wsandals&n~
+A delicate pair of sandals lies here.~
+~
+11 17302529 0 65
+0 0 10 0
+4 20000 2000
+A
+2 1
+A
+14 10
+A
+18 1
+#5470
+obj cloak hooded~
+10
+&wa &ydirty &Khooded &yc&Kloa&yk&n~
+An old, dirty cloak lies here.~
+~
+11 17301504 0 1025
+0 0 10 0
+9 60000 15000
+A
+27 -1
+A
+26 -1
+#5471
+obj strap leather~
+10
+&ya leather strip&n~
+A short strip of leather lies here.~
+~
+9 16777216 0 4097
+5 0 0 0
+3 5000 1000
+A
+1 1
+#5472
+obj spade hand-held~
+10
+&wa &yrusty &Khand spade&n~
+A rusty hand-held spade lies here.~
+~
+5 17301504 0 8193
+1 3 4 11
+2 50000 8000
+A
+19 1
+#5473
+obj fruit juicy piece~
+10
+&Rj&Yuic&Ry &wpiece of &rfruit&n~
+A juicy piece of fruit lies here.~
+~
+10 262144 0 16385
+25 16 10 0
+1 50 5
+#5474
+obj wings shimmering~
+10
+&wa pair of &wsh&Wimm&we&Wri&wng &wwin&ygs&n~
+A pair of shimmering wings has fallen here. ~
+~
+9 16777216 0 1025
+9 0 0 0
+5 6000 1500
+A
+2 1
+#5475
+obj gloves lacey~
+10
+&Wlacey&w gloves&n~
+A pile of frail lace lies at your feet.~
+~
+11 16777216 0 129
+0 0 10 0
+1 500 125
+A
+12 5
+#5476
+obj parasol lacey~
+10
+&wa &Wlacey &wparasol&n~
+A lacey parasol lies here.~
+~
+3 786432 0 16385
+20 5 2 99
+4 500 5
+#5477
+obj bracelet cameo~
+10
+&wa &Wcameo &wbra&Kce&wlet&n~
+A cameo lies here on a pile of lace.~
+~
+9 17301504 0 4097
+5 0 0 0
+2 10000 3000
+A
+13 5
+A
+18 1
+#5478
+obj scarf mourning~
+10
+&Ksca&wrf&W of mou&wrn&King&n~
+A black fringed scarf lies crumpled here.~
+~
+11 16777216 0 5
+0 0 10 0
+2 1000 100
+A
+13 -15
+A
+6 -1
+A
+4 1
+#5479
+obj handkerchief tear stained~
+10
+&Wt&Cea&Wr &wstained &Whandkerchief&n~
+A stained handkerchief lies here.~
+~
+13 0 0 16385
+0 0 10 0
+2 1000 100
+A
+12 -15
+#5480
+obj boots dainty heeled~
+10
+&Kdainty heeled boots&n~
+A tiny black pair of heeled boots is here.~
+~
+11 16777216 0 65
+0 0 10 0
+3 1000 100
+A
+14 -15
+#5481
+obj veil black~
+10
+&Ka thin black veil&n~
+A pile of black lace lies here.~
+~
+11 16777216 0 17
+0 0 10 0
+2 1000 100
+A
+1 -2
+A
+3 1
+#5482
+obj sash healer~
+10
+&KSash&w of the &YH&we&Wal&we&Yr&n~
+A long, fringed sash lies here.~
+~
+11 17301504 0 2049
+75000 0 10 0
+3 75000 5000
+A
+12 15
+A
+4 1
+A
+17 5
+#5483
+obj blade regeneration~
+10
+&Kblade &wof &bre&cgen&Cer&cati&bon&n~
+A blade of regeneration lies here.~
+~
+5 17825792 0 8193
+0 9 4 3
+3 10000 2500
+A
+19 1
+A
+37 -1
+#5484
+obj leggings enchanted~
+25
+&We&Gnc&ghan&Gte&Wd &yleggings&n~
+A pair of enchanted leggings is here for you.~
+~
+9 1572864 0 33
+20 0 0 0
+4 75000 5000
+A
+18 2
+#5485
+obj sash mother~
+10
+&KSash &wof the &pM&rothe&pr&n~
+A sash of the mother lies before you.~
+~
+9 17301504 0 2049
+6 0 0 0
+3 20000 5000
+A
+12 10
+A
+4 1
+#5486
+obj dagger sun~
+10
+&Kdagger &wof the &Ysun&n~
+A dagger of the sun lies here.~
+~
+5 17301505 0 8193
+0 4 4 11
+2 40000 10000
+A
+19 2
+#5487
+obj leggings healer's~
+10
+&wh&We&Ca&Bl&Ce&Wr&w's &yleggings&n~
+A pair of healer's leggings is here.~
+~
+9 16777216 0 33
+5 0 0 0
+4 1600 400
+A
+3 1
+#5488
+obj gauntlets blue~
+10
+&bdark blue gauntlets&n~
+A pair of dark blue gauntlets lies here.~
+~
+11 17301505 0 129
+0 0 10 0
+4 80000 6000
+A
+18 2
+A
+1 1
+#5489
+obj staff bashing~
+10
+&ybashing staff&n~
+A staff good for bashing lies here.~
+~
+5 16777216 8 8193
+32768 4 4 6
+7 90000 12000
+#5490
+obj wings coleopterous~
+10
+&Kcol&weo&Wpt&wer&Kous&n &Kwings&n~
+A pair of armored wings lies here.~
+~
+9 17301504 0 1025
+10 0 0 0
+8 30400 7600
+A
+19 1
+#5491
+obj gauntlets red~
+10
+&rred gauntlets&n~
+A pair of red gauntlets lies here.~
+~
+9 17825792 0 129
+15 0 0 0
+5 100000 30000
+A
+19 2
+A
+13 10
+#5492
+obj shortsword flaming~
+8
+&rfl&Ra&Ym&Ri&rng &wshort&Ksword&n~
+A flaming shortsword is here.~
+~
+5 17825794 0 8193
+65536 5 5 3
+9 100000 25000
+A
+1 1
+A
+19 3
+#5493
+obj wings lepidopterous~
+10
+&clep&Cid&wopt&Cer&cous &Kwings&n~
+A pair of scaly wings is here.~
+~
+9 17825792 0 1025
+8 0 0 0
+10 50000 12500
+A
+13 7
+A
+19 1
+A
+18 1
+#5494
+obj orb power~
+10
+&Ksi&wlv&Ker &Worb &wof &xpower&n~
+A great silver orb floats just within your reach.~
+~
+1 17301505 0 65537
+0 0 0 0
+6 90000 7000
+A
+27 -1
+#5495
+obj flail silver~
+10
+&Ksi&wlv&Ker &Kflail&n~
+A light silver flail is here.~
+~
+5 17301504 0 8193
+8 4 4 6
+8 80000 13000
+A
+19 2
+A
+18 2
+#5496
+obj armband silver~
+10
+&wsi&Kl&wv&We&wr ar&Wmba&Knd&n~
+A twining silver armband lies here.~
+~
+11 17301504 0 257
+0 0 10 0
+3 70000 10000
+A
+13 10
+A
+18 1
+#5497
+obj orb invisibility~
+10
+&Yg&yolde&Yn &Worb &wof &winvisibility&n~
+A golden orb floats here just within your reach.~
+~
+1 17825792 0 65537
+0 0 10 0
+7 120000 24000
+A
+12 10
+A
+36 -1
+#5498
+obj flail golden~
+5
+&wa &Yg&yolde&Yn &Kflail&n~
+A small golden flail lies here.~
+~
+5 17825792 0 8193
+2048 4 5 6
+8 66000 16500
+A
+19 1
+A
+18 1
+#5499
+obj armband golden~
+10
+&wtwining &Yg&yolde&Yn &warm&Kband&n~
+A twining golden armband lies here.~
+~
+11 17825792 0 257
+0 0 10 0
+4 40000 10000
+A
+13 10
+A
+19 1
+$~
+#999999

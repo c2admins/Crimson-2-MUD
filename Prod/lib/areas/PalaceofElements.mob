@@ -1,0 +1,375 @@
+#9475
+mob Shi'Ihi Eternal Dragon~
+&GShi'Ihi&w, the &RDragon &wof the &KEternal&n~
+&wThe &Keternal &Rdragon&w, &GShi'Ihi&w, lies here.&n
+~
+Shi'Ihi, the lord of the dragons stands before you.  He looks very displeased that
+you have entered his sacred room and tainted it with your presence.  His eyes 
+begin gleaming red.  His wings spread wide and his head rises, into a maddening
+arc, ready to spew his fire breath upon you, charring you.
+~
+146806282 32769 136249361 128 0 S
+48 0 -35 1d1+34999 30d10+20
+3500000 2000000
+8 8 1
+11 0 25 16 14 25 13 15
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#9476
+mob oklapes ice dragon~
+&WOklapes&w, the &RDragon &wof &CIce&n~
+&wA &Rdragon &wcovered completely in &Cice&w lies here, awaiting a &Rwarm &wtouch&n.
+~
+  A large dragon lies here.   He's covered in ice from the many years he spent in
+the arctic, making fires for the peoples of the lands.  He now rests in the palace
+for he has nothing to do except hibernate.  His body is scaled all over, and his
+wings look a brownish red color.  Suddenly an eye opens, You've been spotted.
+He just lies back, and smiles.  He is utterly defenseless, except maybe that tooth
+that protrudes from his mouth.
+~
+138412042 32769 136249361 128 0 S
+46 2 -30 1d1+19999 10d15+30
+2000000 1350000
+8 8 1
+11 0 25 18 16 16 12 13
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_RESIST 15
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#9477
+mob teludra dragon wind~
+&BTeludra&w, the &RDragon &wof the &WWinds&n~
+&wThe &Rdragon &wof the &Wwinds &wlies here, manipulating the &Cair&n.
+~
+This is Teludra, the dragon of the winds.  He is the wicked dragon, lashing out and
+making the winds cause disasters that no mere mortal can survive.  She stands 
+here contemplating your arrival, and wether she should toy with you, just for
+amusement.
+~
+138412042 32769 136249361 128 0 S
+45 3 -30 1d1+14999 30d20+99
+2000000 1200000
+8 8 2
+11 0 25 17 15 14 15 14
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=1
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#9478
+mob statue fire dragon~
+&KStatue &wof the &RFire Dragon&n~
+&wThe &KStatue &wof the &RFire Dragon &wblocks the path&n.
+~
+What stands before you is a statue of the Fire Dragon, Kandrel.  It lies here 
+blocking the pathway into her cave.  It looks very mean and it might strike at any
+given time.
+~
+4253194 32769 136249361 128 0 S
+43 1 -30 1d1+9999 10d10+30
+0 800000
+8 8 0
+29 0 25 18 16 16 13 14
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MINOR 99
+#9479
+mob statue stone dragon~
+&KStatue &wof the &yStone &RDragon&n~
+&wA &Kstatue &wof the &yStone &RDragon &wlies here, blocking the path.&n
+~
+What stands before you is a statue of the Stone Dragon, Cantrel.  It lies here 
+blocking the pathway into his cave.  It looks very mean and it might strike at 
+any given time.
+~
+4253194 32769 136249361 128 0 S
+43 1 -30 1d1+9999 10d10+30
+0 800000
+8 8 0
+29 0 25 18 16 16 13 14
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MINOR 99
+#9480
+mob statue ice dragon~
+&KStatue &wof the &CIce &RDragon&n~
+&wA &Kstatue &wof the &CIce &RDragon &wlies here, blocking the path&n.
+~
+What stands before you is the statue of the Ice Dragon, Oklapes.  It lies here
+blocking the pathway into his cave.
+It looks very mean and it might strike at any given time.
+~
+4253194 32769 136249361 128 0 S
+43 1 -30 1d1+9999 10d10+30
+0 800000
+8 8 0
+29 0 25 18 16 16 13 14
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MINOR 99
+#9481
+mob kandrel fire dragon~
+&pKandrel&w, &RDragon &wof the &RFl&Ya&Rme&n~
+&wA &Rdragon&w, consumed with &Rfl&Yam&Res&w lies here, asleep&n.
+~
+A humongous dragon lies here, burning with an ever glowing fire.  These caves are where she dwells.  Her companion accompanies her in slumber upon the top of the caves.  Her wingspan is larger then that of 
+her companion, Cantrel.  It seems to cover three quarters of the cave and overlaps Cantrel's wings with her's.  She has the mark's of battle slashed and scarred upon her.  Her eyes flicker with that of an 
+everlasting flame.  She lies here sleeping, yet awoken, there will be flames and brimstone thrown upon thee with the force of the ever burning dragon.
+~
+138412042 32769 136249361 128 0 S
+47 0 -35 1d1+19999 20d20+35
+1500000 1300000
+8 8 0
+11 0 25 15 14 25 12 11
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 45
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#9482
+mob cantrel stone dragon~
+&CCantrel&w, &RDragon &wof &yStone&n~
+&wA &Rdragon &wmade of &ystone &wlies here, sleeping&n.
+~
+&nWhat sleeps here is the keeper of the fields.  This dragon single handedly 
+banished Spiral and SoulWound to the realm of screams.  As you peer at 
+the dragon, you notice a large scar on his body.  An eye opens, he looks 
+at you and begins to speak.  "Years ago, I was a dragon, made of pure 
+hatred for all mankind, I helped the Spiral and SoulWound on their quest
+to take over the fields.  One day though, a band of nomads arrived, lead by 
+Onkara himself.  A war broke out amongst the nomads and the army of Spiral
+and SoulWound.  The nomads had won, and had captured me.  They showed 
+me the ways of life, and that evil wasnt a useful purpose.  I joined them in their 
+quest to overtake the fields and restore the former beauty of what it was.  The
+night before our attack was to happen, Messiah and his warriors attacked, 
+slaying Vorpus, Menter, and Jendrul, leaving Onkara, to torture him, putting
+food on his flesh and letting the LeechWorms eat him alive.  I swooned down 
+from my cave high above the fields, only to be shot down in a gust of fire.  The 
+scar you see on my body is a reminder to me that I failed, and I hide here, every 
+day, ashamed at what I let happen."  With that, the dragon lies back down, and falls asleep, crying.
+~
+138412042 32769 136249361 128 0 S
+48 0 -40 1d1+22999 30d20+99
+2250000 1600000
+8 8 0
+11 0 25 17 14 25 13 14
+SKILL=SPELL_COLOUR_SPRAY 75
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 50
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#9483
+mob statue eternal dragon~
+&KStatue &wof the &KEternal &RDragon&n~
+&wThe &Kstatue &wof the &Keternal &Rdragon &wblocks the path.&n
+~
+What stands before you is the statue of the Eternal Dragon, Shi'Ihi.  It lies here
+blocking the pathway into his cave.  It looks very mean and it might strike at
+any given time.
+~
+4253194 32769 136249361 128 0 S
+43 1 -30 1d1+9999 10d10+30
+0 800000
+8 8 0
+0 0 25 18 16 16 13 14
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MINOR 99
+#9484
+mob fire walker~
+&wA &RF&Yi&yr&re &Wwalker&n~
+&WWalking &Rf&Yi&yr&re &Rengulfs &wthe room with &Rheat&n.
+~
+This is a strange beast to say the least.  He is covered in flames and will always
+remain that way.  He is one of the few flame walkers left from the great collapse
+of the fire kingdom.  Now he roams the palace serving his queen.
+~
+262156 1 136249361 128 0 S
+39 3 -25 1d1+5000 10d30+99
+350000 300000
+8 8 0
+7 0 25 17 14 16 14 13
+#9485
+mob snow walker~
+&wA &WS&Cno&Ww Walker&n~
+&wA &Wwalking &yelement &wof &Cice &wroams here&n.
+~
+A snow walker is here.  It looks like a tall snowflake with some human facial
+features.  It squints its eyes and sees you.  Its a timid creature that is
+probably more scared of you, then you are of it.
+~
+262156 1 136249361 128 0 S
+39 3 -25 1d1+5000 10d30+99
+350000 300000
+8 8 0
+7 0 25 17 14 16 14 13
+#9486
+mob eternity~
+&KEternity&n~
+&wThe &Rfl&Yam&Res &wof &Keternity &wroam here, in search of a safe haven&n.
+~
+Eternity stands before you.  Life itself has to end, but this creature lives on,
+watching with its power the deaths of all the humans.  It is a sly creature that 
+doesnt like company, and it doesnt like you.
+~
+262156 1 136249361 128 0 S
+39 3 -25 1d1+5000 10d30+99
+350000 300000
+8 8 0
+7 0 25 17 14 16 14 13
+#9487
+mob cloudwalker~
+&wA &WCloud Walker&n~
+&wAn &yelement &wmade of a large &ggas &wswirls in here&n.
+~
+What is this creature?  Its a large cloud of gas, and its floating around, eyeing
+you, and stealing your belongings, maybe if you can get a hold of it for a second....
+~
+262156 1 136249361 128 0 S
+39 3 -25 1d1+5000 10d30+99
+350000 300000
+8 8 0
+0 0 25 17 14 16 14 13
+#9488
+mob Statue of the Dragon of wind~
+&KStatue &wof the &RDragon &wof &WWind&n~
+&wThe &Kstatue &wof the &Rdragon &wof &Wwind&w blocks the path&n.
+~
+What stands here is the statue of the dragon of wind, Teludra.  It is here blocking
+the path unto the altar in which Teludra himself sleeps.  To get to Teludra you
+must first defeat his statue.
+~
+4253194 32769 136249361 128 0 S
+43 1 -30 1d1+9999 10d10+30
+0 800000
+8 8 0
+29 0 25 18 16 16 13 14
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MINOR 99
+#9489
+mob stone weaver~
+&wA &KS&yton&Ke Weaver&n~
+&wA &KS&yton&Ke Weaver &wclears the pathway&n.
+~
+  A weaver of stone roams around the corridor.  It searches for more stone to
+weave, to make this corridor even larger.  Its muscles bulge, and its body is
+that of a large orc.  It growls at you, as soon as it sees you.  Maybe it will be nice
+if you help him.
+~
+1310732 1 136249361 128 0 S
+39 3 -25 1d1+5000 10d30+99
+350000 300000
+8 8 0
+29 0 25 17 14 16 14 13
+#9490
+mob fuzzy lump~
+a fuzzy lump of hair with bulbous eyes~
+a fuzzy lump of hair with bulbous eyes
+~
+This is a large fuzzy lump of haur, without any apparent arms, legs, head, or tail. The only thing telling you it's alive is it's large bulbous blinking yellow eyes.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 18 16 15 12 15
+#9491
+mob vampire pet archangel~
+&RA&rr&Rc&rh&RA&rn&Rg&re&Rl&r'&Rs &wPet &KV&ya&Km&yp&Ki&yr&Ke&n~
+&RA&rr&Rc&rh&RA&rn&Rg&re&Rl&r'&Rs &wPet &KV&ya&Km&yp&Ki&yr&Ke &wlies here, waiting to drain your &Rblood &wfrom your neck&n.
+~
+
+&nA large humanoid stands before you.  Baring its fangs, staring at your 
+pulsing jugular, dreaming of the exact second when it will attack and 
+drain every last drop of blood from your worthless soul.  Luckily the
+creature whimpers as you approach it, knowing that you are a friend
+of its master, ArchAngel.  Beware though, it might seem harmless, but
+at the drop of a hat, your ass is gone.
+~
+1604384602 140345345 136249361 641466540 -1000 S
+48 0 -33 1d1+599999 30d30+50
+5000000 2000000
+8 8 1
+0 0 25 25 25 25 25 25
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+$~
+#999999

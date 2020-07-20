@@ -1,0 +1,736 @@
+#9475
+&wEntrance to the &YPalace&n.~
+&n You stand before a large golden palace.  It seems to stream with the
+elements.  Upon closer inspection you see 5 chambers each leading into a place
+yet unexplored by anyone.  You are the first.
+~
+101 1074790408 0 1 41 1
+D0
+the corridor of flames
+~
+~
+0 -1 9514
+D1
+The corridor of the stone weavers.
+~
+~
+0 -1 9513
+D2
+The tunnel of winds
+~
+~
+0 -1 9487
+D3
+The glacial cave.
+~
+~
+0 -1 9485
+D4
+Shadows of eternity.
+~
+~
+0 -1 9497
+D5
+A small hole in the palace.
+~
+~
+0 -1 9508
+S
+#9476
+&wThe Altar to &KEternity&n.~
+&nYou stand before the last, and final altar.  It is cloaked in a black mist and 
+the room itself is hard to figure out.  It seems to be round, and very cozy.
+But, as you walk a little further in, you step on something.  Abruptly,
+something fierce arises from its slumber and begins to attack.
+~
+101 272662540 1879048192 41 75 1
+D0
+Inside the shadows.
+~
+~
+0 -1 9505
+S
+#9477
+&nThe Altar to &RFlames&n.~
+&nYou stand at an altar, consumed in&r flames&n.  The intense heat sends you 
+sprawling, and gasping for breathable air.  The hear rises even more, and a
+thunderous roar comes from a little further back in the altar.  You come a
+little closer and notice a dragon completely enveloped in flames.
+Its whole body consumed in an everlasting flame, that shall never
+be extinguished.
+~
+101 272662540 0 1 99 1
+D2
+Corridor of flames
+~
+~
+0 -1 9483
+S
+#9478
+&nThe Altar to the &yEarth&n.~
+&nYou stand in a make-shift cavern.  Man-made of course.  But by whom?  The
+stoneweavers you have seen upon your journey into this cavern very well might
+have.  You peer around in here, trying to catch a glimpse of any sign of life. 
+You hear a sudden snort come from the corner.  Whats this?  Its a dragon,
+made completely of stone and about ten feet tall.  Yet, all it does is rest,
+not wary that you have come to slay it.
+~
+101 272662540 0 1 99 1
+D0
+The corridor of the stone weavers
+~
+~
+0 -1 9496
+S
+#9479
+&nAltar to the &WWinds&n.~
+&n  You stand just inside a large cave inside the palace.  You have entered the
+altar to the &Wwinds&n.  The room is entirely damp, and very dark.  You can 
+hardly see in front of you.  All you can hear is the wind whipping, and forcing
+you to try and get a footing.
+~
+101 273711116 0 1 99 1
+D0
+The tunnel of winds.
+~
+~
+0 -1 9489
+S
+#9480
+&nThe Altar of &CIce&n.~
+&nIce is covering every corner of this cavern.  The frost let alone has sent a 
+mighty shiver in your spine, making your whole body drop in temperature.  Lost
+among the snow and ice, in the corner, you see a large, hidden dragon.  It 
+snorts, and yet, still sleeps, not realizing that you have entered its place of
+slumber.
+~
+101 272662536 0 1 99 1
+D4
+The glacial cave
+~
+~
+0 -1 9493
+S
+#9481
+&WCorridor of &RFlames&n.~
+  &nThe &Rflames&n nip at you and spew from the ground scorching your 
+armour.  You although just inside the Corridor of &Rflames&n can feel a strong
+presence of heat coming from deeper within.
+~
+101 273711112 0 1 99 1
+D1
+The corridor of flames
+~
+~
+0 -1 9482
+D2
+Corridor of flames
+~
+~
+0 -1 9515
+S
+#9482
+&WCorridor of &RFlames&n.~
+&n  You are further in the Corridor of &Rflames&n.  &RFire&n walkers stand
+present, guarding the altar that you see far to the north.
+~
+101 273711112 0 1 99 1
+D0
+Corridor of flames
+~
+~
+32 -1 9483
+D3
+the corridor of flames
+~
+~
+0 -1 9481
+S
+#9483
+&nStanding before The Altar of &RFlames&n.~
+&n  You're standing before the Altar to the &RFlames&n.  The heat is intense.
+Your brow becomes damp from the sweat upon it.  Yet, the element that has 
+forced you in here is not letting you go.
+~
+101 273711112 0 1 99 1
+D0
+The altar to flames.
+~
+~
+32 -1 9477
+D2
+Corridor of flames
+~
+~
+0 -1 9482
+S
+#9484
+&WCorridor of &RFlames&n.~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+101 1346404364 0 1 99 1
+S
+#9485
+&CThe Glacial&y Cave&n.~
+&nThe air around you is fridgid, and you feel the ice begin to form on your nose.
+Its cold, and deeper into this glacier is something, you know it, because you can
+feel its presence, but enduring the cold this long might not be a wise choice. 
+Choose now, or suffer death from ice.
+~
+101 273711112 0 1 99 1
+D1
+Entrance to the palace.
+~
+~
+32 -1 9475
+D3
+The glacial cave.
+~
+~
+0 -1 9486
+S
+#9486
+&CThe Glacial &yCave&n.~
+&n You are inside the glacier now.  The cold nips at you.  Your movements and
+reactions become slower.  Yet you notice some wierd creatures are moving 
+around in here.
+~
+101 273711112 0 1 99 1
+D1
+The glacial cave
+~
+~
+0 -1 9485
+D2
+The glacial cave
+~
+~
+0 -1 9490
+S
+#9487
+&WThe tunnel of &CWinds&n.~
+&nJust inside the tunnel, you can feel the &Cwind&n whipping at you.  The
+speed of it begins throwing you backwards into the entrance of the palace.  
+Do you have the will to go on?
+~
+101 269484040 0 1 99 1
+D0
+Entrance to the palace
+~
+~
+32 -1 9475
+D2
+The tunnel of winds
+~
+~
+0 -1 9511
+S
+#9488
+&WThe tunnel of &CWinds&n.~
+&nDeeper into the tunnel of &Cwinds&n.  You find yourself amongst the cloud
+walkers.  There presence only hightens your awareness that their is a danger
+that lies ahead, but are you willing to find out what it is?
+~
+101 269484040 0 1 99 1
+D1
+The tunnel of winds
+~
+~
+0 -1 9511
+D2
+The tunnel of winds
+~
+~
+32 -1 9489
+S
+#9489
+&nStanding before The Altar of &CWinds&n.~
+&n  You are well within the cavern of the &Wwinds&n.  The wind begins blowing
+harder.  The light becomes scarce, and a statue-like creature has awoken, 
+noticing you have entered its place of slumber.
+~
+101 269484044 0 1 99 1
+D0
+The tunnel of winds
+~
+~
+0 -1 9488
+D2
+Altar to the winds.
+~
+~
+32 -1 9479
+S
+#9490
+&CThe Glacial &yCave&n.~
+&nWell inside the glacier now, you see even more small white creatures walking
+around.  The snow walkers roam here, protecting what they believe in, and 
+nothing will stop them from killing you.
+~
+101 273711112 0 1 99 1
+D0
+The glacial cave
+~
+~
+0 -1 9486
+D2
+The glacial cave
+~
+~
+0 -1 9491
+S
+#9491
+&CThe Glacial &yCave&n.~
+&n Well inside the glacier now, you see even more small white creatures walking
+around.  The snow walkers roam here, protecting what they believe in, and 
+nothing will stop them from killing you.
+~
+101 273711112 0 1 99 1
+D0
+The glacial cave
+~
+~
+0 -1 9490
+D3
+The glacial cave
+~
+~
+0 -1 9492
+S
+#9492
+&CThe Glacial &yCave&n.~
+&n Well inside the glacier now, you see even more small white creatures walking
+around.  The snow walkers roam here, protecting what they believe in, and 
+nothing will stop them from killing you.
+~
+101 273711112 0 1 99 1
+D1
+the glacial cave
+~
+~
+0 -1 9491
+D2
+The glacial cave
+~
+~
+32 -1 9493
+S
+#9493
+&nStanding before The Altar of &CIce&n.~
+&nYou stand before the altar of &Cice&n.  The fridgid air pushed you to move
+around to get heat circulating in your veins.  Once again, a statue lies here, 
+blocking entrance to the altar.  To get to the altar you must defeat this beast.
+~
+101 272662540 0 1 99 1
+D0
+The glacial cave
+~
+~
+0 -1 9492
+D5
+The altar of ice.
+~
+~
+32 -1 9480
+S
+#9494
+&wThe Corridor of the &KStone&n Weavers.~
+&nJust barely inside the Corridor of the &KStone&n Weavers has shown you
+already that they aren't to be taken lightly.  They wield magnificent swords 
+made of awesomely crafted stone.
+~
+101 273711112 0 1 99 1
+D0
+The corridor of the stone weavers
+~
+~
+0 -1 9495
+D3
+the corridor of the stone weavers
+~
+~
+0 -1 9512
+S
+#9495
+&wThe Corridor of the &KStone&n Weavers.~
+  &nThe &KStone&n Weavers are everywhere.  They are looking for more rock
+and stone to build a larger lair for their king....Wonder who their king is.
+~
+101 273711112 0 1 99 1
+D2
+The corridor of the stone weavers
+~
+~
+0 -1 9494
+D5
+The corridor of the stone weavers
+~
+~
+0 -1 9496
+S
+#9496
+&nStanding before the Altar to the &yEarth&n.~
+&n  You are standing before the Altar to the&yEarth&n.  What lies ahead, only
+the stone weavers know.  But in the meantime, you notice that there is a large
+statue here, and its eyes have just opened.
+~
+101 273711116 0 1 99 1
+D2
+The altar to the earth
+~
+~
+0 -1 9478
+D4
+The corridor of the stone weavers
+~
+~
+0 -1 9495
+S
+#9497
+&KInside the Shadows of Eternity&n.~
+&n  You head into the shadows.  The altar is further ahead, but you can hear the
+growls of a large dragon coming from deeper within.  Maybe he might not like
+company.
+~
+101 273711112 0 1 99 1
+D0
+Inside the shadows.
+~
+~
+0 -1 9500
+D1
+Inside the shadows.
+~
+~
+32 -1 9498
+D2
+A strange laboratory.
+~
+~
+16 -1 20587
+D3
+Inside the shadows.
+~
+~
+32 -1 9499
+D4
+a hidden treasure vault.
+~
+hidden treasure room~
+29 0 9516
+D5
+Entrance to the palace.
+~
+~
+32 -1 9475
+S
+#9498
+&KInside the Shadows of Eternity&n.~
+&n  You are well within the shadows.  Eternal beings roam here in search of 
+something to cling to.
+~
+101 273711112 0 1 99 1
+D3
+Inside the shadows.
+~
+~
+0 -1 9497
+S
+#9499
+&KInside the Shadows of Eternity&n.~
+&n You are well within the shadows of eternity.  Large dragons block your every
+move, in attempts to thwart your plan of killing their master.  But who is he?
+~
+101 273711112 0 1 99 1
+D1
+Inside the shadows.
+~
+~
+0 -1 9497
+S
+#9500
+&KInside the Shadows of Eternity&n.~
+&n  You are well within the shadows of eternity.  Large dragons block your every
+move, in attempts to thwart your plan of killing their master.  But who is he?
+~
+101 273711112 0 1 99 1
+D0
+Inside the shadows.
+~
+~
+0 -1 9503
+D1
+Inside the shadows.
+~
+~
+32 -1 9501
+D2
+Inside the shadows.
+~
+~
+0 -1 9497
+D3
+Inside the shadows.
+~
+~
+32 -1 9502
+S
+#9501
+&KInside the Shadows of Eternity&n.~
+&n You are well within the shadows of eternity.  Large dragons block your every
+move, in attempts to thwart your plan of killing their master.  But who is he?
+~
+101 273711112 0 1 99 1
+D3
+Inside the shadows.
+~
+~
+0 -1 9500
+S
+#9502
+&KInside the Shadows of Eternity&n.~
+&n  You are well within the shadows of eternity.  Large dragons block your every
+move, in attempts to thwart your plan of killing their master.  But who is he?
+~
+101 273711112 0 1 99 1
+D1
+Inside the shadows.
+~
+~
+0 -1 9500
+S
+#9503
+&KInside the Shadows of Eternity&n.~
+&n You are well within the shadows of eternity.  Large dragons block your every
+move, in attempts to thwart your plan of killing their master.  But who is he?
+~
+101 273711112 0 1 99 1
+D2
+Inside the shadows.
+~
+~
+0 -1 9500
+D5
+Inside the shadows.
+~
+~
+0 -1 9504
+S
+#9504
+&KInside the Shadows of Eternity&n.~
+&n You are well within the shadows of eternity.  Large dragons block your every
+move, in attempts to thwart your plan of killing their master.  But who is he?
+~
+101 273711112 0 1 99 1
+D2
+Inside the shadows.
+~
+~
+32 -1 9505
+D4
+Inside the shadows.
+~
+~
+0 -1 9503
+S
+#9505
+&nStanding before the Altar to Eternity.~
+&nYou stand at the altar of eternity.  This is the last test of your endurance.
+At long last you will see the dragon behind all of what you've been searching for
+but a large statue once again blocks your path.
+~
+101 272662540 0 1 99 1
+D0
+Inside the shadows.
+~
+~
+0 -1 9504
+D2
+The altar to Eternity.
+~
+~
+0 -1 9476
+S
+#9506
+A run-down shabby test room.~
+ This is a dark, ill-lit room, with a simple dirt floor and
+shabby walls made from rotting boards of wood.
+~
+101 12 0 1 99 1
+D0
+A path to someplace quite similar to here...
+~
+~
+0 -1 9506
+S
+#9507
+Entrance to The Palace.~
+&n You stand before a large golden palace.  It seems to stream with the
+elements.  Upon closer inspection you see 5 chambers each leading into a place
+yet unexplored by anyone.  You are the first.
+~
+101 12 0 1 99 1
+S
+#9508
+&wA Small &KHole &win the &YPalace&n.~
+The only visible entrance to this grand palace is right here.  A small hole,
+large enough to fit only one person.  A large mist spills out from it, the 
+heat and ice colliding, to make the mist.  You remove most of your gear, just
+trying to squeeze through, maybe this isnt the best idea...
+~
+101 1048844 0 1 99 1
+D2
+Approaching the palace.
+~
+~
+0 -1 9509
+D4
+The entrance to the palace of elements.
+~
+~
+0 -1 9475
+S
+#9509
+&wApproaching the &YPalace&n.~
+As you come nearer to the palace, you see a bit more of the confines.
+There are 5 corridors, the top being clouded in darkness.  The southern
+end, whispering the wind.  The western end, coated with ice of a 
+million millenia.  The eastern part, built of stone, and the northern wing of the
+palace spitting of flames hot enough to char the skin of a full grown
+human.  But you wonder, what could it hold inside, and should you try 
+and find out?
+~
+101 1048588 0 1 99 1
+D0
+A small opening in the palace.
+~
+~
+0 -1 9508
+D2
+approaching the palace
+~
+~
+0 -1 9510
+S
+#9510
+&wApproaching the &YPalace&n.~
+You are walking on a large pathway, heading towards a large palace.  
+All you can see right from where you are standing is a small opening
+and large burts of fire coming from within it, as well as a darkly lit 
+tower.
+~
+101 1048588 0 1 99 1
+D0
+Approaching the Palace
+~
+~
+0 -1 9509
+D5
+Climbing the mountain.
+~
+~
+0 -1 20551
+S
+#9511
+&WThe tunnel of &CWinds&n.~
+&nJust inside the tunnel, you can feel the &Cwind&n whipping at you.  The
+speed of it begins throwing you backwards into the entrance of the palace.  
+Do you have the will to go on?
+~
+101 269484040 0 1 99 1
+D0
+The tunnel of winds
+~
+~
+0 -1 9487
+D3
+The tunnel of winds
+~
+~
+0 -1 9488
+S
+#9512
+&wThe Corridor of the &KStone&n Weavers.~
+&nJust barely inside the Corridor of the &KStone&n Weavers has shown you
+already that they aren't to be taken lightly.  They wield magnificent swords 
+made of awesomely crafted stone.
+~
+101 273711112 0 1 99 1
+D1
+the corridor of the stone weavers
+~
+~
+0 -1 9494
+D2
+The corridor of the stone weavers
+~
+~
+0 -1 9513
+S
+#9513
+&wThe Corridor of the &KStone&n Weavers.~
+&nJust barely inside the Corridor of the &KStone&n Weavers has shown you
+already that they aren't to be taken lightly.  They wield magnificent swords 
+made of awesomely crafted stone.
+~
+101 273711112 0 1 99 1
+D0
+the corridor of the stone weavers
+~
+~
+0 -1 9512
+D3
+The entrance to the palace
+~
+~
+32 -1 9475
+S
+#9514
+&WCorridor of &RFlames&n.~
+  &nThe &Rflames&n nip at you and spew from the ground scorching your 
+armour.  You although just inside the Corridor of &Rflames&n can feel a strong
+presence of heat coming from deeper within.
+~
+101 273711112 0 1 99 1
+D2
+The entrance to the palace
+~
+~
+32 -1 9475
+D3
+the corridor of flames
+~
+~
+0 -1 9515
+S
+#9515
+&WCorridor of &RFlames&n.~
+  &nThe &Rflames&n nip at you and spew from the ground scorching your 
+armour.  You although just inside the Corridor of &Rflames&n can feel a strong
+presence of heat coming from deeper within.
+~
+101 273711112 0 1 99 1
+D0
+the corridor of flames
+~
+~
+0 -1 9481
+D1
+the corridor of flames
+~
+~
+0 -1 9514
+S
+#9516
+&wA hidden &Ytreasure &wroom within the &YPalace&n.~
+&n  You head into the shadows.  The altar is further ahead, but you can hear the
+growls of a large dragon coming from deeper within.  Maybe he might not like
+company.
+~
+101 273711112 0 0 99 1
+S
+$~
+#999999

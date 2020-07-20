@@ -1,0 +1,166 @@
+#6600
+obj sword pulsating fleshy~
+5
+&wa &rpulsating fleshy &Ksword&n~
+A fleshy sword lies here, pulsating horribly.~
+~
+5 4194832 0 8193
+35 7 9 3
+8 160000 40000
+E
+sword pulsating fleshy~
+This long crooked sword seems to be alive, pulsating obscenely and covered
+in fleshy pustules.
+~
+#6601
+obj shield bulbous flesh pulsating~
+1
+&wan &Kobscene &ybulbous &wshield&n~
+A huge bulbous shield of pulsating flesh lies here.~
+~
+9 4194816 0 513
+10 0 0 0
+17 140000 35000
+E
+shield pulsating fleshy~
+It seems almost like a shapeless mass of blood and flesh, except for one
+side being quite flat with a grip of bone protruding from its surface.
+~
+A
+19 4
+A
+18 1
+#6602
+obj sword small pulsating flesh~
+10
+a small fleshy sword~
+A rather small sword of pulsating flesh has been dropped here.~
+~
+5 1049104 0 8193
+1 4 6 3
+5 80000 20000
+E
+sword pulsating fleshy~
+It is a very crooked sword that looks as if it's made of gristle and bone.
+The scant flesh on it pulsates a little, and a horrible ooze trickles from 
+it's edge.
+~
+A
+19 2
+A
+24 5
+#6603
+obj pure unadulterated fear~
+5
+&rPure &Bunadulterated &rFear&n~
+Someone has left a very powerful weapon here.~
+~
+5 4456448 2048 24577
+3096 6 8 3
+1 5 5
+A
+19 2
+A
+18 2
+#6604
+obj grieving darkness~
+1
+&KGrieving Darkness&n~
+&KGrieving Darkness&n~
+~
+9 4194822 0 5
+0 0 0 0
+3 500000 1000000
+A
+19 3
+A
+18 1
+A
+13 -35
+A
+40 1
+#6605
+obj demon shackle~
+2
+&wA &KD&wemo&Kn &yS&Khackl&ye&n~
+&KA forged &ys&Khackl&ye &Klies here, awaiting the touch of warm flesh once again.&n~
+~
+9 4194320 0 4097
+20 0 0 0
+2 200000 300000
+A
+19 3
+A
+18 1
+A
+13 -20
+A
+12 -10
+#6606
+obj gloves woven from flesh~
+1
+&wSome &ygloves &wwoven from &yflesh&n~
+&WSome &ygloves &Wlie here, made from the &yflesh &Wof humans who dare enter these planes.&n~
+~
+9 4196352 0 129
+15 0 0 0
+4 80000 1500000
+A
+19 3
+A
+18 4
+A
+13 -25
+A
+12 -25
+#6607
+obj blood encrusted flesh shield~
+1
+&wa &Rb&rl&Ro&ro&Rd &Ge&gn&Gc&gr&Gu&gs&Gt&ge&Gd &Kshield&n~
+&WA &Rb&rl&Ro&ro&Rd&ry &Kshield &wrests in the corner.&n~
+~
+9 37748740 0 513
+60 0 0 0
+10 100000 800000
+A
+19 2
+A
+18 3
+A
+13 -25
+A
+12 -25
+#6608
+obj blinding light~
+2
+&WBlinding Light&n~
+Someone has dropped a bright light here.~
+~
+1 4194304 0 65537
+0 0 0 0
+1 5 5
+A
+19 2
+A
+41 1
+A
+13 -20
+A
+12 -20
+#6609
+obj scepter power~
+1
+&KSce&wpt&Wer &wof &WP&wowe&Wr&n~
+Someone has dropped a valuable scepter here.~
+~
+9 4194304 0 16385
+0 0 0 0
+1 5 5
+A
+19 4
+A
+40 2
+A
+17 20
+$~
+#999999
