@@ -1,0 +1,2502 @@
+#16900
+Temple to the Eternal Lag~
+Had to change this desc... again...
+~
+132 8 0 1 99 1
+D3
+intro 2
+~
+~
+0 -1 16901
+D4
+The great fountain of Midgaard lies above.
+~
+~
+0 -1 3014
+D5
+The zonelord board room lies below.
+~
+~
+0 -1 8311
+S
+#16901
+&yInside a Small Shack&n~
+  &gThis small hovel has obviously been here a long time as is made obvious by it's state of decay. The whole
+of the building consists of this one room, which is spartanly furnished. A &ylarge wooden table&g dominates the 
+the center of the room, upon which lie various bottles and containers with items best left undescribed. 
+Several &yshelves&g line the walls, also filled with similar bottles, while a &ysmall cot&g lies in the back of the
+room, covered by a single thin blanket. From the various instruments laying about, this appears to be the home
+of a witch, and it may be within your best interests to leave.&n
+~
+132 8 0 1 99 1
+D1
+A door leads out into the swamp.
+~
+secret door~
+9 0 16944
+S
+#16902
+&KThe Dragon's Hoard&n~
+&K  This smaller cavern glitters and glistens with the little amount of light that reaches here. &YPiles of gold&K
+and &Wshiny &warmors&K from the dragons victim lie stacked haphazardly all over the area. It appears that many brave
+adventurers tried to fell the dragon, and those who failed ended up here to rot.&n
+~
+132 524 0 1 99 1
+D2
+Back to the dragons lair.
+~
+~
+0 -1 16927
+S
+#16903
+&BOn a Shallow River&n~
+  &cThe river begins to widen, spanning nearly thirty feet across in some areas, but still remains
+only about knee deep for a human. Many different forms of &Gplant life&c cover the area near the
+water, preventing you from going ashore. Some of the plants begin to move as if swaying in the
+wind, but no wind is blowing through here today....&n
+~
+132 4 0 1 99 6
+D0
+On the river.~
+~
+0 -1 16904
+D1
+The river leads back towards the Quel'Sith forest.
+~
+~
+0 -1 17018
+S
+#16904
+&BOn a Shallow River&n~
+&cNow up to your waist in &ymuddy water&c, you can't help but trip occasionally on underwater
+rocks and other debris that litter the river floor. Something brushes gently against your leg, 
+and assuming it to just be a &Cfish&c you press onward.&n
+~
+132 0 0 1 99 6
+D0
+Before the fisherman's shack.~
+~
+0 -1 16905
+D2
+On the river.
+~
+~
+0 -1 16903
+D3
+A trail leading away from the river.~
+~
+16 -1 16908
+S
+#16905
+&BBefore the Fisherman's Shack&n~
+&c  To the west lies a &ysmall dock&c, connected to a &yrun-down shack&c. The aroma of dead &Cfish&c
+lingers in the air, almost causing you to vomit. The underwater brush is very thick, grabbing on
+to you like strong hands. You decide it would be best not to stay in the &Briver&c much longer....&n
+~
+132 0 0 1 99 6
+D0
+The river flows...~
+~
+0 -1 17012
+D1
+The fisherman's shack.~
+~
+0 -1 16906
+D2
+On the river.~
+~
+0 -1 16904
+S
+#16906
+&yThe Fisherman's Shack&n~
+&y  Part of this shack has been built over the &cwater&y, and between the floorboards you can see the 
+sludge of trapped &cwater&y and mud. There is a single table and chair here, neither of which 
+should be standing in their conditions, but otherwise nothing of interest. A feeling of sadness
+lingers in the air, perhaps from the fisherman who owns this place.&n
+~
+132 12 0 1 99 0
+D1
+You look behind the fisherman's shack.  You notice thick vegetation
+which casts a shadow over anything that might be hiding in the
+forest.~
+door~
+9 -1 16982
+D3
+Before the fisherman's shack.~
+~
+0 -1 16905
+D5
+nothing special..
+~
+trapdoor~
+29 16936 16929
+S
+#16907
+&BOn A Shallow River&n~
+&cThe banks of the river are now completely consumed by &Gintense vegetation&c and &ymud&c.  The 
+water itself appears to be coagulating into a jelatinous mixture... almost like &yclay&c.  What you 
+had once thought to be &Cfish&c, you now fear maybe something much, much larger and more dangerous... &n
+~
+132 4 0 1 99 6
+D0
+Edge of the Swamp of Apocrypha.~
+~
+0 -1 16911
+D2
+You look upstream, and, despite your hopes of fame and fortune, see nothing
+special.~
+~
+0 -1 17012
+S
+#16908
+&gOn a Small Animal Trail&n~
+&g  Pushing aside a group of tall reeds, you find a path that leads in a westerly direction from
+the bank of the river. The &Gvegetation&g is very thick all around, and the only possible ways
+of travel are on the &Briver&g to the east or west along the game trail. In the distance to the west
+several &ytrees&g sway back and forth as if being buffeted by wind, but there is no breeze blowing 
+through this swamp.&n
+~
+132 5 0 1 99 2
+D1
+On the river.~
+~
+0 -1 16904
+D3
+On the beaten path.~
+~
+0 -1 16912
+S
+#16909
+&gA Dead End&n~
+  &gThe recently beaten path forms a dead end here. &GShrubs&g and &yunderbrush&g block movement in
+any direction save east, back the way you came.&n
+~
+132 1 0 1 99 3
+D1
+Fork in the path.
+~
+~
+0 -1 16912
+S
+#16910
+&yThe Marsh Forest&n~
+&g  All around the ground is cold and damp, the &ylarge trees&g that grow here provide a thick canopy
+that blocks out the rays of the &Ysun&g, only adding to the uneasiness that begins to set in all 
+around. There are no sounds of animals or other life around you, just an empty lifeless domain
+that makes your skin crawl.&n
+~
+132 1 0 1 99 3
+D0
+The path leads into the forest... your heart pounds as you think about
+the legends of the lost treasures.~
+~
+0 -1 16965
+D2
+Fork in the path.
+~
+~
+0 -1 16912
+S
+#16911
+&BEdge of the Swamp&n~
+&c  Here the &Briver&c becomes suddenly much wider and slower moving, as it enters the swamp to 
+the north.  On either side of you are &ybogs&c and &Kmarshes&c full of &Gstrange plants&c and &grepulsive 
+creatures&c.  A slight breeze from the north gives you your first whiff of the death and decay
+that can be found there.&n
+~
+132 0 0 1 99 6
+D1
+The Swamp of Apocrypha.
+~
+~
+0 -1 16913
+D2
+Back to the river.
+~
+~
+0 -1 16907
+D3
+The Swamp of Apocrypha.
+~
+~
+0 -1 16914
+S
+#16912
+&gFork in the Path&n~
+&gThe path makes a sharp turn here, heading east back to the &Briver&g, and north into the &Gforest&g. 
+There is an oppressive feeling about the area, and you have the distinct impression that the 
+&ytrees&g are very much aware of your presence.  You sense a general uneasiness about the &Gforest&g
+the tension of ancient oaths unfulfilled.&n
+~
+132 1 0 1 99 2
+D0
+Entering the forest.
+~
+~
+0 -1 16910
+D1
+On the beaten path.~
+~
+0 -1 16908
+D3
+A small path.
+~
+~
+0 -1 16909
+S
+#16913
+&yThe Teldescian Swamps&n~
+&g  Wading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark, mysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that 
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+The Swamp of Apocrypha.
+~
+~
+0 -1 16916
+D1
+The Swamp of Apocrypha.
+~
+~
+0 -1 16919
+D3
+The Edge of the Swamp.
+~
+~
+0 -1 16911
+S
+#16914
+&yThe Teldescian Swamps&n~
+&g  Wading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that 
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+The Swamp of Apocrypha.
+~
+~
+0 -1 16915
+D1
+The Edge of the Swamp.
+~
+~
+0 -1 16911
+D2
+The Swamp of Apocrypha.
+~
+~
+0 -1 16919
+D3
+The Swamp of Apocrypha.
+~
+~
+0 -1 16923
+S
+#16915
+&yThe Teldescian Swamps&n~
+&g  Wading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that 
+only adds to the already morose feeling about this swamp. A smell of death lingers in the air, 
+but its source is undeterminable.&n
+~
+132 0 0 1 99 4
+D0
+The Swamp of Apocrypha.
+~
+~
+0 -1 16923
+D2
+The Swamp of Apocrypha.
+~
+~
+0 -1 16914
+D3
+The Swamp of Apocrypha.
+~
+~
+0 -1 16920
+S
+#16916
+&yThe Teldescian Swamps&n~
+&g  Wading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark, mysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that 
+only adds to the already morose feeling about this swamp. Further ahead to the north you can 
+barely make out what appears to be a group of &wrock formations&g.&n
+~
+132 0 0 1 99 4
+D0
+The Swamp of Apocrypha.
+~
+~
+0 -1 16919
+D1
+The Swamp of Apocrypha.
+~
+~
+0 -1 16918
+D2
+The Swamp of Apocrypha.
+~
+~
+0 -1 16913
+D3
+The Swamp of Apocrypha.
+~
+~
+0 -1 16917
+S
+#16917
+&yThe Teldescian Swamps&n~
+&g  Wading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark, mysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that 
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+The Swamp of Apocrypha.
+~
+~
+0 -1 16924
+D1
+The Swamp of Apocrypha.
+~
+~
+0 -1 16916
+S
+#16918
+&yThe Teldescian Swamps&n~
+&g  Wading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark, mysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that 
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Before you is the Entrance to the old Aprocyphan Sewer,
+now partly exposed, and looking quite DANGEROUS!
+~
+~
+0 -1 16925
+D2
+The Swamp of Apocrypha.
+~
+~
+0 -1 16923
+D3
+The Swamp of Apocrypha.
+~
+~
+0 -1 16916
+S
+#16919
+&yThe Teldescian Swamps&n~
+&g  Wading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark, mysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that 
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+The Swamp of Apocrypha.
+~
+~
+0 -1 16914
+D2
+The Swamp of Apocrypha.
+~
+~
+0 -1 16916
+D3
+The Swamp of Apocrypha.
+~
+~
+0 -1 16913
+S
+#16920
+&yThe Teldescian Swamps&n~
+  &gThe land is somewhat higher here, forming a mini-island.  The surface is made of a hard, 
+&Kblack rock&g similar to that of volcanic rock. Large mounds of &Grotting vegetation&g block 
+movement to the north and west, leaving the only viable exits to the east and south.&n
+~
+132 268435456 0 1 99 4
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16963
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16964
+D5
+Too dark to tell.
+~
+rock~
+17 0 16921
+S
+#16921
+&yUnderwater in Front of a &KLarge Cave&n~
+  Feeling the urge to dive underwater, you find yourself before a rather large cave. The surface
+is made of a &Kblack rock-like material&B similar in texture to volcanic rock. The &ymuddy waters&B
+make it difficult to make out any other details, so venturing into the cave may pose a risk.&n
+~
+132 268566532 0 1 99 6
+D1
+Behind that huge iron gate.~
+gate~
+1 0 16922
+D4
+The Swamp of Apocrypha.~
+~
+0 -1 16920
+S
+#16922
+&KEntrance to the Cave&n~
+  The entrance take a sharp turn to the north, into the heart of the cave. Small creatures brush
+against your skin, setting your nerves on end, but you can't make out any immediate dangers in
+the waters, so it seems safe to continue.&n
+~
+132 131072 0 1 99 2
+D0
+Deeper into the cave.
+~
+~
+0 -1 17019
+D3
+The cave entrance.~
+gate~
+1 0 16921
+S
+#16923
+&yThe Teldescian Swamps&n~
+&g  Wading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that 
+only adds to the already morose feeling about this swamp. A smell of death lingers in the air, 
+but its source is undeterminable.&n
+~
+132 0 0 1 99 4
+D0
+The Swamp of Apocrypha.
+~
+~
+0 -1 16918
+D1
+The Swamp of Apocrypha.
+~
+~
+0 -1 16914
+D2
+The Swamp of Apocrypha.
+~
+~
+0 -1 16915
+S
+#16924
+&yThe Teldescian Swamps&n~
+&g  Wading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark, mysterious aura&g. One large, particulary old &ytree&g grows here out of the water. It
+seems to have a sentient look about it, and you get the feeling you are being watched. No sounds 
+of natural wildlife can be heard, only a cold silence that  only adds to the already morose
+about this swamp.&n
+~
+132 4096 0 1 99 4
+D0
+Deeper into the Swamp of Apocrypha.
+~
+~
+0 -1 16928
+D1
+The Swamp of Apocrypha.
+~
+~
+0 -1 16925
+D2
+The Swamp of Apocrypha.
+~
+~
+0 -1 16917
+S
+#16925
+&yBefore the Tunnel&n~
+ &gA &Klarge gaping tunnel&g lies along the side of a &wrocky outcropping&g here. The &Ktunnel&g 
+entrance is large enough to easily fit an elephant through, and sounds of heavy breathing can be
+heard originating from the inside, leading you to conclude that it is inhabited and the creature 
+inside is very large. It may be a wise decision to avoid this area for the time being...&n
+~
+132 0 0 1 99 4
+D0
+Inside the tunnel.
+~
+~
+0 -1 16926
+D2
+The Swamp of Apocrypha.
+~
+~
+0 -1 16918
+D3
+The Swamp of Apocrypha.
+~
+~
+0 -1 16924
+S
+#16926
+&KInside the Tunnel&n~
+  &KThe smell of &rblood&K and death are heavy in the air as you walk through this &Gslime&K 
+covered tunnel. The sounds of heavy breathing can be heard from the north, or it could possibly
+be the wind which seems to have suddenly picked up....&n
+~
+132 13 0 1 99 2
+D0
+The sewer continues north, making the perfect lair for someone, or something.
+~
+~
+0 -1 16927
+D2
+Exiting the tunnel.
+~
+~
+0 -1 16925
+S
+#16927
+&KBlack Dragon's Lair&n~
+  &WBroken bones&K and half eaten corpses litter the water soaked floor of this cavern. The 
+sounds of heavy breathing echo off the walls, but it's impossible to tell where the sound is 
+originating from. It may be best to turn tail and run before the dragon returns, if he's not here
+already.....&n
+~
+132 536870921 0 1 99 2
+D0
+A crack reveals another cavern.
+~
+~
+16 -1 16902
+D2
+Light reveals the way out.
+~
+~
+0 -1 16926
+S
+#16928
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. A &ystick&g sits here, protruding from the swamp water with a necklace
+stuck to it. Apparently it marks the grave of someone rather important.&n
+~
+132 4 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16934
+D2
+The Swamp of Apocrypha.
+~
+~
+0 -1 16924
+S
+#16929
+&KA Secret Escape Passage&n~
+&KAs you look around, you realize that this was once a secret escape passage for the fisherman, or 
+one of his ancestors.  However, now a group of creatures have overrun and taken over the tunnel.&n
+~
+132 268435976 0 1 99 4
+D3
+You have no choice but to follow the passage.~
+~
+0 -1 16930
+S
+#16930
+&KInside a Passage&n~
+  &KFilled with an &Geerie slime&K, the passage appears to be little more than a tunnel with 
+planks of &ywood&K supporting the walls to keep out the &ymud&K. You can't help but notice that 
+there appears to be less &Gslime&K on the southern wall than any of the others...&n
+~
+132 268435976 0 1 99 4
+D1
+The beginning of the escape tunnel.~
+~
+0 -1 16929
+D2
+The passage continues.~
+~
+16 -1 16932
+D3
+A dead end.~
+~
+0 -1 16931
+S
+#16931
+&KA Dead End in the Passage&n~
+  &KThis room was most likely used to store supplies at one time. Now all that remains are a 
+number of &ybroken crates&K and empty containers that lie scattered about.&n 
+
+~
+132 268435976 0 1 99 4
+D1
+The tunnel.~
+~
+0 -1 16930
+S
+#16932
+&KInside a Passage&n~
+  &KSliding aside the &ypanel&K along the wall, you find yourself in a similar passage as before,
+yet slightly smaller. The same &Geerie slime&K covers the walls, and the air is thick with &cmoisture&K.&n
+~
+132 268435976 0 1 99 4
+D0
+Inside the passage.
+~
+~
+0 -1 16930
+D3
+A small room.
+~
+~
+0 -1 16933
+S
+#16933
+&KA Small Treasure Room&n~
+  &KWhile it may not be much, the fisherman's entire life savings appears to be here. The walls
+of this room are made of metal, and are starting to &yrust&K from the constant bombardment of 
+&cwater&K. Other than the fisherman's treasure, which is little more than a &ysmall box&K set  
+upon a &ytable&K in the middle of the room, there is nothing of interest here.&n
+~
+132 268435976 0 1 99 4
+D1
+You look back upon the tunnel.~
+~
+0 -1 16932
+D4
+Somewhere by the old forest.~
+~
+0 -1 16909
+S
+#16934
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16936
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16937
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16928
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16935
+S
+#16935
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16934
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16948
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16938
+S
+#16936
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16934
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16939
+S
+#16937
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16944
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16953
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16934
+S
+#16938
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16940
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16935
+S
+#16939
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16941
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16936
+S
+#16940
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16943
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16938
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16942
+S
+#16941
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16939
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16951
+S
+#16942
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16950
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16940
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16945
+S
+#16943
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16947
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16940
+S
+#16944
+&yThe Teldescian Swamps&n~
+&g The outline of a door lies against a large clump of &Gtrees&g. If not for that faint outline, you would 
+hardly realize there was something beyond. A &Kdark, mysterious aura&g hangs over the entire area. No sounds
+of natural wildlife can be heard, only a cold silence that only adds to the already morose feeling about this
+swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16945
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16951
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16937
+D3
+A small door nestled between a grouping of trees and vines.
+~
+hidden door~
+25 0 16901
+S
+#16945
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16942
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16944
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16946
+S
+#16946
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16949
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16945
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16952
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16957
+S
+#16947
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16956
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16948
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16943
+S
+#16948
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16935
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16949
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16947
+S
+#16949
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16953
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16946
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16948
+S
+#16950
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16952
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16942
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16953
+S
+#16951
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16954
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16941
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16944
+S
+#16952
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16946
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16950
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16954
+S
+#16953
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16950
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16949
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16937
+S
+#16954
+&yThe Teldescian Swamps&n~
+  &gYou find yourself sinking into the marsh. A &ybranch&g hangs overhead, and you may be able
+to reach it, but the question is which way do you swing to safety....&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16955
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16952
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16951
+S
+#16955
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+You think you might be able to make a path north through the weeds.
+~
+~
+16 -1 16958
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16956
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16954
+S
+#16956
+&yA Small Patch of Dry Land&n~
+  &gA small &Ggrassy knoll&g rises from the &ybog&g, providing a bit of comfort from the &ymuddy waters&g of
+the swamp. A large cluster of &Gtrees&g grow upon the hill, providing a shroud of protection for any creature
+under their &ybranches&g. Several humanoid footprints can be seen all around, and it appears as though someone 
+frequents this spot quite often.&n
+~
+132 268435456 0 1 99 2
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16957
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16947
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16955
+S
+#16957
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16946
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16956
+S
+#16958
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 4 0 1 99 4
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16960
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16955
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16959
+S
+#16959
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16958
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16960
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16961
+D4
+You think you might be able to safely climb up what appears to be
+a small hill in the swamp.
+~
+~
+16 -1 16962
+S
+#16960
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16959
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16961
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16958
+S
+#16961
+&yThe Teldescian Swamps&n~
+  &gWading through the &Kdark&g, &ymuddy waters&g of Teldescian swamp leaves you with an uneasy feeling as
+unknown creatures just under the &ywaters&g surface brush gently against your skin. The &Gtrees&g over-
+head provide a thick canopy that blocks out most of the &Ysuns rays&g, shrouding the entire swamp in
+a &Kdark&g, &Kmysterious aura&g. No sounds of natural wildlife can be heard, only a cold silence that
+only adds to the already morose feeling about this swamp.&n
+~
+132 0 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16960
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16959
+S
+#16962
+&yThe Teldescian Swamps&n~
+&g  Wading through the deepest parts of the swamp, you find it hard to maintain your sense of
+direction. Decaying animal and vegetable matter lay all about in various states of decomposition,
+leaving a linging smell of death in the air. The swamp is eerily quiet, leaving you with a sense
+of discomfort and dread.
+~
+132 268435456 0 1 99 4
+D0
+Deep in the Swamp.
+~
+~
+0 -1 16963
+D3
+Deep in the Swamp.
+~
+~
+0 -1 16964
+S
+#16963
+&yThe Teldescian Swamps&n~
+&g  Wading through the deepest parts of the swamp, you find it hard to maintain your sense of
+direction. Decaying animal and vegetable matter lay all about in various states of decomposition,
+leaving a linging smell of death in the air. The swamp is eerily quiet, leaving you with a sense
+of discomfort and dread.
+~
+132 268435456 0 1 99 4
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16962
+D3
+There appears to be a large black rock to the west.
+~
+~
+0 -1 16920
+S
+#16964
+&yThe Teldescian Swamps&n~
+&g  Wading through the deepest parts of the swamp, you find it hard to maintain your sense of
+direction. Decaying animal and vegetable matter lay all about in various states of decomposition,
+leaving a linging smell of death in the air. The swamp is eerily quiet, leaving you with a sense
+of discomfort and dread.
+~
+132 268435456 0 1 99 4
+D0
+There appears to be a large black rock to the north.
+~
+~
+0 -1 16920
+D1
+Deep in the Swamp.
+~
+~
+0 -1 16962
+D2
+Deep in the Swamp.
+~
+~
+0 -1 16913
+S
+#16965
+&yThe Marsh Forest&n~
+  &yToadstools&g and a strange glowing &Gmoss&g cover the ground all about you. The presense of
+water near the surface of the ground is evident, and it's best to watch your step in these 
+woods. A large number of &ydecaying logs&g block any passage west, leaving the only discernable
+exits to the west and south through the darkness.&n
+~
+132 5 0 1 99 3
+D2
+The path leads out of the forest.~
+~
+0 -1 16910
+D3
+You look deeper into the forest.~
+~
+0 -1 16967
+S
+#16966
+&yBase of a Tree&n~
+  &gThe path ends rather abruptly at the base of a large &yoak tree&g. As you begin to wonder
+why the path chose to end here you notice the sounds of faint laughter above you. The darkness
+around makes it impossible to see anything from here, so the only choice left is to climb up to 
+see what is making the noise.&n
+~
+132 1 0 1 99 3
+D2
+You look deeper into the forest.
+~
+~
+0 -1 16971
+D4
+Up in the tree.
+~
+~
+0 -1 16972
+S
+#16967
+&yThe Marsh Forest&n~
+  &yToadstools&g and a strange glowing &Gmoss&g cover the ground all about you. The presense of
+water near the surface of the ground is evident, and it's best to watch your step in these 
+woods. A large number of &ydecaying logs&g block any passage west, leaving the only discernable
+exits to the north, south and east through the darkness.&n
+~
+132 1 0 1 99 3
+D0
+You look deeper into the forest.~
+~
+0 -1 16968
+D1
+You peer deeper into the forest.~
+~
+0 -1 16965
+D2
+You look deeper into the lighted forest.~
+~
+0 -1 16970
+S
+#16968
+&yThe Marsh Forest&n~
+  &yToadstools&g and a strange glowing &Gmoss&g cover the ground all about you. The presense of
+water near the surface of the ground is evident, and it's best to watch your step in these 
+woods. A large number of &ydecaying logs&g block any passage west and east, leaving the only 
+exits to the north and south through the darkness.&n
+~
+132 1 0 1 99 3
+D0
+You look deeper into the forest.~
+~
+0 -1 16969
+D2
+You look deeper into the forest.~
+~
+0 -1 16967
+S
+#16969
+&yThe Marsh Forest&n~
+&y  Toadstools&g and a strange glowing &Gmoss&g cover the ground all about you. The presense of
+water near the surface of the ground is evident, and it's best to watch your step in these 
+woods. A large number of &ydecaying logs&g block any passage west, leaving the only discernable
+exits to the north, south and east through the darkness.&n
+~
+132 1 0 1 99 3
+D0
+You look deeper into the forest.~
+~
+0 -1 16970
+D1
+You look deeper into the forest.~
+~
+0 -1 16971
+D2
+You look deepr into the forest.~
+~
+0 -1 16968
+S
+#16970
+&yThe Marsh Forest&n~
+&y  Toadstools&g and a strange glowing &Gmoss&g cover the ground all about you. The presense of
+water near the surface of the ground is evident, and it's best to watch your step in these 
+woods. A large number of &ydecaying logs&g block any passage west and east, leaving the only 
+discernable exits to the north and south through the darkness.&n
+~
+132 4 0 1 99 3
+D0
+You look deeper into the forest.~
+~
+0 -1 16967
+D2
+You look deeper into the forest.~
+~
+0 -1 16969
+S
+#16971
+&yThe Marsh Forest&n~
+&y  Toadstools&g and a strange glowing &Gmoss&g cover the ground all about you. The presense of
+water near the surface of the ground is evident, and it's best to watch your step in these 
+woods. A large number of &ydecaying logs&g block any passage east and south, leaving the only 
+discernable exits to the north and west through the darkness.&n
+~
+132 1 0 1 99 3
+D0
+To the north you see a HUGE oak tree.
+~
+~
+0 -1 16966
+D3
+You look through the forest.~
+~
+0 -1 16969
+S
+#16972
+&yIn a Tree&n~
+ &gTaking a brief moment to pause and look down, you are almost overcome with vertigo. In such a
+short time you have traversed more than half of the tree, and any fall now would spell certain
+doom. You can opt to take your chances and dive off the tree, hoping something on the ground 
+will break your fall, or you can continue climbing to find what was making that laughter-like
+sound above.&n
+~
+132 268435457 0 1 99 5
+D4
+As you look up, you can see the top of the tree, but the leaves
+provide total protection from the sun.  This tree definately
+appears to be inhabitted.
+~
+~
+0 -1 16974
+D5
+Your stomache turns at the thought of slipping or jumping...
+Haven't you ever heard the expression DON'T LOOK DOWN!?!
+WELL THEN DON'T!!!
+~
+~
+0 -1 16973
+S
+#16973
+Death by jumping from a high place... most uncool!~
+You decide to JUMP!?!
+ARE YOU INSANE?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+You are very dead.
+Your body is consumed and re-assimilated into nature.
+Thank you sir, drive through :)
+~
+132 268435466 0 1 99 1
+D4
+Where you just came from.~
+~
+0 -1 16972
+D5
+The afterlife.~
+~
+0 -1 16900
+S
+#16974
+&yRoom of &GQueen Shanodin&n~
+&g  This rooms is made of tightly packed &Gleaves&g and &ytwigs&g that form a mesh-like circular
+wall. As you look around you notice several balcony-type extensions that extend out to various
+tree branches. On the balcony to the east lies a &yrope&g that is hanging from something above.&n
+~
+132 268435464 0 1 99 1
+D0
+You look out onto some kind of bridge that appears to extend to
+another tree.~
+~
+0 -1 16978
+D1
+You look out onto the east balcony... you notice a rope hanging
+from one of the branches.~
+~
+0 -1 16977
+D3
+You peer out onto the west balcony.~
+~
+0 -1 16976
+D5
+Now look, climbing higher up the tree REALLY isn't going to make
+jumping any safer.  It still looks pretty DEADLY to me.
+You wonder why you see an occassional ripple in the visual spectrum while
+looking down.  Could it be the sun reflecting on the ground this high up?
+~
+~
+0 -1 16975
+S
+#16975
+&GShandolin&Y's Treasure Room&n~
+  &gYou find yourself in some kind of &yhollowed oak&g. As you look around, you realize you are in a 
+secret treasure room, hidden from outsiders by a simple illusionary mirror.&n
+~
+132 268435465 0 1 99 1
+D4
+You peer upwards into the Great Room of the Shanodin Queen.~
+~
+0 -1 16974
+S
+#16976
+&yThe West Balcony of the Tree&n~
+&g  Made up of little more than small &ytwigs&g and &Gleaves&g, the balcony seems very unstable. You can
+get a good view of the surrounding area from here, but there doesn't seem to be much more than 
+&ydead trees&g and &Gmoss&g all around.&n
+~
+132 268435464 0 1 99 1
+D1
+You look behind you... oh my GOD!  That's where you just came from!
+~
+~
+0 -1 16974
+S
+#16977
+&yThe East Balcony&n~
+&gA &Gshroud of leaves&g blocks out the surrounding area, but a &ylarge rope&g is tied to one of  
+the branches of the &ytree&g. The &yrope&g extends all the way to the ground, which from this 
+vantage poitn can barely be seen. There are several notches in the wall that seperates you from 
+the main room. You can only wonder what they must mean.&n
+~
+132 268435464 0 1 99 1
+D3
+You peer into the room of the queen.~
+~
+0 -1 16974
+D5
+The base of the tree.
+~
+~
+0 -1 16966
+S
+#16978
+&yOn a Bridge&n~
+  &gA small, &ywooden plank&g suspension bridge stretches out before you. Due to a strange &wfog&g
+that seems to have manifested itself, you are unable to see where the bridge leads, and thus if
+you choose to continue it is at your own risk.&n 
+~
+132 268435456 0 1 99 1
+D0
+You look into the dense fog...~
+~
+0 -1 16979
+D2
+You look into the main room before enterring.  Not much has changed.~
+~
+0 -1 16974
+S
+#16979
+&yOn a Bridge&n~
+&g As the &wfog&g thickens, it becomes harder and harder to tell where each footstep falls. With
+only the &yrope&g handholds to provide balance, you can only hope the groaning &yplanks&g beneath 
+your feet can support you until you reach your destination.&n
+~
+132 0 0 1 99 1
+D0
+Your eyes fail to pierce the fog surrounding the end of the bridge.
+~
+~
+0 -1 16980
+D2
+You look toward the light side of the bridge.~
+~
+0 -1 16978
+S
+#16980
+&gIn a &wFoggy&g Marsh&n~
+&g Without warning, the &ybridge&g suddenly collapses, sending you spiraling towards the &yearth&g.
+Luckily, the &ymud&g below is thick, and breaks your fall. You don't appear to be damaged in any 
+way, but you are now covered from head to toe in mud, and must begin to figure out where you 
+are.
+&n
+~
+132 268831233 0 1 99 4
+D0
+You look out into the fog.
+~
+~
+0 -1 16965
+D1
+You look out into the fog.
+~
+~
+0 -1 16965
+D2
+You look out into the fog.
+~
+~
+0 -1 16965
+D3
+You look out into the fog.
+~
+~
+0 -1 16965
+S
+#16981
+In a foggy marsh~
+Oh NO!!!  The Bridge has broken.
+.
+.
+.
+.
+.
+You have fallen into a thick marsh!  You can't believe how
+easily the bridge collapsed.  You decide to have a long talk
+with Trinity once you figure out how to get out of here.
+You can go any direction except for up, but can't see anything
+through this fog!
+~
+132 268830721 0 1 99 1
+S
+#16982
+&gBehind the Fisherman's Shack&n~
+&g  The entire area is overgrown with thick &Gvegetation&g. A few &Greptiles&g of some sort crawl  
+around by your feet, and the &ytrees&g overhead provide more than adequate shade from the sun. 
+An old trail disappears into the forest to the north, but you are suddenly overcome with 
+uneasiness as you feel you are being watched.&n
+~
+132 0 0 1 99 3
+D0
+You peer deep into the vegetation.  To your suprise, you think you
+see something peering back at you!
+~
+~
+0 -1 16983
+D3
+You look at the fisherman's shack, a rather run-down place
+which, to no suprise, smells like fish.~
+door~
+1 -1 16906
+S
+#16983
+&gFollowing a Thin Trail&n~
+  &gPlants of all types cover the area, making travel along the small trail rather difficult at
+times. The &ytrees&g that tower overhead are spaced just far enough apart to let &Ysunlight&n down
+to the ground, thus allowing these smaller plants to grow. A thin &ytrail&g leads north, deeper 
+into the forested marsh, or west to what appears to be a &ysmall cabin&g.&n
+~
+132 0 0 1 99 3
+D0
+You look deeper into the damp and dark vegetation.~
+~
+0 -1 16984
+D2
+the area behind the fisherman's shack... This is where the
+vegetation gives way to the river, and you can once again fully
+see the light of day.~
+~
+0 -1 16982
+S
+#16984
+&gOn a Dark Trail Through the Vegetation&n~
+  &gAs the larger &ytrees&g begin to thin out, the smaller &Gvegetation&g begins to grow more dense, and harder to
+traverse. The trail begins to grow even fainter as the &Gfoliage&g thickens to the east, but the trail is a bit
+more visible to the south.&n
+~
+132 0 0 1 99 2
+D1
+You peer deeper into the vegetation.  You notice that this portion
+of the trail is much more traveled.  Could this be traveled daily
+by the beasts of the Swamps of Apocrypha?~
+~
+0 -1 16985
+D2
+You push a huge leaf out of your path as you try to look back towards
+the fisherman's shack, but the vegetation is too thick to see it.~
+~
+0 -1 16983
+D3
+A large bush seems to be hiding something.
+~
+~
+16 -1 16994
+S
+#16985
+&yAt the Base of a Tree&n~
+  &gThe beaten trail before you leads next to a small &cpond&g directly to the east. Next to the &cwater&g,
+directly in front of you, is a particulary large &ytree&g whose branches seem to have worn due to excessive 
+climbing. Upon further examination, several large, birdlike footprints are found around the &ytrees&g base, as 
+well as the bones of several smaller mammals. The path continues on to the north, or west, and the &cpond&g 
+lies to the east.&n
+~
+132 0 0 1 99 2
+D0
+A small trail.
+~
+~
+0 -1 16992
+D1
+A small pond
+~
+~
+0 -1 16990
+D3
+You peer deeper into the vegetation.~
+~
+0 -1 16984
+D4
+You look up just as something decides to take cover.  It obviously
+noticed you and didn't want to be seen.  You have this almost child-like
+urge to climb this tree and see what's up there.  You judge that you
+could safely climb to the first major branch, but couldn't go much
+higher than that due to the thickness of the tree.~
+~
+16 -1 16987
+S
+#16986
+&cBeside a Small Stream&n~
+  &gThe small &cstream&g leads in a north to south direction. The area to the south is too densely
+covered by &Gvegetation&g to attempt passage, but the northern section of the stream is wide 
+enough for even large beings to traverse with little difficulty.&n
+~
+132 4 0 1 99 2
+D0
+A small stream.
+~
+~
+0 -1 16991
+S
+#16987
+&yUp in a Tree&n~
+&g  You are up in a tree.  The leaves block your view of the branch which extends to the west.  As 
+ou test the strength of the branch to see if it can support your weight, you notcie two eyes 
+staring at you from the darkness. &n
+~
+132 520 0 1 99 1
+D3
+You look into the eyes of the beast that awaits you.~
+~
+0 -1 16988
+D5
+You feel slightly dizzy as you look down at the ground below.  While
+you think you could make it, you find yourself not wanting to climb
+back down the tree right now.  The wet glaze on the bark reminds you
+of a water slide, perfect for falling long distances!  However,
+you are finally able to calm down enough to realize that you really
+are not that high up, and should be able to make the climb safely.~
+~
+0 -1 16985
+S
+#16988
+&yOn a Branch&n~
+  &gThe branch extends to a large nest, from which a a strange glow seems to be originating from.
+The leaves surround the whole area, preventing view up or down to the nest, and also hiding its
+inhabitant....&n
+~
+132 520 0 1 99 1
+D1
+You look back at the main trunk of the tree.  As you do this, you
+notice some wierd kind of star carved into the bark.~
+~
+0 -1 16987
+D3
+You look to the outer-most extension of the branch... You really
+want those eggs, but are they worth the risk.  You really do seem
+to think that the branch can support you weight.~
+~
+0 -1 16989
+S
+#16989
+&yAt the Base of a Tree&n~
+&g  Deciding to journey to the furthest part of the branch, you suddenly find yourself in peril 
+as the branch first groans, and the gives way!
+..........
+..........
+..........
+..
+..
+.
+.
+.
+.
+.
+..
+,,,
+..........
+..........
+..........
+You find yourself once again at the bottom of the tree, suprisingly none the worse for wear. A 
+strange long stick is here that wasn't before. Perhaps it fell out of the tree branch that you
+were on.&n
+~
+132 268440072 0 1 40 1
+D0
+A thin trail.
+~
+~
+0 -1 16992
+D1
+A small pond.
+~
+~
+0 -1 16990
+D3
+You look deeply into the vegetation which surrounds you.  You find
+yourself wondering what is looking back at you!~
+~
+0 -1 16984
+S
+#16990
+&cBeside a Pond&n~
+  &gA &Wwhite &ysa&Yn&ydy &Ybeach&g leads up to a crystal clear pond. The &Ybeach&g is strangely
+devoid of any plant life, and there is a feeling of danger lurking in the air, though there is 
+nothing visible.&n
+~
+132 0 0 1 99 6
+D2
+A small stream leads off into the unknown.
+~
+~
+0 -1 16991
+D3
+A small trail.
+~
+~
+0 -1 16985
+S
+#16991
+&cBeside a Small Stream&n~
+  &gThe small &cstream&g leads in a north to south direction. The area to the north seems to clear 
+enough for several people to walk abreast, but the area to the south becomes more thickly 
+entangled by dense &Gvegetation&g.&n
+~
+132 0 0 1 99 2
+D0
+The stream opens into a small pond.
+~
+~
+0 -1 16990
+D2
+A small stream.
+~
+~
+0 -1 16986
+S
+#16992
+&gOn a Trail&n~
+  &gYou are now standing on the edge of the marshlands.  Looking northeast, over the &Grolling hills&g 
+the &KIronstar &ymountains&g can be seen. They reflect the &Ysunlight&g with an awe inspiring beauty, and 
+seperate the &Wice tundra&g from the rest of the known world. Just to the north can be seen a city
+so large that it can only be &KBrimstone&g, while the swamps of Teldescia lie to the south and  
+west. Further on to the southeast, the Quel'Sith &Gforest&g stretches as far as the eye can see. 
+The lands of Torindrel lay before you, waiting to be explored...&n
+~
+132 4 0 1 99 2
+D0
+You look north down the trail which borders the marsh.~
+~
+0 -1 16993
+D2
+A thin trail.
+~
+~
+0 -1 16985
+S
+#16993
+&gOn a Trail&n~
+  &gNearing the edge of the marshlands, the ground begins to grow a little soggy, making travel 
+slightly difficult. The &ytrail&g provides a good view of the surrounding areas. To the north lies
+the city of &KBrimstone&g, a bright shiny star in a land filled with evil. To the northeast can
+be seen the &KIronstar&y mountains&g, named after the dwarven clan that guard the Severn Pass from
+the despicable creatures of the &Wice tundra&g. Southeast lies the Quel'Sith &Gforest&g, home of
+the wise and powerful Quel'Sith elves. The lands of Torindrel lay before you, awaiting eager
+explorers.&n
+~
+132 0 0 1 99 2
+D0
+You look down the trail.  You find yourself wanting to follow the trail.~
+~
+0 -1 17001
+D2
+You look down the trail to the dense vegetation.~
+~
+0 -1 16992
+S
+#16994
+&yLookout Point&n~
+&gA large blind covered with &Gleaves&g stands almost hidden against the dense forest vegetation. From the 
+Worn &yearth&g around the area, it is obvious this place is used to spy upon unsuspecting prey that travels
+along the larger trail to the east. Two large &Gbushes&n block this trail from the main, and from the larger
+trail it is almost impossible to detect this area. The designers of this ambush spot are not only crafty, but
+seemingly very intelligent as well.&n
+~
+132 12 0 1 99 1
+D1
+The point overlooks a small path.
+~
+~
+0 -1 16984
+D3
+~
+~
+0 -1 16995
+S
+#16995
+&yA Heavily Trodden Path&n~
+  &gThe &ypath&g has been worn bare from a large amount of recent activity. Large footprints, bigger than a human,
+lead mostly to the west. The large amounts of &Gvegetation&g that once covered this trail have been piled into
+heaps along the sides, creating such a &Gdense and tangled mass&g that it would be impossible to travel to the 
+south, while a smaller, newer trail leads north.&n
+~
+132 8 0 1 99 1
+D0
+~
+~
+0 -1 16996
+D1
+~
+~
+0 -1 16994
+D3
+~
+~
+0 -1 17002
+S
+#16996
+&gA Small Encampment&n~
+  &gThe smell of &cwet&K smoke&g hangs heavy in the air as the pathway to the south opens into this large, 
+recently deforested area. A large fire pit surrounded by &wstones&g sits in the center of the clearing, and 
+around the pit lies numerous piles of &Gmosses&g and &yleaves&g as makeshift bedding. Several large, lumbering 
+shapes move about near the outer edges, taking safety within the &Kdarkness&n of the &Gdense vegetation&g that
+surrounds this encampment.&n
+~
+132 8 0 1 99 1
+D0
+~
+~
+0 -1 16997
+D2
+~
+~
+0 -1 16995
+D3
+~
+~
+0 -1 16998
+S
+#16997
+&gA Small Encampment&n~
+  &gThe smell of &cwet&K smoke&g hangs heavy in the air as the pathway to the south opens into this large, 
+recently deforested area. A large fire pit surrounded by &wstones&g sits in the center of the clearing, and 
+around the pit lies numerous piles of &Gmosses&g and &yleaves&g as makeshift bedding. Several large, lumbering 
+shapes move about near the outer edges, taking safety within the &Kdarkness&n of the &Gdense vegetation&g that
+surrounds this encampment.&n
+~
+132 8 0 1 99 1
+D2
+~
+~
+0 -1 16996
+D3
+~
+~
+0 -1 16999
+S
+#16998
+&gA Small Encampment&n~
+  &gThe smell of &cwet&K smoke&g hangs heavy in the air as the pathway to the south opens into this large, 
+recently deforested area. A large fire pit surrounded by &wstones&g sits in the center of the clearing, and 
+around the pit lies numerous piles of &Gmosses&g and &yleaves&g as makeshift bedding. Several large, lumbering 
+shapes move about near the outer edges, taking safety within the &Kdarkness&n of the &Gdense vegetation&g that
+surrounds this encampment.&n
+~
+132 8 0 1 99 1
+D0
+~
+~
+0 -1 16999
+D1
+~
+~
+0 -1 16996
+S
+#16999
+&gA Small Encampment&n~
+  &gThe smell of &cwet&K smoke&g hangs heavy in the air as the pathway to the south opens into this large, 
+recently deforested area. A large fire pit surrounded by &wstones&g sits in the center of the clearing, and 
+around the pit lies numerous piles of &Gmosses&g and &yleaves&g as makeshift bedding. Several large, lumbering 
+shapes move about near the outer edges, taking safety within the &Kdarkness&n of the &Gdense vegetation&g that
+surrounds this encampment.&n
+~
+132 8 0 1 99 1
+D1
+~
+~
+0 -1 16997
+D2
+~
+~
+0 -1 16998
+S
+#17000
+Lair of &WNephestus&n~
+   &WBones&g litter the ground and converge intot he center of the room, forming a large macabre
+throne. Nephestus can often be found here, devising some new scheme to get back at his former 
+master Gargath. The &ytrees&g along the outer edges of the clearing have become dark and twisted,
+forming an canopy that prevents any &Ylight&g from penetrating this lair. &KShadows&g can be seen
+flitting about, but in the overwhelming &Kdarkness&g, it is impossible to determine what they are.&n
+~
+132 8 0 1 99 1
+D0
+~
+~
+0 -1 17011
+S
+#17001
+&gOn a Trail by the Swamp&n~
+&g  The pathway southwest of &KBrimstone&g borders a swampland known as Teldescia. Though the 
+swampland to the west provides a dismal view, the &KIronstar &ymountains&g to the northeast stand
+majestically, creating a barrier between the southern lands and the barbaric &Wice tundra&g to the
+north. To the southeast lies the Quel'Sith &Gforest&g, home of the wise and powerful Quel'Sith 
+be seen. Besides &KBrimstone&g, it is the only bastion of goodness left in this foul land. &n
+~
+132 0 0 1 99 2
+D0
+You look north down the trail, and decide to follow the footprints.~
+~
+0 -1 17003
+D2
+You look towards a fork in the trail.~
+~
+0 -1 16993
+S
+#17002
+&yA Heavily Trodden Path&n~
+  &gTracks, larger than a human, lead both east and west. The large amounts of &Gvegetation&g that once 
+covered this trail have been piled into heaps along the sides, creating a &Gdense and tangled mass&g that 
+would make it impossible to travel either north or south.&n
+~
+132 8 0 1 99 1
+D1
+~
+~
+0 -1 16995
+D3
+~
+~
+0 -1 17006
+S
+#17003
+&gOn a Trail by the Swamp&n~
+&g  The pathway southwest of &KBrimstone&g borders a swampland known as Teldescia. Though the 
+swampland to the west provides a dismal view, the &KIronstar &ymountains&g to the northeast stand
+majestically, creating a barrier between the southern lands and the barbaric &Wice tundra&g to the
+north. To the southeast lies the Quel'Sith &Gforest&g, home of the wise and powerful Quel'Sith 
+be seen. Besides &KBrimstone&g, it is the only bastion of goodness left in this foul land. &n
+~
+132 0 0 1 99 2
+D0
+You look north... sweat pours down your face with the ferocity of an
+angry god!~
+~
+0 -1 17004
+D2
+You look south, and see nothing special...~
+~
+0 -1 17001
+S
+#17004
+&gOn a Trail by the Swamp&n~
+&g  The pathway southwest of &KBrimstone&g borders a swampland known as Teldescia. Though the 
+swampland to the west provides a dismal view, the &KIronstar &ymountains&g to the northeast stand
+majestically, creating a barrier between the southern lands and the barbaric &Wice tundra&g to the
+north. To the southeast lies the Quel'Sith &Gforest&g, home of the wise and powerful Quel'Sith 
+be seen. Besides &KBrimstone&g, it is the only bastion of goodness left in this foul land. &n
+~
+132 0 0 1 99 2
+D0
+You look towards a fork in the small path.  You see nothing out of the
+ordinary.~
+~
+0 -1 17005
+D2
+You look south... visions of sugar plums dance in your head.~
+~
+0 -1 17003
+S
+#17005
+&gOn a Trail by the Swamp&n~
+&g  The pathway southwest of &KBrimstone&g borders a swampland known as Teldescia. Though the 
+swampland to the west provides a dismal view, the &KIronstar &ymountains&g to the northeast stand
+majestically, creating a barrier between the southern lands and the barbaric &Wice tundra&g to the
+north. To the southeast lies the Quel'Sith &Gforest&g, home of the wise and powerful Quel'Sith 
+be seen. Besides &KBrimstone&g, it is the only bastion of goodness left in this foul land. &n
+~
+132 0 0 1 99 2
+D0
+~
+~
+0 -1 9400
+D2
+You peer south, back down the trail towards the pond.  The footprints have
+been stomped out by time and nature.
+~
+~
+0 -1 17004
+S
+#17006
+&yA Heavily Trodden Path&n~
+  &gTracks, larger than a human, lead both east and south. The large amounts of &Gvegetation&g that once 
+covered this trail have been piled into heaps along the sides, creating a &Gdense and tangled mass&g that 
+would make it impossible to travel either north or west.&n
+~
+132 8 0 1 99 1
+D1
+~
+~
+0 -1 17002
+D2
+~
+~
+0 -1 17007
+S
+#17007
+&yA Heavily Trodden Path&n~
+  &gTracks, larger than a human, lead both north and west. The large amounts of &Gvegetation&g that once 
+covered this trail have been piled into heaps along the sides, creating a &Gdense and tangled mass&g that 
+would make it impossible to travel either south or east.&n
+~
+132 8 0 1 99 1
+D0
+~
+~
+0 -1 17006
+D3
+~
+~
+0 -1 17008
+S
+#17008
+&yA Heavily Trodden Path&n~
+  &gTracks, larger than a human, lead both east and west. The large amounts of &Gvegetation&g that once 
+covered this trail have been piled into heaps along the sides, creating a &Gdense and tangled mass&g that 
+would make it impossible to travel either south or north.&n
+~
+132 2097672 0 1 99 8
+D1
+~
+~
+0 -1 17007
+D3
+~
+~
+0 -1 17009
+S
+#17009
+&yA Heavily Trodden Path&n~
+  &gTracks, larger than a human, lead both east and west. A small, &ywooden structure&g lies to the north, half
+covered in &Glarge vines&g. A small opening in the &Gvegetation&g can be seen to the south, but it is too &Kdark&g 
+to see where it leads.&n
+~
+132 8 0 1 99 1
+D0
+~
+~
+0 -1 17010
+D1
+~
+~
+0 -1 17008
+D2
+~
+~
+0 -1 17011
+D3
+~
+~
+0 -1 17013
+S
+#17010
+&yA Small Shack&n~
+&y  The stench of rotting flesh permeates the air as the door to the shack opens. Corpses both humanoid and 
+otherwise hang from the ceiling, all in various states of decay. This is where the trolls store the food for 
+their tribe, and from the looks of things, they don't care much about sanitation.&n
+~
+132 512 0 1 99 1
+D2
+~
+~
+0 -1 17009
+S
+#17011
+&gA Small Hollow&n~
+  &gThe thick &Gvegetation&g to the north parts to reveal a small, semi-enclosed area that seethes with evil. The
+&ytrees&g that provide the protective canopy have been twisted and corrupted, and the ground is barren and 
+devoid of all life. Several &Kshadows&g flit around, and the entire area is a bit creepy. There is a &Kdarkness&g 
+to the south that seems to be where the evil power emanates from, but not even magical visions can pierce the
+&Kdark&g to see what that evil might be.&n
+~
+132 8 0 1 99 1
+D0
+~
+~
+0 -1 17009
+D2
+~
+~
+0 -1 17000
+S
+#17012
+&BOn A Shallow River&n~
+&cThe banks of the river are now completely consumed by &Gintense vegetation&c and &ymud&c.  The 
+water itself appears to be coagulating into a jelatinous mixture... almost like &yclay&c.  What you 
+had once thought to be &Cfish&c, you now fear maybe something much, much larger and more dangerous... &n
+~
+132 0 0 1 99 6
+D0
+You look downstream... the river is still flowing... how neat!~
+~
+0 -1 16907
+D2
+You look upstream... any particular reason?~
+~
+0 -1 16905
+S
+#17013
+&gA Large Clearing&n~
+  &gThe &ytrees&g have been removed from this area, creating a large clearing. Several &ytools&g lay scattered about in
+disarray, leading you to believe the the construction of this area is not yet complete, and its purpose remains
+a mystery.&n
+~
+132 8 0 1 99 1
+D0
+~
+~
+0 -1 17014
+D1
+~
+~
+0 -1 17009
+D3
+~
+~
+0 -1 17016
+S
+#17014
+&gA Large Clearing&n~
+&g  The &ytrees&g have been removed from this area, creating a large clearing. Several &ytools&g lay scattered about in
+disarray, leading you to believe the the construction of this area is not yet complete, and its purpose remains
+a mystery.&n
+~
+132 8 0 1 99 1
+D2
+~
+~
+0 -1 17013
+D3
+~
+~
+0 -1 17015
+S
+#17015
+&gA Large Clearing&n~
+&g  The &ytrees&g have been removed from this area, creating a large clearing. Several &ytools&g lay scattered about in
+disarray, leading you to believe the the construction of this area is not yet complete, and its purpose remains
+a mystery.&n
+~
+132 4 0 1 99 1
+D1
+~
+~
+0 -1 17014
+D2
+~
+~
+0 -1 17016
+S
+#17016
+&gA Large Clearing&n~
+&g  The &ytrees&g have been removed from this area, creating a large clearing. Several &ytools&g lay scattered about in
+disarray, leading you to believe the the construction of this area is not yet complete, and its purpose remains
+a mystery.&n
+~
+132 8 0 1 99 1
+D0
+~
+~
+0 -1 17015
+D1
+~
+~
+0 -1 17013
+S
+#17017
+&BA Large Stream&n~
+&c  The stream here flows in a north to south direction. The banks
+surrounding the water have become &ymuddy&c and slick with constant 
+saturation. The water itself is not very deep, only coming up to 
+your ankles, and is thus easily navigated. Further to the south the
+waters appear to widen.&n
+~
+132 516 0 1 99 1
+D0
+The stream continues.
+~
+~
+0 -1 8506
+D2
+The stream begins to widen and become a river.
+~
+~
+0 -1 17018
+S
+#17018
+&BOn a Shallow River&n~
+  &cThe bright and cheery features of the Quel'Sith begin to give way to a dark, overcast and
+almost surreal landscape. A smell of &Ymold&c and &gmildew&c fills your nostrils as you begin to
+pass what once were beautiful majestic trees, now dead and rotting near the waters edge. The 
+waters take a sharp turn to the west, leading deeper into what is quickly becoming a swamp-like
+territory.&n
+~
+132 516 0 1 99 1
+D0
+The river leads back intot he Quel'Sith.
+~
+~
+0 -1 17017
+D3
+The river leads deeper intot the swamp.
+~
+~
+0 -1 16903
+S
+#17019
+&KThe Dragons Lair&n~
+  &KA steep incline leads you out of the &ymuddy waters&K and into a dark, dry cavern. Numerous
+&Wbones&K lay scattered about, and it becomes apparent that this is the lair of a dragon. Judging
+from the way the cavern has been ransacked and lack of desirable loot laying about, one could 
+surmise that the dragon was slain long ago and the lair looted by those to killed him. Still, it
+may be good to look around and see if they left anything valuable behind.....
+&n
+~
+132 512 0 1 99 2
+D2
+Into the muddy waters.
+~
+~
+0 -1 16922
+S
+$~
+#999999

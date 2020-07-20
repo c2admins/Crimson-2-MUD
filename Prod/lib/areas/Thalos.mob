@@ -1,0 +1,146 @@
+#5200
+mob beholder~
+The mighty beholder~
+You meet a beholder's deadly gaze!
+~
+It has a large central eye that projects an anti-magic ray and ten
+eyestalks atop the round body which can do anything from charm you
+to disintegrate you.  Beholders are not known for their personality.
+~
+319626 1 136249361 8 -870 S
+19 21 25 1d14+350 6d6+5
+4875 5790
+8 8 0
+0 0 17 17 15 15 14 13
+#5201
+mob lamia beast~
+The lamia~
+A strange lamia stands here waiting for her next meal.
+~
+This is a creature with the upper torso of a beautiful woman, but the lower
+body of a four-legged beast. She licks her lips as she looks at you greedily.
+~
+57420 1048577 136249361 0 -1000 S
+9 30 35 9d5+30 2d5+3
+420 260
+8 8 2
+0 0 13 14 12 12 9 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#5202
+mob mimic chest~
+The mimic~
+A strong chest lies in one corner of the room.
+~
+A strong, wooden chest bound with iron straps and a heavy pad-lock on the
+front.
+~
+10 1 136249361 0 10 S
+11 28 33 1d20+130 2d7+5
+825 3400
+6 6 0
+0 0 14 14 11 11 12 8
+#5203
+mob mimic boulder~
+The mimic~
+Two skeletons lie crushed under a large boulder.
+~
+boulder mimic
+~
+10 1 136249361 0 -10 S
+11 28 33 1d15+120 3d5+4
+850 3350
+6 6 0
+0 0 13 14 13 12 11 10
+#5204
+mob mimic floor~
+The mimic~
+The stone floor of this house has been ripped apart.
+~
+floor mimic
+~
+10 1 136249361 0 -140 S
+11 28 33 2d6+110 2d6+4
+875 3300
+6 6 0
+0 0 14 14 11 11 9 9
+#5205
+mob mimic potery~
+The mimic~
+Some broken shards of potery lie strewn about the floor.
+~
+potery mimic
+~
+10 1 136249361 0 200 S
+11 28 33 10d8+90 2d5+6
+900 3250
+6 6 0
+0 0 13 14 13 12 10 11
+#5206
+mob mimic planks~
+The mimic~
+A few wooden planks lie stacked on a low shelf.
+~
+plank mimic
+~
+10 1 136249361 0 0 S
+11 28 38 1d12+110 4d3+4
+950 3200
+6 6 0
+0 0 14 13 11 13 10 12
+#5207
+mob lizard horned~
+The horned lizard~
+A small horned lizard flicks his tounge and slithers away.
+~
+A cute little lizard, that is, if you like reptiles!
+~
+136 1 136249361 0 0 S
+3 34 38 1d4+30 1d4+0
+250 110
+8 8 0
+0 0 12 12 10 10 10 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#5208
+mob golem stone~
+The stone golem~
+In the corner you see a large, stone golem faithfully standing watch.
+~
+It is a big chunk of rock that has been magically formed into a giant
+stone creature. He stands here still guarding the city.
+~
+10 1 136249361 0 600 S
+25 15 18 15d19+2000 5d7+23
+17000 76825
+8 8 0
+0 0 17 16 15 17 16 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#5209
+mob sandworm worm~
+a giant sandworm~
+A giant sandworm is here, half buried in the sand.
+~
+The sandworm is huge, about as thick as an ogre and who knows how long... only
+part of it is sticking out from the sand!
+It is sand coloured, all apart from it's huge red mouth which it seems all
+too happy to show to you.
+~
+16834636 2097153 136249361 35127296 0 S
+20 20 24 10d99+1000 5d5+5
+5100 58000
+8 8 0
+0 0 20 3 5 11 22 3
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+$~
+#999999

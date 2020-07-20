@@ -1,0 +1,1744 @@
+#6500
+The isle shoreline~
+You are standing upon the shore of a small island.  The center of the island
+is shrouded in mist.  A path leads west into thick forest.
+~
+65 0 0 1 99 3
+D1
+The Great River Yansu
+~
+~
+32 -1 3066
+D3
+The forest path
+~
+~
+0 -1 6501
+S
+#6501
+The forest path~
+You are standing on a path in the deep forest.  To the north and west the
+forest continues.  To the east a path travels to the shoreline.
+~
+65 0 0 1 99 3
+D0
+Deeper in the forest
+~
+~
+0 -1 6506
+D1
+the island shoreline
+~
+~
+0 -1 6500
+D3
+Deeper forest
+~
+~
+0 -1 6502
+S
+#6502
+In the deep forest~
+The dark trees on either side of you seem to hem in.  Twigs and leaves brush
+against you and you can feel eyes upon you.  Although you feel no evil, you
+believe that the trees want you far away from here.
+~
+65 0 0 1 99 3
+D0
+Deeper in the forest
+~
+~
+0 -1 6505
+D1
+The forest path
+~
+~
+0 -1 6501
+D3
+Deeper in the forest
+~
+~
+0 -1 6503
+S
+#6503
+In the deep forest~
+The dark trees on either side of you seem to hem in.  Twigs and leaves brush
+against you and you can feel eyes upon you.  Although you feel no evil, you
+believe that the trees want you far away from here.
+~
+65 0 0 1 99 3
+D0
+Deeper in the forest
+~
+~
+0 -1 6504
+D1
+Deeper in the forest
+~
+~
+0 -1 6502
+S
+#6504
+In the deep forest~
+The dark trees on either side of you seem to hem in.  Twigs and leaves brush
+against you and you can feel eyes upon you.  Although you feel no evil, you
+believe that the trees want you far away from here.
+~
+65 0 0 1 99 3
+D1
+Deeper in the forest
+~
+~
+0 -1 6505
+D2
+Deeper in the forest
+~
+~
+0 -1 6503
+S
+#6505
+In the deep forest~
+The dark trees on either side of you seem to hem in.  Twigs and leaves brush
+against you and you can feel eyes upon you.  Although you feel no evil, you
+believe that the trees want you far away from here.
+~
+65 0 0 1 99 3
+D0
+Deeper in the forest
+~
+~
+0 -1 6507
+D1
+Deeper in the forest
+~
+~
+0 -1 6506
+D2
+Deeper in the forest
+~
+~
+0 -1 6502
+D3
+Deeper in the forest
+~
+~
+0 -1 6504
+S
+#6506
+In the deep forest~
+The dark trees on either side of you seem to hem in.  Twigs and leaves brush
+against you and you can feel eyes upon you.  Although you feel no evil, you
+believe that the trees want you far away from here.
+~
+65 0 0 1 99 3
+D2
+The forest path
+~
+~
+0 -1 6501
+D3
+Deeper in the forest
+~
+~
+0 -1 6505
+S
+#6507
+In the deep forest~
+The dark trees on either side of you seem to hem in.  Twigs and leaves brush
+against you and you can feel eyes upon you.  Although you feel no evil, you
+believe that the trees want you far away from here.
+~
+65 0 0 1 99 3
+D2
+Deeper forest
+~
+~
+0 -1 6505
+D3
+Deeper in the forest
+~
+~
+0 -1 6508
+S
+#6508
+In the deep forest~
+The dark trees on either side of you seem to hem in.  Twigs and leaves brush
+against you and you can feel eyes upon you.  Although you feel no evil, you
+believe that the trees want you far away from here.
+~
+65 0 0 1 99 3
+D1
+Deeper in the forest
+~
+~
+0 -1 6507
+D3
+Deeper in the forest
+~
+~
+0 -1 6509
+S
+#6509
+In the deep forest~
+The dark trees on either side of you seem to hem in.  Twigs and leaves brush
+against you and you can feel eyes upon you.  Although you feel no evil, you
+believe that the trees want you far away from here.
+~
+65 0 0 1 99 3
+D1
+Deeper in the forest
+~
+~
+0 -1 6508
+D2
+Deeper in the forest
+~
+~
+0 -1 6510
+S
+#6510
+Before the great temple~
+Before you rises a very large, ancient looking temple.  The entrance lies south
+while a path to the north goes back into the forest.
+~
+65 4 0 1 99 3
+D0
+Deeper in the forest
+~
+~
+0 -1 6509
+D2
+Entrance to the temple
+~
+~
+0 -1 6511
+S
+#6511
+Entrance to the temple~
+You have entered the entrance hall to the Irda Shal'Nagi temple.  It is very
+ancient and a very important structure to the Irda.  A large long hallway
+leaves south from the entrance.
+~
+65 8 0 1 99 0
+D0
+Into the forest
+~
+~
+0 -1 6510
+D2
+The long hallway
+~
+~
+0 -1 6512
+S
+#6512
+The long hallway~
+You are travelling along a long hallway stretching north and south. Large
+and beautiful murals line the walls, carved with gold and silver.
+~
+65 8 0 1 99 0
+D0
+The entrance hall
+~
+~
+0 -1 6511
+D2
+the long hallway
+~
+~
+0 -1 6513
+S
+#6513
+The long hallway~
+You are travelling along a long hallway stretching north and south. Large
+and beautiful murals line the walls, carved with gold and silver.
+A soft golden glow comes from the south.
+~
+65 8 0 1 99 0
+D0
+The long hallway
+~
+~
+0 -1 6512
+D2
+The room of decision
+~
+~
+0 -1 6514
+S
+#6514
+The room of decision~
+You have entered a large round room with many statues in it.  To the west,
+two statues kneeling in prayer guard an arch.  The east arch is guarded
+by two statues leaning on long staves.  Two statues standing proud with
+drawn swords guard the southern arch.  A soft golden glow comes from the
+symbol of the Irda on the roof.
+~
+65 136 0 1 99 0
+D0
+The long hallway
+~
+~
+0 -1 6513
+D1
+The hall of the mage
+~
+~
+0 -1 6564
+D2
+The hall of warriors
+~
+~
+0 -1 6515
+D3
+The hall of the priest
+~
+~
+0 -1 6539
+D4
+~
+symbol~
+19 6509 6588
+S
+#6515
+The hall of warriors~
+You have entered the halls of the Irda warriors. To the north the arch that
+you entered through has disappeared. To the west, east and south the halls
+continue.
+~
+65 268435464 0 1 99 0
+D1
+Corner of the hall of warriors
+~
+~
+0 -1 6517
+D2
+The altar of warriors
+~
+~
+0 -1 6519
+D3
+Corner of the halls
+~
+~
+0 -1 6516
+S
+#6516
+Corner of the hall of warriors~
+The walls of the hall of warriors meet in the corner here. To the south and east
+the hall continues.
+~
+65 268435464 0 1 99 0
+D1
+Hall of warriors
+~
+~
+0 -1 6515
+D2
+The hall of warriors
+~
+~
+0 -1 6520
+S
+#6517
+Corner of the hall of warriors~
+The walls of the hall of warriors meet in the corner here. To the south and west
+the hall continues.
+~
+65 268435464 0 1 99 0
+D2
+The hall of warriors
+~
+~
+0 -1 6518
+D3
+The hall of warriors
+~
+~
+0 -1 6515
+S
+#6518
+The hall of warriors~
+You are walking through the Irda warrior halls. To the west can be seen a
+large altar with many Irda around it.
+~
+65 268435464 0 1 99 0
+D0
+Corner of the hall of warriors
+~
+~
+0 -1 6517
+D2
+Corner of the hall of warriors
+~
+~
+0 -1 6522
+D3
+The altar of warriors
+~
+~
+0 -1 6519
+S
+#6519
+The altar of warriors~
+You have found the altar of the warrior section of the Shal'Nagi temple.
+A large pit is at the base of the altar and directions lead all ways.
+You feel a supreme goodness in your soul as you look upon the holy Irda
+altar.
+~
+65 268435464 0 1 99 0
+D0
+The hall of the warriors
+~
+~
+0 -1 6515
+D1
+The hall of warriors
+~
+~
+0 -1 6518
+D2
+The hall of warriors
+~
+~
+0 -1 6523
+D3
+The hall of warriors
+~
+~
+0 -1 6520
+D5
+The pit looks jagged and there is no safe way down.
+~
+~
+32 -1 6521
+S
+#6520
+The hall of warriors~
+You are walking through the Irda warrior halls. To the east can be seen a
+large altar with many Irda about it.
+~
+65 268435464 0 1 99 0
+D0
+Corner of the hall of warriors
+~
+~
+0 -1 6516
+D1
+The altar of warriors
+~
+~
+0 -1 6519
+D2
+Corner of the hall of warriors
+~
+~
+0 -1 6524
+D3
+~
+~
+16 -1 6527
+S
+#6521
+The sacrifice pit~
+As you fall down this pit you think to yourself "Was this worth it?" As you
+finish this train of thought you land upon the spike of a large spear.
+YOU ARE DEAD
+~
+65 268435470 0 1 99 0
+S
+#6522
+Corner of the hall of warriors~
+The walls of the hall of warriors meet in the corner here. To the north and west
+the hall continues.
+~
+65 268435464 0 1 99 0
+D0
+The hall of warriors
+~
+~
+0 -1 6518
+D3
+The hall of warriors
+~
+~
+0 -1 6523
+S
+#6523
+The hall of warriors~
+You are wandering through the Irda halls of the warriors. To the north
+you see the altar of the warrior. A large exquisite door lies to the south.
+~
+65 268435464 0 1 99 0
+D0
+The altar of warriors
+~
+~
+0 -1 6519
+D1
+Corner of the hall of warriors
+~
+~
+0 -1 6522
+D2
+The meditation room
+~
+door~
+3 6500 6525
+D3
+Corner of the hall of warriors
+~
+~
+0 -1 6524
+S
+#6524
+Corner of the hall of warriors~
+The walls of the hall of warriors meet in the corner here. To the north and east
+the hall continues.
+~
+65 268435464 0 1 99 0
+D0
+The hall of warriors
+~
+~
+0 -1 6520
+D1
+The hall of warriors
+~
+~
+0 -1 6523
+S
+#6525
+The meditation room of Bal'Tannar~
+You have entered a small empty room. There is only one small pillow on
+the floor. To the north is a large exquisite door.
+~
+65 268435464 0 1 99 0
+D0
+The hall of warriors
+~
+~
+0 -1 6523
+D4
+Bal'Tannars chamber
+~
+panel~
+19 6501 6526
+S
+#6526
+Bal'Tannars Chambers~
+You have entered the personal chambers of general Bal'Tannar, guardian
+of the hall of the warriors. There is a large bed in one corner and
+many personal items placed neatly around the room.
+~
+65 268435464 0 1 99 0
+D5
+The meditation room
+~
+~
+0 -1 6525
+S
+#6527
+A dusty hallway~
+You are walking along a very dusty and unused hallway. The hall continues
+to the west.
+~
+65 268435468 0 1 99 0
+D1
+The hall of warriors
+~
+~
+0 -1 6520
+D3
+A dusty hallway
+~
+~
+0 -1 6528
+S
+#6528
+A dusty hallway~
+You have come to the end of the dusty hallway. The hall continues back
+to the east and a stairway goes down. The smell of death comes from the
+stairway.
+~
+65 268435464 0 1 99 0
+D1
+A dusty hallway
+~
+~
+0 -1 6527
+D5
+An ancient hallway
+~
+~
+0 -1 6529
+S
+#6529
+Ancient hallway~
+You are walking along an ancient hallway. Each step you take creates
+a large dust cloud that sends you into a coughing fit. The smell
+of death is very strong but you feel no evil present, just an intent
+hatred for living things.
+~
+65 268435464 0 1 99 0
+D1
+An old crypt
+~
+~
+0 -1 6531
+D2
+The ancient hallway
+~
+~
+0 -1 6532
+D3
+An old crypt
+~
+~
+0 -1 6530
+D4
+A dusty hallway
+~
+~
+0 -1 6528
+S
+#6530
+An old crypt~
+You have entered a large and lavishly furnished crypt. The sarcophagus
+in the center has been opened.  Not much can be made out in the dark but
+you hear a slight movement from your right.
+~
+65 268435464 0 1 99 0
+D1
+The ancient hallway
+~
+~
+0 -1 6529
+S
+#6531
+An old crypt~
+You have entered a large and lavishly furnished crypt. The sarcophagus
+in the center has been opened.  Not much can be made out in the dark but
+you hear a slight movement from your right.
+~
+65 268435464 0 1 99 0
+D3
+The ancient hallway
+~
+~
+0 -1 6529
+S
+#6532
+Ancient hallway~
+You are walking along an ancient hallway. Each step you take creates
+a large dust cloud that sends you into a coughing fit. The smell
+of death is very strong but you feel no evil present, just an intent
+hatred for living things.
+~
+65 268435464 0 1 99 0
+D0
+The ancient hallway
+~
+~
+0 -1 6529
+D1
+An old crypt
+~
+~
+0 -1 6534
+D2
+The ancient hallway
+~
+~
+0 -1 6535
+D3
+An old crypt
+~
+~
+0 -1 6533
+S
+#6533
+An old crypt~
+You have entered a large and lavishly furnished crypt. The sarcophagus
+in the center has been opened.  Not much can be made out in the dark but
+you hear a slight movement from your right.
+~
+65 268435464 0 1 99 0
+D1
+The ancient hallway
+~
+~
+0 -1 6532
+S
+#6534
+An old crypt~
+You have entered a large and lavishly furnished crypt. The sarcophagus
+in the center has been opened.  Not much can be made out in the dark but
+you hear a slight movement from your right.
+~
+65 268435464 0 1 99 0
+D3
+The ancient hallway
+~
+~
+0 -1 6532
+S
+#6535
+Ancient hallway~
+You are walking along an ancient hallway. Each step you take creates
+a large dust cloud that sends you into a coughing fit. The smell
+of death is very strong but you feel no evil present, just an intent
+hatred for living things.
+~
+65 268435464 0 1 99 0
+D0
+The ancient hallway
+~
+~
+0 -1 6532
+D1
+An old crypt
+~
+~
+0 -1 6537
+D2
+The crypt of Morsath
+~
+door~
+19 6502 6538
+D3
+An old crypt
+~
+~
+0 -1 6536
+S
+#6536
+An old crypt~
+You have entered a large and lavishly furnished crypt. The sarcophagus
+in the center has been opened.  Not much can be made out in the dark but
+you hear a slight movement from your right.
+~
+65 268435464 0 1 99 0
+D1
+The ancient hallway
+~
+~
+0 -1 6535
+S
+#6537
+An old crypt~
+You have entered a large and lavishly furnished crypt. The sarcophagus
+in the center has been opened.  Not much can be made out in the dark but
+you hear a slight movement from your right.
+~
+65 268435464 0 1 99 0
+D3
+The ancient hallway
+~
+~
+0 -1 6535
+S
+#6538
+The ancient crypt of Morsath~
+You have entered a very large and poorly lit crypt. This was where the great
+Irda warrior, Morsath, was buried. You wonder what he would do, were he
+somehow raised from the dead.
+~
+65 268435465 0 1 99 0
+D0
+The ancient hallway
+~
+~
+0 -1 6535
+S
+#6539
+The hall of the priest~
+You have entered the halls of the Irda priests. To the east the arch
+that you entered through has disappeared. To the west, north and south the
+halls continue.
+~
+65 268435464 0 1 99 0
+D0
+Corner of the hall of the priest
+~
+~
+0 -1 6540
+D2
+Corner of the hall of the priest
+~
+~
+0 -1 6541
+D3
+The altar of the priest
+~
+~
+0 -1 6543
+S
+#6540
+Corner of the hall of the priest~
+The walls of the hall connect in the corner here. To the south and
+west the halls continue.
+~
+65 268435464 0 1 99 0
+D2
+The hall of the priest
+~
+~
+0 -1 6539
+D3
+The hall of the priest
+~
+~
+0 -1 6544
+S
+#6541
+Corner of the hall of the priest~
+The walls of the hall connect in the corner here. To the north and
+west the halls continue.
+~
+65 268435464 0 1 99 0
+D0
+The hall of the priest
+~
+~
+0 -1 6539
+D3
+The hall of the priestThe hall of the priest
+~
+The hall of the priest~
+0 -1 6542
+S
+#6542
+The hall of the priest~
+You are wandering the Irda hall of the priest. Many Irda priests
+kneel and pray every so often. To the north you see a massive altar.
+~
+65 268435464 0 1 99 0
+D0
+The altar of the priest
+~
+~
+0 -1 6543
+D1
+Corner of the hall of the priest
+~
+~
+0 -1 6541
+D3
+Corner of the hall of the priest
+~
+~
+0 -1 6548
+S
+#6543
+The altar of the priest~
+You are standing at a large altar, dedicated to the Irda priests.
+A large sacrifice pit lies at the base and a small ladder can be
+seen leading into it.
+~
+65 268435464 0 1 99 0
+D0
+The hall of the priest
+~
+~
+0 -1 6544
+D1
+The hall of the priest
+~
+~
+0 -1 6539
+D2
+The hall of the priest
+~
+~
+0 -1 6542
+D3
+The hall of the priest
+~
+~
+0 -1 6547
+D5
+~
+~
+0 -1 6551
+S
+#6544
+The hall of the priest~
+You are wandering the Irda hall of the priest. Many Irda priests
+kneel and pray every so often. To the south you see a massive altar.
+~
+65 268435464 0 1 99 0
+D0
+A large floorplate lies to the north, perhaps you shouldn't stand on it.
+~
+~
+48 -1 6545
+D1
+Corner of the hall of the priest
+~
+~
+0 -1 6540
+D2
+The altar of the priest
+~
+~
+0 -1 6543
+D3
+Corner of the hall of the priest
+~
+~
+0 -1 6546
+S
+#6545
+The spike trap~
+As you enter the tunnel a huge spike springs forward and impales you
+against the wall. YOU ARE DEAD!
+~
+65 268435470 0 1 99 0
+S
+#6546
+Corner of the hall of the priest~
+The walls of the hall connect in the corner here. To the south and
+east the halls continue.
+~
+65 268435464 0 1 99 0
+D1
+The hall of the priest
+~
+~
+0 -1 6544
+D2
+The hall of the priest
+~
+~
+0 -1 6547
+S
+#6547
+The hall of the priest~
+You are wandering the Irda hall of the priest. To the east is a
+large altar to the priests.  To the west is a large iron door.
+~
+65 268435464 0 1 99 0
+D0
+Corner of the hall of the priest
+~
+~
+0 -1 6546
+D1
+The altar to the priest
+~
+~
+0 -1 6543
+D2
+Corner of the hall of the priest
+~
+~
+0 -1 6548
+D3
+The meditation chamber
+~
+door~
+3 6503 6549
+S
+#6548
+Corner of the hall of the priest~
+The walls of the hall connect in the corner here. To the north and
+east the halls continue.
+~
+65 268435464 0 1 99 0
+D0
+The hall of the priest
+~
+~
+0 -1 6547
+D1
+The hall of the priest
+~
+~
+0 -1 6542
+S
+#6549
+The meditation chamber~
+You have entered the meditation chamber of the high-priest Zai'Isha.
+There is nothing but a pillow in the room. A intense feeling of good
+rushes through you.
+~
+65 268435464 0 1 99 0
+D0
+Chambers if Zai'Isha
+~
+door~
+19 6504 6550
+D1
+The hall of the priest
+~
+~
+0 -1 6547
+S
+#6550
+Chambers of Zai'Isha~
+You have entered the private chambers of the high-priestess Zai'Isha.
+There is a small bed in one corner and a large table with many items
+on it in the opposite corner.
+~
+65 268435464 0 1 99 0
+D2
+The meditation chamber
+~
+~
+0 -1 6549
+S
+#6551
+A dusty hallway~
+You are walking along a long dusty passage. A ladder leads up to a
+large altar and the passage continues south.
+~
+65 268435468 0 1 99 0
+D2
+The dusty hallway
+~
+~
+0 -1 6552
+D4
+The altar of the priest
+~
+~
+0 -1 6543
+S
+#6552
+A dusty hallway~
+You are walking along a long dusty passage. A stairwell leads down and
+the hall continues north.
+~
+65 268435464 0 1 99 0
+D0
+The dusty hallway
+~
+~
+0 -1 6551
+D5
+An ancient hallway
+~
+~
+0 -1 6553
+S
+#6553
+An ancient hallway~
+You are walking along a very ancient hallway. The smell of death is
+strong. Many large sculptures overlook the passage, but no feeling of
+evil is around, just a hatred for all living things.
+~
+65 268435464 0 1 99 0
+D0
+An old crypt
+~
+~
+0 -1 6554
+D2
+An old crypt
+~
+~
+0 -1 6555
+D3
+An ancient hallway
+~
+~
+0 -1 6556
+D4
+The dusty hallway
+~
+~
+0 -1 6552
+S
+#6554
+An old crypt~
+You have entered a very old crypt. A huge sarcophagus lies in the middle
+of the room but the lid has been moved and it is empty. A large sculpture
+at the back of the room makes your stomach curdle.
+~
+65 268435464 0 1 99 0
+D2
+The ancient hallway
+~
+~
+0 -1 6553
+S
+#6555
+An old crypt~
+You have entered a very old crypt. A huge sarcophagus lies in the middle
+of the room but the lid has been moved and it is empty. A large sculpture
+at the back of the room makes your stomach curdle.
+~
+65 268435464 0 1 99 0
+D0
+An ancient hallway
+~
+~
+0 -1 6553
+S
+#6556
+An ancient hallway~
+You are walking along a very ancient hallway. The smell of death is
+strong. Many large sculptures overlook the passage, but no feeling of
+evil is around, just a hatred for all living things.
+~
+65 268435464 0 1 99 0
+D0
+An old crypt
+~
+~
+0 -1 6557
+D1
+An ancient hallway
+~
+~
+0 -1 6553
+D2
+An old crypt
+~
+~
+0 -1 6558
+D3
+An ancient hallway
+~
+~
+0 -1 6559
+S
+#6557
+An old crypt~
+You have entered a very old crypt. A huge sarcophagus lies in the middle
+of the room but the lid has been moved and it is empty. A large sculpture
+at the back of the room makes your stomach curdle.
+~
+65 268435464 0 1 99 0
+D2
+An ancient hallway
+~
+~
+0 -1 6556
+S
+#6558
+An old crypt~
+You have entered a very old crypt. A huge sarcophagus lies in the middle
+of the room but the lid has been moved and it is empty. A large sculpture
+at the back of the room makes your stomach curdle.
+~
+65 268435464 0 1 99 0
+D0
+An ancient hallway
+~
+~
+0 -1 6556
+S
+#6559
+An ancient hallway~
+You are walking along a very ancient hallway. The smell of death is
+strong. Many large sculptures overlook the passage, but no feeling of
+evil is around, just a hatred for all living things.
+~
+65 268435464 0 1 99 0
+D0
+An old crypt
+~
+~
+0 -1 6560
+D1
+An ancient hallway
+~
+~
+0 -1 6556
+D2
+An old crypt
+~
+~
+0 -1 6561
+D3
+An old crypt
+~
+~
+0 -1 6562
+D5
+The crypt of Riadun
+~
+door~
+19 6505 6563
+S
+#6560
+An old crypt~
+You have entered a very old crypt. A huge sarcophagus lies in the middle
+of the room but the lid has been moved and it is empty. A large sculpture
+at the back of the room makes your stomach curdle.
+~
+65 268435464 0 1 99 0
+D2
+An ancient hallway
+~
+~
+0 -1 6559
+S
+#6561
+An old crypt~
+You have entered a very old crypt. A huge sarcophagus lies in the middle
+of the room but the lid has been moved and it is empty. A large sculpture
+at the back of the room makes your stomach curdle.
+~
+65 268435464 0 1 99 0
+D0
+An ancient hallway
+~
+~
+0 -1 6559
+S
+#6562
+An old crypt~
+You have entered a very old crypt. A huge sarcophagus lies in the middle
+of the room but the lid has been moved and it is empty. A large sculpture
+at the back of the room makes your stomach curdle.
+~
+65 268435464 0 1 99 0
+D1
+An ancient hallway
+~
+~
+0 -1 6559
+S
+#6563
+Riadun's Crypt~
+You have entered the holy crypt of the high-priestess Riadun, the
+greatest ever Irda priestess. A large sculpture of Riadun stares
+down at you from the back wall, and the likeness of her face has been
+carved in the large marble sarcophagus in the center of the room.
+~
+65 268435464 0 1 99 0
+D4
+An ancient hallway
+~
+~
+0 -1 6559
+S
+#6564
+The hall of the mage~
+You have entered the halls of the Irda mages. To the west the arch that
+you entered through has disappeared. To the east, north and south the halls
+continue.
+~
+65 268435464 0 1 99 0
+D0
+Corner of the hall of the mage
+~
+~
+0 -1 6566
+D1
+The altar of the mage
+~
+~
+0 -1 6568
+D2
+Corner of the hall of the mage
+~
+~
+0 -1 6565
+S
+#6565
+Corner of the hall of the mage~
+You are wandering around the Irda mage halls. The walls meet here while
+to the north and east the halls continue. Large mystical orbs float above
+your head.
+~
+65 268435464 0 1 99 0
+D0
+The hall of the mage
+~
+~
+0 -1 6564
+D1
+The hall of the mage
+~
+~
+0 -1 6569
+D2
+~
+~
+16 -1 6576
+S
+#6566
+Corner of the hall of the mage~
+You are wandering around the Irda mage halls. The walls meet here while
+to the south and east the halls continue. Large mystical orbs float above
+your head.
+~
+65 268435464 0 1 99 0
+D1
+The hall of the mage
+~
+~
+0 -1 6567
+D2
+The hall of the mage
+~
+~
+0 -1 6564
+S
+#6567
+The hall of the mage~
+You are wandering the Irda mage halls. To the south is a large altar
+with much mystical energy surround it in a large cloud. Many mystical
+orbs float around your head.
+~
+65 268435464 0 1 99 0
+D1
+Corner of the hall of the mage
+~
+~
+0 -1 6570
+D2
+The altar of the mage
+~
+~
+0 -1 6568
+D3
+Corner of the hall of the mage
+~
+~
+0 -1 6566
+S
+#6568
+The altar of the mage~
+You have entered the presence of the Irda altar to the mage. A large
+cloud of mystical energy floats towards you and passes through your
+mind. Every Irda mage now has access to your vast knowledge and experience.
+~
+65 268435464 0 1 99 0
+D0
+The hall of the mage
+~
+~
+0 -1 6567
+D1
+The hall of the mage
+~
+~
+0 -1 6571
+D2
+The hall of the mage
+~
+~
+0 -1 6569
+D3
+The hall of the mage
+~
+~
+0 -1 6564
+D5
+The room of Ky'Ilad
+~
+door~
+3 6506 6574
+S
+#6569
+The hall of the mage~
+You are wandering the Irda mage halls. To the north is a large altar
+with much mystical energy surround it in a large cloud. Many mystical
+orbs float around your head.
+~
+65 268435464 0 1 99 0
+D0
+The altar of the mage
+~
+~
+0 -1 6568
+D1
+Corner of the hall of the mage
+~
+~
+0 -1 6572
+D3
+Corner of the hall of the mage
+~
+~
+0 -1 6565
+S
+#6570
+Corner of the hall of the mage~
+You are wandering around the Irda mage halls. The walls meet here while
+to the south and west the halls continue. Large mystical orbs float above
+your head.
+~
+65 268435464 0 1 99 0
+D2
+The hall of the mage
+~
+~
+0 -1 6571
+D3
+The hall of the mage
+~
+~
+0 -1 6567
+S
+#6571
+The hall of the mage~
+You are wandering the Irda mage halls. To the south is a large altar
+with much mystical energy surround it in a large cloud. Many mystical
+orbs float around your head.
+~
+65 268435464 0 1 99 0
+D0
+Corner of the hall of the mage
+~
+~
+0 -1 6570
+D1
+To the east is a large orb that you sense may be a trap.
+~
+~
+0 -1 6573
+D2
+Corner of the hall of the mage
+~
+~
+0 -1 6572
+D3
+The altar of the mage
+~
+~
+0 -1 6568
+S
+#6572
+Corner of the hall of the mage~
+You are wandering around the Irda mage halls. The walls meet here while
+to the south and west the halls continue. Large mystical orbs float above
+your head.
+~
+65 268435464 0 1 99 0
+D0
+The hall of the mage
+~
+~
+0 -1 6571
+D3
+The hall of the mage
+~
+~
+0 -1 6569
+S
+#6573
+The magic trap~
+As you enter the room a huge mystical orb appears. This moves across the
+room to you and covers your head. You find it extremely hard to breath
+and die of asphyxiation within 7 minutes. YOU ARE DEAD!
+~
+65 268435470 0 1 99 0
+S
+#6574
+The meditation chamber~
+You have entered the meditation chamber of the Irda Arch-Mage Ky'Ilad.
+A small pillow on the floor is the only furnishing in the room except
+for a large bookcase with many magic tomes in it.
+~
+65 268435464 0 1 99 0
+D0
+The chambers of Ky'Ilad
+~
+door~
+19 6507 6575
+D4
+The altar of the mage
+~
+~
+0 -1 6568
+S
+#6575
+The chambers of Ky'Ilad~
+You have entered the private chambers of Ky'Ilad, Irda arch-mage.
+A large wooden bookcase lies along the back wall with many white
+bound spellbooks in it. A large wooden staff also lies against the
+bookcase.
+~
+65 268435464 0 1 99 0
+D2
+The meditation chamber
+~
+~
+0 -1 6574
+S
+#6576
+A dusty hallway~
+You are walking down a very dusty hallway. The smell of death comes faintly
+from the east. To the north is the hall of the mage. A large statue of a
+demon protects the hallway.
+~
+65 268435468 0 1 99 0
+D0
+Corner of the hall of the mage
+~
+~
+0 -1 6565
+D1
+A dusty hallway
+~
+~
+0 -1 6577
+S
+#6577
+A dusty hallway~
+You are walking down a very dusty hallway. The smell of death comes from
+the stairs winding there way down at the end of the hallway. A large figure
+of an Irda mage guards the stairwell.
+~
+65 268435464 0 1 99 0
+D3
+A dusty hallway
+~
+~
+0 -1 6576
+D5
+An ancient hallway
+~
+~
+0 -1 6578
+S
+#6578
+An ancient hallway~
+You are walking along an ancient hallway. Many statues of Irda mages line
+the hallway while small openings lead into crypts on each side. The smell
+of death comes from all around.
+~
+65 268435464 0 1 99 0
+D1
+An old crypt
+~
+~
+0 -1 6580
+D2
+An ancient hallway
+~
+~
+0 -1 6581
+D3
+An old crypt
+~
+~
+0 -1 6579
+D4
+A dusty hallway
+~
+~
+0 -1 6577
+S
+#6579
+An old crypt~
+You have entered a small old crypt.  A large sarcophagus in the center
+lies with the lid half off, and the contents gone.  A statue of an Irda
+mage stands at the back protecting the crypt.
+~
+65 268435464 0 1 99 0
+D1
+An ancient hallway
+~
+~
+0 -1 6578
+S
+#6580
+An old crypt~
+You have entered a small old crypt.  A large sarcophagus in the center
+lies with the lid half off, and the contents gone.  A statue of an Irda
+mage stands at the back protecting the crypt.
+~
+65 268435464 0 1 99 0
+D3
+An ancient hallway
+~
+~
+0 -1 6578
+S
+#6581
+An ancient hallway~
+You are walking along an ancient hallway. Many statues of Irda mages line
+the hallway while small openings lead into crypts on each side. The smell
+of death comes from all around.
+~
+65 268435464 0 1 99 0
+D0
+An ancient hallway
+~
+~
+0 -1 6578
+D1
+An ancient hallway
+~
+~
+0 -1 6584
+D2
+An old crypt
+~
+~
+0 -1 6583
+D3
+An old crypt
+~
+~
+0 -1 6582
+S
+#6582
+An old crypt~
+You have entered a small old crypt.  A large sarcophagus in the center
+lies with the lid half off, and the contents gone.  A statue of an Irda
+mage stands at the back protecting the crypt.
+~
+65 268435464 0 1 99 0
+D1
+An ancient hallway
+~
+~
+0 -1 6581
+S
+#6583
+An old crypt~
+You have entered a small old crypt.  A large sarcophagus in the center
+lies with the lid half off, and the contents gone.  A statue of an Irda
+mage stands at the back protecting the crypt.
+~
+65 268435464 0 1 99 0
+D0
+An ancient hallway
+~
+~
+0 -1 6581
+S
+#6584
+An ancient hallway~
+You are walking along an ancient hallway. Many statues of Irda mages line
+the hallway while small openings lead into crypts on each side. The smell
+of death comes from all around.
+~
+65 268435464 0 1 99 0
+D0
+An old crypt
+~
+~
+0 -1 6585
+D1
+The crypt of Kalison
+~
+door~
+19 6508 6587
+D3
+An ancient hallway
+~
+~
+0 -1 6581
+D4
+An old crypt
+~
+~
+0 -1 6586
+S
+#6585
+An old crypt~
+You have entered a small old crypt.  A large sarcophagus in the center
+lies with the lid half off, and the contents gone.  A statue of an Irda
+mage stands at the back protecting the crypt.
+~
+65 268435464 0 1 99 0
+D2
+An ancient hallway
+~
+~
+0 -1 6584
+S
+#6586
+An old crypt~
+You have entered a small old crypt.  A large sarcophagus in the center
+lies with the lid half off, and the contents gone.  A statue of an Irda
+mage stands at the back protecting the crypt.
+~
+65 268435464 0 1 99 0
+D5
+An ancient hallway
+~
+~
+0 -1 6584
+S
+#6587
+The crypt of Kalison~
+You have entered the large crypt of Kalison, greatest Irda Arch-Mage ever.
+Two large statues stand sentinel next to the door. A large red veined marble
+sarcophagus lies empty in the middle of the room.
+~
+65 268435464 0 1 99 0
+D3
+An ancient hallway
+~
+~
+0 -1 6584
+S
+#6588
+The final corridor~
+You are walking the final corridor. After having defeated each of the temples
+guardians you are ready to face the final challenge. The statues of warriors
+line this hall.
+~
+65 402653320 0 1 99 0
+D0
+The final corridor
+~
+door~
+3 6509 6589
+D5
+The room of decision
+~
+~
+0 -1 6514
+S
+#6589
+The final corridor~
+You are walking the final corridor. After having defeated each of the temples
+guardians you are ready to face the final challenge. The statues of mages
+line this hall.
+~
+65 402653320 0 1 99 0
+D0
+The final corridor
+~
+door~
+3 6510 6590
+D2
+The final corridor
+~
+~
+0 -1 6588
+S
+#6590
+The final corridor~
+You are walking the final corridor. After having defeated each of the temples
+guardians you are ready to face the final challenge. The statues of priests
+line this hall.
+~
+65 402653320 0 1 99 0
+D0
+The room of Shal'Nai
+~
+door~
+3 6511 6591
+D2
+The final corridor
+~
+~
+0 -1 6589
+S
+#6591
+Chamber of Shal'Nai~
+You have entered the chamber of the Irda supreme highlord Shal'Nai. The
+large circular room has many statues forming a wide ring around the walls.
+A large pit in the centre of the room oozes magical energy.
+~
+65 268435464 0 1 99 0
+D2
+The final corridor
+~
+~
+0 -1 6590
+S
+$~
+#999999

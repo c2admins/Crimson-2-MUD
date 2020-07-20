@@ -1,0 +1,139 @@
+#4955
+mob qis queen mutated beast~
+Qis~
+A wierd, foul stenched creature rests upon the largest wall in the cavern.
+~
+&wThis is the worst of the mutated animals.  It is the "queen" so to speak of this colony of mutated beasts.  It's got the body of a horse, with wings.  It's head, that of a Cobra snake.  Upon its feet are claws were hooves would normally be.  It's body is massive, as it stands well over twenty feet high, and thirteen feet across.  It's massive wings have blood laced across the feathers.  You can tell it isn't the nicest of creatures.  The large drops of venom oozing from its mouth indicates this mutated species is quite advanced at the art of killing, and that any creature that is senses with warm blood, it will capture, and sink its poisonous fangs deep into them.&n
+~
+29360138 1343489 136249361 540541134 -1000 S
+48 0 -40 1d1+69999 30d30+55
+5000000 2000000
+8 8 0
+0 0 25 17 15 25 15 15
+SKILL=SKILL_STEAL 99
+ATTACK_SKILL=1
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=1
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+#4956
+mob horgla mutated beast~
+&GA Horgla&n~
+A small &Glizard&g looking creature rests here.&n
+~
+&GA small lizard creature, with a long tongue.  It has the power to attach its tongue to human skin and rip away all of it in one fell swoop.  It's claws and teeth are brunt, but get the job done There is a small tube in their tongue that drains the blood and other bodily fluids from their human victims.  Atop its right eye, you see a small tentacle, as if its been crossbred with atleast three species.  Scales line its underbelly and sides, while fur lies on the back and outer extremities of this beast.&n
+~
+29360138 1310721 136249361 66 -1000 S
+46 1 -30 1d1+59999 20d10+65
+250000 1300000
+8 8 0
+0 0 16 17 16 14 14 14
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 45
+SKILL=SKILL_FOURTH 30
+SKILL=SPELL_HEAL_MINOR 99
+#4957
+mob rizzaru mutated beast~
+&KA Rizzaru&n~
+&KA furry ape looking beast roams the cavern aimlessly.&n
+~
+&yThis animal is very strange.  A Rizzaru has the body of a regular primate, and yet, its feet and arms are made of octopi tentacles.  Its stomach area is a gaping hole, looking ready to devour anything that appears human.&n
+~
+29360136 262145 136249361 2097216 -750 S
+46 0 -25 1d1+59999 30d10+45
+500000 1100000
+8 8 0
+0 0 16 18 14 15 14 14
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_SECOND 99
+#4958
+mob tay mutated beast~
+&WA T&Ya&Wy&n~
+&WA large &ymountain lion&W looking creature with strange markings stands in the middle of the room&n
+~
+&WA Tay is unlike anything you've seen in here.  It seems almost normal.  Looking like a Mountain Lion, it has the entire body of the animal.  It snarls, and you see its flesh begin glowing.  As the layer of fur is has been successfully removed you see what horrible things this creature has. Razor-sharp wings stand on the back of this animal.  It's legs have become larger, having spiked pieces of flesh wrapping around the ankle area.  The feet have become bird-like in appearance, but with eight toes, and very sharp claws attached to each.  Tay's are cute in appearance, but they are the same as all the others in here.  Blood thirsty animals.&n
+~
+25223178 262145 136249361 0 -1000 S
+45 3 -25 1d1+35999 100d5+33
+350000 750000
+8 8 0
+9 0 25 22 22 22 22 22
+SKILL=SKILL_STEAL 99
+#4959
+mob pool of fears~
+&KThe Pool of Fears&n~
+&KThe Pool of Fears lays hidden in here.&n
+~
+&KA large, blackened puddle of water sits in the middle of this small cavern. Amidsts its waters rests a sword of unimaginable power.  It glows with fire even in the water.  The mutagens that have affected the creatures in here, have surely affected the water as well.  As you reach down into the murky depths of this pool to pull its sword forth and into your hands, it engulfs your whole body in toxic water...&n
+~
+57370 1343489 136249361 17826432 0 S
+47 0 -35 1d1+39999 20d10+30
+2000000 1500000
+8 8 0
+0 0 25 17 14 25 12 12
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+#4960
+mob reku high elf warrior~
+&WReku, The High Elf&n~
+&wA slender elf, wearing robes of white is here encased in a coocoon upon the wall.&n
+~
+&WA very graceful elf stands before you.  Drapped in white, it stands here.  It's clothes have been untouched throughout the years it has been up here, trapped.  Once revered as a rich nobleman and a very valiant warrior, Reku was to bewed the Princess of the Kingdom.  He was riding his horse when his trusty steed led him upon the base of this mountain.  He was too late.  All the screams had dwindled by the time he reached around thirty five thousand feet up.  He still trugged on and alas was inside the cavern where he was attacked by the horrid Qis.  She strung him up, weaving an intricate webbing across his body encasing him until she was ready to feast.  Luckily, Qis eat once every millenia, bad thing is, Qis last several millenia.&n
+~
+10 32769 136249361 0 1000 S
+45 0 -30 1d1+22999 30d15+45
+3000000 1000000
+8 8 0
+0 0 17 15 16 16 13 12
+SKILL=SPELL_SANCTUARY 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#4961
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 16 15 12 14
+#4962
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 18 15 14 14 15
+$~
+#999999

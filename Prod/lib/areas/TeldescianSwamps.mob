@@ -1,0 +1,622 @@
+#16900
+mob large alligator~
+&Ga large alligator&n~
+&GA large alligator is slithering towards you.&n
+~
+You cringe in terror as you look into the glowing red eyes of this
+beast.  It whips its tail from side to side contemplating how it
+going to tear you from limb to limb.  You decide it best to RUN
+before it kills you.
+~
+57420 1 136249361 524288 0 S
+29 14 8 20d30+2000 3d10+30
+0 87000
+8 8 0
+0 0 18 18 17 17 17 14
+#16901
+mob Black Gorg~
+&Ka black Gorg&n~
+&KA black Gorg is standing here, hunting his dinner.&n
+~
+  Resembling a half-man, half-ape creature, the gorg is a fearsome looking beast to behold. It
+stands just under seven feet tall, with long, powerful looking arms that look like they could
+tear you to shreds in a heartbeat. It's entire body is covered in a coarse, black fur, from 
+which it derives its name. The creatures are indigenous to these swamps, and notoriously evil.
+It may be best to leave it alone before it decides it wants you for dinner.
+~
+76 1 136249361 8 -1000 S
+32 11 -1 10d40+3400 4d7+40
+50000 192000
+8 8 1
+0 0 20 21 18 17 18 18
+#16902
+mob Vines green~
+&GA large green vine&n~
+&gSome &Gvines&g are here, growing out of the &cwater&g.&n
+~
+These vines are about 2 inches thick... and rustle around in an odd
+manner.  You wonder if someone or something is behind them making them
+move, but you cannot this.  Their long, powerful arms remind you of
+a boa constrictor.  You doubt that they are very friendly.
+~
+57354 1 136249361 0 0 S
+13 26 31 5d5+150 2d5+4
+0 4000
+8 8 0
+0 0 14 16 13 13 10 12
+#16903
+mob Viper Black~
+&ga &Kblack &Gv&gipe&Gr&n~
+&gThere is a &Kblack &Gv&gipe&Gr&g here, manuervering into a position to strike.&n
+~
+This is no ordinary snake... it is about 9 feet long, with two huge
+fangs, just waiting to sink into your flesh.  It has a complex
+geometric pattern running down its back with tends to make you
+dizzy as it slithers from side to side.
+~
+122952 1 136249361 524288 0 S
+16 24 28 10d4+180 4d5+1
+0 5000
+8 8 0
+0 0 16 18 15 15 12 12
+#16904
+mob Viper Green~
+&Ga green viper&n~
+&gThere is a &Ggreen viper&g here, slithering from side to side.&n
+~
+  Though much less agressive than its black cousin, the viper is still a very poisonous snake, and best left
+alone. It's natural green color gives it ecellent camouflage, making it hard to detect at times, and that much
+more dangerous.
+~
+65608 1 136249361 524296 0 S
+15 25 29 10d3+180 4d4+3
+0 4700
+8 8 0
+0 0 17 16 14 16 12 12
+#16905
+mob Red Arantan plant~
+&ga &rred Arantan&G plant&n~
+&gA very curious looking &rred &Gplant &gis here.
+~
+  The beautiful red coloration of this plant stands out against the normal greens and browns of the swamp. 
+Upon closer inspection, a large number of thorn-like projections stick out from it's petals, and run down the 
+stem as well. An intoxicating aroma emanates from the stamen, drawing you closer...wait. Did it just move?
+~
+10 1 136249361 8 0 S
+18 22 26 2d10+270 5d5+0
+0 5650
+8 8 0
+0 0 15 15 14 12 13 10
+#16906
+mob giant oak~
+&ya giant oak&n~
+&yA giant oak &Gtree&y towers above you, reaching high into the &Csky&n.
+~
+  This tree is strong, old, and incredibly TALL!!!  It's leaves rustle vigorously, despite the lack of wind.  
+Even though the large plants should be inanimate, and you have the feeling that they are watching you.
+~
+10 1 136249361 8 400 S
+42 2 -26 100d10+18000 10d5+125
+0 500000
+8 8 0
+0 0 21 22 20 19 18 16
+#16907
+mob Snake Water Huge~
+&ga huge &cwater&g snake&n~
+&gA large snake head dips above and below the &cwater&g here.&n
+~
+  Since this snake keeps the majority of it's body below the water, it is impossible to tell its exact 
+dimensions. It's head, however, is about as long as a horse's, and twice as wide, so it could probably swallow
+you whole and is best avoided.
+~
+72 1 136249361 524288 0 S
+27 13 14 10d10+2200 2d10+30
+0 83000
+8 8 0
+0 0 17 16 15 15 16 13
+#16908
+mob serpent sentry~
+&ga &Gs&cerpen&Gt &gsentry&n~
+&gA strange serpent like creature stands before you.&n
+~
+  This strange creature resembles a cross between a giant seahorse and snake. It has tough, rigid skin covering
+its entire body, and a long protruding snout. A forked tongue flicks into the air, smelling around for signs
+of intruders, and its snake-like eyes scan the horizon for hostiles.
+~
+14 1 136249361 136 0 S
+34 6 -7 10d50+3750 10d4+35
+70000 204000
+8 8 1
+0 0 19 19 19 19 17 15
+#16909
+mob Sentry Serpant~
+A Serpant Sentry~
+A Serpant Sentry of the Caves of Apocrypha stands before you.
+~
+This sentry reminds you of a giant seahorse, with its rigid skin,
+and long protruding snout.  It appears to be a distinguished
+guardian for a magical force beyond this dimension!
+~
+14 1 136249361 136 -1000 S
+34 0 -25 5d5+675 4d5+35
+100000 650000
+8 8 1
+0 0 19 19 17 17 15 18
+#16910
+mob Spider Water Creeping~
+&ga creeping &cwater &Kspider&n~
+&g A large &Kspider&g appears to glide across the &cwater&g here.&n
+~
+  About the size of a melon, the spider is still rather small compared to other creatures, but very deadly. A
+white design resembling an anchor lies on the top of its black abdomen, and eight red eyes dominate its head.
+~
+122952 1 136249361 0 0 S
+14 26 30 5d6+150 2d5+6
+0 4400
+8 8 0
+0 0 15 16 14 13 11 10
+#16911
+mob mosquito killer~
+a killer mosquito~
+A giant mosquito is here, buzzing around and being annoying.
+~
+  About the size of a quarter, the mosquito is more of a nuisance than a threat. 
+~
+57416 1 136249361 524298 0 S
+5 35 37 3d4+15 1d1+1
+0 150
+8 8 0
+0 0 12 11 11 11 11 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#16912
+mob Oraton Spitefull~
+&ythe &KO&yrato&Kn&n~
+&gA strange &yapelike&g creature is running around the swamp, raging over nothing.&n
+~
+  This unusual creature stands about four feet tall, with thick, trunk-like appendages and a barrel shaped
+chest. It's skin is a blackish-brown and its face is wrinkled and distorted. It's hands are large, even over-
+sized, and most likely it's primary weapon. 
+~
+76 1 136249361 8 -875 S
+26 15 16 2d10+2200 6d4+0
+20000 78500
+8 8 1
+0 0 18 19 15 17 13 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#16913
+mob Agalaf Strange~
+&gA strange &RAgalaf&n~
+&gA strange &RAgalaf&g is wandering around in a daze.&n
+~
+This monster is about six foot three with orange hair and buckteeth. You find it difficult to look into its 
+eyes without bursting into laughter, as they are crossed.  He has a silly grin on his face and appears to be
+completely harmless.
+~
+76 1 136249361 8 200 S
+23 17 20 10d30+1500 10d2+19
+12500 69000
+8 8 0
+0 0 17 17 16 16 15 13
+#16914
+mob don't load~
+A large scaled iguana~
+A large scaled iguana is here, searching for food.
+~
+This is a huge, scaled iguana... with large spikes that line its
+back.  It's eyes are vertical slits, which peer curiously at you.
+It isn't moving, with the exception of it's tail, which is swaying
+back and forth.  Ocassionally it sticks out its tounge, which you
+notice is forked.
+~
+72 1 136249361 524296 0 S
+29 0 -10 5d5+675 5d5+7
+30000 500000
+8 8 0
+0 0 18 17 17 18 15 14
+#16915
+mob old priest~
+&wan old forgotten &Wpriest&n~
+&gA very old man sits here, a look of sorrow upon his face.&n
+~
+  This man looks like he was at one time a hero of the lands. His time spent in these swamps seems to have 
+sapped the strength from his body, and his once large frame has shrunken, and his pale blue eyes are almost
+lifeless. He mumbles something under his breath..something about a holy object, but it is hard to understand
+what he is saying.
+~
+603979786 1 136249361 136 1000 S
+43 1 -26 10d30+8000 10d10+70
+1000000 504000
+8 8 1
+0 0 22 21 20 19 19 16
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_EARTHQUAKE 50
+#16916
+mob swamp witch~
+&Kthe swamp witch&n~
+&gAn ugly &Kswamp witch&g stands before you, grinning evilly!&n
+~
+The old witch spends most of her time plotting the death of the old priest hero.  Her hair has greyed, and 
+does not appear to be very powerful. Time has taken its toll on her... however... looks can very well be 
+deceiving.  Her magical powers are, no doubt, stronger then ever!
+~
+10 32769 136249361 136 -1000 S
+40 3 -22 35d20+6000 5d20+15
+240000 1000000
+8 8 2
+0 0 21 23 20 20 19 17
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_ENERGY_DRAIN 60
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_LIFETAP 99
+#16917
+mob don't load~
+A Hero of Protection~
+A Hero of Protection stands bravely before you, smiling happily.
+~
+This Hero is of a class unknown to anywhere but Apocrypha.  He has
+an aura about him which emits a feeling of peace, as he day dreams
+about finally achieving peace on the surface.  However, this appears
+not to be in the scope of the immediate future.
+~
+72 1 136249361 136 1000 S
+39 0 -30 5d10+5000 7d7+50
+300000 700000
+8 8 1
+0 0 21 19 19 20 18 18
+#16918
+mob Demon corruption~
+&Ka &rd&Kemo&rn &Kof &rc&Korruptio&rn&n~
+&KA &rd&Kemo&rn &Kof &rc&Korruptio&rn &Kstands before you, strong and fearless.&n
+~
+  Nephestus' personal minions, the demons of curruption live only to do his bidding. They stand roughly eight
+feet tall, with red leathery skin, large bat-like wings and wickedly curved claws. Their thirst for blood is 
+second only to their loyalty to their master, and they are not a foe to be taken lightly.
+~
+57418 32769 136249361 2097288 -1000 S
+39 5 -20 10d50+5000 10d5+45
+500000 235000
+8 8 0
+0 0 20 21 18 19 18 15
+SKILL=SPELL_FIREBALL 50
+#16919
+mob swamp troll~
+a &Kswamp &Gtroll&n~
+&gA large &Kswamp &Gtroll &gis here.&n
+~
+  Much like their plains cousins, the trolls of Torindrel appear more humanoid than their western cousins.
+In general, skin tones range from a pale green to pine, with different mottled variations in between. Their 
+eyes are black, and sunken deeply within their skulls, accenting the appearance of their large square jowels.
+Unlike the plains trolls, the trolls of the Teldescian swamps maintain a barbaric attitude, and most of their
+intelligence is put towards cunning and tracking. 
+~
+262216 1 136249361 100663296 -200 S
+24 16 18 10d5+1900 2d9+25
+10000 72500
+8 8 1
+10 4 19 20 17 18 15 15
+#16920
+mob don't load~
+The Mage of the Dark~
+The Mage of the Dark stands before you, contemplating killing you.
+~
+The mage is sworn to uphold the corruption and evil of the Swamps of
+Apocrypha.  She is dressed entirely in black, and is reading a book
+about the end of the world... 'The Dark Ending.'
+~
+266 1 136249361 138 -1000 S
+34 0 -10 10d10+900 5d5+35
+200000 550000
+8 8 2
+0 0 20 18 17 18 18 14
+#16921
+mob Frog Green~
+&Ga large green frog&n~
+&gA large &Ggreen frog&g is sitting here, eating flies.&n
+~
+The frog is sitting on a stone, licking out randomly hoping to  
+be lucky enough to catch a fly.  This frog is not very large, 
+and doesn't look as mean as the toads that are indigenous to 
+this swamp.
+~
+72 1 136249361 8 0 S
+8 32 35 2d10+30 2d2+5
+0 250
+8 8 0
+0 0 13 14 11 11 11 8
+#16922
+mob Toad huge mother~
+&ga huge mother &ytoad&n~
+&gA huge mother &ytoad&g is sitting here, glaring at you.&n
+~
+This toad doesn't look very friendly, and, in fact, appears to be
+rather angry.  These toads are very territorial, and do not like the
+fact that you are on their land.  You decide it best to either leave
+now or expect to do battle!
+~
+57416 1 136249361 0 -100 S
+13 26 31 10d3+140 3d3+6
+0 4150
+8 8 2
+0 0 15 14 12 14 13 11
+#16923
+mob turtle large cumbersome~
+&ga large turtle&n~
+A large, cumbersome turtle is swimming around, stalking its prey.
+~
+The turtle is very large, and has a plate which makes it somewhat difficult for it to manuever quickly.  
+However, it is stealthy enough that it need not move quickly, because nothing notices it glide by in the 
+water.
+~
+72 1 136249361 524296 0 S
+26 15 15 10d50+1800 2d10+25
+0 80000
+8 8 0
+0 0 18 19 16 15 15 15
+#16924
+mob queen shanodin dryad~
+&GQueen Shanodin&n~
+&GQueen Shanodin&w of the dryads stands here, twisted by the powers of the swamp.&n
+~
+  Once a beautiful and gentle creature, Shanodin has been twisted by the evil magics that have
+flooded the swamp. her once supple body is now withered and torn with bits of a barklike sub-
+stance falling off as she moves. Her hands have become gnarled and clawed, and eyes that could
+once charm a man are now only hollow sockets that cause dread and fear.
+~
+1075118154 1 136249361 2621448 -500 S
+28 15 11 10d50+2000 2d5+45
+15000 85500
+8 8 2
+0 0 18 19 16 16 14 17
+#16925
+mob will o wisp~
+&Ythe will'o'wisp&n~
+&gA large, floating ball of &Ylight&g is here, slowly moving through the swamp.&n
+~
+  Looking like nothing more than a ball of light, the will'o'wisp is anything but. It is a living,
+breathing being that likes nothing more than lashing out at unsuspecting prey with its tentacles,
+and then absorbing its victim into its body to be slowly digested..gruesome.
+~
+40968 1 136249361 8 -600 S
+23 17 21 10d40+1400 2d5+3
+0 71250
+8 8 0
+0 0 17 17 15 14 12 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#16926
+mob giant ettin~
+A giant Ettin~
+A giant Ettin stands before you, waiting to pound you into rubble.
+~
+These strange two-headed creatures are known to hurl large boulders
+with enough strength to do considerable damage.  While they are
+non-magical beasts, they are hardy enough to do considerable
+damage when in battle.
+~
+76 1 136249361 8 -550 S
+30 13 5 10d10+3100 3d10+30
+30000 180000
+8 8 1
+0 0 18 17 16 18 16 13
+#16927
+mob evil lich~
+&Kthe lich&n~
+&gA mysterious &Klich&g stands before you, eyeing you evilly.&n
+~
+  When a powerful mage or cleric grows old and nearing death, a rare few call upon powers beyond their control
+to try and achieve immortality. The resulting form is a lich. A creature of undeath, dead but not really dead.
+They maintain the memories and abilities that they possessed in life, but their body becomes a twisted vessel
+of rotting flesh, which usually drives the creature insane. Though there have been reports of benevolent 
+lich's at times, most are creatures of pure evil due to their transformation, and best left alone.
+~
+1048648 32769 136249361 524424 -1000 S
+36 7 -14 25d20+5000 2d15+55
+90000 218000
+8 8 -72
+0 0 21 21 18 20 18 16
+SKILL=SPELL_MORTICE_FLAME 50
+SKILL=SPELL_HEMMORAGE 50
+SKILL=SPELL_LIFETAP 90
+#16928
+mob fisherman man~
+the fisherman~
+The fisherman is standing here, soaking wet from the river.
+~
+  The fisherman is very old, and looks even older. He has spent his entire life within these swamps, avoiding 
+the creatures and other dangers just to make a simple living of selling fish in Brimstone. 
+~
+78 1 136249361 100663304 0 S
+29 14 8 2d25+2500 7d4+30
+27500 289000
+8 8 0
+0 0 18 17 17 18 15 16
+#16929
+mob whirlpool darkwater~
+&cthe whirlpool of &Kdarkwater&n~
+&cA &Wcrystal clear&c pool of water lies here.&n
+~
+The water suddenly turns dark before you, and begins to spin
+into a whirlpool.  It roars and lunges towards you as if it
+were alive!
+~
+1106506 1 136249361 102236168 -1000 S
+27 15 14 20d20+2000 2d10+31
+0 82500
+8 8 0
+0 0 17 17 17 17 13 14
+#16930
+mob mandrake huge swamp dragon~
+&KMa&wn&gdr&wa&Kke&n~
+A small swamp dragon called &KMa&wn&gdr&wa&Kke&n is here. 
+~
+  Swamp dragons are small cousins of black dragons. Though they lack the physical size of their brothers, 
+they are just as ferocious and deadly in combat.
+  Mandrake has lived quite a long time in these swamps. Be bears numerous battle scars, and one of his horns
+has been broken off. He does not take kindly to intruders in his lair, as he roars with rage and defiance.
+~
+4579406 32769 136249361 102760680 0 S
+50 -20 -40 50d50+50000 50d15+70
+7000000 2500000
+8 8 0
+0 0 21 23 19 20 20 19
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 60
+SKILL=SKILL_RAGE 99
+SKILL=SPELL_LIFETAP 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+ATTACK_SKILL=30
+ATTACK_SKILL=60
+ATTACK_SKILL=70
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=104
+#16931
+mob plant man eating~
+&Gthe man-eating plant&n~
+&GA huge, man-eating plant is firmly planted in the &yearth&n.
+~
+Before you stands a plant of enormous size.  It moves it vines
+in a rythmic pattern, and almost appears to be conscious.
+~
+74 1 136249361 8 0 S
+20 20 24 10d50+1050 1d10+5
+0 60000
+8 8 0
+0 0 18 16 15 17 16 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#16932
+mob Stenlisk huge bird mutated~
+&wStenlisk&n~
+&wA huge, mutated &ybird&w, stares you in the eye!&n
+~
+You look deep into the eyes of Stenlisk, the legendary mutated bird. He grins evilly, because, as legend has 
+it, he knows who everybody is, yourself included.  He knows not only about you, he knows your strengths and 
+weaknesses.  He has outsmarted every enemy he has ever faced....will you be next?
+~
+4194378 32769 136249361 67108992 -1000 S
+33 10 -5 15d15+3900 2d10+15
+50000 199000
+8 8 0
+0 0 19 18 17 19 18 16
+SKILL=SPELL_SILENCE 90
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#16933
+mob Nephestus avatar of pain~
+&WNephestus&K, Avatar of Pain&n~
+&WNephestus&y stands here, pondering your fate.&n
+~
+  Once one of Gargath's avatars, Nephestus grew a bit too uncontrollable and was thus banished from Tarterus
+completely. Drawn by the corruption of the lands of Torindrel, he made his way here to these swamps, where he 
+could easily twist the minds of the inhabitants to do his bidding. 
+  Nephestus stands just over eight feet tall. His entire body has been pierced by small hooks, which he proudly
+displays openly. He wears a massive girth, and his weapon of choice is an axe which seems to pulse with its own
+life. 
+~
+319498 1 136249361 136 -1000 S
+41 0 -5 10d10+8888 29d6+105
+500000 1300000
+8 8 1
+0 0 21 21 21 21 19 18
+#16934
+mob mimic rock black~
+&ythe mimic&n~
+&gYou notice that one &Kblack rock&g shines beautifully in the &Ysun&n.
+~
+  Upon closer inspection, the rock shifts and transforms into a humanoid form. It must be what is called a 
+mimic...a creature that can take the form of any object, both animate and inanimate, patiently waiting for its
+next meal to arrive.
+~
+90 1 136249361 0 0 S
+17 23 27 10d4+225 2d5+13
+4250 5100
+8 8 0
+0 0 16 16 15 13 12 10
+#16935
+mob don't load~
+Maria~
+The beautiful and mysterious Maria is here, glowing with an angelic mystique.
+~
+mAs you look into Maria's eyes, you fall head over heals in love... She beams a
+smile at you, as if she knows exactly what you are thinking, and feels the
+same.  Her dress glows of brilliant white, like that of an angel decended from
+heaven.  Her blonde hair is tied back with a silver ribbon, which reflects the
+light of the caves with mezmorizing tone.
+~
+262220 1 136249361 0 0 S
+20 30 25 3d3+500 3d4+7
+70000 55000
+8 8 0
+0 0 17 18 14 14 12 15
+#16936
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 16 15 14 14 15
+#16937
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 16 14 14 14
+$~
+#999999

@@ -1,0 +1,64 @@
+##16915
+the old man's holy smiter
+#on_say
+if (words_in_string(input, "holy", "item") == 2) {
+   echo("");
+   echo (self + " &Psays 'So, you heard me talking did you? Yes, I lost a holy smiter in these swamps long ago.'&n");
+   say ("It was quite a powerful weapon. If it were to fall into the wrong hands...I don't want");
+   echo (self + " &Psays 'to think about it.'&n");
+};
+if (words_in_string(input, "holy", "smiter") == 2) {
+   echo("");
+   say ("yes, a holy smiter. I was battling a witch close by here when her powerful magicks");
+   say ("shattered it. I was able to collect the pieces and retreat, but they must have fallen");
+   say ("out as I escaped. If you were able to find the pieces and return them to me, I may be");
+   say ("able to recreate the item. Be warned though. Only those with a pure heart can wield");
+   echo (self + " &Psays 'the smiter. To those with evil intent it is useless.'&n");
+};
+if (words_in_string(input, "pieces", "what", "which") >= 2) {
+   echo (self + " &Psays 'There were three pieces total. The shaft of the weapon, the handle, and the'&n");
+   echo (self + " &Psays 'ball-like head.'&n");
+   echo("");
+   say ("Of these, I still need:");
+
+   if (is_object_in_inventory(16925) == 0) say ("&wa weapon &Whandle&n");
+   if (is_object_in_inventory(16926) == 0) say ("&wa long shaft&n");
+   if (is_object_in_inventory(16927) == 0) say ("&wa large metal&W ball&n");
+};
+
+#on_give
+if (target == self) {
+   reg1 = is_object_in_inventory(16925);
+   reg2 = is_object_in_inventory(16926);
+   reg3 = is_object_in_inventory(16927);
+   if (reg1 & reg2 & reg3) {
+            Say ("Thank you, let me work on these for a moment...");
+            Echo ("");
+            Echo ("The old man begins working his magic to mend the broken pieces.");
+            Echo ("");
+            Echo ("The old man pauses a moment to collect his thoughts...");
+            Echo ("");
+            Echo ("The priest murmurs a strange chant and slowly the pieces begin to come together.");
+            reg4 = create_object(16934);
+            Echo ("");
+            echo ("Out of the 3 pieces he constructs " + reg4);
+            give (reg4, source);
+            Echo ("");
+            Say ("There you are. Please use it wisely.");
+            destroy(reg1);
+            destroy(reg2);
+            destroy(reg3);
+   };
+};
+#
+
+##16933
+Nephestus Speech
+#on_say
+if (words_in_string(input, "holy", "smiter", "quest") >= 1) {
+   echo("");
+   say ("I have no idea what you're talking about &P" + source + ".&n");
+   echo("");
+   say ("Let us battle so I can squash you like th BUG you are! Muhahaha!");
+};
+
