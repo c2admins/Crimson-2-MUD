@@ -1,0 +1,1473 @@
+#
+STR
+--
+#
+INT
+--
+#
+WIS
+--
+#
+DEX
+--
+#
+CON
+--
+#
+CHA
+--
+      CHARISMA        AFFECT ON # OF FOLLOWERS
+       3  - 5          -2 followers
+--
+#
+MOVE MOVEMENT
+--
+#
+MANA
+--
+# 
+HITPOINTS HITS HP
+--
+#
+"DAMAGE BONUS" "HIT BONUS" "CARRY WEIGHT"
+--
+#
+"SAVING THROWS"
+--
+#
+FLAGS BITS
+--
+#
+DODGE SCALES
+--
+#
+SHOUT
+--
+#
+CHANNELS GOSSIP AUCTION SYSTEM IMMTALK INFO CONNECT WIZINFO GOD
+--
+#
+FINGER
+--
+#
+EMAIL
+--
+#
+HELLNIGHT HELL
+--
+#
+MIDGAARD MAP
+--
+#
+DIAG
+--
+#
+ALIGN
+--
+#
+DONATE
+--
+#
+REPLY
+--
+#
+REPORT
+--
+#
+GT
+--
+#
+ECHO
+--
+#
+SPEEDWALK
+--
+#
+SET 
+--
+#
+ANSI COLOR
+--
+#
+QUEST
+--
+#
+NOSUMMON
+--
+#
+REIMBURSE
+--
+#
+FORCE
+--
+#
+REBOOT
+--
+#
+SHUTDOWN HALT
+--
+#
+TRANSFER
+--
+#
+GOTO
+--
+#
+VNUM
+--
+    [Virt#] curr.   perc Object Name
+    [14123]    50    15 obj cotton overalls 
+--
+#
+REROLL
+--
+#
+POOFIN POOFOUT
+--
+#
+BAN UNBAN
+--
+#
+AT
+--
+#
+SWITCH RETURN
+--
+#
+INVIS
+--
+#
+SCAN
+--
+#
+SNOOP
+--
+#
+CRASH
+--
+#
+NOHASSLE
+--
+#
+SNOWBALL
+--
+#
+PKILLABLE
+--
+#
+PKILLING
+--
+#
+PERSECUTION
+--
+#
+RULES_1 RULES
+--
+#
+RULES_2 
+--
+#
+RULES_3
+--
+#
+APPEALS
+--
+#
+LOOTING
+--
+#
+ZONES
+--
+#
+CLAN
+--
+#
+"CLAN GENERAL"
+--
+#
+"CLAN FOUNDATION"
+--
+#
+"CLAN RULES"
+--
+#
+"CLAN COMMANDS"
+--
+#
+"CLAN HOUSE"
+--
+#
+"CLAN RANKS"
+--
+#
+BANK
+--
+#
+TITLE
+--
+#
+"SECOND" THIRD FOURTH
+--
+#
+"FIRE BREATH" "FROST BREATH" "ACID BREATH" "LIGHTNING BREATH" "GAS BREATH"
+--
+#
+BREATH 
+--
+#
+DESC_DAMAGE DAMAGE_DESC
+--
+#
+IMMORTALS
+--
+#
+IMM_RULES
+--
+#
+ARCH-AVATAR ARCH
+--
+#
+HIGHLORD
+--
+#
+OVERLORD
+--
+#
+ANTE ANTEDELUVIAN
+--
+#
+AVATAR (level 41)
+--
+#
+Development
+--
+#
+Creation
+--
+#
+Relations
+--
+#
+ZONELORD
+--
+#
+LIMITS
+--
+#
+DAMAGE_LIMITS
+--
+#
+OFLAG_TABLE
+--
+#
+PICK LOCKS
+--
+#
+SNEAK
+--
+#
+HIDE
+--
+#
+LOOK
+--
+#
+AC "ARMOR CLASS"
+--
+#
+OPEN CLOSE LOCK UNLOCK
+--
+#
+NORTH SOUTH EAST WEST UP DOWN
+--
+#
+EAT DRINK SIP TASTE
+--
+#
+WHO
+--
+#
+GIVE
+--
+#
+SAVE
+--
+#
+STRING
+--
+#
+LOAD
+--
+#
+INVENTORY
+--
+#
+EQUIPMENT
+--
+#
+WEAR
+--
+#
+WIELD
+--
+#
+SCORE
+--
+#
+ALIAS
+--
+#
+FATE
+--
+#
+SAY TELL WHISPER ASK
+--
+#
+QUI SHUTDOW
+--
+#
+TOP
+--
+#
+KILL HIT
+--
+#
+SLASH PIERCE BLUDGEON 
+--
+#
+PARRY 
+--
+#
+KICK
+--
+#
+BASH
+--
+#
+RESCUE
+--
+#
+STEAL
+--
+#
+BACKSTAB
+--
+#
+CAST
+--
+#
+DROP
+--
+#
+PURGE
+--
+#
+STATS
+--
+#
+ORDER
+--
+#
+BUY SELL
+--
+#
+WEATHER
+--
+#
+READ
+--
+#
+REMOVE
+--
+#
+SHOPS
+--
+#
+SOCIAL ACTIONS
+--
+#
+WIZ
+--
+#
+COMMANDS
+--
+#
+PRACTICE PRACTISE
+--
+#
+EXITS
+--
+#
+LEAVE
+--
+#
+ENTER
+--
+#
+TIME
+--
+#
+BUG TYPO IDEA
+--
+#
+QUIT
+--
+#
+INN INNS
+--
+#
+OFFER RENT
+--
+#
+GET TAKE
+--
+#
+PUT
+--
+#
+EXAMINE
+--
+#
+WRITE
+--
+#
+NEWS
+--
+#
+SLEEPING WAKE REST SIT STAND
+--
+#
+POUR FILL
+--
+#
+GRAB
+--
+#
+FOLLOW
+--
+#
+FLEE
+--
+#
+EMOTE
+--
+#
+IMPLEMENTOR
+--
+#
+SHAST
+--
+#
+KINETIC
+--
+#
+SUNSHINE
+--
+#
+ZANDIFAR
+--
+#
+FISH
+--
+#
+GUILD
+--
+#
+INFO
+--
+#
+WHERE
+--
+#
+USERS
+--
+#
+LEVELS
+--
+#
+BRIEF
+--
+#
+!
+--
+#
+CONSIDER
+--
+#
+EXPERIENCE XP
+--
+#
+RUSH
+--
+#
+GROUP
+--
+#
+QUAFF POTION POTIONS
+--
+#
+RECITE SCROLL SCROLLS
+--
+#
+USE WANDS STAFFS
+--
+#
+ARMOR
+--
+#
+ELSEWHERE
+--
+#
+"TELEPORT SELF"
+--
+#
+"TELEPORT GROUP"
+--
+#
+BLESS
+--
+#
+BLINDNESS
+--
+#
+CLONE
+--
+#
+"CONTROL WEATHER"
+--
+#
+"CREATE FOOD"
+--
+#
+"CREATE WATER"
+--
+#
+"CURE BLIND"
+--
+#
+"CURE CRITIC"
+--
+#
+"CURE LIGHT"
+--
+#
+"CAUSE LIGHT"
+--
+#
+"CAUSE CRITIC"
+--
+#
+CURSE
+--
+#
+"DETECT EVIL"
+--
+#
+"DETECT GOOD"
+--
+#
+IDENTIFY
+--
+#
+"DETECT INVISIBILITY"
+--
+#
+"DETECT MAGIC"
+--
+#
+"DETECT POISON"
+--
+#
+"ENCHANT WEAPON"
+--
+#
+"HEAL MINOR"
+--
+#
+"HEAL MEDIUM"
+--
+#
+"HEAL MAJOR"
+--
+#
+INVISIBILITY INVISABLE
+--
+#
+"IMPROVED INVISIBILITY"
+--
+#
+"LOCATE OBJECT"
+--
+#
+POISON
+--
+#
+"PROTECTION FROM EVIL"
+--
+#
+"REMOVE CURSE"
+--
+#
+"REMOVE POISON"
+--
+#
+SANCTUARY
+--
+#
+SLEEP
+--
+#
+STRENGTH
+--
+#
+INTELLIGENCE
+--
+#
+WISDOM
+--
+#
+DEXTERITY
+--
+#
+CONSTITUTION
+--
+#
+CHARISMA
+--
+#
+PORTAL
+--
+#
+"RECHARGE LIGHT"
+--
+#
+"RECHARGE WAND"
+--
+#
+"VENOM BLADE"
+--
+#
+VENTRILOQUATE
+--
+#
+"WORD OF RECALL"
+--
+#
+SUCCOR
+--
+#
+SUMMON
+--
+#
+"CHARM PERSON"
+--
+#
+"TURN UNDEAD"
+--
+#
+"DARKSIGHT"
+--
+#
+"ABC"
+--
+#
+"UNDETECTABLE INVISIBILITY"
+--
+#
+"MANA LINK"
+--
+#
+"REGENERATION"
+--
+#
+"SUSTENANCE"
+--
+#
+"RESTORATION"
+--
+#
+"SENSE LIFE"
+--
+#
+"REGENERATION"
+--
+#
+"MAGIC MISSILE"
+--
+#
+"CHILL TOUCH"
+--
+#
+"BURNING HANDS"
+--
+#
+"SHOCKING GRASP"
+--
+#
+"LIGHTNING BOLT"
+--
+#
+"COLOUR SPRAY" "COLOR SPRAY"
+--
+#
+"ENERGY DRAIN"
+--
+#
+"RESTORATION"
+--
+#
+"MAGIC RESIST"
+--
+#
+"BREATH WATER" "BREATHWATER"
+--
+# 
+"MAGIC IMMUNE"
+--
+#
+CONFLAGATION
+--
+#
+FIREBALL
+--
+#
+EARTHQUAKE
+--
+#
+"DISPEL EVIL"
+--
+#
+"SENSE_DANGER" (skill)
+--
+#
+"HAIL STORM"
+--
+#
+"CALL LIGHTNING"
+--
+#
+HARM
+--
+#
+HUNT
+--
+#
+TRACK
+--
+#
+HOLD_PERSON
+--
+#
+KNOCK
+--
+#
+"PHASE DOOR"
+--
+#
+WATERWALK
+--
+#
+"TELEVIEW MINOR"
+--
+#
+"TELEVIEW MAJOR"
+--
+#
+HASTE
+--
+#
+DREAMSIGHT
+--
+#
+GATE
+--
+#
+"DONATE MANA"
+--
+#
+"VITALIZE MANA"
+--
+#
+"VITALIZE HIT"
+--
+#
+"VIGORIZE MINOR"
+--
+#
+"VIGORIZE MEDIUM"
+--
+#
+"VIGORIZE MAJOR"
+--
+#
+AID
+--
+#
+SILENCE
+--
+#
+"DISPEL SILENCE"
+--
+#
+"DISPEL MAGIC"
+--
+#
+"DISPEL HOLD"
+--
+#
+"BLOCK SUMMON"
+--
+#
+SMITE
+--
+#
+"ANIMATE DEAD" "RAISE DEAD"
+--
+#
+"BLACK BURST"
+--
+#
+CREMATION
+--
+#
+"MORTICE FLAME"
+--
+#
+FIRELANCE
+--
+#
+FIRESTORM
+--
+#
+TREMOR    
+--
+#
+"DIVINE RETRIBUTION"
+--
+#
+"DEMONIC_AID"
+--
+#
+"HEMMORAGE"
+--
+#
+"MEDITATION"  (skill)
+--
+#
+"ESCAPE" (skill)
+--
+#
+"PEEK" (skill)
+--
+#
+"BIND_SOULS" (spell)
+--
+#
+"FLY" (spell)
+--
+#
+"GRANGORNS CURSE"
+--
+#
+"PESTILENCE"
+--
+#
+"GENERAL HELP" "HELP FILE"
+--
+#
+ADVANCE
+--
+#
+WIZHELP
+--
+#
+OHELP
+--
+#
+"OHELP_BALANCE"
+--
+#
+"OHELP_LIGHT"
+--
+#
+"OHELP_RING"
+--
+#
+"OHELP_NECK"
+--
+#
+"OHELP_HEAD"
+--
+#
+"OHELP_BODY"
+--
+#
+"OHELP_ABOUT"
+--
+#
+"OHELP_LEG"
+--
+#
+"OHELP_ARM"
+--
+#
+"OHELP_FEET"
+--
+#
+"OHELP_WRIST"
+--
+#
+"OHELP_HELD" "OHELP_HOLD"
+--
+#
+"OHELP_WAIST"
+--
+#
+"OHELP_SHIELD"
+--
+#
+"OHELP_HANDS"
+--
+#
+"OHELP_WEAPON"
+--
+#
+"OHELP_OCREATE" OCREATE
+--
+#
+"OHELP_OKEYWORDS" OKEYWORDS
+--
+  Format: okeywords <obj#> <keywords>
+  Example: keywords 3403 black sword
+--
+#
+"OHELP_OWEAR" OWEAR
+--
+    Format: owear <obj#> <position>
+            Enter OWEAR without an argument for a list of positions.
+--
+#
+"OHELP_OFLAG" OFLAG
+--
+    Format: oflag <obj#> <flag>
+            Enter OFLAG without an argument for a list of flags.
+--
+#
+"OHELP_OWFLAG" OWFLAG
+--
+#
+"OHELP_OEDESC" OEDESC
+--
+    Format: oedesc <obj#> <new | append | delete> - extra descriptions
+
+--
+#
+"OHELP_OLDESC" OLDESC
+--
+    Format: oldesc <obj#> <description>
+    Example: oldesc 3403 A shining sword lies here in the dust.
+--
+#
+"OHELP_OSDESC" OSDESC
+--
+#
+"OHELP_OTYPE" OTYPE
+--
+    Format: otype <obj#> <type>
+            Enter OTYPE without an argument for a list of types.
+--
+#
+"OHELP_OLIST" OLIST
+--
+#
+"OHELP_OAFFECT" OAFFECT
+--
+    NONE for aff#0, then it will not go on to check the rest of the aff#'s.  
+    ie, put the oaffects in starting at 0 and working to 1, 2, and then 3.
+--
+    Format: oaffect <obj#> <aff#> <type> <modifier>
+            Enter OAFFECT without an argument for a list of affects.
+    (aff# refers to the fact there are 4 affect slots..0-3)
+
+--
+#
+"OHELP_OSTAT" OSTAT
+--
+    Format: ostat <obj#>
+
+--
+#
+"OHELP_OVALUE" OVALUE
+--
+    Format:  ovalues <obj#> <value1> <value2> <value3> <value4>
+             NOTE:  Using '-' will leave the value unchanged.
+--
+#
+"OHELP_OCOST" OCOST
+--
+    Format ocost <obj#> <value>
+
+--
+#
+"OHELP_OPERC" OPERC 
+--
+    Format: oflag <obj#> OMAX
+    Format: operc <obj#> <value 0 to 100>
+
+--
+#
+"OHELP_ORENT" ORENT
+--
+    Format: orent <obj#> <rent/day>
+
+#
+"OHELP_OWEIGHT" OWEIGHT
+--
+    Format: oweight <obj#> <weight>
+
+#
+"OHELP_OSAVE" OSAVE
+--
+#
+"OHELP_OVALUE_LIGHT" OVALUE_LIGHT
+--
+#
+"OHELP_OVALUE_SCROLL" OVALUE_SCROLL
+--
+#
+OHELP_OVALUE_WAND OVALUE_WAND
+--
+#
+OHELP_OVALUE_STAFF OVALUE_STAFF
+--
+#
+"OHELP_OVALUE_WEAPON" OVALUE_WEAPON
+--
+#
+"OHELP_OVALUE_ARMOR" OVALUE_ARMOR
+--
+#
+"OHELP_OVALUE_AC" OVALUE_AC
+--
+owear location        #
+--------------        -
+--
+improve the AC by NONE. To put acap on a ring or others in the #0
+category use oaffect
+--
+#
+"OHELP_OVALUE_POTION" OVALUE_POTION
+--
+#
+"OHELP_OVALUE_CONTAINER" OVALUE_CONTAINER
+--
+#
+"OHELP_OVALUE_NOTE" OVALUE_NOTE
+--
+#
+"OHELP_OVALUE_DRINKCON" OVALUE_DRINKCON
+--
+#
+"OHELP_OVALUE_KEY" OVALUE_KEY
+--
+#
+"OHELP_OVALUE_FOOD" OVALUE_FOOD
+--
+#
+"OHELP_OVALUE_MONEY" OVALUE_MONEY
+--
+#
+OHELP_OVALUE_SPELL OVALUE_SPELL
+--
+#
+OHELP_OVALUE_VEHICLE OVALUE_VEHICLE
+--
+#
+"OHELP_SPELLS1" SPELLS1
+--
+The format is: spell name, #, type of obj. it can be used on (P = 
+potion, SC = scroll, W = wand, ST = STAFF, SP=SPELL <blank> = none),
+--
+#
+"OHELP_SPELLS2" SPELLS2
+--
+#
+"OHELP_SPELLS3" SPELLS3
+--
+#
+RHELP
+--
+#
+"RHELP_RCOPY" RCOPY
+--
+#
+"RHELP_RNAME" RNAME
+--
+#
+"RHELP_RSECT" RSECT
+--
+#
+"RHELP_RFLAG" RFLAG
+--
+#
+"RHELP_RLINK" RLINK      
+--
+    Format: rlink <direction: nsewud> <destination room#>
+            rlink <direction: nsewud> delete - to delete a room link
+--
+#
+"RHELP_RLFLAG" RLFLAG DOORS
+--
+#
+"RHELP_RDESC" RDESC
+--
+#
+"RHELP_REDESC" REDESC
+--
+#
+"RHELP_RLIST" RLIST
+--
+#
+"RHELP_RLEVEL" RLEVEL
+--
+#
+MHELP
+--
+#
+"MHELP_BALANCE_CHART"
+--
+#
+"MHELP_EXPERIENCE"
+--
+#
+"MHELP_HITPOINTS" "MHELP_HITS" "MHELP_HP"
+--
+#
+"MHELP_GOLD"
+--
+#
+"MHELP_AC"
+--
+#
+"MHELP_HITROLL" "MHELP_HR"
+--
+#
+"MHELP_DAMAGE"
+--
+#
+"MHELP_MAFFECT" MAFFECT
+--
+#
+"MHELP_MATTACK" MATTACK
+--
+#
+"MHELP_MCREATE" MCREATE
+--
+#
+"MHELP_MDAMAGE" MDAMAGE
+--
+Try mdamage <mob#> <value>d<value>+<value> - set barehanded damage
+
+--
+#
+"MHELP_MDESC" MDESC
+Try mdesc <mob#> new    -  to add a new description
+Try mdesc <mob#> append -  to append to existing description
+
+--
+#
+"MHELP_MFLAG" MFLAG
+Try mflag <mob#> <flag> - toggle mobile flags.
+
+--
+#
+"MHELP_MHITROLL" MHITROLL
+Try mhitroll <mob#> <hitroll> - set mobile's hitroll
+
+--
+#
+"MHELP_MHITPOINTS" MHITPOINTS
+Try mhitpoints <mob#> <value>d<value>+<value> - set hitpoints
+
+--
+#
+"MHELP_MKEYWORDS" MKEYWORDS
+Try mkeywords <mob#> <keyword> [<keywordb2> <keywordb3> etc.]
+The keyword 'mob' will be added at the end of the keyword
+--
+#
+"MHELP_MLDESC" MLDESC
+Try mldesc <mob#> <ldesc> - set mesg for use when
+mobile is in a room
+--
+#
+"MHELP_MLIST" MLIST
+--
+#
+"MHELP_MCOPY" MCOPY
+    Format: mcopy <MOB#> 
+    Example:  mcopy 1         - will create a new mob with Puffs stats.
+--
+#
+"MHELP_MSAVE" MSAVE
+--
+#
+"MHELP_MSET" MSET
+--
+#
+"MHELP_MSDESC" MSDESC
+Try msdesc <mob#> <sdesc> - used in fight/movement messages.
+
+--
+#
+"MHELP_MSKILL" MSKILL
+Try mskill <mob#> <skill> - Sets a mobs proficiency.
+
+--
+#
+"MHELP_MSTAT" MSTAT
+Try mstat <mob#> - mobile stats.
+
+--
+#
+ZHELP
+--
+#
+"ZHELP_ZLIST" ZLIST
+--
+#
+"ZHELP_ZSTAT" ZSTAT
+--
+#
+"ZHELP_ZFLAG" ZFLAG
+--
+#
+"ZHELP_ZFLAG1" ZFLAG1
+--
+#
+"ZHELP_ZREBOOT" ZREBOOT
+--
+#
+"ZHELP_ZRESET" ZRESET
+--
+#
+ZEDIT
+--
+#
+ZFIRST 
+--
+#
+ZMAX
+--
+#
+"ZHELP_ZCREATE" ZCREATE
+--
+          'OBJ'  <obj #> <max # in room>
+          'PUT'  <obj #> <max # in obj>  <destination object #>
+          'MOB'  <mob #> <max # in world>
+          'GIV'  <obj #> <max # on mob>
+                     NOTE: Recipient defaults to last mob.
+          'EQU'  <obj #> <max # unused>  <location>
+                 NOTE: Recipient defaults to last mob.
+--
+          'REM'  <obj/mob #> <type>
+                 NOTE: type is 1=obj, 2=mob
+          'DOOR' <direction> <state #>
+                 NOTE: state is 0=open, 1=closed, 2=locked
+#
+"ZHELP_ZSAVE" ZSAVE
+--
+#
+"ZHELP_ZSET" ZSET
+--
+#
+NOSHOUT
+--
+#
+RESTORE
+--
+#
+LINK
+--
+#
+HOUSES
+--
+#
+MUZZLE
+--
+#
+JAIL
+--
+#
+COMPACT
+--
+#
+SKILLS SPELLS PROFICIENCIES
+--
+#
+LESSER_IMMORTALS
+--
+#
+GREATER_IMMORTALS
+--
+#
+"EXTRA DAMAGE"
+--
+#
+ATTRIBUTE
+--
+#
+HUNGER THIRST
+--
+#
+THACO
+--
+#
+SPELL
+--
+#
+DEATH:
+--
+#
+DT DEATHTRAP
+--
+#
+PKILLER "BULLY PKILLER"
+--
+#
+ARENA
+--
+#
+AFK
+--
+#
+WIPE
+--
+#
+WWW WEB NETSCAPE "WEBMAGE"
+--
+#
+SOURCE
+--
+#
+OFLAG1
+--
+#
+OFLAG2
+--
+#
+RFLAG
+--
+#
+RFLAG1
+--
+#
+RFLAG2
+--
+#
+MFLAG1
+--
+#
+MFLAG2
+--
+#
+MFLAG3
+--
+#
+VEHICLE
+--
+#
+DISPLAY
+--
+#
+LAG
+--
+#
+ACRONYM
+--
+#
+RAGE
+--
+#
+XYZZY
+--
+#
+NEWBIE_ABBREVIATE NEWBIE_ABBREVIATION
+--
+#
+NEWBIE_BANK
+--
+#
+NEWBIE_COMMUNICATE
+--
+#
+NEWBIE_DONATE NEWBIE_DONATION
+--
+#
+NEWBIE_EQ
+--
+#
+FIGHTING NEWBIE_FIGHTING
+--
+#
+NEWBIE_HELP
+--
+#
+WEAR NEWBIE_WEAR
+--
+#
+NEWBIE_MAP
+--
+#
+NEWBIE_MOVING
+--
+#
+NEWBIE_PRACS
+--
+#
+NEWBIE_RENT 
+--
+#
+NEWBIE_RESTING
+--
+#
+NEWBIE_SHOPS
+--
+#
+NEWBIE_SPELLS
+--
+#
+NEWBIE_STATS
+--
+#
+NEWBIE_SUSTENANCE.
+--
+#
+NEWBIE_WALKING
+--
+#
+NEWBIE NEWBIE_BOOK
+--
+#
+AUTOMUZZLE
+--
+#
+PASSWORDS HACKING
+--
+#
+SHARING
+--
+#
+BOARDS
+--
+messages are on there.  To read them use "read <##>" where ## is the number
+you want to read.   This is an example of what you will see:
+--
+This is a bulletin board.  Usage: READ/REMOVE <messg #>, WRITE <header>.
+You will need to look at the board to save your message.
+--
+with "remove <##>" where ## is the number of your post:
+
+--
+#~
+~
