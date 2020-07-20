@@ -2,29 +2,29 @@
 # 
 #
 # Name must be 4 to 20 characters
-NAME=Human
+NAME=Drow Elf
 # enter 5 digit race description which appears on the WHO list
-DESC=Human
-# Enter three lines of text displayed when view race details 80bytes/per
-TEXT1=The most common of races. They can master almost any skill, though
-TEXT2=they lack any special abilities or attributes, they do not have
-TEXT3=impairments that could hinder them.
-TEXT4=none
+DESC=Drow
+# Enter text displayed when view race details 80bytes/per
+TEXT1=Drow elves are dreaded, evil creatures that were once a part of the elven
+TEXT2=community but now are outcasts.  They have black skin and pale white
+TEXT3=hair.  They like to dress usually in black.
+TEXT4=Must keep an evil alignment.
 # alignment must be EVIL, NORMAL, GOOD
-ALIGNMENT=NORMAL
+ALIGNMENT=EVIL
 # physical size must be SMALL, NORMAL, LARGE
 PHYSICAL_SIZE=NORMAL
-# Stats must be 1 to 26
-MAX_STR=22
-MAX_INT=22
-MAX_WIS=22
-MAX_DEX=22
-MAX_CON=22
-MAX_CHA=22
+# Stats must be 1 to 25
+MAX_STR=20
+MAX_INT=25
+MAX_WIS=23
+MAX_DEX=23
+MAX_CON=20
+MAX_CHA=23
 # starting hit, mana, moves
-BASE_HIT=23
+BASE_HIT=24
 BASE_MANA=90
-BASE_MOVE=100
+BASE_MOVE=95
 # max hit, mana, and moves must be 0 to 1 million.
 MAX_HIT=2500
 MAX_MANA=2500
@@ -35,14 +35,14 @@ MAX_THIRST=24
 MAX_DRUNK=24
 # adjustments must be -25 to 25.  A stat will never fall below 3.
 ADJ_STR=0
-ADJ_INT=0
+ADJ_INT=+1
 ADJ_WIS=0
 ADJ_DEX=0
-ADJ_CON=0
+ADJ_CON=-1
 ADJ_CHA=0
 # admustments to hit, mana, move.
 ADJ_HIT=0
-ADJ_MANA=0
+ADJ_MANA=3
 ADJ_MOVE=0
 # adjustments to hit roll range: -50, +50
 ADJ_HITROLL=0
@@ -65,9 +65,10 @@ REGEN_HIT=100
 REGEN_MANA=100
 REGEN_MOVE=100
 # Enter the spell acronym.
-RACE_PERM_SPELL1=0
+RACE_PERM_SPELL1=SPELL_DARKSIGHT
 RACE_PERM_SPELL2=0
 RACE_PERM_SPELL3=0
 RACE_PERM_SPELL4=0
 RACE_PERM_SPELL5=0
 # skill/spell adjustments
+SKILL_MIN_LEVEL=SPELL_DETECT_GOOD 1

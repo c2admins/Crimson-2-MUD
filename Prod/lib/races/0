@@ -1,30 +1,30 @@
 #
-# 
+# NOTE: The 0 file is used by mobs.
 #
 # Name must be 4 to 20 characters
-NAME=Human
+NAME=undefined
 # enter 5 digit race description which appears on the WHO list
-DESC=Human
-# Enter three lines of text displayed when view race details 80bytes/per
-TEXT1=The most common of races. They can master almost any skill, though
-TEXT2=they lack any special abilities or attributes, they do not have
-TEXT3=impairments that could hinder them.
+DESC=none
+# Enter text displayed when view race details 80bytes/per
+TEXT1=none
+TEXT2=none
+TEXT3=none
 TEXT4=none
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE
 PHYSICAL_SIZE=NORMAL
-# Stats must be 1 to 26
-MAX_STR=22
-MAX_INT=22
-MAX_WIS=22
-MAX_DEX=22
-MAX_CON=22
-MAX_CHA=22
-# starting hit, mana, moves
-BASE_HIT=23
-BASE_MANA=90
-BASE_MOVE=100
+# Stats must be 1 to 25
+MAX_STR=25
+MAX_INT=25
+MAX_WIS=25
+MAX_DEX=25
+MAX_CON=25
+MAX_CHA=25
+# starting hit, mana, moves.  Range 0 to 250
+BASE_HIT=50
+BASE_MANA=50
+BASE_MOVE=50
 # max hit, mana, and moves must be 0 to 1 million.
 MAX_HIT=2500
 MAX_MANA=2500
@@ -40,7 +40,7 @@ ADJ_WIS=0
 ADJ_DEX=0
 ADJ_CON=0
 ADJ_CHA=0
-# admustments to hit, mana, move.
+# admustments to hit, mana, move must be -999 to +999
 ADJ_HIT=0
 ADJ_MANA=0
 ADJ_MOVE=0
@@ -71,3 +71,5 @@ RACE_PERM_SPELL3=0
 RACE_PERM_SPELL4=0
 RACE_PERM_SPELL5=0
 # skill/spell adjustments
+#SKILL_MIN_LEVEL=SKILL_KICK 1
+#SKILL_MAX=SKILL_KICK 75
