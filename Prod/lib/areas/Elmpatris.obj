@@ -1,0 +1,501 @@
+#4800
+obj cannon watchtower~
+100
+&Ka cannon&n~
+&Ka large cannon is here, pointing out to sea.&n~
+~
+12 0 0 0
+0 0 0 0
+1 5 5
+E
+cannon~
+It is a long iron cannon.  The barrel is very smooth and it looks as if it 
+has been well maintained.  It is mounted on a wooden base that has eight small
+wheels along the bottom.
+~
+#4801
+obj cannonball ball~
+100
+&Ka cannon ball&n~
+&KA heavy cannon ball has been left here.&n~
+~
+13 0 0 1
+0 0 10 0
+30 5 5
+#4802
+obj box cannonballs~
+100
+&ya box for &Kcannonballs&n~
+&yA large box of &Kcannonballs &yis here.&n~
+~
+15 0 0 0
+100 0 10 0
+1 5 5
+#4803
+obj cupboard cabinet~
+100
+&ya food cabinet&n~
+&yA large cupboard is fixed against the wall here.&n~
+~
+15 0 0 0
+300 0 10 0
+1 5 5
+#4804
+obj statue Pageoran~
+100
+&wa statue of &WPageoran&n~
+&wA large statue of a naked woman has been erected here.&n~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+E
+statue pageoran~
+This is a large marble statue, over ten feet tall.  It is a sculpture of a naked
+woman with three breasts!
+~
+#4805
+obj idol dog Aodhfidiahnn~
+100
+&wan idol of &yAodhfidiahnn&n~
+&wA huge idol of a &yscawny dog&w is standing here.&n~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+E
+idol dog Aodhfidiahnn~
+The statue is of a scrawny and quite unpleasant looking little dog.  Somehow
+despite the size of the statue, it still manages to look completely puny.
+~
+#4806
+obj sword fat short~
+10
+&wa fat short&Ksword&n~
+A short sword with an unusually wide blade has been dropped here.~
+~
+5 524288 0 8193
+0 4 4 11
+7 6000 1500
+A
+19 2
+A
+18 -1
+#4807
+obj shield colourful elmpatris~
+10
+&wa &bco&Bl&cor&Cful &cro&Bu&bnd &Kshield&n~
+Somebody has left a brightly painted shield here.~
+~
+9 524288 0 513
+20 0 0 0
+15 14000 3500
+E
+shield~
+The shield has been painted in the ornate livery of the city of Elmpatris.
+~
+#4808
+obj scope telescope brass tube~
+100
+&wa long &ybrass &wtelescope&n~
+&wSomebody has dropped a &ylong brass tube&w on the floor here.&n~
+~
+12 1048576 0 16385
+0 0 0 0
+8 100000 25000
+A
+12 50
+#4809
+obj potato fried~
+100
+&wsome &yfried &Wpotato&n~
+Somebody has dropped some fried potato on the floor here.~
+~
+19 0 0 1
+18 0 10 0
+1 10 5
+#4810
+obj potato boiled~
+100
+&wsome boiled &Wpotato&n~
+Somebody has dropped some boiled potato on the floor here.~
+~
+19 0 0 1
+18 0 10 0
+1 10 20
+#4811
+obj potato chunks fried~
+100
+&wa portion of &yfried &Wpotato &wchunks&n~
+Some chunks of fried potato have been dropped here.~
+~
+19 0 0 1
+18 0 10 0
+1 10 20
+#4812
+obj potato fried large~
+100
+&wa large &yfried &Wpotato&n~
+A large fried potato has been dropped here.~
+~
+19 0 0 1
+18 0 10 0
+1 10 20
+#4813
+obj potato fricasee~
+100
+&wsome &Wpotato &wfricasee&n~
+A horrible mess of potato has been dropped here.~
+~
+19 0 0 1
+18 0 10 0
+1 10 20
+#4814
+obj ball crystal~
+25
+&wa &Wc&Cr&wyst&Ca&Wl ball&n~
+A crystal ball has been placed here.~
+~
+12 469762049 0 16385
+0 0 10 0
+6 20000 5000
+#4815
+obj sandwich food~
+100
+&wa &ys&Wandwic&yh&n~
+A floppy sandwich has been left here to collect dirt.~
+~
+19 0 0 1
+10 0 10 0
+1 5 5
+E
+sandwich~
+It is a fairly soggy, cheese and ham sandwich.
+~
+#4816
+obj corpse rat friend~
+100
+the corpse of a small rat~
+Corpse of a small rat is lying here.~
+~
+1 1 0 65537
+0 0 10 0
+1 28000 7000
+#4817
+obj chain mayor gold~
+10
+&Yg&yol&Yd c&yhain&Ys of o&yffic&Ye&n~
+A pile of gold chains lies here.~
+~
+9 0 0 5
+6 0 0 0
+13 26000 6500
+A
+6 3
+#4818
+obj idol pageoran~
+10
+&wa small &Kidol &wof &CP&Wa&wgore&Wa&Cn&n~
+A small idol, shaped like a woman has been left here.~
+~
+12 524416 0 16385
+0 0 10 0
+1 20000 5000
+A
+12 10
+A
+13 10
+A
+14 10
+#4819
+obj ring pageoran~
+10
+&wa &Cp&Wa&wgore&Wa&Cn &Kring&n~
+a ring of the pageoran church has been left here.~
+~
+9 524416 0 3
+3 0 10 0
+1 60000 15000
+A
+13 7
+A
+12 8
+A
+14 8
+#4820
+obj tunic purple pageoran~
+10
+&wa &ppurple &Ktunic&n~
+A purple tunic lies here in a heap.~
+~
+9 0 0 9
+9 0 0 0
+9 2600 850
+#4821
+obj food dogfood vegetarian~
+10
+&gsome &Gve&ggetari&Gan &ydogfood&n~
+An awful pile of vegetarian dogfood has been left here.~
+~
+19 0 0 1
+5 0 10 0
+1 5 5
+#4822
+obj whiskey shot single~
+100
+a shot of whiskey~
+A shot of whiskey has been left here.~
+~
+17 0 0 1
+16 4 5 0
+1 10 5
+#4823
+obj whiskey shot double~
+100
+a double of whiskey~
+A shot of whiskey has been left here.~
+~
+17 0 0 1
+16 8 5 0
+1 18 5
+#4824
+obj whiskey shot triple~
+100
+a double of whiskey~
+A shot of whiskey has been left here.~
+~
+17 0 0 1
+16 12 5 0
+1 26 5
+#4825
+obj whiskey shot quadruple~
+100
+a quadruple whiskey~
+A shot of whiskey has been left here.~
+~
+17 0 0 1
+16 16 5 0
+1 34 5
+#4826
+obj whiskey mug~
+100
+a whiskey mug~
+A mug has been left here.~
+~
+17 0 0 1
+35 35 5 0
+1 70 5
+#4827
+obj whiskey jar~
+100
+a large whiskey jar~
+A large glass jar has been left here.~
+~
+17 0 0 1
+5 5 5 0
+1 100 20
+#4828
+obj whiskey barrel~
+100
+a whiskey barrel~
+A large barrel has been left here.~
+~
+17 0 0 1
+70 70 5 0
+65 700 175
+#4829
+obj barrel tin~
+100
+a tin barrel~
+A large tin barrel has been left here.~
+~
+17 0 0 1
+150 150 2 0
+55 5000 1000
+#4830
+obj stick walking smart~
+100
+a smart walking stick~
+A gentleman's walking stick has been dropped here.~
+~
+12 0 0 16385
+0 0 10 0
+5 40000 10000
+A
+5 -1
+A
+14 26
+#4831
+obj ham smoked chunk~
+100
+a chunk of smoked ham~
+A chunk of smoked ham has been left here.~
+~
+19 0 0 1
+16 0 10 0
+3 50 25
+#4832
+obj cheese block~
+100
+a large block of cheese~
+A large block of cheese has been left here.~
+~
+19 0 0 1
+18 0 10 0
+4 40 10
+#4833
+obj stick long wood~
+25
+a long wooden stick~
+A long stick is lying here.~
+~
+5 0 0 8193
+0 5 4 5
+3 5 5
+#4834
+obj crate wooden box~
+100
+a large wooden crate~
+A large wooden crate is here.~
+~
+12 0 0 0
+0 0 0 0
+1 5 5
+#4835
+obj gloves dock worker~
+100
+a pair of dock worker's gloves~
+Somebody has dropped a pair of gloves here.~
+~
+9 0 0 129
+5 0 0 0
+7 1000 250
+#4836
+obj cap dock worker~
+100
+a dock worker's cap~
+A worn cap has been dropped here.~
+~
+9 0 0 17
+5 0 10 0
+5 1200 300
+#4837
+obj boots dock worker~
+100
+a pair of dock worker's boots~
+A pair of dock worker's boots has been left here.~
+~
+9 0 0 65
+6 0 10 0
+12 2000 500
+#4838
+obj dagger small blunt~
+100
+a small blunt dagger~
+A small dagger has been left here.~
+~
+5 0 0 1
+0 3 3 11
+1 2000 500
+A
+19 1
+A
+18 -1
+#4839
+obj cape large~
+100
+a large cape~
+Somebody has left a cape here in a pile.~
+~
+9 0 0 1025
+13 0 0 0
+25 8000 2000
+#4840
+obj shovel~
+100
+a shovel~
+Somebody has dropped a shovel here.~
+~
+5 0 0 1
+0 3 3 3
+12 5 5
+#4841
+obj pike long wooden~
+100
+a long wooden pike~
+A torch is lying here.~
+~
+5 0 0 8193
+0 3 4 3
+11 5 550
+A
+19 -1
+#4842
+obj halbard wooden long~
+100
+a long wooden halbard~
+Somebody has dropped a long wooden halbard here.~
+~
+5 0 0 8193
+0 3 3 3
+12 2100 500
+A
+18 -1
+#4843
+obj sword gentleman's slender~
+100
+a gentleman's sword~
+A shiny, slender sword is resting here.~
+~
+5 0 0 8193
+0 2 3 3
+8 2500 550
+A
+19 1
+A
+13 10
+#4844
+obj sword slender long thin~
+100
+a long slender sword~
+A long thin, slender sword is resting here.~
+~
+5 524288 0 8193
+0 4 4 3
+8 12000 3000
+A
+19 -1
+#4845
+obj sword fencing~
+100
+a fencing sword~
+Somebody has left a fencing sword here.~
+~
+5 1048576 0 8193
+0 3 9 3
+7 20000 5000
+A
+19 -1
+A
+18 1
+#4846
+obj ferry summit's vehicle~
+1
+Summit's ferry~
+Summit's ferry is here, serving it's route.~
+~
+24 8 0 0
+50 50 10 9000
+1 1000 5
+E
+arrival~
+A small ferry moves up to the dock, making lots of strange noises.
+The ferryman, Summit, yells from the ferry, 'All aboard!'
+~
+E
+interior~
+You are on board a small ferry, that seems to be powered by a bizarre metal
+contraption that billows forth clouds of smoke and steam.
+~
+$~
+#999999

@@ -1,0 +1,406 @@
+#2200
+mob draconian citizen~
+a draconian citizen~
+A draconian citizen is here going about his business.
+~
+These creatures are dragon-kin.  They are roughly humanoid, being larger than
+humans, but they a tail and wings, and the forward protuding head of a dragon.
+The draconian is walking around here minding his own business, although he
+seems to be watching you from the corner of his eye.
+~
+4194444 1 136249361 33554432 0 S
+15 25 29 9d7+175 3d3+13
+13 4500
+8 8 1
+11 0 14 15 14 13 10 10
+#2201
+mob guard draconian~
+a draconian guard~
+A draconian guard is here looking for invaders.
+~
+This draconian is a dragon-kin guard.  They are roughly humanoid, however they
+are larger than a human and have large wings on their backs.  They also 
+posses a tail and a strangely shaped head.  This guard is one of the stronger
+looking individuals in this community, and looks more than ready to fight to
+defend his land and his master.
+~
+4194314 1 136249361 33554432 0 S
+25 15 18 100d19+1150 3d5+37
+70 76500
+8 8 1
+11 0 17 16 15 16 16 15
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#2202
+mob king draconian~
+the draconian King~
+The draconian King is presiding over his court.
+~
+The King of draconia has achieved his position, not by hierarchy, but by
+strength.  In dragon-kin society, those with physical prowess always
+achieve superiority.  Before you, you see the strongest draconian in this
+settlement.  He is very heavily muscled, and just as battle-scarred.
+~
+4456458 1 136249361 33554432 0 S
+35 8 -10 55d19+4000 9d9+35
+60000 205000
+8 8 1
+11 0 19 20 19 17 17 16
+#2203
+mob queen draconian~
+the draconian Queen~
+The draconian Queen is making herself ready for the King.
+~
+This is the King's favourite mate.  She is a medium sized dragon-kin with
+small wings, a pair of horns and her head arched forward.  She looks larger
+than most other female dragon-kin, and certainly able to give most males a
+good fight.
+~
+4456458 1 136249361 33554432 0 S
+30 13 5 20d19+3000 5d3+50
+600 170000
+8 8 2
+11 0 18 19 16 16 15 16
+#2204
+mob fool draconian~
+the draconian fool~
+The draconian fool is here making rude noises.
+~
+This bizarre creature is here, grinning and drooling in an insane manner.
+He appears to be a dragon-kin just like all his companions here, but he in no
+way sounds or acts like one.
+~
+4194312 1 136249361 33554432 0 S
+20 20 24 58d19+1000 5d3+20
+30 61500
+8 8 1
+11 0 16 16 16 16 15 11
+#2205
+mob concubine draconian~
+a draconian concubine~
+A concubine of the king is lying here resting.
+~
+You are looking at one of the King's concubines, chosen to keep him happy
+when he does not feel like an evening with his Queen.  She is smaller
+than most of the other dragon-kin here, but she has an evil glint in her
+eye as she looks back at you.
+~
+4251658 1 136249361 33554432 0 S
+20 20 24 45d19+1000 4d5+18
+30 55000
+8 8 2
+11 0 16 15 16 16 15 12
+#2206
+mob librarian draconian~
+the draconian librarian~
+The librarian of draconia is here tending to his books.
+~
+The librarian walks around here, cataloguing and tidying the tribe's books.
+Since most dragon-kin cannot read, it is not a difficult job and the tribe
+do not boast many books.  He is wearing a dark robe which has been cut away
+at his head and arms, and suddenly you realise he does not appear to have
+any wings!
+~
+4194314 32769 136249361 33554432 0 S
+25 15 18 22d19+2000 5d9+20
+80 80000
+8 8 1
+11 0 17 19 17 17 16 12
+SKILL=SPELL_BLINDNESS 60
+SKILL=SPELL_BURNING_HANDS 60
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_CURSE 60
+SKILL=SPELL_ENERGY_DRAIN 60
+SKILL=SPELL_FIREBALL 60
+SKILL=SPELL_LIGHTNING_BOLT 60
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SPELL_SLEEP 60
+#2207
+mob cleric draconian~
+the draconian cleric~
+The healer of draconia is here deep in thought.
+~
+The tribe's best healer is here worshipping the tribe's deity.  She is a 
+small dragon-kin, and her wings and horns are fairly unimpressive, but
+she must have quite considerable power to maintain her position.  She is
+dressed in a single piece black robe that is tied at the waist.
+~
+4456458 32769 136249361 33554432 0 S
+28 15 11 44d19+2000 5d3+45
+120 86500
+8 8 2
+11 2 19 20 17 18 14 15
+SKILL=SPELL_BLINDNESS 66
+SKILL=SPELL_BURNING_HANDS 66
+SKILL=SPELL_HAIL_STORM 66
+SKILL=SPELL_COLOUR_SPRAY 66
+SKILL=SPELL_CURSE 66
+SKILL=SPELL_ENERGY_DRAIN 66
+SKILL=SPELL_FIREBALL 66
+SKILL=SPELL_HARM 66
+SKILL=SPELL_LIGHTNING_BOLT 66
+SKILL=SPELL_MAGIC_MISSILE 66
+SKILL=SPELL_POISON 66
+SKILL=SPELL_SLEEP 66
+SKILL=SPELL_CAUSE_CRITIC 66
+SKILL=SPELL_HEAL_MINOR 66
+SKILL=SPELL_EARTHQUAKE 66
+#2208
+mob Enfyrn dragon~
+the dragon Enfyrn~
+The huge red dragon, Enfyrn is here guarding her lair.
+~
+This is Enfyrn the dragon.  She is a centuries old dragon, who rather than
+spending all her years collecting treasure, has mastered the ways of old
+ancient magics.  She is absolutely huge, and she is towering over you
+angrily.
+~
+4513802 32769 136249361 100663304 0 S
+45 0 -25 100d19+30000 10d9+6
+20000 1000000
+8 8 2
+11 0 22 23 21 22 21 21
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_FIRE_BREATH 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=108
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+#2209
+mob Enfyrn priest~
+a small priest~
+A small priest is sitting here talking to himself happily.
+~
+This quirky little man is sitting here talking to himself, and any creatures
+that happen to be nearby.  He is dressed in a long single piece red robe 
+which has ben tied around at the waist with some cord, showing his not
+inconsiderable belly.  His chubby face smiles back at you happily.
+~
+4456458 32769 136249361 33554440 0 S
+30 13 5 20d19+3000 7d5+40
+215 185000
+8 8 1
+11 6 18 18 17 17 17 15
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_HAIL_STORM 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_HARM 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_POISON 70
+SKILL=SPELL_CAUSE_CRITIC 70
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_EARTHQUAKE 70
+#2210
+mob dragonogre ogre~
+a dragon-ogre~
+A growling dragon-ogre is prowling here.
+~
+This strange creature resembles a minotaur somewhat.  From the waist up it is
+the body of an ogre, yet from the waist down it has the body of a huge 
+horse!  It's lower half is covered in fur, and it's legs look thicker and
+sturdier than a normal horse.  It's upper half is the torso of a fearsome and
+resilient ogre.
+~
+4513864 1 136249361 33554432 0 S
+24 16 20 99d19+1000 4d5+24
+50 75000
+8 8 0
+11 0 17 17 16 17 13 13
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#2211
+mob dragonogre ogre warrior~
+a dragon-ogre~
+A tough looking dragon-ogre is standing here.
+~
+This strange creature resembles a minotaur somewhat.  From the waist up it is
+the body of an ogre, yet from the waist down it has the body of a huge
+horse!  It's lower half is covered in fur, and it's legs look thicker and
+sturdier than a normal horse.  It's upper half is the tough torso of a 
+fearsome and resilient ogre.
+~
+4513864 1 136249361 33554432 0 S
+30 13 5 25d19+3000 5d7+20
+200 185000
+8 8 0
+11 0 19 19 17 17 15 13
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#2212
+mob dragonogre ogre hunter~
+a dragon-ogre~
+A swift looking dragon-ogre is shifting around here.
+~
+This strange creature appears to be half horse and half ogre.  From the waist
+down it's body is that of a lithe horse, from the waist up it is an ogre.
+From the definition of the muscles on it's body, you determine this creature
+must be able to run very fast indeed... although that is not to say it would 
+be easy to kill.
+~
+4251720 32769 136249361 34078728 0 S
+32 11 -1 70d19+3000 6d5+15
+250 195000
+8 8 0
+11 0 20 20 19 18 17 14
+SKILL=SKILL_HUNT 74
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#2213
+mob dragonogre ogre soldier~
+a dragon-ogre~
+A rough looking dragon-ogre is patrolling here.
+~
+This creature has the upper body of a very heavy, rough looking ogre and the
+lower body of the strongest horse you think you have ever seen.   It's huge
+body seems to move around this terrain with ease, and you could be in for a 
+tough fight if you stay.
+~
+4251720 1 136249361 33554440 0 S
+37 6 -16 100d19+6000 3d5+16
+1000 229000
+8 8 0
+11 0 21 20 19 18 18 17
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#2214
+mob hatchling draconian baby~
+a draconian hatchling~
+A draconian baby hatchling is here destroying everything in reach.
+~
+The tiny baby dragon-kin is crawling around here on all fours.  It's little
+wings are growing, but do not look as if they have been extended out yet.
+~
+4194444 1 136249361 33554432 0 S
+5 32 37 7d9+1 3d3+0
+0 200
+8 8 0
+11 0 12 12 10 10 8 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2215
+mob prisoner human captive~
+a human captive~
+A man has been chained to the wall here and left to die.
+~
+This poor wretch has been chained here for some reason and by the looks of it,
+left to die.  He is just skin and bone and cannot even raise his head to
+look at you.
+~
+10 1 136249361 0 0 S
+10 29 34 12d19+0 3d3+2
+0 3000
+8 8 1
+11 0 14 12 11 11 12 9
+#2216
+mob rat draconian~
+a filthy rat~
+A small black rat scuttles around here.
+~
+It's a small black rat with a long tail.
+~
+16834568 1 136249361 33554432 0 S
+1 35 39 3d5+9 2d2+0
+0 60
+8 8 0
+11 0 12 13 11 9 10 10
+#2217
+mob bodyguard draconian~
+a draconian bodyguard~
+A royal bodyguard is here watching for trouble.
+~
+The King's bodyguard has been chosen from the toughest members of his tribe,
+and this is one of them.  This fearsome creature has huge thick horns on it's
+head and it's wings look very strong.  It's limbs are huge and it growls
+at you with extreme menace.
+~
+4456458 1 136249361 33554432 0 S
+33 10 -4 98d19+3000 5d5+15
+350 200000
+8 8 1
+11 0 19 20 19 19 15 15
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#2218
+mob stormthunder blue dragon~
+&KS&ctor&Km&WTh&wun&Kde&cr&n~
+The great &KB&clu&Ke &KD&wr&Wag&wo&Kn &KS&ctor&Km&WTh&wun&Kde&cr&n rests here.
+~
+  This enormous winged serpent has dark blue scales that cover most of its body. Her underbelly scales
+are a rich red and extend to the tip of her tail. She is still relatively young in dragon terms, and 
+bears very few battle scars. This does not mean, however, that she is any less capable than any other
+dragon that roams the realm.
+~
+272891918 4489217 136249361 1140867820 -600 S
+50 -30 -40 30d120+60000 30d30+90
+5000000 2500000
+8 8 2
+0 0 17 17 15 16 15 14
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_IMPROVED_INVIS 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 80
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 99
+SKILL=SPELL_HEMMORAGE 99
+SKILL=SPELL_METEOR_SWARM 99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+ATTACK_SKILL=80
+ATTACK_SKILL=20
+ATTACK_SKILL=50
+ATTACK_TYPE=104
+$~
+#999999

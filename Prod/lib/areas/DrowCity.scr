@@ -1,0 +1,68 @@
+##5108
+drow weapons merchant
+#on_say
+if (words_in_string(input, "hello") =1) {
+   echo (self + " &Psays 'Hello, " + source + "&P. Would you like to see a list of&p items&P?&n");
+}; 
+if (words_in_string(input, "weapons", "items", "sale") =1) {
+   echo("");
+   echo (self + " &Psays 'Yes, I have plenty of weapons for sale. The surface raids have been&n");
+   echo (self + " &Psays 'good. Would you like to see a &plist&P?&n");
+};
+if (words_in_string(input, "list") =1) {
+   echo("");
+   echo (self + " &Psays 'I currently have the following for sale:&n");
+   echo("");
+   echo (self + " &Psays '&wan &Wad&wa&Kmant&wi&Wum &Kdagger&n for     10000 coins");
+   echo (self + " &Psays '&wan &Wad&wa&Kmant&wi&Wum &wshort&Ksword&n for 30000 coins");
+   echo (self + " &Psays '&wa &Wsi&wlv&Wer &Khalberd&n for         32500 coins");
+   echo (self + " &Psays '&ca mithril blade&n for          50000 coins");
+   echo("");
+   echo (self + " &Psays 'To purchase an item, give me the correct amount of coins and&n");
+   echo (self + " &Psays 'the item shall be yours.&n");
+
+##5140
+drow armor merchant
+#on_say
+if (words_in_string(input, "hello") =1) {
+   echo (self + " &Psays 'Hello, " + source + "&P. Would you like to see a list of&p items&P?&n");
+};
+if (words_in_string(input, "armor", "items", "sale") =1) {
+   echo("");
+   echo (self + " &Psays 'Yes, I have plenty of armor for sale. The surface raids have been&n");
+   echo (self + " &Psays 'good. Would you like to see a &plist&P?&n");
+};
+if (words_in_string(input, "list") =1) {
+   echo("");
+   echo (self + " &Psays 'I currently have the following for sale:&n");
+   echo("");
+   echo (self + " &Psays '&wa &rcrimson &wbreast&Kplate&n for       20000 coins");
+   echo (self + " &Psays '&wa &cforged &Kbracer&n for             30000 coins");
+   echo (self + " &Psays '&wSpiked &WWhite &wBattle &KGreaves&n for 55500 coins");
+   echo (self + " &Psays '&wa &Kplatinum shield&n for           70000 coins");
+   echo("");
+   echo (self + " &Psays 'To purchase an item, give me the correct amount of coins and&n");
+   echo (self + " &Psays 'the item shall be yours.&n");
+
+##5141
+drow food merchant
+#on_say
+if (words_in_string(input, "hello") =1) {
+   echo (self + " &Psays 'Hello, " + source + "&P. Would you like to see a list of&p items&P?&n");
+};
+if (words_in_string(input, "food", "items", "sale") =1) {
+   echo("");
+   echo (self + " &Psays 'Yes, I have plenty of food for sale. The harvests have been&n");
+   echo (self + " &Psays 'good. Would you like to see a &plist&P?&n");
+};
+if (words_in_string(input, "list") =1) {
+   echo("");
+   echo (self + " &Psays 'I currently have the following for sale:&n");
+   echo("");
+   echo (self + " &Psays '&wa &ypipe&Kweed &ybread&n for           50 coins");
+   echo (self + " &Psays '&wsome &yg&Yo&yld&Ye&yn &yc&Yo&yrn&n for           90 coins");
+   echo (self + " &Psays '&ya magic mushroom&n for           100 coins");
+   echo("");
+   echo (self + " &Psays 'To purchase an item, give me the correct amount of coins and&n");
+   echo (self + " &Psays 'the item shall be yours.&n");
+

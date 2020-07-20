@@ -1,0 +1,278 @@
+#9300
+mob May Queen~
+The May Queen~
+The May Queen, Mistress of Shadow, stands here waiting for you.
+~
+The May Queen, sovereign of insufficient light, beckons to you to draw closer.  She 
+extends her arm to you, motioning for you to join her in her shaded den.  Her eyes are
+ink black and her hair is the color of midnight.  She is the nighttime, and she owns
+the dusk.
+~
+1093960 9699329 136249361 67108864 0 S
+40 3 -28 1d1+10499 12d10+15
+1000000 700000
+8 8 2
+19 2 17 23 19 22 24 15
+ATTACK_SKILL=16
+ATTACK_SKILL=33
+ATTACK_SKILL=67
+ATTACK_TYPE=105
+ATTACK_SKILL=14
+ATTACK_SKILL=28
+ATTACK_SKILL=56
+ATTACK_TYPE=106
+#9301
+mob Whitey, Outcast Darkling~
+&WWhitey&w, the outcast &KDarkling&n~
+&WWhitey&w, the outcast &KDarkling&n stands here, whimpering meekly
+~
+&WWhitey&n is obviously shunned by his fellow Darklings.  He is so pale that he almost glows,
+and his cheerful demeanor offends the "normal" Darklings, which are normally quiet, moody and
+distant.  His appearance and his social skills make him the most distinctive, and most abused,
+Darkling in Dark Shadows.
+~
+1048776 1048577 136249361 0 0 S
+30 10 -20 1d1+3200 3d7+10
+70000 250000
+8 8 1
+19 2 21 17 14 17 22 18
+ATTACK_SKILL=35
+ATTACK_SKILL=45
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+ATTACK_SKILL=40
+ATTACK_SKILL=45
+ATTACK_SKILL=35
+ATTACK_TYPE=106
+#9302
+mob blue darkling~
+A &Bblue&n darkling~
+A &Bblue&n darkling stands here, wondering if you pose any threat to his plans.
+~
+The blue darkling looks at you, wondering if it could beat you up.  Then he grins, knowingly.
+~
+1048906 1 136249361 34078720 -600 S
+35 10 -24 1d1+6000 5d7+10
+100000 225000
+8 8 1
+19 4 23 19 18 16 22 12
+ATTACK_SKILL=50
+ATTACK_SKILL=35
+ATTACK_SKILL=25
+ATTACK_TYPE=105
+ATTACK_SKILL=35
+ATTACK_SKILL=25
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#9303
+mob Blue Darkling Guard~
+A &BBlue &KDarkling&c guard&n~
+A &BBlue &KDarkling&c guard&n stands at attention with orders that none shall pass.
+~
+The &BBlue &KDarkling &cguards&n are humorless creatures.  Having spent years learning hatred,
+patience and loyalty, these are the most brutal Blue Darklings (other than Hex).  Be on
+your guard when approaching these creatures.  "None shall pass" means to them that...
+NONE SHALL PASS.
+~
+135323982 9699329 136249361 1 0 S
+38 7 -32 1d1+8000 5d9+15
+500000 500000
+8 8 1
+19 4 22 15 14 22 20 8
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_POISON 65
+ATTACK_SKILL=45
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_SKILL=45
+ATTACK_TYPE=105
+#9304
+mob Hex, Blue darkling trainer~
+&rHex&n, &Bblue &Kdarkling&n trainer~
+&rHex&n, trainer of &Bblue &Kdarklings&n gauges your skills as you approach.
+~
+Hex comes from a long line of warrior darklings.  Before the color schism, Hex's father
+was the loyal guard of the May Queen.  The tragedy of the color schism ended Hex's father's
+live and embittered Hex towards the Green darklings.  Now he is a creature of rage, revenge
+and great cunning.  Each challenge brings honor or death, and the outcome matters not to
+him.
+~
+1372488 1933313 136249361 536873248 -500 S
+40 0 -37 1d1+10000 5d9+20
+1100000 700000
+8 8 1
+19 4 22 16 15 21 20 15
+ATTACK_SKILL=15
+ATTACK_SKILL=20
+ATTACK_SKILL=15
+ATTACK_TYPE=106
+ATTACK_SKILL=20
+ATTACK_SKILL=15
+ATTACK_SKILL=20
+ATTACK_TYPE=100
+#9305
+mob green darkling~
+A &Ggreen&n darkling~
+A &Ggreen&n darkling slowly plows his field, oblivious to your existence.
+~
+Green darklings...well, they aren't cute.  Besides having dark skins like all darklings,
+the Green darklings have developed sensitive nostrils for detecting rotten fruit and acidic
+fertilizers.  Thus, their noses are larger than average, giving them a "dopey" look.  But
+while they are simple minded creatures, never forget their strength.
+~
+1048668 262145 136249361 67110912 0 S
+35 6 -25 1d1+6104 5d7+15
+100000 300000
+8 8 1
+19 4 23 15 13 20 16 12
+SKILL=SPELL_TREMOR 59
+SKILL=SKILL_BASH 75
+SKILL=SPELL_EARTHQUAKE 67
+ATTACK_SKILL=35
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=108
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=35
+ATTACK_TYPE=105
+#9306
+mob produce junkie~
+&cA &yproduce &gjunkie&n~
+&cA &yproduce &gjunkie&n sits here, jittering, needing his grape fix.
+~
+The produce junkie sits her, trembling and pale.  He looks at you, sweating, muttering to
+you, "Please, man, just one cherry.  You know I'm good for it.  I'll pay you back next week,
+I swear...just one cherry!" You pity him, but know the marks of a true junkie and leave
+him to suffer by himself.
+~
+1118668 1 136249361 268435456 0 S
+38 10 -33 1d1+8014 5d9+13
+300000 325000
+8 8 1
+19 4 19 17 11 20 18 14
+SKILL=SPELL_DEMON_FLESH 65
+SKILL=SPELL_PESTILENCE 60
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_SKILL=30
+ATTACK_TYPE=106
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=35
+ATTACK_TYPE=108
+#9307
+mob red darkling~
+A &Rred&n darkling~
+A &Rred&n darkling walks past you, deftly assessing your kit and considers making a withdrawal.
+~
+Red Darklings are some of the best thieves around.  They are quick, they are devious, and
+they are willing to lose a hand if it gains them a buck.  Life is cheap, and these darklings
+have set their price.  The bigger the load, the better the risk.  They are also friendly.
+They'd like nothing but to help you relax and lose some stress...and maybe your wallet...
+~
+1065820 1310721 136249361 9 -500 S
+35 7 -25 1d1+6124 7d7+11
+115000 325000
+8 8 2
+19 3 17 16 15 22 22 18
+SKILL=SKILL_STEAL 90
+SKILL=SKILL_BACKSTAB 75
+SKILL=SKILL_PARRY 80
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=35
+ATTACK_TYPE=105
+ATTACK_SKILL=33
+ATTACK_SKILL=34
+ATTACK_SKILL=35
+ATTACK_TYPE=106
+#9308
+mob thief sentinel~
+&ca &Rthieving &Ksentinel&n~
+&ca &Rthieving &Ksentinel&n stands in the corner, watching you carefully.
+~
+the thieving sentinels are exactly what they sound like - patient, non-moving thieves. 
+Their goal is to convince you that not only are they not interested in getting close enough
+to you to steal from you, but that you are below their concern.  They have incredible egos
+and impressive skills.  Be wary at all times.
+~
+1312542 1310721 136249361 40 -200 S
+38 6 -37 1d1+8009 6d9+17
+425000 500000
+8 8 1
+19 3 22 16 16 21 20 15
+SKILL=SKILL_SNEAK 80
+SKILL=SKILL_STEAL 90
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 60
+SKILL=SKILL_SCALES 80
+ATTACK_SKILL=40
+ATTACK_SKILL=30
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=35
+ATTACK_TYPE=100
+#9309
+mob Phakir, head thief~
+&KPh&ra&Kk&ri&Kr&c the &whead &ythief&n~
+&KPh&ra&Kk&ri&Kr&c the &whead &ythief&n stands here, considering your kit...and your life.
+~
+Phakir is an old thief...his white hair stands out against his obsidian darkling flesh.
+He comes across as a feeble, tired darkling who only wishes to sit and talk a while.  But
+beyond his comforting and deceiving appearance lurks the lord of theft.  Phakir has been
+plying his trade for decades, and he's not about to stop now.
+~
+1118540 327681 136249361 9 -550 S
+40 0 -38 1d1+10999 6d9+18
+1250000 700000
+8 8 1
+19 3 18 25 17 22 21 18
+SKILL=SKILL_PARRY 90
+SKILL=SKILL_SCALES 90
+SKILL=SPELL_DEMON_FLESH 76
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_SKILL=35
+ATTACK_TYPE=105
+ATTACK_SKILL=35
+ATTACK_SKILL=35
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+#9310
+mob green darkling plowman~
+A &Ggreen&n darkling plowman~
+A &Ggreen&n darkling plowman tends the fields, nurturing the crops that grow around him.
+~
+Green darklings...well, they aren't cute.  Besides having dark skins like all darklings,
+the Green darklings have developed sensitive nostrils for detecting rotten fruit and acidic
+fertilizers.  Thus, their noses are larger than average, giving them a "dopey" look.  But
+while they are simple minded creatures, never forget their strength.
+~
+1048668 262145 136249361 67110912 0 S
+28 13 -25 1d1+3099 5d6+14
+30000 350000
+8 8 0
+19 4 23 15 13 20 16 12
+SKILL=SPELL_TREMOR 59
+SKILL=SKILL_BASH 75
+SKILL=SPELL_EARTHQUAKE 67
+#9311
+mob blue darkling trainee~
+A &Bblue&n darkling trainee~
+A &Bblue&n darkling trainee stands here, trying to look brave.
+~
+The blue darkling looks at you, wondering if it could beat you up.  Then he grins, knowingly.
+~
+1048906 1 136249361 34078720 -600 S
+28 13 -24 1d1+3199 5d6+14
+30000 150000
+8 8 0
+19 4 23 19 18 16 22 12
+$~
+#999999

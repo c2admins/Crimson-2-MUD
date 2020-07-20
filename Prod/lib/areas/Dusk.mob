@@ -1,0 +1,484 @@
+#1900
+mob Ghoul Guard~
+Ghoul Guard~
+A Ghoul Guard stands here defending it's masters.
+~
+The flesh is almost gone from this member of the undead, but an eerie light
+glows in its dark eyes.  Sharp claws reach for you with unnaturally powerful
+arms.
+~
+1241835022 1 136249393 100663368 0 S
+42 -20 -26 15d19+17500 10d12+99
+450000 750000
+8 8 0
+0 0 20 16 14 14 15 15
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_SECOND 50
+SKILL=SKILL_THIRD 10
+SKILL=SKILL_RAGE 99
+#1901
+mob Ghoul servant~
+Ghoul Servant~
+A Ghoul Servant awaits the bidding of its master.
+~
+This member of the undead looks to have been a servant many eons ago and 
+was rewarded for their faithful service with an immortal unlife of servitude.
+~
+1241835020 32769 136249393 100663368 0 S
+41 -25 -24 20d29+12750 10d10+75
+325000 610100
+8 8 0
+0 0 17 16 14 14 15 15
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_SECOND 30
+SKILL=SKILL_RAGE 99
+#1902
+mob Ghoul Lord~
+Ghoul Lord~
+A Ghoul Lord stands observing its minions at work.
+~
+This monster is dressed in what one century would have been considered the 
+lastest of fashions.  Some wear has started to show on his threads, but 
+you do not really care as it turns an evil eye on you.
+~
+1241835022 32769 136249393 100663496 -1000 S
+43 -20 -28 10d29+10000 15d10+30
+475000 1300000
+8 8 0
+0 0 25 16 14 14 15 15
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 10
+SKILL=SPELL_MORTICE_FLAME 69
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=75
+ATTACK_SKILL=45
+ATTACK_SKILL=20
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#1903
+mob Heng Ghoul~
+Heng~
+Heng the Ghoul Lord awaits his dark calling.
+~
+The first thing you notice about this ghoul is that it is seems some
+how more human.  As you study its features it dawns on you how similar
+this monster is to a hero that once walked the realms.  There were 
+stories of a great warrior avatar disappearing years ago without a trace
+... Could this have been his fate... to become an undead servant of evil..
+The saddess expression crosses his face for a moment, but it is quickly
+replaced by the expression of mindless savagery.
+~
+1308681742 32769 136249393 100663496 0 S
+47 -10 -24 10d19+17000 12d12+55
+550000 378000
+8 8 1
+0 0 22 16 14 14 15 15
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_SECOND 50
+SKILL=SKILL_THIRD 10
+SKILL=SPELL_MAGIC_IMMUNE 90
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=85
+ATTACK_SKILL=35
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#1904
+mob Vatang Vampire~
+The Vatang~
+The Vampire Monster Vatang eyes you with hunger.
+~
+Rotting flesh barely hangs from this near rotten corpse.  Eons of unlife have
+left this monsterous creature far from any recognizable creature you have ever
+seen or even heard of.  Two inch fangs hang from its slobbering mouth.  
+Entrails hang out where skin has split apart from ages of rot.
+~
+1277485326 32769 136249393 100663496 -1000 S
+50 -20 -25 20d29+45000 11d10+85
+3000000 1490000
+8 8 0
+0 0 25 22 25 25 24 25
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 75
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_HEAL_MAJOR 60
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 96
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+ATTACK_SKILL=75
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#1905
+mob Lord Tristan SoulRavage Vampire~
+Lord Tristan Soulravage~
+Lord Tristan Soulravage is here knelt in solemn prayer.
+~
+Before you kneels a solemn elf.  He was once one of the holiest of
+paladins.  His faith was tested to the extreme and he chose not to
+leave his beloved one to her fate.  He is slight of build and has
+very delicate features.  His appearance is decieving though for packs
+a very powerful body on his small frame.  He slowly turns a sad eye
+to you and stands.
+~
+1277486862 32769 136249393 1174405320 500 S
+47 -10 -25 50d19+15000 15d20+70
+2340000 750000
+8 8 1
+14 0 25 22 25 25 24 25
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 75
+SKILL=SPELL_HEAL_MEDIUM 85
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 96
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_TYPE=100
+#1906
+mob Lady Gabrielle SoulRavage Vampire~
+Lady Gabrielle SoulRavage~
+Lady Gabrielle SoulRavage weeps in silent agony.
+~
+Before you stands one of the most heartbreaking sites you could ever
+imagine or dream about.  An elven lady of such extreme beauty stands
+weeping tears of blood on to an ornate cross.  She turns her delicate
+face to you and sheds one last sad blood red tear before baring the 
+sharp fangs.
+~
+1143267598 32769 136249393 1174405320 500 S
+44 -25 -30 30d19+13000 10d10+15
+1885000 805000
+8 8 2
+0 0 25 22 25 25 24 25
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 75
+SKILL=SPELL_HEAL_MEDIUM 85
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#1907
+mob Shriek Vampire Bat~
+The Vampire Bat Shriek~
+The Vampire Bat Shriek descends upon you from above.
+~
+A giant man-bat bares sharp fangs as it drops from the top of this 
+unnatural cave to attack you.  Its wing span alone is 10 feet and
+it screams a sharp piercing cry in rage and bloodlust.
+~
+1143267598 32769 136249393 100663496 -999 S
+47 -15 -30 30d19+18000 20d20+15
+1000000 1200000
+8 8 0
+0 0 25 22 25 25 24 25
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 75
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 60
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=5
+ATTACK_SKILL=3
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=5
+ATTACK_SKILL=3
+ATTACK_TYPE=106
+#1908
+mob LeTrast Vampire~
+The Vampire LeTrast~
+The Vampire Lord LeTrast smiles at you warmly.
+~
+A tall handsome figure stands before you.  He turns and smiles at you
+in welcome.  He is dressed in the finest of fashions.  A sleek silk
+shirt with the ties loose is tucked into soft velvet pants.  He waves
+you in as his eyes glow red and fangs appear in his perfect teeth.
+~
+1143267598 1343489 136249393 100663496 -999 S
+44 -20 -30 30d19+13050 10d10+25
+1250000 1100000
+8 8 1
+0 0 25 22 25 25 24 25
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 75
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 96
+ATTACK_SKILL=99
+ATTACK_SKILL=30
+ATTACK_SKILL=4
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=2
+ATTACK_TYPE=100
+#1909
+mob Jundar Barbarian Vampire~
+Jundar The Barbarian Warrior~
+Jundar flexes his bulging muscles in anticipation of the coming fight.
+~
+A powerful shadow fills one corner of this sparse room.  A crest of the 
+party of Rivenberg is visible on a blue tunic.  A huge giant of a man
+steps into the light and grins a very toothy grin at you.  He comments
+that he was about to have dinner and smiles at you.  
+~
+1143267598 32769 136249393 100663496 -1000 S
+45 -25 -28 1d1+15999 20d20+20
+1115000 2130000
+8 8 1
+0 0 25 22 25 25 24 25
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 75
+SKILL=SPELL_HEAL_MEDIUM 85
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 96
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=40
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#1910
+mob Innkeeper Anna Rivenberg~
+Anna the Innkeeper~
+Anna of Rivenberg welcomes you to her Inn.
+~
+A very beautiful lady standing just over five feet tall is before you.
+She smiles at you with the charm and alure of a teenager.  However, 
+the grace with which she moves would lead one to believe that she is 
+much older and wiser than she appears to be.  A wisp of straight 
+blond hair falls teasingly over one side of her face as she bows to you.
+~
+1141112842 32769 136249361 136 0 S
+48 0 -40 10d10+100000 100d50+17
+1250000 0
+8 8 2
+0 0 17 15 15 14 15 11
+SKILL=SPELL_HEAL_MAJOR 99
+#1911
+mob Tiffany Baker ~
+Tiffany the Baker~
+Tiffany smiles at you warmly and bats her eyes.
+~
+A beautiful lady with delicate eyelashes stands beside her warm oven.
+Her perfect figure only enhances her great inner beauty.  She smiles 
+a heartaching smile at you.
+~
+10 32769 136249361 136 0 S
+48 0 -20 1d1+150000 100d100+18
+0 0
+8 8 2
+0 0 16 16 15 14 13 14
+#1912
+mob Imya Trader ~
+Imya the Trader~
+Imya the Trader offers to show you her wares.
+~
+A loosely tied tunic and pants does little to hide the beauty of 
+this elven treasure.  She stand just under five feet and has the 
+most delicate and beautiful of features.  She smiles the most 
+charming of smiles at you in welcome.
+~
+10 32769 136249361 136 0 S
+48 1 -30 1d1+150000 75d75+16
+0 0
+8 8 2
+0 0 16 15 15 14 12 11
+#1913
+mob Prickly Shrub Plant~
+The prickly shrub~
+The shrub moves its branches toward you hungrily.
+~
+A small shrub before you seems quite animated.  Its branches begin
+to shift and reach for you threateningly.
+~
+16900104 32769 136249361 136 -250 S
+30 13 5 10d19+1500 2d3+6
+0 175000
+8 8 0
+0 0 17 18 16 15 12 12
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=104
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#1914
+mob Greater Werewolf~
+The Greater Werewolf~
+The Greater Werewolf spots you and raises its head in a fierce howl.
+~
+A huge barrel chested wolf rears up and stands before you on two
+legs.  Its eyes hold an intelligence that is quite frightening.  It
+bares giant teeth and snarls at you in rage.
+~
+1276436744 32769 136249361 67109068 -500 S
+43 -28 -26 45d19+9000 9d9+125
+0 912334
+8 8 0
+0 0 21 15 14 15 13 15
+#1915
+mob Hag old lady witch~
+The old hag~
+The old hag flys over head stirring her vast cauldron.
+~
+A decripid and awful smelling vile beast of a woman is before you
+with a giant ladel in hand.  She sneers in welcome and asks you to
+join her feast... and she didn't mean eat it.
+~
+1140908298 1343489 136249393 100925640 -1000 S
+42 -25 -26 45d19+9000 8d8+40
+750000 910000
+8 8 2
+0 0 16 17 16 15 15 11
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_HEAL_MAJOR 95
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CREMATION 99
+ATTACK_SKILL=75
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=2
+ATTACK_TYPE=106
+#1916
+mob Banshee maiden elf~
+The Elven Banshee~
+The Elven Banshee sings in sorrow.
+~
+A once beautiful elven servant sings a great song of sorrow.  Her 
+delicate features are masked by the utter horror of what she has
+become.
+~
+1075109898 32769 136249393 67371208 0 S
+35 -28 -10 30d19+2000 15d15+35
+0 984534
+8 8 2
+0 0 16 16 15 14 14 15
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#1917
+mob ekunda giant~
+The Ekunda Giant~
+The Ekunda Giant eyes you in hunger.
+~
+A gruesome vile giant stands staring at you hungrily.  The ground
+shakes as he starts trampling toward you.
+~
+1082449930 32769 136249361 8 -500 S
+37 -20 -16 50d19+6500 10d10+10
+375000 220000
+8 8 1
+5 4 25 16 15 14 12 11
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#1918
+mob cat tabby~
+A kitty cat~
+A tabby little cat bathes herself.
+~
+A tabby colored cat lies here bathing herself with her tongue.  It
+is curled up near the fireplace for warmth and looks quite content.
+~
+17039370 32769 136249361 8 0 S
+10 29 34 10d19+25 2d3+6
+0 3000
+8 8 2
+0 0 17 15 15 14 12 15
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+$~
+#999999

@@ -1,0 +1,771 @@
+#7300
+obj key earth~
+100
+&Kan &yearth colored&K key&n~
+&Kan &yearth colored&K key lies here.&n~
+~
+18 0 0 1
+0 0 10 0
+1 5 5
+#7301
+obj wind key~
+100
+&wa &Wtranslucent&w key&n~
+&wa &Wtranslucent&w key lies here.&n~
+~
+18 0 0 1
+0 0 10 0
+1 5 5
+#7302
+obj water key~
+100
+&Ka &Bblue &Kkey&n~
+&Ka &Bblue &Kkey lies here.&n~
+~
+18 0 0 1
+0 0 10 0
+1 5 5
+#7303
+obj fire key~
+100
+&Ra &rflame shaped&R key&n~
+&Ra &rflame shaped&R key lies here.~
+~
+18 0 0 1
+0 0 10 0
+1 5 5
+#7304
+obj helm clay~
+10
+&ya &wclay&y helm&n~
+&ya &wclay&y helm lies here.&n~
+~
+9 524288 0 17
+8 0 0 0
+16 2000 1000
+A
+5 1
+A
+13 8
+#7305
+obj armplates clay~
+10
+&ya pair of &wclay&y armplates&n~
+&ya pair of dirty, &wclay&y armplates lie here.&n~
+~
+9 524288 0 257
+16 0 0 0
+12 2000 5
+A
+13 10
+#7306
+obj legplates clay~
+12
+&yA pair of &wclay&y legplates&n~
+&yA pair of dirty, &wclay&y legplates lie here.&n~
+~
+9 524288 0 33
+15 0 0 0
+14 2000 5
+A
+13 5
+A
+5 1
+#7307
+obj breastplate clay~
+10
+&ya &wclay&y breastplate&n~
+&yA dirty, &wclay&y breastplate lies here.&n~
+~
+9 524288 0 9
+26 0 0 0
+16 2000 5
+A
+5 1
+#7308
+obj boots clay~
+10
+&ya pair of &wclay&y boots&n~
+&ya pair of dirty, &wclay&y boots lies here.&n~
+~
+9 524288 0 65
+2 0 0 0
+15 2500 5
+A
+19 1
+#7309
+obj girth clay~
+5
+&ya &wclay &ygirth&n~
+&ya dirty, &wclay &ygirth lies here.&n~
+~
+9 524288 0 2049
+2 0 0 0
+14 2500 5
+A
+1 2
+A
+5 1
+#7310
+obj shield rock~
+19
+&wa rock shield&n~
+&wA rock shield lies here.&n~
+~
+9 1048576 0 513
+10 0 0 0
+18 6000 5
+A
+19 1
+A
+1 2
+#7311
+obj sword stone~
+8
+&wa stone sword&n~
+&wA sword made of stone lies here.&n~
+~
+5 1048576 0 8193
+0 5 6 3
+23 7000 5
+A
+19 2
+A
+18 -1
+A
+1 1
+#7312
+obj breastplate stone~
+10
+&wa stone breastplate&n~
+&wa stone breastplate lies here.&n~
+~
+9 1048576 0 9
+20 0 0 0
+43 8000 5
+A
+19 2
+#7313
+obj bracelet rock~
+5
+&wa rock bracelet&n~
+&wA rock bracelet lies here.&n~
+~
+9 1048576 0 4097
+6 0 0 0
+20 6000 5
+A
+19 1
+A
+13 5
+#7314
+obj essence earth~
+3
+&wthe essense of the &yEarth&n~
+&wa small pile of &yearth&w lies here.&n~
+~
+9 2097153 0 5
+2 0 0 0
+10 40000 5
+A
+19 2
+A
+18 2
+A
+13 10
+A
+12 -30
+#7315
+obj cloak earth~
+7
+&wa cloak of the &yearth&n~
+&wA cloak made from &yearth&w lies here.&n~
+~
+9 2097152 0 1025
+46 0 0 0
+17 10000 5
+A
+19 1
+A
+13 5
+#7316
+obj boots earth~
+10
+&yboots of the earth&n~
+&yA pair of boots made from earth lie here.&n~
+~
+9 2097152 0 65
+23 0 0 0
+20 60000 5
+A
+19 1
+A
+5 1
+#7317
+obj heart earth~
+6
+&yheart of the earth&n~
+&yA small heart made from earth lies here.&n~
+~
+1 2097153 0 65537
+0 0 0 0
+15 80000 5
+A
+19 1
+A
+1 2
+A
+5 1
+A
+13 10
+#7318
+obj clump earth~
+6
+&ya small clump of earth&n~
+&yA small clump of earth lies here.&n~
+~
+12 2097152 0 16385
+0 0 10 0
+12 100000 5
+A
+19 3
+A
+18 2
+A
+12 -30
+#7319
+obj breastplate translucent~
+20
+&Wa translucent breastplate&n~
+&WA translucent metal plate lies here.&n~
+~
+9 524320 0 9
+5 0 0 0
+10 6000 5
+A
+14 15
+A
+2 2
+#7320
+obj armplates translucent~
+15
+&Wa set of translucent armplates&n~
+&WA pair of translucent tubes lie here.&n~
+~
+9 524320 0 257
+3 0 0 0
+12 4000 5
+A
+14 20
+#7321
+obj cloak translucent~
+16
+&Wa translucent cloak&n~
+&WA translucent piece of cloth lies crumpled up.&n~
+~
+9 524320 0 5
+0 0 0 0
+2 5000 5
+A
+14 20
+#7322
+obj blade ethereal~
+8
+&wan ethereal blade&n~
+&wA small translucent blade lies here.&n~
+~
+5 1049632 0 8193
+0 3 11 3
+3 12000 5
+A
+19 1
+A
+18 1
+A
+2 1
+#7323
+obj ethereal bracelet~
+10
+&Wan ethereal bracelet&n~
+&WA small translucent ring of metal lies here.&n~
+~
+9 1049632 0 4097
+2 0 0 0
+1 11000 5
+A
+14 15
+A
+2 2
+A
+6 1
+#7324
+obj essence air~
+5
+&wessense of the &Wair&n~
+&wA small column of &Wair&w whirls around here.&n~
+~
+9 2097184 0 2049
+0 0 0 0
+2 60000 5
+A
+41 2
+#7325
+obj helm air~
+10
+&wa helm of the &Wair&n~
+&WA translucent helm lies here.&n~
+~
+9 2097184 0 17
+3 0 0 0
+1 30000 5
+A
+19 1
+A
+18 1
+A
+32 -1
+A
+26 -1
+#7326
+obj staff wind~
+8
+&ythe &Wwind &ystaff&n~
+&yA long staff lies here, surrounded by strong currents of &Wair&n.~
+~
+4 1048576 0 16385
+41 20 20 30
+4 60000 5
+#7327
+obj heart air~
+8
+&wheart of the &Wair&n~
+&w A small heart lies here, surrounded in currents of &Wair&n.~
+~
+1 2097184 0 65537
+0 0 0 0
+5 70000 5
+A
+19 1
+A
+32 -1
+A
+26 -1
+A
+14 15
+#7328
+obj amulet wind~
+8
+&wan amulet of the &Wwind&n~
+&wA small amulet lies here.&n~
+~
+9 2097152 0 5
+4 0 0 0
+12 45000 5
+A
+19 2
+A
+2 2
+#7329
+obj scale fish~
+15
+&c a &Cfish &cscale&n~
+&cA large &Cfish&c scale lies here.&n~
+~
+9 524288 0 513
+2 0 0 0
+15 10000 5
+A
+19 1
+#7330
+obj chest treasure~
+13
+&ya treasure chest&n~
+&yA treasure chest sits here.&n~
+~
+15 33554432 16 16385
+150 5 0 0
+60 7000 5
+A
+19 1
+A
+13 15
+A
+18 2
+#7331
+obj essence water~
+10
+&cessense of &Bwater&n~
+&cA small &Brain drop&c lies on the ground&n~
+~
+9 2097152 0 5
+3 0 0 0
+19 80000 5
+A
+19 2
+A
+3 2
+#7332
+obj amulet rain drop~
+8
+&ca &Brain drop &camulet&n~
+&cA small &Brain drop &clies here.&n~
+~
+9 1048576 0 5
+1 0 0 0
+9 80000 5
+A
+19 2
+#7333
+obj bracelet slate blue~
+8
+&ca slate-blue bracelet&n~
+&ca small blue bracelet lies here.&n~
+~
+9 2097152 0 4097
+1 0 0 0
+12 67000 5
+A
+19 2
+A
+3 1
+#7334
+obj heart water~
+5
+&cheart of the &Bwater&n~
+&cA small blue heart lies here.&n~
+~
+1 2097152 0 65537
+0 0 0 0
+12 67000 5
+A
+19 1
+A
+3 2
+A
+4 2
+A
+32 -1
+#7335
+obj blade coral sword~
+5
+&ca &Bblue-coral&c blade&n~
+&cA large blade made of &Bcoral&c lies here.&n~
+~
+5 2097152 0 8193
+131072 7 6 3
+14 80000 5
+A
+19 1
+A
+18 1
+A
+12 20
+#7336
+obj stick flaming~
+15
+&ra fl&Ra&Ym&Ri&rng &ystick&n~
+&RA small piece of eternally burning &ywood&R lies here.&n~
+~
+5 524304 0 8193
+0 4 5 2
+12 9800 5
+A
+19 1
+#7337
+obj cloak flames~
+20
+&ra cloak of fl&Ram&res&n~
+&rA burning cloak lies here.&n~
+~
+9 1048576 0 1025
+3 0 0 0
+19 11000 5
+A
+19 2
+A
+18 1
+A
+13 -10
+#7338
+obj spear flames~
+10
+&ra fl&Ra&Ym&Ri&rng spear&n~
+&rA long fl&Ra&Ym&Ri&rng piece of &ywood&r lies here.&n~
+~
+5 1048592 0 8193
+0 7 4 11
+10 60000 5
+A
+19 2
+#7339
+obj boots fire~
+10
+&rboots of f&Rir&re&n~
+&ra pair of fl&Ra&Ym&Ri&rng boots lie here.&n~
+~
+9 1048576 0 65
+2 0 0 0
+24 36000 5
+A
+19 1
+A
+18 1
+A
+13 -5
+#7340
+obj essence fire~
+2
+&ressense of the f&Rl&Ya&Rm&re&n~
+&rA small fire is burning fiercly here.&n~
+~
+9 2097152 0 1025
+10 0 0 0
+10 90000 5
+A
+19 3
+#7341
+obj shield flames~
+5
+&ra shield of f&Rl&Ya&Rm&re&n~
+&rA fl&Ra&Ym&Ri&rmg shield lies here.&n~
+~
+9 2097152 0 513
+3 0 0 0
+15 34000 5
+A
+19 2
+A
+18 1
+#7342
+obj circlet fire~
+9
+&rcirclet of f&Rir&re&n~
+&rA small f&Ri&Ye&Rr&ry circlet lies here&n~
+~
+9 2097152 0 17
+10 0 0 0
+7 100000 5
+A
+19 2
+A
+18 -1
+A
+12 15
+#7343
+obj heart fire~
+5
+&Ra heart of &rfire&n~
+&RThe heart of the &rflame&R lies here.&n~
+~
+1 2097152 0 65537
+0 0 0 0
+12 100500 5
+A
+19 2
+A
+32 -1
+#7344
+obj bracelet fire~
+4
+&ra bracelet of &Rfire&n~
+&rA f&Ri&Ye&Rr&ry bracelet lies here.&n~
+~
+9 2097152 0 4097
+0 0 0 0
+12 110000 5
+A
+19 1
+A
+18 2
+A
+13 -10
+#7345
+obj blade ether~
+15
+&wa blade of &Kether&n~
+&wA blade made of &Kether&w lies here.&n~
+~
+5 0 8 8193
+0 3 8 3
+15 60000 5
+A
+19 1
+#7346
+obj boots ether~
+12
+&wboots of the &Kether&n~
+&wA pair of boots made from the &Kether&w lies here.&n~
+~
+9 1048576 0 65
+5 0 0 0
+6 67000 5
+A
+19 1
+A
+1 1
+#7347
+obj heart ether~
+5
+&wheart of &Kether&n~
+&wA heart made of &Kether&w lies here.&n ~
+~
+1 2097152 0 65537
+0 0 0 0
+4 80000 5
+A
+19 2
+A
+3 1
+A
+32 -1
+#7348
+obj necklace ether~
+9
+&wa necklace made of &Kether&n~
+&wA necklace made of &Kether&w lies here.&n~
+~
+9 2097152 0 5
+3 0 0 0
+23 87000 5
+A
+19 2
+A
+1 1
+A
+3 2
+#7349
+obj shield ether~
+10
+&wa shield of &Kether&n~
+&wA shield made of &Kether&w lies here.&n~
+~
+9 2097152 0 513
+38 0 0 0
+23 60000 5
+A
+19 1
+#7350
+obj breastplate black ether~
+10
+&w a &Kblack&w breastplate&n~
+&wA breastplate made of &Kether&w lies here.&n~
+~
+9 2097152 0 9
+42 0 0 0
+45 120000 5
+A
+19 2
+A
+13 5
+#7351
+obj visor black~
+10
+&wa &Kblack&w visor&n~
+&wA visor made of &Kether&w lies here.&n~
+~
+9 2097152 0 17
+18 0 0 0
+7 50000 5
+A
+19 2
+#7352
+obj helmet stormtrooper~
+0
+a storm-trooper helmet~
+PhYrE's helmet lies here.~
+~
+9 0 0 17
+0 0 10 0
+1 5 5
+#7353
+obj suit wookie~
+0
+a wookie suit~
+PhYrE's suit lies here.~
+~
+9 0 0 9
+0 0 10 0
+1 5 5
+#7354
+obj massive pile coins~
+10
+It's &Ygold&n dummy~
+&YA massive pile of coins lies here.&n~
+~
+20 0 0 1
+7500 0 0 0
+1 5 5
+#7355
+obj potion clear~
+10
+&Wa clear potion&n~
+&WA clear potion sits here.&n~
+~
+10 0 0 1
+30 154 0 0
+1 7800 5
+#7356
+obj dark blue potion~
+10
+&ba dark blue potion&n~
+&bA dark blue potion sits here.&n~
+~
+10 0 0 1
+30 87 0 0
+3 7800 5
+#7357
+obj earthy brown potion~
+10
+&yan earthy brown potion&n~
+&yAn earthy brown potion sits here.&n~
+~
+10 0 0 1
+30 1 106 39
+4 7800 5
+#7358
+obj firey red potion~
+10
+&ra firey red potion&n~
+&rA firey red potion sits here.&n~
+~
+10 0 0 1
+30 44 68 19
+3 7800 5
+#7359
+obj clear wand~
+10
+&WA clear wand&n~
+&WA clear wand sits here.&n~
+~
+3 0 0 16385
+30 5 5 37
+1 10900 5
+#7360
+obj earth colored wand~
+10
+&yan earth colored wand&n~
+&yAn earth colored wand sits here.&n~
+~
+3 0 0 16385
+30 5 5 118
+4 10900 5
+#7361
+obj staff fire~
+10
+&ra staff of f&Rir&re&n~
+&ra staff of f&Rir&re lies here.&n~
+~
+3 0 0 16385
+30 5 5 26
+6 13567 5
+#7362
+obj deep blue staff~
+10
+&ba deep blue staff&n~
+&bA deep blue staff lies here.&n~
+~
+4 0 0 16385
+30 5 5 7
+8 14500 5
+$~
+#999999

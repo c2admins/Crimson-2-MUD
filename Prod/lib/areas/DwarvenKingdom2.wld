@@ -1,0 +1,1745 @@
+#4700
+The Spiral Stair~
+This Zone is currently under construction... NO ONE is allowed in any rooms
+between 4701 and 4899... if you end up there for ANY reason without consent
+of the Zonelord, please recall/goto/etc. ASAP... anyone caught exploring the
+Zone before it's complete shall be severly dealt with, as per the mud rules.
+Vangar.
+~
+35 0 0 1 99 1
+D4
+~
+~
+0 -1 3608
+S
+#4701
+Caves~
+This is a small winding cavern that seems to lead in many directions.  The
+light of your torch reveals a larger cavern heading west while other, 
+smaller caverns lead off to the north and south.
+~
+35 9 0 1 99 1
+D1
+~
+~
+0 -1 4702
+D3
+~
+~
+0 -1 7766
+S
+#4702
+Caves~
+This small dark cave leads north into more dark caverns.  To the east a 
+large upward sloping cavern seems to lead out of the mountain.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4703
+D3
+~
+~
+0 -1 4701
+S
+#4703
+Caves~
+This passage appears to be well traveled.  You notice tracks leading off to
+the west.  The passages to the north and to the south are obscured in 
+darkness.
+~
+35 0 0 1 99 1
+D2
+~
+~
+0 -1 4702
+D3
+~
+~
+0 -1 4704
+S
+#4704
+Side of Mountain~
+This passage leads back to the surface of the mountain.  This ledge overlooks
+an extremely large valley and on the other side of the valley you see the 
+great walls of what appears to be a dwarven castle.  A small caves leads 
+back into darkness to the east.
+~
+35 9 0 1 99 1
+D1
+~
+~
+0 -1 4703
+D3
+~
+~
+0 -1 4706
+S
+#4705
+Caves~
+This small passage eventually leads to a dead end.  The only exit from this
+area is to go back to the dark caves south of here.
+~
+35 9 0 1 99 1
+S
+#4706
+Mines~
+  This small shaft of the mines continues its tunneling east and west.  Small
+glints of metal can be seen within the walls.
+~
+35 9 0 1 99 1
+D1
+~
+~
+0 -1 4704
+D3
+~
+~
+0 -1 4707
+S
+#4707
+Turn in the Mine~
+  The small shaft travels east and south here, the masterful mining skills that
+made this turn possible are evidentl by the smooth cuts in the walls.  Almost
+as if a hot knife made its way through some warm butter.
+~
+35 13 0 1 99 1
+D1
+~
+~
+0 -1 4706
+D2
+~
+~
+0 -1 4708
+S
+#4708
+Mines~
+  This is a three-way intersection in these mazes of mines with directions going
+north, west, and south which travels further down into the heart of the mountain
+itself.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4707
+D2
+~
+~
+0 -1 4709
+D3
+~
+~
+0 -1 4736
+S
+#4709
+Dwarven mine~
+  The walls of this mine are chipped and cut to perfection.  Workmanship of this
+type could only have been done by the masterful Dwarven race.  Tunnels continue
+to the south and east, and the tunnel travels upward to the north.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4708
+D1
+~
+~
+0 -1 4724
+D2
+~
+~
+0 -1 4710
+S
+#4710
+Dwarven mine~
+  Tunnels spread off in all directions except to the west where the wall is mad
+eof a dark and bleak stone.  A small glow eminates from the walls of the mines,
+but not enough to see by.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4709
+D1
+~
+~
+0 -1 4712
+D2
+~
+~
+0 -1 4711
+S
+#4711
+Dwarven mine~
+  The small shaft ends abruptly at a jewel encrusted wall.  To the north the
+small shaft continues some past some small rocks.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4710
+S
+#4712
+Dwarven mine~
+  This section of small shaft is a turnig point and continues to the west and t
+othe south.  Small glints of gold and silver can be seen in the walls.
+~
+35 9 0 1 99 1
+D2
+~
+~
+0 -1 4713
+D3
+~
+~
+0 -1 4710
+S
+#4713
+Dwarven mine~
+  The small shaft continues north and south deep inside this large mountain.  A
+light glow can be seen in the walls, but not enough to see by.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4712
+D2
+~
+~
+0 -1 4714
+S
+#4714
+Dwarven mines~
+  This section of the small shafts is a intersection of three seperate tunnels.
+They lead north, east, and west.  A faint glow is within the walls of this
+small intersection.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4713
+D1
+~
+~
+0 -1 4719
+D3
+~
+~
+0 -1 4715
+S
+#4715
+Dwarven mines~
+  The small shaft of glittering gold and silver travels east and south here.
+The faint glow from within the walls give you a sense of safety.
+~
+35 9 0 1 99 1
+D1
+~
+~
+0 -1 4714
+D2
+~
+~
+0 -1 4716
+S
+#4716
+Dwarven mines~
+  The small Dwarven carved shaft continues to the north and to the east here.
+Small clumps of prescious metals can be seen within the rocky walls.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4715
+D1
+~
+~
+0 -1 4717
+S
+#4717
+Dwarven mines~
+  The small shaft of the mine continues to the west and to the south here.  A
+small amount of light can be seen to the south.
+~
+35 9 0 1 99 1
+D2
+~
+~
+0 -1 4718
+D3
+~
+~
+0 -1 4716
+S
+#4718
+End of the mine~
+  The south section of the small tunnel is covered in a blue light, and also
+radiating a aura of heat.  The eastern and western walls also glow but not as
+fierce as the southern section.
+~
+35 12 0 1 99 1
+D0
+~
+~
+0 -1 4717
+D2
+Nothing special there..
+~
+~
+16 -1 4772
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+S
+#4719
+Dwarven mines~
+  Small shafts lead off in all directions except northerly, where the wall seem
+sto have a tinted blue color to it.  The southern tunnel seems to end a small
+ways down.
+~
+35 9 0 1 99 1
+D1
+~
+~
+0 -1 4721
+D2
+~
+~
+0 -1 4720
+D3
+~
+~
+0 -1 4714
+S
+#4720
+Unfinished shaft~
+  The walls here are jagged and unfinished in there cuts, leaving sharp and
+jagged edges at every turn.  The only exit appears to be to the north.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4719
+S
+#4721
+Dwarven mines~
+  This small shaft travels to the west and to the south, sporting small clumps
+of precious metals as they go.
+~
+35 9 0 1 99 1
+D2
+~
+~
+0 -1 4722
+D3
+~
+~
+0 -1 4719
+S
+#4722
+Dwarven mines~
+  A slight downslope is present as this tunnel continues to the south and to th
+enorth.  To the south is where the small slope is present, traveling slightly
+further down into the depths of the moutain.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4721
+D2
+~
+~
+0 -1 4723
+S
+#4723
+Unfinished mine~
+  The southern wall of this mine has been left uncarved and unfinishes as you
+can see that the amount of metals in the walls have decreased slightly here.
+The tunnel leads to the north out of this dead end.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4722
+S
+#4724
+Dwarven mine~
+  This small shaft travels to the east and west while along the way several
+spots of prescious metal and rock jutt forth from the red rock.
+~
+35 9 0 1 99 1
+D1
+~
+~
+0 -1 4725
+D3
+~
+~
+0 -1 4709
+S
+#4725
+Dwarven mine~
+  The small tunnel continues to the west and to the south from this turning
+point.  Small spots of gold and silver can be seen in the walls.
+~
+35 9 0 1 99 1
+D2
+~
+~
+0 -1 4726
+D3
+~
+~
+0 -1 4724
+S
+#4726
+Dwarven mines~
+  This is a north and south shaft that has been carved to perfection.  The wall
+sare almost square here, giving it a hall like appearance.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4725
+D2
+~
+~
+0 -1 4727
+S
+#4727
+Dwarven mines~
+  The small shaft here continues to the north and to the east. As it slopes
+slightly downward to the east, the walls have a more unfinished look to them.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4726
+D1
+~
+~
+0 -1 4728
+S
+#4728
+Dwarven mines~
+  This small east-west shaft, which travels slightly downward to the east, has
+a distinct smell to it.  The smell is revolting, coming close to that of rottin
+gflesh.
+~
+35 9 0 1 99 1
+D1
+~
+~
+0 -1 4729
+D3
+~
+~
+0 -1 4727
+S
+#4729
+Dwarven mines~
+  This intersection combines three tunnels, the western tunnel leading up.  To
+the south is darkness, but there is a disgusting stench eminating from a very
+large cavern.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4732
+D2
+~
+~
+0 -1 4730
+D3
+~
+~
+0 -1 4728
+S
+#4730
+Dwarven mines~
+  This is a small north and south passage that is bleak and void of any gold or
+silver in the walls.  It continues into darkness to the south.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4729
+D2
+~
+~
+0 -1 4731
+S
+#4731
+Dwarven mines~
+  This small shaft ends abruptly at the southern wall.  There is a faint blue
+glow to the southern wall but no metals of jewels are present.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4730
+S
+#4732
+Duergar Outcamp~
+  This is a large cavern that stinks of decay and death.  To the north there is
+ a rather large hut, while to the west there is a small fire and several big
+boulders.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4733
+D2
+~
+~
+0 -1 4729
+D3
+~
+~
+0 -1 4735
+S
+#4733
+Duergar Barracks~
+  Several small cots line the walls here  inside this large thached hut.  Small
+scraps of food and several small disfigured bodies lie about, no doubt the
+remains of some unfortuneate dwarf.
+~
+35 8 0 1 99 1
+D2
+~
+~
+0 -1 4732
+S
+#4734
+Small cave~
+  Many small and disfigured bodies have been piled up here stinking up the whol
+ecavern.  Blood stains line the walls and entrails are strewn about the floor.
+~
+35 8 0 1 99 1
+D2
+~
+~
+0 -1 4735
+S
+#4735
+By a small fire~
+  Several large rocks surround a petty little fire that has formed a cloud in
+the ceiling of this large cavern.  A window of the hut looks out over this smal
+lmeeting area.  To the north a small dark cave can be seen.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4734
+D1
+~
+~
+0 -1 4732
+S
+#4736
+Carved Tunnel~
+  This small tunnel has been carved to perfection, the walls are smooth and the
+floor has been worn soft through years of passage.  The red coloring of the
+rock gives this small tunnel a soft glow.
+~
+35 9 0 1 99 1
+D0
+~
+~
+0 -1 4737
+D1
+~
+~
+0 -1 4708
+S
+#4737
+Carved Tunnel~
+  The walls of the small tunnel have been carved to perfection as well as the
+floor that has been worn smooth.  It travels south and west leading off into
+darkness.
+~
+35 9 0 1 99 1
+D2
+~
+~
+0 -1 4736
+D3
+~
+~
+0 -1 4738
+S
+#4738
+Carved Tunnel~
+  The walls here are red and smooth as they have been carved into perfection.
+The floor has been worm smooth with use and clear of any rubble.
+~
+35 9 0 1 99 1
+D1
+~
+~
+0 -1 4737
+D2
+~
+~
+0 -1 4739
+S
+#4739
+Stone Gates~
+  Two monstrous pillars of stone support a great stone gate that leads south
+into a gigantic cavern with a small city inside.  The redden rock of the of
+mountain gives this small gate and cavern within a slight reddish glow.
+~
+35 12 0 1 99 1
+D0
+~
+~
+0 -1 4738
+D2
+~
+~
+0 -1 4740
+S
+#4740
+Walkway~
+  A small stone walkway leads its way through the emmense cavern and all of its
+scattered boulders and misplaced stalagmites.  To the south you can see a large
+area of many multicolored rock, rising up in the center of which is a small
+building.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4739
+D2
+~
+~
+0 -1 4741
+D3
+~
+~
+0 -1 4750
+S
+#4741
+Rock Garden~
+  A small path works its way through all types of multicolored boulders of all
+sizes and shapes.  Despite it's hardness and great size it has a certain
+beauty to it.
+~
+35 1342177288 536870912 1 99 1
+D0
+~
+~
+0 -1 4740
+D1
+~
+~
+0 -1 4742
+D3
+~
+~
+0 -1 4748
+S
+#4742
+Rock Garden~
+  A small path works its way south and west from this section of a enormously
+large, yet beautiful conglamoration of rocks and boulders.
+~
+35 1342177288 536870912 1 99 1
+D2
+~
+~
+0 -1 4743
+D3
+~
+~
+0 -1 4741
+S
+#4743
+Rock Garden~
+  A small path works its way north and south through this large display of many
+different colored boulders and rocks.  A large building can be seen rising abov
+ethe boulders directly to the west.
+~
+35 1342177288 536870912 1 99 1
+D0
+~
+~
+0 -1 4742
+D2
+~
+~
+0 -1 4744
+S
+#4744
+Rock Garden~
+  A small path works its way to the north and to the west as the many different
+colored boulders and rocks perform a array of beauty before you.
+~
+35 1342177288 536870912 1 99 1
+D0
+~
+~
+0 -1 4743
+D3
+~
+~
+0 -1 4745
+S
+#4745
+Rock Garden~
+  A small path works its way west and east through this array of multicolored
+boulders and rocks.  To the north a smooth path leads to a large and immaculate
+stone building.
+~
+35 1342177288 536870912 1 99 1
+D0
+~
+~
+0 -1 4749
+D1
+~
+~
+0 -1 4744
+D2
+~
+~
+0 -1 4790
+D3
+~
+~
+0 -1 4746
+S
+#4746
+Rock Garden~
+  A small path works its way east and north through this small section of the
+large array of boulders and rocks of all different colors.
+~
+35 1342177288 536870912 1 99 1
+D0
+~
+~
+0 -1 4747
+D1
+~
+~
+0 -1 4745
+S
+#4747
+Rock Garden~
+  A small path works its way north and south through this small section of the
+large garden of multicolored boulders.  Directly to the east a large building
+can be seen rising above the piles of boulders.
+~
+35 1342177288 536870912 1 99 1
+D0
+~
+~
+0 -1 4748
+D2
+~
+~
+0 -1 4746
+S
+#4748
+Rock Garden~
+  A small path works its way east and south through this section of the great
+multicolored array of boulders and rock formations.
+~
+35 1342177288 536870912 1 99 1
+D1
+~
+~
+0 -1 4741
+D2
+~
+~
+0 -1 4747
+S
+#4749
+Temple of Juargan~
+  This large building is circular in shape and open on all sides, as the ceilin
+gis supported by pillars made of the deep red stone from the heart of the
+Dra-Korrin.
+  In the center there is rests a large throne, formed of red rock.
+~
+35 1342177288 536870912 1 99 1
+D2
+~
+~
+0 -1 4745
+E
+throne~
+The throne is made of deep red rock from the core of the Dra-Korrin.~
+S
+#4750
+Walkway~
+  A small stone walkway travels east and west through the many stalagmites and
+stray boulders that scatter the floor of the great cavern.
+~
+35 8 0 1 99 1
+D1
+~
+~
+0 -1 4740
+D3
+~
+~
+0 -1 4751
+S
+#4751
+Walkway~
+  A small stone walkway travels east and south through the debris of many
+boulders and stalagmites.  Another small walkway leads west to a small building
+pushing a black smoke from its roof.
+~
+35 8 0 1 99 1
+D1
+~
+~
+0 -1 4750
+D2
+~
+~
+0 -1 4753
+D3
+~
+~
+0 -1 4752
+S
+#4752
+Blacksmith's Home~
+  A large black forge lies in the center of this small house pushing waves of
+heat into your face, barely allowing you to stand within the entranceway.  A
+large trough of water and several anvils are resting here as well.
+~
+35 8 0 1 99 1
+D1
+~
+~
+0 -1 4751
+S
+#4753
+Walkway~
+  A small walkway travels north and south through the many scattered boulders
+and stagmites.  A seperate, less used path leads to the west.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4751
+D2
+~
+~
+0 -1 4759
+D3
+~
+~
+0 -1 4754
+S
+#4754
+Path in the Rock~
+  A small path leads west further into the less carved rock while to the east
+the larger walkway can be seen.
+~
+35 8 0 1 99 1
+D1
+~
+~
+0 -1 4753
+D3
+~
+~
+0 -1 4755
+S
+#4755
+Path in the Rock~
+  This small uncarved path travels south and east as the edge of the cavern
+blocks any travel further west.  The wall of the cavern has a deep red color to
+it and with the many stalagtites parts resemble dripping blood.
+~
+35 8 0 1 99 1
+D1
+~
+~
+0 -1 4754
+D2
+~
+~
+0 -1 4756
+S
+#4756
+Path in the Rock~
+  This small, uncarved path leads north and south along the cavern wall, over
+many boulders at points.  To the east you can see a path leading up to a small
+hole in a large boulder.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4755
+D1
+~
+door~
+9 0 4771
+D2
+~
+~
+0 -1 4757
+S
+#4757
+Path in the Rock~
+  A small path travels over boulders and creveces to the north and east.  The
+edge of the cavern lies to the west while mounds of boulders are heaped to the
+south.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4756
+D1
+~
+~
+0 -1 4758
+D3
+~
+~
+0 -1 4785
+S
+#4758
+Path in the Rock~
+  A small and unused path travels over boulders and by many large hole as it
+makes its way to the west.  To the east the small path ends in the larger walk-
+way of the city.  To the south a path leads to a small hut perched on top of a
+large boulder.
+~
+35 8 0 1 99 1
+D1
+~
+~
+0 -1 4760
+D2
+~
+~
+0 -1 4761
+D3
+~
+~
+0 -1 4757
+S
+#4759
+Walkway~
+  A stone walkway travels north and south through this section of this rocky
+city.  To the west you can see a uncarved and hug mound of rock and boulder.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4753
+D2
+~
+~
+0 -1 4760
+S
+#4760
+Walkway~
+  A stone walkway travels north and south through this section of the city.  A
+small and unused path can be seen traveling west into the uncut and jagged rock
+.~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4759
+D2
+~
+~
+0 -1 4762
+D3
+~
+~
+0 -1 4758
+S
+#4761
+Pasty's Dwelling~
+  This is a small stone dwellng with a large oven on the south wall.  There are
+ many tables and chairs placed about the place and by the oven there is a table
+piled with grains and a small bowl of dough.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4758
+S
+#4762
+Walkway~
+  A stone walkway travels north and east through this section of the stone city
+.A small path leads south to a small rock dwelling.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4760
+D1
+~
+~
+0 -1 4763
+D2
+~
+~
+0 -1 4764
+D3
+~
+~
+0 -1 4786
+S
+#4763
+Walkway~
+  A stone walkway leads west from here.  To the east the small walkway ends in
+alarge building, and to the south a small path leads to a small stone dwelling.
+~
+35 8 0 1 99 1
+D1
+~
+door~
+9 0 4766
+D2
+~
+door~
+9 0 4765
+D3
+~
+~
+0 -1 4762
+S
+#4764
+Leatherbies Home~
+  This is a small stone dwelling with many sizes of leather strewn about the
+place.  A small table with a few chairs sits in the center of the house.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4762
+S
+#4765
+The Stone Jewel~
+  Many different colors and sizes of jewels hang from the walls of this well
+kept dwelling.  A small counter sits on the far wall with other small tables
+lining the walls.
+~
+35 8 0 1 99 1
+D0
+~
+door~
+9 0 4763
+S
+#4766
+Guard Barrack~
+  Many small cots line the walls of this large building as it serves for the
+homes of many brave Dwarven men who pledge there lives to the supression of
+there Duergar enemies.  A small archway leads south to a lower level.
+~
+35 8 0 1 99 1
+D2
+~
+door~
+13 4705 4767
+D3
+~
+door~
+9 0 4763
+S
+#4767
+Alcove~
+  A small alcove serves as a turning point for this small, dark tunnel that goes
+north and west from here.
+~
+35 13 0 1 99 1
+D0
+~
+~
+9 -1 4766
+D3
+~
+~
+0 -1 4768
+S
+#4768
+Entrance to Tomb~
+  A large archway leads north to a dark vault.  An old stench eminates from it,
+as dust seems to continually flow from the old arch.  There is a small tunnel
+that travels east into a darkness.
+~
+35 13 0 1 99 1
+D0
+~
+door~
+9 0 4769
+D1
+~
+~
+0 -1 4767
+S
+#4769
+Ancients Tomb~
+  Two large stone sarcophagus's lie stagnant in the center of this small tomb.
+The walls are lined with holes that contain many coffers containing, no doubt,
+the remains of some ancient dwarf.
+  A great stone door leads to the west, it has many enscriptions upon it.
+~
+35 13 0 1 99 1
+D2
+~
+door~
+9 0 4768
+D3
+~
+tomb vault door~
+15 4700 4770
+S
+#4770
+Ancients Vault~
+  This is more of a small alcove than anything else.  The ceiling is covered
+with many descriptive carvings, as are the walls and floor.  Where it not for
+the years of decay and no upkeep, this would be a glamorous chamber.
+~
+35 9 0 1 99 1
+D1
+~
+~
+15 4700 4769
+S
+#4771
+Siven's Stone~
+  A small and dark little room entombed within a large boulder, a very strange
+place to want to live.  There is a small table in the center, but the room is
+void of any other objects.
+~
+35 8 0 1 99 1
+D3
+~
+door~
+9 0 4756
+S
+#4772
+Dark Tunnel~
+Long ago abandoned and forgotten by the Ironstar dwarves, this tunnel lacks any illumination 
+whatsoever. The source of the great heat in the area seems to come from the south, and you 
+can't help but feel you are being watched the entire time.
+~
+35 12 0 1 99 1
+D0
+~
+~
+0 -1 4718
+D2
+~
+~
+0 -1 4773
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+S
+#4773
+Dark Tunnel~
+  The sides of the walls have become moist, as if the heat from the area is making the
+very rocks themselves sweat. A small sidetunnel breaks off to the east, but the source
+of the areas heat seems to lie to the south.
+~
+35 12 0 1 99 1
+D0
+~
+~
+0 -1 4772
+D1
+~
+~
+0 -1 4774
+D2
+~
+~
+0 -1 4776
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+S
+#4774
+Dark Cavern~
+  The tunnel opens into a small chamber littered with bones. Most are of smaller animals
+such as rats and giant moles, but there are a number of humanoid bones mixed in as well.
+All of the bones appear to be quite old, so it would seem likely that whatever lived here
+has not eaten a decent meal in quite some time...
+~
+35 12 0 1 99 1
+D3
+~
+~
+0 -1 4773
+D5
+Nothing special there..
+~
+~
+16 -1 4775
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+S
+#4775
+Bottom of the Crevice~
+  Many of the bones from above have fallen to this chamber below, but what catches your 
+attention is the great scaly beast that has its eyes set upon you for dinner, and the
+glowing green rock behind it. 
+~
+35 12 0 1 99 1
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+S
+#4776
+Path Across the Lava Flow~
+  The tunnel widens into a large chamber that glows from the molten rock flowing through
+it. The only way across is a stone bridge, apparently quite old, that has seen better days.
+The heat in the area is almost umbearable, but there appears to be movement near the other
+end of the chamber.
+~
+35 12 0 1 99 1
+D0
+~
+~
+0 -1 4773
+D1
+~
+~
+0 -1 4777
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+S
+#4777
+On the Lava Bridge~
+  The heat is nearly unbearable, and the fumes cause you to cough so bad your throat aches.
+The end of the bridge is in sight though, as are the twisting shadows of life beyond.
+~
+35 12 0 1 99 1
+D1
+~
+~
+0 -1 4778
+D3
+~
+~
+0 -1 4776
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+S
+#4778
+Path Across the Lava Flow~
+  An old, stone bridge is the only way back across the lava flow, but shadows twist and 
+dance in the tunnel to the east, giving you hopes that life exists in this cursed area.
+~
+35 12 0 1 99 1
+D1
+~
+~
+0 -1 4779
+D3
+~
+~
+0 -1 4777
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+S
+#4779
+Ancient Chamber~
+  An ancient portal rests in the center of this large cavern, pouring forth blue light 
+that causes the shadows to dance and twist with life. The walls seem to have eyes, and
+any feelings of safety you once had after crossing the lava have now left you. The whole
+area has a very ancient and evil feel, and you want to do nothing more than leave.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4780
+D1
+~
+~
+0 -1 4782
+D2
+~
+~
+0 -1 4784
+D3
+~
+~
+0 -1 4778
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+S
+#4780
+Ancient Chamber~
+  An ancient portal rests in the center of this large cavern, pouring forth blue light 
+that causes the shadows to dance and twist with life. The walls seem to have eyes, and
+any feelings of safety you once had after crossing the lava have now left you. The whole
+area has a very ancient and evil feel, and you want to do nothing more than leave.
+~
+35 8 0 1 99 1
+D1
+~
+~
+0 -1 4781
+D2
+~
+~
+0 -1 4779
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+S
+#4781
+Ancient Chamber~
+  An ancient portal rests in the center of this large cavern, pouring forth blue light 
+that causes the shadows to dance and twist with life. The walls seem to have eyes, and
+any feelings of safety you once had after crossing the lava have now left you. The whole
+area has a very ancient and evil feel, and you want to do nothing more than leave.
+~
+35 8 0 1 99 1
+D2
+~
+~
+0 -1 4782
+D3
+~
+~
+0 -1 4780
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+S
+#4782
+Ancient Chamber~
+  An ancient portal rests in the center of this large cavern, pouring forth blue light 
+that causes the shadows to dance and twist with life. The walls seem to have eyes, and
+any feelings of safety you once had after crossing the lava have now left you. The whole
+area has a very ancient and evil feel, and you want to do nothing more than leave.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4781
+D2
+~
+~
+0 -1 4783
+D3
+~
+~
+0 -1 4779
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+S
+#4783
+Ancient Chamber~
+  An ancient portal rests in the center of this large cavern, pouring forth blue light 
+that causes the shadows to dance and twist with life. The walls seem to have eyes, and
+any feelings of safety you once had after crossing the lava have now left you. The whole
+area has a very ancient and evil feel, and you want to do nothing more than leave.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4782
+D3
+~
+~
+0 -1 4784
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+S
+#4784
+Ancient Chamber~
+  An ancient portal rests in the center of this large cavern, pouring forth blue light 
+that causes the shadows to dance and twist with life. The walls seem to have eyes, and
+any feelings of safety you once had after crossing the lava have now left you. The whole
+area has a very ancient and evil feel, and you want to do nothing more than leave.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4779
+D1
+~
+~
+0 -1 4783
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+S
+#4785
+Drugar's Supplies~
+  This modest shop is filled with picks, shovels and all sorts of mining and camping
+equipment. Drugar is revered as one of the more successful members of the Ironstar
+clan, and thus makes a good living based upon his reputation alone.
+~
+35 12 0 1 99 1
+D1
+~
+~
+0 -1 4757
+E
+wall~
+Upon closer inspection, the southern wall is covered in a pattern of small, almost indistinguishable 
+runes that make up the pattern of a door.
+~
+E
+down~
+A small crevice is in the floor near the back of the cave. It may be just wide enough to slip down
+through, but it is impossible to tell what lies at the bottom.
+~
+S
+#4786
+Dwarven Nursery~
+  Once overflowing with children, the nursery is now a bit dilapidated. The Great
+Orc Wars hit the Ironstar clan very hard, and many of the mature men and women were
+killed at the Battle of Brimstone. Though many of the children have now grown, it will
+be some time before the clan recovers, and this nursery is a testement of the 
+destruction of war.
+~
+35 8 0 1 99 1
+D0
+~
+~
+0 -1 4788
+D1
+~
+~
+0 -1 4762
+D3
+~
+~
+0 -1 4787
+S
+#4787
+Dwarven Nursery~
+  Once overflowing with children, the nursery is now a bit dilapidated. The Great
+Orc Wars hit the Ironstar clan very hard, and many of the mature men and women were
+killed at the Battle of Brimstone. Though many of the children have now grown, it will
+be some time before the clan recovers, and this nursery is a testement of the 
+destruction of war.
+~
+35 8 0 1 99 1
+D1
+~
+~
+0 -1 4786
+S
+#4788
+Dwarven Nursery~
+  Once overflowing with children, the nursery is now a bit dilapidated. The Great
+Orc Wars hit the Ironstar clan very hard, and many of the mature men and women were
+killed at the Battle of Brimstone. Though many of the children have now grown, it will
+be some time before the clan recovers, and this nursery is a testement of the 
+destruction of war.
+~
+35 8 0 1 99 1
+D2
+~
+~
+0 -1 4786
+S
+#4789
+Natural Spring~
+ A cool natural spring flows from the cavern floor, its waters forming a pool that
+the dwarves use for drinking water, as well as being the source for bathing, cooking 
+and various other activities.
+~
+35 8 0 1 99 1
+D3
+~
+~
+0 -1 4760
+S
+#4790
+Entrance to the Temple of Reorx~
+A small path works its way to a large and majestic temple to the south. Wide
+marbled stairs lead up into the temple entrance, and into the interior beyond.
+To the north the path leads into rock garden, and beyond that a large structure.
+~
+35 1342177288 536870912 0 99 1
+D0
+~
+~
+0 -1 4745
+D2
+~
+~
+0 -1 4791
+S
+#4791
+Temple of Reorx~
+Great iron doors can protect the temple in times of need. A small guard post
+also sits off to the east, with at least one guard always on duty. The citizens
+of the city flock here in times of war, both as protection and for prayer.
+~
+35 1342177288 536870912 41 99 1
+D0
+~
+~
+0 -1 4790
+D1
+~
+~
+0 -1 4792
+D2
+~
+~
+0 -1 4793
+S
+#4792
+Small Bedroom~
+  This small, very spartan bedroom is used by those who guard these temple walls.
+Rhydolin Ironstar is the leader of these "holy guards" and can often be found here
+making sure that only those worthy enough enter the temple.
+~
+35 1342177288 536870912 0 99 1
+D3
+~
+~
+0 -1 4791
+S
+#4793
+Temple of Reorx~
+  Large murals decorate the walls and ceilings of the temple, depicting the
+dwarven god Reorx in various stages of creating the world. To the south can
+be seen a large statue of the god, along with piles of offerings to gain his
+favor.
+~
+35 1342177288 536870912 0 99 1
+D0
+~
+~
+0 -1 4791
+D2
+~
+~
+0 -1 4795
+D3
+~
+~
+0 -1 4794
+S
+#4794
+Small Study~
+  Books of all shapes and sizes lay cluttered about the room, most collecting dust.
+This ares of the temple serves as the hall of records, and home to Sevros Ironstar.
+Though he is not the official city recorder, he takes great pride in being placed
+in charge of caretaking, and can be found here almost always.
+~
+35 1342177288 536870912 0 99 1
+D1
+~
+~
+0 -1 4793
+S
+#4795
+Temple of Reorx~
+  Large murals decorate the walls and ceilings of the temple, depicting the
+dwarven god Reorx in various stages of creating the world. To the south can
+be seen a large statue of the god, along with piles of offerings to gain his
+favor.
+~
+35 1342177288 536870912 0 99 1
+D0
+~
+~
+0 -1 4793
+D1
+~
+~
+0 -1 4796
+D2
+~
+~
+0 -1 4798
+D3
+~
+~
+0 -1 4797
+S
+#4796
+Meditation Room~
+  The meditation rooms are used primarily by the priests, and are thus less
+luxurious than the rest of the temple. Only several small mats cover the ground,
+all placed in front of a small idolon of Reorx, the subject of the dwarves prayers.
+~
+35 1342177288 536870912 0 99 1
+D3
+~
+~
+0 -1 4795
+S
+#4797
+Meditation Room~
+  The meditation rooms are used primarily by the priests, and are thus less
+luxurious than the rest of the temple. Only several small mats cover the ground,
+all placed in front of a small idolon of Reorx, the subject of the dwarves prayers.
+~
+35 1342177288 536870912 0 99 1
+D1
+~
+~
+0 -1 4795
+S
+#4798
+Before the Great Statue of Reorx~
+  A large set of marble stairs leads up to the base of the statue of Reorx.
+All around are scattered offerings from the people of the city, as well as
+the priests of the temple. The stature itself stands roughly twenty feet
+tall and appears to be made from mithril, the metal of the dwarves. At the
+feet of the statue, further up the stairs lies a stone dias, used by the
+high priest for making speeches.
+~
+35 1342177288 536870912 0 99 1
+D0
+~
+~
+0 -1 4795
+D4
+~
+~
+0 -1 4799
+S
+#4799
+At the Base of the Statue~
+  A stone dias sits firmly between the feet of Reorx, and is used by the High
+Priest Dugan for making speeches. He can be found here most other times of
+the day as well, and many members of the community feel he has some secret room
+connected to either the statue or the back of the temple since he rarely leaves
+the area.
+~
+35 1342177288 536870912 0 99 1
+D5
+~
+~
+0 -1 4798
+S
+$~
+#999999

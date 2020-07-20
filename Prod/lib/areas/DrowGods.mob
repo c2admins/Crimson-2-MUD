@@ -1,0 +1,1018 @@
+#17900
+mob Lolth Drow Chaos~
+Lolth, The Goddess of Chaos~
+Lolth, The Goddess of Chaos, is before you.
+~
+Lolth, the Drow Goddess, smiles a sweet smile as she sees you.  Ofcourse a
+smile on the face of the Lady of Chaos could mean anything.  She is the
+most exquisitely beautiful drow you have ever seen, or dreamed of for that
+matter.  She wears long cloak made of some unknown cloth, for it seems
+to move of its own accord.
+~
+1141113098 1 136249393 67109056 -1000 S
+43 -35 -28 30d19+11000 7d5+50
+1500000 850000
+8 8 2
+16 12 21 21 15 21 21 22
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_ANIMATE_DEAD 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=8
+ATTACK_SKILL=5
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=8
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+#17901
+mob Dragon Deep~
+Deep Dragon~
+A Statue of a Deep Dragon is here.
+~
+A Deep Dragon, known as the silent hunter of the underdark, is one of the
+most feared monsters of the known mortal plane.  The dragon has been
+encased by a layer of black stone, measuring about 40 feet in length.
+What it lacks in sheer size and power it more then makes up for in
+cunning.  You wonder what could of encased such a powerful beast in stone.
+~
+1145307146 32769 136249393 67109064 -1000 S
+43 -35 -28 30d19+11000 20d10+50
+0 750000
+8 8 0
+11 13 24 23 19 19 19 19
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 25
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=5
+ATTACK_SKILL=5
+ATTACK_SKILL=10
+ATTACK_TYPE=108
+ATTACK_SKILL=6
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=2
+ATTACK_SKILL=2
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#17902
+mob Statue Umber Hulk~
+Umber Hulk~
+A Statue of a Umber Hulk is here.
+~
+A Umber Hulk is encased in black stone before you.  It has enormous claws
+that look like they could rip through solid steel. It stands around 8 feet
+tall and is about 5 feet wide.  You wonder what could encase such a
+mighty beast in stone.
+~
+1141112842 1 136249393 67108936 -1000 S
+43 -30 -18 70d19+8000 10d15+15
+0 321234
+8 8 0
+0 4 23 16 16 16 12 14
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=2
+ATTACK_SKILL=2
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#17903
+mob Vortex~
+The Vortex~
+The Vortex
+~
+The Vortex is a swirling sphere of energy and matter.. never staying 
+the same size or shape for more then a split second.  It somehow notices
+your presence and starts to move towards you.
+~
+1141170190 32769 136249393 8 -1000 S
+41 -20 -24 80d19+15000 10d10+94
+500000 370000
+8 8 0
+0 0 21 20 21 20 18 19
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=2
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#17904
+mob Statue Myrlochar~
+Myrlochar~
+A Statue of a Myrlochar is here
+~
+The Myrlochar, or soul spider, is encased in onyx here. It is a tireless
+hunter for the goddess Lolth, slaying anyone who might upset its Goddess.
+You wonder why such a faithful hunter would be encased here.
+~
+1141113354 1 136249393 603979848 -1000 S
+42 -30 -26 90d19+18000 15d20+13
+0 645000
+8 8 0
+7 4 22 22 21 21 17 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17905
+mob Shadow Drow~
+A Shadow Drow~
+A Shadow Drow is here, floating amoung the shadows.
+~
+The shadow drow was once a great weaponmaster for a powerful house.  But
+he was sacrificed to his drow goddess for some unknown reason.  He now
+serves his goddess by protecting her home from outsiders.
+~
+1175715848 1 136249393 67108936 -1000 S
+41 -30 -24 80d19+15000 10d10+14
+500000 970000
+8 8 0
+16 4 15 20 20 19 19 16
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=83
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#17906
+mob Phoenix~
+&YThe &RPho&re&Ynix&n~
+&YThe &YMighty &RPho&re&Ynix&R floats infront of you.&n
+~
+The Phoenix is a great, extra-planar bird thought to represent the spirit of
+freedom and rebirth.  It is a mortal creature that displays the ultimate god
+like detachment.  It has a 40' wingspan of bright multi-colored feathers.
+The Phoenix is the source of the cries that you have been feeling. It lets
+loose another overpowering cry as it tries to find an escape from the
+oblivion.
+~
+1141116936 32769 136249393 67109064 1000 S
+43 -35 -28 10d19+18000 11d19+60
+0 675000
+8 8 0
+0 4 24 24 21 22 22 21
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_FIRE_BREATH 10
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=2
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#17907
+mob Shadow Lord~
+Shadow Lord~
+A Shadow Lord surrounds you!
+~
+The Shadow Lord, ruler of the dark, is here.  It surrounds you in a 
+impregnable darkness that seems to pull the light from even your soul.
+It has been placed here to protect its dark queen's home from any
+intruder.
+~
+1175773194 32769 136249393 67108936 -1000 S
+45 -32 -28 60d19+22000 10d10+70
+750000 1400000
+8 8 0
+0 4 21 23 19 19 19 19
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=75
+ATTACK_SKILL=10
+ATTACK_SKILL=3
+ATTACK_TYPE=100
+#17908
+mob Zaknafein Zin-Carla~
+Zaknafein~
+A Zin-Carla of Zaknafein is waiting to be called on.
+~
+The spirit-wraith of Zaknafein is standing here.  Once the mightest
+weaponmaster of all of Menzoberranzan, he is now a silent protector of the
+Goddess of drows.  He has been ripped from his after life and forced into
+his former body via a powerful Zin-Carla spell.  His memories are buried        
+under a mountain of chaos, but his skills are as sharp as ever.  You almost
+feel sorry for Zak, until he notices you and snarls.                            
+~
+1308885514 32769 136253457 8 0 S
+46 -40 -25 100d19+36000 20d19+120
+2000000 1100000
+8 8 0
+16 4 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17909
+mob Sorn Zin Carla~
+Sorn~
+A Zin-Carla of Sorn is waiting to ge called on.
+~
+The spirit-wraith of Sorn is standing here.  He was once eldest son
+of the first house of Ched Nasad.  But he was discovered plotting to
+kill his matron mother and was sacrificed to Lolth for his treachery.
+He is now a Zin-Carla, or spirit wraith, a sentinel for his Goddess.
+~
+1308885514 32769 136249361 8 0 S
+46 -40 -25 100d29+35500 25d17+95
+2000000 1100000
+8 8 0
+16 3 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17910
+mob Abishai Red~
+&RR&re&Rd &wAbishai&n~
+&wA &RR&re&Rd&w abishai is perched here.&n
+~
+&wThe &RR&re&Rd&w Abishai are common among the Nine Hells, he looks much like a gothic gargoyle. He is very thin and reptilian with long, prehensile tails and great wings.  The &RR&re&Rd&w Abishai is the most powerful and has the highest station among the Abishai race.  He cackles with joy that you have come to pay him a visit.&n
+~
+1141170202 32769 136249393 67108936 -1000 S
+43 -25 -24 90d19+18000 5d5+30
+500000 950000
+8 8 0
+7 4 21 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#17911
+mob Rager Zin-Carla~
+Rager~
+A Zin-Carla of Rager is waiting to be called on.
+~
+Rager use to be a very powerful arch-mage of a long forgotten drow city.
+His city was destroyed by an underground earthquake, in his last moments he
+prayed to his Goddess Lolth to protect him.  What he got for his pray was
+entirety as a Zin-Carla, or spirit-wraith.  He wishes for nothing more then
+to destroy Lolth now, to bad he is just a mindless slave to her though.
+~
+1308885514 32769 136249361 8 0 S
+46 -40 -25 100d39+35000 19d29+40
+2000000 1100000
+8 8 0
+16 1 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#17912
+mob Quild Zin-Carla~
+Quild~
+A Zin-Carla of Quild is waiting to be called on.
+~
+A spirit-wraith, created from a powerful necromancy spell, is the
+embodiment of evil.  Quild was once a mighty Guild leader of a long
+forgotten Drow city.  He was selected by Lolth to server her in after
+life, to be one of her sentinels.  You cannot tell if he is breathing
+or not.. for he does not move at all.
+~
+1308885514 32769 136249361 8 0 S
+46 -40 -25 100d29+35500 22d19+100
+2000000 1100000
+8 8 0
+16 3 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17913
+mob Rizzen Zin-Carla~
+Rizzen~
+A Zin-Carla of Rizzen is waiting to be called on.
+~
+Rizzen, once the leader of a powerful thieves guild, is now nothing more
+then a mindless Zin-Carla.  He awaits a summons from Lolth to come to her
+aid if she ever needs him.  He has been standing in his chamber for more
+then a century, waiting for the call he will probably never hear, but he
+doesnt mind.
+~
+1308885514 32769 136249361 8 0 S
+46 -40 -25 100d49+35000 19d21+111
+2000000 1100000
+8 8 0
+16 3 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17914
+mob Nadal Zin-Carla~
+Nadal~
+A Zin-Carla of Nadal is waiting to be called on.
+~
+Nadal use to be the most deadly of assassins.  Until he took on a contract
+to kill the first matron mother of Ched Nasad. A yochlol was waiting in hiding
+for him when he infiltrated the matrons bedchambers.  He was sacrificed to
+Lolth for his treason and then became a spirit-wraith for Lolth.  His only
+mission now is to protect his Queen.
+~
+1308885514 32769 136249361 8 0 S
+46 -40 -25 1d1+45000 23d21+70
+2500000 1100000
+8 8 0
+16 4 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17915
+mob Ryltar Zin-Carla~
+Ryltar~
+A Zin-Carla of Ryltar is waiting to be called on.
+~
+Another wraith-spirit created by Lolth to protect her. Ryltar was discovered
+practicing forbidden magic in the drow city of Menzoberranzan.  He was
+sacrificed for his magic.  He now serves his Goddess as a silent slave,
+placed here to aid her in her time of need.. if ever one arises.
+~
+1308885514 32769 136249361 8 0 S
+46 -40 -25 100d69+33000 24d21+55
+2000000 1100000
+8 8 0
+16 11 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17916
+mob Shar Zin-Carla~
+Shar~
+A Zin-Carla of Shar is waiting to be called on.
+~
+Shar is here, or the spirit-wraith of him is here.  He use to be a powerful
+weaponmaster of Undreath, a lost drow city.  He was killed by his own
+brother in the middle of a battle with the first house of the city.  Lolth
+was angry that he would allow himself to die before she could use him for
+her own chaos.  So she created a Zin-Carla of him, both for her protection
+and as a punishment for his folly.
+~
+1308885514 32769 136249361 8 0 S
+46 -40 -25 100d47+35000 23d23+50
+2000000 1100000
+8 8 0
+16 4 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17917
+mob Gromph Arch Mage~
+Gromph, Arch Mage of Sorcere~
+Gromph, Arch Mage of Sorcere, is guarding the portal here.
+~
+Gromph Baenre- eldest son of the first house of Menzoberranzan, Arch Mage
+of Sorcere. He eyes you with cold uncaring eyes as you enter his ritual
+room.  He is wearing a black robe with runes of power emblazed in silver.
+He looks you in the eyes and you know that you have no secrets anymore.
+He tells you that he has been 'placed' here by his matron to protect the
+portal from mortals that would try to enter Lolth's domain. He spits
+the words out as he says them.. you can tell that he is not pleased at
+being placed anywhere.
+~
+1141117194 32769 136249393 67371210 -1000 S
+42 -35 -26 45d19+9000 20d15+10
+600000 515000
+8 8 0
+16 1 22 23 15 14 14 22
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_ANIMATE_DEAD 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 75
+#17918
+mob Chaos Demon~
+Chaos Demon~
+A Chaos Demon waits to wreak havoc on the mortal plane.
+~
+The chaos demon lives for one thing- a chance to wreak as much havoc
+as possible on the mortal plane.  He has surrendered to the Arch Mage
+Gromph for a chance to someday be summoned to the mortal plane to assist
+the arch mage....and then to escape.  He stands around 7 feet tall, has 
+long gargoyle type wings that can cover up his body to help protect him.
+His skin is a burnt black, with blazing red eyes.
+~
+1275335194 32769 136249361 0 -1000 S
+41 -20 -24 80d19+15000 7d9+78
+350000 500000
+8 8 0
+7 4 20 20 20 20 20 10
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_GAS_BREATH 50
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=55
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#17919
+mob Abishai Green~
+&gG&Gree&gn&w Abishai&n~
+&wA &gG&Gree&gn&w Abishai is perched here.&n
+~
+&wThe &gG&Gree&gn&w Abishai are common among the Nine Hells, it looks much like a gothic gargoyle. It is very thin and reptilian with long, prehensile tails and great wings. The &gG&Gree&gn&n Abishai is the middle caste of the Abishai race. It snarls a toothy grin as it sees you.&n
+~
+1141170202 32769 136249393 67108936 -1000 S
+43 -35 -24 80d19+15000 5d5+30
+500000 950000
+8 8 0
+7 4 21 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#17920
+mob Abishai Black~
+&KBlack &wAbishai&n~
+&wA &KBlack&w Abishai is perched here.&n
+~
+&wThe &KBlack&w Abishai are common among the Nine Hells, it looks much like a gothic gargoyle.  It is very thin and reptilian with long, prehensile tails and great wings. The &KBlack &wAbishai is at the bottom of the Abishai caste system.  It lets loose a howl as it sees you walk in.&n
+~
+1141170202 32769 136249393 67108936 -1000 S
+43 -25 -24 80d19+15000 5d5+30
+500000 975000
+8 8 0
+7 4 21 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#17921
+mob Errtu Balor~
+Errtu~
+Errtu is here, surrounded in flames and a promise of death.
+~
+Errtu is what the essence of all Balor is- chaos and evil defined.  He
+stands 12 feet tall and is surrounded by flames.  He has great wings
+that are also covered in flames.  His fangs drip of venom that could
+probably eat through your metal armor.  He is the undisputed terror
+of the abyss.
+~
+1149559066 32769 136249393 67109064 -1000 S
+45 -30 -28 30d19+11000 9d9+80
+1175000 1213234
+8 8 0
+7 4 23 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_WORD_OF_RECALL 90
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#17922
+mob Demon Escaping~
+An Escaping Demon~
+An Escaping Demon promises you death for interrupting him.
+~
+A rather large Tanar'ri Demon is about to enter the prime material plane.
+He notices that you have seen him and turns and snarls at you for
+interrupting his greatest moment.  He has turns towards you and spreads
+his massive wings and roars a deadly threat.
+~
+1149558810 32769 136249393 67108936 -1000 S
+43 -30 -24 100d19+14800 12d10+20
+375000 960000
+8 8 0
+7 4 23 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=5
+ATTACK_TYPE=105
+#17923
+mob Wounded Pit Fiend~
+A Wounded Pit Fiend~
+A Wounded Pit Fiend howls in pain.
+~
+A wounded Pit Fiend lies here.  It appears to be near death, but is still
+extremely dangerous.  It has a large wound across his chest, and one of its
+eyes has been replaced by a gaping hole.  It senses your presence and folds
+its giant wings around itself.
+~
+1149501466 32769 136249393 67108936 -1000 S
+42 -30 -24 80d19+14950 4d5+27
+300000 950000
+8 8 0
+7 4 21 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=79
+ATTACK_SKILL=79
+ATTACK_SKILL=79
+ATTACK_TYPE=105
+#17924
+mob Balor Battle~
+A battle crazed Balor~
+A battle crazed Balor is looking for something to kill.
+~
+The Balor is chaos and evil defined.  It is in a battle crazed state 
+and does not even notice you at first.  Blood drips from its fangs from
+its most recent kills.  It stands around 12 feet in height and has flaming
+wings.
+~
+1149558808 32769 136249393 67108936 -1000 S
+43 -26 -26 100d59+15800 9d7+50
+650000 800000
+8 8 0
+7 4 23 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#17925
+mob Battle Pit Fiend~
+A battle crazed Pit Fiend~
+A battle crazed Pit Fiend howls as it sees you!
+~
+The Pit Fiend is around 12 feet tall, with great wings that are atleast
+15 feet wide.  It is in a battle lust frenzy, looking for the next Balor
+to kill.  It notices you and rushes to attack.
+~
+1149558808 32769 136249393 67108936 -1000 S
+43 -30 -26 100d29+17450 20d5+32
+650000 1000000
+8 8 0
+7 4 23 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=88
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#17926
+mob Balor Flying~
+A Flying Balor~
+A Flying Balor has descended apon You!
+~
+The Flying Balor is a terrifying sight.  It has a wingspan of some 20 feet,
+with blazing wings of fire.  It is circling over its master, Errtu, waiting
+to be called on so it can wreak some havoc and destruction.
+~
+1275388442 32769 136249393 67633224 -1000 S
+44 -25 -26 100d79+15000 12d12+60
+700000 1200000
+8 8 0
+7 4 23 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#17927
+mob Balor Guardian~
+A Guardian Balor~
+A Guardian Balor cackles at the sight of you.
+~
+The Guardian Balor has been chosen from the Balor race for its battle
+expertise and pure evil.  It stands around 13 feet in height, and has
+flaming wings across it's back.  There are the protectors of their ruler,
+Errtu.
+~
+1283777034 32769 136249393 67108936 -1000 S
+42 -25 -26 100d79+15000 9d9+59
+600000 1300000
+8 8 0
+7 4 23 16 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#17928
+mob Lich Raistlin~
+Raistlin~
+Raistlin, The master of the past and present, stands before you.
+~
+Raistlin was once the most powerful mage of the mortal world.  His ambition
+was his downfall tho, for he sought to become a God... and almost did. He
+has been damned to the Abyss for centuries now though.  His only alternative
+to death was to use his magic to become a lich.  He notices he has a visitor
+and throws back his robe... you mumble a quick pray to your own gods to 
+protect you.  He has golden hour glass eyes that can see your future.. he
+smiles cause he knows that your future is about to come to a sudden end.
+~
+1174671370 32769 136249393 1073741896 -1000 S
+46 -40 -25 100d39+35000 30d39+20
+1000000 1110000
+8 8 1
+1 1 14 22 22 14 15 14
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_HOLD_PERSON 99
+SKILL=SPELL_ANIMATE_DEAD 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_MIRROR_SELF 99
+SKILL=SKILL_RAGE 75
+#17929
+mob Tarrasque~
+Tarrasque~
+The Legendary dreaded Tarrasque is on a rampage!
+~
+The legendary Tarrasque, for there is fortunately only one known to exist
+is the most dreaded monster native to the Mortal Plane. The create is around
+75 feet long.  It is a scaly biped with two horns on its head, a lashing tail,
+and a reflective carapace.  The dam thing looks like it would scare Godzilla!
+Only god knows how this thing became trapped here.
+~
+1099227146 32769 136249361 1140850888 0 S
+48 -30 -25 100d79+22000 30d25+85
+0 1600000
+8 8 0
+0 4 21 23 19 19 19 19
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=104
+#17930
+mob Yochlol Greater~
+The Greater Yochlol~
+A greater Yochlol blocks your way.
+~
+The Yochlol are known as the handmaidens of Lolth, they are denizens of
+the Abyss.  They look like half melted candles.. a 9 foot candle that is.
+Before you is a Greater Yochlol, it is latest 10 foot tall and has the
+nastiest smell.  Long pseudopods reach out towards you!
+~
+1141117210 32769 136249393 67108936 -1000 S
+41 -25 -18 70d19+8000 5d7+32
+150000 900000
+8 8 0
+7 4 23 16 16 16 12 14
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=80
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#17931
+mob Yochlol Lesser~
+A Lesser Yochlol~
+A Lesser Yochlol has come to aid the Greater Yochlol
+~
+The Yochlol are known as the handmaidens of Lolth, they are denizens of
+the Abyss.  They look like half melted candles.. a 9 foot candle that is.   
+~
+1208226314 32769 136249393 67108936 -1000 S
+41 -33 -24 80d19+15000 30d7+31
+500000 750000
+8 8 0
+7 4 23 16 16 16 12 14
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17932
+mob Vhaeraun Drow God~
+Vhaeraun, the Drow God~
+Vhaeraun, the Drow God is standing here.
+~
+Vhaeraun is the drow god of thievery and the furthering of drow aims,
+interest, and power on the surface world.  He is also the god of drow
+males opposed to the matriarchy of Lolth.  But it appears that Lolth
+has had enough of Vhaeraun and has imprisoned him.  Even though he is
+imprisoned he still has a haughty and very proud look about him.
+~
+1141170186 32769 136249393 67108936 -1000 S
+47 -32 -25 100d89+38500 25d20+20
+1750000 1350000
+8 8 0
+16 3 22 20 20 19 19 16
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=85
+ATTACK_TYPE=108
+#17933
+mob Demogorgon~
+Demogorgon, Prince of Demons~
+Demogorgon, Prince of Demons, is standing here.
+~
+Demogorgon, Prince of Demons, is contended by some that this demon prince is
+supreme, and in any even he is awesome in his power.  This gigantic demon is
+18 feet tall and reptilian. Demogorgon has two heads which bear the visages
+of evil baboons or perhaps mandrills with hideous coloration of the latter
+named beast. His blue-green skin is plated with snake-like scales, his body
+and legs are those of a giant lizard, his twin necks resemble snakes, and
+his think tail is forked. Rather then having arms, he has great tentacles.
+His appearance testifies to his command of cold-blooded things such as
+serpents, reptiles, and octopi.  You wonder how he became imprisoned here.
+~
+1149558810 32769 136249393 67109064 -1000 S
+45 -30 -28 30d19+12000 20d7+55
+1000000 700000
+8 8 0
+7 4 23 21 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#17934
+mob Dispater Arch Devil~
+Dispater, The Arch Devil~
+Dispater, Arch Devil, is here in a trance like state.
+~
+Dispater is evilly handsome, and only his small horns, tail, and cloven left
+hoof distinguish him from humanity.  He stands an impressive 7 feet tall and
+radiates a great power.  He has been lured here by the Queen of Chaos and
+trapped here for the last 999 years.  He has been in a trance for the last 300
+years, trying to contact his evil minions to come to his aid.
+~
+1141170202 32769 136249393 67109064 -1000 S
+43 -25 -28 30d19+12000 20d7+55
+1000000 700000
+8 8 0
+7 4 23 21 19 19 19 18
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17935
+mob Zealot Zin Carla~
+Zin-Carla of Zealot~
+A Zin-Carla of Zealot is waiting to be called on.
+~
+Zealot was once the greatest avatar of the mortal plane.  He adventually
+grew tired of the mortal plane and sought adventure in the after life,
+but Lolth saw a great opportunity in him and made him a Zin-Carla after
+he died.  He is the only Zin-Carla that is not a drow, for he is a great
+Dragon-Kin.  He stands in the center of his chamber for eternity, waiting
+for his queen to call on him.
+~
+1308885514 32769 136249361 8 0 S
+46 -40 -25 100d19+36000 20d19+120
+2000000 1100000
+8 8 0
+11 4 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17936
+mob Orcus prince undead~
+Orcus, Prince of the Undead~
+Orcus, Prince of the Undead, faces you.
+~
+Orcus is a grossly fat demon lord, some 15 feet tall.  His huge gray body
+is covered with goatish hair, and his head is a goat-like although his
+horns are similar to those of a ram. His great legs are also goat-like,
+but his arms are human.  Vast bat wings sprout form his back, and his
+long, snaky tail is tipped with what looks like to be a poisonous head.
+~
+1149558810 32769 136249393 67109064 -1000 S
+46 -30 -30 35d19+13000 20d10+45
+1750000 1700000
+8 8 0
+7 4 23 21 19 19 19 10
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_ANIMATE_DEAD 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=66
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#17937
+mob Wulfgar~
+Wulfgar~
+Wulfgar is here, strapped to the mushroom.
+~
+Wulfgar is a massive human, a true barbarian of the ice lands. But unlike
+most barbarians, he has the brains to go along with the brawn, you can see
+a keen intelligence in his eyes when he sees you.  Even though he is tied
+down he does not fear you, or fear death.  After all, his already dead..
+or should be.  He was thought to have been killed by a cave-in in the 
+Underdark, a cavein he caused himself.  For he was almost dead, caught in
+the maw of a Yochlol, so he had caused the cavein to save his beloved
+catti-brie.  Lolth cheated him of his death though, for the Yochlol returned
+to the abyss before he could die, taking Wulfgar along.  Lolth has given
+Errtu Wulfgar in exchange for a favor the Balor did for her.
+~
+1141116938 32769 136249393 0 1000 S
+45 -30 -24 80d19+15000 20d20+30
+650000 1151155
+8 8 0
+1 4 21 20 14 16 13 13
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17938
+mob Drider~
+Drider~
+A Drider scurries around at the sight of you.
+~
+The Drider is a magically transformed drow, usually a drow male.  From
+the waist down it looks like a giant black spider, from the waist up
+it looks and is a drow.
+~
+1141112842 1 136249361 67108928 -1000 S
+41 -30 -24 80d19+15000 10d7+35
+300000 900000
+8 8 0
+16 12 21 21 15 21 21 22
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_ANIMATE_DEAD 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 75
+$~
+#999999

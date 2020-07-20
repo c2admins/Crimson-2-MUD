@@ -1,0 +1,1368 @@
+#20050
+A temple hallway~
+As you continued down the hall you have come to a ladder
+leading up. There is a priest roaming around this hall
+almost appearing as though he was lost.
+~
+166 1342177288 536870912 1 99 1
+D2
+nothing special
+~
+~
+0 -1 20051
+D4
+nothing special
+~
+~
+0 -1 20101
+S
+#20051
+A temple hallway~
+You find yourself inside a temple of worship. The halls are
+ornately decorated and lined with torches. Just ahead you
+notice a priest moving about.
+~
+166 1342177288 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20050
+D2
+nothing special
+~
+~
+0 -1 20052
+S
+#20052
+A Grand cave~
+You are inside a grand cave. The walls of this cave have
+beautiful stone carvings on them will you notice a couple
+of ornate statues at the back of this cave. It almost looks
+as if they were watching your every move, after a little
+more inspection you notice these words carved into stone
+above the statues......TEMPLE OF THE FOREVER DAMNED.
+~
+166 1610612744 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20051
+D2
+A damp cave
+~
+~
+0 -1 20053
+S
+#20053
+A damp cave~
+As you wander around this cave, you notice you are no longer
+wading through mud, but a path of cobblestone. Up ahead the
+torches line both sides of the cave walls.
+~
+166 1342177288 536870912 1 99 0
+D0
+Grand cave
+~
+~
+0 -1 20052
+D2
+A damp cave
+~
+~
+0 -1 20054
+S
+#20054
+A damp cave~
+As you begin to explore this cave, it appears at one time
+this may have been under water. You notice a few markings
+of some kind on the cave walls. Perhaps this cave leads to
+some sort of ritual room or temple of some kind. Just ahead
+you notice the cave walls are lined with torches.
+~
+166 1342177288 536870912 1 99 0
+D0
+A damp cave
+~
+~
+0 -1 20053
+D2
+Dry land
+~
+~
+0 -1 20055
+S
+#20055
+Dry land~
+You look all around and notice nothing more than some sort
+of foot prints leading straight ahead. You can't seem to
+make out what type of creature could make such a foot print.
+~
+166 1342177288 536870912 1 99 0
+D0
+A cave opens up
+~
+~
+0 -1 20054
+D5
+Underwater tunnel
+~
+~
+0 -1 20056
+S
+#20056
+The Beginning~
+As you look around you notice dry land just ahead. The dry
+land is a welcome sight for you are about out of breath. You
+begin to swim just a little faster so you may take a rest.
+~
+166 1879179272 536870912 1 99 8
+D0
+Underwater tunnel continues
+~
+~
+0 -1 20057
+D4
+Dry land
+~
+~
+0 -1 20055
+S
+#20057
+Underwater cave~
+You are in a under water cave even though the water is ver
+murky it seems you notice dry land just ahead.
+~
+166 1879179264 536870912 1 99 7
+D0
+Murky water
+~
+~
+0 -1 20061
+D2
+Underwater tunnel continues
+~
+~
+0 -1 20056
+S
+#20058
+Beneath the surface~
+You see some rather large fish swimming all about you. The
+deeper you swim the murkier the water gets make it hard
+for you to make out your surroundings.
+~
+166 1879179264 536870912 1 99 8
+D1
+nothing special
+~
+~
+0 -1 20061
+S
+#20059
+Beneath the surface~
+You seem some rather large fish swimming all about you. The
+deeper you swim the murkier the water gets making it hard
+for you to make out your surroundings.
+~
+166 1879048200 536870912 1 99 8
+D3
+nothing special
+~
+~
+0 -1 20061
+S
+#20060
+Beneath the surface~
+You see some rather large fish swimming all about you. The
+deeper you swim the murkier the water gets making it hard
+for you to make out your surroundings.
+~
+166 1879179264 536870912 1 99 8
+D2
+Murky waters
+~
+~
+0 -1 20061
+S
+#20061
+Beneath the surface~
+You see some rather large fish swimming all about you. The
+deeper you swim the murkier the water gets making it hard
+for you to make out your surroundings.
+~
+166 805437440 536870912 1 99 8
+D0
+nothing special
+~
+~
+0 -1 20060
+D1
+nothing special
+~
+~
+0 -1 20059
+D2
+Underwater cave
+~
+~
+0 -1 20057
+D3
+nothing special
+~
+~
+0 -1 20058
+D4
+Waters surface
+~
+~
+0 -1 20074
+S
+#20062
+shallow water~
+l
+~
+166 1879048192 536870912 1 99 1
+D1
+Shallow water
+~
+~
+0 -1 20063
+D2
+Murky waters
+~
+~
+0 -1 20061
+S
+#20063
+shallow water~
+The water is not quite as deep as it was. You notice the
+shore line just ahead.
+~
+166 1879048192 536870912 1 99 6
+D1
+Shallow water
+~
+~
+0 -1 20064
+D2
+Deep water
+~
+~
+0 -1 20070
+D3
+Shallow water
+~
+~
+0 -1 20062
+S
+#20064
+Shallow water~
+The water is not quite as deep as it was. You notice the
+shore line just ahead.
+~
+166 1879048192 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20111
+D1
+Shallow water
+~
+~
+0 -1 20065
+D2
+Deep water
+~
+~
+0 -1 20069
+D3
+Shallow water
+~
+~
+0 -1 20063
+S
+#20065
+Shallow water~
+The water is not quite as deep as it was. You notice the
+shore line just ahead.
+~
+166 1879048192 805306368 1 99 1
+D1
+Shallow water
+~
+~
+0 -1 20066
+D2
+Deep water
+~
+~
+0 -1 20068
+D3
+Shallow water
+~
+~
+0 -1 20064
+S
+#20066
+Shallow water~
+The water is not quite as deep as it was. You notice the
+shore line just ahead. 
+~
+166 1879048192 536870912 1 99 2
+D2
+Deep water
+~
+~
+0 -1 20067
+D3
+Shallow water
+~
+~
+0 -1 20065
+S
+#20067
+Deep water~
+You are in the deepest part of this lake. You no longer
+see many schools of fish. You do however see a few bigger
+fish swimming around close to the surface.
+~
+166 1879179264 805306368 1 99 7
+D0
+Shallow water
+~
+~
+0 -1 20066
+D2
+Deep water
+~
+~
+0 -1 20076
+D3
+Deep water
+~
+~
+0 -1 20068
+S
+#20068
+Deep water~
+You are in the deepest part of this lake. You no loner
+see many schools of fish. You do however see a few bigger
+fish swimming around close to the surface.
+~
+166 1879179264 536870912 1 99 7
+D0
+Shallow water
+~
+~
+0 -1 20065
+D1
+deep water
+~
+~
+0 -1 20067
+D2
+Deep water
+~
+~
+0 -1 20075
+D3
+Deep water
+~
+~
+0 -1 20069
+S
+#20069
+Deep water~
+You are in the deepest part of this lake. You no longer
+see many schools of fish. You do however see a few bigger
+fish swimming around close to the surface.
+~
+166 1879179264 805306368 1 99 7
+D0
+Shallow water
+~
+~
+0 -1 20064
+D1
+Deep water
+~
+~
+0 -1 20068
+D2
+Deep water
+~
+~
+0 -1 20074
+D3
+Deep water
+~
+~
+0 -1 20070
+S
+#20070
+Deep water~
+You are in the deepest part of this lake. You no longer
+see many schools of fish. You do however see a few bigger
+fish swimming around close to the surface.
+~
+166 1879179264 536870912 1 99 7
+D0
+Shallow water
+~
+~
+0 -1 20063
+D1
+Deep water
+~
+~
+0 -1 20069
+D2
+Deep water
+~
+~
+0 -1 20073
+D3
+Deep water
+~
+~
+0 -1 20071
+S
+#20071
+Deep water~
+You are in the deepest part of this lake. You no longer
+see many schools of fish. You do however see a few bigger
+fish swimming around close to the surface.
+~
+166 1879179264 536870912 1 99 7
+D0
+Shallow water
+~
+~
+0 -1 20062
+D1
+Deep water
+~
+~
+0 -1 20070
+D2
+Deep water
+~
+~
+0 -1 20072
+S
+#20072
+Deep water~
+You can't help but notice how crystal clear the water
+is all around you. Below you are many different schools
+of fish swimming about.
+~
+166 1879179264 536870912 1 99 7
+D0
+Deep water
+~
+~
+0 -1 20071
+D1
+Deep water
+~
+~
+0 -1 20073
+D2
+Waters edge
+~
+~
+0 -1 20077
+S
+#20073
+Deep water~
+You can't help but notice how crystal clear the water
+is all around you. Below you are many different schools
+of fish swimming about.
+~
+166 1879179264 536870912 1 99 7
+D0
+Deep water
+~
+~
+0 -1 20070
+D1
+Deep water
+~
+~
+0 -1 20074
+D2
+Waters edge
+~
+~
+0 -1 20078
+D3
+Deep water
+~
+~
+0 -1 20072
+S
+#20074
+Deep water~
+You can't help but notice how crystal clear the water
+is all around you. Below you are many different schools
+of fish swimming about.
+~
+166 1879179264 536870912 1 99 7
+D0
+Deep water
+~
+~
+0 -1 20069
+D1
+Deep water
+~
+~
+0 -1 20075
+D2
+Waters edge
+~
+~
+0 -1 20081
+D3
+Deep water
+~
+~
+0 -1 20073
+D5
+Crystal clear waters
+~
+~
+0 -1 20061
+S
+#20075
+Deep water~
+You can't help but notice how crystal clear the water
+is all around you. Below you are many different schools
+of fish swimming about.
+~
+166 1879179264 536870912 1 99 7
+D0
+Deep water
+~
+~
+0 -1 20068
+D1
+Deep water
+~
+~
+0 -1 20076
+D2
+Waters edge
+~
+~
+0 -1 20080
+D3
+Deep water
+~
+~
+0 -1 20074
+S
+#20076
+Deep waters~
+You can't help but notice how crystal clear the water
+is all around you. Below you are many different schools
+of fish swimming about.
+~
+166 1879179264 536870912 1 99 7
+D0
+Deep water
+~
+~
+0 -1 20067
+D2
+Waters edge
+~
+~
+0 -1 20079
+D3
+Deep water
+~
+~
+0 -1 20075
+S
+#20077
+Waters edge~
+You are about knee deep in water, perhaps you should
+think about getting a raft or canoe to continue your
+travels of this majestic lake. Just ahead you notice
+a small school of fish swimming about.
+~
+166 1879048192 536870912 1 99 2
+D0
+Deep water
+~
+~
+0 -1 20072
+D1
+Waters edge
+~
+~
+0 -1 20078
+D2
+Shore line
+~
+~
+0 -1 20082
+S
+#20078
+Waters edge~
+You are about knee deep in water, perhaps you should
+think about getting a raft or canoe to continue your
+travels of this majestic lake. Just ahead you notice
+a small school of fish swimming about.
+~
+166 1879048192 536870912 1 99 2
+D0
+Deep water
+~
+~
+0 -1 20073
+D1
+Waters edge
+~
+~
+0 -1 20081
+D2
+Shore line
+~
+~
+0 -1 20083
+D3
+Waters edge
+~
+~
+0 -1 20077
+S
+#20079
+Waters edge~
+You are about knee deep in water, perhaps you should
+think about getting a raft or canoe to continue your
+travels of this majestic lake. Just ahead you notice
+a small school of fish.
+~
+166 1879048192 536870912 1 99 1
+D0
+Deep water
+~
+~
+0 -1 20076
+D2
+Shore line
+~
+~
+0 -1 20084
+D3
+Waters edge
+~
+~
+0 -1 20080
+S
+#20080
+Waters edge~
+You are about knee deep in water, perhaps you should
+think about getting a raft or canoe to continue your
+travels of this majestic lake. Just ahead you notice
+a small school of fish swimming about.
+~
+166 1879048192 536870912 1 99 1
+D0
+Deep water
+~
+~
+0 -1 20075
+D1
+Waters edge
+~
+~
+0 -1 20079
+D2
+Shore line
+~
+~
+0 -1 20085
+D3
+Waters edge
+~
+~
+0 -1 20081
+S
+#20081
+Waters edge~
+You are about knee deep in water, perhaps you should
+think about getting a raft or canoe to continue your
+travels of this majestic lake. Just ahead you notice
+a small school of fish swimming about.
+~
+166 1879048192 536870912 1 99 1
+D0
+Deep water
+~
+~
+0 -1 20074
+D1
+Waters edge
+~
+~
+0 -1 20080
+D2
+Shore line
+~
+~
+0 -1 20086
+D3
+Waters edge
+~
+~
+0 -1 20078
+S
+#20082
+A shore line~
+You are walking along the shore of a beautiful lake. As
+you begin to peer acroos the water you are in awe of it's
+majestic beauty. As you strain your eyes you notice a island
+in the middle of the lake.
+~
+166 1879048192 536870912 1 99 2
+D0
+Waters edge
+~
+~
+0 -1 20077
+D1
+Shore line
+~
+~
+0 -1 20083
+S
+#20083
+A shore line~
+You are walking along the shore of a beautiful lake. As
+you begin to peer acroos the water you are in awe of it's
+majestic beauty. As you strain your eyes you notice a island
+in the middle of the lake.
+~
+166 1879048192 536870912 1 99 2
+D0
+Waters edge
+~
+~
+0 -1 20078
+D1
+Shore line
+~
+~
+0 -1 20086
+D3
+Shore line
+~
+~
+0 -1 20082
+S
+#20084
+Shore line~
+You are standing on the on the shore line just before
+the water's edge. You can hear a few birds chirpping
+all about you.
+~
+166 1879048192 536870912 1 99 2
+D0
+Waters edge
+~
+~
+0 -1 20079
+D3
+Shore line
+~
+~
+0 -1 20085
+S
+#20085
+Shore line~
+You notice nothing new about the shore line. Looking
+up into the air you notice I gigantic hole in the 
+earth which let's natural light in.
+~
+166 1879048192 536870912 1 99 2
+D0
+Waters edge
+~
+~
+0 -1 20080
+D1
+Shore line
+~
+~
+0 -1 20084
+D3
+Shore line
+~
+~
+0 -1 20086
+S
+#20086
+A shore line~
+You are walking along the shore of a beautiful lake. As
+you begin to peer acroos the water you are in awe of it's
+majestic beauty. As you strain your eyes you notice a island
+in the middle of the lake.
+~
+166 1342177280 805306368 1 99 2
+D0
+Waters edge
+~
+~
+0 -1 20081
+D1
+Shore line
+~
+~
+0 -1 20085
+D2
+nothing special
+~
+~
+0 -1 20087
+D3
+Shore line
+~
+~
+0 -1 20083
+S
+#20087
+A large opening~
+You have exited the series of tunnels and to your disbelief
+you have a found a large underground lake. You notice a few
+different life forms all around you from snakes to turtles
+and even a few birds flying around.
+~
+166 1342177288 536870912 1 99 0
+D0
+A shore line.
+~
+~
+0 -1 20086
+D2
+A tunnel leads away from the lake.
+~
+~
+0 -1 20088
+S
+#20088
+A small tunnel~
+You begin to smell water in the air. As strain your eyes
+it appears further north there is a lake. You 
+begin to hurry in hopes that the fresh water
+will quench your thirst.
+~
+166 1879048200 536870912 1 99 1
+D0
+You notice a large opening.
+~
+~
+0 -1 20087
+D2
+The tunnel continues.
+~
+~
+0 -1 20089
+S
+#20089
+A small tunnel~
+This tunnel continues to lead north. You can't really make
+heads or tails about what may lie ahead. Although the walls
+are lined with torches, there fires do not burn so brightly
+anymore.
+~
+166 1879048200 536870912 1 99 1
+D0
+The tunnel continues.
+~
+~
+0 -1 20088
+D2
+A junction within the tunnel.
+~
+~
+0 -1 20095
+S
+#20090
+Hidden cave~
+You have found a poorly lite cave. You can make out some
+sort of statue carved into the cave all. The statue looks
+to be that of some sort of warrior. You seem to hear some
+heavy foot steps all around, yet you fail to notice much
+of anything except for the statue. After you to take a
+close look at it it appears it is watching every step
+you take. You have a very bad feeling come over you.
+~
+166 2013265929 536870912 1 99 1
+D2
+A opening headed south.
+~
+~
+0 -1 20092
+S
+#20091
+Sacrificial pit~
+You now realize you are about to die. There is little more
+you can do now. You are surrounded by two monsterous beasts,
+each begining to tear at you limb from limb. Nothing more to
+do now than to pray to your gods hoping they will have mercy
+on your poor soul. It is very clear to you that these two
+monsterous beasts are about to feast on your flesh. Isn't it
+sad that your life will end in the belly of a beast.
+~
+166 1275068424 536870912 1 99 1
+D4
+Your only hope for &RSURVIVAL!&n
+~
+~
+0 -1 20092
+S
+#20092
+Deadend~
+You find yourself at a deadend, the only true exit
+appears to be back the way you came. The walls in this
+room are covered in blood and have strange symbols and
+markings on them. You can now clearly he the roars,
+but none the less you can not see where the sounds are
+coming from.
+~
+166 1879048200 536870912 1 99 1
+D0
+A hidden cave.
+~
+~
+16 -1 20090
+D3
+The tunnel leads out to the west.
+~
+~
+0 -1 20093
+D5
+Nothing more than a floor covered in bones.
+~
+~
+0 -1 20091
+S
+#20093
+The tunnel continues~
+As you scan around looking further to the east the tunnel
+does come to a end. The faint roars you heard are no loner
+quite so faint. You can make out some sort of pit just a
+bit further ahead.
+~
+166 1879048200 536870912 1 99 1
+D1
+The tunnel comes to a end.
+~
+~
+0 -1 20092
+D3
+The tunnel grows a bit smaller but continues on.
+~
+~
+0 -1 20094
+S
+#20094
+The tunnel continues~
+The tunnel continues heading east. As you scan further
+ahead you can make out what appears to be a dead end.
+Further east you can make out the faint roars of some
+sort of beasts.
+~
+166 1879048200 536870912 1 99 1
+D1
+The tunnel continues on growing a little large with every step.
+~
+~
+0 -1 20093
+D3
+The tunnel heading west ends.
+~
+~
+0 -1 20095
+S
+#20095
+A small tunnel~
+You have reached it this far, but now you are faced with
+your first real descision.The path now splits into two
+seperate directions. One path continues to head north
+while the other heads east.
+~
+166 1879048201 536870912 1 99 1
+D0
+The tunnel continues ahead.
+~
+~
+0 -1 20089
+D1
+The tunnel continues.
+~
+~
+0 -1 20094
+D4
+A tunnel continues upwards.
+~
+~
+0 -1 20096
+S
+#20096
+A small tunnel~
+As you venture forth the cavern turns more into a small
+tunnel. Just down below it looks the tunnel breaks off
+into two seperate paths one continuing down and the other
+venturing east.
+~
+166 1879048201 536870912 1 99 1
+D4
+A huge carven opening lies up ahead.
+~
+~
+0 -1 20097
+D5
+A junction within the tunnel.
+~
+~
+0 -1 20095
+S
+#20097
+Cavern opening~
+After barely making it through the cavern this far you are
+out some sort of lighting coming from the entrance leading
+you notice steps carved out of stone leading down to the
+inner most depths of this cavern. It appears you can make
+out some sort of lighting coming from the entrance below.
+~
+166 1879048201 536870912 1 99 1
+D2
+The cavern grows almost to small to pass.
+~
+~
+0 -1 20098
+D5
+Steps carved out of stone leading further down into the cavern.
+~
+~
+0 -1 20096
+S
+#20098
+Small cavern~
+At thins point you are now crawling on your hands and
+knees. Just a little more and you can make it to the
+large opening that lies ahead.
+~
+166 1879048201 536870912 1 99 1
+D0
+The cavern opens up.
+~
+~
+0 -1 20097
+D2
+The cavern opens up a bit.
+~
+~
+0 -1 20099
+S
+#20099
+Small cavern~
+As you continue to venture further north the size of the cavern
+begins to shrink rapidly. Just a bit further to the north you are
+sure you can make out a exit leading down.
+~
+166 1073741833 536870912 1 99 1
+D0
+The cavern grows almost to small to pass.
+~
+~
+0 -1 20098
+D2
+The cavern grows larger.
+~
+~
+0 -1 20100
+S
+#20100
+Large cavern~
+You are walking through a large man made cavern, far ahead
+you begin to notice the cavern growing smaller. It almost
+appears that there is a entrance of some kind further to the
+north.
+~
+166 1073741837 536870912 1 99 3
+D0
+The cavern grows smaller.
+~
+~
+0 -1 20099
+D3
+Cave of the Ekunda
+~
+~
+16 -1 1915
+S
+#20101
+Temple foyer~
+This room appears to be the temple foyer.
+You do not notice anything special about
+this room. Only things you notice of any
+real importance are the four hallways 
+that present themselves.
+~
+166 1342177288 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20106
+D1
+nothing special
+~
+~
+0 -1 20104
+D2
+Nothing special
+~
+~
+0 -1 20108
+D3
+nothing special
+~
+~
+0 -1 20102
+D5
+nothing special
+~
+~
+0 -1 20050
+S
+#20102
+A temple hallway~
+The hallway abruptly comes to a halt. The only thing
+you notice special is a room just to the north.
+~
+166 1342177288 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20103
+D1
+rname A temple hallway
+l
+~
+~
+0 -1 20101
+S
+#20103
+Temple library~
+This appears to be the temple library. There is a priest
+sitting at a table of sorts going over some sort of scroll.
+He is so busy with his work he does not even notice you
+enter the room.
+~
+166 1342177288 536870912 1 99 1
+D2
+nothing special
+~
+~
+0 -1 20102
+S
+#20104
+A temple hallway~
+The hallway abruptly comes to a halt. The only thing
+of importance is a room just to the north.
+~
+166 1342177288 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20105
+D3
+nothing special
+~
+~
+0 -1 20101
+S
+#20105
+The portal room~
+There is little to make out in this room, unlike other rooms
+there are no carvings in the wall. There is but a symbol carved
+into the floor of this room.
+~
+166 268435464 0 1 99 1
+D2
+nothing special
+~
+~
+0 -1 20104
+S
+#20106
+Ritual room~
+This room appears to be a room for praying or some kind
+of rituals. There is a rather large priest at an altar
+chanting some arcane words.
+~
+166 1342177288 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20107
+D2
+nothing special
+~
+~
+0 -1 20101
+S
+#20107
+Summoning Room~
+ As you enter this room, you can feel a strange and
+powerful aura about it. The walls are covered in
+arcane words of magic. The only thing you make out
+is, that Soulravage has come for you.
+~
+166 268435464 536870912 1 99 1
+D2
+nothing special
+~
+~
+0 -1 20106
+S
+#20108
+Temple Foyer~
+You are in the temple foyer there are intersections
+just ahead. You notice a priest or two as you walk
+down the foyer hallway.
+~
+166 1342177288 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20101
+D2
+nothing special
+~
+~
+0 -1 20109
+S
+#20109
+Temple foyer~
+You are in the temple foyer there are intersections
+just ahead. You notice a priest or two as you walk
+down the foyer hallway.
+~
+166 1342177288 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20108
+D2
+nothing special
+~
+~
+0 -1 20110
+S
+#20110
+Temple entrance~
+You find yourself at the entrance of a temple. At the opening
+stand two guards keeping a watchful eye on your every move.
+~
+166 1342177280 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20109
+D2
+nothing special
+~
+~
+0 -1 20113
+S
+#20111
+Dry land~
+You have made it to dry land, up ahead you notice some sort
+of pathway leading into the jungle.
+~
+166 1342177280 536870912 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20112
+D2
+nothing special
+~
+~
+0 -1 20064
+S
+#20112
+A small pathway~
+You are walking down a small pathway, as you travel further
+you can clearly make out a small temple.
+~
+166 1342177288 0 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20113
+D2
+nothing special
+~
+~
+0 -1 20111
+S
+#20113
+Path before a temple~
+A small temple is just ahead, you can make out two
+guards standing watch. There appears to be little
+more on this island.
+~
+166 1342177288 0 1 99 1
+D0
+nothing special
+~
+~
+0 -1 20110
+D2
+nothing special
+~
+~
+0 -1 20112
+S
+#20114
+Li Mu Bai's sanctuary~
+You find yourself on Wudan moutain home of the legendary
+Li Mu Bai. The walls are covered in ancient text. In the 
+center of the room is a sword stand crafted of jade. At
+the back of this room Li Mu Bai is meditating to his god.
+To disturb him would surely bring about your demise.
+~
+166 268436488 0 45 99 1
+S
+#20115
+Hiding place~
+If you have found here what in the hell happened? Oh wait probaly an
+imm checking room out. Other wise hope Paladin crushes you.
+~
+166 268436488 0 42 99 0
+D2
+The summoning room
+~
+~
+0 -1 20107
+S
+$~
+#999999

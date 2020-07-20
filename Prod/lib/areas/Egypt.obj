@@ -1,0 +1,323 @@
+#14200
+obj sword kopesh~
+10
+&wA kopesh &Ksword&n~
+A thin curved sword is lying here~
+~
+5 524288 0 8193
+0 3 5 2
+5 500 100
+#14201
+obj dull metal helmet~
+10
+&Ka &yd&Kul&yl &wmetal &Khelmet&n~
+A dull metal helmet lies here.~
+~
+9 0 0 17
+6 0 0 0
+5 1000 300
+#14202
+obj sword scimitar~
+10
+&wa &Ys&Kci&Ymi&Kta&Yr&n~
+A wide, curved sword lies in the dust.~
+~
+5 1048576 0 8193
+0 3 9 3
+10 2000 900
+#14203
+obj leather armor~
+10
+&ya suit of hard, leather &Karmor&n~
+A suit of hard, leather armor liese here.~
+~
+9 0 0 9
+16 0 0 0
+12 800 200
+#14204
+obj belt frayed~
+8
+&ya frayed leather &Kbelt&n~
+An old leather belt, worn from use, is lying here.~
+~
+15 4096 0 2049
+100 0 0 0
+5 10000 5000
+A
+2 2
+A
+3 -1
+A
+4 -1
+#14205
+obj vangar's spear~
+5
+&GV&ganga&Gr&g's &KSpear&n~
+A long spear is resting here.~
+~
+5 1048579 0 8193
+0 3 10 11
+14 20000 12000
+A
+18 3
+A
+19 3
+#14206
+obj magic helmet~
+10
+&wa &cm&Wagi&cc &Khelmet&n~
+A magic helmet is lying here.~
+~
+9 65537 0 17
+8 0 0 0
+12 25000 10000
+A
+1 2
+A
+4 -1
+#14207
+obj bronze chain medallion~
+5
+&ya bronze m&Ye&yd&Ya&yll&Yio&yn&n~
+A bronze chain has been left here.~
+~
+11 525568 0 5
+0 0 10 0
+8 60000 20000
+A
+19 2
+A
+13 -5
+#14208
+obj green silk scarf~
+9
+&Ga &ggr&Gee&gn s&Gi&glk sc&Ga&grf&n~
+A green silk scarf is lying here.~
+~
+11 1155073 0 5
+0 0 10 0
+1 100000 40000
+A
+3 2
+A
+4 1
+A
+1 -1
+A
+12 50
+#14209
+obj jade bracelet~
+10
+&Ga &gj&Ga&gd&Ge &Kbr&Yace&Klet&n~
+A bracelet make of jade is here.~
+~
+11 1155074 0 4097
+0 0 10 0
+5 25000 15000
+A
+12 10
+A
+13 10
+#14210
+obj staff life~
+10
+&wthe &ystaff &wof &Bl&Wif&Be&n~
+A long wooden staff is resting here.~
+~
+12 1048833 0 16385
+0 0 10 0
+3 80000 40000
+A
+14 20
+A
+12 25
+#14211
+obj dark blue robe~
+10
+&wa &bda&Brk bl&bue &Krobe&n~
+A dark blue peice of cloth is lying here.~
+~
+9 1048576 0 1025
+0 0 0 0
+4 75000 25000
+A
+1 -1
+A
+4 3
+A
+12 50
+#14212
+obj sceptre golden~
+7
+&Ya &yg&Yo&yld&Ye&yn sc&Ye&yptr&Ye&n~
+A golden sceptre has been left here.~
+~
+12 1048578 0 16385
+0 0 10 0
+10 125000 40000
+A
+18 2
+A
+19 2
+#14213
+obj ring signet jeweled tut~
+8
+&Ka &Gjew&ge&Gled &ys&Yi&ygn&Ye&yt r&Yi&yng&n~
+A small ring is here.~
+~
+9 16384 0 3
+5 0 0 0
+3 60000 25000
+A
+5 1
+A
+13 10
+#14214
+obj ring protection~
+10
+&wa &yr&Yi&yng &wof &cpro&Ctect&cion&n~
+A shiny green ring has been left here.~
+~
+9 1049856 0 3
+5 0 0 0
+3 50000 20000
+A
+24 -5
+#14215
+obj mace disruption~
+6
+&Kmace &wof &rd&Ki&rsr&Ku&rpt&Kio&rn&n~
+A mace with a skull head has been dropped here.~
+~
+5 1159168 16384 8193
+4096 4 7 6
+7 65000 20000
+A
+18 3
+A
+19 1
+A
+12 15
+#14216
+obj amulet life silvery necklace~
+8
+&wan &ya&Ym&yu&Yl&ye&Yt &wof &Bl&Wif&Be&n~
+A silvery necklace with a large charm lies here.~
+~
+11 1048579 0 5
+0 0 10 0
+2 80000 30000
+A
+13 30
+#14217
+obj ring regeneration~
+10
+&Yr&yi&Yng &wof &Kreg&wene&Wration&n ~
+A ring with a deep red stone has been left here.~
+~
+11 2097154 0 3
+0 0 10 0
+1 150000 25000
+A
+37 1
+A
+17 -16
+A
+18 3
+#14218
+obj gold buckled sandals~
+10
+&Yg&yo&Yld b&yu&Yckl&ye&yd &ysandals&n ~
+A pair of comfortable-looking  sandals lies here.~
+~
+11 524288 0 65
+0 0 10 0
+5 15000 5000
+A
+14 15
+A
+18 1
+#14219
+obj bag dates~
+100
+&ya bag of &Kd&pate&Ks&n~
+A bag of dates is lying here.~
+~
+19 0 0 1
+8 0 0 0
+1 5 5
+#14220
+obj bag nuts~
+100
+&ya bag of nuts&n~
+A bag of nuts is laying of the ground~
+~
+19 0 0 1
+10 0 0 0
+1 5 5
+#14221
+obj melon~
+100
+&ga &rr&Rip&re &Gm&ge&Gl&go&Gn&n~
+A ripe melon is laying here.~
+~
+19 0 0 1
+24 0 0 0
+1 5 5
+#14222
+obj small golden key~
+2
+&Ya &ysm&Ya&yll g&Yo&yld&Ye&yn k&Ye&yy&n~
+A small, golden key is here.~
+~
+18 262152 0 5
+0 0 10 0
+1 5 1000000000
+#14223
+obj emerald key~
+2
+&ga&Gn &ge&Gm&ge&Gr&ga&Gld k&ge&Gy&n~
+A large, emerald key lies here.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 1000000000
+#14224
+obj heavy iron key egypt~
+2
+&Ka heavy iron key&n~
+A large iron key lies in the dust.~
+~
+18 262152 0 16385
+0 0 10 0
+1 5 1000000000
+#14225
+obj bronze dragon wing~
+1
+&yW&Kin&yg&w of the &yBronze &KD&wr&Wag&wo&Kn&n~
+The wing of a large bronze dragon lies here.~
+~
+9 138413056 0 513
+10 0 0 0
+15 100000 400000
+A
+19 3
+A
+40 1
+#14226
+obj bronze dragon band~
+1
+&wA &yBronze &KD&wr&Wag&wo&Kn's &yB&wan&yd&n~
+The band of a bronze dragon lies here.~
+~
+11 239078400 1024 3
+0 0 0 0
+2 30000 400000
+A
+19 4
+A
+12 -15
+A
+17 15
+$~
+#999999
