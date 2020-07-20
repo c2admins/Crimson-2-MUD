@@ -1,0 +1,870 @@
+#15500
+mob the darken beast darkened~
+The Darken Beast~
+A Darken Beast stands before you.
+~
+Crawling out from the walls.  This beast stands before you a large twelve feet
+tall.  It has claws one foot long.  IT has spikes lining its back and a grey
+veil of black around it.  This darkened beast was summoned from the master of
+all evil to controll this castle.  It has very strong powers and seems to be
+a very wise beast.
+~
+75816986 32769 136249393 128 -1000 S
+50 -25 -25 100d99+20000 24d25+80
+4000000 2121212
+8 8 0
+0 0 25 20 21 25 20 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_KICK 99
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=85
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#15501
+mob guardian castle~
+The castle guardian~
+The castle guardian hulks above you.
+~
+This creature stands thirteen feet tall, with very large arms and cold silent
+stare.  He is clad in a black leather armor.  His eyes glow green with a dark
+pulsing light.  There is no way to walk past this monster of hatred.
+~
+385034 32769 136249361 67109000 -1000 S
+41 2 -24 90d19+7000 10d19+15
+900000 408900
+8 8 0
+0 4 21 22 19 20 20 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+#15502
+mob barney~
+Barney~
+Barney the hatefull dinosaur is standing here throttling a child
+~
+Here standing before you is a twisted purple dinosaur.  Barney has spen to 
+many years around children and now hates their very existance.  Barney won't
+like you either cause you spent many years calling him names.  Barney is now
+a thief that needs money to pay for his prescripted sedatives.  Barney is now
+a fat mean killing machine.  He has spent many years training with his master
+who lives down in these caverns.  Barney will be your worse nightmare, a big
+stupid looking purple KILLER!
+~
+12 32769 136249361 524424 -500 S
+41 -35 -24 90d19+125000 10d60+30
+0 1
+8 8 0
+0 0 22 22 21 21 19 16
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SKILL_STEAL 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_FIRE_BREATH 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SKILL_HUNT 90
+SKILL=SPELL_EARTHQUAKE 90
+#15503
+mob flesh worm~
+A Dark Flesh Worm~
+The Dark Flesh Worm has come to feed upon your soul.
+~
+A rank, worm that has a twenty-foot long body, and has a twelve-foot width.  
+This monster feeds upon the flesh of any living creature, and is only found 
+in the dark tunnels below groun that it may dig. The Flesh worm feeds upon
+any form of flesh, alive or not.
+~
+25550874 32769 136249361 128 -750 S
+48 1 -26 90d90+40000 10d20+40
+0 1700000
+8 8 0
+0 0 22 23 19 20 20 18
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#15504
+mob Corpse~
+&gCorpse&n~
+Corpse is here waiting for you.
+~
+This is a being that has led a very BAD life in the real world.  Now he is
+forever in his place of hell.  corpse was one of the best pkillers of his
+time.  Now he is resting in this home of hatred and despair and depression.
+Right where he is used to.  corpse takes the form of your imagination gone mad.
+corpse is not your friend, he is not your companion.  Corpse is just raw evil.
+~
+33939466 32769 136249361 136 -1000 S
+48 -10 -28 30d19+40000 30d10+20
+2400000 2000000
+8 8 0
+0 0 22 20 21 19 18 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_HUNT 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=103
+#15505
+mob tornado of souls~
+Tornado of souls~
+A tornado of souls lies before you waiting to swallow you.
+~
+This is a dark, chaotic hurricane feeding upon lost souls.  Every twister, 
+every crack, every gust of this beast seems to inhabit the face of a new lost
+soul.  The hurricane seems to be inacting as a form of purgatorium.   The 
+beast itself looks very large.  There seems to be the glow of eyes in this
+massive twister of lost souls.
+~
+319514 32769 136249361 128 -1000 S
+46 -5 -30 35d19+25000 40d15+50
+1775000 1750000
+8 8 0
+0 0 23 23 20 20 18 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+#15506
+mob sadron~
+Sadron, the Highpriestess~
+The Highpriestess Sadron, lashes out at you.
+~
+This is a very ugly creature.  This highpriestess has grey scaly skin and
+glowing red hair that seems to be raising in the air.  The highpriestess has
+long served her master in this castle and he has rewarded her for all of her
+patronage.  She has knowledge of what can hurt every mortal, and what they
+would do to try to harm her master.
+~
+319642 32769 136249361 136 -1000 S
+46 -10 -28 30d19+15000 99d6+45
+1800000 1500000
+8 8 0
+0 6 22 20 19 20 20 20
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_STEAL 90
+#15507
+mob sandman~
+&ySandman&n~
+The sandman awaits with your fears as his aid
+~
+This a creature that has no form.  He takes on what your amagination gives him
+This beast is the most warped and evil nightmare you will ever meet.  He feels
+no pain and he shows no emotion.  He can change form to whatever you fear the 
+most. And he can change for at will.
+~
+327690 32769 136249361 128 -1000 S
+46 -10 -26 45d19+14550 15d15+75
+1900000 1800000
+8 8 0
+0 0 18 19 16 18 15 17
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+SKILL=SKILL_STEAL 70
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+#15508
+mob demon knight~
+the Demon Knight~
+The Demon Knight wanders looking for intruders
+~
+These are mindless spirits created for the true weak at heart.  They guard
+the dark castle for their lord.  They stand about ten feet tall and about
+four feet across.  they have glowing red eyes and black skin.  They are
+very well made.  These are powerful fighters.  They fail in comparison
+to what lies ahead further into the castle.
+~
+319628 32769 136249361 0 -1000 S
+41 2 -24 80d19+15000 10d10+50
+900000 430000
+8 8 0
+0 0 20 18 18 19 16 14
+SKILL=SKILL_STEAL 80
+#15509
+mob sin~
+Sin~
+All your sins fade from the walls to seek vengence.
+~
+As the walls melt to you, you feel as thogh they take no real form.  They seem
+to come as past memories.  Memories of faded times, times you left behind but
+the sin of life has kept them sustained in it's memory.  They call to you for
+vangance.  They come at you all at once seeminly to take you and crush your
+soul at once.  The sins you made will lie you upon your coffin.
+~
+262154 32769 136249361 2097280 -1000 S
+48 -5 -28 30d19+30000 30d20+75
+4000000 1500000
+8 8 0
+0 0 22 21 19 20 17 18
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_LIGHTNING_BREATH 90
+ATTACK_SKILL=25
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=25
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#15510
+mob Arch angel gabrielle~
+Arch-Angel Gabrielle~
+Arch Angel Gabrielle is chained here.
+~
+This is the most holy of all the angels.  He is the right hand man to God
+He stands here waiting for the arivals to heaven.  This man glows brightly
+as he stands over a large desk with the names of everyone written in his
+book of life.  He sends people with the most holiest of lives to the great
+beyond and up to the streets of clouds.  If you have had a not so very good
+life then you will be sent to where you belong.
+~
+262152 1 136249361 67108992 -1000 S
+48 0 -25 100d99+24000 25d87+21
+36150 1725000
+8 8 0
+7 6 21 23 21 19 17 16
+SKILL=SKILL_EXTRA_DAMAGE 23
+SKILL=SKILL_HUNT 34
+#15511
+mob The tomb guardian.~
+The tomb guardian~
+The tomb guardian yearns to feed upon you.
+~
+The guardian stands before you with his key upon his waist.  If you think you
+can take this twelve foot horned creatures keys, maybe you can find whats 
+beyond the gates of the tomb.
+~
+319566 1 136249361 140 1000 S
+42 1 -26 50d19+9000 45d3+100
+903000 587325
+8 8 0
+0 0 21 22 20 21 20 20
+#15512
+mob ripper jack~
+Jack the Ripper~
+Jack the Ripper stands before you calculating you.
+~
+Here stands before you a cloaked man.  Jack the Ripper the famed stalker of
+the innocent in England many years ago, was asked to be a permenant gues in
+this dark castle.  He stands about six-foot-seven.  Jack is a very cunning and
+very calculative.  He seems to melt into the shadows and apear at will.
+~
+33816586 1 136249361 128 -1000 S
+46 -8 -26 100d89+10000 20d20+75
+1029000 573425
+8 8 0
+0 0 22 21 19 20 17 20
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+#15513
+mob damnation eternal~
+Eternal damnation~
+Your soul now is sucked into eternal damnation.
+~
+Eternal damnation raps its firm grips around your soul and bleed it dry.  This
+beast has been sent here to break your spirit and bend you life.  It has 
+festered in the blind eyed minds of people everywhere.  It lives and breaths
+on pure hatred.  The monster can only take shape in this castle where it has
+been banished for all of eternity.
+~
+319498 1 136249361 1140850920 0 S
+48 -20 -30 100d99+75000 87d25+87
+3700000 1777777
+8 8 0
+0 0 23 22 20 21 19 17
+#15514
+mob shadow stalker~
+A shadow stalker~
+A creature streaches out from the walls to grasp you.
+~
+Out from the shadows comes a virtual formless beast of great power.
+~
+1368088 32769 136249361 8912936 -1000 S
+44 -5 -26 90d19+18345 10d15+45
+896000 750000
+8 8 0
+0 0 21 22 20 21 20 18
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#15515
+mob slayer drac'Ocker~
+The slayer~
+The Slayer awaits you.
+~
+A very large monster with skin made from leather.  His eyes are glowing green
+and his fangs are pearl white.  He stands about six feet tall and with very
+large and very sharp teeth.  His face is very old and very tattered with the 
+burdeons of his victims.  His face and mouth are covered in blood with the
+limbs of his latest victim.  This creature was once a man that could out hunt
+the greatest of beasts and out think the smartest of men.  He is the ultimate
+killer.  He has the instincts of every beast on the face of the planet.
+~
+42205194 32769 136249361 128 -1000 S
+48 -20 -28 100d99+14000 10d60+69
+3500000 1750000
+8 8 1
+0 0 21 21 19 19 19 17
+SKILL=SKILL_HUNT 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_TYPE=100
+#15516
+mob demon vulture~
+a demon vulture~
+A demon vulture flies above you.
+~
+An almost invisible demon bird scouts the land around you.  This bird seems
+to fit into the land surroundings.  The demon vulture has been known to
+pick at the bones of living as well as the dead.  This vulture blends into the
+smoke, and smog of this land.
+~
+50651164 1 136249361 0 -1000 S
+43 -10 -24 80d19+14000 10d15+50
+300000 750000
+8 8 0
+0 0 21 20 20 21 19 19
+#15517
+mob zombie~
+a headless zombie~
+A head less zombie wanders here.
+~
+Here before you stalks a dark and evil corpse.  Brought back to life by the
+power of a great necromancer, this zombie roams the land forever.  This zombie
+is a very powerful creature indeed.  The zombie has no head, and is missing 
+skin in most places.
+~
+33816584 32769 136249361 128 -1000 S
+42 1 -26 50d19+9000 20d12+69
+945000 575000
+8 8 0
+0 0 21 23 21 19 19 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+#15518
+mob Lucifer, the fallen angel~
+Lucifer, the fallen angel.~
+You can see a frail angel with scabbed wings.
+~
+Hideously clothed and tormentedly mangled.  This creature is covered in blood
+and maggots.  You can barely make out a pentagram burned into his forehead.  The
+fingernails come out like razors covered in ooze.  You can see a dark burning
+trance in his eyes.  He begs for you to come toward his foul stench.  There is
+a creepy glow about him.  This is the most feared being in all the worlds.
+~
+262154 1 136249361 639897736 -1000 S
+50 -20 -25 100d99+50000 25d28+99
+5000000 2500000
+8 8 0
+11 4 25 25 25 25 25 12
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+#15519
+mob lethargy~
+Lethargy, the ruler of sloth~
+Lethargy, the ruler of laziness is laying here.
+~
+A very mountain of a man.  This obese creature of lazy habbits slugs about
+the room.  He has been sent here as a monarch of all that he is.  He
+envelopes the room and the whole sloth name.  Lethargy has never done
+anything in his whole existance.  He just sits here staring at the walls all
+day long.
+~
+8708186 32769 136249393 67108992 -1000 S
+46 -15 -26 100d99+10000 20d20+40
+1750000 1500000
+8 8 0
+0 1 17 17 15 14 15 14
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_FIRELANCE 50
+SKILL=SPELL_FIRESTORM 50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15520
+mob piker~
+Piker, ruler of greed~
+Piker, ruler of greed is counting his assets.
+~
+This looks like a feeble old man.  You see he has his money all hidden to
+himself.  Don't be fooled by his appearance.  This guy is quite fearsome
+indeed.  You can't make out how much cash he has because he hides it in his
+money belt.  Piker is the ruler of greed.  He will share with none, and
+will destroy all who try to take.
+~
+319578 32769 136249393 67108992 -1000 S
+46 -20 -25 100d99+10000 20d25+40
+1500000 1500000
+8 8 0
+0 2 20 20 20 20 20 11
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_HEAL_MAJOR 50
+SKILL=SPELL_FIRELANCE 50
+SKILL=SPELL_FIRESTORM 50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15521
+mob voracity~
+Voracity, the ruler of gluttony~
+Voracity, the ruler of gluttony is here eating everything in site.
+~
+A rather girthy man sits before you.  You can see by the size of his sausage
+sized fingers this guy has engrossed himself.  All of his life.  There is
+no wonder this guy has been placed as the ruler of gluttony.  This represents
+everything you come to know as one who punishes itself for the sake of being
+a fanatic.  There are rather large loads of food laying about.  This guy sits
+and eats all day long.
+~
+57434 32769 136249393 67108992 -1000 S
+44 -15 0 100d99+10000 20d15+40
+1500000 1000000
+8 8 0
+0 0 16 17 16 14 15 11
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_HEAL_MAJOR 50
+SKILL=SPELL_FIRELANCE 50
+SKILL=SPELL_FIRESTORM 50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15522
+mob lechery~
+Lechery, the ruler of lust~
+Lechery, the ruler of lust is here barely clothed.
+~
+Dripping in vasoline and grabbing a whip of lust.  This creature knows all
+your dirty little thoughts.  It has made time for your pleasures and your
+pain.  You can feel there is no love in the eyes of Lechery.  There is no
+manor in which this creature won't try to persuade you to make it feel better
+even just for a second.  You can't make out the eyes of this leather clad
+being.
+~
+4251722 32769 136249361 67108992 -1000 S
+42 1 -25 100d99+5000 10d20+40
+750000 504000
+8 8 0
+0 0 16 18 15 15 13 12
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_FIRELANCE 50
+SKILL=SPELL_FIRESTORM 50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15523
+mob hubris~
+Hubris, the ruler of pride~
+Hubris, the ruler of pride is here mocking you.
+~
+You see before you a well built, and very intelligent woman.  This creature has spent her whole life trying to excel
+at every point of life.  All of this, just to brag about being better than others.  Hubris has picked on everyone
+she has come in contact with.  She has had no time for loved ones because she is the only one she loves.  She has no
+doubt in herself that she can destroy you.
+~
+8708186 32769 136249393 67108992 -1000 S
+46 -15 -25 100d99+10000 20d20+40
+1500000 1650000
+8 8 0
+0 0 20 20 20 20 20 12
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_FIRELANCE 50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15524
+mob Irascible~
+Irascible, the ruler of wrath~
+Irascible, the ruler of wrath is getting ready to go off on you.
+~
+A bulging bag of muscle stands before you.  There is a red fire in his eyes
+and a cold heart in his chest.  This monster has spent his life angry and
+filled with angst.  You can feel the hate that this creature consumes.  The
+mere sight almost stops you in your tracks.  He calls upon his inner most
+rage for all to see.
+~
+8446042 294913 136249361 67108992 -1000 S
+46 -15 -25 100d99+10000 20d20+60
+1500000 1500000
+8 8 0
+0 1 20 20 20 20 20 15
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_HEAL_MAJOR 50
+SKILL=SPELL_FIRELANCE 50
+SKILL=SPELL_FIRESTORM 50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15525
+mob invidious~
+Invidious, the ruler of envy~
+Invidious, the ruler of envy seeks to become just like you.
+~
+This creature looks at you with awe.  It wants to be you so much it will try
+everything in its power to become you.  That could mean killing you and taking
+your place.  This creature has lust to become something other than what it
+is.  You  might want to stay away from this fanatical creature.  It has come
+from the bowels of hell to create itself in your image.
+~
+8446042 32769 136249361 67108992 -1000 S
+46 0 -25 100d99+10000 30d15+55
+1500000 1500000
+8 8 0
+0 0 20 20 15 20 12 11
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15526
+mob bounce~
+Bounce~
+You see a pool of blood that seems to cling to itself.
+~
+This ugly creature seems to be made completely of blood.  There is no real form
+or shape to it.  The only noticable shape on the whole intire being is it has
+one massive testicle.  This seems to give it aggressive and impulsive 
+attributes.  The blob seems to nasty mind, and a creative offense.
+~
+8486986 32769 136249361 1142948008 -1000 S
+45 -15 -20 100d100+10000 10d20+70
+1500000 1250000
+8 8 0
+0 0 25 16 16 16 13 12
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+#15527
+mob scapegoat~
+Scapegoat~
+A three legged goatman stands here.
+~
+This is a quite fearsome creature indeed.  It is the creation of satan and 
+many live in the real world.  They are the creatures who spend  their
+whole lives taking the shit off mankind.  They eventually grow up rather bitter
+and rather angry till they snap upon an unsuspecting person.
+~
+16777304 294913 136251409 67108992 -1000 S
+46 0 -30 100d99+22000 100d4+75
+2000000 1500000
+8 8 1
+0 0 25 18 16 25 15 11
+#15528
+mob edgecrusher edge golem~
+Edgecrusher~
+A fearsome metal golem is standing before you.
+~
+Edgecrusher is a fearsome metal golem that was created from a mismatched set
+of parts.  This monstrosity has actually overridden its own programming and
+has learned a few new skills from humans.  Despite its current location, this
+creature does have a heart of gold (though it once was one nasty SOB).  It
+has a sleek body design, all in black.  The front panels seem to include some
+kind of cooling system...the weight of this monster must be extreme (it looks
+like it could cause an earthquake just by walking).
+
+As you peer into its eyes you can see the hint of a once great warrior.
+
+~
+8396810 32769 136249361 67108992 1000 S
+48 -20 -35 1d1+30000 100d13+95
+3000000 1269000
+8 8 0
+0 0 25 18 15 16 14 12
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_CURE_CRITIC 99
+SKILL=SPELL_CURSE 99
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_PROTECT_FROM_EVIL 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+#15529
+mob martyr~
+Martyr~
+A martyr is weeping here.
+~
+These creatures are servants of an idea or belief.  They have spent their whole
+lives devout to something that got them painfully killed.  Martyr's don't have 
+to die, they just have to suffer.  This creature looks as if it was drug around
+a while, and set on fire while its flesh was being ripped from the bones.  There
+are many of these creatures about.  They keep the master company.
+~
+168034568 32769 136249361 67108864 1000 S
+43 -10 -20 1d1+15000 10d15+69
+850000 650000
+8 8 0
+0 0 17 15 16 14 14 15
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_TYPE=105
+#15530
+mob smasher~
+Smasher~
+A strange lead golem is standing here.
+~
+This is an evil golem named Smasher.  It's sole purpose is to seek and destroy
+anyone it finds in it's way.  You can see by the glowing eyes it has an intense
+pleasure of pain.  The greyish-blue and green wiring sticking out all over it
+tells you this thing shorted a circut a long time ago.  The blood that drips
+from atop this intense being is only from its victims.  Many poor souls have 
+died to try and cripple this thing.
+~
+134259016 32769 136249361 67108992 -1000 S
+46 0 40 1d1+20000 10d15+80
+2500000 1200000
+8 8 0
+0 0 25 25 25 14 12 13
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=108
+#15531
+mob devourer~
+Devourer~
+An aluminum golem stands here searching.
+~
+This is Devourer.  He is also programmed for one thing; seek and destroy.  He
+works with Smasher in these halls.  They are evil creatures armed to the tooth,
+and vicious as all of hell.  Devourer is made of a lightweight simple metal
+that can be ripped apart easily.  However with his metal body and cruel mind
+he can easily destroy his victims quickly.
+~
+40968 1 136249361 67108992 -1000 S
+46 -15 -35 1d1+17000 5d97+67
+2600000 1104000
+8 8 0
+0 0 25 16 16 25 13 13
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15532
+mob raped soul~
+A raped soul~
+A raped soul hovers here before you.
+~
+This is a soul of a lost and tourmented being.  You can see he has had his soul
+ripped from him.  There are tear marks along his back, shoulders, and scalp.  
+This creature was taken out of the world before its time.  I could not prove
+to be acceptable into Heaven, and has chosen to go to this place.  This creature
+draws it's power from the mortals who wander passed it.
+~
+33816584 1 136253489 0 1000 S
+44 -4 -20 1d1+15000 10d20+30
+1000000 750000
+8 8 0
+0 0 17 25 25 16 14 12
+#15533
+mob big god~
+Big God~
+Big God, the black demon is standing here.
+~
+This creature climbs from the back of others and onto the souls of all.  It is
+the evil creature that snatches souls from earth without reason... without
+remorse.  You can see through this monsters structure.  It is almost shadow-like
+with its ethereal body and clawed hands of doom.
+~
+9437208 1 136249361 69206144 -1000 S
+47 -25 -40 1d1+30000 75d20+50
+3000000 2000000
+8 8 0
+0 0 20 18 16 16 14 14
+SKILL=SPELL_FIRESTORM 35
+ATTACK_SKILL=5
+ATTACK_SKILL=3
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+#15534
+mob shock~
+shock~
+A large electric creature stands before you.
+~
+This being is made of solid pure enegry.  It has the power to control all 
+electric fields around it.  You can see right through this beings body.  It 
+emits the most powerful current ever imagined.  The master has created this 
+monster out of collected lightning and human energy.  These creature has a
+fearsome warcry that criples all who confront it.
+~
+8708104 1310721 136249361 67108992 -1000 S
+46 -10 -25 1d1+16000 25d25+85
+2600000 1104000
+8 8 0
+0 0 17 18 14 15 15 12
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_CALL_LIGHTNING 99
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=107
+#15535
+mob concreto~
+concreto~
+A large slab of mortar and sand stands before you.
+~
+This is a large being made of solid concrete.  You can see the weight of this
+being is tremendous.  The look and feel of this creature is very awesome indeed.
+It appears to be a large slow creature.  You can see by the blobular movements
+that this monster can mould itself into almost any kind of shape.
+~
+8 1 136249361 67108992 -1000 S
+46 -20 -25 1d1+19000 100d4+85
+2700000 1009000
+8 8 0
+0 0 16 25 25 15 15 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#15536
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 -1000 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 16 15 15 14
+$~
+#999999

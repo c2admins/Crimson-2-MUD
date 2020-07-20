@@ -1,0 +1,492 @@
+#16300
+mob Adar jungle~
+Adar~
+Adar the Jungle Man protects his realm.
+~
+You see a muscle bound man with only a fig leaf to cover his body.
+~
+262234 1 136249361 536871080 1000 S
+40 3 -22 100d100+2000 10d10+55
+500000 288882
+8 8 1
+0 0 22 21 19 21 19 20
+#16301
+mob pirahna fish~
+A ferocious Piraniah~
+A ferocious, Piraniah swims here looking for prey.
+~
+A ferocious looking fish, with black scales, but most noticeably its big, big
+BIG BIG BIG BIG! teeth, gleeming in the sun, as they open towards you.
+~
+16834572 1 136249361 25166080 -1000 S
+10 29 34 75d1+40 1d20+2
+550 2775
+8 8 0
+0 0 14 12 12 13 11 9
+#16302
+mob tibiki witch doctor~
+Tibiki, the Witch Doctor~
+Tibiki, the Witch Doctor stands here cursing and chanting.
+~
+Tibiki is wearing a toothed necklace. He seems wild eyed, and spaced out, he
+apparently is doing something, and you have interrupted. He looks at you and
+curses you.
+~
+262666 1 136249361 1073745024 -1000 S
+35 7 -14 50d19+2500 9d15+15
+100000 217517
+8 8 0
+0 0 19 18 18 19 17 18
+#16303
+mob Salam ~
+Salam~
+Salam is here to help the natives.
+~
+A gentle dark skin man has studied medicine, and healing all over the 
+realms.  He has come to this small region to help the natives.
+~
+262154 1 136249361 2359424 1000 S
+39 4 -20 70d19+4300 8d20+15
+400000 230000
+8 8 1
+0 0 21 20 19 19 19 19
+#16304
+mob Adalla~
+Princess Adalla~
+Adalla is here combing her hair with a bone pick and looking pretty.
+~
+You see a vision of pure beauty.  Princess Adalla seems to know your
+thoughts as she says, "How are you today?" seemingly unaware that 
+you are here to kill her.  How could you do such a thing?
+~
+262986 1 136249361 168 1000 S
+41 2 0 100d15+7400 20d10+10
+1000000 370000
+8 8 2
+0 0 22 21 21 21 18 18
+#16305
+mob village elder pygmy~
+The Village Elder~
+The Village Elder is here praying for a good hunt.
+~
+A pygmy with an amazingly young face stands before you. As the Village Elder,
+he handles all matters of a religious nature for all of the pigmies. He is 
+tough and hard to handle. He looks like he knows EVERYTHING there is to know
+about this jungle.
+~
+262730 1 136249361 168 1000 S
+42 1 -26 100d99+5000 75d3+25
+999999 510000
+8 8 1
+0 0 21 22 20 19 19 19
+#16306
+mob lion king jungle~
+the King of the Jungle~
+The King of the Jungle is here, guarding his empire.
+~
+You see a lion of great strength and wisdom. Surely he has reigned for a great
+number of years. His mane is twice as long as any you have ever seen, And his 
+claws are enough to worry ten willow trees.
+~
+17039434 1 136249361 128 0 S
+41 2 -24 100d49+5800 75d2+0
+999999 370000
+8 8 0
+0 0 18 19 18 16 16 17
+#16307
+mob king ant hormiga~
+King Hormiga~
+King Hormiga, ruler of the ants is here.
+~
+An immense ant is staring back at you with utter anger because of your presenc
+here in his labyrinth. He bears a striking resemblance to a god you once seen
+but you cant seem to place it. He is about 6 feet tall and 12 feet long
+and tougher than nails.
+~
+17097482 1 136249361 128 0 S
+28 15 11 50d9+1000 25d2+20
+30000 84500
+8 8 1
+0 0 17 18 17 16 15 16
+#16308
+mob queen ant hormigeta~
+Queen Hormigeta~
+Queen Horimgeta is here tending to her business.
+~
+A faithful and trusted monarch, the Queen Ant Hormigeta sits before you with
+a suspiscious look. She is not an easy target so watch it!
+~
+17039434 1 136249361 8388992 0 S
+23 17 21 50d9+750 40d1+0
+15000 69500
+8 8 2
+0 0 16 17 14 15 14 15
+#16309
+mob queen bee~
+The Queen Bee~
+The Queen Bee is here, ruling on high.
+~
+A huge bee is here laying eggs and giving orders at the same time. As you look
+at the queen she notices you and begins to buzz in an unhappy tone. You better
+state your business and leave before she gets really mad.
+~
+17039434 1 136249361 128 0 S
+17 23 27 20d9+25 4d10+0
+4500 5050
+8 8 2
+0 0 17 15 14 15 12 13
+#16310
+mob komodo dragon~
+the komodo dragon~
+The komodo dragon is here slithering along.
+~
+You see the fabled komodo dragon before you. As you look into his great jaws 
+it sends chills down your spine. This sucker is an ugly little dude.
+~
+21303372 32769 136249361 67108992 0 S
+35 8 -10 20d79+1300 55d2+30
+87500 213000
+8 8 0
+0 0 19 21 17 17 15 14
+SKILL=SPELL_FIRE_BREATH 75
+#16311
+mob elephant male~
+a male elephant~
+A male elephant is here parading and never forgetting.
+~
+Its a large elephant what do you want? Dont you have an imagination?
+~
+16777288 1 136249361 0 0 S
+25 15 18 2000d1+0 20d2+15
+20000 74000
+8 8 1
+0 0 18 19 17 18 17 15
+#16312
+mob elephant female~
+a female elephant~
+A female elephant is here tending to her young.
+~
+Its a female elephant...what never took zoology?
+~
+16777288 1 136249361 0 0 S
+20 19 23 100d19+600 15d2+10
+7000 62000
+8 8 2
+0 0 16 18 15 16 13 14
+#16313
+mob elephant leader~
+the elephant leader~
+The elephant leader is here, giving orders.
+~
+The elephant leader looks tough, old, wise, and mean...Not someone to be taken
+for granted.
+~
+17039434 1 136249361 536870912 0 S
+25 15 18 100d39+90 25d2+5
+17000 73500
+8 8 0
+0 0 17 18 16 16 13 11
+#16314
+mob king pygmy kabukiki~
+Kabukiki~
+Kabukiki, King of the Pygmies sits here on his throne.
+~
+It seems that nothing can phase this great king.  Kabukiki, who is dressed in
+the finest jungle attire, enjoys having competitions every year with his
+lightning breath buddy from Shaolin to the west.  Quite often they tie.
+~
+278602 1 136249361 128 1000 S
+31 12 2 10d33+1650 10d10+10
+44044 186568
+8 8 1
+0 0 18 17 18 18 16 17
+#16315
+mob tiger~
+a tiger~
+A tiger is here getting ready to strike out at you.
+~
+If you have time to look at this description you are probably already fighting
+this tiger. He has claws like you wouldnt believe. It seems that you just cant
+avoid being disturbed by such a beast.
+~
+16834632 1 136249361 40 -1000 S
+20 20 24 40d29+1000 20d2+0
+4000 58000
+8 8 0
+0 0 15 13 12 12 11 12
+#16316
+mob headhunter head hunter~
+a headhunter~
+A headhunter is here, showing of his prizes.
+~
+Dont stay long enough to look at these guys next time. The headhunter is
+working on completing his collection with your cranium and he will not stop.
+~
+58504 1 136249361 33554472 -1000 S
+20 20 24 100d9+500 15d2+10
+4250 30000
+8 8 1
+0 0 16 16 15 16 14 11
+#16317
+mob cannibal~
+a cannibal~
+A cannibal is here looking hungry.
+~
+These are some rough and tumble cannibals. If you are looking for a good fight
+at the risk of become cannibal fodder heres where you go-to these guys.
+~
+72 1 136249361 0 -1000 S
+24 16 20 100d19+800 30d2+0
+13000 70000
+8 8 0
+0 0 17 17 15 14 14 15
+#16318
+mob monkey~
+a monkey~
+An annoying monkey is here taking up heros' time.
+~
+Damn Monkeys! These guys will never let you go until they wimp out. Doesnt it
+seem like they never miss?
+~
+16834760 1 136249361 8 -1000 S
+10 32 37 20d2+5 1d8+2
+200 162
+8 8 0
+0 0 14 15 12 11 9 9
+#16319
+mob vine~
+a live vine~
+A hidden vine stretches out from the tree tops.
+~
+Damn Vine! This is the most annoying of them all-you cant see em and you cant 
+start the fight unless you know they are there....What a NUISANCE!
+~
+134340938 1 136249361 1572904 -1000 S
+9 30 35 20d3+10 1d8+6
+300 260
+8 8 0
+0 0 14 12 11 12 9 8
+#16320
+mob pygmy girl~
+a pygmy girl~
+An innocent looking pygmy girl stands here.
+~
+A small girl stands here, her legs and arm look like sticks.  She plays
+with her doll, combing its hair.
+~
+72 1 136249361 0 1000 S
+8 30 35 47d1+0 1d15+1
+350 225
+8 8 0
+0 0 14 13 11 13 11 8
+#16321
+mob pygmy boy~
+a pygmy boy~
+A rambunctious pygmy boy is here.
+~
+This pygmy boy seems a playful type.  He won't stand still for even a second.
+He is short and stubborn, why not kill him?  Please?
+~
+72 1 136249361 0 1000 S
+8 30 35 75d1+0 1d15+1
+350 225
+8 8 2
+0 0 13 12 13 13 12 12
+#16322
+mob pygmy woman~
+a pygmy woman~
+A pygmy woman is here tending to her errands.
+~
+She looks like the ideal mother.  Not only is she running errands for her
+home but she's also got her kids in tow, not a job to be given even to
+Shun Shun, because it is doubtful he could do the job without killing the
+brats first.
+~
+200 1 136249361 0 1000 S
+12 27 32 50d5+0 2d10+2
+1200 3545
+8 8 2
+0 0 15 13 13 13 12 9
+#16323
+mob pygmy guard~
+a pygmy guard~
+A pugnacious pygmy guard is here looking quite stern.
+~
+This guard has seen some action, that's for sure.  He is the exact
+equal of Shaloin color guards.  So you know what to expect.  A rough 
+fight.
+~
+262218 1 136249361 67109248 1000 S
+26 15 16 20d99+250 3d30+4
+18000 79000
+8 8 1
+0 0 16 18 15 16 14 13
+#16324
+mob pygmy man~
+a pygmy man~
+A pygmy man is here enjoying today's catch.
+~
+You gaze upon an experienced hunter and sound provider.  It's a wonder how
+he became such a fine man when every pygmy boy you see is a little snot.
+~
+72 1 136249361 0 1000 S
+16 24 28 40d9+45 2d15+5
+4000 4898
+8 8 1
+0 0 15 14 12 13 10 12
+#16325
+mob gorilla~
+a gorilla~
+A huge gorilla is hanging in the tree above you.
+~
+As you gaze upon a truly dangerous animal you tremble and cringe in fear. 
+*cringe* You wonder if he'll attack or just leave you alone-will he charge or 
+just sit there? Where is that Fossey chick when you need her?
+~
+151257160 1 136249361 0 0 S
+25 15 18 3000d1+0 20d3+17
+15000 82000
+8 8 1
+0 0 17 16 15 17 16 12
+#16326
+mob anaconda~
+an anaconda~
+An extremely long anaconda is here, preparing its coils for you.
+~
+A vicious, enormous anaconda stands up to you and hisses to you. You
+make sure you get the hell out of here.
+~
+16900172 1 136249361 128 -1000 S
+32 11 -1 100d23+500 20d4+30
+40000 190000
+8 8 0
+0 0 19 18 18 17 16 17
+#16327
+mob drone bee~
+a drone bee~
+A drone bee buzzes around your head in a massive rage.
+~
+This bee doesn't look happy to see you. As a drone his soul purpose is to
+make sure his hive is not invaded...You are an invader, get it?
+~
+151053898 1 136249361 0 0 S
+23 17 21 100d29+500 10d5+10
+10000 70900
+8 8 1
+0 0 17 19 17 17 14 13
+#16328
+mob worker bee~
+a worker bee~
+A worker bee is here buzzing a tune.
+~
+This busy little creature is content with his only job.....work work work.
+As he buzzes along you notice hes buzzing a tune
+              "you work forever and what do you get,
+               a couple days older and deeper in debt..."
+~
+150996554 1 136249361 0 0 S
+17 23 27 100d4+50 10d3+3
+3800 5400
+8 8 1
+0 0 15 16 13 14 12 13
+#16329
+mob worker ant~
+a worker ant~
+A worker ant is doing his work not even noticing you.
+~
+This ant is unloding and off loding eggs by the millions. Sheesh! Probably 
+because no one else is willing to do his job, and you have your doubts on 
+whether he likes it too. As he walks past you hear him mumble something like,
+"im...nna...kill...hat...ing...queen...yeah tha....it...strangle..er."
+~
+150996554 1 136249361 0 0 S
+15 25 29 75d3+75 8d3+4
+2500 4595
+8 8 1
+0 0 14 16 13 14 13 10
+#16330
+mob soldier ant~
+a soldier ant~
+An ant with large mandibles is here guarding the area.
+~
+This ant is different from his worker colleage...he likes that queen...but he 
+does have one problem, That King Hormiga! *uggh* Does he hate him!? Its becaus
+e of that stupid nametag he made him wear. It reads,
+            "Hi Im a lowly soldier ant and I am here to 
+             make your stay more enjoyable. by the order
+             King Hormiga (cool name)."
+~
+150996554 1 136249361 0 0 S
+25 15 18 100d29+500 14d5+5
+15000 73500
+8 8 0
+0 0 17 19 17 17 13 16
+#16331
+mob parrot~
+a parrot~
+A colorful parrot sits here talking.
+~
+A very loud annoying bird squawks overhead.
+~
+16777416 1 136249361 0 0 S
+8 30 35 20d4+0 1d10+5
+300 230
+8 8 0
+0 0 13 15 11 13 10 8
+#16332
+mob crocodile~
+a crocodile~
+A crocodile with really big teeth is sunning itself here
+~
+He is the classic crocodile...Long and numerous teeth, green leathery skin,
+and last but not least, a contract for a spot on a Lubriderm commercial.
+~
+17096776 1 136249361 16777216 0 S
+13 26 31 50d3+100 2d10+5
+950 4141
+8 8 0
+0 0 13 14 12 11 12 9
+#16333
+mob cheetah chimp monkey~
+Cheetah~
+Cheetah the chimp, is here.
+~
+A chimpanzee with brown fur, and built pretty wimpy. His face shines a 
+feeling of homeliness, and pity.
+~
+16777416 1 136249361 1048576 500 S
+23 17 21 10d89+450 25d2+5
+8000 68850
+8 8 0
+0 0 15 15 13 14 10 9
+#16334
+mob wimpie~
+Wimpie~
+Wimpie of the Happy, Horny Hunters is standing here.
+~
+Wimpie is the creator of the Zone, he wanders around watching you.
+He duties include cleaning up after you messy players, and also being
+mischievious.
+I wouldn't even try to take him.
+~
+264012 1 136249361 34603010 -1000 S
+44 1 -30 100d99+25000 20d30+80
+1500000 900000
+8 8 0
+0 0 21 20 20 20 20 18
+#16335
+mob sabretooth tiger~
+Sabretooth Tiger~
+A huge stripped sabretooth tiger with glowing eyes is about to attack you!
+~
+A huge stripped sabretooth tiger with huge fangs sticking out of its jaws
+seems very interested in getting to know you.
+~
+17096712 32769 136249361 8912904 0 S
+36 7 -14 100d10+5200 13d5+50
+90000 219000
+8 8 0
+0 0 16 16 14 16 13 14
+SKILL=SKILL_DODGE 99
+$~
+#999999

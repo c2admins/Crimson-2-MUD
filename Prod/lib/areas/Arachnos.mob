@@ -1,0 +1,261 @@
+#6301
+mob spider young~
+the young spider~
+The young spider is ballooning by you.
+~
+He looks freshly hatched and sprightly.  His young fangs are just
+growing in as of late.
+~
+76 1 136249361 8 0 S
+5 32 37 5d5+30 2d4+1
+250 155
+8 8 2
+0 0 12 14 12 10 10 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6302
+mob dragon Yevaud~
+Yevaud~
+Yevaud the Usurper of Midgaard is here, grinning evilly at you.
+~
+Old, scaly, but still with a lot of bite in him left.
+~
+4456526 32769 136249361 8 -1000 S
+24 16 20 100d19+1000 7d6+16
+15000 73000
+8 8 1
+0 0 17 17 16 17 14 12
+SKILL=SPELL_FIRE_BREATH 58
+#6303
+mob spider wolf~
+the Wolf Spider~
+The Wolf Spider is here, licking its bloody fangs.
+~
+The Wolf Spider is hairy, very hairy.
+~
+57354 1 136249361 0 -300 S
+6 31 36 3d8+30 2d5+3
+300 193
+8 8 2
+0 0 12 13 12 12 8 7
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6304
+mob orc~
+the orc~
+The orc is stuck in the web and he can't get out.
+~
+You notice an evil look in his eyes.
+~
+10 1 136249361 0 -400 S
+5 32 37 9d5+10 2d4+0
+200 153
+8 8 1
+0 0 12 12 11 11 8 10
+#6305
+mob wasp queen~
+the Queen Wasp~
+The Queen Wasp is here, thinking that you would make a tasty offering
+to her master.
+~
+You notice a glazed look in her eyes.
+~
+319498 1 136249361 0 -800 S
+14 25 30 1d8+172 4d4+8
+2300 4100
+8 8 2
+0 0 15 15 12 13 12 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#6306
+mob spider drone~
+the drone spider~
+The drone spider walks around doing her master's bidding.
+~
+An ordinary drone spider.
+~
+76 1 136249361 0 -300 S
+6 31 36 6d5+25 2d4+3
+275 186
+8 8 1
+0 0 12 13 11 11 9 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6307
+mob spider ethereal~
+the ethereal spider~
+The ethereal spider strides here, traveling to different worlds.
+~
+She winks in and out.
+~
+76 1 136249361 0 1000 S
+10 29 34 1d12+123 2d4+6
+825 3045
+8 8 2
+0 0 14 15 13 12 12 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6308
+mob slave human~
+the slave of Arachnos~
+The slave works here relentlessly.
+~
+The slave does not mind you, but will fight like a warrior if attacked.
+~
+76 1 136249361 0 0 S
+12 27 32 10d9+100 2d8+4
+1000 3492
+8 8 1
+0 0 15 15 13 13 11 9
+#6309
+mob quasit~
+the quasit~
+The quasit blinks in and out, grinning at you.
+~
+Demoniac in nature, but more mischievous.  He twiddles his thumbs
+and creates a magical treasure!
+~
+156 1 136249361 524298 1000 S
+10 29 34 4d12+100 1d8+8
+750 3083
+8 8 1
+0 0 13 13 11 13 11 8
+#6310
+mob spider bird~
+the Bird Spider~
+The Bird Spider snaps its powerful jaws.
+~
+The Bird Spider has very powerful jaws.
+~
+57354 1 136249361 0 -800 S
+15 25 29 3d8+200 3d9+5
+3333 4608
+8 8 2
+0 0 14 14 13 13 11 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6311
+mob hermit~
+the Hermit~
+The Hermit sits here and warns, "Go back before it's too late!"
+~
+A dishevelled veteran warrior in disguise is what he is, but he
+means well.
+~
+14 1 136249361 8 -400 S
+7 30 35 3d9+35 2d5+3
+50 250
+8 8 1
+0 0 12 14 12 12 8 8
+#6312
+mob donjonkeeper~
+the Donjonkeeper~
+The Donjonkeeper eyes you and wonders how pure your soul is.
+~
+He delves deeper into you as you stare at him.
+~
+262158 1 136249361 8 1000 S
+18 22 26 9d9+285 3d10+8
+4625 5530
+8 8 1
+0 0 17 19 16 15 14 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6313
+mob guardian~
+The guardian~
+The guardian is obviously not doing his job.
+~
+He looks like a lazy bum who sleeps half the time.
+~
+319560 1 136249361 524288 250 S
+16 24 28 10d29+85 3d8+8
+3000 4864
+4 4 1
+0 0 15 16 13 15 13 11
+#6314
+mob spider empress arachnos~
+Arachnos~
+Arachnos the Empress of Spiders welcomes you with an evil smile.
+~
+She is a very attractive spider with an ornate gown.  She tempts you
+into being one of her many slaves.  She does not possess the venomous
+fangs of normal spiders, but then, as you realize, she does not need
+them.
+~
+319498 32769 136249361 10 -1000 S
+29 14 8 67d19+2000 5d5+5
+28500 100000
+8 8 2
+0 0 19 17 17 17 16 17
+SKILL=SPELL_BLINDNESS 68
+SKILL=SPELL_BURNING_HANDS 68
+SKILL=SPELL_COLOUR_SPRAY 68
+SKILL=SPELL_CURSE 68
+SKILL=SPELL_ENERGY_DRAIN 68
+SKILL=SPELL_FIREBALL 68
+SKILL=SPELL_LIGHTNING_BOLT 68
+SKILL=SPELL_MAGIC_MISSILE 68
+SKILL=SPELL_SLEEP 68
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#6315
+mob ki-rin~
+the Ki-Rin~
+The Ki-Rin smiles good-naturedly to you.
+~
+She is the last bastion of good in this realm.  Her mission is to
+someday free the slaves of the Empress.
+~
+262158 1 136249361 8 1000 S
+26 15 16 20d19+2000 8d4+25
+21865 77000
+8 8 1
+0 0 18 16 15 15 14 15
+#6316
+mob dragon wormkin young~
+the young dragon wormkin~
+A wormkin with no teeth plays here.
+~
+Rather small, you almost feel sad in killing it.
+~
+4456458 1 136249361 8 1000 S
+23 29 34 9d9+80 1d6+3
+760 2800
+8 8 1
+0 0 16 17 14 15 13 15
+#6317
+mob dragon wormkin elder~
+the elder dragon wormkin~
+A wormkin that has grown a bit stares at you inquisitively.
+~
+A medium-sized dragon--seems it hasn't killed anything yet by itself.
+~
+4456458 32769 136249361 8 100 S
+19 21 25 3d5+350 5d8+5
+4875 5895
+8 8 1
+0 0 17 16 15 15 15 12
+SKILL=SPELL_FIRE_BREATH 56
+$~
+#999999

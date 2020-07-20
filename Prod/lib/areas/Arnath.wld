@@ -1,0 +1,1767 @@
+#14400
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 32 1 99 1
+D1
+The river continues.
+~
+~
+0 -1 14900
+D3
+The river continues.
+~
+~
+0 -1 14437
+S
+#14401
+A dead end.~
+You stand at a dead end. There are huge thorny bushes all around you. The only
+exit is to the north.
+~
+84 8 0 1 99 1
+D0
+The woods.~
+~
+0 -1 14001
+S
+#14402
+A small dirt road.~
+You stand on a small dirt road that leads away from the main road into the
+forest.  The forest sounds alive with birds and insects.
+~
+84 8 0 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 14407
+D2
+nothing special.
+~
+~
+0 -1 14404
+S
+#14403
+A small dirt road.~
+You stand on a small dirt road. There is nothing very special about this road.
+It looks like it is very old and use to belong to a much greater road.
+~
+84 8 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3525
+D2
+nothing special.
+~
+~
+0 -1 14407
+S
+#14404
+A small dirt road.~
+You stand on a fairly well beaten dirt path that leads through thick
+forest.  You cannot see much in any direction because the trees block just
+about everything.
+~
+84 8 0 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 14402
+D1
+~
+~
+0 -1 21100
+D2
+The small dirt road continues to the south.~
+~
+0 -1 14405
+S
+#14405
+A turn in the road.~
+The path turns here, dissapearing north and westward into the forest.
+~
+84 8 0 1 99 2
+D0
+The small dirt road continues to the north.~
+~
+0 -1 14404
+D3
+The road continues to the west.~
+~
+0 -1 14406
+S
+#14406
+A small dirt road.~
+You stand on a small dirt road that leads through this thick forest.  The road
+turns here leading away east and south.
+~
+84 8 0 1 99 2
+D1
+The small dirt road continues to the east.~
+~
+0 -1 14405
+D2
+nothing special.
+~
+~
+0 -1 14408
+D3
+The Drawbridge
+~
+~
+0 -1 2030
+S
+#14407
+A small dirt road.~
+You stand on a small dirt road. There is nothing very special about this road.
+It looks like it is very old and use to belong to a much greater road.
+~
+84 8 0 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 14403
+D2
+nothing special.
+~
+~
+0 -1 14402
+S
+#14408
+A small dirt road.~
+You stand on a small dirt road leading through this thick forest.  To the 
+south you can hear the sounds of a small river.
+~
+84 8 0 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 14406
+D2
+The northern bank of a small river lies to the south.~
+~
+0 -1 14409
+S
+#14409
+The northern bank of a small river.~
+You are standing on the northern bank of a small river, at which the forest
+ends.
+~
+84 8 0 1 99 2
+D0
+There is a small path to the north.~
+~
+0 -1 14408
+D2
+The small river.~
+~
+0 -1 14410
+S
+#14410
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+84 8 8224 1 99 7
+D0
+The northern bank of the river lies to the north.~
+~
+0 -1 14409
+D1
+The river continues.
+~
+~
+0 -1 3550
+D3
+The river continues to the west.~
+~
+0 -1 14411
+S
+#14411
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+84 8 8224 1 99 7
+D1
+The river continues to the east.~
+~
+0 -1 14410
+D3
+The river continues to the west.~
+~
+0 -1 14412
+S
+#14412
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+84 8 4128 1 99 7
+D1
+The river continues to the east.~
+~
+0 -1 14411
+D2
+There is a huge running to the south.~
+~
+0 -1 14413
+S
+#14413
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu.  It is quite wide, and flows
+eastward with some strength.  There is a small river that breaks away to the
+north-east.
+~
+84 8 8224 1 99 7
+D0
+A small river lies to the north.~
+~
+0 -1 14412
+D1
+that the Yansu intersects some great river to the east.~
+~
+0 -1 14437
+D3
+The river flows west.~
+~
+0 -1 14414
+S
+#14414
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 4128 1 99 7
+D1
+The river flows from the east.~
+~
+0 -1 14413
+D2
+The river continues.
+~
+~
+0 -1 14415
+S
+#14415
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 8208 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 14414
+D3
+The river flows west.~
+~
+0 -1 14416
+S
+#14416
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 8224 1 99 7
+D1
+The river flows from the east.~
+~
+0 -1 14415
+D3
+The river flows west.~
+~
+0 -1 14417
+S
+#14417
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 8224 1 99 7
+D0
+The northern bank of the river lies to the north.~
+~
+0 -1 14418
+D1
+The river flows from the east.~
+~
+0 -1 14416
+D3
+The river flows west.~
+~
+0 -1 14420
+S
+#14418
+The northern bank of the Great River Yansu.~
+You stand on the northern bank of the Yansu River. There are is some open
+space all around you. You can see a small shack to the north.
+~
+84 8 0 1 99 1
+D0
+a small shack.~
+~
+0 -1 14419
+D2
+The river lies to the south.~
+~
+0 -1 14417
+S
+#14419
+A small shack.~
+You stand in a small but well kept shack. You can see a small bed to the 
+far right of the room and some fishing gear in a neat pile to the left.
+~
+84 8 0 1 99 1
+D2
+The northern bank of the Yansu River.~
+~
+0 -1 14418
+S
+#14420
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 8224 1 99 7
+D1
+The river flows from the east.~
+~
+0 -1 14417
+D3
+The river flows west.~
+~
+0 -1 14421
+S
+#14421
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 4128 1 99 7
+D1
+The river flows from the east.~
+~
+0 -1 14420
+D2
+The river continues.
+~
+~
+0 -1 14422
+D3
+You might make it to that small cave before the river flows downward.~
+~
+0 -1 14439
+S
+#14422
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 8208 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 14421
+D3
+The river flows west.~
+~
+0 -1 14423
+S
+#14423
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 8224 1 99 7
+D1
+The river flows from the east.~
+~
+0 -1 14422
+D3
+a great golden bridge ahead of you.~
+~
+0 -1 14424
+S
+#14424
+Under the Great Bridge of Bravery.~
+You are under a massive golden bridge. It is said that in ages past that when
+Hero's from the City of Arnath fought from this bridge to their death 
+defending the city from evil invaders. Therefore the bridge was called the
+Bridge of Bravery. It is said that one can still hear the battle cries of
+some of these heros at night if one had the guts to stand in the middle of
+the bridge at midnight.
+There is a small wooden jetty here, floating on the river and a pathway
+leading up onto the bridge from it.
+There is a sign here.
+~
+84 4 73760 1 99 1
+D1
+The river flows from the east.~
+~
+0 -1 14423
+D3
+The Yansu continues to the west.~
+~
+0 -1 14438
+D4
+A path leads up onto the bridge.
+~
+~
+0 -1 14425
+E
+sign~
+                 Summit's Transport Empire
+                 =========================
+ 
+                                /---Midgaard--\
+    We run a regular service   /               \_________Elmpatris            
+    between the three major   |                              |
+    ports of call in the area.|                             /
+                              |                            /
+    Tarif: 1000 gps.          |                     ______/
+    ================           \     /--Arnath-----/
+                                \___/
+~
+S
+#14425
+The Great Bridge of Bravery.~
+You stand on a great golden bridge. It's sheer size and beauty
+puts you in awe. There seems to be two huge iron gates, one to your left
+and one to your right. You have heard that since the first age of wisdom
+there has been a great deal of tension between the two sides of the city
+of Arnath, mainly because one side is so wealthy and prosperous while
+the other side is so poor and miserable
+~
+84 12 0 1 99 1
+D0
+The gates of northern Arnath.~
+~
+0 -1 14426
+D2
+The gates to southern Arnath.~
+~
+0 -1 14427
+D5
+A path leads down to a small wooden jetty.
+~
+~
+0 -1 14424
+S
+#14426
+The Great Iron Gates of Northern Arnath.~
+You stand before a large iron gate. It is closed shut and seems to have been t
+hat way for a while now. There is a lot of rust around the huge keyhold,
+it looks like it is pickable. 
+~
+84 8 0 1 99 1
+D0
+a big and busy street.~
+gate~
+1 14414 14428
+D2
+a huge golden bridge.~
+~
+0 -1 14425
+S
+#14427
+Before the Great Iron Gates of Southern Arnath.~
+You stand before a large iron gate. It is closed shut and seems to have been t
+hat way for a while now. There is a lot of rust around the huge keyhold,
+it looks like it is pickable. 
+~
+84 12 0 1 99 1
+D0
+a huge golden bridge.~
+~
+0 -1 14425
+D2
+Through the gate you can see the bustling town of Southern Arnath.
+~
+~
+0 -1 15035
+S
+#14428
+Before the Second Gates of Arnath.~
+You are standing before the second city gates of Arnath. You can see that
+there reason for the two gates is that in case the invading army breaks throug
+the first gates, they still have to break through another set of gates. But
+the archers stations in between the city walls help a lot in deterring invadin
+g armies from ever succeeding in capturing this great city.  The brilliance of
+the whole design is that if they should break through the first gates and are
+trying to break through the second ones, the Arnathians have pots of boiling
+oil set atop the second city walls. The things is that the first city walls 
+will have the invaders trapped and they will get burned alive.
+~
+84 8 0 1 99 1
+D0
+the street continues to the north.~
+~
+0 -1 14429
+D1
+archers sanctuary~
+~
+0 -1 14902
+D2
+The Great Iron Gates of Northern Arnath lies to the south of here.~
+~
+0 -1 14426
+D3
+you see that you can go in between the first and second city walls.~
+~
+0 -1 14499
+S
+#14429
+Valor Street.~
+The sun is high and you feel much safer inside the city walls. There
+is a air of prosperity and wealth all around this town. You look around
+and see richly decorated shops and buildings.
+~
+84 8 0 1 99 1
+D0
+the street continues to the north.~
+~
+0 -1 14430
+D2
+the street continues to the south.~
+~
+0 -1 14428
+S
+#14430
+An Intersection.~
+This section of the city looks like all the others you have seen. If there is
+anything that can be said about this city is that it is consistent in that
+everything is clean and well kept. To the east lies the city park and to the
+west is the cemetary of the rich.
+~
+84 12 0 1 99 1
+D0
+the street continues to the north.~
+~
+0 -1 14431
+D1
+you see the entrance to the city park.~
+~
+0 -1 14434
+D2
+the street continues to the south.~
+~
+0 -1 14429
+D3
+the entrance to the cemetary.~
+~
+0 -1 14442
+S
+#14431
+Valor Street.~
+The sun is high and you feel much safer inside the city walls. There
+is a air of prosperity and wealth all around this town. You look around
+and see richly decorated shops and buildings.
+~
+84 8 0 1 99 1
+D0
+the street continues to the north.~
+~
+0 -1 14432
+D1
+the official weapon's shoppe of arnath
+~
+~
+0 -1 14498
+D2
+the street continues to the south.~
+~
+0 -1 14430
+D3
+the official armoury of arnath.~
+~
+0 -1 14497
+S
+#14432
+Valor Street.~
+The sun is high and you feel much safer inside the city walls. There
+is a air of prosperity and wealth all around this town. You look around
+and see richly decorated shops and buildings.
+~
+84 8 0 1 99 1
+D0
+the street continues to the north.~
+~
+0 -1 14433
+D1
+The Wizard of Arnath.~
+~
+0 -1 14496
+D2
+the street continues to the south.~
+~
+0 -1 14431
+D3
+you see a bakery and smell fresh bread in the air.~
+~
+0 -1 14495
+S
+#14433
+Valor Street.~
+The sun is high and you feel much safer inside the city walls. There
+is a air of prosperity and wealth all around this town. You look around
+and see richly decorated shops and buildings.
+~
+84 8 0 1 99 1
+D0
+Arena Way lies to the north.~
+~
+0 -1 14435
+D2
+the street continues to the south.~
+~
+0 -1 14432
+D3
+Garbok's house of hunting gear~
+~
+0 -1 14905
+S
+#14434
+Entrance to the Royal Park of Arnath.~
+You stand under a huge gate that separates you from the park itself.
+Fortunately for you the park currently open and you can go in to have a look
+at the beautifully designed park of the Great City of Arnath.
+~
+84 8 0 1 99 1
+D1
+a huge and beautiful park.~
+~
+0 -1 14441
+D3
+Valor street lies to the west.~
+~
+0 -1 14430
+S
+#14435
+The Town Square.~
+You stand in a large pebble road. You listen to the locals and
+it seems like most of them are headed for the Arena to watch the gladiators
+and fight each other and wild animal. You hear that the arena lies to the
+east of here and that the royal palace should be to your west.
+~
+84 8 0 1 99 1
+D0
+Valor street continues to the north.~
+~
+0 -1 14486
+D1
+that Arena Way lead to the east.~
+~
+0 -1 14443
+D2
+Valar street lies to the south.~
+~
+0 -1 14433
+D3
+Arena Way continues to the west.~
+~
+0 -1 14436
+S
+#14436
+Arena Way.~
+You stand in a large pebble road. You listen to the locals and
+it seems like most of them are headed for the Arena to watch the gladiators
+and fight each other and wild animal. You hear that the arena lies to the
+east of here and that the royal palace should be to your west.
+~
+84 8 0 1 99 1
+D1
+Arena Way continues to the east.~
+~
+0 -1 14435
+D3
+Arena Way
+~
+~
+0 -1 14909
+S
+#14437
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+84 8 32 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 14400
+D3
+The Great River Yansu lies to the west.~
+~
+0 -1 14413
+S
+#14438
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it really is. There has been many battles
+for control of this great river. You see the Hellfurnaces to the far west and
+wonder what lies to be discovered in those legendary mountains.
+~
+84 8 8224 1 99 7
+D1
+The Yansu contiues to the east.~
+~
+0 -1 14424
+D3
+The river continues.
+~
+~
+0 -1 3065
+S
+#14439
+Inside a Hermit's Cave.~
+You stand in a relatively large cave which is partially furnished with crude
+woodwork which resembles some sort of furniture. You look around and notice
+that there are various articles of clothing scattered about.
+~
+84 8 0 1 99 1
+D1
+The Yanus lies to the east.~
+~
+0 -1 14421
+S
+#14440
+The Court of Champions.~
+You stand in a huge court surrounded by high walls. As you look up and around 
+you see that you are standing in the Court of Champions where the great
+gladiators fight each other or wild beasts to entertain the crowd of blood
+thirsty spectators.
+~
+84 8 0 1 99 1
+D0
+the court of champions continues to the north.~
+~
+0 -1 14482
+D2
+the court of champions lie to the south.~
+~
+0 -1 14478
+S
+#14441
+In the Great Park of Arnath.~
+You stand in the famous park of Arnath. It is just as big and beautiful as you
+had expected it to be. There are lots of women and men here with their childre
+n to enjoy this beautiful day. There are also various animals ranging from
+pigeons to large wolf-dogs, which have been domesticated of course.
+~
+84 8 0 1 99 1
+D1
+Park of Arnath~
+~
+0 -1 14904
+D3
+the entrance to the park.~
+~
+0 -1 14434
+S
+#14442
+The Entrance to the Cemetary of Arnath.~
+You stand at the entrance to the cemetary of Northern Arnath. There is
+a huge iron gate that is open at the moment. You look inside and
+notice that it is relatively quiet and there doesn't seem to be too many
+people inside. This does not mean that are no "ghosts", however.
+~
+84 8 0 1 99 1
+D1
+a busy intersection.~
+~
+0 -1 14430
+D3
+cemetary~
+~
+0 -1 14903
+S
+#14443
+Arena Way.~
+You stand in a large pebble road. You listen to the locals and
+it seems like most of them are headed for the Arena to watch the gladiators
+and fight each other and wild animal. You hear that the arena lies to the
+east of here and that the royal palace should be to your west.
+~
+84 8 0 1 99 1
+D1
+arena way lies to the east.~
+~
+0 -1 14444
+D3
+a noisy intersection.~
+~
+0 -1 14435
+S
+#14444
+Arena Way.~
+You stand in a large pebble road. You listen to the locals and
+it seems like most of them are headed for the Arena to watch the gladiators
+and fight each other and wild animal. You hear that the arena lies to the
+east of here and that the royal palace should be to your west.
+~
+84 8 0 1 99 1
+D1
+Arena Way continues to the east.~
+~
+0 -1 14445
+D3
+Arena Way conitnues to the west.
+~
+~
+0 -1 14443
+S
+#14445
+Arena Way.~
+You stand in a large pebble road. You listen to the locals and
+it seems like most of them are headed for the Arena to watch the gladiators
+and fight each other and wild animal. You hear that the arena lies to the
+east of here and that the royal palace should be to your west.
+~
+84 8 0 1 99 1
+D0
+Arena Way lies to the north.~
+~
+0 -1 14446
+D1
+arena way~
+~
+0 -1 14908
+D3
+Arena Way continues to the west.~
+~
+0 -1 14444
+S
+#14446
+Arena Way.~
+You stand in a large pebble road. You listen to the locals and
+it seems like most of them are headed for the Arena to watch the gladiators
+and fight each other and wild animal. You hear that the arena lies to the
+east of here and that the royal palace should be to your west.
+~
+84 12 0 1 99 1
+D0
+The Southern Entrance of the Arena of Arnath lies to the north.~
+~
+0 -1 14447
+D2
+Arena Way continues to the south.
+~
+~
+0 -1 14445
+S
+#14447
+Southern Entrance to the Arena of Arnath.~
+You stand at the entrance to a huge arena. You can hear lots of fighting noise
+s and people cheering and booing. There is a smell of blood in the air and 
+you know that you will be in for a heck of a show.
+~
+84 8 0 1 99 1
+D0
+a balcony.~
+~
+0 -1 14481
+D1
+the walkway continues to the east.~
+~
+0 -1 14466
+D2
+Arena Way lies to the south.~
+~
+0 -1 14446
+D3
+the walkway lies to the west.~
+~
+0 -1 14448
+S
+#14448
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D1
+The southern entrance to the arena lies to the east.~
+~
+0 -1 14447
+D3
+The walkway continues to the west.~
+~
+0 -1 14449
+S
+#14449
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+The walkway continues to the north~
+~
+0 -1 14450
+D1
+The walkway continues to the east.~
+~
+0 -1 14448
+S
+#14450
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+The walkway continues to the north.~
+~
+0 -1 14451
+D2
+The walkway continues to the south.~
+~
+0 -1 14449
+S
+#14451
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+the western entrance to the arena lies to the north.~
+~
+0 -1 14452
+D2
+The walkway continues to the south.~
+~
+0 -1 14450
+S
+#14452
+The Western Entrance to the Arena of Arnath.~
+You stand at the western entrance to the arena of arnath. There is 
+a large and beautiful balcony to the east and a walkway continues to the north
+and south of here.
+~
+84 8 0 1 99 1
+D0
+the walkway continues to the north.~
+~
+0 -1 14453
+D1
+a large and beautiful balcony.~
+~
+0 -1 14483
+D2
+the walkway continues to the south.~
+~
+0 -1 14451
+D3
+Valor Street lies to the west.~
+~
+0 -1 14490
+S
+#14453
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+the walkway continues to the north.~
+~
+0 -1 14454
+D2
+the western entrance to the arena lies to the south.~
+~
+0 -1 14452
+S
+#14454
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+The walkway continues to the north.~
+~
+0 -1 14455
+D2
+the walkway continues to the south.~
+~
+0 -1 14453
+S
+#14455
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D1
+the walkway continues to the east.~
+~
+0 -1 14456
+D2
+the walkway continues to the south.~
+~
+0 -1 14454
+S
+#14456
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D1
+the northern entrance to the arena~
+~
+0 -1 14457
+D3
+the walkway continues to the west.~
+~
+0 -1 14455
+S
+#14457
+The northern Entrance to the Arena of Arnath.~
+You stand at the northern entrance to this huge arena. Unfortunately the 
+entrance seems to be closed for the time being. There is a note on the wall
+that says that it is scheduled to be opened again soon.
+~
+84 8 0 1 99 1
+D0
+Champion Street~
+~
+0 -1 14907
+D1
+the walkway continues to the east.~
+~
+0 -1 14458
+D2
+A large and beautiful balcony.~
+~
+0 -1 14484
+D3
+the walkway continues to the west.~
+~
+0 -1 14456
+S
+#14458
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D1
+the walkway continues to the east.~
+~
+0 -1 14459
+D3
+the northern entrance lies to the west.~
+~
+0 -1 14457
+S
+#14459
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D2
+the walkway continues to the south.~
+~
+0 -1 14460
+D3
+the walkway continues to the west.~
+~
+0 -1 14458
+S
+#14460
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+the walkway continues to the north.~
+~
+0 -1 14459
+D2
+the walkway lies to the south.~
+~
+0 -1 14461
+S
+#14461
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+the walkway lies to the north.~
+~
+0 -1 14460
+D2
+the eastern entrance lies to the south.~
+~
+0 -1 14462
+S
+#14462
+A Busy Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+the walkway lies to the north.~
+~
+0 -1 14461
+D2
+the walkway continues to the south.~
+~
+0 -1 14463
+D3
+you see a large and beautiful balcony.~
+~
+0 -1 14485
+S
+#14463
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+the eastern entrance lies to the north.~
+~
+0 -1 14462
+D2
+the walkway lies to the south.~
+~
+0 -1 14464
+S
+#14464
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+the walkway lies to the north.~
+~
+0 -1 14463
+D2
+the walkway lies to the south.~
+~
+0 -1 14465
+S
+#14465
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D0
+the walkway lies to the north.~
+~
+0 -1 14464
+D3
+the walkway lies to the west.~
+~
+0 -1 14466
+S
+#14466
+The Walkway.~
+You stand in a busy walkway. There are spectators going from one court to anot
+er via this walkway. Everyone seems to be very excited and do not seem to
+notice you at all as they hurry to catch the next fight.
+~
+84 8 0 1 99 1
+D1
+the walkway lies to the east.~
+~
+0 -1 14465
+D3
+the southern entrance lies to the west.~
+~
+0 -1 14447
+S
+#14467
+The Court of Lions.~
+You stand in an open field full of lions. It's just you and them now, lets see
+if you have what it takes to be a gladiator...
+~
+84 8 0 1 99 1
+D0
+a court of death~
+~
+0 -1 14468
+D1
+some stairs that leads east and down to a dark room.~
+~
+0 -1 14479
+D2
+you see some stairs that leads down south.~
+~
+0 -1 14480
+S
+#14468
+The Court of Death.~
+You stand in a Court of Death. These courts are called thus because the
+fighters usually are slaves captured in wars who are forced to fight to the 
+death if the want to live.
+~
+84 8 0 1 99 1
+D0
+another court of death lies to the north.~
+~
+0 -1 14469
+D2
+the court of lions lies to the south.~
+~
+0 -1 14467
+S
+#14469
+The Court of Death.~
+You are standing in a court of death. Once you step into here you must kill
+your opponent or be killed. It is up to you whether you want to let your
+opponent live but just remember that he will kill you every chance he gets.
+~
+84 8 0 1 99 1
+D0
+the court of death~
+~
+0 -1 14470
+D2
+a court of death lies to the south.~
+~
+0 -1 14468
+D4
+the stairs lead up to a large and beautiful balcony.~
+~
+0 -1 14483
+S
+#14470
+The Court of Death.~
+You stand in a court of death. You can either kill you opponent of be killed.
+luckily for you the fighters are no very tough.
+~
+84 8 0 1 99 1
+D0
+the court of lions lies to the north.~
+~
+0 -1 14471
+D2
+the court of death lies to the south.~
+~
+0 -1 14469
+S
+#14471
+The Court of Goergs.~
+You stand in a huge open field. This is one of the most popular courts because
+it is one of the most grotesque courts. The main attraction here is not the
+slave fighting for his death but a huge creature these people call Georgs.
+These creatures are total monsters, complete with slime and abnormal
+features. These monsters are known for the way they defeat their opponents,
+they simply work their way into position to bite you head off and just bite it
+off.
+~
+84 8 0 1 99 1
+D1
+the court of death.~
+~
+0 -1 14472
+D2
+the court of death.~
+~
+0 -1 14470
+S
+#14472
+The Court of Death.~
+You stand in a wide field. There is a man looking at you with hungry eyes.
+~
+84 8 0 1 99 1
+D1
+the court of lions lies to the east.~
+~
+0 -1 14473
+D3
+the court of lion lies to the south.~
+~
+0 -1 14471
+D4
+the stairs lead up to a large and beautiful balcony.~
+~
+0 -1 14484
+S
+#14473
+The Court of Lions.~
+You stand in an open field. There are people watching you from the walkways
+and from the balconies. You feel the pressure to kill or be killed.
+~
+84 8 0 1 99 1
+D2
+the court of amatuers~
+~
+0 -1 14474
+D3
+the court of death.~
+~
+0 -1 14472
+S
+#14474
+The Court of Amatuers.~
+You stand in a wide open field. There is a savage looking man staring at you
+as if he wanted to kill you. Actually spectators above you are cheering him on
+~
+84 8 0 1 99 1
+D0
+the court of lions~
+~
+0 -1 14473
+D2
+the court of death.~
+~
+0 -1 14475
+S
+#14475
+The Court of Amatuers.~
+This is the court where survivors of the court of death advance to before 
+they get to go to the big time stuff, the court of champions. Most people
+do not make it this far even, so you should consider youself quite a fighter.
+~
+84 8 0 1 99 1
+D0
+the court of amatuers.~
+~
+0 -1 14474
+D2
+the court of amatuers~
+~
+0 -1 14476
+D4
+the stairs lead up to a large balcony.~
+~
+0 -1 14485
+S
+#14476
+The Court of Amatuers.~
+You are standing in a wide open court. The other fighters that have survived
+as long as you have are now here and hungry to play in the court of champions
+because you know that once you are a champion you earn your freedom and will
+no longer have to fight unless you choose to, and most people who make it
+that far choose to because they make a lot of money.
+~
+84 8 0 1 99 1
+D0
+the court of amatuers.~
+~
+0 -1 14475
+D2
+the Court of Lions.~
+~
+0 -1 14477
+S
+#14477
+The Court of Lions.~
+You stand in a wide open field with lots of lions. The court of champions
+lie just to the west, all you have to do not is kill these stupid lions and yo
+u will be free and wealthy.
+~
+84 8 0 1 99 1
+D0
+the court of amatuers~
+~
+0 -1 14476
+D3
+the court of champions.~
+~
+0 -1 14478
+S
+#14478
+The Court of Champions.~
+You have reached the ultimate level for aspiring gladiators. Here you can see
+that there are actually a lot of people who have made it this far. It is also
+good because you no longer have to fight to the death, unless you choose to.
+~
+84 8 0 1 99 1
+D0
+the court of champions continues to the north.~
+~
+0 -1 14440
+D1
+The Court of Lions.~
+~
+0 -1 14477
+D4
+the stairs lead up to a large and beautiful balcony.~
+~
+0 -1 14481
+S
+#14479
+The Lion Pit.~
+You stand in a lion pit. There are lions everywhere. This is much worse
+than the court of lions because this is where all those lions from all
+the courts are being stored.
+~
+84 8 0 1 99 1
+D3
+some stairs that lead upward towards the west.~
+~
+0 -1 14467
+S
+#14480
+The Goerg Pit.~
+You stand in a huge pit that smells very bad. There are a lot of foul smelling
+creatures that are tied up and ready to be brought out to the courts to
+entertain the public with the way they kill men.
+~
+84 8 0 1 99 1
+D0
+you see some stairs that lead up and to the north.~
+~
+0 -1 14467
+S
+#14481
+A Large and Beautiful Balcony.~
+You stand in a huge and beautiful balcony. Everything is nicely decorated
+and there are plenty of waiters to serve you. You look down and see that there
+are people fighting in the various courts. You can see some stairs that leads
+down into the main fighting area. There are guards there to make sure nobody
+tries to come up of course.
+~
+84 8 0 1 99 1
+D2
+The Southern Entrance to the Arena of Arnath.~
+~
+0 -1 14447
+D5
+The stairs lead down into the court of champions.~
+~
+0 -1 14478
+S
+#14482
+The Court of Champions.~
+You stand in a huge court surrounded by high walls. As you look up and around 
+you see that you are standing in the Court of Champions where the great
+gladiators fight each other or wild beasts to entertain the crowd of blood
+thirsty spectators.
+~
+84 8 0 1 99 1
+D2
+the court of champions lie to the south.~
+~
+0 -1 14440
+S
+#14483
+A Large and Beautiful Balcony.~
+You stand in a huge and beautiful balcony. Everything is nicely decorated
+and there are plenty of waiters to serve you. You look down and see that there
+are people fighting in the various courts. You can see some stairs that leads
+down into the main fighting area. There are guards there to make sure nobody
+tries to come up of course.
+~
+84 8 0 1 99 1
+D3
+the weatern entrance to the arena.~
+~
+0 -1 14452
+D5
+some stairs lead down into a court of death.~
+~
+0 -1 14469
+S
+#14484
+A Large and Beautiful Balcony.~
+You stand in a huge and beautiful balcony. Everything is nicely decorated
+and there are plenty of waiters to serve you. You look down and see that there
+are people fighting in the various courts. You can see some stairs that leads
+down into the main fighting area. There are guards there to make sure nobody
+tries to come up of course.
+~
+84 8 0 1 99 1
+D0
+the northern entrance to the arena.~
+~
+0 -1 14457
+D5
+some stairs leads down into a court of death.~
+~
+0 -1 14472
+S
+#14485
+A Large and Beautiful Balcony.~
+You stand in a huge and beautiful balcony. Everything is nicely decorated
+and there are plenty of waiters to serve you. You look down and see that there
+are people fighting in the various courts. You can see some stairs that leads
+down into the main fighting area. There are guards there to make sure nobody
+tries to come up of course.
+~
+84 8 0 1 99 1
+D1
+the eastern entrance to the arena.~
+~
+0 -1 14462
+D5
+some stairs leads down into the court of amatuers.~
+~
+0 -1 14475
+S
+#14486
+Valor Street.~
+The sun is high and you feel much safer inside the city walls. There
+is a air of prosperity and wealth all around this town. You look around
+and see richly decorated shops and buildings.
+~
+84 8 0 1 99 1
+D0
+Valor street continues to the north.~
+~
+0 -1 14487
+D2
+a noisy intersection lies to the south.~
+~
+0 -1 14435
+D3
+The Florist of Arnath.~
+~
+0 -1 14494
+S
+#14487
+Valor Street.~
+The sun is high and you feel much safer inside the city walls. There
+is a air of prosperity and wealth all around this town. You look around
+and see richly decorated shops and buildings.
+~
+84 8 0 1 99 1
+D0
+Valor Street continues to the north.~
+~
+0 -1 14488
+D2
+Valor street continues to the south.~
+~
+0 -1 14486
+D3
+The Drunk Horse Bar and Saloon.~
+~
+0 -1 14493
+S
+#14488
+Valor Street.~
+The sun is high and you feel much safer inside the city walls. There
+is a air of prosperity and wealth all around this town. You look around
+and see richly decorated shops and buildings.
+~
+84 8 0 1 99 1
+D0
+Valor Street continues to the north.~
+~
+0 -1 14489
+D2
+Valor Street continues to the south.~
+~
+0 -1 14487
+S
+#14489
+Valor Street.~
+The sun is high and you feel much safer inside the city walls. There
+is a air of prosperity and wealth all around this town. You look around
+and see richly decorated shops and buildings.
+~
+84 8 0 1 99 1
+D0
+Valor Street continues to the north.~
+~
+0 -1 14490
+D2
+Valor Street continues to the south.~
+~
+0 -1 14488
+D3
+a clothes shop~
+~
+0 -1 14492
+S
+#14490
+Valor Street.~
+The sun is high and you feel much safer inside the city walls. There
+is a air of prosperity and wealth all around this town. You look around
+and see richly decorated shops and buildings.
+~
+84 12 0 1 99 1
+D0
+Valor Street~
+~
+0 -1 14906
+D1
+The Western Entrance to the Arena of Arnath lies to the east.~
+~
+0 -1 14452
+D2
+Valor Street continues to the south.~
+~
+0 -1 14489
+D3
+The Traveler's Inn.~
+~
+0 -1 14491
+S
+#14491
+The Traveler's Inn.~
+You are in the lobby of a huge wodden inn. The decoration is so beautiful
+that you wonder how any human being could have the money to build this
+inn. You bet the food here must be expensive. You see some stairs that
+must lead up to the bedrooms.
+~
+84 8 0 1 99 1
+D1
+Valor Street lies to the east.~
+~
+0 -1 14490
+S
+#14492
+Verin's Clothes Shoppe.~
+You stand in a huge shop full of beautiful clothes. Verin is here talking to s
+ome of her customers. She looks at you and gives you a friendly smile. 
+~
+84 8 0 1 99 1
+D1
+Valor Street lies to the east.~
+~
+0 -1 14489
+S
+#14493
+The Drunk Horse Bar and Saloon.~
+You stand in a richly decorated bar with many circular tables. The men
+sitting around the tables seem to be playing some sort of game, or perhaps
+they are gambling. There are women in very skimpy clothes dancing and flirting
+with the men so as to get an extra tip or two.
+~
+84 8 0 1 99 1
+D1
+Valor Street lies to the east.~
+~
+0 -1 14487
+S
+#14494
+The Florist of Arnath.~
+You stand in a very pleasant smelling room. There are exotic and beautiful
+flowers everywhere. You also see small figurines of cute little cats and dogs.
+The florist sees you and asks you if there is anything she could do for you.
+~
+84 8 0 1 99 1
+D1
+Valor Street lies to the east.~
+~
+0 -1 14486
+S
+#14495
+The Bakery of Arnath.~
+This is a large room with fresh bread piled very high. There are also other
+baked good such as muffins and cakes, some of which look very, very tasty.
+~
+84 8 0 1 99 1
+D1
+Valor Street lies to the east.~
+~
+0 -1 14432
+S
+#14496
+The Wizard's House.~
+You stand in a small and cozy house. This is where the famed Wizard of Arnath
+lives and works. He gives free magical consultation to people who are worthy
+which basically means that if you give him a hefty donation, he'll feel you
+are worthy.
+~
+84 8 0 1 99 1
+D3
+Valor Street lies to the west.~
+~
+0 -1 14432
+S
+#14497
+The Official Armoury of Arnath.~
+You stand amidst various pieces of armour. You seesome of which look like
+they are very old, but there are some that are brand new. You notice that
+you could not buy this stuff unless you had a lot of money stored up.
+~
+84 8 0 1 99 1
+D1
+Valor Street lies to the east.~
+~
+0 -1 14431
+S
+#14498
+The Official Weapons Shoppe of Arnath.~
+You stand in a room full of weapons. There are mostly sword but you can also
+see some spears and maces. You wonder who makes all this stuff, but when you s
+ee the strong man who introduces himself as Ben you know that he must be the
+blacksmith who pounded these weapons into shape.
+~
+84 8 0 1 99 1
+D3
+Valor Street lies to the west.~
+~
+0 -1 14431
+S
+#14499
+Archer's Sanctuary.~
+You are standing in between the first and second city walls of Arnath. This is
+the place where the legendary Archers of Arnath, placed themselves to shoot at
+the invading orc armies of the last age. As you look south you can see many
+arrow slits put there for that sole purpose. You have head that this defensive
+design of the city walls continue all around the city of Northern Arnath, but
+it intersects the tunnel below the Blue, White, and Red Temples. The tunnels
+lead to the west,north, and south gates, or so you have heard.
+~
+84 8 0 1 99 1
+D1
+Valor Street lies to the east.~
+~
+0 -1 14428
+D3
+archers sanctuary~
+~
+0 -1 14901
+S
+$~
+#999999

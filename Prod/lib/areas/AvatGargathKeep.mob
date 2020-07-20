@@ -1,0 +1,646 @@
+#15900
+mob guardian daemon~
+the Guardian Daemon~
+A Guardian Daemon stands here, eliminating intruders.
+~
+The enormous beast reeks of sulphur. His long elephant-like snout pokes out
+from a long furry face with pitch black eyes. He wears a few dirty rags for
+clothing, and bears long, sharp claws and fangs.
+~
+319514 32769 136249361 8 -1000 S
+42 2 -24 100d99+10000 10d13+40
+900000 415000
+8 8 0
+0 0 22 21 21 20 20 16
+SKILL=SPELL_FIRE_BREATH 90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#15901
+mob gatehouse guard~
+the gatehouse guard~
+A gatehouse guard is here, gambling with cards and dice.
+~
+Before you stands a man with palid skin and a gaunt face. He seems to be
+worried that you have managed to make it into his bedroom.
+~
+319498 1 136249361 8 0 S
+42 2 -24 100d59+12500 10d19+15
+800000 389500
+8 8 0
+0 0 21 23 21 21 19 17
+#15902
+mob displacer beast~
+the displacer beast~
+A hungry displacer beast roams the halls.
+~
+This is a large, four legged beast that resembles a puma, except that it has
+two large tenticles growing out of it's back, and green glowing eyes.
+~
+319500 1 136249361 136 -200 S
+42 2 -24 90d19+7000 15d7+50
+850000 375000
+8 8 0
+0 0 21 20 21 20 17 19
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#15903
+mob servant~
+the servant~
+A servant cringes at you approach.
+~
+This man cowers at your approach.  He babbles on and on about how his master
+wishes only to better the lives of the people of the mortal plane.  His mouth
+is filled with rotting teeth, and his language is of poor quality.
+~
+262282 1 136249361 8 200 S
+42 2 -24 100d79+8000 10d19+0
+740000 305000
+8 8 0
+0 0 22 22 20 20 17 17
+#15904
+mob chaelin jester~
+Chaelin the jester~
+Chaelin, jester of Gargath is here, thinking of new jokes.
+~
+This man has a round, fat face. His expression, however, contains an evil
+grin and furrow brows. Perhaps you seem to inspire ideas for his next
+performance before Gargath....
+~
+262282 32769 136249361 136 500 S
+42 1 -26 45d19+8875 10d19+65
+945000 555555
+8 8 0
+0 0 21 20 21 20 18 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+#15905
+mob chef master~
+the master chef~
+The Master Chef stands here, rotating the spit of meat.
+~
+The man is clad in a bloody apron and a tall, white, dirty hat. Several of
+the cut of meat he has saved out of the counter resemble human limbs. He
+smiles at you with an evil grin, and slowing beings moving in your direction.
+~
+319498 1 136249361 8 -500 S
+42 1 -26 90d19+18250 30d9+10
+980000 515000
+8 8 0
+0 0 22 20 21 20 18 20
+#15906
+mob master blacksmith smith~
+the master blacksmith~
+The Master Blacksmith is here, pounding on a slab on metal.
+~
+This man has dull grey skin and fiery red eyes. His bulging muscles seem to
+be the work of more a god than a man. He beats down heavily on the strange
+metal slab he is shaping.
+~
+319498 1 136249361 8 0 S
+46 -15 -30 100d89+35500 25d23+35
+2650000 1196500
+8 8 0
+0 0 22 21 19 19 19 17
+SKILL=SKILL_SECOND 75
+SKILL=SKILL_THIRD 30
+SKILL=SKILL_FOURTH 20
+SKILL=SKILL_RAGE 75
+#15907
+mob wraith wraithform~
+the wraithform~
+A translucent being bounds across the room and lunges at you.
+~
+You can see a wispy humanoid shape that lacks a definate shape and legs.
+Two glowing yellow orbs serve as eyes, and ghost-like claws lunge out from
+the darkness.
+~
+1368074 1 136249361 136 -200 S
+42 2 -24 90d19+6500 5d19+58
+870000 309000
+8 8 0
+0 0 21 20 19 20 20 20
+#15908
+mob brewer~
+the brewer~
+The brewer is here, chugging ale.
+~
+This man has an IMMENSE beer belly. He hiccups and pours himself another
+glass of ale.
+~
+262154 1 136249361 8 200 S
+42 2 -24 80d19+13825 8d10+60
+800000 350000
+8 8 0
+0 0 22 22 20 20 18 17
+#15909
+mob phase spider~
+the phase spider~
+The phase spider shifts in from another plane.
+~
+An immense, hairy spider seems to form from thin air before your eyes. A
+drip of poison rolls of one of his fangs....
+~
+385034 1 136249361 1048584 0 S
+42 2 -24 100d69+12000 12d10+30
+807000 362555
+8 8 0
+0 0 21 21 19 20 18 16
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#15910
+mob darkenbeast beast~
+The darkenbeast~
+The Darkenbeast is here, chewing on a large bone.
+~
+Before you is a beast with a hunched back and wide, muscular shoulders. You
+can barely make out the shape of his black, sooty body against the dark walls
+of the room. With an irritated growl, he pulls back a huge, three-fingered
+claw.
+~
+319498 32769 136249361 1048712 -1000 S
+44 1 -28 30d19+11500 5d15+30
+1454500 675000
+8 8 0
+0 0 21 21 20 20 18 20
+SKILL=SPELL_GAS_BREATH 90
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#15911
+mob shadow~
+the shadow~
+A shadow stalks silently through the halls.
+~
+A dark shape darts about the room, hiding and then reappearing. It has no
+definite outline against the dim light.
+~
+1368072 32769 136249361 1048712 -200 S
+42 2 -24 90d19+7000 20d10+20
+900000 385000
+8 8 0
+0 0 21 20 21 19 17 16
+SKILL=SPELL_LIGHTNING_BREATH 90
+#15912
+mob dark knight~
+the dark knight of Tarterus~
+A dark knight of Tarterus stands here, sparring for practice.
+~
+This man's face is hidden behind a black visor made of shiny steel. He is
+clad entirelt in pitch black armor, and spars violently with
+he opponents.
+~
+262154 1 136249361 8 -1000 S
+42 2 -24 80d19+15000 25d7+10
+870000 383450
+8 8 0
+0 0 21 20 20 19 19 16
+#15913
+mob dancing sword~
+the dancing sword~
+A magically animated sword rises and attacks!
+~
+This animated blade glows brightly with magic. It silently attacks.
+~
+319498 1 136249361 136 0 S
+42 2 -24 90d19+6780 20d10+1
+900000 355000
+8 8 0
+0 0 21 23 21 19 20 20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#15914
+mob tyneri weaponmaster master~
+Tyneri, weaponmaster of Gargath~
+Tyneri, weaponmaster of Gargath stands here, grinning at you.
+~
+This man has pallid skin and long pointed ears. He twirls his blade in the
+usual elfin style, and look upon you as if you were merely a bug that must be
+squashed by his boot.
+~
+319498 32769 136249361 136 -1000 S
+48 -20 -25 50d19+20000 30d10+50
+3250000 1600000
+8 8 0
+0 0 22 21 20 21 17 17
+SKILL=SPELL_FROST_BREATH 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#15915
+mob marble golem~
+the marble golem~
+A marble golem stands in your path.
+~
+A large humanoid made entirely of black marble has moved to block the hallway.
+It stands over 10 feet tall.
+~
+319498 1 136249393 8 0 S
+44 1 -28 100d100+19900 28d13+65
+1250000 600000
+8 8 0
+0 4 22 23 20 19 19 18
+#15916
+mob keeper beast~
+the keeper~
+The beast keeper stands here, preparing a whip.
+~
+The man wears a wide brimmed hat and is clad is dull khaki. He is short yet
+has the build of a wieght lifter.
+~
+262154 1 136249361 8 -450 S
+42 2 -24 100d69+11000 9d9+70
+890000 323875
+8 8 0
+0 0 22 22 20 21 19 17
+#15917
+mob mizral avatar jealousy~
+Mizral, Avatar of Jealousy~
+Mizral, Avatar of Jealousy is here, glaring at you.
+~
+Mizral glares at you with deep green eyes. You can see that he is studying
+all that you own and your bodily features, wishing to take the best that you o
+own for himself.
+~
+1074061322 32769 136249393 136 -1000 S
+44 -20 -28 20000d2+500 10d10+10
+1500000 700000
+8 8 0
+0 0 22 20 20 19 17 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#15918
+mob astral discourser~
+the astral discourser~
+The Astral Discouser is here, lost in meditation.
+~
+This creatures body is nearly transparent, except for several glowing patches
+which cover its skin. It's glowing blue eyes seem to stare off into empty
+space, as if the being is lost in a trance.
+~
+262154 32769 136249361 131208 0 S
+42 2 -24 90d19+6800 7d11+70
+900000 400000
+8 8 0
+0 0 21 22 19 21 18 16
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+#15919
+mob jiblat~
+the jiblat~
+The Jiblat is here, wallowing in it's own excreted ooze.
+~
+This being is no more than a wallowing ball of glowing slime.
+~
+327690 1 136249361 136 0 S
+42 2 -24 50d19+8000 12d12+50
+996000 408000
+8 8 0
+0 0 21 20 21 19 20 18
+#15920
+mob crimson doom~
+the crimson doom~
+A cloud of bright red gas fills the room.
+~
+Amidst the hazy, seemingly toxic gas a spectral face lunges out to gnaw
+at your flesh.
+~
+262154 32769 136249361 136 -1000 S
+42 2 -24 3000d3+500 20d10+20
+900000 385000
+8 8 0
+0 0 21 20 21 19 20 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+#15921
+mob Ocara torture master~
+Ocara, master of torture~
+The master of torture, Ocara, is here.
+~
+This woman has large upper arms and long black hair. She carries a white hot i
+iron used for branding prisoners.
+~
+1074003978 1 136249393 136 -1000 S
+42 -10 -28 6000d3+10 40d10+50
+1463850 735000
+8 8 0
+0 0 21 20 21 20 18 19
+SKILL=SKILL_RAGE 75
+#15922
+mob invisible stalker~
+the invisible stalker~
+You feel a slight breeze on the back of your neck.
+~
+There appears to be nothing else in the room.
+~
+1368072 1 136249361 138 0 S
+42 2 -24 100d49+5000 20d10+5
+860000 397375
+8 8 0
+0 0 21 20 21 20 20 19
+#15923
+mob acolyte~
+the acolyte~
+An acolyte of Merkuul stands here, washing robes.
+~
+The old and humble man is bent over a tub washing out a spot in a robe.
+~
+294920 1 136249361 8 0 S
+42 2 -24 80d19+14090 40d4+10
+900000 375000
+8 8 0
+0 0 22 23 19 19 17 16
+#15924
+mob high priest~
+the High Priest~
+The High Priest stands here, uttering prayers to his god.
+~
+The high priest of the temple is dressed is long black robes, and wears a
+white skull-shaped mask over his face. He wears a necklace made of bones
+around his neck.
+~
+262154 32769 136249361 136 -1000 S
+44 1 -28 30d19+11000 60d7+30
+1463025 725000
+8 8 0
+0 6 22 23 19 21 17 17
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+#15925
+mob merkuul lord bones~
+Merkuul, mighty Lord of Bones~
+Merkuul, mighty Lord of Bones is here, grinning evilly.
+~
+The lord of bones don a black, sooty robes that covers all but his hands and
+head. Each of his hands bares no flesh, but rather are made only of bones. His
+head resembles an enlarged human skull.
+~
+1107615754 32769 136249361 67109000 -1000 S
+44 -5 -30 35d19+14000 40d17+20
+1950000 852375
+8 8 0
+0 0 23 23 20 21 20 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+#15926
+mob demon pit~
+A Demon of the Pit~
+A Demon of the Pit rushes to attack fresh blood!
+~
+A howling, raging beast with red, flaming hair and yellow eyes claws
+mercilessly at your face.
+~
+319500 1 136249361 136 -1000 S
+42 2 -24 90d19+6750 25d4+50
+860000 400000
+8 8 0
+0 0 22 20 20 19 19 17
+#15927
+mob querkaf avatar hate~
+Querkaf, Avatar of Hate~
+Querkaf, Avatar of Hate is here, enraged at your entrance.
+~
+Querkaf appears to be a normal man to you at first sight, but soon begins a
+strange transformation into a grotesque demon of the outer planes as his
+hatred for you grows to god-like proportions.
+~
+1074061322 32769 136249393 136 -1000 S
+44 -10 -28 100d89+8500 3d15+5
+1500000 685000
+8 8 0
+0 0 21 20 19 19 20 20
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#15928
+mob elderiz avatar sin~
+Elderiz, Avatar of Sin~
+Elderiz, Avatar of Sin is here, polishing a dagger.
+~
+Elderiz has taken the form of a satyr, which is a half-man half-goat. He wield
+only a small dagger, but seems to posess super-human strength.
+~
+319498 32769 136249393 136 -1000 S
+44 -10 -28 100d59+7875 5d9+45
+1350000 733833
+8 8 0
+0 0 21 20 20 19 19 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+#15929
+mob pit fiend~
+the pit fiend~
+The Pit Fiend explodes is a burst of interplanar energy.
+~
+This beast has an oversized, horned head with a huge maw filled with several
+rows of yellowing sharp teeth. He bellows forth an earth shaking roar and
+grabs at you.
+~
+319514 32769 136249361 136 -1000 S
+44 1 -26 50d19+9000 40d4+70
+980000 500000
+8 8 0
+0 0 22 22 20 19 17 18
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_FIRE_BREATH 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+#15930
+mob arpedion avatar doom~
+Arpedion, Avatar of Doom~
+Arpedion, Avatar of Doom is here, feeding off of your fears.
+~
+Arpedion slowly turns towards you, holding out his hands. He wishes to make th
+attack take as long as possible, so he can feed of off your fears for a 
+longer period of time.
+~
+1074061322 32769 136249393 136 -1000 S
+44 -10 -28 50d19+11000 3d15+5
+1500000 745675
+8 8 0
+0 0 22 21 20 21 17 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#15931
+mob gargath arch duke~
+Gargath, Arch-duke of Tarterus~
+Gargath, Arch-duke of Tarterus is here, planning your demise.
+~
+Gargath is not man, nor is he beast. Two large, black horns stick out of the
+sides of his red hair atop a grey skinned face. His bulging muscles nearly
+rip through his huge shirt, and massive claws have grown from what were once
+mere fingernails. He grins evilly at you and calmly says, "ANOTHER VISITOR?
+STAY A WHILE.....STAY FOREVER!!!!!
+~
+8708126 2129921 136249361 100663432 -1000 S
+48 -25 -25 100d100+80000 20d10+40
+4250000 1750000
+8 8 1
+0 4 21 23 19 19 19 19
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 75
+SKILL=SPELL_DEMON_FLESH 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+$~
+#999999

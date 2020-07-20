@@ -1,0 +1,1446 @@
+#15900
+A secret place.~
+You have stumbled into a secret exit of Gargath Keep, an interesting
+weapon lies on the ground here.
+~
+117 269598820 1879048192 41 99 1
+S
+#15901
+Portal to the Plane of Tarterus~
+Before you lies an immense silver pool that emits a strong red aura. You
+can feel an intense heat rising out of it, and the pungent odor of sulphur
+is in the air. Many brave adventurers have ventured into the pool seeking
+fame and fortune, but few have returned to tell the horrific tales of what
+lies beyond it.
+~
+117 1048576 0 1 99 1
+D1
+The pool reveals none of its mysteries upon looking at it.
+~
+~
+0 -1 15902
+S
+#15902
+The Plane of Tarterus~
+The air here is rank with the nauseating smell of sulphur. Large grey
+clouds loom overhead showering the landscapes with a continual hail of
+stones. A dull red light seems to drift down from the heavens, allowing
+you to just make out an immense black mountain range on the horizon. The
+same pool you saw on the plane of mortals lies here, offering you an escape
+from your current surroundings.
+~
+117 1048576 0 1 99 1
+D1
+A smooth, paved road leads up into the mountains.
+~
+~
+0 -1 15903
+D3
+The pool leads back to the plane of mortals.
+~
+~
+0 -1 15901
+S
+#15903
+Road Leading Through the Mountains~
+A wide, paved road runs up and through the mountains. Although it is smooth
+and well-constructed, the climb is arduous and the sulphur in your lungs
+begins to choke you.
+~
+117 1048576 0 1 99 1
+D1
+The road continues east.
+~
+~
+0 -1 15904
+D3
+You can see a shimmering pool in the distance.
+~
+~
+0 -1 15902
+S
+#15904
+The Road Before the Keep~
+The road oddly end abruptly at a steep cliff high in the mountains. The only
+new exit is a small, worn path that seems to lead up to a large castle that
+looms overhead. Lightning begins to show in the skies and the clouds belch
+forth a shower of stone hail.
+~
+117 1048576 0 1 99 1
+D1
+The path leads up to the keep.
+~
+~
+0 -1 15905
+D3
+The road continues west.
+~
+~
+0 -1 15903
+S
+#15905
+Entrance to Gargath Keep~
+Before you stands an immense keep constructed entirely of black marble. In
+the center of the front wall has been built a huge skull, and its gaping
+maw serves as a main gateway for the castle. No signs of life can be seen
+coming from inside.
+~
+117 1048576 0 1 99 1
+D1
+The path continues into the keep.
+~
+~
+0 -1 15906
+D3
+The road continues back west.
+~
+~
+0 -1 15904
+S
+#15906
+Beneath the Murder Holes~
+As you pass through the gates and under the gatehouse, you notice four large
+murder holes constructed in the ceiling. Fortunately, no one seems to be
+manning the pots of boiling oil and lead which you can see simmering above.
+The portcullis is raised allowing free entry for any "guests".
+~
+117 1048588 0 1 99 1
+D0
+a gatehouse.
+~
+~
+0 -1 15907
+D1
+A long hallway leads off into the darkness.
+~
+~
+0 -1 15908
+D3
+The path leads back to the paved road.
+~
+~
+0 -1 15905
+S
+#15907
+The Gatehouse~
+This dingy room contains several boiling pots of oil and lead. Two dirty
+mattresses have been placed against the walls, and some racks hold weapons.
+A large windlass holds the chains for the drawbridge and portcullis.
+~
+117 269484040 0 1 99 1
+D2
+The main entrance to the keep lies to the south.
+~
+~
+0 -1 15906
+S
+#15908
+A Black Marble Hallway~
+The hallway leads forth deeper into the keep. It is lit only by small torches,
+and the dim light has made it difficult to see far ahead. Bas-reliefs of
+twisted faces and grotesque demons have been carved into the walls, and the
+sight of them begins to send chills up and down your spine.
+~
+117 269484040 0 1 99 1
+D1
+The hallway continues to the east
+~
+~
+0 -1 15909
+D3
+the main gates to the castle.
+~
+~
+0 -1 15906
+S
+#15909
+A Black Marble Hallway~
+The hallway leads forth deeper into the keep. It is lit only by small torches,
+and the dim light has made it difficult to see far ahead. Bas-reliefs of
+twisted faces and grotesque demons have been carved into the walls, and the
+sight of them begins to send chills up and down your spine.
+~
+117 269484040 0 1 99 1
+D1
+The hallway contiues east.
+~
+~
+0 -1 15915
+D2
+The hallway narrows to the south.
+~
+~
+0 -1 15910
+D3
+The hallway continues to the west.
+~
+~
+0 -1 15908
+S
+#15910
+A Dimly Lit Corridor~
+The hallway narrows a bit here as it turns south. You can faintly notice the
+scent of cooking meat. As you continue to the south the light becomes
+noticeably stronger.
+~
+117 269484040 0 1 99 1
+D0
+A black, marble hallway runs east and west to the north of here.
+~
+~
+0 -1 15909
+D2
+The hallway brightens to the south.
+~
+~
+0 -1 15911
+S
+#15911
+A Lit Corridor~
+The corridor here is lit by large torches and oil lanterns. Several
+humanoids scurry into adjacent rooms at your approach. A strong odor of
+cooking meat makes your mouth water.
+~
+117 269484044 0 1 99 1
+D0
+The corridor continues to the north.
+~
+~
+0 -1 15910
+D1
+You can see a large kitchen.
+~
+~
+0 -1 15914
+D2
+A colorful room lies to the south.
+~
+~
+0 -1 15913
+D3
+A room filled with tables and beds lies to the west.
+~
+~
+0 -1 15912
+S
+#15912
+The Servant's Quarters~
+The servants (slaves?) of the mighty Gargath have this room to call their
+own. It is humble yet clean. The servants seem to cower in fear at your
+approach, and one politely asks if you would like something to drink.
+~
+117 269484040 0 1 99 1
+D1
+The door leads into a hallway.
+~
+~
+0 -1 15911
+S
+#15913
+The Jester's Room~
+The walls of the interior of this room are covered with colorful and gaudy
+tapestries. A large and comfortable-looking bed lies against the far wall.
+Several small toys and bizarre contraptions lie on an immense bureau, and a
+work table with tools has been placed in the center of the room.
+~
+117 269484040 0 1 99 1
+D0
+The door leads to a hallway.
+~
+~
+0 -1 15911
+S
+#15914
+The Kitchen~
+The aroma of cooked meat permeates your nostrils as you enter this room. A
+large slab of meat has been stuck on a spit and is slowly rotating over a
+huge flame. Upon the walls of this room are hung various kitchen tools, and
+several open cabinets house pots and pans.
+~
+117 269484040 0 1 99 1
+D3
+A hallway leads north past the door.
+~
+~
+0 -1 15911
+S
+#15915
+A Black Marble Hallway~
+The hallway leads forth deeper into the keep. It is lit only by small torches,
+and the dim light has made it difficult to see far ahead. Bas-reliefs of
+twisted faces and grotesque demons have been carved into the walls, and the
+sight of them begins to send chills up and down your spine.
+~
+117 269484040 0 1 99 1
+D0
+A large oven glows red with heat to the north.
+~
+~
+0 -1 15916
+D1
+The hallway continues east.
+~
+~
+0 -1 15917
+D3
+The hallway continues west.
+~
+~
+0 -1 15909
+S
+#15916
+The Sweltering Smithy~
+Upon entering this room, you are hit by a wave of extremely intense heat.
+Sweat begins to ooze from your pores. On the walls are hung several suits of
+armor and various weapons, all of which appear to be of high quality. Near
+the far wall you cannot help but notice an anvil and a fiery oven used to
+heat and pound out the strange elements found on the plane of Tarterus.
+~
+117 269484044 0 1 99 1
+D2
+A black, marble hallway lies beyond the door.
+~
+~
+0 -1 15915
+S
+#15917
+A Black Marble Hallway~
+The hallway leads forth deeper into the keep. It is lit only by small torches,
+and the dim light has made it difficult to see far ahead. Bas-reliefs of
+twisted faces and grotesque demons have been carved into the walls, and the
+sight of them begins to send chills up and down your spine.
+~
+117 269484040 0 1 99 1
+D1
+The hallway continues west.
+~
+~
+0 -1 15918
+D3
+The hallway continues west.
+~
+~
+0 -1 15915
+S
+#15918
+A Black Marble Hallway~
+The hallway leads forth deeper into the keep. It is lit only by small torches,
+and the dim light has made it difficult to see far ahead. Bas-reliefs of
+twisted faces and grotesque demons have been carved into the walls, and the
+sight of them begins to send chills up and down your spine.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15920
+D2
+The hallway continues south.
+~
+~
+0 -1 15919
+D3
+The hallway continues west.
+~
+~
+0 -1 15917
+S
+#15919
+Entrance to the Cellar~
+The hallway ends abruptly with a huge tapestry depicting a battle between
+fantastic outer planar beasts. Ay your feet lies a steel trapdoor with a
+single ring fastened to its center.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15918
+D5
+The trapdoor leads down into the darkness below.
+~
+~
+0 -1 15925
+S
+#15920
+A Black Marble Hallway~
+The hallway leads forth deeper into the keep. It is lit only by small torches,
+and the dim light has made it difficult to see far ahead. Bas-reliefs of
+twisted faces and grotesque demons have been carved into the walls, and the
+sight of them begins to send chills up and down your spine.
+~
+117 269484040 0 1 99 1
+D0
+A strange golden mist hangs in the hallway to the north.
+~
+~
+0 -1 15922
+D1
+Several large tubs of bubbling water have been placed in the room to the east.
+~
+~
+0 -1 15921
+D2
+The hallway continues south.
+~
+~
+0 -1 15918
+S
+#15921
+The Bath House~
+This room has been outfitted with several large, golden bathtubs which bubble
+up with heated water. The humid air clings to your skin, and you long to be
+able to relax in one of the inviting tubs. An immense mirror has been set in
+the far wall, showing a reflection of almost the entire interior of the room.
+~
+117 1048584 0 1 99 1
+D3
+A black, marble hallway runs north and south past the room.
+~
+~
+0 -1 15920
+S
+#15922
+The Golden Rain~
+This section of the hallway is continually bathed in a mysterious shower of
+golden rain. The drops tickle your skin and then run off into drains that have
+been built into the floor. You can hear echoing of footsteps from down the
+hallway.
+~
+117 269484040 0 1 99 1
+D0
+In the dim light you can barely distinguish a staircase.
+~
+~
+0 -1 15923
+D2
+The hallway continues to the south.
+~
+~
+0 -1 15920
+S
+#15923
+A Staircase~
+Two huge statues serve as supports for a staircase that seems more than 20
+feet wide! The black marble stairs lead off into the darkness above. A faint
+scream can be heard echoing from deep within the keep.
+~
+117 269484044 0 1 99 1
+D1
+A small dusty room can be seen to the east.
+~
+~
+0 -1 15924
+D2
+A golden mist hangs in the hallway to the south.
+~
+~
+0 -1 15922
+D4
+The stairs lead up into the dark hole in the ceiling.
+~
+~
+0 -1 15929
+S
+#15924
+The Storeroom~
+Several casks of dried meats and fish line the walls of this room, giving it
+a rather unpleasant odor. Kegs filled with wine and beer have been stacked on
+thier sides. Apparently, this is where Gargath stores various supplies that
+are needed at times around the castle.
+~
+117 269484040 0 1 99 1
+D3
+A staircase leads up into the ceiling to the west.
+~
+~
+0 -1 15923
+S
+#15925
+The Brewery~
+Along the walls of this room are several immense barrels lain sideways on
+stands. Bushels of several types of common grains are stacked in the center.
+The smells of various ales and beers permeate the room.
+~
+117 269484044 0 1 99 1
+D3
+The darkness covers the hallway, making it difficult to see any further.
+~
+~
+0 -1 15926
+D4
+The stairs lead up through the trapdoor.
+~
+~
+0 -1 15919
+S
+#15926
+The Web Ridden Corridor~
+Huge webs have been spun across much of this dusty hallway, making it
+difficult to maneuver. Several small rats skitter at your approach, and you
+get the feeling that no one has come down this way in quite some time.
+~
+117 269484040 0 1 99 1
+D1
+Several barrels have been stacked at the end of the hallway.
+~
+~
+0 -1 15925
+D3
+The webs continue to the west.
+~
+~
+0 -1 15927
+S
+#15927
+At the End of the Hallway~
+A truly gigantic web has been spun across the entire end of this hallway. It
+seems to pulsate with a green-yellow glow as you approach. You can retreat
+back the way you came, or venture through a door to your right.
+~
+117 269484040 0 1 99 1
+D0
+A strange hiss can be heard from the north.
+~
+~
+0 -1 15928
+D1
+The webs continue to the east.
+~
+~
+0 -1 15926
+S
+#15928
+Lair of the Darkenbeast~
+This room houses one of Gargath's many pets. Needless to say, it is not a 
+popular hangout on Saturday nights.
+~
+117 269484040 0 1 99 1
+D2
+A large web covers the hallway to the south.
+~
+~
+0 -1 15927
+S
+#15929
+The Top of the Staircase~
+Upon reaching the top of this staircase, you realize that the stairs behind
+you have disappeared! You immediately look around you, and notice exits to
+the south, east and west. A large statue placed in the southeast corner seems
+to mock you with an evil grin.
+~
+117 269484040 0 1 99 1
+D1
+A hallway lead off to the east.
+~
+~
+0 -1 15930
+D2
+A long hallway extends to the south.
+~
+~
+0 -1 15935
+D3
+The walls to the west are covered with paintings.
+~
+~
+0 -1 15945
+S
+#15930
+A Wide Hallway~
+This corridor is lit by huge lamps which hang down from rows of hideous stone
+faces that jut out of the walls at even intervals along the hallway. The air
+is humid and filled with the stench of sulphur. Your footsteps echo down the
+hallway, surely alerting anyone of your approach.
+~
+117 269484040 0 1 99 1
+D1
+The hallway continues east.
+~
+~
+0 -1 15931
+D3
+A large statue is in the room to the west.
+~
+~
+0 -1 15929
+S
+#15931
+Before the Arena~
+A somewhat large room lies ahead, and several gladiators are engaged in a 
+sparring melee. The din of their battle echos off the marble walls, drowning
+out all other sound.
+~
+117 269484040 0 1 99 1
+D1
+A large arena lies before you.
+~
+~
+0 -1 15932
+D3
+The hallway continues west.
+~
+~
+0 -1 15930
+S
+#15932
+The Battle Arena~
+Sand has been thrown across the floor of this room, while several straw
+dummies have been hung at the far end. A large door lies in the north wall,
+and a smaller exit is in the south wall. Four immense braziers have been 
+placed in the corners of the room to provide light.
+~
+117 269484044 0 1 99 1
+D0
+The room to the north is filled with racks of weapons.
+~
+~
+0 -1 15933
+D2
+a well-decorated bedroom.
+~
+~
+0 -1 15934
+D3
+The hallway continues west.
+~
+~
+0 -1 15931
+S
+#15933
+The Armory~
+Racks of shining weapons and armor adorn the walls of this room. You think
+you can hear a soft whirring noise from behind you...
+~
+117 269484040 0 1 99 1
+D2
+A large arena lies to the south.
+~
+~
+0 -1 15932
+S
+#15934
+The Weaponmaster's Chamber~
+Two immense adamantine swords have been hung in a cross above a large bed
+that has been placed against the far wall. An open closet reveals a suit of
+shining full plate mail engraved with intricate designs. Various bludgeoning
+weapons such as maces and flails have been stacked in a glass case in the
+corner.
+~
+117 269484040 0 1 99 1
+D0
+A large arena lies to the north.
+~
+~
+0 -1 15932
+S
+#15935
+The Guarded Hall~
+As you move into the hallway, two large golems lumber forth to block your way!
+The remainder of the corridor belches a cacophony of horrid screams and howls.
+The hairs on the back of your neck stand on end.
+~
+117 269484040 0 1 99 1
+D0
+A large statue stands to the south.
+~
+~
+0 -1 15929
+D2
+The hallway continues south.
+~
+~
+0 -1 15936
+S
+#15936
+The Hall of Pets~
+This hallway is lined with rows of large, steel doors. Only a small space has
+been left open for bars in each door, and occasionally one of the doors
+rattles violently. The hall is filled with the echoing screams and howls that
+send shivers down your spine.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15935
+D2
+The hallway continues south.
+~
+~
+0 -1 15937
+D3
+A dark room lit only by a dim light is to the west.
+~
+~
+0 -1 15941
+S
+#15937
+The Hall of Pets~
+This hallway is lined with rows of large, steel doors. Only a small space has
+been left open for bars in each door, and occasionally one of the doors
+rattles violently. The hall is filled with the echoing screams and howls that
+send shivers down your spine.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15936
+D1
+An appalling stench wafts from the room to the east.
+~
+~
+0 -1 15942
+D2
+The hallway continues south.
+~
+~
+0 -1 15938
+S
+#15938
+The Hall of Pets~
+This hallway is lined with rows of large, steel doors. Only a small space has
+been left open for bars in each door, and occasionally one of the doors
+rattles violently. The hall is filled with the echoing screams and howls that
+send shivers down your spine.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15937
+D2
+The hallway continues south.
+~
+~
+0 -1 15939
+D3
+A dull grey room lies to the west.
+~
+~
+0 -1 15943
+S
+#15939
+The Hall of Pets~
+This hallway is lined with rows of large, steel doors. Only a small space has
+been left open for bars in each door, and occasionally one of the doors
+rattles violently. The hall is filled with the echoing screams and howls that
+send shivers down your spine.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15938
+D1
+A room with red walls lies to the east.
+~
+~
+0 -1 15944
+D2
+A small bedroom lies ahead.
+~
+~
+0 -1 15940
+S
+#15940
+The Keeper's Room~
+Two enormous whips have been rolled up and placed on a desk in the center of
+this room. Several large prods and mancatchers have been hung on the walls.
+A mattress lies rolled up on the floor, and a stand up closet leans against
+the southwest corner.
+~
+117 269484044 0 1 99 1
+D0
+A long hallway extends to the north.
+~
+~
+0 -1 15939
+S
+#15941
+The Lair of the Pit Fiend~
+This room is covered in soot and has large claw marks on it's walls. Several
+husks of shriveled bodies have been stacked in the corner. The walls radiate
+a faint light of magic.
+~
+117 269484044 0 1 99 1
+D1
+A hallway runs north-south past the room.
+~
+~
+0 -1 15936
+S
+#15942
+The Lair of the Jiblat~
+The walls of this room are covered in slime. The odor in the air is nauseating
+and several buckets of water have been placed along the west wall.
+~
+117 269484044 0 1 99 1
+D3
+A hallway runs north-south past the room.
+~
+~
+0 -1 15937
+S
+#15943
+The Lair of the Astral Discourser~
+This room contains only a stool and a bizarre wooden structure.
+~
+117 269484044 0 1 99 1
+D1
+A hallway runs north-south past the room.
+~
+~
+0 -1 15938
+S
+#15944
+The Lair of the Crimson Doom~
+The entire interior of this room is covered in dry, red dust. The smell of
+dried blood hangs heavily in the air.
+~
+117 269484044 0 1 99 1
+D3
+A hallway runs north-south past the room.
+~
+~
+0 -1 15939
+S
+#15945
+The Art Collection~
+Several large paintings have been hung in this section of the hallway. Most o
+them depict bizarre and grotesque scenes involving fantastic beasts from the
+outer planes. Many of the pictures are incomprehensible to someone who has
+spent most of thier lives on the plane of mortals.
+~
+117 269484040 0 1 99 1
+D1
+A large statue stands in the room to the east.
+~
+~
+0 -1 15929
+D3
+The hallway continues to the west.
+~
+~
+0 -1 15946
+S
+#15946
+A Junction in the Wide Hallway~
+The hallway continues on west and south here. You can hear an occasional
+scream coming from the south.
+~
+117 269484040 0 1 99 1
+D1
+The walls are covered with paintings to the east.
+~
+~
+0 -1 15945
+D2
+A room filled with torture devices is to the south.
+~
+~
+0 -1 15947
+D3
+The hallway continues west.
+~
+~
+0 -1 15948
+S
+#15947
+The Torture Chamber~
+This room is adorned with the latest technology in torture. Apparently someone
+has started a collection of skulls on some shelves in the far wall. Two walls
+of the room have large mirrors hung on them, and seem to serve as receptors
+for a scrying device.
+~
+117 269484044 0 1 99 1
+D0
+A hallway runs east-west past the room.
+~
+~
+0 -1 15946
+D5
+~
+~
+16 -1 15885
+S
+#15948
+A Bend in the Hallway~
+The hallway tales an abrupt turn to the south here, leaving two exits for you
+to choose from.
+~
+117 269484040 0 1 99 1
+D1
+The hallway continues east.
+~
+~
+0 -1 15946
+D2
+A huge staircase leads up into the ceiling.
+~
+~
+0 -1 15949
+S
+#15949
+A Staircase~
+A large, black-marble staircase leads up into a dark hole in the ceiling.
+Two massive braziers are blazing, filling the room with heat and light.
+~
+117 269484044 0 1 99 1
+D0
+A hallway turns to the north.
+~
+~
+0 -1 15948
+D4
+The stairs lead up into the darkness.
+~
+~
+0 -1 15950
+S
+#15950
+At the Top of the Stairs~
+These stairs are made entirely of black marble, and are lit by two giant
+braziers which emit a sulphurous odor.
+~
+117 269484040 0 1 99 1
+D2
+A reddish hallway looms ahead.
+~
+~
+0 -1 15951
+D5
+The stairs lead down into the darkness.
+~
+~
+0 -1 15949
+S
+#15951
+A Dark Hallway~
+The walls of this hallway emit a very dim red light, which barely allow you
+to navigate through it. However, you can still make out grotesque bas-reliefs
+which are of a quality that only a god could manufacture.
+~
+117 269484040 0 1 99 1
+D0
+A staircase lead down to the north.
+~
+~
+0 -1 15950
+D1
+A golden archway can be seen far to the east.
+~
+~
+0 -1 15955
+D2
+The hallway continues south.
+~
+~
+0 -1 15952
+S
+#15952
+A Dark Hallway~
+The walls of this hallway emit a very dim red light, which barely allow you
+to navigate through it. However, you can still make out grotesque bas-reliefs
+which are of a quality that only a god could manufacture.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15951
+D3
+The hallway continues west.
+~
+~
+0 -1 15953
+S
+#15953
+A Dark Hallway~
+The walls of this hallway emit a very dim red light, which barely allow you
+to navigate through it. However, you can still make out grotesque bas-reliefs
+which are of a quality that only a god could manufacture.
+~
+117 269484040 0 1 99 1
+D1
+The hallway continues east.
+~
+~
+0 -1 15952
+D2
+The hallway continues south.
+~
+~
+0 -1 15954
+D3
+A lit room containing a large, black pool lies to the west
+~
+~
+0 -1 15960
+S
+#15954
+A Dark Hallway~
+The walls of this hallway emit a very dim red light, which barely allow you
+to navigate through it. However, you can still make out grotesque bas-reliefs
+which are of a quality that only a god could manufacture.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15953
+D2
+A gold staircase leads up to the south.
+~
+~
+0 -1 15963
+S
+#15955
+Entryway to a Temple~
+An arch of gold has been set into the black marble above the doorway to the
+next room. Large, hanging tapestries depict bloody rituals and ceremonies.
+~
+117 269484040 0 1 99 1
+D1
+The archway leads into the main temple.
+~
+~
+0 -1 15956
+D3
+A hallway lies to the west.
+~
+A hallway lies to the west.~
+0 -1 15951
+S
+#15956
+The Inner Temple~
+This chamber has a high ceiling along with golden benches that have been set
+into the floor. You notice doors in both the north and south walls, and a
+huge altar lies to the east.
+~
+117 269484044 0 1 99 1
+D0
+A large, richly decorated bedroom lies to the north.
+~
+~
+0 -1 15958
+D1
+~
+An altar has been placed to the east.~
+0 -1 15959
+D2
+A small bedroom can be seen to the south.
+~
+~
+0 -1 15957
+D3
+The exit to the temple lies through the archway.
+~
+~
+0 -1 15955
+S
+#15957
+Chamber of the Acolyte~
+A huge washing basin and a stack of towels have been placed in the northwest
+corner of this room. Many long robes have been hung to dry from a pole that
+spans the room near the ceiling. The chamber is otherwise bare except for a
+simple bed and dresser.
+~
+117 269484040 0 1 99 1
+D0
+The main temple lies to the north.
+~
+~
+0 -1 15956
+S
+#15958
+Chamber of the High Priest~
+Two huge silk strips of purple cloth have been hung upon the walls of this
+room. A large, gold bedframe contains a very comfortable-looking bed. A
+massive bureau made entirely of silver has been set in the corner.
+~
+117 269484040 0 1 99 1
+D2
+The main temple lies to the south.
+~
+~
+0 -1 15956
+S
+#15959
+The Altar~
+An altar more than fifteen feet in length is covered with bloodstains and 
+other dried liquids. Beyond the altar is a massive statue of Merkuul, lord
+of bones. In the mouth of the statue a small fire is burning.
+~
+117 269484040 0 1 99 1
+D3
+The main temple lies to the west.
+~
+~
+0 -1 15956
+S
+#15960
+The Portal~
+A pool of swirling black and grey covers nearly the entire weat wall of this 
+room. The chamber is otherwise empty except for a hanging iron chandelier
+that hold six candles. The smell of rotting flesh is noticeable.
+~
+117 269484040 0 1 99 1
+D1
+A dark red hallway lies to the east.
+~
+~
+0 -1 15953
+D3
+The swirling portal hides what lies beyond.
+~
+~
+0 -1 15961
+S
+#15961
+The Waiting Room~
+This room is filled with tables and chairs constructed from various oddly
+shaped bones! A voice booms out, "WHO SEEKETH AUDIENCE WITH THE MIGHTY LORD
+OF BONES!!!" You notice that the pool you passed through has seemed to have
+disappeared.
+~
+117 269484044 0 1 99 1
+D1
+A huge throne constructed entirely of bones looms before you.
+~
+~
+0 -1 15962
+S
+#15962
+The Audience Chamber of Merkuul, Lord of Bones~
+On the far side of this room is a huge staircase which leads up to an immense
+throne made entirely from bones. The only light comes from two small torches
+which sputter in the cold, humid air that surrounds you. The strong smell of
+rotting flesh nearly causes you to vomit.
+~
+117 269484040 0 1 99 1
+D1
+The portal obscures your vision.
+~
+~
+0 -1 15964
+D3
+The waiting room lies to the west.
+~
+~
+0 -1 15961
+S
+#15963
+The Golden Staircase~
+A staircase constructed from solid gold serves as the medium to the next level
+of the keep.
+~
+117 269484044 0 1 99 1
+D0
+A reddish hallway continues north.
+~
+~
+0 -1 15954
+D4
+The staircase leads up to a higher level of the keep.
+~
+~
+0 -1 15964
+S
+#15964
+The Golden Hallway~
+This hallway has been coated with a layer of solid gold! However, the haunting
+creatures which have adorned the previous hallways are still present here,
+and you now begin to feel as though you are being watched ny some greater
+force.
+~
+117 269484040 0 1 99 1
+D2
+The hallway continues south.
+~
+~
+0 -1 15965
+D5
+A golden staircase leads to a lower level.
+~
+~
+0 -1 15963
+S
+#15965
+The Golden Hallway~
+This hallway has been coated with a layer of solid gold! However, the haunting
+creatures which have adorned the previous hallways are still present here,
+and you now begin to feel as though you are being watched by some greater
+force.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15964
+D1
+A room decorated in red and black is east of here.
+~
+~
+0 -1 15973
+D2
+The hallway continues south.
+~
+~
+0 -1 15966
+S
+#15966
+The Golden Hallway~
+This hallway has been coated with a layer of solid gold! However, the haunting
+creatures which have adorned the previous hallways are still present here,
+and you now begin to feel as though you are being watched by some greater
+force.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15965
+D1
+The hallway continues east.
+~
+~
+0 -1 15967
+D2
+Two large purple sashes hang down, concealing much of the room to the south.
+~
+~
+0 -1 15974
+S
+#15967
+The Golden Hallway~
+This hallway has been coated with a layer of solid gold! However, the haunting
+creatures which have adorned the previous hallways are still present here,
+and you now begin to feel as though you are being watched by some greater
+force.
+~
+117 269484040 0 1 99 1
+D2
+The hallway continues south.
+s
+rcopy
+~
+~
+0 -1 15968
+D3
+The hallway continues west.
+~
+~
+0 -1 15966
+S
+#15968
+The Golden Hallway~
+This hallway has been coated with a layer of solid gold! However, the haunting
+creatures which have adorned the previous hallways are still present here,
+and you now begin to feel as though you are being watched by some greater
+force.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15967
+D2
+The hallway continues south.
+~
+~
+0 -1 15969
+D3
+A green room lies to the west.
+~
+~
+0 -1 15975
+S
+#15969
+The Golden Hallway~
+This hallway has been coated with a layer of solid gold! However, the haunting
+creatures which have adorned the previous hallways are still present here,
+and you now begin to feel as though you are being watched by some greater
+force.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15968
+D3
+The hallway continues west.
+~
+~
+0 -1 15970
+S
+#15970
+The Golden Hallway~
+This hallway has been coated with a layer of solid gold! However, the haunting
+creatures which have adorned the previous hallways are still present here,
+and you now begin to feel as though you are being watched by some greater
+force.
+~
+117 269484040 0 1 99 1
+D1
+The hallway continues east.
+~
+~
+0 -1 15969
+D2
+The hallway continues south.
+~
+~
+0 -1 15971
+D3
+A dull, grey room lies to the west.
+~
+~
+0 -1 15976
+S
+#15971
+The Golden Hallway~
+This hallway has been coated with a layer of solid gold! However, the haunting
+creatures which have adorned the previous hallways are still present here,
+and you now begin to feel as though you are being watched by some greater
+force.
+~
+117 269484040 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15970
+D2
+A huge golden archway is at the end of the hallway.
+~
+~
+0 -1 15972
+S
+#15972
+Before the Court~
+The hallway ends here at a massive golden archway. Through it you can see the
+courtyard of the evil warlord, Gargath, Arch-Duke of Tarterus!
+~
+117 269484044 0 1 99 1
+D0
+The hallway continues north.
+~
+~
+0 -1 15971
+D2
+The court of the arch-duke is to the south.
+~
+~
+0 -1 15977
+S
+#15973
+Chamber of Querkaf, Avatar of Hate~
+This room is richly adorned in red and black, and you can assume that no
+expense was spared when it was furnished. Many large gemstones have been
+placed around a mirror in the west wall.
+~
+117 269484040 0 1 99 1
+D3
+A hallway runs past the room.
+~
+~
+0 -1 15965
+S
+#15974
+Chamber of Elderiz, Avatar of Sin~
+The walls of this room are covered with murals depicting grotesque and evil
+deeds. Purple sashes of silk hang from the ceiling to cover a large bed and
+closet.
+~
+117 269484040 0 1 99 1
+D0
+A golden hallway bends to the north.
+~
+~
+0 -1 15966
+S
+#15975
+Chamber of Mizral, Avatar of Jealousy~
+This room has been completely decorated in shades of deep green. A large,
+exquisitely cut emerald has been placed on a stand in the center of the room.
+~
+117 269484040 0 1 99 1
+D1
+A golden hallway runs past the room.
+~
+~
+0 -1 15968
+S
+#15976
+Chamber of Arpedion, Avatar of Doom~
+This room contains only a small bed and table. The walls are a dull grey and
+you begin to choke on thick clouds of dust. From the ceiling is hung an oil
+lamp, which provides a minimal amount of light for the room.
+~
+117 269484040 0 1 99 1
+D1
+A golden hallway runs past the room.
+~
+~
+0 -1 15970
+S
+#15977
+The Court of Gargath, Arch-Duke of Tarterus~
+The ceiling of this room appears ro be more than 40 feet high. Four black
+marble chairs have been placed in a semi-circle around a massive golden
+throne. Fortunately for you, the court of the arch-duke is currently
+adjourned.
+~
+117 269484040 0 1 99 1
+D0
+A golden archway leads out of the court.
+~
+~
+0 -1 15972
+D2
+A large bedchamber is to the south.
+~
+~
+0 -1 15978
+S
+#15978
+Sleeping Chamber of Gargath, Arch-Duke of Tarterus~
+The entire interior of the room has been coated in gold. A massive black
+marble slab serves as a bed near the south wall. A bubbling pool which appears
+to be some form of interplanar portal has been opened in the west wall. From
+the looks of the furniture and decorations here, it seems as if no expense has
+been spared when assuring the comfort of the arch-duke.
+~
+117 269484040 0 1 99 1
+D0
+The court of the arch-duke is to the north.
+~
+~
+0 -1 15977
+D2
+The swirling portals obscures your vision.
+~
+~
+0 -1 15961
+D4
+A secret place ...
+~
+~
+16 -1 15900
+S
+$~
+#999999

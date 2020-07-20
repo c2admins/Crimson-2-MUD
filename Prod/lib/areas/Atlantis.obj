@@ -1,0 +1,249 @@
+#14500
+obj trident~
+10
+&wa &Ktrident&n~
+A large, three-pronged trident is lying here.~
+~
+5 524288 0 8193
+0 3 6 11
+12 1850 600
+A
+18 1
+#14501
+obj shirt scaly~
+10
+&wa &Cs&ccal&Cy &Kshirt&n~
+A shirt made of fish scales lies here in the dirt.~
+~
+9 65536 0 9
+6 0 0 0
+20 2000 1000
+A
+18 1
+#14502
+obj orb eye deep~
+10
+&wThe &We&Cy&We &wof the &cd&Kee&cp&n~
+A large orb is floating above the ground~
+~
+1 524291 0 65537
+0 0 -1 0
+1 120000 20000
+A
+3 2
+A
+12 10
+A
+32 -1
+A
+26 -1
+#14503
+obj bracers renaissance~
+10
+&Kbracers &wof the Re&Wna&Ciss&Wan&wce&n~
+Some colorful bracers are lying on the ground.~
+~
+9 2 0 257
+8 0 0 0
+5 80000 30000
+A
+1 1
+A
+4 1
+A
+3 1
+#14504
+obj scales waterbeast~
+10
+&CS&ccale&Cs &wof the &cWa&Kterbea&cst&n~
+Two enormous fish-like scales have been left here.~
+~
+9 65536 0 33
+9 0 0 0
+11 22000 3000
+A
+19 1
+A
+13 -9
+#14505
+obj bracers protection~
+10
+&Kbracers &wof &Wpr&wo&btect&wi&Won&n~
+Some bright blue bracers have been left here~
+~
+9 524289 0 257
+15 0 0 0
+6 100000 15000
+A
+13 -20
+#14506
+obj robe sea green~
+10
+&cS&Ce&ca &Gg&cree&Gn &cr&Gob&ce&n~
+A green robe with embroidered fish symbols on it is here.~
+~
+9 630784 0 1025
+8 0 0 0
+5 35000 5000
+A
+12 20
+#14507
+obj trident moon sea~
+10
+&KTrident &wof the &WM&woo&Wn &cS&Ce&ca&n~
+The legendary Trident of the Moon Sea rests here!~
+~
+5 1048641 0 8193
+16777216 12 2 0
+12 110000 15000
+#14508
+obj symbol holy pisces necklace~
+10
+&wa &Wholy symbol &wof &cPi&Gsc&ces&n~
+A necklace with the charm of a fish has been dropped here.~
+~
+9 8448 0 5
+5 0 0 0
+2 3000 1000
+A
+4 1
+A
+3 1
+#14509
+obj seaweed belt strip~
+10
+&Ga sea&yweed &Gbelt&n~
+A long strip of dried seaweed has been left here.~
+~
+9 0 0 2049
+2 0 0 0
+2 3000 800
+A
+1 1
+#14510
+obj sandals green messenger~
+10
+&KMe&Gssenger's &ysanda&Kls&n~
+A pair of bright green sandals is lying here.~
+~
+9 1 0 65
+4 0 0 0
+4 2000 600
+A
+2 1
+#14511
+obj brotherhood sword~
+10
+&wThe &KSword &wof the &WBro&wtherh&Wood&n~
+A sword with a scaly hilt has been left here.~
+~
+5 1048577 0 8193
+0 3 9 3
+15 70000 12000
+A
+18 1
+A
+19 2
+#14512
+obj seal brotherhood bracelet~
+10
+&wThe &YS&yea&Yl &wof the &WBro&wtherh&Wood&n~
+A bracelet with a large copper buckle is lying here.~
+~
+9 524288 0 4097
+5 0 0 0
+3 7000 2000
+A
+19 1
+A
+18 -1
+#14513
+obj starfish~
+10
+&ya hardened, dried &Rs&ytarfis&Rh&n~
+A stiff-looking orange starfish is lying here in the dust.~
+~
+5 0 0 8193
+0 5 3 3
+1 10 8
+#14514
+obj steamed fish~
+20
+&Wsteamed &cf&Cis&ch&n~
+A piece of steamed fish is here.~
+~
+19 0 0 1
+12 0 10 0
+1 12 5
+#14515
+obj steel shield hardened~
+15
+&wa hardened s&Ktee&wl &Kshield&n~
+A shiny, steel shield is lying here.~
+~
+9 0 0 513
+15 0 0 0
+11 3100 500
+#14516
+obj spam~
+100
+Spam~
+A piece of spam is lying here.~
+~
+19 0 0 1
+24 0 10 0
+1 5 5
+#14517
+obj cheese wheel~
+100
+a wheel of cheese~
+a round of wheel of cheese is rolling around on the floor~
+~
+19 0 0 1
+18 0 10 0
+4 15 10
+#14518
+obj ring fish goddess~
+10
+&wThe &Kring &wof the &cf&Cis&ch &cgo&Cd&Wd&Ce&css&n~
+A glowing blue-green ring has been left here.~
+~
+9 524288 0 3
+2 0 0 0
+1 100000 12500
+A
+18 -1
+A
+19 1
+#14519
+obj helm of waterbreathing~
+40
+&wa &Khelm &wof &cwater&wbr&Weathi&wng&n~
+A small blue helm rests here.~
+~
+9 0 0 17
+20 0 0 0
+7 5000 1000
+A
+30 -1
+A
+18 2
+#14520
+obj electrified tail~
+6
+&wan &Yel&We&Yctrif&Wi&Yed &Ktail&n~
+A energy charged tail is flopping around here.~
+~
+9 524289 0 262145
+20 0 0 0
+1 5 5
+A
+19 1
+A
+18 2
+A
+3 -2
+A
+6 2
+$~
+#999999
