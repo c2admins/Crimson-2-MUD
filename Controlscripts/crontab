@@ -11,15 +11,15 @@
 # |  |  |  |  +---- day of week (0 - 7) (Sunday=0 or 7)
 # |  |  |  |  |
 # *  *  *  *  *  command to be executed
-
 # Rotate the logs, once every night.
-0 1 * * * /bin/bash /home/crimson/c2/controlscripts/rotate_logs.sh >/dev/null 2>&1
-
+0 1 * * * /bin/bash /home/ubuntu/c2/controlscripts/rotate_logs.sh >/dev/null 2>&1
 # Run the daily backup script, also once every night.
-0 1 * * * /bin/bash /home/crimson/c2/controlscripts/daily_backup.sh >/dev/null 2>&1
-
-# Run the weekly backup script, also once every night.  (Tuesday.)
-0 1 * * 2 /bin/bash /home/crimson/c2/controlscripts/weekly_backup.sh >/dev/null 2>&1
-
+0 1 * * * /bin/bash /home/ubuntu/c2/controlscripts/daily_backup.sh >/dev/null 2>&1
+# Run the weekly backup script, every Tuesday at 2AM
+0 2 * * 2 /bin/bash /home/ubuntu/c2/controlscripts/weekly_backup.sh >/dev/null 2>&1
 # Make sure the Mud is UP. Run every 15 minutes.
-15 * * * * /bin/bash /home/crimson/c2/controlscripts/mudrunning.sh >/dev/null 2>&1
+*/15 * * * * /bin/bash /home/ubuntu/c2/controlscripts/mudrunning.sh >/dev/null 2>&1
+# Rotate logs for the Mudrinning.sh script
+0 1 * * * /bin/bash /home/ubuntu/c2/controlscripts/rotate_mudrunning.sh >/dev/null 2>&1
+# Mail ideas/bugs/typos weekly (Tuseday)
+0 3 * * 2 /bin/bash /home/ubuntu/c2/prod/lib/mail.files >/dev/null 2>&1
