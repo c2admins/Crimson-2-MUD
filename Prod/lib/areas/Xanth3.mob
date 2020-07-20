@@ -1,0 +1,250 @@
+#700
+mob psychotic turkey~
+A psychotic turkey~
+A very large psychotic turkey is looking for blood.
+~
+This strange creature of flapping has a very large and very
+useless wingspan.  There is a very deep and dark side to 
+this foul creature.  The bird seems to have some very strange
+feathers sticking from its rear.  You may be able to find
+some laying about it.
+~
+16779274 1343489 136249393 16384 -1000 S
+46 5 -20 1d1+20000 30d10+30
+1000000 1200000
+8 8 1
+1 0 17 16 15 15 12 15
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#701
+mob turducken~
+A nasty turducken~
+A wobbling turducken sits here gleefully.
+~
+This fearsome awe struck creature is a wonder to behold.  You can
+see from his bill and strange feet that this four master of filth
+is made from the strange creation of breeding turkeys and ducks.
+This creature here seems to be a very weird working structure
+that infused his life force with a troll also.  You may want to 
+shy away from this guy for Thanksgiving.
+~
+62916632 1343489 136249393 2113664 -1000 S
+48 -5 -30 100d100+75000 33d30+40
+5000000 2500000
+8 8 0
+0 0 16 16 14 15 13 13
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+#702
+mob geronimo~
+Geronimo~
+Geronimo the mighty Apache leader, stands tall.
+~
+This famed creature of Native American legend scouts the local area
+to find the strange creatures that have been eating the local people.
+Gerononimo tells you: 'Bog, I wouldn't go down there if I were you."
+~
+2058 1343489 136249393 16512 1000 S
+47 6 -25 1d1+22005 30d10+40
+3000000 1200000
+8 8 2
+1 2 16 17 15 14 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+#703
+mob trick treat child~
+A Trick-or-Treater~
+A child walks over and exclaims, "Trick or treat!"
+~
+A small child is very excited to be up past bedtime. And all that
+sugar probably helps a bit too on the energy level. What a great costume!
+~
+10248 1310721 136249393 16384 0 S
+45 6 -27 1d1+23000 29d10+40
+4000000 955000
+8 8 1
+1 1 16 18 15 15 15 12
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#704
+mob jack lantern pumpkin~
+A Jack-O-Lantern~
+A carved pumpkin sits here, miserably lamenting its lost guts.
+~
+The grinning pumpkin looks anything but happy. It is downright burning
+with fury. And candle flame.
+~
+2570 1310721 136249393 0 0 S
+46 5 -30 1d1+24000 30d10+55
+5000000 1200000
+8 8 0
+0 0 16 17 14 15 15 14
+#705
+mob goose laying~
+A Goose a-laying~
+A goose is laying some eggs in a nest here.
+~
+Pretty goose. Pretty, pretty goose.
+~
+16779786 1310721 136253489 0 0 S
+48 10 -30 100d120+25000 20d11+55
+5000006 2000000
+8 8 0
+0 0 16 17 15 14 14 15
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#706
+mob swans swimming~
+A Swan a-swimming~
+A swan swims gracefully in the water without so much as a ripple.
+~
+Graceful and elegant, this swan still can have a pretty nasty bite.
+~
+16779786 1310721 136253489 0 0 S
+48 5 -35 100d120+26000 15d20+50
+5000007 2002000
+8 8 0
+0 0 17 16 15 15 14 14
+ATTACK_SKILL=75
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#707
+mob maid milking~
+A Maid a-milking~
+A maid is milking the many cows that are here.
+~
+She is a lovely maid but does she ever smell.
+~
+18954 1310721 136253489 0 0 S
+48 5 -40 100d120+27000 15d25+55
+5000008 2003000
+8 8 2
+1 0 16 15 15 14 14 15
+#708
+mob calacas bride~
+The Bride~
+A handmade Los Dias De Los Muertos Calacas shows you the active and joyful afterlife.
+~
+The lovely skeleton bride grins her skeleton grin. Maybe being dead
+isn't so bad after all.
+~
+35336 1310721 136253489 0 0 S
+48 5 -40 100d122+25500 20d20+55
+5000009 2004000
+8 8 2
+1 1 17 16 15 15 13 13
+#709
+mob headless horseman hessian~
+The Headless Horseman~
+The Headless Horseman gallops past as you wonder how you still have your head.
+~
+A billowing black cloak trails behind the horseman and the glint of steel
+catches your eye. The thing you cannot help staring at however is the most
+obvious lack of a head.
+~
+10760 1310721 136253489 0 0 S
+49 4 -40 100d123+25500 23d20+55
+5000010 2005000
+8 8 1
+1 4 17 17 14 16 12 13
+#710
+mob evil dead deadite~
+A Deadite~
+A corpse consumed and turned to evil is searching for the Book of the Dead.
+~
+It seeks the tome bound in human flesh. You must not have uttered the
+secret words.
+~
+43528 1310721 136253489 0 0 S
+48 3 -40 75d100+20500 25d25+50
+5000011 2006000
+8 8 1
+1 4 17 17 15 15 13 11
+#711
+mob scarecrow~
+A Scarecrow~
+A scarecrow is here with a few crows hanging out on the outstretched arms.
+~
+From a distance it appears to be a few articles of clothing sewn together
+and stuffed ful of straw. As you get closer you notice the smell. Straw does not
+smell like that. You can also see dark blotches on the fabric. You peer closer
+and realize the face is obscured by a hat. You are compelled to get a closer
+look, but the smell is just too overwhelming.
+~
+59914 1310721 136253489 0 0 S
+50 0 -40 100d125+26000 30d40+60
+6000000 2500000
+8 8 1
+1 4 17 17 14 14 12 12
+#712
+mob ghost soldier~
+a soldier's ghost~
+The ghost of a soldier charges toward you.
+~
+Although he is shrouded in mist, you can plainly see
+the brass buttons of his uniform. The pale grey coat
+blends into the foggy backgroun so that glint of metal
+is about all you can really make out. 
+~
+8 1 136249361 0 0 S
+48 0 -25 100d100+20000 30d30+40
+1000000 1500000
+8 8 1
+1 4 16 17 15 16 13 15
+#713
+mob thresher harvester combine~
+A Combine~
+A combine cuts down the cornstalks on its way toward you.
+~
+After your eyes recover from being blinded by the massive headlights, you
+can see this huge John Deer monstrosity is very good at cutting and threshing.
+You have heard of people getting hands or feet mangled in these types of
+machines, you can not imagine what would happen to a body. Perhaps you had
+better move out of the way.
+~
+45217566 1 136249361 536870914 0 S
+48 -59 -40 1d1+500499 15d15+70
+1000000 2000000
+8 8 0
+7 6 23 21 20 21 22 5
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SPELL_BIND_SOULS 99
+#714
+mob pilgrim mob~
+&wA &Wpilgrim&n~
+&wA &Wpilgrim&w stands here harvesting &Yc&yor&Yn.&n
+~
+&wA pilgrim stands here harvesting some corn for a thanksgiving feast.&n
+~
+8 1 136249361 0 1000 S
+46 -10 40 1d1+19999 40d40+30
+2000000 2500000
+8 8 0
+0 0 16 16 14 15 15 11
+$~
+#999999

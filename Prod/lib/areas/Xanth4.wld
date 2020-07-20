@@ -1,0 +1,292 @@
+#800
+THE RULES~
+Happy Birthday America!!!!
+Help yourself to a balloon and hat and celebrate with us.
+~
+8 1048588 0 10 99 1
+D0
+803
+~
+~
+9 0 803
+D1
+~
+~
+1 0 801
+D5
+Midgaard - Healer's Room
+~
+~
+0 -1 3073
+S
+#801
+Mortal Quest Room #1~
+
+Kill kill kill...!
+
+~
+8 269484044 536870912 1 40 1
+D1
+to Mortal Quest Room #2
+~
+~
+0 -1 802
+D3
+to the Quest Start Room
+~
+west~
+1 0 800
+S
+#802
+Mortal Quest Room #2~
+
+Kill kill kill...!
+
+~
+8 269484044 536870912 1 40 1
+D1
+to Mortal Quest Room #3
+~
+~
+0 -1 804
+D3
+to Mortal Quest Room #1
+~
+~
+0 -1 801
+S
+#803
+&wThe &GGas &yChamber&n~
+
+&GA foul odor fills the air of this chamber.  You have entered with little chance to leave
+with your soul.  A green gas laces the air, making it harder and harder to breathe.&n
+
+~
+8 269491212 1 1 99 1
+D0
+to Avatar Quest Room #2
+~
+north~
+9 0 807
+D2
+800
+~
+door south~
+9 0 800
+S
+#804
+Mortal Quest Room #3~
+
+Kill kill kill...!
+
+~
+8 269484044 536870912 1 40 1
+D1
+to Mortal Quest Room #4
+~
+~
+0 -1 805
+D3
+to Mortal Quest Room #2
+~
+~
+0 -1 802
+S
+#805
+Mortal Quest Room #4~
+
+Kill kill kill...!
+
+~
+8 269484044 536870912 1 40 1
+D1
+to Mortal Quest Room #5
+~
+~
+0 -1 806
+D3
+to Mortal Quest Room #3
+~
+~
+0 -1 804
+D5
+806
+~
+~
+17 0 806
+S
+#806
+Mortal Quest Room #5~
+
+Kill kill kill...!
+
+~
+8 269484044 536870912 1 40 1
+D3
+to Mortal Quest Room #4
+~
+~
+0 -1 805
+S
+#807
+Avatar Quest Room #2~
+
+Kill kill kill...!
+
+~
+8 269484044 536870912 1 99 1
+D0
+to Avatar Quest Room #3
+~
+~
+0 -1 808
+D2
+to Avatar Quest Room #1 / The Gas Chamber
+~
+~
+9 -1 803
+E
+my imagination is as cruel to me as I am to it.~
+~
+S
+#808
+Avatar Quest Room #3~
+
+Kill kill kill...!
+
+~
+8 269484044 536870912 1 99 1
+D0
+to Avatar Quest Room #4
+~
+~
+0 -1 809
+D2
+to Avatar Quest Room #2
+~
+~
+0 -1 807
+S
+#809
+Avatar Quest Room #4~
+
+Kill kill kill...!
+
+~
+8 269484044 0 1 99 1
+D0
+to Avatar Quest Room #5
+~
+~
+0 -1 810
+D2
+to Avatar Quest Room #3
+~
+~
+0 -1 808
+S
+#810
+Avatar Quest Room #5~
+
+Kill kill kill...!
+
+~
+8 269484044 0 1 99 1
+D0
+to Avatar Quest Room #6
+~
+~
+0 -1 811
+D2
+to Avatar Quest Room #4
+~
+~
+0 -1 809
+S
+#811
+Avatar Quest Room #6~
+
+Kill kill kill...!
+
+~
+8 269484044 0 1 99 1
+D0
+to Avatar Quest Room #7
+~
+~
+0 -1 812
+D2
+to Avatar Quest Room #5
+~
+~
+0 -1 810
+S
+#812
+Avatar Quest Room #7~
+
+Kill kill kill...!
+
+~
+8 269484044 0 1 99 1
+D0
+to Avatar Quest Room #8
+~
+~
+0 -1 813
+D2
+to Avatar Quest Room #6
+~
+~
+0 -1 811
+S
+#813
+Avatar Quest Room #8~
+
+Kill kill kill...!
+
+~
+8 269484044 0 1 99 1
+D0
+to Avatar Quest Room #9
+~
+~
+0 -1 814
+D2
+to Avatar Quest Room #7
+~
+~
+0 -1 812
+S
+#814
+Avatar Quest Room #9~
+
+Kill kill kill...!
+
+~
+8 269484044 0 1 99 1
+D0
+to Avatar Quest Room #10
+~
+~
+0 -1 815
+D2
+to Avatar Quest Room # 8
+~
+~
+0 -1 813
+S
+#815
+Avatar Quest Room #10~
+
+Kill kill kill...!
+
+~
+8 269484044 0 1 99 1
+D2
+to Avatar Quest Room #9
+~
+~
+0 -1 814
+S
+$~
+#999999

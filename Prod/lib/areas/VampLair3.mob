@@ -1,0 +1,121 @@
+#15300
+mob skeleton guard~
+A skeletal guard~
+A skeletal guard is here,animated by dark forces
+~
+This is a horrifying sight. The skeleton of a long dead living being,animated
+by some powerful magic as if alive. Its bones look fragile and weak and it
+almost looks like it is grinning at you.
+~
+33612812 1048577 136249361 100663296 -1000 S
+20 20 24 57d19+1000 5d5+15
+5100 60800
+8 8 0
+0 0 16 17 14 16 15 11
+#15301
+mob skeleton warrior~
+A skeletal warrior~
+A skeletal warrior is here,animated by dark forces
+~
+This is the long dead remains of some poor soul,animated now by the powers
+of evil necromancers. It still has some remnants of the clothing it wore
+before,now reduced to tatters of coloured rags draped over itself. It looks
+completely souless,as it moves unervingly around here.
+~
+33874956 1048577 136249361 100663296 -1000 S
+25 15 18 11d19+2000 3d5+16
+17250 75890
+8 8 0
+0 4 17 18 15 17 16 13
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#15302
+mob fanatic mad cultist~
+a human cultist~
+A cultist fanatic is here,grinning like a madman.
+~
+He has been driven insane by the horrors he has witnessed,and now he follows
+Karak,knowing that if he failed his master not even death would be an escape,
+as his soul would be pulled back to this plane to pay for any diservice to
+the necromancer. He wears red ceremonial robes,with the family shield of
+Karak on them. The hood has been pulled up,so that it completely covers his
+head and hides his face from view.
+~
+58376 1 136249361 0 -400 S
+1 35 39 5d3+7 1d1+2
+200 30
+8 8 0
+0 0 12 12 9 11 9 7
+#15303
+mob skeleton sentinel~
+a skeleton sentinel~
+A skeleton sentinel is here,animated by dark forces.
+~
+This horrifying creature has been created from the ashes of Karak's enemies
+by the dark and evil powers he has mastered. It is wearing old and tattered
+clothing,and looks as though it was once a noble of some sort,now condemned
+to serve Karak forever. It seems to move with an unnerving agility and speed
+that would rival even the greatest of human athletes,and seems to stare at you
+despite the lack of any flesh on it's body,or eyes in it's head.
+~
+33612808 1 136249361 100663296 -1000 S
+36 7 -14 50d19+5000 5d5+9
+90450 217545
+8 8 0
+0 0 21 22 19 20 18 16
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#15304
+mob zombie undead~
+a zombie~
+An undead zombie is here,slowly animated by dark forces.
+~
+You see before you a horrific decaying corpse,animated by the dark forces
+prevailant in this land. It's rotting eyes follow you as it lumbers around
+slowly and the smell is putrescent. It's skin is white,and in some places
+it is actually missing,revealing the sinews of maggot infested muscle below.
+~
+33611784 1 136249361 67108864 -1000 S
+1 35 39 3d3+11 1d1+2
+200 30
+8 8 0
+0 0 11 12 9 9 10 8
+#15305
+mob skeleton champion~
+a skeleton champion~
+A powerful skeleton champion is standing here.
+~
+This is the reanimated skeleton of one of Karak's closest followers,no
+longer able to serve his master naturally,he now stalks this place seeking
+out the enemies of Karak,drawing power from the immense force that is his
+master. His eyes glow with a horrible orange light,and his fiendish grin
+seems to be far more than any normal skeleton could have.
+~
+33874956 1 136249361 100663296 -1000 S
+30 13 5 20d19+3000 5d5+7
+30000 184575
+8 8 0
+0 0 18 20 18 16 16 15
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#15306
+mob Fishenstein Dr~
+Dr Fishenstein~
+Doctor Fishenstein is here, grinning like a madman.
+~
+Doctor Fishenstein is a short man, only around five feet tall and wearing a
+brown tweed suit.  He looks fairly wealthy, and very clever.
+~
+536870920 1 136249361 0 0 S
+1 30 25 100d100+0 1d1+1
+0 1
+8 8 1
+0 0 12 12 10 10 9 8
+$~
+#999999

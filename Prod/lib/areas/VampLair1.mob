@@ -1,0 +1,667 @@
+#15100
+mob skeleton guard~
+A skeletal guard~
+A skeletal guardis here,animated by dark forces.
+~
+This is a horrifying sight. The skeleton of a long dead living being,animated
+by some powerful magic as if alive. Its bones look fragile and weak and it
+almost looks like it is grinning at you.
+~
+33874952 1 136249361 100663296 -1000 S
+20 20 24 100d9+1000 4d5+16
+5185 59250
+8 8 0
+0 0 17 17 14 15 15 13
+#15101
+mob skeleton warrior~
+A skeletal warrior~
+A skeletal warrior is here,animated by dark forces.
+~
+This is the long dead remains of some poor soul, animated by the powers
+of evil necromancers. It still has some remnants of the clothing it wore
+before, now reduced to tatters of coloured rags draped over itself. It looks
+completely souless,as it moves unervingly around here.
+~
+33874956 1048577 136249361 100663296 -1000 S
+25 15 18 11d19+2000 4d7+10
+16850 76125
+8 8 0
+0 4 17 17 17 17 14 16
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#15102
+mob bat vampire~
+A vampire bat~
+A vampire bat is flying around here.
+~
+It has a thin layer of black fur covering it's small body as it flaps around
+here. It looks like a small squirrel with wings, until you see it's fangs
+protruding from the top of it's mouth.
+~
+2097288 1 136249361 33554432 -1000 S
+3 34 38 5d5+10 2d1+2
+250 87
+8 8 0
+0 0 12 12 10 9 10 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#15103
+mob Laklough apprentice necromancer~
+Laklough~
+The Vampire's Apprentice,Laklough is here,studying hard.
+~
+His skin is completely white,and he has blood red eyes. He seems to be 
+completely oblivious to your presence,and stands here staring into a book.
+He is wearing a black tunic that has a few small symbols embroidered into it.
+He makes no sound as he wanders around here,reading as he goes.
+~
+319496 32769 136249361 67108864 -1000 S
+20 20 24 55d19+1000 5d5+15
+5100 62500
+8 8 1
+0 1 16 15 16 15 12 15
+SKILL=SPELL_BLINDNESS 50
+SKILL=SPELL_BURNING_HANDS 50
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_CURSE 50
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SPELL_MAGIC_MISSILE 50
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_ACID_BREATH 50
+SKILL=SKILL_RAGE 75
+#15104
+mob vampire cultist leader~
+The vampire cultist's leader~
+The vampire cultist's leader is here, directing the ceremony.
+~
+He is wearing a red ceremonial robe with the family shield of Karak on the
+front. It has a huge hood,which he has taken down,revealing his shaven head
+and small fangs sticking out of his mouth. He is a vampire. His skin is 
+very pale,and his eyes are red. He is reciting something softly,and has not
+noticed you.
+~
+2416778 32769 136249361 33554440 -1000 S
+25 15 18 50d9+1500 9d5+17
+17595 73475
+8 8 1
+0 0 17 19 17 15 16 15
+SKILL=SPELL_BLINDNESS 60
+SKILL=SPELL_HAIL_STORM 60
+SKILL=SPELL_CURSE 60
+SKILL=SPELL_HARM 60
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SPELL_POISON 60
+SKILL=SPELL_CAUSE_CRITIC 60
+SKILL=SPELL_HEAL_MINOR 60
+SKILL=SPELL_EARTHQUAKE 60
+#15105
+mob fanatic mad cultist~
+A human cultist~
+A cultist fanatic is here grinning like a madman.
+~
+He has been driven insane by the horrors he has witnessed,and now he follows
+Karak,knowing that if he failed his master not even death would be an escape,
+as his soul would be pulled back to this plane to pay for any diservice
+to the necromancer. He wears red ceremonial robes,with the family shield of
+Karak on them. The hood has been pulled up,so that it completely covers his
+head and hides his face from view.
+~
+58508 1 136249361 0 -400 S
+20 20 24 80d5+1300 4d5+17
+5100 56890
+8 8 1
+0 0 17 15 14 16 15 15
+#15106
+mob skeleton sentinel~
+A skeleton sentinel~
+A skeleton sentinel is here,animated by dark forces.
+~
+This horrifying creature has been created from the ashes of Karak's enemies
+by the dark and evil powers he has mastered. It is wearing old and tattered
+clothing,and looks as though it was once a noble of some sort,now condemned
+to serve Karak forever. It seems to move with an unnerving agility and speed
+that would rival even the greatest of human athletes,and seems to stare at you
+despite the lack of any flesh on it's body,or eyes in it's head.
+~
+33874952 1 136249361 100663296 -1000 S
+36 7 -14 50d19+5000 4d7+8
+90870 215000
+8 8 0
+0 0 20 20 18 18 18 18
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#15107
+mob Karak wraithlord necromancer~
+Wraith Lord Karak~
+The Vampire Wraith Lord,Karak is here,toying with his evil powers
+~
+This is the rotted and largely decayed corpse of what was once a man,many
+hundreds of years ago. The body has died,but the spirit of Karak has bound
+itself to this body,driving it on forever. There are faint sparks of light in
+his deep dark eye sockets,and he seems to be peering into your soul,drawing on
+your life force,as you stand here in complete horror.His clothing seems to
+be made largely of lead,this helping to contain the immense energies he has
+become master of in his pursuit of an absolute mastery of death and the dark
+arts.
+~
+33939722 32769 136249393 100663304 -1000 S
+45 0 -25 100d99+25000 20d5+55
+2232000 967500
+8 8 1
+0 1 23 22 20 22 20 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#15108
+mob dracolich dragon undead~
+a dracolich~
+A dracolich is here,animated by dark,twisted forces.
+~
+This monstrosity once soared magnificently through the skies as one of the
+great golden dragons,but it has been taken from it's final resting place and
+bought back to unlife by Karak and his dark forces. It towers over you,and
+does not even seem to have noticed you,as you stare in horrified wonder.
+It is about thirty feet long and fifteen feet high at least,and it's long 
+tail drags along behind it for another fifteen. It has been picked completely
+clean of flesh,leaving only the animated bones,slowly turning yellow with age.
+~
+33816652 32769 136249361 100663304 -1000 S
+35 8 -10 60d19+4000 7d3+4
+86800 216500
+8 8 0
+11 0 19 18 18 18 15 14
+SKILL=SPELL_FROST_BREATH 80
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#15109
+mob ghoul human~
+A mad ghoul~
+A human ghoul,driven insane by what he has done is standing here.
+~
+This used to be a human being, but now he has degenerated to a flesh eating
+ghoul, stalking the forest. Dark magic and terrible sights have driven this
+creature to the last vestiges of sanity, leaving only a pale skinned wreck,
+with rotting teeth and filthy, torn clothes.
+~
+319692 1 136249361 0 -750 S
+9 30 35 9d5+30 3d3+4
+415 260
+8 8 1
+1 0 13 12 13 13 12 8
+#15110
+mob witchhunter hunter~
+A witchhunter~
+A human witchhunter is here, lost in the tunnels.
+~
+This is a nervous looking young man,who probably expected to be dunking
+maidens into rivers,rather than actually hunting witches on there own 
+territory. He is wearing a black tunic and hat with white lining,and has a 
+small pouch on his belt. As you look at him,he returns your gaze,probably
+trying to decide if you would be a good victim to accuse of witchcraft.
+~
+136 1 136249361 0 750 S
+13 26 31 20d9+75 5d3+5
+1075 3880
+8 8 1
+0 0 14 14 14 12 10 12
+#15111
+mob witchhunter general hunter~
+The witchhunter general~
+The witchhunter general is here searching for vampires.
+~
+This is an aging,but very firm looking man. He has wrinkles on his face and
+his hair is turning grey,but he stands here with a far more imposing 
+presence than any of the other witchhunters. He is wearing a black hat and 
+tunic and is carrying a rather dangerous looking silver dagger in his hand.
+~
+12 1 136249361 0 -1000 S
+29 14 8 55d19+2000 6d9+25
+27450 87350
+8 8 1
+0 0 16 14 14 14 11 10
+#15112
+mob Moorgash vampire wraithlord~
+Wraith Lord Moorgash~
+The vampire wraith lord Moorgash is standing here.
+~
+These are the remains of a human body,animated by the shear power of its
+owner. It has decayed completely over the ages,and is now little more than
+a skeleton,but it moves as if in its living prime. It is wearing the remains
+of a large black battle dress that reaches down to the ground,concealing a
+large portion of this creatures form from view. It moves silently but
+swiftly,and it's decayed face seems to be grinning at you evilly.
+~
+2416904 32769 136249393 33554440 -1000 S
+40 3 -22 70d19+12000 1d3+7
+703500 253000
+8 8 1
+0 0 22 23 21 21 18 18
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#15113
+mob Karnak vampire wraithlord~
+Wraith Lord Karnak~
+The vampire wraith lord Karnak is standing here.
+~
+This is the corpse of a long dead necromancer,animated by the power of it's
+previously living owner,who has bound himself to this plane to avoid complete
+and total death. It's skin and flesh has almost completely decayed away,
+leaving just the skeleton and adornments of the creature. It is wearing a
+chain mail suit that covers it's entire body like a huge robe of steel.
+~
+2416904 1 136249393 33554568 -1000 S
+40 3 -22 100d49+3800 8d3+15
+679200 249500
+8 8 1
+0 0 21 23 19 21 19 19
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#15114
+mob Goranshi vampire wraithlord~
+Wraith Lord Goranshi~
+The vampire wraith lord Goranshi is standing here.
+~
+These are the remains of the long dead necromancer Goranshi,who bound his
+spirit to this plane with terrible magic to avoid final and ultimate death.
+His flesh has completely rotted away,leaving a putrid skeleton wearing the
+tattered remains of his once glorious clothing. His whole body appears to
+be engulfed in supernatural flames,which somehow do not affect him,or his
+attire. You can barely make out his huge grinning skull,through the flames
+which are much denser over his head than the rest of his body. 
+~
+2416904 32769 136249393 2056 -1000 S
+40 3 -22 100d99+7500 4d5+4
+714000 280000
+8 8 1
+0 0 22 20 20 21 17 20
+SKILL=SPELL_FIRE_BREATH 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#15115
+mob Nagash vampire wraithlord~
+Wraith Lord Nagash~
+The vampire wraith lord Nagash is standing here.
+~
+These are the remains of the long dead sorceror Nagash,who used his power
+to bind his soul to his body and this plane,and now serves under Karak
+unquestionably,drawing even more power from the great necromancer himself.
+His body has decayed completely,leaving just a tarnished skeleton wearing
+the clothing of his former living self.
+~
+2416904 32769 136249393 33554440 -1000 S
+40 3 -22 50d99+10000 7d5+7
+707700 245000
+8 8 1
+0 0 21 21 21 20 17 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_TYPE=100
+#15116
+mob Khemrizzar vampire wraithlord~
+Wraith Lord Khemrizzar~
+The vampire wraith lord Khemrizzar is standing here.
+~
+You see before you the ultimate fate of those who dabble into the dark art
+of necromancy. His body has died long ago,but his spirit has stayed,driving
+the corpse on endlessly. He laughs with a maniacal grin,despite the absence
+of any flesh on his body. His left hand has been lost somewhere in his 
+undoubtably long past,and has been replaced with a large metal talon,grafted
+onto the bone of his arm. He is dressed in the ragged remains of a long blue
+robe,that almost touches the ground,and wears a huge purple cape over the top.
+~
+2416904 32769 136249393 33554440 -1000 S
+40 3 -22 50d79+10650 6d9+0
+710400 263450
+8 8 1
+0 0 21 22 21 19 19 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#15117
+mob Surmoth vampire wraithlord~
+Wraith Lord Surmoth~
+The vampire wraith lord Surmoth is standing here.
+~
+These are the reanimated remains of a long dead necromancer. He has bound his
+spirit to his body with his dark powers,and now lives on forever as a member
+of the undead. His body has decayed of all it's flesh,and all that is left is
+the skeleton,moving swiftly now it is free of the encumberance of it's former
+load. His long brown robe has long since deteriorated into a tattered rag that
+now barely clings to his body as he stands here,watching you.
+~
+2416904 1 136249393 33554440 -1000 S
+40 3 -22 100d79+9000 4d5+15
+693000 273875
+8 8 1
+0 0 22 23 21 19 20 17
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+#15118
+mob Raschid vampire wraithlord~
+Wraith Lord Raschid~
+The vampire wraith lord Raschid is standing here.
+~
+This is the corpse of the necromancer,Raschid,reanimated by his own power
+after his death as he tried to save himself from absolute death. Now his
+spirit is bound to his corpse,and he has a physical presence in this plane
+that will last for aeons. He has a long black robe covering his body and legs,
+and he has a number of small bones,tied loosely together hanging from his
+neck and down his chest,that whilst not providing much in the way of 
+armour,does help to make this creature look even more fearsome. His flesh
+having long since decayed,his skeleton is all that is left of his body. It
+grins horribly,and his eyes are illuminated by a soft red glow that seems to
+create a mist around his eyes.
+~
+2416904 1 136249393 33554568 -1000 S
+40 3 -22 35d19+6000 5d5+12
+698775 279025
+8 8 1
+0 0 22 22 20 20 20 20
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+#15119
+mob zombie undead~
+A zombie~
+An undead zombie is here,slowly animated by dark forces.
+~
+You see before you a horrific decaying corpse,animated by the dark forces
+prevailant in this land. It's rotting eyes follow you as it lumbers around 
+slowly and the smell is putrescent.It's skin is white,and in some places
+it is actually missing,revealing the sinews of maggot infested muscle below.
+~
+33611784 1 136249361 67108872 -1000 S
+14 25 30 9d19+100 5d3+6
+2140 4215
+8 8 0
+0 0 15 15 12 14 10 12
+#15120
+mob zombie undead~
+A zombie~
+An undead zombie is here,slowly animated by dark forces.
+~
+You see before you a horrific decaying corpse,animated by the dark forces
+prevailant in this land. It's rotting eyes follow you as it lumbers around 
+slowly and the smell is putrescent.It's skin is white,and in some places
+it is actually missing,revealing the sinews of maggot infested muscle below.
+~
+57352 1 136249361 67108872 -1000 S
+14 25 30 8d23+100 3d3+11
+2225 4250
+8 8 0
+0 0 15 15 14 12 12 11
+#15121
+mob orc terrified~
+A terrified orc~
+A whimpering orc is here looking terrified.
+~
+This used to be a fearless warrior,ravaging the country side,but now it has
+been reduced to a whimpering wreck by the horrors that have gone on here. It
+is being kept here in preparation of the Great Summoning,when it will be 
+sacrificed to help satisfy Lord Karak's hungry gods.It has a tough green
+skin and it's clothes are made of strong leather. It looks at you pathetically
+as you stand here.
+~
+140 1 136249361 0 200 S
+12 27 32 8d19+75 3d5+2
+1000 3585
+8 8 1
+17 0 15 16 13 12 11 13
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#15122
+mob orc terrified~
+A terrified orc~
+A whimpering orc is here looking terrified.
+~
+This used to be a fearless warrior,ravaging the country side,but now it has
+been reduced to a whimpering wreck by the horrors that have gone on here. It
+is being kept here in preparation of the Great Summoning,when it will be 
+sacrificed to help satisfy Lord Karak's hungry gods.It has a tough green
+skin and it's clothes are made of strong leather. It looks at you pathetically
+as you stand here.
+~
+140 1 136249361 0 200 S
+12 27 32 20d7+100 2d3+7
+980 3585
+8 8 1
+17 0 15 13 13 13 11 13
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#15123
+mob Darkoth vampire necromancer~
+Lord Darkoth~
+The vampire necromancer lord Darkoth is standing here.
+~
+He is a tall thin man,about seven feet tall,and he looks very thin. Despite
+this there is an aura of grandure about him,and you feel as if he could kill
+you with a single blow. His skin is pale and he has a pair of small fangs
+sticking out of the bottom of his mouth. His eyes seem to be lost in a red
+haze that conceals any insight into this mans soul. He is wearing a large
+blue robe with a huge collar that extends upwards above his head even,and his
+face is the only place where you can actually see his skin.
+~
+2416904 32769 136249393 100663304 -1000 S
+43 1 -28 60d19+22000 20d5+63
+1439500 685000
+8 8 1
+0 1 22 22 19 21 20 20
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#15124
+mob Kroughizad vampire necromancer~
+Lord Kroughizad~
+The vampire necromancer lord Kroughizad is standing here.
+~
+He is a huge man,about seven feet tall and of large build. He has an almost
+white skin and you can make out veins quite clearly. You cannot see his
+eyes as they are enveloped in a dark red haze that seems to float around them.
+His clothes are completely black and the only thing you can see of any other
+colour is his white face,emerging from the top of his huge,dark form.
+~
+2416908 32769 136249393 67109000 -1000 S
+44 1 -30 35d19+13000 9d9+53
+1820000 823450
+8 8 1
+0 1 22 21 20 22 20 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_TYPE=100
+#15125
+mob skeleton champion~
+A skeletal champion~
+A powerful looking skeleton is standing here.
+~
+This is the reanimated skeleton of one of Karak's closest and most powerful
+followers,no longer able to serve his master naturally,he now stalks this 
+place seeking out the enemies of Karak,drawing power from the immense force
+that is his master. His eyes glow with a horrible orange light,and his 
+fiendish grin seems to be far more horrible than any normal jaw could have.
+~
+33873932 1 136249361 100663296 -1000 S
+30 13 5 20d19+3000 5d5+7
+30000 181000
+8 8 0
+0 0 19 20 18 16 16 16
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#15126
+mob shimmergloom dragon~
+&wSh&Wimm&wer&Kgloom&n~
+&wSh&Wimm&Wer&Kgloom&n, the ancient &Kblack &ndragon is here.
+~
+  Shimmergloom is one of the oldest dragons still alive. So old in fact, that his once shiny 
+black scales have become nearly iridescent. He has terrorized the surrounding lands for nearly
+a millenia, but now spends most of his time sleeping in his cave, not caring about the world 
+around him. He does not, however, take kindly to strangers entering his lair...besides, he 
+hasn't had a good snack in a few decades.
+~
+1087758348 294913 136249361 1076904110 0 S
+50 -35 -40 100d100+62000 20d20+60
+7000000 2500000
+8 8 1
+0 0 17 15 14 15 12 12
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_CURSE 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_SLEEP 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 40
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_HEMMORAGE 99
+SKILL=SPELL_PESTILENCE 99
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=106
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+#15127
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 17 16 15 15 15
+$~
+#999999
