@@ -4853,7 +4853,7 @@ void db6500_delete_char(struct char_data * ch, char *arg, int cmd)
 
 	/* CHECK IF THEY ARE TRYING TO DELETE THE BOSS */
 
-	if (!strncmp(st.name, "Shalira", 7) || !strncmp(st.name, "Miriamele", 9)) {
+	if (!strncmp(st.name, "Xavior", 6) || !strncmp(st.name, "Oldschool", 9)) {
 		send_to_char("Try that once more and you'll never be able to login here again.\r\n", ch);
 		sprintf(buf2, "WARNING: %s just tried to delete %s!!",
 			GET_REAL_NAME(ch), st.name);

@@ -1,0 +1,45 @@
+This details the contents of the Conrtrolscripts directory
+
+DIRECTORIES
+
+/backups                - This holds the backups created by daily_backup.sh and weekly_backup.sh
+
+FILES
+
+.autorundev.sh          - Script run by start_dev start port and bring it back up if it goes down. (only pause seems to work properly for bringing up the MUD)
+
+.autorunhell.sh         - Script run by start_hell start port and bring it back up if it goes down. (only pause seems to work properly for bringing up the MUD)
+
+.autorunprod.sh         - Script run by start_prod start port and bring it back up if it goes down. (only pause seems to work properly for bringing up the MUD)
+
+.autoruntest.sh         - Script run by start_test start port and bring it back up if it goes down. (only pause seems to work properly for bringing up the MUD)
+
+autorunhell.sh          - Visible clone of script actual used to run its respective port
+
+autoruntest.sh          - Visible clone of script actual used to run its respective port
+
+autorunprod.sh          - Visible clone of script actual used to run its respective port
+
+autorundev.sh           - Visible clone of script actual used to run its respective port
+
+crontab                 - Example crontab to run all of the relevant MUD scripts
+
+daily_backup.sh         - Script to create daily backups
+
+mudrunning.sh           - Script to check if the MUD is up and bring it up if it is not up
+
+port_zone.sh            - Script to move Zones from DEV to Prod port.
+
+rotate_logs.sh          - Script to rotate the logs so the don't get too large.
+
+rotate_mudrunning.sh    - Script to rotate mudrunning.txt log
+
+start_dev               - Run me to start the DEV port
+
+start_hell              - Run me to start the HELLNIGHT port
+
+start_prod              - Run me to start the PROD port
+
+start_test              - Run me to start the TEST port
+
+weekly_backup.sh        - Script to create weekly backups
