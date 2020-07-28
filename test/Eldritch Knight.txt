@@ -1,0 +1,29 @@
+CLASS: Eldritch Knight       Desc: MAGE
+
+Eldritch knights are rare among magic-users in their ability to wade 
+into battle alongside warriors. Those who must face eldritch knights 
+in combat fear them greatly, for their versatility on the battlefield 
+is tremendous.
+
+
+Stat adjustments (Max, and gained on level):
+Hit : 140%
+Mana: 140%
+Move: 100%
+
+THAC0 = 30.5 - (LEVEL * 2/3)
+
+Class has the following proficiences(max prof):
+  LVL SPELL/SKILL           LVL SPELL/SKILL           LVL SPELL/SKILL
+  1   slash(99%)            1   magic missile(99%)    1   pierce(99%)
+  2   bludgeon(99%)         3   chill touch(99%)      4   invisibility(99%)
+  5   armor(99%)            5   extra_damage(99%)     7   burning hands(99%)
+  8   locate object(99%)    9   kick(99%)             10  shocking gras(99%)
+  11  improved invi(99%)    12  enchant weapo(99%)    12  bash(99%)
+  15  second(99%)           15  energy drain(99%)     15  teleport self(99%)          
+  17  phase door(99%)       19  fireball(99%)         20  third(99%)
+  20  dodge(99%)            25  mordenk sword(99%)    27  teleport grou(99%)
+  27  identify(99%)         29  succor(99%)           30  firelance(99%)
+  35  hunt(99%)             37  fourth(99%)           39  escape(99%)
+
+  
