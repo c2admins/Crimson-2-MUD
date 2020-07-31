@@ -461,7 +461,7 @@ const char *command[] =
 	"mosh",			/* 397 */
 	"slam",			/* 398 */
 	"email",		/* 399 */
-	"dei",			/* 400 */
+	"admin",		/* 400 */
 	"reply",		/* 401 */
 	"brb",			/* 402 */
 	"agree",		/* 403 */
@@ -477,7 +477,7 @@ const char *command[] =
 	"clan",			/* 413 */
 	"ct",			/* 414 */
 	"top",			/* 415 */
-	"lat",			/* 416 */
+	"staff",		/* 416 */
 	"nwizlist",		/* 417 */
 	"rushtime",		/* 418 */
 	"rushhour",		/* 419 */
@@ -2501,7 +2501,7 @@ void nanny(struct descriptor_data * d, char *arg)
 				break;
 			}
 			else if (GET_LEVEL(d->character) > 20) {
-				SEND_TO_Q("Sorry, chars over level 20 must mud mail a DEI to be deleted.\n\r", d);
+				SEND_TO_Q("Sorry, chars over level 20 must mud mail a IMM to be deleted.\n\r", d);
 				sprintf(colorbuf, CHOOSE_MENU(d->character));
 				SEND_TO_Q(colorbuf, d);
 				break;

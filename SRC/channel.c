@@ -1401,12 +1401,12 @@ void do_imp(struct char_data * ch, char *arg, int cmd)
 	for (; *arg == ' '; arg++);
 
 	if (!(*arg)) {
-		show_history_to_char(CHANNEL_DEI, ch);
+		show_history_to_char(CHANNEL_ADMIN, ch);
 		return;
 	}
 	bzero(buf1, sizeof(buf1));
-	sprintf(buf1, "&wDEI: &K*&w$n&K* &w%s&E", arg);
-	add_to_history(CHANNEL_DEI, "&wDEI: &K*&w%s&K* &w%s&E", GET_NAME(ch), arg);
+	sprintf(buf1, "&wADMIN: &K*&w$n&K* &w%s&E", arg);
+	add_to_history(CHANNEL_ADMIN, "&wADMIN: &K*&w%s&K* &w%s&E", GET_NAME(ch), arg);
 
 
 	for (i = descriptor_list; i; i = i->next)
@@ -1419,7 +1419,7 @@ void do_imp(struct char_data * ch, char *arg, int cmd)
 			}
 		}
 
-	sprintf(buf1, "&KYou &wDEI&K:&w %s&E", arg);
+	sprintf(buf1, "&KYou &wADMIN&K:&w %s&E", arg);
 	ansi_act(buf1, 0, ch, 0, 0, TO_CHAR, GRAY, 0);
 
 	return;
@@ -1441,29 +1441,29 @@ void do_over(struct char_data * ch, char *arg, int cmd)
 	for (; *arg == ' '; arg++);
 
 	if (!(*arg)) {
-		show_history_to_char(CHANNEL_LAT, ch);
+		show_history_to_char(CHANNEL_STAFF, ch);
 		return;
 	}
 
 	if (GET_INCOGNITO(ch) > IMO_IMM || GET_VISIBLE(ch) > IMO_IMM) {
 		(GET_INCOGNITO(ch) == 0) ? (GET_VISIBLE(ch) = IMO_IMM) : (GET_INCOGNITO(ch) == IMO_IMM);
-		co2900_send_to_char(ch, "You are now visible to LAT+'s!\r\n");
+		co2900_send_to_char(ch, "You are now visible to ADMIN's!\r\n");
 	}
 
 	bzero(buf1, sizeof(buf1));
-	sprintf(buf1, "&RLAT: &r[&R$n&r]&R %s&E", arg);
-	add_to_history(CHANNEL_LAT, "&RLAT: &r[&R%s&r]&R %s&E", GET_NAME(ch), arg);
+	sprintf(buf1, "&RSTAFF: &r[&R$n&r]&R %s&E", arg);
+	add_to_history(CHANNEL_STAFF, "&RSTAFF: &r[&R%s&r]&R %s&E", GET_NAME(ch), arg);
 
 	if ((IS_SET(world[ch->in_room].room_flags, RM1_SOUNDPROOF))) {
 		send_to_char("This is a soundproof room so you won't hear replies.\r\n", ch);
 		if ((IS_SET(GET_ACT3(ch), PLR2_NOOVER))) {
-			send_to_char("And you have LAT turned off!\r\n", ch);
+			send_to_char("And you have STAFF turned off!\r\n", ch);
 		}
 	}
 	else {
 		if (IS_PC(ch) && (IS_SET(GET_ACT3(ch), PLR2_NOOVER))) {
 			REMOVE_BIT(GET_ACT3(ch), PLR2_NOOVER);
-			send_to_char("Turning on LAT channel.\r\n", ch);
+			send_to_char("Turning on STAFF channel.\r\n", ch);
 		}
 	}
 
@@ -1477,7 +1477,7 @@ void do_over(struct char_data * ch, char *arg, int cmd)
 			}
 		}
 
-	sprintf(buf1, "&rYou &RLAT&r: &R%s&E", arg);
+	sprintf(buf1, "&rYou &RSTAFF&r: &R%s&E", arg);
 	ansi_act(buf1, 0, ch, 0, 0, TO_CHAR, RED, 0);
 
 	return;

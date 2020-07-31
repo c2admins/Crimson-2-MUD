@@ -41,11 +41,9 @@
 #define GROUP_MORTALS -2
 #define GROUP_AVATS   -3
 #define GROUP_SPIRITS -4
-#define GROUP_REVS    -5
-#define GROUP_LATS    -6
-#define GROUP_DEIIS   -7
-#define GROUP_BOSSES  -8
-#define GROUP_CLAN    -9
+#define GROUP_IMMS    -5
+#define GROUP_ADMIN   -6
+#define GROUP_CLAN    -7
 
 struct msg_data {
 	int real_nr;
@@ -97,9 +95,9 @@ void ma1000_do_mail(struct char_data * ch, char *arg, int cmd)
 		send_to_char(" write   <name> <topic>\r\n", ch);
 		send_to_char(" write   <group> <topic>\r\n", ch);
 		if (GET_LEVEL(ch) > IMO_SPIRIT)
-			send_to_char(" where group can be: mortals, avatars, revetas, latormis,\r\n deiis, bosses, or clan, plus a space and a\r\n clan number (mail write clan 5 <topic> for example).\r\n", ch);
+			send_to_char(" where group can be: mortals, avatars, imms, admin,\r\n or clan, plus a space and a clan number \r\n (mail write clan 5 <topic> for example).\r\n", ch);
 		else
-			send_to_char(" where group can be clan (if your a member of a clan) or revetas.\r\n", ch);
+			send_to_char(" where group can be clan (if your a member of a clan) or imms.\r\n", ch);
 		send_to_char(" remove  <msg>\r\n", ch);
 		send_to_char(" list\r\n", ch);
 		send_to_char(" clear\r\n", ch);
@@ -141,8 +139,8 @@ void ma1000_do_mail(struct char_data * ch, char *arg, int cmd)
 				return;
 			}
 
-			if (is_abbrev(buf2, "revetas")) {
-				lv_target = GROUP_REVS;
+			if (is_abbrev(buf2, "imms")) {
+				lv_target = GROUP_IMMS;
 			}
 
 			else if (is_abbrev(buf2, "mortals") && GET_LEVEL(ch) > IMO_SPIRIT) {
@@ -157,16 +155,8 @@ void ma1000_do_mail(struct char_data * ch, char *arg, int cmd)
 				lv_target = GROUP_SPIRITS;
 			}
 
-			else if (is_abbrev(buf2, "latorrmis") && GET_LEVEL(ch) > IMO_SPIRIT) {
-				lv_target = GROUP_LATS;
-			}
-
-			else if (is_abbrev(buf2, "deiis") && GET_LEVEL(ch) > IMO_SPIRIT) {
-				lv_target = GROUP_DEIIS;
-			}
-
-			else if (is_abbrev(buf2, "bosses") && GET_LEVEL(ch) > IMO_SPIRIT) {
-				lv_target = GROUP_BOSSES;
+			else if (is_abbrev(buf2, "admin") && GET_LEVEL(ch) > IMO_SPIRIT) {
+				lv_target = GROUP_ADMIN;
 			}
 
 			else if (is_abbrev(buf2, "clan")) {
@@ -428,7 +418,7 @@ void ma1300_write_msg(struct char_data * ch, int target, int clanno, char *title
 			return;
 		}
 
-		if (target < -2 && target > -9) {
+		if (target < -2 && target > -7) {
 			int intended_level = 0;
 			switch (target) {
 			case GROUP_AVATS:
@@ -437,16 +427,10 @@ void ma1300_write_msg(struct char_data * ch, int target, int clanno, char *title
 			case GROUP_SPIRITS:
 				intended_level = IMO_SPIRIT;
 				break;
-			case GROUP_REVS:
+			case GROUP_IMMS:
 				intended_level = IMO_IMM;
 				break;
-			case GROUP_LATS:
-				intended_level = IMO_IMM;
-				break;
-			case GROUP_DEIIS:
-				intended_level = IMO_IMP;
-				break;
-			case GROUP_BOSSES:
+			case GROUP_ADMIN:
 				intended_level = IMO_IMP;
 				break;
 			default:
@@ -659,7 +643,7 @@ void ma1350_handle_mail_input(struct descriptor_data * point, char *comm)
 				}
 			}
 		}
-		if (point->mailto < -2 && point->mailto > -9) {
+		if (point->mailto < -2 && point->mailto > -7) {
 			int intended_level = 0;
 			switch (point->mailto) {
 			case GROUP_AVATS:
@@ -668,16 +652,10 @@ void ma1350_handle_mail_input(struct descriptor_data * point, char *comm)
 			case GROUP_SPIRITS:
 				intended_level = IMO_SPIRIT;
 				break;
-			case GROUP_REVS:
+			case GROUP_IMMS:
 				intended_level = IMO_IMM;
 				break;
-			case GROUP_LATS:
-				intended_level = IMO_IMM;
-				break;
-			case GROUP_DEIIS:
-				intended_level = IMO_IMP;
-				break;
-			case GROUP_BOSSES:
+			case GROUP_ADMIN:
 				intended_level = IMO_IMP;
 				break;
 			default:

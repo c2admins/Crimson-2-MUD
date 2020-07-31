@@ -128,11 +128,11 @@ void show_history_to_char(int type, struct char_data * ch)
 		break;
 	case 4:
 		ansi = RED;
-		co2901_ansi_send_to_char(ch, RED, "Previous %d lats:\r\n", MAX_HISTORY_ENTRIES);
+		co2901_ansi_send_to_char(ch, RED, "Previous %d STAFF:\r\n", MAX_HISTORY_ENTRIES);
 		break;
 	case 5:
 		ansi = GRAY;
-		co2901_ansi_send_to_char(ch, GRAY, "Previous %d deiis:\r\n", MAX_HISTORY_ENTRIES);
+		co2901_ansi_send_to_char(ch, GRAY, "Previous %d ADMIN:\r\n", MAX_HISTORY_ENTRIES);
 		break;
 	case 6:
 		ansi = CLR_MUSIC;

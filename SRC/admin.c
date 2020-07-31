@@ -1833,9 +1833,9 @@ void ad1432_display_channel(struct char_data * ch)
 	//send_to_char(buf, ch);
 	sprintf(buf, "&W11&w) &cPkflame     &w: &W%s&n\r\n", BIT3_ON_OFF(PLR3_NOPKFLAME));
 	send_to_char(buf, ch);
-	sprintf(buf, "&W12&w) &cLatormmis   &w: &W%s&n\r\n", BIT2_ON_OFF(PLR2_NOOVER));
+	sprintf(buf, "&W12&w) &cSTAFF   &w: &W%s&n\r\n", BIT2_ON_OFF(PLR2_NOOVER));
 	send_to_char(buf, ch);
-	sprintf(buf, "&W13&w) &cDeiis       &w: &W%s&n\r\n", BIT2_ON_OFF(PLR2_NOIMP));
+	sprintf(buf, "&W13&w) &cADMIN       &w: &W%s&n\r\n", BIT2_ON_OFF(PLR2_NOIMP));
 	send_to_char(buf, ch);
 	sprintf(buf, "&W14&w) &cWizinfo     &w: &W%s&n\r\n", BIT3_ON_OFF(PLR3_NOWIZINFO));
 	send_to_char(buf, ch);

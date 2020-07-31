@@ -3890,7 +3890,7 @@ void do_set_channel(struct char_data * ch, char *arg, int cmd)
 	/* DID WE GET A VALID CHANNEL? */
 	if (!(lv_channel_flag) && user_wants_all != TRUE) {
 		send_to_char("Which channel do you want? (ALL is supported)\r\n", ch);
-		send_to_char("Valid channels:\r\n    ANTE, AVATAR, AUCTION, CLAN, MUSIC,\r\n    CONNECT, PKFLAME, LAT, DEI, GOSSIP, IMMORT\r\n    INFO, SHOUT, SYSTEM, TELL, WIZINFO, and SPIRIT.\r\n", ch);
+		send_to_char("Valid channels:\r\n    ANTE, AVATAR, AUCTION, CLAN, MUSIC,\r\n    CONNECT, PKFLAME, STAFF, ADMIN, GOSSIP, IMMTALK\r\n    INFO, SHOUT, SYSTEM, TELL, WIZINFO, and SPIRIT.\r\n", ch);
 		return;
 	}
 
@@ -4285,12 +4285,12 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 			min_lev = 1;
 			strcpy(flag_name, "NOPKFLAME");
 		}
-		if (is_abbrev(buf, "nolat")) {
+		if (is_abbrev(buf, "nostaff")) {
 			lv_act2_flag = PLR2_NOOVER;
 			min_lev = 1;
 			strcpy(flag_name, "NOOVER");
 		}
-		if (is_abbrev(buf, "nodei")) {
+		if (is_abbrev(buf, "noadmin")) {
 			lv_act2_flag = PLR2_NOIMP;
 			min_lev = 1;
 			strcpy(flag_name, "NOIMP");
@@ -4533,8 +4533,8 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 		 " AUTOGOLD   *FREEZE        NO_PERSONAL_FMSG   SHOW_EXITS  ",
 		 " *SHOW_DIAG  NOAUCTION     NO_BYSTANDER_FMSG  TOGGLE      ",
 		 " QUEST      *MUZZLE_ALL    NOSHOUT            WIMPY       ",
-		 " NOLAT      *MUZZLE_SHOUT  NOSYSTEM          *JAILED      ",
-		 " NODEI      *MUZZLE_BEEP   NOMUSIC           *NOFOLLOW    ",
+		 " NOSTAFF    *MUZZLE_SHOUT  NOSYSTEM          *JAILED      ",
+		 " NOADMIN    *MUZZLE_BEEP   NOMUSIC           *NOFOLLOW    ",
 		 "*NOKILL     *CANTHUNT      NOAVATAR           NOPKFLAME   ",
 		 "*MEDIATOR   *IMM_QUESTOR  *RULER              CAN_FINGER  ",
 		 "*BUILDER     *flags preceeded by a * are priviledged      ");
