@@ -1,0 +1,36 @@
+#
+# 
+#
+# Name must be 4 to 20 characters
+NAME=Warrior
+# enter 5 digit class description which appears on the WHO list
+DESC=WARR
+# Enter three lines of text displayed when view details 80bytes/per
+TEXT1=These are the powerful weapon masters.  These brave fighters
+TEXT2=are big in size and are very strong.  Warriors do not believe
+TEXT3=in using magic or spells, they rely on skill alone.
+TEXT4=none
+ADJHIT=200
+ADJMANA=0
+ADJMOVE=100
+THACO 1 1
+# alignment must be EVIL, NORMAL, GOOD
+ALIGNMENT=NORMAL
+# class must be MAGE, CLERIC, FIGHTER, THIEF
+CLASS=FIGHTER
+# skill/spell adjustments
+SKILL_MIN_LEVEL=SKILL_SLASH 1 
+SKILL_MIN_LEVEL=SKILL_PIERCE 1
+SKILL_MIN_LEVEL=SKILL_BLUDGEON 1
+SKILL_MIN_LEVEL=SKILL_RESCUE 3
+SKILL_MIN_LEVEL=SKILL_EXTRA_DAMAGE 5
+SKILL_MIN_LEVEL=SKILL_KICK 7
+SKILL_MIN_LEVEL=SKILL_BASH 7
+SKILL_MIN_LEVEL=SKILL_SECOND 12
+SKILL_MIN_LEVEL=SKILL_PARRY 13
+SKILL_MIN_LEVEL=SKILL_THIRD 20
+SKILL_MIN_LEVEL=SKILL_HUNT 20
+SKILL_MIN_LEVEL=SKILL_FOURTH 30
+SKILL_MIN_LEVEL=SKILL_RAGE 35
+
+

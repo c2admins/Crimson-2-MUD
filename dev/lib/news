@@ -1,0 +1,46 @@
+
+
+&C----------------------======={&WDevelopment Port NEWS&C}=======----------------------&n
+
+&WJanuary 17, 2009 -
+
+	&w*&n Version 172 of the source code is now running.  Now avatars always have
+	  a cool-down period on potion quaffs.  Additional changes are: minor 
+	  typo fix, Xanth should be less crash-prone, changes from our coding 
+	  repository when we changed to Bazaar, and now there's a reminder to 
+	  vote for our MUD on the MUDCONNECTOR site thanks to Bane / Archangel 
+	  on production port.
+
+&WNovember 15, 2008 -
+
+	&w*&n Version 165 of the source code is now running.  Enjoy!
+
+&WSeptember 27, 2008 -
+
+	&w*&n We ought to maybe keep track of news events over on this port as well, 
+	  so here it goes.
+	&w*&n For a general (and still somewhat incomplete) tutorial on how to be a 
+	  zonelord and use the Builder bit commands, visit the zoning wiki pages
+	  on &uc2trac.frankfleschner.com&n for some guidance.  As always, you can 
+	  rely upon other zonelords or the GrindMaster Zonelord himself, Sprocket.
+	&w*&n Existing zones are in the process of being updated / upgraded.  As you 
+	  become proficient with your zoning abilities, you may be requested to 
+	  help with the work.  This will be a real and fairly immediate 
+	  opportunity to flex your zoning nuts and show your contribution to the 
+	  betterment of the game.
+
+&r--------------------------------------&R OLD &r--------------------------------------&n
+
+Sat May 11 - Added some new helpfiles for balance. These new tables and rules 
+             will be retroactive for all zones that were either modified or new
+             within the past 2 years. If you do not wish to abide by these rules
+             you may put in a zone removal request, but keep in mind all eq from
+             the removed zone will be taken from the production port with no
+             reimbursements.                                           
+
+Thu Sep 06 - New helpfiles added: 90% tables for balance on all OHELP <wearslot>
+             and a secondray option for creating zones under ohelp_avat_balance2
+             and ohelp_mortal_balance2.
+
+
+

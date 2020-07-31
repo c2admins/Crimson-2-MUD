@@ -1,0 +1,60 @@
+
+The first line for a social is:
+
+<social number> <wiz_invisible> <min position>
+
+There are seven lines followed by a "#" to end the social.
+NOTE:  You can leave a line blank.
+       You skip unwanted trailing lines by ending with the "#".
+
+1 What you see if you don't provide an argument
+2 What others see if you don't provide an argument
+3 What you see if you provide an argument
+4 what others will see if you provide an argument
+5 what the victim will see if you provide an argument
+6 what you will see if the victim (argument) doesn't exist
+7 what others see if the victim(argument) doesn't exist.
+#
+social number
+    I'll assign one
+
+wiz_invisible
+    whether chars with a level less than your WIZ_INVIS can see you
+    perform the social: 0=THEY CAN   1=THEY CAN'T
+    For example, smile social has 0, while the cough social has 1
+
+Mininum position (you must me in this position to perform the social)
+    0  dead  
+    1  mortally wounded 
+    2  incapacitated    
+    3  stunned          
+    4  sleeping
+    5  resting
+    6  sitting
+    7  fighting
+    8  standing
+
+The following $ vars can be used: 
+Lower case letters are for orignator, Upper are for victim.
+    $n/$N  name
+    $m/$M  him/her 
+    $s/$s  him/her
+
+*************************************************************** 
+The following is an example of the smile and cough  social:
+NOTE: Notice how cough has two lines and is teminated by "#"
+
+23 1 0
+You smile happily.
+You smile at $M.
+$n beams a smile at $N.
+$n smiles at you.
+There's no one by that name around.
+You smile at yourself.
+$n smiles at $mself.
+#
+109 0 0
+Yuck, try to cover your mouth next time!
+$n coughs loudly.
+#
+

@@ -1,0 +1,192 @@
+#!/bin/bash
+#
+# log_rotate script to Crimson MUD 2
+#
+# By Shalira
+#
+# Add new entries/logs at the bottom
+#
+# This script should be runned daily. preferable from crontab
+# At the moment it'll run every day at 10 am local time
+#
+ 
+rm /zoning/logs/mainlog.7
+mv /zoning/logs/mainlog.6 /zoning/logs/mainlog.7
+mv /zoning/logs/mainlog.5 /zoning/logs/mainlog.6
+mv /zoning/logs/mainlog.4 /zoning/logs/mainlog.5
+mv /zoning/logs/mainlog.3 /zoning/logs/mainlog.4
+mv /zoning/logs/mainlog.2 /zoning/logs/mainlog.3
+mv /zoning/logs/mainlog.1 /zoning/logs/mainlog.2
+mv /zoning/logs/mainlog   /zoning/logs/mainlog.1
+touch /zoning/logs/mainlog
+
+rm /zoning/logs/deaths.7
+mv /zoning/logs/deaths.6 /zoning/logs/deaths.7
+mv /zoning/logs/deaths.5 /zoning/logs/deaths.6
+mv /zoning/logs/deaths.4 /zoning/logs/deaths.5
+mv /zoning/logs/deaths.3 /zoning/logs/deaths.4
+mv /zoning/logs/deaths.2 /zoning/logs/deaths.3
+mv /zoning/logs/deaths.1 /zoning/logs/deaths.2
+mv /zoning/logs/deaths   /zoning/logs/deaths.1
+touch /zoning/logs/deaths
+
+rm /zoning/logs/steals.7
+mv /zoning/logs/steals.6 /zoning/logs/steals.7
+mv /zoning/logs/steals.5 /zoning/logs/steals.6
+mv /zoning/logs/steals.4 /zoning/logs/steals.5
+mv /zoning/logs/steals.3 /zoning/logs/steals.4
+mv /zoning/logs/steals.2 /zoning/logs/steals.3
+mv /zoning/logs/steals.1 /zoning/logs/steals.2
+mv /zoning/logs/steals   /zoning/logs/steals.1
+touch /zoning/logs/steals
+
+rm /zoning/logs/tracefile.old8
+mv /zoning/logs/tracefile.old7 /zoning/logs/tracefile.old8
+mv /zoning/logs/tracefile.old6 /zoning/logs/tracefile.old7
+mv /zoning/logs/tracefile.old5 /zoning/logs/tracefile.old6
+mv /zoning/logs/tracefile.old4 /zoning/logs/tracefile.old5
+mv /zoning/logs/tracefile.old3 /zoning/logs/tracefile.old4
+mv /zoning/logs/tracefile.old2 /zoning/logs/tracefile.old3
+mv /zoning/logs/tracefile.old1 /zoning/logs/tracefile.old2
+mv /zoning/logs/tracefile.1 /zoning/logs/tracefile.old1
+touch /zoning/logs/tracefile.1
+
+rm /zoning/logs/dts.7
+mv /zoning/logs/dts.6 /zoning/logs/dts.7
+mv /zoning/logs/dts.5 /zoning/logs/dts.6
+mv /zoning/logs/dts.4 /zoning/logs/dts.5
+mv /zoning/logs/dts.3 /zoning/logs/dts.4
+mv /zoning/logs/dts.2 /zoning/logs/dts.3
+mv /zoning/logs/dts.1 /zoning/logs/dts.2
+mv /zoning/logs/dts   /zoning/logs/dts.1
+touch /zoning/logs/dts
+
+rm /zoning/logs/firsthit.7
+mv /zoning/logs/firsthit.6 /zoning/logs/firsthit.7
+mv /zoning/logs/firsthit.5 /zoning/logs/firsthit.6
+mv /zoning/logs/firsthit.4 /zoning/logs/firsthit.5
+mv /zoning/logs/firsthit.3 /zoning/logs/firsthit.4
+mv /zoning/logs/firsthit.2 /zoning/logs/firsthit.3
+mv /zoning/logs/firsthit.1 /zoning/logs/firsthit.2
+mv /zoning/logs/firsthit   /zoning/logs/firsthit.1
+touch /zoning/logs/firsthit
+
+rm /zoning/logs/connects.7
+mv /zoning/logs/connects.6 /zoning/logs/connects.7
+mv /zoning/logs/connects.5 /zoning/logs/connects.6
+mv /zoning/logs/connects.4 /zoning/logs/connects.5
+mv /zoning/logs/connects.3 /zoning/logs/connects.4
+mv /zoning/logs/connects.2 /zoning/logs/connects.3
+mv /zoning/logs/connects.1 /zoning/logs/connects.2
+mv /zoning/logs/connects   /zoning/logs/connects.1
+touch /zoning/logs/connects
+
+rm /zoning/logs/wrongpw.7
+mv /zoning/logs/wrongpw.6 /zoning/logs/wrongpw.7
+mv /zoning/logs/wrongpw.5 /zoning/logs/wrongpw.6
+mv /zoning/logs/wrongpw.4 /zoning/logs/wrongpw.5
+mv /zoning/logs/wrongpw.3 /zoning/logs/wrongpw.4
+mv /zoning/logs/wrongpw.2 /zoning/logs/wrongpw.3
+mv /zoning/logs/wrongpw.1 /zoning/logs/wrongpw.2
+mv /zoning/logs/wrongpw   /zoning/logs/wrongpw.1
+touch /zoning/logs/wrongpw
+
+rm /zoning/logs/newplayers.7
+mv /zoning/logs/newplayers.6 /zoning/logs/newplayers.7
+mv /zoning/logs/newplayers.5 /zoning/logs/newplayers.6
+mv /zoning/logs/newplayers.4 /zoning/logs/newplayers.5
+mv /zoning/logs/newplayers.3 /zoning/logs/newplayers.4
+mv /zoning/logs/newplayers.2 /zoning/logs/newplayers.3
+mv /zoning/logs/newplayers.1 /zoning/logs/newplayers.2
+mv /zoning/logs/newplayers   /zoning/logs/newplayers.1
+touch /zoning/logs/newplayers
+
+rm /zoning/logs/delete.7
+mv /zoning/logs/delete.6 /zoning/logs/delete.7
+mv /zoning/logs/delete.5 /zoning/logs/delete.6
+mv /zoning/logs/delete.4 /zoning/logs/delete.5
+mv /zoning/logs/delete.3 /zoning/logs/delete.4
+mv /zoning/logs/delete.2 /zoning/logs/delete.3
+mv /zoning/logs/delete.1 /zoning/logs/delete.2
+mv /zoning/logs/delete   /zoning/logs/delete.1
+touch /zoning/logs/delete
+
+rm /zoning/logs/godcommands.7
+mv /zoning/logs/godcommands.6 /zoning/logs/godcommands.7
+mv /zoning/logs/godcommands.5 /zoning/logs/godcommands.6
+mv /zoning/logs/godcommands.4 /zoning/logs/godcommands.5
+mv /zoning/logs/godcommands.3 /zoning/logs/godcommands.4
+mv /zoning/logs/godcommands.2 /zoning/logs/godcommands.3
+mv /zoning/logs/godcommands.1 /zoning/logs/godcommands.2
+mv /zoning/logs/godcommands   /zoning/logs/godcommands.1
+touch /zoning/logs/godcommands
+
+rm /zoning/logs/errors.7
+mv /zoning/logs/errors.6 /zoning/logs/errors.7
+mv /zoning/logs/errors.5 /zoning/logs/errors.6
+mv /zoning/logs/errors.4 /zoning/logs/errors.5
+mv /zoning/logs/errors.3 /zoning/logs/errors.4
+mv /zoning/logs/errors.2 /zoning/logs/errors.3
+mv /zoning/logs/errors.1 /zoning/logs/errors.2
+mv /zoning/logs/errors   /zoning/logs/errors.1
+touch /zoning/logs/errors
+
+rm /zoning/logs/system.7
+mv /zoning/logs/system.6 /zoning/logs/system.7
+mv /zoning/logs/system.5 /zoning/logs/system.6
+mv /zoning/logs/system.4 /zoning/logs/system.5
+mv /zoning/logs/system.3 /zoning/logs/system.4
+mv /zoning/logs/system.2 /zoning/logs/system.3
+mv /zoning/logs/system.1 /zoning/logs/system.2
+mv /zoning/logs/system   /zoning/logs/system.1
+touch /zoning/logs/system
+
+rm /zoning/logs/rentgone.7
+mv /zoning/logs/rentgone.6 /zoning/logs/rentgone.7
+mv /zoning/logs/rentgone.5 /zoning/logs/rentgone.6
+mv /zoning/logs/rentgone.4 /zoning/logs/rentgone.5
+mv /zoning/logs/rentgone.3 /zoning/logs/rentgone.4
+mv /zoning/logs/rentgone.2 /zoning/logs/rentgone.3
+mv /zoning/logs/rentgone.1 /zoning/logs/rentgone.2
+mv /zoning/logs/rentgone   /zoning/logs/rentgone.1
+touch /zoning/logs/rentgone
+
+rm /zoning/logs/purges.7
+mv /zoning/logs/purges.6 /zoning/logs/purges.7
+mv /zoning/logs/purges.5 /zoning/logs/purges.6
+mv /zoning/logs/purges.4 /zoning/logs/purges.5
+mv /zoning/logs/purges.3 /zoning/logs/purges.4
+mv /zoning/logs/purges.2 /zoning/logs/purges.3
+mv /zoning/logs/purges.1 /zoning/logs/purges.2
+mv /zoning/logs/purges   /zoning/logs/purges.1
+touch /zoning/logs/purges
+
+rm /zoning/logs/equipment.7
+mv /zoning/logs/equipment.6 /zoning/logs/equipment.7
+mv /zoning/logs/equipment.5 /zoning/logs/equipment.6
+mv /zoning/logs/equipment.4 /zoning/logs/equipment.5
+mv /zoning/logs/equipment.3 /zoning/logs/equipment.4
+mv /zoning/logs/equipment.2 /zoning/logs/equipment.3
+mv /zoning/logs/equipment.1 /zoning/logs/equipment.2
+mv /zoning/logs/equipment   /zoning/logs/equipment.1
+touch /zoning/logs/equipment
+
+rm /zoning/logs/nohelp.7
+mv /zoning/logs/nohelp.6 /zoning/logs/nohelp.7
+mv /zoning/logs/nohelp.5 /zoning/logs/nohelp.6
+mv /zoning/logs/nohelp.4 /zoning/logs/nohelp.5
+mv /zoning/logs/nohelp.3 /zoning/logs/nohelp.4
+mv /zoning/logs/nohelp.2 /zoning/logs/nohelp.3
+mv /zoning/logs/nohelp.1 /zoning/logs/nohelp.2
+mv /zoning/logs/nohelp   /zoning/logs/nohelp.1
+touch /zoning/logs/nohelp
+
+rm /zoning/logs/pkill.7
+mv /zoning/logs/pkill.6 /zoning/logs/pkill.7
+mv /zoning/logs/pkill.5 /zoning/logs/pkill.6
+mv /zoning/logs/pkill.4 /zoning/logs/pkill.5
+mv /zoning/logs/pkill.3 /zoning/logs/pkill.4
+mv /zoning/logs/pkill.2 /zoning/logs/pkill.3
+mv /zoning/logs/pkill.1 /zoning/logs/pkill.2
+mv /zoning/logs/pkill   /zoning/logs/pkill.1
+touch /zoning/logs/pkill
