@@ -736,8 +736,8 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 				9122,   //Pseudodragon "Singe"
 				9106,   //bracer of god
 				20863,  //The Mummy's Charm
-				20103   //Talisman of Death
-				99112,  //Brimstone Ring
+				20103,   //Talisman of Death
+				99112  //Brimstone Ring
 				
 			};
 
