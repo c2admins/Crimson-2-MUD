@@ -716,34 +716,29 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 				struct obj_data *obj = 0;
 			int r_num, lv_timer = -1;
 			int qeq_array[] = {
-				79,	//Essence of the Plague
-				20090,	//Boots of Blinding Speed
-				20102,	//Spiked Shield
-				20850,	//Holy Cross of Byzantium
+				80,     //Hatred Belt
 				20864,	//The Ghoul's Belt
-				8900,	//The Shatterer of a Thousand Dreams
-				7445,	//Ladondra's Cross
-				8919,	//The Seal of the Leechworms
-				20097,	//Li Mu Bai's Robe
-				15706,	//blood splattered platemail
-				20096,	//Green Destiny
-				8976,	//A Tail Made of Flames
-				9114,	//a black hood covered in silver runes
-				9116,	//a set of drow chainmail made from an adamantium weave
-				9117,	//a pair of black leather gloves with silver runes
-				9118,	//a pair of black boots covered with silver runes
-				20092,	//Platemail of the Dead
-				15802,	//Hasek's wedding ring
-				20552,	//a ring encrusted with the blood of Hades
-				15801,	//a Detroit NHL ring
-				876,	//Ebony Blade of Irredeemable Despair
-				20094,	//blood covered skull helm
+				8985,	//Chains of an Angel
+				5981,   //the belt of haste
+				20090,	//Boots of Blinding Speed
 				8986,	//Skin-Laced Sandals
 				20091,	//Gauntlets of Godly Might
-				8985,	//Chains of an Angel
+				9117,   //gloves with silver runes
+				19251,  //The gauntlets of the agile
 				880,	//Legacy Leg Plates
-				881,	//Mantle of Dread
-				882	//Spear of Treachery
+				19252,  //fire forged legplates
+				20850,	//Holy Cross of Byzantium
+				876,	//Ebony Blade of Irredeemable Despair
+				6999,   //scythe of death
+				8900,   //Shatterer of Dreams
+				7445,	//Ladondra's Cross
+				8976,	//A Tail Made of Flames
+				9122,   //Pseudodragon "Singe"
+				9106,   //bracer of god
+				20863,  //The Mummy's Charm
+				20103   //Talisman of Death
+				99112,  //Brimstone Ring
+				
 			};
 
 			int mort_qeq_array[] = {
@@ -752,7 +747,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 
 			int temp_number;
 			if (GET_LEVEL(ch) >= IMO_LEV) {
-				temp_number = (number(0, 27));
+				temp_number = (number(0, 21));
 			}
 			else {
 				temp_number = (number(0, 3));
@@ -783,8 +778,8 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 				if (GET_LEVEL(ch) >= IMO_LEV) {
 					switch (number(0, 2)) {
 					case 0:
-						obj = db5100_read_object(db8200_real_object(8900), REAL);
-						sprintf(buf, "Questmaster lore 0 -- 8900");
+						obj = db5100_read_object(db8200_real_object(80), REAL);
+						sprintf(buf, "Questmaster lore 0 -- 80");
 						main_log(buf);
 						break;
 					case 1:
@@ -793,8 +788,8 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 						main_log(buf);
 						break;
 					case 2:
-						obj = db5100_read_object(db8200_real_object(20097), REAL);
-						sprintf(buf, "Questmaster lore 2 -- 20097");
+						obj = db5100_read_object(db8200_real_object(876), REAL);
+						sprintf(buf, "Questmaster lore 2 -- 876");
 						main_log(buf);
 						break;
 					}
