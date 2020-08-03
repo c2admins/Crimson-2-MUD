@@ -884,11 +884,10 @@ void db3000_build_player_index(void)
 	strcat(buf, "\r\n");
 	fputs(buf, wipe_file);
 	fputs("---------------------------------------------------------\r\n", wipe_file);
-	fputs("The following players will be purged between now and a week's\r\n", wipe_file);
-	fputs("time.  If you see a char on this list, and it shouldn't\r\n", wipe_file);
+	fputs("The following players will be purged between now and the next\r\n", wipe_file);
+	fputs("reboot.  If you see a char on this list, and it shouldn't\r\n", wipe_file);
 	fputs("be here, log that char in and enter save.  This will\r\n", wipe_file);
 	fputs("change the last login time.  List is updated each reboot.\r\n", wipe_file);
-	fputs("\r\n\r\n\r\n*NOTE:  Avatars are listed 30 days ahead of time for\r\nextra warning.\r\n", wipe_file);
 	fputs("---------------------------------------------------------\r\n", wipe_file);
 	sprintf(buf, "There are %d names in this list.\r\n", lv_purge_counter);
 	fputs(buf, wipe_file);
@@ -6532,36 +6531,36 @@ int db9900_purge_check(struct char_file_u * lv_char, int lv_flag)
 
 	/* NEWBIE */
 	if (lv_char->level < 2) {
-		if (lv_months > 0 || lv_days > 14)
+		if (lv_months > 0 || lv_days > 30)
 			return (PURGE_NOW);
 		return (PURGE_LATER);
 	}
 
 	/* MORTALS 2 - 15 */
 	else if (lv_char->level < 16) {
-		if (lv_months > 0 || lv_days > 30) {	/* MEANING ITS 2 OR MORE */
+		if (lv_months > 2) {	/* MEANING ITS 2 OR MORE */
 			main_log(buf);
 			spec_log(buf, PURGE_LOG);
 			return (PURGE_NOW);
 		}
-		if (lv_days > 23)
+		if (lv_months > 0)
 			return (PURGE_LATER);
 		return (0);
 	}
 
-	else if (lv_char->level < 31) {
-		if (lv_months > 5) {
-			main_log(buf);
-			spec_log(buf, PURGE_LOG);
-			return (PURGE_NOW);
-		}
-		if (lv_months > 4)
-			return (PURGE_LATER);
-		return (0);
-	}
-
-	else if (lv_char->level < 41) {
+	else if (lv_char->level < 30) {
 		if (lv_months > 11) {
+			main_log(buf);
+			spec_log(buf, PURGE_LOG);
+			return (PURGE_NOW);
+		}
+		if (lv_months > 9)
+			return (PURGE_LATER);
+		return (0);
+	}
+	/* PURGE turned off for level 30 plus
+	else if (lv_char->level < 41) {
+		if (lv_months > 23) {
 			main_log(buf);
 			spec_log(buf, PURGE_LOG);
 			return (PURGE_NOW);
@@ -6592,7 +6591,7 @@ int db9900_purge_check(struct char_file_u * lv_char, int lv_flag)
 			return (PURGE_LATER);
 		return (0);
 	}
-
+        PURGE Turned off for Level 30 plus */
 	/* GODS - NEVER PURGE */
 	if (lv_char->level > IMO_SPIRIT) {
 		return (0);
