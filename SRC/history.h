@@ -23,7 +23,7 @@ show_history_to_char in history.c */
 #define CHANNEL_SPIRIT			2
 #define CHANNEL_IMMTALK			3
 #define CHANNEL_STAFF			4
-#define CHANNEL_ADMIN			5
+#define CHANNEL_BOSS			5
 #define CHANNEL_MUSIC			6
 #define CHANNEL_PKFLAME			7
 

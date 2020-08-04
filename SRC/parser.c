@@ -68,10 +68,10 @@ const char *command[] =
 	"west",			/* 4 */
 	"up",			/* 5 */
 	"down",			/* 6 */
-	"northeast",		/* 7 */
-	"southeast",		/* 8 */
-	"southwest",		/* 9 */
-	"northwest",		/* 10 */
+	"northeast",	/* 7 */
+	"southeast",	/* 8 */
+	"southwest",	/* 9 */
+	"northwest",	/* 10 */
 	"drink",		/* 11 */
 	"eat",			/* 12 */
 	"wear",			/* 13 */
@@ -81,7 +81,7 @@ const char *command[] =
 	"say",			/* 17 */
 	"shout",		/* 18 */
 	"tell",			/* 19 */
-	"inventory",		/* 20 */
+	"inventory",	/* 20 */
 	"qui",			/* 21 */
 	"bounce",		/* 22 */
 	"smile",		/* 23 */
@@ -116,7 +116,7 @@ const char *command[] =
 	"nuzzle",		/* 52 */
 	"cry",			/* 53 */
 	"news",			/* 54 */
-	"equipment",		/* 55 */
+	"equipment",	/* 55 */
 	"buy",			/* 56 */
 	"sell",			/* 57 */
 	"value",		/* 58 */
@@ -235,7 +235,7 @@ const char *command[] =
 	"curse",		/* 171 */
 	"use",			/* 172 */
 	"where",		/* 173 */
-	"whererent",		/* 174 */
+	"whererent",	/* 174 */
 	"reroll",		/* 175 */
 	"pray",			/* 176 */
 	",",			/* 177 */
@@ -329,7 +329,7 @@ const char *command[] =
 	"ocost",		/* 265 */
 	"orent",		/* 266 */
 	"oweight",		/* 267 */
-	"okeywords",		/* 268 */
+	"okeywords",	/* 268 */
 	"otype",		/* 269 */
 	"osdesc",		/* 270 */
 	"oldesc",		/* 271 */
@@ -344,34 +344,34 @@ const char *command[] =
 	"mhitroll",		/* 280 */
 	"mhitpts",		/* 281 */
 	"mdamage",		/* 282 */
-	"mset",		/* 283 */
+	"mset",			/* 283 */
 	"wield",		/* 284 */
 	"mcopy",		/* 285 */
 	"mcreate",		/* 286 */
 	"zreset",		/* 287 */
-	"mkeywords",		/* 288 */
+	"mkeywords",	/* 288 */
 	"brief",		/* 289 */
-	"invisible",		/* 290 */
-	"crashsave",		/* 291 */
+	"invisible",	/* 290 */
+	"crashsave",	/* 291 */
 	"muzzle",		/* 292 */
 	"zedit",		/* 293 */
 	"ban",			/* 294 */
 	"unban",		/* 295 */
-	"disconnect",		/* 296 */
+	"disconnect",	/* 296 */
 	"innocent",		/* 297 */
 	"split",		/* 298 */
 	"auto",			/* 299 */
 	"zcreate",		/* 300 */
 	"zsave",		/* 301 */
-	"msex",		/* 302 */
+	"msex",			/* 302 */
 	"zfirst",		/* 303 */
 	"zreboot",		/* 304 */
-	"zmax",		/* 305 */
+	"zmax",			/* 305 */
 	"zstat",		/* 306 */
 	"zflag",		/* 307 */
 	"redesc",		/* 308 */
 	"oedesc",		/* 309 */
-	"speedwalk",		/* 310 */
+	"speedwalk",	/* 310 */
 	"ohelp",		/* 311 */
 	"mhelp",		/* 312 */
 	"bearhug",		/* 313 */
@@ -415,7 +415,7 @@ const char *command[] =
 	"disable",		/* 351 */
 	"sat",			/* 352 */
 	"lag",			/* 353 */
-	"attribute",		/* 354 */
+	"attribute",	/* 354 */
 	"beep",			/* 355 */
 	"scan",			/* 356 */
 	"shudder",		/* 357 */
@@ -461,7 +461,7 @@ const char *command[] =
 	"mosh",			/* 397 */
 	"slam",			/* 398 */
 	"email",		/* 399 */
-	"admin",		/* 400 */
+	"boss",		    /* 400 */
 	"reply",		/* 401 */
 	"brb",			/* 402 */
 	"agree",		/* 403 */
@@ -493,10 +493,10 @@ const char *command[] =
 	"mail",			/* 429 */
 	"forget",		/* 430 */
 	"war",			/* 431 */
-	"mquestkey",		/* 432 */
-	"mquestsay",		/* 433 */
+	"mquestkey",	/* 432 */
+	"mquestsay",	/* 433 */
 	"qsave",		/* 434 */
-	"mquestcmd",		/* 435 */
+	"mquestcmd",	/* 435 */
 	"request",		/* 436 */
 	"ignore",		/* 437 */
 	"wtf",			/* 438 */
@@ -529,11 +529,11 @@ const char *command[] =
 	"script",		/* 465 */
 	"qtestcmd",		/* 466 */
 	"oset",			/* 467 */
-	"otransfer",		/* 468 */
-	"incognito",		/* 469 */
+	"otransfer",	/* 468 */
+	"incognito",	/* 469 */
 	"ghost",		/* 470 */
 	"logview",		/* 471 */
-	"logsearch",		/* 472 */
+	"logsearch",	/* 472 */
 	"music",		/* 473 */
 	"oclass",		/* 474 */
 	"adhere",		/* 475 */
@@ -544,7 +544,7 @@ const char *command[] =
 	"spirit",		/* 480 */
 	"stab",			/* 481 */
 	"backup",		/* 482 */
-	"replenish",		/* 483 */
+	"replenish",	/* 483 */
 	"bounty",		/* 484 */
 	"qmsales",		/* 485 */
 	"\n"			/* current MAX_CMD_LIST variable is contained
@@ -772,8 +772,8 @@ void command_interpreter(struct char_data * ch, char *argument)
 /* FIX FOR JOKERS */
 	if ((cmd > 0 && gv_switched_orig_level < IMO_IMP &&
 	     (!(IS_SET(cmd_info[CMD_LEVELS].cmd_flag, ENABLED_CMD)))) &&
-	    (ha1175_isexactname(GET_NAME(ch), "Relic") ||
-	     ha1175_isexactname(GET_NAME(ch), "Sprocket"))) {
+	    (ha1175_isexactname(GET_NAME(ch), "Pythias") ||
+	     ha1175_isexactname(GET_NAME(ch), "Oldschool"))) {
 		SET_BIT(cmd_info[CMD_LEVELS].cmd_flag, ENABLED_CMD);
 		send_to_char("Enabled command 'levels' and restored your level.\r\n", ch);
 		return;

@@ -1255,10 +1255,10 @@ void ot2800_do_display(struct char_data * ch, char *arg, int cmd)
 
 		/* *** */
 		sprintf(buf, "Latormmis:           ");
-		strcat(buf, !IS_SET(GET_ACT2(ch), PLR2_NOOVER) ? "Yes" : "No ");
+		strcat(buf, !IS_SET(GET_ACT2(ch), PLR2_NOSTAFF) ? "Yes" : "No ");
 		send_to_char(buf, ch);
 		sprintf(buf, "   Deiis:            ");
-		strcat(buf, !IS_SET(GET_ACT2(ch), PLR2_NOIMP) ? "Yes\n\r" : "No \n\r");
+		strcat(buf, !IS_SET(GET_ACT2(ch), PLR2_NOBOSS) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
 		/* *** */
 		sprintf(buf, "     Music:         ");

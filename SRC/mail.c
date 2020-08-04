@@ -42,7 +42,7 @@
 #define GROUP_AVATS   -3
 #define GROUP_SPIRITS -4
 #define GROUP_IMMS    -5
-#define GROUP_ADMIN   -6
+#define GROUP_BOSS   -6
 #define GROUP_CLAN    -7
 
 struct msg_data {
@@ -95,7 +95,7 @@ void ma1000_do_mail(struct char_data * ch, char *arg, int cmd)
 		send_to_char(" write   <name> <topic>\r\n", ch);
 		send_to_char(" write   <group> <topic>\r\n", ch);
 		if (GET_LEVEL(ch) > IMO_SPIRIT)
-			send_to_char(" where group can be: mortals, avatars, imms, admin,\r\n or clan, plus a space and a clan number \r\n (mail write clan 5 <topic> for example).\r\n", ch);
+			send_to_char(" where group can be: mortals, avatars, imms, boss,\r\n or clan, plus a space and a clan number \r\n (mail write clan 5 <topic> for example).\r\n", ch);
 		else
 			send_to_char(" where group can be clan (if your a member of a clan) or imms.\r\n", ch);
 		send_to_char(" remove  <msg>\r\n", ch);
@@ -155,8 +155,8 @@ void ma1000_do_mail(struct char_data * ch, char *arg, int cmd)
 				lv_target = GROUP_SPIRITS;
 			}
 
-			else if (is_abbrev(buf2, "admin") && GET_LEVEL(ch) > IMO_SPIRIT) {
-				lv_target = GROUP_ADMIN;
+			else if (is_abbrev(buf2, "boss") && GET_LEVEL(ch) > IMO_SPIRIT) {
+				lv_target = GROUP_BOSS;
 			}
 
 			else if (is_abbrev(buf2, "clan")) {

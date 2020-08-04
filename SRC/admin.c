@@ -548,11 +548,11 @@ void ad1100_admin_nanny(struct descriptor_data * d, char *arg)
 			ad1500_show_menu(d);
 			break;
 		case 12:
-			TOGGLE_BIT2(PLR2_NOOVER);
+			TOGGLE_BIT2(PLR2_NOSTAFF);
 			ad1500_show_menu(d);
 			break;
 		case 13:
-			TOGGLE_BIT2(PLR2_NOIMP);
+			TOGGLE_BIT2(PLR2_NOBOSS);
 			ad1500_show_menu(d);
 			break;
 		case 14:
@@ -1833,9 +1833,9 @@ void ad1432_display_channel(struct char_data * ch)
 	//send_to_char(buf, ch);
 	sprintf(buf, "&W11&w) &cPkflame     &w: &W%s&n\r\n", BIT3_ON_OFF(PLR3_NOPKFLAME));
 	send_to_char(buf, ch);
-	sprintf(buf, "&W12&w) &cSTAFF   &w: &W%s&n\r\n", BIT2_ON_OFF(PLR2_NOOVER));
+	sprintf(buf, "&W12&w) &cSTAFF   &w: &W%s&n\r\n", BIT2_ON_OFF(PLR2_NOSTAFF));
 	send_to_char(buf, ch);
-	sprintf(buf, "&W13&w) &cADMIN       &w: &W%s&n\r\n", BIT2_ON_OFF(PLR2_NOIMP));
+	sprintf(buf, "&W13&w) &cBOSS       &w: &W%s&n\r\n", BIT2_ON_OFF(PLR2_NOBOSS));
 	send_to_char(buf, ch);
 	sprintf(buf, "&W14&w) &cWizinfo     &w: &W%s&n\r\n", BIT3_ON_OFF(PLR3_NOWIZINFO));
 	send_to_char(buf, ch);

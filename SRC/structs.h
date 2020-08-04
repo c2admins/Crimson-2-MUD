@@ -1021,8 +1021,8 @@ struct class_data {
 #define PLR2_NO_LOCATE         BIT22
 #define PLR2_ATTACKER          BIT23
 #define PLR2_DEATH_PROCEDURE   BIT24
-#define PLR2_NOOVER            BIT25
-#define PLR2_NOIMP             BIT26
+#define PLR2_NOSTAFF            BIT25
+#define PLR2_NOBOSS            BIT26
 #define PLR2_NEWGRAPHICS       BIT27
 #define PLR2_SHOWNOEXP	       BIT28
 #define PLR2_AFW               BIT29
