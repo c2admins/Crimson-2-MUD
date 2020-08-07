@@ -430,7 +430,7 @@ void ma1300_write_msg(struct char_data * ch, int target, int clanno, char *title
 			case GROUP_IMMS:
 				intended_level = IMO_IMM;
 				break;
-			case GROUP_ADMIN:
+			case GROUP_BOSS:
 				intended_level = IMO_IMP;
 				break;
 			default:
@@ -655,7 +655,7 @@ void ma1350_handle_mail_input(struct descriptor_data * point, char *comm)
 			case GROUP_IMMS:
 				intended_level = IMO_IMM;
 				break;
-			case GROUP_ADMIN:
+			case GROUP_BOSS:
 				intended_level = IMO_IMP;
 				break;
 			default:
