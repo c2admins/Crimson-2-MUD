@@ -1388,22 +1388,24 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 		lv_ac = GET_AC(victim) + li9750_ac_bonus(GET_DEX(victim) + GET_BONUS_DEX(victim)) +
 			races[GET_RACE(victim)].adj_ac;
 		if (lv_ac <= -600)
-			lv_ac = -550;
+			lv_ac = -16;
 		else if (lv_ac <= -500)
-			lv_ac = -525;
+			lv_ac = -14;
 		else if (lv_ac <= -400)
-			lv_ac = -500;
+			lv_ac = -12;
 		else if (lv_ac <= -300)
-			lv_ac = -300;
+			lv_ac = -10;
 		else if (lv_ac <= -200)
-			lv_ac = -200;
+			lv_ac = -8;
 		else if (lv_ac <= -100)
-			lv_ac = -100;
+			lv_ac = -6;
+		else if (lv_ac <= 0)
+			lv_ac = -4;
 		else if (lv_ac > 0)
 			lv_ac = 400;
 		lv_sub_damage = lv_ac >= 0 ?
 			((125 * lv_ac + 950000) / 10000) :
-			((lv_ac * lv_ac * lv_ac) / 2560000) + 90;
+			(lv_ac) + 100;
 		dam = (lv_sub_damage * dam) / 100;
 	}
 	if (IS_AFFECTED(ch, AFF_INVISIBLE)) {
@@ -1415,7 +1417,6 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 	if (ch != victim && attacktype >= TYPE_HIT && attacktype <= TYPE_CRUSH) {
 		dam = perform_condition_damage_multiplier(dam, ch, victim);
 	}
-
 
 	if (IS_AFFECTED(victim, AFF_SANCTUARY)) {
 		if (((attacktype >= TYPE_HIT) && (attacktype <= TYPE_CRUSH)) || IS_PC(victim))
@@ -1431,7 +1432,6 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 			dam = MAXV(0, dam * 0.90);
 
 	}
-
 
 	if (IS_AFFECTED2(victim, AFF2_STONESKIN)) {
 		if (((attacktype >= TYPE_HIT) && (attacktype <= TYPE_CRUSH)) ||
