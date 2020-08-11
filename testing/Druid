@@ -13,5 +13,16 @@ THAC0 = 30.5 - (LEVEL * 2/3)
 Class has the following proficiences(max prof):
   LVL SPELL/SKILL           LVL SPELL/SKILL           LVL SPELL/SKILL
   
+  1   bludgeoning           1   slashing              3   gusher
+  3   piercing              5   hide                  5   barkskin
+  5   hunt                  7   spore cloud           7   faerie fire
+  9   extra_damage          9   kick                  11  needlestorm
+  12  venom blade           13  vigorize minor        13  sustenance
+  15  beastial transform    17  summon treant         17  second
+  19  dodge                 20  remove poison         21  thornwrack
+  23  vigorize medium       25  stoneskin             25  animal summoning
+  29  third                 31  vigorize major        35  wrath of nature
+  
   
   Spells and Level Assignment to be determined
+Mob 2618 needs setup for the Trean Summon
