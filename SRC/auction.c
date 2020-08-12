@@ -151,7 +151,7 @@ void au999_do_auction_identify(struct char_data * ch)
 		}
 		if (IS_OBJ_STAT(obj, OBJ1_ANTI_MAGE) &&
 		    IS_OBJ_STAT(obj, OBJ1_ANTI_WARRIOR)) {
-			strcat(buf, "ANTI_BARD");
+			strcat(buf, "ANTI_BARD ANTI_ELDRITCHKNIGHT");
 		}
 		if ((OVAL1(obj) > 0) &&
 		    (OVAL1(obj) < 36) &&

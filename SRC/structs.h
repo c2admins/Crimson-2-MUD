@@ -106,7 +106,7 @@ unsigned long thebits[32];
 #define MAX_CLAN_DESC       10
 #define NO_CLAN             0
 #define CLAN_APPLY_RANK     0
-#define CLAN_FIRST_RANK			1
+#define CLAN_FIRST_RANK		1
 
 /* values for object values */
 #define VALUE_SPELL_LEVEL      0
@@ -249,23 +249,25 @@ unsigned long thebits[32];
 #define OBJ1_QUEST_ITEM   BIT30
 
 /* Bitvector for object flags2 */
-#define OBJ2_LOCKED			BIT0
-#define OBJ2_VEHICLE_REV		BIT1
-#define OBJ2_NO_IDENTIFY		BIT2
-#define OBJ2_MINLVL15			BIT3
-#define OBJ2_MINLVL25			BIT4
-#define OBJ2_MINLVL35			BIT5
-#define OBJ2_IMMONLY			BIT6
-#define OBJ2_ANTI_DRUID			BIT7
-#define OBJ2_ANTI_RANGER		BIT8
-#define OBJ2_NODROP			BIT9
-#define OBJ2_LORE			BIT10
-#define OBJ2_DUALWIELD			BIT11
-#define OBJ2_ANTI_PALADIN		BIT12
-#define OBJ2_ANTI_PRIEST		BIT13
-#define OBJ2_ANTI_BARD			BIT14
-#define OBJ2_NO_EXTEND			BIT15
-#define OBJ2_MINLVL42    		BIT16
+#define OBJ2_LOCKED					BIT0
+#define OBJ2_VEHICLE_REV			BIT1
+#define OBJ2_NO_IDENTIFY			BIT2
+#define OBJ2_MINLVL15				BIT3
+#define OBJ2_MINLVL25				BIT4
+#define OBJ2_MINLVL35				BIT5
+#define OBJ2_IMMONLY				BIT6
+#define OBJ2_ANTI_DRUID				BIT7
+#define OBJ2_ANTI_RANGER			BIT8
+#define OBJ2_NODROP					BIT9
+#define OBJ2_LORE					BIT10
+#define OBJ2_DUALWIELD				BIT11
+#define OBJ2_ANTI_PALADIN			BIT12
+#define OBJ2_ANTI_PRIEST			BIT13
+#define OBJ2_ANTI_BARD				BIT14
+#define OBJ2_NO_EXTEND				BIT15
+#define OBJ2_MINLVL42    			BIT16
+#define OBJ2_ANTI_ELDRITCHKNIGHT	BIT17
+#define OBJ2_ANTI_MONK				BIT18
 
 
 /* Some different kinds of weapons */
@@ -297,15 +299,17 @@ unsigned long thebits[32];
 
 /* Anti_class flags for objects */
 
-#define OVAL_ANTI_MAGE           BIT0
-#define OVAL_ANTI_CLERIC         BIT1
-#define OVAL_ANTI_THIEF          BIT2
-#define OVAL_ANTI_WARRIOR        BIT3
-#define OVAL_ANTI_BARD           BIT4
-#define OVAL_ANTI_PRIEST         BIT5
-#define OVAL_ANTI_PALADIN        BIT6
-#define OVAL_ANTI_DRUID          BIT7
-#define OVAL_ANTI_RANGER         BIT8
+#define OVAL_ANTI_MAGE           	BIT0
+#define OVAL_ANTI_CLERIC         	BIT1
+#define OVAL_ANTI_THIEF          	BIT2
+#define OVAL_ANTI_WARRIOR        	BIT3
+#define OVAL_ANTI_BARD           	BIT4
+#define OVAL_ANTI_PRIEST         	BIT5
+#define OVAL_ANTI_PALADIN        	BIT6
+#define OVAL_ANTI_DRUID          	BIT7
+#define OVAL_ANTI_RANGER         	BIT8
+#define OVAL_ANTI_ELDRITCHKNIGHT    BIT9
+#define OVAL_ANTI_MONK	         	BIT10
 
 /* Some different kind of liquids */
 
@@ -785,19 +789,22 @@ struct room_data {
 #define RFLAG_seven              BIT7
 
 /* class flags */
-#define CFLAG_GOOD_ALIGNMENT     BIT0
-#define CFLAG_EVIL_ALIGNMENT     BIT1
-#define CFLAG_2                  BIT2
-#define CFLAG_CLASS_MAGE         BIT3
-#define CFLAG_CLASS_CLERIC       BIT4
-#define CFLAG_CLASS_FIGHTER      BIT5
-#define CFLAG_CLASS_THIEF        BIT6
-#define CFLAG_CLASS_PRIEST       BIT7
-#define CFLAG_CLASS_PALADIN      BIT8
-#define CFLAG_CLASS_BARD         BIT9
-#define CFLAG_CLASS_DRUID        BIT10
-#define CFLAG_CLASS_RANGER       BIT11
-#define CFLAG_12                 BIT12
+#define CFLAG_GOOD_ALIGNMENT     		BIT0
+#define CFLAG_EVIL_ALIGNMENT     		BIT1
+#define CFLAG_2                  		BIT2
+#define CFLAG_CLASS_MAGE         		BIT3
+#define CFLAG_CLASS_CLERIC       		BIT4
+#define CFLAG_CLASS_FIGHTER      		BIT5
+#define CFLAG_CLASS_THIEF        		BIT6
+#define CFLAG_CLASS_PRIEST       		BIT7
+#define CFLAG_CLASS_PALADIN      		BIT8
+#define CFLAG_CLASS_BARD        		 BIT9
+#define CFLAG_CLASS_DRUID        		BIT10
+#define CFLAG_CLASS_RANGER       		BIT11
+#define CFLAG_CLASS_ELDRITCHKNIGHT      BIT12
+#define CFLAG_CLASS_MONK	     		BIT13
+
+
 
 /* races for PC's */
 #define RACE_HUMAN        1
@@ -893,17 +900,19 @@ struct race_data {
 
 } races[MAX_RACES];
 /* 'class' for PC's */
-#define CLASS_MAGIC_USER  1
-#define CLASS_CLERIC      2
-#define CLASS_THIEF       3
-#define CLASS_WARRIOR     4
-#define CLASS_BARD        5
-#define CLASS_PRIEST      6
-#define CLASS_PALADIN     7
-#define CLASS_NECROMANCER 8
-#define CLASS_DRUID       12
-#define CLASS_RANGER      13
-#define CLASS_CHAOSKNIGHT 20
+#define CLASS_MAGIC_USER  		1
+#define CLASS_CLERIC      		2
+#define CLASS_THIEF       		3
+#define CLASS_WARRIOR     		4
+#define CLASS_BARD        		5
+#define CLASS_PRIEST      		6
+#define CLASS_PALADIN     		7
+#define CLASS_DRUID       		8
+#define CLASS_ELDRITCHKNIGHT	9
+#define CLASS_MONK       		10
+#define CLASS_RANGER      		13
+#define CLASS_NECROMANCER 		15
+#define CLASS_CHAOSKNIGHT 		20
 
 #define MAX_CLASSES      20	/* WARNING:  You have to have a file for each
 				 * one of these.  The 0 FILE is used as an init

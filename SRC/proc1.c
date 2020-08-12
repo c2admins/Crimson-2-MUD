@@ -580,6 +580,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 
 	lv_cost = ((slevel * slevel * slevel * slevel) / 100 + 1) * (plevel + 1);
 
+	/* These spells are going away */
 	if (lv_what_to_practice == SPELL_LIFETAP || lv_what_to_practice == SPELL_ENCHANT_ARMOR) {
 		send_to_char("Your guildmaster apologizes but tells you there are class limits.\r\n", ch);
 		return;
@@ -1559,6 +1560,9 @@ int pr2700_guild_guard(struct char_data * ch, int cmd, char *arg)
 		if ((GET_LEVEL(ch) < IMO_LEV) &&
 		    (GET_CLASS(ch) == CLASS_CLERIC ||
 		     GET_CLASS(ch) == CLASS_THIEF ||
+			 GET_CLASS(ch) == CLASS_MONK ||
+			 GET_CLASS(ch) == CLASS_PALADIN ||
+			 GET_CLASS(ch) == CLASS_PRIEST ||
 		     GET_CLASS(ch) == CLASS_WARRIOR)) {
 			act(buf2, FALSE, ch, 0, 0, TO_ROOM);
 			send_to_char(buf, ch);
@@ -1570,8 +1574,10 @@ int pr2700_guild_guard(struct char_data * ch, int cmd, char *arg)
 	if ((ch->in_room == db8000_real_room(3004)) && (cmd == CMD_NORTH)) {
 		if ((GET_LEVEL(ch) < IMO_LEV) &&
 		    (GET_CLASS(ch) == CLASS_MAGIC_USER ||
-		     GET_CLASS(ch) == CLASS_PRIEST ||
-		     GET_CLASS(ch) == CLASS_PALADIN)) {
+		     GET_CLASS(ch) == CLASS_THIEF ||
+			 GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT ||
+			 GET_CLASS(ch) == CLASS_MONK ||
+		     GET_CLASS(ch) == CLASS_WARRIOR)) {
 			act(buf2, FALSE, ch, 0, 0, TO_ROOM);
 			send_to_char(buf, ch);
 			return (TRUE);
@@ -1585,6 +1591,8 @@ int pr2700_guild_guard(struct char_data * ch, int cmd, char *arg)
 		     GET_CLASS(ch) == CLASS_CLERIC ||
 		     GET_CLASS(ch) == CLASS_WARRIOR ||
 		     GET_CLASS(ch) == CLASS_PRIEST ||
+			 GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT ||
+			 GET_CLASS(ch) == CLASS_DRUID ||
 		     GET_CLASS(ch) == CLASS_PALADIN)) {
 			act(buf2, FALSE, ch, 0, 0, TO_ROOM);
 			send_to_char(buf, ch);
@@ -1599,7 +1607,8 @@ int pr2700_guild_guard(struct char_data * ch, int cmd, char *arg)
 		    (GET_CLASS(ch) == CLASS_MAGIC_USER ||
 		     GET_CLASS(ch) == CLASS_CLERIC ||
 		     GET_CLASS(ch) == CLASS_THIEF ||
-		     GET_CLASS(ch) == CLASS_BARD)) {
+			 GET_CLASS(ch) == CLASS_DRUID ||
+			 GET_CLASS(ch) == CLASS_BARD)) {
 			act(buf2, FALSE, ch, 0, 0, TO_ROOM);
 			send_to_char(buf, ch);
 			return TRUE;

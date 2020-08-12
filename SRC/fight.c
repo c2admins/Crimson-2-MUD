@@ -2358,6 +2358,22 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 					GET_MOVE(ch) -= 20;
 					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
+				
+			if (number(0, 101) == 1 && IS_PC(ch) && GET_LEVEL(ch) >= IMO_LEV && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT) {
+				if (GET_MOVE(ch) >= 25) {
+					dam *= 1.35;
+					GET_MOVE(ch) -= 25;
+					send_to_char("&y<&YCRITICAL&y> &n", ch);
+				}
+			}
+			
+			if (number(0, 101) == 1 && IS_PC(ch) && GET_LEVEL(ch) >= IMO_LEV && GET_CLASS(ch) == CLASS_MONK) {
+				if (GET_MOVE(ch) >= 50) {
+					dam *= 2;
+					GET_MOVE(ch) -= 50;
+					send_to_char("&y<&YCRITICAL&y> &n", ch);
+				}
+			}
 				else
 					dam *= 1;
 			}
