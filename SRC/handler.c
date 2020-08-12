@@ -1472,8 +1472,8 @@ void ha1925_equip_char(struct char_data * ch, struct obj_data * obj, int pos, in
 		      (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_BARD) && (GET_CLASS(ch) == CLASS_BARD)) ||
 		      (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_PRIEST) && (GET_CLASS(ch) == CLASS_PRIEST)) ||
 		      (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_RANGER) && (GET_CLASS(ch) == CLASS_RANGER)) ||
-		      (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_DRUID) && (GET_CLASS(ch) == CLASS_DRUID))) ||
-			  (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_ELDRITCHKNIGHT) && (GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT))) ||
+		      (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_DRUID) && (GET_CLASS(ch) == CLASS_DRUID)) ||
+			  (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_ELDRITCHKNIGHT) && (GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT)) ||
 			  (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_MONK) && (GET_CLASS(ch) == CLASS_MONK))) ||
 		     ((GET_ITEM_TYPE(obj) == ITEM_ARMOR && IS_SET(OVAL2(obj), OVAL_ANTI_MONK) && (GET_CLASS(ch) == CLASS_MONK)) ||
 			  (GET_ITEM_TYPE(obj) == ITEM_ARMOR && IS_SET(OVAL2(obj), OVAL_ANTI_ELDRITCHKNIGHT) && (GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT)) ||

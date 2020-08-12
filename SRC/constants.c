@@ -1788,7 +1788,7 @@ const char *class_anti[] = {
 	"ANTI_PRIEST",
 	"ANTI_PALADIN",
 	"ANTI_DRUID",
-	"ANTI_ELDRITCHKNIGHT".
+	"ANTI_ELDRITCHKNIGHT",
 	"ANTI_MONK",
 	"\n"
 };
