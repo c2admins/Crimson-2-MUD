@@ -1332,7 +1332,7 @@ void in1800_do_score(struct char_data * ch, char *arg, int cmd)
 			get_jail_time(ch->nextcast, 4));
 		send_to_char(buf, ch);
 	}
-	if ((ch->nextcast == 0) && (ch->skills[SPELL_BEAST_TRANSFORM].learned) && (GET_LEVEL(ch) > IMO_SPIRIT)) {
+	if ((ch->nextcast == 0) && (ch->skills[SPELL_BEAST_TRANSFORM].learned)) {
 		send_to_char("&CYour body can safely handle a beastial transformation.&n\r\n", ch);
 	}
 	switch (GET_POS(k)) {

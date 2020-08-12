@@ -622,7 +622,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
 	}
-	if (lv_what_to_practice >= SPELL_TSUNAMAI && lv_what_to_practice < SPELL_HOLY_HEALING) {
+	if (lv_what_to_practice >= SPELL_TSUNAMI && lv_what_to_practice < SPELL_HOLY_HEALING) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
 	}
