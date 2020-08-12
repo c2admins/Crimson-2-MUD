@@ -6,9 +6,9 @@ NAME=ELDRITCH KNIGHT
 # enter 5 digit class description which appears on the WHO list
 DESC=ELDRI
 # Enter three lines of text displayed when view details 80bytes/per
-TEXT1=Eldritch knights are rare among magic-users in their ability to wade into battle 
-TEXT2=alongside warriors. Those who must face eldritch knights in combat fear them 
-TEXT3=greatly, for their versatility on the battlefield is tremendous
+TEXT1=Eldritch knights are rare among magic-users in their ability to wade into  
+TEXT2=battle alongside warriors. Those who must face eldritch knights in combat 
+TEXT3=fear them greatly, for their versatility on the battlefield is tremendous
 TEXT4=none
 ADJHIT=140
 ADJMANA=140
@@ -24,7 +24,7 @@ SKILL_MIN_LEVEL=SKILL_PIERCE 1
 SKILL_MIN_LEVEL=SPELL_MAGIC_MISSILE 1
 SKILL_MIN_LEVEL=SKILL_BLUDGEON 2
 SKILL_MIN_LEVEL=SPELL_CHILL_TOUCH 3
-SKILL_MIN_LEVEL=SPELL_INVISIBILITY 5
+SKILL_MIN_LEVEL=SPELL_INVISIBLE 5
 SKILL_MIN_LEVEL=SPELL_ARMOR 5
 SKILL_MIN_LEVEL=SKILL_EXTRA_DAMAGE 5
 SKILL_MIN_LEVEL=SPELL_BURNING_HANDS 7
