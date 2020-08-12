@@ -606,19 +606,39 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		return;
 	}
 
-	if (lv_what_to_practice >= SPELL_DEATHSHADOW && lv_what_to_practice <= SPELL_ELEMENTAL_SHIELD) {
+	if (lv_what_to_practice >= SPELL_DEATHSHADOW && lv_what_to_practice <= SPELL_ENTANGLE) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
 	}
-	if (lv_what_to_practice == SPELL_TRANSFORM_CHIMERA ||
+	if (lv_what_to_practice >= SPELL_CALM && lv_what_to_practice <= SPELL_WEB) {
+		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
+		return;
+	}
+	if (lv_what_to_practice > SPELL_ANIMAL_SUMMONING && lv_what_to_practice <= SPELL_EARTHMAW) {
+		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
+		return;
+	}
+	if (lv_what_to_practice > SPELL_FAERIE_FIRE && lv_what_to_practice <= SPELL_METEOR_SWARM) {
+		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
+		return;
+	}
+	if (lv_what_to_practice >= SPELL_TSUNAMAI && lv_what_to_practice < SPELL_HOLY_HEALING) {
+		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
+		return;
+	}
+	if (lv_what_to_practice == SPELL_TREEWALK ||
+		lv_what_to_practice == SPELL_TRANSFORM_CHIMERA ||
 	    lv_what_to_practice == SPELL_TRANSFORM_COW ||
 	    lv_what_to_practice == SPELL_CONVALESCE ||
 	    lv_what_to_practice == SKILL_STAB) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
 	}
-
-	if (lv_what_to_practice >= SPELL_SANCTUARY_MINOR && lv_what_to_practice <= SPELL_SLEEP_IMMUNITY) {
+	if (lv_what_to_practice >= SPELL_SANCTUARY_MINOR && lv_what_to_practice < SPELL_GUSHER) {
+		send_to_char("Your guildmaster apologizes but you cannot practice that spell yet.\r\n", ch);
+		return;
+	}
+	if (lv_what_to_practice >= SPELL_TRANSFORM_MANTICORE && lv_what_to_practice <= SPELL_SLEEP_IMMUNITY) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell yet.\r\n", ch);
 		return;
 	}
