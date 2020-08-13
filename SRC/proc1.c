@@ -580,7 +580,6 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 
 	lv_cost = ((slevel * slevel * slevel * slevel) / 100 + 1) * (plevel + 1);
 
-	/* These spells are going away */
 	if (lv_what_to_practice == SPELL_LIFETAP || lv_what_to_practice == SPELL_ENCHANT_ARMOR) {
 		send_to_char("Your guildmaster apologizes but tells you there are class limits.\r\n", ch);
 		return;
@@ -596,8 +595,8 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		return;
 	}
 
-	if ((lv_what_to_practice == SPELL_MORDEN_SWORD) && (GET_CLASS(ch) != CLASS_MAGIC_USER)) {
-		send_to_char("Your guildmaster apologizes, but only Mages may practice that spell.\r\n", ch);
+	if ((lv_what_to_practice == SPELL_MORDEN_SWORD) && (GET_CLASS(ch) != CLASS_MAGIC_USER && GET_CLASS(ch) != CLASS_ELDRITCHKNIGHT)) {
+		send_to_char("Your guildmaster apologizes, but only Mages and Eldritch Knights may practice that spell.\r\n", ch);
 		return;
 	}
 
@@ -693,7 +692,6 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 	return;
 
 }				/* END OF pr1200_do_the_guild_no_arg() */
-
 
 int pr1400_do_guild(struct char_data * ch, int cmd, char *arg)
 {

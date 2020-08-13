@@ -432,6 +432,14 @@ void spell_fireball(sbyte level, struct char_data * ch,
 				dam *= 2;
 		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);
 	}
+	
+	if (number(1, 26) == 1 &&
+	    GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT &&
+	    GET_LEVEL(ch) >= IMO_LEV) {
+		/* Random critical fire damage for eldritch knight,Pythias 8 - 13 - 2020 */
+				dam *= 1.5;
+		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);
+	}
 
 	send_to_char("The room is engulfed in flames!\n\r", ch);
 	act("$n engulfs the room in flames!", TRUE, ch, 0, 0, TO_ROOM);
