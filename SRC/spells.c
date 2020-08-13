@@ -1624,7 +1624,7 @@ void assign_spell_pointers(void)
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, 0, TAR_IGNORE, cast_treewalk);
 
-	SPELLO(177, 12, POSITION_FIGHTING, 150, 0,
+	SPELLO(177, 12, POSITION_FIGHTING, 50, 0,
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, 0, TAR_IGNORE, cast_summon_treant);
 

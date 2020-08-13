@@ -906,8 +906,8 @@ int check_class_race(int class, int race)
 			switch (class) {
 		case 1:
 		case 5:
+		case 8:
 		case 9:
-		case 10:
 			return 0;
 		default:
 			return 1;
@@ -916,6 +916,7 @@ int check_class_race(int class, int race)
 		//Gnome
 			switch (class) {
 		case 7:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -924,6 +925,7 @@ int check_class_race(int class, int race)
 		//Halfling
 			switch (class) {
 		case 1:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -935,6 +937,7 @@ int check_class_race(int class, int race)
 		case 2:
 		case 6:
 		case 7:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -944,6 +947,8 @@ int check_class_race(int class, int race)
 			switch (class) {
 		case 4:
 		case 7:
+		case 9:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -954,6 +959,7 @@ int check_class_race(int class, int race)
 		case 5:
 		case 6:
 		case 7:
+		case 8:
 			return 0;
 		default:
 			return 1;
@@ -963,6 +969,8 @@ int check_class_race(int class, int race)
 			switch (class) {
 		case 4:
 		case 7:
+		case 9:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -971,6 +979,7 @@ int check_class_race(int class, int race)
 		//Feline
 			switch (class) {
 		case 7:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -983,6 +992,8 @@ int check_class_race(int class, int race)
 		case 5:
 		case 6:
 		case 7:
+		case 8:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -993,6 +1004,8 @@ int check_class_race(int class, int race)
 		case 3:
 		case 5:
 		case 7:
+		case 9:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -1005,6 +1018,7 @@ int check_class_race(int class, int race)
 		case 5:
 		case 6:
 		case 7:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -1015,6 +1029,7 @@ int check_class_race(int class, int race)
 		case 1:
 		case 5:
 		case 7:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -1035,6 +1050,7 @@ int check_class_race(int class, int race)
 			switch (class) {
 		case 5:
 		case 7:
+		case 8:
 			return 0;
 		default:
 			return 1;
@@ -1044,6 +1060,7 @@ int check_class_race(int class, int race)
 			switch (class) {
 		case 5:
 		case 7:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -1056,6 +1073,7 @@ int check_class_race(int class, int race)
 			switch (class) {
 		case 5:
 		case 7:
+		case 8:
 			return 0;
 		default:
 			return 1;
@@ -1067,6 +1085,7 @@ int check_class_race(int class, int race)
 		case 5:
 		case 6:
 		case 7:
+		case 8:
 			return 0;
 		default:
 			return 1;
@@ -1077,6 +1096,8 @@ int check_class_race(int class, int race)
 		case 4:
 		case 6:
 		case 7:
+		case 9:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -1089,6 +1110,7 @@ int check_class_race(int class, int race)
 		case 5:
 		case 6:
 		case 7:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -1098,6 +1120,9 @@ int check_class_race(int class, int race)
 			switch (class) {
 		//case 4:
 		//case 7:
+		case 8:
+		case 9:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -1109,6 +1134,8 @@ int check_class_race(int class, int race)
 		case 3:
 		case 5:
 		case 7:
+		case 9:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -1120,6 +1147,7 @@ int check_class_race(int class, int race)
 		case 4:
 		case 5:
 		case 7:
+		case 8:
 			return 0;
 		default:
 			return 1;
@@ -1129,6 +1157,7 @@ int check_class_race(int class, int race)
 			switch (class) {
 		case 3:
 		case 7:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -1137,6 +1166,7 @@ int check_class_race(int class, int race)
 		//Thri - Kreen
 			switch (class) {
 		case 5:
+		case 8:
 			return 0;
 		default:
 			return 1;
@@ -1147,6 +1177,7 @@ int check_class_race(int class, int race)
 		case 1:
 		case 6:
 		case 7:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -1158,6 +1189,8 @@ int check_class_race(int class, int race)
 		case 5:
 		case 6:
 		case 7:
+		case 8:
+		case 10:
 			return 0;
 		default:
 			return 1;
@@ -1167,6 +1200,7 @@ int check_class_race(int class, int race)
 			switch (class) {
 		case 6:
 		case 7:
+		case 8:
 			return 0;
 		default:
 			return 1;
@@ -1177,6 +1211,7 @@ int check_class_race(int class, int race)
 		case 1:
 		case 5:
 		case 6:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -1187,6 +1222,7 @@ int check_class_race(int class, int race)
 		case 3:
 		case 5:
 		case 7:
+		case 8:
 			return 0;
 		default:
 			return 1;
@@ -1196,6 +1232,7 @@ int check_class_race(int class, int race)
 			switch (class) {
 		case 3:
 		case 6:
+		case 9:
 			return 0;
 		default:
 			return 1;
@@ -1206,6 +1243,7 @@ int check_class_race(int class, int race)
 		case 5:
 		case 6:
 		case 7:
+		case 10:
 			return 0;
 		default:
 			return 1;

@@ -1752,6 +1752,13 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			/* CHECK_FOR_CHARM(); CHECK_FOR_PK(); */
 
 			  dam = dice(MINV(level, 30), 14) + 4 * level;
+			  if (number(1, 26) == 1 &&
+			      GET_CLASS(ch) == CLASS_DRUID &&
+			      GET_LEVEL(ch) >= IMO_LEV) {
+				//Random critical damage for druid
+				dam *= 2;
+				send_to_char("&R*&yCRITICAL&R*&n ", ch);
+			}
 
 			  send_to_char("Thousands of tiny, sharp needles rain from the sky!\n\r", ch);
 			  act("$n calls forth thousands of tiny, sharp needles to rain from the sky!", TRUE, ch, 0, 0, TO_ROOM);
@@ -1856,7 +1863,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 				return;
 			}
 
-			  lv_mob = 2618;
+			  lv_mob = number(0, 3) + 2615;;
 
 			real_num = db8100_real_mobile(lv_mob);
 
@@ -1940,6 +1947,14 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			/* CHECK_FOR_CHARM(); CHECK_FOR_PK(); */
 
 			  dam = dice(MINV(level, 24), 6) + 2 * level;
+			  
+			  if (number(1, 26) == 1 &&
+			      GET_CLASS(ch) == CLASS_DRUID &&
+			      GET_LEVEL(ch) >= IMO_LEV) {
+				//Random critical damage for druid
+				dam *= 2;
+				send_to_char("&R*&yCRITICAL&R*&n ", ch);
+			  }
 
 			  send_to_char("A cloud of poisonous spores fills the room!\n\r", ch);
 			  act("$n calls forth a cloud of poisonous spores!", TRUE, ch, 0, 0, TO_ROOM);
@@ -2037,6 +2052,14 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			/* CHECK_FOR_CHARM(); CHECK_FOR_PK(); */
 
 			  dam = dice(level, 18) + 6 * level;
+			  
+			  if (number(1, 26) == 1 &&
+			      GET_CLASS(ch) == CLASS_DRUID &&
+			      GET_LEVEL(ch) >= IMO_LEV) {
+				//Random critical damage for druid
+				dam *= 2;
+				send_to_char("&R*&yCRITICAL&R*&n ", ch);
+			}
 
 			  send_to_char("The entire area is engulfed in storm as nature's wrath is unleashed!\n\r", ch);
 			  act("$n engulfs the room in storm as $E unleashes nature's wrath!", TRUE, ch, 0, 0, TO_ROOM);
