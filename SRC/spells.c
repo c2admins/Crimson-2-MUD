@@ -1258,7 +1258,7 @@ void assign_spell_pointers(void)
 	       0, APPLY_NONE, AFF_BREATHWATER,
 	       TAR_CHAR_ROOM, cast_breathwater);
 
-	SPELLO(88, 3, POSITION_FIGHTING, 25, 0,
+	SPELLO(88, 3, POSITION_FIGHTING, 30, 0,
 	       ENABLED_SPELL | GENERAL_SPELL,
 	       0, APPLY_NONE, 0,
 	       TAR_CHAR_ROOM, cast_sustenance);
@@ -1321,17 +1321,17 @@ void assign_spell_pointers(void)
 	       0, APPLY_NONE, 0,
 	       TAR_CHAR_ROOM | TAR_SELF_ONLY, cast_vitalize_hit);
 
-	SPELLO(103, 3, POSITION_STANDING, 15, 0,
+	SPELLO(103, 3, POSITION_STANDING, 20, 0,
 	       ENABLED_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, 0,
 	       TAR_CHAR_ROOM, cast_vigorize_minor);
 
-	SPELLO(104, 3, POSITION_STANDING, 20, 0,
+	SPELLO(104, 3, POSITION_STANDING, 25, 0,
 	       ENABLED_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, 0,
 	       TAR_CHAR_ROOM, cast_vigorize_medium);
 
-	SPELLO(105, 3, POSITION_STANDING, 25, 0,
+	SPELLO(105, 3, POSITION_STANDING, 30, 0,
 	       ENABLED_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, 0,
 	       TAR_CHAR_ROOM, cast_vigorize_major);
@@ -1415,7 +1415,7 @@ void assign_spell_pointers(void)
 	       0, APPLY_NONE, 0,
 	       TAR_OBJ_INV | TAR_OBJ_EQUIP, cast_recharge_wand);
 
-	SPELLO(123, 12, POSITION_STANDING, 100, 0,
+	SPELLO(123, 12, POSITION_STANDING, 150, 0,
 	       ENABLED_SPELL | GENERAL_SPELL,
 	       0, APPLY_NONE, 0,
 	       TAR_OBJ_INV | TAR_OBJ_EQUIP, cast_venom_blade);
@@ -1480,17 +1480,9 @@ void assign_spell_pointers(void)
 	       0, APPLY_NONE, 0,
 	       TAR_CHAR_ROOM | TAR_SELF_ONLY, cast_charisma);
 
-	SPELLO(136, 0, POSITION_STANDING,
-	       200, 0, MOB_SKILL, 0, 0, 0,
-	       TAR_IGNORE, 0);
-
-	SPELLO(137, 0, POSITION_STANDING,
-	       200, 0, MOB_SKILL, 0, 0, 0,
-	       TAR_IGNORE, 0);
-
-	SPELLO(138, 0, POSITION_STANDING,
-	       200, 0, MOB_SKILL, 0, 0, 0,
-	       TAR_IGNORE, 0);
+	SPELLO(136, 0, POSITION_STANDING, 200, 0, MOB_SKILL, 0, 0, 0, TAR_IGNORE, 0);
+	SPELLO(137, 0, POSITION_STANDING, 200, 0, MOB_SKILL, 0, 0, 0, TAR_IGNORE, 0);
+	SPELLO(138, 0, POSITION_STANDING, 200, 0, MOB_SKILL, 0, 0, 0, TAR_IGNORE, 0);
 
 	SPELLO(139, 3, POSITION_STANDING, 25, 0,
 	       ENABLED_SPELL | MOB_SPELL | MOVEMENT_SPELL,
@@ -1532,7 +1524,7 @@ void assign_spell_pointers(void)
 	       ENABLED_SPELL | MOB_SPELL,
 	       0, APPLY_MANA, 0, TAR_CHAR_ROOM, cast_bind_souls);
 
-	SPELLO(152, 12, POSITION_STANDING, 250, 0,
+	SPELLO(152, 12, POSITION_STANDING, 200, 0,
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, 0, TAR_SELF_ONLY, cast_mordenkainens_sword);
 
@@ -1580,7 +1572,7 @@ void assign_spell_pointers(void)
 	       ENABLED_SPELL | MOB_SPELL | VIOLENT_SPELL,
 	     0, APPLY_NONE, 0, TAR_CHAR_ROOM | TAR_FIGHT_VICT, cast_entangle);
 
-	SPELLO(166, 12, POSITION_STANDING, 25, 0,
+	SPELLO(166, 12, POSITION_STANDING, 20, 0,
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, AFF2_BARKSKIN, TAR_SELF_ONLY, cast_barkskin);
 
@@ -1588,7 +1580,7 @@ void assign_spell_pointers(void)
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, AFF2_STONESKIN, TAR_SELF_ONLY, cast_stoneskin);
 
-	SPELLO(168, 12, POSITION_STANDING, 50, 0,
+	SPELLO(168, 12, POSITION_STANDING, 25, 0,
 	       ENABLED_SPELL | MOB_SPELL | VIOLENT_SPELL,
 	   0, APPLY_NONE, 0, TAR_CHAR_ROOM | TAR_FIGHT_VICT, cast_thornwrack);
 
@@ -1604,7 +1596,7 @@ void assign_spell_pointers(void)
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
 	0, APPLY_NONE, AFF2_DETECT_UNDEAD, TAR_CHAR_ROOM, cast_detect_undead);
 
-	SPELLO(172, 12, POSITION_FIGHTING, 150, 0,
+	SPELLO(172, 12, POSITION_FIGHTING, 50, 0,
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, 0, TAR_IGNORE, cast_animal_summoning);
 
@@ -1628,11 +1620,11 @@ void assign_spell_pointers(void)
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
 	       0, APPLY_NONE, 0, TAR_IGNORE, cast_summon_treant);
 
-	SPELLO(178, 12, POSITION_FIGHTING, 50, 0,
+	SPELLO(178, 12, POSITION_FIGHTING, 25, 0,
 	       ENABLED_SPELL | MOB_SPELL | VIOLENT_SPELL,
 	   0, APPLY_NONE, 0, TAR_CHAR_ROOM | TAR_FIGHT_VICT, cast_sporecloud);
 
-	SPELLO(179, 12, POSITION_FIGHTING, 100, 0,
+	SPELLO(179, 12, POSITION_FIGHTING, 75, 0,
 	       ENABLED_SPELL | MOB_SPELL | VIOLENT_SPELL,
 	       0, APPLY_NONE, 0, TAR_CHAR_ROOM | TAR_FIGHT_VICT, cast_wrath_of_nature);
 
