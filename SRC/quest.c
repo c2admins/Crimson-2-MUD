@@ -433,26 +433,24 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		1500,   //Bow 
 		3000,   //Crossbow 
 		4500,   //Heavy Crossbow
-		10000,	//Detroit NHL Ring
 		10000,	//Hasek's Wedding Ring
 		15000,	//Sapphire Butterfly
 		25000,	//Emerald Cloak
 		30000,	//Essence of the Plague
-		120000,	//Shatterer of a Thousand Dreams
-		120000,	//Scythe of Death
+		120000,	//Nameless Sword of Assassination
 	};
 
 	/* Command list */
-#define QUEST_POINTS	     1
-#define QUEST_INFO	       2
-#define QUEST_TIME	       3
-#define QUEST_REQUEST	     4
-#define QUEST_COMPLETE	   5
-#define QUEST_LIST	       6
-#define QUEST_BUY	         7
-#define QUEST_REFUSE       8
-#define QUEST_EXTEND       9
-#define QUEST_TRANSFORM   10
+#define QUEST_POINT			1
+#define QUEST_INFO			2
+#define QUEST_TIME			3
+#define QUEST_REQUEST		4
+#define QUEST_COMPLETE		5
+#define QUEST_LIST			6
+#define QUEST_BUY			7
+#define QUEST_REFUSE		8
+#define QUEST_EXTEND		9
+#define QUEST_TRANSFORM		10
 
 	for (; isspace(*arg); arg++);
 	arg = one_argument(arg, arg1);
@@ -719,11 +717,14 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 				80,     //Hatred Belt
 				20864,	//The Ghoul's Belt
 				8985,	//Chains of an Angel
-				5981,   //the belt of haste
 				20090,	//Boots of Blinding Speed
-				8986,	//Skin-Laced Sandals
 				20091,	//Gauntlets of Godly Might
+				9111,   //green sleeves adamantium thread
+				9114,   //black hood with silve runes
+				9115,   //green pants adamantium thread
+				9116,   //drow chainmail
 				9117,   //gloves with silver runes
+				9118,   //black boots with silver runes
 				19251,  //The gauntlets of the agile
 				880,	//Legacy Leg Plates
 				19252,  //fire forged legplates
@@ -731,26 +732,34 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 				876,	//Ebony Blade of Irredeemable Despair
 				6999,   //scythe of death
 				8900,   //Shatterer of Dreams
+				7522,   //Nameless Sword
 				7445,	//Ladondra's Cross
 				8976,	//A Tail Made of Flames
 				9122,   //Pseudodragon "Singe"
 				9106,   //bracer of god
 				20863,  //The Mummy's Charm
-				20103,   //Talisman of Death
-				99112  //Brimstone Ring
-				
+				20103,  //Talisman of Death
+				99112,	//Brimstone Ring
+				15801   //Detroit NHL RING
 			};
-
+			
 			int mort_qeq_array[] = {
-				880, 881, 882, 85
+				8986,   //Skin Laced Sandals
+				9106,   //bracer of god
+				880,    //Legacy Leg Plates
+				881,    //Mantle of Dread
+				882,    //Spear of Treachery
+				7522,   //Nameless Sword
+				5981,   //the belt of haste
+				85      //little black cat
 			};
 
 			int temp_number;
 			if (GET_LEVEL(ch) >= IMO_LEV) {
-				temp_number = (number(0, 21));
+				temp_number = (number(0, 26));
 			}
 			else {
-				temp_number = (number(0, 3));
+				temp_number = (number(0, 7));
 			}
 
 
@@ -912,25 +921,23 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		act("You ask $N for a list of quest items.", TRUE, ch, 0, questman, TO_CHAR);
 		send_to_char("Quest Items for sale:\n\r", ch);
 		send_to_char("    &cQuestpoints                             &C10000&n Gold\r\n", ch);
-		send_to_char("&W 1&n) &cFull Restore                       &G    50&n Qps\n\r", ch);
-		send_to_char("&W 2&n) &cSanctuary                          &G   200&n Qps\n\r", ch);
-		send_to_char("&W 3&n) &cPotion of Fly                      &G   100&n Qps\n\r", ch);
-		send_to_char("&W 4&n) &cScroll of Demonic Aid              &G   100&n Qps\n\r", ch);
-		send_to_char("&W 5&n) &cArrow                              &G    25&n Qps\n\r", ch);
-		send_to_char("&W 6&n) &cPoisoned arrow                     &G    40&n Qps\n\r", ch);
-		send_to_char("&W 7&n) &cBolt                               &G    55&n Qps\n\r", ch);
-		send_to_char("&W 8&n) &cPoisoned bolt                      &G    75&n Qps\n\r", ch);
-		send_to_char("&W 9&n) &cDeadly bolt                        &G   100&n Qps\n\r", ch);
-		send_to_char("&W10&n) &cBow                        (lvl  1)&G  1500&n Qps\n\r", ch);
-		send_to_char("&W11&n) &cCrossbow                   (lvl 20)&G  3000&n Qps\n\r", ch);
-		send_to_char("&W12&n) &cHeavy Crossbow             (lvl 30)&G  4500&n Qps\n\r", ch);
-		send_to_char("&W13&n) &cA Detroit NHL Ring         (lvl 41)&G 10000&n Qps\n\r", ch);
-		send_to_char("&W14&n) &cHasek's Wedding Ring       (lvl 41)&G 10000&n Qps\n\r", ch);
-		send_to_char("&W15&n) &cSapphire Butterfly         (lvl 41)&G 15000&n Qps\n\r", ch);
-		send_to_char("&W16&n) &cEmerald Green Cloak        (lvl 41)&G 25000&n Qps\n\r", ch);
-		send_to_char("&W17&n) &cEssence of the Plague      (lvl 41)&G 30000&n Qps\n\r", ch);
-		send_to_char("&W18&n) &cShatterer of Dreams (Good) (lvl 41)&G 120000&n Qps\n\r", ch);
-		send_to_char("&W19&n) &cScythe of Death     (Evil) (lvl 41)&G 120000&n Qps\n\r", ch);
+		send_to_char("&W 1&n) &cFull Restore                         &G    50&n Qps\n\r", ch);
+		send_to_char("&W 2&n) &cSanctuary                            &G   200&n Qps\n\r", ch);
+		send_to_char("&W 3&n) &cPotion of Fly                        &G   100&n Qps\n\r", ch);
+		send_to_char("&W 4&n) &cScroll of Demonic Aid                &G   100&n Qps\n\r", ch);
+		send_to_char("&W 5&n) &cArrow                                &G    25&n Qps\n\r", ch);
+		send_to_char("&W 6&n) &cPoisoned arrow                       &G    40&n Qps\n\r", ch);
+		send_to_char("&W 7&n) &cBolt                                 &G    55&n Qps\n\r", ch);
+		send_to_char("&W 8&n) &cPoisoned bolt                        &G    75&n Qps\n\r", ch);
+		send_to_char("&W 9&n) &cDeadly bolt                          &G   100&n Qps\n\r", ch);
+		send_to_char("&W10&n) &cBow                         &R(lvl  1) &G  1500&n Qps\n\r", ch);
+		send_to_char("&W11&n) &cCrossbow                    &R(lvl 20) &G  3000&n Qps\n\r", ch);
+		send_to_char("&W12&n) &cHeavy Crossbow              &R(lvl 30) &G  4500&n Qps\n\r", ch);
+		send_to_char("&W13&n) &cHasek's Wedding Ring <Lore> &R(lvl 41) &G 10000&n Qps\n\r", ch);
+		send_to_char("&W14&n) &cSapphire Butterfly          &R(lvl 41) &G 15000&n Qps\n\r", ch);
+		send_to_char("&W15&n) &cEmerald Green Cloak         &R(lvl 41) &G 25000&n Qps\n\r", ch);
+		send_to_char("&W16&n) &cEssence of the Plague       &R(lvl 41) &G 30000&n Qps\n\r", ch);
+		send_to_char("&W17&n) &cNameless Sword <Lore>       &R(lvl 41)&G 120000&n Qps\n\r", ch);
 		send_to_char("\r\nTo buy an item type Quest buy <nr>\r\n", ch);
 		send_to_char("For transformations type Quest Transform\r\n", ch);
 		send_to_char("To buy questpoints, type 'buy <amount>'\r\n", ch);
@@ -948,7 +955,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 			return;
 		}
 		lv_buyitem = atoi(arg2);
-		if ((lv_buyitem < 1) || (lv_buyitem > 19)) {
+		if ((lv_buyitem < 1) || (lv_buyitem > 17)) {
 			send_to_char("Unknown item.\r\n", ch);
 			return;
 		}
@@ -967,25 +974,10 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 			do_cast_proc(questman, ch, buf, CMD_CAST, 0);
 			break;
 		case 13:
-			//This is for a Detroit NHL Ring
-                        if (GET_LEVEL(ch) < IMO_LEV){
-                        send_to_char("You do not have enough experience to buy this item!\r\n", ch);
-			ch->questpoints += QuestPrices[lv_buyitem - 1];
-			break;
-			}
-			else {
-			lv_buyitem = 15801;
-                        sprintf(buf, "obj %d", lv_buyitem);
-                        wi2700_do_load(questman, buf, CMD_QUEST);
-                        sprintf(buf, "obj %s", GET_REAL_NAME(ch));
-                        do_give(questman, buf, CMD_QUEST);
-                        break;
-			}
-		case 14:
 			// This is for a Hasek's Wedding Ring
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);
-			ch->questpoints += QuestPrices[lv_buyitem - 1];
+						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
                         else {
@@ -996,11 +988,11 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         do_give(questman, buf, CMD_QUEST);
                         break;
 			}
-		case 15:
+		case 14:
 			// This is for a Sapphire Butterfly
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);
-			ch->questpoints += QuestPrices[lv_buyitem - 1];
+						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
                         else {
@@ -1011,11 +1003,11 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         do_give(questman, buf, CMD_QUEST);
                         break;
 			}
-		case 16:
+		case 15:
 			// This is for an Emerald Green Cloak
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);
-			ch->questpoints += QuestPrices[lv_buyitem - 1];
+						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
                         else {
@@ -1026,11 +1018,11 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         do_give(questman, buf, CMD_QUEST);
                         break;
 			}
-		case 17:
+		case 16:
 			//This is for an Essence of the Plague
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);
-			ch->questpoints += QuestPrices[lv_buyitem - 1];
+						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
                         else {
@@ -1041,30 +1033,15 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         do_give(questman, buf, CMD_QUEST);
                         break;
 			}
-		case 18:
-			// This is for The Shatterer of a Thousand Dreams
+		case 17:
+			// This is for Nameless Sword of Assassination
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);
-			ch->questpoints += QuestPrices[lv_buyitem - 1];
+						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
                         else {
-                        lv_buyitem = 8900;
-                        sprintf(buf, "obj %d", lv_buyitem);
-                        wi2700_do_load(questman, buf, CMD_QUEST);
-                        sprintf(buf, "obj %s", GET_REAL_NAME(ch));
-                        do_give(questman, buf, CMD_QUEST);
-                        break;
-			}
-		case 19:
-			// This is for Scythe of Death
-                        if (GET_LEVEL(ch) < IMO_LEV){
-                        send_to_char("You do not have enough experience to buy this item!\r\n", ch);
-			ch->questpoints += QuestPrices[lv_buyitem - 1];
-                        break;
-                        }
-                        else {
-                        lv_buyitem = 6999;
+                        lv_buyitem = 7522;
                         sprintf(buf, "obj %d", lv_buyitem);
                         wi2700_do_load(questman, buf, CMD_QUEST);
                         sprintf(buf, "obj %s", GET_REAL_NAME(ch));
@@ -1187,7 +1164,7 @@ void qu1200_make_quest(struct char_data * ch)
 	idx = 0;
 	jdx = 0;
 
-	/* Continue walking through mob list untill a suitable mob is found */
+	/* Continue walking through mob list until a suitable mob is found */
 	while ((lv_div != lv_level) ||
 	       (IS_SET(GET_ACT1(vict), PLR1_NOKILL)) ||
 	       (IS_PC(vict)) ||
