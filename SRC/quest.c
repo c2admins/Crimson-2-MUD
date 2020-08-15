@@ -441,7 +441,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 	};
 
 	/* Command list */
-#define QUEST_POINT			1
+#define QUEST_POINTS			1
 #define QUEST_INFO			2
 #define QUEST_TIME			3
 #define QUEST_REQUEST		4
