@@ -48,7 +48,7 @@ const int skill_numbers[] = {
 	144, 145, 146, 147,
 	148, 155, 156, 181,
 	189, 191, 200, 201,
-	202, 203, 214, 216,
+	202, 203, 214, 216,220,
 	0
 };
 
@@ -107,6 +107,7 @@ const char *skill_names[] = {
 	"airwalk",		/* 203 */
 	"envenom weapon",	/* 214 */
 	"track",		/* 216 */
+	"fifth attack", /* 220 */
 	"\n"
 };
 
@@ -330,7 +331,8 @@ const char *spell_names[] = {
 	"track",		/* 216 */
 	"cow form",		/* 217 */
 	"convalesce",		/* 218 */
-	"purge magic",
+	"purge magic",      /* 219 */
+	"fifth",            /* 220 */
 	"\n"			/* we need this to end searching */
 };
 
@@ -554,6 +556,7 @@ const char *sk_sp_defines[] = {
 	"SPELL_TRANSFORM_COW",
 	"SPELL_CONVALESCE",
 	"SPELL_PURGE_MAGIC",
+	"SKILL_FIFTH",
 	"\n"
 };
 
@@ -760,24 +763,25 @@ const char *spell_wear_off_msg[] = {
 	"You are no longer protected from the elements.",
 	"!SKILL_CIRCLE_ATTACK!",/* 200 */
 	"!SKILL_TAUNT!",	/* 201 */
-	"!SKILL_CHARGE!",
-	"Your tiny wings are stressed out and you float to the ground.",	/* 202 */
-	"!SPELL_HOLY_HEALING!",	/* 203 */
-	"!SPELL_LIFETAP!",	/* 204 */
-	"!SPELL_ENCHANT_ARMOR!",/* 205 */
-	"Your inner vexation tempers and dissipates.",	/* 206 */
-	"Your sanctuary wears off",	/* 207 */
+	"!SKILL_CHARGE!",   /* 202 */
+	"Your tiny wings are stressed out and you float to the ground.",	/* 203 */
+	"!SPELL_HOLY_HEALING!",	/* 204 */
+	"!SPELL_LIFETAP!",	/* 205 */
+	"!SPELL_ENCHANT_ARMOR!",/* 206 */
+	"Your inner vexation tempers and dissipates.",	/* 207 */
 	"Your sanctuary wears off",	/* 208 */
-	"You are no longer a womble.",	/* 209 */
-	"!gusher!",		/* 210 */
-	"You are no longer a manticore.",	/* 211 */
-	"You lose your immunity to sleep",	/* 212 */
-	"!SKILL_ENVENOM_WEAPON!",	/* 213 */
-	"You are no longer a chimera.",	/* 214 */
-	"!track!",		/* 215 */
-	"You moo no more.",	/* 216 */
-	"!Convolesence",	/* 217 */
-	"!Purge Magic!",	/* 218 */
+	"Your sanctuary wears off",	/* 209 */
+	"You are no longer a womble.",	/* 210 */
+	"!gusher!",		/* 211 */
+	"You are no longer a manticore.",	/* 212 */
+	"You lose your immunity to sleep",	/* 213 */
+	"!SKILL_ENVENOM_WEAPON!",	/* 214 */
+	"You are no longer a chimera.",	/* 215 */
+	"!track!",		/* 217 */
+	"You moo no more.",	/* 217 */
+	"!Convolesence",	/* 218 */
+	"!Purge Magic!",	/* 219 */
+	"!Fifth",           /* 220*/
 	"\n",
 };
 

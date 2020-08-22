@@ -1181,6 +1181,10 @@ int mb1300_mob_cast(struct char_data * ch, int lv_spell)
 			do_cast_proc(ch, victim, buf, 0, 2);
 			break;
 		}
+	case SKILL_FIFTH:{
+			rc = FALSE;
+			break;
+		}
 	default:{
 			rc = FALSE;
 		}

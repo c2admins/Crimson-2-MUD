@@ -229,12 +229,13 @@
 #define SPELL_TRANSFORM_COW				217
 #define SPELL_CONVALESCE				218
 #define SPELL_PURGE_MAGIC				219
+#define SKILL_FIFTH						220
 
 
 /* VERY IMPORTANT!!!!  This next define must be the same as the last skill/spell!!!
 otherwise, it will be very easy to crash the mud using forget!!!
 */
-#define NUM_SKILLS                      219
+#define NUM_SKILLS                      220
 
 /* Be sure to update spell_names & spell_wear_off_msg in constants.c */
 /* oh oh... will conflict with spells */
