@@ -2474,9 +2474,6 @@ int pr3600_pet_shops(struct char_data * ch, int cmd, char *arg)
 int pr4000_pray_for_items(struct char_data * ch, int cmd, char *arg)
 {
 
-
-
-
 	if (cmd != CMD_PRAY) {
 		return (FALSE);
 	}

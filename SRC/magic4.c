@@ -2163,7 +2163,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			if (magic_fails(ch, victim))
 				return;
 
-			ch->nextcast = time(0) + (number(60, 180)) * 60;
+			ch->nextcast = time(0) + (number(30, 45)) * 60;
 			if (GET_LEVEL(ch) >= IMO_IMP)
 				ch->nextcast = 0;
 
@@ -2217,11 +2217,11 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 					ha1300_affect_to_char(victim, &af);
 
 					af.location = APPLY_DAMROLL;
-					af.modifier = ((GET_LEVEL(ch) / 10) - 1);
+					af.modifier = ((GET_LEVEL(ch) / 10));
 					ha1300_affect_to_char(victim, &af);
 
 					af.location = APPLY_HITROLL;
-					af.modifier = ((GET_LEVEL(ch) / 10) - 3);
+					af.modifier = ((GET_LEVEL(ch) / 10) - 1);
 					ha1300_affect_to_char(victim, &af);
 
 					return;
@@ -2255,11 +2255,11 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_DAMROLL;
-						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
+						af.modifier = ((GET_LEVEL(ch) / 8));
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
-						af.modifier = ((GET_LEVEL(ch) / 8) - 2);
+						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						return;
@@ -2289,11 +2289,11 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_DAMROLL;
-						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
+						af.modifier = ((GET_LEVEL(ch) / 10));
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
-						af.modifier = ((GET_LEVEL(ch) / 10) - 3);
+						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						return;
@@ -2332,7 +2332,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
-						af.modifier = ((GET_LEVEL(ch) / 8) - 2);
+						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						return;
@@ -2362,11 +2362,11 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_DAMROLL;
-						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
+						af.modifier = ((GET_LEVEL(ch) / 10));
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
-						af.modifier = ((GET_LEVEL(ch) / 10) - 3);
+						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						return;
@@ -2397,11 +2397,11 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_DAMROLL;
-						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
+						af.modifier = ((GET_LEVEL(ch) / 8));
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
-						af.modifier = ((GET_LEVEL(ch) / 8) - 2);
+						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						return;
@@ -2449,7 +2449,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
-						af.modifier = ((GET_LEVEL(ch) / 10) - 2);
+						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_DAMROLL;
@@ -2488,7 +2488,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
-						af.modifier = ((GET_LEVEL(ch) / 8) - 2);
+						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						return;
@@ -2519,11 +2519,11 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_DAMROLL;
-						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
+						af.modifier = ((GET_LEVEL(ch) / 8));
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
-						af.modifier = ((GET_LEVEL(ch) / 8) - 2);
+						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						return;
@@ -2553,11 +2553,11 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_DAMROLL;
-						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
+						af.modifier = ((GET_LEVEL(ch) / 10));
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
-						af.modifier = ((GET_LEVEL(ch) / 10) - 3);
+						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						return;

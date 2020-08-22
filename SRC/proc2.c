@@ -594,15 +594,19 @@ int pc1600_healer(struct char_data * ch, int cmd, char *arg)
 	if ((GET_LEVEL(vict) > 20) || IS_NPC(vict))
 		return (FALSE);
 
-	lv_number = number(1, 6);
+	lv_number = number(1, 7);
 
 	switch (lv_number) {
 	case 1:
 		sprintf(buf, "aid %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+		sprintf(buf, "armor %s", GET_REAL_NAME(vict));
+		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 		return (TRUE);
 	case 2:
 		sprintf(buf, "armor %s", GET_REAL_NAME(vict));
+		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+		sprintf(buf, "bless %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 		return (TRUE);
 	case 3:
@@ -610,7 +614,9 @@ int pc1600_healer(struct char_data * ch, int cmd, char *arg)
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 		return (TRUE);
 	case 4:
-		sprintf(buf, "aid %s", GET_REAL_NAME(vict));
+		sprintf(buf, "81 %s", GET_REAL_NAME(vict));
+		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+		sprintf(buf, "75 %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 		return (TRUE);
 	case 5:
@@ -619,6 +625,12 @@ int pc1600_healer(struct char_data * ch, int cmd, char *arg)
 		return (TRUE);
 	case 6:
 		sprintf(buf, "43 %s", GET_REAL_NAME(vict));
+		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+		return (TRUE);
+	case 7:
+		sprintf(buf, "75 %s", GET_REAL_NAME(vict));
+		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+		sprintf(buf, "81 %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 		return (TRUE);
 	default:

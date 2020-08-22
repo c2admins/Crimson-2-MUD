@@ -2173,6 +2173,12 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				    (!((diceroll < 30) && AWAKE(victim) && ((diceroll == 1) || ((calc_thaco - diceroll) > victim_ac))))) {	/* hit */
 					li9900_gain_proficiency(ch, SKILL_FOURTH);
 					num_attacks += 1;
+					diceroll = number(1, 30);
+					if ((number(0, 101) < ch->skills[SKILL_FIFTH].learned) &&
+						(!((diceroll < 30) && AWAKE(victim) && ((diceroll == 1) || ((calc_thaco - diceroll) > victim_ac))))) {	/* hit */
+						li9900_gain_proficiency(ch, SKILL_FIFTH);
+						num_attacks += 1;
+					}
 				}
 			}
 		}
