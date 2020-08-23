@@ -1427,9 +1427,9 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 
 	if (IS_AFFECTED2(victim, AFF2_BARKSKIN)) {
 		if (((attacktype >= TYPE_HIT) && (attacktype <= TYPE_CRUSH)) || IS_PC(victim))
-			dam = MAXV(0, dam * 0.90);
+			dam = MAXV(0, dam * 0.80);
 		else
-			dam = MAXV(0, dam * 0.90);
+			dam = MAXV(0, dam * 0.80);
 
 	}
 
@@ -2325,7 +2325,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				lv_temp_num = lv_temp_num / 2;
 			}
 			if (IS_AFFECTED(victim, AFF2_BARKSKIN)) {
-				lv_temp_num = lv_temp_num * 0.9;
+				lv_temp_num = lv_temp_num * 0.8;
 			}
 			if (IS_AFFECTED(victim, AFF2_STONESKIN)) {
 				lv_temp_num = lv_temp_num * 0.6;

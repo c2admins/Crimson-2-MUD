@@ -433,6 +433,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		1500,   //Bow 
 		3000,   //Crossbow 
 		4500,   //Heavy Crossbow
+		1000,   //Large Backpack
 		10000,	//Hasek's Wedding Ring
 		15000,	//Sapphire Butterfly
 		25000,	//Emerald Cloak
@@ -441,7 +442,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 	};
 
 	/* Command list */
-#define QUEST_POINTS			1
+#define QUEST_POINTS		1
 #define QUEST_INFO			2
 #define QUEST_TIME			3
 #define QUEST_REQUEST		4
@@ -933,6 +934,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		send_to_char("&W10&n) &cBow                         &R(lvl  1) &G  1500&n Qps\n\r", ch);
 		send_to_char("&W11&n) &cCrossbow                    &R(lvl 20) &G  3000&n Qps\n\r", ch);
 		send_to_char("&W12&n) &cHeavy Crossbow              &R(lvl 30) &G  4500&n Qps\n\r", ch);
+		send_to_char("&W13&n) &cLarge Backpack              &R(lvl 10) &G  1000&n Qps\n\r", ch);
 		send_to_char("&W13&n) &cHasek's Wedding Ring <Lore> &R(lvl 41) &G 10000&n Qps\n\r", ch);
 		send_to_char("&W14&n) &cSapphire Butterfly          &R(lvl 41) &G 15000&n Qps\n\r", ch);
 		send_to_char("&W15&n) &cEmerald Green Cloak         &R(lvl 41) &G 25000&n Qps\n\r", ch);
@@ -955,7 +957,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 			return;
 		}
 		lv_buyitem = atoi(arg2);
-		if ((lv_buyitem < 1) || (lv_buyitem > 17)) {
+		if ((lv_buyitem < 1) || (lv_buyitem > 18)) {
 			send_to_char("Unknown item.\r\n", ch);
 			return;
 		}
@@ -974,6 +976,21 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 			do_cast_proc(questman, ch, buf, CMD_CAST, 0);
 			break;
 		case 13:
+			// Large Backpack
+                        if (GET_LEVEL(ch) < 10){
+                        send_to_char("You do not have enough experience to buy this item!\r\n", ch);
+						ch->questpoints += QuestPrices[lv_buyitem - 1];
+                        break;
+                        }
+                        else {
+                        lv_buyitem = 3463;
+                        sprintf(buf, "obj %d", lv_buyitem);
+                        wi2700_do_load(questman, buf, CMD_QUEST);
+                        sprintf(buf, "obj %s", GET_REAL_NAME(ch));
+                        do_give(questman, buf, CMD_QUEST);
+                        break;
+			}
+		case 14:
 			// This is for a Hasek's Wedding Ring
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);
@@ -988,7 +1005,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         do_give(questman, buf, CMD_QUEST);
                         break;
 			}
-		case 14:
+		case 15:
 			// This is for a Sapphire Butterfly
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);
@@ -1003,7 +1020,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         do_give(questman, buf, CMD_QUEST);
                         break;
 			}
-		case 15:
+		case 16:
 			// This is for an Emerald Green Cloak
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);
@@ -1018,7 +1035,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         do_give(questman, buf, CMD_QUEST);
                         break;
 			}
-		case 16:
+		case 17:
 			//This is for an Essence of the Plague
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);
@@ -1033,7 +1050,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         do_give(questman, buf, CMD_QUEST);
                         break;
 			}
-		case 17:
+		case 18:
 			// This is for Nameless Sword of Assassination
                         if (GET_LEVEL(ch) < IMO_LEV){
                         send_to_char("You do not have enough experience to buy this item!\r\n", ch);

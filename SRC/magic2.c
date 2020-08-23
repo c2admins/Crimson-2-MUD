@@ -1795,7 +1795,7 @@ void spell_vigorize_minor(sbyte level, struct char_data * ch,
 	if (magic_fails(ch, victim))
 		return;
 
-	lv_gain = dice(2, 8) + 1;
+	lv_gain = dice(2, 8) + 8;
 
 	if (GET_MOVE(victim) + lv_gain > li1600_move_limit(victim)) {
 		GET_MOVE(victim) = li1600_move_limit(victim);
@@ -1821,7 +1821,7 @@ void spell_vigorize_medium(sbyte level, struct char_data * ch,
 	if (magic_fails(ch, victim))
 		return;
 
-	lv_gain = dice(3, 8) + 1;
+	lv_gain = dice(3, 8) + 8;
 
 	if (GET_MOVE(victim) + lv_gain > li1600_move_limit(victim)) {
 		GET_MOVE(victim) = li1600_move_limit(victim);
@@ -1847,7 +1847,7 @@ void spell_vigorize_major(sbyte level, struct char_data * ch,
 	if (magic_fails(ch, victim))
 		return;
 
-	lv_gain = dice(4, 8) + 1;
+	lv_gain = dice(4, 8) + 8;
 
 	if (GET_MOVE(victim) + lv_gain > li1600_move_limit(victim)) {
 		GET_MOVE(victim) = li1600_move_limit(victim);
