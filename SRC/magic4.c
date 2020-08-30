@@ -717,6 +717,7 @@ void spell_transform_manticore(sbyte level, struct char_data * ch,
 	af.bitvector = AFF_REGENERATION;
 	ha1300_affect_to_char(victim, &af);
 
+	af.duration = lv_time;
 	af.location = APPLY_NONE;
 	af.bitvector = AFF_FLY;
 	ha1300_affect_to_char(victim, &af);
@@ -784,6 +785,7 @@ void spell_transform_dragon(sbyte level, struct char_data * ch,
 		af.bitvector = AFF_SANCTUARY;
 		ha1300_affect_to_char(victim, &af);
 
+		af.duration = lv_time;
 		af.location = APPLY_NONE;
 		af.bitvector = AFF_FLY;
 		ha1300_affect_to_char(victim, &af);
@@ -840,6 +842,7 @@ void spell_transform_dragon(sbyte level, struct char_data * ch,
 		af.bitvector = AFF_SANCTUARY;
 		ha1300_affect_to_char(victim, &af);
 
+		af.duration = lv_time;
 		af.location = APPLY_NONE;
 		af.bitvector = AFF_FLY;
 		ha1300_affect_to_char(victim, &af);
@@ -939,6 +942,7 @@ void spell_transform_dragon(sbyte level, struct char_data * ch,
 		af.bitvector = AFF_SANCTUARY;
 		ha1300_affect_to_char(victim, &af);
 
+        af.duration = lv_time;
 		af.location = APPLY_NONE;
 		af.bitvector = AFF_FLY;
 		ha1300_affect_to_char(victim, &af);
@@ -1020,6 +1024,7 @@ void spell_transform_chimera(sbyte level, struct char_data * ch,
 
 	af.bitvector = 0;
 
+	af.duration = lv_time;
 	af.location = APPLY_NONE;
 	af.bitvector = AFF_FLY;
 	ha1300_affect_to_char(victim, &af);
@@ -1208,6 +1213,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 			af.bitvector = 0;
 
+			af.duration = lv_time;
 			af.location = APPLY_NONE;
 			af.bitvector = AFF_FLY;
 			ha1300_affect_to_char(victim, &af);
@@ -2193,69 +2199,34 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 			switch (spell_array[idx]) {
 			case 1:{
-					send_to_char("You become a badger!\r\n", victim);
-					act("$n turns into a badger!", FALSE, victim, 0, 0, TO_ROOM);
-					send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
-
-					lv_time = 10;
-
-					af.type = SPELL_BEAST_TRANSFORM;
-					af.duration = lv_time;
-					af.modifier = (GET_LEVEL(ch) / 15);
-					af.location = APPLY_BONUS_STR;
-					af.bitvector = AFF_TRANSFORMED;
-					ha1300_affect_to_char(victim, &af);
-
-					af.bitvector = 0;
-
-					af.location = APPLY_HIT;
-					af.modifier = ((GET_LEVEL(ch) / 5) + 10);
-					ha1300_affect_to_char(victim, &af);
-
-					af.location = APPLY_MOVE;
-					af.modifier = ((GET_LEVEL(ch) / 2) + 10);
-					ha1300_affect_to_char(victim, &af);
-
-					af.location = APPLY_DAMROLL;
-					af.modifier = ((GET_LEVEL(ch) / 10));
-					ha1300_affect_to_char(victim, &af);
-
-					af.location = APPLY_HITROLL;
-					af.modifier = ((GET_LEVEL(ch) / 10) - 1);
-					ha1300_affect_to_char(victim, &af);
-
-					return;
-				}
-			case 2:{
 					btnum = (number(1, 3));
-
 					if (btnum == 1 || btnum == 3) {
-						send_to_char("You become an eagle!\r\n", victim);
-						act("$n turns into an eagle!", FALSE, victim, 0, 0, TO_ROOM);
+						send_to_char("You become a serpent!\r\n", victim);
+						act("$n turns into a serpent!", FALSE, victim, 0, 0, TO_ROOM);
 						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
 
 						lv_time = 15;
 
 						af.type = SPELL_BEAST_TRANSFORM;
 						af.duration = lv_time;
-						af.modifier = (GET_LEVEL(ch) / 15);
+						af.modifier = (GET_LEVEL(ch) / 10);
 						af.location = APPLY_BONUS_DEX;
 						af.bitvector = AFF_TRANSFORMED;
 						ha1300_affect_to_char(victim, &af);
 
 						af.bitvector = 0;
 
-						af.location = APPLY_MOVE;
-						af.modifier = (GET_LEVEL(ch) + 10);
+						af.location = APPLY_BONUS_CHA;
+						af.modifier = ((GET_LEVEL(ch) / 5) - 1);
 						ha1300_affect_to_char(victim, &af);
 
 						af.modifier = -1;
 						af.location = APPLY_NONE;
-						af.bitvector = AFF_FLY;
+						af.bitvector = AFF_BREATHWATER;
 						ha1300_affect_to_char(victim, &af);
 
-						af.location = APPLY_DAMROLL;
-						af.modifier = ((GET_LEVEL(ch) / 8));
+						af.location = APPLY_MANA;
+						af.modifier = ((GET_LEVEL(ch) / 2) + 10);
 						ha1300_affect_to_char(victim, &af);
 
 						af.location = APPLY_HITROLL;
@@ -2299,10 +2270,9 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						return;
 					}
 				}
-			case 3:{
-					btnum = (number(1, 4));
-
-					if (btnum == 1 || btnum == 4) {
+			case 2:{
+					btnum = (number(1, 3));
+					if (btnum == 1) {
 						send_to_char("You become a serpent!\r\n", victim);
 						act("$n turns into a serpent!", FALSE, victim, 0, 0, TO_ROOM);
 						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
@@ -2372,6 +2342,9 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						return;
 					}
 					else if (btnum == 3) {
+						if (IS_AFFECTED(victim, AFF_FLY)) {
+						ha1350_affect_from_char(victim, SPELL_FLY);
+						}
 						send_to_char("You become an eagle!\r\n", victim);
 						act("$n turns into an eagle!", FALSE, victim, 0, 0, TO_ROOM);
 						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
@@ -2391,7 +2364,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						af.modifier = (GET_LEVEL(ch) + 10);
 						ha1300_affect_to_char(victim, &af);
 
-						af.modifier = -1;
+						af.duration = lv_time;
 						af.location = APPLY_NONE;
 						af.bitvector = AFF_FLY;
 						ha1300_affect_to_char(victim, &af);
@@ -2407,10 +2380,13 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						return;
 					}
 				}
-			case 4:{
-					btnum = (number(1, 6));
+			case 3:{
+					btnum = (number(1, 4));
 
-					if (btnum == 1 || btnum == 3 || btnum == 4) {
+					if (btnum == 1) {
+						if (IS_AFFECTED(victim, AFF_FLY)) {
+						ha1350_affect_from_char(victim, SPELL_FLY);
+						}
 						send_to_char("You transform into a drake!\r\n", victim);
 						act("$n transforms into a drake!", FALSE, victim, 0, 0, TO_ROOM);
 						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
@@ -2430,7 +2406,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						af.modifier = (GET_LEVEL(ch) / 15);
 						ha1300_affect_to_char(victim, &af);
 
-						af.modifier = -1;
+						af.duration = lv_time;
 						af.location = APPLY_NONE;
 						af.bitvector = AFF_FLY;
 						ha1300_affect_to_char(victim, &af);
@@ -2493,7 +2469,10 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 						return;
 					}
-					else if (btnum == 5) {
+					else if (btnum == 3) {
+						if (IS_AFFECTED(victim, AFF_FLY)) {
+						ha1350_affect_from_char(victim, SPELL_FLY);
+						}						
 						send_to_char("You become an eagle!\r\n", victim);
 						act("$n turns into an eagle!", FALSE, victim, 0, 0, TO_ROOM);
 						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
@@ -2513,7 +2492,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 						af.modifier = (GET_LEVEL(ch) + 10);
 						ha1300_affect_to_char(victim, &af);
 
-						af.modifier = -1;
+						af.duration = lv_time;
 						af.location = APPLY_NONE;
 						af.bitvector = AFF_FLY;
 						ha1300_affect_to_char(victim, &af);
@@ -2528,7 +2507,163 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 						return;
 					}
-					else if (btnum == 6) {
+					else if (btnum == 4) {
+						send_to_char("You become a badger!\r\n", victim);
+						act("$n turns into a badger!", FALSE, victim, 0, 0, TO_ROOM);
+						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
+
+						lv_time = 10;
+
+						af.type = SPELL_BEAST_TRANSFORM;
+						af.duration = lv_time;
+						af.modifier = (GET_LEVEL(ch) / 15);
+						af.location = APPLY_BONUS_STR;
+						af.bitvector = AFF_TRANSFORMED;
+						ha1300_affect_to_char(victim, &af);
+
+						af.bitvector = 0;
+
+						af.location = APPLY_HIT;
+						af.modifier = ((GET_LEVEL(ch) / 5) + 10);
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_MOVE;
+						af.modifier = ((GET_LEVEL(ch) / 2) + 10);
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_DAMROLL;
+						af.modifier = ((GET_LEVEL(ch) / 10));
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_HITROLL;
+						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
+						ha1300_affect_to_char(victim, &af);
+
+						return;
+					}
+				}
+			case 4:{
+					btnum = (number(1, 5));
+
+					if (btnum == 1 || btnum == 5) {
+						send_to_char("You transform into a drake!\r\n", victim);
+						act("$n transforms into a drake!", FALSE, victim, 0, 0, TO_ROOM);
+						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
+
+						lv_time = 20;
+
+						af.type = SPELL_BEAST_TRANSFORM;
+						af.duration = lv_time;
+						af.modifier = (GET_LEVEL(ch) / 10);
+						af.location = APPLY_BONUS_STR;
+						af.bitvector = AFF_TRANSFORMED;
+						ha1300_affect_to_char(victim, &af);
+
+						af.bitvector = 0;
+
+						af.location = APPLY_BONUS_DEX;
+						af.modifier = (GET_LEVEL(ch) / 15);
+						ha1300_affect_to_char(victim, &af);
+
+						af.duration = lv_time;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_FLY;
+						ha1300_affect_to_char(victim, &af);
+
+						af.modifier = -1;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_BREATHWATER;
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_MANA;
+						af.modifier = (GET_LEVEL(ch) + 10);
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_HIT;
+						af.modifier = (GET_LEVEL(ch) + 10);
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_HITROLL;
+						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_DAMROLL;
+						af.modifier = (GET_LEVEL(ch) / 10);
+						ha1300_affect_to_char(victim, &af);
+
+						return;
+					}
+					else if (btnum == 2) {
+						send_to_char("You become a serpent!\r\n", victim);
+						act("$n turns into a serpent!", FALSE, victim, 0, 0, TO_ROOM);
+						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
+
+						lv_time = 15;
+
+						af.type = SPELL_BEAST_TRANSFORM;
+						af.duration = lv_time;
+						af.modifier = (GET_LEVEL(ch) / 10);
+						af.location = APPLY_BONUS_DEX;
+						af.bitvector = AFF_TRANSFORMED;
+						ha1300_affect_to_char(victim, &af);
+
+						af.bitvector = 0;
+
+						af.location = APPLY_BONUS_CHA;
+						af.modifier = ((GET_LEVEL(ch) / 5) - 1);
+						ha1300_affect_to_char(victim, &af);
+
+						af.modifier = -1;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_BREATHWATER;
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_MANA;
+						af.modifier = ((GET_LEVEL(ch) / 2) + 10);
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_HITROLL;
+						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
+						ha1300_affect_to_char(victim, &af);
+
+						return;
+					}
+					else if (btnum == 3) {
+						send_to_char("You become an eagle!\r\n", victim);
+						act("$n turns into an eagle!", FALSE, victim, 0, 0, TO_ROOM);
+						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
+
+						lv_time = 15;
+
+						af.type = SPELL_BEAST_TRANSFORM;
+						af.duration = lv_time;
+						af.modifier = (GET_LEVEL(ch) / 15);
+						af.location = APPLY_BONUS_DEX;
+						af.bitvector = AFF_TRANSFORMED;
+						ha1300_affect_to_char(victim, &af);
+
+						af.bitvector = 0;
+
+						af.location = APPLY_MOVE;
+						af.modifier = (GET_LEVEL(ch) + 10);
+						ha1300_affect_to_char(victim, &af);
+
+						af.duration = lv_time;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_FLY;
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_DAMROLL;
+						af.modifier = ((GET_LEVEL(ch) / 8));
+						ha1300_affect_to_char(victim, &af);
+
+						af.location = APPLY_HITROLL;
+						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
+						ha1300_affect_to_char(victim, &af);
+
+						return;
+					}
+					else if (btnum == 4) {
 						send_to_char("You become a badger!\r\n", victim);
 						act("$n turns into a badger!", FALSE, victim, 0, 0, TO_ROOM);
 						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);

@@ -1571,8 +1571,15 @@ void spell_fly(sbyte level, struct char_data * ch,
 	if (magic_fails(ch, victim))
 		return;
 
-	if (ha1375_affected_by_spell(victim, SPELL_FLY))
-		return;
+	if (ha1375_affected_by_spell(victim, SPELL_FLY) || ha1375_affected_by_spell(victim, SPELL_TRANSFORM_DRAGON) || ha1375_affected_by_spell(victim, SPELL_TRANSFORM_MANTICORE) || ha1375_affected_by_spell(victim, SPELL_TRANSFORM_COW) || (ha1375_affected_by_spell(victim, SPELL_BEAST_TRANSFORM) && IS_AFFECTED(victim, AFF_FLY)))
+	if (ch == victim){
+	send_to_char("You are already flying.\n\r", ch);
+	return;
+	}
+	else {	
+	send_to_char("They are already flying.\n\r", ch);
+	return;
+	}
 
 	af.type = SPELL_FLY;
 	af.duration = level;

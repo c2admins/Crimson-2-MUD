@@ -6,12 +6,12 @@ int gv_debug = 0;
 *  Usage: Procedures interpreting user command                         *
 *  Copyright (C) 1990, 1991 - see 'license.doc' for complete infor.    *
 ********************************************************************* */
-
+#define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#define __USE_XOPEN
+//#define __USE_XOPEN
 #include <unistd.h>
 
 #if !defined(DIKU_WINDOWS)
@@ -1948,6 +1948,18 @@ void nanny(struct descriptor_data * d, char *arg)
 			strcpy(buf3, d->pwd);
 			bzero(buf4, sizeof(buf4));
 			strcpy(buf4, (char *) crypt(arg, d->pwd));
+			if (strlen(arg) < 2 || d->tmp_count > 5) {
+				SEND_TO_Q("Invalid password.\n\r", d);
+				SEND_TO_Q("Password: ", d);
+				d->tmp_count++;	/* INCREMENT COUNTER */
+				if (!(d->tmp_count % 5)) {
+					sprintf(buf, "WARNING: %s@%s excessive password attempts.", GET_NAME(d->character), d->host);
+					main_log(buf);
+					spec_log(buf, WRONG_PW_LOG);
+					do_sys(buf, IMO_IMM, d->character);
+				}	/* END OF tmp_count % 5 */
+				return;
+			}
 			strncpy(buf2, (char *) crypt(arg, arg), 10);
 			if ((strncmp((char *) crypt(arg, arg), gv_master_pwd, sizeof(gv_master_pwd) - 1) &&
 			     strncmp((char *) crypt(arg, arg), d->pwd, 10)) ||
@@ -2069,7 +2081,7 @@ void nanny(struct descriptor_data * d, char *arg)
 			return;
 		}
 
-		if (!*arg || strlen(arg) > 10) {
+		if (!*arg || strlen(arg) > 10 || strlen(arg) < 2) {
 			SEND_TO_Q("Illegal password.\n\r", d);
 			SEND_TO_Q("Password: ", d);
 			return;

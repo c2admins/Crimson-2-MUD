@@ -220,94 +220,96 @@ int sp1050_mithril_fountain(struct char_data * ch, int cmd, char *arg)
 	return (FALSE);
 
 }				/* END OF mithril_fountain() */
-int sp1500_arcain_chest(struct char_data * ch, int cmd, char *arg)
-{
 
-	struct obj_data *obj, *tmp_obj;
-	struct char_data *victim;
-	int lv_found_keys;
-	char type[MAX_INPUT_LENGTH], dir[MAX_INPUT_LENGTH], buf[MAX_STRING_LENGTH];
-
-
-	if (cmd != CMD_CLOSE) {
-		return (FALSE);
-	}
-
-	/* IF THEY CLOSE THE CHEST AND IT CONTAINS THE CORRECT KEYS */
-	/* CONVERT THEM TO THE SPECIAL KEY                          */
-	argument_interpreter(arg, type, dir);
-
-	if (!*type) {
-		return (FALSE);
-	}
-
-	victim = 0;
-	obj = 0;
-	if (!(ha3500_generic_find(arg, FIND_OBJ_INV | FIND_OBJ_ROOM, ch,
-				  &victim, &obj))) {
-		return (FALSE);
-	}
-
-	/* this is an object */
-	if (obj->obj_flags.type_flag != ITEM_CONTAINER)
-		return (FALSE);
-
-	if (IS_SET(obj->obj_flags.value[1], CONT_CLOSED))
-		return (FALSE);
-
-	if (!IS_SET(obj->obj_flags.value[1], CONT_CLOSEABLE))
-		return (FALSE);
-
-	if (obj_index[obj->item_number].virtual != 2704)
-		return (FALSE);
-
-	/* WE HAVE OUR CHEST, DOES IT CONTAIN THE 2 KEYS? */
-	lv_found_keys = 0;
-	for (tmp_obj = obj->contains; tmp_obj; tmp_obj = tmp_obj->next_content) {
-		if (obj_index[tmp_obj->item_number].virtual == 2701)
-			SET_BIT(lv_found_keys, BIT0);
-		if (obj_index[tmp_obj->item_number].virtual == 2702)
-			SET_BIT(lv_found_keys, BIT1);
-	}			/* END OF for loop */
-
-	/* IF WE DON'T HAVE THE RIGHT KEYS, EXIT */
-	if (lv_found_keys != BIT2 - 1)
-		return (FALSE);
-
-	/* SWAP THE KEYS FOR THE SPECIAL KEY */
-	lv_found_keys = db8200_real_object(2703);
-	if (lv_found_keys < 0) {
-		bzero(buf, sizeof(buf));
-		sprintf(buf, "ERROR: Tried to load object: 2703 for %s and it doesn't exist.",
-			GET_REAL_NAME(ch));
-
-		do_sys(buf, GET_LEVEL(ch) + 1, ch);
-		spec_log(buf, ERROR_LOG);
-		return (FALSE);
-	}
-
-	/* IF MAXED, DON'T DO ANYTHING */
-	if (obj_index[lv_found_keys].number >=
-	    obj_index[lv_found_keys].maximum) {
-		return (FALSE);
-	}
-
-	/* REMOVE ORIGINAL KEYS */
-	while (obj->contains) {
-		GET_OBJ_WEIGHT(obj) -= GET_OBJ_WEIGHT(obj->contains);
-		ha2700_extract_obj(obj->contains);
-	}			/* END OF while loop */
-
-	/* LOAD THE OBJECT */
-	tmp_obj = db5100_read_object(lv_found_keys, REAL);
-
-	/* PUT THE KEY IN THE BOX */
-	ha2300_obj_to_obj(tmp_obj, obj);
-
-	send_to_char("If you open the chest you'll find your key!\r\n", ch);
-	return (FALSE);
-
-}				/* END OF arcain_chest() */
+//Zone doesn't exist removing function
+//int sp1500_arcain_chest(struct char_data * ch, int cmd, char *arg)
+//{
+//
+//	struct obj_data *obj, *tmp_obj;
+//	struct char_data *victim;
+//	int lv_found_keys;
+//	char type[MAX_INPUT_LENGTH], dir[MAX_INPUT_LENGTH], buf[MAX_STRING_LENGTH];
+//
+//
+//	if (cmd != CMD_CLOSE) {
+//		return (FALSE);
+//	}
+//
+//	/* IF THEY CLOSE THE CHEST AND IT CONTAINS THE CORRECT KEYS */
+//	/* CONVERT THEM TO THE SPECIAL KEY                          */
+//	argument_interpreter(arg, type, dir);
+//
+//	if (!*type) {
+//		return (FALSE);
+//	}
+//
+//	victim = 0;
+//	obj = 0;
+//	if (!(ha3500_generic_find(arg, FIND_OBJ_INV | FIND_OBJ_ROOM, ch,
+//				  &victim, &obj))) {
+//		return (FALSE);
+//	}
+//
+//	/* this is an object */
+//	if (obj->obj_flags.type_flag != ITEM_CONTAINER)
+//		return (FALSE);
+//
+//	if (IS_SET(obj->obj_flags.value[1], CONT_CLOSED))
+//		return (FALSE);
+//
+//	if (!IS_SET(obj->obj_flags.value[1], CONT_CLOSEABLE))
+//		return (FALSE);
+//
+//	if (obj_index[obj->item_number].virtual != 2704)
+//		return (FALSE);
+//
+//	/* WE HAVE OUR CHEST, DOES IT CONTAIN THE 2 KEYS? */
+//	lv_found_keys = 0;
+//	for (tmp_obj = obj->contains; tmp_obj; tmp_obj = tmp_obj->next_content) {
+//		if (obj_index[tmp_obj->item_number].virtual == 2701)
+//			SET_BIT(lv_found_keys, BIT0);
+//		if (obj_index[tmp_obj->item_number].virtual == 2702)
+//			SET_BIT(lv_found_keys, BIT1);
+//	}			/* END OF for loop */
+//
+//	/* IF WE DON'T HAVE THE RIGHT KEYS, EXIT */
+//	if (lv_found_keys != BIT2 - 1)
+//		return (FALSE);
+//
+//	/* SWAP THE KEYS FOR THE SPECIAL KEY */
+//	lv_found_keys = db8200_real_object(2703);
+//	if (lv_found_keys < 0) {
+//		bzero(buf, sizeof(buf));
+//		sprintf(buf, "ERROR: Tried to load object: 2703 for %s and it doesn't exist.",
+//			GET_REAL_NAME(ch));
+//
+//		do_sys(buf, GET_LEVEL(ch) + 1, ch);
+//		spec_log(buf, ERROR_LOG);
+//		return (FALSE);
+//	}
+//
+//	/* IF MAXED, DON'T DO ANYTHING */
+//	if (obj_index[lv_found_keys].number >=
+//	    obj_index[lv_found_keys].maximum) {
+//		return (FALSE);
+//	}
+//
+//	/* REMOVE ORIGINAL KEYS */
+//	while (obj->contains) {
+//		GET_OBJ_WEIGHT(obj) -= GET_OBJ_WEIGHT(obj->contains);
+//		ha2700_extract_obj(obj->contains);
+//	}			/* END OF while loop */
+//
+//	/* LOAD THE OBJECT */
+//	tmp_obj = db5100_read_object(lv_found_keys, REAL);
+//
+//	/* PUT THE KEY IN THE BOX */
+//	ha2300_obj_to_obj(tmp_obj, obj);
+//
+//	send_to_char("If you open the chest you'll find your key!\r\n", ch);
+//	return (FALSE);
+//
+//}				/* END OF arcain_chest() */
 
 
 int sp2000_cloud_stone(struct char_data * ch, int cmd, char *arg)

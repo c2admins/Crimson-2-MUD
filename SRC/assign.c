@@ -244,7 +244,7 @@ void as1100_assign_objects(void)
 	ASSIGN_OBJ(OBJ_CLAN_BOARD20, board);
 
 	/* Arcain */
-	ASSIGN_OBJ(2704, sp1500_arcain_chest);
+//	ASSIGN_OBJ(2704, sp1500_arcain_chest);
 
 	/* Arena */
 	ASSIGN_OBJ(OBJ_PORTAL, mo2500_enter_portal);
