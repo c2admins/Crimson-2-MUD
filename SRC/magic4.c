@@ -1652,7 +1652,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 				return;
 			}
 
-			if (number(1, 2) == 1) {
+			if (number(1, 4) == 1) {
 				send_to_char("The charm fails.\r\n", ch);
 				kill_off_gate_mob(ch, mob);
 				return;
@@ -1906,7 +1906,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 				return;
 			}
 
-			if (number(1, 2) == 1) {
+			if (number(1, 4) == 1) {
 				send_to_char("The charm fails.\r\n", ch);
 				kill_off_gate_mob(ch, mob);
 				return;
