@@ -1388,19 +1388,19 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 		lv_ac = GET_AC(victim) + li9750_ac_bonus(GET_DEX(victim) + GET_BONUS_DEX(victim)) +
 			races[GET_RACE(victim)].adj_ac;
 		if (lv_ac <= -600)
-			lv_ac = -16;
+			lv_ac = -22;
 		else if (lv_ac <= -500)
-			lv_ac = -14;
+			lv_ac = -20;
 		else if (lv_ac <= -400)
-			lv_ac = -12;
+			lv_ac = -18;
 		else if (lv_ac <= -300)
-			lv_ac = -10;
+			lv_ac = -14;
 		else if (lv_ac <= -200)
-			lv_ac = -8;
+			lv_ac = -10;
 		else if (lv_ac <= -100)
-			lv_ac = -6;
+			lv_ac = -8;
 		else if (lv_ac <= 0)
-			lv_ac = -4;
+			lv_ac = -6;
 		else if (lv_ac > 0)
 			lv_ac = 400;
 		lv_sub_damage = lv_ac >= 0 ?
@@ -1411,7 +1411,7 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 	if (IS_AFFECTED(ch, AFF_INVISIBLE)) {
 		ft1000_appear(ch);
 	}
-	
+
 	/* Affect the damage by the condition of the two players  */
 
 	if (ch != victim && attacktype >= TYPE_HIT && attacktype <= TYPE_CRUSH) {

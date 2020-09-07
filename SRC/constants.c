@@ -1753,7 +1753,7 @@ const char *race_list[] = {
 	"OGRE",
 	"GOBLIN",
 	"MINOTAUR",
-	"KENDER",
+	"BUGBEAR",
 	"GIANT",
 	"RAVSHI",
 	"IRDA",

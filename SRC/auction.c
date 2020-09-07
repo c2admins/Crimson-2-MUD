@@ -145,14 +145,6 @@ void au999_do_auction_identify(struct char_data * ch)
 		sprintbit(obj->obj_flags.flags1, oflag1_bits, buf);
 		send_to_char(buf, ch);
 		sprintbit(obj->obj_flags.flags2, oflag2_bits, buf);
-		if (IS_OBJ_STAT(obj, OBJ1_ANTI_CLERIC) &&
-		    IS_OBJ_STAT(obj, OBJ1_ANTI_WARRIOR)) {
-			strcat(buf, "ANTI_PALADIN ANTI_PRIEST ");
-		}
-		if (IS_OBJ_STAT(obj, OBJ1_ANTI_MAGE) &&
-		    IS_OBJ_STAT(obj, OBJ1_ANTI_WARRIOR)) {
-			strcat(buf, "ANTI_BARD ANTI_ELDRITCHKNIGHT");
-		}
 		if ((OVAL1(obj) > 0) &&
 		    (OVAL1(obj) < 36) &&
 		    (GET_ITEM_TYPE(obj) == ITEM_ARMOR)) {

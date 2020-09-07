@@ -935,11 +935,11 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		send_to_char("&W11&n) &cCrossbow                    &R(lvl 20) &G  3000&n Qps\n\r", ch);
 		send_to_char("&W12&n) &cHeavy Crossbow              &R(lvl 30) &G  4500&n Qps\n\r", ch);
 		send_to_char("&W13&n) &cLarge Backpack              &R(lvl 10) &G  1000&n Qps\n\r", ch);
-		send_to_char("&W13&n) &cHasek's Wedding Ring <Lore> &R(lvl 41) &G 10000&n Qps\n\r", ch);
-		send_to_char("&W14&n) &cSapphire Butterfly          &R(lvl 41) &G 15000&n Qps\n\r", ch);
-		send_to_char("&W15&n) &cEmerald Green Cloak         &R(lvl 41) &G 25000&n Qps\n\r", ch);
-		send_to_char("&W16&n) &cEssence of the Plague       &R(lvl 41) &G 30000&n Qps\n\r", ch);
-		send_to_char("&W17&n) &cNameless Sword <Lore>       &R(lvl 41)&G 120000&n Qps\n\r", ch);
+		send_to_char("&W14&n) &cHasek's Wedding Ring <Lore> &R(lvl 41) &G 10000&n Qps\n\r", ch);
+		send_to_char("&W15&n) &cSapphire Butterfly          &R(lvl 41) &G 15000&n Qps\n\r", ch);
+		send_to_char("&W16&n) &cEmerald Green Cloak         &R(lvl 41) &G 25000&n Qps\n\r", ch);
+		send_to_char("&W17&n) &cEssence of the Plague       &R(lvl 41) &G 30000&n Qps\n\r", ch);
+		send_to_char("&W18&n) &cNameless Sword <Lore>       &R(lvl 41)&G 120000&n Qps\n\r", ch);
 		send_to_char("\r\nTo buy an item type Quest buy <nr>\r\n", ch);
 		send_to_char("For transformations type Quest Transform\r\n", ch);
 		send_to_char("To buy questpoints, type 'buy <amount>'\r\n", ch);
