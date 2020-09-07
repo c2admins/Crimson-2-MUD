@@ -108,7 +108,6 @@ void mb1000_mobile_activity(void)
 					ha3000_extract_char(ch, END_EXTRACT_BY_GATE_NO_LEADER);
 					continue;
 				}
-
 				/* IF DEMON ISN'T IN THE SAME ROOM, WITH ITS
 				 * MASTER, */
 				/* TELEPORT TO HIM/HER                               */
@@ -121,9 +120,30 @@ void mb1000_mobile_activity(void)
 				}	/* END OF WE HAVE A MASTER */
 			}	/* END OF its a demon */
 
+			/* IF THIS IS A TREANT or ANIMAL SUMMON AND IT DOESN'T HAVE */
+			/* A LEADER/FOLLOWER THEN SEND IT HOME.        */
+			if (lv_mob_num > 2609 && lv_mob_num < 2619) {
+				if (!ch->master &&
+				    !ch->followers) {
+					act("$n returns to the wilderness!", FALSE, ch, 0, 0, TO_ROOM);
+					wi2900_purge_items(ch, "\0", 0);
+					ha3000_extract_char(ch, END_EXTRACT_BY_GATE_NO_LEADER);
+					continue;
+				}  /*END of WE HAVE A MASTER */
+			}	/* END OF its a TREANT or ANIMAL */
+
 			/* IF THIS IS A PET FROM THE PET SHOP AND IT     */
 			/* DOESN'T HAVE A LEADER/FOLLOWER, SEND IT HOME. */
-			/* add later */
+			if (lv_mob_num > 3089 && lv_mob_num < 3095) {
+				if (!ch->master &&
+				    !ch->followers) {
+					act("$n returns to the Pet Shop it was adopted from!", FALSE, ch, 0, 0, TO_ROOM);
+					wi2900_purge_items(ch, "\0", 0);
+					ha3000_extract_char(ch, END_EXTRACT_BY_GATE_NO_LEADER);
+					continue;
+				}	/* END OF WE HAVE A MASTER */
+			}	/* END OF its a PET */
+
 
 			/* IF THIS IS THE ENFYRN DRAGON, AND ITS NOT FIGHTING */
 			/* AND FULLY HEALED, CONVERT IT BACK TO THE PRIEST    */
