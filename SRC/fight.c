@@ -1388,24 +1388,24 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 		lv_ac = GET_AC(victim) + li9750_ac_bonus(GET_DEX(victim) + GET_BONUS_DEX(victim)) +
 			races[GET_RACE(victim)].adj_ac;
 		if (lv_ac <= -600)
-			lv_ac = -22;
+			lv_ac = 50; //50% of normal
 		else if (lv_ac <= -500)
-			lv_ac = -20;
+			lv_ac = 48; //52% of normal
 		else if (lv_ac <= -400)
-			lv_ac = -18;
+			lv_ac = 46; //54% of normal
 		else if (lv_ac <= -300)
-			lv_ac = -14;
+			lv_ac = 30; //70% of normal
 		else if (lv_ac <= -200)
-			lv_ac = -10;
+			lv_ac = 20; //80% of normal
 		else if (lv_ac <= -100)
-			lv_ac = -8;
+			lv_ac = 15; //85% of normal
 		else if (lv_ac <= 0)
-			lv_ac = -6;
+			lv_ac = 10; //90% of normal
 		else if (lv_ac > 0)
-			lv_ac = 400;
+			lv_ac = 400; //100% or normal
 		lv_sub_damage = lv_ac >= 0 ?
 			((125 * lv_ac + 950000) / 10000) :
-			(lv_ac) + 100;
+			100 - (lv_ac);
 		dam = (lv_sub_damage * dam) / 100;
 	}
 	if (IS_AFFECTED(ch, AFF_INVISIBLE)) {

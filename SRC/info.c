@@ -741,6 +741,10 @@ void do_who(struct char_data * ch, char *arg, int cmd)
 						snprintf(transform_buf, MAX_STRING_LENGTH, "&G%s &gthe tricky Chimera&n", GET_NAME(c));
 						strncat(buf, transform_buf, sizeof(buf));
 					}
+					else if (ha1375_affected_by_spell(c, SPELL_TRANSFORM_WOMBLE)) {
+						snprintf(transform_buf, MAX_STRING_LENGTH, "&w%s &gthe curious Womble&n", GET_NAME(c));
+						strncat(buf, transform_buf, sizeof(buf));
+					}
 					else if (ha1375_affected_by_spell(c, SPELL_TRANSFORM_COW)) {
 						snprintf(transform_buf, MAX_STRING_LENGTH, "&W%s &Kth&We m&Koo &WC&Ko&Ww&n", GET_NAME(c));
 						strncat(buf, transform_buf, sizeof(buf));
