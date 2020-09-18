@@ -2099,6 +2099,12 @@ void nanny(struct descriptor_data * d, char *arg)
 	case CON_GET_PWD_NEW_PLAYER_CONFIRM:
 		/* skip whitespaces */
 		for (; isspace(*arg); arg++);
+		
+		if (!*arg || strlen(arg) > 10 || strlen(arg) < 2) {
+			SEND_TO_Q("\r\nPasswords don't match.\r\n", d);
+			SEND_TO_Q("Password: ", d);
+			return;
+		}
 
 		if (strncmp((char *) crypt(arg, arg), d->pwd, 10)) {
 			SEND_TO_Q("Passwords don't match.\r\n", d);
