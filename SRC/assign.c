@@ -332,6 +332,7 @@ void as1200_assign_rooms(void)
 	ASSIGN_ROOM(8229, cows_room);
 	ASSIGN_ROOM(3078, council_room);
 	ASSIGN_ROOM(14670, citadel_altar);
+	ASSIGN_ROOM(14670, halfling_smith);
 	/* Enchated Hollow */
 	if (gv_port == ZONING_PORT) {
 		//zone not finished.won 't work on mainport until moved over from zone
