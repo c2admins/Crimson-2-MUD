@@ -2,7 +2,7 @@
 /* ci */
 /* gv_location: 2501-3000 */
 /* ****************************************************************** *
-*  file: citadel.c , Special module.                  Part of DIKUMUD *
+*  file: halfling.c , Special module.                  Part of DIKUMUD *
 *  Usage: Procedures handling special procs for object/room/mobile    *
 *  Copyright (C) 1990, 1991 - see 'license.doc' for complete inform.  *
 ********************************************************************* */
@@ -37,23 +37,15 @@
 int halfling_smith(struct char_data * ch, int cmd, char *arg)
 {
 	/*
-	 Altar room : 14670
+	 Altar room : 17607
 	
 	 Special items:
-	 14611  first book
-	 14612  second book
-	 14613  third book
-	 14614  hilt of sword
-	 14615  middle of sword
-	 14616  tip of sword
+	 17622  shard of sword 1
+	 17623  shard of sword 2
+	 17624  shard of sword 3
+	 17625  shard of sword 4
+	 17626  hilt of sword
 	
-	 Items when dropped in altar room:
-	 14617  first book
-	 14618  second book
-	 14619  third book
-	 14620  hilt of sword
-	 14621  middle of sword
-	 14622  tip of sword
 	 */
 
 	struct obj_data *obj;
@@ -65,7 +57,7 @@ int halfling_smith(struct char_data * ch, int cmd, char *arg)
 		shard2 = 17623;
 		shard3 = 17624;
 		shard4 = 17625;
-		halt = 17626;
+		hilt = 17626;
 		
 		sword = 17627;
 	}

@@ -899,6 +899,7 @@ int board(struct char_data * ch, int cmd, char *arg);
 int forge(struct char_data * ch, int cmd, char *arg);
 int chalice(struct char_data * ch, int cmd, char *arg);
 int citadel_altar(struct char_data * ch, int cmd, char *arg);
+int halfling_smith(struct char_data * ch, int cmd, char *arg);
 int cliff(struct char_data * ch, int cmd, char *arg);
 int ut9000_update_player_file(struct char_data * ch, char *arg, int cmd);
 
