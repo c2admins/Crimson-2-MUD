@@ -400,7 +400,7 @@ void spell_transform_womble(sbyte level, struct char_data * ch,
 	send_to_char("You become a womble!\r\n", victim);
 	act("$n turns into a womble!", FALSE, victim, 0, 0, TO_ROOM);
 
-	lv_time = 10;
+	lv_time = 25;
 
 	af.type = SPELL_TRANSFORM_WOMBLE;
 	af.duration = lv_time;
@@ -469,7 +469,7 @@ void spell_transform_wolf(sbyte level, struct char_data * ch,
 	lv_ac = GET_AC(victim) + li9750_ac_bonus(GET_DEX(victim) + GET_BONUS_DEX(victim)) + races[GET_RACE(victim)].adj_ac;
 	if (lv_ac < 0) {
 
-		lv_time = 15;
+		lv_time = 25;
 
 		af.type = SPELL_TRANSFORM_WOLF;
 		af.duration = lv_time;
@@ -584,7 +584,7 @@ void spell_transform_bear(sbyte level, struct char_data * ch,
 	lv_ac = GET_AC(victim) + li9750_ac_bonus(GET_DEX(victim) + GET_BONUS_DEX(victim)) + races[GET_RACE(victim)].adj_ac;
 	if (lv_ac > 0) {
 
-		lv_time = 20;
+		lv_time = 25;
 
 		af.type = SPELL_TRANSFORM_BEAR;
 		af.duration = lv_time;
@@ -701,7 +701,7 @@ void spell_transform_manticore(sbyte level, struct char_data * ch,
 	send_to_char("You become a manticore!\r\n", victim);
 	act("$n turns into a manticore!", FALSE, victim, 0, 0, TO_ROOM);
 
-	lv_time = 15;
+	lv_time = 25;
 
 	af.type = SPELL_TRANSFORM_MANTICORE;
 	af.duration = lv_time;
@@ -1013,7 +1013,7 @@ void spell_transform_chimera(sbyte level, struct char_data * ch,
 	send_to_char("You become a chimera!\r\n", victim);
 	act("$n turns into a chimera!", FALSE, victim, 0, 0, TO_ROOM);
 
-	lv_time = 20;
+	lv_time = 25;
 
 	af.type = SPELL_TRANSFORM_CHIMERA;
 	af.duration = lv_time;
@@ -1091,7 +1091,7 @@ void spell_transform_monkey(sbyte level, struct char_data * ch,
 	send_to_char("You become a monkey!\r\n", victim);
 	act("$n turns into a monkey!", FALSE, victim, 0, 0, TO_ROOM);
 
-	lv_time = 10;
+	lv_time = 25;
 
 	af.type = SPELL_TRANSFORM_MONKEY;
 	af.duration = lv_time;
@@ -1140,7 +1140,7 @@ void spell_transform_ninja(sbyte level, struct char_data * ch,
 	send_to_char("You become a ninja!\r\n", victim);
 	act("$n turns into a ninja!", FALSE, victim, 0, 0, TO_ROOM);
 
-	lv_time = 15;
+	lv_time = 25;
 
 	af.type = SPELL_TRANSFORM_NINJA;
 	af.duration = lv_time;
@@ -1201,7 +1201,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			send_to_char("&WMoooooooooo! You are a mighty bovine&n!\r\n", victim);
 			act("$n turns into a &Wcow&n!", FALSE, victim, 0, 0, TO_ROOM);
 
-			lv_time = 20;
+			lv_time = 25;
 
 
 			af.type = SPELL_TRANSFORM_COW;

@@ -24,14 +24,18 @@
 #include "globals.h"
 
 #define NARSIL_ACT \
-"&KYou wish to reforge the Legendary sword, Narsil?&n\
-\n\r&KVery well, let's hope you are noble enough to wield its' power.&n\
+"&PThank you, let me work on these for a moment...&n\
+\n\r \
+\n\r&BThe blacksmith begins heating the metal pieces in his forge.&n\
 \n\r\
-\n\rThe blacksmith begins working his craft on the broken shards of the sword.\
-\n\rOnce the blade has been mended this smith hands you a beautifully crafted blade,\
-\n\rpulsating with power.\
+\n\rTaking the pieces from his forge, the blacksmith begins pounding them \
+\n\rtogether with his hammer.\
 \n\r\
-\n\r&WCongratulations! You have completed the Narsil Quest!&n\
+\n\rAfter several hours the blacksmith wipes the sweat from his brow and smiles.\
+\n\r\
+\n\rOut of the five pieces he constructs a finely crafted blade. \
+\n\r\
+\n\r&PThere you are. Please use it wisely.&n\
 \n\r"
 
 int halfling_smith(struct char_data * ch, int cmd, char *arg)
