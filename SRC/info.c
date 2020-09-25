@@ -2707,7 +2707,7 @@ void in3300_do_exits(struct char_data * ch, char *arg, int cmd)
 			if (EXIT(ch, door)->to_room != NOWHERE &&
 			    !IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED)) {
 				if (IS_DARK(ch, EXIT(ch, door)->to_room) &&
-				    GET_LEVEL(ch) < IMO_IMP)
+				    GET_LEVEL(ch) < IMO_IMP && !IS_AFFECTED(ch, AFF_DARKSIGHT))
 					sprintf(buf + strlen(buf), "%s - &KToo dark to tell.&n\r\n", exits[door]);
 				else if (GET_LEVEL(ch) >= IMO_IMP) {
 					if (IS_SET(EXIT(ch, door)->exit_info, EX_HIDDEN))
