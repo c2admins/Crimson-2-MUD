@@ -1950,7 +1950,7 @@ void in2700_show_char_to_char(struct char_data * i, struct char_data * ch, int m
 			if (IS_AFFECTED(i, AFF_INVISIBLE))
 				strcat(buffer, " &K(invis)&n");
 
-			if (IS_CASTED_ON(ch, SPELL_DETECT_UNDEAD)) {
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_UNDEAD)) {
 				if (IS_UNDEAD(i)) {
 					strcat(buffer, " &Y(&wundead&W)&n");
 				}
@@ -2038,9 +2038,10 @@ void in2700_show_char_to_char(struct char_data * i, struct char_data * ch, int m
 			if (IS_AFFECTED(i, AFF_INVISIBLE))
 				strcat(buffer, " &K(invis)&n");
 
-			if (IS_CASTED_ON(i, SPELL_DETECT_UNDEAD)) {
-				if (IS_UNDEAD(i))
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_UNDEAD)) {
+				if (IS_UNDEAD(i)) {
 					strcat(buffer, " &Y(&wundead&Y)&n");
+				}
 			}
 			if (IS_AFFECTED(ch, AFF_DETECT_EVIL)) {
 				if (IS_EVIL(i))

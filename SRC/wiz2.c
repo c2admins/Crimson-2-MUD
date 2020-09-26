@@ -592,6 +592,10 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 	GET_BLESS(ch) = 1;
 	sprintf(buf, "aid %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	if (IS_EVIL(vict)) {
+		sprintf(buf, "vex %s", GET_REAL_NAME(vict));
+		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	}
 	sprintf(buf, "bless %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "armor %s", GET_REAL_NAME(vict));
@@ -605,6 +609,8 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 	sprintf(buf, "'detect invis' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'detect magic' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'detect undead' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	if (IS_GOOD(vict)) {
 		sprintf(buf, "protection %s", GET_REAL_NAME(vict));

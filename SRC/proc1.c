@@ -578,33 +578,43 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		return;
 	};
 
-	lv_cost = ((slevel * slevel * slevel * slevel) / 100 + 1) * (plevel + 1);
-
-	if (lv_what_to_practice == SPELL_LIFETAP || lv_what_to_practice == SPELL_ENCHANT_ARMOR) {
-		send_to_char("Your guildmaster apologizes but tells you there are class limits.\r\n", ch);
-		return;
-	}
+	lv_cost = ((slevel * slevel * slevel * slevel) / 175 + 1) * (plevel + 1);
 
 	if (lv_what_to_practice == SPELL_BEAST_TRANSFORM && (GET_CLASS(ch) != CLASS_RANGER && GET_CLASS(ch) != CLASS_DRUID)) {
 		send_to_char("Your guildmaster apologizes, but only Rangers and Druids may practice that spell.\r\n", ch);
 		return;
 	}
-
-	if ((lv_what_to_practice == SKILL_TRACK) && (GET_CLASS(ch) != CLASS_RANGER)) {
-		send_to_char("Your guildmaster apologizes, but only Rangers may practice that skill.\r\n", ch);
-		return;
-	}
-
 	if ((lv_what_to_practice == SPELL_MORDEN_SWORD) && (GET_CLASS(ch) != CLASS_MAGIC_USER && GET_CLASS(ch) != CLASS_ELDRITCHKNIGHT)) {
 		send_to_char("Your guildmaster apologizes, but only Mages and Eldritch Knights may practice that spell.\r\n", ch);
 		return;
 	}
-
 	if (lv_what_to_practice == SKILL_ENVENOM_WEAPON && GET_RACE(ch) != RACE_THRI_KREEN) {
 		send_to_char("Your guildmaster apologizes, but only Thri-Kreen can learn that skill.\r\n", ch);
 		return;
 	}
-
+	if (lv_what_to_practice == SPELL_UNDETECT_INVIS ||
+		lv_what_to_practice == SPELL_SPIRIT_HAMMER ||
+		lv_what_to_practice == SPELL_DREAMSIGHT ||
+		lv_what_to_practice == SPELL_ANIMATE_DEAD ||
+		lv_what_to_practice == SPELL_IRRESISTABLE_DANCE ||
+		lv_what_to_practice == SPELL_WIZARD_LOCK ||
+		lv_what_to_practice == SPELL_CLAWED_HANDS ||
+		lv_what_to_practice == SPELL_FLYING_DISK ||
+		lv_what_to_practice == SKILL_ASSESS ||
+		lv_what_to_practice == SKILL_SWITCH_OPPONENT ||
+		lv_what_to_practice == SKILL_SWITCH ||
+		lv_what_to_practice == SPELL_FEAR ||
+		lv_what_to_practice == SPELL_DIN_MAK ||
+		lv_what_to_practice == SKILL_TSUGIASHI ||
+		lv_what_to_practice == SKILL_BERSERK ||
+		lv_what_to_practice == SKILL_PARRY ||
+		lv_what_to_practice == SPELL_TREEWALK ||
+		lv_what_to_practice == SPELL_TRANSFORM_CHIMERA ||
+		lv_what_to_practice == SKILL_TRACK ||
+	    lv_what_to_practice == SPELL_TRANSFORM_COW) {
+		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
+		return;
+	}
 	if (lv_what_to_practice >= SPELL_DEATHSHADOW && lv_what_to_practice <= SPELL_ENTANGLE) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
@@ -616,20 +626,16 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 	if (lv_what_to_practice > SPELL_ANIMAL_SUMMONING && lv_what_to_practice <= SPELL_EARTHMAW) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
-	}
-	if (lv_what_to_practice > SPELL_FAERIE_FIRE && lv_what_to_practice <= SPELL_METEOR_SWARM) {
+	}	
+	if (lv_what_to_practice > SPELL_FAERIE_FIRE && lv_what_to_practice < SPELL_METEOR_SWARM) {
+		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
+		return;
+	}	
+	if (lv_what_to_practice >= SPELL_TSUNAMI && lv_what_to_practice < SKILL_AIRWALK) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
 	}
-	if (lv_what_to_practice >= SPELL_TSUNAMI && lv_what_to_practice < SPELL_HOLY_HEALING) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
-		return;
-	}
-	if (lv_what_to_practice == SPELL_TREEWALK ||
-		lv_what_to_practice == SPELL_TRANSFORM_CHIMERA ||
-	    lv_what_to_practice == SPELL_TRANSFORM_COW ||
-	    lv_what_to_practice == SPELL_CONVALESCE ||
-	    lv_what_to_practice == SKILL_STAB) {
+	if (lv_what_to_practice >= SPELL_LIFETAP && lv_what_to_practice <= SPELL_ENCHANT_ARMOR) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
 	}
@@ -640,7 +646,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 	if (lv_what_to_practice >= SPELL_TRANSFORM_MANTICORE && lv_what_to_practice <= SPELL_SLEEP_IMMUNITY) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell yet.\r\n", ch);
 		return;
-	}
+	}	
 	if (plevel > 50)
 		lv_cost += (plevel - 50) * 1000000;
 

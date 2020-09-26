@@ -148,7 +148,7 @@
 #define SPELL_HEMMORAGE          140
 #define SPELL_FEAR               141
 #define SPELL_DEMON_FLESH        142
-#define SKILL_DIN_MAK            143
+#define SPELL_DIN_MAK            143
 #define SKILL_TSUGIASHI          144
 #define SKILL_MEDITATE           145
 #define SKILL_SENSE_DANGER       146

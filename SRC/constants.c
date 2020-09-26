@@ -184,7 +184,7 @@ const char *spell_names[] = {
 	"second",		/* 69 */
 	"third",		/* 70 */
 	"fourth",		/* 71 */
-	"undetectable invis",
+	"undetect invis",
 	"restoration",
 	"regeneration",
 	"heal minor",		/* 75 */
@@ -242,7 +242,7 @@ const char *spell_names[] = {
 	"demonic aid",		/* 127 */
 	"grangorns curse",	/* 128 */
 	"clawed hands",		/* 129 */
-	"floating disk",	/* 130 */
+	"flying disk",	/* 130 */
 	"intelligence",		/* 131 */
 	"wisdom",		/* 132 */
 	"dexterity",		/* 133 */
@@ -303,8 +303,8 @@ const char *spell_names[] = {
 	"landslide",		/* 188 */
 	"stab",			/* 189 */
 	"charm_animal",		/* 190 */
-	"acid blast",		/* 192 */
 	"switch opponent",	/* 191 */
+	"acid blast",       /* 192 */
 	"displacement",		/* 193 */
 	"summon elemental",	/* 194 */
 	"shockwave",		/* 195 */
@@ -460,7 +460,7 @@ const char *sk_sp_defines[] = {
 	"SPELL_RECHARGE_LIGHT",
 	"SPELL_RECHARGE_WAND",
 	"SPELL_VENOM_BLADE",
-	"SPELL_IRRESITABLE_DANCE",
+	"SPELL_IRRESISTABLE_DANCE",
 	"SPELL_WIZARD_LOCK",
 	"SPELL_DANCING_SWORD",
 	"SPELL_DEMONIC_AID",
@@ -1409,10 +1409,10 @@ const char *pc_class_types[] = {
 	"Warrior",
 	"Bard",
 	"Priest",
-	"Necromancer",
-	"unused",
-	"unused",
-	"unused",
+	"Paladin",
+	"Druid",
+	"Eldritch_Knight",
+	"Monk",
 	"unused",
 	"\n"
 };

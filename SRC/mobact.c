@@ -146,7 +146,7 @@ void mb1000_mobile_activity(void)
 
 			/* IF THIS IS A Dancing Sword AND IT DOESN'T HAVE */
 			/* A LEADER/FOLLOWER THEN SEND IT HOME.        */
-			if (lv_mob_num = 909) {
+			if (lv_mob_num == 909) {
 				if (!ch->master &&
 				    !ch->followers) {
 					act("$n disappears as the magic that animated it fades!", FALSE, ch, 0, 0, TO_ROOM);
