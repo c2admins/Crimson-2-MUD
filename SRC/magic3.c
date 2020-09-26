@@ -301,8 +301,7 @@ void spell_wizard_lock(sbyte level, struct char_data * ch,
 }				/* END OF spell_wizard_lock() */
 
 
-void spell_dancing_sword(sbyte level, struct char_data * ch,
-			   struct char_data * victim, struct obj_data * obj)
+void spell_dancing_sword(sbyte level, struct char_data * ch, struct char_data * victim, struct obj_data * obj)
 {
 
 	char buf[MAX_STRING_LENGTH];	/* Bingo 03-01-01 */
@@ -310,17 +309,8 @@ void spell_dancing_sword(sbyte level, struct char_data * ch,
 	struct char_data *mob;
 	int i, r_num;
 
-
-	if ((GET_LEVEL(ch) < IMO_IMM) && !ha1175_isexactname(GET_NAME(ch), "bingo")) {
-		send_to_char("Unfinished spell.\n\r", ch);
-		return;
-	}
-
 	if (obj->obj_flags.type_flag != ITEM_WEAPON ||
 	    obj->obj_flags.type_flag != ITEM_QSTWEAPON) {
-		send_to_char("You can only use this on weapons!\n\r", ch);
-		return;
-	}
 
 	sprintf(buf, "You transform %s into a mob!\n\r", GET_OSDESC(obj));
 	send_to_char(buf, ch);
@@ -406,9 +396,11 @@ void spell_dancing_sword(sbyte level, struct char_data * ch,
 		GET_LEVEL(mob) = number(1, 9);
 	}
 
-	mob->points.max_hit = GET_HIT_LIMIT(ch) / 2 + (GET_LEVEL(mob) * number(1, GET_LEVEL(ch)));
 	mob->player.weight = 1;
+	mob->points.max_hit = GET_HIT_LIMIT(ch) / 2 + (GET_LEVEL(mob) * number(1, GET_LEVEL(ch)));
 	mob->points.hit = GET_HIT_LIMIT(mob);
+	mob->points.max_mana = GET_MANA_LIMIT(ch) / 2 + (GET_LEVEL(mob) * number(1, GET_LEVEL(ch)));
+	mob->points.mana = GET_MANA_LIMIT(mob);
 
 	GET_REAL_STR(mob) = GET_LEVEL(ch) / 3 + number(-5, 10);
 	GET_STR(mob) = GET_REAL_STR(mob);
@@ -429,10 +421,9 @@ void spell_dancing_sword(sbyte level, struct char_data * ch,
 	af.type = SPELL_CHARM_PERSON;
 
 	if (GET_INT(mob))
-		//af.duration = 24 * 18 / GET_INT(mob);
-	af.duration = 1;
+	 af.duration = 24 * 18 / GET_INT(mob);
 	else
-	af.duration = 1;
+	 af.duration = 20;
 
 	af.modifier = 0;
 	af.location = 0;
@@ -462,6 +453,7 @@ void spell_dancing_sword(sbyte level, struct char_data * ch,
 
 	return;
 
+	} /* END of IS WEAPON */
 }				/* END OF spell_dancing_sword() */
 
 

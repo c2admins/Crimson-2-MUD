@@ -144,7 +144,28 @@ void mb1000_mobile_activity(void)
 				}	/* END OF WE HAVE A MASTER */
 			}	/* END OF its a PET */
 
-
+			/* IF THIS IS A Dancing Sword AND IT DOESN'T HAVE */
+			/* A LEADER/FOLLOWER THEN SEND IT HOME.        */
+			if (lv_mob_num = 909) {
+				if (!ch->master &&
+				    !ch->followers) {
+					act("$n disappears as the magic that animated it fades!", FALSE, ch, 0, 0, TO_ROOM);
+					wi2900_purge_items(ch, "\0", 0);
+					ha3000_extract_char(ch, END_EXTRACT_BY_GATE_NO_LEADER);
+					continue;
+				}
+				/* IF Dancing Sword ISN'T IN THE SAME ROOM, WITH ITS
+				 * MASTER, */
+				/* TELEPORT TO HIM/HER                               */
+				if (ch->master) {
+					if (ch->in_room != ch->master->in_room) {
+						GET_SKILL(ch, SPELL_TELEPORT_SELF) = 70;
+						spell_teleport_self(GET_LEVEL(ch), ch, ch->master, 0);
+						continue;
+					}	/* END OF NOT IN THE SAME ROOM */
+				}	/* END OF WE HAVE A MASTER */
+			} /* End of its a Dancing Sword*/
+			
 			/* IF THIS IS THE ENFYRN DRAGON, AND ITS NOT FIGHTING */
 			/* AND FULLY HEALED, CONVERT IT BACK TO THE PRIEST    */
 			if (mob_index[ch->nr].virtual == MOB_ENFYRN_DRAGON) {
