@@ -119,15 +119,15 @@ unsigned long thebits[32];
 #define VALUE_LIGHT_CHARGES    2
 
 /* Maxes for the output buffer system. */
-#define MAX_SOCK_BUF					(12 * 1024)
-#define MAX_PROMPT_LENGTH			450
-#define GARBAGE_SPACE					64
 #define SMALL_BUFSIZE					1024
+#define MAX_SOCK_BUF					(12 * SMALL_BUFSIZE)
+#define MAX_PROMPT_LENGTH			560
+#define GARBAGE_SPACE					64
 #define LARGE_BUFSIZE					(MAX_SOCK_BUF - MAX_PROMPT_LENGTH - GARBAGE_SPACE)
 
 #define HISTORY_SIZE					5	/* keep last five
 								 * commands */
-#define MAX_STRING_LENGTH			8192
+#define MAX_STRING_LENGTH			16384
 #define MAX_NAME_LENGTH       15/* moved from comm.c */
 #define MAX_RAW_INPUT_LENGTH	2048	/* Max size of *raw* input */
 #define MAX_INPUT_LENGTH			1024

@@ -4534,7 +4534,7 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 		 " *SHOW_DIAG  NOAUCTION     NO_BYSTANDER_FMSG  TOGGLE      ",
 		 " QUEST      *MUZZLE_ALL    NOSHOUT            WIMPY       ",
 		 " NOSTAFF    *MUZZLE_SHOUT  NOSYSTEM          *JAILED      ",
-		 " NOBOS      *MUZZLE_BEEP   NOMUSIC           *NOFOLLOW    ",
+		 " NOBOSS     *MUZZLE_BEEP   NOMUSIC           *NOFOLLOW    ",
 		 "*NOKILL     *CANTHUNT      NOAVATAR           NOPKFLAME   ",
 		 "*MEDIATOR   *IMM_QUESTOR  *RULER              CAN_FINGER  ",
 		 "*BUILDER     *flags preceeded by a * are priviledged      ");

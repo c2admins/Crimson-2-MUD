@@ -1175,7 +1175,7 @@ void ot2800_do_display(struct char_data * ch, char *arg, int cmd)
 		send_to_char(buf, ch);
 		send_to_char("Prompt Displays:        Channels:\n\r", ch);
 
-		/* *** */
+		/* Line 1 */
 		sprintf(buf, "Hit Points:     ");
 		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_SHOW_HP) ? "Yes" : "No ");
 		send_to_char(buf, ch);
@@ -1183,8 +1183,7 @@ void ot2800_do_display(struct char_data * ch, char *arg, int cmd)
 		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOGOSSIP) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
 
-
-		/* *** */
+		/* Line 2 */
 		sprintf(buf, "Mana Points:    ");
 		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_SHOW_MANA) ? "Yes" : "No ");
 		send_to_char(buf, ch);
@@ -1192,7 +1191,7 @@ void ot2800_do_display(struct char_data * ch, char *arg, int cmd)
 		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOAUCTION) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
 
-		/* *** */
+		/* Line 3 */
 		sprintf(buf, "Move Points:    ");
 		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_SHOW_MOVE) ? "Yes" : "No ");
 		send_to_char(buf, ch);
@@ -1200,7 +1199,7 @@ void ot2800_do_display(struct char_data * ch, char *arg, int cmd)
 		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOINFO) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
 
-		/* *** */
+		/* Line 4 */
 		sprintf(buf, "Visible Exits:  ");
 		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_SHOW_EXITS) ? "Yes" : "No ");
 		send_to_char(buf, ch);
@@ -1208,7 +1207,7 @@ void ot2800_do_display(struct char_data * ch, char *arg, int cmd)
 		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOSYSTEM) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
 
-		/* *** */
+		/* Line 5 */
 		sprintf(buf, "Room Numbers:   ");
 		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_SHOW_ROOM) ? "Yes" : "No ");
 		send_to_char(buf, ch);
@@ -1216,70 +1215,67 @@ void ot2800_do_display(struct char_data * ch, char *arg, int cmd)
 		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOIMM) && (GET_LEVEL(ch) >= IMO_LEV) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
 
-		/* *** */
+		/* Line 6 */
 		send_to_char("                   ", ch);
 		sprintf(buf, "     Connect:        ");
 		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOCONNECT) && (GET_LEVEL(ch) >= IMO_LEV) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
 
-		/* *** */
+		/* Line 7 */
 		send_to_char("Misc.:             ", ch);
 		sprintf(buf, "     Wizinfo:        ");
 		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOWIZINFO) && (GET_LEVEL(ch) >= IMO_LEV) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
-		/* *** */
-		sprintf(buf, "Tells:          ");
-		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOTELL) ? "Yes" : "No ");
+
+		/* Line 8 */
+		sprintf(buf, "Ansi:           ");
+		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_ANSI) ? "Yes" : "No ");
+		send_to_char(buf, ch);
+		sprintf(buf, "     Tells:          ");
+		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOTELL) ? "Yes\n\r" : "No \n\r");
+		send_to_char(buf, ch);
+
+		/* Line 9 */
+		sprintf(buf, "Compact:        ");
+		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_COMPACT) ? "Yes" : "No ");
 		send_to_char(buf, ch);
 		sprintf(buf, "     Avatar:         ");
 		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOAVATAR) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
 
-
-		/* *** */
-		sprintf(buf, "Ansi:           ");
-		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_ANSI) ? "Yes" : "No ");
+		/* Line 10 */
+		sprintf(buf, "Brief:          ");
+		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_BRIEF) ? "Yes" : "No ");
 		send_to_char(buf, ch);
+		sprintf(buf, "     Pkflame:        ");
+		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOPKFLAME) ? "Yes\n\r" : "No \n\r");
+		send_to_char(buf, ch);		
 		//sprintf(buf, "     Antediluvian:   ");
 		//strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOANTE) ? "Yes\n\r" : "No \n\r");
 		//send_to_char(buf, ch);
 
-
-		/* *** */
-		sprintf(buf, "Compact:        ");
-		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_COMPACT) ? "Yes" : "No ");
-		send_to_char(buf, ch);
-		sprintf(buf, "Pkflame:           ");
-		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOPKFLAME) ? "Yes\n\r" : "No \n\r");
+		/* Line 11 */
+		sprintf(buf, "                        Staff:          ");
+		strcat(buf, !IS_SET(GET_ACT2(ch), PLR2_NOSTAFF) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
 
-		/* *** */
-		sprintf(buf, "Latormmis:           ");
-		strcat(buf, !IS_SET(GET_ACT2(ch), PLR2_NOSTAFF) ? "Yes" : "No ");
+		/* Line 12 */
+		sprintf(buf, "Nosummon:       ");
+		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_NOSUMMON) ? "Yes" : "No ");
 		send_to_char(buf, ch);
-		sprintf(buf, "   Deiis:            ");
+		sprintf(buf, "     Boss:           ");
 		strcat(buf, !IS_SET(GET_ACT2(ch), PLR2_NOBOSS) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
-		/* *** */
-		sprintf(buf, "     Music:         ");
+		
+		/* Line 13 */
+		sprintf(buf, "Nohassle:       ");
+		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_NOHASSLE) && (GET_LEVEL(ch) >= IMO_LEV) ? "Yes" : "No ");
+		send_to_char(buf, ch);
+		sprintf(buf, "     Music:          ");
 		strcat(buf, !IS_SET(GET_ACT3(ch), PLR3_NOMUSIC) ? "Yes\n\r" : "No \n\r");
 		send_to_char(buf, ch);
-		/* *** */
-		sprintf(buf, "Brief:          ");
-		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_BRIEF) ? "Yes\r\n" : "No\r\n");
-		send_to_char(buf, ch);
 
-		/* *** */
-		sprintf(buf, "Nosummon:       ");
-		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_NOSUMMON) ? "Yes\n\r" : "No\n\r");
-		send_to_char(buf, ch);
-
-		/* *** */
-		sprintf(buf, "Nohassle:       ");
-		strcat(buf, IS_SET(GET_ACT3(ch), PLR3_NOHASSLE) && (GET_LEVEL(ch) >= IMO_LEV) ? "Yes\n\r" : "No \n\r");
-		send_to_char(buf, ch);
-
-		/* *** */
+		/* Line 14 */
 		bzero(buf, sizeof(buf2));
 		sprintf(buf, "Visibility:     ");
 		if (GET_VISIBLE(ch)) {
