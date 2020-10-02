@@ -32,8 +32,7 @@ void kill_off_gate_mob(struct char_data * ch, struct char_data * mob);
 
 
 void spell_grangorns_curse(sbyte level, struct char_data * ch,
-			     struct char_data * victim, struct obj_data * obj)
-{
+			     struct char_data * victim, struct obj_data * obj){
 	int xp;
 	struct affected_type af;
 
@@ -95,8 +94,7 @@ void spell_grangorns_curse(sbyte level, struct char_data * ch,
 }				/* End of spell_grangorns_curse() */
 
 
-void spell_pestilence(sbyte level, struct char_data * ch, struct char_data * victim, struct obj_data * obj)
-{
+void spell_pestilence(sbyte level, struct char_data * ch, struct char_data * victim, struct obj_data * obj){
 
 	int dam, xp;
 
@@ -145,30 +143,8 @@ void spell_pestilence(sbyte level, struct char_data * ch, struct char_data * vic
 }				/* END OF spell_pestilence() */
 
 
-
-
-
-
-
-void spell_sense_danger(sbyte level, struct char_data * ch,
-			  struct char_data * victim, struct obj_data * obj)
-{
-
-
-
-
-	/* this skill is located somewhere else */
-	/* i'll remove it later */
-
-	send_to_char("Nothing happens\r\n", ch);
-	return;
-
-}				/* END OF skill_sense_danger() */
-
-
 void spell_spiritual_transfer(sbyte level, struct char_data * ch,
-			     struct char_data * victim, struct obj_data * obj)
-{
+			     struct char_data * victim, struct obj_data * obj){
 
 	char buf[MAX_STRING_LENGTH];
 
@@ -234,11 +210,8 @@ void spell_spiritual_transfer(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_spiritual_transfer (); */
 
-
-
 void spell_bind_souls(sbyte level, struct char_data * ch,
-		        struct char_data * victim, struct obj_data * obj)
-{
+		        struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 
@@ -270,10 +243,8 @@ void spell_bind_souls(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_bind_souls() */
 
-
 void spell_mordenkainens_sword(sbyte level, struct char_data * ch,
-			     struct char_data * victim, struct obj_data * obj)
-{
+			     struct char_data * victim, struct obj_data * obj){
 
 	char buf[MAX_STRING_LENGTH];
 	struct obj_data *tmp_obj;
@@ -311,33 +282,8 @@ void spell_mordenkainens_sword(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_mordenkainens_sword() */
 
-
-void spell_berserk(sbyte level, struct char_data * ch,
-		     struct char_data * victim, struct obj_data * obj)
-{
-
-	/* this skill is located somewhere else */
-	/* i'll remove it later */
-
-	send_to_char("Nothing happens\r\n", ch);
-	return;
-
-}				/* END OF skill_berserk() */
-
-
-void spell_parry(sbyte level, struct char_data * ch,
-		   struct char_data * victim, struct obj_data * obj)
-{
-
-	send_to_char("Nothing happens\r\n", ch);
-	return;
-
-}				/* END OF skill_parry() */
-
-
 void spell_call_lightning(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 	int dam;
 	//int cmd = CMD_CAST;
@@ -369,10 +315,8 @@ void spell_call_lightning(sbyte level, struct char_data * ch,
 	}
 }				/* END OF spell_call_lightning() */
 
-
 void spell_transform_womble(sbyte level, struct char_data * ch,
-			      struct char_data * victim, struct obj_data * obj)
-{
+			      struct char_data * victim, struct obj_data * obj){
 
 	//char buf[MAX_INPUT_LENGTH];
 	struct affected_type af;
@@ -437,8 +381,7 @@ void spell_transform_womble(sbyte level, struct char_data * ch,
 }				/* END OF spell_transform_womble() */
 
 void spell_transform_wolf(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 	//char buf[MAX_INPUT_LENGTH];
 	struct affected_type af;
@@ -555,10 +498,8 @@ void spell_transform_wolf(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_transform_wolf() */
 
-
 void spell_transform_bear(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 	//char buf[MAX_INPUT_LENGTH];
 	struct affected_type af;
@@ -660,8 +601,7 @@ void spell_transform_bear(sbyte level, struct char_data * ch,
 }				/* END OF spell_transform_bear() */
 
 void spell_transform_manticore(sbyte level, struct char_data * ch,
-			     struct char_data * victim, struct obj_data * obj)
-{
+			     struct char_data * victim, struct obj_data * obj){
 
 	//char buf[MAX_INPUT_LENGTH];
 	struct affected_type af;
@@ -747,8 +687,7 @@ void spell_transform_manticore(sbyte level, struct char_data * ch,
 }				/* END OF spell_transform_manticore() */
 
 void spell_transform_dragon(sbyte level, struct char_data * ch,
-			      struct char_data * victim, struct obj_data * obj)
-{
+			      struct char_data * victim, struct obj_data * obj){
 
 	//char buf[MAX_INPUT_LENGTH];
 	struct affected_type af;
@@ -980,8 +919,7 @@ void spell_transform_dragon(sbyte level, struct char_data * ch,
 }				/* END OF spell_transform_dragon() */
 
 void spell_transform_chimera(sbyte level, struct char_data * ch,
-			     struct char_data * victim, struct obj_data * obj)
-{
+			     struct char_data * victim, struct obj_data * obj){
 
 	//char buf[MAX_INPUT_LENGTH];
 	struct affected_type af;
@@ -1067,8 +1005,7 @@ void spell_transform_chimera(sbyte level, struct char_data * ch,
 }				/* END OF spell_transform_chimera() */
 
 void spell_transform_monkey(sbyte level, struct char_data * ch,
-			      struct char_data * victim, struct obj_data * obj)
-{
+			      struct char_data * victim, struct obj_data * obj){
 
 	//char buf[MAX_INPUT_LENGTH];
 	struct affected_type af;
@@ -1114,10 +1051,8 @@ void spell_transform_monkey(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_transform_monkey() */
 
-
 void spell_transform_ninja(sbyte level, struct char_data * ch,
-			     struct char_data * victim, struct obj_data * obj)
-{
+			     struct char_data * victim, struct obj_data * obj){
 
 	//char buf[MAX_INPUT_LENGTH];
 	struct affected_type af;
@@ -1175,10 +1110,8 @@ void spell_transform_ninja(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_transform_ninja() */
 
-
 void spell_transform_cow(sbyte level, struct char_data * ch,
-			   struct char_data * victim, struct obj_data * obj)
-{
+			   struct char_data * victim, struct obj_data * obj){
 
 	//char buf[MAX_INPUT_LENGTH];
 	struct affected_type af;
@@ -1258,9 +1191,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_transform_cow() */
 
-
-
-		void spell_clarity(sbyte level, struct char_data * ch,
+void spell_clarity(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -1268,8 +1199,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_clarity() */
 
-
-		void spell_faerie_fire(sbyte level, struct char_data * ch,
+void spell_faerie_fire(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
@@ -1328,7 +1258,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* End of spell_faerie_fire() */
 
-		void spell_faerie_fog(sbyte level, struct char_data * ch,
+void spell_faerie_fog(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int do_attack;
@@ -1442,17 +1372,15 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_faerie_fog() */
 
-
-		void spell_entangle(sbyte level, struct char_data * ch,
+void spell_entangle(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
 			return;
 
-		}		/* END OF spell_poisonline() */
+		}		/* END OF spell_entangle() */
 
-
-		void spell_barkskin(sbyte level, struct char_data * ch,
+void spell_barkskin(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
@@ -1484,8 +1412,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_barkskin() */
 
-
-		void spell_stoneskin(sbyte level, struct char_data * ch,
+void spell_stoneskin(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
@@ -1516,7 +1443,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_stoneskin() */
 
-		void spell_thornwrack(sbyte level, struct char_data * ch,
+void spell_thornwrack(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int dam;
@@ -1558,23 +1485,23 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_thornwrack() */
 
-		void spell_calm(sbyte level, struct char_data * ch,
+void spell_calm(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
 			return;
 
-		}		/* END OF spell_poisonline() */
+		}		/* END OF spell_thornwrack() */
 
-		void spell_web(sbyte level, struct char_data * ch,
+void spell_web(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
 			return;
 
-		}		/* END OF spell_poisonline() */
+		}		/* END OF spell_web() */
 
-		void spell_detect_undead(sbyte level, struct char_data * ch,
+void spell_detect_undead(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
@@ -1599,7 +1526,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_detect_undead() */
 
-		void spell_animal_summoning(sbyte level, struct char_data * ch,
+void spell_animal_summoning(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
@@ -1682,23 +1609,23 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_animal_summoning() */
 
-		void spell_pass_without_trace(sbyte level, struct char_data * ch,
+void spell_pass_without_trace(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
 			return;
 
-		}		/* END OF spell_poisonline() */
+		}		/* END OF spell_pass_without_trace() */
 
-		void spell_chloroplast(sbyte level, struct char_data * ch,
+void spell_chloroplast(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
 			return;
 
-		}		/* END OF spell_poisonline() */
+		}		/* END OF spell_chloroplast() */
 
-		void spell_earthmaw(sbyte level, struct char_data * ch,
+void spell_earthmaw(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int dam;
@@ -1739,9 +1666,9 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			return;
 
 
-		}		/* END OF spell_poisonline() */
+		}		/* END OF spell_earthmaw() */
 
-		void spell_needlestorm(sbyte level, struct char_data * ch,
+void spell_needlestorm(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int dam, adj_dam;
@@ -1845,15 +1772,15 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_needlstorm() */
 
-		void spell_treewalk(sbyte level, struct char_data * ch,
+void spell_treewalk(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
 			return;
 
-		}		/* END OF spell_poisonline() */
+		}		/* END OF spell_treewalk() */
 
-		void spell_summon_treant(sbyte level, struct char_data * ch,
+void spell_summon_treant(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
@@ -1936,7 +1863,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_summon_treant() */
 
-		void spell_sporecloud(sbyte level, struct char_data * ch,
+void spell_sporecloud(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int dam, adj_dam;
@@ -2041,7 +1968,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_sporecloud() */
 
-		void spell_wrath_of_nature(sbyte level, struct char_data * ch,
+void spell_wrath_of_nature(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int dam, adj_dam;
@@ -2146,7 +2073,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_wrath_of_nature() */
 
-		void spell_beast_transform(sbyte level, struct char_data * ch,
+void spell_beast_transform(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
@@ -2701,7 +2628,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			}
 		}
 
-		void spell_create_spring(sbyte level, struct char_data * ch,
+void spell_create_spring(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -2709,7 +2636,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_create_spring() */
 
-		void spell_leviathan(sbyte level, struct char_data * ch,
+void spell_leviathan(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -2717,7 +2644,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_leviathan() */
 
-		void spell_meteor_swarm(sbyte level, struct char_data * ch,
+void spell_meteor_swarm(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int dam, adj_dam;
@@ -2814,7 +2741,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_meteor_swarm() */
 
-		void spell_charm_animal(sbyte level, struct char_data * ch,
+void spell_charm_animal(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -2822,8 +2749,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_charm_animal() */
 
-
-		void spell_tsunami(sbyte level, struct char_data * ch,
+void spell_tsunami(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int dam, adj_dam;
@@ -2926,8 +2852,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_tsunami() */
 
-
-		void spell_tornado(sbyte level, struct char_data * ch,
+void spell_tornado(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -2935,8 +2860,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_tornado() */
 
-
-		void spell_landslide(sbyte level, struct char_data * ch,
+void spell_landslide(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -2944,7 +2868,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_landslide() */
 
-		void spell_acid_blast(sbyte level, struct char_data * ch,
+void spell_acid_blast(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -2952,7 +2876,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_acid_blast() */
 
-		void spell_displacement(sbyte level, struct char_data * ch,
+void spell_displacement(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
@@ -2994,7 +2918,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			}
 		}		/* END OF spell_displacement() */
 
-		void spell_summon_elemental(sbyte level, struct char_data * ch,
+void spell_summon_elemental(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -3002,7 +2926,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_summon_elemental() */
 
-		void spell_shockwave(sbyte level, struct char_data * ch,
+void spell_shockwave(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -3010,7 +2934,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_shockwave() */
 
-		void spell_gust(sbyte level, struct char_data * ch,
+void spell_gust(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -3018,7 +2942,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_gust() */
 
-		void spell_granite_fist(sbyte level, struct char_data * ch,
+void spell_granite_fist(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -3026,16 +2950,17 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_granite_fist() */
 
-		void spell_prayer(sbyte level, struct char_data * ch,
+void spell_prayer(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
 
 			  assert(ch && victim);
 			  assert((level >= 0) && (level <= NPC_LEV));
+			  
+			CHECK_FOR_NO_FIGHTING();
 
-			if ((GET_POS(victim) != POSITION_FIGHTING) &&
-			    (!ha1375_affected_by_spell(victim, SPELL_BLESS) &&
+			if ((!ha1375_affected_by_spell(victim, SPELL_BLESS) &&
 			      !ha1375_affected_by_spell(victim, SPELL_VEX) &&
 			      !ha1375_affected_by_spell(victim, SPELL_ARMOR) &&
 			      !ha1375_affected_by_spell(victim, SPELL_AID))) {
@@ -3092,7 +3017,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			}
 		}		/* END OF spell_prayer() */
 
-		void spell_elemental_shield(sbyte level, struct char_data * ch,
+void spell_elemental_shield(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -3100,7 +3025,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_elemental_shield() */
 
-		void spell_holy_healing(sbyte level, struct char_data * ch,
+void spell_holy_healing(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int healpoints;
@@ -3139,7 +3064,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_holy_healing() */
 
-		void spell_lifetap(sbyte level, struct char_data * ch, struct char_data * victim, struct obj_data * obj) {
+void spell_lifetap(sbyte level, struct char_data * ch, struct char_data * victim, struct obj_data * obj) {
 
 			int drainpts;
 			//int cmd = CMD_CAST;
@@ -3181,7 +3106,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_lifetap() */
 
-		void spell_enchant_armor(sbyte level, struct char_data * ch,
+void spell_enchant_armor(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			/* Bingo 01-18-01 */
@@ -3592,7 +3517,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_enchant_armor() */
 
-		void spell_vex(sbyte level, struct char_data * ch,
+void spell_vex(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			struct affected_type af;
@@ -3639,7 +3564,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_vex */
 
-		void spell_gusher(sbyte level, struct char_data * ch,
+void spell_gusher(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 			int dam;
 			//int cmd = CMD_CAST;
@@ -3663,7 +3588,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			  DAMAGE(ch, victim, dam, SPELL_GUSHER);
 		}		/* END OF spell_gusher() */
 
-		void spell_sleep_immunity(sbyte level, struct char_data * ch,
+void spell_sleep_immunity(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 			struct affected_type af;
 
@@ -3686,7 +3611,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 			}
 		}
 
-		void spell_xxx4(sbyte level, struct char_data * ch,
+void spell_xxx4(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			send_to_char("Nothing happens\r\n", ch);
@@ -3694,7 +3619,7 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_xxx() */
 
-		void spell_purge_magic(sbyte level, struct char_data * ch,
+void spell_purge_magic(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
 			int vnum, i, empty_affects = TRUE;

@@ -148,7 +148,7 @@
 #define SPELL_HEMMORAGE          140
 #define SPELL_FEAR               141
 #define SPELL_DEMON_FLESH        142
-#define SPELL_DIN_MAK            143
+#define SKILL_DIN_MAK            143
 #define SKILL_TSUGIASHI          144
 #define SKILL_MEDITATE           145
 #define SKILL_SENSE_DANGER       146
@@ -584,8 +584,6 @@ SPELL_FN(spell_fear);
 CAST_FN (cast_fear);
 SPELL_FN(spell_demon_flesh);
 CAST_FN (cast_demon_flesh);
-SPELL_FN(spell_din_mak);
-CAST_FN (cast_din_mak);
 SPELL_FN(spell_bind_souls);
 CAST_FN(cast_bind_souls);
 SPELL_FN(spell_pestilence);

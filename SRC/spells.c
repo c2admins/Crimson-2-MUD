@@ -711,6 +711,8 @@ void do_cast_proc(struct char_data * ch, struct char_data * cast_victim, char *a
 		if (*name) {	/* WAS TARGET SPECIFIED? */
 			if (IS_SET(spell_info[spl].targets, TAR_CHAR_ROOM))
 				send_to_char("Nobody here by that name.\n\r", ch);
+			else if (IS_SET(spell_info[spl].targets, TAR_CHAR_ZONE))
+				send_to_char("Nobody playing by that name.\n\r", ch);
 			else if (IS_SET(spell_info[spl].targets, TAR_CHAR_WORLD))
 				send_to_char("Nobody playing by that name.\n\r", ch);
 			else if (IS_SET(spell_info[spl].targets, TAR_OBJ_INV))
@@ -1500,10 +1502,7 @@ void assign_spell_pointers(void)
 	       ENABLED_SPELL | MOB_SPELL | DEFENSIVE_SPELL,
 	       -40, APPLY_AC, AFF_DEMON_FLESH, TAR_SELF_ONLY, cast_demon_flesh);
 
-	SPELLO(143, 12, POSITION_FIGHTING, 25, 0,
-	       ENABLED_SPELL | MOB_SPELL | VIOLENT_SPELL,
-	       0, APPLY_NONE, 0, TAR_CHAR_ROOM, cast_din_mak);
-
+	SPELLO(143, 0, POSITION_FIGHTING, 200, 0, MOB_SKILL, 0, 0, 0, TAR_IGNORE, 0);
 	SPELLO(144, 0, POSITION_STANDING, 200, 0, MOB_SKILL, 0, 0, 0, TAR_IGNORE, 0);
 	SPELLO(145, 0, POSITION_STANDING, 200, 0, MOB_SKILL, 0, 0, 0, TAR_IGNORE, 0);
 	SPELLO(146, 0, POSITION_STANDING, 200, 0, MOB_SKILL, 0, 0, 0, TAR_IGNORE, 0);
@@ -1606,7 +1605,7 @@ void assign_spell_pointers(void)
 
 	SPELLO(174, 12, POSITION_FIGHTING, 50, 0,
 	       ENABLED_SPELL | MOB_SPELL | VIOLENT_SPELL,
-	     0, APPLY_NONE, 0, TAR_CHAR_ROOM | TAR_FIGHT_VICT, cast_earthmaw);
+	     0, APPLY_NONE, 0, TAR_IGNORE, cast_earthmaw);
 
 	SPELLO(175, 12, POSITION_FIGHTING, 20, 0,
 	       ENABLED_SPELL | MOB_SPELL | VIOLENT_SPELL,

@@ -603,8 +603,8 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		lv_what_to_practice == SKILL_ASSESS ||
 		lv_what_to_practice == SKILL_SWITCH_OPPONENT ||
 		lv_what_to_practice == SKILL_SWITCH ||
+		lv_what_to_practice == SKILL_DIN_MAK ||
 		lv_what_to_practice == SPELL_FEAR ||
-		lv_what_to_practice == SPELL_DIN_MAK ||
 		lv_what_to_practice == SKILL_TSUGIASHI ||
 		lv_what_to_practice == SKILL_BERSERK ||
 		lv_what_to_practice == SKILL_PARRY ||

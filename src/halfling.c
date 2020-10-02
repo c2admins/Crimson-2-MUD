@@ -96,4 +96,4 @@ int halfling_smith(struct char_data * ch, int cmd, char *arg)
 		break;
 	}
 	return (0);
-}				/* END OF citadel_alter() */
+}				/* END OF halfling_smith() */

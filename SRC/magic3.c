@@ -27,8 +27,7 @@
 #define MAX_LIGHT_CHARGE 100
 
 void spell_mirror_self(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 
 
 	char buf[MAX_STRING_LENGTH];
@@ -106,10 +105,8 @@ void spell_mirror_self(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_mirror_self() */
 
-
 void spell_recharge_light(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 	int lv_charge;
 
@@ -155,10 +152,8 @@ void spell_recharge_light(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_recharge_light() */
 
-
 void spell_recharge_wand(sbyte level, struct char_data * ch,
-			   struct char_data * victim, struct obj_data * obj)
-{
+			   struct char_data * victim, struct obj_data * obj){
 
 	int lv_charge;
 
@@ -220,10 +215,8 @@ void spell_recharge_wand(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_recharge_wand() */
 
-
 void spell_venom_blade(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 
 	int i;
 
@@ -273,10 +266,8 @@ void spell_venom_blade(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_venom_blade() */
 
-
 void spell_irresistable_dance(sbyte level, struct char_data * ch,
-			     struct char_data * victim, struct obj_data * obj)
-{
+			     struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -285,10 +276,8 @@ void spell_irresistable_dance(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_irresistable_dance() */
 
-
 void spell_wizard_lock(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -300,9 +289,7 @@ void spell_wizard_lock(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_wizard_lock() */
 
-
-void spell_dancing_sword(sbyte level, struct char_data * ch, struct char_data * victim, struct obj_data * obj)
-{
+void spell_dancing_sword(sbyte level, struct char_data * ch, struct char_data * victim, struct obj_data * obj){
 
 	char buf[MAX_STRING_LENGTH];	/* Bingo 03-01-01 */
 	struct affected_type af;
@@ -456,10 +443,8 @@ void spell_dancing_sword(sbyte level, struct char_data * ch, struct char_data * 
 	} /* END of IS WEAPON */
 }				/* END OF spell_dancing_sword() */
 
-
 void spell_demonic_aid(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 
@@ -512,11 +497,8 @@ void spell_demonic_aid(sbyte level, struct char_data * ch,
 	return;
 }				/* END OF spell_demonic_aid() */
 
-
-
 void spell_clawed_hands(sbyte level, struct char_data * ch,
-			  struct char_data * victim, struct obj_data * obj)
-{
+			  struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -527,10 +509,8 @@ void spell_clawed_hands(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_clawed_hands() */
 
-
 void spell_flying_disk(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -542,10 +522,8 @@ void spell_flying_disk(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_flying_disk() */
 
-
 void spell_strength(sbyte level, struct char_data * ch,
-		      struct char_data * victim, struct obj_data * obj)
-{
+		      struct char_data * victim, struct obj_data * obj){
 
 	int lv_diff_to_max;
 	char buf[MAX_STRING_LENGTH];
@@ -603,10 +581,8 @@ void spell_strength(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_strength() */
 
-
 void spell_intelligence(sbyte level, struct char_data * ch,
-			  struct char_data * victim, struct obj_data * obj)
-{
+			  struct char_data * victim, struct obj_data * obj){
 
 	int lv_diff_to_max;
 	char buf[MAX_STRING_LENGTH];
@@ -664,10 +640,8 @@ void spell_intelligence(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_intelligence() */
 
-
 void spell_wisdom(sbyte level, struct char_data * ch,
-		    struct char_data * victim, struct obj_data * obj)
-{
+		    struct char_data * victim, struct obj_data * obj){
 
 	int lv_diff_to_max;
 	char buf[MAX_STRING_LENGTH];
@@ -725,10 +699,8 @@ void spell_wisdom(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_wisdom() */
 
-
 void spell_dexterity(sbyte level, struct char_data * ch,
-		       struct char_data * victim, struct obj_data * obj)
-{
+		       struct char_data * victim, struct obj_data * obj){
 
 	int lv_diff_to_max;
 	char buf[MAX_STRING_LENGTH];
@@ -786,10 +758,8 @@ void spell_dexterity(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_dexterity() */
 
-
 void spell_constitution(sbyte level, struct char_data * ch,
-			  struct char_data * victim, struct obj_data * obj)
-{
+			  struct char_data * victim, struct obj_data * obj){
 
 	int lv_diff_to_max;
 	char buf[MAX_STRING_LENGTH];
@@ -847,10 +817,8 @@ void spell_constitution(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_constitution() */
 
-
 void spell_charisma(sbyte level, struct char_data * ch,
-		      struct char_data * victim, struct obj_data * obj)
-{
+		      struct char_data * victim, struct obj_data * obj){
 
 	int lv_diff_to_max;
 	char buf[MAX_STRING_LENGTH];
@@ -908,10 +876,8 @@ void spell_charisma(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_charisma() */
 
-
 void spell_portal(sbyte level, struct char_data * ch,
-		    struct char_data * victim, struct obj_data * obj)
-{
+		    struct char_data * victim, struct obj_data * obj){
 
 	int lv_orig_room, lv_dest_room, lv_portal_num, lv_spell_time, rc;
 	struct obj_data *lv_obj;
@@ -1068,10 +1034,8 @@ void spell_portal(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_portal() */
 
-
 void spell_hemmorage(sbyte level, struct char_data * ch,
-		       struct char_data * victim, struct obj_data * obj)
-{
+		       struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 	//int cmd = CMD_CAST;
@@ -1107,10 +1071,8 @@ void spell_hemmorage(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_hemmorage() */
 
-
 void spell_fear(sbyte level, struct char_data * ch,
-		  struct char_data * victim, struct obj_data * obj)
-{
+		  struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -1121,10 +1083,8 @@ void spell_fear(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_fear() */
 
-
 void spell_demon_flesh(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 
@@ -1165,24 +1125,8 @@ void spell_demon_flesh(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_demon_flesh() */
 
-
-void spell_din_mak(sbyte level, struct char_data * ch,
-		     struct char_data * victim, struct obj_data * obj)
-{
-
-
-
-	/* this skill is located somewhere else */
-	/* i'll remove it later */
-
-	send_to_char("Nothing happens\r\n", ch);
-	return;
-
-}				/* END OF spell_din_mak() */
-
 void spell_xxx3(sbyte level, struct char_data * ch,
-		  struct char_data * victim, struct obj_data * obj)
-{
+		  struct char_data * victim, struct obj_data * obj){
 
 
 

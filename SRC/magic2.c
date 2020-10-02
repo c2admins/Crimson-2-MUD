@@ -30,8 +30,7 @@
 #include "parser.h"
 
 void spell_word_of_recall(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 	extern int top_of_world;
 	int loc_nr, location, was_in;
@@ -126,10 +125,8 @@ void spell_word_of_recall(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_word_of_recall() */
 
-
 void spell_summon(sbyte level, struct char_data * ch,
-		    struct char_data * victim, struct obj_data * obj)
-{
+		    struct char_data * victim, struct obj_data * obj){
 	char buf[MAX_STRING_LENGTH];
 	int idx, zone;
 	sh_int target;
@@ -257,10 +254,8 @@ void spell_summon(sbyte level, struct char_data * ch,
 
 }				/* END OF SPELL SUMMON */
 
-
 void spell_succor(sbyte level, struct char_data * ch,
-		    struct char_data * victim, struct obj_data * obj)
-{
+		    struct char_data * victim, struct obj_data * obj){
 
 	char buf[MAX_STRING_LENGTH];
 	sh_int target;
@@ -333,10 +328,8 @@ void spell_succor(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_succor() */
 
-
 void spell_charm_person(sbyte level, struct char_data * ch,
-			  struct char_data * victim, struct obj_data * obj)
-{
+			  struct char_data * victim, struct obj_data * obj){
 	struct affected_type af;
 	//int cmd = CMD_CAST;
 
@@ -430,10 +423,8 @@ void spell_charm_person(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_charm_person() */
 
-
 void spell_sense_life(sbyte level, struct char_data * ch,
-		        struct char_data * victim, struct obj_data * obj)
-{
+		        struct char_data * victim, struct obj_data * obj){
 	struct affected_type af;
 
 
@@ -454,10 +445,8 @@ void spell_sense_life(sbyte level, struct char_data * ch,
 	}
 }
 
-
 void spell_identify(sbyte level, struct char_data * ch,
-		      struct char_data * victim, struct obj_data * obj)
-{
+		      struct char_data * victim, struct obj_data * obj){
 	char buf[256], buf2[256];
 	int i;
 	bool found;
@@ -662,8 +651,7 @@ void spell_identify(sbyte level, struct char_data * ch,
 }
 
 void spell_fire_breath(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 	int dam;
 	char buf[MAX_STRING_LENGTH];
 	struct obj_data *burn;
@@ -732,10 +720,8 @@ void spell_fire_breath(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_fire_breath() */
 
-
 void spell_frost_breath(sbyte level, struct char_data * ch,
-			  struct char_data * victim, struct obj_data * obj)
-{
+			  struct char_data * victim, struct obj_data * obj){
 	int dam;
 	char buf[MAX_STRING_LENGTH];
 	struct obj_data *frozen;
@@ -810,10 +796,8 @@ void spell_frost_breath(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_frost_breath()  */
 
-
 void spell_acid_breath(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 	int dam;
 	int damaged;
 	int ha1900_apply_ac(struct char_data * ch, int eq_pos);
@@ -866,10 +850,8 @@ void spell_acid_breath(sbyte level, struct char_data * ch,
 
 }				/* end of spell_acid_breath() */
 
-
 void spell_gas_breath(sbyte level, struct char_data * ch,
-		        struct char_data * victim, struct obj_data * obj)
-{
+		        struct char_data * victim, struct obj_data * obj){
 	struct affected_type af;
 	int dam;
 	char buf[MAX_STRING_LENGTH];
@@ -959,10 +941,8 @@ void spell_gas_breath(sbyte level, struct char_data * ch,
 	DAMAGE(ch, victim, dam, SPELL_GAS_BREATH);
 }
 
-
 void spell_lightning_breath(sbyte level, struct char_data * ch,
-			      struct char_data * victim, struct obj_data * obj)
-{
+			      struct char_data * victim, struct obj_data * obj){
 	int dam;
 	//int cmd = CMD_CAST;
 
@@ -996,10 +976,8 @@ void spell_lightning_breath(sbyte level, struct char_data * ch,
 	DAMAGE(ch, victim, dam, SPELL_LIGHTNING_BREATH);
 }				/* END OF spell_lightning_breath() */
 
-
 void spell_hold_person(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 	struct affected_type af;
 	//int cmd = CMD_CAST;
 
@@ -1090,8 +1068,7 @@ void spell_hold_person(sbyte level, struct char_data * ch,
 }				/* END OF hold_person() */
 
 void spell_knock(sbyte level, struct char_data * ch,
-		   struct char_data * victim, struct obj_data * obj)
-{
+		   struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -1100,8 +1077,7 @@ void spell_knock(sbyte level, struct char_data * ch,
 }				/* END OF spell_() */
 
 void spell_waterwalk(sbyte level, struct char_data * ch,
-		       struct char_data * victim, struct obj_data * obj)
-{
+		       struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 
@@ -1133,8 +1109,7 @@ void spell_waterwalk(sbyte level, struct char_data * ch,
 }				/* END OF spell_() */
 
 void spell_teleport_self(sbyte level, struct char_data * ch,
-			   struct char_data * victim, struct obj_data * obj)
-{
+			   struct char_data * victim, struct obj_data * obj){
 
 	int lv_dest_room, rc;
 	char buf[MAX_STRING_LENGTH];
@@ -1243,10 +1218,8 @@ void spell_teleport_self(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_teleport_self() */
 
-
 void spell_teleport_group(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 	int lv_orig_room, lv_dest_room, rc, lv_follower_count;
 	struct follow_type *fdx;
@@ -1462,8 +1435,7 @@ void spell_teleport_group(sbyte level, struct char_data * ch,
 }				/* END OF spell_teleport_group() */
 
 void spell_teleview_minor(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -1473,8 +1445,7 @@ void spell_teleview_minor(sbyte level, struct char_data * ch,
 }				/* END OF spell_teleview_minor() */
 
 void spell_teleview_major(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 	int lv_orig_room, lv_was_riding, rc;
 
@@ -1530,8 +1501,7 @@ void spell_teleview_major(sbyte level, struct char_data * ch,
 }				/* END OF spell_teleview_major() */
 
 void spell_haste(sbyte level, struct char_data * ch,
-		   struct char_data * victim, struct obj_data * obj)
-{
+		   struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 
@@ -1559,8 +1529,7 @@ void spell_haste(sbyte level, struct char_data * ch,
 }				/* END OF spell_haste() */
 
 void spell_fly(sbyte level, struct char_data * ch,
-	         struct char_data * victim, struct obj_data * obj)
-{
+	         struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 
@@ -1595,8 +1564,7 @@ void spell_fly(sbyte level, struct char_data * ch,
 }				/* END OF spell_fly() */
 
 void spell_dreamsight(sbyte level, struct char_data * ch,
-		        struct char_data * victim, struct obj_data * obj)
-{
+		        struct char_data * victim, struct obj_data * obj){
 
 	//struct affected_type af;
 
@@ -1630,8 +1598,7 @@ void spell_dreamsight(sbyte level, struct char_data * ch,
 	 */
 }				/* END OF spell_dreamsight() */
 
-void kill_off_gate_mob(struct char_data * ch, struct char_data * mob)
-{
+void kill_off_gate_mob(struct char_data * ch, struct char_data * mob){
 
 
 
@@ -1649,10 +1616,8 @@ void kill_off_gate_mob(struct char_data * ch, struct char_data * mob)
 
 }				/* END OF kill_off_gate_mob() */
 
-
 void spell_gate(sbyte level, struct char_data * ch,
-		  struct char_data * victim, struct obj_data * obj)
-{
+		  struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 	struct char_data *mob;
@@ -1738,8 +1703,7 @@ void spell_gate(sbyte level, struct char_data * ch,
 }				/* END OF spell_() */
 
 void spell_vitalize_mana(sbyte level, struct char_data * ch,
-			   struct char_data * victim, struct obj_data * obj)
-{
+			   struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -1764,8 +1728,7 @@ void spell_vitalize_mana(sbyte level, struct char_data * ch,
 }				/* END OF spell_vitalize_mana() */
 
 void spell_vitalize_hit(sbyte level, struct char_data * ch,
-			  struct char_data * victim, struct obj_data * obj)
-{
+			  struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -1790,8 +1753,7 @@ void spell_vitalize_hit(sbyte level, struct char_data * ch,
 }				/* END OF spell_vitalize_hit() */
 
 void spell_vigorize_minor(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 	int lv_gain;
 
@@ -1816,8 +1778,7 @@ void spell_vigorize_minor(sbyte level, struct char_data * ch,
 }				/* END OF spell_vigorize_minor() */
 
 void spell_vigorize_medium(sbyte level, struct char_data * ch,
-			     struct char_data * victim, struct obj_data * obj)
-{
+			     struct char_data * victim, struct obj_data * obj){
 
 	int lv_gain;
 
@@ -1842,8 +1803,7 @@ void spell_vigorize_medium(sbyte level, struct char_data * ch,
 }				/* END OF spell_vigorize_medium() */
 
 void spell_vigorize_major(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 	int lv_gain;
 
@@ -1868,8 +1828,7 @@ void spell_vigorize_major(sbyte level, struct char_data * ch,
 }				/* END OF spell_vigorize_major() */
 
 void spell_aid(sbyte level, struct char_data * ch,
-	         struct char_data * victim, struct obj_data * obj)
-{
+	         struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 
@@ -1901,8 +1860,7 @@ void spell_aid(sbyte level, struct char_data * ch,
 }				/* END OF spell_() */
 
 void spell_silence(sbyte level, struct char_data * ch,
-		     struct char_data * victim, struct obj_data * obj)
-{
+		     struct char_data * victim, struct obj_data * obj){
 	struct affected_type af;
 	//int cmd = CMD_CAST;
 
@@ -1942,8 +1900,7 @@ void spell_silence(sbyte level, struct char_data * ch,
 }				/* END OF spell_silence() */
 
 void spell_dispel_silence(sbyte level, struct char_data * ch,
-			    struct char_data * victim, struct obj_data * obj)
-{
+			    struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -1973,8 +1930,7 @@ void spell_dispel_silence(sbyte level, struct char_data * ch,
 }				/* END OF spell_dispel_silence() */
 
 void spell_dispel_hold(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 
 
 
@@ -2002,8 +1958,7 @@ void spell_dispel_hold(sbyte level, struct char_data * ch,
 }				/* END OF spell_dispel_hold_person() */
 
 void spell_block_summon(sbyte level, struct char_data * ch,
-			  struct char_data * victim, struct obj_data * obj)
-{
+			  struct char_data * victim, struct obj_data * obj){
 
 	struct affected_type af;
 
@@ -2030,8 +1985,7 @@ void spell_block_summon(sbyte level, struct char_data * ch,
 }				/* END OF spell_block_summon() */
 
 void spell_smite(sbyte level, struct char_data * ch,
-		   struct char_data * victim, struct obj_data * obj)
-{
+		   struct char_data * victim, struct obj_data * obj){
 
 	int dam;
 	//int cmd = CMD_CAST;
@@ -2075,9 +2029,7 @@ void spell_smite(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_smite() */
 
-
-void kill_off_animate_dead_mob(struct char_data * ch, struct char_data * mob)
-{
+void kill_off_animate_dead_mob(struct char_data * ch, struct char_data * mob){
 
 
 
@@ -2095,10 +2047,8 @@ void kill_off_animate_dead_mob(struct char_data * ch, struct char_data * mob)
 
 }				/* END OF kill_off_animate_dead_mob() */
 
-
 void spell_animate_dead(sbyte level, struct char_data * ch,
-			  struct char_data * victim, struct obj_data * obj)
-{
+			  struct char_data * victim, struct obj_data * obj){
 
 	struct char_data *mob;
 	char buf[MAX_STRING_LENGTH], buf2[MAX_STRING_LENGTH];
@@ -2200,10 +2150,8 @@ void spell_animate_dead(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_animate_dead() */
 
-
 void spell_black_burst(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj)
-{
+		         struct char_data * victim, struct obj_data * obj){
 
 	int dam;
 	//int cmd = CMD_CAST;
@@ -2237,10 +2185,8 @@ void spell_black_burst(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_black_burst() */
 
-
 void spell_cremation(sbyte level, struct char_data * ch,
-		       struct char_data * victim, struct obj_data * obj)
-{
+		       struct char_data * victim, struct obj_data * obj){
 
 	int dam;
 	//int cmd = CMD_CAST;
@@ -2270,10 +2216,8 @@ void spell_cremation(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_cremation() */
 
-
 void spell_mortice_flame(sbyte level, struct char_data * ch,
-			   struct char_data * victim, struct obj_data * obj)
-{
+			   struct char_data * victim, struct obj_data * obj){
 
 	int dam;
 	//int cmd = CMD_CAST;
@@ -2314,10 +2258,8 @@ void spell_mortice_flame(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_mortice_flame() */
 
-
 void spell_firelance(sbyte level, struct char_data * ch,
-		       struct char_data * victim, struct obj_data * obj)
-{
+		       struct char_data * victim, struct obj_data * obj){
 
 	int dam;
 	//int cmd = CMD_CAST;
@@ -2367,10 +2309,8 @@ void spell_firelance(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_firelance() */
 
-
 void spell_firestorm(sbyte level, struct char_data * ch,
-		       struct char_data * victim, struct obj_data * obj)
-{
+		       struct char_data * victim, struct obj_data * obj){
 
 	int dam, adj_dam;
 	int do_attack;
@@ -2465,10 +2405,8 @@ void spell_firestorm(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_firestorm() */
 
-
 void spell_divine_retribution(sbyte level, struct char_data * ch,
-			     struct char_data * victim, struct obj_data * obj)
-{
+			     struct char_data * victim, struct obj_data * obj){
 
 	int dam;
 	//int cmd = CMD_CAST;

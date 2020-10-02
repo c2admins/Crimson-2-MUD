@@ -331,8 +331,12 @@ void as1200_assign_rooms(void)
 	ASSIGN_ROOM(19282, pc1550_darkcastle_portal);
 	ASSIGN_ROOM(8229, cows_room);
 	ASSIGN_ROOM(3078, council_room);
+     /* Elfin Citadel */
 	ASSIGN_ROOM(14670, citadel_altar);
+     /* Halfling Shire */
 	ASSIGN_ROOM(17607, halfling_smith);
+	/* Teldescian Swamps */
+	ASSIGN_ROOM(16956, swamp_priest);
 	/* Enchated Hollow */
 	if (gv_port == ZONING_PORT) {
 		//zone not finished.won 't work on mainport until moved over from zone

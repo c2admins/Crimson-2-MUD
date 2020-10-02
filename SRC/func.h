@@ -874,8 +874,8 @@ void xn3850_xanth_room_portculis_to_jail(struct char_data * ch, int cmd, char *a
 int xn3900_xanth_race_class_room(struct char_data * ch, int cmd, char *arg);
 int xn4000_xanth_outside_mousevator(struct char_data * ch, int cmd, char *arg);
 int xn4050_xanth_elevator_doors(int lv_enter_room_in,
-		   int lv_exit_room_in, int lv_elev_room_in, int lv_enter_dir,
-			    int lv_exit_dir, char *lv_lever_dir, int lv_flag);
+int lv_exit_room_in, int lv_elev_room_in, int lv_enter_dir,
+int lv_exit_dir, char *lv_lever_dir, int lv_flag);
 int xn4100_xanth_inside_mousevator(struct char_data * ch, int cmd, char *arg);
 int xn4200_xanth_sabrina(struct char_data * ch, int cmd, char *arg);
 int xn4300_xanth_pine_grove(struct char_data * ch, int cmd, char *arg);
@@ -900,6 +900,7 @@ int forge(struct char_data * ch, int cmd, char *arg);
 int chalice(struct char_data * ch, int cmd, char *arg);
 int citadel_altar(struct char_data * ch, int cmd, char *arg);
 int halfling_smith(struct char_data * ch, int cmd, char *arg);
+int swamp_priest(struct char_data * ch, int cmd, char *arg);
 int cliff(struct char_data * ch, int cmd, char *arg);
 int ut9000_update_player_file(struct char_data * ch, char *arg, int cmd);
 

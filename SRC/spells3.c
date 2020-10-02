@@ -601,32 +601,3 @@ void cast_demon_flesh(signed char level, struct char_data * ch, char *arg, int t
 
 	}
 }				/* END OF cast_demon_flesh() */
-
-
-void cast_din_mak(signed char level, struct char_data * ch, char *arg, int type,
-		    struct char_data * victim, struct obj_data * tar_obj)
-{
-
-
-
-	switch (type) {
-		case SPELL_TYPE_SPELL:
-		spell_din_mak(level, ch, victim, 0);
-		break;
-	case SPELL_TYPE_SCROLL:
-		if (victim)
-			spell_din_mak(level, ch, victim, 0);
-		else
-			spell_din_mak(level, ch, ch, 0);
-		break;
-	case SPELL_TYPE_WAND:
-		if (victim)
-			spell_din_mak(level, ch, victim, 0);
-		break;
-	default:
-		main_log("ERROR: Invalid spell type in din_mak!");
-		spec_log("ERROR: Invalid spell type in din_mak!", ERROR_LOG);
-		break;
-
-	}
-}				/* END OF cast_din_mak() */
