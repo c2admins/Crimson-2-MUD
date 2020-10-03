@@ -309,7 +309,7 @@ void cast_clawed_hands(sbyte level, struct char_data * ch, char *arg, int type,
 }				/* END OF cast_clawed_hands() */
 
 
-void cast_flying_disk(sbyte level, struct char_data * ch, char *arg, int type,
+void cast_floating_disk(sbyte level, struct char_data * ch, char *arg, int type,
 		        struct char_data * victim, struct obj_data * tar_obj)
 {
 
@@ -317,17 +317,17 @@ void cast_flying_disk(sbyte level, struct char_data * ch, char *arg, int type,
 
 	switch (type) {
 		case SPELL_TYPE_SPELL:
-		spell_flying_disk(level, ch, victim, 0);
+		spell_floating_disk(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_SCROLL:
 		if (victim)
-			spell_flying_disk(level, ch, victim, 0);
+			spell_floating_disk(level, ch, victim, 0);
 		else
-			spell_flying_disk(level, ch, ch, 0);
+			spell_floating_disk(level, ch, ch, 0);
 		break;
 	case SPELL_TYPE_WAND:
 		if (victim)
-			spell_flying_disk(level, ch, victim, 0);
+			spell_floating_disk(level, ch, victim, 0);
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in flying_disk!");
@@ -335,7 +335,7 @@ void cast_flying_disk(sbyte level, struct char_data * ch, char *arg, int type,
 		break;
 
 	}
-}				/* END OF cast_flying_disk() */
+}				/* END OF cast_floating_disk() */
 
 
 void cast_intelligence(sbyte level, struct char_data * ch, char *arg, int type,

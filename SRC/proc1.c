@@ -599,7 +599,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		lv_what_to_practice == SPELL_IRRESISTABLE_DANCE ||
 		lv_what_to_practice == SPELL_WIZARD_LOCK ||
 		lv_what_to_practice == SPELL_CLAWED_HANDS ||
-		lv_what_to_practice == SPELL_FLYING_DISK ||
+		lv_what_to_practice == SPELL_FLOATING_DISK ||
 		lv_what_to_practice == SKILL_ASSESS ||
 		lv_what_to_practice == SKILL_SWITCH_OPPONENT ||
 		lv_what_to_practice == SKILL_SWITCH ||

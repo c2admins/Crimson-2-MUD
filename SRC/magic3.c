@@ -509,7 +509,7 @@ void spell_clawed_hands(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_clawed_hands() */
 
-void spell_flying_disk(sbyte level, struct char_data * ch,
+void spell_floating_disk(sbyte level, struct char_data * ch,
 		         struct char_data * victim, struct obj_data * obj){
 
 
@@ -520,7 +520,7 @@ void spell_flying_disk(sbyte level, struct char_data * ch,
 	send_to_char("Nothing happens\r\n", ch);
 	return;
 
-}				/* END OF spell_flying_disk() */
+}				/* END OF spell_floating_disk() */
 
 void spell_strength(sbyte level, struct char_data * ch,
 		      struct char_data * victim, struct obj_data * obj){

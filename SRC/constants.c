@@ -242,7 +242,7 @@ const char *spell_names[] = {
 	"demonic aid",		/* 127 */
 	"grangorns curse",	/* 128 */
 	"clawed hands",		/* 129 */
-	"flying disk",	/* 130 */
+	"floating disk",	/* 130 */
 	"intelligence",		/* 131 */
 	"wisdom",		/* 132 */
 	"dexterity",		/* 133 */
@@ -466,7 +466,7 @@ const char *sk_sp_defines[] = {
 	"SPELL_DEMONIC_AID",
 	"SPELL_GRANGORNS_CURSE",
 	"SPELL_CLAWED_HANDS",
-	"SPELL_FLYING_DISK",	/* 130 */
+	"SPELL_FLOATING_DISK",	/* 130 */
 	"SPELL_INTELLIGENCE",
 	"SPELL_WISDOM",
 	"SPELL_DEXTERITY",
@@ -691,7 +691,7 @@ const char *spell_wear_off_msg[] = {
 	"!demonic aid",		/* 127 */
 	"!grangorns curse",	/* 128 */
 	"!clawed hands",	/* 129 */
-	"!flying disk",		/* 130 */
+	"!floating disk",		/* 130 */
 	"You don't feel as smart.",	/* 131 */
 	"You don't feel as wise.",	/* 132 */
 	"You don't feel as nimble.",	/* 133 */

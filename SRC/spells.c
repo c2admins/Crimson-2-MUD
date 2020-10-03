@@ -1455,7 +1455,7 @@ void assign_spell_pointers(void)
 	SPELLO(130, 12, POSITION_STANDING, 15, 0,
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
 	       10, APPLY_HITROLL, 0,
-	       TAR_SELF_ONLY, cast_flying_disk);
+	       TAR_SELF_ONLY, cast_floating_disk);
 
 	SPELLO(131, 12, POSITION_STANDING, 20, 0,
 	       ENABLED_SPELL | HELPFUL_SPELL,
