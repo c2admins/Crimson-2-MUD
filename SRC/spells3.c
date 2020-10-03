@@ -330,8 +330,8 @@ void cast_floating_disk(sbyte level, struct char_data * ch, char *arg, int type,
 			spell_floating_disk(level, ch, victim, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in flying_disk!");
-		spec_log("ERROR: Invalid spell type in flying_disk!", ERROR_LOG);
+		main_log("ERROR: Invalid spell type in floating_disk!");
+		spec_log("ERROR: Invalid spell type in floating_disk!", ERROR_LOG);
 		break;
 
 	}
