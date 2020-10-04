@@ -1116,7 +1116,7 @@ DO_OBJECT:
 			send_to_char(buf, ch);
 		}
 		if ((OVAL1(j) > 50) &&
-		    (OVAL1(j) < 101) &&
+		    (OVAL1(j) < 86) &&
 		    (GET_ITEM_TYPE(j) == ITEM_ARMOR)) {
 			sprintf(buf2, "%s_ONLY ", race_list[OVAL1(j) - 50]);
 			strcat(buf, buf2);

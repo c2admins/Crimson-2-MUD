@@ -3103,7 +3103,7 @@ void do_ostat(struct char_data * ch, char *arg, int cmd)
 				obj->obj_flags.value[3]);
 		}
 		else {
-			sprintf(buf, "AC-apply:[%d] Undef:[%d] Undef:[%d] Undef:[%d]\r\n",
+			sprintf(buf, "AC-apply:[%d] Race(Anti/Only:[%d] Anti_Class:[%d] Undef:[%d]\r\n",
 				obj->obj_flags.value[0],
 				obj->obj_flags.value[1],
 				obj->obj_flags.value[2],

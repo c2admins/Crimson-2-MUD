@@ -153,7 +153,7 @@ void au999_do_auction_identify(struct char_data * ch)
 			send_to_char(buf, ch);
 		}
 		if ((OVAL1(obj) > 50) &&
-		    (OVAL1(obj) < 101) &&
+		    (OVAL1(obj) < 86) &&
 		    (GET_ITEM_TYPE(obj) == ITEM_ARMOR)) {
 			sprintf(buf2, "%s_ONLY ", race_list[OVAL1(obj) - 50]);
 			strcat(buf, buf2);
