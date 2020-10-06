@@ -3429,6 +3429,9 @@ void in4800_do_where(struct char_data * ch, char *arg, int cmd)
 			do_wizinfo(buf, IMO_IMM, ch);
 			spec_log(buf, GOD_COMMAND_LOG);
 		}		/* log it */
+		sprintf(buf, "%s entered command where obj%s", GET_REAL_NAME(ch), arg);
+		do_wizinfo(buf, IMO_IMM, ch);
+		spec_log(buf, GOD_COMMAND_LOG);
 		return;
 	}
 
