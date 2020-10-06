@@ -903,10 +903,20 @@ void assign_spell_pointers(void)
 		spell_info[idx].spell_pointer = 0;
 	}
 
-	/* ARGUMENTS 1) spell number 2) beats 3) minimum position 4) minimum
-	 * uses mana 5) unused           6) flags           7) modifier 8)
-	 * location 9) bitvector 10) targets 11) func pointer SPELLO(nr, beat,
-	 * pos, mana, tar, flag, func) { \ */
+	/* ARGUMENTS
+	1) spell number
+	2) beats
+	3) minimum position
+	4) minimum used mana 
+	5) unused
+	6) flags
+	7) modifier
+	8) location
+	9) bitvector
+	10) targets
+	11) func pointer 
+	 
+	SPELLO(nr, beat,pos, mana, unused, flags, modifier, affect location, bitvector, targets, func); */
 
 	SPELLO(1, 12, POSITION_STANDING, 5, 0,
 	       ENABLED_SPELL | MOB_SPELL | DEFENSIVE_SPELL,
@@ -1452,10 +1462,9 @@ void assign_spell_pointers(void)
 	       10, APPLY_HITROLL, 0,
 	       TAR_SELF_ONLY, cast_clawed_hands);
 
-	SPELLO(130, 12, POSITION_STANDING, 15, 0,
+	SPELLO(130, 12, POSITION_FIGHTING, 25, 0,
 	       ENABLED_SPELL | MOB_SPELL | HELPFUL_SPELL,
-	       10, APPLY_HITROLL, 0,
-	       TAR_SELF_ONLY, cast_floating_disk);
+	0, APPLY_NONE, AFF2_DETECT_ANIMALS, TAR_CHAR_ROOM, cast_detect_animals);
 
 	SPELLO(131, 12, POSITION_STANDING, 20, 0,
 	       ENABLED_SPELL | HELPFUL_SPELL,

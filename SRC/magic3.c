@@ -9,6 +9,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <assert.h>
 #include <time.h>
 
 #include "structs.h"
@@ -509,18 +510,32 @@ void spell_clawed_hands(sbyte level, struct char_data * ch,
 
 }				/* END OF spell_clawed_hands() */
 
-void spell_floating_disk(sbyte level, struct char_data * ch,
-		         struct char_data * victim, struct obj_data * obj){
 
 
+void spell_detect_animals(sbyte level, struct char_data * ch,
+			   struct char_data * victim, struct obj_data * obj) {
 
-	/* this skill has been removed (fly) */
-	/* i'll remove it later */
+			struct affected_type af;
 
-	send_to_char("Nothing happens\r\n", ch);
-	return;
+			  assert(victim);
+			  assert((level >= 0) && (level <= NPC_LEV));
+			if (magic_fails(ch, victim))
+				  return;
 
-}				/* END OF spell_floating_disk() */
+			if (ha1375_affected_by_spell(victim, SPELL_DETECT_ANIMALS))
+				  return;
+
+			  af.type = SPELL_DETECT_ANIMALS;
+			  af.duration = level * 5;
+			  af.modifier = 0;
+			  af.location = APPLY_NONE;
+			  af.bitvector = AFF2_DETECT_ANIMALS;
+
+			  ha1300_affect_to_char(victim, &af);
+
+			  send_to_char("Your eyes tingle.\n\r", victim);
+
+		}		/* END OF spell_detect_animals() */
 
 void spell_strength(sbyte level, struct char_data * ch,
 		      struct char_data * victim, struct obj_data * obj){

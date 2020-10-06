@@ -612,6 +612,8 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'detect undead' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'detect animals' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	if (IS_GOOD(vict)) {
 		sprintf(buf, "protection %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);

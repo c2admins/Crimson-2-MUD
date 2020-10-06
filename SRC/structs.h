@@ -726,6 +726,7 @@ struct room_data {
 #define AFF2_DETECT_UNDEAD     BIT5
 #define AFF2_FAERIE_FIRE       BIT6
 #define AFF2_FAERIE_FOG        BIT7
+#define AFF2_DETECT_ANIMALS    BIT8
 
 /* modifiers to char's abilities */
 
@@ -776,7 +777,8 @@ struct room_data {
 #define APPLY_DETECT_GOOD      43
 #define APPLY_SLEEP_IMMUNITY   44
 #define APPLY_DETECT_UNDEAD    45
-#define APPLY_last_apply       46	/* KEEP ADJUSTING THE last_apply */
+#define APPLY_DETECT_ANIMALS   46
+#define APPLY_last_apply       47	/* KEEP ADJUSTING THE last_apply */
 
 /* race flags */
 #define RFLAG_GOOD_ALIGNMENT     BIT0

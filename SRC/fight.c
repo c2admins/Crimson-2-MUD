@@ -1964,8 +1964,7 @@ int ft2800_spec_damage(struct char_data * ch, struct char_data * victim, int dam
 			}	/* This should work now. 11-28-02 */
 
 
-			if (IS_SET(wielded->obj_flags.value[0], WEAPON_DEMON_SLAYER)	/* added by Nightwynde
-											 * 11-28-02 */
+			if (IS_SET(wielded->obj_flags.value[0], WEAPON_DEMON_SLAYER)	/* added by Nightwynde 		 * 11-28-02 */
 			    &&IS_SET(victim->specials.act, PLR1_CLASS_DEMON))
 				lv_slaying = lv_slaying * 2;
 			if (IS_SET(wielded->obj_flags.value[0], WEAPON_ANIMAL_SLAYER)

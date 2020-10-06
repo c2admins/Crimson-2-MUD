@@ -1952,7 +1952,13 @@ void in2700_show_char_to_char(struct char_data * i, struct char_data * ch, int m
 
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_UNDEAD)) {
 				if (IS_UNDEAD(i)) {
-					strcat(buffer, " &Y(&wundead&W)&n");
+					strcat(buffer, " &Y(&wundead&Y)&n");
+				}
+			}
+
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_ANIMALS)) {
+				if (IS_ANIMAL(i)) {
+					strcat(buffer, " &W(&Ganimal&W)&n");
 				}
 			}
 
@@ -2041,6 +2047,11 @@ void in2700_show_char_to_char(struct char_data * i, struct char_data * ch, int m
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_UNDEAD)) {
 				if (IS_UNDEAD(i)) {
 					strcat(buffer, " &Y(&wundead&Y)&n");
+				}
+			}
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_ANIMALS)) {
+				if (IS_ANIMAL(i)) {
+					strcat(buffer, " &W(&Ganimal&W)&n");
 				}
 			}
 			if (IS_AFFECTED(ch, AFF_DETECT_EVIL)) {

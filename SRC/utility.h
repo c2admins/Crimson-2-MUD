@@ -290,6 +290,7 @@
 #define IS_PC(ch)  (!(IS_SET((ch)->specials.act, PLR1_ISNPC)))
 #define IS_MOB(ch)  (IS_SET((ch)->specials.act, PLR1_ISNPC) && ((ch)->nr >-1))
 #define IS_UNDEAD(ch) (IS_SET((ch)->specials.act, PLR1_CLASS_UNDEAD))
+#define IS_ANIMAL(ch) (IS_SET((ch)->specials.act, PLR1_CLASS_ANIMAL))
 #define FAILS_SANITY(ch) (((ch)->beg_rec_id != CH_SANITY_CHECK || \
                            (ch)->end_rec_id != CH_SANITY_CHECK))
 

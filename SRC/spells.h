@@ -135,7 +135,7 @@
 #define SPELL_DEMONIC_AID        127
 #define SPELL_GRANGORNS_CURSE    128
 #define SPELL_CLAWED_HANDS       129
-#define SPELL_FLOATING_DISK      130
+#define SPELL_DETECT_ANIMALS     130
 #define SPELL_INTELLIGENCE       131
 #define SPELL_WISDOM             132
 #define SPELL_DEXTERITY          133
@@ -564,8 +564,8 @@ SPELL_FN(spell_grangorns_curse);
 CAST_FN (cast_grangorns_curse);
 SPELL_FN(spell_clawed_hands);
 CAST_FN (cast_clawed_hands);
-SPELL_FN(spell_floating_disk);
-CAST_FN (cast_floating_disk);
+SPELL_FN(spell_detect_animals);
+CAST_FN (cast_detect_animals);
 SPELL_FN(spell_intelligence);
 CAST_FN (cast_intelligence);
 SPELL_FN(spell_wisdom);
