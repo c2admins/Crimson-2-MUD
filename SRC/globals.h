@@ -135,6 +135,7 @@ int gv_move_succeeded;
 #define FOUNTAIN_ROOM                 3014
 #define MAGES_GUILD_ROOM              3017
 #define PET_ROOM                      3032
+#define BRIMSTONE_PET_ROOM			  21834
 #define VEHICLE_BEG_ROOM              5000
 #define VEHICLE_END_ROOM              5099
 #define DEATH_ROOM                    3000

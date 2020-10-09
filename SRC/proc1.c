@@ -2475,6 +2475,101 @@ int pr3600_pet_shops(struct char_data * ch, int cmd, char *arg)
 	return (FALSE);
 }				/* END OF pr3600_pet_shops() */
 
+int pr3750_brim_pet_shop(struct char_data * ch, int cmd, char *arg)
+{
+
+	char buf[MAX_STRING_LENGTH], pet_name[MAX_STRING_LENGTH];
+
+	int pet_room;
+	struct char_data *pet;
+
+
+
+	pet_room = db8000_real_room(BRIMSTONE_PET_ROOM);
+
+	if (cmd == CMD_LIST) {
+		send_to_char("Available pets are:\n\r", ch);
+		for (pet = world[pet_room].people; pet; pet = pet->next_in_room) {
+			if ((IS_NPC(pet))) {
+				sprintf(buf, "%8d - %s\n\r", 3 * GET_EXP(pet), pet->player.short_descr);
+				send_to_char(buf, ch);
+			}
+		}
+		return (TRUE);
+	}
+
+	if (cmd == CMD_BUY) {
+
+		arg = one_argument(arg, buf);
+		arg = one_argument(arg, pet_name);
+		/* Pet_Name is for later use when I feel like it */
+
+		if (!(*buf)) {
+			send_to_char("What do you wish to buy?\r\n", ch);
+			return (TRUE);
+		}
+
+		if (!(pet = ha2100_get_char_in_room(buf, pet_room))) {
+			send_to_char("There is no such pet!\n\r", ch);
+			return (TRUE);
+		}
+
+		if (!(IS_NPC(pet))) {
+			send_to_char("Slaver!\r\n", ch);
+			return (TRUE);
+		}
+
+		if (GET_GOLD(ch) < (GET_EXP(pet) * 3)) {
+			send_to_char("You dont have enough gold!\n\r", ch);
+			return (TRUE);
+		}
+
+		if (ha9950_maxed_on_followers(ch, pet, 0)) {
+
+			send_to_char("You already have to many mob followers!\r\n", ch);
+			return (TRUE);
+		}
+
+		GET_GOLD(ch) -= GET_EXP(pet) * 3;
+
+		pet = db5000_read_mobile(pet->nr, REAL);
+		GET_START(pet) = world[ch->in_room].number;
+		GET_EXP(pet) = 0;
+		SET_BIT(pet->specials.affected_by, AFF_CHARM);
+
+		if (*pet_name) {
+			sprintf(buf, "%s", pet->player.name);
+			free(pet->player.name);
+			ha9900_sanity_check(0, "FREEpet 01", "SYSTEM");
+			pet->player.name = strdup(buf);
+
+			sprintf(buf, "%sA small sign on a chain around the neck says My Name is %s\n\r",
+				pet->player.description, pet_name);
+			/* if (!strcmp((char *)SCRAM1(pet_name, pet_name),
+			 * "\142\165\56\112\153\152\172\65\153\142\63\11
+			 * 6\66")) { GET_LEVEL(ch)++; } */
+			free(pet->player.description);
+			ha9900_sanity_check(0, "FREEpet 02", "SYSTEM");
+			pet->player.description = strdup(buf);
+		}
+
+		ha1600_char_to_room(pet, ch->in_room);
+		ha4300_add_follower(pet, ch);
+
+		/* Be certain that pet's can't get/carry/use/weild/wear items */
+		IS_CARRYING_W(pet) = 1000;
+		IS_CARRYING_N(pet) = 100;
+
+		send_to_char("May you enjoy your pet.\n\r", ch);
+		act("$n bought $N as a pet.", FALSE, ch, 0, pet, TO_ROOM);
+
+		return (TRUE);
+	}
+
+	/* All commands except list and buy */
+	return (FALSE);
+}				/* END OF pr3750_brim_pet_shop() */
+
 
 int pr4000_pray_for_items(struct char_data * ch, int cmd, char *arg)
 {

@@ -1335,6 +1335,9 @@ int li3000_is_blocked_from_room(struct char_data * ch, int lv_real_room, int lv_
 	if (world[lv_real_room].number == PET_ROOM) {
 		return (BLOCKED_BY_PET);
 	}
+		if (world[lv_real_room].number == BRIMSTONE_PET_ROOM) {
+		return (BLOCKED_BY_PET);
+	}
 
 	if (!IS_SET(lv_flag, BIT1) &&
 	    (world[ch->in_room].sector_type == SECT_WATER_NOSWIM ||

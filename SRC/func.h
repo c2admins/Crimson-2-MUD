@@ -433,6 +433,7 @@ int pr1500_do_arena(struct char_data * ch, int cmd, char *arg);
 int pr1600_do_dump(struct char_data * ch, int cmd, char *arg);
 int pr4200_kings_hall(struct char_data * ch, int cmd, char *arg);
 int pr3600_pet_shops(struct char_data * ch, int cmd, char *arg);
+int pr3750_brim_pet_shop(struct char_data * ch, int cmd, char *arg);
 int pr3450_cityguard(struct char_data * ch, int cmd, char *arg);
 int pr3500_bountyhunter(struct char_data * ch, int cmd, char *arg);
 int pr3200_slime(struct char_data * ch, int cmd, char *arg);
