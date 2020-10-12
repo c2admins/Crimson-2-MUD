@@ -325,7 +325,7 @@ void as1200_assign_rooms(void)
 	ASSIGN_ROOM(4513, cliff);
 
 	ASSIGN_ROOM(3031, pr3600_pet_shops);
-	ASSIGN_ROOM(21833, pr3750_brim_pet_shops); //Brimstone City Pet Shop
+	ASSIGN_ROOM(21833, pr3750_brim_pet_shop); //Brimstone City Pet Shop
 	
 	ASSIGN_ROOM(17933, pc1500_glass_door);
 
