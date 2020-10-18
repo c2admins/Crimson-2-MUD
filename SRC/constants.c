@@ -282,7 +282,7 @@ const char *spell_names[] = {
 	"stoneskin",		/* 167 */
 	"thornwrack",		/* 168 */
 	"calm",			/* 169 */
-	"web",			/* 170 */
+	"detect dragons",	/* 170 */
 	"detect undead",	/* 171 */
 	"animal summoning",	/* 172 */
 	"pass without trace",	/* 173 */
@@ -506,7 +506,7 @@ const char *sk_sp_defines[] = {
 	"SPELL_STONESKIN",
 	"SPELL_THORNWRACK",
 	"SPELL_CALM",
-	"SPELL_WEB",
+	"SPELL_DETECT_DRAGONS",
 	"SPELL_DETECT_UNDEAD",
 	"SPELL_ANIMAL_SUMMONING",
 	"SPELL_PASS_WITHOUT_TRACE",
@@ -731,7 +731,7 @@ const char *spell_wear_off_msg[] = {
 	"Your skins loses its stone-like qualities.",
 	"!SPELL_THORNWRACK!",
 	"You feel less calm.",
-	"The sticky webbing dissolves around you.",
+	"You can no longer sense dragons.",
 	"You can no longer sense undead.",
 	"!SPELL_ANIMAL_SUMMONING!",
 	"!SPELL_PASS_WITHOUT_TRACE!",

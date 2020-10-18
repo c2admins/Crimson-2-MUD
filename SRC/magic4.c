@@ -1493,13 +1493,30 @@ void spell_calm(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_thornwrack() */
 
-void spell_web(sbyte level, struct char_data * ch,
+void spell_detect_dragons(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
-			send_to_char("Nothing happens\r\n", ch);
-			return;
+			struct affected_type af;
 
-		}		/* END OF spell_web() */
+			  assert(victim);
+			  assert((level >= 0) && (level <= NPC_LEV));
+			if (magic_fails(ch, victim))
+				  return;
+
+			if (ha1375_affected_by_spell(victim, SPELL_DETECT_DRAGONS))
+				  return;
+
+			  af.type = SPELL_DETECT_DRAGONS;
+			  af.duration = level * 5;
+			  af.modifier = 0;
+			  af.location = APPLY_NONE;
+			  af.bitvector = AFF2_DETECT_DRAGONS;
+
+			  ha1300_affect_to_char(victim, &af);
+
+			  send_to_char("Your eyes tingle.\n\r", victim);
+
+		}		/* END OF spell_detect_dragons() */
 
 void spell_detect_undead(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {

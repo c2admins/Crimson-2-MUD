@@ -590,17 +590,39 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 		return;
 	}
 	GET_BLESS(ch) = 1;
-	sprintf(buf, "aid %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	if (IS_EVIL(vict)) {
 		sprintf(buf, "vex %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	}
+	if (IS_GOOD(vict)) {
+		sprintf(buf, "protection %s", GET_REAL_NAME(vict));
+		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	}
+	sprintf(buf, "aid %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "bless %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "armor %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "improved %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "sanctuary %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'bind souls' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'demon flesh' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'regeneration' %s", GET_REAL_NAME(vict));
+	sprintf(buf, "'sense life' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'darksight' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'breathwater' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'waterwalk' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'fly' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'detect evil' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
@@ -614,27 +636,7 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'detect animals' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	if (IS_GOOD(vict)) {
-		sprintf(buf, "protection %s", GET_REAL_NAME(vict));
-		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	}
-	sprintf(buf, "sanctuary %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'strength' %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'sense life' %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'darksight' %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'regeneration' %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'breathwater' %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'waterwalk' %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'bind souls' %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'demon flesh' %s", GET_REAL_NAME(vict));
+	sprintf(buf, "'detect dragons' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'demonic aid' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
@@ -648,10 +650,9 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'charisma' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'fly' %s", GET_REAL_NAME(vict));
+	sprintf(buf, "'strength' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	GET_BLESS(ch) = 0;
-
 	if (GET_LEVEL(ch) > PK_LEV) {
 		sprintf(buf, "BLESS: %s blessed %s", GET_REAL_NAME(ch), GET_REAL_NAME(vict));
 		do_wizinfo(buf, GET_LEVEL(ch) + 1, ch);

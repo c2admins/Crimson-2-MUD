@@ -719,7 +719,19 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_ANIMALS))
 			ha1350_affect_from_char(ch, SPELL_DETECT_ANIMALS);
 		break;
-
+		
+		case APPLY_DETECT_DRAGONS:
+		if (add) {
+			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_DRAGONS)) {
+				af.type = SPELL_DETECT_DRAGONS;
+				af.bitvector2 = AFF2_DETECT_DRAGONS;
+				ha1300_affect_to_char2(ch, &af);
+			}
+		}
+		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_DRAGONS))
+			ha1350_affect_from_char(ch, SPELL_DETECT_DRAGONS);
+		break;
+		
 	default:
 		sprintf(buf, "unknown apply (handler.c) %d", loc);
 		main_log(buf);

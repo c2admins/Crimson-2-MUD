@@ -174,7 +174,7 @@
 #define SPELL_STONESKIN			 167
 #define SPELL_THORNWRACK		 168
 #define SPELL_CALM				 169
-#define SPELL_WEB				 170
+#define SPELL_DETECT_DRAGONS	 170
 #define SPELL_DETECT_UNDEAD		 171
 #define SPELL_ANIMAL_SUMMONING	 172
 #define SPELL_PASS_WITHOUT_TRACE 173
@@ -620,8 +620,8 @@ SPELL_FN(spell_thornwrack);
 CAST_FN(cast_thornwrack);
 SPELL_FN(spell_calm);
 CAST_FN(cast_calm);
-SPELL_FN(spell_web);
-CAST_FN(cast_web);
+SPELL_FN(spell_detect_dragons);
+CAST_FN(cast_detect_dragons);
 SPELL_FN(spell_detect_undead);
 CAST_FN(cast_detect_undead);
 SPELL_FN(spell_animal_summoning);

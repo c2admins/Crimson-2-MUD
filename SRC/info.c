@@ -1961,6 +1961,12 @@ void in2700_show_char_to_char(struct char_data * i, struct char_data * ch, int m
 					strcat(buffer, " &W(&Ganimal&W)&n");
 				}
 			}
+			
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_DRAGONS)) {
+				if (IS_DRAGON(i)) {
+					strcat(buffer, " &W(&Rd&Br&Ga&Cg&Yo&Pn&W)&n");
+				}
+			}
 
 			if (IS_AFFECTED(ch, AFF_DETECT_EVIL)) {
 				if (IS_EVIL(i)) {
@@ -2049,11 +2055,18 @@ void in2700_show_char_to_char(struct char_data * i, struct char_data * ch, int m
 					strcat(buffer, " &Y(&wundead&Y)&n");
 				}
 			}
+			
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_ANIMALS)) {
 				if (IS_ANIMAL(i)) {
 					strcat(buffer, " &W(&Ganimal&W)&n");
 				}
 			}
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_DRAGONS)) {
+				if (IS_DRAGON(i)) {
+					strcat(buffer, " &W(&Rd&Br&Ga&Cg&Yo&Pn&W)&n");
+				}
+			}
+			
 			if (IS_AFFECTED(ch, AFF_DETECT_EVIL)) {
 				if (IS_EVIL(i))
 					strcat(buffer, " &r(evil)&n");
