@@ -573,8 +573,8 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 	plevel = ch->skills[lv_what_to_practice].learned;
 
 	if (!plevel && (slevel == IMO_LEV || slevel == PK_LEV) &&
-	    (ch->points.fspells > 49)) {
-		send_to_char("You can only learn 50 spells from other classes.\r\n", ch);
+	    (ch->points.fspells > 54)) {
+		send_to_char("You can only learn 55 spells from other classes.\r\n", ch);
 		return;
 	};
 
