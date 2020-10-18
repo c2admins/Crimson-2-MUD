@@ -1170,8 +1170,7 @@ struct char_point_data {
 	int stat_gold;		/* temp field showing gold from stats */
 	int score;		/* Holds the players score. */
 	int used_exp;		/* Amount of exp used for buying stats */
-	int fspells;		/* Amount of foreign spells (not in current
-				 * class) learned */
+	int fspells;		/* Amount of foreign spells (not in current class) learned */
 	int class1;		/* Class the player started with */
 	int class2;		/* Class the player remorted to */
 	int class3;		/* Second remort class */
