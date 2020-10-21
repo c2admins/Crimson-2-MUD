@@ -590,6 +590,7 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 		return;
 	}
 	GET_BLESS(ch) = 1;
+	/*Good and Evil Buffs */
 	if (IS_EVIL(vict)) {
 		sprintf(buf, "vex %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
@@ -598,6 +599,7 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 		sprintf(buf, "protection %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	}
+	/* Normal Buffs  */
 	sprintf(buf, "aid %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "bless %s", GET_REAL_NAME(vict));
@@ -612,17 +614,19 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'demon flesh' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	/* Characteristic modification */
 	sprintf(buf, "'regeneration' %s", GET_REAL_NAME(vict));
-	sprintf(buf, "'sense life' %s", GET_REAL_NAME(vict));
-	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
-	sprintf(buf, "'darksight' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'breathwater' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'waterwalk' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'fly' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	/* Vision Buffs */
+	sprintf(buf, "'sense life' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'darksight' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'detect evil' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
@@ -638,6 +642,15 @@ void wz1600_do_bless(struct char_data * ch, char *arg, int cmd)
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'detect dragons' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'detect demons' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'detect giants' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'detect shadows' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	sprintf(buf, "'detect vampires' %s", GET_REAL_NAME(vict));
+	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+	/* Attribute buffs */
 	sprintf(buf, "'demonic aid' %s", GET_REAL_NAME(vict));
 	do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 	sprintf(buf, "'intelligence' %s", GET_REAL_NAME(vict));

@@ -167,17 +167,17 @@
 #define SPELL_TRANSFORM_DRAGON	 160
 #define SPELL_TRANSFORM_MONKEY	 161
 #define SPELL_TRANSFORM_NINJA    162
-#define SPELL_CHLOROPLAST		 163
+#define SPELL_DETECT_GIANTS		 163
 #define SPELL_FAERIE_FOG		 164
-#define SPELL_ENTANGLE			 165
+#define SPELL_DETECT_SHADOWS	 165
 #define SPELL_BARKSKIN			 166
 #define SPELL_STONESKIN			 167
 #define SPELL_THORNWRACK		 168
-#define SPELL_CALM				 169
+#define SPELL_DETECT_DEMONS		 169
 #define SPELL_DETECT_DRAGONS	 170
 #define SPELL_DETECT_UNDEAD		 171
 #define SPELL_ANIMAL_SUMMONING	 172
-#define SPELL_PASS_WITHOUT_TRACE 173
+#define SPELL_DETECT_VAMPIRES    173
 #define SPELL_EARTHMAW			 174
 #define SPELL_NEEDLESTORM		 175
 #define SPELL_TREEWALK			 176
@@ -606,28 +606,28 @@ SPELL_FN(spell_transform_monkey);
 CAST_FN(cast_transform_monkey);
 SPELL_FN(spell_transform_ninja);
 CAST_FN(cast_transform_ninja);
-SPELL_FN(spell_chloroplast);
-CAST_FN(cast_chloroplast);
+SPELL_FN(spell_detect_giants);
+CAST_FN(cast_detect_giants);
 SPELL_FN(spell_faerie_fog);
 CAST_FN(cast_faerie_fog);
-SPELL_FN(spell_entangle);
-CAST_FN(cast_entangle);
+SPELL_FN(spell_detect_shadows);
+CAST_FN(cast_detect_shadows);
 SPELL_FN(spell_barkskin);
 CAST_FN(cast_barkskin);
 SPELL_FN(spell_stoneskin);
 CAST_FN(cast_stoneskin);
 SPELL_FN(spell_thornwrack);
 CAST_FN(cast_thornwrack);
-SPELL_FN(spell_calm);
-CAST_FN(cast_calm);
+SPELL_FN(spell_detect_demons);
+CAST_FN(cast_detect_demons);
 SPELL_FN(spell_detect_dragons);
 CAST_FN(cast_detect_dragons);
 SPELL_FN(spell_detect_undead);
 CAST_FN(cast_detect_undead);
 SPELL_FN(spell_animal_summoning);
 CAST_FN(cast_animal_summoning);
-SPELL_FN(spell_pass_without_trace);
-CAST_FN(cast_pass_without_trace);
+SPELL_FN(spell_detect_vampires);
+CAST_FN(cast_detect_vampires);
 SPELL_FN(spell_earthmaw);
 CAST_FN(cast_earthmaw);
 SPELL_FN(spell_needlestorm);

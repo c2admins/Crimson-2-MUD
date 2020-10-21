@@ -403,33 +403,38 @@ void cast_transform_ninja(sbyte level, struct char_data * ch, char *arg, int typ
 	}
 }				/* END OF cast_transform_ninja() */
 
-void cast_chloroplast(signed char level, struct char_data * ch, char *arg, int type,
-		        struct char_data * victim, struct obj_data * tar_obj)
-{
+void cast_detect_giants(signed char level, struct char_data * ch, char *arg, int type,
+			  struct char_data * victim, struct obj_data * tar_obj){
 
 	switch (type) {
 		case SPELL_TYPE_POTION:
-		spell_chloroplast(level, ch, ch, 0);
+		spell_detect_giants(level, ch, ch, 0);
 		break;
 	case SPELL_TYPE_SPELL:
-		spell_chloroplast(level, ch, victim, 0);
+		spell_detect_giants(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_SCROLL:
 		if (victim)
-			spell_chloroplast(level, ch, victim, 0);
+			spell_detect_giants(level, ch, victim, 0);
 		else if (!tar_obj)
-			spell_chloroplast(level, ch, ch, 0);
+			spell_detect_giants(level, ch, ch, 0);
 		break;
 	case SPELL_TYPE_WAND:
 		if (victim)
-			spell_chloroplast(level, ch, victim, 0);
+			spell_detect_giants(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+				spell_detect_giants(level, ch, victim, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in chloroplast!");
-		spec_log("ERROR: Invalid spell type in chloroplast!", ERROR_LOG);
+		main_log("ERROR: Invalid spell type in detect giants!");
+		spec_log("ERROR: Invalid spell type in detect giants!", ERROR_LOG);
 		break;
 	}
-}				/* END OF cast_chloroplast() */
+}				/* END OF cast_detect_giants() */
 
 void cast_faerie_fog(signed char level, struct char_data * ch, char *arg, int type,
 		       struct char_data * victim, struct obj_data * tar_obj)
@@ -458,30 +463,38 @@ void cast_faerie_fog(signed char level, struct char_data * ch, char *arg, int ty
 	}
 }				/* END OF cast_faerie_fog() */
 
-void cast_entangle(signed char level, struct char_data * ch, char *arg, int type,
-		     struct char_data * victim, struct obj_data * tar_obj)
-{
+void cast_detect_shadows(signed char level, struct char_data * ch, char *arg, int type,
+			  struct char_data * victim, struct obj_data * tar_obj){
 
 	switch (type) {
-		case SPELL_TYPE_SPELL:
-		spell_entangle(level, ch, victim, 0);
+		case SPELL_TYPE_POTION:
+		spell_detect_shadows(level, ch, ch, 0);
+		break;
+	case SPELL_TYPE_SPELL:
+		spell_detect_shadows(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_SCROLL:
 		if (victim)
-			spell_entangle(level, ch, victim, 0);
+			spell_detect_shadows(level, ch, victim, 0);
 		else if (!tar_obj)
-			spell_entangle(level, ch, ch, 0);
+			spell_detect_shadows(level, ch, ch, 0);
 		break;
 	case SPELL_TYPE_WAND:
 		if (victim)
-			spell_entangle(level, ch, victim, 0);
+			spell_detect_shadows(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+				spell_detect_shadows(level, ch, victim, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in entangle!");
-		spec_log("ERROR: Invalid spell type in entangle!", ERROR_LOG);
+		main_log("ERROR: Invalid spell type in detect shadows!");
+		spec_log("ERROR: Invalid spell type in detect shadows!", ERROR_LOG);
 		break;
 	}
-}				/* END OF cast_entangle() */
+}				/* END OF cast_detect_shadows() */
 
 
 void cast_barkskin(signed char level, struct char_data * ch, char *arg, int type,
@@ -566,27 +579,38 @@ void cast_thornwrack(signed char level, struct char_data * ch, char *arg, int ty
 
 
 
-void cast_calm(signed char level, struct char_data * ch, char *arg, int type,
-	         struct char_data * victim, struct obj_data * tar_obj)
-{
+void cast_detect_demons(signed char level, struct char_data * ch, char *arg, int type,
+			  struct char_data * victim, struct obj_data * tar_obj){
 
 	switch (type) {
 		case SPELL_TYPE_POTION:
-		spell_calm(level, ch, ch, 0);
+		spell_detect_demons(level, ch, ch, 0);
 		break;
 	case SPELL_TYPE_SPELL:
-		spell_calm(level, ch, victim, 0);
+		spell_detect_demons(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_SCROLL:
+		if (victim)
+			spell_detect_demons(level, ch, victim, 0);
+		else if (!tar_obj)
+			spell_detect_demons(level, ch, ch, 0);
 		break;
 	case SPELL_TYPE_WAND:
 		if (victim)
-			spell_calm(level, ch, victim, 0);
+			spell_detect_demons(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+				spell_detect_demons(level, ch, victim, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in calm!");
-		spec_log("ERROR: Invalid spell type in calm!", ERROR_LOG);
+		main_log("ERROR: Invalid spell type in detect demons!");
+		spec_log("ERROR: Invalid spell type in detect demons!", ERROR_LOG);
 		break;
 	}
-}				/* END OF cast_calm() */
+}				/* END OF cast_detect_demons() */
 
 
 
@@ -676,29 +700,38 @@ void cast_animal_summoning(signed char level, struct char_data * ch, char *arg, 
 }				/* END OF cast_animal_summoning() */
 
 
-
-void cast_pass_without_trace(signed char level, struct char_data * ch, char *arg, int type,
-		         struct char_data * victim, struct obj_data * tar_obj)
-{
+void cast_detect_vampires(signed char level, struct char_data * ch, char *arg, int type,
+			  struct char_data * victim, struct obj_data * tar_obj){
 
 	switch (type) {
-		case SPELL_TYPE_SPELL:
-		spell_pass_without_trace(level, ch, victim, 0);
+		case SPELL_TYPE_POTION:
+		spell_detect_vampires(level, ch, ch, 0);
+		break;
+	case SPELL_TYPE_SPELL:
+		spell_detect_vampires(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_SCROLL:
 		if (victim)
-			spell_pass_without_trace(level, ch, victim, 0);
+			spell_detect_vampires(level, ch, victim, 0);
 		else if (!tar_obj)
-			spell_pass_without_trace(level, ch, ch, 0);
+			spell_detect_vampires(level, ch, ch, 0);
+		break;
+	case SPELL_TYPE_WAND:
+		if (victim)
+			spell_detect_vampires(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+				spell_detect_vampires(level, ch, victim, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in pass without trace!");
-		spec_log("ERROR: Invalid spell type in pass without trace!", ERROR_LOG);
+		main_log("ERROR: Invalid spell type in detect vampires!");
+		spec_log("ERROR: Invalid spell type in detect vampires!", ERROR_LOG);
 		break;
 	}
-}				/* END OF cast_pass_without_trace() */
-
-
+}				/* END OF cast_detect_vampires() */
 
 void cast_earthmaw(signed char level, struct char_data * ch, char *arg, int type,
 		     struct char_data * victim, struct obj_data * tar_obj)

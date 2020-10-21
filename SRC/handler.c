@@ -732,6 +732,54 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 			ha1350_affect_from_char(ch, SPELL_DETECT_DRAGONS);
 		break;
 		
+		case APPLY_DETECT_DEMONS:
+		if (add) {
+			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_DEMONS)) {
+				af.type = SPELL_DETECT_DEMONS;
+				af.bitvector2 = AFF2_DETECT_DEMONS;
+				ha1300_affect_to_char2(ch, &af);
+			}
+		}
+		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_DEMONS))
+			ha1350_affect_from_char(ch, SPELL_DETECT_DEMONS);
+		break;
+		
+		case APPLY_DETECT_GIANTS:
+		if (add) {
+			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_GIANTS)) {
+				af.type = SPELL_DETECT_GIANTS;
+				af.bitvector2 = AFF2_DETECT_GIANTS;
+				ha1300_affect_to_char2(ch, &af);
+			}
+		}
+		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_GIANTS))
+			ha1350_affect_from_char(ch, SPELL_DETECT_GIANTS);
+		break;
+		
+		case APPLY_DETECT_SHADOWS:
+		if (add) {
+			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_SHADOWS)) {
+				af.type = SPELL_DETECT_SHADOWS;
+				af.bitvector2 = AFF2_DETECT_SHADOWS;
+				ha1300_affect_to_char2(ch, &af);
+			}
+		}
+		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_SHADOWS))
+			ha1350_affect_from_char(ch, SPELL_DETECT_SHADOWS);
+		break;
+		
+		case APPLY_DETECT_VAMPIRES:
+		if (add) {
+			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_VAMPIRES)) {
+				af.type = SPELL_DETECT_VAMPIRES;
+				af.bitvector2 = AFF2_DETECT_VAMPIRES;
+				ha1300_affect_to_char2(ch, &af);
+			}
+		}
+		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_VAMPIRES))
+			ha1350_affect_from_char(ch, SPELL_DETECT_VAMPIRES);
+		break;
+		
 	default:
 		sprintf(buf, "unknown apply (handler.c) %d", loc);
 		main_log(buf);

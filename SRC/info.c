@@ -1945,42 +1945,63 @@ void in2700_show_char_to_char(struct char_data * i, struct char_data * ch, int m
 			}
 
 			if (IS_AFFECTED(i, AFF_HOLD_PERSON))
-				strcat(buffer, " &p(held)&n");
+				strcat(buffer, " &p(Held)&n");
 
 			if (IS_AFFECTED(i, AFF_INVISIBLE))
-				strcat(buffer, " &K(invis)&n");
+				strcat(buffer, " &K(Invis)&n");
 
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_UNDEAD)) {
 				if (IS_UNDEAD(i)) {
-					strcat(buffer, " &Y(&wundead&Y)&n");
+					strcat(buffer, " &Y(&wUndead&Y)&n");
 				}
 			}
 
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_ANIMALS)) {
 				if (IS_ANIMAL(i)) {
-					strcat(buffer, " &W(&Ganimal&W)&n");
+					strcat(buffer, " &W(&GAnimal&W)&n");
 				}
 			}
 			
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_DRAGONS)) {
 				if (IS_DRAGON(i)) {
-					strcat(buffer, " &W(&Rd&Br&Ga&Cg&Yo&Pn&W)&n");
+					strcat(buffer, " &W(&RD&Br&Ga&Cg&Yo&Pn&W)&n");
 				}
 			}
-
+			
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_DEMONS)) {
+				if (IS_DEMON(i)) {
+					strcat(buffer, " &W(&RD&Kemo&Rn&W)&n");
+				}
+			}
+			
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_GIANTS)) {
+				if (IS_GIANT(i)) {
+					strcat(buffer, " &W(&BG&Ci&Wa&Cn&Bt&W)&n");
+				}
+			}
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_SHADOWS)) {
+				if (IS_SHADOW(i)) {
+					strcat(buffer, " &W(&KSh&wad&Kow&W)&n");
+				}
+			}
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_VAMPIRES)) {
+				if (IS_VAMPIRE(i)) {
+					strcat(buffer, " &W(&KV&Ra&wm&Kp&Ri&wr&Ke&W)&n");
+				}
+			}
 			if (IS_AFFECTED(ch, AFF_DETECT_EVIL)) {
 				if (IS_EVIL(i)) {
-					strcat(buffer, " &r(evil)&n");
+					strcat(buffer, " &r(Evil)&n");
 				}
 			}
 
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_GOOD)) {
 				if (IS_GOOD(i))
-					strcat(buffer, " &W(good)&n");
+					strcat(buffer, " &W(Good)&n");
 			}
 
 			if (IS_AFFECTED(i, AFF_CHARM)) {
-				strcat(buffer, " &P(charmed)&n");
+				strcat(buffer, " &P(Charmed)&n");
 			}
 
 			if (IS_SET(GET_ACT2(i), PLR2_PKILLABLE)) {
@@ -2045,42 +2066,60 @@ void in2700_show_char_to_char(struct char_data * i, struct char_data * ch, int m
 			buffer[strlen(buffer) - 2] = '\0';
 
 			if (IS_AFFECTED(i, AFF_HOLD_PERSON))
-				strcat(buffer, " &p(held)&n");
+				strcat(buffer, " &p(Held)&n");
 
 			if (IS_AFFECTED(i, AFF_INVISIBLE))
-				strcat(buffer, " &K(invis)&n");
+				strcat(buffer, " &K(Invis)&n");
 
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_UNDEAD)) {
 				if (IS_UNDEAD(i)) {
-					strcat(buffer, " &Y(&wundead&Y)&n");
+					strcat(buffer, " &Y(&wUndead&Y)&n");
 				}
 			}
 			
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_ANIMALS)) {
 				if (IS_ANIMAL(i)) {
-					strcat(buffer, " &W(&Ganimal&W)&n");
+					strcat(buffer, " &W(&GAnimal&W)&n");
 				}
 			}
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_DRAGONS)) {
 				if (IS_DRAGON(i)) {
-					strcat(buffer, " &W(&Rd&Br&Ga&Cg&Yo&Pn&W)&n");
+					strcat(buffer, " &W(&RD&Br&Ga&Cg&Yo&Pn&W)&n");
 				}
 			}
-			
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_DEMONS)) {
+				if (IS_DEMON(i)) {
+					strcat(buffer, " &W(&RD&Kemo&Rn&W)&n");
+				}
+			}
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_GIANTS)) {
+				if (IS_GIANT(i)) {
+					strcat(buffer, " &W(&BG&Ci&Wa&Cn&Bt&W)&n");
+				}
+			}
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_SHADOWS)) {
+				if (IS_SHADOW(i)) {
+					strcat(buffer, " &W(&KSh&wad&Kow&W)&n");
+				}
+			}
+			if (ha1375_affected_by_spell(ch, SPELL_DETECT_VAMPIRES)) {
+				if (IS_VAMPIRE(i)) {
+					strcat(buffer, " &W(&KV&Ra&wm&Kp&Ri&wr&Ke&W)&n");
+				}
+			}
 			if (IS_AFFECTED(ch, AFF_DETECT_EVIL)) {
 				if (IS_EVIL(i))
-					strcat(buffer, " &r(evil)&n");
+					strcat(buffer, " &r(Evil)&n");
 			}
 
 			if (ha1375_affected_by_spell(ch, SPELL_DETECT_GOOD)) {
 				if (IS_GOOD(i))
-					strcat(buffer, " &W(good)&n");
+					strcat(buffer, " &W(Good)&n");
 			}
 
 			if (ha1375_affected_by_spell(i, SPELL_CHARM_PERSON)) {
-				strcat(buffer, " &P(charmed)&n");
+				strcat(buffer, " &P(Charmed)&n");
 			}
-
 
 			if (IS_SET(GET_ACT2(i), PLR2_PKILLABLE)) {
 				strcat(buffer, " <PK>");

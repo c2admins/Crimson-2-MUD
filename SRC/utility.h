@@ -292,6 +292,10 @@
 #define IS_UNDEAD(ch) (IS_SET((ch)->specials.act, PLR1_CLASS_UNDEAD))
 #define IS_ANIMAL(ch) (IS_SET((ch)->specials.act, PLR1_CLASS_ANIMAL))
 #define IS_DRAGON(ch) (IS_SET((ch)->specials.act, PLR1_CLASS_DRAGON))
+#define IS_DEMON(ch) (IS_SET((ch)->specials.act, PLR1_CLASS_DEMON))
+#define IS_GIANT(ch) (IS_SET((ch)->specials.act, PLR1_CLASS_GIANT))
+#define IS_SHADOW(ch) (IS_SET((ch)->specials.act, PLR1_CLASS_SHADOW))
+#define IS_VAMPIRE(ch) (IS_SET((ch)->specials.act, PLR1_CLASS_VAMPIRE))
 #define FAILS_SANITY(ch) (((ch)->beg_rec_id != CH_SANITY_CHECK || \
                            (ch)->end_rec_id != CH_SANITY_CHECK))
 

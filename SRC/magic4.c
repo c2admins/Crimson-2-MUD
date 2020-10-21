@@ -288,9 +288,6 @@ void spell_call_lightning(sbyte level, struct char_data * ch,
 	int dam;
 	//int cmd = CMD_CAST;
 
-
-
-
 	assert(victim && ch);
 	assert((level >= 1) && (level <= NPC_LEV));
 
@@ -1191,14 +1188,6 @@ void spell_transform_cow(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_transform_cow() */
 
-void spell_clarity(sbyte level, struct char_data * ch,
-			   struct char_data * victim, struct obj_data * obj) {
-
-			send_to_char("Nothing happens\r\n", ch);
-			return;
-
-		}		/* END OF spell_clarity() */
-
 void spell_faerie_fire(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
@@ -1372,13 +1361,30 @@ void spell_faerie_fog(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_faerie_fog() */
 
-void spell_entangle(sbyte level, struct char_data * ch,
+void spell_detect_shadows(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
-			send_to_char("Nothing happens\r\n", ch);
-			return;
+			struct affected_type af;
 
-		}		/* END OF spell_entangle() */
+			  assert(victim);
+			  assert((level >= 0) && (level <= NPC_LEV));
+			if (magic_fails(ch, victim))
+				  return;
+
+			if (ha1375_affected_by_spell(victim, SPELL_DETECT_SHADOWS))
+				  return;
+
+			  af.type = SPELL_DETECT_SHADOWS;
+			  af.duration = level * 5;
+			  af.modifier = 0;
+			  af.location = APPLY_NONE;
+			  af.bitvector = AFF2_DETECT_SHADOWS;
+
+			  ha1300_affect_to_char(victim, &af);
+
+			  send_to_char("Your eyes tingle.\n\r", victim);
+
+		}		/* END OF spell_detect_shadows() */
 
 void spell_barkskin(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
@@ -1485,13 +1491,30 @@ void spell_thornwrack(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_thornwrack() */
 
-void spell_calm(sbyte level, struct char_data * ch,
+void spell_detect_demons(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
-			send_to_char("Nothing happens\r\n", ch);
-			return;
+			struct affected_type af;
 
-		}		/* END OF spell_thornwrack() */
+			  assert(victim);
+			  assert((level >= 0) && (level <= NPC_LEV));
+			if (magic_fails(ch, victim))
+				  return;
+
+			if (ha1375_affected_by_spell(victim, SPELL_DETECT_DEMONS))
+				  return;
+
+			  af.type = SPELL_DETECT_DEMONS;
+			  af.duration = level * 5;
+			  af.modifier = 0;
+			  af.location = APPLY_NONE;
+			  af.bitvector = AFF2_DETECT_DEMONS;
+
+			  ha1300_affect_to_char(victim, &af);
+
+			  send_to_char("Your eyes tingle.\n\r", victim);
+
+		}		/* END OF spell_detect_demons() */
 
 void spell_detect_dragons(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
@@ -1626,21 +1649,55 @@ void spell_animal_summoning(sbyte level, struct char_data * ch,
 
 		}		/* END OF spell_animal_summoning() */
 
-void spell_pass_without_trace(sbyte level, struct char_data * ch,
+void spell_detect_vampires(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
-			send_to_char("Nothing happens\r\n", ch);
-			return;
+			struct affected_type af;
 
-		}		/* END OF spell_pass_without_trace() */
+			  assert(victim);
+			  assert((level >= 0) && (level <= NPC_LEV));
+			if (magic_fails(ch, victim))
+				  return;
 
-void spell_chloroplast(sbyte level, struct char_data * ch,
+			if (ha1375_affected_by_spell(victim, SPELL_DETECT_VAMPIRES))
+				  return;
+
+			  af.type = SPELL_DETECT_VAMPIRES;
+			  af.duration = level * 5;
+			  af.modifier = 0;
+			  af.location = APPLY_NONE;
+			  af.bitvector = AFF2_DETECT_VAMPIRES;
+
+			  ha1300_affect_to_char(victim, &af);
+
+			  send_to_char("Your eyes tingle.\n\r", victim);
+
+		}		/* END OF spell_detect_vampires() */
+
+void spell_detect_giants(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {
 
-			send_to_char("Nothing happens\r\n", ch);
-			return;
+			struct affected_type af;
 
-		}		/* END OF spell_chloroplast() */
+			  assert(victim);
+			  assert((level >= 0) && (level <= NPC_LEV));
+			if (magic_fails(ch, victim))
+				  return;
+
+			if (ha1375_affected_by_spell(victim, SPELL_DETECT_GIANTS))
+				  return;
+
+			  af.type = SPELL_DETECT_GIANTS;
+			  af.duration = level * 5;
+			  af.modifier = 0;
+			  af.location = APPLY_NONE;
+			  af.bitvector = AFF2_DETECT_GIANTS;
+
+			  ha1300_affect_to_char(victim, &af);
+
+			  send_to_char("Your eyes tingle.\n\r", victim);
+
+		}		/* END OF spell_detect_giants() */
 
 void spell_earthmaw(sbyte level, struct char_data * ch,
 			   struct char_data * victim, struct obj_data * obj) {

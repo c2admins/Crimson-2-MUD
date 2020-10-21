@@ -275,17 +275,17 @@ const char *spell_names[] = {
 	"dragon form",		/* 160 */
 	"monkey form",		/* 161 */
 	"ninja form",		/* 162 */
-	"chloroplast",		/* 163 */
+	"detect giants",		/* 163 */
 	"faerie fog",		/* 164 */
-	"entangle",		/* 165 */
+	"detect shadows",		/* 165 */
 	"barkskin",		/* 166 */
 	"stoneskin",		/* 167 */
 	"thornwrack",		/* 168 */
-	"calm",			/* 169 */
+	"detect demons",	/* 169 */
 	"detect dragons",	/* 170 */
 	"detect undead",	/* 171 */
 	"animal summoning",	/* 172 */
-	"pass without trace",	/* 173 */
+	"detect vampires",	/* 173 */
 	"earthmaw",		/* 174 */
 	"needlestorm",		/* 175 */
 	"treewalk",		/* 176 */
@@ -499,17 +499,17 @@ const char *sk_sp_defines[] = {
 	"SPELL_TRANSFORM_DRAGON",
 	"SPELL_TRANSFORM_MONKEY",
 	"SPELL_TRANSFORM_NINJA",
-	"SPELL_CHLOROPLAST",
+	"SPELL_DETECT_GIANTS",
 	"SPELL_FAERIE_FOG",
-	"SPELL_ENTANGLE",
+	"SPELL_DETECT_SHADOWS",
 	"SPELL_BARKSKIN",
 	"SPELL_STONESKIN",
 	"SPELL_THORNWRACK",
-	"SPELL_CALM",
+	"SPELL_DETECT_DEMONS",
 	"SPELL_DETECT_DRAGONS",
 	"SPELL_DETECT_UNDEAD",
 	"SPELL_ANIMAL_SUMMONING",
-	"SPELL_PASS_WITHOUT_TRACE",
+	"SPELL_DETECT_VAMPIRES",
 	"SPELL_EARTHMAW",
 	"SPELL_NEEDLESTORM",
 	"SPELL_TREEWALK",
@@ -724,17 +724,17 @@ const char *spell_wear_off_msg[] = {
 	"You are no longer a dragon.",	/* 160 */
 	"You are no longer a monkey.",	/* 161 */
 	"You are no longer a ninja.",	/* 162 */
-	"The no longer regenerate.",
+	"You can no longer sense giants.",
 	"The purple haze clinging to your body suddenly dissipates.",
-	"!SPELL_ENTANGLE!",
+	"You can no longer sense creatures of the shadow",
 	"Your skin feels less like bark",
 	"Your skins loses its stone-like qualities.",
 	"!SPELL_THORNWRACK!",
-	"You feel less calm.",
+	"You can no longer sense demons.",
 	"You can no longer sense dragons.",
 	"You can no longer sense undead.",
 	"!SPELL_ANIMAL_SUMMONING!",
-	"!SPELL_PASS_WITHOUT_TRACE!",
+	"You can no longer sense vampires",
 	"!SPELL_EARTHMAW!",
 	"!SPELL_NEEDLESTORM!",
 	"!SPELL_TREEWALK!",

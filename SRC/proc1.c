@@ -610,22 +610,15 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		lv_what_to_practice == SPELL_TREEWALK ||
 		lv_what_to_practice == SPELL_TRANSFORM_CHIMERA ||
 		lv_what_to_practice == SKILL_TRACK ||
+		lv_what_to_practice == SPELL_EARTHMAW ||
 	    lv_what_to_practice == SPELL_TRANSFORM_COW) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
 	}
-	if (lv_what_to_practice >= SPELL_DEATHSHADOW && lv_what_to_practice <= SPELL_ENTANGLE) {
+	if (lv_what_to_practice >= SPELL_DEATHSHADOW && lv_what_to_practice <= SPELL_TRANFORM_MONKEY) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
 	}
-	if (lv_what_to_practice >= SPELL_CALM) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
-		return;
-	}
-	if (lv_what_to_practice > SPELL_ANIMAL_SUMMONING && lv_what_to_practice <= SPELL_EARTHMAW) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
-		return;
-	}	
 	if (lv_what_to_practice > SPELL_FAERIE_FIRE && lv_what_to_practice < SPELL_METEOR_SWARM) {
 		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
 		return;
