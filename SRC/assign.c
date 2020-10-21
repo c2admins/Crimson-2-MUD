@@ -253,6 +253,9 @@ void as1100_assign_objects(void)
 	ASSIGN_OBJ(7646, sp1000_citym_rainbow_box);
 	ASSIGN_OBJ(8661, sp1050_mithril_fountain);
 
+	/* Quel'sith Elves */
+	ASSIGN_OBJ(20766, sp1050_qelves_dias);
+
 	/* ammo */
 	ASSIGN_OBJ(552, sp2300_load_ammo);
 	ASSIGN_OBJ(553, sp2300_load_ammo);

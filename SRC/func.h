@@ -851,6 +851,7 @@ void do_set_pklevel(struct char_data * ch, char *arg);
 int si1000_nosferatu(struct char_data * ch, int cmd, char *arg);
 int sp1000_citym_rainbow_box(struct char_data * ch, int cmd, char *arg);
 int sp1050_mithril_fountain(struct char_data * ch, int cmd, char *arg);
+int sp1050_qelves_dias(struct char_data * ch, int cmd, char *arg);
 int sp1500_arcain_chest(struct char_data * ch, int cmd, char *arg);
 int sp2000_cloud_stone(struct char_data * ch, int cmd, char *arg);
 int sp2100_cloud_bookshelf(struct char_data * ch, int cmd, char *arg);
