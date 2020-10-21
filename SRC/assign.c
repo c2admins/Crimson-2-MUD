@@ -87,7 +87,7 @@ void as1000_assign_mobiles(void)
 	//DM
 		// ASSIGN_MOB(3137, pr3500_bountyhunter);
 	//Questmaster
-		ASSIGN_MOB(3060, pr3500_bountyhunter);
+	ASSIGN_MOB(3060, pr3500_bountyhunter);
 	ASSIGN_MOB(3165, pr3500_bountyhunter);
 	ASSIGN_MOB(3170, pc1600_healer);
 
@@ -251,10 +251,12 @@ void as1100_assign_objects(void)
 
 	/* CityofMirielle */
 	ASSIGN_OBJ(7646, sp1000_citym_rainbow_box);
+	
+	/* Myth Drannor */
 	ASSIGN_OBJ(8661, sp1050_mithril_fountain);
 
 	/* Quel'sith Elves */
-	ASSIGN_OBJ(20766, sp1050_qelves_dias);
+	ASSIGN_OBJ(20766, sp1250_qelves_dias);
 
 	/* ammo */
 	ASSIGN_OBJ(552, sp2300_load_ammo);
@@ -271,7 +273,6 @@ void as1100_assign_objects(void)
 
 
 } /* END OF as1100_assign_objects() */
-
 
 /* assign special procedures to rooms */
 void as1200_assign_rooms(void)

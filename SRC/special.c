@@ -50,8 +50,7 @@ int sp1000_citym_rainbow_box(struct char_data * ch, int cmd, char *arg)
 
 	victim = 0;
 	obj = 0;
-	if (!(ha3500_generic_find(arg, FIND_OBJ_INV | FIND_OBJ_ROOM, ch,
-				  &victim, &obj))) {
+	if (!(ha3500_generic_find(arg, FIND_OBJ_INV | FIND_OBJ_ROOM, ch, &victim, &obj))) {
 		return (FALSE);
 	}
 
@@ -220,6 +219,90 @@ int sp1050_mithril_fountain(struct char_data * ch, int cmd, char *arg)
 	return (FALSE);
 
 }				/* END OF mithril_fountain() */
+
+int sp1250_qelves_dias(struct char_data * ch, int cmd, char *arg)
+{
+
+	struct obj_data *obj, *tmp_obj;
+	struct char_data *victim;
+	int lv_found_runes;
+	char type[MAX_INPUT_LENGTH], dir[MAX_INPUT_LENGTH], buf[MAX_STRING_LENGTH];
+
+
+
+	if (cmd != CMD_CLOSE) {
+		return (FALSE);
+	}
+
+	/* IF THEY CLOSE THE DIAS AND IT CONTAINS THE CORRECT RUNESTONES CONVERT THEM TO THE DRAGON SHIELD     */
+	argument_interpreter(arg, type, dir);
+
+	if (!*type) {
+		return (FALSE);
+	}
+
+	victim = 0;
+	obj = 0;
+	if (!(ha3500_generic_find(arg, FIND_OBJ_INV | FIND_OBJ_ROOM, ch, &victim, &obj))) {
+		return (FALSE);
+	}
+
+	/* this is an object */
+	if (obj->obj_flags.type_flag != ITEM_CONTAINER){
+		return (FALSE);
+	}
+
+	if (IS_SET(obj->obj_flags.value[1], CONT_CLOSED)){
+		return (FALSE);
+	}
+	if (!IS_SET(obj->obj_flags.value[1], CONT_CLOSEABLE)){
+		return (FALSE);
+	}
+	if (obj_index[obj->item_number].virtual != 20766){
+		return (FALSE);
+	}
+	/* WE HAVE OUR DIAS, DOES IT CONTAIN THE RUNESTONES? */
+	lv_found_runes = 0;
+	for (tmp_obj = obj->contains; tmp_obj; tmp_obj = tmp_obj->next_content) {
+		if (obj_index[tmp_obj->item_number].virtual == 20759)
+			SET_BIT(lv_found_runes, BIT0);
+		if (obj_index[tmp_obj->item_number].virtual == 20760)
+			SET_BIT(lv_found_runes, BIT1);
+		if (obj_index[tmp_obj->item_number].virtual == 20761)
+			SET_BIT(lv_found_runes, BIT2);
+		if (obj_index[tmp_obj->item_number].virtual == 20762)
+			SET_BIT(lv_found_runes, BIT3);
+	}			/* END OF for loop */
+
+	/* IF WE DON'T HAVE THE RIGHT RUNESTONES, EXIT */
+	if (lv_found_runes != BIT4 - 1){
+		return (FALSE);
+	}
+	/* SWAP THE KEYS FOR THE DRAGON SHIELD */
+	lv_found_runes = db8200_real_object(20758);
+	if (lv_found_runes < 0) {
+		bzero(buf, sizeof(buf));
+		sprintf(buf, "ERROR: Tried to load object: 20758 for %s and it doesn't exist.",
+			GET_REAL_NAME(ch));
+		do_sys(buf, GET_LEVEL(ch) + 1, ch);
+		spec_log(buf, ERROR_LOG);
+		return (FALSE);
+	}
+
+	/* REMOVE RUNESTONES */
+	while (obj->contains) {
+		GET_OBJ_WEIGHT(obj) -= GET_OBJ_WEIGHT(obj->contains);
+		ha2700_extract_obj(obj->contains);
+	}			/* END OF while loop */
+
+	/* LOAD THE OBJECT */
+	tmp_obj = db5100_read_object(lv_found_runes, REAL);
+
+	/* PUT THE SHIELD IN THE FOUNTAIN */
+	ha2300_obj_to_obj(tmp_obj, obj);
+	return (FALSE);
+
+}				/* END OF sp1250_qelves_dias() */
 
 //Zone doesn't exist removing function
 //int sp1500_arcain_chest(struct char_data * ch, int cmd, char *arg)
