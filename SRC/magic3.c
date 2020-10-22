@@ -529,7 +529,7 @@ void spell_detect_animals(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector = AFF2_DETECT_ANIMALS;
+			  af.bitvector2 = AFF2_DETECT_ANIMALS;
 
 			  ha1300_affect_to_char(victim, &af);
 

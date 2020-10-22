@@ -1510,7 +1510,7 @@ void spell_detect_dragons(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector = AFF2_DETECT_DRAGONS;
+			  af.bitvector2 = AFF2_DETECT_DRAGONS;
 
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1535,7 +1535,7 @@ void spell_detect_undead(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector = AFF2_DETECT_UNDEAD;
+			  af.bitvector2 = AFF2_DETECT_UNDEAD;
 
 			  ha1300_affect_to_char(victim, &af);
 
