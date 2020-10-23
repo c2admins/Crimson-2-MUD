@@ -36,19 +36,18 @@ const char *ban_types[] = {
 };
 
 const int skill_numbers[] = {
-	45, 46, 47,
-	48, 49, 50,
-	51, 52, 56,
-	57, 58, 59,
+	45, 46, 47, 48,
+	49, 50, 51, 52,
+	56, 57, 58, 59,
 	60, 61, 62, 63,
 	64, 65, 66, 67,
-	69, 70, 71,
-	89,
+	69, 70, 71, 89,
 	136, 137, 138, 143,
 	144, 145, 146, 147,
 	148, 155, 156, 181,
 	189, 191, 200, 201,
-	202, 203, 214, 216,220,
+	202, 203, 214, 216,
+	220,
 	0
 };
 
@@ -63,7 +62,7 @@ const char *skill_names[] = {
 
 	"bash",			/* 51 */
 	"rescue",		/* 52 */
-	"extra damage",		/* 56 */
+	"extra damage",	/* 56 */
 
 	"slashing weapons",	/* 57 */
 	"piercing weapons",	/* 58 */
@@ -73,7 +72,7 @@ const char *skill_names[] = {
 	"dodge",		/* 61 */
 	"tougher scales",	/* 62 */
 
-	"fire breath",		/* 64 */
+	"fire breath",		/* 63 */
 	"gas breath",		/* 64 */
 	"frost breath",		/* 65 */
 	"acid breath",		/* 66 */
@@ -97,7 +96,6 @@ const char *skill_names[] = {
 	"parry",		/* 148 */
 	"escape",		/* 155 */
 	"peek",			/* 156 */
-
 	"forage",		/* 181 */
 	"stab",			/* 189 */
 	"switch opponent",	/* 191 */
@@ -1304,7 +1302,7 @@ const char *equipment_types[] = {
 };
 
 const char *affected_bits[] =
-{"BLIND",
+{	"BLIND",
 	"INVISIBLE",
 	"DETECT_EVIL",
 	"DETECT_INVISIBLE",

@@ -4523,21 +4523,21 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 		bzero(buf, sizeof(buf));
 
 		sprintf(buf, "%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n%s\r\n",
-		 "Valid flags  ANSI          NOCONNECT          NOTELL      ",
-		 "*KICKME      ASSIST       *NO_EMOTE           NOWIZINFO   ",
-		 " COMPACT     AUTOAGGR      NOGOSSIP          *PKILLABLE   ",
-		 " NOSUMMON    AUTOASSIST   *NOHASSLE           SHOW_TICK   ",
-		 " SHOW_HP     AUTOLOOT      NOIMM             *SHOW_ROOM   ",
-		 " SHOW_MANA   AUTOSPLIT     NOINFO             SHOW_MOVE   ",
-		 " SHOW_EXITS  BRIEF         NO_OPPONENT_FMSG   SHOW_NAME   ",
-		 " AUTOGOLD   *FREEZE        NO_PERSONAL_FMSG   SHOW_EXITS  ",
-		 " *SHOW_DIAG  NOAUCTION     NO_BYSTANDER_FMSG  TOGGLE      ",
-		 " QUEST      *MUZZLE_ALL    NOSHOUT            WIMPY       ",
-		 " NOSTAFF    *MUZZLE_SHOUT  NOSYSTEM          *JAILED      ",
-		 " NOBOSS     *MUZZLE_BEEP   NOMUSIC           *NOFOLLOW    ",
-		 "*NOKILL     *CANTHUNT      NOAVATAR           NOPKFLAME   ",
-		 "*MEDIATOR   *IMM_QUESTOR  *RULER              CAN_FINGER  ",
-		 "*BUILDER     *flags preceeded by a * are priviledged      ");
+		 "Valid flags:  ANSI          NOCONNECT          NOTELL     ",
+		 " *KICKME      ASSIST       *NO_EMOTE           NOWIZINFO  ",
+		 "  COMPACT     AUTOAGGR      NOGOSSIP          *PKILLABLE  ",
+		 "  NOSUMMON    AUTOASSIST   *NOHASSLE           SHOW_TICK  ",
+		 "  SHOW_HP     AUTOLOOT      NOIMM             *SHOW_ROOM  ",
+		 "  SHOW_MANA   AUTOSPLIT     NOINFO             SHOW_MOVE  ",
+		 "  SHOW_EXITS  BRIEF         NO_OPPONENT_FMSG   SHOW_NAME  ",
+		 "  AUTOGOLD   *FREEZE        NO_PERSONAL_FMSG   TOGGLE     ",
+		 " *SHOW_DIAG   NOAUCTION     NO_BYSTANDER_FMSG  CAN_FINGER ",
+		 "  QUEST      *MUZZLE_ALL    NOSHOUT            WIMPY      ",
+		 "  NOSTAFF    *MUZZLE_SHOUT  NOSYSTEM          *JAILED     ",
+		 "  NOBOSS     *MUZZLE_BEEP   NOMUSIC           *NOFOLLOW   ",
+		 " *NOKILL     *CANTHUNT      NOAVATAR           NOPKFLAME  ",
+		 " *MEDIATOR   *IMM_QUESTOR  *RULER             *BUILDER    ",
+		 " *flags preceeded by a * are priviledged                  ");
 
 		send_to_char(buf, ch);
 		return;

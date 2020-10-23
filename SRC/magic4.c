@@ -1378,7 +1378,7 @@ void spell_detect_shadows(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector = AFF2_DETECT_SHADOWS;
+			  af.bitvector2 = AFF2_DETECT_SHADOWS;
 
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1508,7 +1508,7 @@ void spell_detect_demons(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector = AFF2_DETECT_DEMONS;
+			  af.bitvector2 = AFF2_DETECT_DEMONS;
 
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1666,7 +1666,7 @@ void spell_detect_vampires(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector = AFF2_DETECT_VAMPIRES;
+			  af.bitvector2 = AFF2_DETECT_VAMPIRES;
 
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1691,7 +1691,7 @@ void spell_detect_giants(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector = AFF2_DETECT_GIANTS;
+			  af.bitvector2 = AFF2_DETECT_GIANTS;
 
 			  ha1300_affect_to_char(victim, &af);
 
