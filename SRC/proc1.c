@@ -1651,9 +1651,11 @@ int pr2799_camelot(struct char_data * ch, int cmd, char *arg)
 	}
 
 	/* 50% CHANCE ONLY */
-	/* if (number(1, 2) != 1) { return(0); } */
+	if (number(1, 2) != 1) {
+		return(0); 
+	}
 	if (lv_number < 0 || lv_number > 50) {
-		lv_number = 40;
+		lv_number = 0;
 	}
 
 	lv_number++;
@@ -1689,6 +1691,10 @@ int pr2799_camelot(struct char_data * ch, int cmd, char *arg)
 		return (1);
 	case 5:
 		sprintf(buf, "strength %s", GET_REAL_NAME(vict));
+		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
+		return (1);
+	case 5:
+		sprintf(buf, "77 %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 		return (1);
 		/* IF ADDING TO THIS, BE SURE TO ADJUST lv_number CHECK ABOVE */
@@ -1828,16 +1834,16 @@ int pr2800_gothelred(struct char_data * ch, int cmd, char *arg)
 		wi1000_do_emote(ch, "scratches his crotch and gets a gleam in his eye as he looks at you.", CMD_EMOTE);
 		return (1);
 	case 37:
-		wi1000_do_emote(ch, "", CMD_EMOTE);
+		wi1000_do_emote(ch, "Maybe Pythias will have mercy on you.", CMD_EMOTE);
 		return (1);
 	case 38:
-		wi1000_do_emote(ch, "", CMD_EMOTE);
+		wi1000_do_emote(ch, "It could be worse, you could be stuck with Puff!", CMD_EMOTE);
 		return (1);
 	case 39:
-		wi1000_do_emote(ch, "", CMD_EMOTE);
+		wi1000_do_emote(ch, "Hope you learned your lesson from your time here.", CMD_EMOTE);
 		return (1);
 	case 40:
-		wi1000_do_emote(ch, "", CMD_EMOTE);
+		wi1000_do_emote(ch, "You should try to stay out of trouble.", CMD_EMOTE);
 		return (1);
 	case 41:
 		do_say(ch, "What ya do to end up here kid?", CMD_SAY);

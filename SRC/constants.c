@@ -1349,6 +1349,12 @@ const char *affected_02_bits[] =
 	"DETECT_UNDEAD",
 	"FAERIE_FIRE",
 	"FAERIE_FOG",
+	"DETECT_ANIMALS",	
+	"DETECT_DRAGONS",
+	"DETECT_DEMONS",
+	"DETECT_GIANTS",
+	"DETECT_SHADOWS",
+	"DETECT_VAMPIRES",
 	"\n"
 };
 
@@ -1680,6 +1686,7 @@ const char *curse_words[] = {
 	"faggot",
 	"orgasm",
 	"nigger",
+	"nigga",
 	"screw",
 	"*EOL*",
 	"\n",

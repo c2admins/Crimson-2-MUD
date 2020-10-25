@@ -97,14 +97,14 @@ int isQuestOverrideOn;
 #define QMSALES_MAX_CHANCE  100
 //////////////////////////////////////
 
-#define RUN_FLAG_NOSPECIAL		BIT0
-#define RUN_FLAG_NOZONE_RESET           BIT1
-#define RUN_FLAG_NOWEATHER		BIT2
-#define RUN_FLAG_TERMINATE       	BIT3
-#define RUN_FLAG_DISABLE_FIGHTING	BIT4
-#define RUN_FLAG_CREATE_MAX_FILE 	BIT5
-#define RUN_FLAG_CHAR_DIED       	BIT6
-#define RUN_FLAG_REBUILD_EQUIPMENT      BIT7
+#define RUN_FLAG_NOSPECIAL	         BIT0
+#define RUN_FLAG_NOZONE_RESET        BIT1
+#define RUN_FLAG_NOWEATHER	         BIT2
+#define RUN_FLAG_TERMINATE           BIT3
+#define RUN_FLAG_DISABLE_FIGHTING    BIT4
+#define RUN_FLAG_CREATE_MAX_FILE     BIT5
+#define RUN_FLAG_CHAR_DIED           BIT6
+#define RUN_FLAG_REBUILD_EQUIPMENT   BIT7
 
 /* because do_move doesn't return a value and speedwalk needs
 to know if it worked, this global variable is needed */
@@ -116,8 +116,8 @@ int gv_move_succeeded;
 #define QUEST_PORT          6913
 #define HELLNIGHT_PORT      6666
 #define ZONING_PORT         4500
-#define DEFAULT_PORT        5000
-#define DEVELOPMENT_PORT    17422
+#define DEFAULT_PORT        1234
+#define DEVELOPMENT_PORT    5000
 
 /* ROOM DEFINES */
 #define VOID_ROOM                        0
@@ -127,7 +127,7 @@ int gv_move_succeeded;
 #define IMM_CHAT_ROOM                    4
 #define WEDDING_ROOM                     5
 #define REHAB_ROOM                       6
-#define SUNSHINES_ROOM                   7
+#define PYTHIAS_ROOM                   7
 
 #define CHALICE_ROOM                  2500
 #define DRESSING_ROOM                 3000
@@ -135,7 +135,7 @@ int gv_move_succeeded;
 #define FOUNTAIN_ROOM                 3014
 #define MAGES_GUILD_ROOM              3017
 #define PET_ROOM                      3032
-#define BRIMSTONE_PET_ROOM			  21834
+#define BRIMSTONE_PET_ROOM            21834
 #define VEHICLE_BEG_ROOM              5000
 #define VEHICLE_END_ROOM              5099
 #define DEATH_ROOM                    3000
@@ -175,33 +175,33 @@ int gv_move_succeeded;
 #define OBJ_BOARD_ROGERWATERS         8302
 
 
-#define OBJ_CLAN_BOARD2                415
-#define OBJ_CLAN_BOARD5		       404
-#define OBJ_CLAN_BOARD6                401
-#define OBJ_CLAN_BOARD7		       410
-#define OBJ_CLAN_BOARD10               411
-#define OBJ_CLAN_BOARD11	       406
-#define OBJ_CLAN_BOARD12               414
-#define OBJ_CLAN_BOARD13	       405
-#define OBJ_CLAN_BOARD20             21017
-#define OBJ_CLAN_BOARD21             21014
-#define OBJ_CLAN_BOARD23             21000
+#define OBJ_CLAN_BOARD2    415
+#define OBJ_CLAN_BOARD5	   404
+#define OBJ_CLAN_BOARD6    401
+#define OBJ_CLAN_BOARD7	   410
+#define OBJ_CLAN_BOARD10   411
+#define OBJ_CLAN_BOARD11   406
+#define OBJ_CLAN_BOARD12   414
+#define OBJ_CLAN_BOARD13   405
+#define OBJ_CLAN_BOARD20   21017
+#define OBJ_CLAN_BOARD21   21014
+#define OBJ_CLAN_BOARD23   21000
 
 
-#define OBJ_ARROW			552
-#define OBJ_P_ARROW			553
-#define OBJ_BOLT			554
-#define OBJ_P_BOLT			555
-#define OBJ_D_BOLT			556
-#define OBJ_BOW				557
-#define OBJ_CROSSBOW			558
-#define OBJ_HEAVYCROSSBOW		559
-#define OBJ_FYREBRAND                  7763
+#define OBJ_ARROW          552
+#define OBJ_P_ARROW        553
+#define OBJ_BOLT           554
+#define OBJ_P_BOLT         555
+#define OBJ_D_BOLT         556
+#define OBJ_BOW            557
+#define OBJ_CROSSBOW       558
+#define OBJ_HEAVYCROSSBOW  559
+#define OBJ_FYREBRAND      7763
 
-#define OBJ_BLUE_POTION			3428
-#define OBJ_WHITE_POTION		3465
-#define OBJ_HEALING_POTION              12637
-#define OBJ_NEWBIE_HEALING_POTION	8052
+#define OBJ_BLUE_POTION    3428
+#define OBJ_WHITE_POTION   3465
+#define OBJ_HEALING_POTION 12637
+#define OBJ_NEWBIE_HEALING_POTION  8052
 /* MOB DEFINES */
 #define MOB_RAHN			2609
 #define MOB_JINIPAN			3146
