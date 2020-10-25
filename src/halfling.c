@@ -24,18 +24,18 @@
 #include "globals.h"
 
 #define NARSIL_ACT \
-"&PThank you, let me work on these for a moment...&n\
+"&WThank you, let me work on these for a moment...&n\
 \n\r \
-\n\r&BThe blacksmith begins heating the metal pieces in his forge.&n\
+\n\r&WThe blacksmith begins heating the metal pieces in his forge.&n\
 \n\r\
-\n\rTaking the pieces from his forge, the blacksmith begins pounding them \
+\n\r&WTaking the pieces from his forge, the blacksmith begins pounding them \
 \n\rtogether with his hammer.\
 \n\r\
-\n\rAfter several hours the blacksmith wipes the sweat from his brow and smiles.\
+\n\r&WAfter several hours the blacksmith wipes the sweat from his brow and smiles.\
 \n\r\
-\n\rOut of the five pieces he constructs a finely crafted blade. \
+\n\r&WOut of the five pieces he constructs a finely crafted blade. \
 \n\r\
-\n\r&PThere you are. Please use it wisely.&n\
+\n\r&WThere you are. Please use it wisely.&n\
 \n\r"
 
 int halfling_smith(struct char_data * ch, int cmd, char *arg)

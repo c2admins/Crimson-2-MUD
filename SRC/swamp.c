@@ -24,17 +24,17 @@
 #include "globals.h"
 
 #define SMITER_ACT \
-"&PThank you, let me work on these for a moment...&n\
+"&WThank you, let me work on these for a moment...&n\
 \n\r \
-\n\r&BThe old man begins working his magic to mend the broken pieces.&n\
+\n\r&WThe old man begins working his magic to mend the broken pieces.&n\
 \n\r\
-\n\rThe old man pauses a moment to collect his thoughts... \
+\n\r&WThe old man pauses a moment to collect his thoughts... \
 \n\r\
-\n\rThe priest murmurs a strange chant and slowly the pieces begin to come together.\
+\n\r&WThe priest murmurs a strange chant and slowly the pieces begin to come together.\
 \n\r\
-\n\rOut of the 3 pieces he constructs a holy Smiter. \
+\n\r&WOut of the 3 pieces he constructs a holy Smiter. \
 \n\r\
-\n\r&PThere you are. Please use it wisely.&n\
+\n\r&WThere you are. Please use it wisely.&n\
 \n\r"
 
 int swamp_priest(struct char_data * ch, int cmd, char *arg)
