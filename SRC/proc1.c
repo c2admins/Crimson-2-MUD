@@ -606,7 +606,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		lv_what_to_practice == SPELL_FEAR ||
 		lv_what_to_practice == SKILL_TSUGIASHI ||
 		lv_what_to_practice == SKILL_BERSERK ||
-		lv_what_to_practice == SKILL_PARRY ||
+		lv_what_to_practice == SKILL_PARR ||
 		lv_what_to_practice == SPELL_TREEWALK ||
 		lv_what_to_practice == SPELL_TRANSFORM_CHIMERA ||
 		lv_what_to_practice == SKILL_TRACK ||
