@@ -606,7 +606,6 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		lv_what_to_practice == SPELL_FEAR ||
 		lv_what_to_practice == SKILL_TSUGIASHI ||
 		lv_what_to_practice == SKILL_BERSERK ||
-		lv_what_to_practice == SKILL_PARR ||
 		lv_what_to_practice == SPELL_TREEWALK ||
 		lv_what_to_practice == SPELL_TRANSFORM_CHIMERA ||
 		lv_what_to_practice == SKILL_TRACK ||
@@ -1693,7 +1692,7 @@ int pr2799_camelot(struct char_data * ch, int cmd, char *arg)
 		sprintf(buf, "strength %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 		return (1);
-	case 5:
+	case 6:
 		sprintf(buf, "77 %s", GET_REAL_NAME(vict));
 		do_cast_proc(ch, vict, buf, CMD_CAST, 0);
 		return (1);

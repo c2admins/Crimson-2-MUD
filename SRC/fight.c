@@ -2201,18 +2201,19 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		for (i = 0; i < num_attacks; i++) {
 			lv_temp_dam = 0;
 
-			if (IS_NPC(ch)) {	/* This gets added to the
-						 * weapon */
+			if (IS_NPC(ch)) {	/* This gets added to the weapon */
 				lv_temp_dam += dice(ch->specials.damnodice, ch->specials.damsizedice);
 			}
 			else {
-				lv_temp_dam
-					+= number(0, 2);	/* Max. 2 dam with bare
-								 * hands */
+				if (GET_CLASS(ch) == CLASS_MONK)
+				{
+				lv_temp_dam += dice((GET_LEVEL(ch)/2), 3) + (GET_LEVEL(ch)/2);	/* Monk Unarmed Strike */
+				}
+				lv_temp_dam+= number(0, 2);	/* Max. 2 dam with bare hands */
+				
 			}
 
-			if (wielded)	/* NPC barehand damage is added to this
-					 * -- ouch */
+			if (wielded)	/* NPC barehand damage is added to this * -- ouch */
 				lv_temp_dam += dice(wielded->obj_flags.value[1], wielded->obj_flags.value[2]);
 
 			lv_temp_dam += li9700_adjust_damage_bonus(GET_STR(ch) + GET_BONUS_STR(ch));

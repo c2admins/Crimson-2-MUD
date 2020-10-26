@@ -157,15 +157,6 @@ void cast_berserk(sbyte level, struct char_data * ch, char *arg, int type,
 }				/* END OF cast_berserk() */
 
 
-void cast_parry(sbyte level, struct char_data * ch, char *arg, int type,
-		  struct char_data * victim, struct obj_data * tar_obj)
-{
-
-
-
-}				/* END OF cast_parry() */
-
-
 void cast_call_lightning(signed char level, struct char_data * ch, char *arg, int type,
 		         struct char_data * victim, struct obj_data * tar_obj)
 {

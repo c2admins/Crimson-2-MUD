@@ -1030,7 +1030,7 @@ struct class_data {
 #define PLR2_MUZZLE_ALL        BIT9
 #define PLR2_MUZZLE_SHOUT      BIT10
 #define PLR2_MUZZLE_BEEP       BIT11
-#define PLR2_KICKME     BIT12
+#define PLR2_KICKME            BIT12
 #define PLR2_PKILLABLE         BIT13
 #define PLR2_AFK               BIT14
 #define PLR2_MOB_AI            BIT15
@@ -1043,7 +1043,7 @@ struct class_data {
 #define PLR2_NO_LOCATE         BIT22
 #define PLR2_ATTACKER          BIT23
 #define PLR2_DEATH_PROCEDURE   BIT24
-#define PLR2_NOSTAFF            BIT25
+#define PLR2_NOSTAFF           BIT25
 #define PLR2_NOBOSS            BIT26
 #define PLR2_NEWGRAPHICS       BIT27
 #define PLR2_SHOWNOEXP	       BIT28

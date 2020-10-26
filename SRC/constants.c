@@ -93,7 +93,7 @@ const char *skill_names[] = {
 	"meditation",		/* 145 */
 	"sense danger",		/* 146 */
 	"berserk",		/* 147 */
-	"parry",		/* 148 */
+	"flurry attack",		/* 148 */
 	"escape",		/* 155 */
 	"peek",			/* 156 */
 	"forage",		/* 181 */
@@ -258,7 +258,7 @@ const char *spell_names[] = {
 	"meditation",		/* 145 */
 	"sense danger",		/* 146 */
 	"berserk",		/* 147 */
-	"parry",		/* 148 */
+	"flurry attack",		/* 148 */
 	"pestilence",		/* 149 */
 	"spirit transfer",	/* 150 */
 	"bind souls",		/* 151 */
@@ -482,7 +482,7 @@ const char *sk_sp_defines[] = {
 	"SKILL_MEDITATE",
 	"SKILL_SENSE_DANGER",
 	"SKILL_BERSERK",
-	"SKILL_PARR",
+	"SKILL_FLURRY",
 	"SPELL_PESTILENCE",
 	"SPELL_SPIRIT_TRANSFER",/* 150 */
 	"SPELL_BIND_SOULS",
@@ -707,7 +707,7 @@ const char *spell_wear_off_msg[] = {
 	"meditation",		/* 145 */
 	"sense danger",		/* 146 */
 	"berserk",		/* 147 */
-	"parry",		/* 148 */
+	"!flurry attack!",		/* 148 */
 	"pestilence",		/* 149 */
 	"spiritual transfer",	/* 150 */
 	"The souls you are bound too have been released.",	/* 151 */

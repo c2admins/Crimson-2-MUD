@@ -153,6 +153,7 @@
 #define SKILL_MEDITATE           145
 #define SKILL_SENSE_DANGER       146
 #define SKILL_BERSERK	         147
+#define SKILL_FLURRY             148
 #define SPELL_PESTILENCE	     149
 #define SPELL_SPIRIT_TRANSFER    150
 #define SPELL_BIND_SOULS         151
