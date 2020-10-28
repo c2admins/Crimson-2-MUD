@@ -1608,6 +1608,7 @@ void at2300_do_escape(struct char_data * ch, char *argument, int cmd)
 	return;
 }				/* END OF at2300_do_escape() */
 
+/* Testing Flurry Attack as a Kick-skill
 void at2400_do_flurry(struct char_data * ch, char *argument, int cmd)
 {
 	struct char_data *victim;
@@ -1665,21 +1666,21 @@ void at2400_do_flurry(struct char_data * ch, char *argument, int cmd)
 	one_argument(argument, name);
 
 	if (name[0] == 0) {
-		/* WE DIDN'T GET AN ARGUMENT.  SEE IF WE ARE FIGHTING */
+		/* WE DIDN'T GET AN ARGUMENT.  SEE IF WE ARE FIGHTING *
 		if (ch->specials.fighting) {
 			victim = ch->specials.fighting;
 		}
 		else {
-			/* WE AREN'T FIGHTING AND NO ARG GIVEN */
+			/* WE AREN'T FIGHTING AND NO ARG GIVEN *
 			send_to_char("Who do you want to flurry attack?\n\r", ch);
 			return;
 		}
 	}
 	else {
-		/* SEE IF THE THE SPECIFIED VICTIM IS AVAILABLE */
+		/* SEE IF THE THE SPECIFIED VICTIM IS AVAILABLE *
 		victim = ha2125_get_char_in_room_vis(ch, name);
 		if (!(victim)) {
-			/* CAN'T LOCATE THAT VICTIM */
+			/* CAN'T LOCATE THAT VICTIM *
 			send_to_char("Your good, that person didn't wait around to get attacked!\n\r", ch);
 			return;
 		}
@@ -1726,7 +1727,7 @@ void at2400_do_flurry(struct char_data * ch, char *argument, int cmd)
 			spec_log(buf, FIRSTHIT_LOG);
 		}
 	}
-	/* 101% is a complete failure */
+	/* 101% is a complete failure *
 	lv_real_ac = GET_AC(victim) + li9750_ac_bonus(GET_DEX(victim)) + GET_BONUS_DEX(victim) +
 		races[GET_RACE(victim)].adj_ac;
 	percent = ((10 - (lv_real_ac / 10)) << 1) + number(1, 101);

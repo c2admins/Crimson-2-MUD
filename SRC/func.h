@@ -613,7 +613,7 @@ void at1500_do_bash(struct char_data * ch, char *arg, int cmd);
 void at1600_do_rescue(struct char_data * ch, char *arg, int cmd);
 void at1650_do_stab(struct char_data * ch, char *argument, int cmd);
 void at1700_do_kick(struct char_data * ch, char *arg, int cmd);
-void at2400_do_flurry(struct char_data * ch, char *arg, int cmd);
+/*void at2400_do_flurry(struct char_data * ch, char *arg, int cmd);*/
 void in3200_do_examine(struct char_data * ch, char *arg, int cmd);
 void in4500_do_view_info(struct char_data * ch, char *arg, int cmd);
 void in3900_do_users(struct char_data * ch, char *arg, int cmd);

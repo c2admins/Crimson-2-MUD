@@ -625,7 +625,7 @@ int shop_keeper(struct char_data * ch, int cmd, char *arg)
 	     (cmd == CMD_BACKSTAB) ||
 	     (cmd == CMD_BASH) ||
 	     (cmd == CMD_KICK) ||
-		 (cmd == CMD_FLURRY) ||
+		 /*(cmd == CMD_FLURRY) ||*/
 	     (cmd == CMD_BREATH))) {
 		bzero(buf, sizeof(buf));
 		arg = one_argument(arg, buf);

@@ -2154,8 +2154,8 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 
 		if (number(1, 200) == 1) {
 			num_attacks += 1;
-			if IS_PC
-				(ch) send_to_char("Good luck and fortune shine upon you! You get an extra attack in!\r\n", ch);
+			if IS_PC(ch)
+			send_to_char("Good luck and fortune shine upon you! You get an extra attack in!\r\n", ch);
 		}
 
 		if ((number(0, 101) < ch->skills[SKILL_SECOND].learned) &&
@@ -2181,10 +2181,19 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				}
 			}
 		}
-
-		if (IS_PC(ch))
+		if (IS_PC(ch)){
 			num_attacks += ch->points.extra_hits;
-
+		}
+		/* Testing Flurry Attack as a proc*/
+		if (number(0, 101) < MINV(33, (ch->skills[SKILL_FLURRY].learned / 3))) 
+		{
+			li9900_gain_proficiency(ch, SKILL_FLURRY);
+			num_attacks += dice(1,num_attacks);
+			if IS_PC(ch)
+				send_to_char("&WYou bombard your opponent with a flurry of attacks!&n\r\n", ch);
+		}
+		/* end of Testing Flurry Attack as a proc */
+		
 /* GIVE DARKLINGS A POISON ATTACK IF USING CLAW */
 		if ((GET_RACE(ch) == RACE_DARKLING ||
 		     GET_RACE(ch) == RACE_RAVSHI ||
