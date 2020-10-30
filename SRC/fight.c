@@ -1345,19 +1345,8 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 			ft1300_set_fighting(victim, ch, 0);
 		}
 	}
-	/* DOES THE WEAPON FLAME/ICE/LIGHTENING? */
+	/* Old Location DOES THE WEAPON FLAME/ICE/LIGHTENING? */
 	wielded = 0;
-	if (ch != victim &&
-	    attacktype >= TYPE_HIT &&
-	    attacktype <= TYPE_CRUSH &&
-	    ch->equipment[WIELD] &&
-	    (ch->equipment[WIELD]->obj_flags.type_flag == ITEM_WEAPON ||
-	     ch->equipment[WIELD]->obj_flags.type_flag == ITEM_QSTWEAPON)) {
-		if (number(1, 5) == 3) {
-			dam += ft2600_check_for_special_weapon_attacks(ch, victim, ch->equipment[WIELD]);
-		}
-	}
-
 
 	/* EXTRA DAMAGE */
 	if (ch != victim &&
@@ -1370,7 +1359,6 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 		lv_extra_damage = MAXV(1, lv_extra_damage);
 		dam += lv_extra_damage;
 	}
-
 
 	if (IS_AFFECTED(ch, AFF_RAGE) &&
 	    (attacktype >= TYPE_HIT) &&
@@ -1853,8 +1841,9 @@ int ft2600_check_for_special_weapon_attacks(struct char_data * ch, struct char_d
 	return (rc);
 
 
-}				/* END OF ft2600_check_for_special_weapon_attac
-				 * ks() */
+}				/* END OF ft2600_check_for_special_weapon_attacks() */
+
+
 
 
 void ft2750_create_demon_flesh(struct char_data * victim)
@@ -2194,7 +2183,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		}
 		/* end of Testing Flurry Attack as a proc */
 		
-/* GIVE DARKLINGS A POISON ATTACK IF USING CLAW */
+		/* GIVE DARKLINGS A POISON ATTACK IF USING CLAW */
 		if ((GET_RACE(ch) == RACE_DARKLING ||
 		     GET_RACE(ch) == RACE_RAVSHI ||
 		     GET_RACE(ch) == RACE_PIXIE ||
@@ -2310,7 +2299,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				lv_temp_dam *= 1 + (POSITION_FIGHTING - GET_POS(victim)) / 3;
 
 			lv_temp_dam += GET_DAMROLL(ch);
-
+			
 			/* TOUGHER SCALES */
 			if (number(0, 101) < victim->skills[SKILL_SCALES].learned ||
 			    number(0, 101) < victim->skills[SKILL_SCALES].learned) {
@@ -2326,6 +2315,18 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 								 * damage */
 			dam += lv_temp_dam;
 		}
+		if (type == TYPE_DUALWIELD) {
+			if (ch->equipment[HOLD] && (ch->equipment[HOLD]->obj_flags.type_flag == ITEM_WEAPON || ch->equipment[WIELD]->obj_flags.type_flag == ITEM_QSTWEAPON))
+			//if (number(1,5) == 3){
+				lv_temp_dam += ft2600_check_for_special_weapon_attacks(ch, victim, ch->equipment[HOLD]);
+			//}
+		} /* Off Hand Bits Proc*/
+		else if (type == TYPE_UNDEFINED && ch->equipment[WIELD] && (ch->equipment[WIELD]->obj_flags.type_flag == ITEM_WEAPON || ch->equipment[WIELD]->obj_flags.type_flag == ITEM_QSTWEAPON)) {
+			//if (number(1, 5) == 3) {
+				lv_temp_dam += ft2600_check_for_special_weapon_attacks(ch, victim, ch->equipment[WIELD]);
+			//}
+		} /* Normal Hand Bits Proc */
+		
 		if (type == SKILL_BACKSTAB)
 			damage(ch, victim, dam, SKILL_BACKSTAB, num_attacks);
 		else {
@@ -2461,7 +2462,7 @@ void ft3100_perform_violence(void)
 					 * 
 					 * C I A L
 					 * 
-					 * A  L
+					 * A L
 					 * 
 					 * 
 					 * 
