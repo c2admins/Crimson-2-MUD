@@ -3106,6 +3106,7 @@ void in3800_do_spells(struct char_data * ch, char *arg, int cmd)
 				    aff->type == SPELL_TRANSFORM_NINJA ||
 				    aff->type == SPELL_TRANSFORM_MANTICORE ||
 				    aff->type == SPELL_TRANSFORM_WOMBLE ||
+					aff->type == SPELL_TRANSFORM_CHIMERA ||
 				    aff->type == SPELL_TRANSFORM_COW) {
 					sprintf(buf, "&WSpell : '%s' Time left:[&R%3d&W]&n\r\n",
 						spell_names[aff->type - 1],
