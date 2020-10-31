@@ -526,7 +526,7 @@ extern struct command_info cmd_info[];
 #define CMD_REPLENISH 483
 #define CMD_BOUNTY    484
 #define CMD_QMSALES   485
-/*#define CMD_FLURRY    486*/
+
 
 /* Virtual commands */
 #define CMD_CLAN_DONATE  1000

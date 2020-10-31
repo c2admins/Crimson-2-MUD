@@ -1284,7 +1284,6 @@ int r7000_func_receptionist(struct char_data * ch, int cmd, char *arg)
 	     (cmd == CMD_BACKSTAB) ||
 	     (cmd == CMD_BASH) ||
 	     (cmd == CMD_KICK) ||
-		 /*(cmd == CMD_FLURRY) ||*/
 	     (cmd == CMD_BREATH))) {
 		bzero(buf, sizeof(buf));
 		arg = one_argument(arg, buf);
@@ -1494,7 +1493,6 @@ int r7200_func_banker(struct char_data * ch, int cmd, char *arg)
 	     (cmd == CMD_BACKSTAB) ||
 	     (cmd == CMD_BASH) ||
 	     (cmd == CMD_KICK) ||
-		 /*(cmd == CMD_FLURRY) ||*/
 	     (cmd == CMD_BREATH))) {
 		bzero(buf, sizeof(buf));
 		arg = one_argument(arg, buf);

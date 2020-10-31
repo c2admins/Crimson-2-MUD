@@ -2317,14 +2317,14 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		}
 		if (type == TYPE_DUALWIELD) {
 			if (ch->equipment[HOLD] && (ch->equipment[HOLD]->obj_flags.type_flag == ITEM_WEAPON || ch->equipment[WIELD]->obj_flags.type_flag == ITEM_QSTWEAPON))
-			//if (number(1,5) == 3){
+			if (number(1,5) == 3){
 				lv_temp_dam += ft2600_check_for_special_weapon_attacks(ch, victim, ch->equipment[HOLD]);
-			//}
+			}
 		} /* Off Hand Bits Proc*/
 		else if (type == TYPE_UNDEFINED && ch->equipment[WIELD] && (ch->equipment[WIELD]->obj_flags.type_flag == ITEM_WEAPON || ch->equipment[WIELD]->obj_flags.type_flag == ITEM_QSTWEAPON)) {
-			//if (number(1, 5) == 3) {
+			if (number(1, 5) == 3) {
 				lv_temp_dam += ft2600_check_for_special_weapon_attacks(ch, victim, ch->equipment[WIELD]);
-			//}
+			}
 		} /* Normal Hand Bits Proc */
 		
 		if (type == SKILL_BACKSTAB)
