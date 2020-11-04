@@ -1215,7 +1215,7 @@ void spell_faerie_fire(sbyte level, struct char_data * ch,
 			af.duration = level;
 			af.modifier = 20;
 			af.location = APPLY_AC;
-			af.bitvector2 = AFF2_FAERIE_FIRE;
+			//af.bitvector2 = AFF2_FAERIE_FIRE;
 			ha1300_affect_to_char(victim, &af);
 
 			af.location = APPLY_BONUS_STR;
@@ -1329,7 +1329,7 @@ void spell_faerie_fog(sbyte level, struct char_data * ch,
 			af.duration = level;
 			af.modifier = 20;
 			af.location = APPLY_AC;
-			af.bitvector2 = AFF2_FAERIE_FOG;
+			//af.bitvector2 = AFF2_FAERIE_FOG;
 			ha1300_affect_to_char(victim, &af);
 
 			af.location = APPLY_BONUS_STR;
@@ -1378,7 +1378,7 @@ void spell_detect_shadows(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector2 = AFF2_DETECT_SHADOWS;
+			  //af.bitvector2 = AFF2_DETECT_SHADOWS;
 
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1412,9 +1412,9 @@ void spell_barkskin(sbyte level, struct char_data * ch,
 			af.duration = (level <= IMO_LEV) ? 2 + level / 8 : level;
 			af.modifier = 0;
 			af.location = APPLY_NONE;
-			af.bitvector2 = AFF2_BARKSKIN;
+			//af.bitvector2 = AFF2_BARKSKIN;
 
-			ha1300_affect_to_char2(victim, &af);
+			ha1300_affect_to_char(victim, &af);
 
 		}		/* END OF spell_barkskin() */
 
@@ -1444,8 +1444,8 @@ void spell_stoneskin(sbyte level, struct char_data * ch,
 			af.duration = (level <= IMO_LEV) ? 2 + level / 10 : level;
 			af.modifier = 0;
 			af.location = APPLY_NONE;
-			af.bitvector2 = AFF2_STONESKIN;
-			ha1300_affect_to_char2(victim, &af);
+			//af.bitvector2 = AFF2_STONESKIN;
+			ha1300_affect_to_char(victim, &af);
 
 		}		/* END OF spell_stoneskin() */
 
@@ -1508,8 +1508,7 @@ void spell_detect_demons(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector2 = AFF2_DETECT_DEMONS;
-
+			  //af.bitvector2 = AFF2_DETECT_DEMONS;
 			  ha1300_affect_to_char(victim, &af);
 
 			  send_to_char("Your eyes tingle.\n\r", victim);
@@ -1533,8 +1532,7 @@ void spell_detect_dragons(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector2 = AFF2_DETECT_DRAGONS;
-
+			  //af.bitvector2 = AFF2_DETECT_DRAGONS;
 			  ha1300_affect_to_char(victim, &af);
 
 			  send_to_char("Your eyes tingle.\n\r", victim);
@@ -1558,7 +1556,7 @@ void spell_detect_undead(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector2 = AFF2_DETECT_UNDEAD;
+			  //af.bitvector2 = AFF2_DETECT_UNDEAD;
 
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1666,7 +1664,7 @@ void spell_detect_vampires(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector2 = AFF2_DETECT_VAMPIRES;
+			  //af.bitvector2 = AFF2_DETECT_VAMPIRES;
 
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1691,7 +1689,7 @@ void spell_detect_giants(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector2 = AFF2_DETECT_GIANTS;
+			  //af.bitvector2 = AFF2_DETECT_GIANTS;
 
 			  ha1300_affect_to_char(victim, &af);
 
@@ -3680,7 +3678,7 @@ void spell_sleep_immunity(sbyte level, struct char_data * ch,
 				af.duration = 3 * level;
 				af.modifier = 0;
 				af.location = APPLY_NONE;
-				af.bitvector2 = AFF2_SLEEP_IMMUNITY;
+				//af.bitvector2 = AFF2_SLEEP_IMMUNITY;
 				ha1300_affect_to_char(victim, &af);
 			}
 		}

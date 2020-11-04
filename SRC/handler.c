@@ -606,12 +606,12 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 	case APPLY_NONE:
 		break;
 
-	case AFF2_SANCTUARY_MEDIUM:
+	case APPLY_SANCTUARY_MEDIUM:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_SANCTUARY_MEDIUM)) {
 				af.type = SPELL_SANCTUARY_MEDIUM;
-				af.bitvector2 = AFF2_SANCTUARY_MEDIUM;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_SANCTUARY_MEDIUM;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_SANCTUARY_MEDIUM))
@@ -619,12 +619,12 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 
 		break;
 
-	case AFF2_SANCTUARY_MINOR:
+	case APPLY_SANCTUARY_MINOR:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_SANCTUARY_MINOR)) {
 				af.type = SPELL_SANCTUARY_MINOR;
-				af.bitvector2 = AFF2_SANCTUARY_MINOR;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_SANCTUARY_MINOR;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_SANCTUARY_MINOR))
@@ -636,20 +636,20 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_SLEEP_IMMUNITY)) {
 				af.type = SPELL_SLEEP_IMMUNITY;
-				af.bitvector2 = AFF2_SLEEP_IMMUNITY;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_SLEEP_IMMUNITY;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_SLEEP_IMMUNITY))
 			ha1350_affect_from_char(ch, SPELL_SLEEP_IMMUNITY);
 		break;
 
-	case AFF2_BARKSKIN:
+	case APPLY_BARKSKIN:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_BARKSKIN)) {
 				af.type = SPELL_BARKSKIN;
-				af.bitvector2 = AFF2_BARKSKIN;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_BARKSKIN;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_BARKSKIN))
@@ -657,12 +657,12 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 
 		break;
 
-	case AFF2_STONESKIN:
+	case APPLY_STONESKIN:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_STONESKIN)) {
 				af.type = SPELL_STONESKIN;
-				af.bitvector2 = AFF2_STONESKIN;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_STONESKIN;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_STONESKIN))
@@ -674,20 +674,20 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_UNDEAD)) {
 				af.type = SPELL_DETECT_UNDEAD;
-				af.bitvector2 = AFF2_DETECT_UNDEAD;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_DETECT_UNDEAD;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_UNDEAD))
 			ha1350_affect_from_char(ch, SPELL_DETECT_UNDEAD);
 		break;
 
-	case AFF2_FAERIE_FIRE:
+	case APPLY_FAERIE_FIRE:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_FAERIE_FIRE)) {
 				af.type = SPELL_FAERIE_FIRE;
-				af.bitvector2 = AFF2_FAERIE_FIRE;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_FAERIE_FIRE;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_FAERIE_FIRE))
@@ -695,12 +695,12 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 
 		break;
 
-	case AFF2_FAERIE_FOG:
+	case APPLY_FAERIE_FOG:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_FAERIE_FOG)) {
 				af.type = SPELL_FAERIE_FOG;
-				af.bitvector2 = AFF2_FAERIE_FOG;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_FAERIE_FOG;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_FAERIE_FOG))
@@ -708,72 +708,72 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 
 		break;
 		
-		case APPLY_DETECT_ANIMALS:
+	case APPLY_DETECT_ANIMALS:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_ANIMALS)) {
 				af.type = SPELL_DETECT_ANIMALS;
-				af.bitvector2 = AFF2_DETECT_ANIMALS;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_DETECT_ANIMALS;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_ANIMALS))
 			ha1350_affect_from_char(ch, SPELL_DETECT_ANIMALS);
 		break;
 		
-		case APPLY_DETECT_DRAGONS:
+	case APPLY_DETECT_DRAGONS:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_DRAGONS)) {
 				af.type = SPELL_DETECT_DRAGONS;
-				af.bitvector2 = AFF2_DETECT_DRAGONS;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_DETECT_DRAGONS;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_DRAGONS))
 			ha1350_affect_from_char(ch, SPELL_DETECT_DRAGONS);
 		break;
 		
-		case APPLY_DETECT_DEMONS:
+	case APPLY_DETECT_DEMONS:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_DEMONS)) {
 				af.type = SPELL_DETECT_DEMONS;
-				af.bitvector2 = AFF2_DETECT_DEMONS;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_DETECT_DEMONS;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_DEMONS))
 			ha1350_affect_from_char(ch, SPELL_DETECT_DEMONS);
 		break;
 		
-		case APPLY_DETECT_GIANTS:
+	case APPLY_DETECT_GIANTS:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_GIANTS)) {
 				af.type = SPELL_DETECT_GIANTS;
-				af.bitvector2 = AFF2_DETECT_GIANTS;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_DETECT_GIANTS;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_GIANTS))
 			ha1350_affect_from_char(ch, SPELL_DETECT_GIANTS);
 		break;
 		
-		case APPLY_DETECT_SHADOWS:
+	case APPLY_DETECT_SHADOWS:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_SHADOWS)) {
 				af.type = SPELL_DETECT_SHADOWS;
-				af.bitvector2 = AFF2_DETECT_SHADOWS;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_DETECT_SHADOWS;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_SHADOWS))
 			ha1350_affect_from_char(ch, SPELL_DETECT_SHADOWS);
 		break;
 		
-		case APPLY_DETECT_VAMPIRES:
+	case APPLY_DETECT_VAMPIRES:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_DETECT_VAMPIRES)) {
 				af.type = SPELL_DETECT_VAMPIRES;
-				af.bitvector2 = AFF2_DETECT_VAMPIRES;
-				ha1300_affect_to_char2(ch, &af);
+				//af.bitvector2 = AFF2_DETECT_VAMPIRES;
+				ha1300_affect_to_char(ch, &af);
 			}
 		}
 		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_VAMPIRES))
@@ -781,7 +781,7 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 		break;
 		
 	default:
-		sprintf(buf, "unknown apply (handler.c) %d", loc);
+		sprintf(buf, "unknown apply2 (handler.c) %d", loc);
 		main_log(buf);
 		break;
 	}			/* switch */
@@ -801,9 +801,7 @@ void ha1225_affect_total(struct char_data * ch)
 	for (i = 0; i < MAX_WEAR; i++) {
 		if (ch->equipment[i])
 			for (j = 0; j < MAX_OBJ_AFFECT; j++)
-				ha1200_affect_modify(ch, ch->equipment[i]->affected[j].location,
-				       ch->equipment[i]->affected[j].modifier,
-				ch->equipment[i]->obj_flags.bitvector, FALSE);
+				ha1200_affect_modify(ch, ch->equipment[i]->affected[j].location, ch->equipment[i]->affected[j].modifier, ch->equipment[i]->obj_flags.bitvector, FALSE);
 	}
 	for (af = ch->affected; af; af = af->next)
 		ha1200_affect_modify(ch, af->location, af->modifier, af->bitvector, FALSE);
@@ -812,9 +810,7 @@ void ha1225_affect_total(struct char_data * ch)
 	for (i = 0; i < MAX_WEAR; i++) {
 		if (ch->equipment[i])
 			for (j = 0; j < MAX_OBJ_AFFECT; j++)
-				ha1200_affect_modify(ch, ch->equipment[i]->affected[j].location,
-				       ch->equipment[i]->affected[j].modifier,
-				 ch->equipment[i]->obj_flags.bitvector, TRUE);
+				ha1200_affect_modify(ch, ch->equipment[i]->affected[j].location, ch->equipment[i]->affected[j].modifier, ch->equipment[i]->obj_flags.bitvector, TRUE);
 	}
 	for (af = ch->affected; af; af = af->next)
 		ha1200_affect_modify(ch, af->location, af->modifier, af->bitvector, TRUE);
@@ -846,10 +842,7 @@ void one_ha1225_affect_total(struct char_data * ch, sbyte location)
 		if (ch->equipment[i])
 			for (j = 0; j < MAX_OBJ_AFFECT; j++)
 				if (ch->equipment[i]->affected[j].location == location)
-					ha1200_affect_modify(ch,
-					ch->equipment[i]->affected[j].location,
-					ch->equipment[i]->affected[j].modifier,
-							     ch->equipment[i]->obj_flags.bitvector, TRUE);
+					ha1200_affect_modify(ch, ch->equipment[i]->affected[j].location, ch->equipment[i]->affected[j].modifier, ch->equipment[i]->obj_flags.bitvector, TRUE);
 	}
 	for (af = ch->affected; af; af = af->next)
 		if (af->location == location)
@@ -921,8 +914,7 @@ void smart_ha1225_affect_total(struct char_data * ch, sbyte location)
 
 	/*
 	 bzero(buf, sizeof(buf));
-	 sprintf(buf, "ERROR: in smart_ha1225_affect_total with unknown handler: %d",
-					 location);
+	 sprintf(buf, "ERROR: in smart_ha1225_affect_total with unknown handler: %d", location);
 	 main_log(buf);
 	 */
 	return;
@@ -943,8 +935,7 @@ void ha1300_affect_to_char(struct char_data * ch, struct affected_type * af)
 	affected_alloc->next = ch->affected;
 	ch->affected = affected_alloc;
 
-	ha1200_affect_modify(ch, af->location, af->modifier,
-			     af->bitvector, TRUE);
+	ha1200_affect_modify(ch, af->location, af->modifier, af->bitvector, TRUE);
 	smart_ha1225_affect_total(ch, af->location);
 }
 
@@ -975,8 +966,7 @@ void ha1325_affect_remove(struct char_data * ch, struct affected_type * af, int 
 
 
 	assert(ch->affected);
-	ha1200_affect_modify(ch, af->location, af->modifier,
-			     af->bitvector, FALSE);
+	ha1200_affect_modify(ch, af->location, af->modifier, af->bitvector, FALSE);
 
 	/* remove structure *af from linked list */
 	if (ch->affected == af) {
@@ -1593,9 +1583,7 @@ void ha1925_equip_char(struct char_data * ch, struct obj_data * obj, int pos, in
 		GET_AC(ch) -= ha1900_apply_ac(ch, pos);
 
 	for (j = 0; j < MAX_OBJ_AFFECT; j++) {
-		ha1200_affect_modify(ch, obj->affected[j].location,
-				     obj->affected[j].modifier,
-				     obj->obj_flags.bitvector, TRUE);
+		ha1200_affect_modify(ch, obj->affected[j].location, obj->affected[j].modifier, obj->obj_flags.bitvector, TRUE);
 		if (obj->affected[j].location != APPLY_NONE)
 			smart_ha1225_affect_total(ch, obj->affected[j].location);
 	}
@@ -1623,9 +1611,7 @@ struct obj_data *ha1930_unequip_char(struct char_data * ch, int pos)
 	ch->equipment[pos] = 0;
 
 	for (j = 0; j < MAX_OBJ_AFFECT; j++) {
-		ha1200_affect_modify(ch, obj->affected[j].location,
-				     obj->affected[j].modifier,
-				     obj->obj_flags.bitvector, FALSE);
+		ha1200_affect_modify(ch, obj->affected[j].location, obj->affected[j].modifier, obj->obj_flags.bitvector, FALSE);
 		smart_ha1225_affect_total(ch, obj->affected[j].location);
 	}
 

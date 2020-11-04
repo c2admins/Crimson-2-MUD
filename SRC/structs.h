@@ -717,22 +717,25 @@ struct room_data {
 #define AFF_MAGIC_RESIST      BIT29
 #define AFF_MAGIC_IMMUNE      BIT30
 
-/* bitvectors for 'affected_02' */
+/* bitvectors for 'affected_02' These don't work */
 
-#define AFF2_SANCTUARY_MEDIUM  BIT0
-#define AFF2_SANCTUARY_MINOR   BIT1
-#define AFF2_SLEEP_IMMUNITY    BIT2
-#define AFF2_BARKSKIN          BIT3
-#define AFF2_STONESKIN         BIT4
-#define AFF2_DETECT_UNDEAD     BIT5
-#define AFF2_FAERIE_FIRE       BIT6
-#define AFF2_FAERIE_FOG        BIT7
+#define APPLY_SANCTUARY_MEDIUM  BIT0
+#define APPLY_SANCTUARY_MINOR   BIT1
+#define APPLY_SLEEP_IMMUNITY    BIT2
+#define APPLY_BARKSKIN          BIT3
+#define APPLY_STONESKIN         BIT4
+#define APPLY_FAERIE_FIRE       BIT5
+#define APPLY_FAERIE_FOG        BIT6
+
+/*#define AFF2_DETECT_UNDEAD     BIT5
 #define AFF2_DETECT_ANIMALS    BIT8
 #define AFF2_DETECT_DRAGONS    BIT9
 #define AFF2_DETECT_DEMONS     BIT10
 #define AFF2_DETECT_GIANTS     BIT11
 #define AFF2_DETECT_SHADOWS    BIT12
 #define AFF2_DETECT_VAMPIRES   BIT13
+*/
+
 
 /* modifiers to char's abilities */
 

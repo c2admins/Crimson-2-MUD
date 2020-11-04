@@ -2133,9 +2133,9 @@ void in2700_show_char_to_char(struct char_data * i, struct char_data * ch, int m
 
 		if (IS_AFFECTED(i, AFF_SANCTUARY))
 			act("&W..$n &Wglows with a bright white light!&n", FALSE, i, 0, ch, TO_VICT);
-		if (IS_AFFECTED2(i, AFF2_FAERIE_FIRE))
+		if (IS_CASTED_ON(i, SPELL_FAERIE_FIRE))
 			act("&W..$n &Wis outlined in a &Pbright pink&W aura!&n", FALSE, i, 0, ch, TO_VICT);
-		if (IS_AFFECTED2(i, AFF2_FAERIE_FOG))
+		if (IS_CASTED_ON(i, SPELL_FAERIE_FOG))
 			act("&W..$n &Wis outlined in a &pdeep purple&W aura!&n", FALSE, i, 0, ch, TO_VICT);
 
 	}

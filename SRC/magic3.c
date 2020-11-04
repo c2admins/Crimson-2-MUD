@@ -529,7 +529,6 @@ void spell_detect_animals(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
-			  af.bitvector2 = AFF2_DETECT_ANIMALS;
 
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1064,7 +1063,7 @@ void spell_hemmorage(sbyte level, struct char_data * ch,
 	if (magic_fails(ch, victim))
 		return;
 
-	if (IS_AFFECTED2(victim, AFF_HEMMORAGE))
+	if (IS_AFFECTED(victim, AFF_HEMMORAGE))
 		return;
 
 	if (saves_spell(ch, victim, SAVING_PARA)) {

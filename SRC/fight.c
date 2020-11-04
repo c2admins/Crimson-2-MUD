@@ -1413,7 +1413,7 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 			dam = MAXV(0, dam * 0.80);
 	}
 
-	if (IS_AFFECTED2(victim, AFF2_BARKSKIN)) {
+	if (IS_CASTED_ON(victim, SPELL_BARKSKIN)) {
 		if (((attacktype >= TYPE_HIT) && (attacktype <= TYPE_CRUSH)) || IS_PC(victim))
 			dam = MAXV(0, dam * 0.80);
 		else
@@ -1421,7 +1421,7 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 
 	}
 
-	if (IS_AFFECTED2(victim, AFF2_STONESKIN)) {
+	if (IS_CASTED_ON(victim, SPELL_STONESKIN)) {
 		if (((attacktype >= TYPE_HIT) && (attacktype <= TYPE_CRUSH)) ||
 		    IS_PC(victim))
 			dam = MAXV(0, dam * 0.60);	/* 40 % for melee */
@@ -2334,10 +2334,10 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 			if (IS_AFFECTED(victim, AFF_SANCTUARY)) {
 				lv_temp_num = lv_temp_num / 2;
 			}
-			if (IS_AFFECTED(victim, AFF2_BARKSKIN)) {
+			if (IS_CASTED_ON(victim, SPELL_BARKSKIN)) {
 				lv_temp_num = lv_temp_num * 0.8;
 			}
-			if (IS_AFFECTED(victim, AFF2_STONESKIN)) {
+			if (IS_CASTED_ON(victim, SPELL_STONESKIN)) {
 				lv_temp_num = lv_temp_num * 0.6;
 			}
 
