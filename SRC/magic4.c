@@ -727,21 +727,21 @@ void spell_transform_dragon(sbyte level, struct char_data * ch,
 		ha1300_affect_to_char(victim, &af);
 
 		//add 300 HP
-			af.location = APPLY_HIT;
+		af.location = APPLY_HIT;
 		af.modifier = 100;
 		ha1300_affect_to_char(victim, &af);
 		ha1300_affect_to_char(victim, &af);
 		ha1300_affect_to_char(victim, &af);
 
 		//subtract 300 MANA
-			af.location = APPLY_MANA;
+		af.location = APPLY_MANA;
 		af.modifier = 100;
 		ha1300_affect_to_char(victim, &af);
 		ha1300_affect_to_char(victim, &af);
 		ha1300_affect_to_char(victim, &af);
 
 		//add 300 MOVE
-			af.location = APPLY_MOVE;
+		af.location = APPLY_MOVE;
 		af.modifier = 100;
 		ha1300_affect_to_char(victim, &af);
 		ha1300_affect_to_char(victim, &af);
@@ -1378,6 +1378,7 @@ void spell_detect_shadows(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
+			  af.bitvector = 0;
 			  //af.bitvector2 = AFF2_DETECT_SHADOWS;
 
 			  ha1300_affect_to_char(victim, &af);
@@ -1412,6 +1413,7 @@ void spell_barkskin(sbyte level, struct char_data * ch,
 			af.duration = (level <= IMO_LEV) ? 2 + level / 8 : level;
 			af.modifier = 0;
 			af.location = APPLY_NONE;
+			af.bitvector = 0;
 			//af.bitvector2 = AFF2_BARKSKIN;
 
 			ha1300_affect_to_char(victim, &af);
@@ -1444,6 +1446,7 @@ void spell_stoneskin(sbyte level, struct char_data * ch,
 			af.duration = (level <= IMO_LEV) ? 2 + level / 10 : level;
 			af.modifier = 0;
 			af.location = APPLY_NONE;
+			af.bitvector = 0;
 			//af.bitvector2 = AFF2_STONESKIN;
 			ha1300_affect_to_char(victim, &af);
 
@@ -1508,6 +1511,7 @@ void spell_detect_demons(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
+			  af.bitvector = 0;
 			  //af.bitvector2 = AFF2_DETECT_DEMONS;
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1532,6 +1536,7 @@ void spell_detect_dragons(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
+			  af.bitvector = 0;
 			  //af.bitvector2 = AFF2_DETECT_DRAGONS;
 			  ha1300_affect_to_char(victim, &af);
 
@@ -1556,6 +1561,7 @@ void spell_detect_undead(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
+			  af.bitvector = 0;
 			  //af.bitvector2 = AFF2_DETECT_UNDEAD;
 
 			  ha1300_affect_to_char(victim, &af);
@@ -1664,6 +1670,7 @@ void spell_detect_vampires(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
+			  af.bitvector = 0;
 			  //af.bitvector2 = AFF2_DETECT_VAMPIRES;
 
 			  ha1300_affect_to_char(victim, &af);
@@ -1689,6 +1696,7 @@ void spell_detect_giants(sbyte level, struct char_data * ch,
 			  af.duration = level * 5;
 			  af.modifier = 0;
 			  af.location = APPLY_NONE;
+			  af.bitvector = 0;
 			  //af.bitvector2 = AFF2_DETECT_GIANTS;
 
 			  ha1300_affect_to_char(victim, &af);

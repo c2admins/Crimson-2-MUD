@@ -644,7 +644,7 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 			ha1350_affect_from_char(ch, SPELL_SLEEP_IMMUNITY);
 		break;
 
-	case APPLY_BARKSKIN:
+	/*case APPLY_BARKSKIN:
 		if (add) {
 			if (!ha1375_affected_by_spell(ch, SPELL_BARKSKIN)) {
 				af.type = SPELL_BARKSKIN;
@@ -779,7 +779,7 @@ void ha1210_affect2_modify(struct char_data * ch, signed char loc, signed char m
 		else if (ha1375_affected_by_spell(ch, SPELL_DETECT_VAMPIRES))
 			ha1350_affect_from_char(ch, SPELL_DETECT_VAMPIRES);
 		break;
-		
+	*/	
 	default:
 		sprintf(buf, "unknown apply2 (handler.c) %d", loc);
 		main_log(buf);
