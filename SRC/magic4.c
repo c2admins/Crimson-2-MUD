@@ -1732,6 +1732,13 @@ void spell_earthmaw(sbyte level, struct char_data * ch,
 				dam *= 2;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);
 			}
+			if (number(1, 26) == 1 &&
+			      GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT &&
+			      GET_LEVEL(ch) >= IMO_LEV) {
+				//Random critical fire damage for Eldritch Knight, Pythias 12 - 14 - 2020	
+				dam *= 1.5;
+				send_to_char("&R*&yCRITICAL&R*&n ", ch);
+			}
 
 			if (saves_spell(ch, victim, SAVING_SPELL))
 				  dam >>= 1;
@@ -2851,7 +2858,8 @@ void spell_tsunami(sbyte level, struct char_data * ch,
 			if (GET_LEVEL(ch) < IMO_LEV && !IS_AFFECTED(ch, AFF_BREATHWATER)) {
 				send_to_char("You are drowning!\r\n", ch);
 
-				dam = -1 * (GET_HIT(ch) * number(10, 15) / 100);
+				dam = (GET_HIT(ch) * number(10, 15) / 100);
+				GET_HIT(ch) -= dam; 
 			}
 			if (IS_NPC(ch) && !IS_AFFECTED(ch, AFF_BREATHWATER)) {
 				send_to_char("You are drowning!\r\n", ch);
@@ -3160,19 +3168,12 @@ void spell_lifetap(sbyte level, struct char_data * ch, struct char_data * victim
 			if (magic_fails(ch, victim))
 				  return;
 
-			if ((GET_LEVEL(ch) <= 41) && (
-				       (GET_CLASS(ch) != CLASS_NECROMANCER) ||
-				      (GET_CLASS(ch) != CLASS_CHAOSKNIGHT))) {
-				send_to_char("Sorry, only Necromancers and Chaos Knights can use this spell.\r\n", ch);
-				return;
-			}
-
 			if (ch == victim) {
 				send_to_char("That would be pointless...\r\n", ch);
 				return;
 			}
 
-			drainpts = dice(3, GET_LEVEL(ch) / 4) + ((GET_STR(ch) * GET_INT(ch)) / dice(2, 6));
+			drainpts = dice(3, GET_LEVEL(ch) / 4) + ((GET_STR(ch) * GET_INT(ch)) / 2);
 
 			act("&rYour lifetap drains hps from $N.&E", TRUE, ch, 0, victim, TO_CHAR);
 			act("&r$n taps some life out of you!&E", TRUE, ch, 0, victim, TO_VICT);
