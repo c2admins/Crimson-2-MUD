@@ -351,8 +351,13 @@ void spell_dancing_sword(sbyte level, struct char_data * ch, struct char_data * 
 		mob->points.damroll = 15;
 	}
 
-	GET_GOLD(mob) = obj->obj_flags.cost;
-	GET_EXP(mob) = obj->obj_flags.cost / 100;
+	if (obj->obj_flags.cost >= 10000000){
+	GET_GOLD(mob) = 10000000;
+	}
+	else {
+	GET_GOLD(mob) = obj->obj_flags.cost;	
+	}
+	GET_EXP(mob) = obj->obj_flags.cost / 200;
 	GET_SEX(mob) = 0;
 	GET_ALIGNMENT(mob) = GET_ALIGNMENT(ch);
 
