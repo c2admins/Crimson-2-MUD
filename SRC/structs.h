@@ -89,7 +89,7 @@ unsigned long thebits[32];
 
 /* Rush timers */
 
-#define RUSH_INTERVAL	90	/* Rush interval in minutes */
+#define RUSH_INTERVAL	60	/* Rush interval in minutes */
 #define RUSH_INTERVAL2  30	/* max. random value added to interval */
 #define RUSH_TIME	1	/* Rush minimum time */
 #define RUSH_TIME2	10	/* rush maximum time */

@@ -951,10 +951,19 @@ int co1200_game_loop(int mother_descs[])
 
 			if (gv_rush_time < time(0)) {
 				if (gv_rush_hour == 1) {
-					gv_rush_hour = 2;
-					gv_rush_time = time(0) + number(RUSH_TIME, RUSH_TIME2) * 60 - 1;
+					if (dice(1,100) > 60) {
+					gv_rush_hour = 3; // Mega Rush Hour turned on and sets EXP multiplier
+					do_info_noch("Mega Rush hour has started!", 0, 99);
+					main_log("Mega Rush Started");
+					}
+					else {
+					gv_rush_hour = 2; //Normal Rush Hour turned on and sets EXP multiplier
 					do_info_noch("Rush hour has started!", 0, 99);
 					main_log("Rush Started");
+					}
+					gv_rush_time = time(0) + number(RUSH_TIME, RUSH_TIME2) * 60 - 1;
+					//do_info_noch("Rush hour has started!", 0, 99);
+					//main_log("Rush Started");
 					//char buf[MAX_STRING_LENGTH];
 
 					//Enables Questmaster transformation sales
@@ -968,8 +977,7 @@ int co1200_game_loop(int mother_descs[])
 					}	/* end if */
 				}
 				else {
-					gv_rush_hour
-						= 1;
+					gv_rush_hour= 1;
 					gv_rush_time = time(0) + RUSH_INTERVAL * 60 +
 						number(1, RUSH_INTERVAL2) * 60;
 					do_info_noch("Rush hour has ended.", 0, 99);
