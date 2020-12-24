@@ -2639,13 +2639,24 @@ void ot4400_do_rushhour(struct char_data * ch, char *argument, int cmd)
 		lv_time = atoi(buf);
 
 	if (gv_rush_hour == 1) {
+		if (dice(1,100) => 60){
+		gv_rush_hour = 3;
+		gv_rush_time = time(0) + lv_time * 60 - 1;
+		sprintf(buf, "Mega Rush has started, Time left: %ld min!", lv_time);
+		do_info_noch(buf, 0, 99);
+		sprintf(buf, "RUSH: %s made a %ld minute rush.", GET_REAL_NAME(ch), lv_time);
+		spec_log(buf, GOD_COMMAND_LOG);
+		main_log(buf);
+		}
+		else {
 		gv_rush_hour = 2;
 		gv_rush_time = time(0) + lv_time * 60 - 1;
 		sprintf(buf, "Rush has started, Time left: %ld min!", lv_time);
 		do_info_noch(buf, 0, 99);
 		sprintf(buf, "RUSH: %s made a %ld minute rush.", GET_REAL_NAME(ch), lv_time);
 		spec_log(buf, GOD_COMMAND_LOG);
-		main_log(buf);
+		main_log(buf);	
+		}
 	}
 	else {
 		gv_rush_hour = 1;
