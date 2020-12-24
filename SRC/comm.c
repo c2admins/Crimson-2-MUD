@@ -951,7 +951,7 @@ int co1200_game_loop(int mother_descs[])
 
 			if (gv_rush_time < time(0)) {
 				if (gv_rush_hour == 1) {
-					if (dice(1,100) > 60) {
+					if (dice(1,100) >= 60) {
 					gv_rush_hour = 3; // Mega Rush Hour turned on and sets EXP multiplier
 					do_info_noch("Mega Rush hour has started!", 0, 99);
 					main_log("Mega Rush Started");

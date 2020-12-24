@@ -2639,7 +2639,7 @@ void ot4400_do_rushhour(struct char_data * ch, char *argument, int cmd)
 		lv_time = atoi(buf);
 
 	if (gv_rush_hour == 1) {
-		if (dice(1,100) => 60){
+		if (dice(1,100) >= 60){
 		gv_rush_hour = 3;
 		gv_rush_time = time(0) + lv_time * 60 - 1;
 		sprintf(buf, "Mega Rush has started, Time left: %ld min!", lv_time);
