@@ -2149,7 +2149,7 @@ void nanny(struct descriptor_data * d, char *arg)
 		}
 
 		in1000_do_show_races(d->character, "", CMD_RACES);
-		SEND_TO_Q("Aligned chars must maintain their alignment or else!  Select race (help): ", d);
+		SEND_TO_Q("Check out class restrictions on https://crimson2.com/player-help \r\n\r\nSelect race (help): ", d);
 		STATE(d) = CON_GET_RACE;
 		break;
 

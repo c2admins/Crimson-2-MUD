@@ -159,8 +159,8 @@ Make your choice: "
 
 #define WELC_MESSG \
 "\n\rWelcome to the land of CrimsonMUD II. May your visit here be...Interesting.\n\r"\
-"&RPlease give us a vote on MUDConnect:&n\n\r"\
-"https:\/\/www.mudconnect.com/cgi-bin/search.cgi?mode=mud_listing&&mud=Crimson+2+MUD\n\r\n\r"
+"&RCheckout the in-game news frequently and check our website for scheduled events!&n\r\n"\
+"https:\/\/crimson2.com\r\n\r\n"
 
 
 /* structure for the reset commands */

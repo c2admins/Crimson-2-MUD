@@ -1376,23 +1376,23 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 		lv_ac = GET_AC(victim) + li9750_ac_bonus(GET_DEX(victim) + GET_BONUS_DEX(victim)) +
 			races[GET_RACE(victim)].adj_ac;
 		if (lv_ac <= -600)
-			lv_ac = -50; //50% of normal
+			lv_ac = -50; //84% of normal
 		else if (lv_ac <= -500)
-			lv_ac = -48; //52% of normal
+			lv_ac = -48; //86% of normal
 		else if (lv_ac <= -400)
-			lv_ac = -46; //54% of normal
+			lv_ac = -46; //88% of normal
 		else if (lv_ac <= -300)
-			lv_ac = -30; //70% of normal
+			lv_ac = -44; //90% of normal
 		else if (lv_ac <= -200)
-			lv_ac = -20; //80% of normal
+			lv_ac = -42; //92% of normal
 		else if (lv_ac <= -100)
-			lv_ac = -15; //85% of normal
+			lv_ac = -40; //94% of normal
 		else if (lv_ac <= 0)
-			lv_ac = -10; //90% of normal
+			lv_ac = -38; //96% of normal
 		else if (lv_ac > 0)
-			lv_ac = 400; //100% or normal
+			lv_ac = 34; //100% or normal This is not truly 100% of damage but it is new 100% due to previous changes to zones to pump mobs. 
 		lv_sub_damage = lv_ac >= 0 ?
-			((125 * lv_ac + 950000) / 10000) :
+			(100 - (lv_ac)) :
 			100 + (lv_ac);
 		dam = (lv_sub_damage * dam) / 100;
 	}
