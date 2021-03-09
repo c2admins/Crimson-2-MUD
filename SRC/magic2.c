@@ -448,7 +448,7 @@ void spell_sense_life(sbyte level, struct char_data * ch,
 void spell_identify(sbyte level, struct char_data * ch,
 		      struct char_data * victim, struct obj_data * obj){
 	char buf[256], buf2[256];
-	int i;
+	int i, avgdice;
 	bool found;
 
 
@@ -573,9 +573,8 @@ void spell_identify(sbyte level, struct char_data * ch,
 			sprintbit(obj->obj_flags.value[0], weapon_bits, buf);
 			strcat(buf, "\n\r");
 			send_to_char(buf, ch);
-			sprintf(buf, "Damage Dice is '%dD%d'\n\r",
-				obj->obj_flags.value[1],
-				obj->obj_flags.value[2]);
+			avgdice = ((obj->obj_flags.value[2] + 1) / 2) * obj->obj_flags.value[1];
+			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d \n\r", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
 			send_to_char(buf, ch);
 			break;
 
@@ -596,10 +595,8 @@ void spell_identify(sbyte level, struct char_data * ch,
 			sprintbit(obj->obj_flags.value[0], weapon_bits, buf);
 			strcat(buf, "\n\r");
 			send_to_char(buf, ch);
-			sprintf(buf, "Damage Dice is '%dD%d'\n\rTime left: %d\n\r",
-				obj->obj_flags.value[1],
-				obj->obj_flags.value[2],
-				obj->obj_flags.timer);
+			avgdice = ((obj->obj_flags.value[2] + 1) / 2) * obj->obj_flags.value[1];
+			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d \n\rTime left: %d\n\r", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice, obj->obj_flags.timer);
 			send_to_char(buf, ch);
 			break;
 		}

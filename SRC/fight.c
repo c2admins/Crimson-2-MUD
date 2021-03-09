@@ -2173,6 +2173,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		if (IS_PC(ch)){
 			num_attacks += ch->points.extra_hits;
 		}
+		
 		/* Testing Flurry Attack as a proc*/
 		if (number(0, 101) < MINV(33, (ch->skills[SKILL_FLURRY].learned / 3))) 
 		{
@@ -2192,10 +2193,23 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		    !number(0, 3)) {
 			spell_poison(GET_LEVEL(ch), ch, victim, 0);
 		}
+        
+		/* New Dodge */
+		if (victim->skills[SKILL_DODGE].learned > 1 && (number(0,101) < MINV(33, (victim->skills[SKILL_DODGE].learned / 3)))){
+	    	if (num_attacks > 1 ){
+			num_attacks >>= 1;  //Dodges half of the attacks if more than one
+			}
+			else {
+			num_attacks -= 1;	//Dodges one attack if not more than one attack
+			}
+			if (IS_PC(victim)){
+			send_to_char("&WYou deftly dodged some of your opponents attacks!&n\r\n", victim); //Display dodge text to player.
+			}
+		}
 
 		if ((type == TYPE_DUALWIELD) && (num_attacks > 1))
 			num_attacks >>= 1;
-
+		
 		for (i = 0; i < num_attacks; i++) {
 			lv_temp_dam = 0;
 
