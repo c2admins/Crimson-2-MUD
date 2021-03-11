@@ -2174,7 +2174,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 			num_attacks += ch->points.extra_hits;
 		}
 		
-		/* Testing Flurry Attack as a proc*/
+		/* Flurry Attack*/
 		if (number(0, 101) < MINV(33, (ch->skills[SKILL_FLURRY].learned / 3))) 
 		{
 			li9900_gain_proficiency(ch, SKILL_FLURRY);
@@ -2182,7 +2182,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 			if IS_PC(ch)
 				send_to_char("&WYou bombard your opponent with a flurry of attacks!&n\r\n", ch);
 		}
-		/* end of Testing Flurry Attack as a proc */
+		/* end of Flurry Attack*/
 		
 		/* GIVE DARKLINGS A POISON ATTACK IF USING CLAW */
 		if ((GET_RACE(ch) == RACE_DARKLING ||
@@ -2195,7 +2195,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		}
         
 		/* New Dodge */
-		if (victim->skills[SKILL_DODGE].learned > 1 && (number(0,101) < MINV(33, (victim->skills[SKILL_DODGE].learned / 3)))){
+		if (victim->skills[SKILL_DODGE].learned > 1 && (number(0,101) < MINV(25, (victim->skills[SKILL_DODGE].learned / 4)))){
 	    	if (num_attacks > 1 ){
 			num_attacks >>= 1;  //Dodges half of the attacks if more than one
 			}
