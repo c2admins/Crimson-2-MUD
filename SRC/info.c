@@ -3837,23 +3837,23 @@ void in5100_do_consider(struct char_data * ch, char *arg, int cmd)
 	else if (diff == 0)
 		sprintf(buf, "The perfect match!");
 	else if (diff <= 1)
-		sprintf(buf, "You would need some luck!");
+		sprintf(buf, "Slighty more skilled than you.");
 	else if (diff <= 2)
-		sprintf(buf, "You would need a lot of luck!");
+		sprintf(buf, "A bit more skilled than you.");
 	else if (diff <= 3)
-		sprintf(buf, "You would need a lot of luck and great equipment!");
+		sprintf(buf, "Much more skilled than you!");
 	else if (diff <= 5)
-		sprintf(buf, "Do you feel lucky, punk?");
+		sprintf(buf, "Do you feel lucky, punk? ");
 	else if (diff <= 10)
-		sprintf(buf, "Bring some friends!?");
+		sprintf(buf, "You should Bring some friends!");
 	else if (diff <= 15)
 		sprintf(buf, "Bring *LOTS* of friends!?");
 	else if (diff <= 20)
-		sprintf(buf, "Are you mad!?");
+		sprintf(buf, "You should not mess with them ");
 	else if (diff <= 35)
-		sprintf(buf, "You ARE mad!");
+		sprintf(buf, "They are practically a god compared to you");
 	else
-		sprintf(buf, "There are some guys with straight jackets rushing over here!");
+		sprintf(buf, "Some guys with straight jackets rushing over here!");
 
 	send_to_char("Level          :     ", ch);
 	sprintf(buf2, "%6d  %s\r\n", GET_LEVEL(ch), buf);
@@ -3861,8 +3861,8 @@ void in5100_do_consider(struct char_data * ch, char *arg, int cmd)
 
 	/*
 	 0%-5%  A good match
-	 6%-15% About the same
-	 16-49% less than you
+	 6%-20% About the same
+	 21-49% less than you
 	 50%+   Far less than you
 	 */
 	/* HIT POINTS */
@@ -3870,37 +3870,35 @@ void in5100_do_consider(struct char_data * ch, char *arg, int cmd)
 		if (GET_HIT_LIMIT(victim) == 0)
 			diff = GET_HIT_LIMIT(ch);
 		else
-			diff = (GET_HIT_LIMIT(ch) / GET_HIT_LIMIT(victim));
+			diff = (GET_HIT_LIMIT(ch) / GET_HIT_LIMIT(victim)) * 100;
 		if (diff < 6)
 			sprintf(buf, "A good match.");
-		else if (diff < 16)
-			sprintf(buf, "About the same.");
+		else if (diff < 21)
+			sprintf(buf, "Slightly less than you.");
 		else if (diff < 50)
-			sprintf(buf, "Less than you.");
+			sprintf(buf, "A good bit less than you.");
 		else
-			sprintf(buf, "Far less than you.");
+			sprintf(buf, "Way less than you.");
 	}
 	else {
 		if (GET_HIT_LIMIT(ch) == 0)
 			diff = GET_HIT_LIMIT(victim);
 		else
-			diff = (GET_HIT_LIMIT(victim) / GET_HIT_LIMIT(ch));
+			diff = (GET_HIT_LIMIT(victim) / GET_HIT_LIMIT(ch)) * 100;
 		if (diff < 6)
 			sprintf(buf, "A good match.");
-		else if (diff < 16)
-			sprintf(buf, "About the same.");
+		else if (diff < 21)
+			sprintf(buf, "Slightly more than you.");
 		else if (diff < 50)
-			sprintf(buf, "Higher than you.");
+			sprintf(buf, "A good bit higher than you.");
 		else
-			sprintf(buf, "Far higher than you.");
+			sprintf(buf, "Way higher than you.");
 	}
 	send_to_char("Hits           :     ", ch);
 	sprintf(buf2, "%6d  %s\r\n", GET_HIT_LIMIT(ch), buf);
 	send_to_char(buf2, ch);
 	if (GET_LEVEL(ch) == IMO_IMP) {
-		sprintf(buf, "     percent: %5d  %5d\r\n",
-			diff,
-			GET_HIT_LIMIT(victim));
+		sprintf(buf, "percent        :      %5d  %5d\r\n", diff, GET_HIT_LIMIT(victim));
 		send_to_char(buf, ch);
 	}
 
@@ -3909,35 +3907,35 @@ void in5100_do_consider(struct char_data * ch, char *arg, int cmd)
 		if (GET_MANA_LIMIT(victim) == 0)
 			diff = GET_MANA_LIMIT(ch);
 		else
-			diff = (GET_MANA_LIMIT(ch) / GET_MANA_LIMIT(victim));
+			diff = (GET_MANA_LIMIT(ch) / GET_MANA_LIMIT(victim)) * 100;
 		if (diff < 6)
 			sprintf(buf, "A good match.");
-		else if (diff < 16)
-			sprintf(buf, "About the same.");
+		else if (diff < 21)
+			sprintf(buf, "Slightly less than you.");
 		else if (diff < 50)
-			sprintf(buf, "Less than you.");
+			sprintf(buf, "A good bit less than you.");
 		else
-			sprintf(buf, "Far less than you.");
+			sprintf(buf, "Way less than you.");
 	}
 	else {
 		if (GET_MANA_LIMIT(ch) == 0)
 			diff = GET_MANA_LIMIT(victim);
 		else
-			diff = (GET_MANA_LIMIT(victim) / GET_MANA_LIMIT(ch));
+			diff = (GET_MANA_LIMIT(victim) / GET_MANA_LIMIT(ch)) * 100;
 		if (diff < 6)
 			sprintf(buf, "A good match.");
-		else if (diff < 16)
-			sprintf(buf, "About the same.");
+		else if (diff < 21)
+			sprintf(buf, "Slightly higher than you.");
 		else if (diff < 50)
-			sprintf(buf, "Higher than you.");
+			sprintf(buf, "A good bit higher than you.");
 		else
-			sprintf(buf, "Far higher than you.");
+			sprintf(buf, "Way higher than you.");
 	}
 	send_to_char("Magic          :     ", ch);
 	sprintf(buf2, "%6d  %s\r\n", GET_MANA_LIMIT(ch), buf);
 	send_to_char(buf2, ch);
 	if (GET_LEVEL(ch) == IMO_IMP) {
-		sprintf(buf, "     percent: %5d  %5d\r\n",
+		sprintf(buf, "percent        :      %5d  %5d\r\n",
 			diff,
 			GET_MANA_LIMIT(victim));
 		send_to_char(buf, ch);
@@ -3975,8 +3973,7 @@ void in5100_do_consider(struct char_data * ch, char *arg, int cmd)
 		if (IS_PC(victim))
 			dam = number(0, 2);
 		else
-			dam = dice(victim->specials.damnodice,
-				   victim->specials.damsizedice);
+			dam = (victim->specials.damsizedice / 2 + .5) * victim->specials.damnodice;
 	}
 	lv_vict_dmg = dam +
 		GET_DAMROLL(victim) +
@@ -3986,35 +3983,35 @@ void in5100_do_consider(struct char_data * ch, char *arg, int cmd)
 		if (lv_vict_dmg == 0)
 			diff = lv_ch_dmg;
 		else
-			diff = (lv_ch_dmg / lv_vict_dmg);
+			diff = (lv_ch_dmg / lv_vict_dmg) * 100;
 		if (diff < 6)
 			sprintf(buf, "A good match.");
 		else if (diff < 16)
-			sprintf(buf, "About the same.");
+			sprintf(buf, "Slightly less than you.");
 		else if (diff < 50)
-			sprintf(buf, "Less than you.");
+			sprintf(buf, "A good bit less than you.");
 		else
-			sprintf(buf, "Far less than you.");
+			sprintf(buf, "Way less than you.");
 	}
 	else {
 		if (lv_ch_dmg == 0)
 			diff = lv_vict_dmg;
 		else
-			diff = (lv_vict_dmg / lv_ch_dmg);
+			diff = (lv_vict_dmg / lv_ch_dmg) * 100;
 		if (diff < 6)
 			sprintf(buf, "A good match.");
 		else if (diff < 16)
-			sprintf(buf, "About the same.");
+			sprintf(buf, "Slightly higher than you.");
 		else if (diff < 50)
-			sprintf(buf, "Higher than you.");
+			sprintf(buf, "A good bit higher than you.");
 		else
-			sprintf(buf, "Far higher than you.");
+			sprintf(buf, "Way higher than you.");
 	}
 	send_to_char("Damage         :     ", ch);
 	sprintf(buf2, "%6d  %s\r\n", lv_ch_dmg, buf);
 	send_to_char(buf2, ch);
 	if (GET_LEVEL(ch) == IMO_IMP) {
-		sprintf(buf, "     percent: %5d  %5d\r\n",
+		sprintf(buf, "percent        :      %5d  %5d\r\n",
 			diff,
 			lv_vict_dmg);
 		send_to_char(buf, ch);
