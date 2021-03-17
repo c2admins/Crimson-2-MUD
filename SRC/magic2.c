@@ -2276,17 +2276,13 @@ void spell_firelance(sbyte level, struct char_data * ch,
 
 	dam = dice(level, 18) + (4 * level);
 
-	if (number(1, 101) <= 5 &&
-	    GET_CLASS(ch) == CLASS_MAGIC_USER &&
-	    GET_LEVEL(ch) >= 30) {
+	if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_MAGIC_USER && GET_LEVEL(ch) >= 30) {
 		/* Random critical fire damage for mages, Bingo 9 - 19 - 01 */
 		dam *= 2;
 		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);
 	}
 	
-	if (number(1, 101) <= 5 &&
-	    GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT &&
-	    GET_LEVEL(ch) >= 30) {
+	if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT && GET_LEVEL(ch) >= 30) {
 		/* Random critical fire damage for eldritch knight,Pythias 8 - 13 - 2020 */
 				dam *= 1.5;
 		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);
@@ -2325,17 +2321,13 @@ void spell_firestorm(sbyte level, struct char_data * ch,
 
 	dam = dice(level, 20) + 2 * level;
 
-	if (number(1, 101) <= 5 &&
-	    GET_CLASS(ch) == CLASS_MAGIC_USER &&
-	    GET_LEVEL(ch) >= 30) {
+	if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_MAGIC_USER && GET_LEVEL(ch) >= 30) {
 		/* Random critical fire damage for mages, Bingo 9 - 19 - 01 */
 		dam *= 2;
 		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);
 	}
 	
-	if (number(1, 101) <= 5 &&
-	    GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT &&
-	    GET_LEVEL(ch) >= 30) {
+	if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT && GET_LEVEL(ch) >= 30) {
 		/* Random critical fire damage for eldritch knight,Pythias 8 - 13 - 2020 */
 				dam *= 1.5;
 		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);

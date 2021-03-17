@@ -146,7 +146,7 @@ void spell_magic_missile(sbyte level, struct char_data * ch,
 		send_to_char(buf, victim);
 		lv_obj->obj_flags.value[VALUE_CURR_CHARGE]++;
 	}
-	if (GET_CLASS(ch) == CLASS_BARD && GET_LEVEL(ch) >= IMO_LEV) {
+	if (GET_CLASS(ch) == CLASS_BARD && GET_LEVEL(ch) >= 30) {
 		if (CHANCE100(25)) {
 			send_to_char("&P*&pMISS&PILE MAD&pNESS&P*\n\r", ch);
 			DAMAGE(ch, victim, dam, SPELL_MAGIC_MISSILE);
@@ -1183,9 +1183,9 @@ void spell_cure_critic(sbyte level, struct char_data * ch,
 	if (magic_fails(ch, victim))
 		return;
 
-	if (number(0, 101) <= 10 &&
+	if (number(0, 101) <= 12 &&
 	    GET_CLASS(ch) == CLASS_PRIEST &&
-	    GET_LEVEL(ch) >= IMO_LEV) {
+	    GET_LEVEL(ch) >= 30) {
 		/* Improved cure critic for Priests, Bingo 9 - 19 - 01 */
 				healpoints = dice(number(3, 18), number(8, 48)) + number(GET_WIS(ch), GET_INT(ch) * 2);
 		send_to_char("&B*&CC&cHARGE&CD&B*&n ", ch);
@@ -1804,17 +1804,13 @@ void do_spell_heal(sbyte level, struct char_data * ch,
 
 	if (lv_flag == 1) {
 		healpts = GET_LEVEL(ch) == 48 ? number(0, 300) : 100;
-		if (number(0, 101) <= 5 &&
-		    GET_CLASS(ch) == CLASS_CLERIC &&
-		    GET_LEVEL(ch) >= 30) {
+		if (number(0, 101) <= 8 && GET_CLASS(ch) == CLASS_CLERIC && GET_LEVEL(ch) >= 30) {
 			//Chance of double heals for clerics, Bingo 9 - 19 - 01
 			  healpts *= 2;
 			send_to_char
 				("&B*&CC&cHARGE&CD&B*&n ", ch);
 		}
-		if (number(0, 101) <= 5 &&
-		    GET_CLASS(ch) == CLASS_PALADIN &&
-		    GET_LEVEL(ch) >= 30) {
+		if (number(0, 101) <= 8 && GET_CLASS(ch) == CLASS_PALADIN && GET_LEVEL(ch) >= 30) {
 			/* Chance of 1.5 x heals for paladins, Bingo 9 - 19 - 01 */
 					healpts *= 1.25;
 			send_to_char("&B*&CC&cHARGE&CD&B*&n ", ch);
@@ -1824,17 +1820,13 @@ void do_spell_heal(sbyte level, struct char_data * ch,
 	}
 	else if (lv_flag == 2) {
 		healpts = GET_LEVEL(ch) == 48 ? number(100, 500) : 300;
-		if (number(0, 101) <= 5 &&
-		    GET_CLASS(ch) == CLASS_CLERIC &&
-		    GET_LEVEL(ch) >= 30) {
+		if (number(0, 101) <= 8 && GET_CLASS(ch) == CLASS_CLERIC && GET_LEVEL(ch) >= 30) {
 			/* Chance of double heals for clerics, Bingo 9 - 19 - 01 */
 			  healpts *= 2;
 			send_to_char
 				("&B*&CC&cHARGE&CD&B*&n ", ch);
 		}
-		if (number(0, 101) <= 5 &&
-		    GET_CLASS(ch) == CLASS_PALADIN &&
-		    GET_LEVEL(ch) >= 30) {
+		if (number(0, 101) <= 8 && GET_CLASS(ch) == CLASS_PALADIN && GET_LEVEL(ch) >= 30) {
 			/* Chance of 1.5 x heals for paladins, Bingo 9 - 19 - 01 */
 					healpts *= 1.25;
 			send_to_char("&B*&CC&cHARGE&CD&B*&n ", ch);
@@ -1844,9 +1836,7 @@ void do_spell_heal(sbyte level, struct char_data * ch,
 	}
 	else if (lv_flag == 3) {
 		healpts = GET_LEVEL(ch) == 48 ? number(300, 700) : 500;
-		if (number(0, 101) <= 5 &&
-		    GET_CLASS(ch) == CLASS_CLERIC &&
-		    GET_LEVEL(ch) >= 30) {
+		if (number(0, 101) <= 8 && GET_CLASS(ch) == CLASS_CLERIC && GET_LEVEL(ch) >= 30) {
 			//Chance of double heals for clerics, Bingo 9 - 19 - 01
 			  healpts *= 2;
 			send_to_char
@@ -1858,9 +1848,7 @@ void do_spell_heal(sbyte level, struct char_data * ch,
 
 	else {
 		healpts = GET_LEVEL(ch) == 48 ? number(600, 1000) : 700;
-		if (number(0, 101) <= 5 &&
-		    GET_CLASS(ch) == CLASS_CLERIC &&
-		    GET_LEVEL(ch) >= 30) {
+		if (number(0, 101) <= 8 && GET_CLASS(ch) == CLASS_CLERIC && GET_LEVEL(ch) >= 30) {
 			healpts *= 3;
 			//rlum
 				send_to_char("&r*&wC&WHARGE&wD&r*&n ", ch);
