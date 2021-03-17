@@ -1471,9 +1471,9 @@ void spell_thornwrack(sbyte level, struct char_data * ch,
 
 			  dam = dice(level, 10) + (6 * level);
 
-			if (number(1, 26) == 1 &&
+			if (number(1, 101) <= 5 &&
 			      GET_CLASS(ch) == CLASS_DRUID &&
-			      GET_LEVEL(ch) >= IMO_LEV) {
+			      GET_LEVEL(ch) >= 30) {
 				//Random critical damage for druid
 				dam *= 2;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);
@@ -1725,16 +1725,16 @@ void spell_earthmaw(sbyte level, struct char_data * ch,
 
 			  dam = dice(MINV(level >> 1, 20), 8) + level;
 
-			if (number(1, 26) == 1 &&
+			if (number(1, 101) <= 5 &&
 			      GET_CLASS(ch) == CLASS_MAGIC_USER &&
-			      GET_LEVEL(ch) >= IMO_LEV) {
+			      GET_LEVEL(ch) >= 30) {
 				//Random critical fire damage for mages, Bingo 9 - 19 - 01
 				dam *= 2;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);
 			}
-			if (number(1, 26) == 1 &&
+			if (number(1, 101) <= 5 &&
 			      GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT &&
-			      GET_LEVEL(ch) >= IMO_LEV) {
+			      GET_LEVEL(ch) >= 30) {
 				//Random critical fire damage for Eldritch Knight, Pythias 12 - 14 - 2020	
 				dam *= 1.5;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);
@@ -1772,9 +1772,9 @@ void spell_needlestorm(sbyte level, struct char_data * ch,
 			/* CHECK_FOR_CHARM(); CHECK_FOR_PK(); */
 
 			  dam = dice(MINV(level, 30), 14) + 4 * level;
-			  if (number(1, 26) == 1 &&
+			  if (number(1, 101) <= 5 &&
 			      GET_CLASS(ch) == CLASS_DRUID &&
-			      GET_LEVEL(ch) >= IMO_LEV) {
+			      GET_LEVEL(ch) >= 30) {
 				//Random critical damage for druid
 				dam *= 2;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);
@@ -1968,9 +1968,9 @@ void spell_sporecloud(sbyte level, struct char_data * ch,
 
 			  dam = dice(MINV(level, 24), 6) + 2 * level;
 			  
-			  if (number(1, 26) == 1 &&
+			  if (number(1, 101) <= 5 &&
 			      GET_CLASS(ch) == CLASS_DRUID &&
-			      GET_LEVEL(ch) >= IMO_LEV) {
+			      GET_LEVEL(ch) >= 30) {
 				//Random critical damage for druid
 				dam *= 2;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);
@@ -2073,9 +2073,9 @@ void spell_wrath_of_nature(sbyte level, struct char_data * ch,
 
 			  dam = dice(level, 18) + 6 * level;
 			  
-			  if (number(1, 26) == 1 &&
+			  if (number(1, 101) <= 5 &&
 			      GET_CLASS(ch) == CLASS_DRUID &&
-			      GET_LEVEL(ch) >= IMO_LEV) {
+			      GET_LEVEL(ch) >= 30) {
 				//Random critical damage for druid
 				dam *= 2;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);

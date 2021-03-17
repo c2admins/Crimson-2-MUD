@@ -2234,9 +2234,9 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 
 			if (type == SKILL_BACKSTAB) {
 				lv_part1 = lv_temp_dam + (2 * GET_LEVEL(ch));
-				if (number(0, 101) == 1 &&
+				if (number(0, 101) <= 5 &&
 				    GET_CLASS(ch) == CLASS_THIEF &&
-				    GET_LEVEL(ch) >= IMO_LEV) {
+				    GET_LEVEL(ch) >= 30) {
 					//Critical backstab(2 x damage) Bingo 9 - 19 - 01
 						lv_part1 *= 2;
 					send_to_char("&y<&YCRITICAL&y>&n ", ch);
@@ -2358,7 +2358,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 
 			/* Critical attack for warriors ,paladins, &priests,
 			 * Bingo 9 - 19 - 01 */
-			if (number(0, 101) == 1 && IS_PC(ch) && GET_LEVEL(ch) >= IMO_LEV && GET_CLASS(ch) == CLASS_WARRIOR) {
+			if (number(0, 101) <= 5 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_WARRIOR) {
 				if (GET_MOVE(ch) >= 50) {
 					dam *= 2;
 					GET_MOVE(ch) -= 50;
@@ -2366,7 +2366,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				}
 			}
 
-			if (number(0, 101) == 1 && IS_PC(ch) && GET_LEVEL(ch) >= IMO_LEV && GET_CLASS(ch) == CLASS_PALADIN) {
+			if (number(0, 101) <= 5 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_PALADIN) {
 				if (GET_MOVE(ch) >= 25) {
 					dam *= 1.5;
 					GET_MOVE(ch) -= 25;
@@ -2374,7 +2374,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				}
 			}
 
-			if (number(0, 51) == 1 && IS_PC(ch) && GET_LEVEL(ch) >= IMO_LEV && GET_CLASS(ch) == CLASS_PRIEST) {
+			if (number(0, 101) <= 5 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_PRIEST) {
 				if (GET_MOVE(ch) >= 10) {
 					dam *= 1.25;
 					GET_MOVE(ch) -= 10;
@@ -2382,14 +2382,14 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				}
 			}
 
-			if (number(0, 51) == 1 && IS_PC(ch) && GET_LEVEL(ch) >= IMO_LEV && GET_CLASS(ch) == CLASS_BARD) {
+			if (number(0, 101) <= 5 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_BARD) {
 				if (GET_MOVE(ch) >= 20) {
 					dam *= 1.35;
 					GET_MOVE(ch) -= 20;
 					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
 				
-			if (number(0, 101) == 1 && IS_PC(ch) && GET_LEVEL(ch) >= IMO_LEV && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT) {
+			if (number(0, 101) <= 5 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT) {
 				if (GET_MOVE(ch) >= 25) {
 					dam *= 1.35;
 					GET_MOVE(ch) -= 25;
@@ -2397,7 +2397,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				}
 			}
 			
-			if (number(0, 101) == 1 && IS_PC(ch) && GET_LEVEL(ch) >= IMO_LEV && GET_CLASS(ch) == CLASS_MONK) {
+			if (number(0, 101) <= 5 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_MONK) {
 				if (GET_MOVE(ch) >= 50) {
 					dam *= 2;
 					GET_MOVE(ch) -= 50;

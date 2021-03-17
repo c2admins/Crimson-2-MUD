@@ -557,25 +557,25 @@ void ot1850_do_envenom(struct char_data * ch, char *argument, int cmd)
 			return;
 		}
 		if (GET_ITEM_TYPE(obj) != ITEM_WEAPON) {
-			send_to_char("You can only poison weapons.\r\n", ch);
+			send_to_char("You can only envenom weapons.\r\n", ch);
 			return;
 		}
 		/* IF WEAPON HAS ANY EXISTING APPLYs, GET OUT */
-		for (i = 0; i < MAX_OBJ_AFFECT; i++) {
+/*		for (i = 0; i < MAX_OBJ_AFFECT; i++) {
 			if (obj->affected[i].location != APPLY_NONE) {
 				send_to_char("The weapon cannot be poisoned!\r\n", ch);
 				return;
 			}
-		}
-		if (IS_SET(obj->obj_flags.value[0], WEAPON_POISONOUS)) {
+		}*/
+		if (IS_SET(obj->obj_flags.value[0], WEAPON_POISONOUS) || (IS_SET(obj->obj_flags.value[0], WEAPON_ACID_ATTACK))) {
 			send_to_char("You fail to make the item more poisonous.\r\n", ch);
 			return;
 		}
 		if (percent <= (ch->skills[SKILL_ENVENOM_WEAPON].learned +
 				li9650_dex_adjustment(ch, 1))) {
-			SET_BIT(obj->obj_flags.value[0], WEAPON_POISONOUS);
-			act("$p is coated in a sickly green poison.", TRUE, ch, obj, 0, TO_CHAR);
-			act("$n's $p is coated in a sickly green poison.", TRUE, ch, obj, 0, TO_ROOM);
+			SET_BIT(obj->obj_flags.value[0], WEAPON_ACID_ATTACK);
+			act("$p is coated in a sickly green coating.", TRUE, ch, obj, 0, TO_CHAR);
+			act("$n's $p is coated in a sickly green coating.", TRUE, ch, obj, 0, TO_ROOM);
 			li9900_gain_proficiency(ch, SKILL_ENVENOM_WEAPON);
 			return;
 		}
