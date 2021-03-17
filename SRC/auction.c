@@ -230,7 +230,7 @@ void au999_do_auction_identify(struct char_data * ch)
 			sprintbit(obj->obj_flags.value[0], weapon_bits, buf);
 			strcat(buf, "\n\r");
 			send_to_char(buf, ch);
-			avgdice = ((obj->obj_flags.value[2] + 1) / 2) * obj->obj_flags.value[1];
+			avgdice = ((obj->obj_flags.value[2] / 2) + .5) * obj->obj_flags.value[1];
 			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d \n\r", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
 			send_to_char(buf, ch);
 			break;
@@ -252,7 +252,7 @@ void au999_do_auction_identify(struct char_data * ch)
 			sprintbit(obj->obj_flags.value[0], weapon_bits, buf);
 			strcat(buf, "\n\r");
 			send_to_char(buf, ch);
-			avgdice = ((obj->obj_flags.value[2] + 1) / 2) * obj->obj_flags.value[1];
+			avgdice = ((obj->obj_flags.value[2] / 2) + .5) * obj->obj_flags.value[1];
 			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d \n\r", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
 			send_to_char(buf, ch);
 			break;
