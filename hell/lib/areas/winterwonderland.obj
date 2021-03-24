@@ -1,0 +1,317 @@
+#24480
+obj Santa sleigh whip obj christmas~
+5
+&RS&Wa&Rn&Wt&Ra&W'&Rs &wsleigh &ywhip&n~
+&wA whip is coiled up on the ground.&n~
+~
+5 262152 3072 24577
+1637400 25 25 11
+1 1000000 5
+A
+19 4
+A
+18 4
+A
+40 10
+A
+41 10
+#24481
+obj Grinch whip gloam christmas obj~
+5
+&WThe &GG&Rr&Gi&Rn&Gc&Rh&G'&Rs &ywhip &wof &Kgloam&n~
+&wA whip clouded in &Kdarkness&w lays coiled up on the ground.&n~
+~
+5 262664 3072 24577
+8977496 25 25 11
+1 1000000 5
+A
+19 4
+A
+18 4
+A
+40 10
+A
+41 10
+#24482
+obj black leather boots christmas obj~
+5
+&KBlack &wLeather &wBoots&n~
+&wA pair of black leather boots have been left here.&n~
+~
+9 262152 1024 65
+50 0 0 0
+1 1000000 5
+A
+19 3
+A
+18 1
+A
+40 4
+A
+41 4
+#24483
+obj santa suit christmas obj~
+5
+&RS&Wa&Rn&Wt&Ra&W'&Rs &RC&Whristma&Rs &WSuit&n~
+&wA crumpled up red suit lays on the ground.&n~
+~
+9 263176 1024 1033
+115 0 0 0
+1 1000000 5
+A
+19 3
+A
+18 2
+A
+40 4
+A
+41 5
+#24484
+obj reindeer tail christmas obj~
+5
+&yRein&wdeer &yTail&n~
+&WA &yreindeer&W has lost its tail.&n~
+~
+9 262152 0 262145
+150 0 0 0
+1 1000000 5
+A
+40 10
+A
+41 10
+A
+19 5
+A
+18 5
+#24485
+obj grinch Christmas Suit~
+5
+&wThe &GG&Rr&Gi&Rn&Gc&Rh&G'&Rs &RC&Ghristma&Rs &wSuit&n~
+&wThe Grinch has misplaced has left his suit behind here.&n~
+~
+9 262664 1024 1033
+115 0 0 0
+1 1000000 5
+A
+19 3
+A
+18 2
+A
+40 4
+A
+41 5
+#24486
+obj santa red pants christmas obj~
+5
+&RS&Wa&Rn&Wt&Ra&W'&Rs Red &WPants&n~
+&WSanta's pants rest here on the ground.&n~
+~
+9 263176 1024 524321
+75 0 0 0
+1 1000000 5
+A
+40 4
+A
+41 4
+A
+18 2
+A
+32 -1
+#24487
+obj grinch stockings christmas obj~
+5
+&wThe &GG&Rr&Gi&Rn&Gc&Rh&G'&Rs &WS&Rt&Wo&Rc&Wk&Ri&Wn&Rg&Ws&n~
+&wA pair of &Ggreen &wand &Rred&w stripped stockings are crumpled up on the ground.&n~
+~
+9 262664 1024 524321
+75 0 0 0
+1 1000000 5
+A
+40 4
+A
+41 4
+A
+18 2
+A
+32 -1
+#24488
+obj jingle bells christmas obj~
+5
+&YJ&Wingl&Ye &yBells&n~
+&WA string of bells lays on the ground.&n~
+~
+9 262152 0 5
+50 0 0 0
+1 1000000 5
+A
+19 1
+A
+41 5
+A
+40 5
+A
+18 2
+#24489
+obj christmas Workshop Gloves&n~
+5
+&WW&worksho&Wp &YG&ylove&Ys&n~
+&WWorkshop gloves lay here.&n~
+~
+9 262153 0 129
+40 0 0 0
+1 1000000 5
+A
+25 4
+A
+40 5
+A
+41 5
+A
+18 2
+#24490
+obj black leather belt gold buckle obj christmas~
+5
+&wA &KBlack &wLeather &KBelt&w with a &YG&yol&Yd &wbuckle&n~
+&w A large belt has been discard here.&n~
+~
+9 262153 1024 2049
+50 0 0 0
+1 1000000 5
+A
+40 6
+A
+41 4
+A
+19 1
+A
+18 2
+#24491
+obj point hat obj christmas~
+5
+&WA &ypointy &GHat&n~
+&WA pointy hat has been discarded here.&n~
+~
+9 262152 0 17
+40 0 0 0
+1 1000000 5
+A
+40 5
+A
+41 2
+A
+18 2
+A
+36 -1
+#24492
+obj Frosty carrot nose obj christmas~
+5
+&CF&cr&wosty&c'&Cs &yCarrot &WNose&n~
+&WA large carrot has been discarded here.&n~
+~
+9 262152 1024 16385
+50 0 0 0
+1 1000000 5
+A
+19 3
+A
+18 3
+A
+40 5
+A
+41 5
+#24493
+obj rudolph glowing red nose obj christmas~
+5
+&yRudolph's &YGlowing &RRed &wNose&n~
+&yRudolph's &YGlowing &RRed &wNose &Yshines brightly.&n~
+~
+1 262153 1024 65537
+0 0 0 0
+1 1000000 5
+A
+40 4
+A
+41 3
+A
+37 -1
+A
+18 3
+#24494
+obj gold wedding band christmas obj~
+5
+&WA &YG&yol&Yd &WWedding &YB&yan&Yd&n~
+&WA &YG&yol&Yd &WWedding &YB&yan&Yd&w lays here.&n~
+~
+9 262152 1024 3
+30 0 0 0
+1 1000000 5
+A
+40 4
+A
+41 2
+A
+18 2
+A
+12 50
+#24495
+obj gold wedding band christmas obj~
+5
+&WA &YG&yol&Yd &WWedding &YB&yan&Yd&w~
+&WA &YG&yol&Yd &WWedding &YB&yan&Yd&w lays here.&n~
+~
+9 262144 1024 3
+30 0 0 0
+1 1000000 5
+A
+40 4
+A
+41 2
+A
+18 2
+A
+13 50
+#24496
+obj Christmas snowflake bracelet~
+5
+&WA &CSnowFlake &WBracelet&n~
+&CA snowflake shaped bracelet lays here.&n~
+~
+9 262152 0 4097
+50 0 0 0
+1 1000000 5
+A
+19 1
+A
+41 5
+A
+40 5
+A
+18 2
+#24497
+obj christmas sleeves holiday~
+5
+&RH&Go&Rl&Gi&Rd&Ga&Ry &GS&Rl&Ge&Re&Gv&Re&Gs&n~
+&GHoliday Sleeves lay here.&n~
+~
+9 4456705 0 257
+50 0 0 0
+1 1000000 5
+A
+18 2
+A
+19 2
+A
+40 4
+A
+41 4
+#24498
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+$~
+#999999

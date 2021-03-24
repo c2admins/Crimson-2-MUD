@@ -1,0 +1,287 @@
+#1600
+mob lash unstable~
+&RLash&w, the &RUnstable&n~
+&KA small figure lurks in the darkness hoping to break in your face.&n
+~
+&wA very short man sits in a corner.  He's mumbling, and ranting off words you can't understand.  You know that he's talking but not to you, it's the voices inside his head.  He argues and argues to no end, and doesn't get anywhere.  He finally stops and turns to you.&n
+~
+142606682 2392065 136249361 1074790530 -1000 S
+46 -25 -25 1d1+29999 50d20+10
+1750000 1104000
+8 8 1
+0 0 25 18 15 25 14 14
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_SECOND 75
+SKILL=SKILL_THIRD 1
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+#1601
+mob coldmachine~
+&wThe &CC&bol&Cd&Kmachine&n~
+&wA large &ybeast&w nicknamed "The &CC&bol&Cd&Kmachine&w" snarls inside it's cage.&n
+~
+&KYou have entered into what has become a nightmare straight from &Rhell&K.  This beast appears to have escaped from one of the many gates it has surrounding it.  Its large mass consumes what you thought to be your great skill.  It's claws larger than any sword you could possibly wield, it's body bigger than any monster you have ever encountered.  It stands towering over you, fangs dripping fresh blood and flesh from some unlucky bastard who decided to try to slay the beast.  You're the next in line.&n
+~
+159383642 294913 136249361 1075855488 -1000 S
+50 -25 -40 1d1+59999 100d40+55
+4500000 2500000
+8 8 0
+0 0 17 17 15 25 13 15
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 25
+SKILL=SKILL_SECOND 2
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+#1602
+mob lost child~
+&wA lost child&n~
+&wA small child roams freely at the gates to the place it plays.&n
+~
+&wA frightened child, torn away from it's parents stands in your presence.  It's tears so shallow it's pain so discreet you barely notice.  The red that streams from it's eyes tell you of a painful story.  It turns towards you ready to take what you are going to give it, which is death.&n
+~
+167773194 1343489 136249361 3424450 1000 S
+49 -25 -38 1d1+29999 50d10+25
+3500000 2000000
+8 8 0
+0 0 17 17 15 14 15 12
+SKILL=SPELL_HEAL_MAJOR 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#1603
+mob mask vengeance~
+&wA &KMask &wof &RVen&rgea&Rnce&n~
+&KYou see a small curled up mask with a fake smile here, it looks like it's ready to snap back.&n
+~
+&KA small mask is all you can make out by examining it.  Small cracks line the once happy smile it had when it was first created.  Now all it has is caked blood upon it's worn face and pieces of torn flesh from former owners.  This mask has consumed the likes of all who have walked in here.  One might come to find salvation, but there heart never pure enough to make it through to the other side.&n
+~
+134217754 1081345 136249361 2097280 -1000 S
+47 -25 -35 1d1+34999 50d10+50
+3000000 1300000
+8 8 0
+0 0 25 15 15 25 15 14
+#1604
+mob psychosomatic freak~
+&wThe &YPsychosomatic &RFreak&n~
+&wA madman runs wild inside the room!&n
+~
+&wA ruthless human rushes at you.  He was once a seeker but now is a follower of the darkest parts of the heart.  He runs towards you, small knife in hand, trying to slit your throat, preventing you from what you might find in here.&n
+~
+134219544 32769 136249361 0 -1000 S
+45 -25 -20 1d1+24999 20d20+30
+1500000 950000
+8 8 0
+0 0 16 16 15 16 13 12
+SKILL=SKILL_HUNT 99
+#1605
+mob harvester desolation~
+&KHarvester &wof &BDes&bolat&Bion&n~
+&KInside the darkness you peer and see and cold, vile figure.&n
+~
+&KYou know who this is.  He's ready to take away the salvation you've severly needed and looked for.  He's the pain that makes your body writhe when you think you can but it's destroyed before it has a chance.  He feeds off of your feelings, and laughs in your face when you break down to tears.  "Cry for me one more time" he says.  A bold smile curls upon his lips as he looks ready to separate you from all the pain you've ever felt.&n
+~
+167772186 32769 136249361 2097280 -1000 S
+47 -25 -35 1d1+25999 75d10+35
+1750000 1250000
+8 8 0
+0 0 16 18 15 25 15 12
+#1606
+mob angelic valkyrie~
+&WA Valkyrie&n~
+&WA Valkyrie floats about waiting for it's next job.&n
+~
+&WFew have actually seen Valkyries.  The job of a Valkyrie is to take the souls of those whom have died to the clouds above.  While they do not hold as much power as a Cherub, or Seraph, they still have a job in the order of Angels.&n
+~
+176186888 1 136249361 16512 1000 S
+45 -25 -30 1d1+14999 50d25+50
+2000000 1100000
+8 8 0
+0 0 25 17 16 25 14 15
+#1607
+mob angelic cherub~
+&Wa &RCh&rerub&Rim&n~
+&WA guardian of the &Ylight &Wroams the plane.&n
+~
+&WThe Cherubim are beyond the throne of God; they are the guardians of light and of the stars. It is believed that, although they are remote from men's plane of reality, their light still touch their lives; the divine light that they filter down from Heaven.  The Cherubim are thought by some as an order or class of angels, though others hold them to be a higher class of heavenly beings than angels. Their rank among angels is uncertain, but they are always categorized in the First Sphere.&n
+~
+176186888 1 136249361 16512 1000 S
+45 -25 -30 1d1+14999 50d25+50
+2000000 1100000
+8 8 0
+0 0 25 18 15 25 15 13
+#1608
+mob angelic seraph~
+&Wa &CSe&craph&Cim&n~
+&WA holy winged spirit rests upon the air.&n
+~
+&WThe Seraphim are the highest order of angels, serving as the caretakers of God's throne and continuously singing his praises. It is said that they surround the throne of God, singing the music of the spheres and regulating the movement of the heavens as it emanates from God.&n
+~
+176186888 1 136249361 16512 1000 S
+45 -25 -30 1d1+14999 50d25+50
+2000000 1100000
+8 8 0
+0 0 25 18 16 25 15 14
+#1609
+mob colopatiron angel liberation~
+&WColopatiron, the Angel of Liberation&n~
+&WColopatiron, the Angel of Liberation rests upon a cloud.&n
+~
+&WAs an angel who unlocks prison gates, we can appeal to this sacred being when we are struggling for freedom or independence of any kind: economic, creative, spiritual or psychological.&n
+~
+176185354 32769 136249361 1073758402 1000 S
+49 -25 -40 1d1+59999 100d50+100
+4500000 2250000
+8 8 0
+0 0 25 17 14 25 12 13
+#1610
+mob dina angel wisdom~
+&WDina, the Angel of Wisdom&n~
+&WDina, the Angel of Wisdom rests upon a cloud.&n
+~
+&WWhen the world was first created, Dina taught humans seventy different languages. This guiding and teaching angel inspires the human race to pursue wisdom, knowledge and a love of learning.&n
+~
+176185354 32769 136249361 1073758402 1000 S
+49 -25 -40 1d1+59999 100d50+100
+4500000 2250000
+8 8 0
+0 0 25 17 14 25 12 13
+#1611
+mob taharial angel purity~
+&WTaharial, the Angel of Purity&n~
+&WTaharial, the Angel of Purity rests upon a cloud.&n
+~
+&WAn angel of purity who is prayed to by those who need to cleanse their thoughts, spirits or surroundings.&n
+~
+176185354 32769 136249361 1073758402 1000 S
+49 -25 -40 1d1+59999 100d50+100
+4500000 2250000
+8 8 0
+0 0 25 17 14 25 12 13
+#1612
+mob suriel archangel healing~
+&WSuriel, the Arch-Angel of Healing&n~
+&WSuriel, the Arch-Angel rests upon a cloud.&n
+~
+&WLike Metatron, Suriel is a prince of presence and like Raphael, an angel of healing. He is also an angel of death. (one of a few) Suriel was sent to retrieve the soul of Moses. It is said that Moses received all his knowledge from Suriel. (although Zazagel is credited also with giving Moses his knowledge) He is one of the great Archangels. He is one of seven angels in the system of primordial powers. When invoked, he may appear as an ox. In Cabala he is one of the seven angels that rule the earth.&n
+~
+176185354 32769 136249361 1073758402 1000 S
+50 -25 -40 1d1+89999 100d20+50
+5000000 2500000
+8 8 0
+0 0 25 17 14 25 12 13
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+#1613
+mob zuphulas angel forest~
+&WZuphulas, the Angel of the &gForests&n~
+&WZuphulas, the Angel of &gForests &Wrests upon a cloud.&n
+~
+&WThis angelic benefactor protects and safeguards the forests and trees. We appeal to this angel to save the rain forests of the earth and to inspire the human race to honor, respect and save the trees. Also the genii of the 11th hour.&n
+~
+176185354 32769 136249361 1073758402 1000 S
+49 -25 -40 1d1+59999 100d50+100
+4500000 2250000
+8 8 0
+0 0 25 17 14 25 12 13
+#1614
+mob guardian plane~
+&WThe &CGuardian &Wof the Plane&n~
+&WThe &Cguardian &Wof this plane stands at guard, eyeing all who arrive in it's room.&n
+~
+&WA large winged being stands at guard here.  It's duty is to protect all and to oversee things of this realm and make sure that all that goes on is good in the eyes of God.  It's sole purpose is to guide as well as guard what the Lord keeps sacred.&n
+~
+176185610 32769 136249361 1073758402 1000 S
+49 -25 -40 1d1+34999 40d25+50
+4750000 2250000
+8 8 0
+0 0 25 17 14 25 12 13
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#1615
+mob frightened priest~
+&wA frightened &ypriest&n~
+&wA small cloaked figure roams the temple foyer searching for lost souls to save.&n
+~
+&wA small man cloaked in a robe stands here, his eyes weary.  He's been holed up in his temple for several years now.  He can look outside to discover the atrocities but never has anyone arrive.  Until now he was the only one roaming this hallway, keeping it as neat and clean as possible.  You notice that at one point and time this man had to have been a missionary due to his wardrobe.  The small tattered bible he still carries, a golden cross looms on his neck, and a small robe that covers him from head to toe adorn this man.  This man knows what you're here for, and will help you in any way possible.&n
+~
+1342178888 32769 136249361 136 1000 S
+47 -25 -35 1d1+47999 50d99+20
+3000000 1400000
+8 8 0
+0 0 25 17 14 25 15 15
+#1616
+mob leprechaun~
+&GA Lep&grech&Gaun&n~
+&wA small little man stands here searching in the meadow for four-leaved clovers.&n
+~
+&wYou see a small man.  He's dressed in green attire, with a golden belt buckle and black tipped boots.  He wears a stove top hat and has a reddish beard that touches his belly.  He eyes you, and asks, "Have ye seen me gold?"
+~
+1804 294913 136249361 1075314818 -1000 S
+49 -50 -40 1d1+24999 40d10+25
+5500000 1444000
+8 8 0
+0 1 25 25 25 25 25 11
+SKILL=SKILL_STEAL 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRESTORM 99
+#1617
+mob saint patrick~
+&WSaint Patrick&n~
+&WThe patron saint of Ireland stands here, giving a sermon atop the &yhill&W.&n
+~
+&wThe person who was to become St. Patrick, the patron saint of Ireland, was born in Wales about AD 385. His given name was Maewyn, and he almost didn't get the job of bishop of Ireland because he lacked the required scholarship. Far from being a saint, until he was 16, he considered himself a pagan. At that age, he was sold into slavery by a group of Irish marauders that raided his village. During his captivity, he became closer to God. He escaped from slavery after six years and went to Gaul where he studied in the monastery under St. Germain, bishop of Auxerre for a period of twelve years. During his training he became aware that his calling was to convert the pagans to Christianity.&n
+~
+10 1 136249361 128 1000 S
+50 -55 40 1d1+114999 40d40+75
+5500000 2500000
+8 8 0
+0 6 25 25 25 25 15 12
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#1618
+mob snake~
+&wa &Gsnake&n~
+&wA &Gsnake &wslithers off at the sight of &WSaint Patrick&n
+~
+&wA snake creeps across the grassy meadow.&n
+~
+16777224 1 136249361 0 -1000 S
+48 -20 -33 1d1+39999 25d25+100
+2500000 1750000
+8 8 0
+0 0 17 16 14 16 15 13
+#1619
+mob patron~
+&wA patron&n~
+&wA patron roams around the &yhilltop&w hearing the gospel of Saint Patrick&n
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 1000 S
+49 -20 -25 1d1+24999 20d20+100
+5000000 2250000
+8 8 0
+0 0 17 15 15 15 14 13
+$~
+#999999

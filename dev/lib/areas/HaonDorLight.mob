@@ -1,0 +1,100 @@
+#6000
+mob john lumberjack~
+John the Lumberjack~
+John the Lumberjack is here, looking for some trees to chop down.
+~
+He is six feet tall and looks quite strong, muscles bulging under his heavy,
+chequered shirt.  His features are worn with hard work and his expression is
+one of a peaceful man leading a simple life.
+~
+262216 1 136249361 0 350 S
+5 32 37 1d12+33 1d8+2
+300 158
+8 8 1
+1 0 12 11 10 11 10 7
+#6001
+mob rabbit~
+the cute rabbit~
+A cute rabbit is here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+72 1 136249361 0 0 S
+1 35 39 5d5+15 1d4+0
+200 135
+8 8 0
+0 0 11 10 9 9 9 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6002
+mob bear~
+the brown bear~
+A big, brown, angry-looking bear is here.
+~
+The bear is a big, brown, furry animal with very large claws and very sharp
+teeth.  It doesn't resemble those cute little thingies from toy shops at all.
+~
+57416 1 136249361 0 -50 S
+8 30 35 1d12+49 2d6+2
+275 255
+4 8 0
+0 0 13 13 11 13 12 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#6003
+mob rabbit~
+the ferocious rabbit~
+A ferocious rabbit is here, glaring hungrily at you.
+~
+This small, furry creature with long ears and big feet has been attacked by
+the dreaded rabbit rabies, a horrible disease that turns helpless and innocent
+rabbits into ferocious and bloodthirsty monsters.
+~
+57416 1 136249361 0 -150 S
+3 34 38 1d4+26 1d8+0
+150 99
+4 8 0
+0 0 12 11 11 10 7 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6004
+mob deer~
+the fallow deer~
+A fallow deer is grazing peacefully here.
+~
+She is a graceful creature on long, slender legs, and with large, brown eyes
+looking back at you with an air of watchful interest.
+~
+90 1 136249361 8 350 S
+2 35 38 2d8+10 1d6+0
+125 64
+8 8 2
+0 0 11 13 9 11 8 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6005
+mob fox~
+the brown fox~
+A brown fox is here, looking for some rabbits to chew up.
+~
+It is a large fox with beautiful, red-brown fur and a long, thick brush.
+~
+72 1 136249361 0 -50 S
+2 35 38 1d4+18 1d6+0
+72 100
+8 8 0
+0 0 11 13 9 9 9 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+$~
+#999999

@@ -1,0 +1,2357 @@
+#1400
+&yJust Before &cGerin's Moat&n~
+&yThe path you have taken has led you to what used to be a splendid moat. Now, it is overgrown with
+&gweeds&y, &glilipads&y, and &gwater hyacinths&y.  The land below you is soppy and sinks several inches 
+with each step you take in it.  If you were to move just a few feet to the east, then you would
+surely be underwater, unless of course, you had a boat to sit in.  The air is thick and muggy
+here, with a hint of marsh gas.&n
+&gA &ysmall sign&g hangs from one of the trees here.&n
+~
+13 4 0 1 99 6
+D1
+Into Gerin's moat.
+~
+~
+0 -1 1401
+D3
+nothing special.
+~
+~
+0 -1 6016
+E
+sign~
+--Gerin's Hill--
+Designed by: Draythen the Demon Wench
+Suggested Levels: 30 - 40
+General Zone Alignment: Neutral
+Hints: make a map, bring cleric & thief
+~
+S
+#1401
+Gerin's Moat~
+&cOnce splendid, and now unkept and disheveled, Gerin's moat was crossed once a year by many 
+adventureres and nobodies alike, to enter the &ydouble-doors&c in the &yhill&c to the east.  All 
+who crossed came for one thing only: the great contest.  But now, Gerin has not called for a
+start to his contest.  Maybe the old mage has died and all his riches might be left in his tower
+on top of the hill.&n
+~
+13 2097152 0 1 99 7
+D1
+Deeper into Gerin's moat.
+~
+~
+0 -1 1402
+D3
+Leaving Gerin's moat.
+~
+~
+0 -1 1400
+S
+#1402
+Gerin's Moat~
+&cThe water here is thick with &glilipads&c and several &ytoads&c and &Gfrogs&c are bouncing about.
+Strangely enough, they croak and ribbit in what seems to be some sort of pattern. The smell of
+marsh gas is becoming increasingly evident, but not so bad as to not be able to breath the air
+here.&n
+~
+13 2097152 0 1 99 7
+D1
+Deeper into Gerin's moat, approaching the hill.
+~
+~
+0 -1 1403
+D3
+Gerin's moat.
+~
+~
+0 -1 1401
+S
+#1403
+Gerin's Moat~
+Tall grass and weeds spring up from the water here.  Fish and snakes
+swim and slither about.  To the north there seems to be some sort of 
+clearing. Perhaps the moat will go around to the other side of the
+hill if you follow it to the north (and perhaps not).
+Through the trees and various plants to the east, you can just make out
+the ending of the moat and the beginning of Gerin's Hill.
+~
+13 2097152 0 1 99 7
+D0
+Gerin's moat.
+~
+~
+0 -1 1404
+D1
+The ending of the moat lies ahead.
+~
+~
+0 -1 1406
+D3
+Gerin's moat.
+~
+~
+0 -1 1402
+S
+#1404
+Gerin's Moat~
+A particularly large and indeed giant lilipad rests atop the water in
+front of you.  It appears to be the home of an equally large frog, as is
+evident from the excessively large lair of white, creamy eggs to the
+side. The way to the north looks impossible to breach because the the
+thick foliage and overgrown undergrowth.
+~
+13 2097152 0 1 99 7
+D1
+~
+~
+16 -1 1497
+D2
+Gerin's Moat.
+~
+~
+0 -1 1403
+D5
+Down into the watery depths of Gerin's Moat.
+~
+~
+16 -1 1405
+E
+lilipad pad water~
+The lilipad is large enough for two humans to stand on, albeit close
+together. As you look closer, you see bubbles popping up occasionally
+from around the sides of the lilipad.  And where there are bubbles,
+there must be...
+~
+S
+#1405
+Below the Lilipad~
+You are swimming in the grass-laden waters of Gerin's moat.  Fish and
+an occasional snake swim by, brushing against your legs.  Above you is
+the large lilipad, below you is more and more water.  It is very hard to
+see in this watery depth.
+~
+13 270532621 0 1 99 8
+D4
+Looking up, you see the bottom of a large lilipad.
+~
+~
+0 -1 1404
+D5
+Down into the depths...
+~
+~
+0 -1 1443
+S
+#1406
+Just before Gerin's Hill~
+The beginning of Gerin's Hill, the place where everyone came.  Now deserted,
+except maybe for looters.  You wonder if the looters are winners from previous
+contests. They would already know there way around then.  But no, you now
+remember that no winner of the contest ever came back a second time.  You
+think that the award was so great that they must have moved to Elmpatris,
+where life is good.
+~
+13 2097152 0 1 99 6
+D0
+To the north is the firm land of Gerin's Hill.
+~
+~
+0 -1 1407
+D3
+Gerin's moat.
+~
+~
+0 -1 1403
+S
+#1407
+Gerin's Hill~
+You step foot on the firm ground that is the base of Gerin's Hill.  It
+was here that for several years, parties of adventureres made their
+first footfalls in the short march up to the double-doors to the north
+east. One million gold coins was the usual prize to 'winners' of Gerin's
+contest. That and a magical item or two.  But Gerin has not called
+his contest this year, and by the condition of the moat, rumors have
+spread that the old mage has died.  And if Gerin is dead, then what
+riches and treasures lay unattended in his Tower?
+~
+13 270532612 0 1 99 4
+D0
+up Gerin's hill
+~
+~
+0 -1 1408
+D2
+The beginning of Gerin's moat.
+~
+~
+0 -1 1406
+S
+#1408
+Gerin's Hill~
+The hill is overgrown with trees and bushes here, but through the foliage
+you can make out the shadowy form of Gerin's Tower perched high on top of
+Gerin's hill.  It suddenly becomes obvious to you why people haven't climbed
+up to the tower directly.  First of all, there doesn't appear to be any
+doors, only one window at the Tower's peak.  And secondly, there is a 50'
+vertical drop to the part of the hill the tower is resting on to the next
+level of the hill.
+~
+13 270532608 0 1 99 4
+D1
+Going up Gerin's hill.
+Going up Gerin's hill.
+~
+~
+0 -1 1409
+D2
+The base of Gerin's Hill lies down to the south.
+~
+~
+0 -1 1407
+S
+#1409
+Marble Walkway~
+The beginnings of a great marble walk-way lie here.  Unfortunately, it
+seems to have started to crack, and an occasional weed has shot up
+between the cracks.  In any event, the walk-way heads to the north.
+~
+13 270532608 0 1 99 4
+D0
+Up the hill.
+~
+~
+0 -1 1410
+D3
+Going down Gerin's hill.
+~
+~
+0 -1 1408
+S
+#1410
+Marble Walkway~
+The marble walk-way continues to slope up to the north.  Up ahead you
+can make out the beginnings of a marble staircase leading up and to
+the east.  Passed that is what appears to be an ancient tree.
+~
+13 270532608 0 1 99 4
+D0
+To the tree and staircase.
+~
+~
+0 -1 1411
+D2
+Down the hill.
+~
+~
+0 -1 1409
+S
+#1411
+Tree & Staircase~
+Here begins a wide staircase leading up and to the east.  Unfortunately,
+it has cracked and fallen, and is quite unusable.  This once was
+the only means of entering Gerin's Hill, up the staircase and through
+the double doors.  But now, that method is no longer viable.
+~
+13 270532608 0 1 99 4
+D2
+The marble walk-way.
+~
+~
+0 -1 1410
+D4
+up the tree
+~
+~
+0 -1 1412
+E
+staircase~
+The staircase has broken apart leaving a gaping hole in the ground.  There
+is no way to reach the top of the staircase without falling into this hole.
+~
+E
+tree~
+Slightly to the north of the broken staircase is a great tree.  Its
+roots seem to be the reason behind the falling of the staircase.
+By looking at the trees limbs and by seeing where the staircase led
+you think that fi you climb the tree you might be able to access the
+top of the staircase.
+~
+S
+#1412
+Tree Branch~
+You are perched atop a limb of the great tree.  You think that if you
+swing over to the east side of the tree you just might be able to
+jump and land on the top of the fallen staircase.  To the west is one
+of the best views of Crimson world you have ever seen.  How much
+better of a view can be seen from the top of Gerin's Tower?
+~
+13 2097156 0 1 99 3
+D1
+To the east side of the tree.
+~
+~
+0 -1 1414
+D3
+hmmm....
+~
+~
+0 -1 1413
+D5
+To the bottom of the tree, watch it that you don't fall.
+~
+~
+0 -1 1411
+S
+#1413
+Falling off a Tree~
+You inch west to see the splendid landscape.  Unfortunately for you,
+the branch has rotted inside and cracks under your weight. YOu
+fall to your death!
+~
+13 1075838982 0 1 99 3
+S
+#1414
+Atop the Marble Staircase~
+About 4 feet below and a little off is the top of the staircase.  You
+jump down and land softly on the marble floor.  Something goes 'click'
+and you instantly look up.  To the south are two, great double doors.
+They have suddenly unlocked.  You have made it to the entrance of
+Gerin's Hill.
+Planted in the floor next to the doors is a great sign.
+~
+13 270532612 0 1 99 3
+D3
+To the west side of the tree.
+~
+~
+0 -1 1412
+E
+sign~
+Welcome One and All!  These parts are owned by old mage Gerin, but yee
+were probably knowing that.  Yee are probably here for the contest, I
+imagine, and if yee are not, leave! As yee be tresspassing otherwise!
+At any rate, lay yer gold down on the ground here and yee will begin
+the contest.  May all the luck be with you, and may the Gods smile on
+yer bright faces...
+~
+S
+#1415
+Inside Gerin's Hill~
+You feel like you have been sucked into something against your will.
+Certainly this doesn't feel like a cave.  Actually it kind of feels like
+a church, the ceilings are high and the halls are wide.  Every footstep
+makes an echo.  Both east and south are long and large hallways.  At 
+the end of the east hallway, a door is cleary visible.  To the north,
+the great double-doors are firmly closed.
+~
+13 270532621 0 5 99 0
+D1
+Down the First Hallway.
+~
+~
+0 -1 1416
+D2
+The Hall continues...
+~
+~
+0 -1 1439
+E
+north doors~
+The doors that allowed you entrance into these hallways are not 
+as accomodating in allowing you to leave.
+~
+S
+#1416
+Gerin's First Hallway~
+In this broad, and echoing expanse of a hallway, the thing you notice the
+most is the incredible amount of dust on the floors.  The next thing you
+notice is the incredible amount of footprints scattered about.  Seems as
+if dozens of humanoid beings have been this way rather recently.
+~
+13 270532617 0 1 99 0
+D1
+~
+door~
+9 -1 1417
+D3
+To the 'Church' corner.
+~
+~
+0 -1 1415
+E
+foot prints~
+Most of the footprints in the dust were made by some type of boot.  You
+quickly decide that these footprints are fresh and that you are not
+alone in these 'caves.'
+~
+S
+#1417
+Dilbert's Room~
+You are in a large, square room.  In the center of the room is a desk.
+The desk has pen holder and several sheets of paper, but there are no
+pens. The sheets of paper are about half the size of a regular sheet.
+The pen holder contains nothing but dust.
+~
+13 270532617 0 1 99 0
+D2
+To the Second Hall...
+~
+~
+0 -1 1418
+D3
+To First Hallway.
+~
+door~
+1 -1 1416
+E
+foot prints~
+Most of the footprints in the dust were made by some type of boot.  You
+quickly decide that these footprints are fresh and that you are not
+alone in these 'caves.'
+~
+E
+papers~
+You snatch a look at one of the several papers on Dilbert's desk.  You
+read:
+The fire spirit will enter the shape of a sword! If only I could convince
+Gerin to let me throw some water on this whole subject...ah but he has
+been cooped up for months, even I am beginning to wonder if he is alive...
+~
+S
+#1418
+Second Hall~
+You are in a wide hallway that travels east and west.  The stones that 
+make up the walls here seem to be rougher than usual.  Every now and then
+you hear the sound of metal on metal, or perhaps metal on stone.
+~
+13 9 0 1 99 0
+D1
+The hallway continues..
+~
+~
+0 -1 1420
+D3
+The hallway continues...
+~
+~
+0 -1 1419
+E
+stones wall~
+Someone has etched the following in one of the stones here:
+Go as the knight moves up.
+~
+S
+#1419
+Second Hall~
+All about you are the walls of this 'maze.'  How many times have you been
+here before?  Perhaps you won't turn into what you see propped up against
+the north wall...or perhaps you too, will wonder back here to die.
+~
+13 268435465 0 1 99 0
+D1
+The hallway continues...
+~
+~
+0 -1 1418
+D3
+To th crossways...
+~
+~
+0 -1 1439
+E
+north wall~
+Propped up against the wall is the undeniable form of a human skeleton.
+Rusted, and cracked armor still cloth the unfortunate soul.
+~
+S
+#1420
+Second Hall~
+There seems to have been a battle here quite recently.  You think this,
+mainly because of the 2 dead humans and the 3 dead meazels.  Somebody
+should clean up the mess, but for some reason no-one does.  Perhaps it
+is because the people in here are all trying to find their way up, to
+Gerin's tower, and of course they want to get there first!
+~
+13 268436489 0 1 99 0
+D0
+The hallway to the north is narrow and not at all like this hallway.
+~
+~
+0 -1 1427
+D1
+Approaching the end of the hallway.
+~
+~
+0 -1 1421
+D3
+The hallway continues...
+~
+~
+0 -1 1418
+E
+battle bodies dead~
+On closer inspection you see that both the humans and the meazels have
+some strange, red growth along there faces.  You look at their wounds
+expecting cuts and gashes by blades and claws, but what you find are
+small holes all over their bodies instead...
+~
+S
+#1421
+Hall's End~
+There is a spiral staircase here leading both up and down.  You notice
+a few specks of blood on one of the rails.  This place doesn't feel
+like too much of a church anymore, more like a dungeon.  Does it make
+sense to go down in search of a door that is on top of the hill?  You
+decide.
+~
+13 268435465 0 1 99 0
+D3
+The hallway continues...
+~
+~
+0 -1 1420
+D4
+Going up the spiral staircase...
+~
+~
+0 -1 1423
+D5
+Going down the Spiral Staircase...
+~
+~
+0 -1 1422
+E
+spiral stairs~
+The staircase is made of twisted metal painted over with black.  Blood
+flecks the rail heading down into Gerin's Hill.
+~
+E
+rope~
+There is no sign of a rope here, but you think for some reason that one
+should definately be attached to the 4th stair here...
+~
+S
+#1422
+Warm Zone~
+You are at the bottom of a spiral staircase.  You feel strong magic and
+also a lot of heat here.  The heat seems to eminate from the north.  
+Meanwhile, several creatures are using this heat as 'warm-zone' for there
+sleeping times.
+~
+13 268435465 0 1 99 0
+D0
+Continuing dowsn the hallway...
+~
+~
+0 -1 1424
+D1
+nothing special...
+~
+~
+48 -1 1498
+D4
+Going up the spiral staircase...
+~
+~
+0 -1 1421
+S
+#1423
+Top of Spiral Staircase~
+There is a spiral staircase here leading down into Gerin's Hill.  To
+the west, you can here faint sounds of human voices, and occasionally
+other humanoid sounds.  You suddenly get the feeling you are being watched.
+You look all around, but everything appears normal...
+~
+13 268435465 0 1 99 0
+D3
+Going west in the third hall...
+~
+~
+0 -1 1432
+D5
+Going down the spiral staircase...
+~
+~
+0 -1 1421
+E
+walls~
+You look at the walls, searching for peepholes perhaps, and suddenly
+realize that these walls are strange, very strange.  They seem like
+they would be soft to the touch.
+~
+S
+#1424
+The Heated Hallway~
+There seems to be magic zapping in the air.  The heat is great here, but
+you get the idea that the magic is attempting to cool this place down, or
+at something like that.  There is a great door in front of you with
+several fancy enscriptions carved all over it.  There is also a more
+general sign posted right on it.
+~
+13 268435465 0 1 99 0
+D0
+Towards the heat...
+~
+door~
+13 1405 1425
+D2
+To the spiral staircase...
+~
+~
+0 -1 1422
+E
+enscriptions~
+The enscriptions on the door appear to be some sort of ward protecting
+the people on the outside from whatever is on the inside.
+~
+E
+sign~
+The sign reads:
+DO NOT ENTER - VERY HOT
+~
+E
+door~
+DO NOT ENTER - VERY HOT
+~
+S
+#1425
+Before the Lava Pit~
+Stretching out before you is a room which contains a circular pool of
+glowing red lava.  Above the pool is a magical, shimmering shield in
+the shape of a hemisphere.  Every now and then the lava will bubble up
+and splash against the shield, which causes the shield to flicker.  The
+heat is intense here, but the magic shield makes it bareable.
+Flames lick the surface of the lava.
+~
+13 8 0 1 99 0
+D0
+If you were to go north, you would smack into the magic shield.  However,
+maybe the shield allows things to go in but not out?
+~
+~
+0 -1 1426
+D2
+To the hallway...
+~
+door~
+0 -1 1424
+D3
+There is a conspicuous door on the west wall...
+~
+door~
+9 -1 1430
+E
+lava~
+You look at the lava through the magic shield and after a while you come
+to the conclusion that something is odd, (like most things in Gerin's
+Hill). It seems as if the flame above the lava has a spirit of its own,
+as if it were a living creature.
+~
+E
+flames~
+You look at the flames dancing around the lava and come to realize that
+something is quite odd.  The flames are starting to swell at one end...
+the end closer to you!
+~
+E
+west~
+There is a conspicuous door on the west wall...
+~
+S
+#1426
+In the Chamber of the FlameWierd~
+You are standing on the edges of the lava, to go in the pool would mean
+certain death.  As it is, if you were to remain here long you would die.
+The flames from the lava leap up around you, but the magic from the shield
+keeps most of it away.
+~
+13 268439560 0 20 99 0
+D2
+Reaching dry land...
+~
+~
+0 -1 1425
+E
+znote~
+I would like the Flamewierd to be, so that when it is killed, its corpse
+is replaced by the Flametongue sword if they are not maxxed.
+~
+S
+#1427
+Orlyn's Passage~
+The hallway you are in is narrow and not at all like most of the hallways
+in Gerin's Hill.  This hallway wouldnt allow 4 people to walk side by
+side in it.  You wonder if this used to be some sort of secret passage
+way before.
+~
+13 268435465 0 1 99 0
+D0
+The hallway gets narrower...
+~
+~
+0 -1 1428
+D2
+To the dead body room...
+~
+~
+0 -1 1420
+S
+#1428
+Orlyn's Passage~
+The hall you are in is very cramped indeed.  This must have been some
+sort of secret passage way before as who in their right mind would
+make a hallway only one person can fit through?  There is a lift
+gate to some stairs which lead down here.
+~
+13 268435725 0 1 99 0
+D2
+Entering a wider hallway, but not much wider...
+~
+~
+0 -1 1427
+D5
+Down to the...
+~
+gate~
+1 -1 1429
+E
+gate stairs~
+If you open the lift gate you will be able to descend the stairs.
+~
+S
+#1429
+Gerin's Wine Cellar~
+You stand within a mid-sized room that is absolutely filled to capacity.
+Bottles upon bottles of wine and mead line the shelves and fill the
+wine racks. There is dust everywhere except in a few places, where it 
+seems obvious that several bottles have been stolen.  You wonder if
+it is against the rules to take a bottle or two.
+~
+13 268435465 0 1 99 0
+D3
+Searching behind a few shelf stands of wine, you discover a door to the
+west.
+~
+door~
+1 -1 1430
+D4
+Up to Orlyn's Passage...
+~
+gate~
+1 -1 1428
+E
+bottles wine mead~
+You look at the different bottles in this room and discover that they
+seemed to have all been made by a fellow of the name Orlyn.  'Orlyn
+the Wine Master' you think...This guy must have been good.  Picking up
+a bottle of wine you hear the sound of a creaking door in the back of
+the room behind a shelf stand.
+~
+S
+#1430
+The Node~
+You have entered a room that appears to have been made into some sort
+of campsite.  A tent and several bedrolls have been put in place here.
+A small fire lights up the center of this room, and the people around it
+seem to be merry and friendly.  A few look your way and give a slight
+chuckle as if they have seen you too many times today.  "Welcome to the
+Node, somebody says, and keep an eye on our board!"
+~
+13 2097161 0 1 99 0
+D0
+To the Third Hall...
+~
+~
+0 -1 1431
+D1
+Away from the Node...
+~
+~
+0 -1 1433
+D2
+To the room with a pool...
+~
+~
+0 -1 1459
+D3
+Darkness lingers beyond...
+~
+~
+0 -1 1437
+E
+board sign~
+You examine the board:
+1) Has anyone seen Thoth? he's been missing...
+2) 2 Rooms north is of the disease, dont go there
+3) Watch yer back, assassin bugs are about
+4) Hint to the wise, dont attack the crickets
+5) And leave Sparky alone!
+~
+S
+#1431
+The Third Hall~
+Old Gerin sure does love hallways, and he sure does love mazes.  Which
+way from here is the way to the Tower entrance?  And by the way, which
+way is out?  Good thing the God's have thought of recall scrolls eh?!
+~
+13 268435465 0 1 99 0
+D1
+Going east in the third hall...
+~
+~
+0 -1 1432
+D2
+To the Node...
+~
+~
+0 -1 1430
+D3
+Travelling down the Third Hall...
+~
+~
+0 -1 1436
+S
+#1432
+The Third Hall~
+The halls up here seem to be regular hallways, that is they have reason-
+able dimensions, not like the ones on the lower levels where they are
+huge! You begin to wonder about which levels are lower in the hill
+and which are higher.  Perhaps if you climbed the rope that is hanging
+from the hole in the ceiling you will know for sure...
+~
+13 268435465 0 1 99 0
+D0
+To the dead body room...
+~
+~
+0 -1 1420
+D1
+Going to hall's end...
+~
+~
+0 -1 1423
+D2
+a faint light eminating from that direction...
+~
+~
+0 -1 1433
+D3
+Going west in the third hall...
+~
+~
+0 -1 1431
+D4
+Climb the rope and see...
+~
+~
+0 -1 1421
+E
+rope~
+A hemp rope is here hanging from a ciruclar hole in the ceiling.  You
+see that the rope if firmly anchored to some sort of staircase above.
+~
+S
+#1433
+an Intersection~
+You appear to be in somewhat of a side passage that connects major
+passages. The Node lies to the east while the Third Hall lies to the
+north. To the south, is a rather dark hallway and you get the feeling
+you shouldn't go that way.
+~
+13 268435465 0 1 99 0
+D0
+To the Third Hall...
+~
+~
+0 -1 1432
+D2
+Down a dark passage...
+~
+~
+0 -1 1434
+D3
+To the Node...
+~
+~
+0 -1 1430
+S
+#1434
+A Dark Passage~
+The passage you are in is dark and foreboding.  No sounds come from the
+south. You get the feeling that something is very odd up ahead.  
+Squinting, you think that you can make out some figures, standing very
+still. Is there an ambush ahead?
+~
+13 268435469 0 1 99 0
+D0
+To an intersection...
+~
+~
+0 -1 1433
+D2
+Entering a very silent room...
+~
+door~
+1 -1 1435
+E
+figures~
+Squinting very hard, you think you can make out the faint outline
+of several beings standing very very still, perhaps waiting for you to
+come closer.
+~
+S
+#1435
+The Gazer's Collection Room~
+Statuesque representations of humans, dwarves, cave crickets and other
+commonly found creatures of Gerin's Hill seem to litter this room.
+Indeed, it is very hard to see in one direction for very long without
+looking directly at a statue.  What is remarkable is that these statues
+are very realistic and probably could be sold for small fortunes.  However,
+this does not appear to be the work of a medusa, or other creature of
+legend like that...
+~
+13 9 0 1 99 0
+D0
+Down a dark passage...
+~
+door~
+13 1407 1434
+E
+statues~
+Inspecting a few statues you are amazed at the detail.  Yet the detail is
+not perfect.  It appears as if the stone has had a small acid wash.
+Suddenly another idea pops into your head...what if these statues were
+created from a 'medusa' like thing, except that the 'victims' were
+sprayed with acid before they were stoned!
+~
+S
+#1436
+The Third Hall~
+You stand within a grand hallway, not that it is excessively large, but
+rather that it just 'seems' splendid.  You can't put your finger on it.
+Perhaps it is the smell in the air, perhaps it is the great stairway
+that leads up and down from this room.  At any rate, the hallway is
+nice, the stones are smooth, and the floor shines as if it has just been
+mopped!
+~
+13 268435465 0 1 99 0
+D1
+Down the third hall...
+~
+~
+0 -1 1431
+D4
+The staircase ascends into darkness...
+~
+~
+0 -1 1437
+D5
+Down to the junction...
+~
+~
+0 -1 1438
+S
+#1437
+West Passage~
+You have entered a narrow hallway that seems to familiar to you.  Of course
+most Gerin's hallways seem familiar.  Perhaps you have been to this partic-
+ular part too many times.  Strangely enough you hear sound to the east
+that is echoed almost immediately to the west.
+~
+13 268435465 0 1 99 0
+D1
+To the Node...
+~
+~
+0 -1 1430
+D3
+Down the hall...
+~
+~
+0 -1 1461
+D5
+The staircase leads down into darkness...
+~
+~
+0 -1 1436
+S
+#1438
+The Junction~
+You stand at a junction of sorts, the crossways lies to the north, while
+the third hall is up the stairs on the east side of this room.  To the
+west, there is a door with a small, grated window of which one could
+look through.  There is a note tacked to the south wall here.
+~
+13 268435465 0 1 99 0
+D0
+To the crossways...
+~
+~
+0 -1 1439
+D3
+To the chapel...
+~
+door~
+9 -1 1440
+D4
+Up to the third hall...
+~
+~
+0 -1 1436
+E
+note~
+The note reads:
+U<v>v>>>^^v
+--A PITY TO BE SO LOW--
+--there are clues of --
+--which you KNOW     --
+~
+E
+window~
+You peer through the small window and look inside the adjoining room.
+All you can make out is a large white cross bathed in multi-colored
+light. A chill runs up your spine for some reason.
+~
+S
+#1439
+The Crossways~
+You have entered the Crossways, or the route that lets you go between
+major hallways in Gerin's Hill with the greatest ease.  The hall is wide
+here and there is very little dust, suggesting that this placed is used
+by many.  To the north, are the great double-doors.  To the east, the
+second hall may be accessed, and to the south the third hall may be 
+accessed.
+~
+13 270532617 0 1 99 0
+D0
+To the Hill entrance...
+~
+~
+0 -1 1415
+D1
+The second hall...
+~
+~
+0 -1 1419
+D2
+To the third hall...
+~
+~
+0 -1 1438
+E
+north doors~
+The doors that allowed you entrance into these hallways are not 
+as accomodating in allowing you to leave.
+~
+S
+#1440
+The Chapel~
+Basked in an assortment of multi-colored lights is a tall white cross.
+A sun and a fish are carved directly in the centerpiece of the cross, per-
+haps to honor the two great Gods of CrimsonWorld.  The light that makes
+the cross appear to be immersed in colored water, eminates from the stained
+glass window on the far wall.  Two pews are positioned to either side of
+the cross and there appears to be a leaflet, or a sheet of paper sticking
+out of one of the pew backs.
+~
+13 268435464 0 1 99 0
+D1
+To the junction...
+~
+door~
+9 -1 1438
+D3
+A stained glass window lies to the west.  Obviously there is a light source
+behind it, so obviously there is some sort of room behind it.
+~
+window~
+13 1412 1441
+E
+stain glass~
+The stained glass window is of a brilliant design.  Four angels are hovering
+around two small, baby boys.  One appears to be quite happy, while the other
+has a brooding look about him.  You look closer at the brooding baby and
+suddenly realize that his eyes have moved!  Or was it a trick of the light?
+Where is that light coming from anyway?
+~
+E
+leaflet paper~
+The leaflet reads:
+And though I walk through the maze of old mage Gerin, I do not fear.
+For with the complete cross in hand, I must but find the right location
+to drop the pieces, and thus I shall be free!
+~
+S
+#1441
+Small Chaos Gate~
+You have entered the room behind the stained glass window, and now you can
+see what the source of illumination is.  A small planar gate has been opened
+here, and light escapes in a steady rhythym from it.  Every now and then
+shadows pass across the light and you know something is about to step
+through. Planar gates are never natural, and never beneficient.  If only
+there were some way to close this one.
+~
+13 8 0 1 99 0
+D1
+Behind the stained glass window...
+~
+window~
+1 1412 1440
+D3
+a planar gate...looks pretty scarey inside
+~
+~
+0 -1 1442
+E
+gate~
+The gate appears to be just wide enough for one person to fit through.
+Perhaps if you go through you can close it, but then again if you close it
+how will you get back?
+~
+S
+#1442
+Trapped in an Interplanar Gate~
+You step through the gate and quickly realize you are not alone.  Denizens of
+the chaos world descend upon you.  You try desperately to get back through 
+the gate but discover that your way is blocked, too many other beings are
+trying to get through.  You look around you in horror and suddenly you feel
+the pain, every part of your body is being bitten in to.
+~
+13 1077936399 0 1 99 0
+S
+#1443
+Underwater, Below Gerin's Moat~
+Tall moat grass starts to entwine itself about your body.  If you were a
+poorer swimmer you would surely get caught up in it, and so this would be
+your final resting place.  As it is now, it is very hard to see in the
+directions you may travel, of course there is always up into blessed air!
+~
+13 270532617 0 1 99 8
+D1
+You can't see anything except moat grass...
+~
+~
+16 -1 1445
+D2
+You can't see much of anything, except thick muddy water and moat grass...
+~
+~
+16 -1 1444
+D4
+Going towards the surface of Gerin's Moat...
+~
+~
+0 -1 1405
+S
+#1444
+Underwater, In the thick Moat Grass~
+More moat grass clogs up the area, yet you detect a 'clearing' in the grass
+to the east.  You begin to wonder why you have chosen this course, why have
+you swam down into the moat?  What could possibly be here except for snakes
+and other horrible creatures?
+~
+13 270532617 0 1 99 8
+D0
+You can't see much of anything, except thick muddy water and moat grass...
+~
+~
+16 -1 1443
+D1
+To the clearing...
+~
+~
+0 -1 1446
+S
+#1445
+Underwater, In the thick Moat Grass~
+Thick moat grass surrounds this area, yet you detect a 'clearing' to the
+south. You begin to wonder why you have chosen to dive into Gerin's Moat
+as it is not the nicest places to be.  Perhaps you are crazy, and then again
+maybe there is a method to your madness.  Maybe, old Gerin has hidden some-
+thing down here.
+~
+13 270532617 0 1 99 8
+D2
+To the clearing...
+~
+~
+0 -1 1446
+D3
+You can't see anything through the muddy water, except moat grass...
+~
+~
+16 -1 1443
+S
+#1446
+Down deep in Gerin's Moat~
+You are now very deep within the watery depths of Gerin's moat.  You esti-
+mate that you have gone down a good 20' to 30'.  Now would be the time to
+go back up if you are running out of air.  At any rate, you have finally
+reached a clearing in the moat grass, not that you can see anything anway, but
+all that slimy grass clinging to your body gave you a new definition of
+claustrophobia. It seems as if you can go up, to the east, or down from
+here.
+~
+13 270532617 0 1 99 8
+D1
+You can't see much though the thick, muddy water, except moat grass...
+~
+~
+0 -1 1447
+D4
+Good ol-fashioned air must be somewhere in that general direction...
+~
+~
+0 -1 1443
+D5
+Deeper underwater...
+~
+~
+0 -1 1449
+S
+#1447
+UnderWater, with a finger~
+The water here seems to have a hue of red in it.  Perhaps another contestant
+has also taken the 'swimming' route to Gerin's Tower entrance, and well, did
+not do so well.  To emphasize this notion, a chewed up finger floats by...
+~
+13 270663689 0 1 99 8
+D0
+nothing but moat grass...
+~
+~
+16 -1 1448
+D3
+To the clearing...
+~
+~
+0 -1 1446
+D5
+Down into the murky depths...
+~
+~
+16 -1 1451
+S
+#1448
+Underwater Alcove~
+Trapped within the moat grass is a chewed up man.  Most of his skin and 
+organs are gone and bone prevails.  You know that in time, nothing will be
+left save for the skeleton.  A strand of the man's hair floats passed your
+face and you swat it away.  Death, you think, is even worse when you are
+not allowed to rest, and the pirannas are still eating your flesh.
+~
+13 270663945 0 1 99 8
+D2
+You can see much of anything...
+~
+~
+0 -1 1447
+E
+man skeleton~
+The man is almost entirely eaten up.  The only things that remain are bit
+of clothing and a few strands of hair.  However  you suddenly notice that
+the skeletal hand is grasping a soggy piece of parchment.
+~
+E
+parchment~
+You swim towards the dead man's hand and begin to read what is still legible:
+Four nd th ee and a back tep too.  The way in  s from w ere you came.
+Beware he four m rtal her es when you g t to the halls.
+Must have the t  ee segm nts of Gerins c  ss.
+~
+S
+#1449
+Deep Under Gerin's Moat~
+The pressure of the water here is great.  Youre not sure if you can swim any
+further down without blowing your eardrums to hell.  But perhaps you won't
+have to as there is a strange light coming from the south, through the
+moat grass.  Perhaps old mage Gerin has hidden something here, or perhaps
+something has made a home here...
+~
+13 270532617 0 1 99 8
+D2
+To the soft glowing light...
+~
+~
+0 -1 1450
+D4
+Up to the clearing in the moat grass...
+~
+~
+0 -1 1446
+S
+#1450
+Room of the Phisher King~
+The pressure of the water here is exceedingly great, yet the merman of which
+this room belongs to, seems to like it that way.  A soft glowing white
+orb hovers here, casting eerie shadows among the grass splines.  A great
+chair rests comfortably on the moat floor here surrounded by a pile of
+gold and other jewelry.
+~
+13 270663689 0 1 99 8
+D0
+nothing in particular...
+~
+~
+0 -1 1449
+S
+#1451
+The Dark Depths of Gerin's Moat~
+The water here is black.  you feel only the prescence of moat grass and
+occasional fish, or at least what you hope is a fish.  There seems to be
+less moat grass to the south and much much more moat grass to the east.
+~
+13 270663689 0 1 99 8
+D0
+nothing special...
+~
+~
+16 -1 1453
+D1
+You can see nothing through the thick moat grass...
+~
+~
+0 -1 1452
+D4
+Good ol'fashioned air must be somewhere in that general direction.
+~
+~
+0 -1 1447
+S
+#1452
+Inky Black Waters~
+The water here is black.  you feel only the prescence of moat grass and
+occasional fish, or at least what you hope is a fish.  There seems to be
+less moat grass to the south and much much more moat grass to the east.
+You get a strange feeling to the east.  Something isn't right with the
+water...
+~
+13 268566541 0 1 99 8
+D1
+It is hard to see what is in that direction...
+~
+~
+0 -1 1457
+D3
+nothing...
+~
+~
+0 -1 1451
+S
+#1453
+Underwater Eddy~
+The water seems to sway here as if some current was feeding it.  You look
+below you to see if you can see the crack necessary for a whirlpool to
+start. There is none that you can detect, so you feel a little safer.
+You notice, however, that above you there seems to be a streak of a pale
+white light shining down.  The vision is a bit confusing as you can't
+focus on the light, but you know for sure that you can swim up.  The light
+must be coming from there.
+~
+13 270663689 0 1 99 8
+D2
+nothing but darkness...
+~
+~
+0 -1 1451
+D4
+Entering a narrow shaft...
+~
+~
+0 -1 1455
+E
+light~
+As far as you can tell the light is appears to be about 30' above you shining
+down. Obviously it will be hazy to look at from this distance.
+~
+S
+#1454
+In an underwater shaft~
+You seem to have entered a narrow, vertical shaft.  A pale light can be seen
+from above, while only blackness exists below.  The water flowing around
+your skin is surprisingly luke-warm, and you guess that it must be heated
+by some unseen source.
+~
+13 270663945 0 1 99 8
+D4
+The shaft widens considerably...
+~
+~
+0 -1 1456
+D5
+Down into darkness...
+~
+~
+0 -1 1453
+S
+#1455
+In an underwater shaft~
+You seem to have entered a narrow, vertical shaft.  A pale light can be seen
+from above, while only blackness exists below.  The water flowing around
+your skin is surprisingly luke-warm, and you guess that it must be heated
+by some unseen source.
+In the faint light you notice that the encircling walls are made of a
+granite-like stone.  It is strong and sturdy, but that didn't stop someone
+from carving a message into the rock.
+~
+13 270663945 0 1 99 8
+D4
+Towards a light source...
+~
+~
+0 -1 1454
+D5
+Down into the watery darkness...
+~
+~
+0 -1 1454
+E
+rock message~
+You look at the message carved in the rock:
+To the ones of which land is not there only element, this is Gerin's one
+and only rule ... When laying the cross down, be sure to lay the true cross
+down!
+~
+E
+rock~
+~
+S
+#1456
+In a Pool~
+You swimming just below the surface of the water.  You appear to be within
+a pool, or perhaps a well of some sort.  The water is fairly clear and you
+can easily with the light provided by the lamp above.  Looking up, through
+the water's surface, a large room is visible and every now and then shapes
+will pass by the well.  Looking down however, is a different story.  Inky
+blackness is all that you can see.
+~
+13 2228236 0 1 99 8
+D4
+Dry land...
+~
+~
+0 -1 1459
+D5
+Entering a narrow shaft...
+~
+~
+0 -1 1454
+S
+#1457
+Stagnant Water~
+The prescence of moat grass is considerably less here and the water is very
+still. Small bits and pieces of 'things' float idly in the water here.
+Looking east your vision distorts and you have to look away and refocus.
+It is dark to the east, black even, but whatever light is there behaves
+quite differently from the light that is here.
+~
+13 268566537 0 1 99 8
+D1
+Its hard to tell what is up ahead...
+~
+~
+0 -1 1458
+D3
+nothing but inky blackness...
+~
+~
+0 -1 1452
+S
+#1458
+Air Bubble~
+You are quite surprised as you step into an air bubble.  It seems that
+somehow the moat grass and other plants have trapped this bubble here,
+which allows you to breathe air, approximately 40' underwater.  However,
+you quickly dismiss that idea as you start to notice the thick webbing
+that surrounds the bubble and most of the plants within it.
+~
+13 268435465 0 1 99 0
+D3
+Back into the black water...
+~
+~
+0 -1 1457
+S
+#1459
+Room with a Pool~
+You stand within a large room that contains an equally large pool.  There
+is a sign tacked on the side of the pool that says 'Well', but hey, it
+looks like a pool to you!  Wells are supposed to have pumps or something,
+and this 'pool' does not have one of those.  Every now and then, adven-
+turers stop by and fill up their barrels and canteens.
+A lamp is hung on the ceiling here, giving this room a nice soft light.
+~
+13 268566536 0 1 99 0
+D0
+To the Node...
+~
+~
+0 -1 1430
+D3
+To yet another hallway...
+~
+~
+0 -1 1460
+D5
+Entering the pool to take a little swim...
+~
+~
+16 -1 1456
+E
+pool well~
+The water isn't Evian or anything, but you think you can drink it.  And
+if you dont want to drink it, you can definately swim in it!
+~
+E
+lamp~
+The lamp provides light for the room.
+~
+S
+#1460
+a T-junction~
+You stand in a room that is a junction into three hallways.  The smell of
+dirty water comes from the east, but there are wet footprints heading 
+south. To the west is yet another hallway.  You are sick of hallways,
+Gerin was an old fool!
+~
+13 9 0 1 99 0
+D1
+To the room with a pool...
+~
+~
+0 -1 1459
+D2
+To a wet hallway...
+~
+~
+0 -1 1463
+D3
+To the corner...
+~
+~
+0 -1 1462
+S
+#1461
+West Passage~
+The west passage is so named because it goes west.  It goes east too, but
+hey, you take what you get!  Oddly enough however, there is an offshoot
+passage that heads south.  Perhaps south will take you somewhere you havent
+been?
+~
+13 268435465 0 1 99 0
+D1
+Down the hall...
+~
+~
+0 -1 1437
+D2
+To the corner...
+~
+~
+0 -1 1462
+D3
+Looks awfully familiar that way...
+~
+~
+0 -1 1430
+S
+#1462
+The Corner~
+You stand within a corner that connects two passages.  The walls here are
+made of solid granite blocks that have a strange moss-like substance growing
+in between them.   The floor here too has this moss substance growing on it.
+There is however, a nice 'safe' trail that you can follow to leave either
+north or east without touching the moss.
+~
+13 268435465 0 1 99 0
+D0
+To the west passage...
+~
+~
+0 -1 1461
+D1
+To the T - junction...
+~
+~
+0 -1 1460
+E
+moss~
+The moss is green in appearance and has an extreme faint glow in the darkness.
+~
+S
+#1463
+Watery Walkway~
+You are in a hallway which is very damp and watery.  the floor and the walls
+are slippery and smell of moss.  It appears that the wetness gets worse to 
+the east.  A wooden door blocks your entrance to the west.
+There is a big sign on the door.
+~
+13 268435465 0 1 99 0
+D0
+To a junction...
+~
+~
+0 -1 1460
+D1
+To a very wet hallway...
+~
+~
+0 -1 1465
+D3
+a door with a sign on it.
+~
+door~
+13 1426 1464
+E
+door sign~
+The sign on the door reads:
+DO NOT OPEN, NO MATTER WHAT
+EXPERIMENT INSIDE!
+~
+E
+door~
+~
+S
+#1464
+Room of Sparky, the Dreaded Death Dog~
+You have entered a room with flashing lights and scientific gadgets.  Van
+de Graff generators are scattered to and from and several strange machines
+with about a billion buttons and switches are located throughout the room.
+But in the dead center, is a large table.  The table has a doggy bowl on it.
+~
+13 268435465 0 1 99 0
+D1
+nothing special...
+~
+door~
+9 1426 1463
+E
+doggy bowl~
+The doggy bowl appears to be filled with 'kibbles & bits.'  The name,
+Sparky, is painted on its side.
+~
+S
+#1465
+Watery Walkway~
+You stand ankle deep in water.  The floor appears to slope downward to the
+east. Perhaps you should watch your step when moving in that direction.
+Algae and moss cling to the sides of the walls where the water meets.  The
+stagnant smell of stale, dirty water fills your nostrils.
+~
+13 268435465 0 1 99 0
+D1
+Going deeper into the water...
+~
+~
+0 -1 1466
+D3
+To an intersection...
+~
+~
+0 -1 1463
+E
+water~
+The water is very calm if you dont move...
+~
+S
+#1466
+Knee Deep in Water~
+You stand knee-deep in water and realize that it only gets deeper to the
+east. Another 10' and for sure, you will be swimming, and not walking.
+Gerin should have put a drainage system in this damn maze!  
+~
+13 268435465 0 1 99 0
+D1
+deeper into the water...
+~
+~
+0 -1 1467
+D3
+going out of the water...
+~
+~
+0 -1 1465
+S
+#1467
+The Water Dump~
+The floor gives way and you are swimming in water.  You feel something brush-
+ing against your feet as you swim.  Its probably moat grass or some other
+plant like that.  There is a hole in the north wall that leads to dry land.
+It appears as if this hallway has sunk and that is why the water has filled
+it up.  You think that if this place had been kept up then the floor would
+be about 10' higher than it is and that this hallway would connect directly
+to the passage to the north.
+~
+13 268568585 0 1 99 6
+D0
+to dry land...
+~
+~
+0 -1 1468
+D3
+going out of the water...
+~
+~
+0 -1 1466
+D5
+down into the depths...
+~
+~
+16 -1 1469
+S
+#1468
+a Broad Hallway~
+The hallway you are in stretches out to the north.  It almosts ends to the
+south, except that if you get down on your knees you can crawl through a hole
+there. It appears as if the hallway used to stretch out to the south as
+well but that part has collapsed.  Someone has enscribed something on the
+wall here.
+~
+13 268435465 0 1 99 0
+D0
+down a broad hallway...
+~
+~
+0 -1 1470
+D2
+to the water hole...
+~
+~
+0 -1 1467
+E
+wall~
+Go north to find your fortune!
+~
+S
+#1469
+Bottom of the Water Dump~
+You are at the bottom of the water dump.  A lot of what feels like seaweed
+is down here.  There is also a whole bunch of other junk down here that
+people seem to have lost over the months.
+~
+13 268435469 0 1 99 8
+D4
+Air must be somewhere in that general direction...
+~
+~
+0 -1 1467
+S
+#1470
+a Broad Hallway~
+The hallway you are in is broad and wide.  It appears to end far to the
+south and goes to the Node to the north.  Someone has enscribed something
+on the wall here.
+~
+13 268435465 0 1 99 0
+D0
+To a familiar-looking place...
+~
+~
+0 -1 1430
+D2
+down a broad hallway...
+~
+~
+0 -1 1471
+E
+wall~
+Go south to find your fortune!
+~
+S
+#1471
+a Broad Hallway~
+The hallway you are in stretches out to the south and heads to the Node
+to the north.  It seems like the water dump should be to the south, yet
+it is not.  Where exactly are you?
+~
+13 268435465 0 1 99 0
+D0
+To the Node...
+~
+~
+0 -1 1430
+D2
+to Maze's End...
+~
+~
+0 -1 1472
+E
+wall~
+You have found your fortune!
+~
+S
+#1472
+Maze's End~
+You have reached the end of Gerin's Maze.  May you never get lost in there
+again! To the west there is a large amount of mist.
+~
+13 268435465 0 1 99 0
+D0
+down a broad hallway...
+~
+~
+0 -1 1471
+D1
+To a room filled with mist...
+~
+~
+0 -1 1473
+S
+#1473
+Hall of Mist~
+You are in a room full of some sort of magical mist.  It is impossible to 
+see 3 inches past your eyes here.  Even though the mist clouds the room you
+get the feeling that there is a passage to the north.  The mist settles on
+your face in a cool dew.
+~
+13 301989897 0 1 99 0
+D0
+nothing but mist...
+~
+~
+0 -1 1474
+D3
+To a broad hallway...
+~
+~
+0 -1 1472
+S
+#1474
+Hall of Mist~
+The hallway you are in is clouded with mist.  It is impossible to see more
+than 3 inches past your eyes, yet you somehow get the feeling that the hall
+way continues to both the north and south.  The mist settles in a wet dew
+about your body.
+~
+13 301989897 0 1 99 0
+D0
+nothing but mist...
+~
+~
+0 -1 1475
+D1
+You detect an opening to the east...
+~
+~
+16 -1 1478
+D2
+nothing but mist...
+~
+~
+0 -1 1473
+S
+#1475
+Hall of Mist~
+The hallway you are in is clouded with mist.  It is impossible to see more
+than about 3 inches past your eyes, yet somehow you get the feeling that
+the hallway continues to both the north and south.  With all this mist, you
+begin to wonder if you have moved very far at all.
+~
+13 301989897 0 1 99 0
+D0
+nothing but mist...
+~
+~
+0 -1 1476
+D1
+You detect an opening to the east...
+~
+~
+16 -1 1479
+D2
+nothing but mist...
+~
+~
+0 -1 1474
+S
+#1476
+Hall of Mist~
+The hallway you are in is clouded thick with some sort of magical mist.  It
+is impossible to see 3 inches past your eyes.  Even though the mist blankets
+the hall, you get the feeling that the passage continues to both the north
+and south.
+~
+13 301989897 0 1 99 0
+D0
+nothing but mist...
+~
+~
+0 -1 1477
+D1
+You detect an opening to the east...
+~
+~
+16 -1 1480
+D2
+nothing but mist...
+~
+~
+0 -1 1475
+S
+#1477
+Hall of Mist~
+You are in a hall that is blanketed thick with mist.  It is impossible to 
+see very far at all here, yet you detect that this is the hall's end.  You
+know that Gerin didn't design this maze for it to just end like this. 
+Perhaps you have missed something about this hallway...
+~
+13 301989897 0 1 99 0
+D1
+You detect an opening to the east...
+~
+~
+16 -1 1481
+D2
+nothing but mist...
+~
+~
+0 -1 1476
+S
+#1478
+Hall of Warriors~
+You stand within a quiet hallway.  That walls are white and clean and do not
+appear to have been disturbed.  A red carpet leads east down the hall, wel-
+coming you to the door it stops at.  The door which is about 30' away, is
+the only interesting thing in the hallway, other than the carpet perhaps.
+The door is quite large and has a great deal of scratch marks on it.  There
+is also, what appears to be, a note attached to its handle.
+~
+13 268435469 0 10 99 0
+D1
+Down a sterile white hallway with a red carpet...
+~
+~
+0 -1 1483
+D3
+To the hall of mist...
+~
+~
+0 -1 1474
+S
+#1479
+Hall of Thieves~
+You stand within a quiet hallway.  That walls are white and clean and do not
+appear to have been disturbed.  A red carpet leads east down the hall, wel-
+coming you to the door it stops at.  The door which is about 30' away, is
+the only interesting thing in the hallway, other than the carpet perhaps.
+The door is average in size, but has about 3 or 4 locks attached to the
+handle. Now how would a good thief get around this little predicament?
+~
+13 268435469 0 1 99 0
+D1
+Walking down the red carpet, approaching a door...
+~
+~
+0 -1 1482
+D3
+To the hall of mist...
+~
+~
+0 -1 1475
+S
+#1480
+Hall of Clerics~
+You stand within a quiet hallway.  That walls are white and clean and do not
+appear to have been disturbed.  A red carpet leads east down the hall, wel-
+coming you to the door it stops at.  The door which is about 30' away, is
+the only interesting thing in the hallway, other than the carpet perhaps.
+The door is large in size and is shaped so that it tapers to a point at the
+top. There appears to be a sign on the door.
+~
+13 268435469 0 1 99 0
+D1
+Down a sterile white hallway with a red carpet...
+~
+~
+0 -1 1484
+D3
+To the hall of mist...
+~
+~
+0 -1 1476
+S
+#1481
+Hall of Wizards~
+You stand within a quiet hallway.  That walls are white and clean and do not
+appear to have been disturbed.  A red carpet leads east down the hall, wel-
+coming you to the door it stops at.  The door which is about 30' away, is
+the only interesting thing in the hallway, other than the carpet perhaps.
+The door is rather small in size, and seems weak as if you could blow it
+over. A note appears to be attached to the door handle.
+~
+13 268435469 0 1 99 0
+D1
+Down a sterile white hallway with a red carpet...
+~
+~
+0 -1 1485
+D3
+To the hall of mist...
+~
+~
+0 -1 1477
+S
+#1482
+Hall of Thieves~
+You have come to the end of the hallway.  The red carpet comes to a stop
+just one inch before the door.  Now there is but one thing left to do.
+Unlock the locks, or perhaps find another way in.
+~
+13 13 0 1 99 0
+D3
+Walking down a sterile white hallway...
+~
+~
+0 -1 1479
+D5
+You have no idea what lies down.
+~
+~
+16 -1 1486
+E
+red carpet~
+The red carpet is a grand sight, but what is this?  A trap door underneath?
+~
+S
+#1483
+Hall of Warriors~
+You have come to the end of the hallway.  The red carpet comes to a stop
+just one inch before the door.  Now there is but one thing left to do.
+Look at the note of course.
+~
+13 268435469 0 1 99 0
+D1
+nothing special...
+~
+door~
+521 -1 1488
+D3
+Down a sterile white hallway...
+~
+~
+0 -1 1478
+E
+note~
+What lies behind the door is a test.  It is a test of skill and experience.
+Only the strongest and smartest will survive.  Only the best will win.  You
+have come far in your search, and the reading of this is your proof.  Do not
+be discouraged if you cannot face what lies beyond, simply get better, and
+try again next year.  -The Lord of the Tower
+~
+S
+#1484
+Hall of Clerics~
+You have come to the end of the hallway.  The red carpet comes to a stop
+just one inch before the door.  Now there is but one thing left to do.
+Look at the sign, of course.
+~
+13 268435469 0 1 99 0
+D1
+nothing special...
+You see nothing special...
+~
+~
+1545 -1 1489
+D3
+Down a sterile white hallway with a red carpet...
+~
+~
+0 -1 1480
+E
+sign~
+What lies behind the door is a test.  It is a test of skill and experience.
+Only the strongest and wizest will survive.  Only the most intuned with
+their Gods' will be able to win.  You have come far in your search, and the
+reading of this is your proof.  Do not be discouraged if you cannot face
+what lies beyond, simply get better, pray, and try again next year.
+-The Lord of the Tower
+~
+S
+#1485
+Hall of Wizards~
+You have come to the end of the hallway.  The red carpet comes to a stop
+just one inch before the door.  Now there is but one thing left to do.
+Look at the note on the door, of course.
+~
+13 268435469 0 1 99 0
+D1
+nothing special...
+~
+~
+1805 -1 1490
+D3
+Down a sterile white hallway...
+~
+~
+0 -1 1481
+E
+door~
+The door glows with a very soft magical light.
+~
+E
+note~
+What lies behind the door is a test.  It is a test of skill and experience.
+Only the strongest and wizest will survive.  Only the keen will win.  You
+have come far in your search, and the reading of this is your proof.  Do not
+be discouraged if you cannot face what lies beyond, simply get better, and
+try again next year.  -The Lord of the Tower
+~
+S
+#1486
+Thieves Alcove~
+Truly, you are a smart thief, or a lucky one!  It must have become increas-
+ingly obvious to you that the locks above cannot be opened.  At any rate,
+you are now in a small, cramped room with an exit to the east.  And to the
+east is your test!
+~
+13 268435469 0 1 99 0
+D1
+You do not know what lies ahead...
+~
+door~
+1033 -1 1487
+D4
+Up through the trap door...
+~
+trap~
+1 -1 1482
+S
+#1487
+Room of Zorvaine L'Vear~
+You stand within an elegant room.  A king-sized bed is surrounded by hand-
+crafted furniture.  Paintings adorn the walls, and a large fresco highlights
+the ceiling.  In the center of the room, a large mat exists.  It is a 30'
+radius circle.  Obviously the mat was designed for one purpose.
+~
+13 13 0 1 99 0
+D1
+Nothing too special...
+~
+door~
+13 1437 1491
+D3
+Only wimps go back...
+~
+door~
+9 -1 1486
+E
+fresco~
+The ceiling is painted entirely with a battle scene, with Zorvaine L'Vear
+being its most prominent figure.  He is depicted here standing on a wire
+fighting off about 10 opponents and smiling all the while.
+~
+E
+paintings~
+The paintings are of the beautiful Demon Goddess Draythen.  She is shown here,
+in a black lace gown that is somewhat see-thru in nature.  Her fiery red hair
+and glowing red eyes accentuate her seductiveness.
+~
+S
+#1488
+Room of Morgoth~
+You have entered the room of Morgoth, the only body guard Gerin ever really
+valued. Morgoth has a knack for resurrecting himself, and thus proved very
+useful to Gerin on many occasions.  Besides Morgoth, the room appears to be
+a comfortable and hospitable environment.  A training mat is in the far corner
+of the room, and undoubtedly, Morgoth will fight you there.
+~
+13 13 0 1 99 0
+D1
+Nothing too special...
+~
+door~
+13 1437 1491
+D3
+nothing special...
+~
+door~
+9 -1 1483
+S
+#1489
+Room of Syrilla~
+You are in a simple room.  One bed, one desk, one couch.  Everything is white.
+A pile of books are on the desk and a few are arranged near the couch.
+~
+13 13 0 1 99 0
+D1
+Nothing too special...
+~
+door~
+13 1437 1491
+D3
+nothing special...
+~
+~
+0 -1 1484
+E
+books~
+The books appear to be holy books telling of the Gods and such things like
+that.
+~
+S
+#1490
+Room of Melvus the Mage~
+The circular chamber you stand in is of a grand design, for a wizard at
+least. A large canopied bed lies snuggled against a wall.  A long, plush velvet
+couch, stands against the western wall of the chamber, along with a beauti-
+fully crafted oak desk.  Next to the desk is a black leather chair, with oak
+arm rests inlaid with ivory.  In the center of the room is a giant cauldron,
+and an experiment table with several odd looking devices on it.
+~
+13 13 0 1 99 0
+D1
+A non-descript door...
+~
+door~
+13 1437 1491
+D3
+nothing special...
+~
+~
+0 -1 1485
+S
+#1491
+Stone Hallway~
+The walls here are made up of large blocks of grey stone.  There is something
+strange about this place, the walls seem 'spirited.'  They don't move or
+anything like that, they just seem as if they are watching you.
+~
+13 268435465 0 1 99 0
+D1
+Towards the junction...
+~
+~
+0 -1 1495
+S
+#1492
+Stone Hallway~
+The walls here are made up of large blocks of grey stone.  There is something
+strange about this place, the walls seem 'spirited.'  They don't move or
+anything like that, they just seem as if they are watching you.
+~
+13 268435465 0 1 99 0
+D1
+End of the Stone Hall...
+~
+~
+0 -1 1496
+D3
+Towards the junction...
+~
+~
+0 -1 1495
+S
+#1493
+Stone Hallway~
+The walls here are made up of large blocks of grey stone.  There is something
+strange about this place, the walls seem 'spirited.'  They don't move or
+anything like that, they just seem as if they are watching you.
+~
+13 268435465 0 1 99 0
+D0
+Towards the junction...
+~
+~
+0 -1 1495
+S
+#1494
+Stone Hallway~
+The walls here are made up of large blocks of grey stone.  There is something
+strange about this place, the walls seem 'spirited.'  They don't move or
+anything like that, they just seem as if they are watching you.
+~
+13 268435465 0 2 99 0
+D2
+Towards the junction...
+~
+~
+0 -1 1495
+S
+#1495
+Stone Hallway~
+You stand withing a 4-way junction.  You may either travel north, south, east,
+or west.  All directions apparently lead to the same ol thing...a dead end.
+~
+13 268435465 0 1 99 0
+D0
+Towards a dead end...
+~
+~
+0 -1 1494
+D1
+Far down is a dead end...
+~
+~
+0 -1 1492
+D2
+Towards a dead end...
+~
+~
+0 -1 1493
+D3
+Towards a dead end...
+~
+~
+0 -1 1491
+S
+#1496
+Stone Hallway~
+The walls here are made up of large blocks of grey stone.  There appears to
+be something scribbled into one of the blocks.
+~
+13 268435464 0 1 99 0
+D3
+~
+~
+0 -1 1492
+E
+scribble block wall~
+The shape of your imprisoning chambers is your exit and your entrance.
+~
+S
+#1497
+Surrounded by Plants~
+Tall grass and weeds spring up from the thick water here.  You are completely
+enclosed by a room of plants and other foliage.  You have found a secret
+cache made by some creature, perhaps the water slaad, or maybe something
+else.
+~
+13 2097153 0 1 99 7
+D3
+A clearing is in that direction...
+~
+~
+0 -1 1404
+S
+#1498
+Secret Hallway of Thoth~
+You are in a narrow hallway that leads to the south.  A secret exit lies
+to the west.
+~
+13 268435465 0 1 99 0
+D2
+To Thoth's room...
+~
+~
+0 -1 1499
+D3
+To the Warm Zone...
+~
+~
+16 -1 1422
+S
+#1499
+Room of Thoth, Speaker of the Garbled Tongue~
+You are in what appears to be a simple, makeshift room.  A pile of hay
+appears to be a bed, while another pile of hay appears to be a chair.  There
+is a sense of 'wealth' to this room isn't there!
+~
+13 268435465 0 1 99 0
+D0
+Nothing too special...
+~
+~
+0 -1 1498
+S
+$~
+#999999

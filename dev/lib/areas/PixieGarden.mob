@@ -1,0 +1,433 @@
+#5450
+mob pixie mischevious~
+a small, mischevious pixie~
+A small, mischevious pixie peeks at you from beneath the undergrowth.
+~
+A small, mischevious pixie winks back at you from beneath the undergrowth, 
+tempting you to giggle along with the sparkle in her eyes.  This little imp 
+blends in so well with the trees that she may as well be one with them.
+~
+8264 32769 136249361 34078722 1000 S
+13 26 31 7d19+110 3d5+6
+1000 4050
+8 8 2
+6 1 10 13 14 20 7 10
+SKILL=SPELL_BLINDNESS 30
+SKILL=SPELL_CHILL_TOUCH 60
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_ENERGY_DRAIN 40
+ATTACK_SKILL=3
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=3
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#5451
+mob oak tall tree~
+a tall oak tree~
+A tall, strong oak tree stands beside the path.
+~
+A tall, noble oak tree stands beside the path.  It's strong limbs reach out 
+over your head, forming a part of the great canopy surrounding you.
+~
+67108874 1 136249361 33554440 250 S
+22 18 22 78d19+1000 4d3+6
+10400 65000
+8 8 0
+0 0 25 10 10 11 9 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#5452
+mob Powys director~
+Powys, the director of the gardens~
+From the corner, Powys sends you a warning glare.
+~
+Powys stands in the corner, watering some of his beloved plants.  He is the
+meticulous coordinator of these gardens and will not have any of his charges
+die without defending them.  Hopefully, you pose no threat to his peaceful
+existence.
+~
+12302 1 136249361 33554568 900 S
+25 15 18 10d19+950 5d5+15
+17250 75575
+8 8 1
+6 5 12 12 14 22 7 9
+SKILL=SPELL_ENERGY_DRAIN 25
+SKILL=SKILL_EXTRA_DAMAGE 45
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_SECOND 60
+SKILL=SKILL_THIRD 30
+ATTACK_SKILL=40
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#5453
+mob fungus mushroom~
+a pale fungus~
+A beautiful pale fungus sprouts from a pile of dirt.
+~
+The pale twisted fungus before you likes these dark, damp cellars.  By letting
+in the light, you have disturbed them greatly.  They could be anything to your
+untrained eye, but the powers they possess will shock you.
+~
+385034 1 136249361 33554432 0 S
+18 22 26 10d19+200 2d5+11
+3500 5455
+8 8 0
+0 0 11 10 10 11 8 10
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#5454
+mob fungus mushroom~
+a capped mushroom~
+A broad capped mushroom sits low to the ground.
+~
+The pale twisted fungus before you likes the dark, damp cellars.  By letting
+in the light, you have disturbed them greatly.  They could be anything to your
+untrained eye, but the powers they possess will shock you.
+~
+122890 1 136249361 33554432 0 S
+18 22 26 10d19+200 2d5+11
+3500 5400
+8 8 0
+0 0 12 11 10 9 7 8
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#5455
+mob fungus mushroom~
+a wall fungus~
+A spreading fungus works its way up the wall.
+~
+The pale twisted fungus before you likes the dark, damp cellars.  By letting 
+in the light, you have disturbed them greatly.  They could be anything to your
+untrained eye, but the powers they possess will shock you.
+~
+122890 1 136249361 33554432 0 S
+18 22 26 10d19+200 2d5+11
+3500 5400
+8 8 0
+0 0 11 10 11 9 9 6
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#5456
+mob dogwood tree ancient~
+an ancient dogwood~
+An ancient dogwood stands here, sheltering you with it's gnarled branches.
+~
+An ancient dogwood tree stand here, it's gnarled limbs intertwining with 
+themselves and the surrounding trees above your head.  There are small pixies
+running about, treating this tree with a special respect that confuses you at
+first.
+~
+1073750028 1 136249361 34078856 500 S
+25 15 18 10d19+1000 3d5+14
+16100 76575
+8 8 0
+0 0 25 16 17 9 7 9
+ATTACK_SKILL=70
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=104
+#5457
+mob cuka guardian~
+Cuka~
+Cuka stands here protecting the gardens from evildoers.
+~
+Cuka stands atop the gazebo and watches over these gardens day and night, making
+sure it is safe for visitors as well as the plant life that abounds here.  He
+will not tolerate any violence or disrespect for nature in his gardens, so you 
+had better watch your step around his fierce temper.
+~
+8264 32769 136249361 34078892 750 S
+28 15 11 22d19+1000 5d3+9
+26000 85000
+8 8 1
+6 4 19 11 10 9 10 9
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SKILL_HUNT 90
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#5458
+mob daffodil flower~
+a tall daffodil~
+A tall daffodil stands here marking the path.
+~
+This daffodil hybrid stands taller than the pixies playing on the terraces and
+seems to be a barrier preventing you from going onto the terraces you see to 
+either side.  The strong leaves wave in the breeze but you wouldn't want them
+raised against you in battle.
+~
+1074008078 32769 136249361 536870912 250 S
+17 23 27 6d19+200 4d5+10
+4200 5150
+8 8 0
+0 0 12 12 9 9 8 10
+SKILL=SPELL_ENERGY_DRAIN 50
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=5
+ATTACK_TYPE=104
+#5459
+mob myrna fountain~
+the fountain of myrna~
+The fountain of Myrna, watching over her domain, stands by the lake.
+~
+The fountain depicts Myrna rising out of the river to watch over all of the
+pixies of her domain.  She spreads her arms out to welcome them to her caring
+embrace to protect them from the dangers of the world.  Her flowing gown 
+shimmers about her body and gives her an ethereal grace which calms your spirit
+and your mind.
+~
+1074003978 32769 136249361 33554560 1000 S
+25 15 18 10d19+950 4d3+8
+16000 75095
+8 8 2
+6 2 11 17 17 20 7 9
+SKILL=SPELL_CHILL_TOUCH 45
+SKILL=SPELL_CURSE 40
+SKILL=SPELL_SLEEP 40
+SKILL=SPELL_HEAL_MINOR 75
+SKILL=SPELL_EARTHQUAKE 40
+ATTACK_SKILL=70
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#5460
+mob Tropomyn groundskeeper~
+Tropomyn, keeper of the gardens~
+Tropomyn, keeper of the gardens, glares at you from across the room.
+~
+Tropomyn is the groundskeeper of these gardens and he certainly looks it.  His
+pale skin reflects the fact that he spends his days below the earth with his
+tools and only goes above at night to tend to his duties.  His big, round eyes
+look like those of an insane pixie and warn you that perhaps you have made the
+wrong decision by coming down here and disturbing his peace.
+~
+1074065418 1 136249361 33554442 200 S
+23 17 21 58d19+1000 5d5+7
+7410 59500
+8 8 1
+6 0 12 14 15 22 9 8
+ATTACK_SKILL=80
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#5461
+mob pixie child ~
+a sweet child~
+A sweet child plays by the lake.
+~
+The sweet, innocent child before you is one of the few pixies capable of
+picking the fruits of the trees which line this path.  The youth is so easily 
+equated with life and health that it is difficult to imagine the cherubic youth
+in any other environment.
+~
+8 1 136249361 1073741824 1000 S
+16 24 28 3d19+200 4d5+9
+3915 4750
+8 8 1
+6 0 12 13 10 11 7 7
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#5462
+mob nannie imposing~
+the imposing nannie~
+An imposing nannie stands here guarding the children.
+~
+The nannie stands over her children, watching them carefully lest they drift too
+close to the water's edge.  She loves the children and will not tolerate anyone 
+or anything trying to harm them.  Beware if you want to try hurting them...
+~
+522 32769 136249361 33554440 500 S
+20 20 24 100d3+800 2d3+3
+5000 60000
+8 8 2
+6 4 11 15 15 20 9 8
+SKILL=SKILL_KICK 50
+SKILL=SKILL_PARRY 40
+SKILL=SKILL_HUNT 30
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#5463
+mob Anyana pitiful~
+Anyana, the spurned lover~
+Anyana stares mournfully down the cliff face.
+~
+Anyana's puffy, tear-stained eyes look back into yours with all the grief a 
+woman can know.  She waits here for death to take her, in the spot where he
+threw his life away.  Anyana's wails of grief resound through your mind and
+your heart, making you wonder how any man could have looked for a stony death
+bed instead of her embrace.
+~
+8202 32769 136249361 33554568 800 S
+23 17 21 9d9+900 3d5+13
+12610 68750
+8 8 2
+6 2 11 14 17 19 8 6
+SKILL=SPELL_HAIL_STORM 60
+SKILL=SPELL_HEAL_MINOR 60
+SKILL=SPELL_EARTHQUAKE 60
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#5464
+mob vrach statue healer~
+a statue of Vrach~
+A statue of Vrach, great pixie healer of lore, stands before you.
+~
+A statue of Vrach, great pixie healer stands before you.  This tribute to his
+well-known powers takes on a life of its own thanks to the spirit of the pixies
+who created the sculptures.
+~
+10 32769 136249361 33554568 700 S
+23 17 21 9d9+900 3d5+15
+13000 68500
+8 8 1
+6 2 11 15 16 22 10 10
+SKILL=SPELL_HAIL_STORM 40
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_EARTHQUAKE 40
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#5465
+mob cyna statue healer~
+a statue of Cyna~
+A statue of Cyna, great pixie healer of lore, stands before you.
+~
+A statue of Cyna, great pixie healer stand before you.  This tribute to her
+well_known powers takes on a life of its own thanks to the spirit of the pixies
+who created the sculptures.
+~
+10 32769 136249361 33554568 700 S
+23 17 21 9d9+900 3d5+15
+13000 68500
+8 8 2
+6 2 12 15 16 22 7 8
+SKILL=SPELL_HAIL_STORM 40
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_EARTHQUAKE 40
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#5466
+mob Grynger statue warrior~
+a statue of grynger~
+A statue of Grynger, great pixie warrior of lore, stands here.
+~
+A statue of Grynger stands here, reminding you of the challenge of becoming a
+great pixie warrior.  Pixies such as him overcame the challenges of his race
+to rule worlds and drive evil from great domains.  His stories are chronicled
+in the base of this statue.
+~
+8202 32769 136249361 33554568 700 S
+23 17 21 9d9+900 3d5+15
+13000 68500
+8 8 1
+6 4 12 13 14 21 8 7
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_HUNT 50
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#5467
+mob Soma statue warrior~
+a statue of soma~
+A statue of Soma, great pixie warrior of lore, stands here.
+~
+A statue of Soma stands here, reminding you of the challenge of becoming a
+greate pixie warrior.  Pixies such as her overcame the challenges of her race
+to rule worlds and drive evil from great domains.  Her stories are chronicled
+in the base of this statue.
+~
+8202 32769 136249361 33554568 700 S
+23 17 21 9d9+900 3d5+15
+13000 68500
+8 8 2
+6 4 12 13 14 21 8 6
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_HUNT 50
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#5468
+mob Darit statue mage~
+a statue of Darit~
+A statue of Darit, great pixie mage of lore, stands here.
+~
+A statue of Darit, great pixie mage stands before you.  His stony glare makes
+you tremble to imagine the fireballs he has thrown.  This tribute to his well-
+known powers takes on a life of its own thanks to the spirit of the pixies who
+created the sculpture.
+~
+10 32769 136249361 33554568 700 S
+23 17 21 9d9+900 3d5+15
+13000 68500
+8 8 1
+6 1 11 17 18 23 9 9
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#5469
+mob Darya statue mage~
+a statue of Darya~
+A statue of Darya, great pixie mage of lore, stands here.
+~
+A statue of Darya, great pixie mage stands before you.  Her stony glare makes
+you tremble to imagine the fireballs she has thrown.  This tribute to her well-
+known powers takes on a life of its own thanks to the spirit of the pixies who
+created the sculptures.
+~
+10 32769 136249361 33554568 700 S
+23 17 21 9d9+900 3d5+15
+13000 68500
+8 8 2
+6 1 11 17 18 23 9 8
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+$~
+#999999

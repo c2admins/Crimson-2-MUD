@@ -99,7 +99,7 @@ const char *skill_names[] = {
 	"forage",		/* 181 */
 	"stab",			/* 189 */
 	"switch opponent",	/* 191 */
-	"circle attack",	/* 200 */
+	"trip",	   /* 200 */
 	"taunt",		/* 201 */
 	"charge",		/* 202 */
 	"airwalk",		/* 203 */
@@ -310,7 +310,7 @@ const char *spell_names[] = {
 	"granite fist",		/* 197 */
 	"prayer",		/* 198 */
 	"elemental shield",	/* 199 */
-	"circle attack",	/* 200 */
+	"trip",	/* 200 */
 	"taunt",		/* 201 */
 	"charge",		/* 202 */
 	"airwalk",		/* 203 */
@@ -534,7 +534,7 @@ const char *sk_sp_defines[] = {
 	"SPELL_GRANITE_FIST",
 	"SPELL_PRAYER",
 	"SPELL_ELEMENTAL_SHIELD",
-	"SKILL_CIRCLE_ATTACK",
+	"SKILL_TRIP",
 	"SKILL_TAUNT",
 	"SKILL_CHARGE",
 	"SKILL_AIRWALK",
@@ -759,7 +759,7 @@ const char *spell_wear_off_msg[] = {
 	"!SPELL_GRANITE_FIST!",
 	"The affects of your prayer wear off.",
 	"You are no longer protected from the elements.",
-	"!SKILL_CIRCLE_ATTACK!",/* 200 */
+	"!SKILL_TRIP!",/* 200 */
 	"!SKILL_TAUNT!",	/* 201 */
 	"!SKILL_CHARGE!",   /* 202 */
 	"Your tiny wings are stressed out and you float to the ground.",	/* 203 */
@@ -1260,6 +1260,7 @@ const char *exit_bits[] = {
 	"NO_MOBS_IN_ROOM",
 	"PHASEPROOF",
 	"BASHPROOF",
+	"TRIPPROOF",
 	"\n"
 };
 

@@ -1,0 +1,1709 @@
+#1200
+&BThe Depths of the Moat&n~
+&cYou dive under the dark waters and begin to swim towards the bottom of the moat. Its really 
+cold down here and your lungs begin to burn with a lust for fresh air. You finally reach the 
+bottom of the moat and begin to grope about in the mucky soil. Your hands brush over a smooth 
+object that seems to be protruding from the ground.&n
+~
+14 269615109 0 1 99 0
+D4
+On the moat.
+~
+~
+0 -1 1238
+E
+chair~
+Dont look at me. Please. :)
+~
+S
+#1201
+&yThe Gnarled Drawbridge&n~
+The gnarled wood of the drawbridge groans under your weight as you peer
+into the murky waters below. You begin to wonder if approaching this castle
+was such a good idea. Your skin crawls as you hear a noise from the water.
+~
+14 1048580 0 1 99 1
+D0
+The castle lies north.
+~
+~
+0 -1 1206
+D1
+The gnarled drawbridge.
+~
+~
+0 -1 1202
+D5
+In the moat.
+~
+~
+16 -1 1203
+S
+#1202
+&yThe Gnarled Drawbridge&n~
+The gnarled wood of the drawbridge groans under your weight as you peer
+into the murky waters below. You begin to wonder if approaching this castle
+was such a good idea. Your skin crawls as you hear a noise from the water.
+~
+14 1048576 0 1 99 0
+D0
+Into the castle
+~
+~
+0 -1 1206
+D1
+~
+~
+0 -1 1252
+D3
+The gnarled drawbridge.
+~
+~
+0 -1 1201
+S
+#1203
+&BIn the Moat&n~
+&cYou carefully lower yourself into the icy waters of the moat. The water quickly soaks into 
+your clothing and dampens your spirits. Small slimey bodies brush against your legs setting your 
+legs setting your nerves on edge... &Y*BUMP*&c... that one felt much bigger than the rest....&n
+~
+14 269484032 0 1 99 1
+D1
+Ewwwwww...
+~
+~
+0 -1 1204
+D3
+The moat continues.
+~
+~
+0 -1 1238
+D4
+On the gnarled drawbridge.
+~
+~
+0 -1 1201
+S
+#1204
+The haven of the killer eels.~
+You slowly wade into what you believed to be a reasonably calm area of the moat. You could have 
+not been any further from the truth. Without warning the water about you erupts into a frenzy of 
+small flailing bodies of what seems like hundreds of small eels. They wrap their electrically 
+charged bodies about your desperately thrashing form and drag you down to the depths below. The
+buzz of electricity fills your ears and the stench of burning flesh enters your nose. Your 
+sizzling corpse drops to the ground and the last thing that your brain registers before it 
+explodes is the bright glow of your hearts greatest desire coming from the room to the east.
+~
+14 1048578 0 1 99 1
+D1
+To the water snake.
+~
+~
+0 -1 1205
+D3
+Back out of the nasty DT
+~
+~
+0 -1 1203
+S
+#1205
+&YThe Treasure Room&n~
+Treasure your moments in this room, because the only way you could have got
+in here is by Immortal Intervention!
+~
+14 2014576752 1879048192 1 99 1
+D3
+In the Desert.
+~
+~
+0 -1 1204
+S
+#1206
+&wThe Entry hall&n~
+The weathered old doors of the hall give way to your blows and opens the castle to your eyes. 
+Ahead of you is a hallway with doors to the east and west. The hall you are standing in now 
+shows massive signs of destruction almost as if some kind of massive fire had engulfed the room.
+~
+14 269484040 0 30 99 1
+D0
+Into the castle.
+~
+~
+0 -1 1207
+D2
+The gnarled drawbridge lies south.
+~
+~
+0 -1 1202
+S
+#1207
+&KThe Great Hall&n~
+This must be the main hall of the once great castle. Tapestries line the hall but they look 
+burned and tattered. Looking closer you see that the stone on the walls has been burned as well. 
+It must have been a very powerful fire that burned and charred this place.
+~
+14 269484040 0 1 99 1
+D0
+The northern end of the Great Hall.
+~
+~
+0 -1 1210
+D1
+Some kind of office.
+~
+~
+0 -1 1209
+D2
+To the entry way.
+~
+~
+0 -1 1206
+D3
+A small libary.
+~
+~
+0 -1 1208
+S
+#1208
+&yA Small Library&n~
+These books must be the private collection of the owner of the castle. All the walls of the 
+small room are lined with bookcases. There is a small table in the center of the room and a 
+comfy looking chair to sit on as you read.
+~
+14 269484040 0 1 99 1
+D1
+Back to the hall.
+~
+~
+0 -1 1207
+S
+#1209
+&wThe Sword Room&n~
+This is the room where the guests of the castle leave their weapons. Being inside, there is no
+need to worry about any 'danger' so they trust their swords to Briam, who looks after them 
+during their stay. One sword in particular catches your eye.
+~
+14 269484040 0 1 99 1
+D3
+The Great Hall.
+~
+~
+0 -1 1207
+S
+#1210
+&KThe Great Hall&n~
+This must be the main hall of the once great castle. Tapestries line the hall but they look 
+burned and tattered. Looking closer, you see that the stone on the walls has been burned as 
+well. Its must have been a very powerful fire that burned and charred this place.
+~
+14 269484040 0 1 99 1
+D0
+Away from the main hall.
+~
+~
+0 -1 1218
+D1
+The tapestry hangs on the wall.
+~
+~
+16 -1 1212
+D2
+The southern end of the great hall.
+~
+~
+0 -1 1207
+D3
+Turakah's room.
+~
+~
+0 -1 1211
+S
+#1211
+&wTurakah's Room&n~
+This is the room of Turakah, once of the few remaining live knights of the castle. Being a 
+simple man, the room only contains a writing desk, a chair to sit at and a small bed with a 
+window looking to the west. You notice that even though it is day outside, it seems very dark 
+and gloomy through the window.
+~
+14 269484040 0 1 99 1
+D1
+Back to the main hall.
+~
+~
+0 -1 1210
+S
+#1212
+&KThe Secret Escape&n~
+Behind the tapestry is a small passage, covered in dust!
+~
+14 269484040 0 1 99 1
+D1
+Further along the passage
+~
+~
+0 -1 1213
+D3
+Back to the main hall.
+~
+~
+0 -1 1210
+S
+#1213
+&KAlong a &wDusty &KPassage&n~
+This must be some kind of secret passage, but the dusty conditions show it has not been used for 
+years.
+~
+14 269484040 0 1 99 1
+D0
+You are not sure if it is safe...
+~
+~
+16 -1 1220
+D1
+A corner in the passage.
+~
+~
+0 -1 1214
+D3
+Back near the hall
+~
+~
+0 -1 1212
+S
+#1214
+&KA Turn in the Passage&n~
+This passage sets all of your nerves on edge, the air has a deathly chill to it. There is a 
+light emitting from the south and you hope it is a  friendly kind of light, and not one that 
+will spell your doom.
+~
+14 269484040 0 1 99 1
+D2
+Some sort of cell.
+~
+~
+0 -1 1215
+D3
+Back along the passage.
+~
+~
+0 -1 1213
+S
+#1215
+&KThe End of the Passage&n~
+The passage ends here, branching off into two rooms. The doors on the rooms look strong and 
+unfortunately, they are both locked. You wonder what might be so terrible that it needs to be 
+confined down here. You get a bad feeling about the cell to the west of you.
+~
+14 269484040 0 1 99 1
+D0
+Back to the passage.
+~
+~
+0 -1 1214
+D1
+Into a cell.
+~
+door~
+13 1202 1216
+D3
+Into a cell.
+~
+door~
+13 1203 1217
+S
+#1216
+&KA Cell&n~
+This is just your plain prison cell. One bed, one window, one floor.
+~
+14 269484040 0 1 99 1
+D3
+The end of the passage.
+~
+door~
+13 1202 1215
+S
+#1217
+&KA Cell&n~
+This would have to be the finest cell you have ever seen. The magic surrounding the cell 
+prevents you from moving, and there are no exits to the room. Looks like you are stuck.
+~
+14 1880096776 268435456 1 99 1
+S
+#1218
+&wNorth of the &KGreat Hall&n~
+The Great Hall closes a little, into a smaller hall formin an 'L' shape. This part of the castle 
+looks less burnt by the great fire, but signs of aging are still present.
+~
+14 269484040 0 1 99 1
+D2
+The northern end of the Great Hall.
+~
+~
+0 -1 1210
+D3
+Along the small hallway.
+~
+~
+0 -1 1219
+S
+#1219
+&wThe Northern Hallway&n~
+This part of the castle looks important, like it is one of the main carriage ways for people in 
+the castle. Unfortunately for you, the way north is locked.
+~
+14 269484040 0 1 99 1
+D0
+A flash look hallway.
+~
+door~
+13 1206 1235
+D1
+The eastern end of the hallway.
+~
+~
+0 -1 1218
+D3
+the west end of the hallway.
+~
+~
+0 -1 1221
+S
+#1220
+&KAn Alcove&n~
+Pushing on the north wall reveals a small hidden room. Spiders crawl about the floor and there 
+is an odd taint to the air.
+~
+14 269484040 0 1 99 1
+D2
+Back the the passage
+~
+~
+0 -1 1213
+S
+#1221
+&wEnd of the Hallway&n~
+The air at the end of the hallway gives you the creeps. You hear faint muffled whispers from 
+behind the south door, but unfortunatly it is locked.&n
+~
+14 269484040 0 1 99 1
+D0
+The keymasters room.
+~
+~
+0 -1 1222
+D1
+The center of the nother hallway.
+~
+~
+0 -1 1219
+D2
+Down the stairs.
+~
+door~
+13 1205 1223
+S
+#1222
+&wRoom of the &rKeymaster&n~
+The walls of this room are littered with keys, each with its own little tag. The Keymaster is 
+entrusted with keeping all the keys in order, and making sure that only those who need the keys 
+have them. As you dont seem to "need" any of the keys you doubt that he will supply you with 
+any, in fact, you doubt he will even let you leave the room alive!
+~
+14 269484040 0 1 99 1
+D2
+Back to the hall.
+~
+~
+0 -1 1221
+S
+#1223
+&wEntrance to the &KDungeon&n~
+The musty smell of decay and dead rotting bodies invades your nostrils as you walk through the 
+doorway. The tortured screams from the captives below rings in your ears like a blood sucking 
+fly that wont go away. You want to turn back before its too late.
+~
+14 269484040 0 1 99 1
+D0
+The hallway.
+~
+door~
+13 1205 1221
+D3
+The Guards room.
+~
+~
+0 -1 1224
+D5
+down to the dungeon.
+~
+~
+0 -1 1225
+S
+#1224
+&wThe Guards Room&n~
+This is the room of one of the sloppier residents of the keep. Dirty clothing and dishes lay 
+strewn across the floor and the guard lays asleep at the table. If it weren't for the unlocked 
+door and sword on the guard, you might think this was a cell, not a guards room.
+~
+14 269484040 0 1 99 1
+D1
+The dungeoon enterance.
+~
+~
+0 -1 1223
+S
+#1225
+&KThe Dungeon&n~
+Built from stone, this dungeon looks formidable in its capacity to withstand any escape attempt. 
+But something about this place isn't right. Maybe its the fact the rats have a strange red glow 
+in their eyes as they size you up for dinner!
+~
+14 269484040 0 1 99 1
+D3
+The dungeon continues.
+~
+~
+0 -1 1226
+D4
+Back to the upper level.
+~
+~
+0 -1 1223
+S
+#1226
+&KThe Dungeon&n~
+Built from stone, this dungeon looks formidable in its capacity to withstand any escape attempt. 
+But something about this place isn't right. Maybe its the fact the rats have a strange red glow 
+in their eyes as they size you up for dinner!
+~
+14 269484040 0 1 99 1
+D1
+The dungeon.
+~
+~
+0 -1 1225
+D2
+A cell.
+~
+door~
+13 1205 1227
+D3
+The dungeon continues.
+~
+~
+0 -1 1228
+S
+#1227
+&KA Cell&n~
+This is just your plain prison cell, one bed, one window, one floor. You search around for a 
+hidden exit, nope, nothing.
+~
+14 269484040 0 1 99 1
+D0
+The dungeon.
+~
+~
+13 -1 1226
+S
+#1228
+&KThe Dungeon&n~
+Built from stone, this dungeon looks formidable in its capacity to withstand any escape attempt. 
+But something about this place isn't right. Maybe its the fact the rats have a strange red glow 
+in their eyes as they size you up for dinner!
+~
+14 269484040 0 1 99 1
+D0
+A cell.
+~
+door~
+13 1205 1230
+D1
+the dungeon
+~
+~
+0 -1 1226
+D2
+A cell.
+~
+door~
+13 1205 1229
+D3
+The dungeon continues.
+~
+~
+0 -1 1231
+S
+#1229
+&KA Cell&n~
+This is just your plain prison cell, one bed, one window, one floor. You search around for a
+hidden exit, nope, nothing.
+~
+14 269484040 0 1 99 1
+D0
+Back to the dungeon.
+~
+door~
+13 1205 1228
+S
+#1230
+&KA Cell&n~
+This is just your plain prison cell, one bed, one window, one floor. You search around for a
+hidden exit, nope, nothing.
+~
+14 269484040 0 1 99 1
+D2
+Back to the dungeon.
+~
+door~
+13 1205 1228
+S
+#1231
+&KThe Dungeon&n~
+Built from stone, this dungeon looks formidable in its capacity to withstand any escape attempt. 
+But something about this place isn't right. Maybe its the fact the rats have a strange red glow 
+in their eyes as they size you up for dinner!
+~
+14 269484040 0 1 99 1
+D0
+A cell.
+~
+door~
+13 1205 1233
+D1
+the dungeon.
+~
+~
+0 -1 1228
+D2
+A cell.
+Sweet smells of food waft from the south.
+~
+door~
+13 1205 1232
+D3
+Umm, err, well, I wouldnt if I were you ;)
+~
+~
+0 -1 1234
+S
+#1232
+&KA Cell&n~
+This is just your plain prison cell, one bed, one window, one floor. You search around for a
+hidden exit, nope, nothing.
+~
+14 269484040 0 1 99 1
+D0
+The dungeon.
+~
+door~
+13 1205 1231
+D2
+It smells very sheepish this way.
+~
+~
+16 -1 1245
+S
+#1233
+&KA Cell&n~
+This is just your plain prison cell, one bed, one window, one floor. You search around for a
+hidden exit, nope, nothing.
+~
+14 269484040 0 1 99 1
+D2
+The dungeon.
+~
+door~
+13 1205 1231
+S
+#1234
+&wA Comfy Looking Room&n~
+Never thought you would be brutally killed by a chair did you? Guess again.
+~
+14 1048586 0 1 99 1
+S
+#1235
+&wThe Guarded Hall&n~
+The hall you have entered looks as though, once, before the terrible fire, was very heavily 
+guarded. You see various guard posts on either side of the hall and notice blackened fire burned 
+bones laying on several of these posts. There are decoration shields on the walls and you see 
+several coat of arms depicting a single blackened rose on its surface.
+~
+14 269484040 0 1 99 1
+D0
+The guarded Path.
+~
+~
+0 -1 1236
+D2
+~
+door~
+15 1205 1219
+S
+#1236
+&wThe Well Trodden Path&n~
+The grand hallway continues further up the hall but to the west you see a break in its surface.
+A very slight walkway branches off and although it is very dark down the passage, you doubt it 
+goes in very deeply. You wonder what could be down there....
+~
+14 269484040 0 1 99 1
+D0
+The path continues.
+~
+~
+0 -1 1239
+D2
+The guarded Path.
+~
+~
+0 -1 1235
+D3
+~
+~
+0 -1 1237
+S
+#1237
+&KThe Guards Nook&n~
+Just as you thought, the small walkway does not go much further before you find that it comes to 
+a dead end. Unfortunately, the dead end is currently being used to house several of the castles 
+dead, now UNDEAD guards. You find yourself wishing you had not called the passageway a dead end.
+~
+14 806354952 0 1 99 1
+D1
+The path to the upper level.
+~
+~
+0 -1 1236
+S
+#1238
+&bDark Water of the Moat&n~
+&BThe dark waters lap at your skin as you slowly wade through the moat. You find that the water 
+is getting deeper and that you now need to swim.&n
+~
+14 269484032 0 1 99 1
+D1
+In the moat.
+~
+~
+0 -1 1203
+D5
+the murkey waters scare you.
+~
+~
+16 -1 1200
+S
+#1239
+&wThe Guarded Path&n~
+The hall continues on stretching down the hall, the walls themselves seeming to emit gloom and 
+despair making your shoulders slump.&n
+~
+14 269484040 0 1 99 1
+D1
+towards the stairs.
+~
+~
+0 -1 1240
+D2
+The guarded Path.
+~
+~
+0 -1 1236
+S
+#1240
+&wThe Guarded Path&n~
+The hall continues to the east, its gloom pressing down on you causing your mind to waver and 
+urge you back to a place of safety. You notice something scrawled on the wall in blood.
+~
+14 269484040 0 1 99 1
+D1
+the base of the stairs.
+~
+~
+0 -1 1241
+D3
+Back to the path.
+~
+~
+0 -1 1239
+E
+wall~
+Show your respect to the dead, for you are bound to join them one day
+~
+S
+#1241
+&wAt the base of a &ystairwell&n~
+The corridor ends and is replaced by a rickety set of stairs that lead up to the next floor of 
+the keep. The stairs do not look safe to you, and you find yourself wondering if you should
+continue...
+~
+14 269484040 0 1 99 1
+D3
+Away from the stairs.
+~
+~
+0 -1 1240
+D4
+Up the stairs
+~
+~
+0 -1 1242
+S
+#1242
+&yThe Stairwell&n~
+The stairs seem to go on forever. Looking down your head begins to spin as you see how far you 
+have already climbed and as the first feelings of vertigo enter your mind. You reach out and 
+clasp the rail as you continue on.
+~
+14 269484040 0 1 99 1
+D4
+A landing.
+~
+~
+0 -1 1243
+D5
+The base of the stairs.
+~
+~
+0 -1 1241
+S
+#1243
+&yNear the Top of the Stairs&n~
+The stairs continue to climb towards the sky, but you think you can see their end a ways more 
+up. Dust covers the rotten stairs and they creak as you make your way up, making you cling to 
+the rail that much harder.
+~
+14 269484040 0 1 99 1
+D4
+the second level.
+~
+~
+0 -1 1244
+D5
+the stairs.
+~
+~
+0 -1 1242
+S
+#1244
+&yTop of the Battered Stairway&n~
+You are standing at the top of a large set of rotting stairs that seems to have a downward 
+spiral. The room itself is in bad disrepair much like the rest of the castle. There seems to be 
+some sort of large hall to the north and it shows its neglect of the ages.
+~
+14 269484040 0 1 99 1
+D0
+A hallway.
+~
+~
+0 -1 1246
+D5
+The stairs.
+~
+~
+0 -1 1243
+S
+#1245
+&KThe Evil Room of Gite&n~
+The stench from this room overwhelms you as you first enter. The odor of countless, rotting, 
+smoldering corpses fills your nose and invades your mind You head begins to reel and you find 
+yourself on the ground amongst the decay of the room. You peer though tear-filled eyes to see 
+what could have caused such destruction, but all you can see is a small goat tied to the wall
+munching on something...
+~
+14 269484040 0 1 99 1
+D0
+Back to the cells.
+~
+~
+0 -1 1232
+S
+#1246
+&wThe Southern Intersection&n~
+Flecks of paint peel off the charred walls and cobwebs tangle their way across the ceiling. The 
+gloomy hall continues to the north and east.
+~
+14 269484040 0 1 99 1
+D0
+the hallway continues.
+~
+~
+0 -1 1247
+D1
+~
+~
+0 -1 1251
+D2
+Near the stairs.
+~
+~
+0 -1 1244
+D3
+blah blah blah
+~
+~
+0 -1 1253
+S
+#1247
+&wThe North Hallway&n~
+In this section of the hallway the banshee's have tormented a poor warrior, pulling his legs and 
+arms off while he still lived. The wretched body lays still now, his withered face and mouth 
+open screaming in pain. You quietly pay your respects and move on, quickly.
+~
+14 269484040 0 1 99 1
+D0
+The end of this hallway.
+~
+~
+0 -1 1248
+D2
+The hallway conthinues.
+~
+~
+0 -1 1246
+S
+#1248
+&wThe North Hallway&n~
+The hall continues to twist its way to the north and south, to the east is what seems to be a 
+small door that is clinging to its rusted aged hinges, but only just. To the west the doorway is 
+open and a rotten oak door lays on the floor at its opening.
+~
+14 269484040 0 1 99 1
+D0
+edit
+~
+~
+0 -1 1257
+D1
+~
+oak door~
+9 0 1249
+D2
+Bak along the hallway.
+~
+~
+0 -1 1247
+D3
+~
+~
+0 -1 1250
+S
+#1249
+&yThe Study&n~
+This room looks like it was once the main study of the castle. The walls are lined with rotting 
+books all written in some language you are unable to understand. There is a small window in the 
+north wall and from it streams a beam of sunlight that settles on the ground before you.
+~
+14 269484040 0 1 99 1
+D2
+edit
+~
+~
+16 -1 1256
+D3
+~
+oak door~
+9 0 1248
+S
+#1250
+&wMikel's Chamber&n~
+Sir Mikel's chamber bears the scars of his rage. The walls painted with slash marks, thick black 
+blood is splattered on the walls in places where Mikels rage has been taken out on another 
+innocent victim. You hope you are not next.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1248
+S
+#1251
+&wThe East Hallway&n~
+This part of the hallway is blackened, like the light is frightened to shine here.The walls and 
+floor seem sickly warm, and the feeling of being watched eminates.
+~
+14 269484040 0 1 99 1
+D1
+~
+door ~
+9 0 1281
+D3
+~
+~
+0 -1 1246
+S
+#1252
+&GOvergrown Gardens&n~
+You have entered what you gather to be the gardens of the old castle. It has long ago lost its 
+beauty, and is now overgrown and quite sinister. The flowers seem to sneer at you with malice, 
+and the vines snake around your legs causing you to stumble as you walk.
+~
+14 1048584 0 1 99 1
+D0
+~
+~
+0 -1 1291
+D1
+~
+~
+0 -1 1290
+D3
+~
+~
+0 -1 1202
+S
+#1253
+&wThe West Hallway&n~
+A sooty window stares out to the castle grounds. Light should be shining in through the window, 
+but if it is, it fails to reach the ground. A small rodent skeleton crunches under your feet as
+you step back avoiding a thread of cobweb floating for your face.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1246
+D3
+edit
+~
+~
+0 -1 1254
+S
+#1254
+&wThe West Hallway&n~
+The passage continues to the east and west. To the south you see a passage that looks as if it 
+was once very heavily guarded. Further up along the passage you notice several statues.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1253
+D2
+~
+~
+0 -1 1259
+D3
+You see nothing special.
+~
+~
+0 -1 1255
+S
+#1255
+&wThe West Hall&n~
+The hallway leads to the east and west, several burnt out torches line the scorched walls.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1254
+D3
+~
+~
+0 -1 1263
+S
+#1256
+&KCaradoc's Private Room&n~
+To your surprise this room does not contain any of the dust and rubble that is present in the 
+rest of the castle. The only things of note in the room is the skeleton that is laying in the 
+center of the room and the large painting that depicts a battle between two different elven 
+tribes and a small window in the east wall.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1249
+S
+#1257
+&wThe North Hallway&n~
+The stone floor in this section of the castle is potted with holes. Upon examination, you find 
+that the holes are actually where something or someone with great magic has actually burned 
+holes in the stone. You hope that the next target for their powers will not be your heart.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1258
+D2
+~
+~
+0 -1 1248
+S
+#1258
+&wThe Northern Intersection&n~
+You hear footsteps to your west, and wonder friend of foe. The footsteps stop, and the only 
+sound to be heard is the beating of your heart.  Is this the calm before the storm?
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1272
+D2
+~
+~
+0 -1 1257
+D3
+~
+~
+0 -1 1267
+S
+#1259
+&wOnce Guarded Hallway&n~
+Two guards would have once stood here. One of the left, and one on the right, protectors of what
+is good and pure.They would have been tall proud men, with familys, perhaps children. Now thier 
+bones are left to rot on the ground. You wonder if their wives died of grief, or if their
+children survived the long cold winter after the great fire, or whether the wolves that you can 
+hear howling came for them while they slept.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1254
+D2
+~
+~
+0 -1 1260
+S
+#1260
+&wOnce Guarded Hallway&n~
+A torch holder still hangs on the wall, the ashes and drippings of oil still lay on the ground, 
+distinguishable from the dust that has settled. Even without the torch, the walls seem to glow, 
+but it is not a healthy glow, it is a cold undead glow, like the hand of a skeleton reaching out 
+to suck your life.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1259
+D1
+~
+~
+0 -1 1282
+D3
+~
+oak door~
+9 0 1261
+S
+#1261
+&yMess Hall&n~
+Benches, tables, chairs lay thrown about the room, like some unholy force has shaken this room
+like a baby would its rattle. Mugs and other crockery are scattered in pieces, like a meal was 
+being eaten at the time of the disaster. Rats have cleaned the floor of anything worth eating,
+but perhaps they shall return once your corpse is rotting and attracting flies.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1262
+D1
+~
+oak door~
+9 0 1260
+S
+#1262
+&yMess Hall&n~
+This is where the Knights, Soldiers and Guards used to come to feed their starving bellys. You 
+can imagine the companionship, the heart-felt discussions and friendly greetings that would have 
+gone here. Now, of course, the only thing that is hungered for in here is the warmth of the 
+living.
+~
+14 269484040 0 1 99 1
+D2
+~
+~
+0 -1 1261
+S
+#1263
+&wEnd of the Hall&n~
+Here the passage comes to an end. There are two doors here, one to the north and a rather solid 
+door to the south.
+~
+14 269484040 0 1 99 1
+D0
+~
+oak door~
+9 0 1264
+D1
+~
+~
+0 -1 1255
+D2
+~
+oak door~
+9 0 1265
+S
+#1264
+&wTyron's Chamber&n~
+A pile of bones lay in the corner, thier while color stark contrast the the blackened color of 
+he walls and floor. There is not a drop of blood, a scrap of flesh left on any of the bones, 
+like someone has taken the time to clean them all, preserving the sanctity of the skeleton. 
+Maybe it was Tyron, who is about to slash you in two, who collected them.
+~
+14 269484040 0 1 99 1
+D2
+~
+oak door~
+9 0 1263
+S
+#1265
+&KNarrow Passage&n~
+This passage is extremely narrow making it impossible for more than one person at a time to 
+navigate. You wonder what lays at the end.
+~
+14 269484296 0 1 99 1
+D0
+~
+oak door~
+9 0 1263
+D2
+~
+~
+0 -1 1266
+S
+#1266
+&YTreasure &wRoom&n~
+You have entered into what seems to be the mian treasure room of the castle. From the looks of 
+it, it does not contain the wealth that it once did but several trinkets catch your eye from 
+their positions beneath the rubble. There is also several corpses laying among the treasure, it 
+looks as though the greedy inhabitants of the castle fled here to collect the treasure just 
+before doom struck.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1265
+S
+#1267
+&wA Hallway&n~
+East to doom. West to doom. Your path seems grim. Your only thought is that you hope the Sould 
+Hunters show mercy on your soul when they come to feast upon your remains.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1258
+D3
+~
+~
+0 -1 1268
+S
+#1268
+&wA Hallway&n~
+Time seems distorted in this place, like you are caught between the ticks of a clock.
+
+&RTick.&B
+
+Shadowy figures seem to move in the darkness.
+
+&RTock.&B
+
+The chill of the undead fills your lungs.
+
+&RTick.&B
+
+You might live for now.
+
+&RTock.&B
+
+But you will die in the end.&n
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1267
+D3
+~
+~
+0 -1 1269
+S
+#1269
+&wA Hallway&n~
+The hallway comes to and end, with a door to the south. The wood of the door is burnt and 
+cracked, like that of a log in a campfire. Perhaps whoever was behind this door did not get out
+in time, dying, screaming, in pain, their body twisting and contorting, trying to escape the 
+searing flames. Perhaps the fire let them survive, leaving them to lay on the floor, dying a 
+horrible slow and painful death as they starved to death, chewing off their own tounge in a 
+painful grasp for survival, hoping to live till their savior arrived. Perhaps long after the 
+fire subsided, they welcomed death as a cold but comforting friend.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1268
+D2
+~
+oak door~
+9 0 1270
+S
+#1270
+&KNathan's Chamber&n~
+Nathan's room is roofless, looking up onto the stars. You wish that you didnt feel so helpless 
+looking up at the stars, didnt feel so small and insignificant. Death perhaps will relieve you 
+of these feelings, you consider dropping your guard, letting Nathan simply slice you in two. 
+
+Wait! This cant be right! You must be under a spell!
+~
+14 269484040 0 1 99 1
+D0
+~
+oak door~
+9 0 1269
+D2
+~
+~
+16 -1 1271
+S
+#1271
+&KHidden Room&n~
+You stumble through a fake wall! And almost fall through a hole in the floor to your doom upon a
+spiked pit. It looks like lady luck has smiled upon you briefly and allowed ytou to live...for
+now.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1270
+S
+#1272
+&wA Hallway&n~
+Warm feelings fill your body, like a hot blade slicing through your skin as you walk along the 
+hall. Hidden feelings of fear, distress and helplessness surface again, forcing you to cower 
+against the wall. You just want to go home.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1273
+D2
+~
+hidden~
+31 1226 1297
+D3
+~
+~
+0 -1 1258
+S
+#1273
+&wA Hallway&n~
+Apart from the sickly smell of a rotting corpse filling this section of the hallway, it appears 
+untouched by the destruction.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1274
+D3
+~
+~
+0 -1 1272
+S
+#1274
+&wA Hallway&n~
+Set away in a small niche here is a small cradle of water. The water probably served some 
+religious purpose in the past, like holy water. Now a dead rat floats in the water, its stinking
+rotting corpse fouling the water. It must have drowned while trying to quench its thirst, or
+perhaps it too saw death as the only way out.
+~
+14 269484040 0 1 99 1
+D2
+~
+~
+0 -1 1275
+D3
+~
+~
+0 -1 1273
+S
+#1275
+&wA Hallway&n~
+The door to the east shudders as you approach, and dust falls to the floor from cracks in the 
+wood. A shadow can be seen from under the door, before the light fades.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1274
+D1
+~
+oak door~
+9 0 1276
+D2
+~
+~
+0 -1 1277
+S
+#1276
+&KSebastian's Chamber&n~
+The sucking sound of an open chest wound echos off the wall as Sebastian approaches you. His
+hand is outstretched like all he wants to do is touch you, feel your warmth. Of course, he
+would kill you in the process, but that is the price you will pay.
+~
+14 269484040 0 1 99 1
+D3
+~
+oak door~
+9 0 1275
+S
+#1277
+&wA Hallway&n~
+The charred remains of a small child lay here, its burnt skin taught against their body. A look 
+of agony and pain on their lips. Leave while you still can.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1275
+D2
+~
+~
+0 -1 1278
+S
+#1278
+&wA Hallway&n~
+The charred hallway has slightly fallen in here, you can see a set of glowing red eyes between 
+the cracks in the stone. You just hope that that eyes stay there, and dont come out to where you
+are.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1277
+D1
+~
+oak door~
+9 0 1279
+D2
+~
+~
+0 -1 1280
+S
+#1279
+&wVisitors Quarters&n~
+This is where Lord Soth would house the visiting nobles and guests of the castle. It was the 
+finest guest room in all of the land, until the castle was destroyed.
+~
+14 269484040 0 1 99 1
+D3
+~
+oak door~
+9 0 1278
+S
+#1280
+&wA Hallway&n~
+Another skeleton lies here, the head crushed. Perhaps when the fire struck, he was killed by the
+others trying to escape, his body broken and trampled by others trying to escape. All you can 
+think of is  the pain he must have gone through as his life energy slipped from between the 
+crack in his skull.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1278
+D3
+rlink w 1281
+~
+~
+0 -1 1281
+S
+#1281
+&wThe East Hallway&n~
+The hallway comes to an end here, the door standing firm blocking any further westward movement. 
+I guess thats what the people who died in this room discovered, as they tried to flee, but were 
+stopped by a locked door. But what were they trying to flee? Fire? Destruction? or something 
+much worse?
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1280
+D3
+~
+door~
+9 0 1251
+S
+#1282
+&KThe Royal Passage&n~
+This passage is wider than the normal walkways, as if the royalty needed a wider space around 
+them because of their greatness. But they burned, just like the rest of the poor humans that 
+suffered in the fire, only less people cried for them.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1283
+D3
+~
+~
+0 -1 1260
+S
+#1283
+&KThe Royal Passage&n~
+This passage is wider than the normal walkways, as if the royalty needed a wider space around 
+them because of their greatness. But they burned, just like the rest of the poor humans that 
+suffered in the fire, only less people cried for them.
+~
+14 269484040 0 1 99 1
+D1
+~
+~
+0 -1 1284
+D3
+~
+~
+0 -1 1282
+S
+#1284
+&KThe Royal Passage&n~
+This passage is wider than the normal walkways, as if the royalty needed a wider space around 
+them because of their greatness. But they burned, just like the rest of the poor humans that 
+suffered in the fire, only less people cried for them.
+~
+14 269484040 0 1 99 1
+D1
+~
+oak door~
+9 0 1285
+D3
+~
+~
+0 -1 1283
+S
+#1285
+&KThe Royal Passage&n~
+This passage is wider than the normal walkways, as if the royalty needed a wider space around 
+them because of their greatness. But they burned, just like the rest of the poor humans that 
+suffered in the fire, only less people cried for them.
+~
+14 269484040 0 1 99 1
+D0
+~
+~
+0 -1 1286
+D3
+~
+oak door~
+9 0 1284
+S
+#1286
+&wAudience Chamber&n~
+You stand in the audience chamber of Lord Soth himself. Many a man has stood here, as you do 
+now, waiting to see the once great man, now monster. You wonder how many met their end behind 
+he thick curtains that block off the throne room.
+~
+14 940573832 0 1 99 1
+D1
+~
+~
+0 -1 1287
+D2
+~
+~
+0 -1 1285
+S
+#1287
+&KSoth's &wRoyal Throne Room&n~
+Perhaps, once this would have been a throne room of infinite beauty and wonder. Once, it would 
+have been filled with lush patterns and colors of every spectrum of the rainbow....yellows, 
+purples, reds......Yes, once..for now the only color that catches your eye is the black from 
+scorched furniture, and the red from slain adventures, and the orange color of hellfire that 
+burns hate into your soul coming from the eye visor in Lord Soths scorched helm! Pray you escape 
+from here.
+~
+14 269484040 0 1 99 1
+D3
+~
+~
+0 -1 1286
+D5
+~
+door down~
+31 1218 1288
+S
+#1288
+Under the throne.~
+A small cavity is here, containing Soth's treasure.
+
+Congratulations!
+~
+14 269484040 0 1 99 1
+D4
+~
+~
+15 -1 1287
+S
+#1289
+The room of the Re-enforcements!~
+This is where the rest of Soth's men lay in wait for someone foolish enough
+to attampt to attack their master!
+~
+14 8 0 1 99 1
+D4
+Up to kill the nasty players!
+~
+~
+0 -1 1287
+S
+#1290
+&GOvergrown Gardens&n~
+A canapy of vines hangs overhead blocking out the majority of light that streams down from the 
+moon. Crows circle above the canapy and cry in alarm at the sights that they see in the garden 
+below. you try to swallow your fears but all that they seem to do is form a lump in your throat.
+~
+14 1048584 0 1 99 1
+D3
+~
+~
+0 -1 1252
+S
+#1291
+&GOvergrown Gardens&n~
+The plants leer at you from their various positions around the garden. Some of the plants ooze a 
+strange red substance that you swear looks and smells like blood. You notice various skeletons
+grown into some of the vines, their skeletal arms reaching out and their skulls open wipe in 
+cries of protest. It almost looks as though the plants themselves traped them in their positions
+of death.
+~
+14 1048584 0 1 99 1
+D0
+~
+~
+0 -1 1292
+D1
+~
+~
+0 -1 1293
+D2
+~
+~
+0 -1 1252
+S
+#1292
+&GOvergrown Gardens&n~
+You are still not sure whether this is a garden gone terribly terribly wrong from years of 
+neglect, or because of the twisted evil that surrounds these grounds.  Plants tower above you 
+like hollow statues to unknown gods, and the grass reaches up t you like a swarming sea of 
+green. The flys annoy your face and small insects crawl on your skin as you push your way 
+through.
+~
+14 1048584 0 1 99 1
+D0
+A thick fog blocks your vision.
+~
+~
+0 -1 19519
+D2
+~
+~
+0 -1 1291
+D3
+~
+~
+0 -1 1294
+S
+#1293
+&GOvergrown Gardens&n~
+The smell of blood is fresh here and as you round the corner, you can see why. On the ground 
+before you is the corpse of a freshly killed wolf and above the corpse of the wolf is something 
+that causes your stomach to heave.
+~
+14 1048584 0 1 99 1
+D3
+~
+~
+0 -1 1291
+S
+#1294
+&GOvergrown Gardens&n~
+You are fighting your way through oodles of vines, long gras and the occasional sappling. Slimy 
+slugs and creepy bugs cling to your skin as you push your way through the weeds. Suddenly, one 
+of the plants sits up and takes notice of your warm, sweaty body.
+~
+14 1048584 0 1 99 1
+D1
+~
+~
+0 -1 1292
+D3
+~
+~
+16 -1 1295
+S
+#1295
+&GPassage Through the Garden&n~
+You seem to have unwittingly stumbled into a secret enterence of the castle. Your only problem 
+now is, deciding which way to go.......choose well, it could be your last choice.......
+~
+14 135266440 0 1 99 1
+D0
+You can't see much of anything through the dense vegitation.
+~
+~
+0 -1 1298
+D1
+You can't see much of anything through the dense vegitation.
+~
+~
+0 -1 1296
+D2
+You can't see much of anything through the dense vegitation.
+~
+~
+0 -1 1298
+D3
+You can't see much of anything through the dense vegitation.
+~
+~
+0 -1 1296
+D5
+You can't see much of anything through the dense vegitation.
+~
+~
+0 -1 1207
+S
+#1296
+Death?~
+Upon entering the room you know that a wrong choice was made. You hope that you will live to 
+regret it.
+~
+14 1048586 0 41 99 1
+S
+#1297
+&KHidden Armory&n~
+This looks to be what you gather to be the private armory of someone who was very important in 
+the castle, a lord at a guess. It is now void of any of the items it may have once kept but you 
+decide to explore reguardless, just in case.
+~
+14 1048584 0 1 99 1
+D0
+~
+hidden~
+15 1226 1272
+S
+#1298
+&wHorrible &CCold &wCell&n~
+You are just begining to find out how tough it is going to be to enter the castle. It seems that 
+you have underestimated the designers of this place, but they have not underestimated you, 
+sorry, no way out from here.
+~
+14 1880096776 1342177280 1 99 1
+S
+$~
+#999999

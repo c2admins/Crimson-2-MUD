@@ -1,0 +1,359 @@
+#13201
+mob skaven guard~
+A skaven guard~
+A Skaven Guard is standing here snarling at you.
+~
+He looks like a horrific cross between a rat and a man. He is about five
+feet tall, and stands on his hind legs, but he is covered in dirty fur and has
+the facial appearance of a rat. His tail is trailing along on the ground 
+behind him, and his small red eyes look back at you hatefully.
+~
+57486 1 136249361 33554432 -750 S
+20 20 24 100d9+1200 3d2+24
+4500 61020
+8 8 1
+0 0 16 18 16 16 14 13
+#13202
+mob skaven black guard~
+A black skaven guard~
+A Black Skaven Guard is standing here,snarling at you.
+~
+This is a creature about five feet tall,half man, half rat, and standing on
+it's hind legs. It is covered in black,flea ridden fur, and has a tail that
+trails along on the floor behind it. As you look, it stares back at you
+menacingly with it's small red eyes and an evil grin on it's horrible face.
+~
+57356 1 136249361 33554440 -750 S
+25 15 18 40d99+250 5d5+30
+15000 74823
+8 8 1
+0 0 18 17 16 16 15 15
+#13203
+mob slave human~
+A human slave~
+A human slave is here working hard for his masters.
+~
+This is a human who has been mentally crushed by the horror that is the 
+skaven. He works away busily, for his masters and does not even seem to have 
+noticed you. His clothes are in tatters and he looks very unhealthy.
+~
+136 1 136249361 0 0 S
+8 30 35 7d7+20 2d3+4
+300 230
+8 8 1
+1 0 14 14 11 11 10 9
+#13204
+mob slave dying~
+A dying slave~
+A human slave is here, slowly dying.
+~
+The slave is sitting here slowly dying. His clothes are in tatters and he is
+very filthy. It looks as if the skaven consider it easier to find new slaves
+than to feed there old ones.
+~
+10 1 136249361 0 0 S
+3 34 38 5d5+10 1d3+1
+150 95
+8 8 1
+0 0 12 13 11 10 7 8
+#13205
+mob skaven black assassin~
+A Black Skaven Assasin~
+A Black Skaven is here, lurking in the shadows.
+~
+This is a humanoid creature about five feet tall,and appears to be half man,
+half rat. It is covered in black fur, and it's head resembles that of a huge 
+rat. It has small red eyes that seem to stare at you, and it snarls menacingly
+as you look at it.
+~
+262280 1 136249361 35127304 -750 S
+27 15 14 40d19+2000 2d3+50
+23000 81945
+8 8 1
+0 0 16 18 14 14 14 13
+#13206
+mob plaguemonk monk plague skaven~
+A Skaven Plague Monk~
+A Skaven Plague Monk is here,mumbling in an unknown tongue.
+~
+The monk is wearing a large brown robe that hides almost his entire form. You
+can see small dirty feet peeking out at the bottom of his robe and the only
+part of his face you can see is his long nose,covered in large weeping 
+blisters, emerging out of the front of his hood. He seems to have spikes all 
+of the way down his spine, and they are sticking out through the robe,damaging
+it even further. You cannot see his eyes, but you can't help thinking he is 
+staring into your very soul.
+~
+57352 32769 136249361 33554440 -750 S
+29 14 8 62d19+2000 4d3+16
+28000 94000
+8 8 1
+0 0 19 20 16 17 14 14
+SKILL=SPELL_BLINDNESS 66
+SKILL=SPELL_HAIL_STORM 66
+SKILL=SPELL_CURSE 66
+SKILL=SPELL_HARM 66
+SKILL=SPELL_MAGIC_MISSILE 66
+SKILL=SPELL_POISON 66
+SKILL=SPELL_CAUSE_CRITIC 66
+SKILL=SPELL_HEAL_MINOR 66
+SKILL=SPELL_EARTHQUAKE 66
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#13207
+mob seer grey skaven~
+The Grey Seer~
+The Grey Seer is here, muttering in an arcane tongue.
+~
+This creature is about five feet tall and humanoid, but it is covered in white
+fur and it's facial features resemble that of a rat. It has a long nose and
+small red eyes. Also, a pair of thick horns that emerge from either side of
+it's skull and curl over backwards and down the sides of his face. It has a 
+number of arcane symbols burned into it's flesh, and these can be clearly seen
+where the seer's arms emerge from his robe.
+~
+262154 32769 136249361 100663432 -1000 S
+35 8 -10 33d19+2000 5d3+13
+83000 215000
+8 8 1
+0 0 20 21 18 18 17 18
+SKILL=SPELL_BLINDNESS 80
+SKILL=SPELL_BURNING_HANDS 80
+SKILL=SPELL_HAIL_STORM 80
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_CURSE 80
+SKILL=SPELL_ENERGY_DRAIN 80
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_HARM 80
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_MAGIC_MISSILE 80
+SKILL=SPELL_POISON 80
+SKILL=SPELL_SLEEP 80
+SKILL=SPELL_CAUSE_CRITIC 80
+SKILL=SPELL_HEAL_MINOR 80
+SKILL=SPELL_EARTHQUAKE 80
+ATTACK_SKILL=75
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=75
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=105
+#13208
+mob Decay skaven lord~
+The Lord of Decay~
+The Lord of Decay,master of all the skaven is standing here.
+~
+This is a fearsome looking creature. He is humanoid, but ten feet tall and
+covered in think black fur. He has the facial characteristics of a huge rat,
+with a long nose and small eyes. He has a long thin tail that trails on the
+floor and he has long feet with sharp looking nails. There are a large number 
+of strange symbols burned into his flesh all over,leaving holes in his fur 
+that only serve to make him look even more deadly.
+~
+319502 32769 136249361 100663432 -1000 S
+43 1 -28 90d19+11000 8d5+15
+1325000 735000
+8 8 1
+0 4 21 22 19 20 16 19
+SKILL=SPELL_SUMMON 89
+SKILL=SKILL_HUNT 90
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#13209
+mob rat small black~
+A small black rat~
+A small black rat is here, scavenging for food.
+~
+The rat is filthy , but looks well fed. It clearly has found a good place
+to scavenge for food here.
+~
+16777352 1 136249361 524288 -100 S
+2 35 38 6d6+0 1d3+2
+145 68
+8 8 0
+0 0 12 11 11 11 8 6
+#13210
+mob rat giant black~
+A giant black rat~
+A giant rat is here, searching for food.
+~
+The rat is huge, almost three feet long and its claws look fearsome indeed.
+~
+16777352 1 136249361 524288 -100 S
+5 32 37 6d5+20 3d3+3
+220 155
+8 8 0
+0 0 12 12 12 10 10 9
+#13211
+mob girl young sacrifice~
+A beautiful young girl~
+A beautiful young girl is here,waiting to be sacrificed.
+~
+This is a young human girl, looking about fifteen years old. She is standing
+here looking very scared and is wearing just a dirty brown robe,clearly of
+skaven origin.
+~
+136 1 136249361 0 750 S
+6 31 36 4d7+25 2d4+2
+335 187
+8 8 2
+1 0 12 14 11 12 8 11
+#13212
+mob rat-ogre skaven ogre~
+A skaven rat-ogre~
+A huge Rat-Ogre is lumbering around here,growling.
+~
+This creature looks about eight feet tall and is covered in grey fur. It
+has a number of strange symbols burned into it's hide, and the fur does not
+grow in these places. It's facial features are as that of a rat. It's nose is
+long and it has small black eyes. You can see it's teeth, and they look
+fierce. It also has a tail about four feet long trailing behind it on the 
+ground.
+~
+57356 1 136249361 33554432 -150 S
+32 11 -1 60d19+3000 3d3+16
+25000 190000
+8 8 1
+20 0 19 19 18 18 18 16
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#13213
+mob packmaster skaven master~
+The skaven packmaster~
+The Rat-Ogre Packmaster is standing here.
+~
+This is a half human, half rat creature about five feet tall. He is standing
+on his hind legs, but seems to be hunched over, making himself look smaller.
+He has tatty green and brown clothing on, and his brown fur looks very unclean
+He seems to have lots of marks on the areas of his body that are not covered 
+by clothing, and in some places you can even see his black wrinkled skin where
+the fur has gone completely.
+~
+136 1 136249361 33554432 -750 S
+24 16 20 23d19+1800 4d5+20
+15000 73125
+8 8 1
+0 0 18 18 16 16 14 14
+ATTACK_SKILL=33
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#13214
+mob minotaur slave ~
+A huge Minotaur slave~
+A huge minotaur slave is here,protecting his masters.
+~
+This is a frightening looking creature. It is as large as an ogre, but has
+the head and face of a bull. It has a huge pair of horns sticking out on 
+either side if it's head and instead of feet it has hoofs. It is covered in a 
+thin layer of reddish-brown fur, which, like so many of the skaven, is gone
+in places where the creature has been branded with strange symbols. It looks
+oddly tired though, and you cannot help but think that it is out of place here
+possibly being suited to more peaceful surroundings.
+~
+57352 1 136249361 33554432 0 S
+30 13 5 100d49+585 4d6+15
+25000 175000
+8 8 1
+22 0 19 19 17 16 17 14
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#13215
+mob guard skaven~
+A skaven guard~
+The Skaven Guard is here, resting.
+~
+He looks like a horrific cross between a rat and a man. He is about five feet
+tall and stands on his hind legs, but he is covered in dirty fur and has the
+facial appearance of a rat. His tail is trailing along on the ground behind
+him, and his small red eyes look back at you hatefully.
+~
+138 1 136249361 33554432 -750 S
+19 21 25 100d3+175 3d2+24
+4200 6300
+8 8 1
+0 0 16 18 16 14 12 15
+#13216
+mob plaguemonk plague monk skaven~
+A Skaven Plague Monk~
+A Skaven Plague Monk is here.
+~
+The monk is wearing a large brown robe that hides almost his entire from. You
+can see small dirty feet peeking out at the bottom of his robe and the only
+part of his face you can see is his long nose,covered in large weeping 
+blisters, emerging out of the front of his hood. He seems to have spikes all
+of the way down his spine, and they are sticking out through the robe, 
+damaging it even further. You cannot see his eyes,but you can't help thinking
+he is staring into your very soul.
+~
+138 32769 136249361 33554440 -750 S
+28 15 11 60d19+2000 5d5+10
+25000 87325
+8 8 1
+0 0 18 17 18 16 16 14
+SKILL=SPELL_BLINDNESS 66
+SKILL=SPELL_HAIL_STORM 66
+SKILL=SPELL_CURSE 66
+SKILL=SPELL_HARM 66
+SKILL=SPELL_MAGIC_MISSILE 66
+SKILL=SPELL_POISON 66
+SKILL=SPELL_CAUSE_CRITIC 66
+SKILL=SPELL_HEAL_MINOR 66
+SKILL=SPELL_EARTHQUAKE 66
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#13217
+mob forager skaven vermin~
+A skaven forager~
+A skaven vermin is here,foraging for his masters.
+~
+He looks like a horrific cross between a rat and a man. He is about four feet
+tall and stands on his hind legs, but he is covered in dirty fur and has the
+facial appearance of a rat. His tail is trailing along on the ground behind
+him as he sniffs around here,looking for scraps to collect in his bag to 
+return to his masters.
+~
+140 32769 136249361 34078720 -750 S
+14 25 30 75d3+50 3d2+16
+2000 4435
+8 8 1
+0 0 14 14 13 12 11 13
+SKILL=SKILL_STEAL 38
+$~
+#999999

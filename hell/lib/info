@@ -1,0 +1,195 @@
+[Note: Further information can be gained on the capitalized words by using the
+
+HELP-command]
+
+Classes, races, skills, and guilds:
+===================================
+
+When you first enter the MUD and make a new Character, you are given a
+choice of 36 RACEs and 7 CLASSes to choose from. Given your choices, your
+character will be different from others in the skills and attributes you
+have. There are 4 basic classes to a MUD, these are Warrior, Thief,
+Cleric, and Mage. After that you have 3 more classes, which are Priest,
+which is a Warrior/Cleric combo, Bard, a Warrior/Mage, and Paladin, a
+Warrior who fights against evil.
+
+By GROUPing with players of other CLASSes you will have a better chance
+of survival and an easier time of adventuring. A case of this would be
+where you had a Warrior who would tank for the group (Tanking means they
+take the damage from the monster), a Cleric healing and creating
+food and other sustenance for the GROUP, a Mage using their battle
+spells to harm the monster, and a Thief backstabbing the monster.
+
+Some CLASSes and RACEes must maintain a certain ALIGNment, that is
+Good, Evil, Neutral. If you stray from this ALIGNment you will
+begin to suffer and eventually die.
+
+
+Improving your Character:
+=========================
+
+In order to learn the tricks of your specific trade, you need to find
+your GUILD, which may take a little exploring. However, you can most
+like get a hint to where it will be by looking at the MAP. Once you've
+found it, you need to find the guildmaster and PRACTICE <skill
+you wish to improve>. For a list of every skill you currently
+know type PRACTICE with no arguments. (You start with no skills or
+spells so this should be first on your agenda). The other way you
+can improve your character (once you are high enough in level) is to
+find the high priestess in the Temple of T'Salchoic and buy increased
+ability scores, practices, and various other things.
+
+
+Equipment:
+==========
+It is never wise to travel without the proper equipment. You may
+purchase this in the SHOPS found in any larger city, or you may
+be lucky and find some left around, perhaps in the Donation room
+dropped by someone who doesn't need it anymore, for one reason or
+another.
+
+related commands:
+GET ALL       To pickup everything in a room
+EQUIP         to see what you are equipped with
+WEAR ALL      equip with everything you are carrying
+WIELD <ITEM>  Start using <item> as a weapon
+REMOVE <ITEM> Stop using <item> whether it be armor or weapon
+
+
+About Staying Fit - Eating and Drinking:
+========================================
+
+At one time or another, you'll see the message "You are hungry".
+This means that it's time to find something edible before too
+long. People don't starve to death in this world, so have no
+fear. However, when you are hungry, you do not build up lost
+energy, so eventually you'll be unable to do anything but sit
+around and feel sorry for yourself, until someone comes by.
+Then, you can only hope that it's a benevolent person,
+rather than a greedy thief or a warrior lusting for blood.
+
+To stave off this rather horrible state one of the first thing
+s you should do is obtain multiple loaves of bread from the
+baker, and a barrel of water.
+
+Related commands:
+BUY BARREL           at the bar in the inn.
+POUR BARREL OUT      empty the barrel of ale.
+POUR FOUNTAIN BARREL fill the barrel with water from the fountain.
+EAT BREAD            eat some bread.
+DRINK BARREL         drink water from the barrel.
+
+
+Safety Issues
+=============
+
+There is safety in numbers, especially pairs. When you form a group,
+experience for a kill is first doubled and then split amongst the members
+of the group. This means that a group a two will *EACH* recieve the same
+experience for a joint kill as they would for killing the foe alone! To
+form a group, designate someone as the group leader and have everyone 
+FOLLOW <leader> (except the leader of course). Next the leader should 
+GROUP <Player> everyone in the group, including him/herself. Once the Group
+has been formed you can monitor each group members statistics by typing:
+GROUP with no arguments. Use the ASSIST command so that the group will
+gang up on foes automaticly. And remembers allways use the AUTOFLEE command
+because although you lose experience for running away, you lose more for
+dying.
+
+
+How am I doing?, whats going on?
+================================
+
+Almost all informative commands will provide more information as you
+go up in level. Accordingly, dont be alarmed when you type WHO to
+see whos playing and notice that there are blanks to the left of
+most characters names. If you only wish to see players close to you
+type WHERE. Those of you interested in how close you are to gaining
+a level can check out your characters statistics by typing SCORE.
+Once you have gained a few levels the SPELLS command will show affecting
+spells, their affects and their durations. The ATT command will also
+show you info about your character. Your inventory can be shown by the
+INV command. Practise infomation can be found with the PRAC command. You
+can customize your prompt by using the DISPLAY command. I recommend DISPLAY
+ALL to show character statistics and all visible exits on the prompt.
+
+
+Communication
+
+=============
+
+SAY    - speak your mind to anyone in the same room.
+SHOUT  - try not to use this channel.
+GOSSIP - everyone will hear you, unless they have set their GOSSIP
+         Channel off.
+TELL   - say something to any ONE person on the mud (wherever they are)
+(just the tip of the iceberg of course but this is the important stuff)
+
+
+How do I keep my equipment?
+===========================
+
+If you quit from the game you *DROP* *EVERYTHING* you are carrying
+right where you were. If you wish to keep it for the next session
+you must find the inn (where you enter the game) and RENT at the
+receptionist. You can see how much it will cost you to rent by
+typing OFFER. Sometime in the near future low-level characters will
+be given a rent "allowance" to help them get started. While you are
+at the receptionist check out WITHDRAW, DEPOSIT and BALANCE after all
+you cant be pickpocketed by thieves if your money is in the bank.....
+
+
+Getting around Midgaard from Market Square.
+===========================================
+Dressing room - you start here go D D W S to get to Market Square.
+Heals - N N N, then type pray, this is only until level 10
+Fountain - right beside you.
+Reception - N E U
+General store - E N
+Clerics Guild - N W
+Mages Guild - W W S
+Thieves Guild - S E S
+Warriors Guild - E E S
+Weapons Shop - E E N
+Armor Shop - W S                          
+Baker - W N
+Mages shop - W W N
+Pet shop - E S
+Dump - S S
+SNotling Camp - W W W W N N N N N N N
+Gnome Village - W W W W N N N N N N
+Temple of T'Salchoic - N N N N N N N W W W N N W N W
+
+
+Fighting:
+=========
+Every monster in the game can be referred to as MOB, every object as
+OBJ. Why tell you here? good question possibly because KILL MOB will
+kill the first monster in a room (watch out here pet owners). KILL
+2.MOB will kill the second monster in a room. And for you Dragon-kin
+out there just starting off: BREATH GAS MOB. (If it says nothing
+keep trying, in fact type !<return> about 20 times and sooner or
+later is will succeed (! repeats last command) maybe you should
+practice some more huh?) For mages try: CAST 'MAGIC MISSLE' MOB
+(you did practice this spell right?) GET 2.OBJ etc works similarly
+to the commands described above.
+
+
+MUD Slang:
+==========
+
+On MUDs, people usually use ACRONYMs and other slang words, you
+can see a list of the ACRONYMs in that helpfile, but some of the
+slang words are:
+
+Round - What it is called when a MOB hits you and you hit a MOB
+Run - The lenght of time a full fight took, IE if you have to flee
+      and heal, but go back and kill the MOB, then it is 2 runs
+
+
+General hints:
+==============
+ See help on the GROUP command.
+ See help on the CONSIDER command.
+ See help on RESTING.
+ See help on PKILLING.

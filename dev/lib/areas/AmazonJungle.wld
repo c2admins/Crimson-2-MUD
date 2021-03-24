@@ -1,0 +1,2175 @@
+#16300
+Amazon River~
+As you float down the river, you notice monkeys and parrots flying between
+the jungle tree tops. Vines lay everywhere on the trees that surround you.
+The dark, murky water swirls around you. The hot climate makes you drip with
+sweat.
+
+~
+64 4 0 1 99 7
+D0
+The great river Yansu.
+~
+~
+0 -1 3064
+D2
+water spanning ahead.
+~
+~
+0 -1 16301
+S
+#16301
+Amazon River~
+As you venture farther into the dense tropics you question if these waterways
+have ANY end. You notice that the air is becoming much more humid as you 
+float south. You see a small tributary off to the west. The river continues
+south.
+
+~
+64 0 0 1 99 7
+D0
+water spanning ahead.
+~
+~
+0 -1 16300
+D2
+water spanning ahead. The river grows wider.
+~
+~
+0 -1 16302
+D3
+a tributary.
+~
+~
+0 -1 16312
+S
+#16302
+Amazon River~
+It is now getting very hard to paddle upstream. Something huge must be pushing
+you back. The lush surroundings are somewhat comforting, and the wildlife is
+as would be expected in a jungle, plentiful. The river cotinues south.
+
+~
+64 0 0 1 99 7
+D0
+water spanning ahead.
+~
+~
+0 -1 16301
+D2
+water spanning ahead.
+~
+~
+0 -1 16303
+S
+#16303
+Amazon River~
+You wonder if you'll ever get anywhere on this river. Numerous trees and
+animals surround you as you float in peace. You are forced wipe your brow as t
+he humidity is unbearable. The river continues south.
+
+~
+64 0 0 1 99 7
+D0
+water spanning ahead.
+~
+~
+0 -1 16302
+D2
+water spanning ahead.
+~
+~
+0 -1 16304
+S
+#16304
+Amazon River~
+The river widens immensely here and as you peer to the south you
+notice a massive mist rising from the jungle. You wonder what it 
+could be.  It beckons you to investigate further.  The ever present
+animals still surround you as you float.  The river continues south.
+~
+64 0 0 1 99 7
+D0
+water spanning ahead.
+~
+~
+0 -1 16303
+D2
+water spanning ahead.
+~
+~
+0 -1 16305
+S
+#16305
+Before the Waterfall~
+You finally come to see an immense waterfall roaring and splashing in front of
+you. You try to look into and behind the waterfall and see some sort of 
+lagoon. Your curiousity beckons you to go south and investigate. The waterfall
+is south. The river flows north, back the way you came.
+
+~
+64 0 0 1 99 7
+D0
+water spanning ahead.
+~
+~
+0 -1 16304
+D2
+You hear the sounds of rushing, falling water.
+~
+~
+0 -1 16306
+S
+#16306
+Waterfall Lagoon~
+You are deafened by the pulsating roar of the waterfall as it crashes down on 
+the rocks below. The water is clear here and you see fish of all types 
+swimming lazy circles around you. A path leads into the dense jungle canopy, 
+it looks dark but the path is distinguishable. The climb up the waterfall 
+look precarious.
+
+~
+64 4096 0 1 99 7
+D3
+A path leads into the jungle.
+~
+~
+0 -1 16307
+D4
+You fear that you will fall if you go up.
+~
+~
+0 -1 16313
+S
+#16307
+Jungle Trail~
+Trees encompass you with a dreary presence as you walk further
+in the jungle.  It seems that no one could make it in such harsh 
+conditions.  The path turns toward the north and goes back to the
+waterfall.
+~
+64 5 0 1 99 3
+D0
+a trail through the jungle.
+~
+~
+0 -1 16308
+D1
+a lagoon ahead.
+~
+~
+0 -1 16306
+S
+#16308
+Jungle Trail~
+You continue to explore this jungle with due caution.  The jungle 
+surrounds you with no end in sight.  Paths lead in all directions.
+You feel that you could get lost at any moment.
+~
+64 9 0 1 99 3
+D0
+a trail through the jungle.
+~
+~
+0 -1 16309
+D1
+Jungle.
+~
+~
+0 -1 16324
+D2
+a trail through the jungle.
+~
+~
+0 -1 16307
+D3
+a trail through the jungle.
+~
+~
+0 -1 16307
+S
+#16309
+Jungle Trail~
+You continue to explore the jungle with due caution. Trees and jungle is all
+you can see. Paths lead in every direction. You feel that you are going to get
+lost any moment.
+
+~
+64 1 0 1 99 3
+D0
+a trail through the jungle.
+~
+~
+0 -1 16307
+D1
+a trail through the jungle.
+~
+~
+0 -1 16308
+D2
+a trail through the jungle.
+~
+~
+0 -1 16310
+D3
+Jungle.
+~
+~
+0 -1 16322
+S
+#16310
+Jungle Trail~
+You have come to a welcomed change in the landscape.  Beginning here are
+some high mountains with steep slopes.  A trail leads up and the jungle
+continues north, south, and east.
+~
+64 1 0 1 99 3
+D0
+a trail through the jungle.
+~
+~
+0 -1 16307
+D1
+a trail through the jungle.
+~
+~
+0 -1 16307
+D2
+Jungle.
+~
+~
+0 -1 16323
+D3
+a small hut door.
+~
+door hut~
+31 16302 16311
+D4
+a mountain Jungle trail.
+~
+~
+0 -1 16355
+S
+#16311
+A Small Hut~
+You have found a secret hut that is very unlike all of the residences you 
+have seen in jungle to date. Books of all kinds and sizes are lying everywhere
+but in perfect order. Your suspicions are confirmed when you notice an old
+man sitting and reading in the corner.
+
+~
+64 268435465 0 1 99 0
+D1
+a trail in the forrest.
+~
+door hut~
+15 16302 16310
+S
+#16312
+Small, Tributary to the Amazon~
+You have paddled your way into a small tributary. The water is so shallow here
+that you feel that you could probably wade your way through. The waterway has 
+been cleared of any loose vines, shrubbery or debris that might hamper its 
+use as a launch. The tributary continues west.
+
+~
+64 0 0 1 99 6
+D1
+a River ahead.
+~
+~
+0 -1 16301
+D3
+a small tributary.
+~
+~
+0 -1 16314
+S
+#16313
+Fallen off the Waterfall~
+Stupidity has blessed you with a painfull blow and bad luck has drowned you.
+Next time think about it...Climb a waterfall?
+
+~
+64 4102 0 1 99 1
+S
+#16314
+Small, Tributary to the Amazon~
+As you travel down this tributary it begins to look less and less like
+a natural occurance.  The trees are trimmed back so as to provide easy
+access, but for what is unknown.  The tributary continues both east and
+west.
+~
+64 0 0 1 99 6
+D1
+a small tributary.
+~
+~
+0 -1 16312
+D3
+a small tributary.
+~
+~
+0 -1 16315
+S
+#16315
+Small, Tributary to the Amazon~
+You have reached the boat launch of a race of pygmies that often fish
+in the huge amazon river to the east.  Several boats are tied to their
+respective trees.  It seems funny to you that all of the boats seem to
+be in right now.  From what you know of the pygmies they should be on
+a hunt.  A small village is south.
+~
+64 4 0 1 99 6
+D1
+a small tributary.
+~
+~
+0 -1 16314
+D2
+a village.
+~
+~
+0 -1 16316
+S
+#16316
+Village of Tubbiki~
+You have entered the pygmy village. Little people scamper about your feet 
+dancing and singing in the usual merriment. However do not be fooled.
+These are some tough little warriors with high strung tempers with cause to
+be alarmed.  Paths lead in all directions.
+~
+64 0 0 1 99 1
+D0
+the tributary.
+~
+~
+0 -1 16315
+D1
+nothing special.
+~
+~
+0 -1 16317
+D2
+a jungle path.
+~
+~
+0 -1 16322
+D3
+nothing special.
+~
+~
+0 -1 16320
+S
+#16317
+Village of Tubbiki~
+The path through the village continues east and west of here. A storage room
+lies to the north.  Pygmies are everywhere in this town!
+~
+64 0 0 1 99 1
+D0
+a small shop.
+~
+~
+0 -1 16318
+D1
+nothing special.
+~
+~
+0 -1 16319
+D2
+a small home.
+~
+~
+0 -1 16389
+D3
+nothing special.
+~
+~
+0 -1 16316
+S
+#16318
+Food Storage Room~
+You see a small pygmy here, he offers you some food for a small price.
+~
+64 12 0 1 99 1
+D2
+the outside.
+~
+~
+0 -1 16317
+S
+#16319
+Village of Tubbiki~
+You have reached the end of the street with no way to go but back west.
+Apparently, the pigmies are not very receptive to your prescence and none
+will even open their door and be hospitable. The path leads back west.
+
+~
+64 0 0 1 99 1
+D0
+a small home.
+~
+~
+0 -1 16390
+D1
+a small home.
+~
+~
+0 -1 16392
+D2
+a small home.
+~
+~
+0 -1 16391
+D3
+nothing special.
+~
+~
+0 -1 16317
+S
+#16320
+Village of Tubbiki~
+Small little huts and homes surround you. Pygmies run rampid throughout the
+village. You see a small hut to the south. What isn't small around here??
+~
+64 4 0 1 99 1
+D0
+a small home.
+~
+~
+0 -1 16388
+D1
+nothing special.
+~
+~
+0 -1 16316
+D2
+a small hut.
+~
+~
+0 -1 16321
+D3
+more village.
+~
+~
+0 -1 16363
+S
+#16321
+Small Hut~
+This hut seems slightly larger than the others you have seen but it
+is still cramped for space.  Several pots and pans are lying about in
+an orderly fashion.  Clearly these pygmies never intended to have you
+as a guest.
+~
+64 8 0 1 99 0
+D0
+the village.
+~
+~
+0 -1 16320
+D2
+a wall.
+~
+wall~
+31 16301 16354
+S
+#16322
+Jungle Path~
+You are wlking on a path leading into some dense jungle terrain. Birds
+and animals are here with their constant chirping, singing and chattering.
+The village lies to the north and the jungle to the west.
+
+~
+64 4 0 1 99 3
+D0
+a village.
+~
+~
+0 -1 16316
+D3
+Jungle.
+~
+~
+0 -1 16323
+S
+#16323
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 1 0 1 99 3
+D0
+a path lined with orchids.
+~
+~
+0 -1 16376
+D1
+Jungle.
+~
+~
+0 -1 16324
+D2
+jungle.
+~
+~
+0 -1 16323
+D3
+jungle.
+~
+~
+0 -1 16308
+S
+#16324
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 1 0 1 99 3
+D0
+jungle.
+~
+~
+0 -1 16323
+D1
+jungle.
+~
+~
+0 -1 16324
+D2
+Jungle.
+~
+~
+0 -1 16325
+D3
+jungle.
+~
+~
+0 -1 16323
+S
+#16325
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 1 0 1 99 3
+D0
+jungle.
+~
+~
+0 -1 16323
+D1
+jungle.
+~
+~
+0 -1 16325
+D2
+jungle.
+~
+~
+0 -1 16324
+D3
+Jungle.
+~
+~
+0 -1 16326
+S
+#16326
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 1 0 1 99 3
+D0
+jungle.
+~
+~
+0 -1 16308
+D1
+Jungle.
+~
+~
+0 -1 16327
+D2
+jungle.
+~
+~
+0 -1 16325
+D3
+You hear the faint sounds of a waterfall.
+~
+~
+0 -1 16307
+S
+#16327
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 1 0 1 99 3
+D0
+Jungle.
+~
+~
+0 -1 16328
+D1
+jungle.
+~
+~
+0 -1 16326
+D2
+jungle.
+~
+~
+0 -1 16326
+D3
+Your spine shivers as you hear the roar of hungry tigers.
+Maybe you shouldn't go that way.~
+~
+0 -1 16365
+S
+#16328
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 1 0 1 99 3
+D0
+some sort of cage.~
+~
+0 -1 16366
+D1
+jungle.
+~
+~
+0 -1 16326
+D2
+jungle.
+~
+~
+0 -1 16325
+D3
+Jungle.
+~
+~
+0 -1 16329
+S
+#16329
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 1 0 1 99 3
+D0
+Jungle.
+~
+~
+0 -1 16330
+D1
+jungle.
+~
+~
+0 -1 16328
+D2
+jungle.
+~
+~
+0 -1 16327
+D3
+jungle.
+~
+~
+0 -1 16323
+D4
+a hive in a tree.
+~
+~
+0 -1 16345
+S
+#16330
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 1 0 1 99 3
+D0
+a bush.
+~
+bush~
+9 -1 16362
+D1
+jungle.
+~
+~
+0 -1 16328
+D2
+jungle.
+~
+~
+0 -1 16337
+D3
+Jungle.
+~
+~
+0 -1 16331
+S
+#16331
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 1 0 1 99 3
+D0
+an opening in the canopy.
+~
+~
+0 -1 16335
+D1
+Jungle.
+~
+~
+0 -1 16332
+D2
+jungle.
+~
+~
+0 -1 16329
+D3
+jungle.
+~
+~
+0 -1 16330
+S
+#16332
+Wandering the Jungle~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 0 0 1 99 3
+D0
+jungle.
+~
+~
+0 -1 16330
+D1
+You can't see anything but hear cheering.
+~
+~
+0 -1 16333
+D2
+jungle.
+~
+~
+0 -1 16324
+D3
+jungle.
+~
+~
+0 -1 16323
+S
+#16333
+Pygmy Camp~
+You see very small huts here, spears lying against them. Pygmies run all over
+the place cheering in victory. A wild boar lies pierced on a stick roasting
+over a fire. They look at you as you walk in.
+~
+64 0 0 1 99 1
+D0
+Jungle.
+~
+~
+0 -1 16332
+D1
+a corner of the camp.
+~
+~
+0 -1 16394
+D2
+the south edge of the camp.
+~
+~
+0 -1 16393
+D3
+a corner of the camp.
+~
+~
+0 -1 16395
+S
+#16334
+Pygmy Throne Room~
+A small bamboo throne is here, and on it sits Kabukiki, the Pygmy King. He 
+raises his brow at you as you walk in. Small skulls of boars adorne the wall 
+as well as skeletons of his enemies that he has been victorious over.
+~
+64 268435464 0 1 99 1
+D4
+a small trap door.
+~
+trap door~
+31 16300 16361
+D5
+the camp.
+~
+~
+0 -1 16393
+S
+#16335
+Canopy Opening~
+The canopy seems to have opened up just enough to allow a faint light in.
+You look up and it looks like a tree house of some sort up in the trees.
+The animals here seem a bit more peaceful, than in the other areas. Like
+they have been satisfied and treated well.
+
+~
+64 0 0 1 99 3
+D0
+jungle.
+~
+~
+0 -1 16323
+D1
+jungle.
+~
+~
+0 -1 16324
+D2
+jungle.
+~
+~
+0 -1 16325
+D3
+jungle.
+~
+~
+0 -1 16323
+D4
+a tree house.
+~
+~
+0 -1 16336
+S
+#16336
+Adar's Tree House~
+This tree house is made of bamboo and tied together with vine. Its
+construction was intelligently made. Only a man could make such a thing.
+Standing here is Adar, the Jungle Man. He looks at you and grunts as he
+speaks. Some crudely but very useful tools and furniture lie all around
+the tree house. He is currently talking to himself and peeling bannanas
+aparently for his dinner.
+~
+64 9 0 1 99 3
+D5
+the jungle below.
+~
+~
+0 -1 16335
+S
+#16337
+Entrance to the Ant Hill~
+The Jungle canopy is high above you, it blocks out all sunlight and moonlight.
+Strange noises come from everywhere, and you feel as though you are being
+watched. You see movement in the canopy above you from the wandering animals.
+You feel eerie as you wander around.
+
+~
+64 9 0 1 99 3
+D0
+Your spine shivers, as you hear the roar of hungry tigers, Maybe you shouldn't
+go that way.
+~
+~
+0 -1 16365
+D1
+jungle.
+~
+~
+0 -1 16308
+D3
+You hear rushing water.
+~
+~
+0 -1 16302
+D5
+the entrance to an Ant hill.
+~
+~
+0 -1 16338
+S
+#16338
+The Ant Hill~
+You sit in a tunnel that seems almost naturally carved out. But it was carved
+out by ants. Ants are running around everywhere making themselves busy,
+collecting food for the queen ant and all the new larvae. The stagnant smell 
+almost turns your stomach as you are standing here.
+There seems to be no way out of this hill.
+
+~
+64 4361 0 1 99 3
+D0
+The tunnel leads on.
+~
+~
+0 -1 16339
+D1
+The tunnel goes on.
+~
+~
+0 -1 16339
+D2
+The tunnel goes on.
+~
+~
+0 -1 16341
+D4
+the jungle.
+~
+~
+0 -1 16337
+S
+#16339
+The Ant Hill~
+You sit in a tunnel that seems almost naturally carved out. But it was carved
+out by ants. Ants are running around everywhere making themselves busy,
+collecting food for the queen ant and all the new larvae. The stagnant smell 
+almost turns your stomach as you are standing here.
+There seems to be no way out of this hill.
+
+~
+64 4361 0 1 99 3
+D1
+The tunnel goes on.
+~
+~
+0 -1 16341
+D3
+The tunnel goes on.
+~
+~
+0 -1 16339
+D4
+The tunnel goes on.
+~
+~
+0 -1 16340
+D5
+The tunnel goes on.
+~
+~
+0 -1 16340
+S
+#16340
+The Ant Hill~
+You sit in a tunnel that seems almost naturally carved out. But it was carved
+out by ants. Ants are running around everywhere making themselves busy,
+collecting food for the queen ant and all the new larvae. The stagnant smell 
+almost turns your stomach as you are standing here.
+There seems to be no way out of this hill.
+
+~
+64 4361 0 1 99 3
+D0
+The tunnel continues.
+~
+~
+0 -1 16338
+D1
+Your conscience tells you not to go that way.
+~
+~
+0 -1 16380
+D2
+The tunnel continues.
+~
+~
+0 -1 16339
+D3
+The tunnel goes on.
+~
+~
+0 -1 16338
+S
+#16341
+The Ant Hill~
+You sit in a tunnel that seems almost naturally carved out. But it was carved
+out by ants. Ants are running around everywhere making themselves busy,
+collecting food for the queen ant and all the new larvae. The stagnant smell 
+almost turns your stomach as you are standing here.
+There seems to be no way out of this hill.
+
+~
+64 4361 0 1 99 0
+D0
+The tunnel goes on.
+~
+~
+0 -1 16340
+D2
+a wider tunnel.
+~
+~
+0 -1 16342
+D3
+The tunnel goes on.
+~
+~
+0 -1 16338
+D4
+The tunnel goes on.
+~
+~
+0 -1 16339
+D5
+The tunnel goes on.
+~
+~
+0 -1 16338
+S
+#16342
+Royal Ant Chamber~
+This tunnel seems to have been widened a bit more. The Royal Soldiers stand he
+re ready to attack intruders at any given moment. Worker ants are no where to
+be seen considering they are not allowed to come in through this tunnel.
+~
+64 4361 0 1 99 3
+D0
+a tunnel.
+~
+~
+0 -1 16341
+D5
+a very large cave.
+~
+~
+0 -1 16343
+S
+#16343
+Royal Chamber~
+You have entered the royal ant chamber. King Hormiga sits here with his
+queen, Hormigetta. She is here laying eggs, and he is sitting here serving
+her food, and cleaning out the waste in the room, this includes intruders.
+
+~
+64 13 0 1 99 3
+D1
+the egg chamber.
+~
+~
+0 -1 16344
+D4
+the ANTe Chamber.
+~
+~
+0 -1 16342
+S
+#16344
+Egg Chamber~
+You walk into a room with eggs laying everywhere. There are worker ants
+running around everywhere, neatly stacking the eggs in piles, and moving
+out hatched eggs, they also sit here feeding larvae and removing trash.
+
+~
+64 269 0 1 99 3
+D3
+the Royal Chamber.
+~
+~
+0 -1 16343
+S
+#16345
+Entrance to the Hive~
+You see a large bee hive here. Drone bees are here guarding the entrance, and
+worker bees fly in and out to collect pollen. You are in awe as you look at th
+e effectiveness of this hierarchy.
+
+~
+64 0 0 1 99 0
+D4
+Entrance to the Hive.
+~
+~
+0 -1 16346
+D5
+The Jungle Floor.
+~
+~
+0 -1 16329
+S
+#16346
+Honeycomb~
+You sit inside the honeycomb, honey surrounding you.  Worker bees are here
+brushing off pollen into the honeycombs.  They just seem to ignore you.
+However, the Drone bees sitting here as well have some interest in you.
+~
+64 8 0 1 99 0
+D0
+The tunnel continues.
+~
+~
+0 -1 16347
+D5
+the entrance to the hive.
+~
+~
+0 -1 16345
+S
+#16347
+Center of the Hive~
+You sit in the center of the hive. Passages lead off in all directions.
+You are confused, and not sure which way is the way out.
+Bees wander all over the place.
+~
+64 8 0 1 99 0
+D0
+The tunnel goes on.
+~
+~
+0 -1 16349
+D1
+The tunnel goes on.
+~
+~
+0 -1 16348
+D2
+The tunnel goes on.
+~
+~
+0 -1 16350
+D3
+The tunnel goes on.
+~
+~
+0 -1 16350
+S
+#16348
+Honeycomb~
+You sit inside the honeycomb, honey surrounding you.  Worker bees are here
+brushing off pollen into the honeycombs.  They just seem to ignore you.
+However, the Drone bees sitting here as well have some interest in you.
+~
+64 8 0 1 99 0
+D0
+The tunnel goes on.
+~
+~
+0 -1 16347
+D1
+The tunnel goes on.
+~
+~
+0 -1 16347
+D2
+The Queens Chamber.
+~
+~
+0 -1 16351
+D3
+The tunnel goes on.
+~
+~
+0 -1 16347
+S
+#16349
+Honeycomb~
+You sit inside the honeycomb, honey surrounding you.  Worker bees are here
+brushing off pollen into the honeycombs.  They just seem to ignore you.
+However, the Drone bees sitting here as well have some interest in you.
+~
+64 8 0 1 99 0
+D0
+The tunnel goes on.
+~
+~
+0 -1 16347
+D1
+The tunnel goes on.
+~
+~
+0 -1 16347
+D2
+The tunnel goes on.
+~
+~
+0 -1 16347
+D3
+The tunnel goes on.
+~
+~
+0 -1 16347
+S
+#16350
+Honeycomb~
+You sit inside the honeycomb, honey surrounding you.  Worker bees are here
+brushing off pollen into the honeycombs.  They just seem to ignore you.
+However, the Drone bees sitting here as well have some interest in you.
+~
+64 8 0 1 99 0
+D0
+The tunnel goes on.
+~
+~
+0 -1 16347
+D1
+The tunnel goes on.
+~
+~
+0 -1 16347
+D2
+The tunnel goes on.
+~
+~
+0 -1 16347
+D3
+The tunnel goes on.
+~
+~
+0 -1 16347
+S
+#16351
+Queen Bee Chamber~
+This room is ornately decorated with honeycombs. Vats of honey sit all over
+the place. The Queen Bee sits on her throne buzzing, and laying eggs in the
+various honeycomb holes. Worker bees sit here tending her, and many drone
+bees sit here protecting her from intruders.
+~
+64 8 0 1 99 0
+D0
+The tunnel goes on.
+~
+~
+0 -1 16350
+D1
+The tunnel goes on.
+~
+~
+0 -1 16346
+D2
+The tunnel goes on.
+~
+~
+0 -1 16349
+D3
+The tunnel goes on.
+~
+~
+0 -1 16348
+S
+#16352
+By the Deadly Jungle~
+You see to have wandered, and gotten totally lost, you get a spine shivering
+feeling from all directions. You feel utterly trapped, and that another
+step will get you killed.
+
+~
+64 4 0 1 99 3
+D0
+You spine shivers, as death is near.
+~
+~
+0 -1 16353
+D1
+You spine shivers, as death is near.
+~
+~
+0 -1 16353
+D2
+You spine shivers, as death is near.
+~
+~
+0 -1 16353
+D3
+You spine shivers, as death is near.
+~
+~
+0 -1 16353
+S
+#16353
+Lair of the Red Panther~
+Whoops, looks like you didn't check before walking.  Hope this teaches you
+to look where you walk next time!  Before you can realize the danger you
+are actually in, the legendary lethal Red Panther slices you with one
+swipe of his 5 foot long claws.
+~
+64 14 0 1 99 3
+S
+#16354
+Witch Doctor's Clinic~
+This is where the Witch Doctor hangs out.  All his medicines are on a shelf.
+He seems to be withdrawn from the world, and doesn't wish to help anyone
+right now, especially you.
+~
+64 12 0 1 99 1
+D0
+a handle on a wall.
+~
+wall~
+31 16301 16321
+S
+#16355
+Jungle Mountain Trail~
+You are on a mountain trail inside the jungle.
+
+~
+64 1 0 1 99 5
+D1
+jungle.
+~
+~
+0 -1 16356
+D5
+jungle.
+~
+~
+0 -1 16310
+S
+#16356
+Jungle Mountain Trail~
+You are on a mountain trail inside the jungle.  A path veers to the
+north towards the volcano.
+~
+64 1 0 1 99 5
+D0
+Approaching the Volcano
+~
+~
+32 -1 3900
+D2
+a village ahead.
+~
+~
+0 -1 16357
+D3
+jungle.
+~
+~
+0 -1 16355
+S
+#16357
+Village~
+Villagers run all over the place, screaming in a language unknown to you.
+The begin running for weapons, and start running at you, screaming. You
+decipher by pure body language alone, not to mention the flying spears
+and flailing machete's that they don't want you here, or maybe they do,
+some of them seem to be gathering pots.
+
+~
+64 0 0 1 99 1
+D0
+jungle.
+~
+~
+0 -1 16356
+D1
+A village road.
+~
+~
+0 -1 16358
+D2
+A village road.
+~
+~
+0 -1 16360
+D3
+A village road.
+~
+~
+0 -1 16359
+S
+#16358
+Village~
+Villagers run all over the place, screaming in a language unknown to you.
+The begin running for weapons, and start running at you, screaming. You
+decipher by pure body language alone, not to mention the flying spears
+and flailing machete's that they don't want you here, or maybe they do,
+some of them seem to be gathering pots.
+
+~
+64 0 0 1 99 1
+D2
+A village road.
+~
+~
+0 -1 16360
+D3
+A village road.
+~
+~
+0 -1 16357
+S
+#16359
+Village~
+Villagers run all over the place, screaming in a language unknown to you.
+The begin running for weapons, and start running at you, screaming. You
+decipher by pure body language alone, not to mention the flying spears
+and flailing machete's that they don't want you here, or maybe they do,
+some of them seem to be gathering pots.
+
+~
+64 0 0 1 99 1
+D1
+A village road.
+~
+~
+0 -1 16357
+D2
+A village road.
+~
+~
+0 -1 16360
+S
+#16360
+Village~
+Villagers run all over the place, screaming in a language unknown to you.
+The begin running for weapons, and start running at you, screaming. You
+decipher by pure body language alone, not to mention the flying spears
+and flailing machete's that they don't want you here, or maybe they do,
+some of them seem to be gathering pots.
+
+~
+64 0 0 1 99 1
+D0
+A village road.
+~
+~
+0 -1 16357
+D1
+A village road.
+~
+~
+0 -1 16358
+D2
+a path leading off through the jungle.
+~
+~
+0 -1 16367
+D3
+A village road.
+~
+~
+0 -1 16359
+S
+#16361
+Elder Room~
+This place has writing utensils on a small tabletop. A fire
+sits in the center of this room, and an Old man sits here at the fire
+He looks deep in contemplation.
+~
+64 268435464 0 1 99 1
+D5
+a trap door.
+~
+trap door~
+31 16300 16334
+S
+#16362
+Lion's Den~
+You have entered the only cave here in the jungle. It is dark and dank, 
+the smell of rotting flesh and meat, lingers in the air. Bones are lying
+around all over the ground. You get a sense of supremecy here, and look
+around seeing, the one and only, King of the Jungle.
+
+~
+64 9 0 1 99 5
+D2
+a bush.
+~
+bush~
+9 -1 16330
+S
+#16363
+Village of Tubbiki~
+You see pigmies everywhere. Sheesh! These things are tiny, little, annoying, 
+and too cute to live. You are flanked by pygmy homes.
+~
+64 0 0 1 99 1
+D0
+a small home.
+~
+~
+0 -1 16364
+D1
+more village.
+~
+~
+0 -1 16320
+D2
+a small home.
+~
+~
+0 -1 16387
+D3
+a small home.
+~
+~
+0 -1 16386
+S
+#16364
+Pygmy House~
+You have entered one of the many homes in the Village of Tubbiki. Pygmy
+children run around at your feet and the adults eye you cautiously. Again you
+were not expected.
+~
+64 8 0 1 99 1
+D2
+the village.
+~
+~
+0 -1 16363
+S
+#16365
+Tiger Pit~
+Remember the days when your mother told you to look both ways before
+crossing the street? Well the same thing goes for the jungle before you
+take a step in any direction. Now you didn't listen to your mother, and
+you didn't use any common sense. You're here in a pit with tigers, who are
+licking their and thinking of you as Kitty Bits.
+~
+64 1158 0 1 99 1
+S
+#16366
+The Poachers Cage~
+Bad luck has shined upon thee! You have found your way into the poachers cage!
+No exits, no magic, your only hope is a summon my careless friend!
+
+~
+64 7308 0 1 99 0
+S
+#16367
+Path to the Plain~
+You are now walking in gradually less dense jungle. Off to the south you can 
+see a huge clearing.
+
+~
+64 0 0 1 99 3
+D0
+the head hunter village.
+~
+~
+0 -1 16360
+D2
+a path leading to a large clearing.
+~
+~
+0 -1 16368
+S
+#16368
+Path to the Plain~
+You are now walking in gradually less dense jungle. Off to the south you can 
+see a huge clearing.
+
+~
+64 0 0 1 99 3
+D0
+The path leads back to the head hunter village.
+~
+~
+0 -1 16367
+D2
+a large clearing.
+~
+~
+0 -1 16369
+S
+#16369
+Plain~
+The plains stretch out in front of you with a vast nothingness.
+Everywhere you look you see different animals than those of the jungle.
+
+~
+64 0 0 1 99 2
+D0
+The path leads back to the head hunter village.
+~
+~
+0 -1 16368
+D1
+Nothing but plains.
+~
+~
+0 -1 16371
+D2
+Nothing but plains.
+~
+~
+0 -1 16372
+D3
+Nothing but plains.
+~
+~
+0 -1 16370
+S
+#16370
+Plain~
+The plains stretch out in front of you with a vast nothingness. Everywhere you
+look you see different animals than those of the jungle.
+
+~
+64 0 0 1 99 2
+D0
+Nothing but plains.
+~
+~
+0 -1 16370
+D1
+Nothing but plains.
+~
+~
+0 -1 16369
+D2
+Nothing but plains.
+~
+~
+0 -1 16373
+D3
+Nothing but plains.
+~
+~
+0 -1 16370
+S
+#16371
+Plain~
+The plains stretch out in front of you with a vast nothingness. Everywhere
+you look you see different animals than those of the jungle.
+
+~
+64 0 0 1 99 2
+D0
+Nothing but plains.
+~
+~
+0 -1 16371
+D1
+Nothing but plains.
+~
+~
+0 -1 16371
+D2
+Nothing but plains.
+~
+~
+0 -1 16374
+D3
+Nothing but plains.
+~
+~
+0 -1 16369
+S
+#16372
+Plain~
+The plains stretch out in front of you with a vast nothingness. Everywhere you
+look you see different animals than those of the jungle.
+
+~
+64 0 0 1 99 2
+D0
+Nothing but plains.
+~
+~
+0 -1 16369
+D1
+Nothing but plains.
+~
+~
+0 -1 16374
+D2
+some sort of rock strata.
+~
+~
+0 -1 16375
+D3
+Nothing but plains.
+~
+~
+0 -1 16373
+S
+#16373
+Plain~
+The plains stretch out in front of you with a vast nothingness. Everywhere you
+look you see different animals than those of the jungle.
+
+~
+64 0 0 1 99 2
+D0
+Nothing but plains.
+~
+~
+0 -1 16370
+D1
+Nothing but plains.
+~
+~
+0 -1 16372
+D2
+Nothing but plains.
+~
+~
+0 -1 16373
+D3
+Nothing but plains.
+~
+~
+0 -1 16373
+S
+#16374
+Plain~
+The plains stretch out in front of you with a vast nothingness. Everywhere you
+look you see different animals than those of the jungle.
+
+~
+64 0 0 1 99 2
+D0
+Nothing but plains.
+~
+~
+0 -1 16371
+D1
+Nothing but plains.
+~
+~
+0 -1 16374
+D2
+Nothing but plains.
+~
+~
+0 -1 16374
+D3
+Nothing but plains.
+~
+~
+0 -1 16372
+S
+#16375
+Plain~
+You have reached the plains rocks a central meeting spot for all of
+the animals in this clearing. You see elephants, birds and every other type
+of animal you would expect. You also see a particularly unusual sight when 
+you notice the elephant leader here giving commands to his minions.
+
+~
+64 0 0 1 99 2
+D0
+Nothing but plains.
+~
+~
+0 -1 16372
+D5
+a large rock covering a small hole.
+~
+rock~
+1 0 16381
+S
+#16376
+Path to Adalla's~
+You are on a path that has been decorated in an extremely feminine fashion. 
+In addition to thousands of beautiful flowers lining the sides of the path,
+you see many cute fuzzy little animals scurrying throughout the various
+plants and bushes.
+
+~
+64 1 0 1 99 3
+D0
+a house built of bamboo.
+~
+~
+0 -1 16377
+D2
+jungle.~
+~
+0 -1 16323
+S
+#16377
+Outside Adalla's House~
+You have come to a small clearing. You are apparently on the front porch of
+Jane the Jungle Lady. Her house is fashioned with the most up to date jungle
+decor. You feel a sense of peace as you stand in such a caring place. Every 
+animal seems to gather around her house with admiration.
+
+~
+64 1 0 1 99 3
+D0
+the front door.
+~
+door front door~
+1 -1 16378
+D2
+a path lined with orchids.
+~
+~
+0 -1 16376
+S
+#16378
+Adalla's House~
+As you look around you see flower pot, bird feathers and many more various
+decorations from the jungle. you realize that the inside of this house is
+even more beautiful than the outside. But all in all the real beauty comes
+from Adalla, who is standing here. Wow! What a knockout!
+~
+64 9 0 1 99 3
+D2
+the front door.
+~
+door front door~
+1 -1 16377
+S
+#16379
+Map Room.~
+           A M A Z O N   M A Z E   M A P   R O O M . . . . .
+
+Starting at 16323...north is Jane's, east is path
+            16324...south is path
+            16325...west is path
+            16326...east is path
+            16327...west is DT, north is path
+            16328...north is poachers cage, west is path
+            16329...up is hive, north is path
+            16330...north is lion's den, south is anthill, west is path
+            16331...north is opening under tarzan, east is path
+            16332...east is path to pigmy camp
+
+~
+64 268435980 0 48 99 0
+D3
+maze map room 2.~
+~
+0 -1 16398
+S
+#16380
+The Ant Lion's Den~
+You apparently don't watch where you wander, so you wandered into a place
+where a hungry beast eats you in one gulp.
+~
+64 270 0 1 99 3
+S
+#16381
+Secret Underground River~
+You have entered a secret underground river flowing who knows where. The
+current is quite strong, and you fear you cannot go back.
+~
+64 5 0 1 99 6
+D2
+more river.~
+~
+0 -1 16382
+S
+#16382
+Secret Underground River~
+You have entered a secret underground river flowing who knows where. The
+current is quite strong, and you fear you cannot go back.
+~
+64 5 0 1 99 6
+D2
+more river.
+~
+~
+0 -1 16383
+S
+#16383
+Secret Underground River~
+You have entered a secret underground river flowing who knows where. The
+current is quite strong, and you fear you cannot go back.
+~
+64 5 0 1 99 6
+D1
+more river.
+~
+~
+0 -1 16384
+S
+#16384
+Secret Underground River~
+You have entered a secret underground river flowing who knows where. The
+current is quite strong, and you fear you cannot go back.
+~
+64 5 0 1 99 6
+D2
+more river.
+~
+~
+0 -1 16385
+S
+#16385
+Secret Underground River~
+You have come to the end of the secret river. Down you see the Amazon, a
+welcomed sight after so much darkness.
+~
+64 1 0 1 99 6
+D5
+a huge river.
+~
+~
+0 -1 16300
+S
+#16386
+Pygmy House~
+You have entered one of the many homes in the Village of Tubbiki. Pygmy
+children run around at your feet and the adults eye you cautiously. Again you
+were not expected.
+~
+64 8 0 1 99 1
+D1
+the village.
+~
+~
+0 -1 16363
+S
+#16387
+Pygmy House~
+You have entered one of the many homes in the Village of Tubbiki. Pygmy
+children run around at your feet and the adults eye you cautiously. Again you
+were not expected.
+~
+64 8 0 1 99 1
+D0
+the village.
+~
+~
+0 -1 16363
+S
+#16388
+Pygmy House~
+You have entered one of the many homes in the Village of Tubbiki. Pygmy
+children run around at your feet and the adults eye you cautiously. Again you
+were not expected.
+~
+64 8 0 1 99 1
+D2
+the village.
+~
+~
+0 -1 16320
+S
+#16389
+Pygmy House~
+You have entered one of the many homes in the Village of Tubbiki. Pygmy
+children run around at your feet and the adults eye you cautiously. Again you
+were not expected.
+~
+64 8 0 1 99 1
+D0
+the village.
+~
+~
+0 -1 16317
+S
+#16390
+Pygmy House~
+You have entered one of the many homes in the Village of Tubbiki. Pygmy
+children run around at your feet and the adults eye you cautiously. Again you
+were not expected.
+~
+64 8 0 1 99 1
+D2
+the village.
+~
+~
+0 -1 16319
+S
+#16391
+Pygmy House~
+You have entered one of the many homes in the Village of Tubbiki. Pygmy
+children run around at your feet and the adults eye you cautiously. Again you
+were not expected.
+~
+64 8 0 1 99 1
+D0
+the village.
+~
+~
+0 -1 16319
+S
+#16392
+Pygmy House~
+You have entered one of the many homes in the Village of Tubbiki. Pygmy
+children run around at your feet and the adults eye you cautiously. Again you
+were not expected.
+~
+64 8 0 1 99 1
+D3
+the village.
+~
+~
+0 -1 16319
+S
+#16393
+Pygmy Camp~
+You see very small huts here, spears lying against them. Pygmies run all over
+the place cheering in victory. A wild boar lies pierced on a stick roasting
+over a fire. They look at you as you walk in.
+~
+64 0 0 1 99 1
+D0
+the north edge of the camp.
+~
+~
+0 -1 16333
+D1
+a corner of the camp.
+~
+~
+0 -1 16397
+D3
+a corner of the camp.
+~
+~
+0 -1 16396
+D4
+a throne room.
+~
+~
+0 -1 16334
+S
+#16394
+Pygmy Camp~
+You see very small huts here, spears lying against them. Pygmies run all over
+the place cheering in victory. A wild boar lies pierced on a stick roasting
+over a fire. They look at you as you walk in.
+~
+64 0 0 1 99 1
+D2
+a corner of the camp.
+~
+~
+0 -1 16397
+D3
+the north edge of the camp.
+~
+~
+0 -1 16333
+S
+#16395
+Pygmy Camp~
+You see very small huts here, spears lying against them. Pygmies run all over
+the place cheering in victory. A wild boar lies pierced on a stick roasting
+over a fire. They look at you as you walk in.
+~
+64 0 0 1 99 1
+D1
+the north edge of the camp.
+~
+~
+0 -1 16333
+D2
+a corner of the camp.
+~
+~
+0 -1 16396
+S
+#16396
+Pygmy Camp~
+You see very small huts here, spears lying against them. Pygmies run all over
+the place cheering in victory. A wild boar lies pierced on a stick roasting
+over a fire. They look at you as you walk in.
+~
+64 0 0 1 99 1
+D0
+a corner of the camp.
+~
+~
+0 -1 16395
+D1
+the south edge of the camp.
+~
+~
+0 -1 16393
+S
+#16397
+Pygmy Camp~
+You see very small huts here, spears lying against them. Pygmies run all over
+the place cheering in victory. A wild boar lies pierced on a stick roasting
+over a fire. They look at you as you walk in.
+~
+64 0 0 1 99 1
+D0
+a corner of the camp.
+~
+~
+0 -1 16394
+D3
+the south edge of the camp.
+~
+~
+0 -1 16393
+S
+#16398
+Map Room 2.~
+              A M A Z O N   M A Z E   M A P   R O O M   2
+
+Bee Hive...
+   from 16329...up to hive
+        16345...up to honeycomb
+        16346...north
+        16347...east
+        16348...south to queen bee
+        16351...east
+        16346...down
+        16345...down
+
+Jungle Trail...
+   from 16307...north
+        16308...north
+        16309...south
+        16310...west is dr. livingston, up to headhunter village
+~
+64 268435968 0 48 99 0
+D1
+maze map room 1.~
+~
+0 -1 16379
+D3
+you see maze map room 3.~
+~
+0 -1 16399
+S
+#16399
+Map Room 3.~
+           A M A Z O N   M A Z E   M A P   R O O M   3
+
+Ant Hill...
+    from 16337...north is a dt, down is anthill
+         16338...south
+         16341...south
+         16342...down to royal chamber
+         16343...east to egg chamber
+         16344...west back to royal chamber
+         16343...up
+         16342...north
+         16341...west
+         16338...up to jungle
+~
+64 268435968 0 48 99 0
+D1
+maze map room 2.~
+~
+0 -1 16398
+S
+$~
+#999999

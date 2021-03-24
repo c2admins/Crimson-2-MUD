@@ -1,0 +1,246 @@
+#6025
+mob john little~
+John Little~
+John welcomes you to his home with his hand out for a small tax
+~
+John is a big teddy bear.  He looks mean and gruesome in his ragged clothing.
+He will do you no harm until you try to get past the bridge in 
+Sherwood Forest without paying your tolls.
+~
+10 32769 136249361 128 500 S
+35 8 10 30d18+2500 10d10+24
+80000 210000
+8 8 1
+1 4 22 17 19 15 18 12
+SKILL=SKILL_KICK 75
+SKILL=SPELL_HEAL_MEDIUM 99
+#6026
+mob juvenile thief~
+A juvenile thief~
+A Juvenile thief is standing here, pondering what to steal from you.
+~
+A rather sneaky one this one is looking for nothing but to steal from you.
+Then he will donate it to the poor so be carfule he may already be digging
+into your pockets getting every last bit he can.
+~
+8 294913 136249361 1572866 0 S
+25 15 18 26d15+1900 4d8+27
+17300 74598
+8 8 1
+15 3 16 17 16 16 13 13
+SKILL=SKILL_STEAL 80
+SKILL=SKILL_SECOND 90
+#6027
+mob robin hood~
+Robin Hood~
+Robin Hood stands here, glaring at you...
+~
+Robin is a rather gentle looking person. Who doesnt like to 
+get into conflict often but he will if need be.
+~
+8202 32769 136249361 536871044 1000 S
+46 0 -25 100d100+16000 5d45+50
+2500000 1104000
+8 8 1
+1 3 16 18 15 15 14 15
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_FIREBALL 70
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 70
+SKILL=SPELL_HEAL_MEDIUM 99
+#6028
+mob johnathan~
+Johnathan~
+Johnathan, The drunken priest is wobbling around here.
+~
+Johnathan looks mean and ragged from drinking the Sherwood punch
+never is he not drunk.
+~
+8 32769 136249361 268435458 500 S
+41 2 -24 10d10+15000 9d9+0
+450000 373737
+8 8 1
+0 6 17 15 15 16 13 14
+SKILL=SPELL_IMPROVED_INVIS 99
+SKILL=SPELL_LIGHTNING_BOLT 75
+ATTACK_SKILL=70
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=108
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6029
+mob Jackyl~
+viscious jackyl~
+A short nasty looking Jackyl is standing here foaming from his mouth
+~
+A rather viscious looking creature wandering around aimlessly looking
+for something to feast upon. It may be you it may not be you but if you don't 
+wish to find out I wouldnt stick around here too long.
+~
+8 1 136249361 1048576 0 S
+25 15 18 25d25+1750 3d6+1
+17500 75050
+8 8 0
+0 0 17 18 14 15 13 15
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_PARRY 75
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#6030
+mob David~
+David, The Armourer~
+David, The Armourer of Sherwood is here towering over you.
+~
+David stands here looking to help you with all your weapon needs.
+~
+8202 1081345 136249361 132 660 S
+35 8 -10 25d25+1800 5d8+10
+81818 215000
+8 8 0
+0 0 17 16 16 16 12 12
+SKILL=SPELL_SANCTUARY 99
+SKILL=SKILL_KICK 99
+ATTACK_SKILL=90
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6031
+mob Triton~
+Triton, The Great~
+Triton, The Great is standing here waiting for his next show.
+~
+Triton is a rather gentle man looking to put on a show for the kids of
+Sherwood today. He has not many fears though for he is the most powerful
+person in the forest.
+~
+1074073688 819201 136249361 119015138 1000 S
+48 0 -35 100d100+45000 30d29+50
+3500000 1444000
+8 8 1
+1 1 16 17 14 15 14 12
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SKILL_SECOND 30
+SKILL=SKILL_THIRD 10
+SKILL=SKILL_FOURTH 2
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_BLACK_BURST 90
+ATTACK_SKILL=50
+ATTACK_SKILL=14
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#6032
+mob cemetary guardian~
+The Cemetary Guardian~
+The Cemetary Guardian stands here. Ready to protect the Sherwood cemetary from anyone who trys to come in.
+~
+A rather viscious looking man ready to destroy you. Only if you try to 
+gain access to the gate which he guards.
+~
+14 32769 136249361 0 0 S
+33 10 -5 7d56+3550 8d4+18
+65000 186000
+8 8 0
+0 0 16 17 15 14 15 15
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_DODGE 30
+SKILL=SKILL_SECOND 85
+SKILL=SKILL_THIRD 15
+SKILL=SKILL_FOURTH 2
+#6033
+mob sherwood knight~
+A Sherwood Knight~
+A Sherwood Knight is standing here waiting for trouble.
+~
+A Sherwood knight one of the most distinguished citizens of the Sherwood
+forest it is best not to mess with him.
+~
+134242824 32769 136249361 0 1000 S
+43 1 -28 100d100+17000 17d12+22
+1400000 645000
+8 8 1
+24 4 26 17 16 15 13 15
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 10
+SKILL=SKILL_RAGE 85
+#6034
+mob innkeeper~
+The Sherwood Innkeeper~
+The Sherwood Innkeeper, is standing here waiting to serve you.
+~
+This gentleman is a rather old ragged fellow looks as if hes been through alot
+but he is willing to be of assistance to you 
+~
+537133130 1 136249361 128 900 S
+48 0 40 100d100+2000000 100d100+0
+1 0
+8 8 1
+0 0 17 15 16 16 13 11
+#6035
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 17 15 14 13 15
+#6036
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 16 16 15 13
+#6037
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 16 14 15 13
+#6038
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 17 15 14 15 12
+$~
+#999999

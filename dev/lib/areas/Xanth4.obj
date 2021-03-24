@@ -1,0 +1,1434 @@
+#800
+obj ring xanth~
+30
+a ring~
+a ring has been left here.~
+~
+9 135266368 0 3
+10 0 0 0
+10 20000 2000
+E
+propert~
+    nothing special..
+~
+E
+property~
+a ring of alignment change.
+~
+E
+propert~
+    nothing special..
+~
+#801
+obj ring xanth~
+25
+a ring~
+a ring has been left here.~
+~
+26 135266368 0 3
+12 0 0 0
+10 20000 2000
+E
+propert~
+    nothing special..
+~
+E
+property~
+spell obsorption.
+~
+E
+propert~
+    nothing special..
+~
+#802
+obj ring xanth~
+25
+a ring~
+a ring has been left here.~
+~
+9 135266368 0 3
+12 0 0 0
+10 20000 2000
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#803
+obj ring xanth~
+25
+a ring~
+a ring has been left here.~
+~
+9 135266368 0 3
+12 0 0 0
+10 20000 2000
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#804
+obj ring xanth~
+25
+a ring~
+a ring has been left here.~
+~
+9 135266368 0 3
+10 0 0 0
+10 20000 2000
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#805
+obj stone dragon statue~
+25
+a helm~
+a helm has been left here.~
+~
+9 135266368 0 17
+13 5 5 0
+10 20000 2000
+E
+property~
+helm of alignment change.
+~
+E
+propert~
+    nothing special..
+~
+E
+propert~
+    nothing special..
+~
+#806
+obj helm xanth~
+10
+a helm~
+a helm has been left here.~
+~
+26 138412096 0 17
+15 3 3 76
+10 25000 5000
+E
+propert~
+    nothing special..
+~
+E
+property~
+spell obsorption.
+~
+E
+propert~
+    nothing special..
+~
+A
+19 3
+A
+17 -10
+#807
+obj helm xanth~
+10
+a helm~
+a helm has been left here.~
+~
+9 135266368 0 17
+13 0 0 0
+10 20000 1800
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#808
+obj helm xanth~
+10
+a helm~
+a helm has been left here.~
+~
+9 135266368 0 17
+13 0 0 0
+10 20000 1800
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#809
+obj helm xanth~
+10
+a helm~
+a helm has been left here.~
+~
+9 135266368 0 17
+13 0 0 0
+10 20000 1800
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#810
+obj robe xanth~
+10
+a robe~
+A bolt of clothe is lying here.~
+~
+9 135266368 0 1025
+36 0 0 0
+10 20000 2000
+E
+property~
+robe of alignment change.
+~
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#811
+obj robe xanth~
+40
+a robe~
+A bolt of clothe is lying here.~
+~
+26 134742080 0 1025
+15 2 2 32
+10 5000 1000
+E
+propert~
+    nothing special..
+~
+E
+property~
+spell obsorption.
+~
+E
+propert~
+    nothing special..
+~
+#812
+obj robe xanth~
+10
+a robe~
+A bolt of clothe is lying here.~
+~
+9 135266368 0 1025
+36 0 0 0
+10 20000 1800
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#813
+obj robe xanth~
+10
+a robe~
+A bolt of clothe is lying here.~
+~
+9 135266368 0 1025
+13 0 0 0
+10 20000 1800
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#814
+obj robe xanth~
+10
+a robe~
+A bolt of clothe is lying here.~
+~
+9 135266368 0 1025
+13 0 0 0
+10 20000 1800
+E
+propert~
+    nothing special..
+~
+E
+property~
+undefined.
+~
+E
+propert~
+    nothing special..
+~
+#815
+obj sapphire jewel blue~
+20
+a brilliant blue sapphire~
+a precious jewel lies in the dirt flickering brightly.~
+~
+26 138412096 0 16385
+15 3 3 76
+10 25000 5000
+E
+propert~
+    nothing special..
+~
+E
+property~
+spell obsorption.
+~
+E
+propert~
+    nothing special..
+~
+A
+19 3
+A
+18 3
+A
+17 -15
+#816
+obj Rum and Coke~
+100
+&yRum &wand &yCoke&n~
+A fizzy alcoholic beverage sings to you~
+~
+17 0 0 16385
+0 100 4 0
+2 200 100
+#817
+obj An endless strand of code~
+2
+&rAn &wendless &cstrand &wof &rcode&n~
+&rAn &wendless &cstrand &wof &rcode&n lays here~
+~
+5 134217728 0 8193
+11010066 4500 4500 11
+1 100 100
+A
+41 75
+A
+40 75
+A
+18 75
+#818
+obj mobius surf imm~
+1
+&Ss&Su&Sr&Sf &wb&Ko&Wa&Kr&wd&n~
+A streamlined plank, suitable for hangin' the curl, rests here.~
+~
+9 134217728 64 16385
+150 0 0 0
+1 100 1
+A
+19 10
+A
+40 10
+A
+41 10
+A
+25 25
+#819
+obj available for modification~
+1
+&YYellow&W notebook&n~
+A &Yyellow&W notebook&n rests here~
+~
+8 134217728 0 1
+0 0 0 0
+1 100 100
+#820
+obj quest key~
+100
+a quest key~
+a small key to the quest zone lies here.~
+~
+18 134479872 0 5
+0 1 0 0
+1 100 100
+#821
+obj quest key~
+100
+a quest key~
+a small key to the quest zone lies here.~
+~
+18 134479872 0 5
+0 1 0 0
+1 100 100
+#822
+obj quest key~
+80
+a quest key~
+A small key to the quest zone lies here.~
+~
+18 134479872 0 5
+0 1 0 0
+1 100 100
+#823
+obj quest key~
+100
+a small quest key~
+a small key to the quest zone lies here.~
+~
+18 134479872 0 5
+0 1 0 0
+1 100 100
+#824
+obj quest key~
+100
+a small quest key~
+a small key to the quest zone lies here.~
+~
+18 134479872 0 5
+0 1 0 0
+1 100 100
+#825
+obj quest key~
+100
+a quest key~
+a small key to the quest zone lies here.~
+~
+18 675545088 0 1025
+0 1 0 0
+1 100 100
+#826
+obj sexually inclined circus midget~
+1
+A sexually inclined circus midget~
+A sexually inclined circus midget~
+~
+9 134217728 0 2049
+0 0 0 0
+1 100 100
+A
+19 9
+A
+41 5
+A
+18 3
+A
+40 2
+#827
+obj Dante's Inferno~
+1
+Dante's Inferno~
+Dante's Inferno~
+~
+1 134217728 0 65537
+0 0 0 0
+1 100 100
+A
+37 -1
+A
+13 100
+A
+12 100
+A
+14 100
+#828
+obj icarus raindrop imm~
+1
+&KI&wc&Yar&wu&Ks' &cra&bi&Cnd&Bro&Cp&n~
+A frozen drop of rain reflects light, catching your eye~
+~
+5 134217728 64 24577
+5900312 3500 3500 11
+1 100 100
+A
+42 30
+A
+40 20
+A
+41 20
+A
+18 30
+#829
+obj icarus wings imm~
+1
+&KI&wc&Yar&wu&Ks' &ywax &Kwi&wn&Kgs&n~
+a pair of waxen wings rest here, showing heat damage~
+~
+9 134217728 64 1025
+100 0 0 0
+1 100 100
+A
+40 10
+A
+41 10
+A
+42 10
+A
+14 100
+#830
+obj virus syringe imm~
+1
+&c[&KVi&rr&Kus'&c]|[&wsyr&Wi&wnge&c}&w---&n~
+a tainted syringe rests here, promising illness~
+~
+5 134217728 64 8193
+11010075 3500 3500 11
+1 100 100
+A
+40 30
+A
+41 30
+A
+18 40
+A
+25 5
+#831
+obj virus vial imm~
+1
+&wa &cvi&wral&cly-&cinf&wec&cted &wv&Wia&wl of &rblood&n~
+a plagued vial of blood is discarded here, containing plague~
+~
+8 134217728 64 16385
+0 0 0 0
+1 100 100
+A
+40 20
+A
+41 20
+A
+18 20
+A
+13 100
+#832
+obj scarecrow head~
+1
+scarecrow head~
+scarecrow head lies here~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#833
+obj scarecrow torso~
+1
+scarecrow torso~
+scarecrow torso~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#834
+obj scarecrow right arm~
+1
+scarecrow right arm~
+scarecrow right arm~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#835
+obj scarecrow left arm~
+1
+scarecrow left arm~
+scarecrow left arm~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#836
+obj scarecrow right leg ~
+1
+scarecrow right leg~
+scarecrow right leg~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#837
+obj scarecrow left leg ~
+1
+scarecrow left leg~
+scarecrow left leg~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#838
+obj scarecrow right foot~
+1
+scarecrow right foot~
+scarecrow right foot~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#839
+obj scarecrow left foot~
+1
+scarecrow left foot~
+scarecrow left foot~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#840
+obj scarecrow right hand~
+1
+scarecrow right hand~
+scarecrow right hand~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#841
+obj scarecrow left hand~
+1
+scarecrow left hand~
+scarecrow left hand~
+~
+8 671088640 512 1
+0 0 0 0
+1 100 100
+#842
+obj epitaph scythe imm~
+0
+&KEp&ri&wtaph's &WScythe of &wJudgem&re&Knt&n~
+&cA sharp scythe, fit for rendering judgement, lies here&n~
+~
+5 134217728 64 8193
+9964555 1551 1551 3
+10 100 100
+A
+40 10
+A
+41 15
+A
+18 50
+A
+19 14
+#843
+obj epitaph skull imm~
+1
+&KEpi&wtap&Kh's &rB&Rl&Yazi&Rn&rg &wSk&Ku&wll&n~
+&cA flaming skull rests here, emitting heat and light&n~
+~
+1 0 64 81921
+0 0 0 0
+1 100 100
+A
+40 30
+A
+41 35
+A
+19 35
+#844
+obj epitaph cloak imm~
+1
+&KEp&Wi&wtaph's &cCloak of &wConcealm&We&Knt&n~
+&cA cloak that appears to emit shadow rests here&n~
+~
+15 134217728 64 1025
+2000 0 0 0
+1 100 100
+A
+25 20
+A
+37 -1
+A
+28 -1
+A
+41 17
+#845
+obj rlum horn imm~
+1
+&rBl&yood-tipp&red &KBull Horns&n~
+A set of bloody horns, smelling vaguely of steak, rest here~
+~
+8 134217728 64 16401
+0 0 0 0
+1 100 100
+A
+18 5
+A
+12 100
+A
+14 100
+A
+13 100
+#846
+obj Logrus fake~
+0
+&GL&wo&Kgr&wu&Gs&n~
+&c The powerful &GL&wo&Kgr&wu&Gs&c pulsates here, promising power to those strong enough to use it.&n~
+~
+5 671350784 2048 24577
+10944632 30 30 11
+1 100 100
+A
+40 7
+A
+41 7
+A
+42 7
+A
+18 10
+#847
+obj tail of scorn~
+1
+&Kt&cai&Kl of sc&co&Krn&n~
+A tail of immense power and loathing lies curled up here.~
+~
+9 775954432 16384 262145
+15 0 0 0
+1 100 100
+A
+40 3
+A
+19 7
+A
+18 5
+A
+12 -50
+#848
+obj grow the fuck up already~
+1
+Grow up, knock it off.~
+That goes for all of you.~
+~
+13 134217728 1024 98303
+0 0 0 0
+1 5 5
+A
+18 0
+A
+19 0
+A
+18 0
+A
+19 0
+#849
+obj Novius' Gaping Anus~
+2
+&yNo&Yvi&yus' &Kga&wpi&Kng &gA&Gnu&gs&n~
+&yNo&Yvi&yus' &Kga&wpi&Kng &gA&Gnu&gs&n festers here~
+~
+15 262144 0 351771
+350 0 0 0
+15 25000 2500
+A
+40 4
+A
+18 1
+A
+19 2
+A
+37 -1
+#850
+obj bagpipe imm~
+100
+&gb&ra&Gg&gp&ri&Gp&ge&rs&n~
+A set of new &gb&ra&Gg&gp&ri&Gp&ge&rs&n lie here, bleeting.~
+~
+5 0 64 90113
+527400 20 6 11
+3 300 30
+A
+19 3
+A
+18 3
+A
+37 -1
+#851
+obj Dolphin Tattoo~
+0
+&cMiriamele's &wdolphin &ctattoo&n~
+&cMiriamele's &wdolphin &ctattoo&n lies here... weird...~
+~
+8 536870912 64 33
+0 0 0 0
+1 5 5
+E
+dolphin~
+               ,-._
+              _.-'  '--.
+            .'      _  -`\_
+           / .----.`_.'----'
+           ;/     `
+          /_
+
+       ._      ._      ._      ._
+   _.-._)`\_.-._)`\_.-._)`\_.-._)`\_.-._
+~
+A
+19 10
+A
+18 10
+A
+40 10
+A
+41 10
+#852
+obj Caitey's wedding ring~
+0
+&wCaitey's &RRi&rng &Wof &rLo&Rve&n~
+A ring of beauty and warmth rests here, singing sweetly to you~
+~
+9 536870912 64 3
+30 0 0 0
+1 5 5
+E
+ring~
+Her ring:  &Y(&w::&y|&B===-&R\\\\&W0&R////&B-===&y|&w::&Y)&n
+~
+A
+19 4
+A
+18 4
+#853
+obj rose tattoo~
+0
+&wA &rdark rose &wbody tattoo with &Ktribal designs&n~
+A full-body tattoo lies here, dripping with gore.~
+~
+9 0 64 1025
+0 0 0 0
+1 5 5
+#854
+obj gyre gimble wabe~
+0
+&r*&RHub&rba Hub&Rba&r*&n~
+Caitey's mojo lies here, tempting you.~
+~
+8 536870912 0 16385
+1047675 200 200 11
+1 5 5
+A
+19 1
+A
+18 1
+A
+17 -5
+#855
+obj dolphin necklace imm~
+32767
+&wa si&Klv&wer d&Kolp&whi&Kn &wne&Kck&wlac&Ke&n~
+a small silver necklace rests here~
+~
+1 64 64 5
+0 0 0 0
+1 5 5
+A
+40 30
+A
+41 30
+A
+18 30
+#856
+obj thigh boots imm~
+0
+&wth&Wi&wgh h&Wig&wh &Kblack &wleather &Kboots&n~
+A pair of erotic looking leather boots rest here~
+~
+9 0 64 65
+140 0 0 0
+1 5 5
+A
+40 50
+A
+19 99
+A
+41 5
+#857
+obj lace thong imm~
+0
+&Kbl&wa&Kck &Wl&wa&Wc&we &Kth&wo&Kng&n~
+a flimsy lace thong lies here, tantalizingly~
+~
+9 0 64 2049
+0 0 0 0
+1 5 5
+#858
+obj lace corset imm~
+0
+&wsk&Ki&Wm&wpy &Kbl&wa&Kck &wl&Wac&we c&Wor&Ks&wet&n~
+a thin black corset was dropped here...~
+~
+9 0 64 9
+500 0 0 0
+1 5 5
+A
+18 40
+A
+42 50
+A
+25 1
+#859
+obj sapphire and diamond wings~
+0
+&bsap&Bph&bire b&Blu&be &wand &Wdi&Ka&wmo&Wn&wd wings&n~
+A set of sapphire and diamond wings rest here, fluttering gently~
+~
+9 0 0 1025
+0 0 0 0
+1 5 5
+#860
+obj sapphire and diamond arm bands~
+0
+&bsap&Bph&bire &Kand &wdi&Wa&wmo&Wnd&K arm &bba&Bn&bds&n~
+a shiny set of sapphire and diamond arm bands lie here~
+~
+9 0 0 257
+0 0 0 0
+1 5 5
+#861
+obj diamond bracelet~
+0
+&Ka &Wdi&wam&Wo&wnd &Kb&Wra&Kce&wlet&n~
+an elegant diamond bracelet ~
+~
+9 0 0 4097
+0 0 0 0
+1 5 5
+#862
+obj elbow length satin gloves~
+0
+&Kel&wb&Kow l&Ken&Wgt&wh &bsa&Bt&bin gl&Bov&bes&n~
+some erotic elbow length gloves lie here in a heap~
+~
+9 0 0 129
+0 0 0 0
+1 5 5
+#863
+obj sapphire blue boa~
+0
+&ba sap&Bph&bire b&Blu&be b&Bo&ba&n~
+a sapphire blue boa is curled up here~
+~
+9 0 0 5
+0 0 0 0
+1 5 5
+#864
+obj a diamond and sapphire choker~
+0
+&Wa &wdi&Wamo&wn&Wd &wand &bsap&Bph&bire ch&Bok&ber&n~
+a lovely diamond and sapphire choker reflects the light~
+~
+9 0 0 5
+0 0 0 0
+1 5 5
+#865
+obj black velvet pillow~
+0
+&Kbl&wa&Kck &wve&Kl&wve&Kt &wpi&Kll&wow&n~
+a stuffed velvet pillow rests here, looking comfy~
+~
+9 0 0 513
+0 0 0 0
+1 5 5
+#866
+obj sapphire blue ring~
+0
+&bsa&Bp&wph&Bi&bre b&Blu&be &wr&Win&wg&n~
+a sapphire blue ring rests here, shining brilliantly~
+~
+9 0 0 3
+0 0 0 0
+1 5 5
+#867
+obj sapphire and diamond butterfly barrett~
+0
+&bsap&Bph&bire &Kand &Wd&wia&Wmon&wd &bbut&Bter&bfly bar&Bre&btte&n~
+an elegant diamond and sapphire barrette lies here~
+~
+9 0 0 17
+0 0 0 0
+1 5 5
+#868
+obj sapphire blue butterfly statue~
+0
+&bsap&Bph&bire b&Blu&be &wbu&Wt&Kte&Wrf&wly s&Kta&Wt&wue&n~
+a mystical sapphire butterfly statue sits here~
+~
+8 0 0 16385
+0 0 0 0
+1 5 5
+#869
+obj butterfly whip imm~
+0
+&K{&y==&wa&y=&K]&w~~&Wwhip&w~~&K*&n~
+A torch is lying here.~
+~
+5 0 64 8193
+8932400 50000 50000 0
+1 5 5
+A
+40 50
+A
+41 50
+A
+42 50
+A
+18 30
+#870
+obj rlum sheath imm~
+0
+&cRl&yum's W&ciene&yr Shea&cth&n~
+Rlum's special sock lies here, slightly soggy.~
+~
+15 0 64 2049
+120 0 0 0
+1 5 5
+A
+40 10
+A
+41 10
+A
+19 10
+A
+18 10
+#871
+obj shark tooth imm~
+0
+&Wsh&wark&W's t&wo&Wot&wh&n~
+A gleaming tooth sits here, humming with some unknown power~
+~
+8 64 64 16385
+0 0 0 0
+1 5 5
+A
+40 5
+A
+41 5
+A
+42 5
+A
+29 -1
+#872
+obj busty cleavage quest3~
+0
+&ynice enticing cleavage&n~
+a set of hooters lie here, waiting to be fondled~
+~
+9 134479872 32 9
+100 0 0 0
+1 5 5
+A
+19 9
+A
+18 8
+A
+40 7
+A
+41 6
+#873
+obj spear wrath quest3~
+25
+&y[ Spear of&w///&cwrath &W>&n~
+A spear that is better for sex than you are rests here.~
+~
+5 134479872 0 8193
+10420248 25 25 11
+1 5 5
+A
+40 5
+A
+41 5
+A
+19 10
+A
+18 10
+#874
+obj relic sceptre imm~
+50
+&KLor&Wd &KR&We&Klic's &WScept&Kr&We&n~
+A &KPitch Bl&Wa&Kck &WSce&Kpter lies here, &Wrad&Kiating its dark &Wpower&n~
+~
+5 536870912 2112 24577
+8973435 10000 10000 7
+14 5 5
+A
+40 50
+A
+41 50
+A
+42 50
+A
+29 -1
+#875
+obj Logrus DO NOT LOAD~
+0
+&GL&wo&Kgr&wu&Gs&n~
+&c The powerful &GL&wo&Kgr&wu&Gs&c pulsates here, promising power to those strong enough to use it.&n~
+~
+5 0 2112 24577
+15723642 3500 3500 11
+10 100000000 100000000
+A
+40 75
+A
+41 75
+A
+42 75
+A
+25 75
+#876
+obj ebony blade irredeemable despair quest1~
+10
+&KEbony &wb&Wla&wd&We&w of &cirr&wede&cemab&wle &Kde&rs&wp&ra&Kir&n~
+a sword that emits pure depression and hums destructive melody rests here, consuming all light.~
+~
+5 671350788 2048 24577
+8944666 20 10 11
+1 5 5
+A
+18 5
+A
+40 2
+A
+41 2
+A
+12 50
+#877
+obj bikini imm~
+0
+&wtight &Ktwo&W-&Kpiece &rbikini&n~
+A scandalous set of clothing rests here~
+~
+8 0 64 9
+0 0 0 0
+1 5 5
+E
+bikini~
+This skimpy bikini leaves little, very little, to the imagination.
+It barely cups the breasts, going to just above the nipples, on the top piece.
+The bottom piece is so thin that, well, let's just say that no one has to strain their
+eyes to see what you have to offer.
+
+*drool*
+~
+A
+41 1
+A
+18 5
+A
+9 -15
+A
+42 15
+#878
+obj jedi lightsaber jyaaku~
+0
+&CJed&Ci &cLight&Csaber&n~
+A torch is lying here.~
+~
+5 0 2112 24577
+2097160 987 789 11
+1 5 5
+A
+40 25
+A
+41 25
+A
+18 10
+A
+37 -1
+#879
+obj jyaaku cloak imm~
+0
+&yJe&wdi Clo&yak&n~
+&ga heavy &yJe&wdi Clo&yak&g is crumpled here&n~
+~
+9 0 64 1033
+150 0 0 0
+1 5 5
+A
+40 3
+A
+41 3
+A
+19 25
+A
+18 25
+#880
+obj legacy leg plates quest1~
+1
+&wLe&Wga&wcy L&We&wg Pl&Wat&wes&n~
+Crafted silver and tin leg plates rest here, beckoning mortals~
+~
+9 134479872 1024 524321
+45 0 0 0
+1 5 5
+A
+41 2
+A
+19 2
+A
+18 2
+A
+40 2
+#881
+obj mantle of dread quest1~
+1
+&KMa&bnt&Kle &wof &KDr&be&Kad&n~
+A heavy fabric armor rests here, emanating misery.~
+~
+9 134479872 0 5
+20 0 0 0
+1 5 5
+A
+40 1
+A
+19 2
+A
+13 15
+A
+14 20
+#882
+obj spear of treachery quest1~
+1
+&y[Spear of Trea&Wc&whery>&n~
+A short spear with a hardened oaken shaft gleams in the light~
+~
+5 134479872 1024 8193
+81944 10 10 11
+1 5 5
+A
+1 2
+A
+2 2
+A
+14 15
+A
+13 10
+#883
+obj Tempered Adamantine Leggings~
+1
+&wTemp&Were&wd &KAda&gm&Gan&gt&Kine &wL&Wegg&wings&n~
+A set of gleaming leg plates catches your eye~
+~
+9 104867840 25600 524321
+0 0 0 0
+15 1000000 100000
+A
+40 1
+A
+19 2
+A
+18 2
+A
+12 30
+#884
+obj koala bear rainbow~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#885
+obj drow adamantium chainmail silver quest1~
+25
+&Ka set of drow chainmail made from an &wadamantium weave&n~
+A set of black elven chainmail lies here.~
+~
+9 138674274 0 9
+100 0 0 0
+25 400000 5
+A
+19 5
+A
+41 2
+A
+13 100
+A
+18 2
+#886
+obj warlord ring quest3~
+33
+&YR&yin&Yg &Wof the &rW&Ra&rr&Kl&wor&Kd&n~
+This should not be just lying on the ground.~
+~
+9 136577024 1024 3
+69 0 0 0
+1 5 5
+A
+40 15
+A
+41 15
+A
+25 3
+#887
+obj blood amulet quest2~
+33
+&wA &Rb&rloo&Rd &Yam&yul&Yet&n~
+an amulet of godlike power lies here.~
+~
+9 138674176 0 5
+45 0 0 0
+3 5 5
+A
+19 10
+A
+12 50
+A
+14 50
+A
+41 5
+#888
+obj hasek goalie mask quest2~
+30
+&RR&re&Rd&wWi&Wn&wgs &Kgoa&wli&Ke m&wa&Ksk&n~
+&wthe legendary helmet of &WHa&ws&Wek &wrests here&n~
+~
+9 1212416000 0 17
+35 0 0 0
+1 0 0
+A
+40 2
+A
+19 3
+A
+18 3
+A
+41 2
+#889
+obj belt stone draognscales quest2~
+10
+&wA &yBelt &wof &wS&Kton&we &KD&wr&Wag&wo&Kn&Gs&gcale&Gs&n~
+a helm has been left here.~
+~
+9 138674240 0 2049
+50 0 0 0
+10 20000 1800
+A
+19 5
+A
+40 5
+A
+41 3
+#890
+obj flame stone dragon quest3~
+20
+&rF&Rl&Ya&Rm&re &wof the S&Kton&we &KD&wr&Wag&wo&Kn&n~
+a brightly burning flame lies here, smoldering quietly.~
+~
+1 138674176 4 65537
+99 0 0 0
+1 5 5
+A
+19 13
+A
+18 6
+A
+41 3
+A
+40 3
+#891
+obj qm questmaster potion healing~
+32767
+&gQuestmaster's special healing potion&n~
+A &ggreen &npotion lies here.~
+~
+10 262144 0 16385
+50 77 77 76
+2 2000000 5
+#892
+obj Piece Sprocket Quest~
+100
+&CQ&cues&Ct p&ciec&Ce &Kof the Zone&rlord&n~
+&wReturn this to the &rGr&wi&rndM&wa&rst&we&rr&K Zone&rlord&w to claim your prize&n~
+~
+10 0 0 16385
+41 76 36 0
+2 2000000 5
+#893
+obj pythias hammer imm~
+0
+&wHa&Wm&wme&Kr o&wf T&Wr&wut&Kh&n~
+A hammer rests here, gently prodding your honesty and obedience.~
+~
+5 0 64 24577
+4258912 10000 10000 7
+1 5 50000
+A
+40 30
+A
+41 30
+A
+29 -1
+A
+42 30
+#894
+obj item waiting for work~
+50
+obj item waiting for work~
+obj item waiting for work~
+~
+5 536870912 2112 24577
+8973435 10000 10000 7
+14 5 5
+A
+40 50
+A
+41 50
+A
+42 50
+A
+29 -1
+$~
+#999999

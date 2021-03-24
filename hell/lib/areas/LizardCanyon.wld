@@ -1,0 +1,974 @@
+#2901
+A desert canyon entrance~
+The desert unfolds into a small alcove.  The canyon entrance is a vast open
+field laid out on the open sky.  You can see there are many caves within the
+dunes and mountain side.  Towards the north is a small village.  This is where
+the lizardmen come and trade goods and such.  Towards the other directions is
+nothing but open sand.
+~
+33 8 0 1 99 1
+D0
+The canyon basin
+~
+~
+0 -1 2902
+D2
+~
+~
+0 -1 3720
+S
+#2902
+A desert basin~
+This is an empty hole like place in the sand.  The canyon walls are made from a
+large broken mountain.  No one really knows why the mountain is broken.  Some
+say it was wizardry and some say it just happened over time.  In any case the
+result is an area suitable for growth and population.  There is almost no
+vegitation growing within this part of the world.  As a result most travelers
+have to survive on the insects and lizards within this domain.  Some say the
+lizards have grown to huge sizes here however.  And that hunting them is not
+the most wise idea to have.
+~
+33 8 0 1 99 1
+D0
+Near the small village.
+~
+~
+0 -1 2903
+D2
+The canyon entrance.
+~
+~
+0 -1 2901
+S
+#2903
+Near the small market place~
+The market place is in the northern distance.  You can see some of the strange
+life that dwells in these parts.  Like some evil curse has been placed on a
+small village.  The people of it seem to be transformed into lizard-like
+creatures.  You can tell by the heat around here that it must be a scorching
+110 degrees.  Most of the people of these parts seem to be of varied reptilian
+shape and human size.
+~
+33 8 0 1 99 1
+D0
+The castle entrance.
+~
+~
+0 -1 2911
+D1
+The retail outlet shop.
+~
+~
+0 -1 2917
+D2
+The canyon basin.
+~
+~
+0 -1 2902
+D3
+The herbal shop.
+~
+~
+0 -1 2918
+S
+#2909
+On the drawbridge~
+You are standing on a large wooden drawbridge.  There are crystals lining the
+outer rim of the bridge.  Crystals and glass products are very abundant within
+this region.  Sand and minerals are abundant.  Within the markets the lizard
+people barter mirrors, glasses, and crystal weapons of all shapes and sizes.
+You can see the great crystal spire reaching in the background of the castle.
+Towards the south is just the canyon entrance, however the castle looks far more
+interesting.
+~
+33 8 0 1 99 1
+D0
+Inside the castle walls
+~
+~
+0 -1 2910
+D2
+~
+~
+0 -1 2911
+S
+#2910
+Inside the castle walls~
+As you pass the portcullis, a new world has unfolded before your eyes.  You can
+see a market place of many different items and different food.  This place is
+the main desert refuge.  Few travelers have found this place, however the ones
+that do usually cannot leave right away.  Some never leave.  This place has a
+way of keeping people, it is an enchanted land.  Truly spectacular.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2919
+D2
+The drawbridge area.
+~
+~
+0 -1 2909
+S
+#2911
+The castle gates~
+There is a large wooden drawbridge lying across a bed of quicksand.  You can
+see there is a large worm of some kind swimming in the sand.  It looks very
+dangerous.  There is a large wall surrounding the castle and the market place.
+It can only be entered via this same bridge.  There is a large pillar standing
+towards the sky within the background.  You can see the caves surrounding the
+outer walls.  These caves are where the commoners live in this area.  Most of
+the creatures to be seen here are reptilian of some kind.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2909
+D2
+Before the entrance.
+~
+~
+0 -1 2903
+S
+#2917
+The "Retail" outfit shop~
+This is the great lizardman retail outlet.  You can see there are alot of
+varied skins about.  They come in most reptillian shapes.  A snake skin vest
+some clawed lizard boots.  There is even a shield bound in alligator leather.
+The items here are donated by the citizens and all money is spent to make the
+town able to live.  In the desert it is hard to raise a family or defend your
+people without the outside help.
+~
+33 8 0 1 99 1
+D3
+The main street in the marketplace.
+~
+~
+0 -1 2903
+S
+#2918
+The lizardman herbal shop~
+This is the herbal shop in town.  Here you will find many great herbs and 
+ointments.  You can see that now many of the rough skinned citizens use this
+shop.  It is mainly for tourists.  Travelers come here by the dozens.  There
+is even a tour bus that stops by here once in a while.
+~
+33 8 0 1 99 1
+D1
+The main street through the marketplace.
+~
+~
+0 -1 2903
+S
+#2919
+The castle path~
+The castle path is cascaded by native rocks.  Most are bleached in the sun with
+some kind of ointment and is stained a jade-blue color.  The rocks seem to
+glisten and brighten as you approach the main castle.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2920
+D2
+~
+~
+0 -1 2910
+S
+#2920
+At the gates~
+Standing before you lie a set of the strongest doors money can't buy.  These
+powerful doors seem to be made from the hardest rock in the area.  Too bad they
+seem to have a crack in them large enough for you.  On the bad note.  These 
+doors also come with lizardman guardians.  These guys are usually standing here
+to protect the king of these parts.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2921
+D2
+~
+~
+0 -1 2919
+S
+#2921
+Inside the castle~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 12 0 1 99 1
+D0
+~
+~
+0 -1 2928
+D1
+~
+~
+0 -1 2922
+D2
+~
+~
+0 -1 2920
+D3
+~
+~
+0 -1 2924
+S
+#2922
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2929
+D1
+~
+~
+0 -1 2923
+D3
+~
+~
+0 -1 2921
+S
+#2923
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2930
+D3
+~
+~
+0 -1 2922
+S
+#2924
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2927
+D1
+~
+~
+0 -1 2921
+D3
+~
+~
+0 -1 2925
+S
+#2925
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2926
+D1
+~
+~
+0 -1 2924
+S
+#2926
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2939
+D1
+~
+~
+0 -1 2927
+D2
+~
+~
+0 -1 2925
+D3
+~
+~
+0 -1 2941
+S
+#2927
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2937
+D1
+~
+~
+0 -1 2928
+D2
+~
+~
+0 -1 2924
+D3
+~
+~
+0 -1 2926
+S
+#2928
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2935
+D1
+~
+~
+0 -1 2929
+D2
+~
+~
+0 -1 2921
+D3
+~
+~
+0 -1 2927
+S
+#2929
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2933
+D1
+~
+~
+0 -1 2930
+D2
+~
+~
+0 -1 2922
+D3
+~
+~
+0 -1 2928
+S
+#2930
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2931
+D1
+~
+~
+0 -1 2959
+D2
+~
+~
+0 -1 2923
+D3
+~
+~
+0 -1 2929
+S
+#2931
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2932
+D2
+~
+~
+0 -1 2930
+D3
+~
+~
+0 -1 2933
+S
+#2932
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D2
+~
+~
+0 -1 2931
+D3
+~
+~
+0 -1 2934
+S
+#2933
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2934
+D1
+~
+~
+0 -1 2931
+D2
+~
+~
+0 -1 2929
+D3
+~
+~
+0 -1 2935
+S
+#2934
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D1
+~
+~
+0 -1 2932
+D2
+~
+~
+0 -1 2933
+D3
+~
+~
+0 -1 2936
+S
+#2935
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2936
+D1
+~
+~
+0 -1 2933
+D2
+~
+~
+0 -1 2928
+D3
+~
+~
+0 -1 2937
+S
+#2936
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D1
+~
+~
+0 -1 2934
+D2
+~
+~
+0 -1 2935
+D3
+~
+~
+0 -1 2938
+S
+#2937
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2938
+D1
+~
+~
+0 -1 2935
+D2
+~
+~
+0 -1 2927
+D3
+~
+~
+0 -1 2939
+S
+#2938
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D1
+~
+~
+0 -1 2936
+D2
+~
+~
+0 -1 2937
+D3
+~
+~
+0 -1 2940
+S
+#2939
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2940
+D1
+~
+~
+0 -1 2937
+D2
+~
+~
+0 -1 2926
+S
+#2940
+Inside the castle foyer~
+The entrance is a vastly large area.  You can see some time has been put into
+this foyer.  There seem to be many human heads aligning the walls.  I guess
+this is a bad place for humans and lost travelers.  Rumor has it these people
+live off their meat.  Some might call this place home.  But you may be called
+dinner.
+~
+33 8 0 1 99 1
+D1
+~
+~
+0 -1 2938
+D2
+~
+~
+0 -1 2939
+S
+#2941
+A passage in the castle~
+This is a cold passage way.  The breeze picks up here as it is made of solid
+stone.  There is no carpet or paintings on the walls.  The lizard people don't
+believe in such things.  They are a very basic race of people.
+~
+33 8 0 1 99 1
+D1
+~
+~
+0 -1 2926
+D3
+~
+~
+0 -1 2942
+S
+#2942
+A passage in the castle~
+This is a cold passage way.  The breeze picks up here as it is made of solid
+stone.  There is no carpet or paintings on the walls.  The lizard people don't
+believe in such things.  They are a very basic race of people.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2943
+D1
+~
+~
+0 -1 2941
+S
+#2943
+A passage in the castle~
+This is a cold passage way.  The breeze picks up here as it is made of solid
+stone.  There is no carpet or paintings on the walls.  The lizard people don't
+believe in such things.  They are a very basic race of people.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2944
+D2
+~
+~
+0 -1 2942
+S
+#2944
+A set of two stairs~
+You are at a set of stairs.  The ones going up lead to the bed chambers of the
+royalty.  The ones going down lead to the coal chamber.  This is where slaves
+work on mining.  The coal is brought into the market place for sale.  The 
+reptiles don't mind the cold.  Some races whom have visited complain about the
+frigid temperatures.
+~
+33 8 0 1 99 1
+D2
+~
+~
+0 -1 2943
+D4
+~
+~
+0 -1 2950
+D5
+~
+~
+0 -1 2945
+S
+#2945
+The staircase~
+This place is a very damp and dark place.  Slaves are brought here to mine the
+coal for the sale in the marketplace.  However, this doesn't require alot of
+mining.  So there is only one slave down here.  But the slave is monitored by
+one of the guards at all times.  
+~
+33 8 0 1 99 1
+D2
+~
+~
+0 -1 2946
+D4
+~
+~
+0 -1 2944
+S
+#2946
+The coal chamber~
+This place is a very damp and dark place.  Slaves are brought here to mine the
+coal for the sale in the marketplace.  However, this doesn't require alot of
+mining.  So there is only one slave down here.  But the slave is monitored by
+one of the guards at all times.  
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2945
+D2
+~
+~
+0 -1 2947
+S
+#2947
+The fragile caves~
+You are inside the hole.  This hole was made by the castle slave.  There is not
+warmth down here.  The human that is down here is bundled up in snow clothes.
+You can see ice forming about the cave walls.  There seems to be some light atthe end of this tunnel.  The warmth seems to be coming from the south as well.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2946
+D2
+~
+~
+0 -1 2948
+S
+#2948
+The fragile caves~
+You are inside the hole.  This hole was made by the castle slave.  There is not
+warmth down here.  The human that is down here is bundled up in snow clothes.
+You can see ice forming about the cave walls.  There seems to be some light at
+the end of this tunnel.  The warmth seems to be coming from the south as well.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2947
+D2
+~
+~
+0 -1 2949
+S
+#2949
+A small hole~
+You found Kenny's escape route.  He was planning to escape by this hole and take
+off into the free world.  The only problem is he has no other clothes other than
+the large overcoat he wears.  If he were to take that off he would be naked.
+So Kenny works on these mines more.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2948
+D4
+~
+~
+0 -1 2901
+S
+#2950
+The royal hallways~
+This is the top of the royal hallways.  These halls lead into the sleeping
+areas of the royalty and their honored guests.  These hallways are cold as ever.
+The lizard people like the cold and dry.  You can see there isn't much
+difference in this hallway as there is in any other
+~
+33 8 0 1 99 1
+D1
+~
+~
+0 -1 2951
+D5
+~
+~
+0 -1 2944
+S
+#2951
+The royal hallways~
+This is the top of the royal hallways.  These halls lead into the sleeping
+areas of the royalty and their honored guests.  These hallways are cold as ever.
+The lizard people like the cold and dry.  You can see there isn't much
+difference in this hallway as there is in any other
+~
+33 8 0 1 99 1
+D1
+~
+~
+0 -1 2952
+D3
+~
+~
+0 -1 2950
+S
+#2952
+The royal hallways~
+This is the top of the royal hallways.  These halls lead into the sleeping
+areas of the royalty and their honored guests.  These hallways are cold as ever.
+The lizard people like the cold and dry.  You can see there isn't much
+difference in this hallway as there is in any other
+~
+33 8 0 1 99 1
+D1
+~
+~
+0 -1 2953
+D3
+~
+~
+0 -1 2951
+S
+#2953
+The royal hallways~
+This is the top of the royal hallways.  These halls lead into the sleeping
+areas of the royalty and their honored guests.  These hallways are cold as ever.
+The lizard people like the cold and dry.  You can see there isn't much
+difference in this hallway as there is in any other
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2958
+D1
+~
+~
+0 -1 2954
+D2
+~
+~
+0 -1 2956
+D3
+~
+~
+0 -1 2952
+S
+#2954
+The royal hallways~
+This is the top of the royal hallways.  These halls lead into the sleeping
+areas of the royalty and their honored guests.  These hallways are cold as ever.
+The lizard people like the cold and dry.  You can see there isn't much
+difference in this hallway as there is in any other
+~
+33 8 0 1 99 1
+D2
+~
+~
+0 -1 2955
+D3
+~
+~
+0 -1 2953
+S
+#2955
+The Queen's bedchambers~
+This room is made for the Queen.  She has made this room vastly larger than the
+other rooms to fit her suitors.  You can't imagine (or maybe you can) why the
+Queen needs a room this big to fit all her suitors.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2954
+D1
+~
+~
+0 -1 2957
+S
+#2956
+Prince Eric's Room~
+This room is a filthy mess.  There is every toy a prince could ever want.  Rumor
+has it that he whines until he gets what he wants from the Queen.  This room is
+littered with human bones.  Human finger-poofs seem to be the Prince's favorite
+snack.  You can imagine the size of this dragon prince.
+~
+33 8 0 1 99 1
+D0
+~
+~
+0 -1 2953
+S
+#2957
+The Queen's bedchambers~
+This room is made for the Queen.  She has made this room vastly larger than the
+other rooms to fit her suitors.  You can't imagine (or maybe you can) why the
+Queen needs a room this big to fit all her suitors.
+~
+33 8 0 1 99 1
+D3
+~
+~
+0 -1 2955
+S
+#2958
+The royal counsole's room~
+This room is for the Royal Counsoler Mackey.  This room is neatly straightened
+with chairs and tables in place.  You can feel the boredom of this room by
+merely being in it.  You can't imagine the kind of talks this guy gives to the
+royal family here.
+~
+33 8 0 1 99 1
+D2
+~
+~
+0 -1 2953
+S
+#2959
+The royal eating hall~
+This place is a rather small eating area.  It is for the royal guards.  The
+food here is served by the royal cook.  The main course served here is whatever
+traveler is killed here.  You could be their next meal.  The fingers are taken
+up to Prince Eric's room.
+~
+33 8 0 1 99 1
+D3
+~
+~
+0 -1 2930
+S
+$~
+#999999

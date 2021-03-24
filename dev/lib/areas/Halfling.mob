@@ -1,0 +1,595 @@
+#17600
+mob wizard elven~
+the Elven Wizard~
+An Elven Wizard is here, creating fireworks for the festivities.
+~
+The Elven Wizard looks at you in a solemn sort of way.  His gaze seems to
+penetrate through your innermost being.  He is wearing a silvery cloak and
+holding a multi-coloured staff.  Although he appears to be older than the
+oldest man, he seems to have an inner strength which most mortals cannot
+overcome.
+~
+74 32769 136249361 8 500 S
+18 22 26 3d8+300 4d8+6
+4750 5900
+8 8 1
+15 1 16 15 14 13 11 12
+SKILL=SPELL_BLINDNESS 46
+SKILL=SPELL_BURNING_HANDS 46
+SKILL=SPELL_COLOUR_SPRAY 46
+SKILL=SPELL_CURSE 46
+SKILL=SPELL_ENERGY_DRAIN 46
+SKILL=SPELL_LIGHTNING_BOLT 46
+SKILL=SPELL_MAGIC_MISSILE 46
+SKILL=SPELL_SLEEP 46
+#17601
+mob ringkeeper keeper~
+the Keeper of the Ring~
+The Keeper of the Ring is here, guarding his treasure jealously.
+~
+The Ring Keeper is a rather big but short halfling.  His short stature and
+bulbous nose belie his true nature.  An elven sword the glows with a blue 
+light hangs from his belt, and on his finger you see the One Ring.  Although
+usually a halfling of peace, he will fight you to the death if you attempt
+to take away that which belongs to him.
+~
+262218 32769 136249361 136 0 S
+32 11 -1 20d49+1500 8d4+6
+55000 195000
+8 8 1
+1 1 20 19 18 18 17 14
+SKILL=SPELL_BLINDNESS 74
+SKILL=SPELL_BURNING_HANDS 74
+SKILL=SPELL_COLOUR_SPRAY 74
+SKILL=SPELL_CURSE 74
+SKILL=SPELL_ENERGY_DRAIN 74
+SKILL=SPELL_FIREBALL 74
+SKILL=SPELL_LIGHTNING_BOLT 74
+SKILL=SPELL_MAGIC_MISSILE 74
+SKILL=SPELL_SLEEP 74
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#17602
+mob farmer gamgee~
+Farmer Gamgee~
+Farmer Gamgee sniffs the air, wondering if harvest time is near.
+~
+Farmer Gamgee is a short, stout halfling of thirty years.  His skin has been
+tanned from working the fields night and day.  He's quite a jolly chap,
+always ready to befriend an injured bunny rabbit.
+~
+74 1 136249361 0 350 S
+7 30 36 5d5+30 2d7+0
+320 200
+8 8 1
+1 0 13 14 10 10 10 8
+#17603
+mob toddler~
+a toddler~
+A toddler crawls about, looking for something to chew on.
+~
+The toddler is dressed in nothing but his birthday suit.  He crawls about for
+he hasn't learned to walk yet.  He peers up at you and asks "da da?"
+~
+10 1 136249361 0 1000 S
+2 35 38 10d3+0 1d1+1
+150 55
+8 8 1
+1 0 11 11 9 11 7 7
+#17604
+mob nursemaid~
+a nursemaid~
+A nursemaid wanders about, trying to keep track of all the toddlers.
+~
+The nursemaid looks rather tired and worn out.  Taking care of so many 
+toddlers for too long has evidently taken it's toll.  She looks to you and in
+her eyes you can see her longing for a better life.
+~
+10 1 136249361 0 0 S
+6 31 36 6d5+25 2d3+4
+340 185
+8 8 2
+1 0 13 14 10 12 9 11
+#17605
+mob cow shire~
+a cow~
+A cow is here, chewing her cud.
+~
+The cow looks like it hasn't been milked in quite some time.  Although she is
+past her prime, you can see that she still has a lot of years left, and that
+if provoked, her rear kick can be quite deadly.
+~
+10 1 136249361 0 0 S
+4 33 37 3d7+15 1d4+3
+200 112
+8 8 0
+0 0 12 11 12 11 8 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17606
+mob pig shire~
+a pig~
+A pig wallows in the mud and oinks in contentment.
+~
+The pig appears quite happy to be a pig.  He is oblivious to your presence and
+cares only for the care-free life that he leads.  It is enormously fat and
+consequently cannot move around very quickly.
+~
+10 1 136249361 0 0 S
+3 34 38 9d5+0 2d2+1
+175 88
+8 8 1
+0 0 12 10 11 10 7 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17607
+mob chicken shire~
+a chicken~
+A chicken sits here on her nest.
+~
+The chicken is bright and healthy.  She has no weapons but her beak.
+~
+10 1 136249361 0 0 S
+2 35 38 3d9+10 1d4+0
+150 75
+8 8 2
+0 0 11 13 10 10 7 10
+#17608
+mob bull shire~
+a bull~
+A bull scratches at the ground and lowers his head.
+~
+The bull is in top condition.  He looks like quite a fighter, something to be
+reckoned with.  With his horns and hooves, he can attack just about anything.
+~
+10 1 136249361 0 0 S
+6 31 36 4d11+20 1d8+3
+250 185
+8 8 1
+0 0 12 11 10 11 10 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#17609
+mob horse shire~
+a horse~
+A horse becomes frightened by your presence.
+~
+The horse looks at you and turns away.  You can tell that it is afraid of you.
+~
+10 1 136249361 0 0 S
+4 33 37 6d6+10 1d8+0
+150 125
+8 8 0
+0 0 12 11 11 10 9 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17610
+mob shiriff halfling~
+a shiriff~
+A shiriff of the Shire looks for signs of trouble.
+~
+The shiriff is over waist high, quite tall for a halfling.  His eyes are ever
+roaming, looking for signs of trouble from riff raff like you.  In his belt is
+a thin dagger, and on his body he wears a suit of leather armour.
+This is one halfling you don't want to mess with.
+~
+74 1 136249361 0 450 S
+12 27 32 4d10+140 4d4+4
+900 3700
+8 8 1
+4 0 14 13 12 13 12 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#17611
+mob shiriff halfling~
+a shiriff~
+A shiriff of the Shire patrols his village.
+~
+The Shiriff is over waist high, quite tall for a halfling.  His eyes are ever
+roaming, looking for signs of trouble from riff raff like you.  In his belt is 
+a thin dagger, and on his body he wears a suit of leather armour.
+This is one halfling you don't want to mess with.
+~
+72 1 136249361 0 450 S
+11 28 33 4d10+120 4d4+3
+800 3400
+8 8 1
+4 0 14 14 13 12 12 9
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#17612
+mob Thain thain halfling~
+the Thain~
+The Thain commands respect from all the Shire folk.
+~
+A personable yet serious halfling, the Thain looks at you and yells a
+deep 'Hullo'.  He walks about comfortably, secure in the knowledge that
+as long as he's in office, the Shire will always remain a safe haven for
+Shire folk.
+~
+10 1 136249361 0 1000 S
+14 25 30 5d10+200 3d8+6
+2500 4500
+8 8 1
+4 0 14 16 12 13 11 13
+#17613
+mob innkeeper halfling ivy-bush~
+the Innkeeper~
+The Innkeeper stands here awaiting your order.
+~
+The Innkeeper is a jolly old halfling who spends his days eavesdropping on
+local gossip.  In his younger days, he was quite a seasoned traveller.
+~
+74 1 136249361 67108864 200 S
+12 27 32 8d7+120 2d6+5
+1000 3530
+8 8 1
+4 0 15 14 12 12 10 11
+#17614
+mob miller~
+the Miller~
+The Miller is here, overseeing his busy mill workers.
+~
+The Miller is an impatient young halfling, always trying to command more
+respect from his workers than he can get.  He looks like the type of person
+who deserves a spanking but never got one.
+~
+202 1 136249361 0 -350 S
+6 31 36 4d5+30 2d4+3
+350 185
+8 8 1
+0 0 12 13 11 11 8 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17615
+mob worker mill~
+the mill worker~
+The mill worker runs to and fro.
+~
+The mill worker is in fine shape from the hard labor that he does at the
+mill.  He doesn't notice your presence, but he looks like he could break you
+in two without thinking about it.
+~
+74 1 136249361 0 0 S
+5 32 37 4d8+20 1d8+2
+300 158
+8 8 1
+0 0 13 14 11 11 8 9
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17616
+mob warrior elven~
+the Elven Warrior~
+The Elven Warrior is waiting here.
+~
+The tall elven warrior is light and fair-skinned.  The expression that he wears
+on his countenance is solemn and tragic.  He cares not for this world any
+longer and wearies of it.
+~
+10 1 136249361 0 600 S
+17 23 27 5d9+260 3d7+12
+4200 5180
+8 8 1
+15 4 15 17 14 13 13 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#17617
+mob prince dwarven~
+the Dwarven Prince~
+The Dwarven Prince sits here patiently for the return of his king.
+~
+Grim and cold, the dwarven prince is quite strong and bulky, even for the
+dwarves of his land.  His glowing eyes peer out of his bushy face and stare
+beyond your gaze.
+~
+10 1 136249361 0 200 S
+18 22 26 8d8+260 4d9+4
+4700 5375
+8 8 1
+2 0 16 16 13 15 13 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#17618
+mob shopkeeper~
+the shopkeeper~
+The shopkeeper smiles and patiently waits for you to buy something.
+~
+The shopkeeper will fight like a madman to protect his store from riff raff
+like you.
+~
+10 1 136249361 0 600 S
+21 19 23 50d19+1200 4d8+17
+8000 64000
+8 8 1
+0 0 16 16 15 16 12 11
+#17619
+mob grocer~
+the grocer~
+The grocer offers you the finest breads in all the land.
+~
+The grocer is a large, jovial halfling who knows how to enjoy his pipeweed.
+However, he also knows that it's worth protecting and so will do everything
+in his power to prevent riff raff like you from stealing it.
+~
+10 1 136249361 67108864 600 S
+30 13 5 100d39+1300 5d9+6
+32000 183000
+8 8 1
+0 0 18 19 18 18 14 14
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17620
+mob blacksmith~
+the blacksmith~
+The blacksmith bids you welcome to his humble store.
+~
+The blacksmith is a lean and mean fighting machine.  His knowledge of weapons
+and armour would certainly help him in any fight against riff raff like you.
+~
+536870922 1 136249361 67108864 600 S
+50 13 5 100d39+1300 7d7+35
+30000 185000
+8 8 1
+0 0 19 18 16 16 17 15
+#17621
+mob battlemaster master~
+the Battle Master~
+The battle master offers you the services of his fine trainees.
+~
+The battle master is a wizened fighter, with many scars to prove his worth.
+~
+10 1 136249361 0 350 S
+19 21 25 5d11+330 5d8+5
+4600 5610
+8 8 1
+0 0 15 15 13 14 14 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#17622
+mob youth halfling~
+a halfling youth~
+A halfling youth stands here, waiting for nothing in particular.
+~
+The halfling youth is not yet quite in the prime of his youth.  He's knee
+high and you get the sudden urge to step on him.
+~
+204 1 136249361 0 200 S
+3 33 37 3d5+24 1d6+0
+250 129
+8 8 1
+4 0 12 13 10 10 10 6
+#17623
+mob adventurer seasoned~
+a seasoned adventurer~
+A seasoned adventurer sits here, telling tales of fame and fortune.
+~
+The seasoned adventurer has seen his share of glory days.  Although he is
+past his prime, he still looks like he could put up more than his share of
+a good fight.
+~
+10 1 136249361 0 100 S
+8 30 35 3d5+50 2d6+3
+370 260
+8 8 1
+1 0 13 15 13 11 9 11
+#17624
+mob gossip local~
+a local gossip~
+A local gossip asks you, "Have you heard the latest?"
+~
+The gossip is all talk and no action.  You're transfixed by her ability to
+talk so much so quickly.
+~
+10 1 136249361 0 0 S
+4 33 37 3d7+20 1d7+0
+255 134
+8 8 2
+1 0 12 11 11 12 11 11
+#17625
+mob beauty halfling~
+a halfling beauty~
+A halfling beauty stares dreamily into your eyes.
+~
+She is the most beautiful creature you've seen in quite some time.  As you
+stare at her, thoughts of all else vanish.  You get the sudden urge to grovel
+at her feet, hoping she'll take you in like a lost puppy.  You wouldn't dare
+harm a hair on her precious little head.
+~
+10 1 136249361 0 700 S
+6 31 36 5d5+35 1d10+1
+340 177
+8 8 2
+4 0 13 13 11 10 10 11
+#17626
+mob trainee~
+a trainee~
+A trainee screams a death cry as he delivers the fatal blow to a dummy.
+~
+The trainee smiles smugly, aware of your interest in him.  He's a little
+fresh, but his enthusiasm and desire to please more than make up for what
+he lacks in skill.
+~
+10 1 136249361 0 0 S
+5 32 37 3d5+28 1d6+2
+290 155
+8 8 1
+1 0 13 13 10 10 8 8
+#17627
+mob urbanite chic~
+a chic urbanite~
+A chic urbanite sits here, enjoying his class status.
+~
+The urbanite seems very much at home in his surroundings.  His clothes are
+all of the latest fashions and his manners impeccable.  He offers you some
+coins if you'd be so good as to order a drink for him.
+~
+138 1 136249361 0 0 S
+4 33 37 2d4+23 3d2+0
+260 111
+8 8 1
+1 0 12 11 11 12 8 9
+#17628
+mob bumpkin country~
+a country bumpkin~
+A country bumpkin dreams of pipeweed and it's many uses.
+~
+The country bumpkin snores noisily.
+~
+202 1 136249361 0 0 S
+5 32 37 5d5+20 1d9+0
+280 140
+8 8 1
+1 0 13 14 11 11 9 8
+#17629
+mob bumpkin country~
+a country bumpkin~
+A country bumpkin is walking around cheerfully here.
+~
+The country bumpkin is wandering around thinking of food.
+~
+200 1 136249361 67108864 0 S
+5 32 37 5d5+20 1d9+0
+280 140
+8 8 1
+1 0 12 14 10 11 11 10
+#17630
+mob innkeeper halfling green-dragon~
+the Innkeeper~
+The Innkeeper stand here awaiting your order.
+~
+The Innkeeper is a jolly old halfling who spends his days eavesdropping on
+local gossip.  In his younger days, he was quite a seasoned traveller.
+~
+10 1 136249361 67108864 200 S
+12 27 32 8d7+120 2d6+5
+1100 3540
+8 8 1
+4 0 14 16 12 14 11 11
+#17631
+mob rook~
+the Rook~
+A Rook is standing here.
+~
+A tall knight of canticle.  The Rook, a veteran of many holy wars is dressed
+in golden armour.
+~
+10 1 136249361 0 600 S
+10 29 34 2d5+110 2d5+6
+750 2890
+8 8 1
+0 0 13 14 13 11 10 12
+#17632
+mob frump~
+the old frump~
+An Old Frump sweeps past you.
+~
+An old Frump stands here cleaning up.  The ugly hag appears to be at least
+100 years old. She looks at you with a scowl.
+~
+57356 1 136249361 0 -600 S
+8 30 35 2d5+50 2d4+2
+390 250
+8 8 2
+0 0 14 13 12 13 9 8
+#17633
+mob gargon~
+the Gargon~
+The Gargon stands here, mixing the brew.
+~
+The kitchen witch is a horrible sight.  She is filthy and convered with warts.
+The witch looks ready to cast a spell.
+~
+10 32769 136249361 0 -800 S
+13 26 31 1d1+161 2d7+8
+1200 3825
+8 8 2
+0 0 14 16 13 14 11 11
+SKILL=SPELL_BLINDNESS 36
+SKILL=SPELL_BURNING_HANDS 36
+SKILL=SPELL_CURSE 36
+SKILL=SPELL_ENERGY_DRAIN 36
+SKILL=SPELL_LIGHTNING_BOLT 36
+SKILL=SPELL_MAGIC_MISSILE 36
+#17634
+mob rook blue~
+the Blue Rook~
+The Blue Rook is sitting here at this desk.
+~
+A grand knight.  He looks extremely strong, and glows with a blue haze.
+~
+10 32769 136249361 0 1000 S
+15 25 29 4d5+210 3d9+3
+3750 4800
+8 8 1
+0 0 15 15 12 13 13 13
+SKILL=SPELL_LIGHTNING_BREATH 40
+#17635
+mob sentinel~
+the Sentinel~
+The Sentinel stands at his post.
+~
+A stolid, stoic soldier.  He glares icily at the surrounding area.
+~
+57354 1 136249361 0 250 S
+12 27 32 5d5+145 3d5+3
+1200 3785
+8 8 1
+0 0 14 15 12 14 13 10
+#17636
+mob demiwolf wolf canticle~
+the Demiwolf~
+A Demiwolf skulks here, guarding the entrance.
+~
+A vicious wolf grinds it's teeth and growls at you.
+~
+72 1 136249361 0 -500 S
+14 25 30 5d5+185 4d4+8
+2500 4300
+8 8 0
+0 0 15 14 13 12 12 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17637
+mob rook grey~
+a Grey Rook~
+The Grey Rook stands here guarding the entrance.
+~
+The Grey Rook looks pretty formidable.  He is guarding the entrance to the
+Keep Manor.
+~
+57422 32769 136249361 8 -500 S
+25 15 18 50d19+1700 8d5+20
+19000 78000
+8 8 1
+0 0 18 17 16 15 14 12
+SKILL=SPELL_LIGHTNING_BREATH 60
+$~
+#999999

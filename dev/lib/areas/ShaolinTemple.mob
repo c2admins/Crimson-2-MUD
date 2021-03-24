@@ -1,0 +1,615 @@
+#14100
+mob chia~
+the Chia Pet~
+Chia Pet is here.
+~
+The Chia Pet is a chunk of pottery with evil green stuff growing on it.
+~
+319624 1 136249361 0 -200 S
+5 32 37 5d5+20 2d3+2
+300 655
+8 8 1
+0 0 13 14 11 11 9 9
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14101
+mob Kyoske high lord~
+The High Lord Kyoske~
+The High Lord charges to destroy you!.
+~
+A thin and slender man.  This man radiates evilness.  He calmly draws
+his sword and attacks.  This clothing flow about him like a second skin.  
+Small runes on his body start to glow as he prepares to dispose of you.
+~
+319498 32769 136249361 136 -351 S
+35 8 -10 30d19+2000 10d5+10
+83000 264000
+7 7 1
+1 0 20 21 19 19 15 15
+SKILL=SPELL_BLINDNESS 80
+SKILL=SPELL_BURNING_HANDS 80
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_CURSE 80
+SKILL=SPELL_ENERGY_DRAIN 80
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_MAGIC_MISSILE 80
+SKILL=SPELL_SLEEP 80
+SKILL=SPELL_GAS_BREATH 80
+ATTACK_SKILL=90
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14102
+mob guard~
+The Guard~
+A Guard is standing here.
+~
+A lonely guard is here.
+~
+8 1 136249361 0 0 S
+10 29 34 10d7+85 3d3+5
+800 3750
+8 8 1
+1 0 14 12 12 13 11 9
+#14103
+mob imperial lancer~
+The Imperial Lancer~
+A Lancer is standing here.
+~
+A tough man.  You do not want to mess around with him.  He is superbly
+trained and extremely well armed.
+~
+8 1 136249361 0 0 S
+20 20 24 70d19+1000 5d5+20
+5000 71000
+8 8 1
+1 0 16 17 16 14 14 15
+#14104
+mob armorer~
+The Armorer~
+The Armorer is pounding out swords.
+~
+A large and ferocious man is here.  In his arms is a large hammer.
+A thin steel shell covers his arms, protecting him from fire.  He 
+is enormous.
+~
+262154 1 136249361 128 0 S
+35 8 -10 30d19+2130 9d109+35
+79450 281100
+8 8 1
+1 0 19 20 18 18 15 18
+#14105
+mob master battle~
+The Battle Master~
+The Battle Master charges.
+~
+Wearing nothing a spear and a shield, he depends more on attack than
+defense.  Years of training and battles have taken their toll
+on him.  He is a man who takes his job very seriously.
+~
+319498 1 136249361 168 0 S
+25 15 18 20d19+1000 5d5+20
+17000 96345
+8 8 1
+1 0 17 16 16 17 16 15
+#14106
+mob emperor faun~
+Emperor Faun~
+The Emperor sits here.
+~
+As you look at him, he winks at you.  He is supremely confident of himself,
+and nothing in the world scares him.  With the sceptre in this hand, he
+controls the world.  Besides, his minions are killing you now.
+~
+262154 32769 136249361 136 0 S
+40 3 -22 35d19+5875 4d5+24
+625000 309350
+8 8 1
+1 0 22 21 20 21 19 16
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=30
+ATTACK_TYPE=100
+#14107
+mob general tang tsu~
+General Tang-Tsu~
+The General Tang-Tsu stands here.
+~
+A large muscular man.  He is wearing a glinting suit of armor that bears
+the sign of the legendary Tang clan.  His family has been the First-Marshall
+of the Empire for generations.
+~
+319498 1 136249361 67109000 0 S
+30 13 5 60d19+1245 5d5+45
+29000 201000
+8 8 1
+1 0 18 17 17 18 16 13
+#14108
+mob grand wizard~
+The Grand Wizard~
+The Grand Wizard stands here.
+~
+You have a hard time seeing him for he is the master of disguise.  He
+blends into the background so well that he has been promoted to be
+the Emperor's personal spy and assassin.
+~
+262154 32769 2031633 1074790536 0 S
+30 13 5 50d19+1000 5d15+15
+29000 211795
+8 8 1
+1 1 18 17 18 16 14 13
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+#14109
+mob gold dragon~
+The Gold Dragon~
+A Gold Dragon is protecting the Emperor.
+~
+Golden Dragon
+~
+4513802 32769 136249361 136 1000 S
+40 3 -22 100d19+6000 10d9+60
+750000 279375
+8 8 0
+11 0 22 23 20 20 17 17
+SKILL=SPELL_GAS_BREATH 90
+#14110
+mob princess miyu~
+Princess Miyu~
+A semi-nude Princess is putting on her robe.
+~
+A very sexy Princess is here.  Obviously she was in bed, because her
+nightgown is in disarray about her body.  As she quickly pulls on her
+robe she screams loudly, but you do not notice, because you are
+totally entranced by her.
+~
+262154 32769 136249361 128 0 S
+30 13 5 50d19+1045 9d5+30
+32000 189000
+8 8 2
+1 0 19 18 16 16 16 15
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+SKILL=SPELL_FIRE_BREATH 70
+#14111
+mob prince pan~
+Prince Pan~
+A ranger prince named Pan is here.
+~
+A large pike magically appears in his hands.  Dressing in a green 
+Peter Pan outfit, hence his name, there is nothing funny out this Prince.
+He rushes at you to dispose of the trash in his room.
+~
+319498 32769 136249361 136 0 S
+35 8 -10 32d19+2000 15d2+60
+83875 235000
+8 8 1
+1 0 18 19 16 17 15 15
+SKILL=SPELL_LIGHTNING_BREATH 70
+#14112
+mob queen shinobu~
+Queen Shinobu~
+Queen Shinobu is standing here.
+~
+The Queen of the Fairies is standing here before you.  Her body is 
+semi-transparent.  She tells you, "So, you have finally made it to the palace.
+The guards I have set in the forest obviously was too easy for you.  Well
+mortal, DIE!"
+~
+319498 32769 136249361 1074790536 0 S
+42 1 -26 100d19+8000 20d7+0
+950000 555000
+8 8 2
+0 0 22 20 19 19 17 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_FROST_BREATH 90
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#14113
+mob dragon guard~
+Dragon Guard~
+A Sentry of the Dragon Order is standing here.
+~
+Clad in golden dragon scale armor, this is the elite bodyguard group of
+the Emperor.  Superbly trained and conditioned, these guards ensure the
+safety of the Emperor.
+~
+10 1 136249361 0 0 S
+32 11 -1 90d19+3000 20d5+10
+45000 226234
+8 8 1
+11 0 19 17 17 18 17 17
+#14114
+mob sentry~
+The Tower Sentry~
+A Sentry is standing here guarding the palace.
+~
+Dressed in the tradition red cotten clothing of the Emperor's servants,
+he is resposible for guarding the palace against intrusions.  Armed with
+a pike and a small shield, the sentry depends on sheer number to overcome
+the foe.
+~
+10 1 136249361 0 0 S
+10 29 34 20d9+25 1d6+10
+800 4895
+8 8 1
+1 0 13 12 13 11 11 9
+#14115
+mob citizen~
+A Citizen~
+A Citizen is here buying food.
+~
+You see a small Chinese man in a straw hat and a cotton overalls standing
+here.  As he laughs at you in a language that you do not understand,
+you notice that he has his hands in the vendor's pockets.
+~
+10 1 136249361 0 0 S
+18 22 26 20d9+150 5d3+15
+4300 7250
+8 8 1
+1 0 16 18 14 14 14 14
+#14116
+mob peddler~
+A Peddler~
+A Peddler is selling his wares.
+~
+A peddler and his cart is here.  He is screaming and yelling about how
+his merchandise is cheaper and better than the vendors' who is next to him.
+Business seems to be brisk.
+~
+10 1 136249361 0 0 S
+15 25 29 10d9+150 4d5+10
+3450 5535
+8 8 1
+1 0 15 13 13 12 11 10
+#14117
+mob shaolin monk~
+A Shaolin Monk~
+A Shaolin Monk is standing here.
+~
+This novice monk is buying tofu from the seller.  A glint appears in his
+calm black eyes as he sees the monk in red.  He is dressed in the traditional
+checkered and red cloaks of the Shaolin monk. 
+A sign that looks like    . . .
+			  . . .
+			  . . .
+
+is burned into his forehead.  As you stare wierdly at the mark, he smiles
+and explains, "That symbol is a mark of obedience to my master, Buddha."
+~
+10 32769 136249361 0 0 S
+18 22 26 10d9+285 4d4+14
+4000 7555
+8 8 1
+1 0 16 14 13 15 14 14
+SKILL=SPELL_BLINDNESS 46
+SKILL=SPELL_HAIL_STORM 46
+SKILL=SPELL_CURSE 46
+SKILL=SPELL_HARM 46
+SKILL=SPELL_MAGIC_MISSILE 46
+SKILL=SPELL_POISON 46
+SKILL=SPELL_CAUSE_CRITIC 46
+SKILL=SPELL_HEAL_MINOR 46
+SKILL=SPELL_EARTHQUAKE 46
+#14118
+mob shin shun monk~
+A Shin-Shun Monk~
+A Shin-Shun Monk is standing here.
+~
+This monk is buying tofu from the seller.  His face is covered by
+his blood red cloak. 
+~
+10 32769 136249361 0 0 S
+18 22 26 10d9+285 4d4+14
+4000 7555
+8 8 1
+1 6 16 14 15 13 13 10
+SKILL=SPELL_BLINDNESS 46
+SKILL=SPELL_HAIL_STORM 46
+SKILL=SPELL_CURSE 46
+SKILL=SPELL_HARM 46
+SKILL=SPELL_MAGIC_MISSILE 46
+SKILL=SPELL_POISON 46
+SKILL=SPELL_CAUSE_CRITIC 46
+SKILL=SPELL_HEAL_MINOR 46
+SKILL=SPELL_EARTHQUAKE 46
+#14119
+mob nobleman~
+A Nobleman~
+A Nobleman is standing here.
+~
+You see a very fat man.  Dressed in all the finest silks and carried in a
+stretcher by 5 slaves, he is the picture of laziness.  A large fat
+pouch hangs off of his belt just waiting to be taken away.
+~
+10 32769 136249361 0 0 S
+17 23 27 20d9+140 1d3+20
+4500 6600
+8 8 1
+1 0 16 17 16 16 12 15
+SKILL=SKILL_STEAL 50
+SKILL=SPELL_LIGHTNING_BREATH 50
+#14120
+mob green guard~
+A Green Guard~
+A Green Guard is standing here.
+~
+Dressed in mercenary colors, this guard works for one of the wealthy houses
+of the city.  Obviously skilled with his weapon, he is a lot more cautious
+of the other two guards than of you.
+~
+10 1 136249361 128 0 S
+25 15 18 100d9+700 5d5+0
+17000 87654
+8 8 1
+1 0 18 16 17 17 15 14
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14121
+mob blue guard~
+A Blue Guard~
+A Blue Guard is standing here.
+~
+Dressed in mercenary colors, this guards works for one of the wealthy houses
+of the city.  Obviously skilled with his weapon, he is a lot more cautious
+of the other two guards than of you.
+~
+522 1 136249361 128 500 S
+30 13 5 70d19+1100 5d5+5
+30000 181234
+8 8 1
+1 0 18 19 17 17 14 13
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14122
+mob black guard~
+A Black Guard~
+A Black Guard is standing here.
+~
+Dressed in all black, this is obviously the guard that works for the
+evil Lord Kyoske.  Watch out for him, because the Lord only hires
+the best for his defense.
+~
+522 1 136249361 128 -500 S
+35 8 -10 50d19+2000 5d5+13
+75000 225000
+8 8 1
+1 0 21 23 19 20 20 18
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14123
+mob gatekeeper~
+A Gatekeeper~
+A Gatekeeper is guarding the gate.
+~
+A large and well armed sentry is here guarding the gate from all intruders.
+Very hostile looking and very rude, it seems unlikely that he will unlock the
+gate for you voluntarily.
+~
+10 1 136249361 0 0 S
+25 15 18 20d19+2000 5d5+30
+17000 79321
+8 8 1
+1 0 18 18 17 17 15 13
+#14124
+mob Hinshoro high lord~
+High Lord Hinshoro~
+The High Lord Hinshoro is sitting here.
+~
+He greets you warmly as you enter his home.  With a sincere smile, he
+asks you if you would want some tea.  You notice that his walls are covered
+with medals of honor, yet Hinshoro himself is humble.
+~
+262154 32769 136249361 1140850816 0 S
+39 4 -20 90d19+5000 11d3+13
+400000 291000
+8 8 1
+1 0 21 22 21 20 18 19
+SKILL=SPELL_FIRE_BREATH 90
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#14125
+mob elder monk~
+Elder Monk~
+The Elder Monk is standing here.
+~
+An aged man, but he has not lost his combat skills.  Resistance is futile
+if you happen to be an enemy.  His soul belongs to Buddha.
+~
+57354 1 136249361 136 500 S
+35 8 -10 100d19+1000 9d9+35
+50000 225000
+8 8 1
+1 0 19 19 17 17 16 16
+#14126
+mob avatar buddha~
+Avatar of Buddha~
+The Avatar of Buddha is standing here.
+~
+A life-like replication of the Smiling God, this one is said the blessed
+by the God himself.  Power beyond your comprehension leak from this
+great figure.  His wisdom and compassion is visible in his eyes, but so is his
+intolerance in non-believers.
+~
+319498 32769 136249361 136 1000 S
+42 1 -26 100d19+10000 50d3+50
+500000 750000
+8 8 1
+1 0 22 21 20 20 20 17
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+#14127
+mob high priest~
+High Priest~
+The High Priest of Shaolin is standing here.
+~
+A gargantuan of a man, this priest has almost reached parity with the one
+he worships.  A kind and compassion man, yet he will defend his temple to
+the death to protect his God.
+~
+319502 1 136249361 136 500 S
+38 5 -18 100d19+3500 40d3+10
+100000 275000
+8 8 1
+1 6 19 21 18 17 18 15
+#14128
+mob fairy dragon~
+Fairy Dragon~
+A transparent dragon is here.
+~
+The largest of all ancient Chinese dragons, this one can eat a gold dragon
+in one bite.  Nothing can control this dragon except for the one that created
+it, Shin Shun.
+~
+4456970 32769 136249361 1048712 -1000 S
+39 4 -20 100d49+3000 40d3+20
+500000 263245
+8 8 1
+11 0 19 20 19 18 16 14
+SKILL=SPELL_FIRE_BREATH 80
+#14129
+mob Shin Shun~
+Shin Shun~
+The God of Evil is standing here.
+~
+The greatest of all the evil gods, nothing on Earth or anywhere can beat him.
+Only Buddha is his true form can force a draw with Shin Shun.  Shin demands
+human sacrifices from his worshippers, but he also bestows upon them super
+human strength.
+~
+262154 1 136249361 136 -1000 S
+43 1 -28 100d19+11860 8d9+0
+1285000 723699
+8 8 1
+1 0 22 23 21 20 17 20
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_TYPE=108
+#14130
+mob high priest~
+High Priest~
+The High Priest of Shin Shun is here.
+~
+This man does not eat food.  He eats the anguish from the people he sacrifices.
+Given super-human abilities by Shin-Shun, nothing short of the Holiest warrior
+can phase him.
+~
+319498 1 136249361 136 -1000 S
+37 6 -16 50d19+3000 9d9+40
+100000 234000
+8 8 1
+1 6 19 20 17 19 17 16
+#14131
+mob guard monk~
+Monk Guard~
+A Monk Guard is patrolling the hallways.
+~
+You see a large man with no soul.  His soul has been fed to Shin Shun, and now
+he patrols the premises for escaped prisoners.  What he lacks in intelligence,
+he makes up for in strength.
+~
+57352 1 136249361 136 -1000 S
+29 14 8 26d19+985 30d3+0
+26850 99000
+8 8 1
+1 0 17 17 17 15 13 14
+#14132
+mob master~
+Torture Master~
+The Master of Torture is standing here.
+~
+You see a large leather clad man taking out his whips and attacking you.
+~
+319498 1 136249361 136 -1000 S
+43 1 -28 100d19+11425 80d2+50
+1250000 675000
+8 8 1
+1 0 22 20 19 21 18 19
+#14133
+mob stalker~
+Stalker~
+A Stalker is here, hiding in the shadows.
+~
+You can not see him.
+~
+319498 32769 136249361 1048712 0 S
+31 12 2 80d19+1000 9d9+20
+0 212845
+8 8 1
+0 0 19 17 17 18 14 13
+SKILL=SPELL_GAS_BREATH 72
+#14134
+mob fairy enchanted~
+a fairy~
+A small fairy is fluttering here.
+~
+A small man is flying here. He looks almost transparent, but he also glows
+with a strange light that seems to be emanating from his wings.
+You catch him looking at your purse with an evil grin.
+It might be wise to leave this forest as fast as you can, or you might just 
+leave penniless.
+~
+136 32769 136249361 35127304 -250 S
+5 32 37 5d5+20 3d3+1
+320 1234
+8 8 1
+0 0 13 14 10 12 9 7
+SKILL=SKILL_STEAL 20
+$~
+#999999

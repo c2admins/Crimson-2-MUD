@@ -1,0 +1,463 @@
+#7300
+mob elemental earth small~
+&ya small earth elemental&n~
+&yA small earth elemental wanders around the cave.&n
+~
+You are looking at a small brown elemental. The being is not solid
+, rather made of a small amount of earthen energy. Strong, tough and
+unmoving, the elemental ignores you and turns away.
+~
+8 1 136249393 0 0 S
+15 25 29 10d20+11 5d5+1
+3000 4600
+8 8 0
+24 4 25 15 15 14 22 12
+#7301
+mob elemental earth large~
+&ya large earth elemental&n~
+&yA large earth elemental lumbers past you.&n
+~
+You cast your gaze over a moving solid lump of rock. It
+turns what must be its head and looks you over once, before
+realising you pose no threat, and with a loud noise and violent
+earth movements it lifts its foot and continues its journey.
+~
+8 1 136249393 0 0 S
+20 20 24 15d10+75 3d9+6
+5000 60000
+8 8 0
+24 4 25 10 10 10 23 13
+#7302
+mob earth golem small~
+&ya small earth golem&n~
+&yA small earth golem stamps past you.&n
+~
+You are looking at a smaller version of the earth golem. Huge
+boulders make up its body and you can imagine the strength that
+it would have. You also begin to wonder who you would even harm
+this stupid thing.
+~
+8 1 136249393 0 0 S
+23 17 21 18d100+120 3d10+12
+12500 69000
+8 8 0
+0 4 20 13 13 11 14 15
+#7303
+mob golem earth large~
+&ya large earth golem&n~
+&yA large earth golem trudges across your path.&n
+~
+The earth golem is a huge mound of stone and mud, joined together
+through the force of the earth. It looks like something that cannot
+be harmed or maimed in any way, yet you heft your weapon in order
+to test that out.
+~
+8 1 136249393 0 0 S
+27 15 14 10d10+2300 5d10+6
+22500 81000
+8 8 0
+0 4 25 10 10 12 22 13
+#7304
+mob guardian earth~
+&wthe guardian of the &yearth&n~
+&wthe guardian of the &yearth&w stands here, doing what it does best.&n
+~
+The guardian of the earth is a mixture of stone and clay, held
+together by the forces of the earth. The eyes that stare at you
+seem to form a pool in the middle of the head, enticing your
+soul to enter. A shudder passes through your body and you fall to
+the ground, exhausted.
+~
+10 1 136249393 0 0 S
+32 11 -1 10d10+3300 30d2+10
+50000 192000
+8 8 0
+0 4 25 15 15 16 25 15
+#7305
+mob essence earth~
+&wthe essense of the &yearth&n~
+&wThe essense of the &yearth&w floats above you.&n
+~
+What you can see of the essence of the earth is mearly a
+protusion of the being into the mortal world. Even though
+it is only a minor portion of the essences power it is
+still more than enough to crush your puny frame.
+~
+10 1 136249393 128 0 S
+36 7 -14 4d5+5500 8d10+10
+90000 216000
+8 8 0
+0 4 25 25 25 25 25 25
+#7306
+mob heart earth~
+&wthe heart of the &yearth&n~
+&wThe heart of the &yEarth7w floats here.&n
+~
+The heart of the Earth floats above a earthen altar here. As
+you watch you see mounds of earth form and then disappear in
+miniature earthquakes across the body of the heart. You are
+mesmerised by the pulsations of the heart and begin to drop
+to your knees in worship.
+~
+10 32769 136249393 128 0 S
+40 3 -22 1d1+12699 10d10+12
+700000 240000
+8 8 0
+0 4 24 24 24 24 24 24
+SKILL=SPELL_TREMOR 99
+SKILL=SKILL_BASH 70
+SKILL=SPELL_HEAL_MAJOR 70
+#7307
+mob elemental air small~
+&wa small air elemental&n~
+&wA small &Wair elemental&w hovers here.&n
+~
+This small elemental is hard too see, being translucent. As
+you watch it seems to fade and then reappear in another spot.
+Even though it doesnt seem to have any substance you believe
+it could do you a lot of damage.
+~
+8 1 136249393 0 230 S
+15 25 29 100d2+11 5d3+6
+3300 4500
+8 8 0
+0 4 15 22 20 20 18 14
+#7308
+mob elemental air large~
+&wa large &Wair elemental&n~
+&wa large &Wair &welemental hovers here.&n
+~
+As you walk along this path a large elemental of air
+materialises before you. As you pass through it it
+turns to follow you. You look behind to see its red
+eyes glare at you.
+~
+8 1 136249393 0 230 S
+20 23 27 60d4+25 5d4+4
+4250 5100
+8 8 0
+0 4 17 22 22 23 18 14
+#7309
+mob translucent being small~
+&wa small &Wtranslucent &wbeing&n~
+&wA small &Wtranslucent &wbeing floats around.&n
+~
+You are looking straight through a small translucent being that
+is standing and looking at you. As you near it, it floats through
+you and once again turns to watch you. You wonder how you can
+defeat something like this.
+~
+8 1 136249393 0 350 S
+23 17 21 50d36+90 3d10+9
+12500 69000
+8 8 0
+0 4 16 18 15 14 12 13
+#7310
+mob translucent being large~
+&wa large &Wtranslucent &wbeing&n~
+&wA large &Wtranslucent &wbeing floats here.&n
+~
+The large translucent being watches you carefully. As you approach it floats
+further back. It raises a hand and points toward you, then disappears
+and reapears behind you.
+~
+8 1 136249393 0 0 S
+27 15 14 20d100+400 5d9+7
+22500 81000
+8 8 0
+0 4 17 16 15 15 14 11
+#7311
+mob guardian air~
+&wthe guardian of the &Wair&n~
+&wthe guardian of the &Wair&w hovers here.&n
+~
+The guardian of the air is just a translucent being that you can barely see. When
+it notices your presence it floats forward effortlessly and examines you closely.
+~
+10 1 136249393 0 0 S
+32 11 -1 3d10+3700 6d10+10
+50000 192000
+8 8 0
+0 4 23 18 19 24 17 16
+#7312
+mob essence air~
+&wthe essense of the &Wair&n~
+&wThe essense of the &Wair&w is here, swirling madly around you.&n
+~
+The essence of the air swirls around the room madly, spinning spinning spinning.
+You get dizzy after a while before deciding to end its ceaseless spinning.
+~
+10 1 136249393 128 0 S
+36 7 -14 4d10+5500 8d10+10
+90000 216000
+8 8 0
+0 4 25 25 25 25 25 25
+#7313
+mob heart air~
+&wthe heart of the &Wair&n~
+&wThe heart of the &Wair&w floats here, pulsating and causing a maelstrom.&n
+~
+The heart of the air is a translucent being that seems to be causing a terrible
+maelstrom in the area. The winds around it gust hundreds of miles an hour. The
+violent storms causes havok amongst your equipment, making it exremely hard to
+wield your weapon.
+~
+10 1 136249393 128 0 S
+40 3 -22 1d1+12699 10d10+12
+700000 240000
+8 8 0
+0 4 24 24 24 24 24 24
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_HEAL_MAJOR 70
+#7314
+mob elemental small water~
+&Ba small &bwater &Belemental&n~
+&BA small &bwater &Belemental swims around here.&n
+~
+The water elemental is an aqua colour, and mostly translucent. You watch a small
+fish the floats around inside of it, and slowly come to realise that you have been
+staring for a long time now. The elemental swims up to you, through you and away
+from you.
+~
+8 1 136249393 0 0 S
+15 25 29 10d20+11 5d5+1
+3000 4600
+8 8 0
+0 4 16 17 16 20 12 11
+#7315
+mob elemental water large~
+&Ba large &bwater &Belemental&n~
+&BA large &bwater &Belemental floats atop the waves here.&n
+~
+This water elemental is just a bigger version of the small one. A much bigger
+and more powerful version. Even the fish inside, which happens to be a shark
+in this case, is a lot bigger.
+~
+8 1 136249393 0 0 S
+20 20 24 15d10+75 3d9+6
+5000 60000
+8 8 0
+0 4 18 18 18 16 15 12
+#7316
+mob sprite water small~
+&Ba small &bwater&B sprite&n~
+&BA small &bwater&B sprite flies around, just above the surface of the water.&n
+~
+The sprite is a small and delicate looking creature but you do sense a great
+power behind it. You know that somehow it can withstand great ammounts of damage
+and still deal out a fair amount as well.
+~
+8 1 136249393 0 0 S
+23 17 21 18d100+90 3d10+12
+12500 69000
+8 8 0
+0 4 20 24 24 25 17 19
+#7317
+mob sprite water large~
+&Ba large &bwater&B sprite&n~
+&BA large &bwater&B sprite flits around, spraying water high into the air.&n
+~
+The sprite is large and delicate looking. Like the smaller version you sense
+a great power behind this being. He winks at you mischieviously and then flys
+away quickly.
+~
+8 1 136249393 0 0 S
+27 15 14 20d100+400 5d10+6
+22500 81000
+8 8 0
+0 4 24 24 24 24 19 19
+#7318
+mob guardian water~
+&Bthe guardian of &bwater&n~
+&BThe guardian of &bwater&B floats upon his back, riding the waves.&n
+~
+The guardian of water is a large wierd looking creature, floating upon its
+back and catching the waves. It is circled by a school of sharks and other
+aquatic creatures which makes you think that it isnt that easy to kill.
+~
+10 1 136249393 0 0 S
+32 11 -1 2d6+3700 10d6+10
+50000 192000
+8 8 0
+0 4 25 20 20 21 22 20
+#7319
+mob essence water~
+&Bthe essense of &bwater&n~
+&BThe essense of &bwater&B swirls around you.&n
+~
+The essence of water is a dark shade of the colour blue. It swirls around
+rapidly, moving faster and faster until you feel you want to vomit just
+from watching it.
+~
+10 1 136249393 128 0 S
+36 7 -14 10d10+5500 8d10+10
+90000 216000
+8 8 0
+0 4 22 22 22 22 22 22
+#7320
+mob heart water~
+&Bthe heart of &bwater&n~
+&BThe heart of &bwater&B swirls around you.&n
+~
+The heart of water is extremely dark, almost pure black. You sense a strong
+magical energy radiating from the heart, however.
+~
+10 1 136249393 128 0 S
+40 3 -22 1d1+12700 10d10+12
+700000 240000
+8 8 0
+0 4 24 24 24 24 24 24
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_HEAL_MAJOR 99
+#7321
+mob elemental fire small~
+&Rthe small &rfire&R elemental&n~
+&RA small &rfire&R elemental burns harshly here.&n
+~
+You are gazing at a small everburning flame. The orange flame is relatively small
+yet it burns extremely harshly and is very hot. The smell of burning sulfur comes
+strongly from this being.
+~
+8 1 136249393 0 -400 S
+15 25 29 10d20+11 5d5+1
+3000 4600
+8 8 0
+0 4 17 18 14 14 17 11
+#7322
+mob elemental fire large~
+&Rthe large &rfire&R elemental&n~
+&RA large &rfire&R elemental burns fiercely here.&n
+~
+The large elemental burns with large fierce flames that radiate an intense
+and extremely hot flame. Even as you near it you are scolded by the heat.
+A strong smell of sulfur permeats the elemental.
+~
+8 1 136249393 0 -500 S
+20 20 24 15d10+75 3d9+6
+5000 60000
+8 8 0
+0 4 17 17 16 15 19 12
+#7323
+mob golem small lava~
+&Ra &rlava&R golem&n~
+&RA small golem made from &rlava&R moves towards you.&n
+~
+The small golem stands about human size and radiates an intense and
+horrific heat. You find it hard to even approach the golem and hope
+that you can find a burns ward when you leave.
+~
+8 1 136249393 0 -600 S
+23 17 21 18d100+120 3d10+12
+12500 69000
+8 8 0
+0 4 20 16 16 12 22 8
+#7324
+mob golem lava large~
+&Ra large &rlava&R golem&n~
+&RA large golem made from &rlava&R shambles towards you.&n
+~
+This golem stands about the size of your average golem and radiates a
+horrific and intense heat. You watch as a stream of lava flows down the
+side of its face and body until i reaches the ground and leaves a burning
+and smoking mark on the ground.
+~
+8 1 136249393 0 -860 S
+27 15 14 20d100+500 5d10+9
+22500 81000
+8 8 0
+0 4 23 16 15 10 25 8
+#7325
+mob guardian fire~
+&Rthe guardian of &rfire&n~
+&RThe guardian of &rfire&R closes in on you.&n
+~
+The guardian of flame is like the other fire creatures, extremely fierce
+and hot. Two pitch black eyes peer from the flames that make its body and
+seem to burn brighter than the element for which the guardian is named.
+~
+10 1 136249393 0 -900 S
+32 11 -1 1d10+3700 10d6+13
+50000 192000
+8 8 0
+0 4 22 16 16 15 21 12
+#7326
+mob essence fire~
+&Rthe essense of &rfire&n~
+&RThe essense of &rfire&R burns brightly here.&n
+~
+You cant tell much about the essence of fire because it is too hot
+too look at.
+~
+10 1 136249393 128 -950 S
+36 7 -14 10d10+5500 8d10+11
+90000 216000
+8 8 0
+0 4 24 15 15 12 22 13
+#7327
+mob heart fire~
+&Rthe heart of &rfire&n~
+&RThe heart of &rfire&R floats here.&n
+~
+You can not tell much about the heart of fire because it simply is
+much too hot. Your breath is sucked from your lungs because of the
+intense heat.
+~
+10 1 136249393 128 -1000 S
+40 3 -22 1d1+12699 10d10+12
+700000 240000
+8 8 0
+0 4 25 17 14 16 25 9
+#7328
+mob warrior ether~
+&wan &Kether&w warrior&n~
+&wAn &Kether&w warrior strides purposefully towards you.&n
+~
+The warrior is made purely of the element known only as ether. His long blade is
+also made of ether and radiates a powerful energy that seems to attract you.
+~
+8 1 136249393 0 0 S
+25 15 18 18d100+350 4d10+7
+17500 75000
+8 8 0
+0 4 20 18 18 19 20 22
+#7329
+mob guardian ether~
+&wthe guardian of &Kether&n~
+&wThe guardian of &Kether&w stands here, watching you carefully.&n
+~
+The guardian is made entirely of ether and radiates the same kind of attraction that
+is inherent in the element itself. It wields a long blade of the purest ether.
+~
+10 1 136249393 0 0 S
+34 9 -7 1d1+4350 10d7+12
+70000 204000
+8 8 0
+0 4 22 19 19 20 21 24
+#7330
+mob essence ether~
+&wthe essense of &Kether&n~
+&wThe essense of &Kether&w floats here.&n
+~
+The essence of ether is an ethereal projection of the power that radiates from ether. It
+makes you want to do things for it.
+~
+10 1 136249393 0 0 S
+38 5 -18 1d1+9000 15d4+32
+300000 228000
+8 8 0
+0 4 24 20 20 21 23 25
+#7331
+mob heart ether~
+&wthe heart of &Kether&n~
+&wThe heart of &Kether&w floats here.&n
+~
+You feel at peace when around the heart of ether. Its strong urges become your demands
+and you find yourself compelled into doing things you wouldnt ordinarily do.
+~
+262154 1 136249393 128 0 S
+41 2 -24 1d1+15799 6d6+76
+920000 369000
+8 8 0
+0 4 25 25 25 25 25 25
+$~
+#999999

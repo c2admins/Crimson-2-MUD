@@ -1,0 +1,392 @@
+#8500
+mob kil'ron mor black~
+&yA &Kblack &yKil'Ron Mor&n~
+&yA &Kblack&y Kil'Ron Mor watches you from a distance.&n
+~
+     Rumors say that the Kil'Ron Mor were created when an ordinary wolf took
+shelter inside the fabled Elven Tree of Life on a cold winter night. The magic
+of the tree granted that wolf increased intelligence and size in exchange for
+the protection of the elves. Whether this story is actually true or not is un-
+known, but the Elves of the Quel'Sith and the strange wolves do share a bond 
+that has lasted for generations. Once a bond is created, one would gladly die
+to save the other in any battle.
+     The magnificent beast before you stands nearly six feet tall at the 
+shoulder. Jet black fur accents sharp green eyes that stare at you with a pro-
+found intellect not found in normal beasts. In every other respect, the Kil'Ron
+Mor looks like a normal wolf.
+~
+150995788 134250753 136253489 67109036 950 S
+20 20 24 30d3+1750 4d4+15
+0 60000
+8 8 1
+0 0 17 18 16 16 12 15
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+#8501
+mob white kil'ron mor~
+&yA &Wwhite&y Kil'Ron Mor&n~
+&yA &Wwhite &yKil'Ron Mor watches you catiously from the &Kshadows&y.&n
+~
+     Rumors say that the Kil'Ron Mor were created when an ordinary wolf took
+shelter inside the fabled Elven Tree of Life on a cold winter night. The magic
+of the tree granted that wolf increased intelligence and size in exchange for
+the protection of the elves. Whether this story is actually true or not is un-
+known, but the Elves of the Quel'Sith and the strange wolves do share a bond 
+that has lasted for generations. Once a bond is created, one would gladly die
+to save the other in any battle.
+     The magnificent beast before your stands nearly five tall at the 
+shoulder. Fur was white as new snow is accented by eyes as blue as the
+darkest ice. The eyes of the beast hold a profound intellect not known
+to normal creatures. In all other respects, the Kil'Ron Mor looks like a
+normal wolf.
+~
+150995788 134250753 136249361 67371180 950 S
+20 20 24 20d4+1500 5d4+15
+0 60000
+8 8 2
+0 0 16 17 14 16 15 14
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+#8502
+mob red kil'ron mor~
+&yA &rred &yKil'Ron Mor&n~
+&yA &rred &yKil'Ron Mor watches you catiously from the &Kshadows&y.&n
+~
+     Rumors say that the Kil'Ron Mor were created when an ordinary wolf took
+shelter inside the fabled Elven Tree of Life on a cold winter night. The magic
+of the tree granted that wolf increased intelligence and size in exchange for
+the protection of the elves. Whether this story is actually true or not is un-
+known, but the Elves of the Quel'Sith and the strange wolves do share a bond 
+that has lasted for generations. Once a bond is created, one would gladly die
+to save the other in any battle.
+     The magnificent beast before you stands nearly four feet tall at the
+shoulder. Fur of a rusty brown color is accented by deep, black pupiless
+eyes. The eyes of the beast hold a profound intellect not known to 
+normal creatures. In all other respects, the Kil'Ron Mor looks like a
+normal wolf.
+~
+16777292 134217985 136249361 33554472 650 S
+16 24 29 10d7+275 2d4+4
+0 4800
+8 8 1
+0 0 16 16 16 15 15 13
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#8503
+mob red kil'ron mor~
+&yA &rred &yKil'Ron Mor&n~
+&yA &rred &yKil'Ron Mor watches you catiously from the &Kshadows&y.&n
+~
+     Rumors say that the Kil'Ron Mor were created when an ordinary wolf took
+shelter inside the fabled Elven Tree of Life on a cold winter night. The magic
+of the tree granted that wolf increased intelligence and size in exchange for
+the protection of the elves. Whether this story is actually true or not is un-
+known, but the Elves of the Quel'Sith and the strange wolves do share a bond 
+that has lasted for generations. Once a bond is created, one would gladly die
+to save the other in any battle.
+     The magnificent beast before you stands nearly four feet tall at the
+shoulder. Fur of a rusty brown color is accented by deep, black pupiless
+eyes. The eyes of the beast hold a profound intellect not known to 
+normal creatures. In all other respects, the Kil'Ron Mor looks like a
+normal wolf.
+~
+16777292 134217985 136249361 33554472 650 S
+15 25 30 10d7+200 2d4+2
+0 4500
+8 8 2
+0 0 16 17 15 16 14 11
+#8504
+mob fairy dragon red~
+&rThe fairy dragon&n~
+&rA cute little red fairy dragon plays peacefully in the &Yflowers&r.&n
+~
+     This small little fairy creature in all respects resembles a
+normal dragon, save for it's wings, which look more like those of a
+butterfly. It is a gentle creature of the forest, but do to poaching
+for their tails, the timid creatures have learned to defend 
+themselves if need be.
+~
+4194376 134250497 136249361 536870922 990 S
+13 33 30 5d5+200 3d3+7
+0 4500
+8 8 0
+0 0 16 15 14 14 13 11
+SKILL=SPELL_BURNING_HANDS 50
+SKILL=SPELL_CURE_LIGHT 75
+SKILL=SPELL_DISPEL_EVIL 50
+#8505
+mob beautiful dryad~
+&yThe &Gdryad&n~
+&yA beautiful &Gdryad&y walks among the trees.&n
+~
+A spirit of the forest, the dryad appears as a beautiful human female with
+very striking features. Her being is bound by the trees, and because of that
+she can't travel far from her home. Rumor has it that a dryad can charm any
+male that looks upon her at will, and often uses her charmed companions to
+protect her during an attack.
+~
+262216 32769 136249361 67108898 800 S
+19 30 24 10d4+320 3d3+17
+20 21000
+8 8 2
+0 0 17 15 15 14 15 12
+#8506
+mob shy nixie~
+&wThe &CNixie&n~
+&wA shy little &Cnixie&w plays in the &cwater&w here.&n
+~
+  Though shy by nature, nixies have been known to play with those that
+enter their waters. They are not a warlike race, but will rise up in force
+if provoked.
+  Nixies stand about five feet tall, with green to blue skin and black hair.
+Being aquatic creatures, their hands and feet are webbed, and they have gills
+as well as lung to survive on both land and underwater. They are usually un-
+armed, but in times of need, carry tridents and other weapons good for aquatic
+fighting.
+~
+327756 134250497 136249361 67108874 950 S
+20 20 24 3d20+1300 2d10+10
+15 60000
+8 8 0
+0 0 16 16 15 15 14 11
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_CURE_CRITIC 50
+#8507
+mob forest gnome~
+&yA small &Gforest &ygnome&n~
+&yA small, curious looking gnome covered in &Gmoss&y stands here.&n
+~
+     Forest gnomes stand much shorter than their more common cousins, but in
+all other respects resemble them exactly the same. In order to use their small
+height as an advantage, they usually cover themselves is moss and/or small
+branches and twigs to better camouflage themselves.
+~
+262220 135299073 136249361 524330 675 S
+13 28 35 10d3+140 3d4+2
+15 3750
+8 8 1
+3 0 17 18 15 16 15 14
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_CURE_LIGHT 70
+#8508
+mob large treant~
+&yThe treant&n~
+&yA large &Gtree&y with a face carved in it grows here.&n
+~
+     If it hadn't have moved you would have sworn this was just an
+ordinary tree, but it's most definately alive. Gnarled branches suddenly
+become arms, and roots that were once planted into the ground suddenly 
+rise up to become something resembling feet. This creature is a treant, 
+the protector of the forest. Those with good intentions are safe, but whoever
+is bold enough to bring evil into this forest had better fear the treant's 
+wrath.
+~
+1073741898 134250497 136249361 537133088 500 S
+19 26 30 20d3+340 3d3+18
+0 6200
+8 8 0
+0 0 16 15 15 16 12 12
+#8509
+mob neophyte human warrior~
+&yThe warrior&n~
+&yA human &Kwarrior&y, looking for fame and fortune, wanders around here aimlessly.&n
+~
+  Having no clue as to his wherabouts, and not really caring, the 
+warrior happily walks along the forest trails, whistling a catchy tune.
+~
+588 135299073 136249361 268451840 0 S
+10 32 36 5d6+110 2d4+5
+50 3150
+8 8 1
+0 0 16 15 14 14 12 11
+#8510
+mob neophyte human thief~
+&yThe &Kthief&n~
+&yA shifty looking &Kthief&y searches here for booty.&n
+~
+     The thief has really just begun his career, and isn't very adept yet. 
+His equipment is sparce, made mainly from normal items available in any city 
+shop, and his clumsy movements alert anyone within range to his presense. 
+~
+76 1343489 136249361 16777216 0 S
+10 34 34 7d7+80 2d6+1
+20 3000
+8 8 1
+1 3 17 15 15 16 15 14
+#8511
+mob druid~
+&yThe druid&n~
+&yA proud and noble druid stands here, protecting his &Gforest&y.&n
+~
+     Born to serve nature, the druid spends most of his time protecting
+the forest creatures from outside poachers. The years have worn him down,
+however, and he now looks for someone new to take his place. 
+     His clothing is sparse, as his religion dictates, consisting of only
+a long green robe and a cudgel used to fight off intruders.
+~
+72 134250497 136249361 33554570 0 S
+17 23 25 5d6+101 2d5+1
+45 5250
+8 8 1
+1 0 16 18 15 16 14 15
+SKILL=SPELL_TREMOR 75
+SKILL=SPELL_HARM 50
+SKILL=SPELL_HEAL_MINOR 50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#8512
+mob water sprite~
+&BThe water sprite&n~
+&BA small water sprite has fun playing in the &Cpool&B.&n
+~
+  Being just under two feet tall and having skin with a greenish tint
+and bluish hair, the water sprite is well adapted to water with webbed
+hands and feet. A thin silk veil is the only protection for this 
+creatures body, offering no protection, but covering certain areas to
+protect the eyes of visitors to the pond.
+~
+1074004168 134250497 136249361 17039360 900 S
+8 30 32 3d4+40 2d2+5
+15 250
+8 8 0
+0 0 17 16 15 16 13 11
+SKILL=SPELL_CHILL_TOUCH 50
+#8513
+mob black dragon~
+&KThe black dragon&n~
+&KA large black form looms here, it's scales &wglistening&K in the &Ylight&K.&n
+~
+  The dragon has just moved into this area, having recently matured
+enough to leave its nest and strike off on its own. It is still small
+for a dragon, being only about twenty feet in length and has on just
+learned to use its breath attack. Though it is new to the area, it 
+will ferociously defend its new home. It happens to like it here and
+does not wish to leave.
+~
+4243534 134250497 136249361 2113664 -350 S
+21 19 20 10d5+1600 2d3+4
+900 65000
+8 8 1
+0 0 17 18 16 14 15 12
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SPELL_ACID_BREATH 80
+SKILL=SPELL_HEAL_MINOR 50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8514
+mob quickling~
+&wThe &Wquickling&n~
+&yAn amazingly quick creature streaks by.&n
+~
+  Thought to be kin of elves, quicklings resemble their cousins in most
+respects save size. They stand roughly two feet tall, what they lack in 
+size, they more than make up for in speed. When running at full capability, 
+quicklings appear to be little more than blurs, hence where they get their 
+names.
+~
+1073741896 134217729 136249361 537919498 800 S
+15 23 18 20d3+110 3d4+7
+35 4250
+8 8 1
+0 0 16 16 15 16 15 14
+SKILL=SPELL_BURNING_HANDS 50
+#8515
+mob pixie~
+&yThe &Ypixie&n~
+&yA tiny little &Ypixie&y is here, flying around in circles.&n
+~
+  Pixies are known for there mischevious ways, and this one is no different.
+Watch your pockets, for with lightning quick hands, it'd be sure to be picked
+with this fellow around!
+~
+76 134512641 136249361 130 1000 S
+10 25 30 3d10+32 2d3+5
+30 3150
+8 8 0
+0 0 16 18 16 15 13 15
+SKILL=SPELL_MAGIC_MISSILE 50
+#8516
+mob playful sprite~
+&yThe &csprite&n~
+&yA playful little &csprite&y dances here along the path.&n
+~
+  Standing no taller than three feet, the sprite looks like little more
+that a cherub with pointed ears. It happily spends its days dancing through
+the forest, ignoring all those who wish it harm.
+~
+262216 134250497 136249361 67108864 900 S
+15 25 27 3d10+175 3d4+7
+30 4500
+8 8 0
+0 0 16 16 16 14 14 11
+#8517
+mob beautiful hamadryad~
+&yThe hamadryad&n~
+&yA very beautiful woman stands here, watching from behind a tree.&n
+~
+  Hamadryads differ from their cousins, the dryads in very few ways. The only 
+real difference lies within the time they can spend away from their tree homes, 
+and the hamadryads lack of male charming. Otherwise, the hamadryad has the
+same bronzed skin and auburn hairs that her cousins do, and appears exactly
+the same.
+~
+1073741896 134250497 136249361 168 1000 S
+18 22 25 2d10+130 2d10+7
+15 5400
+8 8 2
+0 0 16 16 15 15 15 12
+SKILL=SPELL_ARMOR 50
+SKILL=SPELL_BLESS 50
+SKILL=SPELL_CHARM_PERSON 40
+SKILL=SPELL_CHILL_TOUCH 90
+#8518
+mob sylph~
+&yThe &Gsylph&n~
+&yA curious &Gsylph&y watches you from the &Gbushes&y.&n
+~
+  Similar to dryads, sylphs are human embodiments of the forest plants.
+Unlike their cousins, however, they lack the charming powers and are 
+somewhat more curious and playful. 
+~
+8 134250497 136249361 67108904 800 S
+16 24 28 2d5+200 4d4+5
+40 4800
+8 8 2
+0 0 17 15 16 15 13 14
+#8519
+mob gnome adventurer~
+&yThe &Kgnome&y adventurer&n~
+&yA &Kgnome&y adventurer is here, looking for his cousins.&n
+~
+  Taking time out of his busy schedule, the gnome is looking for his cousin, 
+the Forest Gnome. He doesn't appear to have had much luck yet though.
+~
+262216 1 136249361 268435456 900 S
+15 25 29 3d10+150 3d3+10
+25 4500
+8 8 0
+0 0 16 15 15 15 14 13
+$~
+#999999

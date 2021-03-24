@@ -1,0 +1,261 @@
+#9475
+obj elements flames broadsword~
+5
+&wBroadSword of the &RFlames&n~
+A huge sword lies here, embers flying off of it.~
+~
+5 2103297 0 8193
+65536 5 10 3
+18 1000000 5
+A
+19 2
+A
+18 4
+#9476
+obj elements dragon kiss~
+1
+&wThe &RKiss &wof the &GD&gr&Ga&gg&Go&gn&n~
+&wThe &RKiss &wof the &GD&gr&Ga&gg&Go&gn&w rests here, ready to bleed you from every orifice&n~
+~
+5 541196608 0 8193
+34824 5 8 11
+3 30000000 150000
+A
+19 2
+A
+18 3
+A
+40 2
+A
+12 -30
+#9477
+obj elements cloak winds~
+1
+&wThe Cloak of the &WWinds&n~
+The cloak of winds has been left here.~
+~
+9 2 32 1029
+0 0 0 0
+10 4575000 5
+A
+19 3
+A
+18 1
+A
+13 10
+#9478
+obj elements oklapes tooth~
+3
+&WThe Tooth of &COklapes&n~
+A large dragons tooth lies here covered in ice.~
+~
+5 16385 16 8193
+132096 5 5 11
+8 30000 5
+A
+19 1
+A
+18 3
+#9479
+obj elements dragon soul~
+1
+&KSoul of the Dragon&n~
+The soul of a dragon has escaped.~
+~
+9 104860674 0 9
+80 0 0 0
+30 375000 30000
+A
+19 3
+A
+18 1
+A
+41 1
+A
+13 -40
+#9480
+obj elements dragon hide~
+5
+&wHide of the Dragon&n~
+a dragons hide lies here.~
+~
+15 2097153 0 1025
+300 0 0 0
+50 31500 5
+A
+19 2
+A
+18 2
+A
+13 5
+#9481
+obj elements fire wing~
+6
+&RFire Wing&n~
+A fiery wing lies here, spilling out blood.~
+~
+9 0 32 513
+0 0 0 0
+35 1750000 5
+A
+19 2
+A
+18 2
+A
+13 15
+A
+1 -1
+#9482
+obj elements talon flaming~
+3
+&YA &RFlaming &YTalon&n~
+A flaming dragon talon lies here.~
+~
+5 69239553 0 8193
+66113 6 5 11
+15 20000000 5
+A
+3 2
+A
+19 2
+A
+18 -1
+#9483
+obj elements eye petrified~
+9
+&wPetrified Eye&n~
+A stone-like eye lies here.~
+~
+1 2097156 0 65537
+0 0 10 0
+10 12000000 5
+A
+19 2
+A
+36 -1
+#9484
+obj elements axe stone weaver~
+5
+&KThe axe of the &yStone&w Weaver&n~
+a stone weavers axe lies here.~
+~
+5 524288 0 8193
+0 4 5 3
+15 30000 5
+A
+19 3
+A
+3 -1
+#9485
+obj elements eternity tail~
+2
+&KThe tail of Eternity&n~
+an eternal tail lies here collecting dust.~
+~
+9 33554432 32 262145
+0 0 0 0
+10 375000 5
+A
+19 7
+A
+5 2
+A
+18 3
+A
+14 -15
+#9486
+obj elements winds blade~
+2
+&wThe blade of the &Wwinds&n~
+The blade of the winds lies here.~
+~
+5 2097218 0 8193
+1024 7 5 3
+15 300000 5
+#9487
+obj elements ice boots~
+4
+&wBoots of &CIce&n~
+Some boots lie here, completely covered in ice.~
+~
+9 2097152 0 65
+0 0 0 0
+20 150000 5
+A
+19 2
+A
+18 1
+A
+13 15
+#9488
+obj elements scales eternity~
+2
+&wThe Scales of &KEternity&n~
+The scales of eternity lie here.~
+~
+9 0 32 33
+0 0 0 0
+30 75000 5
+A
+19 2
+A
+18 3
+A
+13 5
+#9489
+obj Quest Vampire Tooth~
+100
+&wA &KV&ya&Km&yp&Ki&yr&Ke&y'&Ks &WTooth&n~
+A Vampires Tooth lies here.~
+~
+5 138674688 0 24577
+524377 10 7 11
+10 30000 5
+A
+19 4
+A
+18 3
+A
+13 50
+#9490
+obj treasure room chest~
+1
+&YTreasure &yChest&n~
+&WA &YTreasure &yChest&n~
+~
+15 134217736 0 0
+10000 5 0 0
+1 5 5
+#9491
+obj elements wand colours~
+25
+&wA &yWand &wof &sC&so&sl&so&su&sr&ss&n~
+A wand glowing with all the colours lies here.~
+~
+3 262144 8 16385
+50 10 10 10
+1 5 5
+A
+19 2
+A
+18 1
+#9492
+obj elements winds potion~
+25
+&wA potion of the &Wwinds&n~
+a potion covered in wind lies here.~
+~
+10 262144 0 1
+75 3 75 154
+1 5 5
+#9493
+obj elements flame scroll~
+25
+&wa scroll of &RScorching F&Yl&Ra&Ym&Re&Ys&n~
+a scroll of flames lies here, ready to roast something.~
+~
+2 1310720 0 1
+50 114 115 116
+1 5 5
+$~
+#999999

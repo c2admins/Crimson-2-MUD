@@ -9,7 +9,7 @@
 BackupFiles="dev.tgz prod.tgz"
 
 # The directories to run the script in.
-BackupDirectories="/home/ubuntu/c2/controlscripts/backups"
+BackupDirectories="/home/crimson/c2/controlscripts/backups"
 
 # How many backups to keep.
 # MUST ME 3 OR MORE!!!

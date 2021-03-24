@@ -1,0 +1,907 @@
+#20500
+&cThe Mouth of the Cave&n~
+   You stand before a great cave.  You try to peer inside but your senses cant
+seem to penetrate the darkness.  As you debate your next move, a shrill cry
+rings loud from deep inside the cave.  Perhaps you should investigate, or
+perhaps you should run.....
+~
+163 1343234056 536870912 41 75 1
+D0
+the hunting grounds
+~
+~
+0 -1 20626
+D3
+W
+~
+~
+16 -1 20501
+S
+#20501
+&cAn Enormous Cavern&n~
+   As you light your lantern you find yourself in a vast cavern.  Stalagmites
+hang from the ceiling, sharp and fearsome, bringing death to those who don't
+watch their step.  As you glance to your left you notice the wall is covered
+in runes.
+~
+163 1343225864 0 41 75 1
+D1
+E
+~
+~
+16 -1 20500
+D2
+S
+~
+~
+16 -1 20502
+E
+rune left~
+&CBeware trespasser, you have wandered into the home of the kindred.  Watch your step, your intrusion is not welcome.&n
+~
+S
+#20502
+&cA winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343225864 536870912 41 75 1
+D0
+N
+~
+~
+16 -1 20501
+D5
+D
+~
+~
+16 -1 20503
+S
+#20503
+&cA Winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343225864 536870912 41 75 1
+D1
+E
+~
+~
+16 -1 20504
+D4
+U
+~
+~
+16 -1 20502
+S
+#20504
+&cA Winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343225864 536870912 41 75 1
+D1
+E
+~
+~
+16 -1 20505
+D3
+W
+~
+~
+16 -1 20503
+S
+#20505
+&cA Winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343225864 536870912 41 75 1
+D0
+N
+~
+~
+16 -1 20500
+D2
+S
+~
+~
+16 -1 20506
+D3
+W
+~
+~
+16 -1 20504
+S
+#20506
+&cA Winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343225864 536870912 41 75 1
+D0
+N
+~
+~
+16 -1 20500
+D1
+the path continues
+~
+~
+16 -1 20507
+D5
+&wA trapdoor blocks your vision&n
+~
+trapdoor~
+17 0 20610
+S
+#20507
+&cA Winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343229960 536870912 41 75 1
+D3
+W
+~
+~
+16 -1 20508
+D4
+U
+~
+~
+16 -1 20506
+S
+#20508
+&cA Winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343229960 536870912 41 75 1
+D1
+E
+~
+~
+16 -1 20500
+D2
+S
+~
+~
+16 -1 20509
+S
+#20509
+&cA Winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343229960 536870912 41 75 1
+D0
+N
+~
+~
+16 -1 20507
+D5
+D
+~
+~
+16 -1 20510
+S
+#20510
+&cA Winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343229960 536870912 41 75 1
+D2
+S
+~
+~
+16 -1 20512
+D4
+U
+~
+~
+16 -1 20509
+D5
+the entrance to the temple
+~
+temple entrance~
+31 20617 20511
+S
+#20511
+&GThe Anteroom of the Temple&n~
+   As you climb into the room you hear the scuffle of feet below you.  You've
+come across holy ground, and it seems to be well guarded.  A battle awaits,
+stand ready.
+~
+163 1343225865 805306368 41 75 1
+D0
+&RThe Altar of Fire&n
+~
+~
+16 -1 20400
+D1
+&GThe Altar of the Earth&n
+~
+~
+16 -1 20401
+D2
+&BThe Altar of Water&n
+~
+~
+16 -1 20402
+D3
+&YThe Altar of the Winds&n
+~
+~
+16 -1 20403
+D4
+&CThe Altar of Spirit&n
+~
+~
+16 -1 20404
+D5
+&GThe &BTemple &Yof &Rthe &CAncients&n
+~
+temple~
+31 20532 20405
+S
+#20512
+&cA Winding Path through the Cave&n~
+   You've stepped into some sort of maze.  It seems it was created by the
+Elders to protect their stronghold.  As you navigate through the winding rock
+formations you find yourself where you were, and in front of where you're
+about to be.
+~
+163 1343229961 536870912 41 75 1
+D0
+N
+~
+~
+16 -1 20510
+D4
+The path continues....
+~
+~
+16 -1 20513
+S
+#20513
+&cA Great Canyon&n~
+&BYou've reached the turning point, outside the maze, and before the stronghold.  If you so choose, turn back now, it may be your last chance.  A bridge of wooden planks quivers with each gust of wind, but it looks to be the only crossing.
+Hurry and make your decision, before it gives way to the elements&n
+~
+163 1477443593 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20514
+S
+#20514
+&cA Great Canyon&n~
+&BYou've reached the turning point, outside the maze, and before the stronghold.  If you so choose, turn back now, it may be your last chance.  A bridge of wooden planks quivers with each gust of wind, but it looks to be the only crossing.
+Hurry and make your decision, before it gives way to the elements&n
+~
+163 1477443593 536870912 41 75 1
+D0
+~
+~
+0 -1 20515
+D2
+Hmmmmm
+~
+~
+0 -1 20513
+S
+#20515
+&cAcross the Canyon&n~
+&BYou made it, but barely.  As you stepped off the bridge it collapsed and fell into the vastness of the canyon.  The prophecy was true.  Continue brave warrior, for you have no way out.&n
+~
+163 1477443593 536870912 41 75 1
+D1
+E
+~
+~
+0 -1 20516
+S
+#20516
+&rBefore the Stronghold&n~
+&BYou have reached your destination.  Before you lies the stronghold of the kindred.  Built into the stone in the core of the earth, this sacred haven is unscathed, its walls standing strong and firm.
+As you look at the doors to this place, you're glad you didn't come alone.  The massive doors would be too much for a single person.  Put your back into it, and push with all your might, it seems to be the only way in.&n
+~
+163 1477443593 536870912 41 75 1
+D0
+N
+~
+Stronghold~
+15 20513 20517
+D3
+W
+~
+~
+0 -1 20515
+S
+#20517
+&RA long hallway&n~
+You stop for a moment, overcome by the majesty of this place.  Its ceilings
+seem to touch the sky, despite being so deep underground.  The walls are
+adorned with runic drawings and glyphs proclaiming the glory of Caine.
+~
+163 1477574665 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20518
+S
+#20518
+&RA long hallway&n~
+You stop for a moment, overcome by the majesty of this place.  Its ceilings
+seem to touch the sky, despite being so deep underground.  The walls are
+adorned with runic drawings and glyphs proclaiming the glory of Caine.
+~
+163 1477574665 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20519
+D2
+~
+~
+0 -1 20517
+S
+#20519
+&RA long hallway&n~
+You stop for a moment, overcome by the majesty of this place.  Its ceilings
+seem to touch the sky, despite being so deep underground.  The walls are
+adorned with runic drawings and glyphs proclaiming the glory of Caine.
+~
+163 1477574665 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20520
+D2
+S
+~
+~
+0 -1 20518
+S
+#20520
+&RA long hallway&n~
+You stop for a moment, overcome by the majesty of this place.  Its ceilings
+seem to touch the sky, despite being so deep underground.  The walls are
+adorned with runic drawings and glyphs proclaiming the glory of Caine.
+~
+163 1477574665 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20521
+D2
+S
+~
+~
+0 -1 20519
+S
+#20521
+&WStanding Before the Great Hall&n~
+&BIn one respect you stand in front of the great hall, but in another, you stand before a great wall.  Whilst the kindred have the luxury of flight to gain them access to their many chambers, you aren't so blessed.
+As you scan the walls for foot holes, you notice a ladder in the corner, covered in dust.&n
+~
+163 1477451785 536870912 41 75 1
+D2
+S
+~
+~
+0 -1 20520
+D4
+~
+~
+144 -1 20522
+S
+#20522
+&yThe Great Hall&n~
+&cYou find yourself in the largest room you've ever been in, no less dreamed of.  Mosaics cover the walls, depicting the struggles and victories of the Kindred.  The floor is pure marble, of quality superior to any you've seen.
+A large Hanging drapes down in the very center of the room, its focus the lifeline of the Wyrm, from the conception of Caine to the victory over the inquisition.&n
+~
+163 1477443593 0 41 75 1
+D0
+N
+~
+chasm~
+31 20514 20523
+S
+#20523
+&yThe Great Hall&n~
+&cAs you continue through the hall, you come across a section devoted
+to the houses of the Wyrm.  Portraits of the Antediluvians adorn the
+walls.  As you gaze upward you notice a massive likeness of Caine
+covering the ceiling.&n
+~
+163 1477443593 0 41 75 1
+D0
+N
+~
+~
+0 -1 20524
+D2
+S
+~
+~
+0 -1 20522
+S
+#20524
+&yThe Hall Continues&n~
+&cYou have come across yet another room belonging to the great hall.
+This room seems to serve as some sort of dining area, yet no tables,
+chairs, nor edibles are to be found.  In fact, the only thing in
+sight is a large well.&n
+~
+163 1477443593 0 41 75 1
+D0
+northN
+~
+north~
+0 -1 20525
+D2
+S
+~
+~
+0 -1 20523
+S
+#20525
+&cThe Entrance to the Catacombs&n~
+&yAs the great hall finally comes to an end, you arrive before
+the massive catacombs of the stronghold.  Once inside you will
+find your quarry, but not without a fight.  Watch your step and
+beware your foe - you've breached their gates.&n
+~
+163 806354953 536870912 41 75 1
+D4
+U
+~
+~
+0 -1 20527
+S
+#20526
+&GT&gh&Ge &wC&Kh&wa&Km&wb&Ke&wr&Ks &Go&gf &Gt&gh&Ge &RM&ra&Rs&rt&Re&rr&n~
+&BThe search is over - you stand at the apex of the catacombs.
+Within these walls the &rW&Ry&Yr&Rm&B of the earth were conceived...
+and with the same token, the offenders of the kindred were slain.
+The chambers themselves belong to the father, the sire of all
+Wyrmkind.  Until this very moment, his name was no more than a
+superstitious curse in your mind...an word no man dared mutter.
+
+Here, however, dwells that being glorified by immortality.  You
+suddenly notice you aren't alone in your thoughts and realize
+your mind has been overtaken.  The sire is residing in your thoughts.
+As he gains more and more control over you, it becomes clear what
+you must do.
+
+Luck be with you.
+&n
+~
+163 269615113 536870912 41 75 1
+S
+#20527
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477443593 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20530
+D1
+E
+~
+~
+0 -1 20528
+D3
+W
+~
+catacomb~
+15 20515 20529
+D5
+D
+~
+~
+0 -1 20525
+S
+#20528
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D3
+W
+~
+~
+0 -1 20527
+S
+#20529
+&RThe House of Set&n~
+You stand in the house of Set, its patron however is nowhere to
+be found.  Instead, Djuhah stands here, grinning devilishly.
+
+You realize the crime that has been committed here and prepare
+yourself for the impending onslaught.
+~
+163 269615113 536870912 41 75 1
+D1
+E
+~
+~
+0 -1 20527
+S
+#20530
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D4
+U
+~
+~
+0 -1 20531
+S
+#20531
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D2
+S
+~
+~
+0 -1 20532
+D5
+D
+~
+~
+0 -1 20530
+S
+#20532
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20531
+D3
+W
+~
+~
+0 -1 20533
+S
+#20533
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D1
+E
+~
+~
+0 -1 20532
+D3
+W
+~
+~
+0 -1 20534
+S
+#20534
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D1
+E
+~
+~
+0 -1 20533
+D2
+S
+~
+~
+0 -1 20535
+S
+#20535
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20534
+D4
+U
+~
+~
+0 -1 20536
+S
+#20536
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20539
+D1
+E
+~
+catacomb~
+15 20516 20537
+D3
+W
+~
+catacomb~
+15 20517 20538
+S
+#20537
+&KThe House of &BLasombra&n~
+&cThe splendor of this place overwhelms you.  Each wall is covered
+with the spoils of battle and the ceiling is painted using ancient
+and exotic inks.  The mural ceiling depicts the many warriors of the
+house engaged in a bloody ceremony.
+
+One of the first clans to participate in the hunt, the House of Lasombra
+earned itself riches beyond comprehension.  In the corner rests a large
+cauldron that fills daily with the blood of the Sabbat...a "gift"
+from the Sire.
+&n
+~
+163 269615113 536870912 41 75 1
+D3
+W
+~
+~
+0 -1 20536
+S
+#20538
+&BThe Court of the Visigoth&n~
+&cYou have entered the court of the Visigoth chieftain,
+and surprisingly you are met with a warm welcome.  In
+these very chambers Siegfried creates his infamous
+pacts with the warring races.  You feel honored to have
+been accepted inside.&n
+~
+163 269615113 536870912 41 75 1
+D1
+E
+~
+~
+0 -1 20536
+S
+#20539
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 2014445577 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20542
+D1
+E
+~
+catacomb~
+15 20518 20541
+D2
+S
+~
+~
+0 -1 20536
+D5
+D
+~
+catacomb~
+15 20519 20540
+S
+#20540
+&RThe &KHouse &Rof &KTzimisce&n~
+&rYour wandering has brought you into utter darkness.  You
+peer ahead and can see the walls of the house, yet your
+body is concealed in the inky blackness.
+
+Your eyes meet with those of the Master of the house, and
+you realize you've entered the shadowed world of the
+Tzimisce.&n
+~
+163 269615113 536870912 41 75 1
+D4
+U
+~
+~
+0 -1 20539
+S
+#20541
+&KThe House of Tremere&n~
+&BYou have entered the house of Tremere.  The walls of the room seem to glow as their lord focuses his energy.  Here he resides, looking for new ways to achieve his goal.&n
+~
+163 269615113 536870912 41 75 1
+D3
+W
+~
+~
+0 -1 20539
+S
+#20542
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D2
+S
+~
+~
+0 -1 20539
+D4
+U
+~
+~
+0 -1 20543
+S
+#20543
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20547
+D1
+E
+~
+catacomb~
+15 20520 20544
+D2
+S
+~
+~
+0 -1 20545
+D3
+W
+~
+~
+0 -1 20546
+D5
+D
+~
+~
+0 -1 20542
+S
+#20544
+&gThe Practice Chamber of the Antediluvian&n~
+&BYou've entered a large room.  An array of strange weapons are scattered across the floor.  On a large rack in the corner a fearsome blade rests, awaiting its next use.  In the center, a lone antediluvian stands, keeping his skills sharp.&n
+~
+163 269615113 536870912 41 75 1
+D3
+W
+~
+~
+0 -1 20543
+S
+#20545
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D0
+N
+~
+~
+0 -1 20543
+S
+#20546
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477574665 536870912 41 75 1
+D1
+E
+~
+~
+0 -1 20543
+S
+#20547
+&KThe Catacombs&n~
+&BAs you wander through the catacombs you seem to lose sight of yourself at every turn.  Normal navigation seems to be useless, and you begin to wander without true direction.  Sooner or later your search will end.
+Regardless, the only foreseeable exit, is death.&n
+~
+163 1477443593 536870912 41 75 1
+D3
+W
+~
+catacomb~
+15 20521 20549
+D5
+D
+~
+catacomb~
+15 20522 20548
+S
+#20548
+&WThe Antechamber&n~
+You find yourself in a large antechamber...but to what?
+With no doors in sight, you ponder where this room could
+possibly go.  Suddenly a cloaked figure steps forth from
+the shadows.  As his face comes into view, you realize
+who he is and where you must be.
+
+He has plans for you and his kindred, and as long as he
+lives he will not let you distrupt his mission.  Stand
+guard and prepare for battle.
+~
+163 269484041 536870912 41 75 1
+D5
+D
+~
+WyrmGate~
+31 20523 20526
+S
+#20549
+&WThe High Council&n~
+You've entered the court of the Gangrel.  Here its rulers
+issue their orders and receive their subjects.  The left
+wall and tattoo on Gangrel's left arm both bear the house
+insignia.  Stepping into the light, you are recognized
+as human and immediately attacked.
+~
+163 269484041 536870912 41 75 1
+D1
+E
+~
+~
+0 -1 20547
+S
+$~
+#999999

@@ -1,0 +1,324 @@
+#125
+obj your favorite drink~
+10
+Your favorite drink~
+Your favorite drink is lying here.~
+~
+17 0 0 16385
+10 10 6 0
+1 1 5
+A
+6 2
+#126
+obj straw hat~
+10
+a &ystraw&n hat~
+A small straw hat is lying here.~
+~
+9 0 0 17
+5 0 0 0
+1 5 5
+A
+39 -1
+A
+6 2
+#127
+obj hair piece~
+5
+a hair piece~
+A old dusty hair piece is lying here all scraggly.~
+~
+9 134283328 0 17
+2 0 0 0
+1 10000 5
+A
+32 -1
+A
+27 -1
+A
+26 -1
+A
+6 2
+#128
+obj several stringed instruments~
+8
+several stringed instruments~
+Several different stringed instruments are lying here.~
+~
+5 2 0 24577
+0 8 2 6
+1 1000000 5
+A
+12 5
+A
+3 1
+A
+6 1
+A
+28 -1
+#129
+obj your favorite meal~
+75
+Your favorite meal~
+You favorite meal is lying here waiting to be eaten.~
+~
+19 0 0 1
+30 0 0 0
+1 1 5
+#130
+obj golden serving tray~
+5
+a golden serving tray~
+The most exquisit golden tray in all the lands is here on the ground.~
+~
+8 1 0 16513
+0 0 10 0
+1 5000000 5
+A
+19 1
+A
+6 1
+#131
+obj comet's tail~
+10
+a &Rc&Yo&Rm&Ye&Rt&Y'&Rs&n tail~
+A long sparkling comet's tail is here, wrap it around your waist.~
+~
+9 1 0 2049
+5 0 0 0
+1 5 5
+A
+12 15
+A
+13 -5
+A
+14 -5
+#132
+obj star dust dazzling~
+10
+a dazzling pile of star dust~
+A dazzling pile of star dust is here glowing magically.~
+~
+26 524355 0 147457
+41 5 5 154
+1 250000 5
+A
+9 5
+A
+23 5
+A
+24 -5
+A
+14 5
+#133
+obj ball yarn~
+15
+a ball of yarn~
+A small tangled ball of yarn is lying here.~
+~
+9 0 0 16385
+1 0 0 0
+1 500 5
+A
+2 1
+A
+6 1
+A
+3 -1
+#134
+obj fetching stick~
+10
+a fetching stick~
+A stick to play fetch with a dog is here.~
+~
+5 0 0 24577
+0 5 4 6
+1 1 5
+A
+18 1
+A
+6 1
+A
+14 5
+A
+5 -1
+#135
+obj chocolate treats~
+25
+a pile of chocolate treats~
+A sizable pile of chocolate treats are lying here tempting you.~
+~
+19 8 0 1
+40 0 0 0
+1 5 5
+#136
+obj milk chocolate cherries~
+25
+a pile of milk chocolate covered cherries~
+A pile of milk chocolate covered cherries are lying here awaiting you mouth.~
+~
+19 8 0 1
+25 0 0 0
+1 5 5
+#137
+obj white chocolate pretsel~
+25
+a white chocolate covered pretsel~
+A wonderfully white chocolate covered pretsel is here wanting you to eat it.~
+~
+19 0 0 1
+5 0 0 0
+1 5 5
+#138
+obj bowl chocolate ice cream~
+25
+a bowl of ice cream~
+A large bowl of chocolate ice cream is cooling here.~
+~
+19 8 0 1
+30 0 0 0
+1 5 5
+#139
+obj tribute you~
+1
+the peoples tribute to your complete and total greatness~
+A pile of expensive jewels and gold is here tributing you from the people.~
+~
+20 0 0 1
+568235 0 0 0
+1 5 5
+#140
+obj sign greatness~
+12
+a sign of greatness~
+A sign proclaiming your greatness is lying here.~
+~
+12 0 0 16385
+0 0 10 0
+1 5 5
+E
+sign greatness~
+It says how totally and completely great you are.
+~
+A
+6 3
+A
+1 1
+A
+14 -10
+#141
+obj flower yellow~
+2
+a tall stiff &Yyellow&n flower~
+A tall yellow flower is here, fallen over.~
+~
+25 262152 0 1
+0 0 10 0
+1 5 5
+E
+yellow flower~
+It looks like someone left this here before they could finish planting it.  Hmm...
+~
+#142
+obj supreme satisfaction~
+5
+&YSupreme Satisfaction&n~
+Here lies supreme satisfaction.~
+~
+9 524288 0 3
+0 0 0 0
+1 5 5
+A
+19 1
+A
+13 10
+A
+32 -1
+#143
+obj highest happiness~
+5
+&PHighest Happiness&n~
+Here lies the highest happiness.~
+~
+1 524288 0 65537
+0 0 0 0
+1 5 5
+A
+19 1
+A
+27 -1
+A
+26 -1
+#144
+obj pure pleasure~
+5
+&RPure Pleasure&n~
+Here lies pure pleasure.~
+~
+9 524288 0 5
+0 0 0 0
+1 5 5
+A
+19 1
+A
+18 1
+A
+30 -1
+#145
+obj rolling rapture~
+5
+&CRolling Rapture&n~
+Here lies some rolling rapture.~
+~
+9 524288 0 4097
+0 0 0 0
+1 5 5
+A
+18 1
+A
+13 15
+A
+31 -1
+A
+33 -1
+#146
+obj beaming bliss~
+5
+&GBeaming Bliss&n~
+Here lies some beaming bliss.~
+~
+9 524288 0 17
+0 0 0 0
+1 5 5
+A
+18 1
+A
+13 20
+#147
+obj embodiment ecstacy~
+2
+&BThe Embodiment of Ecstacy&n~
+The embodiment of all that is pure and happy is lying here waiting to be worn.~
+~
+9 524288 0 9
+20 0 0 0
+1 5 5
+A
+19 1
+A
+18 1
+A
+39 -1
+A
+37 -1
+#148
+obj drop rain~
+15
+a &Cdrop&n of &Brain&n~
+A happy little drop of rain is lying here in a small pool.~
+~
+10 0 0 1
+41 73 87 99
+1 5 5
+$~
+#999999

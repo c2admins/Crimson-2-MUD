@@ -1,0 +1,316 @@
+#21000
+obj extra bulletin board 9~
+1
+A spare bulletin board~
+A spare bulletin board hangs on a wall.~
+~
+13 8 0 0
+0 0 10 0
+25 5 5
+#21001
+obj ruins chest fallen~
+1
+The ruins of the &CFallen&n~
+&rThe &CRuins &Kof the &CFa&RLL&Cen&n~
+~
+15 8 0 0
+100 15 21003 0
+1 5 5
+#21002
+obj chest of scorched horizons~
+1
+&CA Small Onyx Chest&n~
+&cA Small Onyx Chest&n~
+~
+15 8 0 0
+100 15 21004 0
+1 5 5
+#21003
+obj key to the ruins of the fallen~
+0
+&wA Key to the &CR&ruin&Cs&n~
+A key to the ruins of the fallen lies here, if you arent rank 10 DO NOT USE IT!~
+~
+18 0 0 1
+21001 0 21003 0
+1 5 5
+#21004
+obj onyx key~
+0
+&cA Tiny Onyx Key&n~
+a tiny onyx key~
+~
+18 0 0 1
+21002 0 0 0
+1 5 5
+#21005
+obj soul oren~
+1
+&Kyour soul&n~
+&KY&co&Ku&cr &Ks&co&Ku&cl &Kl&ci&Ke&cs &Kh&ce&Kr&ce&K, &ct&Kr&ca&Kp&cp&Ke&cd &Ki&cn &Ka &cg&Kl&co&Kw&ci&Kn&cg &Kv&co&Kr&ct&Ke&cx&n~
+~
+15 8 0 0
+10000 15 21006 0
+1 5 5
+#21006
+obj seal damned~
+32767
+&KThe Seal of the Damned&n~
+&KThe Seal of the Damned&n~
+~
+18 0 0 1
+21005 0 0 0
+1 5 5
+#21007
+obj venus trap~
+1
+a venus person trap~
+&GA Venus Person Trap is sitting here silently, pretending to be dead.&n~
+~
+17 8 0 0
+1000000 1000000 13 0
+9999 5 5
+#21008
+obj toybox box toy~
+100
+Shatterdust's little toy box~
+&rT&co&wy&CB&Ro&Bx&n~
+~
+15 0 0 0
+100 15 21009 0
+1 5 5
+#21009
+obj thundercat doll key~
+32767
+&BA &CT&Rhundercats &RD&Coll&n~
+&RThunder, &BThunder, &CThundercats Ho!&n~
+~
+18 0 0 1
+21008 0 0 0
+1 5 5
+#21010
+obj Bone chest~
+1
+A bone chest~
+A massive chest constructed of bones.~
+~
+15 12 0 0
+100 15 21011 0
+1 5 5
+#21011
+obj skeleton key~
+32767
+A skeleton key~
+A skeleton key rests on the ground.~
+~
+18 0 0 1
+21010 0 0 0
+1 5 5
+#21012
+obj A massive chest~
+1
+a massive chest~
+A massive chest rests on the ground.~
+~
+15 8 0 0
+100 15 21013 0
+1 5 5
+#21013
+obj A massive key~
+32767
+A massive key~
+A massive key rests on the ground.~
+~
+18 0 0 1
+21012 0 0 0
+1 5 5
+#21014
+obj bulletin board church of funk~
+1
+The ChUrCh of FuNk bulletin board~
+&xC&xh&xU&xr&xC&xh&x O&xf&x F&xu&xN&xk&x B&xo&xA&xr&xD&n~
+~
+13 8 0 0
+0 0 10 0
+25 5 5
+#21015
+obj small oak chest~
+100
+a small oak chest~
+A small, expertly-crafted wooden chest rests here.~
+~
+15 8 0 0
+100 15 0 0
+1 5 5
+#21016
+obj copper Scorched Horizons key~
+32767
+a small copper key~
+A small copper key lies here, reflecting light.~
+~
+18 0 0 1
+21015 0 0 0
+1 5 5
+#21017
+obj scorched horizons notice board~
+1
+Notice Board of Scorched Horizons~
+A large notice board is here, hanging from the wall, clouded in shadow.~
+~
+13 8 0 0
+0 0 10 0
+25 5 5
+#21018
+obj bong~
+1
+&YEl &GGraffix &CBonita &gis here, waiting to knock your &CAlveoli &goff....&Gshe glows green!&n~
+&YEl &GGraffix &CBonita &gis here, waiting to knock your &CAlveoli &goff....&Gshe glows green!&n~
+~
+15 8 0 0
+100 15 0 0
+1 5 5
+#21019
+obj slide flourescent~
+100
+&Ga small flourescent slide&n~
+&Ga small flourescent slide&n~
+~
+18 0 0 1
+21018 0 0 0
+1 5 5
+#21020
+obj chimpanzee chest chimp~
+1
+chimp chest~
+&GOut of the corner of your eye you spot a large a chimpanzee, with its mouth wide open, sitting on the ground motionless.&n~
+~
+15 8 0 0
+100 15 0 0
+1 5 5
+#21021
+obj bannana~
+100
+&Ca &YBannana&n~
+&Ca &YBannana&n~
+~
+18 0 0 1
+21020 0 0 0
+1 5 5
+#21022
+obj A piece of broken hope~
+100
+&WA Piece of &CB&Br&Co&Bk&Ce&Bn &BH&Co&Bp&Ce&n~
+A piece of broken hope lies here.~
+~
+18 0 0 1
+0 0 10 0
+1 5 5
+#21023
+obj swirling void azaroth splintering faith~
+1
+&RS&rw&Ri&rr&Rl&ri&Rn&rg &GV&go&Gi&gd&n~
+A &RS&rw&Ri&rr&Rl&ri&Rn&rg &GV&go&Gi&gd&n is floating here, awaiting your contents.~
+~
+15 8 0 0
+100 15 21024 0
+1 5 5
+#21024
+obj diary barn key obj~
+32767
+&wA &ykey &Wto a &Wdiary &ybarn&n~
+&wA key to something rests here.&n~
+~
+18 0 0 1
+21023 0 0 0
+1 5 5
+#21025
+obj Tombstone~
+1
+&KTombstone&n~
+&wA rather large &KTombstone &wwith the words &rD&Re&ra&Rd&rm&Ra&rn &RW&ra&Rl&rk&Ri&rn&Rg&w inscribed on it stands in the middle of the room.&n~
+~
+15 29 0 1
+4000 0 0 0
+1 5 5
+E
+Tombstone~
+&wHere lies &KCole, &rD&Re&ra&Rd&rm&Ra&rn &Rw&ra&Rl&rk&Ri&rn&Rg&w, may the gods have mercy on his soul.&n
+~
+#21026
+obj A bloody casket~
+1
+&wA &rb&Rl&ro&Ro&rd&Ry &Kcasket.&n~
+&wA &rb&Rl&ro&Ro&rd&Ry &Kcasket &wlies open in a hole.&n~
+~
+15 29 0 1
+4000 15 21027 0
+1 5 5
+E
+casket~
+&KA empty &rb&Rl&ro&Ro&rd &Rc&ro&Rv&re&Rr&re&Rd&K casket lies here.&n
+~
+#21027
+obj casket key~
+1
+&rC&Ra&rs&Rk&re&Rt &Kkey&n~
+&wI odd looking key has beed discarded here.&n~
+~
+18 21 0 1
+21026 0 0 0
+1 5 5
+#21028
+obj chest~
+1
+&wA &rb&Rl&ro&Ro&rd &Rc&ro&Rv&re&Rr&re&Rd&K chest.&n~
+&wA &rb&Rl&ro&Ro&rd &Rc&ro&Rv&re&Rr&re&Rd&K chest is half-buried under a pile of &rb&Rl&ro&Ro&rd&Ri&re&Rd&K body parts.&n~
+~
+15 12 0 0
+150 15 21029 0
+1 5 5
+#21029
+obj bloody key~
+32767
+&wA &rb&Rl&ro&Ro&rd&Ry &wkey&n~
+&wA &rb&Rl&ro&Ro&rd&Ry &wkey has been discarded here.&n~
+~
+18 0 0 1
+21028 0 21028 0
+1 5 5
+#21030
+obj Samara Pancreatic Pseudocyst~
+100
+&RSa&rma&Kra's Pan&wcrea&Rtic Pseudo&rcys&Kt&n~
+&RSa&rma&Kra's Pan&wcrea&Rtic Pseudo&rcys&Kt&n~
+~
+15 0 0 1
+1000 15 21031 0
+1000 5 5
+#21031
+obj Skull Key~
+1
+&RSk&rul&Kl K&wey&n~
+&RSk&rul&Kl K&wey&n~
+~
+18 0 0 1
+21030 0 0 0
+1 5 5
+#21032
+obj arcane disillusions B-object doesn't work~
+1
+Arcane Disillusions Board~
+Arcane Disillusions Board~
+~
+13 8 0 0
+0 0 10 0
+25 5 5
+#21033
+obj green twig~
+32767
+&Ka &Ggreen &Ktwig&E~
+&Ka &Ggreen &Ktwig&E~
+~
+18 0 0 1
+0 0 0 0
+1 5 5
+$~
+#999999

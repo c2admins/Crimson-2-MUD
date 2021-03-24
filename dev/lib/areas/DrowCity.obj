@@ -1,0 +1,480 @@
+#5100
+obj longsword commoner~
+8
+&Ka c&wommone&Kr's long&wsword&n~
+A commoner's longsword made of adamantine has been left here.~
+slash~
+5 512 8 8193
+0 3 9 3
+2 1000 200
+A
+18 1
+A
+19 1
+A
+12 5
+#5101
+obj amulet eilistraee~
+5
+&wan &Ya&wm&Wul&we&Yt &wof &WEi&wl&Kistr&wa&Wee&n~
+A strange, glowing amulet rests here.~
+slash~
+11 1024 16 5
+0 0 0 0
+2 10000 300
+A
+18 2
+A
+19 1
+A
+12 10
+#5102
+obj black longsword guard~
+10
+&wa &Kdrow &wlong&Ksword&n~
+&Ka black &wlong&Ksword lies here.&n~
+whip~
+5 65 8 8193
+0 2 6 2
+2 1750 500
+A
+18 2
+A
+19 1
+A
+12 -5
+#5103
+obj whip snake threeheaded~
+9
+&Ka &Gs&gna&Kke he&gade&Gd &Kwhip&n~
+A whip with three snake heads has been left here~
+whip~
+5 1048641 0 8193
+0 2 15 2
+2 5000 740
+A
+18 2
+A
+19 1
+A
+12 -5
+#5104
+obj whip snake fourheaded~
+6
+&Ka &Gs&gna&Kke he&gade&Gd &Kwhip&n~
+A whip with four snake heads has been left here~
+whip~
+5 2097729 0 8193
+513 2 20 2
+2 10250 900
+A
+18 3
+A
+19 1
+#5105
+obj longsword black drow~
+10
+&Ka black long&wsword&n~
+A black longsword has been carelessly left here~
+slash~
+5 1048641 0 8193
+0 4 8 3
+6 10250 900
+A
+18 2
+A
+19 2
+#5108
+obj hand crossbow~
+7
+&ya small &Khan&wd-he&Kld c&yrossbow&n~
+A small, bowlike object rests here.~
+~
+5 1053184 0 16385
+0 1 4 11
+3 2000 500
+#5109
+obj adamantium weave gauntlets~
+6
+&Ka pair of &Wad&wa&Kmant&wi&Wum&K weave &wgauntlets&n~
+A pair of gauntlets has been dropped~
+~
+9 67115521 16 129
+10 0 0 0
+2 10000 5000
+A
+19 2
+A
+18 1
+A
+13 10
+#5110
+obj wand lightning blue silver~
+10
+&wa si&Wl&Bv&We&wry b&Blu&we wand&n~
+A silvery blue wand has been dropped in the dirt~
+~
+3 57408 0 16385
+30 3 3 30
+1 4000 600
+#5111
+obj drow priest coronal~
+10
+&Ka drow c&Wor&wo&Wna&Kl&n~
+A small circlet denoting drow rank lies here.~
+~
+11 2097728 0 17
+1 0 0 0
+5 50000 4000
+A
+3 3
+A
+19 2
+A
+12 15
+#5112
+obj spider ring~
+7
+&Ka &wsp&Wid&wer &Kring&n~
+A small ring shaped like a spider lies here.~
+~
+11 576 16 3
+6 0 0 0
+1 20000 6000
+A
+12 20
+A
+19 1
+A
+37 -1
+#5113
+obj dagger spider shaped~
+5
+&Ka &wsp&Wid&wer &Ksh&wa&cped dag&wg&Ker&n~
+A dagger with spider leg shaped blades lies on the ground~
+pierce~
+5 576 16 8193
+1 4 8 11
+2 12000 1500
+A
+18 2
+A
+19 2
+#5114
+obj cloak of shadows~
+8
+&Ka cloak of shadows&n~
+A cloak as dark as night lies here.~
+~
+11 128 16 1025
+0 0 0 0
+5 2000 600
+A
+19 2
+A
+13 15
+A
+12 15
+#5115
+obj adamantium arm plates~
+5
+&Ka set of &Wad&wa&Kmant&wi&Wum &Karm &wplates&n~
+A set of arm plates made from a very strong metal lie here.~
+~
+9 67121153 16 257
+19 0 0 0
+6 9000 50
+A
+13 15
+A
+19 2
+#5116
+obj venom blade~
+9
+&Ka &yve&Kn&yom &Kbl&wa&Kde&n~
+A long curved blade with poison dripping from it lies here.~
+~
+5 2097664 0 8193
+1 5 6 3
+4 34000 5
+#5117
+obj rod mastery~
+7
+&wa rod of &cmas&wt&cery&n~
+A short rod made from a strange metal lies here.~
+~
+12 2560 16 16385
+0 0 0 0
+6 50000 5
+A
+3 2
+A
+4 2
+A
+41 2
+#5118
+obj spider silk boots~
+7
+&Ka pair of &wsp&Wid&wer &Ws&wil&Wk &Kboots&n~
+A pair of boots made from spiders silk lie here.~
+~
+11 67109376 16 65
+0 0 0 0
+3 30000 5
+A
+2 3
+A
+19 2
+A
+17 -4
+#5119
+obj spider silk gloves~
+5
+&Ka pair of &wsp&Wid&wer &Ws&wil&Wk &Kgloves&n~
+A pair of gloves hade from spider silk lie here.~
+~
+11 2560 16 129
+0 0 0 0
+2 35000 5
+A
+12 20
+A
+19 2
+#5120
+obj set drow chainmail~
+5
+&Ka set of drow chain&wm&Wai&wl&n~
+A set of black chainmail lies here.~
+~
+9 69206592 0 9
+20 0 0 0
+12 86000 5
+A
+41 1
+A
+19 3
+A
+12 10
+#5121
+obj drow leggings~
+7
+&Ka set of drow leggings&n~
+A set of leggings made from a blackened metal lie here.~
+~
+9 576 16 33
+10 0 0 0
+6 40000 5
+A
+2 1
+A
+19 1
+A
+18 2
+#5122
+obj spider silk robes~
+7
+&Ka &wsp&Wid&wer &Ws&wil&Wk &Krobe&n~
+A robe made from spider silk lies here in a heap.~
+~
+11 512 16 1025
+0 0 0 0
+7 55000 5
+A
+19 2
+A
+18 2
+A
+36 -1
+A
+24 -2
+#5123
+obj spider silk belt~
+5
+&Ka &wsp&Wid&wer &Ws&wil&Wk &Kbelt&n~
+A belt woven from the silk of spiders lies here.~
+~
+15 576 16 2049
+80 0 0 0
+3 30000 5
+A
+12 15
+A
+2 2
+A
+19 2
+#5124
+obj spider silk cloak~
+5
+&Ka &wsp&Wid&wer &Ws&wil&Wk &Kcloak&n~
+A cloak woven from the silk of a spider lies here.~
+~
+11 2097664 0 5
+0 0 0 0
+5 60000 5
+A
+19 3
+A
+2 2
+#5125
+obj bracer darkness~
+5
+&Ka b&wr&cac&we&Kr of d&wa&crkne&ws&Ks&n~
+A bracer as dark as night lies here.~
+~
+9 67111440 16 4097
+5 24 0 0
+2 28500 5
+A
+19 2
+A
+18 1
+A
+12 10
+#5126
+obj blessed adamantium longsword~
+3
+&wa &Wblessed ad&wa&Kmant&wi&Wum &wlong&Ksword&n~
+A strong looking sword rests here.~
+~
+5 136320320 0 8193
+262178 7 7 3
+4 40000 5
+A
+18 3
+A
+19 1
+#5127
+obj spider silk robes laele~
+7
+&Ka &wsp&Wid&wer &Ws&wil&Wk &Krobe&n~
+A robe made from spider silk lies here in a heap.~
+~
+11 2048 16 1033
+0 0 0 0
+7 55000 5
+A
+19 2
+A
+18 2
+A
+36 -1
+A
+24 -2
+#5128
+obj chessintras coronal~
+4
+&KChessintra's c&Wor&wo&Wna&Kl&n~
+A small circlet normally worn by Chessintra lies here.~
+~
+11 42304 32 17
+0 0 0 0
+2 125000 5
+A
+19 3
+A
+18 1
+A
+12 20
+#5129
+obj akordia key~
+100
+&KAkordia's key&n~
+&KA dark metal key lies here.&n~
+~
+18 0 0 1
+0 2 0 0
+1 5 5
+#5130
+obj slave pen key~
+100
+&wthe key to the slave pen&n~
+&wA small metal key has been discarded here.&n~
+~
+18 0 0 1
+0 2 0 0
+1 5 5
+#5131
+obj black spider silk gloves~
+5
+&KA pair of black sp&wid&Ker &ws&Kil&wk &Kgloves&n~
+A pair of black gloves made from spider silk lie here.~
+~
+11 201359988 32 129
+0 0 0 0
+2 500000 5
+A
+19 3
+A
+12 25
+A
+17 -5
+#5132
+obj tear eilistraee~
+3
+&cThe &Ct&Wea&Cr &cof &WEi&wl&Kistr&wa&Wee&n~
+Eilistraee's tears cover the ground.~
+~
+11 2106690 0 3
+0 0 0 0
+1 60000 5
+A
+18 2
+A
+19 2
+A
+12 15
+#5133
+obj grey priestess robe~
+10
+&wA grey priestesses robe&n~
+The grey robe of a priestess of Lolth lies here.~
+~
+11 592 16 9
+0 0 0 0
+6 10000 5
+A
+4 2
+A
+12 20
+#5134
+obj white priestess robes~
+10
+&WA white priestesses robe&n~
+The white robe of a priestess of Lolth lies here.~
+~
+11 2097744 0 9
+0 0 0 0
+6 10000 5
+A
+4 3
+A
+12 30
+#5135
+obj adamantium dagger~
+100
+&wan &Wad&wa&Kmant&wi&Wum &Kdagger&n~
+&wAn &Wad&wa&Kmant&wi&Wum &Kdagger &whas been left here.&n~
+~
+5 524288 0 8193
+0 6 3 11
+2 10000 5
+#5136
+obj adamantium shortsword~
+100
+&wan &Wad&wa&Kmant&wi&Wum &wshort&Ksword&n~
+&wAn &Wad&wa&Kmant&wi&Wum &wshort&Ksword &whas been left here.&n~
+~
+5 0 8 8193
+0 5 4 11
+4 15900 5
+#5137
+obj silver halberd~
+100
+&wa &Wsi&wlv&Wer &Khalberd&n~
+&wA &Wsi&wlv&Wer &Khalberd &whas been left here.&n~
+~
+5 1048576 0 8193
+0 4 7 3
+10 40000 5
+$~
+#999999

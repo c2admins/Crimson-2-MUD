@@ -1,0 +1,109 @@
+#14900
+mob wozac high priest war~
+Wozac the High Priest of War~
+Wozac the High Priest of War is meditating here.
+~
+You see an old but strong looking man. He is wearing a red robe and has a look
+of grim determination. You decide that you would not want to anger this man,
+or else you just might find out why he is the high priest of war.
+~
+262154 32769 136249361 128 1000 S
+41 2 -24 20d20+8500 20d9+0
+100000 455455
+8 8 0
+0 0 22 20 21 19 19 18
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14901
+mob common priest war~
+a common priest of war~
+A common priest of war is here, practising his art.
+~
+You see a young man who has dedicated his life to understanding the art of war
+He looks grim and determined, and there is a look of ambition and hunger in
+his eyes.
+~
+8 32769 136249361 128 0 S
+23 17 21 30d30+800 4d11+16
+15000 75000
+8 8 0
+0 0 17 17 15 15 12 15
+SKILL=SPELL_BLINDNESS 56
+SKILL=SPELL_BURNING_HANDS 56
+SKILL=SPELL_COLOUR_SPRAY 56
+SKILL=SPELL_CURSE 56
+SKILL=SPELL_ENERGY_DRAIN 56
+SKILL=SPELL_FIREBALL 56
+SKILL=SPELL_LIGHTNING_BOLT 56
+SKILL=SPELL_MAGIC_MISSILE 56
+SKILL=SPELL_SLEEP 56
+#14902
+mob garbok hunter~
+Garbok the Hunter~
+Garbok the Hunter is standing here, selling hunting equipment.
+~
+You see a seasoned hunter here selling his wares.
+~
+262154 1 136249361 8 0 S
+40 3 -22 100d60+10000 11d9+1
+800000 290000
+8 8 0
+0 0 21 22 19 20 19 19
+ATTACK_SKILL=80
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14903
+mob guardian dragon~
+A Guardian Dragon~
+The Guardian Dragon of the Tower is standing here.
+~
+You see a Huge Dragon with a long snout and fire coming out of its nostrils.
+~
+4456458 32769 136249361 136 0 S
+43 1 -28 30d30+12000 20d3+60
+1000000 750000
+8 8 0
+0 0 21 23 20 21 18 17
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+$~
+#999999

@@ -1,0 +1,518 @@
+#5950
+obj anubis bracelet~
+2
+&rb&wr&ra&wc&re&wl&re&wt &Go&gf &YA&yn&Kub&yi&Ys&n~
+a shiny gold bracelet beckons you closer.~
+~
+9 171987456 131200 4097
+0 0 0 0
+15 2000000 2000
+E
+anubis bracelet~
+bracelet
+anubis
+~
+A
+19 3
+#5951
+obj bloody scimitar~
+2
+&Rbl&ro&Rod&G-&Bdr&Ke&wn&Kch&Bed &Ws&wc&Ki&Wm&wi&Kt&Wa&wr&n~
+a bloodied weapon lies here.~
+~
+5 4211280 0 8193
+4196352 10 4 3
+17 3000000 20000
+#5952
+obj headdress pharoah~
+1
+&YH&we&Ya&wd&Yd&wr&Ye&ws&Ys &cof the &yPh&Raro&yah&n~
+a headdress with emmense power lies here.~
+~
+15 37749248 0 17
+350 0 0 0
+19 3000000 20000
+A
+17 -25
+A
+19 2
+A
+18 2
+#5953
+obj gold belt guard~
+3
+&Cg&Wl&Ce&Wa&Cm&Wi&Cn&Wg &Ygo&wld&Yen &bbelt&n~
+something very shiny lies here.~
+~
+9 4260371 0 2049
+13 0 0 0
+12 594953 15000
+A
+18 1
+A
+19 2
+A
+40 1
+#5954
+obj splintered femur set~
+1
+&Wspl&wintte&Wred &Kfemur &wclub&n~
+a shattered bone club lies here.~
+~
+5 4196355 0 24577
+2048 20 2 6
+16 1594953 15000
+A
+18 3
+A
+14 -30
+#5955
+obj staff sungod userkaf~
+1
+&Gs&Kt&Ga&Kf&Gf &Bof the &Ysu&Rng&Yod&n~
+an extremely powerful orb lies here~
+~
+9 4194884 4 16385
+0 0 0 0
+13 15151515 15000
+A
+18 7
+#5956
+obj sai anuksonamun~
+2
+&YA&yn&wu&Yk&ys&wo&Yn&ya&wm&Yu&yn&w's &WS&Ka&Wi&n~
+A torch is lying here.~
+~
+5 4196352 1024 8193
+33792 9 4 11
+18 15151515 15000
+#5957
+obj jet black barbed tail~
+3
+a &Rb&Ka&Rr&Kb&Re&Kd&n, &Kj&we&Kt &Wb&Kl&Wa&Kc&Wk &Gt&ga&Gi&gl&n~
+a barbed tail lies here.~
+~
+9 4196880 0 262145
+35 0 0 0
+18 15151515 15151
+A
+19 10
+#5958
+obj flaming scythe sungod evil~
+1
+&Yf&Rl&Ya&Rm&Yi&Rn&Yg&K scythe of the &Ysun&Rgod&n~
+There is something burning here.~
+~
+5 4196352 1024 8193
+67584 10 5 3
+18 20202020 15151
+A
+14 -50
+#5959
+obj set key~
+32767
+a large chain with a bloodied key~
+a mass of bloodied chain lies here~
+~
+18 537133064 1024 1
+0 1 0 0
+12 5 5
+#5960
+obj scorpion king key~
+32767
+a key in the shape of a scorpion~
+a scorpion lies here.~
+~
+18 537133064 1024 1
+0 1 0 0
+12 5 5
+#5961
+obj anubis key~
+32767
+a forged key made of obsidian~
+a large chunk of obsidian lies here~
+~
+18 537133064 1024 1
+0 1 0 0
+12 5 5
+#5962
+obj imhotep key~
+32767
+a key wrapped in decaying flesh~
+a mass of flesh lies here~
+~
+18 537133064 1024 1
+0 1 0 0
+12 5 5
+#5963
+obj shield scorpion~
+3
+a &Yg&yo&Wld&ye&Yn &rs&wc&Ko&rr&wp&Ki&ro&wn&K-&rs&wh&Ka&rp&we&Kd &Wshield&n~
+a golden scorpion lies here~
+~
+9 104878592 131200 513
+60 0 0 0
+18 20202020 15151
+A
+19 2
+A
+9 -10
+A
+13 10
+#5964
+obj halberd obsidian~
+2
+&wa carved halberd crafted of &Wp&Ko&Wl&Ki&Ws&Kh&We&Kd &Ko&gb&Ks&gi&Kd&gi&Ka&gn&n~
+a carved piece of obsidian lies here~
+~
+5 37769216 0 8193
+2129920 10 4 3
+17 20202020 50000
+A
+12 -30
+#5965
+obj onyx gem~
+8
+an &Konyx&n~
+a small &Konyx&n gem lies here collecting dust.~
+~
+12 0 0 1
+0 0 0 0
+10 500000000 5
+#5966
+obj gold orb~
+8
+a &Ygolden orb&n~
+a smalle &Ygolden orb&n lies here collecting dust.~
+~
+12 0 0 1
+0 0 0 0
+10 500000000 5
+#5967
+obj golden rod~
+60
+a &Ygleaming &ygolden &Wrod&n~
+a rod lies here gleaming in the sunlight~
+~
+12 0 0 147457
+75 1000 1000 117
+12 21000000 5
+#5968
+obj orb health~
+5
+&RO&Wr&Rb &Cof &YH&Re&Wal&Rt&Yh&n~
+a pusling orb lies here~
+~
+9 33554432 0 16385
+20 0 0 0
+14 202020 5000
+A
+19 3
+A
+12 -100
+A
+13 125
+#5969
+obj scroll demons~
+100
+&Rscroll &Bof &Rd&Ke&Rm&Ko&Rn&Ks&n~
+a scroll lies here burning.~
+~
+2 262148 1028 1
+48 100 0 0
+12 1200000 5
+A
+18 45
+A
+41 5
+A
+40 10
+#5970
+obj flaming scythe sungod good~
+1
+&Yf&Rl&Ya&Rm&Yi&Rn&Yg&K scythe of the &Ysun&Rgod&n~
+There is something burning here.~
+~
+5 4196352 1024 8193
+66560 10 5 3
+18 20202020 50000
+A
+14 -50
+#5971
+obj circlet golden~
+4
+&Yg&yo&Yl&yd&Ye&yn &Wcirclet &n~
+a shimering circle made of gold is lying here.~
+~
+9 71345185 262144 17
+20 0 0 0
+14 202020 500
+A
+19 1
+A
+18 2
+A
+40 1
+#5972
+obj facemask iron~
+5
+&Wa polished &Kiron&W facemask&n~
+a polished mask is lying here.~
+~
+9 104858112 0 17
+15 0 0 0
+16 202020 1000
+A
+19 2
+A
+18 2
+A
+13 15
+#5973
+obj key teardrop ra~
+100
+&Rs&yu&Rn&G-&Ys&rh&Ya&rp&Ye&rd &Ct&we&Ca&wr&Cd&wr&Co&wp&n~
+a small sun-shaped teardrop lies here.~
+~
+18 4457028 4 1
+0 1 0 0
+12 5 5
+A
+18 20
+A
+19 5
+A
+13 -30
+A
+12 -30
+#5974
+obj wraps mummy~
+15
+&Ww&Kr&Wa&Kp&Ws &Kof &Wthe &Km&Wu&Km&Wm&Ky&n~
+a mummy has fallen apart here.~
+~
+9 37748740 0 7679
+0 0 0 0
+10 202020 100
+A
+19 2
+A
+18 2
+A
+41 -1
+#5975
+obj grifter sword imm~
+100
+&Ka &Rb&rl&Roo&rd &Kstained &Ga&Kc&Gi&Kd edged sword&n~
+the weapon used in the destruction of the gods lies here.~
+~
+5 20480 64 24577
+64632 50 50 11
+16 2000000000 5
+A
+19 3
+A
+18 3
+#5976
+obj grifter trench imm~
+100
+&KA trenchcoat caked in &RB&rl&Roo&rD&n~
+Grifter's trenchcoat lies here.~
+~
+9 4 64 1033
+20 0 0 0
+6 2000000000 200
+A
+19 80
+A
+18 80
+A
+25 100
+A
+13 100
+#5977
+obj grifter glyph imm~
+100
+&Ka &yglyph &Kof &rB&Rl&roo&Rd&n~
+a pile of blood lies here.~
+~
+9 0 64 5
+0 0 0 0
+10 2000000000 5
+A
+37 -1
+A
+40 100
+A
+13 100
+A
+13 100
+#5978
+obj grifter sunglass imm~
+100
+&Ka pair of sunglasses with &Rb&rl&Roo&Rd &Ksplattered on them&n~
+a pair of bloody sunglasses lie here~
+~
+9 0 64 17
+800 0 0 0
+15 2000000000 5
+#5979
+obj grifter eclipse imm~
+100
+&Ka total &Yl&Ku&Yn&Ka&Yr &beclipse&n~
+something dark lies here~
+~
+1 0 64 65537
+0 0 0 0
+10 2000000000 5
+A
+32 -1
+A
+27 -1
+A
+37 -1
+A
+36 -1
+#5980
+obj grifter duffle imm~
+100
+&Ka large &rb&Rl&roo&Rd &Kcoverd duffle bag&n~
+a bloody duffle bag lies here~
+~
+15 68 68 16385
+600 0 0 0
+13 15151515 15000
+A
+19 7
+A
+18 6
+#5981
+obj quest1 belt haste~
+32767
+&Ythe &Gbelt &Yof &Bh&Wa&Bs&Wt&Be&n~
+A belt is here, flickering in and out of existence.~
+~
+9 134479872 0 2049
+20 0 0 0
+20 5 5
+A
+25 2
+#5982
+obj spear mighty immortal~
+1
+&Bthe mighty &Wspear&B of &Gimmortality&n~
+a spear lies here, it looks like it has seen the begining, and will see the end of time.~
+~
+5 4227584 0 8193
+5120 2 18 11
+10 20000000 15000
+A
+13 25
+A
+32 -1
+#5983
+obj grifter kevlar imm~
+100
+&Ka &Rb&rl&Roo&rd &Ksplattered kevlar vest&n~
+a bloody kevlar vest lies here.~
+~
+1 0 64 9
+0 0 0 0
+1 2000000000 5
+#5984
+obj grifter bottom pit~
+100
+&Kthe bottom of the &Rb&r&Roo&rdy &Kpit&n~
+&Kthe bottom of the &Rb&rl&Roo&rdy &Kpit&n~
+~
+15 8 0 0
+1000 0 1 0
+150 5 5
+#5985
+obj grifter glyph2 imm~
+32767
+&Ka &yglyph &Kof &RB&rl&Roo&rd&n~
+a bloody glyph lies here.~
+~
+9 0 64 5
+0 0 0 0
+1 2000000000 5
+A
+13 100
+A
+13 100
+A
+13 100
+A
+13 100
+#5986
+obj grifter test armor~
+32767
+Grifter's Test Armor~
+A torch is lying here.~
+~
+9 0 64 9
+200 0 0 0
+1 5 5
+A
+41 50
+A
+18 60
+A
+19 70
+A
+25 25
+#5987
+obj cloak banished~
+3
+&ythe &wcloak &yof the &rba&Kn&Wi&Ksh&red&n~
+the banished one has left his cloak here.~
+~
+11 71337988 263168 5
+0 0 0 0
+10 2000000000 15000
+A
+36 -1
+A
+32 -1
+A
+41 2
+A
+18 1
+#5988
+obj quest1 dagger ultimate destruction~
+5
+&Rd&Ka&rgg&Ke&Rr &nof &Yul&Wti&ym&Wat&Ye &Kde&bst&Bru&Wc&Bti&Kon&n~
+the weapon that could destroy the world lies here.~
+~
+5 675545088 1540 8193
+5281832 7 6 11
+15 2000000 5
+A
+19 2
+A
+41 1
+A
+13 -50
+#5989
+obj glamorous chest~
+100
+a glamourous &Yg&Wo&yl&Yd&We&yn &nchest~
+a small golden chest lies here on a table.~
+~
+15 0 0 0
+400 15 5990 0
+30 5 5
+#5990
+obj golden key~
+100
+a &ygolden &nkey~
+the key to the glamorous golden chest lies here, in the dust.~
+~
+18 8 0 1
+5989 1 0 0
+1 5 5
+A
+18 10
+$~
+#999999

@@ -1,0 +1,784 @@
+#5100
+mob goblin slave~
+The goblin slave~
+A goblin slave lies here asleep.
+~
+The defenseless goblin begs for mercy.
+~
+138 1 136249361 0 -450 S
+5 35 39 6d6+1 1d1+2
+0 150
+4 4 1
+21 0 12 11 9 11 7 6
+#5101
+mob drow commoner~
+&Ka drow commoner&n~
+A &Kdrow&g commoner walks around.&n
+~
+  The life of a drow commoner is not unlike that of a slave. They are given more freedoms and allowed a few 
+posessions, but otherwise they are treated nearly the same.
+~
+57416 1 136249361 16777224 -1000 S
+19 21 25 10d5+300 2d10+7
+4750 5700
+8 8 1
+16 4 14 15 12 12 10 9
+#5102
+mob high elven slave~
+&wa &Gh&gig&Gh &Ge&glve&Gn &wslave&n~
+&wA &Gh&gig&Gh &Ge&glve&Gn &wslave rests here...for the moment.&n
+~
+  This high elf looks like he's been down here for quite awhile. His spirit is all but broken, and his hopes 
+of being rescued have been all but dashed.
+~
+10 1 136249361 16777224 700 S
+12 27 32 9d9+70 2d3+5
+0 3675
+8 8 1
+14 4 14 16 12 12 12 12
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#5103
+mob human slave~
+a human slave~
+A human slave is here, harvesting &ymushrooms&n.
+~
+  Having given up all hope of rescue, the slave toils day after day in the mushroom fields. 
+~
+10 1 136249361 16777224 0 S
+15 25 29 20d13+70 5d3+9
+0 5000
+8 8 1
+1 1 15 13 12 14 11 9
+#5104
+mob ogre slave~
+an &yogre&g slave&n~
+An &yogre&g slave is here, harvesting &ymushrooms&n.
+~
+  Having given up all hope of being rescued, the ogre spends its days toiling the fields of mushrooms.
+~
+10 1 136249361 16777224 -1000 S
+17 23 27 40d9+65 8d3+7
+0 5300
+8 8 1
+20 4 15 16 14 15 12 13
+#5105
+mob lesser priestess of lolth~
+&Ka lesser priestess of Lolth&n~
+&KA lesser priestess of Lolth is here, going about her daily duties.&n
+~
+  New priestesses to the order of Lolth are charged with performing menial tasks in order to help
+bend their will and open their minds to Lolth. They still hold greater power than any male, and 
+often vent their frustrations on the lesser sex.
+~
+57354 1 136249361 16777352 -1000 S
+25 15 18 10d10+1000 2d10+40
+17500 75000
+8 8 2
+16 6 17 17 15 14 12 14
+#5106
+mob greater priestess of lolth~
+&Ka greater priestess of Lolth&n~
+&KA greater priestess of Lolth is here, going about her duties.&n
+~
+  Some of the highest respected members of drow society, the greater priestesses don't answer to
+the power-hungry houses like the other drow, but rather to the spider queen herself. They are not
+only above the law, in most cases they ARE the law.
+~
+57354 1 136249361 16777352 -1000 S
+28 15 11 10d40+1000 5d5+20
+25000 86000
+8 8 2
+16 6 16 18 16 15 15 12
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#5107
+mob gruesome drider~
+&Ka gruesome &wd&Kride&wr&n~
+&KA gruesome &wd&Kride&wr&K is here, protecting the priestesses.&n
+~
+  Male priests who fall out of favor with Lolth are transformed by the goddess into driders. They are horribly
+ugly creatures, having the upper body of a male drow down to the waist where a spider body is then attached, 
+complete with eight hairy legs and abdomen. Their sole purpose in what's left of their life is to serve and
+protect the priestesses of Lolth from harm.
+~
+57352 1 136249361 16777224 -1000 S
+24 16 20 100d19+1000 5d7+20
+15600 72350
+8 8 1
+16 4 17 16 17 16 15 12
+#5108
+mob drow weapons merchant~
+&Ka wandering drow merchant&n~
+&KA drow weapons merchant wanders around, looking for a customer.&n
+~
+   Drow merchants wander the cities of the drow, selling what goods they have gleaned off the surface world, as
+well as trinkets stolen from fallen Houses. They really don't even care who they sell to....as long as they make
+a good profit.
+~
+536870920 1 136249361 16777352 -1000 S
+25 15 18 11d19+1000 20d3+5
+18400 78235
+8 8 2
+16 0 18 17 17 16 16 12
+#5109
+mob drow overseer~
+&Ka drow overseer&n~
+&KA drow Overseer is here, checking on the slaves.&n
+~
+  Though not of high enough rank or nobility to be a house member, the drow overseers have risen to enough 
+power within the drow society to take their aggressions out on the 'lesser' races....which is something they
+enjoy thoroughly.
+~
+319498 1 136249361 16777224 -1000 S
+22 18 22 9d9+1800 9d5+9
+10400 65875
+8 8 2
+16 4 17 16 15 14 12 12
+#5110
+mob house guard 4th~
+&Kthe house g&wuar&Kd&n~
+&KAn alert house g&wuar&Kd stands at attention.&n
+~
+   The elite of the warrior caste, the house guard are the charged protectors of the house leaders. They not
+only serve as protectors and escorts, but can oftentimes be the vanguard of house wars as well.
+~
+294986 1 136249361 637534208 -900 S
+28 15 11 10d10+2350 2d10+35
+27500 85000
+8 8 1
+16 4 17 15 14 14 14 12
+#5111
+mob house guard 3rd ~
+&Kthe house g&wuar&Kd&n~
+&KAn alert house g&wuar&Kd stands at attention.&n
+~
+   The elite of the warrior caste, the house guard are the charged protectors of the house leaders. They not
+only serve as protectors and escorts, but can oftentimes be the vanguard of house wars as well.
+~
+294986 1 136249361 637534208 -900 S
+29 15 10 10d10+2350 3d10+27
+28525 87000
+8 8 1
+16 4 17 15 14 14 14 12
+#5112
+mob house guard 2nd~
+&Kthe house g&wuar&Kd&n~
+&KAn alert house g&wuar&Kd stands at attention.&n
+~
+   The elite of the warrior caste, the house guard are the charged protectors of the house leaders. They not
+only serve as protectors and escorts, but can oftentimes be the vanguard of house wars as well.
+~
+294986 1 136249361 637534208 -900 S
+30 14 5 10d4+3500 3d10+30
+30000 180000
+8 8 1
+16 4 17 15 14 14 14 12
+#5113
+mob house guard 1st~
+&Kthe house g&wuar&Kd&n~
+&KAn alert house g&wuar&Kd stands at attention.&n
+~
+   The elite of the warrior caste, the house guard are the charged protectors of the house leaders. They not
+only serve as protectors and escorts, but can oftentimes be the vanguard of house wars as well.
+~
+294986 1 136249361 637534208 -900 S
+31 12 2 10d4+3500 3d10+34
+40000 185000
+8 8 1
+16 4 17 15 14 14 14 12
+#5114
+mob akordia baenre fourth house mage~
+&KAkordia Baenre&w, mage of &cHouse Baenre&n~
+A strikingly beautiful drow is here, quietly reading her spellbook.
+~
+  Unlike many female drow, Akordia was drawn to the powers of magic rather than duty to Lolth.
+because of this, she is an outcast among drow, and her being in the weakest of the houses hasn't
+helped her plight either. Still, she has maintained to scavenge a number items over the years 
+to help her boost her magical prowess enough to rival the mages of the other houses.
+~
+262218 4227073 136249393 637534208 0 S
+31 12 2 10d50+3000 2d8+50
+40000 187000
+8 8 2
+16 1 17 16 15 15 12 12
+SKILL=SPELL_FIREBALL 50
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_CREMATION 50
+#5115
+mob nym luen fouth house assassin~
+&KNym Luen&w, assassin of &cHouse Baenre&n~
+A shady looking drow is here, hiding in the darkness.
+~
+  Orphaned by a House War as a child, Nym was incorporated into the conquering Baenre household
+as is typical of drow culture. Though he still holds the Luen name, he remembers nothing of his
+old family, and will fiercely protect the true Baenre's, even if it means sacrificing his life.
+~
+266252 4194305 136249393 100663296 -1000 S
+28 13 11 30d15+2000 2d8+70
+25000 84000
+8 8 1
+16 3 16 16 16 16 15 12
+#5116
+mob wode baenre fourth house weaponsmaster~
+&KWode Baenre&w, weaponsmaster of &cHouse Baenre&n~
+A tall, lanky drow stands here, sharpening his sword.
+~
+  Probably the most skilled of all the drow weaponsmasters, Wode relies on his quickness in battle rather than
+his strength. The fact that he is a male has prevented him from reaching higher status within the community, but
+it has not been uncommon for the young Baenre to make assassination attempts on rival masters to increase his
+positioning.
+~
+311626 4227073 136249393 33570816 -1000 S
+34 9 -7 20d10+4000 2d5+60
+70000 205000
+8 8 1
+16 4 17 18 14 16 13 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#5117
+mob halisstra baenre fourth house matron~
+&KHalisstra Baenre&w, matron of &cHouse Baenre&n~
+A tired looking drow woman stands here, checking a series of maps.
+~
+  Since the Baenre house is the weakest of the living houses within the city, Halisstra must be on constant 
+guard to thwart attacks from the stronger houses. She and her family have held their own for decades, but the 
+times have worn down the aging matron, and she is now a shadow of her former beauty.
+~
+262474 4227073 136249393 905969792 -300 S
+33 10 -4 10d10+1900 2d10+110
+60000 200000
+8 8 2
+16 2 16 16 16 15 15 14
+#5118
+mob tathlyn lestel third house mage~
+&KTathlyn Lestel&w, mage of &rHo&Ru&Wse Les&Rt&rel&n~
+A frail, sickly looking drow stands here.
+~
+  Since he was a child, Tathlyn was always rather sickly. His failing health led him to studying the arts of
+magic in order to defend himself, and now he is the strongest mage within the city of Tel'Dnor. Unlike his 
+brothers and sisters, he believes in keeping the blood of his family pure, and it may not be long before he 
+strikes out against his adopted 'siblings'.
+~
+262218 4227073 136249393 1174405128 -1000 S
+31 12 2 10d10+3450 2d10+60
+40000 186000
+8 8 1
+16 1 16 17 14 14 13 11
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_MAGIC_RESIST 30
+SKILL=SPELL_BLACK_BURST 50
+SKILL=SPELL_CREMATION 60
+#5119
+mob guldor lestel third house assassin~
+&KGuldor Lestel&w, assassin of &rHo&Ru&Wse Les&Rt&rel&n~
+&KA very tall, strong looking drow stands here, balancing a dagger on his finger.&n
+~
+  Guldor is a perfectionist in to the extreme. Despite him being a male, he has earned quite a reputation 
+around the city as an excellent assassin due to his superb work habits. When he's not practicing new 
+techniques, he can oftentimes be found wandering the caverns looking for a new place to stash his booty.
+~
+327756 5275649 136249393 33816584 0 S
+31 11 2 20d5+3450 2d5+30
+40000 187000
+8 8 1
+16 3 16 17 14 14 13 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#5120
+mob laele hune third house priestess~
+&KLaele Hune&w, priestess of &rHo&Ru&Wse Les&Rt&rel&n~
+&KA lithe, beautiful drow stands here is a flowing robe.&n
+~
+  The eldest of Chessintra's 'adopted' children, Laele is the eyes and ears for the family within the ranks
+of the priestesses of Lolth. Her own family was slaughtered by house Maerrai when she was still a child, and 
+the compassionate matron of house Lestel took the young girl under her own care, teaching her the ways of
+Eilistraee. Since that time, Laele has served her family and Eilistraee in an unwavering fashion not normally
+seen in drow. She is loyal, and trustworthy and can be trusted with any task assigned to her.
+  Laele always carries an amulet of Eilistraee with her no matter where she goes. She realizes the risk, but
+believes that removing the amulet would be akin to forsaking her goddess. No other drow other than Chessintra 
+know of its existance, so for now she is safe.
+~
+262218 4227073 136249393 100663488 500 S
+34 9 -7 20d10+2000 2d10+90
+70000 206000
+8 8 2
+16 2 17 16 15 16 12 12
+SKILL=SPELL_BLESS 90
+SKILL=SPELL_SUMMON 70
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_HEAL_MEDIUM 70
+SKILL=SPELL_SILENCE 50
+SKILL=SPELL_SMITE 70
+SKILL=SPELL_DIVINE_RETRIBUTION 70
+#5121
+mob imrae coloara third house weaponsmaster~
+&KImrae Coloara&w, weaponsmaster of &rHo&Ru&Wse Les&Rt&rel&n~
+&KA fierce looking drow woman is here, practicing her sword techniques.&n
+~
+  The newest of Chessintra's adopted children, Imrae was a commoner raised without a mother. Her father, raised
+in a matriarchal society, could teach her nothing more but what he knew...how to fight with a sword. When her 
+father was killed on a surface raid, the young drow caught the eye of lady Chessintra while fighting a local
+guard over some stolen mushrooms. Not only did Imrae hold her own with a sword, she mortally wounded the guard
+before the matron stepped in to stop the fight and pay for the stolen goods. Within the Lestel household, Imrae
+was taught the ways of Eilistraee. She learned it is not 'strange' for her to to be a warrior, for the goddess
+herself slew her enemies with a sword. She has taken her teachings to heart, and thoguh she is a woman, is the
+most skilled weaponsmaster in the city.
+  Though she is often seen with a scowl on her face, and is considered by her peers as a fierce woman, Imrae
+is actually very compassionate and warm, though she will only show this side of herself to her family.
+~
+270408 5275649 136249393 101187596 250 S
+32 11 -1 20d15+3400 4d5+40
+50000 193000
+8 8 2
+16 4 16 18 15 14 14 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#5122
+mob chessintra lestel third house matron~
+&KChessintra Lestel&w, matron mother of &rHo&Ru&Wse Les&Rt&rel&n~
+&KA strikingly beautiful and regal drow woman stands here.&n
+~
+   Though her 'family' is much stronger than many of the other rival houses, Chessintra has not openly 
+challenged another house in several decades. She is a secret high priestess of Eilistraee, and open public 
+wars would surely expose her for the fraud she is and destroy everything she has worked for. Not only has she 
+protected and adopted the children of fallen houses, teaching them the ways of Lady Silverhair, but she has 
+worked with an unknown partner to transport slaves and followers of Eilistraee to the surface for relocation.
+  Being the youngest of the house matrons. Chessintra has yet to have children of her own and has not yet even
+chosen a mate. She is very careful of who she trusts, for accepting the wrong person into her family could well
+destroy her and her family.
+~
+270666 4227073 136249393 369107108 800 S
+38 5 -18 10d5+4300 10d5+90
+300000 230000
+8 8 2
+16 6 16 15 14 14 12 13
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 70
+SKILL=SPELL_HEAL_MEDIUM 60
+SKILL=SPELL_CONFLAGRATION 80
+SKILL=SPELL_EARTHQUAKE 80
+#5123
+mob durdyn freth second house mage~
+&KDurdyn Freth, &wmage of &WHo&Cus&ce F&Cre&Wth&n~
+&KA tall, thin drow stands here, looking at a spellbook.&n
+~
+  From a young age, Durdyn was always fascinated with magic. He had few career options, being a male, and his
+lack of strength meant he would be hard pressed in learning the arts of war. Still, he has worked up quite a 
+reputation in the local academy, and is often called upon to make speeches for neophyte magicians. 
+~
+1074053130 1081345 136249361 100663306 -1000 S
+30 13 5 20d10+3000 2d10+40
+30000 180000
+8 8 1
+16 1 17 15 15 16 14 13
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_FIREBALL 60
+SKILL=SPELL_SLEEP 60
+SKILL=SPELL_BLACK_BURST 50
+#5124
+mob drisinil freth second house assassin~
+&KDrisinil Freth&w, assassin of &WHo&Cus&ce F&Cre&Wth&n~
+&KA lanky drow balances a dagger on his finger here.&n
+~
+  Drisinil is not one to be trusted. He once slit the throat of a lower priestess just because she looked at 
+him and smiled. He cares nothing for the life of others, not even his own family, with makes him both dangerous
+and an asset to his House.
+~
+1141170252 1343489 136249393 100663392 -1000 S
+33 10 -4 90d10+3050 3d5+40
+60000 200000
+8 8 1
+16 3 16 17 16 15 13 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#5125
+mob lyme ghaun second house weaponsmaster~
+&KLyme Ghaun&w, weaponsmaster of &WHo&Cus&ce F&Cre&Wth&n~
+&KA large, and very strong looking drow stands here.&n
+~
+  The only member of House Freth that has been adopted, Lyme constantly works on his physical prowess to remain
+as intimidating as possible. He is powerfully built for a drow, and easily dwarfs any other member of the city,
+which is one of the reasons he still lives....
+~
+1074053194 4227073 136249393 100663296 -1000 S
+31 12 2 15d20+4000 9d2+70
+40000 204000
+8 8 1
+16 4 17 18 16 14 13 14
+#5126
+mob xune freth second house priestess~
+&KXune Freth&w, priestess of &WHo&Cus&ce F&Cre&Wth&n~
+&KA tall, lanky drow woman in the garb of a priestess is here.&n
+~
+  Never a very attractive woman, Xune has had to fight her way tooth and nail up the ranks of the drow priest-
+esses. Though she is lower ranked than some of the other house priestesses, the young Freth still performs her
+duties diligently in the hopes that she will some day be recognized by the high priestess, or even the goddess
+herself.
+~
+1074053192 5275649 136249393 100663432 -1000 S
+31 12 2 15d10+2000 9d5+40
+40000 204000
+8 8 2
+16 2 17 16 15 16 14 13
+SKILL=SPELL_SUMMON 60
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_SILENCE 30
+SKILL=SPELL_EARTHQUAKE 90
+#5127
+mob waerva freth second house matron~
+&KWaerva Freth&w, matron mother of &WHo&Cus&ce F&Cre&Wth&n~
+&KA tall, beautiful drow woman wearing the robes of a matron mother is here.&n
+~
+  Waerva and her house have survived through the years mainly because her bloodline is still strong. They hire
+mercenaries to do most of their menial tasks, thus those of the 'true blood' are not risked in raids or other 
+'accidents' that may occur. 
+~
+1074037066 5537793 136249393 637796492 -1000 S
+35 8 -10 50d10+2000 2d10+30
+80000 215000
+8 8 2
+16 6 17 16 15 16 15 15
+SKILL=SPELL_ARMOR 90
+SKILL=SPELL_CHILL_TOUCH 60
+SKILL=SPELL_ENERGY_DRAIN 60
+SKILL=SPELL_FIREBALL 60
+SKILL=SPELL_HEAL_MINOR 80
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#5128
+mob talryn maerrai first house mage~
+&KTalryn Maerrai&w, mage of &yHo&Yus&Ke Mae&Yrr&yai&n~
+&KA very young, but very intelligent looking drow stands here.&n
+~
+  Talryn is the youngest of his family, being only 147 years old. Though he is just barely considered an adult
+by drow standards, he still has his imp-like boyish charm, which carries over into his studies. He is prone to
+practical jokes at times, which drives his mother to fits, but that is part of the deception that is Talryn
+Maerrai, for he is extremely intelligent, and more accomplished than he lets even his mother know.
+~
+1074037322 6389761 136249393 572539498 -1000 S
+33 10 -4 10d10+3900 10d3+60
+60000 201000
+8 8 1
+16 1 16 15 15 16 13 14
+SKILL=SPELL_CHARM_PERSON 50
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_SLEEP 60
+SKILL=SPELL_STRENGTH 80
+SKILL=SPELL_CREMATION 50
+SKILL=SPELL_FIRESTORM 30
+#5129
+mob deroune maerrai first house assassin~
+&KDeroune Maerrai&w, assassin of &yHo&Yus&Ke Mae&Yrr&yai&n~
+&KA short, but strikingly handsome drow man greets you with a smile.&n
+~
+  Deroune has one purpose, and that is to kill those his mother wishes dead. He always uses his fake kindness
+as a facade to lure his victims to his lair, where they will then find a dagger placed firmly in their back.
+~
+1074102858 5537793 136249393 102236192 -1000 S
+32 11 -1 5d2+3700 2d5+60
+50000 192000
+8 8 1
+16 3 17 18 14 14 12 11
+#5130
+mob talice maerrai first house priestess~
+&KTalice Maerrai&w, priestess of &yHo&Yus&Ke Mae&Yrr&yai&n~
+&KA rather young drow woman is here, dressed in the garb of a priestess of Lolth.&n
+~
+  Being the youngest of Rauva's daughters, Talice has always been rather ignored. Even her antry into the 
+priestesses of Lolth has gained her little esteem in her mothers eyes, probably due to the fact that her elder
+sister, Ginafae, is the high priestess. Because of this, Talice has become good friends with Laele Hune, and 
+even sympathetic with her cause. Together, the two have become a powerful force within the ranks of the 
+priestesses, and Talice is not afraid to use the Maerrai name to draw heat away from her friend.
+~
+1074004040 4227073 136249393 637534340 0 S
+34 9 -7 20d10+2000 2d10+90
+70000 206000
+8 8 2
+16 2 16 16 16 16 12 14
+SKILL=SPELL_HEAL_MINOR 80
+SKILL=SPELL_HEAL_MEDIUM 80
+SKILL=SPELL_MAGIC_RESIST 50
+SKILL=SPELL_SILENCE 70
+SKILL=SPELL_EARTHQUAKE 60
+#5131
+mob gelroos maerrai first house weaponsmaster~
+&KGelroos Maerrai&w, weaponsmaster of &yHo&Yus&Ke Mae&Yrr&yai&n~
+&KA rather strong, stout looking drow stands here, sharpening a sword.&n
+~
+  Gelroos is the eldest of all Rauva's children. Because he is a male, he was never given many options in life, 
+and thus he has built his body and worked through the ranks of the warriors. He now leads raids upon the surface
+world, and his body bears the scars of his hard life. He accepts his role, knowing that he helps bring glory to
+his family, and as long as his mother is happy with that, so is he.
+~
+1074037322 4227073 136249393 369098816 -1000 S
+35 8 -10 50d10+4000 5d2+20
+90000 210000
+8 8 1
+16 4 17 18 16 14 15 11
+ATTACK_SKILL=90
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#5132
+mob ginafae maerrai high priestess of lolth~
+&KGinafae Maerrai&w, high priestess of &yHo&Yus&Ke Mae&Yrr&yai&n~
+&KA tall, very regal looking drow woman stands here, dressed in the garb of a high priestess of Lolth.&n
+~
+  Ginafae is the epitome of what a drow woman should be. Tall, beautiful, strong, and of course, ruthless. She
+has worked her way through the ranks of the priestesses with an aggression that would make any drow proud, and
+was hand chosen by the goddess herself to be the high priestess. Nobody has yet dared challenge Ginafae's
+position, but as the ranks of the priestesses grow, there becomes more and more dissension among the ranks.
+~
+1074037002 5275649 136249393 100679844 -1000 S
+38 5 -18 35d10+4000 2d8+80
+300000 230000
+8 8 2
+16 6 16 16 16 15 15 15
+SKILL=SPELL_SLEEP 60
+SKILL=SPELL_SUMMON 90
+SKILL=SPELL_HEAL_MEDIUM 90
+SKILL=SPELL_HEAL_MAJOR 90
+SKILL=SPELL_MAGIC_IMMUNE 50
+SKILL=SPELL_MORTICE_FLAME 70
+SKILL=SPELL_EARTHQUAKE 90
+#5133
+mob rauva maerrai first house matron~
+&KRauva Maerrai&w, matron mother of &yHo&Yus&Ke Mae&Yrr&yai&n~
+&KA tall, aged drow woman stands here, ordering servants about.&n
+~
+  Rauva is the oldest living drow within the city. She has learned many tricks over the years, tricks that has
+helped her family survive countless house battles and made them the first ranked house in the city. Though she
+is nearly a thousand years old, she still has much of the beauty she had in her youth, though her eyes show a 
+dullness the exposes her true age. She is still quick minded, however, and still holds an iron grip on the 
+Maerrai household. Anyone who has dared challenge her has ended up in the sacrificial pits, torn apart by the
+minions of Lolth.
+~
+1074037066 4227073 136249393 100663500 -1000 S
+40 3 -22 35d10+6000 2d4+100
+700000 250000
+8 8 2
+16 6 16 18 14 15 12 15
+SKILL=SPELL_SLEEP 80
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 90
+SKILL=SPELL_SILENCE 98
+SKILL=SPELL_BLACK_BURST 90
+SKILL=SPELL_CREMATION 90
+#5134
+mob spitting crawler~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 14 14 12 11
+#5135
+mob hunting spider~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 16 15 16 13 13
+#5136
+mob guard spider~
+&wa guard &Ks&wpide&Kr&n~
+&wA huge &Ks&wpide&Kr &wguards the doors.&n
+~
+  Spanning nearly six feet in length, the guard spiders have been bred for protection. They are usually only
+found within the temples of Lolth, but it's not unknown for high ranking priestesses to be granted the spiders
+protection as well.
+~
+1090576970 32769 136249393 2097192 -1000 S
+21 19 23 30d20+1000 15d2+3
+0 66000
+8 8 0
+0 0 16 17 14 16 15 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#5137
+mob myrlochar spider lolth~
+&Ka my&wr&cloc&wh&Kar spider&n~
+&KA my&wr&cloc&wh&Kar spider is here, waiting for its next meal.&n
+~
+  Mylochar spiders are the personal servants of Lolth. They do not exist in the wild, but come instead from the
+world of the spider goddess and are given to her priestesses to help exorcise her will.
+~
+1376334 4227073 136249361 67108968 -1000 S
+20 20 24 10d50+1050 2d4+15
+0 65000
+8 8 0
+0 0 16 18 14 15 13 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#5138
+mob drow servant~
+&wa &Kdrow &wservant&n~
+&wA &Kdrow &wservant works here, trying to remain inconspicuous.&n
+~
+  All servants within the drow community are male. The male of the species is looked at as inferior by the 
+priestesses of the spider goddess, and thus given menial tasks for the weak or training as warriors and assass-
+ins if they are fit enough to fight. A few may possess enough extraordinary talent to become mages, or even 
+priests, but ranks given to males is very uncommon.
+~
+262796 1343489 136249393 100663328 0 S
+20 20 24 10d7+1500 2d10+40
+2500 66000
+8 8 1
+16 4 17 18 14 14 14 15
+#5139
+mob drow overseer~
+&Ka drow overseer&n~
+&KA drow Overseer is here, checking on the slaves.&n
+~
+  Though not of high enough rank or nobility to be a house member, the drow overseers have risen to enough 
+power within the drow society to take their aggressions out on the 'lesser' races....which is something they
+enjoy thoroughly.
+~
+319496 1 136249361 16777224 -1000 S
+22 18 22 9d1+1800 9d5+9
+10400 65875
+8 8 1
+16 4 17 16 15 14 12 12
+#5140
+mob drow armor merchant~
+&Ka wandering drow merchant&n~
+&KA drow armor merchant wanders around, looking for a customer.&n
+~
+   Drow merchants wander the cities of the drow, selling what goods they have gleaned off the surface world, as
+well as trinkets stolen from fallen Houses. They really don't even care who they sell to....as long as they make
+a good profit.
+~
+536870920 1 136249361 16777352 -1000 S
+25 15 18 11d1+1000 20d3+5
+18400 78235
+8 8 1
+16 0 18 17 17 16 16 12
+#5141
+mob drow food merchant~
+&Ka wandering drow merchant&n~
+&KA drow food merchant wanders around, looking for a customer.&n
+~
+   Drow merchants wander the cities of the drow, selling what goods they have gleaned off the surface world, as
+well as trinkets stolen from fallen Houses. They really don't even care who they sell to....as long as they make
+a good profit.
+~
+536870920 1 136249361 16777352 -1000 S
+25 15 18 11d1+1000 20d3+5
+18400 78235
+8 8 1
+16 0 18 17 17 16 16 12
+#5142
+mob mage guildmaster~
+&KA mage guildmaster&n~
+&KThe master of the mages guild is here, practicing her magic.&n
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she posesses. She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+262154 1 136249361 128 1000 S
+50 0 -20 20000d1+20000 100d90+90
+80000 10000
+8 8 2
+0 0 3 24 21 21 21 18
+#5143
+mob cleric priest guildmaster~
+&Kthe mistress of clerics&n~
+&KThe mistress of clerics is here, working a few miracles.&n
+~
+You have no doubt that this guildmaster is truly close to her god. She has
+a dark, evil look, just what would be expected of a priestess of Lolth.
+~
+262154 1 136249361 0 1000 S
+48 0 -20 20000d1+20000 100d90+90
+80000 10000
+8 8 2
+0 0 3 23 22 23 21 18
+#5144
+mob assassin guildmaster thief~
+&Kthe assassin guildmaster&n~
+&KThe master of the assassins guild is here, moving in and out of the shadows.&n
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief. He is to be dressed in nondescript clothing, having
+the appearance of any normal person.
+~
+262154 1 136249361 128 1000 S
+48 0 10 20000d1+20000 100d90+90
+80000 10000
+8 8 1
+0 0 3 22 21 21 19 21
+#5145
+mob warrior guildmaster~
+&Kthe warrior guildmaster&n~
+&KThe master of the warriors guild is here, playing with a sword.&n
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+262154 1 136249361 128 1000 S
+48 0 -20 6000d1+20200 100d90+90
+20000 10000
+8 8 1
+0 0 3 22 21 22 22 20
+$~
+#999999

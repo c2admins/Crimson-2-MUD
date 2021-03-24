@@ -1,0 +1,529 @@
+#1000
+obj brick~
+1
+the brick in the wall~
+The beams of light seem to focus on one particular brick.~
+~
+15 134479880 0 0
+100 5 10 0
+1 5 5
+#1001
+obj key marble~
+2
+a &Bma&crb&Ble&n key~
+A small marble key has been placed here.~
+~
+18 134479880 0 1
+2 0 10 0
+1 1000 5
+#1002
+obj covers sheets~
+100
+the sheets~
+The covers on the bead look as if they are hiding something.~
+~
+15 134479872 0 0
+100 5 10 0
+1 5 5
+#1003
+obj dresser dressing table~
+100
+the dressing table~
+A dressing table stands against the far wall.~
+~
+15 134479872 0 0
+400 5 10 0
+1 5 5
+#1004
+obj jewels jewelery~
+100
+a heap of jewelery~
+A large pile of jewelery lies here.~
+~
+20 0 0 1
+10000 0 0 0
+1 5 5
+#1005
+obj cloak white snow~
+15
+&wthe cloak of &Wsnow&n~
+A pure white cloak lies gently in a heap.~
+~
+9 18941184 0 5
+15 0 0 0
+4 29000 5
+A
+18 2
+A
+36 -1
+A
+12 5
+A
+19 1
+#1006
+obj amulet seasons~
+30
+&Ythe amulet of the &ySeasons&n~
+An amulet divided into four pictures lies on the ground.~
+~
+9 1048576 0 5
+10 0 10 0
+4 8500 15000
+A
+12 10
+A
+19 1
+A
+37 -1
+#1007
+obj shrine fountain~
+1
+the shire~
+&CA shrine stands in the middle of the clearing.&n~
+~
+17 8 0 0
+10000 10000 14 0
+1 5 5
+#1008
+obj map shikonas islands~
+100
+a map of the Shikonas Islands~
+A map lies curled on the gorund.~
+~
+12 262144 0 1
+0 0 10 0
+3 500 5
+E
+map shikonas island~
+E
+a
+s         Sholana
+t         Island          Vensita 
+                           Island
+C                                               
+o
+a              Lorantis
+s               Island            Shikarnith
+t                                   Island
+~
+#1009
+obj robe green druids~
+30
+&ya &Ggreen &ydruid's robe&n~
+A green robe lies in a pile on the ground.~
+~
+9 589824 0 1025
+10 0 10 0
+7 1600 7500
+A
+13 10
+A
+12 10
+A
+14 10
+#1010
+obj sickle silver~
+30
+&wa silver sickle&n~
+A Silver Sickle reflects light from all around.~
+~
+5 0 0 8193
+0 4 4 3
+5 4650 8000
+A
+19 1
+A
+18 1
+A
+12 -5
+#1011
+obj ring changes~
+20
+&Ythe ring of &cChanges&n~
+A magical ring lays on the ground.~
+~
+9 67634178 0 3
+6 0 0 0
+3 130000 35000
+A
+12 20
+A
+4 2
+A
+6 1
+#1012
+obj robe nature~
+20
+the &yrobe &nof &GNature&n~
+A robe the colour of the trees lies here on the ground.~
+~
+9 1115137 0 1025
+15 0 0 0
+6 200000 30000
+A
+12 20
+A
+18 2
+#1013
+obj sickle golden~
+15
+the &Ygolden &wsickle&n~
+A magnnificent golden sickle lies on the ground.~
+~
+5 5120 8 8193
+2048 3 5 3
+7 55000 17000
+A
+19 1
+A
+18 1
+A
+13 -10
+#1014
+obj javelin centaur~
+30
+&ya centaur's javelin&n~
+A centaur's javelin has been thrust into the ground here.~
+~
+5 1048576 0 8193
+0 5 5 11
+7 30000 9000
+A
+18 1
+#1015
+obj wand marble ~
+25
+&ca ma&Brb&cle &Bwa&cnd&n~
+A small marble wand lies on the ground.~
+~
+3 16777216 0 16385
+25 5 5 32
+3 30000 8000
+#1016
+obj staff cloud ~
+20
+&ya staff of &Wclouds&n~
+A staff sorrounded in clouds rests here.~
+~
+4 16777216 0 16385
+30 3 3 38
+3 30000 8000
+#1017
+obj Scimitar crystal ~
+15
+&Ca crystal scimitar&n~
+a minature crystal scimitar lays on the ground~
+~
+5 18874369 0 8193
+0 7 7 3
+5 100000 40000
+A
+18 3
+A
+19 3
+#1018
+obj crown marble small~
+20
+&ca sm&Bal&cl m&Bar&cbl&Be c&cro&Bwn&n~
+A small crown made from decorated marble lies in the dust~
+~
+9 18874369 0 17
+15 0 10 0
+5 100000 30000
+A
+12 30
+A
+4 3
+A
+19 1
+#1019
+obj staff silence small~
+20
+&ythe staff of &Ksilence&n~
+A small thin staff has been placed, leaning against a wall.~
+~
+4 17039360 0 16385
+40 2 2 107
+5 60000 0
+#1020
+obj bracelet small golden~
+20
+&Ya small golden bracelet&n~
+A small golden bracelet reflects light about the place.~
+~
+9 17825792 0 4097
+10 0 10 0
+4 90000 30000
+A
+12 20
+A
+19 1
+A
+37 -1
+A
+14 -10
+#1021
+obj ring elders~
+25
+&Ythe ring of the &Gelders&n~
+A grey and green ring lies on the ground.~
+~
+9 0 0 3
+4 0 0 0
+1 10000 4000
+A
+4 2
+A
+2 -1
+A
+3 1
+#1022
+obj chainmail fine elven~
+25
+&wa suit of fine elven chainmail&n~
+A suit of the finest in elven chainmail rests here.~
+~
+9 589824 0 9
+10 0 0 0
+20 40000 10000
+A
+19 1
+A
+6 1
+A
+36 -1
+A
+18 1
+#1023
+obj longsword sword wardancers~
+20
+a &RWardancer's &Klongsword&n~
+A beautifully crafted longsword lies on the ground.~
+~
+5 1056768 0 8193
+65536 7 5 3
+9 20000 30000
+A
+19 1
+A
+18 3
+#1024
+obj scimitar~
+20
+a scimitar~
+A sharp scimitar lies on the ground.~
+~
+5 524288 0 8193
+0 3 6 3
+6 24000 6000
+#1025
+obj knife skinning curved~
+30
+a skinning knife~
+A knife with a sharp curved blade lies here.~
+~
+5 0 0 8193
+0 4 3 3
+3 2000 500
+A
+18 1
+A
+2 1
+A
+13 10
+#1026
+obj shortsword sword elven~
+25
+an elven shortsword~
+An elven short sword lays here.~
+~
+5 1048576 0 8193
+0 2 10 11
+5 3000 800
+A
+18 3
+A
+19 -1
+A
+2 1
+#1027
+obj spear hunters~
+35
+a hunters spear~
+A long hunters spear has been stuck into the ground.~
+~
+5 524288 0 8193
+0 2 7 11
+6 5000 4000
+A
+18 1
+A
+19 1
+#1028
+obj dagger concealed pixie~
+10
+&Ka concealed dagger&n~
+An easily hidden dagger lies on the ground.~
+~
+5 153092096 0 8193
+0 4 9 11
+7 100000 27000
+A
+19 1
+A
+18 4
+#1029
+obj tunic geen pixie~
+20
+&Ga green &Ypixies &Gtunic&n~
+A small green tunic, once worn by a pixie rests here.~
+~
+9 17891328 0 9
+15 0 10 0
+6 80000 15000
+A
+19 2
+A
+3 1
+A
+12 20
+#1030
+obj skin large black bear~
+30
+&Ka large black bear skin&n~
+A large black bear skin lays crumpled on the ground.~
+~
+9 33554432 0 1025
+13 0 0 0
+6 50000 10000
+A
+13 15
+A
+12 -5
+#1031
+obj Ferry boat shikonas ship vehicle~
+1
+the Shikonas Sea Ferry~
+The Shikonas Sea Ferry rocks with the motion of the waves.~
+~
+24 8 0 0
+70 40 10 9000
+1 3000 5
+E
+arrival~
+The Ferryman jumps onto the dock and secures his ferry tightly.  He removes
+a pipe from his unshaven mouth and offers you a passage for 3,000 gold coins.
+~
+E
+ferry shikonas boat ship~
+The Shikonas Sea Ferry is a ship capable of handling the roughest
+of ocean weather, its got a large sign hanging from the bow 
+displaying the destination and costs.
+~
+E
+interior~
+The Ferry rocks up and down with the motion of the waves, small rodents 
+scuttle below the deck to get away from the salt water of the Shikonas Sea.
+~
+E
+sign bow destinations costs~
+The sign is weather beaten but still readable, The Shikonas Sea
+Ferry travels from Cityport of Elmpatris, to the mouth of the Yansu 
+River, through Shikonas Sea to Shikarnith Island, Back to the Yansu 
+River, and finaly back up the coast to Elmpatris. Passage costs 3,000 
+gold coins per person.
+~
+#1032
+obj chainmail fine elven~
+20
+&Wa suit of fine elven &wchainmail&n~
+A suit of the finest in elven chainmail rests here.~
+~
+9 589824 0 9
+20 0 0 0
+20 40000 10000
+A
+19 1
+A
+18 1
+A
+36 -1
+A
+14 -10
+#1033
+obj dagger concealed pixie~
+5
+&Ka concealed dagger&n ~
+An easily hidden dagger lies on the ground.~
+~
+5 153093120 0 8193
+2048 5 6 11
+7 100000 27000
+A
+19 1
+A
+18 4
+#1034
+obj tunic green pixie~
+15
+&Ga green &Ypixie &Gtunic&n~
+A small green tunic, once worn by a pixie rests here.~
+~
+9 17891328 0 9
+15 0 10 0
+6 80000 15000
+A
+19 2
+A
+3 1
+A
+12 10
+#1035
+obj tunic green pixie~
+10
+&Ga green &Ypixie &Gtunic&n~
+A small green tunic, once worn by a pixie rests here.~
+~
+9 17891328 0 9
+15 0 10 0
+6 80000 15000
+A
+19 2
+A
+18 1
+A
+12 5
+#1036
+obj steel plated leggings~
+10
+&wsteel&K-&cp&wlate&cd &Kleggings&n~
+A set of leggings usable by a four legged creature lie here.~
+~
+9 1056768 16384 524289
+20 0 0 0
+5 11250 5
+A
+19 1
+A
+18 1
+A
+13 5
+#1037
+obj sapphire butterfly held quest2~
+0
+&bsap&Bph&bire &Wbut&Kt&we&Kr&Wfly&n~
+&bsap&Bph&bire &Wbut&Kt&we&Kr&Wfly&n~
+~
+1 134479872 1024 81921
+0 0 0 0
+1 5 5
+A
+41 5
+A
+40 5
+A
+18 7
+A
+42 5
+$~
+#999999

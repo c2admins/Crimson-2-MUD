@@ -9,7 +9,7 @@
 LogFiles="mudrunning.txt"
 
 # The directories to run the script in.
-LogDirectories="/home/ubuntu/c2/controlscripts" 
+LogDirectories="/home/crimson/c2/controlscripts" 
 
 # How many back logs to keep.
 # MUST ME 3 OR MORE!!!

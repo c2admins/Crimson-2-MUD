@@ -1,0 +1,696 @@
+#4600
+The Beginning~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+45 8 0 1 99 1
+S
+#4601
+The entrance to the Grig Forest~
+These forest seem very bright and spooky.  You can see there
+are many twigs and branches that glow with a mystical light.
+The forest is very dense yet very traveled.  Most of these
+creatures are winged and very naughty.
+~
+45 8 0 1 99 1
+D1
+~
+~
+0 -1 4602
+D3
+The enchanted forest.
+~
+~
+0 -1 6124
+S
+#4602
+Inside the Grig Forest~
+You can see there is a magical spell bounding the forest together.
+A sort of ethereal line binding the trees up and the rocks in their place.
+There has been some sort of magic afoot here.  You notice
+there are some small cricket looking creatures running amuck.
+They are the Grigs of the forest.  They defend and look
+after these forests.
+~
+45 8 0 1 99 1
+D1
+~
+~
+0 -1 4603
+D3
+~
+~
+0 -1 4601
+S
+#4603
+Inside the Grig Forest~
+You can see there is a magical spell bounding the forest together.
+A sort of ethereal line binding the trees up and the rocks in their place.
+There has been some sort of magic afoot here.  You notice
+there are some small cricket looking creatures running amuck.
+They are the Grigs of the forest.  They defend and look
+after these forests.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4604
+D3
+~
+~
+0 -1 4602
+S
+#4604
+Inside the Grig Forest~
+You can see there is a magical spell bounding the forest together.
+A sort of ethereal line binding the trees up and the rocks in their place.
+There has been some sort of magic afoot here.  You notice
+there are some small cricket looking creatures running amuck.
+They are the Grigs of the forest.  They defend and look
+after these forests.
+~
+45 8 0 1 99 1
+D2
+~
+~
+0 -1 4603
+D3
+~
+~
+0 -1 4605
+S
+#4605
+Inside the Grig Forest~
+You can see there is a magical spell bounding the forest together.
+A sort of ethereal line binding the trees up and the rocks in their place.
+There has been some sort of magic afoot here.  You notice
+there are some small cricket looking creatures running amuck.
+They are the Grigs of the forest.  They defend and look
+after these forests.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4606
+D1
+~
+~
+0 -1 4604
+S
+#4606
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4609
+D1
+~
+~
+0 -1 4607
+D2
+~
+~
+0 -1 4605
+D3
+~
+~
+0 -1 4608
+S
+#4607
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D3
+~
+~
+0 -1 4606
+S
+#4608
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D1
+~
+~
+0 -1 4606
+S
+#4609
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4610
+D2
+~
+~
+0 -1 4606
+S
+#4610
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4611
+D2
+~
+~
+0 -1 4609
+S
+#4611
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D1
+~
+~
+0 -1 4612
+D2
+~
+~
+0 -1 4610
+S
+#4612
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D1
+~
+~
+0 -1 4613
+D3
+~
+~
+0 -1 4611
+S
+#4613
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4614
+D1
+~
+~
+0 -1 4616
+D2
+~
+~
+0 -1 4615
+D3
+~
+~
+0 -1 4612
+S
+#4614
+Home of Krailin~
+This is the home of Krailin the Grig.  He is a master blacksmith of the Grigs.
+They say his forging is only matched by a powerful mage.  You can
+see there are some special powers afoot.  He has a very large
+anvil in the middle of his room with shelves of great weapons
+on the walls.
+~
+45 8 0 1 99 1
+D2
+~
+~
+0 -1 4613
+S
+#4615
+The home of Manush the Grig~
+Manush the Grig resides here.  He is a small little man with a
+very bad temper.  Very few creatures trade here as his prices
+are a bit steep.  You can see the selection he has.  Many 
+travelers come here and have no where else to turn for small
+things such as recalls or yellow potions.  He is a masterful
+magician of the village.  Very few ever come into opposition with
+him.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4613
+S
+#4616
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D1
+~
+~
+0 -1 4619
+D3
+~
+~
+0 -1 4613
+S
+#4617
+Home of Mysphit~
+This is the home of the Mysphit.  He is a strange character indeed.
+If you can stand the smell he welcomes you in.  He has a fresh
+load of moonshadow droppings to help with his planting.
+He grows magical herbs and remidies.  Most of these are for
+helping to cure the blind and heal the battle scares.  You can
+see by the gesture in his face that he has quite the hunger for
+these little plants.  His eyes seem to be glowing red as if he
+smoked a bit too much of the healing canibus plant.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4619
+S
+#4618
+The home of Falinix~
+This is the residence of Falinix, the shopkeeper.  He buys used
+and new junk and then sells it back for more than he paid.
+(hey little people gots to get paid!)  You can see by his
+rather large fingers and bulging belly, this guy has hit the
+chuck wagon one time too many.  He is a simple old coot with
+barely the strength to pick himself up off the floor.
+~
+45 8 0 1 99 1
+D2
+~
+~
+0 -1 4619
+S
+#4619
+Deep inside the Grig Forest~
+You can see these little creatures everywhere.  They seem to
+flock like locusts.  The forest seems to have a magical song that
+draws you in.  Many of these creatures are pretty harmless but
+watch out for the mothers protecting their young!  They can
+be very viscious.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4618
+D1
+~
+~
+0 -1 4620
+D2
+~
+~
+0 -1 4617
+D3
+~
+~
+0 -1 4616
+S
+#4620
+At the edge of the forest~
+You have come to the edge of the forest.  You cannot
+seem to travel to the east of here.  The brush and thitch
+seems to be too thick to make it.  Your only alternatives are 
+to go north, south and west.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4621
+D3
+~
+~
+0 -1 4619
+S
+#4621
+At the edge of the forest~
+This is the very edge of the forest.  You cannot travel
+to the east of here.  To the south you can smell baked
+goods and black powder.  To the north of here seems
+to be a small wetland area.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4622
+D2
+~
+~
+0 -1 4620
+S
+#4622
+Near the waterfall~
+The waterfall that lies north of here is a very secluded
+and strange one.  The water that rushes down and splashes
+on your face seems to be very inviting and magicly drawing.
+Many of the creatures you have seen so far may not
+prepare you for what lies ahead.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4623
+D2
+~
+~
+0 -1 4621
+S
+#4623
+A bridge over the river~
+You are standing on a very sturdy bridge.  The water flowing
+below you is a strange kind of dark blue.  You can tell
+it runs deep and cold.  There are many strange creatures
+that frolic in these woods.  Some will fear you others will
+not care that you are even here.  Watch out for the mighty
+underwater grigs.  They have adapted the ability to swim
+and breath underwater.  They may pose a threat to you.
+~
+45 8 0 1 99 1
+D0
+~
+~
+0 -1 4624
+D2
+~
+~
+0 -1 4622
+S
+#4624
+At the beach~
+You are standing at a very boggy beach.  The sand is
+mixed with dirt creating a very sluggish undertow.  This
+could be very dangerous indeed.  If you chose to swim out
+into this you may encounter some strange looking Grigs.
+They look like normal Grigs but with green skin and gills.
+~
+45 8 0 1 99 1
+D1
+~
+~
+0 -1 4625
+D2
+~
+~
+0 -1 4623
+S
+#4625
+Under the waterfall~
+You have come under the waterfall.  The feeling here is
+so refreshing and clean.  The deep blue water seems to
+pour endlessly.  The rocks behind the waterfall seem to 
+glow with a bright light.  You will need to be able to
+breath water to go any further from here.  You may want
+to turn back now.
+~
+45 8 0 1 99 1
+D3
+~
+~
+0 -1 4624
+D5
+~
+~
+0 -1 4626
+S
+#4626
+Under the Blue water~
+You have come under the magical waterfall.  The water
+seems to hold some kind of magical power.  However,
+you will still need to breath like a fish or obtain a magical
+helm to breath water down here.  You can see there is
+a crack to the north that one could maybe squeeze through.
+However, the path leads to the south.
+~
+45 131080 0 1 99 8
+D0
+~
+~
+16 -1 4627
+D4
+~
+~
+0 -1 4625
+S
+#4627
+Inside an underwater tunnel~
+You have come inside the underwater tunnel.  This
+tunnel is only lit by the glinting rocks and glowing coral
+that surround the cave.  You can see there is a small
+glint of light towards the north.
+~
+45 268566536 0 41 99 8
+D0
+~
+~
+0 -1 4628
+D2
+~
+~
+0 -1 4626
+S
+#4628
+Inside an underwater tunnel~
+You have come inside the underwater tunnel.  This
+tunnel is only lit by the glinting rocks and glowing coral
+that surround the cave.  You can see there is a small
+glint of light towards the north.
+~
+45 268566536 0 41 99 8
+D0
+~
+~
+0 -1 4629
+D2
+~
+~
+0 -1 4627
+S
+#4629
+Inside an underwater tunnel~
+You have come inside the underwater tunnel.  This
+tunnel is only lit by the glinting rocks and glowing coral
+that surround the cave.  You can see there is a small
+glint of light towards the north.
+~
+45 268566536 0 41 99 8
+D0
+~
+~
+0 -1 4630
+D2
+~
+~
+0 -1 4628
+S
+#4630
+Inside an underwater tunnel~
+You have come inside the underwater tunnel.  This
+tunnel is only lit by the glinting rocks and glowing coral
+that surround the cave.  You can see there is a small
+glint of light towards the north.
+~
+45 268566536 0 41 99 8
+D0
+~
+~
+0 -1 4631
+D2
+~
+~
+0 -1 4629
+S
+#4631
+The brightly lit cave~
+There are strange runes and glowing signs along the
+walls.  You can see by the darkness to the south the
+flames do not burn as bright there.  Some strange magic must
+be at work here.  There are blue flames dancing about the 
+walls here.
+~
+45 268566536 0 41 99 8
+D0
+~
+~
+0 -1 4635
+D1
+~
+~
+0 -1 4632
+D2
+~
+~
+0 -1 4630
+D3
+~
+~
+0 -1 4633
+S
+#4632
+The brightly lit cave~
+There are strange runes and glowing signs along the
+walls.  You can see by the darkness to the south the
+flames do not burn as bright there.  Some strange magic must
+be at work here.  There are blue flames dancing about the 
+walls here.
+~
+45 131080 0 1 99 8
+D0
+~
+~
+0 -1 4636
+D3
+~
+~
+0 -1 4631
+S
+#4633
+The brightly lit cave~
+There are strange runes and glowing signs along the
+walls.  You can see by the darkness to the south the
+flames do not burn as bright there.  Some strange magic must
+be at work here.  There are blue flames dancing about the 
+walls here.
+~
+45 131080 0 1 99 8
+D0
+~
+~
+0 -1 4634
+D1
+~
+~
+0 -1 4631
+S
+#4634
+The brightly lit cave~
+There are strange runes and glowing signs along the
+walls.  You can see by the darkness to the south the
+flames do not burn as bright there.  Some strange magic must
+be at work here.  There are blue flames dancing about the 
+walls here.
+~
+45 131080 0 1 99 8
+D1
+~
+~
+0 -1 4635
+D2
+~
+~
+0 -1 4633
+S
+#4635
+The brightly lit cave~
+There are strange runes and glowing signs along the
+walls.  You can see by the darkness to the south the
+flames do not burn as bright there.  Some strange magic must
+be at work here.  There are blue flames dancing about the 
+walls here.
+~
+45 1342308360 0 41 99 8
+D0
+~
+~
+0 -1 4637
+D1
+~
+~
+0 -1 4636
+D2
+~
+~
+0 -1 4631
+D3
+~
+~
+0 -1 4634
+S
+#4636
+The brightly lit cave~
+There are strange runes and glowing signs along the
+walls.  You can see by the darkness to the south the
+flames do not burn as bright there.  Some strange magic must
+be at work here.  There are blue flames dancing about the 
+walls here.
+~
+45 131080 0 1 99 8
+D2
+~
+~
+0 -1 4632
+D3
+~
+~
+0 -1 4635
+S
+#4637
+Blackened is the end...~
+The light seems to have been devoid here.  You can
+see there is no smell or taste here.  The water has gotten murky
+and black.  There is no light just a strange growl in the
+submerged water.
+~
+45 1879179272 0 41 99 8
+D2
+~
+~
+0 -1 4635
+S
+$~
+#999999

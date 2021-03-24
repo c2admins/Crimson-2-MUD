@@ -1,0 +1,611 @@
+#9300
+&WLight &nand &KShade&n~
+
+You step into a land cloaked in shadow and intrigue.  The canopy blankets the land
+in darkness and sorrow.  The only light seems to be from intermittent torches and occasional
+brief bursts of light from above the trees.
+This is the land of darklings, known as Dark Shadows.  May your visit be interesting,
+challenging and, of course, memorable.
+
+~
+68 1048584 0 20 41 1
+D0
+the path to the Darkling camp
+~
+~
+0 -1 9301
+D1
+Foot of a Hill
+~
+~
+0 -1 3035
+S
+#9301
+&KFlas&whes of &WLight&n~
+
+A well-kept trail leads you through the darkling camp.  You smell the musky smoke from the
+small fires that dot the campsite.  Darklings seem to move with the shadow of the clouds
+and trees.  You look around you and notice that the area has been divided, almost as if
+the darklings allocated themselves along clan lines....Interesting.  Let's investigate.
+~
+68 1048584 0 20 41 1
+D0
+&GGreen&K Darkling&n area
+~
+~
+0 -1 9304
+D1
+&BBlue&K Darkling&n area
+~
+~
+0 -1 9303
+D2
+the Darkling lair entrance
+~
+~
+0 -1 9300
+D3
+&RRed&K Darkling&n area
+~
+~
+0 -1 9302
+D5
+A peaceful pond
+~
+~
+0 -1 9328
+S
+#9302
+Darkling camp entrance: &RReds&n~
+
+The Red Darklings are accomplished thieves.  They have survived the centuries through fast
+action, supreme dexterity, and the ability to think quickly.  They specialize in piercing
+attacks, and are remarkably agile.  Careful when dealing with the "Reds" - they tend to
+gain the upperhand quickly.
+
+~
+68 1048584 0 20 41 1
+D1
+Darkling path
+~
+~
+0 -1 9301
+D3
+Red Darkling's bazaar
+~
+~
+0 -1 9312
+S
+#9303
+Darkling camp entrance: &BBlues&n~
+
+The Blue Darklings are skilled warriors, and are known throughout the lands for their strength
+and their endurance.  Adept at most slashing weapons, the "Blues" believe that the best style
+of fighting is fast, harsh and unrelenting.  They like blood, and aren't afraid to shed some of
+their own in the process.
+
+~
+68 1048584 0 20 41 1
+D1
+the Blue Darkling encampment
+~
+~
+0 -1 9305
+D3
+Darkling path
+~
+~
+0 -1 9301
+S
+#9304
+Darkling camp entrance: &GGreens&n~
+
+The Green Darklings are strong brutes who are quite handy with bludgeoning weapons.  If they
+can't pound your brains out, well, you'd be a unique visitor to their encampment.  Hammers,
+clubs, trees...heck, they'd pick up a building to smash you (if the buildings were small
+enough to grasp).  Careful what you say here.  They pound first, pound second, and then ask
+if you want another pounding.
+
+~
+68 1048584 0 20 41 1
+D2
+Darkling path
+~
+~
+0 -1 9301
+D4
+&cThe &GGreen&c Darkling orchard&n
+~
+~
+0 -1 9308
+S
+#9305
+&cThe &BBlue&c Darkling excrement room&n~
+
+Small fires, bits of cloth and bone, and tidy piles of excrement that are flecked with
+chunks that could be corn decorate the otherwise barren and muddy land.  Looking around,
+you see a handful of Blue Darklings roaming their territory.  If you didn't know better,
+you'd think they were unhappy to have you as a guest.  Go give one a hug.
+
+~
+68 1048584 0 20 41 1
+D3
+the Blue Darkling entrance
+~
+~
+0 -1 9303
+D5
+the Blue Darkling training den
+~
+~
+0 -1 9306
+S
+#9306
+&cThe &BBlue&c Darkling training den&n~
+
+The Blue Darklings are fierce warriors, there is no doubt.  For any unsuspecting mortal,
+they can prove to be quite an adversary.  Yet they learned their skills and their abilities
+from one Darkling, Hex.  He is known for being quite unlucky...for his enemies.  You see
+his room to the south.  Will you enter?
+
+~
+68 1048584 0 20 41 1
+D1
+a training nook
+~
+~
+0 -1 9319
+D2
+the office of Hex
+~
+~
+9 0 9307
+D4
+the Blue Darkling excrement room
+~
+~
+0 -1 9305
+S
+#9307
+The office of &rHex&n, the &BBlue &KDarkling&c trainer&n~
+Hex is a scarred, ragged monster of a darkling.  His rage has laid waste to the animal
+population that had once inhabited these woods.  His training exercises have left weaker
+Blue snotlings crippled or dead.  Only the strong survive, and Hex is determined to be
+the strongest - no matter what.
+~
+68 269484040 0 20 41 1
+D0
+Blue Darklings training grounds
+~
+~
+9 0 9306
+S
+#9308
+&cThe &GGreen&c Darkling orchard&n~
+
+The Green Darklings are strong creatures with a huge interest in nature.  They spend much
+of their time planting and plowing, giving them great strength and endurance.  Though they
+have interests in some of the simpler things in life, and enjoy walking through this orchard,
+they are very brutal and simple-minded.  They hold no joy in the lives of animals, but will
+protect their lands at all costs.
+
+~
+68 1048584 0 20 41 1
+D1
+the Green Darkling plowing grounds
+~
+~
+0 -1 9309
+D5
+the Green Darkling entrance
+~
+~
+0 -1 9304
+S
+#9309
+&cThe &GGreen&c Darkling plowing grounds&n~
+
+The Green darklings cultivate fruits, vegetables and shrubberies to make their territory 
+lush and pleasant, like an Eden of sorts.  You see apples and grapes growing in great amounts,
+and the grass looks soft and pleasant.  The darklings you see around you look simple-minded
+and dormant.  Careful that you do not anger them.
+
+~
+68 1048584 0 20 41 1
+D0
+The chamber of the May Queen
+~
+~
+9 0 9310
+D2
+more plowing grounds
+~
+~
+0 -1 9315
+D3
+the Green Darkling orchard
+~
+~
+0 -1 9308
+D5
+&cThe &gPeach &yPit&n
+~
+~
+0 -1 9311
+S
+#9310
+The &chall of the &GMay Queen&n~
+The May Queen is the leader of the Green Darklings.  The May Queen has a fascination with
+nature and in the season of Spring.  The orchard is her pride, and she derives great joy
+from the literal fruits of labor that the Green Darklings have created.  This chamber 
+indicates her fascination, covered in murals of water and fruit-bearing plant life.
+
+~
+68 269484040 0 20 41 1
+D2
+the green darkling plowing fields
+~
+~
+9 0 9309
+D5
+a dank library
+~
+~
+9 0 9325
+S
+#9311
+&cThe &gPeach &yPit&n~
+The Peach Pit is the storage area for the produce that the Green Snotlings cultivate in
+their territory.  The pleasant fragrances of oranges, apples, peaches and assorted berries
+fill the air, and you breathe deeply.  If ever there was a produce heaven, this must be it.
+
+~
+68 1048584 0 20 41 1
+D4
+the green darkling plowing grounds
+~
+~
+0 -1 9309
+S
+#9312
+&cThe &RRed &KDarkling &cbazaar&n~
+
+The Red Darklings are enterprising thieves.  Quick witted, daring and always alert for
+anything that looks precious or expensive.  They're not picky, though; They'd be more than
+willing to help you relieve any of your tremendous burden.  This bazaar, their own little
+market place, is a good area to find, and lose, some possessions.  Enjoy!
+~
+68 1048584 0 20 41 1
+D1
+Red Darkling entrance
+~
+~
+0 -1 9302
+D2
+the den of thieves
+~
+~
+0 -1 9313
+D3
+the bazaar trading alley
+~
+~
+0 -1 9322
+S
+#9313
+&cThe &KDen &cof &RThieves&n~
+
+Thieves always like to gather...is it to steal from themselves, or is it to gloat about
+their victories over the unknowing victims they happened to run across?  In whatever way
+you'd care to look at it, they are here.  And...they've noticed you.
+~
+68 1048584 0 20 41 1
+D0
+the red darkling bazaar
+~
+~
+0 -1 9312
+D3
+the hall of Phakir
+~
+~
+9 0 9314
+S
+#9314
+&cThe &yHall &cof &KPhakir&n~
+In all professions, there is always a boss.  Some professional to set the standards that all
+others work towards.  Phakir is the thief of thieves, the lightest touch and the quickest
+draw of all darkling thieves.  His skill is legendary, and his ability to twist situations
+to fit his schemes served him well in the great color schism.
+Beware.
+
+~
+68 269484040 0 20 41 1
+D1
+the den of thieves
+~
+~
+9 0 9313
+S
+#9315
+&cMore plowing grounds&n~
+The plowing grounds continue further south, and you see small melon plants and other various
+crops growing out of the rich, cultivated soil.  You smell turned earth and can tell that
+the ground and the land all around are well cared for and loved.  This gives you more of an
+idea of who these Darklings are...  How odd that a race so inclined towards darkness would
+care for items that require sunshine.
+
+~
+68 1048584 0 20 41 1
+D0
+the plowing grounds
+~
+~
+0 -1 9309
+D1
+plowing grounds
+~
+~
+0 -1 9318
+D2
+even more plowing grounds
+~
+~
+0 -1 9316
+S
+#9316
+&cMore plowing grounds (2)&n~
+The plowing grounds stretch to the north and east.  The melons and other crops are growing
+nicely, and there is an abundance of crops.  You bend down to pick a melon, eager to taste
+it to see if it is as good as it looks, but you hear the darkling plowmen approaching and you
+wisely decide not to piss them off.
+
+~
+68 1048584 0 20 41 1
+D0
+plowing grounds
+~
+~
+0 -1 9315
+D1
+more plowing grounds
+~
+~
+0 -1 9317
+S
+#9317
+&cMore plowing grounds (3)&n~
+The plowing grounds go west and north, forming a nice square boundary for the crops to grow
+within.  The plowmen keep this area well-maintained, and the crops look terrific!  For a
+bunch of warriors, these guys sure know a lot about melons.  
+
+~
+68 1048584 0 20 41 1
+D0
+plowing grounds
+~
+~
+0 -1 9318
+D3
+plowing grounds
+~
+~
+0 -1 9316
+S
+#9318
+&cMore plowing grounds (4)&n~
+The fields are incredible.  Melons, beans and berries stretch to the south and west.  The
+market of produce from all around you easily supports the needs of the Green darklings sect.
+The May Queen runs an excellent ship, no question about it.
+
+~
+68 1048584 0 20 41 1
+D2
+plowing grounds
+~
+~
+0 -1 9317
+D3
+plowing grounds
+~
+~
+0 -1 9315
+S
+#9319
+&cThe &BBlue&c Darkling training nook passage&n~
+The Blue Darklings have their training levels, of course.  The savage survive, the "mildly
+pissed off" are weeded out.  You must be strong.  You must be cruel.  You must be cold and
+soulless.  You must be willing to destroy...and be destroyed.  Here, the character of the
+future warriors will be determined.
+
+~
+68 1048584 0 20 41 1
+D1
+more of the nook
+~
+~
+0 -1 9320
+D3
+the training den
+~
+~
+0 -1 9306
+S
+#9320
+&cThe &BBlue&c Darkling training nook passage&n~
+The sounds of battle from below you catch your attention, and you are drawn to seeing the
+training.  The bestial anger and the monstrous rage attract you, even as the cruelty offends
+your sense of humanity.  Still, we're all "human," and we need to see things sometimes.  So,
+let's go watch.
+
+~
+68 1048584 0 20 41 1
+D3
+the nook entry
+~
+~
+0 -1 9319
+D5
+the passage to the nook
+~
+~
+0 -1 9321
+S
+#9321
+&cThe &BBlue &cDarkling training nook&n~
+And here we are.  Corpses...blood...equipment strewn around the room.  It's death.  It's
+chaos.  It's carnage to it's most extreme.  It's the blue darkling way of life.  You can
+watch...or you can participate.  It's your choice...but make it quickly.  The murderers
+in training have taken an interest in you.
+~
+68 1048584 0 20 41 1
+D4
+the passage to the den
+~
+~
+0 -1 9320
+S
+#9322
+&cThe &RRed &KDarkling &cbazaar trading alley&n~
+This alleyway sees a lot of black market trade.  Stolen gear, ranging from equipment to
+weapons, is the coin of choice.  You might find a nice sword, or perhaps a nice coat for
+the misses.  Who knows?  You might also find your coin collection that you thought you
+lost when you were only 9 years old.  Take a look, hang around, see what you can see.
+
+~
+68 1048584 0 20 41 1
+D1
+the bazaar entryway
+~
+~
+0 -1 9312
+D4
+the room of illegal barter
+~
+~
+0 -1 9323
+D5
+the black market dump
+~
+~
+0 -1 9324
+S
+#9323
+&cThe room of &Rillegal&c barter&n~
+This room has a few deals go bad occasionally.  Some trades don't end peacefully or with all
+participants satisfied.  Sometimes a darkling ends up missing a finger, an ear, an organ that
+is related to reproduction...well, you get the gist.  Sometimes you just really don't want to
+push a pissed off darkling.
+
+~
+68 1048584 0 20 41 1
+D5
+the trading alley
+~
+~
+0 -1 9322
+S
+#9324
+&KThe Black Market &Gdump&n~
+When thieves steal crap, well, they don't want to keep it.  Trash is trash, and you sometimes
+need to face up to it and ditch the stuff that just isn't worth keeping.  The red darklings
+tend to bring their junk here and drop it. That's the nice thing about dumps.  You drop
+stuff in them, and you don't have to worry about the junk anymore. 
+
+~
+68 1572872 0 20 41 1
+D4
+the trading alley
+~
+~
+0 -1 9322
+S
+#9325
+&Ka &ydank &Klibrary&n~
+
+This appears to be the May Queen's personal library.  The smell of moldy leather and rotting
+paper fills your nose, and the constant drip of water in some unseen corner alerts you of the
+surrounding stillness.  How long has it been since this room has had visitors?  You see a
+few shelves of books and two shoddy wooden tables.  And to the north there is a closed oak
+door.  Curiouser and curiouser.
+
+~
+68 269484040 0 20 41 1
+D0
+the forgotten dungeon
+~
+~
+9 0 9326
+D4
+The May Queen's chamber
+~
+~
+9 0 9310
+S
+#9326
+&wthe &bforgotten&w dungeon&n~
+Maps, treaties and various documents lie here rotting.  This room looks to have been a meeting
+room of some sort.  Perhaps this is where the three old leaders met when they tried to bring
+peace to the lands.  Or perhaps it's just where some old librarian used to relax when not
+sorting the books.  The dust is thick all around.
+~
+68 269484040 0 20 41 1
+D2
+the library
+~
+~
+9 0 9325
+D5
+the hidden tomb
+~
+~
+16 0 9327
+S
+#9327
+&Kthe &Khidden &rtomb&n~
+
+Bones.  Bleached, white, skeletal remains of someone lie on a altar in front of you.  You
+have no idea who the remains are, but it could be the fallen Bladdest's mortal remains.
+Odd burial location, isn't it?
+~
+68 269484040 0 20 41 1
+D4
+the dungeon
+~
+~
+0 -1 9326
+S
+#9328
+&Sa &Sc&Sa&Sl&Sm &Sw&Sa&St&Se&Sr &Sb&Sa&Ss&Si&Sn&n~
+
+This cool, peaceful pond must be the source of the darkling's water.  You taste the water and
+become refreshed from the cold, clear fluid.  You note with approval that the land around
+the pond is lush and green.  It is nice to find such peace in a land seemingly filled with
+conflict and unease.  If only life was as tranquil as the water.
+
+~
+68 1146892 0 20 41 1
+D4
+the central point
+~
+~
+0 -1 9301
+S
+#9329
+&cThe &Rbazaar &cfountain&n~
+
+The bazaar is often busy, filled with buyers, sellers and thieves.  And it can get pretty
+warm!  So people tend to flock around the fountain, dipping their hands into it for a drink,
+or dipping heads into it to cool off.  For a bunch of thieves, the red darklings sure know
+how to build a nice fountain!  
+
+~
+68 8 0 20 41 1
+D2
+the bazaar
+~
+~
+0 -1 9312
+S
+$~
+#999999

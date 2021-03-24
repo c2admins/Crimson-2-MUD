@@ -1,0 +1,932 @@
+#4800
+mob Alyah madam~
+Alyah the Madam~
+Alyah, the owner of the establishment is standing here.
+~
+Alyah is a large, burly woman who looks to be in her mid fifties.  She is 
+quite obviously wearing a corset, and her dress pushes her chest up and out
+at you quite frighteningly.
+Her makeup is vastly over-applied, her bright red lips and red cheeks stand out
+strikingly.
+She beams a vast yellow smile back at you, and checks around to see which of her
+girls are free.
+~
+8 1 136249361 0 0 S
+30 13 5 50d19+3000 10d9+10
+350 176345
+8 8 2
+1 0 11 11 9 10 9 9
+#4801
+mob Kasper mystic~
+Mystic Kasper~
+Kasper the Mystic One, is standing here.
+~
+Kasper is a tall thin man, with a long black beard that reaches almost to his
+waist.  He wears a large sash over his head that trails down onto his shoulders
+and his dress looks to be made of a similar silky material.
+~
+10 1 136249361 0 0 S
+33 10 -4 22d19+4000 5d5+15
+635 203302
+8 8 1
+1 0 12 13 11 9 9 9
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4802
+mob Habrem Librol blacksmith~
+Habrem Librol~
+Habrem Librol the blacksmith is standing here.
+~
+Habrem is a foreigner to these parts, as can be seen by his darkened skin and
+strangely elongated face.  His clothes are a silky black material and drape
+from his body, showing his muscular features.
+~
+266 32769 136249361 0 0 S
+40 3 -22 3500d6+0 10d4+10
+5000 237732
+8 8 1
+1 4 12 12 10 11 9 10
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#4803
+mob Murphey Jones~
+Murphey Jones~
+Murphey is here, frying something just for you.
+~
+Murphey is a medium built man.  He wears a long grey overcoat that is 
+absolutely covered in stains of grease and dirt.  He has a small moustache
+and a poorly shaven chin topped off with a balding head.
+His wrinkly hands are on the counter as he watches potato boiling in the
+vats he has here.
+~
+536870922 1 136249361 0 0 S
+44 1 -30 50d19+12000 25d13+0
+1600000 799099
+8 8 1
+1 0 12 10 9 11 9 7
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4804
+mob monk protester~
+a stout monk~
+A monk is sitting here, protesting.
+~
+This is a tall thin monk of the order of Pageoran.  He is sitting here in the
+street to protest against the prostition taking place in the nearby house.
+~
+10 1 136249361 0 0 S
+19 21 25 16d12+222 3d4+20
+40 4620
+8 8 1
+1 0 12 10 11 9 8 8
+#4805
+mob horse sturdy elmpatris~
+a sturdy horse~
+A sturdy looking horse is standing here.
+~
+This is a sturdy, well built horse of the local militia.  It's powerful
+build makes it look like it has pulled loads it's entire life.
+~
+8 1 136249361 0 0 S
+10 29 34 4d10+90 3d4+4
+0 2835
+8 8 0
+0 0 11 13 9 11 8 6
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4806
+mob horse strong elmpatris~
+a strong horse~
+A strong looking horse is standing here.
+~
+This is a large brown horse belonging to the city militia.  It's fine coat has
+been expertly maintained and it's body is very muscular.
+~
+8 1 136249361 0 0 S
+14 25 30 15d10+100 5d4+4
+0 4100
+8 8 0
+0 0 11 12 9 10 8 7
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4807
+mob dog scrawny Aodhfidiahnn ~
+a scrawny dog~
+A scrawny dog is scratching around for food here.
+~
+This is a small and very thin dog.  It has dirty brown fur and a long thin
+nose, which is following close to the floor as it sniffs around.
+~
+8 1 136249361 0 0 S
+3 34 38 6d3+15 1d8+0
+0 93
+8 8 0
+0 0 12 10 11 9 7 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4808
+mob receptionist town hall~
+the town hall receptionist~
+The Town Hall receptionist is standing here.
+~
+She smiles back at you with a helpful look on her face, although it is hard
+to supprese the thought that she looks incredibly stupid.
+~
+10 1 136249361 0 0 S
+13 26 31 10d9+135 4d4+5
+15 3930
+8 8 2
+1 0 12 12 11 9 10 10
+#4809
+mob Mayor Elmpatris~
+the Mayor of Elmpatris~
+The Mayor of Elmpatris is here, working busily.
+~
+The Mayor is here behind his desk, working away on some new scheme of the
+city and does not appear to have seen you.  He is dressed only partially in his
+official clothes, as they are so large and heavy it would not be easy to
+actually work in them.
+~
+10 1 136249361 0 0 S
+39 4 -20 100d59+8000 10d5+9
+6000 240000
+8 8 1
+1 0 11 11 10 9 8 8
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+#4810
+mob official elmpatris~
+a city official~
+A city official is standing here.
+~
+The city official is probably as powerful as the Major himself, although a lot
+less recognized.  He has a number of sheets of paper falling in all directions
+and looks more than a little flustered.
+~
+8 1 136249361 0 0 S
+27 15 14 20d19+2000 3d6+16
+250 80000
+8 8 1
+1 0 11 10 9 10 8 6
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4811
+mob clerk town hall~
+a clerk~
+A clerk works away busily.
+~
+You see a small young man of about twenty.  He is dressed in a smart but 
+cheap suit that appears to be more than a little worn.  He is here trying to
+keep the files in order for the major and the councillors.
+~
+8 1 136249361 0 0 S
+17 23 27 9d10+150 1d6+20
+40 4600
+8 8 1
+1 0 11 11 9 10 8 10
+#4812
+mob clerk librarian~
+a librarian~
+A librarian is here filing away some books.
+~
+The librarian is quietly working away, filing the books back on the shelves in
+the correct location so that they can be found again easily.  He waddles 
+around with about six books in his hands.
+~
+8 1 136249361 0 0 S
+15 25 29 10d12+145 3d6+10
+35 4414
+8 8 1
+1 0 12 10 9 11 10 8
+#4813
+mob scholar library~
+a scholar~
+A scholar is here staring intently into a book.
+~
+This curious creature is here staring intently into a book, the words of which
+you cannot make out and would probably be unable to understand if you could.
+He is dressed in simple but well made clothing, and is clearly no pauper.
+~
+10 1 136249361 0 0 S
+13 26 31 14d10+100 3d5+5
+10 4080
+8 8 1
+1 0 11 13 11 11 7 10
+#4814
+mob jailer chief~
+the Chief Jailer of Elmpatris~
+The Chief Jailer is here, taking it easy.
+~
+The Chief Jailer is a monster of a man, standing over six feet tall.  He has
+a huge build, but it does not seem to be put to much use.  He is sitting here
+with his feet up on his desk, enjoying the knowledge that all the criminals
+in the city are in his cells and the the world is a safer place thanks to
+his extreme dedication.
+~
+10 1 136249361 0 0 S
+28 15 11 50d19+2000 3d4+25
+250 86000
+8 8 1
+1 0 11 11 10 10 8 6
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4815
+mob jailer assistant~
+the Jailer of Elmpatris~
+The jailer is standing here.
+~
+This is a younger man than the Cheif Jailer, probably only in his early
+twenties.  He is a slight man and seems to have a fixed snear on his face.
+~
+8 1 136249361 0 0 S
+26 15 16 25d19+2000 3d4+20
+200 79325
+8 8 1
+1 0 11 13 10 11 7 7
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_SKILL=25
+ATTACK_TYPE=100
+#4816
+mob prisoner old man~
+an old man~
+A ragged old man is resting here on the ground.
+~
+You see a poor, ragged old man.  His long uncut beard reaches down to his 
+waist, and only helps to cover his shame as his clothes wore out years ago.
+His back is crooker from having spent so many years in this cell, and his only
+friends have been the small rodents that visit occasionally.
+~
+10 1 136249361 0 0 S
+10 29 34 5d10+80 3d4+4
+0 3025
+8 8 1
+1 0 12 11 10 10 8 6
+#4817
+mob man young rebel~
+a young rebel~
+A young man has been locked up here.
+~
+This young man looks as if he has only just recently been imprisoned.  He is
+still fairly clean shaven and his clothes have not begun to disintegrate.
+He was a rebel, fighting for some obscure cause best left known only to him.
+~
+8 1 136249361 0 0 S
+27 15 14 24d19+2000 5d5+8
+0 81000
+8 8 1
+1 0 12 13 9 11 9 10
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#4818
+mob stableboy boy militia~
+a stableboy~
+A stableboy is here, tending the horses.
+~
+This is a young boy dressed in simple clothes.  He probably joined the militia
+in the last year or so, and has been put to work clearing out the stalls and
+taking care of the horses.
+~
+8 1 136249361 0 0 S
+15 25 29 12d10+140 5d4+8
+30 4555
+8 8 1
+1 0 12 10 10 11 8 10
+#4819
+mob soldier elmpatris~
+a soldier~
+An Elmpatris soldier is standing here observantly.
+~
+He is a healthy, strong looking man who has trained for months to be ready to
+defend his city from invaders.  He is dressed in the standard leather 
+uniform of the city's army.
+~
+520 1 136249361 0 0 S
+29 14 8 100d29+1300 3d4+27
+270 92345
+8 8 1
+1 0 11 11 11 10 7 8
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4820
+mob captain elmpatris~
+a Captain~
+A Captain in the army is standing checking his men.
+~
+This strong individual is one of the elite members of the city's army.  He is
+walking around ensuring that the soldiers are vigilant and ready to defend
+their city from any attack, and handing out discipline where needed.
+~
+776 1 136249361 0 0 S
+40 3 -22 2000d9+2000 3d4+40
+5500 265000
+8 8 1
+1 0 12 13 10 10 9 8
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#4821
+mob militiaman elmpatris~
+a militiaman~
+A member of the militia is patrolling here.
+~
+The militia are responsible for keeping the order inside the city while the 
+army defends it from invaders.  They have an orange and grey uniform which
+makes them stand out from the crowd quite strikingly.
+~
+520 1 136249361 0 0 S
+26 15 16 30d19+2000 3d4+20
+180 79325
+8 8 1
+1 0 11 10 10 11 10 10
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4822
+mob leader militiaman elmpatris~
+a militia patrol leader~
+The leader of one of the militia patrols is standing here.
+~
+This is one of the men responsible for coordinating the rest of the militia
+and ensuring they do not slack in their duty, nor abuse their authority.
+He is a rugged looking man wearing the standard orange and grey uniform of
+the city militia.
+~
+520 1 136249361 0 0 S
+31 12 2 100d29+2200 3d9+20
+350 188888
+8 8 1
+1 0 11 12 11 11 8 7
+ATTACK_SKILL=75
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4823
+mob militiaman off-duty elmpatris~
+an off-duty militiaman~
+An off-duty militiaman is here getting some R and R.
+~
+This member of the militia has finished for the day and is now free to make
+the most of the city's facilities.  He is still dressed in the uniform,
+although it is a lot looser now.
+~
+8 1 136249361 0 0 S
+17 23 27 9d11+200 3d4+15
+40 4945
+8 8 1
+1 0 11 12 11 9 10 6
+#4824
+mob lookout soldier elmpatris~
+a soldier~
+A soldier is here watching the ocean for invaders.
+~
+He is a healthy, strong looking man who has trained for months to be ready to
+defend his city from invaders.  He is dressed in the standard leather 
+uniform of the city's army.
+~
+522 1 136249361 0 0 S
+27 15 14 75d19+1500 4d7+14
+194 80000
+8 8 1
+1 0 12 12 9 10 9 6
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4825
+mob soldier off-duty elmpatris~
+an off-duty soldier~
+An off-duty soldier is here enjoying his free time.
+~
+This rugged soldier is here to enjoy the short period of recreation granted
+to the member of the army.  He is still wearing his uniform and looks ready
+for action.
+~
+8 1 136249361 0 0 S
+23 17 21 80d19+1000 3d4+15
+120 66000
+8 8 1
+1 0 11 11 9 10 7 7
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4826
+mob prostitute elmpatris~
+a prostitute~
+A prostitute is here, waiting to make some money.
+~
+She is standing here, half hidden by the huge dress she is wearing that
+pushes her cleavage upward and the thick layer of makeup she has applied to 
+her face.  She looks as if she has been in this business a while.
+~
+8 1 136249361 0 0 S
+11 28 25 10d10+76 3d4+5
+5 2800
+8 8 2
+1 0 12 10 11 9 8 9
+#4827
+mob man customer elmpatris~
+a man~
+A man is standing here looking nervous.
+~
+This nervous looking businessman is here bringing his business to Elysah.
+He is shifting around and is definately uncomfortable with your presence.
+~
+8 1 136249361 0 0 S
+15 25 29 15d10+135 6d4+5
+30 4635
+8 8 1
+1 0 11 13 11 9 8 7
+#4828
+mob priest pageoran~
+a Pageoran priest~
+A priest of the church of Pageoran is here, rejoicing.
+~
+The priest is a medium built man with a very ugly face.  He is wearing a 
+long white robe that reaches down to his ankles, and appears to have sandles
+on his feet.  He smiles as you look at him, and you can only wonder how he
+could have been induced into a cult such as this.
+~
+10 1 136249361 0 0 S
+25 15 18 100d9+1500 3d4+15
+125 74845
+8 8 1
+1 0 11 10 9 9 7 9
+ATTACK_SKILL=75
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4829
+mob believer pageoran~
+a Pageoran follower~
+A member of the Church of Pageoran is here, awaiting his paradise.
+~
+He is wearing the standard clerical robes of the church, a long white gown
+which covers all the way down to his ankles.  He seems to walk around with a
+slight hunch, which makes him look shorter than he probably is, and he seems
+to be looking down, trying to avoid eye contact with anybody.
+~
+8 1 136249361 0 0 S
+18 22 26 10d12+225 1d8+20
+25 5333
+8 8 1
+1 0 11 10 11 11 8 7
+#4830
+mob priest Aodhfidiahnn~
+a priest of Aodhfidiahnn~
+The priest of Aodhfidiahnn is standing here.
+~
+The priest of Aodhfidiahnn is one of the poorest souls in the city.  Having
+given every penny he has earned to help pay for the feeding of the lost dogs
+of the city.  He is wearing a ragged brown robe that only reaches down as far
+as his knees, but he looks strangely happy in his faith.
+~
+8 1 136249361 0 0 S
+26 15 16 50d69+0 3d4+18
+0 88000
+8 8 1
+1 0 11 11 11 10 8 8
+ATTACK_SKILL=75
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4831
+mob follower Aodhfidiahnn~
+an Aodhfidiahnn believer~
+A disciple of the Cult of Aodhfidiahnn is standing here.
+~
+This follower of the cult of Aodhfidiahnn is much like all the others.  He 
+looks a mess due to having given away every penny on taking care of the dogs
+and he smells.  His clothes are old, ragged and simple, much like the man
+himself.
+~
+10 1 136249361 0 0 S
+18 22 26 15d15+200 1d8+20
+20 9000
+8 8 1
+1 0 12 12 9 10 9 6
+#4832
+mob follower Aodhfidiahnn~
+an Aodhfidiahnn believer~
+A disciple of the Cult of Aodhfidiahnn is standing here.
+~
+This follower of the cult of Aodhfidiahnn is much like all the others.  He 
+looks a mess due to having given away every penny on taking care of the dogs
+and he smells.  His clothes are old, ragged and simple, much like the man
+himself.
+~
+8 1 136249361 0 0 S
+18 22 26 15d15+200 1d8+20
+20 9000
+8 8 2
+1 0 12 11 9 11 10 6
+#4833
+mob innkeeper muskovan~
+an innkeeper~
+A burly looking innkeeper is here, serving drinks.
+~
+The innkeeper is a rough, aged man who has spent his life tending the needs of
+Elmpatris' drinkers.  He has huge forearms and looks as if he could easily
+crush your head between them.
+~
+262154 1 136249361 0 0 S
+30 13 5 50d19+3000 3d3+40
+400 160000
+8 8 1
+1 0 12 10 9 10 10 7
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4834
+mob sailor drunken~
+a drunken sailor~
+A sailor is wobbling around here merrily.
+~
+The drunken sailor is falling around all over the place.  The life on the
+ocean waves teaches a man two things; how to drink and how to fight, and this
+man is ready to do both.
+~
+8 1 136249361 0 0 S
+27 15 14 75d39+700 3d4+21
+90 80300
+8 8 1
+1 0 11 10 9 10 10 9
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4835
+mob citizen drunken~
+a drunken citizen~
+A citizen of Elmpatris is here, enjoying a local watering hole.
+~
+This middle aged man is trying to enjoy a good drink with his friends, and
+probably the company of a local wench or two if the opportunity should
+arise.
+~
+8 1 136249361 0 0 S
+16 24 28 40d10+25 6d4+5
+38 4777
+8 8 1
+1 0 11 13 10 11 7 6
+#4836
+mob innkeeper waterfront~
+an innkeeper~
+A fairly upstanding looking barkeeper is standing here.
+~
+He is dressed in a very smart and impecably clean black suit.  He looks to be
+a wealthy and well groomed man, and speaks with perfect intonation.
+~
+10 1 136249361 0 0 S
+35 3 -22 70d49+2600 3d4+28
+820 207000
+8 8 1
+1 0 11 11 9 10 7 8
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#4837
+mob gentleman elmpatris~
+a gentleman~
+A gentleman of Elmpatris is here, enjoying a quiet drink.
+~
+A man of about fourty, he is a very smart and eligible batchelor enjoying the
+hospitality of the city's best inn.  His clothes are smart and his posture
+perfect.
+~
+8 1 136249361 0 0 S
+25 15 18 70d29+1000 3d4+15
+220 73989
+8 8 1
+1 0 12 11 11 9 7 7
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4838
+mob gentleman older elmpatris~
+an older gentleman~
+An aging gentleman is drinking quietly here.
+~
+This old man is dressed in an expensive grey suit and looks to be a little on
+the plump side.  He has made plenty of money in his life, and is now looking
+forward to retirement in this bustling town.
+~
+8 1 136249361 0 0 S
+13 26 31 10d19+65 6d4+0
+13 3600
+8 8 1
+1 0 11 10 10 9 8 10
+#4839
+mob sailor~
+a sailor~
+A sailor is busily working away here.
+~
+This is a sailor from on board one of the many ships that pass through the
+port every week.  He is dressed in thick, tough clothing that helps to enhance
+the rugged appearance of the man.
+~
+262152 1 136249361 0 0 S
+30 13 5 1000d5+0 3d5+33
+270 175000
+8 8 1
+1 0 11 12 9 9 9 6
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4840
+mob sailor~
+a sailor~
+A sailor is standing here.
+~
+This is a sailor from on board one of the many ships that pass through the
+port every week.  He is dressed in thick, tough clothing that helps to enhance
+the rugged appearance of the man.
+~
+262152 1 136249361 0 0 S
+30 13 5 1000d5+0 3d5+33
+280 175000
+8 8 1
+1 0 11 11 11 11 9 9
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4841
+mob man citizen Elmpatris~
+a citizen~
+A small man is here, going about his business.
+~
+He is a small, busy looking man who looks to be in his late twenties.  He is
+hurrying along nosedown, probably on the business of his employer.
+~
+8 1 136249361 0 0 S
+10 29 34 4d10+85 4d4+2
+8 2500
+8 8 1
+1 0 11 12 9 9 7 9
+#4842
+mob man citizen Elmpatris~
+a citizen~
+A man is here, going about his business.
+~
+You see a middle aged man about 5'9".  His clothes are undramatic, and his
+posture nonaggressive.  He does not look much of a fighter, and you imagine
+he has a horrid little job in a small cramped office somewhere.
+~
+8 1 136249361 0 0 S
+10 29 34 6d10+85 4d4+2
+8 2700
+8 8 1
+1 0 12 13 10 9 7 9
+#4843
+mob woman citizen Elmpatris~
+a citizen~
+A woman walks around here.
+~
+You see a wrinkled old lady, about 5'2" tall.  She is stumbling along mumbling
+something about the good old days.  She looks like an easy kill.
+~
+8 1 136249361 0 0 S
+10 29 34 6d10+85 4d4+2
+8 2900
+8 8 1
+1 0 11 12 9 10 8 8
+#4844
+mob woman citizen Elmpatris~
+a citizen~
+A woman is here, going about her business.
+~
+She looks to be in her mid twenties, but hard work has born it's toll on her
+youthful looks.  She is dressed simply, perfectly suiting the lifestyle she
+leads here.
+~
+8 1 136249361 0 0 S
+10 29 34 7d10+85 4d4+3
+8 3100
+8 8 1
+1 0 11 11 9 11 9 10
+#4845
+mob trader market~
+a market trader~
+A trader is here, plying his wares.
+~
+This small man is standing here talking frantically to the people milling around
+near him as he tries to persuade anybody to buy his wares.  He is dressed in
+a large number of overlapping layers that all appear to merge into one
+strange multi-coloured dress.
+~
+10 1 136249361 0 0 S
+20 20 24 50d13+1300 3d2+28
+60 60920
+8 8 1
+1 0 12 12 10 9 8 10
+#4846
+mob trader market~
+a market trader~
+A trader is here, ready to sell you anything.
+~
+The trader is standing here holding out items in the faces of the passing 
+people, as if it will appear more of a bargain the closer he gets.  His 
+clothes are simple but warm and he does not look as if he has made a huge
+fortune in his business.
+~
+10 1 136249361 0 0 S
+20 20 24 50d15+1100 3d2+28
+55 59250
+8 8 1
+1 0 12 10 10 11 9 10
+#4847
+mob trader market~
+a market trader~
+A market trader is here, looking for somebody to sell to.
+~
+This young man is wandering around here looking for travellers and rich young
+men trying to impress young ladies, who usually are more willing to exchange
+money for useless bric-a-brac.  His clothes are old and worn, and his face
+quite dirty.
+~
+8 32769 136249361 0 0 S
+10 29 34 4d10+100 4d4+1
+8 2865
+8 8 1
+1 0 11 11 10 9 10 10
+SKILL=SKILL_STEAL 50
+#4848
+mob man pickpocket~
+a citizen~
+A man walks around here.
+~
+You see a middle aged man about 5'9".  His clothes are undramatic, and his
+posture nonaggressive.  He does not look much of a fighter, and you imagine
+he has a horrid little job in a small cramped office somewhere.
+~
+8 294913 136249361 0 0 S
+10 29 34 4d10+85 3d4+4
+7 29025
+8 8 1
+1 0 12 13 9 22 8 9
+SKILL=SKILL_STEAL 99
+#4849
+mob footpad~
+a footpad~
+A footpad prowls around here.
+~
+You see a small, nasty looking man who seems to have a fixed snarl on his face.
+He is covered in grime, and probably has rarely seen the daylight, preferring
+to wait here and entrap anybody silly enough to walk past.
+~
+57354 32769 136249361 1048576 0 S
+15 25 29 10d9+175 3d3+15
+31 4635
+8 8 1
+1 0 12 11 9 10 10 8
+SKILL=SKILL_BACKSTAB 99
+#4850
+mob youth~
+a youth~
+A bored youth is here looking for some excitement.
+~
+This bored looking young man is probably out for trouble.  He is wandering
+around, and just spends his days loitering and watching for opportunities to
+make a few easy coins.
+~
+8 1 136249361 0 0 S
+5 32 37 3d10+20 2d2+4
+3 160
+8 8 1
+0 0 12 12 10 10 7 9
+#4851
+mob worker dock~
+a dock worker~
+A dock worker moves busily around.
+~
+You see a stout, sturdy man well used to the hard labour of moving cargo around
+on the docks.  His arms are as thick as a normal man's waist, and his neck
+is thicker than his head.  He has shaved his hair off, probably to avoid
+an accident and you can see he has a large number of scars all over.
+~
+8 1 136249361 0 0 S
+22 18 22 85d19+1000 3d4+30
+100 67435
+8 8 1
+1 0 11 11 10 11 7 9
+#4852
+mob Falinor Trathar shopkeeper~
+Falinor Trathar~
+Falinor Trathar the weapons seller is standing here.
+~
+Falinor is a fairly average looking man in his mid-fourties.  He has slightly
+more wrinkles on his face than you might expect, but his clothes look quite
+smart and by the looks of his hands, he only trades in weapons, he does not
+make them himself.
+~
+10 1 136249361 0 0 S
+27 15 14 47d12+2000 4d8+5
+230 80000
+8 8 1
+1 0 11 12 10 9 10 10
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4853
+mob militiaman off-duty elmpatris~
+an off-duty militiaman~
+An off-duty militiaman is here getting some R and R.
+~
+This member of the militia has finished for the day and is now free to make
+the most of the city's facilities.  He is still dressed in the uniform,
+although it is a lot looser now.
+~
+8 1 136249361 0 0 S
+17 23 27 9d1+200 3d4+15
+40 4945
+8 8 0
+1 0 11 12 11 9 10 6
+#4854
+mob soldier off-duty elmpatris~
+an off-duty soldier~
+An off-duty soldier is here enjoying his free time.
+~
+This rugged soldier is here to enjoy the short period of recreation granted
+to the member of the army.  He is still wearing his uniform and looks ready
+for action.
+~
+8 1 136249361 0 0 S
+23 17 21 80d1+1000 3d4+15
+120 66000
+8 8 0
+1 0 11 11 9 10 7 7
+#4855
+mob sailor drunken~
+a drunken sailor~
+A sailor is wobbling around here merrily.
+~
+The drunken sailor is falling around all over the place.  The life on the
+ocean waves teaches a man two things; how to drink and how to fight, and this
+man is ready to do both.
+~
+8 1 136249361 0 0 S
+27 15 14 75d1+700 3d4+21
+90 80300
+8 8 0
+1 0 11 10 9 10 10 9
+#4856
+mob citizen drunken~
+a drunken citizen~
+A citizen of Elmpatris is here, enjoying a local watering hole.
+~
+This middle aged man is trying to enjoy a good drink with his friends, and
+probably the company of a local wench or two if the opportunity should
+arise.
+~
+8 1 136249361 0 0 S
+16 24 28 40d1+25 6d4+5
+38 4777
+8 8 0
+1 0 11 13 10 11 7 6
+#4857
+mob man citizen elmpatris~
+a citizen~
+A small man is here, going about his business.
+~
+He is a small, busy looking man who looks to be in his late twenties.  He is
+hurrying along nosedown, probably on the business of his employer.
+~
+8 1 136249361 0 0 S
+10 29 34 4d1+85 4d4+2
+8 2500
+8 8 0
+1 0 11 12 9 9 7 9
+$~
+#999999

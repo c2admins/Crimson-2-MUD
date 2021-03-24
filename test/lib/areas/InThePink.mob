@@ -1,0 +1,907 @@
+#15800
+mob Hillary~
+Hillary~
+The goddess Hillary has been waiting for you to arrive.
+~
+The goddess Hillary is the most beautiful woman you have ever seen, and as you look at her you fall in love.
+She is dressed all in white and her hair flows down her back.  As you look into her eyes, you feel very peaceful
+and a warm glow fills your body.
+
+~
+604241994 4194305 136249393 262144 1000 S
+49 20 -40 1d1+1590 5d6+1
+5500000 2500000
+8 8 2
+1 2 22 22 22 22 22 22
+ATTACK_SKILL=66
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#15801
+mob apocalypse~
+a time-worn comet~
+a time-worn comet moves about its orbit
+~
+
+The comets on this path are very old and show their scars and burns
+from long-ago collisions and near-misses on their way around a star.
+~
+72 32769 136249361 0 200 S
+25 15 17 1d1+2010 1d1+44
+1600 77500
+8 8 0
+35 6 17 24 21 23 14 14
+SKILL=SPELL_HEAL_MINOR 75
+#15802
+mob death horseman~
+&WD&we&Ka&wt&Wh&n, the fourth horseman of the &KApocalypse&n~
+&KYou see the shadowy figure of &WD&we&Ka&wt&Wh&K mounted atop a &wpale horse&n
+~
+&w"&K...And when he had opened the fourth seal, I heard the voice of the
+fourth beast say, Come and see.
+
+And I looked, and behold a &wpale horse&K: and his name that sat on
+him was Death, and Hell followed with him.  And power was given
+unto them over the fourth part of the earth, to kill with sword, and
+with hunger, and with death, and with the beasts of the earth.&w"
+&n
+~
+101781528 1409025 136249361 1008738492 0 S
+50 -10 -40 1d1+80000 50d25+100
+5000000 2000000
+8 8 0
+0 0 25 25 25 25 25 13
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_CREMATION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=45
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#15803
+mob dominik hasek~
+&KDo&wmi&Kni&wk Ha&Kse&wk&n~
+&RDo&rmi&Rni&rk Ha&Rse&rk&w, the 2002 &RR&re&Rd&WWi&wn&Wgs &wgoaltender&n.
+~
+You gaze upon the legendary Czech goalie, Dominik Hasek.
+
+Looking directly back at you, an odd smirk appears on his face.
+"Let's play."
+
+~
+134222348 299009 136249361 69206656 0 S
+50 -5 -40 1d1+1 100d20+100
+5000000 2500000
+8 8 1
+11 4 24 18 18 20 23 17
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_DETECT_INVISIBLE 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_SLEEP 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_HASTE 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_SILENCE 99
+SKILL=SKILL_RAGE 99
+SKILL=SPELL_HEMMORAGE 99
+SKILL=SKILL_ESCAPE 99
+SKILL=SKILL_PEEK 99
+ATTACK_SKILL=99
+ATTACK_SKILL=45
+ATTACK_SKILL=25
+ATTACK_TYPE=103
+ATTACK_SKILL=1
+ATTACK_SKILL=45
+ATTACK_SKILL=55
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#15804
+mob famine horseman~
+&GF&ga&ymi&Kne&n, the third horseman of the &KApocalypse&n~
+&wYou see the emaciated figure of &GF&ga&ymi&Kne&w mounted atop a &Kblack horse
+~
+&K"&w...And when he had opened the third seal, I heard the third beast say,
+Come and see.  And I beheld, and lo a &Kblack horse&w; and he that sat
+on him had a pair of balances in his hand.
+
+And I heard a voice in the midst of the four beasts say, A measure of
+wheat for a penny, and three measures of barley for a penny; and
+see thou hurt not the oil and the wine.&K"
+&n
+~
+101781512 1409025 136249361 1008738492 0 S
+50 -5 -40 1d1+75000 50d25+50
+5000000 2000000
+8 8 0
+0 0 20 25 25 20 20 15
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_CREMATION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=55
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=45
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15805
+mob orion constellation~
+&wOr&Wi&won, the &Kf&wall&Ken Con&wste&Wl&wlat&Kion&n~
+&wOr&Wi&won, the &Kf&wall&Ken &KCon&wste&Wl&wlat&Kion&n, casually stands here.
+~
+
+You walk over to Orion and give him a good look.  His strength and skill are
+legendary, as well as his temper.  He is the hunter and the dark Avatar.
+Smiling, he'll let you have the first hit.
+You get the first hit, remember...but no more than that.
+~
+8392712 36865 136249361 69206144 -1000 S
+45 0 -32 1d1+1 2d10+40
+25005 1000500
+8 8 1
+5 4 25 16 16 16 24 20
+SKILL=SPELL_FIREBALL 65
+SKILL=SKILL_KICK 85
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 60
+SKILL=SKILL_FOURTH 50
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_TELEPORT_SELF 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+#15806
+mob conquest horseman~
+&WCon&wqu&West&w, the first horseman of the &KApocalypse&n~
+&KYou see the imposing figure of &WCon&wqu&West&K mounted atop a &Wwhite horse&n
+~
+&w"&K...And I saw when the Lamb opened one of the seals, and I heard, as it
+were the noise of thunder, one of the four beasts saying, Come and see.
+
+And I saw, and behold a &Wwhite horse&K: and he that sat on him had a
+bow; and a crown was given unto him: and he went forth conquering,
+and to conquer.&w"
+&n
+~
+101781512 1409025 136249361 1006641340 0 S
+50 -5 -40 1d1+65000 50d25+50
+5000000 2000000
+8 8 0
+0 0 20 25 25 20 20 15
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_CREMATION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=55
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=45
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15807
+mob darius zechariah~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 17 16 15 15 15
+#15808
+mob war horseman~
+&RW&ra&Rr&w, the second horseman of the &KApocalypse&n~
+&wYou see the bloodied figure of &RW&ra&Rr&w mounted atop a &Rred horse&n
+~
+&w"&K...And when he had opened the second seal, I heard the second beast
+say, Come and see.
+
+And there went out another &rhorse that was red&K: and power was
+given to him that sat thereon to take peace from the earth, and that
+they should kill one another: and there was given unto him a great sword.&w"
+&n
+~
+101781512 1409025 136249361 1006641340 0 S
+50 -5 -40 1d1+70000 50d25+50
+5000000 2000000
+8 8 0
+0 0 20 25 25 20 20 15
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_CREMATION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=55
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=45
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#15809
+mob loss lord~
+&KLord &RL&ro&Rss&n~
+The Crone has arrived to announce the rule of darkness and wish you a happy Samhain.
+~
+It is the last harvest before the snows. The night is at once the end, and the beginning.
+It is outside of time.
+The Crone is to be celebrated. It is a day of divination, and a time of the dead.
+~
+1141239886 6324225 203358257 33816718 -700 S
+48 0 -25 100d1+40000 50d3+60
+42000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15810
+mob halloween horned hunter~
+the Horned Hunter~
+Like a winter storm, the Horned Hunter arrives with the darkness.
+~
+The days grow darker and longer. Winter storms sweep in from the north.
+This time is the bearer of destructive forces. It is time to give way
+to the strength and the power of the Horned Hunter.
+~
+1141239886 6324225 203358257 33816718 -700 S
+48 0 -25 100d1+40000 50d3+60
+42000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15811
+mob halloween black cat kitty~
+a black kitten~
+A cute little cuddly black kitten blinks sleepily.
+~
+This adorably little black fluffball has been feared for many a generation.
+She looks not at all like anything frightening or scary. With barely a thought
+she hisses loudly, sharp teeth gleaming in the moonlight.
+Her claws extend, bloodied and pointed, and you think twice about reaching 
+down to pet her.
+~
+335806472 134250497 136249361 554697390 900 S
+48 0 -40 100d1+70000 15d15+50
+1000000 2000000
+8 8 2
+16 4 22 23 21 22 22 22
+SKILL=SPELL_ARMOR 90
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_FLY 99
+#15812
+mob valentine schwimmer reinhardt~
+&YDr. Reinhardt Schwimmer&n~
+Optometrist Reinhardt Schwimmer stands here trying to look tough.
+~
+The eye doctor guy isn't so tough.
+Just likes to pal around with gangsters. But, unlucky him, he picked the wrong crowd. On the wrong day.
+~
+262158 32769 136249361 100663432 1000 S
+48 15 0 100d1+80000 20d10+40
+1000000 1750000
+8 8 1
+0 4 21 23 19 19 19 19
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 75
+SKILL=SPELL_DEMON_FLESH 99
+#15813
+mob al weinshank valentines~
+&YAl Weinshank&n~
+Al Weinshank stands here chatting with his friends.
+~
+Just hanging out with his 1929 "homies", just chillin, and getting blasted.
+~
+278542 32769 136249361 100663432 0 S
+48 0 -15 100d1+80000 20d10+40
+1000000 1750000
+8 8 1
+0 4 21 23 19 19 19 19
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 75
+SKILL=SPELL_DEMON_FLESH 99
+#15814
+mob adam heyer valentine~
+&YAdam Heyer&n~
+Adam Heyer is just sitting around, waiting for something to happen.
+~
+It's Valentine's Day morning, and this guy is just hanging out in a warehouse.
+What a social calendar.
+~
+1141198926 4227073 203358257 33816718 0 S
+48 0 -20 100d1+40000 50d2+60
+2500000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15815
+mob james clark valentine~
+&YJames Clark&n~
+James Clark anxiously waits for his brother-in-law to arrive.
+~
+This guy is the brother-in-law to the head boss man, Bugs.
+It's a family gig ya know.
+~
+1141198926 4227073 203358257 33816718 0 S
+48 0 -20 100d1+40000 45d3+35
+3000000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15816
+mob frank gusenberg valentine~
+&YFrank Gusenberg&n~
+Frank Gusenberg patiently waits to go pick up the smuggled whiskey.
+~
+Waiting around with his brother, Frank managed to be the only
+person remaining in the warehouse that was still breathing.
+With 22 bullet wounds, he claimed, 
+"No one-- nobody shot me."
+He died a short time later.
+~
+1141198926 4227073 203358257 33816718 0 S
+48 0 -30 100d1+40000 50d3+60
+1500000 2000000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15817
+mob pete gusenberg valentine~
+&YPete Gusenberg&n~
+Pete Gusenberg is ready to go pick up some whiskey.
+~
+Just waiting to go pick up some smuggled Canadian whiskey. 
+~
+1141198926 4227073 203358257 33816718 0 S
+48 0 -10 100d1+40000 50d3+0
+2500000 2000000
+8 8 1
+0 2 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15818
+mob johnny may valentine~
+&YJohnny May&n~
+Ex-safe cracker, Johnny May is here fiddling with automobile parts.
+~
+Formerly a safe cracker, this new mechanic really ought to be
+at a garage and not in a warehouse.
+~
+1141198926 4227073 203358257 33816718 0 S
+48 10 -5 100d1+40000 50d3+60
+2500000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15819
+mob bugs george moran valentine~
+&yBugs Moran&n~
+George "Bugs" Moran arrives late for his morning meeting.
+~
+Big time gangster, alcohol smuggler, chicken shit that ran away from a cop car
+and managed to escape the massacre. He lived to say,
+"Only Al Capone kills guys like that!"
+~
+41948942 1 136249361 536870914 -450 S
+48 7 -25 1d1+100499 30d12+13
+3000000 2000000
+8 8 1
+0 0 23 21 20 21 22 5
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SPELL_BIND_SOULS 99
+#15820
+mob willie marks valentine~
+&yWillie Marks&n~
+Willie Marks, shows up with pal, Bugs.
+~
+Showed up with Bugs, late, to the meeting, and bailed out.
+Saved his neck it did.
+~
+41948942 1 136249361 536870914 -250 S
+48 10 -20 1d1+95000 30d10+5
+1500000 2000000
+8 8 1
+0 0 23 21 20 21 22 5
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SPELL_BIND_SOULS 99
+#15821
+mob ted newberry valentine~
+&yTed Newberry&n~
+Ted Newberry shows up at the warehouse and flees.
+~
+Upon arriving to the meeting with Bugs, and Willie, they spot the car.
+Hearing machine gun fire from inside, they flee.
+~
+41948942 1 136249361 536870914 -250 S
+48 15 -10 1d1+90000 25d10+5
+1000000 2000000
+8 8 1
+0 0 23 21 20 21 22 5
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SPELL_BIND_SOULS 99
+#15822
+mob al capone valentine~
+&CAl Capone&n~
+*THE* Boss, Al Capone.
+~
+Oh wow, he really does look like De Niro.
+~
+45217566 1 136249361 536870914 -1000 S
+48 0 -40 1d1+100499 30d12+13
+5000000 2000000
+8 8 1
+7 0 23 21 20 21 22 5
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SPELL_BIND_SOULS 99
+#15823
+mob jack machine gun mcgurn valentine~
+&CJack "&cMachin Gun&C" McGurn&n~
+Jack McGurn checks into a hotel with his lovely girlfriend.
+~
+Most likely mastermind behind the massacre, no one knows
+for sure if he was an actual gunman or not. He married his
+alibi so she couldn't testify against him. Great guy.
+~
+45176606 1 136249361 536870914 -1000 S
+48 5 -25 1d1+100000 28d10+10
+1000000 2000000
+8 8 1
+7 4 23 21 20 21 22 5
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SPELL_BIND_SOULS 99
+#15824
+mob louise rolfe valentine~
+&cLouise Rolfe&n~
+Louise Rolfe, the blonde alibi, stands here admiring her gift.
+~
+She was allegedly shacked up in a hotel with Jack McGurn during the
+murders. They married not too long after. Some suspect so she wouldn't
+be able to testify against him.
+~
+335544328 134250497 136249361 554697390 900 S
+48 10 -15 100d1+70000 15d13+30
+1000000 2000000
+8 8 2
+1 2 22 23 21 22 22 22
+SKILL=SPELL_ARMOR 90
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_FLY 99
+#15825
+mob fred killer burke valentine~
+&CFred "&cKiller&C" Burke&n~
+Suspected Massacre gunman, Fred "Killer" Burke, looks you over.
+~
+Typical mob thug looking guy. He has earned his nickname.
+~
+1141239886 6324225 203358257 33816718 -700 S
+48 0 -25 100d1+40000 50d3+60
+1500000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15826
+mob james ray valentine~
+&CJames Ray&n~
+James Ray stands here appraising the situation.
+~
+Typical mob thug.
+~
+1141239886 6324225 203358257 33816718 -700 S
+48 0 -25 100d1+40000 50d3+60
+1000000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15827
+mob john scalise valentine~
+&CJohn Scalise&n~
+John Scalise watches all out of the corner of his eye.
+~
+Typical mob thug.
+~
+1141239886 4227073 203358257 33816718 -700 S
+48 5 -20 100d1+40000 50d3+60
+1000000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15828
+mob albert anselmi valentine~
+&CAlbert Anselmi&n~
+Albert Anselmi looks at you with a watchful eye.
+~
+Typical mob thug.
+~
+1141239886 4227073 203358257 33816718 -700 S
+48 5 -20 100d1+40000 50d3+60
+1000000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15829
+mob tony joe batters accardo valentine~
+&CTony "&cJoe Batters&C" Accardo&n~
+Tony Accardo looks tensed, ready to pounce.
+~
+Typical mob thug.
+~
+1141239886 4227073 203358257 33816718 -700 S
+48 5 -20 100d1+40000 50d3+60
+1000000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15830
+mob george shotgun ziegler valentine~
+&CGeorge "&cShotgun&C" Ziegler&n~
+George Ziegler is here cleaning his shotgun.
+~
+Typical mob thug.
+~
+319498 32769 136249393 136 -1000 S
+43 1 -28 100d1+7875 5d9+45
+1000000 1500000
+8 8 1
+0 0 21 20 20 19 19 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SKILL_RAGE 75
+#15831
+mob claude maddox valentine~
+&CClaude Maddox&n~
+Claude Maddox is waiting for orders.
+~
+Typical mob thug.
+~
+1141239886 4227073 203358257 33816718 -700 S
+48 3 -20 100d1+40000 50d3+60
+1000000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15832
+mob gus winkler valentine~
+&CGus Winkler&n~
+Gus Winkler talks shop with his mobster friends.
+~
+Typical mob thug.
+~
+1141239886 6324225 203358257 33816718 -700 S
+48 3 -20 100d1+40000 50d3+60
+1000000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15833
+mob crane neck nugent valentine~
+&C"&cCrane Neck&C" Nugent&n~
+"Crane Neck" Nugent watches for the time to make him move.
+~
+Typical mob thug.
+~
+1141239886 6324225 203358257 33816718 -700 S
+48 3 -20 100d1+40000 50d3+60
+1000000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+$~
+#999999

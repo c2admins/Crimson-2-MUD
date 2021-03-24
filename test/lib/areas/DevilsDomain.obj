@@ -1,0 +1,928 @@
+#20050
+obj soulravage bloody dagger~
+1
+&GS&go&wul&Krav&wag&ge&Gs &Rb&rloo&Rd&w covered &Kdagger&n~
+A dagger covered in blood is laying on the ground.~
+~
+5 155189268 0 8193
+0 7 8 11
+4 350000 357000
+A
+18 4
+A
+12 -25
+A
+13 -25
+#20051
+obj Soulravages Skull~
+2
+&ySou&Klra&yvag&Kes sk&yull&n ~
+&wA glowing &ysk&Ku&yll &wfloats before you.&n~
+~
+1 4194817 0 65537
+0 0 10 0
+3 150000 5
+A
+19 3
+A
+18 2
+#20052
+obj Devouring deeps scale~
+5
+&KD&we&Kv&wo&Ku&wr&Ki&wn&Kg &wd&Ke&we&Kp&ws &Ks&wc&Ka&wl&Ke&n~
+&wA giagantic scale lies here.&n~
+~
+9 37748740 0 513
+35 0 0 0
+20 5 5
+A
+19 2
+A
+18 3
+A
+12 -15
+#20053
+obj dagger dark priests dagger~
+2
+&KThe Dark Priests dagger&n~
+&wA large dagger is laying here.&n~
+~
+5 88083202 0 8193
+49216 3 12 11
+6 150000 5
+A
+19 1
+A
+18 3
+A
+14 -15
+A
+13 -15
+#20054
+obj hammer Dwarven hammer~
+2
+&YD&yw&Ya&yr&Yv&ye&Yn &yh&Ya&ym&Ym&ye&Yr &wof the gods&n~
+&WA hammer of great might seems to float in mid air.&n~
+~
+5 20974849 0 8193
+262144 11 6 6
+15 250000 250000
+A
+19 5
+A
+18 2
+#20055
+obj sash dark priests sash~
+2
+&wa &Kdark &rp&Rr&ri&Re&rs&Rt&rs &ws&Ka&ws&Kh&n~
+&wYou notice a sash clouded in darkness on the ground.&n~
+~
+15 88128004 393216 2049
+500 0 0 0
+30 5750000 5
+A
+19 3
+A
+18 2
+A
+17 -25
+A
+13 10
+#20056
+obj Soulravages battle dress~
+1
+&KSoulravages &Kbattle &Kdress&n~
+&wA suit of armor is laying on the ground.&n~
+~
+15 104860164 0 1025
+500 0 0 0
+75 350000 350000
+A
+19 4
+A
+18 2
+A
+17 -55
+A
+12 -20
+#20057
+obj guards maul~
+8
+&KGuards &wM&Wa&Wu&wl&n~
+&KA rather large maul is laying on the ground.&n~
+~
+5 4194304 0 8193
+1 5 10 6
+15 10000 10000
+A
+18 3
+#20058
+obj axe stone battle axe~
+4
+&KA stone battle &pa&Px&pe&n~
+&KA stone battle &pa&Px&pe &Klies here.&n~
+~
+5 37748736 0 8193
+65 13 5 3
+15 15000 15000
+A
+19 6
+A
+18 2
+A
+13 -20
+#20059
+obj Priests Robe~
+6
+&wA &CPr&Wi&Ce&Ws&Cts &Wrobe&n~
+&wA long robe with a &rred &wsymbol of &rchaos &won it lies here.&n~
+~
+9 2097152 0 1025
+30 0 0 0
+1 5 5
+A
+12 25
+A
+18 2
+A
+19 2
+#20060
+obj spiked tail fin~
+1
+&wA &WS&wp&Wi&wk&We&wd &Kt&wa&Ki&wl &Kf&wi&Kn&n~
+&wA &WS&wp&Wi&wk&We&wd &Kt&wa&Ki&wl &Kf&wi&Kn&W smells of fish.&n~
+~
+9 4194304 0 262145
+90 0 0 0
+9 90000 90000
+A
+19 8
+A
+18 6
+A
+41 2
+A
+12 -40
+#20061
+obj Letter A ledger~
+32767
+Letter A ledger~
+Letter A ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+E
+letter A~
+the letter A appears on this ledger
+~
+#20062
+obj Letter B ledger~
+32767
+Letter B ledger~
+Letter B ledger lies on the ground.~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20063
+obj Letter C ledger~
+32767
+Letter C ledger~
+Letter C ledger lies on the ground.~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20064
+obj Letter D ledger~
+32767
+Letter D ledger~
+Letter D ledger lies on the ground.~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20065
+obj Letter E ledger~
+32767
+Letter E ledger~
+Letter E ledger lies on the ground.~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20066
+obj Letter F ledger~
+32767
+Letter F ledger~
+Letter F ledger lies in the ground.~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20067
+obj Letter G ledger~
+32767
+Letter G ledger~
+Letter G ledger lies in the ground.~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20068
+obj Letter H ledger~
+32767
+Letter H ledger~
+Letter H ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20069
+obj Letter I ledger~
+32767
+Letter I ledger~
+Letter I ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20070
+obj Letter J ledger~
+32767
+Letter J ledger~
+Letter J ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20071
+obj Letter K ledger~
+32767
+Letter K ledger~
+Letter K ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20072
+obj Letter L ledger~
+32767
+Letter L ledger~
+Letter L ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20073
+obj Letter M ledger~
+32767
+Letter M ledger~
+Letter M ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20074
+obj Letter N ledger~
+32767
+Letter N ledger~
+Letter N ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20075
+obj Letter O ledger~
+32767
+Letter O ledger~
+Letter O ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20076
+obj Letter P ledger~
+32767
+Letter P ledger~
+Letter P ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20077
+obj Letter Q ledger~
+32767
+Letter Q ledger~
+Letter Q ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20078
+obj Letter R ledger~
+32767
+Letter R ledger~
+Letter R ledger~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#20079
+obj dwarven arm plates~
+1
+&YD&yw&Ya&yr&Yv&ye&Yn &Warm plates&n~
+&WA pair of &Ygolden &Warm plates have been discarded here.&n~
+~
+9 20995072 131200 257
+10 0 0 0
+1 5 5
+A
+19 1
+A
+40 2
+A
+18 3
+#20080
+obj jardak battle dress~
+1
+&YJardaks &Wbattledress&n~
+&WSomeone has left a battledress behind.&n~
+~
+9 21003264 131200 1025
+25 0 0 0
+15 15000 55000
+A
+19 2
+A
+18 2
+A
+40 2
+#20081
+obj jardak boots~
+1
+&YBoots &Wof &YJ&ya&Yr&yd&Ya&yk&n~
+&WSome &Ymagnificent&W boots seem to have been left behind.&n~
+~
+9 21003264 131200 65
+10 0 0 0
+5 25000 35000
+A
+18 1
+A
+40 1
+A
+25 1
+A
+13 10
+#20082
+obj dwarven girdle might~
+1
+&YD&yw&Ya&yr&Yv&ye&Yn &Wgirdle of &YMight&n~
+&WSomeone has misplaced a very valuable girdle here.&n~
+~
+9 21003264 131200 2049
+15 0 0 0
+5 50000 60000
+A
+19 2
+A
+18 4
+A
+40 1
+A
+12 -15
+#20083
+obj dwarven bracer power~
+1
+&YD&yw&Ya&yr&Yv&ye&Yn &Wbracer of &YPower&n~
+&WSomeone has misplaced a valuable looking bracer here.&n~
+~
+9 21003264 132224 4097
+15 0 0 0
+1 20000 20000
+A
+19 1
+A
+18 2
+A
+40 2
+A
+12 -10
+#20084
+obj golden bracer might~
+1
+&YG&yo&Yl&yd&Ye&yn &Wbracer of &YMight&n~
+&WYou notice a bracer forged out of &Yg&yo&Yl&yd&W at your feet.&n~
+~
+9 21003520 132224 4097
+20 0 0 0
+1 20000 20000
+A
+19 1
+A
+18 1
+A
+40 2
+#20085
+obj shield reorx~
+1
+&YS&yh&Yi&ye&Yl&yd &Yo&yf &YR&ye&Yo&yr&Yx&n~
+&WA finely crafted shield has been misplaced by it owner.&n~
+~
+9 21003265 131200 513
+30 0 0 0
+10 15000 25000
+A
+19 2
+A
+18 2
+A
+40 1
+#20086
+obj fallen helm paladins~
+1
+&KF&wa&Kl&wl&Ke&wn &yP&Ka&yl&Ka&yd&Ki&yn&Ks &wHelm&n~
+&wA &Rblood stained &whelm lays on the ground before you.&n~
+~
+9 4196868 0 17
+25 0 0 0
+4 40000 40000
+A
+19 4
+A
+18 1
+A
+36 -1
+A
+12 -10
+#20087
+obj Stone Giants greaves~
+4
+&wS&Kt&wo&Kn&we &Kg&wi&Ka&wn&Kt&ws &Pg&pr&Pe&pa&Pv&pe&Ps&n~
+&wA pair of &Pg&pr&Pe&pa&Pv&pe&Ps &wcrafted out of stone are laying on the ground.&n~
+~
+9 37779968 131204 33
+50 0 0 0
+1 5 5
+A
+19 2
+A
+18 3
+A
+12 -15
+#20088
+obj Dagger of blinding Speed~
+99
+&cD&Ca&cg&Cg&ce&Cr &co&Cf &cb&Cl&ci&Cn&cd&Ci&cn&Cg &cS&Cp&ce&Ce&cd&n~
+A glorious dagger rests here.~
+~
+5 4456448 0 24577
+3072 5 12 11
+1 5 5
+A
+19 5
+A
+40 2
+A
+18 2
+A
+41 2
+#20089
+obj Dragon amulet VERY AND I MEAN VERY HARD QUEST PRIZE~
+1
+&rD&Rr&ra&Rg&ro&Rn &wAmulet&n~
+&wAn amulet shaped into the form of a dragon has been discarded here.&n~
+~
+9 138674180 512 1029
+50 0 0 0
+10 5 5
+A
+40 50
+A
+41 50
+A
+25 3
+A
+23 -20
+#20090
+obj Boots of blinding speed quest~
+25
+&cB&Co&co&Ct&cs &Co&cf &Cb&cl&ci&Cn&cd&Ci&cn&Cg &cs&Cp&ce&Ce&cd&n~
+A pair of boots lie on the ground.~
+~
+9 138674176 0 65
+30 0 0 0
+1 5 5
+A
+18 4
+A
+19 4
+A
+41 2
+A
+25 2
+#20091
+obj Gauntlets of godly might quest~
+25
+&cG&Ca&cu&Cn&ct&Cl&ce&Ct&cs &Co&cf &Cg&co&Cd&cl&Cy &cm&Ci&cg&Ch&ct&n~
+A pair of gauntlets encrusted with jewels lay on the ground.~
+~
+9 134480129 0 129
+25 0 0 0
+1 5 5
+A
+40 3
+A
+19 5
+A
+18 5
+A
+41 3
+#20092
+obj Platemail of the Dead quest~
+3
+&KPlatemail of the Dead&n~
+A suit of black platemail lies on the ground.~
+~
+9 138674188 0 9
+85 0 0 0
+25 5 5
+A
+19 4
+A
+18 1
+A
+32 1
+A
+13 20
+#20093
+obj emerald obj cloak green quest1~
+100
+&GA &ge&Gme&gr&Ga&gl&Gd &gg&Gr&ge&Ge&gn &Gc&gl&Go&ga&Gk&g&n~
+&wA &Ggreen &wcloak lays in a heap on the ground.&n~
+~
+9 134480129 0 5
+30 0 0 0
+1 5 5
+A
+19 3
+A
+18 2
+A
+41 2
+A
+40 2
+#20094
+obj Skull of the dead quest~
+4
+&rblood covered skull helm&n~
+A bloody skull lies on the ground.~
+~
+9 138674180 0 17
+30 0 0 0
+1 5 5
+A
+19 5
+A
+18 2
+A
+36 1
+A
+12 0
+#20095
+obj Grunger's spiked greaves~
+1
+&YG&yr&Yu&yn&Yg&ye&Yr&y'&Ys &ys&Yp&yi&Yk&ye&Yd &yg&Yr&ye&Ya&yv&Ye&ys&n~
+&WA pair of battered &Yg&yr&Ye&ya&Yv&ye&Ys&W lay on the ground.&n~
+~
+9 20983808 131072 33
+0 0 0 0
+10 5 5
+A
+19 3
+A
+18 2
+A
+13 20
+A
+12 20
+#20096
+obj quest green destiny sword~
+5
+&w0&y#####&w[&KXXXXXXX&GG&green Destin&Gy&KXXXXX>&n~
+&GT&gh&Ge &GG&gr&Ge&ge&Gn &gD&Ge&gs&Gt&gi&Gn&gy &wsword is laying on the ground.&n~
+~
+5 262154 0 24577
+8413192 8 10 3
+5 15000000 15000000
+A
+19 5
+A
+18 3
+A
+41 1
+A
+17 -15
+#20097
+obj Li Mu Bai's Robe quest~
+1
+&WLi Mu Bai's &yRobe&n~
+A crumpled up robe lays on the ground in a heap.~
+~
+9 541327368 0 9
+95 0 0 0
+6 1500000 1500000
+A
+19 4
+A
+18 4
+A
+12 50
+A
+13 100
+#20098
+obj unholy avenger~
+1
+&KThe &KU&wn&Kh&wo&Kl&wy &rA&Rv&re&Rn&rg&Re&rr&n~
+&wA &Rblood&w stained sword has been discarded on the ground.&n~
+~
+5 138443268 0 8193
+8393752 8 5 3
+15 5 5
+A
+18 3
+A
+13 -20
+#20099
+obj quest Ancient manual of the Taoist~
+3
+&WA&wncen&Wt &ymanual &Wof the &yT&waois&yt&n~
+A dust covered book lays on the ground.~
+~
+9 138674176 0 16385
+35 0 0 0
+1 5 5
+A
+19 5
+A
+40 2
+A
+18 5
+A
+41 2
+#20100
+obj jade bo staff~
+1
+jade bo staff~
+A jade bo staff lays on the ground.~
+~
+5 138412552 4 8193
+17 9 8 7
+7 700000 700000
+A
+19 4
+A
+18 3
+A
+18 0
+#20101
+obj quest Axe of Death~
+1
+&KA&rx&Ke &ro&Kf &rD&Ke&ra&Kt&rh&n~
+A bloody rune covered axe lays on the ground.~
+~
+5 138674176 0 8193
+3105 4 10 6
+10 150000 150000
+A
+19 4
+A
+18 3
+A
+32 -1
+#20102
+obj quest Spiked shield~
+5
+&KSpiked &ws&Kh&wi&Ke&wl&Kd&n~
+&wA large shield covered in spikes lays on the ground.&n~
+~
+9 138674176 0 513
+100 0 0 0
+1 5 5
+A
+19 4
+A
+18 2
+#20103
+obj quest talisman of death~
+5
+&KTalisman of death&n~
+A talisman clouded in darkness levitates before you.~
+~
+9 134479892 0 5
+35 0 0 0
+1 150000 150000
+A
+19 4
+A
+18 2
+#20104
+obj Soulravages bloody dagger~
+1
+&RSoulravages bloody dagger&n~
+A dagger covered in blood is laying on the ground.~
+~
+5 155189312 0 8193
+6152 4 9 11
+4 5 5
+A
+19 1
+A
+18 3
+A
+13 -20
+#20105
+obj Soulravages battle dress~
+1
+&KSoulravages &Kbattle &Kdress&n~
+&wA suit of armor is laying on the ground.&n~
+~
+15 88128004 393216 1025
+500 0 0 0
+75 350000 350000
+A
+19 4
+A
+41 1
+A
+17 -50
+A
+18 1
+#20106
+obj spiked tail fin~
+1
+&wA Spiked &Kt&wa&Ki&wl &Kf&wi&Kn&n~
+&wA Spiked &Kt&wa&Ki&wl &Kf&wi&Kn&w smells of fish.&n~
+~
+9 4194304 0 262145
+90 0 0 0
+9 90000 90000
+A
+19 8
+A
+18 5
+A
+25 1
+A
+13 -50
+#20107
+obj Sash Dark Priests~
+2
+&wa &Kdark &rp&Rr&ri&Re&rs&Rt&rs &Ks&wa&Ks&wh&n~
+&wYou notice a sash clouded in darkness on the ground.&n~
+~
+15 4194820 0 2049
+500 0 0 0
+1 5 5
+A
+19 4
+A
+17 -15
+#20108
+obj dwarven platemail gods~
+1
+&YD&yw&Ya&yr&Yv&ye&Yn &yp&Yl&ya&Yt&ye&Ym&ya&Yi&yl&w of the gods&n~
+&YD&yw&Ya&yr&Yv&ye&Yn &yp&Yl&ya&Yt&ye&Ym&ya&Yi&yl&w &wlays on the ground.&n~
+~
+15 20984833 131072 9
+350 0 0 0
+20 10000 50000
+A
+19 4
+A
+18 2
+A
+13 25
+A
+17 -25
+#20109
+obj horn blasting~
+1
+&YH&yo&Yr&yn &Yo&yf &Yb&yl&Ya&ys&Yt&yi&Yn&yg&n~
+&WA magnificient &Yh&yo&Yr&yn &Wfloats before you.&n~
+~
+9 21003265 131200 16385
+20 0 0 0
+4 15000 25000
+A
+19 6
+A
+18 3
+A
+13 -15
+#20110
+obj ring reorx~
+1
+&YR&yi&Yn&yg &Yo&yf &YR&ye&Yo&yr&Yx&n~
+&YR&yi&Yn&yg &Yo&yf &YR&ye&Yo&yr&Yx&n &Wglows with a &Ybright light.&n~
+~
+9 21003265 131200 3
+10 0 0 0
+1 15000 25000
+E
+ring~
+  &wIn the palm of your hand you hold a &Yring&w crafted of the &yearth&w. Legend
+says that this ring once belonged to great dwarf God &YR&ye&Yo&yr&Yx&w. It is said
+that this ring grants it wearer godly might and great prowess in battle.&n
+~
+A
+19 2
+A
+18 2
+A
+13 15
+A
+40 1
+#20111
+obj Dwarven gauntlets of might~
+1
+&YD&yw&Ya&yr&Yv&ye&Yn &yg&Ya&yu&Yn&yt&Yl&ye&Yt&ys &Yo&yf &Ym&yi&Yg&yh&Yt&n~
+&YD&yw&Ya&yr&Yv&ye&Yn &yg&Ya&yu&Yn&yt&Yl&ye&Yt&ys &Yo&yf &Ym&yi&Yg&yh&Yt&W lay on the ground.&n~
+~
+9 20984832 131072 129
+20 0 0 0
+5 15000 25000
+A
+19 3
+A
+18 1
+A
+40 1
+A
+12 -20
+#20112
+obj amulet reorx~
+1
+&YA&ym&Yu&yl&Ye&yt &Yo&yf &YR&ye&Yo&yr&Yx&n~
+&YA&ym&Yu&yl&Ye&yt &Yo&yf &YR&ye&Yo&yr&Yx&W levitates in front of you.&n~
+~
+9 20982784 0 5
+20 0 0 0
+1 15000 15000
+A
+19 3
+A
+18 1
+A
+40 1
+#20113
+obj helm reorx~
+1
+&YH&ye&Yl&ym &Yo&yf &YR&ye&Yo&yr&Yx&n~
+&YH&ye&Yl&ym &Yo&yf &YR&ye&Yo&yr&Yx&W lays on the ground.&n~
+~
+9 20986880 131072 17
+20 0 0 0
+4 15000 25000
+A
+19 4
+A
+18 2
+A
+36 -1
+#20114
+obj staff reorx~
+1
+&YS&yt&Ya&yf&Yf &yo&Yf &yR&Ye&yo&Yr&yx&n~
+&WA staff lays on the ground.&n~
+~
+1 20986880 131072 65537
+0 0 99999 0
+3 15000 25000
+A
+19 2
+A
+18 2
+A
+40 1
+A
+13 10
+#20115
+obj Tooth deep~
+1
+&wT&Ko&wo&Kt&wh &Ko&wf &Kt&wh&Ke &wd&We&we&Wp&n~
+&wT&Ko&wo&Kt&wh &Ko&wf &Kt&wh&Ke &wd&We&we&Wp&w lays on the ground.&n~
+~
+5 4198400 0 8193
+36928 5 8 11
+3 10000 12000
+A
+19 2
+A
+18 1
+A
+12 -20
+$~
+#999999

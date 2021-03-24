@@ -1,0 +1,227 @@
+#2300
+mob lizardman numidian~
+a lizardman~
+A fearsome looking lizardman is crouched here looking at you.
+~
+He is a large humanoid creature, about 6-7 feet tall, but with the head of a
+lizard, green skin and a long thick tail.  His skin is very rough and scaly,
+and he has vicious looking claws on his hands.
+~
+57416 1 136249361 33554432 -100 S
+25 15 18 11d19+2000 3d3+10
+8000 77500
+8 8 0
+0 0 17 17 15 17 14 15
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#2301
+mob snake swamp numidian~
+a swamp snake~
+A long swamp snake is here.
+~
+It is about 4-5 feet long and swims through the swamp with great ease and
+speed.
+~
+16900168 1 136249361 1572864 0 S
+4 33 37 20d5+60 3d1+2
+0 150
+8 8 0
+0 0 12 12 12 11 10 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2302
+mob troll numidian~
+a troll~
+A huge ugly troll is wading through the swamp.
+~
+He looks very troll-like: huge, green and very very ugly.  He is wearing a
+small loin-cloth, that does little to cover anything... much to you bad luck.
+~
+57420 1 136249361 0 -200 S
+30 13 5 20d19+3000 5d5+15
+20000 185000
+8 8 0
+10 0 19 17 18 16 16 13
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#2303
+mob ghost vanir iarndar~
+a strange ghost~
+A strange, tortured looking ghost is drifting here.
+~
+You can almost see through this ghost to the dead forest behind.  It is clad
+in what appear to be the aged remains of quite fine clothing.
+~
+33816650 1 136249361 0 -200 S
+45 0 -25 100d79+27000 50d5+40
+900000 940000
+8 8 0
+0 0 22 24 21 21 18 19
+ATTACK_SKILL=90
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#2304
+mob wisp will-o~
+a will-o wisp~
+Will-o wisp
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+72 1 136249361 524288 0 S
+1 35 39 5d3+8 1d1+1
+100 45
+8 8 0
+0 0 12 12 9 9 9 9
+#2305
+mob lizard swamp numidian~
+a large lizard~
+A long brown lizard is here looking for food.
+~
+It is a large brown lizard, about 5 feet long from it's head to the tip of 
+it's tail.  It has a dangerous looking snarl on it's face and it seems to
+be tasting the air with it's tongue... perhaps it has detected you!
+~
+16834632 1 136249361 524288 0 S
+13 26 31 7d19+110 5d3+5
+0 4000
+8 8 0
+0 0 14 15 12 12 12 9
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2306
+mob plant swamp numidian~
+the poisonous plant~
+A huge green plant is floating in the swamp here.
+~
+This large, dark green plant is floating in the swamp-water with it's long
+green tentacles floating out in all directions over the surface of the water.
+It looks very unspectactular, seeming to have no flowers, buds, leaves or
+anything of that nature.
+~
+319560 1 136249361 0 0 S
+20 20 24 57d19+1000 5d5+15
+0 65000
+8 8 0
+0 0 17 16 14 15 15 12
+#2307
+mob plant swamp numidian~
+the poisonous plant~
+A huge green plant is floating in the swamp here.
+~
+This huge, dark green plant is floating in the swamp-water with it's long
+green tentacles floating out up to 10 feet away in all directions over the
+surface of the water.  It looks very unspectactular, seeming to have no
+flowers, buds, leaves or anything of that nature.
+~
+319562 1 136249361 0 0 S
+20 20 24 58d19+1000 5d3+20
+0 64000
+8 8 0
+0 0 17 15 15 16 13 12
+#2308
+mob bullfrog frog swamp~
+a bullfrog~
+A large bloated bull-frog is sitting here cheerily.
+~
+You are staring at a big fat frog.  It must weight as much as a child... it
+certainly looks like it could eat one!
+~
+16777288 1 136249361 0 -100 S
+8 30 35 5d5+35 3d3+3
+0 275
+8 8 0
+0 0 14 15 11 11 9 10
+#2309
+mob crow numidian~
+a crow~
+A crow is here sitting on a dead branch.
+~
+This large black bird looks back at you through it's a small beady black eye
+on the side of it's head.  It does not appear to be afraid of you, but
+rather just stands here watching you carefully.
+~
+1048648 32769 136249361 1572864 -250 S
+3 34 38 5d5+10 3d2+0
+250 100
+8 8 0
+0 0 12 12 9 11 9 9
+SKILL=SKILL_STEAL 16
+#2310
+mob tree undead swamp~
+an undead tree~
+A horrendous animated dead tree is standing here on it's roots.
+~
+You see before you a horrific creature.  It was perhaps once a treeman, or
+perhaps it was only an ordinary tree, but it has long ago died and is now
+animated as undead, roaming this island for whatever reason.  It stands about
+15 feet high on it's wide rotting roots, and leaves a trail made up from 
+fragments of wood behind it on the ground.
+~
+33816648 1 136249361 1572864 -900 S
+38 5 -18 70d19+8000 5d3+2
+120000 230000
+8 8 0
+0 0 21 19 20 20 17 17
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+#2311
+mob tree undead swamp~
+an undead tree~
+A horrendous animated dead tree is standing here on it's roots.
+~
+You see before you a horrific creature.  It was perhaps once a treeman, or 
+perhaps it was only an ordinary tree, but it has long ago died and is now
+animated as undead, roaming this island for whatever reason.  It stands about
+15 feet high on it's wide rotting roots, and leaves a trail made up from
+fragments of wood behind it on the ground.
+~
+33873992 1 136249361 1572864 -900 S
+38 5 -18 70d19+8000 5d3+2
+120000 230000
+8 8 0
+0 0 21 21 19 20 18 15
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+#2312
+mob rat swamp numidian~
+a rat~
+A small dirty rat is here looking for food.
+~
+It is a small filthy rat.  It seems to be scratching around for food.
+~
+16777288 1 136249361 524288 -100 S
+4 33 37 5d5+15 2d3+1
+250 135
+8 8 0
+0 0 13 14 10 10 11 9
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+$~
+#999999

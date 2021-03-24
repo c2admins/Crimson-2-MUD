@@ -2,7 +2,7 @@
 &k`&n~
 
 ~
-82 269484545 0 47 99 1
+64 268435969 0 47 99 1
 D1
 The Quiet Den of RW
 ~
@@ -15,7 +15,7 @@ This part of the forest seems to have a more peaceful quality than the
 forest surrounding it.  You sense a friendlier atomsphere as you turn to
 smile at your companions.  There is a small sign hanging on a tree here.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D1
 exit east
 ~
@@ -42,7 +42,7 @@ of you to the west.  Birds are singing like you've never heard them sing
 before, and a fox runs across your path, disappearing into the brush.
 A section of the path breaks away and leads north.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 The path continues.
 ~
@@ -66,7 +66,7 @@ and many small trails branch out from the main path you are following.  A
 big hint that intelligent creatures live here is the large hole carved 
 through the bottom of the ancient oak tree to the west.
 ~
-82 4 0 1 99 3
+64 0 0 1 99 3
 D1
 The serene forest grows to the east.
 ~
@@ -84,7 +84,7 @@ You are standing inside a tunnel that has been carved through an ancient
 oak tree.  You see what appears to be a primitive village to the west.  
 Guards stand under the tree, to serve and protect the innocent.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D1
 The serene forest is east.
 ~
@@ -103,7 +103,7 @@ pointy hats.  The people seem to run around not paying much attention to
 anything, even running into each other every once and a while.  Several 
 hollowed out trees line the courtyard.
 ~
-82 4 0 1 99 3
+64 4 0 1 99 3
 D0
 The village courtyard is north.
 ~
@@ -131,7 +131,7 @@ To the south is a tiny home fashioned from a hollowed out tree.  It is
 possible for you to enter, though not without discomfort.  The opening
 is covered with an intricately woven blanket.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 The courtyard is north.
 ~
@@ -154,7 +154,7 @@ Another of the tiny homes is to the south.  You notice that no two of the
 blankets covering the entrances to the homes are the same, and you think
 that the individual families take great pride in their blanket design.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 The village courtyard is north.
 ~
@@ -183,7 +183,7 @@ people scurry all about, trying to avoid trouble with you.  There are
 homes to the north and south, a larger tree to the west, and the exit 
 to the east.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 The village courtyard is north.
 ~
@@ -211,7 +211,7 @@ You stand before the residence of one of the gnomish families.  The
 entrance is covered by a carefully designed blanket, depicting a harvest
 and a festival.  
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 A gnomish home is north.
 ~
@@ -234,7 +234,7 @@ A gnomish house is to the north, standing in simplicity in the guise of a
 tree.  The blanket that covers the entrance to this house depicts grapes,
 wheat, and a bottle.  
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 A Gnomish house is north.
 ~
@@ -263,7 +263,7 @@ is before you to the west.  The tree has a royal aura about it, and the
 royal guards you see just inside give you the hint that this might be 
 where the village's leader resides.
 ~
-82 4 0 1 99 3
+64 4 0 1 99 3
 D0
 The village courtyard is north.
 ~
@@ -290,7 +290,7 @@ The Village Courtyard~
 Another of the gnomish houses is to the north.  A rank odor comes from 
 the west, though it is quickly diffused by the pristine environment.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 A gnomish house is north.
 ~
@@ -319,7 +319,7 @@ residential trees that you are used to seeing.  There is a sign above
 the swinging doors written in the common language of the realms.  It says,
 "Green Leaf Cafe".
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 The village courtyard is north.
 ~
@@ -346,7 +346,7 @@ The Outhouse~
 You are in a tiny outhouse.  For being little, these people pack a powerful
 punch!  Must be their diet.  There is a moon on the door.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D1
 The village courtyard is east.
 ~
@@ -358,7 +358,7 @@ An Outhouse~
 You are in an miniature outhouse.  It would be very uncomfortable for
 you to try to use these facilities.  There is a sun on the door.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D1
 The village courtyard is east.
 ~
@@ -371,7 +371,7 @@ You have entered a small but comfortable home.  A gnomish family lounges
 in here, but rouse themselves with your surprise entrance.  You see another
 room to the north.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D0
 Another room of the house is north.
 ~
@@ -388,7 +388,7 @@ Gnomish House~
 This is the kitchen and common room of the house.  Various miniature 
 common articles lie around.  Nothing particularly catches your eye.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D2
 Another room of the house is south.
 ~
@@ -401,7 +401,7 @@ You have entered the front room of a gnomish house.  On the wall you see
 a collection of various kinds of corkscrews and devices for opening 
 bottles.  You see another room to the north.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D0
 Another room of the house is north.
 ~
@@ -420,7 +420,7 @@ room also contains a workbench with several metal working tools on it.
 You see some devices similar to those hanging on the wall in the 
 previous room.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D2
 Another room of the house is south.
 ~
@@ -433,7 +433,7 @@ You have entered the barracks of the Gnome Village.  The village guards
 are obviously proud of their building - the floors are spotless, the bunks
 and lockers are clean and orderly, the air has a fresh pine scent.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D0
 Another room of the house is north.
 ~
@@ -451,7 +451,7 @@ You have entered the barracks of the Gnome Village.  The village guards
 are obviously proud of their building - the floors are spotless, the bunks
 and lockers are clean and orderly, the air has a fresh pine scent.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D2
 Another room of the house is south.
 ~
@@ -464,7 +464,7 @@ You have just stepped into the royal tree.  Guards flank you in order to
 protect their leader.  They flash you mistrustful glances as you pass by
 them.  A hall continues west.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D1
 The village courtyard is east.
 ~
@@ -483,7 +483,7 @@ on either side of you.  You notice that all of the portraits seem to be of
 the same person.  You see the throne room to the north and a private
 chamber to the south.
 ~
-82 12 0 1 99 0
+64 12 0 1 99 0
 D0
 The throne room is north.
 ~
@@ -511,7 +511,7 @@ You see old King Grenlitstone here, playing with his long beard and
 pointy hat as he sits on his throne and rules the village.  He stares at you
 with mild interest as you approach.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D2
 A hallway is south.
 ~
@@ -524,7 +524,7 @@ This is the residence of the folk hero of the village.  He tips his pointy
 cap at you as you enter, and flashes you a mischievious grin.  You notice 
 several original inventions lying around the room
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D0
 A hallway is north.
 ~
@@ -537,7 +537,7 @@ This appears to be a modest bar of sorts.  The stout barkeeper looks
 like he could hold his own in a fight, as well as behind a bar.  A few patrons
 stare at you uneasily.
 ~
-82 1073741836 0 1 99 0
+64 1073741836 0 1 99 0
 D0
 The village courtyard is north.
 ~
@@ -555,7 +555,7 @@ This house is in relative disarray.  You see the reason for this as
 two rowdy children run past you and out the door, waving their pointy
 hats at you.  Dissheveled parents look at you expectantly.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D0
 The village courtyard is north.
 ~
@@ -573,7 +573,7 @@ The kitchen area in this house is in even a bigger mess than the living
 area.  A pot containing strange O-shaped pasta in red sauce has been 
 overturned, leaving a mess.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D0
 Another room in the house is north.
 ~
@@ -587,7 +587,7 @@ be in.  Half finished pointy hats lie everywhere, covering the floor and
 making walking treacherous.  None of the pointy hats are completed, so you 
 don't feel inclined to take any.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D0
 The village courtyard is north.
 ~
@@ -605,7 +605,7 @@ The hatter that lives in this house is quite mad, as you would be too if
 you had to make hats for an entire village by yourself.  A pot of brew
 boils on the fire, and you see a broken cask of hearty ale in the corner.
 ~
-82 8 0 1 99 0
+64 8 0 1 99 0
 D0
 Another room in the Gnomish hatter's house is north.
 ~
@@ -618,7 +618,7 @@ These woods are incredibly beautiful.  Birds are singing and you can see the
 bushes twitching from the many small creatures that inhabit this forest.
 The path continues north and south.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 The path continues.
 ~
@@ -636,7 +636,7 @@ These woods are incredibly beautiful.  Birds are singing and you can see the
 bushes twitching from the many small creatures that inhabit this forest.
 The path continues north and south.
 ~
-82 0 0 1 99 3
+64 0 0 1 99 3
 D0
 ~
 A mystical forest.~
@@ -653,12 +653,12 @@ You are in a secret room above the Royal Tree.  Hidden away from the
 rest of the royal gnomish family, you see the true King in the corner
 of the room.  Though he looks very old, his eyes are still keen.
 ~
-82 12 0 1 99 0
+64 12 0 1 99 0
 D5
 Back to the Royal Tree.
 ~
-~
-0 -1 8373
+secret~
+1 0 8373
 S
 #8384
 Off-Duty Hangout~
@@ -668,7 +668,7 @@ drinking heavily, and you can tell they don't like strangers.
 Maybe you should just back out of the room...
 
 ~
-82 1073741836 0 1 99 0
+64 1073741836 0 1 99 0
 D1
 Back to the Cafe.
 ~

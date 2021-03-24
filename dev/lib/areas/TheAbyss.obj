@@ -1,0 +1,721 @@
+#2400
+obj sword jagged~
+100
+&wa &rjagged &Kbladed &wsword&n~
+A long rusty sword is here.~
+~
+5 136315444 0 8193
+0 4 7 3
+15 40000 10000
+A
+19 2
+A
+18 2
+#2401
+obj t-shirt~
+100
+a smiley face t-shirt~
+A shirt lies crumpled on the ground.~
+~
+9 0 0 9
+0 0 10 5
+10 5 1
+#2402
+obj ring decoder~
+100
+a decoder ring~
+A funny looking ring has been droped here.~
+~
+9 0 0 3
+2 0 0 0
+1 5 5
+#2403
+obj slipper furry bunny~
+100
+furry bunny slippers~
+A pair of furry bunny slippers lie here.~
+~
+9 0 0 65
+0 0 10 0
+1 5 1
+#2404
+obj hat baseball~
+100
+a baseball hat~
+A hat is hanging on a nail.~
+~
+9 0 0 17
+0 0 10 0
+1 5 1
+#2405
+obj shorts jeans~
+100
+ripped jean shorts~
+A ratty pair of shorts are laying in a heap.~
+~
+9 0 0 33
+0 0 10 0
+1 5 0
+#2406
+obj sunglasses cheap~
+1
+cheap sunglasses~
+A cheap pair of sunglasses lie in the dirt.~
+~
+9 0 0 17
+0 0 10 0
+1 5 0
+#2407
+obj firestone~
+3
+&Rfire&Kstone&n~
+A very bright stone is filling the room with light.~
+~
+1 138412113 0 65537
+3 0 3 0
+30 155000 96000
+A
+26 -1
+A
+19 3
+A
+18 1
+#2408
+obj orb sinmac~
+1
+&wthe &RSin&rmac &worb&n~
+A large heavy spiked ball is burning a hole in the floor.~
+~
+5 4194324 0 8193
+65536 7 11 6
+20 200000 90000
+A
+18 3
+A
+1 -1
+A
+19 6
+A
+13 -30
+#2409
+obj whip pain~
+25
+&wThe &Kwhip &wof &rpain&n~
+A black whip is coiled on the floor.~
+~
+5 136335364 0 8193
+3 8 4 1
+9 70000 42000
+A
+31 -1
+A
+19 1
+A
+18 3
+#2410
+obj mace ice~
+15
+&wAn &Cice &Kmace&n~
+A very cold mace has been dropped here.~
+~
+5 136356369 0 8193
+131072 5 7 6
+12 50000 32000
+A
+19 2
+A
+18 3
+A
+3 1
+#2411
+obj spike red hot~
+100
+&wa &rred &Rhot &wspike&n~
+A glowing spike of red hot iron is here.~
+~
+25 134479873 0 1
+0 0 10 0
+1 5 5
+#2412
+obj death rod~
+100
+&wa &Kdeath &wrod&n~
+A long rod is leaning against a wall.~
+~
+5 136421379 0 8193
+262144 7 4 5
+15 60100 38000
+A
+3 1
+A
+4 1
+A
+24 -5
+A
+19 3
+#2413
+obj rags black~
+7
+&Kblack &yrags&n~
+Agony has droped her rags here.~
+~
+15 4194320 0 9
+350 0 0 0
+5 50000 45000
+A
+19 2
+A
+12 35
+A
+17 -10
+A
+18 3
+#2414
+obj ship death ferry vehicle~
+1
+The Ship of the Dead~
+The Ship of the Dead.~
+~
+24 8 0 0
+80 80 10 9000
+1 62000 5
+E
+arrival~
+The ship of the dead slides into it's dock.
+~
+#2415
+obj chest dragon's~
+100
+&wdragon's chest&n~
+A large chest is sitting behind the dragon.~
+~
+15 0 0 0
+100 15 2416 0
+1 5 5
+#2416
+obj key dragon's burnt~
+2
+the dragon's key~
+A burnt key is lying in some ash.~
+~
+18 134479880 0 5
+2415 1 0 0
+1 5 5
+#2417
+obj key agony's~
+2
+Agony's key~
+Agony has left her key here.~
+~
+18 134479880 0 5
+0 4 0 0
+1 5 5
+#2418
+obj key big black~
+2
+A big black key~
+A big black key has been left here.~
+~
+18 134479880 0 1
+0 4 0 0
+1 5 5
+#2419
+obj white metal broken~
+2
+a piece of broken white metal~
+Someone has dropped a piece of broken white metal here.~
+~
+12 134479881 0 1
+0 0 10 0
+1 5 5
+#2420
+obj white metal broken~
+2
+a broken piece of white metal~
+Someone has dropped a broken piece of white metal here.~
+~
+12 134479881 0 1
+0 0 10 0
+1 5 5
+#2421
+obj white metal broken~
+2
+a piece of broken white metal~
+Someone has dropped a piece of broken white metal here.~
+~
+12 134479881 0 1
+0 0 10 0
+1 5 5
+#2422
+obj white metal broken~
+2
+a piece of broken white metal~
+Someone has dropped a piece of broken white metal here.~
+~
+12 134479881 0 1
+0 0 10 0
+1 5 5
+#2423
+obj key flagg prison~
+2
+Flagg's prison key~
+A large white key hoovers in the air.~
+~
+18 134479881 0 1
+0 24 0 0
+1 5 5
+#2424
+obj shard glowing~
+15
+&wa &Wglowing &Gsh&Ya&Grd&n~
+A glowing shard of rock is here.~
+~
+1 135266304 0 65537
+0 0 0 0
+1 2000 1000
+A
+26 -1
+A
+27 -1
+#2425
+obj white piece broken metal~
+2
+a broken piece of white metal~
+Someone has dropped a broken piece of white metal.~
+~
+12 134479880 0 1
+0 0 10 0
+1 5 5
+#2426
+obj shroud death~
+30
+&wA &Kdeath shroud&n~
+A shroud is here waiting to cover a body.~
+~
+9 134217876 0 9
+0 0 10 0
+1 0 100000
+A
+1 -5
+A
+5 -5
+A
+2 -5
+A
+3 -5
+#2427
+obj doll misery's~
+15
+&rMisery's &KDoll&n~
+A small ragged doll has been left in the dust.~
+~
+12 135266308 0 16385
+0 0 10 0
+5 69000 55000
+A
+29 -1
+A
+23 -5
+#2428
+obj bracelet barbed wire~
+18
+&wA &Kbarbed wire &wbracelet&n~
+A loop of barbed wire is on the ground.~
+~
+9 135266820 0 4097
+5 0 0 0
+8 45000 40000
+A
+37 -1
+A
+19 2
+#2429
+obj shield dragon's scale~
+7
+&ga &rdragon&R'&rs &gscale&n~
+A dragon's scale has fallen off of it's owner.~
+~
+9 136314880 0 513
+25 0 0 0
+15 87000 30000
+A
+23 -5
+A
+13 10
+A
+19 2
+#2430
+obj helmet skull~
+8
+&wA &Kskull helmet&n~
+There is a large skull on the ground.~
+~
+9 4194304 0 17
+15 0 0 0
+8 75000 50000
+A
+18 -1
+A
+32 -1
+A
+19 4
+A
+12 -15
+#2431
+obj belt black rope~
+25
+&wA &Kblack &yrope &wbelt&n~
+A coil of black rope is on the ground.~
+~
+15 136314896 0 2049
+100 0 0 0
+6 102000 65000
+A
+19 2
+A
+36 -1
+A
+1 4
+A
+17 -20
+#2432
+obj ring lava~
+10
+&wA &Rl&Ya&yv&ra &wring&n~
+A glowing ring of lava is burning the floor.~
+~
+9 4194321 0 3
+15 0 0 0
+3 200200 85999
+A
+19 3
+A
+12 5
+A
+6 -2
+#2433
+obj head shrunken~
+10
+&wA shrunken head&n~
+A very small head is staring at you.~
+~
+9 138412036 0 16385
+20 0 0 0
+1 112000 28000
+A
+12 100
+A
+39 -1
+#2434
+obj gold coins treasure dragon~
+100
+A large pile of coins~
+The dragon's treasure is resting here.~
+~
+20 134217728 0 1
+578901 0 0 0
+1 5 5
+#2435
+obj potion clear~
+40
+A clear potion~
+Someone has left a clear potion here.~
+~
+10 134479873 0 1
+41 2 38 0
+1 5 5
+#2436
+obj scroll demon~
+15
+&wA &Kdemon &wscroll&n~
+A black scroll is on the ground.~
+~
+2 135528452 0 16385
+30 100 100 100
+1 1000 5
+#2437
+obj rabbit corpse~
+100
+A smelly rabbit corpse~
+A smelly black rabbits corpse is rotting on the ground.~
+~
+19 134217728 0 1
+10 30 30 30
+1 5 5
+#2438
+obj closet~
+100
+a closet~
+A large closet is against the far wall.~
+~
+15 0 0 0
+100000 0 0 0
+1 5 5
+#2439
+obj book~
+100
+a book~
+A book is the only thing in this room.~
+~
+12 134217728 0 1
+0 0 10 0
+1 5 5
+E
+book~
+HOOKED ON PHONICS
+A can you say A - good I thought you could!
+B can you say B - good I thought you could!
+haha  written by perna
+~
+#2440
+obj robe hooded gargoyle's~
+1
+&wthe &cgargoyle's &Khooded &Wrobe&n~
+A small hooded black robe is waiting to be worn.~
+~
+9 155189248 0 1025
+50 0 0 0
+6 13000 20000
+A
+19 4
+A
+18 2
+A
+13 -15
+A
+12 -15
+#2441
+obj soul flagg's~
+100
+&rFlagg&R'&rs &wsoul&n~
+Flagg's soul is hovering in the air.~
+~
+18 134479872 0 1
+2442 1 0 0
+1 5 5
+#2442
+obj box ladondra's~
+100
+Ladondra's box~
+Ladondra's box is in the center of the room.~
+~
+15 1 0 1
+5000 15 0 0
+150 5 5
+#2443
+obj reward ladondra's~
+100
+Ladondra's reward~
+Ladondra's reward for you lies here.~
+~
+20 134217728 0 1
+5000000 0 0 0
+1 5 5
+#2444
+obj book white~
+100
+a book~
+A white book has been left here.. it glows with a bright white light.~
+~
+12 134479872 0 0
+10000 0 0 0
+10000 5 5
+E
+book white~
+You open the book to the last page...
+
+   As Flagg started to become very powerful the gods sent me to the island
+in order to control him.  Although I was not permitted to kill him, I was
+however allowed to lock him away - which I did.  I enchanted a room on the
+island where he would not be able to escape and would be no harm to anyone.
+I broke the key to prevent his followers from helping him escape, and
+scattered the pieces across the island.
+   To prove yourself worthy you must give me the pieces and I will restore
+the key.  Good luck on your quest.
+
+                                               - Ladondra
+~
+#2445
+obj key white~
+3
+a white key~
+A white key is in the corner of the room.~
+~
+18 134479880 1024 16385
+0 1 0 0
+1 5 5
+#2446
+obj note~
+100
+note~
+There is a note on the floor.~
+~
+12 134217728 0 0
+0 0 10 0
+1 5 5
+E
+note~
+If you can possibly defeat Flagg bring his soul here and you will be able
+to unlock my box for your reward.
+                                     Ladondra
+~
+#2447
+obj cross ladondra's~
+1
+&WL&wadondr&Wa's &wC&Wros&ws&n~
+A glowing white cross fills the room with light.~
+~
+9 4194561 0 16385
+30 0 0 0
+5 500000 95000
+A
+19 7
+A
+18 3
+A
+37 -1
+#2448
+obj boots leather soft~
+3
+&wsoft &yleather &wboots&n~
+A pair of soft leather boots are sitting here.~
+~
+9 138412036 0 65
+10 0 0 0
+4 157000 80000
+A
+19 3
+A
+2 2
+A
+14 15
+#2449
+obj kris black anrep~
+1
+&wa &Kblack &wkris&n~
+Anrep has dropped his weapon here~
+~
+5 138412036 0 8193
+0 7 8 11
+6 278000 85000
+A
+19 4
+A
+18 3
+#2450
+obj a shot of rumplemintz~
+100
+a shot of rumplemintz~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#2451
+obj pick rod metal~
+2
+a pick~
+A thick metal rod is buried here.~
+~
+18 134479912 0 1
+0 10 0 0
+1 5 5
+#2452
+obj chain ice cubed~
+4
+&wan &Cice&W-&Ccubed&n &wchain&n~
+A chain made of ice cubes lies here on the ground, melting slowly.~
+~
+9 4194304 0 2049
+25 0 0 0
+1 210333 55000
+A
+19 3
+A
+13 -30
+A
+18 3
+#2453
+obj cord enforcement anrep~
+7
+&wthe &Kcord &wof &renforcement&n~
+A long, strongly looking cord lies on the ground.~
+~
+9 4194304 0 5
+20 0 0 0
+1 210333 38500
+A
+19 3
+A
+18 1
+A
+37 -1
+A
+13 -20
+#2454
+obj sinmac orb~
+2
+&wthe &RSin&rmac &worb&n~
+A large heavy spiked ball is burning a hole in the floor.~
+~
+5 2097172 0 8193
+65536 6 10 6
+20 200000 90000
+A
+18 3
+A
+19 6
+A
+13 -30
+#2455
+obj soul flagg's use~
+100
+&rFlagg&R'&rs &wsoul&n~
+Flagg's soul is hovering in the air.~
+~
+18 134479872 0 1
+2456 1 0 0
+1 5 5
+#2456
+obj box ladondra's use~
+100
+Ladondra's box~
+Ladondra's box is in the center of the room.~
+~
+15 262144 0 1
+5000 15 2455 0
+100 5 5
+#2457
+obj cross ladondra's use~
+1
+&WL&wadondr&Wa's &wC&Wros&ws&n~
+A glowing white cross fills the room with light.~
+~
+9 4194561 0 16385
+30 0 0 0
+5 500000 95000
+A
+19 7
+A
+18 3
+A
+37 -1
+#2458
+obj cross ladondra's max~
+1
+&wL&Wadondr&wa's &WC&wros&Ws&n~
+A glowing white cross fills the room with light.~
+~
+9 4194305 0 24577
+0 0 0 0
+5 500000 95000
+A
+19 4
+A
+40 3
+A
+18 3
+A
+41 3
+$~
+#999999

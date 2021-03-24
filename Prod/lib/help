@@ -1,5 +1,56 @@
-﻿#Typing HELP with no arguments will give you a list of things you can get
+#Typing HELP with no arguments will give you a list of things you can get
 help on.
+
+#
+CHANGELOG
+
+Latest Changes as of March 17, 2021
+
+Code changes:
+Class Criticals available at lvl 30 instead of AVAT, see help CLASS_BONUS
+Class Criticals chance increased to ~8%
+Envenom Weapon modified to give Acid Attack instead of Poisonous
+Say Quest to Questmaster for information on in-game EQ quests
+See also: HELP_UPDATE
+
+#
+"HELP UPDATE" HELP_UPDATE"
+
+We receive a report weekly for help requests that do not return a result.
+We try to review these regularly and update the help file to improve access.
+If you have help you are trying to locate please feel free to mudmail, email,
+or contact Immortals on Discord.  
+
+Email: c2admins@gmail.com
+Mudmail: Pythias
+Discord: check crimson2.com for invite link
+
+Below are the updates as of March 17, 2021:
+
+             QUESTS: Added hints to find in-game EQ quests
+     ENVENOM WEAPON: updated with new modification
+        CLASS_BONUS: updated with new modification
+               DICE: can be found with NEWBIE_DICE
+              FORMS: each can be found with "FORM <FORM_NAME> IE: FORM WOLF
+         PICK LOCKS: can be found with "PICKLOCK" "PICK LOCK"
+      AVATAR SPELLS: can be found with "AVATAR SKILLS"
+          SANCTUARY: can be found with "SANCTUARY MAJOR"
+MORDENKAINENS SWORD: can be found with "SPELL 152", 152" "MORDENK SWORD"
+    SKILLS / SPELLS: most skills and spells shoud be able to be found by their
+                     skill #/name or spell #/name
+
+                     Examples: 
+                      help 1                    - should show armor
+                      help spell 2              - should show elsewhere
+                      help skill 46             - should show hide
+                      help skill backstab       - should show backstab
+                      help spell teleview major - should show teleview major
+                      help mordenk              - should show mordenk sword
+                      help rage                 - should show rage
+
+NEW HELP FILES
+            SIZE : has been added and found with NORMAL, LARGE, SMALL
+     AVATAR ZONES: has been added with a list of AVATAR ZONES
 
 #
 AUCTION
@@ -13,6 +64,59 @@ something up for auction or a mob does it.  Do not cry to the
 immortal staff about this.  This is part of the game.&n
 
 See Also: BID
+
+#
+HEALING
+     There are severals was to heal in Crimson 2 MUD. You can heal from normal
+regeneration, meditation, potions, spells, Questmaster and Rahnkara.
+
+Until Lvl 10: You can pray at North of the Temple in Midgaard.
+Until Lvl 20: Nedra in Midgaard, will cast healing and other spells on you.
+ Questmaster: Sells full heals for 50 Questpoints. He is in Midgaard.
+    Rahnkara: Will restore HP, MANA, & MOVE. Located in Temple of T'salchoic.
+     Potions: Check Magic shops in Midgaard and Korum, can be found elsewhere.
+      Spells: Cure Light, Cure Critic, Heal Minor, Heal Medium, Heal Major
+
+#
+SIZE LARGE SMALL NORMAL
+
+Races come in various sizes and some equipment is only useable by a certain 
+size. Equipment can be flagged as any of the following:
+
+SMALLONLY  : Useable by only races that are small
+LARGEONLY  : Useaable by only races that are large
+NORMALONLY : Useable by only races that are medium 
+
+Equipment can be flagged with multiple of these flags. For example:
+
+A weapon flagged as SMALLONLY and NORMALONLY will be useable by races that are
+either normal or small.
+
+#
+CLASSES MAGE THIEF CLERIC WARRIOR BARD PALADIN PRIEST MONK ELDRITCH DRUID
+
+These are the playable classes. For more info use one of the below syntax
+
+help class <classname>
+help class <classnumber>
+
+See Also: RACE, "RESTRICTED CLASSES"
+
+#
+GUILDMASTER GUILD
+
+As a mortal you must vist a guildmaster to practice new skills. You must go
+a Guildhouse to find the guildmaster. Each guild is heavily guarded, so that 
+only members may enter the building. If you are skilled or strong enough to 
+get past a guard then you can access that guild, otherwise your can access
+a guildhouse that allows your class to enter.
+
+   Mage's Guild: MAGE, BARD, DRUID, ELDRITCH KNIGHT
+ Cleric's Guild: CLERIC, BARD, PRIEST, PALADIN, DRUID
+ Thieve's Guild: THIEF, BARD, MONK
+Warrior's Guild: WARRIOR, PRIEST, PALADIN, ELDRITCH KNIGHT, MONK
+
+See Also: SKILLS, PRACTICE, CLASSES
 
 #
 IMMORTAL_ABUSE
@@ -71,7 +175,7 @@ syntax:  disable <command>
 This command will disable a command or spell.  It requires the mud to be
 rebooted in order to be effective.
 
-Note:  This is a DEI+ command.
+Note:  This is a ADMIN command.
 
 #
 BOUNTY
@@ -123,7 +227,7 @@ Stealing from other players in PK is not allowed.  Do not do it.  That
 is all.
 
 #
-SLOTS
+SLOTS BODY FINGER LIGHT_SOURCE NECK HEAD LEGS FEET HANDS ARMS SHIELD ABOUT WAIST WRIST HOLD TAIL
 
 Generally different races have a different number of equipment slots that 
 they can fill.  Generally speaking, of course they are as follows:
@@ -155,7 +259,7 @@ TAIL - Worn on the lower body of Yuan-ti.
 
 
 #
-IQR
+IQR "QUEST RULES"
 
 IQR - Imm Quest Rules (Avatar Quests)
 
@@ -192,17 +296,7 @@ Usage:	wiztitle set <name> <string>	sets the immortals initial wiz-
 	wiztitle show <name>		shows the immortals wiztitles.
 	
 	wiztitles remove <name> <index>	removes a wiztitle from an immortal
-					<index> is found from wiztitle show. 										    
-
-#
-DARKLING
-
-Suggested levels: 20-40.         Align: Varies.
-
-Start off by heading west through the woods next to Midgaard.  Eventually 
-you'll turn south, walking in this direction until you hit the foothills of
-Haon-Dor forest.  Then turn again towards the west to enter the land of the
-darklings.  
+					<index> is found from wiztitle show.    
 
 #
 REIMB_LYING
@@ -497,29 +591,12 @@ Updated_classes
 5.  Bard  (thief)
 6.  Priest  (good cleric)
 7.  Paladin  (good fighter)
-&R8.  Necromancer  (evil mage)
-&R9.  Sorcerer  (evil mage)
-&R10. Elementalist  (mage)
-&R11. Good-Mage  (good mage)
-&R12. Drakhar (evil cleric)
-&R13. Chaos Knight (evil fighter)
-&R14. Ranger (fighter)
-&R15. Assassin (thief)
-&R16. Druid (cleric)
-&R17. Martial Artist (fighter)
-&R18. Enchanter(mage)
-&R19. Magician (mage)
-&R20. Monk (good fighter)
-&R21. Rogue (thief)
-&R22. Shaman (cleric)
-
-
-&RRed&n symbolizes that class is not yet implemented.  These classes
-are being worked on and in need of suggestions/comments from the
-players.
+8.  Druid  (nature mage)
+9.  Eldritch Knight  (mage/fighter)
+10. Monk  (fighter)
 
 #
-"AVATAR SPELLS"
+"AVATAR SPELLS" "AVATAR SKILLS"
 
 The following Spells and skills are available to all avatars. If a
 spell/skill is not listed do not bother practicing it as you will
@@ -538,7 +615,7 @@ contact an IMM.
  25. energy drain         26. fireball             27. harm
  28. dispel magic         29. invisibility         30. lightning bolt
  31. locate object        32. magic missile        33. poison
- 34. protection from      35. remove curse         36. sanctuary
+ 34. protect from evil    35. remove curse         36. sanctuary major
  37. shocking grasp       38. sleep                39. strength
  40. summon               41. ventriloquate        42. word of recall
  43. remove poison        44. sense life           53. identify
@@ -564,20 +641,58 @@ contact an IMM.
 135. charisma            139. portal              140. hemmorage
 142. demon flesh         149. pestilence          150. spirit transfer
 151. bind souls          152. mordenk sword       153. call lightning
-154. fly
+154. fly                 171. detect undead
 
 You can practice any of the following skills:
-   45. sneak                46. hide                 47. steal
-   48. backstab             49. picklock             50. kick
-   51. bash                 52. rescue               56. extra damage
-   57. slashing weap        58. piercing weap        59. bludgeoning w
-   60. parry death blow     61. dodge                62. tougher scale
-   69. second attack        70. third attack         71. fourth attack
-   89. hunt                137. rage                145. meditation
-  146. sense danger        155. escape              156. peek
+ 45. sneak                46. hide                 47. steal
+ 48. backstab             49. picklock             50. kick
+ 51. bash                 52. rescue               56. extra damage
+ 57. slashing weap        58. piercing weap        59. bludgeoning w
+ 60. parry death blow     61. dodge                62. tougher scale
+ 69. second attack        70. third attack         71. fourth attack
+ 89. hunt                137. rage                145. meditation
+146. sense danger        155. escape              156. peek
+220. fifth attack
+
+See also: "UNFINISHED SPELLS"
 
 #
-WOMBLE
+"UNFINISHED SPELLS"
+
+
+The following Spells and skills are incomplete or only available to NPC
+characters. Players should not be able to practice these spells. If a
+spell/skill listed was practiced you will not be able to use it If you 
+notice any spells listed which are practicable, please contact an IMM.
+
+ 72) undetect invis      136) assess           190) charm_animal       
+ 78) spiritual hammer    138) switch           191) switch opponent     
+ 79) turn undead         140) hemmorage        192) acid blast        
+ 82) mana link           141) fear             193) displacement      
+ 86) conflagration       143) din mak          194) summon elemental  
+ 91) knock               144) tsugiashi        195) shockwave          
+ 96) teleview minor      147) berserk          196) gust               
+ 97) teleview major      149) pestilence       197) granite fist      
+ 99) dreamsight          150) spirit transfer  198) prayer             
+110) block summon        157) deathshadow      199) elemental shield   
+112) animate dead        174) earthmaw         200) circle attack     
+113) black burst         176) treewalk         201) taunt              
+114) cremation           181) forage           202) charge             
+115) mortice flame       182) create spring    205) lifetap            
+119) divine retribution  183) leviathan        206) enchant armor      
+124) irresitable dance   184) meteor swarm     208) sanctuary minor    
+125) wizard lock         186) tsunami          209) sanctuary medium   
+128) grangorns curse     187) tornado          213) sleep immunity    
+129) clawed hands        188) landslide        216) track              
+189) stab                219) purge magic       
+
+Some of these have help files but most do not. Help files will be made
+once the spell is complete and known to work.
+
+See Also: "AVATAR SPELLS"
+
+#
+WOMBLE "FORM WOMBLE"
 
   Transforming into a womble has the following advantages/disadvantages:
 
@@ -588,10 +703,10 @@ WOMBLE
   -  5 Damroll
   +  5 Hitroll
 
-  Duration: 10 ticks
+  Duration: 25 ticks
 
 #
-MONKEY
+MONKEY "FORM MONKEY"
 
   Transforming into a Monkey has the following advantages:
 
@@ -602,7 +717,7 @@ MONKEY
   Duration: 10 ticks
 
 #
-NINJA
+NINJA "FORM NINJA"
 
   Transforming into a Ninja has the following advantages:
 
@@ -616,10 +731,10 @@ NINJA
   Your kick will be calculated at the full 100% damage rate
   in comparison to the regular version of kick.
   
-  Duration: 15 ticks
+  Duration: 25 ticks
 
 #
-WOLF
+WOLF "FORM WOLF"
 
   Transforming into a wolf has the following advantages:
 
@@ -643,10 +758,10 @@ Ac greater than 0:
   +30  Hitroll
   +1   Extra attack
 
-  Duration: 15 ticks
+  Duration: 25 ticks
 
 #
-BEAR
+BEAR "FORM BEAR"
 
   Transforming into a bear has the following advantages:
 
@@ -671,7 +786,7 @@ Ac greater than 0:
   Duration: 20 ticks
 
 #
-MANTICORE
+MANTICORE "FORM MANTICORE"
 
   Transforming into a manticore has the following advantages:
 
@@ -683,10 +798,10 @@ MANTICORE
 
   Also adds REGENERATION,SENSE LIFE and FLY.
 
-  Duration: 15 ticks
+  Duration: 25 ticks
 
 #
-COW
+COW "FORM COW"
 
    Transforming into a cow has the following advantages
 
@@ -700,9 +815,13 @@ COW
    -10 saving spell
    +5 Damage Roll
    +5 Hitroll
-   -1 Fly
+
+   Also adds FLY.
+
+   Duration: 25 ticks
+
 #
-CHIMERA
+CHIMERA "FORM CHIMERA"
 
   Transforming into a chimera has the following advantages:
 
@@ -717,10 +836,10 @@ CHIMERA
 
   Also adds FLY and BREATH_FIRE.
 
-  Duration: 20 ticks
+  Duration: 25 ticks
 
 #
-FORMS
+FORMS TRANSFORMS
 
   The following forms are available:
 
@@ -735,7 +854,7 @@ FORMS
   Womble
 
 #
-DRAGON
+DRAGON "FORM DRAGON"
 
   Transforming into a dragon has the following advantages:
 
@@ -766,7 +885,7 @@ Ac higher than 0:
   Duration: 25 ticks
 
 #
-QUEST
+QUEST QUESTS
 
   Syntax:  Quest <command>
 
@@ -781,7 +900,7 @@ QUEST
      Points    - Shows you how many Quest points you have.
      List      - Shows you a list of items you can buy with qps.
      Buy       - Buys a quest item.
-     transform - Buys a transformation during rush.
+     transform - Buys a transformation.
 
 
      These Commands work anywhere:
@@ -791,6 +910,8 @@ QUEST
                  you can quest again, or how much time you have
                  left to complete your quest.
 
+Say Quests to the Questmaster for information on in-game Equipment quests.
+Say some keywords from his responds to get extra details.
 
 SEE ALSO: QUEST_FLAG
 
@@ -800,16 +921,16 @@ Colors:
 
 Note: Do *NOT* use black to black out your name in your poofs.
 
-FG colors:				BG Colors:
+FG colors:                       BG Colors:
 
-&&k = black   &&K = &Kdark gray&n	    &&0 = &0black&n
-&&r = &rred&n	 &&R = &Rlight red&n	&&1 = &1red&n
-&&b = &bblue&n	 &&B = &Blight blue&n	&&2 = &2green&n
-&&g = &ggreen&n	 &&G = &Glight green&n	&&3 = &3yellow&n
-&&c = &ccyan&n	 &&C = &Clight cyan&n	&&4 = &4blue&n
-&&y = &ybrown&n	 &&Y = &Yyellow&n	&&5 = &5purple&n
-&&p = &ppurple&n  &&P = &Ppink&n	        &&6 = &6cyan&n
-&&w = &wgray&n	 &&W = &Wwhite&n	        &&7 = &7gray&n
+&&k = black    &&K = &Kdark gray&n     &&0 = &0black&n
+&&r = &rred&n      &&R = &Rlight red&n     &&1 = &1red&n
+&&b = &bblue&n     &&B = &Blight blue&n    &&2 = &2green&n
+&&g = &ggreen&n    &&G = &Glight green&n   &&3 = &3yellow&n
+&&c = &ccyan&n     &&C = &Clight cyan&n    &&4 = &4blue&n
+&&y = &ybrown&n    &&Y = &Yyellow&n        &&5 = &5purple&n
+&&p = &ppurple&n   &&P = &Ppink&n          &&6 = &6cyan&n
+&&w = &wgray&n     &&W = &Wwhite&n         &&7 = &7gray&n
 
 Effects:
 
@@ -905,9 +1026,11 @@ order to wear armor and wield heavy weapons.
 #
 HITROLL DAMROLL DR HR "HIT ROLL" ROLL
 
-Hitroll (HR) will affect the possibility of a successful strike against a target. The higher the hitroll, the more often the strike.
+Hitroll - will affect the possibility of a successful strike against a target. 
+The higher the hitroll, the more often the strike.
 
-Damroll (DR) will affect how much damage is done with a successful blow against the target. The higher the damroll, the greater the damage done.
+Damroll - will affect how much damage is done with a successful blow against 
+the target. The higher the damroll, the greater the damage done.
 
 See ALSO: STRENGTH
 
@@ -1019,8 +1142,14 @@ buy points from the high priest.
        REFER TO CONSTITUTION
 
 #
-"DAMAGE BONUS" "HIT BONUS" "CARRY WEIGHT"
-    See STR
+"DAMAGE BONUS" "HIT BONUS" "CARRY WEIGHT" "CARRY LIMIT"
+
+In addition to carry weight you can only carry a certain number of items
+regardless of your carry weight.
+
+Item Carry Limit: 5 + (DEX/2) + (LEVEL/2)
+
+See also: STR
 
 #
 "SAVING THROWS" SAVING_THROWS
@@ -1050,31 +1179,6 @@ See Also: RFLAG1, RFLAG2,
           MFLAG1, MFLAG2, MFLAG3,
 
 #
-DODGE 61 
-
-    A mere martial artists trick or the ability to move so fast
-    that a monster cannot hit you.  Either way dodge is a proven
-    ability that has been picked up by only the best of creatures
-    in this land.  Based on your skill in dodge you can completely
-    be missed if you make your saving throw.
-
-    Affects your armor class.  Automatically lowers it if you make
-    your dice roll.
-
-    See Also: Skills
-
-#
-TOUGHER SCALES 62
-    Tougher scales should be thought of as a tougher set of skin.  
-    Throughout the world of crimson only the toughest warriors can
-    survive some of the onslaught brough to them by the most powerful
-    of creatures.  With tougher scales the damage you receive will be
-    lessened by your thick skin.
-   
-    Reduces damage taken by (skill*dex)/100 per hit.
-See Also: Skills, Dodge
-
-#
 SHOUT
          This is for emergencies.   You can turn this channel off
          but it is automatically turned on each time you enter the
@@ -1089,7 +1193,7 @@ SHOUT
 See Also: CHANNELS MUZZLE
 
 #
-CHANNELS GOSSIP SYSTEM IMMTALK INFO CONNECT WIZINFO GOD
+CHANNELS GOSSIP SYSTEM IMMTALK INFO CONNECT WIZINFO GOD CHAT MUSIC
 These are the various communication channels of the mud.
 
 &RNote:  All of these channels are public and monitored for language.
@@ -1112,8 +1216,12 @@ Shout:   This is for emergencies.   You can turn this channel off
          help if you ever shouted for it.
 Avatar:  This channel is for the avatars, and you need to be level
          41 or higher to use this channel.
-Immtalk: This channel is for Latormiss, and you need to be at level
-         4 or higher to use this channel.
+Immtalk: This channel is for immortals, and you need to be at level
+         48 or higher to use this channel.
+Staff:   This channel is for immortals for project discussion, and
+         you need to be at level 48 or higher to use this channel.
+Admin:   This channel is for administration, and you need to be at
+         level 50 or higher to use this channel.
 
 Social Channels:
 Music:   This channel displays information from all Crimson participants,
@@ -1243,7 +1351,7 @@ health of any mob or player you are fighting.
 See also: Graphics
 
 #
-Graphics
+GRAPHICS "GRAPHICS NEW" "GRAPHICS OLD"
 set graphics new/set graphics old
 
 Graphics affect your display of certain things on the mud.
@@ -1319,7 +1427,7 @@ the room they are currently located. It's usage is echo <string>. eg; echo
 Grant is cool, would send the string Grant is cool to everybody in the
 room.
 
-LAT+ gods can use gecho which will send the string to everyone in the game.
+IMMORTALS can use gecho which will send the string to everyone in the game.
 
 #
 SPEEDWALK
@@ -1387,7 +1495,7 @@ is more difficult for others to summon you.
 #
 REIMBURSE
 
-    The Latorrmis+ can reimburse players.  Reimbursements are only given
+    The IMMORTALS can reimburse players.  Reimbursements are only given
 for a crash within the mud or a mud problem. If your server crashes
 and you lose everything we are sorry but we can not help you.  If you
 lose link and autorent doesn't save your kit, we are sorry and can't help
@@ -1450,7 +1558,7 @@ Reimbs are to be given by immortals if the immortal feels that one is
 deserved.  &RNo one is ENTITLED to a reimb.  If imms are feeling benevolent
 and wish to help, they may.  No one has the right to demand one.&n
 
-&BReimbs may be done by any Latorrmis+.&n
+&BReimbs may be done by any IMMORTALS.&n
 
 SEE ALSO: REIMB_LYING
 
@@ -1791,22 +1899,20 @@ The immortal structure on this mud is as follows:
 The Wiztitles on 'who' are:
 ---------------------------
 Level
-  &c48        &C[-----REV-----]  &cRevetas&n.
-  &r49        &R[-----LAT-----]  &rLatorrmis&n.
-  &P50        &p[-----DEI-----]  &PDeiis&n.
-  &Y51        &Y[-----BOSS----]  &YBoss&n.
+  &c48        &C[-----IMM-----]  &cIMMORTALS&n.
+  &P50        &p[-----GOD-----]  &PADMIN&n.
 
 All immortals are equals, but each have specific functions associated 
 with their respective titles.  Generally most queries would be directed 
-at a &CRevetas&n unless it is quest related.  If you are unable to find the
-respective immortal at the time, you may address your concerns with any
-other immortal that you can find.
+at a &CIMMORTALS&n.  If you are unable to find the respective immortal
+at the time, you may address your concerns with any other immortal that 
+you can find.
 
 You MUST listen to the Immortals/Gods. If they tell you something LISTEN
-to them.  If you do not agree with the decision you MAY appeal to a Deiis
-or Boss.  However, you'll find that in most cases if the decree is
-reasonable, it will be enforced.  The word of a Deiis is law and if
-your appeal is denied, accept the decision.
+to them.  If you do not agree with the decision you MAY appeal to an ADMIN.
+However, you'll find that in most cases if the decree is reasonable, it
+will be enforced.  The word of a ADMIN is law and if your appeal is denied,
+accept the decision.
 
 All Immortals are to be treated with respect.  Each rule has some room for
 error within it and the Immortals must interpret them.  The Immortals of
@@ -1878,8 +1984,8 @@ NOTE:  A disrespectful attitude will get you nowhere.  If you can't
        treat an Imm with respect, you may be left in jail to cool
        down.  All of these rules have room for interpretation.  The
        Immortal(s) on-line will make an initial ruling.  If for some
-       reason you do not think that your judgment was fair, seek a
-       Deiis to look over your case.  The Deiis will pass a
+       reason you do not think that your judgment was fair, seek an
+       IMMORTAL to look over your case.  The IMMORTAL will pass a
        judgement and this judgement may not be appealed to any other
        immortal.  In truly severe cases (and ONLY truly severe cases)
        one of the bosses may choose to pass his judgement on a situation.
@@ -1902,7 +2008,7 @@ Decisions made by an immortal can be appealed to an immortal of
 administrative rank.  At this point a different protocol must be followed.
 
 The decisions of an immortal may be appealed only directly, preferably via
-email, to a &YBoss&n.
+email, to an &PADMIN&n.
 
 See Also:  RULES_1, RULES_2, IMM_RULES
 
@@ -1930,7 +2036,7 @@ against the rules and will be treated as though you looted a players corpse.
 See Also: PKILLING
 
 #
-ZONES
+ZONES AREAS
 General information on the available zones (only zones which are actually of
 playing value are listed... "zones which simply connect other zones together
 are not listed).  The levels suggested are only guidlines.
@@ -1949,124 +2055,177 @@ See Also:  ZONES_1 ZONES_2 ZONES_3 ZONES_4
 #
 ZONES_1
 Zone                  Level     Alignment   Designer       Rooms
-Aerie.                20+.      good.       Nightwynde.    7750-7849
-Amazon Jungle.        15+.      varies.     Wimpie.        16300-16599
-Arachnos.             10-25.    evil.       STOCK.         6200-6499
-Arcane Ruins          20-41     evil.       Rogerwaters.   20850-20919
-Arena.                11-41.    varies.     Mercy.         1700-1749
-Arena of Death.       ALL.      varies.     SunShine.      2690-2699
-Arnath.               15+.      good.       Air.           14400-14499
-Arnath2.              ALL.      good        Air.           14900-14999
-Arnath3               All.      good        Air.           15000-15099
-Atlantis.             15-25.    good.       Nef+Graffin.   14500-14599
-Bello Terra           AVAT      neutral.    Butterfly.     12400-12499
-Camelot.              30-41.    good.       Lanthis+Love   2030-2099
-Castle Bryan.         20-35.    good.       Vangar.        16200-16299
-Castle White Flame    AVAT.     good.       Storm.         20200-2024
-Caves of Numbness     20-40.    varies.     Archangel.     20550-20609
-Citadel of Chaos.     20-40.    evil.       Cyric.         4200-4399
-City of Mirielle.     20+.      evil.       Blaze.         7600-7749
-Cloud Palace.         35+       varies.     Blaze.         2100-2199
-Coliseum              25+       evil.       Rogerwaters.   9050-9099
-DarkCastle            AVAT      evil.       Archangel.     19200-19299
-Darkling              20-40     varies.     Rogerwaters.   9300-9399
-Darkwood              1-20      varies.     Air.           14000-14099
-Daydream.             1-20.     good.       Bingo.         125-174
-Devils Domain         AVAT.     evil.       Slog.          20050-20115
-Domoi Itaba.          8-25.     evil.       Shast.         5700-5899
+Aerie                 20+       good       Nightwynde    7750-7849
+Amazon Jungle         15+       varies     Wimpie        16300-16599
+Arachnos              10-25     evil       STOCK         6200-6499
+Arcane Ruins          20-41     evil       Rogerwaters   20850-20919
+Arena                 11-41     varies     Mercy         1700-1749
+Arena of Death        ALL       varies     SunShine      2690-2699
+Arnath                15+       good       Air           14400-14499
+Arnath2               ALL       good       Air           14900-14999
+Arnath3               All       good       Air           15000-15099
+Atlantis              15-25     good       Nef+Graffin   14500-14599
+Bello Terra           AVAT      neutral    Butterfly     12400-12499
+Camelot               30-41     good       Lanthis+Love  2030-2099
+Castle Bryan          20-35     good       Vangar        16200-16299
+Castle Fagus          AVAT      varies     Unknown       9200-9299
+Castle White Flame    AVAT      good       Storm         20200-20274
+Caves of Numbness     20-40     varies     Archangel     20550-20609
+Citadel of Chaos      20-40     evil       Cyric         4200-4399
+City of Mirielle      20+       evil       Blaze         7600-7749
+Cloud Palace          35+       varies     Blaze         2100-2199
+Coliseum              25+       evil       Rogerwaters   9050-9099
+DarkCastle            AVAT      evil       Archangel     19200-19299
+Darkling              20-40     varies     Rogerwaters   9300-9399
+Darkwood              1-20      varies     Air           14000-14099
+Daydream              1-20      good       Bingo         125-174
+Devils Domain         AVAT      evil       Slog          20050-20115
+Domoi Itaba           8-25      evil       Shast         5700-5899
 
 See Also: ZONES, ZONES_2, ZONES_3, ZONES_4
 
 #
 ZONES_2
 Zone                  Level     Align     Designer         Rooms
-Draconia              20+       neutral.  STOCK            2200-2299
-Dragon Isle           AVAT      evil.     Onslaught.       8565-8624
-DragonRealm3          20+       varies    Lanthis.         13900-13999
-Drow City.            20+.      evil.     STOCK            5100-5199
-Drow Gods.            AVAT.     evil.     Bolt.            17900-17999
-Dusk.                 AVAT.     varies.   Silthanus.       1900-2029
+Draconia              20+       neutral   STOCK            2200-2299
+Dragon Isle           AVAT      evil      Onslaught        8565-8624
+DragonRealm3          20+       varies    Lanthis          13900-13999
+Drow City             20+       evil      STOCK            5100-5199
+Drow Gods             AVAT      evil      Bolt             17900-17999
+Dusk                  AVAT      varies    Silthanus        1900-2029
 Dwarven Kingdom       15-41     good      Unknown          4700-4799
-Egypt.                15+.      neutral.  Nef+graffin      14200-14299
-Egyptian Gods         Avat      varies.   Grifter          5950-5999
-Elfin Citadel.        20+.      good.     Kalin+Trinity.   14600-14899
-Elmpatris.            20+.      neutral.  Fish.            4800-4954
-Gargath's Keep.       AVAT.     varies.   Nefarius.        15900-16199
-*Gargath's Dungeon    AVAT.     evil.     Slog.            15885-15899
-Gerins Hill           25+       varies.   Draythen.        1400-1499
-Gerins Tower          35+       varies.   Draythen.        1500-1599
-Glass Catheral        30+       evil.     Unknown          19500-19599
-Gnome Village.        5-20.     good.     Nef+Graffin      8350-8385
-Hades Castle.         AVAT.     evil.     Onslaught.       1750-1799
-Halfling Shire.       3-20.     neutral.  STOCK.           17600-17699
-Helms Deep            AVAT      varies.   Jyaaku           23800-23899
+Egypt                 15+       neutral   Nef+graffin      14200-14299
+Egyptian Gods         Avat      varies    Grifter          5950-5999
+Elemental Canyon      20+       neutral   Unknown          7300-7399
+Elfin Citadel         20+       good      Kalin+Trinity    14600-14899
+Elmpatris             20+       neutral   Fish             4800-4954
+Gargath's Keep        AVAT      varies    Nefarius         15900-16199
+*Gargath's Dungeon    AVAT      evil      Slog             15885-15899
+Gerins Hill           25+       varies    Draythen         1400-1499
+Gerins Tower          35+       varies    Draythen         1500-1599
+Glass Catheral        30+       evil      Unknown          19500-19599
+Gnome Village         5-20      good      Nef+Graffin      8350-8385
+Grig Forest           10-25     varies    Unknown          4600-4699
+Hades Castle          AVAT      evil      Onslaught        1750-1799
+Halfling Shire        3-20      neutral   STOCK            17600-17699
+Haon Dor Forest       5-41      varies    STOCK            6000-6024
+*Haon Dor Dark        5-41      varies    Unknown          6100-6199
+Helms Deep            AVAT      varies    Jyaaku           23800-23899
 
 See Also:  ZONES, ZONES_1, ZONES_3, ZONES_4
 
 #
 ZONES_3
 Zone                  Level     Align     Designer         Rooms
-Ice Crystal Palace.   AVAT.     varies.   Jamal.           18800-19199
-Lair of the Ratmen.   20+.      evil.     Fish.            13200-13899
-Lake.                 25+.      neutral.  Shast.           13100-13149
-Lizard Canyon.        15-35.    evil.     Sorrow.          2900-2999
-Lucifer's Domain      AVAT      evil.     Sorrow.          15500-15599
-Masquerade            AVAT      varies.   Oren             20500-20549
-Masquerade2           AVAT      varies.   Oren             20610-20629
-Masquerade3           AVAT      varies.   Oren             20400-20499
-Midgaard.             ALL.      neutral.  STOCK.           3000-3499
-Mines of Moria.       10-20.    evil.     STOCK.           4000-4199
-Mythdrannor           AVAT.     good      Jamal.           8625-8834
-Necropolis            AVAT.     evil.     Sarel.           4400-4499
-Newbie Village.       1-5.      good.     Mara.            8000-8199
-Numidian Swamps.      25+.      neutral.  Fish.            2300-2399
+Ice Crystal Palace    AVAT      varies    Jamal            18800-19199
+Lair of the Ratmen    20+       evil      Fish             13200-13899
+Lake                  25+       neutral   Shast            13100-13149
+Lizard Canyon         15-35     evil      Sorrow           2900-2999
+Lucifer's Domain      AVAT      evil      Sorrow           15500-15599
+Mage Tower            AVAT      varies    Unknown          24380-24479
+Masquerade            AVAT      varies    Oren             20500-20549
+*Masquerade2          AVAT      varies    Oren             20610-20629
+*Masquerade3          AVAT      varies    Oren             20400-20499
+Midgaard              ALL       neutral   STOCK            3000-3499
+Mines of Moria        10-20     evil      STOCK            4000-4199
+Mythdrannor           AVAT      good      Jamal            8625-8834
+Necropolis            AVAT      evil      Sarel            4400-4499
+Nedragaard Keep       30+       evil      Unknown          1200-1299
+Newbie Village        1-5       good      Mara             8000-8199
+Numidian Swamps       25+       neutral   Fish             2300-2399
 Ocean1                varies    varies    Nightwynde       12800-12899
-Ocean2                varies    varies    Nightwynde       21975-22974
+*Ocean2               varies    varies    Nightwynde       21975-22974
 Olympus               Varies    varies    Jyaaku           15650-15799
-Overlord's Lair. 1    15-30.    neutral.  Draythen.        5300-5399
-Overlord's Lair. 2    15-30.    neutral   Draythen.        5400-5499
-Pixie Garden.         15+       good.     Shast.           5450-5699
-Phaze.                30+       varies.   Sarel.           17700-17750
-Portal Plane.         AVAT.     evil.     Fish.            6600-6699
-Quel'Sith Forest      10-25     good      Nightwynde.      8500-8564
-Quel'Sith Elves       AVAT.     good.     Nightwynde.      20745-20849
-Realm of Khorne.      AVAT.     evil.     Cyric.           1300-1399
+Overlord's Lair 1     15-30     neutral   Draythen         5300-5399
+*Overlord's Lair 2    15-30     neutral   Draythen         5400-5499
+Palace of Elements    30+       varies    Unknown          9475-9519
+Phaze                 30+       varies    Sarel            17700-17750
+Pixie Garden          15+       good      Shast            5450-5699
+Playground            AVAT      varies    Unknown          1600-1699
+Portal Plane          AVAT      evil      Fish             6600-6699
+Quel'Sith Forest      10-25     good      Nightwynde       8500-8564
+Quel'Sith Elves       AVAT      good      Nightwynde       20745-20849
+Realm of Khorne       AVAT      evil      Cyric            1300-1399
 
 See Also: ZONES, ZONES_1, ZONES_2, ZONES_4
 
 #
 ZONES_4
 Zone                  Level     Align     Designer         Rooms
-Royal Academy.        1-3       neutral   Mercy.           100-124
-Seven Heavens         AVAT.     good      Sorrow.          7400-7499
-Seven Heavens         AVAT.     good      Sorrow.          20000-20049
-Shal'Nagi Temple.     30-41.    good.     Phyre.           6500-6599
-Shaolin Temple.       35+.      evil.     Giggles.         14100-14199
-Sharrizar.            10+.      neutral.  Slog.            7500-7599
-Sherwood Forest       30+.      good.     Ikarus.          6025-6074
-Shikonas Islands      20+.      varies.   Cyric.           1000-1199
-SilverDale.           12-30.    evil.     Cryogen.         4500-4699
-Snotling Army Camp.   1-8.      evil.     Fish.            14300-14399
-SnowPeak              AVAT      varies.   Archangel.       4955-4999
-Teldescian Swamps     15+       varies.   Nightwynde.      16900-17399
-Temple of Pres.       25+       varies.   Shast.           18400-18799
-Temple of Salvation   AVAT      good.     Osiris.          7100-7199
-Temple of T'salchoic. 10+.      good.     Fish.            2600-2689
-The Abyss.            AVAT.     evil.     Perna.           2400-2499
-The Fields            AVAT.     evil.     Archangel.       8900-9049
-Thieves Guild.        20+.      neutral.  Graffin.         16600-16899
+Royal Academy         1-3       neutral   Mercy            100-124
+Seven Heavens         AVAT      good      Sorrow           7400-7499
+*Seven Heavens 2      AVAT      good      Sorrow           20000-20049
+Shal'Nagi Temple      30-41     good      Phyre            6500-6599
+Shaolin Temple        35+       evil      Giggles          14100-14199
+Sharrizar             10+       neutral   Slog             7500-7599
+Sherwood Forest       30+       good      Ikarus           6025-6074
+Shikonas Islands      20+       varies    Cyric            1000-1199
+SilverDale            12-30     evil      Cryogen          4500-4699
+Snotling Army Camp    1-8       evil      Fish             14300-14399
+SnowPeak              AVAT      varies    Archangel        4955-4999
+Teldescian Swamps     15+       varies    Nightwynde       16900-17399
+Temple of Pres        25+       varies    Shast            18400-18799
+Temple of Salvation   AVAT      good      Osiris           7100-7199
+Temple of T'salchoic  10+       good      Fish             2600-2689
+The Abyss             AVAT      evil      Perna            2400-2499
+The Fields            AVAT      evil      Archangel        8900-9049
+Thieves Guild         20+       neutral   Graffin          16600-16899
 Thieves Hideout       AVAT      varies    Jyaaku           24100-24149
-Thalos.               8-25.     evil.     STOCK.           5200-5299
-Vamplair1.            25+.      evil.     Fish.            15100-15199
-Vamplair2.            25+       evil.     Fish.            15200-15299
-Vamplire3.            25+       evil.     Fish.            15300-15499
-Village of Korum      1-15.     neutral   Sorrow.          12625-12675
-Viking.               15+       neutral.  Fish.            17400-17549
-Volcano.              20+.      evil.     Bingo.           3900-3999
-WailingBanshee        10-25     varies    Nightwynde.      200-299
-Xanth.                20+.      varies.   SunShine.        500-899
+Thalos                8-25      evil      STOCK            5200-5299
+Tuscany               15+       varies    Unknown          21100-21399
+Vamplair1             25+       evil      Fish             15100-15199
+Vamplair2             25+       evil      Fish             15200-15299
+Vamplire3             25+       evil      Fish             15300-15499
+Village of Korum      1-15      neutral   Sorrow           12625-12675
+Viking                15+       neutral   Fish             17400-17549
+Volcano               20+       evil      Bingo            3900-3999
+WailingBanshee        10-25     varies    Nightwynde       200-299
+Xanth                 20+       varies    SunShine         500-899
 
 See Also:  ZONES, ZONES_1, ZONES_2, ZONES_3
+
+#
+AVATAR ZONES
+This is a partial list of avatar zones in the game. It reflect the zones
+that are flagged as AVATAR zones. You can find additional zones with AVAT
+mobs in them.
+
+Bello Terra           AVAT      neutral    Butterfly     12400-12499
+Castle Fagus          AVAT      varies     Unknown         9200-9299
+Castle White Flame    AVAT      good       Storm         20200-20274
+DarkCastle            AVAT      evil       Archangel     19200-19299
+Devils Domain         AVAT      evil       Slog          20050-20115
+Dragon Isle           AVAT      evil       Onslaught       8565-8624
+Drow Gods             AVAT      evil       Bolt          17900-17999
+Dusk                  AVAT      varies     Silthanus       1900-2029
+Egyptian Gods         Avat      varies     Grifter         5950-5999
+Gargath's Keep        AVAT      varies     Nefarius      15900-16199
+*Gargath's Dungeon    AVAT      evil       Slog          15885-15899
+Hades Castle          AVAT      evil       Onslaught       1750-1799
+Helms Deep            AVAT      varies     Jyaaku        23800-23899
+Ice Crystal Palace    AVAT      varies     Jamal         18800-19199
+Lucifer's Domain      AVAT      evil       Sorrow        15500-15599
+Mage Tower            AVAT      varies     Unknown       24380-24479
+Masquerade            AVAT      varies     Oren          20500-20549
+*Masquerade2          AVAT      varies     Oren          20610-20629
+*Masquerade3          AVAT      varies     Oren          20400-20499
+Mythdrannor           AVAT      good       Jamal           8625-8834
+Necropolis            AVAT      evil       Sarel           4400-4499
+Olympus               AVAT      varies     Jyaaku        15650-15799
+Playground            AVAT      varies     Unknown         1600-1699
+Portal Plane          AVAT      evil       Fish            6600-6699
+Quel'Sith Elves       AVAT      good       Nightwynde    20745-20849
+Realm of Khorne       AVAT      evil       Cyric           1300-1399
+Seven Heavens         AVAT      good       Sorrow          7400-7499
+*Seven Heavens 2      AVAT      good       Sorrow        20000-20049
+SnowPeak              AVAT      varies     Archangel       4955-4999
+Temple of Salvation   AVAT      good       Osiris          7100-7199
+The Abyss             AVAT      evil       Perna           2400-2499
+The Fields            AVAT      evil       Archangel       8900-9049
+Thieves Hideout       AVAT      varies     Jyaaku        24100-24149
+
+See also: ZONES, ZONES_1, ZONES_2, ZONES_3, ZONES_4
+
 
 #
 WORLD
@@ -2092,6 +2251,16 @@ direction as the citadel of chaos.  Once arriving on the pathway to chaos
 look for a hidden exit, that will take you into the keep.
 
 #
+DARKLING
+
+Suggested levels: 20-40.         Align: Varies.
+
+Start off by heading west through the woods next to Midgaard.  Eventually 
+you'll turn south, walking in this direction until you hit the foothills of
+Haon-Dor forest.  Then turn again towards the west to enter the land of the
+darklings.  
+
+#
 "Wailing Banshee"
 
 Suggested Levels: 5-20          Align: Varies
@@ -2111,7 +2280,7 @@ her western gates.  Follow the South Road and veer east just after
 you reach the first crossroads and you shall find your goal.
 
 #
-"Elemental Canyon"
+"Elemental Canyon" "ELEMENTAL CAVERN"
 
 Suggested levels: 20+          Align:  Neutral
 
@@ -2179,16 +2348,6 @@ to the small glade and then head south. Continue following the road until
 you find a well worn road heading east that leads to Tuscany.
 
 #
-"Dark Castle" Darkcastle
-
-Suggested level: Avatar          Align:  Evil
-
-Follow the same pathway through until you reach The Fields.  Following the 
-path until you near a strange temple, you will find yourself in a hidden 
-hallway.  As you exit the hallway you will become one with the misery of 
-the floating underground castle.
-
-#
 "Palace of Elements" 
 
 Suggested level: 30-Avatar       Align:  Varies
@@ -2199,16 +2358,7 @@ ice, the earth, and wind.  Beware the dragons and what skills they possess, for
 only the strong travelers (Avats) can take them down.
 
 #
-"Snow Peak"
-
-Suggested level: Avatar          Align:  Varies
-
-Head east out of Midgaard and north through the mines of Moria. After climbing the 
-mine shaft you will twist and wind your way around a snowy peak until you finally
-reach the tundra and the SnowPeak.
-
-#
-"Realm of Khorne"
+"Realm of Khorne" "KHORNE"
 
 Suggested level:  Avatar          Align:  Evil
 
@@ -2220,7 +2370,7 @@ yourself before the fiery mountain.  Tread cautiously south into the Realm
 of Khorne.
 
 #
-"Gerin's Hill"
+"Gerin's Hill" "Gerin Hill"
 
 Suggested levels:  25+          Align:  Varies
 
@@ -2230,7 +2380,7 @@ second crossroads.  From there, proceed eastwards and follow the paths
 until you find yourself approaching Gerin's Hill.
 
 #
-"Gerin's Tower"
+"Gerin's Tower" "Gerin Tower"
 
 Suggested levels:  35+          Align:  Varies
 
@@ -2281,15 +2431,16 @@ until you find a bare mud-done and climb until you find the ritual room.
 North of here, you will find the Numidian Swamps.
 
 #
-"Quel'Sith Elves"
+"Quel'Sith Elves" "Quelsith Elves"
 Suggested levels: Avat           Align: Good    Rooms: 20745-20849
 
 The Elves of the Quel'Sith forest are elusive creatures, and thus the path
 to their home is hidden. Search the forest for clues to gain entry into
-their city.
+their city. There are stories of a powerful shield that can be obtained
+from a great tree if the proper items are gathered.
 
 #
-"Quel'Sith Forest"
+"Quel'Sith Forest" "QUELSITH FOREST"
 
 Suggested levels: 10-20          Align: Varies
 
@@ -2307,18 +2458,21 @@ leading south. Follow the path south and west until you enter the enchanted
 woods of the Quel'Sith. Once in the forest, follow the path west until you
 reach a small stream. Follow the stream until you reach the Swamp.
 
+There is story of a Holy Smiter wielded by a priest in this area.
+
 #
-"The Abyss"
+"The Abyss" ABYSS
 
 Suggested levels:  Avatar          Align:  Evil
 
 Head south from Market Square and go down into the sewers at the dump.
 Traverse the sewer until you find yourself in a damp tunnel.  From here
 head north as long as you can then go west and continue north until you
-find yourself in the fabled abyss.
+find yourself in the fabled abyss. Ladondra's Legendary cross can be 
+obtained within this zone.
 
 #
-"Temple of T'salchoic"
+"Temple of T'salchoic" "T'salchoic" "TSALCHOIC"
 
 Suggested levels:  10+          Align:  Good
 
@@ -2348,7 +2502,7 @@ scrolls, you are magically teleported back to Midgaard.  Beware however as
 there are some places from which you can not recall!
 
 #
-"Mines of Moria"
+"Mines of Moria" "MORIA"
 
 Suggested levels:  10-20          Align:  Evil
 
@@ -2356,7 +2510,7 @@ Head due north out of Midgaard and soon you will find yourself in the
 mines of Moria.
 
 #
-"Citadel of Chaos"
+"Citadel of Chaos" "CHAOS"
 
 Suggested levels:  20-40          Align:  Neutral-evil
 
@@ -2371,8 +2525,7 @@ yourself entering the Citadel of Chaos.
 
 Sugessted levels:  Avatar          Align: All alignments
 
-There are no walking directions to this zone. If you wish to explore use
-goto. The start room number is 24380.
+Walking description needed here
 
 #
 "Grig Forest"
@@ -2483,7 +2636,7 @@ sticky substance.  From here, head upwards and follow this path through
 trees and webs to find your way to the realm of the spiders.
 
 #
-"Snowpeak"
+"Snowpeak" "SNOW PEAK"
 
 Suggested levels: Avat            Align: Evil
 
@@ -2491,6 +2644,18 @@ Go east out of Midgaard and north through the mines of Moria. When you find
 a shaft leading up, follow it until you are outside on a snow covered trail.
 Follow this trail to an area that was once covered by an avalanche and go 
 down into the valley to reach SnowPeak.
+
+#
+"Egypt"
+
+Suggested levels:  15+          Align:  Neutral
+
+Head west out of Midgaard and turn south just outside of the city gates.
+Follow the South Road until you see the entrance to the kingdom of Tuscany
+to the east.  Continue south into the sand sea and find your way through
+the maze it presents until you find yourself in the desert.  Carefully
+navigate the desert and you will soon be in Egypt.
+
 #
 "Egyptian Gods"
 
@@ -2510,13 +2675,7 @@ Follow the path north to a mountain base and head up. A small cave leads
 to the dwarven kingdom.
 
 #
-"Egyptian Gods"
-
-Suggested levels: Avat            Align: Varies
-
-
-#
-"Dark Castle"
+"Dark Castle" "DARKCASTLE"
 
 Suggested Levels: Avat           Align: Evil
 
@@ -2567,7 +2726,7 @@ devestated crops where you head westward.  You will soon find yourself
 deep in the swamps of Sharrizar.
 
 #
-"City of Mirielle"
+"City of Mirielle" Mirielle
 
 Suggested levels:  20+          Align:  Evil
 
@@ -2595,7 +2754,7 @@ vitality.  Head west from here and you will soon find yourself in Gnome
 Village.
 
 #
-"The Lake"
+"The Lake" LAKE
 
 Suggested levels:  25+          Align:  Neutral
 
@@ -2603,7 +2762,7 @@ This enchanted lake can be found closely associated with the Pixie
 Gardens.
 
 #
-"Lair of the Ratmen"
+"Lair of the Ratmen" "Ratmen"
 
 Suggested levels:  20+          Align:  Evil
 
@@ -2623,7 +2782,7 @@ path, going west whenever you are faced with a choice and soon you will
 find yourself in the borders of the Old Forest which mark your entrance
 into Dark Wood.
 
-Speedwalk from Market Square:  11w2s2w2swsw2s2w
+Speedwalk from Market Square:  wwwwwwwwwwwwwsseswswwswww
 
 #
 "Dragon Realm"
@@ -2649,17 +2808,6 @@ to the Enchanted Forest.  To find your way into the Temple proper, you
 must find your way through the Enchanted Forest.
 
 #
-"Egypt"
-
-Suggested levels:  15+          Align:  Neutral
-
-Head west out of Midgaard and turn south just outside of the city gates.
-Follow the South Road until you see the entrance to the kingdom of Tuscany
-to the east.  Continue south into the sand sea and find your way through
-the maze it presents until you find yourself in the desert.  Carefully
-navigate the desert and you will soon be in Egypt.
-
-#
 "Snotling Camp"
 
 Suggested levels:  1-8          Align:  Evil
@@ -2676,7 +2824,7 @@ Suggested levels:  Newbie       Align:  Good
 For new players only.  From the Midgaard reception area, go north.
 
 #
-"Seven Heavens"
+"Seven Heavens" "HEAVEN"
 
 Suggested levels: AVAT          Align:  Good
 
@@ -2724,7 +2872,9 @@ Suggested levels:  20+          Align:  Good
 Go west from Midgaard and turn south just outside of the city gates.
 Follow the South Road until you see a large citadel looming over the
 mountain pass at the southernmost border of the Kingdom of Midgaard.  
-From here, go up into the Elfin Citadel.
+From here, go up into the Elfin Citadel. There are tales of a powerful
+weapon that can be obtained here. You can find books with information
+about this blade.
 
 #
 "Vamplair"
@@ -2755,7 +2905,7 @@ path south, go over the bridge and continue south.  When you reach the
 desert sea go east and north into the lizard canyon.
 
 #
-"Domoi Itaba"
+"Domoi Itaba" "Itaba"
 
 Suggested levels:  8-25		Align:  Evil
 
@@ -2776,7 +2926,7 @@ you will find your way into Xanth.
 #
 "Hades Castle"
 
-Suggested levels:  		Align:  Evil
+Suggested levels: Avatar           Align:  Evil
 
 Leave Midgaard by way of the levee and head west on the River Karyna.
 When you reach the canal, follow it until you reach the Amazon River.
@@ -2808,7 +2958,7 @@ path which can be walked but this complex path must be found by you if you
 wish to explore this area before you become an avatar.
 
 #
-"Castle Bryan"
+"Castle Bryan" "Bryan"
 
 Suggested levels:  20-35          Align:  Good
 
@@ -2838,7 +2988,7 @@ graveyard and explore it until you find yourself near a large open grave.
 Go down into the grave and you will soon be in the Thieves Guild.
 
 #
-Viking""
+"Viking"
 
 Suggested levels:  15+          Align:  Neutral
 
@@ -2854,7 +3004,9 @@ Suggested levels:  3-20          Align:  Neutral
 Go west from Midgaard and turn south just outside of the city gates.
 Follow the South Road until  just past the bridge across the river where
 you will head east on the pathway into the forest.  Continue down this
-path until you reach the entrance to the Shire.
+path until you reach the entrance to the Shire. There is legend of a 
+powerful sword than can be reforged by the blacksmith
+
 
 #
 "Phaze"
@@ -2884,7 +3036,7 @@ you wish to be so ambitious as to do so before you become an avatar, you
 must do so on your own initiative.
 
 #
-"Temple of Preservation"
+"Temple of Preservation" "Templeofpres" "preservation"
 
 Suggested levels:  25+          Align:  Varies
 
@@ -3034,7 +3186,7 @@ activity of the clan.
 
 5. Other things
 Just because you meet most requirement doesn’t mean that you will get a clan.
-Your clan will need approval from an administration imm (DEI).  We won't let
+Your clan will need approval from an administration imm (ADMIN).  We won't let
 you just get a clan just to have one. We want your clan to be active, work as
 a clan and such. Eventually we hope to have clans have a bigger role, and have 
 more to them, right now it.s more of a team with no game. Work out your game 
@@ -3166,7 +3318,7 @@ who
    Allows you to see all the names of the people in your clan, both
    on-line and offline, and their rank with-in the clan.
 
-Special immortal commands (LAT+):
+Special immortal commands (IMMORTAL):
 
 enable <clan number>
    If you ever need to disable/enable a clan for any reason.
@@ -3201,7 +3353,7 @@ for again.
 Clan Rooms: All basic rooms cost 100.000.000 coins.
 Clan donation rooms: All clan donation rooms cost 150.000.00 coins.
 Clan Board rooms: All clan board rooms cost 500.000.00 coins.
-Max number of rooms not counting board and donation rooms: Currently up to a DEI.
+Max number of rooms not counting board and donation rooms: Currently up to a ADMIN.
 
 See: "CLAN GENERAL" "CLAN FOUNDATION" "CLAN COMMANDS" "CLAN RENOVATIONS"
      "CLAN RANKS"
@@ -3229,7 +3381,7 @@ Keys: 100.000 a piece (for doors or chests)
 Special Flags: no_teleport_in, private, no_summon_in are FREE (if requested)
            * Anything flags in RFLAG1 or RFLAG2: 5.000.000 per flag
 
-Special Items: Fountains/etc... Are all up the the dei making the clan hall.
+Special Items: Fountains/etc... Are all up the the ADMIN making the clan hall.
 
 **NOTE**: All prices/additions in here subject to immediate change
             either up or down without notice, due to the balance of things
@@ -3288,9 +3440,21 @@ Like emote, $n can be used to put your name anywhere you want in the title.
 Black may not be used to block your name in any way.
 
 #
-"SECOND" THIRD FOURTH
+"SECOND" THIRD FOURTH FIFTH
 
 These skills are for additional attacks in combat.
+
+See: SKILLS
+
+
+#
+FLURRY ATTACK
+
+This passive skill increases your speed while attacking, granting a chance 
+to make a flurry of attacks against your opponent.
+
+When you make a flurry attack your number of attacks is increased for the
+round up to your maximum attacks.
 
 See: SKILLS
 
@@ -3354,7 +3518,7 @@ DESC_DAMAGE DAMAGE_DESC DESC-DAMAGE DAMAGE-DESC
 200-219 Decimate        900-949 Butcher
 
 #
-IMM IMMORTAL IMMORTALS
+IMM IMMORTAL IMMORTALS IMMS
 
 First, all immortals are EQUALS with the exceptions of the bosses.
 The immortal levels exist as a form of job differentiation.  People
@@ -3370,7 +3534,6 @@ perform multiple roles. The roles available to the IMM staff are: QUESTOR,
 MEDIATOR, BUILDER, RULER. If you have questions or issues please ask on of
 us for help and if it is not within the immortals roles they will be able 
 to contact another immortal that can assist.
-
 
 &P** GOD **&n
 These people run the mud.  End of story.  What they say GOES.  Generally,
@@ -3389,7 +3552,7 @@ See: SPIRIT
 
 #
 IMM_RULES
-    These rules are for players of Revetas rank and above. Avatars
+    These rules are for players of IMMORTAL rank and above. Avatars
 have their own set of specific regulations. (Help AVATAR)  We do hope
 that most of this is common sense to those of you who have progressed
 this far.  There is 1 basic rule that you must follow, the rest of
@@ -3431,7 +3594,7 @@ IMM_RULES2
           age.
       7.  Immortals may not have their mortal characters on at the same time
           as their immortal, apart from in exceptional circumstances, which
-          must be approved by a Deiis.
+          must be approved by a ADMIN.
       8.  Do not use your immortal to explore zones or stat items and mobs,
           even if you have encountered them as a mortal unless there
           is a need for that information.  Do not use your immortal to
@@ -3496,11 +3659,11 @@ to abuse mortals via pkilling.  Its also requested that you use common
 sense when helping mortals level. You are still bound by the persecution
 rules in HELP PKILLING.
 
-See also: IMMORTAL "AVATAR SPELLS"
+See also: IMMORTAL "AVATAR SPELLS" "AVATAR ZONES" 
 
 
 #
-PICK LOCKS
+PICKLOCK "PICK LOCKS" 49 "SKILL 49" "SKILL PICKLOCK"
 A very basic ability of any thief is the ability to pick a lock.  Thieves
 are raised with this inate ability.  A thief can pick any lock that is
 not magicly sealed.  
@@ -3511,7 +3674,7 @@ not magicly sealed.
 See Also : OPEN, CLOSE, LOCK, UNLOCK
 
 #
-SNEAK
+SNEAK 45 "SKILL SNEAK" "SKILL 45" 
 
 Sneak is one of the very basic abilities of any pilferer.  They run about
 undetected by most things.  A good sneak can disguise him/herself as just
@@ -3524,7 +3687,38 @@ Example:
 See Also: HIDE
 
 #
-HIDE
+DODGE 61 "SKILL DODGE" "SKILL 61"
+
+    A mere martial artists trick or the ability to move so fast
+    that a monster cannot hit you.  Either way dodge is a proven
+    ability that has been picked up by only the best of creatures
+    in this land.  Based on your skill in dodge you can completely
+    be missed if you make your saving throw.
+
+    Affects your armor class.  Automatically lowers it if you make
+    your dice roll.
+
+    There is an up to 25% chance to dodge half of your opponents attacks if
+    they make more than one and can dodge them completetly if they only have
+    a single attack.
+
+    See Also: Skills
+
+#
+"TOUGHER SCALES" 62 "SCALES" "SKILL TOUGHER SCALE" "SKILL 62"
+    Tougher scales should be thought of as a tougher set of skin.  
+    Throughout the world of crimson only the toughest warriors can
+    survive some of the onslaught brough to them by the most powerful
+    of creatures.  With tougher scales the damage you receive will be
+    lessened by your thick skin.
+   
+    Reduces damage taken by (skill*dex)/100 per hit.
+See Also: Skills, Dodge
+
+
+
+#
+HIDE 46 "SKILL HIDE" "SKILL 46"
 
 This ability makes you hide among the shadows.  Any movement at all and
 you will be found very easily.  The only way someone may see someone 
@@ -3567,6 +3761,7 @@ Is your armor class, it is defined roughly as follows:
   of this limiter.
 
   See also: DAMAGE_REDUCTION
+
 #
 DAMAGE_REDUCTION "DAMAGE REDUCTION"
 
@@ -3575,13 +3770,17 @@ in combat. The following table breaks down the reductions:
 
      AC                Percent of Damage Taken
   ---------           ---------------------------
-+400 to -100            100%     of normal damage
--100 to -199            93.75%  of normal damage
--200 to -299            92.5%   of normal damage
--300 to -399            90.625% of normal damage
--400 or lower           88.75%  of normal damage
++400 to +1              100%  of normal damage
++0   to -99             96%   of normal damage
+-100 to -199            94%   of normal damage
+-200 to -299            92%   of normal damage
+-300 to -399            90%   of normal damage
+-400 to -499            88%   of normal damage
+-500 to -599            86%   of normal damage
+-600 or lower           84%   of normal damage
 
-SEE ALSO Help AC
+SEE ALSO: AC
+
 #
 OPEN CLOSE LOCK UNLOCK
 Usage (example):
@@ -3591,8 +3790,11 @@ or
    (if there's more than one to choose from)
 
 #
-NORTH SOUTH EAST WEST UP DOWN
+NORTH SOUTH EAST WEST UP DOWN WALK WALKING
+
 To walk in a given direction.
+
+SEE ALSO: MOVING
 
 #
 EAT DRINK SIP TASTE
@@ -3715,7 +3917,7 @@ To use a weapon this way it, the following requirements must be met:
 See also: REMOVE, EQUIPMENT, DUALWIELD
 
 #
-DUALWIELD
+DUALWIELD "DUAL WIELD"
 Some weapons can be used in a Two-weapon fighting configuration. This grants
 the player with increased damage when fighting at the cost of a weaker
 defense.
@@ -3807,6 +4009,7 @@ It is all terribly complicated of course, but it boils down to the fact
 that you get more points for killing mobs higher level than yourself than
 you get for killing mobs lower level than yourself and if you kill mobs of
 too low a level you may even lose points!
+
 #
 KILL HIT
 
@@ -3815,27 +4018,40 @@ A good way to start a fight.
 See Also: SLASH, PIERCE, BLUDGEON
 
 #
-SLASH PIERCE BLUDGEON
+SLASH PIERCE BLUDGEON "SKILL BLUDGEONING" "SKILL PIERCING" "SKILL SLASHING"
 
 Another good way to start a fight.
+
+These skills affect how proficient you are with different types or weapons.
+
+   Piercing Weapons - (shorswords, daggers, spears, tridents, etc...)
+   Slashing Weapons - (longswords, axes, halberd, polearms, etc...)
+Bludgeoning Weapons - (saps, clubs, hammers, arms, rams, fists, etc...)
+
 
 See Also: KILL, HIT, SKILLS
 
 #
-PARRY DEATH BLOW
+"PARRY DEATH BLOW" "PARRY" "SKILL 60" 60
 
 Parry death blow is a very useful skill developed by many great fighters.
 With this skill you will actually dodge a full melee attack for the full
 damage.  If you become very skilled in this ability you will learn that
 it will be one of your best friends in unfamiliar territory.
 
+This is a passive skill and requires no action from the player beyond
+practicing it.
+
 #
-KICK
+KICK "SKILL KICK" "SKILL 50" 50
 
 One of the very basic fighting abilities is that of kicking your opponent.
 You will find that kicking can give you a very nice edge in some battles,
 but be warned that if you are running low on your stamina (movement) that
 your may not be able to flee out.
+
+Usage: 'kick <mob>' or 'kick' if already in combat to kick your current
+opponent.
 
 Levels 1-19  -- 3 round delay
                 No Move Cost
@@ -3848,13 +4064,16 @@ Ninja Form   -- 1 round delay
                 100% of damage
 
 #
-BASH
+BASH "SKILL BASH" "SKILL 51" 51
 
 Bash can be one of the most powerful abilities any fighter can obtain.  It
 can be said that even with the small damage that is delt the effects are 
 far greater.  A bash can stop someone from casting heal spells and can stop
 someone from an offensive move.  Use this power with great respect as it
 can turn around to bite you back.
+
+Usage: 'bash <mob>' or 'bash' if alread in combat to bash you current
+opponent.
 
 
 The success of a bash depends upon two things.
@@ -3875,7 +4094,7 @@ That chance is greater if your dex is higher than the person
 bashing you.
 
 #
-RESCUE
+RESCUE 52 "SKILL RESCUE" "SKILL 52"
 
 In any great group or party the ability to rescue your fellow members is
 one of the most esential things you must learn.  The ability to take over
@@ -3884,7 +4103,7 @@ one can imagine.  This ability will make someone stop attacking a player
 and start attacking you.
 
 #
-STEAL
+STEAL 47 "SKILL STEAL" "SKILL 47"
 
 What makes a thief a thief is the ability to steal.  There have been many
 great techniques in the past but the tried and true still remain.  You 
@@ -3903,18 +4122,17 @@ Example:
   (only possible if he is sleeping)
 
 #
-ENVENOM WEAPON
+"ENVENOM WEAPON" 214  "ENVENOM_WEAPON" "SKILL ENVENOM WEAPON" "SKILL 214"
 
 A skill usuable only by thri-kreens, envenom weapon is a process that
-places poison on a weapon to increase the damage it does to a mob. The
-poison is permanent, but cannot be placed on weapons with affect bits
-(ie, hitroll, damroll, etc).
+places acid on a weapon to increase the damage it does to a mob. The
+acid is permanent, but can't be placed on poisonous weapons.
 
 useage: envenom <target item in inventory>
 example: envenom serrated
 
 #
-BACKSTAB
+BACKSTAB 48 "SKILL BACKSTAB" "SKILL 48" 
 
 Backstabbing has been a thief skill for as long as the greatest seers
 can look.  This ability gives an unsuspecting victim a serious wake up
@@ -3984,6 +4202,23 @@ Usage:
   purge <object>      To remove an object.
 
 #
+"PURGE MAGIC" 219 "SPELL PURGE MAGIC" "SPELL 219"
+
+Spell #     : 219
+Usage       : cast 'purge magic' <object>
+Accumulative: No
+Duration    : Instantaneous
+
+This spells uses the power of the gods to restore items to their original
+state. This will remove and enchantments and magical augmentation from
+the equipment.
+
+
+***Note***
+This will turn old generation equipment into the new generation of the 
+object if it uses the same object number.
+
+#
 STATS
 
     For information on your stats, use the following commands:
@@ -3993,8 +4228,7 @@ STATS
     You can also get help on the above commands and the following, by
     entering HELP <word>
 
-     STRENGTH   INTELLIGENCE   WISDOM   DEXTERITY   CONSTITUTION
-     CHARISMA   MOVE           MANA     WISDOM
+     STR    INT    WIS    DEX    CON    CHA    MOVE    MANA    HITPOINTS(HP)
 
 #
 ORDER
@@ -4100,7 +4334,7 @@ to automatically split gold with group members when you loot it from a
 corpse.
 
 #
-PRACTICE PRACTISE PRACS
+PRACTICE PRACTISE PRACS TRAINING
 
    Practice is the way you improve your spells and skills. You must go
 to your guildmaster to let him/her help you improve.  If you type
@@ -4117,7 +4351,7 @@ requires to get better at it.
 gain additional skill via actual use.  You might or might not gain
 proficiency before 60%, but you'll have to learn that on your own.
 
-See also: SKILLS, WISDOM
+See also: SKILLS, WISDOM, GUILDMASTER
 
 #
 EXITS
@@ -4199,6 +4433,9 @@ of time but it really doesn't make much difference as you can't rent anyway!
 
 Besides, why would you want to?  Just type quit all of your items which
 are not no_rent will be stored for you to come back and play another day!
+
+Avatar equipment is affected by rent, mortal equipment are is not affected
+by rent
 
 See also: INN, QUIT
 
@@ -4301,15 +4538,6 @@ placed here instead of at the start of the message.
 eg; emote A large piano drops onto $n and squashes him flat, would be seen
 as: "A large piano drops onto Zeon and squashes him flat."
 
-#
-GUILD
-
-The Guildhouse is the place where mortals may go to escape the troubles and
-perils of a cruel world. Each guild is heavily guarded, so that only members
-may enter the building. Guilds are also the places where people come to
-learn and practice the skills of their trade.
-
-See also: PRACTICE
 
 #
 INFO
@@ -4326,10 +4554,11 @@ where 3022
 where OBJ <object>
       tells you where objects are located.
 
-Mortals can only "where" monsters or players, and only from their own zone.
+Mortals can only "where" players, and only from their own zone.
+Avatars can 'where' monsters or players, but only within the zone they are in.
 Immortals may type 'where' without arguments to see where everybody is.  
-LAT and above can type where <number> to see where all objects of that 
-number are located.
+Immortals can type where <number> to see where all objects of that number 
+are located.
 
     A caution when using "where" by an imm. You can spam yourself into
     linkdeath.
@@ -4373,7 +4602,7 @@ See also: COMPACT
 Repeat the last command typed at the keyboard.
 
 #
-CONSIDER
+CONSIDER COMPARE
 
 Usage : consider <monster>
 
@@ -4393,7 +4622,7 @@ Example:
 
 By using this command, you agree not to hold Crimson responsible for any
 losses real or perceived which result from your relying upon data provided.
-Further, you agree to be happy with the additional data and won't grip or
+Further, you agree to be happy with the additional data and won't gripe or
 complain about it.
 
 #
@@ -4412,7 +4641,7 @@ Things you should know about experience points:
     experience points. If killing a monster of lower level you'll gain
     less experience points
 
-  * There are occasional rush periods which allow you to earn twice the
+  * There are occasional rush periods which allow you to earn additional
     experience for the same kills.
 
 Some of us discourage killing of other players.  Some of us may take action.
@@ -4421,22 +4650,25 @@ The choice is yours.  Can you take a group of high levelers?
 See Also: GROUP RUSH
 
 #
-RUSH
+"RUSH HOUR" "MEGA RUSH HOUR"
 
-Rush is a special aspect of Crimson Mud that allows you to earn twice as
-much experience for the same kills for a brief time.  There is a rush
-period every 1.5 to 2 hours lasting from 1 until 10 minutes randomly.
+Rush is a special aspect of Crimson 2 Mud that allows you to earn additional 
+experience for the same kills for a brief time.  There is a rush period every 
+1.5 to 2 hours lasting from 1 until 10 minutes randomly.
 
-You are able to purchase rushes from immortals at this time, the price
+EXP Multiplier:
+Rush Hour - 2x EXP from kills
+Mega Rush - 3x EXP from kills
+
+You are able to purchase regular rushes from immortals at this time, the price
 is as follows:
 
 10 minute rush: 100 mil gold
 20 minute rush: 200 mil gold
 
-*NOTE: Rushes may only be purchases at the 50 minute or less mark before
-       a normal in game rush.  You type rushtime to see this.
+*NOTE: Rushes may only be purchases if there are at least 25 minutes remaining
+       before the normal in game rush. You type rushtime to see this.
        example: Next rush in 0 hours 49 minutes and 40 seconds.
-       Rushes MAY NOT be purchased after the 25 minute mark has been passed.
        
 These are the only accepted times, no more, no less.  This maybe be subject
 to change at anytime, the time or pricing.
@@ -4518,7 +4750,7 @@ wand to avoid confusion.
 Other items can be used and only trial and error will reveal uses.
 
 #
-"ARMOR" 1
+"ARMOR" 1 "SPELL ARMOR" "SPELL 1"
 This is a very basic magic caster spell.  It was taught in the first
 few days at any mage school.  While the power of this spell is not
 fully known the affects seem to protect the target from some damage.
@@ -4534,7 +4766,7 @@ The Armor spell will improve your AC by a minimum of 20.
 See Also: AC
 
 #
-"DEMON FLESH"
+"DEMON FLESH" 142 "SPELL DEMON FLESH"  DEMON_FLESH "SPELL 142" 
 By calling up a dark ritual to the other world you can summon up this
 incatation to protect you with scales of a demon.  While it may not
 work every round.  The spell can save your life.  This dark ritual is
@@ -4550,7 +4782,7 @@ fighting that the damage done from an attack will be reduce to
 1. Only castable on self.
 
 #
-"ELSEWHERE" 2
+"ELSEWHERE" 2 "SPELL ELSEWHERE" "SPELL 2"
 This very strange incantation calls to the earth below to bring you
 out of immediate harms way.  With elsewhere you will never know where
 you might go.  This spell has been known to get many great magic users
@@ -4568,7 +4800,7 @@ in a fatal location.
 See Also:  TELEPORT SELF TELEPORT GROUP
 
 #
-"TELEPORT SELF"
+"TELEPORT SELF" 94 "SPELL TELEPORT SELF" "SPELL 94"
 This spell can only be cast when the mind is at peace.  It cannot get you
 out of a fatal ending but by calling upon your inner spirit, it can make
 you travel great distances in the blink of an eye.
@@ -4594,7 +4826,7 @@ current zone.
 See Also: ELSEWHERE, TELEPORT GROUP
 
 #
-"TELEPORT GROUP"
+"TELEPORT GROUP" 95 "SPELL TELEPORT GROUP" "SPELL 95"
 This spell is severely draining on the caster.  By casting this magical
 script written in an ancient tome, you and your group can be sent a
 great distances within a mere second.
@@ -4620,7 +4852,7 @@ current zone.
 See Also: ELSEWHERE, TELEPORT SELF
 
 #
-"BLESS" 3
+"BLESS" 3 "SPELL BLESS" "SPELL 3"
 Bless is the most holy of all the spells within these lands.  It
 calls upon a blessing from your deity to enfuse you with a radiance
 and glory that only your lord may provide.  The blessing rewards is
@@ -4643,7 +4875,7 @@ Any other alignment casting this on a piece will give it +1 AC-Apply.
 See Also: "BLESS COMMAND"
 
 #
-"VEX"
+"VEX" 207 "SPELL VEX" "SPELL 207"
 This spell calls upon a demonic deity to strengthen and empore the
 caster.  When someone calls vex upon themself they are pledging
 their faith towards a very evil diety.  To the evil person this
@@ -4660,7 +4892,7 @@ damage, at the loss of some hitroll.  This also causes your saving spell
 to worsen.
 
 #
-"BLINDNESS" 4
+"BLINDNESS" 4 "SPELL BLINDNESS" "SPELL 4"
 A very basic spell the blindness sends a blast of heat and sand towards
 the victim to give them a temporary blindness.  This is very useful for
 dodging some hits that may have likely ended a young spellcasters life.
@@ -4676,7 +4908,7 @@ A blinded person will have -4 penalty to both hitroll and AC.
 See Also: AC
 
 #
-"CONTROL WEATHER" 11
+"CONTROL WEATHER" 11 "SPELL CONTROL WEATHER" "SPELL 11"
 By reciting a special song within an unholy tome this spell calls
 to the oceans and seas to open up its fury or close for calm and
 peace.  A suddenly worse weather change can produce more lightning
@@ -4696,7 +4928,7 @@ Exmample:
 
 
 #
-"CREATE FOOD" 12
+"CREATE FOOD" 12 "SPELL 12" "SPELL CREATE FOOD"
 This spell has been around for centuries its a basic slight of hand
 to form a great meal for a small cleric.  This spell can be used to
 create a full feast or merely a loaf of bread for a single lonely 
@@ -4712,7 +4944,7 @@ will filling for the next (5+level) hours, up to a maximum of 24 hours.
 
 See Also: CREATE WATER
 #
-"CREATE WATER" 13
+"CREATE WATER" 13 "SPELL 13" "SPELL CREATE WATER"
 Similar to create food.  A water spell can prove to be infinately
 useful to any group of explorers.  By calling a small amount of
 fevur inside you can bring forth a small amount of drinking water
@@ -4732,7 +4964,7 @@ Double amout of water will be created if it is raining (or worse).
 See Also: CREATE FOOD
 
 #
-"CURE BLIND" 14
+"CURE BLIND" 14 "SPELL 14" "SPELL CURE BLIND"
 This spell was derived from a holy master of an ancient clerics guild.
 The spell was meant to cure the eye sight of a mage that got into too
 much trouble experementing with his magic.
@@ -4746,7 +4978,7 @@ This spell will cure a person blinded by the "blindness" spell, it
 can not remove blindness caused by for example cursed items.
 
 #
-"CURE CRITIC" 15
+"CURE CRITIC" 15 "SPELL 15" "SPELL CURE CRITIC"
 By the teachings of Gaia this spell calls upon oneself to bring
 forth a small yet very useful salve to cure small wounds and
 ailments.  The spell is meant to merely bring back a stunned or
@@ -4762,7 +4994,7 @@ This spell cures 3d8+3 hitpoints of damage.
 See Also: CURE LIGHT
 
 #
-"CURE LIGHT" 16
+"CURE LIGHT" 16 "CURE MINOR" "SPELL 16" "SPELL CURE LIGHT"
 This spell clears small superficial wounds on a friend.  This
 small spell can be be a very handy and appealing spell for
 those clerics in a very needed situation.
@@ -4777,13 +5009,13 @@ This spell cures 1d8 hitpoints of damage.
 See Also: CURE CRITIC
 
 #
-"CAUSE LIGHT"
+"CAUSE LIGHT" 55 "SPELL 55" "SPELL CAUSE LIGHT"
 This spell brings a little darkness from your heart to force
 a little pain in your victims life.  It brings forth the power
 of Gaia for defense.
 
 Spell #     : 55
-Usage       : cast 'cure light' <victim>
+Usage       : cast 'cause light' <victim>
 Accumulative: -
 Duration    : Instantaneous
 
@@ -4792,7 +5024,7 @@ This spell does 1d8 +1 hitpoints of damage.
 See Also: CAUSE CRITIC
 
 #
-"CAUSE CRITIC"
+"CAUSE CRITIC" 54 "SPELL 54" "SPELL CAUSE CRITIC"
 This spell brings forth a little more power than cause light.
 It causes the victim to convulse and twitch.  The pain can
 sometimes be enough to end a victims life.
@@ -4807,7 +5039,7 @@ This spell does 3d8 +3 hitpoints of damage.
 See Also: CAUSE LIGHT
 
 #
-"CURSE" 17
+"CURSE" 17 "SPELL 17" "SPELL CURSE"
 Spell #     : 17
 Usage       : cast 'curse' (victim | object)
 Accumulative: No
@@ -4827,7 +5059,7 @@ Curse cast upon a weapon will reduce the damage dice by 1.
 See Also: spell "REMOVE CURSE"
 
 #
-"DETECT EVIL" 18
+"DETECT EVIL" 18 "SPELL 18" "SPELL DETECT EVIL"
 Spell #     : 18
 Usage       : cast 'detect evil' [self]
 Accumulative: No
@@ -4838,13 +5070,13 @@ manipulations that an evil foe may pose to you.  With a simple
 slight of hand you can tell wether or not someone has a an evil
 heart.
 
-Detect evil will enabel you to see the red aura surrounding evil
+Detect evil will enable you to see the red aura surrounding evil
 persons and items.
 
-See Also: DETECT GOOD
+See Also: DETECT SPELLS
 
 #
-"DETECT GOOD"
+"DETECT GOOD" 85 "SPELL 85" "SPELL DETECT GOOD"
 Spell #     : 85
 Usage       : cast 'detect good' [self]
 Accumulative: No
@@ -4854,10 +5086,108 @@ This is yet another simple and affective spell.  The ability to
 see who has a pure heart is a simple magical gesture that can
 not be fooled.
 
-See Also: DETECT EVIL
+See Also: DETECT SPELLS
 
 #
-"IDENTIFY"
+"DETECT UNDEAD" 171 "SPELL 171" "SPELL DETECT UNDEAD"
+Spell #     : 171
+Usage       : cast 'detect undead' [self]
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell puts an aura around undead creatures. This is a simple
+yet powerful tool to allow you to be better prepared for a fight.
+
+See Also: DETECT SPELLS
+
+#
+"DETECT ANIMALS" 130 "SPELL 130" "SPELL DETECT ANIMALS"
+Spell #     : 130
+Usage       : cast 'detect animals' [self]
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell puts an aura around animals. This is a simple
+yet powerful tool to allow you to be better prepared for a fight.
+
+See Also: DETECT SPELLS
+
+#
+"DETECT GIANTS" 163 "SPELL 163" "SPELL DETECT GIANTS"
+Spell #     : 163
+Usage       : cast 'detect giants' [self]
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell puts an aura around giants. This is a simple
+yet powerful tool to allow you to be better prepared for a fight.
+
+See Also: DETECT SPELLS
+
+#
+"DETECT SHADOWS" 165 "SPELL 165" SPELL DETECT SHADOWS"
+Spell #     : 165
+Usage       : cast 'detect shadows' [self]
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell puts an aura around shadow creaturs. This is a simple
+yet powerful tool to allow you to be better prepared for a fight.
+
+See Also: DETECT SPELLS
+
+#
+"DETECT DEMONS" 169 "SPELL 169" "SPELL DETECT DEMONS"
+Spell #     : 169
+Usage       : cast 'detect demons' [self]
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell puts an aura around demons. This is a simple
+yet powerful tool to allow you to be better prepared for a fight.
+
+See Also: DETECT SPELLS
+
+#
+"DETECT DRAGONS" 170 "SPELL 170" "SPELL DETECT DRAGONS"
+Spell #     : 170
+Usage       : cast 'detect dragons' [self]
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell puts an aura around dragons. This is a simple
+yet powerful tool to allow you to be better prepared for a fight.
+
+See Also: DETECT SPELLS
+
+#
+"DETECT VAMPIRES" 173 "SPELL 173" "SPELL DETECT VAMPIRES"
+Spell #     : 173
+Usage       : cast 'detect vampires' [self]
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell puts an aura around vampires. This is a simple
+yet powerful tool to allow you to be better prepared for a fight.
+
+See Also: DETECT SPELLS
+
+
+#
+"DETECT SPELLS"
+There are several spells that help you detect certain attributes.
+These spells are listed below for reference. See their respective
+help entries for more info
+
+Spell Name:       Spell Name:        Spell Name:
+DETECT MAGIC      DETECT ANIMALS     DETECT INVISIBILITY
+DETECT POISON     DETECT SHADOWS     DETECT UNDEAD
+DETECT EVIL       DETECT DRAGONS     DETECT GIANTS
+DETECT GOOD       DETECT DEMONS      DETECT VAMPIRES
+
+
+#
+"IDENTIFY" 53 "SPELL 53" "SPELL IDENTIFY
 Spell #     : 53
 Usage       : cast 'identify' [obj]
 Accumulative: No
@@ -4874,7 +5204,7 @@ identified by this small yet potent power.
     Allows you to identify an object.
 
 #
-"DETECT INVISIBILITY" 19
+"DETECT INVISIBILITY" 19 "SPELL 19" "SPELL DETECT INVISIBILITY"
 Spell #     : 19
 Usage       : cast 'detect invisibility' [self]
 Accumulative: No
@@ -4884,17 +5214,22 @@ This spell is a small yet very affective spell used by lower level
 mages to find anyone in a room that may try to conceal themself
 with an invisibility spell. 
 
+See also: DETECT SPELLS
+
 #
-"DETECT MAGIC" 20
+"DETECT MAGIC" 20 "SPELL 20" "SPELL DETECT MAGIC"
 Spell #     : 20
 Usage       : cast 'detect magic' [self]
 Accumulative: No
 Duration    : 5 hours per level
 
-Not much is known about this archaic encantation.
+Not much is known about this archaic encantation. It does allow
+you to see magical objects.
+
+See also: DETECT SPELLS
 
 #
-"DETECT POISON" 21
+"DETECT POISON" 21 "SPELL 21" "SPELL DETECT POISON"
 Spell #     : 21
 Usage       : cast 'detect poison' (victim | food | drink)
 Accumulative: No
@@ -4905,10 +5240,10 @@ spell can be cast by almost anyone in the ways of the magic.  This
 spell can helpful in finding things that may cause viral harm to
 you.
 
-See Also: POISON, REMOVE POISON
+See Also: POISON, REMOVE POISON, DETECT SPELLS
 
 #
-"ENCHANT WEAPON" 24
+"ENCHANT WEAPON" 24 "SPELL 24" "SPELL ENCHANT WEAPON"
 Spell #     : 24
 Usage       : cast 'enchant weapon' <weapon>
 Accumulative: No
@@ -4937,7 +5272,7 @@ Imp+       +5         +5
 See Also VENOM BLADE
 
 #
-"HEAL MINOR"
+"HEAL MINOR" "HEAL LIGHT" 75 "SPELL 75" "SPELL HEAL MINOR"
 Spell #     : 75
 Usage       : cast 'heal minor' <victim>
 Accumulative: No
@@ -4956,7 +5291,7 @@ will also be cured by the heal spell.
 Casting heal minor without a victim heals the caster.
 
 #
-"HEAL MEDIUM"
+"HEAL MEDIUM" 76 "SPELL 76" "SPELL HEAL MEDIUM"
 Spell #     : 76
 Usage       : cast 'heal medium' <victim>
 Accumulative: No
@@ -4974,7 +5309,7 @@ will also be cured by the heal spell.
 Casting heal medium without a victim heals the caster.
 
 #
-"HEAL MAJOR"
+"HEAL MAJOR" 77 "SPELL 77" "SPELL HEAL MAJOR"
 spell #     : 77
 Usage       : cast 'heal major' <victim>
 Accumulative: No
@@ -4992,7 +5327,7 @@ will also be cured by the heal spell.
 Casting heal major without a victim will heal the caster.
 
 #
-"INVISIBILITY" 29
+"INVISIBILITY" 29 "SPELL 29" "SPELL INIVISIBILITY"
 Spell #     : 29
 Usage       : cast 'invisibility' <victim | object>
 Accumulative: No
@@ -5007,7 +5342,7 @@ To remove all spells of invisibility simply type vis.
 See Also: "improved invisibility", "detect invisibility", INVIS, VISIBLE
 
 #
-"IMPROVED INVISIBILITY" 9
+"IMPROVED INVISIBILITY" 9 "SPELL 9" "SPELL IMPROVED INVISIBILITY"
 Spell #     : 9
 Usage       : cast 'improved invisibility' <victim | object>
 Accumulative: No
@@ -5033,7 +5368,7 @@ no spells to detect invisibility, you will be unable to see your own
 equipment or inventory.
 
 #
-"LOCATE OBJECT" 31
+"LOCATE OBJECT" 31 "LOCATE_OBJECT" "SPELL 31" "SPELL LOCATE OBJECT"
 Spell #     : 31
 Usage       : cast 'locate object' <object>
 Accumulative: -
@@ -5052,7 +5387,7 @@ The maximum number of objects you can simultaneously locate is
 your level divided by 2.
 
 #
-"POISON" 33
+"POISON" 33 "SPELL 33" "SPELL POISON"
 Spell #     : 33
 Usage       : cast 'poison' <victim | food | drink>
 Accumulative: Yes on persons.
@@ -5071,7 +5406,7 @@ of damage every tick, and gain less points than usual.
 See Also: "detect poison" or "remove poison"
 
 #
-"PROTECTION FROM EVIL" 34
+"PROTECTION FROM EVIL" 34 "SPELL 34" "SPELL PROTECTION FROM EVIL"
 Spell #     : 34
 Usage       : cast 'protection from evil' [self]
 Accumulative: No
@@ -5089,7 +5424,7 @@ higher than the mobs.  If their level is greater to or equal to your
 level they can attack if they make a saving throw.
 
 #
-"REMOVE CURSE" 35
+"REMOVE CURSE" 35 "SPELL 35" "SPELL REMOVE CURSE"
 Spell #     : 35
 Usage       : cast 'remove curse' <person | object>
 Accumulative: No
@@ -5101,7 +5436,7 @@ may not seem to be very much to the naked eye but try wearing a curse
 for a while and you will be glad someone can get rid of it.
 
 #
-"REMOVE POISON"
+"REMOVE POISON" 43 "SPELL 43" "SPELL REMOVE POISON"
 Spell #     : 43
 Usage       : cast 'remove poison' <victim | food | drink>
 Accumulative: No
@@ -5114,7 +5449,7 @@ a small bit of healing power from nature to do some healing.
 See Also: Poison
 
 #
-"SANCTUARY" 36
+"SANCTUARY MAJOR" 36 "SPELL 36" "SPELL SANCTUARY MAJOR"
 Spell #     : 36
 Usage       : cast 'sanctuary' <victim>
 Accumulative: No
@@ -5133,7 +5468,7 @@ level 31-40 5 hours
 level 41    6 hours
 
 #
-"SLEEP" 38
+"SLEEP" 38 "SPELL 38" "SPELL SLEEP"
 Spell #     : 38
 Usage       : cast 'sleep' <person>
 Accumulative: Yes (duration)
@@ -5146,7 +5481,7 @@ basics out of it.  Without fully understanding this spell it is
 very hard to put someone to sleep with it.
 
 #
-"STRENGTH" 39
+"STRENGTH SPELL" 39 "SPELL 39" "SPELL STRENGTH"
 Spell #     : 39
 Usage       : cast 'strength' <victim>
 Accumulative: Yes (strength)
@@ -5164,7 +5499,7 @@ HELP RACE <your race> for details.
 See Also: INTELLIGENCE WISDOM DEXTERITY CONSTITUTION CHARISMA
 
 #
-"INTELLIGENCE"
+"INTELLIGENCE SPELL" 131 "SPELL INTELLIGENCE" "SPELL 131"
 Usage       : cast 'intelligence' <victim>
 Accumulative: Yes
 Duration    : Level hours
@@ -5176,7 +5511,7 @@ HELP RACE <your race> for details.
 See Also: STRENGTH WISDOM DEXTERITY CONSTITUTION CHARISMA
 
 #
-"WISDOM"
+"WISDOM SPELL" 132 "SPELL 132" "SPELL WISDOM"
 Usage       : cast 'wisdom' <victim>
 Accumulative: Yes
 Duration    : Level hours
@@ -5188,7 +5523,7 @@ HELP RACE <your race> for details.
 See Also: STRENGTH INTELLIGENCE DEXTERITY CONSTITUTION CHARISMA
 
 #
-"DEXTERITY"
+"DEXTERITY SPELL" 133 "SPELL 133" "SPELL DEXTERITY"
 Usage       : cast 'dexterity' <victim>
 Accumulative: Yes
 Duration    : Level hours
@@ -5200,7 +5535,7 @@ HELP RACE <your race> for details.
 See Also: STRENGTH INTELLIGENCE WISDOM CONSTITUTION CHARISMA
 
 #
-"CONSTITUTION"
+"CONSTITUTION SPELL" 134 "SPELL 134" "SPELL CONSTITUTION"
 Usage       : cast 'constitution' <victim>
 Accumulative: Yes
 Duration    : Level hours
@@ -5212,7 +5547,7 @@ HELP RACE <your race> for details.
 See Also: STRENGTH INTELLIGENCE WISDOM DEXTERITY CHARISMA
 
 #
-"CHARISMA"
+"CHARISMA SPELL" 135 "SPELL 135" "SPELL CHARISMA"
 Usage       : cast 'charisma' <victim>
 Accumulative: Yes
 Duration    : Level hours
@@ -5224,7 +5559,7 @@ HELP RACE <your race> for details.
 See Also: STRENGTH INTELLIGENCE WISDOM DEXTERITY CONSTITUTION
 
 #
-"PORTAL"
+"PORTAL" 139 "SPELL 139" "SPELL PORTAL"
 Usage       : cast 'portal' <victim>
 Accumulative: NO
 Duration    : Level/10 + 1 hours
@@ -5239,7 +5574,7 @@ other side.
 See Also: TELEPORT
 
 #
-"RECHARGE LIGHT"
+"RECHARGE LIGHT" 121 "SPELL 121" "SPELL RECHARGE LIGHT"
 Usage       : cast 'recharge light' <object>
 Accumulative: Yes
 Duration    : Adds 3d<level> charges to the light.
@@ -5251,7 +5586,7 @@ into the casters body.   Items have a 1 in 20 chance of exploding.
 See Also RECHARGE WAND
 
 #
-"RECHARGE WAND"
+"RECHARGE WAND" 122 "SPELL 122" "SPELL RECHARGE WAND"
 Usage       : cast 'recharge wand' <object>
 Accumulative: Yes
 Duration    : Adds 1d3 charges to the wand.
@@ -5263,7 +5598,7 @@ Duration    : Adds 1d3 charges to the wand.
 See Also RECHARGE LIGHT
 
 #
-"VENOM BLADE"
+"VENOM BLADE" 123 "SPELL 123" "SPELL VENOM BLADE"
 
 Usage       : cast 'venom blade' <object>
 Accumulative: No
@@ -5275,7 +5610,7 @@ will not work on an item which are already magical in nature.
 See Also ENCHANT
 
 #
-"VENTRILOQUATE"
+"VENTRILOQUATE" 41 "SPELL 41" "SPELL VENTRILOQUATE"
 Usage       : cast 'ventriloquate' <victim | object> <text>
 Accumulative: -
 Duration    : Instantaneous
@@ -5292,7 +5627,7 @@ cast 'vent' unclesam I've got 921,923 coins, don't even consider killing me.
 
 See Also: -
 #
-"WORD OF RECALL"
+"WORD OF RECALL" RECALL 42 "SPELL 42" "SPELL WORD OF RECALL"
 Usage       : cast 'word of recall'
 Accumulative: -
 Duration    : Instantaneous
@@ -5302,7 +5637,7 @@ the Temple of Midgaard).
 
 See Also: -
 #
-"SUCCOR"
+"SUCCOR" 80 "SPELL 80" "SPELL SUCCOR"
 Usage       : cast 'succor' <victim>
 Accumulative: -
 Duration    : Instantaneous
@@ -5312,7 +5647,7 @@ Duration    : Instantaneous
 See Also: 'teleport self'
 
 #
-"SUMMON" 40
+"SUMMON" 40 "SPELL 40" "SPELL SUMMON"
 Spell #     : 40
 Usage       : cast 'summon' <victim>
 Accumulative: -
@@ -5339,7 +5674,7 @@ players found violating this rule will face the following penalties:
 SEE ALSO: SUMMON       
 
 #
-"CHARM PERSON"
+"CHARM PERSON" 7 "SPELL 7" "SPELL CHARM PERSON"
 Skill/Spell#: 7
 Usage       : cast 'charm person' <mob>
 Accumulative: No
@@ -5357,7 +5692,7 @@ Charmed mobs will stop following when the spell expires.
 See Also: FOLLOW ORDER
 
 #
-"TURN UNDEAD"
+"TURN UNDEAD" 79 "SPELL 79" "SPELL TURN UNDEAD"
 Usage       : cast 'turn undead' [victim]
 Accumulative: No
 Duration    : Instant.
@@ -5365,33 +5700,35 @@ Duration    : Instant.
     Does (level)D4 + level of caster in damage to undead mobs.
 
 #
-"DARKSIGHT"
+"DARKSIGHT" 68 "SPELL 68" "SPELL DARKSIGHT"
 Usage       : cast 'darksight' [self | victim]
 Accumulative: No
 Duration    : 1 hours per level of caster.
 
 This spell allows you to see in the dark.
 
+
 #
 "ABC"
     Undefined at this time.
 
 #
-"MANA LINK"
+"MANA LINK" "82" "MANA_LINK" "SPELL 82" "SPELL MANA LINK"
     Undefined at this time.
 
 #
-"REGENERATION"
+"REGENERATION" 74 "SPELL 74" "SPELL REGENERATION"
 Usage       : cast 'regeneration' [self | victim]
 Accumulative: No
 Duration    : Level of caster in hours.
 
-    Allows you to regernate hit, mana, and moves faster.
+This spell sharply increases the rate in which hit points, mana, and move is
+regained by the player.
 
 See Also:  HASTE
 
 #
-"SUSTENANCE"
+"SUSTENANCE" 88 "SPELL 88" "SPELL SUSTENANCE"
 Usage       : cast 'sustenance' [self | victim]
 Accumulative: No
 Duration    : Instant.
@@ -5399,7 +5736,7 @@ Duration    : Instant.
     Maxes food and thirst while making you stone sober.
 
 #
-"RESTORATION"
+"RESTORATION" 73 "SPELL 73" "SPELL RESTORATION"
 Usage       : cast 'restoration' [self | victim]
 Accumulative: No
 Duration    : instant.
@@ -5407,7 +5744,7 @@ Duration    : instant.
     Restores a players experience to that applicable for their level.
 
 #
-"SENSE LIFE"
+"SENSE LIFE" 44 "SPELL 44" "SPELL SENSE LIFE"
 Usage       : cast 'sense life' [self]
 Accumulative: No
 Duration    : 5 hours per level
@@ -5418,16 +5755,7 @@ Invisible persons are immune to this spell.
 See Also: HIDE
 
 #
-"REGENERATION"
-Usage       : cast 'regeneration' [self]
-Accumulative: -
-Duration    : ???
-
-This spell sharply increases the rate in which hit points, mana, and move is
-regained by the player.
-
-#
-"MAGIC MISSILE" 32
+"MAGIC MISSILE" 32 "SPELL MAGIC MISSILE" "SPELL 32"
 Spell #     : 32
 Usage       : cast 'magic missile' <victim>
 Accumulative: -
@@ -5439,7 +5767,7 @@ Save        : Versus spell for half damage.
 Sends 1 to 4 magical bolts of energy at the victim.
 
 #
-"CHILL TOUCH" 8
+"CHILL TOUCH" 8 "SPELL 8" "SPELL CHILL TOUCH"
 Spell #     : 8
 Usage       : cast 'chill touch' <victim>
 Accumulative: -
@@ -5452,7 +5780,7 @@ Sends life draining energy into the victim.
 See Also: MAGIC MISSILE
 
 #
-"BURNING HANDS" 5
+"BURNING HANDS" 5 "SPELL 5" "SPELL BURNING HANDS"
 Spell #     : 5
 Usage       : cast 'burning hands' <victim>
 Accumulative: -
@@ -5465,7 +5793,7 @@ Sends heat energy into the victim to fry it.
 See Also: CHILL TOUCH
 
 #
-"SHOCKING GRASP" 37
+"SHOCKING GRASP" 37 "SPELL 37" "SPELL SHOCKING GRASP"
 Spell #     : 37
 Usage       : cast 'shocking grasp' <victim>
 Accumulative: -
@@ -5478,7 +5806,7 @@ This spell will give the victim a huge shock.
 See Also: BURNING HANDS
 
 #
-"LIGHTNING BOLT" 30
+"LIGHTNING BOLT" 30 "SPELL 30" "SPELL LIGHTNING BOLT"
 Spell #     : 30
 Usage       : cast 'lightning bolt' <victim>
 Accumulative: -
@@ -5491,7 +5819,7 @@ Brings forth a lightning bolt to blast the victim
 See Also: SHOCKING GRASP
 
 #
-SPRAY "COLOUR SPRAY" 10
+SPRAY "COLOR SPRAY" 10 "SPELL 10" "SPELL COLOR SPRAY
 Spell/Skill#: 10
 Usage       : cast 'color spray' <victim>
 Accumulative: -
@@ -5505,7 +5833,7 @@ Throws  forceful blinding colors into the eyes of the victim
 See Also: LIGHTNING BOLT
 
 #
-"ENERGY DRAIN" 25
+"ENERGY DRAIN" 25 "SPELL 25" "SPELL ENERGY DRAIN"
 Spell #     : 25
 Usage       : cast 'energy drain' <victim>
 Accumulative: -
@@ -5526,14 +5854,7 @@ Beware that this spell is evil.
 See Also: -
 
 #
-"RESTORATION"
-Usage       : cast 'restoration' <player>
-
-This spell will return a player to the minimum amount of XP that they needed
-for their current level.
-
-#
-"MAGIC RESIST"
+"MAGIC RESIST" "MAGIC_RESIST" 83 "SPELL 83" "SPELL MAGIC RESIST"
 Usage       : cast 'magic resist' <victim>
 Accumulative: No
 Duration    : ???
@@ -5546,7 +5867,7 @@ everytime a spell is cast upon you.
 See also: "MAGIC IMMUNE"
 
 #
-"BREATH WATER" "BREATHWATER"
+"BREATH WATER" "BREATHWATER" 87 "SPELL 87" "SPELL BREATHWATER"
 Usage       : cast 'breath water' <self>
 Accumulative: No
 Duration    : ???
@@ -5557,7 +5878,7 @@ underwater. Thus eliminating the need for a canoe or raft object.
 See Also WATERWALK
 
 #
-"MAGIC IMMUNE"
+"MAGIC IMMUNE" "MAGIC_IMMUNE" 84 "SPELL 84" "SPELL MAGIC IMMUNE"
 Usage       : cast 'magic immune' <victim>
 Accumulative: No
 Duration    : 11 hours
@@ -5568,7 +5889,7 @@ spell like 'heal' on itself. This spell should be cast very sparingly. It
 will not cancel out existing spells.
 
 #
-"CONFLAGATION"
+"CONFLAGATION" 86 "SPELL 86" "SPELL CONFLAGRATION"
 Usage       : cast 'conflagation' <victim>
 Accumulative: -
 Duration    : Instantaneous
@@ -5581,7 +5902,7 @@ This spell is one of the most powerful spells a magic user can cast.
 See Also: FIREBALL
 
 #
-"FIREBALL" 26
+"FIREBALL" 26 "SPELL 26" "SPELL FIREBALL"
 Spell #     : 26
 Usage       : cast 'fireball' <victim>  /* could have an area affect */
 Accumulative: -
@@ -5595,7 +5916,142 @@ This spell is one of the most powerful spell a magic user can cast.
 See Also: COLOR SPRAY
 
 #
-"EARTHQUAKE"
+"METEOR SWARM" 184 "SPELL 184" "SPELL METEOR SWARM"
+Spell #     : 184
+Usage       : cast 'meteor swarm' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Dam         : leveld20 + 3*level
+Save        : Versus spell for half damage.
+
+This spell is currently only available to NPC characters. This summons a swarm
+of meteors to rain down on all enemies in the room.
+
+(Expect this to become available to Avatars soon)
+
+See Also: FIREBALL, FIRESTORM
+
+#
+"THORNWRACK" 168 "SPELL 168" "SPELL THORNWRACK"
+Usage       : cast 'thornwrack' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Dam         : leveld10 + 6*level
+MaxDam      : None.
+Save        : Versus spell for half damage.
+
+You calls upon thorny vines to constrict your enemies
+**NOTE: This can not be cast during combat
+
+See Also: NEEDLESTORM, SPORECLOUD, and WRATH OF NATURE
+
+#
+"NEEDLESTORM" 175 "SPELL 175" "SPELL NEEDLESTORM"
+Usage       : cast 'needlestorm' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Dam         : leveld14 + 4*level
+MaxDam      : 30d14 + 4*level
+Save        : Versus spell for half damage.
+
+A hail of needles rain down upon your victim.
+
+See Also: THORNWRACK, SPORECLOUD, and WRATH OF NATURE
+
+#
+"SPORECLOUD" 178 "SPELL 178" "SPELL SPORECLOUD"
+Usage       : cast 'sporecloud' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Dam         : leveld6 + 2*level
+MaxDam      : 24d6 + 2*level
+Save        : Versus spell for half damage.
+
+You fill the room with a cloud or poisonous spores.
+This can affect all enemies in the room
+
+See Also: THORNWRACK, NEEDLESTORM, and WRATH OF NATURE
+
+#
+"GUSHER" 211 "SPELL 211" "SPELL GUSHER"
+Usage       : cast 'gusher' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Dam         : (level/2)d12 + 15
+MaxDam      : 15d12 + 15
+Save        : Versus spell for half damage.
+
+You cause a gush of water to overwhelm you opponnent.
+
+#
+"WRATH OF NATURE" 179 "SPELL 179" "SPELL WRATH OF NATURE"
+Usage       : cast 'wrath' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Dam         : leveld18 + 6*level
+MaxDam      : None
+Save        : Versus spell for half damage.
+
+You unleash nature's wrath upon your enemies.
+This can effect all enemies in a room.
+
+See Also: THORNWRACK, NEEDLESTORM, and SPORECLOUD
+
+#
+"SUMMON TREANT" TREANT 177 "SPELL 177" "SPELL SUMMON TREANT"
+Usage       : cast 'summon treant'
+Accumulative: -
+Duration    : Instantaneous
+
+You call upon a treant to aid you in battle.
+
+See Also: GATE, ANIMAL SUMMONINNG, CHARM PERSON
+
+#
+"ANIMAL SUMMONING" 172  ANIMAL SUMMONING "SPELL 172" "SPELL ANIMAL SUMMONING"
+SPELL #     : 172
+Usage       : cast 'animal summoning'
+Accumulative: -
+Duration    : Instantaneous
+
+You reach out to your animal companions for assistance.
+
+See Also: GATE, SUMMON TREANT, CHARM PERSON
+
+#
+"BEASTIAL TRANSFORMATION" 185 "SPELL 185" "SPELL BEASTIAL TRANSFORMATION"
+SPELL #     : 185
+Usage       : cast 'beastial'
+Accumulative: -
+Duration    : varies
+
+You transform into the form of an animal spirit. You are weakened
+from the transformation and have to wait between 30 and 45 minutes
+before using this spell again.
+
+These transformations modify your abilities as listed below.
+---------------------------------------------------\
+BADGER                | EAGLE                      |
+BSTR   :  +LVL/15     | BDEX   :  +LVL/15          |
+DamRoll:  +LVL/10     | DamRoll:  +LVL/8           |
+HitRoll:  +LVL/10-1   | HitRoll:  +LVL/8-1         |
+HIT    :  +LVL/5+10   | MOVE   :  +LVL+10          |
+MOVE   :  +LVL/2+10   | SPELLS :  FLY              |
+---------------------------------------------------|
+SERPENT               | DRAKE                      |
+BDEX   :  +LVL/10     | BSTR   :  +LVL/10          |
+BCHA   :  +LVL/5-1    | BDEX   :  +LVL/15          |
+MANA   :  +LVL/2+10   | DamRoll:  +LVL/10          |
+HitRoll:  +LVL/8-1    | HitRoll:  +LVL/10-1        |
+SPELLS :  Breathwater | HIT    :  +LVL+10          |
+                      | MANA   :  +LVL +10         |
+                      | SPELLS :  FLY, BREATHWATER |
+---------------------------------------------------/
+
+See Also: TRANSFORM
+
+#
+"EARTHQUAKE" 118 "SPELL 118" "SPELL EARTHQUAKE"
 Usage       : cast 'earthquake'
 Accumulative: -
 Duration    : Instantaneous
@@ -5608,7 +6064,7 @@ members.
 See Also: -
 
 #
-"DISPEL EVIL" 22
+"DISPEL EVIL" 22 "SPELL 22" "SPELL DISPEL EVIL"
 Spell #     : 22
 Usage       : cast 'dispel evil' <victim>
 Accumulative: -
@@ -5624,7 +6080,7 @@ If the victim is higher level than caster, the spell will inflict
 See Also:  DISPEL EVIL, DISPEL MAGIC, DISPEL SILENCE
 
 #
-"SENSE DANGER" (skill)
+"SENSE DANGER" (skill) 146 "SKILL 146" "SKILL SENSE DANGER"
 
 Usage: sense <direction>
 
@@ -5633,7 +6089,7 @@ or hidden mobs and if any are present, it gives the message:
 The hairs on the back of your neck stand up!
 
 #
-"HAIL STORM" 6
+"HAIL STORM" 6 "SPELL 6" "SPELL HAIL STORM"
 Spell #     : 6
 Usage       : cast 'hail storm' <victim>
 Accumulative: -
@@ -5650,7 +6106,7 @@ maximum of 15d8 damage points.
 See Also: WEATHER and CONTROL WEATHER
 
 #
-"CALL LIGHTNING"
+"CALL LIGHTNING" 153 "SPELL 153" "SPELL CALL LIGHTNING"
 Usage       : cast 'call lightning' <victim>
 Accumulative: -
 Duration    : Instantaneous
@@ -5666,7 +6122,7 @@ maximum of 15d8 damage points.
 See Also: WEATHER and CONTROL WEATHER
 
 #
-"HARM" 27
+"HARM" 27 "SPELL 27" "SPELL HARM"
 Spell #     : 27
 Usage       : cast 'harm' <victim>
 Accumulative: -
@@ -5681,7 +6137,7 @@ NOTE:  If your fighting, or start fighting, those last four
        hitpoints can go fast...
 
 #
-"HUNT"
+"HUNT" 89 "SKILL 89" "SKILL HUNT"
 Usage       : HUNT <victim>
 
 This command will try to locate victim and automatcially move your
@@ -5691,7 +6147,7 @@ might end up at the wrong mob.
 See Also: TRACK
 
 #
-"HOLD PERSON"
+"HOLD PERSON" 90 "SPELL 90" "SPELL HOLD PERSON"
 Usage       : cast 'hold person' <victim>
 Accumulative: No.
 Duration    : 3 * 18 / INT in hours.
@@ -5702,7 +6158,7 @@ cast, etc for the sustained duration.  Person involved in a fight
 have to much adrenaline flowing to be held.
 
 #
-"KNOCK"
+"KNOCK" 91 "SPELL 91" "SPELL KNOCK"
 Usage       : cast 'knock' <container> || <door> || <lock>
 Accumulative: No.
 Duration    : Instant.
@@ -5714,7 +6170,7 @@ to the knock spell and will require a key.
 See Also: PICK
 
 #
-"PHASE DOOR"
+"PHASE DOOR" 92 "SPELL 92" "SPELL PHASE DOOR"
 Usage       : cast 'phase door' <door> <direction>
               cast 'phase door' <direction>
 Accumulative: No.
@@ -5724,7 +6180,7 @@ This spell will immediately slip a mage through any door if not
 protect from it via NO_TELEPORT.
 
 #
-"WATERWALK"
+"WATERWALK" 93 "SPELL 93" "SPELL WATERWALK"
 Usage       : cast 'waterwalk' [self] || <victim>
 Accumulative: No.
 Duration    : level of caster in hours.
@@ -5735,7 +6191,7 @@ areas where boats are normally required.
 See Also: BREATHWATER
 
 #
-"TELEVIEW MINOR"
+"TELEVIEW MINOR" 96 "SPELL 96" "SPELL TELEVIEW MINOR"
 Usage       : cast 'teleview minor' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -5748,7 +6204,7 @@ everyone else in that room as well.
 See Also:  TELEVIEW MAJOR
 
 #
-"TELEVIEW MAJOR"
+"TELEVIEW MAJOR" 97 "SPELL 97"
 Usage       : cast 'teleview major' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -5756,6 +6212,7 @@ Duration    : Instant.
 This spell allows you to look into another room.  When you cast this
 spell specifying a mobile or player, you will see into the room they
 are in, viewing everything and everyone else in that room as well.
+
 WARNING: This spell can have disasterous results if you try to look at
          the room your in.  Avoid that at all cost is the message you
          most remember from "Magic to Spy by 530"
@@ -5763,7 +6220,7 @@ WARNING: This spell can have disasterous results if you try to look at
 See Also: TELEVIEW MINOR
 
 #
-"HASTE"
+"HASTE" 98 "SPELL 98" "SPELL HASTE"
 Usage       : cast 'haste' [self] || <victim>
 Accumulative: No.
 Duration    : 1 hour per level of caster.
@@ -5777,7 +6234,7 @@ durations tic at double the rate.
 See Also: REGENERATION
 
 #
-"DREAMSIGHT" 99
+"DREAMSIGHT" 99 "SPELL 99" "SPELL DREAMSIGHT"
 Spell #     : 99
 Usage       : cast 'dreamsight' [self]
 Accumulative: No.
@@ -5786,7 +6243,7 @@ Duration    : level of caster / 2  (mininum 5 hours).
 This spell lets a sleeping player see as if he/she was awake.
 
 #
-"GATE"
+"GATE" 100 "SPELL 100" "SPELL GATE"
 Usage       : cast 'gate'
 Accumulative: No.
 Duration    : Instant.
@@ -5799,14 +6256,14 @@ as they hate being bound and if charm wears off...
 
 
 #
-"DONATE MANA"
+"DONATE MANA" 81 "SPELL 81" "SPELL DONATE MANA"
 Usage       : cast 'donate mana' [victim]
 Accumulative: Yes.
 Duration    : Instant.
 
     Gives 15 mana points to victim.  Can not exceed victims maximum.
 #
-"VITALIZE MANA"
+"VITALIZE MANA" 101 "SPELL 101" "SPELL VITALIZE MANA"
 Usage       : cast 'vitalize mana' [self]
 Accumulative: No.
 Duration    : Instant.
@@ -5817,7 +6274,7 @@ mana to restore it to your normal maximum.
 See Also:  VITALIZE HIT, VIGORIZE MINOR, VIGORIZE MEDIUM, VIGORIZE MAJOR
 
 #
-"VITALIZE HIT"
+"VITALIZE HIT" 102 "SPELL 102" "SPELL VITALIZE HIT"
 Usage       : cast 'vitalize hit' [self]
 Accumulative: No.
 Duration    : Instant.
@@ -5828,37 +6285,37 @@ hit points to restore them to your normal maximum.
 See Also:  VITALIZE HIT, VIGORIZE MINOR, VIGORIZE MEDIUM, VIGORIZE MAJOR
 
 #
-"VIGORIZE MINOR"
+"VIGORIZE MINOR" 103 "SPELL 103" "SPELL VIGORIZE MINOR"
 Usage       : cast 'vigorize minor' [self] || <victim>
 Accumulative: Yes.
 Duration    : Instant.
 
-This spell restores 1D8+1 movement points.
+This spell restores 2D8+8 movement points.
 
 See Also:  VITALIZE HIT, VITALIZE MANA, VIGORIZE MEDIUM, VIGORIZE MAJOR
 
 #
-"VIGORIZE MEDIUM"
+"VIGORIZE MEDIUM" 104 "SPELL 104" "SPELL VIGORIZE MEDIUM"
 Usage       : cast 'vigorize medium' [self] || <victim>
 Accumulative: Yes
 Duration    : Instant.
 
-This spell restores 2D8+1 movement points.
+This spell restores 3D8+8 movement points.
 
 See Also:  VITALIZE HIT, VITALIZE MANA, VIGORIZE MINOR, VIGORIZE MAJOR
 
 #
-"VIGORIZE MAJOR"
+"VIGORIZE MAJOR" 105 "SPELL 105" "SPELL VIGORIZE MAJOR"
 Usage       : cast 'vigorize major' [self] || <victim>
 Accumulative: Yes.
 Duration    : Instant.
 
-This spell restores 3D8+1 movement points.
+This spell restores 4D8+8 movement points.
 
 See Also:  VITALIZE HIT, VITALIZE MANA, VIGORIZE MEDIUM, VIGORIZE MAJOR
 
 #
-"AID"
+"AID" 106 "SPELL 106" "SPELL AID"
 Usage       : cast 'aid' [self] || <victim>
 Accumulative: No.
 Duration    : level of caster in hours.
@@ -5866,7 +6323,7 @@ Duration    : level of caster in hours.
 This gives 1 to level of caster in hitpoints.
 
 #
-"SILENCE"
+"SILENCE" 107 "SPELL 107" "SPELL SILENCE"
 Usage       : cast 'silence' <victim>
 Accumulative: No.
 Duration    : 2 * 18 / INT of victim (mininum of 2 tics).
@@ -5876,7 +6333,7 @@ recite, tell, gossip, or shout.  It is very effective against spell
 casters.
 
 #
-"DISPEL SILENCE"
+"DISPEL SILENCE" 108 "SPELL 108" "SPELL DISPEL SILENCE"
 Usage       : cast 'dispel silence' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -5887,7 +6344,7 @@ spell from victim.
 See Also:  DISPEL EVIL, DISPEL HOLD, DISPEL MAGIC
 
 #
-"DISPEL MAGIC" 28
+"DISPEL MAGIC" 28 "SPELL 28" "SPELL DISPEL MAGIC"
 Spell #     : 28
 Usage       : cast 'dispel magic' <self>
 Accumulative: No.
@@ -5898,7 +6355,7 @@ This spell removes all spells from caster.  Only works on caster.
 See Also:  DISPEL EVIL, DISPEL HOLD, DISPEL SILENCE
 
 #
-"DISPEL HOLD"
+"DISPEL HOLD" 109 "SPELL 109" "SPELL DISPEL HOLD"
 Usage       : cast 'dispel hold' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -5909,7 +6366,7 @@ spell from victim.
 See Also:  DISPEL EVIL, DISPEL MAGIC, DISPEL SILENCE
 
 #
-"BLOCK SUMMON"
+"BLOCK SUMMON" 110 "SPELL 110" "SPELL BLOCK SUMMON"
 Usage       : cast 'block summon' <victim>
 Accumulative: No.
 Duration    : level of caster in hours.
@@ -5917,7 +6374,7 @@ Duration    : level of caster in hours.
 Prevents recipient from being summoned.
 
 #
-"SMITE"
+"SMITE" 111 "SPELL 111" "SPELL SMITE"
 Usage       : cast 'smite' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -5928,7 +6385,7 @@ of damage.  If caster is evil, caster take damage.
 See Also: DISPEL EVIL
 
 #
-"ANIMATE DEAD"
+"ANIMATE DEAD" 112 "SPELL 112" "SPELL ANIMATE DEAD"
 
 Usage        : cast 'animate dead' [corpse object]
 Accumulative : No
@@ -5942,7 +6399,7 @@ of the zombie is (LEVEL_OF_CORPSE+1)/2.  This very powerful spell allows
 players to become masters of the dead.
 
 #
-"BLACK BURST"
+"BLACK BURST" 113 "SPELL 113" "SPELL BLACK BURST"
 Usage       : cast 'black burst' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -5955,7 +6412,7 @@ Save        : Versus spell for half damage.
 See Also: CAST
 
 #
-"CREMATION"
+"CREMATION" 114 "SPELL 114" "SPELL CREMATION"
 Usage       : cast 'cremation' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -5968,7 +6425,7 @@ Save        : Versus spell for half damage.
 See Also: CAST
 
 #
-"MORTICE FLAME" MORTISE
+"MORTICE FLAME" MORTICE 115 "SPELL 115" "SPELL MORTICE FLAME"
 Usage       : cast 'mortice flame' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -5982,7 +6439,7 @@ If caster is not evil, caster take damage.
 See Also: CAST
 
 #
-"FIRELANCE"
+"FIRELANCE" 116 "SPELL 116" "SPELL FIRELANCE"
 Usage       : cast 'firelance' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -5995,7 +6452,7 @@ Save        : Versus spell for half damage.
 See Also: CAST
 
 #
-"FIRESTORM"
+"FIRESTORM" 117 "SPELL 117" "SPELL FIRESTORM"
 Usage       : cast 'firestorm' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -6003,12 +6460,12 @@ Dam         : <level>d10 + level
 MaxDam      : -
 Save        : Versus spell for half damage.
 
-    A fire based combat spell.  Area affect.
+    A fire based combat spell.  with an area affect.
 
 See Also: CAST
 
 #
-"TREMOR" 23
+"TREMOR" 23 "SPELL 23" "SPELL TREMOR"
 Spell#     : 23
 Usage       : cast 'tremor' <victim>
 Accumulative: No.
@@ -6022,7 +6479,7 @@ This spell will damage everybody except the caster and group members.
 See Also: CAST
 
 #
-"DIVINE RETRIBUTION"
+"DIVINE RETRIBUTION" 119 "SPELL 119" "SPELL DIVINE RETRIBUTION"
 Usage       : cast 'divine retribution' <victim>
 Accumulative: No.
 Duration    : Instant.
@@ -6036,7 +6493,7 @@ than holy, caster take damage.
 See Also: CAST
 
 #
-"HOLY HEALING"
+"HOLY HEALING" 204 "SPELL 204" "SPELL HOLY HEALING"
 Usage       : cast 'holy healing' <victim only>
 Accumulative: NO
 Duration    : Instantaneous
@@ -6047,7 +6504,7 @@ changing their align to good.  Heals target by the casters
 (INT*WIS)/3.
 
 #
-"AIRWALK"
+"AIRWALK" 203 "SPELL AIRWALK" "SPELL 203"
 Usage       : airwalk
 Duration    : Level/4 in hours
 Save        : none
@@ -6058,7 +6515,7 @@ flight.  During their airwalks they do not lose movment points and
 can fly over water.
 
 #
-"DEMONIC AID"
+"DEMONIC AID" 127 "SPELL 127" "SPELL DEMONIC AID"
 
 Usage       : cast 'demonic aid' <self>
 Accumulative: No.
@@ -6074,7 +6531,7 @@ numbers.  Ultimately you will eventually have the new-gen stats anyway
 though.
 
 #
-"HEMMORAGE"
+"HEMMORAGE" 140 "SPELL 140" "SPELL HEMMORAGE"
 
 Usage       : cast 'hemmorage' <victim>
 Accumulative: No.
@@ -6089,7 +6546,7 @@ Each time the victim takes damage, others in the room see him cough up blood.
 
 
 #
-"MEDITATION"  (skill)
+"MEDITATION" 145 "SKILL 145" "SKILL MEDITATION" MEDITATE
 
 Usage        : meditate
 Duration     : -1
@@ -6100,7 +6557,7 @@ If you roll above your skill you'll gain a 20% bonus on how much you'd
 normally regenerate each tick.
 
 #
-"ESCAPE" (skill)
+"ESCAPE" 155 "SKILL 155" "SKILL ESCAPE"
 
 Usage       : escape <direction>
 
@@ -6110,7 +6567,7 @@ from a fight unharmed.  Beware that some monsters can track you very easily
 and can resume the fight quickly.
 
 #
-"PEEK" (skill)
+"PEEK" 156 "SKILL 156" "SKILL PEEK"
 
 Usage       : peek <victim>
 
@@ -6118,7 +6575,7 @@ Usage       : peek <victim>
 and inventory without him/her noticing.
 
 #
-"BIND SOULS" (spell)
+"BIND SOULS" 151 "SPELL 151" "SPELL BIND SOULS"
 
 Usage       : cast 'bind souls' <self>
 Duration    : (level * 3d25) / 60 hours
@@ -6136,7 +6593,7 @@ When the spell runs out, the caster's max_mana returns to normal, and if
 his current_mana is higher than this, it is cut down to max.
 
 #
-"FLY" (spell)
+"FLY" 154 "SPELL 154" "SPELL FLY"
 
 Usage       : cast 'fly' <victim>
 Accumulative: No.
@@ -6150,10 +6607,11 @@ energy and transfers it below them.  When cast it keeps someone from
 wasting their endurance while moving about the world.
 
 #
-"FAERIE FIRE"
+"FAERIE FIRE" 180 "SPELL 180" "SPELL FAERIE FIRE"
 
 Usage       : cast 'faerie fire' <victim>
-Accumulative: No.
+Accumulative: No
+Spell #     : 180
 Duration    : level 
 Dam         : -
 MaxDam      : -
@@ -6169,21 +6627,7 @@ as well as draining their strength. Affects: +20 AC (worse!), strength
 reduction (level / 10) * -1, +1 to all saves (worse!).
 
 #
-"FAERIE FOG"
-
-Usage       : cast 'faerie fog' <victim>
-Accumulative: No.
-Duration    : level
-Dam         : -
-MaxDam      : -
-Special     : AC +20 (worse!)
-
-  An area affect faerie fire, this spell covers the room in a purple mist, thus
-dispelling invisibility as well. In all other respects the spell works exactly
-like faerie fire.
-
-#
-"BARKSKIN"
+"BARKSKIN" 166 "SPELL 166" "SPELL BARKSKIN"
 
 Usage       : cast 'barkskin' <victim>
 Accumulative: No.
@@ -6191,15 +6635,15 @@ Duration    : 2+(level / 8)
 Dam         : -
 MaxDam      : -
 
-  Barkskin hardens a Druid/Rangers skin to the point where it becomes as tough as
-wood. The character loses no dexterity through the spell, and in all respects looks
-the same as he/she normally would. Damage is reduced by 10% while the spell is in
-affect.
+  Barkskin hardens a Druid skin to the point where it becomes as tough 
+as wood. The character loses no dexterity through the spell, and in all 
+respects looks the same as he/she normally would. Damage is reduced by 
+20% while the spell is in affect.
 
 ***NOTE*** Cannot be combined with stoneskin or sanctuary!!
 
 #
-"STONESKIN"
+"STONESKIN" 167 "SPELL 167" "SPELL STONESKIN"
 
 Usage       : cast 'stoneskin' <victim>
 Accumulative: No.
@@ -6207,13 +6651,13 @@ Duration    : 2+(level / 10)
 Dam         : -
 MaxDam      : -
 
-  An advanced form of barkskin, stoneskin reduces physical damage by 40% and spell damage
-by 50%.
+  An advanced form of barkskin, stoneskin reduces physical damage by 40%
+ and spell damage by 50%.
 
 ***NOTE*** Cannot be combined with barkskin or sanctuary!!
 
 #
-"GRANGORNS CURSE"
+"GRANGORNS CURSE" 128 "SPELL 128" "SPELL GRANGORNS CURSE"
 Usage	    : cast 'grangorns curse' <victim>
 Accumulative: No.
 Duration    : 5*(level caster)
@@ -6227,7 +6671,7 @@ remove curse spell. Gives -3 to hitroll and +2 to all saving throws.
 See Also: CAST
 
 #
-"SPIRIT TRANSFER"
+"SPIRIT TRANSFER" 150 "SPELL 150" "SPELL SPIRIT TRANSFER"
 
 Usage       : cast 'spirit transfer' <target>
 Accumulative: No
@@ -6244,7 +6688,7 @@ killed.  The caster returns to their own body when the spell wears off or
 the mob being occupied is killed.
 
 #
-"MORDENKAINENS SWORD"
+"MORDENKAINENS SWORD" 152 "SPELL MORDENK SWORD" "MORDENK SWORD"
 
 Usage       : cast 'mordenk sword'
 
@@ -6255,7 +6699,7 @@ cannot be rented and is personal.
 ** This  spell is Mage class only **
 
 #
-"WIZARD LOCK"
+"WIZARD LOCK" 125 "SPELL 125" "SPELL WIZARD LOCK"
 
 Usage       : cast 'wizard lock' <portal>
 Accumulative: No
@@ -6265,18 +6709,40 @@ On some doors this spell will not work, but when successfull, the portal
 upon which this spell is cast will be permanently locked.
 
 #
-"DANCING SWORD"
+"DANCING SWORD" 126 "SPELL 126" "SPELL DANCING SWORD"
 
 Usage       : cast 'dancing sword' <weapon>
-Duration    :
+Duration    : 24*18 / Dancing Swords (INT)
 
 When cast upon a weapon in the caster's inventory, the weapon becomes a
 mindless mob which will do nothing but kill.  If the mob is killed before
-the spell wears off then the weapon is lost.  Otherwise the object will be
-returned to the caster's inventory.
+the spell wears off then the weapon is lost.  Once the magic that animates
+this weapon wears off the weapon disappears.
+
+The creature created this way gains the following features based on the
+attributes the weapon has or based on the caster abilities:
+
+Level = MinLVL flag, if no MinLVL flag level is between 1-9
+Hitpoints = (Caster's MAX HP /2) + (Dancing Sword level * 1d 'caster level')
+HR = Weapon's HR*15 or 15 whichever is higher
+DR = Weapon's DR*20 or 20 whichever is higher
+
+The 'Dancing Sword' gains the following effects:
+DARKSIGHT
+DETECT INVIS
+
+If the weapon has the following weapon flags, it gains the noted spell/skill proficiency:
+      POISON = POISONOUS
+FLAME_ATTACK = FIRE_BREATH
+  ICE_ATTACK = FROST_BREATH
+ ELEC_ATTACK = LIGHTNING_BREATH
+  MANA DRAIN = ENERGY_DRAIN
+    BLINDING = BLINDNESS
+
+&Y***Note: Any weapon animated with this spell is lost, use at your own risk.
 
 #
-"ASSESS"
+"ASSESS" 136 "SKILL 136" "SKILL ASSESS"
 
 Usage       : assess <target>
 
@@ -6285,7 +6751,7 @@ the hands of your target.  Be forewarned however that the accuracy of the
 information depends upon your proficiency at the skill!
 
 #
-"BERSERK"
+"BERSERK" 147 "SKILL 147" "SKILL BERSERK"
 
 Those races with berserk will experience a certain type of automatic,
 uncontrollable rage.  Each round of fighting, they risk going into rage.
@@ -6293,7 +6759,7 @@ Once berserk has kicked you into a rage, the fight continues as if you
 were raging.
 
 #
-"MIRROR SELF"
+"MIRROR SELF" 120 "SPELL 120" "SPELL MIRROR SELF"
 
 Usage       : cast 'mirror self'
 Duration    :
@@ -6302,17 +6768,7 @@ When the caster casts this spell, a mob copy of the caster is created.
 After the spell wears off, the copy disappears.
 
 #
-"FLOATING DISK"
-
-Usage       : cast 'floating disk'
-Duration    : 1d level
-
-The caster is carried upon a floating disk without losing moves on any
-type of terrain.  Unfortunately, while upon the disk, the caster may not
-be followed and their ac is lowered by their level/2.
-
-#
-"CLAWED HANDS"
+"CLAWED HANDS" 129 "SPELL 129" "SPELL CLAWED HANDS"
 
 Usage       : cast 'clawed hands'
 Accumulative: No
@@ -6326,7 +6782,7 @@ caster cannot wield nor hold any objects and may well face difficulty
 picking items up.
 
 #
-"PESTILENCE"
+"PESTILENCE" 149 "SPELL 149" "SPELL PESTILENCE"
 
 Usage       : cast <pestilence> <target>
 Accumulative: No.
@@ -6343,34 +6799,43 @@ See Also: CAST
 
 #
 "BLESS COMMAND"
-These are the spells contained the the command bless in order
-that they are cast.
+These spells are cast with the command bless in order that they are cast.
 
+Vex (If &REvil&n)
+Protection from evil (If &WGood&n)
 Aid
 Bless
 Armor
 Improved invisiblity
+Sanctuary
+Bind souls
+Demon flesh
+Regeneration
+Breathwater
+Waterwalk
+Fly
+Sense life
+Darksight
 Detect evil
 Detect good
 Detect invis
 Detect magic
-Protections from evil
-Sanctuary
-Strength
-Sense life
-Darksight
-Regeneration
-Breathwater
-Waterwalk
-Bind souls
-Demon flesh
+Detect undead
+Detect animals
+Detect dragons
+Detect demons
+Detect giants
+Detect shadows
+Detect vampires
 Demonic aid
 Intelligence
 Wisdom
 Dexterity
 Constitution
 Charisma
-Fly
+Strength
+
+See also: BLESS_COMMAND
 
 #
 "GENERAL HELP" "HELP FILE" "HELP HELP"
@@ -6712,7 +7177,7 @@ See Also OHELP
 See Also OHELP, OFLAG1, OFLAG2, OFLAG_TABLE
 
 #
-"OHELP_OWFLAG" OWFLAG
+"OHELP_OWFLAG" OWFLAG SLAYER
     This command lets you set special weapon flags.
 
 Flags and Meanings
@@ -7897,7 +8362,7 @@ Allows you to set:
     lifespan   - when age is equal to lifespan, zone resets
     reset mode - 0=no reset, 1=only if empty, 2=always
 
-                 Deiis can set reset mode on production.  This allows them
+                 ADMIN can set reset mode on production.  This allows them
                  to prevent a zone reseting if problems are encountered.
     x_coordinate
     y_coordinate
@@ -8015,20 +8480,31 @@ breath attacks        - skill is % chance the breath works.
 second attack         - the % chance of getting a second attack each round.
 third attack          - the % chance of getting a third attack after the 
                         second attack is successful.
-fourth attack 	      - the % chance of getting a fourth attack after the
+fourth attack	      - the % chance of getting a fourth attack after the
                         third attack is successful.
+fifth attack          - the % chance of getting a fifth attack after the
+                        fourth attack is successful.
+flurry attack         - % chance to have a burst of additional attacks
+                        for one round.
 
 Enter HELP CLASS <class> to see a list of spells for that class.
 
 see also: BREATH, PRACTICE
 
 #
-"EXTRA DAMAGE"
+LUCK LUCKY
+    Sometimes the gods will grant you an additional attack, this is rare and
+should not be counted on as the gods are fickle beings. If you happens to you
+then Good Luck and fortune has shined upon you.
+
+
+#
+"EXTRA DAMAGE" "56" "SKILL 56" "SKILL EXTRA DAMAGE"
     Does extra damage once per mele round.  This is not per each attack.
     Amount is (damage / 4) or 25, which ever is lower.
 
 #
-ATTRIBUTE
+ATTRIBUTE ATTRIBUTES
     List your sex, race, class, title, corpse count, victim count,
          attributes:  strength, intelligence, wisdow, dexterity,
                       constitution, and charisma.
@@ -8039,27 +8515,41 @@ ATTRIBUTE
     Example: attribute Bird
 
 See Also: SCORE, RACE, CLASS, TITLE, FATE, STR, INT, WIS, DEX, CON, CHA
-          HUNGER, THIRST, DRUNK, THACO, SPELL
+          HUNGER, THIRST, DRUNK, THAC0, SPELL
 
 #
-HUNGER THIRST
-        Goes from 0 to n (Refer to your race to see how high it can go).
-    A value of 0 means your starving.  You can't die from hunger, but
-    it'll seriously affect regeneration of your hitpoints, mana, and
-    moves.
-        There are many items to eat such as bread, pastries, etc.
+HUNGER THIRST HUNGRY THIRSTY
+    Goes from 0 to n (Refer to your race to see how high it can go).
+A value of 0 means your starving.  You can't die from hunger, but
+it'll seriously affect regeneration of your hitpoints, mana, and moves.
+
+    There are many items to eat such as bread, pastries, etc. You must 
+balance what you eat and drink, if you drink until you are full on thirst
+You will not have room to eat food for hunger.
 
     NOTE:  Immortals and Avatars have a value of -1.
 
-See Also ATTRIBUTE
+See Also ATTRIBUTE, SUSTENANCE
 
 #
-THACO
+THAC0 THACO
 
     Shows your chance to hit armor class zero.  This value is adjusted
     based on other factors such as armor class and hitroll adjustments.
 
 See Also:  CLASS
+
+#
+REMORT
+
+    Crimson 2 MUD does not have an remort, however once Avatar(Level 41)
+is attained you are able to begin practicing skills/spells that are 
+normally available to other classes. 
+
+These are limited to 55 skills/spells from outside of your class. You can 
+use "forget <skill/spell name/#>" at the guildmasters to remove any 
+skills/spells from outside of your class if you determine it is not needed.
+Any experienced used for forgotten spells/skills are lost when forgotten.
 
 #
 SPELL
@@ -8072,7 +8562,7 @@ SPELL
 See Also: SCORE, ATTRIBUTE
 
 #
-DEATH:
+DEATH CORPSE SPAWN
    When you die, you lose experience, your equipment remains with your
    corpse at the location of your death.  Your gold remains with
    you.  You should quickly return to your corpse before it decays and
@@ -8085,7 +8575,7 @@ DEATH:
 See Also: PKILLER DEATHTRAP
 
 #
-DT DEATHTRAP
+DT DEATHTRAP "TRAP ROOM" "DEATH TRAP"
        These rooms kill you and subtract 200 from your kills/death score
 and you will lost twice the experience lost during a normal death.
 Avatars will also be affected by these rooms. Corpses can be collected
@@ -8126,20 +8616,16 @@ AFK
 WIPE
 
     The WIPE command will list all chars scheduled to be purged in 30
-    days or less.   Because level 1 chars are purged after 14 days, and
+    days or less.   Because level 1 chars are purged after 30 days, and
     would fill up the list, they are excluded from the list so its not
     cluttered.
 
-    Old chars are purged if they haven't logged onto the mud for a
+    Old characters are purged if they haven't logged onto the mud for a
     specified period of time.  These are displayed below:
            
-    Level 1 - deleted if not logged on in two weeks (14 days).
-    Mortals level 2 - 15 wipe after 1 month of inactivity.
-    Mortals level 16 - 30 wipe after 3 months of inactivity.
-    Mortals level 31 - 40 wipe after 6 months of inactivity.
-    Avats wipe after 12 months of inactivity.
-    Spirit wipe after 12 months of activity.
-
+    Level  1:       Wipe after 1 months of inactivity.
+    Level  2 - 15:  Wipe after 3 months of inactivity.
+    Level 16 - 29:  Wipe after 12 months of inactivity
     Of course, files can always be backed up if you think you might be 
     gone for longer than these periods.  You need to contact imms and 
     make sure your kit is backed up if you think you'll surpass the wipe
@@ -8148,19 +8634,25 @@ WIPE
 #
 WWW WEBSITE HOMEPAGE WEBPAGE
 
-&YOfficial Crimson Mud 2 Website:
-
-&Rhttp://www.crimson2.com
-&C* Created and Maintained by Pythias
-Contact him at c2pythias@gmail.com
-
-&B >> Best site for Crimson information&E
+&ROfficial Crimson Mud 2 Website: &Whttp://www.crimson2.com
+&C* Created and Maintained by Pythias. Contact him at &Wc2pythias@gmail.com
 
 &YOther Websites:
 
-If you have a site relevant to the mud or anything you'd
-like to be added to this file let someone on the imm staff
-know, we might add it here.
+&WC2 Discord - https://discord.gg/eMBXMKz
+&WC2 Forums  - http://forum.crimson2.com/
+&n
+If you have a site relevant to the mud or anything you'd like to be added 
+to this file let sent recommendations to c2admins@gmail.com, we may add it.
+
+#
+DELETE
+
+You can delete your character from the login menu. If you are above level
+30 you must get assistance from an Immortal to delete your character. This
+is permanent and any progress gained prior to being delete will be lost.
+
+See Also: WIPE
 
 #
 SOURCE
@@ -8179,6 +8671,8 @@ anyone can use to start a MUD.  It is available from:
            anonymous@ftp.cs.jhu.edu      in /pub/CircleMUD
            Its author can be contacted at jelson@cs.jhu.edu.
 
+Current Source: Available on Github at https://github.com/c2admins/Crimson-2-MUD
+
 #
 OFLAG1
   This command lets you set 'special affects.'
@@ -8187,34 +8681,40 @@ OFLAG1
 
 Flag and Meaning
 ----------------
-GLOW         -  '...it glows brightly'
-HUM          -  '...it emits a faint hum'
-DARK         -  '...clouded in darkness'
-EVIL         -  '...glows red'
-INVISIBLE    - it is invisible
-MAGIC        - it shows a magical aura when 'detect magic' is cast on it.
-CURSED       - it can't be dropped/removed.
-BLESS        - it is blessed (like the spell bless) *DOES NOTHING NOW*
-ANTI-GOOD    - good alignment characters/mobs can't use it
-ANTI-EVIL    - evil alignment characters/mobs can't use it
-ANTI-NEURTAL - neutral alignment characters/mobs can't use it
-ANTI-MAGE    - mage class characters/mobs can't use it
-ANTI-THIEF   - thief class characters/mobs can't use it
-ANTI-CLERIC  - cleric class characters/mobs can't use it
-ANTI-WARRIOR - warrior class characters/mobs can't use it
-ANTI-DRAGON  - dragonkin class characters/mobs can't use it
-GOOD         -  doesn't do much of anything
-NORENT       - You can't rent with the item.
-MINLVL10     - characters under 10th level can not use
-MINLVL20     - characters under 20th level can not use
-MINLVL30     - characters under 30th level can not use
-MINLVL41     - characters under 41th level can not use
-NO_SEE       - object can't be seen by mortals
-*SMALLONLY   - only races flagged small can use the object.
-*LARGEONLY   - only races flagged large can use the object.
-NO_IDENTIFY  - identify scroll/spell won't work on it.
-NO_LOCATE    - You can't use where or locate locate to find the item.
-NO_SUMMON    - If the item is equiped, char can't be summoned.
+GLOW                -  '...it glows brightly'
+HUM                 -  '...it emits a faint hum'
+DARK                -  '...clouded in darkness'
+EVIL                -  '...glows red'
+INVISIBLE           - it is invisible
+MAGIC               - it shows a magical aura when 'detect magic' is cast on it.
+CURSED              - it can't be dropped/removed.
+BLESS               - it is blessed (like the spell bless) *DOES NOTHING NOW*
+ANTI-GOOD           - good alignment characters/mobs can't use it
+ANTI-EVIL           - evil alignment characters/mobs can't use it
+ANTI-NEURTAL        - neutral alignment characters/mobs can't use it
+ANTI-MAGE           - mage class characters/mobs can't use it
+ANTI-THIEF          - thief class characters/mobs can't use it
+ANTI-CLERIC         - cleric class characters/mobs can't use it
+ANTI-WARRIOR        - warrior class characters/mobs can't use it
+ANTI-PALADIN        - paladin class characters/mobs can't use it
+ANTI-PRIEST         - priest class characters/mobs can't use it
+ANTI-MONK           - monk class characters/mobs can't use it
+ANTI-DRUID          - DRUID class characters/mobs can't use it
+ANTI-ELDRITCHKNIGHT - paladin class characters/mobs can't use it
+ANTI-DRAGON         - dragonkin class characters/mobs can't use it
+GOOD                -  doesn't do much of anything
+NORENT              - You can't rent with the item.
+MINLVL10            - characters under 10th level can not use
+MINLVL20            - characters under 20th level can not use
+MINLVL30            - characters under 30th level can not use
+MINLVL41            - characters under 41th level can not use
+NO_SEE              - object can't be seen by mortals
+SMALLONLY           - only races flagged small can use the object.
+LARGEONLY           - only races flagged large can use the object.
+NORMALONLY          - only races flagged normal can use the object.
+NO_IDENTIFY         - identify scroll/spell won't work on it.
+NO_LOCATE           - You can't use where or locate locate to find the item.
+NO_SUMMON           - If the item is equiped, char can't be summoned.
 
    * means flag hasn't been implemented.
 
@@ -8489,7 +8989,7 @@ See Also player flag: SHOW_VEHICLE,
          room  flags: STATION_NORMAL, STATION_REVERSE, VEHICLE_DEATH
 
 #
-DISPLAY
+DISPLAY PROMPT
 
    The display command lets you set/control information which is
 shown to your character.  Enter display for a list of settable fields
@@ -8561,7 +9061,7 @@ ACRONYM
            - *beep*
 
 #
-RAGE
+RAGE 137 "SKILL 137" "SKILL RAGE
 
     Is the ability to go into a berserk mode of fighting.  Once in
 rage, you cannot flee.  When you attack, each successful hit does
@@ -8573,7 +9073,7 @@ XYZZY
 nothing happens.
 
 #
-NEWBIE_ABBREVIATE NEWBIE_ABBREVIATION ABBREVIATE
+NEWBIE_ABBREVIATE NEWBIE_ABBREVIATIONS ABBREVIATE
 
 The mud has been coded so that you only have to type as little as is
 possible to identify what you wish to to do.
@@ -8778,7 +9278,7 @@ Doors can be opened and closed using the 'open <door name>' and
 See help on : NORTH, SOUTH, EAST, WEST, UP, DOWN, OPEN, CLOSE.
 
 #
-NEWBIE_PRACS PRACTICES
+NEWBIE_PRACS PRACTICES TRAINING
 
 AS you progress through the game, you will wish to aquire new powers and
 abilities, to make yourself more powerful.
@@ -8807,7 +9307,7 @@ You don't have to rent from Crimson Mud.  Simply type quit and you will
 re-enter the game where you left off!
 
 #
-NEWBIE_RESTING
+NEWBIE_RESTING RESTING
 
 After a fight or whilst travelling long distances you may find yourself
 worn down.  You can correct this by sleeping or resting until you are
@@ -8821,6 +9321,17 @@ If you go three north from the Midgaard Fountain, to the "By the Altar"
 room.   At this room, enter PRAY and it will restore all your lost hit
 points and heal blindness/poison.   It will also removed curses and
 cursed items.  The healing part ends after you reach level 10.
+
+
+#
+PRAY
+
+This action has special functions in certain locations, some are well know
+such as at "North of the Temple" in Midgaard. Other rooms have an effect 
+you should look to the description in the room to help locate these.
+
+See Also: RESTING
+
 
 #
 NEWBIE_SHOPS
@@ -9051,41 +9562,45 @@ Message 21 Sun May 11 (Kinetic)    :: example removed.
 See Also: READ WRITE
 
 #
-"RESTRICTED CLASSES"
+"RESTRICTED CLASSES" RESTRICTIONS
 There is many limitations due to race for what class you can choose for
 that race this listing will show what races can be what classes.
 
-CLASS 		Mage 	Cleric 	Thief 	Warrior	 Bard 	Priest 	Paladin
-RACE
-&c1.&yHuman		 &CX	 &YX	 &KX        &RX	 &PX       &BX	 &WX
-&c2.&yDwarf			 &YX	 &KX        &RX	 &PX       &BX	 &WX
-&c3.&yGnome		 &CX	 &YX	 &KX        &RX	 &PX       &BX
-&c4.&yHalfling	 &CX	 &YX	 &KX        &RX	 &PX       &BX
-&c5.&yHalf Giant               	 &KX        &RX	 &PX       &BX	 &WX
-&c6.&yPixie		 &CX	 &YX	 &KX		 &PX       &BX
-&c7.&yDemon		 &CX	 &YX	 &KX        &RX
-&c8.&ySnotling	 &CX	 &YX	 &KX		 &PX       &BX
-&c9.&yFeline	 &CX	 &YX	 &KX        &RX	 &PX       &BX
-&c10.&yTroll			 &KX        &RX
-&c11.&yDragonkin	 &CX	 &YX		  &RX		 &BX
-&c12.&yCentaur	 &CX                        &RX
-&c13.&yMerman		 &YX	 &KX        &RX		 &BX
-&c14.&yHigh Elf	 &CX	 &YX                &RX	 &PX       &BX	 &WX
-&c15.&yHalf Elf	 &CX	 &YX	 &KX        &RX	 &PX       &BX	 &WX
-&c16.&yDrow Elf	 &CX	 &YX	 &KX        &RX		 &BX
-&c19.&yDarkling	 &CX	 &YX	 &KX        &RX		 &BX
-&c20.&yOgre		 &CX	 &YX		  &RX
-&c21.&yGoblin	 &CX	 &YX	 &KX		 &PX
-&c22.&yMinotaur		 &YX                &RX
-&c23.&yKender	 &CX	 &YX	 &KX		 &PX       &BX
-&c24.&yGiant		 &YX                &RX		 &BX
-&c26.&yIrda		 &CX	 &YX                &RX	 &PX       &BX
-&c28.&yBullywug		 &YX	 &KX        &RX	 &PX
-&c29.&yGargoyle	 &CX		 &KX        &RX
-&c32.&yLizardman		 &YX	 &KX        &RX			 &WX
-&c33.&ySahuagin	 &CX	 &YX                &RX		 &BX
-&c34.&ySatyr	 &CX	 &YX		  &RX	 &PX		 &WX
-&c35.&yYuan-ti	 &CX	 &YX	 &KX        &RX
+&yRACE		&cPLAYABLE CLASSES
+&yHuman		&cAll Classes
+&yDwarf		&cCleric, Thief, Warrior, Priest, Paladin, Monk 
+&yGnome		&cMage, Cleric, Thief, Warrior, Bard, Priest, Druid, Monk
+&yHalfling	&cCleric, Thief,Warrior, Bard, PRiest, Druid, Monk
+&yHalf Giant	&cThief, Warrior, Bard, Druid, Monk
+&yPixie		&cMage, Cleric, Thief, Bard, Priest, Druid
+&yDemon		&cMage, Cleric, Thief, Warrior, Eldritch Knight, Monk
+&ySnotling	&cMage, Cleric, Thief, Bard, Priest, Druid
+&yFeline		&cMage, Cleric, Thief, Warrior, Bard, Priest, Druid, Monk
+&yTroll		&cThief, Warrior, Monk
+&yDragonkin	&cMage, Cleric, Warrior, Priest, Druid
+&yCentaur		&cMage, Warrior, Druid, Eldritch Knight
+&yMerman		&cCleric, Thief, Warrior, Priest, Druid, Monk
+&yHigh Elf	&cAll Classes except for Thief
+&yHalf Elf	&cAll Classes
+&yDrow Elf	&cMage, Cleric, Thief, Warrior, Priest, Eldritch Knight, Monk
+&yOrc		&cMage, Cleric, Thief, Warrior, Priest, Druid, Eldritch Knight
+&yHalf Orc	&cAll Classes
+&yDarkling	&cMage, Cleric, Thief, Warrior, Priest, Eldritch Knight, Monk
+&yOgre		&cMage, Cleric, Warrior, Eldritch Knight, Monk
+&yGoblin		&cMage, Cleric, Thief, Bard, Eldritch Knight, Monk
+&yMinotaur	&cCleric, Warrior, Druid, Monk
+&yBugbear		&cMage, Cleric, Thief, Warrior, Bard, Priest, Paladin
+&yGiant		&cCleric, Warrior, Priest, Druid
+&yRavshi		&cMage, Thief, Priest, Eldritch Knight, Monk
+&yIrda		&cMage, Cleric, Warrior, Bard, Priest, Druid, Eldritch Knight
+&yThri-Kreen	&cAll Classes Except for Bard and Druid
+&yBullywug	&cCleric, Thief, Warrior, Bard, Druid, Monk
+&yGargoyle	&cMage, Thief, Warrior, Eldritch Knight
+&yImp		&cMage, Cleric, Thief, Warrior, Bard, Eldritch Knight, Monk
+&yLizardman	&cCleric, Thief, Warrior, Paladin, Druid, Monk
+&ySahuagin	&cMage, Cleric, Warrior, Priest, Eldritch Knight, Monk
+&ySatyr		&cMage, Cleric, Warrior, Bard, Paladin, Druid, Monk
+&yYuan-ti		&cMage, Cleric, Thief, Warrior, Druid, Eldritch Knight
 &n
 SEE ALSO: CLASS, RACE
 
@@ -9262,7 +9777,7 @@ DOFOR
 Usage: dofor <avat/mort/gods/quest/level/all/count> <command(s)>
 
 Dofor is a command so you can do something for multiple people or
-multiple things at once.  This is a LATORRMIS+ command.
+multiple things at once.  This is a IMMORTAL command.
 
 In all dofor command the # symbol is used for your list of targets
 all but count use this for player names, count uses it for its numbers.
@@ -9320,22 +9835,27 @@ a <GHOST level> flag after your name in the who list.
 #
 BLESS_COMMAND
 
-Bless utilizes a total of 25 spells.  These are:  aid [106], bless [3],
-armor [1],improved invisibility [9], detect evil [18], detect good [85],
-detect invisibility [19],detect magic [20], protection from evil [34],
-sanctuary major [36], strength [39],sense life [44], darksight [68],
-regeneration [74], breathwater [87], waterwalk [93],bind souls [151],
-demon flesh [142], demonic aid [127], intelligence [131], wisdom [132],
-dexterity [133], constitution [134], charisma [135] and fly [154].
+Bless utilizes a total of 33 spells.  These are: 
+  1) armor                   74) regeneration      135) charisma          
+  3) bless                   85) detect good       142) demon flesh  
+  9) improved invisibility   87) breathwater       151) bind souls        
+ 18) detect evil             93) waterwalk         154) fly
+ 19) detect invisibility    106) aid               163) detect giants
+ 20) detect magic           127) demonic aid       165) detect shadows
+ 34) protection from evil   130) detect animals    169) detect demons
+ 36) sanctuary major        131) intelligence      170) detect dragons
+ 39) strength               132) wisdom            171) detect undead
+ 44) sense life             133) dexterity         173) detect vampires
+ 68) darksight              134) constitution      207) vex
 
 
 To use bless, simply type bless <target>.
 
 NOTE: The spells will only work if you have them practiced.
 
-
+See also: BLESS COMMAND
 #
-MAIL MUDMAIL MUD_MAIL
+MAIL MUDMAIL MUD_MAIL MESSAGES MSG "MUD MAIL"
 
 To use mud-based mail, use the mail commands.  Type mail for a list of 
 options available to you. The current list of commands are as follows (keep
@@ -9398,7 +9918,7 @@ Credits for this command go to: Tyler Barnes<tyler.barnes@crcn.net>
 SEE ALSO: LOGVIEW
 
 #
-MULTIPLAYING MULTIS ALTS MULTI-PLAY
+MULTIPLAYING MULTIS ALTS MULTI-PLAY "MULTI PLAY"
 
 Multiplaying is defined as using more than one player character online at 
 a time.  This is not illegal for levels 1-41 and there is no set limit to
@@ -9441,7 +9961,7 @@ non-rule catagories respect it.
 
 If someone tells you something is a rule and you cannot find it in the
 helpfiles, news, or posts, follow it as such until you can confirm it from
-an administrator.  If you are still unsure you may ask a boss.
+an administrator.  If you are still unsure you may ask c2admins@gmail.com.
 
 #
 AGE
@@ -9593,7 +10113,7 @@ FINGER:	Black Moonstone Ring of Brimstone/sapphire ring
 NECK:	Paul's Crucifix/Symbol of Innocent/Cloak of Qis/Emerald Brooch
 HEAD:	Knights Helm/Philip's Handbasket/Winged Helm
 BODY:	Chromatic Armor/Soul of the Dragon
-LEGS:	Scales of Qis/Drakeskin Greaves/Raphael's Silvery Leggings/Dragonhide Leggings
+LEGS:	Raphael's Silvery Leggings/Scales of Justice
 FEET:	Boots with Gold Dragonscales/Gerin's Boots/Winged Sandals
 HANDS:	Astral Dragonscale Gauntlets/Serenity Gloves/Gloves of Thaddeus
 ARMS:	Shackles of Shame/Broken Chains/Black Dragonscale ArmPlates/Wyvernspur ArmGuard
@@ -9634,7 +10154,7 @@ FINGER: Forged Ring of the Hero/Bloody Ring of the Beast
 NECK:   Emerald Encrusted Brooch/Amulet of the Divine/Cloak of God
 HEAD:   Fallen Paladin's Helm/Winged Helm/Crown of Pain
 BODY:   Chromatic Armor/Platemail of the Earth
-LEGS:   Platinum Leg Bands/White Dragonscale Leggings/Legplate of the Lands
+LEGS:   Platinum Leg Bands/White Dragonscale Leggings/Scales of Justice
 FEET:   Boots of War/Gerin's Boots/Hermes Winged Sandals
 HANDS:  Legacy of Caine/Elven Gloves of Dexterity/Serenity Gloves
 ARMS:   Blue Dragonscale Arm Plates/Shackles of Shame/Sleeves of Death
@@ -9648,15 +10168,15 @@ TAILS:  Tail Made from ooze/Spiked Tail Fin/Tail from White Dragon Scales
 
 LVL 41: Evil DamRoll / BSTR KIT
 LIGHT:  Sigil of Madness/Dawn of Chaos/Flame Eternal Darkness/Storm Cloud
-FINGER: Chromatic Dragonscale Ring/Strength of the Sabbat
+FINGER: Chromatic Dragonscale Ring/Strength of Sabbat/bloody ring
 NECK:   Cloak of Skulls/Greiving Darkness/Guardian's Cloak
-HEAD:   Mark of the Beast/Skull of the Blue Dragon/Skull of the White Wyrm
+HEAD:   Mark of the Beast/Skull of the Blue Dragon/adamantine earrings
 BODY:   Leather Corset/Robe Dark Souls/Chainmail of Damned/enshrouded cloak
-LEGS:   Bloody Legplates/forged legplates/Tempered Adamantine Leggings
+LEGS:   Bloody Legplates/Tempered Adamantine Leggings
 FEET:   Boots of the Sky/Nadal's Boots/Leather Sandals
 HANDS:  Gloves of Divinty/Forged Gauntlets/Gauntlets of Darkness
 ARMS:   Leathery Membrane/Forged Arm Plates/Gauntlets of the sandman
-SHIELD: Remorhaz Skin Shield/Old Whining Shield
+SHIELD: Obscene Bulbous Shield/Old Whining Shield
 ABOUT:  Swirling Winds/Dorsal Fin/enshrouded cloak/spider carapace
 WAIST:  Breast of Vatang/Golem Maker's Belt/A Scaled Belt/Leather Sheath
 WRIST:  Marble Bracelets/Massive Gauntlets
@@ -9787,80 +10307,90 @@ HOLD:   Bow from Questmaster
 TAIL:   Dragonskin tail
 
 #
-DIRECTIONS
+DIRECTIONS "NEWBIE_DIRECTIONS" DIRS
 
 &G|'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''|
 &G|&WZone                  Levels  Align   FROM MARKET SQUARE               &G|
 &G|_______________________________________________________________________|
-&G|&WNewbie Village        (&C1&W-&C5&W)   [&YGood&W]  7n5w
-&G|&WSnotling Camp         (&C1&W-&C8&W)   [&REvil&W]  4w10n
-&G|&WGnome Village         (&C1&W-&C15&W)  [&YGood&W]  4w6n4w
-&G|&WVillage of Korum      (&C1&W-&C15&W)  [&wAll&W ]  4w5n
-&G|&WDaydream              (&C1&W-&C20&W)  [&YGood&W]  4w3s2wseu
-&G|&WHalfling Shire        (&C5&W-&C20&W)  [&wAll&W ]  4w3s2w4se4s
-&G|&WWailing Banshee       (&C5&W-&C20&W)  [&wALL&W ]  See 'help Wailing Banshee'
-&G|&WThalos                (&C8&W-&C25&W)  [&REvil&W]  4w3s2w4sw5sw3w
-&G|&WDomoi Itaba           (&C8&W-&C25&W)  [&REvil&W]  7e4d
-&G|&WTemple of T'Salchoic  (&C10&c+&W)   [&YGood&W]  7n3w2nwnw
-&G|&WSharrizar             (&C10&c+&W)   [&wAll&W ]  11e3sw
-&G|&WQuel'Sith Forest      (&C10&W-&C20&W) [&wAll&W ]  7w2sw3s
-&G|&WNewbie Caves          (&C10&W-&C25&W) [&REvil&W]  7n5w2nwn
-&G|&WGrig Forest           (&C10&W-&C25&W) [&wAll&W ]  13w2sesws2ws2e
-&G|&WArachnos              (&C10&W-&C25&W) [&REvil&W]  13ws3wu
-&G|&WSilverDale            (&C12&W-&C30&W) [&REvil&W]  16ne2n3u
-&G|&WEgypt                 (&C15&c+&W)   [&wAll&W ]  4w3s2w4sw7sesesn5s
-&G|&WPixie Garden          (&C15&c+&W)   [&YGood&W]  4w3s2w4se4s7e
-&G|&WArnath                (&C15&c+&W)   [&YGood&W]  s2e2s5w9s3eu
-&G|&WAmazon Jungle         (&C15&c+&W)   [&wAll&W ]  s2e2s5w11s
-&G|&WTuscany               (&C15&c+&W)   [&wAll&W ]  21e4sw3s3e
-&G|&WViking                (&C15&c+&W)   [&wAll&W ]  7e3se3n2w4n
-&G|&WAtlantis              (&C15&W-&C25&W) [&YGood&W]  s2e2s4es3d2e
-&G|&WOverlord's Lair       (&C15&W-&C30&W) [&wAll&W ]  4w3s2w4se4s3w10s2e2nu
-&G|&WDwarven Kingdom       (&C15&W-&C41&W) [&YGood&W]  13wn2e2nene2se3ue
-&G|&WShikonas island       (&C20&c+&W)   [&wAll&W ]  8n2s4e4sw4sw3s2ws3es12e2n
-&G|&WDraconia              (&C20&c+&W)   [&wAll&W ]  23en
-&G|&WLizard Canyon         (&C20&c+&W)   [&REvil&W]  4w3s2w4sw7sen
-&G|&WVolcano               (&C20&c+&W)   [&REvil&W]  s2e2s5w16sw2nsue2n
-&G|&WDrow City             (&C20&c+&W)   [&REvil&W]  16n2esdwnwn3e3wseses3ed
-&G|&WElemental Canyon      (&C20&c+&W)   [&wAll&W ]  See 'help Elemntal Canyon'
-&G|&WCity of Mirielle      (&C20&c+&W)   [&REvil&W]  4w6n2w5n
-&G|&WLair of Ratmen        (&C20&c+&W)   [&REvil&W]  11e5s
-&G|&WElfin Citadel         (&C20&c+&W)   [&YGood&W]  4w3s2w4sw2su2n
-&G|&WThieves Guild         (&C20&c+&W)   [&wAll&W ]  3w6s2esw2dn
-&G|&WTeldescian Swamp      (&C20&W-&C35&W} [&wAll&W ]  7w2sw5sws2ws
-&G|&WCastle Bryan          (&C20&W-&C35&W) [&YGood&W]  4wn4w3nw5n
-&G|&WDarkling              (&C20&W-&C40&W) [&wAll&W ]  7w2s2wsw
-&G|&WCitadel of Chaos      (&C20&W-&C40&W) [&wAll&W ]  4w3s2w4sws5wuw
-&G|&WLake                  (&C20&W-&C41&W) [&wAll&W ]  4w3s2w4se4s7e2nw2es4eds
+&G|&WNewbie Village       (&C1&W-&C5&W)   [&YGood&W]  7n10w
+&G|&WSnotling Camp        (&C1&W-&C8&W)   [&REvil&W]  4w10n
+&G|&WGnome Village        (&C1&W-&C15&W)  [&YGood&W]  4w6n4w
+&G|&WVillage of Korum     (&C1&W-&C15&W)  [&wAll&W ]  4w5n
+&G|&WDaydream             (&C1&W-&C20&W)  [&YGood&W]  4w3s2wseu
+&G|&WHalfling Shire       (&C5&W-&C20&W)  [&wAll&W ]  4w3s2w4se4s
+&G|&WWailing Banshee      (&C5&W-&C20&W)  [&wALL&W ]  Help Wailing Banshee
+&G|&WThalos               (&C8&W-&C25&W)  [&REvil&W]  4w3s2w4sw5sw3w
+&G|&WDomoi Itaba          (&C8&W-&C25&W)  [&REvil&W]  7e4d
+&G|&WTemple of T'Salchoic (&C10&c+&W)   [&YGood&W]  7n3w2nwnw
+&G|&WSharrizar            (&C10&c+&W)   [&wAll&W ]  11e3sw
+&G|&WQuel'Sith Forest     (&C10&W-&C20&W) [&wAll&W ]  7w2sw3s
+&G|&WNewbie Caves         (&C10&W-&C25&W) [&REvil&W]  7n5w2nwn
+&G|&WGrig Forest          (&C10&W-&C25&W) [&wAll&W ]  13w2sesws2ws2e
+&G|&WArachnos             (&C10&W-&C25&W) [&REvil&W]  13ws3wu
+&G|&WSilverDale           (&C12&W-&C30&W) [&REvil&W]  16ne2n3u
+&G|&WEgypt                (&C15&c+&W)   [&wAll&W ]  4w3s2w4sw7sesesn5s
+&G|&WPixie Garden         (&C15&c+&W)   [&YGood&W]  4w3s2w4se4s7e
+&G|&WArnath               (&C15&c+&W)   [&YGood&W]  s2e2s5w9s3eu
+&G|&WAmazon Jungle        (&C15&c+&W)   [&wAll&W ]  s2e2s5w11s
+&G|&WTuscany              (&C15&c+&W)   [&wAll&W ]  21e4sw3s3e
+&G|&WViking               (&C15&c+&W)   [&wAll&W ]  7e3se3n2w4n
+&G|&WAtlantis             (&C15&W-&C25&W) [&YGood&W]  s2e2s4es3d2e
+&G|&WOverlord's Lair      (&C15&W-&C30&W) [&wAll&W ]  4w3s2w4se4s3w10s2e2nu
+&G|&WDwarven Kingdom      (&C15&W-&C41&W) [&YGood&W]  13wn2e2nene2se3ue
+&G|&WShikonas island      (&C20&c+&W)   [&wAll&W ]  8n2s4e4sw4sw3s2ws3es12e2n
+&G|&WDraconia             (&C20&c+&W)   [&wAll&W ]  23en
+&G|&WLizard Canyon        (&C20&c+&W)   [&REvil&W]  4w3s2w4sw7sen
+&G|&WVolcano              (&C20&c+&W)   [&REvil&W]  s2e2s5w16sw2nsue2n
+&G|&WDrow City            (&C20&c+&W)   [&REvil&W]  16n2esdwnwn3e3wseses3ed
+&G|&WElemental Canyon     (&C20&c+&W)   [&wAll&W ]  Help Elemental Canyon
+&G|&WCity of Mirielle     (&C20&c+&W)   [&REvil&W]  4w6n2w5n
+&G|&WLair of Ratmen       (&C20&c+&W)   [&REvil&W]  11e5s
+&G|&WElfin Citadel        (&C20&c+&W)   [&YGood&W]  4w3s2w4sw2su2n
+&G|&WThieves Guild        (&C20&c+&W)   [&wAll&W ]  3w6s2esw2dn
+&G|&WTeldescian Swamp     (&C20&W-&C35&W} [&wAll&W ]  7w2sw5sws2ws
+&G|&WCastle Bryan         (&C20&W-&C35&W) [&YGood&W]  4wn4w3nw5n
+&G|&WDarkling             (&C20&W-&C40&W) [&wAll&W ]  7w2s2wsw
+&G|&WCitadel of Chaos     (&C20&W-&C40&W) [&wAll&W ]  4w3s2w4sws5wuw
+&G|&WLake                 (&C20&W-&C41&W) [&wAll&W ]  4w3s2w4se4s7e2nw2es4eds
 
 #
-CRITICAL CHARGED "FLAME RUSH" "MISSILE MADNESS" CLASS_BONUS
-This is a list of criticals that you get with your class at AVAT level.
+"CRITICAL BONUS" CHARGED "FLAME RUSH" "MISSILE MADNESS" "CLASS_BONUS"
+This is a list of criticals that you get with your class at level 30.
 
 Critical attack modifiers for classes:
 *Note must have the move cost for criticals to have a chance of working
 
-         Damage  Move cost
-Warrior  x 2        50
- Priest  x 1.25     10
-   Bard  x 1.35     20
-Paladin  x 1.5      25
+          Damage  Move cost
+ Warrior  x 2        50
+  Priest  x 1.25     10
+    Bard  x 1.35     20
+ Paladin  x 1.5      25
+    Monk  x 2        50
+Eldritch  x 1.35     25
 
 Critical spell modifiers for classes:
 *number(x,y) means a random number from x to y
 *dice means it works just like dice so xdy
 
             Spell      Multiplier(Formula)
-   Mage  firelance     x 2
-         fireball      x 2
-         firestorm     x 2
- Cleric  heal minor    x 2
-         heal medium   x 2
-         heal major    x 2
+   Mage  firelance     	  x 2
+         fireball      	  x 2
+         firestorm     	  x 2
+Eldritch firelance     	  x 1.5
+         fireball      	  x 1.5
+         firestorm     	  x 1.5
+
+ Cleric  heal minor    	  x 2
+         heal medium   	  x 2
+         heal major   	  x 2
  Priest  cure critic   dice(number(3,18),number(8,48)) + number(WIS,INT*2)
    Bard  magic missile from 1-10 extra missiles
-Paladin  heal minor    x 1.25
-         heal medium   x 1.25
+Paladin  heal minor   	  x 1.25
+         heal medium   	  x 1.25
+  Druid  thornwrack	  x 2
+         needlestorm	  x 2
+         sporecloud	  x 2
+         wrath of nature  x 2
 
 Critical backstab modifier for classes:
 
@@ -9883,7 +10413,7 @@ This will transform you into the spirit of a bear.
 See Also: help forms
  
 #
-DICE
+DICE "NEWBIE_DICE"
 
 This is a point of confusion for many.  Let's start with the basics.
 First let's say you have a Serrated Short Sword at 2d8 damage.  

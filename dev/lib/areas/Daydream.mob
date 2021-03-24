@@ -1,0 +1,538 @@
+#125
+mob cabana man~
+Cabana Man~
+Cabana Man stands here behind his bar ready to serve whatever you want.
+~
+   Cabana man is a thin man that is often shirtless.  He's not frail or weak,
+his body is fair and average.  He stands about a couple inches shorter than
+yourself, and has the biggest smile you've ever seen.  He'd be happy to get
+you any drinks your heart desires.
+~
+1141112842 4194305 136249361 8 1000 S
+24 16 20 8d6+1950 5d8+20
+16000 73000
+8 8 1
+0 0 18 18 18 18 18 18
+#126
+mob pleasant happy people~
+Pleasant happy people~
+A group of pleasant happy people are resting here happily.
+~
+   Here you see several people lying back laughing pleasantly.  It is clear
+that they are totally happy, they want you to be happy to.  *SMILE*
+~
+1141112840 4194305 136249361 16777736 1000 S
+16 24 28 5d8+225 3d2+1
+4100 4900
+8 8 0
+0 0 18 18 18 18 18 18
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#127
+mob tropical fish~
+a school of tropical fish~
+A beautiful school of tropical fish are gathering here.
+~
+   This is a fair sized school of colorful tropical fish.  Some are red and
+blue striped, some resemble a tigers fur pattern, others completely yellow
+except for a sparkly pattern of violet that runs around their heads.  They
+seem to like to swim around you playfully.
+~
+1157890058 4194305 136249361 16777224 1000 S
+8 30 35 2d5+45 3d3+3
+0 240
+8 8 0
+0 0 18 18 18 18 18 18
+#128
+mob jeeves butler~
+Jeeves the butler~
+Your butler Jeeves is here awaiting your orders.
+~
+   Ahh yes your faithful butler Jeeves.  He stands about your height with a
+nice shiny bald head.  Occasionally he sports a scraggly hair piece that he
+believes makes him look 'sexy'.
+~
+1140850696 4194305 136249361 136 1000 S
+20 20 24 4d10+740 4d4+7
+6500 61000
+8 8 1
+0 0 18 18 18 18 18 18
+SKILL=SKILL_SECOND 75
+#129
+mob maid gorgeous~
+a gorgeous maid~
+One of your many maids is here ready to do your bidding.
+~
+   This is not your ordinary maid, no sir, this is one hand picked.  She is
+both incredibly gorgeous and highly skilling in the service area.  She sports
+a ordinary black and white maids uniform, feather duster, and a big ole smile
+that would melt anyone to mush.
+~
+1141112844 6291457 136249361 8 1000 S
+17 23 27 5d5+255 5d5+8
+4300 5200
+8 8 2
+0 0 18 18 18 18 18 18
+#130
+mob ballroom dancers~
+some ballroom dancers~
+Some ballroom dancers twirl around your room giving you compliments.
+~
+ Here is a finely dressed couple of master ballroom dancers.  They twirl about
+the room in a manner so graceful you could swear they were floating.  The man
+is wearing a wonderfully cut black and white tuxedo and has a white rose pinned
+upon the chest of it.  The woman has a genuinely exquisite white lacey gown
+that twirls amazingly as she spins and smiles.
+~
+1141112842 4194305 136249361 8 1000 S
+18 22 26 8d8+300 3d5+4
+4650 5600
+8 8 0
+0 0 18 18 18 18 18 18
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#131
+mob six-piece string orchestra~
+a six-piece string orchestra~
+Your six-piece string orchestra is here in the corner playing your favorite music.
+~
+   Here sits a group of fantasic musicians.  One holds a cello, one a violin,
+another a sparkly white harp, the next a lute, the finally a very long
+wonderfully designed dulcimer.  They sit and play beautiful ballads and
+music, keeping you and your company happy.
+~
+1141112842 4194305 136249361 8 1000 S
+18 22 26 5d10+275 3d2+2
+4600 5600
+8 8 0
+0 0 18 18 18 18 18 18
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#132
+mob chef~
+a chef~
+Your master chef is here offering all your favorites.
+~
+   Its your, although small, around 4 ft tall master chef.  He's constantly
+making all your favorite foods.  Yelling out "Finish!" every 30 seconds,
+as he finishes his next meal.  He's a magic chef as you should well know, how
+else would he make your meals so fast?
+~
+1141112842 4194305 136249361 8 1000 S
+19 21 25 10d10+500 6d4+7
+4800 15000
+8 8 1
+0 0 18 18 18 18 18 18
+SKILL=SKILL_SECOND 25
+#133
+mob comet~
+a comet~
+A large beautiful comet speeds around the space.
+~
+   This is a large flaming comet.  It speeds around space slowly and at light
+speeds.  It seems to like flying around you.  Sparks and small rock fragments
+fly from its long flaming tail.  Looks like it even has a face thats smiling
+back as you look at it.
+~
+1409548312 4227073 136249361 200 1000 S
+21 19 23 10d5+825 5d7+13
+8500 64500
+8 8 0
+0 0 18 18 18 18 18 18
+#134
+mob star~
+a star~
+A glimmering star is hovering here in space.
+~
+   This is a five sided star.  It isn't exactly the kind of star you would
+imagine in space, but more like one you would draw on a piece of paper.  It
+twirls around you happily and scatters dust about.
+~
+335806488 4227073 136249361 200 1000 S
+17 23 27 5d5+130 5d5+8
+4300 5125
+8 8 0
+0 0 18 18 18 18 18 18
+#135
+mob cat~
+a cat~
+A cat is here rubbing up against your leg.
+~
+   This is a medium sized, yellow and orange striped cat.  It constantly purrs
+happily while you are in the room.  It looks to you in hopes that you will
+pick it up and pet it.
+~
+1157890058 4194305 136249361 8 1000 S
+12 23 32 5d5+140 3d4+5
+0 3675
+8 8 0
+0 0 18 18 18 18 18 18
+#136
+mob itsy bitsy cuddly kitten~
+an itsy bitsy cuddly kitten~
+An itsy bitsy cuddly kitten is rolling around here with a ball of yarn.
+~
+   This is a very small, cute and cuddly kitten.  It rolls around with its
+little ball of yarn and meows with glee.  It looks up to you with its little
+innocent kitty eyes and lets out a faint happy meow.  Aww ain't it cute.
+~
+1157890058 4194305 136249361 8 1000 S
+6 31 36 2d2+38 2d2+4
+0 175
+8 8 0
+0 0 18 18 18 18 18 18
+#137
+mob dog~
+a dog~
+A happy dog is here with a stick, waiting to play fetch.
+~
+   This is a fair sized dark brown furred dog with a patch of white going from
+under its chin, all over its under area, and bottom of its tail.  It sits here
+wagging its tail patiently for you to grab a stick to play fetch with it.
+~
+1157890058 4194305 136249361 8 1000 S
+14 25 30 3d5+180 4d2+11
+0 4325
+8 8 0
+0 0 18 18 18 18 18 18
+#138
+mob teenie weenie cute little puppy~
+a teenie weenie cute little puppy~
+A teenie weenie cute little puppy is chasing its tail playfully.
+~
+   Oh look its a small little puppy, how precious.  It looks up at you with
+its big puppy eyes and gives out a few little barks.  It hops around your feet
+wanting you to roll around and play with it.
+~
+1157890058 4194305 136249361 8 1000 S
+7 30 36 2d1+40 2d2+5
+0 215
+8 8 0
+0 0 18 18 18 18 18 18
+#139
+mob rabbit~
+a rabbit~
+A fluffy little rabbit is hopping here.
+~
+   Its a fuzzy little white rabbit.  It has has cute little red eyes that
+stare up at you.  It hops at your feet and shows its love.
+~
+1157890058 4194305 136249361 8 1000 S
+6 31 36 2d1+38 3d3+1
+0 190
+8 8 0
+0 0 18 18 18 18 18 18
+#140
+mob hampster~
+a hampster~
+A hampster is here running playfully around the room.
+~
+   Here is a very small white and brown patched hampster.  It speeds across
+the floor around you and squeaks merrily.  It stands on its hind legs and looks
+up at you with a look on its tiny little face that resembles a smile.
+~
+1157890058 4194305 136249361 8 1000 S
+3 34 38 1d1+25 3d1+1
+0 90
+8 8 0
+0 0 18 18 18 18 18 18
+#141
+mob squirrel~
+a squirrel~
+A squirrel is sitting here eating nuts.
+~
+   Here is a little grey squirrel with a long bushy tail.  It sits here chomping
+and gnawing on some nuts.  Quickly it runs up your legs, up all around you,
+atop your head, then quickly runs back down to the ground and continues eating
+its nuts.
+~
+1157890058 4194305 136249361 8 1000 S
+4 33 37 2d2+30 3d1+2
+0 130
+8 8 0
+0 0 18 18 18 18 18 18
+#142
+mob bird parrot~
+a parrot~
+A parrot swoops around the room squawking about your greatness.
+~
+  This is a rainbow colored parrot.  Mostly red except for around its neck
+and tail feathers which are all colors like, blue, green, and yellow.  It flys
+around the room talking up a storm about how you are the best human in the
+world.
+~
+1157890058 4194305 136249361 8 1000 S
+10 29 34 3d3+121 3d5+2
+0 3125
+8 8 0
+0 0 18 18 18 18 18 18
+#143
+mob bird humming~
+a humming bird~
+A tiny little humming bird buzzes around the room.
+~
+   This birds wings flap at unbelievable speeds, you can barely see them.  It
+its a light greenish color with a little bit of yellow here and there.  It
+buzzes playfully around your head.
+~
+1157890058 4194305 136249361 8 1000 S
+3 34 38 2d2+25 3d1+1
+0 100
+8 8 0
+0 0 18 18 18 18 18 18
+#144
+mob bird dove~
+a dove~
+A beautiful white dove is here on your shoulder.
+~
+   Small and silky white, beautiful, this is just a fraction of the words you
+could use describe this birds magnificence.  Its beauty makes you nearly forget
+anything and everything that is, was, or ever will be wrong.  It lands on your
+shoulder, and coos in your ear.
+~
+1157890058 4194305 136249361 8 1000 S
+6 33 36 3d1+39 3d2+2
+0 175
+8 8 0
+0 0 18 18 18 18 18 18
+#145
+mob pretzel little dancing white chocolate~
+a little dancing white chocolate covered pretzel~
+A little dancing white chocolate covered pretzel is here doing a sexy dance.
+~
+   Here is a smooth....milky....sweet....chocolate covered pretzel.  It dances
+about the room seductively....seductive chocolate....oh yes, oh my.  Can it
+get much better than this?
+~
+1140850698 4194305 136249361 8 0 S
+18 22 26 15d3+290 7d5+4
+4600 5500
+8 8 0
+0 0 18 18 18 18 18 18
+#146
+mob human sculpture chocolate~
+a human sculpture made of chocolate~
+A sculpture of a human made entirely out of chocolate is standing here.
+~
+   Its amazing how closely this statue resembles a real human.  Down to the
+very smallest features it is identical, the only determinant is that its
+made out of chocolate, otherwise you'd think it WAS real.  It isn't is it?
+~
+1141112842 4194305 136249361 8 0 S
+19 21 24 35d45+50 7d5+6
+4800 25000
+8 8 0
+0 0 18 18 18 18 18 18
+#147
+mob fluffy cloud~
+a fluffy cloud~
+A fluffy cloud is floating about the area.
+~
+   A big fluffy white cloud.  Not much to say about this except that it actually
+seems as if this cloud is real....and is smiling at you.
+~
+1141112840 4194305 136249361 67109064 0 S
+16 24 28 1d1+124 4d5+9
+0 5000
+8 8 0
+0 0 18 18 18 18 18 18
+#148
+mob merman~
+a merman~
+A merman is here cheering for you.
+~
+   He is a reasonable sized merman, about 5 feel tall.  He has blue-green scaly
+skin that shines with the light coming through the water.  The small gill
+slits on the sides of his throat slowly open and close.  He stares at you and
+shakes your hand, telling you how you are the best leader.
+~
+1141112840 4194305 136249361 16777224 1000 S
+15 25 29 10d2+200 10d2+4
+3600 4625
+8 8 1
+0 0 18 18 18 18 18 18
+#149
+mob mermaid~
+a mermaid~
+A mermaid is here cheering for you.
+~
+   She is about 5 feet tall like her male counterpart.  She has beautiful,
+blue-green scaly skin that shimmers even without the help of light.  She smiles
+at you and tells you how great you keep the kingdom and how much she loves you
+as king.
+~
+1141112840 4194305 136249361 16777224 1000 S
+15 25 29 10d2+200 10d2+4
+3600 4625
+8 8 2
+0 0 18 18 18 18 18 18
+#150
+mob group sahuagin folk~
+a big group of sahuagin folk~
+A big group of sahuagin folk are here shouting about you being a god.
+~
+   Here stands a large group of big and muscular sahuagin folk.  They swim
+around the area yelling "You are a god!  You should be considered god by
+everyone!".  They love you and worship the water you swim in.
+~
+1141112842 4194305 136249361 16777224 1000 S
+18 22 26 5d5+300 2d2+3
+4650 5625
+8 8 0
+0 0 18 18 18 18 18 18
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#151
+mob monarch butterfly~
+a monarch butterfly~
+A monarch butterfly is here perched upon a flower.
+~
+   Here flies a beautiful black and brown monarch butterfly.  It flutters about
+and lands upon all the beautiful flowers.  It lands on your finger, then a
+moment after flies back off.
+~
+1141112840 4194305 136249361 72 1000 S
+3 34 38 2d2+25 2d2+1
+0 110
+8 8 0
+0 0 18 18 18 18 18 18
+#152
+mob satisfaction~
+&YSatisfaction&n~
+A little satisfaction.
+~
+The feeling is complete.
+The task is filled.
+The life is grand.
+You are thrilled.
+~
+1141112858 4227073 136249361 603979976 1000 S
+20 20 24 5d10+810 6d5+2
+6000 62000
+8 8 0
+0 0 18 18 18 18 18 18
+SKILL=SKILL_SECOND 50
+#153
+mob happiness~
+&PHappiness&n~
+A little happiness.
+~
+A feeling of content.
+A breath of true life.
+Value the joy.
+Eliminate the strife.
+~
+1141112858 4227073 136249361 603979976 1000 S
+21 19 23 5d5+825 6d5+2
+9000 65000
+8 8 0
+0 0 18 18 18 18 18 18
+SKILL=SKILL_SECOND 60
+#154
+mob pleasure~
+&RPleasure&n~
+A little pleasure.
+~
+Enjoy the feelings.
+Enjoy the light.
+Be forever happy.
+Forever feel right.
+~
+1141112858 4227073 136249361 603979976 1000 S
+22 18 22 6d6+890 6d5+3
+11000 68000
+8 8 0
+0 0 18 18 18 18 18 18
+SKILL=SKILL_SECOND 70
+#155
+mob rapture~
+&CRapture&n~
+A little rapture.
+~
+Rapture!  Rapture!
+Delight!  Delight!
+The world is lovely.
+The world is bright.
+~
+1141112858 4227073 136249361 603979976 1000 S
+23 17 21 4d10+940 6d5+3
+14000 71000
+8 8 0
+0 0 18 18 18 18 18 18
+SKILL=SKILL_SECOND 80
+#156
+mob bliss~
+&GBliss&n~
+A little bliss.
+~
+To the top of happiness.
+Feeling so great.
+Complete your smile.
+It is never too late.
+~
+1141112858 4227073 136249361 603979976 1000 S
+24 16 20 5d5+990 6d5+4
+16000 74000
+8 8 0
+0 0 18 18 18 18 18 18
+SKILL=SKILL_SECOND 90
+#157
+mob embodiment ecstacy~
+The Embodiment of Ecstacy~
+The embodiment of all that is pure and happy is here making you swoon in ecstacy.
+~
+   Here stands pure and total happiness.  A single glance at this and you are
+filled with joy and ecstasy.  No other feelings have been so enhanced or as
+great as the ones this makes you feel.
+Satisfaction.
+             Happiness.
+                       Pleasure.
+                                Rapture.
+                                        Bliss.
+                                              ECSTASY!
+~
+1141112858 4227073 136249361 1140850888 1000 S
+25 15 17 10d10+1000 5d5+7
+19000 77000
+8 8 0
+0 0 18 18 18 18 18 18
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 10
+$~
+#999999

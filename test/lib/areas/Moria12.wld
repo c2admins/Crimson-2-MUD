@@ -1,0 +1,1754 @@
+#4000
+The hills~
+   You are on a path leading north, small hills surrounds you. You feel
+the forces of evil approach you from the north.
+~
+39 4 0 1 99 4
+D0
+~
+~
+0 0 4001
+D2
+~
+~
+0 0 3500
+S
+#4001
+The hills~
+   You are on a small path leading north. dark threatening hills surround you
+on almost all sides, and there is an old rickety looking wooden sign here.
+~
+39 4 0 1 99 4
+D0
+~
+~
+0 0 4002
+D2
+~
+~
+0 0 4000
+E
+sign wooden~
+Beware traveller! You are heading towards the Mines of Moria...my whole party 
+were lost in there. Be sure to take a strong party with you or you may suffer
+the same fate!
+                   Signed,
+                        Agenfal Grenstom.
+~
+S
+#4002
+End of the path~
+   The path stops here, to the north is a single mountain and around you
+are some threatening hills. There is a dark cave to the north. You see a
+large sign on the mountain.
+~
+39 4 0 1 99 4
+D0
+~
+~
+0 0 4010
+D2
+~
+~
+0 0 4001
+E
+sign~
+The sign says:
+***********************************************************************
+*                                                                     *
+* ******************************************************************* *
+* *                                                                 * *
+* *                    The Mines of Moria                           * *
+* *                                                                 * *
+* *                  Enter at your own risk.                        * *
+* *                                                                 * *
+* *     Welcome to the mines of Moria.. At present there are only   * *
+* *           3 levels. Later the plan is to build 20...            * *
+* *                                                                 * *
+* *     Are you below level 3 Don't enter..                         * *
+* *     Are you below level 8 Don't enter alone..                   * *
+* *                                                                 * *
+* ******************************************************************* *
+*                                                                     *
+***********************************************************************
+~
+S
+#4003
+The damp tunnel~
+  You are in a damp tunnel, your clothes feel wet. The tunnel continues 
+to the north and to the south.
+~
+39 9 0 1 99 3
+D0
+It's hard to see through the darkness.
+~
+~
+0 -1 4022
+D2
+It's hard to see through the darkness.
+~
+~
+0 -1 4004
+S
+#4004
+Battle Scene~
+  A great battle took place in this narrow tunnel. Several bodies of orcs 
+and kobolds lay scattered about, the bodies already decaying from the moisture
+that exists within these caverns. Closer examination of the bodies reveals 
+brutal wounds that could only be caused by years of mutual hatred. 
+~
+39 13 0 1 99 3
+D0
+It's hard to see through the darkness.
+~
+~
+0 -1 4003
+D2
+It's too dark to tell.
+~
+~
+0 -1 4005
+S
+#4005
+Kobold Barricade~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D0
+It's dark in there.
+~
+~
+0 -1 4004
+D2
+It's dark in there.
+~
+~
+0 -1 4006
+S
+#4006
+Beyond the Barricade~
+  Stepping over the unidentifiable corpses that attempt to block entry into
+this sector of the mines, you are greeted by a large number of kobolds who
+scamper around in a vain attempt to form a defensive wall in case you turn 
+out to be aggressive. The cavern itself is rather large, spanning out into 
+the darkness as far as the eye can see, the ceiling also being hidden in the
+darkness. Shadowy outlines of what can only be living quarters can be seen 
+further to the south, while small shacks that serve as guard houses lie
+to the east and west.
+~
+39 32777 0 1 99 0
+D0
+It's dark in there.
+~
+~
+0 -1 4005
+D1
+Inside the guard house.
+~
+door east~
+9 0 4007
+D2
+Inside the kobold camp.
+~
+~
+0 -1 4009
+D3
+Inside the guard house.
+~
+door west~
+9 0 4008
+S
+#4007
+Small Guard House~
+  Small and modest, the shack serves as living quarters for the kobold 
+guards. A shoddily assembled table serves as an eating area, while crude
+bunks have been set up against each wall save for the west, which is
+where the exit lies. 
+~
+39 32777 0 1 99 0
+D3
+To the barricade.
+~
+~
+9 -1 4006
+S
+#4008
+Small Guard House~
+  Small and modest, the shack serves as living quarters for the kobold
+guards. A shoddily assembled table serves as the eating area, while crude
+bunks have been set against each weall save for the east, which is 
+where the exit lies.
+~
+39 32777 0 1 99 0
+D1
+To the barricade.
+~
+~
+9 -1 4006
+S
+#4009
+Inside the Cavern~
+  Two shoddily built huts can be seen to either side of you to the east 
+and west. The cavern ceiling is still out of sight, but to the south
+can be made out another building, along with a number of stalagmites
+rising up from the floor.
+~
+39 13 0 1 99 0
+D0
+to the barricade.
+~
+~
+0 -1 4006
+D1
+A small kobold house.
+~
+~
+9 -1 4033
+D2
+It's too dark to see.
+~
+~
+0 -1 4034
+D3
+A small kobold house.
+~
+~
+9 -1 4032
+S
+#4010
+The cave~
+   You are in a cave, to the south you sense fresh air. To the north a
+small tunnel continues into the mountain.
+~
+39 9 0 1 99 2
+D0
+~
+~
+0 0 4011
+D2
+~
+~
+0 0 4002
+S
+#4011
+The tunnel~
+   You force your way through a small tunnel, to you south you sense
+a little fresh air, and to the north the tunnel continues.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4014
+D2
+~
+~
+0 0 4010
+S
+#4012
+The tunnel~
+   You are in a small tunnel, to the north there is a cave. The tunnel
+continues to the east.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4016
+D1
+~
+~
+0 0 4013
+S
+#4013
+The tunnel~
+   You are in a small tunnel leading east-west. The floor is covered by
+dust.
+~
+39 9 0 1 99 3
+D1
+~
+~
+0 0 4014
+D3
+~
+~
+0 0 4012
+S
+#4014
+The tunnel~
+   You are in a tunnel, the tunnel continues to the south and to the
+west, to the north there is a cave.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4018
+D1
+nothing special.
+~
+~
+0 -1 4015
+D2
+~
+~
+0 0 4011
+D3
+~
+~
+0 0 4013
+S
+#4015
+The tunnel~
+   You are in a small tunnel, the tunnel continues west.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4019
+D1
+It's too dark to see.
+~
+~
+0 -1 4049
+D3
+~
+~
+0 0 4014
+S
+#4016
+The large cave~
+   You are in a large cave, the cave continues east and west, to the south
+you notice a small tunnel.
+~
+39 9 0 1 99 2
+D1
+~
+~
+0 0 4017
+D2
+~
+~
+0 0 4012
+D3
+~
+~
+0 0 4023
+S
+#4017
+The large cave~
+   You are in the east end of the large cave.
+~
+39 9 0 1 99 2
+D3
+~
+~
+0 0 4016
+S
+#4018
+The cave~
+   You are in the south end of a cave, to the south you see a tunnel. You
+notice a large pile of bones in the corner.
+~
+39 9 0 1 99 2
+D0
+~
+~
+0 0 4025
+D2
+~
+~
+0 0 4014
+E
+pile bones~
+Well you better watch out - some of the bones are human !
+~
+S
+#4019
+The tunnel~
+   You are in a north-south leading tunnel.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4026
+D2
+~
+~
+0 0 4015
+S
+#4020
+The hole~
+   You are by a hole in the floor, you can leave down, or north.
+~
+39 13 0 1 99 3
+D0
+~
+~
+0 0 4027
+D5
+~
+~
+0 0 4064
+S
+#4021
+The hole~
+   You are by a hole in the floor, the only exit is east.
+~
+39 13 0 1 99 3
+D1
+~
+~
+0 0 4022
+S
+#4022
+The damp tunnel~
+  You are in a damp tunnel, your clothes feel wet. The tunnel continues
+to the north, and also to the south. to the west you see a hole in the 
+floor, and to the east there is a large cave.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4024
+D1
+~
+~
+0 0 4023
+D2
+It's hard to see through the darkness.
+~
+~
+0 -1 4003
+D3
+~
+~
+0 0 4021
+S
+#4023
+The large cave~
+   You are in the western part of the large cave, to the west you see
+a damp tunnel.
+~
+39 9 0 1 99 2
+D1
+~
+~
+0 0 4016
+D3
+~
+~
+0 0 4022
+S
+#4024
+The damp tunnel~
+   You are in a damp tunnel, that leads west.
+~
+39 9 0 1 99 3
+D2
+~
+~
+0 0 4022
+D3
+~
+~
+0 0 4059
+S
+#4025
+The cave~
+   You are in the north end of a cave. To the east you see some tunnels
+which leads in many directions.
+~
+39 9 0 1 99 2
+D0
+A strange power emantes through a crack.
+~
+~
+16 -1 4096
+D1
+~
+~
+0 0 4026
+D2
+~
+~
+0 0 4018
+S
+#4026
+The many tunnels~
+   You are in a tunnel, that leads of in all directions.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4028
+D1
+~
+~
+0 0 4027
+D2
+~
+~
+0 0 4019
+D3
+~
+~
+0 0 4025
+S
+#4027
+The tunnel~
+   You are in a north-south leading tunnel, you also notice a tunnel to
+the west. From the north you sense the fresh air!
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4029
+D2
+~
+~
+0 0 4020
+D3
+~
+~
+0 0 4026
+S
+#4028
+The smelly tunnel~
+   You are in a north-south leading tunnel, you see a small light
+to the north. You notice a strange smell from the north..
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4030
+D2
+~
+~
+0 0 4026
+S
+#4029
+The cave~
+   You are in a cave that is filled with fresh air, you sense the
+wind blowing from the north. To the south you see a small tunnel
+continue into the mountain.
+~
+39 9 0 1 99 2
+D0
+~
+~
+0 0 4031
+D2
+~
+~
+0 0 4027
+S
+#4030
+The light cave~
+   You are in a light cave, through a hole large above you, you see
+the sky. A small tunnel to the south is the only way out.
+You notice the source of the strange smell, all around you there is
+corpses from several monsters.
+~
+39 0 0 1 99 2
+D0
+You feel a slight breeze.
+~
+~
+16 -1 4096
+D2
+~
+~
+0 0 4028
+D4
+You are looking up an abandoned mineshaft. You think you could
+probably climb up it.
+~
+hole sky~
+0 -1 4075
+E
+corpse corpses~
+IT STINKS!
+~
+S
+#4031
+The valley~
+   You are in a small valley, surrounded by hills and a mountain to
+the south. In the mountain there is a cave.
+~
+39 0 0 1 99 2
+D2
+~
+~
+0 0 4029
+E
+cave~
+Well it doesn't look nice, but it's the only way out..
+~
+S
+#4032
+A Kobold House~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D1
+It's dark out there.
+~
+~
+9 -1 4009
+S
+#4033
+A Kobold House~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D3
+It's dark out there.
+~
+~
+0 -1 4009
+S
+#4034
+Inside the Cavern~
+  A small building lies to the south, while two trails wind through the
+stalagmites to the east and west. The back of the cavern wall lies
+further to the south, but is inaccessible because of the larger rock
+formations that lie in that direction. The whole area has a damp and 
+dreary feel, leaving a cold chill in your bones.
+~
+39 13 0 1 99 0
+D0
+It's too dark to see.
+~
+~
+0 -1 4009
+D1
+It's too dark to see.
+~
+~
+0 -1 4039
+D2
+It's too dark to see.
+~
+~
+9 -1 4035
+D3
+It's too dark to see
+~
+~
+0 -1 4036
+S
+#4035
+A Small Kobold House~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D0
+It's too dark to see.
+~
+~
+9 -1 4034
+S
+#4036
+Path Through the Stalagmites~
+  Winding your way around the various rock structures that rise up from
+the floor, you can't help but notice several blood stains that tell a 
+tale of battle and death in this area. A building, larger than the rest 
+can barely be made out to the west, while to the east lies a path out
+of the stalagmites.
+~
+39 13 0 1 99 0
+D1
+It's too dark to see
+~
+~
+0 -1 4034
+D3
+A larger kobold house.
+~
+~
+9 -1 4037
+S
+#4037
+Large Kobold House~
+  Several vials and objects of faith lie scattered around the room. A
+rather large, but modest bed lies up against the eastern wall, while
+a bookshelf filled with tomes of faith lies against the southern wall.
+From the clothing strewn all over the floor, it could only be asumed
+that this is the home of a priestess, but she's not in right now.
+~
+39 13 0 1 99 0
+D1
+It's too dark to see.
+~
+~
+9 -1 4036
+D2
+Doesn't seem to be anything this way...or is there?
+~
+bookcase south~
+25 0 4038
+S
+#4038
+A Hidden Room~
+  A small idol of some unknown kobold god is the primary feature of this 
+room. A small kobold priestess, older than time itself, sits huddled on
+a mat in front of the idol, praying for you to go away.
+~
+39 13 0 1 99 0
+D0
+Another room in the kobold house.
+~
+bookcase north~
+25 0 4037
+S
+#4039
+Narrow Trail Through the Stalagmites~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D1
+It's too dark to see.
+~
+~
+0 -1 4040
+D2
+A small kobold house.
+~
+~
+9 -1 4041
+D3
+It's too dark to see.
+~
+~
+0 -1 4034
+S
+#4040
+A Narrow Trail Through the Stalagmites~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D1
+A very large structure.
+~
+~
+0 -1 4042
+D3
+It's too dark to see.
+~
+~
+0 -1 4039
+S
+#4041
+A Small Kobold House~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D0
+It's too dark to see.
+~
+~
+9 -1 4039
+S
+#4042
+Home of the Chief~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D0
+A side room.
+~
+~
+0 -1 4044
+D1
+Another room inside the 'palace'.
+~
+~
+0 -1 4043
+D3
+It's too dark to see.
+~
+~
+0 -1 4040
+S
+#4043
+The Waiting Room~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D1
+Kobold chief's throne room.
+~
+~
+0 -1 4045
+D3
+Entrance to the 'palace'.
+~
+~
+0 -1 4042
+S
+#4044
+A Small Side Room~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D2
+Entryway of the 'palace'.
+~
+~
+0 -1 4042
+S
+#4045
+The Throne Room~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D0
+Chief's living quarters.
+~
+~
+0 -1 4046
+D3
+A room in the 'palace'.
+~
+~
+0 -1 4043
+S
+#4046
+The Chief's Sleeping Quarters~
+  As the tunnel opens into a larger cavern, the most predominate feature 
+of the opening is a large pile of bodies piled up to act as a barricade. A
+number of sharp pointy spears can be seen sticking out from behind the 
+bodies, but no forms are visible from here. The tunnel leads south into the 
+cave opening, and north leads further into the mines.
+~
+39 13 0 1 99 0
+D2
+Chief's throne room.
+~
+~
+0 -1 4045
+S
+#4047
+Newly Carved Tunnel~
+  The deeper you travel into the tunnel system, the newer the excavation
+seems to be. Large wooden beams hold up the ceiling in several places,
+mainly for protection in earthquakes rather than poor construction. The
+tunnel leads both east and west.
+~
+39 13 0 1 99 0
+D1
+It's too dark to see.
+~
+~
+0 -1 4048
+D3
+It's too dark to see.
+~
+~
+0 -1 4049
+S
+#4048
+Newly Carved Tunnel~
+  The tunnel takes a sharp turn to the south here. Clanging sounds
+can be heard coming from that direction.
+~
+39 13 0 1 99 0
+D2
+It's too dark to see.
+~
+~
+0 -1 4077
+D3
+It's too dark to see.
+~
+~
+0 -1 4047
+S
+#4049
+A Carved Out Tunnel~
+  The sides of the walls seem to have been hewn with primitive 
+digging devices, leading you to believe that this area was not
+part of the original tunnels. An exit leads east, deeper into
+this new tunnel system.
+~
+39 32777 0 1 99 0
+D1
+It's too dark to see.
+~
+~
+0 -1 4047
+D3
+It's too dark to see.
+~
+~
+0 -1 4015
+S
+#4050
+The tunnel~
+   You are in a tunnel, which turns here. The tunnel continues to the
+east and the south.
+~
+39 9 0 1 99 3
+D1
+~
+~
+0 0 4051
+D2
+~
+~
+0 0 4053
+S
+#4051
+The tunnel~
+   You are in an east-west leading tunnel. The tunnel is very narrow
+here.
+~
+39 9 0 1 99 3
+D1
+~
+~
+0 0 4052
+D3
+~
+~
+0 0 4050
+S
+#4052
+The tunnel~
+   You are in an east-west leading tunnel.
+~
+39 9 0 1 99 3
+D1
+~
+~
+0 0 4100
+D3
+~
+~
+0 0 4051
+S
+#4053
+The tunnel~
+   You are at a turn, the tunnel continues north and east.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4050
+D1
+~
+~
+0 0 4054
+S
+#4054
+The light cave~
+   You are in a cave, to south from you there is a large fire that lights
+the entire cave, to the east and west tunnels leads off.
+~
+39 8 0 1 99 2
+D1
+~
+~
+0 0 4055
+D2
+~
+~
+0 0 4056
+D3
+~
+~
+0 0 4053
+S
+#4055
+The maze~
+   You are in a maze of small damp tunnels. Only exit is west to a
+light cave.
+~
+39 9 0 1 99 3
+D3
+~
+~
+0 0 4054
+S
+#4056
+The light cave~
+   You are in a light cave, a large fire in front of you lights the room.
+The cave continues to the north and south.
+~
+39 8 0 1 99 2
+D0
+~
+~
+0 0 4054
+D2
+~
+~
+0 0 4061
+E
+fire~
+Well, errh - It looks somehow quite warm..!
+~
+S
+#4057
+The maze~
+   You are in a maze of small damp tunnels. Exits leads both north
+and south.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4055
+D2
+~
+~
+0 0 4062
+S
+#4058
+The maze~
+   You are in a maze of small damp tunnels. Exits leads west and south.
+~
+39 9 0 1 99 3
+D2
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4057
+S
+#4059
+The tunnel~
+   You are in a tunnel, only exit is to the east. You sense that the
+tunnel leads slightly down.
+~
+39 13 0 1 99 3
+D1
+It's too dark to see.
+~
+~
+0 -1 4024
+S
+#4060
+The tunnel~
+   You are in a small tunnel, to the west the tunnel continues and
+to the east you see some light.
+~
+39 9 0 1 99 3
+D1
+~
+~
+0 0 4061
+D3
+~
+~
+0 0 4059
+S
+#4061
+The light cave~
+   You are in the south end of a light cave, tunnels leads of to the
+south and west.
+~
+39 8 0 1 99 2
+D0
+~
+~
+0 0 4056
+D2
+~
+~
+0 0 4065
+D3
+~
+~
+0 0 4060
+S
+#4062
+The maze~
+   You are in a maze of small damp tunnels. Exits leads east and west.
+~
+39 9 0 1 99 3
+D1
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4061
+S
+#4063
+The maze~
+   You are in a maze of small damp tunnels. Exits leads north and east.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4054
+D1
+~
+~
+0 0 4064
+S
+#4064
+The tunnel~
+   You are in a tunnel, only exit is west - Only exit, well there is
+also a hole in the ceiling.
+~
+39 9 0 1 99 3
+D3
+~
+~
+0 0 4063
+D4
+~
+~
+0 0 4020
+S
+#4065
+The maze~
+   You are in a maze of small damp tunnels. The tunnel continues east.
+To the north there is a light cave.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4061
+D1
+~
+~
+0 0 4066
+S
+#4066
+The maze~
+   You are in a maze of small damp tunnels. Exits leads east and
+north. To the south is a large cave.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4062
+D1
+~
+~
+0 0 4067
+D2
+~
+~
+0 0 4069
+S
+#4067
+The maze~
+   You are in a maze of small damp tunnels. Exits leads west and
+north.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4063
+D3
+~
+~
+0 0 4066
+S
+#4068
+The large cave~
+   You are in the northwest end of a large cave.
+~
+39 9 0 1 99 2
+D1
+~
+~
+0 0 4069
+D2
+~
+~
+0 0 4070
+S
+#4069
+The large cave~
+   You are in the northeast end of a large cave. To the north the
+is a small damp tunnel.
+~
+39 9 0 1 99 2
+D0
+~
+~
+0 0 4066
+D2
+~
+~
+0 0 4071
+D3
+~
+~
+0 0 4068
+S
+#4070
+The large cave~
+   You are in the southwest end of a large cave.
+~
+39 9 0 1 99 2
+D0
+~
+~
+0 0 4068
+D1
+~
+~
+0 0 4071
+S
+#4071
+The large cave~
+   You are in the southeast end of a large cave. To the east you
+notice a small tunnel.
+~
+39 9 0 1 99 2
+D0
+~
+~
+0 0 4069
+D1
+~
+~
+0 0 4072
+D3
+~
+~
+0 0 4070
+S
+#4072
+The tunnel~
+   You are in a narrow tunnel, which leads both to the east and the
+south. There is also an exit towards the west, where you see a large
+cave.
+~
+39 9 0 1 99 3
+D1
+~
+~
+0 0 4073
+D2
+~
+~
+0 0 4074
+D3
+~
+~
+0 0 4071
+S
+#4073
+End of tunnel~
+   The tunnel stops here. There is no other exits than the one you
+came from.
+~
+39 9 0 1 99 3
+D3
+~
+~
+0 0 4072
+S
+#4074
+The hole~
+  You are at a small hole in the floor, which appears to have been boarded
+over by someone. The boards are clearly very solid as a number of rocks seem
+to have fallen from the ceiling over the years to cover them, and they have
+not given way.
+~
+39 9 0 1 99 3
+D0
+~
+~
+0 0 4072
+S
+#4075
+Abandoned Mineshaft~
+   You are in an abandoned mineshaft. The wooden wreckage of some sort
+of lift make it possible to climb up and down. below you is a cave
+littered with the corpses of monsters.
+~
+39 0 0 1 99 2
+D4
+~
+~
+0 -1 4076
+D5
+~
+~
+0 -1 4030
+S
+#4076
+Abandoned Mineshaft~
+   You are in an abandoned mineshaft. The wooden wreckage of some sort
+of lift make it possible to climb up and down. below you is a cave
+littered with the corpses of monsters.
+~
+39 0 0 1 99 2
+D4
+~
+~
+0 -1 4500
+D5
+~
+~
+0 -1 4075
+S
+#4077
+Newly Carved Tunnel~
+  The tunnel takes another sharp turn to the east. The clanging sounds
+have started becoming louder.
+~
+39 13 0 1 99 0
+D0
+It's too dark to see.
+~
+~
+0 -1 4048
+D1
+It's too dark to see.
+~
+~
+0 -1 4078
+S
+#4078
+Newly Carved Tunnel~
+  The tunnel takes yet another turn, this time to the north. Through
+the darkness further ahead, you can see what appear to be sparks, as 
+if stone were being struck by metal objects.
+~
+39 32777 0 1 99 0
+D0
+It's too dark to see.
+~
+~
+0 -1 4079
+D3
+It's too dark to see.
+~
+~
+0 -1 4077
+S
+#4079
+Newly Carved Tunnel~
+  Several humanoid figures work quietly about the area, seemingly 
+unaware of your presense. Judging from appearances, it would seem as
+if they are trying to expand the size of the tunnel for some unknown
+purpose. The dark tunnel leads north and south, north seeming to be 
+a bit wider than the southern exit.
+~
+39 32777 0 1 99 0
+D0
+It's too dark to see.
+~
+~
+0 -1 4080
+D2
+It's too dark to see.
+~
+~
+0 -1 4078
+S
+#4080
+A Sharp Turn~
+  The tunnel finally gives way to a cavern. From the marks on the 
+walls, it would appear as though the whole system were dug out, 
+rather than being a natural formation. No stalagmites nor stalagtites
+exist here, but sounds of trickling water can be heard further on to 
+the east.
+~
+39 32777 0 1 99 0
+D1
+It's too dark to see.
+~
+~
+0 -1 4081
+D2
+It's too dark to see.
+~
+~
+0 -1 4079
+S
+#4081
+Unnatural Cavern~
+  Even after taking a few moments to try and adjust your sight, it is 
+still impossible to determine the exact size of this cavity. Numerous
+workers walk by, seemingly unaware of your presense. With the darkness,
+it's impossible to tell whether they are human or not. Sounds of 
+activity can be heard from all directions.
+~
+39 32777 0 1 99 0
+D1
+It's too dark to see.
+~
+~
+0 -1 4084
+D2
+It's too dark to see.
+~
+~
+0 -1 4082
+D3
+It's too dark to see.
+~
+~
+0 -1 4080
+S
+#4082
+Unnatural Cavern~
+  Soft light bathes the area in a warm glow from a fire near the cavern wall. 
+Several fugures huddle around the flames for warmth, while workers chip away at
+the walls.
+~
+39 32777 0 1 99 0
+D0
+It's too dark to see.
+~
+~
+0 -1 4081
+D1
+It's too dark to see.
+~
+~
+0 -1 4083
+S
+#4083
+Unnatural Cavern~
+  Soft light bathes the area in a warm glow from a fire near the cavern wall.
+Several fugures huddle around the flames for warmth, while workers chip away at
+the walls.
+~
+39 32777 0 1 99 0
+D0
+It's too dark to see.
+~
+~
+0 -1 4084
+D3
+It's too dark to see.
+~
+~
+0 -1 4082
+S
+#4084
+Unnatural Cavern~
+  Soft light bathes the area in a warm glow from a fire near the cavern wall.
+Several fugures huddle around the flames for warmth, while workers chip away at
+the walls.
+~
+39 32777 0 1 99 0
+D1
+You feel a slight breeze from that direction.
+~
+~
+16 -1 4085
+D2
+It's too dark to see.
+~
+~
+0 -1 4083
+D3
+It's too dark to see.
+~
+~
+0 -1 4081
+S
+#4085
+Small Side Tunnel~
+  A small crevice in the wall, almost unnoticeable leads to another
+tunnel. A warm glow comes from the east, and sounds of muffled voices
+can be heard from that direction.
+~
+39 32777 0 1 99 0
+D1
+It's too dark to see.
+~
+~
+0 -1 4086
+D3
+It's too dark to see.
+~
+~
+0 -1 4084
+S
+#4086
+Turn in the Tunnel~
+  The small tunnel takes a sharp turn to the north. The warm light that
+greeted you, now becomes brighter. The muffled voices are now discernable,
+and seem to be several beings talking about war plans.
+~
+39 32777 0 1 99 0
+D0
+A structure built into the wall.
+~
+~
+0 -1 4087
+D3
+It's too dark to see.
+~
+~
+0 -1 4085
+S
+#4087
+Planning Room~
+  Several orcs huddle over a small table, muttering and pointing at
+a map that shows the layout of the mines. They are discussing battle 
+stategies with the other races that inhabit these caverns and seem to 
+like their odds.
+~
+39 32777 0 1 99 0
+D2
+It's too dark to see.
+~
+~
+0 -1 4086
+S
+#4088
+Orc Area~
+UNDEFINED ROOM DESCRIPTION: 4088
+~
+39 32777 0 1 99 0
+S
+#4089
+Orc Area~
+UNDEFINED ROOM DESCRIPTION: 4089
+~
+39 32777 0 1 99 0
+S
+#4090
+Orc Area~
+UNDEFINED ROOM DESCRIPTION: 4090
+~
+39 32777 0 1 99 0
+S
+#4091
+Orc Area~
+UNDEFINED ROOM DESCRIPTION: 4091
+~
+39 32777 0 1 99 0
+S
+#4092
+Orc Area~
+UNDEFINED ROOM DESCRIPTION: 4092
+~
+39 32777 0 1 99 0
+S
+#4093
+Orc Area~
+UNDEFINED ROOM DESCRIPTION: 4093
+~
+39 32777 0 1 99 0
+S
+#4094
+Orc Area~
+UNDEFINED ROOM DESCRIPTION: 4094
+~
+39 32777 0 1 99 0
+S
+#4095
+The Pits of Despair~
+  Flames lick at your heels as you fall into the pits of the
+Abyss.
+
+Sorry, you have just expired.
+~
+39 268468315 0 1 99 0
+S
+#4096
+Entrance to the Temple~
+  A small crack in the wall leads to a set of stairs reaching up to
+an ancient and mysterious looking temple. Though no light exists here,
+a plethora of moss and fungus survive in the area, feeding off of an
+unknown gelatin like substance that seems to ooze from the very walls.
+The temple itself is dark and ominous, having several skeletal remains
+heaped around it's base, some humaniod, others undistiguishable due
+to age.
+~
+39 32777 0 41 99 0
+D0
+A feeling of evil.
+~
+~
+0 -1 4095
+D1
+A feeling of evil.
+~
+~
+0 -1 4095
+D3
+A feeling of evil.
+~
+~
+0 -1 4095
+D4
+A hidden stairway leads up.
+~
+~
+16 -1 4097
+S
+#4097
+Throne Room of the Hobgoblin King~
+  The first antechamber of the strange temple is rather empty, save
+for a large throne that sits square in the middle of the room. Though
+rather plain looking, the throne has numberous scratch marks upon it, 
+almost as if a beast sits upon it all day with nothing better to do.
+~
+39 268468233 0 1 99 0
+D0
+A feeling of evil.
+~
+~
+0 -1 4095
+D1
+A feeling of evil.
+~
+~
+0 -1 4095
+D2
+A feeling of evil.
+~
+~
+0 -1 4095
+D3
+A feeling of evil.
+~
+~
+0 -1 4095
+D4
+Another hidden stairway.
+~
+~
+16 -1 4098
+S
+#4098
+Temple of the Kobold Lord~
+  This antechamber inside the temple is packed with offerings from
+the kobolds to their godling Spline. All manners of trinkets and food
+lay scattered over the floor in a vain attempt to gain the gods favor
+in the war below.
+~
+39 268468233 0 1 99 0
+D0
+A feeling of evil.
+~
+~
+0 -1 4095
+D1
+A feeling of evil.
+~
+~
+0 -1 4095
+D2
+A feeling of evil.
+~
+~
+0 -1 4095
+D3
+A feeling of evil.
+~
+~
+0 -1 4095
+D4
+Another hidden stairway.
+~
+~
+16 -1 4099
+S
+#4099
+Throne of the Orc God~
+  Lush carpets and tapestries adorn this antechamber. A huge
+silver throne sits atop a marble stairway, bathing the entire
+area in light.Atop the throne sits Groll, god of all orcs. He
+doesn't look like he appreciates your company.
+~
+39 268468233 0 1 99 0
+D0
+A feeling of evil.
+~
+~
+0 -1 4095
+D1
+A feeling of evil.
+~
+~
+0 -1 4095
+D2
+A feeling of evil.
+~
+~
+0 -1 4095
+D3
+A feeling of evil.
+~
+~
+0 -1 4095
+D4
+A feeling of evil.
+~
+~
+0 -1 4095
+D5
+A hidden stairway leading down.
+~
+~
+16 -1 4115
+S
+$~
+#999999

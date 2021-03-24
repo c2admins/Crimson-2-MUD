@@ -1,0 +1,636 @@
+#20550
+mob glowbug~
+&wA &YGlow&yBug&n~
+&wA &Yglowing &yinsect &wfloats about in the &Gmist&n.
+~
+  You sense a hidden form in the room.  The tail of the insect lights up, sparkling
+in the night sky, its head also glows, with that of a heavenly halo, maybe that
+would look great on you.
+~
+16777228 1 136282129 128 0 S
+40 3 -22 1d1+5999 10d15+15
+0 300000
+8 8 0
+0 0 25 15 14 14 14 12
+#20551
+mob myst~
+&GMyst&n~
+&wA &Wfog &wbegins tearing away at you&n.
+~
+  A haze envelopes your eyes.  It just stand here, blinding you.
+Its a hovering mass of compressed ice turned into air.
+It comes closer, attempting to strangle every last breath
+out of you, better not let that happen.
+~
+10 32769 136249361 128 1000 S
+44 1 -25 1d1+5999 15d15+10
+0 850000
+8 8 0
+0 0 25 15 16 14 15 12
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_HEAL_MINOR 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20552
+mob maggot flying~
+&wA &BFlying &yMaggot&n~
+&wA &Wbaby &ymaggot &Bflies &waround, its tiny wings stressing against the &Cbreeze&n.
+~
+  These are baby dirt maggots.  They come out of their larva with wings, only to
+shed them after age one.  It hovers past you trying to sweep you off your feet
+in a playful manner.
+~
+16777228 1 136282129 128 0 S
+39 2 -10 1d1+4999 10d10+20
+0 240000
+8 8 0
+0 0 25 15 14 25 14 12
+SKILL=SKILL_HUNT 99
+#20553
+mob kandrel~
+Kandrel, dragon of the flame~
+A dragon, consumed with flames lies here asleep.
+~
+A humongous dragon lies here, burning with an ever glowing fire.  These caves are where she dwells.  Her companion accompanies her in slumber upon the top of the caves.  Her wingspan is larger then that of 
+her companion, Cantrel.  It seems to cover three quarters of the cave and overlaps Cantrel's wings with her's.  She has the mark's of battle slashed and scarred upon her.  Her eyes flicker with that of an 
+everlasting flame.  She lies here sleeping, yet awoken, there will be flames and brimstone thrown upon thee with the force of the ever burning dragon.
+~
+138412042 32769 136249361 128 1000 S
+47 0 -35 1d1+17999 20d20+35
+22500 1300000
+8 8 2
+0 0 25 15 14 25 12 11
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 45
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20554
+mob cantrel~
+Cantrel, the dragon of stone~
+A dragon, made of stone lies here sleeping.
+~
+A very small statured dragon lies here in slumber, not to be awoken.  This is the stone dragon, mythical for battles with fearsome foe's in which the wicca tribe could not handle alone.  Long ago, this dragon was 
+made of pure evil, helping out Spiral and Mindkiller in their quest to overtake this realm and slaughter the feeble.  In a large battle involving Jendrul, Onkara, Vorpus, Menter, and the soldiers that still roam
+below, the immortality of Spiral and Mindkiller were put to the test, a large fire broke out, sending them underground into a spiral of darkness.  The night the victors, The Wicca tribe, won that 
+battle, they captured Cantrel, making him new again, peaceful in nature to those who were of low class and helping the less fortunate in their struggles.  He thus became an ally to the tribe, yet he could not save
+them from pure and genuine evil.  He has on his body a very large scar from the battle he endured with The Messiah and his band of warriors.  The scar seems to be healed by stone.  The legend of this dragons
+battle with Messiah began, nights and years past.  He was awoken by the pillaging of the fields, and the haunting screams of Onkara, screaming as his flesh was being eaten by the LeechWorms.  He arose from
+his cave to swoop down upon the hoard of warriors, but was shot down with a humongous blast of ice sent from The Messiah's weapon, fabled to be The Serrated Angel.  The blast of ice sent a hole tearing through
+Cantrel's hide, shattering his heart.  That night, lying in a pool of blood, God himself drove a spirit back into the lifeless dragon, sending him into the cave to heal his wounds.  The dragon's life began a new that 
+night.  His lifeless body was revitalized by the holy hands of The Creator. Thus this dragon has given his
+soul and his life to God, helping the less fortunate and helping the weak and feeble.  This dragon's eyes 
+ glow with that of the holy, he is not to be awoken.
+~
+138412042 32769 136249361 128 1000 S
+48 0 -40 1d1+18749 25d10+30
+50000 2000000
+8 8 1
+0 0 25 17 14 25 13 14
+SKILL=SPELL_COLOUR_SPRAY 75
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 50
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=105
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=105
+#20555
+mob caveman decayed~
+&wA &KDecayed &yCaveman&n~
+&wA huge pile of &Kbones &wbegins to move towards you&n.
+~
+  You see before you a partially preserved skeleton with a tattered loin cloth
+still clinging to the decaying bones.  It lunges towards you, grabs your foot 
+attempting to suck you into it's pit of death.
+~
+167772170 32769 136249361 128 0 S
+45 2 -30 1d1+12999 10d20+10
+1000000 1000000
+8 8 0
+0 0 25 15 16 25 14 13
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20556
+mob Munkril healer ~
+&WMunkril&w, the &CHealer&n~
+&wA very old man is here, still practicing his medicine&n
+~
+  A frail old man stands here.  He stands right before a blinding light.  He still
+stays here, afraid of what might be going on down in The Fields.  He has fled,
+not ready to be a casualty of Messiah's hate.
+~
+10 32769 136249361 128 1000 S
+45 2 -30 1d1+14999 10d20+10
+2000000 1000000
+8 8 0
+0 0 25 15 16 25 14 13
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20557
+mob maggot dirt~
+&yA flesh eating dirt maggot&n~
+&yA gross looking maggot lies here waiting to steal your &Rblood&n.
+~
+&yYou see before you a very large insect.  It lurks here awaiting the chance
+to pounce upon your skin and suck the blood from it.  Maybe if you place the
+sword right there.........&n
+~
+25165834 32769 136249361 0 0 S
+47 2 -30 1d1+29999 30d10+99
+0 1500000
+8 8 0
+0 0 25 16 14 25 13 12
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 75
+SKILL=SKILL_FOURTH 50
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20558
+mob oozing worm~
+&KAn &Goozing &Kworm&n~
+&KA worm rolls here, &Goozing &Kin it's own filth&n.
+~
+  &GA humungous worm lies here, wallowing in its own filth.  I perks its head up
+hearing you get closer.  It snarls and bares its fangs at your approach, this is
+the wrong lair to walk into&n.
+~
+25165834 32769 136249361 0 0 S
+48 2 -32 1d1+34999 20d20+20
+0 1500000
+8 8 0
+0 0 25 18 14 25 12 12
+SKILL=SPELL_HARM 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 35
+SKILL=SPELL_MAGIC_RESIST 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#20559
+mob flame eternal darkness~
+&KThe &RFlame &Kof Eternal Darkness&n~
+&KThe dark &Rflame &Kof eternity lies here in wait to steal your soul&n.
+~
+&K  The &RFlame &Kof eternal darkness lies here.  It's eerie glow has drawn you
+closer to it.  It bends over, flames bearing down upon you.  It whispers 'I am 
+what you fear, i am what is in your dreams that makes you wake up in that cold
+sweat.  I am your demise!'&n
+~
+177209354 32769 136249361 128 -1000 S
+48 0 -34 1d1+45999 20d20+99
+5000000 2000000
+8 8 0
+0 0 25 17 14 25 12 12
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_FIRE_BREATH 50
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20560
+mob skinless corpse~
+&nA skinless corpse~
+&nA skinless corpse wanders around.
+~
+  &WA fleshless corpse roams here.  It's skin long decayed and its &KBones &W
+deteriorating as well.  It sneaks up, and places its fingers on your flesh, 
+attempting to pull it from you to clothe its bones&n.
+~
+33554442 32769 136249361 2097152 -1000 S
+47 0 -33 1d1+29999 40d10+99
+1500000 1650000
+8 8 0
+0 0 25 18 16 25 15 14
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 35
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 75
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20561
+mob the dark knight~
+&KThe Dark Knight&n~
+&KThe Dark Knight &wstill roams here&n.
+~
+&nA large knight still stands here, guarding the entrance to the Dark Halls. The
+knight just stands here, a &Rred&n glow in his &Weyes&n, he just stares blankly
+at nothing but whats ahead of him.
+~
+176480266 1343489 136249361 128 -1000 S
+48 0 -33 1d1+24999 30d30+99
+3000000 1500000
+8 8 0
+0 0 25 16 14 15 14 12
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#20562
+mob hush~
+&BH&bu&Bs&bh&n~
+The last pieces of hate await your fury.
+~
+  A formless emotion lies here in wait.  Hush is the emotion of silence.  Without
+silence, all the other emotions would not exist.
+~
+33554442 32769 136249361 2097280 -1000 S
+48 0 -40 1d1+49999 30d30+99
+3500000 1500000
+8 8 0
+0 0 25 17 16 25 13 12
+SKILL=SPELL_SILENCE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20563
+mob steel golem~
+&wThe &KSteel Golem&n~
+&wThe &KSteel Golem&w roams here&n.
+~
+&nWhat stands before you is a large metallic golem.  Its circuits are protruding
+from its metal frame.  Suddenly, a big glow begins surrounding it, its eyes glow
+red as it comes alive once again.  The Steel Golem is one of only a few left of 
+the golems Dr. Wyzlitrus made during his experimentations.  He created several
+metal golems, but failed.  Thus what he created were disfigured golems like
+what stands before you.  But in a rage this Golem attacked its master, brutally
+slaying him in cold blood, now it roams the halls in which it was created,
+searching for more.
+~
+142606346 4227073 136249361 524416 -1000 S
+47 0 -30 1d1+19999 30d10+15
+2250000 1300000
+8 8 0
+29 4 25 18 15 16 12 11
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_IMMUNE 35
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 45
+SKILL=SPELL_BLACK_BURST 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20564
+mob golden golem~
+&wThe &YG&yo&Yl&yd&Ye&yn &KGolem&n~
+&wThe &YG&yo&Yl&yd&Ye&yn &KGolem roams here.&n
+~
+&nThe second of the four golems that survived the brutal transformation from metal
+to machine stands before you.  He is &Ygolden&n.  He wields an axe bearing the same
+resemblance to his color.  His body structure is beyond massive.  He stands well
+over thirty feet tall and his body itself looks like a tree trunk.  His eyes
+begin glowing.  His body begins a hellacious transformation, growing larger.
+His axe begins humming.  He eyes you as he comes alive, knowing you have
+come here to slay him, thus he shall try and thwart your plans.
+~
+142606346 4227073 136249361 524416 -1000 S
+48 0 -30 1d1+24999 30d10+15
+2750000 1500000
+8 8 0
+29 4 25 18 15 16 12 11
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_ENERGY_DRAIN 35
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_MORTICE_FLAME 75
+SKILL=SPELL_EARTHQUAKE 50
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20565
+mob platinum golem~
+&wThe &WPlatinum &KGolem&n~
+&wThe &WPlatinum &KGolem &wroams here&n.
+~
+&nWhat stands before you is a fifty foot monster made of metal.  Its eyes glow
+red, its hands and arms begin to move as you notice it coming alive.  Its body
+is the colour &Wplatinum&n, it stands before you.  This was the golem that
+took the head of Dr. Wyzlitrus from his body after letting his companions 
+disembowel their master.  This golem was equiped with ringmail, so tough
+that even the mighty wrath of the Messiah would be inpenetrable to its
+armour.  Eyes red, hands down, its coming straight for you.
+~
+142606346 4227073 136249361 524416 -1000 S
+48 0 -37 1d1+33999 30d10+15
+3000000 1650000
+8 8 0
+29 4 25 18 15 16 12 11
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=99
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#20566
+mob adamantium golem~
+&wThe &KA&wd&Ka&wm&Ka&wn&Kt&wi&Ku&wm &KGolem&n~
+&wThe &KA&wd&Ka&wm&Ka&wn&Kt&wi&Ku&wm &KGolem &wroams here.&n
+~
+&nThe fourth of the golems rests here.  His body coated in &Kadamantium&n 
+from head to toe except the giant &Rfla&Ym&Ring&n sword he is wielding.  This 
+was one of the final Golem made by Dr. Wyzlitrus before they began their 
+assault on him and his laboratory in which they now reside.  The Golem 
+itself stands well over seventy feet and his arms are larger than most oak 
+tree trunks.  His body is almost as wide as the lair in which he rests.  This 
+was the ultimate golem made, he has all the powers of the other 3 with 
+additional attacks and spells not worthy of the other metals. His eyes glow, 
+and the &Rfire&n from his sword begins growing larger and larger, consuming his 
+hands, and then his arms, almost consuming his upper torso, and then, he 
+stands.  With a fierce battlecry this Golem swings his sword at your face.
+~
+142671882 6127617 136249361 524416 -1000 S
+48 0 -40 1d1+45999 30d15+20
+3750000 1900000
+8 8 0
+29 4 25 18 15 16 12 11
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#20567
+mob bone collector~
+&KB&Won&Ke &WC&Kollecto&Wr&n~
+&wAn &Koddity of the &CV&corte&Cx &wstands before you.&n
+~
+&nWhat stands before you is the essence of the vortex itself.  Its outer limbs
+are swollen, and the inner body is almost anorexic.  The green eyes this demon
+has glow in the miniscule light this lair has to offer.  It comes closer towards you.
+Its body not even covered with flesh, but the bones of others.  One leg has 4 feet
+attached to it and its neck has more vertabrae then any mammal or human you
+have ever seen.  It growls and snarls, it comes towards you, ready to kill you.
+~
+167773706 32769 136249361 128 -1000 S
+48 0 -33 1d1+25999 30d30+99
+1000000 1200000
+8 8 0
+0 0 25 16 15 15 15 15
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20568
+mob sesspool~
+&wThe &GSess&Cpool&n~
+&wA &Cpool &wof &Kfilth &wlies before you&n.
+~
+&nWhat is here is nothing more then a murky disease ridden pool of water.  A
+howl envelopes your ears as you realize its alive.  A humongous growl comes from
+within the belly of this beast.  The water begins whirling and the wind picks up,
+sucking you deeper into its murky abyss.  You can either fight or die.  Choose wisely.
+~
+168821002 32769 136249361 128 -1000 S
+48 0 -33 1d1+24999 30d30+99
+750000 1450000
+8 8 0
+0 0 25 16 15 15 15 15
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 75
+#20569
+mob doctor wyzlitrus~
+&WDoctor &CWyzlitrus&n~
+&wDoctor Wyzlitrus is here, strapped to a torturing device, screaming in agony&n.
+~
+&nThis is the doctor that created these golems.  He stands here, unable 
+to utter a mere word.  His body, strapped to a torturing device, hands 
+and feet bound to a large slab of steel, held down with leather straps.
+There is a large spike protruding  from his shoulder and another down 
+by his groin.  You can tell he is in alot of pain, but, you can't seem to 
+hear what he wants.  You move closer to him, and remove the gag from 
+around his mouth, only to find his mouth stitched shut and crusted with
+dry blood.  You look deep into this mans eyes, and you feel his agony, 
+and, just for a split second, the doctor seems to almost speak to you, 
+telepathically.  "Get out while you can, save yourself!  Go!  He's going to kill you, save yourself!"
+~
+1074004234 138444801 136249361 2176 0 S
+44 3 -20 1d1+9999 20d100+20
+750000 200000
+8 8 0
+1 0 22 18 16 16 13 15
+SKILL=SPELL_HEAL_MAJOR 99
+#20570
+mob mithril golem~
+&wThe &WMi&Kthr&Wil &KGolem&n~
+&wThe &WMi&Kthr&Wil &KGolem &wis here&n.
+~
+&nA very large, half built golem stands before you.  His body is made solely 
+of &Wmi&Kthr&Wil &nand its body, as you can tell, is half complete.  This was 
+obviously the last project doctor wyzlitrus worked on, before the golems 
+revolted and almost killed him.  The golem you see before you has tried to 
+create itself as well from spare parts he has found.  You notice a third leg 
+made of &Ksteel&n, and some &Wplatinum&n colored parts on his body.
+The golem itself is very large, almost doubling that of his predesessor the 
+&Kadamantium &ngolem.  He stands in the one hundred and twenty foot area, 
+and his body is larger then anything you have ever seen.  Be quick, because, this golem doesnt seem happy to see you.
+~
+142729738 4227073 136249361 1572992 1000 S
+48 0 -40 1d1+39999 15d20+100
+5000000 2000000
+8 8 0
+29 4 25 25 25 25 25 25
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=75
+ATTACK_SKILL=10
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=15
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+#20571
+mob fyre~
+&RF&ry&Rr&re&n~
+&wA large demon stands here, waiting to roast your flesh.&n
+~
+&wWhat stands here is a massive flame.  It stands tall, with massive
+flames spewing out from all ends, almost scorching your skin.  It smiles.  
+Looks your way, and charges!&n
+~
+33554442 32769 136249361 270549120 -1000 S
+44 0 -20 1d1+6999 15d15+10
+1500000 850000
+8 8 0
+0 0 22 17 15 15 15 12
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_FIREBALL 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+$~
+#999999

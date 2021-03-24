@@ -1,0 +1,76 @@
+#
+# 
+#
+# Name must be 4 to 20 characters
+NAME=Snotling
+# enter 5 digit race description which appears on the WHO list
+DESC=Snot
+# Enter text displayed when view race details 80bytes/per
+TEXT1=One should keep a close eye on a snotling, for they poses the abilities of a
+TEXT2=thief to sneak, steal and hide. Their small size also enables them to defend
+TEXT3=themselves very well.
+TEXT4=50 AC bonus. Can only use equipment flagged "small"
+# alignment must be EVIL, NORMAL, GOOD
+ALIGNMENT=NORMAL
+# physical size must be SMALL, NORMAL, LARGE
+PHYSICAL_SIZE=SMALL
+# Stats must be 1 to 25
+MAX_STR=13
+MAX_INT=14
+MAX_WIS=14
+MAX_DEX=21
+MAX_CON=13
+MAX_CHA=18
+# starting hit, mana, moves
+BASE_HIT=27
+BASE_MANA=61
+BASE_MOVE=101
+# max hit, mana, and moves must be 0 to 1 million.
+MAX_HIT=2500
+MAX_MANA=2500
+MAX_MOVE=2500
+# max food, thirst, and drunk must be 10 to 250.
+MAX_FOOD=18
+MAX_THIRST=18
+MAX_DRUNK=24
+# adjustments must be -25 to 25.  A stat will never fall below 4.
+ADJ_STR=0
+ADJ_INT=0
+ADJ_WIS=0
+ADJ_DEX=+4
+ADJ_CON=-2
+ADJ_CHA=-3
+# admustments to hit, mana, move.
+ADJ_HIT=0
+ADJ_MANA=0
+ADJ_MOVE=0
+# adjustments to hit roll range: -50, +50
+ADJ_HITROLL=0
+# adjustments to damage roll range: -50, +50
+ADJ_DMGROLL=0
+# adjustments to armour class range: -25, +25
+ADJ_AC=-50
+# Food is normally set to 100.  This means they use 100% of food
+# normally.  If set to 50, the race only uses half the food.
+# if set to 200, race uses twice the food.  A 0 values means no
+# food consumption.
+ADJ_FOOD=50
+ADJ_THIRST=50
+ADJ_DRUNK=50
+# Regeneration is normally set to 100.  This means chars gain 100%
+# normally.  If set to 50, the race only gains at half the rate.
+# if set to 200, race regens at double rate.  A 0 values means no
+# regen.
+REGEN_HIT=100
+REGEN_MANA=100
+REGEN_MOVE=100
+# Enter the spell acronym.
+RACE_PERM_SPELL1=0
+RACE_PERM_SPELL2=0
+RACE_PERM_SPELL3=0
+RACE_PERM_SPELL4=0
+RACE_PERM_SPELL5=0
+# skill/spell adjustments
+SKILL_MIN_LEVEL=SKILL_STEAL 10
+SKILL_MIN_LEVEL=SKILL_SNEAK 1
+SKILL_MIN_LEVEL=SKILL_HIDE 1

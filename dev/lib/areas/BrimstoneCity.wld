@@ -1,0 +1,1893 @@
+#21825
+&KTelsek's Fine Armours&n~
+&c  This comfortable and cozy establishment has been kept clean and well maintained over the 
+years. Metal armours of all kinds lay out for display, hanging from walls, and standing on
+racks. The ownder of the shop is a very large, well groomed troll that goes by the name of 
+Telsek B'rackt, a bit of a legend in these parts. He was part of the adventuring group that 
+founded this city, but finding the political life distasteful, set up shop here to aid those who
+were just beginning their lives of adventure. Telsek can be found here at all times of the day,
+sitting patiently behind his counter, a warm and cheery smile upon his face. On top of the 
+counter rests a small &Psign&c for those unfamiliar with how the shop operates.&n
+~
+170 12 0 1 99 1
+D3
+Back to the busy marketplace.
+~
+~
+0 -1 21827
+D4
+A set of stairs leads up into the leather goods store.
+~
+~
+0 -1 21835
+E
+sign~
+&gFor Those of you unfamiliar with the workings of my shop, I provide you with the following help:
+
+     If you wish to view the items that I currently have in stock type - &GLIST&g
+     If you wish to purchase an item from my stock, type - &GBUY <item>&g
+
+&G*NOTE*&g If more than one of a type of item exists in my inventory, you can purchase the item
+       you wish by typing # of item.item  For example:
+       I carry the following items:  suit of platemail          -  25000 gold
+                                     glowing suit of platemail  - 50000 gold
+                                     suit of green platemail    - 30000 gold
+
+Let's say the item you wish to purchse is the glowing platemail. If you simply type  
+'buy platemail' you would purchase the 'suit of platemail.' By typing 'buy 2.platemail' however,
+you will purchse the desired item since the glowing platemail is second on the list as far as
+platemail is concerned. Likewise to purchase the green platemail, you would type 'buy 
+3.platemail'
+
+     If you wish to sell an item from your inventory, use the command: &GSELL <item>&g
+
+If you need any further assistance, please read the shops page of your beginners handbook, or
+see other players for help. Thanks.&n
+~
+S
+#21826
+&KCentral Square&n~
+&c   Standing amidst the ever increasing crowds of this magnificent city is a beautifully 
+crafted marble fountain.  The citizens of Brimstone have become rather immune to its presense
+as they go about their daily duties, but several visiting adventurers gape in awe at the 
+wonderous elven craftmanship.  Few people remember the actual origins of the structure, but it
+has been whispered that is was a gift from the king of the Quel'Sith elves to his two daughters
+who reside in the castle to the north that watches over the city.&n
+~
+170 1342210048 536870912 1 99 1
+D1
+East Copper Way runs towards Gromen Boulevard.
+~
+~
+0 -1 21851
+D2
+The sounds of a busy marketplace can be heard.
+~
+~
+0 -1 21827
+D3
+West Copper Way leads off into the city.
+~
+~
+0 -1 21845
+S
+#21827
+&KMarket Street&n~
+   &cThe cobblestone street of the fountain square to the north gives way to well traveled, and 
+always busy marketplace.  There is a sign above a well kept building to the east that appears to 
+be an armoury, while a similar sign hangs on the building to the west.  People of all kinds can 
+be found here during all times of the day and night, for the 'Free City' never closes, and it's 
+doors are always open to all but those who have evil intent.  &n
+~
+170 1342210048 0 1 99 1
+D0
+A huge fountain dominates the path.
+~
+~
+0 -1 21826
+D1
+The sign above the door reads:
+
+        --------------------------------
+        |    >====|%%%%%%%%%%%%%%%%>   |
+        |                              |
+        |    Telsek's Armours Below    |
+        |    **********&**********     |
+        |    Alkrin's Clothing Above   |
+        |                              |
+        --------------------------------
+~
+~
+0 -1 21825
+D2
+Market street continues.
+~
+~
+0 -1 21828
+D3
+The sign above the door reads:
+
+       --------------------------------
+       |                              |
+       | ==  Hordrinn's Weapons  ==   |
+       |                              |
+       | @XXXXX|%%%%%%%%%%%%%%%%%%%%> |
+       |                              |
+       --------------------------------
+~
+~
+0 -1 21829
+S
+#21828
+&KMarket Street&n~
+&c   The well trodden path of the Brimstonian market street holds many splendors and marvels at each turn.  
+Stands and counters fill the street at all times of the night and day, each vendor boasting to carry the best 
+of a particular product in order to obtain customers.  Behind the hodgepodge of the street vendors lie more 
+permanant shops, each with a sign above their respective doors.  Their doors always stand open, inviting all on
+the streets in to view their wares.  Market street continues to the south, and leads towards the central square 
+to the north.&n
+~
+170 1342210048 0 1 99 1
+D0
+Market street continues.
+~
+~
+0 -1 21827
+D1
+The sign above the door reads:
+
+        --------------------------------
+        |                              |
+        |    @}--,--'--  --,--'--{@    |
+        |   Shearra's Magick Supplies  |
+        |                              |
+        |         <><><><><><>         |
+        --------------------------------
+~
+~
+0 -1 21831
+D2
+The marketplace continues.
+~
+~
+0 -1 21837
+D3
+The sign above the door reads:
+
+        --------------------------------
+        |                              |
+        |      {}[][][][][][][]{}      |
+        |     Gallack's Supplies -     |
+        |     Adventurer's Welcome     |
+        |                              |
+        --------------------------------
+~
+~
+0 -1 21830
+S
+#21829
+&KHordrinn's Weapons&n~
+   &cWeapons of all shapes and sizes cover the walls, and stand on displays and cases inside this 
+modest establishment.  The shop belongs to Hordrinn Mellick, a small gnome who is often described 
+as kind and compassionate, but one of the shrewdest salesmen in all the lands.  He stands here 
+behind his counter, patiently waiting to show you his finest weapons in stock.  A small &Psign&c
+for the beginning adventurer sits on the counter next to him, in case someone help with their 
+purchases.&n
+~
+170 1342210052 0 1 99 1
+D1
+Back to the busy marketplace.
+~
+~
+0 -1 21827
+E
+sign~
+&gFor Those of you unfamiliar with the workings of my shop, I provide you with the following help:
+
+If you wish to view the items I currently have for sale type - &GLIST&g
+If you wish to purchase an item from the list, type - &GBUY <item>&g
+&G*NOTE*&g - some items may have similar names. In this case you will need to view how many of
+         item you want are similar, and purchase #.<item>. For example:
+         The items I have in stock are: a short sword
+                                        a serrated short sword
+                                        a glowing short sword
+         If you want to purchase the serrated short sword, you of course would not want to type
+         buy short or buy sword because you would purchase the first item 'a short sword.' By 
+         entering buy 2.short, or buy 2.sword however, you will buy the desired item because the
+         serrated short sword is the second short and second sword on the weapons list.
+If you wish to sell an item to me from your inventory, use the command - &Gsell <item>&g
+
+If you have any further questions, please refer to your beginners handbook, or check with other 
+players in the game. Thanks.&n
+~
+S
+#21830
+&KGallack's Adventuring Supplies&n~
+&c   The shop lies in total disarray.  Specialized gear and other various supplies lie haphazardly all around 
+in no apparent order.  It may take several hours to go through the entire mess to find anything useful, but the 
+young gnome behind the counter seems to know the exact placement of every item, so it may be best to ask him.  A 
+small &Psign&c sits on the counter next to the gnome, for those who are new to the ways of purchasing supplies 
+at this shop.&n
+~
+170 1342210052 0 1 99 1
+D1
+Back to the busy marketplace.
+~
+~
+0 -1 21828
+E
+sign~
+&gFor those of you who are unaware of how my shop works, I provide you with the following information:
+
+To see a list of the items I currently have, type &GLIST&g
+To purchase an item from the list, type &GBUY <item>&g or &GBUY #.<item>&g
+
+  For example, if you wished to purchase a backpack from the following list -
+     a backpack       - 400 gold
+     a leather backpack - 600 gold
+     a super backpack   - 10000 gold
+
+  If you were to type 'buy backpack', you would purchase the first backpack supplied on the list. This would not
+  be good if that's not what you wanted. However, to get around the keyword problem, you could type 
+  'buy 2.backpack' to purchase the leather, or 'buy 3.backpack' to purchase the super backpack. It is all just a 
+  matter of recoginizing same type keywords and noting the item you wish to purchase.
+
+To sell an item from your inventory that I can use, type &GSELL <item>&g
+
+If you need further assistance, please consult your beginners handbook, or check with others around you. Thanks, 
+and have a great day!&n
+~
+S
+#21831
+&KShearra's Magicks&n~
+   &cThis modest establishment is jam packed with staves, wands, vials, and magical components used for brewing 
+potions, as well as other, more obscure(and somewhat illegal) magical items.  Most items are open to view and 
+test for quality, but others have been placed behind the counter due to their wild powers, or dangerous 
+properties.  Shearra Kas'rin'nd, an elf of amazing beauty, is the proprietor of this shop.  She can be found 
+here at all times of the day and night, for magical spells and elven heritage mean she needs little sleep other 
+than the occasional catnap between customers.  A small &n&Psign&n&c sits on the counter beside her, in case 
+someone may need some assistance in purchasing an item.  &n
+~
+170 1342210052 0 1 99 1
+D3
+Back to the busy marketplace.
+~
+~
+0 -1 21828
+E
+sign~
+  &gWelcome to my humble shop. I both purchase and sell items here, so I shall now provide those in need with 
+instructions on how to &GBUY&g and &GSELL&g.
+
+To see a what items I currently have available for sale, type &GLIST&g
+To purchase an item from the list, type &GBUY <item>&g or &GBUY #.<item>&g
+  For example, if you wished to buy a balsa staff from the following inventory:
+    Heavy oaken staff - 13000 coins
+    Balsa staff        - 8000 coins
+    Cedar staff        - 2500 coins
+
+  By entering &Gbuy balsa&g, you would get the desired item, but you could also enter &Gbuy 2.staff&g because
+  it is the second staff on the list. Likewise, you could purchase the cedar staff by entering &Gbuy cedar&g or
+  &Gbuy 3.staff&g.
+
+To sell me a magical item from your inventory, simply type &GSELL <item>&g
+
+Should you need any further assistance, you should consult your beginners handbook, or check with others in the 
+area. Thank you.
+~
+S
+#21832
+&KBrillo's Foodstuffs&n~
+&c   Smells of fresh breads, cooking meats and fresh fruits delight your senses as you enter Brillo's fine 
+establishment. Items ranging from fruits and vegetables to spiced meats are neatly packed and preserved 
+on shelves to keep vermin away.  Brillo Harthgood, a cheerful little hobbit, can be found here at any time of 
+day or night.  He happily greets anyone who enters with a fine '&yHullo&Y!&c', and then patiently waits for 
+customers to examine his goods.  The wall to the south has been cut away, leaving a room beyond filled with 
+barrels of water. A counter can be seem beyond the barrels, and signs seem to indicate some form of water shop
+at that location. A small &Psign&c for the neophyte shopper sits on Brillo's counter, just begging to be read.&n
+~
+170 1342210052 0 1 99 1
+D1
+Back to the busy marketplace.
+~
+~
+0 -1 21837
+D2
+Redric's water supply.
+~
+~
+0 -1 21838
+E
+sign~
+&gGreetings and Hullo brave adventurers! I am providing you with these simple instructions to help guide you 
+through the hassles of buying and selling in the shops of Brimstone. Best of luck to you!:
+
+To see what items I currently have in stock, type &GLIST&g
+To purchase an item I have in my inventory, type &GBUY <item>&g or &GBUY #.<item>&g
+  For example, lets say I carried the following list of breads:
+    loaf of white bread  - 25 gold
+    loaf of wheat bread  - 30 gold
+    a pipeweed bread     - 45 gold
+
+  If you wished to buy the pipeweed bread, you could enter either &Gbuy pipeweed&g or &Gbuy 3.bread&g
+  Buy pipeweed works because none of the other items contain that keyword, and since pipeweed is the third 
+  bread on the list, buy 3.bread works as well. It's best to check similar or like keywords before purchasing
+  any items.
+
+To sell items from your inventory, type &GSELL <item>&g
+
+Should you need any further assistance, please consult your beginners handbook, or check with other players
+in the area. Thanks!&n
+~
+S
+#21833
+&KKat's Exotic Pets&n~
+   &cKatiana Dynne probably runs the tidiest pet store in all the realm.  A great accomplishment considering 
+all her animals roam around free all over the shop.  She can be found here behind her counter, patiently 
+waiting for the next customer to enter and examine her beasties for health and fitness.  A small &Psign&c sits
+on the counter beside her, almost hidden by her cat '&pLiam&c', a guide for assisting the neophyte shopper as 
+to her rules for purchasing animals.  &n
+~
+170 1342210048 0 1 99 1
+D3
+Back to the busy marketplace.
+~
+~
+0 -1 21837
+E
+sign~
+&gFor those of you unfamiliar with the workings of my shop, I provide you with the following help:
+
+&gIf you wish to view the pets I currently have in storage, type &GLIST&g.
+If you wish to purchase a pet from the list, type &GBUY <pet name>&g
+
+I'm sorry, but I do not purchase pets myself because I already have a supplier, and there are no refunds.
+Thank you, and have a nice day.&n
+~
+E
+liam cat ~
+   Liam is a small, very docile cat.  He's used to customers coming in and out of the shop, and also the 
+the constant presense of the other animals.  He usually doesn't move from his 'perch' on top of the counter, 
+keeping an eye on the other animals to insure none bolt out the door to escape.  In appearance, he resembles a
+cross between an elven lynx and a smaller domestic long-haired cat. He maintains the long, pointed ears of his 
+lynx heritage, as well as the dark intelligent eyes.  His coat, however, is a sheer silky black that hangs 
+loosly about his body.  His claws have been removed, so no customer need fear him, but he doesn't look that
+dangerous anyway.
+~
+S
+#21834
+&KKat's Exotic Pets Storage&n~
+&c  This is where Katiana's pets are stored.&n
+~
+170 1879081088 805306368 1 99 1
+E
+liam cat ~
+   Liam is a small, very docile cat.  He's used to customers coming in and out of the shop, and also the 
+the constant presense of the other animals.  He usually doesn't move from his 'perch' on top of the counter, 
+keeping an eye on the other animals to insure none bolt out the door to escape.  In appearance, he resembles a
+cross between an elven lynx and a smaller domestic long-haired cat. He maintains the long, pointed ears of his 
+lynx heritage, as well as the dark intelligent eyes.  His coat, however, is a sheer silky black that hangs 
+loosly about his body.  His claws have been removed, so no customer need fear him, but he doesn't look that
+dangerous anyway.
+~
+E
+sign~
+&gFor those of you unfamiliar with the workings of my shop, I provide you with the following help:
+
+&gIf you wish to view the pets I currently have in storage, type &GLIST&g.
+If you wish to purchase a pet from the list, type &GBUY <pet name>&g
+
+I'm sorry, but I do not purchase pets myself because I already have a supplier, and there are no refunds.
+Thank you, and have a nice day.&n
+~
+S
+#21835
+&KAlkrin's Leather Products&n~
+   &cSimilar to the room below, Alkrin has laid out various clothing for view and inspection by potential 
+customers. The difference, and reason the two competing shops work together, is that Telsek sells only armours,
+and Alkrin only leather and pelts.  A large and burly human, who could only be Alkrin Dursfane himself, stands
+behind a counter.  He greets everyone who enters with a smile and warm '&yHullo&c', for this is his kind nature 
+according to the local folk.  A small &Psign&c for the neophyte adventurer sits on the counter next to him, 
+just in case you may need some assistance.  &n
+~
+170 1342210048 0 1 99 1
+D5
+A set of stairs leads down to the armour shop.
+~
+~
+0 -1 21825
+E
+sign~
+&gFor Those of you unfamiliar with the workings of my shop, I provide you with the following help:
+
+If you wish to view the items that I currently have in stock type - &GLIST&g
+If you wish to purchase an item from my stock, type - &GBUY <item>&g or &GBUY #.<item>&g
+  For example, if you wished to purchase a studded leather vest from the following list:
+     leather vest       - 1400 gold
+     studded leather vest - 2400 gold
+     runed leather vest   - 12000 gold
+
+  To purchase the studded leather vest, you would type &Gbuy studded&g or &Gbuy 2.leather&g. Buy studded will
+  work because it is the only piece with the keyword 'studded' on the list, and buy 2.leather will also work
+  because the piece you desire is the second item with the keyword 'leather' on the list. 
+  For further examples on how to purchase items in this manner, please see your beginners handbook, or ask from
+  those around you.
+
+If you wish to sell an item to me from your own inventory, use the command - &GSELL <item>&n
+~
+S
+#21836
+&KDart's &YIlluminations&n~
+&c  Lights of all forms fill this large room. Torches, lanterns and even magical light devices stand on various
+displays, all waiting to be purchased and used. The propietor of the shop, an Irda that goes by the name of
+Dart Selinnarus, stands patiently behind his counter, waiting for his next customer. Several tools lie on the 
+counter next to dart, no doubt used for repairing lanterns, and several large barrels filled with fuel sit on
+the floor. A large &Psign&c sits near the door, from a distance it appears to give instructions on how to buy
+and sell within this shop.&n
+~
+170 1342210052 0 1 99 1
+D2
+West Copper Way
+~
+~
+0 -1 21846
+E
+sign~
+&gFor those of you unfamiliar with how my shop operates, I provide you with the following:
+
+If you wish to see what items I have in my inventory, type &GLIST&g
+If you wish to purchase an item I have availabe, type &GBUY <item>&g or &GBUY #.<item>&g
+  For example, if you wished to purchase a hooded lantern from the following list:
+     bullseye lantern  - 75 gold
+     hooded lantern    - 50 gold
+     magical lantern   - 10000 gold
+
+  By entering &Gbuy hooded&g or &Gbuy 2.lantern&g you would purchase your desired product. The hooded lantern
+  is second on the list of lanterns, therefore 2.lantern would work. It is also the only lantern with the key-
+  word of hooded, so buy hooded would also work. Likewise, you could purchase the magicial lantern by entering
+  &Gbuy magical&g or &Gbuy 3.lantern&g.
+
+If you wish to sell an item you have in your own inventory, enter &GSELL <item>&g
+
+If you need further assistance, please see your beginners handbook, or consult with other players in the game.
+Thanks, and good shopping!&n
+~
+S
+#21837
+&KMarket Street&n~
+   &c The well trodden path of the Brimstonian market street holds many splendors and marvels at each turn.  
+Stands and counters fill the street at all times of the night and day, each vendor boasting to carry the best 
+of a particular product in order to obtain customers.  Behind the hodgepodge of the street vendors lie more 
+permanant shops, each with a sign above their respective doors.  Their doors always stand open, inviting all on 
+the streets in to view their wares.  The market ends here, with several street vendors lining the walls of a 
+building to the south, while the busy street leads north towards the central square.&n
+~
+170 1342210048 0 1 99 1
+D0
+The marketplace leads towards the central square.
+~
+~
+0 -1 21828
+D1
+The sign above the door reads:
+
+        --------------------------------
+        |                              |
+        |    Katiana's Exotic Pets     |
+        |                              |
+        |            ,___,             |
+        |            (6v6)             | 
+        |            (_^(_\            |
+        |             "^" \\           |
+        --------------------------------
+~
+~
+0 -1 21833
+D3
+The sign above the door reads:
+
+        --------------------------------
+        |     Brillo's Foodstuffs      |
+        |  >>>>        +         <<<<  |
+        |   Redric's Water Supplies    |
+        --------------------------------
+~
+~
+0 -1 21832
+S
+#21838
+&KRedric's Water Supply&n~
+&c   The smells of fresh foods and cooking meats waft in from Brillo's establishment, only serving to whet the  
+appetites of all who enter Redric's store. Unlike his cheery halfling companion, Redric's shop has little that
+appeals to the eye, but some of the more exotic wines that are lined out for display do look like they'd 
+complement a good meal. Large barrels fill most of the room, a great number of which are filled with water,
+which is the primary source of the gargoyles income. There are, however, several barrels behind the counter 
+various aged wines, which are expensive, but delightfully tasteful. Redric can be found here at all times of 
+the day, often tasting samples to insure the quality of his product. He sits behind a counter, on top of which 
+is a small &Psign&c for those who are unaccustomed to the working of his store.&n
+~
+170 1342210048 0 1 99 1
+D0
+Brillo's Foodstuffs.
+~
+~
+0 -1 21832
+E
+sign~
+&gFor those of you who are unaware of how my shop works, I provide you with the following information:
+
+To see a list of the items I currently have, type &GLIST&g
+To purchase an item from the list, type &GBUY <item>&g or &GBUY #.<item>&g
+
+  For example, if you wished to purchase a large waterskin from the following list -
+     a small waterskin       - 400 gold
+     a large waterskin       - 600 gold
+     a large barrel          - 10000 gold
+
+  If you were to type 'buy waterskin', you would purchase the first waterskin listed in supply, the small 
+  waterskin. Since this is not the item you wished, you could become rather upset. However, if you typed 
+  'buy 2.waterskin', you would buy the second waterskin, which is the item you desired. Likewise, you could 
+  purchase the barrel by entering either 'buy barrel', or 'buy 2.large' (the large waterskin would be the 
+  first large, the barrel the second large). It is all just a matter of recognizing like keywords in regards
+  to the item you wish to purchase.
+
+To sell an item from your inventory that I can use, type &GSELL <item>&g
+
+If you need further assistance, please consult your beginners handbook, or check with others around you. 
+Thanks.&n
+
+~
+S
+#21839
+&KElrin's Fine Jewelry&n~
+&c  Rows of velvet covered boxes sit on display in glass cases. Lining each box are multitudes of jewels, jewelry,
+and other trinkets of considerable worth. The lighting of the room is set to catch every sparkle of each jewel,
+and each flash of brilliant gold. Elrin can be found here at all times of the day and night. As a darkling, he
+needs little sleep, and no longer fears the daylight hours, and thus has chosen to run the shop himself at all
+times. Even though Elrin is of the darkling race, he is a well liked, and very respected merchant in the city.
+Any customer who enters his store can expect a fair price, whether it be buying or selling. A small &Psign&c sits
+next to Elrin on a counter, inviting those unfamiliar with the purchasing practices of Brimstone to read it.&n
+~
+170 1342210052 0 1 99 1
+D2
+West Copper Way.
+~
+~
+0 -1 21847
+E
+sign~
+&gFor Those of you unfamiliar with the workings of my shop, I provide you with the following help:
+
+If you wish to view the items I currently have for sale type - &GLIST&g
+If you wish to purchase an item from the list, type - &GBUY <item>&g
+&G*NOTE*&g - some items may have similar names. In this case you will need to view how many of
+         item you want are similar, and purchase #.<item>. For example:
+         The items I have in stock are: a pendant
+                                        a glowing pendant
+                                        a glowing ring
+         If you want to purchase the 'a glowing pendant', you of course would not want to type
+         buy pendant because you would purchase the first item 'a pendant.' By instead entering 
+         buy 2.pendant, you will buy the desired item because the glowing pendant is the second 
+         pendant item on the list.
+If you wish to sell an item to me from your inventory, use the command - &GSELL <item>&g
+
+If you have any further questions, please refer to your beginners handbook, or check with other 
+players in the game. Thanks.&n
+~
+S
+#21840
+&KReception of the &GDrunken Dragon Inn&n~
+UNDEFINED ROOM DESCRIPTION: 21840
+~
+170 1358987400 536870912 1 99 0
+D3
+Tischler Boulevard
+~
+~
+0 -1 21860
+S
+#21841
+&KThe Brimstone Stables&n~
+UNDEFINED ROOM DESCRIPTION: 21841
+~
+170 1342210056 0 1 99 0
+S
+#21842
+&KCorindel's Riding Supplies&n~
+&c  Certainly one of the worst smelling shops around, thanks to the nearby stables, the riding supplies shop 
+still does very good business. Various types of tack and harness line the walls, while numerous types of 
+saddles sit upon racks in the center of the store. The owner of the establishment is a very large, very 
+intimidating half-giant named Corindel. When mounts first became popular in the new world, much of the 
+equipment was designed for the more 'normal' sized races. Since Corindel was such a great fan of riding, his
+solution to the problem was to spend a number of years learning the trades of a merchant. His hard work has 
+paid off, and when it came time to design the trade stores of Brimstone, the half-giants ideas were so 
+intriguing to the council, he was given a business even though his scores were rather low. Though the store
+specializes in larger sized equipment, tack for all sized races is proudly displayed for all to peruse. 
+Corindel himself can be found here at all times of the day. Sitting beside him on his counter is a small &Psign&c
+for those who may be unfamiliar with the workings of his shop.&n
+~
+170 1342210056 0 1 99 0
+E
+sign~
+&gFor those of you who are unaware of how my shop works, I provide you with the following information:
+
+To see a list of the items I currently have, type &GLIST&g
+To purchase an item from the list, type &GBUY <item>&g or &GBUY #.<item>&g
+
+  For example, if you wished to purchase a hard leather saddle from the following list -
+     a hard cloth saddle     - 400 gold
+     a hard leather saddle   - 1600 gold
+     a black leather saddle  - 3000 gold
+
+  If you were to type 'buy hard', or 'buy saddle', you would purchase the first saddle listed in supply, the 
+  hard cloth saddle. Since this is not the item you wished, you could become rather upset. However, if you 
+  typed 'buy 2.hard', or 'buy 2.saddle', you would buy the second saddle, which is the item you desired. 
+  Likewise, you could purchase the black leather saddle by entering either 'buy black', or 'buy 3.saddle'.
+  It is all just a matter of recognizing like keywords in regards to the item you wish to purchase.
+
+To sell an item from your inventory that I can use, type &GSELL <item>&g
+
+If you need further assistance, please consult your beginners handbook, or check with others around you.
+Thank You.&n
+~
+S
+#21843
+&KAiden's Curio Shop&n~
+UNDEFINED ROOM DESCRIPTION: 21843
+~
+170 1342210056 0 1 99 0
+E
+sign~
+&gFor those of you who are unaware of how my shop works, I provide you with the following information:
+
+To see a list of the items I currently have, type &GLIST&g
+To purchase an item from the list, type &GBUY <item>&g or &GBUY #.<item>&g
+
+  For example, if you wished to purchase a hard leather saddle from the following list -
+     a hard cloth saddle     - 400 gold
+     a hard leather saddle   - 1600 gold
+     a black leather saddle  - 3000 gold
+
+  If you were to type 'buy hard', or 'buy saddle', you would purchase the first saddle listed in supply, the 
+  hard cloth saddle. Since this is not the item you wished, you could become rather upset. However, if you 
+  typed 'buy 2.hard', or 'buy 2.saddle', you would buy the second saddle, which is the item you desired. 
+  Likewise, you could purchase the black leather saddle by entering either 'buy black', or 'buy 3.saddle'.
+  It is all just a matter of recognizing like keywords in regards to the item you wish to purchase.
+
+To sell an item from your inventory that I can use, type &GSELL <item>&g
+
+If you need further assistance, please consult your beginners handbook, or check with others around you.
+Thank You.&n
+~
+S
+#21844
+&KA Comfortable Examination Room&n~
+UNDEFINED ROOM DESCRIPTION: 21844
+~
+170 1342210056 0 1 99 0
+E
+sign~
+&gFor those of you who are unaware of how my shop works, I provide you with the following information:
+
+To see a list of the items I currently have, type &GLIST&g
+To purchase an item from the list, type &GBUY <item>&g or &GBUY #.<item>&g
+
+  For example, if you wished to purchase a hard leather saddle from the following list -
+     a hard cloth saddle     - 400 gold
+     a hard leather saddle   - 1600 gold
+     a black leather saddle  - 3000 gold
+
+  If you were to type 'buy hard', or 'buy saddle', you would purchase the first saddle listed in supply, the 
+  hard cloth saddle. Since this is not the item you wished, you could become rather upset. However, if you 
+  typed 'buy 2.hard', or 'buy 2.saddle', you would buy the second saddle, which is the item you desired. 
+  Likewise, you could purchase the black leather saddle by entering either 'buy black', or 'buy 3.saddle'.
+  It is all just a matter of recognizing like keywords in regards to the item you wish to purchase.
+
+To sell an item from your inventory that I can use, type &GSELL <item>&g
+
+If you need further assistance, please consult your beginners handbook, or check with others around you.
+Thank You.&n
+~
+S
+#21845
+&KWest Copper Way&n~
+  &cThough the city is large, the streets are wide enough to easily handle the mass of bodies that head daily
+to the market square. A large fountain bubbles quietly to the east, the central masterpiece that marks the 
+connection of Copper Way and the market. To the west, West Copper Way continues until it intersects with 
+Gromen Boulevard.&n
+~
+170 1342210048 0 1 99 1
+D1
+West Copper Way ends at a large fountain.
+~
+~
+0 -1 21826
+D3
+West Copper Way continues.
+~
+~
+0 -1 21846
+S
+#21846
+&KWest Copper Way&n~
+  &cThough the city is large, the streets are wide enough to easily handle the mass of bodies that head daily
+to the market square. Further to the east can be seen a bubbling fountain, marking the middle of Copper Way, as 
+well as the beginning of the marketplace. To the west, West Copper Way continues until it intersects with 
+Gromen Boulevard.&n
+~
+170 1342210048 0 1 99 1
+D0
+Dart's Illuminations shop
+~
+~
+0 -1 21836
+D1
+West Copper Way continues.
+~
+~
+0 -1 21845
+D3
+West Copper Way continues.
+~
+~
+0 -1 21847
+S
+#21847
+&KWest Copper Way&n~
+UNDEFINED ROOM DESCRIPTION: 21847
+~
+170 1342210048 0 1 99 1
+D0
+Elrin's Jewelry Shop
+~
+~
+0 -1 21839
+D1
+West Copper Way continues.
+~
+~
+0 -1 21846
+D3
+West Copper Way continues.
+~
+~
+0 -1 21848
+S
+#21848
+&KWest Copper Way&n~
+UNDEFINED ROOM DESCRIPTION: 21848
+~
+170 1342210048 0 1 99 1
+D1
+West Copper Way continues.
+~
+~
+0 -1 21847
+D2
+Entrance to the proving grounds.
+~
+~
+0 -1 21871
+D3
+West Copper Way continues.
+~
+~
+0 -1 21849
+S
+#21849
+&KWest Copper Way&n~
+UNDEFINED ROOM DESCRIPTION: 21849
+~
+170 1342210048 0 1 99 1
+D1
+West Copper Way continues.
+~
+~
+0 -1 21848
+D3
+West Copper Way continues.
+~
+~
+0 -1 21850
+S
+#21850
+&KWest Copper Way&n~
+UNDEFINED ROOM DESCRIPTION: 21850
+~
+170 1342210048 0 1 99 1
+D1
+West Copper Way continues deeper into the city.
+~
+~
+0 -1 21849
+D3
+Two roads intersect.
+~
+~
+0 -1 21864
+S
+#21851
+&KEast Copper Way&n~
+  &cThough the city is large, the streets are wide enough to easily handle the mass of bodies that head daily
+to the market square. A large fountain bubbles quietly to the west, the central masterpiece that marks the
+connection of Copper Way and the market. To the east, East Copper Way continues until it intersects with 
+Tischler Boulevard.&n
+~
+170 1342210048 0 1 99 1
+D1
+East Copper Way runs towards Gromen Boulevard.
+~
+~
+0 -1 21852
+D3
+The road ends at a very large fountain.
+~
+~
+0 -1 21826
+S
+#21852
+&KEast Copper Way&n~
+&c  Though the city is large, the streets are wide enough to easily handle the mass of bodies that head daily
+to the market square. A large fountain bubbles quietly further to the west, the central masterpiece that marks 
+the connection of Copper Way and the market. To the east, East Copper Way continues until it intersects with 
+Tischler Boulevard.&n
+~
+170 1342210048 0 1 99 1
+D1
+East Copper Way runs towards Gromen Boulevard.
+~
+~
+0 -1 21853
+D3
+East Copper Way leads deeper into the city.
+~
+~
+0 -1 21851
+S
+#21853
+&KEast Copper Way&n~
+&c  Though the city is large, the streets are wide enough to easily handle the mass of bodies that head daily
+to the market square. A large fountain bubbles quietly further to the west, the central masterpiece that marks 
+the connection of Copper Way and the market. To the east, East Copper Way continues until it intersects with 
+Tischler Boulevard.&n
+~
+170 1342210048 0 1 99 1
+D1
+East Copper Way runs towards Gromen Boulevard.
+~
+~
+0 -1 21854
+D3
+East Copper Way leads deeper into the city.
+~
+~
+0 -1 21852
+S
+#21854
+&KEast Copper Way&n~
+&c  Though the city is large, the streets are wide enough to easily handle the mass of bodies that head daily
+to the market square. A large fountain bubbles quietly further to the west, the central masterpiece that marks 
+the connection of Copper Way and the market. To the east, East Copper Way continues until it intersects with 
+Tischler Boulevard.&n
+~
+170 1342210048 0 1 99 1
+D1
+East Copper Way runs towards Gromen Boulevard.
+~
+~
+0 -1 21855
+D3
+East Copper Way leads deeper into the city.
+~
+~
+0 -1 21853
+S
+#21855
+&KEast Copper Way&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D1
+East Copper Way runs towards Gromen Boulevard.
+~
+~
+0 -1 21856
+D3
+East Copper Way leads deeper into the city.
+~
+~
+0 -1 21854
+S
+#21856
+&KEast Copper Way&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D1
+East Copper Way intersects with a larger road.
+~
+~
+0 -1 21857
+D3
+East Copper Way leads deeper into the city.
+~
+~
+0 -1 21855
+S
+#21857
+&KIntersection of East Copper Way and Tischler Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D0
+Tischler Boulevard leads further into the city.
+~
+~
+0 -1 21887
+D1
+East Copper Way continues.
+~
+~
+0 -1 21888
+D2
+~
+~
+0 -1 21858
+D3
+East Copper Way leads deeper intot he city.
+~
+~
+0 -1 21856
+S
+#21858
+&KTischler Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21857
+D2
+~
+~
+0 -1 21859
+S
+#21859
+&KTischler Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21858
+D2
+~
+~
+0 -1 21860
+S
+#21860
+&KTischler Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21859
+D1
+The Drunken Dragon Inn.
+~
+~
+0 -1 21840
+D2
+~
+~
+0 -1 21861
+S
+#21861
+&KTischler Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21860
+D2
+~
+~
+0 -1 21862
+S
+#21862
+&KTischler Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21861
+D2
+~
+~
+0 -1 21863
+S
+#21863
+&KGates of Tischler Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210112 0 1 99 1
+D0
+~
+~
+0 -1 21862
+D2
+The gates lead out to the wilderness beyond.
+~
+~
+0 -1 9429
+S
+#21864
+&KIntersection of West Copper Way and Gromen Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21850
+~
+170 1342210048 0 1 99 1
+D1
+~
+~
+0 -1 21850
+D2
+Gromen Boulevard
+~
+~
+0 -1 21865
+S
+#21865
+&KGromen Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21850
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21864
+D2
+~
+~
+0 -1 21866
+S
+#21866
+&KGromen Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21850
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21865
+D2
+~
+~
+0 -1 21867
+S
+#21867
+&KGromen Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21850
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21866
+D2
+~
+~
+0 -1 21868
+S
+#21868
+&KGromen Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21850
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21867
+D2
+~
+~
+0 -1 21869
+S
+#21869
+&KGromen Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21850
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21868
+D2
+~
+~
+0 -1 21870
+S
+#21870
+&KGates of Gromen Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21850
+~
+170 1342210048 0 1 99 1
+D0
+~
+~
+0 -1 21869
+D2
+The gates lead out into the wilderness.
+~
+~
+0 -1 9420
+S
+#21871
+&KEntrance to the &CPr&wovi&Cng Gr&woun&Cds&n~
+&c Many a brave adventurer with a desire to explore the world has spent at least some time testing
+their skills and mettle within the proving grounds. &rShorn Phantomspell &chas used powerful illusion 
+magics to create facsimiles of creatures one might run across out in the wilds. While they may only
+be illusions, the magic is so strong that it tricks the mind into believing they are real. If you
+are killed by a creature on these grounds, you will truly die and be returned to your starting
+point and have to retrieve the items from your corpse. There is a small &Yplaque&c on the wall 
+begging to be read.&n
+~
+170 268468228 0 1 10 1
+D0
+Exiting the proving grounds.
+~
+~
+0 -1 21848
+D1
+the proving grounds.
+~
+~
+0 -1 21886
+D2
+The proving grounds.
+~
+~
+0 -1 21872
+E
+plaque~
+Intended for levels &Y1-5&n
+
+Please be mindful of other players within the proving grounds and try not to steal others kills.
+Carefully choose your oponents by the "&Ycon&n" or "&Yconsider&n" <&gtarget&n>. This will give you a general
+idea of how tough your oponent is compared to your current level and gear. For more information,
+see &Yhelp consider&n. Thank you and have fun!
+~
+S
+#21872
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The entrance to the proving grounds.
+~
+~
+0 -1 21871
+D1
+The proving grounds.
+~
+~
+0 -1 21885
+D2
+The proving grounds.
+~
+~
+0 -1 21881
+D3
+The proving grounds.
+~
+~
+0 -1 21879
+S
+#21873
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21877
+D1
+The proving grounds.
+~
+~
+0 -1 21874
+S
+#21874
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21876
+D3
+The proving grounds.
+~
+~
+0 -1 21873
+S
+#21875
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21883
+D3
+The proving grounds.
+~
+~
+0 -1 21876
+S
+#21876
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21882
+D1
+The proving grounds.
+~
+~
+0 -1 21875
+D2
+The proving grounds.
+~
+~
+0 -1 21874
+D3
+The proving grounds.
+~
+~
+0 -1 21877
+S
+#21877
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21881
+D1
+The proving grounds.
+~
+~
+0 -1 21876
+D2
+The proving grounds.
+~
+~
+0 -1 21873
+D3
+the proving grounds
+~
+~
+0 -1 21878
+S
+#21878
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21880
+D1
+The proving grounds.
+~
+~
+0 -1 21877
+S
+#21879
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D1
+The proving grounds.
+~
+~
+0 -1 21872
+D2
+The proving grounds.
+~
+~
+0 -1 21880
+S
+#21880
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21879
+D1
+The proving grounds.
+~
+~
+0 -1 21881
+D2
+The proving grounds.
+~
+~
+0 -1 21878
+S
+#21881
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21872
+D1
+The proving grounds.
+~
+~
+0 -1 21882
+D2
+The proving grounds.
+~
+~
+0 -1 21877
+D3
+The proving grounds.
+~
+~
+0 -1 21880
+S
+#21882
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21885
+D1
+The proving grounds.
+~
+~
+0 -1 21883
+D2
+The proving grounds.
+~
+~
+0 -1 21876
+D3
+The proving grounds.
+~
+~
+0 -1 21881
+S
+#21883
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21884
+D2
+The proving grounds.
+~
+~
+0 -1 21875
+D3
+The proving grounds.
+~
+~
+0 -1 21882
+S
+#21884
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D2
+The proving grounds.
+~
+~
+0 -1 21883
+D3
+The proving grounds.
+~
+~
+0 -1 21885
+S
+#21885
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D0
+The proving grounds.
+~
+~
+0 -1 21886
+D1
+The proving grounds.
+~
+~
+0 -1 21884
+D2
+The proving grounds.
+~
+~
+0 -1 21882
+D3
+The proving grounds.
+~
+~
+0 -1 21872
+S
+#21886
+&KIn the &CPr&wovi&Cng Gr&woun&Cds&n~
+ &cVarious beasties roam these opan-aired grounds waiting for their next battle. Some stand picking 
+their noses, while others openly taunt you, trying to goad you to attack. Carefully &Yconsider&c your
+opponents, or you may be traveling back here to retrieve your corpse!&n
+~
+170 268468224 0 1 10 1
+D2
+The proving grounds.
+~
+~
+0 -1 21885
+D3
+The entrance to the proving grounds.
+~
+~
+0 -1 21871
+S
+#21887
+&KTischeler Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D0
+Tischeler Boulevard continues.
+~
+~
+0 -1 21906
+D2
+Tischler Boulevard intersects with East Copper Way
+~
+~
+0 -1 21857
+S
+#21888
+&KEnd of East Copper Way&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D0
+A small narrow alley leads deeper into the city.
+~
+~
+0 -1 21889
+D3
+Tischler Boulevard intersects with East Copper Way
+~
+~
+0 -1 21857
+S
+#21889
+&KA Narrow Alleyway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210052 0 1 99 1
+D0
+The alley continues.
+~
+~
+0 -1 21890
+D2
+East Copper Way
+~
+~
+0 -1 21888
+S
+#21890
+&KA Narrow Alleyway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210052 0 1 99 1
+D0
+Wintercress Parkway
+~
+~
+0 -1 21891
+D2
+The alley continues.
+~
+~
+0 -1 21889
+S
+#21891
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 1 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21893
+D2
+A short, narrow alleyway.
+~
+~
+0 -1 21890
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21892
+S
+#21892
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21891
+D2
+Tischeler Boulevard extends to the south.
+~
+~
+0 -1 21906
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21894
+S
+#21893
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21891
+S
+#21894
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21892
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21895
+S
+#21895
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D0
+The clerics guild.
+~
+~
+0 -1 21907
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21894
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21896
+S
+#21896
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21895
+D2
+The thieves guild.
+~
+~
+0 -1 21908
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21897
+S
+#21897
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21896
+D2
+The mage guild.
+~
+~
+0 -1 21909
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21898
+S
+#21898
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D0
+The warriors guild.
+~
+~
+0 -1 21910
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21897
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21899
+S
+#21899
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21898
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21900
+S
+#21900
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21899
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21901
+S
+#21901
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21900
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21902
+S
+#21902
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21901
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21903
+S
+#21903
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21902
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21904
+S
+#21904
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21903
+D3
+Wintercress Parkway continues.
+~
+~
+0 -1 21905
+S
+#21905
+&WWin&wte&Cr&wcr&Wess&K Parkway&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D1
+Wintercress Parkway continues.
+~
+~
+0 -1 21904
+S
+#21906
+&KTischeler Boulevard&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D0
+Tischeler Boulevard ends at Wintercress Parkway.
+~
+~
+0 -1 21892
+D2
+Tischeler Boulevard continues.
+~
+~
+0 -1 21887
+S
+#21907
+&wCl&Wer&wic's &KG&cuil&Kd&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210056 0 0 99 1
+D2
+Wintercress Parkway
+~
+~
+0 -1 21895
+S
+#21908
+&KTh&ciev&Kes G&cuil&Kd&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D0
+Wintercress Parkway
+~
+~
+0 -1 21896
+S
+#21909
+&RMa&rge&R's &KG&cuil&Kd&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D0
+Wintercress Parkway
+~
+~
+0 -1 21897
+S
+#21910
+&KWa&yrrior&K's G&cuil&Kd&n~
+UNDEFINED ROOM DESCRIPTION: 21845
+~
+170 1342210048 0 0 99 1
+D2
+Wintercress Parkway
+~
+~
+0 -1 21898
+S
+$~
+#999999

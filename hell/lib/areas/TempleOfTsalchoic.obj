@@ -1,0 +1,126 @@
+#2600
+obj longsword curved crap~
+10
+&wa curved long&Ksword&n~
+A curved longsword has been dropped here.~
+~
+5 34078720 0 8193
+0 2 9 3
+7 3000 750
+#2601
+obj symbol t'salchoic~
+10
+&wa symbol of &WT's&wa&Clch&wo&Wic&n~
+A strange looking symbol has been left here.~
+~
+9 0 0 5
+1 0 0 0
+3 3400 850
+A
+4 2
+A
+18 1
+#2602
+obj broadsword curved crap~
+10
+&wa curved broad&Ksword&n~
+A large curved sword has been dropped here.~
+~
+5 34078720 0 8193
+0 2 11 3
+11 10000 2500
+A
+19 1
+#2603
+obj robe grey cultists~
+10
+&ya &Kcultist's &yrobe&n~
+A grey robe lies here in a heap.~
+~
+9 0 0 1025
+8 0 0 0
+10 4000 1000
+A
+18 1
+A
+3 1
+A
+12 10
+#2604
+obj overcoat grey cultists crap~
+10
+&wa grey &Kcultist's &wovercoat&n~
+A grey overcoat lies here in a heap.~
+~
+9 524288 0 9
+6 0 0 0
+11 4600 1150
+A
+24 -3
+A
+1 1
+A
+19 1
+#2605
+obj overcoat white cultists crap~
+10
+&Wa white &Kcultist's &Wovercoat&n~
+A white overcoat lies here in a heap.~
+~
+9 1048576 0 9
+9 5 5 11
+12 8000 2000
+A
+24 -5
+A
+13 10
+A
+19 1
+A
+18 2
+#2606
+obj dagger titanium~
+10
+&wa &Wti&wt&Kan&wi&Wum &Kdagger&n~
+A greyish-silver dagger is resting here.~
+~
+5 1048576 0 8193
+0 5 5 11
+4 32000 8000
+A
+19 1
+#2607
+obj robe obedience~
+4
+&Wa robe of &Wob&we&Cdie&wn&Wce&n~
+An old dirty robe lies here in a heap.~
+~
+9 0 0 1025
+0 0 0 0
+12 22000 5500
+A
+3 2
+A
+4 2
+#2608
+obj guards studded arm~
+4
+&ya pair of &Kstudded&y arm guards&n~
+A pair of studded arm guards have been dropped here.~
+~
+9 2097152 0 257
+2 0 0 0
+8 140000 35000
+A
+19 3
+#2609
+obj key small brown~
+2
+&ya small brown key&n~
+A small brown key is resting here.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

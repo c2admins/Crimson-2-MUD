@@ -1,0 +1,895 @@
+#19200
+mob keeper gates~
+&wThe Gate Keeper&n~
+&wA &Rfi&Ye&Rry&w daemon stands here, protecting the gates to purgatory.&n
+~
+&KWhat stands before you is a keeper of the gates to Purgatory.  It stands atleast ten feet tall.  Its body is almost like that of a large snake, with the lower body if a minotaur.  Prepare to fight for you have breeched the gates of sin.&n
+~
+1082974282 32769 136249361 68157580 0 S
+47 0 -33 1d1+29999 100d20+99
+3500000 1290000
+8 8 2
+7 4 18 18 18 18 18 18
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_HUNT 99
+#19201
+mob lava daemon~
+&RL&ra&Rv&ra &RDaemon&n~
+&wA half hidden &Rdaemon&w swims about in a river of souls and &Rl&ra&Rv&ra&n.
+~
+&RA large, hideous daemon stands here.  Obviously conceived from the bowels of this forsaken place it stands here, knowing you have come to kill its master, and, for that very reason, it bares its fangs and charges.&n
+~
+134276124 32769 136249361 3670144 0 S
+44 0 -27 1d1+9999 5d5+10
+1300000 1000000
+8 8 1
+7 0 25 16 16 25 14 12
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19202
+mob lava king daemon~
+&wThe &YKing &RDaemon&n~
+&wA fierce looking &Rdaemon&w stands here, awaiting your attack.&n
+~
+&RWhat stands here is the King of all these lava daemon.  He stands here, looking at you with utter disgust, his eyes focus on your trembling body.  You notice well that this monster is of great size, atleast ten feet high, and, his body is bound with scars, from brawls in which he tought his pupils how to destroy the outside world from within.  Now he stands here, waiting for your feeble attempt at killing him.&n
+~
+143654938 4227073 136249361 67387628 -1000 S
+46 0 -40 1d1+34999 20d30+99
+2635000 1100000
+8 8 1
+7 0 25 18 16 25 13 13
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#19203
+mob forgotten spirit~
+&WA &KForgotten &WSpirit&n~
+&wa frail &Ksoul &wtravels along the beaten pathway, in which it fell victim unto this realm.&n
+~
+&wWhat stands here is none other then a translucent figure.  It stands here, crying.  Weeping tears of shame.  The sins commited in its life have sent this poor soul here.&n
+~
+168297996 32769 136249361 128 0 S
+41 0 -22 1d1+9999 25d25+25
+450000 350000
+8 8 2
+1 4 25 15 14 15 15 15
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_HUNT 99
+#19204
+mob priest dark souls~
+&KThe Priest of Dark Souls&n~
+&wA &Kdark priest&w, stands here, comforting the souls that have been sent here.&n
+~
+&KThis man is actually still alive.  He was transported here by Nergal himself.  He was brought here to comfort those souls, and, to help them realize that they are dead, and, to console them, and, help them adjust to the heat and the long afterlife here, in purgatory.&n
+~
+134809098 4227073 136249361 69222592 0 S
+47 0 -33 1d1+24999 30d30+50
+2450000 1100000
+8 8 1
+19 6 25 25 25 25 12 13
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+ATTACK_SKILL=10
+ATTACK_SKILL=66
+ATTACK_SKILL=85
+ATTACK_TYPE=105
+#19205
+mob guardian castle darkcastle~
+&KThe Guardian of the Castle&n~
+&wA tall &Rdaemon &wstands here, protecting the gates to the &KDarkCastle&n.
+~
+&KA large, very ferocius half man, half beast stands here.  Eyes glowing a deep &ggreen&K ,his mouth covered in crusted &Rblood&K from his victims.  He snarls at you, and, attacks.&n
+~
+1241839114 1343489 136249361 337380032 -1000 S
+47 0 -40 1d1+33999 30d30+55
+2500000 1300000
+8 8 1
+7 3 25 25 25 25 25 25
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=7
+ATTACK_TYPE=106
+ATTACK_SKILL=60
+ATTACK_SKILL=25
+ATTACK_SKILL=13
+ATTACK_TYPE=105
+#19206
+mob soul-less damned~
+&KSoul-less Damned&n~
+&wOne of the &Ksoul-less damned &wwalks here&n.
+~
+&KA soul less creature roams here.  It's body mamed, and its soul molested, it stands here clinging onto an unwanted life.&n
+~
+10 32769 136249361 2097280 0 S
+42 0 -10 1d1+5999 30d30+99
+450000 500000
+8 8 0
+2 4 25 16 15 14 13 15
+SKILL=SPELL_HEAL_MAJOR 99
+#19207
+mob queen damned underworld goddess ereshkigal~
+&KEreshkigal, Queen of the Damned&n~
+&KThe Queen of the Damned stands here, awaiting word from her minions.&n
+~
+&KEreshkigal, the Sumerian and Babylonian Death Goddess, seems more archaic than Persephone. Unlike Persephone, She was the Queen of the Dead long before She was joined by a male god; Nergal managed to become co-ruler of the Underworld only by threatening Her until She offered to marry him.  Now she stands here, inside her crypt in the Castle, staring at your worthless soul and contemplating how she shall order her minions to kill you.&n
+~
+1318188826 140279809 136249361 356270846 -1000 S
+48 0 -40 1d1+34999 10d10+99
+5000000 2000000
+8 8 2
+35 4 26 25 25 25 25 25
+SKILL=SPELL_CHARM_PERSON 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_HASTE 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_BIND_SOULS 99
+SKILL=SPELL_FLY 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=107
+#19208
+mob arch-angel zadkiel~
+&WArch-Angel Zadkiel&n~
+&wAn &Warch-angel &wstands here, trying to find his path back to heaven&n.
+~
+&wSent from another realm by the elder angels to get inside the &KDarkCastle&w, &WZadkiel &wstands before you.  His sole mission, to slay the &KQueen of the Damned&w, and you stand in his way.&n
+~
+1082466378 4227073 136249361 337928420 1000 S
+48 0 -40 1d1+45999 30d30+99
+3500000 1750000
+8 8 1
+1 7 22 22 22 22 22 22
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19209
+mob demon aziel~
+&KAziel&n~
+&wThe &Rdaemon&w, &KAziel &wstands before you&n.
+~
+&KA horrendous demon stands before you.  Its body like that of a wild ox.  Its nasty looking horns, ready to gorge you, and, its body moving into an attack position.  From the looks of it, you won't be living much longer.&n
+~
+1476457050 135561217 136249393 272105600 0 S
+48 0 -33 1d1+44999 30d30+40
+3500000 1750000
+8 8 0
+7 4 26 25 25 25 25 25
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19210
+mob demon ariel~
+&KAriel&n~
+&wThe &Rdaemon&w, &KAriel &wstands before you.&n
+~
+&KA large snarling dog, possesed with the spirit of Ariel is here.  Ariel, mythical demon, has inhiabited this body, and, has lived in it for several centuries.  If you look close into the dogs eye, lore says, that you can see the memories of Ariel through the dogs eyes, when, Ariel was a human, and not possesed by the Queen of the Damned.&n
+~
+1476457050 135561217 136249393 272105600 0 S
+48 0 -33 1d1+44999 30d30+40
+1000000 1750000
+8 8 0
+7 4 26 25 25 25 25 25
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19211
+mob demon marbuel~
+&KMarbuel&n~
+&wThe &Rdaemon &KMarbuel &wstands before you&n.
+~
+&KA frail looking lion rests here.  Its mane matted with blood, and, you can smell what he has just eaten.  The putrid stench of human entrails envelope your nostrils in a horrid fashion, leaving you choking, and, almost making you pass out.  It's body is missing patches of fur, and, its body looks battered from years of relentless struggle between the demon that posseses it and the spirit of the lion in which Marbuel took over.  The lion perks up, snarls, bares its fangs, and, you realize that you're going to die, a quick, and painful death.&n
+~
+1476457050 135561217 136249393 272105600 -1000 S
+48 0 -33 1d1+44999 30d30+40
+1000000 1750000
+8 8 0
+7 4 26 25 25 25 25 25
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19212
+mob demon barbuel~
+&KBarbuel&n~
+&wThe &Rdaemon &KBarbuel &wstands before you.&n
+~
+&KThis is the demon, Barbuel.  He stands here, inside the body of a wild hog.
+He is a master of all arts and all secret knowledge.  He wields the Epitomy
+of all the is dark.  The blade he holds seems ready to reap your soul and 
+add it to his collection.  The red gleem in his eyes as he notices you inside
+his lair tells you only one thing.  Leave now, leave before he decides that
+he should slaughter you and disembowel your organs from your body.&n
+~
+1476457050 135561217 136249393 272105600 0 S
+48 0 -33 1d1+44999 30d30+40
+1000000 1750000
+8 8 0
+7 4 26 25 25 25 25 25
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19213
+mob demon aziabel~
+&KAziabel&n~
+&wThe &Rdaemon &KAziabel &wstands before you.&n
+~
+&KThe prince of water stands here.  He is a dark color blue, and translucent at  that.  He walks here, carrying a large crown of pearls.  Once a formidable royalty, he fell for the ways of his queen, and now serves her here in this castle, as a lowly servant unto Ereshkigal.   His body is scaled and he looks like a sort of merman.  Yet, the red glow in his  eyes, and, the blood covering his lips tell a different story.&n
+~
+1476457050 135561217 136249393 272105600 0 S
+48 0 -33 1d1+44999 30d30+40
+1000000 1750000
+8 8 0
+7 4 26 25 25 25 25 25
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19214
+mob demon aniquel~
+&KAniquel&n~
+&wThe &Rdaemon&w, &KAniquel &wstands before you.&n
+~
+&KA large snake stands here.  It is inhabited by the spirit of Aniquel.  Its large body, measuring well over one hundred feet long and he stands up, almost twenty feet high, with two foot fangs ready to bare down into your flesh and inject you with a lethal dose of venom.&n
+~
+1476457050 135561217 136249393 272105600 0 S
+48 0 -33 1d1+44999 30d30+40
+1000000 1750000
+8 8 0
+7 4 26 25 25 25 25 25
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19215
+mob whispering wind~
+&KW&wh&Ki&ws&Kp&we&Kr&wi&Kn&wg &WWind&n~
+&KA soul tears out of the wall, ready to bring you into the ma&wrb&Kle entrapment&n.
+~
+&KA wind, whispering in the shadows creeps here.  An unknown figure inside the castle,  it walks.   Lurking in the shadows, only coming out to prey on the less fortunate, and it has spotted you!&n
+~
+1074587164 9732097 136249361 68157632 0 S
+45 0 -40 1d1+30000 10d10+99
+666666 750000
+8 8 0
+0 1 26 25 25 25 25 25
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+#19216
+mob angel arch angel uriel~
+&WUriel, Pillar of the &yTree &Wof Life&n~
+&WThe &YLight &Wof God stands here, plotting the &KQueen of Death's demise.&n
+~
+&wThe name Uriel  literally means "Fire of God," "Flame of God,"  "Light of God," or even "Sun of God." Uriel can be identified with  Agni, Devic Lord of the mental plane--the plane of fire. Some accounts place the Archangel Uriel at the head of the third order or company of  angels.  Others identify Uriel as one of the Seven Spirits before the Throne.  Kabbalistic writings assign Uriel to the middle pillar of the Tree of Life, and specifically to the sephirah Malkuth, the Kingdom.  The Archangel Uriel personifies the Divine Fire that comes down from the 3rd Aspect of Deity--Universal Mind--penetrating each plane until It reaches the physical.  There, the Fire ignites the fusion in the center of the Sun, the fission at the center of the Earth, and the kundalini at the base of the spine. It creates worlds, universes, and life--which then await the quickening impulse of the 2nd Aspect to evolve and grow.&n
+~
+67117322 32769 136249361 -721141692 0 S
+48 0 -40 100d100+69999 100d20+99
+5000000 2000000
+8 8 0
+1 4 25 25 25 25 12 15
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#19217
+mob nergal king damned~
+&KNergal, the King of the Underworld&n~
+&KThe king of the underworld stands at your feet.&n
+~
+&KIn Mesopotamian religion, a secondary god of the Sumero-Akkadian pantheon. He was identified with Irra, the god of scorched earth and war, and with Meslamtaea. The city of Cuthah was the center of his cult.  In the 1st millennium BC he was described as a benefactor who hears prayers, restores the dead to life, and protects agriculture and flocks.  Later he was called a "destroying flame" and was depicted as a god of pestilence, hunger, and devastation. The other sphere of Nergal's power was the underworld, where he ruled as king and where the goddess Ereshkigal was his queen.&n
+~
+1253368330 139755521 136249361 69206144 -1000 S
+48 0 -37 1d1+39999 25d25+99
+3500000 1750000
+8 8 1
+0 0 25 15 15 25 14 12
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=33
+ATTACK_SKILL=16
+ATTACK_TYPE=106
+ATTACK_SKILL=85
+ATTACK_SKILL=24
+ATTACK_SKILL=17
+ATTACK_TYPE=105
+#19218
+mob utu justice sun god of~
+&wUtu&n~
+&KThe &WGod &Kof the &YSun &Kand Judgement stands here, decreeing the fate of the dead.&n
+~
+&wSon of Nanna and Ningal, god of the Sun and of Justice, Utu goes to the underworld at the end of every day and while there decrees the fate of the dead. When Inanna's huluppu tree is infested with unwelcome guests, he ignores her appeal for aid. He aided Dumuzi in his flight from the galla demons by helping him to transform into different creatures. He opened the "ablal" of the Underworld for Enkidu, to allow him to escape, at the behest of Enki. Through Enki's orders, he also brings water up from the earth in order to irrigate Dilmun, the garden paradise, the place where the sun rises. He is in charge of the 'Land of the Living' and, in sympathy for Gilgamesh, calls off the seven weather heroes who defend that land.&n
+~
+134480394 4227073 136249361 639897736 0 S
+48 0 -25 1d1+34999 25d28+99
+3500000 2000000
+8 8 0
+24 4 26 25 25 25 25 12
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+#19219
+mob king of Gods Anu~
+&wThe &YKing &wof the &WGods, Anu&n~
+&wAnu stands here, waiting to speak with Ereshkigal&n
+~
+&wSumerian for "heaven", a sky god, father and king of the gods. He is the son of Anshar and Kishar. He lives in the third heaven. The Eanna in Uruk was dedicated both to him and consort. His first consort was Antu. They produced the Anunnaki - the underworld gods, and the utukki - the seven evil demons. His second consort was Innina (Ishtar). He is a god of monarchs and is not friendly to the common people. He is a "King of the Igigi". He is assigned the sky as his domain in 'Atrahasis'. His 'kishru's (shooting stars) have awesome strength. He has the ability that anything he puts into words, becomes reality.&n
+~
+134480394 4227073 136249361 103026824 0 S
+48 0 -25 1d1+45999 25d28+99
+5000000 2000000
+8 8 0
+11 4 25 25 25 25 25 12
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_SKILL=5
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+#19220
+mob marduk deformed dead king babylonia~
+&WMarduk, the Deformed&n~
+&wMarduk, slayer of Tiamat stands here, in &KEreshkigals &wcourtyard, awaiting his turn to speak with her.&n
+~
+&wA deformed man stands here, he leans down to your ear and tells you a story- I was born with four perfect ears, and four perfect eyes.  I was born mature. There once was a time in which I called the great evil to battle.  She came. I unleashed my weapons, shooting her in the belly with my arrow.  It split her in two.  I slit her heart and watched the blood leak from her body.  The great evil was dead.  I stood there, feeling her power soak into my body.  A heavenly light shown down upon me, and Anu peered down at me.  I was made king of all of Babylonia for such a great deed.  I stayed as their king until my mortal body perished.  Now I roam the afterlife in search of that great evil in which I killed years ago.&n
+~
+134480394 4227073 136249361 103026824 0 S
+48 0 -25 1d1+36999 25d28+99
+1000000 2000000
+8 8 0
+11 4 25 25 25 25 25 12
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#19221
+mob karu lord vampire~
+&KKaru, V&ya&Km&yp&Ki&yr&Ke Lord&n~
+&KThe lord of the tenth generation of Vampires rests here, shaking from hunger.&n
+~
+&KStanding tall and proud, a very old vampire sits here in his crypt.  Karu was amongst the tenth generation of vampires.   Dating back to the first vampire, Cain.  Karu is the tenth generation in which the vampire race went forth and gave  their immortality unto the masses.  Karu wields a very large blade in which he has slaughtered any attacker who has walked into his tomb.  Karu stands almost ten feet tall, and is very muscular.  His face has been mutilated and is very old.  His sunken eyes and the very pale, white skin that is his flesh stare at you.  He lifts a hand and you see upon it scars from various battles and rot from which the wounds have not healed.  The stench of this crypt is horrible.  The smell of rotted flesh, with a stagnant quality of air enters your nose as you choke upon the noxious odor.  He smiles at you. He has given up killing humans, for he is too old.  He has his minions bring him fresh blood in which he dines upon, and, in return he teaches
+his minions how to hunt and feed in the proper manners, to prevent being captured and killed by the humans outside.&n
+~
+178520586 32769 136249361 103026824 0 S
+48 0 -40 1d1+54999 25d28+99
+5000000 2000000
+8 8 1
+11 4 25 25 25 25 25 12
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+#19222
+mob marvayn vampire~
+&KThe V&ya&Km&yp&Ki&yr&Ke, Marvayn&n~
+&KA small young looking vampire stands inside his tomb.&n
+~
+&KMarvayn stands in the manner in which he was raised, proper.  Still, even
+after all these years, he has not forgotten his roots.  He was once a noblemans
+son.  He was bitten by Karu on his journey from Sh'lazt to Midgaard to speak
+with the weaponmaster there about making a weapon of grace and beauty.
+He never made it.  He was bitten and placed inside these catacombs to spend
+his immortality, rotting away, stalking the night, attacking the innocent.&n
+~
+170393610 134250497 136249361 2097280 0 S
+45 0 -30 1d1+14999 10d10+50
+1750000 750000
+8 8 1
+0 0 25 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#19223
+mob aasmol vampire~
+&KAasmol&n~
+&KAasmol, former Duke of Sh'lazt, stands here infected with the disease of immortality.&n
+~
+&wThe former Duke of Sh'lazt stands here.  Once a valiant man who retired from battle to raise a family, he was bitten by Karu while he was sleeping alone.  Ever since then, he has been enclosed in this place, to rot away with his fellow brothers and sisters of immortality.&n
+~
+170393610 134250497 136249361 2097280 0 S
+45 0 -30 1d1+14999 10d10+50
+1000000 750000
+8 8 1
+0 0 25 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=107
+#19224
+mob stlesht wife of karu vampire~
+&KStlesht, wife of Karu&n~
+&KThe wife of Karu, lord of these catacombs stands before you, screaming for help.&n
+~
+&KAn old, frail woman stands in front of you.  This is the lover of Karu.  Her beauty has more then faded, her flesh upon her head is rotted and you can see a dry shrivel brain inside.  Her bones have decayed.  She stands here, almost ready for your wooden stake which will end her suffering.  A horse cry from her mouth spits out.  "End it, now, I am so frail, I am so cold, so alone.  Help me, end my life wary wanderer, the suffering I endure everyday is hell compared to what you see before you."  She pulls away the rest of her flesh from her head.  You hear screams as she does it.  A skinless face begins talking again.  "Kill me now."  She rips away the flesh from upon her hands revealing more decay.  Now, as you lift your stake to pierce her heart, her last scream echoes inside this castle.  Before you can drive the stake into her, the master vampire of this forsaken palace flies into the room, ready to kill you.&n
+~
+35651850 32769 136249361 2097280 0 S
+47 0 -35 1d1+32999 100d37+45
+3500000 1750000
+8 8 2
+0 0 25 17 15 25 13 11
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+#19225
+mob grolmphel mage vampire~
+&KGrolmphel&n~
+&KGrolmphel, once a strong mage, stands here in the form of the undead.&n
+~
+&KThis man was once a great mage for the king.  Before King Karu
+was changed into the undead, this was his right hand man for every
+thing.  This man was the fifteenth generation of vampires.  His sister,
+Stlesht, who, not by blood or by birth, but by creation into the vampire
+race is Grolmphel related to her.  This man stands here, very old, but,
+not as frail as the rest.  He has used his magic to stop the aging and 
+has used it to cure all wounds which he incurs during battle.  His flesh
+and bones still intact, he is a very fatal foe.  The power to control the
+world's elements and the people who walk it is in his grasp.  Beware,
+he is not kind to visitors he does not know.&n
+~
+35651594 32769 136249361 2097280 0 S
+47 0 -35 1d1+32999 100d37+45
+3500000 1750000
+8 8 1
+0 0 25 17 15 25 13 11
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+#19226
+mob sijmar vampire~
+&KSijmar, the U&wn&Kd&we&Ka&wd&n~
+&KSijmar, former warlord of Sh'lazt stands here.&n
+~
+&KA battle scarred man stands before you.  Eyes sunken, mouth covered in dry blood.  He smiles at your approach, knowing full well that he has the strength to kill you.  His eyes bulge, his skin rips apart and from under his flesh escapes a ravenous beast.  He has become something like a crossbreed of werewolf and vampire. Dark brown matted fur, with skin to match, he eyes not only your veins but your flesh for food.&n
+~
+52428810 32769 136249361 2097280 0 S
+47 0 -35 1d1+32999 100d30+45
+3000000 1750000
+8 8 1
+0 0 25 17 15 25 13 11
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+#19227
+mob mol vampire~
+&KMol&n~
+&KThe former Prince of Sh'lazt stands here, baring his fangs at you.&n
+~
+&KThe former prince, Mol, of Shlazt rests inside his coffin.  He was once a notable figure of Sh'lazt.  That is before Karu killed and pillaged the city. Leaving only the royal family alive, they all now rests inside these catacombs, forever enslaved until a warrior valiant enough to come inside and exterminate them, to release them from bondage and this life.&n
+~
+35651594 32769 136249361 2097280 0 S
+47 0 -35 1d1+32999 100d30+45
+1000000 1750000
+8 8 1
+0 0 25 17 15 25 13 11
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+#19228
+mob shilva mystical vampire~
+&KThe Mystical V&ya&Km&yp&Ki&yr&Ke, Shilva&n~
+&KThe Mystical V&ya&Km&yp&Ki&yr&Ke, Shilva rests at your feet.&n
+~
+&KNot much is known about Shilva.  Locked away in the dungeons of the palace in
+Sh'lazt, he was known to be royalty, but, he was already immortal.  He was
+sentenced to rot in the dungeon forever as a punishment for heresy.  The priests
+condemned him for using black magic to have the power of immortalilty.  While
+technically not a vampire, Shilva still hunts and brings home live humans to his
+master, Karu.  According to records, Shilva is around five hundred years old.&n
+~
+35651594 32769 136249361 2097280 0 S
+46 0 -25 1d1+24999 40d10+50
+2250000 1250000
+8 8 1
+0 0 25 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#19229
+mob atir baby princess~
+&KAtir, the Baby Princess&n~
+&KThe youngest of the royal family of Sh'lazt stands here.&n
+~
+&KOnly seven when changed into a vampire, Atir sits here, playing with her dolls.  The laughter and giggles of the child brings a tear to your eye as you realize that human contact would mean her demise.  She has been almost sentenced to not live, but only feed.  The two beautiful ruby bracelets upon her wrists signify the royalty that once ran through her body.  Now she sits here....lonely...&n
+~
+35651594 32769 136249361 2097280 0 S
+46 0 -25 1d1+24999 40d10+50
+1000000 1250000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#19230
+mob maykvirs vampire~
+&KMaykvirs&n~
+&KMaykvirs, The HonourGuard of the Kingdom of Sh'lazt&n
+~
+&KFormer general of Sh'lazt's army, and former king as well, he is the son of Karu.  He was king of Sh'lazt when Karu, his father, came back to give immortality unto his family.  Maykvirs was put as King of Sh'lazt when the church found Karu a heretic and attempted to condemn him to the dungeon like Shilva.  Maykvirs only was king for ten years before becoming immortal and sent here to rest eternally with his father.&n
+~
+35651594 32769 136249361 2097280 0 S
+46 0 -25 1d1+24999 40d10+50
+1000000 1250000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#19231
+mob kosis vampire~
+&KKosis, the Valiant&n~
+&KThe &Rbloody &Kwarrior, Kosis stands here, in the form of the living undead.&n
+~
+&KKosis, valiant warrior of Sh'lazt.  He single handedly prevented Carnage from overtaking this realm.  Him and his army slaughtered all but Bane and Stile when the army of Blue Demenses attempted to overrun Sh'lazt.  Now, unarmed, he rests inside his coffin rotting away.  You can see the large sword wounds upon his flesh from his many attempts to die.  Karu took away his sword to prevent Kosis from killing himself.&n
+~
+35651592 32769 136249361 2097280 0 S
+46 0 -25 1d1+24999 40d10+50
+1000000 1250000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+#19232
+mob keeper gates~
+&wThe Gate Keeper&n~
+&wA &Rfi&Ye&Rry &wdaemon stands here, protecting the gates to purgatory.&n
+~
+What stands before you is a keeper of the gates to Purgatory.
+It stands atleast ten feet tall.  Its body is almost like that of a
+large snake, with the lower body if a minotaur.  Prepare to fight
+for you have breeched the gates of sin.
+~
+1082974282 1 136249361 68157580 0 S
+47 0 -33 1d1+29999 100d20+99
+3500000 1290000
+8 8 2
+7 4 17 17 14 16 15 11
+$~
+#999999

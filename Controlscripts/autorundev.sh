@@ -50,7 +50,7 @@ PORTHOMEDIR=~/c2/dev
 PORTNAME=dev
 
 #  Email address alerts go to.
-MAINTAINER=c2pythias@gmail.com
+MAINTAINER=c2admins@gmail.com
 
 #  Subroutines to use when we get some signals
 
@@ -82,6 +82,7 @@ fi
 
 cd ${PORTHOMEDIR}
 ulimit -c unlimited
+MALLOC_CHECK_=0 
 
 #  Trap signals:
 trap terminate SIGTERM
@@ -110,6 +111,7 @@ while ( : ) do
   echo "autorun starting game $DATE" >> ${LOGFILE}
   echo "running bin/${PROG} ${FLAGS} ${PORT}" >> ${LOGFILE}
 
+# LD_PRELOAD=/home/ubuntu/c2/DieHard/src/libdiehard.so
   bin/${PROG} ${FLAGS} ${PORT} >> ${LOGFILE} 2>&1
 
   #  Everything after this happens after the binary exits
@@ -135,7 +137,7 @@ while ( : ) do
     	rm ${LOCKFILE}
     rm .killscript
     	echo "The autorun script has been halted, please restart it!" >> .letter
-    	mail -s "C2 automail" ${MAINTAINER} < .letter
+    	mail -s "C2 DEV PORT" ${MAINTAINER} < .letter
     	rm .letter
     exit
   fi
@@ -151,14 +153,14 @@ while ( : ) do
     sleep 5
  		if [ -e .letter ]; then
 			echo "The autorun script has been paused, please remove ${PORTHOMEDIR}/.pause for it to resume." >> .letter
-			mail -s "C2 automail" ${MAINTAINER} < .letter
+			mail -s "C2 DEV PORT" ${MAINTAINER} < .letter
 			rm .letter
 		fi
 	done
 
 	if [ -e .letter ]; then
 		echo "This script will now attempt to bring it back up!" >> .letter
-		mail -s "C2 automail" ${MAINTAINER} < .letter
+		mail -s "C2 DEV PORT" ${MAINTAINER} < .letter
 		rm .letter
 	fi
 

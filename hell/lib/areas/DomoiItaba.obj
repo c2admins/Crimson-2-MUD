@@ -1,0 +1,491 @@
+#5700
+obj pads protective~
+15
+&yprotective pads&n~
+Some protective pads are lying here.~
+~
+9 0 0 65
+6 0 0 0
+2 100 5
+A
+1 1
+A
+2 1
+A
+14 5
+#5701
+obj wrap supportive~
+15
+&wsupportive wrap&n~
+A nice supportive wrap is lying here.~
+~
+11 0 0 1025
+0 0 10 0
+5 250 5
+A
+3 -1
+A
+4 2
+A
+13 10
+#5702
+obj collar stiff~
+10
+&ystiff collar&n~
+A stiff collar lies here.~
+~
+9 65536 0 5
+6 0 0 0
+3 200 5
+A
+13 10
+#5703
+obj sack hessian~
+80
+&ya hessian sack&n~
+A hessian sack is here.~
+~
+15 0 0 16385
+50 1 0 0
+1 100 5
+#5704
+obj hide pigmented~
+10
+&wa &cpig&Wmen&cted &yhide&n~
+A pigmented piece of hide is here.~
+~
+9 0 0 513
+12 0 0 0
+4 200 5
+A
+13 5
+#5705
+obj plates rotula~
+10
+&wro&Wtu&wla &Kplates&n~
+Some rotula plates rest here.~
+~
+9 0 0 33
+10 0 0 0
+7 300 5
+A
+13 10
+#5706
+obj blade exotoxin~
+10
+&Wexo&Gt&goxi&Gn &Kblade&n~
+An exotoxin-coated blade rests here.~
+~
+5 24576 0 8193
+1 2 5 3
+15 250 5
+A
+18 1
+#5707
+obj amulet soldier soldier's~
+10
+&Ksoldier's &ya&Ym&yu&Yl&ye&Yt&n~
+A soldier's amulet is lying here.~
+~
+11 0 0 5
+0 0 10 0
+5 150 5
+A
+17 4
+A
+18 1
+#5708
+obj claw itaba~
+10
+&wan &wIt&Ka&wba &Wclaw&n~
+An Itaba claw is here.~
+~
+5 524288 0 8193
+0 3 7 11
+5 2000 5
+A
+13 2
+A
+5 1
+#5709
+obj shield defender defender's~
+10
+&cde&Cfende&cr's &Kshield&n~
+A defender's shield rests here.~
+~
+9 524288 0 513
+9 0 0 0
+7 1750 5
+A
+18 1
+A
+13 5
+#5710
+obj globe ecchymotic~
+10
+&Kec&wc&Whymo&wt&Kic &Yglobe&n~
+An ecchymotic globe floats before you.~
+~
+1 524289 0 65537
+0 0 0 0
+5 2500 5
+A
+1 2
+A
+19 1
+#5711
+obj prothorax~
+10
+&Kprothorax&n~
+A prothorax rests here for the taking.~
+~
+9 589824 0 9
+10 0 0 0
+15 2100 5
+A
+19 1
+A
+5 2
+#5712
+obj cloak fertility~
+10
+&wa &ycl&Ko&yak &wof &Gf&gertilit&Gy&n~
+A cloak of fertility lies here.~
+~
+11 524288 0 9
+0 0 10 0
+7 2200 5
+A
+4 2
+A
+12 10
+A
+1 2
+#5713
+obj wake phosphorescent~
+10
+&wpho&Wsp&Yhore&Wsc&went &Wwake&n~
+A phosphorescent wake lies before you.~
+~
+1 524288 0 65537
+0 0 0 0
+2 2300 5
+A
+19 1
+A
+26 -1
+A
+2 -1
+#5714
+obj cord umbilical~
+10
+&yumbilical cord&n~
+A coil of umbilical cord lies here.~
+~
+11 524289 0 257
+0 1 0 0
+1 2400 5
+A
+17 -10
+A
+18 1
+#5715
+obj chain choker~
+10
+&Kchoker ch&wa&Kin&n~
+A choker chain is here.~
+~
+11 524288 0 5
+0 0 10 0
+1 2500 5
+A
+12 15
+A
+14 -10
+A
+17 -5
+#5716
+obj belt fecundity~
+10
+&ybelt &wof &rfe&Rcu&wn&Rdi&rty&n~
+A belt of fecundity has been left here.~
+~
+11 524288 0 2049
+0 0 10 0
+3 2600 5
+A
+19 1
+A
+13 5
+#5717
+obj strap cast iron~
+10
+&Kcast iron strap&n~
+A cast iron strap lies here.~
+~
+9 524288 0 4097
+5 0 0 0
+4 2250 5
+A
+18 1
+A
+13 10
+#5718
+obj coat leather~
+10
+&yleather coat&n~
+A leather coat has been left here.~
+~
+11 589825 0 1025
+0 0 10 0
+9 3000 5
+A
+12 20
+A
+4 1
+#5719
+obj bar malar~
+10
+&Gm&gala&Gr &Kbar&n~
+A fancy malar bar rests here.~
+~
+9 524288 0 17
+5 0 0 0
+12 3500 5
+A
+6 1
+A
+12 25
+#5720
+obj gauntlet fiery~
+10
+&rf&Ri&Ye&Rr&ry &Kgauntlet&n~
+A fiery gauntlet lies here.~
+~
+1 524289 0 129
+0 0 0 0
+6 2350 5
+A
+27 -1
+A
+13 5
+A
+1 1
+A
+32 -1
+#5721
+obj gloves knit~
+10
+&ck&wni&ct &Kgloves&n~
+A pair of finely knit gloves sit here.~
+~
+11 524289 0 129
+0 0 10 0
+2 2800 5
+A
+18 1
+A
+13 -10
+A
+12 20
+A
+4 1
+#5722
+obj visor itaban~
+10
+&wIt&Kab&wan &Kvisor&n~
+An Itaban visor rests here.~
+~
+9 524288 0 17
+5 0 0 0
+8 3100 5
+A
+13 20
+#5723
+obj vest hooded~
+10
+&Khooded &wv&Wes&wt&n~
+A hooded vest lies here.~
+~
+9 589824 0 9
+15 0 0 0
+9 2650 5
+A
+19 1
+#5724
+obj sceptre rainbow~
+10
+&rr&Ra&Yi&Gn&Bb&Po&pw &Ysc&ye&Yptr&ye&n~
+A rainbow colored sceptre has been left here~
+~
+8 524289 0 16385
+0 0 10 0
+14 3050 5
+A
+19 1
+A
+13 20
+#5725
+obj crown slate~
+10
+&cs&Klat&ce &Ycr&yo&Ywn&n~
+Here lies a slate crown fit for a king.~
+~
+9 1048577 0 17
+4 0 0 0
+15 19000 5
+A
+18 2
+A
+13 10
+#5726
+obj cape servitude~
+7
+&Rc&wap&Re &wof &Ks&wer&Wvit&wud&Ke&n~
+A cape of servitude has been left here.~
+~
+11 1048577 0 5
+0 0 10 0
+5 22000 5
+A
+19 1
+A
+13 10
+A
+1 2
+A
+5 1
+#5727
+obj dagger darkness~
+5
+&Kda&wgg&Ker &wof &wdar&Kkness&n~
+A dagger that emanates darkness rests here.~
+~
+5 1049092 0 8193
+0 6 5 11
+4 25000 5
+A
+18 1
+#5728
+obj shield itaba royal~
+10
+&BR&woya&Bl &KShield &wof &wIt&Ka&wba&n~
+The Royal Shield of Itaba rests here.~
+~
+9 1048577 0 513
+20 0 0 0
+10 28000 5
+A
+36 -1
+A
+12 20
+#5729
+obj orb ebony~
+8
+&Kebony orb&n~
+An ebony orb floats before you.~
+~
+1 1048580 0 65537
+0 0 10 0
+12 29000 5
+A
+27 -1
+A
+12 5
+A
+24 -2
+A
+19 1
+#5730
+obj pads mastery~
+10
+&ypads &wof &Gm&gaster&Gy&n~
+These pads make you feel quite masterful.~
+~
+9 1048577 0 65
+15 0 0 0
+7 27000 5
+A
+32 -1
+A
+14 5
+A
+18 1
+#5731
+obj girth protective~
+10
+&ypr&Ko&yt&Ke&yct&Ki&yv&Ke &wgi&Kr&wth&n~
+A protective girth lies here.~
+~
+9 0 0 2049
+5 0 0 0
+3 350 5
+A
+13 15
+#5732
+obj sash larval~
+5
+&wla&Wrv&wal &Wsash&n~
+A larval sash has been left here.~
+~
+9 0 0 1025
+5 0 0 0
+5 300 5
+A
+18 1
+#5733
+obj rope band~
+5
+&yband of rope&n~
+A pile of rope is lying here.~
+~
+13 0 0 4097
+0 0 10 0
+1 5 5
+A
+14 -20
+A
+13 -20
+A
+12 -20
+#5734
+obj manacles~
+5
+&Kmanacles&N~
+A pair of leg manacles have been left here.~
+~
+13 0 0 33
+0 0 10 0
+1 5 5
+A
+14 -20
+A
+13 -20
+A
+12 -20
+#5735
+obj wraps restrictive~
+5
+&Kre&wst&Wric&wti&Kve &wwraps&n~
+Some restrictive looking rags lie here.~
+~
+13 0 0 65
+0 0 10 0
+1 5 5
+A
+14 -20
+A
+13 -20
+A
+12 -20
+#5736
+obj bread hearty~
+80
+&ya hearty loaf of bread&n~
+A hearty loaf of bread makes you drool~
+~
+19 0 0 1
+24 0 0 0
+1 5 5
+$~
+#999999

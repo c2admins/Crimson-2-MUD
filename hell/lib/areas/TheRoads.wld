@@ -1,0 +1,1736 @@
+#3500
+The Plains~
+   You are on the plains, to the north you notice a small path into the hills.
+~
+35 1048576 0 1 99 2
+D0
+~
+~
+0 0 4000
+D2
+~
+~
+0 0 3501
+D3
+~
+~
+0 -1 3414
+S
+#3501
+The Lane~
+You are on a path that leads away from the main road. The road is lined on both
+sides by trees, however the trees to the east look much denser and it appears
+to be a dark forest. There is a small path that trails into the trees there.
+~
+35 1048576 0 1 99 2
+D0
+~
+~
+0 0 3500
+D1
+~
+~
+0 -1 3504
+D2
+You can see a well used road up ahead.
+~
+~
+0 -1 3726
+S
+#3502
+The Turning Point~
+  The trees stand close here, and the tall, bushy undergrowth prevents you
+from seeing far in any direction save north, where a broad lane leads off into
+the distance; and west, where the same lane continues towards what looks like
+a fairly large city. The muted sounds of city commotion reach your ears from a
+distance; stray dogs barking, children crying, and street salesmen shouting.
+~
+35 1048576 8192 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 3414
+D1
+Plains
+~
+~
+0 -1 3722
+D2
+A bushy trail
+~
+~
+0 -1 3605
+D3
+~
+~
+0 0 3503
+D5
+Into Domoi Itaba
+~
+~
+16 -1 5700
+S
+#3503
+City Entrance~
+   You stand on the outskirts of a large city - Midgaard; the capital of this
+land. The road leads east into the peace and quiet - and dangers - of the
+forest; and to the west it becomes the main street of the town; surrounded by
+a confusion of shops, bars, and market places.
+~
+35 1048580 8192 1 99 1
+D1
+~
+~
+0 0 3502
+D3
+~
+~
+0 0 3053
+S
+#3504
+Pathway into the trees.~
+The forest around you seems to become very thick, but the pathway is clear 
+enough for you to move easily through them. It looks fairly dark to the east,
+and to the west the trail leads back out of this forest.
+~
+35 1048580 0 1 99 2
+D1
+The forest looks dark.
+~
+~
+0 -1 15101
+D3
+~
+~
+0 -1 3501
+S
+#3505
+Rolling hills.~
+The road slowly climbs out of this valley to the east and dissapears over a
+hilltop.  Westward is descends gently into a wide valley.
+~
+35 1048576 0 1 99 3
+D1
+The road continues.
+~
+~
+0 -1 3506
+D3
+The road continues.
+~
+~
+0 -1 3728
+S
+#3506
+Rolling hills.~
+The road gently curves over the crest of this hill and down on both sides
+between the trees of the forest.  There is a small path leading away north
+towards a small mountain you can see, just peeking over the tops of the
+trees.
+~
+35 1048576 0 1 99 3
+D0
+A small path leads into the forest.
+~
+~
+0 -1 2279
+D1
+nothing special.
+~
+~
+0 -1 4938
+D3
+The road continues.
+~
+~
+0 -1 3505
+S
+#3507
+Ocean.~
+You are surrounded by ocean in all directions for as far as you can see.
+~
+35 1048576 2048 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 2198
+D3
+nothing special.
+~
+~
+0 -1 3508
+S
+#3508
+Ocean.~
+You are surrounded by ocean in all directions for as far as you can see.
+~
+35 1048576 2048 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3507
+D3
+nothing special.
+~
+~
+0 -1 3509
+S
+#3509
+Ocean.~
+You are surrounded by ocean in all directions for as far as you can see.
+~
+35 1048576 2048 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3508
+D3
+nothing special.
+~
+~
+0 -1 3510
+S
+#3510
+Ocean.~
+You are surrounded by ocean in all directions for as far as you can see.
+~
+35 1048576 2048 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3509
+D3
+nothing special.
+~
+~
+0 -1 3511
+S
+#3511
+Ocean.~
+You are surrounded by ocean in all directions for as far as you can see.
+~
+35 1048576 2048 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3510
+D3
+nothing special.
+~
+~
+0 -1 3512
+S
+#3512
+Ocean.~
+To the west you can see a large city positioned on the seafront.  The sea 
+gently laps away in all other directions, out to the horizon.
+~
+35 1048576 2048 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3511
+D3
+You can see a large city on the coast.
+~
+~
+0 -1 3513
+S
+#3513
+In the harbour of Elmpatris.~
+Just west of here is a pier protruding from the city, over the water.  The
+great ocean beckons in all other directions.
+~
+35 1048576 2048 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3512
+D3
+There is a pier pointing out from the waterfront of the city.
+~
+~
+0 -1 4944
+S
+#3514
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3515
+D3
+nothing special.
+~
+~
+0 -1 3722
+S
+#3515
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3723
+D3
+nothing special.
+~
+~
+0 -1 3514
+S
+#3516
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3517
+D3
+nothing special.
+~
+~
+0 -1 3725
+S
+#3517
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3518
+D3
+~
+~
+0 -1 3516
+S
+#3518
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3519
+D3
+nothing special.
+~
+~
+0 -1 3517
+S
+#3519
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3726
+D3
+nothing special.
+~
+~
+0 -1 3518
+S
+#3520
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3521
+D3
+nothing special.
+~
+~
+0 -1 3726
+S
+#3521
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3727
+D3
+nothing special.
+~
+~
+0 -1 3520
+S
+#3522
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 3728
+D2
+nothing special.
+~
+~
+0 -1 3523
+S
+#3523
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 3522
+D2
+nothing special.
+~
+~
+0 -1 3524
+S
+#3524
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 3523
+D2
+nothing special.
+~
+~
+0 -1 3525
+S
+#3525
+A small dirt road.~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 3524
+D3
+nothing special.
+~
+~
+0 -1 14403
+S
+#3526
+An underground river.~
+The tunnel is totally pitch black.  It stretchs away in both directions, for
+the short distance you can see.  The smell is of salt water, and you can hear
+only the deafening roar of the flowing water echoing in the tunnel.
+~
+35 1048576 2080 1 99 7
+D1
+The tunnel continues.
+~
+~
+0 -1 3527
+D3
+The tunnel continues.
+~
+~
+0 -1 3058
+S
+#3527
+An underground river.~
+The tunnel is totally pitch black.  It stretchs away in both directions, for
+the short distance you can see.  The smell is of salt water, and you can hear
+only the deafening roar of the flowing water echoing in the tunnel.
+~
+35 1048576 4160 1 99 7
+D2
+nothing special.
+~
+~
+0 -1 3528
+D3
+The tunnel continues.
+~
+~
+0 -1 3526
+S
+#3528
+An underground river.~
+The tunnel is totally pitch black.  It stretchs away in both directions, for
+the short distance you can see.  The smell is of salt water, and you can hear
+only the deafening roar of the flowing water echoing in the tunnel.
+~
+35 1048576 2080 1 99 7
+D0
+nothing special.
+~
+~
+0 -1 3527
+D1
+nothing special.
+~
+~
+0 -1 3529
+S
+#3529
+An underground river.~
+The tunnel is totally pitch black.  It stretchs away in both directions, for
+the short distance you can see.  The smell is of salt water, and you can hear
+only the deafening roar of the flowing water echoing in the tunnel.
+~
+35 1048576 2080 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3530
+D3
+nothing special.
+~
+~
+0 -1 3528
+S
+#3530
+An underground river.~
+The tunnel is totally pitch black.  It stretchs away in both directions, for
+the short distance you can see.  The smell is of salt water, and you can hear
+only the deafening roar of the flowing water echoing in the tunnel.
+~
+35 1048576 1040 1 99 7
+D0
+nothing special.
+~
+~
+0 -1 3531
+D3
+nothing special.
+~
+~
+0 -1 3529
+S
+#3531
+An underground river.~
+The tunnel continues through the darkness.  To the east you can barely make
+out the white spot of the entrance, through which the water is rushing out.
+~
+35 1048576 2080 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3532
+D2
+nothing special.
+~
+~
+0 -1 3530
+S
+#3532
+At the end of the underground river.~
+You are just inside the end of the dark tunnel, through which the river
+Karyna runs eastward.  Looking westward you cannot see very far, as the tunnel
+is very dark and twisting.
+~
+35 1048576 2080 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3533
+D3
+nothing special.
+~
+~
+0 -1 3531
+S
+#3533
+The River Karyna.~
+The River Karyna emerges from a dark tunnel here and begins winding it's way
+eastward through forest, and towards the coastal town of Elmpatris.
+On either side you can hear the sounds of the forest, blended in with the
+flowing of the river.
+~
+35 1048576 2080 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3534
+D3
+nothing special.
+~
+~
+0 -1 3532
+S
+#3534
+The River Karyna.~
+The River Karyna flows along eastward through the forest here.  On either side
+you can here all the sounds of the forest.
+~
+35 1048576 2080 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 3535
+D3
+nothing special.
+~
+~
+0 -1 3533
+S
+#3535
+The River Karyna.~
+The River Karyna flows along eastward through the forest here.  On either side
+you can here all the sounds of the forest.
+~
+35 1048576 1040 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 4947
+D3
+nothing special.
+~
+~
+0 -1 3534
+S
+#3536
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and the only sound is a river to the north.
+~
+35 1048576 8208 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 4950
+D3
+The river continues.
+~
+~
+0 -1 3537
+S
+#3537
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and the only sound is a river to the north.
+~
+35 1048576 4128 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 3536
+D2
+The river continues.
+~
+~
+0 -1 3538
+S
+#3538
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 8208 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 3537
+D3
+The river continues.
+~
+~
+0 -1 3539
+S
+#3539
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 4128 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 3538
+D2
+The river continues.
+~
+~
+0 -1 3540
+S
+#3540
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 4112 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 3539
+D2
+The river continues.
+~
+~
+0 -1 3541
+S
+#3541
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 8208 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 3540
+D3
+The river continues.
+~
+~
+0 -1 3542
+S
+#3542
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 8224 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 3541
+D3
+The river continues.
+~
+~
+0 -1 3543
+S
+#3543
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 8224 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 3542
+D3
+The river continues.
+~
+~
+0 -1 3544
+S
+#3544
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 8224 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 3543
+D3
+The river continues.
+~
+~
+0 -1 3545
+S
+#3545
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 4128 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 3544
+D2
+The river continues.
+~
+~
+0 -1 3546
+S
+#3546
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 8208 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 3545
+D3
+The river continues.
+~
+~
+0 -1 3547
+S
+#3547
+A small river.~
+ng upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 8224 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 3546
+D3
+The river continues.
+~
+~
+0 -1 3548
+S
+#3548
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 4128 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 3547
+D2
+The river continues.
+~
+~
+0 -1 3549
+S
+#3549
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 8208 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 3548
+D3
+The river continues.
+~
+~
+0 -1 3550
+S
+#3550
+A small river.~
+You are floating upon a small river that winds gently through the forest.
+A layer of moss reaches from one bank to the other, and the boat leaves a
+wide, visible trail behind it.  Both banks are lined with the edges of a
+thick forest, and it is wonderfully quiet here.
+~
+35 1048576 8224 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 3549
+D3
+The river continues.
+~
+~
+0 -1 14410
+S
+#3551
+The Trade Road~
+This wide, paved rode leads north-south through vast farmlands that stretch 
+away in all directions. It is frequently used by traders, and so has been 
+maintained with a great deal of care.
+~
+35 1048576 4096 1 99 1
+D0
+Along the Trade Road
+~
+~
+0 -1 3552
+D2
+Along the Trade Road
+~
+~
+0 -1 3414
+S
+#3552
+The Trade Road~
+This wide, paved rode leads north-south through vast farmlands that stretch 
+away in all directions. It is frequently used by traders, and so has been 
+maintained with a great deal of care.
+~
+35 1048576 4096 1 99 1
+D0
+Along the Trade Road
+~
+~
+0 -1 3415
+D2
+Along the Trade Road
+~
+~
+0 -1 3551
+S
+#3553
+The Trade Road~
+This wide, paved rode leads north-south through vast farmlands that stretch 
+away in all directions. It is frequently used by traders, and so has been 
+maintained with a great deal of care.
+~
+35 0 4096 1 99 1
+S
+#3600
+Junction in the North Road.~
+You are at a junction in the road. The main road appears to follow west or
+south, but there is a well worn path leading away north into the trees.
+~
+35 1048576 1024 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 3409
+D2
+~
+~
+0 -1 3052
+D3
+~
+~
+0 -1 3601
+S
+#3601
+The North Road~
+   You are traveling on the North road. To the east lies the city of
+Midgaard. Far to the west you can see the Hellfurnaces, a volcanic
+mountain range and much closer a large black tower in a shadowy
+grove. Immediately to the south is the forest of Hahn-Dor.
+~
+35 1048576 0 1 99 2
+D1
+~
+~
+0 -1 3600
+D3
+~
+~
+0 -1 3602
+S
+#3602
+The North Road~
+   You are traveling on the North road. To the east lies the city of
+Midgaard. Far to the west you can see the Hellfurnaces, a volcanic
+mountain range and much closer a large black tower in a shadowy
+grove. Immediately to the south a trail leads into the forest.
+~
+35 1048576 0 1 99 2
+D1
+~
+~
+0 -1 3601
+D3
+~
+~
+0 -1 3603
+S
+#3603
+The North Road~
+   You are traveling on the North road. To the east lies the city of
+Midgaard. Far to the west you can see the Hellfurnaces, a volcanic
+mountain range and much closer a large black tower in a shadowy
+grove. Immediately to the south is the forest of Hahn-Dor.
+~
+35 1048576 0 1 99 2
+D1
+~
+~
+0 -1 3602
+D3
+~
+~
+0 -1 3604
+S
+#3604
+The North Road~
+You are traveling on the North road. To the east lies the city of
+Midgaard. Far to the west you can see the Hellfurnaces, a volcanic
+mountain range. Far to the North upon a grassy hill top you can see
+a large castle made of white stone.
+~
+35 1048576 0 1 99 2
+D0
+A narrow road is north.
+~
+~
+0 -1 3729
+D1
+~
+~
+0 -1 3603
+S
+#3605
+A small bushy trail.~
+This small trail leads you south into the forest. Thick undergrowth
+scratches at you as you push your way through. The city of Midgaard
+lies to your west.
+~
+35 1048576 0 1 99 2
+D0
+The Turning Point.
+~
+~
+0 -1 3502
+D2
+A small path down the valley.
+~
+~
+0 -1 3606
+S
+#3606
+End of the small path.~
+  The path you have been traveling along comes to an end to the south here,
+where the forest has grown over the path. Eerie noises 
+echo around you as you peer south.
+~
+35 1048580 0 1 99 4
+D0
+Back towards Midgaard.
+~
+~
+0 -1 3605
+D2
+Some very thick forest.
+~
+~
+0 -1 17402
+S
+#3607
+BLANK~
+   You are on a narrow path which is climbing up the side of a large
+mountain in the Hellfurnaces. The path continues west up the mountain,
+and descends east towards the north road.
+~
+35 0 0 1 99 5
+D1
+~
+~
+0 -1 3606
+D3
+~
+~
+0 -1 3608
+S
+#3608
+BLANK~
+   The narrow path suddenly ends halfway up the mountain. However a recent
+earthquake has dislodged a large boulder, revealing a stairway leading down.
+To the east the path descends the mountain side.
+~
+35 0 0 1 99 5
+D1
+~
+~
+0 -1 3607
+S
+#3700
+The South Road~
+   You are travelling the South Road. To the north the road travels to the
+city of Midgaard. Far to the south the road dissapears into the forest, and
+on the other side of the forest you can see the Grey Mountains raising into
+the air.
+~
+35 1048576 0 1 99 2
+D0
+~
+~
+0 -1 3052
+D2
+nothing special.
+~
+~
+0 -1 3702
+S
+#3701
+A dimly lit path.~
+You are treading through a dark forest on a dimly lit pathway, leading away
+from South Road.
+~
+35 1048576 0 1 99 2
+D2
+The pathway continues.
+~
+~
+0 -1 17600
+D3
+You can see South Road.
+~
+~
+0 -1 3709
+S
+#3702
+The South Road~
+   You are travelling the South Road. To the north the road travels to the
+city of Midgaard. Far to the south the road disappears into the forest, and
+on the other side of the forest you can see the Grey Mountains rising into
+the air.
+~
+35 1048576 0 1 99 2
+D0
+nothing special.
+~
+~
+0 -1 3700
+D2
+~
+~
+0 -1 3703
+S
+#3703
+The South Road~
+   You are travelling the South Road. To the north the road travels to the
+city of Midgaard, and to the west the road leads into the Forest of Hahn-Dor.
+~
+35 1048576 0 1 99 2
+D0
+~
+~
+0 -1 3702
+D3
+~
+~
+0 -1 6015
+S
+#3704
+Blank room.~
+This room is spare.
+~
+35 0 0 1 99 2
+S
+#3705
+Bridge across the river.~
+   You are standing on the South Road as it crosses a gently flowing, but very
+wide river. To the north the road leads into the Forest of Haon-Dor, and to
+the south it heads towards the base of the Grey Mountains, and toward the
+Kingdom of Thalos.
+~
+35 1048580 0 1 99 2
+D0
+The road continues into the forest.
+~
+~
+0 -1 6018
+D2
+The road continues.
+~
+~
+0 -1 3709
+S
+#3706
+Blank Room.~
+This room is spare.
+~
+35 0 0 1 99 2
+S
+#3707
+Blank room.~
+This room is spare.
+~
+35 0 0 1 99 2
+S
+#3708
+Blank room.~
+This room is spare.
+~
+35 0 0 1 99 2
+S
+#3709
+The South Road~
+   You are travelling the South Road. To the north, across the bridge you can
+see the Forest of Haon-Dor, and leading away west the road continues toward
+the Grey Mountains and the Kingdom of Thalos.  There is also a small pathway
+leading east into the forest.
+~
+35 1048576 0 1 99 2
+D0
+A bridge crosses the river.
+~
+~
+0 -1 3705
+D1
+A dimly lit path leads off into the trees.
+~
+~
+0 -1 3701
+D3
+~
+~
+0 -1 3710
+S
+#3710
+The South Road~
+   You are traveling the South road. To the north, beyond the river, you can
+see the forest of Hahn-Dor. To the east the road crosses a bridge and then
+enters the city of Midgaard. To the south the road crosses the Grey
+mountains into the Kingdom of Thalos.
+~
+35 1048576 0 1 99 2
+D1
+~
+~
+0 -1 3709
+D2
+~
+~
+0 -1 3711
+S
+#3711
+The South Road~
+   You are traveling the South road. To the north the road eventually leads
+to Midgaard City. All around you stretch the foothills that mark the
+beginnings of the Grey Mountains. To the south you can see a large citadel
+guarding the border of Midgaard.
+~
+35 1048576 0 1 99 4
+D0
+~
+~
+0 -1 3710
+D2
+~
+~
+0 -1 3712
+D3
+The pathway winds its way through the foothills to the west.
+~
+~
+0 -1 4201
+S
+#3712
+South Road Pass~
+   You are high up in the Grey mountains, traveling the South road. To the
+north the road eventually leads to Midgaard City. Looming over the mountain
+pass is a large citadel, which guards the southernmost border of the Kingdom
+of Midgaard.
+~
+35 1048576 0 1 99 5
+D0
+~
+~
+0 -1 3711
+D2
+~
+~
+0 -1 3713
+D4
+Citadel~
+~
+0 -1 14600
+S
+#3713
+South Road Pass~
+   You are high up in the Grey mountains, traveling the South road. To the
+north the road passes underneath the watchfull eye of a large citadel,
+which guards the entrance to Midgaard. To the south is the Kingdom of
+Thalos.
+~
+35 1048576 0 1 99 5
+D0
+~
+~
+0 -1 3712
+D2
+~
+~
+0 -1 3714
+S
+#3714
+The South Road~
+   You are travelling the South Road.  Around you lie foothills that mark
+the southern edge of the Grey mountains.  To the south, lies the kingdom of
+Thalos, reknowned for its lush farmland.
+~
+35 1048576 0 1 99 4
+D0
+~
+~
+0 -1 3713
+D2
+~
+~
+0 -1 3715
+S
+#3715
+The Sand Sea~
+   The South road suddenly disappears under an Ocean of dust and sand.
+The once lush kingdom of Thalos has now become a harsh desert. I wonder
+what could have happened.
+~
+35 1048576 0 1 99 4
+D0
+~
+~
+0 -1 3714
+D2
+~
+~
+0 -1 3716
+D3
+~
+~
+0 -1 3716
+S
+#3716
+The Sand Sea~
+  In all directions the land is covered by an Ocean of dust and sand.
+The once lush kingdom of Thalos has now become a harsh desert. I wonder
+what could have happened.
+~
+35 1048576 8 1 99 4
+D0
+~
+~
+0 -1 3715
+D2
+~
+~
+0 -1 3721
+D3
+~
+~
+0 -1 3718
+S
+#3717
+The Sand Sea~
+  In all directions the land is covered by an Ocean of dust and sand.
+The once lush kingdom of Thalos has now become a harsh desert. I wonder
+what could have happened.
+~
+35 1048576 0 1 99 4
+D0
+~
+~
+0 -1 3718
+D1
+~
+~
+0 -1 3721
+D2
+~
+~
+0 -1 3719
+S
+#3718
+The Sand Sea~
+  In all directions the land is covered by an Ocean of dust and sand.
+The once lush kingdom of Thalos has now become a harsh desert. I wonder
+what could have happened. To the west you can see the remains of the
+once proud City of Thalos.
+~
+35 1048576 0 1 99 4
+D1
+~
+~
+0 -1 3716
+D2
+~
+~
+0 -1 3717
+D3
+~
+~
+0 -1 5200
+S
+#3719
+The Sand Sea~
+  In all directions the land is covered by an Ocean of dust and sand.
+The once lush kingdom of Thalos has now become a harsh desert. I wonder
+what could have happened.
+~
+35 1048576 0 1 99 4
+D0
+~
+~
+0 -1 3717
+D1
+~
+~
+0 -1 5251
+D2
+~
+~
+0 -1 5258
+S
+#3720
+The Sand Sea~
+  In all directions the land is covered by an Ocean of dust and sand.
+The once lush kingdom of Thalos has now become a harsh desert. I wonder
+what could have happened.
+~
+35 1048576 0 1 99 4
+D0
+~
+~
+0 -1 2901
+D2
+~
+~
+0 -1 5252
+D3
+~
+~
+0 -1 3721
+S
+#3721
+The Sand Sea~
+  In all directions the land is covered by an Ocean of dust and sand.
+The once lush kingdom of Thalos has now become a harsh desert. I wonder
+what could have happened.
+~
+35 1048576 0 1 99 4
+D0
+~
+~
+0 -1 3716
+D1
+~
+~
+0 -1 3720
+D2
+~
+~
+0 -1 5251
+D3
+~
+~
+0 -1 3717
+S
+#3722
+Plains East of Midgaard~
+     Farmlands stretch out east of here, to the west you see Midgaard on
+the horizon.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3514
+D3
+road to town
+~
+~
+0 -1 3502
+S
+#3723
+Plains East of Midgaard~
+   Your find yourself deep in the heart of vast farmlands.
+~
+35 1048576 0 1 99 2
+D1
+The land forms gently rolling hills ahead.
+~
+~
+0 -1 3725
+D2
+Crops
+~
+~
+0 -1 3724
+D3
+nothing special.
+~
+~
+0 -1 3515
+S
+#3724
+Vast fields~
+   Your find yourself deep in the heart of vast farmlands.
+~
+35 1048576 0 1 99 2
+D0
+Plains~
+~
+0 -1 3723
+D2
+ruined crops~
+~
+0 -1 13201
+S
+#3725
+Rolling Hills~
+The terrain forms green, grassy hills as far as the eye can see in every
+direction. An occasional tree dots the horizon.
+~
+35 1048576 0 1 99 2
+D1
+nothing special.
+~
+~
+0 -1 3516
+D3
+Farmlands lie to the west.
+~
+~
+0 -1 3723
+S
+#3726
+Rolling Hills~
+The terrain forms green, grassy hills as far as the eye can see in every
+direction. An occasional tree dots the horizon.
+~
+35 1048576 0 1 99 2
+D0
+A small lane leads away from the main road into the forest.
+~
+~
+0 -1 3501
+D1
+nothing special.
+~
+~
+0 -1 3520
+D3
+nothing special.
+~
+~
+0 -1 3519
+S
+#3727
+A Wide Valley~
+The land slowly descends into a wide valley between two large hills. Several
+large trees lie ahead.
+~
+35 1048576 0 1 99 2
+D1
+A small glade lies ahead.
+~
+~
+0 -1 3728
+D3
+nothing special.
+~
+~
+0 -1 3521
+S
+#3728
+A Small Glade~
+A small group of trees have grown together here in the bottom of the valley.
+A narrow dirt path lead southward.
+~
+35 1048576 0 1 99 3
+D1
+The road continues.
+~
+~
+0 -1 3505
+D2
+A dirt road leads away south.
+~
+~
+0 -1 3522
+D3
+The valley continiues the west.
+~
+~
+0 -1 3727
+S
+#3729
+Road to the Province of Shilinta~
+   You are on a narrow, seldom used road that leads north and south.  To 
+the north, you see a large castle on a hill.  The north road is south.
+~
+35 1048580 0 1 99 2
+D0
+The road continues.
+~
+~
+0 -1 3730
+D2
+The north road is to the south.
+~
+~
+0 -1 3604
+S
+#3730
+Road to the Province of Shilinta~
+   The road leads north and south.  To the north, the road curves into a 
+light forest.  A castle looms in the distance.
+~
+35 1048580 0 1 99 2
+D0
+The road continues.
+~
+~
+0 -1 3731
+D2
+The road continues.
+~
+~
+0 -1 3729
+D3
+The forest looks dark.
+~
+~
+0 -1 2677
+S
+#3731
+Road to the Province of Shilinta~
+   The road passes through a light forest here.  Plains lie to the south,
+and a castle is visible in the distance.
+~
+35 1048576 0 1 99 2
+D2
+The road continues.
+~
+~
+0 -1 3730
+D3
+The road continues.
+~
+~
+0 -1 3732
+S
+#3732
+Road to the Province of Shilinta~
+   You are walking through a light forest.  A hill lies to the north with a
+very large castle sitting on top of it.  
+~
+35 1048576 0 1 99 3
+D0
+The road continues.
+~
+~
+0 -1 3733
+D1
+The road continues.
+~
+~
+0 -1 3731
+S
+#3733
+The Province of Shilinta~
+   You are on the outskirts of the Province of Shilinta.  A castle is just
+ahead to the north, on top of a hill.  The road continues south.
+~
+35 1048576 0 1 99 4
+D0
+The road continues north.
+~
+~
+0 -1 3734
+D2
+The road continues.
+~
+~
+0 -1 3732
+S
+#3734
+The Dirt Path~
+   Castle Bryan is ahead to the north.  The road leads south back to the 
+north road.  
+~
+35 1048580 0 1 99 4
+D0
+The road to Castle Bryan leads north.
+~
+~
+0 -1 16200
+D2
+The road continues.
+~
+~
+0 -1 3733
+S
+$~
+#999999

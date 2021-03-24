@@ -1,0 +1,184 @@
+#20610
+obj crack wall~
+100
+a crack in the wall~
+&Kyou notice a crack in the wall.&n~
+~
+15 0 0 0
+50 5 0 0
+999 5 5
+#20611
+obj wood stake~
+6
+&yA Wood Stake&n~
+&yA Wood Stake&n~
+~
+5 4194624 4 8193
+27 5 11 0
+10 100000 5000
+A
+19 2
+A
+18 2
+#20612
+obj wyrm blade vampire~
+1
+&KThe Wy&cr&Rmbl&ca&Kde&n~
+a long curved blade lies here, humming from its own power~
+~
+5 104859651 0 8193
+69643 10 5 3
+15 5 2000000
+A
+19 1
+A
+32 -1
+A
+18 6
+A
+40 -1
+#20613
+obj tatiana notebook~
+6
+&pTatiana's &KNotebook&n~
+a notebook bearing the seal of the Gangrel~
+~
+18 4194308 0 16385
+20614 1 0 0
+20 3000000 50000
+E
+notebook tatiana notes~
+&wThrough the reasearch I have done during my capture, I have found the weakness of the Ahrimane.  I have also found a specific blade that should do well in destroying them.  It can be attained by
+
+
+&c*The rest of the page seems to be torn off*&n
+~
+A
+19 5
+A
+18 2
+A
+41 2
+#20614
+obj altar ahrimane~
+100
+&KThe Altar of the Ahrimane&n~
+&KThe Altar of the Ahrimane&n~
+~
+15 0 0 0
+100 15 20613 0
+100 5 5
+#20615
+obj edge entropy~
+1
+&YT&Ghe &YE&Gdge &Yo&Gf &YE&Gntropy&n~
+a piece of the void lies here emitting sparks~
+~
+5 104859777 0 8193
+32792 9 5 11
+10 5 50000
+A
+31 -1
+A
+32 -1
+A
+19 5
+#20616
+obj strength sabbat ring~
+1
+&KThe Strength of the Sabbat&n~
+a small platinum band, posessing the powers of the sabbat~
+~
+9 4194820 0 3
+15 0 0 0
+10 5 45000
+A
+40 2
+A
+19 1
+A
+18 1
+A
+13 10
+#20617
+obj glyph immortality key~
+10
+&KThe Glyph of Immortality&n~
+&KThe Glyph of Immortality&n~
+~
+18 262144 0 1
+0 4 0 0
+1 5 5
+#20618
+obj bearskin rug~
+100
+&ybearskin rug&n~
+A &ybearskin rug&n lies here on the ground.~
+~
+12 0 0 9
+0 0 10 0
+1 5 5
+#20619
+obj quest rage chaos quest1~
+5
+&RT&Khe &RR&Kage &Ro&Kf &RC&Khaos&n~
+a grey void swirls at your feet~
+~
+9 4456448 0 9
+100 0 0 0
+1 5 5
+A
+19 3
+A
+13 25
+A
+12 -50
+A
+14 25
+#20620
+obj staff symphony night~
+7
+&YT&Kh&Ye &KS&Yy&Km&Yp&Kh&Yo&Kn&Yy &Ko&Yf &Kt&Yh&Ke &YN&Ki&Yg&Kh&Yt&n~
+a strange voice can be heard here, murmoring as if it was an orchestra~
+~
+4 4194304 0 16385
+50 10 10 117
+1 5 5
+A
+19 -10
+A
+18 -10
+#20621
+obj stealth boots~
+1
+&KThe Boots of the Kindred Stealth&n~
+you can vaguely make out a shadow in the corner...but..what is it~
+~
+9 88147968 4 65
+0 0 0 0
+10 300000 175000
+A
+19 1
+A
+25 1
+A
+13 -5
+A
+12 -10
+#20622
+obj wyrmblade malkavian~
+1
+&KThe &RWy&cr&Kmbl&ca&Rde&n~
+a long curved blade lies here, humming from its own power~
+~
+5 104859649 0 8193
+1056768 6 8 3
+6 500000 50000
+A
+19 2
+A
+32 -1
+A
+23 -3
+$~
+#999999

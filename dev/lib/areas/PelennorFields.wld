@@ -1,0 +1,412 @@
+#5880
+&WMinas Tirith&n~
+&wYour standing in a massive castle built on the side
+&wof a cliff. You can hear orc warcries to the east.&n
+~
+59 0 0 41 99 1
+D1
+~
+~
+0 -1 5881
+S
+#5881
+&WThe Gates Of Minas Tirith&n~
+&wYou stand before a massive pair of doors. You
+&wcant stand to think what may lie behind them.&n
+~
+59 4 0 1 99 1
+D1
+~
+gate~
+1 0 5882
+D3
+~
+~
+0 -1 5880
+S
+#5882
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5883
+D1
+~
+~
+0 -1 5891
+D2
+~
+~
+0 -1 5885
+D3
+~
+gate~
+1 0 5881
+S
+#5883
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5884
+D1
+~
+~
+0 -1 5893
+D2
+~
+~
+0 -1 5882
+S
+#5884
+&yPelennor fields&n~
+&wThe feilds go on forever it seems. A
+&wmassive Seige Tower stands before you.&n
+~
+59 0 0 1 99 1
+D1
+~
+~
+0 -1 5894
+D2
+~
+~
+0 -1 5883
+D4
+~
+~
+0 -1 5901
+S
+#5885
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5882
+D1
+~
+~
+0 -1 5892
+D2
+~
+~
+0 -1 5886
+S
+#5886
+&yPelennor fields&n~
+&wThe feilds go on forever it seems. A
+&wmassive Seige Tower stands before you.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5885
+D1
+~
+~
+0 -1 5887
+D4
+~
+~
+0 -1 5898
+S
+#5887
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5892
+D1
+~
+~
+0 -1 5888
+D3
+~
+~
+0 -1 5886
+S
+#5888
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5889
+D3
+~
+~
+0 -1 5887
+S
+#5889
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5890
+D2
+~
+~
+0 -1 5888
+D3
+~
+~
+0 -1 5892
+S
+#5890
+&yPelennor fields&n~
+&wScreeches heard from afar make you fall
+to your knees, clutching your ears in agony.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5896
+D1
+~
+~
+0 -1 5897
+D2
+~
+~
+0 -1 5889
+D3
+~
+~
+0 -1 5891
+S
+#5891
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5893
+D1
+~
+~
+0 -1 5890
+D2
+~
+~
+0 -1 5892
+D3
+~
+~
+0 -1 5882
+S
+#5892
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5891
+D1
+~
+~
+0 -1 5889
+D2
+~
+~
+0 -1 5887
+D3
+~
+~
+0 -1 5885
+S
+#5893
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5894
+D1
+~
+~
+0 -1 5896
+D2
+~
+~
+0 -1 5891
+D3
+~
+~
+0 -1 5883
+S
+#5894
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D1
+~
+~
+0 -1 5895
+D2
+~
+~
+0 -1 5893
+D3
+~
+~
+0 -1 5884
+S
+#5895
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D2
+~
+~
+0 -1 5896
+D3
+~
+~
+0 -1 5894
+S
+#5896
+&yPelennor fields&n~
+&wThe fields go on forever it seems. You
+&wcan see Osgiliath far off to the north.&n
+~
+59 0 0 1 99 1
+D0
+~
+~
+0 -1 5895
+D2
+~
+~
+0 -1 5890
+D3
+~
+~
+0 -1 5893
+S
+#5897
+&yPelennor fields&n~
+&wWounded lay everywhere. There is barely room to move.
+&wThe Witch-Lord of Angmar is here riding on a fell beast.
+~
+59 0 0 1 99 1
+D3
+~
+~
+0 -1 5890
+S
+#5898
+&KClimbing A Seige Tower&n~
+UNDEFINED ROOM DESCRIPTION: 5898
+~
+59 0 0 1 99 1
+D4
+~
+~
+0 -1 5899
+D5
+~
+~
+0 -1 5886
+S
+#5899
+&KClimbing A Seige Tower&n~
+UNDEFINED ROOM DESCRIPTION: 5899
+~
+59 0 0 1 99 1
+D4
+~
+~
+0 -1 5900
+D5
+~
+~
+0 -1 5898
+S
+#5900
+&KAt the top&n~
+UNDEFINED ROOM DESCRIPTION: 5900
+~
+59 0 0 1 99 1
+D5
+~
+~
+0 -1 5899
+S
+#5901
+&KClimbing A Seige Tower&n~
+UNDEFINED ROOM DESCRIPTION: 5901
+~
+59 0 0 1 99 1
+D4
+~
+~
+0 -1 5902
+D5
+~
+~
+0 -1 5884
+S
+#5902
+&KClimbing A Seige Tower&n~
+UNDEFINED ROOM DESCRIPTION: 5902
+~
+59 0 0 1 99 1
+D4
+~
+~
+0 -1 5903
+D5
+~
+~
+0 -1 5901
+S
+#5903
+&KAt the top&n~
+UNDEFINED ROOM DESCRIPTION: 5903
+~
+59 0 0 1 99 1
+D5
+~
+~
+1 0 5902
+S
+$~
+#999999

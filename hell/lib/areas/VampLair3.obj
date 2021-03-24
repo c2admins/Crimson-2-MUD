@@ -1,0 +1,179 @@
+#15300
+obj gold treasure pile~
+100
+a large pile of gold~
+A large pile of gold treasure is lying here.~
+~
+20 0 0 1
+750000 0 0 0
+5 5 5
+#15301
+obj key small black~
+2
+a small black key~
+A small black key has been dropped here.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#15302
+obj brain~
+100
+a brain~
+Some brains are lying here on the ground~
+~
+19 0 0 1
+2 0 10 0
+1 5 5
+E
+brain~
+Just some small and squidgy rat's brain. Eugh!
+~
+#15303
+obj brain~
+100
+a brain~
+Some brains are lying here on the ground~
+~
+19 0 0 1
+3 0 10 0
+1 5 5
+E
+brain~
+Just some small and squidgy snotling brains... it's even green! Ick!
+~
+#15304
+obj brain~
+100
+a brain~
+Some brains are lying here on the ground~
+~
+19 0 0 1
+4 0 10 0
+1 5 5
+E
+brain~
+These brains are wombling free!
+~
+#15305
+obj brain~
+100
+a brain~
+Some brains are lying here on the ground~
+~
+19 0 0 1
+5 5 10 0
+1 5 5
+E
+brain~
+These are just some smelly old goblin brains! Get rid of them quick!
+~
+#15306
+obj brain~
+100
+a brain~
+Some brains are lying here on the ground~
+~
+19 0 0 1
+6 0 10 0
+1 5 5
+E
+brain~
+Arnathian brains!  They're very squishy.
+~
+#15307
+obj brain~
+100
+a brain~
+Some brains are lying here on the ground~
+~
+19 0 0 0
+15 0 10 0
+1 5 5
+E
+brain~
+There is a stamp here. It reads:
+
+      If lost, please return to the Whitehouse, USA.
+
+It must be the president's brain!
+~
+#15308
+obj swag bag~
+100
+swag~
+Some swag is lying here.~
+~
+13 262144 0 1
+0 0 10 0
+1 5 5
+#15309
+obj code source~
+100
+a fragment of source code~
+Somebody has dropped a fragment of the Crimson code here.~
+~
+12 0 0 1
+0 0 10 0
+1 5 5
+E
+code source~
+It's a fragment of the Crimson MUD code!  It's quite valuable so get it back
+to a god, quick!
+~
+#15310
+obj leg Fishenstein~
+100
+a human leg~
+A dismembered human leg is lying here.~
+~
+12 0 0 1
+0 0 10 0
+1 5 5
+#15311
+obj arm Fishenstein~
+100
+a human arm~
+A dismembered human arm is lying here.~
+~
+12 0 0 1
+0 0 10 0
+1 5 5
+#15312
+obj torso Fishenstein~
+100
+a human torso~
+A dismembered human torso is lying here.~
+~
+12 0 0 1
+0 0 10 0
+1 5 5
+#15313
+obj head Fishenstein~
+100
+a human head~
+A dismembered human head is lying here.~
+~
+12 0 0 1
+0 0 10 0
+1 5 5
+#15314
+obj brain Fishenstein~
+100
+a human brain~
+A mushy human brain is lying here.~
+~
+12 0 0 1
+0 0 10 0
+1 5 5
+#15315
+obj heart Fishenstein~
+100
+a human heart~
+A squidgy human heart is lying here.~
+~
+12 0 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

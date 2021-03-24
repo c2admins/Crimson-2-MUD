@@ -1,0 +1,220 @@
+#9100
+mob hellnight demon~
+The &rHell&KNight&n Demon~
+A creature of pure evil and malice stands here, waiting to destroy you.
+~
+     A sick, twisted and ugly creature, the Hellnight Demon is born from those
+gods who wish nothing else but to destroy the mortal world. The beast stands
+nearly twenty feet tall with a mane of black hair surrounding its head. Its
+skin is red in color, and its thickness is so great that normal weapons merely
+bounce off of it. Claws sprout from both hands, nearly six inches in length,
+while fangs just as large form in a maw that woudl like nothing better to
+tear your flesh to bits. Glowing orange eyes complete the package, eyes that
+hold an evil in them that could chill the heart of any man.
+~
+1141964808 135299073 169803793 -2063334742 -1000 S
+48 0 -35 20d100+1500000 50d10+60
+10000000 2000000
+8 8 0
+0 0 17 15 14 14 15 15
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+SKILL=SPELL_DEMON_FLESH 99
+ATTACK_SKILL=75
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#9101
+mob Nightwynde nasty nemesis~
+Nemesis~
+Nightwynde's Nasty Nemesis stands here, waiting to rip you to shreds.
+~
+     Born from the pits of despair, Nemesis is all that defines evil and
+impurity. It's eight foot frame is covered in an inky black skin, six inch
+razor sharp claws sprouting from it's fingertips. A maw of teeth as sharp as 
+its nails lines the creatures mouth, while its blue eyes glow with an unholy
+light. The beast is evil incarnate, and shoudl be treated with caution.
+~
+43515912 135299073 169803793 1141113578 -1000 S
+48 0 -40 70d90+2500000 40d30+100
+5000000 2000000
+8 8 0
+0 0 25 18 16 15 14 14
+SKILL=SPELL_ARMOR 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 90
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+SKILL=SKILL_RAGE 99
+#9102
+mob storm pet rat chipper~
+Chipper~
+A huge rat with big fangs glares at you.
+~
+He's big and mean, but he looks oh so cute and cuddly.
+~
+25165836 1343489 136249361 1144520832 0 S
+48 0 -40 1d1+1250000 25d10+0
+5000000 2000000
+8 8 0
+0 0 16 18 15 15 13 14
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#9103
+mob bingo brain~
+Bingo's Brain~
+The gigantic wobbling brain of bingo floats here.
+~
+     Run away! It's the attack of the giant, wobbly brains! Arrgghhh!
+~
+8388616 32769 136249361 1073741952 0 S
+48 0 -40 1d1+1000000 35d40+50
+5000000 2000000
+8 8 0
+0 0 17 16 16 16 14 15
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+#9104
+mob 400 pound mudchick~
+The 400lb MudChick~
+A woman of enormous girth waddles around here, looking for someone to eat.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+48 0 -40 1d1+500000 50d20+100
+5000000 2000000
+8 8 0
+0 0 17 17 16 14 12 15
+#9105
+mob your ex-girlfriend~
+Your ex-girlfriend~
+Your ex-girlfriend stands here, acting like a biznatch.
+~
+  Ever wanna get back at your ex and not had the chance? Well here it is, grab 
+the bull by the horns and start laying the smack down!
+~
+62914632 262145 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 2
+0 0 17 18 16 14 12 12
+#9106
+mob quest dutch Doctor~
+A Doctor~
+A doctor stands here, in a white coat, wandering about aimlessly.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+26018058 1 136249361 2097280 -1000 S
+48 0 -40 1d1+399999 100d10+99
+5000000 2000000
+8 8 0
+0 0 25 17 16 15 14 11
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+#9107
+mob quest dutch nurse~
+A Nurse~
+A nurse awaits her chance at helping out.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262410 1 136249361 2097280 0 S
+46 0 -40 1d1+11999 20d20+15
+1000000 2000000
+8 8 0
+0 0 25 17 16 15 14 11
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+#9108
+mob quest dutch medical student~
+A Medical Student~
+A med student roams about the halls, searching for a doctor to help.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+1034 1 136249361 268697728 0 S
+41 0 -30 1d1+3999 10d10+5
+4500000 1750000
+8 8 0
+0 0 25 15 15 16 14 11
+#9109
+mob quest meister~
+&WThe &wQue&cstme&wis&Wter&n~
+&WThe &wQue&cstme&wis&Wter &Kstands here, preparing for your next quest.&n
+~
+He's a little old man who has done and seen it all. Ask him the right questions and he may send
+you on a quest for a reward.
+~
+536870986 4227073 136249393 1073741992 0 S
+48 40 40 1d1+1 1d1+1
+1 0
+8 8 1
+0 0 16 17 15 15 14 12
+$~
+#999999

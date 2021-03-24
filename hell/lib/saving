@@ -1,0 +1,17 @@
+"SAVING THROWS"
+Saving Throws are measures of a character's resistance to special types of 
+attacks such as poisons, magic, and attacks that affect the whole body or mind
+of the character.  The chance to save is based on the character's level and 
+class.  Saving Throws are classified into five categories of priority: 
+1) Paralyzation, Poison, or Death Magic  
+2) Rod, Staff, or Wand 
+3) Petrification or Polymorph  
+4) Breath Weapon  
+5) Spell.
+
+Example:
+Gnarl is struck by the ray of a Wand of Paralyzation.  A save vs. wands and a 
+save vs. paralyzation would both be appropriate.  However, since save vs. 
+paralyzation is a higher priorty than save vs. wand, Gnarl must save vs. 
+paralyzation.
+

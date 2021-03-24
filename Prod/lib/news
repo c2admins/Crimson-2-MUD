@@ -1,37 +1,43 @@
 Welcome to Crimson mud 2  -  mud.crimson2.com 4000
 
 &C---------------------======{&WCrimson II NEWS&C}======---------------------&n
- &W July 3, 2020 -
-   &w*&n Server Move complete.
-   &w*&n Code Update: change to fix a color bleed when ANSI is off from the
-     WHO command. Wipe code changes to 16 months to make the move easier. 
-     This is scheduled to revert back on August 01, 2020
+This is in summary form. Te see the latest changes check out 'help changelog'
 
- &W 2019 Summary -
-   &w*&n Questmaster Update: Potions of Bind Souls/Demon Flesh have changed,
-     plus Bow/Crossbow(s) have been improved for Mortals.
-   &w*&n Zone Update: EQ in HadesCastle and Darkcastle has been rebalanced.
-	  
- &W 2013-2018 Sumary -
-   &w*&n Zone Update: WinterWonderland has been removed. It may return 
-     for the Holidays
-   &w*&n Zone Update: DragonRealm3 had a mob and items updated. New gear
-     has been added to the zone also.
-
- &W 2010 Summary - 
-   &w*&n Zone Update: GerinsTower and RealmOfKhorne
-   &w*&n New Items and Services at Questmaster. The items are subject to 
-     change in availability and price.
-   &w*&n Bots are now prohibited on Crimson MUD 2.  If you have questions
-     regarding this change see 'help bots'.
-
- &W 2007-2009 Summary -
-   &w*&n Code update:  For some of you, the latest version will be very 
-     apparent.  Among other things, you should notice now a reminder to
-     vote for our mud via the MUDCONNECTOR website.
-  &W September 11, 2007 - &n
-   &w*&n Zone Update: NewbieVillage and GnomeVillage are now enhanced.  
-     Changes include new rooms, new mobs, and new gear.  Both zones should
-     be more enjoyable to play for a lower-level mortal.
-	   
-	   
+ &W Quarter 1 2021 -
+   &w*&n Code Update: 
+     - Removed Mudconnect Vote link on welcome screen.
+     - Character creation points to website for class restriction info
+     - Rush Hour has a 40% chance to be a 3x EXP multiplier instead of 2x
+     - Dodge modified to allow chance to actually dodge attacks
+     - Spell Identify and Auction ID now show average damage on weapons
+     - Consider command updated to be more accurate and have betterr messages
+     - Class Criticals % chance increased and now available at level 30
+     - Envenom Weapon gives acid attack instead of Poisonous
+   &w*&n Zone Update:
+     - WinterWonderland Zone  has been removed until next December
+ &W 2020 Summary -
+   &w*&n Code Update: 
+     - Added and balanced Druid, Monk and Eldritch Knight classes
+     - Updated and added helpfiles
+     - New Spells and Skills
+     - Fixed elemental bits on dual wield weapons
+     - Avatar foreign spell limit increased to 55
+     - Fixed various bugs
+     - Added Vex to BLESS command for evil players
+     - Made Pets and Summons act like Gate mobs when leader is gone
+     - Changed namine for Immortal channels and mudmail groups
+   &w*&n Zone Update:
+     - QuelSithElves updated with new quest
+     - Tuscany2 fixed to have an object load that was never setup
+     - WinterWonderland Zone added for December, goto Room 24480
+     - Narsil Sword Quest added to Halfling. Talk to local gossips in Zone
+     - Four Horseman of the Apocalypse are roaming the MUD
+ &W 2007-2019 Summary -
+   &w*&n Zone Updates:
+     - NewbieVillage, GnomeVillage, GerinsTower, RealmOfKhorne, DragonRealm3,
+       HadesCastle and DarkCastle have had EQ, Rooms and Mobs updated
+   &w*&n Questmaster Update:
+     - Items changed, plus Bow/Crossbow(s) have been improved for Mortals
+   &w*&n Rules Update:
+     - Bots are now prohibited on Crimson MUD 2. If you have questions
+     regarding this change see 'help bots'

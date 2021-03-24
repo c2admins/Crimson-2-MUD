@@ -21,6 +21,7 @@ cat ~/c2/prod/lib/ideas.header ~/c2/prod/lib/ideas > ~/c2/prod/lib/ideas.mail
 
 cat ~/c2/prod/lib/typos.header ~/c2/prod/lib/typos > ~/c2/prod/lib/typos.mail
 
+
 # enter everybody who need to get some of the files mailed
 # cat <filename1> <filename2>... | mail <email address>
 # each recipient on a line for themself
@@ -32,7 +33,7 @@ cat ~/c2/prod/lib/typos.header ~/c2/prod/lib/typos > ~/c2/prod/lib/typos.mail
 # /mud/prod/lib/ideas.mail : The ideas submitted in the last week
 #
 
-cat ~/c2/prod/lib/nohelp.mail ~/c2/prod/lib/bugs.mail ~/c2/prod/lib/ideas.mail ~/c2/prod/lib/typos.header | mail -s No_Help/Bugs/Ideas/Typos c2admins@gmail.com
+cat ~/c2/prod/lib/nohelp.mail ~/c2/prod/lib/bugs.mail ~/c2/prod/lib/ideas.mail ~/c2/prod/lib/typos.mail | mail -s No_Help/Bugs/Ideas/Typos c2admins@gmail.com
 #cat /mud/prod/lib/bugs.mail /mud/prod/lib/ideas.mail | mail -s C2_files c2admins@gmail.com
 #cat /mud/prod/lib/nohelp.mail | mail -s C2_files c2admins@gmail.com
 
@@ -45,3 +46,5 @@ touch ~/c2/prod/lib/bugs
 
 mv ~/c2/prod/lib/typos ~/c2/prod/lib/typos.backup
 touch ~/c2/prod/lib/typos
+
+

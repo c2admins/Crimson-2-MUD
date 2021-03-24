@@ -1,0 +1,231 @@
+#2690
+NW Arena~
+You are standing in the northwest corner of the Arena. A great sence of good
+will and life seems to fill the air around you and you feel that this would
+be a good place for those good natured to make a stand.
+~
+25 1343225932 537923584 1 99 1
+D1
+~
+~
+0 -1 2691
+D2
+~
+~
+0 -1 2693
+D5
+~
+~
+0 -1 2699
+S
+#2691
+N Arena~
+You have made your way into the northern most point of the Arena. The air here
+is heavy and it makes it hard for you to think. For some reason the words to
+your magical spells come slowly to your mind and their meaning unclear.
+~
+25 1343225996 537993216 1 99 1
+D1
+~
+~
+0 -1 2692
+D2
+~
+~
+0 -1 2694
+D3
+~
+~
+0 -1 2690
+D5
+~
+~
+0 -1 2699
+S
+#2692
+NE Arena~
+You are standing in the northeast corner of the Arena. A choking darkness so
+thick you can almost cut it surrounds you. Flashes of gruesome images appear
+before your eyes and dark thoughts enter your mind. The stench of evil is
+strong here, the perfect place for those known to be less than honorable.
+~
+25 1343225885 537927680 1 99 1
+D2
+~
+~
+0 -1 2695
+D3
+~
+~
+0 -1 2691
+D5
+~
+~
+0 -1 2699
+S
+#2693
+W Arena~
+You have arrived in the western end of the Arena. The sounds of fighting fill
+your ears and you find yourself pausing for a second. It is then that you notice
+your magical aura being slowly eaten away. A trap for those magicaly inclined!
+~
+25 1343226892 537923584 1 99 1
+D0
+~
+~
+0 -1 2690
+D1
+~
+~
+0 -1 2694
+D2
+~
+~
+0 -1 2696
+D5
+~
+~
+0 -1 2699
+S
+#2694
+Arena Center~
+Welcome to the Arena Of Death. In this area you can kill others without the
+worry of getting a PKILLER flag or without loosing fate with the gods. Those
+that have however an "unsteady" relationship with lady luck as we speak shall
+be warned that they enter here at their own risk. Rules on PKILLING still
+apply here however.
+
+NOTE!: the Arena has been changed, it is now much more deadly that before,
+so look out and beware, and most of all..........Have a nice day :)
+~
+25 1343307788 537921536 10 99 1
+D0
+~
+~
+0 -1 2691
+D1
+~
+~
+0 -1 2695
+D2
+~
+~
+0 -1 2697
+D3
+~
+~
+0 -1 2693
+D4
+~
+~
+0 -1 3001
+S
+#2695
+E Arena~
+AMAZING! You did not notice it before, in fact you did not notice it until
+you entered the room, but for some reason the eastern section of the Arena
+is totally filled with water! You find yourself having trouble moving about
+in the water, your movements are slow and you need to swim, but worst of all
+is you are running out of air!
+~
+25 1343356940 537920512 1 99 8
+D0
+~
+~
+0 -1 2692
+D2
+~
+~
+0 -1 2698
+D3
+~
+~
+0 -1 2694
+D5
+~
+~
+0 -1 2699
+S
+#2696
+SW Arena~
+The southwest part of the arena seems to be a great deal smaller than the rest
+of the arena. In fact you guess that you would have trouble fitting more than
+two people in this particular room at once, especially if those two people 
+were fighting.
+~
+25 1343226380 537921536 1 99 1
+D0
+~
+~
+0 -1 2693
+D1
+~
+~
+0 -1 2697
+D5
+~
+~
+0 -1 2699
+S
+#2697
+S Arena~
+This is the southern most point of the Arena. A puzzling feeling comes over 
+you as you stand here. You find yourself wondering what side of the eternal
+battle between good and evil you should belong to, you feel you should make
+up your mind and fast, for this is no place for those that do not know what
+they want.
+~
+25 1343225900 537987072 1 99 1
+D0
+~
+~
+0 -1 2694
+D1
+~
+~
+0 -1 2698
+D3
+~
+~
+0 -1 2696
+D5
+~
+~
+0 -1 2699
+S
+#2698
+SE Arena~
+*ZAP* The static air of the southeast end of the Arena makes contact with your
+skin causing you to yelp in pain. Will the madness of this cursed Arena never
+end! You rub your pained chest and wonder why you are unable to hear anything.
+~
+25 1343490060 537920512 1 99 1
+D0
+~
+~
+0 -1 2695
+D3
+~
+~
+0 -1 2697
+D5
+~
+~
+0 -1 2699
+S
+#2699
+Arena Pit~
+You tumble into a large pit that is suspended below the Arena. This area is
+huge and from down here you are able to see the whole of the upper arena. There
+seems to be no way out of this particular area, until you notice the long pole
+running upwards in the very centre of the Arena.
+~
+25 1410334732 537919488 1 99 1
+D4
+The Arena Centre.
+~
+~
+144 -1 2694
+S
+$~
+#999999

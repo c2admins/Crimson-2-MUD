@@ -1,0 +1,1005 @@
+#21000
+Index for ClansArea2~
+
+The Fallen          21001-21013
+
+Scorched Horizons   21035-21049 
+
+~
+119 8 0 1 99 1
+S
+#21001
+&RThe Misty Landing of the Fallen&n~
+&rYou enter a misty hallway, after being transported from the
+world of the living. The half-dead humans that roam these halls
+are a part of an evil alliance. They call themselves the fallen
+and for good reason. They have been banished from the realms
+of the kingdom and thrown into a vast void of torment. They walk
+around seemingly as if they don't care about their lives, your life or
+for that matter, any life at all
+~
+119 1342177288 536870912 1 99 0
+D0
+The ruins of zion
+~
+~
+0 -1 21005
+D2
+The halls of desolation
+~
+~
+0 -1 21008
+D4
+The armoury
+~
+~
+0 -1 21004
+D5
+Clan portal
+~
+~
+0 -1 3070
+S
+#21002
+&wWritten Words of Silence&n~
+&cYou find yourself at the bottom of a deep pit. All around you the
+souls of damned men float about aimlessly, their fate sealed
+by their actions as mortals. Here they must live out eternity
+alone and deprived. Their mouths sealed for fear of their evil
+tongues, a small board rests in the corner, their only way
+to communicate
+~
+119 1409554440 536870912 1 99 0
+D4
+The halls of desolation
+~
+~
+0 -1 21011
+S
+#21003
+&CThe Chamber of the High Council&n~
+&wAs you enter the room, the large oak door slams shut behind you.
+As you turn, you find yourself facing the high council. You
+try to make out their faces, but their hooded cloaks prevent
+you from learning much more than the color of their skin. Across
+the walls, huge weapon's racks hold some of the most powerful
+items you've ever seen and mounted on the walls are the heads
+of slain beasts, proclaiming the strength of the clan.
+~
+119 1342177288 536870912 41 75 0
+D0
+The Room Of Painful Memories.
+Shatterdusts room, he may be busy, check back later.
+~
+~
+16 -1 21006
+D2
+The armoury
+~
+ArmouryDoor~
+3 21003 21004
+S
+#21004
+&bThe Armoury&n~
+&rWhen an evil soul perishes, its mortal body is incinerated, but
+not even the fires of Hades can destroy the powerful armor
+of some worlds. You find yourself in a vast armoury, filled
+with the equipment of long dead men.
+~
+119 1342177288 536870912 1 99 0
+D0
+The chamber of the High Council
+~
+CouncilDoor~
+19 21003 21003
+D5
+Entrance
+~
+~
+0 -1 21001
+S
+#21005
+&cT&bhe &cR&buins &co&bf &cZ&bion&n~
+&RYou find yourself facing a huge onyx door. However beautiful
+the inscriptions on it may be, there is little possibility
+of you ever seeing the other side. Then, just as you turn to
+leave the monstrocity, a powerful force from within swings
+the door open. As you eyes adjust to the light, you realize
+the power of the force within. Venturing forward into
+the room you join the ranks of the other peasants awaiting
+court with the lords of the realm.
+~
+119 268435464 0 1 99 0
+D0
+&wPathway to battle field.&n
+~
+~
+0 -1 21012
+D1
+The darkest pits of your soul
+~
+~
+0 -1 21007
+D2
+The misty landing of the fallen
+~
+~
+0 -1 21001
+D3
+The haven of hope shattered
+~
+~
+0 -1 21013
+D4
+&KPath to the &rD&Re&ra&Rd &rc&Rh&ri&Rl&rd&Rr&re&Rn&rs&K playground.&n
+~
+gate~
+3 21027 21009
+S
+#21006
+&gThe Room of Painful Memories&n~
+&wYou enter this room. It seems to bring back your vague, hidden
+memories of childhood, your teenage years and all the years you
+were tormented, hated, despised, and most of all, what you did
+about it. You almost fall down weeping tears as all these feelings
+come back, haunting you, tearing deep inside of you. It is
+what you have tried to hide for so long, now it's been brought
+back up to the surface for all to see. This pain you live with
+isn't hidden, it's within the sight of plain eyes.
+~
+119 1342177288 536870912 41 41 0
+D2
+The chamber of the high council
+~
+~
+0 -1 21003
+S
+#21007
+&wThe Darkest Pits of your Soul&n~
+&cAs you enter the room, you realize it is not you who has entered,
+but you that has entered. You can feel a force stronger than any
+you have encountered creeping through the depths of your being.
+As it tears at your mortal body, you fall to the ground writhering
+in pain as you are devoured from the inside. As you release
+your last breath, a feeling of great relief envelops you until
+you realize that this was the very reason for your death. Before
+you fully comprehend what's happening, the same force that destroyed
+your body now consumes your soul and you become one of the
+&Y)-&W<>&Y(&RFallen&Y)&W<>&Y-(&n
+~
+119 1342177288 536870912 41 41 0
+D3
+The ruins of zion
+~
+~
+0 -1 21005
+S
+#21008
+&wThe Halls of Desolation&n~
+&yYou feel a pit of nothingness eminating from the east and
+feelings of rage from the west.  These two emotions seem to be
+right with you at this time, telling you, almost whispering to
+you what you feel inside.&n
+~
+119 1342177288 536870912 1 99 0
+D0
+Misty landing of the fallen
+~
+~
+0 -1 21001
+D2
+The Halls of Desolation
+~
+~
+0 -1 21011
+D4
+The Big Empty
+~
+~
+0 -1 21010
+S
+#21009
+&rD&Re&ra&Rd &Kchildrens &rp&Rl&ra&Ry&rg&Rr&ro&Ru&rn&Rd&n~
+&wYou have entered a small cemetery of sorts. Scattered all around are the
+&wtombstones of various children whose souls have fallen from the heavens
+&wleft to wander for all eternity. This cemetery is where &rC&Ro&rl&Re&w draws
+&whis strength and power from. In the center of the room lies A massive
+&wtombstone inscribed with the words &rD&Re&ra&Rd&rm&Ra&rn&w walking. The tombstone appears
+&wto have a hole front of it. As you walk closer you notice that one name
+&wis scribed on the stone...&rC&Ro&rl&Re&w. Looking into the hole you see that the
+&wcasket inside the hole is open and is empty. The &rd&Re&ra&Rd&rm&Ra&rn&w is free to roam
+&wagain harvesting &Kfallen &wsouls as he goes.&n
+~
+119 1879080968 0 1 99 0
+D5
+Ruins of Zion
+~
+gate~
+1 21027 21005
+S
+#21010
+&KTHE-BIG-EMPTY&n~
+&WYou have entered a sur-real void where reality seems to fade in and out.
+A calm energy pulses around you and you wonder what this place is. As
+you explore the seemingly endless void, you notice a few similarities in
+the sur-realism. The madness around you also seems to flow in and
+through you. Panic settles in. You being to search franticly for an
+escape but none can be found. Wishing for death, you look for any way
+out of this endless darkness, when suddenly a booming voice rises out of
+the darkness. "You have entered the emptiness, My world, pain, love,
+hate, all the same. If you wish to leave there is but one way out - To
+believe in Nothing and accept that everything is Nothing. For only with
+Nothing can anything be achieved."
+~
+119 1342177288 536870912 1 99 0
+D5
+The halls of desolation
+~
+~
+0 -1 21008
+S
+#21011
+&wThe Halls of Desolation&n~
+&yAs you pass through the halls, you hear screams from the east. As you
+turn to see what could possibly be emitting such a sound, a familiar
+smell floats into your nostrils from the west. You stop, turn, and
+proceed to investigate.
+~
+119 1342177288 536870912 1 99 0
+D0
+The Halls of Desolation
+~
+~
+0 -1 21008
+D5
+The board room of the fallen
+~
+~
+0 -1 21002
+S
+#21012
+Bloodied battle ground~
+&wYou enter a &rb&Rl&ro&Ro&rd&Ri&re&Rd&w battleground. It appears to
+&wyou that this battle is over, for one man stands alone in the amongst
+&wa pile of dismembered bodies. As you advance closer you notice your
+&wfriend and one of the bravest warriors of this land. Yes you have
+&wentered &wN&Ko&wv&Ki&wu&ws' realm of destruction.&n
+~
+119 1342177288 536870912 1 99 0
+D2
+The ruins of Zion
+~
+~
+0 -1 21005
+S
+#21013
+&pT&Khe H&paven o&Kf H&pope S&Khattered&n~
+&cAs you enter the room, you're engulfed by feelings of hope shattered
+and souls broken.  The pictures of old heros, looking like ghosts of 
+their former selves, line the black walls.  Sprinkles of light flutter
+around the room.  One lands upon a picture and light floods the room.
+Straight across is a comfortable chair that matches the wall, and 
+almost blends in.  A table sits a few feet from it, the wood dark
+maroon.  In one of the corners rests a large bed, covered in red.  You 
+can't tell if it's blood, or just the color of the sheets.  And then 
+you wonder if you want to know.&n
+~
+119 1342177288 536870912 41 41 0
+D1
+The ruins of zion
+~
+~
+0 -1 21005
+S
+#21014
+&cThe &WM&wi&Wl&wk&Wi&wn&Wg&c Room&n~
+     As you pass through the portal, you senses go awry as you slowly regain them, you can hear the constant sounds of bonvines.  Although they seem to sound painstakinly disgruntled and crowded, it is not overly unpleasant.  As your vision slowly returns, you find yourself in the middle of a milking room.  Standing on a long narrow grated walkway, bovines fill either side of the room each in its individual stalls.  They barely pay any attention to you as they graze on the sweetened grain in front of them.   Long tubles with large nipples dangel from the udders and a constant suction can be heard.  As you progress down the isle, a cow stomps its foot sending &yburied treasure &ball over you.  Scraping away the remains of the bovines last meal from you eyes, you run into a ladder.  A welcoming escape from the filth and morbid moo of the bovines, you consider climbing although there appears to be a door at the far end of the room, too bad you did not bring your &Krubber boots.
+~
+119 1342177288 0 1 99 1
+D1
+donations
+~
+~
+0 -1 21015
+D4
+eat more chicken
+~
+~
+0 -1 21050
+D5
+Exit Moo
+~
+~
+0 -1 3001
+S
+#21015
+Donations~
+Stuff will be here... eventually.
+~
+119 1342177288 536870912 1 99 1
+D3
+entrance
+~
+~
+0 -1 21014
+S
+#21016
+&wDarch Omen Donation&n~
+
+This room is divided into two parts, one side of the room is glowing with a 
+white aura almost, however... the other side of the room is permitting an aura 
+of... The aura is indescribable, you simply know its the opposite of what the 
+other side of the room is.  There are scattered objects in this room, 
+bloodied armour, clean swords, bloodied spears, stakes... This must be where 
+all of the collected equipment is put.  Take what would suit you and may 
+these help you in your journeys... for they havent helped their past owners...
+
+~
+119 1342177288 536870912 1 99 1
+D2
+Darch Omen Main Hall
+~
+~
+0 -1 21027
+S
+#21017
+Vampiro's Room~
+
+You hear the voices of the highest choirs of angels, and their songs... It 
+sounds so lovely, it just lures you into the room and you step inside this 
+fairly small room.   As you do, you look up and see a coffin... You are 
+worried, because the coffin is open, and there is only black satin and 
+velvet interior, no occupant... You become worried, what if the one who rests 
+here see you in his room?  That thought quickly passes as you gaze upon the 
+rest of the room.  Its eloquently outfitted in the most Victorian style and 
+mixed with the Germanic Visigoth styles.   Its a beautiful room with the 
+flowing velvets, and the Blackwood table, covered in silver, crystal, and 
+pewter.   There are two crystal glasses half filled with blood, and a silver 
+pitcher next to them You look into the glass and realize this is no 
+ordinary human blood, for it has white and gold flecks in it... You see a few 
+feathers next to the glasses, which must be from one of the slain angels 
+wings... And you slowly realize this blood is that of an angels... You wonder 
+what it must taste like... You take a few steps closer...
+
+~
+119 1342177288 0 1 99 1
+D3
+Darch Omen Main Hall
+~
+~
+1 0 21027
+S
+#21018
+Hall of Legends~
+  This room is dedicated to the Founding members of the House Of Pain.
+There names are Soldevi, Tagg, and Atlas. Although this clan has had
+few members, it has always strived to be the strongest.
+~
+119 1342177288 536870912 1 99 1
+D0
+War room
+~
+~
+0 -1 21025
+D1
+Storage room
+~
+~
+0 -1 21028
+D2
+A exit leading south
+~
+~
+0 -1 21027
+D3
+Board room
+~
+~
+0 -1 21029
+S
+#21019
+Down through the Darkness~
+  You walk through the darkness trying to make your way back to
+the House Of Pain.
+~
+119 1342177288 536870912 1 99 1
+D0
+Entrance to House Of Pain
+~
+~
+0 -1 21027
+D2
+Total darkness
+~
+~
+0 -1 21017
+S
+#21020
+Novius' Keep~
+ This is home to the great warrior Novius. In this room you can
+see nothing more than a single large chest in the center of the
+room.
+~
+119 1342177288 536870912 1 99 1
+D1
+War room
+~
+~
+0 -1 21025
+S
+#21021
+Bloody pit~
+  You are standing in a bloody pit. The floor is covered with bones and
+half decayed corpses. This surely must be where the House of Pain deals
+with anyone that would cross them.
+~
+119 1342177288 1048576 1 99 1
+D4
+War room
+~
+~
+0 -1 21025
+S
+#21022
+Cole's living darkness~
+  Cole's room almost feels as if it were alive. With every step you take
+you almost feel as though the room moves with you. It seems to go on and
+on forever. In the center of the room lies a gigantic blood covered 
+chest constructed of bones. You are certain that is where he keeps his
+most prized treasures. The floor is cluttered with countless other
+treasures as well.
+~
+119 1342177288 536870912 1 99 1
+D1
+Your destiny
+~
+~
+0 -1 21024
+D5
+War room
+~
+~
+0 -1 21025
+S
+#21023
+Cai's keep~
+  This is a strong hold of sorts for the great cleric Cai. You can find
+many stories of his glorius ventures here as well. The floors are covered
+with his many treasures from his past adventures.
+~
+119 1342177288 536870912 1 99 1
+D3
+War room
+~
+~
+0 -1 21025
+S
+#21024
+Destiny awaits~
+  This is the home of Destiny. The walls of this room are covered in
+glorius paintings and the floor is covered with a brightly covered
+rug.
+~
+119 1342177288 536870912 1 99 1
+D3
+Cole's room
+~
+~
+0 -1 21022
+S
+#21025
+War room~
+  You are standing in the House of Pain's war room. Here all descisions made
+regarding the clan are made.
+~
+119 1342177288 536870912 1 99 1
+D0
+shadows
+~
+~
+0 -1 21026
+D1
+Cai's keep
+~
+~
+0 -1 21023
+D2
+Hall of legends
+~
+~
+0 -1 21018
+D3
+Novius's stronghold
+~
+~
+0 -1 21020
+D4
+A huge hole in the darkness
+~
+~
+0 -1 21022
+D5
+Fighting pit
+~
+~
+0 -1 21021
+S
+#21026
+In the Shadows~
+  You are in Shadowwalkers room. It appears to be nothing more than a vast
+and endless shadow.
+~
+119 1342177288 536870912 1 99 1
+D2
+War room
+~
+~
+0 -1 21025
+S
+#21027
+Darch Omen Main Hall~
+
+You find yourself in an almost pitch black room, luckily there are a few 
+candles at the end of the hall that give off some light.   You utter some 
+archaic words, and suddenly the candles surrounding the room are lit.   As 
+you look towards the end of the hall, you see a cross hung upon the wall.   
+Directly below the cross, you an altar... The altar is covered in black wax 
+from candles burned to nothing now.   And, at the base of the altar you see 
+a pentagram drawn on the floor... in what appears to be black blood.   On the 
+left side of the hall, there are Ivory and gold inlayed caskets, and on the 
+opposite side of the room, you see three coffins of marble studded with 
+crimson rubies.   Along with those coffins, there is a pile of charred 
+bodies... upon closer look, they are human bones, but they have fangs... There 
+are small dried pools of blood scattered throughout the hall, along with 
+feathers, and silver stakes, and swords... and you ever see a set of metal 
+fingernails worn at one time on the hand of one of these creatures... You 
+wonder what has happened here, and wonder if its safe here... you slowly take a 
+few steps down the hall...
+
+~
+119 1342177288 0 1 99 1
+D0
+Darch Omen Donation Room
+~
+~
+0 -1 21016
+D1
+Vampiro's Room
+~
+~
+1 0 21017
+D2
+Darch Omen Council Room
+~
+door~
+1 21024 21030
+D3
+Enlil's Room
+~
+~
+1 0 21028
+D5
+Clan Entryway
+~
+~
+0 -1 3070
+S
+#21028
+&WFa&RLL&KeN&W's &RRo&Kom&n~
+
+You enter a small corridor that led you here... You look all around, and 
+its obvious that someone important calls this place home.  There are gold 
+embroided crimson curtains, black marble flooring, and an ivory table.  As 
+well, you see a box of some sort, very decorated, upon closer look you can 
+tell its none other then the box of Transitory Quests.  A very beautiful and 
+intricate room indeed.  You see a few random pieces of powerful equipment 
+scattered about like they are merely snotling equipment.  Its made clear to 
+you that whoever pays homage here is very powerful... you best leave before 
+the owner returns.
+
+~
+119 1342177288 0 1 99 1
+D1
+Darch Omen Main Hall
+~
+~
+1 0 21027
+S
+#21029
+Board room~
+You are in the board room. If you need anything just post a note on
+the board and I am sure someone can help you out.
+~
+119 1342177288 0 1 99 1
+D1
+Hall of legends
+~
+~
+0 -1 21018
+S
+#21030
+Darch Omen Council Room~
+
+You enter a vast room filled with the stench of victory. This room is lined 
+with bright white candles. You obviously can tell this is where the clans 
+meetings take place. There appears to be a screen of some sort hanging on 
+the wall as black as a void, perhaps you should take a closer look.
+
+~
+119 1342177288 0 1 99 1
+D0
+Darch Omen Main Hall
+~
+door~
+0 21024 21027
+S
+#21031
+Militia Entrance~
+You have entered the military station for Crimson mud.   You can see
+there is all the nessasary items here for a military headquarters.
+The planing room, the meeting room and the barracks are all around
+here.  There is also a mosh pit for equiptment and ammunitions.
+~
+119 1342177288 536870912 1 99 1
+D0
+~
+~
+0 -1 21034
+D1
+~
+~
+0 -1 21033
+D3
+~
+~
+0 -1 21032
+D5
+Clan portal
+~
+~
+0 -1 3070
+S
+#21032
+Mosh Pit~
+This room is for the storage of weapons and battle gear only.
+You can tell by the mess in here this place doesn't get cleaned
+very often.  This place is where you place all the spare eq you 
+that you will not use during battle and may be used for other
+soldiers.
+~
+119 1342177288 536870912 1 99 1
+D1
+~
+~
+0 -1 21031
+S
+#21033
+Militia Board Room~
+This is where all battle plans are placed.  Also notices for
+other solders can be left here.  On the board in here we will
+give directions to popular enemy targets and supplies.
+
+~
+119 268435464 0 1 99 1
+D3
+~
+~
+0 -1 21031
+S
+#21034
+Strategic Room~
+This is where all battle plans will be laid and as a group we
+will discuss our plans for the future of this army.  You can 
+see there is a rather large table here that has many battle
+plans laid upon it.
+~
+119 1342177288 536870912 1 99 1
+D2
+~
+~
+0 -1 21031
+S
+#21035
+Scorched Horizon clannie room tunnel~
+
+This quiet stone tunnel leads to hidden sanctuaries for Scorched Horizons clan members.
+Branching north, south, east and west, with another passage down, this appears to be the
+most secure area for members.  This bunker apparently serves to provide clan members with
+living quarters, so they feel at home when they stop by.  You notice that the rooms have
+lavish bunk beds of silk, feathers and fine furs.  So while clan members apparently have to
+share, they are sharing luxurious nooks.  Not a bad deal, if I say so myself. ;)
+
+~
+119 1342177288 536870912 1 99 1
+D0
+clannie room North
+~
+door~
+9 0 21036
+D1
+Chamber of the Lord
+~
+door~
+5 429 21037
+D2
+clannie room South
+~
+door~
+9 0 21039
+D3
+clannie room West
+~
+door~
+9 0 21048
+D4
+S|H Hall chamber nexus
+~
+~
+0 -1 21040
+D5
+clannie room Down
+~
+door~
+1 0 21049
+S
+#21036
+S|H clannie room North~
+Mudmail Prelude if you would like your own room.
+~
+119 1342177288 536870912 1 41 1
+D2
+S|H clan tunnel
+~
+door~
+9 0 21035
+S
+#21037
+&KDark Room&n~
+&KYou have arrived to a simple, yet comfortable room.  There are various collections of weapons and artillery hanging on the walls and some lying on a dedicated space in front of you.  There is a comfortable looking sofa at the corner.  You notice there is a life size portrait of the owner hangs proudly on the wall.  He is dressed in full battle armor and looks ready to strike.  A name embossed with gold lies just beneath the portrait, which reads: "Samara".&n
+~
+119 1342177288 536870912 1 99 1
+D3
+S|H clan tunnel
+~
+door~
+1 0 21035
+D5
+the room that doesn't exist.
+~
+trap door down~
+17 429 21038
+S
+#21038
+Darkness~
+&KThis room doesn't exist.&n
+~
+119 1073742216 1610612736 41 99 1
+D4
+Chamber of the Lord
+~
+trap door up~
+17 429 21037
+S
+#21039
+S|H clannie room South~
+Mudmail Prelude if you would like your own room.
+~
+119 1342177288 536870912 1 99 1
+D0
+S|H clan tunnel
+~
+door~
+9 0 21035
+S
+#21040
+&cDimly lit hallway&n~
+You enter a dim, narrow hallway.  The walls are composed of polished marble.  Tall
+columns line both sides of the hallway.  As you look to the east, you see the clan
+board room area.  Looking to the west, you can see the clan donation room.
+~
+119 1342177288 536870912 1 99 1
+D0
+Dimly lit hallway
+~
+~
+0 -1 21043
+D1
+Board room
+~
+~
+0 -1 21042
+D3
+Donation room
+~
+~
+0 -1 21041
+D5
+clannie room tunnel
+~
+~
+16 -1 21035
+S
+#21041
+Scorched Horizons Treasure Room~
+   You enter a vast store room.  You see items of every sort lying on the
+ground.  Clan members look through these items and take what they need. 
+~
+119 1342177288 536870912 1 99 1
+D1
+Dimly lit hallway
+~
+~
+0 -1 21040
+S
+#21042
+Board Room~
+   You enter a small room.  As you look around, you see a board rigged in the 
+center of the room.  Here, clan members post important information so others 
+can use the information. 
+~
+119 1342177288 536870912 1 99 1
+D2
+Market Square
+~
+~
+0 -1 3014
+D3
+Dimly lit hallway
+~
+~
+0 -1 21040
+S
+#21043
+&cDimly lit hallway&n~
+The narrow hallway continues to the north.  You notice elaborate paintings of nature,
+including animals, forests and the sky.  You realize that nature and inner peace are
+important to the founders of this clan.
+~
+119 1342177288 536870912 1 99 1
+D0
+The atrium
+~
+~
+0 -1 21044
+D2
+Dimly lit hallway
+~
+~
+0 -1 21040
+D5
+Nothing special
+~
+~
+16 -1 21047
+S
+#21044
+&cScorched Horizons atrium&n~
+You enter a vast room of fruit trees and waterfalls.  Magic, hope and respect have created
+a garden of hope and confidence.  You breathe in the air and can taste the promise of
+tomorrow's glories.  To the east, you see the clan training grounds.  To the west lies
+a conference room.
+~
+119 1342177288 536870912 1 99 1
+D1
+S|H Training Grounds
+~
+~
+0 -1 21046
+D2
+Dimly lit hallway
+~
+~
+0 -1 21043
+D3
+Conference room
+~
+~
+0 -1 21045
+S
+#21045
+&cConference Room&n~
+A large oak table is centered in the room, with cushy leather chairs placed for the
+clan members to seat themselves comfortably during clan meetings.  Strategies, ideas
+and transmission of knowledge make this room important to the clan.
+~
+119 1342177288 0 1 99 1
+D1
+The atrium
+~
+~
+0 -1 21044
+S
+#21046
+&cTraining Grounds&n~
+Scorched Horizons recognizes the need to practice skills and perfect strategies.  Thus, 
+this specialized chamber allows for testing of skills against trusted clan mates.  It
+is possible to die here.  With life comes risk, and each new adventure brings its own
+lessons.  Spar with your clannies so that you may be stronger when facing life outside
+the clan walls.  Fight with friendship in mind.
+~
+119 1342177288 537919488 1 99 1
+D3
+The atrium.
+~
+~
+0 -1 21044
+S
+#21047
+Chill Chamber~
+
+This is the place for clan members to relax and take it easy.  You look around 
+and notice that there is a lot of fine furniture around for you to relax in.  For
+your service, maids and butlers have been hired to bring your requests to you, and to 
+provide as much comfort to you as possible.  Remove your coat, rest a while.
+
+~
+119 1342177288 536870912 41 99 1
+D4
+Dimly lit hallway
+~
+~
+0 -1 21043
+S
+#21048
+S|H clannie room West~
+Mudmail Prelude if you would like your own room.
+~
+119 1342177288 536870912 1 99 0
+D1
+S|H clan tunnel
+~
+door~
+9 0 21035
+S
+#21049
+S|H clannie room Down~
+Mudmail Prelude if you would like your own room.
+~
+119 1342177288 536870912 1 41 0
+D4
+S|H clan tunnel
+~
+door~
+1 0 21035
+S
+#21050
+Dairy Farm of DooM~
+
+&KYour journey into the lifestyle of the &cScorched | Horizons&K has taken a fatal turn.  Upon 
+your entrance the smell of putrid entrails overwhelms you.  To your left stands a ghastly 
+remnant of a man named &RR&Ya&Rwhead&K.  In his outstretched hands lay the poor remains of some
+mortal's entrails... it appears that he has been using them in some sort of sick &rsexual&K 
+ritual. On the right, stands &WCr&Yi&Wonics&K surrounded by the corpses taken in our &rbloody&K 
+conquests.  Upon the mound of putrid flesh, &WCow&K is crouching vomiting the vile &gbile&K of his 
+latest meal.  When the dry heaving comes to a halt, he grabs his udders and strokes them in 
+&WCr&Yi&Wonics&K direction.  &WCr&Yi&Wonics&K opens his mouth awaiting the gift of &WCow's milk&K.  Suddenly 
+you wonder if you wandered into the wrong room as their eye set upon you.  Turning 
+to run, you hear the hollowed screams of those still hanging onto what life is left in them, 
+as the three advances over them your &rheart&K quickens with the thought of the unavoidable 
+end of your life.
+
+Room owners:
+
+Cow
+Crionics
+Rawhead
+
+~
+119 1342177288 0 1 99 1
+D1
+~
+udder~
+29 21033 8228
+D4
+a green light.
+~
+~
+16 -1 8229
+D5
+clan hall entrance
+~
+~
+0 -1 21014
+S
+$~
+#999999

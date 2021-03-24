@@ -1,0 +1,500 @@
+#1000
+mob Ferryman man~
+the Ferryman~
+The Ferryman offers to take you on a cruise of the Shikonas Islands.
+~
+The Ferryman is a rough looking man of about 40 years old, he
+bears many scars and marks from years traveling through the 
+Shikonas Sea.  The Ferryman wears old tattered clothing covered 
+with dirt and oil.
+~
+10 32769 136249361 33554432 300 S
+25 15 18 100d9+1650 2d3+10
+179 75000
+8 8 1
+1 4 18 18 15 13 13 16
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+#1001
+mob Dryad forest Sholana~
+the forest dryad~
+A Sholana forest Dryad is standing here.
+~
+The Dryads of Sholana forest are a shy comunity of people, walking 
+through the growth silently in perfect harmony with nature.
+~
+12 2129921 136249361 33554432 500 S
+20 20 24 100d9+1100 6d3+14
+49 58000
+8 8 2
+0 4 16 18 15 20 14 13
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=100
+#1002
+mob Druid ~
+a &ydruid&n~
+You see a &ydruid &nharmonizing with his surroundings..
+~
+The druid is a middle aged man dedicating his life to preserving the
+natural flora and fauna of the forest, he is at peace with himself and
+his surroundings, living a pleasant and fulfilling lifestyle in his eyes.
+~
+8 32769 136249361 34078720 0 S
+24 16 20 100d9+1500 4d3+5
+158 75000
+8 8 1
+0 4 18 19 15 20 14 12
+SKILL=SPELL_SLEEP 70
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_HOLD_PERSON 70
+SKILL=SPELL_SILENCE 70
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_TYPE=103
+#1003
+mob Druid head vensita~
+the &Rhead &ydruid&n~
+The &Rhead &ydruid&n of Vensita Island stands in the corner of his room.
+~
+The Head Druid of Vensita island stands to one side of his room looking
+out the window across the beautifull land.  He wears a long green robe
+slowly emiting a warm green light, and a ring on his left hand.
+~
+10 32769 136249361 33554560 800 S
+30 12 2 100d9+1300 4d3+16
+338 193000
+8 8 1
+0 4 19 18 17 20 15 13
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_HEAL_MEDIUM 90
+SKILL=SPELL_HEAL_MAJOR 90
+SKILL=SPELL_CONFLAGRATION 90
+SKILL=SPELL_HOLD_PERSON 90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_TYPE=103
+#1004
+mob nymph sholana island~
+the &Wnymph&n~
+A Sholana &Gforest &Wnymph &nis hiding here in the trees.
+~
+A beautifal young nymph blessed by the goods of nature hides in the 
+trees. She looks about 17 in human years, wears little clothing and has
+long golden hair, decorated with wild flowers of all colours.
+~
+136 32769 136249361 33554568 400 S
+20 20 24 100d9+300 5d7+2
+54 63000
+8 8 2
+0 4 16 18 16 20 13 15
+SKILL=SPELL_BLINDNESS 99
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=100
+#1005
+mob centaur~
+a &ycentaur&n~
+A &ycentaur&n roams through the &Gforest&n.
+~
+A thin coat of black hair covers the centaurs large horse like body.
+He trots through the small shubberies of the forest, silently 
+hunting his prey.  He notices your arrival but ignores your approach,
+more concerend with hunting the wildlife scutteling about the undergrowth.
+~
+8 32769 136249361 33554440 400 S
+28 15 11 500d9+0 3d7+12
+260 88000
+8 8 1
+0 4 18 18 16 20 17 16
+SKILL=SKILL_PARRY 40
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=63
+ATTACK_SKILL=63
+ATTACK_SKILL=63
+ATTACK_TYPE=102
+#1006
+mob fairy small~
+a small &Pfairy&n~
+A small &Pfairy&n dances in the air above the fields.
+~
+A small fairy floats innocently above the fields, It wears a light
+lace robe covered in small glinting silver beeds.  The fairy holds
+e emotionless and nearly lifeless.
+In one hand he holds a sturdy staff, his other lies to his side,
+nearing the hilt of a small scimitar.  His ears are pointed much 
+like that of an elf, covered with long hair flowing from underneath 
+a majestic crown.
+~
+8 557057 136249361 33554568 800 S
+23 17 21 100d9+450 4d7+4
+13 73000
+8 8 1
+0 4 17 18 15 20 12 13
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_HOLD_PERSON 90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#1007
+mob fairy guard small~
+a &pfairy &wguard&n~
+A small &pfairy&n guards the palace with his life.
+~
+This larger fairy is shrouded in magical light, although being small
+by human standards, he is quite capable of taking down a lot of brave
+warriors throughout the land.
+~
+134242830 1081345 136249361 33554568 800 S
+26 15 16 100d9+650 4d5+12
+21 82500
+8 8 1
+0 4 17 19 16 20 16 16
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_HOLD_PERSON 90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#1008
+mob fairy king~
+the &Pfairy &pking&n~
+The &Pfairy &pking&n sits on his throne.
+~
+The fairy king sits on his throne emotionless and nearly lifeless.
+In one hand he holds a sturdy staff, his other lies to his side,
+nearing the hilt of a small scimitar.  His ears are pointed much 
+like that of an elf, covered with long hair flowing from underneath 
+a majestic crown.
+~
+1074012426 32769 136249361 33554568 800 S
+38 5 -18 100d19+4000 4d3+5
+362 255000
+8 8 1
+0 4 21 21 20 20 18 15
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_HEAL_MEDIUM 60
+SKILL=SPELL_CONFLAGRATION 70
+SKILL=SPELL_HOLD_PERSON 90
+ATTACK_SKILL=66
+ATTACK_SKILL=66
+ATTACK_SKILL=66
+ATTACK_TYPE=103
+ATTACK_SKILL=66
+ATTACK_SKILL=66
+ATTACK_SKILL=66
+ATTACK_TYPE=103
+ATTACK_SKILL=66
+ATTACK_SKILL=66
+ATTACK_SKILL=66
+ATTACK_TYPE=103
+#1009
+mob fairy queen~
+the &Pfairy &pqueen&n~
+The &Pfairy &pqueen&n quietly sits at the end of her bed.
+~
+The fairy queen is half transparent as she sits on the end of her bed.
+Her long hair flows down her back, gliding through the back of her
+wings.  The fairy queen emits a bright white light with the intensity 
+varrying with her mood.
+~
+8458 32769 136249361 33554568 800 S
+35 8 -10 100d9+1800 3d5+5
+89 225000
+8 8 2
+0 4 19 20 19 20 18 16
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_HEAL_MAJOR 20
+SKILL=SPELL_CONFLAGRATION 10
+SKILL=SPELL_HOLD_PERSON 90
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_TYPE=103
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_TYPE=106
+#1010
+mob elder wood elf~
+the &yWood&n Elf Elder~
+A &yWood&n Elf Elder is standing here.
+~
+This elf seems more regal than most he is obviously old, even for
+elves standards  His fighting days are past but he clearly comands
+respect. His feathered robe shimmers as moves around the chamber,
+dispensing the wisdom of ages where he sees fit.
+~
+10 32769 136249361 33554440 500 S
+30 13 5 600d9+0 5d7+3
+319 165000
+8 8 1
+14 4 19 18 18 20 15 17
+SKILL=SPELL_FIREBALL 90
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_TYPE=100
+#1011
+mob Wardancer wood elf~
+A &yWood&n Elf &rWardancer&n~
+A &yWood&n Elf &rWardancer&n screams and attacks&K!&n
+~
+You are stunned by the strange elf that attacks you. His clothes
+are a riot of colours and his face is painted with thin lines 
+and swirls.  His sword weaves a deadly dance as he flips across the 
+room to attack!
+~
+134275336 32769 136249361 33554440 500 S
+35 8 -10 1000d9+0 4d7+18
+861 225000
+8 8 1
+14 4 19 18 18 20 15 17
+SKILL=SKILL_PARRY 40
+SKILL=SKILL_HUNT 90
+ATTACK_SKILL=15
+ATTACK_SKILL=15
+ATTACK_SKILL=15
+ATTACK_TYPE=103
+ATTACK_SKILL=15
+ATTACK_SKILL=15
+ATTACK_SKILL=15
+ATTACK_TYPE=103
+#1012
+mob Shaman wood elf~
+the &yWood&n Elf &rShaman&n~
+The &yWood&n Elf &rShaman&n stands in one corner of the room.
+~
+A withered old elf stands in the corner, he wears a fur cloak about his
+body and his face is covered in intricate blue runes. As he notices you
+staring he mutters a few words and his scimitar glows, then he glares 
+at you.
+~
+262154 32769 136249361 33554440 60 S
+35 8 -10 1000d9+0 3d5+24
+812 225000
+8 8 1
+14 4 19 20 19 20 18 14
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_CONFLAGRATION 90
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=103
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=103
+#1013
+mob Furtrapper wood elf trapper~
+the &yWood&n Elf &rFurtrapper&n~
+The &yWood&n Elf &rFurtrapper&n stands in the corner sharpening his knife.
+~
+The Wood Elf Furtrapper stands in a corner sharpening his knife.
+The grasp of the knife puts you on edge, as does the intense stare
+of the fur trapper.  He looks you up and down, then grins, and returns
+to his work.
+~
+10 32769 136249361 33554440 500 S
+25 15 18 100d9+1600 4d3+10
+176 77000
+8 8 1
+14 4 17 16 15 20 14 13
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=103
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=103
+#1014
+mob Hunter wood elf~
+the &yWood&n Elf &rHunter&n~
+The &yWood&n Elf &rHunter&n bursts out of some nearby bushes.
+~
+A hunter bursts through the bushes and sets a score of arrows humming 
+through the forest with deadly accuracy after his quarry. As he
+sees you, he draws his hunting spear and advances muttering darkly.
+~
+57416 32769 136249361 33554440 300 S
+30 13 5 100d19+2300 2d11+20
+319 183000
+8 8 1
+14 4 19 18 17 20 15 17
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_BACKSTAB 80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=102
+#1015
+mob Elf young wood~
+a young &yWood&n Elf~
+A young &yWood&n Elf plays in the street.
+~
+You see a wood elf chid running around on the street chasing a ball.
+Although he appears as any other child. you notice the lithe movements and
+natural agility that characterise his race.
+~
+8 32769 136249361 33554440 700 S
+20 20 24 100d7+1175 6d3+15
+52 61000
+8 8 1
+14 4 17 16 16 20 14 13
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=102
+#1016
+mob pixie  forest small~
+a small &Gforest &Ypixie&n~
+A small &Gforest &Ypixie&n darts out of the nearby bushes.
+~
+The small pixie blends in well with the undergrowth of the magical 
+forest.  He wears a small green tunic covered with leaves and few 
+flowers.  The pixie has a child like face and laughter, although he
+sees a bit more serious when he notices your arrival.
+~
+8 32769 136249361 33554440 800 S
+25 15 18 100d9+1630 2d9+27
+18 78500
+8 8 1
+6 4 17 18 16 20 13 14
+SKILL=SPELL_FIREBALL 60
+SKILL=SPELL_SLEEP 60
+SKILL=SPELL_HEAL_MINOR 30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=100
+#1017
+mob pixie head~
+the &GHead &YPixie&n~
+The &GHead &YPixie&n emerges from the forest.
+~
+This pixie is the leader of his tribe of pixies in the magical
+Kansrilla forest.  He leviates in the air by some magical means.
+and he proves to be quite hostile to trespassers.
+~
+1074061322 32769 136249361 33554568 800 S
+35 8 -10 50d9+2050 4d1+9
+86 210000
+8 8 1
+6 4 19 21 18 20 16 16
+SKILL=SKILL_BACKSTAB 90
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_TYPE=102
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_TYPE=102
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_TYPE=102
+#1018
+mob dragon sea~
+the &BSea &cDragon&n~
+A huge &BSea &cDragon&n crashes through the nearby waters.
+~
+The huge sea dragon is a great beast of a dragon.  He looks like a 
+scaly whale as he crashes through the water near you.  His head rears
+up aas he sees you aproach.. frost starting to drip from his mouth 
+and nose. He watches you cutiosly, causeing you to think twice about
+showing any signs of aggresion.
+~
+1078198280 32769 136249361 33555080 400 S
+42 1 -26 100d29+8000 8d3+29
+105000 625000
+8 8 1
+11 4 21 21 21 20 17 20
+SKILL=SPELL_FIREBALL 80
+SKILL=SKILL_PARRY 70
+SKILL=SPELL_FROST_BREATH 5
+SKILL=SPELL_HEAL_MEDIUM 60
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=5
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#1019
+mob bear black large~
+a &Kblack bear&n~
+A large &Kblack bear&n scratches about in his cave.
+~
+The large black bear moves quite slowly through the confined spaces 
+of his cave.  You see glimpses of his yellow and red teeth as he 
+gives a long snarl at your approach.
+~
+16834570 1 136249361 0 0 S
+20 20 24 100d9+1200 3d3+3
+0 62500
+8 8 1
+0 0 11 11 11 11 10 7
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+$~
+#999999

@@ -1,0 +1,978 @@
+#12625
+The entrance to Korum~
+The streets are lined with broken cobblestone.  There is a sweet smell
+comming from a nearby bakery.  In the distance you can here small
+children playing about you.  Towards the north a small town is opened
+in front of you.  Towards the south you can see a grassy plains.
+~
+100 8 0 1 99 1
+D0
+You can see a pathway inside a small village.
+~
+~
+0 -1 12626
+D2
+Before the gates of Korum.
+~
+~
+0 -1 12671
+S
+#12626
+Inside the small village of Korum~
+Inside this small village there seems to be a vast amount of people
+bustling about.  There are forging for scraps nearby.  The scent of
+the bakery is towards the north.  Towards the south you can see a small
+grassy plain.
+~
+100 8 0 1 99 1
+D0
+A pathway in the small village.
+~
+~
+0 -1 12627
+D2
+The entrance to the village.
+~
+~
+0 -1 12625
+S
+#12627
+The southern path in the village~
+You are inside a small glowing village.  The patrons of this village
+seem to go about their daily lives.  Some seem to stop and stare
+for a brief moment and then go about their day.  You can see a 
+small bakery towards the east of here and an armor shop to the
+west.  Towards the north you can hear the pounding of a blacksmith.
+~
+100 8 0 1 99 1
+D0
+Along the path in the village.
+~
+~
+0 -1 12630
+D1
+        a small bakery towards the east.
+~
+~
+0 -1 12628
+D2
+The path in the small village.
+~
+~
+0 -1 12626
+D3
+Inside the village armory.
+~
+~
+0 -1 12629
+S
+#12628
+The bakery in Korum~
+The walls are lined with tasty treats.  You can see there are people
+working in the back getting bread and other such edibles completed for
+the towns people.  There is bright glare from the sun comming in
+from the painted windows.
+~
+100 8 0 1 99 1
+D3
+        a small street back in the village towards the west.
+~
+~
+0 -1 12627
+S
+#12629
+The Korum Village Armory~
+This shop contains many useful items and armors for the villagers
+to prepare for attacks.  They also sell some of these items to the
+most trusted of visitors.  The man who runs this shop is a very stout
+and portly gentleman.  He has very large sausage sized fingers and
+a knack for flatulence.
+~
+100 8 0 1 99 1
+D1
+Inside the village.
+~
+~
+0 -1 12627
+S
+#12630
+The southern path in the village~
+You are inside a small glowing village.  The patrons of this village
+seem to go about their daily lives.  Some seem to stop and stare
+for a brief moment and then go about their day.  There seems to
+be the center of town towards the north.  Towards the south is 
+the rest of this quaint village.
+~
+100 8 0 1 99 1
+D0
+The center of town.
+~
+~
+0 -1 12631
+D2
+Inside the village.
+~
+~
+0 -1 12627
+S
+#12631
+The Korum Town Square~
+This street is lined with all kinds of people.  There are people
+who come from miles around to get a taste of this small but quaint
+city life.  There is nothing much to do except to see the sights and
+sounds that this place has to offer.
+~
+100 8 0 1 99 1
+D0
+The northern path in the village.
+~
+~
+0 -1 12632
+D1
+The mayors office.
+~
+~
+0 -1 12674
+D2
+The southern path in the village.
+~
+~
+0 -1 12630
+S
+#12632
+The northern path in the village~
+This is the northern path in the village.  You can see the road
+is fairly better constructed here.  It must be a newer part of
+the town.  Towards the north you can see a village inn and a 
+smaller homes.  There also seems to be a park off to the north
+east.
+~
+100 8 0 1 99 1
+D0
+The northern part of the village.
+~
+~
+0 -1 12633
+D2
+The town square.
+~
+~
+0 -1 12631
+S
+#12633
+Outside of the Inn~
+This town is filled with so many very quaint things.  Along
+with any town it has to have a small inn.  This inn hasn't been
+around all that long.  You can see by the labor and style of its
+work that it hasn't been more than twenty or so years.  Towards
+the east is a small village park.  It is lined with trees and
+small animals.  These animals don't seem to have a care in the
+world.
+~
+100 8 0 1 99 1
+D0
+The northern road.
+~
+~
+0 -1 12662
+D1
+Inside the park.
+~
+~
+0 -1 12634
+D2
+Towards the center of town.
+~
+~
+0 -1 12632
+D3
+Inside the inn.
+~
+~
+0 -1 12636
+S
+#12634
+The entrance to the park of Korum~
+This is the entrance to the local park.  There are many creatures
+and people wandering about it.  You can smell the fresh grass and
+tall trees from here.  This is where the locals come to have small
+picnics and other such afairs.
+~
+100 8 0 1 99 1
+D1
+Inside the park.
+~
+~
+0 -1 12635
+D3
+Along the northern road.
+~
+~
+0 -1 12633
+S
+#12635
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+Inside the park.
+~
+~
+0 -1 12637
+D2
+Inside the park.
+~
+~
+0 -1 12652
+D3
+The entrance of the park.
+~
+~
+0 -1 12634
+S
+#12636
+The Korum Inn~
+You have come inside a very luxurious home for travelers.  This
+posh little inn has gold trimmed countertops and local pub.  You
+can tell most people cannot afford to pay these kind of rates.
+However, this inn is ran by a local family that just wants your
+business; so they feel no need to overcharge.
+~
+100 12 0 1 99 1
+D1
+Out in the streets.
+~
+~
+0 -1 12633
+D3
+Inside the inn.
+~
+~
+0 -1 12657
+S
+#12637
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+Inside the park.
+~
+~
+0 -1 12638
+D2
+Inside the park.
+~
+~
+0 -1 12635
+S
+#12638
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D1
+Inside the park.
+~
+~
+0 -1 12639
+D2
+Inside the park.
+~
+~
+0 -1 12637
+S
+#12639
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D1
+Inside the park.
+~
+~
+0 -1 12640
+D3
+Inside the park.
+~
+~
+0 -1 12638
+S
+#12640
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D1
+Inside the park.
+~
+~
+0 -1 12641
+D2
+A bridge over the pond.
+~
+~
+0 -1 12655
+D3
+Inside the park.
+~
+~
+0 -1 12639
+S
+#12641
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D1
+Inside the park
+~
+~
+0 -1 12642
+D3
+Inside the park.
+~
+~
+0 -1 12640
+S
+#12642
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D2
+Inside the park.
+~
+~
+0 -1 12643
+D3
+Inside the park.
+~
+~
+0 -1 12641
+S
+#12643
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+Inside the park
+~
+~
+0 -1 12642
+D2
+Inside the park
+~
+~
+0 -1 12644
+S
+#12644
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+Inside the park.
+~
+~
+0 -1 12643
+D2
+Inside the park.
+~
+~
+0 -1 12645
+S
+#12645
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+Inside the park.
+~
+~
+0 -1 12644
+D2
+Inside the park.
+~
+~
+0 -1 12646
+S
+#12646
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+Inside the park.
+~
+~
+0 -1 12645
+D3
+Inside the park.
+~
+~
+0 -1 12647
+S
+#12647
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D1
+Inside the park.
+~
+~
+0 -1 12646
+D3
+Inside the park.
+~
+~
+0 -1 12648
+S
+#12648
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+On a small bridge
+~
+~
+0 -1 12653
+D1
+Inside the park.
+~
+~
+0 -1 12647
+D3
+Inside the park.
+~
+~
+0 -1 12649
+S
+#12649
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D1
+Inside the park.
+~
+~
+0 -1 12648
+D3
+Inside the park.
+~
+~
+0 -1 12650
+S
+#12650
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+~
+~
+0 -1 12651
+D1
+Inside the park.
+~
+~
+0 -1 12649
+S
+#12651
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+Inside the park.
+~
+~
+0 -1 12652
+D2
+Inside the park.
+~
+~
+0 -1 12650
+S
+#12652
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+D0
+Inside the park.
+~
+~
+0 -1 12635
+D2
+Inside the park.
+~
+~
+0 -1 12651
+S
+#12653
+On a small bridge~
+This bridge takes you over the small pond below. The pond is
+crawling with small wildlife such as frogs and fish. You can
+almost smell the pine in the air from all the trees about
+this place. You can see a large inn towards the west from
+here.
+~
+100 8 0 1 99 1
+D0
+A bridge over the pond.
+~
+~
+0 -1 12655
+D2
+Inside the park.
+~
+~
+0 -1 12648
+S
+#12654
+The Park of Korum~
+Inside this park you can see there are alot of small animals
+running about.  Many of the people come here to relax after
+a hard day.  This is somewhat of a sanctuary for all of the
+creatures of this village.
+~
+100 8 0 1 99 1
+S
+#12655
+On a small bridge~
+This bridge takes you over the small pond below. The pond is
+crawling with small wildlife such as frogs and fish. You can
+almost smell the pine in the air from all the trees about
+this place. You can see a large inn towards the west from
+here.
+~
+100 8 0 1 99 1
+D0
+Inside the park.
+~
+~
+0 -1 12640
+D2
+A bridge over the pond.
+~
+~
+0 -1 12653
+S
+#12656
+blank~
+Blank
+~
+100 268435464 0 1 99 1
+S
+#12657
+The Korum Inn~
+You have come inside a very luxurious home for travelers.  This
+posh little inn has gold trimmed countertops and local pub.  You
+can tell most people cannot afford to pay these kind of rates.
+However, this inn is ran by a local family that just wants your
+business; so they feel no need to overcharge.
+~
+100 8 0 1 99 1
+D0
+The local pub.
+~
+~
+0 -1 12658
+D1
+The entrance to the inn.
+~
+~
+0 -1 12636
+D2
+The lobby.
+~
+~
+0 -1 12659
+D3
+Inside the inn.
+~
+~
+0 -1 12661
+S
+#12658
+Marak's Pub~
+This pub has a large lush group of paintings all over the wall.
+This pub seems to be some kind of beach themed drinking
+establishment.  You feel there is a nice hometown atmosphere with
+a very beach flavor.  The barstools seem to be all full with
+locals.  This place is a very friendly pub.
+~
+100 8 0 1 99 1
+D2
+Inside the inn.
+~
+~
+0 -1 12657
+S
+#12659
+The Korum Inn~
+You have come inside a very luxurious home for travelers.  This
+posh little inn has gold trimmed countertops and local pub.  You
+can tell most people cannot afford to pay these kind of rates.
+However, this inn is ran by a local family that just wants your
+business; so they feel no need to overcharge.
+~
+100 8 0 1 99 1
+D0
+Inside the inn.
+~
+~
+0 -1 12657
+D3
+Inside the inn.
+~
+~
+0 -1 12660
+S
+#12660
+The Korum Inn~
+You have come inside a very luxurious home for travelers.  This
+posh little inn has gold trimmed countertops and local pub.  You
+can tell most people cannot afford to pay these kind of rates.
+However, this inn is ran by a local family that just wants your
+business; so they feel no need to overcharge.
+~
+100 8 0 1 99 1
+D0
+inside the inn.
+~
+~
+0 -1 12661
+D1
+The Lobby.
+~
+~
+0 -1 12659
+S
+#12661
+The Korum Inn~
+You have come inside a very luxurious home for travelers.  This
+posh little inn has gold trimmed countertops and local pub.  You
+can tell most people cannot afford to pay these kind of rates.
+However, this inn is ran by a local family that just wants your
+business; so they feel no need to overcharge.
+~
+100 8 0 1 99 1
+D1
+Inside the inn.
+~
+~
+0 -1 12657
+D2
+Inside the inn.
+~
+~
+0 -1 12660
+S
+#12662
+The northern road~
+You are along the path in the northern road.  Around you the cobblestones
+have gotten alot better as the town seems to be doing all their new work
+here.  This part of the town is for the more wealthy of the citizens.  You
+can see the homes have gotten much nicer and the area is much cleaner.
+~
+100 8 0 1 99 1
+D0
+The northern road.
+~
+~
+0 -1 12663
+D2
+Towards town square.
+~
+~
+0 -1 12633
+S
+#12663
+The northside of Korum~
+You have entered into the nicer section of Korum.  There is taller brick
+buildings to the east and west of you.  You can see the downstairs part
+are shops and the upstairs must be where the shopkeepers live.  The air
+seems to bring off a strange smell from the blacksmith down the road.
+~
+100 8 0 1 99 1
+D0
+The end of the road.~
+The end of the road.~
+0 -1 12670
+D1
+Job's resale shop.
+~
+~
+0 -1 12667
+D2
+The southern road.~
+The southern road.~
+0 -1 12633
+D3
+The Witches Brew.
+~
+~
+0 -1 12664
+S
+#12664
+The Witches Brew~
+This shop seems to be very strange.  By the name of the place you expected
+smoldering cauldrons and creepy cats.  Instead, you find yourself in the
+middle of a shop with store shelves and isles.  This place seems to carry
+an assortment of various potions and and scrolls.  Most of these are made
+from natures own.
+~
+100 8 0 1 99 1
+D1
+The Northside.~
+The Northside.~
+0 -1 12663
+D3
+The back of the store.
+~
+~
+0 -1 12665
+S
+#12665
+The back of the Witches Brew~
+You find your assorment of strange and colorful vials and potions.
+This place seems to have been funded by the wars among the lands, as
+the rare and strange items that this place holds.  There are a myriad
+of dead animals and other misc. things here.  There seems to be a set
+of steps that leads up into a loft.
+~
+100 8 0 1 99 1
+D1
+The store front.
+~
+~
+0 -1 12664
+D4
+The upstairs apartment.
+~
+~
+0 -1 12666
+S
+#12666
+Above the Witches Brew~
+This place seems have all the luxuries you would expect from a high
+ranking official.  There are expensive curtains and rugs lining this
+place.  The store must be making a killing off people like you.  You
+can see the streets below through these pain glass windows.  Not many
+of the people from this town have come up into this place or it may
+have been robbed by now.
+~
+100 8 0 1 99 1
+D5
+Behind the Witches Brew.
+~
+~
+0 -1 12665
+S
+#12667
+Job's Lil General Store~
+This shop runs by buying and selling of items.  Their whole stock 
+depends on what others bring them.  You can see by the shelves this
+place needs a few handy items.  There is many trinkets and small
+arms laying about.  You just need to ask the man at the counter 
+what he has for sale and he will give you a fair and honest price.
+~
+100 8 0 1 99 1
+D1
+Behind the resale shop.
+~
+~
+0 -1 12668
+D3
+The northside streets.
+~
+~
+0 -1 12663
+S
+#12668
+Behind the store~
+You stand in awe of the piles of money this guy has stored inside
+this place.  You think to yourself how does he make all this crash.
+Job must be one wealthy guy.  Then again it seems he lives in a
+loft above the store.  This place is littered with junk that he has
+tried to fix and cannot get to work.  It seems that Job is not a very
+handy guy.
+~
+100 8 0 1 99 1
+D3
+The resale shop.
+~
+~
+0 -1 12667
+D4
+Up in the loft.
+~
+~
+0 -1 12669
+S
+#12669
+Job's loft~
+This loft seems to be very plush.  You can see that Job is a very single
+man.  His pad is filled with wall to wall rugs and strange incense burning
+about.  Job also has very expensive, yet tasteless pictures hanging on the
+walls.  This place has a woman's touch as it seems to be cleaned by a maid.
+This leaves you to wonder about what type of man Job really is.
+~
+100 8 0 1 99 1
+D5
+Behind the General Store.~
+Behind the General Store.~
+0 -1 12668
+S
+#12670
+The end of the road~
+You have come into the back wall of this small village.  There seems to be very
+little around here except for a few stones and a few occasional wanderers.  The
+city can be seen towards the not so distant south.  There is a few occasional
+glimpses of activity outside the gates, but you ignore them taking in the sites.
+~
+100 8 0 1 99 1
+D2
+Back into town.~
+Back into town.~
+0 -1 12663
+S
+#12671
+Ouside the village of Korum~
+The forest looms towards the south of here.  You can see the tall trees and
+various critters that roam these forests from a distance.  There seems to be
+a very weird group of soldiers towards north west of here.  You can see the
+gates of Korum directly towards the north.  In the general west you can make
+out a village of gnomes.
+~
+100 8 0 1 99 1
+D0
+At the gates of Korum.
+~
+~
+0 -1 12625
+D3
+Inside the forest.
+~
+~
+0 -1 12672
+S
+#12672
+Inside the forest~
+Inside this forest you will find strange creatures abound.  There seems to
+be a various group of small creatures around here.  You can tell by the sun
+shining through the trees that this place seems to be held by an almost holy
+aura.  There doesn't seem to be very many dangerous creatures lurking in
+these woods.
+~
+100 8 0 1 99 1
+D1
+Near the gates of Korum.
+~
+~
+0 -1 12671
+D3
+Inside the forest.
+~
+~
+0 -1 12673
+S
+#12673
+Inside the forest~
+You can see a small pathway towards the west from here.  This road will
+bring you back to the large city of Midgaard.  Towards the east of here
+you see a small outlying village of Korum.  It has a few large buildings
+however, its mainly a small town.
+~
+100 8 0 1 99 1
+D1
+The forest trail.
+~
+~
+0 -1 12672
+D3
+The forest continues out of Korum.
+~
+~
+0 -1 3069
+S
+#12674
+The mayors office~
+This office seems to have everything a small town mayor could need.  With
+it's local charm and paintings by local people.  The walls are filled with
+drawings the local children have done for him.  There is a large oak desk 
+in one corner that the mayor rarely sees.
+~
+100 8 0 1 99 1
+D3
+~
+~
+0 -1 12631
+S
+#12675
+blank~
+Blank
+~
+100 268435464 0 1 99 1
+S
+$~
+#999999

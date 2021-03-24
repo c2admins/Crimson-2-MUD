@@ -1,0 +1,102 @@
+#2700
+obj stone key~
+1
+A piece of stone~
+A crumpled piece of stone ~
+~
+18 8 0 1
+0 0 10 0
+1 5 5
+#2701
+obj key~
+1
+Platinum heart key~
+A shiny key~
+~
+18 262152 0 1
+0 0 1 0
+1 5 5
+#2702
+obj key~
+1
+a diamond heart shaped key ~
+A clear heart shaped key ~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#2703
+obj key~
+32767
+A heart shaped fire opal key~
+A heart shaped red stone ~
+~
+18 262144 0 1
+0 0 10 0
+1 5 5
+#2704
+obj chest bones arcain~
+100
+the chest of bones~
+A chest made of hundreds of bones is hidden here.~
+~
+15 0 0 0
+750 1 0 0
+1 5 5
+#2705
+obj note~
+32767
+A torch~
+A torch is lying here.~
+~
+16 0 0 1
+0 0 10 0
+1 5 5
+#2706
+obj staff color~
+32767
+Staff of Color~
+A ruby tiped staff~
+~
+4 0 0 16385
+10 5 5 10
+6 5 5
+#2707
+ocopyof5304~
+100
+a parchment note~
+A parchment note lies wrinkled on the ground.~
+~
+16 262176 0 16385
+0 2 10 2
+1 0 5
+E
+is a riddle here to be told.~
+There is a riddle here to be told , it is of magical being and of hearts lost
+long ago. They are broken in two as if  lost in a long battle but can be 
+joined again all you  have to do is figure out how and where there at, Good Luck 
+~
+E
+note~
+There is a riddle 
+~
+E
+key note~
+There is a riddle here to be told. It is of magical being and of hearts lost
+a very long time ago. They are broken in two as if a great magical force split
+them so they can never be joined again, but they can be. It is up to you to
+figure out where they are and how to join them into one again.
+                                              Good Luck,
+                                                       Lord Arcain
+~
+#2708
+obj key~
+32767
+A torch~
+A torch is lying here.~
+~
+18 0 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

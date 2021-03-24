@@ -1,0 +1,283 @@
+#9050
+mob Cokren~
+Cokren, Overseer of Corpses~
+Cokren, Overseer of Corpses, smiles at you.
+~
+Flexing his muscles, Cokren peers into your face.
+Smiling slowly, he gives you a mock salute.
+He seems to believe that, no matter WHO you are, he knows a way to defeat you.
+~
+8446028 1343489 136249361 128 -1000 S
+45 0 -31 1d1+18000 20d15+20
+1300000 930000
+8 8 1
+24 4 25 24 23 22 23 15
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_PEEK 99
+#9051
+mob name Baralius~
+Baralius, Trainer of Gladiators~
+Baralius, Trainer of Gladiators, awaits your attack.
+~
+Baralius seems to be focusing on your every movement.
+Though he seems relaxed, his eyes betray his observant intensity.
+~
+74 32769 136249361 67108992 1000 S
+42 25 -6 1d1+5999 8d7+10
+750000 504000
+8 8 1
+1 4 21 22 20 23 25 20
+SKILL=SKILL_KICK 75
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 75
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=101
+#9052
+mob name Dazzius Maximus~
+Dazzius Maximus~
+Dazzius Maximus, Bloody Fighter
+~
+Dazzius Maximus is the most brutal and pragmatic of all gladiators.
+He believes in violence, and that the only way to fight is to fight dirty.
+However, he believes in being an equal opportunity dirty fighter.
+~
+72 1 136249361 0 0 S
+48 0 -25 1d1+65000 40d30+10
+2500000 2000000
+8 8 1
+20 4 24 25 22 25 25 10
+#9053
+mob Gladiator Novice~
+Gladiator Novice~
+A Gladiator Novice stands here.
+~
+An inexperienced Gladiator Novice stands here... He holds his sword limply.
+~
+72 1 136249361 0 200 S
+24 16 20 1d1+500 5d3+10
+62500 65000
+8 8 1
+1 4 20 17 16 19 17 13
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 45
+SKILL=SKILL_SECOND 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=55
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#9054
+mob corpse gladiator~
+the corpse of a gladiator~
+The fresh corpse of a gladiator is yearning for one last fight.
+~
+This corpse has been freshly removed from the Coliseum battlegrounds.  It 
+patiently rots while waiting for Cokren to close the chamber.
+~
+33558538 1 136249361 0 0 S
+38 5 10 1d1+2000 5d10+15
+150000 200000
+8 8 0
+1 4 22 22 22 22 22 22
+ATTACK_SKILL=55
+ATTACK_SKILL=55
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#9055
+mob Caesar Smurf~
+Caesar Smurf~
+Caesar Smurf looks at you in a blue manner.
+~
+He is big.  He is blue.  But not a "weak, bird shell" blue.  More like a dark,
+ocean blue.  The kind of blue that you want to rub.  But if you rub him, beware:
+He doesn't like being rubbed.
+~
+4194312 1310721 136249361 0 1000 S
+46 10 -32 1d1+42000 20d12+15
+1500000 1200000
+8 8 1
+7 3 19 24 15 23 22 20
+SKILL=SKILL_STEAL 90
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=108
+ATTACK_SKILL=30
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#9056
+mob Sulfur~
+Sulfur, Lord of Stench~
+Sulfur, He Who Smells, stands here.
+~
+Sulfur is a pale yellow demon.  He snarls at you and proceeds to emit noxious
+gasses from his body.  Be careful.  He dislikes visitors.
+~
+2220296 1048577 136249361 2097153 -1000 S
+47 0 -30 1d1+32500 15d14+11
+1000500 1200000
+8 8 1
+7 6 21 15 15 21 22 10
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_GAS_BREATH 80
+SKILL=SPELL_ACID_BREATH 65
+SKILL=SKILL_SECOND 70
+SKILL=SKILL_THIRD 65
+SKILL=SPELL_HEAL_MEDIUM 75
+ATTACK_SKILL=50
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_TYPE=102
+ATTACK_SKILL=25
+ATTACK_SKILL=35
+ATTACK_SKILL=45
+ATTACK_TYPE=106
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+#9057
+mob Roman Senator~
+Roman Senator~
+A Roman Senator drinks wine as you approach him.
+~
+This Roman Senator, like all the others, seems to enjoy stuffing himself with food and drink.  Watch out!  He might spew!
+~
+328 1 136249361 256 1000 S
+25 25 5 1d1+1500 2d10+15
+60000 100000
+8 8 1
+1 3 15 18 17 14 20 22
+SKILL=SKILL_STEAL 55
+SKILL=SKILL_KICK 70
+SKILL=SKILL_BASH 55
+SKILL=SKILL_SCALES 60
+SKILL=SKILL_SECOND 69
+SKILL=SKILL_ESCAPE 70
+ATTACK_SKILL=20
+ATTACK_SKILL=25
+ATTACK_SKILL=20
+ATTACK_TYPE=100
+ATTACK_SKILL=20
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+#9058
+mob Smileus Gratisimus~
+Smileus Gratisimus~
+Smileus Gratisimus smiles at you as you approach him.
+~
+Smileus Gratisimus is well-muscled and lean.  He has a bronzed look because of
+his even tan.  He smiles at you in friendship, though he seems slightly tensed
+as if prepared for an attack.
+~
+262216 1 136249361 536870912 1000 S
+30 30 2 1d1+3200 10d9+12
+100000 200000
+8 8 1
+19 4 19 15 14 14 20 21
+SKILL=SKILL_EXTRA_DAMAGE 61
+SKILL=SKILL_SECOND 80
+ATTACK_SKILL=15
+ATTACK_SKILL=20
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#9059
+mob Living Skeletons~
+Skeleton Gladiators~
+A living skeleton lurks in the shadows.
+~
+Bleached white bones, bits of decaying flesh and a terrible gleam in the eyeless sockets make up this creature.  Even though dead, it still strives to fight.
+~
+33595404 1 136249361 8 -500 S
+25 15 10 1d1+2100 5d8+7
+55000 75000
+8 8 0
+7 4 18 15 12 16 15 10
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=15
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#9060
+mob Titus Bloatus~
+Titus Bloatus~
+Titus Bloatus, the insane monster of the Coliseum, lurks in this room.
+~
+Titus Bloatus is large, he stinks and he has a bad attitude.
+Italso doesn't help that he is talking to himself the whole time.
+Be careful.  Titus doesn't like guests.  He prefers to play "kick the skull" 
+with them rather than talk.
+~
+8446024 1 136249361 2101280 -1000 S
+45 3 -30 1d1+35000 20d15+10
+1350000 1200000
+8 8 1
+22 3 19 15 13 17 16 10
+SKILL=SKILL_KICK 51
+SKILL=SKILL_SECOND 70
+SKILL=SKILL_THIRD 65
+ATTACK_SKILL=15
+ATTACK_SKILL=10
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+#9061
+mob Mad Battler~
+The Mad Battler~
+The Mad Battler stands here, preparing to kill you.
+~
+The stench of sweat and insanity looms heavily around this creature.
+Though once a man, years of silence and solitary living have rendered him
+quite insane and beastial.
+~
+323592 1 136249361 40 -750 S
+46 3 -24 1d1+62500 21d14+6
+1250000 1250000
+8 8 1
+20 4 19 16 13 19 21 9
+ATTACK_SKILL=30
+ATTACK_SKILL=35
+ATTACK_SKILL=30
+ATTACK_TYPE=100
+ATTACK_SKILL=15
+ATTACK_SKILL=15
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+$~
+#999999

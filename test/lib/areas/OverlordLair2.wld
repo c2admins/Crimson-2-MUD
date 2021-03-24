@@ -1,0 +1,406 @@
+#5400
+UnderMountain Caves~
+The cave is almost entirely dark here.  Faint light from the north makes
+the thing on the ground visible to your eyes.
+~
+31 9 0 1 99 0
+D0
+A growing light comes from the north.
+~
+~
+0 -1 5401
+D1
+The cave gets darker to the east
+~
+~
+0 -1 5399
+E
+thing~
+You bend down to see just exactly what this 'thing' is.  What you see is
+an old mithril coin with the face of Loki on its head.  Only the denizens
+of the dark would carry such a coin.  For some reason, you decide to 
+leave the coin where it is.
+~
+S
+#5401
+UnderMountain Caves~
+The cool air brings the scent of wet rust and dirt to your nose.  To the
+south the cave seems to get darker.
+You notice a small pile of junk on the floor here.
+~
+31 9 0 1 99 0
+D0
+The cave grows brighter to the north.
+~
+~
+0 -1 5402
+D2
+The cave seems to get darker to the south.
+~
+~
+0 -1 5400
+E
+junk pile~
+The junk pile seems to be made of a totally rusted-out suit of chain armor.
+~
+S
+#5402
+UnderMountain Caves~
+The cool air brings the scent of wet rust and dirt to your nose.  To the
+south the cave seems to get darker.
+~
+31 8 0 1 99 0
+D0
+The cave brightens to the north.
+~
+~
+0 -1 5403
+D2
+The cave seems to get darker to the south.
+~
+~
+0 -1 5401
+S
+#5403
+UnderMountain Caves~
+The cool air brings the scent of wet rust and dirt to your nose.  To the
+south the cave seems to get darker.
+~
+31 8 0 1 99 0
+D1
+To the far east is the entrance to the UnderMountain caves.
+~
+~
+0 -1 5404
+D2
+The cave grows darker to the south.
+~
+~
+0 -1 5402
+S
+#5404
+UnderMountain Caves~
+A faint breeze slides past your face as detect the trace smell of rust.
+The cave seems to get darker to the west.
+~
+31 12 0 1 99 0
+D1
+The entrance lies to the east.
+~
+~
+0 -1 5405
+D3
+The cave turns south up ahead.
+~
+~
+0 -1 5403
+S
+#5405
+Entrance to UnderMountain~
+You stand at the mouth of a large cave.  Several camp fires have been
+made and destroyed here.  A few scraps of bone and decayed meat lie in a
+corner. You estimate the last time someone ventured into these caves
+was just a couple days ago.  There is a hand-painting on the cave wall here.
+~
+31 8 0 1 99 1
+D1
+the outside
+~
+~
+0 -1 5419
+D3
+The cave dives deeper into the mountain up ahead.
+~
+~
+0 -1 5404
+E
+hand painting~
+The painting is written in blood, which is now dried and cracked with
+age. It reads:
+These are the caves of duergar.
+Venture ye not, less thine life is lost.
+~
+S
+#5406
+Map-Maker's room~
+You are in a small room filled with maps and drawings of every sort.
+Amidst the hustle and bustle, you notice, to your ammusement, a picture
+of a nude duergar female.  
+~
+31 8 0 1 99 0
+D1
+The planning room lies to the east.
+~
+~
+0 -1 5374
+E
+nude picture female~
+You see a rough painting of an ugly nude duergar female.
+You quickly drop the painting as a gross thought comes to mind.
+~
+E
+picture female nude~
+~
+E
+picture nude female~
+The nudey picture is of great design
+it looks so clear that you would
+think the duergar female was right there.  However, you put down the
+picture as a gross thought comes to your mind...
+~
+E
+picture nude female~
+The picture is too sharp and clear to be a painting
+it was obviously done
+by some magic power.  The female depicted is not what you would call
+pretty.
+~
+S
+#5407
+Food Warren~
+The room you are in is lined with shelves loaded with all sorts of food.
+Dead carcasses of giant rats hang from the ceiling.  A few roaches and
+an odd assortment of bugs, scurry around on the floor.  You quickly make
+up your mind that you do not like the food of duergar dwarves.
+~
+31 8 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5366
+S
+#5408
+Dark Caves~
+The walls of these caves are black and cold to the touch.  It is very 
+silent here and you detect no other strange prescence, yet something
+gives you the creeps.
+~
+31 9 0 1 99 0
+D0
+The door is closed.
+~
+door~
+9 0 5357
+D2
+nothing but darkness.
+~
+~
+0 -1 5409
+S
+#5409
+Dark Caves~
+The walls of these caves are black and cold to the touch.  It is very 
+silent here and you detect no other strange prescence, yet something
+gives you the creeps.
+~
+31 9 0 1 99 0
+D0
+nothing but darkness.
+~
+~
+0 -1 5408
+D1
+nothing but darkness
+~
+~
+0 -1 5410
+S
+#5410
+Dark Caves~
+The walls of these caves are black and cold to the touch.  It is very 
+silent here and you detect no other strange prescence, yet something
+gives you the creeps.
+~
+31 9 0 1 99 0
+D2
+nothing but darkness
+~
+~
+0 -1 5359
+D3
+nothing but darkness.
+~
+~
+0 -1 5409
+S
+#5411
+Pantry~
+Rows and rows of fine food items line the walls.  Imported caviar, steaks,
+fresh bread, and an assortment of other items tempt your tummy.  Certainly
+the Overlord, is a well-fed ruler.
+~
+31 8 0 1 99 0
+D0
+The kitchen is to the north.
+~
+~
+0 -1 5412
+D3
+The Servant's Concourse lies to the west.
+~
+~
+0 -1 5321
+S
+#5412
+Kitchen~
+You stand within the kitchen that feeds all the people of this keep.
+Several tables and a large center oven are the highlights of this room.
+Several steaks sizzle in a frying pan.  The aroma is wonderful!
+~
+31 8 0 1 99 0
+D2
+The pantry lies to the south.
+~
+~
+0 -1 5411
+D3
+The Servant's Concourse lies to the west.
+~
+~
+0 -1 5316
+S
+#5413
+Mystical Hallway~
+You stand within a hallway that narrows to the south.  The scent of burnt
+flesh fills your nostrils as you proceed further.  Many carvings are
+etched upon the walls here, depicting acts of sex and violence and
+magic. Above all, a picture of the act of necromancy gains your attention.
+~
+31 8 0 1 99 0
+D2
+The strange hallway continues south.
+~
+~
+0 -1 5414
+E
+necromancy picture~
+The scene depicted is of a dark wizard sucking the life out of a human,
+then putting it back in.  However, the human, no longer looks 'human.'
+~
+S
+#5414
+Mystical Hallway~
+The strange hallway splits into a 4-way junction here.  You smell the
+sickly sweet odor of burnt flesh to the east.  The smell of cinnamon
+incense lingers in the air to the west.  Far to the south is a great door.
+~
+31 8 0 1 99 0
+D0
+A dead end is up ahead.
+~
+~
+0 -1 5413
+D1
+The strange hallway continues on.
+~
+~
+0 -1 5415
+D2
+A great door looms before you.
+~
+~
+1 5327 5355
+D3
+A lavish room, filled with the smoke of incense is to the west.
+~
+~
+0 -1 5417
+S
+#5415
+Mystical Hallway~
+You stand within a hallway which leads to a chamber south of here, that
+is very strange indeed.  The particular hallway that you are in is rather
+non-descript, save for the growing scent of burnt flesh.
+~
+31 8 0 1 99 0
+D2
+There is a strange glow to the south.
+~
+~
+0 -1 5416
+D3
+The hall junction lies to the west.
+~
+~
+0 -1 5414
+S
+#5416
+Room of Necromancy~
+You are in a large room stocked with an assortment of magical contraptions
+which glow, spark, and make soft buzzing sounds.  Wires and cables line
+the walls and rafters of this room, often coming down, only to be connected
+to several metal chairs.  Each chair contains a humanoid occupant, who in
+turn, seems to be connect via wire and cable to the chair.  The occupant of
+each chair seems to be near death or dead, you can't really tell which.
+~
+31 8 0 1 99 0
+D0
+nothing special...
+~
+~
+0 -1 5415
+S
+#5417
+Overlord's Personal Sleeping Chambers~
+You stand within a lavishly decorated room.  An extremely large bed lies
+in the center and you estimate it to be big enough for 6 regular-sized
+humans. Stacks of incense burn in the far corner giving the room a 
+smokey effect.  Giant decorative weapons hang on the walls.  Truly, this
+room is large in all proportions.  A soft moan coming from under the
+sheets on the bed warn you that you are not alone.
+~
+31 8 0 1 99 0
+D1
+the hall junction up ahead.
+~
+~
+0 -1 5414
+S
+#5418
+dirt path~
+You are on a dirt path.  To the south is the crumbled watchtower of
+old Thalos.  There is a gaping hole in the tower which you think you
+might fit through.  The path you are on slopes up a hill to the north.
+~
+31 8 0 1 99 0
+D0
+a dirt path
+~
+~
+0 -1 5419
+D2
+A large hole in the tower wall gapes before you.
+~
+~
+0 -1 5241
+E
+necromancy picture~
+The scene depicted is of a dark wizard sucking the life out of a human,
+then putting it back in.  However, the human, no longer looks 'human.'
+~
+S
+#5419
+dirt path~
+You are on a dirt path.  To the north a cave opening can be seen.
+To the south is old Thalos.
+~
+31 8 0 1 99 0
+D2
+a dirt pat
+~
+~
+0 -1 5418
+D3
+An entrance to a cave.
+~
+~
+0 -1 5405
+E
+necromancy picture~
+The scene depicted is of a dark wizard sucking the life out of a human,
+then putting it back in.  However, the human, no longer looks 'human.'
+~
+S
+$~
+#999999

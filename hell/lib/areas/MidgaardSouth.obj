@@ -1,0 +1,166 @@
+#3100
+tea cup~
+a cup~
+A cup has been set here.~
+~
+17 0 1
+8 8 11 0
+1 5 1
+E
+cup~
+It is a small simple cup.
+~
+#3101
+coffee cup~
+a cup~
+A cup has been set here.~
+~
+17 0 1
+8 8 12 0
+1 7 1
+E
+cup~
+It is a small simple cup.
+~
+#3102
+water cup~
+a cup~
+A cup has been set here.~
+~
+17 0 1
+16 16 0 0
+1 2 1
+E
+cup~
+It is a large simple cup.
+~
+#3120
+key iron~
+a key~
+An iron key has been left here.~
+~
+18 0 1
+0 0 0 0
+1 0 10
+E
+key iron~
+The iron key is not special.
+~
+#3121
+key rusty~
+a key~
+A rusty key has been left here.~
+~
+18 0 1
+0 0 0 0
+1 0 10
+E
+key rusty~
+The key is a fairly large rusty key. You notice a lot of dirt it.
+~
+#3122
+key wooden~
+a key~
+A wooden key has been left here.~
+~
+18 0 1
+0 0 0 0
+1 0 10
+E
+key wooden~
+The wooden key is not special.
+~
+#3123
+key brass~
+a key~
+A brass key has been left here.~
+~
+18 0 1
+0 0 0 0
+1 0 10
+E
+key brass~
+The brass key is small and looks like it fits a very complicated lock.
+~
+#3130
+desk drawer~
+the desk~
+A desk is set against the western wall.~
+The desk looks very sparse, there is a drawer in the left side.
+~
+15 0 0
+34 15 3122 0
+100 0 100000
+E
+drawer~
+You notice a keyhole in the drawer.
+~
+#3131
+safe~
+the safe~
+A safe is placed in a dark corner of the room.~
+The safe has a keyhole.
+~
+15 0 0
+34 15 3123 0
+100 0 100000
+E
+safe~
+The safe is very heavy.
+~
+#3132
+gold coins~
+the gold~
+A lot of gold is here.~
+Looks like at least 10,000 coins.
+~
+20 0 1
+52385 0 0 0
+0 52385 0
+#3133
+city key~
+the City Key~
+The very big City Key is lying here.~
+It is probably the biggest key you have seen in your life.  It is made from
+polished gold and has various patterns on it along with the Midgaard Coat of
+Arms.
+~
+18 0 1
+0 0 0 0
+10 10000 5000
+#3134
+bench~
+the Bench~
+A white-painted wooden bench is standing here.~
+~
+12 0 0
+0 0 0 0
+100 600 200
+E
+bench~
+It is a quite heavy but very comfortable bench.  It is placed with its front
+towards the river so you can sit and watch the river and the houses on the
+other side.
+~
+#3135
+fountain~
+a fountain~
+A small white fountain is standing at the end of the road.~
+~
+17 0 0
+50 50 0 0
+500 3000 1000
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#3136
+coins gold~
+a small pile of gold coins~
+A small pile of gold coins lies here.~
+~
+20 0 1
+20 0 0 0
+0 0 0
+$~
+#999999

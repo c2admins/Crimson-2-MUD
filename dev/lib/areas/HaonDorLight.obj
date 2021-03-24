@@ -1,0 +1,185 @@
+#6000
+obj axe lumber~
+100
+a lumber axe~
+A heavy lumber axe lies here.~
+chop~
+5 0 0 8193
+0 2 4 3
+10 50 15
+E
+axe lumber~
+It is a heavy axe of the kind lumberjacks use to chop down trees.
+~
+#6001
+obj shirt~
+100
+a chequered shirt~
+A chequered shirt lies here.~
+~
+9 65536 0 9
+1 0 0 0
+2 20 8
+E
+shirt~
+It is an extra large, chequered shirt made from heavy cloth.
+~
+#6002
+obj boots~
+100
+a pair of leather boots~
+A pair of leather boots lies here.~
+~
+9 0 0 65
+3 0 0 0
+4 60 20
+E
+boots~
+They are fashioned from rough leather that has been oiled frequently to make
+it stay waterproof.  They look worn but quite functional.
+~
+#6003
+obj fireplace~
+100
+a fireplace~
+A fireplace made from stone is set against the east wall.~
+~
+15 0 0 0
+200 0 0 0
+0 0 0
+E
+fireplace~
+It is fashioned from stones of various sizes that have been stacked on top of
+each other and fastened with mortar.  Its chimney is constructed likewise and
+leads the smoke out through the low cabin ceiling.
+~
+#6004
+obj lantern~
+100
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+~
+1 0 0 16385
+0 0 100 0
+4 60 20
+E
+lantern~
+It is a large and robust but somewhat battered oil lantern made from brass,
+and it is equipped with a handle to make it handy and a hood to protect its
+flame.  Some letters have been scratched on its bottom.
+~
+E
+letters~
+They say, "Use 'hold lantern' to activate."
+~
+#6005
+obj chest~
+100
+a wooden chest~
+A wooden chest stands in the corner.~
+~
+15 0 0 1
+100 -8 6006 0
+40 100 30
+E
+chest~
+It is a robust chest made from short, heavy planks that have been fastened
+together with tenons.  It is equipped with a simple brass lock.
+~
+#6006
+obj key brass~
+2
+a small brass key~
+A small brass key lies here.~
+~
+18 262152 0 1
+6005 0 0 0
+1 10 4
+E
+key~
+It is a small, simple brass key with no inscriptions or marks of any kind.
+~
+#6007
+obj coins gold~
+100
+a heap of gold coins~
+Some gold coins lie piled up in a heap on the floor.~
+~
+20 0 0 1
+100 0 0 0
+0 0 0
+E
+coins~
+The coins seem to be gold.  They are obviously valuable.
+~
+#6010
+obj blackberries~
+100
+some blackberries~
+Some blackberries grow on a bush nearby.~
+~
+19 0 0 1
+3 0 0 0
+1 10 10
+E
+blackberries~
+They look very tasty indeed.
+~
+#6011
+obj mushroom~
+100
+a mushroom~
+A small mushroom grows nearby.~
+~
+19 0 0 1
+6 0 0 0
+1 10 10
+E
+mushroom~
+It is a tasty little thing.
+~
+#6012
+obj sign~
+100
+a large sign~
+A large sign mounted on a pole is standing by the roadside.~
+~
+0 0 0 0
+0 0 0 0
+100 0 0
+E
+pole~
+Not the most interesting pole in the world.
+Better leave it here, though, as it holds the sign in place.
+~
+E
+sign~
+It says :-
+
+                         Haon-Dor
+                         --------
+
+ This is the Forest of Haon-Dor.  Enter at your own risk.
+     Please report any strange occurrences to Quifael.
+
+~
+#6013
+obj water barrel~
+100
+the barrel~
+A water barrel has been left here.~
+~
+17 0 0 1
+50 50 0 0
+65 60 20
+#6014
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

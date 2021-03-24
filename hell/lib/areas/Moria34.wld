@@ -1,0 +1,441 @@
+#4100
+The tunnel~
+   Suddenly you feel that the tunnel leads slightly down.. The only
+exit is to the west, and it leads down..
+~
+40 1048589 0 1 99 3
+D3
+~
+~
+0 0 4101
+S
+#4101
+The long tunnel~
+   You are in a long east-west leading tunnel. The tunnel is quite
+wide at this point.
+~
+40 1048585 0 1 99 3
+D1
+~
+~
+0 0 4100
+D3
+~
+~
+0 0 4102
+S
+#4102
+The long tunnel~
+   You are in a long east-west leading tunnel. The tunnel becomes
+narrow to the west.
+~
+40 1048585 0 1 99 3
+D1
+~
+~
+0 0 4101
+D3
+~
+~
+0 0 4103
+S
+#4103
+The long tunnel~
+   You are in a long east-west leading tunnel. The tunnel is quite
+narrow at this point. You notice a small hole leading south.
+~
+40 1048585 0 1 99 3
+D1
+~
+~
+0 0 4102
+D2
+~
+~
+0 0 4106
+D3
+~
+~
+0 0 4104
+S
+#4104
+The long tunnel~
+   You are in a long east-west leading tunnel. The tunnel starts sloping
+down towards the west.
+~
+40 1048585 0 1 99 3
+D1
+~
+~
+0 0 4103
+D3
+It's too dark to see.
+~
+~
+0 -1 21400
+S
+#4105
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the south and west.
+~
+40 1048584 0 1 99 1
+D2
+~
+~
+0 0 4108
+D3
+~
+~
+0 0 4106
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4106
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the south and east, to the north i a narrow
+tunnel.
+~
+40 1048584 0 1 99 1
+D0
+~
+~
+0 0 4103
+D1
+~
+~
+0 0 4105
+D2
+~
+~
+0 0 4109
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4107
+The passage~
+   You are in a small passage, it leads south, to the east is a golden
+cave.
+~
+40 1048585 0 1 99 3
+D2
+~
+~
+0 0 4113
+D3
+~
+~
+0 0 4108
+S
+#4108
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the north and west, east from you there is
+a small passage.
+~
+40 1048584 0 1 99 1
+D0
+~
+~
+0 0 4105
+D1
+~
+~
+0 0 4107
+D3
+~
+~
+0 0 4109
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4109
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the south, east and north.
+~
+40 1048584 0 1 99 1
+D0
+~
+~
+0 0 4106
+D1
+~
+~
+0 0 4108
+D2
+~
+~
+0 0 4114
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4110
+The hole~
+   You are standing by a large hole in the floor, when you looks down
+into the darkness you feel frightened.
+~
+40 1048589 0 1 99 3
+D3
+~
+~
+0 0 4111
+D5
+~
+~
+0 0 5100
+S
+#4111
+The tunnel~
+   You are in a small tunnel, it leads from east to the west.
+~
+40 1048585 0 1 99 3
+D1
+~
+~
+0 0 4110
+D3
+~
+~
+0 0 4112
+S
+#4112
+The tunnel~
+   You are in a larger tunnel, it leads from west to east.
+~
+40 1048585 0 1 99 3
+D1
+~
+~
+0 0 4111
+D3
+~
+~
+0 0 4113
+S
+#4113
+The passage~
+   You are in a passage that leads towards the south. To the east
+you see a tunnel.
+~
+40 1048585 0 1 99 3
+D0
+~
+~
+0 0 4107
+D1
+~
+~
+0 0 4112
+D2
+~
+~
+0 0 4116
+S
+#4114
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the north, to the west you see a dark
+passsage.
+~
+40 1048584 0 1 99 1
+D0
+~
+~
+0 0 4109
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4115
+The dark passage.~
+  The most luxurious of the temple antechambers, Melcrins home has
+been furnished from years of plundering and looting. A golden throne
+sits against the back wall, where the god of trolls sits out his days
+in contemplation.
+~
+40 1880129545 0 1 99 3
+D4
+A hidden stairway leading back up.
+~
+~
+0 -1 4099
+S
+#4116
+The passage~
+   You are in a passage that leads north-south. You notice a small
+light to the south.
+~
+40 1048585 0 1 99 3
+D0
+~
+~
+0 0 4113
+D2
+~
+~
+0 0 4120
+E
+light~
+Well you can't see where it comes from..
+~
+S
+#4117
+The secret tunnel~
+  The secret tunnel leads north and south. A small side tunnel branches
+off to the east.
+~
+40 1048585 0 1 99 3
+D0
+~
+~
+0 0 4114
+D1
+It's too dark to see.
+~
+~
+0 -1 21420
+D2
+~
+~
+0 0 4122
+S
+#4118
+The cave~
+   You are in a light cave, from torches several feets abouve your
+head fire lights the room. The cave continues to the west and south.
+To the north a small hole leads to a tunnel.
+~
+40 1048584 0 1 99 1
+D2
+~
+~
+0 0 4123
+D3
+~
+~
+0 0 4119
+S
+#4119
+The cave~
+   You are in a light cave, from torches several feets abouve your
+head fire lights the room. The cave continues to the east and south.
+~
+40 1048584 0 1 99 1
+D1
+~
+~
+0 0 4118
+D2
+~
+~
+0 0 4124
+D3
+~
+~
+0 0 4121
+S
+#4120
+The passage~
+   You are in a north-south leading passage. To the south you see
+light.
+~
+40 1048585 0 1 99 3
+D0
+~
+~
+0 0 4116
+D2
+~
+~
+0 0 4125
+E
+light~
+It nearly is enough to light the passage.
+~
+S
+#4121
+The secret tunnel~
+   You are in a secret tunnel that leads west, you feel evilness
+approaching you as you continue west.
+~
+40 1048585 0 1 99 3
+D3
+~
+~
+0 0 4122
+S
+#4122
+The secret chamber~
+   You are in a secret chamber, the room is filled with an evil
+feeling.
+~
+40 1048585 0 1 99 3
+D0
+~
+~
+0 0 4117
+S
+#4123
+The cave~
+   You are in a light cave, from torches several feets abouve your
+head fire lights the room. The cave continues to the north and west.
+~
+40 1048584 0 1 99 1
+D0
+~
+~
+0 0 4118
+D3
+~
+~
+0 0 4124
+S
+#4124
+The cave~
+   You are in a light cave, from torches several feets abouve your
+head fire lights the room. The cave continues to the east and north.
+To the west a passage leads north.
+~
+40 1048584 0 1 99 1
+D0
+~
+~
+0 0 4119
+D1
+~
+~
+0 0 4123
+D3
+~
+~
+0 0 4125
+S
+#4125
+The passage~
+   You are in a passage, to the east you see a cave. Light from the
+cave lights up the passage. To the north the passage leads into
+the darkness..
+~
+40 1048584 0 1 99 3
+D0
+~
+~
+0 0 4120
+D1
+~
+~
+0 0 4124
+S
+$~
+#999999

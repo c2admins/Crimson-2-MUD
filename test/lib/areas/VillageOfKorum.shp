@@ -1,0 +1,137 @@
+#0~
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+1.2
+0.8
+10
+2
+0
+0
+0
+%s Sorry I haven't got that exact item right now come back later.~
+%s You don't have that on you that I can see.~
+%s I don't buy those. Stop wasting my time.~
+%s That's too expensive for me! Do I look like a noble to you?~
+%s You know you can't afford that. Quit wasting my time.~
+%s That will be %d coins, please.~
+%s I'll give you %d coins for that. Not a cent more!~
+0
+0
+12640
+0
+12667
+0
+28
+0
+0
+#1~
+12633
+12638
+12637
+12639
+12640
+12641
+12642
+-1
+-1
+-1
+1.2
+0.8
+10
+2
+0
+0
+0
+%s Sorry I haven't got that exact item right now come back later.~
+%s You don't have that on you that I can see.~
+%s I don't buy those. Stop wasting my time.~
+%s That's too expensive for me! Do I look like a noble to you?~
+%s You know you can't afford that. Quit wasting my time.~
+%s That will be %d coins, please.~
+%s I'll give you %d coins for that. Not a cent more!~
+0
+0
+12641
+0
+12664
+0
+28
+0
+0
+#2~
+12643
+12644
+12645
+12647
+12648
+-1
+-1
+-1
+-1
+-1
+1.2
+0.8
+5
+9
+0
+0
+0
+%s Sorry I haven't got that exact item here right now.~
+%s You don't seem to be carrying that item on you right now.~
+%s I don't buy those. Stop wasting my time.~
+%s I don't have the money to buy that.~
+%s You know you can't afford that. Quit wasting my time.~
+%s That will be %d coins.~
+%s I'll give you %d coins for that. NOT A CENT MORE!~
+0
+0
+12638
+0
+12629
+0
+28
+0
+0
+#3~
+12654
+12655
+12656
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+1.7
+0.8
+19
+0
+0
+0
+0
+%s Sorry I haven't got that exact item here right now.~
+%s You don't seem to be carrying that item on you right now.~
+%s I don't buy those. Stop wasting my time.~
+%s I don't have the money to buy that.~
+%s You know you can't afford that. Quit wasting my time.~
+%s That will be %d coins.~
+%s I'll give you %d coins for that. NOT A CENT MORE!~
+0
+0
+12639
+0
+12628
+0
+28
+0
+0
+$~

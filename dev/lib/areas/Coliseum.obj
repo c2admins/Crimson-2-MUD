@@ -1,0 +1,183 @@
+#9050
+obj helmet, phalanxian~
+10
+&wPh&Wala&Knxian H&Welm&wet&n~
+a rather intimidating helmet rests here~
+~
+9 4194307 0 17
+20 0 0 0
+2 300000 200000
+A
+19 3
+A
+18 1
+A
+14 -10
+#9051
+obj rod, discipline~
+10
+&KDisci&wplin&We Rod&n~
+A painful-looking rod is lying here.~
+~
+5 2117633 0 8193
+0 5 8 7
+10 1200000 600000
+A
+13 -15
+A
+19 1
+A
+18 1
+A
+12 5
+#9052
+obj gladiator belt~
+5
+&KD&yea&Kd Gl&ya&Kd&yia&Kt&yo&Kr B&ye&Klt&n~
+a slightly bloody belt was dropped here~
+~
+9 4194306 0 2049
+25 0 0 0
+6 80000 100000
+A
+19 3
+A
+18 2
+A
+6 -2
+A
+13 10
+#9053
+obj Cokren's tomb prep key~
+100
+Cokren's Prep Key~
+an important key was dropped here~
+~
+18 262148 0 16385
+0 0 0 0
+2 5 5
+#9054
+obj cuff dead gladiator~
+10
+&yDead &RGla&rdi&Wa&rto&Rr's &yCuff&n~
+a slightly bloody cuff is resting on the floor~
+~
+9 2097152 0 4097
+3 0 0 0
+4 50000 2000
+A
+37 -1
+A
+19 2
+A
+18 1
+#9055
+obj straight jacket~
+20
+&WStraight Jacket&n~
+a white canvas coat lies crumpled here.~
+~
+9 128 32 1025
+30 0 0 0
+25 25525 200
+A
+3 -2
+A
+37 -1
+#9056
+obj Claymore of Pain~
+2
+&KCla&wy&rmore of &wP&Kain&n~
+A long, heavy blood-red claymore with a bloody handle lies here.~
+~
+5 4196864 0 8193
+0 8 7 3
+25 375000 75000
+A
+19 2
+A
+13 20
+A
+37 -1
+A
+18 2
+#9057
+obj Barfatorium Fountain~
+100
+the Barfatorium Fountain~
+A pleasant fountain sits here.  Hrm... What's that pleasant smell?~
+~
+17 8 0 0
+1000000 1000000 1 0
+1000 1000000000 1000000000
+#9058
+obj :) smile~
+50
+&G:&Y)&n~
+A smile sits here, waiting to be picked up.~
+~
+11 1281 0 16405
+15 0 0 0
+2 212121212 121212121
+A
+12 10
+A
+13 10
+A
+14 10
+A
+37 -1
+#9059
+obj Torment Blade~
+2
+&KTor&wm&rent B&wl&Kade&n ~
+A blade that seems cloaked in anger and pain is lying here.~
+~
+5 4194816 0 8193
+27 9 6 3
+8 750000 30000
+A
+19 2
+A
+40 2
+A
+18 1
+#9060
+obj rogerwaters bass imm~
+100
+&rRogerWaters &K{&pBass&K}&w======&W::&K]&n~
+&rRogerWaters &K{&GBass&K}&w======&W::&K]&n~
+~
+8 256 64 16385
+0 0 0 0
+12 1000000 10000
+A
+18 100
+A
+19 105
+A
+25 45
+A
+42 15
+#9061
+obj Pink Floyd Poster~
+100
+coolest poster ever.~
+A remarkably colorful poster lies here on the ground.~
+~
+8 134480128 0 16385
+0 0 10 0
+10 25000 250
+A
+9 10
+#9062
+obj junk prototype~
+0
+scheisse~
+scheisse~
+~
+15 675282952 0 1025
+500 0 0 0
+1 100 100
+$~
+#999999

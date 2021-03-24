@@ -1,0 +1,344 @@
+#20500
+obj foothole flesh~
+32767
+flesh ladder~
+&yOut of the corner of your eye you notice a foothole in the flesh.&n~
+~
+25 0 0 0
+0 0 10 0
+1 5 5
+#20501
+obj blood rope covered~
+2
+A blood covered rope~
+A rope seems to have lost the neck it was strangling.~
+~
+9 155189380 1024 5
+0 0 10 0
+3 5 30000
+A
+19 4
+A
+18 3
+A
+13 -15
+A
+14 -45
+#20502
+obj hero~
+1
+The Hero's Lantern~
+A long dead hero has left his lantern.~
+~
+1 4194308 0 65537
+0 0 10 0
+1 5 15705
+A
+19 3
+A
+18 2
+A
+13 -20
+#20503
+obj gods sword~
+2
+&KG&wo&Kd&w'&Ks &wS&Kw&wo&Kr&wd&n~
+An eerie blade gleems with the craft of an angel.~
+~
+5 205523011 0 8193
+458755 11 5 3
+15 1500000 15000
+A
+13 -15
+#20504
+obj Prosthetic limb~
+1
+A Prosthetic Limb~
+A man-made arm lies here short circuiting.~
+~
+9 138414596 0 513
+60 0 0 0
+1 5 13000
+A
+19 3
+A
+13 -30
+#20505
+obj vein bleeding~
+1
+A Bleeding Vein~
+A severed vein lies here bleeding.~
+~
+9 138414628 0 2049
+30 0 0 0
+1 5 17500
+A
+19 3
+A
+18 2
+A
+13 -10
+#20506
+obj bloody finger nail~
+1
+A Bloody Metal FingerNail~
+A magnificent torturing device lies here.~
+~
+9 4196880 0 129
+20 0 0 0
+1 5 17540
+A
+19 4
+A
+14 -25
+A
+18 1
+#20507
+obj skinless dagger~
+1
+A Skinless Dagger~
+A strange dagger lies here.~
+~
+5 4194832 0 8193
+0 13 4 11
+1 5 30000
+A
+19 5
+A
+18 2
+#20508
+obj god gauntlet~
+1
+The Gauntlet of God~
+A massive gauntlet lies here, emitting the hum of holiness~
+~
+9 1 0 4097
+20 0 0 0
+1 5 13300
+A
+19 3
+A
+18 1
+A
+13 -20
+#20509
+obj cloak skin~
+1
+Cloak of Skin~
+A cloak made of purely skin lies here.~
+~
+9 4196864 1024 5
+15 0 0 0
+1 5 13000
+A
+19 4
+A
+18 2
+A
+13 -15
+A
+14 -15
+#20510
+obj pentacle dead~
+1
+Pentacle of The Dead~
+A seven pointed star consoles the lost souls.~
+~
+9 4194304 0 16385
+30 0 0 0
+1 5 9999
+A
+40 50
+A
+18 2
+A
+41 50
+A
+25 4
+#20511
+obj damned dagger~
+1
+Dagger of The Damned~
+A fearsome dagger, lies twisted in its creation.~
+~
+5 4194304 0 8193
+57344 5 7 11
+1 5 13500
+A
+19 2
+A
+14 -20
+#20512
+obj holy war gown~
+1
+A Holy War Gown~
+A sweat drenched, tattered war gown lies here in a heap.~
+~
+15 4194307 0 1025
+350 0 0 0
+1 5 30000
+A
+17 -60
+A
+19 4
+A
+12 -10
+A
+14 -25
+#20513
+obj 1st key~
+32767
+1st key~
+1st key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20514
+obj 2nd key~
+100
+2nd key~
+2nd key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20515
+obj 3rd key~
+100
+3rd key~
+3rd key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20516
+obj 4th key~
+100
+4th key~
+4th key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20517
+obj 5th key~
+100
+5th key~
+5th key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20518
+obj 6th key~
+100
+6th key~
+6th key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20519
+obj 7th key~
+100
+7th key~
+7th key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20520
+obj 8th key~
+100
+8th key~
+8th key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20521
+obj 9th key~
+100
+9th key~
+9th key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20522
+obj 10th key~
+100
+10th key~
+10th key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20523
+obj 11th key~
+100
+11th key~
+11th key~
+~
+18 0 0 1
+0 1 0 0
+10 5 5000000
+#20524
+obj boogie mans tooth~
+3
+The Boogie Man's Tooth~
+The tooth of El Cu Cuy has begun its descent~
+~
+5 138412050 0 8193
+48280 3 13 11
+1 5 15000
+A
+19 2
+A
+13 -50
+A
+25 99
+#20525
+obj immolation doll~
+5
+A doll of immolation~
+a doll used for immolation lies here on fire.~
+~
+1 4194304 0 65537
+0 0 10 0
+1 5 10000
+A
+39 -1
+A
+29 -1
+A
+28 -1
+A
+19 -2
+#20526
+obj misery greaves soulwound~
+1
+The Greaves of Misery~
+some very odd looking leg plates lies here.~
+~
+9 71307780 1024 33
+50 0 0 0
+1 5 13650
+A
+19 2
+A
+18 1
+#20527
+obj soulwound soul splitter soulsplitter~
+1
+SoulSplitter~
+The fabled SoulSplitter lies here.~
+~
+5 0 0 8193
+12312 4 10 3
+1 5 150000
+A
+25 99
+$~
+#999999

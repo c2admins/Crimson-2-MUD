@@ -1,0 +1,131 @@
+#6301
+obj knife thief's very sharp~
+10
+a very sharp knife~
+A very sharp knife lies here.~
+~
+5 2112 0 8193
+0 6 1 11
+9 1000 1000
+E
+knife~
+A keen knife, very sharp--you could cut the air in two!
+~
+A
+2 2
+A
+18 3
+#6302
+obj hat wizard's~
+10
+a wizard's hat~
+A blue wizard's hat lies here.~
+~
+9 606304 0 17
+6 0 0 0
+5 20000 20000
+E
+hat~
+A hat made of blue cloth.  Ist looks very comfortable.
+~
+A
+3 3
+A
+12 10
+A
+5 -1
+#6303
+obj headress pontiff's~
+10
+a pontiff's headress~
+A white cone-shaped head ornament with religious symbols lies here.~
+~
+9 594016 0 17
+6 0 0 0
+5 20000 20000
+E
+headress~
+A starchy headress worn by powerful secular types.
+~
+A
+4 3
+A
+12 10
+A
+5 -1
+#6304
+obj visor black knight's~
+10
+a black knight's visor~
+A black visor sits here.~
+~
+9 594016 0 17
+6 0 0 0
+5 20000 15000
+E
+visor~
+A visor that protects the head, good for warriors.
+~
+A
+1 1
+A
+5 2
+#6305
+obj sword black platinum weeping~
+1
+&wa &cweeping &Kblack &Wpla&wti&Wnum &Ksword&n~
+A black platinum sword lies here, shedding silent tears in the wind.~
+slash~
+5 26690 32 8193
+3072 3 10 3
+10 1500000 100000
+A
+18 2
+A
+19 2
+#6306
+obj shotgun shot gun sawed off~
+1
+a sawed off shotgun~
+a shotgun lays here.~
+~
+5 65 0 8193
+0 3 3 8
+2 5 5
+A
+18 3
+A
+19 3
+#6307
+obj tree~
+1
+a rather large tree~
+A rather large tree stands innocently here.~
+~
+5 70 0 8193
+0 1 1 1
+6 5 5
+#6308
+obj carved wooden key~
+2
+a carved wooden key~
+A large key carved from wood has been left here.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 10000000
+#6309
+obj ki-rin horn~
+5
+&WHor&wn o&yf &Ythe &yK&wi-&WRin&n~
+A large, straight horn lies here, glowing with divine power.~
+~
+5 134351872 16 8193
+524288 6 5 11
+4 500000 5
+A
+19 3
+A
+18 1
+$~
+#999999

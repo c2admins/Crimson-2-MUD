@@ -1,0 +1,255 @@
+#17800
+Path up a hill.~
+You are on a path up a hill.
+~
+103 8 0 1 99 4
+D0
+The path continues.
+~
+~
+0 -1 17801
+S
+#17801
+Path up a hill.~
+You are on a path up a hill.
+~
+103 8 0 1 99 4
+D0
+The path continues.
+~
+~
+0 -1 17802
+D2
+The path continues.
+~
+~
+0 -1 17801
+S
+#17802
+Path up a hill.~
+You are on a path up a hill.
+~
+103 8 0 1 99 4
+D2
+The path continues.
+~
+~
+0 -1 17801
+D3
+The path continues.
+~
+~
+0 -1 17803
+S
+#17803
+Path up a hill.~
+You are on a path up a hill.
+~
+103 8 0 1 99 4
+D2
+The path continues.
+~
+~
+0 -1 17802
+D3
+The path continues.
+~
+~
+0 -1 17804
+S
+#17804
+Path up a hill.~
+You are on a path up a hill.
+~
+103 8 0 1 99 1
+D1
+The path continues.
+~
+~
+0 -1 17803
+D3
+The path continues.
+~
+~
+0 -1 17805
+S
+#17805
+Path up a hill.~
+You are on a path up a hill.
+~
+103 8 0 1 99 4
+D1
+The path continues.
+~
+~
+0 -1 17804
+D2
+The path continues.
+~
+~
+0 -1 17806
+S
+#17806
+By a hole.~
+You are standing by a hole in the side of the hill.
+~
+103 8 0 1 99 1
+D0
+The path continues.
+~
+~
+0 -1 17805
+D1
+A tunnel.
+~
+~
+0 -1 17811
+D2
+The path continues.
+~
+~
+0 -1 17807
+S
+#17807
+Path up a hill.~
+You are on a path up a hill.
+~
+103 8 0 1 99 4
+D0
+The path continues.
+~
+~
+0 -1 17806
+D1
+The path continues.
+~
+~
+0 -1 17808
+S
+#17808
+Path up a hill.~
+You are on a path up a hill.
+~
+103 8 0 1 99 4
+D1
+The path continues.
+~
+~
+0 -1 17809
+D3
+The path continues.
+~
+~
+0 -1 17807
+S
+#17809
+Path up a hill.~
+You are on a path up a hill.
+~
+103 8 0 1 99 4
+D0
+The path continues.
+~
+~
+0 -1 17810
+D3
+The path continues.
+~
+~
+0 -1 17808
+S
+#17810
+Entrance to a burned down mansion.~
+You are standing by the entrance to a burned down mansion.
+~
+103 8 0 1 99 4
+D2
+The path continues.
+~
+~
+0 -1 17809
+S
+#17811
+Inside a tunnel.~
+You are walking in a dirt tunnel, you see a small hint of light
+further down the tunnel.
+~
+103 8 0 0 99 0
+D1
+A tunnel.
+~
+~
+0 -1 17812
+D3
+A path up the hill.
+~
+~
+0 -1 17806
+S
+#17812
+Inside a tunnel.~
+You are walking in a dirt tunnel, you see a small hint of light
+further down the tunnel.
+~
+103 8 0 0 99 0
+D1
+A tunnel.
+~
+~
+0 -1 17813
+D3
+A tunnel.
+~
+~
+0 -1 17811
+S
+#17813
+Inside a tunnel.~
+You are walking in a dirt tunnel, you see a small hint of light
+further down the tunnel. There is a small hole leading into a room
+to the north.
+~
+103 8 0 0 99 0
+D0
+A room.
+~
+~
+0 -1 17814
+D1
+A tunnel.
+~
+~
+0 -1 17815
+D3
+A tunnel.
+~
+~
+0 -1 17812
+S
+#17814
+A room.~
+You are in a room that is well lit by a candle. There is a bed and
+small table, and a lovely lady sitting in a chair in the corner.
+~
+103 8 0 0 99 0
+D2
+A tunnel.
+~
+~
+0 -1 17813
+S
+#17815
+Inside a tunnel.~
+You are walking in a dirt tunnel, you see a small hint of light
+further down the tunnel. There is a small hole leading into a room
+to the south.
+~
+103 8 0 0 99 0
+D3
+A tunnel.
+~
+~
+0 -1 17813
+S
+$~
+#999999

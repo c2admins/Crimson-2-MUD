@@ -1,0 +1,39 @@
+#5880
+obj cloak dementor~
+15
+&KThe Dementor's Cloak&n~
+A rugged cloak is lying on the ground.~
+~
+9 516 8 1025
+0 0 0 0
+1 10000 100
+A
+24 -1
+A
+12 15
+A
+26 -1
+#5881
+obj dark mark~
+15
+&KThe D&ra&Krk M&wa&Krk&g~
+The Dark Lord's mark floats above you.~
+~
+9 4 1032 4097
+0 0 0 0
+1 10000 100
+A
+18 1
+A
+19 2
+#5882
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+5 0 0 1
+0 0 0 0
+1 5 5
+$~
+#999999

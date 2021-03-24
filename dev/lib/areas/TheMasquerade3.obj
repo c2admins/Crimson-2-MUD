@@ -1,0 +1,106 @@
+#20400
+obj altar~
+100
+the altar of the ancients~
+&WThe Altar of the Ancients&n~
+~
+15 0 0 0
+500000 15 20533 0
+1 5 1000000
+#20401
+obj rusted key~
+100
+&ya rusted key&n~
+&ya rusted key&n~
+~
+18 262144 0 1
+0 1 0 0
+1 5 5
+#20402
+obj ilithyri velve~
+5
+&pAn Ilithyri Velve&n~
+&pa strange weapon of drow craftsmanship lies here&n~
+~
+5 4200964 0 8193
+1056 6 6 11
+10 50000 35000
+A
+18 3
+A
+13 20
+#20403
+obj ilithyri eluguth~
+5
+&pan Ilithyri Eluguth&n~
+&pa strange weapon of drow craftsmanship lies here&n~
+~
+5 4200964 0 8193
+1 7 7 2
+15 50000 35000
+A
+19 1
+A
+18 2
+A
+12 -25
+A
+37 -1
+#20404
+obj cloak adamantium weave~
+1
+&wan &Kebony cloak &wwith an &Wad&wa&Kmant&wi&Wum &Kweave&n~
+&pa strange cloak covered in drow runes&n~
+~
+9 71305732 0 5
+20 0 0 0
+5 50000 35000
+A
+19 4
+A
+18 1
+A
+13 -10
+#20405
+obj suit protection mail~
+3
+&pa Suit of Ilithyri Protection Mail&n~
+&pa strange suit of mail lies here, seemingly made of webbing&n~
+~
+9 4196864 0 9
+80 0 0 0
+45 50000 35000
+A
+19 2
+A
+18 1
+A
+41 1
+A
+12 -25
+#20406
+obj adamantium whip~
+7
+&pan &gadamantium&p whip&n~
+&pa whip belonging to an overseer rests here&n~
+~
+5 4196864 0 8193
+2 6 6 2
+30 1750000 35000
+#20407
+obj boulder~
+100
+&pA Large Boulder&n~
+&pA Large Boulder rests here blocking the entrance&n~
+~
+16 0 0 0
+0 0 10 0
+1 5 5
+E
+boulder large~
+&CHi there, being as you were smart enough to look at this, I'm willing to say hi to you.  I made this zone essentially for exp and gold, I figured we needed something like that.
+As a result, there arent look descriptions for alot of rooms, but never fear, there aren't any death traps.  In other words, don't bitch about the descs, or I'll kick yer ass.
+-Tsume
+~
+$~
+#999999

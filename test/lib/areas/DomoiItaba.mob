@@ -1,0 +1,372 @@
+#5700
+mob kata itaba worker young~
+a young Kata Itaba~
+A young Kata Itaba is going about his duties.
+~
+The Kata Itaba are a group of workers in the Itaba society.  This young worker
+will be lucky if he survives to become an experienced worker as life under
+ground is never easy.  His tough outer shell is more of a hindrance than a
+help for the job at hand but his extra feelers, legs, and eyes help his
+cause significantly.
+~
+16777224 1 136249361 0 -300 S
+10 29 34 20d5+70 4d3+2
+700 3100
+8 8 1
+0 0 16 18 16 16 15 13
+#5701
+mob kata itaba experienced worker~
+an experienced Kata Itaba~
+An experienced Kata Itaba works here.
+~
+This experienced Kata Itaba is a worker who has been at his job for a long
+time, long enough to gain the experience necessary to survive life in the
+tunnels.  His shell is worn with age and his eyes are wary with experience
+from all of his time in this buffer zone between the rest of the world and
+his underground world.
+~
+8 1 136249361 0 -350 S
+11 28 32 20d6+70 4d3+4
+880 3400
+8 8 1
+0 0 16 18 14 16 13 11
+#5702
+mob tralent itaba wimpy soldier~
+a wimpy Tralent Itaba~
+A wimpy Tralent Itaba, soldier of the community, cringes here.
+~
+The cringing example of defense before you is surely not the be all and end
+all of Itaban defense.  Do not assume that because he is so easy, all will
+be that way.
+~
+8 1 136249361 0 -400 S
+12 27 32 20d8+75 4d4+4
+950 3695
+8 8 1
+0 0 17 17 15 16 15 12
+#5703
+mob tralent itaba strong soldier~
+a strong Tralent Itaba~
+A strong Tralent Itaba, soldier of the community, struts his stuff.
+~
+This defender impresses you mightily with his strength.  Unless you are a
+skilled challenger, you may want to reconsider challenging his authority.
+~
+8 1 136249361 0 -450 S
+13 26 30 20d10+75 4d3+8
+1095 4050
+8 8 1
+0 0 17 17 15 16 15 11
+#5704
+mob tralent itaba tough soldier~
+a tough Tralent Itaba~
+A tough Tralent Itaba, soldier of the community, glares at you.
+~
+A tough defender of the underground community, this Tralent Itaba leers
+at your puny facade of danger.
+~
+8 1 136249361 0 -500 S
+14 25 29 23d10+75 5d3+8
+2400 4310
+8 8 1
+0 0 16 17 15 16 13 15
+#5705
+mob entan dedicated defender~
+a dedicated Entan Itaba~
+A dedicated defender, this Entan Itaba stands his ground.
+~
+The true defenders of the colony, these defenders put up more of a fight
+than those you have previously faced in these caverns.  The Entan Itaba
+you look at is deeply dedicated to its duty here.
+~
+8 1 136249361 0 -550 S
+15 25 28 25d10+85 5d3+10
+3350 4650
+8 8 1
+0 0 16 16 14 16 13 13
+#5706
+mob entan trained defender~
+a trained Entan Itaba~
+An Entan Itaba, a highly trained defender, stands here looking daunting.
+~
+Some Entan Itaba you will find tougher to fight than others.  This highly
+trained individual will challenge your might.
+~
+8 1 136249361 0 -600 S
+16 24 27 30d10+85 5d4+10
+4050 4900
+8 8 1
+0 0 17 17 14 16 15 15
+#5707
+mob entan elite defender~
+an elite Entan Itaba~
+An elite Entan Itaba holds his ground as the finest defender of the realm.
+~
+As an elite member of the Entan Itaba, Domoi Itaba's true defense force, this
+creepy creature was built to prevent you from harming its homeland.  Go too
+far and beware its wrath!
+~
+8 1 136249361 0 -650 S
+17 23 26 20d20+90 5d5+10
+4300 5250
+8 8 1
+0 0 16 18 15 16 13 15
+#5708
+mob tannel young breeder~
+a young Tannel Itaba~
+A young breeder, this Tannel Itaba has many producing years left.
+~
+This young breeder sits with her brood not knowing how to defend herself or
+her offspring.  However, do not overlook motherly instinct if you attempt to
+hurt her or her babes.
+~
+520 1 136249361 0 -700 S
+18 22 26 20d20+90 5d6+10
+4300 5600
+8 8 2
+0 0 17 15 14 16 15 13
+#5709
+mob tannel prolific breeder~
+a prolific Tannel Itaba~
+This Tannel Itaba is a prolific breeder in the prime of her life.
+~
+This prime breeder knows she is the heart of the continuation of her
+breed.  She will defend herself and her brood with the knowledge and
+experience of her position.
+~
+520 1 136249361 0 -750 S
+19 21 25 20d25+90 6d6+10
+4550 6000
+8 8 2
+0 0 17 15 14 16 14 12
+#5710
+mob tannel old breeder~
+an old Tannel Itaba~
+An old Tannel Itaba rests here, most of her breeding years behind her.
+~
+The older Tannel Itaba have passed their years for breeding.  Their hearts
+and souls go into protecting the broods of younger Tannel Itaba and assuring
+the continuation of their species.
+~
+520 1 136249361 0 -800 S
+20 20 24 40d25+1000 6d6+13
+4800 61000
+8 8 2
+0 0 17 18 15 14 12 13
+#5711
+mob selren lower noble~
+a lower Selren Itaba~
+This Selren Itaba is a wary lower noble.
+~
+The lower nobles of the Itaba court stand wary around their companions.  They
+will do anything to better their position in the nobility and so they
+must keep an open eye and an open mind to be prepared for any opportunities
+that might present themselves.
+~
+262152 1 136249361 0 -850 S
+21 19 24 35d35+1020 5d6+18
+9000 61000
+8 8 0
+0 0 16 18 15 15 15 13
+#5712
+mob selren general noble~
+a general Selren Itaba~
+The general Selren Itaba are nobles welcomed by all and feared by none.
+~
+The general Selren Itaba are thankful that they are not amongst the lower
+nobles but they are not so thankful that they do not constantly preen
+themselves for higher ranks in society and they are prepared to do
+anything necessary to achieve them.
+~
+262152 1 136249361 0 -900 S
+22 18 23 40d35+1030 6d7+13
+11500 64000
+8 8 0
+0 0 16 18 14 15 14 12
+#5713
+mob selren upper noble~
+an upper Selren Itaba~
+A Selren Itaba of the upper nobility looks down its nose at you.
+~
+The upper nobles of the Itaba have lied, fought, cheated, and killed their
+way to the top.  Do not think for a moment that they will not do the same
+to you if given half a chance.
+~
+262152 1 136249361 0 -950 S
+23 17 22 45d35+1050 7d7+12
+14500 66000
+8 8 0
+0 0 17 16 14 15 14 11
+#5714
+mob yeinta jester~
+Yeinta the jester~
+Yeinta the jester is the only one brave enough to approach the King and Queen.
+~
+Yeinta the jester is a brave and foolish soul.  All others tread a wide path
+around the king and queen, both known for nasty moods and impulsive murders.
+He jests and he jests his way around but how long will the king and queen
+tolerate his foolishness?
+~
+262152 1 136249361 0 -1000 S
+24 16 19 45d35+1300 8d7+14
+17000 74000
+8 8 1
+0 0 17 17 16 16 13 11
+#5715
+mob king itaba~
+King of the Itaba~
+The King of the Itaba presides ill-naturedly over the proceedings.
+~
+The King of the Itaba is an ornery old bastard who knows not the fathers
+of his offspring.  He merely awaits the day when the Queen loses faith and
+the crowd rushes in to tear down the gates and declare what was his he
+stole from someone else.
+~
+262154 1 136249361 0 -1000 S
+25 15 18 45d40+1300 9d6+17
+20000 77000
+8 8 0
+0 0 17 17 15 14 13 15
+#5716
+mob queen itaba~
+Queen of the Itaba~
+The Queen of the Itaba watches her pet, the king, pretend to be important.
+~
+The Queen of the Itaba knows who wears the pants in this society.  The entire
+community rallies around her word alone and with even a single word she
+could rule alone.  She sits her throne and lets him play King until
+his usefulness to her is through.
+~
+262154 1 136249361 0 -1000 S
+28 14 10 45d40+1600 8d9+18
+27500 87000
+8 8 0
+0 0 16 15 15 16 14 13
+#5717
+mob juvenile itaba~
+timid juvenile Itaba~
+A timid juvenile Itaba is here waiting to go out into the world.
+~
+This young Itaba is just waiting to develop enough to see what class it
+will ultimately belong in with dreams of nobility and fears of slavery.
+~
+8 1 136249361 0 -400 S
+10 29 35 15d10+38 3d2+6
+700 3000
+8 8 0
+0 0 16 18 16 16 15 12
+SKILL=SPELL_ELSEWHERE 99
+#5718
+mob juvenile itaba~
+timid juvenile Itaba~
+A timid juvenile Itaba is here, learning about lands other than his own.
+~
+This young Itaba is just waiting to develop enough to see what class it
+will ultimately belong in with dreams of nobility and fears of slavery.
+~
+8 32769 136249361 0 -450 S
+11 28 34 15d10+48 3d3+6
+800 3300
+8 8 0
+0 0 17 16 16 16 15 15
+#5719
+mob slave itaba~
+an Itaba slave~
+This Itaba has recently been forced into slavery.
+~
+This Itaba, recently forced into slavery, knows not what to do with itself.
+All abuse it and use it for their own ends and none care whether it lives
+or dies.
+~
+8 1 136249361 0 -500 S
+7 30 36 10d5+12 3d3+2
+300 220
+8 8 0
+0 0 16 16 15 14 13 14
+#5720
+mob slave itaba~
+an Itaba slave~
+This Itaba slave is learning the ropes quickly.
+~
+This Itaba slave has been in its position long enough to know when to cringe,
+when to jump, and when to disappear.  There is at least a chance that it will
+survive in its new capacity in the Itaba community.
+~
+8 1 136249361 0 -550 S
+8 30 36 10d5+17 3d3+3
+325 260
+8 8 0
+0 0 16 18 14 14 12 11
+#5721
+mob slave itaba~
+an Itaba slave~
+A hardened Itaba slave awaits commands.
+~
+This Itaba slave has been a slave for longer than you can imagine.  It knows
+its position so well that it can bring any greater Itaba around to its way
+of thinking without even leaving its crouching stance.  This is what happens
+to all Itaba who do not fit into the community eventually.
+~
+8 1 136249361 0 -600 S
+9 30 35 10d7+20 3d3+5
+350 300
+8 8 0
+0 0 17 17 15 14 14 15
+#5722
+mob vermin musty~
+musty vermin~
+The musty vermin obviously give the place its general aura.
+~
+It is hard to tell whether the tunnels formed the vermin of the vermin
+formed the tunnels.  One thing is certain, this vermin certainly belongs
+here.
+~
+8 1 136249361 0 -600 S
+12 27 32 17d15+22 4d3+5
+1000 3600
+8 8 0
+0 0 17 18 16 16 15 12
+#5723
+mob vermin musty~
+musty vermin~
+The musty vermin obviously give the place its general aura.
+~
+It is hard to tell whether the tunnels formed the vermin of the vermin
+formed the tunnels.  One thing is certain, this vermin certainly belongs
+here.
+~
+8 1 136249361 0 -600 S
+15 25 29 22d15+35 5d5+4
+3300 4500
+8 8 0
+0 0 16 15 16 14 14 13
+#5724
+mob vermin musty~
+musty vermin~
+The musty vermin obviously give the place its general aura.
+~
+It is hard to tell whether the tunnels formed the vermin of the vermin
+formed the tunnels.  One thing is certain, this vermin certainly belongs
+here.
+~
+8 1 136249361 0 -600 S
+18 22 26 35d15+23 7d5+4
+4500 5400
+8 8 0
+0 0 17 17 14 15 15 13
+#5725
+mob vermin musty~
+musty vermin~
+Not even musty vermin can ruin this place.
+~
+It is hard to tell whether the tunnels formed the vermin of the vermin
+formed the tunnels.  One thing is certain, this vermin certainly belongs
+here.
+~
+8 1 136249361 0 -600 S
+21 19 23 50d25+1030 5d5+19
+7500 63000
+8 8 0
+0 0 17 17 14 14 12 12
+$~
+#999999

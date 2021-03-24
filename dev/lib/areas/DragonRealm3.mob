@@ -1,0 +1,407 @@
+#13900
+mob gate guard~
+A gate guard~
+A gate guard is standing here watching you carfully.
+~
+The guard stares at you wondering what you are doing here and demands to know
+your name. He seems a bit tall, even for a dragon-kin, and has the look in his
+eye to kill anyone at anytime.
+~
+4194312 32769 136249361 68 1000 S
+25 15 18 25d19+2000 5d5+10
+16000 78325
+8 8 0
+0 0 18 19 17 15 14 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#13901
+mob guard captain~
+The Captain of the guard.~
+The Captain of the guard is here looking at a list of names.
+~
+The large bronze dragon towers above you wearing the captian of the guard
+uniform. He glances at a list of names and looks at you asking yours.
+~
+4203018 32769 136249361 67109000 1000 S
+30 13 5 73d19+1000 5d5+18
+30000 184650
+8 8 0
+0 1 11 11 9 9 7 6
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_LIGHTNING_BREATH 35
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#13902
+mob dragon maid~
+A Dragon-kin maid~
+A beautiful Dragon-kin maid is here cleaning up the castle.
+~
+You see a beautiful young dragon-kin woman cleaning up the castle. She 
+stops and looks at you and flashes a quick smile that seems not to have
+been there at all.
+~
+4194316 557057 136249361 0 500 S
+15 25 29 15d9+120 4d5+5
+3000 4395
+8 8 2
+11 5 10 17 14 18 11 21
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#13903
+mob dragon kin noble~
+A Dragon-kin Noble~
+A Dragon-kin Noble is here awaiting an audience with the king.
+~
+The nobleman looks at you looking at him wondering if he should call a guard
+or kill you himself.
+~
+4194568 32769 136249361 67108864 500 S
+33 10 -4 90d19+3000 4d10+15
+70000 196975
+8 8 1
+11 4 20 10 9 15 19 21
+SKILL=SKILL_EXTRA_DAMAGE 35
+SKILL=SKILL_SCALES 70
+SKILL=SPELL_FROST_BREATH 56
+SKILL=SKILL_SECOND 40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#13904
+mob dragon butler~
+a dragon-kin butler~
+A dragon-kin butler is here servicing the king.
+~
+You see a middle aged dragon-kin running around trying to get a million
+things done to prepare for the night's feativities. He takes one glance
+at you and hurries off to his duties.
+~
+4194568 557057 136249361 8192 1000 S
+20 20 24 15d29+1300 3d3+2
+5000 62135
+8 8 1
+11 5 10 17 14 18 18 15
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_SCALES 70
+SKILL=SPELL_GAS_BREATH 40
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 20
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#13905
+mob dragon chef~
+The Head Dragon-Kin Chef~
+The Head Chef is running around here making sure everything is cooked perfectly.
+~
+You see the Head Chef running around the kitchen tasting all of the food,
+and making sure everything is getting done and cooked perfectly. You look
+longingly at the delisious food and get a glare and warning wave of his ladel.
+~
+4202506 1 136249361 8196 1000 S
+25 15 18 8d19+2000 2d3+4
+16450 76325
+8 8 1
+11 7 19 18 18 18 16 14
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 40
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=106
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+#13906
+mob cook dragon~
+A Dragon-Kin Cook~
+A Dragon-Kin cook is running around trying to get everything done.
+~
+You see a young dragon-kin cook running around the kitchen and store rooms
+trying to get everything done for the night's feast.  He darts around you
+almost knocking you over as he flees trying to avoid the whack of the head 
+chef, and gives you a slight glare for getting in the way.
+~
+4194568 557057 136249361 8192 1000 S
+15 25 29 40d7+50 2d4+3
+3000 4545
+8 8 1
+11 4 20 17 14 18 18 15
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_SCALES 70
+SKILL=SPELL_GAS_BREATH 40
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 20
+#13907
+mob guard king~
+the King's Guard~
+A tough looking guard is here protecting the king.
+~
+A rather large looking guard stares at you with such intensity you
+want to turn around and go back. Only your desire to see the king
+himslef drives you forward. The guard reaches for his sword and you
+decide now is the best time to leave.
+~
+8202 32769 136249361 204 1000 S
+29 14 8 35d19+1000 3d3+3
+28500 92475
+8 8 1
+0 0 18 19 17 15 19 13
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=103
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+#13908
+mob gold dragon guard~
+a Gold Dragon Guard~
+A large gold dragon is here protecting the king
+~
+You see an enourmous gold dragon standing here watching you with a most careful
+eye. He is one of the most beautiful creatures you have ever met, but when
+you look into his eyes you realize he is also one of the most dangerous
+and realize it's time to move on with your adventure.
+~
+270858 1 136249361 8320 1000 S
+31 12 2 80d19+1000 5d3+7
+40000 188888
+8 8 1
+11 4 19 20 18 18 17 16
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 40
+SKILL=SKILL_HUNT 90
+ATTACK_SKILL=90
+ATTACK_SKILL=60
+ATTACK_SKILL=20
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+#13909
+mob bahamut king platinum dragon~
+King Bahamut~
+King Bahamut is sitting here in his throne watching you carfully
+~
+You see an elderly dragon king. The most beautiful creature you have ever
+seen. The most powerful of dragons. The platinum dragon, King Bahamut.
+He sits in his throne ruling his kingdom, relying on his guards to 
+protect him. He looks to be also the wisest creature you ever met, and
+someone who doesn't need guards.
+~
+4456458 32769 136249361 537141384 1000 S
+40 3 -22 100d19+6000 4d4+15
+800000 325000
+8 8 1
+11 6 21 20 19 19 19 19
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 50
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 60
+SKILL=SPELL_HEAL_MEDIUM 80
+ATTACK_SKILL=90
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#13910
+mob queen dragon~
+The Queen Dragon~
+The silver dragon, Queen of DragonRealm is laying here napping.
+~
+You see a very beautiful silver dragon laying down here taking her 
+afternoon nap before the night's fesitivities. You see that she is very
+large and decide it best not to disturb her.
+~
+4456458 32769 136249361 1073881224 850 S
+38 5 -18 25d19+4000 4d5+6
+300000 231545
+8 8 0
+11 0 19 20 16 18 18 17
+SKILL=SPELL_HARM 70
+SKILL=SPELL_CAUSE_CRITIC 70
+SKILL=SKILL_EXTRA_DAMAGE 68
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_ACID_BREATH 70
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 80
+SKILL=SKILL_FOURTH 60
+SKILL=SPELL_HEAL_MINOR 70
+ATTACK_SKILL=90
+ATTACK_SKILL=70
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#13911
+mob mage royal~
+the royal mage~
+King Bahamut's Royal mage is wandering around here studying
+~
+You see a youthful looking black dragon-kin who looks mostly human at the
+moment.  He looks to be very knowledgable, expecially since he's always 
+surrounded by books, and always seems to be studying something. You notice
+that at the moment he seems to be studying YOU.
+~
+262152 32769 136249361 8 -300 S
+27 15 14 100d19+1000 6d3+5
+20000 79350
+8 8 1
+11 1 18 16 16 17 14 12
+SKILL=SPELL_BURNING_HANDS 64
+SKILL=SPELL_ENERGY_DRAIN 64
+SKILL=SPELL_FIREBALL 64
+SKILL=SKILL_SCALES 60
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 50
+SKILL=SKILL_HUNT 90
+ATTACK_SKILL=89
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_TYPE=108
+#13912
+mob apprentice mage dragon~
+The Mage's Apprentice~
+The Mage's Apprentice is standing here helping his teacher
+~
+You see a very young looking black dragon standing here dressed in all
+black. He has a fire in his eyes and casting his black magic spells.
+He looks to be the sort that would do anything for his teacher, including
+die for him.
+~
+262666 32769 136249361 1073741960 -1000 S
+24 16 20 50d19+450 5d9+15
+15000 71355
+8 8 1
+1 1 18 17 18 16 14 13
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+#13913
+mob shadow dragon mage~
+The Shadow Dragon~
+The Shadow Dragon Mage is here teaching his pupil
+~
+You see and extremly powerful and large dragon standing here teaching his
+pupil. Or do you?  You can almost see right through him, as if he were
+almost merely a shadow.
+~
+4456458 1 136249361 138 -1000 S
+42 1 -26 50d19+8000 8d9+10
+920000 500000
+8 8 1
+11 11 22 23 21 20 17 20
+SKILL=SPELL_SUMMON 89
+SKILL=SKILL_EXTRA_DAMAGE 70
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 60
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 80
+SKILL=SKILL_FOURTH 40
+SKILL=SKILL_HUNT 90
+#13914
+mob tiamat chromatic dragon~
+&xT&xi&xa&xm&xa&xt&n, the Chromatic Dragon~
+Tiamat the Queen of all that is evil is standing here watching you
+~
+You see the Chromatic dragon, Tiamat here. Queen of evil. Her 5 heads 
+looking in every direction at once, you don't think it'd be wise to
+mess with her.
+~
+1078198286 2129921 136249361 372244616 -1000 S
+50 -30 -40 100d100+60000 25d30+100
+6500000 2500000
+8 8 2
+0 4 21 23 19 19 19 19
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 70
+SKILL=SPELL_ACID_BREATH 70
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 90
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=35
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+$~
+#999999

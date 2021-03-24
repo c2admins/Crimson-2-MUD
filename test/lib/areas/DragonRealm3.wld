@@ -1,0 +1,2008 @@
+#13900
+Drawbridge~
+You walk across the drawbridge over the moat. You look at the huge castle
+in amazement of the fine contruction and intricate details of the decorative
+carvings all along the castle walls. You glance at the moat thinking you
+saw something move but decide it was just your imagination.
+~
+59 12 0 1 99 1
+D0
+the castle entrance ahead.
+~
+gate~
+1 -1 13901
+D2
+~
+~
+0 -1 2250
+S
+#13901
+Castle Entrance~
+You walk into the castle entrance, in even more awe of the beauty of the
+castle. from here you look into the castle court where many paintings
+and tapestries and sculptures. To the east and west you see the guard 
+towers.  A guard pokes his head out of the west tower and asks you to 
+identify yourself.
+~
+59 8 0 1 99 1
+D0
+the castle court.
+~
+door~
+1 13900 13904
+D1
+the east guard tower.
+~
+~
+0 -1 13902
+D2
+the drawbridge leading out of the castle.
+~
+gate~
+1 -1 13900
+D3
+the west guard tower.
+~
+~
+0 -1 13903
+S
+#13902
+East Guard Tower~
+You walk into the guard tower, and see about what you would expect, a long
+table with the guards gathered around playing cards. On the west wall near
+the door you see a list of names of people not to admit into the castle.
+~
+59 8 0 1 99 1
+D3
+the castle entrance.
+~
+~
+0 -1 13901
+D4
+nothing special
+~
+~
+0 -1 13948
+S
+#13903
+West Guard Tower~
+You wander into the guard tower and see the guards standing about trying to
+look busy since the head guard is there. You get a few sharp looks from some
+guards for entering the tower. The head guard comes up to you and demands
+to know your name while he looks at his list of people not to allow in the
+castle.
+~
+59 136 0 1 99 0
+D1
+the castle entrance.
+~
+~
+0 -1 13901
+D4
+nothing special.
+~
+~
+0 -1 13947
+S
+#13904
+The Castle Court~
+You wander into the front of the castle's court. Looking around you see
+a few of the city's nobleman hobnobing about the castle trying to look 
+importnt to the citizens there to have audience with the king.  You see
+the guards and knights wandering about as well.  You can't believe your
+eyes that the legends of an entire kingdom of dragons and dragon-kin.
+And looking at all the fine art work, you know they weren't always a 
+band of warriors.
+~
+59 12 0 1 99 1
+D0
+more of the court.
+~
+~
+0 -1 13905
+D1
+more of the court.
+~
+~
+0 -1 13906
+D2
+you see the castle entrance.
+~
+~
+0 -1 13901
+D3
+more of the court.
+~
+~
+0 -1 13912
+S
+#13905
+Center Court~
+You walk into the center of the Castle's Court and look around in each 
+direction at the people husstling about and the elaborate and intricute
+stone work of the structure. Here in the center is a fountain and some benches
+for people to sit and rest a while.
+~
+59 8 0 1 99 1
+D0
+more of the court.
+~
+~
+0 -1 13909
+D1
+more of the court.
+~
+~
+0 -1 13907
+D2
+more of the court.
+~
+~
+0 -1 13904
+D3
+more of the court.
+~
+~
+0 -1 13911
+S
+#13906
+The Castle Court~
+You wander more around the court at all the fine artwork. Farther to the
+north you see a long grand hall way that could only lead to the throne room.
+To the west come the sweet aroma that could only come from the royal kitchen.
+To the east is a hallway with the doors shut. You notice the guards and 
+knights giveing you uneasy glances, for you are a stranger in their castle.
+~
+59 8 0 1 99 1
+D0
+more of the court.
+~
+~
+0 -1 13907
+D3
+more of the court.
+~
+~
+0 -1 13904
+S
+#13907
+The Castle Court~
+You wander more around the court at all the fine artwork. Farther to the
+north you see a long grand hall way that could only lead to the throne room.
+To the west come the sweet aroma that could only come from the royal kitchen.
+To the east is a hallway with the doors shut. You notice the guards and 
+knights giveing you uneasy glances, for you are a stranger in their castle.
+~
+59 8 0 1 99 1
+D0
+more of the court.
+~
+~
+0 -1 13908
+D1
+a small hallway.
+~
+door~
+1 -1 13926
+D2
+more of the court.
+~
+~
+0 -1 13906
+D3
+more of the court.
+~
+~
+0 -1 13905
+S
+#13908
+The Castle Court~
+You wander more around the court at all the fine artwork. Farther to the
+north you see a long grand hall way that could only lead to the throne room.
+To the west come the sweet aroma that could only come from the royal kitchen.
+To the east is a hallway with the doors shut. You notice the guards and 
+knights giveing you uneasy glances, for you are a stranger in their castle.
+~
+59 8 0 1 99 1
+D2
+more of the court.
+~
+~
+0 -1 13907
+D3
+more of the court.
+~
+~
+0 -1 13909
+S
+#13909
+The Castle Court~
+You wander more around the court at all the fine artwork. Farther to the
+north you see a long grand hall way that could only lead to the throne room.
+To the west come the sweet aroma that could only come from the royal kitchen.
+To the east is a hallway with the doors shut. You notice the guards and 
+knights giveing you uneasy glances, for you are a stranger in their castle.
+~
+59 12 0 1 99 1
+D0
+a large decorative hallway.
+~
+~
+0 -1 13913
+D1
+more of the court.
+~
+~
+0 -1 13908
+D2
+more of the court.
+~
+~
+0 -1 13905
+D3
+more of the court.
+~
+~
+0 -1 13910
+S
+#13910
+The Castle Court~
+You wander more around the court at all the fine artwork. Farther to the
+north you see a long grand hall way that could only lead to the throne room.
+To the west come the sweet aroma that could only come from the royal kitchen.
+To the east is a hallway with the doors shut. You notice the guards and 
+knights giveing you uneasy glances, for you are a stranger in their castle.
+~
+59 8 0 1 99 1
+D1
+more of the court.
+~
+~
+0 -1 13909
+D2
+more of the court.
+~
+~
+0 -1 13911
+S
+#13911
+The Castle Court~
+You wander more around the court at all the fine artwork. Farther to the
+north you see a long grand hall way that could only lead to the throne room.
+To the west come the sweet aroma that could only come from the royal kitchen.
+To the east is a hallway with the doors shut. You notice the guards and 
+knights giveing you uneasy glances, for you are a stranger in their castle.
+~
+59 8 0 1 99 1
+D0
+more of the court.
+~
+~
+0 -1 13910
+D1
+more of the court.
+~
+~
+0 -1 13905
+D2
+more of the court.
+~
+~
+0 -1 13912
+D3
+a small hallway
+~
+~
+1 -1 13935
+S
+#13912
+The Castle Court~
+You wander more around the court at all the fine artwork. Farther to the
+north you see a long grand hall way that could only lead to the throne room.
+To the west come the sweet aroma that could only come from the royal kitchen.
+To the east is a hallway with the doors shut. You notice the guards and 
+knights giveing you uneasy glances, for you are a stranger in their castle.
+~
+59 8 0 1 99 1
+D0
+more of the court.
+~
+~
+0 -1 13911
+D1
+more of the court.
+~
+~
+0 -1 13904
+S
+#13913
+The North Hall~
+You wander down this long ornamental hallway, statues and paintings as
+beautiful as you could imagine. Up ahead, farther north you see dragon
+kin standing guard. you peek past them into the throne room and barely
+make out King Bahamut. His large size at such a distance startles you.
+The guards shift uneasily as you come near.
+~
+59 12 0 1 99 1
+D0
+a large decorative hallway.
+~
+~
+0 -1 13914
+D1
+what appear to be guards chambers.
+~
+door~
+1 13901 13917
+D2
+the castle court.
+~
+~
+0 -1 13909
+D3
+what seem to be the guard's chambers.
+~
+door~
+13 13901 13919
+S
+#13914
+The North Hall~
+You wander down this long ornamental hallway, statues and paintings as
+beautiful as you could imagine. Up ahead, farther north you see dragon
+kin standing guard. you peek past them into the throne room and barely
+make out King Bahamut. His large size at such a distance startles you.
+The guards shift uneasily as you come near.
+~
+59 8 0 1 99 1
+D0
+a large decorative hallway.
+~
+~
+0 -1 13915
+D1
+what seem to be the guard's chambers.
+~
+door~
+13 13901 13918
+D2
+a large decoraive hallway.
+~
+~
+0 -1 13913
+D3
+what appears to be the guards's chambers.
+~
+door~
+9 13901 13920
+S
+#13915
+The North Hall~
+You wander down this long ornamental hallway, statues and paintings as
+beautiful as you could imagine. Up ahead, farther north you see dragon
+kin standing guard. you peek past them into the throne room and barely
+make out King Bahamut. His large size at such a distance startles you.
+The guards shift uneasily as you come near.
+~
+59 8 0 1 99 1
+D0
+a large decorative hallway.
+~
+~
+0 -1 13916
+D2
+a large decorative hallway.
+~
+~
+0 -1 13914
+S
+#13916
+The Royal Foyer~
+You walk into the royal foyer, a large waiting room for those waiting to see
+the king. The beauty of the room is dwarfed when you look into the throne room
+to the north. As you look into the throne toom you see an extremely  large
+throne made of the purest gold. And sitting upon the throne is a huge platinum
+dragon, King Bahamut himself. Looking beside the throne, almost looking like
+part of the throne its self are two gold dragons standing guard. As you look
+more closely aroun the foyer at the murals, you see two more gold dragons
+standing in the corners watching you.
+~
+59 8 0 1 99 1
+D0
+the throne room.
+~
+~
+0 -1 13923
+D1
+a small guard room
+~
+~
+0 -1 13922
+D2
+a large decorative hallway.
+~
+~
+0 -1 13915
+D3
+a small guard room.
+~
+~
+0 -1 13921
+S
+#13917
+Guard's Chambers~
+You walk into the guard's chambers, a perfectly clean room and everything in
+order. The size of the beds only remind you of the land you are in. Land
+of the dragons. You get a few startled looks from the dragon kin guards in
+the room.
+~
+59 8 0 1 99 1
+D0
+a long row of beds along the walls
+~
+~
+0 -1 13918
+D3
+a large decorative hallway.
+~
+door~
+1 13901 13913
+S
+#13918
+Guard's Chambers~
+You walk into the guard's chambers, a perfectly clean room and everything in
+order. The size of the beds only remind you of the land you are in. Land
+of the dragons. You get a few startled looks from the dragon kin guards in
+the room.
+~
+59 8 0 1 99 1
+D2
+a long row of beds along the walls.
+~
+~
+0 -1 13917
+D3
+a large decorative hallway.
+~
+door~
+1 13901 13914
+S
+#13919
+Guard's Chambers~
+You walk into the guard's chambers, a perfectly clean room and everything in
+order. The size of the beds only remind you of the land you are in. Land
+of the dragons. You get a few startled looks from the dragon kin guards in
+the room.
+~
+59 8 0 1 99 1
+D0
+beds neatly lined against the walls.
+~
+~
+0 -1 13920
+D1
+a large decorative hallway.
+~
+door~
+13 13901 13913
+S
+#13920
+Guard's Chambers~
+You walk into the guard's chambers, a perfectly clean room and everything in
+order. The size of the beds only remind you of the land you are in. Land
+of the dragons. You get a few startled looks from the dragon kin guards in
+the room.
+~
+59 8 0 1 99 1
+D1
+a large decorative hallway.
+~
+door~
+9 13901 13914
+D2
+beds lined up neatly against the walls.
+~
+~
+0 -1 13919
+S
+#13921
+Guard Room~
+You enter into a small guard room. All about lined on the walls are weapons
+of various sorts. This appears to be the room where th guards sit during
+their breaks for it is also filled with casks and cups and playing cards.
+A few guards look up from their game to watch you.
+~
+59 8 0 1 99 1
+D1
+the royal foyer.
+~
+~
+0 -1 13916
+S
+#13922
+Guard Room~
+You enter a small guard room just before the throne. All about the room
+lined on the walls are weapons of various sorts. Paper work is scattered
+about on the desk, as a guard works diligently to get it done. You notice
+the eyes of a few guards watching you as you look around.
+~
+59 8 0 1 99 1
+D3
+the royal foyer.
+~
+~
+0 -1 13916
+S
+#13923
+Throne Room~
+As you enter the throne room the gold dragons start up toward you drawing 
+their weapons. King Bahamut summons them back to their positions by his side.
+King Bahamut looks at you for a bit before asking "What brings you to my 
+castle?" You slowly tell your tales of adventuring and explain the legends 
+heard about DragonRealm. King Bahamut grins and nods and says "One thing was
+left out of the legends, no one may enter my castle unless they are pure of
+heart." At that he waves a hand and the gold dragons walk toward you, weapons
+drawn.
+~
+59 8 0 1 99 1
+D1
+the royal library.
+~
+door~
+1 -1 13924
+D2
+the royal foyer
+~
+~
+0 -1 13916
+D3
+King Bahamut's private sitting room.
+~
+door~
+1 13900 13925
+S
+#13924
+The Royal Library~
+You enter into the royal library, seeing your friends of an evil heart left
+behind, you realize this is a special room indeed. Books are everywhere the 
+eye can see along the walls and on the tables. One book catches your attention
+as you look around. It sits on a mount all by its self, giving off a soft 
+glow. You walk over to it and see it is the fabled Book of Legends.
+~
+59 1073742572 0 1 99 1
+D3
+the grand throne room.
+~
+~
+0 -1 13923
+S
+#13925
+King Bahamut's Private Room~
+You wander into King Bahamut's private sitting room. All around you see maps
+and books, as well as a large desk and a few chairs and a couch.
+You look out the window at the west side of the castle and see guards training
+and children playing, pretending to be guards. Standing in the oom with you,
+you notice after a bit, is another gold dragon.
+~
+59 12 0 1 99 1
+D1
+the throne room.
+~
+~
+0 -1 13923
+D3
+a room with a golden glow.
+~
+~
+1 -1 13940
+D4
+nothing special.
+~
+~
+0 -1 13952
+S
+#13926
+East Hall~
+You enter into the east hall, not nearly s grand and decorative as all the 
+rest, but beautiful nonetheless. As you look around all you see are the castle
+servents.
+~
+59 8 0 1 99 1
+D1
+a small hallway.
+~
+~
+0 -1 13927
+D2
+Your nerves tingle and you fear entering a closet.
+~
+door~
+1 -1 13930
+D3
+the castle court.
+~
+~
+0 -1 13907
+S
+#13927
+East Hall~
+You enter into the east hall, not nearly s grand and decorative as all the 
+rest, but beautiful nonetheless. As you look around all you see are the castle
+servents.
+~
+59 8 0 1 99 1
+D0
+the Butler's Chambers.
+~
+~
+1 -1 13931
+D1
+a small hallway.
+~
+~
+0 -1 13928
+D2
+the maid's chambers.
+~
+~
+1 -1 13932
+D3
+a small hallway.
+~
+~
+0 -1 13926
+S
+#13928
+East Hall~
+You enter into the east hall, not nearly s grand and decorative as all the 
+rest, but beautiful nonetheless. As you look around all you see are the castle
+servents.
+~
+59 8 0 1 99 1
+D0
+the cook's chambers.
+~
+~
+1 -1 13934
+D1
+a small hallway.
+~
+~
+0 -1 13929
+D2
+the maid's chambers.
+~
+~
+1 -1 13933
+D3
+a small hallway.
+~
+~
+0 -1 13927
+S
+#13929
+East Hall~
+You enter into the east hall, not nearly s grand and decorative as all the 
+rest, but beautiful nonetheless. As you look around all you see are the castle
+servents.
+~
+59 8 0 1 99 1
+D3
+a small hallway.
+~
+~
+0 -1 13928
+S
+#13930
+A Closet~
+You peek into a dark closet filled with brooms and mops when all of the sudden
+the shelves topple on you pinning you to the ground leaving you for dead.
+~
+59 67509384 268435457 1 99 8
+D0
+nothing special.
+~
+~
+0 -1 13926
+S
+#13931
+Butler's Chambers~
+You walk into the butlers chambers and find nothing interesting save for some
+old papers laying around. The walls a stark white and the beds plain if a bit
+large to suit the dragon-kin who sleep in them.
+~
+59 8 0 1 99 1
+D2
+a small hallway.
+~
+~
+1 -1 13927
+S
+#13932
+Maid's Chambers~
+As you walk into this room it seems to be just like the rest on this wing of
+the castle, stark white walls and nothing of interest. A few decorations are
+hung about here and there, and there are windows looking to the beautiful
+landscape outside.
+~
+59 8 0 1 99 1
+D0
+a small hallway.
+~
+~
+1 -1 13927
+D1
+nothing special.
+~
+~
+0 -1 13933
+S
+#13933
+Maid's Chambers~
+As you walk into this room it seems to be just like the rest on this wing of
+the castle, stark white walls and nothing of interest. A few decorations are
+hung about here and there, and there are windows looking to the beautiful
+landscape outside.
+~
+59 8 0 1 99 1
+D0
+a small hallway.
+~
+~
+0 -1 13928
+D3
+nothing special.
+~
+~
+0 -1 13932
+S
+#13934
+Cook's Chambers~
+You walk into another blank white room with nothing except a few tables
+and a lot of papers laying around, obviously some receipies. There is also a
+cuboard in the corner that has some sweet smells comming from it.
+~
+59 8 0 1 99 1
+D2
+a small hallway.
+~
+~
+1 -1 13928
+S
+#13935
+West Hall~
+You wander down the hall, looking at all the tabistries and paintings hanging
+from the wall. This hallway seems as decorative as any other. From down the
+hall a bit you smells the sweet smells of the kitchen and become hungry.
+~
+59 12 0 1 99 1
+D0
+a rather large dining hall.
+~
+~
+0 -1 13941
+D1
+the Castle court.
+~
+~
+0 -1 13911
+D3
+a small hallway
+~
+~
+0 -1 13936
+S
+#13936
+West Hall~
+You wander down the hall, looking at all the tabistries and paintings hanging
+from the wall. This hallway seems as decorative as any other. From down the
+hall a bit you smells the sweet smells of the kitchen and become hungry.
+~
+59 12 0 1 99 1
+D0
+the dining hall.
+~
+~
+0 -1 13942
+D1
+a small hallway
+~
+~
+0 -1 13935
+D2
+the kitchen
+~
+~
+0 -1 13944
+D3
+a small hallway
+~
+~
+0 -1 13937
+S
+#13937
+West Hall~
+You wander down the hall, looking at all the tabistries and paintings hanging
+from the wall. This hallway seems as decorative as any other. From down the
+hall a bit you smells the sweet smells of the kitchen and become hungry.
+~
+59 8 0 1 99 1
+D0
+the dining hall.
+~
+~
+0 -1 13943
+D1
+a small hallway
+~
+~
+0 -1 13936
+D3
+a small hallway
+~
+~
+0 -1 13938
+S
+#13938
+West Hall~
+You wander down the hall, looking at all the tabistries and paintings hanging
+from the wall. This hallway seems as decorative as any other. From down the
+hall a bit you smells the sweet smells of the kitchen and become hungry.
+~
+59 8 0 1 99 1
+D1
+a small hallway
+~
+~
+0 -1 13937
+D3
+a small hallway
+~
+~
+0 -1 13939
+S
+#13939
+West Hall~
+You wander down the hall, looking at all the tabistries and paintings hanging
+from the wall. This hallway seems as decorative as any other. From down the
+hall a bit you smells the sweet smells of the kitchen and become hungry.
+~
+59 8 0 1 99 1
+D1
+a small hallway
+~
+~
+0 -1 13938
+S
+#13940
+Treasure Room~
+You walk into the treasure room, and stare around in disbelief at all the
+gold and silver laying around. there are golden rods and sceptrs, and jewels
+and coins of all shapes sizes and colors. You notice on the far side of the
+room one particular sceptre sitting on it's own stand glowing brightly.
+~
+59 8 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13925
+S
+#13941
+Dining Hall~
+You walk into an elaborate dining hall full of paintings telling tales of days
+past. The servents and cooks go bustling around setting up for the next meal.
+The large strong wood table is all set for the next meal.
+~
+59 8 0 1 99 1
+D2
+a busy hallway.
+~
+~
+0 -1 13935
+D3
+the dining hall.
+~
+~
+0 -1 13942
+S
+#13942
+Dining Hall~
+You walk into an elaborate dining hall full of paintings telling tales of days
+past. The servents and cooks go bustling around setting up for the next meal.
+The large strong wood table is all set for the next meal.
+~
+59 8 0 1 99 1
+D1
+the dining hall
+~
+~
+0 -1 13941
+D2
+a busy hallway.
+~
+~
+0 -1 13936
+D3
+the dining hall.
+~
+~
+0 -1 13943
+S
+#13943
+Dining Hall~
+You walk into an elaborate dining hall full of paintings telling tales of days
+past. The servents and cooks go bustling around setting up for the next meal.
+The large strong wood table is all set for the next meal.
+~
+59 8 0 1 99 1
+D1
+the dining hall.
+~
+~
+0 -1 13942
+D2
+a busy hallway.
+~
+~
+0 -1 13937
+S
+#13944
+Kitchen~
+You walk into the kitchen and get glares from many of the cooks and servents
+bustling about for being in their way. You look around the crowded kitchen
+and see nothing out of the ordinary for it being a kitchen except the mere
+size of everything. You decide to smell what's being cooked in one of the 
+pots, only to be whacked in the nose by a cook.
+~
+59 8 0 1 99 1
+D0
+a busy hallway.
+~
+~
+0 -1 13936
+D1
+a small dark room.
+~
+~
+0 -1 13945
+D2
+a small dark room.
+~
+~
+0 -1 13946
+S
+#13945
+Pantry~
+You walk into the pantry and see nothing special in it. Just a lot of food
+and some jars and cans.
+~
+59 9 0 1 99 1
+D3
+the kitchen.
+~
+~
+0 -1 13944
+S
+#13946
+Store Room~
+You walk into a smaller room that has nothing in it but extra utensils and
+some pots and pans.
+~
+59 9 0 1 99 1
+D0
+the kitchen.
+~
+~
+0 -1 13944
+S
+#13947
+Upper Tower~
+You walk up to the upper tower and simply ignore the sneers and threats of the
+guards. But you also stay on your guard because one wrong move could have
+5 guards on you before you could think.
+~
+59 140 0 1 99 0
+D3
+the west tower at the end of the castle walls.
+~
+~
+0 -1 13949
+D5
+nothing special.
+~
+~
+0 -1 13903
+S
+#13948
+Upper Tower~
+You walk up to the upper tower and simply ignore the sneers and threats of the
+guards. But you also stay on your guard because one wrong move could have
+5 guards on you before you could think.
+~
+59 140 0 1 99 0
+D1
+nothing special
+~
+~
+0 -1 13951
+D5
+nothing special.
+~
+~
+0 -1 13902
+S
+#13949
+Castle Walls~
+You walk along the castle walls looking out to the town beyond the castle.
+You stare in amazement at just how large the castle is, the walls run fifty
+paces from tower to tower. The archers and guards watch you closely as you 
+walk by.
+~
+59 136 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13947
+D3
+nothing special.
+~
+~
+0 -1 13950
+S
+#13950
+West Tower~
+You stand on a tower at the end of the castle walls staring down the length
+of either side. The walls running north and south are twice as long as the
+walls running east and west. Beyond the town and  large fields and farms
+surrounding the castle you can see the rivers and forests of the rest of the
+world.  The guards forbid you to go one the north-south walls.
+~
+59 136 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13949
+S
+#13951
+Castle Walls~
+You walk along the castle walls looking out to the town beyond the castle.
+You stare in amazement at just how large the castle is, the walls run fifty
+paces from tower to tower. The archers and guards watch you closely as you 
+walk by.
+~
+59 136 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13953
+D3
+nothing special.
+~
+~
+0 -1 13948
+S
+#13952
+Upper Hallway~
+You walk about in the upper hallways, obviously simply the private chambers
+for the king and a few nobles. To the north you see an extravagent banquet 
+hall.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13964
+D1
+nothing special.
+#
+~
+~
+0 -1 13958
+D2
+nothing special.
+~
+~
+0 -1 13974
+D3
+nothing special.
+~
+~
+0 -1 13954
+D5
+nothing special.
+~
+~
+0 -1 13925
+S
+#13953
+East Tower~
+You stand on a tower at the end of the castle walls staring down the length
+of either side. The walls running north and south are twice as long as the
+walls running east and west. Beyond the town and  large fields and farms
+surrounding the castle you can see the rivers and forests of the rest of the
+world.  The guards forbid you to go one the north-south walls.
+~
+59 136 0 1 99 0
+D3
+nothing special.
+~
+~
+0 -1 13951
+S
+#13954
+Upper Hallway~
+You walk about in the upper hallways, obviously simply the private chambers
+for the king and a few nobles. To the north you see an extravagent banquet 
+hall.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13963
+D1
+nothing special.
+~
+~
+0 -1 13952
+D3
+nothing special.
+~
+~
+0 -1 13955
+S
+#13955
+Upper Hallway~
+You walk about in the upper hallways, obviously simply the private chambers
+for the king and a few nobles. To the north you see an extravagent banquet 
+hall.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13962
+D1
+nothing special.
+~
+~
+0 -1 13954
+D2
+nothing special.
+~
+~
+0 -1 13961
+D3
+nothing special.
+~
+~
+0 -1 13956
+S
+#13956
+Upper Hallway~
+You walk about in the upper hallways, obviously simply the private chambers
+for the king and a few nobles. To the north you see an extravagent banquet 
+hall.
+~
+59 136 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13955
+D3
+nothing special.
+~
+~
+0 -1 13957
+S
+#13957
+Upper Hallway~
+You walk about in the upper hallways, obviously simply the private chambers
+for the king and a few nobles. To the north you see an extravagent banquet 
+hall.
+~
+59 136 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13956
+S
+#13958
+Upper Hallway~
+You walk about in the upper hallways, obviously simply the private chambers
+for the king and a few nobles. To the north you see an extravagent banquet 
+hall.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13965
+D1
+nothing special.
+~
+~
+0 -1 13959
+D2
+nothing special.
+~
+~
+1 -1 13972
+D3
+nothing special.
+~
+~
+0 -1 13952
+S
+#13959
+Upper Hallway~
+You walk about in the upper hallways, obviously simply the private chambers
+for the king and a few nobles. To the north you see an extravagent banquet 
+hall.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13966
+D1
+nothing special.
+~
+~
+0 -1 13960
+D2
+nothing special.
+~
+~
+1 -1 13973
+D3
+nothing special.
+~
+~
+0 -1 13958
+S
+#13960
+Upper Hallway~
+You walk about in the upper hallways, obviously simply the private chambers
+for the king and a few nobles. To the north you see an extravagent banquet 
+hall.
+~
+59 136 0 1 99 0
+D3
+nothing special.
+~
+~
+0 -1 13959
+S
+#13961
+Banquet Kitchen~
+You walk into a kitchen a bit smaller then the one downstairs
+but a bit more elaborate with a lot more spices and utensils lying around
+You find it empty since it's not being used today, but things look as if 
+they are prepared to be used at any time.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13955
+S
+#13962
+Banquet Hall~
+As you walk into the Banquet Hall, you realize that it is more elagent ten
+times over that of the normal dining hall just one floor below.
+With all the paintings and art work and even books laying around, and also 
+some extra chairs and a couple couches and plants here and there.
+To the north you see a balcony looking over all the land.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13971
+D1
+nothing special.
+~
+~
+0 -1 13963
+D2
+nothing special.
+~
+~
+0 -1 13955
+S
+#13963
+Banquet Hall~
+As you walk into the Banquet Hall, you realize that it is more elagent ten
+times over that of the normal dining hall just one floor below.
+With all the paintings and art work and even books laying around, and also 
+some extra chairs and a couple couches and plants here and there.
+To the north you see a balcony looking over all the land.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13970
+D1
+nothing special.
+~
+~
+0 -1 13964
+D2
+nothing special.
+~
+~
+0 -1 13954
+D3
+nothing special.
+~
+~
+0 -1 13962
+S
+#13964
+Banquet Hall~
+As you walk into the Banquet Hall, you realize that it is more elagent ten
+times over that of the normal dining hall just one floor below.
+With all the paintings and art work and even books laying around, and also 
+some extra chairs and a couple couches and plants here and there.
+To the north you see a balcony looking over all the land.
+~
+59 136 0 1 99 0
+D0
+The balcony doesn't look so stable that way.
+~
+~
+0 -1 13969
+D1
+nothing special.
+~
+~
+0 -1 13965
+D2
+nothing special.
+~
+~
+0 -1 13952
+D3
+nothing special.
+~
+~
+0 -1 13963
+S
+#13965
+Banquet Hall~
+As you walk into the Banquet Hall, you realize that it is more elagent ten
+times over that of the normal dining hall just one floor below.
+With all the paintings and art work and even books laying around, and also 
+some extra chairs and a couple couches and plants here and there.
+To the north you see a balcony looking over all the land.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13968
+D1
+nothing special.
+~
+~
+0 -1 13966
+D2
+nothing special.
+~
+~
+0 -1 13958
+D3
+nothing special.
+~
+~
+0 -1 13964
+S
+#13966
+Banquet Hall~
+As you walk into the Banquet Hall, you realize that it is more elagent ten
+times over that of the normal dining hall just one floor below.
+With all the paintings and art work and even books laying around, and also 
+some extra chairs and a couple couches and plants here and there.
+To the north you see a balcony looking over all the land.
+~
+59 136 0 1 99 0
+D2
+nothing special.
+~
+~
+0 -1 13959
+D3
+nothing special.
+~
+~
+0 -1 13965
+S
+#13967
+Balcony~
+You walk out onto the balcony overlooking the large green fields and gardens
+surrounding the castle, all bordered by a dense green forrest. The simplicity
+of the decoration of the balcony is a beauty in its self, making it the ideal
+place to just sit and relax.
+~
+59 140 0 1 99 0
+D2
+nothing special.
+~
+~
+0 -1 13966
+D3
+nothing special.
+~
+~
+0 -1 13968
+S
+#13968
+Balcony~
+You walk out onto the balcony overlooking the large green fields and gardens
+surrounding the castle, all bordered by a dense green forrest. The simplicity
+of the decoration of the balcony is a beauty in its self, making it the ideal
+place to just sit and relax.
+~
+59 140 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13967
+D2
+nothing special.
+~
+~
+0 -1 13965
+D3
+The balcony doesn't look so stable that way.
+~
+~
+0 -1 13969
+S
+#13969
+Balcony~
+You walk out onto the balcony, as you take a few steps out the balcony crashes
+and lands in the moat below leaving you dead to be eaten by the dragon turtle.
+The dragon turtle breaths a scourching steam on you then rips you to shreds
+in it's powerfil jaws.
+Obvioulsy.......you are dead.
+~
+59 336075790 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13968
+D2
+nothing special.
+~
+~
+0 -1 13964
+D3
+nothing special.
+~
+~
+0 -1 13970
+S
+#13970
+Balcony~
+You walk out onto the balcony overlooking the large green fields and gardens
+surrounding the castle, all bordered by a dense green forrest. The simplicity
+of the decoration of the balcony is a beauty in its self, making it the ideal
+place to just sit and relax.
+~
+59 140 0 1 99 0
+D1
+The Balcony doesn't look so stable that way.
+~
+~
+0 -1 13969
+D2
+nothing special.
+~
+~
+0 -1 13963
+D3
+nothing special.
+~
+~
+0 -1 13971
+S
+#13971
+Balcony~
+You walk out onto the balcony overlooking the large green fields and gardens
+surrounding the castle, all bordered by a dense green forrest. The simplicity
+of the decoration of the balcony is a beauty in its self, making it the ideal
+place to just sit and relax.
+~
+59 140 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13970
+D2
+nothing special.
+~
+~
+0 -1 13962
+S
+#13972
+Servents Quarters~
+You walk into  the servents quarters and find nothing special, just some castle
+servents bustling in and out to get to their chores. The walls a a simple
+bright white as are the sheets and blankets. A few servents are sitting about
+on their rest period reading, or practicing their swords, hoping to become
+soldies some day.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+1 -1 13958
+D1
+nothing special.
+~
+~
+0 -1 13973
+S
+#13973
+Servents Quarters~
+You walk into  the servents quarters and find nothing special, just some castle
+servents bustling in and out to get to their chores. The walls a a simple
+bright white as are the sheets and blankets. A few servents are sitting about
+on their rest period reading, or practicing their swords, hoping to become
+soldies some day.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+1 -1 13959
+D3
+nothing special.
+~
+~
+0 -1 13972
+S
+#13974
+Lighted Hallway~
+You walk down a north-south hallway that seems more bright then any you've
+ever seen, then realize there's no torches or candles or windows in the hall
+The bright white stone of the walls seem to give off a light sorce of their
+own. You see more guards roaming the halls here and can see the bedroom to
+King Bahamut on the east side. To the south is a room surrounded in darkness.
+~
+59 140 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13952
+D2
+nothing special.
+~
+~
+0 -1 13975
+S
+#13975
+Lighted Hallway~
+You walk down a north-south hallway that seems more bright then any you've
+ever seen, then realize there's no torches or candles or windows in the hall
+The bright white stone of the walls seem to give off a light sorce of their
+own. You see more guards roaming the halls here and can see the bedroom to
+King Bahamut on the east side. To the south is a room surrounded in darkness.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13974
+D2
+nothing special.
+~
+~
+0 -1 13976
+S
+#13976
+Lighted Hallway~
+You walk down a north-south hallway that seems more bright then any you've
+ever seen, then realize there's no torches or candles or windows in the hall
+The bright white stone of the walls seem to give off a light sorce of their
+own. You see more guards roaming the halls here and can see the bedroom to
+King Bahamut on the east side. To the south is a room surrounded in darkness.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13975
+D2
+nothing special.
+~
+~
+0 -1 13977
+S
+#13977
+Lighted Hallway~
+You walk down a north-south hallway that seems more bright then any you've
+ever seen, then realize there's no torches or candles or windows in the hall
+The bright white stone of the walls seem to give off a light sorce of their
+own. You see more guards roaming the halls here and can see the bedroom to
+King Bahamut on the east side. To the south is a room surrounded in darkness.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13976
+D1
+nothing special.
+~
+~
+1 -1 13982
+D2
+nothing special.
+~
+~
+0 -1 13978
+D3
+nothing special.
+~
+~
+0 -1 13981
+S
+#13978
+Lighted Hallway~
+You walk down a north-south hallway that seems more bright then any you've
+ever seen, then realize there's no torches or candles or windows in the hall
+The bright white stone of the walls seem to give off a light sorce of their
+own. You see more guards roaming the halls here and can see the bedroom to
+King Bahamut on the east side. To the south is a room surrounded in darkness.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13977
+D2
+nothing special.
+~
+~
+0 -1 13979
+S
+#13979
+Lighted Hallway~
+You walk down a north-south hallway that seems more bright then any you've
+ever seen, then realize there's no torches or candles or windows in the hall
+The bright white stone of the walls seem to give off a light sorce of their
+own. You see more guards roaming the halls here and can see the bedroom to
+King Bahamut on the east side. To the south is a room surrounded in darkness.
+~
+59 136 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13978
+D2
+nothing special.
+~
+~
+0 -1 13980
+S
+#13980
+Lighted Hallway~
+You walk down a north-south hallway that seems more bright then any you've
+ever seen, then realize there's no torches or candles or windows in the hall
+The bright white stone of the walls seem to give off a light sorce of their
+own. You see more guards roaming the halls here and can see the bedroom to
+King Bahamut on the east side. To the south is a room surrounded in darkness.
+~
+59 140 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13979
+D2
+nothing special.
+~
+~
+1 -1 13984
+S
+#13981
+Guard Room~
+As you look around the guard room, you see mostly candles and reading material
+as well as maps and weapons of all sorts. Obviously the night shift's room for
+guarding the king.
+~
+59 136 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13977
+S
+#13982
+King's Chambers~
+You walk into King Bahamut's chambers and just stand in awe of the beauty
+of the room.  The paintnigs along the walls, the same glowing stone making
+up the walls. To the east you see a balcony looking over the greens fields
+which just adds to the beauty of the room.
+~
+59 8 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13983
+D3
+nothing special.
+~
+~
+1 -1 13977
+S
+#13983
+Royal Balcony~
+Walking out onto the balcony you feel the cool breezes of the nice
+weather outside, the smell of the huge gardens below. You see benches and 
+chairs for the king to sit, books laying about for his rare moments of free 
+time. You feel like just sitting and enjoying a good book yourself.
+~
+59 128 0 1 99 0
+D3
+nothing special.
+~
+~
+0 -1 13982
+S
+#13984
+Royal Mages Chambers~
+You walk into a room that seems in sharp contrast to the rest of the castle.
+Not only is the room simple, but it is also dark, and gives the feeling of
+darkness. you smell the smells of magical componants for spells, and see
+staves and wands and rods of all kinds laying about, along with many many
+books of all sizes and in as many languages.
+~
+59 137 0 1 99 0
+D0
+nothing special.
+~
+~
+1 -1 13980
+D1
+nothing special.
+~
+door~
+21 13903 13989
+D2
+nothing special.
+~
+~
+0 -1 13985
+D3
+nothing special.
+~
+door~
+9 -1 13986
+S
+#13985
+Royal Mages Study~
+The first thing you notive as you walk in is the number of books laying 
+around. All the shelves, which take up all four walls including surrounding
+the doorway from floor to ceiling, as well as 3 tables covered with books 
+and parchment, and six books stands with huge spell books atop them.
+Looking in the corner of the room is a large glowing orb, as you look into 
+it you see the king sitting in his throne downstairs and discover this is 
+obviously used for spying on the king.
+~
+59 137 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13984
+S
+#13986
+Dark Hallway~
+As you walk through this dark hallway, you can barely see your light sorce in
+front of your face, even with the candles lining the walls. It feels whatever
+light was given off from the walls in the Lighted Hallway, the walls here drain
+the light.
+~
+59 137 0 1 99 0
+D1
+nothing special.
+~
+door~
+9 -1 13984
+D2
+nothing special.
+~
+~
+0 -1 13992
+D3
+nothing special.
+~
+~
+0 -1 13987
+S
+#13987
+Dark Hallway~
+As you walk through this dark hallway, you can barely see your light sorce in
+front of your face, even with the candles lining the walls. It feels whatever
+light was given off from the walls in the Lighted Hallway, the walls here drain
+the light.
+~
+59 137 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13993
+D1
+nothing special.
+~
+~
+0 -1 13986
+D3
+nothing special.
+~
+~
+0 -1 13988
+S
+#13988
+Dark Hallway~
+As you walk through this dark hallway, you can barely see your light sorce in
+front of your face, even with the candles lining the walls. It feels whatever
+light was given off from the walls in the Lighted Hallway, the walls here drain
+the light.
+~
+59 137 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13987
+S
+#13989
+Dark Hallway~
+As you walk through this dark hallway, you can barely see your light sorce in
+front of your face, even with the candles lining the walls. It feels whatever
+light was given off from the walls in the Lighted Hallway, the walls here drain
+the light.
+~
+59 268435469 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13990
+D3
+nothing special.
+~
+door~
+1 -1 13984
+S
+#13990
+Dark Hallway~
+As you walk through this dark hallway, you can barely see your light sorce in
+front of your face, even with the candles lining the walls. It feels whatever
+light was given off from the walls in the Lighted Hallway, the walls here drain
+the light.
+~
+59 268435465 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 13991
+D2
+nothing special.
+~
+~
+0 -1 13994
+D3
+nothing special.
+~
+~
+0 -1 13989
+S
+#13991
+Dark Hallway~
+As you walk through this dark hallway, you can barely see your light sorce in
+front of your face, even with the candles lining the walls. It feels whatever
+light was given off from the walls in the Lighted Hallway, the walls here drain
+the light.
+~
+59 268435465 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13995
+D3
+nothing special.
+~
+~
+0 -1 13990
+S
+#13992
+Mage's Apprentice's Room~
+You walk into a small dark room, full of candles and books, almost a duplicate
+of the mage's room, except smaller. You see no sign of the apprentice anywhere.
+~
+59 137 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13986
+S
+#13993
+Apprentice's Study~
+You walk into the apprentice's study, where he obviously spends most of his 
+time, but again is no where to be found. It seems any book that may have been
+lacking in the mage's study, if that were possible, are in here. You see one
+book open to the spell 'polymorph self'.
+~
+59 137 0 1 99 0
+D2
+nothing special.
+~
+~
+0 -1 13987
+S
+#13994
+Mage's Private Study~
+You walk into this room and get a shock of horror. The first thing you notice
+is a shrine to Tiamat, the chromatic dragon, the Queen of Darkness herself.
+This whole room seems to be dedicted to the study of the dark side of magic.
+~
+59 268435465 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 13990
+S
+#13995
+Mage's Observatory~
+As you look around, you see a new meaning to observetory. Not only is it open
+to the outside to study the stars, but there is a large mirror, split in parts
+showing the entire castle. In here you find the mage's apprentice, along with
+the mage himself, but in a different form from which you last encountered him.
+~
+59 268435465 0 1 99 0
+D2
+nothing special.
+~
+~
+0 -1 13991
+S
+$~
+#999999

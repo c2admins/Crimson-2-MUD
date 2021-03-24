@@ -1,0 +1,796 @@
+#1750
+On the River Styx~
+  You look around you and see there is no life here.  Far ahead is a large
+stone arch.  You seem to stare at the river and how peculiar it looks, just
+like a river of blood.
+~
+20 336723976 268435456 41 99 7
+D2
+Back to the Portal of Destiny
+~
+~
+32 -1 3943
+D3
+~
+~
+32 -1 1751
+S
+#1751
+The Great Gate~
+   Before you towers the great gateway to Tarterus itself.  You look in
+amazement at the ancient gate and spot some mystic runes on its surface.  You
+also see a very large dog collar attached to the side of the gate, broken.    
+~
+20 1343225865 805306368 41 99 0
+D1
+~
+~
+32 -1 1750
+D3
+~
+gate~
+47 1752 1752
+S
+#1752
+A Dark Passageway~
+   You find yourself in a dark, smelly passageway.  In the far distance you
+hear the screams of someone, or something in agony.  You pray the same fate
+does not befall you.  You notice a small, bloody sign on the wall.
+~
+20 1880096777 805306368 41 99 0
+D3
+~
+~
+0 -1 1753
+E
+sign~
+WELCOME TO HELL...BITCH!
+You are entering Hades' domain, too bad you cant leave.
+Have fun trying though.
+Onslaught
+~
+S
+#1753
+A Dark Passageway~
+   You continue down the dark passageway.  You notice the agonizing screams
+grow ever closer.    
+~
+20 1880096777 805306368 41 99 0
+D0
+~
+~
+0 -1 1754
+D1
+~
+~
+0 -1 1752
+D2
+~
+~
+32 -1 1756
+D3
+~
+~
+32 -1 1755
+D5
+~
+~
+48 -1 1760
+S
+#1754
+Pathway to the Castle~
+   You leave the cavernous passageway and find yourself on a pathway to a huge
+castle in the distance.  You look all around you and notice rivers of lava and
+fire flowing past you on either side of you.    
+~
+20 1880096769 805306368 41 99 0
+D0
+~
+~
+0 -1 1757
+D2
+~
+~
+0 -1 1753
+S
+#1755
+The Torture Room~
+   You enter a large room and the first thing you notice is the incredibly
+awful smell.  Your second impression is pity for all the souls that have to
+endure the horrors contained within this room.    
+~
+20 1880096777 805306368 41 99 0
+D1
+~
+~
+32 -1 1753
+S
+#1756
+Hall of the Titans~
+You peer all around in amazement at what you see.  You see hundreds of
+tiatns trapped in stone.  You notice the center one, it seems to be broken
+and is nothing more than a pile of rubble.
+~
+20 1880096777 805306368 41 99 0
+D0
+~
+~
+32 -1 1753
+S
+#1757
+Pathway to the Castle~
+You continue down the pathway and you notice the castle is growing nearer.
+You see winged creatures flying around the very tops of the castle.  You can
+not help but wonder what they are doing flying in such a peculiar way.
+~
+20 1880096781 805306368 41 99 0
+D0
+~
+~
+0 -1 1759
+D1
+You sense incredible heat
+~
+~
+0 -1 1758
+D2
+~
+~
+0 -1 1754
+D3
+You sense incredible heat
+~
+~
+0 -1 1758
+S
+#1758
+Fire Lake~
+   You take a step and suddenly realize there is no more ground.  You fall into
+the Lake of Fire and begin to burn alive.  As you die you realize the horrid
+smell is your own flesh burning away.  Have a nice day.    
+~
+20 269484046 536870912 1 99 1
+S
+#1759
+Castle Entrance~
+   You gaze in amazement as you feast your eyes on the most spectacular castle
+you have ever seen.  You think to yourself what kind of a person would own a
+castle like this?  You have a feeling your questions are about to be answered.
+~
+20 1880096777 805306368 41 99 0
+D0
+~
+door~
+47 1756 1761
+D2
+~
+~
+0 -1 1757
+S
+#1760
+Despair~
+   You are suddenly overtaken with extreme emotions.  You begin to weep.    
+~
+20 873463817 268435456 41 99 1
+D4
+~
+~
+32 -1 1753
+S
+#1761
+The Black Hall~
+You enter the castle and you are very shocked at what you see.  Everything is
+completely black.  You also hear low moans coming from deep within the castle.
+~
+20 1880096780 805306368 41 99 0
+D0
+~
+~
+0 -1 1762
+D2
+~
+door~
+47 1756 1759
+S
+#1762
+The Black Hall~
+   You walk down a black colored hallway.  You see doors on either side of you.
+This hallway stretches as far as you can see.    
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+~
+0 -1 1765
+D1
+~
+door~
+41 0 1763
+D2
+~
+~
+0 -1 1761
+D3
+~
+~
+32 -1 1764
+S
+#1763
+Castle Armoury~
+You enter this room and see various items strewn about.  Some are exquisitely
+decorated, some are plain, all look expensive.
+~
+20 1880096776 805306368 41 99 0
+D3
+~
+door~
+41 0 1762
+S
+#1764
+Medusa's Lair~
+   You enter this room and realize how odd it is for a room to be so void of
+decoration of any kind.  A shiver runs down your spine as you think of what
+could dwell in this place.    
+~
+20 1880096776 805306368 41 99 0
+D1
+~
+~
+32 -1 1762
+S
+#1765
+Bottom of the Black Stairway~
+   You approach a pitch black colored staircase.  The stairs seem to be almost
+alive as you look at them.    
+~
+20 1880096776 805306368 41 99 0
+D2
+~
+~
+0 -1 1762
+D4
+~
+~
+0 -1 1766
+S
+#1766
+Middle of the Black Staircase~
+You are now halfway up the Black Staircase and you stop to take a small rest.
+You notice a foul stench from above.
+~
+20 1880096776 805306368 41 99 0
+D4
+~
+~
+0 -1 1767
+D5
+~
+~
+0 -1 1765
+S
+#1767
+Top of the Black Staircase~
+   You are at the top of the Black Stairs.  You see paintings of varios people,
+and creatures, one in particular catches your eye.  It is a painting of a
+rather handsome man, dressed all in black.  You wonder who this could be.    
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+door~
+41 0 1768
+D1
+you sense dager
+~
+~
+0 -1 1769
+D2
+~
+~
+32 -1 1770
+D3
+~
+~
+0 -1 1771
+D5
+~
+~
+0 -1 1766
+S
+#1768
+The Pleasure Room~
+   You look around and see a heart shaped bed, red sheets, and red curtains.  
+This place looks like it is expensive to stay here.    
+~
+20 1880096776 805306368 41 99 0
+D2
+~
+door~
+41 0 1767
+S
+#1769
+The Spikes~
+   You enter the room and immediately the spike filled ceiling drops on you,
+crushing and impaling you at the same time.  Lucky for you your death is
+immediate, you feel no pain as you are turned to nothing more than a puddle of
+goo.    
+~
+20 269484046 536870912 1 99 1
+S
+#1770
+Lair of the Zombie Master~
+You smell rotted flesh as you enter the room.  The room looks like it is a
+swamp, with mist, fog, and even a bog in the middle of the room.  The whole
+room seems to emit a black glow.
+~
+20 1880096777 805306368 41 99 0
+D0
+~
+~
+32 -1 1767
+S
+#1771
+The Glowing Corridor~
+You are in a long corridor that emits a faint purple glow.  The walls seem
+to have eyes as you feel yourself being watched.
+~
+20 1880096776 805306368 41 99 0
+D1
+~
+~
+0 -1 1767
+D3
+~
+~
+0 -1 1772
+S
+#1772
+Before the Swirling Black Portal~
+   You stop just before you are swallowed in the blackness.  You gaze at the
+swirling mass and try to see beyond it, without any luck.  You ask yourself
+should i go through?    
+~
+20 1880358921 805306368 41 99 0
+D1
+~
+~
+0 -1 1771
+D3
+~
+door~
+41 0 1773
+S
+#1773
+The Dining Room~
+   You enter a very elegantly decorated room.  You see a large dining table in
+the center of the room.  You also see many paintings all over the walls.    
+~
+20 1880096776 805306368 41 99 0
+D3
+~
+~
+0 -1 1774
+S
+#1774
+The Great Hallway~
+   You are now in a very large room full of paintings, and wandering spirits.
+You notice them mumbling to themselves as you pass them by.    
+~
+20 1880096776 805306368 41 99 0
+D1
+~
+~
+0 -1 1773
+D3
+~
+~
+0 -1 1775
+S
+#1775
+The Great Hallway~
+   You move down the hallway and notice that the hall is getting narrow, almost
+too narrow.  You can see a tiny door in the distance.    
+~
+20 1880096776 805306368 41 99 0
+D1
+~
+~
+0 -1 1774
+D3
+~
+~
+0 -1 1776
+S
+#1776
+Before the Giant Glowing Black Doors~
+You stand before two enormous, black, glowing doors.  You feel strange, as
+though they are both pulling you closer.
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+door~
+9 0 1777
+D1
+~
+~
+0 -1 1775
+D3
+Your nerves tingle.
+~
+~
+0 -1 1778
+S
+#1777
+Hades' Bedroom~
+Obviously Hades treats himself well.  You see the whole room lined with gold
+and fine jewels lying all around the room.  There is a huge bed in the middle
+of the room, totally black.
+~
+20 1880096776 805306368 41 99 0
+D2
+~
+door~
+9 0 1776
+D5
+~
+~
+16 -1 1779
+S
+#1778
+The Pit~
+You fall and are impaled by a large metal spike.  You wiggle on the spike
+as your life withers out of you.  You notice the room is now the colors of your
+precious bodily fluids.
+~
+20 269484046 536870912 1 99 1
+S
+#1779
+Trap Door Under the Bed~
+You are in a long coridor full of cobwebs and moans of agony.  It is almost
+completely dark here, have fun.
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+~
+0 -1 1780
+D4
+~
+~
+0 -1 1777
+S
+#1780
+Dark Corridor~
+   You are in a dark corridor.  There seems to be some kind of a light source
+up ahead.    
+~
+20 1880096780 805306368 41 99 0
+D0
+~
+~
+32 -1 1781
+D2
+~
+~
+0 -1 1779
+S
+#1781
+A Golden, Glowing Room~
+   You think to yourself, this is the most beautiful room there is.  It is made
+of solid gold, and there are piles of gold in all the corners, not to mention
+other treasures.    
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+~
+0 -1 1784
+D1
+~
+~
+0 -1 1783
+D2
+~
+~
+32 -1 1780
+D3
+~
+~
+0 -1 1782
+S
+#1782
+Corner of the Golden Room~
+You see gold as far as the eye can see.  Just a handful would make you
+richer than your wildest dreams.
+~
+20 1880096776 805306368 1 99 0
+D0
+~
+~
+0 -1 1786
+D1
+~
+~
+0 -1 1781
+S
+#1783
+Corner of the Golden Room~
+   Gold, gold everywhere, and not a penny to spare.  You wonder why there is so
+much gold in this large room.    
+~
+20 1880096776 805306368 1 99 0
+D0
+~
+~
+0 -1 1787
+D3
+~
+~
+0 -1 1781
+S
+#1784
+Center of the Golden Room~
+   You look in all directions, trying to see something other than mountains of
+gold, without any luck.  You feel a strange heat beneath your feet.    
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+~
+0 -1 1789
+D1
+~
+~
+0 -1 1787
+D2
+~
+~
+0 -1 1781
+D3
+~
+~
+0 -1 1786
+D5
+a tunnel leading down, without any ropes, or ladders to use
+to climb down on.  The tunnel has a red glow.    
+~
+~
+16 -1 1785
+S
+#1785
+Hidden Shrine~
+You have entered the hidden shrine room, have a nice day.
+~
+20 1947206156 1879048192 41 99 0
+S
+#1786
+Western Wall of the Golden Room~
+You stare at this wall, it is 15 feet high and solid gold.
+You whisper to yourself that you could stay here forever.
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+~
+0 -1 1788
+D1
+~
+~
+0 -1 1784
+D2
+~
+~
+0 -1 1782
+S
+#1787
+Eastern Wall of the Golden Room~
+   You put your hands to the face of the wall and feel many small dents, almost
+as if someone or something pounded on this wall.    
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+~
+0 -1 1790
+D2
+~
+~
+0 -1 1783
+D3
+~
+~
+0 -1 1784
+S
+#1788
+Corner of the Golden Room~
+   You gaze outward a the mountains of gold, they may be as large as real
+mountains.    
+~
+20 1880096776 805306368 41 99 0
+D1
+~
+~
+0 -1 1789
+D2
+~
+~
+0 -1 1786
+S
+#1789
+Before the Silver Door~
+   You stand at an enormous, silver door.  It sparkles and seems to glow with a
+strange light.    
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+~
+32 -1 1791
+D1
+~
+~
+0 -1 1790
+D2
+~
+~
+0 -1 1784
+D3
+~
+~
+0 -1 1788
+S
+#1790
+Corner of the Golden Room~
+   You see your own reflection in the golden surface of the wall, it seems to
+be polished very thoroughly.    
+~
+20 1880096776 805306368 41 99 0
+D2
+~
+~
+0 -1 1787
+D3
+~
+~
+0 -1 1789
+S
+#1791
+Beginning of the End~
+   You enter a room that at first glance seems to be empty.  You take a closer
+look and discover faces of fallen souls are within the very walls.    
+~
+20 1880096780 805306368 41 99 0
+D1
+~
+~
+0 -1 1792
+D2
+~
+~
+32 -1 1789
+S
+#1792
+Hallway of Fallen Souls~
+   A sickening stench fills this place.  You notice faces frozed in agony
+jutting out from the very walls.    
+~
+20 1880096776 805306368 41 99 0
+D1
+~
+~
+0 -1 1793
+D3
+~
+~
+0 -1 1791
+S
+#1793
+At the Door of Fallen Souls~
+You stand before a gigantic, black and red door.  There are faces jutting from
+it and screaming in agony.  Through all the screams you still can hear the
+laughing of some evil force.
+~
+20 1880096776 805306368 41 99 0
+D0
+~
+door~
+41 0 1794
+D1
+~
+~
+0 -1 1795
+D3
+~
+~
+0 -1 1792
+S
+#1794
+Room of Unending Pain~
+You see all around you bodies being tortured by evil, unseen forces.  The
+stench is so horrid it knocks you back.  So this is your punishment for being
+an evil person huh?
+~
+20 1880096777 805306368 41 99 0
+D2
+~
+door~
+41 0 1793
+S
+#1795
+Hades' Worship Room~
+You see an idol-worshippers dream, statues, altars, and sacrificial lambs
+everywhere.  There is a very large hole in the ground that leads to the lava
+below.
+~
+20 1880096776 805306368 41 99 0
+D3
+~
+~
+0 -1 1793
+D4
+~
+~
+32 -1 1796
+S
+#1796
+Crossroads of Fate~
+   You are standing at the crossroads, where you decide your own fate.  You
+notice a blood-stained note on the wall here.    
+~
+20 1880096780 805306368 41 99 0
+D1
+~
+~
+32 -1 1750
+D3
+~
+~
+0 -1 1797
+D4
+~
+~
+0 -1 1798
+D5
+Your senses tingle.
+~
+~
+0 -1 1799
+E
+note~
+   For all who read.  You will now decide your own fate.  One direction leads
+to certain doom, another to freedom.  The other two lead you to a fight for
+your life, so choose wisely and you may well survive.    
+~
+S
+#1797
+Room of Traitors~
+   You enter this room and the evil overtakes you, it is almost powerful enough
+to make you do its bidding.    
+~
+20 806354953 805306368 41 99 0
+D1
+~
+~
+0 -1 1796
+S
+#1798
+Room of Darkness~
+   You enter this room and all you can see is blackness, and the faint outline
+of something in the corner.    
+~
+20 806354953 805306368 41 99 0
+D5
+~
+~
+0 -1 1796
+S
+#1799
+Death~
+   You enter the room and see the Grim Reaper slice your torso in half.  Soon
+the ground is covered with your bodily organs, even your still beating heart.
+~
+20 269484046 536870912 1 99 0
+S
+$~
+#999999

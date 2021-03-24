@@ -1,0 +1,38 @@
+#21000
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 16 14 14 14 12
+#21001
+mob r2-d2 droid~
+&BR&w2-D2&n~
+&BR&w2-D2&n, the droid standing here.
+~
+&BR&w2-D2&n stand here beeping at you.
+~
+8 1 136249361 33554568 1000 S
+50 0 0 10d10+80000 15d15+50
+10000000 2500000
+8 8 0
+0 0 16 25 16 15 14 25
+#21002
+mob c-3po droid~
+&YC-3PO&n~
+&YC-3PO&E, human cyborg relations&E.
+~
+&YC-3PO&E, human cyborg relations&E.
+~
+8 1 136249361 33554568 1000 S
+50 0 25 15d15+60000 10d10+20
+10000000 2500000
+8 8 0
+0 0 18 25 16 15 14 14
+$~
+#999999

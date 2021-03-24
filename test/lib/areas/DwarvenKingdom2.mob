@@ -1,0 +1,403 @@
+#4700
+mob dwarf small~
+The small dwarf~
+A small dwarf is here mining at the tunnel walls.
+~
+  The small dwarf is dirty and dressed only in a small tunic and leggings.  His
+beard is encrusted with cracked rock and dust from the tunnel walls.  
+~
+12 1 136249361 33554432 800 S
+23 17 21 8d10+1700 2d15+9
+12500 69000
+8 8 1
+2 0 13 13 11 11 10 11
+#4701
+mob dwarf small~
+The small dwarf~
+A small dwarf is here, on the watch for Duergar.
+~
+  The small dwarf is dressed in colorful clothing and has a full and long beard. His eyes are keen and sharp, 
+well suited for sight in the dark tunnels of the mines.
+~
+12 1 136249361 33554432 1000 S
+22 18 22 60d11+1000 3d10+6
+10000 66000
+8 8 1
+2 0 12 12 12 10 11 8
+#4702
+mob dwarf guard~
+The dwarf guard~
+A small dwarf is here, dressed in a makeshift suit of armor.
+~
+  This small dwarf is one of the few remaining militia left from the Great Battle at Brimstone.
+His small body is strong, making him a match for any foe, and his armor is of no use to anyone 
+but him, but provides adequate defense.
+~
+10 1 136249361 33554432 1000 S
+28 15 11 40d11+2000 5d5+30
+25000 84000
+8 8 1
+2 4 13 14 12 11 11 11
+#4703
+mob dwarf yentle~
+Yentle the dwarf~
+A small dwarf sits here trying to grow a new rock.
+~
+  The insane little dwarf who thinks he can grow a rock.  He is dressed in many
+yellows and oranges, and seems to have a happy look about him despite his years
+of failure at growing rocks.
+~
+12 1 136249361 8 1000 S
+10 11 2 1d12+120 2d6+1
+300 4500
+6 6 1
+0 0 13 13 12 13 10 12
+#4704
+mob juargan dwarf king~
+Juargan the Dwarven King~
+Juargan, the dwarven king, sits here upon his throne, looking over his gardens.
+~
+  The small king is bulging at the seams with muscle.  He is dressed in nothing but a noble robe made
+of a grey silk. His face has a visage of stone like his surroundings, as if his burden has become too 
+much for him.
+~
+262154 1 136249361 33554568 1000 S
+42 1 -25 90d10+17000 35d2+99
+1000000 550000
+6 6 1
+2 4 18 18 15 17 14 12
+#4705
+mob duergar dwarf~
+The duergar dwarf~
+A repulsive Duergar is here, biting at its own arm.
+~
+  The Duergar are the outcast dark dwarves.  They have grown insane through 
+their isolation from the rest of the dwarven population and have become bitter 
+enemies with them.
+~
+57356 1 136249361 8 -1000 S
+15 25 29 11d1+200 2d4+11
+3300 4500
+8 8 1
+0 0 14 14 13 12 12 11
+#4706
+mob grimdale ancient king dwarf~
+Grimdale the ancient king~
+A ancient and partially decayed dwarf lies here ever so silent.
+~
+  The ancient king of the dwarves lies here.  Forgotten over the past decades 
+his once cherished body has fallen into utter decay.  His once cheery face has
+turned into a crude scowl as you can feel that his soul is not at ease.
+~
+319498 1 136249361 40 -999 S
+27 5 0 1d10+450 4d10+9
+0 100000
+8 8 1
+0 0 17 19 16 17 16 14
+#4707
+mob rock worm dreaded~
+The dreaded rock worm~
+The dreaded rock worm has blasted through the rock wall, its jaws open wide!
+~
+  The jaws of this strange beast are large enough to fit at lease two dwarves
+into.  Judging by the size you can see that is has been eating quite a few too
+many dwarves as it's body is at least five feet in diameter.
+~
+17096714 1 136249361 8 0 S
+20 20 24 10d7+1500 2d5+20
+0 70000
+8 8 0
+0 0 17 17 16 14 12 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4708
+mob spirit dwarf~
+A dwarven spirit~
+A small dwarven spirit is at unrest here.
+~
+  The small spirit screams in agony as it is bound to this wretched existance.
+The soul of some unfortunate dwarf now has to fly amlessly through this chamber
+of eternal pain.
+~
+57354 1 136249361 168 -999 S
+15 25 22 10d1+200 2d4+11
+0 9000
+8 8 0
+0 0 14 13 14 14 11 10
+#4709
+mob demon rock~
+&wthe dreaded &yrock &Kdemon&n~
+&yA large, grotesque &Kdemon &yis here, waiting for a victim.&n
+~
+  With skin as hard as stone, the rock demons were sealed into this place long ago when a dwarven excavation
+uncovered the portal to their realm. Sitting here for many centuries, they have grown hungry waiting for
+their next meal.
+~
+319576 138444801 136249393 -1608515352 -1000 S
+40 3 -25 60d10+5000 2d10+30
+700000 240000
+8 8 0
+0 4 17 16 14 16 13 11
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#4710
+mob gothron greater demon~
+&rGothron&c, the &KGreater Demon&n~
+&yA huge, grotesque &Kdemon &ystands here, coveting a &Glarge green rock&Y.&n
+~
+  Trapped for centuries within these small caverns, Gothron has gone quite insane. He removes himself from
+the company of the other demons, coveting a large green rock that seems to hold little value.
+~
+385118 6586369 136249393 -1541406488 -1000 S
+48 0 -40 1d1+50000 30d10+99
+5000000 2000000
+8 8 0
+0 4 17 15 15 14 12 14
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_TYPE=105
+#4711
+mob leatherbie ironstar~
+Leatherbie Ironstar~
+Leatherbie Ironstar is here, tanning some hides.
+~
+  The oldest living Ironstar, Leatherbie no longer takes part is the battles of the clan, but still plays
+his part by creating some of the armors and tools that they use. His outlook on life is still positive, 
+despite all that has happened to his people, and he can always be found with a smile on his face.
+~
+537133070 2097153 136249361 33554568 0 S
+20 0 40 99d99+99 99d99+99
+1 0
+8 8 1
+0 0 16 16 16 14 15 14
+#4712
+mob rothegar ironstar dwarf smith~
+Rothegar Ironstar~
+A short, muscular dwarf stands here, pounding on a piece of iron.
+~
+  Being one of the few remaining Ironstar dwarves that knows the blacksmithig trade, Rothegar
+is held in high esteem among the other members of the clan. He works tirelessly at his forge
+during the day, pounding out new tools, weapons and armor for the few remaining members of
+his community.
+~
+604242250 32769 136249393 44 800 S
+34 0 40 20d20+2000 20d10+10
+5000000 0
+8 8 1
+2 4 17 17 16 16 15 15
+#4713
+mob siven ironstar dwarf~
+Siven Ironstar~
+A dwarven female stands here, praying to the gods to save her people.
+~
+  Siven is the last clan priestess of Berronar Truesilver, protector of the home,
+family and marriage. She is also one of the last females in the community, and
+one of its most supported members. She keeps all the family records, as well as
+marriages, and can be found in her home most times of the day praying to her 
+priestess to protect the remaining members of her clan.
+~
+268706122 4292609 136249393 33554572 899 S
+33 10 -4 40d2+1900 3d10+60
+61000 196000
+8 8 2
+2 2 17 18 14 14 13 12
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_TREMOR 60
+SKILL=SPELL_HARM 50
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_SILENCE 80
+#4714
+mob drugar ironstar dwarf~
+Drugar Ironstar~
+Drugar Ironstar is here, trying to sell his wares.
+~
+  A short, plump little dwarf, Drugar was never much for fighting. Instead
+he applied his energy into providing equipment for his fellow clan memebers,
+and quickly gained a good reputation for his fair and honest prices.
+~
+604241994 4227073 136249393 12 600 S
+30 0 40 40d20+200 10d10+99
+3000000 0
+8 8 1
+2 5 16 16 16 16 14 11
+#4715
+mob pasty ironstar dwarf~
+Pasty Ironstar~
+Pasty Ironstar is here, baking some breads.
+~
+ Pasty, like Siven is one of the last remaining females within the Ironstar
+clan. This has made her very popular since the years of the Great Orc War, and
+she always greets every customer with a smile though the constant pressure from
+the other dwarves has been wearing her down.
+~
+872677450 4194305 136249393 0 800 S
+28 0 40 20d20+3000 20d10+30
+1000000 0
+8 8 2
+2 1 16 18 16 14 13 15
+#4716
+mob thormtur ironstar captain guard~
+Thormtur Ironstar~
+Thormtur Ironstar, captain of the guards is here.
+~
+  Thormtur is a grisled veteran of many battles. He proudly displays his scars as a 
+symbol of prowess, but deep in his eyes lies a sadness for the losses his clan has 
+suffered.
+~
+268698186 4718593 136249361 33554472 700 S
+34 9 -7 20d10+4000 2d10+50
+70000 204000
+8 8 1
+2 4 17 17 16 15 14 13
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4717
+mob dolscar ironstar~
+Dolscar Ironstar~
+Dolscar Ironstar is here, looking over some precious jewels.
+~
+  Dolscar has been greedy since he was young, always sneaking into the treasury to
+sneak a peak at the clan wealth. He hasn't changed much since he's grown. In fact,
+the only reason he goes out in battles is to see what wealth he can pilfer off of
+fallen enemy corpses.
+~
+268697870 4456449 136249361 33554472 0 S
+29 14 8 10d5+2500 2d9+40
+50000 84000
+8 8 1
+2 3 17 18 14 15 13 12
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4718
+mob dugan ironstar high priest~
+&yD&Yu&yg&Ya&yn &KIron&Wstar&n~
+&yD&Yu&yg&Ya&yn &KIron&Wstar&w, High Priest of &yR&Yeo&yrx &wis here.&n
+~
+  Since the fall of the Ironstar clan, Dugan has undertaken the duties of High Priest,
+and with those duties the vision of survival for his people.  He is an old, yet vibrant
+dwarf, who has learned much of the peoples of Torindrel during his journeys as a youth.
+He is one of the few who knows the true identity of Vorn Ul'Azzr, and considers the drow
+one of his best friends.
+~
+1074012170 32769 136249361 140 1000 S
+48 1 -40 100d1+30000 30d30+70
+3500000 1500000
+8 8 1
+2 7 22 22 22 22 22 22
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_MAGIC_RESIST 75
+SKILL=SKILL_RAGE 99
+#4719
+mob Mordeth Ironstar~
+&yM&Yo&yrd&Ye&yth &KIron&Wstar&n~
+&yM&Yo&yrd&Ye&yth &KIron&Wstar &wkneels here in prayer.&n
+~
+   Mordeth was once one of the mightiest of the Ironstar warriors. Since
+their fall, he has devoted himself to the priesthood with the hope of
+gaining a vision of how to aid his people. He is one of Dugan's staunchest
+suppots, and believes the old dwarf has the ability to lead their people
+into the future.
+~
+1074012170 32769 136249361 140 1000 S
+47 1 -40 100d1+30000 20d30+50
+2000000 1250000
+8 8 1
+2 7 22 22 22 22 22 22
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_MAGIC_RESIST 75
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=108
+#4720
+mob Kilas Ironstar~
+&yK&Yi&yl&Ya&ys &KIron&Wstar&n~
+&yK&Yi&yl&Ya&ys &KIron&Wstar &wkneels here in prayer.&n
+~
+  Kilas has devoted his entire life to Reorx, and has thus become an expert
+smith in the name of his god. When not found behind his bellows, he is often
+here in the temple, prayer for insight into his next creation.
+~
+1074012170 32769 136249361 140 1000 S
+46 1 -25 100d1+14000 30d30+70
+1000000 850000
+8 8 1
+2 7 22 22 22 22 22 22
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_MAGIC_RESIST 75
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=40
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_TYPE=108
+#4721
+mob Sevros Ironstar~
+&yS&Ye&yvr&Yo&ys &KIron&Wstar&n~
+&yS&Ye&yvr&Yo&ys &KIron&Wstar&w is here, reading some books.&n
+~
+  Sevros is the bookworm of the Ironstar clan. Though he is not the official
+recordkeeper, he performs many of the duties and has numerous backup copies of
+city records and data in the event that something is lost.
+~
+1074012170 32769 136249361 140 1000 S
+46 1 -35 100d1+14000 30d30+70
+1000000 850000
+8 8 1
+2 7 22 22 22 22 22 22
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_MAGIC_RESIST 75
+SKILL=SKILL_RAGE 99
+#4722
+mob Rhydolin Ironstar~
+&yRh&Yy&yd&Yo&yl&Yi&yn &KIron&Wstar&n~
+&yRh&Yy&yd&Yo&yl&Yi&yn &KIron&Wstar&w is here, keeping guard.&n
+~
+  Rhydolin is the self appointed guardian of the temple. Though he is
+quite young, he takes his job very seriously, and is rarely found in
+any other part of the city.
+~
+1074012170 32769 136249361 140 1000 S
+46 1 -40 100d1+14000 20d20+50
+1000000 850000
+8 8 1
+2 7 22 22 22 22 22 22
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_MAGIC_RESIST 75
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=108
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=108
+$~
+#999999

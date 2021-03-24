@@ -1,0 +1,1651 @@
+#3900
+Approaching the Volcano~
+   The trail leads closer to what seems to be an active volcano, lava clings
+to the rim of the open top.  Something seems to be moving at the top of the
+volcano, but it my be just a mere illusion of the lava.
+~
+29 1048576 0 1 99 4
+D0
+You can see the base of the Volcano.
+~
+~
+0 -1 3901
+D2
+Jungle Mountain Trail
+~
+~
+32 -1 16356
+S
+#3901
+At the base of the Volcano~
+   The volcano seems more active than what you once thought.   Small streams
+of lava pour down the sides of the path, forming pools of lava to your left
+and right.
+~
+29 1048576 0 1 99 4
+D2
+Approaching the Volcano
+~
+~
+0 -1 3900
+D4
+Looks like a climb up to get to the top.
+~
+~
+0 -1 3902
+S
+#3902
+Climbing the Volcano~
+   The trail leading to the volcano is very warm, with small lava rivers flowing
+down the left and rignt hand side of the path.  Up ahead you can see a great
+fiery light.
+~
+29 1048576 0 1 99 4
+D4
+Looks like a small road on the Volcano lies above.
+~
+~
+0 -1 3903
+D5
+the base of the Volcano.
+~
+~
+0 -1 3901
+S
+#3903
+Road before the Volcano~
+   You follow the road which appears to be formed from some type of volcanic
+debris wondering what lies ahead of you.
+~
+29 269484032 0 1 99 4
+D3
+Entrance to the Volcano.
+~
+~
+0 -1 3904
+D5
+Looks like a short climb down.
+~
+~
+0 -1 3902
+S
+#3904
+Entrance to the Volcano~
+   You find yourself standing beneath an enormous flaming arch.  As you approach
+it the scorching heat nearly burns the flesh right off your body.  Up you
+can see some sort of entry leading to the top of the volcano.
+~
+29 269484032 0 1 99 4
+D1
+Road before the Volcano.
+~
+~
+0 -1 3903
+D4
+A gate leading to the top of the Volcano.
+~
+gate~
+9 0 3905
+S
+#3905
+Entryway of the Volcano~
+   This short corridor is surrounded by flaming, lifeless skeletons.  As you
+pass by them you realize that you could be the next.
+~
+29 269484040 0 1 99 4
+D3
+the mouth of the Volcano.
+~
+~
+0 -1 3906
+D5
+A gate leading to the entrance of the Volcano.
+~
+gate~
+9 0 3904
+S
+#3906
+Top of the Volcano~
+   You scan the area noticing you are at least two hundred feet above the
+ground.  You also see half dead people crucified above the mouth of the
+volcano.  You wonder "Is this a sacrifice?"
+~
+29 269484032 0 1 99 4
+D1
+the entryway of the Volcano.
+~
+~
+0 -1 3905
+D5
+Looks like there is a passageway into the Volcano.
+~
+~
+0 -1 3907
+S
+#3907
+Passageway in the Volcano.~
+   It feels as if it could be two hundred degrees in this room.  As you look
+around you see a temple to your east.  The intense heat prevents you from
+seeing in any other direction.
+~
+29 269484040 0 1 99 4
+D0
+You can see a wall of solid lava, it seems to glow with an odd aura.
+~
+lava~
+25 0 3981
+D1
+You can see the entrance to a temple.
+~
+~
+0 -1 3908
+D2
+Corridor to Pyro's Castle.
+~
+~
+16 -1 3932
+D3
+You'll need the key from a terrible holocaust......
+~
+door~
+31 3916 3931
+D4
+the top of the Volcano.
+~
+~
+16 -1 3906
+D5
+It looks the like the floor is moving.
+~
+gate~
+31 3924 3943
+S
+#3908
+Entrance to the Temple of Lava~
+   Few people who enter this temple ever come out alive.  Those who do are
+usually nearly dead or are burnt beyond recognition.
+~
+29 269484044 0 1 99 4
+D1
+You can see a doorway leading into the Temple of Lava.
+~
+door~
+9 0 3909
+D3
+Passageway in the Volcano.
+~
+~
+0 -1 3907
+S
+#3909
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3913
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3918
+D2
+Corner of the Temple of Lava.
+~
+~
+0 -1 3910
+D3
+a door leading out of the Temple of Lava.
+~
+door~
+9 0 3908
+S
+#3910
+Corner of the Temple of Lava~
+   You look at the walls made of solid lava admiring the statues of half
+rotted bodies.  You realize that thes are not statues but are actually some
+poor souls that had the misfortune of coming here.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3909
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3911
+S
+#3911
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+crater of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3918
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3919
+D2
+The Lair of the skeleton master.
+~
+door~
+13 3909 3912
+D3
+Corner of the Temple of Lava.
+~
+~
+0 -1 3910
+S
+#3912
+Spine's Lair~
+   You look around and see pieces of flesh, and blood dripping from the
+ceiling.  The sickening stench of burnt and broken bodies and the bitter taste
+of blood in the air nearly makes you want to vomit.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+door~
+13 3909 3911
+S
+#3913
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Corner of the Temple of Lava.
+~
+~
+0 -1 3914
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3917
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3909
+S
+#3914
+Corner of the Temple of Lava~
+   You look at the walls made of solid lava admiring the statues of half
+rotted bodies.  You realize that thes are not statues but are actually some
+poor souls that had the misfortune of coming here.
+~
+29 269484040 0 1 99 4
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3915
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3913
+S
+#3915
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+what might be your fiery grave.
+~
+~
+0 -1 3916
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3922
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3917
+D3
+Corner of the Temple of Lava.
+~
+~
+0 -1 3914
+S
+#3916
+River of Lava~
+   You find yourself slowly engulfed by the molten lava.  Your body has now
+been made a permanent resident of this river of lava.  Your family will miss
+you.
+~
+29 1048590 0 1 99 4
+S
+#3917
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3915
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3921
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3918
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3913
+S
+#3918
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3917
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3920
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3911
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3909
+S
+#3919
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3920
+D1
+Corner of the Temple of Lava.
+~
+~
+0 -1 3923
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3911
+S
+#3920
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3921
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3924
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3919
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3918
+D5
+The floor looks oddly loose here.
+~
+floorboard~
+29 3952 3975
+S
+#3921
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3922
+D1
+Inside the Temple of Lava.
+~
+~
+0 -1 3925
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3920
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3917
+S
+#3922
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D1
+Corner of the Temple of Lava.
+~
+~
+0 -1 3926
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3921
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3915
+S
+#3923
+Corner of the Temple of Lava~
+   You look at the walls made of solid lava admiring the statues of half
+rotted bodies.  You realize that thes are not statues but are actually some
+poor souls that had the misfortune of coming here.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3924
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3919
+S
+#3924
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Inside the Temple of Lava.
+~
+~
+0 -1 3925
+D1
+a short passageway.
+~
+~
+48 -1 3927
+D2
+Corner of the Temple of Lava.
+~
+~
+0 -1 3923
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3920
+S
+#3925
+Inside the Temple of Lava~
+   The floor below you is covered with burning pentagrams and small bubbling
+craters of molten lava.
+~
+29 269484040 0 1 99 4
+D0
+Corner of the Temple of Lava.
+~
+~
+0 -1 3926
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3924
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3921
+S
+#3926
+Corner of the Temple of Lava~
+   You look at the walls made of solid lava admiring the statues of half
+rotted bodies.  You realize that thes are not statues but are actually some
+poor souls that had the misfortune of coming here.
+~
+29 269484040 0 1 99 4
+D2
+Inside the Temple of Lava.
+~
+~
+0 -1 3925
+D3
+Inside the Temple of Lava.
+~
+~
+0 -1 3922
+S
+#3927
+Passageway to the Chamber of Vulcan~
+   You are in a small, dark hallway.  Its only exits seem to be north and
+west.
+~
+29 271581193 0 1 99 4
+D0
+Before the Chamber of Vulcan.
+~
+~
+0 -1 3928
+D3
+Inside the Temple of Lava.
+~
+~
+32 -1 3924
+S
+#3928
+Before the Chamber of Vulcan~
+   You are now approaching the guard post of Holocaust.  He stands guarding
+your way to the god of fire.  Few have ever passed this spot and lived to
+tell about it.
+~
+29 271581197 0 1 99 4
+D2
+a short passageway.
+~
+~
+0 -1 3927
+D4
+Entrance to the Chamber of Vulcan.
+~
+~
+0 -1 3929
+S
+#3929
+Entrance to the Chamber of Vulcan~
+   You seem to be at the entrance to Vulcan's chamber.  Few have gone in, few
+have come out.  Those who come out are usually made his eternal slaves and
+spend eternity working for their master, they feel no pain, no joy, and no
+remorse.  They have no names, no life, and no emotions.
+~
+29 271581193 0 1 99 4
+D1
+The Chamber of Vulcan.
+~
+door~
+15 3916 3930
+D5
+Before the Chamber of Vulcan.
+~
+~
+0 -1 3928
+S
+#3930
+The Chamber of Vulcan~
+   You are in Vulcan's chamber.  In the center is quite a large throne covered
+completely with gold.  To your right are dead bodies that are missing limbs
+hanging on the ceiling.  And finally to your left are enormous pillars of
+gold and silver.
+~
+29 271581193 0 1 99 4
+D3
+Entrance to the Chamber of Vulcan.
+~
+door~
+15 3916 3929
+S
+#3931
+Vulcan's Weapon Hold~
+   This is the room in which Vulcan keeps his most prized weapon.  Be
+forewarned, he is at every moment watching you.
+~
+29 1880096904 536870912 1 99 4
+D1
+Too dark to tell......
+~
+~
+0 -1 3930
+S
+#3932
+Corridor to Pyro's Castle~
+   You are approching the wonderous palace of Pyro.  All you can see further
+ahead is darkness.
+~
+29 269484045 0 1 99 4
+D0
+Passageway in the Volcano.
+~
+~
+0 -1 3907
+D2
+It seems to be too dark to tell......
+~
+~
+0 -1 3933
+S
+#3933
+Corridor before Pyro's Castle~
+   Amazingly as soon as you step here great light is shown upon you, you
+then realize that it is not light, is the palace ahead of you shining brightly
+its golden bricks and tiles.
+~
+29 269484044 0 1 99 4
+D0
+Corridor to Pyro's Castle.
+~
+~
+0 -1 3932
+D2
+You can see the entrance to Pyro's Castle.
+~
+~
+0 -1 3934
+S
+#3934
+Entrance to Pyro's Castle~
+   This is the entrance to Pyro's castle.  This is a large gate with 2
+giant gargoyles on each side of it.  There is something not quite right about
+this place.
+~
+29 269484044 0 1 99 4
+D0
+You can see the corridor before the castle.
+~
+~
+0 -1 3933
+D2
+You can see inside the castle.
+~
+~
+0 -1 3935
+S
+#3935
+Pyro's Castle~
+   This is an awesome structure built by the best of the best architects in
+all realms of existance.  This structure is so sturdy that not even a god
+could destroy it.
+~
+29 269484040 0 1 99 4
+D0
+You can see the entrance.
+~
+~
+0 -1 3934
+D1
+The guards room.
+~
+door~
+9 0 3936
+D2
+Centre of the Castle.
+~
+~
+0 -1 3938
+D3
+You can see what appears to be a dining room.
+~
+door~
+9 0 3937
+S
+#3936
+Guard Room~
+   This room has armors and weapons hanging on the wall.  There are giant
+pillars attaching from the floor to the ceiling keeping the roof from caving
+in.  The room is illuminated by all the majestic lights hanging upon the
+walls.  Each corner of this room has treasures give to Pyro's guard for
+there wonderful duties.  From the looks of this room you know Pyro must
+treat his men with utmost respect and dignity.
+~
+29 269484040 0 1 99 4
+D3
+You can see outside into the hall of the castle.
+~
+door~
+9 0 3935
+S
+#3937
+Dining Room~
+   This is the dining chamber of Pyro.  This is where he eats all his exotic
+food and all his newly killed subjects.  This room reaks of death and makes
+you wonder how anyone could stand to be in here.
+~
+29 269484040 0 1 99 4
+D1
+You can see outside into the hall of the castle.
+~
+door~
+9 0 3935
+S
+#3938
+Centre of the Castle~
+   This is the center of the castle.  There are giant statues of the gods
+standing tall here, which make you feel uneasy about going any further into
+the castle.
+~
+29 269484040 0 1 99 4
+D0
+Inside the castle.
+~
+~
+0 -1 3935
+D1
+Only greedy fools would enter Pyro's treasure room.
+~
+door~
+9 0 3940
+D2
+Pyro's throne room.
+~
+door~
+9 0 3941
+D3
+The guards room.
+~
+door~
+9 0 3939
+S
+#3939
+Guard Room~
+   This room has armors and weapons hanging on the wall.  There are giant
+pillars attaching from the floor to the ceiling keeping the roof from caving
+in.  The room is illuminated by all the majestic lights hanging upon the
+walls.  Each corner of this room has treasures given to Pyro's guard for
+there outstanding duties.  From the looks of this room you know Pyro must
+treat his men with utmost respect and dignity.
+~
+29 269484040 0 1 99 4
+D1
+Centre of the Castle.
+~
+door~
+9 0 3938
+S
+#3940
+Treasure Room~
+   The instant you enter the room covered in gold you are engulfed by intense
+flashes of fire.  Your greed has made your body ashes to go with all the rest
+who will die in this chamber.
+~
+29 1048586 0 1 99 4
+S
+#3941
+Pyro's Throne Room~
+   You look around this diamond studded room and see giant pillars of gold
+and silver.  In the center of the room is a eligant looking throne only
+worthy of Pyro himself.  This room is seemingly hot so you have to wonder
+what exactly Pyro is.
+~
+29 269484040 0 1 99 4
+D0
+Centre of the Castle.
+~
+door~
+9 0 3938
+D5
+You can see a trapdoor leading to darkness.....
+~
+trapdoor~
+25 0 3942
+S
+#3942
+Hidden Treasure Room~
+   You have entered Pyro's secret treasure hold.  This is where he keeps
+his gold and valuables.  All around you is gold and jewels.  You wonder
+why there are no guards.
+~
+29 1345585164 1879048192 41 99 4
+S
+#3943
+Portal of Destiny~
+   Choose your path wisely, for if you do not you will find the concequences
+to be quite dreadful.
+~
+29 1345372172 805306368 1 99 4
+D0
+On the River Styx
+~
+~
+32 -1 1750
+D1
+Let your path bring you to a new beginning.
+~
+~
+0 -1 3900
+D2
+Just a simple twisted fate.....
+~
+~
+0 -1 3982
+D3
+Your destiny leads you down many new paths......
+~
+~
+0 -1 3944
+D4
+Where you once was, will be where you are now.
+~
+~
+0 -1 3943
+D5
+Eternity awaits your ashes.
+~
+~
+0 -1 3916
+S
+#3944
+Road to Vulcanus~
+   You have entered the hidden realm of Vulcanus.  Ahead it is dark, but you
+can see in the distance a glimmer of light.
+~
+29 269484032 0 1 99 4
+D2
+Heading down the road to Vulcanus.
+~
+~
+0 -1 3945
+D4
+Looks like a portal back to the bottom of the volcano.
+~
+~
+0 -1 3900
+S
+#3945
+Road before Vulcanus~
+   The area upon you is dark and quiet.  To your south you see a faint glimpse
+of light and quiet sounds of what could be people talking.
+~
+29 269484037 0 1 99 4
+D0
+Road to Vulcanus.
+~
+~
+0 -1 3944
+D2
+Vulcan Street.
+~
+~
+0 -1 3946
+S
+#3946
+Vulcan Street~
+   You are on Vulcan street.  This street runs north and south of town.  The
+road below you is paved with human skulls and painted with their blood.
+~
+29 269484032 0 1 99 4
+D0
+You can see the road before Vulcanus.
+~
+~
+0 -1 3945
+D2
+Centre of Vulcanus.
+~
+~
+0 -1 3947
+S
+#3947
+Centre of Vulcanus~
+   This is the center of the city.  Here stands a statue of Vulcan.  This
+spot is where the slaves and workers of Vulcan spend what little free time
+they have rotting and decaying in hopes that someday they might die and be
+free from his evil.
+~
+29 269484032 0 1 99 4
+D0
+Vulcan Street.
+~
+~
+0 -1 3946
+D1
+Vulcan Road.
+~
+~
+0 -1 3948
+D2
+Vulcan Street.
+~
+~
+0 -1 3950
+D3
+Vulcan Road.
+~
+~
+0 -1 3949
+S
+#3948
+Vulcan Road.~
+   Another road named after Vulcan.  This road is covered with dead bodies
+and smells so bad that you can nearly keep from passing out.
+~
+29 269484032 0 1 99 4
+D0
+Vergil's Exotic Food and Drink.
+~
+~
+0 -1 3954
+D2
+You can see the slaves quarters.
+~
+~
+0 -1 3953
+D3
+Centre of Vulcanus.
+~
+~
+0 -1 3947
+S
+#3949
+Vulcan Road.~
+   Another road named after Vulcan.  This road is covered with dead bodies
+and smells so bad that you can nearly keep from passing out.
+~
+29 269484032 0 1 99 4
+D0
+You can see the slave masters home.
+~
+~
+0 -1 3951
+D1
+Centre of Vulcanus.
+~
+~
+0 -1 3947
+D2
+The slaves chamber.
+~
+~
+0 -1 3952
+S
+#3950
+Vulcan Street~
+   You are on Vulcan street.  This street runs north and south of town.  The
+road below you is paved with human skulls and painted with their blood.
+~
+29 269484032 0 1 99 4
+D0
+Centre of Vulcanus.
+~
+~
+0 -1 3947
+D2
+It looks like a small dark path......
+~
+~
+0 -1 3955
+S
+#3951
+Home of the Slave Master~
+   This is the post of the Slave master.  He often sits here wondering about
+nothing and how many people he should kill each day.  There is a large sign
+on the wall.
+~
+29 269484040 0 1 99 4
+D2
+Vulcan Road.
+~
+~
+0 -1 3949
+E
+sign~
+Rules of Vulcanus:
+
+1. Do not talk.
+2. Do not breath.
+3. Do not enjoy anything.
+4. Do not eat or drink until forced to.
+5. Do not sleep until forced to.
+6. Do not stop working for anything.
+7. Do not forget to clean everything with you tongue.
+8. Do like being a slave.
+9. Do worship your master.
+10. Do allow yourself to rot and decay.
+
+       Have A Nice Day!
+
+~
+S
+#3952
+Slave Chamber~
+   This is the dining area for the slaves.  This place reeks of death and
+despair.  The only thing ever served here is the trash and dead bodies picked
+up off the streets.  The very few and lucky who get paid once a year can buy
+something from Vergil.  This place makes you want to vomit.
+~
+29 269484040 0 1 99 4
+D0
+Vulcan Road.
+~
+~
+0 -1 3949
+S
+#3953
+Slave Quarters~
+   This is the room where the slaves of Vulcan get to sleep and rest.  The
+walls are painted in blood and the beds are made of bone.  For sheets they
+use human flesh.  For pillows they use piles of human entrails.  You can't
+believe that anyone or anything could even live here.
+~
+29 269484040 0 1 99 4
+D0
+Vulcan Road.
+~
+~
+0 -1 3948
+S
+#3954
+Vergil's Exotic Food and Drink~
+   This is Vergil's shop of exotic foods and drinks.  Here you will find
+things that cannot be found anywhere else for the sole reason that these foods
+and drinks were given to Vergil from Vulcan himself.
+~
+29 269484040 0 1 99 4
+D2
+Vulcan Road.
+~
+~
+0 -1 3948
+S
+#3955
+A dark path~
+   This is a very dark path just south of town.  Next to you is a fairly
+small closed well, that looks as if it could lead somewhere.
+~
+29 269484037 0 1 99 4
+D0
+Vulcan Street.
+~
+~
+0 -1 3950
+D5
+Very dark and damp down there.....
+~
+well~
+9 0 3956
+S
+#3956
+Inside the Well~
+   You have entered a very dark well.  There is a ladder here that seems to
+keep going down.
+~
+29 269746189 0 1 99 4
+D4
+Its pretty dark up there.....
+~
+well~
+9 0 3955
+D5
+Still dark down there.....
+~
+~
+0 -1 3957
+S
+#3957
+Further down the Well~
+   As you go down further you notice it getting darker and darker by the
+minute.  The ladder continues down.
+~
+29 269746189 0 1 99 4
+D4
+Its kinda dark up there......
+~
+~
+0 -1 3956
+D5
+Nothing but darkness.....
+~
+~
+0 -1 3958
+S
+#3958
+Continuing down the Well~
+   It is so dark you can barely see anything.  It appears that you may
+possibly be near the bottom of the well.  The ladder continues down.
+~
+29 269746189 0 1 99 4
+D4
+Dark as can be.....
+~
+~
+0 -1 3957
+D5
+This could be the bottom......
+~
+~
+0 -1 3959
+S
+#3959
+Bottom of the Well~
+   You have reached the bottom of the well.  The floor seems to be quite damp
+and the room reeks of rotted bodies.  You see what appears to be and exit
+north.
+~
+29 269484045 0 1 99 4
+D0
+Deep beneath the volcano.
+~
+~
+0 -1 3960
+D4
+Darkness.....
+~
+~
+0 -1 3958
+S
+#3960
+Deep beneath the Volcano~
+   You find yourself standing deep below the volcano.  You feel intense heat
+all around you and see bubbling lava dripping from the ceiling above.  There
+is something strange about this room, but you just don't know what.  South
+seems to be the only exit from here.
+~
+29 269484045 0 1 99 4
+D2
+The bottom of the well.
+~
+~
+0 -1 3959
+D3
+You can see a strange looking wall.
+~
+wall~
+25 0 3961
+S
+#3961
+Secret Passageway~
+   You have found what seems to be a secret passage.  It is quite dark here
+and to your west.  You must wonder what lies ahead.
+~
+29 269484045 0 1 99 4
+D1
+Deep beneath the volcano.
+~
+wall~
+9 0 3960
+D3
+You can see a wonderous looking land ahead.
+~
+~
+0 -1 3962
+S
+#3962
+Lost Kingdom of Fire~
+   This is a forgotten valley ruled by drakes.  Few have found this lost
+kingdom and few have ever survived it.
+~
+29 271581184 0 1 99 4
+D0
+Lost Kingdom of Fire.
+~
+~
+0 -1 3963
+D1
+There is a secret passageway here.
+~
+~
+0 -1 3961
+D2
+Lost Kingdom of Fire.
+~
+~
+0 -1 3964
+D3
+Lost Kingdom of Fire.
+~
+~
+0 -1 3965
+S
+#3963
+Lost Kingdom of Fire~
+   This is a forgotten valley ruled by drakes.  Few have found this lost
+kingdom and few have ever survived it.
+~
+29 271581184 0 1 99 4
+D0
+~
+~
+0 -1 3983
+D2
+Lost Kingdom of Fire.
+~
+~
+0 -1 3962
+D3
+Lost Kingdom of Fire.
+~
+~
+0 -1 3967
+S
+#3964
+Lost Kingdom of Fire~
+   This is a forgotten valley ruled by drakes.  Few have found this lost
+kingdom and few have ever survived it.
+~
+29 271581184 0 1 99 4
+D0
+Lost Kingdom of Fire.
+~
+~
+0 -1 3962
+D2
+Here lies a deep pit with a dim light at the bottom.  I wouldnt go...DOWN
+~
+~
+0 -1 3974
+D3
+Lost Kingdom of Fire.
+~
+~
+0 -1 3966
+S
+#3965
+Lost Kingdom of Fire~
+   This is a forgotten valley ruled by drakes.  Few have found this lost
+kingdom and few have ever survived it.
+~
+29 271581184 0 1 99 4
+D0
+Lost Kingdom of Fire.
+~
+~
+0 -1 3967
+D1
+Lost Kingdom of Fire.
+~
+~
+0 -1 3962
+D2
+Lost Kingdom of Fire.
+~
+~
+0 -1 3966
+D3
+The Palace Gate.
+~
+PalaceGate~
+9 0 3968
+S
+#3966
+Lost Kingdom of Fire~
+   This is a forgotten valley ruled by drakes.  Few have found this lost
+kingdom and few have ever survived it.
+~
+29 271581184 0 1 99 4
+D0
+Lost Kingdom of Fire.
+~
+~
+0 -1 3965
+D1
+Lost Kingdom of Fire.
+~
+~
+0 -1 3964
+S
+#3967
+Lost Kingdom of Fire~
+   This is a forgotten valley ruled by drakes.  Few have found this lost
+kingdom and few have ever survived it.
+~
+29 271581184 0 1 99 4
+D0
+Path to the Tree.
+~
+~
+0 -1 3972
+D1
+Lost Kingdom of Fire.
+~
+~
+0 -1 3963
+D2
+Lost Kingdom of Fire.
+~
+~
+0 -1 3965
+S
+#3968
+Queen's Chamber~
+   You have entered the chambers of Queen Xyria.  Blackened pillars of marble
+and ivory stand before you, all charred from the breath of Xyria.  The walls
+are gold, the floor and ceiling are silver.....  And both are covered in.....
+&RBLOOD&n.
+~
+29 271581312 0 1 99 4
+D1
+The Palace Gate.
+~
+PalaceGate~
+9 0 3965
+D4
+Up the Palace Tower.
+~
+~
+0 -1 3969
+S
+#3969
+Up the Palace Tower~
+   You climb up the tower wonder what awaits you at the top.  This is a small
+area that makes you wonder how more than one person could even fit in here.
+~
+29 271581696 0 1 99 4
+D4
+Further Up the Tower.  Looks like it may be a dead end.....
+~
+~
+0 -1 3970
+D5
+Queen's Chamber.
+~
+~
+0 -1 3968
+S
+#3970
+Further Up the Tower~
+   Looks like you've hit a dead end......  But you could have sworn this tower
+was taller?  Maybe it is....  Who knows?
+~
+29 271581696 0 1 99 4
+D4
+Looks as if there is a hidden door here.
+~
+trapdoor~
+25 0 3971
+D5
+Up the Palace Tower.
+~
+~
+0 -1 3969
+S
+#3971
+King's Overlook~
+   This is where the King of the Drakes, Shi'van, looks over his kingdom,
+that has been so sacred to him and his followers for a very long time.  You
+wonder where he could be.......???
+~
+29 271581184 0 1 99 4
+D5
+Further Up the Tower.
+~
+trapdoor~
+9 0 3970
+S
+#3972
+Path to the Tree~
+   This is a small path which leads to the greatly worshipped Fire Tree.
+The path continues west.
+~
+29 271581184 0 1 99 4
+D2
+Lost Kingdom of Fire.
+~
+~
+0 -1 3967
+D3
+There looks to be a giant tree in this direction.
+~
+~
+0 -1 3973
+S
+#3973
+The Tree of Fire~
+   You are now at the resting place of the sacred Fire Tree.  It is said that
+this tree holds the power to this land and once lived here as a drake.  This
+tree is here worshipped as a god so it must be treated with respect.
+~
+29 271581184 0 1 99 4
+D1
+Path to the Tree.
+~
+~
+0 -1 3972
+S
+#3974
+Pit of Fire~
+Ahhhhhhhhhh...........
+
+
+
+
+Heeeeeeeelllllllppppp meeeeeeeee.........
+
+
+
+
+
+*SWOOSH*
+*SPAT*
+
+   You hit the bottom of the pit and you whole body spatters the room, then
+all that remains is engulfed in a wall of fire, permenently turning your
+remains into ash.
+~
+29 3145734 0 1 99 4
+S
+#3975
+Hidden path to the core~
+   You have stumbled upon the secret entrance to the center of the land.
+This room is kinda warm, and below you looks bright and flame like.  Watch
+your step, something could be down there you don't want to find.
+~
+29 269484040 0 1 99 4
+D4
+Inside the Temple of Lava.
+~
+floorboard~
+13 3909 3920
+D5
+Continuing down the hidden path.
+~
+~
+0 -1 3976
+S
+#3976
+Continuing down the hidden path~
+   You notice as you go down, it gets warmer.  The light gets brighter.
+~
+29 269484040 0 1 99 4
+D4
+Hidden path to the core.
+~
+~
+0 -1 3975
+D5
+Further down the hidden path.
+~
+~
+0 -1 3977
+S
+#3977
+Further down the hidden path~
+   It is starting to get really hot and bright now.  You are sweating
+increadibly, but you must find out what is at the bottom.
+~
+29 269484040 0 1 99 4
+D4
+Continuing down the hidden path.
+~
+~
+0 -1 3976
+D5
+Nearing the end of the hidden path.
+~
+~
+0 -1 3978
+S
+#3978
+Nearing the end of the hidden path~
+   Your beginning to get faint from the intensity of the heat, and you can
+barely see from the bright light.  You have to keep goin, you must know what
+is down there.....  You must!
+~
+29 269484040 0 1 99 4
+D4
+Further down the hidden path.
+~
+~
+0 -1 3977
+D5
+Before the bottom of the hidden path.
+~
+~
+0 -1 3979
+S
+#3979
+Before the bottom of the hidden path~
+   It is so hot that the flesh on your body is beginning to actually melt
+off.  You will stand the pain and the intense heat just because you almost
+there.  You will soon know what is at the bottom.
+~
+29 269484044 0 1 99 4
+D4
+Nearing the end of the hidden path.
+~
+~
+0 -1 3978
+D5
+You can see the core of the volcano.
+~
+~
+0 -1 3980
+S
+#3980
+The Core~
+   You have reached it, The Core, it is so hot that you can barely sustain your
+own consciencness.  You can't see anything from the brightness of the light
+and wonder what is here......  What could of made me want to keep going......
+YOU MUST KNOW!!!
+~
+29 269484040 0 1 99 4
+D4
+Before the bottom of the hidden path.
+~
+~
+0 -1 3979
+S
+#3981
+Room of the lava lords~
+   You are in a room where all of the extra lava forms monsters.  This room
+is just one big platform surrounded by lava.  There seems to be no way out.....
+Or is there?
+~
+29 808452232 1879048192 1 99 4
+S
+#3982
+Gotcha!~
+&wYou are dead!  Sorry...
+
+    &K/"""""/"\"""""..
+&K   /     /  /\      \            &y__
+&K  /     /        &w/\&K  \           &y||
+&K /____ /  &w/\  |  |/&K   \          &y||
+&K|     |  &w|_/  | .|&K    |          &y||
+&K|     |  &w| \ .|&K       |          &y||
+&K|   &w_/&K|  &w|&K            |          &y||
+&K| &w_/  &K|               |          &y||
+&K|&w/ \_&K |     &w* *   * *&K |         &K_&y||&K_
+&K|    &w\&K|     &w*\/* *\/*&K |        &K| TT |
+&K|     |     &w*_\_  /&K   &y...&g""""""&K| || |&y.&g""&y....&g""""""""&y.&g""
+&K|     |    &w*    \/&y..&g"""""&y...&g"""&K\ || /
+&K|&y....&g"""""""&y........&g""""""&y^^^^&g"&y.......&g""""""""&y..&g"
+&K|&y......&g"""""""""""""""&y........&g"""""&y....&g"""""&y..&g""
+
+
+
+&wCrimsonMUD II Main Menu:
+
+1) &cEnter the game.
+&w2) &cConfigure character.
+&w3) &cEnter description.
+&w4) &cChange password.
+&w5) &cDelete this character.
+
+&w0) &rExit from CrimsonMUD II.&w
+
+   Make your choice: &n
+
+
+~
+29 1345323016 1342177280 1 99 4
+S
+#3983
+Lost Kingdom of Fire~
+   This is a forgotten valley ruled by drakes.  Few have found this lost
+kingdom and few have ever survived it.
+~
+29 271581184 0 0 99 4
+D1
+~
+~
+0 -1 3984
+D2
+~
+~
+0 -1 3963
+S
+#3984
+&KDusk&rF&Rl&Ya&Rm&re&K's Lair&n~
+  This bubbling pool of lava is home to the ancient red dragon DuskFlame. Bits of
+treasure and baubbles lie strewn all about, but most have been melted by the scorching
+hot lava and are now worthless.
+~
+29 808458244 1 0 99 4
+D3
+~
+~
+0 -1 3983
+S
+$~
+#999999

@@ -1,0 +1,73 @@
+#
+# 
+#
+# Name must be 4 to 20 characters
+NAME=Half Giant
+# enter 5 digit race description which appears on the WHO list
+DESC=HlfGi
+# Enter text displayed when view race details 80bytes/per
+TEXT1=Half Giants usually have tended to roam alone in the hills.  They are
+TEXT2=nothing like as large and powerful as full giants, but are nonetheless
+TEXT3=much more powerful than humans.
+TEXT4=none
+# alignment must be EVIL, NORMAL, GOOD
+ALIGNMENT=NORMAL
+# physical size must be SMALL, NORMAL, LARGE
+PHYSICAL_SIZE=LARGE
+# Stats must be 1 to 26
+MAX_STR=25
+MAX_INT=16
+MAX_WIS=16
+MAX_DEX=16
+MAX_CON=24
+MAX_CHA=20
+# starting hit, mana, moves
+BASE_HIT=30
+BASE_MANA=20
+BASE_MOVE=103
+# max hit, mana, and moves must be 0 to 1 million.
+MAX_HIT=2500
+MAX_MANA=2500
+MAX_MOVE=2500
+# max food, thirst, and drunk must be 10 to 250.
+MAX_FOOD=150
+MAX_THIRST=150
+MAX_DRUNK=80
+# adjustments must be -25 to 25.  A stat will never fall below 3.
+ADJ_STR=+3
+ADJ_INT=-1
+ADJ_WIS=-1
+ADJ_DEX=0
+ADJ_CON=+2
+ADJ_CHA=-2
+# admustments to hit, mana, move.
+ADJ_HIT=0
+ADJ_MANA=0
+ADJ_MOVE=0
+# adjustments to hit roll range: -50, +50
+ADJ_HITROLL=+1
+# adjustments to damage roll range: -50, +50
+ADJ_DMGROLL=+1
+# adjustments to armour class range: -25, +25
+ADJ_AC=+10
+# Food is normally set to 100.  This means they use 100% of food
+# normally.  If set to 50, the race only uses half the food.
+# if set to 200, race uses twice the food.  A 0 values means no
+# food consumption.
+ADJ_FOOD=350
+ADJ_THIRST=350
+ADJ_DRUNK=50
+# Regeneration is normally set to 100.  This means chars gain 100%
+# normally.  If set to 50, the race only gains at half the rate.
+# if set to 200, race regens at double rate.  A 0 values means no
+# regen.
+REGEN_HIT=100
+REGEN_MANA=100
+REGEN_MOVE=100
+# Enter the spell acronym.
+RACE_PERM_SPELL1=0
+RACE_PERM_SPELL2=0
+RACE_PERM_SPELL3=0
+RACE_PERM_SPELL4=0
+RACE_PERM_SPELL5=0
+# skill/spell adjustments

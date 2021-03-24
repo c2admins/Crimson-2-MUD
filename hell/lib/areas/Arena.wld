@@ -1,0 +1,1155 @@
+#1700
+Arena Center~
+&RWelcome &GTo &YDeath&B.  The Arena of Death.  In this area you can kill 
+others without the worry of getting a &GPKILLER&B flag or without losing
+standing with the Gods.  Those who have, however, an 'unsteady' relationship
+with lady luck as Mr. Sinatra says, shall be warned that they enter here at 
+their own risk.  Rules on &GPKILLING&B still apply and will be strictly
+enforced.
+
+Please NOTE that that means NO looting unless both opponents have a PK flag
+and/or both parties have agreed to looting and that agreement was witnessed
+by a third party.
+
+Please NOTE that the Arena has been much changed.  It is much, much more
+deadly than before.  So look out and beware, and most of all, enjoy the
+insanity.    :)
+
+May the Gods have &RMercy&B on you.
+~
+15 1342193676 806354944 6 99 1
+D0
+Danger ahead.
+~
+~
+0 -1 1702
+D1
+possible danger ahead.
+~
+~
+0 -1 1703
+D2
+Danger ahead.
+~
+~
+0 -1 1701
+D3
+possible danger ahead.
+~
+~
+0 -1 1704
+D4
+Market Square
+~
+~
+0 -1 3014
+E
+pkilling~
+PKILLING
+Last updated 05/05/98
+
+On Crimson II we allow players to Pkill other players.  To enter
+into the pkilling aspect of the game, you must attain at least
+level 20 and ask an Implementor+ to set the flag for you.  However due
+to some players persecuting players they don't like, we have established
+some rules which still must be followed.
+
+  - Immortals/Gods may not kill players.
+  - Avatars can kill Avatars. If you do this preferably be away from a mort.
+  - Avatars may kill morts, and vice versa. Avatars are expected to show
+    maturity in this respect.
+  - A player MAY NOT be killed if they do not have the pkillable flag
+    (identifiable by the <PK> by their title in the who list).  If you
+    have a problem, contact a god.  There is coding that SHOULD protect pc's
+    without the pkillable flag.
+  - If someone is provoking you into assaulting them to make you look like your
+    persecuting, tell a ANTE+ char to snoop the offending player or
+    yourself.  If the ANTE+ see's it he/she will take care of it.
+  - Pkilling with a charmed mob is illegal. Period.
+  - If you want to summon someone and pkill them, YOU summon them.
+    Summoning a player to be killed by someone else is illegal.
+  - When you pkill someone you are allowed to take ONE item from their
+    corpse, if and ONLY if that person has the pkillable flag and you
+    have the pkillable flag.  If the corpse is gone before you loot, bad 
+    luck.
+
+Generally, just use common sense when you pkill someone. Don't persecute them.
+Kill them once and drop the grudge.
+
+An arena 1 down from the Market Square has been installed.  Anybody can
+pkill or be pkilled here, regardless of what flags they have.
+
+
+Note: If you happen to make someone mortally wounded and you leave it that
+      way you are able to steal worn equipment, only one piece is allowed
+      though.
+~
+S
+#1701
+One of the Pits.~
+You have stumbled across one of the pits.
+Thank you for playing and please enjoy your fall *cackle*.
+~
+15 1342242830 1048576 1 99 1
+S
+#1702
+One of the Pits.~
+You have stumbled across one of the pits.  
+Thank you for playing and please enjoy your fall *cackle*.
+~
+15 268435470 1048576 1 99 1
+S
+#1703
+E Arena~
+AMAZING! You did not notice it before, in fact you did not notice it until
+you entered the room, but for some reason the eastern section of the Arena
+is totally filled with water!  You find yourself having trouble moving about 
+in the water.  Your movements are slow and you need to swim, but worst of all
+is you are running out of air!
+~
+15 1879195656 537919488 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1706
+D1
+possible danger ahead
+~
+~
+0 -1 1717
+D2
+possible danger ahead
+~
+~
+0 -1 1710
+D3
+the Arena Center ahead.
+~
+~
+0 -1 1700
+S
+#1704
+W Arena~
+You have arrived in the Western end of the Arena.
+The sounds of fighting fill your ears and you find yourself pausing for
+a second.  It is then that you notice your magical aura being slowly
+eaten away.  A trap for those magically inclined!!!
+~
+15 1879065608 537919488 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1705
+D1
+the Arena Center ahead.
+~
+~
+0 -1 1700
+D2
+possible danger ahead
+~
+~
+0 -1 1714
+D3
+possible danger ahead
+~
+~
+0 -1 1716
+S
+#1705
+NW Arena~
+You are standing in the Nortwest corner of the Arena.
+A great sense of good will and life seems to fill the air around you
+and you feel that this would be a good place for those good natured
+to make a stand.
+~
+15 1879064648 537919488 1 99 1
+D2
+possible danger ahead
+~
+~
+0 -1 1704
+D5
+possible danger ahead
+~
+~
+0 -1 1707
+S
+#1706
+NE arena~
+You are standing in the Northeast corner of the Arena.
+A choking darkness so thick you can almost cut it surrounds you.
+Flashes of gruesome images appear before your eyes and dark thoughts 
+enter into your head.  The stench of evil is strong here, stronger 
+than anywhere you've noticed.  It is the perfect place for those
+who are less than honorable.
+~
+15 1879064601 537919488 1 99 1
+D2
+possible danger ahead
+~
+~
+0 -1 1703
+D5
+possible danger ahead
+~
+~
+0 -1 1708
+S
+#1707
+Lower NW Arena~
+You have entered into the lower Northwest part of the Arena.
+~
+15 1879064585 537919488 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1709
+D4
+possible dange ahead
+~
+~
+0 -1 1705
+S
+#1708
+Lower NE Arena~
+You are standing in the Lower Northeast corner of the Arena.
+You feel cramped.  You feel as if you might suffocate.  It
+appears that only one other could fit in here with you.
+Hopefully it is an ally and not a foe.
+~
+15 1879327240 537919488 1 99 1
+D3
+possible danger ahead
+~
+~
+0 -1 1709
+D4
+possible danger ahead
+~
+~
+0 -1 1706
+S
+#1709
+N Arena~
+You have made your way into the Northern part of the Arena.
+The air here is heavy and it makes it hard for you to think.
+For some reason the words to your magical spells come 
+slowly to your mind and their meaning is unclear when
+they do.
+~
+15 1879067784 537919488 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1707
+D3
+possible danger ahead
+~
+~
+0 -1 1708
+D5
+possible danger ahead
+~
+~
+0 -1 1715
+S
+#1710
+SE Arena~
+*ZAP* The static air of the Southeast end of the Arena makes 
+contact with your skin causing you to yelp in pain.  Will
+the madness of this cursed Arena never end!  You rub your 
+pained chest and wonder why you are unable to hear anything.
+~
+15 1879328776 537919488 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1703
+D5
+possible danger ahead
+~
+~
+0 -1 1711
+S
+#1711
+Lower SE Arena~
+You have come upon the Lower Southeast Arena.
+Here you can feel that there is a battle of alignment brewing.
+People who would not take a side in the battle of good 
+versus evil would not dare enter.
+~
+15 1879064616 537919488 1 99 1
+D3
+possible danger ahead
+~
+~
+0 -1 1712
+D4
+possible danger ahead
+~
+~
+0 -1 1710
+S
+#1712
+S Arena~
+This is the Southern point of the Arena.
+A puzzling feeling comes over you as you stand here.  
+Your skin tingles and your mind races.  You feel you
+should make up your mind as to which way to go and 
+do it quickly, for this is not a place for those
+who are unsure of what they want.
+~
+15 2013282312 537919488 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1711
+D3
+possible danger ahead
+~
+~
+0 -1 1713
+D5
+possible danger ahead
+~
+~
+0 -1 1715
+S
+#1713
+Lower SW Arena~
+You have entered the Lower Southwest Arena.
+Anything and Everything goes here.
+~
+15 1879064584 537919488 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1712
+D4
+possible danger ahead
+~
+~
+0 -1 1714
+S
+#1714
+SW Arena~
+The Southwestern area of the Arena seems to be made up of
+a tiny, tiny room. You'd guess that you would have trouble
+fitting more than two people in here at once, especially
+if those two were locked in combat.
+~
+15 1879327240 537919488 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1704
+D5
+possible danger ahead
+~
+~
+0 -1 1713
+S
+#1715
+Arena Pit~
+You tumble into a large pit that is suspended below the Arena.
+This area is huge and from down here you are able to see the
+whole of the upper Arena.  There seems to be no way out of 
+this particular area, until you notice the deteriorating
+statue of Mercy reaching up into the sky - all the way up
+to the center of the Arena.
+~
+15 1879064584 537919488 1 99 1
+D4
+~
+~
+144 -1 1700
+S
+#1716
+The Landing~
+Just remember that Man is the killing organism!!
+He must kill to survive!
+He must kill to advance!
+
+~
+15 1879064584 537919488 41 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1722
+D1
+possible danger ahead
+~
+~
+0 -1 1704
+D2
+possible danger ahead
+~
+~
+0 -1 1723
+D3
+Danger ahead.
+~
+~
+0 -1 1719
+S
+#1717
+The Landing~
+Dying
+Is an art, like everything else.
+Here we hope you learn to do it exceptionally well.
+~
+15 1879064584 537919488 1 40 1
+D0
+possible danger ahead
+~
+~
+0 -1 1720
+D1
+Danger ahead.
+~
+~
+0 -1 1718
+D2
+possible danger ahead
+~
+~
+0 -1 1721
+D3
+possible danger ahead
+~
+~
+0 -1 1703
+S
+#1718
+Knife-edge~
+Life's but a knife-edge, anyway......
+
+
+
+Sooner or later people slip and get cut.  
+~
+15 1879064590 538181632 1 99 1
+S
+#1719
+Suicide's Place~
+Every suicide is a solution to a problem.
+~
+15 1879064590 537919488 1 99 1
+S
+#1720
+Entrance to the Rooms of what Awaits~
+Can you feel the spirits of the dead?  
+The hairs on the back of your neck begin to rise up as you
+begin to believe you feel lost friends and foes brushing
+by you.  You fear proceeding into what awaits for you are
+certain that it only gets worse.
+~
+15 1879064584 537919488 1 99 1
+D2
+possible danger ahead
+~
+~
+0 -1 1717
+D5
+possible danger ahead
+~
+~
+0 -1 1724
+S
+#1721
+Entrance to the Halls of Immortality~
+You are filled with a sense of awe and honor.  You have come
+upon a place which is to be kept sacred.  You can feel peace
+flow throughout you and calm fulfills you.  However, I bet
+you didn't believe that such a place has been deemed by the
+honored dead to be a place of battle.  Beware for the
+honored deceased wish to be honored mostly with more death.
+~
+15 1879064584 537919488 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1717
+D5
+possible danger ahead
+~
+~
+0 -1 1730
+S
+#1722
+Entrance to the Rooms of what Awaits~
+Can you feel the spirits of the dead?
+The hairs on the back of your neck begin to rise up as you
+begin to believe you feel lost friends and foes brushing
+by you.  You fear proceeding into what awaits for you are
+certain that it only gets worse.
+~
+15 1342193672 1048576 1 99 1
+D2
+possible danger ahead
+~
+~
+0 -1 1716
+D5
+possible danger ahead
+~
+~
+0 -1 1725
+S
+#1723
+Entrance to the Halls of Immortality~
+You are filled with a sense of awe and honor.  You have come
+upon a place which is to be kept sacred.  You can feel peace
+flow throughout you and calm fulfill you.  However, I bet you
+didn't believe that such a place has been deemed by the 
+honored dead to be a place of battle.  Beware for the honored
+deceased wish to be honored mostly with more death.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1716
+D5
+possible danger ahead
+~
+~
+0 -1 1731
+S
+#1724
+Futility~
+Then there is no hope for us, is there?
+No hope.
+No hope at all, is there?
+NO, no hope at all.
+~
+15 1342193672 1048576 41 99 1
+D2
+possible danger ahead
+~
+~
+0 -1 1736
+D3
+possible danger ahead
+~
+~
+0 -1 1726
+D4
+possible danger ahead
+~
+~
+0 -1 1720
+S
+#1725
+Despair~
+There is nowhere but here,
+there are not two places,
+there are not two prisons,
+it's your parlour,
+it's your parlour where all you can expect is
+DEATH
+~
+15 1342193672 1048576 1 40 1
+D1
+possible danger ahead
+~
+~
+0 -1 1728
+D2
+possible danger ahead
+~
+~
+0 -1 1735
+D4
+possible danger ahead
+~
+~
+0 -1 1722
+S
+#1726
+Room of Suffering~
+Evil is the world.
+The question is why innocent people are punished
+are suffering.
+There are no answers.
+There is only death for those who search here.
+There is no mercy.
+~
+15 1342193672 1048576 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1724
+D2
+possible danger ahead
+~
+~
+16 -1 1729
+D3
+possible danger ahead
+~
+~
+0 -1 1727
+S
+#1727
+Dread~
+Life always comes to a bad end.
+~
+15 1342193672 1048576 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1726
+D3
+possible danger ahead
+~
+~
+0 -1 1728
+S
+#1728
+Death~
+It is a sad world
+In this dark gloom
+We live like beasts
+It is kill or be killed.
+~
+15 1342193672 1048576 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1727
+D3
+possible danger ahead
+~
+~
+0 -1 1725
+S
+#1729
+&RM&YE&BR&GC&WY&C'&Rs &YR&Bo&Go&Wm&n~
+You do not die all at once.
+Some tissues live on for minutes, even hours, giving still 
+their cellular shrieks, molecular echoes of the agony of
+the whole corpus.  Here and there a spray of nerves dances
+on.  True, the heart stops, the blood no longer courses,
+the electricity of the brain sputters, then shuts down.
+Death is now pronounceable.
+But there are outposts where clusters of cells yet shine,
+besieged, little lights blinking in the advancing darkness.
+Doomed soldiers, they battle on.  Until Death has secured
+the premises all to itself of Mercy has come to spare 
+your life.
+~
+15 1342193676 1048576 1 1 0
+D0
+possible danger ahead
+~
+~
+16 -1 1726
+D2
+possible danger ahead
+~
+~
+16 -1 1734
+S
+#1730
+The Mortal's Room~
+You have stumbled upon the only way for mortals
+to enter the Halls of Immortality.
+~
+15 1342193672 1048576 1 40 1
+D0
+possible danger ahead
+~
+~
+0 -1 1736
+D3
+possible danger ahead
+~
+~
+0 -1 1734
+D4
+possible danger ahead
+~
+~
+0 -1 1721
+S
+#1731
+The Avatar's Room~
+You have stumbled upon the only way for avatars
+to enter the Halls of Immortality.
+~
+15 1342193672 1048576 41 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1735
+D1
+possible danger ahead
+~
+~
+0 -1 1732
+D4
+possible danger ahead
+~
+~
+0 -1 1723
+S
+#1732
+The Room of Heros~
+You have come upon the Room of Heros.
+
+Here Heros of grand proportions and stature are honored
+with their names and stories written on the walls.
+These fierce warriors and battlemasters are the elite of
+Midgaard and have triumphed in great quests and warfare
+upon these battlefields.
+~
+15 1342193672 1048576 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1733
+D3
+possible danger ahead
+~
+~
+0 -1 1731
+S
+#1733
+The Room of Clans~
+You have come across the grand room of Clans.
+
+Here Clans of great valour and triumph are honored by
+having their legacies left for all to see written on the
+walls.  These are Clans that have fought on these
+battlefields and vanquished their oppressors and foes
+and lived in the glory that is known as battle.  These
+are Clans that have faced Death and spit in its face
+and gone on to mud another day.
+~
+15 1342193672 1048576 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1734
+D3
+possible danger ahead
+~
+~
+0 -1 1732
+S
+#1734
+The Room of Gods~
+Here you have entered the Room of the Gods.
+Tribute and honor is bestowed to Immortals of Crimson II
+past and present.  You see paintings of Kinetic, standing
+tall and proud, overseeing his domain, of Hercules, 
+standing with a smirk on his face as he listens to 
+everyone's requests, of Mercy who laughs at your pleas 
+for pity and salvation, of Bingo who is barking in the
+corner, Vangar standing proudly as everyone as he
+admires his spear, of Shast who stands regally next
+to Kinetic and Hercules and many, many others.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+16 -1 1729
+D1
+possible danger ahead
+~
+~
+0 -1 1730
+D3
+possible danger ahead
+~
+~
+0 -1 1733
+S
+#1735
+The Bloodied GateWay to Battle~
+You hear screams and cries and death and suffering.
+Oh, the humanity.  You do not think you can bear
+another moment of hearing those cries of death and
+pleas for mercy.  You are one of two.  Either you 
+are weak, and will turn back to where you came, or
+are strong, and will proceed to the Battlefield
+and take part in the frays.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1725
+D2
+possible danger ahead
+~
+~
+0 -1 1731
+D5
+possible danger ahead
+~
+~
+0 -1 1738
+S
+#1736
+The Bloodied GateWay to Battle~
+You hear screams and cries and death and suffering.
+Oh, the humanity.  You do not think you can bear
+another moment of hearing those cries of death and
+pleas for mercy.  You are one of two.  Either you 
+are weak, and will turn back to where you came, or
+are strong, and will proceed to the Battlefield
+and take part in the frays.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1724
+D2
+possible danger ahead
+~
+~
+0 -1 1730
+D5
+possible danger ahead
+~
+~
+0 -1 1737
+S
+#1737
+The Sounds of Death and Triumph~
+Before you is the entrance to the Largest Battlefield
+in Midgaard.  You witness in front of you small
+personal duels being fought for justice and honor.
+Wrongs are being ammended and evil is battling good.
+You can hear large groups of men and women shouting
+out their Clan's warcries as the mighty houses of
+Midgaard parry and dodge for spots in Midgaard's
+clan elite list.  There is death all around you.
+Wicked, evil, insane death.  You see warriors, 
+mages, clerics and thieves of all races fighting
+side by side and against each other.  You are
+drawn to the battle.  You want to live it,
+be a part of it, it is you and you are what is 
+in front of you.
+~
+15 1342193672 1048576 1 99 1
+D3
+possible danger ahead
+~
+~
+0 -1 1741
+D4
+possible danger ahead
+~
+~
+0 -1 1736
+S
+#1738
+The Sounds of Triumph and Death~
+Before you is the entrance to the Largest Battlefield
+in Midgaard.  You witness in front of you small
+personal duels being fought for justice and honor.
+Wrongs are being ammended and evil is battling good.
+You can hear large groups of men and women shouting
+out their Clan's warcries as the mighty houses of
+Midgaard parry and dodge for spots in Midgaard's
+clan elite list.  There is death all around you.
+Wicked, evil, insane death.  You see warriors, 
+mages, clerics and thieves of all races fighting
+side by side and against each other.  You are
+drawn to the battle.  You want to live it,
+be a part of it, it is you and you are what is 
+in front of you.
+~
+15 1342193672 1048576 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1739
+D4
+possible danger ahead
+~
+~
+0 -1 1735
+S
+#1739
+Clashing of Swords~
+You hear it all around you now, it is beginning to
+seep into your veins and flow through you.  You 
+hear the sounds of swords on swords, axes and 
+daggers.  You can't help but feel a rush run
+through you as you begin to foam at the mouth
+with bloodlust.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1744
+D1
+possible danger ahead
+~
+~
+0 -1 1740
+D2
+possible danger ahead
+~
+~
+0 -1 1747
+D3
+possible danger ahead
+~
+~
+0 -1 1738
+S
+#1740
+In the Midst of the Battle~
+This huge battlefield is littered with corpses of
+the weak and undeserving.  Clans have been made
+here and destroyed here.  It is the perfect place
+for an entire clan to fight another for the glory
+and honor which is part of surviving to kill yet
+another day.
+~
+15 1342196744 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1743
+D1
+possible danger ahead
+~
+~
+0 -1 1741
+D2
+possible danger ahead
+~
+~
+0 -1 1746
+D3
+possible danger ahead
+~
+~
+0 -1 1739
+S
+#1741
+The Fallen and The Triumphant~
+Here you see the insanity of it all.
+All you find before you is corpses.
+Hundreds and hundreds of corpses and men and women
+standing over them cackling with the madness
+that is shown in their eyes, howling towards the
+sky, offering the fallen they have slayed to their 
+gods for praise and protection.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1742
+D1
+possible danger ahead
+~
+~
+0 -1 1737
+D2
+possible danger ahead
+~
+~
+0 -1 1745
+D3
+possible danger ahead
+~
+~
+0 -1 1740
+S
+#1742
+The Last Stand~
+This little corner of the battlefield is littered with 
+less bodies than any other.  It appears that here is
+where you can go one on one with an opponent with
+no worries of others interfering.
+~
+15 1342194184 1048576 1 99 1
+D2
+possible danger ahead
+~
+~
+0 -1 1741
+D3
+possible danger ahead
+~
+~
+0 -1 1743
+S
+#1743
+Field of Agony and Wickedness~
+Blood Blood Blood
+Guts Guts Guts
+Death Death Death
+Oh the beauty of it all!!!!!!!
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1748
+D1
+possible danger ahead
+~
+~
+0 -1 1742
+D2
+possible danger ahead
+~
+~
+0 -1 1740
+D3
+possible danger ahead
+~
+~
+0 -1 1744
+S
+#1744
+Bloody Fields~
+So much blood - you're swimming in it.
+You can't move as easily in it, 
+you begin to get bogged down in it.
+~
+15 1342324744 1048576 1 99 1
+D1
+possible danger ahead
+~
+~
+0 -1 1743
+D2
+possible danger ahead
+~
+~
+0 -1 1739
+S
+#1745
+Guts and Glory~
+If you don't kill, you will be killed here.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1741
+D3
+possible danger ahead
+~
+~
+0 -1 1746
+S
+#1746
+Rivers of Blood~
+The smell of death and battle surround you and only
+heighten your sense for killing.  You foam
+at the mouth with an insane bloodlust.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1740
+D1
+possible danger ahead
+~
+~
+0 -1 1745
+D2
+possible danger ahead
+~
+~
+0 -1 1749
+D3
+possible danger ahead
+~
+~
+0 -1 1747
+S
+#1747
+Death and Triumph~
+You either die, or you Triumph - so kill or be killed here.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1739
+D1
+possible danger ahead
+~
+~
+0 -1 1746
+S
+#1748
+Mortal's Sanctuary~
+Pish Posh, Lucky, lucky mortal.
+Lucky, lucky, lucky.
+Those brutal avatars cannot follow you here and you
+now have a chance to regain your strength from them.
+Beware however, since any other mortal can take you 
+up in battle here and death regularly patrols here
+as well as in the entire arena.
+~
+15 1342194696 1048576 1 40 1
+D2
+possible danger ahead
+~
+~
+0 -1 1743
+S
+#1749
+The Watcher's Room~
+If you have dared enter here, you'd better beware.
+
+
+The Watchers of the Arena stand here overseeing the
+fighting, waiting and assuring opponents that
+noone will be slaughtered by sheer power or levels.
+~
+15 1342193672 1048576 1 99 1
+D0
+possible danger ahead
+~
+~
+0 -1 1746
+S
+$~
+#999999

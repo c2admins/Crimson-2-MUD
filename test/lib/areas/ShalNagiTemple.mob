@@ -1,0 +1,388 @@
+#6500
+mob warrior irda~
+Irda warrior~
+An Irda warrior wanders the halls.
+~
+This large Irda has gone against the wise preaching of his elder.  He has
+forsaken the magic that flows naturally through his race and has chosen
+the path of battle. The sword hanging by his sword looks deadly, and you
+can tell he knows how to use it.
+~
+8 1 136249361 33554432 600 S
+30 13 5 30d10+3170 4d20+20
+32000 180000
+8 8 1
+26 4 22 15 15 19 14 12
+#6501
+mob guardian warrior~
+Irda guardian~
+An Irda guardian patrols his assigned area.
+~
+This very large Irda has progressed through his warrior training to
+become an elite guardian. Much larger, stronger and more proficient
+with weapons, this is one Irda you dont want to mess with.
+~
+262152 1 136249361 33554432 700 S
+33 10 -4 10d20+3780 10d3+52
+62000 198000
+8 8 1
+26 4 23 15 15 20 17 15
+#6502
+mob corpse warrior~
+Corpse of an Irda warrior~
+The long dead corpse of an Irda warrior shambles around.
+~
+You have set your eyes upon the long dead corpse of an Irda warrior
+entombed because of his prowess. Although most of his equipment has
+been removed he still looks formidable. You feel not so much a presence
+of evil, but more an intense hatred for all things living.
+~
+33816586 1 136249361 33554440 0 S
+36 7 -14 10d50+5000 5d5+79
+94000 216000
+8 8 0
+26 4 23 18 14 12 17 11
+#6503
+mob Bal'Tannar~
+Bal'Tannar~
+Bal'Tannar, current general of the Irda temple stands here.
+~
+This is the current general of the Irda warriors in the temple. A
+large sword hangs at his side and some exquisite armor is on his body.
+his huge muscles ripple as he turns to you. It seems as though any kind
+of attack you could throw at him will just bounce off.
+~
+266 1 136249361 33554568 850 S
+41 2 -24 40d20+7500 4d5+20
+950000 380000
+8 8 1
+26 4 23 18 14 22 17 16
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6504
+mob Morsath~
+Morsath~
+Morsath, the greatest Irda warrior ever wanders his crypt.
+~
+You are looking at the undead corpse of the greatest Irda warrior
+ever, Morsath. He has been intombed in a large extravangant crypt.
+His unholy blade still hangs at his side, and bits of armor cover
+his body.
+~
+33554442 1 136249361 33554568 0 S
+43 1 -28 1d1+11300 3d18+10
+1400000 650000
+8 8 0
+26 4 23 18 18 22 17 15
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6505
+mob priest irda~
+Irda priest~
+An Irda priest wanders around the temple.
+~
+This young female Irda wanders about the hall constantly kneeling
+to pray to the Irda gods. Although she looks a little on the weak
+side she carries a cudgel by her side and you remember that the Irda
+are strong magic users.
+~
+8 32769 136249361 33554432 600 S
+30 13 5 100d30+1704 20d3+20
+32000 180000
+8 8 2
+26 2 20 18 18 17 14 14
+SKILL=SPELL_CURE_CRITIC 99
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_MAGIC_MISSILE 99
+#6506
+mob minister irda~
+Irda minister~
+An Irda minister wanders the hall, overseeing the priests.
+~
+This is one of the better Irda priests. Her devotion to her god has
+elevated her to the minister status. She looks even more deadly than 
+the priests, and carries the same cudgel.
+~
+262152 32769 136249361 33554432 700 S
+33 10 -4 10d20+3780 2d10+52
+61000 193000
+8 8 2
+26 2 20 18 18 19 13 11
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+#6507
+mob corpse priest~
+Corpse of an Irda priest~
+The long dead corpse of an Irda priest shambles around.
+~
+You have stumbled upon the corpse of a long dead Irda priest.
+She was entombed long ago because she was one of the greatest
+priests to walk the earth.
+~
+33816586 32769 136249361 33554440 0 S
+36 7 -14 10d50+5000 5d5+79
+94000 216000
+8 8 0
+26 2 23 15 18 12 17 8
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+#6508
+mob Zai'Isha~
+Zai'Isha~
+Zai'Isha, current high priestess of the Irda temple stands here.
+~
+You are staring at the current high priestess of the Irda temple.
+She is the Irda gods most favourite person, with the possible exception
+of the Temple guardian herself. This is one Irda you really dont want to
+mess with.
+~
+266 32769 136249361 33554568 850 S
+41 2 -24 40d20+8000 4d5+30
+950000 380000
+8 8 2
+26 2 23 18 18 22 17 16
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6509
+mob Riadun~
+Riadun~
+Riadun, the greatest Irda priest ever wanders her crypt.
+~
+You are looking at the undead corpse of the greatest Irda priest
+ever, Riadun. She was entombed long ago in one of the greatest crypts
+that will ever be seen in this world. Even though dead Riadun still
+looks formiddable, and still retains her magic.
+~
+33554442 32769 136249361 33554568 0 S
+43 1 -28 1d1+11300 18d3+10
+1400000 660000
+8 8 0
+26 2 23 18 18 22 17 15
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6510
+mob apprentice irda~
+Irda apprenctice~
+An Irda apprentice wanders around, doing his masters bidding.
+~
+This is a small Irda, aspiring to become a great mage. He must start
+at the bottom though, and the apprentice is being tought by a powerful 
+master. You wonder what kind of spells the apprentice knows already.
+~
+262152 32769 136249361 33554432 600 S
+30 13 5 100d10+2900 2d7+56
+32000 180000
+8 8 1
+26 1 17 19 19 15 16 14
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_MAGIC_MISSILE 99
+#6511
+mob mage irda~
+Irda mage~
+An Irda mage wanders around, searching for his apprentice.
+~
+This Irda, although frail and pale looking holds much respect
+within the temple. His powers are great and you feel the magical
+energy around him. A large staff in his hands looks like it can be
+used as a weapon or as a means of channeling his energy.
+~
+8 32769 136249361 0 700 S
+33 10 -4 30d30+3580 13d5+35
+67000 198000
+8 8 1
+26 1 17 19 19 16 16 15
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_MAGIC_MISSILE 99
+#6512
+mob corpse mage irda~
+Corpse of an Irda mage~
+The long dead corpse of an Irda mage shambles around.
+~
+You are looking at the long dead corpse of an Irda mage. Even in
+death this mage still holds power. Still formidable and still able
+to cast its spells you wonder how it actually died. 
+~
+33816586 32769 136249361 33554440 0 S
+36 7 -14 10d50+6000 5d5+79
+96000 216000
+8 8 0
+26 1 20 20 20 20 17 10
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_SHOCKING_GRASP 99
+#6513
+mob Ky'Ilad~
+Ky'Ilad~
+Ky'Ilad, Arch-Mage of the temple wanders here.
+~
+You are looking at the arch-mage of the temple, Ky'Ilad. Great
+power surrounds him and you wonder how easily he could kill you.
+Legends of his powerful magic abound and you have heard many of them.
+His large staff looks like it has lightning flashing around it.
+~
+266 32769 136249361 33554568 850 S
+41 2 -24 40d20+8000 4d5+19
+960000 380000
+8 8 1
+26 1 20 20 20 20 17 14
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_CONFLAGRATION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6514
+mob Kalison~
+Kalison~
+The corpse of kalison, greatest Irda arch-mage shambles here.
+~
+You are looking at the undead corpse of Kalison, greatest Irda
+arch-mage to ever live. His supreme use of magic causes your heart
+to skip a beat, your weapon to fall from your grasp and your entire
+body to shudder.
+~
+33554442 32769 136249361 33554568 0 S
+43 1 -28 1d1+11300 8d3+10
+1400000 650000
+8 8 1
+26 1 20 20 20 20 17 10
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_CONFLAGRATION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6515
+mob citizen irda~
+An Irda citizen~
+An Irda citizen wanders the temple, taking in the sights.
+~
+This Irda wanders around in awe of the temple. The citizen
+kneels and prays occasionally, then gets ready to leave.
+~
+8 1 136249361 33554432 300 S
+27 15 14 3d10+2300 15d5+8
+22000 81000
+8 8 0
+26 4 17 17 16 15 14 12
+#6516
+mob ent~
+An ent~
+An ent wanders the forest
+~
+This creature looks like a tree, smells like a tree, feels
+like a tree and yet it isn't a tree. It is an ent. You almost
+mistakingly carve your initials on it, but that would have led
+to your death.
+~
+8 1 136249361 33554440 700 S
+29 14 8 5d10+2500 4d20+16
+25000 87000
+8 8 0
+1 4 22 15 15 12 22 15
+#6517
+mob Shal'Nai irda guardian~
+Shal'Nai~
+Shal'Nai, supreme guardian of the temple turns at your intrusion.
+~
+Shal'Nai, the supreme guardian of the Irda temple looks towards
+you. You know that anything that brings evil into this temple
+must face her. She wears a large golden cuirass which reflects
+a holy light that shines into your eyes. The most concentrated feeling
+of energy you have ever heard of seems to radiate from her.
+~
+10 32769 136249361 35913866 1000 S
+46 0 -25 1d1+19000 15d10+40
+2600000 1104000
+8 8 2
+26 6 23 22 21 22 17 22
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=108
+$~
+#999999

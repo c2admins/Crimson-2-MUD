@@ -1,0 +1,1842 @@
+#5100
+&KEntrance to Tel'Dnor&n~
+     You are at the entrance to a small underground city. A great adamantite
+gate lies open to the west allowing entrance into the city.
+~
+51 1048585 0 1 99 0
+D3
+A huge gate opens to the west allowing enrance into the city.~
+gate~
+0 0 5101
+D4
+A small hole in the ceiling leads up into darkness.~
+hole~
+0 0 4110
+E
+gate~
+A large adamantite gate with giant spider shaped emblems stands here.~
+E
+hole~
+A small hole that looks to have sealed at one time.~
+S
+#5101
+&KEntrance to the &yMushroom Fields&n~
+  The entire underground cavern is filled with fields of giant, luminescent mushrooms that not only serve as
+as food source for the drow, but as a light source, and in some cases dwellings as well. Workers can be seen 
+toiling in the fields at all times, the cracks of overseer whips hanging over their backs. The dim outline of
+large structures can be seen at various points, but one would have to navigate the maze of pathways through the
+mushrooms to reach them.
+~
+51 1048585 0 1 99 0
+D0
+~
+~
+0 0 5123
+D1
+~
+~
+0 0 5100
+D2
+~
+~
+0 0 5102
+D3
+~
+door slave~
+15 5130 5122
+S
+#5102
+&KPath through the &yMushroom Fields&n~
+  Upon closer inspection, not all of the mushrooms are luminescent. In fact, it appears that there are several 
+different varieties, each of which serves a purpose. The smaller, non luminescent mushrooms, are harvested for
+food, while the great, giant mushrooms are used for houses, cut up to make walls and basically used as building 
+materials. The luminescent mushrooms come in all shapes and sizes, but their use is the same. They serve as a
+light source for the cavern, and when harvested, to light the homes of the drow as well. It's even been rumored 
+that some of these mushrooms give the drow armor and weapons the potent magic energies that make them so covet-
+ed.
+~
+51 1048585 0 1 99 0
+D0
+~
+~
+0 0 5101
+D3
+~
+~
+0 0 5103
+S
+#5103
+&KPath through the &yMushroom Fields&n~
+  The pathway meanders through the amazing forest of mushrooms that grow within the cavern. Slaves
+of the drow can be seen everywhere, harvesting the fungus as Overseers make sure nobody tries to
+escape. The path continues to the west and east, but to the west lies a silver gate which leads
+to what appears to be another cavern beyond.
+~
+51 1048585 0 1 99 0
+D1
+~
+~
+0 0 5102
+D2
+~
+~
+0 0 5104
+D3
+~
+~
+0 0 5106
+S
+#5104
+&KHouse of Lestel&n~
+  Sitting quietly and almost unnoticed among the mushroom fields is the House of Lestel. The silver insignia
+marks the undescript gates, and beyond can be seen the massive doors that have been built into the cavern 
+walls. Several guards stand near the gate, barring passage from anyone without a house isignia or of lesser
+status than the Lestel themselves.
+~
+51 1048589 0 1 99 0
+D0
+~
+~
+0 0 5103
+D2
+~
+gate iron~
+9 0 5105
+S
+#5105
+&KDoors of &rHo&Ru&Wse Les&Rt&rel&n~
+  Cunning artistry has given the doors an illusionary appearance of blending into the cavern walls until you 
+are nearly upon them. The massive marble entryway stands nearly twelve feet tall, and it is quite apparent that
+the structure leads deep into the earth. It is not quite as grandiose as many of the other houses on the 
+outside, but that is to the liking of its inhabitants.
+~
+51 269516809 805306368 1 99 0
+D0
+~
+~
+9 -1 5104
+D2
+Inside House Lestel.
+~
+stone doors~
+9 0 5151
+S
+#5106
+&KPath through the &yMushroom Fields&n~
+  The pathway meanders through the amazing forest of mushrooms that grow within the cavern. Slaves
+of the drow can be seen everywhere, harvesting the fungus as Overseers make sure nobody tries to
+escape. The path continues to the east and west, but to the north lies a small building with an
+imprint of a sword over it's doorways.
+~
+51 1048585 0 1 99 0
+D0
+~
+~
+0 0 5118
+D1
+~
+~
+0 0 5103
+D3
+~
+~
+0 0 5107
+S
+#5107
+&KPath through the &yMushroom Fields&n~
+  The pathway meanders through the amazing forest of mushrooms that grow within the cavern. Slaves
+of the drow can be seen everywhere, harvesting the fungus as Overseers make sure nobody tries to
+escape. The path continues to the east and north, but to the south lies a mithril gate and a large
+marble building beyond.
+~
+51 1048585 0 1 99 0
+D0
+~
+~
+0 0 5110
+D1
+~
+~
+0 0 5106
+D2
+~
+~
+0 0 5108
+S
+#5108
+&KHouse of Freth&n~
+  A large mithril gate bars access to a marble structure beyond. Several drow males guard the gate, barring 
+access to those without official busines with the Freth family.
+~
+51 1048589 0 1 99 0
+D0
+~
+~
+0 0 5107
+D3
+~
+mithril gate~
+9 0 5109
+S
+#5109
+&KEntryway to &WHo&Cus&ce F&Cre&Wth&n~
+  A solid path of stone leads up to giant marbled doors that is House Freth. Etchings of elves and spiders cover 
+the doors, the quality of which is so good that the figures almost seem lifelike. They are so lifelike, in fact,
+that there is an uneasy feeling in the air that gives you the impression that you are being watched, though 
+nobody appears to be around.
+~
+51 1048585 0 1 99 0
+D1
+~
+mithril gate~
+9 0 5108
+D3
+Inside the house of Freth.
+~
+marble door~
+9 0 5176
+S
+#5110
+&KPath through the &yMushroom Fields&n~
+  The pathway meanders through the amazing forest of mushrooms that grow within the cavern. Slaves
+of the drow can be seen everywhere, harvesting the fungus as Overseers make sure nobody tries to
+escape. The path continues to the south and north, but to the west lies an adamantium gate which 
+leads to a magnificent mansion beyond.
+~
+51 1048585 0 1 99 0
+D0
+~
+~
+0 0 5114
+D2
+~
+~
+0 0 5107
+D3
+A large gate lies to the west.~
+gate~
+0 -1 5111
+S
+#5111
+&KHouse of Maerrai&n~
+  A large adamantium gate bars access to a marble structure beyond. Several drow males guard the gate, barring 
+access to those without official busines with the Maerrai family.
+~
+51 1048589 0 1 99 0
+D1
+~
+~
+0 -1 5110
+D3
+~
+adamantium gate~
+9 0 5112
+S
+#5112
+&KEntryway to &yHo&Yus&Ke Mae&Yrr&yai&n~
+  A simple dirt pathway leads up to a set of doors made from adamantium. The structure itself seems to be made
+from a mixture of mithril and adamantium, and is much larger than the other house buildings in the city. Carved
+upon the doors are several spiders and elves, very similar to those found on the temple entrance.
+~
+51 9 0 1 99 0
+D0
+~
+admantium doors~
+9 0 5113
+D1
+~
+mithril gate~
+9 0 5111
+S
+#5113
+&KMain Chamber&n~
+  Used for entertaining house guests and officials from the city, the main chamber is an all purpose room. The
+floor is covered with a black and white carpeting that is soft and silky to the touch. A large table used for 
+dining sits in the center of the room, above which is a large crystaline chandelier that pulses with a magical 
+light. Several archways leads off in various directions. Smells of spices and cooked meats comes from the arch
+to the east, while to the west several figures can be seen moving through the shadows. To the north there 
+appears to be a hallway the leads to other parts of the house.
+~
+51 9 0 1 99 0
+D0
+A hallway leads to the rooms of the nobles.&n
+~
+~
+0 -1 5190
+D1
+The kitchen lies through the archway.
+~
+~
+0 -1 5188
+D2
+~
+adamantium doors~
+9 0 5112
+D3
+The servants quarters lie through the archway.
+~
+~
+0 -1 5189
+S
+#5114
+&KPath through the &yMushroom Fields&n~
+  The pathway meanders through the amazing forest of mushrooms that grow within the cavern. Slaves
+of the drow can be seen everywhere, harvesting the fungus as Overseers make sure nobody tries to
+escape. The path continues to the south and east, but in the distance to the northwest can be seen a small 
+building with the sign of a spider above it.
+~
+51 1048585 0 1 99 0
+D0
+~
+~
+0 0 5115
+D1
+~
+~
+0 0 5117
+D2
+~
+~
+0 0 5110
+S
+#5115
+&KPath through the &yMushroom Fields&n~
+  The pathway meanders through the amazing forest of mushrooms that grow within the cavern. Slaves
+of the drow can be seen everywhere, harvesting the fungus as Overseers make sure nobody tries to
+escape. The path continues to the south and west. A building to the west can be seen that is  
+covered with several murals od spiders.
+~
+51 1048585 0 1 99 0
+D2
+~
+~
+0 0 5114
+D3
+~
+~
+0 -1 5116
+S
+#5116
+&KAssassin's Academy&n~
+  Hidden within the shadows of giant mushrooms lies the guild of assassins. Drow who train here serve a special
+purpose within their households, as well as specialists during surface raids. In fact, most house wars begin
+with assassination attempts(usually successful), so having a guid member in a drow household is s symbol of 
+strength.
+~
+51 1048589 0 1 99 0
+D1
+~
+~
+0 -1 5115
+S
+#5117
+&KPath through the &yMushroom Fields&n~
+  The pathway meanders through the amazing forest of mushrooms that grow within the cavern. Slaves
+of the drow can be seen everywhere, harvesting the fungus as Overseers make sure nobody tries to
+escape. The path continues to the east and west, but on a smaller path to the north can be seen a  
+huge temple-like structure covered with murals of spiders.
+~
+51 1048585 0 1 99 0
+D0
+The entrance to the temple of Lloth.~
+~
+0 -1 5119
+D1
+~
+~
+0 0 5121
+D3
+~
+~
+0 0 5114
+S
+#5118
+&KThe Warrior's Academy&n~
+  The academy of warriors is the lowest training establishment on the drow totem pole, and as such, does not 
+contain the resources and luxuries of the other guilds. Still, most drow males find themselves here at some 
+point in their life, practicing with the same dull swords their fathers and grandfathers before them did.
+~
+51 1048589 0 1 99 0
+D2
+~
+~
+0 0 5106
+S
+#5119
+&KEntrance to the Temple of Lolth&n~
+  Easily the largest building in the city, the temple of Lolth is the training ground of the priestesses, and
+home to many more despicable creatures as well. The entire building itself seems to be made from gold and adam-
+antium, including the doors which are covered with carvings of spiders devouring humanoids. Guard spiders can
+usually be found just outside the massive doors, preventing anyone non-drow from entering.
+~
+51 1048589 0 1 99 0
+D2
+~
+~
+0 -1 5117
+D5
+~
+~
+0 0 5126
+S
+#5120
+&KThe Mage's Academy&n~
+   Only considered slightly more important than the warriors academy, the academy of mages is only given enough
+funding to keep it running. In order to gain more material, the archmages usually send a few of their pupils 
+along in surface raids to try and grab whatever spellbooks and magical items they can.
+~
+51 1048589 0 1 99 0
+D2
+~
+~
+0 -1 5121
+S
+#5121
+&KPath through the &yMushroom Fields&n~
+  The pathway meanders through the amazing forest of mushrooms that grow within the cavern. Slaves
+of the drow can be seen everywhere, harvesting the fungus as Overseers make sure nobody tries to
+escape. The path continues to the east and west, but on a smaller path to the north can be seen a  
+small building with the sign of magic above the door. To the south lies a door to the slave pens. 
+~
+51 1048585 0 1 99 0
+D0
+~
+~
+0 -1 5120
+D1
+~
+~
+0 0 5123
+D2
+~
+door slave~
+15 5130 5122
+D3
+~
+~
+0 0 5117
+S
+#5122
+&KSlave Pen&n~
+  Straw is strewn all about the room as beds for the unfortunate creatures that have fallen prey to the drow. 
+ocrs, goblins, humans and elves now serve as slaves to do the whims of their masters, and are often kept here 
+when not at work.
+~
+51 1048585 0 1 99 0
+D0
+~
+door slave~
+15 5130 5121
+D1
+~
+door slave~
+15 5130 5101
+S
+#5123
+&KPath through the &yMushroom Fields&n~
+  Upon closer inspection, not all of the mushrooms are luminescent. In fact, it appears that there are several 
+different varieties, each of which serves a purpose. The smaller, non luminescent mushrooms, are harvested for
+food, while the great, giant mushrooms are used for houses, cut up to make walls and basically used as building 
+materials. The luminescent mushrooms come in all shapes and sizes, but their use is the same. They serve as a
+light source for the cavern, and when harvested, to light the homes of the drow as well. It's even been rumored 
+that some of these mushrooms give the drow armor and weapons the potent magic energies that make them so covet-
+ed.
+~
+51 1048585 0 1 99 0
+D0
+~
+~
+0 -1 5124
+D2
+~
+~
+0 0 5101
+D3
+~
+~
+0 0 5121
+S
+#5124
+&KHouse of &cBaenre&n~
+  A mansion sized mushroom proves to be the House of Daenre. The silver-gold insignia marks the undescript
+gates, and beyond a set of wooden doors can be seen leading into the fungus. Several guards have been posted 
+outside by the gate, barring entry from those not bearing the house insignia or on 'official' business.
+~
+51 1048589 0 1 99 0
+D1
+~
+gate ~
+9 0 5125
+D2
+~
+~
+0 -1 5123
+S
+#5125
+&KBefore the &yOaken Doors&n~
+  The large oaken doors contain large gouges, most likely from rival house attackers wo made it 
+this far. The entire house remains standing, but it is apparent from the outside that it is in 
+various states of decay throughout. The Taenre family lives for now, but until they can fortify 
+themselves substantially, they will be a target for the stronger households.
+~
+51 1048585 0 1 99 0
+D0
+A door leads intot he house.
+~
+oaken doors~
+9 0 5165
+D3
+~
+~
+0 0 5124
+S
+#5126
+&KEntryway&n~
+     You stand in the entrance way to the temple which opens up to the north
+into a large hallway going east and west. Small statues of spiders line the
+entrance way's walls.
+~
+51 1048589 0 1 99 0
+D0
+~
+~
+0 0 5127
+D4
+~
+~
+0 0 5119
+S
+#5127
+&KCrossroads&n~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+To the north is a obsidian stairway.
+~
+51 1048585 0 1 99 0
+D0
+~
+~
+0 0 5135
+D1
+~
+~
+0 0 5128
+D2
+~
+~
+0 0 5126
+D3
+~
+~
+0 0 5131
+S
+#5128
+&KLong Hallway&n~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+51 1048585 0 1 99 0
+D1
+~
+~
+0 0 5129
+D3
+~
+~
+0 0 5127
+S
+#5129
+&KLong Hallway&n~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+To the north is a door.
+~
+51 9 0 1 99 0
+D0
+~
+~
+0 -1 5150
+D1
+~
+~
+0 0 5130
+D3
+~
+~
+0 0 5128
+S
+#5130
+&KEnd of the Hall&n~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway ends at a wall to the east, but
+continues on to the west. As you look down the hallway you can make out one 
+or two figures moving away from you.
+~
+51 9 0 1 99 0
+D3
+~
+~
+0 0 5129
+S
+#5131
+&KLong Hallway&n~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+51 1048585 0 1 99 0
+D1
+~
+~
+0 0 5127
+D3
+~
+~
+0 0 5132
+S
+#5132
+&KLong Hallway&n~
+    You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+A large pit lies in the floor, the darkness below prevents you from seeing how 
+deep it is.
+~
+51 9 0 1 99 0
+D1
+~
+~
+0 0 5131
+D3
+~
+~
+0 0 5134
+D5
+A deep, dark pit.
+~
+~
+0 -1 5133
+S
+#5133
+&KSpider Pit&n~
+  The room crawls with spider of all shapes and sizes, the servants of Lolth who have been left here to devour
+any victim the spider goddess deems worthless. Bones of past victims litter the floor as a macabre reminder not
+to get on the goddesses bad side.
+~
+51 1342177293 0 1 99 0
+D4
+Out of the pit.
+~
+~
+0 -1 5132
+S
+#5134
+&KEnd of the Hall&n~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway ends at a wall to the west, but
+continues on to the east. As you look down the hallway you can make out one 
+or two figures moving away from you.
+~
+51 9 0 1 99 0
+D1
+~
+~
+0 0 5132
+S
+#5135
+&KGrand Staircase&n~
+     You are standing at the bottpom of a giant obsidian and adamantite
+stairway. The edges are trimmed with gold.
+~
+51 1048585 0 1 99 0
+D2
+~
+~
+0 0 5127
+D4
+~
+~
+0 0 5136
+S
+#5136
+&KGrand Hallway&n~
+     You are standing in the middle of a grand hallway. The walls are
+of the purest adamantite with gold trim. Mosiacs line the walls.
+~
+51 9 0 1 99 0
+D0
+~
+~
+0 0 5138
+D1
+~
+~
+0 -1 5137
+D5
+~
+~
+0 0 5135
+S
+#5137
+&KLesser Priestess Chamber&n~
+  The chambers of the lesser priestesses, though less elaborate than those of 
+the greater priestess is stilla  beauty to behold. A large pool for bathing is
+in the center of the room, surrounded by racks of fresh robes. Beds line the
+walls, covered with white, spider silk sheets trimmed with gold. A small
+golden altar to Lolth sits next to each bed so that the priestesses may pray to
+their goddess any time they wish.
+~
+51 9 0 1 99 0
+D3
+~
+~
+0 -1 5136
+S
+#5138
+&KGrand Hallway&n~
+     You are walking down a grand hallway, heavily decorated with adamantite
+and gold. To the north the hall goes down a flight of stairs while a door is
+too the west.
+~
+51 9 0 1 99 0
+D2
+~
+~
+0 0 5136
+D3
+~
+~
+0 -1 5139
+D5
+~
+~
+0 0 5140
+S
+#5139
+&KChambers of the Greater Priestesses&n~
+     The bed chamber is brightly decorated with spider shaped statues, murals
+and the like. Large beds line the floor making this a comfortable room to live
+in. A large pool used for bathing sits in the center of the room, surrounded by
+racks of fresh robes.
+~
+51 9 0 1 99 0
+D1
+~
+~
+0 -1 5138
+S
+#5140
+&KGrand Stairway&n~
+     You are climbing a set of obsidian stairs surrounded by adamantite walls.
+To the north are a set of large golden doors.
+~
+51 9 0 1 99 0
+D0
+~
+~
+0 -1 5141
+D4
+~
+~
+0 0 5138
+S
+#5141
+&KMain Chamber&n~
+     This is the south side of a large auditorium used for services by the
+drow priestesses. In the center is a large sacrificial pit and beyond that is
+an altar.
+~
+51 9 0 1 99 0
+D0
+~
+~
+0 -1 5145
+D1
+~
+~
+0 0 5142
+D2
+~
+~
+0 -1 5140
+D3
+~
+~
+0 0 5144
+S
+#5142
+&KEasternside of the Chamber&n~
+     You are on the easternside of the chamber overlooking the pit. To the east
+is a door while to the north is an altar.
+~
+51 9 0 1 99 0
+D1
+~
+~
+0 -1 5146
+D3
+~
+~
+0 -1 5141
+S
+#5143
+&KSacrificial Pit&n~
+As you climb down into the pit, you suddenly notice why the sides of the pit 
+seemed to be moving. The pit is full of thousands of small spiders, and they
+are climbing all over your arms!
+You feel a number of pinpricks on your arms and start to panic as you realise
+that the spiders are biting your skin and in places even drawing blood. You
+attempt yo climb back to the surface but the strength in your arms is rapidly
+diminishing, and you begin to feel darkness clouding your mind...
+
+You never wake up again.
+~
+51 262150 0 1 99 0
+D4
+You can see tha altar above.
+~
+~
+0 -1 5145
+S
+#5144
+&KWesternside of the Chamber&n~
+     You are on the westernside of the main chamber overlooking a sacrificial
+pit. To the north is an altar.
+~
+51 9 0 1 99 0
+D1
+~
+~
+0 -1 5141
+S
+#5145
+&KThe Altar&n~
+     You are standing infront of a highly and freshly bloodstained altar.
+Engraved on the top of the altar is a giant spider witha human head. Looking
+down from the altar you see a large sacrificial pit.
+~
+51 9 0 1 99 0
+D0
+~
+~
+0 0 5148
+D2
+~
+~
+0 -1 5141
+D5
+It looks like a difficult and dangerous climb down, and the edges of the
+pit appear to be moving.
+~
+~
+0 -1 5143
+S
+#5146
+&KSlave Cells&n~
+     This is the main rooom to the cell chambers for the slaves to be
+sacrificed. You notice there are no guards around.
+~
+51 9 0 1 99 0
+D0
+~
+~
+0 -1 5147
+D3
+~
+~
+0 0 5142
+S
+#5147
+&KSlave Pen&n~
+     Rotten meat and breads lie about the floor while shackles hang from the
+walls. The room wreaks of death. You almost become nausious and ecide to leave
+the room since you were obviously too late to save the slave.
+~
+51 9 0 1 99 0
+D2
+~
+~
+0 -1 5146
+S
+#5148
+&KDias&n~
+     You stand upon a dias behind the altar. Above you is a enormous illusion
+of a female drow turning into a giant spider and back again. There is a door
+to the west.
+~
+51 9 0 1 99 0
+D1
+A glowing portal.
+~
+~
+0 -1 17901
+D2
+~
+~
+0 0 5145
+D3
+~
+~
+0 -1 5149
+S
+#5149
+&KThe Treasury&n~
+     This is obviously only a temporary storage place for the collected
+treasure being rather bare.
+~
+51 9 0 1 99 0
+D1
+~
+~
+0 -1 5148
+S
+#5150
+&KCleric's Academy&n~
+  The most decorated of all the guildhalls, the members accepted into the clerics academy not
+only receive the most attention, but become highly respected members of society as well. It is 
+extremely rare for any male to be accepted, and those that are will usually serve Lolth in the 
+form of driders before long.
+~
+51 9 0 1 99 0
+D2
+~
+~
+0 -1 5129
+S
+#5151
+&KEntryway&n~
+  The cunning craftsmanship of the exterior gives way to the delicate artisty of the inner 
+chambers that are House Lestel. A crystal chandelier adorned tastefully with glowing moss provides
+a modicum of light, while the cold stone floor is polished an mirror-like, further enhancing the
+light enough to accomodate non-drow who pass through here. A set of black marble stairs leads
+into the heart of the living quarters, and judging by the activities in the rooms in the south, 
+that is where the servants quraters lie.
+~
+51 269516809 0 1 99 0
+D0
+Outside the house.
+~
+stone doors~
+9 0 5105
+D2
+A short hallway
+~
+~
+0 -1 5152
+D4
+A set of stairs leads up.
+~
+~
+0 -1 5155
+S
+#5152
+&KServants Hall&n~
+  This short hallway leads from the servants quarters and kitchen to the remainder of the house. Though it is
+clean and well maintained, it remains rather nondescript in order to keep the appearance of a typical drow
+house residence.
+~
+51 269516809 0 1 99 0
+D0
+To the entryway.
+~
+~
+0 -1 5151
+D1
+Smells of food waft through the doorway.
+~
+~
+0 -1 5154
+D2
+The servants quarters.
+~
+~
+0 -1 5153
+S
+#5153
+&KServants Quarters&n~
+  The large room is rather bare and void of any furniture save for the beds of moss that lay strewn throughout.
+Though the servants of House Lestel are treated more kindly than those of the other houses, the family must
+maintain the typical drow image so as not to be discovered and overrun by a combined force of the other houses.
+~
+51 269516809 0 1 99 0
+D0
+A short hallway
+~
+~
+0 -1 5152
+S
+#5154
+&KKitchen&n~
+  Silver and obsidian goblets and plates line a exquisitely designed cabinet made of mahogany against the 
+northern wall. Along the western side of the kitchen are stacked jars of spice and pickled foodstuffs, as well
+as a small cellar used for storing wines and more perishable products. A large iron stove dominates the eastern 
+half of the kitchen, above which is a strange, yet practical umbrella-like contraption used for capturing the
+smoke from the fire and filtering it out of the household. Among the foodstuffs laying around can be found many 
+strange and exotic delicacies such as deep fried bat wings, pickled vampire toes and deep ox tails...yum.
+~
+51 269516809 0 1 99 0
+D3
+A short hallway
+~
+~
+0 -1 5152
+S
+#5155
+&KLong Hallway&n~
+  The upper living quarters of the Lestel household have been painstakingly chiseled from the limestone cavern
+walls and worn smooth by magic. The floor of the entire upper story is covered with a strange glowing moss that
+not only provides comfort when walkign on the stone floor, but lights the entire area as well. Several 
+tapestries hang from the walls, depicting legendary Lestel members performing amazing feats of one sort or 
+another, while hanging from the ceiling at five foot intervals are crystal chandeliers of various colors to
+provide a brighter look to the hall. The hall continues on to the south towards the family bedrooms, while a
+set of black marble stairs leads down.
+~
+51 269516809 0 1 99 0
+D2
+The hall leads to the living quarters of the Lestel.
+~
+~
+0 -1 5156
+D5
+A set of stairs leads down.
+~
+~
+0 -1 5151
+S
+#5156
+&KLong Hallway&n~
+  The upper living quarters of the Lestel household have been painstakingly chiseled from the limestone cavern
+walls and worn smooth by magic. The floor of the entire upper story is covered with a strange glowing moss that
+not only provides comfort when walking on the stone floor, but lights the entire area as well. A colorful tap-
+estry hangs on each wall. The one to the east depicts an armor-clad drow woman commanding an army of drow 
+against a similar army of high elves. The tapestry on the western wall, though less grandiose, depicts a scene
+of another drow woman, this one apparently a priestess, overseeing a digging operation in an area that much 
+resembles where this house now resides. Further down the hall to the south can be seen several sets of doors, 
+no doubt the living quarters of those who call this house home, while to the north lies a wonderfully scultured 
+set of marble stairs.
+~
+51 269516809 0 1 99 0
+D0
+The hall continues to a set of marble stairs.
+~
+~
+0 -1 5155
+D2
+The hall continues.
+~
+~
+0 -1 5157
+S
+#5157
+&KLong Hallway&n~
+  The upper living quarters of the Lestel household have been painstakingly chiseled from the limestone cavern
+walls and worn smooth by magic. The floor of the entire upper story is covered with a strange glowing moss that
+not only provides comfort when walking on the stone floor, but lights the entire area as well. A colorful tap-
+estry hangs on each wall. The one to the east depicts an a mail drow adorning rare adamantium platemail fight- 
+ing a dragon of shadow, his companions laying in pools of of their own blood all around him. The tapestry on 
+the western wall is of a beautiful maiden, bloodied dagger in hand, standing over the corpse of a rival houses
+matron mother. Further down the hall to the south can be seen several doors, no doubt the living quarters of 
+the Lestel family, while furthr to the north can be seen a set of wonderfully sculpted marble stairs leading 
+down.
+~
+51 269516809 0 1 99 0
+D0
+The hall continues.
+~
+~
+0 -1 5156
+D2
+The hallway continues.
+~
+~
+0 -1 5158
+S
+#5158
+&KLong Hallway&n~
+  The upper living quarters of the Lestel household have been painstakingly chiseled from the limestone cavern
+walls and worn smooth by magic. The floor of the entire upper story is covered with a strange glowing moss that
+not only provides comfort when walking on the stone floor, but lights the entire area as well. A door made from
+adamantium and mithril lies on both the eastern and western walls, while further to the south can be seen a 
+similar, yet more elaborate door as well. To the north, the hallway continues to a set of wonderfully sculpted
+marble stairs leading down.
+~
+51 269516809 0 1 99 0
+D0
+The hallway continues.
+~
+~
+0 -1 5157
+D1
+A door leads into another room.
+~
+door mithril adamantium~
+9 0 5159
+D2
+The hallway ends at a group of doors.
+~
+~
+0 -1 5161
+D3
+A door leads to a bedroom.
+~
+door mithril adamatium ~
+9 0 5160
+S
+#5159
+&KLaele's Bedroom&n~
+  The room is rather large for an ordinary bedroom, spanning nearly thirty feet in width and twenty feet in 
+length. A large, canopied bed covered with crimson silk sheets dominates the eastern wall, while an ornately
+carved chest sits at the foot of the bed, closed with an adamantium lock. A large mahogany desk sits next to a
+small altar against the northern wall. Candles and papers clutter the desk, but nothing appears important. 
+Against the southern wall lies a large vanity chest, in which can be found robes and other linen made for a 
+priestess of Lolth. The same moss the covers the hallway also blankets this room as well, but otherwise there 
+is little of interest in the room.
+~
+51 269516809 0 1 99 0
+D3
+A door leads back to the hallway.
+~
+door mithril adamantium~
+9 0 5158
+S
+#5160
+&KImrae's Bedroom&n~
+  Very spartan in appearance, Imrae's room does not possess the womanly perfumes and babbles like those of her
+sisters. Instead, she has a simple bed, always neat and made, a small wooden footlocker at the end of her bed, 
+and a desk, upon which can be found weapons of various sizes and functionality, all laid out for display. In 
+all, the room looks more like that of a barracks than a high ranking drow official, but it contais much of the
+personality that makes up Imrae Coloara.
+~
+51 269516809 0 1 99 0
+D1
+A door leads back to the hall.
+~
+door mithril adamatium ~
+9 0 5158
+S
+#5161
+&KEnd of the Hallway&n~
+  The upper living quarters of the Lestel household have been painstakingly chiseled from the limestone cavern
+walls and worn smooth by magic. The floor of the entire upper story is covered with a strange glowing moss that
+not only provides comfort when walking on the stone floor, but lights the entire area as well. A door made from
+adamantium and mithril lies on both the eastern and western walls, while to the south lies a similar, yet more 
+elaborate door as well. Far to the north can be seen a set of wonderfully sculpted marble stairs leading down.
+~
+51 269516809 0 1 99 0
+D0
+The hallway continues.
+~
+~
+0 -1 5158
+D1
+A door leads to a bedroom.
+~
+door adamantium mithril~
+9 0 5162
+D2
+A door leads to a bedroom.
+~
+door adamantium mithril~
+9 0 5164
+D3
+A door leads to a bedroom
+~
+door adamantium mithril~
+9 0 5163
+S
+#5162
+&KTathlyn's Room&n~
+  Bottles and vials filled with strange liquids dominate a group of tables set against the northern wall. A 
+book opened to a page promising a cure for health maladies lays open i front of the bottle, with strange 
+scribbled notes all over the page. The room is otherwise bare, save for a large canopied bed with black silk
+sheets that lies against the eastern wall.
+~
+51 269516809 0 1 99 0
+D3
+A door leads out to a hallway.
+~
+door adamantium mithril~
+9 0 5161
+S
+#5163
+&KGuldor's Room&n~
+  One of the more spartan rooms to be found in a drow establishment, Guldor has few possessions other than some
+sparring equipment and his bed. Several weapons of various types are proudly displayed on racks long each wall,
+and a small case filled with vials of various poisons sits at the foot of the bed.
+~
+51 269516809 0 1 99 0
+D1
+A door leads to a hallway.
+~
+door adamantium mithril~
+9 0 5161
+S
+#5164
+&KRoom of the Matron Mother&n~
+  The room is lavishly decorated with all kinds of silver and gold artworks, silken pillows, and the like. A 
+huge bed covered with crimson silk sheets lies against the far wall, while a small pool of water used for 
+bathing occupies the majority of the northern section of the room. Chessintra cares not at all for treasures
+within this room though. In fact, she spends little time here at all if not sleeping, and can usually be found
+within the kitchen helping the servants prepare meals.
+~
+51 269516813 0 1 99 0
+D0
+The door leads to a hallway.
+~
+door adamantium mithril~
+9 0 5161
+S
+#5165
+&KEntryway&n~
+  The insides of the giant mushroom have been hardened to provide stability. At one time, the 
+house may have been a remarkable architectural masterpiece, but now the entire house lays in
+various states of disarray. Once beautiful tapestries have been ripped, and left half attached to
+walls, wooden chairs, tables and bowls lie shattered on the floor, and even the artistic set of
+mahogany stairs shows ships from where blades met wood. A short hallway leads north, flanked by 
+the servants quarters and kitchen, while further to the north, the mahogany stairs lead up to the
+second level.
+~
+51 1048585 0 1 99 0
+D0
+A short hallway.
+~
+~
+0 -1 5166
+D2
+A door leads outside the house.
+~
+oaken doors~
+9 0 5125
+S
+#5166
+&KServants Hall&n~
+  Once beautiful tapestries lie half hanging from the walls, all torn and ripped from the numerous battles that
+have occured here. Pleasant smells waft in from the room to the east, it's door having been ripped off its 
+hinges and placed upright, leaning against the wall next to the entryway. The door on the western wall has also
+been removed in a similar fashion, and from inside the room can be seen numerous cots and and various types of
+bedding, which indicates the room to be the servants quarters. Further to the north, a set of wooden stairs that
+have seen better days lead up to the second level of the household.
+~
+51 1048585 0 1 99 0
+D0
+The hallway continues.
+~
+~
+0 -1 5169
+D1
+A doorway leads to the kitchen.
+~
+~
+0 -1 5167
+D2
+The short hall leads to a set of doors.
+~
+~
+0 -1 5165
+D3
+A doorway leads to the servants quarters.
+~
+~
+0 -1 5168
+S
+#5167
+&KKitchen&n~
+  Silver and gold goblets and plates have been painstakingly pieced back together and lay waiting to recieve a
+new meal. Along the northern side of the kitchen are stacked jars of spice and pickled foodstuffs, as well
+as a small cellar used for storing wines and more perishable products. A large iron stove dominates the eastern 
+half of the kitchen, above which is a strange, yet practical umbrella-like contraption used for capturing the
+smoke from the fire and filtering it out of the household. 
+~
+51 1048585 0 1 99 0
+D3
+A door leads to a hallway.
+~
+~
+0 -1 5166
+S
+#5168
+&KServants Quarters&n~
+  Several cots covered with simple linens lay scattered about haphazardly in an attempt to make a temporary 
+place to sleep for the servants. It is obvious from the quality of the bedding that either the Taenre care 
+little for their help, or all the quality amenities have long since been removed from the household.
+~
+51 1048585 0 1 99 0
+D1
+A door leads to a hallway.
+~
+~
+0 -1 5166
+S
+#5169
+&KServants Hall&n~
+  The only thing left standing in this hallway is the set of stairs that lies before you. Large gouges and 
+chips from edged weapons dot the rails and boards like scars on a veteran warrior, leaving the question of 
+exactly how stable the stairway is. Further to the south can be seen a set of oaken doors that lead out of the
+house, and up the rickety stairs leads to the living quarters of the family Taenre.
+~
+51 1048585 0 1 99 0
+D2
+The hallway continues.
+~
+~
+0 -1 5166
+D4
+A set of stairs leads up.
+~
+~
+0 -1 5170
+S
+#5170
+&KUpper Hallway&n~
+  The upper halls of the household show far fewer signs of battle than those below. The occasional slash on a 
+wall, or scratch on a door can be seen, but for the mostpart the upper level remains intact. The hall runs in a 
+north-south direction, flanked by doors on either side. Further to the south can be seen a silvery-black door 
+that is more elaborately crafted than the others, and most likely leads to the chambers of the Matron.
+~
+51 1048585 0 1 99 0
+D0
+The hallway continues.
+~
+~
+0 -1 5173
+D1
+A door leads to a bedroom.
+~
+oak door~
+9 0 5172
+D3
+A door leads to a bedroom.
+~
+oak door~
+15 5129 5171
+D5
+A set of stairs leads down.
+~
+~
+0 -1 5169
+S
+#5171
+&KAkordia's Room&n~
+  A huge bookcase dominates the far wall, filled with various books of spellcraft and arcane arts. Akordia was
+never much of a brewer, so the vials and beakers used for making potions have gron dusty and covered with cob-
+webs on her desk. Stacks of books lay next to her bed, reading material for nights when she cannot sleep. She is
+obviously drawn to the arts of magic, and judging from the bolts and locks on the inside of the door, doesn't 
+like the others of the household to disturb her as well.
+~
+51 1048585 0 1 99 0
+D1
+A door leads to a hallway.
+~
+oak door~
+15 5129 5170
+S
+#5172
+&KWode's Room&n~
+  Treasures of past expeditions still lie piled into the eastern corner of the room, long since forgotten and
+ignored. Wode never much cared for the treasures he gleaned for those on the surface world, but he does occas-
+ionally trade the items for new weapons or armor that he keeps neatly displayed in cases on the wall. The only
+other furnishings that wode keeps in his room are a simple bed with a footlocker at the end to store the poisons
+that he occassionally purchases.
+~
+51 1048585 0 1 99 0
+D3
+A door leads to a hallway.
+~
+oak door~
+1 0 5170
+S
+#5173
+&KUpper Hallway&n~
+  The large oaken doors contain large gouges, most likely from rival house attackers wo made it 
+this far. The entire house remains standing, but it is apparent from the outside that it is in 
+various states of decay throughout. The Taenre family lives for now, but until they can fortify 
+themselves substantially, they will be a target for the stronger households.
+~
+51 1048585 0 1 99 0
+D0
+A door leads to a bedroom.
+~
+oak door~
+9 0 5175
+D2
+The hallway continues.
+~
+~
+0 -1 5170
+D3
+A door leads to a bedroom.
+~
+oak door~
+9 0 5174
+S
+#5174
+&KNym's room&n~
+  An altar to lolth takes up a majority of the far wall, next to the idol on each side is a banner with a like-
+ness of the spider queen in her human form. From the worn spots on the ground near the altar, it is apparent
+that Nym spends much time here worshipping his goddess. The only other thing in his room is the bed on which he
+sleeps.
+~
+51 1048585 0 1 99 0
+D1
+A door leads to a hallway.
+~
+oak door~
+9 0 5173
+S
+#5175
+&KHalisstra's Den&n~
+  Whips and chains and insane devices used for torture lay all over the room. It's quite obvious that the lady
+of the house likes to play with her pets before ripping their hearts out and watching them die, most likely 
+from the best vantage point in teh room..her bed which is on a raised dias on the far end of the room.
+~
+51 1048585 0 1 99 0
+D2
+A door leads to a hallway.
+~
+oak door~
+9 0 5173
+S
+#5176
+&KFoyer&n~
+  The marbled walls are covered with silken murals, depicting battles between drow creatures of legend such as
+the Aurumvorax. The floor is covered with a blood red carpet, which gives the place a rather macabre feel. 
+Servants flit to and fro, performing the tasks assigned to them by their masters and paying you little heed. A
+hallway leads west into the building, deeper into the matrons lair, while a set of marble doors leads out of the 
+house to the east.
+~
+51 1048585 0 0 99 0
+D1
+Outside the house of Freth.
+~
+marble door~
+9 0 5109
+D3
+A hallway leads into the household.
+~
+~
+0 -1 5177
+S
+#5177
+&KA Marble Hallway&n~
+  Plush, blood red carpeting covers the entire floor of the hallway, providing better comfort than walking on 
+the cold stone floors. Several silken murals hang along the walls, depicting the history of former house members
+as they battle ancient creatures to the death. To the south comes the smells of what can only be a kitchen, 
+while further to the west can be seen a number of doors leading to the rooms of house members. To the east lies
+the foyer, and the way out of the house.
+~
+51 1048585 0 0 99 0
+D1
+The hallway leads into the foyer.
+~
+~
+0 -1 5176
+D2
+The smells of a kitchen permeate the air.
+~
+~
+0 -1 5178
+D3
+The hallway continues deeper into the household.
+~
+~
+0 -1 5179
+S
+#5178
+&KKitchen&n~
+  Silver and gold dinnerware lay painstakingly displayed in a simple oak cabinet, waiting for the next meal. 
+Along the southern side of the kitchen are stacked jars of spice and pickled foodstuffs, as well as a small 
+cellar used for storing wines and more perishable products. A large iron stove dominates the eastern wall, above
+which is a strange, yet practical umbrella-like contraption used for capturing the smoke from the fire and 
+filtering it out of the household.
+~
+51 1048585 0 0 99 0
+D0
+A door leads into a hallway.
+~
+~
+0 -1 5177
+S
+#5179
+&KA Marble Hallway&n~
+  Plush, blood red carpeting covers the entire floor of the hallway, providing better comfort than walking on 
+the cold stone floors. Several silken murals hang along the walls, depicting the history of former house members
+as they battle ancient creatures to the death. To the south is a simple stone door that leads into the servants
+quarters, while to the north is a similar door that contains several eldritch symbols upon it. To the east and
+west, the hallway continues.
+~
+51 1048585 0 0 99 0
+D0
+A door leads into a small room.
+~
+~
+0 -1 5181
+D1
+The hallway leads to the foyer.
+~
+~
+0 -1 5177
+D2
+A doorway leads to a large room.
+~
+~
+0 -1 5180
+D3
+The hallway continues deeper into the household.
+~
+~
+0 -1 5182
+S
+#5180
+&KServants Quarters&n~
+  Several cots lay scattered about haphazardly in this room. A large pile of dirty linens sits in the south-
+east corner, but otherwise there is little of interest here.
+~
+51 1048585 0 0 99 0
+D0
+A doorway leads to a hallway.
+~
+~
+0 -1 5179
+S
+#5181
+&KDurdyn's Room&n~
+  Stacks of books litter the room. most referencing some sort of study in the arcane. A large desk, also covered
+in books lies against the eastern walls. A large black candle sits upon the desk, providing light for the room, 
+and casts eerie shadows about as it flickers. A similar desk sits against teh western wall, covered in beakers,
+vials and bottles filled with strange fluids and mixtures. The only other item in the room is a large bed that
+sits against the northern wall, covered with red silk sheets. A door to the south leads out into a marble 
+hallway.
+~
+51 1048585 0 0 99 0
+D2
+A door leads into a hallway.A door leads into a hallway.
+~
+A door leads into a hallway.~
+0 -1 5179
+S
+#5182
+&KA Marble Hallway&n~
+  Plush, blood red carpeting covers the entire floor of the hallway, providing better comfort than walking on 
+the cold stone floors. Several silken murals hang along the walls, depicting the history of former house members
+as they battle ancient creatures to the death. To both the north and south are simple stone doors that lead into
+small rooms. To the east and west the hallway continues.
+~
+51 1048585 0 0 99 0
+D0
+A doorway leads into a small room.
+~
+~
+0 -1 5183
+D1
+The hallway leads towards the foyer.
+~
+~
+0 -1 5179
+D2
+A doorway leads into a small room.
+~
+~
+0 -1 5184
+D3
+The hallway continues deeper into the household.
+~
+~
+0 -1 5185
+S
+#5183
+&KDrisinil's Room&n~
+  The only item in this room is a simple bed with black silken sheets. The walls and floors are bare, and there
+is nothing else of interest in the room.
+~
+51 1048585 0 0 99 0
+D2
+A doorway leads into a hall.
+~
+~
+0 -1 5182
+S
+#5184
+&KLyme's Room&n~
+  The doorway of this room is slightly larger than the others, having to allow access for the massive frame of
+Lyme. His bed, likewise, is much larger, and is covered with blood red sheets made of silk. Weapons proudly
+hang from the walls like pictures, all cleanly polished and in perfect working order. A large footlocker sits
+at the end of the bed, containing nothing more than personal affects and trinkets from surface raids. There is 
+nothing else of interest in the room.
+~
+51 1048585 0 0 99 0
+D0
+A doorway leads into a hall.
+~
+~
+0 -1 5182
+S
+#5185
+&KA Marble Hallway&n~
+  Plush, blood red carpeting covers the entire floor of the hallway, providing better comfort than walking on 
+the cold stone floors. Several silken murals hang along the walls, depicting the history of former house members
+as they battle ancient creatures to the death. To the south is a simple stone door that leads to the bedroom of
+one of the housemembers. To the west is a larger, more elaborate mithril door that could only lead to the den of
+the matron of the house.
+~
+51 1048585 0 0 99 0
+D1
+The hallway leads towards the foyer.
+~
+~
+0 -1 5182
+D2
+A door leads into a small room.
+~
+~
+0 -1 5187
+D3
+A large mithril door leads into a large chamber.
+~
+mithril door~
+1 0 5186
+S
+#5186
+&KWaerva's Den&n~
+  Tapestries cover the walls of this large chamber, each dipicting the spider goddess Lolth in her many forms. 
+A large, canopied bed dominates the western wall, covered with black sheets made from silk. The floor is covered
+with blood red carpeting from corner to corner, but there is little else of interest in the room.
+~
+51 1048585 0 0 99 0
+D1
+A doorway leads to a hall.
+~
+mithril door~
+9 0 5185
+S
+#5187
+&KXune's Room&n~
+  A large plush bed dominates the center of the southern wall, next to it on either side are identical altars
+of a half spider, half drow woman. Several black candles are lit upon each altar, and it becomes apparent that
+these are the quarters of a drow priestess. To the north, a door leads out of the room and into a marble 
+hallway.
+~
+51 1048585 0 0 99 0
+D0
+A doorway leads into a hall.
+~
+~
+0 -1 5185
+S
+#5188
+&KKitchen&n~
+  A large stove dominates the eastern wall, a large umbrella-like contraption used for capturing smoke and 
+filtering it out of the household. A table covered with jars of spices and pickled foodstuffs lies against the
+southern wall, next to it lies the doors to a cellar used for storing more perishable foods. Against the north-
+ern wall is a cedar cabinet filled with row after row of dinnerware. The plates and silverware range from plain
+porcelain to admantium laced with gold. They all look quite expensive, a true testemant to the power of this
+household.
+~
+51 9 0 0 99 0
+D3
+The main hall lies through the archway.
+~
+~
+0 -1 5113
+S
+#5189
+&KServants Quarters&n~
+  Several cots line the room, but otherwise there is little of interest here. The servants of the drow, even 
+though they are drow themselves, are treated like little more than slaves. They have few possessions and cert-
+ainly nothing of value.
+~
+51 9 0 0 99 0
+D1
+The main hall lies through the archway.
+~
+~
+0 -1 5113
+S
+#5190
+&KShort Hallway&n~
+  Typical of all drow noble houses, the hallway contains several murals and draperies that depict scenes of
+drow victory over varius foes. It is customary to depict ones ancestors in such a way to bring honor to the 
+household and the more hero's a house has, the more powerful it usually becomes. To the east and west lie
+archways that lead into small rooms, while to the north the hallway continues to a set of stairs. To the south
+an archway leads into the main chamber.
+~
+51 9 0 0 99 0
+D0
+The hallway continues deeper into the house.
+~
+~
+0 -1 5191
+D1
+A archway leads to a small room.
+~
+~
+0 -1 5193
+D2
+The archway leads into the main hall.
+~
+~
+0 -1 5113
+D3
+A archway leads to a small room.
+~
+~
+0 -1 5194
+S
+#5191
+&KBottom of the stairs&n~
+  Typical of all drow noble houses, the hallway contains several murals and draperies that depict scenes of
+drow victory over varius foes. It is customary to depict ones ancestors in such a way to bring honor to the
+ household and the more hero's a house has, the more powerful it usually becomes. To the east and west lie
+archways that lead into small rooms, while a set of mithril stairs leads to the upper story of the household.
+To the south the hallway continues towards the main chamber.
+~
+51 9 0 0 99 0
+D1
+An archway leads to a small room.
+~
+~
+0 -1 5195
+D2
+The hallway leads towards the main hall.
+~
+~
+0 -1 5190
+D3
+An archway leads to a small room.
+~
+~
+0 -1 5196
+D4
+A set of mithril stairs leads up.
+~
+~
+0 -1 5192
+S
+#5192
+&KUpper Chambers&n~
+  The upper hall is undecorated as guests never come here. Several plain white tapestries hang from the walls,
+their glow illumintaing the path before you. To the north is a door made of the purest mithril, while to the
+south the hallway continues to a similar door made of adamantium.
+~
+51 9 0 0 99 0
+D0
+A mithril door leads into a small room.
+~
+mithril door~
+9 0 5197
+D2
+A short hall leads to an adamantium door.
+~
+~
+0 -1 5198
+D5
+A set of mithril stairs leads down.
+~
+~
+0 -1 5191
+S
+#5193
+&KTalryn's Room&n~
+  This cozy little room is filled with old and dusty books of magic. Even the bed is covered in books, leaving 
+you to wonder how Talryn even sleeps in here, let along navigate his way around the stacks of books.
+~
+51 9 0 0 99 0
+D3
+An archway leads to a hallway.
+~
+~
+0 -1 5190
+S
+#5194
+&KDeroune's Room&n~
+  The most noticable thing upon entering this room is a large tank against the western wall that houses several
+varieties of very venomous snakes. A small desk is next to the tank, upon which are several open vials as well
+as satchels of herbs and a mortar and pestel. A large bookcase sits against the northern wall, next to a small
+canopied bed covered with black sheets. The bookcase contains several books filled with various subjects ranging 
+from political philosophy to how to win the heart of women. 
+~
+51 9 0 0 99 0
+D1
+An archway leads to a hallway.
+~
+~
+0 -1 5190
+S
+#5195
+&KTalice's Room&n~
+  The floor of this room is covered with white carpeting that ends at the archway that is the only exit. A small
+mahogany bed sits against the far eastern wall, covered with sheets of white silk. In fact, everything in this 
+room is white, including the desk made of birch wood. Suprisingly there is no altar to Lolth in this room, nor
+any items that would show Talice to be a priestess of Lolth at all.
+~
+51 9 0 0 99 0
+D3
+An archway leads to a hallway.
+~
+~
+0 -1 5191
+S
+#5196
+&KGelroos' Room&n~
+  Scars cover the white walls of this room where weapons have struck them in sparring sessions. Gelroos often
+hones his skills here, and the rack of weapons in the southeastern corner of the room holds many of his favor-
+ites. A large canopied bed covered with red sheets sits against the southern wall, but otherwise the room is 
+bare. 
+~
+51 9 0 0 99 0
+D1
+An archway leads to a hallway.
+~
+~
+0 -1 5191
+S
+#5197
+&KGinafae's Room&n~
+  The room of the high priestess is rather bare because she spends little time here. She spends most of her 
+time in the great temple, seeing to the duties of the priestesses, so the only furnishings she has are a simple
+bed and an altar to pray to the spider goddess.
+~
+51 9 0 0 99 0
+D2
+A mithril door leads to a short hall.
+~
+mithril door~
+9 0 5192
+S
+#5198
+&KShort Hallway&n~
+  The upper hall is undecorated as guests never come here. Several plain white tapestries hang from the walls,
+their glow illumintaing the path before you. To the south lies a door made of pure adamantium, while to the 
+north can be seen a set of mithril stairs that lead down as well as another door further north.
+~
+51 9 0 0 99 0
+D0
+A short hallway leads to a set of stairs.
+~
+~
+0 -1 5192
+D2
+An adamantium door leads to a large chamber.
+~
+adamantium door~
+9 0 5199
+S
+#5199
+&KDen of the First Matron&n~
+  The floor of this large room is covered with a carpeting as white as snow. The walls are likewise adorned 
+with white tapestries as is the large canopied bed that dominates the western wall. A small altar to the spider
+goddess lies against the eastern wall, a large desk bearing official papers and the like sits against the
+southern wall. The first matron can usually be found here, organizing house events as well as organizing any
+raids to the surface world.
+~
+51 9 0 0 99 0
+D0
+An adamantium door leads to a short hallway.
+~
+adamantium door~
+9 0 5198
+S
+$~
+#999999

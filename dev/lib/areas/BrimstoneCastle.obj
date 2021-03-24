@@ -1,0 +1,770 @@
+#22975
+obj fyrebrand sword blade~
+1
+&KFyre&rBr&Ra&rnd&n~
+A strange blade lies here, emitting a smoldering heat.~
+~
+5 138415169 4 8193
+67640 10 5 3
+7 190000 100000
+A
+18 3
+A
+19 1
+A
+13 -50
+A
+33 -1
+#22976
+obj black moonstone ring sigil brimstone vorn 2nd~
+2
+&Ka black moonstone ring with the sigil of &cBrimstone&n~
+A small ring made from a black metal and shaped into the form of a crescent moon lies here~
+~
+9 138413124 0 3
+20 0 0 0
+2 106500 400000
+A
+19 2
+A
+18 2
+A
+24 -4
+A
+13 -5
+#22977
+obj black moonstone ring sigil brimstone vorn max~
+1
+&Ka black moonstone ring with the sigil of &cBrimstone&n~
+A small ring made of black metal and shaped into the form of a crescent moon lies here.~
+~
+9 138415172 4 3
+25 0 0 0
+1 207500 450000
+A
+19 3
+A
+18 3
+A
+13 20
+A
+23 -1
+#22978
+obj rune covered tunic ul'azzr vorn~
+1
+&Wrune &Kcovered &ctabard &Kof Ul'Azzr&n~
+A beautiful tabard covered in runes lies here.~
+~
+9 205521984 0 9
+80 0 0 0
+10 208750 1200000
+A
+18 3
+A
+19 3
+A
+24 -3
+A
+13 -45
+#22979
+obj sword sacred judge~
+2
+&wA sword named '&CS&cacre&Cd J&cudg&Ce&w'&n~
+A shortsword lies here, glowing with a strange divine power.~
+~
+5 138460225 0 8193
+526336 9 5 3
+5 107500 400000
+A
+19 1
+A
+18 3
+A
+24 -2
+#22980
+obj shadow slayer shadowslayer sword blade vorn~
+1
+&KShadow&WSlayer&n~
+A mystical blade covered in blood lies here.~
+~
+5 138415105 0 24577
+2184 9 5 11
+5 287500 100000
+#22981
+obj staff wiccan~
+4
+&yStaff of the &KWiccan&n~
+A long, slender staff lies here.~
+~
+4 138452992 0 16385
+41 7 7 7
+8 213000 267500
+A
+19 5
+A
+18 1
+A
+37 -1
+#22982
+obj skull black wolf~
+2
+&WSkull &wof the &Kblack &wwolf&n~
+The skull of a wolf-like creature lies here collecting dust.~
+~
+9 4199488 0 17
+20 24 0 0
+4 90000 600000
+A
+19 3
+A
+18 2
+A
+12 -15
+A
+36 -1
+#22983
+obj moonshadow pelt ~
+2
+&wa &KMoonShadow &wpelt&n~
+The pelt of a large wolf-like creature lies here in a heap.~
+~
+15 138413120 0 1025
+400 0 0 0
+10 136250 90000
+A
+17 -45
+A
+19 3
+A
+13 10
+A
+37 -1
+#22984
+obj icerain fang~
+3
+&Wan &BIce&cRain &Wfang&n~
+A fang from a large beast lies here.~
+~
+5 222301185 0 8193
+163840 5 8 11
+6 136000 450000
+A
+19 4
+A
+13 10
+#22985
+obj stone splitter axe stonesplitter~
+1
+&wA large axe called '&yStone&KSplitter&w'&n~
+A very large axe engraved with eldritch runes lies here.~
+~
+5 239105025 0 8193
+0 6 11 3
+12 157500 320000
+A
+19 4
+A
+18 1
+#22986
+obj white wolf paw icerain~
+2
+&wa &Wwhite wolf's &wpaw&n~
+The severed paw of a wolf lies here.~
+~
+9 4195328 0 16385
+15 0 0 0
+4 87000 950000
+A
+19 6
+A
+18 3
+A
+14 -35
+#22987
+obj lizardman battle harness~
+3
+&ga &yL&giz&Gard&gma&yn &Kbattle &yharness&n~
+A large, oddly shaped harness lies here, collecting dust.~
+~
+9 71303169 0 1025
+8 0 99 0
+6 56000 390000
+A
+19 4
+A
+18 1
+A
+13 25
+#22988
+obj wickedly curved war spear~
+2
+&Ka wickedly curved war-spear&n~
+A large, wickedly curved spear lies here. It looks good for fighting with.~
+~
+5 4214848 0 8193
+32 5 10 11
+4 77000 650000
+A
+19 2
+A
+18 3
+#22989
+obj icerain pelt~
+1
+&BIce&cRain&W's pelt&n~
+The pelt of a very large wolf lies here.~
+~
+9 205555712 0 1025
+60 0 0 0
+15 150000 750000
+A
+19 3
+A
+18 2
+A
+14 -15
+A
+12 -15
+#22990
+obj staff solarian~
+3
+&ystaff of the &YSolarian&n~
+A large staff made from cypress wood lies here. It glows with power.~
+~
+4 222342145 0 16385
+48 15 15 42
+5 116000 1300000
+A
+19 6
+A
+18 1
+A
+12 25
+A
+13 -10
+#22991
+obj book circle of fate~
+32767
+&KThe Circle of Fate&n~
+A glowing black book lies here upon a pedestal.~
+~
+16 1 0 0
+0 0 10 0
+1 5 5
+E
+circle fate book~
+  The book is very large and very thick. The pages are made of a carefully prepared parchment so
+they won't wear and decay over time, and the cover is made from darkened dragonhide with magical
+protections to withstand a fire. Written upon the cover in large golden letters is the following:
+
+                             &YThe Circle of Fate
+                                  As told by Gaereth, Sage of the Realm&n
+
+Chapter Selection: Preface
+                    Chapter1
+                    Chapter2
+                    Chapter3
+                    Chapter4
+                    Chapter5
+                    Chapter6
+                    Chapter7
+                    Chapter8
+                    Chapter9
+                    Chapter10
+                    Chapter11
+
+Note: To read the chapters, type, 'look <chapter#>
+Example: look chapter1
+~
+E
+preface~
+    We shall begin where all good stories begin..at the beginning. Before the realm as we know it
+was formed, when evil reigned and the light of goodness that now exists was hidden in remote 
+corners of the world with little hope of being saved. This story is about ten brave souls, outcast
+from their respective societies and shunned by all they met. Even in these dark times, these indiv-
+iduals were able to find each other, trust in each other, and feed off one anothers strengths to do
+what had never been done before....fight back against the evil. Their story is one of mystery, of
+glory, of tragedy, and even times comedy, but most important of all, it is true...a real life story
+of Legends. And so, let us begin......
+~
+E
+chapter1~
+  I first met Vorn Ul'Azzr while taking s troll through the Quel'Sith Forest. I had always heard
+stories of the mysterious protector of those woods, but I had never expected to meet him since he
+only seemed to appear when evil was near his domain. But there he was, right in front of me. A tall
+lithe figure obviously not human, though just as tall. He wore simple forest garb with no evidence
+of any armorings underneath. A bow as black as night was slung over his shoulder, and a blade 
+sheathed in a scabbard lay on each hip. he looked, simply, like an ordinary ranger out for a patrol
+of his territory. He didn't appear to be the destructive force I had heard whispered in the 
+rumours, but there was one feature about him that caught my attention and mesmerized me. It was his 
+face..or lack thereof. Where his chisled features should have been, instead was an inky blackness 
+that not only peaked my curiousity, but frightened me as well. As I stood entranced by this globe
+of darkness that hid his features, he spoke, a calm, soothing voice that was both soothing melodic
+to my ears. he asked, simply, what I found so curious about him. I blushed, having forgotten the
+ranger ability to sense emotions in other beings, including animals. I replied with a question, 
+asking him why he hid his features from the world. A soft chuckle was the only reply I received, 
+and he wuickly turned to leave. I swear i only took my eyes off of him for a second as I reached 
+for my writing scrolls, but in that time he had disappeared as if swallowed by the forest itself.
+I wandered the rest of the day befuddled by my meeting with the being simply known at that time as 
+'the Guardian' it wasn't until my next meeting with him that I understood his true nature and the 
+reasoning for hiding his face, but that you shall llearn about later, for now you must meet the
+second of those who called themselves 'The Circle of Fate.'
+~
+#22992
+obj vorn meets moonshadow and icerain~
+32767
+vorn meets moonshadow and icerain~
+A torch is lying here.~
+~
+16 0 0 1
+0 0 10 0
+1 5 5
+E
+story~
+  it was an cold winter night on the 14th day of the month of Crystal Rain, year 265. Vorn was
+on his way to his tree shelter, having just bagged a meal of venison for himself and his adopted 
+daughter. Save for the howling wind, the night was quiet, as was typical this time of the year in
+these lands. The birds had long migrated to warmer climates, and many of the larger mammals were
+nestled deep within their burrows hibernating the winter away. It had snowed most of the day, and
+were not the drow elf an excellent tracker he would have trouble navigating his way through the 
+barren forest thanks to the fresh snow that now laid upon the ground. Near his tree house Vorn
+suddenly stopped. The perfect layer of snow before him had been disturbed. From what he was able
+to determine, there were over a dozen sets of tracks. Several of these were animal, wolf from the
+looks of them, but like no wolf the elf had ever encountered. The wolf prints were huge, larger
+(most were) than his hand, but several other sets were slightly smaller. This probably meant a 
+fair sized wolf pack had crossed recently, the larger tracks belonging to the alpha male and 
+female. There were other tracks also, however...human. They numbered about half dozen or so 
+judging from the various sizes, and they had crossed this path more recently than the wolves. It 
+suddenly became apparent to the drow that these humans must be poachers looking for a few pelts
+to sell on the market. He certainly couldn't allow himself to be called a ranger and let poachers
+hunt upon his protected territory so he set about tracking down the scoundrels. 
+  It wasn't long before he found the firs corpse. It was a large, greyish-white wolf about the
+size of a normal dire wolf. It had been stabbed with a piercing weapon numerous times, ruining
+the pelt. These men were not poachers after all, but were killign for the sheer pleasure of it.
+Vorn flushed for a moment, becoming completely enraged buy such a waste of life. His rage was only
+~
+#22993
+obj vorn meets moonshadow and icerain 2~
+32767
+A torch~
+A torch is lying here.~
+~
+16 0 0 1
+0 0 10 0
+1 5 5
+E
+continued story~
+the teeth of the wolf were not fully developed...the wolf was but a cub. Now as much curious as
+he was angry, Vorn once again set off tracking down the despicable humans. he found several more
+bodies along the path he was following. Most were more cubs, five more in number. Their colors
+ranging from a pure white, to greyish-black. There were two human bodies however, and Vorn smiled
+with satisfaction that these human beasts would never again slay an innocent animal.  It was then
+that he heard a yelp of pain. the drow broke towards the sound, silently casting a spell to 
+levitate his feet above the ground for greater speed. He could only hope he was not too late. The
+number of wolf tracks had grown few, meaning there weren't many left. He pulled up short after
+rounding a tree and seeing torchlights. There, in a defensive stance stood the largest wolf the 
+elf had ever laid eyes upon. It was a monster, being nearly six feet tal at the shoulder and a 
+hefty twelve or so feet in length. his coat was a pitch black which only accented his perfectly
+white teeth which were bared to the group of humans that stood before him. The creatures back 
+~
+E
+story2~
+was to an equally large pure white wolf. She looked to be mortally wounded as crimson blood 
+covered her once beautiful coat as she lay in the snow barely able to move. As Vorn stood staring 
+at the wolf, his eyes met hers for a moment....the pain, the fear, the anguish in her intelligent
+eyes was more than he could take. These were not ordinary wolves, they were sentient creatures 
+like himself. before he even realized it, he had lept over the white wolf to join her mate, both
+Fyrebrand and Shadowslayer drawn and ready. The black wolf never even flinched, almost as if it 
+recognized Vorn's assistance for what it was. The humans at first were taken aback by the presence
+of the elf, but soon gathered themselves. They still numbered five, and they should easily take
+out a spindly lookign elf and a wolf. The last thing Vorn remembered before entering his Dance was
+Fyrebrand pulsing in his right hand. it could smell the evil around him, and it wanted a taste of
+its blood............
+~
+#22994
+obj vorn meets moonshadow and icerain 3~
+32767
+A torch~
+A torch is lying here.~
+~
+16 0 0 1
+0 0 10 0
+1 5 5
+E
+aftermath~
+  Vorn paused a moment, forcing the lust to kill to be buried deep within his soul once again. 
+Fyrebrand no longer pulsed in his hand, it had been satiated long ago and was covered in blood. He
+turned to look for the black wolf. It was a short ways to his right, staring at him with what
+appeared to be a relieved look in his eyes. 
+  Fuly under his own control again, Vorn turned his attentions to the white wolf. As he approached
+her, he could hear the black wolf growl lowly, but was quickly silenced as the white wolf shot a
+glance back at her mate. She had lost alot of blood. The most dangerous wound was in her chest, 
+where part of a spear shaft still remained. He stood over her, examing the wound. It was deep, but
+from what he knew of wolf anatomy, no vital organs appeared to have been punctured. he grabbed the
+shaft of the weapon, half expecting the she-wolf to lunge at him to protect herself, but she lay 
+still as if trusting the elf. He quickly pulled the weapon from the wolfs body. She yelped in pain
+but again lay still, waiting to see what the young drow would do next. Luckily Vorn always carried
+a pouch og healing herb with him on hunts should he ever be injured. he smeared the concoction 
+over the white wolfs wounds, and then applied a few bandages that were soaked in medication. She 
+would live, but she would be in pain for awhile. it was then that the most shocking event of the 
+evening happened. A voice, strong and masculine entered his mind. It was not spoken aloud, but was
+more akin to a telepathic link. He turned to the black wolf, a look of shock upon his face. 
+Completely flustered, he stared into the male wolfs eyes and managed to stammer, 'Your welcome' 
+before once again turning to finish bandaging the white wolf.
+~
+#22995
+obj the littlest hero~
+32767
+Book 1: The Littlest Hero (Look story to read)~
+The first volume of The Littlest Hero lies here. (Look story to read)~
+~
+8 0 0 1
+0 0 10 0
+1 5 5
+E
+story~
+  The group they required to invade the Underworld was almost complete. They still lacked a 
+stealthy thief. Balinor had dabbled in thievery, but he was mainly a warrior, and dwarves weren't
+very suited for scouting missions where silence was key. They also required a backup healer. Though
+Magick's skills were highly advanced for her age, the large battles they were about to engage in 
+would be moe than her powers could handle. Telsek had heard rumours of a witch who lived within the
+Teldescian Swamps. Not a suprising place for a witch really, the inhospitable nature of the swamps
+was sure to keep away any witchunters. Unfortunately, the swamp was also inhabited by a dark mage
+by the name of Caliban. many stories had spread throughout the region of the dark experiments he
+performed upon the inhabitants of the swamp, but knowing no other alternatives, the group set out
+to find this witch that had eluded the magician all this time. 
+  The trip through the Quel'Sith forest was uneventful as usual. This was Vorn's territory, and any
+beast that was not his ally would dare not attack him. It wasn't long before they found themselves 
+on the borders of the Teldescian Swamp, it's dark gloomy interior was a sharp contrast to the 
+beautiful setting of the Quel'Sith. the muddy waters of the swamp meant for difficult travel, but
+the ranger had ventured a few times into the swamp and knew a couple semi-dry rails they could use 
+to get them closer to their goal. The travelers had only been walking a few hours before the sun 
+began to set. With the trails that Vorn was familiar with behind them, the party decided to set up
+camp rather than risk running into some peril of the swamp like quicksand. Aerion decided to take 
+the first watch. The usually talkative mage had been uncharacteristically quiet the morose the past
+few days, but the others didn't argue as they quickly built a fire and laid out their sleeping 
+rolls. As usual, Vorn didn't stick around camp long before venturing off somewhere into darkness. 
+~
+#22996
+obj the littlest hero 2~
+32767
+A torch~
+A torch is lying here.~
+~
+16 0 0 1
+0 0 10 0
+1 5 5
+E
+story~
+it was apparent to the others that this annoyed both Magick and her sister Sylvania, but he had 
+gotten them this far so neither argued his solitary treks. 
+  Aerion's shift passed without incident, so Balinor decided to take the second shift as the others 
+prepared for bed. Vorn had still not returned, but this was not unusual. The drow would spend hours
+off on his own, never speaking of his activities upon his return. 
+  A deafening roar shook the through the night. The group of adventurers lept from their beds, 
+trying to shake off the effects of their sleep as Balinor let out a shout of suprise from his post.
+Now fully awake, and weapons in hand, the party began scanning the outskirts of their camp for the
+'thing' that had woken them. The troll had an advantage over his friends. besides the drow, he was
+the only one in the group who could see in the dark as well as a human could see in the day. Vorn
+was still nowhere to be seen, and it was obvious from the look in Magick's eyes that she was more
+than a little annoyed. The elves and dwarf looked at each other in confusion, their infravision 
+unable to find any heat signatures in the surrounding area other than small mammals. They, along 
+with the humans turned to Telsek questioningly, trying to find some answer to what danger lurked 
+just out of reach in the shadows. At first the huge troll saw nothing. The swamp was quiet and 
+still. Then he saw it. A shadow at first, hard to make out in the dark murky waters, but then it 
+grew and became more defined. The others stared at the troll as a look of horror twisted his face.
+"Dragon!" he screamed just as the creatures head began to break the surface of the waters. The  
+quickly formed a defensive line. it was too late to flee now, the dragon was practically upon them
+and was much more suited to traversing the swamps then they were. The beast was huge, measuring at
+least fifty feet in length. It's scales glistened in the moonlight, large black scales. "This isn't
+~
+#22997
+obj the littlest hero 3~
+32767
+A torch~
+A torch is lying here.~
+~
+16 0 0 1
+0 0 10 0
+1 5 5
+E
+story~
+good." Telsek thought to himself. "These lizards breath acid that can eat through the strongest 
+armours." Nevertheless, the group stood ready to defend themselves. Telsek, Balinor and T'alsril 
+the lizardman warrior were the front line. They were the toughest warriors and had the most 
+protective armor for withstanding the dragons attacks. Sylvania and Magick stood begind them. The
+silver haired sister was the backup warrior shoudl anyone fall, and magick was there to heal or 
+fight as needed. Aerion and Shael rounded out the group. Shael was a gnomish elementalist mage. His
+spells woudl provide extra protection for the party, while Aerion's offensive spells would would 
+be a great aid in battle. The dragon roared in anger. Black dragons were evil and malicious to 
+begin with, but this ones territory had been invaded and it was in no mood to talk. A glob of 
+spittle fell from the beasts mouth and began burning a hole through the log it fell upon. Each 
+party member winced at the thought of what affect the dragons attack woudl have on flesh and bone.
+T'alsril struck first. He was the most impatient of all the group, and with a mighty war cry lofted
+(scratch lofted) charged at the dragon, swinging his mighty battle spear in a deadly arch towards
+the dragons throat. With a sickening thud the blade of the spear struck on of the dragons 
+neckplates. Seemingly satisfied, the lizardman withdrew his weapon from the dragons neck and stood
+horrified at the fact that he had barely scratched the thick plate. The dragon seemed almost amused
+at the pathetic attack, and took a moment to pause before inhaling deeply. the beast was about to
+release his dreaded breath attack and T'alsril was still to stunned to avoid it. The demise of the
+lizardman looked iminent when suddenly a large globe of darkness appeared of teh dragons head. 
+The dragon howled in rage, shaking it's head to and fro in an attempt to shake the magical globe. 
+~
+#22998
+obj the littlest hero 4~
+32767
+A torch~
+A torch is lying here.~
+~
+16 0 0 1
+0 0 10 0
+1 5 5
+E
+story~
+Now effectively blinded, the dragon let loose it's mighty breath, but only managed to dissolve a
+nearby tree. The group scrambled for cover. The dragon could no longer see them, but they could 
+get crushed in the thrashing rampage of the enraged dragon. Sylvania's elven ears picked up a low 
+whistle over the cries of the dragon, followed by a loud thud. The dragon roared in agony, raising 
+its head high into the air before once again renewing its attempts to shake the globe of darkness 
+that was consuming it. A second whistle was heard, followed by another thud and roar of pain. This 
+time the dragon collapsed. It was still alive, but but gravely wounded. A third whistle came from
+over their heads, and this time a roar did not follow the thud. Everyone sat breathless, waiting 
+for signs of life from the dragon, but none came. The globe of darkness dissipated from the 
+creatures head, and there protruding from the creatures face were three arrows. The first two were 
+lodged in the creatures mouth andcreatures head, and there protruding from the creatures face were three arrows. The first two were 
+~
+E
+continued~
+and covered with runes. Only one person in the swamp carried arrows like that and could shoot with 
+such accuracy in total darkness. Each party member slowly turned, already knowing the figure that 
+would be standing behind them. Vorn was there, bow still in hand, accepting their accusing 
+glances. He chuckled lightly and said aloud, 'Well, it's better that I was late than to have not
+been here at all."
+   The rest of the night was uneventful, but the group didn't sleep much. Vorn took the remainder
+of the shifts as punishment for his disappearance. He was used to being awake for days at a time 
+from his patrols in the Quel'Sith, so he accepted the task with no complaint. The party broke camp
+at dawn, only pausing to relieve the dead dragon of some scales and teeth which could be useful
+later to a smith. Balinor, always the treasure seeker suggested searching the dragons lair for
+some valuables. 
+~
+#22999
+obj vornquest~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#23000
+obj vornquest~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#23001
+obj vornquest~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#23002
+obj vornquest~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#23003
+obj vornquest~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#23004
+obj vornquest~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#23005
+obj vornquest~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#23006
+obj belt many pouches~
+2
+&ya belt of many pouches&n~
+A belt with many pouches attached to it lies here.~
+~
+15 138461248 0 2049
+300 5 0 0
+3 341000 450000
+A
+19 3
+A
+17 -10
+A
+36 -1
+#23007
+obj robes illusion red cloth~
+3
+&rthe red robes of ill&Rus&rion&n~
+A pile of red cloth lies here.~
+~
+11 138471488 0 9
+0 0 10 0
+8 230000 300000
+A
+24 -3
+A
+18 3
+A
+12 75
+#23008
+obj dark blue gown~
+6
+&Wa &bdark blue &Wgown&n~
+A dark blue gown lies here in a heap.~
+~
+11 339846433 0 9
+0 0 10 0
+8 90000 500000
+A
+42 3
+A
+12 75
+A
+33 -1
+A
+24 -10
+#23009
+obj javelin lightning~
+2
+&ya &Kjavelin&y of &Ylightning&n~
+A short javelin rests here, crackling with magical energy.~
+~
+5 4215873 0 8193
+262146 5 10 11
+6 80000 780000
+A
+19 2
+A
+18 2
+A
+9 10
+#23010
+obj suit silver full platemail~
+1
+&Wa silver suit of full platemail&n~
+A suit of full platemail made from silver lies here.~
+~
+9 205536257 0 9
+78 13 0 0
+20 156000 980000
+A
+19 3
+A
+18 1
+A
+13 25
+A
+12 -20
+#23011
+obj small silver key~
+1
+&wa small silver key&n~
+&wA small silver key lies here collecting dust.&n~
+~
+18 8 0 1
+0 2 0 0
+1 500 5
+#23012
+obj staff magi~
+2
+&yst&Ya&yff &Wof the &cM&Cag&ci&n~
+A delicate staff topped with a golden dragons head lies here.~
+~
+4 4251714 0 81921
+50 30 30 81
+6 135000 356000
+A
+19 3
+A
+18 2
+A
+36 -1
+A
+17 -15
+#23013
+obj fang silver dragon~
+1
+&WF&wan&Wg &wof the &KSi&wlv&Ker D&wr&Wag&wo&Kn&n~
+A rather large fang lies here, collecting dust.~
+~
+5 138413376 0 8193
+2072 9 5 11
+6 500000 300000
+A
+19 2
+A
+18 4
+A
+13 -50
+A
+33 -1
+#23014
+obj fyrebrand sword blade 2~
+1
+&KFyre&rBr&Ra&rnd&n~
+A strange blade lies here, emitting a smoldering heat.~
+~
+5 138415169 0 8193
+16844856 10 5 11
+7 190000 100000
+A
+18 3
+A
+19 1
+A
+13 -25
+A
+33 -1
+#23015
+obj twisted moonlight spear war serrated syllva~
+1
+&cTw&wi&Ws&wt&ced &wMoo&Wnli&wght&n~
+A large war spear with a serrated tip lies here.~
+~
+5 4195331 147456 8193
+4456480 11 4 11
+6 1000000 500000
+A
+17 -15
+A
+41 1
+A
+18 3
+A
+19 2
+$~
+#999999

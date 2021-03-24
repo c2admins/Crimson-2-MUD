@@ -1,0 +1,1963 @@
+#4200
+Cyric's Funky Reggae Lounge.~
+Smoke flows through the air so much, you cant see jack., you try to cover
+your ears to shut out that dreadfull music, but you cant.  That stupid
+off beat rythmn penetrates your ears, finds its way to the core of your
+brain, and makes everything totaly unbearable.
+~
+42 8 0 42 99 1
+D4
+The citadel awaits your exploration
+~
+~
+0 -1 4201
+S
+#4201
+Pathway to Chaos.~
+You are walking along a wide pathway that winds its way through the foothills of
+a large volcanic mountain to the west.  You can just make out a large citadel
+in this mountain, beneath the heat and smoke of the massive active volcano.
+~
+42 4 0 1 99 5
+D1
+You can see a large road.
+~
+~
+0 -1 3711
+D3
+The pathway winds its way through the foothills to the west.
+~
+~
+0 -1 4295
+S
+#4202
+Before the Firey Mountain~
+You stand beneath the Firey mountain, so called because of the lava flows that
+run in never ending rivers of red heat.  The citadel built into the mountain
+side, sticks out in sharp contrast to the natuaral skyline.  You feel fear
+oozing towards you from the south.  Only the foolish enter and only the strong
+survive.
+~
+42 4 0 1 99 5
+D1
+The pathway winds down through the foothills back to the south road.
+~
+~
+0 -1 4297
+D2
+Into the Mists of Chaos
+~
+~
+32 -1 1300
+D4
+The path winds up the mountain to the citadel
+~
+~
+0 -1 4203
+S
+#4203
+Nearing the Citadel of Chaos~
+You stand half way up the mountin, near to where the citadel is embedded
+into the mountain.  There is no path leading to the top of the mountain
+but that path you are on leads to the citadel gates.
+~
+42 0 0 1 99 5
+D3
+The citadel enterance lies just to the west of here
+~
+~
+0 -1 4204
+D5
+The path winds down the mountain, making its way east through the foothills.
+~
+~
+0 -1 4202
+S
+#4204
+Before the Citadel Entrance.~
+A set of huge double doors stand before you to the west.  The Citadel has
+been half built into the mountain side so only the eastern half is exposed,
+the rest is built underground.
+A large plate of bronze metal is fixed to the left of the doors, It has 
+writing engraved on it.
+~
+42 4 0 1 99 5
+D1
+Back to the east, the pathway winds down the mountain side, and through the foothills to
+the South Road.
+~
+~
+0 -1 4203
+D3
+A set of huge double doors are the only visible enterance into the Citadel
+~
+doors huge double~
+9 -1 4205
+E
+plate bronze metal writing engraved~
+                Citadel of Chaos
+                Designed by: Cyric
+                Suggested levels: 20 - 40
+                General zone alignment: neutral-evil
+~
+S
+#4205
+Inside the Citadel~
+You stand just inside the enterance to the Citadel of Chaos, You are in what
+appears to be a courtyard with a handfull of young chaos warriors 
+challenging each other to friendly duals
+~
+42 8 0 1 99 1
+D0
+More of the courtyard lies in this direction
+~
+~
+0 -1 4208
+D1
+A set of huge double doors lie to the east of here
+~
+doors huge double~
+9 -1 4204
+D2
+More of the courtyard lies in this direction
+~
+~
+0 -1 4210
+D3
+More of the courtyard lies in this direction
+
+~
+~
+0 -1 4206
+S
+#4206
+Courtyard in the Citadel of Chaos~
+You are in a courtyard inside the Citadel of Chaos.  All around you are
+young chaos warriors challenging each other to friendly duals.
+~
+42 8 0 1 99 1
+D0
+More of the courtyard lies in this direction
+~
+~
+0 -1 4207
+D1
+More of the courtyard lies in this direction
+~
+~
+0 -1 4205
+D2
+More of the courtyard lies in this direction
+~
+~
+0 -1 4209
+D3
+Through the door lies a long hallway
+~
+door~
+9 -1 4215
+S
+#4207
+Courtyard in the Citadel of Chaos~
+You are in a courtyard inside the Citadel of Chaos.  All around you are
+young chaos warriors challenging each other to friendly duals.
+~
+42 8 0 1 99 1
+D0
+A short hallway runs off to the west
+~
+door~
+9 -1 4213
+D1
+More of the courtyard lies in this direction
+~
+~
+0 -1 4208
+D2
+More of the courtyard lies in this direction
+~
+~
+0 -1 4206
+S
+#4208
+Courtyard in the Citadel of Chaos~
+You are in a courtyard inside the Citadel of Chaos.  All around you are
+young chaos warriors challenging each other to friendly duals.
+~
+42 8 0 1 99 1
+D2
+More of the courtyard lies in this direction
+~
+~
+0 -1 4205
+D3
+More of the courtyard lies in this direction
+~
+~
+0 -1 4207
+S
+#4209
+Courtyard in the Citadel of Chaos~
+You are in a courtyard inside the Citadel of Chaos.  All around you are
+young chaos warriors challenging each other to friendly duals.
+~
+42 8 0 1 99 1
+D0
+More of the courtyard lies in this direction
+~
+~
+0 -1 4206
+D1
+More of the courtyard lies in this direction
+~
+~
+0 -1 4210
+D2
+A short hallway runs of to the west
+~
+door~
+9 -1 4211
+S
+#4210
+Courtyard in the Citadel of Chaos~
+You are in a courtyard inside the Citadel of Chaos.  All around you are
+young chaos warriors challenging each other to friendly duals.
+~
+42 8 0 1 99 1
+D0
+More of the courtyard lies in this direction
+~
+~
+0 -1 4205
+D3
+More of the courtyard lies in this direction
+~
+~
+0 -1 4209
+S
+#4211
+Short Hallway~
+You stand in a short hallway in the first level of the citadel.  The hallway
+is used quite frequently by both minotaurs and chaos warriors, leading
+from the courtyard, to the stairs to the upper levels
+~
+42 12 0 1 99 1
+D0
+The Courtyard is to the north
+~
+door~
+9 -1 4209
+D3
+The hallway leads to the base of some stone stairs
+~
+~
+0 -1 4212
+S
+#4212
+Short Hallway~
+You stand in a short hallway in the first level of the citadel.  The hallway
+is used quite frequently by both minotaurs and chaos warriors, leading
+from the courtyard, to the stairs to the upper levels
+~
+42 8 0 1 99 1
+D1
+The hallway leads back to the courtyard
+~
+~
+0 -1 4211
+D4
+The stairs lead up to the next floor of the citadel.
+~
+~
+0 -1 4247
+S
+#4213
+Short Hallway~
+You stand in a short hallway in the first level of the citadel.  The hallway
+is used quite frequently by both minotaurs and chaos warriors, leading
+from the courtyard, to the stairs to the upper levels
+~
+42 12 0 1 99 1
+D2
+The Courtyard lies to the south
+~
+door~
+9 -1 4207
+D3
+The hallway leads to the base of some stone stairs
+~
+~
+0 -1 4214
+S
+#4214
+Short Hallway~
+You stand in a short hallway in the first level of the citadel.  The hallway
+is used quite frequently by both minotaurs and chaos warriors, leading
+from the courtyard, to the stairs to the upper levels
+~
+42 8 0 1 99 1
+D1
+The hallway leads back to the courtyard
+~
+~
+0 -1 4213
+D4
+A set of stone stiars lead up to the second level of the citadel
+~
+~
+0 -1 4231
+S
+#4215
+Long Hallway~
+You stand in the middle of a long hallway running east and west.  This 
+hallway is elaboratly decorated with paintings and tapestries of famous
+chaos warrior battles, as well as fallen heroes of the past.
+~
+42 8 0 1 99 1
+D1
+The courtyard lies through the door to the east
+~
+door~
+9 -1 4206
+D3
+The long hallway continues
+~
+~
+0 -1 4216
+S
+#4216
+Long Hallway~
+You stand in the middle of a long hallway running east and west.  This 
+hallway is elaboratly decorated with paintings and tapestries of famous
+chaos warrior battles, as well as fallen heroes of the past.
+You sense something strange about the carpet here, prehaps there could be 
+a way down to get under the citadel...
+~
+42 8 0 1 99 1
+D1
+The hallways leads back to the courtyard
+~
+~
+0 -1 4215
+D3
+The long hallway continues
+~
+~
+0 -1 4217
+D5
+A hidden trapdoor leads down into the darkness.
+~
+~
+16 -1 4219
+E
+trapdoor floor carpet~
+Pulling back the carpet you find a hidden trapdoor.  The trapdoor falls 
+open at your touch.
+~
+S
+#4217
+Long Hallway~
+You stand in the middle of a long hallway running east and west.  This 
+hallway is elaboratly decorated with paintings and tapestries of famous
+chaos warrior battles, as well as fallen heroes of the past.
+~
+42 8 0 1 99 1
+D1
+The hallway leads back to the courtyard
+~
+~
+0 -1 4216
+D3
+To the west there is a door that leads to the chambers of Lord Toraak, the 
+head chaos warrior trainer
+~
+door~
+1 -1 4218
+S
+#4218
+Chambers of Lord Toraak~
+This chamber houses Lord Toraak, the elite trainer of the chaos warriors
+roaming around the citadel.  The chamber has a desk with papers on it, about
+novice chaos warrior battle tacticts, and other combat stratergy
+~
+42 8 0 1 99 1
+D1
+Through the door, a long hallway leads back to the courtyard
+~
+door~
+1 -1 4217
+S
+#4219
+Under the Trapdoor~
+You stand in a small gloomy little alcove, set into the northern wall of a
+twisty little tunnel.  Above you is a closed trapdoor waiting for someone to
+unexpectedly fall through into the room where you are standing
+~
+42 13 0 1 99 0
+D2
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4220
+S
+#4220
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D0
+An alcove is set into the north wall
+~
+~
+0 -1 4219
+D2
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4229
+D3
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4221
+S
+#4221
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D1
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4220
+D3
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4222
+S
+#4222
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D0
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4223
+D1
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4221
+D2
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4224
+S
+#4223
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D2
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4222
+S
+#4224
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D0
+The twisty little tunnels lead off into the darkness~
+~
+0 -1 4222
+D2
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4225
+S
+#4225
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D0
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4224
+D1
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4226
+S
+#4226
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D0
+The heavy breathing seems to becoming from directly north of here!!
+~
+~
+0 -1 4230
+D1
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4227
+D3
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4225
+S
+#4227
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D0
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4229
+D1
+The twisty little tunnels lead off into the darkness~
+~
+0 -1 4228
+D3
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4226
+S
+#4228
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D3
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4227
+S
+#4229
+Labyrinth~
+You wander around in the labyrinth under the citadel of chaos, the sounds of
+heavy breathing echo through the twisty little tunnels, obviously the
+breathing of somthing large!!
+~
+42 4194313 0 1 99 0
+D0
+The twisty little tunnels lead off into the darkness
+~
+~
+0 -1 4220
+D2
+~
+~
+0 -1 4227
+S
+#4230
+Center of the Labyrinth~
+You have found your way to the center of the labyrinth, and to the lair of
+Kithnak, the renagade minotaur.  The lair shows signs of Kithnak, and his
+ancestors having lived here for centuries, probably since the citadel was
+first constructed
+~
+42 4194317 0 1 99 0
+D2
+The twisty little tunnels of the labyrinth lie to the south of here
+~
+~
+0 -1 4226
+S
+#4231
+Top of the Stone Stairs~
+You stand in an alcove set into the south wall of an east west running 
+hallway, a set of stone stairs lead down from here to a short hallway.  The
+distant sounds of battle ring out from what you guess is the courtyard.
+~
+42 12 0 1 99 1
+D0
+An east west running hallway lies to the north.
+~
+~
+0 -1 4232
+D5
+The stone stairs lead down to a hallway
+~
+~
+0 -1 4214
+S
+#4232
+Hallway in the Citadel~
+You stand in a hallway that runs through the northern part of the citadel.
+There aren't very many minotaurs in this part of the citadel, the hallways 
+are mostly dominated by chaos warriors, walking from room to room.
+~
+42 8 0 1 99 1
+D1
+The hallway turns to the north
+~
+~
+0 -1 4233
+D2
+A large alcove is set into the southern wall of the hallway
+~
+~
+0 -1 4231
+D3
+The hallway continues to the west
+~
+~
+0 -1 4238
+S
+#4233
+Hallway in the Citadel~
+You stand in a hallway that runs through the northern part of the citadel.
+There aren't very many minotaurs in this part of the citadel, the hallways 
+are mostly dominated by chaos warriors, walking from room to room.
+~
+42 8 0 1 99 1
+D0
+The hallway continues to the north
+~
+~
+0 -1 4234
+D3
+The hallway continues to the west
+~
+~
+0 -1 4232
+S
+#4234
+Hallway in the Citadel~
+You stand in a hallway that runs through the northern part of the citadel.
+There aren't very many minotaurs in this part of the citadel, the hallways 
+are mostly dominated by chaos warriors, walking from room to room.
+~
+42 8 0 1 99 1
+D0
+The hallway ends at a door
+~
+~
+0 -1 4235
+D2
+The hallway turns to the west
+~
+~
+0 -1 4233
+S
+#4235
+Hallway in the Citadel~
+You stand in a hallway that runs through the northern part of the citadel.
+There aren't very many minotaurs in this part of the citadel, the hallways 
+are mostly dominated by chaos warriors, walking from room to room.
+~
+42 8 0 1 99 1
+D0
+The door leads to the sleeping quaters of the retired Lord Omant
+~
+door~
+9 -1 4236
+D2
+The hallway continues to the south
+~
+~
+0 -1 4234
+D3
+The doorway leads to a mages study of some kind
+~
+door~
+9 -1 4237
+S
+#4236
+Sleeping Quaters of the retired Lord Omant~
+Here is the sleeping quaters of the once great Lord Omant.  Since his 
+retirement he has converted his quaters into a make shift mages labrotory,
+so he can fine tune his controll of magic, that has been building in him
+for years.
+~
+42 12 0 1 99 1
+D2
+A door blocks your way to the south
+~
+door~
+9 -1 4235
+S
+#4237
+Study of Doorin, Mage of Chaos~
+This study is home to Doorin, the Mage of Chaos.  The study has a desk on one
+wall covered with all kinds of wierd experiments and equipment, and a bookcase
+filled with ancient texts on the laws of chaos.
+~
+42 12 0 1 99 1
+D1
+The door blocks your way to the east
+~
+door~
+9 -1 4235
+E
+bookcase texts~
+The bookcase is filled with ancient texts about the chaotic side of magic.
+Mages of chaos believe that control over chaos magic, will eventually
+lead to world domination.
+~
+E
+desk experiments equipment~
+Covering the desk are a few half completed experiments, Its best to leave
+them alone before one of them suddenly explodes.
+~
+S
+#4238
+Hallway in the Citadel~
+You stand in a hallway that runs through the northern part of the citadel.
+There aren't very many minotaurs in this part of the citadel, the hallways 
+are mostly dominated by chaos warriors, walking from room to room.
+~
+42 8 0 1 99 1
+D1
+The hallway continues to the east
+~
+~
+0 -1 4232
+D3
+The hallway turns to the north
+~
+~
+0 -1 4239
+S
+#4239
+Hallway in the Citadel~
+You stand in a hallway that runs through the northern part of the citadel.
+There aren't very many minotaurs in this part of the citadel, the hallways 
+are mostly dominated by chaos warriors, walking from room to room.
+~
+42 8 0 1 99 1
+D0
+The hallway stops before a door
+~
+~
+0 -1 4240
+D1
+The hallway continues to the east
+~
+~
+0 -1 4238
+D2
+Through the doorway lies the chambers of Viscount berin
+~
+door~
+9 -1 4242
+S
+#4240
+Hallway in the Citadel~
+You stand in a hallway that runs through the northern part of the citadel.
+There aren't very many minotaurs in this part of the citadel, the hallways 
+are mostly dominated by chaos warriors, walking from room to room.
+~
+42 8 0 1 99 1
+D0
+The hallway stops at an old oak door to the north
+~
+door old oak~
+9 -1 4241
+D2
+The hallway turns to the east
+~
+~
+0 -1 4239
+S
+#4241
+Room of Mithar, the Chaos Preacher~
+A few benches have been brought into this room to seat up to ten chaos
+warriors whilst the preacher is conducting his religeous services.  An
+altar sits up one end of the room, covered in notes to help the preacher
+through his service.
+~
+42 12 0 1 99 1
+D2
+The doorway leads back to the hallway
+~
+door old oak~
+9 -1 4240
+E
+benches~
+The wooden benches are nothing more then a few peices of wood nailed together
+to provide seating for the chaos warriors.
+~
+S
+#4242
+Living Quaters of Viscount Berin~
+You stand in the living quaters of Viscount Berin,theese quaters are quite 
+large and very luxurious, with paintings, tapestries and many artifacts
+scattered all about the room.  There are no windows to be seen, mainly 
+because this part of the citadel is buried deep under the mountain.
+~
+42 12 0 1 99 1
+D0
+A door leads to the hallway beyond
+~
+door~
+9 -1 4239
+D2
+More of the Viscount's liveing quaters lie that way
+~
+~
+0 -1 4243
+S
+#4243
+Living Quaters of Viscount Berin~
+You stand in the living quaters of Viscount Berin,theese quaters are quite 
+large and very luxurious, with paintings, tapestries and many artifacts
+scattered all about the room.  There are no windows to be seen, mainly 
+because this part of the citadel is buried deep under the mountain.
+~
+42 8 0 1 99 1
+D0
+More of the Viscount's liveing quaters lie that way
+~
+~
+0 -1 4242
+D1
+More of the Viscount's liveing quaters lie that way.
+~
+~
+0 -1 4246
+D2
+More of the Viscount's liveing quaters lie that way.
+~
+~
+0 -1 4244
+D3
+More of the Viscount's liveing quaters lie that way.
+~
+~
+0 -1 4245
+S
+#4244
+Living Quaters of Viscount Berin~
+You stand in the living quaters of Viscount Berin,theese quaters are quite 
+large and very luxurious, with paintings, tapestries and many artifacts
+scattered all about the room.  There are no windows to be seen, mainly 
+because this part of the citadel is buried deep under the mountain.
+~
+42 8 0 1 99 1
+D0
+More of the Viscount's liveing quaters lie that way.
+~
+~
+0 -1 4243
+E
+paintings tapestries~
+Most of the paintings are of the Viscount Berin himself...It looks as if he
+cant help but admire his own ravishing features.
+~
+E
+artifacts~
+The artifacts are of nothing important, and no great value, mostly just 
+junk the viscount likes to leave laying around to fill up space.
+~
+S
+#4245
+Living Quaters of Viscount Berin~
+You stand in the living quaters of Viscount Berin,theese quaters are quite 
+large and very luxurious, with paintings, tapestries and many artifacts
+scattered all about the room.  There are no windows to be seen, mainly 
+because this part of the citadel is buried deep under the mountain.
+~
+42 8 0 1 99 1
+D1
+More of the Viscount's liveing quaters lie that way.
+~
+~
+0 -1 4243
+S
+#4246
+Living Quaters of Viscount Berin~
+You stand in the living quaters of Viscount Berin,theese quaters are quite 
+large and very luxurious, with paintings, tapestries and many artifacts
+scattered all about the room.  There are no windows to be seen, mainly 
+because this part of the citadel is buried deep under the mountain.
+~
+42 8 0 1 99 1
+D3
+More of the Viscount's liveing quaters lie that way.
+~
+~
+0 -1 4243
+S
+#4247
+Top of the Stone Stairs~
+You stand in an alcove set into the south wall of hallway, a set of stone
+stairs lead down from here to a short hallway.  The disant sounds of battle
+ring out from what you guess is the courtyard.
+~
+42 12 0 1 99 1
+D0
+A large hallway lies to the north.
+~
+~
+0 -1 4248
+D5
+The stairs lead back to a small hallway leading to the courtyard.
+~
+~
+0 -1 4212
+S
+#4248
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D0
+The large hallway continues to the north
+~
+~
+0 -1 4249
+D2
+A large alcove is set into the southern wall that holds a set of stone 
+stairsl leading down
+~
+~
+0 -1 4247
+D3
+The large hallway continues to the west
+~
+~
+0 -1 4257
+S
+#4249
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D0
+The large hallway continues to the north
+~
+~
+0 -1 4251
+D1
+The door leads to the chambers of the battle master Igour
+~
+door~
+9 -1 4250
+D2
+The large hallway turns to the west, with an alcove set into the south wall
+~
+~
+0 -1 4248
+S
+#4250
+Chambers of Igour, Minotaur Battle Master~
+The chambers of Igour seem pretty untidy, as the big minotaur battle master
+can be a bit clumsy when it comes to moving around in confined spaces, A
+window in the east wall displays a magnificant view of the lands to the 
+east.
+~
+42 12 0 1 99 1
+D3
+The doorway leads back to the hallway
+~
+door~
+9 -1 4249
+S
+#4251
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D0
+The large hallway turns to the east
+~
+~
+0 -1 4252
+D2
+The large hallway continues to the south
+~
+~
+0 -1 4249
+S
+#4252
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D1
+The large hallway continues to the east
+~
+~
+0 -1 4253
+D2
+The large hallway continues to the south
+~
+~
+0 -1 4251
+S
+#4253
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D0
+A chamber
+~
+door~
+9 0 4254
+D1
+The large hallway opens up to the south
+~
+~
+0 -1 4255
+D3
+The large hallway turns to the south
+~
+~
+0 -1 4252
+S
+#4254
+Chambers of Nark, Minotaur Veteran~
+These chambers are home to Nark, the ageing minotaur veteran.  The room
+is pretty bare, with only a couple pieces of furniture scattered around the 
+place, including a small table with a collection of dirty plates and
+bowls.
+~
+42 12 0 1 99 1
+D2
+The doorway leads back to the large hallway
+~
+door~
+9 -1 4253
+S
+#4255
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D2
+The hallway opens up to the south, into some kind of promative mages
+laboratory
+~
+~
+0 -1 4256
+D3
+The large hallway leads off the the west
+~
+~
+0 -1 4253
+S
+#4256
+Laboratory of Quarth, the Minotaur Mage~
+You enter some kind of minotaur mage's laboratory.  The smell of burning
+sulphur is present in the damp air, omited from an experiment currently
+being preformed.  The laboratory is equiped with all kinds of strange
+magical equipment, and wierd components, all used in brewing potions or
+creating strange magical items.
+~
+42 12 0 1 99 1
+D0
+A large hallway leads off to the west
+~
+~
+0 -1 4255
+S
+#4257
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D1
+The large hallway turns to the north
+~
+~
+0 -1 4248
+D3
+The large hallway continues to the west
+~
+~
+0 -1 4258
+S
+#4258
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D0
+The door to the north is of Lamarth, speaker of the minotaurs
+~
+door~
+9 -1 4259
+D1
+The large hallway continues to the east
+~
+~
+0 -1 4257
+D3
+The large hallway continues to the west with an opening in the south wall
+~
+~
+0 -1 4260
+S
+#4259
+Room of Lamarth, Speaker of the Minotaurs~
+This room is unlike any other room in this part of the citadel, the reason 
+that this one is different, is because Lamarth is the only chaos warrior
+permitted to live in the southern half of the citadel, among the minotaurs.
+The room holds a book case on the eastern wall, full of books relating to
+diplomatic affairs in the lands of Crimson.
+~
+42 12 0 1 99 1
+D2
+Through the doorway lies a large hallway
+~
+door~
+9 -1 4258
+S
+#4260
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D1
+The larege hallway continues to the east
+~
+~
+0 -1 4258
+D2
+A large archway marks the enterance to the halls of Raak to the south
+~
+~
+0 -1 4261
+D3
+The large hallway continues to the west
+~
+~
+0 -1 4269
+S
+#4261
+Under the Archway~
+You stand beneath an elaborate archway that divides the large hallway to the
+north, from the halls of Raak, Minotaur Highlord, to the south.  The archway
+has been carved out of the natural rock underneath the firey mountain, and
+looks extreemly solid and well constructed.
+~
+42 8 0 1 99 1
+D0
+A large hallway runs east-west to the north
+~
+~
+0 -1 4260
+D2
+The Halls of Raak lie to the south
+~
+~
+0 -1 4262
+S
+#4262
+Halls of Raak~
+These halls glow with a strange red colour the grows out of the blood red 
+carpet, and is matched by the deep red granite pillars that stand vertical
+in two rows, down the length of the halls.  The halls are home to Raak, the
+minotaur highlord, who has lead his minotaur army into battle many many 
+times.
+~
+42 8 0 1 99 1
+D0
+An archway leads on to a large hallway beyond
+~
+~
+0 -1 4261
+D1
+The halls of Raak continue in that direction
+~
+~
+0 -1 4266
+D2
+The halls of Raak continue in that direction
+~
+~
+0 -1 4263
+D3
+The halls of Raak continue in that direction
+~
+~
+0 -1 4264
+S
+#4263
+Halls of Raak~
+These halls glow with a strange red colour the grows out of the blood red 
+carpet, and is matched by the deep red granite pillars that stand vertical
+in two rows, down the length of the halls.  The halls are home to Raak, the
+minotaur highlord, who has lead his minotaur army into battle many many 
+times.
+~
+42 8 0 1 99 1
+D0
+The halls of Raak continue in that direction
+
+~
+~
+0 -1 4262
+D1
+The halls of Raak continue in that direction
+~
+~
+0 -1 4267
+D2
+The halls of Raak continue in that direction
+~
+~
+0 -1 4268
+D3
+The halls of Raak continue in that direction
+~
+~
+0 -1 4265
+S
+#4264
+Halls of Raak~
+These halls glow with a strange red colour the grows out of the blood red 
+carpet, and is matched by the deep red granite pillars that stand vertical
+in two rows, down the length of the halls.  The halls are home to Raak, the
+minotaur highlord, who has lead his minotaur army into battle many many 
+times.
+~
+42 8 0 1 99 1
+D1
+The halls of Raak continue in that direction
+
+~
+~
+0 -1 4262
+D2
+The halls of Raak continue in that direction
+~
+~
+0 -1 4265
+S
+#4265
+Halls of Raak~
+These halls glow with a strange red colour the grows out of the blood red 
+carpet, and is matched by the deep red granite pillars that stand vertical
+in two rows, down the length of the halls.  The halls are home to Raak, the
+minotaur highlord, who has lead his minotaur army into battle many many 
+times.
+~
+42 8 0 1 99 1
+D0
+The halls of Raak continue in that direction
+~
+~
+0 -1 4264
+D1
+The halls of Raak continue in that direction
+~
+~
+0 -1 4263
+S
+#4266
+Halls of Raak~
+These halls glow with a strange red colour the grows out of the blood red 
+carpet, and is matched by the deep red granite pillars that stand vertical
+in two rows, down the length of the halls.  The halls are home to Raak, the
+minotaur highlord, who has lead his minotaur army into battle many many 
+times.
+~
+42 8 0 1 99 1
+D2
+The halls of Raak continue in that direction
+~
+~
+0 -1 4267
+D3
+The halls of Raak continue in that direction
+~
+~
+0 -1 4262
+S
+#4267
+Halls of Raak~
+These halls glow with a strange red colour the grows out of the blood red 
+carpet, and is matched by the deep red granite pillars that stand vertical
+in two rows, down the length of the halls.  The halls are home to Raak, the
+minotaur highlord, who has lead his minotaur army into battle many many 
+times.
+~
+42 8 0 1 99 1
+D0
+The halls of Raak continue in that direction
+~
+~
+0 -1 4266
+D3
+The halls of Raak continue in that direction
+
+~
+~
+0 -1 4263
+S
+#4268
+Halls of Raak~
+These halls glow with a strange red colour the grows out of the blood red 
+carpet, and is matched by the deep red granite pillars that stand vertical
+in two rows, down the length of the halls.  The halls are home to Raak, the
+minotaur highlord, who has lead his minotaur army into battle many many 
+times.
+~
+42 8 0 1 99 1
+D0
+The halls of Raak continue in that direction
+~
+~
+0 -1 4263
+S
+#4269
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D1
+The large hallway continues to the east, with an opening in the south wall
+~
+~
+0 -1 4260
+D3
+The large hallway turns to the north
+~
+~
+0 -1 4270
+S
+#4270
+Large Hallway in the Citadel~
+This hallway is much the same as the hallways in other parts of the citadel,
+only this hallway is much larger.  The hallway has been made larger then 
+normal to accomodate for the larger then normal size of the average 
+minotaur.  Not many chaos warriors are seen in this half of the citadel, as
+they are often looked down upon by the much larger minotaur race.
+~
+42 8 0 1 99 1
+D0
+The hallway ends before a set of stone stairs
+~
+~
+0 -1 4271
+D1
+The large hallway continues to the east
+~
+~
+0 -1 4269
+S
+#4271
+End of the Large Hallway~
+Here the large hallway comes to an end before a set of stone stairs leading
+up into the third level of the citadel.  The stairs look solid and are
+carved from the natural rock found inside the mountain.
+~
+42 12 0 1 99 1
+D2
+The hallway turns to the east
+~
+~
+0 -1 4270
+D4
+The stone stairs lead up to the top level of the Citadel.
+~
+~
+0 -1 4272
+S
+#4272
+Wide Corridor in the Citadel~
+This fairly wide corridor in the citadel is used only by the highest ranking
+minotaurs warriors.  The walls are made from solid stone polished off to an 
+extreemly smooth texture.  Thick carpet lies on the floor and is lit up by
+the odd torch set into the wall.
+~
+42 8 0 1 99 1
+D1
+The wide corridor continues to the east
+~
+~
+0 -1 4273
+D3
+The wide corridor continues to the west
+~
+~
+0 -1 4282
+D5
+A set of stone stairs lead down to the hallway bellow.
+~
+~
+0 -1 4271
+S
+#4273
+Wide Corridor in the Citadel~
+This fairly wide corridor in the citadel is used only by the highest ranking
+minotaurs warriors.  The walls are made from solid stone polished off to an 
+extreemly smooth texture.  Thick carpet lies on the floor and is lit up by
+the odd torch set into the wall.
+~
+42 8 0 1 99 1
+D1
+The wide corridoor comes to a junction
+~
+~
+0 -1 4274
+D3
+The wide corridor continues to the west
+~
+~
+0 -1 4272
+S
+#4274
+Junction in the Wide Corridor~
+This fairly wide corridor in the citadel is used only by the highest ranking
+minotaurs warriors.  The walls are made from solid stone polished off to an 
+extreemly smooth texture.  Thick carpet lies on the floor and is lit up by
+the odd torch set into the wall.
+~
+42 8 0 1 99 1
+D0
+The wide corridoor continues to the north
+~
+~
+0 -1 4275
+D1
+The chambers of Henark, the Minotaur Overlord lie beyond the door to the east
+~
+door~
+9 4181 4281
+D2
+The wide corridor continues to the south
+~
+~
+0 -1 4278
+D3
+A wide corridor leads off to the west
+~
+~
+0 -1 4273
+S
+#4275
+Wide Corridor in the Citadel~
+This fairly wide corridor in the citadel is used only by the highest ranking
+minotaurs warriors.  The walls are made from solid stone polished off to an 
+extreemly smooth texture.  Thick carpet lies on the floor and is lit up by
+the odd torch set into the wall.
+~
+42 8 0 1 99 1
+D0
+The wide corridor ends
+~
+~
+0 -1 4276
+D2
+The wide corridor continues to the south
+~
+~
+0 -1 4274
+S
+#4276
+End of the Wide Corridor~
+This fairly wide corridor in the citadel is used only by the highest ranking
+minotaurs warriors.  The walls are made from solid stone polished off to an 
+extreemly smooth texture.  Thick carpet lies on the floor and is lit up by
+the odd torch set into the wall.
+~
+42 8 0 1 99 1
+D1
+The chamber of Gonark lies through the doorway to the east
+~
+door~
+9 -1 4277
+D2
+The wide corridor leads off to the south
+~
+~
+0 -1 4275
+S
+#4277
+Chamber of Gonark~
+The chamber of Gonark holds some very valuable antique items and artifacts,
+collected from all over the world of Crimson.  Gonark has his own private
+desk sitting in one corner of the chamber, where he keeps all his notes
+about millitary, and personal matters.  The room glows with the faint 
+redness as seen in some other parts of the citadel, and is highlighted by
+red glass covering torches onthe walls.
+~
+42 12 0 1 99 1
+D3
+The wide corridor leads off to the south
+~
+door~
+9 -1 4276
+S
+#4278
+Wide Corridor in the Citadel~
+This fairly wide corridor in the citadel is used only by the highest ranking
+minotaurs warriors.  The walls are made from solid stone polished off to an 
+extreemly smooth texture.  Thick carpet lies on the floor and is lit up by
+the odd torch set into the wall.
+~
+42 8 0 1 99 1
+D0
+The wide corridor comes to a junction to the north
+~
+~
+0 -1 4274
+D2
+The wide corridor ends to the south
+~
+~
+0 -1 4279
+S
+#4279
+End of the Wide Corridor~
+This fairly wide corridor in the citadel is used only by the highest ranking
+minotaurs warriors.  The walls are made from solid stone polished off to an 
+extreemly smooth texture.  Thick carpet lies on the floor and is lit up by
+the odd torch set into the wall.
+~
+42 8 0 1 99 1
+D0
+The wide corridor leads off to the north
+~
+~
+0 -1 4278
+D1
+The chamber of Jorn lies through the doorway to the east
+~
+door~
+9 -1 4280
+S
+#4280
+Chamber of Jorn~
+The chamber of Jorn is a large room with a large window in the eastern and
+southern walls.  Through the window you can see much of the surrounding
+lands, from as far north as Midgaard, to the Kingdom of Thalos to the south.
+The chamber itself has been decorated with the finest minotaur decorations
+hanging from the walls, or sitting on tables in the chamber.
+~
+42 12 0 1 99 1
+D3
+The wide corridor leads off to the north
+~
+door~
+9 -1 4279
+S
+#4281
+Chambers of Henark, Minotaur Overlord~
+The chambers of the Overlord have proably the highest ceiling in the citadel.
+As this part of the Citadel is exposed to the air, and not underground, the
+whole western wall is one dark window.  The room is lit with a number of
+torches that appear to be burning with some flame of magic, as they dont
+shed any heat. A hunting red glow hangs around the room, a product of
+some unknown sorce.
+~
+42 12 0 1 99 1
+D3
+A jucntion in the corridor lies beyond the door to the west
+~
+door~
+9 -1 4274
+S
+#4282
+Wide Corridor in the Citadel~
+This fairly wide corridor in the citadel is used only by the highest ranking
+minotaurs warriors.  The walls are made from solid stone polished off to an 
+extreemly smooth texture.  Thick carpet lies on the floor and is lit up by
+the odd torch set into the wall.
+~
+42 8 0 1 99 1
+D1
+The wide corridor continues to the east
+~
+~
+0 -1 4272
+D3
+The corridor opens up into a very large room
+
+~
+~
+0 -1 4283
+S
+#4283
+Minotaur Hall~
+You stand in a corner of a rather large room where you guess is where most
+meatings amongst the higher level minotaurs is carried out.  The floor is
+solid cold stone, and a few old tables stand around the room, all souronded
+by large benches used to seat up to 15 minotaurs.
+~
+42 8 0 1 99 1
+D0
+The minotaur hall is empty
+~
+~
+0 -1 4284
+D1
+A wide hllway leads off to the east
+~
+~
+0 -1 4282
+D3
+The minotaur hall is empty
+~
+~
+0 -1 4286
+S
+#4284
+Minotaur Hall~
+You stand in a corner of a rather large room where you guess is where most
+meatings amongst the higher level minotaurs is carried out.  The floor is
+solid cold stone, and a few old tables stand around the room, all souronded
+by large benches used to seat up to 15 minotaurs.
+~
+42 8 0 1 99 1
+D2
+The minotaur hall is empty
+~
+~
+0 -1 4283
+D3
+The minotaur hall is empty
+~
+~
+0 -1 4285
+S
+#4285
+Minotaur Hall~
+You stand in a corner of a rather large room where you guess is where most
+meatings amongst the higher level minotaurs is carried out.  The floor is
+solid cold stone, and a few old tables stand around the room, all souronded
+by large benches used to seat up to 15 minotaurs.
+~
+42 8 0 1 99 1
+D1
+The minotaur hall is empty
+~
+~
+0 -1 4284
+D2
+The minotaur hall is empty
+~
+~
+0 -1 4286
+S
+#4286
+Minotaur Hall~
+You stand in a corner of a rather large room where you guess is where most
+meatings amongst the higher level minotaurs is carried out.  The floor is
+solid cold stone, and a few old tables stand around the room, all souronded
+by large benches used to seat up to 15 minotaurs.
+~
+42 8 0 1 99 1
+D0
+The minotaur hall is empty
+~
+~
+0 -1 4285
+D1
+The minotaur hall is empty
+~
+~
+0 -1 4283
+D2
+A very dark corridor leads off to the south
+~
+~
+0 -1 4287
+S
+#4287
+Dark and Gloomy Corridor~
+This corridor is extreemly dark, you can just make out the floor beneath you, 
+it is rocky and covered with a thin layer of dirt.  From the feel of the walls
+you guess that they are very jagged and unfinished, This part of the citadel
+isnt used very much.  You try to keep from triping over the occasional pile
+of rubble laying on the ground, where a part of the wall or roof has colapsed,
+but the corridor is very old, and there is no fear of the whole thing collapsing.
+~
+42 9 0 1 99 1
+D0
+The corridor opens up into a large, well lit room
+~
+~
+0 -1 4286
+D2
+The corridor trails off into the darkness
+~
+~
+0 -1 4288
+S
+#4288
+Dark and Gloomy Corridor~
+This corridor is extreemly dark, you can just make out the floor beneath you, 
+it is rocky and covered with a thin layer of dirt.  From the feel of the walls
+you guess that they are very jagged and unfinished, This part of the citadel
+isnt used very much.  You try to keep from triping over the occasional pile
+of rubble laying on the ground, where a part of the wall or roof has colapsed,
+but the corridor is very old, and there is no fear of the whole thing collapsing.
+~
+42 9 0 1 99 1
+D0
+There is a bit of light coming from the north
+~
+~
+0 -1 4287
+D1
+The corridor trails off into the darkness
+~
+~
+0 -1 4289
+S
+#4289
+Dark and Gloomy Corridor~
+This corridor is extreemly dark, you can just make out the floor beneath you, 
+it is rocky and covered with a thin layer of dirt.  From the feel of the walls
+you guess that they are very jagged and unfinished, This part of the citadel
+isnt used very much.  You try to keep from triping over the occasional pile
+of rubble laying on the ground, where a part of the wall or roof has colapsed,
+but the corridor is very old, and there is no fear of the whole thing collapsing.
+~
+42 9 0 1 99 1
+D1
+The corridor trails off into the darkness
+~
+~
+0 -1 4290
+D3
+The corridor trails off into the darkness
+~
+~
+0 -1 4288
+S
+#4290
+Dark and Gloomy Corridor~
+This corridor is extreemly dark, you can just make out the floor beneath you, 
+it is rocky and covered with a thin layer of dirt.  From the feel of the walls
+you guess that they are very jagged and unfinished, This part of the citadel
+isnt used very much.  You try to keep from triping over the occasional pile
+of rubble laying on the ground, where a part of the wall or roof has colapsed,
+but the corridor is very old, and there is no fear of the whole thing collapsing.
+~
+42 9 0 1 99 1
+D1
+The corridor trails off into the darkness
+~
+~
+0 -1 4291
+D3
+The corridor trails off into the darkness
+~
+~
+0 -1 4289
+S
+#4291
+End of the Dark and Gloomy Corridor~
+This corridor is extreemly dark, you can just make out the floor beneath you, 
+it is rocky and covered with a thin layer of dirt.  From the feel of the walls
+you guess that they are very jagged and unfinished, This part of the citadel
+isnt used very much.  You try to keep from triping over the occasional pile
+of rubble laying on the ground, where a part of the wall or roof has colapsed,
+but the corridor is very old, and there is no fear of the whole thing collapsing.
+~
+42 9 0 1 99 1
+D0
+Through the door is some kind of cave carved into the rockface
+~
+door~
+9 -1 4292
+D1
+The doorway leads through to a large cave
+~
+door~
+9 -1 4294
+D2
+Through the doorway lies a very dark cave
+~
+door~
+9 -1 4293
+D3
+The corridor trails off into the darkness
+~
+~
+0 -1 4290
+S
+#4292
+Lair of Sinth, Minotaur Savage~
+You stand amongst a discusting minotaur lair filled with ornaments from the
+battle field, all decaying or rusting on the floor.  This lair has been carved
+out of the rock under the mountain, and is a basicly round shape, with the 
+roof sloping to about five foot high at the northern part of the room.
+~
+42 13 0 1 99 1
+D2
+The dark corridor lies through the doorway to theo south
+~
+door~
+9 -1 4291
+S
+#4293
+Lair of Tiron, Minotaur Savage~
+An old cave carved into the middle of the mountain has provided a great lair
+for a very savage minotaur.  The roof of this cave is about nine foot above
+the ceiling but it slopes downwards into a wall at the far end.  Rusty armor
+and decaying bones clutter up most of the floor space in this cave.
+~
+42 13 0 1 99 1
+D0
+Through the doorway lies a dark corrdior
+~
+door~
+9 -1 4291
+S
+#4294
+Lair of Fasht, Minotaur Savage~
+This lair is half cave, and half built up out of the surface of mountain.
+The once was a window in the southen wall that looked down the mountain side,
+but that has been boarded up to keep the place dark clod and gloomy.
+~
+42 13 0 1 99 1
+D3
+A dark corridor leads off to the west
+~
+door~
+9 -1 4291
+S
+#4295
+Pathway to Chaos.~
+You are walking along a wide pathway that winds its way through the foothills of
+a large volcanic mountain to the west.  You can just make out a large citadel
+in this mountain, beneath the heat and smoke of the massive active volcano.
+A broken down wagon lies overturned off to one side of the track, covering what 
+appears to be a large gate....
+~
+42 0 0 1 99 5
+D0
+A decayed keep can be seen through the gate.
+~
+gate keep~
+17 0 1201
+D1
+The pathway leads to the south road, and the beginnings of the Grey Mountains.
+~
+~
+0 -1 4201
+D3
+The pathway continues to wind through the foothills of the firey mountain.
+~
+~
+0 -1 4296
+E
+wagon~
+It looks like the wagon carried some kind of grain at one time.  The 
+remaining cargo that hasn't been looted, has long ago perished in the heat.
+~
+S
+#4296
+Pathway to Chaos.~
+You are walking along a wide pathway that winds its way through the foothills of
+a large volcanic mountain to the west.  You can just make out a large citadel
+in this mountain, beneath the heat and smoke of the massive active volcano.
+~
+42 0 0 1 99 5
+D1
+The pathway winds through the foothills between the firey mountain to the west, and the Grey
+Mountains to the south east.
+~
+~
+0 -1 4295
+D3
+The pathway continues its climb through the foothills to the west.
+~
+~
+0 -1 4297
+S
+#4297
+Pathway to Chaos.~
+You are walking along a wide pathway that winds its way through the foothills of
+a large volcanic mountain to the west.  You can just make out a large citadel
+in this mountain, beneath the heat and smoke of the massive active volcano.
+~
+42 0 0 1 99 5
+D1
+The pathway continues through the foothills to the far off South Road.
+~
+~
+0 -1 4296
+D3
+The firey mountain isnt that far away now, The Citadel of Chaos is visible in the side of the mountain.
+~
+~
+0 -1 4202
+S
+$~
+#999999

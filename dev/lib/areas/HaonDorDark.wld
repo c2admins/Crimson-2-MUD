@@ -1,0 +1,1652 @@
+#6100
+A narrow trail through the deep, dark forest~
+You are on a narrow trail winding its way between the enormous, grey trunks.
+The crowns of the trees must be very dense, as they leave the forest floor in
+utter darkness.  The trail leads east and west.
+~
+63 9 0 1 99 3
+D1
+The narrow trail leads east to a somewhat lighter part of the forest.
+~
+~
+0 -1 6004
+D3
+The narrow, dusty trail leads west through the forest.
+~
+~
+0 -1 6101
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6101
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way east-west between huge, ancient trees
+whose grey trunks remind you of ancient pillars in a enormous, deserted hall.
+To the south, a frail path leads away from the trail.
+~
+63 9 0 1 99 3
+D1
+The narrow, dusty trail leads east through the forest.
+~
+~
+0 -1 6100
+D2
+The path leads south - away from the trail.
+~
+~
+0 -1 6104
+D3
+The narrow, dusty trail leads west through the forest.
+~
+~
+0 -1 6102
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+path~
+The path seems fragile and unsafe compared to the enourmous trunks that loom
+around it.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6102
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way east-west between huge, ancient trees
+that stand close on all sides.  Not a sound is to be heard - everything is
+ominously quiet.
+~
+63 9 0 1 99 3
+D1
+The narrow, dusty trail leads east through the forest.
+~
+~
+0 -1 6101
+D3
+The narrow, dusty trail leads west through the forest.
+~
+~
+0 -1 6103
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+path~
+The path seems fragile and unsafe compared to the enourmous trunks that loom
+around it.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6103
+A narrow trail through the deep, dark forest~
+You are where the dusty trail bends, as to avoid conflict with a colossal
+trunk to the west.  Not a sound is to be heard - everything is ominously quiet.
+The trail leads east and south.
+~
+63 9 0 1 99 3
+D0
+To the North you view a mysterious trail.
+~
+~
+0 -1 7750
+D1
+The narrow, dusty trail leads east through the forest.
+~
+~
+0 -1 6102
+D2
+The narrow, dusty trail leads south through the forest.
+~
+~
+0 -1 6108
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+trees trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6104
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  You feel as if
+the ancient trees observe you in watchful silence.  The path continues north
+and south.
+~
+63 9 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6101
+D2
+The narrow path winds its way through the trees to the south.
+~
+~
+0 -1 6105
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6105
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Ancient grey
+trees loom all around you.  The path continues north and west.
+~
+63 9 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6104
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6106
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6106
+A junction in the deep, dark forest~
+You are by a junction where three paths meet.  Ancient grey trees tower above
+you on all sides.  Paths lead east, south and west.
+~
+63 9 0 1 99 3
+D1
+The narrow path winds its way through the trees to the east.
+~
+~
+0 -1 6105
+D2
+The narrow path winds its way through the trees to the south.
+~
+~
+0 -1 6117
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6107
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path paths~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6107
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Ancient grey
+trees loom all around you.  The path continues north and east.
+~
+63 9 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6108
+D1
+The narrow path winds its way through the trees to the east.
+~
+~
+0 -1 6106
+D3
+it appears you can walk through these thick trees
+~
+~
+16 -1 6025
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6108
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way between huge, ancient trees
+standing close on all sides.  The trail leads north and west and to the south,
+a frail path leads away from the trail.
+~
+63 9 0 1 99 3
+D0
+The narrow, dusty trail leads north through the forest.
+~
+~
+0 -1 6103
+D2
+The path leads south - away from the trail.
+~
+~
+0 -1 6107
+D3
+The narrow, dusty trail leads west through the forest.
+~
+~
+0 -1 6109
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+path~
+The path seems fragile and unsafe compared to the enourmous trunks that loom
+around it.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6109
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way east-west between huge, ancient trees
+that stand close on all sides.  Not a sound is to be heard - everything is
+ominously quiet.
+~
+63 9 0 1 99 3
+D1
+The narrow, dusty trail leads east through the forest.
+~
+~
+0 -1 6108
+D3
+The narrow, dusty trail leads west through the forest.
+~
+~
+0 -1 6110
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6110
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way between huge, ancient trees that stand
+close on all sides.  The trail leads east and south.  To the west, a narrow
+path leads away from the trail.
+~
+63 9 0 1 99 3
+D1
+The narrow, dusty trail leads east through the forest.
+~
+~
+0 -1 6109
+D2
+The narrow, dusty trail leads south through the forest.
+~
+~
+0 -1 6111
+D3
+The narrow path leads west between the giant trees.
+~
+~
+0 -1 6130
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+path~
+The path seems fragile and unsafe compared to the enourmous trunks that loom
+around it.
+~
+E
+tree trees trunk trunks~
+Some of the trunks to the west are covered in a thin, almost transparent
+substance.  It looks like small threads woven carefully together.
+~
+S
+#6111
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way north-south between huge, ancient
+trees that loom ominously above you.
+~
+63 9 0 1 99 3
+D0
+The narrow, dusty trail leads north through the forest.
+~
+~
+0 -1 6110
+D2
+The narrow, dusty trail leads south through the forest.
+~
+~
+0 -1 6112
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6112
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way between huge, ancient trees
+standing close on all sides.  The trail leads north and west and to the east,
+a frail path leads away from the trail.
+~
+63 9 0 1 99 3
+D0
+The narrow, dusty trail leads north through the forest.
+~
+~
+0 -1 6111
+D1
+The path leads east - away from the trail.
+~
+~
+0 -1 6113
+D3
+The narrow, dusty trail leads west through the forest.
+~
+~
+0 -1 6127
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+path~
+The path seems fragile and unsafe compared to the enourmous trunks that loom
+around it.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6113
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Ancient grey
+trees loom in all directions.  The path continues south and west.
+~
+63 9 0 1 99 3
+D2
+The narrow path winds its way through the trees to the south.
+~
+~
+0 -1 6114
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6112
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6114
+A junction in the deep, dark forest~
+You are by a junction where three paths meet.  Ancient grey trees tower above
+you on all sides.  Paths lead north, east and west.
+~
+63 9 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6113
+D1
+The narrow path winds its way through the trees to the east.
+~
+~
+0 -1 6115
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6122
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path paths~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6115
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  You feel as
+if the ancient trees observe you in watchful silence.  The path continues north
+and west.
+~
+63 9 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6116
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6114
+D5
+The Hunting Grounds
+~
+~
+0 -1 20623
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6116
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Giant, grey
+trees loom ominously on all sides.  The path continues east and south.
+~
+63 9 0 1 99 3
+D1
+The narrow path winds its way through the trees to the east.
+~
+~
+0 -1 6117
+D2
+The narrow path winds its way through the trees to the south.
+~
+~
+0 -1 6115
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6117
+A junction in the deep, dark forest~
+You are at a meeting of three paths. Ancient, grey trees seem to observe you
+silently from all sides.  Paths lead north, east and west.
+~
+63 13 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6106
+D1
+The narrow path winds its way through the trees to the east.
+~
+~
+0 -1 6118
+D2
+You can see a passageway through the trees leading deeper into the forest.
+~
+~
+0 -1 14101
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6116
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path paths~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6118
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Ancient,
+grey trees loom everywhere.  The path continues south and west.
+~
+63 9 0 1 99 3
+D2
+The narrow path winds its way through the trees to the south.
+~
+~
+0 -1 6119
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6117
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6119
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Huge, ancient
+trees are on all sides.  The path continues north and south.
+~
+63 9 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6118
+D2
+The narrow path winds its way through the trees to the south.
+~
+~
+0 -1 6120
+E
+tree trees trunk trunks~
+You feel as if they are watching you.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6120
+On the river bank in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  To the south a
+fast river is flowing westwards through the forest.  Ancient grey trees loom on
+both banks.  The path continues north and west.
+~
+63 9 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6119
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6121
+E
+river~
+The river flows fast and strong.  It is black or looks so in the gloom.
+~
+E
+bank banks tree trees trunk trunks~
+The ancient crowns of trees on both banks reach together forming a dense roof
+above the dark river.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6121
+A dead end path on the river bank in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  The ancient
+trees stand so close that the path disappears between the dusty roots.  To the
+south a dark river flows from east to west.  The only exit appears to be east.
+~
+63 9 0 1 99 3
+D1
+The narrow path winds its way through the trees to the east.
+~
+~
+0 -1 6120
+E
+river~
+The river flows fast and strong.  It is black or looks so in the gloom.
+~
+E
+bank banks tree trees trunk trunks~
+The ancient crowns of trees on both banks reach together forming a dense roof
+above the dark river.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6122
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Giant, grey
+trees loom ominously all around.  The path continues east and south.
+~
+63 9 0 1 99 3
+D1
+The narrow path winds its way through the trees to the east.
+~
+~
+0 -1 6114
+D2
+The narrow path winds its way through the trees to the south.
+~
+~
+0 -1 6123
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6123
+A junction on the river bank in the deep, dark forest~
+You are by a junction where three paths meet.  Ancient, grey trees seem to
+observe you silently you from all around.  To the south a dark river flows from
+east to west through the forest.  Paths lead north, east and west.
+~
+63 9 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6122
+D1
+The narrow path winds its way through the trees to the east.
+~
+~
+0 -1 6124
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6125
+E
+river~
+The river flows fast and strong.  It is black or looks so in the gloom.
+~
+E
+bank banks tree trees trunk trunks~
+The ancient crowns of trees on both banks reach together forming a dense roof
+above the dark river.
+~
+E
+path paths~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6124
+A dead end path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  The ancient
+trees stand so close that the path disappears between the dusty roots.  To the
+south a dark river flows from east to west.  The only exit appears to be west.
+~
+63 9 0 1 99 3
+D1
+The entrance to the grig forest.
+~
+~
+0 -1 4601
+D3
+The narrow path winds its way through the trees to the west.
+~
+~
+0 -1 6123
+E
+river~
+The river flows fast and strong.  It is black or looks so in the gloom.
+~
+E
+bank banks tree trees trunk trunks~
+The ancient crowns of trees on both banks reach together forming a dense roof
+above the dark river.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6125
+A small path on the river bank in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Ancient grey
+trees loom everywhere.  To the south a dark river flows westwards through the
+forest.  The path continues north and east.
+~
+63 9 0 1 99 3
+D0
+The narrow path winds its way through the trees to the north.
+~
+~
+0 -1 6126
+D1
+The narrow path winds its way through the trees to the east.
+~
+~
+0 -1 6123
+D3
+The forest seems even more ancient this way...~
+~
+0 -1 14003
+E
+river~
+The river flows fast and strong.  It is black or looks so in the gloom.
+~
+E
+bank banks tree trees trunk trunks~
+The ancient crowns of trees on both banks reach together forming a dense roof
+above the dark river.
+~
+E
+path~
+The path seems all too frail.  One of the giant roots could probably crush it
+in a single blow.
+~
+S
+#6126
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way between huge, ancient trees standing
+close on all sides.  The trail leads north and west, and to the south a frail
+path leads away from the trail.
+~
+63 9 0 1 99 3
+D0
+The narrow, dusty trail leads north through the forest.
+~
+~
+0 -1 6127
+D2
+The path leads south - away from the trail.
+~
+~
+0 -1 6125
+D3
+The narrow, dusty trail leads west through the forest.
+~
+~
+0 -1 6128
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+path~
+The path seems fragile and unsafe compared to the enourmous trunks that loom
+around it.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6127
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way between huge, ancient trees
+standing close on all sides.  The trail leads east and south.
+~
+63 9 0 1 99 3
+D1
+The narrow, dusty trail leads east through the forest.
+~
+~
+0 -1 6112
+D2
+The narrow, dusty trail leads south through the forest.
+~
+~
+0 -1 6126
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6128
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way east-west between huge, ancient trees
+that stand close on all sides.  Not a sound is to be heard - everything is
+ominously quiet.
+~
+63 9 0 1 99 3
+D1
+The narrow, dusty trail leads east through the forest.
+~
+~
+0 -1 6126
+D3
+The narrow, dusty trail leads west through the forest.
+~
+~
+0 -1 6129
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6129
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way east-west between huge, ancient trees
+that stand close on all sides.  Not a sound is to be heard - everything is
+ominously quiet.
+~
+63 9 0 1 99 3
+D1
+The narrow, dusty trail leads east through the forest.
+~
+~
+0 -1 6128
+D3
+The narrow, dusty trail leads west through the forest.
+~
+~
+0 -1 6135
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+tree trees trunk trunks~
+These ancient trees must have been here for many, many years.  It is impossible
+to catch even a glimpse of anything above the lowest branches.
+~
+S
+#6130
+A narrow trail through the deep, dark forest~
+You are on a dusty trail winding its way westwards between huge, ancient trees
+that stand close on all sides.  The tree trunks seem to be covered in some
+sticky substance.
+~
+63 9 0 1 99 3
+D1
+The narrow, dusty trail leads east through the forest.
+~
+~
+0 -1 6110
+D3
+The sticky substance is hanging like ropes between the trees just above the
+path.  To the west the path seems to be covered with these giant threads
+covered with glue.
+~
+~
+32 -1 6131
+D4
+~
+~
+0 -1 6132
+E
+substance rope ropes thread threads~
+The substance reminds you of giant threads covered with glue.  If it hadn't
+been for the size you could have sworn it was part of a spider web.
+~
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+E
+tree trees trunk trunks~
+The sticky substance is hanging like ropes between the ancient trees, crossing
+the path just out of reach.  It might be possible to climb one of the sticky
+trunks.
+~
+S
+#6131
+The spider web~
+As you walk along you suddenly find yourself trapped in a sticky web.  Looking
+around you straing to try to spot the spider that has constructed it, but all
+that seems to do is to vibrate the web even more!
+~
+63 13 0 1 99 3
+S
+#6132
+Up in the tree~
+You are hanging on the outside of a huge tree trunk covered in a sticky
+substance.  Directly to the west is an immense spider web suspended between
+numerous of the giant trees including the one you are hanging on.
+~
+63 13 0 1 99 6
+D3
+To the west is the immense spider web.  It seems to move softly.
+~
+~
+0 -1 6133
+D5
+Downwards is the narrow forest path.
+~
+~
+0 -1 6130
+E
+web~
+The spider web stretches out to the west.  It looks as if it is possible to
+walk on it.
+~
+S
+#6133
+On the spider web~
+You are balancing carefully on the giant sticky threads that holds the giant
+web in place.  To the east is a giant tree trunk and to the west is an entrance
+to a cave-like structure made from many layers of spider web.
+~
+63 9 0 1 99 6
+D1
+To the east is the giant tree trunk.
+~
+~
+0 -1 6132
+D3
+To the west is the entrance to the cave-like structure.
+~
+~
+0 -1 6134
+E
+web~
+The immense spider web moves softly.
+~
+E
+cave structure~
+It covers a ground area corresponding to an irregular circle with a diameter of
+about 20 feet and is nearly 10 feet tall.  It looks very old.
+~
+S
+#6134
+The Den of the Queen Spider~
+You are inside a cave-like structure that seems to be made entirely from
+countless layers of spider web.  Temperature and humidity is very high making
+it hard to breathe the foul air that lingers here.  The walls are covered with
+open cocoons.
+~
+63 9 0 1 99 6
+D0
+~
+~
+0 -1 6200
+D1
+Compared to this place the east exit looks inviting.
+~
+~
+0 -1 6133
+E
+web wall walls~
+The sticky walls are covered with open cocoons.
+~
+E
+cocoon cocoons~
+The cocoons are burst open as if something inside really wanted to get out.
+They are at the size of a human head.
+~
+S
+#6135
+A a dusty trail in the deep, dark forest~
+You are on a dusty trail leading through the deep, dark forest.  Ancient grey
+trees loom all around you.  The trail continues north and east.
+~
+63 9 0 1 99 3
+D0
+The dusty trail leads north through the trees.
+~
+~
+0 -1 6136
+D1
+The dusty trail leads east through the trees.
+~
+~
+0 -1 6129
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+S
+#6136
+A dusty trail in the deep, dark forest~
+You are on a dusty trail leading through the deep, dark forest.  Ancient,
+grey trees loom everywhere.  The trail continues south and west.  A broad
+irregular path leads eastwards away from the trail.
+~
+63 9 0 1 99 3
+D1
+The trees standing on the sides of the path have scratch marks on them.
+~
+~
+0 -1 6142
+D2
+The dusty trail leads south through the trees.
+~
+~
+0 -1 6135
+D3
+The dusty trail leads west through the trees.
+~
+~
+0 -1 6137
+E
+tree trees trunk trunks~
+To the east the ancient grey giants have many marks as if something with huge
+claws has been tearing at them in rage.
+~
+E
+path~
+The trees standing on the sides of the path have scratch marks on them.
+~
+E
+trail~
+The dark and dusty trail seems fragile compared to the massive trunks, and in
+some places, giant grey roots have broken up through its surface.
+~
+S
+#6137
+At the end of the trail through the deep, dark forest~
+You are on a dusty trail leading through the deep, dark forest.  Ancient grey
+trees loom all around you.  The only exit is east.
+~
+63 9 0 1 99 3
+D1
+The dusty trail leads east through the trees.
+~
+~
+0 -1 6136
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+S
+#6138
+A small hidden path in the bushes~
+You stand on a small hidden path in the old forest.  There are huge trees
+both to the left and right of you.  You feel as if somebody is watching
+you.  You look around and see little green eyes staring at you from the bushes.
+~
+63 1 0 1 99 3
+D1
+~
+~
+0 -1 14022
+D3
+~
+~
+0 -1 6139
+S
+#6139
+A small hidden path in the bushes~
+You stand on a small hidden path in the old forest.  There are huge trees
+both to the left and right of you.  You feel as if somebody is watching
+you.  You look around and see little green eyes staring at you from the bushes.
+~
+63 1 0 1 99 3
+D1
+~
+~
+0 -1 6138
+D3
+~
+~
+0 -1 6140
+S
+#6140
+A small path in the deep dark forest~
+You are standing on a small path leading through deep dark forest.  To the
+east the path dissapears into very dark forest, although it looks lighter in
+all other directions.
+~
+63 1 0 1 99 3
+D0
+~
+~
+0 -1 6141
+D1
+~
+~
+0 -1 6139
+D3
+~
+~
+0 -1 6144
+S
+#6141
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Ancient grey
+trees loom all around you.  The path continues south and west.
+~
+63 1 0 1 99 3
+D2
+~
+~
+0 -1 6140
+D3
+~
+~
+0 -1 6168
+E
+tree trees trunk trunks~
+The ancient grey giants seem to observe you silently.
+~
+S
+#6142
+Outside a cave in the deep, dark forest~
+You are at the end of a broad, irregular path.  To the north is a very large
+ominous-looking cave opening.  The trees here have many marks as if something
+with huge claws has been tearing at them in rage.
+~
+63 9 0 1 99 3
+D0
+The disgusting smell of a large reptile emanates from the cave opening.
+~
+~
+0 -1 6143
+D3
+The path winds its way westwards.
+~
+~
+0 -1 6136
+E
+tree trees~
+The ancient grey giants have many marks as if something with huge claws has
+been tearing at them in rage.
+~
+E
+cave opening~
+The disgusting smell of a large reptile emanates from the cave opening.
+~
+S
+#6143
+The cave of the Green Dragon~
+You are in a big natural cave.  The floor is littered with bones of all sorts
+and the stench is so massive that you could cut it with a knife.  The only exit
+is to the south.
+~
+63 9 0 1 99 3
+D2
+The exit leads out into the forest.
+~
+~
+0 -1 6142
+E
+bone bones floor~
+Most of the bones on the floor appear to be of human origin.
+~
+S
+#6144
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D1
+~
+~
+0 -1 6140
+D2
+~
+~
+0 -1 6145
+S
+#6145
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D0
+~
+~
+0 -1 6144
+D3
+~
+~
+0 -1 6148
+S
+#6146
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D3
+~
+~
+0 -1 6147
+S
+#6147
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D0
+~
+~
+0 -1 6148
+D1
+~
+~
+0 -1 6146
+S
+#6148
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D0
+~
+~
+0 -1 6149
+D1
+~
+~
+0 -1 6145
+D2
+~
+~
+0 -1 6147
+S
+#6149
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D0
+~
+~
+0 -1 6150
+D2
+~
+~
+0 -1 6148
+D3
+~
+~
+0 -1 6152
+S
+#6150
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D1
+~
+~
+0 -1 6150
+D2
+~
+~
+0 -1 6149
+S
+#6151
+In the dark forest~
+You are on a beaten path through the forest.  The trees seem to meet up above
+you, but do not seem to block out too much of the light.  The forest looks
+darker to the south-east.
+~
+63 1 0 1 99 3
+D2
+~
+~
+0 -1 6150
+D3
+~
+~
+0 -1 6155
+S
+#6152
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D1
+~
+~
+0 -1 6149
+D2
+~
+~
+0 -1 6153
+S
+#6153
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D0
+~
+~
+0 -1 6152
+D2
+~
+~
+0 -1 6154
+S
+#6154
+In the dark forest~
+You are pushing your way through dark forest.  Ancient grey trees loom all
+around, and you can hear the sounds of small creatures moving around in the
+shadows.
+~
+63 1 0 1 99 3
+D0
+~
+~
+0 -1 6153
+D3
+~
+~
+0 -1 17749
+S
+#6155
+In the dark forest~
+You are on a beaten path through the forest.  The trees seem to meet up above
+you, but do not seem to block out too much of the light.  The forest looks
+darker to the east.
+~
+63 1 0 1 99 3
+D1
+~
+~
+0 -1 6151
+D3
+~
+~
+0 -1 6156
+S
+#6156
+In the forest~
+You are standing on a beaten path through the forest.  The forest is fairly
+light here, but looks a lot thicker and darker to the east.  The path leads
+south and east.
+~
+63 0 0 1 99 3
+D1
+~
+~
+0 -1 6155
+D2
+~
+~
+0 -1 6157
+S
+#6157
+In the forest~
+You are standing on a beaten path through the forest.  The forest is fairly
+light here, but looks a lot thicker and darker to the east.  The path leads
+north and west.
+~
+63 0 0 1 99 3
+D0
+~
+~
+0 -1 6156
+D3
+~
+~
+0 -1 6158
+S
+#6158
+Edge of the forest~
+You are standing on a small beaten path at the edge of a large forest.  It 
+looks as if it gets fairly dense a little way in.  Out to the west you can see
+a wide road running past the forest's edge.
+~
+63 0 0 1 99 3
+D1
+~
+~
+0 -1 6157
+D3
+~
+~
+0 -1 6159
+S
+#6159
+The Trellian Highway~
+You are standing on a wide, well built road that leads north and west.  There 
+is a large forest to the east, and in the distance to the north you can see a
+grand castle.  Farmland stretches away to the west.
+~
+63 0 0 1 99 3
+D0
+~
+~
+0 -1 6160
+D1
+~
+~
+0 -1 6158
+D3
+~
+~
+0 -1 6164
+S
+#6160
+The Trellian Highway~
+You are standing on a wide, well built road the runs north and south.  There
+is a large forest to the east, and in the distance to the north you can see a
+magnificent castle.  Farmland stretches west to the horizon.
+~
+63 0 0 1 99 1
+D0
+~
+~
+0 -1 6161
+D2
+~
+~
+0 -1 6159
+S
+#6161
+The Trellian Highway~
+You are standing on a wide, well built road the runs north and south.  There
+is a large forest to the east, and in the distance to the north you can see a
+magnificent castle.  Farmland stretches west to the horizon.
+~
+63 0 0 1 99 1
+D0
+~
+~
+0 -1 6162
+D2
+~
+~
+0 -1 6160
+S
+#6162
+The Trellian Highway~
+You are standing on the wide Trellian Highway, as it approaches Castle Brian.
+Far to the south you can see the Grey Mountains rising up over the horizon, and
+west is only farmland for as far as you can see.
+~
+63 0 0 1 99 1
+D2
+~
+~
+0 -1 6161
+D3
+~
+~
+0 -1 6163
+S
+#6163
+The Trellian Highway~
+You are standing on the wide Trellian Highway, as it approaches Castle Brian.
+Far to the south you can see the Grey Mountains rising up over the horizon, and
+west is only farmland for as far as you can see.
+~
+63 0 0 1 99 1
+D0
+~
+~
+0 -1 16200
+D1
+~
+~
+0 -1 6162
+S
+#6164
+The Trellian Highway~
+You are standing on a wide, well built road as it runs east-west.  Eastward
+you can see a large forest, and west farmland stretches out to the horizon.
+To the south the Grey Mountains can be seen rising up.
+~
+63 0 0 1 99 3
+D1
+~
+~
+0 -1 6159
+D3
+~
+~
+0 -1 6165
+S
+#6165
+The Trellian Highway~
+You are standing on a wide, well built road as it runs east-west.  Eastward
+you can see a large forest, and west farmland stretches out to the horizon.
+To the south the Grey Mountains can be seen rising up.
+~
+63 0 0 1 99 3
+D1
+~
+~
+0 -1 6164
+D3
+~
+~
+0 -1 6166
+S
+#6166
+The Trellian Highway~
+You are standing on a wide, well built road as it runs east-west.  Eastward
+you can see a large forest, and west farmland stretches out to the horizon.
+To the south the Grey Mountains can be seen rising up.
+~
+63 0 0 1 99 3
+D1
+~
+~
+0 -1 6165
+D3
+~
+~
+0 -1 6165
+S
+#6167
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Ancient grey
+trees loom all around you.  The path continues south and west.
+~
+63 1 0 1 99 3
+D2
+~
+~
+0 -1 6168
+S
+#6168
+A small path in the deep, dark forest~
+You are on a narrow path leading through the deep, dark forest.  Ancient grey
+trees loom all around you.  The path continues south and west.
+~
+63 1 0 1 99 3
+D0
+~
+~
+0 -1 6167
+D1
+~
+~
+0 -1 6141
+D3
+~
+~
+0 -1 6150
+S
+$~
+#999999

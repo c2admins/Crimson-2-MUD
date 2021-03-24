@@ -1,0 +1,497 @@
+#17050
+Outside the Gate to Hades~
+You see before you a flaming, seven story gate. The flames leap out at you
+as you stare in awe at this gate. Smoke flows out from the flames forming
+words before you:
+THOSE WHO ENTER NEVER RETURN - BEWARE
+
+Small shivers go down your spine as you see these words form in front of you.
+You wonder what lies beyond. You can see barren plains to the east and west, a
+and the scent of stagnant water ahead.
+~
+58 8 1
+D0
+You see a flaming gate ahead of you.
+~
+~
+0 -1 17051
+D1
+Barren plains.
+~
+~
+0 -1 17065
+D3
+Barren plains.
+~
+~
+0 -1 17064
+S
+#17051
+Inside the Gate to Hades~
+You stand on the other side of the 7 story flaming gate. The flames don't
+seem to leap out this direction, they only seem to leap to the other side.
+On this side of the gate, the gate just seems to be charred. A feeling of
+despair enters you as you stand here. You almost feel as though you have
+died. The ground is covered with skulls and bones randomly around the
+area. Many of them are crushed and are merely fragments of the whole piece.
+The scent of stagnant water is to the north.
+
+~
+58 8 1
+D0
+The ground becomes more rockier.
+~
+~
+0 -1 17052
+D2
+You see a flaming gate ahead of you.
+~
+~
+0 -1 17050
+S
+#17052
+The Shoreline~
+You stand on a rocky shore, a dead tree stands near the shore and upon it
+rests a small horn. A heavy mist covers the water about 5 feet out, but
+you can still see the black swirls of water right in front of you. Nothing
+seems to move much. You can't even hear any sounds except for the slight 
+wind that blows through the dead tree's branches.
+
+~
+58 8 1
+D0
+Black swirling waters are ahead.
+~
+~
+0 -1 17053
+D1
+Black swirls of water lie ahead.
+~
+~
+0 -1 17058
+D2
+You see a gate in the distance.
+~
+~
+0 -1 17051
+D3
+Black swirls of water lie ahead.
+~
+~
+0 -1 17054
+S
+#17053
+On the River of Despair~
+The black waters swirl beneath you until they are swallowed by the dense
+erie fog that surrounds your whole world. You get a feeling that you are 
+being watched. When you look into the water all you see is a small motion
+underneath the surface, but aren't able to tell what the movement is from.
+
+~
+58 8 7
+D0
+A shoreline lies ahead.
+~
+~
+0 -1 17063
+D1
+Black swirling waters are ahead.
+~
+~
+0 -1 17058
+D2
+The shoreline lies ahead.
+~
+~
+0 -1 17052
+D3
+Black swirling waters are ahead.
+~
+~
+0 -1 17054
+S
+#17054
+On the River of Despair~
+The black waters swirl beneath you until they are swallowed by the dense
+erie fog that surrounds your whole world. You get a feeling that you are 
+being watched. When you look into the water all you see is a small motion
+underneath the surface, but aren't able to tell what the movement is from.
+
+~
+58 8 7
+D1
+Black swirling water lies ahead.
+~
+~
+0 -1 17053
+D2
+Black swirling water lies ahead.
+~
+~
+0 -1 17055
+S
+#17055
+On the River of Despair~
+The black waters swirl beneath you until they are swallowed by the dense
+erie fog that surrounds your whole world. You get a feeling that you are 
+being watched. When you look into the water all you see is a small motion
+underneath the surface, but aren't able to tell what the movement is from.
+
+~
+58 8 7
+D0
+Black swirling waters lie ahead.
+~
+~
+0 -1 17054
+D3
+Black swirling waters lie ahead.
+~
+~
+0 -1 17056
+S
+#17056
+On the River of Despair~
+The black waters swirl beneath you until they are swallowed by the dense
+erie fog that surrounds your whole world. You get a feeling that you are 
+being watched. When you look into the water all you see is a small motion
+underneath the surface, but aren't able to tell what the movement is from.
+
+~
+58 8 7
+D1
+Black swirling waters lie ahead.
+~
+~
+0 -1 17055
+D3
+The waters seem very turbulent ahead of you. The boatman warns you
+not to go that way.
+~
+~
+0 -1 17057
+S
+#17057
+Whirlpool on the River of Despair~
+Experience has no meaning now since you never used any of it that you learned.
+Maybe as you start again you will use it.
+You have hit a giant whirlpool that sucks you under and steals away your life
+force.
+
+~
+58 10 7
+D1
+Black swirling waters lie ahead.
+~
+~
+0 -1 17056
+S
+#17058
+On the River of Despair~
+The black waters swirl beneath you until they are swallowed by the dense
+erie fog that surrounds your whole world. You get a feeling that you are 
+being watched. When you look into the water all you see is a small motion
+underneath the surface, but aren't able to tell what the movement is from.
+
+~
+58 8 7
+D2
+Black swirling waters lie ahead.
+~
+~
+0 -1 17059
+D3
+Black swirling waters lie ahead.
+~
+~
+0 -1 17054
+S
+#17059
+On the River of Despair~
+The black waters swirl beneath you until they are swallowed by the dense
+erie fog that surrounds your whole world. You get a feeling that you are 
+being watched. When you look into the water all you see is a small motion
+underneath the surface, but aren't able to tell what the movement is from.
+
+~
+58 8 7
+D0
+Black swirling waters lie ahead.
+~
+~
+0 -1 17058
+D1
+Black swirling waters lie ahead.
+~
+~
+0 -1 17060
+S
+#17060
+On the River of Despair~
+The black waters swirl beneath you until they are swallowed by the dense
+erie fog that surrounds your whole world. You get a feeling that you are 
+being watched. When you look into the water all you see is a small motion
+underneath the surface, but aren't able to tell what the movement is from.
+
+~
+58 8 7
+D1
+Black swirling waters lie ahead.
+~
+~
+0 -1 17061
+D3
+Black swirling waters lie ahead.
+~
+~
+0 -1 17059
+S
+#17061
+On the River of Despair~
+The black waters swirl beneath you until they are swallowed by the dense
+erie fog that surrounds your whole world. You get a feeling that you are 
+being watched. When you look into the water all you see is a small motion
+underneath the surface, but aren't able to tell what the movement is from.
+
+~
+58 8 7
+D1
+Turbulent waters lie in that direction. The boatman shivers as you look
+that way.
+~
+~
+0 -1 17062
+D3
+Black swirling waters lie ahead.
+~
+~
+0 -1 17060
+S
+#17062
+Whirlpool on the River of Despair~
+You have died, there is nothing more to say.
+~
+58 8 7
+D3
+Black swirling waters lie ahead.
+~
+~
+0 -1 17061
+S
+#17063
+The Shoreline - Skull Room~
+You stand on a rocky shore, skulls lie in huge piles forming an actual
+walkway for you to walk in between the walls. Great arches lie built from
+ribs and femurs, the artwork is amazing except for the fact it is built
+from human remains.
+
+~
+58 8 1
+D0
+A road continues in front of you.
+~
+~
+0 -1 17066
+D2
+Black swirling waters lie ahead.
+~
+~
+0 -1 17053
+S
+#17064
+The Barren Plains~
+The area here is barren of all vegetation, not even skeletal remains of
+animals are here. You begin to miss even the faint buzz of mosquitos
+buzzing around your head. Water is very scarce around here and the dust
+is plentiful.
+
+~
+58 8 2
+D1
+A gate lies ahead.
+~
+~
+0 -1 17050
+S
+#17065
+The Barren Plains~
+The area here is barren of all vegetation, not even skeletal remains of
+animals are here. You begin to miss even the faint buzz of mosquitos
+buzzing around your head. Water is very scarce around here and the dust
+is plentiful.
+
+~
+58 8 2
+D3
+A gate lies ahead.
+~
+~
+0 -1 17050
+S
+#17066
+Skull Wall Road~
+Huge walls of skulls surround you. The place seems so barren of all life
+except for the few slaves you can see run around in a frightful hurry.
+
+~
+58 8 1
+D0
+A road continues in front of you.
+~
+~
+0 -1 17067
+D2
+You see a shoreline.
+~
+~
+0 -1 17063
+S
+#17067
+Skull Wall Road~
+Huge walls of skulls surround you. The place seems so barren of all life
+except for the few slaves you can see run around in a frightful hurry.
+
+~
+58 8 1
+D0
+A road continues in front of you.
+~
+~
+0 -1 17068
+D2
+A road continues in front of you.
+~
+~
+0 -1 17066
+S
+#17068
+Skull Wall Road~
+Huge walls of skulls surround you. The place seems so barren of all life
+except for the few slaves you can see run around in a frightful hurry.
+
+~
+58 8 1
+D2
+A road continues in front of you
+~
+~
+0 -1 17067
+D3
+A temple.
+~
+~
+0 -1 17069
+S
+#17069
+Temple of Souls~
+This area is very different from all other places in this area. The walls are 
+covered with hieroglyphs, and the floors are actually clean. The floor
+is made of a deep black glossy tile. And there is a sense of something
+evil around you.
+
+~
+58 8 1
+D1
+A road.
+~
+~
+0 -1 17068
+D3
+Entryway.
+~
+~
+0 -1 17070
+S
+#17070
+Temple Entryway~
+You stand in the huge archway in the Temple of Souls. You look north and see
+scorched hallways, and to the west you can feel searing heat eminating
+towards you. There lies nothing on the ground, and slaves run hurridly past
+you.
+
+~
+58 8 1
+D0
+Scorched Hallway.
+~
+~
+0 -1 17071
+D1
+Temple.
+~
+~
+0 -1 17069
+S
+#17071
+Scorched Hallway~
+The walls are blackened with scorch marks, the only thing you can tell is the
+intesity of the heat was great enough to melt the ornaments on the walls.
+No slaves run in this side of the hallway. You notice small strange creatures
+running around here.
+
+~
+58 8 1
+D0
+Hallway.
+~
+~
+0 -1 17072
+D2
+Entryway.
+~
+Entryway.~
+0 -1 17070
+S
+#17072
+Scorched Hallway~
+This hallway is just like the first one you went through. There are doorways 
+to the east and west leading to rooms. You feel no heat, although a hot
+shiver goes down your spine.
+
+~
+58 8 1
+D1
+A room.
+~
+~
+0 -1 17073
+D2
+Hallway.
+~
+~
+0 -1 17071
+D3
+~
+An altar.~
+0 -1 17074
+S
+#17073
+Scorched Room~
+This room is scorched even worse than the hallway. Small strange creatures
+are here glaring at you and begin to attack you for invading thier privacy.
+
+~
+58 8 1
+D3
+Hallway.
+~
+~
+0 -1 17072
+S
+#17074
+Scorched Altar~
+A large sacrificial altar is sitting in the middle of this room. The walls
+are all scorched and the altar is almost completely burnt. On the altar you
+see the skeletal remains of what looks like a small elf. The remains send
+shivers down your spine as you look at the tortured expression on his face.
+
+~
+58 8 1
+D1
+Hallway.
+~
+~
+0 -1 17072
+S
+$~
+#999999

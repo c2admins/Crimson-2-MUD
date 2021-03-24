@@ -1,0 +1,452 @@
+#700
+The Gauntlet~
+Welcome to The Gauntlet! If you are here then you must have heard
+about the FABULOUS prizes to be had. Have a care though, the prizes
+are not easily retrieved. May your gods have mercy upon you and
+show you favor this day.
+~
+7 268435464 0 1 99 1
+D0
+Begin the gauntlet, if you dare.
+~
+~
+0 -1 701
+S
+#701
+A strange meadow~
+This meadow seems to be very bright and colorful.  You can see there
+are strange foot prints everywhere about here.  It is as if a very
+large turkey has been roaming about these hills.  It seems to boggle
+your very mind and send you into a trance of unpleasantness.
+~
+7 1879048192 536870912 1 99 1
+D0
+On to the next room of the gauntlet.
+~
+~
+32 -1 702
+D2
+The Gauntlet start room.
+~
+~
+0 -1 700
+S
+#702
+A Dark Country Road~
+The road gets darker, more brush creeps onto the roadway. The
+gravel crunches below your feet, and then it stops. You look
+down, trying to see through the fog if you have gone off course.
+The road is now merely 2 dirt tracks burned into the field.
+~
+7 805306372 536870912 1 99 1
+D0
+further in the field 
+~
+field~
+33 0 704
+D1
+further in the field
+~
+~
+32 -1 703
+D2
+The Pear Tree is that way.
+~
+~
+0 -1 701
+S
+#703
+A Fog Covered Field~
+You have stepped onto the ancient battleground of the
+fiercest war in history. The fog stays low to the ground
+and thick. The mists swirl up and assume what appears to
+be a human shape, only to settle down into the high grass
+again. Just knowing the mass amount of death and destruction
+that was seen here many moons ago is enough to give you chills.
+And the rumors, dead soldiers coming back to declare their
+unrest in this mass grave that is far from home.
+~
+7 1883242496 536870912 1 99 1
+D1
+a fog covered field
+~
+~
+0 -1 714
+D3
+in the field
+~
+~
+0 -1 702
+S
+#704
+A Dark Country Road~
+The dirt tire tracks fade away. There is nothing left
+to guide you but the trees pushing in from each side.
+~
+7 1879048192 536870912 1 99 1
+D0
+a trail through the woods
+~
+~
+0 -1 705
+D1
+cornfield
+~
+~
+0 -1 718
+D2
+in the field
+~
+~
+0 -1 702
+S
+#705
+Surrounded by Trees~
+You managed to get yourself into the woods without any obvious way
+to get back out. The path has disappeared somewhere behind you, or
+in front of you, or to the... oh who knows. 
+~
+7 268435460 0 1 99 1
+D0
+onward through the gauntlet
+~
+~
+32 -1 706
+D2
+in the field
+~
+field~
+1 0 704
+S
+#706
+Surrounded by Trees~
+All you can see are trees. No wait, there's a small bush. How did you
+ever get so far away from civilization?
+~
+7 1879048192 536870912 1 99 1
+D0
+trees, trees, and trees
+~
+~
+0 -1 721
+D2
+into the golden room
+~
+~
+0 -1 705
+D3
+the pond
+~
+~
+32 -1 708
+S
+#707
+A Game Trail~
+The trail seems to be widening a bit, or is that just wishful thinking?
+~
+7 1342177280 536870912 1 99 1
+D0
+on the game trail
+~
+~
+0 -1 722
+D1
+out into the field
+~
+~
+32 -1 709
+D2
+the pond
+~
+~
+0 -1 708
+S
+#708
+A Game Trail~
+You seem to have stumbled onto some sort of game trail. It is not very
+wide, nor very used it seems, but at least it is something.
+~
+7 1879048196 536870912 1 99 1
+D0
+into the barn
+~
+~
+32 -1 707
+D1
+in the field
+~
+~
+0 -1 706
+S
+#709
+Near the Bonfire~
+You can see a great big bonfire and people celebrating around it.
+~
+7 1879048196 536870912 1 99 1
+D1
+near the bonfire
+~
+~
+32 -1 710
+D3
+into the barn
+~
+~
+0 -1 707
+S
+#710
+Near the Bonfire~
+You can see a great big bonfire and people celebrating around it.
+~
+7 1342177280 0 1 99 1
+D0
+near the bonfire
+~
+~
+32 -1 711
+D3
+near the bonfire
+~
+~
+0 -1 709
+S
+#711
+Near the Bonfire~
+You can see a great big bonfire and people celebrating around it.
+~
+7 1879048192 536870912 1 99 1
+D0
+near the bonfire
+~
+~
+32 -1 712
+D2
+near the bonfire
+~
+~
+0 -1 710
+S
+#712
+At the edge of a cliff~
+You see all about you the meadows and forest of this very cold
+pioneering place.  Down below you can make out the feathers and
+a bill of a very large and ugly creature.  You may want to head
+back to your south east from here to get out of this looney
+place.
+~
+7 1879048196 536870912 1 99 1
+D1
+on a game trail
+~
+~
+0 -1 723
+D2
+near the bonfire
+~
+~
+0 -1 711
+S
+#713
+The bottom of the canyon~
+You have hit the bottom of the canyon.  All around you can find some
+very unclimable rocks.  You see the sun starting to set in the west.
+More importantly, you see a very large crater from something very
+heavy that dropped here.
+~
+7 268435456 536870912 1 99 1
+S
+#714
+A Fog Covered Field~
+You have stepped onto the ancient battleground of the
+fiercest war in history. The fog stays low to the ground
+and thick. The mists swirl up and assume what appears to
+be a human shape, only to settle down into the high grass
+again. Just knowing the mass amount of death and destruction
+that was seen here many moons ago is enough to give you chills.
+And the rumors, dead soldiers coming back to declare their
+unrest in this mass grave that is far from home.
+~
+7 272629760 0 1 99 1
+D0
+a fog covered field
+~
+~
+0 -1 715
+D1
+a fog covered field
+~
+~
+0 -1 716
+D3
+a fog covered field
+~
+~
+0 -1 703
+S
+#715
+A Fog Covered Field~
+You have stepped onto the ancient battleground of the
+fiercest war in history. The fog stays low to the ground
+and thick. The mists swirl up and assume what appears to
+be a human shape, only to settle down into the high grass
+again. Just knowing the mass amount of death and destruction
+that was seen here many moons ago is enough to give you chills.
+And the rumors, dead soldiers coming back to declare their
+unrest in this mass grave that is far from home.
+~
+7 1883242496 0 1 99 1
+D1
+a fog covered field
+~
+~
+0 -1 717
+D2
+a fog covered field
+~
+~
+0 -1 714
+S
+#716
+A Fog Covered Field~
+You have stepped onto the ancient battleground of the
+fiercest war in history. The fog stays low to the ground
+and thick. The mists swirl up and assume what appears to
+be a human shape, only to settle down into the high grass
+again. Just knowing the mass amount of death and destruction
+that was seen here many moons ago is enough to give you chills.
+And the rumors, dead soldiers coming back to declare their
+unrest in this mass grave that is far from home.
+~
+7 809500672 536870912 1 99 1
+D0
+a fog covered field
+~
+~
+0 -1 717
+D3
+a fog covered field
+~
+~
+0 -1 714
+S
+#717
+A Fog Covered Field~
+You have stepped onto the ancient battleground of the
+fiercest war in history. The fog stays low to the ground
+and thick. The mists swirl up and assume what appears to
+be a human shape, only to settle down into the high grass
+again. Just knowing the mass amount of death and destruction
+that was seen here many moons ago is enough to give you chills.
+And the rumors, dead soldiers coming back to declare their
+unrest in this mass grave that is far from home.
+~
+7 809500672 0 1 99 1
+D2
+a fog covered field
+~
+~
+0 -1 716
+D3
+a fog covered field
+~
+~
+0 -1 715
+S
+#718
+A Cornfield~
+Pushing past the trees and shrubbery, you find yourself standing in a cornfield.
+The dry leaves stir in the breeze and rub together creating a bare whisper of
+sound. It is an eery kind of quiet and you wish the farmer would just bring out
+the farm equipment already and take care of this.
+~
+7 1879048192 536870912 1 99 1
+D1
+cornfield
+~
+~
+0 -1 719
+D3
+dark country road
+~
+~
+0 -1 704
+S
+#719
+A Cornfield~
+Pushing past the trees and shrubbery, you find yourself standing in a cornfield.
+The dry leaves stir in the breeze and rub together creating a bare whisper of
+sound. It is an eery kind of quiet and you wish the farmer would just bring out
+the farm equipment already and take care of this.
+~
+7 1879048192 536870912 1 99 1
+D1
+cornfield
+~
+~
+0 -1 720
+D3
+cornfield
+~
+~
+0 -1 718
+S
+#720
+A Cornfield~
+Pushing past the trees and shrubbery, you find yourself standing in a cornfield.
+The dry leaves stir in the breeze and rub together creating a bare whisper of
+sound. It is an eery kind of quiet and you wish the farmer would just bring out
+the farm equipment already and take care of this.
+~
+7 1342177280 536870912 1 99 1
+D3
+cornfield
+~
+~
+0 -1 719
+S
+#721
+Surrounded by Trees~
+All you can see are trees. No wait, there's a small bush. How did you
+ever get so far away from civilization?
+~
+7 1879048192 536870912 1 99 1
+D2
+trees, trees, and trees
+~
+~
+0 -1 706
+S
+#722
+A Game Trail~
+The trail seems to be widening a bit, or is that just wishful thinking?
+~
+7 1879048192 536870912 1 99 1
+D0
+on the game trail
+~
+~
+0 -1 723
+D2
+on the game trail
+~
+~
+0 -1 707
+S
+#723
+A Game Trail~
+The trail seems to be widening a bit, or is that just wishful thinking?
+~
+7 1879048192 536870912 1 99 1
+D2
+on the game trail
+~
+~
+0 -1 722
+D3
+nearing the bonfire
+~
+~
+0 -1 712
+S
+$~
+#999999

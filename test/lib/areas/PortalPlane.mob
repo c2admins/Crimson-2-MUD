@@ -1,0 +1,162 @@
+#6600
+mob Sh'clazak unclean demon~
+Sh'clazak the Unclean~
+Sh'clazak the Unclean is crouched here.
+~
+Sh'clazak is the foul creature that has taken control of this dimension
+and plunged it into it's current condition.  The creature itself stands
+almost 10 feet tall, despite being very crooked and looks extremely cruel.
+~
+8708380 3178497 136249393 0 -1000 S
+46 -20 -25 1d1+49999 9d20+100
+2500000 1200000
+8 8 0
+0 0 25 20 8 16 25 11
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_TYPE=100
+#6601
+mob groulsch fearsome~
+A fearsome groulsch~
+A fearsome groulsch blinks at you stupidly.
+~
+The groulsch is an odd creature looking like an unholy cross between about
+five different animals from the wilds of home.  It stands on four legs
+and has a short, thick tail behind it.  It's fur looks as if it has
+been slicked back by some accreted fluid to form a hard, bony plating across
+it's body and there is a bony armoured plate around it's neck and head.
+~
+57352 32769 136249393 0 -500 S
+39 4 0 6d99+11000 6d3+18
+250000 241000
+8 8 0
+0 0 17 15 16 15 13 11
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_TYPE=106
+#6602
+mob mass amorphous pulsating~
+A pulsating amorphous mass~
+A pulsating amorphous mass quivers around here horribly.
+~
+Looking like the intestines of a giant, this obscene mass of flesh
+quivers around on the soft ground seemingly mindlessly, but devouring all
+in it's path.
+~
+12 2097153 136249361 0 -200 S
+41 5 -18 90d19+8000 5d5+12
+0 323000
+8 8 0
+0 0 16 18 15 14 14 14
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#6603
+mob demon small hideous~
+A small hideous demon~
+A small hideous demon grins at you.
+~
+You are looking at a very ugly little demon, about 4 feet tall and with
+a thin spiky tail.  It has a roughly humanoid shape, but it's skin is 
+black and looks as if it is accreting a thick goo, almost like sap from
+a tree.
+~
+134275100 1081345 136249361 0 -800 S
+25 15 18 12d50+1800 2d5+25
+16800 77425
+8 8 0
+0 0 16 18 16 15 13 11
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#6604
+mob Baz'lon paranoid demon~
+Baz'lon, the Paranoid~
+Baz'lon the Paranoid is running scared.
+~
+Strange, and freakish, Baz'lon awaits his punishment.  He is tormented by the visions
+of his end.  You can see he cowers and cringes, and runs in fear.
+The blackened skin he wears is from the burning fires he has been subjected to.
+The yellow skin is from the chemical poisons that have been driven into him.
+He is truely a mess.
+~
+33874072 1081345 203358225 0 -1000 S
+47 -20 -25 1d1+44999 9d20+100
+2500000 1500000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#6605
+mob Sa'fren hyper demon~
+Sa'fren the Hyper~
+Sa'fren the Hyper, is rushing towards you.
+~
+Sa'fre, is a very hyped up wanderer.  He seems to have a dark red
+glow about his eyes.  There seems to be a strange humming comming
+from this creature. You can feel the vibrations shaking the ground
+as he approaches.
+~
+8708248 1081345 203358225 0 -1000 S
+48 -20 -25 1d1+59999 9d20+100
+2250000 2000000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#6606
+mob No'sey broke demon~
+No'sey the Broke~
+No'sey the Broke is scrounging here.
+~
+No'sey is a funky little midget.  He has a wandering eye and a slight of hand.
+You had better watch your watch, and a few other things.  This strange little
+beast may just walk off with all your belongings.  He seems to have
+a pention for the dramatic when caught.  So don't fall for it.
+~
+8708248 1343489 236912657 0 -1000 S
+46 -20 -25 100d100+39000 20d9+100
+0 1500000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#6607
+mob Jal'ra dark demon~
+Jal'Ra the Dark~
+Jal'Ra the Dark stands here, amongst the fleshy humanoids of this realm.
+~
+Before you stands a darkened figure.  He's a demon, standing with large massive horns, cloaked in darkness.  You notice scars over his body, having fought several battles in these hellacious planes.  He stands so tall, it almost seems like he could literally crush you before you even brandished your weapon.
+~
+33874072 1081345 203358225 0 -1000 S
+46 -20 -25 100d100+45000 20d10+100
+3000000 1000000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=107
+$~
+#999999

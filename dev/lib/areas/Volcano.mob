@@ -1,0 +1,849 @@
+#3900
+mob flame beast~
+a flame beast~
+A flame beast is eyeing you down ready to kill.
+~
+   This is a small beast that resembles a burning dog, but do not let its size
+fool you, for it is a mighty beast that if given the chance will rip you to
+shreds.    
+~
+602 1 136249361 100663360 -245 S
+21 22 23 2d35+1562 5d6+10
+7575 61998
+8 8 0
+0 0 19 18 14 21 14 13
+SKILL=SKILL_SECOND 30
+#3901
+mob half dead man~
+a half dead man~
+A crucified, half dead man is hanging here.
+~
+   This is an unidentifiable man, that has been brutally beaten and hung here
+to die slowly.    
+~
+74 1 136249361 7169 1000 S
+6 34 40 2d1+32 2d3+2
+10 151
+8 8 1
+0 0 4 9 9 6 5 3
+#3902
+mob lavaman~
+a lavaman~
+A lava oozing lavaman is dripping here.
+~
+   This creature is about 3 feet tall and seems to be completely made of molten
+lava.  It looks at you, mouth open wide dripping lava upon your feet, nearly
+burning the flesh right off of them.
+~
+32974 1048577 136249361 538443966 -455 S
+18 22 40 4d5+295 3d7+10
+4650 5569
+8 8 0
+0 0 16 4 6 23 20 16
+SKILL=SKILL_SNEAK 60
+SKILL=SKILL_HIDE 60
+SKILL=SKILL_EXTRA_DAMAGE 45
+SKILL=SKILL_PARRY 5
+SKILL=SKILL_DODGE 15
+SKILL=SPELL_FIRE_BREATH 5
+SKILL=SKILL_SECOND 25
+#3903
+mob inferno prince fire~
+Inferno, Prince of Fire~
+Inferno, Prince of Fire is here guarding the entrance.
+~
+   Inferno is an entity that stands 6 feet in hight and is made purely of fire.
+Although he appears to be a normal man inside his body is nothing but molten
+lava and fire.  He gazes into your eyes in attempts to burn your mind.
+~
+1074004234 1 136249361 168034484 -476 S
+29 14 6 2d80+1750 7d8+14
+28500 143699
+8 8 1
+0 0 24 16 18 25 24 15
+SKILL=SKILL_EXTRA_DAMAGE 10
+SKILL=SKILL_DODGE 15
+SKILL=SKILL_SECOND 35
+SKILL=SKILL_HUNT 50
+#3904
+mob fire demon~
+a fire demon~
+A fire demon is here looking for something to kill.
+~
+   This is a demon brought forth from the depths of hell.  They are shadowy
+figures, surrounded by black and blue flames of pure evil.  There only purpose
+is to kill all good and serve evil as is fit.    
+~
+34865224 1 136249361 35651708 -666 S
+25 15 17 3d56+1999 6d7+21
+19000 76548
+8 8 0
+0 0 18 10 10 14 16 8
+#3905
+mob spine skeleton master~
+Spine the Skeleton Master~
+Spine the Skeleton Master is decaying here.
+~
+   This blood thirsty skeleton looks to be about 7 feet tall.  His bones are
+covered with the blood and flesh of the many victims he has claimed.  You look
+into his eyes and see a piercing-red fiery glow.
+
+                                &W_,.-----.,_
+                             ,--           --.
+                           ,^___           ___^.
+                          /-"   -"   .   "-   "-\
+                         Y  ,--._    I    _.--.  Y
+                         | Y     --. | ,--     Y |
+                         | |  &R##    &W}:{   &R##   &W| |
+                         j l   &R#   &W/ | \  &R#    &W! l
+                      .-  (__,.--" .^. "--.,__)  -.
+                     (           / / | \ \           )
+                      \.____,   -  \/"\/  -   .____,/
+                       ^.____                 ____.^
+                          | |T -\  !   !  /- T| |
+                          | |l   _ _ _ _ _   !| |
+                          | l \/V V V V V V\/ j |
+                          l  \ \|_|_|_|_|_|/ /  !
+                           \  \[T T T T T TI/  /
+                            \  `^-^-^-^-^-^'  /
+                             \               /  
+                              \.           ,/
+                                "^-.___,-^"
+
+~
+1107607822 32769 136249361 100933820 -999 S
+34 9 -8 6d15+2129 8d11+12
+76000 206999
+8 8 1
+0 0 23 14 14 20 24 20
+SKILL=SKILL_SNEAK 10
+SKILL=SKILL_STEAL 20
+SKILL=SKILL_BASH 20
+SKILL=SKILL_EXTRA_DAMAGE 65
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_SECOND 35
+SKILL=SKILL_THIRD 10
+SKILL=SPELL_HEAL_MINOR 25
+SKILL=SKILL_HUNT 75
+SKILL=SPELL_BLACK_BURST 15
+SKILL=SPELL_CREMATION 15
+SKILL=SPELL_MORTICE_FLAME 30
+SKILL=SPELL_FIRELANCE 10
+SKILL=SKILL_RAGE 99
+#3906
+mob fleshless monk~
+a fleshless monk~
+A monk with no flesh is wandering here moaning in pain.
+~
+   This monk was brought here and ripped of his flesh by Vulcan's many slaves.
+He was forced to stay alive so others could look at him and know what the evil
+extent of Vulcan's power really is.  He almost seems to grin at you in an
+evil manner.  Hmmmmm......
+~
+1073741896 1343489 136249361 33554492 -333 S
+26 15 15 4d90+2111 7d7+19
+21500 79666
+8 8 1
+0 0 10 10 10 13 14 5
+SKILL=SPELL_CURE_CRITIC 99
+SKILL=SKILL_PARRY 1
+SKILL=SKILL_DODGE 10
+SKILL=SKILL_SECOND 2
+SKILL=SPELL_EARTHQUAKE 15
+#3907
+mob flaming skeleton~
+a flaming skeleton~
+A flaming skeleton is burning here.
+~
+   This is a skeleton of one of the many who have died here.  It stands about
+five feet and has the overwhelming urge to give you a great big hug.  Your
+body starts to burn just being near this thing.
+~
+1107558600 1 136249361 33554556 -321 S
+22 18 22 3d45+1700 7d4+18
+11500 67329
+8 8 0
+0 0 18 10 8 20 15 9
+SKILL=SPELL_FIREBALL 10
+SKILL=SKILL_EXTRA_DAMAGE 20
+SKILL=SKILL_DODGE 5
+SKILL=SPELL_FIRE_BREATH 2
+SKILL=SKILL_SECOND 10
+#3908
+mob hellspawn~
+Hellspawn~
+A Hellspawn is here deciding what tortures to put you through.
+~
+   This is a being spawned from the depths of hell.  He was put here by Vulcan
+just so he could watch it kill people.  They are savage beasts with no reason
+or emotion.  It's fiery glare almost frightens you stiff.
+~
+1107591752 622593 136249361 102768764 -999 S
+29 14 3 6d25+2619 8d7+25
+29000 165943
+8 8 0
+0 0 25 18 18 23 20 18
+SKILL=SPELL_TREMOR 5
+SKILL=SKILL_EXTRA_DAMAGE 15
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_SECOND 20
+SKILL=SKILL_THIRD 5
+SKILL=SPELL_HEAL_MINOR 5
+SKILL=SKILL_HUNT 60
+#3909
+mob timemaster~
+the TimeMaster~
+The TimeMaster is here preparing you for your destiny.
+~
+   This is an old, grey-haired frail looking man.  His face looks like its
+been around longer than the world itself.  Each line in his face tells a
+story.  He has been on this realm for many many centuries, possibly longer.
+He stands here to help those who cannot find there destiny and to guide them
+down the right path.  Although he looks weak, he seems to have a powerful
+glow.
+~
+1074004042 32769 136249361 1040466174 999 S
+47 0 -31 5d95+21023 15d25+38
+3250000 1694499
+8 8 0
+0 0 24 25 25 24 25 22
+SKILL=SPELL_ENERGY_DRAIN 10
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_KICK 30
+SKILL=SKILL_BASH 30
+SKILL=SKILL_EXTRA_DAMAGE 50
+SKILL=SKILL_PARRY 2
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_HEAL_MINOR 40
+SKILL=SPELL_HEAL_MEDIUM 30
+SKILL=SPELL_HEAL_MAJOR 15
+SKILL=SPELL_MAGIC_IMMUNE 1
+SKILL=SPELL_CONFLAGRATION 15
+SKILL=SPELL_SMITE 60
+SKILL=SPELL_BLACK_BURST 5
+SKILL=SPELL_CREMATION 5
+SKILL=SPELL_MORTICE_FLAME 5
+SKILL=SPELL_FIRELANCE 5
+SKILL=SPELL_FIRESTORM 5
+SKILL=SPELL_EARTHQUAKE 10
+SKILL=SPELL_DIVINE_RETRIBUTION 10
+SKILL=SKILL_RAGE 30
+ATTACK_SKILL=70
+ATTACK_SKILL=45
+ATTACK_SKILL=20
+ATTACK_TYPE=100
+ATTACK_SKILL=35
+ATTACK_SKILL=25
+ATTACK_SKILL=15
+ATTACK_TYPE=100
+#3910
+mob holocaust~
+Holocaust~
+Holocaust is standing here making sure no one disturbes his master.
+~
+   This is a giant standing at least 11 feet high.  You gaze upon his yellow and
+orange body suit noticing that inside he is nothing but a mere skeleton.  He
+stares at you with his glowing red eyes ready to strike and kill.    
+~
+1317323594 32769 136249361 908599550 -999 S
+44 1 -29 8d99+13099 11d15+47
+1900000 889999
+8 8 1
+0 0 25 20 20 24 25 20
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 65
+SKILL=SKILL_FOURTH 25
+SKILL=SKILL_HUNT 75
+#3911
+mob vulcan god fire~
+Vulcan, God of Fire~
+Vulcan, God of Fire is standing here roasting someones corpse.
+~
+   He is one of the many children of Zeus.  Although seemingly lame in the
+world of gods, in the world of mortals he is all powerful.  His smithy origin
+allowed him to forge his own personal and quite powerful weapons, he is not one
+to be easily defeted.    
+~
+1141170506 32769 136249361 503865598 -1000 S
+48 -20 -35 20d90+22199 18d18+35
+3600000 1831234
+8 8 1
+0 0 25 25 25 25 25 25
+SKILL=SPELL_BURNING_HANDS 20
+SKILL=SPELL_CHILL_TOUCH 20
+SKILL=SPELL_ENERGY_DRAIN 20
+SKILL=SPELL_FIREBALL 20
+SKILL=SPELL_HARM 20
+SKILL=SPELL_LIGHTNING_BOLT 20
+SKILL=SPELL_SHOCKING_GRASP 20
+SKILL=SKILL_SNEAK 50
+SKILL=SKILL_KICK 50
+SKILL=SKILL_BASH 50
+SKILL=SKILL_EXTRA_DAMAGE 80
+SKILL=SKILL_PARRY 20
+SKILL=SKILL_DODGE 60
+SKILL=SPELL_FIRE_BREATH 5
+SKILL=SPELL_HEAL_MEDIUM 60
+SKILL=SPELL_HEAL_MAJOR 80
+SKILL=SPELL_CONFLAGRATION 20
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 20
+SKILL=SPELL_CREMATION 20
+SKILL=SPELL_MORTICE_FLAME 20
+SKILL=SPELL_FIRELANCE 20
+SKILL=SPELL_FIRESTORM 20
+SKILL=SPELL_HEMMORAGE 20
+SKILL=SPELL_PESTILENCE 20
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=25
+ATTACK_TYPE=108
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#3912
+mob ivory gargoyle~
+an ivory gargoyle~
+A gargoyle made of ivory stands before you.
+~
+   This is a gargoyle made of ivory.  This thing is so life-like that it makes
+you believe that it is actually looking at you.  Did you just see its eyes
+move?!?
+~
+263242 32769 136249393 570425532 0 S
+32 11 -2 10d50+1666 8d5+20
+54000 193599
+8 8 0
+0 0 22 10 10 19 20 10
+SKILL=SPELL_TREMOR 50
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_PARRY 20
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_SCALES 20
+SKILL=SKILL_SECOND 70
+SKILL=SKILL_THIRD 15
+#3913
+mob marble gargoyle~
+a marble gargoyle~
+A gargoyle made of marble stands before you.
+~
+   This is a gargoyle made of ivory.  This thing is so life-like that it makes
+you believe that it is actually looking at you.  Did you just see its eyes
+move?!?
+~
+263242 32769 136249393 570425532 0 S
+32 11 -2 10d50+1666 7d6+20
+54000 193599
+8 8 0
+0 0 22 10 10 19 20 10
+SKILL=SPELL_TREMOR 50
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_PARRY 20
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_SCALES 20
+SKILL=SKILL_SECOND 70
+SKILL=SKILL_THIRD 15
+#3914
+mob blaze keeper flame~
+Blaze, Keeper of the Flame~
+Blaze Keeper of the Flame is standing here twirling fireballs.
+~
+   This is a guard and master magician of Pyro's castle.  He is a regular sized
+man looking to be kind of a sickly fellow. Don't let his looks fool you, for
+he is a very powerful sorcerer.  He has powers that many will never see, and
+many have never seen.
+~
+1074037064 32769 136249361 33562812 -800 S
+41 2 -24 6d35+7899 18d9+30
+950000 457321
+8 8 1
+0 0 18 24 24 20 18 20
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_HAIL_STORM 99
+SKILL=SPELL_CHARM_PERSON 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_IMPROVED_INVIS 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_CURSE 99
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_ENERGY_DRAIN 20
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HARM 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_POISON 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_SLEEP 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_IDENTIFY 99
+SKILL=SPELL_CAUSE_CRITIC 99
+SKILL=SPELL_CAUSE_LIGHT 99
+SKILL=SKILL_EXTRA_DAMAGE 85
+SKILL=SKILL_PARRY 5
+SKILL=SKILL_DODGE 30
+SKILL=SKILL_SECOND 60
+SKILL=SKILL_THIRD 10
+SKILL=SKILL_FOURTH 5
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 10
+SKILL=SPELL_MAGIC_IMMUNE 10
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 75
+SKILL=SPELL_GATE 99
+SKILL=SKILL_RAGE 50
+SKILL=SPELL_CALL_LIGHTNING 99
+#3915
+mob chef cann'ibal~
+Chef Cann'Ibal~
+Chef Cann'Ibal stands here ready to serve you fresh entrails.
+~
+   He is a short, fat little fellow that appears quite psycotic.  His apron is
+covered in blood and pieces of human flesh.  He likes nothing more than to cook
+up a good fresh pile of human entrails.  Looking at you he grins and bares
+his sharp, pointy blood dripping fangs.......
+~
+1076134218 32769 136249361 33554620 -900 S
+43 1 -26 8d30+10121 10d9+60
+1400000 681893
+8 8 1
+0 0 23 10 10 20 24 10
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_SECOND 89
+SKILL=SKILL_THIRD 59
+SKILL=SKILL_FOURTH 29
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 99
+SKILL=SKILL_TSUGIASHI 60
+#3916
+mob royal guard fire palace~
+Royal Guard of the Fire Palace~
+A Royal Guard of the Fire Palace stands here protecting the castle.
+~
+   This is a loyal guard to Pyro and protector of the castle.  He looks you
+over making sure you aren't a threat to his master.  He laughs and points at
+you like your a worthless waste of his time.
+~
+588 32769 136249361 0 0 S
+33 10 -5 7d56+3550 9d4+18
+65000 200000
+8 8 1
+0 4 23 16 16 16 20 24
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_PARRY 15
+SKILL=SKILL_DODGE 30
+SKILL=SKILL_SECOND 85
+SKILL=SKILL_THIRD 15
+SKILL=SKILL_FOURTH 2
+SKILL=SKILL_HUNT 75
+#3917
+mob cremate~
+Cremate~
+Cremate guard captain of Pyro's castle is standing here.
+~
+   This is the highest ranked and most powerful of all Pyro's guards.  He stands
+about 7 feet high and has two, blood shot, glowing red eyes that seem to get
+brighter as you look at them.  He is not one to mess with.
+~
+1073774922 32769 136249393 67108988 -800 S
+42 1 -26 30d4+18999 6d6+22
+1000000 611111
+8 8 1
+0 0 22 14 14 16 20 20
+SKILL=SKILL_HUNT 75
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_TYPE=100
+#3918
+mob pyro~
+Pyro~
+Pyro stands here ready to roast your sorry ass.
+~
+   This is the underling of Vulcan himself.  This man...  If you can call it a
+man, stands 8 feet high and has hair that is on fire.  He over sees his castle
+with no opposing forces.  Flaming sparks fly from his finger tips igniting
+the air around you.  One look into his fiery-red eyes and you become entranced
+with fear.
+~
+67420490 2129921 136249361 536871166 -999 S
+45 0 -20 40d40+15000 10d40+20
+2300000 1150000
+8 8 1
+0 4 22 18 18 23 20 20
+SKILL=SPELL_FIREBALL 60
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_FIRE_BREATH 60
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 60
+SKILL=SKILL_FOURTH 30
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 60
+SKILL=SPELL_FIRESTORM 60
+SKILL=SKILL_RAGE 99
+#3919
+mob citizen vulcanus~
+a citizen of Vulcanus~
+A citizen of Vulcanus is standing here working hard for his god.
+~
+   This is a man forced into slavery by the evil god Vulcan.  He has no memory
+or purpose except to obey his master.
+~
+204 1343489 136249393 35651648 0 S
+22 18 22 6d6+1700 4d9+10
+9500 65000
+8 8 1
+0 0 16 18 14 14 15 11
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_EXTRA_DAMAGE 10
+SKILL=SKILL_DODGE 10
+SKILL=SKILL_SECOND 25
+#3920
+mob slave master~
+the slave master~
+The slave master is here whipping some slaves.
+~
+   This is a large muscular man who has a very little mind.  All he knows to do
+is keep the cities citizens in order and kill all intruders.  He grunts and
+yells obscenties at you as you gaze upon him.  He is very messy and crude man,
+you can clearly tell that his simple mind and huge muscles make him a valuable
+asset to Vulcan.
+~
+8683592 3178497 136249361 906502268 -800 S
+37 6 -14 29d29+7199 6d6+35
+250000 222222
+8 8 1
+24 0 26 3 3 16 25 15
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_EXTRA_DAMAGE 70
+SKILL=SKILL_PARRY 25
+SKILL=SKILL_DODGE 70
+SKILL=SKILL_SECOND 60
+SKILL=SKILL_THIRD 10
+SKILL=SKILL_HUNT 60
+SKILL=SKILL_RAGE 80
+#3921
+mob vergil~
+Vergil~
+Vergil is standing here ready to sell something.
+~
+   This is a short, middle aged man.  He has dark brown hair and a smile that
+doesn't seem to go away.  He works here as yet another slave of Vulcan, forced
+o sale things to the other slaves.  He looks rather weak and actually a little
+frightened.  That smile....its permanent.........
+~
+202 1081345 136249361 0 0 S
+31 12 2 35d40+2569 6d5+25
+40000 187000
+8 8 1
+0 0 17 17 14 16 14 14
+SKILL=SKILL_EXTRA_DAMAGE 80
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_DODGE 80
+SKILL=SKILL_SECOND 50
+SKILL=SKILL_THIRD 10
+SKILL=SKILL_FOURTH 2
+SKILL=SKILL_HUNT 75
+#3922
+mob fire drake male~
+a fire drake~
+A fire drake is hovering here.
+~
+   This is a dragon-like creature that stands a massive 9 feet high.  From its
+large nose comes puffs of dark black smoke and in its mouth you see an
+uncountable amount of blood stained, razor sharp teeth.
+~
+12615752 32769 136249393 100679804 -400 S
+36 7 -14 10d10+5000 6d11+30
+89000 209999
+8 8 1
+11 0 23 15 16 15 14 15
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_PARRY 5
+SKILL=SKILL_DODGE 30
+SKILL=SKILL_SCALES 30
+SKILL=SPELL_FIRE_BREATH 40
+SKILL=SKILL_SECOND 25
+#3923
+mob fire drake female~
+a fire drake~
+A fire drake is hovering here.
+~
+   This is a dragon-like creature that stands a massive 9 feet high.  From its
+large nose comes puffs of dark black smoke and in its mouth you see an
+uncountable amount of blood stained, razor sharp teeth.
+~
+12615752 32769 136249393 100679804 -400 S
+36 8 -13 10d10+5000 6d13+25
+89000 209999
+8 8 2
+11 0 23 15 16 15 14 15
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_PARRY 5
+SKILL=SKILL_DODGE 30
+SKILL=SKILL_SCALES 30
+SKILL=SPELL_FIRE_BREATH 40
+SKILL=SKILL_SECOND 25
+#3924
+mob queen xyria~
+Queen Xyria~
+Queen Xyria is here waiting for someone to bring here a fresh corpse.
+~
+   This is a rather small dragon only about 9 feet tall.  Although small she is
+not one to be reckoned with, her powers go far beyond normal dragon fighting.
+She seem quite normal for a dragon, except for the fact her mouth is dripping
+blood.  Just watch here closely, should could attack and you not notice.    
+~
+1086619658 1 136249361 301990076 0 S
+40 3 -22 20d20+5999 8d6+80
+750000 235999
+8 8 0
+0 0 16 17 16 15 14 11
+SKILL=SKILL_EXTRA_DAMAGE 50
+SKILL=SKILL_DODGE 60
+SKILL=SKILL_SCALES 75
+SKILL=SPELL_FIRE_BREATH 35
+SKILL=SPELL_GAS_BREATH 75
+SKILL=SPELL_FROST_BREATH 15
+SKILL=SPELL_ACID_BREATH 50
+SKILL=SPELL_LIGHTNING_BREATH 20
+SKILL=SKILL_SECOND 10
+SKILL=SKILL_HUNT 60
+#3925
+mob king shi'van~
+King Shi'van~
+Something big is blocking the window....wonder what this is?
+~
+   At first you thought this was a giant stone pillar, but now that you look
+way way up you see that it is really a enormous dragon standing about 20 feet
+tall.  It's claws and mouth are dripping blood and you see from the corpse
+splattered all over the floor beneath you why.  He is big, strong, and wise...
+And feels the need for.....&rBLOOD&n!
+~
+12902478 32769 136249361 905978108 -1000 S
+46 0 -22 60d50+16000 8d6+50
+2700000 1150000
+8 8 1
+11 0 23 20 18 22 24 20
+SKILL=SKILL_EXTRA_DAMAGE 40
+SKILL=SKILL_PARRY 5
+SKILL=SPELL_FIRE_BREATH 25
+SKILL=SPELL_GAS_BREATH 25
+SKILL=SPELL_FROST_BREATH 25
+SKILL=SPELL_ACID_BREATH 25
+SKILL=SPELL_LIGHTNING_BREATH 25
+SKILL=SPELL_CONFLAGRATION 20
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRESTORM 20
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=55
+ATTACK_TYPE=105
+ATTACK_SKILL=75
+ATTACK_SKILL=55
+ATTACK_SKILL=35
+ATTACK_TYPE=106
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=108
+#3926
+mob ancient tree fire~
+Ancient Tree of Fire~
+The Ancient Tree of Fire is here.  It looks like its....breathing.
+~
+   This is a large 30 foot tall tree.  Its branches are covered with red and
+yellow leaves, and has some sort of flaming fruit on it.  You could swear you
+saw it move, it must be the wind.....
+~
+75759690 32769 136249361 637534268 0 S
+47 0 -24 100d100+40000 20d29+75
+3100000 1300000
+8 8 0
+0 0 25 25 25 15 14 12
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_DODGE 80
+SKILL=SKILL_SECOND 70
+SKILL=SKILL_THIRD 45
+SKILL=SKILL_FOURTH 10
+SKILL=SPELL_FIRESTORM 75
+#3927
+mob flame elemental~
+the Flame Elemental~
+A flaming creature of the elements is hiding here.
+~
+   This is a giant flaming creature unknown in origin.  This creature is
+emitting extreme amounts of heat, that nearly make you collapse and die.  You
+can tell that defeating this entity will not be something that will be easy.
+~
+75817034 3440641 136249361 640688382 -1000 S
+48 0 -25 75d70+25599 25d7+75
+3700000 1555000
+8 8 0
+0 0 20 20 20 20 20 20
+SKILL=SPELL_FIREBALL 50
+SKILL=SPELL_FIRE_BREATH 5
+SKILL=SPELL_CREMATION 50
+SKILL=SPELL_MORTICE_FLAME 50
+SKILL=SPELL_FIRELANCE 50
+SKILL=SPELL_FIRESTORM 50
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_TYPE=108
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_SKILL=60
+ATTACK_TYPE=107
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_TYPE=106
+#3928
+mob fireball~
+a fireball~
+A fireball is launching itself around the room.
+~
+   It's just a big, flaming fireball.....flying towards YOUR HEAD!
+~
+1140868168 2129921 136249361 570425468 0 S
+25 15 10 35d15+1999 3d3+25
+19000 77000
+8 8 0
+0 0 16 15 15 14 13 15
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_EXTRA_DAMAGE 20
+SKILL=SKILL_SECOND 60
+SKILL=SKILL_THIRD 10
+#3929
+mob fire~
+the Fire~
+A towering inferno of fire is here burning madly.
+~
+   This is a gigantic, towering inferno of fire.  It's blazing madly all around
+you.  It so hot you can't stand to hardly live anymore.  It's brightness nearly
+blinds you.  It appears to be more than just a live fire, it seems to be ALIVE!
+~
+75759630 2129921 136249361 637534462 0 S
+47 0 -25 50d100+22000 10d5+75
+2800000 1000000
+8 8 0
+0 0 16 17 15 14 13 14
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_HUNT 75
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=90
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=35
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_TYPE=100
+#3930
+mob lava lord~
+a lava lord~
+A creature formed from the left over lava is standing here.
+~
+   This is just....  Well.....  A big pile of oozing lava, that is slightly
+shaped like a fat man.  It bubbles and looks at you, then bubbles somemore.
+~
+67109962 32769 136249361 2097152 -100 S
+23 17 22 25d25+1625 2d5+25
+15000 72000
+8 8 0
+0 0 17 17 16 14 14 14
+SKILL=SKILL_SECOND 25
+#3931
+mob ghost fallen warrior~
+Ghost of a Fallen Warrior~
+A ghost of a fallen warrior is hoving here asking for your help.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+536870922 4194305 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 1
+0 0 17 15 15 14 14 11
+#3932
+mob duskflame ancient red dragon~
+&KDusk&rF&Rl&Ya&Rm&re&n~
+&KDusk&rF&Rl&Ya&Rm&re&n is here, swimming in his pool of lava.
+~
+  Duskflame was once one of the mightiest red dragons in all the realm. His ferociousness
+was exceeded only by his greed, however, and a rumor of great treasures led him to this volcano.
+He did eventually find this treasure he was looking for, but by then he had grown too large from
+feeding on the people of the city to leave. Now he resides here, forever trapped..waiting for a chance 
+to escape.
+~
+5038110 1343489 136249361 807420092 -1000 S
+50 -30 -40 20d100+70000 25d30+65
+7000000 2500000
+8 8 1
+0 0 17 17 15 16 12 12
+SKILL=SPELL_SLEEP 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 40
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_SKILL=60
+ATTACK_TYPE=105
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_SKILL=60
+ATTACK_TYPE=105
+$~
+#999999

@@ -1,0 +1,139 @@
+#14300
+obj shaman hat~
+10
+Snotling Shamans hat~
+A snotling shamans hat has been tossed aside here.~
+~
+11 0 0 17
+0 0 10 0
+1 5000 750
+A
+4 1
+#14301
+obj scummy green cloak~
+10
+a scummy green cloak~
+A Scummy Green Cloak lays in a heap here.~
+~
+15 0 0 1025
+65 0 10 0
+1 7500 650
+A
+24 2
+#14302
+obj ladel~
+10
+The chef's ladel~
+A chef's ladel is lying here on the ground.~
+~
+5 0 0 8193
+0 1 5 7
+2 20 10
+#14303
+obj chef hat~
+10
+A Chef's Hat~
+A chef's hat is lying here all crumpled up.~
+~
+11 0 0 17
+0 0 10 0
+1 4000 500
+A
+17 2
+A
+22 2
+#14304
+obj crummy sword snotling~
+10
+A crummy small sword~
+A crummy snotling small sword has been wisely dumped here.~
+~
+5 8 0 8193
+0 1 5 3
+3 5 5
+#14305
+obj tatty leather jacket~
+10
+A tatty leather jacket~
+A tatty looking snotling leather jacket has been dumped here.~
+~
+9 0 0 9
+0 0 10 0
+9 5 5
+A
+17 -2
+#14306
+obj sword snotling~
+10
+An impressive short sword~
+An impressive looking snotling short sword~
+~
+5 8 0 8193
+0 2 4 3
+5 5 5
+#14307
+obj jacket flashy leather~
+10
+A flashy leather jacket~
+An impressive snotling leather jacket~
+~
+9 0 0 9
+0 0 10 0
+9 5 5
+A
+17 -3
+#14308
+obj shield flashy snotling~
+10
+A Flashy looking shield~
+Somebody has placed a rather flashy shield here.~
+~
+9 8 0 513
+4 0 10 0
+3 5 5
+#14309
+obj longsword crummy~
+10
+A crummy longsword~
+Somebody has dropped a crummy snotling longsword here.~
+~
+5 8 0 8193
+0 1 7 3
+8 5 5
+A
+19 1
+#14310
+obj firewood thin staff~
+10
+A small thin staff~
+An old piece of firewood is lying here.~
+~
+5 0 0 8193
+0 1 4 7
+2 5 5
+A
+12 10
+#14311
+obj dragon skin tail~
+10
+A dragonskin tail~
+Someone has left a dragons tail laying here.~
+~
+9 0 0 262145
+5 0 0 0
+1 5 5
+A
+19 1
+A
+18 2
+#14312
+obj leather leg wraps snotling~
+15
+&ysome &Gsn&gotli&Gng&K-&yleather leg wraps&n~
+Some crummy looking leg wraps designed for a four legged beast lie here.~
+~
+9 0 0 524289
+3 0 0 0
+5 100 5
+$~
+#999999

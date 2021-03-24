@@ -1,0 +1,639 @@
+#4955
+&CI&Wc&we&Cd &yEarth&n~
+&WFresh snow lies upon the frozen tundra land.  You stand one hundred feet from a mountain that stands as tall as the clouds.  You see a large, carved out hole about three fourths of the way up it.  Whats the significance of that?&n
+~
+48 541065220 536870916 1 99 1
+D0
+More tundra, towards the base of a large mountain
+~
+~
+32 -1 4956
+S
+#4956
+&CI&Wc&we&Cd &yEarth&n~
+&WFresh snow lies upon the frozen tundra land.  You stand seventy five feet from a mountain that stands as tall as the clouds.  You see a large, carved out hole about three fourths of the way up it.  Whats the significance of that?&n
+~
+48 268435460 4 1 99 1
+D0
+More tundra
+~
+~
+32 -1 4957
+D2
+The beginning of the tundra lands
+~
+~
+32 -1 4955
+S
+#4957
+&CI&Wc&we&Cd &yEarth&n~
+&WFresh  snow lies upon the frozen tundra land.  You stand fifty feet from a mountain that stands as tall as the clouds.  You see a large, carved out hole about three fourths of the way up it.  Whats the significance of that?&n
+~
+48 268435460 4 1 99 1
+D0
+More tundra
+~
+~
+32 -1 4958
+D2
+More tundra
+~
+~
+32 -1 4956
+S
+#4958
+&CI&Wc&we&Cd &yEarth&n~
+&WFresh snow lies upon the frozen tundra land.  You stand twenty five feet from a mountain that stands as tall as the clouds.  You see a large, carved out hole about three fourths of the way up it.  Whats the significance of that?&n
+~
+48 268435460 4 1 99 1
+D0
+Base of the mountain
+~
+~
+32 -1 4959
+D2
+More tundra
+~
+~
+32 -1 4957
+S
+#4959
+&WThe Base of the Large Mountain&n~
+&WYou stand at the base of a narrow, yet tall mountain.  It pierces the clouds with its peak.  The snow covered mountain looks like nothing you've seen before.  It's got several grooves from people ages ago ascending the 
+slopy peak.  Looking around you see small animal hides still clinging to what looks almost like petrified wood props.  The several years that it has been erected must have been protected by the cold, preventing it from 
+rotting and ultimately having no trace what-so-ever of this ancient campsite.  You begin to wonder why this campsite is still erected and where the former inhabitants went.&n
+~
+48 268435460 4 1 99 1
+D2
+More tundra
+~
+~
+32 -1 4958
+D4
+Climbing the narrow path up the mountain
+~
+~
+32 -1 4960
+E
+journal final entry~
+1000 years ago, a small tribe of nomads from the lands of preservation found their way to the snowy peaks.  They brought with them the animals from their homeland.  The food grew abundant, and within two days, a new harvest would appear
+ready to reap.  The soil was fresh with mutagens that attacked the animals, causing them to undertake horrible changes.  The affected monsters had a taste  for human organs, and began killing their former masters.  At the base of the peak,
+there is still the hide of a few animals, which were used as tents.  Ascending the mountain and entering the cave they had freshly carved, the humans were placed there, until their feeding frenzy began.  
+~
+S
+#4960
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then ten feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher then
+around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 4 1 99 1
+D4
+Higher up
+~
+~
+0 -1 4963
+D5
+You don't feel that going back down is so safe.
+~
+~
+0 -1 4961
+S
+#4961
+&wFalling off the &WS&wn&Wo&ww&Wy &yPeak&n~
+&WFresh snow lies upon the frozen tundra land.  You stand twenty five feet from a mountain that stands as tall as the clouds.  You see a large, carved out hole about three fourths of the way up it.  Whats the significance of that?&n
+~
+48 268435458 4 1 99 1
+S
+#4962
+&KT&wh&Ke &wC&Ka&wv&Ke&wr&Kn&ws &KDarkened Pool&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You see a blazing sword in a darkened mass.  What is it?&n
+~
+48 272629760 4 1 99 1
+D0
+Inside the cavern
+~
+~
+0 -1 4980
+D1
+Inside the cavern
+~
+~
+0 -1 4977
+D2
+The top of the mountain
+~
+~
+0 -1 4973
+D3
+Inside the cavern
+~
+~
+0 -1 4978
+S
+#4963
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then one hundred feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher then
+around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 4 1 99 1
+D4
+Higher up
+~
+~
+0 -1 4964
+D5
+I don't think it'd be wise to go back down after such an ascent.
+~
+~
+0 -1 4961
+S
+#4964
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then one thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher then
+around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 4 1 99 1
+D4
+Higher up
+~
+~
+0 -1 4965
+D5
+Yeah, thats definitely a steep fall.
+~
+~
+0 -1 4961
+S
+#4965
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then two thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher then
+around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 4 1 99 1
+D4
+Higher up
+~
+~
+0 -1 4966
+D5
+You really wanna risk it?
+~
+~
+0 -1 4961
+S
+#4966
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then three thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher
+then around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 4 1 99 1
+D4
+Higher up
+~
+~
+0 -1 4967
+D5
+Yeah, that'll hurt a little.
+~
+~
+0 -1 4961
+S
+#4967
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then four thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher
+then around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 4 1 99 1
+D4
+Higher up
+~
+~
+0 -1 4968
+D5
+Ouch thats gonna hurt
+~
+~
+0 -1 4961
+S
+#4968
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then five thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher then
+around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 4 1 99 1
+D4
+Higher up
+~
+~
+0 -1 4969
+D5
+Yup, thats gonna suck
+~
+~
+0 -1 4961
+S
+#4969
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then ten thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You begin to see the top of the mountain and the
+small entrance at the top of it.  Maybe going a little bit higher will reveal some more of the top.&n
+~
+48 268435456 4 1 99 1
+D4
+Higher up
+~
+~
+0 -1 4970
+D5
+Hmm, are you stupid?
+~
+~
+0 -1 4961
+S
+#4970
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then fifteen thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You begin to see the top of the mountain and the
+small entrance at the top of it.  Maybe going a little bit higher will reveal some more of the top.&n
+~
+48 268435456 4 1 99 1
+D4
+Higher up
+~
+~
+0 -1 4971
+D5
+Thats a nice big fall!
+~
+~
+0 -1 4961
+S
+#4971
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then twenty thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You begin to see the top of the mountain and the
+small entrance at the top of it.  Maybe going a little bit higher will reveal some more of the top.&n
+~
+48 268435456 4 1 99 1
+D4
+Half way there
+~
+~
+0 -1 4972
+D5
+Oops.
+~
+~
+0 -1 4961
+S
+#4972
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WAt twenty five thousand feet up, you realize you're only half way there.  The air has grown so thin its hard to breathe.  Somehow you find the will to tread on and reach the safety above.  You can see alot more of the top of the peak
+You notice a large cave, and a few wierd symbols that have been etched into the dirt beside it.&n
+~
+48 268435456 4 1 99 1
+D4
+The Top!!
+~
+~
+0 -1 4973
+D5
+Death...anyone?
+~
+~
+0 -1 4961
+S
+#4973
+&WThe Top of the S&wn&Wo&ww&Wy &yPeak&n~
+&WYou have arrived at the top of the mountain.  The air is so thin you can't even have half a breath without wanting to faint from the lack there of.  You see a small pool just inside the cave with a mystical flame burning upon it.
+You notice the wierd symbols etched into the dirt here.   They are too ancient for you to recognize, so giving them nothing but a second glance.  You enter the darkened cavern.&n
+~
+48 268435460 4 1 99 1
+D0
+The darkened pool
+~
+~
+0 -1 4962
+D5
+Ouch
+~
+~
+32 -1 4961
+S
+#4974
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then two thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher then
+around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 0 1 99 1
+S
+#4975
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then two thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher then
+around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 0 1 99 1
+S
+#4976
+&WClimbing the S&wn&Wo&ww&Wy &yPeak&n~
+&WThe base of this mountain is a little more then two thousand feet below you, as you slowly ascend this steep mountain.  Luckily there are alot of grooves on it for climbing purposes.  You still can't see the top or anything higher then
+around twelve thousand feet as the clouds block the view of higher ground.&n
+~
+48 268435456 0 1 99 1
+S
+#4977
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 4 1 99 1
+D3
+Inside the cavern
+~
+~
+0 -1 4962
+D5
+~
+trap~
+15 4962 4993
+S
+#4978
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 4 1 99 1
+D1
+Inside the cavern
+~
+~
+0 -1 4962
+D5
+~
+~
+0 -1 4991
+S
+#4979
+&KThe Height of the Mutation&n~
+&KYou stand amongst cold blooded killers.  These animals slaughtered their masters when they were "evolved" from the strange chemicals the earth started to produce around this area.  The animals revolted and drug their masters
+up into this mountain, and slaughtered them in masses for food.&n
+~
+48 272629760 4 1 99 1
+S
+#4980
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 4 1 99 1
+D0
+Deeper into the cave.
+~
+~
+0 -1 4983
+D2
+The beginning of the cavern
+~
+~
+0 -1 4962
+D5
+A foul stench arises from in there
+~
+~
+16 -1 4979
+S
+#4981
+&KThe Room of the Qis&n~
+&KYou stand amongst cold blooded killers.  These animals slaughtered their masters when they were "evolved" from the strange chemicals the earth started to produce around this area.  The animals revolted and drug their masters
+up into this mountain, and slaughtered them in masses for food.&n
+~
+48 272629760 0 1 99 1
+D5
+Out of the foul room
+~
+~
+0 -1 4987
+S
+#4982
+&yS&Kt&ya&Kl&ya&Kg&yt&Ki&yt&Ke &CM&ci&Cr&cr&Co&cr &wRoom&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D4
+Higher ground
+~
+~
+0 -1 4985
+S
+#4983
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D0
+~
+~
+16 -1 4992
+D1
+Deeper into the cavern
+~
+~
+0 -1 4985
+D2
+Heading towards the murky pool
+~
+~
+0 -1 4980
+D3
+Heading further into the cave
+~
+~
+0 -1 4984
+S
+#4984
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D1
+Heading back to the entrance
+~
+~
+0 -1 4983
+D3
+~
+~
+0 -1 4988
+S
+#4985
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D0
+Heading towards a foul odor
+~
+~
+0 -1 4986
+D3
+Heading back to the entrance
+~
+~
+0 -1 4983
+D5
+A room that has several reflections of a small elven man appears.
+~
+~
+16 -1 4982
+S
+#4986
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D0
+~
+~
+0 -1 4987
+D2
+Heading back towards the entrance
+~
+~
+0 -1 4985
+S
+#4987
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D2
+~
+~
+0 -1 4986
+D4
+Room of a strange beast
+~
+~
+0 -1 4981
+S
+#4988
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D1
+~
+~
+0 -1 4984
+D3
+~
+~
+0 -1 4989
+S
+#4989
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D1
+~
+~
+0 -1 4988
+D5
+~
+~
+0 -1 4990
+S
+#4990
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D4
+~
+~
+0 -1 4989
+S
+#4991
+&KLow Ground in the &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D4
+~
+~
+0 -1 4978
+S
+#4992
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+D2
+~
+~
+16 -1 4983
+S
+#4993
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 1883242496 0 1 99 1
+D4
+~
+trap~
+15 4962 4977
+S
+#4994
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+S
+#4995
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+S
+#4996
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+S
+#4997
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+S
+#4998
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+S
+#4999
+&KInside the Carved Out &yCave&n~
+&KYou stand in a blackened cavern.  The foul stench coming from the water sets of your nostrils as you almost want to vomit from the odor.  You notice the stalactites and stalagmites lining the inside of this place.  You hear soft
+whipsers and have a horrible feeling that someone or something is watching your every move in here.&n
+~
+48 272629760 0 1 99 1
+S
+$~
+#999999

@@ -1,0 +1,1445 @@
+#21100
+mob guard border~
+the Border Guard~
+The Border Guard stands here looking for trouble.
+~
+A young warrior by the looks of him.  You suppose that he is simply putting
+in his required duty before being assigned to a real post.  He looks rather
+bored, considering the lack of excitement that happens here.
+~
+10 1 136249361 0 0 S
+15 10 10 4d8+100 1d10+2
+200 2000
+8 8 0
+1 0 12 11 11 12 10 8
+#21101
+mob Berinthraxus wyrm~
+the Ancient Wyrm Berinthraxus~
+The Ancient Blue Wyrm Berinthraxus welcomes you to your death.
+~
+You are gazing into the eyes of a gigantic ancient wyrm.  Berinthraxus'
+appearance could put the fear of god into any brave warrior, it just happens
+that you were the particular fool who entered his lair.  He stands taller
+that a three-story house and you can't even judge how wide.  His scales are
+thick and look like individual interlocking breastplates.  His claws are the
+size of small giants and his mouth could swallow ettins whole.  His fangs
+are stained with blood and he looks really pissed off.
+~
+1078255630 2392065 136249361 1040449704 -500 S
+45 0 -8 200d20+31000 5d5+20
+800000 1400000
+8 8 1
+11 0 24 25 23 25 19 22
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 30
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=106
+#21102
+mob Peacock Hierophant~
+Peacock, Hierophant of the Cabal~
+Peacock, Hierophant of the Cabal, meticulously examines the grove
+~
+Peacock, appears almost like his namesake.  He is dressed in robes with
+magnificently colored feathers flowing around him.  His hair hangs just
+past his knees and is a rusty-brown color.  He is wearing no shoes or
+leggings that you can see beneath his robes.  His movements suggest that
+he is totally engulfed in his work and either doesn't know of your presense
+or, more likely, doesn't care.  He is the highest ranking druid in all
+the realms and he has more important things to worry about then you.
+~
+1074004110 32769 136249361 1041760426 0 S
+50 0 -8 200d20+30000 10d3+20
+800000 1350000
+8 8 1
+1 0 23 25 23 23 21 22
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 50
+SKILL=SPELL_HEAL_MINOR 80
+SKILL=SPELL_HEAL_MEDIUM 40
+SKILL=SPELL_HEAL_MAJOR 10
+ATTACK_SKILL=99
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#21103
+mob telgar ranger lord~
+Telgar, the Ranger Lord~
+Telgar, the Ranger Lord, contemplates the fate of the forest.
+~
+Telgar stands before you radiating power.  Dressed in bright green platemail
+and armed with a green glowing longsword, with a hooded cloak draped around
+his body, he stands as a true warrior of Mielikki.  He is going over some
+maps and doesn't seem to mind that you are in his quarters.
+~
+1074004366 2129921 136249393 1040711848 0 S
+50 0 -8 200d20+30000 20d3+50
+800000 1350000
+8 8 1
+1 0 24 23 23 23 22 22
+SKILL=SPELL_FIREBALL 80
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 50
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#21104
+mob ludwig henrics~
+Sir Ludwig Von Henrics, the Blue Knight~
+Sir Ludwig Von Henrics, the Blue Knight ponders your significance.
+~
+Sir Ludwig Henrics is the lord of the Tuscan cavaliers.  He stands before you
+as a very imposing sight.  He is over six feet tall with dark brown hair and
+brown eyes which seem to gaze right through you to your very soul.  There are
+many visible scars on his face and neck and the dents in the shield that he
+prominently displays, are no doubt from many vicious battles.  His shield
+displays his coat of arms upon which are several symbols that you do not
+recognize. Sir Ludwig is often referred to as 'The Blue Knight,' a name
+derived from his suit of full platemail which has been enchanted to glow
+blue. You also notice that he seems to have a lot of mobility for someone
+wearing full plate, as well as the fact that he moves without making a sound.
+~
+1074004238 32769 136249393 1040711848 500 S
+50 0 -8 200d20+30000 20d4+50
+800000 1250000
+8 8 1
+1 4 24 22 23 19 19 21
+SKILL=SKILL_KICK 90
+SKILL=SKILL_RESCUE 99
+SKILL=SKILL_EXTRA_DAMAGE 80
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_SECOND 50
+SKILL=SKILL_THIRD 30
+SKILL=SKILL_FOURTH 20
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#21105
+mob goblin screaming green~
+the screaming green goblin~
+A screaming green gobling is slobbering all over the place.
+~
+This thing is truly a disgusting sight.  It is drooling all over itself
+and is a disgusting shade of yellow.  He probably has never heard of using
+water to clean himself either.
+~
+57356 1 136249361 0 -200 S
+4 5 10 2d15+10 1d8+0
+100 600
+8 8 0
+21 0 13 12 12 10 8 11
+#21106
+mob ogre filthy horrible~
+a horribly filthy ogre~
+There is a horribly filthy ogre here eating its latest kill.
+~
+Its skin is a horrid shade of yellow with warty bumps all over.
+It has hair colored a dirty shade of green and its hands look like
+a vultures talons.
+~
+57352 1 136249361 0 -100 S
+9 0 10 5d15+200 5d8+10
+500 7000
+8 8 0
+20 0 18 15 11 12 11 9
+#21107
+mob squirrel small grey~
+a small grey squirrel~
+A small grey squirrel jumps from tree to tree gathering nuts.
+~
+AHH! How cute.  The brown squirrel seems to feel quite safe here.
+Strange. In this wood one would think theat squirrels wouldn't
+stand a chance.
+~
+16777224 1 136249361 524288 0 S
+1 5 20 1d20+5 1d4+0
+0 100
+8 8 0
+0 0 7 12 11 12 8 7
+#21108
+mob squirrel strange gazing ~
+a strange squirrel ~
+A strange squirrel is here staring at you.
+~
+This squirrel seems to be staring at something, although at what you
+cannot be sure.  It would appear that there is some sort of brain
+at work that isn't necessarily that of a squirrel.
+~
+648 1 136249361 524288 0 S
+8 0 0 8d20+20 3d5+2
+0 240
+8 8 0
+0 0 10 14 13 13 11 9
+#21109
+mob bear odd ~
+An odd bear~
+An odd bear is here watching your every move.
+~
+This bear seems to stare with great curiosity at you.  His eyes
+seem to tell a story that he hasn't the ability to speak.
+~
+648 1 136249361 524288 0 S
+12 0 0 12d20+20 6d5+2
+0 3600
+8 8 1
+0 0 14 16 13 12 12 10
+#21110
+mob hawk swooping ~
+A swooping hawk~
+A hawk swoops down at you, but it flys a little strangely.
+~
+The hawk that swoops by you looks very intently, but clearly pulls
+up before coming near you.  It looks like your average red tail
+except you've never seen one that acts so pecularily.
+~
+648 1 136249361 524288 0 S
+10 0 -1 10d20+20 4d5+2
+0 3000
+8 8 0
+0 0 14 12 12 11 10 11
+#21111
+mob tree enchanted ~
+an enchanted tree~
+A strange moving tree walks around on its giant roots.
+~
+This giant tree seems to have roots which act more like legs.  Its
+branches seem to brush against the other trees of the forest in
+a knowing manner, and the other trees seem to move to allow its
+passage.
+~
+520 1 136249361 0 0 S
+35 0 -10 60d20+1500 30d8+20
+150000 100000
+8 8 0
+0 0 19 21 17 17 16 15
+#21112
+mob elemental water~
+the water elemental~
+You can barely make out a strange form in the water.
+~
+A giant swirling whirlpool which blends perfectly with its surroundings.
+It looks like the river itself has come alive to feed on those passing
+by it.
+~
+57358 32769 136249361 101712040 0 S
+35 0 -1 50d40+2000 10d10+10
+10000 210000
+8 8 0
+0 0 20 20 18 17 17 14
+SKILL=SPELL_LIGHTNING_BREATH 90
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#21113
+mob village man~
+a village man~
+A villager stands here smoking his pipe.
+~
+This man looks like he's just put in a hard day's work in the
+fields. He looks like he is about to fall asleep.
+~
+138 1 136249361 0 100 S
+6 15 10 6d15+10 2d8+2
+500 100
+8 8 1
+1 0 12 12 12 12 8 7
+#21114
+mob villager woman~
+a village woman~
+A village woman is here relaxing.
+~
+This woman looks exhausted.  She is relaxing from what was
+clearly a hard day's work in the fields.
+~
+138 1 136249361 0 100 S
+5 15 10 5d15+10 2d6+2
+400 150
+8 8 2
+1 0 13 11 12 11 10 9
+#21115
+mob villager child~
+a village child~
+A village child is here playing.
+~
+This human child seems to have nothing but energy.  He acts like
+you don't exist and just continues to play.
+~
+138 1 136249361 0 100 S
+2 20 15 2d15+10 1d6+1
+0 100
+8 8 0
+1 0 11 10 9 11 7 6
+#21116
+mob villager man farmer~
+a village farmer~
+A village farmer is here tending to the field.
+~
+The farmer looks very tan, probably from working the fields
+all of his life.  He goes at his work with quite a vigor and
+has a tendency to hum aloud.
+~
+136 1 136249361 0 100 S
+5 15 10 5d15+10 2d6+2
+500 160
+8 8 1
+1 0 12 13 10 11 9 7
+#21117
+mob gopher~
+A gopher~
+A gopher is here causing havoc to the farmland.
+~
+This pesky little fellow pops his head up from time to time
+but he doesn't seem to be afraid of the farmers.
+~
+16777224 1 136249361 0 0 S
+1 10 20 2d10+10 1d8+0
+0 60
+8 8 0
+0 0 12 10 9 11 7 8
+#21118
+mob rabbit~
+a rabbit~
+A small rabbit nibbles on some carrots.
+~
+This rabbit is gnawing contentedly on a carrot.  He notices
+your approach, but doesn't seem very concerned.
+~
+16777224 1 136249361 0 0 S
+1 10 20 2d10+10 1d6+0
+0 60
+8 8 0
+0 0 11 13 9 9 8 7
+#21119
+mob squirrel druid farmer~
+Squirrel, the druidic farmer~
+Squirrel, the druid, is overseeing the farmlands.
+~
+Squirrel sits here in meditation.  His hands continually make
+strange gestures then scoop up a bit of soil and disperse
+it evenly around him.  His hair is a dark green hue and
+his clothes have the color of earth itself.
+~
+522 32769 136249361 168 0 S
+20 0 4 10d10+500 15d2+20
+10000 60000
+8 8 0
+1 6 17 17 16 14 14 14
+SKILL=SPELL_CAUSE_CRITIC 99
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MINOR 99
+#21120
+mob bmuhtneerg mage farmer~
+Bmuhtneerg, the magic farmer~
+Bmuhtneerg, the magic farmer, stands deep in concentration.
+~
+Bmuhtneerg chants away and watches as plants begin to grow around
+him. He uses his spells to help the farmers and they work hard to
+keep up with his abilities.  He turns around a lot making
+sure he provides equal attention to each part of the field.
+~
+10 32769 136249361 168 0 S
+20 0 4 10d10+600 10d3+20
+8000 60000
+8 8 1
+15 1 17 18 14 14 12 13
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_FIREBALL 30
+#21121
+mob wolf black male~
+a male black wolf~
+There is a black male wolf licking his lips at your arrival.
+~
+A large black wolf with long hair gazes back at you through
+blood red eyes.  The blood on his teeth suggests that he
+recently fed, but by the way he looks at you, he isn't full.
+~
+16834570 1 136249361 0 -40 S
+8 5 3 8d15+10 2d12+2
+0 2500
+8 8 1
+0 0 13 15 13 11 10 9
+#21122
+mob wolf black female~
+a female black wolf~
+There is a black female wolf growling at you.
+~
+A female wolf who seems to be quite upset at your presence.  Her
+fangs are bared and she appears to be hungry.
+~
+16834570 1 136249361 0 -40 S
+8 5 3 8d15+5 2d10+4
+0 2500
+8 8 2
+0 0 14 14 13 11 9 9
+#21123
+mob dwarf mountain ~
+a mountain dwarf~
+A mountain dwarf is here yelling at you 'Don't go any higher!'
+~
+A stout fellow with a worried look on his face.  He is just over
+three feet tall, but he is sturdily build and his long white
+beard shows his age.  With a stern look on his face he looks
+at you.
+~
+8 32769 136249361 67108864 30 S
+28 0 -2 20d10+1200 5d20+20
+30000 90000
+8 8 1
+2 4 19 15 16 15 13 14
+SKILL=SKILL_KICK 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 50
+SKILL=SKILL_FOURTH 20
+#21124
+mob lion mountain~
+a mountain lion~
+A ferocious mountian lion growls angirly.
+~
+A powerful lion with sharp eyes and a sleek coat of golden
+fur. His legs are muscular from living in these conditions.
+~
+16777224 1 136249361 0 0 S
+8 0 0 8d10+20 2d10+2
+0 240
+8 8 1
+9 0 13 12 12 12 11 9
+#21125
+mob bear black giant~
+a giant black bear~
+You see a giant black bear moving about the grove.
+~
+Its coat is dark as night and as clean as a persian rug.  Its eyes
+are dark brown with a hint of intelligence behind them.  The bear
+looks lazily back at you.
+~
+150995464 1 136249361 0 0 S
+10 0 5 3d50+200 3d15+5
+0 3000
+8 8 0
+0 0 14 13 13 13 10 9
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#21126
+mob druid~
+a druid~
+There is a druid wandering about checking on the animals.
+~
+Wearing non-descript brown robes this druid is at one with nature
+in both spirit and appearance.  His long hair has been dyed green
+to match the leaves he wears as a belt.  His beard is long and
+dirty, but he doesn't seem to mind.
+~
+134218248 1 136249361 33554472 0 S
+23 0 -1 3d60+1300 5d10+20
+40000 280000
+8 8 0
+1 2 14 13 12 13 10 10
+#21127
+mob willow archdruid druid~
+Willow, the Archdruid~
+Willow, the Archdruid, cares for the grove.
+~
+Willow almost looks like his namesake.  He wears the limbs and hanging
+folliage of a willow tree about his body.  His hair showers down around
+him and is a very deep shade of green.  His other clothes are all very
+loose and hanging.  His build is more like a warrior and his attention
+is focused very closely upon the trees of the grove.
+~
+134218248 32769 136249361 100663464 0 S
+30 0 -3 3d60+2400 9d10+40
+100000 180000
+8 8 0
+1 2 18 17 18 17 15 16
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_DODGE 10
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HASTE 99
+SKILL=SPELL_SMITE 99
+#21128
+mob eagle nest archdruid~
+Eagle's Nest, the Archdruid~
+Eagle's Nest, the Archdruid, is here examining the new plants.
+~
+Eagle's Nest seems fixated on birds.  He moves about from tree to
+tree and chirps to each bird in them.  He seems to understand their
+language. He is wearing strange wooden armor with a leaf belt.  His
+hair is short, which you consider odd for a druid, and it is well kept.
+His build is more waifish then human.
+~
+134218248 32769 136249361 100663464 0 S
+30 0 -3 3d60+2400 9d10+40
+100000 180000
+8 8 0
+1 2 19 18 16 17 17 15
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_DODGE 10
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HASTE 99
+SKILL=SPELL_SMITE 99
+#21129
+mob acorn grand druid~
+Acorn, the Grand Druid~
+Acorn, the Grand Druid, is deep in meditation.
+~
+Acorn is the Grand Druid of Tuscany.  His history in this land
+especially during the great war with the forces of Hel is legendary.
+He draws his strength directly from the natural forces around him.
+Shape changing is his specialty.  He is known to take on the forms of
+many of the forest's creatures and move about observing people.  He
+can communicate with any creature in their own toungue without
+trouble. His hair is the color of oak, both in his beard and on
+his head, and his build reminds you of a strong tree as well.
+~
+1074004234 32769 136249361 234881192 0 S
+40 0 -5 8d60+5500 12d10+50
+200000 240000
+8 8 0
+1 2 22 21 19 19 18 20
+#21130
+mob elemental fire~
+fire elemental~
+A writhing flame is burning here.
+~
+A swirling mass of flame.  If it wasn't moving towards you with
+such a direct path you might think this was an ordinary forest
+fire. However, the heat that it generates makes you think that
+it comes from the elemental plane.
+~
+262154 32769 136249361 100665512 0 S
+40 0 -3 50d6+1050 35d2+30
+50000 230000
+8 8 0
+0 0 21 20 21 21 19 16
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_RESCUE 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_SECOND 99
+#21131
+mob elemental earth~
+the earth elemental~
+The earth seems to shift strangely.
+~
+This giant statue of earth stands about fifteen feet above your
+head. Clearly this is no average elemental.  Its arms are the
+size of oak trunks and its head, if hollowed, could make a nice
+dwelling for a couple of trolls.
+~
+262154 32769 136249361 101711912 0 S
+40 0 -3 50d6+3000 70d2+50
+50000 300000
+8 8 0
+0 0 22 21 19 21 19 20
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SPELL_HOLD_PERSON 99
+SKILL=SPELL_HASTE 99
+SKILL=SPELL_EARTHQUAKE 99
+#21132
+mob courser ranger~
+a courser~
+A courser is here, guarding the fort.
+~
+A tall soldier is before you watching you with a suspicous look.
+~
+8 1 136249361 0 0 S
+15 0 -2 10d10+500 5d10+10
+10000 50000
+8 8 0
+0 0 15 15 12 12 13 11
+#21133
+mob tracker ranger~
+a tracker~
+There is a ranger here, apparently tracking someone.
+~
+A lithe man stands examining everything around him.
+~
+8 1 136249361 0 0 S
+20 0 -3 20d10+800 8d10+10
+30000 140000
+8 8 1
+0 0 17 15 14 14 12 11
+#21134
+mob belor ranger~
+Belor, the Ranger~
+Belor, the Ranger is here, practicing his gardening techniques.
+~
+Before you is the famous ranger Belor.  He stands a good six feet
+tall and he lovingly cares for his small garden.
+~
+8 1 136249361 101187592 0 S
+25 0 -4 20d10+1100 12d10+10
+50000 210000
+8 8 1
+0 0 18 17 16 15 14 15
+#21135
+mob corwel ranger~
+Corwel, the Ranger~
+Corwel, the Ranger, is here practicing his gardening techniques.
+~
+A tall ranger stands tending his garden.  He turns to you and smiles.
+Amazingly it is the ever valiant Corwel.
+~
+8 1 136249361 100663336 0 S
+25 0 -4 20d10+1100 12d10+10
+50000 210000
+8 8 1
+0 0 18 17 16 17 15 13
+#21136
+mob triumph ranger knight~
+Sir Triumph, the Ranger Knight~
+Sir Triumph, the Ranger Knight, guards the locked door.
+~
+The door before you is guarded by a wall... er..hmm actually
+Sir Triumph the much touted Ranger Knight guards the way
+further in.  He is remarkably powerful looking and you shiver
+despite yourself.
+~
+262922 1 136249361 100663464 0 S
+40 0 -5 8d50+5000 15d10+30
+100000 1025000
+8 8 1
+0 0 22 23 20 21 20 20
+#21137
+mob bloodhound blood hound~
+a bloodhound~
+A hound from the deep abyss is glaring at you evily.
+~
+A very muscular dog with flames licking its pelt stands before you.
+~
+262152 1 136249361 33558568 -200 S
+40 0 -4 3d50+4000 15d5+50
+80000 975000
+8 8 0
+0 0 21 21 19 19 19 18
+#21138
+mob master hunt ~
+the Master of the Hunt~
+The Master of the Hunt is tracking his next kill.
+~
+A tall muscular looking man stands before you.  He is about
+nine feet tall with antlers sprouting from his head.  A soft
+pelt of fur covers the lower half of his body.
+~
+262664 1 136249361 100663464 -200 S
+40 0 -5 5d100+6000 20d8+80
+150000 1025000
+8 8 1
+0 0 22 23 19 20 17 17
+#21139
+mob horseman cavalier~
+a Horseman~
+A young man is here performing small duties.
+~
+A smallish young man stands carefully grooming a powerful
+horse.  He lovingly applies every stroke.
+~
+8 1 136249361 0 100 S
+5 10 10 5d10+10 1d6+5
+2000 100000
+8 8 1
+0 0 13 14 12 11 8 7
+#21140
+mob lancer cavalier~
+a Lancer~
+A man with a lance is here.
+~
+A man with a tall lance dressed in leather armor is before you.
+~
+8 1 136249361 0 100 S
+7 6 8 7d10+10 2d5+5
+3000 150000
+8 8 1
+0 0 12 13 11 11 9 10
+#21141
+mob armiger cavalier~
+an Armiger~
+There is an armiger here trying out his armor.
+~
+A man gentle admires the craftmanship of a suit of armour.
+~
+8 1 136249361 0 100 S
+10 3 7 12d7+20 2d6+10
+7000 75000
+8 8 1
+0 0 14 12 12 12 12 10
+#21142
+mob esquire cavalier~
+an Esquire~
+An Esquire stands at the ready.
+~
+A warrior stands ready to enter the fray.
+~
+8 1 136249361 0 100 S
+14 0 5 15d10+30 3d6+20
+10000 150000
+8 8 1
+0 0 14 14 14 13 10 11
+#21143
+mob errant knight cavalier~
+a Knight Errant~
+A newly knighted errant examines his armor.
+~
+A newly vested Knight errant prepares for his journeys.
+~
+8 1 136249361 0 100 S
+20 0 4 20d10+50 3d8+30
+15000 300000
+8 8 1
+0 0 17 18 15 14 13 12
+#21144
+mob bachelor knight cavalier~
+a Knight Bachelor~
+A Bachelor Knight is preparing for his grand ceremony of entrance
+~
+A Knight prepares for his ceremony.
+~
+8 1 136249361 0 100 S
+23 0 3 30d10+70 3d8+40
+25000 400000
+8 8 1
+0 0 17 16 15 15 15 15
+#21145
+mob knight cavalier~
+a Knight~
+A knight stands rigid here.
+~
+A tall cavalier in a Knight's armor is preparing for glorious
+combat.
+~
+262152 1 136249361 0 100 S
+26 0 2 50d10+80 10d3+50
+33000 400000
+8 8 1
+0 0 17 18 17 17 13 14
+#21146
+mob banneret cavalier~
+a Banneret~
+A bold banneret awaits a challenge.
+~
+A bold man awaits your challenge.
+~
+262152 1 136249361 0 100 S
+33 0 0 10d10+800 6d8+90
+60000 150000
+8 8 1
+0 0 20 19 18 18 17 18
+#21147
+mob chevalier cavalier~
+a Chevalier~
+Awaiting his promotion, a chevalier prepares here.
+~
+A tall chevalier stands at attention awaiting the eyes of his
+superior.
+~
+262152 1 136249361 0 100 S
+36 0 -1 15d10+1200 6d15+100
+80000 300000
+8 8 1
+0 0 20 19 19 20 18 16
+#21148
+mob golem ancient mithril~
+an Ancient Mithril Golem~
+A statue of brilliant mithril guards the door.
+~
+An automaton made of pure mithril stands silently here awaiting the
+call of its creator.
+~
+8708110 1 136249361 1174405288 0 S
+40 0 -7 50d80+10000 12d30+100
+400000 400000
+8 8 0
+0 0 21 23 21 19 20 19
+#21149
+mob demilich lich~
+the Demilich~
+A skull with glowing red eyes glares evily at you.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+33944334 1 136249361 1175453866 -200 S
+50 0 -8 60d80+15000 30d30+0
+600000 700000
+8 8 0
+0 0 23 24 22 22 22 18
+#21150
+mob greel esquire~
+Greel, the Esquire Guard~
+Greel stands at the ready, guarding the door.
+~
+The noble knight before you stands ever viligant awaiting for his
+chance to once again shine in combat.
+~
+262154 1 136249361 136 100 S
+20 0 4 20d10+50 3d8+30
+15000 800000
+8 8 1
+0 0 17 16 14 15 15 11
+#21151
+mob barrow knight errant~
+Sir Barrow, the Knight Errant~
+Sir Barrow is standing before a brass door.
+~
+A tall warrior in brass-plated armour stands before this great
+door.  He eyes you warily as you approach his hand reaching for
+his blade.
+~
+262154 1 136249361 136 100 S
+23 0 3 30d10+70 3d8+40
+25000 550000
+8 8 1
+0 0 17 18 15 16 15 15
+#21152
+mob timor knight bachelor~
+Sir Timor, the Knight Bachelor~
+Sir Timor guards the bronze door.
+~
+A tall warrior in bronze-armour awaits you before this very solid
+looking door.
+~
+262154 1 136249361 136 100 S
+26 0 2 50d10+80 10d3+50
+33000 600000
+8 8 1
+0 0 18 19 15 16 13 15
+#21153
+mob briara knight cavalier~
+Sir Briara, the Knight~
+Sir Briara, the Knight, stands here polishing his shield.
+~
+A short stocky looking warrior with a shield almost his size
+rests lazily against the wall here.
+~
+262154 1 136249361 136 100 S
+30 0 1 8d10+500 12d3+70
+45000 600000
+8 8 1
+0 0 19 17 16 18 16 13
+#21154
+mob silverstreak elf~
+Sir Silverstreak, the Elven Tower Guard~
+Sir Silverstreak, glows of sapphire.
+~
+A lithe elven warrior with an immense blue bow rests against the
+far wall.  He uncoils his tall frame as you approach.
+~
+262154 1 136249361 136 100 S
+33 0 0 10d10+800 6d8+90
+60000 600000
+8 8 1
+0 0 19 20 18 17 16 14
+#21155
+mob mentor grand knight~
+Sir Mentor, the Grand Knight~
+Sir Mentor, stands watchfully over the antechamber.
+~
+An older looking knight in battlestained armor stands at attention
+before you.
+~
+262154 1 136249361 136 100 S
+30 0 1 8d10+500 12d3+70
+45000 600000
+8 8 1
+0 0 19 19 17 16 17 13
+#21156
+mob randal grand knight~
+Sir Randal, the Grand Knight~
+Sir Randal, stands watchfully over the antechamber.
+~
+An older man in grand armor stands watchfully at his post.
+~
+262154 1 136249361 136 100 S
+30 0 1 8d10+500 12d3+70
+45000 600000
+8 8 1
+0 0 19 20 17 17 15 14
+#21157
+mob abelson chambers ~
+Sir Abelson, the Chambers Guard~
+Sir Abelson, guards the chambers.
+~
+Abelson stands before you in this small chamber.  He is powerfully
+built and stands ever viligant at his task.
+~
+262154 1 136249361 136 100 S
+30 0 1 8d10+500 12d3+70
+45000 600000
+8 8 1
+0 0 18 17 16 18 17 14
+#21158
+mob randal benzidar trainer~
+Sir Randal Benzidar, the Master Trainer~
+Sir Randal Benzidar practices his skills.
+~
+Randal Benzidar is one of the most fit people you will ever meet.
+Every point of his body seems as if it is chiseled in stone.  He
+practices quitely to himself going through a long regime of
+exercises.
+~
+327694 1 136249361 1174405288 100 S
+40 0 -4 12d80+5000 13d20+100
+100000 600000
+8 8 1
+0 0 22 20 20 19 17 17
+#21159
+mob windsor strongarm~
+Sir Windsor Strongarm, the Weapons Master~
+Sir Windsor Strongarm sharpens his weapons.
+~
+A tall knight with a bushy mustache sharpens his gorgeous
+weapons as he watches you enter.
+~
+262158 1 136249361 1174405288 100 S
+40 0 -4 12d80+5000 13d20+100
+100000 600000
+8 8 1
+0 0 22 20 19 20 18 17
+#21160
+mob mathis eruid ivory~
+Sir Mathis Eurid, the Ivory Guard~
+Sir Mathis Eurid glows of ivory.
+~
+A tall night dressed in the finest ivory battle gear you
+have ever seen stands pouring over some battle maps.
+~
+262158 1 136249361 1174405288 100 S
+40 0 -4 12d20+2000 10d20+80
+100000 600000
+8 8 1
+0 0 21 23 21 20 20 20
+#21161
+mob grendall von dennel~
+Sir Grendall Von Dennal, the Cavalier/Sorcerer~
+Sir Grendall Von Dennal, delicately mixes some potions.
+~
+This knight is odd for he wears the robes of a knight but not
+the armor and instead of practicing with his weapons he is
+slowly mixing many delicate potions.
+~
+328462 1 136249361 1175453866 100 S
+45 0 -5 50d10+7000 17d20+120
+200000 600000
+8 8 1
+0 0 22 23 22 20 19 17
+#21162
+mob golem ivory~
+the Ivory Golem~
+A giant statue of Ivory seem to stare at you.
+~
+A tall automaton made of pure ivory stands awaiting the call of its
+creator.  It makes the perfect guard as it never grows tired of
+standing at its post.
+~
+8724494 1 136249361 1174405288 0 S
+40 0 -7 50d80+10000 12d30+100
+400000 600000
+8 8 0
+0 0 22 23 19 20 17 18
+#21163
+mob endar marrot~
+Sir Endar Marrot, the Lord of Mounts~
+Sir Endar Marrot polishes a HUGE saddle.
+~
+A rough looking knight with powerful looking shoulders stands
+beside a warhorse polishing his saddle.
+
+~
+262158 1 136249361 1174405290 0 S
+45 0 -8 60d90+15000 12d10+0
+500000 600000
+8 8 1
+0 0 23 22 20 20 19 21
+#21164
+mob lucifanticus wyrm~
+The Ancient Wyrm of Luck, Lucifanticus~
+Lucifanticus, the Ancient Luck Wyrm rests easily here.
+~
+This enormous beast has the eyes of a kitten.  He seems to look at
+you as if waiting to receive a scratch.  Make no mistake though he
+is one of the largest creatures you've ever seen.  The entire
+roof of the tower is his lair.  From head to tip of tail you'd guess
+him to be no shorter than one-hundred feet long.  His wings, although
+tucked, appear as if they could block out the sun.  There is a
+bright golden stripe down his back, starting at his neck.  His underbelly
+is as white as ivory and you'd almost swear that his scales are made
+of ivory.
+~
+1212527374 32769 136249393 1308623016 0 S
+50 0 -5 60d80+15000 10d10+20
+600000 1400000
+8 8 0
+0 0 24 22 21 23 19 20
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_CURE_BLIND 99
+SKILL=SPELL_REMOVE_POISON 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_UNDETECT_INVIS 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_HASTE 99
+SKILL=SPELL_AID 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=106
+#21165
+mob xavier canadrel~
+Sir Xavier Canadrel, the Ivory Keeper~
+Sir Xavier Canadrel has an ivory glow about him.
+~
+A tall knight stands at attention.  He is dressed all in ivory and
+his armor seems to glow with a very bright light.
+~
+262158 1 136249361 1174405288 100 S
+30 0 1 8d10+500 12d3+70
+45000 600000
+8 8 1
+0 0 19 17 16 18 16 14
+#21166
+mob blank~
+the left-handed caryatid column~
+A statue, guarding the right side of a door moves towards you.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+319502 1 136249361 100663464 0 S
+40 0 -12 40d100+10000 3d20+100
+0 600000
+8 8 1
+0 0 21 20 19 21 20 17
+#21167
+mob blank~
+the right-handed caryatid column~
+A statue, guarding the left side of a door moves towards you.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+134537230 1 136249361 100663464 0 S
+40 0 -12 40d100+10000 3d20+100
+1 600000
+8 8 0
+0 0 22 20 20 19 17 16
+#21168
+mob slatag~
+Slatag~
+The Slatag eyes you and charges.
+~
+The mere sight of this monster makes you wish you had stayed
+away.  It is a bipedal beast with numerous limbs with which to
+attack you with.  Its carapace is reflective and looks to be
+incredibly hard.  His head is mostly mouth with a huge metallic
+object stuck atop.  The Slatag prepares to charge.
+~
+1140973580 2916353 136249393 1325662760 -400 S
+50 0 -15 30d60+20000 15d5+20
+1000000 1500000
+8 8 0
+0 0 24 23 21 23 20 19
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_RESCUE 99
+SKILL=SKILL_PARRY 80
+SKILL=SKILL_DODGE 60
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#21169
+mob ichzentenopheous~
+Ichzentenopheous, the Mental Mystic~
+A VERY old man is deep in contemplation.
+~
+A man who radiates such a glow must surely be magical.  His body
+itself seems to give off a magical hue.  His white hair seems to
+touch his ankles yet he has the face of a nineteen year old.
+He never seems to be in one place, his body seems to move though
+you are sure he is sitting perfectly still.  His cloak seems to
+have a life of its own as well.  The greens of it seem to be a
+smoke which moves about the purple fabric.
+~
+1141112846 262145 136249361 570687656 0 S
+60 0 -15 30d60+15000 20d5+20
+1000000 1400000
+8 8 0
+1 0 27 25 26 25 24 24
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#21170
+mob blank~
+Vainamoinen, Hero of the Kalevala~
+A mighty Finnish hero stands here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262926 1 136249361 100663464 200 S
+50 0 -6 14d30+20000 25d15+100
+400000 0
+8 8 0
+0 0 24 22 22 22 22 20
+#21171
+mob blank~
+Kullervo, Hero of the Kalevala~
+A mighty Finnish hero stands here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+319758 1 136249361 100663464 0 S
+50 0 -6 14d30+20000 25d15+100
+400000 0
+8 8 0
+0 0 24 25 23 23 22 20
+#21172
+mob blank~
+Scales of the Slatag~
+A mighty Finnish hero stands here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262926 1 136249361 100663464 50 S
+50 0 -6 14d30+20000 25d15+100
+400000 0
+8 8 0
+0 0 24 22 23 23 21 22
+#21173
+mob blank~
+Lemminkainen, Hero of the Kalevala~
+A mighty Finnish hero stands here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262926 1 136249361 100663464 50 S
+50 0 -6 14d30+20000 25d15+100
+400000 0
+8 8 0
+0 0 23 23 21 22 20 18
+#21174
+mob blank~
+Tiera, Lemminkainen's Shield Man~
+A mighty shield man, guard's a Finnish Hero.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262158 1 136249361 100663464 200 S
+40 0 -6 80d30+10000 20d10+90
+200000 0
+8 8 0
+0 0 22 23 19 19 19 16
+#21175
+mob blank~
+Ilmatar, Goddess of Mothers~
+The Goddess of Mothers watches over the nursery.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262926 1 136249361 637534376 300 S
+60 0 -15 50d70+30000 20d20+50
+800000 0
+8 8 0
+0 0 26 26 24 24 25 23
+#21176
+mob blank~
+Mielikki, the Goddess of Nature~
+The Mistress of the Forest watches over nature.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262926 1 136249361 637534376 50 S
+60 0 -15 50d70+30000 20d20+50
+800000 0
+8 8 0
+0 0 27 27 25 26 22 23
+#21177
+mob blank~
+Untamo, God of Sleep and Dreams~
+A Finnish God stands here putting people to sleep.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262926 1 136249361 637534376 0 S
+60 0 -15 50d70+30000 20d20+50
+800000 0
+8 8 0
+0 0 26 25 26 25 22 22
+#21178
+mob blank~
+Kiputytto, Goddess of Sickness~
+The Mother of the Plague is here causing disease.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+385806 1 136249361 637534376 -300 S
+60 0 -15 50d70+30000 20d20+50
+800000 0
+8 8 0
+0 0 27 25 26 26 24 25
+#21179
+mob blank~
+Loviatar, Goddess of Hurt~
+The Maiden of Pain decides to torture you next.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+320270 1 136249361 637534376 -200 S
+60 0 -15 50d70+30000 20d20+50
+800000 0
+8 8 0
+0 0 26 28 26 25 22 25
+#21180
+mob blank~
+Surma, Demigod of Death~
+A gigantic demigod calls for your death.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+385806 1 136249361 637534376 -100 S
+60 0 -15 50d70+30000 20d20+50
+800000 0
+8 8 0
+0 0 26 25 26 24 23 24
+#21181
+mob blank~
+Louhi, Old Crone of Pohjola~
+An old woman is here, looking over the events in Pohjola.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+385806 1 136249361 603979944 -200 S
+50 0 -1 14d40+10000 15d15+100
+300000 0
+8 8 0
+0 0 24 23 21 22 22 21
+#21182
+mob blank~
+Son of Pohjola~
+A mighty evil hero of the Kalevala stands here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+320270 1 136249361 67109032 -200 S
+50 30 -1 14d40+10000 15d15+100
+300000 0
+8 8 0
+0 0 23 22 23 22 22 20
+#21183
+mob blank~
+Hiisi, God of Evil~
+A Greater God stands here looking over all that is evil.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+385806 1 136249361 1174407336 -300 S
+70 0 -20 90d90+40000 30d30+50
+1000000 0
+8 8 0
+0 0 28 27 27 26 26 27
+#21184
+mob blank~
+Tuoni, God of the Underworld~
+The Lord of the Underworld readies his weapon.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+319502 1 136249361 1174405288 -10 S
+70 0 -20 90d90+40000 30d30+50
+1000000 0
+8 8 0
+0 0 28 27 27 26 24 25
+#21185
+mob blank~
+Tuonetar, Goddess of the Underworld~
+The Lady of the Underworld readies her weapon.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+320270 1 136249361 1174405288 -300 S
+70 0 -20 90d90+40000 30d30+50
+1000000 0
+8 8 0
+0 0 29 27 27 28 24 23
+#21186
+mob blank~
+Ahto, God of Seas and Waters~
+There is a strange yet powerful presence in the water.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262926 1 136249361 1174405288 100 S
+70 0 -20 90d90+40000 30d30+50
+1000000 0
+8 8 0
+0 0 29 30 26 27 24 23
+#21187
+mob blank~
+Water Dwarf, Shield Man for Ahto~
+A powerful shield man is here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262158 1 136249361 100663464 300 S
+50 0 -6 14d30+20000 25d15+100
+400000 0
+8 8 0
+0 0 24 24 23 22 20 18
+#21188
+mob blank~
+Ukko, Supreme God of the Kalevala~
+The Supreme God of the Kalevala stands here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262922 1 136249361 1174405288 300 S
+75 0 -30 70d100+60000 40d20+100
+1500000 0
+8 8 0
+0 0 30 28 28 28 28 25
+#21189
+mob blank~
+Air Maiden, Ukko's Warrior~
+A man stands here, guarding the tower.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262926 1 136249361 637534376 300 S
+50 0 -6 14d30+20000 25d15+100
+400000 0
+8 8 0
+0 0 23 23 22 22 20 18
+#21190
+mob tower guard~
+a Tower Guard~
+A man stands here guarding the entrance to the tower.
+~
+A powerfully built man in armor prevents your passage.
+~
+10 1 136249361 0 100 S
+25 20 7 10d8+75 5d10+10
+2000 100000
+8 8 1
+0 0 14 12 11 12 10 8
+#21191
+mob blank~
+green wolf~
+A large green wolf growls angrily at you.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+17096714 1 136249361 100663464 -100 S
+20 0 -2 30d8+400 60d60+60
+0 0
+8 8 0
+0 0 17 18 16 16 15 12
+#21192
+mob blank~
+a green hawk~
+A giant green hawk circles you as it prepares to strike.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+17096714 1 136249361 100663336 -100 S
+20 0 -2 50d50+300 60d60+60
+0 0
+8 8 0
+0 0 17 17 14 14 12 14
+#21193
+mob blank~
+a purple warrior~
+A warrior dressed in purple charges you!
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+319498 1 136249361 100663466 -500 S
+40 0 -4 30d30+100 20d20+50
+0 0
+8 8 0
+0 0 21 21 21 20 18 20
+#21194
+mob blank~
+a giant white wolf~
+A huge white wolf with glowing red eyes attacks!
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+17096714 1 136249361 100663464 -200 S
+35 0 -4 60d20+500 20d30+100
+0 0
+8 8 0
+0 0 20 18 17 18 15 15
+#21195
+mob blank~
+an evil hero~
+An extremely bold hero is very upset that he has been called.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+319498 1 136249361 100663464 -200 S
+30 0 -4 30d30+400 20d40+0
+100000 0
+8 8 0
+0 0 18 18 17 16 15 15
+#21196
+mob merker~
+Merker the Grocer~
+Merker stands ready to serve you.
+~
+A tall smartly dressed gentleman waits to wait on you.
+~
+10 1 136249361 1073741952 0 S
+48 40 40 1d1+100000 100d100+19
+1000000 0
+8 8 1
+0 0 16 16 15 15 14 14
+$~
+#999999

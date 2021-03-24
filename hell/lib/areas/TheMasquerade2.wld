@@ -1,0 +1,395 @@
+#20610
+&KTotal Darkness&n~
+&KAs you pull open the trapdoor, you find yourself facing....nothing.  The inky blackness below you is quite astounding, never have you met with a path so devoid of color and light.
+Feeling around you grasp what seems to be a ladder, made of some sort of rope or twine, and you begin to climb downward.
+~
+161 1343225992 536870912 41 75 1
+D4
+&cSpiraling Into Darkness&n
+~
+trapdoor~
+1 0 20506
+D5
+&KDarkness&n
+~
+~
+16 -1 20611
+S
+#20611
+&KTotal Darkness&n~
+&KThe further you progress, the further you seem to be from your goal, the darkness however prevents any true knowledge of your surroundings.  As the stale air seeps into your nostrils you take a deep breath, and press on.
+~
+161 1343225992 536870912 41 75 1
+D4
+&KDarkness&n
+~
+~
+16 -1 20610
+D5
+&KDarkness&n
+~
+~
+16 -1 20612
+S
+#20612
+&KTotal Darkness&n~
+&KThe further you progress, the further you seem to be from your goal, the darkness however prevents any true knowledge of your surroundings.  As the stale air seeps into your nostrils you take a deep breath, and press on.
+~
+161 1343225992 536870912 41 75 1
+D4
+&KDarkness&n
+~
+~
+16 -1 20611
+D5
+&KDarkness&n
+~
+~
+16 -1 20613
+S
+#20613
+&KTotal Darkness&n~
+&KThe further you progress, the further you seem to be from your goal, the darkness however prevents any true knowledge of your surroundings.  As the stale air seeps into your nostrils you take a deep breath, and press on.
+~
+161 1343225992 536870912 41 75 1
+D4
+&KDarkness&n
+~
+~
+16 -1 20612
+D5
+&KDarkness&n
+~
+~
+16 -1 20614
+S
+#20614
+&KTotal Darkness&n~
+&KThe further you progress, the further you seem to be from your goal, the darkness however prevents any true knowledge of your surroundings.  As the stale air seeps into your nostrils you take a deep breath, and press on.
+~
+161 1343225992 536870912 41 75 1
+D4
+&KDarkness&n
+~
+~
+16 -1 20613
+D5
+&KDarkness&n
+~
+~
+16 -1 20615
+S
+#20615
+&KTotal Darkness&n~
+&KThe further you progress, the further you seem to be from your goal, the darkness however prevents any true knowledge of your surroundings.  As the stale air seeps into your nostrils you take a deep breath, and press on.
+~
+161 1343225992 536870912 41 75 1
+D4
+&KDarkness&n
+~
+~
+16 -1 20614
+D5
+&KDarkness&n
+~
+~
+16 -1 20616
+S
+#20616
+&KTotal Darkness&n~
+&KThe further you progress, the further you seem to be from your goal, the darkness however prevents any true knowledge of your surroundings.  As the stale air seeps into your nostrils you take a deep breath, and press on.
+~
+161 1343225992 536870912 41 75 1
+D4
+&KDarkness&n
+~
+~
+16 -1 20615
+D5
+&KDarkness&n
+~
+~
+16 -1 20617
+S
+#20617
+&KTotal Darkness&n~
+&KThe further you progress, the further you seem to be from your goal, the darkness however prevents any true knowledge of your surroundings.  As the stale air seeps into your nostrils you take a deep breath, and press on.
+~
+161 1343225992 536870912 41 75 1
+D4
+&KDarkness&n
+~
+~
+16 -1 20616
+D5
+&KDarkness&n
+~
+~
+16 -1 20618
+S
+#20618
+&KTotal Darkness&n~
+&KThe further you progress, the further you seem to be from your goal, the darkness however prevents any true knowledge of your surroundings.  As the stale air seeps into your nostrils you take a deep breath, and press on.
+~
+161 1343225992 536870912 41 75 1
+D4
+&KDarkness&n
+~
+~
+16 -1 20617
+D5
+&KDarkness&n
+~
+~
+16 -1 20619
+S
+#20619
+&KTotal Darkness&n~
+&KThe further you progress, the further you seem to be from your goal, the darkness however prevents any true knowledge of your surroundings.  As the stale air seeps into your nostrils you take a deep breath, and press on.
+~
+161 1343225996 536870912 41 75 1
+D4
+&KDarkness&n
+~
+~
+16 -1 20618
+D5
+&KA Dusty Chamber&n
+~
+~
+16 -1 20620
+S
+#20620
+&KA Dusty Chamber&n~
+&KYou find yourself in a vast chamber in the core of the planet.  The darkness becomes less overwhelming as a &Wsmall ray of light &Kpenetrates through a crack in the wall.  As your eyes adjust you realize the room is shaped like a dome.
+As you ponder what use this place serves you notice a long black box in the corner, and a pair of red beady eyes staring at you.
+~
+161 269484040 536870912 41 75 1
+D4
+&KTotal Darkness&n
+u
+~
+~
+16 -1 20619
+E
+ray light~
+&WA holy glow fills you as you gaze into the light, and you gain knowledge of the quest Malkavian worked so very hard to complete.&n
+
+
+&c--By first transporting yourself to the Temple of the Ancients by means of those who tear flesh, you may then access the teleportation chamber.  From there the components gained from the minions of the skin may be used.
+If, and only if you succeed in both these tasks, will you be granted the ability to forge together its pieces, and make the great sigil whole once again.&n
+~
+S
+#20621
+&KInside the coffin&n~
+&KHrm, you seem to be inside Malkavians coffin, how did you manage to get in here?
+~
+161 1879048200 536870912 41 75 1
+D3
+~
+~
+0 -1 20620
+S
+#20622
+&KFalling into Darkness&n~
+&KYour hands slip, your feet fail you, you scream as you start to slide, your fingertips pass over the twine and with your last effort to save yourself you hurl your body forward, but it is to no avail, and you begin to fall......
+     F
+          A
+               L
+                    L
+                         I
+                              N
+                                   G
+     F
+          A
+               L
+                    L
+                         I
+                              N
+                                   G
+     F
+          A
+               L
+                    L
+                         I
+                              N
+                                   G
+~
+161 1879048334 0 41 75 1
+S
+#20623
+&gThe Hunting Grounds of the Sabbat&n~
+&cThe devoured bodies of humans and kindred alike lie all around you.  The stench from their decomposing bodies is enough to draw the vomit from the pits of your stomach.
+As you lean over to relieve yourself, you notice a young Sabbat diablerizing the body of a slain Lasombra.  Perhaps you shouldnt stay here very long.&n
+~
+161 1074790408 0 41 75 1
+D0
+the hunting grounds
+~
+~
+0 -1 20627
+D1
+the hunting grounds
+~
+~
+0 -1 20627
+D2
+the hunting grounds
+~
+~
+0 -1 20624
+D3
+the hunting grounds
+~
+~
+0 -1 20628
+S
+#20624
+&gThe Hunting Grounds of the Sabbat&n~
+&che devoured bodies of humans and kindred alike lie all around you.  The stench from their decomposing bodies is enough to draw the vomit from the pits of your stomach.
+As you lean over to relieve yourself, you notice a young Sabbat diablerizing the body of a slain Gangrel.  Perhaps you shouldnt stay here very long.
+&n
+~
+161 1343225864 0 41 75 1
+D0
+the hunting grounds
+~
+~
+0 -1 20623
+D1
+the hunting grounds
+~
+~
+0 -1 20628
+D2
+the hunting grounds
+~
+~
+0 -1 20625
+D3
+the hunting grounds
+~
+~
+0 -1 20623
+S
+#20625
+&gThe Hunting Grounds of the Sabbat&n~
+&cThe devoured bodies of humans and kindred alike lie all around you.  The stench from their decomposing bodies is enough to draw the vomit from the pits of your stomach.
+As you lean over to relieve yourself, you notice a young Sabbat diablerizing the body of a slain Lasombra.  Perhaps you shouldnt stay here very long.&n
+~
+161 1343225864 0 41 75 1
+D0
+the hunting grounds
+~
+~
+0 -1 20624
+D1
+the hunting grounds
+~
+~
+0 -1 20625
+D2
+the hunting grounds
+~
+~
+0 -1 20626
+D3
+the hunting grounds
+~
+~
+0 -1 20624
+D5
+a hole in the earth
+~
+~
+16 -1 20406
+S
+#20626
+&gThe Hunting Grounds of the Sabbat&n~
+&cThe devoured bodies of humans and kindred alike lie all around you.  The stench from their decomposing bodies is enough to draw the vomit from the pits of your stomach.
+As you lean over to relieve yourself, you notice a young Sabbat diablerizing the body of a slain Nosferatu.  Perhaps you shouldnt stay here very long.&n
+~
+161 1343225868 0 41 75 1
+D0
+the hunting grounds
+~
+~
+0 -1 20625
+D1
+the hunting grounds
+~
+~
+0 -1 20628
+D2
+the mouth of a cave
+~
+~
+0 -1 20500
+D3
+the hunting grounds
+~
+~
+0 -1 20623
+S
+#20627
+&gThe Hunting Grounds of the Sabbat&n~
+&cThe devoured bodies of humans and kindred alike lie all around you.  The stench from their decomposing bodies is enough to draw the vomit from the pits of your stomach.
+As you lean over to relieve yourself, you notice a young Sabbat diablerizing the body of a slain Lasombra.  Perhaps you shouldnt stay here very long.&n
+~
+161 1343227912 0 41 75 1
+D0
+the hunting grounds
+~
+~
+0 -1 20625
+D1
+the hunting grounds
+~
+~
+0 -1 20626
+D2
+the hunting grounds
+~
+~
+0 -1 20623
+D3
+the hunting grounds
+~
+~
+0 -1 20623
+S
+#20628
+&gThe Hunting Grounds of the Sabbat&n~
+&cThe devoured bodies of humans and kindred alike lie all around you.  The stench from their decomposing bodies is enough to draw the vomit from the pits of your stomach.
+As you lean over to relieve yourself, you notice a young Sabbat diablerizing the body of a slain Lasombra.  Perhaps you shouldnt stay here very long.&n
+~
+161 1343226888 0 41 75 1
+D0
+the hunting grounds
+~
+~
+0 -1 20625
+D1
+the hunting grounds
+~
+~
+0 -1 20623
+D2
+the hunting grounds
+~
+~
+0 -1 20623
+D3
+the hunting grounds
+~
+~
+0 -1 20627
+S
+#20629
+&KA deep pit&n~
+&cYou scream in terror as you fall to your death, the victim of a Sabbat hunting trap.&n
+~
+161 1879048206 0 41 75 1
+S
+$~
+#999999

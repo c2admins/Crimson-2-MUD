@@ -3,69 +3,39 @@ This directory contains the data files used by the game.
 CONTENTS:
 --------
 
-DIRECTORIES
+ACTIONS         - The 'social actions'. See actions.doc for the data format.
 
-/areas          - This is where all of the world files are stored. Contains .mob, .zon, .obj, and .wld files
-                  Also contains some scripts
-/boards         - Several binary files containing the contents of the bulletin boards.
+/boards          - A binary file containing the contents of the bulletin board.
 
-/clans          - Data files for each clan in the game
-
-/classes        - Data files for each player class
-
-/greetings      - Banners displayed to each new connection prior to login prompt
-
-/races          - Data files for each player and NPC race
-
-
-FILES
-
-README          The file you are viewing right now
-
-actions         - The 'social actions'. See actions.how and socials.txt for the data format.
-
-badsites        - This is where blocked ip addresses are stored
-
-bugs            - The messages left by players with the 'bug' command. Contains
+BUGS            - The messages left by players with the 'bug' command. Contains
                   the number of the room in which each message was written.
-                  bugs.mail and bugs.header are used to email the bugs to admin
 
-commands        - data file showing all(most) in-game commands
-                  
-credits         - For the 'credits' command.
+CREDITS         - For the 'credits' command.
 
-help            - For 'help <CR>'.
+HELP            - For 'help <CR>'.
 
-help_index      - Table of keywords and associated texts. The format is simple.
+HELP_TABLE      - Table of keywords and associated texts. The format is simple.
 
-ideas           - The messages left by players with the 'idea' command.
-                  ideas.header and ideas.mail are used to send this to admin
+IDEAS           - The messages left by players with the 'idea' command.
 
-info            - For the 'info' command.
+INFO            - For the 'info' command.
 
-mail.files      - script to email bugs/typos/ideas and no help to admins
-                  uses nohelp.header and nohelp.mail
-                  
-messages        - Combat messages.
+MESSAGES        - Combat messages.
 
-motd            - Displayed to the player at login. currently says hello.
-                  can be used for announcements
+MOTD            - Displayed to the player at login. Should contain information
+                  about recent additons to the game, wedding announcements etc.
 
-news            - For the command 'news'.
+NEWS            - For the command 'news'.
 
-players         - Binary file containing all the players.
+PLAYERS         - Binary file containing all the players.
 
-poses           - For the 'pose' command, with minimum level and text.
+POSES           - For the 'pose' command, with minimum level and text.
 
-todo            - Notes what changes will be applied on next scheduled reboot
+TINYWORLD.SHP   - Info describing the shops, eg. what kind of stuff they deal
+                  in, opening hours, profit rate, etc. See shops.doc for the
+                  format.
 
-typos           - Messages left by players with the 'typo' command. Same format
+TYPOS           - Messages left by players with the 'typo' command. Same format
                   as the 'bug' command.
 
-wipe            - Data file showing players which will likely wipe on next reboot.
-
-wizlist         - For the 'wizlist' command.
-
-wizlist.cpy     - Copy of the wizlist file. MUD will not boot without this file.
-
-zones.tbl       - Info describing all of the zones on this port.
+WIZLIST         - For the 'wizlist' command.

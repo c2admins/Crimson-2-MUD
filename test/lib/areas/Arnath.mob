@@ -1,0 +1,599 @@
+#14400
+mob grumpy sailor~
+A grumpy looking sailor~
+The grumpy looking sailor is lazily resting on a rock.
+~
+The grumpy looking sailor looks like he has been through many hard days and is
+looking to spend the rest of his days here selling boats and rafts.
+~
+262154 1 136249361 0 1000 S
+34 9 -7 20d6+5000 15d5+35
+60000 209325
+8 8 0
+1 0 22 23 19 21 17 18
+#14401
+mob a small child~
+a small child~
+a small child is playing here.
+~
+This small child looks like he is having playing with a toy of some sort.
+~
+8 1 136249361 0 1000 S
+2 35 38 3d3+13 2d2+1
+120 54
+8 8 0
+1 0 12 13 9 11 8 6
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14402
+mob gladiator~
+A champion gladiator~
+A champion gladiator is here, awaiting his next opponent.
+~
+You see a huge and formidable man. He is a Champion Gladiator, which means
+that he has killed and defeated a lot of men and wild animals. He would not
+care one bit if he added you to his list of victims.
+~
+10 1 136249361 0 500 S
+20 20 24 30d3+1616 5d5+12
+5500 62825
+8 8 0
+1 0 16 17 16 15 13 15
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14403
+mob ferocious lion~
+A ferocious lion ~
+A ferocious lion is staring at you hungrily.
+~
+The lion looks like it has not eaten for a long time. You do not want to be
+his next meal, so you had better think of a way to kill him before he kills
+you!
+~
+16834570 1 136249361 0 0 S
+13 26 31 3d3+175 4d4+3
+900 1845
+8 8 0
+0 0 15 14 12 14 13 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14404
+mob ticket master~
+A ticket master~
+A ticket master is standing here ready to sell you some tickets.
+~
+The ticket master says, 'That will cost you 50 coins for a ticket.'
+The ticket master looks at you and asks you to pay if you want to go in.
+~
+14 1 136249361 0 0 S
+10 29 34 3d15+100 4d3+1
+850 2750
+8 8 0
+1 0 14 14 11 12 12 9
+#14405
+mob pilgrim~
+A wandering pilgrim ~
+A wandering pilgrim is here searching for truth.
+~
+You see a man dressed in a grey travel worn robe. He looks like he is on
+a mission to find truth. His eyes are weary with experience, but he looks
+somewhat satisfied for some reason.
+~
+8 1 136249361 0 0 S
+14 25 30 3d3+200 4d4+5
+1000 4287
+8 8 0
+1 0 14 12 12 12 11 8
+#14406
+mob champion arnath~
+a Champion of Arnath~
+A Champion of Arnath is here to maintain law and order.
+~
+You see a clean and honest looking man in nice armor. He sees you and gives
+you a smile.
+~
+12 1 136249361 128 1000 S
+16 24 28 3d30+221 3d6+12
+4250 5000
+8 8 0
+1 0 17 16 15 16 13 13
+#14407
+mob rich merchant~
+A rich merchant~
+A rich merchant is here, enjoying his prosperous life.
+~
+You see a well man dressed in an expensive looking robe. He looks very capable
+of buying almost anything he wants.
+~
+12 32769 136249361 0 0 S
+8 30 35 10d10+0 2d3+6
+450 275
+8 8 0
+1 0 14 13 11 11 11 9
+SKILL=SPELL_BLINDNESS 26
+SKILL=SPELL_CURE_LIGHT 26
+SKILL=SPELL_MAGIC_MISSILE 26
+SKILL=SPELL_EARTHQUAKE 26
+#14408
+mob man~
+a man~
+A man is standing here, enjoying his easy life.
+~
+You see a properous looking man in his late twenties. He looks like he has
+had a good life.
+~
+12 1 136249361 0 0 S
+11 28 33 3d3+120 5d4+2
+700 3405
+8 8 0
+1 0 13 15 13 11 12 11
+#14409
+mob woman~
+a woman~
+a woman is standing here, enjoying her blessed life.
+~
+You see a elegant looking woman in her early twenties. She looks as if
+life has been very kind to her.
+~
+12 1 136249361 0 0 S
+7 30 36 3d3+45 3d2+2
+385 222
+8 8 0
+1 0 13 11 11 10 9 10
+#14410
+mob small dog~
+a small dog~
+A small dog is here, looking cute.
+~
+You see a small and cute little dog.
+~
+16777224 1 136249361 0 0 S
+2 35 38 2d2+23 2d2+1
+125 72
+8 8 0
+0 0 12 10 10 11 9 6
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14411
+mob large wolf-dog~
+a large wolf-dog~
+A large wolf-dog is here.
+~
+You see a large dog that looks like it is a cross between a wolf and a german
+shepherd.
+~
+16777224 1 136249361 0 0 S
+5 32 37 3d10+27 2d2+3
+200 174
+8 8 0
+0 0 13 13 11 12 8 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14412
+mob pigeon~
+a pigeon~
+a pigeon is here looking for some food.
+~
+You see a small gray and white pigeon.~
+16777224 1 136249361 0 0 S
+2 35 38 2d20+0 2d2+1
+140 52
+8 8 0
+0 0 12 11 11 11 7 10
+#14413
+mob old man~
+an old man~
+An old man is standing here, looking for someone to talk to.
+~
+You see a lonely looking old man with white hair and a limp in his walk
+~
+8 1 136249361 0 0 S
+3 34 38 3d3+20 3d2+0
+240 93
+8 8 0
+1 0 11 12 10 11 7 6
+#14414
+mob small pony~
+a small pony~
+A small pony is here, looking for some grass to eat.
+~
+You see a gray and white pony.
+~
+16777224 1 136249361 0 0 S
+7 30 36 3d3+43 3d3+3
+240 215
+8 8 0
+0 0 13 14 11 10 9 10
+#14415
+mob black stallion~
+a black stallion~
+A Large and Powerful Black Stallion is here.
+~
+You see a large and powerful black horse.
+~
+16777224 1 136249361 0 0 S
+9 30 35 20d2+30 4d3+3
+280 290
+8 8 0
+0 0 13 14 11 12 11 11
+#14416
+mob traveling merchant~
+a traveling merchant~
+A traveling merchant is here, trying to sell you something.
+~
+You see a travel worn merchant in with all sorts of strange gadgets.~
+8 1 136249361 0 0 S
+13 26 31 5d5+150 5d5+2
+1185 3740
+8 8 0
+1 0 13 13 12 12 11 10
+#14417
+mob food vendor~
+a food vendor~
+A food vendor is standing here.
+~
+You see a man in a white uniform, he has lots of food to sell you.~
+12 1 136249361 0 0 S
+9 30 35 3d3+45 3d5+0
+370 240
+8 8 0
+1 0 12 12 11 10 9 11
+#14418
+mob bloodthirsty spectator~
+a bloodthirsty spectator~
+A bloodthirsty spectator is here, watching the fight.
+~
+You see a man with a strange look in his eye. he wants to see some blood.~
+8 1 136249361 0 0 S
+3 35 38 3d5+10 2d2+0
+200 53
+8 8 0
+1 0 12 11 10 10 9 10
+#14419
+mob rich nobleman~
+a rich nobleman~
+A rich nobleman is here, trying to enjoy himself.
+~
+You see a well dressed man in his mid thirties. He looks rather snobbish.
+~
+8 1 136249361 0 0 S
+10 29 34 3d10+100 3d3+3
+930 2500
+8 8 0
+1 0 14 15 11 12 9 12
+#14420
+mob old wizard~
+an old wizard~
+An old wizard is standing here, talking to himself.
+~
+An old man in strange clothes is talking to himself.
+~
+262154 32769 136249361 128 1000 S
+30 13 5 20d25+1400 5d5+40
+30000 185000
+8 8 0
+1 1 19 20 16 18 15 14
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+#14421
+mob caretaker~
+a caretaker~
+A caretaker is here, asleep on the job again.
+~
+You see a skinny man in gray clothes. He looks like he's been up all night and
+is getting his sleep now, neglecting his job to make sure the graves are well
+taken care of.
+~
+12 1 136249361 0 -1000 S
+1 35 39 3d3+10 2d2+0
+200 27
+8 8 0
+1 0 12 10 9 9 10 10
+#14422
+mob rhan florist~
+Rhan the Florist~
+Rhan the Florist of Northern Arnath is standing here.
+~
+You see a beautiful woman in her early thirties. She looks at you kindly and
+asks you if you would like to buy some flowers today.
+~
+262154 1 136249361 128 0 S
+30 13 5 30d30+1300 20d3+20
+28000 193425
+8 8 0
+1 0 19 18 16 17 15 16
+#14423
+mob roy baker~
+Roy the Baker~
+Roy the Baker of Northern Arnath is standing here.
+~
+You see a man in an apron and a huge smile. He looks very strong
+but nice.
+~
+262154 1 136249361 128 1000 S
+40 3 -22 30d30+6200 12d10+0
+600000 300000
+8 8 0
+1 0 21 21 19 20 20 17
+#14424
+mob arcon weaponsmith~
+Arcon the Weaponsmith~
+Arcon the Weaponsmith is standing here, forging weapons.
+~
+You see a strong man with huge shoulders and arms. He appears to be
+forging a new sword for somebody.
+~
+262154 1 136249361 128 1000 S
+39 4 -20 30d30+5000 12d10+35
+400000 248000
+8 8 0
+1 0 22 22 21 19 17 17
+#14425
+mob citizen Marc~
+Citizen Marc~
+Marc, a distinguished citizen of Arnath is standing here.
+~
+You see a young and bright looking man in a nice shirt and pants.
+~
+262156 1 136249361 128 0 S
+31 12 2 20d20+1600 20d5+10
+45000 180000
+8 8 0
+1 0 19 18 16 16 16 17
+#14426
+mob wise hermit~
+A wise hermit~
+A wise hermit is here, contemplating life.
+~
+You see a wise and old man in worn out clothes. He doesn't seem to be concerne
+d with such trivial matters as the physical needs of humanity, but rather
+the eternal truths that most of us fail to notice.
+~
+262154 32769 136249361 136 0 S
+40 3 -22 20d20+6600 2d100+60
+500000 320000
+8 8 0
+1 1 21 21 20 21 18 20
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+#14427
+mob refugee~
+A poor refugee~
+A poor refugee is here, looking depressed.
+~
+You see a sad looking person who has just had all his earthly possessions take
+n away from him by an invading army.
+~
+8 1 136249361 0 0 S
+7 30 36 3d10+30 2d2+5
+250 222
+8 8 0
+1 0 12 13 12 10 10 9
+#14428
+mob king Aiur~
+aiur~
+Aiur, the future King of Arnath and son of Adrian is standing here.
+~
+You see a young man in his mid teens. He is very tall and handsome with
+rich black hair and a slight beard.
+~
+262154 32769 136249393 138 1000 S
+41 2 -24 30d30+15000 3d11+26
+800000 425000
+8 8 0
+1 0 21 20 19 19 19 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14429
+mob evil spectre ancestor~
+an evil spectre of somebody's ancestor~
+An evil spectre of somebody's ancestor is standing here.
+~
+You see a person, or something that looks like it was a person. You can see ri
+ght through him!
+~
+581640 1 136249361 0 -1000 S
+3 34 38 2d10+13 1d3+2
+200 80
+8 8 0
+0 0 12 11 9 11 7 7
+#14430
+mob monstrous goerg~
+a monstrous goerg~
+A Goerg is standing here, ready to bite your head off.
+~
+A monstrous looking thing that had large fangs and a slimy body is making
+strange sounds at you. It looks as if it is very hungry and seem to be
+staring at your head in particular. You have heard many stories about what the
+se monsters can do but do not really want to find out by yourself.
+~
+10 1 136249361 0 0 S
+15 25 29 50d3+135 4d7+2
+3000 4545
+8 8 0
+0 0 15 16 14 12 13 10
+#14431
+mob Innkeeper Galen.~
+Galen the Innkeeper~
+Galen the Innkeeper is chatting here with some of his patrons.
+~
+You see a man in his late forties. He's been the Innkeeper here for a very
+long time now. He looks very tough and strong.
+~
+262154 1 136249393 128 1000 S
+40 3 -22 30d30+6500 10d15+30
+720000 290000
+8 8 0
+1 0 21 21 19 21 18 20
+#14432
+mob slave fighter~
+a slave of Arnath~
+A slave of Arnath looks very hungry and desperate to kill you.
+~
+You see a sad and thin looking man. He looks like he hasn't eaten
+in weeks, and he probably hasn't.
+~
+10 1 136249361 0 0 S
+10 29 34 5d5+100 3d3+4
+200 2500
+8 8 0
+1 0 13 13 11 11 11 10
+#14433
+mob gladiator amateur~
+An amatuer gladiator~
+An amatuer gladiator is here, ready for combat.
+~
+You see a young slave who has won a few fights. He is clothed in partial
+armor and is ready to fight for his life and future.
+~
+10 1 136249361 0 0 S
+13 26 31 3d3+180 3d3+8
+950 3979
+8 8 0
+1 0 15 15 12 12 12 11
+#14434
+mob Verin shopkeeper~
+Verin the shopkeeper~
+Verin the shopkeeper is standing here.
+~
+You see a plump and friendly looking woman in her thirties. She is ver
+nice and friendly.
+~
+262154 1 136249361 128 1000 S
+40 3 -22 30d30+6200 10d20+15
+500000 248248
+8 8 0
+1 0 22 23 20 19 18 19
+#14435
+mob Tarc armourer~
+Tarc the Master Armorer~
+Tarc the Master Armorer of Arnath is standing here.
+~
+You see a short but extremely strong looking man in his late forties.
+He has a short gray beard and bright blue eyes.
+~
+262154 1 136249361 128 1000 S
+41 2 -24 30d30+8200 10d30+50
+700000 380000
+8 8 0
+1 0 22 20 21 20 20 16
+#14436
+mob grave-robber~
+A grave-robber~
+A Grave-robber is here looking for some loot.
+~
+You see a skinny man covered with dirt.
+~
+12 1 136249361 0 -1000 S
+7 30 36 3d3+50 3d3+2
+400 235
+8 8 0
+1 0 13 14 10 12 8 7
+#14437
+mob statue dragon Pharoak~
+a statue of the Dragon Pharoak~
+A statue of the Dragon Pharoak is here.
+~
+You see a statue of a huge blood red dragon that is said to have been the pet 
+of the great King Isultor of ages past. The Dragon's spirit is said to still
+be in this statue, protecting the city from evil.
+~
+262154 1 136249361 128 0 S
+30 13 5 30d30+3500 3d15+0
+38000 195000
+8 8 0
+11 0 19 20 18 18 17 16
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14438
+mob Celia receptionist~
+Celia the Receptionist~
+Celia the Receptionist is here, offering rooms.
+~
+You see a beautiful half elven lady with soft auburn hair. She smiles at you
+and sighs wistfully.
+~
+262174 1 136249361 128 0 S
+44 1 -30 20d20+15000 30d25+20
+1400000 950000
+8 8 0
+1 0 23 23 21 21 20 17
+#14439
+mob river trout~
+a river trout~
+A river trout is swimming here.
+~
+You see a large river trout. It is about 10 inches in length.
+~
+8 1 136249361 0 0 S
+2 35 38 2d20+10 1d2+0
+100 66
+8 8 0
+0 0 11 11 10 11 10 6
+#14440
+mob lovely mermaid~
+A lovely mermaid~
+A lovely mermaid is sitting on a rock and singing a sweet song.
+~
+You see the woman of your dreams. She is everything you have ever
+wanted in a girl. Except for her lower body which is in the form of a fish.
+~
+8 32769 136249361 128 0 S
+41 2 -24 60d19+7000 12d20+12
+800000 375000
+8 8 0
+13 0 19 19 17 16 15 16
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+$~
+#999999

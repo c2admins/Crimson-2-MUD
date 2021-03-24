@@ -77,7 +77,7 @@ obj sash dark priests sash~
 &wa &Kdark &rp&Rr&ri&Re&rs&Rt&rs &ws&Ka&ws&Kh&n~
 &wYou notice a sash clouded in darkness on the ground.&n~
 ~
-15 88128004 0 2049
+15 88128004 393216 2049
 500 0 0 0
 30 5750000 5
 A
@@ -335,7 +335,7 @@ obj dwarven arm plates~
 &YD&yw&Ya&yr&Yv&ye&Yn &Warm plates&n~
 &WA pair of &Ygolden &Warm plates have been discarded here.&n~
 ~
-9 20995072 0 257
+9 20995072 131200 257
 10 0 0 0
 1 5 5
 A
@@ -350,7 +350,7 @@ obj jardak battle dress~
 &YJardaks &Wbattledress&n~
 &WSomeone has left a battledress behind.&n~
 ~
-9 21003264 0 1025
+9 21003264 131200 1025
 25 0 0 0
 15 15000 55000
 A
@@ -365,7 +365,7 @@ obj jardak boots~
 &YBoots &Wof &YJ&ya&Yr&yd&Ya&yk&n~
 &WSome &Ymagnificent&W boots seem to have been left behind.&n~
 ~
-9 21003264 0 65
+9 21003264 131200 65
 10 0 0 0
 5 25000 35000
 A
@@ -382,7 +382,7 @@ obj dwarven girdle might~
 &YD&yw&Ya&yr&Yv&ye&Yn &Wgirdle of &YMight&n~
 &WSomeone has misplaced a very valuable girdle here.&n~
 ~
-9 21003264 0 2049
+9 21003264 131200 2049
 15 0 0 0
 5 50000 60000
 A
@@ -399,7 +399,7 @@ obj dwarven bracer power~
 &YD&yw&Ya&yr&Yv&ye&Yn &Wbracer of &YPower&n~
 &WSomeone has misplaced a valuable looking bracer here.&n~
 ~
-9 21003264 1024 4097
+9 21003264 132224 4097
 15 0 0 0
 1 20000 20000
 A
@@ -416,7 +416,7 @@ obj golden bracer might~
 &YG&yo&Yl&yd&Ye&yn &Wbracer of &YMight&n~
 &WYou notice a bracer forged out of &Yg&yo&Yl&yd&W at your feet.&n~
 ~
-9 21003520 1024 4097
+9 21003520 132224 4097
 20 0 0 0
 1 20000 20000
 A
@@ -431,7 +431,7 @@ obj shield reorx~
 &YS&yh&Yi&ye&Yl&yd &Yo&yf &YR&ye&Yo&yr&Yx&n~
 &WA finely crafted shield has been misplaced by it owner.&n~
 ~
-9 21003265 0 513
+9 21003265 131200 513
 30 0 0 0
 10 15000 25000
 A
@@ -463,7 +463,7 @@ obj Stone Giants greaves~
 &wS&Kt&wo&Kn&we &Kg&wi&Ka&wn&Kt&ws &Pg&pr&Pe&pa&Pv&pe&Ps&n~
 &wA pair of &Pg&pr&Pe&pa&Pv&pe&Ps &wcrafted out of stone are laying on the ground.&n~
 ~
-9 37779968 4 33
+9 37779968 131204 33
 50 0 0 0
 1 5 5
 A
@@ -597,7 +597,7 @@ obj Grunger's spiked greaves~
 &YG&yr&Yu&yn&Yg&ye&Yr&y'&Ys &ys&Yp&yi&Yk&ye&Yd &yg&Yr&ye&Ya&yv&Ye&ys&n~
 &WA pair of battered &Yg&yr&Ye&ya&Yv&ye&Ys&W lay on the ground.&n~
 ~
-9 20983808 0 33
+9 20983808 131072 33
 0 0 0 0
 10 5 5
 A
@@ -627,7 +627,7 @@ A
 17 -15
 #20097
 obj Li Mu Bai's Robe quest~
-1
+5
 &WLi Mu Bai's &yRobe&n~
 A crumpled up robe lays on the ground in a heap.~
 ~
@@ -722,7 +722,7 @@ obj quest talisman of death~
 A talisman clouded in darkness levitates before you.~
 ~
 9 134479892 0 5
-25 0 0 0
+35 0 0 0
 1 150000 150000
 A
 19 4
@@ -749,7 +749,7 @@ obj Soulravages battle dress~
 &KSoulravages &Kbattle &Kdress&n~
 &wA suit of armor is laying on the ground.&n~
 ~
-15 88128004 0 1025
+15 88128004 393216 1025
 500 0 0 0
 75 350000 350000
 A
@@ -796,7 +796,7 @@ obj dwarven platemail gods~
 &YD&yw&Ya&yr&Yv&ye&Yn &yp&Yl&ya&Yt&ye&Ym&ya&Yi&yl&w of the gods&n~
 &YD&yw&Ya&yr&Yv&ye&Yn &yp&Yl&ya&Yt&ye&Ym&ya&Yi&yl&w &wlays on the ground.&n~
 ~
-15 20984833 0 9
+15 20984833 131072 9
 350 0 0 0
 20 10000 50000
 A
@@ -813,7 +813,7 @@ obj horn blasting~
 &YH&yo&Yr&yn &Yo&yf &Yb&yl&Ya&ys&Yt&yi&Yn&yg&n~
 &WA magnificient &Yh&yo&Yr&yn &Wfloats before you.&n~
 ~
-9 21003265 0 16385
+9 21003265 131200 16385
 20 0 0 0
 4 15000 25000
 A
@@ -828,7 +828,7 @@ obj ring reorx~
 &YR&yi&Yn&yg &Yo&yf &YR&ye&Yo&yr&Yx&n~
 &YR&yi&Yn&yg &Yo&yf &YR&ye&Yo&yr&Yx&n &Wglows with a &Ybright light.&n~
 ~
-9 21003265 0 3
+9 21003265 131200 3
 10 0 0 0
 1 15000 25000
 E
@@ -851,7 +851,7 @@ obj Dwarven gauntlets of might~
 &YD&yw&Ya&yr&Yv&ye&Yn &yg&Ya&yu&Yn&yt&Yl&ye&Yt&ys &Yo&yf &Ym&yi&Yg&yh&Yt&n~
 &YD&yw&Ya&yr&Yv&ye&Yn &yg&Ya&yu&Yn&yt&Yl&ye&Yt&ys &Yo&yf &Ym&yi&Yg&yh&Yt&W lay on the ground.&n~
 ~
-9 20984832 0 129
+9 20984832 131072 129
 20 0 0 0
 5 15000 25000
 A
@@ -883,7 +883,7 @@ obj helm reorx~
 &YH&ye&Yl&ym &Yo&yf &YR&ye&Yo&yr&Yx&n~
 &YH&ye&Yl&ym &Yo&yf &YR&ye&Yo&yr&Yx&W lays on the ground.&n~
 ~
-9 20986880 0 17
+9 20986880 131072 17
 20 0 0 0
 4 15000 25000
 A
@@ -898,7 +898,7 @@ obj staff reorx~
 &YS&yt&Ya&yf&Yf &yo&Yf &yR&Ye&yo&Yr&yx&n~
 &WA staff lays on the ground.&n~
 ~
-1 20986880 0 65537
+1 20986880 131072 65537
 0 0 99999 0
 3 15000 25000
 A

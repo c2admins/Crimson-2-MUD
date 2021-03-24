@@ -1,0 +1,44 @@
+#20385
+Path through the hills~
+The path leads north and south. South leads towards a temple while north leads to a larger road.
+~
+157 8 0 1 99 1
+D0
+~
+~
+0 -1 4938
+D2
+~
+~
+0 -1 20386
+S
+#20386
+Path through the hills~
+The path leads north and south. South leads towards a temple while north leads to a larger road.
+~
+157 8 0 0 99 1
+D0
+~
+~
+0 -1 20385
+D2
+~
+~
+0 -1 20387
+S
+#20387
+Path through the hills~
+The path leads north and south. South leads towards a temple while north leads to a larger road.
+~
+157 8 0 0 99 1
+D0
+~
+~
+0 -1 20386
+D2
+~
+~
+0 -1 7100
+S
+$~
+#999999

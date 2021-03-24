@@ -1,0 +1,532 @@
+#16900
+obj boots waders pair obj~
+10
+&Ka pair of waders boots&n~
+A pair of waders boots is here, dripping water and mud.~
+The boots are very muddy wet.  They emit a smell of fish...
+and your thoughts shift to the time you visited the Swamps
+of Apocrypha.
+~
+9 1118272 0 65
+10 0 0 0
+4 5000 5000
+A
+14 30
+#16901
+obj wiccan bracer~
+5
+&Ka wiccan bracer&n~
+An ancient looking bracer lies here, glowing with an unearthly magic.~
+Rumor has it than when you wear this belt, it will give you good
+luck in battles.
+~
+11 1107970 0 4097
+0 0 0 0
+3 15300 3000
+A
+19 1
+A
+18 1
+A
+12 10
+#16902
+obj serpent sword~
+6
+&Ga serpent sword&n~
+A sword with the pommel of a serpent lies here.~
+This sword is made of the finest metal, and has the symbol of the
+swamplord on it.
+~
+5 1049089 0 8193
+1 3 10 3
+8 10000 1000
+A
+18 2
+#16903
+obj gorget black obj~
+9
+&Ka black gorget&n~
+A black gorget is lying here, waiting to be worn.~
+This gorget was a piece of the old warrior armor when the forces of
+good and evil were at war on the surface of the Swamps of Apocrypha.
+~
+9 0 8 5
+3 0 0 0
+5 10000 1000
+A
+18 1
+A
+19 1
+#16904
+obj potion clear obj~
+5
+a clear potion~
+A clear potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 1 0 1
+20 36 0 0
+2 100000 1000000
+#16905
+obj potion black obj~
+10
+&Ka black potion&n~
+A black potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 4 0 1
+20 1 0 0
+2 100000 1000000
+#16906
+obj potion green obj~
+15
+&Ga green potion&n~
+A green potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 16 0 1
+20 17 33 2
+2 100000 1000000
+#16907
+obj potion brown obj~
+5
+&ya brown potion&n~
+A brown potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 0 0 1
+20 42 0 0
+2 100000 1000000
+#16908
+obj potion blue obj~
+15
+&ba blue potion&n~
+A blue potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 0 0 1
+20 27 0 0
+2 100000 1000000
+#16909
+obj potion skyblue obj~
+9
+&Ca sky-blue potion&n~
+A skyblue potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 0 0 1
+20 28 0 0
+2 100000 1000000
+#16910
+obj potion yellow obj~
+10
+&Ya yellow potion&n~
+A yellow potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 1 0 1
+20 43 0 0
+2 100000 1000000
+#16911
+obj potion purple obj~
+20
+&pa purple potion&n~
+A purple potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 16 0 1
+20 33 0 0
+2 100000 1000000
+#16912
+obj potion white obj~
+3
+&Wa white potion&n~
+A white potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 1 0 1
+20 36 1 39
+2 100000 1000000
+#16913
+obj potion red obj~
+15
+&ra red potion&n~
+A red potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 16 0 1
+20 4 0 0
+2 100000 1000000
+#16914
+obj potion orange obj~
+10
+&Ran orange potion&n~
+An orange potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 16 0 1
+20 18 19 20
+2 100000 1000000
+#16915
+obj potion foggy obj~
+10
+&Ka sample of swamp water&n~
+A foggy potion is here.~
+This potion is one of the many potions conjured by the great
+magicians of the Swamps of Apocrypha.
+~
+10 1 0 1
+20 44 19 18
+2 100000 1000000
+#16916
+obj sample swamp obj~
+5
+&Ka sample of swamp water&n~
+A sample of swamp water is here, evaporating.~
+This is a sample of water from the good side of the Swamp of Apocrypha.
+~
+10 1 0 1
+20 17 33 27
+2 100000 1000000
+#16917
+obj sample swamp obj~
+10
+&Ka sample of swamp water&n~
+A sample of swamp water is here, evaporating.~
+This is a sample of water from the evil side of the Swamp of Apocrypha.
+~
+10 1 0 1
+20 2 4 38
+2 100000 1000000
+#16918
+obj tree hollow obj~
+100
+&ya large hollow tree&n~
+&yA large, hollow tree is here.&n~
+This tree has the carvings of the symbol of apocrypha and other symbols
+which you do not recognize on it.  It has a small hole in it, with a few
+bees travelling in and out.  It is too dark to actually see what is in
+the tree.
+~
+15 0 0 0
+0 0 10 0
+99999 10000000 100000000
+#16919
+obj pot gold~
+20
+&Ya &Kpot&Y of gold&n~
+There is a pot of gold here.~
+Wow... a black pot... with money in it too!  It must be your lucky day!
+~
+20 2 0 1
+13245 0 0 0
+1 100000 100000
+#16920
+obj wand solid gold obj~
+10
+&Ya solid gold wand&n~
+A solid gold wand has been carelessly left here.~
+This wand is gold, with a cross carved into the handle.
+~
+3 65 0 16385
+20 5 5 4
+3 13000 1000
+#16921
+obj girth pain nephestus~
+2
+&Ka &rg&Kirt&rh &Kof p&rai&Kn&n~
+A large girth fitted with sharp spikes lies here.~
+This book speaks of the end of all war on the face of the planet,
+and the beginning of world wide peace.
+~
+9 4197188 0 2049
+10 0 114 0
+4 100000 10000
+A
+19 3
+A
+18 2
+#16922
+obj axe pain nephestus~
+5
+&Kan &raxe &Kof p&rai&Kn&n~
+A large axe with deep blood grooves lies here.~
+This book speaks of the end of all war on the face of the planet,
+and the beginning of world wide peace.
+~
+28 4195010 0 24577
+19 8 10 3
+4 100000 10000
+A
+18 4
+A
+12 10
+#16923
+obj troll axe~
+5
+&wa &Kt&Grol&Kl axe&n~
+A large, heavy axe lies here.~
+This armor glows with the light of divine power.  You do not feel
+worth to wear it.  It has the holy symbol of the apocrypha etched
+into the center front.
+~
+5 16512 8 8193
+0 6 4 3
+15 27500 5000
+A
+19 1
+A
+18 1
+#16924
+obj lich robes~
+4
+&Ka lich robe&n~
+A rotting and decaying robe lies here.~
+This armor is clouded in evil darkness, as you cannot even see your
+own reflection in the black metal.
+~
+11 2155012 0 1025
+0 0 0 0
+7 85000 5000
+A
+19 2
+A
+18 2
+A
+12 25
+A
+24 -1
+#16925
+obj handle smiter ~
+1
+&wa weapon &Whandle&n~
+&gThe handle of what once appears to be a weapon is here, stuck in the &ymud&n~
+This is a curvy dagger, which possesses the great magical gift of death.
+You wonder if you are worthy enough to use such a great treasure!
+~
+13 134218816 1024 8193
+2048 6 6 11
+5 10 20000
+#16926
+obj shaft smiter stick~
+1
+&wa long shaft&n~
+&yA long straight stick protrudes from the mud&n~
+This is a curvy dagger, which possesses the great magical gift of death.
+You wonder if you are worthy enough to use such a great treasure!
+~
+13 136315456 1024 8193
+1024 6 6 11
+5 1000000 20000
+E
+stick~
+What once appeared to be a perfectly straight stick reveals itself to actually be the shaft of a weapon.
+~
+#16927
+obj head smiter ball~
+1
+&wa large metal &Wball&n~
+A large metal ball lies here, looking a little out of place.~
+~
+8 134784000 1024 16385
+0 0 0 0
+3 10000 2500
+A
+20 -1
+A
+24 -1
+A
+23 -1
+#16928
+obj darkwave wave dark~
+6
+&wthe &KDark&Bwave&n~
+You see a magical stream of water before you... the Darkwave.~
+~
+5 2130548 0 8193
+1 2 20 3
+8 56000 5
+A
+19 1
+A
+13 5
+#16929
+obj ettin club~
+5
+&yan ettin's club&n~
+&yA huge club lies here, half covered with mud.&n~
+~
+5 33554433 16 8193
+0 3 12 6
+15 15000 5
+#16930
+obj roots magic healing~
+15
+&gsome magical healing &yroots&n~
+&gThere are some &Gplant &yroots&g laying on the &yground&g.&n~
+~
+10 65 0 1
+30 43 15 16
+1 20000 1000
+#16931
+obj sword stenlisk~
+5
+&wthe sword of the &WStenlisk&n~
+A strange looking sword has been driven into the ground here.~
+~
+5 1052674 0 8193
+1 3 8 3
+3 50000 7500
+A
+19 2
+A
+13 5
+#16932
+obj shard diamond~
+2
+&wa &Wd&wia&Wm&won&Wd&w shard&n~
+&wA shard of diamond lies here, reflecting the &Ylight&n.~
+~
+5 2117633 0 8193
+0 5 6 11
+2 85000 5
+A
+19 3
+#16933
+obj ring thorns~
+10
+&ya ring of thorns&n~
+A ring made of &Ygold plated&y thorns&n in on the ground.~
+~
+11 16384 16 3
+0 0 10 0
+2 5000 100000
+A
+5 -2
+A
+19 2
+A
+37 -1
+#16934
+obj holy smiter~
+100
+&Wa holy Smiter&n~
+A strange magical mace lies here, glowing with holy energy.~
+~
+5 136363042 0 8193
+4098 9 4 6
+7 67000 830000
+A
+19 4
+A
+18 3
+#16935
+obj pendant protection gold~
+2
+&wa &Ypendant &wof &wP&Wrotectio&wn&n~
+&gA beautiful gold pendant lies here.&n~
+~
+8 525312 0 5
+0 0 0 0
+2 40000 7000
+A
+17 -10
+A
+23 -3
+A
+24 -3
+A
+30 -1
+#16936
+obj dragons hoard gold~
+100
+The dragon's hoard~
+&gA huge mound of &Ygold&g lies here in a pile.&n~
+~
+20 0 0 1
+300000 0 0 0
+1 500 5
+#16937
+obj large table~
+100
+&ya large table&n~
+&yA large table dominates the center of the room.&n~
+~
+15 0 0 0
+100 0 0 0
+1 5 5
+#16938
+obj small box~
+10
+&ya small box&n~
+&yA small box lies here.&n~
+~
+15 0 0 1
+50 5 0 0
+8 100 5
+#16939
+obj small pile gold~
+100
+a small pile of &Ygold&n~
+A small pile of gold sits here.~
+~
+20 0 0 1
+7500 0 0 0
+1 5 5
+#16940
+obj rotting corpse~
+100
+the rotting corpse~
+A rotting &ycorpse&n hangs here.~
+~
+15 0 0 1
+15 0 0 0
+200 5 5
+#16941
+obj half-eaten corpse~
+100
+the half-eaten corpse~
+A half-eaten &ycorpse&n hangs here.~
+~
+15 0 0 1
+15 0 0 0
+100 5 5
+#16942
+obj swamp dragon fang~
+1
+&WF&wan&Wg &wof the &KSw&ga&Kmp D&wr&Wag&wo&Kn&n~
+A large fang from a dragon lies here.~
+~
+5 222314688 13312 24577
+2113539 9 5 11
+8 200000 300000
+A
+13 25
+A
+18 4
+#16943
+obj dragonscale breast plate mandrake swamp~
+1
+&KA D&wr&Wag&wo&Kn&Gs&gcal&Ge &wBreast&Kplate&n~
+A breastplate made from the scales of &KMa&wn&gdr&wa&Kke&n, the &KSw&ga&Kmp D&wr&Wag&wo&Kn&n lies here.~
+~
+9 20985924 16384 9
+80 0 0 0
+16 100000 1000000
+A
+19 4
+A
+23 -5
+$~
+#999999

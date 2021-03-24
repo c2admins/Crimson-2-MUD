@@ -1,0 +1,98 @@
+#600
+mob humphrey magician gnarled gnome~
+Humphrey~
+A gnarled old Gnome is standing here peering into his book.
+~
+This is a very small human being.  So small in fact that you at first take
+him to be a gnome.  He has pointed ears like an elf.  Tufts of hair jut out
+on each side of his head with a wild clump in the back.
+~
+1610874890 32769 136249393 100663304 0 S
+45 0 -25 100d99+16000 10d9+0
+2400000 1000000
+8 8 1
+1 1 22 23 21 22 21 21
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_FIRE_BREATH 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+#601
+mob dragon fire-belching winged~
+a dragon~
+A fire-belching winged beast is swooping down at you!
+~
+This is a fire-belching winged beast that is bearing down you.  This isn't a
+mere steamer like the <someplace you can't remember> dragon, but a genuine
+flamer!
+~
+1078198282 32769 136249393 100663432 0 S
+41 2 -24 100d49+5500 14d9+27
+1000000 510000
+8 8 1
+11 0 22 23 21 22 21 21
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_FIRE_BREATH 90
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=90
+ATTACK_SKILL=5
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#602
+mob gardener~
+a gardner~
+A gardner is here tending the flowers.
+~
+You see an elderly man who has spent most of his life quietly tending the
+flowers and plants which are his lifes delight.
+~
+10 1 136249361 0 1000 S
+14 25 30 5d1+200 3d8+6
+2340 4400
+8 8 0
+4 0 14 16 12 13 11 13
+#603
+mob castleguard guard~
+a castleguard~
+A guard stands here ready to defend the castle.
+~
+A big, strong, helpful, trustworthy guard.
+~
+134217930 1 136249361 0 1000 S
+20 20 24 10d39+1400 5d5+18
+5100 61500
+8 8 1
+1 4 18 15 12 15 13 13
+$~
+#999999

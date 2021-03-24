@@ -1,0 +1,32 @@
+##20050
+stormblade
+#on_drop
+if (target = source) {
+   reg1 = is_object_in_room(14611);
+   reg2 = is_object_in_room(14612);
+   reg3 = is_object_in_room(14613);
+   reg4 = is_object_in_room(14614);
+   reg5 = is_object_in_room(14615);
+   reg6 = is_object_in_room(14616);
+   if (reg1) {
+      if (reg2) {
+         if (reg3) {
+            if (reg4) {
+               if (reg5) {
+                  if (reg6) {
+                     reg7 = create_object(14610);
+                     gecho (source + "&Whas created a&n " + reg7);
+                     destroy(reg1);
+                     destroy(reg2);
+                     destroy(reg3);
+                     destroy(reg4);
+                     destroy(reg5);
+                     destroy(reg6);
+                  };
+               };
+            };
+         };
+      };
+   };
+};
+

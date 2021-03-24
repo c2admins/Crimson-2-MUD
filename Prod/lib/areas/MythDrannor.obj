@@ -17,7 +17,7 @@ obj Mithril Platemail of Myth Drannor~
 &KM&wit&Yhr&Wi&Kl Pl&Wate&Yma&wi&Kl o&Yf My&Kt&wh Dr&Yan&Kno&wr&n~
 Mithril Platemail of Myth Drannor~
 ~
-9 4353025 1024 9
+9 4353025 1152 9
 65 0 0 0
 30 300000 50000
 A
@@ -45,7 +45,7 @@ obj Elminster's Ever Smoking Pipe~
 &SE&Sl&Sm&Si&Sn&Ss&St&Se&Sr&S'&Ss &KSmoking Pipe&n~
 Elminster's pipe of mild tobacco rests here~
 ~
-1 71470144 1024 65537
+1 71470144 263168 65537
 0 0 0 0
 2 100000 10000
 A
@@ -60,7 +60,7 @@ obj Marble Sheath~
 &WM&wa&Kr&wb&Wle &wS&Kh&we&Wa&wt&Kh&n~
 Marble Sheath~
 ~
-9 104888320 1024 2049
+9 104888320 132224 2049
 25 0 0 0
 5 100000 250000
 A
@@ -122,7 +122,7 @@ obj Mithril War Helm Eligmar~
 &KMi&Wt&yh&Wr&Kil &WW&ya&Wr &KHe&Wl&ym &Wo&Kf E&Wl&yi&Wg&Kmar&n~
 &KMi&Wt&yh&Wr&Kil &WW&ya&Wr &KHe&Wl&ym &Wo&Kf E&Wl&yi&Wg&Kmar&n~
 ~
-9 71326720 0 17
+9 71326720 131200 17
 25 0 0 0
 4 100000 75000
 A
@@ -184,7 +184,7 @@ obj Gauntlets Poison Giant~
 &KGa&gu&Kn&gt&Kl&ge&Kts o&gf &Kt&gh&Ke &KP&goiso&Kn &KG&gian&Kt&n~
 &KGa&gu&Kn&gt&Kl&ge&Kts o&gf &Kt&gh&Ke &KP&goiso&Kn &KG&gian&Kt&n~
 ~
-9 37771780 0 129
+9 37771780 131072 129
 20 0 0 0
 1 100000 1000
 A
@@ -225,7 +225,7 @@ obj Blackstaff~
 &KBla&wc&Kks&wt&Kaff&n~
 &KBla&wc&Kks&wt&Kaff&n~
 ~
-9 71347200 0 16385
+9 71347200 262144 16385
 15 0 0 0
 7 70000 70000
 A
@@ -251,7 +251,7 @@ A
 obj Wyvernspur Arm Guard~
 1
 &KWy&wv&Berns&wp&Kur &BA&Krm &BG&Kuard&n~
-A torch is lying here.~
+An arm guard made from Wyvern scales lies here~
 ~
 9 71306240 0 257
 30 0 0 0
@@ -322,7 +322,7 @@ obj Paladin key~
 obj Guardian Key~
 100
 &wGuardian Key&n~
-A torch is lying here.~
+A guard key lies here.~
 ~
 18 262144 0 1
 0 1 0 0
@@ -331,7 +331,7 @@ A torch is lying here.~
 obj Guardian key~
 100
 &wGuardian Key&n~
-A torch is lying here.~
+A guards key lies here.~
 ~
 18 262144 0 1
 0 1 0 0
@@ -340,7 +340,7 @@ A torch is lying here.~
 obj Guardian key~
 100
 &wGuardian Key&n~
-A torch is lying here.~
+A guardian key lies here.~
 ~
 18 262144 0 1
 0 1 0 0
@@ -349,7 +349,7 @@ A torch is lying here.~
 obj Guardian key~
 100
 &wGuardian Key&n~
-A torch is lying here.~
+A guardians key lies here.~
 ~
 18 0 0 1
 0 1 0 0

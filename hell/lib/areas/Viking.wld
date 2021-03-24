@@ -1,0 +1,1760 @@
+#17400
+Fish's Plaice.~
+As you enter this haze filled room, your body is engulfed in a strange
+yet pleasantly soothing sensation, as you inhale the strange smoke.
+Slowly the walls melt away, and you find yourself floating in a
+translucent blue underwater world, teeming with schools of fish.  There
+is a large wooden shipwreck below you on the ocean floor, lost under a
+carpet of aquatic vegetation, and illuminated magically by the golden
+light filtering down from the surface above.  The whole seabed seems to
+sway gently, as the current moves through the layers of plant life that
+have taken root, and are home to a vast array of strangely shaped and
+coloured creatures.
+~
+101 520 0 42 99 1
+S
+#17401
+Pathway in the forest.~
+You are on a dusty trail winding its way north-south between huge,ancient       
+trees that stand close on all sides. The brush around you looks very            
+dense,but you could just about pass through it.                                 
+~
+101 1048576 0 1 99 3
+D0
+The path leads through the woods.
+~
+~
+0 -1 17405
+D3
+The bushes and trees look difficult to pass through.
+~
+~
+0 -1 17402
+S
+#17402
+In the forest.~
+You are standing in fairly thick brush that comes up around your waist.         
+There is no path here,but you could fight your way slowly through the           
+plants if necessary.                                                            
+~
+101 1048576 0 1 99 3
+D0
+Back to Midgaard.
+~
+~
+0 -1 3606
+D1
+You can see a pathway.
+~
+~
+0 -1 17401
+S
+#17403
+In the dense forest.~
+You are standing in very thick forest and the plants here are so tall           
+the tops are above your head. You can barely move and the forest                
+south-west of here looks totally impassable.                                    
+~
+101 1048576 0 1 99 3
+D0
+The forest gets thinner.
+~
+~
+0 -1 17407
+D1
+The forest gets thinner.
+~
+~
+0 -1 17404
+S
+#17404
+In the forest.~
+You are standing in fairly thick brush that comes up around you waist.          
+there is no path here,but you can fight your way through the growth with        
+a small effort.                                                                 
+~
+101 1048576 0 1 99 3
+D1
+You can see a pathway.
+~
+~
+0 -1 17405
+D3
+The forest gets very thick.
+~
+~
+0 -1 17403
+S
+#17405
+Pathway through the forest.~
+You are standing on a fairly well worn trail that leads north-south             
+through a flourishing forest.                                                   
+~
+101 1048576 0 1 99 3
+D0
+The pathway leads through the trees.
+~
+~
+0 -1 17409
+D1
+The brush gets thicker.
+~
+~
+0 -1 17406
+D2
+The pathway leads through the trees.
+~
+~
+0 -1 17401
+D3
+The brush gets thicker.
+~
+~
+0 -1 17404
+S
+#17406
+In the forest.~
+You are standing in thick forest and the plants come up around your             
+waist. The forest gets very dense to the east and it does not look              
+passable.                                                                       
+~
+101 1048576 0 1 99 3
+D0
+It looks difficult to pass through.
+~
+~
+0 -1 17410
+D3
+You can see a pathway.
+~
+~
+0 -1 17405
+S
+#17407
+In the forest.~
+You are standing in thick forest and the plants come up around your             
+waist,making movement difficult.                                                
+~
+101 1048576 0 1 99 3
+D0
+You can see a pathway.
+~
+~
+0 -1 17412
+D1
+The forest gets thicker.
+~
+~
+0 -1 17408
+D2
+The forest gets thicker.
+~
+~
+0 -1 17403
+S
+#17408
+By the fallen tree.~
+The forest here is extremely thick,and it looks almost impossible to move       
+any further. There is a huge tree that seems to have fallen here,and the        
+only way out from here is back west.                                            
+~
+101 1048576 0 1 99 3
+D3
+The forest gets thinner.
+~
+~
+0 -1 17407
+E
+tree~
+It is a huge, and clearly very old tree that looks as if if has been hit by
+lightning recently and toppled.
+~
+S
+#17409
+Pathway through the forest.~
+You are on a well worn path that leads north-south through a pleasant           
+region of forest. The growth on either side looks very dense,and it is a        
+wonder this path could have been made at all in such a dense area.              
+~
+101 1048576 0 1 99 3
+D0
+nothing special.
+~
+~
+0 -1 17414
+D2
+nothing special.
+~
+~
+0 -1 17405
+S
+#17410
+In the dense forest.~
+You are standing in a very dense area of forest. The growth is so thick         
+that you can barely move,and the tops of the plants are higher than your        
+head.                                                                           
+~
+101 1048576 0 1 99 3
+D2
+The brush thins out a little.
+~
+~
+0 -1 17406
+S
+#17411
+End of the pathway.~
+The path ends here at a small river. There are a number of small articles       
+here,used for washing clothes,but nothing of any real use. The path is          
+blocked on both sides by the thick plant growth,and the only way out of         
+here is back east.                                                              
+~
+101 1048576 0 1 99 3
+D1
+nothing special.
+~
+~
+0 -1 17412
+S
+#17412
+Pathway through the forest.~
+The path here splits leading north,east and west. The forest looks very         
+dense around you,but you think you may be able to make your way south           
+through the growth,with a struggle.                                             
+~
+101 1048576 0 1 99 3
+D0
+nothing special.
+~
+~
+0 -1 17417
+D1
+nothing special.
+~
+~
+0 -1 17413
+D2
+The forest looks dense.
+~
+~
+0 -1 17407
+D3
+nothing special.
+~
+~
+0 -1 17411
+S
+#17413
+Pathway through the forest.~
+You are standing on a pathway that leads through some very dense forest.        
+The path looks well worn,but you are quite sure you would not get very          
+far if you tried to get through the trees.                                      
+~
+101 1048576 0 1 99 3
+D1
+nothing special.
+~
+~
+0 -1 17414
+D3
+nothing special.
+~
+~
+0 -1 17412
+S
+#17414
+Pathway through the forest.~
+You are standing at a bend in the pathway. It is well worn,and surrounded       
+by a very dense looking forest,and continues south and west.                    
+~
+101 1048576 0 1 99 3
+D1
+The forest looks dense.
+~
+~
+0 -1 17415
+D2
+nothing special.
+~
+~
+0 -1 17409
+D3
+nothing special.
+~
+~
+0 -1 17413
+S
+#17415
+In the forest.~
+You are standing in thick forest. The plants come up around your waist          
+amd it is difficult to move. You can see it gets easier to the west.            
+~
+101 1048576 0 1 99 3
+D0
+The forest looks thicker.
+~
+~
+0 -1 17420
+D1
+The forest looks thicker.
+~
+~
+0 -1 17416
+D3
+You can see a pathway.
+~
+~
+0 -1 17414
+S
+#17416
+In the dense forest.~
+You are standing in extremely dense forest. The plants here seem to come        
+up over your head,and it is almost impossible to move here.                     
+~
+101 1048576 0 1 99 3
+D3
+The forest gets thinner.
+~
+~
+0 -1 17415
+S
+#17417
+Pathway through the forest.~
+You are standing on a well beaten pathway leading north-south through           
+the heavy forest.                                                               
+~
+101 1048576 0 1 99 3
+D0
+nothing special.
+~
+~
+32 -1 17421
+D1
+The forest looks dense.
+~
+~
+0 -1 17418
+D2
+nothing special.
+~
+~
+0 -1 17412
+S
+#17418
+In the forest.~
+You are standing in thick forest. The plants come up high around your           
+waist and seem to pull at your clothes. It looks even denser to the east,       
+and you can see a pathway to your west.                                         
+~
+101 1048576 0 1 99 3
+D1
+more forest.
+~
+~
+0 -1 17419
+D3
+You can see a pathway.
+~
+~
+0 -1 17417
+S
+#17419
+Deep in the forest.~
+The forest here is extremely thick and you can barely move. The trees           
+dissapear into the air,and the the plants virtually reach the height of         
+your head.                                                                      
+~
+101 1048576 0 1 99 3
+D1
+more forest.
+~
+~
+0 -1 17420
+D3
+more forest.
+~
+~
+0 -1 17418
+S
+#17420
+Deep in the forest.~
+The forest is thick and the plants come up to your waist,making it              
+difficult to move.                                                              
+~
+101 1048576 0 1 99 3
+D2
+You can't see very far because of the thick forest.
+~
+~
+0 -1 17415
+D3
+more forest.
+~
+~
+0 -1 17419
+S
+#17421
+Pathway to the village.~
+You are on a well beaten pathway that leads north to a village and south        
+into the forest. The trees on either side look very dense and you are           
+sure you could not get through.                                                 
+~
+101 1048576 0 1 99 3
+D0
+The path leads toward a village.
+~
+~
+0 -1 17422
+D2
+nothing special.
+~
+~
+0 -1 17417
+S
+#17422
+Pathway to the village.~
+You are standing on a well beaten pathway that leads north to a village and
+south into the forest. The trees on either side are very dense and do not 
+look passable.
+~
+101 1048576 0 1 99 1
+D0
+It looks like the entrance to the village.
+~
+~
+0 -1 17423
+D2
+nothing special.
+~
+~
+0 -1 17421
+S
+#17423
+Front gates of the village.~
+You are standing before a large pair of wooden gates.  The wood is dark and
+very grainy, and looks as if it has been cut from the local trees.  On either
+side of the gate the fence dissapears away into the woods out of site.
+The track is frozen and more than a little slippery.
+~
+101 1048576 0 1 99 1
+D0
+You can see the huts of the village.
+~
+gates north~
+41 -1 17428
+D2
+nothing special.
+~
+~
+0 -1 17422
+S
+#17424
+Inside a hut.~
+The hut is obviously designed for warmth above all other factors.  There is
+a small partition seperating the hut into two rooms, but it is very 
+insubstantial so the warmth from the fireplace can spread.  The fireplace 
+itself is set at the base of a stone chimney which dissapears into the thick
+grey thatch, and the rest of the room is cluttered with household 
+brick-a-brack.
+~
+101 1048584 0 1 99 1
+D0
+You can see the pathway outside.
+~
+door north~
+1 -1 17429
+S
+#17425
+Inside the hut.~
+This robust little house has been lovingly cleaned and cared for by it's
+inhabitants.  Everything looks spotless, and yet still very cosy.  The 
+fireplace is crackling gently and a little smoke escapes the chimney and 
+enters the room.
+~
+101 1048584 0 1 99 1
+D0
+You can see the pathway outside.
+~
+door north~
+1 -1 17430
+S
+#17426
+An animal pen.~
+The ground in this muddy pen is well churned by the hooves of it's occupants
+and sticks to your boots like glue.  There is a wooden gate to the pen, and
+the side of a hut to the north forms part of the pen.  the village fence
+wraps around the rest of the pen, and dissapears behind another building.
+~
+101 1048576 0 1 99 1
+D1
+nothing special.
+~
+gate pen east~
+9 -1 17438
+S
+#17427
+End of the ship's hull.~
+Get outta here you rascal. This zone aint finished.
+~
+101 8 0 1 99 1
+D2
+The ship's hull continues.
+~
+~
+0 -1 17494
+S
+#17428
+Pathway through the village.~
+You are just inside the entrance to the village.  The pathway into the 
+village splits, going north and east, or south out of the village.  It is 
+bitterly cold here, as the wind has a fairly clear run between the buildings
+here.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17435
+D1
+nothing special.
+~
+~
+0 -1 17429
+D2
+The path leads out into the forest.
+~
+gates south~
+41 -1 17423
+S
+#17429
+Pathway through the village.~
+You are standing on a frozen pathway through the village.  There are well
+built houses on either side, clearly built to keep the freezing cold out.
+West a little you can see the entrance to the village.
+~
+101 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 17430
+D2
+You can see a hut.
+~
+door south~
+1 -1 17424
+D3
+nothing special.
+~
+~
+0 -1 17428
+S
+#17430
+Pathway through the village.~
+The muddy path has been frozen solid, making it as hard as stone.  The path
+turns here, with houses all around.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17437
+D1
+You can see a house.
+~
+door east~
+1 -1 17431
+D2
+You can see a hut.
+~
+door south~
+1 -1 17425
+D3
+nothing special.
+~
+~
+0 -1 17429
+S
+#17431
+Inside the hut.~
+You are standing inside a small warm hut.  It has stone walls and a thick
+thatch roof, although inside there is only the one big room.  A small 
+fireplace burns quietly warming the home and providing the only source of
+light in here.
+~
+101 1048584 0 1 99 1
+D3
+You can see the pathway outside.
+~
+door west~
+1 -1 17430
+S
+#17432
+Top of the tower.~
+Scanning around here from the top of the watchtower you can see miles out
+to see, and inland to the nearby hills.  The tower is very cold though,
+being exposed to the icy wind blowing in from the sea and not being protected
+by the cover of the forestation.
+A sturdy ladder leads down to the ground level.
+~
+101 1048584 0 1 99 1
+D5
+The ladder leads down.
+~
+~
+0 -1 17448
+S
+#17433
+An animal pen.~
+This pig pen is not frozen, luckily for the pigs.  Straw and other debris
+is mixed into the mud and it looks like a knee-deep quagmire.  The pen is
+in the corner of the village, and the village fence neatly wraps around it.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+gate pen north~
+9 -1 17438
+S
+#17434
+A small hut.~
+This is a small warm hut.  The floor is covered with a number of animal
+skin rugs although they are grimy and need to be cleaned.  A wooden bed
+against one of the walls looks very inviting and the cosy picture is 
+completed by the fire burning slowly in the corner in the fireplace.
+~
+101 1048584 0 1 99 1
+D0
+You can see the pathway outside.
+~
+door north~
+9 -1 17439
+S
+#17435
+Fish's Zone.~
+All around you can see small, sturdily built huts.  You imagine they would
+be very cosy despite this bitter cold.  The path has frozen as hard as stone.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17440
+D2
+nothing special.
+~
+~
+0 -1 17428
+S
+#17436
+A small hut.~
+Inside this small hut you can see for yourself just how cosy a home can be
+built in such cold areas.  There is a small fire burning in the fireplace,
+just large enough to maintain the warm temperature here and the thick
+blankets and rugs must keep
+~
+101 1048584 0 1 99 1
+D1
+You can see the pathway outside.
+~
+door east~
+1 -1 17437
+E
+woman corpse~
+The dwarven woman is lying here naked and with huge slices all over her body
+that look as if they could have finished off a troll.
+~
+S
+#17437
+Pathway through the village.~
+You are standing on the icy pathway that leads through the village.  The fence
+runs alongside you on one side and a nearby hut west of here blocks your view 
+of the other houses.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17442
+D2
+nothing special.
+~
+~
+0 -1 17430
+D3
+You can see the ruins of a hut.
+~
+door west~
+1 -1 17436
+S
+#17438
+Pathway through the village.~
+The frozen path here seems to become a thick muddy quagmire and sticks to
+your boots.  This corner of the village appears to be where all the pigs
+are kept, and both south and west of here are pig pens.  The path leads away
+north and east, along the sides of one of the larger houses in the village
+with smoke coming from it's chimney.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17445
+D1
+nothing special.
+~
+~
+0 -1 17439
+D2
+nothing special.
+~
+gate pen south~
+9 -1 17433
+D3
+You can see inside a muddy pig pen.
+~
+gate pen west~
+9 1 17426
+S
+#17439
+Pathway through the village.~
+This frozen path leads between two huts north and south of here.  The one to
+the north looks a little bigger than most of the others you can see.  The
+huts have a dark thatch and grey looking walls and look very simple but 
+very warm.
+~
+101 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 17440
+D2
+You can see a hut.
+~
+door south~
+9 -1 17434
+D3
+nothing special.
+~
+~
+0 -1 17438
+S
+#17440
+Centre of the village.~
+Standing at the centre of the village here, you can see most of the huts that
+make it up.  There is a small well here from which the village must draw it's
+water, but you cannot imagine how it would not be frozen in this bitter cold.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17447
+D1
+nothing special.
+~
+~
+0 -1 17441
+D2
+nothing special.
+~
+~
+0 -1 17435
+D3
+nothing special.
+~
+~
+0 -1 17439
+E
+well~
+You can see water a little way down, but cannot tell if it is frozen or not.
+~
+E
+bucket rope~
+The well is nothing more than a dirty hole dug into the ground here, and the
+bucket is sitting on the ground with the rope attached to the top of it, and
+pinned at the other end to the floor.
+~
+S
+#17441
+Pathway through the village.~
+North of here is a small tower, and south, one of many small huts.  The path
+runs between them both, and is frozen solid.
+~
+101 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 17442
+D3
+nothing special.
+~
+~
+0 -1 17440
+S
+#17442
+A crossroads.~
+The pathway splits in all directions here.  The ground is frozen solid, and
+the icy gale seems a little stronger here where the ground is more open.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17449
+D1
+nothing special.
+~
+~
+0 -1 17443
+D2
+nothing special.
+~
+~
+0 -1 17437
+D3
+nothing special.
+~
+~
+0 -1 17441
+S
+#17443
+End of the pathway through the village.~
+The pathway ends here at the entrance to a large hut, probably the largest
+in the entire village.  There is a large wooden fence around the edge of
+the village here.
+~
+101 1048576 0 1 99 1
+D0
+You can see the largest hut in the village.
+~
+door north~
+41 -1 17450
+D3
+nothing special.
+~
+~
+0 -1 17442
+S
+#17444
+Inside a hut.~
+This cosy little hut has been split into two small sections, making it
+unusually luxurious.  A small well built fire is sitting on the fireplace but
+it has not been lit.  The hut is fairly cold.
+~
+101 1048584 0 1 99 1
+D1
+You can see the pathway outside.
+~
+~
+0 -1 17445
+S
+#17445
+Pathway through the village.~
+All around you can see small, sturdily built huts.  You imagine they would
+be very cosy despite this bitter cold.  The path has frozen as hard as stone.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17453
+D2
+nothing special.
+~
+~
+0 -1 17438
+D3
+You can see a battered looking hut.
+~
+~
+0 -1 17444
+S
+#17446
+The Blacksmith's hut.~
+You are looking at a rough, battle ready woman almost six feet tall, and well
+built. She is wearing the same garb as the rest of the Norsemen, and looks
+just as rugged.
+~
+101 1048584 0 1 99 1
+D1
+You can see the pathway outside.
+~
+~
+0 -1 17447
+S
+#17447
+Pathway through the village.~
+You are standing on a frozen pathway surrounded by village huts, as an icy wind
+blows in from the ocean to the north.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17455
+D2
+nothing special.
+~
+~
+0 -1 17440
+D3
+You can see a sturdy looking hut.
+~
+~
+0 -1 17446
+S
+#17448
+Bottom of the tower.~
+You are standing at the base of the tower from which the villagers can watch
+both inland and out to sea for approaching invaders.  A heavy wooden door 
+leads out into the village, and a ladder leads up to the top of the tower.
+~
+101 1048584 0 1 99 1
+D1
+You can see the pathway outside.
+~
+door east~
+1 -1 17449
+D4
+The ladder leads up.
+~
+~
+0 -1 17432
+S
+#17449
+Pathway in the village.~
+The path ends here next to the large wooden fence that encloses the village
+and in front of a small wooden hut.
+~
+101 1048576 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 17442
+D3
+You can see a villager's hut.
+~
+door west~
+1 -1 17448
+S
+#17450
+Inside the Chieftain's hut.~
+This is a large, moodily lit room.  The lighting gives the room a strange
+almost mist-like air to it, as it stretches off down the hall.  A large
+banqueting table sits in the middle and follows the room down toward the
+hut's opposite end.  The table is laid with a variety of freshly cooked meat
+and foreign fruits, and the meal looks very tasty.
+~
+101 1048584 0 1 99 1
+D1
+You can see the other end of the hut.
+~
+~
+0 -1 17451
+D2
+You can see the pathway outside.
+~
+door south~
+41 -1 17443
+S
+#17451
+Inside the Chieftain's hut.~
+You are as the back of the Chieftain's hut.  At the end of the huge table
+there is a large chair which is clearly the makeshift throne of the 
+Chieftain himself.  The room is not very well lit, and in the dim light you
+can barely make out the edges of the room at all.
+~
+101 1048584 0 1 99 1
+D3
+You can see the other end of the hut.
+~
+~
+0 -1 17450
+S
+#17452
+Remains of a village hut.~
+You are standing inside a small warm hut.  It has stone walls and a thick
+thatch roof, although inside there is only the one big room.  A small 
+fireplace burns quietly warming the home and providing the only source of
+light in here.
+~
+101 1048584 0 1 99 1
+D1
+You can see the pathway outside.
+~
+~
+0 -1 17453
+S
+#17453
+Pathway in the village.~
+You are standing on a bend in the path.  The path continues south past a
+few houses, and the other way leads east.  The houses look fairly sturdy,
+probably needing to be very well insulated because of the cold.
+~
+101 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 17454
+D2
+nothing special.
+~
+~
+0 -1 17445
+D3
+You can see the remains of one of the village huts.
+~
+~
+0 -1 17452
+S
+#17454
+Pathway through the village.~
+You are on the pathway leading between two houses.  The house to the south
+has a large chimney on top, from which an unusual amount of smoke is coming.
+The path itself has been frozen solid and is a little slippery.
+~
+101 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 17455
+D3
+nothing special.
+~
+~
+0 -1 17453
+S
+#17455
+Pathway through the village.~
+You are standing on the pathway between three houses.  The faint wind has
+a very cold edge to it, and the frozen mud feels as hard as stone.
+~
+101 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17458
+D1
+You can see the remains of a hut.
+~
+~
+0 -1 17456
+D2
+nothing special.
+~
+~
+0 -1 17447
+D3
+nothing special.
+~
+~
+0 -1 17454
+S
+#17456
+A small hut.~
+This is a smallish hut, large enough for a couple but it would seem a tight
+squeeze with a child.  The small fireplace has a stone chinmney leading up
+through the thatch, and the dirt floor is covered by a handful of slightly
+ragged furs.
+~
+101 1048584 0 1 99 1
+D3
+You can see the pathway outside.
+~
+~
+0 -1 17455
+S
+#17457
+Villager's hut.~
+The owner of this hut appears to be a fisherman judging by it's contents.
+Various odds and ends from a small boat are lying around, mixed randomly
+amongst the household objects.  There is a small fireplace, but it has not
+been used recently and the house is cold.
+~
+101 1048584 0 1 99 1
+D1
+You can see the pathway outside.
+~
+~
+0 -1 17458
+S
+#17458
+Pathway through the village.~
+This pathway runs into the village from the shore.  The ground is frozen, and
+a little slippery.  A small home is west of here and the path continues south
+into the village.
+~
+101 1048576 0 1 99 1
+D0
+You can see the northern entrance to the village.
+~
+~
+32 -1 17459
+D2
+nothing special.
+~
+~
+0 -1 17455
+D3
+You can see the remains of a hut.
+~
+~
+0 -1 17457
+S
+#17459
+Village Gates.~
+The village gates here have been fixed open, and the path leads through into
+the village.  There are houses scattered around inside the village and you
+can see people walking around, going about their business.
+~
+101 1048576 0 1 99 1
+D0
+The path heads towards a shoreline.
+~
+~
+0 -1 17460
+D2
+nothing special.
+~
+~
+32 -1 17458
+S
+#17460
+Gravel path.~
+This small path leads through a gap in the forest, away from the beach and
+towards the village gates.  The path is made of gravel which crunches under
+your feet.
+~
+101 1048576 0 1 99 1
+D0
+You can see the seafront.
+~
+~
+0 -1 17469
+D2
+You can see the village entrance.
+~
+~
+0 -1 17459
+S
+#17461
+Dangerous looking cliffs.~
+You have moved down a little, when suddenly the rocks underneath your           
+feet gives way. You bolt downwards, and your chin smashes against the           
+jagged rock, knocking your head backwards. As you feel conciousness ebb         away, you can see the rocks below, racing toward you.                           
+You remain concious just long enough to hit the rocks....
+~
+101 1048582 0 1 99 5
+S
+#17462
+Halfway up the rocky cliff face.~
+As you climb up these rocks you suddenly realise you cannot climb any 
+higher due to the large overhang of the rocks above.  The icy wind is
+twice as chilling at this height, and grasping the rocks, you will not be
+able to hold on for very long here.
+~
+101 1048585 0 1 99 5
+D5
+The rocks are extremely jagged and it looks as if it would be very 
+dangerous to try to climb back down.
+~
+~
+0 -1 17461
+S
+#17463
+On the rocky clifface.~
+You are climbing on the side of the cliff face.  It is fairly difficult to
+keep a firm grasp on these rocks, and the icy wind makes it no easier.
+The rocks below look very jagged, but you feel you could climb down 
+safely from here.
+~
+101 1048576 0 1 99 5
+D4
+The cliff face continues upwards as far as you can see from here.
+~
+~
+0 -1 17462
+D5
+It looks a little unsafe.
+~
+~
+0 -1 17464
+S
+#17464
+Bottom of the cliff face.~
+You have reached the point where the end of the beach joins the rugged
+cliff face.  The area is littered with large boulders which have fallen
+from the cliff, it's deterioration hastened by the icy climate.  The 
+rocks look like they could be climbed, but it would be dangerous with
+so much ice around.
+~
+101 1048576 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17465
+D4
+It looks like a difficult climb.
+~
+~
+32 -1 17463
+S
+#17465
+A pebble beach.~                                                               ~
+You are standing on a long icy pebble beach.  The wind blowing in from the
+sea has a very sharp cold edge to it.  West of here you can see rocky cliffs
+climbing up from the beach.
+~
+101 1048576 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17466
+D3
+You can see the beach ends at the base of some cliffs.
+~
+~
+0 -1 17464
+S
+#17466
+On the beach.~
+You are standing on a long stretch of an icy pebble beach.  Far to the 
+west you can see the beach ends at the base of some rocky cliffs, whilst
+in the other direction the beach reaches for as far as you can see.
+~
+101 1048576 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17467
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17465
+S
+#17467
+On the beach.~
+You are standing on a long stretch of an icy pebble beach.  The beach
+stretches away along the seafront in both directions, ending far to the
+west at the base of some cliffs.  Just east of here a small pier jets out
+over the waves and a small boat is tied to it.
+~
+101 1048576 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17468
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17466
+S
+#17468
+Base of the jetty.~
+A small wooden pier jets out from the beach here.  There is a small wooden
+boat that bobs up and down on the waves, tied to the end of the pier. 
+East along the beach from here you can see a longship at the edge of the
+shore, and south east a path leads away from the shore toward a small
+village.
+~
+101 1048576 0 1 99 1
+D0
+The jetty stretches out across the water.
+~
+~
+32 -1 17477
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17469
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17467
+S
+#17469
+On the beach.~
+This is where a small path from the village breaks out onto the beach.  The
+beach is pebbled, with an icy cold wind blowing in from the sea.  West you
+can see a small pier stretching out from the shore, and eastward two 
+longships have positioned themselves against the edge of the water.
+~
+101 1048576 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17470
+D2
+You can see the egde of the beach.
+~
+~
+0 -1 17460
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17468
+S
+#17470
+On the beach by the longship.~
+A long wooden plank here leads up from the icy beach onto the deck of the
+longship that has been half-beached here, digging a trough in the small
+pebbles of the beach.  The hull of the longship has been painted black, but
+you can see small crustacians have attached themselves to the regions 
+which would normally be below sea level.
+~
+101 1048576 0 1 99 1
+D0
+The plank leads onto the deck of the longship.
+~
+~
+32 -1 17480
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17471
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17469
+S
+#17471
+On the beach.~
+You are standing on a long pebbled beach that stretches off along          
+the coastline in both directions for as far as you can see, whilst an icy
+wind from the sea blows all around you.  Just west of here you can see a
+longship has been left, beached on the shore to protect it from the strong
+ocean currents.
+~
+101 1048584 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17472
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17470
+S
+#17472
+On the beach.~
+You are standing on an icy cold pebbled beach.  Just east of here a
+longship has anchored itself against the currents by beaching itself on the
+shore, and a little way west you can see another.
+~
+101 1048576 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17473
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17471
+S
+#17473
+A pebble beach.~
+You are standing on a long pebble beach that stretches off in both              
+directions. There is the bow of a Viking longship, beached on the shore         
+here, and a thick, heavy looking plank leads up from the beach to the           
+deck. You can see a wooden figurehead of a mermaid, painted in bright           
+colours, hanging underneath the bow                                             
+~
+101 1048576 0 1 99 1
+D0
+The plank leads up onto the deck of the longship.
+~
+~
+32 -1 17484
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17474
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17472
+S
+#17474
+A pebble beach.~                                                               ~
+You are standing on a long pebbled beach that stretches off along the
+coastline in both directions for as far as you can see.  West of here a
+longship has beached it's bow to anchor itself against the icy currents.
+~
+101 1048576 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17475
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17473
+S
+#17475
+A pebble beach.~
+You are standing on a long pebbled beach that stretches off along             
+the coastline in both directions for as far as you can see, whilst an icy
+wind from the sea blows all around you.
+~
+101 1048576 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17476
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17474
+S
+#17476
+A pebble beach.~
+You are standing on a long pebbled beach that stretches off along             
+the coastline in both directions for as far as you can see, whilst an icy
+wind from the sea blows all around you.
+~
+101 1048576 0 1 99 1
+D1
+The beach stretches away into the distance.
+~
+~
+0 -1 17475
+D3
+The beach stretches away into the distance.
+~
+~
+0 -1 17475
+S
+#17477
+On the jetty.~
+Standing on the small pier, you can feel the swell of the water as waves
+pass underneath to break against the shore.  It is as cold out here on the
+water as it was on the shoreline.  East, moored to the pier is a small
+fishing boat that appears to be one of the sources of food for the village.
+~
+101 1048576 0 1 99 1
+D1
+You can see a small, rugged looking fishing boat moored to the pier.
+~
+~
+0 -1 17479
+D2
+The pier leads back down to the beach.
+~
+~
+32 -1 17468
+S
+#17478
+Blank~
+Get outta here you rascal. This zone aint finished.
+~
+101 268435464 536870912 1 99 1
+S
+#17479
+On the small fishing boat.~
+Standing on this small fishing boat, the first thing that hits you is the
+pungent smell of fresh sea food.  The nets and rigging of the boat have been
+efficiently and neatly stowed away, leaving the boat with the appearance of
+organised chaos.  Spray from the sea has been washed over the side, and is
+now frozen leaving the surface of the ship fairly hazardous, and you can
+see a number of small pieces of fish frozen into the icy deck.
+~
+101 1048576 0 1 99 1
+D3
+The small pier bobs up and down on the water.
+~
+~
+0 -1 17477
+S
+#17480
+At the bow of the longship.~
+You are standing at the bow of this viking longship.  There is a simple
+plank in position, allowing you to walk down onto the beach.  The ship 
+has a wooden walkway running it's full length, on which you can move further
+on board.  Oars litter the hull and the sail is down.  It does not look as
+if they plan to sail anytime soon.
+~
+101 1048576 0 1 99 1
+D0
+The deck continues.
+~
+~
+0 -1 17481
+D2
+The plank leads down to the beach.
+~
+~
+32 -1 17470
+S
+#17481
+On the longship.~
+Standing on the walkway near the centre of this longship you can see why 
+the norsemen must be a hardy breed.  There is little or no protection from
+the elements whilst at sea, only a number of shields arranged along the rim
+of the vessel to block out a little of the spray.
+~
+101 1048576 0 1 99 1
+D0
+The deck continues.
+~
+~
+0 -1 17482
+D2
+You can see the end of the deck.
+~
+~
+0 -1 17480
+S
+#17482
+On the longship.~
+You are standing on a wooden walkway running the length of the ship.  There
+are oars jutting out from the sides of the ship, and shields have been fixed
+along the rim to protect the oarsmen from arrows.  The huge mast is fixed
+here, in the centre of the boat although the sail is down.
+~
+101 1048576 0 1 99 1
+D0
+You can see the end of the deck.
+~
+~
+0 -1 17483
+D2
+The deck continues.
+~
+~
+0 -1 17481
+S
+#17483
+Stern of the longship.~
+This end of the longship is afloat, and you can feel it move up and down 
+in time with the swell.  The level for the rudder is here, fixed in 
+position to stop it being moved by the tide, and you can feel the icy wind
+from the ocean blowing in over the rim of the boat, chilling your bones.
+~
+101 1048576 0 1 99 1
+D2
+The deck continues.
+~
+~
+0 -1 17482
+S
+#17484
+Bow of the longship.~
+Standing at the bow of the longship, you can see the simple design of these
+ships.  There are no lower decks and only one single mast in the centre of
+the ship.  Oars are distributed along the length of the ship, to be operated
+by the viking warriors.  Walkways are fixed along the length of the shi
+making it easier to walk along, and a plank is in place to walk down to the
+beach.
+~
+101 1048576 0 1 99 1
+D0
+The rowing deck continues.
+~
+~
+0 -1 17485
+D2
+The plank leads down to the beach.
+~
+~
+32 -1 17473
+S
+#17485
+On the longship.~
+You are standing on a wooden walkway running the length of the ship.  There
+are oars jutting out from the sides of the ship, and shields have been fixed
+along the sides to protect the oarsmen from arrows.  Unfortunately it does
+nothing to stop the icy cold, and the wind blows through the ship quite
+vigorously.
+~
+101 1048576 0 1 99 1
+D0
+The rowing deck continues.
+~
+~
+0 -1 17486
+D2
+You can see the end of the ship's hull.
+~
+~
+0 -1 17484
+S
+#17486
+On the longship.~
+You are standing on a wooden walkway running the length of the ship.  There
+are oars jutting out from the sides of the ship, and shields have been fixed
+along the rim to protect the oarsmen from arrows.  The huge mast is fixed
+here, in the centre of the boat although the sail is down.
+~
+101 1048576 0 1 99 1
+D0
+You can see the end of the ship.
+~
+~
+0 -1 17487
+D2
+The rowing deck continues.
+~
+~
+0 -1 17485
+S
+#17487
+Stern of the longship.~
+This end of the longship is afloat, and you can feel it move up and down 
+in time with the swell.  The level for the rudder is here, fixed in 
+position to stop it being moved by the tide, and you can feel the icy wind
+from the ocean blowing in over the rim of the boat, chilling your bones.
+~
+101 1048576 0 1 99 1
+D2
+The ship leads towards the beach.
+~
+~
+0 -1 17486
+S
+#17488
+On the deck of the viking longship.~
+UNDEFINED ROOM DESCRIPTION: 17488
+~
+101 8 0 1 99 1
+D0
+The deck continues.
+~
+~
+0 -1 17489
+S
+#17489
+On the deck of the Viking longship.~
+UNDEFINED ROOM DESCRIPTION: 17489
+~
+101 8 0 1 99 1
+D0
+The deck continues.
+~
+~
+0 -1 17490
+D2
+You can see the bow of the ship.
+~
+~
+0 -1 17488
+S
+#17490
+On the deck of the Viking longship.~
+Get outta here you rascal. This zone aint finished.
+~
+101 8 0 1 99 1
+D0
+You can see the stern of the longship.
+~
+~
+0 -1 17491
+D2
+The deck continues.
+~
+~
+0 -1 17489
+D5
+A ladder leads down inside the ship.
+~
+~
+0 -1 17494
+S
+#17491
+Stern of the Viking longship.~
+Get outta here you rascal. This zone aint finished.
+~
+101 8 0 1 99 1
+D2
+The deck continues.
+~
+~
+0 -1 17490
+S
+#17492
+End of the ship's hull.~
+Get outta here you rascal. This zone aint finished.
+~
+101 8 0 1 99 1
+D0
+The ship's hull continues.
+~
+~
+0 -1 17493
+S
+#17493
+On the rowing decks.~
+Get outta here you rascal. This zone aint finished.
+~
+101 8 0 1 99 1
+D0
+The ship's hull continues.
+~
+~
+0 -1 17494
+D2
+You can see the end of the ship's hull.
+~
+~
+0 -1 17492
+S
+#17494
+Rowing decks inside the longship.~
+Get outta here you rascal. This zone aint finished.
+~
+101 8 0 1 99 1
+D0
+You can see the end of the hull.
+~
+~
+0 -1 17427
+D2
+The ship's hull continues.
+~
+~
+0 -1 17493
+D4
+A ladder leads up to the deck.
+~
+~
+0 -1 17490
+S
+$~
+#999999

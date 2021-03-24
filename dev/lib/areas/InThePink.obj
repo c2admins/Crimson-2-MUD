@@ -1,0 +1,764 @@
+#15800
+obj ice of detroit light QUEST~
+100
+&wthe &Wice &wof &rD&Retr&roi&Rt&n~
+&wice from a rink slowly melts on the ground&n~
+~
+1 1078198272 0 81921
+0 0 0 0
+1 0 0
+A
+40 4
+A
+18 4
+A
+23 -25
+A
+24 -25
+#15801
+obj ring of detroit nhl QUEST~
+100
+&wa &RDet&rroi&Rt &WNHL &wring&n~
+&wa valuable and &Ccold&w ring rests on the ground&n~
+~
+9 1078198272 1024 3
+35 0 0 0
+1 0 0
+A
+40 4
+A
+18 4
+A
+41 1
+A
+23 -10
+#15802
+obj hasek's wedding ring QUEST~
+100
+&wH&ras&Re&Wk&w's &Yw&yed&Ydin&yg &Yri&yng&n~
+&wa &Yw&yeddin&Yg &yb&Yan&yd&w has been dropped on the ground&n~
+~
+9 1078198273 1024 3
+20 0 0 0
+1 0 0
+A
+19 3
+A
+18 3
+A
+41 2
+A
+37 -1
+#15803
+obj plastic puck guard neck QUEST~
+100
+&wa plastic &Kpuck &wguard&n~
+&wa &Kpuck&w neckguard has been thrown to the ground&n~
+~
+9 1078198272 1024 5
+25 0 0 0
+1 0 0
+A
+19 4
+A
+18 2
+A
+41 2
+#15804
+obj fang lupus wolf~
+5
+&wthe &WFa&wn&Kg &wof &KLu&wp&Kus&n~
+a very old fang radiates power~
+~
+5 79873 1056 8193
+262184 5 8 11
+5 2000000 20000
+A
+19 4
+A
+18 4
+A
+12 -10
+A
+14 -15
+#15805
+obj stanley cup nhl QUEST~
+100
+&Wt&wh&We S&wtanle&Wy C&wu&Wp&n~
+&wthe treasure of the &rN&RH&rL &Ws&wh&Wi&wn&We&ws and &Wg&wl&We&wa&Wm&ws unattended&n.~
+~
+9 1078198273 1024 16385
+50 0 0 0
+2 1000000000 0
+A
+19 8
+A
+18 7
+A
+40 2
+A
+41 5
+#15806
+obj orion maestro lance~
+2
+&wthe &Kmae&ws&Ktro's &wlance&n~
+a very old and well-used spear rests here~
+~
+5 4194305 1024 8193
+19456 10 6 11
+6 500000 50000
+E
+spear lance~
+
+*kill them all*-----*ORION*
+
+~
+E
+spear lance maestro ~
+~
+A
+19 3
+A
+18 3
+A
+14 -100
+A
+40 1
+#15807
+obj blade unbridled fury punishment ouch~
+100
+&KBl&wa&Wd&we &Wof &rPuni&Rsh&rment&n~
+&Wa weapon used to unleash &runbridled fury&W...it &Rhurts&W to even look at it.&n~
+~
+5 134217744 2112 24577
+16776827 100 100 11
+5 1000000000 0
+E
+gonna get hurt~
+
+ouch...someone's gonna get hurt
+
+~
+A
+19 20
+A
+18 20
+A
+40 20
+A
+25 127
+#15808
+obj orb of fire~
+1
+&rO&Rr&rb &wof &rF&Ri&Yre&n~
+The light of Hell burns for you.~
+~
+1 4194832 0 65537
+0 0 0 0
+1 100 1000
+A
+19 3
+A
+18 3
+A
+23 -3
+A
+24 -2
+#15809
+obj box of hillary's~
+100
+Hillary's box~
+Hillary's box is in the center of the room.~
+~
+15 541327368 512 1
+5000 15 15812 0
+10 5 5
+#15810
+obj cross hillary's~
+100
+&WH&willar&Wy's &wC&Wros&ws&n~
+A glowing white cross fills the room with light.~
+~
+9 4194561 64 16385
+30 0 0 0
+5 5000000 950000
+A
+19 7
+A
+18 3
+A
+37 -1
+#15811
+obj hillary reward~
+100
+Hillary's reward~
+the reward of Hillary~
+~
+20 0 0 1
+2000000 0 0 0
+1 5 5
+E
+skeleton~
+      .-.
+     (o.o)
+      |=|
+     __|__
+   //.=|=.\\
+  // .=|=. \\
+  \\ .=|=. //
+   \\(_=_)//
+     (:| |:)
+      || ||
+      () ()
+      || ||
+      || ||
+   ==' '==
+~
+#15812
+obj soul fiance's~
+100
+&rFiance&R'&rs &wsoul&n~
+Fiance's soul is hovering in the air.~
+~
+18 138674176 4 16385
+15809 1 0 0
+1 5 5
+#15813
+obj note~
+100
+note~
+There is a note on the floor.~
+~
+12 134217728 0 0
+0 0 10 0
+1 5 5
+E
+note~
+If you can possibly defeat my Fiance, bring his soul here and you will be able
+to unlock my box for your rewards.
+
+- Hillary Rose
+
+~
+#15814
+obj nestles hind claws~
+100
+&KHind &wCl&Wa&wws&n~
+the hind claws of a fearsome kitty~
+~
+5 524288 0 8385
+0 36 2 3
+1 5 5
+A
+19 70
+A
+18 30
+A
+41 70
+#15815
+obj better evil lightsaber~
+100
+&K[%%%%]&rlig&Rht&rsab&Rer&r====---&n~
+A weapon of the Sith has been carelessly dropped here.~
+~
+5 138674176 4 10241
+0 100 100 3
+1 5 5
+A
+40 100
+A
+18 100
+A
+42 -5
+A
+25 5
+#15816
+obj soul calibur~
+1
+&w@&W==&w{&W:&WS&wo&Kul&w-&cC&Ca&wl&Wi&wb&Cu&cr&W:>&n~
+The ancient soul blade of good gleams in the light.~
+~
+5 138543104 0 8193
+5245112 10 7 3
+5 5000000 5000
+A
+19 9
+A
+18 9
+A
+14 100
+A
+14 100
+#15817
+obj soul edge~
+1
+&w@&K==&w{&K:So&wu&Wl&w-&RE&rdg&Re&r::::&R>&n~
+The ancient soul blade of evil shimmers in the light.~
+~
+5 138412032 0 8193
+4195961 12 6 3
+5 5000000 5000
+A
+19 13
+A
+18 6
+A
+40 3
+#15818
+obj reaper souls~
+1
+&KRe&Kap&we&Wr &wof &KSo&wul&Ws&n~
+You can barely detect a scythe lying here.~
+~
+5 675289092 0 8193
+655419 8 8 3
+1 5 5
+A
+19 5
+A
+18 2
+A
+13 -35
+#15819
+obj bony finger death~
+1
+&Kthe &Wb&wo&Wn&wy &Wf&wi&Wn&wg&We&wr&K of D&we&Wa&wt&Kh&n~
+A bony finger twitches on the ground.~
+~
+9 541065348 0 3
+25 0 0 0
+1 5 5
+A
+40 3
+A
+18 2
+A
+24 -3
+A
+23 -3
+#15820
+obj balances pair famine~
+5
+&Ka &Kp&wa&Wi&wr of &ybal&Ya&ync&Ye&ys&n~
+A pair of ancient balances rests here.~
+~
+8 1 32 16385
+0 0 0 0
+3 150000 1500
+A
+19 5
+A
+18 3
+A
+37 -1
+A
+13 -35
+#15821
+obj vambrace bone splint~
+1
+&wb&Wo&wn&Ke-sp&wli&Wn&wte&Kd &yv&Ya&ym&wb&Kr&wa&Yc&ye&n~
+crap~
+~
+9 4194305 1028 4097
+25 0 0 0
+5 500000000 10000
+A
+19 3
+A
+18 3
+A
+13 -30
+A
+12 -15
+#15822
+obj symbol power war~
+1
+&RSy&rmb&Rol &wof &RPo&rw&Rer&n~
+&wYou see the crest of a powerful leader lying here.&n~
+~
+1 4196356 4 65537
+0 0 0 0
+1 5 5
+A
+40 3
+A
+18 2
+A
+41 2
+A
+13 -90
+#15823
+obj apocalypse greatsword war~
+1
+&RGreatsword &Wof the &KApocalypse&n~
+&wA bloodied greatsword with a frightening aura lies here.&n~
+~
+5 675284996 2048 24577
+458752 11 5 3
+1 5 5
+A
+40 4
+A
+13 -100
+#15824
+obj conqueror crown~
+1
+&WCon&wque&Wror's &YC&Wr&wo&Ww&Yn&n~
+&wAn unassuming crown lies here.~
+~
+9 4196353 4 17
+15 0 0 0
+1 5 5
+A
+40 4
+A
+41 2
+A
+14 -90
+A
+12 -50
+#15825
+obj bow ages conquest~
+1
+&WBow &wof the &YAges&n~
+crap~
+~
+5 541067265 0 8193
+3932160 19 3 11
+1 5 5
+A
+40 4
+#15826
+obj crap~
+32767
+crap~
+crap~
+~
+13 0 0 1
+0 0 0 0
+1 5 5
+#15827
+obj crap~
+32767
+crap~
+crap~
+~
+13 0 0 1
+0 0 0 0
+1 5 5
+#15828
+obj crap~
+32767
+crap~
+crap~
+~
+13 0 0 1
+0 0 0 0
+1 5 5
+#15829
+obj hasek's goalie hockey stick QUEST~
+100
+&wHasek's &rG&Roali&re &ws&Rt&ri&Rc&wk&n~
+&wthe enchanted blade of &KHasek &wlies here&n~
+~
+5 1078198272 3072 24577
+166936 20 5 3
+1 0 0
+A
+40 4
+A
+18 2
+A
+41 4
+A
+17 -20
+#15830
+obj hasek's goalie mask QUEST~
+100
+&RR&re&Rd&wWi&Wn&wgs &Kgoa&wli&Ke m&wa&Ksk&n~
+&wthe legendary helmet of &WHa&ws&Wek &wrests here&n~
+~
+9 1078198272 0 17
+35 0 0 0
+1 0 0
+A
+40 2
+A
+19 3
+A
+18 3
+A
+41 2
+#15831
+obj crap~
+32767
+crap~
+crap~
+~
+13 138674176 0 16385
+50 0 0 0
+1 5 5
+E
+box chocolates~
+There is a definate smell eminating from this box.
+It sure does not smell like chocolate.
+Wait... is that some kind of jelly?
+~
+A
+19 7
+A
+41 3
+A
+25 3
+A
+18 7
+#15832
+obj crap~
+32767
+crap~
+crap~
+~
+13 138674176 0 5
+30 0 0 0
+1 5 5
+A
+25 1
+A
+41 1
+A
+19 1
+A
+18 1
+#15833
+obj crap~
+32767
+crap~
+crap~
+~
+13 4456448 0 513
+40 0 0 0
+10 5 5
+A
+41 3
+A
+25 3
+A
+19 3
+A
+18 3
+#15834
+obj chimera scroll form (3 max in game)~
+1
+Chimera scroll~
+A tattered scroll of chimera lies here.~
+~
+2 134217728 1024 1
+48 1 1 215
+1 5 5
+#15835
+obj manticore scroll form (5 max in game)~
+1
+manticore scroll~
+A tattered scroll of manticore lies here.~
+~
+2 134217728 1024 1
+48 1 1 212
+1 5 5
+#15836
+obj crap~
+32767
+The First Shard of Narsil~
+crap~
+~
+13 138675200 0 8193
+6850688 7 7 11
+1 5 5
+A
+25 1
+A
+19 6
+A
+18 7
+#15837
+obj crap~
+32767
+crap~
+crap~
+~
+13 138674688 0 8193
+6850688 7 7 11
+1 5 5
+A
+25 1
+A
+19 6
+A
+18 7
+#15838
+obj crap~
+32767
+crap~
+crap~
+~
+13 4456448 0 4397
+0 0 0 0
+1 5 5
+A
+19 7
+A
+18 7
+A
+25 1
+A
+41 1
+#15839
+obj crap~
+32767
+crap~
+crap~
+~
+13 4456448 0 3
+80 0 0 0
+1 5 5
+A
+40 3
+A
+25 1
+#15840
+obj crap~
+32767
+crap~
+crap~
+~
+13 675545088 4 3
+85 0 0 0
+1 5 5
+E
+sparkle~
+For my Valentine, so that we may not be parted.
+~
+A
+19 4
+A
+18 4
+A
+25 2
+A
+40 2
+#15841
+obj crap~
+32767
+crap~
+crap~
+~
+13 138674176 0 8193
+6917120 7 7 3
+1 5 5
+A
+41 1
+A
+19 6
+A
+18 7
+A
+40 1
+#15842
+obj crap~
+32767
+crap~
+crap~
+~
+13 138674176 4 8193
+6917120 7 7 3
+1 5 5
+A
+25 3
+A
+19 6
+A
+18 7
+#15843
+obj crap~
+32767
+crap~
+crap~
+~
+13 4456448 4 1033
+100 0 0 0
+1 5 5
+A
+13 -100
+A
+18 10
+A
+19 5
+#15844
+obj wand master fire~
+1
+&Ka &wM&Kas&wte&Wr&w's&K wand of &rf&Yi&Rr&re&n~
+crap~
+~
+3 0 0 16385
+50 40 50 117
+1 5 5
+A
+13 40
+A
+14 40
+A
+12 40
+A
+17 -40
+#15845
+obj orion's chain of constellational binding~
+3
+&wch&Wa&win of &Kcon&wst&Well&wat&Kion&wal &cb&Ci&cnd&Ci&cng&n~
+&wthe three stars comprising the &Kbe&wl&Wt &wof &Kth&we &WOrion &Kcon&wst&Well&Wat&Kion&w.&n~
+~
+9 4194561 0 2049
+25 0 0 0
+25 1000000000 250000
+A
+19 3
+A
+18 4
+A
+12 -25
+A
+14 -20
+#15846
+obj zcmd load ac mob test~
+1
+&KZCMD &pL&woa&pd T&wes&pt&n~
+&wthis is for &cZCMD &wload testing and &cAC&w help&n.~
+~
+9 0 0 884735
+400 1 0 0
+1 5 5
+A
+17 -100
+A
+17 -100
+A
+17 -100
+A
+41 20
+#15847
+obj wizard novice robe black~
+20
+&KA &cw&Ci&cza&Cr&cd nov&Ci&cce's &Kblack robe&n~
+a black pile of cloth lies here...it smells like ozone.~
+~
+15 40960 0 1025
+100 0 0 0
+1 1000 10
+A
+3 1
+A
+4 1
+A
+12 5
+A
+31 -1
+$~
+#999999

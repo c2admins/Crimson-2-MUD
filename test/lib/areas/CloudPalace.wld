@@ -1,0 +1,1763 @@
+#2100
+&BOcean&n~
+&cYou are surrounded by ocean in all directions for as far as you can see.&n
+~
+24 0 1024 1 99 7
+D0
+nothing special.
+~
+~
+0 -1 2101
+D2
+nothing special.
+~
+~
+0 -1 2192
+S
+#2101
+&BOcean&n~
+&cYou are surrounded by ocean in all directions for as far as you can see.&n
+~
+24 0 10240 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 2102
+D2
+nothing special.
+~
+~
+0 -1 2100
+S
+#2102
+&BOcean&n~
+&cLooking far to the north, you can see the coastline of Gilavie.  The ocean
+peacefully reaches out in all other directions for as far as you can see.&n
+~
+24 0 1024 1 99 7
+D0
+nothing special.
+~
+~
+0 -1 2103
+D3
+nothing special.
+~
+~
+0 -1 2101
+S
+#2103
+&BNear the Shore&n~
+&cTo the north you can see the shoreline of Gilavie.  The shore runs along
+east-west, and the ocean stretches serenely away south.&n
+~
+24 0 1024 1 99 7
+D0
+You can see the shoreline of Gilavie.
+~
+~
+0 -1 2104
+D2
+nothing special.
+~
+~
+0 -1 2102
+S
+#2104
+&BAt the Edge of the Ocean&n~
+&cYou are standing where the great ocean meets the shore.  The grass bank reaches
+up to the north, and there is a small pier here which stretches out a little
+over the water, to allow ships to safely dock.
+&nThere is a &ysign&n here, nailed to the pier.&n
+~
+24 0 66560 1 99 1
+D0
+a grassy cove
+~
+~
+0 -1 2105
+D1
+The coastline leads off into the Kandarian Ocean.
+~
+~
+0 -1 12893
+D2
+Along the coastline.
+~
+~
+0 -1 22030
+E
+sign~
+                        Graviell Ferry Services.
+ 
+       Thank you for using Graviell Ferry Services Inc.  We run
+       a regular service between the cities of Elmpatris and
+       Krysaria, regularly.
+ 
+                           Tarif : 2000 gps.
+ 
+       Thank you for using Graviell Ferry Services Inc.
+~
+S
+#2105
+&GA Small Grass Filled Cove&n~
+&gYou are in a small cove, filled with plush grass and a few scattered
+&pwildflowers&g.   You can smell that you are near ocean, and listening you can
+hear water lapping against the shore to the south.&n
+~
+24 4 0 1 99 3
+D0
+the altar
+the altar
+n
+~
+~
+0 -1 2106
+D2
+a bridge
+~
+~
+0 -1 2104
+S
+#2106
+&GA &gShrine &Gin the &yWoods&n~
+&gThe cove opened to a small shrine in the woods.  Small forest creatures play
+around you and there is a large altar built out of &wstone&g.  The air appears
+still and the creatures have stopped their noises.&n
+~
+24 8 0 1 99 3
+D2
+the bridge
+~
+the bridge~
+0 -1 2105
+S
+#2107
+&gThe &WShimmering &gStairway&n~
+&gA stairway spirals up into the &Wclouds&g.  &wMists&g swirl around you as you are drawn
+upward into the sky.  A sense of gleeful bravery overwhelms you and you venture
+forth into new places.&n
+~
+24 268435468 0 1 99 5
+D4
+the stairs
+~
+~
+0 -1 2108
+S
+#2108
+&gThe &WShimmering &gStairway&n~
+&gA stairway spirals up into the &Wclouds&g.  &wMists&g swirl around you as you are drawn
+upward into the sky.  A sense of gleeful bravery overwhelms you and you venture
+forth into new places.&n
+~
+24 268435464 0 1 99 5
+D4
+the stairs
+~
+~
+0 -1 2109
+D5
+the stairs
+~
+~
+0 -1 2107
+S
+#2109
+&gThe &WShimmering &gStairway&n~
+&gA stairway spirals up into the &Wclouds&g.  &wMists&g swirl around you as you are drawn
+upward into the sky.  A sense of gleeful bravery overwhelms you and you venture
+forth into new places.&n
+~
+24 268435464 0 1 99 5
+D4
+the stairs
+~
+~
+0 -1 2110
+D5
+the stairs
+~
+~
+0 -1 2108
+S
+#2110
+&gThe &WShimmering &gStairway&n~
+&gA stairway spirals up into the &Wclouds&g.  &wMists&g swirl around you as you are drawn
+upward into the sky.  A sense of gleeful bravery overwhelms you and you venture
+forth into new places.&n
+~
+24 268435464 0 1 99 5
+D4
+the stairs
+~
+~
+0 -1 2111
+D5
+the stairs
+~
+~
+0 -1 2109
+S
+#2111
+&gThe &WShimmering &gStairway&n~
+&gA stairway spirals up into the &Wclouds&g.  &wMists&g swirl around you as you are drawn
+upward into the sky.  A sense of gleeful bravery overwhelms you and you venture
+forth into new places.&n
+~
+24 268435464 0 1 99 5
+D4
+the stairs
+~
+~
+0 -1 2112
+D5
+the stairs
+~
+~
+0 -1 2110
+S
+#2112
+&gThe &WShimmering &gStairway&n~
+&gA stairway spirals up into the &Wclouds&g.  &wMists&g swirl around you as you are drawn
+upward into the sky.  A sense of gleeful bravery overwhelms you and you venture
+forth into new places.&n
+~
+24 268435464 0 1 99 1
+D0
+before the place
+~
+~
+0 -1 2113
+D5
+the stairs
+~
+~
+0 -1 2111
+S
+#2113
+&gThe &WShimmering &gStairway&n~
+&gA stairway spirals up into the &Wclouds&g.  &wMists&g swirl around you as you are drawn
+upward into the sky.  A sense of gleeful bravery overwhelms you and you venture
+forth into new places.
+&gA small &ydrawbridge level house&g is here, perhaps the &ylever&g will unlock it.&n
+~
+24 268435464 0 1 99 3
+D0
+the drawbridge
+~
+drawbridge~
+13 2128 2114
+D2
+the stairs
+~
+~
+0 -1 2112
+S
+#2114
+&yA Massive Drawbridge&n~
+&gA &ypolished wood drawbridge&g stands before you.  A small box stands on a pedestal 
+next to you.  It appears to be connected with the lowering and raising of     
+the bridge.&n
+~
+24 268435468 0 1 99 5
+D0
+inside the castle
+~
+drawbridge~
+1 -1 2115
+D2
+the stairs
+~
+~
+0 -1 2113
+S
+#2115
+&KInside the Wall&n~
+&wThe &ydrawbridge&w led you inside the palace wall.  Spires reach up endlessly into
+the sky and all the stone on the walls appears polished to a marble finish.
+The beauty of the castle overwhelms you.&n
+~
+24 268435464 0 1 99 3
+D0
+the marble entrance
+~
+~
+0 -1 2116
+D1
+the walls
+~
+~
+0 -1 2181
+D2
+the drawbridge
+~
+drawbridge~
+1 -1 2114
+D3
+the walls
+~
+~
+0 -1 2182
+S
+#2116
+&KThe &wMa&Krb&wle &KEntrance&n~
+&wThe outer foyer opened into a beautiful polished &Kma&wrb&Kle&w entrance.  The walls
+are smooth and the floor polished to a high sheen.  Great care seems to have
+been taken for the inhabitants as &pgreat tapestries&w line the walls depicting
+beautiful people laying about in wonderful meadows.&n
+~
+24 268435464 0 1 99 0
+D0
+the entrance
+~
+~
+0 -1 2117
+D2
+the foyer
+~
+~
+0 -1 2115
+S
+#2117
+&KThe &wMa&Krb&wle &KEntrance&n~
+&wThe outer foyer opened into a beautiful polished &Kma&wrb&Kle&w entrance.  The walls
+are smooth and the floor polished to a high sheen.  Great care seems to have
+been taken for the inhabitants as &pgreat tapestries&w line the walls depicting
+beautiful people laying about in wonderful meadows.&n
+~
+24 268435464 0 1 99 0
+D0
+the entrance
+~
+~
+0 -1 2118
+D1
+the hidden hall
+~
+tapestry~
+17 -1 2119
+D2
+the entrance
+~
+~
+0 -1 2116
+E
+tapestries~
+&c A large tapestry against the eastern wall ripples a bit as if an useen wind blows gently
+against it. There has been no wind since you entered the castle though....curious.
+~
+S
+#2118
+&KThe &wMa&Krb&wle &KEntrance&n~
+&wThe outer foyer opened into a beautiful polished &Kma&wrb&Kle&w entrance.  The walls
+are smooth and the floor polished to a high sheen.  Great care seems to have
+been taken for the inhabitants as &pgreat tapestries&w line the walls depicting
+beautiful people laying about in wonderful meadows.&n
+~
+24 268435464 0 1 99 0
+D0
+the foyer
+~
+~
+0 -1 2120
+D2
+the entrance
+~
+~
+0 -1 2117
+S
+#2119
+&YThe Hidden Hallway&n~
+&BThe &ptapestry&B revealed a hidden hallway made of &Ygilted gold&B.  The colour is
+so brilliant it hurts your eyes to stare at the walls.  The walls are covered
+in etched designs into the &Ygold&B and are very intricate.&n
+~
+24 268435468 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2169
+D3
+the entrance
+~
+tapestry~
+1 -1 2117
+S
+#2120
+&KThe Grand Foyer&n~
+&wThe hallway opened into a large foyer, suits of &Karmor&w align the walls; suits
+of platinum, &Ygold&w, &Ccrystal&w, &Gemerald&w, &rruby&w and every precious material found 
+within the kingdom.  The suits seem to be honouring those who fought the 
+valiant fight and won great honour for their master.&n
+~
+24 268435468 0 1 99 0
+D2
+the hall
+~
+~
+0 -1 2118
+D3
+the hall
+~
+~
+0 -1 2176
+D4
+the stairs
+~
+~
+0 -1 2121
+S
+#2121
+&KA Grand Staircase&n~
+&wA huge stone staircase leads up to the second floor.  A &ygrand mahogany banister&w
+spirals up along the stairs to help you along your way.  The view from the
+stairs is quite grand.&n
+~
+24 8 0 1 99 0
+D4
+the stairs
+~
+~
+0 -1 2122
+D5
+the foyer
+~
+~
+0 -1 2120
+S
+#2122
+&KA Grand Staircase&n~
+&wA huge stone staircase leads up to the second floor.  A &ygrand mahogany banister&w
+spirals up along the stairs to help you along your way.  The view from the
+stairs is quite grand.&n
+~
+24 8 0 1 99 0
+D4
+the stairs
+~
+~
+0 -1 2123
+D5
+the stairs
+~
+~
+0 -1 2121
+S
+#2123
+&KA Grand Staircase&n~
+&wA huge stone staircase leads up to the second floor.  A &ygrand mahogany banister&w
+spirals up along the stairs to help you along your way.  The view from the
+stairs is quite grand.&n
+&cYou notice a small ring in the step on it's west side, perhaps it reveals a
+small treasure chamber or such.&n
+~
+24 268435464 0 1 99 0
+D3
+???????
+~
+step~
+17 -1 2151
+D4
+the stairs
+~
+~
+0 -1 2124
+D5
+the stairs
+~
+~
+0 -1 2122
+S
+#2124
+&KA Grand Staircase&n~
+&wA huge stone staircase leads up to the second floor.  A &ygrand mahogany banister&w
+spirals up along the stairs to help you along your way.  The view from the
+stairs is quite grand.&n
+~
+24 8 0 1 99 0
+D0
+the landing
+~
+~
+0 -1 2125
+D5
+the stairs
+~
+~
+0 -1 2123
+S
+#2125
+&KThe Landing at the Top of the Stairs&n~
+&wThe stairs led up to a posh landing covered in &pplush carpet&w and a rather plain
+looking room with a small &ybureau&w and a &ydoor&w leading away from it.&n
+~
+24 268435464 0 1 99 0
+D0
+the hall
+~
+door~
+9 -1 2126
+D2
+the stairs
+~
+~
+0 -1 2124
+S
+#2126
+&KThe &YLit &KHallway&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls and near
+the end of the hall.  The view from here is incredible.  You can view &cwaters&w in 
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround 
+ground which is far beneath you.&n
+~
+24 8 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 2127
+D2
+the landing
+~
+door~
+9 -1 2125
+S
+#2127
+&KThe &YLit &KHallway&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls and near
+the end of the hall.  The view from here is incredible.  You can view &cwaters&w in 
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround 
+ground which is far beneath you.&n
+~
+24 268435464 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 2128
+D1
+a room
+~
+~
+0 -1 2135
+D2
+the hall
+~
+~
+0 -1 2126
+D3
+a room
+~
+~
+0 -1 2136
+S
+#2128
+&KThe &YLit &KHallway&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls and near
+the end of the hall.  The view from here is incredible.  You can view &cwaters&w in 
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround 
+ground which is far beneath you.&n
+~
+24 8 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 2129
+D1
+the hall
+~
+~
+0 -1 2137
+D2
+the hall
+~
+~
+0 -1 2127
+S
+#2129
+&KThe &YLit &KHallway&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls and near
+the end of the hall.  The view from here is incredible.  You can view &cwaters&w in 
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround 
+ground which is far beneath you.&n
+~
+24 268435464 0 1 99 0
+D0
+the bend in the hall
+~
+~
+0 -1 2130
+D1
+a room
+~
+~
+0 -1 2138
+D2
+the hall
+~
+~
+0 -1 2128
+D3
+a room
+~
+~
+0 -1 2139
+S
+#2130
+&KBend in the Hall&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls and near
+the end of the hall.  The view from here is incredible.  You can view &cwaters&w in 
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround 
+ground which is far beneath you.&n
+~
+24 8 0 1 99 0
+D2
+the hall
+~
+~
+0 -1 2129
+D3
+the hall
+the hall
+~
+~
+0 -1 2131
+S
+#2131
+&KBend in the Hall&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls and near
+the end of the hall.  The view from here is incredible.  You can view &cwaters&w in 
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround 
+ground which is far beneath you.&n
+~
+24 268435468 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2130
+D4
+the stairs
+~
+~
+0 -1 2132
+S
+#2132
+&KThe &WFlourescent &KStairs&n~
+&wStairs lead up into the &Yblinding light&w.  A sense of calm peace overwhelms you.
+You are going high up into a spire on top of the castle.  This must be the place
+the &Bbanners&w and &Bflags&w waved from that you saw from below.&n
+~
+24 12 0 1 99 0
+D1
+the court
+~
+~
+0 -1 2133
+D5
+the hall
+~
+~
+0 -1 2131
+S
+#2133
+&KSiraya's Court&n~
+&wHer highness, &BSiraya&w, has her court here.  Servants run to and fro to please
+their mistress.  Her beauty is well foretold and the large portrait hanging 
+above the &Kfireplace&w beholds a woman of much majesty and triumph over hard times.
+A ruler, who after the deception of her mate rose above it all to rule her
+subjects with fariness and honesty.&n
+~
+24 268435464 0 1 99 0
+D0
+a room
+~
+~
+0 -1 2134
+D3
+the stairs
+~
+~
+0 -1 2132
+S
+#2134
+&BSiraya's &YRoom&n~
+&wA beautiful room adorned in simple but beautiful things beckons you forth.
+The rooms sparce furnishings are nothing compared to the beauty of her highness,
+who awaits you near the window.  She has been rumoured to welcome all visitors
+no matter their purpose or station in life.&n
+~
+24 268435464 0 1 99 0
+D2
+the court
+~
+~
+0 -1 2133
+S
+#2135
+&wA Guest Bedroom&n~
+&KAn elaborate guest bedroom that is used to entertain the many visitors to the 
+palace.  It is adorned in victorian srurroundings and has a wonderful view
+just outside the window for visitors.&n
+~
+24 268435464 0 1 99 0
+D3
+the hall
+~
+~
+0 -1 2127
+S
+#2136
+&wA Guest Bedroom&n~
+&KA beautiful bedroom adorned in the light airy style of french provencial.  A
+large bay window open onto a lit balcony and beautiful colours surround the
+area.  A &ylarge canopy bed&K and a dressing area make up the features of the room.&n
+~
+24 268435464 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2127
+S
+#2137
+&KThe &YLit &KHallway&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls near
+the end of the hall. The view from here is incredible. You can view &cwaters&w in
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround
+ground which is far beneath you.&n
+~
+24 8 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2140
+D3
+the hall
+~
+~
+0 -1 2128
+S
+#2138
+&wA Sitting Parlour&n~
+&KA small sitting parlour is adorned with &yshelves of books&K.  A &ypiano&K sits in the
+corner collecting dust and a &rlarge futon of crushed red velvet&K is in the 
+opposite corner.&n
+~
+24 268435464 0 1 99 0
+D3
+the hall
+~
+~
+0 -1 2129
+S
+#2139
+&wA Maid's Closet&n~
+&KA small cramped closet full of &ydustpans&K, &Wlinaments&K, &ybrooms&K and &wold rags&K is here.
+The air is stale and musty and a light scent of lemon is in the room.  It must 
+take hours of upkeep to keep the castle in such an immaculate state.&n
+~
+24 268435464 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2129
+S
+#2140
+&KThe &YLit &KHallway&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls near
+the end of the hall. The view from here is incredible. You can view &cwaters&w in
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround
+ground which is far beneath you.&n
+~
+24 8 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2141
+D3
+the hall
+~
+~
+0 -1 2137
+S
+#2141
+&KThe &YLit &KHallway&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls near
+the end of the hall. The view from here is incredible. You can view &cwaters&w in
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround
+ground which is far beneath you.&n
+~
+24 8 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 2142
+D3
+the hall
+~
+~
+0 -1 2140
+S
+#2142
+&KThe &YLit &KHallway&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls near
+the end of the hall. The view from here is incredible. You can view &cwaters&w in
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround
+ground which is far beneath you.&n
+~
+24 268435464 0 1 99 0
+D0
+before the stairs
+~
+~
+0 -1 2143
+D2
+the hall
+~
+~
+0 -1 2141
+S
+#2143
+&KThe &YLit &KHallway&n~
+&wBehind the &ydoor&w was a hallway lit by open windows thruout the walls near
+the end of the hall. The view from here is incredible. You can view &cwaters&w in
+the distance and beautiful &Gfields&w and &Gmeadows&w and &gforests&w the surround
+ground which is far beneath you.&n
+&yA set of stairs is here going up.&n
+~
+24 268435464 0 1 99 0
+D2
+the hall
+~
+~
+0 -1 2142
+D4
+the stairs
+~
+~
+0 -1 2144
+S
+#2144
+&KA Dark Stairwell&n~
+&KA set of cold &wstone steps&K reach up into darkness.  A feeling of lost innocence
+surrounds you and you ponder as to why the feeling comes to you in such an
+enlightened and beautiful realm.&n
+~
+24 8 0 1 99 0
+D4
+the stairs
+~
+~
+0 -1 2145
+D5
+the base of the stairs
+~
+~
+0 -1 2143
+S
+#2145
+&KA Dark Stairwell&n~
+&KA set of cold &wstone steps&K reach up into darkness.  A feeling of lost innocence
+surrounds you and you ponder as to why the feeling comes to you in such an
+enlightened and beautiful realm.&n
+~
+24 8 0 1 99 0
+D4
+the stairs
+~
+~
+0 -1 2146
+D5
+the stairs
+~
+~
+0 -1 2144
+S
+#2146
+&KA Dark Stairwell&n~
+&KA set of cold &wstone steps&K reach up into darkness.  A feeling of lost innocence
+surrounds you and you ponder as to why the feeling comes to you in such an
+enlightened and beautiful realm.&n
+~
+24 8 0 1 99 0
+D4
+the stairs
+~
+~
+0 -1 2147
+D5
+the stairs
+~
+~
+0 -1 2145
+S
+#2147
+&KA Dark Stairwell&n~
+&KA set of cold &wstone steps&K reach up into darkness.  A feeling of lost innocence
+surrounds you and you ponder as to why the feeling comes to you in such an
+enlightened and beautiful realm.&n
+~
+24 8 0 1 99 0
+D4
+the stairs
+~
+~
+0 -1 2148
+D5
+the stairs
+~
+~
+0 -1 2146
+S
+#2148
+&KA Dark Stairwell&n~
+&KA set of cold &wstone steps&K reach up into darkness.  A feeling of lost innocence
+surrounds you and you ponder as to why the feeling comes to you in such an
+enlightened and beautiful realm.&n
+~
+24 268435464 0 1 99 0
+D4
+the landing
+~
+~
+0 -1 2149
+D5
+the stairs
+~
+~
+0 -1 2147
+S
+#2149
+&wA Small &KGloomy &wLanding&n~
+&KA small gloomy landing is here.  An &yold door made of wood&K cracked with age is 
+guarded.  It seems almost to be a place that those in the palace have forgotten
+existed.  theere are no lights and no windows up here.&n
+~
+24 268435464 0 1 99 0
+D1
+the circular room
+~
+door~
+13 2133 2150
+D5
+the stairs
+~
+~
+0 -1 2148
+S
+#2150
+&wThe Circular Room&n~
+&KThe door led into a circular room high up in the spire.  There are no windows
+except a small crack in the wall thirty feet above you.  A plat of &Ydirty musty
+hay&K is decaying in the corner and a smell of old air overwhelms the room.&n
+~
+24 268435464 0 1 99 0
+D3
+the landing
+~
+door~
+1 -1 2149
+S
+#2151
+&WThe Slide&n~
+&wYou plunge down a horribly slick slide.  You pick up such momentum as you 
+plunge faster and faster quickly down the slide.  it appears to have no end as 
+your body is propelled faster and faster into &roblivion&w.&n
+~
+24 7308 0 1 99 0
+D0
+the horrid room
+~
+~
+0 -1 2152
+D1
+lost
+~
+~
+8 -1 2151
+D2
+the slide
+~
+~
+0 -1 2151
+D3
+the slide
+~
+step~
+9 -1 2151
+D4
+the slide
+~
+~
+0 -1 2151
+D5
+the slide
+~
+~
+0 -1 2151
+S
+#2152
+&WThe Slide&n~
+&wYou plunge down a horribly slick slide.  You pick up such momentum as you 
+plunge faster and faster quickly down the slide.  it appears to have no end as 
+your body is propelled faster and faster into &roblivion&w.&n
+~
+24 268435464 0 1 99 0
+D5
+it's dark
+~
+~
+0 -1 2153
+S
+#2153
+&KA Pitch Black Room&n~
+&KA room with absolutely no light.  Your lightsource seems to be struggling
+against the immense blackness of the room.  A &ylarge massive door&K blocks your
+way north.&n
+&KThe door appears to be your only exit.&n
+~
+24 268435464 0 1 99 0
+D0
+darkness
+~
+door~
+9 -1 2154
+S
+#2154
+&KThe Dungeon&n~
+&KA musty old dungeon is here.  &wCobwebs&K hang from the ceiling and moans are
+clearly audible echoing thru the walls.  The cells most likely hold the most
+vile creatures here as they have been improsoned in the &Wclouds&K.&n
+~
+24 268435464 0 1 99 0
+D0
+the dungeon
+~
+~
+0 -1 2155
+D2
+the door
+~
+door~
+1 -1 2153
+S
+#2155
+&KThe Dungeon&n~
+&KA musty old dungeon is here.  &wCobwebs&K hang from the ceiling and moans are
+clearly audible echoing thru the walls.  The cells most likely hold the most
+vile creatures here as they have been improsoned in the &Wclouds&K.&n
+~
+24 268435464 0 1 99 0
+D0
+the dungeon
+~
+~
+0 -1 2156
+D1
+a jailcell
+~
+~
+0 -1 2162
+D2
+the dungeon
+~
+~
+0 -1 2154
+D3
+a jailcell
+~
+~
+0 -1 2163
+S
+#2156
+&KThe Dungeon&n~
+&KA musty old dungeon is here.  &wCobwebs&K hang from the ceiling and moans are
+clearly audible echoing thru the walls.  The cells most likely hold the most
+vile creatures here as they have been improsoned in the &Wclouds&K.&n
+~
+24 268435464 0 1 99 0
+D0
+the dungeon
+~
+~
+0 -1 2157
+D1
+a jailcell
+~
+~
+0 -1 2165
+D2
+the dungeon
+~
+~
+0 -1 2155
+D3
+a jailcell
+~
+~
+0 -1 2164
+S
+#2157
+&KThe Dungeon&n~
+&KA musty old dungeon is here.  &wCobwebs&K hang from the ceiling and moans are
+clearly audible echoing thru the walls.  The cells most likely hold the most
+vile creatures here as they have been improsoned in the &Wclouds&K.&n
+~
+24 268435464 0 1 99 0
+D0
+the dungeon
+~
+~
+0 -1 2158
+D1
+the dungeon
+~
+~
+0 -1 2159
+D2
+the dungeon
+~
+~
+0 -1 2156
+D3
+the dungeon
+~
+~
+0 -1 2160
+S
+#2158
+&KThe Dungeon&n~
+&KA musty old dungeon is here.  &wCobwebs&K hang from the ceiling and moans are
+clearly audible echoing thru the walls.  The cells most likely hold the most
+vile creatures here as they have been improsoned in the &Wclouds&K.&n
+~
+24 268435464 0 1 99 0
+D0
+a jailcell
+~
+~
+0 -1 2167
+D2
+the dungeon
+~
+~
+0 -1 2157
+S
+#2159
+&KThe Dungeon&n~
+&KA musty old dungeon is here.  &wCobwebs&K hang from the ceiling and moans are
+clearly audible echoing thru the walls.  The cells most likely hold the most
+vile creatures here as they have been improsoned in the &Wclouds&K.&n
+~
+24 268435464 0 1 99 0
+D1
+a jailcell
+~
+~
+0 -1 2166
+D3
+the dungeon
+~
+~
+0 -1 2157
+S
+#2160
+&KThe Dungeon&n~
+&KA musty old dungeon is here.  &wCobwebs&K hang from the ceiling and moans are
+clearly audible echoing thru the walls.  The cells most likely hold the most
+vile creatures here as they have been improsoned in the &Wclouds&K.&n
+~
+24 8 0 1 99 0
+D1
+the dungeon
+~
+~
+0 -1 2157
+D3
+the jailcell
+~
+~
+0 -1 2161
+S
+#2161
+&wThe Smelly Jailcell&n~
+&KA dank musty jailcell hidden in the dungeon beneath the castle holds the most 
+vile creatures that ever existed.  Most of them cannibals some of the strong 
+users of evil magic.&n  
+~
+24 268435464 0 1 99 1
+S
+#2162
+&wThe Smelly Jailcell&n~
+&KA dank musty jailcell hidden in the dungeon beneath the castle holds the most 
+vile creatures that ever existed.  Most of them cannibals some of the strong 
+users of evil magic.&n  
+~
+24 268435464 0 1 99 1
+S
+#2163
+&wThe Smelly Jailcell&n~
+&KA dank musty jailcell hidden in the dungeon beneath the castle holds the most 
+vile creatures that ever existed.  Most of them cannibals some of the strong 
+users of evil magic.&n  
+~
+24 268435464 0 1 99 0
+S
+#2164
+&wThe Smelly Jailcell&n~
+&KA dank musty jailcell hidden in the dungeon beneath the castle holds the most 
+vile creatures that ever existed.  Most of them cannibals some of the strong 
+users of evil magic.&n  
+~
+24 8 0 1 99 0
+S
+#2165
+&wThe Smelly Jailcell&n~
+&KA dank musty jailcell hidden in the dungeon beneath the castle holds the most 
+vile creatures that ever existed.  Most of them cannibals some of the strong 
+users of evil magic.&n  
+~
+24 8 0 1 99 0
+S
+#2166
+&wThe Smelly Jailcell&n~
+&KA dank musty jailcell hidden in the dungeon beneath the castle holds the most 
+vile creatures that ever existed.  Most of them cannibals some of the strong 
+users of evil magic.&n  
+~
+24 268435464 0 1 99 1
+S
+#2167
+&wThe Smelly Jailcell&n~
+&KA dank musty jailcell hidden in the dungeon beneath the castle holds the most 
+vile creatures that ever existed.  Most of them cannibals some of the strong 
+users of evil magic.&n  
+&wIt appears a stone brick has been loosened on the west wall near the floor.&n
+~
+24 268435464 0 1 99 0
+D3
+an escape???
+~
+stone~
+1 -1 2168
+S
+#2168
+&WAn Escape??&n~
+it now appears why the prisoner failed to escape as you plummet thousands of 
+feet to your death...
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+SPLAT!
+~
+24 524302 0 1 99 0
+S
+#2169
+&YThe Hidden Hallway&n~
+&BThe &ptapestry&B revealed a hidden hallway made of &Ygilted gold&B.  The colour is
+so brilliant it hurts your eyes to stare at the walls.  The walls are covered
+in etched designs into the &Ygold&B and are very intricate.&n
+~
+24 8 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2170
+D3
+the hall
+~
+~
+0 -1 2119
+S
+#2170
+&YThe Hidden Hallway&n~
+&BThe &ptapestry&B revealed a hidden hallway made of &Ygilted gold&B.  The colour is
+so brilliant it hurts your eyes to stare at the walls.  The walls are covered
+in etched designs into the &Ygold&B and are very intricate.&n
+~
+24 268435464 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2171
+D3
+the hall
+~
+~
+0 -1 2169
+S
+#2171
+&YThe Hidden Hallway&n~
+&BThe &ptapestry&B revealed a hidden hallway made of &Ygilted gold&B.  The colour is
+so brilliant it hurts your eyes to stare at the walls.  The walls are covered
+in etched designs into the &Ygold&B and are very intricate.&n
+~
+24 268435464 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2172
+D3
+the hall
+~
+~
+0 -1 2170
+S
+#2172
+&YThe Hidden Hallway&n~
+&BThe &ptapestry&B revealed a hidden hallway made of &Ygilted gold&B.  The colour is
+so brilliant it hurts your eyes to stare at the walls.  The walls are covered
+in etched designs into the &Ygold&B and are very intricate.&n
+~
+24 268435464 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2173
+D3
+the hall
+~
+~
+0 -1 2171
+S
+#2173
+&YThe Hidden Hallway&n~
+&BThe &ptapestry&B revealed a hidden hallway made of &Ygilted gold&B.  The colour is
+so brilliant it hurts your eyes to stare at the walls.  The walls are covered
+in etched designs into the &Ygold&B and are very intricate.&n
+~
+24 8 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2174
+D3
+the hall
+~
+~
+0 -1 2172
+S
+#2174
+&YThe Hidden Hallway&n~
+&BThe &ptapestry&B revealed a hidden hallway made of &Ygilted gold&B.  The colour is
+so brilliant it hurts your eyes to stare at the walls.  The walls are covered
+in etched designs into the &Ygold&B and are very intricate.&n
+~
+24 268435464 0 1 99 0
+D0
+Throne room of gold
+~
+~
+0 -1 2175
+D3
+the hall
+~
+~
+0 -1 2173
+S
+#2175
+&YThe Golden Throneroom&n~
+&BA room glistening with &Ygold&B is here.  It looks like no one knows it was here
+until you notice someone or something moving.  The room with it's richness does
+not appear to be appreciated as no one else is here.&n
+~
+24 268435464 0 1 99 0
+D2
+the hall
+~
+~
+0 -1 2174
+S
+#2176
+&KA Small Hall&n~
+&wA small nondescript hall leads toward a massive dining room.  A few transcendent
+paintings line the walls, they appear to be of past rulers all very nondescript.&n
+~
+24 8 0 1 99 0
+D1
+the foyer
+~
+~
+0 -1 2120
+D3
+the hall
+~
+~
+0 -1 2177
+S
+#2177
+&KA Small Hall&n~
+&wA small nondescript hall leads toward a massive dining room.  A few transcendent
+paintings line the walls, they appear to be of past rulers all very nondescript.&n
+~
+24 8 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2176
+D3
+the dining area
+~
+~
+0 -1 2178
+S
+#2178
+&KA Matriarchal Dining Area&n~
+&wA beautiful dining area with a huge adorned &ymahogany pedestal&w table with 36
+chairs stands in the middle of the room.  &yCurio cabinets&w line the walls and the
+clatter of a large kitchen can be heard to the north.&n
+~
+24 268435464 0 1 99 0
+D0
+the kitchen
+~
+~
+0 -1 2179
+D1
+the hall
+~
+~
+0 -1 2177
+S
+#2179
+&KA Large Kitchen&n~
+&wA &Klarge &ywood&w &Kstove&w with &Kkettles&w bubbling on it and a &yfirespit&w with a &Ghuge
+beast&w turning over it fill the room.  You wonder as how so many cooks can fit
+within the place and at the rate they are moving.&n
+~
+24 268435464 0 1 99 0
+D1
+the pantry
+~
+~
+0 -1 2180
+D2
+the dining area
+~
+~
+0 -1 2178
+S
+#2180
+&yA Pantry Cupboard&n~
+&KA &ylarge pantry cupboard&K filled with &pspices&K and &wcans&K and &Cjars&K of foods line the 
+walls.  And an occasional &gbottle of sherry&K can be seen shoved thru the food
+stuffs, maybe hidden by the cook.&n
+~
+24 8 0 1 99 0
+D3
+the kitchen
+~
+~
+0 -1 2179
+S
+#2181
+&KInside the Wall&n~
+&wThe &ydrawbridge&w led you inside the palace wall.  Spires reach up endlessly into
+the sky and all the stone on the walls appears polished to a marble finish.
+The beauty of the castle overwhelms you.&n
+~
+24 8 0 1 99 0
+D1
+the guard post
+~
+~
+0 -1 2183
+D3
+the walls
+~
+~
+0 -1 2115
+S
+#2182
+&KInside the Wall&n~
+&wThe &ydrawbridge&w led you inside the palace wall.  Spires reach up endlessly into
+the sky and all the stone on the walls appears polished to a marble finish.
+The beauty of the castle overwhelms you.&n
+~
+24 8 0 1 99 0
+D1
+the walls
+~
+~
+0 -1 2115
+D3
+the guard post
+~
+~
+0 -1 2185
+S
+#2183
+&KThe Guard Post&n~
+&wA small guard post for the palace's guards is here.  A &yladder&w climbs up to   
+a &yplatform lookout&w.&n
+~
+24 8 0 1 99 0
+D3
+the walls
+~
+~
+0 -1 2181
+D4
+the platform
+~
+~
+0 -1 2184
+S
+#2184
+&yA Platform Lookout&n~
+&gFrom here the guards can see all the surrounding area and this provides
+much to the safety of her highness.&n
+~
+24 8 0 1 99 0
+D5
+the guard post
+~
+~
+0 -1 2183
+S
+#2185
+&KThe Guard Post&n~
+&wA small guard post for the palace's guards is here.  A &yladder&w climbs up to   
+a &yplatform lookout&w.&n
+~
+24 8 0 1 99 0
+D1
+teh walls
+~
+~
+0 -1 2182
+D3
+the walls
+~
+~
+0 -1 2182
+D4
+the platform
+~
+~
+0 -1 2186
+S
+#2186
+&yA Platform Lookout&n~
+&gFrom here the guards can see all the surrounding area and this provides
+much to the safety of her highness.&n
+~
+24 8 0 1 99 0
+D5
+the guard post
+~
+~
+0 -1 2185
+S
+#2187
+Blaze's room of fire~
+Blaze is here tormenting you with her fireballs and there is a bed made of fire
+with hot nails protruding from it where she carries out her erotic fantasies.
+A woman betrothed to torture in every aspect and in love with the pleasure of 
+pain she will amke your body feel what it thoguht it cannot.
+~
+24 8 0 1 99 1
+S
+#2188
+&KLost Hall&n~
+&KThe bookcase opened into a &wcobwebby&K hallway.  It appears to lead back into
+the darkness.  However &Ylit &ytorches&K line the walls here.&n
+~
+24 8 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2189
+S
+#2189
+&KLost Hall&n~
+&KThe bookcase opened into a &wcobwebby&K hallway.  It appears to lead back into
+the darkness.  However &Ylit &ytorches&K line the walls here.&n
+~
+24 8 0 1 99 0
+D1
+the hall
+~
+~
+0 -1 2190
+D3
+the hall
+~
+~
+0 -1 2188
+S
+#2190
+&KLost Hall&n~
+&KThe bookcase opened into a &wcobwebby&K hallway.  It appears to lead back into
+the darkness.  However &Ylit &ytorches&K line the walls here.&n
+~
+24 8 0 1 99 0
+D2
+the treasure room
+~
+~
+0 -1 2191
+D3
+the hall
+~
+~
+0 -1 2189
+S
+#2191
+&YTreasure Room&n~
+&wA small room filled with &Ygold&w is here.  It seems you finally found the lost 
+treasure of Siraya's kingdom.&n
+~
+24 268435464 0 1 99 0
+D0
+the hall
+~
+~
+0 -1 2190
+S
+#2192
+&BOcean&n~
+&cYou are surrounded by ocean in all directions for as far as you can see.&n
+~
+24 0 9216 1 99 7
+D0
+nothing special.
+~
+~
+0 -1 2100
+D2
+nothing special.
+~
+~
+0 -1 2193
+S
+#2193
+&BOcean&n~
+&cYou are surrounded by ocean in all directions for as far as you can see.&n
+~
+24 0 1024 1 99 7
+D0
+nothing special.
+~
+~
+0 -1 2192
+D3
+nothing special.
+~
+~
+0 -1 2194
+S
+#2194
+&BOcean&n~
+&cYou are surrounded by ocean in all directions for as far as you can see.&n
+~
+24 0 10240 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 2193
+D3
+nothing special.
+~
+~
+0 -1 2195
+S
+#2195
+&BOcean&n~
+&cYou are surrounded by ocean in all directions for as far as you can see.&n
+~
+24 0 10240 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 2194
+D3
+nothing special.
+~
+~
+0 -1 2196
+S
+#2196
+&BOcean&n~
+&cYou are surrounded by ocean in all directions for as far as you can see.&n
+~
+24 0 10240 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 2195
+D3
+nothing special.
+~
+~
+0 -1 2197
+S
+#2197
+&BOcean&n~
+&cYou are surrounded by ocean in all directions for as far as you can see.&n
+~
+24 0 10240 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 2196
+D3
+nothing special.
+~
+~
+0 -1 2198
+S
+#2198
+&BOcean&n~
+&cYou are surrounded by ocean in all directions for as far as you can see.&n
+~
+24 0 10240 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 2197
+D3
+nothing special.
+~
+~
+0 -1 3507
+S
+$~
+#999999

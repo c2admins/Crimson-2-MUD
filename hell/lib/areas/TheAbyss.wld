@@ -1,0 +1,1820 @@
+#2400
+Bottom of the steps.~
+You have found the fabled Abyss, you start to sweat and are not sure if it is
+the heat in the room or the sudden fear that has just come over you. There
+is a warrior impaled to the wall next to you with a note stuffed into his
+mouth.
+~
+27 7340033 536870912 30 99 1
+D0
+As you peer north you see a bright red glow.
+~
+~
+0 -1 2401
+D2
+nothing special.
+~
+~
+0 -1 7085
+E
+note warrior~
+If you attack ANY of us, you'd better kill ALL of us.
+~
+E
+see a red glow as you perr north~
+You see a red glow as you peer north
+~
+E
+delete~
+~
+S
+#2401
+The entrance to the Abyss~
+This is the largest cavern you have ever seen, you cannot believe anything
+as big as this could be down here. The Abyss is the burning lake that lies
+ahead, glowing red hot it lights the cavern with a bright red glow. In the
+center of the Abyss lies an island, the only thing you don't understand is
+how everthing here is lit from the Abyss except the island.
+~
+27 275775493 536870912 1 99 1
+D2
+nothing special
+~
+~
+0 -1 2400
+D5
+There is a large bridge made of rope here.
+~
+~
+0 -1 2402
+S
+#2402
+Before the rope bridge.~
+Ahead there are two huge posts to which the ropes of a very long bridge are
+attached. The rope bridge hangs over the Abyss and leads to the Dark Mountain.
+The flames that leap from the Abyss seem to be damaging the bridge a great
+deal and the ropes are starting to become charred. There is a sign attached
+to one of the posts.
+~
+27 275775493 536870912 41 99 1
+D0
+The bridge continues.
+~
+~
+0 -1 2403
+D4
+nothing special.
+~
+~
+0 -1 2401
+E
+sign~
+ THE ABYSS
+     Built by PERNA
+~
+S
+#2403
+A large bridge made of rope.~
+The boards you are walking on creak loudly and you shiver with every step.
+~
+27 275775489 536870912 1 99 1
+D0
+The bridge looks very unstable to the north.
+~
+~
+0 -1 2404
+D2
+nothing special.
+~
+~
+0 -1 2402
+S
+#2404
+A large bridge made of rope.~
+The bridge is totally unstable here and sways violently with your every
+step.  
+~
+27 275775489 536870912 1 99 1
+D0
+The bridge looks a little more stable to the north.
+~
+~
+0 -1 2406
+D1
+There is no railing here, and to the east you see the Abyss.
+~
+~
+0 -1 2405
+D2
+nothing special.
+~
+~
+0 -1 2403
+S
+#2405
+In the Abyss.~
+You have entered the Abyss!!!!!!!!! All your skin is instantly burned from
+your body.
+~
+27 1048582 0 1 99 1
+S
+#2406
+A large bridge made of rope.~
+The rope bridge looks very unstable and the fraying ropes seem very unsafe.
+~
+27 275775489 536870912 1 99 1
+D0
+The gates lie ahead.
+~
+~
+0 -1 2407
+D2
+The rope bridge looks a little shakey up ahead.
+~
+~
+0 -1 2404
+S
+#2407
+At the gates.~
+These gates are 50 feet tall, you are lucky they aren't locked because you coul
+couldn't reach the lock. Pushing them open is a whole problem in its self
+though. This makes you wonder about the size of the inhabitants that live
+here. Good thing you still have time to turn back before something bad
+happens to you.
+~
+27 275775489 536870912 1 99 1
+D0
+~
+~
+0 -1 2408
+D2
+Before the bridge.
+~
+~
+0 -1 2406
+E
+new gate~
+The large gates that are before you are very large and made of a very dark
+metal.
+~
+S
+#2408
+The dark island in the Abyss.~
+The evil you sense here is very powerful and your body begins to tremble.
+You think turning back is a very good idea now, but the thoughts of the
+great wealth that could be found make you go forward. There is no light
+on the island and everything seems to be cloaked in darkness.
+~
+27 275775493 536870912 1 99 1
+D0
+A small path.
+~
+door white~
+47 2445 2474
+D1
+~
+~
+0 -1 2415
+D2
+a large gate.
+~
+~
+0 -1 2407
+D3
+~
+~
+0 -1 2409
+S
+#2409
+On the ledge.~
+You are walking along the edge of a high ledge over looking the Abyss. As
+you peer over the edge you feel dizzy and look away.
+~
+27 275775489 536870912 1 99 1
+D1
+~
+~
+0 -1 2408
+D3
+~
+~
+0 -1 2410
+S
+#2410
+On the ledge.~
+This part of the ledge seems lower than before and doesn't look as steep.
+Under this ledge you see another ledge below, and you think you can climb
+down to it.
+~
+27 275775493 536870912 1 99 1
+D1
+~
+~
+0 -1 2409
+D3
+~
+~
+0 -1 2413
+D5
+It looks really step, but u can probably do it.
+~
+~
+0 -1 2411
+S
+#2411
+A lower ledge.~
+As you start to climb down you realize this is alot higher and steeper than
+you thought it was. It is real slippery here....OOPSS!!!!!!!!!
+
+
+
+
+
+
+
+
+
+
+
+You land at the bottom of the ledge on your face. OUCH!!!
+To bad you can't climb back up now.
+~
+27 1416628225 536870912 1 99 1
+D0
+It is very dark in there.
+~
+~
+0 -1 2412
+S
+#2412
+A small tunnel.~
+You are crawling through a very hot tunnel and you can't see your hand in
+front of your face. There are loud grunting noises up ahead and you
+quickly check your inventory for recalls!
+~
+27 275775749 536870912 1 99 0
+D0
+A small tunnel.
+~
+~
+0 -1 2423
+D2
+The lower ledge.
+~
+~
+0 -1 2425
+S
+#2413
+On the ledge.~
+This is the southwest corner of the island and as you look over the edge
+you seem to see something very large swimming in the Abyss. Hopefully
+whatever that is it stays in the Abyss, or you will be in a heap of trouble.
+Well its still not to late to turn back or is it?
+~
+27 275775489 536870912 1 99 1
+D0
+~
+~
+0 -1 2414
+D1
+~
+~
+0 -1 2410
+S
+#2414
+The end of the ledge.~
+The ledge abrubptly here and you come very close to falling in to the Abyss.
+Continuing north would be very stupid, since you would surely die. To the
+east a path seems to lead toward the center of the island.
+~
+27 275775489 536870912 1 99 1
+D0
+You would fall into the Abyss, not a good idea.
+~
+~
+0 -1 2478
+D2
+~
+~
+0 -1 2413
+D3
+A large dock.
+~
+~
+0 -1 2468
+S
+#2415
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 3
+D0
+A thick forest.
+~
+~
+0 -1 2429
+D1
+~
+~
+0 -1 2416
+D2
+Thick branches block your view.
+~
+~
+0 -1 2431
+D3
+~
+~
+0 -1 2408
+S
+#2416
+Deep in the forest.~
+The forest is becoming more dense and you walk on and you cant see what is
+up ahead. The ground is becoming very muddy and is hard to walk through.
+~
+27 275775489 536870912 1 99 3
+D0
+~
+~
+0 -1 2417
+D3
+~
+~
+0 -1 2415
+S
+#2417
+Deep in the forest.~
+The trees are so thick now that walking is almost impossible as you push
+your way through. 
+~
+27 275775489 536870912 1 99 3
+D0
+~
+~
+0 -1 2418
+D2
+~
+~
+0 -1 2416
+D3
+A thick forest.
+~
+~
+0 -1 2430
+S
+#2418
+A clearing in the forest.~
+You have walked into a large clearing in the forest and are very close to
+the dark mountain. Although this is a clearing the mud is so thick you
+can barely walk now, hopefully it will dry up as you walk on.
+~
+27 275775489 536870912 1 99 3
+D2
+~
+~
+0 -1 2417
+D3
+The forest
+~
+~
+0 -1 2488
+S
+#2419
+At the base of the dark mountain.~
+You are standing at the base of the dark mountain. Although it is very
+steep It looks easily climbable and there seems to be a large cave at
+the top.
+~
+27 271581185 536870912 1 99 5
+D1
+The forest.
+~
+~
+0 -1 2492
+D4
+The side of the mountian.
+~
+~
+0 -1 2420
+S
+#2420
+The side of the dark mountain.~
+You are climbing the side of the dark mountain, although it is very rocky
+and crumbly it seems safe enough to go on. Near the top of the mountain
+there is a large tunnel.
+~
+27 271581185 536870912 1 99 5
+D1
+The side of the mountain.
+~
+~
+0 -1 2441
+D4
+The tunnel at the top of the mountain.
+~
+~
+0 -1 2421
+D5
+~
+~
+0 -1 2419
+S
+#2421
+Near the top of the mountain.~
+You have climbed as high as you possibly can, although the top is very close
+you would most likely fall to your death if you went any farther. The cave
+here is very small but it looks possible to climb into.
+~
+27 275775489 536870912 1 99 5
+D3
+Inside the cave.
+~
+~
+0 -1 2422
+D4
+If you try to climb up you will most likely fall to your death.
+~
+~
+0 -1 2443
+D5
+The side of the mountain.
+~
+~
+0 -1 2420
+S
+#2422
+Inside the cave.~
+Somehow you managed to climb inside of the cave without falling off the
+side of the mountain. This cave is a dark and smelly place and these 
+white and purple mushrooms seem to love it because they are everywhere.
+The mold and moss covering the walls of the cave seem to gurgle as you walk
+by, its probably not a good idea to touch it.
+~
+27 275775489 536870912 1 99 0
+D1
+~
+~
+0 -1 2421
+D5
+A descending tunnel.
+~
+~
+0 -1 2428
+S
+#2423
+A small tunnel.~
+The smell of burning flesh is very strong to the north, to bad you can not
+see whats ahead of you. There are also screams of pain coming from up ahead
+and you realize this was a bad idea.
+~
+27 275775749 536870912 1 99 0
+D1
+A small tunnel.
+~
+~
+0 -1 2424
+D2
+A small tunnel.
+~
+~
+0 -1 2412
+S
+#2424
+A small tunnel.~
+You are crawling through a very hot tunnel and you can't see your hand in
+front of your face. There are loud grunting noises up ahead and you
+quickly check your inventory for recalls!
+~
+27 269484293 536870912 1 99 0
+D0
+A smelly cave.
+~
+~
+0 -1 2426
+D3
+A small tunnel.
+~
+~
+0 -1 2423
+S
+#2425
+The lower ledge.~
+This is a ledge overlooking the Abyss, the wall here is way to steep to
+climb up.
+~
+27 1048837 0 1 99 1
+D0
+A small tunnel.
+~
+~
+0 -1 2412
+S
+#2426
+A small tunnel.~
+You are crawling through a very hot tunnel and you can't see your hand in
+front of your face. There are loud grunting noises up ahead and you
+quickly check your inventory for recalls!
+~
+27 269484293 536870912 1 99 0
+D0
+A smelly cave.
+~
+~
+0 -1 2427
+D2
+A small tunnel.
+~
+~
+0 -1 2424
+S
+#2427
+A small tunnel.~
+You are crawling through a very hot tunnel and you can't see your hand in
+front of your face. There are loud grunting noises up ahead and you
+quickly check your inventory for recalls!
+~
+27 269484293 536870912 1 99 0
+D1
+A small tunnel.
+~
+~
+0 -1 2438
+D2
+A smelly cave.
+~
+~
+0 -1 2426
+S
+#2428
+The tunnel to the center of the mountain.~
+This steep tunnel is very slippery and you are sliding more then walking.
+The horrible stench you smelled at the entrance is about ten times worse
+here and is still getting stronger. Your sudden urge to vomit makes walking
+even harder and you almost lose all balance.
+~
+27 275775489 536870912 1 99 0
+D4
+A very small room.
+~
+~
+0 -1 2422
+D5
+A tunnel leading down.
+~
+~
+0 -1 2432
+S
+#2429
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 3
+D1
+A thick forest.
+~
+~
+0 -1 2430
+D2
+A thick forest.
+~
+~
+0 -1 2415
+S
+#2430
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 3
+D1
+A think forest.
+~
+~
+0 -1 2417
+D3
+A thick forest.
+~
+~
+0 -1 2429
+S
+#2431
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 3
+D0
+The dead forest.
+~
+~
+0 -1 2415
+S
+#2432
+The end of the tunnel.~
+Reaching the end of the tunnel the smell almost overpowers you and you get
+very dizzy. From the east you hear loud bubbling and some growling.
+~
+27 275775489 536870912 1 99 0
+D1
+~
+~
+0 -1 2433
+D4
+A tunnel leading up.
+~
+~
+0 -1 2428
+S
+#2433
+A very dark room.~
+Walking into this room was a bad idea, not only did the wall close behind you
+but the walls seem to absorb your light leaving you in the dark.
+~
+27 1349517313 536870912 1 99 0
+D2
+~
+~
+0 -1 2434
+S
+#2434
+The halls of Agony.~
+This hall is lined with bodies on both sides, most of them are missing
+parts and are baddly mangled. This is obviously where the smell was coming
+from, but where are all the missing body parts?
+~
+27 1349517313 536870912 1 99 0
+D0
+~
+~
+0 -1 2433
+D3
+~
+~
+0 -1 2435
+S
+#2435
+The halls of Agony.~
+There are even more bodies here and these to are missing parts. The bodies
+seem to move, then you notice its not the bodies but the maggots that are
+moving.
+~
+27 1349517313 536870912 1 99 0
+D1
+~
+~
+0 -1 2434
+D3
+~
+~
+0 -1 2436
+S
+#2436
+Agony's Antechamber.~
+As you enter this room you can hardly see through the swarm of flies you
+have disturbed from the floor. This is Agony's workshop where she makes all
+her evil potions and who knows what else. The walls are lined with 
+hundreds of jars containing body parts, insects, plants and many things
+that you have no clue as to what they might be.
+~
+27 1349517313 536870912 1 99 0
+D0
+A secret tunnel.
+~
+tunnel door north~
+1 0 2437
+D1
+~
+~
+0 -1 2435
+D5
+A grating on the floor that looks like it was moved recently.
+~
+grating down~
+31 2417 2448
+S
+#2437
+Agony's secret tunnel.~
+You have found Agony's secret escape tunnel and are crawling your way through
+some pretty smelly stuff.
+~
+27 1349517569 536870912 1 99 0
+D1
+More tunnel.
+~
+~
+0 -1 2444
+D2
+~
+~
+0 -1 2436
+S
+#2438
+The burnt room.~
+This room is covered in soot and the floor is loaded with chared bones and
+equiptment. The air clouded by an acidic smoke that burns your eyes.
+~
+27 269484293 536870912 1 99 0
+D3
+A small tunnel.
+~
+~
+0 -1 2427
+D5
+A burnt room.
+~
+~
+0 -1 2439
+S
+#2439
+The burnt room.~
+This room is covered in soot and the floor is loaded with chared bones and
+equiptment. The air clouded by an acidic smoke that burns your eyes.
+~
+27 269484293 536870912 1 99 0
+D3
+~
+~
+0 -1 2440
+D4
+A burnt room.
+~
+~
+0 -1 2438
+S
+#2440
+The dragon's lair.~
+This room is covered in soot and the floor is loaded with chared bones and
+equiptment. The air clouded by an acidic smoke that burns your eyes.
+~
+27 269485061 536870912 1 99 0
+D1
+A burnt room.
+~
+~
+0 -1 2439
+S
+#2441
+The side of the dark mountain.~
+This path leads east on an incline up and around the mountain with each    
+step the view of the mountain, although dark, keeps getting better. At the
+rate you are ascending you should reach the top very soon.
+~
+27 275775489 536870912 1 99 5
+D1
+The side of the mountain.
+~
+~
+0 -1 2442
+D3
+The side of the mountain.
+~
+~
+0 -1 2420
+S
+#2442
+The top of the Dark Mountain.~
+You have reached the top of the Dark Mountain, finally, and the view would
+be great if the island was not so dark. Although there is one thing that
+seems to glow, there is another mountain on the island and the top is
+very shiny, it almost looks like ice but it is way to hot for that.
+~
+27 275775489 536870912 1 99 5
+D3
+The side of the mountain.
+~
+~
+0 -1 2441
+D5
+The side of the Dark Mountain.
+~
+~
+0 -1 2445
+S
+#2443
+at the Dark Mountain in the Abyss.~
+Being so close to the top of the mountain, you reach for the top but you
+lose your grip!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As you land at the bottom of the mountain you smack your head on some rather
+large rocks and your head explodes, leaving your brains splattered everywhere.
+~
+27 269484035 536870912 1 99 1
+S
+#2444
+The end of the tunnel.~
+You have found the tunnel which leads out of this mountain and away from
+this stink.
+~
+27 1349517569 536870912 1 99 0
+D1
+A very dark room.
+~
+~
+0 -1 2433
+D4
+~
+~
+0 -1 2428
+S
+#2445
+The side of the Dark Mountain.~
+This side of the mountain is much easier to climb then the other side because
+it is much smoother. Its a good thing it is easier because the shiny is
+keeping your attention and you really are not watching where you are      
+climbing.
+~
+27 275775489 536870912 1 99 5
+D4
+The top of the Dark Mountain.
+~
+~
+0 -1 2442
+D5
+The side of the Dark Mountain.
+~
+~
+0 -1 2446
+S
+#2446
+Near the bottom of the Dark Mountain.~
+As you near the bottom of the mountain you realize that the climb was so
+smooth because there must have been an avalanche and all the rocks are at
+the bottom. The way down is blocked by all the rocks you will have to find a
+way around them.
+~
+27 275775489 536870912 1 99 5
+D3
+~
+~
+16 -1 2447
+D4
+The side of the Dark Mountain.
+~
+~
+0 -1 2445
+S
+#2447
+Through the avalanch.~
+You are in a tight path through the rocks and you need to be careful not to
+lose your balance.
+~
+27 275775489 536870912 1 99 4
+D0
+a tight path though the rocks.
+~
+~
+16 -1 2452
+D1
+Near the bottom of the Dark Mountain.
+~
+~
+0 -1 2446
+S
+#2448
+Under the grating.~
+You are under Agony's Antechamber crawling in a slimy, maggot filled tunnel.
+With every movement you sink deeper into the slime and if you do not get
+out soon you will be up to your neck in maggots.
+~
+27 1349517569 536870912 1 99 0
+D2
+A dark tunnel.
+~
+~
+0 -1 2449
+D4
+Agonys Antechamber.
+~
+~
+0 -1 2436
+S
+#2449
+A dark tunnel.~
+This tunnel is very dark and there are less maggots here, but it does not
+smell any better. This seems to be the wrong way to get out of the mountain.
+~
+27 1349517573 536870912 1 99 0
+D0
+A dim light ahead.
+~
+~
+0 -1 2448
+D3
+Another dark room.
+~
+~
+0 -1 2450
+S
+#2450
+At the cage door.~
+You stand before a large metal cage door with the strongest lock you have
+ever seen. Makes you wonder about what could be kept down here, but the cage
+is too dark to see into.
+~
+27 1349517313 536870912 1 99 0
+D1
+A dark tunnel.
+~
+~
+0 -1 2449
+D2
+~
+cage door south~
+15 2418 2451
+S
+#2451
+Misery's cage.~
+This is Misery's holding cage it was made by Agony to hold this evil      
+experiment that went entirely wrong. The cage is very strong and could
+probably hold anyone that was put in here ( good thing you have the key). 
+~
+27 1349517313 536870912 1 99 0
+D0
+A dark room.
+~
+cage~
+1 2418 2450
+S
+#2452
+Before the glass woods.~
+Before you lies the glass woods, all the trees have been turned into black
+glass. Looking in to the woods you realize it is very dark and will be hard
+to keep any sense of direction.
+~
+27 275775489 536870912 1 99 3
+D0
+The glass woods.
+~
+~
+0 -1 2453
+D2
+a tight path through the rocks.
+~
+~
+16 -1 2447
+S
+#2453
+In the woods.~
+You are now in the glass woods, it is very dark and all the dark trees around
+you look the same which makes you feel lost.
+~
+27 275775489 536870912 1 99 3
+D0
+The glass woods. 
+~
+~
+0 -1 2454
+D2
+The edge of the woods.
+~
+~
+0 -1 2452
+S
+#2454
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 3
+D1
+The glass woods.
+~
+~
+0 -1 2455
+D2
+The glass woods.
+~
+~
+0 -1 2453
+S
+#2455
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 3
+D0
+The glass woods.
+~
+~
+0 -1 2456
+D3
+The glass woods.
+~
+~
+0 -1 2454
+S
+#2456
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 3
+D0
+The glass woods.
+~
+~
+0 -1 2454
+D2
+The glass woods.
+~
+~
+0 -1 2455
+D3
+The glass woods.
+~
+~
+0 -1 2457
+S
+#2457
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 3
+D0
+The glass woods.
+~
+~
+0 -1 2458
+D1
+In the woods.
+~
+~
+0 -1 2456
+S
+#2458
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 3
+D0
+The glass woods.
+~
+~
+0 -1 2459
+D1
+The glass woods.
+~
+~
+0 -1 2460
+D2
+In the woods.
+~
+~
+0 -1 2457
+S
+#2459
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 3
+D0
+The glass woods.
+~
+~
+0 -1 2453
+S
+#2460
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 3
+D1
+The glass woods.
+~
+~
+0 -1 2461
+D3
+The glass woods.
+~
+~
+0 -1 2458
+S
+#2461
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 1
+D0
+The glass woods.
+~
+~
+0 -1 2456
+D2
+The glass woods.
+~
+~
+0 -1 2462
+D3
+The glass woods.
+~
+~
+0 -1 2460
+S
+#2462
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 1
+D0
+The glass woods.
+~
+~
+0 -1 2461
+D2
+The glass woods.
+~
+~
+0 -1 2463
+S
+#2463
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 1
+D0
+The glass woods.
+~
+~
+0 -1 2462
+D1
+The glass woods.
+~
+~
+0 -1 2465
+D2
+The glass woods.
+~
+~
+0 -1 2464
+S
+#2464
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 1
+D0
+In the woods.
+~
+~
+0 -1 2463
+D2
+In the woods.
+~
+~
+0 -1 2460
+S
+#2465
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go.
+~
+27 275775489 536870912 1 99 1
+D0
+The glass woods.
+~
+~
+0 -1 2466
+D3
+The glass woods.
+~
+~
+0 -1 2463
+S
+#2466
+In the woods.~
+You are lost in the woods and not knowing where to go you wander aimlessly.
+The glass trees all look exactly the same, giving you no hints to which way
+to go
+~
+27 275775489 536870912 1 99 1
+D0
+The glass woods.
+~
+~
+0 -1 2467
+D2
+The glass woods.
+~
+~
+0 -1 2465
+D3
+The glass woods.
+~
+~
+0 -1 2462
+S
+#2467
+The end of the woods.~
+Finally, the end of the glass woods, you are now at the base of the shiny
+mountain. You now realize that the mountain top is covered with ice, which
+makes no sense because it is so terribly hot here.
+~
+27 275775489 536870912 1 99 1
+D2
+The glass woods.
+~
+~
+0 -1 2466
+D4
+The ice mountain.
+~
+~
+0 -1 2471
+S
+#2468
+The dock of the dead.~
+You are now standing on a large dock which extends into the Abyss, it is made
+of a magical wood that does not burn. 
+~
+27 269484033 536944640 1 99 1
+D1
+A ledge.
+~
+~
+0 -1 2414
+D3
+Walking in to the Abyss is a bad move.
+~
+~
+96 -1 2469
+S
+#2469
+On the Abyss.~
+You are floating on the Abyss and flames are leaping up all around you.
+~
+27 269484033 536879104 1 99 1
+D3
+The dock of the Dead.
+~
+~
+0 -1 2470
+S
+#2470
+The dock of the dead.~
+You have come to the other side of the Abyss and are standing on a long
+black dock. This dock was where the bodies were unloaded to be brought to
+Flagg by his followers.
+~
+27 269484033 536938496 1 99 1
+D0
+A black path.
+~
+~
+0 -1 2480
+D1
+Entering the Abyss would be a bad move.
+~
+~
+0 -1 2479
+S
+#2471
+The ice mountain.~
+As you begin to climb the mountain you notice a huge difference in temperature
+and a chill runs down your spine. The ice on the top of the mountain is very
+smooth and it does not look climbable.
+~
+27 275775489 536870912 1 99 1
+D4
+The ice mountain
+~
+~
+0 -1 2472
+D5
+The glass woods.
+~
+~
+0 -1 2467
+S
+#2472
+The ice mountain.~
+With every step the temperature drops and you are losing feeling in your feet,
+which is very bad considering you are climbing a mountain. Looking up you see
+a door, but to get to it you would have to climb over that smooth ice which
+looks impassible, you might as well turn around.
+~
+27 275775489 536870912 1 99 1
+D5
+The ice mountain.
+~
+~
+0 -1 2471
+S
+#2473
+The top of the ice mountain.~
+As you reach the top of the mountain you realize you body is almost completely
+numb. Before you is a huge door carved in to the ice, you could not see it
+before now because it blends almost perfectly into the wall. You better hope
+its warmer inside the door or you might freeze to death.
+~
+27 1348468737 536870912 1 99 1
+D1
+It looks safe enough.
+~
+door ice~
+1 0 2477
+D5
+that you can step downwards using a spike stuck in the wall~
+that you can step downwards using a spike stuck in the wall~
+0 -1 2472
+S
+#2474
+A small path.~
+You have found a very small path which has recently been walked on. Up ahead
+there is a bright white light.
+~
+27 275775489 536870912 1 99 1
+D0
+A bright white light.
+~
+~
+0 -1 2475
+D2
+The dark island in the Abyss.
+~
+~
+13 -1 2408
+S
+#2475
+Ladondra's alter.~
+You have found Ladondra's alter room, the alter is bright white and it's glow
+fills the room with a pure white light. She built this alter to help worthy
+adventures to defeat Flagg and remove the evil from the island. On top of
+the alter is a large statue of the most beautiful woman you have ever seen,
+maybe it is Ladondra. Just under the statue are some words carved into the
+alter.
+~
+27 275775489 536870912 1 99 1
+D0
+The alter.
+~
+~
+16 -1 2476
+D2
+A small path.
+~
+~
+0 -1 2474
+E
+alter words~
+Walk into the alter and I will transport into my room.
+          Ladondra
+~
+S
+#2476
+Ladondra's room.~
+As you enter the room a feeling of peace fills your body. The room is all
+white and very clean, which is totally opposite from the rest of the island.
+~
+27 275775489 536870912 1 99 1
+D5
+The alter room.
+~
+~
+0 -1 2475
+S
+#2477
+Inside the ice mountain.~
+Your feet are very numb and as you step in to this room you lose all balence
+and begin to slide down!
+
+
+
+
+
+
+
+
+When you finaly slam face first into a pile of snow at the bottom, you are
+very surprized at what you see. This whole room is made intirely of ice from
+floor to ceiling. Huge collums of ice are holding up the ceiling over a 
+gigantic throne carved from ice.
+~
+27 1348468737 536870912 1 99 1
+D0
+a door behind the thorn.
+~
+door~
+57 0 2471
+S
+#2478
+In the Abyss.~
+That was very dumb.  You have just walked into the Abyss - the burning lake of fire.
+As the skin is being burnt from your body, you whap yourself for being stupid.
+~
+27 275775495 536870912 1 99 1
+S
+#2479
+On the Abyss~
+You are floating on the Abyss and the flames are leaping all around you.
+~
+27 275775489 536872960 1 99 1
+D1
+The dock of the dead.
+~
+~
+0 -1 2468
+S
+#2480
+The black path.~
+As you travel along this path you notice that there is nothing here, it is
+just black. Although with every step the glow to the north becomes brighter
+and more destinct.
+~
+27 275775617 536870912 1 99 1
+D0
+A black path.
+~
+~
+0 -1 2481
+D2
+The dock of the Dead.
+~
+~
+0 -1 2470
+S
+#2481
+The end of the path.~
+As you reach the end of the path you find the source of the glow, to the west
+is a huge glowing white door. The door is 40 feet tall and looks like white
+metal, but it glows like nothing you have ever seen before.
+~
+27 275775617 536870912 1 99 1
+D2
+The black path.
+~
+~
+0 -1 2480
+D3
+~
+door white~
+15 2423 2482
+S
+#2482
+The black hall.~
+You have found a long black hallway that seems to go on for ever.
+~
+27 275775489 536870912 1 99 1
+D1
+A black path.
+~
+~
+0 -1 2481
+D3
+~
+~
+0 -1 2483
+S
+#2483
+The storage room.~
+This room was used for storing the bodies that were brought to Flagg, it has
+been empty for some time now and all that remains are piles of bones. In the
+center of the room is a large black staircase leading up.
+~
+27 275775617 536870912 1 99 1
+D1
+~
+~
+0 -1 2482
+D4
+The staircase leads up.
+~
+~
+0 -1 2484
+S
+#2484
+Flagg's foyer.~
+The evil you feel in this room makes you shake from head to toe. There are
+three black doors here, all of which look extremly scary.
+~
+27 275775489 536870912 1 99 1
+D0
+A black room.
+~
+~
+9 -1 2485
+D1
+A black room.
+~
+~
+0 -1 2486
+D3
+A black room.
+~
+~
+0 -1 2487
+D5
+A staircase leads down
+~
+~
+0 -1 2483
+S
+#2485
+Flagg's room.~
+You have walked into Flagg's room and your body shakes violently against the
+evil being emitted from Flagg. The room is totaly black and featureless but
+the smell is horrible.
+~
+27 275775489 536870912 1 99 1
+D2
+~
+Agony~
+9 0 2484
+S
+#2486
+A black room.~
+This is a totally featureless black room and the horrid smell makes you
+sick and you begin to retch.
+~
+27 275775489 536870912 1 99 1
+D3
+~
+~
+0 -1 2484
+S
+#2487
+A black room.~
+This is a totally featureless black room and the horrid smell makes you
+sick and you begin to retch.
+~
+27 275775489 536870912 1 99 1
+D1
+~
+~
+0 -1 2484
+S
+#2488
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 1
+D1
+The clearing.
+~
+~
+0 -1 2418
+D2
+The forest.
+~
+~
+0 -1 2489
+S
+#2489
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 1
+D0
+The forest.
+~
+~
+0 -1 2415
+D1
+The forest.
+~
+~
+0 -1 2493
+D2
+The forest.
+~
+~
+0 -1 2490
+D3
+The forest.
+~
+~
+0 -1 2491
+S
+#2490
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 1
+D0
+The forest.
+~
+~
+0 -1 2492
+D2
+The forest.
+~
+~
+0 -1 2492
+S
+#2491
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 1
+D0
+The forest.
+~
+~
+0 -1 2488
+D2
+A cave.
+~
+~
+16 -1 2496
+D3
+The forest
+~
+~
+0 -1 2492
+S
+#2492
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 1
+D0
+The base of the mountain.
+~
+~
+0 -1 2419
+D1
+The forest.
+~
+~
+0 -1 2494
+S
+#2493
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 1
+D1
+A dead forest.
+~
+~
+16 -1 2495
+D2
+The forest.
+~
+~
+0 -1 2494
+D3
+The forest.
+~
+~
+0 -1 2488
+S
+#2494
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 1
+D0
+The forest.
+~
+~
+0 -1 2493
+D1
+The forest.
+~
+~
+0 -1 2493
+D2
+The forest.
+~
+~
+0 -1 2493
+D3
+The forest.
+~
+~
+0 -1 2491
+S
+#2495
+The dead forest.~
+You are walking in long dead forest, the trees are all black and decaying.
+Over head you notice some rather large vultures circling above you, maybe
+this is a bad sign of what lies ahead.
+~
+27 275775489 536870912 1 99 1
+D3
+A dead forest.
+~
+~
+0 -1 2493
+S
+#2496
+A cave.~
+You have stummbled upon a cave that seems far to clean to be a natural
+formation, but there is nothing here. Just as you are about to leave you 
+notice a perfectly hidden door in the wall.
+~
+27 275775493 536870912 1 99 1
+D0
+The forest.
+~
+~
+0 -1 2491
+D1
+Another room.
+~
+door~
+31 2451 2498
+S
+#2497
+A bad room.~
+The sign said DO NOT ENTER!!! Maybe you should learn how to read.
+~
+27 2054423680 1342177280 1 99 1
+S
+#2498
+Anrep's lair.~
+This is Anrep's lair, he was once the most skilled thief of his time but has
+long since become old and feeble. He has been shunned by the people of
+Midagaard for his endless killing of the citizens and can never return.
+Over the door is a large sign.
+~
+27 275775489 536870912 1 99 1
+D0
+A sign over the door.
+~
+door~
+1 0 2497
+D3
+A cave.
+~
+~
+0 -1 2496
+E
+sign~
+DO NOT ENTER!!!!!!!!!!!!!!!!!!
+~
+S
+#2499
+Perna's Bar~
+You find yourself in a very dark room, although you can still make out most
+of the objects here. Across the room is a large, beautiful bar fully stocked
+with the finest alcohol in the world. As you look down the bar there is a
+man sitting alone looking very intoxicated and smoking a cigarette. After a
+minuet he notices you have entered the room and motions for you to have a saet
+you think he looks safe enough and accept his offer. Immediatly as you sit
+a large frosty mug of beer magicly appears before you.
+~
+27 274726912 0 42 99 0
+S
+$~
+#999999

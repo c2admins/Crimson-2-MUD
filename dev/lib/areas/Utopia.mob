@@ -1,0 +1,304 @@
+#23300
+mob gargoyle gatekeeper gargoyle_gatekeeper~
+&KThe Gargoyle &WGatekeeper&n~
+&KThe Gargoyle &WGatekeeper &Kis sitting on his pedestal...watching.&n
+~
+The gargoyle is made out of &kblack opal&B, just like the pedestal.  Its eyes burn &Rred
+&Bwith a passion.  The gargoyle was put here by the deity of Utopia to stop anyone
+from coming in.  It seems to be doing its job well based on the bloodied remains
+strewn across the room.  The telepathic messages the gargoyle is sending you have not stopped
+and you wonder what the signifigance of them is.
+~
+16777226 32769 136249361 1073741952 0 S
+48 0 -40 100d100+30000 10d70+0
+3000000 2000000
+8 8 1
+0 0 16 15 14 15 15 15
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+#23301
+mob giant slithering wyrm~
+&cA &cG&Ciant &cW&Cyrm~
+&cA &cG&Ciant &cW&Cyrm is slithering about
+~
+You examine a giant wyrm.  It has no legs but a very powerful back that it uses.  It's well protected
+by its scales.  You doubt your sword could pierce those.  It has a fierce head full of razor sharp fangs.
+You wonder if you can tame it somehow.
+~
+25165836 32769 136249361 0 0 S
+45 0 -40 100d100+40000 10d70+0
+0 1111111
+8 8 0
+0 0 16 15 14 15 15 15
+SKILL=SPELL_FIRE_BREATH 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#23302
+mob rina~
+&wR&Ri&wn&Ra~
+&wR&Ri&wn&Ra &Bis sleeping on her funeral pyre
+~
+&wR&Ri&wn&Ra &Bwas a great healer while she was alive.  She did the citizens of Utopia a lot of
+good.  She could also hold her own in battle and was not afraid to come to her homeland's
+defense in times of need.  She died in one of these battles but was in reincarnated and put
+here to serve her country eternally.
+~
+34603018 32769 136249361 128 1000 S
+48 0 -40 100d100+35000 50d30+90
+5000000 2000000
+8 8 2
+0 0 16 15 14 15 15 15
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 10
+SKILL=SPELL_MAGIC_IMMUNE 10
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+#23303
+mob giant slithering wyrm~
+&cA &cG&Ciant &cW&Cyrm~
+&cA &cG&Ciant &cW&Cyrm is slithering about
+~
+You examine a giant wyrm.  It has no legs but a very powerful back that it uses.  It's well protected
+by its scales.  You doubt your sword could pierce those.  It has a fierce head full of razor sharp fangs.
+You wonder if you can tame it somehow.
+~
+25165836 32769 136249361 0 0 S
+45 0 -40 100d1+40000 10d70+0
+0 1111111
+8 8 0
+0 0 16 15 14 15 15 15
+SKILL=SPELL_FIRE_BREATH 99
+#23304
+mob jolio~
+&SJ&So&Sl&Si&So&n~
+&SJ&So&Sl&Si&So &Bis sitting upon his &Wdiam&wond &Wthr&wone
+~
+&SJ&So&Sl&Si&So &Bwas outcast from &YU&yt&Yo&yp&Yi&Ya &Bwhen he was young because he stole.
+He gave himself a new name and wandered the realm establishing his reputation as
+a mercenary and a soldier of fortune.  When &YU&yt&Yo&yp&Yi&Ya &Bwas in trouble however,
+he came back and defended his land bravely.  After he died, the citizens recognized him
+and he was resurrected.  He is surrounded in diamonds because of his extensive battles in
+the Overlord's lair.  He accumulated great wealth there and when he died the craftsmen
+built this tomb for him.
+~
+34603018 32769 136249361 128 1000 S
+48 0 -40 100d100+40000 50d30+10
+5000000 2000000
+8 8 1
+0 0 16 15 14 15 15 15
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 10
+SKILL=SPELL_MAGIC_IMMUNE 10
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#23305
+mob mercutio~
+&GM&kercutio&n~
+&GM&kercutio &Bis standing here laughing and killing.&n
+~
+&GM&kercutio &Btwirls an ever-present blade as he slices, dices, and burns the critters.
+He looks extremely dangerous and capable with that sword.  &GM&kercutio &Bwas &yU&Yt&yo&Yp&yi&Ya&y'&Ys 
+&Bgreatest swordsman ever.  He could not get enough of battle.  He became so bloodthirsty 
+and overconfident that it became his downfall.  He died fighting for the freedom of his land
+outnumbered and surrounded, sure of his skills.  Although his pride is great, he has been resurrected
+and placed here. &GM&kercutio is strong, muscular, and dexterous.  He wears no armor but you
+have the feeling he doesn't really need it.
+&n
+~
+34603018 32769 136249361 128 1000 S
+48 0 -40 100d1+40000 10d100+0
+5000000 2000000
+8 8 1
+0 0 16 15 14 15 15 15
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 10
+SKILL=SPELL_MAGIC_IMMUNE 10
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#23306
+mob Fawkes~
+&WF&ca&Ww&ck&We&cs&n~
+&WF&ca&Ww&ck&We&cs&n is in the middle of meditation.
+~
+Every warrior hopes that a great death will find him. But he couldn't wait;
+he went looking for it.
+
+The path of the righteous man is beset on all sides by the inequities of
+the selfish, and the tyranny of evil men. Blessed is he, who in the 
+name of charity and goodwill, shepherds the weak through the valley 
+of darkness for he is truly his brother's keeper and the finder of
+lost children. And I will strike down on thee with great vengence
+and furious anger, those who attempt to poison and destroy my 
+brothers, and you will know my name is The Lord when I lay my vengence upon thee.
+~
+34603018 32769 136249361 128 1000 S
+48 0 -40 1d1+50000 60d60+20
+5000000 2000000
+8 8 1
+0 0 16 15 14 15 15 15
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 10
+SKILL=SPELL_MAGIC_IMMUNE 10
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+#23307
+mob Mandar~
+&BM&Ga&Bn&Gd&Ba&Gr&n~
+&BM&Ga&Bn&Gd&Ba&Gr is sitting here, looking bored.
+~
+&BM&Ga&Bn&Gd&Ba&Gr is a gigantic human sitting here.  His eyes glow gold
+as he sees you.  Unlike the rest of the guardians, he isn't dead.
+His death was faked for his own protection.  He was being hunted 
+by a god who he stole his golden yes from.  You can see he is a
+capable warrior and the ages he has spent in these cramped
+quarters have not diminished his skills.
+~
+8388618 32769 136249361 128 1000 S
+48 0 -40 1d1+29000 70d70+40
+1000000 2000000
+8 8 1
+0 0 16 15 14 15 15 15
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 10
+SKILL=SPELL_MAGIC_IMMUNE 10
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+#23308
+mob dragon sentry dragon_sentry~
+&rThe &gDra&rgon &gSen&rtry&n~
+&rThe &gDra&rgon &gSen&rtry&n is guarding his post
+~
+&rThe &gDra&rgon &gSen&rtry&n is standing here looking after the bridge.
+It looks rather cute, maybe you could pet it, or maybe that isn't
+such a great idea.
+~
+20971528 1 136249361 0 1000 S
+20 40 40 1d1+300 4d4+0
+6000 70000
+8 8 0
+0 0 17 17 15 15 15 12
+#23309
+mob Traichek~
+&KT&r&Rr&Ka&ri&Rc&Kh&re&Rk&n~
+&KT&r&Rr&Ka&ri&Rc&Kh&re&Rk&n is here, shoving needles into some poor &Wsoul.&n
+~
+&KT&r&Rr&Ka&ri&Rc&Kh&re&Rk&n is more of a monster than a man.  He is seven feet tall
+and strongly built.  He looks like his might and fury is a match for anyone
+but the pathetic man on the ground seems to be holding out.  This only
+makes &KT&r&Rr&Ka&ri&Rc&Kh&re&Rk&n more mad as he looks to kill someone.  He wields a
+blade &wsmoking &rb&R&rl&ro&Ro&rd&Ry &kexecution&n.  It looks like the hour of
+death is upon you.
+~
+66060296 32769 136249361 136 -1000 S
+20 0 -40 1d1+70000 5d25+50
+5000000 2000000
+8 8 1
+0 0 17 15 16 14 12 3
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_POISON 99
+SKILL=SPELL_PROTECT_FROM_EVIL 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_SLEEP 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_REMOVE_POISON 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_TRANSFORM_DRAGON 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#23310
+mob Tybalt~
+&BT&Ky&Bb&Ka&Bl&Kt&n~
+&BT&Ky&Bb&Ka&Bl&Kt&n is assisting his master with the task
+~
+&BT&Ky&Bb&Ka&Bl&Kt&n is &KT&r&Rr&Ka&ri&Rc&Kh&re&Rk&n's right hand man.  He is a powerful
+necromancer and is the real source of &KT&r&Rr&Ka&ri&Rc&Kh&re&Rk&n's army.  Whenever
+there is a battle, &BT&Ky&Bb&Ka&Bl&Kt&n goes out into the fields and resurrects the
+dead warriors.  As a result they obey only him.  &BT&Ky&Bb&Ka&Bl&Kt&n is a small man,
+nothing at all like his master.  You shouldn't underestimate him, however.
+He is a powerful student of dark magic.
+~
+35651592 1 136249361 536871040 -1000 S
+48 -59 -40 1d10+30000 60d40+10
+4999999 2000000
+8 8 1
+0 0 16 18 16 16 14 13
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_HEMMORAGE 99
+SKILL=SPELL_PESTILENCE 99
+SKILL=SPELL_TRANSFORM_DRAGON 99
+$~
+#999999

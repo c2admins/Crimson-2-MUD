@@ -1,0 +1,866 @@
+#17700
+Nearing the Blue Demenses.~
+Far off in the distance to the east is a tall blue castle. You cannot see it
+well for it is shrouded in mist, it has two tall towers, one at the front, 
+the other on the western side. Without the towers it would resemble a large
+stone mansion.
+~
+107 8 0 1 99 3
+D1
+Nearing the Blue Demenses.
+~
+~
+0 -1 17701
+S
+#17701
+Nearing the Blue Demenses.~
+Far off in the distance to the east is a tall blue castle. You cannot see it
+well for it is shrouded in mist, it has two tall towers, one at the front, 
+the other on the western side. Without the towers it would resemble a large
+stone mansion.
+~
+107 8 0 1 99 3
+D2
+Nearing the Blue Demenses.
+~
+~
+0 -1 17702
+D3
+The forest.
+~
+~
+0 -1 17700
+S
+#17702
+Nearing the Blue Demenses.~
+Far off in the distance to the east is a tall blue castle. You cannot see it
+well for it is shrouded in mist, it has two tall towers, one at the front, 
+the other on the western side. Without the towers it would resemble a large
+stone mansion.
+~
+107 8 0 1 99 3
+D0
+The forest.
+~
+~
+0 -1 17701
+D2
+Nearing the Blue Demenses.
+~
+~
+0 -1 17703
+S
+#17703
+Near the Blue Demenses.~
+To the south you see a great moat that surrounds the castle. It looks to
+be about 20 feet deep.
+~
+107 8 0 1 99 3
+D0
+The forest.
+~
+~
+0 -1 17702
+D2
+A bridge across the moat.
+~
+~
+0 -1 17704
+S
+#17704
+On a bridge.~
+You are walking across a wooden-plank bridge. It shakes every time you take a
+step, leaving you to think it could collapse and dump you in the water at any
+time.
+~
+107 8 0 1 99 1
+D0
+The forest.
+~
+~
+0 -1 17703
+D2
+Entrance to the Blue Demenses.
+~
+~
+0 -1 17705
+S
+#17705
+Entrance to the Blue Demenses.~
+You are in a stone portal that leads into the main room of the Blue Demenses.
+You look up to see an iron portcullis hanging over your head, you decide
+that you should hurry up and pick which way your going to go.
+
+There is a small plaque on the wall.
+~
+107 8 0 1 99 0
+D0
+A bridge across the moat.
+~
+~
+0 -1 17704
+D1
+Stairs to the tower.
+~
+~
+0 -1 17725
+D2
+The main room of the Blue Demenses.
+~
+~
+0 -1 17706
+E
+plaque~
+Zone Name: Blue Demenses
+Designer: Sarel
+Levels: 30+
+
+Have Fun :)
+~
+S
+#17706
+The main room.~
+You are standing in the main room of the Blue Demenses. There are all types
+of animals around you, waiting to be cured of their injuries by the Lady
+Blue.
+~
+107 8 0 1 99 0
+D0
+The entrance.
+~
+~
+0 -1 17705
+D1
+A long hallway.
+~
+~
+0 -1 17718
+D2
+The main room.
+~
+~
+0 -1 17729
+D3
+A long hallway.
+~
+~
+0 -1 17707
+S
+#17707
+The western hall.~
+You are walking down a long hallway that continues to the west. The main room
+is to the east, and there are rooms to the north and south.
+~
+107 8 0 1 99 0
+D0
+A room.
+~
+~
+0 -1 17709
+D1
+The main room.
+~
+~
+0 -1 17706
+D2
+A room.
+~
+~
+0 -1 17710
+D3
+A long hallway.
+~
+~
+0 -1 17708
+S
+#17708
+The western hall.~
+You are walking down a long hallway that continues to the west. There are
+rooms to the north and south.
+~
+107 8 0 1 99 0
+D0
+A room.
+~
+~
+0 -1 17711
+D1
+A long hallway.
+~
+~
+0 -1 17707
+D2
+A room.
+~
+~
+0 -1 17712
+D3
+Stairs.
+~
+~
+0 -1 17713
+S
+#17709
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D2
+A long hallway.
+~
+~
+0 -1 17707
+S
+#17710
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D0
+A long hallway.
+~
+~
+0 -1 17707
+S
+#17711
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D2
+A long hallway.
+~
+~
+0 -1 17708
+S
+#17712
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D0
+A long hallway.
+~
+~
+0 -1 17708
+S
+#17713
+The stairs.~
+The hallway ends here, there are stairs going up into the tower.
+~
+107 8 0 1 99 0
+D1
+A long hallway.
+~
+~
+0 -1 17708
+D4
+Stairs.
+~
+~
+0 -1 17714
+S
+#17714
+The stairs.~
+You are going up into the western tower.
+~
+107 8 0 1 99 0
+D4
+Stairs.
+~
+~
+0 -1 17715
+D5
+End of the hallway.
+~
+~
+0 -1 17713
+S
+#17715
+The stairs.~
+You are going up into the western tower.
+~
+107 8 0 1 99 0
+D4
+Top of the tower.
+~
+~
+0 -1 17716
+D5
+Stairs.
+~
+~
+0 -1 17714
+S
+#17716
+The top of the tower.~
+You are at the top of the western tower of the Blue Demenses. There is
+a lovely view of the world from the window here.
+~
+107 8 0 1 99 0
+D3
+A fall.
+~
+window~
+9 -1 17717
+D5
+Stairs.
+~
+~
+0 -1 17715
+S
+#17717
+A fall.~
+You look out the window and slip. You fall about fifty feet to your death,
+screaming the whole way.
+
+
+~
+107 10 0 1 99 0
+S
+#17718
+The eastern hall.~
+You are walking down a long hallway that continues to the east. The main
+room is to the west, and there are rooms to the north and south.
+~
+107 8 0 1 99 0
+D0
+A room.
+~
+~
+0 -1 17719
+D1
+The eastern hall.
+~
+~
+0 -1 17721
+D2
+A room.
+~
+~
+0 -1 17720
+D3
+The main room.
+~
+~
+0 -1 17706
+S
+#17719
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D2
+The eastern hall.
+~
+~
+0 -1 17718
+S
+#17720
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D0
+The eastern hall.
+~
+~
+0 -1 17718
+S
+#17721
+The eastern hall.~
+You are walking down a long hallway that continues to the east. The main
+room is to the west, and there are rooms to the north and south.
+~
+107 8 0 1 99 0
+D0
+A room.
+~
+~
+0 -1 17722
+D1
+The end of the eastern hall.
+~
+~
+0 -1 17724
+D2
+A room.
+~
+~
+0 -1 17723
+D3
+The eastern hall.
+~
+~
+0 -1 17718
+S
+#17722
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D2
+The eastern hall.
+~
+~
+0 -1 17721
+S
+#17723
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D0
+The eastern hall.
+~
+~
+0 -1 17721
+S
+#17724
+The end of the eastern hall.~
+The halls stop at the stone wall. There is a window there thats gives
+you a view of the field.
+~
+107 8 0 1 99 0
+D3
+The eastern hall.
+~
+~
+0 -1 17721
+S
+#17725
+Stairs up the tower.~
+You are standing in a small circular room, there are stairs right in front 
+of you, and the entrance to the Blue Demenses is to the west.
+~
+107 8 0 1 99 0
+D3
+Entrance to the Blue Demenses.
+~
+~
+0 -1 17705
+D4
+Stairs.
+~
+~
+0 -1 17726
+S
+#17726
+Stairs up the tower.~
+You are walking up the stairs that lead to the top of the tower.
+~
+107 8 0 1 99 0
+D4
+Stairs.
+~
+~
+0 -1 17727
+D5
+Bottom of the stairs.
+~
+~
+0 -1 17725
+S
+#17727
+Stairs up the tower.~
+You are walking up the stairs that lead to the top of the tower.
+~
+107 8 0 1 99 0
+D4
+Top of the tower.
+~
+~
+0 -1 17728
+D5
+Stairs.
+~
+~
+0 -1 17726
+S
+#17728
+Top of the tower.~
+You are in a small room at the top of the tower, a window here gives
+you a good view to the north.
+~
+107 8 0 1 99 0
+D5
+Stairs.
+~
+~
+0 -1 17727
+S
+#17729
+The main room.~
+You are standing in the main room of the Blue Demenses. There are all
+types of animals around you, waiting to be cured of their injuries by the 
+Lady Blue. There are stairs leading up to the second floor.
+~
+107 8 0 1 99 0
+D0
+The main room.
+~
+~
+0 -1 17706
+D4
+Stairs to the second floor.
+~
+~
+0 -1 17730
+S
+#17730
+Stairs to the second floor.~
+You are walking up stone steps that lead to the second floor.
+~
+107 8 0 1 99 0
+D4
+Stairs to the second floor.
+~
+~
+0 -1 17731
+D5
+The main room.
+~
+~
+0 -1 17729
+S
+#17731
+Stairs to the second floor.~
+You are walking up stone steps that lead to the second floor.
+~
+107 8 0 1 99 0
+D4
+The second floor.
+~
+~
+0 -1 17732
+D5
+Stairs.
+~
+~
+0 -1 17730
+S
+#17732
+The second floor.~
+This is the second floor of the Blue Demenses. There are halls to the west
+and east.
+~
+107 8 0 1 99 0
+D0
+Flach's room.
+~
+~
+0 -1 17744
+D1
+The eastern hall.
+~
+~
+0 -1 17739
+D3
+The western hall.
+~
+~
+0 -1 17733
+D5
+Stairs.
+~
+~
+0 -1 17731
+S
+#17733
+The western hall.~
+You are walking down a hall that continues to the west, the second floor
+is to the east. There are rooms to the north and south.
+~
+107 8 0 1 99 0
+D0
+The kitchen.
+~
+~
+0 -1 17735
+D1
+The second floor.
+~
+~
+0 -1 17732
+D2
+A room.
+~
+~
+0 -1 17736
+D3
+The western hall.
+~
+~
+0 -1 17734
+S
+#17734
+The western hall.~
+The hallway ends here, there are rooms to the north and south.
+~
+107 8 0 1 99 0
+D0
+The pantry.
+~
+door~
+9 -1 17738
+D1
+The western hall.
+~
+~
+0 -1 17733
+D2
+A room.
+~
+~
+0 -1 17737
+S
+#17735
+The kitchen.~
+You are in the kitchen of the Blue Demenses. There is a pantry to the west.
+~
+107 8 0 1 99 0
+D2
+The western hall.
+~
+~
+0 -1 17733
+D3
+The pantry.
+~
+door~
+9 -1 17738
+S
+#17736
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D0
+The western hall.
+~
+~
+0 -1 17733
+S
+#17737
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D0
+The western hall.
+~
+~
+0 -1 17734
+S
+#17738
+The pantry.~
+You are standing in the pantry of the Blue Demenses, there are
+all kinds of food and cooking equipment around you.
+~
+107 8 0 1 99 0
+D1
+The kitchen.
+~
+door~
+9 -1 17735
+D2
+The western hall.
+~
+door~
+9 -1 17734
+S
+#17739
+The eastern hall.~
+You are walking down the eastern hall, it continues to the east, and the
+second floor is to the west.
+~
+107 8 0 1 99 0
+D0
+Lord and Lady Blue's room.
+~
+~
+0 -1 17742
+D1
+The eastern hall.
+~
+~
+0 -1 17740
+D2
+Stile's study.
+~
+~
+0 -1 17743
+D3
+The second floor.
+~
+~
+0 -1 17732
+S
+#17740
+The eastern hall.~
+The hall ends here, there is a room to the north.
+~
+107 8 0 1 99 0
+D0
+A room.
+~
+~
+0 -1 17741
+D3
+The eastern hall.
+~
+~
+0 -1 17739
+S
+#17741
+A room.~
+You are standing in a plain room. There is a bed to the left, and a dresser
+to the right with a candle on it.
+~
+107 8 0 1 99 0
+D2
+The eastern hall.
+~
+~
+0 -1 17740
+S
+#17742
+Lord and Lady Blue's room.~
+You are standing in a large room. To your left there is a canopy bed with
+sheets with intricate patterns in them. There is a ornate oak dresser to
+your right, and a candle table by the bed.
+~
+107 8 0 1 99 0
+D2
+The eastern hall.
+~
+~
+0 -1 17739
+S
+#17743
+Stile's study.~
+You are standing in a large room that is meant to be a study, there are 
+bookshelfs off to your left, and Stile, Lord of the Blue Demenses, sits
+at a desk, thinking.
+~
+107 8 0 1 99 0
+D0
+The eastern hall.
+~
+~
+0 -1 17739
+S
+#17744
+Flach's room.~
+This is where Flach, grandson of the Blue Adept, sleeps. Right now
+he is sitting in a chair, resting.
+~
+107 8 0 1 99 0
+D2
+The second floor.
+~
+~
+0 -1 17732
+S
+#17745
+Home of Sarel.~
+As you enter this room you look around, there are swords and shields
+displayed on the wall, one of the most notable shields has a huge fiery
+Phoenix on it, with the words House Phoenix printed under it. You
+notice a person sitting in a chair in the corner, he stands up and
+bows to you. You know him as Sarel, Avatar of the Phoenix, Lord of
+Phaze, and Elder of the Darklings.
+
+There is a small wooden plaque on the wall.
+~
+107 8 0 1 99 0
+D1
+Sarel's room of healing.
+~
+~
+0 -1 17746
+D2
+A hall.
+~
+~
+0 -1 4460
+D3
+Phoenix.
+~
+~
+0 -1 17747
+D4
+~
+~
+0 -1 17700
+E
+plaque~
+          House Phoenix:
+
+     Cryic
+     Bolt
+     Crichton
+     Stormbringer
+     Ariakas
+     Shakram
+     Andraia
+     Jyhad
+     Maat
+     Sarel
+~
+S
+#17746
+Home of Sarel.~
+The first think you notice is a statue of the Phoenix in here,
+there are small words printed under it.
+~
+107 8 0 1 99 0
+D3
+Room of Sarel.
+~
+~
+0 -1 17745
+E
+statue phoenix~
+          Aye, night commes and Hee risith from the Flame;
+          Lyoun and Eagle loudlie cry His name:
+          The Phoenix that schall spurn the shatter'd Spere.
+          Hys Fire shall fede upoun his darkest Fear:
+          But nott yntil the Starres fall owt the Skye,
+          Dawn coms up Blue, and our Daye be past by
+
+~
+S
+#17747
+Home of Sarel.~
+This is just another room in Sarel's home, nothing special, though
+there is a small plaque on the wall.
+~
+107 8 0 1 99 0
+D1
+Home of Sarel.
+~
+~
+0 -1 17745
+E
+plaque~
+           Former Team, Team Sarcasm:
+
+     Sarel
+     Odin
+     Red
+     Gollum
+~
+S
+$~
+#999999

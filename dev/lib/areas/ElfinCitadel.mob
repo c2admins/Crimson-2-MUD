@@ -1,0 +1,494 @@
+#14600
+mob elf king~
+The Elfin King~
+The Elfin King is standing here.
+~
+As you stand before the ruler of this citadel, you are overcome with awe
+at the majesty and power possessed by the king.  The king is every inch
+the image of a legend; from his wrinkled forehead to his pointed slippers.
+Though he is a very kind and benevolent king, you don't want to see him
+angry.  He obviously holds great power in this realm.
+~
+262154 32769 136249361 136 1000 S
+31 12 2 100d19+775 5d5+7
+416 192500
+8 8 1
+14 0 18 19 16 18 15 14
+SKILL=SKILL_EXTRA_DAMAGE 80
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 80
+SKILL=SKILL_FOURTH 80
+#14601
+mob elf queen~
+The Elfin Queen~
+The Elfin Queen is standing here.
+~
+The queen is as beautiful as the king is powerful... but underneath that
+beauty you can sense a will of iron that will not tollerate any evil.  You
+feel a slight shiver run down you spine as you realize that she is capable
+of wielding great power over mortals.
+~
+262154 32769 136249361 8 1000 S
+30 13 5 50d9+700 5d9+35
+303 185000
+8 8 2
+14 0 19 19 17 16 15 13
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_HAIL_STORM 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_HARM 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_POISON 70
+SKILL=SPELL_CAUSE_CRITIC 70
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_EARTHQUAKE 70
+#14602
+mob noble nobleman elf~
+The Elf Nobleman~
+The Elf Nobleman is sleeping here.
+~
+The sleeping nobleman looks very peaceful.
+~
+4106 1 136249361 131072 750 S
+25 15 18 11d19+2000 15d3+15
+184 77500
+4 4 1
+14 0 17 17 15 16 14 12
+#14603
+mob bodyguard guard~
+The Royal Bodyguard~
+The Royal Bodyguard eyes you suspiciously.
+~
+The royal bodyguard is the meanest elf you have ever seen.  He definately
+expects to be taken seriously.
+~
+14 32769 136249361 264 750 S
+33 10 -4 98d19+3000 9d9+30
+595 202500
+8 8 1
+14 0 19 21 19 17 18 15
+SKILL=SPELL_LIGHTNING_BREATH 76
+#14604
+mob maid elf~
+The Elfin maid~
+The Elfin maid is here, cleaning up.
+~
+The maid is wearing a provacative uniform... not!
+~
+76 1 136249361 8 100 S
+12 27 2 20d13+20 3d3+7
+10 3650
+8 8 2
+14 0 14 13 12 14 11 9
+#14605
+mob thief shadow~
+The Shadow Thief~
+The Shadow Thief is stealthily creeping through the room.
+~
+The mob is virtually invisible to even your eyes!
+~
+270412 1 136249361 1048586 -750 S
+29 14 8 55d19+2000 9d5+13
+284 89000
+8 8 1
+1 0 19 18 16 16 17 17
+#14606
+mob Fanged creature monster~
+An ugly fanged monster~
+The monster is rampaging around the room, throwing saliva everywhere
+~
+This creature makes your hair stand on end... but what are you doing
+looking at it; you should be fighting it already!
+~
+385034 32769 136249361 100671496 -1000 S
+43 1 -28 100d49+20000 9d9+45
+14475 680000
+8 8 0
+7 0 21 20 20 20 20 17
+SKILL=SKILL_EXTRA_DAMAGE 67
+SKILL=SPELL_ACID_BREATH 45
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#14607
+mob servant elf elfin~
+The Elfin Servant~
+The Elfin Servant is resting here.
+~
+These are a bunch of servants, born into the job.  They will spend their whole
+life like this, unless you kill them!
+~
+14 1 136249361 0 500 S
+10 29 34 9d9+80 3d5+2
+8 3050
+8 8 2
+14 0 13 13 11 13 10 9
+#14608
+mob elfin elf supervisor~
+The Elfin Supervisor~
+The Elfin Supervisor is here, looking through some papers.
+~
+This is a tall, well built elf, with a great deal of power over his
+servants.  The duty of the supervisor is to make sure that the servants
+do their jobs smoothly and efficiently.
+~
+8388618 1 136249361 0 500 S
+25 15 18 11d19+2000 8d5+20
+184 73000
+8 8 1
+14 0 17 19 17 15 15 12
+#14609
+mob elf elfin guard~
+The Elfin Guard~
+The Elfin Guard is standing here, very alert.
+~
+This guard is motionless... you even find yourself questioning the fact
+that he is alive!
+~
+10 1 136249361 0 1000 S
+12 27 32 10d19+60 5d3+3
+10 3625
+8 8 1
+14 0 14 15 14 12 13 12
+#14610
+mob astrologer elf elfin~
+The Elfin Astrologer~
+The Elfin Astrologer gives you the evil eye!
+~
+As you look into the eyes of the astrologer, you feel as if you should just
+fall asleep here before him.  He has a power over you... you better fight it!
+~
+262154 32769 136249361 136 600 S
+37 6 -16 100d49+1000 10d9+40
+1023 230000
+8 8 1
+14 0 21 22 20 18 18 19
+SKILL=SPELL_BLINDNESS 84
+SKILL=SPELL_COLOUR_SPRAY 84
+SKILL=SPELL_CURSE 84
+SKILL=SPELL_ENERGY_DRAIN 84
+SKILL=SPELL_FIREBALL 84
+SKILL=SPELL_HARM 84
+SKILL=SPELL_LIGHTNING_BOLT 84
+SKILL=SPELL_MAGIC_MISSILE 84
+SKILL=SPELL_POISON 84
+SKILL=SPELL_SLEEP 84
+SKILL=SKILL_EXTRA_DAMAGE 70
+SKILL=SPELL_HEAL_MINOR 84
+SKILL=SPELL_EARTHQUAKE 84
+#14611
+mob knight elfin~
+The Elfin Knight~
+The Elfin Knight is searching for evil beings to kill.
+~
+The Elfin Knight is strong, and helpfull... He glows with a tint of silver.
+~
+136 1 136249361 0 900 S
+17 23 27 40d9+65 5d7+3
+42 5125
+8 8 1
+14 0 15 14 13 15 13 14
+#14612
+mob woman shape shifter feeble~
+A feeble woman~
+A feeble woman is huddled up in a corner.
+~
+This is a benevolent Elfin shape shifter.  It has taken the form of an
+old woman.  Be careful, however, she is not as weak as she may appear!
+~
+262158 32769 136249361 603979912 1000 S
+37 6 -16 100d49+1000 9d9+43
+1050 229500
+8 8 2
+14 0 21 21 18 20 16 16
+SKILL=SPELL_BLINDNESS 84
+SKILL=SPELL_COLOUR_SPRAY 84
+SKILL=SPELL_CURSE 84
+SKILL=SPELL_ENERGY_DRAIN 84
+SKILL=SPELL_FIREBALL 84
+SKILL=SPELL_LIGHTNING_BOLT 84
+SKILL=SPELL_SLEEP 84
+#14613
+mob special guard~
+The Elfin Special Forces Guard~
+The Elfin Special Forces Guard is standing here looking mean.
+~
+You see before you a large elf with an attitude.  You think its
+probably safer just to leave now, before you get killed.
+~
+262154 32769 136249361 67109002 1000 S
+42 1 -26 45d19+9000 20d13+50
+14000 510000
+8 8 1
+14 0 21 21 21 19 17 18
+SKILL=SKILL_EXTRA_DAMAGE 89
+SKILL=SPELL_ACID_BREATH 45
+#14614
+mob princess melian~
+The Beautiful Princess Melian~
+The Princess is standing, looking in the mirror.
+~
+This Princess is the most beautiful woman that you have ever seen!!!
+~
+138 1 136249361 128 1000 S
+20 0 0 5d5+325 5d5+15
+500 27500
+8 8 2
+14 0 17 16 15 15 15 12
+SKILL=SPELL_BLOCK_SUMMON 99
+#14615
+mob stately prince~
+The Stately Prince~
+The Stately Prince is standing here.
+~
+The prince stands here before you, in a stately manner.  He is somewhat
+well dressed, but isn't wearing a royal robe.
+~
+138 32769 136249361 0 1000 S
+23 20 24 50d19+275 6d13+13
+500 58000
+8 8 1
+14 0 17 17 16 14 14 11
+SKILL=SKILL_SECOND 80
+#14616
+mob high priest~
+The High Priest~
+The High Priest is standing here looking divine.
+~
+You stand before the great high priest!  Just being in the same room as him
+makes you feel warm inside.  You thank the lord for such a great being!
+~
+262154 32769 136249361 603979912 1000 S
+38 5 -18 35d19+4000 5d5+15
+3000 235000
+8 8 1
+14 2 20 21 20 19 18 16
+SKILL=SPELL_BLINDNESS 86
+SKILL=SPELL_CURSE 86
+SKILL=SPELL_HARM 86
+SKILL=SPELL_POISON 86
+SKILL=SPELL_CAUSE_CRITIC 86
+SKILL=SKILL_SECOND 80
+SKILL=SPELL_HEAL_MINOR 86
+SKILL=SPELL_HEAL_MEDIUM 34
+SKILL=SPELL_SMITE 17
+SKILL=SPELL_EARTHQUAKE 86
+ATTACK_SKILL=69
+ATTACK_SKILL=87
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14617
+mob boris knight elf~
+Boris~
+Boris is standing here, eating, as usual.
+~
+He is a large man, and not what you would expect from the head of the Elfin
+knights.
+~
+138 1 136249361 0 1000 S
+23 17 21 89d19+1000 8d5+15
+129 71500
+6 6 1
+14 0 17 16 16 15 14 13
+#14618
+mob chef white elf elfin~
+The Chef~
+The Chef is standing here, preparing the next meal.
+~
+The Chef is smiling at you, and is dressed in all white.  There is not a
+spec of dirt on his uniform.
+~
+10 1 136249361 0 1000 S
+15 25 29 20d15+70 3d5+10
+33 4650
+8 8 1
+14 0 14 13 14 14 10 12
+#14619
+mob piano mimic elf elfin~
+The piano~
+A piano is sitting here, collecting dust.
+~
+You see nothing special about it.
+~
+10 1 136249361 0 500 S
+14 25 30 20d9+90 5d3+7
+22 4250
+8 8 0
+14 0 14 16 12 14 13 11
+#14620
+mob mage elfin elf~
+The Elfin Mage~
+The Elfin Mage is standing here, annoyed at you disturbing him.
+~
+The elfin is VERY angry at you for interupting him, and decides that you
+should be punished!
+~
+57354 32769 136249361 8 750 S
+15 25 29 20d15+50 5d5+4
+33 4575
+8 8 1
+14 0 14 13 14 13 10 12
+SKILL=SPELL_BLINDNESS 40
+SKILL=SPELL_BURNING_HANDS 40
+SKILL=SPELL_CURSE 40
+SKILL=SPELL_ENERGY_DRAIN 40
+SKILL=SPELL_LIGHTNING_BOLT 40
+SKILL=SPELL_MAGIC_MISSILE 40
+#14621
+mob sorcerer elfin elf~
+The Elfin Sorcerer~
+The Elfin Sorcerer is standing here looking very annoyed.
+~
+The Sorcerer is a very powerful being, dressed in a cloak of hidden 
+treasures... magical treasures.
+~
+262154 32769 136249361 8 750 S
+28 15 11 44d19+2000 8d7+22
+260 88000
+8 8 1
+14 1 19 19 16 17 16 13
+SKILL=SPELL_BLINDNESS 66
+SKILL=SPELL_COLOUR_SPRAY 66
+SKILL=SPELL_CURSE 66
+SKILL=SPELL_ENERGY_DRAIN 66
+SKILL=SPELL_FIREBALL 66
+SKILL=SPELL_LIGHTNING_BOLT 66
+SKILL=SPELL_MAGIC_MISSILE 66
+SKILL=SPELL_SLEEP 66
+#14622
+mob Librarian elf elfin~
+The Elfin Librarian~
+The Elfin Librarian is here reading... imagine that!
+~
+The Librarian is overworked, and reading a book about how to play muds...
+How exciting!
+~
+262154 32769 136249361 8 1000 S
+30 13 5 20d19+3000 7d7+30
+315 185000
+6 6 2
+14 0 19 20 17 18 16 15
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_HARM 70
+SKILL=SPELL_POISON 70
+SKILL=SPELL_CAUSE_CRITIC 70
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_SMITE 23
+SKILL=SPELL_EARTHQUAKE 70
+#14623
+mob fountain mimic elf~
+A fountain~
+A fountain stands here, firmly planted in concrete.
+~
+The fountain is made of fine marble... and is pouring out water, which you
+absolutely cannot drink.  You notice something peculiar about the base of
+the fountain...
+~
+65546 1 136249361 0 1000 S
+18 22 26 20d19+100 5d5+10
+0 5525
+8 8 0
+14 0 15 14 13 15 11 13
+#14624
+mob plant elf elfin~
+A plant~
+A plant is existing here.
+~
+The plant is green, with red spots and large fangs.  It reminds you of that
+huge man-eating plant that you read about in the library only moments ago!!!
+~
+8 1 136249361 0 -100 S
+19 21 25 20d19+150 8d3+11
+0 5875
+8 8 0
+14 0 16 14 14 15 13 10
+#14625
+mob gardener elf elfin~
+An elfin gardener~
+An elfin gardener is here, loving his plant life.
+~
+The gardener is a short man with red skin.  You wonder if this is natural,
+or if he has a really NASTY sun burn!
+~
+92 1 136249361 0 1000 S
+14 25 30 9d19+100 3d5+8
+23 4150
+8 8 1
+14 0 14 16 14 12 10 13
+#14626
+mob sparrow animal~
+A sparrow~
+A sparrow is flying around here.
+~
+This is a very small, free sparrow... looks easy to kill... but hard to hit!
+~
+8 1 136249361 0 1000 S
+3 34 38 4d5+10 2d1+2
+0 99
+8 8 0
+14 0 12 11 9 11 9 9
+#14627
+mob squirrel animal~
+a squirrel~
+A harmless looking squirrel is standing here, looking at you.
+~
+You see a cute little squirrel here, who is running around
+collecting things.  He looks pretty harmless.
+~
+72 1 136249361 0 1000 S
+6 31 36 9d5+15 3d3+1
+0 183
+8 8 0
+0 0 13 13 10 11 10 9
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14628
+mob rabbit animal~
+a rabbit~
+A rabbit is running around aimlessly.
+~
+The rabbit looks friendly enough to pet, but looks can be deceiving!
+~
+72 1 136249361 0 100 S
+4 33 37 5d5+15 2d3+1
+0 135
+8 8 0
+0 0 12 11 10 11 9 11
+#14629
+mob warden elfin~
+The Elfin Warden~
+The Elfin Warden is watching you carefully!
+~
+The warden is a strong, tall, well armored individual.  He has a very mean
+look on his face... and you don't want to get too close.
+~
+262154 1 136249361 0 750 S
+27 15 14 33d19+2000 8d9+11
+239 82500
+6 6 1
+13 0 17 16 17 16 13 15
+#14630
+mob midnight lag monster~
+the midnight lag monster~
+The midnight lag monster is here, frozen in time.
+~
+This monster doesn't seem to notice you... it just stands there, with
+this blank look on its face.  You try to communicate with it, but it
+doesn't respond... wonder why???  You look at your watch, as it beeps
+midnight.  Could this be related? Hrm...
+~
+327690 1 136249361 0 -1000 S
+40 3 -22 100d99+7500 10d9+60
+6300 250000
+8 8 0
+0 0 21 22 21 20 19 16
+$~
+#999999

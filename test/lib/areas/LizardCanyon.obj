@@ -1,0 +1,214 @@
+#2900
+obj dragon claws~
+5
+A pair of dragon claws~
+Someone has left this fine pair of dragon claws here.~
+~
+5 2097664 0 8193
+0 9 4 11
+10 50000 5
+A
+19 3
+A
+18 2
+A
+13 -25
+#2901
+obj human finger-poofs~
+100
+human finger-poofs~
+Someone left their finger-poof laying here.~
+~
+19 0 0 1
+30 0 0 0
+1 5 5
+#2902
+obj kenny overcoat orange~
+25
+a large overcoat~
+A torch is lying here.~
+~
+9 2097152 0 1025
+0 0 10 0
+10 50000 5
+A
+17 -48
+A
+13 48
+#2903
+obj mr hat puppet~
+20
+mr hat puppet~
+A torch is lying here.~
+~
+9 2097152 0 16385
+0 0 10 0
+1 50000 5
+A
+19 3
+A
+1 2
+A
+6 -4
+A
+17 -10
+#2904
+obj royal scepter~
+0
+a royal scepter~
+Someone has dropped a royal scepter here.~
+~
+9 2097152 0 16385
+0 0 10 0
+7 50000 50000
+A
+19 -30
+A
+18 -30
+A
+29 -1
+#2905
+obj cartmans aura~
+20
+Cartmans Aura~
+You see a strange and dark aura about.~
+~
+1 2097152 0 65537
+0 0 0 0
+1 100000 5
+A
+27 -1
+A
+26 -1
+A
+37 -1
+A
+12 50
+#2906
+obj baton~
+75
+an officers baton~
+Someone has left this baton laying about~
+~
+5 2113536 0 8193
+0 6 6 7
+7 50000 5
+#2907
+obj chef hat~
+5
+Chef's Hat~
+Chef seems to have left his hat here.~
+~
+9 2097152 0 17
+0 0 10 0
+7 50000 5
+A
+19 2
+A
+18 -1
+A
+2 -2
+A
+17 -15
+#2908
+obj super potion~
+10
+A super potion~
+Someone has left a super potion laying here.~
+~
+10 0 0 16385
+41 36 74 0
+1 100000 5
+#2909
+obj eye thundera sword~
+0
+The Eye Of Thundera~
+Snarf left his toy laying about.  You should junk it.~
+~
+5 671088648 0 8193
+0 2 2 3
+1 5 5
+#2910
+obj stan charm~
+10
+Stan's charm~
+Somone has left a quint charm laying here.~
+~
+9 1053184 0 5
+15 0 0 0
+1 50000 5
+A
+19 2
+A
+18 -1
+A
+37 -1
+#2911
+obj massive shield wendy~
+65
+a massive shield~
+Somone has left a rather massive shield here.~
+~
+9 1049088 0 513
+15 0 0 0
+10 50000 5
+A
+19 2
+#2912
+obj mace massive~
+10
+a large mace~
+Someone has left a large mace here.~
+~
+5 1081856 0 8193
+0 6 5 6
+5 50000 5
+A
+19 3
+A
+12 25
+#2913
+obj magical mage gloves~
+20
+a pair of mage gloves~
+Somone has left a pair of magical gloves here.~
+~
+9 1092096 0 129
+15 0 0 0
+2 50000 5
+A
+37 -1
+A
+39 -1
+A
+19 2
+#2914
+obj glasses pair~
+10
+wire brimmed glasses~
+Someone has left a pair of wire brimmed glasses here.~
+~
+9 524288 0 17
+0 0 0 0
+1 50000 5
+A
+32 -1
+A
+26 -1
+A
+36 -1
+#2915
+obj skin lizardman~
+10
+a lizardman skin~
+Someone has left some lizard skin here.~
+~
+9 1048576 0 9
+20 0 0 0
+1 100000 5
+A
+1 2
+A
+23 -10
+$~
+#999999

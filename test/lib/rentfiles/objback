@@ -1,0 +1,6 @@
+echo Remove old backup directory to make room for the new.
+rm -r crashback
+echo Creating backup directory.
+mkdir crashback
+echo Backing up player object files.
+cp */*.objs.sav crashback/

@@ -1,0 +1,501 @@
+#16200
+mob guard castle~
+the castle guard~
+A Castle guard is here looking for evil doers.
+~
+A large man in a suit of field armor is standing here.  He has sworn his life
+to protect the king of Castle Bryan.  He looks like he is good at his job.
+He trades glances with you as you look at him.
+~
+262154 1 136249361 8 850 S
+25 15 18 100d19+1250 7d9+12
+15000 75750
+8 8 1
+1 0 18 18 15 16 13 16
+#16201
+mob young knight~
+the young knight~
+A Young Knight of Bryan is here protecting the castle from intruders.
+~
+Before you stands one of the newest members of the Knights of Castla Bryan.  
+Although he looks young, you note that he still shows knowledge in the arts of 
+physical combat.
+~
+262154 1 136249361 8 1000 S
+28 15 11 100d23+1300 8d9+13
+23000 84948
+8 8 1
+1 0 19 17 16 17 16 15
+#16202
+mob knight~
+the knight~
+A Knight stands here prepared for combat.
+~
+This is one of the older knights of the castle.  His armor shows the scars of 
+some battles.  This knight doesn't seem to notice you when you look at him. 
+~
+262154 1 136249361 136 1000 S
+32 11 -1 100d15+1200 10d10+15
+45000 193250
+8 8 1
+1 0 19 18 16 17 17 13
+#16203
+mob knight head leader~
+the head knight~
+The Leader of the Knights is here, supervising the rest of the castle guard.
+~
+This man looks somewhat older than the rest of the guard here.  He wears his 
+battle scars like trophies for all to see.  His skill in combat is known all
+throughout the castle.
+~
+262154 32769 136249361 136 1000 S
+35 8 -10 100d25+1300 5d15+1
+70000 215000
+8 8 1
+1 0 19 19 18 18 17 16
+SKILL=SPELL_GAS_BREATH 50
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#16204
+mob demon nacho~
+a demon nacho~
+A Demon Nacho is here enjoying the taste of your leg.
+~
+There is a flat yellowish circular thing here that appears to have a mouth,
+arms and legs.  It looks somewhat hungry.
+~
+57480 1 136249361 8 0 S
+12 27 32 15d5+125 4d4+4
+1000 3725
+8 8 0
+0 0 12 12 10 10 8 8
+#16205
+mob noble visiting~
+a noble~
+A visiting noble is hear feasting on good food.
+~
+An overly dressed man is sitting here with apparently only one
+thing on his mind.  To eat and drink as much as humanly possible
+before he dies.  He might get mad if you try to interfere with him.
+~
+138 1 136249361 0 500 S
+27 15 14 1800d1+67 9d8+10
+25000 70000
+8 8 1
+1 0 18 18 17 18 14 15
+#16206
+mob royal inquisitor~
+the royal inquisitor~
+A Royal Inquisitor is here torturing blasphemers and criminals.
+~
+A tall thin man dressed in dark red is lurking over a poor defenceless    
+prisioners.  He looks quite week, which is probably why he seems to take  
+particular pleasure in his work.
+~
+262154 1 136249361 136 -900 S
+30 13 5 100d15+900 10d9+10
+33000 162261
+8 8 1
+1 0 19 18 16 18 17 13
+#16207
+mob squire~
+a squire~
+A Squire is here practicing to become a knight.
+~
+This small squire hardly looks worth the effort you consider putting forth to 
+kill him.  He is dressed in very plain cloths and doesn't look like he'll be a
+danger to anyone in the near future.
+~
+140 1 136249361 0 500 S
+18 22 26 100d2+160 8d4+5
+4000 5500
+8 8 1
+1 0 14 16 13 14 13 11
+#16208
+mob death knight ghost~
+the death knight~
+A ghostly death knight is wandering about here for no apperant reason.
+~
+All you see when you look at this figure is a foggy shape covered in a heavily
+battered suit of plate armor.  The figure seems to have an aura of sorrow about
+it, but you still think that attacking it would be bad.
+~
+262154 32769 136249361 1048706 0 S
+35 8 -10 100d43+500 6d5+60
+85000 217712
+8 8 1
+0 0 20 18 18 19 15 15
+SKILL=SPELL_BLINDNESS 80
+SKILL=SPELL_BURNING_HANDS 80
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_CURSE 80
+SKILL=SPELL_ENERGY_DRAIN 80
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_MAGIC_MISSILE 80
+SKILL=SPELL_SLEEP 80
+SKILL=SPELL_GAS_BREATH 55
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#16209
+mob joe cleric~
+joe the cleric~
+Joe the head cleric of this temple welcomes you with open arms.
+~
+This human looks a bit older than the average resident of the castle.  He
+appears to have seen many fights, his armor looks somewhat scarred, but he 
+tries his best to look like an average priest.
+~
+262154 32769 136249361 8 1000 S
+30 13 5 100d43+111 8d10+15
+25000 185000
+8 8 1
+1 2 18 19 16 17 16 14
+SKILL=SPELL_BLINDNESS 72
+SKILL=SPELL_HAIL_STORM 72
+SKILL=SPELL_CURSE 72
+SKILL=SPELL_HARM 72
+SKILL=SPELL_MAGIC_MISSILE 72
+SKILL=SPELL_POISON 72
+SKILL=SPELL_CAUSE_CRITIC 72
+SKILL=SPELL_HEAL_MINOR 72
+SKILL=SPELL_EARTHQUAKE 72
+#16210
+mob riana bard~
+riana~
+A beautiful elvin bard named Riana is here singing beautiful songs.
+~
+Riana is an extremely attractive elvin woman who was once a well known
+adventuring bard.  She has decided to settle down with her husband Joe, head
+cleric at the temple.  She looks like she still knows how to fight.
+~
+262154 32769 136249361 136 1000 S
+24 16 20 800d2+100 6d10+10
+19000 77777
+8 8 2
+1 5 17 19 15 16 13 16
+SKILL=SPELL_BLINDNESS 58
+SKILL=SPELL_BURNING_HANDS 58
+SKILL=SPELL_COLOUR_SPRAY 58
+SKILL=SPELL_CURSE 58
+SKILL=SPELL_ENERGY_DRAIN 58
+SKILL=SPELL_FIREBALL 58
+SKILL=SPELL_LIGHTNING_BOLT 58
+SKILL=SPELL_MAGIC_MISSILE 58
+SKILL=SPELL_SLEEP 58
+#16211
+mob dust devil~
+a dust devil~
+A small swirl of dust that resembles a dust devil catches your attention.
+~
+This creature is just a swirl of dust.  This swirl looks particularry nasty.
+~
+319498 1 136249361 8 0 S
+22 18 22 100d11+1000 7d7+7
+10000 63000
+8 8 0
+0 0 16 17 16 16 15 15
+#16212
+mob queen bryan~
+the queen of castle bryan~
+The Queen of Castle Bryan is here making all the important decisions.
+~
+The Queen looks just as intimidating as the king, but you notice something
+rather odd about her, she has the royal pair of pants.  She seems to be busy
+working on the many problems of castle health care.
+~
+262154 32769 136249361 136 850 S
+36 7 -14 100d39+900 25d5+10
+100000 225225
+8 8 2
+1 0 19 20 16 18 14 17
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_HAIL_STORM 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_HARM 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_POISON 70
+SKILL=SPELL_CAUSE_CRITIC 70
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_EARTHQUAKE 70
+#16213
+mob king bryan~
+the king of castle bryan~
+The King of Castle Bryan is here looking important.
+~
+The king is a large man, to say the least.  He appears to have taken in more 
+than his fair share in the years after his days as a knight.  He stills looks
+like he could put his sword to good use.
+~
+262154 32769 136249361 136 900 S
+38 5 -18 100d49+2000 5d15+5
+200000 235000
+8 8 1
+1 0 19 19 17 18 18 15
+SKILL=SPELL_BLINDNESS 78
+SKILL=SPELL_BURNING_HANDS 78
+SKILL=SPELL_COLOUR_SPRAY 78
+SKILL=SPELL_CURSE 78
+SKILL=SPELL_ENERGY_DRAIN 78
+SKILL=SPELL_FIREBALL 78
+SKILL=SPELL_LIGHTNING_BOLT 78
+SKILL=SPELL_MAGIC_MISSILE 78
+SKILL=SPELL_SLEEP 78
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#16214
+mob woz bumbling mage~
+woz the bumbling mage~
+Woz, the well known bumbling mage, is here getting drunk.
+~
+You see before you the most well known, and feared (by his companions), mage
+in all the lands.  He does not strike you as one who could have ever been of
+any use to an adventuring party.  He can hardly hold his share of beer.
+~
+262152 32769 136249361 136 0 S
+30 13 5 1400d1+100 9d9+17
+30000 175715
+8 8 1
+1 1 19 20 16 17 14 13
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+SKILL=SPELL_GAS_BREATH 50
+#16215
+mob chauncey~
+chauncey~
+Chauncey the bus boy is here serving drinks to the castle's guests.
+~
+Chauncey is a young bus boy who crashes this mud whenever he damn well
+pleases.
+~
+14 1 136249361 0 800 S
+23 17 21 100d15+1000 6d8+10
+10000 68686
+8 8 1
+1 0 18 16 16 16 14 15
+#16216
+mob weaponsmith dwarven gerkosis~
+the weaponsmith~
+GerKosis the famous dwarven weaponsmith is here working on his weapons.
+~
+You wonder how such a powerful looking dwarf could have possibly ended up 
+as a lowly smith.  He to looks somewhat old, but he looks like he could still
+fight any young would-be thieves that come his way.
+~
+262154 32769 136249361 136 0 S
+39 4 -20 100d59+2000 6d15+0
+475000 240000
+8 8 1
+2 4 20 21 19 18 18 14
+SKILL=SPELL_BLINDNESS 80
+SKILL=SPELL_HAIL_STORM 80
+SKILL=SPELL_CURSE 80
+SKILL=SPELL_HARM 80
+SKILL=SPELL_MAGIC_MISSILE 80
+SKILL=SPELL_POISON 80
+SKILL=SPELL_CAUSE_CRITIC 80
+SKILL=SPELL_HEAL_MINOR 80
+SKILL=SPELL_EARTHQUAKE 80
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#16217
+mob bartender pig whistle~
+the bartender~
+The bartender is here serving drinks to his patrons.
+~
+This large man, looks like he enjoys his work, and his profits.  He seems to
+take some pleasure in spreading beer throughout the land. 
+~
+262154 1 136249361 8 0 S
+37 6 -16 100d27+5000 2d50+35
+100000 223223
+8 8 1
+1 0 20 20 18 18 17 18
+#16218
+mob don chef~
+don the chef~
+Don the chef is here looking for some hassenfeffor. 
+~
+Don is an extremely large human being. He manovers through his kitchen with
+the grace of the finest dancer.  He is wandering the kitchen tasting all of
+the food to asure its quality.
+~
+319626 1 136249361 8 0 S
+33 10 -4 100d53+1200 4d20+30
+50000 198198
+8 8 1
+1 0 20 20 17 19 15 16
+#16219
+mob cardinal royal~
+the cardinal~
+The Royal Cardinal is looking over some important looking documents.
+~
+This man is about average height and build, however, his clothing give him 
+away as a man of some church.  He is wearing all red, it looks a bit darker 
+in some places, possibly due to the methods he uses to get information.
+~
+262154 32769 136249361 136 -999 S
+25 15 18 77d19+400 8d8+10
+20000 78000
+8 8 1
+1 0 17 19 17 17 13 16
+SKILL=SPELL_BLINDNESS 60
+SKILL=SPELL_HAIL_STORM 60
+SKILL=SPELL_CURSE 60
+SKILL=SPELL_HARM 60
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SPELL_POISON 60
+SKILL=SPELL_CAUSE_CRITIC 60
+SKILL=SPELL_HEAL_MINOR 60
+SKILL=SPELL_EARTHQUAKE 60
+#16220
+mob weaponmaster weapon master~
+weaponmaster~
+One of the weaponmasters of Castle Bryan is here training some squires.
+~
+The weaponmasters are known for their knowledge of most of the styles of
+fighting from across the land.  They have practiced their combat tactics in
+the heat of many hard faught battles.  This one looks older but still able
+to put up a hard fight.
+~
+262154 1 136249361 8 0 S
+31 12 2 100d49+1300 9d10+15
+30000 188188
+8 8 1
+1 4 18 20 16 16 15 14
+#16221
+mob spell master bryan~
+the spell master~
+The Spell Master of Castle Bryan is here training his students.
+~
+This human mage looks to be in his middle ages.  The scars of some combat are
+noticable on his skin.  You also notice that this master is able to use his
+weapons almost as well as he uses his spells.
+~
+262154 32769 136249361 136 0 S
+29 14 8 50d19+800 8d10+10
+25000 89898
+8 8 1
+1 1 17 18 17 16 14 15
+SKILL=SPELL_BLINDNESS 60
+SKILL=SPELL_BURNING_HANDS 60
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_CURSE 60
+SKILL=SPELL_ENERGY_DRAIN 60
+SKILL=SPELL_FIREBALL 60
+SKILL=SPELL_LIGHTNING_BOLT 60
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SPELL_SLEEP 60
+#16222
+mob thorak kobold~
+Thorak~
+A small kobold known as Thorak stands here preparing for his next match.
+~
+The sight of a kobold as one of the most feared pit fighters almost takes you
+by surprise until you realize his small size may alot him some advantage
+in the pit.  You wonder how well he fights out of the ring.
+~
+327690 1 136249361 136 0 S
+32 11 -1 50d49+750 10d10+15
+50000 192595
+8 8 1
+0 0 19 17 18 18 16 16
+#16223
+mob cat ninja~
+the cat ninja~
+A shady looking ninja, dressed in all black, is sneaking through the shadows.
+~
+You can hardly make this figure out.  All you notice is the quick and 
+precise movements of the ninja and the weapon...
+~
+262154 1 136249361 34603018 0 S
+33 10 -4 100d59+1200 9d10+25
+63000 199009
+8 8 2
+0 0 18 20 17 17 17 16
+#16224
+mob citizen bryan~
+a citizen of bryan~
+A lowly citizen of Bryan is here enjoying his life. 
+~
+This person looks just like the rest of the citizens of the castle. There is
+really nothing special about the citizens of this castle.
+~
+12 1 136249361 0 500 S
+15 25 29 20d9+100 3d8+5
+3000 4400
+8 8 1
+1 0 14 14 12 14 11 12
+#16225
+mob soldier bryan~
+soldier of bryan~
+One of Castle Bryan's soldiers is here looking for signs of an attack.
+~
+Before you stands one of the many soldiers that are the first line in the 
+castle's military affairs.  This soldier looks quite ready to stand and 
+defend his king.
+~
+12 1 136249361 0 600 S
+20 20 24 100d9+1200 9d5+6
+4500 63000
+8 8 1
+1 0 16 16 16 15 12 12
+#16226
+mob check point one guard~
+the check-point-one guard~
+A guard for check-point one is here, looking at you.
+~
+A large man in a suit of field armor is standing here.  He has sworn his life
+to protect the king of Castle Bryan.  He looks like he is good at his job.
+He trades glances with you as you look at him.
+~
+262152 1 136249361 8 850 S
+25 15 18 100d13+1500 7d9+12
+16000 75775
+8 8 0
+1 0 17 19 15 15 16 15
+#16227
+mob check point two guard~
+the check point two guard~
+A guard for check-point two is here, looking at you.
+~
+A large man in a suit of field armor is standing here.  He has sworn his life
+to protect the king of Castle Bryan.  He looks like he is good at his job.
+He trades glances with you as you look at him.
+~
+262152 1 136249361 8 850 S
+25 15 18 100d13+1500 7d9+12
+16000 75775
+8 8 0
+1 0 17 16 17 17 14 16
+#16228
+mob check point three guard~
+the check-point-three guard~
+A check-point three guard stands here, looking at you.
+~
+A large man in a suit of field armor is standing here.  He has sworn his life
+to protect the king of Castle Bryan.  He looks like he is good at his job.
+He trades glances with you as you look at him.
+~
+262152 1 136249361 8 850 S
+25 15 18 100d13+1500 7d9+12
+16000 75775
+8 8 0
+1 0 18 19 16 16 16 13
+$~
+#999999

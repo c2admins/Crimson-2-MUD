@@ -1,0 +1,90 @@
+#1800
+obj tree palm~
+1
+A palm tree~
+A palm tree grows here.~
+~
+15 134217736 0 0
+20 0 10 0
+1 1000000 54000
+E
+cocosnut~
+A deliciously, but strange looking cocosnut.
+~
+E
+tree~
+You see a large palm tree, looking hundreds of years old. A weird looking cocosnut gets your attention. Hmm... that looks tasty.
+~
+#1801
+obj coconut~
+100
+A coconut~
+A strange looking coconot lies here...~
+~
+19 0 0 1
+10 0 0 1
+1 5 5
+#1802
+obj sword wooden~
+3
+A wooden sword~
+A sword made of the purest wood~
+~
+5 4194308 0 8193
+2048 5 20 2
+20 100000 100000
+A
+18 3
+A
+19 3
+#1803
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+8 0 0 1
+0 0 10 0
+1 5 5
+#1804
+obj torch~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#1805
+obj pond~
+1
+A beatiful pond~
+A beautiful pond is the center of this paradise.~
+~
+17 8 0 0
+60 60 0 0
+500 3000 1000
+E
+pond~
+Looking into the pond, you can see light coming from below. You wonder if you should jump in to examine...
+~
+#1806
+obj key bone bones~
+2
+A key made from bones~
+A key made from bones is lying here.~
+~
+18 8 0 1
+0 0 10 0
+1 5 5
+#1807
+obj crack~
+1
+A crack in the ceiling~
+Light from a small crack in the ceiling illuminates the cave.~
+~
+15 8 0 1
+200 0 0 0
+1 5 5
+$~
+#999999

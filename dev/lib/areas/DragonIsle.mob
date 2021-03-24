@@ -1,0 +1,226 @@
+#8565
+mob Black Wyrm~
+The &KBlack Wyrm&n~
+The &KBlack Wyrm&n stands before you.
+~
+You see a huge, Black dragon.  It stands on four legs, has huge
+black horns, and black claws.  Its teeth seem to radiate, as
+blood drips from them.  It stares at you...the earth beneath you
+seems to shake...its attacking.
+~
+1153757194 32769 136249361 2097280 0 S
+48 0 -34 1d1+19999 15d10+50
+3500000 1300000
+8 8 0
+0 4 17 17 14 14 12 15
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+#8566
+mob Blue Wyrm~
+The &bBlue Wyrm&n~
+The &bBlue Wyrm&n stands before you.
+~
+You behold a Large, Blue dragon.  It walks on four legs...
+oddly...it has very small wings.  You wonder if this
+creature can even fly.  It sees you...But doesnt even seem to
+aknowledge your existance.  You walk closer...suddenly, it jumps 
+to a full alert, and emits an ear piercing howl.
+~
+1153699850 32769 136249361 2097280 0 S
+48 0 -35 50d50+30000 16d12+50
+3500000 1450000
+8 8 0
+0 4 17 17 14 14 12 15
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+#8567
+mob Red Wyrm~
+The &rRed Wyrm&n~
+The &rRed Wyrm&n stands before you.
+~
+You see a very small, red dragon.  It doesnt even stand as tall 
+as you.  It has 2 black horns jutting from its skull.  Smoak
+whisps from its nostrils...is this some kind of joke?!
+~
+1145311242 32769 136249361 2097280 0 S
+48 0 -36 75d75+40000 17d14+50
+3500000 1600000
+8 8 0
+0 4 17 17 14 14 12 15
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+#8568
+mob Yellow Wyrm~
+The &yYellow Wyrm&n~
+The &yYellow Wyrm&n stands before you.
+~
+You see a HUGE, Yellow dragon.  This one has rows of razor
+sharp teeth.  even though the fangs are VERY small, they look
+deadly.  You only see 2 front legs...he almost resembles
+a gigantic yellow worm.  It stands to attention as you draw near.
+The earth shakes as it slowly moves.
+~
+1153699850 32769 136249361 2097280 0 S
+48 0 -37 100d100+60000 18d16+50
+3500000 1750000
+8 8 0
+0 4 17 17 14 14 12 15
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+#8569
+mob White Wyrm~
+The &WWhite Wyrm&n~
+The &WWhite Wyrm&n stands before you.
+~
+You behold a large, white dragon.  Every picture you have seen.
+Every story you have ever heard...none could compare
+to the beauty of this beast.  It seems to radiate light.  This
+dragon watches as you walk about...yet does not move.
+Is it challenging you...dare you try its power?
+~
+1153699850 32769 136249361 2097280 0 S
+48 0 -38 100d100+70000 19d18+50
+3500000 1900000
+8 8 0
+0 4 17 17 14 14 12 15
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+#8570
+mob Ultimate Wyrm~
+&xthe &xUltimate &xWyrm&n~
+&xThe &xUltimate &xWyrm&n stands before you.
+~
+You see a huge, black...thing...hovering in front of you.  You 
+see no eyes...just 2 huge bat-like wings, and a gigantic mouth.
+It opens wide...the clouds themselves part as this...thing...
+emits its war-cry.  It swoops...
+~
+1154805770 32769 136249361 2097280 0 S
+48 0 -40 100d100+85000 20d20+100
+3500000 2000000
+8 8 0
+0 4 25 25 25 25 25 25
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=95
+ATTACK_SKILL=85
+ATTACK_SKILL=75
+ATTACK_TYPE=106
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_TYPE=105
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_TYPE=105
+#8571
+mob Green Wyrm~
+The &gGreen Wyrm&n~
+The &gGreen Wyrm&n stands before you.
+~
+You see a frog-like creature.  It has long...whiskers, and a
+huge mouth.  It opens its mouth, and you see rows
+of tiny, razor-sharp teeth inside.
+It stands about 10 feet tall and 10 feet long.
+~
+1145311242 32769 136249361 2097280 0 S
+48 0 -36 80d80+50000 18d18+60
+3500000 1600000
+8 8 0
+0 4 17 17 14 14 12 15
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+$~
+#999999

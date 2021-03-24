@@ -1,0 +1,1390 @@
+#8500
+&GThe Forest of Quel'Sith&n~
+&n  Huge &Gevergreens&n and &yoaks&n stretch up into the heavens, their presense 
+granting peace and comfort for the soul. Animals of every kind survive 
+here. Brightly colored birds flit through the air, singing their merry 
+songs. &WRabbits&n, &ysquirrels&n, &yweasels&n, and other small mammals are found in
+abundance, as are &ydeer&n, &Kbear&n, and other larger species. None of these
+creatures seems the least bit hostile, a special magical property unique 
+to these woods.&n
+~
+84 1343225860 536870912 1 99 1
+D0
+An overgrown path leads out of the forest
+~
+~
+0 -1 9449
+D2
+A trail through the forest.
+~
+~
+0 -1 8501
+S
+#8501
+&GA Trail in the Quel'Sith Forest&n~
+&n  A winding trail leads deep into the mystical forest. All around, life
+teems with wonder and glory. Even through the huge girths of the &ytrees&n, 
+&Ysunlight&n makes it's way though, leaving a beautiful and magical &Wglow&n
+over the area.&n
+~
+84 1343258632 536870912 1 99 1
+D0
+The trees seem to be clearing near there.
+~
+~
+0 -1 8500
+D2
+The trail continues
+~
+~
+0 -1 8502
+S
+#8502
+&GA Split in the Path&n~
+&n  The path splits here, with trails leading both east and west. &cRunning 
+water&n can be heard from either direction, but seems to be a bit louder
+to the east. The &yground&n itself has been packed firm, with travellers
+frequenting these grounds often. The path to the east seems to be the most
+used.&n
+~
+84 1343258632 536870912 1 99 1
+D0
+A trail through the forest.
+~
+~
+0 -1 8501
+D1
+A small trail through the forest.
+~
+~
+0 -1 8522
+D3
+A trail leads through the forest.
+~
+~
+0 -1 8503
+S
+#8503
+&GTurn in the Trail&n~
+&n  The trail takes a sharp turn to the south here. The sounds of 
+&crunning water&n grow closer with each step. The ground is starting to 
+become &Bmoist&n from constant saturation, and it may be wise to watch 
+your step.&n
+~
+84 1343225864 0 1 99 1
+D1
+A trail leads through the forest.
+~
+~
+0 -1 8502
+D2
+A trail leads through the forest.
+~
+~
+0 -1 8504
+S
+#8504
+&BA Large Stream&n~
+&c  A small stream flows here in and west to east direction. The banks 
+surrounding the water have become &ymuddy&c and slick with constant 
+saturation. The water itself is not very deep, only coming up to 
+the knees of a human, and is thus easily navigated.&n
+~
+84 1343225868 0 1 99 1
+D0
+A small trail leads through the forest.
+~
+~
+0 -1 8503
+D1
+Wading through a small stream.
+~
+~
+0 -1 8507
+D3
+Wading through a small stream.
+~
+~
+0 -1 8505
+D4
+nothing special...
+~
+~
+16 -1 8508
+S
+#8505
+&BWading Through the Water&n~
+&c  The further west that is travelled, the shallower the water becomes.
+&wSmall fish&c and other aquatic creatures swim at your feet, seemingly
+unafraid of your presense. To the east, the water gets a bit deeper,
+while to the west can be heard the sound of water falling.&n
+~
+84 1880129544 805306368 1 99 1
+D1
+Wading through a small stream.
+~
+~
+0 -1 8504
+D3
+Wading through a small stream.
+~
+~
+0 -1 8506
+S
+#8506
+&BStream Origins&n~
+&c  Water pours forth from the base of a &ytree trunk&c, creating the now ankle 
+deep stream that flows at your feet. &GDense foliage&c and &yunderbrush&c prevent 
+any movement in any direction save east, where the stream flows.&n
+~
+84 1343225864 0 1 99 1
+D1
+Wading through a small stream.
+~
+~
+0 -1 8505
+D2
+A small stream runs south into a swampier area.
+~
+~
+0 -1 17017
+S
+#8507
+&BA Small River&n~
+&c  The water now stretches more than seven feet across from one embankment
+to another, changing its classification to a small river. It is also so deep
+now that small watercraft can be used to traverse it. &nDense underbrush&c 
+prevents any attempts to land and go ashore, leaving only the option of 
+forging through the water to the east and west.&n
+~
+84 1343356936 0 1 99 1
+D1
+The stream widens
+~
+~
+0 -1 8508
+D3
+Wading through a small stream.
+~
+~
+0 -1 8504
+S
+#8508
+&BA Small River&n~
+&c  The river continues to widen, spanning nearly ten feet across at some
+points now. The flow of the current has picked up also, pulling in an
+easterly direction. &nDense underbrush&c prevents any attempts at landing on
+the shore, so the only options are to follow the flow of water to the
+east, or fight against the current in an attempt to make it to the 
+shallower waters in the west.&n
+~
+84 1343356937 536870912 1 99 1
+D1
+Nearing a small bridge.
+~
+~
+0 -1 8509
+D3
+The stream narrows.
+~
+~
+0 -1 8507
+S
+#8509
+&BA Small River&n~
+  &cThe current here is quite strong, pulling everything in an easterly 
+direction. To the west can be seen calmer waters, while to the east
+can be heard sounds of falling water.&n
+~
+84 3309576 0 1 99 3
+D1
+Navigating the calm river.
+~
+~
+0 -1 8510
+D3
+The river grows narrower.
+~
+~
+0 -1 8508
+S
+#8510
+&BA Small River&n~
+&c  The current here is quite strong, pulling everything in the river 
+in an easterly direction. Sounds of falling water can be heard to the
+east, while further in the distance to the west can be seen calmer
+waters.&n
+~
+84 3309576 0 1 99 3
+D1
+Navigating the calm river.
+~
+~
+0 -1 8511
+D3
+Nearing a bridge.
+~
+~
+0 -1 8509
+S
+#8511
+&BA Small River&n~
+&c  The current here is quite strong, pulling everthing in the river
+in an easterly direction. Sounds of falling water can be heard further 
+off to the east, while way in the distance to the west can be seen
+calmer waters.&n
+~
+84 3309576 0 1 99 3
+D1
+Navigating the calm river.
+~
+~
+0 -1 8512
+D3
+Navigating the calm river.
+~
+~
+0 -1 8510
+S
+#8512
+&BA Small River&n~
+  &cThe flow of the water has become so strong, that any thoughts of 
+fighting against it are dashed. Close by to the east can be seen a small 
+waterfall, but it is impossible to tell just how far the fall is.&n
+~
+84 3309576 0 1 99 3
+D1
+A large pool.
+~
+~
+0 -1 8513
+S
+#8513
+&BA Large Pool of Water&n~
+&c  Having no other choice but to go over the falls, you are quite suprised 
+to float slowly down and into a large pool that has formed on the forest
+floor below. The waters are calm here, even with the rage of the river
+falling down from above. Large numbers of &WNixies&c and other &Bwater sprites&c
+play gleefully here, seemingly ignoring the presense of any other person
+that comes near them.&n
+~
+84 3309576 0 1 99 3
+D0
+Near the edge of the pool.
+~
+~
+0 -1 8514
+D1
+The center of the pool.
+~
+~
+0 -1 8521
+D2
+Near the edge of the pool.
+~
+~
+0 -1 8520
+D3
+Navigating the calm river.
+~
+~
+0 -1 8512
+S
+#8514
+&BNear the Edge&n~
+&c  The normal calmness of the water is occasionally interrupted by the
+splash of a pair of playful &Bwater sprites&c. The &ndense undergrowth&c prevents
+passage into the forest, and it becomes apparent that even with the large 
+volume of water that empties into this pool, that its size never increases.
+This would appear to be another magical aspect unique to this forest.&n
+~
+84 3309576 0 1 99 3
+D1
+Near the edge of the pool.
+~
+~
+0 -1 8515
+D2
+Near the mouth of the river.
+~
+~
+0 -1 8513
+S
+#8515
+&BNear the Edge&n~
+&c  The normal calmness of the water is occasionally interrupted by the
+splash of a pair of playful &Bwater sprites&c. The &ndense undergrowth&c prevents
+passage into the forest, and it becomes apparent that even with the large 
+volume of water that empties into this pool, that its size never increases.
+This would appear to be another magical aspect unique to this forest.&n
+~
+84 3309576 0 1 99 3
+D1
+Near the edge of the pool.
+~
+~
+0 -1 8516
+D2
+The center of the pool.
+~
+~
+0 -1 8521
+D3
+Near the edge of the pool.
+~
+~
+0 -1 8514
+S
+#8516
+&BNear the Edge&n~
+&c  The normal calmness of the water is occasionally interrupted by the
+splash of a pair of playful &Bwater sprites&c. The &ndense undergrowth&c prevents
+passage into the forest, and it becomes apparent that even with the large 
+volume of water that empties into this pool, that its size never increases.
+This would appear to be another magical aspect unique to this forest.&n
+~
+84 3309576 0 1 99 3
+D2
+Near the edge of the pool.
+~
+~
+0 -1 8517
+D3
+Near the edge of the pool.
+~
+~
+0 -1 8515
+S
+#8517
+&BNear the Edge&n~
+&c  The normal calmness of the water is occasionally interrupted by the
+splash of a pair of playful &Bwater sprites&c. The &ndense undergrowth&c prevents
+passage into the forest, and it becomes apparent that even with the large 
+volume of water that empties into this pool, that its size never increases.
+This would appear to be another magical aspect unique to this forest.&n
+~
+84 3309576 0 1 99 3
+D0
+Near the edge of the pool.
+~
+~
+0 -1 8516
+D2
+Near the edge of the pool.
+~
+~
+0 -1 8518
+D3
+The center of the pool.
+~
+~
+0 -1 8521
+S
+#8518
+&BNear the Edge&n~
+&c  The normal calmness of the water is occasionally interrupted by the
+splash of a pair of playful &Bwater sprites&c. The &ndense undergrowth&c prevents
+passage into the forest, and it becomes apparent that even with the large 
+volume of water that empties into this pool, that its size never increases.
+This would appear to be another magical aspect unique to this forest.&n
+~
+84 3309576 0 1 99 3
+D0
+Near the edge of the pool.
+~
+~
+0 -1 8517
+D3
+Near the edge of the pool.
+~
+~
+0 -1 8519
+S
+#8519
+&BNear the Edge&n~
+&c  The normal calmness of the water is occasionally interrupted by the
+splash of a pair of playful &Bwater sprites&c. The &ndense undergrowth&c prevents
+passage into the forest, and it becomes apparent that even with the large 
+volume of water that empties into this pool, that its size never increases.
+This would appear to be another magical aspect unique to this forest.&n
+~
+84 3309576 0 1 99 3
+D0
+The center of the pool.
+~
+~
+0 -1 8521
+D1
+Near the edge of the pool.
+~
+~
+0 -1 8518
+D3
+Near the edge of the pool.
+~
+~
+0 -1 8520
+S
+#8520
+&BNear the Edge&n~
+&c  The normal calmness of the water is occasionally interrupted by the
+splash of a pair of playful &Bwater sprites&c. The &ndense undergrowth&c prevents
+passage into the forest, and it becomes apparent that even with the large 
+volume of water that empties into this pool, that its size never increases.
+This would appear to be another magical aspect unique to this forest.&n
+~
+84 3309576 0 1 99 3
+D0
+Near the mouth of the river.
+~
+~
+0 -1 8513
+D1
+Near the edge of the pool.
+~
+~
+0 -1 8519
+S
+#8521
+&BCenter of the Pool&n~
+&c  The calm that surrounds the center of the pool is very relaxing and 
+serene. Beneath the &wcrystal clear waters&c can be seen numerous &Cfish&c,
+&Bsprites&c, and other &baquatic creatures&c, all living in harmony. It is
+very difficult to tell just how deep the waters are at this point, but
+the bottom cannot be seen.&n
+~
+84 3309576 0 1 99 3
+D0
+Near the edge of the pool.
+~
+~
+0 -1 8515
+D1
+Near the edge of the pool.
+~
+~
+0 -1 8517
+D2
+Near the edge of the pool.
+~
+~
+0 -1 8519
+D3
+Near the mouth of the river.
+~
+~
+0 -1 8513
+S
+#8522
+&GTurn in the Trail&n~
+&n  The well worn path takes a sharp turn to the south. Sounds of &craging water&n 
+can be heard to the south, while back west lies the entrance to the forest.&n
+~
+84 3178504 0 1 99 3
+D2
+A small trail through the forest.
+~
+~
+0 -1 8523
+D3
+A small trail through the forest.
+~
+~
+0 -1 8502
+S
+#8523
+&GThe Forest Trail&n~
+&n  The ground has become somewhat &cmoist&n, revealing the presense of the 
+river that can be heard to the south. Numerous animal tracks are in 
+the mud, though no creature is visible on the trail now. A &ysmall bridge&n
+can be seen to the south, leading across the river.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8522
+D2
+A bridge.
+~
+~
+0 -1 8524
+S
+#8524
+&ySmall Bridge Over the &cRiver&n~
+&n  A small, elegantly carved &ywooden bridge&n leads across a river of
+crystal clear waters. small carvings of birds and other forest creatures
+line the sides of the structure, creating a beautiful motif unrivaled
+in these lands. Despite all the &ymud&n around, none appears on the bridge.
+Just another of the magics that flows through this forest.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8523
+D2
+A trail through the forest.
+~
+~
+0 -1 8525
+S
+#8525
+&GThe Forest Trail&n~
+&n  The path leads in a north-south direction. The worn appearance that it
+once had, is now all but gone as the &yroots&n of trees and underbrush try in
+a vain attempt to retake the small stretch of land that was lost to them.
+Numbers of small forest animals can be seen scampering from tree to tree, 
+and along the forest floor, but before any type of determination can be 
+made as to the species, they are gone from sight.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8524
+D2
+A trail through the forest.
+~
+~
+0 -1 8526
+S
+#8526
+&GCrossroads in the Trail&n~
+&n  The path splits here, leading east west, and north. &GHeavy vegitation&n
+surrounds the trail, threatening to overwhelm the walkway, and swallow
+it from sight. The &ytrees&n here are huge, some look as tall as a castle,
+with huge branches as thick as a man is wide. Every now and then, movement
+can be seen from the corner of your eye, but as you turn to look, whatever
+caused the clamor is gone...&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8525
+D1
+A trail through the forest.
+~
+~
+0 -1 8527
+D3
+A trail through the forest.
+~
+~
+0 -1 8538
+S
+#8527
+&GThe Forest Trail&n~
+&n  The path is barely a trail anymore. The well worn walkway is now
+reduced to a meandering path between the trees that seems to be more an 
+animal trail rather than a human road. The path seems a bit wider to the
+west, so that more than one person can walk along it at a time, but to
+the east it continually grows smaller.&n
+~
+84 3178508 0 1 99 3
+D1
+A trail through the forest.
+~
+~
+0 -1 8528
+D3
+A trail through the forest.
+~
+~
+0 -1 8526
+S
+#8528
+&GTurn in the Trail&n~
+&n  the path is so narrow now that only one person may walk along it at a
+time. Several tracks have started to appear along the trail, made by a
+large unknown creature. They seem to lead off to the south, where the 
+trail takes a sharp turn. To the north can be seen one of the largest
+trees in the area. A small side trail leads up to it's trunk.&n
+~
+84 3178504 0 1 99 3
+D0
+The base of a large tree.
+~
+~
+0 -1 8529
+D2
+A trail through the forest.
+~
+~
+0 -1 8532
+D3
+A trail through the forest.
+~
+~
+0 -1 8527
+S
+#8529
+&GThe Base of a &yHuge Tree&n~
+&n  The area around the tree has been molded into a small resting area for
+weary travellers who have braved this deep into the forest. Several of the
+lower branches of the tree look quite worn and could be easily climbed to
+get a better view of the surroundings.&n
+~
+84 3178508 0 1 99 3
+D2
+A trail through the forest.
+~
+~
+0 -1 8528
+D4
+Among the tree branches.
+~
+~
+0 -1 8530
+S
+#8530
+&GClimbing a Tree&n~
+&y  The climb is not particulary difficult with the number of branches that
+grow from the trunk, and before you realize it, you're nearly fifty feet 
+in the air. A very large and thick branch lies a bit further up, it looks 
+like a good place to rest from the climb.&n
+~
+84 3178504 0 1 99 3
+D4
+Nearing the top.
+~
+~
+0 -1 8531
+D5
+The base of the tree.
+~
+~
+0 -1 8529
+S
+#8531
+&GA &yBranch&G with a View&n~
+&y  Taking a moment to rest and relax from the climb, you are greeted with a 
+wonderous view of the surrounding countryside. A &cwaterfall&y can be clearly 
+seen to the northeast, while a &wsmall rock formation&y with a &Kcave&y can be seen
+to the south. A clear &Gpatch of grass&y can be seen to the southwest, while 
+way to the southeast can be seen something that looks like structures built
+in the trees. Perhaps some sort of city in the trees.&n
+~
+84 3178504 0 1 99 3
+D5
+Climbing down the branches.
+~
+~
+0 -1 8530
+S
+#8532
+&GThe Forest Trail&n~
+&n  The tracks of a very large creature lead to the south. Judging from the
+size and shape of the imprints, the unknown beast would seem to be a &Greptile&n.
+The path is somewhat worn from the beasts travel, but the footprints are still
+fresh, making it a new presense in these woods. &n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8528
+D2
+A trail through the forest.
+~
+~
+0 -1 8533
+S
+#8533
+&GTurn in the Trail&n~
+&n  The tracks take a sharp turn to the west. A &wlarge rock formation&n looms
+in the distance in that direction. It would appear that the tracks lead 
+up to it.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8532
+D3
+A trail through the forest.
+~
+~
+0 -1 8534
+S
+#8534
+&GA Worn Path&n~
+&n  The area around the &wrock formation&n has been matted down to form an
+open area of about seventy feet in diameter. From here you can see a 
+&Klarge cave opening&n to the west, the tracks leading right up to it.
+This would seem to be the creatures den, but is it home?&n
+~
+84 3178504 0 1 99 3
+D1
+A trail through the forest.
+~
+~
+0 -1 8533
+D3
+A trail through the forest.
+~
+~
+0 -1 8535
+S
+#8535
+&GOutside a &KSmall Cave&n~
+&n   The creatures tracks lead right into the &Kcave&n. Several piles of &Wbleached
+bones&n line the entrance, all of which appear humanoid. It would seem as 
+though the forest creatures have been protected from the beasts wrath and
+hunger.&n
+~
+84 3178508 0 1 99 3
+D0
+A small cave.
+~
+~
+0 -1 8536
+D1
+A trail through the forest.
+~
+~
+0 -1 8534
+S
+#8536
+&wThe &KDragons &wDen&n~
+&K  The cave reeks of death. Several half eaten corpses lie haphazzardly 
+about, forgotten when a new meal arrives. Though the cave is dark, a
+&Yglistening&K can be seen near the back of the cave. Before anyone can move,
+a deafening roar booms through the cavern, and the &Yglistening&K thing moves
+forward to reveal a very angry black dragon!&n
+~
+84 3178504 0 1 99 3
+D0
+nothing special..
+~
+~
+16 -1 8537
+D2
+A trail through the forest
+~
+~
+0 -1 8535
+S
+#8537
+&KHidden Treasure Room&n~
+&K  A small fissure near the back of the cave leads to the hoard that
+belongs to the black dragon. &YLarge piles of coins&K lie scattered about, 
+and several items of interest lay against the wall. Since the dragon had
+just newly arrived at this location, it's hoard is not as large as most 
+dragons would be, but it is still of substantial size.&n
+~
+84 808484872 0 1 99 3
+D2
+nothing special..
+~
+~
+16 -1 8536
+S
+#8538
+&GThe Forest Trail&n~
+&n  The small sidetrail is only wide enough for one person to walk through 
+at a time. The path is worn, but could easily be missed if not looked for.
+To the east lies a larger path, and the smaller path continues west.&n
+~
+84 3178504 0 1 99 3
+D1
+A trail through the forest.
+~
+~
+0 -1 8526
+D3
+A trail through the forest.
+~
+~
+0 -1 8539
+S
+#8539
+&GTurn in the Trail&n~
+&n  The path takes a sharp turn to the south here. &GDense foliage&n creeps in
+at the sides, but the trail begins to widen a bit and is now wide enough
+for to people to walk abreast. The deeper you travel into the magical
+woods, the larger the trees become. Some trees are so large now, that they
+seem to touch the &wclouds&n, with &ybranches&n as thich as a small tower.
+~
+84 3178504 0 1 99 3
+D1
+A trail through the forest.
+~
+~
+0 -1 8538
+D2
+A trail through the forest.
+~
+~
+0 -1 8540
+S
+#8540
+&GThe Forest Trail&n~
+&n  The surrounding trees have become so large, and take up so much 
+space, that the path you travel upon now has to wind around the bases
+of several trees to continue. Even though the branches of the great
+plants block out all rays of the sun now, the underbrush and other 
+small plants in the area feel no ill effects.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8539
+D2
+A trail through the forest.
+~
+~
+0 -1 8541
+S
+#8541
+&GThe Forest Trail&n~
+&n  The surrounding trees have become so large, and take up so much 
+space, that the path you travel upon now has to wind around the bases
+of several trees to continue. Even though the branches of the great
+plants block out all rays of the sun now, the underbrush and other 
+small plants in the area feel no ill effects.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8540
+D2
+A trail through the forest.
+~
+~
+0 -1 8542
+S
+#8542
+&GCrossroads in the Trail&n~
+&n  The path splits here, leading east west, and north. &GHeavy vegitation&n
+surrounds the trail, threatening to overwhelm the walkway, and swallow
+it from sight. The trees here are huge, some look as tall as a castle,
+with huge branches as thick as a man is wide. Every now and then, movement
+can be seen from the corner of your eye, but as you turn to look, whatever
+caused the clamor is gone...&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8541
+D1
+A trail through the forest.
+~
+~
+0 -1 8551
+D3
+A trail through the forest.
+~
+~
+0 -1 8543
+S
+#8543
+&GTurn in the Trail&n~
+&n  The path takes a sharp turn to the south here. &GDense foliage&n makes it 
+hard to discern what direction it travels at times, but after several
+examinations of the area, it is easily picked up again.&n
+~
+84 3178504 0 1 99 3
+D1
+A trail through the forest.
+~
+~
+0 -1 8542
+D2
+A trail through the forest.
+~
+~
+0 -1 8544
+S
+#8544
+&GThe Forest Trail&n~
+&n The elusive trail is becoming harder and harder to follow with each
+passing step. It almost seems as if the forest itself is reaching out
+to hide the path, in a vain attempt to protect its destination.&n
+~
+84 3178508 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8543
+D2
+A small glade.
+~
+~
+0 -1 8545
+S
+#8545
+&GEntrance to a Small Glade&n~
+&n  The plethora of trees suddenly gives way to a circular glade of
+grass. No other foliage exists in the area, but a &wlarge stone&n is 
+set in the middle of the area. Several &Kcharacters&n of a dialect long
+lost are enscribed upon the stone. A feeling of peace and ease emanates
+from the monolith.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8544
+D1
+A small glade.
+~
+~
+0 -1 8550
+D2
+A small glade.
+~
+~
+0 -1 8548
+D3
+A small glade.
+~
+~
+0 -1 8546
+E
+writing characters enscribed~
+Enscribed on the stone is an ancient language:
+     Tabra kualtho dest bruondae a mahn oigkt deab ent ghe quator retun deat.
+
+
+
+After staring at the writing for a moment, the letters seem to shift and become legible. The
+writing now reads:
+
+     To find the key to the city, you must utter the name of that who's touch will kill all,
+     but itself is incable of death.
+~
+E
+stone~
+&cThe stone seems to have some writing on it in an ancient, forgotten language.&n
+~
+E
+writing characters enscribed~
+&KEnscribed on the stone is an ancient language:
+     &cTabra kualtho dest bruondae a mahn oigkt deab ent ghe quator retun deat.
+
+
+
+
+&cAfter staring at the writing for a moment, the letters seem to shift and become legible. The
+writing now reads:&n
+
+     &cTo find the key to the city, you must utter the name of that who's touch will kill all,
+     but itself is incable of death.&n
+~
+E
+writing characters enscribed~
+&KEnscribed on the stone is an ancient language:
+
+     &cTabra kualtho dest bruondae a mahn oigkt deab ent ghe quator retun deat.
+
+
+
+&KAfter staring at the writing for a moment, the letters seem to shift and become legible. The
+writing now reads:&n
+
+     &cTo find the key to the city, you must utter the name of that who's touch will kill all,
+     but itself is incable of death.&n
+~
+S
+#8546
+&GA Small Glade&n~
+&n  The grass of the glade stops where the trees begin, almost as if the
+entire area were implanted in the forest. The &wstone&n in the center of the
+glade appears to have &csymbols&n etched on it's entire surface, but are 
+totally undecipherable.&n
+~
+84 3178504 0 1 99 3
+D1
+A small glade.
+~
+~
+0 -1 8545
+D2
+A small glade
+~
+~
+0 -1 8547
+S
+#8547
+&GA Small Glade&n~
+&n  The grass of the glade stops where the trees begin, almost as if the
+entire area were implanted in the forest. The &wstone&n in the center of the
+glade appears to have &csymbols&n etched on it's entire surface, but are 
+totally undecipherable.&n
+~
+84 3178504 0 1 99 3
+D0
+A small glade.
+~
+~
+0 -1 8546
+D1
+A small glade.
+~
+~
+0 -1 8548
+S
+#8548
+&GA Small Glade&n~
+&n  The grass of the glade stops where the trees begin, almost as if the
+entire area were implanted in the forest. The &wstone&n in the center of the
+glade appears to have &csymbols&n etched on it's entire surface, but are 
+totally undecipherable.&n
+~
+84 3178504 0 1 99 3
+D0
+A small glade.
+~
+~
+0 -1 8545
+D1
+A small glade.
+~
+~
+0 -1 8549
+D3
+A small glade.
+~
+~
+0 -1 8547
+S
+#8549
+&GA Small Glade&n~
+&n  The grass of the glade stops where the trees begin, almost as if the
+entire area were implanted in the forest. The &wstone&n in the center of the
+glade appears to have &csymbols&n etched on it's entire surface, but are 
+totally undecipherable.&n
+~
+84 3178504 0 1 99 3
+D0
+A small glade.
+~
+~
+0 -1 8550
+D3
+A small glade.
+~
+~
+0 -1 8548
+S
+#8550
+&GA Small Glade&n~
+&n  The grass of the glade stops where the trees begin, almost as if the
+entire area were implanted in the forest. The &wstone&n in the center of the
+glade appears to have &csymbols&n etched on it's entire surface, but are 
+totally undecipherable.&n
+~
+84 3178504 0 1 99 3
+D2
+A small glade.
+~
+~
+0 -1 8549
+D3
+A small glade.
+~
+~
+0 -1 8545
+S
+#8551
+&GThe Forest Trail&n~
+&n  The deeper the trail takes you into the mystical forest, the larger
+the trees become. Some are do gigantic now, that they reach up to the 
+&wclouds&n, their branches so large, that an entire city could be held in
+their branches. The trail leads east and west.&n
+~
+84 3178504 0 1 99 3
+D1
+A trail through the forest.
+~
+~
+0 -1 8552
+D3
+A trail through the forest.
+~
+~
+0 -1 8542
+S
+#8552
+&GThe Forest Trail&n~
+&n  The deeper the trail takes you into the mystical forest, the larger
+the trees become. Some are do gigantic now, that they reach up to the 
+&Wclouds&n, their branches so large, that an entire city could be held in 
+their branches. The trail leads east and west.&n
+~
+84 3178504 0 1 99 3
+D1
+A trail through the forest.
+~
+~
+0 -1 8553
+D3
+A trail through the forest.
+~
+~
+0 -1 8551
+S
+#8553
+&GTurn in the Trail&n~
+&n  The path takes a strong turn to the south for a particularly large
+tree blocks any progress east. Several &Kshadowy figures&n can be seen 
+periodically in the branches of several trees, but are gone as quickly
+as they are noticed. A feeling of unease sets in as you realize that 
+you are being watched.&n
+~
+84 3178504 0 1 99 3
+D2
+A trail through the forest.
+~
+~
+0 -1 8554
+D3
+A trail through the forest.
+~
+~
+0 -1 8552
+S
+#8554
+&GThe Forest Trail&n~
+&n  Leading in a north-south direction, the path begins to wind around
+the bases of several trees whose girth threatens to swallow the trail 
+from sight. The rustling of leaves alerts you to the presense of 
+life around you, but the forest has become very quiet, as if the beasts
+of the land have been warned of your intrusion and are staying away.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8553
+D2
+A trail through the forest.
+~
+~
+0 -1 8555
+S
+#8555
+&GThe Forest Trail&n~
+&n  Leading in a north-south direction, the path begins to wind around
+the bases of several trees whose girth threatens to swallow the trail 
+from sight. The rustling of leaves alerts you to the presense of 
+life around you, but the forest has become very quiet, as if the beasts
+of the land have been warned of your intrusion and are staying away.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8554
+D2
+A trail through the forest.
+~
+~
+0 -1 8556
+S
+#8556
+&GCrossroads in the Trail&n~
+&n  The trail splits here, leading east and west. The path to the east can
+be seen trailing off further in the distance, while the path to the west
+appears to cross into some &Gdense foliage&n.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8555
+D1
+A trail through the forest.
+~
+~
+0 -1 8558
+D3
+A trail through the forest.
+~
+~
+0 -1 8557
+S
+#8557
+&GA &WDead&G End&n~
+&G  Dense foliage&n and &yundergrowth&n block the trail that leads west, almost
+as if the forest itself were preventing anyone from going in that direction.&n
+~
+84 3178504 0 1 99 3
+D1
+A trail through the forest.
+~
+~
+0 -1 8556
+S
+#8558
+&GThe Forest Trail&n~
+&n  The path leads in an east-west direction. Two small sides paths 
+lead off to the north and south, both appear to end near the bases 
+of &ylarge trees&n. The sounds of the forest wildlife have become ominously
+quiet, but several beasts can be seen from time to time before they 
+quickly scamper off.&n
+~
+84 3178504 0 1 99 3
+D0
+The base of a large tree.
+~
+~
+0 -1 8559
+D1
+A trail through the forest.
+~
+~
+0 -1 8561
+D2
+The base of a large tree.
+~
+~
+0 -1 8560
+D3
+A trail through the forest.
+~
+~
+0 -1 8556
+S
+#8559
+&GBase of a &yLarge Tree&n~
+&n  The trail ends at the base of a &ylarge tree&n that spans up into the heavens.
+From the worn looks around the base, and surrounding ground, the are is
+used as a rest stop for weary travellers. there appears to be nothing else
+of interest around.&n
+~
+84 3178504 0 1 99 3
+D2
+A trail through the forest.
+~
+~
+0 -1 8558
+S
+#8560
+&GBase of a &yLarge Tree&n~
+&n  The trail ends at the base of a &ylarge tree&n that spans up into the heavens.
+From the worn looks around the base, and surrounding ground, the are is
+used as a rest stop for weary travellers. there appears to be nothing else
+of interest around.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8558
+S
+#8561
+&GTurn in the Trail&n~
+&n  A &ylarge tree&n to the east forces the path to take a sharp turn south.
+At first glance, the base of the tree appeared to have a door built
+into it, but after a second look it was gone. The forest is not known
+to cause hallucinations, but stranger things have happened in these 
+woods.&n
+~
+84 3178504 0 1 99 3
+D1
+~
+tree door~
+25 0 20745
+D2
+A trail through the forest.
+~
+~
+0 -1 8562
+D3
+A trail through the forest.
+~
+~
+0 -1 8558
+E
+delete~
+~
+E
+tree~
+&K  The trunk of the tree looks like that of any ordinary tree. There are no discernable 
+cracks or worn areas that would provide evidence to the door you belived to have seen. A sharp
+rap on the trunk does prove that the tree seems to be hollow, but there is still the problem 
+of finding an entrance.&n
+~
+S
+#8562
+&GThe Forest Trail&n~
+  &gLeading in a north-south direction, the path winds around several &ytrees&g
+who seem to be making an attempt to swallow the trail from sight. Several
+figures still hide in the &Kshadows&g of &ybranches&g, and as of yet have made no
+contact. The uneasy feeling that set in when the watchers were first noticed
+lingers as you wonder whether they are friend or foe. A small trail branches
+off to the west, almost undistinguishable among the giant &ytrees&g.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8561
+D2
+A trail through the forest.
+~
+~
+0 -1 8563
+D3
+~
+~
+16 -1 8625
+S
+#8563
+&GTurn in the Trail&n~
+&n  The path takes a sharp turn to the east to avoid a &ylarge tree&n 
+directly in its path. The figures that have been &Kshadowing you&n are
+growing more numerous, though so far they are still hiding in the 
+trees.&n
+~
+84 3178504 0 1 99 3
+D0
+A trail through the forest.
+~
+~
+0 -1 8562
+D1
+A trail through the forest.
+~
+~
+0 -1 8564
+S
+#8564
+&GA &WDead &GEnd&n~
+&G  Vines &nand &ybushes&n cover the path, preventing any further progress to 
+the east. The trees surrounding the area have grown to such proportions,
+that their tips nearly touch the &Wclouds&n. Sounds of merriment and laughter
+can be heard from the east, but unfortunately there is no path through.
+The trail leading west seems to be the only way through the area.&n
+~
+84 3178504 0 1 99 3
+D3
+A trail through the forest.
+~
+~
+0 -1 8563
+S
+$~
+#999999

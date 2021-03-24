@@ -1,0 +1,268 @@
+#6025
+obj statue locksley platinum~
+100
+statue~
+A tall platinum statue of the Great king locksley stands here~
+~
+8 0 0 1
+0 0 10 0
+4000 5 5
+#6026
+obj boots john little~
+4
+boots of john little~
+a pair of raggedy old boots are laying here~
+~
+9 2097152 0 65
+10 0 0 0
+4 20000 30000
+A
+19 2
+A
+33 -1
+#6027
+obj iron sword good~
+6
+iron sword of the good~
+A long very sharp lookin peice of iron is laying here~
+~
+5 2098176 0 8193
+2048 3 8 3
+7 230000 7000
+A
+13 -20
+A
+19 3
+A
+18 2
+#6028
+obj green hat~
+9
+&KA &gBright Green &KHat&n~
+A rather dirty lookin green hat is laying here~
+~
+9 4194304 0 17
+20 0 0 0
+4 70000 50000
+A
+18 1
+A
+32 -1
+A
+19 2
+A
+12 -15
+#6029
+obj robin's pouch~
+5
+&gR&Wo&gb&Wi&gn&G'&Ws &gP&Wo&gu&Wc&gh&n~
+a rather large green and brown pouch lays here~
+~
+15 4194304 0 1025
+70 0 0 0
+5 50000 20000
+A
+19 2
+A
+18 1
+A
+17 -50
+#6030
+obj golden arrow~
+3
+&YThe Golden Arrow&n~
+A bright &YArrow made of Gold&n lays here unnattended.~
+~
+5 138415104 0 8193
+0 6 8 11
+10 200000 2000
+A
+19 3
+A
+18 2
+A
+14 -50
+#6031
+obj Massive Golden Chest~
+100
+&wA &pMassive&Y Golden &rChest&n~
+&sA &sMassive &YGolden &sChest&n is sitting here~
+~
+15 0 0 16384
+150 5 0 0
+60 1000000000 1000000000
+#6032
+obj shiny golden key~
+3
+&yA Shiny&Y Golden&y Key&n~
+A extremely shiny key is laying here obviously very valuable.~
+~
+18 262152 0 16385
+0 0 10 0
+1 5 5
+#6033
+obj shiny golden key~
+10
+&yA Shiny&Y Golden&y Key&n~
+A extremely shiny key is laying here obviously very valuable.~
+~
+18 262152 0 16385
+0 0 10 0
+1 5 5
+#6034
+obj shiny golden key~
+50
+&wA Shiny &YGolden&w Key&n~
+A extremely shiny key is laying here obviously very valuable.~
+~
+18 262152 0 16385
+0 0 10 0
+1 5 5
+#6035
+obj shiny golden key~
+50
+&yA Shiny&Y Golden&y Key&n~
+A extremely shiny key is laying here obviously very valuable.~
+~
+18 262152 0 16385
+0 0 10 0
+1 5 5
+#6036
+obj shiny golden key~
+10
+&yA Shiny&Y Golden&y Key&n~
+A extremely shiny key is laying here obviously very valuable.~
+~
+18 262152 0 16385
+0 0 10 0
+1 5 5
+#6037
+obj shiny golden key~
+10
+&yA Shiny&Y Golden&y Key&n~
+A extremely shiny key is laying here obviously very valuable.~
+~
+18 262152 0 16385
+0 0 10 0
+1 5 5
+#6038
+obj David spear~
+14
+&rD&Ca&Pv&Yi&pd&w'&gs &bS&rp&be&ra&br&n~
+Here lies a long thin peice of steal. ~
+~
+5 2098176 0 8193
+65536 6 5 11
+8 50000 500
+A
+19 2
+A
+18 2
+#6039
+obj ruby ring~
+12
+&Ka &Rr&rub&Ry &Kring&n~
+Someone has carelessly dropped a rather large ring here.~
+~
+9 2100224 0 3
+15 0 0 0
+7 25000 650
+A
+19 2
+A
+18 1
+#6040
+obj dagger thieves~
+5
+&KT&wh&Ke &wD&Kagge&wr of &KThie&wv&Kes&n~
+Someone carelessly dropped a very sharp piece of metal here.~
+~
+5 1048608 0 8193
+2 3 4 11
+2 5000 1000
+A
+19 3
+A
+12 -20
+A
+18 2
+#6041
+obj Jackyl hide~
+15
+&cThe Jackyls Hide&n~
+A rather small smelly hide has been left here.~
+~
+11 286277632 0 1025
+0 0 10 0
+6 20000 200
+A
+19 2
+A
+18 1
+#6042
+obj Eternal light Triton~
+4
+&RTriton's &YEternal &WLight&n~
+A torch is lying here.~
+~
+1 4326400 0 65537
+0 0 10 0
+1 250000 250000
+A
+19 2
+A
+18 3
+A
+14 -10
+#6043
+obj bong~
+32767
+&WA&w W&w&fa&n&WT&w&fe&n&WR &wB&Wo&Wn&wG&n~
+&wSomeone &R&fIllegally&n &wleft a large water bong laying here.&n~
+~
+11 0 0 16405
+0 0 10 0
+1 2147483647 100000
+#6044
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#6045
+obj legendary missing~
+15
+The legendary Missing Cape~
+A large black cape is laying here in a ball.~
+~
+9 2097408 0 5
+7 0 0 0
+7 1100 210
+A
+18 2
+A
+19 2
+A
+28 -1
+#6046
+obj golden belt~
+20
+&YRigid Golden Belt&n~
+Someone has left a &YRigid Golden Belt&n here.~
+~
+9 1090561 0 2049
+15 0 0 0
+8 175000 50000
+A
+19 2
+A
+18 2
+A
+12 -15
+A
+14 -10
+$~
+#999999

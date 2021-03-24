@@ -1,0 +1,1905 @@
+#7750
+&GA Large Pathway Through the Forest&n~
+&nA large &wmountain&n looms in the distance as you find a rather large
+and well kept trail. The ground is rather &cmoist&n here, almost as if
+it had just finished raining. Several large footprints can be found 
+in the &ymud&n, made by some huge humanoid creature judging by the shape
+of the indentations.&n 
+~
+59 1048588 0 1 99 2
+D1
+The pathway continues.
+~
+~
+0 -1 7751
+D2
+To the South you see a deep, dark forest.
+~
+~
+0 -1 6103
+S
+#7751
+&GA Large Pathway Through the Forest&n~
+&nA large &wmountain&n looms in the distance as you find a rather large
+and well kept trail. The ground is rather &cmoist&n here, almost as if
+it had just finished raining. Several large footprints can be found 
+in the &ymud&n, made by some huge humanoid creature judging by the shape
+of the indentations.&n 
+~
+59 1048588 0 1 99 2
+D1
+The pathway continues.
+~
+~
+0 -1 7752
+D3
+The pathway continues.
+~
+~
+0 -1 7750
+S
+#7752
+&GA Turn in the Path&n~
+&nThe pathway you follow takes a sharp turn to the north, away from
+the &wmountain&n that now looms closer to the east. A thick &Wmist&n starts
+to fill the air which only serves to further moisten the already
+damp &ysoil&n at your feet, making travel a bit more difficult.
+~
+59 1048580 0 1 99 4
+D0
+It's starting to get cloudy up ahead.
+~
+~
+0 -1 7753
+D3
+The pathway continues.
+~
+~
+0 -1 7751
+S
+#7753
+&GA Large Pathway Through the Forest&n~
+&nThe ground has become so &Bwet&n that the &ymud&n now reaches over your ankles, 
+severely hindering movement. The &Wmist&n that started earlier has now gotten
+thicker, though you can still make out the trail in front of you.&n
+~
+59 4 0 1 99 5
+D0
+~
+~
+0 -1 7754
+D2
+The pathway continues.
+~
+~
+0 -1 7752
+S
+#7754
+&GA Turn in the Path&n~
+&nThe pathway takes another turn, this time to the east. The &wmountain&n that once
+loomed in the distance is now quite close and looks rather imposing. Thick
+clouds of &Wmist&n start at its base and seem to grow thicker towards the top.
+One can only wonder what mysteries lie at the peak.&n
+~
+59 4 0 1 99 5
+D1
+~
+~
+0 -1 7755
+D2
+~
+~
+0 -1 7753
+S
+#7755
+&GA Turn in the Path&n~
+&nThe footprints you were following earlier are now quite visible due to the
+thickness of the &yquagmire&n you trudge through. The &Wmist&n has become near impen-
+etrable now, and if not for the huge tracks laid before you, navigating this
+&ybog&n would be impossible.
+~
+59 4 0 1 99 5
+D0
+~
+~
+0 -1 7756
+D3
+~
+~
+0 -1 7754
+S
+#7756
+&GA Turn in the Path&n~
+&nBlindly walking through the &Gforest&n-&ybog&n, you can't help but wonder where that
+great &wmountain&n you was saw earlier is. Several &Kshadows&n flit through the &wfog&n,
+leaving an uneasy feeling in the pit of your stomach as to how safe the 
+trail now is...
+~
+59 4 0 1 99 5
+D1
+~
+~
+0 -1 7757
+D2
+~
+~
+0 -1 7755
+S
+#7757
+&GA Turn in the Path&n~
+&nThe &Kshadows&n seem to be growing bolder as at times you feel you can almost
+reach out and touch one or two before they quickly disappear from sight. The
+tracks you have been following all this time seem to almost wander around
+aimlessly, but it is hard to tell without being able to gain any bearings 
+yourself. At least the &Wmist&n doesn't seem to be able to get any thicker.
+~
+59 4 0 1 99 5
+D2
+~
+~
+0 -1 7758
+D3
+~
+~
+0 -1 7756
+S
+#7758
+&GA Large Pathway Through the Forest&n~
+&nThe &Kshadows&n seem to be growing bolder as at times you feel you can almost
+reach out and touch one or two before they quickly disappear from sight. The
+tracks you have been following all this time seem to almost wander around
+aimlessly, but it is hard to tell without being able to gain any bearings 
+yourself. At least the &Wmist&n doesn't seem to be getting any thicker anymore.
+~
+59 4 0 1 99 5
+D0
+~
+~
+0 -1 7757
+D2
+~
+~
+0 -1 7762
+S
+#7759
+&wLarge Path Inside the Aerie&n~
+&yThe great &Kstone gargoyles&y that once dominated the first half of this pathway
+don't appear to be on the second half. Instead &wlarge stones&y flank the walkway
+in an effort of decoration. In the distance to the east can be seen the &Klarge
+manor house&y which dominates the other buildings in the aerie. Also further in
+that direction are two &Kguard towers&y set up in defense should the stronghold
+come under attack. Back to the west lies a craggy outcropping, and further
+on the exit.&n
+~
+59 268435456 536870912 1 99 2
+D1
+~
+~
+0 -1 7760
+D3
+~
+~
+0 -1 7809
+S
+#7760
+&wLarge Path Inside the Aerie&n~
+&yLarge &wstone boulders&y line the sides of the path in an effort of decoration.
+A large &Kmanor house&y lies to the east, flanked by two very large &Kguard towers&y
+built for defense of the aerie. To the west can be seen a plateau and several
+smaller buildings, as well as the &Kgates&y that lead out of this stronghold.&n
+~
+59 268435456 536870912 1 99 2
+D1
+~
+~
+0 -1 7761
+D3
+~
+~
+0 -1 7759
+S
+#7761
+&wA Split in the Path&n~
+&yTwo small sidepaths lead up two very &Klarge towers&y that are used for defense
+of the aerie. To the east, the great doors of the &Kmanor house&y lie open, seem-
+ingly daring you to enter and test your fate. Back to the west lies several
+smaller buildings, as well as the &Kgates&y that lead out of this stronghold.&n
+~
+59 268435456 536870912 1 99 2
+D0
+A tower looms into view.
+~
+~
+0 -1 7810
+D1
+Large gates loom ahead.
+~
+~
+0 -1 7819
+D2
+A tower looms into view.
+~
+~
+0 -1 7815
+D3
+~
+~
+0 -1 7760
+S
+#7762
+&GA Turn in the Path&n~
+&nThe &Kshadows&n seem to be growing bolder as there are times when you feel you can
+almost reach out and touch one or two before they quickly disappear back into
+the thick &Wmist&n. The tracks you have been following for some distance now seem
+to almost wander around aimlessly, but it is hard to tell without being able
+to gain your bearings. At least the &Wmist&n doesn't appear to be getting any 
+thicker.
+~
+59 4 0 1 99 5
+D0
+~
+~
+0 -1 7758
+D1
+~
+~
+0 -1 7763
+S
+#7763
+Base of a Large &wMountain&n~
+&yThe ground suddenly begins to take a steep incline and the &Gtrees&y have given
+way to &wrock&y, meaning that you must have finally reached the base of the great 
+&wmountain&y that was your destination this whole time. The footprints are gone
+now, but there only seems to be one semi-safe passage up, so you shouldn't
+have too much trouble.&n
+~
+59 4 0 1 99 5
+D3
+~
+~
+0 -1 7762
+D4
+A steep climb.
+~
+~
+0 -1 7764
+S
+#7764
+Up the &wMountain&c Path&n~
+&yThe climb is tough, but not overly dangerous yet. The &wrocks&y have been made
+wet by the &Wmist&y, but are not slick. Still one false move can still lead to
+your &Kdeath&y.&n
+~
+59 4 0 1 99 5
+D4
+A steep climb. It could be dangerous!
+~
+~
+0 -1 7765
+D5
+~
+~
+0 -1 7763
+S
+#7765
+Up the &wMountain&c Path&n~
+&yThe climb is becoming more and more steep, and it growing harder to find good
+rock holds to pull yourself up onto. The &Wmist&y itself is becoming a nuisance,
+soaking your clothing and other possessions in an effort to weigh you down
+and making the climb just that much harder. Any slip now means certain &Kdeath&y.&n
+~
+59 4 0 1 99 5
+D4
+The ascent looks a bit easier.
+~
+~
+0 -1 7766
+D5
+~
+~
+0 -1 7764
+S
+#7766
+Up the &wMountain&c Path&n~
+&yThe ascent seems to be a bit easier now as a set path starts to unfold before
+you. The &Wmist&y is still thick, but patchy now, and there are times when you
+can almost see more than ten feet in front of yourself. Nestled into the side of
+the mountain is a small &Kcave&y, but where it goes you can only imagine.&n
+~
+59 4 0 1 99 5
+D1
+~
+~
+0 -1 4701
+D4
+~
+~
+0 -1 7767
+D5
+~
+~
+0 -1 7765
+S
+#7767
+Up the &wMountain&c Path&n~
+&yThe ascent seems to be a bit easier now as a set path starts to unfold before
+you. The &Wmist&y is still thick, but patchy, and there are times when you can 
+almost see more than ten feet in front of yourself.&n
+~
+59 4 0 1 99 5
+D4
+A deep mist lies ahead.
+~
+~
+0 -1 7768
+D5
+~
+~
+0 -1 7766
+S
+#7768
+At the Base of a &yCliff&n~
+&yStumbling over the last few ledges, you finally reach the peak of the &wmountain&y
+only to be greeted by one of the most maginificent sights ever laid eyes on. A
+huge &Wpalace&y lies at the apex of the summit. Huge spires plated in &wsilver&y and
+&Ygold&y jut out from all over the mountaintop, with a complex series of pathways
+connecting each of them. Enormous &Pmosiacs&y and &pfrescos&y decorate the fortresses
+few discernable entryways, while several carved &Kstone gargoyles&y lie at 
+various locations throughout the complex, silently maintaining their vigil. The
+only visible problem with the place is that there is no visible trail to the 
+entrance.&n
+~
+59 4 0 1 99 5
+D0
+Heading up the mountain
+~
+~
+16 -1 20550
+D1
+~
+~
+16 -1 7769
+D5
+A way out of the mist.
+~
+~
+0 -1 7767
+S
+#7769
+&GA Hidden Pathway&n~
+&yJust as you have about given up all hope, you stumble upon a small path that
+seems to lead right up to the fortress &wgates&y. The footing is rather treacherous
+even though you are on level ground now for &Wbirds&y seem to flock to this region
+and the ground is littered with their &Yfeces&y.&n
+~
+59 4 0 1 99 5
+D1
+~
+~
+0 -1 7770
+D3
+~
+~
+0 -1 7768
+S
+#7770
+&GA Hidden Pathway&n~
+&yThe small path that you found continues onward towards the great fortress. The
+cry of thousands of &Wbirds&y that has flocked to this place has become almost 
+deafening, and is sure to raise an alarm in the palace. There may still be time
+though, to reach the &wgates&y before all advantage is lost.&n
+~
+59 0 536870912 1 99 5
+D1
+~
+~
+0 -1 7771
+D3
+~
+~
+0 -1 7769
+S
+#7771
+A Clearing in the &WMist&n~
+&yThe great &Wmist&y that has plagued you this entire journey finally begins to thin
+out near the &wgates&y of the fortress ahead. Now within clear view, the aerie is
+not as magnificent as once thought. The &wsilver&y and &Ygold&y the plate the many
+towers is becoming &Kworn&y and &Ktarnished&y. The colored &Pmosiacs&y and tiles have
+become dull due to the constant pounding of storms, and the &Kgargoyles&y are 
+starting to crumble.&n
+~
+59 0 536870912 1 99 4
+D1
+~
+~
+0 -1 7772
+D3
+~
+~
+0 -1 7770
+S
+#7772
+Before the &wGrand Gates&n~
+&wGrand silver gates &ydoninate the entryway of this giant outer wall. The wall
+itself is formed of &wstone&y, seemingly rising out from the &wmountain&y itself. Two
+huge &Yguard towers&y flank the door, both formed from the same &wstone&y that  
+makes up the wall. As of yet, all seems quiet within the giant structure, but 
+things can change in a hurry.&n
+~
+59 268435460 536870912 1 99 2
+D0
+~
+~
+0 -1 7774
+D1
+~
+grand gate~
+1 0 7773
+D2
+~
+~
+0 -1 7775
+D3
+~
+~
+0 -1 7771
+S
+#7773
+&wLarge Path Inside the Aerie&n~
+&yThe inside of the aerie looks slightly less grand than the outside. Several 
+large buildings are all that makes up the stronghold, not nearly as majestic
+as the structure appeared from a distance. From a large rocky outcropping 
+further to the east can be heard cries from what sounds like a large bird.&n
+~
+59 268435456 536870912 1 99 2
+D1
+~
+~
+0 -1 7776
+D3
+~
+grand gate~
+1 0 7772
+S
+#7774
+&yEntryway Guard Tower&n~
+&ySimple furnishings&K line this primitive, yet cozy stone structure. A &yhuge bed&K,
+maybe thirty feet long rests up against the northern wall, a &ylarge table&K used
+for eating meals lies in the center of the floor, and a &ysmall platform&K lies
+against the western wall next to a &Cwindow&K, probably used to scan the horizons
+for intruders.&n
+~
+59 268435464 536870912 1 99 2
+D2
+~
+~
+0 -1 7772
+S
+#7775
+&yEntryway Guard Tower&n~
+&ySimple furnishings&K line this primitive, yet cozy stone structure. A &yhuge bed&K,
+maybe thirty feet long rests up against the northern wall, a &ylarge table&K used
+for eating meals lies in the center of the floor, and a &ysmall platform&K lies
+against the western wall next to a &Cwindow&K, probably used to scan the horizons
+for intruders.&n
+~
+59 268435464 536870912 1 99 2
+D0
+~
+~
+0 -1 7772
+S
+#7776
+&wLarge Path Inside the Aerie&n~
+&ySpanning nearly ten feet wide, the path before you is more than large enough 
+for even the biggest of giants to tread upon in relative comfort. Several large
+&Kstone gargoyles&y litter the area, giving it a rather eerie feel.&n
+~
+59 268435456 536870912 1 99 2
+D1
+~
+~
+0 -1 7790
+D3
+~
+~
+0 -1 7773
+S
+#7777
+&wClimbing the Side of the Plateau&n~
+&yThe climb is steep, but not dangerous. The cries of large birds grows louder
+with each step that you take towards the top of the plateau. Occasionally a 
+large feather floats down, only to rest near the path that lies below.&n
+~
+59 268435460 536870912 1 99 2
+D4
+you see nothing special.
+~
+~
+0 -1 7779
+D5
+~
+~
+0 -1 7809
+S
+#7778
+A Large Pathway Through the Forest~
+A large mountain looms in the distance as you find a rather large
+and well kept trail. The ground is rather moist here, almost as if
+it had just finished raining. Several large footprints can be found 
+in the mud, made by some huge humanoid creature judging by the shape
+of the indentations. 
+~
+59 12 0 1 99 2
+D4
+~
+~
+0 -1 7779
+D5
+~
+~
+0 -1 7777
+S
+#7779
+&wA Rocky Landing&n~
+&yAs the ground begins flattening out you can begin to make out several &Yhuge
+nests&y nestled on the top of the plateau to the north. Large feathers float
+through the air, and the beating of wings and squaking of birds seems to be
+originating from those nests.&n
+~
+59 268435460 536870912 1 99 2
+D0
+~
+~
+0 -1 7780
+D5
+nothing special.
+~
+~
+0 -1 7777
+S
+#7780
+&wTrail to the Nests&n~
+&yThe incline becomes less and less as you grow ever closer to the nests that 
+lie to the north. Ocassionally you have to sidestep a large pile of &Wdroppings&y,
+some the size of a large dwarf. The shrill cries of the birds in the nests has
+become almost unbearable, and you wonder if you can even get close to the
+nests before becoming deaf.&n
+~
+59 268435460 536870912 1 99 2
+D0
+The cry of birds can be heard.
+~
+~
+0 -1 7781
+D2
+~
+~
+0 -1 7779
+S
+#7781
+&wOn a Large Plateau&n~
+&yThe land has become completely flat. Now at the top you can discern that there
+are five &Yhumongous nests&y planted about the plateau. In each seems to be coming
+the cry of a bird, though you can't see anything for certain from this vantage
+point.&n
+~
+59 268435460 536870912 1 99 2
+D0
+~
+~
+0 -1 7784
+D1
+~
+~
+0 -1 7783
+D2
+~
+~
+0 -1 7780
+D3
+~
+~
+0 -1 7782
+S
+#7782
+&wA Giant Roc's Nest&n~
+&yBits of &Wshell&y and &Yfeather down&y line a nest that spans over thirty feet wide.
+This is the home of the Rocs, great giant birds that the &cstorm&y giants often
+use as mounts when they venture out into the world. From the looks of things,
+a few young have just hatched and are calling out for their mother. The babies,
+are cute, but considering they're the size of an &Kelephant&y and still clumsy,
+it may be a good idea to leave the nest before you get squashed.&n
+~
+59 1342177280 536870912 1 99 2
+D0
+~
+~
+0 -1 7785
+D1
+~
+~
+0 -1 7781
+S
+#7783
+&wA Giant Roc's Nest&n~
+&yBits of &Wshell&y and &Yfeather down&y line a nest that spans over thirty feet wide.
+This is the home of the Rocs, great giant birds that the &cstorm&y giants often
+use as mounts when they venture out into the world. From the looks of things,
+a few young have just hatched and are calling out for their mother. The babies,
+are cute, but considering they're the size of an &Kelephant&y and still clumsy,
+it may be a good idea to leave the nest before you get squashed.&n
+~
+59 1342177280 536870912 1 99 2
+D0
+~
+~
+0 -1 7786
+D3
+~
+~
+0 -1 7781
+S
+#7784
+&wA Giant Roc's Nest&n~
+&yBits of &Wshell&y and &Yfeather down&y line a nest that spans over thirty feet wide.
+This is the home of the Rocs, great giant birds that the &cstorm&y giants often
+use as mounts when they venture out into the world. From the looks of things,
+a few young have just hatched and are calling out for their mother. The babies,
+are cute, but considering they're the size of an &Kelephant&y and still clumsy,
+it may be a good idea to leave the nest before you get squashed.&n
+~
+59 1342177280 536870912 1 99 2
+D0
+~
+~
+0 -1 7787
+D1
+~
+~
+0 -1 7786
+D2
+~
+~
+0 -1 7781
+D3
+~
+~
+0 -1 7785
+S
+#7785
+&wA Path Between the Nests&n~
+&WLarge bones&y and &Pbits of flesh&y from recent kills line the paths between the
+giant Roc nests. Most of the &Wbones&y are from large animals such as cows, horses,
+and even a few you can identify as baby dragons. Closer examination, however,
+reveals several &Yhumanoid&y bones mixed in with the others. It would seem that the
+Rocs aren't picky at all when it comes to what they eat.&n
+~
+59 1342177280 536870912 1 99 2
+D0
+~
+~
+0 -1 7788
+D1
+~
+~
+0 -1 7784
+D2
+~
+~
+0 -1 7782
+S
+#7786
+&wA Path Between the Nests&n~
+&WLarge bones&y and &Pbits of flesh&y from recent kills line the paths between the
+giant Roc nests. Most of the &Wbones&y are from large animals such as cows, horses,
+and even a few you can identify as baby dragons. Closer examination, however,
+reveals several &Yhumanoid&y bones mixed in with the others. It would seem that the
+Rocs aren't picky at all when it comes to what they eat.&n
+~
+59 1342177280 536870912 1 99 2
+D0
+~
+~
+0 -1 7789
+D2
+~
+~
+0 -1 7783
+D3
+~
+~
+0 -1 7784
+S
+#7787
+&wA Path Between the Nests&n~
+&WLarge bones&y and &Pbits of flesh&y from recent kills line the paths between the
+giant Roc nests. Most of the &Wbones&y are from large animals such as cows, horses,
+and even a few you can identify as baby dragons. Closer examination, however,
+reveals several &Yhumanoid&y bones mixed in with the others. It would seem that the
+Rocs aren't picky at all when it comes to what they eat.&n
+~
+59 1342177280 536870912 1 99 2
+D1
+~
+~
+0 -1 7789
+D2
+~
+~
+0 -1 7784
+D3
+~
+~
+0 -1 7788
+S
+#7788
+&wA Giant Roc's Nest&n~
+&yBits of &Wshell&y and &Yfeather down&y line a nest that spans over thirty feet wide.
+This is the home of the Rocs, great giant birds that the &cstorm&y giants often
+use as mounts when they venture out into the world. From the looks of things,
+a few young have just hatched and are calling out for their mother. The babies,
+are cute, but considering they're the size of an &Kelephant&y and still clumsy,
+it may be a good idea to leave the nest before you get squashed.&n
+~
+59 1342177280 536870912 1 99 2
+D1
+~
+~
+0 -1 7787
+D2
+~
+~
+0 -1 7785
+S
+#7789
+&wA Giant Roc's Nest&n~
+&yBits of &Wshell&y and &Yfeather down&y line a nest that spans over thirty feet wide.
+This is the home of the Rocs, great giant birds that the &cstorm&y giants often
+use as mounts when they venture out into the world. From the looks of things,
+a few young have just hatched and are calling out for their mother. The babies,
+are cute, but considering they're the size of an &Kelephant&y and still clumsy,
+it may be a good idea to leave the nest before you get squashed.&n
+~
+59 1342177280 536870912 1 99 2
+D2
+~
+~
+0 -1 7786
+D3
+~
+~
+0 -1 7787
+S
+#7790
+&wA Split in the Path&n~
+&yTwo seperate sidepaths branch off here. The one leading north leads to a &wstone
+structure&y that much resembles a prison, while the one to the south leads to 
+what looks like modest living quarters. To the east, the larger main path
+leads to what must be the &Kparamount manor&y, while west lies back to the &wgrand
+gates&y.&n
+~
+59 268435456 536870912 1 99 2
+D0
+~
+~
+0 -1 7791
+D1
+~
+~
+0 -1 7808
+D2
+~
+~
+0 -1 7800
+D3
+~
+~
+0 -1 7776
+S
+#7791
+&wA Small Sidepath&n~
+&yOnly about half the width of the larger main path, this walkway lacks the 
+&Kstone gargoyles&y that dominate the other. The building ahead seems to be rather
+unkempt compared to the rest of the structures in the aerie, and a foul
+&Gstench&y emanates from it.&n
+~
+59 268435460 536870912 1 99 2
+D0
+A sturdy looking structure lies there.
+~
+door~
+9 0 7793
+D2
+~
+~
+0 -1 7790
+S
+#7792
+A Large Pathway Through the Forest~
+A large mountain looms in the distance as you find a rather large
+and well kept trail. The ground is rather moist here, almost as if
+it had just finished raining. Several large footprints can be found 
+in the mud, made by some huge humanoid creature judging by the shape
+of the indentations. 
+~
+59 12 0 1 99 2
+D0
+~
+~
+0 -1 7793
+D2
+~
+~
+0 -1 7791
+S
+#7793
+&yThe Slave Pens&n~
+&KThe inside of this building is rather disgusting to say the least.  Several
+&wlarge cages&K line the walls, their doors shut but not locked as noone would
+dare try to escape the &cstorm giants&K.  Two guards are posted at the main
+entrance just to make sure.&n
+~
+59 268435468 536870912 1 99 2
+D0
+~
+~
+0 -1 7796
+D1
+A large cage.
+~
+door cage~
+9 0 7795
+D2
+nothing special.
+~
+door~
+9 0 7791
+D3
+A large cage.
+~
+door cage~
+9 0 7794
+S
+#7794
+&yA Large Cage&n~
+&YStraw&K lines the cage, serving as both bed and toilet for the inhabitants.
+Apparently it hasn't been changed for a good while as the smell is nearly
+unbearable.&n
+~
+59 268435464 536870912 1 99 2
+D1
+~
+door cage~
+9 0 7793
+S
+#7795
+&yA Large Cage&n~
+&YStraw&K lines the cage, serving as both bed and toilet for the inhabitants.
+Apparently it hasn't been changed for a good while as the smell is nearly
+unbearable.&n
+~
+59 268435464 536870912 1 99 2
+D3
+~
+door cage~
+1 0 7793
+S
+#7796
+&yThe Slave Pens&n~
+&KA large &ytable&K dominates the center of this room. Otherwise, this area
+is bare save for the cages against the northern, western and eastern walls.&n
+~
+59 268435468 536870912 1 99 2
+D0
+~
+door cage~
+9 0 7799
+D1
+~
+door cage~
+9 0 7798
+D2
+~
+~
+0 -1 7793
+D3
+~
+door cage~
+9 0 7797
+S
+#7797
+&yA Large Cage&n~
+&YStraw&K lines the cage, serving as both bed and toilet for the inhabitants.
+Apparently it hasn't been changed for a good while as the smell is nearly
+unbearable.&n
+~
+59 268435464 536870912 1 99 2
+D1
+~
+door cage~
+9 0 7796
+S
+#7798
+&yA Large Cage&n~
+&YStraw&K lines the cage, serving as both bed and toilet for the inhabitants.
+Apparently it hasn't been changed for a good while as the smell is nearly
+unbearable.&n
+~
+59 268435464 536870912 1 99 2
+D3
+~
+door cage~
+9 0 7796
+S
+#7799
+&yA Large Cage&n~
+&YStraw&K lines the cage, serving as both bed and toilet for the inhabitants.
+Apparently it hasn't been changed for a good while as the smell is nearly
+unbearable.&n
+~
+59 268435464 536870912 1 99 2
+D2
+~
+door cage~
+9 0 7796
+S
+#7800
+&wA Small Sidepath&n~
+&yBeing only about half the width of the larger main path, this walkway lacks
+the &Kstone gargoyles&y that dominated the other. The building ahead looks rather
+modest, not meant for show, and is probably the domicile of the servants.&n
+~
+59 268435460 536870912 1 99 2
+D0
+~
+~
+0 -1 7790
+D2
+~
+~
+0 -1 7801
+S
+#7801
+&wA Small Sidepath&n~
+&yBeing only about half the width of the larger main path, this walkway lacks
+the &Kstone gargoyles&y that dominate the other. A sharp turn to the east leads 
+directly up to the doors of a building.&n
+~
+59 268435460 536870912 1 99 2
+D0
+~
+~
+0 -1 7800
+D1
+~
+~
+0 -1 7802
+S
+#7802
+&wBefore the Servants Quarters&n~
+&yA set of large doors stands before you, leading into the quarters that the
+servants stay in while they are off duty. The building itself is rather non-
+descript, being fashioned from &wstone&y with very little outside detail.&n
+~
+59 268435460 536870912 1 99 2
+D1
+~
+door~
+1 0 7803
+D3
+~
+~
+0 -1 7801
+S
+#7803
+&yServants Quarters&n~
+&KThe view from inside isn't much different from the outside. Several cots line 
+the wall, most of them with small chests holding various personal possessions
+that provide very little interest. A large table decorates the center of the&n 
+&Kroom, serving as a base both for eating and recreation for the buildings inhab-
+itants.&n
+~
+59 268435464 536870912 1 99 2
+D1
+~
+~
+0 -1 7804
+D3
+~
+door~
+1 0 7802
+S
+#7804
+&yServants Quarters&n~
+&KSeveral cots line the wall, most of them with chests holding items that are
+of very little importance. The walls and floor are polished and smooth to the
+touch. This area is very well kept.&n
+~
+59 268435464 536870912 1 99 2
+D2
+~
+~
+0 -1 7805
+D3
+~
+~
+0 -1 7803
+S
+#7805
+&yServants Quarters&n~
+&KSeveral cots line the wall, most of then with chests holding items that are 
+of very little importance. The walls and floor are polished and smooth to the
+touch. This area is very well kept.&n
+~
+59 268435464 536870912 1 99 2
+D0
+~
+~
+0 -1 7804
+D2
+~
+door~
+1 0 7807
+D3
+~
+~
+0 -1 7806
+S
+#7806
+&yServants Quarters&n~
+&KSeveral cots line the wall, most of then with chests holding items that are 
+of very little importance. The walls and floor are polished and smooth to the
+touch. This area is very well kept.&n
+~
+59 268435464 536870912 1 99 2
+D0
+~
+~
+0 -1 7803
+D1
+~
+~
+0 -1 7805
+S
+#7807
+&yHead Servants Quarters&n~
+&KThe furnishings of these quarters are only slightly more extravagant than
+those of the previous quarters.  A large bed sits next to a table used for
+dining, and a small chest at the foot of the bed holds trinkets and baubles
+that hold no significant value.  A large wash basin lies under the bed, and
+judging from its dull appearance, has seen quite a bit of use.  Otherwise, 
+there is nothing else in the room that holds any interest.&n
+~
+59 268435464 536870912 1 99 2
+D0
+~
+door~
+1 0 7805
+S
+#7808
+&wA Large Path Inside the Aerie&n~
+&yThe craggy outcropping looms ever closer as you walk along the path towards 
+the &Kmanor house&y. What once was thought to be one bird creature heard from
+atop the plateau can now be discerned as several great creatures, all begging
+for some attention.&n
+~
+59 268435456 536870912 1 99 2
+D1
+~
+~
+0 -1 7809
+D3
+~
+~
+0 -1 7790
+S
+#7809
+&wBottom of the Craggy Outcropping&n~
+&yJust to the side of the path begins a small plateau, at the top of which can
+be heard the cries of several large birds. Numerous feathers line the ground,
+most of them the size of an average human. Further on to the east lies the 
+&Kmanor house&y.&n
+~
+59 268435460 536870912 1 99 2
+D1
+~
+~
+0 -1 7759
+D3
+~
+~
+0 -1 7808
+D4
+~
+~
+0 -1 7777
+S
+#7810
+&wA Small Path&n~
+&yThis walkway leads to a large &Kguard tower&y to the north.  The main
+path lies to the south.&n
+~
+59 268435460 536870912 1 99 2
+D0
+The base of a rather large tower lies there.
+~
+door~
+9 0 7811
+D2
+A small pathway.
+~
+~
+0 -1 7761
+S
+#7811
+&yInside the Guard Tower&n~
+&wA large &Kfireplace&w dominates the northern wall, spreading warmth to
+the room during &Wwinter&w months and also serving as a place to cook
+food.  A &ytable&w used for dining and card playing sits in the middle
+of the floor, while several &ycots&w used by guards during their off-duty
+hours sit against the other walls.  A large set of &Kstone stairs&w lead
+up to the top of the tower.&n
+~
+59 1342177292 536870912 1 99 2
+D2
+~
+door ~
+9 0 7810
+D4
+Up the tower steps.
+~
+~
+0 -1 7812
+S
+#7812
+&KStairs to the Top of the Tower&n~
+&wIn order to support the tremendous weight of the giants, these steps have been
+chisled from &Kstone&w, and whole &ytree trunks&w have been set up as handrails to
+prevent anyone from falling. &RYou note, however, that the rails are set for
+giant height, and any smaller being must be careful walking near the side
+or risk falling off&w.&n
+~
+59 1342177292 536870912 1 99 2
+D4
+The climb looks rather dangerous.
+~
+~
+0 -1 7813
+D5
+Back on safer ground.
+~
+~
+0 -1 7811
+S
+#7813
+&yTop of a Guard Tower&n~
+&wThe view from this vantage point is splendid to say the least. The thick &Wmist&w
+that surrounds the &ymountain&w ends far enough before the &Kgates&w so that any
+intruders attempting to storm the compound will be seen well before they reach
+their intended target.&n
+~
+59 268435456 536870912 1 99 2
+D3
+You can fly can't you?
+~
+~
+0 -1 7814
+D5
+Heading towards safer ground.
+~
+~
+0 -1 7812
+S
+#7814
+Long Fall Off a Guard Tower~
+You take a good flying leap off the tower and.......
+          F
+           A
+            L
+             L
+                    F
+                     A
+                      L
+                       L
+                              F
+                               A
+                                L
+                                  L
+
+......to the ground and go SPLAT! Sorry, you are now deceased.
+~
+59 14 0 1 99 2
+S
+#7815
+&wA Small Path&n~
+&yThis walkway leads to a large guard tower to the south.
+The main path is off to the north.&n
+~
+59 1342177284 536870912 1 99 2
+D0
+A small pathway.
+~
+~
+0 -1 7761
+D2
+The base of a guard tower.
+~
+door~
+9 0 7816
+S
+#7816
+&yInside the Guard Tower&n~
+&wA large &Kfireplace&w dominates the southern wall, spreading warmth to
+the room during &Wwinter&w months and also serving as a place to cook
+food.  A &ytable&w used for dining and card playing sits in the middle
+of the floor, while several &ycots&w used by guards during their off-duty
+hours sit against the other walls.  A large set of &Kstone stairs&w lead
+up to the top of the tower.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+door~
+9 0 7815
+D4
+An unsafe looking climb.
+~
+~
+0 -1 7817
+S
+#7817
+&KStairs to the Top of the Tower&n~
+&wIn order to support the tremendous weight of the giants, these steps have been
+chisled from &Kstone&w, and whole &ytree trunks&w have been set up as handrails to
+prevent anyone from falling. &RYou note, however, that the rails are set for
+giant height, and any smaller being must be careful walking near the side
+or risk falling off&w.&n
+~
+59 1342177292 536870912 1 99 2
+D4
+The climb isn't getting any safer.
+~
+~
+0 -1 7818
+D5
+Safer ground lies there.
+~
+~
+0 -1 7816
+S
+#7818
+&yTop of a Guard Tower&n~
+&wThe view from this vantage point is rather splendid. The thick &Wmist&w that
+surrounds the &ymountain&w ends far enough before the &Kstronghold gates&w that any
+intruders storming the compound will be seen well before they could make it
+inside.&n
+~
+59 1073741824 536870912 1 99 2
+D3
+You can fly can't you?
+~
+~
+0 -1 7814
+D5
+~
+~
+0 -1 7817
+S
+#7819
+&wStanding Before the &KManor Gates&n~
+&yThe outside of the &Klarge manorhouse&y that predominates the area has been
+ornamented more than the other buildings. Large &cma&Brb&cle &Bpi&cll&Bar&cs&y fill an
+open entryway, the large bronze doors standing wide open. &wSilver trim&y surrounds
+two &Wglass plate windows&y that face the main walkway up to the manor so that
+anyone inside can see approaching visitors or enemies.&n
+~
+59 1342177280 536870912 1 99 2
+D1
+A large hallway.
+~
+doors~
+1 0 7820
+D3
+A pathway.
+~
+~
+0 -1 7761
+S
+#7820
+&yHallway to the Foyer&n~
+&KGiven the opulence of the manor's exterior, the inside is rather spartan.
+Walls and floors remain unadorned, and no furniture at all sits in this
+hallway which leads to the foyer.&n
+~
+59 1342177288 536870912 1 99 2
+D1
+The hallway continues
+~
+~
+0 -1 7821
+D3
+The way out of the stronghold.
+~
+doors~
+1 0 7819
+S
+#7821
+&yHallway to the Foyer&n~
+&KBoth walls and floors remain bare is this simple hallway leading into the 
+foyer. A &yplain wooden bench&K is the only piece of furniture, used by guests 
+of the giants while waiting for a meeting with the &BJotun&K.&n
+~
+59 1342177288 536870912 1 99 2
+D1
+~
+~
+0 -1 7822
+D3
+The way out of the stronghold.
+~
+~
+0 -1 7820
+S
+#7822
+&yHallway to the Foyer&n~
+&KLike the rest of the hall, the floors and walls remain free of decoration. A
+&ysimple wooden stand&K, upon which sits a &Wbook&K used for registry of guests who
+wish an audience with the leader of the &cstorm giants&K, &BJotun&K.&n
+~
+59 1342177288 536870912 1 99 2
+D1
+~
+~
+0 -1 7823
+D3
+~
+~
+0 -1 7821
+E
+book registry~
+There are two names signed on the current page in this book:
+
+Telsek B'rackt -- Diplomat of the city of Brimstone
+Jerial Hollowthorn -- Emmisary of the Elven Nation of Quel'Sith
+~
+E
+book registry~
+&WThere are two names signed on the current page in this book:
+&KTelsek B'rackt -- Diplomat of the city of Brimstone
+&KJerial Hollowthorn -- Emmisary of the Elven Nation of Quel'Sith&n
+~
+S
+#7823
+&yManor Foyer&n~
+&KThe main audience chamber and foyer remain just as spartan as the entry hall.
+Several servants scamper about scrubbing walls and floors, trying to keep
+what little there is in this large room as clean as possible. To the east sits
+a &ylarge throne-like chair&K, around which sits &yseveral smaller chairs&K. That is
+most likely where &BJotun&K hears the declarations of peace and war from various
+nations. Otherwise, the whole audience chamber appears empty.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7824
+D1
+~
+~
+0 -1 7826
+D2
+~
+~
+0 -1 7828
+D3
+~
+~
+0 -1 7822
+S
+#7824
+&yAudience Chamber&n~
+&KHeads of various beasts of the realm have been stuffed and mounted on the walls
+of this large room as a showing of both prestige and as a warning to those who
+would dare cross the giants. &yBearskin rugs&K have been sewn together to form 
+one giant rug that covers the entire floor of the chamber. A huge &rfire &whearth&K
+in the center of the room gives the place a cheerful &Yglow&K, and in the back
+can be seen a &ythrone-like chair&K surrounded by &yseveral smaller seats&K. That is
+where &BJotun&K holds his meetings, with both friend and foe alike.&n
+~
+59 1342177288 536870912 1 99 2
+D1
+~
+~
+0 -1 7825
+D2
+~
+~
+0 -1 7823
+S
+#7825
+&yAudience Chamber&n~
+&KHeads of various beasts of the realm have been stuffed and mounted on the walls
+of this large room as a showing of both prestige and as a warning to those who
+would dare cross the giants. &yBearskin rugs&K have been sewn together to form 
+one giant rug that covers the entire floor of the chamber. A huge &rfire &whearth&K
+in the center of the room gives the place a cheerful &Yglow&K, and in the back
+can be seen a &ythrone-like chair&K surrounded by &yseveral smaller seats&K. That is
+where &BJotun&K holds his meetings, with both friend and foe alike.&n
+~
+59 1342177288 536870912 1 99 2
+D2
+~
+~
+0 -1 7826
+D3
+~
+~
+0 -1 7824
+D4
+~
+~
+0 -1 7844
+S
+#7826
+&yJotun's Meeting Hall&n~
+&ySidetables&K filled with food sit next to &yseveral small seats&K so that those
+granted an audience with the storm giant leader may feel welcome. &BJotun&K 
+himself sits his massive frame on a large throne made of &wstone&K, greeting
+everyone who passes by with a warm smile and fond hello. &pLarge tapestries&K
+behind the throne have been woven as to show the entire history of this land,
+including a rather new drape depicting the current leader lopping the head
+off of a massive dragon.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7825
+D1
+~
+~
+16 -1 7835
+D2
+~
+~
+0 -1 7827
+D3
+~
+~
+0 -1 7823
+E
+tapestries~
+&cEvery once and awhile the tapestries seem to ripple a bit, almost as if blown by an
+mystical wind....&n
+~
+S
+#7827
+&yAudience Chamber&n~
+&KHeads of various beasts of the realm have been stuffed and mounted on the walls
+of this large room as a showing of both prestige and as a warning to those who
+would dare cross the giants. &yBearskin rugs&K have been sewn together to form 
+one giant rug that covers the entire floor of the chamber. A huge &rfire &whearth&K
+in the center of the room gives the place a cheerful &Yglow&K, and in the back
+can be seen a &ythrone-like chair&K surrounded by &yseveral smaller seats&K. That is
+where &BJotun&K holds his meetings, with both friend and foe alike.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7826
+D3
+~
+~
+0 -1 7828
+S
+#7828
+&yAudience Chamber&n~
+&KHeads of various beasts of the realm have been stuffed and mounted on the walls
+of this large room as a showing of both prestige and as a warning to those who
+would dare cross the giants. &yBearskin rugs&K have been sewn together to form
+one giant rug that covers the entire floor of the chamber. A huge &rfire &whearth&K
+in the center of the room gives the place a cheerful &Yglow&K, and in the back 
+can be seen a &ythrone-like chair&K surrounded by several &ysmaller seats&K. That is 
+where &BJotun&K holds his meetings, with friend and foe alike.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7823
+D1
+~
+~
+0 -1 7827
+D2
+~
+~
+0 -1 7829
+S
+#7829
+&yA Small Sideroom&n~
+&yBarrels&K filled with &Ygrains&K and &walcohol&K are stacked on a small flight of stairs
+leading up. A passing guard warns that guests are not allowed up the stairs,
+but gives no reason as to why. The only other exit would be north, into the
+audience chamber.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7828
+D4
+~
+~
+0 -1 7830
+S
+#7830
+&yTop of the Stairs&n~
+&KThe stairs end at a small hallway that leads to the living quarters of the
+storm giant leader, &BJotun&K, and his advisor, &RSkold&K. To the south begins the 
+hallway, while down leads back to a small room.&n
+~
+59 1342177288 536870912 1 99 2
+D2
+~
+~
+0 -1 7831
+D5
+~
+~
+0 -1 7829
+S
+#7831
+&yA Small Hallway&n~
+&KSeveral &wpictures&K of former storm giant leaders cover the walls, some fearsome,
+others looking very benevolent. All of the paintings are well maintained, as
+lineage is very important in giant society. Two &ydoors&K can be made out to the
+south, while back north lies a set of stairs leading down.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7830
+D2
+~
+~
+0 -1 7832
+E
+pictures~
+&cAfter looking over the magnificent paintings for a few moments, you can't help but
+notice that &BJotun&c himself does not have a portrait here..very odd.&n
+~
+S
+#7832
+&yA Small Hallway&n~
+&KTwo &ydoors&K sit opposite each other at the end of the hall.  The door on the left
+has the word '&YRAD&K' engraved into it, while the door on the right bears the
+word '&GFORER&K'.  The hallway to the North leads to a set of stairs leading down.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7831
+D1
+~
+door~
+9 0 7834
+D3
+~
+door~
+9 0 7833
+E
+door east~
+FORER
+~
+E
+left~
+RAD
+~
+E
+right ~
+FORER
+~
+S
+#7833
+&ySkold's Room&n~
+&KStacks of &Wpapers&K showing arrivals and departures of guests, unsigned treaties
+and trade agreements, and various other clan paperwork litter the room. A 
+&ybookshelf&K, upon which is stacked more paperwork than books lies against the 
+northern wall, while a modest &wbed&K sits near the window on the southern wall.
+This is the room of &rSkold&K, &BJotun&K's advisor. He can be found here most hours
+of the day going through his stacks of documents.&n
+~
+59 1342177288 536870912 1 99 2
+D1
+~
+door~
+9 0 7832
+S
+#7834
+Jotun's Bedroom~
+A comfortable bearskin rug covers the floor, ending at a rather modest bed.
+A large table serving as a desk sits near a window, stacks of peace treaties,
+war declarations, trade routes and the like sitting on top of it. A painting
+of a rather large storm giant identified as Hartkiller, Jotun's father, hangs
+near his desk. Otherwise the room is empty.
+~
+59 1342177288 536870912 1 99 2
+D3
+~
+door~
+1 0 7832
+S
+#7835
+&wHallway Leading to the Temple&n~
+&KThis grand hallway leading to the temple is decorated with large &pmurals&K on
+the walls depicting the histories of the &cstorm giants gods&K. Many of them are
+quite life-like and at times it almost seems as if the gods watch you walk 
+down the hall, leaving you feeling uneasy.&n
+~
+59 1342177292 536870912 1 99 2
+D1
+~
+~
+0 -1 7836
+D3
+~
+~
+0 -1 7826
+S
+#7836
+&wHallway Leading to the Temple&n~
+&KThis grand hallway leading to the temple is decorated with large &pmurals&K on
+the walls depicting the histories of the &cstorm giants gods&K. Many of them are
+quite life-like and at times it almost seems as if the gods watch you walk 
+down the hall, leaving you feeling uneasy.&n
+~
+59 1342177288 536870912 1 99 2
+D1
+~
+~
+0 -1 7837
+D3
+~
+~
+0 -1 7835
+S
+#7837
+&wTemple of Iallanis&n~
+&KSeveral large &wstone pillars&K hold up the ceiling of the temple, otherwise
+the holy building seems empty save for a &wlarge statue&K in the back. Several
+priests and priestesses wander around in holy contemplation, seemingly un-
+aware of your presence.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7838
+D1
+~
+~
+0 -1 7840
+D2
+~
+~
+0 -1 7842
+D3
+~
+~
+0 -1 7836
+S
+#7838
+&wTemple of Iallanis&n~
+&KSeveral large &wstone pillars&K hold up the ceiling of the temple, otherwise
+the holy building seems empty save for a &wlarge statue&K in the back. Several
+priests and priestesses wander around in holy contemplation, seemingly un-
+aware of your presence.&n
+~
+59 1342177288 536870912 1 99 2
+D1
+~
+~
+0 -1 7839
+D2
+~
+~
+0 -1 7837
+S
+#7839
+&wTemple of Iallanis&n~
+&KSeveral large &wstone pillars&K hold up the ceiling of the temple, otherwise
+the holy building seems empty save for a &wlarge statue&K in the back. Several
+priests and priestesses wander around in holy contemplation, seemingly un-
+aware of your presence.&n
+~
+59 1342177288 536870912 1 99 2
+D2
+~
+~
+0 -1 7840
+D3
+~
+~
+0 -1 7838
+S
+#7840
+&wTemple of Iallanis&n~
+&KSeveral large &wstone pillars&K hold up the ceiling of the temple, otherwise
+the holy building seems empty save for a &wlarge statue&K in the back. Several
+priests and priestesses wander around in holy contemplation, seemingly un-
+aware of your presence.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7839
+D2
+~
+~
+0 -1 7841
+D3
+~
+~
+0 -1 7837
+S
+#7841
+&wTemple of Iallanis&n~
+&KA &wlarge statue&K of a graceful giantess wearing a dress of flowers sits against
+the wall of the room. Several &Wplates of offerings&K have been placed at the 
+base, but none look of any interest being mainly made of food items. A few of
+the priests are praying here, hoping that one day the great goddess Iallanis
+will reunite all of the giant nations.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7840
+D1
+~
+~
+16 -1 7843
+D3
+~
+~
+0 -1 7842
+E
+statue~
+You feel a breeze coming from being the statue.
+~
+S
+#7842
+&wTemple of Iallanis&n~
+&KSeveral large &wstone pillars&K hold up the ceiling of the temple, otherwise
+the holy building seems empty save for a &wlarge statue&K in the back. Several
+priests and priestesses wander around in holy contemplation, seemingly un-
+aware of your presence.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7837
+D1
+~
+~
+0 -1 7841
+S
+#7843
+&YChambers of the Highpriestess Hild&n~
+&KA &plarge canopy bed&K dominates the room, covered in lush blankets and fluffy down
+pillows. Beautiful colored &Ptapestries&K decorate the othewise bare walls, giving
+this room a pleasant glow. A &wsmall shrine&K dedicated to Iallanis sits in 
+the corner, several &Ycandles&K surrounding it. The highpriestess lives better  
+than most, but is still rather stoic.&n
+~
+59 1342177288 536870912 1 99 2
+D3
+~
+~
+0 -1 7841
+E
+shrine~
+&WDozens of &Ycandles&W surround a small statue of Iallanis, goddess of nature and of 
+the &cstorm giants&W. The shrine is modest and well maintained, as the lady herself
+would like it.&n
+~
+S
+#7844
+&yTop of the Stairs&n~
+&KThe stairs end at a small, rather bare hallway that holds the rooms that guests
+of the giants use while on extended visits.  To the north, at the end of the
+hall, can be seen two &ydoors&K, while the stairs down lead to the audience chamber
+of &BJotun&K.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7845
+D5
+~
+~
+0 -1 7825
+S
+#7845
+&yA Small Hallway&n~
+&KBeing rather nondescript and bare, the hall is kept very clean by the giants
+just for appearance purposes for the guests. To the north can be seen two 
+&ydoors&K, while a set of stairs lies south.&n
+~
+59 1342177288 536870912 1 99 2
+D0
+~
+~
+0 -1 7846
+D2
+~
+~
+0 -1 7844
+S
+#7846
+&yA Small Hallway&n~
+&KThe hallway ends at a set of two "small" &ydoors&K with the designation of '&GGUEST&K' 
+on each. Further on to the south can be seen a set of stairs that lead down
+to the audience chamber of &BJotun&K.&n
+~
+59 1342177288 536870912 1 99 2
+D1
+~
+door~
+9 0 7848
+D2
+~
+~
+0 -1 7845
+D3
+~
+~
+9 -1 7847
+S
+#7847
+&yGuest Room&n~
+&KFurnished to fit the needs of beings smaller than the giants, this room is
+rather extravagant when compared to the rest of the manor. A &ylarge oaken bed&K
+sits next to a matching &ywardrobe&K, while a finely crafted, colorful rug covers
+the entire floor. A &ychest&K used for storing visitor's possessions sits at the
+end of the bed, and judging from its contents, the room is currently being
+used.&n
+~
+59 1342177288 536870912 1 99 2
+D1
+~
+door~
+9 0 7846
+S
+#7848
+&yGuest Room&n~
+&KFurnished to fit the needs of beings smaller than the giants, this room is
+rather extravagant when compared to the rest of the manor. A &ylarge oaken bed&K
+sits next to a matching &ywardrobe&K, while a finely crafted, colorful rug covers
+the entire floor. A &ychest&K used for storing visitor's possessions sits at the
+end of the bed, and judging from its contents, the room is currently being
+used.&n
+~
+59 1342177288 536870912 1 99 2
+D3
+~
+door~
+9 0 7846
+S
+#7849
+Heaven's Gate~
+A golden gate encompasses the heavens, allowing beings of divine nature to
+cross into the mortal world. 
+~
+59 1342242828 268435456 1 99 0
+S
+$~
+#999999

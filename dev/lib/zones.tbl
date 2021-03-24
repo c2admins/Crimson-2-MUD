@@ -91,6 +91,7 @@ Coliseum 9050 9099 ~
 Quest2 9100 9199 ~
 CastleFagus 9200 9299 ~
 Darkling 9300 9399 ~
+BrimRoads 9400 9449 Nightwynde ~
 UnusedZone21 9400 9474 ~
 PalaceofElements 9475 9519 ~
 UnusedZone22 9520 12399 ~
@@ -166,15 +167,19 @@ Tuscany2 21200 21299 ~
 Tuscany3 21300 21399 ~
 Moria56 21400 21429 ~
 UnusedZone42 21430 21724 ~
-UnusedZone43 21725 21974 ~
+UnusedZone43 21725 21824 ~
+BrimstoneCity 21825 21974 Nightwynde ~
 Ocean2 21975 22974 ~
-UnusedZone44 22975 23799 ~
+BrimstoneCastle 22975 23199 Nightwynde ~
+UnusedZone44 23200 23799 ~
 HelmsDeep 23800 23899 ~
 UnusedZone45 23900 24099 ~
 starwarsownuall 24100 24149 ~
 UnusedZone46 24150 24379 ~
 Magetower 24380 24479 ~
 winterwonderland 24480 24529 ~
-UnusedZone47 24530 32766 ~
+UnusedZone47 24530 24899 ~
+FinalFantasy6 24900 25199 ramza ~
+UnusedZone48 25200 32766 ~
 End 32767 32767 ~
 $~

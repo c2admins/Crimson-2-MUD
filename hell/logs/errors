@@ -1,0 +1,333 @@
+Wed Jun  2 10:20:03 2010 :: WARNING: co3500 UNDEFINED in DESC, not in CHAR list - Not clearing.
+Wed Jun  2 10:21:03 2010 :: WARNING: co3500 UNDEFINED in DESC, not in CHAR list - Not clearing.
+Wed Jun  2 10:22:03 2010 :: WARNING: co3500 UNDEFINED in DESC, not in CHAR list - Not clearing.
+Wed Jun  2 10:23:03 2010 :: WARNING: co3500 UNDEFINED in DESC, not in CHAR list - Not clearing.
+Wed Jun  2 10:24:03 2010 :: WARNING: co3500 UNDEFINED in DESC, not in CHAR list - Not clearing.
+Wed Jun  2 22:10:00 2010 :: Room 129 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:10:00 2010 :: Room 227 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:10:00 2010 :: Room 228 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:10:00 2010 :: Room 233 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:10:00 2010 :: Room 2699 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:10:01 2010 :: Room 19258 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:10:01 2010 :: Room 20602 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:10:02 2010 :: ERROR: Link to negative room in 5476
+
+Wed Jun  2 22:10:02 2010 :: ERROR: Link to negative room in 5482
+
+Wed Jun  2 22:10:02 2010 :: ERROR: Link to negative room in 5482
+
+Wed Jun  2 22:10:02 2010 :: ERROR: Link to negative room in 5483
+
+Wed Jun  2 22:10:02 2010 :: ERROR: Link to negative room in 5483
+
+Wed Jun  2 22:10:02 2010 :: ERROR: Link to negative room in 5487
+
+Wed Jun  2 22:10:02 2010 :: ERROR: Link to negative room in 5487
+
+Wed Jun  2 22:10:02 2010 :: ERROR: Link to negative room in 5489
+
+Wed Jun  2 22:10:02 2010 :: ERROR: Link to negative room in 5489
+
+Wed Jun  2 22:10:02 2010 :: ERROR: getting link to room, returned negative room in 17005
+
+Wed Jun  2 22:14:04 2010 :: WARNING: db8800 object 4955 has repop chance of 32767%
+Wed Jun  2 22:17:04 2010 :: WARNING: db8800 object 8662 has repop chance of 32767%
+Wed Jun  2 22:17:04 2010 :: WARNING: db8800 object 12639 has repop chance of 32767%
+Wed Jun  2 22:21:04 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=DevilsDomain.
+
+Wed Jun  2 22:35:06 2010 :: Room 129 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:35:06 2010 :: Room 227 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:35:06 2010 :: Room 228 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:35:06 2010 :: Room 233 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:35:06 2010 :: Room 2699 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:35:06 2010 :: Room 19258 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:35:06 2010 :: Room 20602 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 22:35:06 2010 :: ERROR: Link to negative room in 5476
+
+Wed Jun  2 22:35:06 2010 :: ERROR: Link to negative room in 5482
+
+Wed Jun  2 22:35:06 2010 :: ERROR: Link to negative room in 5482
+
+Wed Jun  2 22:35:06 2010 :: ERROR: Link to negative room in 5483
+
+Wed Jun  2 22:35:06 2010 :: ERROR: Link to negative room in 5483
+
+Wed Jun  2 22:35:06 2010 :: ERROR: Link to negative room in 5487
+
+Wed Jun  2 22:35:06 2010 :: ERROR: Link to negative room in 5487
+
+Wed Jun  2 22:35:06 2010 :: ERROR: Link to negative room in 5489
+
+Wed Jun  2 22:35:06 2010 :: ERROR: Link to negative room in 5489
+
+Wed Jun  2 22:35:06 2010 :: ERROR: getting link to room, returned negative room in 17005
+
+Wed Jun  2 22:39:07 2010 :: WARNING: db8800 object 4955 has repop chance of 32767%
+Wed Jun  2 22:40:07 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=EgyptianGods.
+
+Wed Jun  2 22:42:07 2010 :: WARNING: db8800 object 8662 has repop chance of 32767%
+Wed Jun  2 22:42:07 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=Coliseum.
+
+Wed Jun  2 22:42:07 2010 :: WARNING: db8800 object 12639 has repop chance of 32767%
+Wed Jun  2 22:46:07 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=DevilsDomain.
+
+Wed Jun  2 22:46:07 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=TheMasquerade2.
+
+Wed Jun  2 23:19:20 2010 :: Room 129 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 23:19:21 2010 :: Room 227 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 23:19:21 2010 :: Room 228 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 23:19:21 2010 :: Room 233 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 23:19:21 2010 :: Room 2699 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 23:19:21 2010 :: Room 19258 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 23:19:21 2010 :: Room 20602 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  2 23:19:22 2010 :: ERROR: Link to negative room in 5476
+
+Wed Jun  2 23:19:22 2010 :: ERROR: Link to negative room in 5482
+
+Wed Jun  2 23:19:22 2010 :: ERROR: Link to negative room in 5482
+
+Wed Jun  2 23:19:22 2010 :: ERROR: Link to negative room in 5483
+
+Wed Jun  2 23:19:22 2010 :: ERROR: Link to negative room in 5483
+
+Wed Jun  2 23:19:22 2010 :: ERROR: Link to negative room in 5487
+
+Wed Jun  2 23:19:22 2010 :: ERROR: Link to negative room in 5487
+
+Wed Jun  2 23:19:22 2010 :: ERROR: Link to negative room in 5489
+
+Wed Jun  2 23:19:22 2010 :: ERROR: Link to negative room in 5489
+
+Wed Jun  2 23:19:22 2010 :: ERROR: getting link to room, returned negative room in 17005
+
+Wed Jun  2 23:23:24 2010 :: WARNING: db8800 object 4955 has repop chance of 32767%
+Wed Jun  2 23:24:24 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=Arachnos.
+
+Wed Jun  2 23:26:24 2010 :: WARNING: db8800 object 8662 has repop chance of 32767%
+Wed Jun  2 23:26:24 2010 :: WARNING: db8800 object 12639 has repop chance of 32767%
+Wed Jun  2 23:29:25 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=DrowGods.
+
+Wed Jun  2 23:29:25 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=DrowGods.
+
+Wed Jun  2 23:29:25 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=DrowGods.
+
+Wed Jun  2 23:30:25 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=DevilsDomain.
+
+Thu Jun  3 01:28:27 2010 :: Room 129 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:28:27 2010 :: Room 227 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:28:27 2010 :: Room 228 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:28:27 2010 :: Room 233 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:28:27 2010 :: Room 2699 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:28:27 2010 :: Room 19258 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:28:27 2010 :: Room 20602 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:28:28 2010 :: ERROR: Link to negative room in 5476
+
+Thu Jun  3 01:28:28 2010 :: ERROR: Link to negative room in 5482
+
+Thu Jun  3 01:28:28 2010 :: ERROR: Link to negative room in 5482
+
+Thu Jun  3 01:28:28 2010 :: ERROR: Link to negative room in 5483
+
+Thu Jun  3 01:28:28 2010 :: ERROR: Link to negative room in 5483
+
+Thu Jun  3 01:28:28 2010 :: ERROR: Link to negative room in 5487
+
+Thu Jun  3 01:28:28 2010 :: ERROR: Link to negative room in 5487
+
+Thu Jun  3 01:28:28 2010 :: ERROR: Link to negative room in 5489
+
+Thu Jun  3 01:28:28 2010 :: ERROR: Link to negative room in 5489
+
+Thu Jun  3 01:28:28 2010 :: ERROR: getting link to room, returned negative room in 17005
+
+Thu Jun  3 01:32:29 2010 :: WARNING: db8800 object 4955 has repop chance of 32767%
+Thu Jun  3 01:35:29 2010 :: WARNING: db8800 object 8662 has repop chance of 32767%
+Thu Jun  3 01:35:29 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=Coliseum.
+
+Thu Jun  3 01:35:29 2010 :: WARNING: db8800 object 12639 has repop chance of 32767%
+Thu Jun  3 01:37:29 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=ElfinCitadel.
+
+Thu Jun  3 01:39:29 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=DevilsDomain.
+
+Thu Jun  3 01:58:41 2010 :: Room 129 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:58:41 2010 :: Room 227 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:58:41 2010 :: Room 228 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:58:41 2010 :: Room 233 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:58:41 2010 :: Room 2699 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:58:41 2010 :: Room 19258 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:58:41 2010 :: Room 20602 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Thu Jun  3 01:58:41 2010 :: ERROR: Link to negative room in 5476
+
+Thu Jun  3 01:58:41 2010 :: ERROR: Link to negative room in 5482
+
+Thu Jun  3 01:58:41 2010 :: ERROR: Link to negative room in 5482
+
+Thu Jun  3 01:58:41 2010 :: ERROR: Link to negative room in 5483
+
+Thu Jun  3 01:58:41 2010 :: ERROR: Link to negative room in 5483
+
+Thu Jun  3 01:58:41 2010 :: ERROR: Link to negative room in 5487
+
+Thu Jun  3 01:58:41 2010 :: ERROR: Link to negative room in 5487
+
+Thu Jun  3 01:58:41 2010 :: ERROR: Link to negative room in 5489
+
+Thu Jun  3 01:58:41 2010 :: ERROR: Link to negative room in 5489
+
+Thu Jun  3 01:58:41 2010 :: ERROR: getting link to room, returned negative room in 17005
+
+Thu Jun  3 02:00:42 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=Draconia.
+
+Thu Jun  3 02:00:42 2010 :: WARNING: co3500 Oldschool in DESC, not in CHAR list
+Thu Jun  3 02:02:42 2010 :: WARNING: db8800 object 4955 has repop chance of 32767%
+Thu Jun  3 02:05:42 2010 :: WARNING: db8800 object 8662 has repop chance of 32767%
+Thu Jun  3 02:05:42 2010 :: WARNING: db8800 object 12639 has repop chance of 32767%
+Thu Jun  3 02:09:42 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=DevilsDomain.
+
+Thu Jun  3 19:00:35 2010 :: ERROR: Got a zerolength message string. gv_str=*r24480    Pythias zset
+Thu Jun  3 19:00:35 2010 :: *r24480    Pythias zset
+Fri Jun  4 20:55:06 2010 :: Room 129 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Fri Jun  4 20:55:06 2010 :: Room 227 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Fri Jun  4 20:55:06 2010 :: Room 228 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Fri Jun  4 20:55:06 2010 :: Room 233 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Fri Jun  4 20:55:06 2010 :: Room 2699 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Fri Jun  4 20:55:06 2010 :: Room 19258 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Fri Jun  4 20:55:06 2010 :: Room 20602 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Fri Jun  4 20:55:07 2010 :: ERROR: Link to negative room in 5476
+
+Fri Jun  4 20:55:07 2010 :: ERROR: Link to negative room in 5482
+
+Fri Jun  4 20:55:07 2010 :: ERROR: Link to negative room in 5482
+
+Fri Jun  4 20:55:07 2010 :: ERROR: Link to negative room in 5483
+
+Fri Jun  4 20:55:07 2010 :: ERROR: Link to negative room in 5483
+
+Fri Jun  4 20:55:07 2010 :: ERROR: Link to negative room in 5487
+
+Fri Jun  4 20:55:07 2010 :: ERROR: Link to negative room in 5487
+
+Fri Jun  4 20:55:07 2010 :: ERROR: Link to negative room in 5489
+
+Fri Jun  4 20:55:07 2010 :: ERROR: Link to negative room in 5489
+
+Fri Jun  4 20:55:07 2010 :: ERROR: getting link to room, returned negative room in 17005
+
+Fri Jun  4 20:59:08 2010 :: WARNING: db8800 object 4955 has repop chance of 32767%
+Fri Jun  4 21:02:08 2010 :: WARNING: db8800 object 8662 has repop chance of 32767%
+Fri Jun  4 21:02:08 2010 :: WARNING: db8800 object 12639 has repop chance of 32767%
+Fri Jun  4 21:04:08 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=ElfinCitadel.
+
+Fri Jun  4 21:06:08 2010 :: ERROR: in db5600_reset_zone.  LOC=LOC017 Location already equipped.  FILE=DevilsDomain.
+
+Tue Jun  8 15:39:22 2010 :: Room 129 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Tue Jun  8 15:39:22 2010 :: Room 227 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Tue Jun  8 15:39:22 2010 :: Room 228 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Tue Jun  8 15:39:22 2010 :: Room 233 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Tue Jun  8 15:39:23 2010 :: Room 2699 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Tue Jun  8 15:39:23 2010 :: Room 19258 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Tue Jun  8 15:39:23 2010 :: Room 20602 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Tue Jun  8 15:39:24 2010 :: ERROR: Link to negative room in 5476
+
+Tue Jun  8 15:39:24 2010 :: ERROR: Link to negative room in 5482
+
+Tue Jun  8 15:39:24 2010 :: ERROR: Link to negative room in 5482
+
+Tue Jun  8 15:39:24 2010 :: ERROR: Link to negative room in 5483
+
+Tue Jun  8 15:39:24 2010 :: ERROR: Link to negative room in 5483
+
+Tue Jun  8 15:39:24 2010 :: ERROR: Link to negative room in 5487
+
+Tue Jun  8 15:39:24 2010 :: ERROR: Link to negative room in 5487
+
+Tue Jun  8 15:39:24 2010 :: ERROR: Link to negative room in 5489
+
+Tue Jun  8 15:39:24 2010 :: ERROR: Link to negative room in 5489
+
+Tue Jun  8 15:39:24 2010 :: ERROR: getting link to room, returned negative room in 17005
+
+Wed Jun  9 22:58:49 2010 :: Room 129 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  9 22:58:49 2010 :: Room 227 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  9 22:58:49 2010 :: Room 228 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  9 22:58:49 2010 :: Room 233 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  9 22:58:49 2010 :: Room 2699 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  9 22:58:49 2010 :: Room 19258 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  9 22:58:49 2010 :: Room 20602 has bit 15 set, changed it to EX_CLIMB_ONLY
+
+Wed Jun  9 22:58:51 2010 :: ERROR: Link to negative room in 5476
+
+Wed Jun  9 22:58:51 2010 :: ERROR: Link to negative room in 5482
+
+Wed Jun  9 22:58:51 2010 :: ERROR: Link to negative room in 5482
+
+Wed Jun  9 22:58:51 2010 :: ERROR: Link to negative room in 5483
+
+Wed Jun  9 22:58:51 2010 :: ERROR: Link to negative room in 5483
+
+Wed Jun  9 22:58:51 2010 :: ERROR: Link to negative room in 5487
+
+Wed Jun  9 22:58:51 2010 :: ERROR: Link to negative room in 5487
+
+Wed Jun  9 22:58:51 2010 :: ERROR: Link to negative room in 5489
+
+Wed Jun  9 22:58:51 2010 :: ERROR: Link to negative room in 5489
+
+Wed Jun  9 22:58:51 2010 :: ERROR: getting link to room, returned negative room in 17005
+
+Wed Jun  9 23:02:51 2010 :: WARNING: db8800 object 4955 has repop chance of 32767%

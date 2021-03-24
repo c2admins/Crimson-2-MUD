@@ -1,0 +1,239 @@
+#4600
+obj a black anvil~
+100
+A large black anvil~
+A large black anvil sits here.~
+~
+12 0 0 0
+0 0 0 0
+500000 5 5
+#4601
+obj quest2 harvester sorrow~
+1
+&RA &rH&Rar&rves&Rter &rof &RSor&rro&Rw&n~
+Someone has dropped a bleeding harvester here.~
+~
+5 134479872 2048 24577
+3160 10 15 11
+1 5 5
+A
+41 10
+A
+40 10
+A
+18 5
+#4602
+obj scroll breathwater~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#4603
+obj wings grig~
+30
+&bA &Bpa&bir &Bof &bgr&Wig &Bwin&bgs&n~
+Someone has dropped a small set of wings here.~
+~
+9 524288 0 1025
+5 0 0 0
+1 5 5
+A
+18 1
+A
+19 1
+A
+2 2
+#4604
+obj braided twine belt~
+30
+&bA br&Baid&Wed&b twi&Bne &Wbel&bt&n~
+Someone has dropped a braided belt here.~
+~
+9 524288 0 2049
+0 0 0 0
+1 5 5
+A
+18 1
+A
+19 1
+A
+5 2
+#4605
+obj grig stinger~
+5
+&BA gr&Wigs &bstin&Bger&n~
+Someone has dropped a small stinger here.~
+~
+5 0 0 8193
+16777216 5 3 11
+1 5 5
+A
+18 2
+#4606
+obj falinix breast plate~
+10
+&GFal&ginix&W's &gBrea&gst&Wpla&Gte&n~
+Someone has dropped a strange breast plate here.~
+~
+9 0 8 9
+8 0 0 0
+1 5 5
+A
+18 1
+A
+19 2
+A
+5 2
+#4607
+obj grig falinix longsword~
+25
+&GFali&gnix&W's L&gong&Gsword&n~
+Someone has dropped a brutal longsword here.~
+~
+5 0 8 8193
+16777216 18 1 3
+1 5 5
+#4608
+obj sea sorrow imm~
+0
+&rS&Re&ra of &RSo&rrr&Row&n~
+This shouldn't be here.  Please junk immediately.~
+~
+9 0 64 557
+400 0 0 0
+1 5 5
+A
+41 2
+A
+19 60
+A
+18 34
+A
+25 1
+#4609
+obj grig healing ring~
+15
+A ring of healing~
+A small ring lays discarded.~
+~
+9 0 8 3
+0 0 0 0
+1 5 5
+A
+18 2
+#4610
+obj grig grigonian hammer~
+5
+The Grigonian Hammer~
+The mighty grigonian hammer has been dropped here.~
+~
+5 1048576 0 8193
+1048576 8 3 7
+1 5 5
+#4611
+obj grig mage cloak~
+8
+A mage's cloak~
+Someone has left a mage's cloak here.~
+~
+9 57344 12296 5
+0 0 0 0
+1 5 5
+A
+19 2
+A
+18 1
+A
+13 -15
+#4612
+obj talking shield~
+1
+&yAn &wold &ywhining &wshield&n~
+Someone has left a talking shield laying here.~
+~
+9 4197012 0 513
+0 0 0 0
+1 5 5
+A
+19 2
+A
+40 2
+A
+13 -25
+A
+12 -25
+#4613
+obj bracer wyvern~
+1
+&yA &wbracer &yof &wthe &yWyvern&n~
+Someone has dropped a strange bracer here.~
+~
+9 4197012 0 4097
+0 0 0 0
+1 5 5
+A
+40 2
+A
+19 1
+A
+18 1
+A
+17 20
+#4614
+obj grig shield~
+10
+&bG&Br&Wi&bg&E &BS&Wh&be&Bl&Wd&E~
+Someone has dropped a wall shield here.~
+~
+9 524288 0 513
+15 0 0 0
+1 5 5
+A
+19 1
+A
+18 1
+A
+14 -10
+#4615
+obj Grig Mother Cloak~
+15
+&bG&Br&Wi&bg&E &BM&Wo&bt&Bh&We&br&Bs&E &WC&bl&Bo&Wa&bk&E~
+&bG&Br&Wi&bg&E &BM&Wo&bt&Bh&We&br&Bs&E &WC&bl&Bo&Wa&bk&E lies here.~
+~
+9 524288 0 5
+5 0 0 0
+1 5 5
+E
+&BM&Wo&bt&Bh&We&br&Bs&E &WC&bl&Bo&Wa&bk~
+~
+A
+19 1
+A
+18 1
+#4616
+obj Grig Slippers~
+10
+&bG&Br&Wi&bg&E &BS&Wp&ba&Bw&Wn&bl&Bi&Wn&bg&E &BS&Wl&bi&Bp&Wp&be&Br&Ws&E~
+A Pair of &bG&Br&Wi&bg&E &BS&Wp&ba&Bw&Wn&bl&Bi&Wn&bg&E &BS&Wl&bi&Bp&Wp&be&Br&Ws&E.~
+~
+9 0 0 65
+5 0 0 0
+1 5 5
+A
+18 1
+#4617
+obj Grig Bracelet~
+25
+&BG&Wr&bi&Bg&E &WB&br&Ba&Wc&be&Bl&We&bt&E~
+Here lies a &BG&Wr&bi&Bg&E &WB&br&Ba&Wc&be&Bl&We&bt&E.~
+~
+9 0 0 4097
+0 0 0 0
+1 5 5
+A
+19 1
+$~
+#999999

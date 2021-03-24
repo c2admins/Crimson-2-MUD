@@ -1,0 +1,22 @@
+#21450
+mob Bloodthirsty Vulture~
+A Bloodthirsty Vulture~
+Bloodthirsty Vulture
+~
+A large black bird waiting to pick the skin off your bones.
+~
+16777292 1 136249361 16416 0 S
+20 15 40 1d1+1 20d10+-56
+1 0
+8 8 0
+0 0 17 15 14 16 14 13
+ATTACK_SKILL=20
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_SKILL=60
+ATTACK_TYPE=105
+$~
+#999999

@@ -1,0 +1,55 @@
+#14900
+obj leather boots~
+80
+&ya pair of leather boots&n~
+A pair of leather boots are lying here.~
+~
+9 0 0 65
+1 0 0 0
+2 60 15
+#14901
+obj broadsword broad sword~
+20
+&wa broad&Ksword&n~
+a broadsword is lying here.~
+~
+5 0 0 8193
+0 1 12 3
+3 10000 1000
+#14902
+obj a leather jerkin~
+10
+&ya leather jerkin&n~
+a leather jerkin is lying here.~
+~
+9 0 0 9
+3 0 0 0
+3 6000 1200
+A
+19 1
+#14903
+obj holy symbol war~
+10
+&wa &WHoly Symbol &wof &rW&Ra&rr&n~
+A large red symbol that glows is lying here.~
+~
+9 1048576 0 16389
+8 0 0 0
+2 84000 15000
+A
+19 2
+A
+13 10
+#14904
+obj staff war~
+10
+&wa &yStaff &wof &rW&Ra&rr&n~
+A large glowing red staff is lying here.~
+~
+5 524288 0 8193
+0 4 5 6
+10 24000 6000
+A
+18 2
+$~
+#999999

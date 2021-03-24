@@ -1,0 +1,47 @@
+#7000
+obj waybread food~
+100
+a waybread~
+Some waybread has been put here.~
+~
+19 0 0 1
+24 0 0 0
+1 50 50
+E
+waybread~
+The waybread is the traditional feed of elves when travelling, they call it
+lembas.  It is said to refresh the weary traveler greatly.
+~
+#7001
+obj claw shadowclaw~
+60
+a shadowclaw~
+A black claw is lying here on the ground.~
+~
+5 524356 0 8193
+1 3 5 11
+1 12000 3000
+A
+19 1
+#7002
+obj carcass dead rat~
+100
+a dead rat~
+The cold corpse of a small rat is lying here.~
+~
+12 0 0 16385
+0 0 10 0
+1 12000 3000
+A
+27 1
+#7003
+obj carcass dead rat~
+100
+a dead rat~
+The warm corpse of a dead rat is lying here.~
+~
+12 0 0 16385
+0 0 10 0
+1 5 5
+$~
+#999999

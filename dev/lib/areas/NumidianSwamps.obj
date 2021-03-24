@@ -1,0 +1,68 @@
+#2300
+obj claw numidian~
+15
+&wa sharp &yan&Kima&yl's &Kclaw&n~
+Some animal has left a claw on the ground here.~
+~
+5 1048576 0 8193
+0 5 5 3
+8 1400 350
+A
+19 2
+#2301
+obj stinger plant numidian~
+10
+&wa sharp &Kstinger&n~
+A very sharp looking stinger is on the ground here.~
+~
+5 1048576 0 8193
+1 4 4 11
+5 7000 1650
+A
+19 2
+A
+18 1
+#2302
+obj club wood numidian~
+30
+&ya wodden club&n~
+A long piece of wood is lying here.~
+~
+5 524288 0 8193
+0 4 4 5
+14 800 200
+#2303
+obj facemask mask numidian~
+25
+&wa &Kmetal &Wfacemask&n~
+A horrific looking metal facemask is lying here.~
+~
+9 1114112 0 17
+10 0 0 0
+6 10000 2500
+A
+4 2
+A
+6 -2
+#2304
+obj robe ragged nimudian~
+40
+&wa long &yragged robe&n~
+A long ragged robe is lying here in a heap.~
+~
+9 1048576 0 1029
+12 0 10 0
+12 28000 7000
+A
+12 30
+#2305
+obj club wood giant numidian~
+25
+&ya huge wooden club&n~
+A huge piece of wood is on the ground here.~
+~
+5 34078720 0 8193
+0 4 6 5
+18 100 25
+$~
+#999999

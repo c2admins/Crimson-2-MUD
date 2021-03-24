@@ -1,0 +1,159 @@
+#7100
+obj holy key~
+100
+&WA Holy Key&n~
+&WA holy key is on the ground here.&n~
+~
+18 262144 0 2049
+0 1 0 0
+1 5 5
+A
+18 -1
+#7101
+obj mark gutin~
+1
+&KThe &rM&Rar&rk &Kof &rG&Ruti&rn&n~
+&rThe mark of a powerful man is lying in the dust.&n~
+~
+11 104860672 0 5
+0 0 0 0
+1 5 5
+A
+19 4
+A
+18 1
+A
+17 20
+A
+13 10
+#7102
+obj sandles salvation~
+1
+&YS&yandal&Ys &Wof &yS&Yalvatio&yn&n~
+&YA set of sandals made of gold have been dropped here.&n~
+~
+9 239078400 4 65
+10 0 0 0
+1 5 5
+A
+25 1
+A
+14 -10
+A
+19 1
+A
+18 1
+#7103
+obj key kaczy~
+100
+&GThe Key of Kaczy&n~
+&gAn oddly shaped key is on the ground here.&n~
+~
+18 0 0 1
+0 0 0 0
+1 5 5
+#7104
+obj cloak mark salvation~
+1
+&RC&rloa&Rk &Kwith the &cM&Car&ck &Kof &YSa&ylvati&Yon&g~
+a cloak is lying here, with a strange mark on it.~
+~
+11 104860672 0 1025
+0 0 0 0
+1 5 5
+A
+18 2
+A
+19 3
+A
+40 1
+A
+13 20
+#7105
+obj cardinal staff~
+3
+&yA Staff of &RCardinals&n~
+&WA strong looking staff lies on the ground.&n~
+~
+11 4197376 0 16385
+0 0 0 0
+1 5 5
+A
+19 5
+A
+18 3
+A
+17 -10
+A
+13 -20
+#7106
+obj key gutin~
+100
+&RThe Key of Gutin&n~
+&RA key with a strange mark sits here.&n~
+~
+18 0 0 1
+0 0 0 0
+1 5 5
+#7107
+obj mask holy~
+2
+&WM&was&Wk &wof &Wthe &wH&Wol&wy&n~
+&WA holy mask has been dropped here.&n~
+~
+9 71306240 0 17
+25 0 0 0
+1 5 5
+A
+18 2
+A
+19 3
+A
+13 -10
+A
+14 -5
+#7108
+obj chapel key~
+100
+&wThe Key to the Chapel&n~
+&wSomeone left the chapel key here&n~
+~
+18 262144 0 1
+0 0 0 0
+1 5 5
+#7109
+obj brown bear~
+3
+&yDawn's stuffed brown bear&n~
+&yA cute stuffed bear is sitting on the ground.&n~
+~
+11 4197376 4 16385
+0 0 0 0
+1 5 5
+A
+19 3
+A
+17 -10
+A
+18 4
+A
+12 20
+#7110
+obj holy legplates~
+1
+&WH&Col&Wy &CL&Weg&wpla&Wte&Cs&n~
+A pair of holy legplates are sitting here.~
+~
+11 104860672 0 33
+0 0 0 0
+1 5 5
+A
+19 3
+A
+18 3
+A
+13 10
+A
+17 20
+$~
+#999999

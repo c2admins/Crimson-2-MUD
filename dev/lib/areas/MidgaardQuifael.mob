@@ -1,0 +1,45 @@
+#6900
+mob bug~
+the computer bug~
+A little, hairy computer bug is here, trying to mess things up.
+~
+It is one of those irritating little creatures that like to infect innocent
+and defenceless programs, trying to make them act weird.  Programmers spend
+countless hours trying to eliminate them, but they are indeed very hardy.
+DikuMUD is known to be one of their favourite habitats.
+~
+72 1 136249361 0 -50 S
+1 35 39 1d10+10 1d2+0
+0 20
+8 8 0
+0 0 12 12 10 9 9 10
+#6910
+mob isha elf~
+Isha the Dark Elf~
+Isha the Dark Elf is here, observing you silently.
+~
+She is no less than beautiful, skin as dark as the night and hair shining like
+silver in the moonlight.  Her slender body is adorned with a sleeveless shirt
+and a short skirt made from black scales joined with silver threads.  Her back
+is covered by a large, hooded cloak as black as her skin and in her broad
+silver belt hangs a long, slender sword in a silver scabbard.
+~
+262152 1 136249361 524296 -1000 S
+20 20 24 48d19+1000 4d7+15
+5000 57425
+8 8 2
+0 0 17 16 14 14 12 11
+#6999
+mob sammael incarnation death~
+&WS&wammae&Wl&K, an Incarnation of Death&n~
+&KAn incarnation of Death is observing you silently from empty eye sockets.&n
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+1074003978 1 136249361 524424 -1000 S
+43 1 -28 100d99+7000 100d5+100
+1500000 685000
+8 8 0
+0 0 19 17 18 17 16 17
+$~
+#999999

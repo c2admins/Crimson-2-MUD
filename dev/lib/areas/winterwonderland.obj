@@ -1,0 +1,274 @@
+#24480
+obj Santa sleigh whip obj christmas~
+8
+&RS&Wa&Rn&Wt&Ra&W'&Rs &wsleigh &ywhip&n~
+&wA whip is coiled up on the ground.&n~
+~
+5 4457472 2048 24577
+18414616 25 25 11
+1 1000000000 5
+A
+19 4
+A
+18 4
+A
+40 10
+A
+41 10
+#24481
+obj Grinch whip gloam christmas obj~
+8
+&WThe &GG&Rr&Gi&Rn&Gc&Rh&G'&Rs &ywhip &wof &Kgloam&n~
+A green and red whip is coiled on the ground.~
+~
+5 4456448 2048 24577
+8977496 25 25 11
+1 1000000000 5
+A
+19 4
+A
+18 4
+A
+40 10
+A
+41 10
+#24482
+obj black leather boots christmas obj~
+15
+&KBlack &wLeather &wBoots&n~
+&wA pair of black leather boots have been left here.&n~
+~
+9 4456448 0 65
+50 0 0 0
+1 1000000000 5
+A
+19 3
+A
+18 1
+A
+40 4
+A
+41 4
+#24483
+obj santa suit christmas obj~
+15
+&RS&Wa&Rn&Wt&Ra&W'&Rs &RC&Whristma&Rs &WSuit&n~
+&wA crumpled up red suit lays on the ground.&n~
+~
+9 4457472 0 1033
+115 0 0 0
+1 1000000000 5
+A
+19 3
+A
+18 2
+A
+40 4
+A
+41 5
+#24484
+obj reindeer tail christmas obj~
+8
+&yRein&wdeer &yTail&n~
+A torch is lying here.~
+~
+9 4456448 0 262145
+150 0 0 0
+1 1000000000 5
+A
+40 10
+A
+41 10
+A
+19 5
+A
+18 5
+#24485
+obj grinch Christmas Suit~
+15
+&wThe &GG&Rr&Gi&Rn&Gc&Rh&G'&Rs &RC&Ghristma&Rs &wSuit&n~
+A green and red suit lays on the ground.~
+~
+9 4456960 0 1033
+115 0 0 0
+1 1000000000 5
+A
+19 3
+A
+18 2
+A
+40 4
+A
+41 5
+#24486
+obj santa red pants christmas obj~
+15
+&RS&Wa&Rn&Wt&Ra&W'&Rs Red &WPants&n~
+A torch is lying here.~
+~
+9 4457472 0 524321
+75 0 0 0
+1 1000000000 5
+A
+40 4
+A
+41 4
+A
+18 2
+A
+32 -1
+#24487
+obj grinch stockings christmas obj~
+15
+&wThe &GG&Rr&Gi&Rn&Gc&Rh&G'&Rs &WS&Rt&Wo&Rc&Wk&Ri&Wn&Rg&Ws&n~
+A pair of green and red stockings lay on the ground.~
+~
+9 4456960 0 524321
+75 0 0 0
+1 1000000000 5
+A
+40 4
+A
+41 4
+A
+18 2
+A
+32 -1
+#24488
+obj jingle bells christmas obj~
+32767
+&YJ&Wingl&Ye &yBells&n~
+&WA string of bells lays on the ground.&n~
+~
+9 4456448 0 5
+50 0 0 0
+1 1000000000 5
+A
+19 1
+A
+41 5
+A
+40 5
+A
+18 2
+#24489
+obj christmas Workshop Gloves&n~
+10
+&WW&worksho&Wp &YG&ylove&Ys&n~
+A torch is lying here.~
+~
+9 4456449 0 129
+40 0 0 0
+1 5 5
+A
+25 4
+A
+40 5
+A
+41 5
+A
+18 2
+#24490
+obj black leather belt gold buckle obj christmas~
+10
+&wA &KBlack &wLeather &KBelt&w with a &YG&yol&Yd &wbuckle&n~
+&w A large belt has been discard here.&n~
+~
+9 4456449 0 2049
+50 0 0 0
+1 1000000000 5
+A
+40 6
+A
+41 4
+A
+19 1
+A
+18 2
+#24491
+obj point hat obj christmas~
+10
+&WA &ypointy &GHat&n~
+&WA pair of shoes have been lost here.&n~
+~
+9 4456448 0 17
+40 0 0 0
+1 1000000000 5
+A
+40 5
+A
+41 2
+A
+18 2
+A
+36 -1
+#24492
+obj Frosty carrot nose obj christmas~
+10
+&CF&cr&wosty&c'&Cs &yCarrot &WNose&n~
+&WA large carrot has been discarded here.&n~
+~
+9 4456448 0 16385
+50 0 0 0
+1 1000000000 5
+A
+19 3
+A
+18 3
+A
+40 5
+A
+41 5
+#24493
+obj rudolph glowing red nose obj christmas~
+10
+&yRudolph's &YGlowing &RRed &wNose&n~
+&yRudolph's &YGlowing &RRed &wNose &Yshines brightly.&n~
+~
+1 4456449 0 65537
+0 0 0 0
+1 1000000000 5
+A
+40 4
+A
+41 3
+A
+37 -1
+A
+18 3
+#24494
+obj gold wedding band christmas obj~
+8
+&WA &YG&yol&Yd &WWedding &YB&yan&Yd&n~
+&WA &YG&yol&Yd &WWedding &YB&yan&Yd&w lays here.&n~
+~
+9 4456448 0 3
+30 0 0 0
+1 1000000000 5
+A
+40 4
+A
+41 2
+A
+18 2
+A
+12 50
+#24495
+obj gold wedding band christmas obj~
+8
+&WA &YG&yol&Yd &WWedding &YB&yan&Yd&w~
+&WA &YG&yol&Yd &WWedding &YB&yan&Yd&w lays here.&n~
+~
+9 4456448 0 3
+30 0 0 0
+1 5 5
+A
+40 4
+A
+41 2
+A
+18 2
+A
+13 50
+$~
+#999999

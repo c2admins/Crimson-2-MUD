@@ -1,0 +1,506 @@
+#1400
+obj scroll protection parched~
+20
+&Wa &wparched &Wscroll&n~
+A parched scroll lies in the dirt here.~
+~
+2 262144 0 1
+20 1 15 106
+1 5000 500
+#1401
+obj teleport scroll~
+30
+&Wa scroll of teleportation&n~
+A magic scroll lies here.~
+~
+2 0 0 1
+20 94 0 0
+1 20000 2000
+#1402
+obj armor adventurers steal breast~
+10
+&wa &Ksteel&w breastplate&n~
+A polished steal breast-plate lies here.~
+~
+9 1048640 0 9
+44 0 0 0
+15 40000 18000
+A
+2 1
+#1403
+obj sword adventurers~
+10
+&wan a&Wdve&Knturer'&Ws sw&word&n~
+An adventurer's sword lies on the ground.~
+~
+5 524352 0 8193
+0 2 12 3
+6 25000 5000
+A
+19 1
+#1404
+obj sword flame tongue~
+6
+&Ka &rflam&Reto&Yng&Rue s&rword&n~
+A flame-red sword lies in the dust here.~
+~
+5 2097154 0 8193
+65568 5 8 3
+7 150000 40000
+A
+1 1
+A
+19 2
+#1405
+obj key boiler rusty~
+2
+the key to the boiler~
+A rusty old key lies here in the dirt.~
+~
+18 262152 0 1
+1405 0 10 0
+1 5 5
+#1406
+obj wine bottle~
+50
+&Ga &pwine&G bottle&n~
+A bottle of Orlyn's best rests here.~
+~
+17 0 0 1
+3 3 2 0
+1 500 10
+#1407
+obj key copper gazer~
+2
+a copper key~
+A shiny copper key lies here.~
+~
+18 262152 0 1
+1407 0 10 0
+1 5 5
+#1408
+obj ring berabus~
+10
+&Kri&Bng&b of ber&Bab&Kus&n~
+Berabus' ring lies in the dirt here.~
+~
+9 1048641 0 3
+2 0 0 0
+5 35000 10000
+A
+18 2
+A
+24 -1
+#1409
+obj bracers berabus~
+8
+&Kbr&Bace&brs &Wof &bBe&Brab&Kus&n~
+Berabus' bracers lie on the ground.~
+~
+9 2097217 0 257
+5 0 0 0
+12 45000 10000
+A
+23 -5
+A
+18 3
+#1410
+obj potion adrenal mauve~
+30
+a potion of adrenal boost~
+A thick mauve potion lies here.~
+~
+10 0 0 1
+20 106 98 39
+2 30000 4500
+#1411
+obj potion green~
+50
+&Ga green potion&n~
+A puke green potion lies here.~
+~
+10 0 0 1
+20 43 0 0
+3 2000 2000
+#1412
+obj key glass~
+2
+a glass key~
+A glass key lies conspicuously on the dirt here.~
+~
+18 262152 0 1
+1412 0 10 0
+1 5 5
+#1413
+obj pile gold~
+100
+&ga pile of gold&n~
+A pile of gold has been left here.~
+~
+20 0 0 1
+10000 0 10 0
+20 5 5
+#1414
+obj cross top piece~
+100
+&Wtop piec&we of Gerin&W's cross&n~
+The top piece of Gerin's cross lies here.~
+~
+12 201588737 0 16385
+0 0 0 0
+5 500 5
+E
+cross~
+A symbol of a sun and fish is emblazoned on the cross.
+~
+A
+30 -1
+A
+12 5
+#1415
+obj cross middle piece~
+100
+&Wmiddle pi&wece of Geri&Wn's cross&n~
+The middle piece of Gerin's cross lies here.~
+~
+12 201588737 0 16385
+0 0 0 0
+5 5 5
+E
+cross~
+A symbol of a sun and fish is emblazoned on the cross.
+~
+A
+5 1
+#1416
+obj cross bottom piece~
+100
+&Wbottom pi&wece of Geri&Wn's cross&n~
+The bottom piece of Gerin's cross lies here.~
+~
+12 67371009 0 16385
+0 0 0 0
+5 5 5
+E
+cross~
+A symbol of a sun and fish is emblazoned on the cross.
+~
+A
+19 1
+#1417
+obj note soggy~
+100
+a soggy note~
+A soggy note lies here.~
+~
+16 262144 0 1
+0 0 10 0
+1 5 5
+E
+soggy~
+To my dear friend Phisher:
+I leave it up to you to divide the cross and scatter its pieces within the
+hill...thank you friend.
+~
+#1418
+obj girdle phishers silver~
+6
+&wPh&Cish&cer's &KSil&cver G&Cird&wle&n~
+A great silver girdle lies on the floor here.~
+~
+9 2101312 0 2049
+5 0 0 0
+20 100000 30000
+A
+13 5
+A
+1 1
+A
+19 1
+A
+18 3
+#1419
+obj ring green glass~
+5
+&GGreen-glass &wring&n~
+A green glass ring lies on the floor here.~
+~
+9 269484097 0 3
+5 0 0 0
+3 20000 10000
+A
+12 20
+#1420
+obj spear silver phishers~
+5
+&cPh&Cish&wer'&Ws Sil&wver &CSpe&car&n~
+Phisher's silver spear lies on the floor.~
+~
+5 2097216 0 8193
+40 3 10 11
+20 90000 25000
+A
+9 10
+A
+18 3
+A
+17 -5
+#1421
+obj rubbage pile garbage~
+1
+&ypile of rubbage&n~
+A pile of rubbage has been left here.~
+~
+15 8 0 0
+20 0 10 0
+40 5 500
+#1422
+obj cross top piece fake~
+100
+&Wtop piec&we of Gerin&W's cross&n~
+The top piece of Gerin's cross lies here.~
+~
+12 201588737 0 1
+0 0 10 0
+1 5 5
+#1423
+obj cross middle piece fake~
+100
+&Wmiddle pi&wece of Geri&Wn's cross&n~
+The middle piece of Gerin's cross lies here.~
+~
+12 201588737 0 1
+0 0 10 0
+1 5 5
+#1424
+obj cross bottom piece fake~
+100
+&Wbottom pi&wece of Geri&Wn's cross&n~
+The bottom piece of Gerin's cross lies here.~
+~
+12 201588737 0 1
+0 0 10 0
+1 5 5
+#1425
+obj staff stone~
+10
+&wa &Ks&wtaf&Kf &wof &ys&Kton&ye&n~
+A stone staff lies on the ground here.~
+~
+4 1310786 0 16385
+25 3 3 90
+12 90000 15000
+A
+22 -3
+A
+3 1
+#1426
+obj key experiment black~
+2
+a black key~
+The black experiment key lies here.~
+~
+18 262152 0 1
+1426 0 10 0
+1 5 5
+#1427
+obj potion orange dull~
+50
+a dull orange potion~
+A dull orange colored potion rests here.~
+~
+10 0 0 1
+12 18 85 0
+4 400 250
+#1428
+obj sword elven adventurers~
+5
+&wan &Ge&glve&Gn &ws&Kwor&wd&n~
+An elven adventurers sword lies in the dust here.~
+~
+5 1048640 0 8193
+16384 2 15 3
+10 50000 15000
+A
+18 1
+A
+19 1
+#1429
+obj pendant red~
+20
+&Ka &Rred&r pen&Rdan&Kt&n~
+A red pendant lies on the floor here.~
+~
+9 1048641 0 5
+7 0 0 0
+5 30000 20000
+A
+19 2
+A
+13 5
+A
+4 -1
+A
+3 -1
+#1430
+obj sword morgoblade~
+8
+&Wa M&worg&Ko&wbla&Wde&n~
+A Morgoblade lies on the gound here.~
+~
+5 1048576 0 24577
+1 8 4 3
+10 50000 10000
+A
+18 3
+#1431
+obj mask dark eye~
+10
+&Ka dark eye mask&n~
+A dark eye mask lies here.~
+~
+11 1097732 0 17
+0 0 0 0
+3 100000 20000
+A
+31 -1
+A
+26 -1
+A
+33 -1
+A
+27 -1
+#1432
+obj ring zorvaine red ragged~
+10
+&Gri&wng &Kof Zorv&wai&Gne&n~
+A ragged red ring lies here.~
+~
+9 1081472 0 3
+9 0 0 0
+3 50000 15000
+A
+19 2
+A
+36 -1
+#1433
+obj cloak purple melvus~
+10
+&Ka p&purpl&Ke c&ploa&Kk&n~
+A purple cloak of Melvus lies on the floor here.~
+~
+9 565248 0 13
+6 0 0 0
+13 55000 8000
+A
+2 1
+A
+3 1
+A
+4 1
+#1434
+obj collar spiked~
+15
+&Ka spiked &ycollar&n~
+A spiked collar lies on the ground.~
+~
+9 1048576 0 5
+16 0 0 0
+3 15000 10000
+A
+36 -1
+#1435
+obj gown white~
+15
+&Wa white gown&n~
+A simple, white gown lies on the floor.~
+~
+9 256 0 9
+10 0 10 0
+1 5 50
+A
+13 5
+#1436
+obj loop band golden~
+15
+&Ya golden loop&n~
+A golden loop band lies on the floor.~
+~
+9 1 0 17
+5 0 10 0
+1 30000 2500
+A
+4 1
+#1437
+obj key silver tarnished~
+2
+a tarnished key~
+A tarnished, silver key lies conspicuously on the ground here.~
+~
+18 262152 0 1
+1437 0 10 0
+1 5 5
+#1438
+obj dentures teeth~
+30
+dentures~
+A pair of dentures rests here.~
+~
+13 0 0 16385
+0 0 10 0
+1 5 5
+E
+dentures~
+The dentures appear to be a set of 32 teeth, for the top and bottom of a mouth.
+You guess someone must have lost them...
+~
+A
+23 -3
+#1439
+obj thimble thoth~
+10
+&Ka thimble&n~
+A thimble of Thoth lies on the ground.~
+~
+15 524289 0 16385
+12 0 10 0
+1 20000 2500
+A
+9 30
+A
+13 10
+A
+18 1
+#1440
+obj rulebook book rules~
+100
+&ya rulebook&n~
+The rulebook to Gerin's contest lies here.~
+~
+16 0 0 16385
+0 0 10 0
+3 5 5
+E
+rulebook book rules~
+The rules contained herein must be followed to the utmost degree.
+Any violation of these rules will result in dire consequences, perhaps
+even in death.  Therefore, just be smart, and follow these rules:
+1) No killing
+2) All gold found must be given to Dilbert
+3) Follow rule #1 unless you meet up with Berabus
+4) Find a bottle of Orlyn's bets and give it to Dilbert
+5) Let Sparky out...he needs to go to the bathroom
+~
+A
+14 5
+#1441
+obj key skeleton Gerin~
+2
+a skeleton key~
+A skeleton key is here.~
+~
+18 262152 0 1
+1441 0 10 0
+1 5 5
+$~
+#999999

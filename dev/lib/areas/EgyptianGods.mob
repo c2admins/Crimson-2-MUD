@@ -1,0 +1,374 @@
+#5950
+mob weak slave~
+a weakened slave~
+a slave lies here starving
+~
+As you look at this slave you can already see his ribcage protrude from his chest.
+He is severly overworked and treated like crap.  He stares at you in hopes you will
+release him from this life.
+~
+10 32769 136249361 0 1000 S
+45 10 -25 20d15+13000 5d10+15
+450000 600000
+8 8 1
+1 0 22 18 16 15 20 6
+SKILL=SPELL_HEAL_MEDIUM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#5951
+mob pharoah ra~
+&YRa&n~
+the almighty GOD of the &Rs&yu&Rn&n, &YRa
+~
+&WRa was the god of the sun during dynastic Egypt; the name is thought to have 
+meant "creative power", and as a proper name "Creator", similar to English 
+Christian usage of the term "Creator" to signify the "almighty God." Very early 
+in Egyptian history, Ra was identified with Horus, who as a hawk or falcon-
+god represented the loftiness of the skies. Ra is represented either as a hawk-
+headed man or as a hawk. In order to travel through the waters of Heaven and 
+the Underworld, Ra was depicted as traveling in a boat. In dynastic Egypt, Ra's 
+cult center was Annu. In Dynasty 5, the first king, Userkaf, was also Ra's high 
+priest, and he added the term Sa-Ra to the titles of the pharaohs. Ra was father 
+of Shu and Tefnut, grandfather of Nut and Geb, great-grandfather of Osiris, Set, 
+Isis, and Nephthys, and great-great-grandfather to Horus.  In later periods Osiris 
+and Isis superceded him in popularity, Ra, the great God, Lord of Heaven whether 
+worshiped in his own right or, in later times, as one aspect of the Lord of the 
+Universe, Amen-Ra.&n
+~
+41943306 32769 136249361 2097280 -1000 S
+48 -10 -25 1d1+70000 45d25+50
+500000 2000000
+8 8 1
+0 0 16 16 14 15 13 12
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 90
+SKILL=SPELL_HEAL_MAJOR 80
+SKILL=SPELL_FIRELANCE 60
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#5952
+mob anubis~
+&rA&Rn&ru&Rb&ri&Rs&n~
+the half-dog half-daemon &rA&Rn&ru&Rb&ri&Rs&n stands here.
+~
+&KAnubis was the son of Nephthys. By some traditions, the father was Set; 
+by others, Osiris. (And by still other traditions his mother was Isis.) Anubis 
+was depicted as a jackal, or as a jackal-headed man; in primitive times he 
+was probably simply the jackal god.  Probably because of the jackal's 
+tendency to prowl around tombs, he became associated with the dead, and 
+by the Old Kingdom, Anubis was worshipped as the inventor of embalming, 
+who had embalmed the dead Osiris, thus helping preserve him in order to live 
+again. His task became to glorify and preserve all the dead. Anubis was also 
+worshipped under the form Upuaut ("Opener of the Ways"),  sometimes with 
+a rabbit's head, who conducted the souls of the dead to their judgement, and 
+who monitored the Scales of Truth to protect the dead from the second death 
+in the underworld.&n
+~
+1183088650 32769 136249361 2097280 -1000 S
+46 5 -20 1d1+55000 25d20+15
+450000 1500000
+8 8 0
+0 0 16 15 16 15 14 15
+SKILL=SPELL_FIREBALL 75
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_HEAL_MEDIUM 80
+SKILL=SPELL_SILENCE 50
+SKILL=SPELL_FIRELANCE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#5953
+mob imhotep~
+&YI&ym&Yh&yo&Yt&ye&Yp&n~
+the twice ressurected mummy &YI&ym&Yh&yo&Yt&ye&Yp&n stands here.
+~
+&wImhotep was a historical figure. He was the architect, physician, scribe, and
+vizier of the 3rd Dynasty pharaoh Zoser. It was Imhotep who conceived and 
+built the Step Pyramid at Sakkara. In the Late Period, Imhotep was worshipped 
+as the son of Ptah and a god of medicine, as well as the patron (with Thoth) of 
+scribes. The Greeks considered him to be Asklepios, the god of medicine.&n
+~
+33554442 32769 136249361 128 -750 S
+46 0 40 1d1+55000 30d20+15
+400000 1250000
+8 8 1
+0 0 16 16 15 14 12 14
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=30
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#5954
+mob mathyas scorpion king~
+&GM&wa&Gt&wh&Gy&wa&Gs&n, the &yscorpion &Kking&n~
+the long feared &yScoprion &KKing &nstands here.
+~
+The most fearsome warrior ever to wage battle in egypt whom sold his soul to
+Anubis so he did not die is here, guarding the entrance to Anubis' throne.
+~
+33554442 32769 136249361 2097280 0 S
+46 20 -40 1d1+40000 25d30+20
+3000000 1000000
+8 8 0
+1 0 17 15 15 16 13 13
+SKILL=SPELL_HEAL_MEDIUM 70
+SKILL=SPELL_HEAL_MAJOR 50
+SKILL=SPELL_FIRELANCE 80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_TYPE=103
+#5955
+mob horus~
+&KHorus&w, the &WPatron &pDeity &wof &yEgypt&n~
+&wHorus stands here, in Sett's throne room, after banishing him to the outskirts of the desert, for killing Osiris.&n
+~
+&wOne of the most important deities of Egypt. As the Child, 
+Horus is the son of Osiris and Isis, who, upon reaching 
+adulthood, avenges his father's death, by defeating and 
+castrating his evil uncle Set. He then became the divine 
+prototype of the Pharaoh. As Heru-Ur, "Horus the Elder", 
+he was the patron deity of Upper (Southern) Egypt from the 
+earliest times; initially, viewed as the twin brother of Set 
+(the patron of Lower Egypt), but he became the conqueror 
+of Set c. 3000 BC. when Upper Egypt conquered Lower 
+Egypt and formed the unified kingdom of Egypt.&n
+~
+8454410 32769 136249361 128 1000 S
+48 0 -37 1d1+64999 32d28+75
+3750000 2000000
+8 8 0
+0 0 26 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#5956
+mob onyx scarab~
+&KOnyx Scarab&n~
+a shiny &Konyx &ngem sits here.
+~
+You look at this tiny gem and realize it is nothing but a deadly &KOnyx Scarab&n!
+~
+16835082 32769 136249361 0 -1000 S
+44 0 40 25d25+10000 10d15+10
+0 900000
+8 8 0
+0 0 16 18 16 15 12 13
+SKILL=SPELL_HEAL_MEDIUM 50
+#5957
+mob golden scarab~
+&YGolden Scarab&n~
+a shiny &Ygold&n orb sits here.
+~
+You look at this small orb and realize it is nothing but a deadly &YGold Scarab&n!
+~
+16835082 32769 136249361 0 -1000 S
+44 0 40 25d25+10000 10d15+10
+0 900000
+8 8 0
+0 0 16 18 16 15 12 13
+SKILL=SPELL_HEAL_MEDIUM 50
+#5958
+mob Osiris~
+&BO&Rs&Bi&Rr&Bi&Rs&n, the father of &KHorus&n~
+&BO&Rs&Bi&Rr&Bi&Rs&n, is sitting atop his &Wb&Ko&Wn&Ke&n throne
+~
+You look at the ruler of man in the begining, after Rah had abbandoned the world to rule
+the skies, but he was murdered by his brother Set.  Through the magic of Isis, he was
+made to live again.  Being the first person to die, he subsequently became lord of the 
+dead. His death was avenged by his son Horus, who defeated Set and cast him out into the 
+desert to the West of Egypt.
+~
+41943050 32769 136249361 1075839104 1000 S
+47 0 -40 1d1+35000 50d10+50
+1500000 2000000
+8 8 1
+1 0 22 17 16 14 12 13
+#5959
+mob isis~
+&BI&Ws&Bi&Ws&n, mother of &KHorus&n~
+&BI&Ws&Bi&Ws&n sits here atop her throne loving her husband.
+~
+You look at Isis, the goddess of the underworld, healer of the sick, protector of children
+and the woman responsible for resurrecting Osiris in the underworld.
+~
+41943050 1 136249361 2097280 1000 S
+47 0 -40 1d1+30000 45d10+45
+1000000 2000000
+8 8 2
+0 0 22 18 15 14 13 15
+#5960
+mob Anuksonamun~
+&RA&Wn&Ru&Wk&Rs&Wo&Rn&Wa&Rm&Wu&Rn&n, the &RLover &nof &YI&ym&Yh&yo&Yt&ye&Yp&n~
+&RA&Wn&Ru&Wk&Rs&Wo&Rn&Wa&Rm&Wu&Rn&n, is here with her &Rlover&n
+~
+You look upon Anuksonamun, once the Pharoah's would-be wife, whom she betrayed to be eternally
+with her lover Imhotep.
+~
+41943050 1 136249361 2097280 1000 S
+47 0 -40 1d1+40000 45d10+45
+1000000 2000000
+8 8 2
+0 0 22 18 15 14 13 15
+#5961
+mob set~
+&WS&we&Wt&n, &Rthe evil uncle of &KHorus&n.~
+&WS&we&Wt &nstands here, plotting revenge against his nephew &KHorus&n
+~
+You look at the giant beast &WS&we&Wt&n.  He stands 8ft tall, and is carefully pouring
+over some plans about ambushing his nephew &KHorus&n and reclaiming his throne.
+~
+8454410 32769 136249361 128 -1000 S
+48 0 -37 1d1+64999 32d28+75
+1000000 2000000
+8 8 0
+0 0 26 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+#5962
+mob userkaf priest~
+&KU&Gs&Ke&Gr&Kk&Ga&Kf&n, the High Priest of &YRa&n~
+&KU&Gs&Ke&Gr&Kk&Ga&Kf&n, the High Priest of &YRa&n, stands here guarding his master.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+33555210 32769 136249361 2113538 500 S
+43 0 -40 20d13+23000 15d50+35
+2000000 1500000
+8 8 0
+0 0 16 16 15 25 13 14
+SKILL=SKILL_SECOND 55
+SKILL=SPELL_MAGIC_IMMUNE 55
+SKILL=SPELL_FIRESTORM 55
+#5963
+mob pit mummy~
+&Ka pit mummy&n~
+&Ka decaying mummy stands here, ready to fight.&n
+~
+You stand before a mostly decayed being, he glares at you with one good
+eye and charges for battle.
+~
+33816602 1 136249489 35913728 -1000 S
+44 -5 -30 15d100+25000 20d25+40
+1500000 1000000
+8 8 0
+0 0 16 15 14 15 15 12
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#5964
+mob death~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+66060312 1 136249361 0 -1000 S
+20 40 40 1d1+500000000 1d1+1
+1 1500000
+8 8 0
+0 0 17 18 16 16 12 13
+ATTACK_SKILL=35
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#5965
+mob mummy lord~
+&Km&wu&Wm&wm&Ky &Rl&wor&Rd&n~
+the &Km&wu&Wm&wm&Ky &Rl&wor&Rd&n stands here, gazing at his glamorous chest.
+~
+This creature has been the toy of Ra for ages, he appears to be the
+trainer of the pit zombies.  He sits here day and night starring
+at his glamorous chest.  Story tells that it is filled with the 
+greatest treasure known to man.
+~
+33554458 32769 136249361 1075839104 -1000 S
+48 -5 -25 15d100+30000 30d25+50
+1500000 1250000
+8 8 0
+0 0 17 17 16 16 14 14
+SKILL=SPELL_GAS_BREATH 99
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+#5966
+mob pharoah ra sun god~
+&YRa&n~
+the almighty GOD of the &Rs&yu&Rn&n, &YRa
+~
+&WRa was the god of the sun during dynastic Egypt; the name is thought to have 
+meant "creative power", and as a proper name "Creator", similar to English 
+Christian usage of the term "Creator" to signify the "almighty God." Very early 
+in Egyptian history, Ra was identified with Horus, who as a hawk or falcon-
+god represented the loftiness of the skies. Ra is represented either as a hawk-
+headed man or as a hawk. In order to travel through the waters of Heaven and 
+the Underworld, Ra was depicted as traveling in a boat. In dynastic Egypt, Ra's 
+cult center was Annu. In Dynasty 5, the first king, Userkaf, was also Ra's high 
+priest, and he added the term Sa-Ra to the titles of the pharaohs. Ra was father 
+of Shu and Tefnut, grandfather of Nut and Geb, great-grandfather of Osiris, Set, 
+Isis, and Nephthys, and great-great-grandfather to Horus.  In later periods Osiris 
+and Isis superceded him in popularity, Ra, the great God, Lord of Heaven whether 
+worshiped in his own right or, in later times, as one aspect of the Lord of the 
+Universe, Amen-Ra.&n
+~
+41943050 32769 136249361 2097280 -1000 S
+48 25 -25 1d1+35000 45d25+50
+500000 2000000
+8 8 0
+0 0 16 16 14 15 13 12
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 90
+SKILL=SPELL_HEAL_MAJOR 80
+SKILL=SPELL_FIRELANCE 60
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+$~
+#999999

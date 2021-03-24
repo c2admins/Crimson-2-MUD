@@ -1,0 +1,1094 @@
+#6400
+Darthy's Swank Lil' Pad~
+You snicker softly at the ridiculousness of this room.  The mismatched patterns
+and colors remind you of somet cheezy porno set.  As you step into the room 
+your feet are lost in the thick, multi-colored shag carpet.  Lounging on the
+pink, overstuffed sofa you see some scantilly clad tricks that happen to be 
+Darth's flavor of the month.  One blonde, one brunette, and ALL women.  In the
+corner you notice some stoner in the bean bag chair but you don't give him
+another thought.  Let the brotha enjoy his high you think to yourself.
+You finally settle into a comfortable armchair and lose yourself in the myriad
+of lights scattered across the walls from the disco ball overhead.  If you had
+to describe this joint in one word it'd be pimpin'!
+~
+54 520 0 42 99 0
+S
+#6401
+Cobblestone Bridge~
+As you step onto the bridge you get the feeling that, while it looks run-down
+and old, it's actually quite secure.  The thick stone slabs are hard beneath
+your feet and even the cheerful sound of distant birds cannot lighten your
+spirits.  Hopefully this quaint little village will have a place to rest.
+~
+54 4 0 1 99 2
+D2
+hi
+~
+~
+0 -1 6402
+S
+#6402
+Winespring Way~
+The street you are on is the main thoroughfare for the town fondly referred to
+as Edmond's Field by the locals.  The surrounding area is rich in color from
+the various wildflowers and other vegetation indigenous to this area.  You can
+hear children laughing in the distance, but yet something doesn't feel right
+here.  Houses along the road appear boarded up and the few older folk you see
+appear guarded and uneasy.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6401
+D2
+~
+~
+0 -1 6403
+D3
+~
+~
+0 -1 6412
+S
+#6403
+Winespring Way~
+The street you are on is the main thoroughfare for the town fondly referred to
+as Edmond's Field by the locals.  This road runs north/south through the
+village.  To the east you can see a wide open field, bare except for a lone
+flag pole jutting out of the ground.  This area looks well used and is
+possibly a place for festivities during better times.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6402
+D1
+~
+~
+0 -1 6404
+D2
+~
+~
+0 -1 6410
+S
+#6404
+The Village Green~
+The grass here is full and a lush green hue.  However, it seems rather long for
+such a tidy little village.  Is this yet another clue that all is not well in
+this peaceful community?
+~
+54 268435456 0 1 99 2
+D1
+~
+~
+0 -1 6405
+D2
+~
+~
+0 -1 6409
+D3
+~
+~
+0 -1 6403
+S
+#6405
+The Village Green~
+The grass here is full and a lush green hue.  However, it seems rather long for
+such a tidy little village.  Is this yet another clue that all is not well in
+this peaceful community?
+~
+54 268435456 0 1 99 2
+D1
+~
+~
+0 -1 6406
+D2
+~
+~
+0 -1 6408
+D3
+~
+~
+0 -1 6404
+S
+#6406
+The Village Green~
+The grass here is full and a lush green hue.  However, it seems rather long for
+such a tidy little village.  Is this yet another clue that all is not well in
+this peaceful community?
+You see a bubbling brook that runs along the edge of the knoll.  A weary
+traveler could probably quench his or her thirst here.
+~
+54 268566528 0 1 99 2
+D2
+~
+~
+0 -1 6407
+D3
+~
+~
+0 -1 6405
+S
+#6407
+The Village Green~
+The grass here is full and a lush green hue.  However, it seems rather long for
+such a tidy little village.  Is this yet another clue that all is not well in
+this peaceful community?
+~
+54 268435456 0 1 99 2
+D0
+~
+~
+0 -1 6406
+D3
+~
+~
+0 -1 6408
+S
+#6408
+The Village Green~
+The grass here is full and a lush green hue.  However, it seems rather long for
+such a tidy little village.  Is this yet another clue that all is not well in
+this peaceful community?
+~
+54 268435456 0 1 99 2
+D0
+~
+~
+0 -1 6405
+D1
+~
+~
+0 -1 6407
+D3
+~
+~
+0 -1 6409
+S
+#6409
+The Village Green~
+The grass here is full and a lush green hue.  However, it seems rather long for
+such a tidy little village.  Is this yet another clue that all is not well in
+this peaceful community?
+~
+54 268435456 0 1 99 2
+D0
+~
+~
+0 -1 6404
+D1
+~
+~
+0 -1 6408
+D3
+~
+~
+0 -1 6410
+S
+#6410
+Winespring Way~
+For all intents and purposes, this is the center of the village.  The majority
+of traffic fills this part of the street as the few villagers outdoors go 
+about their business.  Most bustle about with a quick step and a downcast eye.
+What is wrong with these people?  To the west you see the Winespring Inn.
+Seems as good a place as any to rest your feet and trest yourself to a cold
+beverage.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6403
+D1
+e
+~
+~
+0 -1 6409
+D2
+~
+~
+0 -1 6426
+D3
+w
+~
+door~
+9 1 6411
+S
+#6411
+Winespring Inn~
+Well, this is a cozy place.  The room is surprisingly warm, despite the hardwood
+floor.  There is a roaring fire along one side of the room and a bookshelf
+containing approximately 10-15 novels of various lengths on another.  A small
+calico cat is curled up on the mantle and appears to be dozing.  You see an
+empty chair against the window overlooking the village green and suddenly feel
+drawn to it.  Boy are your feet tired!
+~
+54 268468232 0 1 99 0
+D1
+~
+door~
+9 1 6410
+S
+#6412
+Charing Cross Road~
+This narrow path runs east/west along the north edge of town.  Not many shops
+line this street and it appears much quieter, probably a residential section.
+Up ahead you can see a few houses.
+~
+54 268435456 0 1 99 1
+D1
+~
+~
+0 -1 6402
+D3
+~
+~
+0 -1 6413
+S
+#6413
+Charing Cross Road~
+This narrow path runs east/west along the north edge of town.  Not many shops
+line this street and it appears much quieter, probably a residential section.
+Up ahead you can see a few houses.
+~
+54 268435456 0 1 99 1
+D0
+lo
+~
+~
+0 -1 6422
+D1
+~
+~
+0 -1 6412
+D2
+~
+~
+0 -1 6423
+D3
+w
+~
+~
+0 -1 6414
+S
+#6414
+Charing Cross Road~
+This narrow path runs east/west along the north edge of town.  Not many shops
+line this street and it appears much quieter, probably a residential section.
+Up ahead you can see a few houses.
+~
+54 268435456 0 1 99 1
+D1
+~
+~
+0 -1 6413
+D3
+~
+~
+0 -1 6415
+S
+#6415
+Charing Cross Road~
+This narrow path runs east/west along the north edge of town.  Not many shops
+line this street and it appears much quieter, probably a residential section.
+To the south you can see the front door of the Aybara's farmhouse.  It appears
+boarded up however and looks as if a large bookshelf is barricading the door.
+~
+54 268435456 0 1 99 1
+D1
+~
+~
+0 -1 6414
+D2
+~
+door~
+15 1 6417
+D3
+~
+~
+0 -1 6416
+S
+#6416
+Charing Cross Road~
+This narrow path runs east/west along the north edge of town.  Not many shops
+line this street and it appears much quieter, probably a residential section.
+The road dead ends here.
+~
+54 268435456 0 1 99 1
+D1
+~
+~
+0 -1 6415
+D2
+~
+shrubs~
+25 1 6419
+S
+#6417
+Aybara's Foyer~
+This farm house is in immaculate condition.  Hung upon one wall is a beautiful
+piece of needlework, sewn from intriate stitches and many different colors.
+Such a piece must have demanded a steady hand and a steady patience.  Next to
+the door you see several pairs of shoes, modest in design, and an overcoat.  It
+appears someone is home.
+~
+54 402653193 0 1 99 0
+D0
+~
+door~
+15 1 6415
+D2
+s
+~
+~
+0 -1 6418
+S
+#6418
+The Common Room~
+This is the common area in the Aybara farm house.  At night, it's a place to
+gather around a warm fire and tell tales of honor and romance.  To laugh and
+cry, and to share the joys of being a family.  At this hour, however, the room
+is empty.  The men are probably still out working in the fields you gather.
+~
+54 268435465 0 1 99 0
+D0
+~
+~
+0 -1 6417
+D3
+~
+~
+0 -1 6420
+S
+#6419
+A Dank Cellar~
+You are standing in a dreary little cellar underneath the Aybara's farmhouse.
+The stale, dusty air makes it hard to breath and you begin to sweat from the
+blistering heat in this unventilated room.  In the far corner of the room you
+see an old step ladder beneath what appears to be a trapdoor cut out of the
+ceiling.
+~
+54 268435465 0 1 99 0
+D0
+~
+shrubs~
+25 1 6416
+D4
+~
+trapdoor~
+9 1 6420
+S
+#6420
+Dining Area~
+This room is the center of the Aybara's farmhouse.  A long, dark oak table
+takes up most of the room and as you get closer you notice intricately carved
+designs around the legs of the table and chairs.  Whoever built this furniture
+must be a master carpenter.  Along one wall you see a painted portrait of what
+you figure must be the Aybara's themself.  A large family, you wonder why the
+house is so empty.
+~
+54 268435465 0 1 99 0
+D1
+~
+~
+0 -1 6418
+D3
+~
+~
+0 -1 6421
+D5
+~
+trapdoor~
+9 1 6419
+S
+#6421
+Perrin's Modest Living Quarters~
+You are in Perrin Aybara's bedroom.  Looking around the cramped quarters, you
+feel sympathy for such a large man to have to live in such a confined area.  The
+small twin bed along one wall looks worn and in need of repair.  It also looks
+recently slept in.  The only other piece of furniture you see is a foot chest
+at the end of the bed.
+~
+54 1342177289 536870912 1 99 0
+D1
+~
+~
+0 -1 6420
+S
+#6422
+An Abandoned House~
+This little one room cottage appears to have been recently abandoned.  Nothing
+seems wrong here though.  The house appears in good order and you can't see
+any reason why the owners would have left in such a hurry.
+~
+54 268435465 0 1 99 0
+D2
+~
+~
+0 -1 6413
+S
+#6423
+Emond's Trail~
+This lane runs north/south through the village.  It's not as congested as
+the main road, the Winespring Way, but the heavily marred earth along the
+road suggests this path is used quite a bit as well.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6413
+D2
+~
+~
+0 -1 6424
+S
+#6424
+Emond's Trail~
+This lane runs north/south through the village.  It's not as congested as
+the main road, the Winespring Way, but the heavily marred earth along the
+road suggests this path is used quite a bit as well.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6423
+D2
+~
+~
+0 -1 6425
+S
+#6425
+Emond's Trail~
+This lane runs north/south through the village.  It's not as congested as
+the main road, the Winespring Way, but the heavily marred earth along the
+road suggests this path is used quite a bit as well.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6424
+D2
+~
+~
+0 -1 6433
+D3
+~
+~
+0 -1 6437
+S
+#6426
+Winespring Way~
+The street you are on is the main thoroughfare for the town fondly referred to
+as Emond's Field by the locals.  This road runs north/south through the village.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6410
+D2
+~
+~
+0 -1 6427
+S
+#6427
+Winespring Way~
+The street you are on is the main thoroughfare for the town fondly referred to
+as Emond's Field by the locals.  This road runs north/south through the village.
+To the east you can see the forge run by Master Luhhan, the local blacksmith.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6426
+D1
+~
+~
+0 -1 6438
+D2
+~
+~
+0 -1 6428
+D3
+~
+~
+0 -1 6432
+S
+#6428
+Winespring Way~
+The street you are on is the main thoroughfare for the town fondly referred to
+as Emond's Field by the locals.  This road runs north/south through the village.
+Up ahead, the road bends slightly to the west.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6427
+D2
+~
+~
+0 -1 6429
+S
+#6429
+Winespring Way~
+The street you are on is the main throughfare for the town fondly referred to
+as Emond's Field by the locals.  This road runs north/south through the village.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6428
+D3
+~
+~
+0 -1 6430
+S
+#6430
+Winespring Way~
+The street you are on is the main throughfare for the town fondly referred to
+as Emond's Field by the locals.  This road runs north/south through the village.
+~
+54 268435456 0 1 99 1
+D1
+~
+~
+0 -1 6429
+D2
+~
+~
+0 -1 6431
+S
+#6431
+Winespring Way~
+The street you are on is the main throughfare for the town fondly referred to
+as Emond's Field by the locals.  This road runs north/south through the village.
+However, the road ends rather abruptly here.  Further south you see a vast forest
+that seems to have grown over the remainder of the road, swallowing the path 
+into the dense foliage.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6430
+D2
+~
+~
+0 -1 6446
+S
+#6432
+Lazy River Run~
+You are now on yet another path running east/west through the southern end
+of town.  This road gets its name from the slow flowing river that runs abreast
+of this path further to the west.  This road is lined with houses on both sides,
+some looking abandoned and unkempt.
+~
+54 268435456 0 1 99 1
+D1
+~
+~
+0 -1 6427
+D3
+~
+~
+0 -1 6433
+S
+#6433
+Lazy River Run~
+You are now on yet another path running east/west through the southern end
+of town.  This road gets its name from the slow flowing river that runs abreast
+of this path further to the west.  This road is lined with houses on both sides,
+some looking abandoned and unkempt.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6425
+D1
+~
+~
+0 -1 6432
+D3
+~
+~
+0 -1 6434
+S
+#6434
+Lazy River Run~
+You are now on yet another path running east/west through the southern end
+of town.  This road gets its name from the slow flowing river that runs abreast
+of this path further to the west.  This road is lined with houses on both sides,
+some looking abandoned and unkempt.
+~
+54 268435456 0 1 99 1
+D1
+~
+~
+0 -1 6433
+D3
+~
+~
+0 -1 6435
+S
+#6435
+Lazy River Run~
+You are now on yet another path running east/west through the southern end
+of town.  This road gets its name from the slow flowing river that runs abreast
+of this path further to the west.  This road is lined with houses on both sides,
+some looking abandoned and unkempt.
+~
+54 268435456 0 1 99 1
+D1
+~
+~
+0 -1 6434
+D2
+~
+~
+0 -1 6441
+D3
+~
+~
+0 -1 6436
+S
+#6436
+Lazy River Run~
+You are now on yet another path running east/west through the southern end
+of town.  This road gets its name from the slow flowing river that runs abreast
+of this path further to the west.  This road is lined with houses on both sides,
+some looking abandoned and unkempt.
+The road dead ends here.  To the west you see the famous lazy river but no
+discernable way to cross it.
+~
+54 268435456 0 1 99 1
+D1
+~
+~
+0 -1 6435
+D2
+~
+door~
+9 1 6440
+S
+#6437
+An Abandoned House~
+This little one room cottage appears to have been recently abandoned.  Nothing
+seems wrong here though.  The house appears in good order and you can't see
+any reason why the owners would have left in such a hurry.
+~
+54 268435465 0 1 99 0
+D1
+~
+~
+0 -1 6425
+S
+#6438
+Luhhan's Forge~
+The first thing you notice about this place is how immaculately clean it is.
+Along all four walls, hundreds of different tools hang from hooks in a very
+neat and orderly manner.  In the rear wall you see a glowing fire spitting
+red hot sparks into the air.  Upon further study you notice a piece of metal
+sticking out of the flames.  It looks like Master Luhhan must have left in a 
+hurry to have been so forgetful.
+~
+54 268697609 0 1 99 0
+D1
+~
+fireplace~
+25 1 6439
+D3
+~
+~
+0 -1 6427
+S
+#6439
+A Hidden Room Behind the Fireplace~
+You have stumbled into a small cubby hole behind the fireplace.  It looks like
+the designer's original intentions were to use the space as a storage room for
+various valuables.  Now, however, it is only occupied with a long wooden table.
+~
+54 1342439433 0 1 99 0
+D3
+~
+fireplace~
+9 1 6438
+S
+#6440
+An Aromatic House~
+Unlike most of the other houses in this town, this one appears to be occupied.
+There is a sickly sweet aroma in the air that, while you can't place it, can
+be nothing else but a medicinal herb of some sort.  Whoever is in this house
+must be sick.
+~
+54 1342177289 0 1 99 0
+D0
+~
+door~
+9 1 6436
+S
+#6441
+A Small Cul-de-Sac~
+This small little cul-de-sac is populated with numerous trees of varying shapes
+and sizes.  Upon further thought, you realize these are actually the only trees
+you've seen so far in the village and, despite their beauty, seem somewhat out
+of place.  You can only see one house from the road.  It appears to run off to
+the east but you can't be completely sure since a large portion of the house
+is concealed by the trees.
+~
+54 268435456 0 1 99 1
+D0
+~
+~
+0 -1 6435
+D1
+~
+door~
+9 1 6442
+S
+#6442
+The Cauthon's Foyer~
+You quickly notice that this house has seen better days.  Apparently the
+Trollocs have managed to force their way into Mat's house on a few occasions.
+The mirror is cracked and hanging crooked and all the furniture is either
+broken or overturned.  You see entrances that lead into the living room and
+the kitchen as well.
+~
+54 268435465 0 1 99 0
+D1
+~
+~
+0 -1 6444
+D2
+~
+~
+0 -1 6443
+D3
+~
+door~
+9 1 6441
+S
+#6443
+A Disheveled Kitchen~
+The kitchen has not fared well either.  The table is splintered and all
+the chairs are broken.  The cabinets are busted open and very empty.  You
+even see piles of hay and straw as if someone else is already calling 
+this place home.
+~
+54 268435465 0 1 99 0
+D0
+~
+~
+0 -1 6442
+S
+#6444
+A Ransacked Living Room~
+The room is full of all sorts of junk and trash.  You see old tattered 
+clothes, broken barrels, destroyed furniture, and even some piles of
+bones.  Nothing in here seems to be of any use but along the far wall
+you see a set of stairs leading up.
+~
+54 268435465 0 1 99 0
+D3
+~
+~
+0 -1 6442
+D4
+~
+~
+0 -1 6445
+S
+#6445
+Mat's Bedroom~
+You see a large room, spaciously furnished with a four-poster bed, an 
+oak desk, and a fairly ornate wooden and leather footlocker.  It seems
+that Mat is not terribly concerned with shape of the rest of the house, 
+so long as those Trollocs stay out of his room.  Even if Mat is not 
+here there are enough signs to prove whose room it is.  There is a 
+dice cup near the bed, a large weapon that seems to be a hybrid of a 
+staff and a spear, and off in the corner you catch the light gleaming 
+off a dagger with a ruby encrusted on the hilt.
+~
+54 1342177289 0 1 99 0
+D5
+~
+~
+0 -1 6444
+S
+#6446
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272629765 0 1 99 3
+D0
+~
+~
+0 -1 6431
+D1
+~
+~
+0 -1 6448
+D2
+~
+~
+0 -1 6447
+D3
+~
+~
+0 -1 6450
+S
+#6447
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272629761 0 1 99 3
+D0
+~
+~
+0 -1 6446
+D1
+~
+~
+0 -1 6452
+D2
+~
+~
+0 -1 6446
+D3
+~
+~
+0 -1 6449
+S
+#6448
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272631809 0 1 99 3
+D0
+~
+~
+0 -1 6452
+D1
+~
+~
+0 -1 6453
+D2
+~
+~
+0 -1 6449
+D3
+~
+~
+0 -1 6447
+S
+#6449
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 406847489 0 1 99 3
+D0
+~
+~
+0 -1 6447
+D2
+~
+~
+0 -1 6447
+D3
+~
+~
+0 -1 6451
+S
+#6450
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272629761 0 1 99 3
+D0
+~
+~
+0 -1 6451
+D1
+~
+~
+0 -1 6446
+D2
+~
+~
+0 -1 6453
+D3
+~
+~
+0 -1 6451
+S
+#6451
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272629761 0 1 99 3
+D0
+~
+~
+0 -1 6449
+D1
+~
+~
+0 -1 6448
+D3
+~
+~
+0 -1 6452
+S
+#6452
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272629761 0 1 99 3
+D0
+~
+~
+0 -1 6451
+D1
+~
+~
+0 -1 6453
+D3
+~
+~
+0 -1 6448
+S
+#6453
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272629761 0 1 99 3
+D0
+~
+~
+0 -1 6449
+D1
+~
+~
+0 -1 6446
+D2
+~
+~
+0 -1 6454
+D3
+~
+~
+0 -1 6454
+S
+#6454
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272629761 0 1 99 3
+D0
+~
+~
+0 -1 6448
+D1
+~
+~
+0 -1 6455
+D2
+~
+~
+0 -1 6455
+D3
+~
+~
+0 -1 6451
+S
+#6455
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272629761 0 1 99 3
+D0
+~
+~
+0 -1 6456
+D1
+~
+~
+0 -1 6446
+D2
+~
+~
+0 -1 6454
+D3
+~
+~
+0 -1 6449
+S
+#6456
+The Dark Woods~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 272629761 0 1 99 3
+D0
+~
+~
+0 -1 6446
+D2
+~
+~
+0 -1 6457
+S
+#6457
+road~
+You have wandered into the old forest south of town.  It looks like there was
+once a path here leading further south, but the grass and brush has overgrown
+much of the path and it's hard to see.  Doesn't look like this road must get
+much use now that the Trollocs keep most people indoors.
+~
+54 268435457 0 1 99 2
+D0
+~
+~
+0 -1 6456
+S
+$~
+#999999

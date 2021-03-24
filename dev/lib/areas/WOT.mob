@@ -1,0 +1,157 @@
+#6400
+mob emonds villager~
+an Emond's Field villager~
+The villager has an uneasy look in his eye as he hurries about his business.
+~
+He is pretty ordinary in appearance although, like many of the people from
+this area, he has sandy brown hair and hazel eyes.  As you look closer at him
+you sense he is uneasy about something.  He won't look you in the eye and appears
+preoccupied with something else as he greets you.
+~
+728 589825 136249361 8224 750 S
+14 26 27 1d1+200 4d2+10
+1000 4650
+8 8 1
+1 4 15 13 18 14 16 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#6401
+mob large hairy trolloc~
+a large hairy trolloc~
+A large, hairy trolloc growls at you as you enter the room.
+~
+This beast is enormous.  It stands at least 7 feet tall and has beady red eyes.
+It's snout is long and narrow like a wolf, but his ears are large like a donkey
+and it has rams horns growing out of its head.  What weird creation is this thing?
+~
+151110220 32769 136249361 0 -1000 S
+15 24 27 1d1+215 5d2+2
+3400 4700
+8 8 0
+24 4 15 8 8 8 20 8
+SKILL=SKILL_RAGE 70
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6402
+mob perrin aybara lord wolf~
+Lord Perrin Goldeneyes~
+Wolf Lord Perrin Aybara, aka. Goldeneyes, glares at you from his makeshift throne.
+~
+At first glance, you see a hard, inwardly drawn man with curly hair and a scruffy
+beard.  His piercing gold eyes are unlike anything you've ever seen and they
+frighten you immensely.  His entire personality radiates power and respect.  You
+fell awed in his presence.
+~
+266762 1 136249393 262308 900 S
+37 3 -16 10d10+7500 8d4+40
+105000 224000
+8 8 1
+1 4 17 16 16 16 16 18
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=30
+ATTACK_TYPE=103
+#6403
+mob faile lady~
+The Lady Faile~
+The beautiful lady Faile, Perrin's wife, stands stoically beside his throne.
+~
+Faile is a petite, dark skinned woman with tilted eyes.  Her casual glance tells
+more then an average observer might notice.  She looks like she knows something
+no one else does and you feel like in the brief few moments you've been here, 
+she has stripped you down and analyzed your every being.  Creepy....
+~
+538 1048577 136249361 262276 700 S
+16 24 27 1d1+185 4d2+10
+5100 5400
+8 8 2
+0 0 17 16 15 16 14 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#6404
+mob thom gleeman~
+Thom the gleeman~
+Thom, the gleeman, wanders around performing for the villagers.
+~
+Thom is an old man with gray hair and a slight limp.  He has piercing blue eyes
+that belie a kindness not seen by many.  But don't let his age fool you, his
+lifetime of experience traveling all over the world make him a formidable foe
+indeed.
+~
+4172 1638401 136249361 108 500 S
+16 24 27 1d1+235 5d3+10
+4000 5500
+8 8 1
+1 5 17 16 14 16 14 11
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#6405
+mob luhhan master blacksmith~
+Master Luhhan~
+The local blacksmith, Master Luhhan, glares at you from across the table.
+~
+Whoa is this guy big!  He stands well over 6 feet tall and has arms as thick
+as your legs.  His voice is gruff as he accusingly asks what you are doing
+here.  He doesn't appear pleased that you stumbled upon his hiding place.
+~
+12298 1 136249361 164 800 S
+19 21 25 1d1+300 6d3+11
+4600 6000
+8 8 1
+1 4 17 15 15 14 13 12
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#6406
+mob bran innkeeper~
+Bran Al'Vere~
+Bran Al'Vere, the innkeeper, wipes dust off of the mantle
+~
+He is a middle-aged man, slightly plump, and very jolly.  He smiles
+warmly at you with wide, innocent eyes.  "Come in, take a load off,
+stay away," he says.
+~
+138 1 136249361 0 900 S
+14 25 30 1d1+200 5d4+0
+3000 4200
+8 8 1
+1 4 17 18 15 15 13 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#6407
+mob mat cauthon~
+Mat Cauthon~
+Mat Cauthon eyes you suspiciously from the bed.
+~
+He has dark hair and dark eyes.  He has a cockiness about him that
+you find rather appealing and immediately find yourself warming to
+his personality.  He looks young, maybe early 20's, yet his eyes
+tell of experiences seen by few others.  Don't underestimate him
+because of his boyish good lucks.
+~
+270346 2097153 136249361 1141112832 500 S
+25 15 17 1d1+2100 5d5+30
+30000 73000
+8 8 1
+1 4 17 16 14 16 14 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+$~
+#999999

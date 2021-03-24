@@ -1,0 +1,149 @@
+#600
+obj bronze shield~
+40
+a bronze shield~
+A bronze shield is lying  here.~
+~
+9 0 0 8705
+10 0 0 0
+8 300 75
+#601
+obj legguards bronze leg~
+40
+a pair bronze leg guards~
+A pair of bronze leg guards are lying here.~
+~
+9 0 0 33
+3 0 10 0
+12 800 200
+#602
+obj armguards bronze guards~
+40
+a pair of bronze arm guards~
+A pair of bronze arm guards are lying here.~
+~
+9 0 0 257
+4 0 10 0
+10 900 150
+#603
+obj breastplate bronze plate~
+40
+a bronze breast plate~
+A bronze breast plate is lying here.~
+~
+9 0 0 9
+5 0 10 0
+20 1000 400
+#604
+obj boots bronze~
+40
+a pair bronze boots~
+A pair of bronze boots is lying here.~
+~
+9 0 0 65
+1 0 0 0
+9 5000 1000
+A
+14 15
+#605
+obj pike bronze~
+20
+a bronze pike~
+A 10 foot bronze pike has been rammed into the floor.~
+~
+5 1052672 0 8193
+0 4 7 3
+11 20000 15000
+A
+19 1
+A
+18 1
+#606
+obj helm bronze~
+40
+a bronze helm~
+A bronze helm is lying here.~
+~
+9 65536 0 17
+5 0 0 0
+12 5000 1800
+#607
+obj gloves bronze~
+40
+a pair of bronze gloves~
+A pair of bronze gloves is lying here.~
+~
+9 0 0 129
+4 0 10 0
+8 900 150
+#608
+obj iron shield~
+40
+a iron shield~
+A iron shield is lying  here.~
+~
+9 0 0 8705
+10 0 0 0
+11 300 75
+#609
+obj legguards iron leg~
+40
+a pair iron leg guards~
+A pair of iron leg guards are lying here.~
+~
+9 0 0 33
+3 0 10 0
+15 800 200
+#610
+obj armguards iron guards~
+40
+a pair of iron arm guards~
+A pair of iron arm guards are lying here.~
+~
+9 0 0 257
+4 0 10 0
+13 900 150
+#611
+obj breastplate iron plate~
+40
+a iron breast plate~
+A iron breast plate is lying here.~
+~
+9 0 0 9
+5 0 10 0
+23 1000 400
+#612
+obj boots iron~
+40
+a pair iron boots~
+A pair of iron boots is lying here.~
+~
+9 0 0 65
+3 0 0 0
+20 5000 1000
+A
+14 12
+#613
+obj pike iron~
+20
+a iron pike~
+A 10 foot iron pike has been rammed into the floor.~
+~
+5 1052672 0 8193
+0 4 7 3
+14 20000 15000
+A
+19 1
+A
+18 1
+#614
+obj gloves iron~
+40
+a pair of iron gloves~
+A pair of iron gloves is lying here.~
+~
+9 0 0 129
+4 0 10 0
+11 900 150
+$~
+#999999

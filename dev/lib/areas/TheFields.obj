@@ -1,0 +1,1231 @@
+#8900
+obj quest shatterer~
+1
+&wThe &KS&whattere&Kr &wof a T&Whousan&wd &cD&Cream&cs&n~
+The shatterer of many dreams lies here, in a large pile of rubble.~
+~
+5 138674177 3072 24577
+33553467 8 8 11
+15 5 5
+A
+19 6
+A
+18 4
+A
+41 3
+A
+41 3
+#8901
+obj fields rags blood~
+4
+&rRags of Blood&n~
+Some rags lay here covered in blood.~
+~
+9 4194820 0 1025
+5 0 0 0
+5 100000 15000
+A
+19 4
+A
+18 2
+A
+37 -1
+#8902
+obj fields damned ring~
+10
+&wring of the &bdamned&n~
+A ring lies here consoling itself about its misery~
+~
+9 4194308 0 3
+5 0 0 0
+11 150000 12666
+A
+18 1
+A
+19 3
+A
+13 -10
+#8903
+obj fields shockblade~
+5
+&YShock&CBlade&n~
+A blade gleams here from the lightning swirling upon it.~
+~
+5 4195138 0 8193
+263168 5 7 11
+10 100000 100000
+A
+19 1
+A
+18 2
+#8904
+obj fields legend breastplate~
+7
+&WA breastplate of the legend&n~
+a large plate seems to have lost its owner~
+~
+9 4196353 0 9
+50 0 0 0
+35 1 15000
+A
+19 3
+A
+18 2
+#8905
+obj fields master orb~
+5
+&KOrb of the Master&n~
+A crystal ball once held by Onkara lies here.~
+~
+1 2162692 0 65537
+10 10 24 0
+15 5 16000
+A
+18 1
+A
+19 2
+A
+26 -1
+A
+32 -1
+#8906
+obj fields beast flesh~
+4
+&rflesh &wof the &ybeast&n~
+the flesh of the hated lays here.~
+~
+9 4194816 0 1025
+35 0 0 0
+15 750000 15370
+A
+19 3
+A
+18 2
+A
+13 -15
+#8907
+obj fields blood encapsuled ring~
+4
+&rblood&w-encapsuled ring&n~
+a ring filled with blood lays here~
+~
+9 37748768 0 3
+20 0 0 0
+5 1575575 15000
+A
+18 1
+A
+19 3
+A
+12 -15
+#8908
+obj fields worm heart~
+4
+&wthe &rheart &wof the &GW&gorm&Gs&n~
+a heart of the worms lies here~
+~
+15 104923665 0 16385
+100 0 0 0
+30 3750000 16700
+A
+18 4
+A
+19 5
+A
+14 -30
+A
+17 -15
+#8909
+obj fields menter gloves~
+2
+&wthe &Rbloodied &Cgloves &wof &rMenter&n~
+some gloves lie here looking so hollow~
+~
+9 20971536 0 129
+0 0 0 0
+15 3545000 14500
+A
+19 4
+A
+18 1
+A
+14 -35
+#8910
+obj fields phantom chains~
+3
+&wThe &KP&whantom'&Ks &yChains&n~
+some chains lie here half hidden ~
+~
+9 4194308 0 2049
+20 0 0 0
+15 50000000 30000
+A
+19 3
+A
+18 3
+A
+12 -25
+#8911
+obj fields broken sandals~
+1
+&KBroken &wSandals&n~
+some smelly, broken sandals lay here in the crimson dirt~
+~
+9 20971778 0 65
+10 0 0 0
+12 300000000 100000
+A
+25 1
+A
+18 1
+A
+19 1
+A
+13 5
+#8912
+obj fields faith nails~
+6
+&yNails &wof &cF&Cait&ch&n~
+some nails lay here bloodied from piercing the flesh of the holy~
+~
+9 4194306 0 129
+20 0 0 0
+13 300000 65000
+A
+18 2
+A
+19 3
+A
+12 -10
+A
+13 -10
+#8913
+obj fields blood laced gauntlet~
+1
+&RB&rloo&Rd&w-&RL&race&Rd &KG&wauntle&Kt&n~
+A gauntlet is here drenched in blood~
+~
+9 4194836 0 4097
+20 0 0 0
+3 2000000000 10000
+A
+19 3
+A
+18 2
+A
+13 -20
+A
+12 -20
+#8914
+obj fields broken pieces crucifix~
+3
+&KB&wroke&Kn &wpieces of the &yC&wrucifi&yx&n~
+Some pieces of a crucifix lay here~
+~
+9 4196612 0 5
+5 0 0 0
+15 3500000 14000
+A
+18 3
+A
+19 3
+A
+12 -15
+#8915
+obj fields bloody thorn crown~
+2
+&YC&yrow&Yn &wof &rT&Rhorn&rs&n~
+the legendary crown of thorns bleeds just for you~
+~
+9 4200468 131072 17
+5 0 0 0
+7 4500000 45000
+A
+19 3
+A
+18 4
+A
+14 -30
+#8916
+obj fields soldier spine~
+3
+&wThe &Rspine &wof a &Ksoldier&n~
+The ripped out spine of a soldier consoles itself and bleeds upon the walls.~
+~
+9 37748738 0 262145
+5 0 0 0
+75 3750000 15000
+A
+19 10
+A
+18 6
+A
+12 -10
+#8917
+obj fields chains enslavement~
+6
+&yChains &wof &KEnslavement&n~
+some chains lie here rusted from years of blood and sweat~
+~
+9 4194304 0 5
+5 0 0 0
+10 3000000 12000
+A
+18 3
+A
+19 2
+#8918
+obj fields enslaved blade~
+5
+&rBlade &wof the &KEnslaved&n~
+A blade haunts itself and spins around, it lies here laughing at you~
+~
+5 4194564 0 8193
+3 11 5 3
+10 100000 13500
+A
+19 3
+A
+18 3
+#8919
+obj quest leechworm seal~
+3
+&wThe &YSeal &wof the &GL&gee&GchWo&grm&Gs&n~
+A giant seal of the great LeechWorms rests here.~
+~
+9 4456472 0 5
+30 0 0 0
+100 100000000 13
+A
+18 3
+A
+19 4
+#8920
+obj fields leechworm feet~
+6
+&wthe &yboots &wof a &GL&gee&GchW&gor&Gm&n~
+some decaying feet lie here, they smell putrid~
+~
+9 4194817 0 65
+10 0 0 0
+25 20000000 13500
+A
+18 2
+A
+19 2
+#8921
+obj fields skinwall~
+2
+&WThe &YS&ck&Yi&cn&YW&ca&Yl&cl&n~
+A wall of skin lies here, emitting a putrid odor.~
+~
+9 4196353 0 513
+60 0 0 0
+10 1000000000 100000
+A
+19 2
+A
+18 2
+A
+14 -20
+A
+12 -30
+#8922
+obj fields leechworm skull~
+4
+&KSkull &wof a &GL&gee&GchW&gor&Gm&n~
+A helmet lies here, its skin peeling away.~
+~
+9 4194817 0 17
+20 0 0 0
+10 10000000 15000
+A
+19 3
+A
+18 3
+A
+14 -30
+A
+36 -1
+#8923
+obj fields lands helmet~
+6
+&wthe &Khelmet &wof the &yLands&n~
+a helmet of the damned lays here~
+~
+9 4194308 0 17
+5 0 0 0
+43 30000000 13000
+A
+18 2
+A
+19 3
+#8924
+obj fields legplates land~
+1
+&pL&Ke&pg&Kp&pl&Ka&pt&Ke&ps &Ko&pf &Kt&ph&Ke &yLands&n~
+some dirty legplates glow here~
+~
+9 138412036 0 33
+40 0 0 0
+15 1000000 15000
+A
+18 2
+A
+19 3
+A
+14 -25
+#8925
+obj fields God sheath 1~
+1
+&WS&Gh&We&Ga&Wt&Gh &WO&Gf &WG&Go&Wd&n~
+a large sheath beams the holiness of God upon you~
+~
+9 71306241 0 2049
+15 0 0 0
+15 350000 150000
+A
+19 4
+A
+14 -10
+#8926
+obj fields judas staff~
+2
+&wThe &KD&wecayin&Kg &yStaff &wof &bJ&Buda&bs&n~
+It looks like Judas has left his staff here.~
+~
+9 4194305 0 16385
+0 0 0 0
+15 300000 30000
+A
+18 3
+A
+19 6
+A
+14 -45
+A
+13 -20
+#8927
+obj fields judgment boots~
+2
+&wThe &KBoots &wof &SJ&Su&Sd&Sg&Se&Sm&Se&Sn&St&n~
+Some rugged boots lie here, soaking in judgement.~
+~
+9 4194306 0 65
+0 0 0 0
+11 1000000 15000
+A
+19 3
+A
+18 2
+A
+12 -10
+#8928
+obj fallen angel wings imm~
+100
+&KThe Blackened Wings of the F&wa&Kl&wl&Ke&wn &WAngel&n~
+The fallen angel has left his wings here.~
+~
+15 20 64 1025
+10000 0 0 0
+10 100000 1500
+A
+42 100
+A
+41 100
+A
+40 100
+A
+25 100
+#8929
+obj fields land ring~
+3
+&CR&ci&Cn&cg &Co&cf &Ct&ch&Ce &yLands&n~
+A ring filled with fury gleems in the darkness.~
+~
+9 4194321 0 3
+15 0 0 0
+30 1500000000 15000
+A
+19 3
+A
+18 3
+A
+12 -30
+#8930
+obj fields landslayer~
+1
+&wThe &yL&Yan&yd&Ks&wlaye&Kr&n~
+The ritual slaying blade of the hatred has left his hands.~
+~
+5 138414148 0 8193
+5120 9 4 11
+3 1230000 45000
+E
+landslayer~
+You hold in your hands a massive blade.  The slayer of lands is an awesome
+weapon, and you are lucky to have killed the Hatred for the blade, yet upon it
+you see some strange symbol, telling you of other battles, not only on the
+fields, but of the caves above it, and the pits below.
+Wonder what it could mean....
+~
+A
+19 3
+A
+18 2
+#8931
+obj fields book emotion~
+2
+&wThe &yBook &wof &bEmotions&n~
+The book of what you feel lies here.~
+~
+9 4194308 0 16385
+0 0 0 0
+12 1234210 12000
+A
+19 6
+A
+18 2
+A
+12 -30
+#8932
+obj fields divine amulet~
+1
+&wThe Amulet of the &GDivine&n~
+The cloak of the divine lies here.~
+~
+9 4235328 263168 5
+20 0 0 0
+7 3500000 15000
+A
+19 4
+A
+18 1
+A
+14 -10
+#8933
+obj fields belt despise~
+4
+&KBelt &wof &BD&bespis&Be&n~
+A belt rests here despising you~
+~
+9 4194308 0 2049
+15 0 0 0
+11 400000 13000
+A
+19 2
+A
+18 3
+A
+12 -25
+#8934
+obj fields shame shackles~
+1
+&yShackles &wof &KShame&n~
+Some tarnished shackles lie here~
+~
+9 4194306 0 257
+50 0 0 0
+13 0 14000
+A
+19 3
+A
+18 3
+A
+13 -35
+A
+14 -35
+#8935
+obj fields pain crown~
+2
+&YC&Rrown &wof &RP&Yain&n~
+A pain adorned crown rests here~
+~
+9 4196864 0 17
+30 0 0 0
+16 3000000 13000
+A
+19 2
+A
+13 -15
+A
+18 3
+A
+36 -1
+#8936
+obj fields holy feet~
+2
+&yfeet &wof the &Choly&n~
+The holy feet have lost their owner.~
+~
+9 4194304 0 65
+20 0 0 0
+14 750000 14000
+A
+19 3
+#8937
+obj fields torment fang~
+3
+&wThe &KFang &wof &CTorment&n~
+A tormented fang is still hearing voices~
+~
+5 4194564 0 24577
+262144 10 4 11
+2 3000000 157500
+A
+19 3
+A
+18 4
+#8938
+obj fields fears sword~
+3
+&bA &cS&bword &bo&cf &cF&bears&n~
+The sword you fear most haunts you~
+~
+5 4194628 0 8193
+67584 9 5 3
+5 12366666 14500
+A
+19 4
+A
+18 2
+A
+42 -2
+#8939
+obj fields God's tail~
+1
+&KG&co&Kd&c'&Ks &cT&Ka&ci&Kl&n~
+The tail of a God lies here peacefully.~
+~
+9 37748737 0 262145
+75 0 0 0
+12 5 13500
+A
+25 1
+A
+19 8
+A
+18 3
+A
+13 -35
+#8940
+obj fields unholy cross~
+1
+&wThe&W Cross of the &KUnholy&n~
+An unholy cross has been left here.~
+~
+9 4194948 0 16385
+20 11 0 0
+11 1234000 13000
+A
+19 6
+A
+18 4
+A
+12 -40
+A
+14 -40
+#8941
+obj fields void arms~
+3
+&GA&gr&Gm&gs &GO&gf &GT&gh&Ge &gV&Go&gi&Gd&n~
+Some smelly dismembered arms lie here in a pool of their own blood~
+~
+9 4194308 0 257
+0 0 0 0
+21 1111111 17500
+A
+19 4
+A
+13 10
+#8942
+obj fields rage gauntlets~
+5
+&bG&Bauntlet&bs &wof &RR&rag&Re&n~
+Rage has lost his gauntlets.~
+~
+9 71303684 0 129
+0 0 0 0
+9 15300 10000
+A
+19 3
+A
+18 2
+#8943
+obj fields despise aura~
+4
+&WAura &wof &BD&bespis&Be&n~
+A rather large aura has been left here~
+~
+1 4194324 0 65537
+0 0 10 0
+12 1320300 14500
+A
+26 -1
+A
+18 3
+A
+19 2
+#8944
+obj fields flesh broken~
+3
+&wthe &rflesh &wof the &bbroken&n~
+The rotted flesh of a creature broken in nature and in his life lies here~
+~
+15 4194320 0 1025
+350 0 0 0
+13 1000000 30000
+A
+19 3
+A
+18 1
+#8945
+obj fields shockblade~
+3
+&YShock&RBlade&n~
+A blade gleams here from the lightning swirling upon it.~
+~
+5 4197187 0 8193
+0 7 5 11
+10 100000 13000
+A
+19 4
+A
+18 2
+#8946
+obj fields angel serrated~
+1
+&WS&we&Wr&wr&Wa&wt&We&wd &WA&wn&Wg&we&Wl&n~
+A merciless blade hints at your death.~
+~
+5 4325377 0 8193
+132096 9 5 11
+4 300000 30000
+A
+19 4
+A
+33 -1
+A
+18 2
+A
+13 -10
+#8947
+obj fields flesh platemail~
+1
+&wThe &Kplatemail &wof &yflesh&n~
+Some rotted fleshy mail lies here~
+~
+9 4196864 0 9
+80 0 0 0
+15 3000000 13500
+A
+19 3
+A
+41 1
+A
+12 -30
+A
+18 1
+#8948
+obj fields hollow skin~
+5
+&wHollow &ySkin&n~
+Some hollowed out wormy flesh is decaying amogst the dirt~
+~
+15 4194817 0 1025
+350 0 0 0
+13 50000000 13000
+A
+17 -50
+A
+13 10
+A
+19 3
+#8949
+obj fields shockblade good~
+2
+&YShock&CBlade&n~
+A blade gleams here from the lightning swirling upon it.~
+~
+5 4194563 0 8193
+263192 5 9 3
+1 5 13500
+#8950
+obj fields shockblade evil~
+2
+&YShock&RBlade&n~
+A blade gleems with the lightning that swirls upon it.~
+~
+5 4196611 0 8193
+264248 4 12 3
+1 5 13000
+A
+19 4
+A
+18 2
+A
+33 -1
+#8951
+obj fields fury claws~
+6
+&rFury's &KClaws &wof &rRevenge&n~
+Fury has left his claws lying here.~
+~
+5 4194305 0 8193
+24 5 8 11
+2 6500000 17500
+A
+19 1
+A
+18 5
+#8952
+obj fields soulsplitter~
+1
+&KS&wo&Ku&wl&KS&wp&Kl&wi&Kt&wt&Ke&wr&n~
+The splitter of souls lies here among the ruins.~
+~
+5 4196866 0 8193
+131648 10 7 3
+3 3000000 15000
+A
+19 3
+A
+18 3
+A
+13 25
+#8953
+obj fields God sheath 2~
+1
+&CS&Wh&Ce&Wa&Ct&Wh &Co&Wf &CG&Wo&Cd&n~
+a large sheath beams the holiness of God upon you~
+~
+9 71305729 0 2049
+15 0 0 0
+15 350000 150000
+A
+19 4
+A
+14 -10
+#8954
+obj dragon claw imm~
+100
+&RThe Claw of the &rDragon &GSha'Ihi&n~
+The claw of the dragon Sha'Ihi lies here amidst the rubble.~
+~
+5 1 64 24577
+1047675 10 10 11
+1 5 5
+A
+41 50
+A
+40 50
+A
+25 5
+A
+9 100
+#8955
+obj fields killer mask~
+2
+&bMask of a Killer&n~
+A killers mask lies here covered in fresh blood.~
+~
+9 4216836 131200 17
+15 0 0 0
+10 10000000 10000
+A
+19 4
+A
+36 -1
+A
+13 -30
+#8956
+obj fields death blade~
+4
+&wThe &KDeath&bBlade&n~
+A fine sword gleems with a look of death.~
+~
+5 538968499 0 8193
+65536 9 5 3
+5 30000000 5
+A
+19 2
+A
+18 2
+#8957
+obj fields flesh cloak~
+2
+&KA Cloak of Flesh&n~
+A fleshy cloak lies here.~
+~
+15 4194816 0 1025
+350 0 0 0
+100 2100000000 10000
+A
+19 4
+A
+18 1
+A
+13 15
+#8958
+obj fields reaper skull~
+6
+&wThe &WSkull &wof the &KReaper&n~
+A skull lies here.~
+~
+9 4194324 1024 16385
+0 0 0 0
+30 10000000 17500
+A
+39 -1
+A
+29 -1
+A
+28 -1
+A
+40 1
+#8959
+obj fields boogie man tooth~
+1
+&wthe &Kboogie man's &Rtooth&n~
+The tooth of the boogie man lies here.~
+~
+5 4196928 0 8193
+6152 3 12 11
+3 35475000 30000
+A
+19 2
+#8960
+obj fields five edged pike~
+2
+&wA five-edged pike&n~
+&wA harsh looking weapon with five edges stains the ground with blood from the recently deceased.&n~
+~
+5 4194820 0 8193
+99 10 5 11
+11 350000 35000
+A
+13 -35
+A
+19 3
+#8961
+obj fields bloody metal fingernail~
+1
+&wa &Rbloodied &Kmetal &yfinger&rnail&n~
+A metal fingernail has been lost among the junk.~
+~
+9 608176657 4 129
+20 0 0 0
+30 55555555 15700
+A
+19 4
+A
+18 1
+A
+14 -25
+#8962
+obj key to judgement~
+6
+&RThe key to judgement&n~
+A key lies here judging you in every aspect.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 5
+#8963
+obj fields vest weeping thorns messiah~
+1
+&wA &yVest &wof &KW&weepin&Kg &rT&Rhorn&rs&n~
+&KA &yvest&K of &rb&Rloo&rd &Kdrenched &rt&Rhorn&rs &Ksits upon the floor.&n~
+~
+9 205523460 0 9
+80 0 0 0
+20 500000 110000
+A
+19 4
+#8964
+obj angel key~
+100
+the angel's key~
+a key leading to angels has been misplaced.~
+~
+18 262144 0 1
+0 1 0 0
+1 5 5
+#8965
+obj lava key~
+10
+&RL&ra&Rv&ra &RK&re&Ry&n~
+&RA lava key lies here&n.~
+~
+18 262144 0 1
+0 1 0 0
+1 5 5
+#8966
+obj key to fields~
+100
+The key to higher ground~
+A key leading to higher ground has been left here.~
+~
+18 262144 0 1
+0 2 0 0
+1 5 5
+#8967
+obj fields blood laced gauntlet lore~
+1
+&RB&rloo&Rd&w-&RL&race&Rd &KG&wauntle&Kt&n~
+A gauntlet is here drenched in blood~
+~
+9 4196884 1028 4097
+20 0 0 0
+3 2000000000 10000
+A
+19 3
+A
+18 3
+A
+12 -30
+#8968
+obj fields spiralblade~
+2
+&K|===|0000Sp&RiralBl&Kade0000>&n~
+&wa blade lies here, spitting off the &Rflames &wof &Rhell&n~
+~
+5 541065744 0 8193
+4112 10 5 3
+4 2147483647 60000
+A
+18 5
+#8969
+obj key to flesh~
+99
+Key to Flesh~
+a key to flesh lies here.~
+~
+18 16 0 1
+0 1 0 0
+1 5 5
+#8970
+obj fields leechworm scroll~
+5
+&wScroll of a &GL&gee&GchW&gor&Gm&n~
+A scroll has been left behind, it has a slimy ooze all over it.~
+~
+2 4456449 0 1
+50 116 116 116
+15 1507500 5
+#8971
+obj bloody fountain~
+100
+&RA Blood Fountain&n~
+&wA &Rblood &wdrenched fountain lies here, oozing the &Ksouls &wof the &KFallen&n.~
+~
+17 0 0 0
+1000000 1000000 13 0
+10000 5 5
+#8972
+obj coffin, nail, bloody~
+100
+A nail filled coffin~
+&wA &Rbloody&w nail-filled coffin rests here.~
+~
+15 0 0 0
+50 0 0 0
+1 5 5
+E
+bloody coffin~
+You see before you a large metal contraption.  The lid is open and you can tell
+right away its a coffin.  The nails protrude from the bottom of the coffin.  They
+are covered in flesh and blood from those who have been unfortunate enough
+to enter it.  Whoever owns this is going to come back, and maybe you shouldn't
+stay around much longer....
+~
+#8973
+obj coria toy imm~
+100
+&PC&Ro&Pr&Ri&Pa &RS&Pq&Ru&Pi&Rs&Ph &RT&Po&Ry&n~
+A Coria squish toy has been left here.~
+~
+1 0 64 16385
+0 0 10 0
+1 5 5
+#8974
+obj static-x poster~
+100
+&wA &KS&wt&Ka&wt&Ki&wc&K-&wX &RPoster&n~
+A Static-X Poster is lying here.~
+~
+1 0 0 16385
+0 0 10 0
+1 5 5
+#8975
+obj Key to honeymoon suite~
+100
+&PH&ConeyMoo&Pn &CS&Puit&Ce &WKey&n~
+The honeymoon suite key lies here.~
+~
+18 0 0 1
+0 0 10 0
+1 5 5
+#8976
+obj tail made of flames quest tail fire~
+100
+&wA &KTail &wmade of &RF&rlame&Rs&n~
+A tail engulfed in flames lies here.~
+~
+9 38010880 0 262145
+140 0 0 0
+1 5 5
+A
+19 10
+A
+18 10
+A
+41 4
+A
+40 4
+#8977
+obj fields judgment symbol~
+4
+&WS&wymbo&Wl &wof &SJ&Su&Sd&Sg&Se&Sm&Se&Sn&St&n~
+The symbol of judgement lies here, emitting rays of escaping light from heaven~
+~
+9 4325635 0 5
+10 0 0 0
+50 3000000 300000
+E
+symbol of judgement~
+&Knindol zhah l'symbol d'khlurysten 
+l'statha d'nindol symbol gos feir
+rath vel'drav grolius zhahus biu 
+wanre l' almighty tremo l'yah d'lil 
+damned keer tremo l' lloun d'judging 
+ji uk orn'la inbal less responsibility
+l'tresk'ri x'khat natha sesspool lueth 
+grolius lueth ukt army d' mzil attempted 
+ulu overcome l'yah d'lil damned jhal wun
+natha hojjau xo'a grolius zhahus elggen 
+wun xonathull natha tremo l'symbol dal 
+t'yin pholor remained wun l'possesion 
+d'lil deceased grolius accompanying
+ukta wun ukt mzil nights judging 
+l'worlds lodias whol vel'uss nind phuul.&n
+~
+A
+19 2
+A
+18 2
+A
+23 -5
+#8978
+obj leechworm altar~
+1
+&wThe Altar of the &GL&gee&GchW&gor&Gm&n~
+&wThe Altar of the &GL&gee&GchW&gor&Gm&n~
+~
+15 8 0 0
+1000 0 0 0
+1 5 5
+#8979
+obj altar judgement~
+1
+&wThe Altar of &KJudgement&n~
+&wThe Altar of &KJudgement&n~
+~
+15 8 0 0
+1000 0 0 0
+1 5 5
+#8980
+obj altar despised~
+1
+&wThe Altar of the &bDespised&n~
+&wThe Altar of the &bDespised&n~
+~
+15 8 0 0
+1000 0 0 0
+1 5 5
+#8981
+obj altar damnation~
+1
+&wThe Altar of &RDamnation&n~
+&wThe Altar of &RDamnation&n~
+~
+15 8 0 0
+1000 0 0 0
+1 5 5
+#8982
+obj quest prize leechworm seal~
+0
+&wThe &YSeal &wof the &GL&gee&GchWo&grm&Gs&n~
+A giant seal of the great LeechWorms rests here.~
+~
+27 4194320 0 5
+30 0 0 0
+100 2147483647 50000
+A
+18 3
+A
+19 4
+#8983
+obj quest pain shroud~
+0
+&KShroud of &RPain&n~
+&KShroud of &RPain&n~
+~
+15 4456456 0 1025
+500 0 0 0
+1 5 5
+A
+40 6
+A
+17 -60
+#8984
+obj quest soulsplitter~
+0
+&KS&wo&Ku&wl&KS&wp&Kl&wi&Kt&wt&Ke&wr&n~
+&KS&wo&Ku&wl&KS&wp&Kl&wi&Kt&wt&Ke&wr&n~
+~
+5 4456968 2048 24577
+131675 10 10 3
+1 5 5
+A
+19 6
+A
+18 2
+A
+17 -50
+#8985
+obj quest chains angel~
+2
+&KChains of an &WAngel&n~
+&KChains of an &WAngel&n~
+~
+9 4456457 0 2049
+30 0 0 0
+1 5 5
+A
+40 4
+A
+19 2
+A
+13 50
+A
+25 2
+#8986
+obj quest skin laced sandals~
+0
+&ySkin &KLaced &ySandals&n~
+&ySkin &KLaced &ySandals&n~
+~
+9 262144 0 65
+30 0 0 0
+1 5 5
+A
+40 2
+A
+19 2
+A
+18 2
+A
+13 25
+$~
+#999999

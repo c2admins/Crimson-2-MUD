@@ -39,18 +39,18 @@ PROG=crimsond
 
 #  File which is the lock file, so that we don't have more than one instance
 #  of the script running at once.
-LOCKFILE=/home/crimson/c2/controlscripts/.testlockfile
+LOCKFILE=~/c2/controlscripts/.testlockfile
 
 #  Where we log info
 LOGFILE=logs/syslog
 
 #  What port this is, should be the name of the directory it's in.
-#  Valid choices are prod, dev, hell, test.
-PORTHOMEDIR=/home/crimson/c2/test
+#  Valid choices are prod or dev.
+PORTHOMEDIR=~/c2/test
 PORTNAME=test
 
 #  Email address alerts go to.
-MAINTAINER=c2pythias@gmail.com
+MAINTAINER=c2admins@gmail.com
 
 #  Subroutines to use when we get some signals
 
@@ -82,6 +82,7 @@ fi
 
 cd ${PORTHOMEDIR}
 ulimit -c unlimited
+export MALLOC_CHECK_=0
 
 #  Trap signals:
 trap terminate SIGTERM
@@ -91,7 +92,7 @@ trap hangup SIGHUP
 if [ -w ${LOCKFILE} ]; then
 	echo "There is already an instance of this script running."
 	echo ""
-	echo "Unpause it by removing ~/test/pause (if necessary) and wait for"
+	echo "Unpause it by removing ~/prod/pause (if necessary) and wait for"
 	echo "it to simply wake up."
 	exit
 fi
@@ -104,13 +105,14 @@ touch ${LOCKFILE}
 ###################
 
 
-while ( : ) do
+while (:) do
 
   DATE=`date`
   echo "autorun starting game $DATE" >> ${LOGFILE}
   echo "running bin/${PROG} ${FLAGS} ${PORT}" >> ${LOGFILE}
+  LD_PRELOAD=/home/crimson/c2/diehard-1.1/src/libdiehard.so bin/${PROG} ${FLAGS} ${PORT} >> ${LOGFILE} 2>&1
 
-  bin/${PROG} ${FLAGS} ${PORT} >> ${LOGFILE} 2>&1
+ #valgrind --tool=memcheck --leak-check=full --track-origins=yes --verbose --log-file=vallog.out
 
   #  Everything after this happens after the binary exits
   #  (whether that be scheduled or because of a crash)
@@ -135,7 +137,7 @@ while ( : ) do
     	rm ${LOCKFILE}
     rm .killscript
     	echo "The autorun script has been halted, please restart it!" >> .letter
-    	mail -s "C2 automail" ${MAINTAINER} < .letter
+    	mail -s "C2 TEST PORT" ${MAINTAINER} < .letter
     	rm .letter
     exit
   fi
@@ -151,15 +153,14 @@ while ( : ) do
     sleep 5
  		if [ -e .letter ]; then
 			echo "The autorun script has been paused, please remove ${PORTHOMEDIR}/.pause for it to resume." >> .letter
-			mail -s "C2 automail" ${MAINTAINER} < .letter
+			mail -s "C2 TEST PORT" ${MAINTAINER} < .letter
 			rm .letter
 		fi
 	done
 
 	if [ -e .letter ]; then
 		echo "This script will now attempt to bring it back up!" >> .letter
-		mail -s "C2 automail" ${MAINTAINER} < .letter
+		mail -s "C2 TEST PORT" ${MAINTAINER} < .letter
 		rm .letter
 	fi
-
 done

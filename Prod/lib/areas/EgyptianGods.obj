@@ -4,7 +4,7 @@ obj anubis bracelet~
 &rb&wr&ra&wc&re&wl&re&wt &Go&gf &YA&yn&Kub&yi&Ys&n~
 a shiny gold bracelet beckons you closer.~
 ~
-9 171987456 0 4097
+9 171987456 131200 4097
 0 0 0 0
 15 2000000 2000
 E
@@ -81,7 +81,7 @@ A
 obj sai anuksonamun~
 2
 &YA&yn&wu&Yk&ys&wo&Yn&ya&wm&Yu&yn&w's &WS&Ka&Wi&n~
-A torch is lying here.~
+A sai is lying on the ground.~
 ~
 5 4196352 1024 8193
 33792 9 4 11
@@ -150,7 +150,7 @@ obj shield scorpion~
 a &Yg&yo&Wld&ye&Yn &rs&wc&Ko&rr&wp&Ki&ro&wn&K-&rs&wh&Ka&rp&we&Kd &Wshield&n~
 a golden scorpion lies here~
 ~
-9 104878592 0 513
+9 104878592 131200 513
 60 0 0 0
 18 20202020 15151
 A
@@ -244,7 +244,7 @@ obj circlet golden~
 &Yg&yo&Yl&yd&Ye&yn &Wcirclet &n~
 a shimering circle made of gold is lying here.~
 ~
-9 71345185 0 17
+9 71345185 262144 17
 20 0 0 0
 14 202020 500
 A
@@ -392,7 +392,7 @@ obj quest1 belt haste~
 &Ythe &Gbelt &Yof &Bh&Wa&Bs&Wt&Be&n~
 A belt is here, flickering in and out of existence.~
 ~
-9 138674176 0 2049
+9 134479872 0 2049
 20 0 0 0
 20 5 5
 A
@@ -468,7 +468,7 @@ obj cloak banished~
 &ythe &wcloak &yof the &rba&Kn&Wi&Ksh&red&n~
 the banished one has left his cloak here.~
 ~
-11 71337988 1024 5
+11 71337988 263168 5
 0 0 0 0
 10 2000000000 15000
 A

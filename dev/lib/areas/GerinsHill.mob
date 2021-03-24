@@ -1,0 +1,670 @@
+#1400
+mob slaad man-frog lesser~
+a Lesser Slaad~
+A small man-frog rests atop the lilipad.
+~
+The creature before you is pale green in color, with wild streaks of grey
+running across its frog-like body.  It stands on two legs and has arms but
+it still looks more like a frog than anything else.
+~
+299082 32769 136249361 33820672 -700 S
+20 20 24 10d19+1600 2d5+20
+53 64500
+8 8 0
+0 0 16 18 16 15 14 13
+SKILL=SKILL_SECOND 40
+SKILL=SKILL_THIRD 20
+#1401
+mob bug goldbug~
+a small, goldbug~
+A small, goldbug scampers across the ground.
+~
+A beetle scampsers across the floor, and the only reason you notice it
+is because it seems to be made of pure gold, as if Midas himself had
+touched it.
+~
+16777288 1 136249361 528448 0 S
+3 34 38 2d5+20 1d1+3
+0 85
+8 8 0
+0 0 12 11 11 9 10 8
+#1402
+mob meazel~
+a Meazel~
+A viscious Meazel stands here.
+~
+The creature before you is small, about the size of a halfling.  It is
+skeletal in appearance, save for the grey leathery skin which covers its
+bones, and for the flowing, but unkept red hair.
+~
+134272076 32769 136249361 100663368 -400 S
+22 18 22 10d19+1700 2d7+27
+100 65000
+8 8 1
+0 0 16 16 15 15 12 15
+SKILL=SPELL_INVISIBLE 5
+SKILL=SKILL_STEAL 75
+SKILL=SKILL_BACKSTAB 30
+SKILL=SKILL_HUNT 50
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#1403
+mob bug assassin~
+an Assassin Bug~
+An Assassin Bug turns in your direction.
+~
+Resembling a giant blue-bottle fly with four limbs, the assassin bug
+seems intent on having a snack in between meals...namely you.
+~
+151028300 32769 136249361 35131456 -350 S
+12 27 32 5d9+130 2d3+12
+0 3650
+8 8 0
+0 0 15 13 14 12 11 11
+SKILL=SPELL_INVISIBLE 25
+SKILL=SKILL_HIDE 30
+SKILL=SKILL_BACKSTAB 20
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_HOLD_PERSON 35
+#1404
+mob cricket cave~
+a cave cricket~
+A giant cave cricket is here.
+~
+This basically harmless giant cave cricket just seems to make a lot of
+noise. You hope it doesn't draw too much attention from the denizens of
+these parts.
+~
+134218184 1 136249361 33554432 0 S
+5 32 37 1d5+32 1d4+4
+0 155
+8 8 0
+0 0 12 11 10 10 10 8
+#1405
+mob adventurer human~
+a human adventurer~
+A human adventurer stands here.
+~
+An adventurer is here dressed in full armor, searching for the door to all
+of Gerin's riches...
+~
+134218316 1081345 136249361 384 -100 S
+21 19 23 10d19+750 3d5+22
+80 64000
+8 8 1
+1 4 16 16 14 16 15 13
+SKILL=SKILL_HUNT 76
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+#1406
+mob Dilbert O'Darby~
+Dilbert~
+Dilbert O'Darby gets another one of his grins on his face.
+~
+Dilbert O'Darby, keeper of Gerin's rules, master of riddles, lost all his
+marbles, prankster, trickster, giggler, juggler, cricket-eater, and of
+course a leprechaun stands grinning before you.
+~
+1141112910 32769 136249361 33816672 -250 S
+38 5 -18 20d49+8000 8d9+55
+3125 220000
+8 8 1
+23 5 20 21 19 20 17 18
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLINDNESS 85
+SKILL=SPELL_INVISIBLE 20
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_SANCTUARY 85
+SKILL=SKILL_STEAL 80
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_HOLD_PERSON 25
+#1407
+mob wall thing~
+a wall-thing~
+A wall-thing is here, trying hard to camoflauge itself.
+~
+You look at the wall, searching for enscriptions or peepholes perhaps, but
+you suddenly realize that this wall is strange, very strange.  It seems
+like it would be soft to the touch, or at least softer than stone.
+~
+67166282 1 136249361 638586914 0 S
+25 15 18 10d39+2000 3d7+25
+0 80000
+8 8 0
+0 0 18 17 16 15 16 15
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#1408
+mob flame elemental~
+a Flame Elemental~
+A Flame Elemental engulfs you in fire!
+~
+The flame wierd is a creature from the Plane of Fire and never have you
+heard of one in 'captivity.'  The fire that makes up a flame wierd is just
+as hot as the real thing, but worse, it has an evil mind of its own.
+You briefly think that maybe the reason no one has told of a flame wierd
+in captivity is because no one has survived!
+~
+1141170250 4227073 136249361 100925536 0 S
+36 7 -14 100d19+4800 9d9+50
+0 250000
+8 8 0
+0 0 21 21 19 20 16 17
+SKILL=SPELL_BURNING_HANDS 89
+SKILL=SPELL_FIREBALL 75
+SKILL=SKILL_DODGE 50
+SKILL=SPELL_FIRE_BREATH 25
+SKILL=SKILL_SECOND 35
+SKILL=SPELL_HEAL_MINOR 35
+SKILL=SPELL_CONFLAGRATION 75
+#1409
+mob Gazer~
+a Gazer~
+A giant, floating Gazer hovers near you.
+~
+A giant, floating eyeball skims before and behind its masterpieces.  To
+look at a Gazer for more than a couple moments will surely cause
+petrification. Fortunately for you, their stare is not instant death and
+a typical person can last several rounds in combat before becoming stoned.
+~
+17084490 32769 136249361 33817760 0 S
+35 8 -10 50d19+1800 25d5+5
+0 245000
+8 8 0
+0 0 19 20 19 18 18 17
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_INVISIBLE 30
+SKILL=SPELL_SLEEP 50
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 30
+SKILL=SPELL_ACID_BREATH 90
+SKILL=SPELL_HOLD_PERSON 80
+#1410
+mob dwarf adventurer~
+a dwarf adventurer~
+A dwarf adventurer is here.
+~
+A dwarvish adventurer is standing before you in full gear.  You know
+for sure that he intends to find the door to Gerin's Tower and take to
+his brethren the riches of a life time.
+~
+134480460 1081345 136249361 302252288 500 S
+22 18 22 40d19+1400 2d5+12
+104 66500
+8 8 1
+2 4 17 16 14 14 17 13
+SKILL=SKILL_BASH 50
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 19
+SKILL=SKILL_HUNT 60
+#1411
+mob Berabus~
+Berabus~
+Berabus, the disheartened stands here.
+~
+Berabus rests here in this room that he has made his home for quite some
+time. He provides bedrolls and warm food for those adventurers that
+wander by...for a small price of course.  Berabus was once like you, trying
+to find the way up, the way to the door.  But now Berabus has realized 
+that he cannot solve this maze, and so he stays and waits until word 
+reaches him that the door has been found.
+~
+263502 32769 136249361 67117088 50 S
+32 11 -1 50d19+3250 3d7+45
+522 195000
+8 8 1
+1 4 19 20 19 19 18 18
+SKILL=SPELL_ARMOR 50
+SKILL=SPELL_BLINDNESS 10
+SKILL=SPELL_MAGIC_MISSILE 89
+SKILL=SPELL_SANCTUARY 20
+SKILL=SKILL_BASH 65
+SKILL=SPELL_CAUSE_CRITIC 85
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 69
+SKILL=SPELL_DARKSIGHT 10
+SKILL=SKILL_SECOND 75
+SKILL=SKILL_THIRD 10
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#1412
+mob Lazarus Longbeard dwarf~
+Lazarus Longbeard~
+Lazarus Longbeard, great dwarven adventurer, stands here.
+~
+Lazarus Longbeard stalks these halls with a red face from his frustration.
+Where is the damn way to the damn door? he keeps asking.  Lazarus seems
+a little upset at the moment so, perhaps it is best not to trouble him.
+But then, he is a dwarf of some repute, perhaps he could tell you what he
+has learned of these confused and twisted hallways.
+~
+134493260 1081345 136249361 100925448 400 S
+34 9 -7 50d19+3750 4d3+38
+713 208000
+8 8 1
+2 7 20 18 17 17 18 17
+SKILL=SPELL_ARMOR 40
+SKILL=SPELL_BLESS 45
+SKILL=SPELL_CHILL_TOUCH 67
+SKILL=SKILL_BASH 50
+SKILL=SKILL_EXTRA_DAMAGE 95
+SKILL=SKILL_PARRY 35
+SKILL=SKILL_DODGE 85
+SKILL=SKILL_SECOND 50
+SKILL=SKILL_THIRD 25
+SKILL=SKILL_FOURTH 10
+SKILL=SPELL_HEAL_MINOR 25
+SKILL=SKILL_HUNT 89
+SKILL=SPELL_HASTE 30
+#1413
+mob meazel higher~
+a High Meazel~
+An angry High Meazel is here.
+~
+The creature before you is small, a little larger than that of a halfling.
+It is skeletal in appearance with a thick grey coat of skin surrounding
+its protruding bones.  It differs from other meazels you have seen mainly 
+long white hair.
+~
+45384 32769 136249361 638058504 -500 S
+30 13 5 50d19+2750 4d5+12
+270 184000
+8 8 0
+0 0 19 18 18 17 14 15
+SKILL=SPELL_COLOUR_SPRAY 35
+SKILL=SPELL_ENERGY_DRAIN 65
+SKILL=SKILL_EXTRA_DAMAGE 50
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SECOND 65
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#1414
+mob snake water mocassin~
+a water mocassin~
+A water mocassin slithers dangerously close.
+~
+A long, black and yellow water mocassin swims dangerously close to your body.
+You hope that it does not bite, as its poison can mean death to the weak of
+constitution.
+~
+16785480 1 136249361 50860032 0 S
+14 25 30 10d9+125 1d4+14
+0 4250
+8 8 0
+0 0 12 12 10 9 7 6
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#1415
+mob fish school~
+a school of fish~
+A school of fish swim by.
+~
+A school of green fish swim by at a leisurely pace.  There is perhaps 20
+fish in this school.  There motions follow one another exactly, and if you
+didn't know better than you would thing that these fish had a central
+intelligence.
+~
+17039432 1 136249361 50594048 0 S
+10 29 34 10d9+75 1d22+0
+0 3150
+8 8 0
+0 0 12 10 11 9 7 6
+#1416
+mob pirahna fish~
+a deadly pirahna~
+A deadly, vicious pirahna senses meat...
+~
+A small dark grey fish with wide eyes swims very fast in your direction.  It
+opens its jaws and rows of sharp fanged teeth become quickly apparent.  A
+chill runs up your spine, these fish are carniverous!
+~
+151052360 8421377 136249361 50331648 -100 S
+10 29 34 5d9+100 1d2+10
+0 3200
+8 8 0
+0 0 11 12 11 9 8 7
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SKILL_SECOND 20
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#1417
+mob frog toad~
+a frog~
+A small green frog bounces across the lilipads.
+~
+A small green frog ribbits then catches a fly with its sticky tongue.
+~
+16777416 1 136249361 4608 0 S
+6 31 36 5d3+33 1d12+1
+0 200
+8 8 0
+0 0 11 12 10 9 7 7
+#1418
+mob Phisher merman~
+Phisher the Merman~
+Phisher the Merman, old friend of Gerin resides in his room.
+~
+Phisher is an old merman, that hasn't heard from his dear friend Gerin in a
+long long while.  His days are never boring though.  Adventurers seem to
+come visit him on a regular basis.  But still, Phisher remembers the days in
+his youth when he and Gerin would go out and explore Crimson World...ah,
+such a long time ago!
+~
+1074008650 1081345 136249361 587464840 250 S
+35 8 -10 50d19+1800 9d3+15
+875 215000
+8 8 1
+13 4 19 21 19 17 15 14
+SKILL=SPELL_ARMOR 95
+SKILL=SPELL_SANCTUARY 85
+SKILL=SKILL_PARRY 25
+SKILL=SPELL_LIGHTNING_BREATH 25
+SKILL=SKILL_SECOND 95
+SKILL=SKILL_THIRD 50
+SKILL=SKILL_FOURTH 10
+SKILL=SPELL_HEAL_MINOR 50
+ATTACK_SKILL=95
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#1419
+mob Ilestriel mermaid~
+Ilestriel~
+Ilestriel, the beautiful mermaid, swims close to her husband's side.
+~
+Ilestriel is the beautiful wife of Phisher.  Her flowing red hair gathers about
+her body in a most attractive way.
+~
+262730 1081345 136249361 50331680 200 S
+28 15 11 20d19+2300 5d5+15
+260 84500
+8 8 2
+13 2 18 20 18 17 15 15
+SKILL=SPELL_CURSE 75
+SKILL=SPELL_MAGIC_MISSILE 95
+SKILL=SPELL_SANCTUARY 95
+SKILL=SKILL_EXTRA_DAMAGE 69
+SKILL=SKILL_DODGE 85
+SKILL=SKILL_SECOND 90
+SKILL=SPELL_HEAL_MEDIUM 55
+#1420
+mob spider giant water~
+a Giant Water Spider~
+A giant Water Spider is crouching on its web.
+~
+A giant hairy spider is crouching in its webbed lair.  In many ways it
+resembles a 10' long tarantula except that its eight legs are very long and
+thin. The many eyes stare at you with a cold silence.  Suddenly, the spider
+makes a shrill chirping sound!
+~
+25534794 32769 136249361 50593824 -300 S
+34 9 -7 50d19+3750 2d3+16
+0 215000
+8 8 2
+0 0 20 20 19 17 18 18
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_CURE_CRITIC 95
+SKILL=SPELL_POISON 99
+SKILL=SKILL_EXTRA_DAMAGE 40
+SKILL=SPELL_ACID_BREATH 90
+SKILL=SKILL_SECOND 95
+SKILL=SKILL_THIRD 33
+SKILL=SKILL_HUNT 95
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#1421
+mob skulker thief~
+a Skulker~
+A shadowy Skulker sneaks in the darkness.
+~
+An almost invisible human figure stands surprisingly close to you.  You can
+just barely make out the outline of this creature.  Its not that its black
+but its almost completely see-thru in the center and gets darker toward the
+outside. A shiver runs up your spine.
+~
+1208254920 3964929 136249361 35127304 -200 S
+34 9 -7 50d19+3850 10d3+12
+675 210000
+8 8 1
+7 3 19 21 18 18 16 17
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 10
+SKILL=SKILL_STEAL 90
+SKILL=SKILL_BACKSTAB 40
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SECOND 95
+SKILL=SKILL_THIRD 50
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_HASTE 50
+#1422
+mob fish germ poison~
+a germ fish~
+A germ fish floats by.
+~
+A pale, puke green flat fish hovers close by in the water.  A series of
+spindly, string-like attenae extend several inches outward from the main
+body.
+~
+16842824 1 136249361 50593825 0 S
+1 35 39 2d5+12 1d2+1
+0 37
+8 8 0
+0 0 12 11 9 9 9 8
+#1423
+mob moss mite~
+a moss mite~
+A green, moss mite sticks to the stones here.
+~
+A glowing piece of green moss sticks to the stones.
+~
+524362 32769 136249361 1140850688 0 S
+1 35 39 2d1+15 1d2+1
+0 32
+8 8 0
+0 0 12 13 9 11 8 6
+SKILL=SKILL_HIDE 99
+#1424
+mob sparky dreaded death dog~
+Sparky~
+The dreaded death-dog, Sparky is here.
+~
+Sparky, the dreaded death-dog, roams around Gerin's hallways, confident at
+no one would even think to bother him.  Sparky, of course, should be in his
+room, but some fool always lets him out.  Sparky is a mut, with short white
+hair.
+~
+1090781256 32769 136249361 570687496 0 S
+40 3 -22 100d29+11250 3d5+15
+0 249500
+8 8 1
+0 0 22 21 21 19 18 18
+SKILL=SPELL_SANCTUARY 60
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 50
+SKILL=SKILL_FOURTH 20
+SKILL=SPELL_HEAL_MINOR 65
+SKILL=SPELL_HASTE 40
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#1425
+mob elf adventurer~
+An elf adventurer~
+An elf adventurer roams the hallways.
+~
+A rarely seen elven adventurer roams the halls of the old mage Gerin.  You
+wonder why you come across few elves, and come to the conclusion that these
+noble people are not as interested in monetary wealth as some of the other
+races.
+~
+134218312 1081345 136249361 0 0 S
+24 16 20 30d19+1700 3d5+11
+150 72500
+8 8 0
+14 4 17 15 14 17 14 9
+SKILL=SPELL_BURNING_HANDS 75
+SKILL=SPELL_MAGIC_MISSILE 75
+SKILL=SPELL_SANCTUARY 50
+SKILL=SKILL_PARRY 35
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 20
+SKILL=SKILL_HUNT 99
+#1426
+mob Morgoth warrior~
+Morgoth~
+Morgoth the High Warrior stands ready for battle.
+~
+Morgoth is a massively muscled human warrior.  He is about 6 feet tall, and
+his entire body is covered in battle scars.  Dressed in pitch black armor,
+with a red pendant around his neck, Morgoth seems entirely too sure of 
+himself. He wields two short swords simultaneously and flashes a rapid
+stacatto of slices in the air.  Morgoth is ready for battle.
+~
+1074008138 32769 136249361 33816712 -100 S
+41 2 -24 100d39+14000 5d7+23
+8760 372500
+8 8 1
+1 4 22 13 9 18 18 16
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 20
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 65
+SKILL=SKILL_FOURTH 33
+#1427
+mob Zorvaine L'Vear thief~
+Zorvaine L'Vear~
+Zorvaine L'Vear, Master Thief, grins evilly at you.
+~
+Zorvaine L'Vear is dressed in black.  He even wears a black eye mask.  He
+kind of looks like Zorro, except without the hat and the cape.  He does
+however, have that fancy-looking mustache that gives him a rather exotic
+look. Zorvaine seems calm to the utmost and is quite ready to kill you.
+~
+1074008138 1343489 136249361 100925640 0 S
+41 2 -24 100d29+14500 5d9+19
+9200 378000
+8 8 1
+1 3 20 16 20 22 10 10
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 50
+SKILL=SKILL_FOURTH 20
+#1428
+mob Melvus mage~
+Melvus~
+Melvus the Mage looks surprised that you are here.
+~
+Melvus is rather surprised to see you.  He is probably wondering how you got
+through his wizard-locked door.  He narrows his eyes and gathers his cloak
+around himself.  Perhaps you will be a foe to be reckoned with.
+~
+1074004558 32769 136249361 100925576 0 S
+39 4 -20 100d19+9500 7d3+82
+4930 239000
+8 8 1
+1 1 12 19 18 10 9 10
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLINDNESS 89
+SKILL=SPELL_IMPROVED_INVIS 99
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_FIREBALL 89
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SUMMON 20
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SECOND 25
+SKILL=SPELL_CONFLAGRATION 99
+#1429
+mob cat familiar tabby~
+a tabby~
+A fat, tabby cat is resting atop the desk.
+~
+The cat is an orange tabby, that appears to be well-fed.  You wonder what
+powers this cat has, as it is the familiar of a formidable wizard.
+~
+16781642 32769 136249361 33816640 0 S
+4 33 37 6d5+12 2d1+3
+0 125
+8 8 1
+0 0 12 12 10 18 8 7
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_EARTHQUAKE 50
+#1430
+mob Syrilla cleric~
+Syrilla~
+Syrilla the Cleric looks happy to see you.
+~
+Syrilla is dressed in a simple, white gown.  Her blonde hair is pushed away
+from her face by a golden loop that rests on her head.  Syrilla smiles.  She
+is ready to give you your test.
+~
+1074004058 32769 136249361 369369216 0 S
+38 5 -18 50d19+3900 9d3+40
+2875 230000
+8 8 2
+1 2 12 18 19 10 10 17
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_POISON 99
+SKILL=SPELL_SLEEP 35
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_SECOND 60
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_HEAL_MAJOR 60
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SPELL_SMITE 99
+#1431
+mob dragonfly fly~
+a dragonfly~
+A dragonfly buzzes around.
+~
+A small black-green dragonfly buzzes around you.
+~
+72 1 136249361 33554432 0 S
+1 35 38 5d3+7 1d2+1
+0 32
+8 8 0
+0 0 11 13 10 10 8 9
+#1432
+mob Thoth speaker~
+Thoth~
+An old, decripit man named Thoth, says a few incoherent words to you.
+~
+Thoth is an old, old man.  His face looks like a pale, white prune, and his
+lips appear to be shriveled up into his mouth.  He says a few incoherent
+words to you pointing at his mouth the whole time.  What could he be saying?
+~
+74 1048577 136249361 0 0 S
+12 27 32 20d3+120 2d5+7
+8 3500
+8 8 1
+1 3 12 11 9 9 8 6
+$~
+#999999

@@ -1,0 +1,190 @@
+#15450
+obj nightshade fairy bottle~
+10
+&GFairy &Kin a &wBottle&n~
+You see a &Gglowing &Wbottle&n resting in the dirt. ~
+~
+1 4194307 0 65537
+0 0 0 0
+1 150000 5
+A
+19 1
+A
+25 1
+#15451
+obj nightshade ring~
+10
+&pNightshade &KRing&n~
+A &pring&n is laying in the dirt here.~
+~
+9 4194304 0 3
+20 0 0 0
+1 5 5
+A
+19 2
+A
+18 2
+#15452
+obj nightshade necklace~
+10
+&pNightshade &KNecklace&n~
+a &pnecklace&n is buried in the dirt~
+~
+9 4194304 0 5
+20 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+#15453
+obj nightshade breastplate breast plate~
+10
+&pNightshade &KBreastplate&n~
+Someone has left their &pBreastplate&n laying in the dirt~
+~
+9 4194304 0 9
+80 0 0 0
+1 5 5
+A
+19 2
+A
+18 2
+A
+37 -1
+#15454
+obj nightshade skullcap~
+10
+&pNightshade &KSkullcap&n~
+Someone has lost their &pskullcap&n here~
+~
+9 4194304 0 17
+20 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+A
+36 -1
+#15455
+obj nightshade leg guards~
+10
+&pNightshade &KLeg Guards&n~
+There are some &pleg guards&n laying in the dirt~
+~
+9 4194304 0 524321
+40 0 0 0
+1 5 5
+A
+19 2
+A
+18 3
+#15456
+obj nightshade boots~
+10
+&pNightshade &KBoots&n~
+There are a pair of &pboots&n rest in the dirt~
+~
+9 4194304 0 65
+20 0 0 0
+1 5 5
+A
+19 2
+A
+18 3
+#15457
+obj nightshade gauntlets~
+10
+&pNightshade &KGauntlets&n~
+Some &pgauntlets&n are laying here in the dirt~
+~
+9 4194304 0 129
+20 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+#15458
+obj nightshade arm guards armguards~
+10
+&pNightshade &KArm Guards&n~
+Someone has left their &parmguards &nhere~
+~
+9 4194304 0 257
+30 0 0 0
+1 5 5
+A
+19 2
+A
+18 3
+#15459
+obj nightshade shield~
+10
+&pNightshade &KShield&n~
+Someone has left their &pshield&n here~
+~
+9 4194304 0 513
+50 0 0 0
+1 5 5
+A
+19 2
+A
+18 2
+#15460
+obj nightshade cloak~
+10
+&pNightshade &KCloak&n~
+A &pcloak&n covered in dirt rests here~
+~
+9 4194304 0 1025
+40 0 0 0
+1 5 5
+A
+19 3
+A
+18 2
+#15461
+obj nightshade belt~
+10
+&pNightshade &KBelt&n~
+There is a buldging &pbelt&n resting here~
+~
+15 4194304 0 2049
+500 0 0 0
+1 5 5
+A
+19 2
+A
+18 3
+A
+17 -15
+#15462
+obj nightshade wrist guard wristguardd~
+10
+&pNightshade &KWrist Guard&n~
+A &pwrist guard&n is here covered in dirt~
+~
+9 4194304 0 4097
+20 0 0 0
+1 5 5
+A
+19 2
+A
+18 2
+#15463
+obj nightshade book written history~
+10
+&KThe &yWritten &wHistory &Kof &pNightshade&n~
+A musty dusty &pbook&n sits here in the dirt~
+~
+9 4194304 0 16385
+20 0 0 0
+1 5 5
+A
+19 5
+A
+18 2
+$~
+#999999

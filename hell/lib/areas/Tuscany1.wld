@@ -1,0 +1,2205 @@
+#21100
+Well Worn Road~
+You are travelling along a very well worn road.  Tracks of both animals and
+humans go in both directions.  There is a small rock on the ground with
+something chisled in it.
+~
+168 4 0 1 99 2
+D1
+The road continues to the east
+~
+~
+0 -1 21101
+D3
+~
+~
+0 -1 14404
+E
+rock~
+..................The Tuscan Kingdom..................
+
+.........created by : Palleon for Crimson II..........
+~
+S
+#21101
+Well Worn Road~
+You are travelling along a very well worn road.  Tracks of both animals and
+humans go in both directions.  There is a small rock on the ground with
+something chisled in it.
+~
+168 8 0 1 99 1
+D1
+~
+~
+0 -1 21102
+D3
+~
+~
+0 -1 21100
+S
+#21102
+Well Worn Road~
+You are travelling along a very well worn road.  Wagon tracks, as well as
+those of humans and animals, can be seen going in both directions.  To the
+east the landscape seems a bit different.
+~
+168 4 0 1 99 2
+D1
+The landscape seems different to the east.
+~
+~
+0 -1 21103
+D3
+A well worn road lies to the west.
+~
+~
+0 -1 21101
+E
+sign~
+The citizens of Tuscany bid you welcome to our
+land. Please announce your arrival at the town
+hall. Feel free to enjoy the wonderment of the
+Altat forest and the gererosity of Lord Telgar.
+The Cavaliers of the Ivory Tower oversee the
+laws of the land, so please report any troubles
+to them.  Enjoy your stay!
+
+someone has carved something into the sign post
+below...
+~
+E
+post~
+BEWARE the mountains!
+~
+S
+#21103
+Ingal Road~
+This is the only well travelled road in the Tuscan kingdom.  The forest to
+the south is incredibly thick and passage into it is impossible.  The border
+lies to the west and there is an intersection to the east.
+~
+168 4 0 1 99 2
+D1
+An intersection lies to the east.
+~
+~
+0 -1 21104
+D3
+The border lies to the west.
+~
+~
+0 -1 21102
+S
+#21104
+Ingal Road at a Path~
+You have arrived at the intersection of Ingal road and the path into the
+Altat forest.  The path to the south leads into the famous Altat forest,
+legendary for its size and its history.  In the past, great battles between
+the forces of Hel and the Rangers of Tungstall's keep, were fought in this
+very forest.
+~
+168 4 0 1 99 2
+D1
+Ingal Road continues to the east.
+~
+~
+0 -1 21105
+D2
+The path leads into the Altat forest.
+~
+~
+0 -1 21113
+D3
+Ingal road continues to the west.
+~
+~
+0 -1 21103
+S
+#21105
+Ingal Road~
+This is the only well travelled road in the Tuscan kingdom.  The forest to
+the south is incredibly thick and passage into it is impossible.  An
+intersection lies to the west and the road continues to the east.
+~
+168 4 0 1 99 2
+D1
+Ingal Road continues to the east.
+~
+~
+0 -1 21106
+D3
+An intersection lies to the west.
+~
+~
+0 -1 21104
+S
+#21106
+Ingal Road~
+This is the only well travelled road in the Tuscan kingdom.  The forest to
+the south is incredibly thick and passage into it is impossible.  The road
+continues to the east and west of here.
+~
+168 4 0 1 99 2
+D1
+The road continues to the east.
+~
+~
+0 -1 21107
+D3
+The road continues to the west.
+~
+~
+0 -1 21105
+S
+#21107
+Ingal Road~
+You hear the sound of flowing water in the distance to the east.  As you
+look you think you can make out a bridge in the distance.  To the west
+the road continues.
+~
+168 4 0 1 99 2
+D1
+You think you see a bridge in the distance.
+~
+~
+0 -1 21108
+D3
+The road continues to the west
+~
+~
+0 -1 21106
+S
+#21108
+Ingal Road Before a Bridge~
+The sound of water is louder now and you can now see the mighty River Cadera
+to the east.  There is a bridge to the east that crosses the river and the
+road continues to the west.
+~
+168 4 0 1 99 2
+D1
+There is a bridge spanning the river.
+~
+~
+0 -1 21109
+D3
+The road continues to the west.
+~
+~
+0 -1 21107
+S
+#21109
+Ingal Bridge~
+You stand upon a huge bridge spanning the mighty River Cadera.  The river
+flows from the north to the south in an awesome display of power.  As far
+as you can tell the river is some three hundred meters wide and it flows
+into the heart of the Altat Forest, to the south.  Ingal road leads away
+from here to the east and west.
+~
+168 4 0 1 99 2
+D1
+Ingal Road continues to the east.
+~
+~
+0 -1 21110
+D3
+The road continues to the west.
+~
+~
+0 -1 21108
+S
+#21110
+Ingal Road Before a Bridge~
+The sound of water is louder now and you can now see the mighty River Cadera
+to the west.  There is a bridge to the west that crosses the river and the
+road continues to the east.
+~
+168 4 0 1 99 2
+D1
+The road continues to the east.
+~
+~
+0 -1 21164
+D3
+A large bridge lies to the west.
+~
+~
+0 -1 21109
+S
+#21111
+River Cadera~
+The water flows powerfully from the north to the south.  Upstream from here
+you can barely make out the outline of an island.  To the south the river
+flows under a huge bridge.
+~
+168 0 0 1 99 7
+D0
+~
+~
+0 -1 21242
+D2
+The river flows to the south.
+~
+~
+0 -1 21112
+S
+#21112
+River Cadera~
+The water flows powerfully from the north to the south.  The river continues
+to the north, however, it is an incredible struggle to go against the
+current. To the south the river flows under a mighty bridge.
+~
+168 0 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21111
+D2
+The river flows under the bridge.
+~
+~
+0 -1 21159
+S
+#21113
+Altat Path~
+This small path leads directly into the heart of the extensive Altat forest.
+Trees surround you to the east and the west, yet this path has been
+perfectly carved out of the forest.  Who or what has the power to control the
+growth of the mightiest forest in the realm?
+~
+168 4 0 1 99 2
+D0
+An intersection lies to the north.
+~
+~
+0 -1 21104
+D2
+The path leads deep into the forest.
+~
+~
+0 -1 21115
+S
+#21114
+River Cadera~
+The water flows powerfully from the north to the south.  The Altat forest
+lines the river's edge so perfectly that it would be impossible to enter it
+from the river.  The river continues to the north under a bridge, however,
+it is an incredible struggle to go against the current.  To the south the
+river carves through the mighty Altat forest.
+~
+168 0 0 1 99 7
+D0
+Upstream, the river flows under the bridge.
+~
+~
+0 -1 21159
+D2
+The river flows to the south.
+~
+~
+0 -1 21118
+S
+#21115
+Altat Path~
+This path continues into the altat forest, and although the forest seems
+as thick as fog, you find that you do not need a light source to find your
+way. The way the trees seem to grow around the path once again raises
+questions in your mind as to the nature of the forest's creation.
+~
+168 4 0 1 99 2
+D0
+The path continues to the north.
+~
+~
+0 -1 21113
+D2
+The path continues to the south.
+~
+~
+0 -1 21119
+S
+#21116
+Altat Forest~
+Standing at the edge of the passable area of the forest, you can see how
+thick the trees and vines have interwound themselves.  Strange that it
+doesn't thicken itself in the area where you stand.  To the east and south
+the forest seems passable.
+~
+168 0 0 1 99 3
+D1
+The forest seems passable to the east.
+~
+~
+0 -1 21117
+D2
+The forest seems passable to the south.
+~
+~
+0 -1 21120
+S
+#21117
+Altat Forest~
+You are standing at the edge of the enormous river Cadera.  Although you
+can see the river from this vantage point, dropping the three hundred feet
+into it would be highly unadvisable.  The passable area of the forest
+continues to the west and south.
+~
+168 0 0 1 99 3
+D2
+The forest seems passable to the south.
+~
+~
+0 -1 21121
+D3
+The forest seems passable to the west.
+~
+~
+0 -1 21116
+S
+#21118
+River Cadera~
+The water flows powerfully from the north to the south.  The Altat Forest
+lies to the west of here and about three hundred feet up a perfectly sheer
+cliff-face. You can see a bridge to the north of here, however, paddling
+upstream is an incredible struggle.  To the south the river flows deeper
+into the forest.
+~
+168 0 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21114
+D2
+Flowing down the river.
+~
+~
+0 -1 21122
+S
+#21119
+Altat Path~
+This path continues into the altat forest, and although the forest seems
+as thick as fog, you find that you do not need a light source to find your
+way. The way the trees seem to grow around the path once again raises
+questions in your mind as to the nature of the forest's creation.
+~
+168 4 0 1 99 2
+D0
+The path continues to the north.
+~
+~
+0 -1 21115
+D2
+The path continues to the south.
+~
+~
+0 -1 21123
+S
+#21120
+Altat Forest~
+Standing at the western edge of the passable area of the forest, you can see
+how thick the trees and vines have interwound themselves.  Strange that it
+doesn't thicken itself in the area where you stand.  To the east, north,
+and south the forest seems passable.
+~
+168 0 0 1 99 3
+D0
+The forest seems passable to the north.
+~
+~
+0 -1 21116
+D1
+The forest seems passable to the east.
+~
+~
+0 -1 21121
+D2
+The forest seems passable to the south.
+~
+~
+0 -1 21124
+S
+#21121
+Altat Forest~
+You are standing at the edge of the enormous river Cadera.  Although you
+can see the river from this vantage point, dropping the one-hundred fifty
+feet into it would be highly unadvisable.  The passable area of the forest
+continues to the west, north and south.
+~
+168 0 0 1 99 3
+D0
+The forest seems passable to the north.
+~
+~
+0 -1 21117
+D2
+The forest seems passable to the south.
+~
+~
+0 -1 21125
+D3
+The forest seems passable to the west.
+~
+~
+0 -1 21120
+S
+#21122
+River Cadera~
+The water flows powerfully from the north to the south.  The Altat Forest
+lies to the west of here and about one-hundred fifty feet up a perfectly
+sheer cliff-face. You can see a bridge to the north of here, however,
+paddling upstream is an incredible struggle.  To the south the river
+eflows deeper into the forest.
+~
+168 0 0 1 99 7
+D0
+Upstream on the River Cadera.
+~
+~
+0 -1 21118
+D2
+The river flows to the south.
+~
+~
+0 -1 21126
+S
+#21123
+Altat Path~
+This path continues into the altat forest, and although the forest seems
+as thick as fog, you find that you do not need a light source to find your
+way. The way the trees seem to grow around the path once again raises
+questions in your mind as to the nature of the forest's creation.
+~
+168 4 0 1 99 2
+D0
+The path continues to the north.
+~
+~
+0 -1 21119
+D2
+There seems to be a turn in the path.
+~
+~
+0 -1 21127
+S
+#21124
+Altat Forest~
+Standing at the western edge of the passable area of the forest, you can see
+how thick the trees and vines have interwound themselves.  Strange that it
+doesn't thicken itself in the area where you stand.  To the east, north,
+and south the forest seems passable.
+~
+168 0 0 1 99 3
+D0
+The forest seems passable to the north.
+~
+~
+0 -1 21120
+D1
+The forest seems passable to the east.
+~
+~
+0 -1 21125
+D2
+The forest seems passable to the south.
+~
+~
+0 -1 21130
+S
+#21125
+Shore of the River Cadera~
+You are standing on the shore of the enormous river Cadera.  The view of
+the river is breath-taking.  It is almost three-hundred meters wide and
+flows with enormous power.  The forest seems powerful to the north, south and
+west. The river lies to the east.
+~
+168 4 0 1 99 2
+D0
+The forest seems passable to the north.
+~
+~
+0 -1 21121
+D1
+The River Cadera lies to the east.
+~
+~
+0 -1 21126
+D2
+The forest seems passable to the south.
+~
+~
+0 -1 21131
+D3
+The forest seems passable to the west.
+~
+~
+0 -1 21124
+S
+#21126
+River Cadera~
+The water flows powerfully from the north to the south.  There is a
+shore-line to the west of here that looks safe enough to land your boat
+at. To the north the river stretches into the distance and it continues
+to the south.
+~
+168 0 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21122
+D2
+The river flows to the south.
+~
+~
+0 -1 21132
+D3
+There is a shore-line there.
+~
+~
+0 -1 21125
+S
+#21127
+Turn in the Altat Path~
+The path makes a turn directly into the forest here.  The path that has
+been so perfectly cut out of the forest to the north, now turns and enters
+a less dense area of the forest itself.  The forest sounds alive
+with the noises of animals.
+~
+168 4 0 1 99 2
+D0
+The path continues to the north.
+~
+~
+0 -1 21123
+D1
+The path seems to end to the east.
+~
+~
+0 -1 21128
+S
+#21128
+End of the Path~
+The path comes to an abrupt end here at a large group of twisted vines
+standing in the way.  The forest surrounds you and you think you can see
+a way into the forest to the east.
+~
+168 4 0 1 99 2
+D1
+The vines interlock in a twisted mesh pattern.
+~
+vines~
+9 -1 21129
+D3
+The path seems to turn to the west.
+~
+~
+0 -1 21127
+S
+#21129
+Entrance to the Altat Forest~
+You have succesfully entered the Altat forest, however this part of the
+forest doesn't seem as heavily wooded as the rest. The trees seem to grow
+with more space between them and there are no interlocking vines here.
+To the north and south the forest still seems impenetrable but the east
+looks passable.
+~
+168 0 0 1 99 3
+D1
+The forest seems passable to the east.
+~
+~
+0 -1 21130
+D3
+The vines interlock in a twisted mesh pattern.
+~
+vines~
+9 -1 21128
+S
+#21130
+Altat Forest~
+You are standing just inside the passable area of the Altat forest.  You
+can see quite clearly here and it seems strange that the vines haven't
+interwound themselves here as they do in other parts of the forest.
+The forest seems passable in all directions.
+~
+168 0 0 1 99 3
+D0
+The forest seems passable to the north.
+~
+~
+0 -1 21124
+D1
+The forest seems passable to the east.
+~
+~
+0 -1 21131
+D2
+The forest seems passable to the south.
+~
+~
+0 -1 21134
+D3
+The entrance to the forest lies to the west.
+~
+~
+0 -1 21129
+S
+#21131
+Altat Forest~
+Standing at the south-eastern edge of the passable area of the forest,
+you can see how thick the trees and vines have interwound themselves.
+Strange that it doesn't thicken itself in the area where you stand.  The
+forest to the west and north seems passable.
+~
+168 0 0 1 99 3
+D0
+The forest seems passable to the north.
+~
+~
+0 -1 21125
+D3
+The forest seems passable to the west.
+~
+~
+0 -1 21130
+S
+#21132
+River Cadera~
+The water flows powerfully from the north to the south.  There is a
+shore-line to the east of here that looks safe enough to land your boat
+at. To the north the river stretches into the distance and it continues
+to the south.
+~
+168 0 0 1 99 7
+D0
+Upstream on the Cadera.
+~
+~
+0 -1 21126
+D1
+The shore-line of the river.
+~
+~
+0 -1 21133
+D2
+The river makes a turn south of here.
+~
+~
+0 -1 21136
+S
+#21133
+Shore of the River Cadera~
+You are standing on the shore of the enormous river Cadera.  The view of
+the river is breath-taking.  It is almost three-hundred meters wide and
+flows with enormous power.  The forest seems powerful to the north and
+south, yet you think you can pass through it to the east.  The river lies
+to the west.
+~
+168 4 0 1 99 2
+D1
+The forest seems passable to the east.
+~
+~
+0 -1 21181
+D3
+The River Cadera flows with intense power.
+~
+~
+0 -1 21132
+S
+#21134
+Altat Forest~
+Passing through the forest you can see the impassable area of the forest
+to the east and west.  You can see how thick the trees and vines have
+interwound themselves and you wonder why it doesn't thicken itself in
+the area where you stand.  The forest seems passable to the north and south.
+~
+168 0 0 1 99 3
+D0
+The forest seems passable to the north.
+~
+~
+0 -1 21130
+D2
+The forest seems passable to the south.
+~
+~
+0 -1 21137
+S
+#21135
+River Cadera~
+The river turns again here and seems to pick up speed.  It is flowing
+with such unnatural force that you think you might shake apart at the limbs.
+Going upstream from here would be incredibly difficult.  The river
+continues to the south.
+~
+168 0 0 1 99 7
+D1
+The river makes another turn to the east.
+~
+~
+0 -1 21136
+D2
+The river continues VERY quickly to the south.
+~
+~
+0 -1 21138
+S
+#21136
+River Cadera~
+The river turns here and seems to pick up speed.  It is flowing with such
+unnatural force that you think you might shake apart at the limbs.  Going
+upstream from here would be incredibly difficult.  The river continues
+to the west.
+~
+168 0 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21132
+D3
+The river takes another turn west of here.
+~
+~
+0 -1 21135
+S
+#21137
+Altat Forest~
+Passing through the forest you can see the impassable area of the forest
+to the east and south.  You can see how thick the trees and vines have
+interwound themselves and you wonder why it doesn't thicken itself in
+the area where you stand.  The forest seems passable to the north and
+to the west a VERY large tree blocks your way.
+~
+168 4 0 1 99 3
+D0
+The forest seems passable to the north.
+~
+~
+0 -1 21134
+D3
+The tree is HUGE and carved into it is the symbol of Mielikki.
+~
+tree~
+9 -1 21147
+S
+#21138
+River Cadera~
+The river picks up incredible speed here and you think you can hear a loud
+roar over the sound of the river.  The forest lies to the east and west
+of here, but you are passing by WAY too fast to land your boat.  The river
+continues to the south.
+~
+168 0 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21135
+D2
+The river flows faster and faster to the south.
+~
+~
+0 -1 21140
+S
+#21139
+Crashing Down the Waterfall~
+You fly over the edge of an ENORMOUS waterfall.  You flap your arms in a
+vain attempt to imitate a bird.
+F
+. A
+. . L
+. . . L
+. . . . I
+. . . . . N
+. . . . . . G
+. . . . . . . .
+. . . . . . . . .
+. . . . . . . . . .
+
+An image of a dragon statuette appears just before you CRASH!!!
+The river continues falling down from here.
+~
+168 268435458 0 1 99 7
+S
+#21140
+River Cadera~
+The river flows faster and faster and you can see the cause of the
+INCREDIBLE roaring.  To the south lies an ENORMOUS waterfall.  You imagine
+that it plummets some 1000 meters before you can't see farther down.  An
+intense feeling of dread overcomes you and you feel that you should leave
+here as soon as possible.  There is a shore-line to the east.
+~
+168 0 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21138
+D1
+The shore-line lies to the east.
+~
+~
+0 -1 21141
+D2
+Unless you've been blessed with luck.  DO NOT GO SOUTH!!!!!!!!!!!!!!!!!
+~
+~
+0 -1 21139
+S
+#21141
+Shore of the River Cadera~
+You are standing on the shore of the enormous river Cadera, just above an
+ENORMOUS waterfall.  The roar of it is deafening and the speed at which
+the river approaches it makes you feel dizzy just watching.  As you peer
+over the edge you can't seem to spot the bottom of it through the intense
+crashing below.  You guess that it is over 1000 meters tall and that it
+would be VERY bad to go over it.  You think that you might be able to pass
+through the forest to the east and the River Cadera lies to the west.
+~
+168 4 0 1 99 2
+D1
+~
+~
+0 -1 21142
+D3
+The river Cadera flows very quickly towards a waterfall.
+~
+~
+0 -1 21140
+D5
+~
+~
+0 -1 21143
+S
+#21142
+Altat Forest~
+Standing near the shore of the River Cadera you notice ho thickly interwined
+the vines and trees of the forest are to the north and south.  You wonder
+why the forest hasn't closed in where you stand like the rest.  You think
+you can pass through to the east.
+~
+168 0 0 1 99 3
+D1
+You notice the Base of a mountain range.
+~
+~
+0 -1 21195
+D3
+The shore-line of the river.
+~
+~
+0 -1 21141
+S
+#21143
+Base of the Waterfall~
+There is water crashing all around you.  You kiss your lucky charm that
+you survived the fall.  Rocks are jutting out all around you and you can't
+see anything.  There is a small staircase behind the waterfall that you
+think might lead to the top.
+~
+168 268435456 0 1 99 7
+D2
+The river flows onward to the south.
+~
+~
+0 -1 21144
+D4
+A small staircase behind the waterfall looks like it leads to the top.
+~
+~
+0 -1 21141
+S
+#21144
+River Cadera~
+The water flows rather calmly to the south from here.  There is an INTENSE
+roaring to the north that you assume is coming from the GIGANTIC waterfall
+that lies there.
+~
+168 268435456 0 1 99 7
+D0
+The base of the waterfall lies to the north.
+~
+~
+0 -1 21143
+D2
+The river flows calmly to the south.
+~
+~
+0 -1 21145
+S
+#21145
+River Cadera~
+The river is flowing quite calmly and you are moving along at a rater
+peaceful rate.  The Altat forest lies to the east and west of here and
+appears to be too thick to enter.  The river continues to the south.
+~
+168 268435456 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21144
+D2
+The river flows calmly to the south.
+~
+~
+0 -1 21146
+S
+#21146
+River Cadera~
+The river continues to the south from here at a very calm pace.  As you
+float along you notice the incredible thickness of it.  The river appears
+to come to an end just south of here.  Strange you've never heard of a
+river just ending.
+~
+168 268435456 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21145
+D2
+The river appears to end.
+~
+~
+0 -1 21207
+S
+#21147
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 0 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21148
+D1
+The forest twists and turns.
+~
+~
+0 -1 21147
+D2
+The forest twists and turns.
+~
+~
+0 -1 21147
+D3
+The forest twists and turns.
+~
+~
+0 -1 21152
+S
+#21148
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 4194304 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21156
+D1
+The forest twists and turns.
+~
+~
+0 -1 21149
+D2
+The forest twists and turns.
+~
+~
+0 -1 21147
+D3
+The forest twists and turns.
+~
+~
+0 -1 21155
+S
+#21149
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 0 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21151
+D1
+The forest twists and turns.
+~
+~
+0 -1 21149
+D2
+The forest twists and turns.
+~
+~
+0 -1 21150
+D3
+The forest twists and turns.
+~
+~
+0 -1 21147
+S
+#21150
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 4194304 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21149
+D1
+You think you spot a way out.
+~
+tree~
+9 -1 21137
+D2
+The forest twists and turns.
+~
+~
+0 -1 21155
+D3
+The forest twists and turns.
+~
+~
+0 -1 21151
+S
+#21151
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 4194304 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21149
+D1
+The forest twists and turns.
+~
+~
+0 -1 21158
+D2
+The forest twists and turns.
+~
+~
+0 -1 21151
+D3
+The forest twists and turns.
+~
+~
+0 -1 21151
+S
+#21152
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 4194304 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21149
+D1
+The forest twists and turns.
+~
+~
+0 -1 21147
+D2
+The forest twists and turns.
+~
+~
+0 -1 21152
+D3
+The forest twists and turns.
+~
+~
+0 -1 21153
+S
+#21153
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 0 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21158
+D1
+The forest twists and turns.
+~
+~
+0 -1 21153
+D2
+The forest twists and turns.
+~
+~
+0 -1 21153
+D3
+The forest twists and turns.
+~
+~
+0 -1 21148
+S
+#21154
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 4 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21147
+D1
+There is a small tree here with a unicorn carved into it.
+~
+tree~
+9 -1 21191
+D2
+The forest twists and turns.
+~
+~
+0 -1 21147
+D3
+The forest twists and turns.
+~
+~
+0 -1 21155
+S
+#21155
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 0 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21150
+D1
+The forest twists and turns.
+~
+~
+0 -1 21148
+D2
+The forest twists and turns.
+~
+~
+0 -1 21157
+D3
+The forest twists and turns.
+~
+~
+0 -1 21156
+S
+#21156
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 4194304 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21156
+D1
+The forest twists and turns.
+~
+~
+0 -1 21150
+D2
+The forest twists and turns.
+~
+~
+0 -1 21154
+D3
+The forest twists and turns.
+~
+~
+0 -1 21157
+S
+#21157
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 4194304 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21156
+D1
+The forest twists and turns.
+~
+~
+0 -1 21152
+D2
+The forest twists and turns.
+~
+~
+0 -1 21158
+D3
+The forest twists and turns.
+~
+~
+0 -1 21157
+S
+#21158
+Altat Forest~
+The forest seems to twist and turn everywhere you look.  It appears that
+you could leave in any direction, but you have no idea which direction
+leads to where.  You are very confused.
+~
+168 4194304 0 1 99 3
+D0
+The forest twists and turns.
+~
+~
+0 -1 21149
+D1
+The forest twists and turns.
+~
+~
+0 -1 21152
+D2
+There seems to be a way out.
+~
+~
+16 -1 21375
+D3
+The forest twists and turns.
+~
+~
+0 -1 21151
+S
+#21159
+Under the Ingal Bridge~
+You float along under the great Ingal bridge.  From here you can see that the
+bridge has no pillars supporting it.  If fact you can't figure out what is
+holding it up.  The construction is absolutely flawless, so much so that you
+can't even see any algea clinging to the bottom.  You sense a very magical
+presense here.  The river continues flowing to the south.
+~
+168 0 0 1 99 6
+D0
+Upstream on the river.
+~
+~
+0 -1 21112
+D2
+The river flows to the south.
+~
+~
+0 -1 21114
+D5
+Under the river's surface
+~
+~
+16 -1 21370
+S
+#21160
+Crashing Underwater~
+..SSSSSSS..PPPPPPP..LL..........A.....SSSSSSS..HH...HH.....!........!.....
+..SS.......PP...PP..LL........AA.AA...SS.......HH...HH....!.!......!.!....
+..SSSSSSS..PPPPPPP..LL.......AAAAAAA..SSSSSSS..HHHHHHH...!!.!!....!!.!!...
+.......SS..PP.......LL.......AA...AA.......SS..HH...HH....!.!......!.!....
+..SSSSSSS..PP.......LLLLLLL..AA...AA..SSSSSSS..HH...HH.....!........!.....
+..~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~....................
+..^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^....!!!......!!!....
+..//////////////////////////....!!!......!!!....
+
+You are gasping for air and can't see a damn thing!
+~
+168 1879050240 536870912 1 99 8
+D4
+~
+water~
+15 21100 21143
+S
+#21161
+Struggling against the Waterfall
+~
+You are fighting the water with everything you've got,  and failing horribly.
+You are tumbling at an incredible rate and you are about to crash upon
+the rocks below.   AAAAAARRRRRGGGGGGGGHHHHHHHH!!!!!!!!
+~
+168 268435460 229376 1 99 7
+D4
+A ton of water crashes down upon you.
+~
+~
+96 -1 21380
+D5
+REALLY BIG ROCKS!!!!!!   And LOTS of water.
+~
+~
+0 -1 21160
+S
+#21162
+Farmer's House~
+This is one of the nicest farming village houses that you have ever seen.
+Clearly the farming business is going well for these villagers.  The house
+is immaculately clean from the spotless wooden floors to the rafters holding
+up the ceiling.  There are several paintings on the wall and the furniture
+is in pristene condition.  There is even a bear-skin rug on the floor.  The
+village path lies to the south.
+~
+168 8 0 1 99 0
+D2
+There is a door there.
+~
+door~
+9 -1 21166
+S
+#21163
+Farmer's House~
+This is one of the nicest farming village houses that you have ever seen.
+Clearly the farming business is going well for these villagers.  The house
+is immaculately clean from the spotless wooden floors to the rafters holding
+up the ceiling.  There are several paintings on the wall and the furniture
+is in pristene condition.  There is even a bear-skin rug on the floor.  The
+village path lies to the south.
+~
+168 8 0 1 99 0
+D2
+There is a door there.
+~
+door~
+9 -1 21167
+S
+#21164
+Ingal Road~
+This is the main road in the kingdom of Tuscany.  It is well worn with tracks
+of humans, wagons and animals.  You can hear the sound of running water to
+the west and there appears to be a village to the east.
+~
+168 4 0 1 99 2
+D1
+A small village lies to the east.
+~
+~
+0 -1 21165
+D3
+The road continues to the west.
+~
+~
+0 -1 21110
+S
+#21165
+Entrance to the Village~
+This is the entrance to a small farming village.  You find it strange that so
+much travel on Ingal Road should lead to a village as small as this.  Although
+you have heard about the fertile lands of Tuscany and you suppose that the
+farmland here must be a part of those stories.
+~
+168 0 0 1 99 1
+D1
+The village path lies to the east.
+~
+~
+0 -1 21166
+D3
+Ingal road lies to the west.
+~
+~
+0 -1 21164
+S
+#21166
+Path Through the Village~
+Walking through the village you can see the farmers moving about on their
+daily rounds.  The village is small but quite well in tact.  The houses are
+in pristine condition and the path you are standing on is remarkably free
+of animal droppings.  Houses lie to the north and south and the village
+continues to the east.  West leads out of the village.
+~
+168 0 0 1 99 1
+D0
+There is a door to a house.
+~
+door~
+9 -1 21162
+D1
+The path continues to the east.
+~
+~
+0 -1 21167
+D2
+There is a door to a house.
+~
+door~
+9 -1 21171
+D3
+The village entrance lies to the west.
+~
+~
+0 -1 21165
+S
+#21167
+Path Through the Village~
+Walking through the village you can see the farmers moving about on their
+daily rounds.  The village is small but quite well in tact.  The houses are
+in pristine condition and the path you are standing on is remarkably free
+of animal droppings.  There is another house to the north and the path
+continues to the east and west.
+~
+168 0 0 1 99 1
+D0
+There is a door to a house there.
+~
+door~
+9 -1 21163
+D1
+The path continues to the east.
+~
+~
+0 -1 21168
+D3
+The path continues to the west.
+~
+~
+0 -1 21166
+S
+#21168
+Path Through the Village~
+Walking through the village you can see the farmers moving about on their
+daily rounds.  The village is small but quite well in tact.  The houses are
+in pristine condition and the path you are standing on is remarkably free
+of animal droppings.  There is a remarkable building to the south.  It is
+two stories tall and made out of solid oak.  The walls and porch have been
+swept clean and there isn't a single nick anywhere in the wood.  Something
+odd, there doesn't seem to be any wick or oil in the lanters out front.  Hmm,
+how do they light them?  There is a huge sign above the door that reads,
+'Merker's General Store'. The path continues to the east and west.
+~
+168 0 0 1 99 1
+D1
+The path turns up ahead and there is as enormous building there.
+~
+~
+0 -1 21169
+D2
+There is a large store to the south.
+~
+~
+0 -1 21172
+D3
+The path continues to the west.
+~
+~
+0 -1 21167
+S
+#21169
+Path Through the Village~
+Walking through the village you can see the farmers moving about on their
+daily rounds.  The village is small but quite well in tact.  The houses are
+in pristine condition and the path you are standing on is remarkably free
+of animal droppings.  There is a HUGE building to the east.  It has a slight
+yellow glow to it even though it is clearly made out of oak.  You can't spot
+and light sources yet the glow is providing more than enough light to see by.
+There are several villagers gathered just outside and there is a sign above
+the door that read, 'Town Meeting Hall'.  There is also another path to the
+south of here.
+~
+168 0 0 1 99 1
+D1
+The Meeting Hall lies to the east.
+~
+~
+0 -1 21170
+D2
+There is a path leading to the farmlands.
+~
+~
+0 -1 21173
+D3
+The path continues to the west.
+~
+~
+0 -1 21168
+S
+#21170
+Meeting Hall~
+This hall is GIGANTIC.  The vaulted ceiling hangs some twenty-five meters
+above your head.  The rows of seats are all hand-crafted and appear to be
+made and decorated individually, possibly so each villager has their own
+specific seat for the meetings.  In the center of the hall there are two
+statues, one of a half-elven mage and one of a human druid.  Their are
+sculptures lining the walls, each individually lit by a magic flame and each
+set on their own small shelf.  The windows of this hall are fantastic both
+in size and in clarity.  There are two gargoyle statues sitting on
+pedestals by the entryway and there are another pair by the front of the
+hall, flanking a huge statue of the goddess Mielikki.  There is a plaque
+suspended in mid-air between the three statues.
+~
+168 136 0 1 99 0
+D3
+The path lies to the west.
+~
+~
+0 -1 21169
+E
+plaque~
+This hall was constructed through the years by the townsfolk of
+Ingal. Each has contributed to it in their own way.  It stands
+as our continuous gift to Milekki for looking down upon us.
+~
+S
+#21171
+Farmer's House~
+This is one of the nicest farming village houses that you have ever seen.
+Clearly the farming business is going well for these villagers.  The house
+is immaculately clean from the spotless wooden floors to the rafters holding
+up the ceiling.  There are several paintings on the wall and the furniture
+is in pristene condition.  There is even a bear-skin rug on the floor.  The
+village path lies to the north.
+~
+168 8 0 1 99 0
+D0
+There is a door there.
+~
+door~
+9 -1 21166
+S
+#21172
+Merker's General Store~
+This store is fantastic.  All around you are rows and rows of fresh fruits,
+vegetables, grains, nuts, etc.  There is a section where you can purchase
+farming tools as well as another place where you can buy books, pens, paper,
+just about anything you want.  Everything is displayed in precise form and
+there is not a spec of dust anywhere.  The store looks much bigger on the
+inside then it did on the outside.  Clearly there is a strong magical force
+at work here.  There is a sign imprinted along the wall above the cashier's
+area. The path lies to the north.
+~
+168 136 0 1 99 0
+D0
+The path lies to the north.
+~
+~
+0 -1 21168
+S
+#21173
+Path to Farmlands~
+This path is a little dusty, but still hardly what one would call dirty.
+This path leads from the village to the fertile farmlands of Tuscany.  You
+can see several farmers wandering here and there with their wagons following
+them. You can't see any horses pulling the wagons so you assume that there
+is a magical force moving the wagons.
+~
+168 4 0 1 99 2
+D0
+The village path lies to the north.
+~
+~
+0 -1 21169
+D2
+The path continues to the south.
+~
+~
+0 -1 21174
+S
+#21174
+Path to Farmlands~
+This path is a little dusty, but still hardly what one would call dirty.
+It leads from the village to the fertile farmlands of Tuscany.  You can see
+several farmers wandering here and there with their wagons following them.
+You can't see any horses pulling the wagons so you assume that there is a
+magical force moving the wagons.  To the south you can see the farmlands
+and to the north lies the village.
+~
+168 0 0 1 99 2
+D0
+The path continues to the north.
+~
+~
+0 -1 21173
+D2
+The farmlands lie to the south.
+~
+~
+0 -1 21177
+D3
+The vines interlock in a twisted mesh there.
+~
+vines~
+9 -1 21226
+S
+#21175
+Corner of the Farmland~
+Standing in the corner of this small field you see the farmers busy at work.
+They tend to the ground with the greatest of ease.  It's almost as if the
+land moves itself beneath thier tools.  To the east and north you can see
+the Altat forest grow right up to the edge of the field, yet it does not
+penetrate this fertile farmland.
+~
+168 0 0 1 99 2
+D1
+The farmland lies to the east.
+~
+~
+0 -1 21176
+D2
+More farmland to the south.
+~
+~
+0 -1 21178
+S
+#21176
+Along the Northern Fence~
+Standing at the northern edge of this small field you see the farmers busy
+at work.  They tend to the ground with the greatest of ease.  It's almost as
+if the land moves itself beneath thier tools.  To the north you can see the
+Altat forest grow right up to the edge of the field, yet it does not
+penetrate this fertile farmland.
+~
+168 0 0 1 99 2
+D1
+More farmland lies to the east.
+~
+~
+0 -1 21177
+D2
+The center of the farmland lies to the south.
+~
+~
+0 -1 21179
+D3
+The farmland lies to the west.
+~
+~
+0 -1 21175
+S
+#21177
+Entrance to the Farmlands~
+Standing at the corner of this small field you see the farmers busy at work.
+They tend to the ground with the greatest of ease.  It's almost as if the
+land moves itself beneath thier tools.  To the east you can see the Altat
+forest grow right up to the edge of the field, yet it does not penetrate
+this fertile farmland.
+~
+168 0 0 1 99 2
+D0
+The path to the village lies to the north.
+~
+~
+0 -1 21174
+D2
+More farmland to the south.
+~
+~
+0 -1 21180
+D3
+More farmland lies to the west.
+~
+~
+0 -1 21176
+S
+#21178
+Along the Western Fence~
+Standing at the eastern edge of this small field you see the farmers busy at
+work. They tend to the ground with the greatest of ease.  It's almost as
+if the land moves itself beneath thier tools.  To the west you can see the
+Altat forest grow right up to the edge of the field, yet it does not
+penetrate this fertile farmland.
+~
+168 0 0 1 99 2
+D0
+More farmland to the north.
+~
+~
+0 -1 21175
+D1
+The center of the farmland lies to the east.
+~
+~
+0 -1 21179
+D2
+More farmland lies to the south.
+~
+~
+0 -1 21184
+S
+#21179
+Center of the Farmland~
+Standing in the center of this small field you see the farmers busy at work.
+They tend to the ground with the greatest of ease.  It's almost as if the
+land moves itself beneath thier tools.  All around here you can see more
+of the farmland.
+~
+168 0 0 1 99 2
+D0
+More farmland to the north.
+~
+~
+0 -1 21176
+D1
+More farmland lies to the east.
+~
+~
+0 -1 21180
+D2
+More farmland lies to the south.
+~
+~
+0 -1 21185
+D3
+More farmland to the west.
+~
+~
+0 -1 21178
+S
+#21180
+Along the Eastern Fence~
+Standing at the eastern edge of this small field you see the farmers busy
+at work.  They tend to the ground with the greatest of ease.  It's almost as
+if the land moves itself beneath thier tools.  To the east you can see the
+Altat forest grow right up to the edge of the field, yet it does not
+penetrate this fertile farmland.
+~
+168 0 0 1 99 2
+D0
+More farmland to the north
+~
+~
+0 -1 21177
+D2
+More farmland lies to the south.
+~
+~
+0 -1 21186
+D3
+The center of the farmland lies to the west.
+~
+~
+0 -1 21179
+S
+#21181
+Altat Forest~
+Passing through this area of the altat forest you can see just how thickly
+interlocked the forest is to the north and south.  Strange that the forest
+doesn't overgrow itself here.  To the west you can hear the distinct sound
+of a river.  To the east the forest seems passable.
+~
+168 0 0 1 99 3
+D1
+The forest seems passable to the east.
+~
+~
+0 -1 21182
+D3
+There is a shore-line to the west.
+~
+~
+0 -1 21133
+S
+#21182
+Edge of the Altat Forest~
+You are standing at the edge of the passable area of the Altat forest.  The
+forest is overgrown very thickly with vines and trees in all directions but
+west. The forrest seems passable to the west.
+~
+168 4 0 1 99 3
+D1
+The vines interlock in a twisted mesh there.
+~
+vines~
+9 -1 21183
+D3
+The forest seems passable to the west.
+~
+~
+0 -1 21181
+S
+#21183
+Path to Farmlands~
+This path is a little dusty, but still hardly what one would call dirty.
+It leads from the Altat forest to the fertile farmlands of Tuscany.  You
+can see several farmers wandering here and there with their wagons following
+them. You can't see any horses pulling the wagons so you assume that there
+is a magical force moving the wagons.  To the west you can see the Altat
+Forest and to the east lie the farmlands.
+~
+168 0 0 1 99 2
+D1
+The farmlands lie to the east.
+~
+~
+0 -1 21184
+D3
+The vines interlock in a twisted mesh there.
+~
+vines~
+9 -1 21182
+S
+#21184
+Corner of the Farmland~
+Standing in the corner of this small field you see the farmers busy at work.
+They tend to the ground with the greatest of ease.  It's almost as if the
+land moves itself beneath thier tools.  To the south you can see the Altat
+forest grow right up to the edge of the field, yet it does not penetrate
+this fertile farmland. To the west there is a path leading up to the Altat
+Forest.
+~
+168 0 0 1 99 2
+D0
+More farmland lies to the north.
+~
+~
+0 -1 21178
+D1
+More farmland lies to the east.
+~
+~
+0 -1 21185
+D3
+There is a path to the west.
+~
+~
+0 -1 21183
+S
+#21185
+Along the Southern Fence~
+Standing at the southern edge of this small field you see the farmers busy
+at work.  They tend to the ground with the greatest of ease.  It's almost as
+if the land moves itself beneath thier tools.  To the south you can see the
+Altat Forest grow right up to the edge of the field, yet it does not
+penetrate this fertile farmland.
+~
+168 0 0 1 99 2
+D0
+The center of the farmlands lies to the north.
+~
+~
+0 -1 21179
+D1
+More farmland lies to the east.
+~
+~
+0 -1 21186
+D3
+More farmland lies to the west.
+~
+~
+0 -1 21184
+S
+#21186
+Corner of the Farmland~
+Standing in the corner of this small field you see the farmers busy at work.
+They tend to the ground with the greatest of ease.  It's almost as if the
+land moves itself beneath thier tools.  To the south you can see the Altat
+Forest grow right up to the edge of the field, yet it does not penetrate
+this fertile farmland.  To the east you can see a path on the other side
+of the fence leading into the forest.
+~
+168 0 0 1 99 2
+D0
+More farmland lies to the north
+~
+~
+0 -1 21180
+D1
+There is a barbed wire fence there.
+~
+fence~
+9 -1 21187
+D3
+More farmland lies to the west.
+~
+~
+0 -1 21185
+S
+#21187
+Small Trail in the Forest~
+This small dusty trail leads into a much less dense area of the Altat forest.
+It appears that you might be coming to the edge of the forest in fact.  To
+the west you can see some farmland through a fence and trail continues into
+the forest to the east.
+~
+168 4 0 1 99 3
+D1
+The trail continues to the east.
+~
+~
+0 -1 21188
+D3
+There is a barbed wire fence there.
+~
+fence~
+9 -1 21186
+S
+#21188
+Small Trail in the Forest~
+This small dusty trail leads through a much less dense area of the Altat
+Forest. However, your hopes of coming to the edge of the forest are not
+materializing. In fact the forest appears to become even more dense to the
+east just beyond a small cave.
+~
+168 4 0 1 99 3
+D1
+You can see a cave in the distance.
+~
+~
+0 -1 21189
+D3
+The trail continues to the west.
+~
+~
+0 -1 21187
+S
+#21189
+Outside a Cave in the Forest~
+You are standing just outside of a cave in the middle of the Altat forest
+just on the edge of the passable area.  There are several blood stains lining
+the edge of the cave as well as on the ground around you.  You can hear
+low growling sounds coming from inside the cave and you think that maybe
+you should tiptoe away with your life.
+~
+168 4 0 1 99 3
+D1
+Inside the cave.
+~
+~
+0 -1 21190
+D3
+The trail leads to the west.
+~
+~
+0 -1 21188
+S
+#21190
+Wolf's Den~
+Ok. Now you've done it.  You've awakened the wolves that were happily
+sleeping here.  The cave is littered with bones of all sizes and there is
+blood (both fresh and dried up) everywhere.  You'd better leave quickly!
+~
+168 9 0 1 99 0
+D3
+Outside the cave.
+~
+~
+0 -1 21189
+S
+#21191
+Circle of Trees~
+The trees here are arranged in a perfect circle.  The stand like solemn
+guards holding out the twisted and dense Altat forest.  Inside the circle
+is a clearing coveder entirely with the greenest grass in all the realms.
+This is a remarkable change from the density of the forest outside the
+clearing that you just made your way through.  There is a very LARGE tree
+to the west.
+~
+168 268435460 0 1 99 2
+D1
+There is a strange rectangular glow in the eastern tree.
+~
+portal~
+9 -1 21192
+D3
+There is a small tree here with an obvious door carved into it.
+~
+tree~
+9 -1 21150
+S
+#21192
+West End of the Grove~
+This is the most pristene grove in all of the realms.  It stands immaculately
+perfect in each and every way.  At this end there is a small flower garden
+with several different species of flowers in it that are clearly not native
+to this climate, yet they grow large and in perfect harmony with the other
+species of plantlife.  The grass is perfectly groomed as are the trees
+both surrounding this area as well as those growing within the confines of
+the grove.  A couple of people can be seen moving about here and WHAT'S THIS!
+One of them just polymorphed into a bear!!!
+~
+168 268435456 0 1 99 2
+D1
+The center of the grove lies to the east.
+~
+~
+0 -1 21193
+D3
+You are looking at the obvious side of a secret door.
+~
+portal~
+9 -1 21191
+S
+#21193
+Center of the Grove~
+The grove only gets more spectacular the more it is gazed upon.  From here
+a small brook can be seen to the east and the arrangement of Shrubs and other
+plants can be observed as the nearly entrancing spectacle that it is.
+Several species of birds have made their holmes in the branches of the
+wonderfully manicured trees that are scattered strategically throughout
+the grove.  You can see clearly now that the people who wander about do
+not do so aimlessly, rather they are in a state of constant grove upkeep.
+Everywhere they go they examine the surroundings with such intricacy that
+you think that they do nothing else with their lives.
+~
+168 268435456 0 1 99 2
+D1
+The eastern edge of the grove.
+~
+~
+0 -1 21194
+D3
+The western end of the grove.
+~
+~
+0 -1 21192
+S
+#21194
+Eastern End of the Grove~
+This is the most fantastic spectacle of gardening that you have ever seen.
+To say that this place has been sculpted by masters would be an extreme
+understatement. The brook at this end of the grove seems to start at the
+northern edge of the grove and ends at the southern edge.  It is crystal
+clear and several colorful species of fish can be seen living within
+it. Your reflection in the water is more clear than any mirror you have ever
+gazed into.  All around you life is abundant and perfect.
+~
+168 268435456 0 1 99 2
+D3
+The center of the grove lies to the west.
+~
+~
+0 -1 21193
+S
+#21195
+The Base of the Beguile Mountains~
+Unable to be seen through the thick canopy of the forest before now, you are
+standing at the base of an enormous mountain range.  The Beguile mountains
+are known the world over as having some of the steepest and most dangerous
+terrain anywhere.  Looking up from here the mountains go right through the top
+of the forest canopy and their peaks cannot be seen through the clouds.
+For a brief second you see something very large fly overhead, then it is gone.
+There are some carvings in the rock here.
+~
+168 4 0 1 99 3
+D3
+The forest seems passable to the west.
+~
+~
+0 -1 21142
+D4
+There is a mountain trail leading upwards.
+~
+~
+0 -1 21196
+E
+rock carvings ~
+Beware the beas...
+~
+S
+#21196
+Climbing on a Mountain Trail~
+Climbing upon this narrow mountain trail you are beginning to understand the
+true size of these magnificent peaks.  As you gaze upward you can see the
+clouds engulfing the tops of the mountains and as you gaze down upon the top
+of the Altat forest, you wonder just how high you'll climb before you come
+to your senses.
+~
+168 0 0 1 99 5
+D2
+The trail continues to the south.
+~
+~
+0 -1 21197
+D5
+The base of the mountains lies below.
+~
+~
+0 -1 21195
+S
+#21197
+Below a Large Crack~
+The trail up the mountain comes to an abrupt end here.  Mountains surround
+you on all sides now and you can't see much from this point.  There is
+a very large crack in the side of the mountain face above you.  If you jump
+and get a good grip you might be able to pull yourself into it and possibly
+climb further up.  If you have the guts that is.
+~
+168 0 0 1 99 5
+D0
+The trail continues to the north.
+~
+~
+0 -1 21196
+D4
+There is a large crack above, that just might be reachable.
+~
+~
+0 -1 21198
+S
+#21198
+Climbing Through a Large Crack~
+The trail up the mountain comes to an abrupt end here.  Mountains surround
+you on all sides now and you can't see much from this point.  There is
+a very large crack in the side of the mountain face above you.  If you jump
+and get a good grip you might be able to pull yourself into it and possibly
+climb further up.  If you have the guts that is.
+~
+168 4 0 1 99 5
+D4
+The top of the crack is directly above.
+~
+~
+0 -1 21201
+D5
+The base of the crack lies below.
+~
+~
+0 -1 21197
+S
+#21199
+Winding Unused Trail~
+This is a strange trail indeed.  There don't appear to be any tracks on
+it yet it is definately not a naturally occuring trail.  The ground is
+very compact and that could be an explanaition, but then again it appears
+like it has been leveled with great effort and skill.  Hmm, aren't dwarves
+very good at shaping land?
+~
+168 0 0 1 99 5
+D1
+The trail continues to the east.
+~
+~
+0 -1 21200
+D2
+The trail appears to end at the top of a large crack.
+~
+~
+0 -1 21201
+S
+$~
+#999999

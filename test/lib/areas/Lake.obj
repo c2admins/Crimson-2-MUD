@@ -1,0 +1,311 @@
+#13100
+obj pond medved shield~
+10
+&ym&we&Kdve&wd&y's &Kshield&n~
+A medved's shield is lying here.~
+~
+9 1048578 0 513
+25 0 0 0
+5 150000 25000
+A
+19 2
+#13101
+obj pond caeba coat~
+25
+&wcaeba's &Kcoat&n~
+A pile of tangled fibers is lying here.~
+~
+9 1048576 0 9
+48 0 0 0
+5 5000 2500
+A
+26 -1
+A
+36 -1
+A
+19 2
+#13102
+obj pond alata pelt~
+10
+&cAl&Gat&ca's pelt&n~
+A plated pelt is lying here.~
+~
+15 1048576 0 1025
+500 0 0 0
+12 50000 15000
+A
+17 -20
+A
+19 2
+A
+18 1
+#13103
+obj pond cuff plated~
+10
+&ca pl&ga&Gted &gc&cuff&n~
+A plated cuff is lying here.~
+~
+9 524352 0 257
+10 0 0 0
+8 100000 20000
+A
+19 2
+A
+13 -10
+#13104
+obj pond alata vertebrae~
+20
+&cAl&Gat&ca's &Wvertebrae&n~
+The vertebrae of some animal is lying here.~
+~
+9 1048578 0 4097
+10 0 0 0
+4 100000 20000
+A
+19 1
+A
+18 1
+#13105
+obj pond shorea wing~
+10
+&ysh&Rorea's wi&yng&n~
+A long, pointed wing lies here.~
+~
+5 1048641 0 8193
+0 6 4 11
+15 200000 50000
+A
+18 3
+A
+19 2
+#13106
+obj pond fuzzy robe blue~
+30
+&cfuzzy &Cblue&c robe&n~
+A pile of fuzzy blue something lies here.~
+~
+9 0 0 1025
+2 0 0 0
+5 100000 25000
+A
+4 2
+#13107
+obj pond mangrove blade~
+5
+&yman&ggr&yove b&Glad&ye&n~
+An odd blade with a wooden hilt is lying here.~
+~
+5 2097153 0 8193
+0 7 6 2
+18 115000 23000
+A
+19 3
+A
+18 3
+#13108
+obj pond lilly essence~
+100
+&Wessence &wof the &Wlilly&n~
+A vial containing the essence of the lily is lying here.~
+~
+10 262144 0 16385
+28 75 0 0
+2 5000 5
+#13109
+obj pond exoskeleton tough~
+10
+&Ka tough &pe&wx&Koskelet&wo&pn&n~
+A tough looking exoskeleton lies here.~
+~
+9 524290 0 9
+21 0 0 0
+20 100000 15000
+A
+19 1
+A
+18 1
+#13110
+obj pond cladoceran helmet~
+7
+&ycl&wa&Kdoce&wr&yan &Khelmet&n~
+An interesting helmet is lying here.~
+~
+9 1048642 0 17
+15 0 0 0
+4 225000 70000
+A
+19 2
+#13111
+obj pond flagella copepod~
+10
+&Rco&rpe&Kpod's flag&rel&Rla&n~
+A detached and rather huge flagella is lying here.~
+~
+5 2097218 0 8193
+0 8 5 2
+15 300000 75000
+A
+19 2
+A
+18 3
+#13112
+obj pond crystallized nymph~
+5
+&cC&Cryst&walized &Cnymp&ch&n~
+A crystallized nymph miniature is lying here.~
+~
+8 1048577 0 16385
+0 0 10 0
+3 250000 45000
+A
+19 2
+A
+18 2
+#13113
+obj pond thismia root~
+10
+&Kth&wi&Gs&wm&Kia &yroot&n~
+A thismis root is lying here.~
+~
+9 1048578 0 2049
+15 0 0 0
+6 170000 45000
+A
+19 2
+#13114
+obj pond pond enchanted cloak~
+10
+&Senc&Shan&Sted &ycloak&n~
+An enchanted cloak is lying here.~
+~
+9 2097217 0 5
+15 0 0 0
+12 200000 50000
+A
+19 2
+A
+1 1
+A
+18 1
+#13115
+obj pond renda cuticle~
+5
+&Kr&we&rnd&wa&K's &Kcuticle&n~
+A piece of waxy cuticle is lying here.~
+~
+9 2097154 0 257
+20 0 0 0
+8 195000 70000
+A
+19 3
+#13116
+obj pond renda ring~
+10
+&Kr&we&rnd&wa&K's &Kring&n~
+The ring of a renda is lying here.~
+~
+9 2097218 0 3
+4 0 0 0
+3 400000 85000
+A
+19 2
+A
+18 2
+A
+13 -10
+#13117
+obj pond necklace amethyst~
+8
+&pam&Pethy&pst &wnecklace&n~
+An amethyst necklace lies here.~
+~
+9 2097216 0 5
+5 0 0 0
+7 250000 75000
+A
+19 2
+A
+13 10
+A
+14 20
+#13118
+obj pond arundina chalice~
+15
+&KAr&wu&Bndin&wa&K's &Yc&yha&Yl&yic&Ye&n~
+A jeweled chalice is lying here.~
+~
+8 2097217 0 16385
+0 0 10 0
+12 400000 100000
+A
+19 4
+A
+13 -10
+#13119
+obj pond opal circlet~
+4
+&Kopal &Wc&wir&Kc&wle&Wt&n~
+An opal circlet is lying here.~
+~
+9 4194368 0 17
+10 0 0 0
+4 450000 90000
+A
+19 4
+A
+18 1
+A
+13 -10
+A
+36 -1
+#13120
+obj pond cerodaphnae shield~
+3
+&Wce&wro&ydaphn&wae&W's &Kshield&n~
+A strange flake of stone is lying here.~
+~
+9 4194368 0 513
+45 0 0 0
+20 400000 100000
+A
+19 3
+A
+18 2
+#13121
+obj medal reward bronze~
+100
+A bronze medal of honour~
+A bronze medal, worth 1 point lies here.~
+~
+9 0 0 16389
+0 0 10 0
+1 5 5
+#13122
+obj medal reward silver~
+100
+A silver medal of honour~
+A silver medal, worth 2 points lies here.~
+~
+9 0 0 16389
+0 0 10 0
+1 5 5
+#13123
+obj medal reward gold~
+100
+A gold medal of honour~
+A gold medal, worth 3 points lies here.~
+~
+9 0 0 16389
+0 0 10 0
+1 5 5
+#13124
+obj medal reward platinum~
+100
+A platinum medal of honour~
+A platinum medal, worth 5 points lies here.~
+~
+9 0 0 16389
+0 0 10 0
+1 5 5
+$~
+#999999

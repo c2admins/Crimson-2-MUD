@@ -1,0 +1,1516 @@
+#7100
+&wThe Entrance to the Temple of Salvation&n~
+&WYou find yourself at a set of white marble steps that seem to go on forever.  As you peer up to the top of the 
+staircase, you can barely make out the outline of a large church-like building.  It appears to be constructed
+from the same white marble as the stairs, and emits a faint glow.  About halfway up the stairs two massive 
+crosses stand tall.  This is a house of the holy.&n
+~
+56 8 0 41 99 1
+D0
+~
+~
+0 -1 20387
+D4
+&WYou climb a marble staircase.
+~
+~
+0 -1 7101
+S
+#7101
+&wAt the Gates of the Temple of Salvation&n~
+&WLooking forward you are put in awe at the massive beauty that is The Temple of Salvation.  Stone carved figures
+jump out at you, because the detail is so realistic.  Beautiful staind glass windows extend for hundreds of
+feet.  And in front of you stands a mighty guardian.  It is apparent that if you want to enter this marvel,
+you will have to go through him first.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+Holy Door~
+15 7100 7102
+D5
+~
+~
+0 -1 7100
+S
+#7102
+&wThe Foyer of the Temple of Salvation&n~
+&WAround you are walls that extend for hundreds of feet in the air, made completely out of white marble.  They
+reach up to a ceiling that is made thick stained glass, making light of all different &xc&xol&xo&xrs &Wshine down
+on to you.  Members of the clergy sweep past you, tending to their business with the temple.  They are all
+very quiet, and keep to themselves.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7103
+D1
+~
+~
+0 -1 7104
+D2
+~
+Holy Door~
+33 7100 7101
+D3
+~
+~
+32 -1 7105
+D4
+~
+~
+9 0 7185
+S
+#7103
+&wInside the Temple of Salvation&n~
+&WAround you are walls that extend for hundreds of feet in the air, made completely out of white marble.  They
+reach up to a ceiling that is made thick stained glass, making light of all different &xc&xo&xlo&xrs &Wshine down
+on to you.  Members of the clergy sweep past you, tending to their business with the temple.  They are all
+very quiet, and keep to themselves.&n
+~
+56 268435464 0 1 99 1
+D2
+~
+~
+0 -1 7102
+D5
+The cellar of the Temple of Salvation.
+~
+~
+32 -1 7113
+S
+#7104
+&wInside the Temple of Salvation&n~
+&WAround you are walls that extend for hundreds of feet in the air, made completely out of white marble.  They
+reach up to a ceiling that is made thick stained glass, making light of all different &xc&xol&xo&xrs &Wshine down
+on to you.  Members of the clergy sweep past you, tending to their business with the temple.  They are all
+very quiet, and keep to themselves.&n
+~
+56 268435464 0 1 99 1
+D1
+~
+~
+0 -1 7107
+D3
+~
+~
+0 -1 7102
+S
+#7105
+&RThe Hall of the Cardinals&n~
+&rThe entire west wing of the temple is where the cardinals reside.  These are the men closest in ranking to
+the High Priest Kaczy.  The walls, floor, and ceiling are all one color, blood red.  Even the doors are
+constructed of the red marble.  The occasional &Wwhite marble cross&r jumps out at you, but other then that,
+it is like drowning in a sea of blood.&n
+~
+56 268435464 0 1 99 1
+D1
+~
+~
+32 -1 7102
+D3
+&rblood red
+~
+~
+0 -1 7121
+S
+#7106
+&wInside the Temple of Salvation&n~
+&WYou are taken back with a feeling of great deity as you walk the halls of Salvation.  Members of the clergy
+sweep past you, tending to their business with the temple.  They are all very quiet, and keep to themselves.  The
+silence is almost erie, and any noise could no doubt be heard throughout the entire temple.&n
+~
+56 8 0 1 99 1
+D1
+~
+~
+0 -1 7106
+D3
+~
+~
+0 -1 7104
+S
+#7107
+&wInside the Temple of Salvation&n~
+&WAround you are walls that extend for hundreds of feet in the air, made completely out of white marble.  They
+reach up to a ceiling that is made thick stained glass, making light of all different &xc&xol&xo&xrs &Wshine down
+on to you.  Members of the clergy sweep past you, tending to their business with the temple.  They are all
+very quiet, and keep to themselves.&n
+~
+56 268435464 0 1 99 1
+D0
+n
+~
+~
+32 -1 7108
+D1
+the temple
+~
+~
+0 -1 7135
+D3
+~
+~
+0 -1 7104
+S
+#7108
+&CThe Hall of the &GHigh Priest Kaczy&n~
+&WYou walk down a &Rsilk red carpet&W towards the room that belongs to the man in charge of The Temple of
+Salvation, the High Priest Kaczy. All along the walls are pictures of him and those who ruled before him.
+Statues of saints stand twice your size on either side of the carpet, and they almost seem to be following you
+with their eyes.  The mighty ruler does not like to be bothered unless it is an issue of grave importance.&n
+~
+56 268435464 0 1 99 1
+D0
+n
+~
+~
+0 -1 7109
+D2
+~
+~
+0 -1 7107
+S
+#7109
+&CThe Hall of the &GHigh Priest Kaczy&n~
+&WYou walk down a &Rsilk red carpet&W towards the room that belongs to the man in charge of The Temple of
+Salvation, the High Priest Kaczy. All along the walls are pictures of him and those who ruled before him.
+Statues of saints stand twice your size on either side of the carpet, and they almost seem to be following you
+with their eyes.  The mighty ruler does not like to be bothered unless it is an issue of grave importance.&n
+~
+56 268435464 0 1 99 1
+D0
+n
+~
+~
+0 -1 7110
+D2
+~
+~
+0 -1 7108
+S
+#7110
+&CThe Hall of the &GHigh Priest Kaczy&n~
+&WYou walk down a &Rsilk red carpet&W towards the room that belongs to the man in charge of The Temple of
+Salvation, the High Priest Kaczy. All along the walls are pictures of him and those who ruled before him.
+Statues of saints stand twice your size on either side of the carpet, and they almost seem to be following you
+with their eyes.  The mighty ruler does not like to be bothered unless it is an issue of grave importance.&n
+~
+56 268435464 0 1 99 1
+D1
+~
+~
+35 0 7111
+D2
+~
+~
+0 -1 7109
+S
+#7111
+&CRoom of the Guardian&n~
+&WThis room is just south of the chambers of mighty High Priest Kaczy.  A guardian of Kaczy lives here, who's
+mission is life is to protect him, and make sure that no un-welcome visitors venture north.  The guardian is
+a half human-half bird, trained from the day he was born to kill.  In exchange for his service, the guardian
+is given almost all privileges that Kaczy himself gets, as well as one of the finest rooms in the temple.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+Kaczy Door~
+3 7103 7112
+D3
+~
+~
+33 0 7110
+S
+#7112
+&GThe Chambers of the High Priest Kaczy&n~
+&WThis is where the mighty ruler of the Temple of Salvation resides.  His room is larger then any other in
+the temple.  The walls are covered with inscriptions of some sort of language that you cannot understand.
+The room has everything one would need to live, and you can tell that the High Priest stays in his chambers
+for months, possibly years at a time.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+41 0 7144
+D2
+~
+~
+33 0 7111
+S
+#7113
+&yThe Basement of the Temple of Salvation&n~
+&KThe basement of the temple is a very merky place.  It is cold, dark, and damp.  You feel very uncomfortable
+down here.&n
+~
+56 268435464 0 1 99 1
+D0
+nothing special
+n
+~
+~
+0 -1 7114
+D1
+nothing special
+~
+~
+0 -1 7118
+D2
+nothing special
+s
+~
+~
+0 -1 7116
+D3
+nothing special
+~
+~
+0 -1 7117
+D4
+nothing special
+~
+~
+0 -1 7103
+S
+#7114
+&yThe Basement of the Temple of Salvation&n~
+&KThe basement of the temple is a very merky place.  It is cold, dark, and damp.  You feel very uncomfortable
+down here.&n
+~
+56 268435464 0 1 99 1
+D2
+nothing special
+~
+~
+1 0 7113
+D5
+a pit.
+~
+~
+32 -1 7115
+S
+#7115
+&rPit of the Guardians&n~
+&wIt appears that you have fallen into a pit where they raise guardians for the High Priest Kaczy.  These
+small half man-half birds are not nearly as tough as their larger versions, but one day, they will be trained
+to kill.&n
+~
+56 268435468 0 1 99 1
+S
+#7116
+&yThe Basement of the Temple of Salvation&n~
+&KThe basement of the temple is a very merky place.  It is cold, dark, and damp.  You feel very uncomfortable
+down here.&n
+~
+56 268435464 0 1 99 1
+D0
+nothing special
+~
+~
+0 -1 7113
+D5
+a pit
+~
+~
+32 -1 7134
+S
+#7117
+&yThe Basement of the Temple of Salvation&n~
+&KThe basement of the temple is a very merky place.  It is cold, dark, and damp.  You feel very uncomfortable
+down here.&n
+~
+56 268435464 0 1 99 1
+D1
+nothign special
+~
+~
+0 -1 7113
+D5
+a pit
+~
+~
+32 -1 7120
+S
+#7118
+&yThe Basement of the Temple of Salvation&n~
+&KThe basement of the temple is a very merky place.  It is cold, dark, and damp.  You feel very uncomfortable
+down here.&n
+~
+56 268435464 0 1 99 1
+D3
+nothing special
+~
+~
+0 -1 7113
+D5
+a pit.
+~
+~
+32 -1 7119
+S
+#7119
+&rPit of the Guardians&n~
+&wIt appears that you have fallen into a pit where they raise guardians for the High Priest Kaczy.  These
+small half man-half birds are not nearly as tough as their larger versions, but one day, they will be trained
+to kill.&n
+~
+56 268435464 0 1 99 1
+S
+#7120
+&rPit of the Guardians&n~
+&wIt appears that you have fallen into a pit where they raise guardians for the High Priest Kaczy.  These
+small half man-half birds are not nearly as tough as their larger versions, but one day, they will be trained
+to kill.&n
+~
+56 268435464 0 1 99 1
+S
+#7121
+&RThe Hall of the Cardinals&n~
+&rThe entire west wing of the temple is where the cardinals reside.  These are the men closest in ranking to
+the High Priest Kaczy.  The walls, floor, and ceiling are all one color, blood red.  Even the doors are
+constructed of the red marble.  The occasional &Wwhite marble cross&r jumps out at you, but other then that,
+it is like drowning in a sea of blood.&n
+~
+56 268435464 0 1 99 1
+D0
+The Cardinals Private Church
+~
+~
+0 0 7133
+D1
+&rblood red.
+~
+~
+0 -1 7105
+D3
+&rblood red
+~
+~
+0 -1 7122
+S
+#7122
+&RThe Hall of the Cardinals&n~
+&rThe entire west wing of the temple is where the cardinals reside.  These are the men closest in ranking to
+the High Priest Kaczy.  The walls, floor, and ceiling are all one color, blood red.  Even the doors are
+constructed of the red marble.  The occasional &Wwhite marble cross&r jumps out at you, but other then that,
+it is like drowning in a sea of blood.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+1 0 7125
+D1
+&rblood red
+~
+~
+0 -1 7121
+D3
+&rblood red.
+~
+~
+0 -1 7123
+S
+#7123
+&RThe Hall of the Cardinals&n~
+&rThe entire west wing of the temple is where the cardinals reside.  These are the men closest in ranking to
+the High Priest Kaczy.  The walls, floor, and ceiling are all one color, blood red.  Even the doors are
+constructed of the red marble.  The occasional &Wwhite marble cross&r jumps out at you, but other then that,
+it is like drowning in a sea of blood.&n
+~
+56 268435464 0 1 99 1
+D1
+&rblood red.
+~
+~
+0 -1 7122
+D3
+The Room of Gutin.
+~
+gutin door~
+47 7106 7124
+S
+#7124
+&RThe Room of Gutin, The Head Cardinal&n~
+&rYou are in the room of a very, very powerful man.  While Kaczy has the most athority at the Temple of
+Salvation, Cardinal Gutin is by far the strongest man or creature around.  He will most likely take over
+for Kaczy when he steps down.  His room walls keep the same blood red coloring as the hallway, with a single
+enormus &Wwhite cross&r mounted on his wall.&n
+~
+56 268435464 0 1 99 1
+D1
+&rblood red.
+~
+~
+33 0 7123
+S
+#7125
+&BThe Cardinal's Private Courtyard&n~
+&wThe courtyard is breathtaking, with beautiful flowers, trees, bushes, and a fountain at the center of
+the plush grass lawn.  The grass is so soft that the cardinals often wear no shoes while in the courtyard.
+To the north you see a path that looks like it leads to a graveyard.&n
+~
+56 268435464 0 1 99 1
+D0
+a path
+~
+~
+0 -1 7126
+D2
+&rblood red.
+~
+~
+1 0 7122
+S
+#7126
+&WA gravel path&n~
+&wWalking along the path you can see rolling hills in the distance, with grave stones and memorials in it.&n
+~
+56 268435464 0 1 99 1
+D0
+The Cardinal Graveyard
+~
+~
+0 -1 7127
+D2
+a courtyard
+~
+~
+0 -1 7125
+S
+#7127
+&KCardinals Graveyard&n~
+&yAll around you are head stones with enscriptions on them, as well as large tombs holding the remains of
+the cardinals of the Temple of Salvation.  To be buried here, one must die as a cardinal, so to reside here
+after death is a great honor.&n
+~
+56 268435464 0 1 99 1
+D0
+graveyard
+~
+~
+0 -1 7128
+D1
+graveyard
+~
+~
+0 -1 7129
+D2
+a path
+~
+~
+0 -1 7126
+D3
+graveyard
+~
+~
+0 -1 7131
+S
+#7128
+&KCardinals Graveyard&n~
+&yAll around you are head stones with enscriptions on them, as well as large tombs holding the remains of
+the cardinals of the Temple of Salvation.  To be buried here, one must die as a cardinal, so to reside here
+after death is a great honor.&n
+~
+56 268435464 0 1 99 1
+D1
+graveyard
+~
+~
+0 -1 7130
+D2
+s
+~
+~
+0 -1 7127
+D3
+graveyard
+~
+~
+0 -1 7132
+S
+#7129
+&KCardinals Graveyard&n~
+&yAll around you are head stones with enscriptions on them, as well as large tombs holding the remains of
+the cardinals of the Temple of Salvation.  To be buried here, one must die as a cardinal, so to reside here
+after death is a great honor.&n
+~
+56 268435464 0 1 99 1
+D0
+graveyard
+~
+~
+0 -1 7130
+D3
+graveyard
+~
+~
+0 -1 7127
+S
+#7130
+&KCardinals Graveyard&n~
+&yAll around you are head stones with enscriptions on them, as well as large tombs holding the remains of
+the cardinals of the Temple of Salvation.  To be buried here, one must die as a cardinal, so to reside here
+after death is a great honor.&n
+~
+56 268435464 0 1 99 1
+D2
+graveyard
+~
+~
+0 -1 7129
+D3
+graveyard
+~
+~
+0 -1 7128
+S
+#7131
+&KCardinals Graveyard&n~
+&yAll around you are head stones with enscriptions on them, as well as large tombs holding the remains of
+the cardinals of the Temple of Salvation.  To be buried here, one must die as a cardinal, so to reside here
+after death is a great honor.&n
+~
+56 268435464 0 1 99 1
+D0
+graveyard
+~
+~
+0 -1 7132
+D1
+graveyard
+~
+~
+0 -1 7127
+S
+#7132
+&KCardinals Graveyard&n~
+&yAll around you are head stones with enscriptions on them, as well as large tombs holding the remains of
+the cardinals of the Temple of Salvation.  To be buried here, one must die as a cardinal, so to reside here
+after death is a great honor.&n
+~
+56 268435464 0 1 99 1
+D1
+graveyard
+~
+~
+0 -1 7128
+D2
+graveyard
+~
+~
+0 -1 7131
+S
+#7133
+&WThe Cardinal's Private Church&n~
+&wThe Cardinal's church is made from the same white marble as the rest of the temple, and is the only room in
+the Hall of the Cardinals that is not blood red.  There are magnificent stained glass windows, and lines of
+polished oak pues.&n
+~
+56 268435464 0 1 99 1
+D2
+&rblood red.
+~
+~
+0 0 7121
+S
+#7134
+&rPit of the Guardians&n~
+&wIt appears that you have fallen into a pit where they raise guardians for the High Priest Kaczy.  These
+small half man-half birds are not nearly as tough as their larger versions, but one day, they will be trained
+to kill.&n
+~
+56 268435464 0 1 99 1
+S
+#7135
+&wInside the Temple of Salvation&n~
+&WAround you are walls that extend for hundreds of feet in the air, made completely out of white marble.  They
+reach up to a ceiling that is made thick stained glass, making light of all different &xc&xol&xo&xrs &Wshine down
+on to you.  Members of the clergy sweep past you, tending to their business with the temple.  They are all
+very quiet, and keep to themselves.&n
+~
+56 268435464 0 1 99 1
+D1
+e
+~
+~
+0 -1 7136
+D3
+inside the temple
+~
+~
+0 -1 7107
+S
+#7136
+&wInside the Temple of Salvation&n~
+&WAround you are walls that extend for hundreds of feet in the air, made completely out of white marble.  They
+reach up to a ceiling that is made thick stained glass, making light of all different &xc&xol&xo&xrs &Wshine down
+on to you.  Members of the clergy sweep past you, tending to their business with the temple.  They are all
+very quiet, and keep to themselves.&n
+~
+56 268435464 0 1 99 1
+D0
+dawn @
+~
+~
+9 0 7137
+D1
+nothing special
+~
+~
+0 -1 7138
+D3
+the temple
+~
+~
+0 -1 7135
+S
+#7137
+&rDawn's Room&n~
+&pThis room has a big feather bed with &rred satin sheets&p, and various stuffed animals sit on the pillows.
+There are a dozen roses in a vase on the dresser, most likely a present from Kaczy.  On the wall is an enormous 
+painting of Kaczy and Dawn standing together.  You look on the bed and see a small &ysoft stuffed brown bear&p,
+and it almost feels like he it watching you.  The High Priest obviously takes very good care of his one true
+love.&n
+~
+56 268435464 0 1 99 1
+D2
+nothing special
+~
+~
+1 0 7136
+S
+#7138
+&wInside the Temple of Salvation&n~
+&WAround you are walls that extend for hundreds of feet in the air, made completely out of white marble.  They
+reach up to a ceiling that is made thick stained glass, making light of all different &xc&xol&xo&xrs &Wshine down
+on to you.  Members of the clergy sweep past you, tending to their business with the temple.  They are all
+very quiet, and keep to themselves.&n
+~
+56 268435464 0 1 99 1
+D0
+the courtyard
+~
+~
+0 -1 7139
+D2
+~
+~
+0 -1 7161
+D3
+nothign special
+~
+~
+0 -1 7136
+D4
+nothing special.
+~
+~
+0 -1 7151
+S
+#7139
+&BThe Temple Courtyard&n~
+&wThe courtyard is a very large beautiful park.  The bushes are trimmed in shapes of crosses, the tress are tall,
+and the grass is plush.  The clergmen around you are walking with no shoes on.  The courtyard has a large 
+fountain in the center, and a large well to the east.&n
+~
+56 268435464 0 1 99 1
+D0
+a path
+~
+~
+0 -1 7142
+D1
+~
+~
+0 -1 7140
+D2
+nothing special
+~
+~
+0 -1 7138
+S
+#7140
+&BThe Temple Courtyard&n~
+&wThe courtyard is a very large beautiful park.  The bushes are trimmed in shapes of crosses, the tress are tall,
+and the grass is plush.  The clergmen around you are walking with no shoes on.  In front of you is a very large
+well.&n
+~
+56 268435464 0 1 99 1
+D3
+nothign special
+~
+~
+0 -1 7139
+D5
+a deep....dark well......
+~
+~
+32 -1 7141
+S
+#7141
+&KThe Bottom of the Well&n~
+&WYou &rstrike &Wyour head on a jutting &Krock&W, as you fall into this &Kdark pit&W. When you come to, you find yourself standing in
+nearly 4 feet of &Sw&Sa&St&Se&Sr&W. &C&fPanic &Wovercomes you. You try desperately to find a way to climb out of this &Kp&wr&Ki&ws&Ko&wn&W. As you grip
+the walls, you notice they are covered with dried &rblood&W. &YFinger&ynails &Ware adhered to the rock by the &rblood&W. You realize
+that you are not the first, nor will you be the last left here to &Rdie&W.
+~
+56 1879146636 1610612736 1 99 1
+S
+#7142
+&BThe Temple Courtyard&n~
+&wThe courtyard is a very large beautiful park.  The bushes are trimmed in shapes of crosses, the tress are tall,
+and the grass is plush.  The clergmen around you are walking with no shoes on. &n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7143
+D2
+courtyard
+~
+~
+0 -1 7139
+S
+#7143
+&WA gravel path&n~
+&wWalking along the path you can see rolling hills in the distance, with grave stones and memorials in it.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7145
+D2
+nothing special
+~
+~
+0 -1 7142
+S
+#7144
+&KThe High Priest Graveyard&n~
+&yLaid out across a grassy field are several tombs the size of houses.  All who held the high rank before Kaczy
+rest here.  One day, when he passes on to the afterlife, Kaczy will be buried here as well.  The tombs are
+made of pure gold and silver, glowing in the sunlight.  The tombs are a home to the deceased, comparable to
+no other except the great pyrimids of Egypt. &n
+~
+56 268435464 0 1 99 1
+D2
+~
+~
+1 0 7112
+S
+#7145
+&KThe Temple Graveyard&n~
+&yIn this graveyard, all of the head stones are the exact same shape and size.  The symmetry is almost eerie.
+The men burried here never advanced to the rank of High Priest or Cardinal, but they were still strongly
+dedicated to the temple.  Who knows what kind of spirits could wonder this graveyard.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7146
+D1
+~
+~
+0 -1 7148
+D2
+~
+~
+0 -1 7143
+D3
+~
+~
+0 -1 7150
+S
+#7146
+&KThe Temple Graveyard&n~
+&yIn this graveyard, all of the head stones are the exact same shape and size.  The symmetry is almost eerie.
+The men burried here never advanced to the rank of High Priest or Cardinal, but they were still strongly
+dedicated to the temple.  Who knows what kind of spirits could wonder this graveyard.&n
+~
+56 268435464 0 1 99 1
+D1
+~
+~
+0 -1 7147
+D2
+~
+~
+0 -1 7145
+D3
+~
+~
+0 -1 7149
+S
+#7147
+&KThe Temple Graveyard&n~
+&yIn this graveyard, all of the head stones are the exact same shape and size.  The symmetry is almost eerie.
+The men burried here never advanced to the rank of High Priest or Cardinal, but they were still strongly
+dedicated to the temple.  Who knows what kind of spirits could wonder this graveyard.&n
+~
+56 268435464 0 1 99 1
+D2
+~
+~
+0 -1 7148
+D3
+~
+~
+0 -1 7146
+S
+#7148
+&KThe Temple Graveyard&n~
+&yIn this graveyard, all of the head stones are the exact same shape and size.  The symmetry is almost eerie.
+The men burried here never advanced to the rank of High Priest or Cardinal, but they were still strongly
+dedicated to the temple.  Who knows what kind of spirits could wonder this graveyard.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7147
+D3
+~
+~
+0 -1 7145
+S
+#7149
+&KThe Temple Graveyard&n~
+&yIn this graveyard, all of the head stones are the exact same shape and size.  The symmetry is almost eerie.
+The men burried here never advanced to the rank of High Priest or Cardinal, but they were still strongly
+dedicated to the temple.  Who knows what kind of spirits could wonder this graveyard.&n
+~
+56 268435464 0 1 99 1
+D1
+~
+~
+0 -1 7146
+D2
+~
+~
+0 -1 7150
+S
+#7150
+&KThe Temple Graveyard&n~
+&yIn this graveyard, all of the head stones are the exact same shape and size.  The symmetry is almost eerie.
+The men burried here never advanced to the rank of High Priest or Cardinal, but they were still strongly
+dedicated to the temple.  Who knows what kind of spirits could wonder this graveyard.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7149
+D1
+~
+~
+0 -1 7145
+S
+#7151
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7152
+D1
+~
+~
+0 -1 7154
+D2
+~
+~
+0 -1 7153
+D3
+~
+~
+0 -1 7155
+D4
+~
+~
+0 -1 7160
+D5
+nothing special.
+~
+~
+0 -1 7138
+S
+#7152
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D1
+~
+~
+0 -1 7158
+D2
+~
+~
+0 -1 7151
+D3
+~
+~
+0 -1 7157
+S
+#7153
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7151
+D1
+~
+~
+0 -1 7159
+D3
+~
+~
+0 -1 7156
+S
+#7154
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7158
+D2
+~
+~
+0 -1 7159
+D3
+~
+~
+0 -1 7151
+S
+#7155
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7157
+D1
+~
+~
+0 -1 7151
+D2
+~
+~
+0 -1 7156
+S
+#7156
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7155
+D1
+~
+~
+0 -1 7153
+S
+#7157
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D1
+~
+~
+0 -1 7152
+D2
+~
+~
+0 -1 7155
+S
+#7158
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D2
+~
+~
+0 -1 7154
+D3
+~
+~
+0 -1 7152
+S
+#7159
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7154
+D3
+~
+~
+0 -1 7153
+S
+#7160
+&WThe Sleeping Quarters&n~
+&KAll around you are lines of beds.  They are not luxurious or nice, just simple single bunk beds in
+perfectly straight rows.  On each bed is a single white pillow and a small brown blanket.  The room
+is very neat and orderly, without anything other than the beds taking up space.  The rows of beds
+extend as far as you can see.&n
+
+~
+56 268435464 0 1 99 1
+D5
+~
+~
+0 -1 7151
+S
+#7161
+&wInside the Temple of Salvation&n~
+&WAround you are walls that extend for hundreds of feet in the air, made completely out of white marble.  They
+reach up to a ceiling that is made thick stained glass, making light of all different &xc&xol&xo&xrs &Wshine down
+on to you.  Members of the clergy sweep past you, tending to their business with the temple.  They are all
+very quiet, and keep to themselves.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7138
+D2
+~
+~
+0 -1 7162
+S
+#7162
+&wInside the Temple of Salvation&n~
+&WAround you are walls that extend for hundreds of feet in the air, made completely out of white marble.  They
+reach up to a ceiling that is made thick stained glass, making light of all different &xc&xol&xo&xrs &Wshine down
+on to you.  Members of the clergy sweep past you, tending to their business with the temple.  They are all
+very quiet, and keep to themselves.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7161
+D2
+~
+~
+0 -1 7163
+S
+#7163
+&wBefore the Chapel&n~
+&WYou stand before the doors to the chapel. They stand 12 feet tall, and are made with the greatest detail. You can see that
+extreme amounts of time were spent making sure everything was done correctly. The doors are made of a red maple, and glow
+with a somewhat holy light.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7162
+D2
+s
+~
+chapel~
+47 7108 7164
+S
+#7164
+&wEntrance to the Chapel&n~
+&wStanding in the entrance to the chapel, you gasp in astonishment. You are in awe of the size of the chapel. Two&W white
+colums&w reach to the ceiling, which appears to be over 100 feet high. You see what seems to be endless rows of pews, and
+down the center, a &rred velvet carpet&w strectches to a beautiful alter. Behind it, you see three chairs, and a large stained
+glass window. You feel as though you are being pulled toward the alter.&n
+~
+56 268435464 0 1 99 1
+D0
+~
+chapel~
+47 7108 7163
+D1
+~
+~
+0 -1 7165
+S
+#7165
+&rCenter Aisle&n~
+&wYou are walking down the center aisle of the chapel. In the distance you see a beautiful alter. Behind it stand three very
+&ylarge chairs&w, and behind those, a stained glass window takes the place of the wall. The &Ysun&w shines through, and lights up
+the chapel. Rows of &rwalnut pews&w are on either side of you, as you make your way toward the alter.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7173
+D1
+~
+~
+0 -1 7166
+D2
+~
+~
+0 -1 7177
+D3
+~
+~
+0 -1 7164
+S
+#7166
+&rCenter Aisle&n~
+&wYou are walking down the center aisle of the chapel. In the distance you see a beautiful alter. Behind it stand three very
+&ylarge chairs&w, and behind those, a stained glass window takes the place of the wall. The &Ysun&w shines through, and lights up
+the chapel. Rows of &rwalnut pews&w are on either side of you, as you make your way toward the alter.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7174
+D1
+~
+~
+0 -1 7167
+D2
+~
+~
+0 -1 7178
+D3
+~
+~
+0 -1 7165
+S
+#7167
+&rCenter Aisle&n~
+&wYou are walking down the center aisle of the chapel. In the distance you see a beautiful alter. Behind it stand three very
+&ylarge chairs&w, and behind those, a stained glass window takes the place of the wall. The &Ysun&w shines through, and lights up
+the chapel. Rows of &rwalnut pews&w are on either side of you, as you make your way toward the alter.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7175
+D1
+~
+~
+0 -1 7168
+D2
+~
+~
+0 -1 7179
+D3
+~
+~
+0 -1 7166
+S
+#7168
+&rCenter Aisle&n~
+&wYou are walking down the center aisle of the chapel. In the distance you see a beautiful alter. Behind it stand three very
+&ylarge chairs&w, and behind those, a stained glass window takes the place of the wall. The &Ysun&w shines through, and lights up
+the chapel. Rows of &rwalnut pews&w are on either side of you, as you make your way toward the alter.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7176
+D1
+~
+~
+0 -1 7169
+D2
+~
+~
+0 -1 7180
+D3
+~
+~
+0 -1 7167
+S
+#7169
+&WThe Altar of the Temple of Salvation&n~
+&wYou are standing behind the alter, facing what seems to be endless rows of pews. The alter, like all the other wood is
+&rwalnut&w, with a red stain. You can tell that the most time was spent constructing this alter. Draped over the alter is a
+&rred ribbon&w. On the ribbon is a large &Wwhite cross&W.
+~
+56 268435464 0 1 99 1
+D1
+~
+~
+0 -1 7170
+D3
+~
+~
+0 -1 7168
+S
+#7170
+&GThe High Priest Kaczy's Chair&g~
+&GThe High Priest's chair glows green. It is made from the finest &ywalnut&G. It has no defects. On the seat and back,
+there are large &rred velvet&G cushions. Emeralds are inlaid into the armrests. On the end of the right armrest, there sits a
+cup filled with &Kash&G.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7171
+D2
+~
+~
+0 -1 7172
+D3
+~
+~
+0 -1 7169
+S
+#7171
+&rG&Ruti&rn t&Rh&re &RH&rea&Rd &rCa&Rrdin&ral's &RC&rhai&Rr&g~
+&RYou stand before the Head Cardinal's chair. It emits a faint red glow, and stands over 15 feet tall, and 5 feet wide. As
+with the high priest's chair, it has &rred velvet&R cushions, but it is adorned with ruby's. This chair, like the &GHead
+Priest's&R is also made of the finest &ywalnut&R.
+~
+56 268435464 0 1 99 1
+D2
+~
+~
+0 -1 7170
+S
+#7172
+&pDawn's Chair&g~
+&pYou are standing in front of &GThe High Priest's&p love, Dawn. Her chair is as ellegent as the high priest's, 
+and as large as the head cardinal's. It also has red velvet cushions. Draped over it are purple velvet sheets. 
+Inlaid in all of the exposed wood are amethyst. Some the size of your head. You can tell the the &GHigh Priest
+&pbared no expense for his love's chair.
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7170
+S
+#7173
+&yAmong the pews&g~
+&wYou are standing among the &rwalnut pews&w. You can see that these pews, like the entrance doors have been detailed with no
+spared expense in money, or time. They almost glow a light red from the stain, and the sun shining on them. These are the 
+ost beautiful, and intriquet pews you have ever seen.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7181
+D2
+~
+~
+0 -1 7165
+S
+#7174
+&yAmong the pews&g~
+&wYou are standing among the &rwalnut pews&w. You can see that these pews, like the entrance doors have been detailed with no
+spared expense in money, or time. They almost glow a light red from the stain, and the sun shining on them. These are the 
+ost beautiful, and intriquet pews you have ever seen.&g
+~
+56 268435464 0 1 99 1
+D2
+~
+~
+0 -1 7166
+S
+#7175
+&yAmong the pews&g~
+&wYou are standing among the &rwalnut pews&w. You can see that these pews, like the entrance doors have been detailed with no
+spared expense in money, or time. They almost glow a light red from the stain, and the sun shining on them. These are the 
+ost beautiful, and intriquet pews you have ever seen.&g
+~
+56 268435464 0 1 99 1
+D2
+~
+~
+0 -1 7167
+S
+#7176
+&yAmong the pews&g~
+&wYou are standing among the &rwalnut pews&w. You can see that these pews, like the entrance doors have been detailed with no
+spared expense in money, or time. They almost glow a light red from the stain, and the sun shining on them. These are the 
+ost beautiful, and intriquet pews you have ever seen.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7182
+D2
+~
+~
+0 -1 7168
+S
+#7177
+&yAmong the pews&g~
+&wYou are standing among the &rwalnut pews&w. You can see that these pews, like the entrance doors have been detailed with no
+spared expense in money, or time. They almost glow a light red from the stain, and the sun shining on them. These are the 
+ost beautiful, and intriquet pews you have ever seen.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7165
+S
+#7178
+&yAmong the pews&g~
+&wYou are standing among the &rwalnut pews&w. You can see that these pews, like the entrance doors have been detailed with no
+spared expense in money, or time. They almost glow a light red from the stain, and the sun shining on them. These are the 
+ost beautiful, and intriquet pews you have ever seen.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7166
+D2
+~
+~
+0 -1 7183
+S
+#7179
+&yAmong the pews&g~
+&wYou are standing among the &rwalnut pews&w. You can see that these pews, like the entrance doors have been detailed with no
+spared expense in money, or time. They almost glow a light red from the stain, and the sun shining on them. These are the 
+ost beautiful, and intriquet pews you have ever seen.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7167
+D2
+~
+~
+0 -1 7184
+S
+#7180
+&yAmong the pews&g~
+&wYou are standing among the &rwalnut pews&w. You can see that these pews, like the entrance doors have been detailed with no
+spared expense in money, or time. They almost glow a light red from the stain, and the sun shining on them. These are the 
+ost beautiful, and intriquet pews you have ever seen.&g
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7168
+S
+#7181
+&yConfessional&g~
+&yYou are seated in the sanctity of the confessionel. You see a window, and peer into nothing but darkness. You
+feel compelled to speak all of your darkest secrets, and confess your sins.
+~
+56 268435464 0 1 99 1
+D2
+~
+~
+0 -1 7173
+S
+#7182
+&yConfessional&g~
+&yYou are seated in the sanctity of the confessionel. You see a window, and peer into nothing but darkness. You
+feel compelled to speak all of your darkest secrets, and confess your sins.
+~
+56 268435464 0 1 99 1
+D2
+~
+~
+0 -1 7176
+S
+#7183
+&yConfessional&g~
+&yYou are seated in the sanctity of the confessionel. You see a window, and peer into nothing but darkness. You
+feel compelled to speak all of your darkest secrets, and confess your sins.
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7178
+S
+#7184
+&yConfessional&g~
+&yYou are seated in the sanctity of the confessionel. You see a window, and peer into nothing but darkness. You
+feel compelled to speak all of your darkest secrets, and confess your sins.
+~
+56 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7179
+S
+#7185
+&YThe Bell Tower&n~
+&WThe bell tower is very high up, and the hunckback is in charge of ringing the bell every hour on the hour.&n
+~
+56 268435464 0 1 99 1
+D5
+~
+~
+1 0 7102
+S
+$~
+#999999

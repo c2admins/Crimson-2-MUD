@@ -2,13 +2,13 @@
 # 
 #
 # Name must be 4 to 20 characters
-NAME=MONK
+NAME=Monk
 # enter 5 digit class description which appears on the WHO list
 DESC=MONK
 # Enter three lines of text displayed when view details 80bytes/per
-TEXT1=Monk are the dedicated students of the fighting arts from the east. They try 
-TEXT2=to achieve perfect harmony between mind and body through tough physical 
-TEXT3=training. They are experienced in stealth as well as being skilled survivalists
+TEXT1=Monks are dedicated students of martial combat and enlightenment. They try to 
+TEXT2=achieve perfect harmony between mind and body through tough physical training. 
+TEXT3=Being skilled at bare-handed combat, this damage scales with level.
 TEXT4=none
 ADJHIT=150
 ADJMANA=100
@@ -35,13 +35,12 @@ SKILL_MIN_LEVEL=SKILL_RESCUE 16
 SKILL_MIN_LEVEL=SKILL_PARRY 16
 SKILL_MIN_LEVEL=SPELL_SUSTENANCE 18
 SKILL_MIN_LEVEL=SKILL_DODGE 20
+SKILL_MIN_LEVEL=SKILL_ESCAPE 25
 SKILL_MIN_LEVEL=SPELL_ARMOR 22
-SKILL_MIN_LEVEL=SPELL_HASTE 25
+SKILL_MIN_LEVEL=SKILL_THIRD 25
 SKILL_MIN_LEVEL=SKILL_MEDITATE 27
-SKILL_MIN_LEVEL=SKILL_THIRD 30
 SKILL_MIN_LEVEL=SPELL_MIRROR_SELF 32
+SKILL_MIN_LEVEL=SKILL_FOURTH 33
 SKILL_MIN_LEVEL=SKILL_HUNT 35
-SKILL_MIN_LEVEL=SKILL_FOURTH 37
-SKILL_MIN_LEVEL=SKILL_ESCAPE 39
+SKILL_MIN_LEVEL=SPELL_HASTE 39
 SKILL_MIN_LEVEL=SKILL_FIFTH 40
-

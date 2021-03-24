@@ -205,7 +205,7 @@
 #define SPELL_GRANITE_FIST		 197
 #define SPELL_PRAYER 			 198
 #define SPELL_ELEMENTAL_SHIELD	 199
-#define SKILL_CIRCLE_ATTACK		 200
+#define SKILL_TRIP				 200
 #define SKILL_TAUNT				 201
 #define SKILL_CHARGE			 202
 #define SKILL_AIRWALK            203

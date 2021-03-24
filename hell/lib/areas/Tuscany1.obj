@@ -1,0 +1,394 @@
+#21100
+obj statuette dragon ivory~
+2
+&wan &Wiv&wo&Wry &Kd&wr&Wag&wo&Kn &wstatuette&n~
+A small, white, dragon-shaped statuette lies on the ground.~
+~
+18 262219 0 16385
+0 0 10 0
+5 10 1000000000
+#21121
+obj light key mist misty~
+2
+Misty Key of Light~
+A strange, bright, mist swirls in the form of a key at your feet.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 1000000000
+#21122
+obj necklace water blue~
+5
+&Swatery&S-&Sblue &Snecklace&n~
+A circle of water lies on the ground.~
+~
+9 524352 0 5
+0 0 0 0
+5 5000 5000
+A
+30 -1
+#21123
+obj shovel~
+10
+&ya shov&Kel&n~
+There is a shovel leaning against the wall.~
+~
+5 0 0 8193
+0 1 8 7
+8 700 500
+#21124
+obj hoe~
+10
+&ya ho&Ke&n~
+There is a hoe lying on the ground covered with mud.~
+~
+5 0 0 8193
+0 1 8 7
+8 700 500
+#21125
+obj club stone heavy~
+10
+&Kheavy &wst&Wo&wne &yclub&n~
+A large stone-shaped club rests heavily upon the ground.~
+~
+5 524288 0 8193
+0 3 6 6
+30 2000 6000
+A
+18 1
+A
+19 1
+#21129
+obj scimitar gold golden~
+10
+&Yg&yo&Yld&ye&Yn &Ysc&yi&Ym&yi&Yt&ya&Yr&n~
+A scimitar of pure gold has been left in the dirt.~
+~
+5 525888 0 8193
+0 2 10 3
+12 10000 1000
+A
+18 2
+A
+19 2
+A
+12 5
+#21130
+obj golden sickle~
+7
+&Yg&yo&Yld&ye&Yn &Ys&yi&Yckl&ye&n~
+A scicle of solid gold is sticking out of the ground.~
+~
+5 1050177 0 8193
+0 3 10 11
+5 20000 4000
+A
+18 2
+A
+19 2
+A
+12 10
+#21131
+obj emerald grand ring~
+5
+&Gg&gran&Gd &Gem&gera&Gld &Yr&yi&Yng&n~
+There is a golden ring with a very large emerald in it here.~
+~
+9 2097216 0 3
+10 0 0 0
+3 30000 30000
+A
+12 30
+A
+4 2
+#21132
+obj belt vine~
+35
+vine belt~
+A bunch of vines are lying here.~
+~
+9 1048640 0 2049
+10 0 0 0
+12 20000 20000
+A
+12 30
+A
+4 1
+A
+3 1
+#21133
+obj bastard sword heavy~
+50
+heavy bastard sword~
+An extremely heavy looking sword is stuck in the ground.~
+~
+5 1077248 0 8193
+0 3 5 3
+20 10000 25000
+A
+18 2
+A
+19 2
+#21134
+obj cloak nature~
+10
+&Gn&ya&gtu&yr&Ge &ycloak&n~
+There is a pile of leaves and branches here.~
+~
+9 2097216 0 5
+20 0 0 0
+8 30000 35000
+A
+19 2
+A
+4 1
+A
+3 1
+#21135
+obj crown flowers flower~
+5
+&ycrown &gof &Wfl&Yo&Rw&Ye&Wrs&n~
+Flowers lying in a circle can be seen.~
+~
+9 1048641 0 17
+5 0 0 0
+2 40000 20000
+A
+19 1
+A
+12 30
+#21141
+obj collar blood~
+10
+blood collar~
+A collar rests here in a pool of blood.~
+~
+9 1048644 0 5
+5 0 0 0
+5 10000 30000
+A
+19 2
+A
+2 1
+#21142
+obj cloak melancholy~
+5
+melancholy cloak~
+Upon the ground rests a cloak of utter darkness.~
+~
+9 2097220 0 5
+20 0 0 0
+10 10000 60000
+A
+18 2
+A
+19 2
+A
+2 2
+A
+3 -2
+#21145
+obj crown bejeweled~
+40
+bejewled crown~
+A golden crown, enlaiden with jewels has been dropped here.~
+~
+9 2162821 0 17
+0 0 0 0
+12 10000 25000
+A
+18 -2
+A
+19 -1
+A
+13 30
+A
+12 30
+#21146
+obj pendant guard~
+10
+&Kguard's &Ys&yi&Ygn&ye&Yt p&ye&Ynd&ya&Ynt&n~
+A strange pendant with a signet upon it lies here.~
+~
+9 0 0 5
+5 0 0 0
+9 100 200
+#21164
+obj ring crystal~
+50
+jewled crystal ring~
+A gorgeous ring of crystal, afire with gems, radiates here.~
+~
+9 64 0 3
+20 0 0 0
+1 5 1000
+#21176
+obj divine leather armor~
+15
+divine leather armor~
+A finely crafted suit of leather armor waits to be worn.~
+~
+9 4194368 0 9
+40 0 10 0
+6 10000 65000
+A
+19 1
+A
+18 4
+#21177
+obj divine battle axe~
+10
+a divine battle axe~
+A finely crafted axe sits here, waiting to be wielded.~
+~
+5 4194368 0 8193
+0 6 9 3
+10 45000 60000
+A
+18 3
+A
+19 3
+#21178
+obj girdle cloud giant~
+3
+girdle of cloud giant strength~
+A powerful girdle radiates magic.~
+~
+9 4194376 0 2049
+10 0 0 0
+4 50000 56000
+A
+19 3
+A
+18 2
+A
+13 -15
+#21179
+obj axe of sharpness~
+15
+axe of sharpness~
+There is an axe that looks too sharp to hold here.~
+~
+5 4194368 0 8193
+1 6 8 3
+12 54000 54000
+A
+18 3
+A
+19 3
+#21180
+obj golden warhammer hammer~
+5
+golden warhammer~
+A hammer of gold wants to hit something.~
+~
+5 4195400 0 8193
+2048 6 6 7
+10 55000 65000
+A
+18 4
+A
+19 4
+#21181
+obj flaming broadsword~
+9
+a flaming broadsword~
+A broadsword lies here surrounded by flames.~
+~
+5 4194368 0 8193
+4096 8 4 3
+10 70000 77000
+A
+18 3
+A
+19 3
+#21182
+obj divine chainmail~
+20
+divine chainmail~
+A suit of finely crafted chainmail lies here.~
+~
+9 4194368 0 9
+30 0 10 0
+10 70000 67000
+A
+12 75
+#21183
+obj dragon carriage ~
+1
+A dragon carriage~
+A giant dragon with a big saddle is here.~
+~
+12 0 0 0
+0 0 0 0
+1 5000 5
+E
+dragon~
+An enormous beast which would be more threatening were it not
+for the giant saddle attached to it.  Its eyes look you over
+as a friend.
+~
+E
+interior~
+You strap yourself in for one hell of a ride.
+~
+E
+arrival~
+A giant dragon swoops down and lands.
+~
+#21184
+obj waterskin skin~
+100
+&ya waterskin&n~
+A waterskin is left on the ground here.~
+~
+17 0 0 1
+40 40 0 0
+30 150 50
+#21188
+obj portal magic~
+100
+the Magic Portal~
+The Magic Portal is pulling you slowly into it.~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+#21190
+obj tuscanian banana~
+100
+&Ka &Yban&ya&Yna&n~
+A banana lies discarded here.~
+~
+19 0 0 1
+10 0 0 0
+1 5 5
+#21191
+obj beer bud bottle~
+100
+a bottle of Bud Ice Light~
+A chilled bottle of Bud Ice Light tempts you.~
+~
+17 0 0 16385
+100 100 1 0
+10 20 8
+#21192
+obj refrigerator fridge~
+100
+a refrigerator~
+A small refrigerator stands against the wall.~
+~
+15 0 0 0
+100 5 0 0
+100000 20 8
+#21193
+obj sofa leather~
+100
+a comfy leather sofa~
+A comfy leather sofa beckons you to rest.~
+~
+1 0 0 0
+0 0 0 0
+100000 20 8
+$~
+#999999

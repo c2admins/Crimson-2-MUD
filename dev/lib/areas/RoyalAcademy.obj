@@ -1,0 +1,82 @@
+#100
+obj Royal Academy Diploma crap~
+100
+&BRoyal &WAcademy &GDiploma&n~
+A Bound piece of parchment lies here.~
+~
+12 323 0 16385
+0 0 10 0
+1 1000 5
+A
+17 -5
+A
+13 7
+#101
+obj Royal Academy Sword crap~
+100
+&BRoyal &WAcademy &GSword&n~
+A Royal Sword lies here.~
+~
+5 323 0 8193
+0 2 8 3
+4 1000 5
+#102
+obj Royal Academy Gown crap~
+100
+&BRoyal &WAcademy &GGown&n~
+A gown lies here with a Royal insignia.~
+~
+9 323 0 9
+5 0 0 0
+4 1000 5
+A
+19 1
+#103
+obj Royal Academy Boots crap~
+100
+&BRoyal &WAcademy &GBoots&n~
+Some boots lie here with a Royal insignia on their sides.~
+~
+9 323 0 65
+5 0 0 0
+4 1000 5
+A
+18 1
+#104
+obj coffin nail imm~
+32767
+coffin nail~
+It looks like the mortician has left one of her nails here.~
+~
+5 2 64 8193
+99 99 99 11
+1 5 5
+#105
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#106
+obj archangel imm~
+32767
+&SA&Sr&Sc&Sh&Sa&Sn&Sg&Se&Sl&n~
+&SA&Sr&Sc&Sh&Sa&Sn&Sg&Se&Sl&n~
+~
+9 0 64 1025
+0 0 0 0
+1 5 5
+#107
+obj the one ring~
+32767
+&RThe&Y One&R Ring.&n~
+A ring of gold lies upon the ground.~
+~
+9 0 0 3
+0 0 0 0
+1 5 5
+$~
+#999999

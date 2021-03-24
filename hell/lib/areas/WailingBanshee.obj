@@ -1,0 +1,383 @@
+#200
+obj emerald sash~
+15
+&Gan emerald sash&n~
+A sash the color of emerald lies here.~
+~
+9 1049665 0 2049
+1 0 0 0
+5 50000 20000
+A
+19 2
+A
+2 1
+#201
+obj sabre~
+25
+&wa &Ksabre&n~
+A sabre lies here, dropped by its master.~
+~
+5 540672 0 8193
+0 6 3 3
+10 1000 750
+#202
+obj rusty cutlass~
+25
+&wa &yrusty&w cutlass&n~
+A cutlass lies here, covered with rust.~
+~
+5 524800 0 8193
+0 2 7 3
+10 750 800
+A
+18 -2
+A
+19 2
+#203
+obj crimson sash~
+15
+&ra crimson sash&n~
+A sash the color of crimson lies here.~
+~
+9 1049121 0 2049
+12 0 0 0
+5 20000 15000
+A
+19 1
+A
+18 1
+A
+9 15
+#204
+obj jeweled rapier~
+5
+&pa j&rewele&pd &Krapier&n~
+A rapier covered in jewels lies here.~
+~
+5 68174914 0 8193
+2 6 5 11
+7 100000 23000
+A
+18 3
+A
+31 -1
+A
+26 -1
+#205
+obj rune covered tunic~
+6
+&Ga &Krune &Gcovered tunic&n~
+An old tunic covered in runes lies here.~
+~
+9 68160513 0 9
+10 0 0 0
+9 20000 20000
+A
+18 2
+A
+19 2
+#206
+obj leather bracer~
+10
+&ya leather bracer&n~
+A leather bracer lies here.~
+~
+9 0 0 4097
+1 0 0 0
+2 200 100
+A
+14 5
+A
+13 5
+#207
+obj black leather boots~
+12
+&Ka pair of black leather boots&n~
+A pair of boots made of black leather lies here.~
+~
+9 0 0 65
+3 0 0 0
+5 500 300
+A
+5 1
+#208
+obj black sabre~
+10
+&Kthe black sabre&n~
+A sabre made of the blackest metal lies here.~
+~
+5 67113472 8 8193
+131072 6 3 3
+7 70000 10000
+A
+18 1
+A
+19 1
+A
+27 -1
+#209
+obj eyepatch leather ~
+15
+&Kan eyepatch&n~
+A piece of leather designed to cover an eye lies here.~
+~
+9 524800 0 17
+1 0 0 0
+1 200 1500
+A
+19 1
+A
+1 1
+A
+2 -1
+#210
+obj ring isles~
+8
+&cThe Ring of the &GIsles&n~
+a small ring with the picture of an island set in it lies here.~
+~
+9 135398401 0 3
+1 0 4 0
+2 55000 17500
+A
+19 2
+A
+30 -1
+A
+37 -1
+#211
+obj swashbuckler cape~
+15
+&Ba swashbucklers cape&n~
+A cape made for seafaring lies here.~
+~
+9 525313 0 1025
+10 0 0 0
+8 30000 7000
+A
+13 10
+A
+36 -1
+#212
+obj bone shield~
+10
+&Wa bone shield&n~
+A shield made from the bones of dead humans is lying here.~
+~
+9 524816 0 513
+3 0 0 0
+3 12000 500
+A
+13 10
+A
+2 1
+A
+3 1
+#213
+obj brimstonian helmet~
+9
+&Ka &cBrimstonian &Khelmet&n~
+A helmet with the isignia of the city Brimstone lies here.~
+~
+9 1025 8 17
+3 0 0 0
+4 10000 500
+A
+19 1
+A
+18 1
+A
+24 -2
+#214
+obj ring brimstone~
+17
+&Kring of &cBrimstone&n~
+A ring with the crest of Brimstone lies here.~
+~
+9 525312 0 3
+1 0 0 0
+2 10000 500
+A
+19 1
+#215
+obj tattered pants~
+50
+&ya pair of &wtattered&y pants&n~
+A pair of pants, rotting from age, lies here.~
+~
+11 192 0 33
+0 0 0 0
+6 1000 50
+A
+13 -10
+A
+12 -10
+A
+14 -10
+#216
+obj deep blue sash~
+20
+&Ba deep blue sash&n~
+A sash made from a blue cloth lies here.~
+~
+11 64 0 2049
+0 0 0 0
+4 9000 400
+A
+27 -1
+A
+26 -1
+A
+36 -1
+#217
+obj black leather gloves~
+19
+&Ka pair of black leather gloves&n~
+A pair of black leather gloves lies here.~
+~
+9 32 0 129
+0 0 0 0
+3 3000 400
+A
+1 2
+#218
+obj aquamarine sash~
+15
+&Can aqu&Gamar&Cine sash&n~
+A sash of an aquamarine color lies here.~
+~
+9 1 0 2049
+2 0 0 0
+4 1000 30
+A
+18 1
+#219
+obj white sash~
+19
+&Wa white sash&n~
+A sash made from white cloth rests here.~
+~
+9 1 8 2049
+4 0 0 0
+4 3000 300
+A
+13 20
+A
+2 1
+#220
+obj black sash~
+10
+&Ka black sash&n~
+A sash as dark as night lies here.~
+~
+9 1051140 0 2049
+0 0 0 0
+5 50000 10000
+A
+19 1
+A
+18 2
+A
+6 -2
+#221
+obj rope ladder~
+100
+&ya rope ladder&n~
+&yA small rope ladder hangs from the side of the pirate ship in front of you, and if you were to climb it, you could probably gain access to the ship.&n~
+~
+25 0 0 0
+0 0 10 0
+1 5 5
+#222
+obj rope ladder~
+100
+&ya rope ladder&n~
+&yA small rope ladder hangs from the side of the warship in front of you, and if you were to climb it, you could probably gain access to the ship.&n~
+~
+25 0 0 0
+0 0 10 0
+1 5 5
+#223
+obj captains key~
+75
+&Gthe captains key&n~
+A small green key lies here.~
+~
+18 0 0 1
+0 1 0 0
+1 100 5
+#224
+obj large crate~
+100
+&ya large crate&n~
+&yA large crate has been placed here.&n~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+E
+large~
+  The crate has been placed in a defensive type position in order to protect the men who have fled
+to the cargo bay.
+~
+#225
+obj large box~
+100
+&ya large box&n~
+&yA large box has been placed here.&n~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+E
+box~
+  The box has been placed in a defensive type position in order to protect the men who have fled
+to the cargo bay.
+~
+#226
+obj rope ladder~
+100
+&yA rope ladder&n~
+&yA rope ladder leads up into the crows nest.&n~
+~
+25 0 0 0
+0 0 10 0
+1 5 5
+#227
+obj large cabinet~
+100
+&ya large cabinet&n~
+&yA large cabinet is set against the wall.&n~
+~
+15 0 0 0
+100 5 0 0
+1 5 5
+#228
+obj iron foeld ration meat fruit~
+50
+&Kan iron field ration&n~
+&KA packet of dried meat and fruit lies here.&n~
+~
+19 0 0 1
+40 0 0 0
+3 160 5
+#229
+obj golden chest~
+100
+&Ya golden chest&n~
+&YA large golden chest sits here by the bed.&n~
+~
+15 0 0 0
+100 5 0 0
+1 5 5
+#230
+obj large pile coins~
+30
+a large pile of coins~
+A large pile of coins sit here.~
+~
+20 0 0 1
+1000 0 0 0
+1 5 5
+$~
+#999999

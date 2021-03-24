@@ -1,0 +1,345 @@
+#1750
+obj cerberus fang~
+1
+&KFang &wof &yCerberus&n~
+The tooth of some beast lies here.~
+~
+5 171969044 0 8193
+1041 4 9 11
+5 1000000 17000
+E
+fang~
+Black as night, with blood dripping from its end.
+~
+A
+19 4
+A
+18 1
+#1751
+obj fountain lost souls~
+100
+Fountain of Lost Souls~
+The Fountain of Lost Souls is here, spewing forth blood.~
+~
+17 0 0 0
+2147483647 2147483647 13 0
+1 5 5
+E
+fountain lost soul~
+A crystal fountain, but whats that inside!
+~
+#1752
+obj key soul~
+4
+&wa &Ks&wou&Kl&n~
+The weeping spirit of a dead man screams here.~
+~
+18 264744 0 1
+0 0 0 0
+1 1 5
+E
+key soul ~
+transparent.
+~
+#1753
+obj ring blood stained~
+5
+&wa &Rblood&w-&rstained &wring&n~
+A ring lies here, covered in fresh blood.~
+~
+9 167774724 32 3
+0 0 0 0
+1 250000 5
+E
+blood stained ring~
+Tight fitting, and covered in fresh blood.
+~
+A
+19 2
+A
+18 3
+A
+13 5
+#1754
+obj shoes sun titan~
+5
+&yshoes &wof the &Rs&Yu&Rn &ytitan&n~
+A huge pair of shoes lie here.~
+~
+9 171969088 0 65
+30 0 0 0
+20 500000 90000
+E
+shoes sun titan~
+Shoes made to fit the biggest feet.  Only thing wrong with it is the fact they are on fire.
+~
+A
+19 3
+#1755
+obj carapace pain~
+1
+&rc&Ra&wr&Kap&wa&Rc&re &rof &rp&Ra&wi&Kn&n~
+The skin of a dead creature rots here.~
+~
+15 171969040 0 9
+400 0 0 0
+15 1000000 100000
+E
+carcass pain~
+The worthless remains of the Elemental of Pain.
+~
+A
+19 4
+A
+18 2
+A
+13 50
+#1756
+obj key flesh~
+4
+&rf&Rl&re&Rs&rh &wkey&n~
+The key of flesh lies here.~
+~
+18 262168 0 1
+0 0 0 0
+1 1 5
+E
+key flesh~
+Flesh torn into the shape of a key.
+~
+#1757
+obj shield mirror~
+10
+&wa &Cmirror &wshield&n~
+A very reflective shield lies here.~
+~
+9 168299009 0 513
+0 0 0 0
+10 5000000 5
+E
+shield mirror~
+Yourself
+~
+A
+19 1
+#1758
+obj decanter hades cup~
+25
+&KHades' decanter&n~
+A golden decanter lies here, soaking up the light.~
+~
+17 33556992 0 16385
+20 0 0 0
+5 500000 5
+E
+decanter cup hades~
+Solid gold.  Pure evil.
+~
+#1759
+obj charon raft~
+50
+&rC&Kh&ra&Kr&ro&Kn&r'&Ks &yraft&n~
+Charon's raft is lying here.~
+~
+22 0 0 1
+0 0 10 0
+25 500 5
+#1760
+obj wraith eye~
+2
+&wa &Kwraith's &weye&n~
+A gouged out eye lies here in a pool of natural juices.~
+~
+12 171969024 0 5
+0 0 10 0
+5 500 30000
+A
+19 3
+A
+18 3
+A
+17 -10
+#1761
+obj food leg human~
+100
+&ya human leg&n~
+A large half-eaten human leg lies here.~
+~
+19 0 0 1
+20 0 0 20
+5 1 5
+#1762
+obj gold light~
+3
+&wlight of &Ygold&n~
+A chunk of gold lies here, radiating heat.~
+~
+1 169871873 0 65537
+0 0 0 0
+5 1000000 5
+A
+19 2
+A
+18 2
+#1763
+obj mark beast 666~
+1
+&RMark o&rf the B&Reast&n ~
+Some torn off flesh lies here, it has 666 carved in it.~
+~
+9 138414592 0 17
+0 0 0 0
+2 250000 80000
+A
+19 5
+A
+17 15
+#1764
+obj dagger sacrificial~
+25
+&rsacrificial &wdagger&n~
+A dagger is lying here, covered with fresh lambs blood.~
+~
+5 167774720 0 8193
+16384 2 4 11
+5 5000 5
+#1765
+obj altar hades~
+100
+Hades' Altar~
+A large altar with rotting corpses surrounding it sits here.~
+~
+17 0 0 0
+2147483647 2147483647 9 15
+1 5 5
+#1766
+obj blade undeath hades~
+2
+&KBl&yad&ge o&Gf U&gnd&yea&Kth&n~
+A hugesword lies here, it emits a feeling of evil.~
+~
+5 171969028 0 8193
+67 3 19 3
+20 500000 65000
+A
+19 2
+A
+18 1
+A
+13 50
+#1767
+obj protection underworld hades~
+1
+&rPro&Ktect&Rion &yof the &RUnd&Kerwo&rrld&n~
+A pitch black breast plate lies here.~
+~
+9 171969028 0 9
+80 0 0 0
+20 500000 110000
+A
+19 4
+#1768
+obj key platinum~
+100
+&wplatinum key&n~
+A shiny, metal key lies here.~
+~
+18 0 0 5
+1769 1 0 0
+1 1 5
+#1769
+obj chest gold huge~
+1
+Huge Treasure Chest~
+A huge treasure chest made of solid gold sits here, tantilating your senses.~
+~
+15 8 0 0
+1000 15 1768 0
+1 5 5
+#1770
+obj dark heart evil~
+1
+&Kdark &rheart &wof &Kevil&n~
+A huge, black heart lies here, still beating fresh blood.~
+~
+19 171969156 0 16385
+20 0 0 50
+5 139000 70000
+A
+19 7
+A
+29 -1
+A
+13 -25
+#1771
+obj pile gold~
+100
+a pile of gold~
+A pile of gold coins lies here.~
+~
+20 134217728 0 1
+2000000 0 0 0
+1 5 5
+#1773
+obj angel death~
+2
+&KA&wn&Kg&we&Kl &wof &rD&Re&ra&Rt&rh&n~
+A huge, black blade lies here, screaming for a victim.~
+~
+5 440404484 0 8193
+8388707 8 7 3
+6 216500 150000
+A
+19 1
+A
+18 2
+A
+13 -30
+#1774
+obj burning death scroll~
+100
+&KB&ru&Kr&rn&Ki&rn&Kg &rD&Ke&ra&Kt&rh&n~
+A rolled up scroll lies here.~
+~
+2 262145 512 1
+75 115 115 115
+1 5 5
+A
+18 59
+#1775
+obj drinker souls~
+100
+&yDrinker &wof &Ks&wo&Ku&wl&Ks&n~
+A rolled up scroll lies here.~
+~
+2 262145 512 1
+48 25 25 25
+1 5 5
+A
+18 59
+#1776
+obj claws unending pain~
+4
+&yclaws &Kof u&ynen&Kdin&yg pain&n~
+Some claws lie here, dripping flesh.~
+~
+5 239075328 0 8193
+10240 2 13 11
+3 189000 90000
+#1777
+obj Bony Finger Death~
+2
+&rA&E &RB&ro&Rn&ry&E &RF&ri&Rn&rg&Re&rr&E &RO&rf&E &RD&re&Ra&rt&Rh&E~
+A torch is lying here.~
+~
+9 4194304 0 3
+20 0 0 0
+1 10000 10000
+A
+19 3
+A
+18 2
+A
+13 -30
+$~
+#999999

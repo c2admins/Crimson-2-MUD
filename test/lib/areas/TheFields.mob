@@ -1,0 +1,1315 @@
+#8900
+mob LeechWorm~
+&wA &GL&gee&GchW&gor&Gm&n~
+&wA &KSoul-Less &gWorm &wwalks amongst the damned&n.
+~
+This Worm is the size of you and your other comrades.  He towers above you 
+thinking on how he should disect your organs.
+~
+25755724 134512641 136249361 67108992 0 S
+44 2 -30 10d35+13500 10d5+99
+0 792000
+8 8 1
+24 3 25 16 16 14 15 11
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MEDIUM 99
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8901
+mob Jendrul~
+&bJendrul&n~
+&wAn old man, tired from years of reaping stands here among the &ycorn stalks&n.
+~
+This man is very hard to see because of all the shadows that are cast in front
+of him.  His features show dimly through the poor lighting but you know that
+he is eyeing you.  He has blood all over his hands from the others who have 
+dared enter his beloved fields.  He just wonders why you're here, and ponders on
+what he should do with you.'
+~
+167772234 135561217 136249361 2097284 0 S
+44 0 -30 1d1+19999 30d10+99
+1800000 792000
+8 8 0
+24 3 25 18 15 14 14 15
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#8902
+mob Onkara~
+&wOnkara, the &WLegend &wof the &KFallen Tribe&n~
+&WOn&Cka&Wra &wstands here with an &Waura&w of &Kdeath&n cloaking him.
+~
+Can you believe what you see?  This man has an aura of death around him yet
+you know who he is.  This is Onkara, the legendary priest of the damned.
+He is a walking spirit that still roams this place.  He eyes you like that
+of a king seeing one of his peasants toil for the first time.  He smirks
+and comes over to help you.  He tries to speak to you but every time you 
+see his mouth move all there is is more silence.  He turns away frustrated
+about this.  Should you help him or kill him?
+~
+167837772 135561217 136249361 128 1000 S
+48 0 -25 1d1+14999 20d30+25
+3000000 1500000
+8 8 0
+24 4 25 18 15 14 14 15
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=2
+ATTACK_TYPE=105
+#8903
+mob Void~
+&gT&Gh&ge &GV&goi&Gd&n~
+&gAn eerie &Kshapeless figure &wswirls in here&n.
+~
+There is no exit.  You realize you're gonna be here for awhile.  The void
+is a terrible place to be.  This formless creature swirls about you eyeing
+what he can and stealing what he wishes.  He knows you can't leave and is
+taking advantage of you.
+~
+176283722 134250497 203358225 2097288 0 S
+48 0 -40 1d1+17599 40d10+99
+3400000 1750000
+8 8 1
+24 4 25 18 15 15 14 12
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#8904
+mob Vorpus~
+&CV&Yorpu&Rs&w, ally of the &Kdead&n~
+&CV&Yorpu&Rs &wstands here, mumbling to himself.&n
+~
+  This is the soul of the once living Vorpus.  He is only a spirit roaming
+the hallways.  Yet he still carries with him a blade of magnificent craft.
+It is always in his hand and he wont hesitate to kill you with it.
+~
+167772170 134250497 136249361 136 1000 S
+46 0 -40 1d1+19999 30d10+50
+3500000 1300000
+8 8 1
+24 4 25 15 16 16 15 11
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 75
+SKILL=SPELL_FIRELANCE 75
+#8905
+mob FleshDust~
+&rFlesh&yDust&n~
+&wA &yskinless&w man walks here, &rbleeding&w profusely&n.
+~
+OB This man has trophies of the heads of Menter and Vorpus mounted upon his
+chamber walls.  They were a gift from his brother, Messiah for helping slay
+the evil.  The moon glances in through a hole in the walls.  He becomes
+sickly from the light and falls to the floor.  Now is your time to kill the
+demon.
+~
+8388618 134217729 136249361 138 0 S
+45 1 -20 1d1+11999 30d20+15
+2000000 1100000
+8 8 0
+24 3 25 17 16 14 15 11
+#8906
+mob Priest of the worms~
+&KPriest &wof the &GWorms&n~
+A large worm slithers past your feet.
+~
+  This man has created all the chaos.  He was the one that undertook the 
+falling of the heroes.  He introduced this world to Messiah and his occult
+and followers.  He still conducts his day to day business in an
+honorable fashion, the only problem is he still has a grip on this place.
+He carries the heart of the worms, which is a relic for which no man has
+ever found out how to read the inscriptures that were placed on it years
+ago.
+~
+8388618 134250497 136249361 128 0 S
+46 0 -20 1d1+12999 40d20+15
+1750000 1150000
+8 8 0
+24 8 25 18 16 16 12 13
+SKILL=SPELL_COLOUR_SPRAY 85
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+#8907
+mob Hatedust~
+&wH&RateDus&wt&n~
+&wA man torn apart from life stands here, hating you.&n
+~
+  This man is what would seem to be almost 8' tall and musculary built. He
+shares a painful look of conceit with you.  This man has treasured his walls
+by adorning them with ornaments like that of his children's heads.  He 
+smiles at you then turns around.  Maybe this is the right time for him to
+die.
+~
+2097162 134217729 136249361 128 0 S
+44 0 -20 1d1+19999 30d20+15
+1800000 792000
+8 8 0
+24 7 16 18 15 14 12 11
+#8908
+mob Chamberdeath~
+&bC&BhamberDeat&bh&n~
+&wThe room &Kcaves &win as &bC&BhamberDeat&bh &wstands here&n.
+~
+  The fresh spatters of bllod markin this beasts teeth represents what this
+cannibal has just consumed.  He looks at you and licks his lips, imagining
+you as his next meal.  He eyes you from head to toe looking you up and down
+finally fixating upon your eyes.  He looks past them and deeply haunts your
+soul with his rabid stare.
+~
+2097162 134217729 136249361 128 0 S
+44 0 -30 1d1+13333 30d20+15
+1750000 745000
+8 8 0
+24 2 17 16 16 16 14 11
+#8909
+mob Menter~
+&rMenter &W, The &KS&Woul-Les&Ks&n~
+&KA shady figure with &Wglowing &Khands still haunts this place&n.
+~
+  This mans hands glow red from the gloves he wears upon them.  They have been
+with him since his first day as a bodyguard for Onkara.  They have a magical
+hum coming from them.  He finally looks at you.  He stares blankly at your
+human form.  He appears to be looking past you at the walls behind.  A grin
+crosses his lips making them curl up into a look of bloodlust.  He realizes
+you are still standing before him, yet he stares again at his gloves.
+~
+176160842 134250497 136249361 128 1000 S
+46 0 -35 1d1+19999 30d10+50
+2200000 945000
+8 8 1
+24 8 25 15 14 14 12 11
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SPELL_HARM 75
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_EARTHQUAKE 50
+#8910
+mob phantom beast~
+&KThe Phantom Beast&n~
+&wA &ybeast&w filled with &rhatred&w still roams here in search of &Ksouls&n.
+~
+&nA large beast stands here, among the shadows.  Is this the phantom of the fields?
+~
+2097418 134250497 136249361 1572994 0 S
+47 0 -40 1d1+14999 10d5+30
+2250000 1100000
+8 8 2
+24 3 25 16 16 15 15 12
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_FIRELANCE 35
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#8911
+mob Messiah~
+&KThe broken prophet, &RM&ressia&Rh&n~
+&wA man is here, &Kstill hanging from his own &ycrucifixion&n.
+~
+&nYou can tell that the air in here is filled with utter despise that Messiah should see you enter his chamber.  He gives you a sickening glance as if to scare you into turning back....Maybe that isnt a bad idea.
+~
+234881098 135299073 136249361 884490990 -1000 S
+48 0 -40 1d1+56999 25d25+50
+5000000 2000000
+8 8 1
+0 4 26 25 25 25 25 25
+SKILL=SKILL_STEAL 75
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#8912
+mob soldier, lost~
+&wA lost soldier&n~
+&wA soldier roams here, in hopes of finding a way home again.&n
+~
+ This is a man, disillusioned and just doesnt care anymore.  He lost the 
+war for his family, his friends and his neighbors, he has nothing left.
+~
+135266376 134250497 136249361 128 0 S
+43 0 -25 1d1+9000 15d25+25
+750000 645000
+8 8 1
+35 3 24 17 14 15 12 15
+SKILL=SKILL_HUNT 99
+#8913
+mob slave~
+&wA &Kbroken&w slave&n~
+&wA tortured being who has lost all will weeps in silence before you.&n
+~
+  This is a slave that has no real flesh anymore.  He looks pale beneath
+his skinless body, and he is nawing away at your flesh for food.  He must
+die for that.
+~
+10 134217729 136249361 128 0 S
+41 10 -15 1d1+8000 10d30+25
+350000 400000
+8 8 1
+1 4 16 16 15 14 12 15
+#8914
+mob Cage Master~
+&wThe &KCage&y Master&n~
+&wA &Khaunting&w figure &Klurks&w around, &rbeconing&w you to come forth&n.
+~
+  The cages around tell you alot of what this man deals with on a day-to-day
+basis.  He slaps away the imprisoned's hands and feeds them only morsels
+while he eats a hearty meal in front of them.  This man is of pure and '
+utmost evil.  He begins sliding his hand down to his blade he carries.  The
+blade glows with all the elements it seems.  Better pull out your sword
+first.
+~
+10 134217729 136249361 128 -1000 S
+45 0 -5 1d1+15000 40d20+25
+1500000 1000000
+8 8 1
+24 4 25 16 15 14 13 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#8915
+mob King Of LeechWorms~
+&wThe &KForgotten &YKing &wof the &GL&gee&GchW&gorm&Gs&n~
+&wA &Ynoble&w looking &GL&geechWor&Gm &yslithers&w in the &Kdark&n.
+~
+ This is a rotound monster, he is of the highest wealth and the largest
+of size.  He sits mightily upon his throne looking for a servant.  He hasnt
+seen another human in years.  He welcomes you into his comfortable abeaud
+to sit and chat.  Better leave, he might fall.
+~
+25166154 134250497 136249361 128 1000 S
+47 0 -33 1d1+26500 10d20+30
+0 1269000
+8 8 1
+24 3 25 18 16 15 13 13
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 75
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+ATTACK_SKILL=2
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8916
+mob Leechworm Servant~
+&wA &KServant &GL&gee&GchW&gor&Gm&n~
+&wA rather hefty looking &gworm&w slithers around in here.&n
+~
+A leechworm serves his master and ignores your existence.
+~
+159385096 134250497 136249361 128 0 S
+45 0 -22 1d1+13000 10d10+30
+0 945000
+8 8 1
+24 4 25 17 15 15 15 12
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_ENERGY_DRAIN 30
+SKILL=SPELL_LIGHTNING_BOLT 55
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+#8917
+mob The Hatred of the Lands~
+&wThe &RH&ratre&Rd &wof the &yLands&n~
+&wA ball of &ranger&w and &gfrustration&w packed into &Kemotion &wstands before you, looking &rangry&n.
+~
+This is what the war has turned into.  One big ball of anger, frustration
+and death, this thing carries it all.
+~
+142671898 135561217 136249361 536871048 -1000 S
+48 0 -40 1d1+30000 20d20+99
+3500000 1500000
+8 8 0
+0 4 25 15 16 25 15 13
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 50
+SKILL=SPELL_MORTICE_FLAME 75
+SKILL=SPELL_EARTHQUAKE 75
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#8918
+mob Judas~
+&bJudas&w, The &cMorally Inept&n~
+&bJudas Iscariot &wstill sits upon his self-made &Ythrone&n.
+~
+  This is the man who utterly despised the messiah, Jesus.  He vowed his 
+life to despising him.  In the end he won.  Now he stands here as a soul
+but one that won his war of the minds.  He hates you, he hates The Messiah
+this man is spitefull and will kill you without a second thought.  Leave
+now or prepare for war.
+~
+167772234 134250497 136249361 8388744 -1000 S
+48 0 -40 1d1+23500 30d15+15
+2500000 1400000
+8 8 1
+24 4 25 16 16 16 15 11
+SKILL=SKILL_STEAL 75
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 25
+SKILL=SPELL_MORTICE_FLAME 75
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8919
+mob Tremo god of the damned~
+&KTremo&w, &KGod &wof the &RDamned&n~
+&wThe &KGod &wof the &RDamned &wstands here&n.
+~
+  This is a man, cowardess in his nature.  He left his people for dead, and
+such they perished.  He came back after knowing this, because his strength
+is not up to that of The Messiah.  He let his people die instead of himself
+what a god that is.
+~
+167772234 134250497 136249361 8388744 -1000 S
+48 0 -40 1d1+25000 20d35+25
+3500000 2000000
+8 8 1
+16 4 25 24 25 25 25 25
+SKILL=SKILL_STEAL 75
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_BLACK_BURST 25
+SKILL=SPELL_MORTICE_FLAME 75
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8920
+mob Grolius~
+&WG&wroliu&Ws&w, the &bGod &wof &SJ&Su&Sd&Sg&Se&Sm&Se&Sn&St&n~
+&wAn old man stands here, still judging &Ksouls&n.
+~
+  A frail old man, dead obviously, but he still is here working.  Judging souls,
+he looks at you and begins to pass judgement, peering into your soul.  He eyes
+you up and down, and makes you feel small.  He carries with him on his neck a
+very large symbol.  The symbol itself is an entity of when Grolius was an 
+apprentice to Tremo.  The God of the Damned himself taught this man, but, as the
+symbol shows, he was killed in battle, while trying to betray his master.  
+~
+167772234 134250497 136249361 8388744 1000 S
+48 0 -40 1d1+27500 20d20+25
+2677700 1400000
+8 8 1
+14 4 25 16 16 16 15 11
+SKILL=SKILL_STEAL 75
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8921
+mob phantom spider~
+&KA Phantom S&wpide&Kr&n~
+&KA Phantom S&wpide&Kr &wclings to its &Wweb&w for comfort&n.
+~
+&nA furry, fuzzy little baby clings to it's web trying to comfort itself.  It knows you are here to harm it and to take its precious sandals.  Thats why they must protect what is there's and kill you before you kill them.
+~
+159449674 134250497 203358225 138 0 S
+46 0 -33 1d1+13999 10d10+99
+0 1104000
+8 8 2
+24 4 25 18 15 15 14 12
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+#8922
+mob blasphemy~
+&wThe &RHorned &KDemon&w, &gBlasphemy&n~
+&wThe last of &breligion &wstands here&n.
+~
+This is a withered man, who has tried to force his ways upon those less
+fortunate of having the courage of telling him off.  He spent his entire
+life mocking values, religions, and the poor, now he scoffs at your presence
+and spits in your face.  This man is of poor intelligence yet his tail is
+very impressive.
+~
+176160842 134250497 136249361 128 -1000 S
+47 0 -22 1d1+29999 20d20+25
+1250000 1100000
+8 8 0
+35 0 25 18 15 25 15 12
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8923
+mob heresy~
+&wA &GL&gizar&Gd&w-like man named &YHeresy&n~
+&wAgainst all your wishes, &YHeresy&w is still here&n.
+~
+  This man is adorned with scales and scars from a life of teaching prophecy
+and teaching mankind about blasphemy.  He is adorned only with the most
+unholiest of acts, he hold an upside down cross, a symbol of despise for
+Christ.  He spits upon it again and again, he tries to break it but to no 
+avail.  
+~
+176160842 134250497 136249361 128 -1000 S
+46 0 -40 1d1+29999 25d20+35
+1750000 1104000
+8 8 0
+0 0 25 18 15 15 15 12
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#8924
+mob wall emotion~
+&wThe &KWall &wof &bEmotion&n~
+&wEverything you feel stands beside you.&n
+~
+This is what you fear most.  A huge wall of what you feel inside has just 
+begun to torture you.  It stands here mocking what you feel and absorbing
+it into what it needs to torment you even more.  It belongs to no one, 
+legend has it this place was built by the Creator, to scare humans into
+believing in his way of religion.  It never happened so he created the 
+monster you see before you.
+~
+180355082 134250497 136249361 1075839104 0 S
+48 0 -40 1d1+27499 15d15+25
+3400000 1440000
+8 8 0
+0 0 25 16 15 16 15 15
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_FIRE_BREATH 50
+SKILL=SPELL_FROST_BREATH 75
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#8925
+mob fury~
+&rFury&n~
+&CYou are overcome with &rFury&n.
+~
+  This is the emotion fury.  It has no other feeling inside, it pounces upon
+its prey with forcefulness and anger, slaughtering them with his humongous
+claws.
+~
+167772170 135561217 136249361 2097156 -1000 S
+44 0 -30 1d1+26999 30d10+99
+1000000 945000
+8 8 0
+24 3 25 18 15 14 14 15
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8926
+mob Paranoia~
+&KParanoia&n~
+&BThe &KParanoia&B beings clinging to you&n.
+~
+  The walls have locked away this beast in his mind.  He lost his reason to try
+along with any other feeling besides claustrophobia and paranoia.
+~
+33554442 134217729 136249361 0 -1000 S
+44 0 -25 1d1+26999 20d10+99
+1000000 945000
+8 8 0
+0 0 25 17 16 15 12 12
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8927
+mob Disgust~
+&GDisgust&n~
+&KA foul stench of &GDisgust &Kenters your nostrils&n.
+~
+  A foul stench arises from this beasts body and erodes the skin of your 
+nostrils with his foul stench, now you know why he is called disgust.
+~
+33554442 134217729 136249361 0 -1000 S
+44 0 -25 1d1+26999 20d10+99
+1000000 945000
+8 8 0
+0 0 25 17 16 15 12 12
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8928
+mob Malice~
+&gMalice&n~
+&KA &gMalicious &Rfiend &Kstands before you&n.
+~
+  This is the final and most deceitful emotion on the first level.  Malice can
+be your friend or your enemy, whichever he is, he relies on your fears to
+better him in slaying you.
+~
+33554442 134217729 136249361 0 -1000 S
+44 0 -25 1d1+26999 20d10+99
+1000000 945000
+8 8 0
+0 0 25 17 16 15 12 12
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8929
+mob Nirvana~
+&GNirvana&n~
+&WIn a state of euphoria and bliss, &GNirvana &Wis here&n.
+~
+  You feel what he fees, you are what he is, you wish you were just as happy
+as this creature.  He always has a look of happiness about him, he seems to
+be enjoying this hypnotic state of mind, maybe you shouldnt wake him.
+~
+167772186 135561217 136249361 8388616 -1000 S
+46 0 -40 1d1+34999 20d10+99
+1500000 1104000
+8 8 0
+24 4 25 16 16 16 15 11
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 25
+SKILL=SPELL_MORTICE_FLAME 75
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8930
+mob Torment~
+&CTorment&n~
+&wThe utter most feeling of &CTorment&w is by your ear&n.
+~
+  You feel this when you get picked on, remember the times on the playground
+those kids, they tormented you, if only you would have gotten them back, you
+never did, all those feelings built up.  It created this beast, he thrives of
+torment and your his next victim.
+~
+33554442 134217729 136249361 0 -1000 S
+46 0 -35 1d1+23799 10d10+99
+1750000 1500000
+8 8 0
+0 0 25 16 14 16 13 13
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8931
+mob rage~
+&RR&rag&Re&n~
+&KYour emotions have been overcome by &RRage&n.
+~
+  You feel this everytime.  Your girlfriend cheated on you, you felt this 
+beasts presence.  In your heart, in your mind, in your soul, and everywhere
+in your life, this beast has guided you to feel him.  Next time you wont be
+so lucky.
+~
+167772234 134250497 136249361 128 -1000 S
+48 0 -40 1d1+35699 20d10+99
+2000000 1500000
+8 8 0
+0 0 25 17 15 15 15 14
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8932
+mob Despise~
+&BD&bespis&Be&n~
+&wThe feeling of &BD&bespis&Be &whas gotten to you&n.
+~
+  Shattered, that a way of making you feel lonely, like everyone despises you
+this beast likes it that way, he enjoys feeling you squirm and wiggle due to
+his presence.  He is what you feel everytime you envy someone.  Do you despise
+him?
+~
+167772234 134250497 136249361 128 -1000 S
+48 0 -40 1d1+43999 20d10+99
+2000000 1500000
+8 8 0
+0 0 25 17 15 15 15 14
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MAJOR 75
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#8933
+mob Broken Pain~
+&KB&wroke&Kn &RP&rai&Rn&n~
+&wThe &Klost&w, the &Ctormented&w and the &Kb&wroke&Kn &wlie in one soul, and it cries&n.
+~
+&nThis is a creature, fowl in his intentions.  He feeds off you and lives off
+your feelings, he believes in nothing and watches you every chance he gets.
+He is broken nothing left to live for, so he has to kill you to feed his hunger and soul.
+~
+74 134217729 136249361 128 -500 S
+45 1 -1 1d1+9999 5d10+20
+750000 350000
+8 8 0
+0 0 17 18 15 14 13 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#8934
+mob Hunter~
+&KHunter&n~
+&wThe &KHunter&w awaits you&n.
+~
+  A fierce humanoid stands before you.  It's very large and seems to be sleeping
+guarding this cave from the evil that always enters.  He seems to always keep an
+eye out for intruders.
+~
+135266314 134250497 136249361 2097280 -1000 S
+48 0 -37 1d1+17999 30d20+99
+4000000 1750000
+8 8 0
+0 0 25 17 14 16 12 15
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#8935
+mob Tresses, The Godly LeechWorm~
+&BTresses&w, The &WGodly &GL&gee&GchW&gor&Gm&n~
+&wAn &runfathomable&w, and &Kunkillable &ybeast&w slithers above you&n.
+~
+&n  A large warrior sits upon his mighty throne.  He was the hero who saved the
+LeechWorms in their battle against Messiah and his troops.  The defeat of
+Messiah sent the LeechWorms into hiding among the hidden hallways.  The luck 
+of the win was what drove the Messiah to kill and slay more and more, if Tresses
+wasnt hiding he would have been long dead.
+~
+192938058 134250497 136249361 2097280 0 S
+48 0 -37 1d1+24999 20d35+25
+0 1550000
+8 8 1
+0 0 25 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 50
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#8936
+mob Killer~
+&WKiller&n~
+&wThe &Wkiller &wplots your doom&n.
+~
+  This humanoid is not your friend and neither does he have friends.  All his
+friends he slaughtered and ate.  He is very cannibalistic in character and looks
+like he's eyeing your flesh for his next feast.  Be swift or be dead.
+~
+1048586 134250497 136249361 2097280 -1000 S
+48 0 -35 1d1+17999 30d30+50
+4000000 1750000
+8 8 0
+0 0 25 18 16 14 15 12
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 75
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#8937
+mob GodFlesh~
+&KG&ro&KdFl&res&Kh&n~
+&wThe &rflesh&w of pure &Kevil&w arises&n.
+~
+&nA large beast stands here.  Upon its head, is a set of massive dark red 
+horns.  Its body, made solely of muscle.  Standing well over ten feet tall 
+and, atleast five hundred pounds of muscle.  Its body is covered in a sort
+of flesh for protection.  The lower part of its body, is made like that of a
+horse, and, the upper part like that of a bear, with the face of none other
+then Satan himself.  The large horns it posseses might be well worth the 
+battle this beast might put up, but, its cloak made of flesh of its slaughtered 
+victims looks more intriguing.
+~
+134217738 134250497 136249361 128 -1000 S
+47 0 -32 1d1+17999 20d20+99
+3000000 1400000
+8 8 0
+0 0 25 18 14 15 13 12
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=108
+#8938
+mob reaper incarnation death~
+&KThe Reaper, an Incarnation of Death&n~
+&wA &Kcloaked &wman stands here, ready to harvest your soul.&n
+~
+&wA &Kcloaked&w man is here.  Body completely covered in a dark gown
+and wielding a rather large scythe, its face unseen by any human alive
+(and if it has been seen, that individual has yet to make it out alive).  You reach
+towards it, as it slices the air with its scythe, ready to bring down your head.&n
+~
+134217738 134250497 136249361 128 -1000 S
+46 0 -32 1d1+17999 40d20+99
+1500000 1400000
+8 8 0
+0 0 25 18 14 15 13 12
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=75
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8939
+mob el cu cuy~
+&KEl Cu Cuy&n~
+&wThe &Kboogie &yman &whas returned to &rslay &wyour dreams&n
+~
+&nYou know who this is.  This very creature has entered your dreams so many
+times and taken away the happiness in them.  He grins at you knowing he has 
+done such acts unto all.  Now he wishes to add your soul along with his
+collection of your dreams.
+~
+134217738 134250497 136249361 807141506 -1000 S
+47 0 -32 1d1+11999 60d15+99
+2000000 1400000
+8 8 0
+0 0 25 18 14 15 13 12
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8940
+mob black cauldron of fire~
+&wA &KBlack Cauldron &wof &RF&rir&Re&n~
+&wA &Rf&rlamin&Rg &Kcauldron &Rengulfs &wyour &Ksoul&n.
+~
+&nA tall wall of fire engulfs you.  Its oozing of lava pours all over you marring
+your body, turning it into ash.  You pull out your weapon but it becomes liquid
+like all other things that have come in contact with this strange thing.  Maybe
+you shouldn't touch it.
+~
+1048586 134250497 136249361 128 -1000 S
+48 30 -37 1d1+49999 10d2+10
+0 1750000
+8 8 0
+0 0 25 17 14 16 12 15
+SKILL=SPELL_HEAL_MAJOR 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#8941
+mob skin elemental~
+&wThe &ySkin &BE&blementa&Bl&n~
+&wA blob of &rflesh &wand &Rv&Bein&Rs &warises from the &yground&n.
+~
+&nA blob of flesh and veins lies here.  It emit's a foul odor of decay. Maggot's 
+run across it as well as other insects that are looking for lunch.  It pokes up
+an eyeball, squints at you and absorbs the eye back into itself.  The veins and
+insects on it dont help finding a place to put your sword in.  Oh well though, 
+you will not live anyway.
+~
+522 134250497 136249361 1409307374 -1000 S
+48 0 -32 1d1+24999 30d30+99
+4000000 2000000
+8 8 0
+0 0 25 18 14 15 13 12
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#8942
+mob demon crawler~
+&wA &Kdemon &wcrawler&n~
+&wA &Kdemon &wcrawler sweeps past you&n.
+~
+&nYou stare blankly into a clear looking animal.  You can see the insides of the
+body its made up of.  The organs are a pale greenish color and it walks on four
+feet covered with claws.  Its eyes bug out like that of a fish and its body is
+scaled as well.  The tail tho looks like a scorpions with a stinger attached and
+ready to strike.  Beware of this creature, it seems very mean.
+~
+1090781256 134217729 136249393 128 -1000 S
+41 1 -10 1d1+7499 20d3+40
+0 500000
+8 8 0
+0 0 25 17 14 14 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#8943
+mob floating eyeball~
+&wA floating eye&n~
+&wA floating eye winks at you&n.
+~
+  A very large eye of a beast floats here.  It has been severed and a magical
+spell put on it.  Now it roams beneath here looking for its owner.
+~
+1090781256 134217729 136249393 128 -1000 S
+41 2 -10 1d1+7499 20d3+40
+0 500000
+8 8 0
+0 0 25 17 14 14 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#8944
+mob soul in the shadow~
+&wA &Ksoul &win the &Kshadows&n~
+&wA &Ksoul &whides in the &Kshadows &wwaiting to live&n.
+~
+  A dark soul floats among the remains of the dead, its trapped here.  Until it
+can find another owner it will remain here.
+~
+1074004040 134217729 136249393 128 -1000 S
+41 15 -10 1d1+7999 20d3+40
+350000 500000
+8 8 0
+0 0 25 17 14 14 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#8945
+mob soulwound~
+&KS&wo&Ku&wl&KW&wo&Ku&wn&Kd&n~
+&wA big hole has &Bshattered&w through your &Ksoul&n.
+~
+  A humongous hole has ripped apart inside.  The wound is gaping and very
+large.  This soul has a mighty wound that looks to absorb your being.  Run now
+for darkness shall cloak your eyes.
+~
+8454154 134250497 136249361 136 -1000 S
+48 0 -40 1d1+30000 30d20+30
+4200000 1500000
+8 8 0
+24 4 25 15 16 16 15 13
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 50
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_EARTHQUAKE 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_TYPE=105
+ATTACK_SKILL=25
+ATTACK_SKILL=5
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#8946
+mob banished soul, spiral~
+&KTh&Re Spir&Kal&n~
+&wYou &Kslip &winto a &Rspiraling &phaze&n.
+~
+&nThe very being of your existence seems to be slipping away.  A haze has drug
+you down into the realm of screams, they echo all around you.  This fearsome 
+monster lies here in wait.  Hoping that you will be stupid enough to fall into
+its trap.
+~
+135266570 134250497 136249361 2097282 -1000 S
+46 0 -25 1d1+15999 25d10+15
+2600000 1104000
+8 8 0
+0 0 25 15 14 14 12 14
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#8947
+mob weeping angel~
+&wA &CW&Weepin&Cg &WA&Cnge&Wl&n~
+&wAn &Wangel&w, banished from &Wheaven &Bcries&w here, all alone&n.
+~
+  The wings on this man are huge to say the least.  There is fresh blood upon
+his lips.  He was banished from the heavens for drinking the blood of the other
+angels.  Although they might be dead they did have a human form.  He is very
+large in stature as well.  He turns towards you with his sword and gets ready
+to bleed you for his next feast.
+~
+167829770 134250497 136249361 1073741952 1000 S
+48 0 -35 1d1+22500 30d30+99
+4999999 1999999
+8 8 1
+0 0 25 16 14 25 13 15
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_IMPROVED_INVIS 99
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_RESIST 60
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_CALL_LIGHTNING 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#8948
+mob quest bloody angel~
+&RThe Bloody Angel&n~
+&WThe&R bloody&C angel&W awaits your arrival.&n
+~
+You see before you a large angel.  He was banished from heaven for stealing
+the wings of other angels, as well as condeming them to hell.  He still has blood
+upon his hands from his attempt to kill God himself.  This is a force to be reckoned
+with and you stand in his way, now you will suffer his wrath.
+~
+1258092314 135299073 136249361 2097280 0 S
+48 0 -37 1d1+749999 20d20+99
+5000000 2000000
+8 8 1
+35 6 25 25 25 25 25 25
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_IMPROVED_INVIS 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_AID 99
+SKILL=SKILL_RAGE 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SPELL_BIND_SOULS 99
+SKILL=SPELL_CALL_LIGHTNING 99
+SKILL=SPELL_FLY 99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=13
+ATTACK_TYPE=106
+#8949
+mob Slog's pet snake quest~
+&GS&glog'&Gs &Gp&ge&Gt&n &Gs&gnak&Ge&n~
+A huge snake about 45 feet long and big enough to swallow a cow whole is slithering across the ground.
+~
+   This is Slog's enormous pet snake.  It has large venom oozing fangs
+and a long slithering tongue whipping at your face.  Best not make
+any sudden movements, or its snack time for snakeypoo.
+~
+163907336 6324225 136249361 1107296392 -1000 S
+48 0 -30 100d1+195000 25d25+75
+1000000 1500000
+8 8 0
+0 0 16 18 14 14 15 15
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 60
+SKILL=SKILL_FOURTH 30
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+$~
+#999999

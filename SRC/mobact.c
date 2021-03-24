@@ -1226,6 +1226,10 @@ int mb1300_mob_cast(struct char_data * ch, int lv_spell)
 			rc = FALSE;
 			break;
 		}
+	case SKILL_TRIP:{
+			rc = FALSE;
+			break;
+		}
 	default:{
 			rc = FALSE;
 		}

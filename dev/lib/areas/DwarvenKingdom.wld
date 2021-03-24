@@ -1,0 +1,1117 @@
+#4600
+Cave Entrance~
+You have come across a rather large entrance to some interesting looking
+caverns.  It appears as though the path into this cave has been traveled
+recently.  But the spacing between the most recent of footprints suggest 
+a race of short beings.  You feel compeled to venture further into the cave.
+~
+31 0 0 1 99 1
+D3
+The caverns are clouted in darkness.
+~
+~
+0 -1 4601
+S
+#4601
+Inside the Caves~
+This cavern seems rather narrow and short, there is a junction here. To the
+north the cavern just seems to lead off into darkness.  The caverns seem 
+somewhat wider to the south and the west.  There is a glint of light coming 
+from the east.
+~
+31 9 0 1 99 1
+D0
+A small cavern leads inton darkness.
+~
+~
+0 -1 4602
+D1
+You think this may be the way out of the caves.
+~
+~
+0 -1 4600
+D2
+nothing special to the south.
+~
+~
+0 -1 4607
+D3
+The tunnel seems wider to the west.
+~
+~
+0 -1 4605
+S
+#4602
+Small Cave~
+This small, winding cavern continues on its path through the heart of the 
+mountain.  Water drips slowly down to the ground breaking the silence that
+grips this part of the cave.  Tha cavern leads down into deeper darkness and
+south into more winding caves.
+~
+31 9 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 4601
+D5
+You hear the faint sound of running water.~
+~
+0 -1 4603
+S
+#4603
+Small Cave~
+After completing a rather difficult climb down to this part of the caverns 
+you are greated by the sound of running water echoing through the cavern.
+There is little else of intrest here.
+~
+31 9 0 1 99 1
+D1
+You hear the sound of water gently flowing in the cavern ahead
+~
+~
+0 -1 4604
+D4
+This passage leads up into another dark cave.
+~
+~
+0 -1 4602
+S
+#4604
+Small Cave~
+Upon entering this part of the caverns you are amazed by the amount of noise
+that such a small river could make.  The river seems to run south but you
+can not follow it very far, you wounder what larger caverns may exist further
+down, and what riches they may possess.
+~
+31 9 0 1 99 1
+D3
+This cavern leads away from the river
+~
+~
+0 -1 4603
+S
+#4605
+Cavern~
+This tunnel is somewhat wider than the one to the east of here.  The sets of
+small foot prints suggest that someone has been here recently.  This tunnel
+is short enough to make the average human feel umcomfortable.  A passage 
+leads off to the north and one leads east.
+~
+31 9 0 1 99 1
+D0
+nothing special ahead.
+~
+~
+0 -1 4606
+D1
+There is a junction ahead.
+~
+~
+0 -1 4601
+S
+#4606
+Cavern~
+As you continue along this winding set of caverns you begin to wonder where 
+they might be leading to.  At that moment you see a small figure run past you 
+and remember the tales of the legendary people that lived in great caves,
+the dwarves.  You see a faint light coming from the west.
+~
+31 9 0 1 99 1
+D2
+The cavern passage looks just like all the other ones
+~
+~
+0 -1 4605
+D3
+light ahead
+~
+~
+0 -1 4623
+S
+#4607
+Cavern~
+This cavern is leading you deeper into the heart of the mountain.  The walls
+are cold, and the path is very unsteady.  There doesn't appear to be anything 
+alive in this part of the caves.  This passage leads north and east into more
+winding dark caverns.
+~
+31 9 0 1 99 1
+D0
+There is a junction ahead
+~
+~
+0 -1 4601
+D1
+This passage continues east
+~
+~
+0 -1 4608
+S
+#4608
+Cavern~
+This cavern continues on its progression deeper into the mountain.  The air
+in this room seems a bit moister and warmer.  There is odd looking fungus 
+growing on one of the walls here.  Tracks suggest that something larger was
+here not too long ago.  This passage leads to the west and to the south.
+~
+31 9 0 1 99 1
+D2
+You think there is a junction ahead
+~
+~
+0 -1 4609
+D3
+The passage continues west
+~
+~
+0 -1 4607
+S
+#4609
+Cavern~
+As you continue your travel down this passage you notice that there seems
+to be more life in this part of the cave.  There is odd fungus that is 
+growing on the walls and you think you hear something moving around near by.
+The passage to the west seems a bit narrower than the others.
+~
+31 9 0 1 99 1
+D0
+nothing special
+~
+~
+0 -1 4608
+D2
+nothing special
+~
+~
+0 -1 4611
+D3
+more caves to the west
+~
+~
+0 -1 4610
+S
+#4610
+Cavern~
+This passage appears at first to be a dead end, but then you notice a small
+hole in the ground that you might be able to climb down.  You begin to wonder
+if that hole in the ground was made by some inhabitant of the caves.
+~
+31 9 0 1 99 1
+D1
+The passage leads to a junction
+~
+~
+0 -1 4609
+S
+#4611
+Cavern~
+This north-south passage does not look any differant then the caverns 
+immediately nearby.  The walls are not coated with fungus however.  There
+seems to be a much higher quality to the stone in these walls.  There may 
+have been gold here once long ago.
+~
+31 9 0 1 99 1
+D0
+There appears to be a junction ahead
+~
+~
+0 -1 4609
+D2
+nothing special
+~
+~
+0 -1 4612
+S
+#4612
+Cavern~
+There is a fork in this part of the cave.  To the north a small passage seems
+to slope upward, possibly leading to an exit.  The passages to the east and
+west appear to lead down, deeper into the mountain.  This particular room
+has some odd writing on the south wall.  It looks like it was put there 
+recently.
+~
+31 9 0 1 99 1
+D0
+nothing special
+~
+~
+0 -1 4611
+D1
+nothing special ahead
+~
+~
+0 -1 4619
+D3
+nothing special ahead
+~
+~
+0 -1 4613
+S
+#4613
+Cavern~
+This downward sloping cavern does not seem special in any way.  The air here
+is a little drier than in the area to the east.  There are sounds of some 
+inhabitants nearby.
+~
+31 9 0 1 99 1
+D1
+nothing special ahead
+~
+~
+0 -1 4612
+D2
+nothing special ahead
+~
+~
+0 -1 4615
+D3
+The sounds grow louder
+~
+~
+0 -1 4614
+S
+#4614
+Cave Lair~
+This appears to be the home of some very uncivilized being.  There are scraps
+of food lying all around.  You notice something that looks like a severed
+human leg on the floor and then you wonder what could possibly do this.  
+The only way out of this room is back to the east.
+~
+31 9 0 1 99 1
+D1
+nothing special ahead
+~
+~
+0 -1 4613
+S
+#4615
+Cavern~
+These caverns are all begining to look the same to you.  There is very little
+that distinguishes this room from the last.  You are begining to think that
+you are lost and hope that one of these passageways leads to the surface.
+~
+31 9 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4613
+D2
+nothing special
+~
+~
+0 -1 4616
+S
+#4616
+Cavern~
+The downward slop of this passage is much more evident than before.  You feel
+sure that you are many more feet below the surface, where you started.  You
+hear sounds in the distance. 
+~
+31 9 0 1 99 1
+D0
+This passage seems to slope upward
+~
+~
+0 -1 4615
+D1
+Faint sounds come from ahead
+~
+~
+0 -1 4617
+D2
+nothing special ahead
+~
+~
+0 -1 4618
+S
+#4617
+Descending Passageway~
+This passage comes to an abrupt stop.  You are amazed by the size of this 
+part of the cavern, it appears to be significantly larger than the surrounding
+areas.  Upon further inspection, you notice a hole in the ground that leads
+into further darkness.  Sounds of work come from below.
+~
+31 9 0 1 99 1
+D3
+nothing special
+~
+~
+0 -1 4616
+S
+#4618
+Old Dwarven Guard Post~
+This large room appears to have once been used by more civilized beings.
+There are a number of broken chairs and other assorted pieces of junk on the
+ground.  A sign on the wall reads:
+"Below here are regions inhabitated by evil beings, be warned that the 
+ Dwarves can assume no responsibility for people who beyond this point."
+~
+31 9 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4616
+S
+#4619
+Cavern~
+The downward slope of this winding passage is much more evident than before.
+You feel sure that you are already many feet below the surface, where you 
+started.  So far the legends of great treasure have been wrong, perhaps you 
+should turn back.
+~
+31 9 0 1 99 1
+D2
+nothing special ahead
+~
+~
+0 -1 4620
+D3
+nothing special ahead
+~
+~
+0 -1 4612
+S
+#4620
+Cavern~
+The downward slope of this winding passage is much more evident than before.
+You feel sure that you are already many feet below the surface, where you 
+started.  So far the legends of great treasure have been wrong, perhaps you 
+should turn back.
+~
+31 9 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4619
+D2
+nothing special ahead
+~
+~
+0 -1 4621
+S
+#4621
+Cavern~
+You have decended several more feet.  The air here is moist and the walls
+are again covered in some form of fungus.  You hear the sounds of water
+flowing in the distance.
+~
+31 9 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4620
+D2
+You hear the sounds of water flowing ahead
+~
+~
+0 -1 4622
+S
+#4622
+Cave Lair~
+You have entered what appears to be another lair of some inhabitant of these
+caves.  There are scraps scattered all over the floor.  Along the east side
+of the room you see a small river flowing south and down deeper into the 
+mountain.  You wounder what could possibly live down there.
+~
+31 9 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4621
+S
+#4623
+Fortified Entrance to Bazzakrak~
+The caverns suddenly widen as you enter an extremely large room.  A large
+pair of thick iron doors seperate you from the legendary dwarven city,
+Bazzakrak.  This room looks as though it has been the sight of many recent
+battles. 
+~
+31 8 0 1 99 1
+D1
+a small cavern ahead
+~
+~
+0 -1 4606
+D3
+a thriving metropolis ahead
+~
+door gate west~
+15 4705 4624
+S
+#4624
+Kayolin Street~
+Upon passing through the iron gate, you are amazed by the sheer size of the
+city.  The ceiling is about forty feet above you, There appear to be buildings
+that reach all the way up.  Many citizens wander the streets and go to and 
+from various places of business.  It is just now that you notice that it is 
+almost light as day in this underground city, yet you are not sure where it
+is coming from.  
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4631
+D1
+The iron gate lies ahead
+~
+door gate east~
+15 4705 4623
+D2
+nothing special ahead
+~
+~
+0 -1 4632
+D3
+Kayolin street continues to lead toward the center of town
+~
+~
+0 -1 4625
+S
+#4625
+Kayolin Street~
+This street leads down toward what appears to be the center of town.  There
+are many dwarves here going about their business as usual, and most of them
+pay absolutely no attention to you, except for the guards.  The buildings 
+seem to be almost built into the mountain and yet they look like seperate
+entities at the same time, you begin to wonder how such magnificant is so 
+well hidden from the outside world.
+~
+31 8 0 1 99 1
+D0
+a small house ahead
+~
+~
+0 -1 4633
+D1
+Kayolin street continues ahead
+~
+~
+0 -1 4624
+D3
+An intersection lies ahead
+~
+~
+0 -1 4626
+S
+#4626
+Intersection~
+This appears to be a major intersection in town, the road to the south leads
+to a rather large looking building.  The road west continues and eventually
+ends in front of what appears to be some sort of temple.  People are rushing
+past you trying, ever so dilligantly to get whatever they are doing done.
+~
+31 8 0 1 99 1
+D1
+Kayolin street is ahead
+~
+~
+0 -1 4625
+D2
+nothing special ahead
+~
+~
+0 -1 4628
+D3
+Kayolin street lies ahead
+~
+~
+0 -1 4627
+S
+#4627
+Kayolin Street~
+This appears to be the end of Kayolin street.  This part of town seems the 
+most busy.  Many people are coming and going from all of the surrounding
+buildings.  You hear sounds of singing and laughter to the north which is 
+loud enough to drown out any sounds you hear coming from the other directions.
+~
+31 8 0 1 99 1
+D0
+an interesting looking tavern ahead
+~
+~
+0 -1 4634
+D1
+An intersection lies ahead
+~
+~
+0 -1 4626
+D2
+a large staircase ahead
+~
+~
+0 -1 4639
+D3
+a temple ahead
+~
+~
+0 -1 4635
+S
+#4628
+Dalzak Street~
+This well paved road leads south, away from the more populated areas of town
+toward what appears to be a palace of some sort.  The sounds of smiths 
+working hard on producing new axes and armor for their fellow dwarves can be
+heard in the distance.  There are many homes that line this part of the 
+street, probably belonging to people who work for the dwarven royality.
+~
+31 8 0 1 99 1
+D0
+an intersection ahead
+~
+~
+0 -1 4626
+D2
+nothing special ahead
+~
+~
+0 -1 4629
+S
+#4629
+Dalzak Street~
+As you continue along this street you notice a large building to the east.  
+Many large dwarves clad in suits of armor are entering and leaving the 
+building.  The main palace seems much closer now.
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4628
+D1
+a large building ahead
+~
+~
+0 -1 4637
+D2
+nothing special ahead
+~
+~
+0 -1 4630
+S
+#4630
+Dalzak Street~
+Many more guards seem to be roaming the streets that are closer to the palace
+grounds. There are dwarves carrying picks and shovels to the building to the
+east.  To the south you see a guard post.  There seem to be very few citizens
+walking through this part of town.
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4629
+D1
+a building ahead
+~
+~
+0 -1 4645
+D2
+nothing special ahead.
+~
+~
+0 -1 4646
+S
+#4631
+Guard Post~
+This room is usually maned by one or more dwarves.  There are many arms and
+weapons that were appearantly stored here, but the shelves are empty so they
+must be in use.  You then notice a large crossbow pointing at the east wall.
+Upon further inspection you notice a well hidden arrow slit for the large 
+crossbow bolts to be shot through at any would be attackers of the stronghold.
+~
+31 8 0 1 99 1
+D2
+nothing special ahead
+~
+~
+0 -1 4624
+S
+#4632
+Guard Post~
+This room is usually maned by one or more dwarves.  There are many arms and
+weapons that were appearantly stored here, but the shelves are empty so they
+must be in use.  You then notice a large crossbow pointing at the east wall.
+Upon further inspection you notice a well hidden arrow slit for the large 
+crossbow bolts to be shot through at any would be attackers of the stronghold.
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4624
+S
+#4633
+Small Dwarven Home~
+This is one of the larger homes that boarder Kayolin Street.  It is, however,
+extremely small by human standards, and rather umcomfortable for all people
+over four feet tall.  This room is not lavishly decorated.  It may even be 
+considered spartian, only a small table and four chairs are here.  There
+is a stairway leading up into the upper levels of the house, but they look
+far too umcomfortable for anyone to want to climb.
+~
+31 8 0 1 99 1
+D2
+nothing special ahead
+~
+~
+0 -1 4625
+S
+#4634
+Duumdukrmekmalk's Tavern~
+This most oddly named establishment seems to be the center of the dwarven 
+evening activity.  There are many dwarves here talking and drinking fine 
+dwarven ale.  Some of the larger dwarves are here telling tales of their 
+adventures into the nearby realm of the Duergar.  A band is here playing 
+music that seems to set a very happy tone throughout the room.
+~
+31 8 0 1 99 1
+D2
+the street ahead
+~
+~
+0 -1 4627
+S
+#4635
+Temple to Morgase Goddess of the Great Forge~
+This large temple, is appearantly the only one in the entire stronghold.  
+Many dwarves are here praying for guidance of some sort.  The walls are lined
+with tools from just about every trade imaginable.  In the center of the 
+room there is an alter with a fire burning in the center of it.  The tone 
+here is somber and concentrated upon the job of paying homage to the god of
+this town. One of the priests welcomes you to join in the prayer services.
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4636
+D1
+nothing special ahead
+~
+~
+0 -1 4627
+S
+#4636
+Inner Sanctum~
+This room is appearantly the residence of the high priestess of the temple.
+It is lavishly decorated with strange goods that come from all over the land.
+There is a small statue here that looks like it once belonged to a human, it
+has the letters "T.G.U.M." carved into the base.  The rest of the contents of
+the room do not appear to be of much interest. 
+~
+31 8 0 1 99 1
+D2
+nothing special ahead
+~
+~
+0 -1 4635
+S
+#4637
+Dwarven Barracks~
+This is the entrance to the dwarven milita's barracks.  There are many 
+weapons on racks along the walls, along with suits of chain mail armor.  
+There are a couple guards here, in plate armor, that eye you as you pass them
+by.  There is enough equipment here to equip a rather large army of dwarves.
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4638
+D3
+nothing special ahead
+~
+~
+0 -1 4629
+S
+#4638
+Dwarven Barracks~
+Many bunks line these walls, some of them have sleeping dwarves in them.  
+This appears to be where the militia sleep when they are between battles.
+Some of the dwarves are seriously hurt and are being taken care of by the
+healty warriors.  There is very little in this room other than the bare 
+necessities.  The warriors pay very little attention to you.
+~
+31 8 0 1 99 1
+D2
+nothing special ahead
+~
+~
+0 -1 4637
+S
+#4639
+Entrance to The Hall of Heros~
+You stand before a large staircase that leads into a magnificant structure.
+As you get closer to the building you only now begin to notice how large it
+truly is.  Many dwarves pass by you, some appearantly just looking while 
+others seem to have jobs to attend to inside the building.
+~
+31 8 0 1 99 1
+D0
+Kayolin street ahead
+~
+~
+0 -1 4627
+D2
+a long hall ahead
+~
+~
+0 -1 4640
+S
+#4640
+Inside the Great Hall of Dwarven Heros~
+As you enter you are amazed by beautity of this place.  Gold lines the walls
+many small gems are fixed into intricate patterns.  There is a certian 
+something wrong with this room, there are workers all around who are doing
+various tasks.  A sign is hanging on the east wall:
+"Most of our exhibits are closed for renovation, feel free to look around"
+-the Caretaker
+~
+31 8 0 1 99 1
+D0
+There is a glowing red sign which reads "EXIT" ahead
+~
+~
+0 -1 4639
+D2
+nothing special ahead
+~
+~
+0 -1 4641
+S
+#4641
+Inside the Great Hall of Dwarven Heros~
+Most of the exhibits here are covered up and closed.  There are a few still
+able to be observed.  There is a statue to one called Gilelak the Great.
+Under the statue there is a plaque that tells stories about how he killed
+five duergar in one swing of his great axe.  The tales continue for many 
+lines, and next to it you see a translation is dwarven that is much longer.
+~
+31 8 0 1 99 1
+D0
+a hall ahead
+~
+~
+0 -1 4640
+D2
+nothing special ahead
+~
+~
+0 -1 4643
+D3
+you see nothing special ahead
+~
+~
+0 -1 4642
+S
+#4642
+Inside the Great Hall of Dwarven Heros~
+Many ropes prevent you from continuing west.  There are many tarps covering 
+interesting looking displays.  There are some dwarves wandering into and out
+of many small passages.  There is a rack of various forms of weapons that 
+were used by many of the more promenent dwarven rulers, most of them 
+variations on the basic two-handed dwarven battle-axe.
+~
+31 8 0 1 99 1
+D1
+nothing special ahead
+~
+~
+0 -1 4641
+S
+#4643
+The Main Exhibit~
+A large wooden and metal thing is in the center of the room.  Many ropes are
+around it to prevent people from getting too close.  The sign next to it says
+that this was the first of many large dwarven battle engines built my the 
+great smith Nalar Ironforge.  The engines were used in many wars against the
+dwarves worst enemies.  The war machine still appears to be functional.
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4641
+D5
+odd things in there
+~
+cover~
+25 0 4644
+S
+#4644
+Inside the Main Exhibit~
+You have entered an extremely cramped space.  Many knobs and levers are all
+over the place.  There are so many buttons you can't resist to push a few to
+see what might happen.  To your dismay nothing happens.  You wonder how this
+machine works, if it does work at all.
+~
+31 8 0 1 99 1
+D4
+nothing special ahead
+~
+cover~
+25 0 4643
+S
+#4645
+Mining Guild~
+A large dwarf greets you as you enter.  There are picks and shovels lining 
+one of the walls.  There is a starway that leads down into darkness.  The
+dwarf notices your glances and explains that those stairs lead to one of the
+richest dwarven mines ever found.  
+~
+31 8 0 1 99 1
+D3
+nothing special ahead
+~
+~
+0 -1 4630
+S
+#4646
+Entrance to Bazzakrak Council Hall~
+A large set of gates prevent you from going any further south into the 
+council hall.  As you stand before it, you are amazed by its intricate 
+design.  Guards are here checking for passes and one of the guards unlocks
+the gate to allow certian dwarves to pass.
+~
+31 8 0 1 99 1
+D0
+nothing special ahead.
+~
+~
+0 -1 4630
+D2
+nothing special ahead.
+~
+~
+0 -1 4647
+S
+#4647
+The Bazzakrak Council Hall Foyer~
+Many dwarves wander through this large room into various parts of the council
+hall.  There are paintings on the wall depicting various battles between the
+dwarves and some of their most hated enemies.  The main hall leads south and
+a smaller hallway leads off to the east.
+~
+31 8 0 1 99 1
+D0
+nothing special ahead.
+~
+~
+0 -1 4646
+D1
+you see nothing special ahead
+~
+~
+0 -1 4648
+D2
+nothing special ahead
+~
+~
+0 -1 4650
+S
+#4648
+Hallway~
+This hallway leads through the council hall.  Many scluptures line the walls
+along with some interesting looking weapons.  Some dwarves pass by you and
+pay very little attention to you.  
+~
+31 8 0 1 99 1
+D1
+tools laying on the ground ahead
+~
+~
+0 -1 4649
+D3
+you see nothing special ahead
+~
+~
+0 -1 4647
+S
+#4649
+Maintenance Head Quarters~
+This room is littered with various tools, from brooms to wagon wheel repair
+kits, every potentially useful tool is somewhere in this room.  There is 
+a pile of papers being suspended a couple feet from the ground by a desk.
+There may even be a dwarf in this mess, assuming he isn't lost in the piles
+of junk.
+~
+31 8 0 1 99 1
+D3
+nothing special ahead
+~
+~
+0 -1 4648
+S
+#4650
+Hallway~
+This hallway leads through the council hall.  Many scluptures line the walls
+along with some interesting looking weapons.  Some dwarves pass by you and
+pay very little attention to you.  
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4647
+D2
+nothing special ahead
+~
+~
+0 -1 4651
+S
+#4651
+Hallway~
+This hallway leads through the council hall.  Many scluptures line the walls
+along with some interesting looking weapons.  Some dwarves pass by you and
+pay very little attention to you.  
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4650
+D1
+nothing special ahead
+~
+~
+0 -1 4652
+D2
+nothing special ahead
+~
+~
+0 -1 4655
+S
+#4652
+Hallway~
+This hallway leads through the council hall.  Many scluptures line the walls
+along with some interesting looking weapons.  Some dwarves pass by you and
+pay very little attention to you.  
+~
+31 8 0 1 99 1
+D0
+nothing special ahead
+~
+~
+0 -1 4653
+D3
+nothing special ahead
+~
+~
+0 -1 4651
+S
+#4653
+Hallway~
+This hallway leads through the council hall.  Many scluptures line the walls
+along with some interesting looking weapons.  Some dwarves pass by you and
+pay very little attention to you.  
+~
+31 8 0 1 99 1
+D1
+nothing special ahead.
+~
+~
+0 -1 4654
+D2
+nothing special ahead
+~
+~
+0 -1 4652
+S
+#4654
+Dwarven War Room~
+In this room there is a large table with various maps placed on it.  The 
+walls are lined with official looking documents and more maps.  Some dwarves
+are here studying the maps and appearantly planning some sort of attack.  
+There are several guards here fully armed and armored, they seem to be 
+expecting an assault at any moment. 
+~
+31 8 0 1 99 1
+D3
+nothing special ahead
+~
+~
+0 -1 4653
+S
+#4655
+Bazzakrak Hall Council Meeting Room~
+Upon entering you are impressed by the size of this room.  There is a large
+marble table in the center of the room surrounded by seven chairs.  One of
+the chairs seems to be much more lavishly decorated than the rest, it
+probably belongs to the ruler of this dwarven town.  The table and chairs are
+surrounded by many rows of smaller chairs.  This room looks large enough to
+seat at least two-thirds the town.  A small exit leads off to the south.
+~
+31 8 0 1 99 1
+D0
+a hallway ahead
+~
+~
+0 -1 4651
+D3
+nothing special ahead.
+~
+~
+0 -1 4656
+S
+#4656
+The Dwarven King's Room~
+This room is much larger than some of the other dwarven residenances that you
+have been to.  There is a window that overlooks an indoor gardin.  There are
+many displays of various scluptures of gold and silver that line the walls of
+this room.  One of the scluptures seems oddly out of place here.
+~
+31 8 0 1 99 1
+D1
+you see nothing special ahead
+~
+~
+0 -1 4655
+D2
+darkness ahead
+~
+~
+0 -1 4657
+S
+#4657
+The King's Treasure Room~
+As you enter this room, it takes a moment for your eyes to adjust to the 
+almost complete darkness in this room.  There are several large chests laying
+on the floor.  Judging by the one open crate, the rest are likely filled with
+gold or silver.  A few small pieces of gold nuggets remain scattered amoung
+the chests.
+~
+31 9 0 1 99 1
+D0
+light ahead
+~
+~
+0 -1 4656
+S
+#4658
+The King's Treasure Room~
+As you enter this room, it takes a moment for your eyes to adjust to the 
+almost complete darkness in this room.  There are several large chests laying
+on the floor.  Judging by the one open crate, the rest are likely filled with
+gold or silver.  A few small pieces of gold nuggets remain scattered amoung
+the chests.
+~
+31 9 0 99 99 1
+S
+$~
+#999999

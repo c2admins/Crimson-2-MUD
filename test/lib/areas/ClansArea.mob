@@ -1,0 +1,16 @@
+#400
+mob bugbear sparring partner~
+&yBugbear sparring partner&n~
+&yA bugbear is here to help you train in the ways of combat.&n
+~
+&y A large bugbear is here to train you in the wars of combat. So pick up your weapon of 
+choice and have at it.&n
+
+~
+10 1 136249361 2097280 0 S
+50 40 40 100d100+3000000 1d1+1
+1 0
+8 8 0
+0 0 16 17 15 16 14 11
+$~
+#999999

@@ -1,0 +1,1956 @@
+#14600
+Near the Elfin Citadel~
+You have wandered onto the grounds of the great Elfin Citadel.  To the north,
+you see the large structure with protruding balconies, and large moat
+surrounding.  From this direction, you sense a great feeling of happiness
+and joy.  As your curiosity inspires you to go east, you notice an old
+sign that has almost completely fallen to the ground.  It reads:
+CAUTION: STRANGE MAGICAL POWERS LIE TO THE EAST!!!
+You also see something carved into a rock by your feet.
+~
+119 1048580 0 1 99 1
+D0
+On the drawbridge to the castle.~
+~
+0 -1 14601
+D1
+A dusty path.~
+gate door east~
+9 -1 14671
+D5
+Mountain pass~
+~
+0 -1 3712
+E
+rock~
+                Elfin Citadel
+                Designed by: Trinity and Kalin
+                Suggested levels: 20 - 40
+                General zone alignment: good
+~
+S
+#14601
+On the Drawbridge~
+You are on the drawbridge, which you judge to be able to support 1000
+men your size.  It is made of solid iron, and appears to be well maintained.
+You are thankful for this because of the unnfriendly moat which lurks
+below you on both sides!
+~
+119 1048580 0 1 99 1
+D0
+The Grand Entryway to the Elfin Citadel~
+~
+0 -1 14602
+D2
+The front.~
+~
+0 -1 14600
+S
+#14602
+The Great Entryway to the Elfin Citadel.~
+As you look around you, you sense the power of the kind Elfin people.  
+While they represent good, you would not want to get on their bad side!
+The tapestries and furniture make the entryway even more grand than you
+had imagined.  There is a large chandelier above you.  It emits a
+soft glow of white light, covering the room like an angel's wing.
+To the east, there is some kind of lounge area; to the west,
+there is room that overlooks the moat, and to the north lies the dining area.
+~
+119 1048584 0 1 99 1
+D0
+The Dining Hall.~
+~
+0 -1 14603
+D1
+The lounge.~
+~
+0 -1 14606
+D2
+On the drawbridge.~
+~
+0 -1 14601
+D3
+The Observation room.~
+~
+0 -1 14608
+S
+#14603
+The Dining Hall.~
+You find yourself in one of the cleanest, most decorative dining halls in
+the land.  You stare in awe at the tiled ceiling, which forms a unicorn
+when the light hits it at the correct angle.  You feel safe here,
+considering the head of the Elfin Guards is sitting here.
+To the west, the base of a stairwell is hidden by a curtain.
+~
+119 1048584 0 1 99 1
+D0
+The Elfin Citadel Kitchen.~
+~
+0 -1 14604
+D2
+The Great Entryway.~
+~
+0 -1 14602
+D3
+A large marble stairwell.~
+curtain door~
+9 -1 14626
+S
+#14604
+The Kitchen.~
+You are standing in the kitchen that serves the entire Citadel.  It is
+immaculately clean, and there is a spiral staircase, most likely leading
+to the supply room.  As you look down, though, you realize that it
+is very dark, and you will need a light source to continue.
+~
+119 1048584 0 1 99 1
+D2
+The Main Dining Hall.~
+~
+0 -1 14603
+D5
+To dark to tell.  :(~
+~
+0 -1 14605
+S
+#14605
+The wine room.~
+You are now in the wine storage room... there are hundreds of bottles that
+line the walls.  As you look around, you contemplate stealing some wine, but
+you decide that perhaps that might not be such a wise idea.  The Elfin
+people are not to be taken advantage of!!!
+~
+119 1048588 0 1 99 1
+D3
+A poorly lit, cramped tunnel.~
+~
+0 -1 14617
+D4
+The Kitchen.~
+~
+0 -1 14604
+S
+#14606
+The lounge.~
+You are in the area that overlooks the fields, where you are mystified
+by how they accomplish such great harvesting without the use of slaves!
+The room is decorated like the rest of the citadel, with ornate and
+extravagent taste.  Once again, there are tapestries on the walls.
+To the east, you can see the base of the east tower.
+~
+119 1048584 0 1 99 1
+D0
+The Princess's Piano Room.~
+~
+0 -1 14662
+D1
+The tower.~
+~
+0 -1 14607
+D3
+The Great Entryway.~
+~
+0 -1 14602
+S
+#14607
+The tower base~
+You are at the base of a very large tower, which you are sure couldn't
+have been built by somebody your size.  It is so TALL!!!  You sense a 
+magical presence being emitted from the top of the tower.
+~
+119 1048584 0 1 99 1
+D0
+The tunnel to the North side of the castle.~
+~
+0 -1 14681
+D3
+The lounge.~
+~
+0 -1 14606
+D4
+The tower, 2nd floor.~
+~
+0 -1 14616
+S
+#14608
+The observation room.~
+You are in a room overlooking the moat... (the observatory for keeping
+watch over the deadly monsters that lurk below.)  A chill runs up your
+spine as you ponder the thought of swimming there!
+~
+119 1048584 0 1 99 1
+D0
+The Elfin Prince's Royal Study.~
+~
+0 -1 14648
+D1
+The Great Entryway to the Elfin Citadel.~
+~
+0 -1 14602
+D3
+The tower base.~
+~
+0 -1 14609
+S
+#14609
+The tower base~
+You are at the base of a very large tower, which you are sure couldn't
+have been built by somebody your size.  It is so TALL!!!  You sense a 
+magical presence being emitted from the top of the tower.
+~
+119 1048584 0 1 99 1
+D0
+The north hallway.~
+~
+0 -1 14683
+D1
+The observation room.~
+~
+0 -1 14608
+D4
+The tower, 2nd floor.~
+~
+0 -1 14610
+S
+#14610
+The tower, 2nd floor~
+You are now on the second floor of the west tower.  While it is only one
+story up, you feel dizzy as you look down upon the deadly moat... the window
+has a loose hindge, and it appears that it has been opened recently. Up,
+you sense a feeling of past people suffering from disorientation.
+~
+119 1048588 0 1 99 1
+D3
+The moat... (looks pretty deadly to me)!
+~
+window~
+11 -1 14615
+D4
+The top of the tower... (it looks confusing).
+~
+~
+0 -1 14611
+D5
+The tower base.~
+~
+0 -1 14609
+S
+#14611
+The top of the tower~
+You feel dizzy, and perhaps this is the why you don't know for sure where
+you are... 
+~
+119 1048584 0 1 99 1
+D5
+The tower, 2nd floor.
+~
+~
+0 -1 14613
+S
+#14612
+The top of the tower~
+You are at the top of the west tower.  While you are made somewhat dizzy by
+the constant swaying, you like the view here.  You can see the land stretching
+out for miles before you... the people look like ants in the fields.  You
+wonder what it must be like to live in such a great castle.
+~
+119 1048584 0 1 99 1
+D5
+The tower, 2nd floor.~
+~
+0 -1 14616
+S
+#14613
+The tower, 2nd floor~
+You are now on the second floor of the west tower.  While it is only one
+story up, you feel dizzy as you look down upon the deadly moat... the window
+has a loose hindge, and it appears that it has been opened recently. Up,
+you sense a feeling of past people suffering from disorientation.
+~
+119 1048584 0 1 99 1
+D3
+The moat... (you do not see the moat monster... RIGHT NOW!!!)
+~
+window door~
+9 -1 14614
+D4
+The top of the tower.~
+~
+0 -1 14611
+D5
+the base of the tower
+~
+~
+0 -1 14609
+S
+#14614
+The moat~
+.
+.
+.
+.
+.
+.
+.
+You are in the moat.  You can't believe you haven't been eaten yet!  You
+decide to either go quickly to the base of the tower, to the east, or
+to swim to the special tunnel that leads UNDER the castle!
+~
+119 1048576 0 1 99 1
+D1
+Could be the bottom of the tower...~
+~
+0 -1 14609
+D5
+The under-castle tunnel!~
+~
+0 -1 14664
+S
+#14615
+The moat~
+You fall two stories only to be eaten!!!!!!!!!!!!!!
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+MMMMUUUUUHAHAHAHAHAHA!!!!!!!!!!!!!!!
+~
+119 1048590 0 1 99 1
+S
+#14616
+The tower, 2nd floor~
+You are now on the second floor of the west tower.  While it is only one
+story up, you feel dizzy as you look down upon the deadly moat which
+completely surrounds the castle.  The window on this side of the castle
+has been bolted shut to keep dare-devil explores like yourself from
+jumping out and exploring with the moatmonster!!!
+~
+119 1048584 0 1 99 1
+D4
+The top of the tower.~
+~
+0 -1 14612
+D5
+The base of the tower.~
+~
+0 -1 14607
+S
+#14617
+A small dark passage~
+You have wandered into a small, rocky, wet passageway that appear to have
+been dug by hand... you can sense the forces of evil that lie ahead.  You
+also note a slight smell in the air that you cannot make out.
+~
+119 1048584 0 1 99 1
+D1
+The wine room.~
+~
+0 -1 14605
+D2
+A small dark passage.~
+~
+0 -1 14618
+S
+#14618
+A small dark passage~
+You are now deeper into the passage.  You are having difficulties determining
+if it is just dark, or smokey.  Your eyes burn as you try to make your way
+to the next exit.
+~
+119 1048584 0 1 99 1
+D0
+A small dark passage~
+~
+0 -1 14617
+D2
+An open, dungeon-like cavern.~
+~
+0 -1 14619
+S
+#14619
+The Dungeon of the Citadel~
+You realize that you have found the dungeon of the Citadel.  This is the
+place that the Elfin people have stored nasty monsters and evil creatures
+so that they may not again disturb the peacefull Elfin lifestyle.  These
+creatures are very dangerous and you probably don't want to get too close!
+There is a massive, titanium gate to the west!
+~
+119 1048584 0 1 99 1
+D0
+A small dark passage.~
+~
+0 -1 14618
+D1
+The warden's office.
+~
+~
+0 -1 14650
+D2
+A door, leading to a small tunnel.~
+door~
+15 -1 14647
+D3
+In the Dungeon of the Citadel.~
+gate~
+9 -1 14620
+S
+#14620
+In the Dungeon of the Citadel~
+You have been brave enough to wander into the Dungeon of the Citadel... it
+is even worse than you had originally suspected.  There is a stench, which
+you realize to be the slight smell you had noticed several rooms away.
+You want to turn back, but the worst of the creatures are still yet to the
+west.  Your curiosity inspires you to adventure further!
+~
+119 1048584 0 1 99 1
+D1
+The entrance to the Dungeon of the Citadel.~
+~
+0 -1 14619
+D3
+Deeper in to the Dungeon of the Citadel.~
+~
+0 -1 14621
+S
+#14621
+Deep in the dark Dungeon of the Citadel~
+You are deep in the dungeons; the stench has only became worse.  You wonder
+if this journey was a wise choice.  The creatures thrash the doors with
+an annoying beat in these cages.  You can hear loud roars from the west.
+~
+119 1048584 0 1 99 1
+D0
+Prison cell.
+~
+~
+9 -1 14697
+D1
+In the Dungeon of the Citadel.~
+~
+0 -1 14620
+D2
+Prison cell.
+~
+door south cell~
+9 -1 14696
+D3
+VERY deep in the Dungeon of the Citadel.~
+~
+0 -1 14622
+S
+#14622
+VERY deep in the Dungeon of the Citadel~
+A chill runs up your spine, as you see things that most people would have
+nightmares about for years to come.  The creatures here are detestable
+beyond any imaginable relm.  You can feel their hot breath flowing from
+the doors.  There is a gate to the north and an iron door to the south.
+Caution: Enterring these cells can be hazardous to you LIFE!
+~
+119 1048584 0 1 99 1
+D0
+In the crushed cell...~
+gate~
+9 -1 14624
+D1
+Deep in the Dungeon of the Citadel.~
+~
+0 -1 14621
+D2
+A prison cell.~
+door~
+9 -1 14623
+S
+#14623
+A prison cell in the dungeon of the Citadel~
+You are in the cell... you blood freezes, as you see the scratch marks on the
+walls.  The animal in this room has spent many years trying to break out.
+You fear for your life that you, yourself might become trapped in here.
+~
+119 1048584 0 1 99 1
+D0
+Deep in the Dungeon of the Citadel.~
+door gate cell~
+9 -1 14622
+S
+#14624
+Inside the crushed cell~
+Somehow you find it hard to believe that any creature could have the power
+to simply crush these huge, iron bars that imprison them, but it
+must have happened.  It appears to have escaped into a tunnel to the north.
+~
+119 1048584 0 1 99 1
+D0
+A path by which it appears an evil creature has escaped!~
+~
+9 -1 14625
+D2
+VERY deep in the Dungeon of the Citadel.~
+gate crushed cell door~
+9 -1 14622
+S
+#14625
+The new lair of the escaped creature~
+This new 'home' for the creature is surrounded all by rock, and the
+prison cell on one side.  The creature is more angry than ever, because it
+realizes that it is still trapped, now by solid rock!
+~
+119 1048584 0 1 99 1
+D2
+The cell of the escaped creature.~
+~
+0 -1 14624
+S
+#14626
+Base of Stairwell~
+You are at the bottom of a large, marble stairwell.  There are several
+pieces of artwork on pedastals along the massive handrails of the stairs.
+Like the rest of the castle, this is clean, well lit and highly ornate.
+To the east there is a curtain, allowing privacy to the dining area.
+~
+119 1048588 0 1 99 1
+D1
+The Dining area.~
+curtain door~
+9 -1 14603
+D4
+The 2nd floor lounge.~
+~
+0 -1 14627
+S
+#14627
+Second floor lounge~
+You have climbed the marble stairs to the second floor.  This is where the
+good Elfin people live.  The bedrooms are to the east and west, and the
+master bedroom of the King and Queen lay to the north.  It can be seen
+that the lifestyle of these Elfin people is a reward for their friendly nature
+~
+119 1048584 0 1 99 1
+D0
+Entrance to the Royal Bedroom.~
+~
+0 -1 14637
+D1
+East wing hallway.
+~
+~
+0 -1 14628
+D3
+West wing hallway.~
+~
+0 -1 14638
+D5
+The base of the stairwell.~
+~
+0 -1 14626
+S
+#14628
+The East Hallway~
+You are in a wide hallway with red carpet and golden walls.  It is an attempt
+at looking like a royal palace.  You think to yourself, 'the cost of building
+this place was astronomical'.  The hallway continues in
+both directions.
+~
+119 1048584 0 1 99 1
+D0
+A Nobleman's sleeping quarters.~
+~
+0 -1 14654
+D1
+The east end of the hallway.~
+~
+0 -1 14629
+D2
+A Nobleman's sleeping quarters.~
+~
+0 -1 14653
+D3
+The Royal Lounge.~
+~
+0 -1 14627
+S
+#14629
+East end of the hallway~
+You find yourself peering out the windows, as you realize that you have a
+view of a nearby village.  There are people busy at work, farming, and
+playing in the streets.  You wonder if this is an Elfin village that is
+supporting the lifestyle of the rich.  There is a slide to the east and
+the hallway goes back to the west.
+~
+119 1048584 0 1 99 1
+D1
+Down the slide.~
+~
+0 -1 14630
+D3
+To the 2nd floor lounge... through the hallway.
+~
+~
+0 -1 14628
+S
+#14630
+The bottom of the slide~
+You have fallen down the slide!  This leaves you on a level that you are
+quite unfamiliar with.  There are many mirrors... and you can see a 
+reflection of a the Elfin Astrologist!  
+~
+119 1050636 0 1 99 1
+D1
+Into the mirrors, the only way out.~
+~
+0 -1 14631
+S
+#14631
+The mirror maze~
+You find yourself lost in the mirrors... All you can see is your own
+reflection, and the reflection of the astrologer.  Sometimes, it appears
+as though you are standing right next to one another!!!  This makes you
+somewhat jumpy, and you decide to move on and find where the mirrors go.
+~
+119 1048584 0 1 99 1
+D0
+The mirror maze.~
+~
+0 -1 14679
+D1
+The mirror maze.~
+~
+0 -1 14631
+D2
+The mirror maze.~
+~
+0 -1 14631
+D3
+The mirror maze.~
+~
+0 -1 14632
+S
+#14632
+The mirror maze~
+You find yourself lost in the mirrors... All you can see is your own
+reflection, and the reflection of the astrologer.  Sometimes, it appears as
+though you are standing right next to one another!!!  This makes you 
+somewhat jumpy, and you decide to move on and find where the mirros go.
+~
+119 1050632 0 1 99 1
+D0
+The mirror maze.~
+~
+0 -1 14633
+D1
+The mirror maze.~
+~
+0 -1 14631
+D2
+The mirror maze.~
+~
+0 -1 14631
+D3
+The mirror maze.~
+~
+0 -1 14631
+S
+#14633
+The mirror maze~
+You can see the end of the maze to the north, and with it, comes the
+astrologer, who stands boldly as if he were some giant towering over you.
+Nevertheless, you must continue, and get out of the maze!
+~
+119 1050632 0 1 99 1
+D0
+The astrologer's room.~
+~
+0 -1 14634
+D2
+The mirror maze.~
+~
+0 -1 14631
+S
+#14634
+The Elfin Astrologer's Room~
+You have enterred the astrologer's room.  He advises the king on many
+matters to do with his kingdom.  Therefore, the king wished to keep him by his
+side at all times.  If you look up, and allow your eyes to adjust to the
+difference in lighting, you can see the king's walk-in-closet.
+There is a rope that one can climb up to see the king.
+~
+119 1048584 0 1 99 1
+D2
+The edge of the mirror maze.~
+~
+0 -1 14633
+D4
+The king's closet.~
+~
+0 -1 14635
+S
+#14635
+The King's Closet~
+This is where the astrologer arrives to deliver messages of the future to the
+king.  You presume that he gets back to his room through some type of magic
+that you have not yet discovered.  In the king's closet, you see many fine
+robes, but the king's slippers stand out to you as being impressive.
+The Royal Bedroom is nearby to the west.
+~
+119 1048585 0 1 99 1
+D3
+The Royal Bedroom.~
+door~
+1 -1 14636
+S
+#14636
+The Royal Bedroom~
+This is the bedroom of the Elfin King and Queen.  How lucky they must be
+to enjoy such extravagence... they even have their own private bodyguard
+in the room, waiting to protect them if anybody evil attempts to harm the
+good couple.  The bed is made of the finest material, and they have a view
+of the Elfin orchards, one of the finest orchards in the land!  The king and
+queen have a right to be proud of all that they have worked so hard for.
+There is a locked closet door to the east.
+~
+119 1048584 0 1 99 1
+D1
+The king's closet.~
+door~
+13 -1 14635
+D2
+The entrance to the Royal Bedroom.~
+door~
+9 -1 14637
+D3
+The Royal Bathroom.~
+~
+0 -1 14640
+S
+#14637
+Entrance to the Royal Bedroom~
+You are in the entrance to the Royal Bedroom.  You aren't suprised by the
+incredible wealth diplayed in this room alone.  There is a brass bench on
+either side of the room inviting you to sit and rest.  In the next room, to
+the north, you can make out the voices of the beloved king and queen.
+~
+119 1048588 0 1 99 1
+D0
+The Royal Bedroom.~
+door~
+9 -1 14636
+D2
+The second floor lounge.~
+~
+0 -1 14627
+S
+#14638
+The West Hallway~
+You are in a wide hallway with red carpet and golden walls.  It is an attempt
+at looking like a royal palace.  You think to yourself, 'the cost of building
+this place was astronomical'.  The hallway continues in both directions.
+~
+119 1048584 0 1 99 1
+D0
+A Nobleman's sleeping quarters.~
+~
+0 -1 14652
+D1
+The Royal Lounge.~
+~
+0 -1 14627
+D2
+A Nobleman's sleeping quarters.~
+~
+0 -1 14651
+D3
+The west end of the hallway.~
+~
+0 -1 14639
+S
+#14639
+The west end of the hallway~
+The view from this window allows you to look out over the forest that many
+Elfin people believe to be haunted by evil spirits.  Thus, not many Elfin 
+people wander off in that direction.  This is the end of the hallway, and
+is decorated similarily to the rest of the hallway and lounge.
+You notice a door to the west that is all black... even the handle!
+~
+119 1048584 0 1 99 1
+D1
+The second floor lounge... through the hallway.~
+~
+0 -1 14638
+D3
+You cannot distinguish what lays west... :(~
+door black~
+15 14600 14655
+S
+#14640
+The Royal Bathroom~
+You are standing in the Royal Bathroom, a place that would put any other
+bathroom to shame.  The handles for the faucets and doors are all made of
+gold.  The water is pumped into a tub, which is made all of white marble.
+You can see a trapdoor that the king and queen use to drop dirty clothes to
+the workers below.
+~
+119 1048588 0 1 99 1
+D1
+The Royal Bedroom.~
+~
+0 -1 14636
+D5
+The laundry shoot.~
+door trapdoor~
+9 -1 14641
+S
+#14641
+The Citadel Royal laundry room~
+You are in the laundry room.  This part of the Citadel is not quite like the
+rest of the castle, but it is still, nevertheless, safe and clean.  You can
+hear the servant's voices from the west.  Since it is difficult to climb
+back up the slide, you conclude that it is best to continue that way.
+~
+119 1048584 0 1 99 1
+D3
+A small tunnel.~
+~
+0 -1 14642
+S
+#14642
+A small tunnel~
+This is a small tunnel.  While it is wide, it is only about 3-feet high.
+You realize that this passage wasn't really meant for you to be in, but
+you consider it safe to proceed.
+~
+119 1048584 0 1 99 1
+D0
+A small tunnel.~
+~
+0 -1 14646
+D1
+The laundry room.~
+~
+0 -1 14641
+D2
+A small tunnel.~
+~
+0 -1 14644
+D3
+The servants' quarters.~
+~
+0 -1 14643
+S
+#14643
+The Servants' quarters~
+You are standing in a room full of sleeping servants.  The king and queen
+have all their laundry for the next day, and most of them have turned in
+early.  They want to get an early start to server tomorrow!
+~
+119 1048584 0 1 99 1
+D1
+A small tunnel.~
+~
+0 -1 14642
+S
+#14644
+A small tunnel~
+This is a small tunnel.  While it is wide, it is only about 3-feet high.
+You realize that this passage wasn't really meant for you to be in, but
+you consider it safe to proceed.
+~
+119 1048584 0 1 99 1
+D0
+A small tunnel.~
+~
+0 -1 14642
+D2
+The supervisor's bedroom.~
+~
+0 -1 14645
+S
+#14645
+The Supervisor's Bedroom~
+The furnishing here is more than sufficient, but not nearly as expensive as
+what is noticable throughout much of the castle.  The Supervisor appears to be
+a rather plain man, as his room isn't very colorfull.  Instead it is mainly
+decorated in black marble with white furniture.
+~
+119 1048584 0 1 99 1
+D0
+A small tunnel.~
+~
+0 -1 14644
+S
+#14646
+A small tunnel~
+This is a small tunnel.  While it is wide, it is only about 3-feet high.
+You realize that this passage wasn't really meant for you to be in, but
+you consider it safe to proceed.
+~
+119 1048588 0 1 99 1
+D1
+A small tunnel.~
+~
+0 -1 14647
+D2
+A small tunnel.~
+~
+0 -1 14642
+S
+#14647
+A small tunnel, leading to a door~
+You have reached the end of the small tunnel.  There is a door here, that
+is closed from this side, and locked from the other.  As you examine the
+door, you notice that it doesn't even have a keyhole to unlock it from the
+other side!
+(You wonder what must be at the other side that they would need to protect the
+king and queen from!)
+~
+119 1048584 0 1 99 1
+D0
+Behind the door...~
+door~
+9 -1 14619
+D3
+A small tunnel.~
+~
+0 -1 14646
+S
+#14648
+The Elfin Prince's Royal Study~
+You are in the Prince's study... The room is full of books of all types.  This
+is where the young Elf is sent to complete his studies.  The Prince is said to
+be one the most inteligent beings in all of the Elfin land!  There is a ladder
+that leads up into his bedroom in the corner of this room.
+~
+119 1048584 0 1 99 1
+D2
+The observation room.~
+~
+0 -1 14608
+D4
+The Prince's bedroom.~
+~
+0 -1 14649
+S
+#14649
+The Elfin Prince's Bedroom~
+You have climbed the latter into the bedroom of the prince.  You are suprised,
+however, at the simplicity of the decorations.  It would appear as though
+the prince is truely humble at heart, unlike his extravagent parents.  You
+wonder if this will eventually carry great change to the Elfin people...
+~
+119 1048584 0 1 99 1
+D5
+The Prince's study.~
+~
+0 -1 14648
+S
+#14650
+The Warden's Office~
+You are in a room with walls made of rock... like a cave.  There are huge
+fossil-like imprints on the walls.  They appear to have been
+man made though.  There is a single table here... and a chair... for the
+warden of the dungeon of the Citadel.
+~
+119 1048584 0 1 99 1
+D3
+The dungeon.
+~
+~
+0 -1 14619
+S
+#14651
+A Nobleman's Sleeping Quarters~
+This is the bedroom of a very well to do friend of the king.  The room is
+decorated as if money were no object, and is kept as clean as can be.  There
+is a bed in the center of the room with a canopy above it.  On the bed,
+a nobleman sleeps dreaming of his money.
+~
+119 1048584 0 1 99 1
+D0
+The West Hallway.~
+~
+0 -1 14638
+S
+#14652
+A Nobleman's Sleeping Quarters~
+This is the bedroom of a very well to do friend of the king.  The room is
+decorated as if money were no object, and is kept as clean as can be.  There
+is a bed in the center of the room with a canopy above it.  On the bed,
+a nobleman sleeps dreaming of his money.
+~
+119 1048584 0 1 99 1
+D2
+The West hallway.~
+~
+0 -1 14638
+S
+#14653
+A Nobleman's Sleeping Quarters~
+This is the bedroom of a very well to do friend of the king.  The room is
+decorated as if money were no object, and is kept as clean as can be.  There
+is a bed in the center of the room with a canopy above it.  On the bed,
+a nobleman sleeps dreaming of his money.
+~
+119 1048584 0 1 99 1
+D0
+The East hallway.~
+~
+0 -1 14628
+S
+#14654
+A Nobleman's Sleeping Quarters~
+This is the bedroom of a very well to do friend of the king.  The room is
+decorated as if money were no object, and is kept as clean as can be.  There
+is a bed in the center of the room with a canopy above it.  On the bed,
+a nobleman sleeps dreaming of his money.
+~
+119 1048584 0 1 99 1
+D2
+The East hallway.~
+~
+0 -1 14628
+S
+#14655
+Black Room~
+This room appears to be built and furnished entirely from black obsidien.
+You have difficulty making out the shapes of the furniture, but it seems
+that there is a glossy black table with two chairs and a dull black desk.
+To the east you see the black door, and in the darkest corner of the room
+there is a hole in the floor with a black ladder going up and down.
+~
+119 1048716 0 1 99 1
+D1
+The East end of the Hallway.~
+door~
+3 14600 14639
+D4
+The Infiniti Room.~
+~
+0 -1 14656
+D5
+You can't quite tell what's in that direction.~
+~
+0 -1 14657
+S
+#14656
+The Infiniti Room~
+You are in a room with a truely breathtaking view... you can see for miles!
+As you look around, you notice Midgaard, which is full of Special Forces
+Guards, waiting to kill anybody who does something wrong... You thank
+yourself that there is nothing similar here.  Then you look to your 
+left!!!
+~
+119 1048588 0 1 40 1
+D5
+The Black Room.~
+~
+0 -1 14655
+S
+#14657
+Odd Room~
+You are in a strange oblong room that doesn't seem to have any
+furniture in it.  However, there seem to be some cracks in one of the
+walls, roughly in the shape of a door.
+~
+119 1048589 0 1 99 1
+D1
+The Place between the floors!
+~
+wall~
+9 -1 14658
+D4
+a dark room in that direction.~
+~
+0 -1 14655
+S
+#14658
+The Room Between the Levels~
+You are in an all wooden tunnel, which is used for the noblemen to escape
+if somebody tries to kill them.  However, you cannot see how they would
+get here.
+~
+119 1048584 0 1 99 1
+D1
+In the tunnel.~
+~
+0 -1 14659
+D3
+The Odd Room.~
+door~
+9 -1 14657
+S
+#14659
+Further in the tunnel~
+You wonder if you were correct in your assumption that this is the escape
+route.  Instead, it looks like a storage place for an odd creature.
+~
+119 1048584 0 1 99 1
+D1
+The Lair of the Elfin Woman.~
+~
+0 -1 14660
+D3
+In the tunnel.~
+~
+0 -1 14658
+S
+#14660
+The Lair of the Elfin Woman~
+You have enterred the lair of a wierd, haggled looking old woman.  She
+has decorated the walls with skins of animals.  You wonder, in her
+feeble condition, how she ever could have killed such great beasts to
+get their skins... hhmmm....
+~
+119 1048584 0 1 99 1
+D3
+The tunnel.~
+~
+0 -1 14659
+D5
+nothing special.
+~
+~
+16 -1 14604
+S
+#14661
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048584 0 1 99 1
+D0
+Middle of the garden.
+~
+~
+0 -1 14686
+D1
+Garden path.
+~
+~
+0 -1 14685
+D2
+Another part of the garden.
+~
+~
+0 -1 14690
+D3
+Another part of the garden.
+~
+~
+0 -1 14687
+S
+#14662
+The Princess's Piano Room~
+You are in the piano room of the Princess. She has decorated the room mainly
+in pastel colors, and has very elaborate taste, unlike her humble brother, the
+heir to the throne of the king... You wonder as to the true talent of the
+princess because the piano has collected a rather large layer of dust.
+~
+119 1048584 0 1 99 1
+D2
+The lounge.~
+~
+0 -1 14606
+D4
+The Bedroom of the Princess.~
+trapdoor door~
+1 14630 14663
+S
+#14663
+The Princess's Bedroom~
+You are in the bedroom of the great Princess Melian... The room glows brightly
+and you find yourself wondering if perhaps the room, itself, is sancted!
+Then you realize that it is glowing because of the benevolent nature of her
+heiness, the Princess.
+~
+119 1048584 0 1 99 1
+D5
+The Piano Room.~
+trapdoor door~
+1 -1 14662
+S
+#14664
+An Underwater tunnel that goes under the castle~
+As you hold you breath, you realize that you must swim quickly to get to the
+end of the tunnel before you asphiziate.  The tunnel end only two rooms
+away!!!
+~
+119 1053701 0 1 99 5
+D1
+The tunnel levels off... and continues.~
+~
+0 -1 14665
+D4
+The moat, a dreaded place!~
+~
+0 -1 14614
+S
+#14665
+An Underwater tunnel that goes under the castle~
+As you CONTINUE to hold your breath, you begin to feel dizzy.  You don't know
+for sure if you are going to make it...  The end of the tunnel
+is to the east.
+~
+119 1053697 0 1 99 5
+D1
+The tunnel gets narrower.~
+~
+0 -1 14666
+D3
+The base of the tunnel.~
+~
+0 -1 14664
+S
+#14666
+An Underwater tunnel that goes under the castle~
+As you CONTINUE to hold your breath, you begin to feel dizzy.  You don't know
+for sure if you are going to make it...  The end of the tunnel
+is to the east.
+~
+119 1053705 0 1 99 5
+D1
+The end of the tunnel.~
+~
+0 -1 14667
+D3
+Leaving the tunnel.~
+~
+0 -1 14665
+S
+#14667
+Under the Elfin Citadel~
+You are exhausted as you finally reach the end of the tunnel... You are in
+a room that holds back the water with some kind of magical force field.
+You are suprised that this tunnel did, in fact lead anywhere... because
+of the way it narrowed at the end.  You decide that you better take your
+time here and look around, before continueing.  You don't have enough energy
+to complete the swim back right now.
+~
+119 1048584 0 1 99 1
+D1
+The Holy Tunnel
+~
+~
+0 -1 14669
+D3
+You are too exhausted to swim back!~
+~
+0 -1 14668
+S
+#14668
+An Underwater tunnel that goes under the castle~
+You find that swimming back is not as easy as you had calculated.  There is
+also a slight current working against you.
+You are too exhausted to swim against the current any longer!
+~
+119 1053697 0 1 99 5
+D1
+Under the Elfin Citadel.~
+~
+0 -1 14667
+D3
+You are too tired to go that way.~
+~
+0 -1 14668
+S
+#14669
+A Holy Tunnel~
+You are in a tunnel that glows with a holy power... the temple altarroom
+lays to the east.  There are many powers that are way above your understanding
+governing these tunnels!
+~
+119 1048584 0 1 99 1
+D1
+The Altar Room.~
+~
+0 -1 14670
+D3
+Under the Elfin Citadel
+~
+~
+0 -1 14667
+S
+#14670
+The Holy Elfin Altar Room~
+You find yourself in the Altar Room.  If you say and do the right things
+here, great things will happen.  However, if you say and do the
+wrong thing, you will surely DIE!
+~
+119 1048584 0 1 99 1
+D3
+The Holy Tunnel.~
+~
+0 -1 14669
+D4
+The Elfin Sorcerer's lair.~
+~
+0 -1 14678
+S
+#14671
+On a Path to the Elfin Caves~
+You are on a beaten path to the Elfin Caves... you wonder what
+mystical beings may lay inside!
+~
+119 1048576 0 1 99 1
+D1
+Inside the caves.~
+~
+0 -1 14672
+D3
+By the drawbridge.~
+gate door west~
+9 -1 14600
+S
+#14672
+Inside the Elfin Caves~
+You have enterred the Elfin Caves.  You think that you know something about
+these caves, but you just can't remember what!  You curiosity motivates you
+to proceed further into the caves.
+~
+119 1048585 0 1 99 1
+D0
+Further inside the caves... you can see a green light.~
+~
+0 -1 14673
+D3
+The trail to the Caves.~
+~
+0 -1 14671
+S
+#14673
+Inside the Magical Elfin Caves~
+You are deep inside the Elfin Caves.  You look around cautiously... 
+The walls are glowing green, emitting a soft light.  You don't know
+exactly which way to proceed because the caves are really getting you turned
+around.
+~
+119 1050632 0 1 99 5
+D0
+The cave.~
+~
+0 -1 14675
+D1
+The cave.~
+~
+0 -1 14676
+D2
+The cave.~
+~
+0 -1 14674
+D3
+The cave.~
+~
+0 -1 14674
+S
+#14674
+Inside the Magical Elfin Caves~
+You are deep inside the Elfin Caves.  You look around cautiously... 
+The walls are glowing green, emitting a soft light.  You don't know
+exactly which way to proceed because the caves are really getting you turned
+around.
+~
+119 1050632 0 1 99 5
+D0
+The cave.~
+~
+0 -1 14675
+D1
+The cave.~
+~
+0 -1 14676
+D2
+The cave.~
+~
+0 -1 14675
+D3
+The cave.~
+~
+0 -1 14673
+S
+#14675
+Inside the Magical Elfin Caves~
+You are deep inside the Elfin Caves.  You look around cautiously... 
+The walls are glowing green, emitting a soft light.  You don't know
+exactly which way to proceed because the caves are really getting you turned
+around.
+~
+119 1050632 0 1 99 5
+D0
+The cave.~
+~
+0 -1 14675
+D1
+The cave.~
+~
+0 -1 14677
+D2
+The cave.~
+~
+0 -1 14676
+D3
+The cave.~
+~
+0 -1 14674
+S
+#14676
+Inside the Magical Elfin Caves~
+You are deep inside the Elfin Caves.  You look around cautiously... 
+The walls are glowing green, emitting a soft light.  You don't know
+exactly which way to proceed because the caves are really getting you turned
+around.
+~
+119 1050632 0 1 99 5
+D0
+The cave.~
+~
+0 -1 14673
+D1
+The cave.~
+~
+0 -1 14676
+D2
+The cave.~
+~
+0 -1 14676
+D3
+The cave.~
+~
+0 -1 14673
+S
+#14677
+Inside the Magical Elfin Caves~
+You are deep inside the Elfin Caves.  You look around cautiously... 
+The walls are glowing green, emitting a soft light.  You don't know
+exactly which way to proceed because the caves are really getting you turned
+around.
+~
+119 1050632 0 1 99 5
+D0
+The cave.~
+~
+0 -1 14676
+D1
+The cave.~
+~
+0 -1 14676
+D2
+The cave.~
+~
+0 -1 14676
+D3
+The Elfin Sorcerer's Lair.
+~
+~
+0 -1 14678
+S
+#14678
+The Elfin Sorcerer's lair~
+The room you are in is obviously used by a powerful sorcerer.  Books and
+magical items line the walls, behind magical wards to prevent theft(sorry).
+There isn't anything else in the room, besides the sorcerer.
+~
+119 1048584 0 1 99 1
+D1
+The caves.
+~
+~
+0 -1 14677
+D4
+The wine room.~
+~
+0 -1 14605
+S
+#14679
+The mirror maze~
+You find yourself lost in the mirrors... All you can see is your own
+reflection, and the reflection of the astrologer.  Sometimes, it appears as
+though you are standing right next to one another!!!  This makes you 
+somewhat jumpy, and you decide to move on and find where the mirros go.
+~
+119 1050632 0 1 99 1
+D0
+The mirror maze.~
+~
+0 -1 14631
+D1
+The mirror maze.~
+~
+0 -1 14679
+D2
+The mirror maze.~
+~
+0 -1 14631
+D3
+The mirror maze.~
+~
+0 -1 14680
+S
+#14680
+The mirror maze~
+You find yourself lost in the mirrors... All you can see is your own
+reflection, and the reflection of the astrologer.  Sometimes, it appears as
+though you are standing right next to one another!!!  This makes you 
+somewhat jumpy, and you decide to move on and find where the mirros go.
+~
+119 1050632 0 1 99 1
+D0
+The mirror maze.~
+~
+0 -1 14680
+D1
+The mirror maze.~
+~
+0 -1 14631
+D2
+The mirror maze.~
+~
+0 -1 14680
+D3
+The mirror maze.~
+~
+0 -1 14679
+S
+#14681
+The North Hallway.~
+You are in a long, oak-walled tunnel.  The ceiling is mirrored, reflecting
+the red carpet which has many geometric figures... that when viewed from
+afar, create an optical illusion that the hallway continues infinitely.
+Along the walls, there are pictures of past kings, representing the glory
+of such a truly divine hierarchy.
+~
+119 1048584 0 1 99 1
+D2
+The east tower base.~
+~
+0 -1 14607
+D3
+Following the hallway.~
+~
+0 -1 14682
+S
+#14682
+The North Hallway.~
+You are in a long, oak-walled tunnel.  The ceiling is mirrored, reflecting
+the red carpet which has many geometric figures... that when viewed from
+afar, create an optical illusion that the hallway continues infinitely.
+Along the walls, there are pictures of past kings, representing the glory
+of such a truly divine hierarchy.
+~
+119 1048584 0 1 99 1
+D1
+Following the hallway.~
+~
+0 -1 14681
+D3
+The library.
+~
+~
+0 -1 14694
+S
+#14683
+The North Hallway.~
+You are in a long, oak-walled tunnel.  The ceiling is mirrored, reflecting
+the red carpet which has many geometric figures... that when viewed from
+afar, create an optical illusion that the hallway continues infinitely.
+Along the walls, there are pictures of past kings, representing the glory
+of such a truly divine hierarchy.
+~
+119 1048584 0 1 99 1
+D1
+Following the North Hallway.~
+~
+0 -1 14684
+D2
+The west tower base.~
+~
+0 -1 14609
+S
+#14684
+The North Hallway.~
+You are in a long, oak-walled tunnel.  The ceiling is mirrored, reflecting
+the red carpet which has many geometric figures... that when viewed from
+afar, create an optical illusion that the hallway continues infinitely.
+Along the walls, there are pictures of past kings, representing the glory
+of such a truly divine hierarchy.
+~
+119 1048584 0 1 99 1
+D1
+The library.
+~
+~
+0 -1 14694
+D3
+Following the North Hallway.~
+~
+0 -1 14683
+S
+#14685
+Garden Path~
+You are on s small path that leads south to the library and north to the
+middle of the garden.
+~
+119 1048580 0 1 99 1
+D0
+Further into the garden.~
+~
+0 -1 14686
+D1
+Another part of the garden.
+~
+~
+0 -1 14699
+D2
+The library.
+~
+glass door~
+9 -1 14694
+D3
+Another part of the garden.
+~
+~
+0 -1 14661
+S
+#14686
+Middle of Garden~
+You appear to be in the middle of the elfin garden.  Flowering plants 
+surround you on all sides and wandering paths lead in every direction.
+To the south you see the path leading to the library.
+~
+119 1048576 0 1 99 1
+D0
+Another part of the garden.
+~
+~
+0 -1 14690
+D1
+Another part of the garden.
+~
+~
+0 -1 14692
+D2
+The path into the garden.
+~
+~
+0 -1 14685
+D3
+Another part of the garden.
+~
+~
+0 -1 14688
+S
+#14687
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048576 0 1 99 1
+D0
+Another part of the garden.
+~
+~
+0 -1 14688
+D1
+Another part of the garden.
+~
+~
+0 -1 14661
+D2
+Another part of the garden.
+~
+~
+0 -1 14689
+D3
+Another part of the garden.
+~
+~
+0 -1 14693
+S
+#14688
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048576 0 1 99 1
+D0
+Another part of the garden.
+~
+~
+0 -1 14689
+D1
+Middle of the garden.
+~
+~
+0 -1 14686
+D2
+Another part of the garden.
+~
+~
+0 -1 14687
+D3
+Another part of the garden.
+~
+~
+0 -1 14692
+S
+#14689
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048576 0 1 99 1
+D0
+Another part of the garden.
+~
+~
+0 -1 14687
+D1
+Another part of the garden.
+~
+~
+0 -1 14690
+D2
+Another part of the garden.
+~
+~
+0 -1 14688
+D3
+Another part of the garden.
+~
+~
+0 -1 14691
+S
+#14690
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048576 0 1 99 1
+D0
+Another part of the garden.
+~
+~
+0 -1 14698
+D1
+Another part of the garden.
+~
+~
+0 -1 14691
+D2
+Middle of the garden.
+~
+~
+0 -1 14686
+D3
+Another part of the garden.
+~
+~
+0 -1 14689
+S
+#14691
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048576 0 1 99 1
+D0
+Another part of the garden.
+~
+~
+0 -1 14693
+D1
+Another part of the garden.
+~
+~
+0 -1 14689
+D2
+Another part of the garden.
+~
+~
+0 -1 14692
+D3
+Another part of the garden.
+~
+~
+0 -1 14690
+S
+#14692
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048576 0 1 99 1
+D0
+Another part of the garden.
+~
+~
+0 -1 14691
+D1
+Another part of the garden.
+~
+~
+0 -1 14688
+D2
+Another part of the garden.
+~
+~
+0 -1 14693
+D3
+Middle of the garden.
+~
+~
+0 -1 14686
+S
+#14693
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048576 0 1 99 1
+D0
+Another part of the garden.
+~
+~
+0 -1 14692
+D1
+Another part of the garden.
+~
+~
+0 -1 14687
+D2
+Another part of the garden.
+~
+~
+0 -1 14691
+D3
+Another part of the garden.
+~
+~
+0 -1 14699
+S
+#14694
+The Elfin Library~
+You stand in the elfin library, surrounded by hundreds of books.  In the
+center of the room is a desk and chair for the librarian.  East and
+west are exits to the north hallway and south is the courtyard.  There
+is a glass door to the north.
+~
+119 1048584 0 1 99 1
+D0
+A small path leading into the garden.
+~
+glass door~
+1 -1 14685
+D1
+The north hallway.
+~
+~
+0 -1 14682
+D2
+The courtyard.
+~
+~
+0 -1 14695
+D3
+The north hallway.
+~
+~
+0 -1 14684
+S
+#14695
+The Elfin Courtyard~
+You are standing in a very peaceful and quiet courtyard in the center of
+the citadel.  It is so peaceful you feel like resting here for a while.
+~
+119 1048576 0 1 99 1
+D0
+The library.
+~
+~
+0 -1 14694
+S
+#14696
+A prison cell in the dungeon of the Citadel~
+You are in the cell... you blood freezes, as you see the scratch marks on the
+walls.  The animal in this room has spent many years trying to break out.
+You fear for your life that you, yourself might become trapped in here.
+~
+119 1048584 0 1 99 1
+D0
+The dungeon hallway.
+~
+~
+9 -1 14621
+S
+#14697
+A prison cell in the dungeon of the Citadel~
+You are in the cell... you blood freezes, as you see the scratch marks on the
+walls.  The animal in this room has spent many years trying to break out.
+You fear for your life that you, yourself might become trapped in here.
+~
+119 1048584 0 1 99 1
+D2
+Dungeon hallway.
+~
+door south cell~
+9 -1 14621
+S
+#14698
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048576 0 1 99 1
+D0
+The Garden.
+~
+~
+0 -1 14698
+D1
+The Garden.
+~
+~
+0 -1 14698
+D2
+Another part of the garden.
+~
+~
+0 -1 14690
+D3
+The Garden.
+~
+~
+0 -1 14698
+S
+#14699
+Garden~
+You are in the Elfin Garden behind the Citadel.  There are paths leading
+in all directions to other parts of the garden.
+~
+119 1048576 0 1 99 1
+D0
+Middle of the garden.
+~
+~
+0 -1 14686
+D1
+Another part of the garden.
+~
+~
+0 -1 14693
+D2
+Another part of the garden.
+~
+~
+0 -1 14690
+D3
+Garden path.
+~
+~
+0 -1 14685
+S
+$~
+#999999

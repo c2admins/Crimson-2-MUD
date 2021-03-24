@@ -1,0 +1,639 @@
+#22975
+mob vorn ul'azzr drow god~
+&KVorn Ul'Azzr&W, the &cRenegade &wGuardian&n~
+&KVorn Ul'Azzr&w stands here, guarding his lands from &revil&w.&n
+~
+     Here stands before you a proud and noble drow. At a young age he was sent to the surface 
+world by his father when his house was attacked by a rival. After many cold sleepless nights in a
+strange new world, a kindly druid happened upon the young drow and took him in as his own child. 
+It was through this druid that Vorn learned the ways of the ranger, and when the old human passed
+from this life, the drow remained steadfast in his ways of the forest. Shortly after Vorn found
+himself alone in the world, he happened upon the aftermath of a great battle that was held in his
+forest domain. Corpses lay littered everywhere, but the young drows curiousity overtook him, and 
+he found himself walkign through the battlefield searching for treasures and signs of life. While
+examining the corpse of a robed figure, he found a book with strange magical runes. Being an elf,
+he had a particular affinity for magic, and though he couldn't fully understand the writings 
+inside, he decided to pack the book away for further study...an smart decision considering he
+later became one of the most powerful mortal mages in the realm..but that is another story. As 
+Vorn was ready to leave the battlefield, he saw a movement out the the corner of his eye. There, 
+hidden by some bushes was a small childlike creature. At first he was not sure what to make of
+the little girl. She was covered in blood from head to toe, but her fur covered body and pointed
+ears proved she was no human. He decided to help the poor child, and though she was frightened, 
+she was also hungry, and the drow had a warm and gentle smile so she eventually accepted being 
+led off. After washing her at a nearby stream, it became abundantly clear that the small child 
+was a feline. Though felines had superior survival skills, she was still too young to have 
+learned very much, so he decided to adopt her and call her Kayala. To this day it is not known
+to many what ever happened of this feline child, but many rumours abound of a savage cat-lady
+~
+470024970 138444801 136249361 554697390 900 S
+48 0 -40 100d1+40000 9d10+10
+5000000 1500000
+8 8 0
+16 4 22 23 21 22 22 22
+SKILL=SPELL_ARMOR 90
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_FLY 99
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_TYPE=103
+ATTACK_SKILL=55
+ATTACK_SKILL=55
+ATTACK_SKILL=45
+ATTACK_TYPE=103
+ATTACK_SKILL=65
+ATTACK_SKILL=55
+ATTACK_SKILL=65
+ATTACK_TYPE=103
+#22976
+mob wolf kil'ron mor moonshadow~
+&KMoonshadow&n~
+&wA huge wolf-like creature of the &Kdeepest black &wstands here, cautiously watching your every move.&n
+~
+     The largest and greatest of the Kil'Ron Mor wolves, Moonshadow
+stands nearly six feet tall at the shoulder. His body measures an
+astounding twelve feet in length, covered with a inky black fur that
+is his namesake. He is a companion of Vorn, the two having been partners
+for over a century. They have made a pact...together they live, together
+they shall die.
+~
+218104334 140541953 136249361 67895460 1000 S
+45 0 -37 20d1+27500 5d20+55
+0 986000
+8 8 0
+0 0 16 18 15 16 15 12
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#22977
+mob wolf kil'ron mor icerain~
+&BIce&crain&n~
+&wA huge wolf-like creature of the &Wpurest white&w stands here, cautiously watching your every move.&n
+~
+     Standing nearly six feet tall at the shoulder, IceRain is the second 
+largest of all the Kil'Ron Mor. She is the mate of MoonShadow and travels 
+with him whereever he goes. Her fur is as white as pure snow, and where she
+gets her name. Normally very shy and benevolent, she will defend herself and
+her mate to the death if provoked.
+~
+1291846154 138444801 136249361 67895460 1000 S
+45 0 -36 10d1+25000 10d15+65
+0 975000
+8 8 0
+0 0 17 15 16 16 12 12
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+#22978
+mob magick bloodstone ~
+&BM&ca&wgi&cc&Bk &RB&rloo&Rd&Kstone&n~
+&BM&ca&wgi&cc&Bk &RB&rloo&Rd&Kstone&w stands here, gazing out the window to the &Gg&garden&Gs &wbelow.&n
+~
+   Magick Bloodstone, High Lady of Brimstone, High Councilmember - First Chair, and public icon.
+Early in her career Magick was an arrogant, quick tempered pure bred elf who thought she knew it
+all, and was always right. Her time spent with the Circle of Fate has since tamed her fiery 
+attitude and humbled her to the point that, once Brimstone was built shemade an excellent leader in
+Vorn's absence. When the council is not in session, she can often be seen in the gardens, or within
+her chambers staring out the window as is the weight of the entire city were on her shoulders.
+  Though over two hundred years old, Lady Magick looks little more than a young woman in her 
+late teens. Her long brown hair is often tied with a blue ribbon into a ponytail which falls to
+the middle of her back. Her eyes are a deep hazel, very uncommon in elves, and at times seem to
+change color with her mood. She often wears simple robes or dresses, not feeling the need to 
+dress in the noble fashion that she once did. She treats those around her with respect and 
+compassion and asks simply that she be treated the same...the marks of a good leader.
+~
+1073742666 4292609 136249361 536879292 1000 S
+47 0 -34 100d10+23000 30d10+75
+2250000 1300000
+8 8 2
+14 6 17 23 21 14 15 15
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_SLEEP 70
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_HEAL_MAJOR 80
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRESTORM 90
+SKILL=SPELL_EARTHQUAKE 60
+SKILL=SPELL_DIVINE_RETRIBUTION 80
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#22979
+mob syllva bloodstone~
+&WSy&wll&Wva &RB&rloo&Rd&Kstone&n~
+&WSy&wll&Wva &RB&rloo&Rd&Kstone &yis here, training her troops.&n
+~
+  Syllva is the twin sister of Magick and is identical to her in every respect save for her long, 
+flowing silver hair that she lets hang loose around her shoulders. After retiring from adventuring
+she took over the duty of training the city guard, as well as the dragonriders that safeguard the
+skies over Brimstone. She has been labeled as a ruthless warrior in times of battle, but a patient
+and wise instructor.
+  She stands just over five feet tall, the typical height for a female elf. her long, pointed ears
+are adorned with several fashinable earrings, and she still wears the suit of full platemail that
+she did in her years as an adventurer. She wields a wicked looking spear dubbed Twisted Moonlight
+that never leaves her side. Though she looks no older than a teenager, her hazel eyes hold the 
+wisdom of her two hundred year existance on this world, as well as a deep, dark secret she is 
+afraid to tell.
+~
+1073741898 4227073 136249361 33554600 950 S
+46 -5 -35 1d100+19500 10d15+100
+3500000 2000000
+8 8 2
+14 4 25 15 14 25 25 23
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=102
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=102
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=102
+#22980
+mob syllva bloodstone weredragon~
+Syllva the Weredragon~
+&yA large &wDragonlike&y creature is here scowling at you.&n
+~
+  Replacing the form that was once Sylvanya, this twisted half-elf, half dragon creature is a 
+terrifying force of destruction. Vaguely humanoid in appearance, she walks upright on two legs, and
+at a distance could be mistaken for a lizardman. Small silver scales cover her entire body, save 
+for the large leathrey wings which she now uses to fly. Her razor sharped maw twists into a wicked
+grin as she inhales to let loose her special attack....the air has grown cold and their is a hint
+of frost in the air.
+~
+1077944394 5275649 136249361 805314700 800 S
+48 0 -40 10d50+39000 15d10+60
+5000000 2500000
+8 8 2
+14 4 17 17 15 15 12 14
+SKILL=SKILL_KICK 90
+SKILL=SKILL_BASH 90
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 70
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SKILL_HUNT 90
+SKILL=SKILL_RAGE 90
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#22981
+mob singe dragon pseudodragon king~
+&rSinge&n~
+&rSinge, ruler of the pseudodragons, lays here passing the time.&n
+~
+  Singe, like all pseudragons appears to be a miniature form of its larger dragon cousin in every
+way including his dreaded breath attack. Of course because the dragon is so small the attack 
+would be little more than a nuisance, but you now stand only six inches tall and the pseudodragons
+are full sized dragons. Singe's body is covered in deep red scales that glisten in what little
+light fills the chamber. The membranes of his wings and underbelly are black, exposing him for the
+royalty he is among pseudragons. His emerald eyes are full of life, but look sad, as if he has 
+suffered some great loss recently in his life.
+~
+1078796298 4227073 136249361 1141137548 1000 S
+45 0 -33 10d50+17000 10d10+10
+0 800000
+8 8 1
+0 0 16 18 16 16 15 13
+SKILL=SPELL_FIRE_BREATH 99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#22982
+mob stone golem guardian~
+&yThe &wstone golem&n~
+&yA gargantuan &wstone statue &ystands here guarding the gates.&n
+~
+  Standing roughly fifteen feet tall, the golem has been formed from tough granite stone and had
+life breathed into it by a powerful mage or cleric. It is a mindless automaton that can do little
+more than a simple task such as guarding a specific treasure or other object like a gate. Though 
+not intelligent, they make fearsome fighters, and their tough stone shell has been known to be 
+impervious to all but magical weapons.
+~
+1208230478 6291457 136249393 639641708 0 S
+43 1 -30 30d20+22000 20d5+80
+0 700000
+8 8 0
+0 4 17 16 16 16 14 13
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#22983
+mob shorn phantomspell~
+&rShorn Phantomspell&n~
+&rShorn Phantomspell&y stands here, patiently waiting for complaints.&n
+~
+  A short, rather plump looking gnome, Shorn was an illusionist by trade that happened across the Circle of
+Fate, and by circumstances was taken into their ranks. For a gnome he is very vivacious, striking up conver-
+sations with all who cross his path, and loving to perform little tricks to amuse the crowds that gather 
+within the courtyard. When Brimstone was founded and the adventurers decided to retire, Shorn undertook the 
+role of handling city complaints. His exceptional charisma and people handling skills have given him a great
+rapport with the people of the city, and it is partially because of him that the council is favored so heavily
+in this city. Shorn is often found just within the open doors of the castle, standing upon a small podium so
+that he is not overlooked by the 'taller' folk. If you have a complaint, any complaint, bring it to Shorn. He
+will make sure that your voice is heard.
+~
+1074004042 1 136249361 1073742012 770 S
+46 0 -33 10d10+39000 20d30+99
+2300500 1150000
+8 8 1
+3 1 24 15 14 14 14 14
+#22984
+mob T'alsril Lekess lizardman warrior~
+&GLekessek Ril&n~
+&GLekessek Ril&y stands here, guarding the courtyard entrance.&n
+~
+   A tall, very muscular lizard man, Lekessek in one of the members of the now defunct Circle of Fate. He 
+joined the group shortly before their first big adventure when several of the members had been captured by his
+tribe within the Teldescian Swamps. As part of the negotiation for the groups release, the clans best warrior
+would fight a member of their choosing from the captives. If the clan champion won, the prisoners would be 
+eaten as was customary of lizardmen. If the chosen champion won, all prisoners would be released and all 
+equipment returned undamaged. Lekessek was the bravest and strongest of the lizardmen, and thus the obvious
+choice to be their champion. As luck would have it, the clan chieftain chose Vorn Ul'Azzr to be his foe.
+  The battle they fought lasted several hours. Even the oncoming darkness afforded the keen sighted lizardman
+no advantage, and it soon became apparent that he was giving ground and would soon lose the battle. In a 
+desperate attempt to win, Lekessek unleashed a violent volley upon his drow enemy, but in the end a black 
+blade hovered at his throat, poised to end his life. In shame the lizardman lowered his head, welcoming death 
+for his dishonor. Instead, Vorn sheathed his blade, and turned to leave the encampment with his friends. 
+  The lizardman clan did allow the adventurers to leave, but they also cast out Lekessek as well. In order to
+repay the drow for his new life, the lizardman vowed an oath to save the drows life and appease his honor. 
+Over the next several years, Lekessek saved the drow many times, but still did not feel a desire to leave the
+group. They had become a family, a group of outcasts, and even now the man called Lekessek guards the halls
+of his friends, forever protecting them from any harm that may befall them.
+~
+1090789454 2129921 136249361 620757548 400 S
+47 0 -34 50d50+45000 40d10+99
+2500000 1300000
+8 8 1
+32 4 16 16 16 15 15 12
+ATTACK_SKILL=33
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#22985
+mob balinor grimstone dwarf warrior~
+Balinor Grimstone~
+Balinor Grimstone, dwarven warrior or the Circle of Fate, stands here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 1
+0 0 16 16 16 16 15 13
+#22986
+mob castle guard brimnstone~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 18 16 15 15 15
+#22987
+mob dragonrider brimstone~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 16 16 14 12 14
+#22988
+mob high council member councilmember brimstone~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 14 16 14 11
+#22989
+mob lower council member councilmember brimstone~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 17 16 14 14 11
+#22990
+mob veteran soldier brimstone~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 18 14 14 13 11
+#22991
+mob soldier training brimstone~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 17 16 16 15 11
+#22992
+mob castle maid brimstone~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 16 15 15 13 14
+#22993
+mob castle servant brimstone~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 14 14 13 15
+#22994
+mob drake rider drakerider brimstone~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 15 15 12 14
+#22995
+mob council guard councilguard~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 16 14 14 15
+#22996
+mob ambassador drow~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 16 15 16 14 12
+#22997
+mob silvermoon ambassador~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 17 14 16 14 12
+#22998
+mob tame gold dragon~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 16 15 14 12
+#22999
+mob tame silver dragon~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 17 14 15 14 14
+#23000
+mob tame bronze dragon~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 14 14 12 11
+#23001
+mob tame copper dragon~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 16 14 14 13 12
+#23002
+mob tame brass dragon~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 18 16 15 12 13
+#23003
+mob adelinde rainbow dragon~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 15 15 13 12
+#23004
+mob tame red drake air~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 16 15 14 12 13
+#23005
+mob tame black drake air~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 16 16 16 15 11
+#23006
+mob tame green drake air~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 18 14 16 15 14
+#23007
+mob tame yellow drake air~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 16 16 12 15
+#23008
+mob tame blue drake air~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 16 15 15 11
+#23009
+mob tame white drake air~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 17 16 14 15 11
+$~
+#999999

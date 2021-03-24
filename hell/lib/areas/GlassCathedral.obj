@@ -1,0 +1,425 @@
+#19500
+obj gold coins~
+10
+gold coins~
+A pile of sparkling gold coins.~
+~
+20 0 0 1
+850000 0 0 0
+1 5 5
+#19501
+obj Splynncryth's Eye~
+2
+&KSplynn&wcryth's &rE&Ry&re&n~
+&KSplynn&wcryth's &rE&Ry&re&w peers at you through it's long slit.&n~
+~
+1 4194320 0 81921
+0 0 0 0
+4 4000000 80000
+A
+32 -1
+A
+26 -1
+A
+31 -1
+A
+19 3
+#19502
+obj Cranial Drill~
+20
+&yCranial &wDrill&n~
+&wA large &ycorkscrew&w contraption rests on the ground.&n~
+~
+26 2097216 0 147457
+30 3 2 76
+2 500000 35000
+#19503
+obj Healing Dust~
+10
+&yHealing &WDust&n~
+&yA pouch of &Wwhite dust.&n~
+~
+3 4456512 0 147457
+40 2 2 77
+2 700000 40000
+#19504
+obj Devil's Horn Helm~
+2
+&rDev&Ril's &wHorn&n~
+&KA large &rredd&Rish-&wivory &Khorn protrudes from a &rr&Re&rd &rg&Re&rm&K-incrusted helm.&n~
+~
+9 4194832 0 17
+10 0 0 0
+1 5 80000
+A
+19 4
+A
+18 -1
+A
+13 5
+A
+26 -1
+#19505
+obj Scourge Pain Whip~
+8
+&KS&rc&Ro&ru&Kr&Rg&re &wof &KP&wa&Ki&wn&n~
+&wA long barbed whip, good for your torture asks you get get it.&n~
+~
+5 4194832 0 8193
+512 7 8 2
+6 1000000 50000
+A
+19 2
+A
+18 2
+#19506
+obj DarkLight Orb Sphere~
+2
+&KD&ya&Kr&yk&Kl&yi&Kg&yh&Kt&n~
+&wThe &KD&ya&Kr&yk&Kl&yi&Kg&yh&Kt&n &wshrieks with the cries of lost souls.&n~
+~
+9 4194836 0 16385
+0 0 0 0
+4 5000000 125000
+A
+19 6
+#19507
+obj Robe Dark Gith~
+2
+&wRobe of the &KDark &rG&Ri&rt&Rh&n~
+&wA black and orange robe lies undisturbed.&n~
+~
+9 4194996 0 1025
+0 0 0 0
+2 2000000 80000
+A
+19 4
+A
+12 -40
+A
+31 -1
+#19508
+obj Banishment Blade Gith's Sword~
+2
+&rG&Ri&rt&Rh&r's &KBanishment &cBlade&n~
+&wA large &Rfire-red &cblade&w, forged in the pits of &rhell&w, beckons for you to use it.&n~
+~
+5 4194996 0 8193
+66560 6 7 3
+15 5000000 150000
+A
+13 20
+A
+18 4
+#19509
+obj Sickle of Pain~
+4
+&KSickle of &rP&Ra&ri&Rn&n~
+&wA sickle lies here..what you sew it will reap.&n~
+~
+5 69218836 0 8193
+16896 6 5 3
+7 225000 50000
+A
+19 2
+A
+18 2
+#19510
+obj tongue~
+40
+&wcut out &Rtongue&n~
+&wA cut out tongue flops on the ground.&n~
+~
+26 1048640 0 147457
+45 3 2 107
+1 200000 30000
+#19511
+obj Crown Orc God~
+20
+&rC&Kr&ro&Kw&rn &Kof the Orc &yGod&n~
+&KA silver crown with &rfire&Rstones.&n~
+~
+9 2138176 0 17
+18 0 0 0
+7 100000 30000
+A
+19 2
+A
+13 15
+A
+1 2
+A
+3 -3
+#19512
+obj Grief Giver Sword Blade~
+4
+&KG&wrie&Kf &wG&Kive&wr, Sword of &KSouls&n~
+Grief Giver, Sword of Souls has been left here.~
+~
+5 4196372 0 8193
+104 7 8 3
+17 5000000 120000
+A
+19 3
+A
+18 3
+A
+13 -10
+A
+12 -10
+#19513
+obj Boots Krynor~
+4
+&yBoots &wof &rKrynor&n~
+Boots made of charred flesh.~
+~
+9 4194304 0 65
+10 0 0 0
+6 1000000 75000
+A
+19 3
+A
+39 -1
+A
+13 -25
+#19514
+obj Amulet wrath~
+20
+&CAmulet &wof &RWrath&n~
+An amulet made of emeralds set in charred bone.~
+~
+9 407109824 0 16389
+0 0 0 0
+3 1 5
+A
+19 3
+A
+18 2
+A
+17 0
+A
+13 5
+#19515
+obj Hide Balrog~
+8
+&yHide &wof the &KBalrog&n~
+A tough hide skinned from a Balrog.~
+~
+9 4194304 0 1033
+50 0 0 0
+15 1000000 75000
+A
+18 4
+#19516
+obj black orange robe~
+15
+&Kblack &wand &Yo&Rr&Ya&Rn&Yg&Re &Krobe&n~
+A black and orange robe lays crumpled on the ground.~
+~
+9 337683076 0 1025
+15 0 0 0
+4 500000 60000
+A
+19 2
+A
+18 1
+A
+12 20
+A
+5 2
+#19517
+obj Bonecrusher Mace~
+30
+&WBone&Kcrusher&n~
+A large studded mace rests on the ground.~
+~
+5 35680256 0 8193
+0 6 7 7
+30 600000 60000
+A
+19 4
+A
+18 1
+#19518
+obj fire armor~
+30
+&Rf&Yi&Rr&Ye &Karmor&n~
+A large, dull-red plate of armor.~
+~
+9 35663873 0 9
+20 0 0 0
+20 300000 50000
+A
+19 2
+A
+18 1
+A
+13 20
+#19519
+obj bit bridle~
+30
+&Kbit and bridle&n~
+A bit and bridle made for a horse.~
+~
+9 2097156 0 17
+15 0 0 0
+4 100000 35000
+A
+19 2
+A
+13 10
+#19520
+obj gargoyle scale~
+30
+&wgargoyle &cscale&n~
+A suit of scalemail made from a gargoyle.~
+~
+9 1126464 0 9
+30 0 0 0
+18 200000 20000
+A
+13 10
+#19521
+obj AcidTongue sword blade~
+3
+&GA&gc&Gi&gd&RT&ro&Rn&rg&Ru&re&n~
+A sword dripping with acid lays here.~
+~
+5 2109440 0 8193
+0 7 7 3
+15 500000 50000
+A
+19 2
+A
+18 1
+#19522
+obj brain ~
+20
+&wa half-eaten &ybrain&n~
+A brain with a chunk taken out of it lays here.~
+~
+9 1048576 0 16401
+2 0 0 0
+4 20000 10000
+A
+19 1
+A
+12 30
+#19523
+obj glass shard~
+20
+&wa &Gsh&Ya&Grd &wof &Cglass&n~
+A broken shard of sharp glass.~
+~
+5 1048576 0 8193
+0 5 5 3
+4 10000 20000
+A
+19 1
+A
+18 1
+#19524
+obj Orngor's horn~
+3
+&ROrngor's &Khorn&n~
+A black dragons horn.~
+~
+5 4194304 0 8193
+8192 6 7 11
+13 300456 60000
+A
+18 5
+#19525
+obj black tentacle rod~
+4
+&wa &Kblack tentacle rod&n~
+A rod with six long black tentacles.~
+~
+5 4194308 0 8193
+0 7 6 2
+10 700000 80000
+A
+18 2
+#19526
+obj Silver sword~
+3
+&wS&Ki&wl&Kv&we&Kr sword&n~
+A sword made of pure silver.~
+~
+5 4194304 0 8193
+8 6 8 3
+17 1200000 80000
+A
+18 3
+#19527
+obj jewel striking gem~
+10
+&Gjewel &wof &Ystriking&n~
+A many-faceted gem sparkles in the dim light.~
+~
+9 2097152 0 16385
+10 0 0 0
+2 1000000 350000
+A
+18 5
+#19528
+obj shadowglass~
+3
+&Kshadow&Cglass&n~
+A piece of glass that embodies pure shadow.~
+~
+5 4194304 0 8193
+8 12 4 11
+0 2000000 120000
+A
+19 2
+A
+18 4
+#19529
+obj shitty sword~
+5
+&wa &yshitty &Ksword&n~
+A sword with a broken, rusted, notched blade.~
+~
+5 4194304 0 8193
+0 7 7 3
+17 500000 30000
+A
+19 4
+A
+18 2
+#19530
+obj spirit armor~
+3
+&Wspirit armor&n~
+Armor haunted by the a spirit ripped from it's body.~
+~
+9 2097280 0 9
+0 0 0 0
+0 700000 100000
+A
+19 3
+A
+13 10
+A
+12 10
+#19531
+obj sign~
+1
+a sign~
+a sign~
+~
+16 134217768 0 0
+0 0 10 0
+1 5 5
+E
+sign~
+Border of the Mirkwood Forest. Keep out! Dark forest and dark shadows 
+lie ahead. The Road to the GlassCathedral is no longer. Strange minions 
+inhabit these lands now. Turn around unless thy be deathless!
+This zone is for levels of anyone brave enough to enter, and is dedicated
+to Onslaught, and DragonLord Mindbendre, who have made this mud a lot more 
+fun(for me, maybe not for you :P) but any ways, it's dedicated to them.
+~
+$~
+#999999

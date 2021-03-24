@@ -1,0 +1,1454 @@
+#17600
+A dimly lit path~
+You tread though the deep, dark forest on a dimly lit path.  Up ahead you
+can hear the faint sounds of a village.
+~
+138 1048584 0 1 99 1
+D0
+The pathway continues.
+~
+~
+0 -1 3701
+D2
+~
+~
+0 -1 17601
+S
+#17601
+A dimly lit path~
+You tread through the deep, dark forest on a dimly lit path.  Up ahead you
+can hear the faint sounds of a village.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17600
+D2
+s
+~
+~
+0 -1 17602
+S
+#17602
+A dimly lit path~
+You tread through the deep, dark forest on a dimly lit path.  The forest
+here seems less dense than to the north.  Southward you see the faint outline
+of a village.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17601
+D2
+~
+~
+0 -1 17603
+S
+#17603
+Entrance to Shire~
+You stand at the entrance to the Shire.  You see halflings, no more than
+three feet tall, every which way you look.  Bywater Road leads east and 
+west.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17602
+D1
+~
+~
+0 -1 17618
+D3
+~
+~
+0 -1 17604
+S
+#17604
+Bywater Road~
+You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west while to the south lies the general store.
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17603
+D2
+~
+~
+0 -1 17605
+D3
+~
+~
+0 -1 17606
+S
+#17605
+The General Store~
+You are inside the general store.  All sorts of goodies are stacked on the
+many shelves.  Your local friendly shopkeeper is smiling patiently, waiting to
+serve you to the best of his abilities.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17604
+S
+#17606
+Bywater Road~
+You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west.  To the South, steps lead to a friendly looking
+weaponry/armoury while a nursery lies to the north.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17608
+D1
+~
+~
+0 -1 17604
+D2
+~
+~
+0 -1 17607
+D3
+~
+~
+0 -1 17609
+S
+#17607
+The House of Arms~
+You are inside the finest weapons and armour shop in all of Shiredom.  The
+shopkeeper proudly displays his fine wares and humbly offers the best daggers
+that you have ever laid eyes on. There is a picture on the counter of the 
+Legendary Sword Naris. The blacksmith notices you looking at the picture and 
+smiles.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17606
+S
+#17608
+Kid'n Keep~
+You are inside Kid'n Keep, the convenient one-stop nursery that maintains
+the youth of the Shire.   Toddlers run every which way while their nursemaids
+sigh in exaperation. 
+~
+138 1048584 0 1 99 1
+D2
+~
+~
+0 -1 17606
+S
+#17609
+A bend in the road~
+Bywater Road turns to the north and heads back east.   The Moors are to the 
+south and shiriff office west.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17612
+D1
+~
+~
+0 -1 17606
+D2
+~
+~
+0 -1 17657
+D3
+~
+~
+0 -1 17610
+S
+#17610
+Shiriff Post of the Eastern Shire~
+You are in the Shiriff Post which acts as the nucleus for the three shiriffs
+of the Eastern Shire.  As you examine the shiriffs on duty, you come to realize
+that the halflings of the Shire are not to be trifled with.  You cower
+with awe.
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17609
+D3
+~
+~
+0 -1 17611
+S
+#17611
+Thain's Office~
+You stand inside the office of the Thain, the police protectorate of the
+great Shire.  The Thain has sworn to protect the Shire from all thieves and
+murderers with his life, and so eyes you suspiciously. 
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17610
+S
+#17612
+Bywater Road.~
+You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the north and south.  To the west you spy the training grounds for
+shiriffs in training.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17613
+D2
+~
+~
+0 -1 17609
+D3
+~
+~
+0 -1 17617
+S
+#17613
+Bywater Road~
+You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the south.   The private residences of Shire inhabitants are to
+the east and west while to the north lies the Ivy Bush, second only to the
+Green Dragon for its hospitality and service.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17616
+D1
+~
+~
+0 -1 17614
+D2
+~
+~
+0 -1 17612
+D3
+~
+~
+0 -1 17615
+S
+#17614
+A smial~
+You are inside a smial, a hole in the groud which serves as the proper
+dwelling place for halflings.  As you look around this private abode, you feel
+as if you are intruding and so quickly cover your eyes.  The only exit lies to
+the west.
+~
+138 1048584 0 1 99 1
+D3
+~
+~
+0 -1 17613
+S
+#17615
+A smial~
+You are inside a smial, a hole in the ground which servers as the proper
+dwelling place for halflings.  As you look around the private abode, you feel
+as if you are intruding and so quickly cover your eyes.
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17613
+S
+#17616
+The Ivy Bush~
+You are in the Ivy Bush, one of the most famous inns in all of Shiredom.
+Chique Shire urbanites and seasoned travellers fill the confines of the room
+with gay and lively talk.  A jovial innkeeper stops all that he is doing to
+await your command.
+~
+138 1048584 0 1 99 1
+D2
+~
+~
+0 -1 17613
+S
+#17617
+Shiriff Training Grounds.~
+The sounds of mock battle and feigned death cries fill your ears.  Every
+which way you turn you see halfling trainess at the prime of their youth. 
+A wizened old battle instructor meets your gaze and asks if he may be of
+service. 
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17612
+S
+#17618
+Bywater Road~
+You stand on Bywater Road, the busiest street in all Shiredom.  The road
+continues to the east and west.  A large, imposing building lies to the 
+north.  You catch a glimpse of the Brandywine River to the south.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17619
+D1
+~
+~
+0 -1 17620
+D3
+~
+~
+0 -1 17603
+S
+#17619
+Shiriff Post of the Bridge~
+You are in the Shiriff Post which acts as the nucleus for the three shiriffs
+of the Bridge.  As you examine the shiriffs on duty, you come to realize that
+the halflings of the Shire are not to be trifled with.  You cower with awe.
+~
+138 1048584 0 1 99 1
+D2
+~
+~
+0 -1 17618
+S
+#17620
+Bywater Road~
+You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west.  To the north you spy the Grocer's Delight,
+the premium grocer's shop in all the realm while to the south lies Brandywine
+Bridge.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17621
+D1
+~
+~
+0 -1 17622
+D2
+~
+~
+0 -1 17631
+D3
+~
+~
+0 -1 17618
+S
+#17621
+The Grocer's Delight~
+This is a friendly old home town store.
+~
+138 1064968 0 1 99 1
+D2
+~
+~
+0 -1 17620
+S
+#17622
+Bywater Road~
+You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the west.  A small hill lies to the east while you can see a
+watermill to the far north.  You catch a glimpse of the Brandywine River to
+the south.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17623
+D1
+~
+~
+0 -1 17626
+D3
+~
+~
+0 -1 17620
+S
+#17623
+Entrance to Watermill~
+You stand at the entrance to a watermill.  You hear the bustle of
+busy workers and the sound of a creaking mill.  Bywater Road is to 
+the south while the watermill continues north.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17624
+D2
+~
+~
+0 -1 17622
+S
+#17624
+The Watermill~
+Halfling workers are scattered everwhere, busy at work.  You see the river
+to the east and get a compelling urge to grab the nearest worker and toss 
+him into the river.  The entrance stands to the south while a door offers 
+passage to the north.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17625
+D2
+~
+~
+0 -1 17623
+S
+#17625
+Rear of watermill~
+You stand in a damp, dimly lit room.  Mildew clings to the walls and it appears
+as if you are the first person to enter the room in ages.  A barely visible
+portal in the ground catches your eye.
+~
+138 1048584 0 1 99 1
+D2
+rname Rear of watermill
+~
+~
+0 -1 17624
+D5
+~
+~
+0 -1 17646
+S
+#17626
+Took Hill~
+You stand on top of Took Hill, named after the legendary Banobras Took.
+You feel honored to be standing on a hill named after such a hero.  From
+this vantage point you can see all of shiredom.   You get the feeling that
+with one stomp you could eliminate their great city.  You can see the 
+outline of Midgaard in the distance.  Sounds of joyful celebration are 
+heard from the fields east of here.  The Brandywine flows lazily nearby.
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17628
+D3
+~
+~
+0 -1 17622
+S
+#17627
+Northern end of a grassy field~
+You stand in a grassy field - nothing to get too excited about.  The field
+extends toward the south and the east. 
+~
+138 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17628
+D1
+~
+~
+0 -1 17630
+D3
+nothing special.
+~
+~
+0 -1 17626
+S
+#17628
+A grassy field~
+You stand in the center of a grassy field.  A great birthday party appears
+to be taking place.  Great tables of food are spread out and a young halfling
+beauty offers you welcome.  You are enticed by generosity and suggestive winks.
+~
+138 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17629
+D1
+~
+~
+0 -1 17630
+D2
+nothing special.
+~
+~
+0 -1 17627
+D3
+~
+~
+0 -1 17626
+S
+#17629
+Southern end of a grassy field~
+You stand in a grassy field - nothing to get excited about.  The field
+extends toward the north and east.
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17630
+D2
+nothing special.
+~
+~
+0 -1 17628
+D3
+nothing special.
+~
+~
+0 -1 17626
+S
+#17630
+Western end of a grassy field~
+You stand on in a grassy field - nothing to get too excited about.  The
+field extends every which way but east.
+~
+138 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 17629
+D1
+You can see a well kept tract of forest.
+~
+~
+0 -1 5456
+D2
+nothing special.
+~
+~
+0 -1 17627
+D3
+~
+~
+0 -1 17628
+S
+#17631
+Brandywine Bridge~
+You stand on a solidly built bridge.  As you look down you spy gaily 
+coloured fish swimming with the current of Brandywine River.  The cool water
+looks invitingly refreshing and you get a sudden urge to strip and bathe in
+the river, but you hear the laughter of women nearby and so resist the urge.
+Bywater Road can be seen to the north, and Delving lane extends to the south.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17620
+D2
+~
+~
+0 -1 17632
+S
+#17632
+Delving Lane~
+Delving Lane runs north and south in this small borough of the Shire.  To
+the north stands Brandywine Bridge.  The Green Dragon, the undisputed leader
+in the art of innkeeping, offers rest and comfort to the west.  You hear the
+bray of horses to the east.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17631
+D1
+~
+~
+0 -1 17638
+D2
+~
+~
+0 -1 17633
+D3
+~
+~
+0 -1 17644
+S
+#17633
+Delving Lane~
+Delving Lane runs north and south in this small borough of the Shire.  A
+large, imposing building lies to the west.  You hear the bray of horses from
+the east.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17632
+D1
+~
+~
+0 -1 17638
+D2
+~
+~
+0 -1 17634
+D3
+~
+~
+0 -1 17645
+S
+#17634
+Delving Lane~
+Delving Lane runs north and south in this small borough of the Shire.  You
+stand in a cul de sac.  There are exits neither to the east nor to the west,
+but up ahead you see a round door which leads to a rather impressive abode.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17633
+D2
+~
+~
+0 -1 17635
+S
+#17635
+Bag End~
+You are standing in a comfortable well-equipped house, a palace by humble 
+halfling standards.  On the wall you see a banner which reads "Home Sweet Home".
+A solid oak door to the west leads to a pantry while you see a cozy bedroom to
+the east.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17634
+D1
+~
+~
+0 -1 17636
+D3
+~
+~
+0 -1 17637
+S
+#17636
+Bedroom~
+You stand in the private bedroom of Bag End.  There are two beds to the
+side, neither of which are made.  Portraits of the halflings hang on the
+wall, and as you gaze upon them you come to the conclusion that the owner
+of Bag End comes from a long line of distinguished halflings.  A cozy fire
+in the fireplace keeps the room warm and comfortable.
+~
+138 1048584 0 1 99 1
+D3
+~
+~
+0 -1 17635
+S
+#17637
+Pantry~
+You are inside the pantry.  Shelves filled with food and drink surround
+you on all sides.  You wonder why a halfling would need so much to eat.
+The presence of something unseen chills you to your bones.  On the floor
+you spy a trapdoor.
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17635
+D5
+~
+~
+0 -1 17656
+S
+#17638
+A grassy field~
+You stand upon a grassy field.  A bull stands grazing not far away and out of
+the corner of your eye you can see him considering you.  The sound of animals
+fill the air from the north.  To the south you see a pig pen.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17639
+D2
+~
+~
+0 -1 17642
+D3
+~
+~
+0 -1 17633
+S
+#17639
+Pig pen~
+This is an old pig wallow.
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17640
+D2
+~
+~
+0 -1 17638
+S
+#17640
+A stony path~
+You walk on a stony path which leads to a small residence to the north.
+to your east and south the landscape opens up into a region of trees and
+hills. From the west you hear the noisy din of pigs.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17641
+D3
+~
+~
+0 -1 17639
+S
+#17641
+Gamgee Residence~
+You stand inside a modest home.  You deduce that this is indeed the home
+of whomever owns the surrounding lands.  The air is somewhat musty and 
+the smell reminds you of a stable.  As you look around disdainfully, you
+think to yourself that this is more of a shack than a proper residence and
+you long for the urban riches of the Shire proper.
+~
+138 1048584 0 1 99 1
+D2
+~
+~
+0 -1 17640
+S
+#17642
+A barn~
+Animals of every sort fill the small barn.  You feel the hot breath of
+horses and cows on your neck and you feel the sudden need for fresh air.
+Other than that, you feel cozy and protected and don't mind staying for a
+bit longer.  All the warmth and good vibes remind you of the days when your
+mother would hold you in her arms and sing you to sleep.  You find yourself
+wanting to cradle all the animals.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17639
+D2
+~
+~
+0 -1 17643
+S
+#17643
+A chicken coop~
+You stand inside a rather crowded chicken coop.  The cackle of hens fill
+the air.  The only exit is to the north.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17642
+S
+#17644
+The Green Dragon~
+Broken bottles and damaged chairs adorn this place.
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17632
+S
+#17645
+Shiriff Post of Delving Lane~
+You are in the shiriff post which acts as the nucleus for the shiriffs of
+Delving Lane.  As you examine the shiriffs on duty, you come to realize that
+the halflings of the shire are not to be trifled with.  You cower with awe.
+~
+138 1048584 0 1 99 1
+D1
+~
+~
+0 -1 17633
+S
+#17646
+A dark tunnel~
+You stand inside a small underground tunnel.  The ceiling is so low that you 
+must crouch to avoid hitting your head.  The tunnel continues east and west.
+~
+138 1048585 0 1 99 1
+D3
+~
+~
+0 -1 17647
+D4
+~
+~
+0 -1 17625
+S
+#17647
+A dark tunnel~
+You stand inside a small underground tunnel.  The ceiling is so low that you 
+must crouch to avoid hitting your head.  The tunnel continues east and west.
+~
+138 1048585 0 1 99 1
+D1
+~
+~
+0 -1 17646
+D3
+~
+~
+0 -1 17648
+S
+#17648
+A dark tunnel~
+You stand inside a small underground tunnel.  The ceiling is so low that you 
+must crouch to avoid hitting your head.  The tunnel continues east and west.
+~
+138 1048585 0 1 99 1
+D1
+~
+~
+0 -1 17647
+D3
+~
+~
+0 -1 17649
+S
+#17649
+A dark tunnel~
+You stand inside a small underground tunnel.  The ceiling is so low that you 
+must crouch to avoid hitting your head.  The tunnel continues east and west.
+~
+138 9 0 1 99 1
+D1
+~
+~
+0 -1 17648
+D2
+~
+~
+0 -1 17651
+D3
+~
+~
+0 -1 17650
+S
+#17650
+A halfling hole.~
+You stand inside a rather crudely built halfling hole.  The many passageways
+and winding paths remind you of a rodent's lair.  The air is musty and damp 
+and you feel the need for fresh air.
+~
+138 9 0 1 99 1
+D1
+~
+~
+0 -1 17649
+S
+#17651
+A dark tunnel~
+You stand inside a small underground tunnel.  The ceiling is so low that you 
+must crouch to avoid hitting your head.  The tunnel continues east and west.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17649
+D1
+~
+~
+0 -1 17653
+D2
+~
+~
+0 -1 17652
+D3
+~
+~
+0 -1 17654
+S
+#17652
+A dark tunnel~
+You stand inside a small underground tunnel.  The ceiling is so low that you 
+must crouch to avoid hitting your head.  The tunnel continues east and west.
+~
+138 9 0 1 99 1
+D0
+~
+~
+0 -1 17651
+D1
+~
+~
+0 -1 17655
+D2
+~
+~
+0 -1 17656
+S
+#17653
+Shiriff Post of the Lower Shire~
+You are in the Shififf Post which acts as the nucleus for the three shiriffs
+of the Lower Shire.  As you examine the shiriffs on duty, you come to realize
+that halflings of the Shire are not to be trifled with.  You cower with awe.
+~
+138 9 0 1 99 1
+D3
+~
+~
+0 -1 17651
+S
+#17654
+A halfling hole~
+You stand inside a rather crudely built halfling hole.  The many passageways
+and winding paths remind you of a rodent's lair.  The air is musty and damp
+and you feel the need for fresh air.
+~
+138 9 0 1 99 1
+D1
+~
+~
+0 -1 17651
+S
+#17655
+A halfling hole~
+You stand inside a rather crudely built halfling hole.  The many passageways
+and winding paths remind you of a rodent's lair.  The air is musty and damp
+and you feel the need for fresh air.
+~
+138 9 0 1 99 1
+D3
+~
+~
+0 -1 17652
+S
+#17656
+End of a dark tunnel~
+You are at one end of a dark tunnel.  The tunnel continues to the north while
+on the ceiling, you can make out a trapdoor.
+~
+138 1048585 0 1 99 1
+D0
+~
+~
+0 -1 17652
+D4
+~
+~
+0 -1 17637
+S
+#17657
+The Moor~
+A grassy plain darkened by wisps of fog.  The moor stretches northward.  A
+path leads south into the forest.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17609
+D1
+~
+~
+16 -1 15901
+D2
+~
+~
+0 -1 17658
+S
+#17658
+Moor~
+A grassy plain darkened by wisps of fog.  The moor stretches northward.  A
+path leads south into the forest.
+~
+138 1048588 0 1 99 1
+D0
+~
+~
+0 -1 17657
+D1
+Towards Helms Deep
+~
+~
+16 -1 23800
+D2
+~
+~
+0 -1 17659
+S
+#17659
+Iron Gate~
+A huge iron gate rusted by years of corrosion has fallen from its hinges.
+It appears to be under repair.  The moor is to the north and a dark entrance
+lies to the south.
+~
+138 1048588 0 1 99 1
+D0
+~
+~
+0 -1 17658
+D2
+~
+~
+0 -1 17660
+S
+#17660
+Entryway to Canticle~
+A foreboding entrance made entirely of perfectly cut granite stone.  An
+air of decay and desolation surrounds you.  Maybe you should turn back.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17659
+D2
+~
+~
+0 -1 17661
+S
+#17661
+Blue Hall~
+A well-decorated passageway colored entirely blue.  The walls appear to
+have eyes.  You have the feeling you are being watched.
+~
+138 1048584 0 1 99 1
+D0
+~
+~
+0 -1 17660
+D2
+~
+~
+0 -1 17664
+D3
+~
+~
+0 -1 17662
+S
+#17662
+Rook Hall~
+A small damp hallway filled with eerie noises.  The floor is damp from
+moisture which is leaking from the ceiling.
+~
+138 8 0 1 99 1
+D1
+#
+#
+rlink 3 17761
+~
+~
+0 -1 17661
+D3
+~
+~
+0 -1 17663
+S
+#17663
+Rook Nook~
+The southeast corner canticle, the nook is a rather unpleasant place, the
+floor worn by constant pacing of the Rooks.  Cobwebs brush across your face
+as you look around.
+~
+138 8 0 1 99 1
+D1
+~
+~
+0 -1 17662
+D2
+~
+~
+32 -1 17666
+S
+#17664
+Light Blue Hall~
+A well-decorated passageway colored entirely blue.  The walls appear to
+have eyes.  You have the feeling you are being watched.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17661
+D1
+~
+~
+0 -1 17665
+D2
+~
+~
+0 -1 17669
+S
+#17665
+Scullery~
+A filthy eatery cluttered with dirty pans and plates.  The tables around
+the room are warped and faded.  The smell of garlic overpowers you.
+~
+138 8 0 1 99 1
+D1
+~
+~
+0 -1 17667
+D2
+~
+~
+0 -1 17674
+D3
+~
+~
+0 -1 17664
+S
+#17666
+Bastille~
+A damp, dingy prison empty of windows.  A strange unpleasant feeling
+comes over you.  You notice that the door has been locked behind you. --
+you're trapped!!
+~
+138 12 0 1 99 1
+S
+#17667
+Scullery~
+You are in a storeroom, amidst spices, vegtables, and vast sacks of flour
+and other provisions.  The air is thick with spice and garlic.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17668
+D3
+~
+~
+0 -1 17665
+S
+#17668
+The Jitney~
+A large kitchen filled with boiling caldrons.  A rat scurries across the
+floor.  You wonder what's for dinner.  The smell of garlic overpowers you.
+~
+138 8 0 1 99 1
+D2
+~
+~
+0 -1 17667
+S
+#17669
+Deep Blue Hall~
+A well-decorated passageway colored entirely blue.  The faded tapestries
+on the walls only hint at the splendor which this hall once had.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17664
+D2
+~
+~
+0 -1 17670
+S
+#17670
+Dark Blue Hall~
+A well-decorated passageway colored entirely blue.  The walls appear to
+have eyes.  You have the feeling you are being watched.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17669
+D2
+~
+~
+0 -1 17672
+D3
+~
+~
+0 -1 17671
+S
+#17671
+Blue Cube~
+A perfect cube set in blue, the hair on your neck stands straight as you
+feel electricity in the air.  You may want to leave now.
+~
+138 8 0 1 99 1
+D1
+~
+~
+0 -1 17670
+S
+#17672
+Black Corridor~
+A dank, dusty corridor completely void of light.  The walls feel extremely
+cold.  From the dust on the floor you can tell no one has walked this way
+for a long time.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17670
+D2
+~
+~
+0 -1 17673
+S
+#17673
+Glass Walk~
+The entire room appears made of glass.  Your reflection is distorted.  The brilliance almost blinds you.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17672
+D1
+~
+~
+0 -1 17681
+D3
+~
+~
+0 -1 17677
+S
+#17674
+Frump's Den~
+The Frump's meeting place, a stone lair fallen to decay.  The place is
+littered with broken chairs.  It appears that someone lives here.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17665
+D1
+~
+~
+0 -1 17675
+S
+#17675
+Altar Room~
+A darkened room with raised structures used for sacrifice.  The floor is
+stained blood red and the smell is horrendous.  Mice are everywhere 
+scampering around.
+~
+138 8 0 1 99 1
+D3
+~
+~
+0 -1 17674
+S
+#17676
+Deep Blue Hall~
+
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17665
+S
+#17677
+Glass Walk~
+The entire room appears made of glass.  Your reflection is distorted.  The
+brilliance almost blinds you.
+~
+138 8 0 1 99 1
+D1
+~
+~
+0 -1 17673
+D3
+~
+~
+0 -1 17678
+S
+#17678
+Crystal Parapet~
+A crystal wall built to protect the soldiers has been damaged by many wars
+but stands firm.  From here you can see the surrounding forest.
+~
+138 8 0 1 99 1
+D1
+~
+~
+0 -1 17677
+D4
+~
+~
+0 -1 17679
+S
+#17679
+Upper Parapet~
+A lofty perch on the wall, you become woozy as you realize you altitude.
+Over the wall you can see a beautiful view.
+~
+138 8 0 1 99 1
+D0
+gos I'll quit spammig your screen then
+~
+~
+0 -1 17680
+D5
+~
+~
+0 -1 17678
+S
+#17680
+Rampart~
+A battlement high up on Canticle's walls.  It has been used for centuries
+of holy wars.  From here you can survey the entire countryside.
+~
+138 8 0 1 99 1
+D2
+~
+~
+0 -1 17679
+S
+#17681
+Glass Walk~
+The entire room appears made of glass.  Your reflection is distorted.  The
+brilliance almost blinds you.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17682
+D1
+~
+~
+0 -1 17683
+D3
+~
+~
+0 -1 17673
+S
+#17682
+Edificant Library~
+The libraries collection of books, parchments, and artifacts fill the 
+entire room.  Most of the books are on potions and spell casting.
+~
+138 8 0 1 99 1
+D2
+~
+~
+0 -1 17681
+D3
+~
+~
+0 -1 17673
+S
+#17683
+Mirror Room~
+The entire room is encased in mirrors.  As you gaze around, you see
+yourself reflected a hundred times or more.  the magic mirror hands 
+on the north wall.  You sense a change in the mirror wall to the
+south.  entering this is like entering the heavens.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17684
+D3
+~
+~
+0 -1 17681
+S
+#17684
+In The Mirror~
+You have a strange distorted feeling.  You are inside a rainbow of mirrors,
+and you wonder which one is the real you.
+~
+138 8 0 1 99 1
+D0
+~
+~
+0 -1 17685
+D2
+~
+~
+0 -1 17683
+S
+#17685
+Bottom of Staircase~
+A circular flowing granit staircase ascends the walls and leads into
+ominous darkness.  The skeletons of dead adventurers lie strewn about.  Behind
+you is a beautiful magic mirror.
+~
+138 8 0 1 99 1
+D2
+~
+~
+0 -1 17684
+D4
+~
+~
+0 -1 17686
+S
+#17686
+Entrance to the Keep~
+A strange foyer with satanistic carvings on the wall.  The floor creaks 
+beneath your feet.  Strange noises and flashes of light come from the door
+to the south.
+~
+138 8 0 1 99 1
+D2
+You cannot distiguish any of the moving shapes in there.
+~
+~
+0 -1 17687
+D5
+~
+~
+0 -1 17685
+S
+#17687
+The Keep~
+You are standing before a large solid looking door.  The room has a 
+sulphorous smell.
+~
+138 8 0 1 99 1
+D0
+You can see the top of a staircase.
+~
+~
+0 -1 17686
+D2
+There is a long hallway.
+~
+door south~
+1 -1 5300
+S
+$~
+#999999

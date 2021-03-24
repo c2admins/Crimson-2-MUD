@@ -1,0 +1,290 @@
+#8565
+obj rotting paper~
+100
+piece of rotting paper~
+a piece of paper lies here, rotting.~
+~
+13 262144 0 1
+0 0 10 0
+1 10 5
+E
+rotting paper~
+Kels,
+
+The war on Earth rages on.  God will soon send a few of us to
+stop the dragon war...by slaying all of the beasts.  I do
+not know why God allowed this war to even begin...but I will
+go and defend his honor, his word, his will if he so asks me too.
+I wanted to let you know, that if we go...some of us may not
+return.  If, I am one who does not make it...if I cannot return
+home to you...know that I love you.  Every ounce of my heart...
+my soul...is filled with such love, I cannot describe it.
+I must go.  I will try and send news as I recieve it.
+
+Love,
+Christoph
+~
+#8566
+obj rotting paper 2~
+100
+a piece of rotting paper~
+a piece of paper lies here, rotting.~
+~
+13 0 0 1
+0 0 10 0
+1 10 5
+E
+rotting paper~
+Christoph,
+
+My love.  I know you must go on this journey.  I have enclosed
+a locket.  Take it and wear it in battle...know that I am with
+you in spirit.  My love for you reaches no bounds...
+
+Love,
+Kels
+~
+#8567
+obj rotting paper 3~
+100
+a piece of rotting paper~
+a piece of paper lies here, rotting.~
+~
+13 0 0 1
+0 0 10 0
+1 10 5
+E
+rotting paper~
+Kels,
+I have been sent to this war.  There are so many of them...
+I dont know how we can vanquish them, but I shall try.
+I love the pendant...I wear it as we speak.  I often find myself
+holding it, wishing I was with you, and not on this cursed
+battlefield.  I cannot send any more word...The war is too
+out of control.  I will see you again...I will come home.
+I love thee dearest.
+
+Love,
+Christoph
+~
+#8568
+obj rolled up scroll~
+100
+rolled up scroll~
+a rolled up scroll lies here.~
+~
+13 0 0 1
+0 0 10 0
+1 10 5
+E
+scroll~
+If thou recieveth this scorll...then thou hast slain the Air
+Wyrm.  Be warned...For they have not died...Go...now, and seek
+them out, amung the clouds.  Take the key from the Air Wyrm, and
+use it...Then you shall face their unified wrath.  Defeat them,
+hero, and thou shalt be rewarded.
+~
+#8569
+obj fang black wyrm ~
+3
+&wFang of the &KBlack &wWyrm&n~
+A large, black fang lies here.~
+~
+9 37751428 0 16385
+0 0 0 0
+15 100000 100000
+E
+fang black wyrm~
+You see numbers carved into the fang.
+8
+6
+1
+2
+~
+A
+18 1
+A
+19 4
+A
+13 -30
+A
+40 2
+#8570
+obj tail blue wyrm~
+1
+&bTail of the &BBlue &bWyrm&n~
+A long tail lies in the dirt here.~
+~
+9 37750848 0 262145
+0 0 0 0
+50 1000000 1000000
+A
+25 1
+A
+19 10
+A
+18 5
+A
+13 -30
+#8571
+obj spear red wyrm~
+1
+&rSpear of the &RRed &rWyrm&n~
+A red spear with many horns lie here.~
+~
+5 20971520 0 8193
+68608 4 10 11
+15 750000 750000
+A
+19 1
+A
+18 2
+A
+23 -5
+#8572
+obj eye yellow wyrm~
+3
+&yEye of the &YYellow &yWyrm&n~
+A large eye rests here.~
+~
+1 37748738 0 65537
+0 0 0 0
+15 1000000 1000000
+A
+19 3
+A
+18 1
+#8573
+obj skull white wyrm~
+2
+&wSkull of the &WWhite &wWyrm&n~
+A large dragon skull lies here.~
+~
+9 37748737 0 17
+5 0 0 0
+20 1 1000000
+A
+19 4
+A
+18 2
+A
+13 -20
+A
+9 20
+#8574
+obj bracer ultimate wyrm~
+1
+&KBracer &wof &Wthe &YUltimate &yWyrm&n~
+A huge, glowing bracer lies here.~
+~
+9 37750785 1024 4097
+10 0 0 0
+5 1000000 1000000
+A
+19 3
+A
+18 3
+#8575
+obj key black~
+100
+a black key~
+A black key lies here.~
+~
+18 262144 512 1
+0 1 0 0
+1 1 1
+A
+18 59
+#8576
+obj key blue~
+100
+a blue key~
+A blue key lies here.~
+~
+18 262144 512 1
+0 1 0 0
+1 5 5
+A
+18 59
+#8577
+obj key red~
+100
+a red key~
+A red key lies here.~
+~
+18 262144 512 1
+0 1 0 0
+1 5 5
+A
+18 59
+#8578
+obj key yellow~
+100
+a yellow key~
+A yellow key lies here.~
+~
+18 262144 512 1
+0 1 0 0
+1 5 5
+A
+18 59
+#8579
+obj key white~
+100
+a white key~
+A white key lies here.~
+~
+18 262144 512 1
+0 1 0 0
+1 5 5
+A
+18 59
+#8580
+obj locket kelsey imm~
+32767
+Golden locket~
+A golden locket lies here.~
+~
+1 536870912 64 5
+0 0 10 0
+1 5 5
+E
+heart~
+You see a picture of your beloved.  It has a picture of Kelsy
+inside.
+~
+#8581
+obj Scroll power~
+100
+Scroll of Power~
+A rolled up scroll lies here.~
+~
+2 262145 512 1
+46 36 106 142
+1 5 5
+A
+18 59
+#8582
+obj scale green wyrm~
+1
+&gScale of the &GGreen&g Wyrm&n~
+the scale of a huge dragon lies here.~
+~
+9 4203264 0 513
+60 0 0 0
+30 1000000 500000
+A
+19 3
+#8583
+obj key green~
+100
+a green key~
+A green key lies here.~
+~
+18 262144 512 1
+0 1 0 0
+1 5 5
+A
+18 59
+$~
+#999999

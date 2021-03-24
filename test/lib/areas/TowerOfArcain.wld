@@ -1,0 +1,940 @@
+#2700
+The Begining of the path ~
+As you look around you see hills and forest surrounding you with the 
+exception of a dim path which seems to be leading up through the hills...
+~
+27 8 0 1 99 4
+D0
+Farther up the path 
+~
+~
+0 -1 2701
+S
+#2701
+Continuing on the path~
+As you continue on the path which is getting more dimmer as you continue,
+the trees and bushes seem to be alive with a force that is yet unknown
+but as you look through the forest you see a faint and dim image of 
+what seems to be an outline of a tower or castle of great power ..
+~
+27 8 0 1 99 1
+D0
+Reaching the end of the path 
+~
+~
+0 -1 2702
+D2
+The begining of the path 
+~
+~
+0 -1 2700
+S
+#2702
+Close to the end of the path ~
+Coming close to the end of the path. The path reveals a clearing,infront 
+of this clearing is a set of towers there are 3 of them that seem to be 
+interlinked  with only one entrance and its only about 100 meters or so 
+~
+27 8 0 1 99 1
+D0
+The Entrance to the towers 
+~
+~
+0 -1 2703
+D2
+Continueing on the path 
+~
+~
+0 -1 2701
+S
+#2703
+The Entrance to the towers~
+As you enter the towers you see various things on and around the entrance to
+these towers rangeing from tapestry's to statues and gold laden marble floors.
+there are exits leading west south and east
+~
+27 8 0 1 99 1
+D1
+~
+~
+0 -1 2706
+D2
+Reaching the end of the path 
+~
+~
+0 -1 2702
+D3
+In the Foyer
+~
+~
+0 -1 2704
+S
+#2704
+The Foyer~
+This is one part of the Foyer it leads you to the pantry and rooms within 
+the towers. Again it is decorated in gold laden marble floors and statues.
+~
+27 8 0 1 99 1
+D0
+Through the hallways of Arcain
+~
+~
+0 -1 2708
+D1
+The entrance 
+~
+~
+0 -1 2703
+D3
+The Pantry 
+~
+~
+0 -1 2705
+S
+#2705
+The Pantry~
+This is the towers pantry. It is where they keep all there food,vegetables and
+things they use to live day by day here in the towers.
+~
+27 8 0 1 99 1
+D1
+Back to the foyer
+~
+~
+0 -1 2704
+S
+#2706
+The Foyer~
+This is the second half of the Foyer it leads to the parishable section of 
+the foyers. The floors are gold laden marble with tapestries.
+~
+27 8 0 1 99 1
+D0
+The halls of the damned
+~
+~
+0 -1 2709
+D1
+The Second Pantry
+~
+~
+0 -1 2707
+D3
+The entrance
+~
+~
+0 -1 2703
+S
+#2707
+The Second Pantry ~
+This is the second part of the pantry, it is mainly used to hold more of the
+parishable goods such as meat, cheese, eggs and milk. It is slightly colder
+in this room than the last one.
+~
+27 8 0 1 99 1
+D3
+The Foyer
+~
+~
+0 -1 2706
+S
+#2708
+The hallways of Arcain ~
+As you look around the hallway you see many different things here that 
+makes you think of good times past that are no longer. There is a painting
+of the great Lord Arcain on the east wall and on the west wall there is 
+a great statue of him riding a horse into battle.
+~
+27 8 0 1 99 1
+D0
+Farther up the halls 
+~
+~
+0 -1 2710
+D2
+The Foyer
+~
+~
+0 -1 2704
+S
+#2709
+Halls of the Damned~
+As you enter this room you get a bone chilling feeling of death and all its 
+beings.You look around to see various devices of torture and death.There is 
+a charred bone desk sitting by itself like theres someone that runs this 
+godforsaken place.You wonder if you should turn back now or continue north on
+your journey..
+~
+27 8 0 1 99 1
+D0
+Temujin's training room of death
+~
+~
+0 -1 2712
+D2
+The Foyer
+~
+~
+0 -1 2706
+S
+#2710
+The hallways of Arcain~
+Agian as you continue through the halls of Arcain you see various items that
+remind you of a better time that these towers once held. You stop to think
+what happen to this once great tower and its leader Lord Arcain.
+~
+27 8 0 1 99 1
+D0
+Closer to the intersection's of the Towers
+~
+~
+0 -1 2713
+D1
+The Great Ballroom of Arcain
+~
+~
+0 -1 2711
+D2
+The halls of Arcain
+~
+~
+0 -1 2708
+S
+#2711
+The great Ballroom of Arcain ~
+This is the room where Arcain did all of his entertaining. As you look around 
+you see a piano on the left wall it is made of solid gold on the right wall 
+there is a fireplace with steps leading down to it and a place to sit and talk
+. The room is very extravagant and quiet now.
+~
+27 8 0 1 99 1
+D0
+The sitting room of Arcain
+~
+~
+0 -1 2723
+D2
+The great library of Arcain
+~
+~
+0 -1 2724
+D3
+The hallways if Arcain 
+~
+~
+0 -1 2710
+S
+#2712
+Temujin's training room ~
+As you walk in here you see warriors training for battle.They look up at you
+as you have interupted there training and wonder why and for what reason you
+have done this, without delay they scream and attack you.
+~
+27 8 0 1 99 1
+D0
+The death pit
+~
+~
+0 -1 2714
+D2
+The halls of the damned
+~
+~
+0 -1 2709
+S
+#2713
+Closer to the intersection's~
+As you enter this room you realize you are geting closer to the three towers
+of Arcain. There isn't much in this room as far as decoration, it is kinda plain.
+~
+27 8 0 1 99 1
+D0
+The hallway of the Towers
+~
+~
+0 -1 2715
+D2
+The hallways of Arcain 
+~
+~
+0 -1 2710
+S
+#2714
+The death pit~
+This is the Death Pit guess u are dead.....:P
+~
+27 10 0 1 99 1
+S
+#2715
+The hallway of the towers ~
+As you enter this room you get a chill as it is far colder in this room than
+the others.You look around  there is a exit leading to the west to the first
+tower and a exit leading east down the hallway to the other towers.
+~
+27 8 0 1 99 1
+D1
+The entrance to the Main tower
+~
+~
+0 -1 2718
+D2
+Closer to the intersection
+~
+~
+0 -1 2713
+D3
+The entrance to Pepins tower
+~
+~
+0 -1 2716
+S
+#2716
+The entrance to Pepins tower~
+This is the entrance to Pepins tower.The room is made marble bricks with a 
+gold inlay in the marble.There is a glow that surrounds the marble it seems
+magical.You may have found the towers source of magic here. There is a door
+leading up to Pepin.
+~
+27 8 0 1 99 1
+D1
+The hallway of the towers
+~
+~
+0 -1 2715
+D4
+Up the Tower
+~
+~
+0 -1 2725
+S
+#2717
+The hallway to the second tower~
+This is the hallway to the second tower, it is a plain room not much to it 
+there is a desk with a sitting table next to it and a painting above it.
+There are exits leading east and west.
+~
+27 8 0 1 99 1
+D1
+The entrance to the second tower
+~
+~
+0 -1 2719
+D3
+The entrance to the main tower
+~
+~
+0 -1 2718
+S
+#2718
+The entrance to the main tower~
+This is the entrance to the main tower the room is like the rest in this area
+it is made of stone with a gold inlay.To the west takes you to the first tower
+and to the east takes you to the second tower.
+~
+27 8 0 1 99 1
+D0
+The hallway of the main tower
+~
+~
+0 -1 2720
+D1
+The hallway of the towers
+~
+~
+0 -1 2717
+D3
+The hallway of the towers
+~
+~
+0 -1 2715
+S
+#2719
+The entrance to Temujin's tower~
+This is the entrance to Temujin's tower. He is Lord Arcain's chief military
+advisor. Around the room you see nothing but objects of war and battle.There
+is a door leading up in front of you.
+~
+27 8 0 1 99 1
+D3
+The hallways of the towers
+~
+~
+0 -1 2717
+D4
+Climbing up the tower
+~
+~
+0 -1 2743
+S
+#2720
+Hallways of the main tower~
+You are in the hallway to the main tower.As you look around you are
+overtaken by the sheer exrravagent beauty of these rooms.There are diamond
+and ruby inlays in the stone, unlike before where it was just a gold inlay
+you try to pry one of these diamonds loose but realize after trying that 
+there is a strong magic holding them in place.
+~
+27 8 0 1 99 1
+D0
+Farther in the hallways
+~
+~
+0 -1 2721
+D2
+The entrance to the main tower
+~
+~
+0 -1 2718
+S
+#2721
+Hallways of the main tower~
+You are in the hallway to the main tower.As before you are surrounded by
+sheer beauty. Again there are gem laden walls,but unlike the previous room
+the floor is made of diamonds.There is a exit to the north that leads to 
+the main tower of Lord Arcain.
+~
+27 8 0 1 99 1
+D0
+The door to the main tower
+~
+~
+0 -1 2722
+D2
+Hallways of the main tower
+~
+~
+0 -1 2720
+S
+#2722
+The entrance to Lord Arcain's tower~
+You are now in the entrance to Lord Arcain's tower.The room is made of pure
+gold.The walls have emerald gems inlayed into the gold,this is byfar the most
+extravagent room you have seen yet...
+~
+27 8 0 1 99 1
+D2
+Farther in the hallway
+~
+~
+0 -1 2721
+D4
+Great halls of Arcain
+~
+~
+0 -1 2731
+S
+#2723
+The sitting room of Arcain~
+This is where Lord Arcain comes to sit and relax after his day has ended.
+You look around and you see a lavish couch and two sitting chairs with a 
+crystal coffee table and two endtables by the chairs.
+~
+27 8 0 1 99 1
+D2
+The great Ballroom of Arcain 
+~
+~
+0 -1 2711
+S
+#2724
+The great library of Arcain~
+As you enter this room you are struck by the overwhelming vast selection of
+books,scrolls,tablets and tomes. It is very obvious that this room is and was 
+a reading room for Lord Arcain. There is a desk on the right wall where Lord 
+Arcain did most of his reading the rest of the walls are bookcases that are
+as tall as the walls of the room,this room has a peaceful feeling to it.
+~
+27 8 0 1 99 1
+D0
+The great Ballroom of Arcain
+~
+~
+0 -1 2711
+S
+#2725
+Up the tower to Pepin ~
+As you climb the steep stairs to Pipin you look around and try to figure out 
+where you are.It is like you have walked into a different world,the walls are
+glowing with a bright green and purple light the floors are red as blood but
+with a eerie glow to them. There are exits up and down.
+~
+27 8 0 1 99 1
+D4
+The top of the tower
+~
+~
+0 -1 2726
+D5
+The entrance to Pepins tower
+~
+~
+0 -1 2716
+S
+#2726
+The top of the tower~
+You have reached the top of Pepin's tower. As you look around you see a 
+pedastal with a very old book on it, it seems to be radiating a blueish
+light from it.There is obviously some sork of magic in this tower.
+~
+27 8 0 1 99 1
+D0
+Pepin's room of practice
+~
+~
+0 -1 2729
+D3
+The mage's supply room
+~
+~
+0 -1 2727
+D5
+Up the tower to Pepin
+~
+~
+0 -1 2725
+S
+#2727
+Mage's supply room~
+As you walk in you are surrounded by a barrage of jar's, books, scrolls and
+wierd animal part's. This is where Pepin keeps his supply's for making brews
+of magic.On the left wall there is a caldron that is used for various sorts
+of magic preperation.
+~
+27 8 0 1 99 1
+D1
+The top of the tower
+~
+~
+0 -1 2726
+S
+#2728
+The Battle room~
+This room is very dark there are no decoration's here that you see, with the 
+execption of very large pedastal in the middle which sits on top of a pentagram
+on the pedastal there sits a artifact of chaos. This is where Pepin does all 
+battle's in alliance with Lord Arcain.
+~
+27 8 0 1 99 1
+D1
+Pepin's room of practice
+~
+~
+0 -1 2729
+S
+#2729
+Pepin's room of practice~
+When you walk in here you notice that this room is very lighted. There are
+many crystal's of different color's, shapes and size's. There is a pentagram
+in the middle of the room with a small blanket folded up in a square, this is
+where Pepin sits when he's practicing his magic.
+~
+27 8 0 1 99 1
+D1
+A place of slumber
+~
+~
+0 -1 2730
+D2
+The top of the tower
+~
+~
+0 -1 2726
+D3
+It is hard to tell what is in that room as it is very dark
+~
+~
+0 -1 2728
+S
+#2730
+The room of meditation~
+This is where Pepin meditates to regain his magical strenths. As you enter 
+Pepin looks up his eye's are red with fire and he is dressed in a purple 
+robe with star's and half moon's. As you just stand there in awe by this 
+great wizard he starts to chant some word's you begin to fear him and with that
+he attack's you for disturbing him.
+~
+27 8 0 1 99 1
+D3
+Pepin's room of practice
+~
+~
+0 -1 2729
+S
+#2731
+Great halls of Arcain~
+As you enter you look around and are amazed by the intricate designs that are
+layed into the walls.There are pictures of God's, Sorcerer's, and Dragon's.
+There are two exits up and down.
+~
+27 264 0 1 99 1
+D4
+Great halls of Arcain
+~
+~
+0 -1 2732
+D5
+The entrance to Lord Arcain's tower
+~
+~
+0 -1 2722
+S
+#2732
+Great halls of Arcain~
+As you enter you look around and are amazed by the intricate designs that are 
+layed into the walls.There are picture's of God's Sorcerer's and Dragon's.
+There are two exits up and down
+~
+27 8 0 1 99 1
+D4
+A palace within a tower
+~
+~
+0 -1 2733
+D5
+Great halls of Arcain
+~
+~
+0 -1 2731
+S
+#2733
+A palace within a tower~
+You have just entered the palace of Lord Arcain, despite the other lavish
+rooms that you have encounterd on your journey this is quite modest compared
+to them.There are a few trinkets and tapestry's hanging about. There are exits
+west, east, and down
+~
+27 8 0 1 99 1
+D1
+The halls of battle
+~
+~
+0 -1 2740
+D3
+Another room in the palace
+~
+~
+0 -1 2734
+D5
+Great halls of Arcain
+~
+~
+0 -1 2732
+S
+#2734
+Another room in the palace~
+As you walk around you are yet in another room in the palace. You are begining
+to wonder if you are lost or is this place really that big. The walls here are
+made of white gold with diamond inlay's. There are exits west, east, and north.
+~
+27 8 0 1 99 1
+D0
+The Royal bathroom 
+~
+~
+0 -1 2737
+D1
+A palace within a tower
+~
+~
+0 -1 2733
+D3
+Pit of entrapment
+~
+~
+0 -1 2735
+S
+#2735
+Pit of entrapment~
+The room you have entered is know to all of Lord Arcain's staff and members
+as the pit of entrapment.There is no way out and you are left here to die by
+the Keeper of the pit.
+~
+27 2013265928 536870912 1 99 1
+D5
+To dark to tell
+~
+wall~
+31 2700 2700
+S
+#2736
+The linen closet~
+This is the linen closet, there are shelves with sheets and pillow cases for
+Lord Arcain's bed.You also see a crack in the wall with a light coming out of 
+it, hrmm wonder whats in there
+~
+27 8 0 1 99 1
+D0
+Too dark to tell
+~
+~
+16 -1 2735
+D1
+The Royal bathroom
+~
+~
+0 -1 2737
+S
+#2737
+The Royal bathroom~
+This is the Royal bathroom there is a vanity  on the left wall with a mirror
+connected to it.There is also a gold brush set laying there, the toilet is 
+on the right wall along with a ivory clawfoot bathtub.
+~
+27 8 0 1 99 1
+D2
+Another room in the palace
+~
+~
+0 -1 2734
+D3
+The linen closet
+~
+~
+0 -1 2736
+S
+#2738
+Throne room of Lord Arcain~
+You are now in the throne room of Lord Arcain.When you look around you see
+a room made of solid gold.On the west wall there are various styles and types
+of weapons ranging from crossbows to a full suit of battle armor.On the east
+wall there is a large table this is considered the battle table.In the center
+of the room  there is a large throne with dragonhead handles on the end of it
+and a very realistic dragon head on the top of it.This is where Lord Arcain
+resides.
+~
+27 8 0 1 99 1
+D1
+The room of bones
+~
+~
+0 -1 2739
+S
+#2739
+The room of bones~
+You are in the room of bones this is the last obstacle in your way to Lord Arcain
+if you can figure out how to get to him.The room is filled with bones and the
+odd part about this is there split in 2 pieces every last one of them, what is
+or more like where is the key to this place.
+~
+27 8 0 1 99 1
+D1
+Closer to the Throne
+~
+~
+0 -1 2741
+D3
+The throne of Lord Arcain
+~
+~
+31 2703 2738
+S
+#2740
+The halls of battle~
+These are the halls of battle.There are many painting's of battle's won and
+lost by Lord Arcain, some of which were very bloody.There are exits leading
+west and east.
+~
+27 8 0 1 99 1
+D1
+The halls of battle
+~
+~
+0 -1 2742
+D3
+A palace within a tower
+~
+~
+0 -1 2733
+S
+#2741
+Closer to the Throne~
+You are now closer to the throne of Lord Arcain, if you have made it this far
+you are to be commended for your fighting skills.However you are not done you
+have come to find and destroy Lord Arcain and that will not be a easy task you
+have one more obstruction in your way as you will soon find out.Continue on your
+journey  young warrior.
+~
+27 8 0 1 99 1
+D2
+The halls of battle
+~
+~
+0 -1 2742
+D3
+The room of bones
+~
+~
+0 -1 2739
+S
+#2742
+The halls of battle~
+Again you find yourself in the halls of battle.There are the same type of 
+things that were in the previous room that you just came from, the only diff
+erence between them is there is a sign on the wall.
+~
+27 8 0 1 99 1
+D0
+Closer to the Throne
+~
+~
+0 -1 2741
+D3
+The halls of battle
+~
+~
+0 -1 2740
+S
+#2743
+Climbing up the tower~
+You have entered your journey up Temujin's tower.As you look around the walls
+seem to have a magical being to them.They glow with a dull purple light that 
+seems to get brighter as you continue up the tower.
+~
+27 8 0 1 99 1
+D4
+A bright purple room
+~
+~
+0 -1 2744
+D5
+The entrance to Temujin's tower
+~
+~
+0 -1 2719
+S
+#2744
+The purple room ~
+As you walk in this room you look around and see a big glowing orb of purple
+in the center of the room it seems to block the way up.There is no way to 
+really get around it, as you step forward to try to get around it the orb
+flashes and infront of you there is a being of magic that protects Temujin
+~
+27 8 0 1 99 1
+D4
+The entrace to Temujin's dwelling
+~
+~
+0 -1 2745
+D5
+Climbing up the tower
+~
+~
+0 -1 2743
+S
+#2745
+Temujin's dwelling~
+You have entered the home of the great Temujin.Looking around what you see
+goes along with the history of Temujin.There are ancient relics of the forbidden
+zone here.There are many instrument's of death and destruction here becarful
+where you might go as he has it trapped for such the occassion that someone
+gets past his guard.
+~
+27 8 0 1 99 1
+D0
+The dark room
+~
+~
+0 -1 2746
+D1
+Closer to Temujin
+~
+~
+0 -1 2749
+D5
+The purple room
+~
+~
+0 -1 2744
+S
+#2746
+The dark room~
+You are standing in the darkest room in the castle.There seems to be a 
+faint glow to the south, and it seems to be your only way out.
+~
+27 8 0 1 99 1
+D2
+The way out 
+~
+~
+0 -1 2700
+S
+#2747
+Temujin's Master room.~
+This room is very extravagant it is decorated with oriental furnishing's
+from the most elegant tapestries to the ivory based chess set in the right
+corner to the samuri sword collection infront of you.You have reached part
+of you goal...now all you have to do is kill him.
+~
+27 8 0 1 99 1
+D1
+The sitting room
+~
+~
+0 -1 2748
+D3
+The beginning of the end.
+~
+~
+0 -1 2700
+S
+#2748
+The sitting room~
+Whew you made it past Temujin's guards and to his sitting room. A solid oaken
+desk is in the left corner of the room. A great big orential rug is in the 
+center of the room, on this rug is a table that sits no more than 6 inch's
+from the ground.There are pillow's surrounding the table on the table seems 
+to be different papers and maps that are of no use to you.There are exits 
+leading south and west.
+~
+27 8 0 1 99 1
+D2
+Temujin's bedroom
+~
+~
+0 -1 2750
+D3
+Temujin's master room
+~
+~
+0 -1 2747
+S
+#2749
+Closer to Temujin~
+As you enter ther is a definite feeling that you are very close to master 
+Temujin. The room is decorated in many different battle helm's and picture's
+of war. To the east is the beginning of Temujin's bedroom.
+~
+27 8 0 1 99 1
+D1
+The door to Temujin's bedroom.
+~
+~
+0 -1 2750
+D3
+Temujin's dwelling
+~
+~
+0 -1 2745
+S
+#2750
+Temujin's bedroom~
+You stand infront of the door to Temujin's bedroom. The door is made of 
+solid  black obsidian. The handle is decorated in platinum and diamond's.
+There is no keyhole that you can see, but you think to yourself how does 
+one get in and out. There are 2 guard's standing here looking at you wondering
+why you stand infront of them. If they only knew your plans.
+~
+27 8 0 1 99 1
+D0
+isdoorThe sitting room
+~
+È	@@Aú~
+1 2708 2748
+D3
+Closer to Temujin
+~
+~
+0 -1 2749
+S
+$~
+#999999

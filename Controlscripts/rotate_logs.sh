@@ -10,7 +10,7 @@ LogFiles="bounty connects deaths delete dts equipment errors firsthit fun godcom
 syslog wrongpw"
 
 # The directories to run the script in.
-LogDirectories="/home/ubuntu/c2/prod/logs /home/ubuntu/c2/dev/logs /home/ubuntu/c2/test/logs" 
+LogDirectories="/home/crimson/c2/prod/logs /home/crimson/c2/dev/logs /home/crimson/c2/test/logs" 
 
 # How many back logs to keep.
 # MUST ME 3 OR MORE!!!

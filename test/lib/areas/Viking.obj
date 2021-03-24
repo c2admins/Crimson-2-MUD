@@ -1,0 +1,153 @@
+#17400
+obj tankard iron~
+10
+&Kan iron tankard&n~
+A heavy iron tankard has been left here.~
+~
+17 0 0 16385
+5 5 1 0
+1 5 5
+#17401
+obj egg speckled eagle~
+15
+&Wa large sp&ye&Wck&yl&We&yd &Wegg&n~
+A fragile looking speckled egg is resting here.~
+~
+19 0 0 16385
+50 0 10 0
+3 3200 800
+A
+24 -3
+A
+32 -1
+#17402
+obj broadsword norse sword~
+10
+&wa &yViking &wbroad&Ksword&n~
+A Viking broadsword has been dropped here.~
+~
+5 1048576 0 8193
+0 4 7 3
+15 9600 2400
+#17403
+obj greatsword norse sword~
+6
+&wa &yNorse &wGreat&Ksword&n~
+A huge Viking Greatsword has been abandoned on the ground here.~
+~
+5 1048576 0 8193
+0 3 11 3
+21 16000 4000
+A
+19 1
+#17404
+obj oar norse viking~
+10
+&ya large rowing oar&n~
+There is a long wooden oar lying on the ground here.~
+~
+5 524288 0 8193
+0 4 5 7
+17 3000 750
+#17405
+obj hammer blacksmith~
+8
+&wa large &Kblack hammer&n~
+A large, heavy looking black hammer is lying here.~
+~
+5 2097152 0 8193
+0 5 9 7
+14 96000 24000
+#17406
+obj collar studded dog~
+10
+&ya thick &Kstudded &ydog collar&n~
+A thick leather collar with metal studs is lying here.~
+~
+9 403701824 0 5
+10 0 0 0
+5 16000 4000
+A
+19 1
+A
+12 -20
+#17407
+obj jacket furlined norse~
+10
+&ya thick, fu&Kr&wli&Kn&yed jacket&n~
+A thick leather jacket, lined with fur is lying here in a heap.~
+~
+9 524288 0 9
+9 0 0 0
+20 1600 400
+#17408
+obj jacket heavy furlined~
+8
+&ya heavy, fu&Kr&wli&Kn&yed jacket&n~
+A heavy leather jacket, lined with fur is lying here in a heap.~
+~
+9 1048576 0 9
+14 0 0 0
+23 4000 1000
+A
+23 -2
+A
+24 -3
+#17409
+obj boots furlined~
+10
+&ya pair of fu&Kr&wli&Kn&yed boots&n~
+A pair of leather boots, lined with fur have been thrown down here.~
+~
+9 1048576 0 65
+7 0 0 0
+8 12000 3000
+#17410
+obj nest~
+100
+&ythe eagle's nest&n~
+&yA very large eagle's nest is fixed here.&n~
+~
+15 0 0 0
+10 0 10 0
+1 5 5
+E
+nest~
+The nest is made of small branches from the tops of trees.  Around the
+outside the bony wood grips the surrounding rock, but the inside is lined
+with fur and feathers from a number of different animals, all of which
+would have been eaten by the nest's builder.
+~
+#17411
+obj knife fishing serrated~
+10
+&wa fishing &Kknife&n~
+A long serrated knife has been dropped here.~
+~
+5 524288 0 8193
+16384 3 5 11
+3 7200 1800
+A
+19 1
+#17412
+obj shield Norse large~
+10
+&wa large &yNorse &Kshield&n~
+A large round shield has been left here.~
+~
+9 1048576 0 513
+30 0 0 0
+10 12000 3000
+A
+19 1
+#17413
+obj shield Norse round~
+15
+&wa round &yNorse &Kshield&n~
+Somebody has left a round norse shield here.~
+~
+9 524288 0 513
+20 0 0 0
+7 3000 750
+$~
+#999999

@@ -1,0 +1,431 @@
+#13100
+mob Medved hunter water~
+a medved~
+A medved hovers over the water, looking for prey.
+~
+A medved looks calculatingly back at you, trying to determine your edible
+value.  This species, once a league of hunters in all niches, has been destroyed
+until they exist only rarely where they are surrounded and protected by magic.
+It reaches for you timidly with its hand as it hovers above the surface of the
+earth.
+~
+17105228 32769 136249361 270848 1 S
+25 15 18 11d19+2000 3d5+7
+16675 95900
+8 8 0
+0 0 19 17 15 15 18 12
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_SECOND 45
+SKILL=SKILL_THIRD 15
+SKILL=SKILL_HUNT 75
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#13101
+mob caeba~
+a caeba~
+A caeba floats along the surface of the water.
+~
+The long, straight body of this grey caeba is covered with long, air-filled
+fibers which repel the water as it moves freely on the surface.  Legend holds
+that the caeba is a timid creature which spends its life cycle with as little
+contact with other species as possible and defends itself by means of ferocious
+acid breath which comes from the two tubes on each side of its head.
+
+~
+17039432 32769 136249361 570688000 0 S
+26 15 16 22d19+2000 3d7+7
+20350 85900
+8 8 0
+0 0 16 18 15 15 14 12
+SKILL=SPELL_ACID_BREATH 20
+SKILL=SKILL_SECOND 30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#13102
+mob alata plated serpent~
+Alata~
+Alata, the plated water serpent, floats toward you.
+~
+The great, mystical Alata is covered with square plates much like armor.  This
+beast, though generally placid, is known to spit burning acid upon enemies
+that rile its anger.  The beast's serpentine body moves easily through the
+water propelled by the series of legs on either side of its body with claws that
+could tear you to shreds.
+~
+17039432 32769 136249361 787072 0 S
+30 13 5 60d19+1000 4d5+8
+30225 225900
+8 8 0
+0 0 16 16 14 16 15 13
+SKILL=SPELL_BLINDNESS 35
+SKILL=SPELL_ACID_BREATH 10
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#13103
+mob shorea spinning orange~
+a shorea~
+An orange shorea is spinning here.
+~
+The shorea is an odd beast of watery environs that spins through the air on
+three awkwardly placed wings.  Seeing these ugly orange beasts in flight not
+only makes the flight of the bumblebee seem possible, but also makes it seem
+a simple and graceful process.  If I were you, I'd protect myself.  There's
+no telling which way this beast will spin next.
+~
+16843016 1 136249361 512 0 S
+27 15 14 33d19+2000 4d5+11
+22550 115900
+8 8 0
+0 0 16 15 14 14 13 14
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=103
+#13104
+mob chirita blue~
+a blue chirita~
+A square, blue chirit spreads itself over the water.
+~
+It is not clear at a glance whether the soft, blue chirita is a plant or an
+animal.  Since you haven't the time to delve into the scientific aspects of this
+question, you just hazard your best guess and wonder what use this little 
+square of fuzzy blue something might be.
+~
+17563720 32769 136249361 262656 -1000 S
+25 15 18 22d19+2000 5d7+10
+17250 95900
+8 8 0
+0 0 16 15 16 15 14 15
+SKILL=SPELL_ENERGY_DRAIN 25
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#13105
+mob mangrove roots~
+a mangrove root~
+The dangerous mangrove roots protrude from the water.
+~
+Your initial fears that you could break a leg in this mess of roots is over-
+shadowed as you remember the enchanted pond around you.  These roots could be
+anything because of those enchantments so you watch your step very carefully 
+in hopes that, if they are enchanted in some way, they will take no notice of
+you.
+~
+262474 32769 136249361 262656 -250 S
+28 15 11 44d19+2000 3d3+9
+26000 125900
+8 8 0
+0 0 16 16 15 15 14 14
+SKILL=SKILL_PARRY 20
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#13106
+mob lily carnivorous water~
+a carnivorous water lily~
+A carnivorous water lily digests its latest meal here.
+~
+The beautiful yet treacherous water lily floats peacefully, only ingesting a 
+new meal very rarely.  These particular lilies were once known far and wide for
+the healing properties of their extracts as well as their rare and fragile
+beauty.  This outward fragility is, as you may learn, quite a deception.
+~
+327754 32769 136249361 262656 0 S
+28 15 11 44d19+2000 6d5+16
+25500 105900
+8 8 0
+0 0 16 17 16 16 15 11
+SKILL=SPELL_HEAL_MINOR 60
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#13107
+mob fly dragon~
+a dragon fly~
+A large, protective dragon fly hovers here.
+~
+These great bodied dragon flies have taken over the task of protecting the
+beasts on the surface of the pond and they take this task quite seriously.  Take
+care that they do not catch you trying to hurt any of their innocent friends.
+~
+17039432 32769 136249361 33817088 0 S
+29 14 8 55d19+2000 3d3+8
+27450 103900
+8 8 0
+0 0 19 16 16 14 12 13
+SKILL=SKILL_HUNT 60
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#13108
+mob cladoceran rolypoly~
+a cladoceran~
+You gape at this rolypoly cladoceran moving through the water.
+~
+These poor stupid beasts can function no more intelligently than to roll 
+around bumping into walls and occasionally ingest some food.  Though they have
+mush for brains, they have magnificent reflexes and don't particularly enjoy
+pain.  This animals rounded and compact body makes it difficult to hit, but
+how could the beast possibly defend itself?
+~
+16777288 1 136249361 17039360 0 S
+33 10 -4 98d19+3000 4d5+19
+59500 240000
+8 8 0
+0 0 17 15 14 15 14 14
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=101
+#13109
+mob copepod grey~
+a grey copepod~
+A grey copepod propels itself through the water.
+~
+The long cylindrical body of this creature has a fin on each side of its body
+which, upon closer examination, is actually a large and very strong flagella.
+This copepod is quite obviously a strong animal and a worthy opponent if you
+dare risk its ire.
+~
+17104968 1 136249361 17039360 0 S
+35 8 -10 56d19+4000 6d5+21
+81900 295000
+8 8 0
+0 0 16 16 15 14 12 13
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#13110
+mob copepod red~
+a red copepod~
+A red copepod propels itself through the water.
+~
+The long cylindrical body of this creature has a fin on each side of its body
+which, upon closer examination, is actually a large and very strong flagella.
+This copepod is quite obviously a strong animal and a worthy opponent if you
+dare risk its ire.
+~
+17104968 1 136249361 17039360 0 S
+38 5 -18 70d19+8000 7d5+23
+293750 310000
+8 8 0
+0 0 17 16 15 15 15 11
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#13111
+mob nymph dragonfly~
+a dragonfly nymph~
+A dragonfly nymph clings to the floor.
+~
+This massive bug is nothing like the average nymph.  These must be the younger
+versions of the great dragonfly guards from above.  They don't look overly 
+exciting but you can't quite squash them under your lovely foot.
+~
+17039432 1 136249361 17047552 0 S
+35 8 -10 55d19+4000 9d5+55
+82950 260000
+8 8 0
+0 0 16 18 16 16 14 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#13112
+mob thismia roots~
+a thismia~
+A thismia imitates tangled roots here.
+~
+The thismia were long a confusing breed of animal for the sim ple fact that they
+appear to be a jumble of plant roots lying exposed.  They are, however, 
+definately animals though this is only clear at night when they voraciously
+hunt down their meals.
+~
+17039432 1 136249361 17039360 0 S
+38 5 -18 70d19+8000 6d5+24
+292500 220000
+8 8 0
+0 0 17 18 16 15 12 13
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=108
+#13113
+mob schima~
+a schima~
+A grotesque schima moans out its misery.
+~
+The last of an understandably dying breed, this schima can do little but wander
+around mourning its fate.  The disgusting beast has a tiny head with one eye and
+the location of its brain (if it has one) is anybody's best guess.  Perhaps
+it is split up in the four huge arms extending from the twig of a body or 
+perhaps not.  Maybe you should chop it up and find out, eh?
+~
+17039432 1 136249361 1090781184 0 S
+38 5 -18 100d49+6200 9d9+45
+294625 220000
+8 8 0
+0 0 16 18 16 15 15 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#13114
+mob renda~
+Renda~
+Renda inches its way across the floor of the pond.
+~
+Renda is a squat, confusing animal.  Its waxy cuticle makes it impossible to 
+figure out which end is which.  The best thing to do would probably be to hack
+away at both until the Renda gets ticked off and fights back (which shouldn't
+take too long) or simply live with the mystery and forget Renda.
+~
+17039432 1 136249361 17039488 0 S
+40 3 -22 35d19+6000 9d7+30
+703500 260000
+8 8 0
+0 0 17 18 14 14 14 14
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#13115
+mob Arundina lovely~
+an arundina~
+A lovely arundina floats before you.
+~
+The arundina is the spirit of a beautiful woman drowned long ago.  Her spirit
+dwells here and expresses itself in the form of this disembodied head
+with her long, beautiful mane of hair flowing all around her.  Take
+care that you do not disturb her as she does not like to be distracted
+from her absorptive self pity.
+~
+17039432 32769 136249361 17039488 0 S
+40 3 -22 100d29+4850 5d5+26
+711900 305000
+8 8 0
+0 0 16 17 15 14 14 13
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#13116
+mob cerodaphnae juvenile~
+a juvenile cerodaphnae~
+A young cerodaphnae waits hungrily to be fed.
+~
+This youngster is just like a miniature of its parents.
+~
+16785418 1 136249361 536870912 1000 S
+40 3 -22 70d19+12000 8d5+30
+705600 242000
+8 8 0
+0 0 17 17 15 16 13 12
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#13117
+mob cerodaphnae~
+a cerodaphnae~
+A cerodaphnae glares at you, rather annoyed.
+~
+Though the cerodaphnae isn't a particularly large animal, its skin has become
+very similar to stone from the millenia it has spent in dark, damp caves.  Its
+claws and fangs make you wish desperately that you were somewhere else.
+~
+17096714 1 136249361 262144 -500 S
+41 2 -24 80d19+15000 5d7+20
+900000 370500
+8 8 0
+0 0 16 16 15 16 15 12
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#13118
+mob cerodaphnae~
+a cerodaphnae~
+A cerodaphnae glares at you, rather annoyed.
+~
+Though the cerodaphnae isn't a particularly large animal, its skin has become
+very similar to stone from the millenia it has spent in dark, damp caves.  Its
+claws and fangs make you wish desperately that you were somewhere else.
+~
+17096714 1 136249361 262272 -500 S
+42 1 -26 45d19+9000 8d7+43
+980000 502000
+8 8 0
+0 0 16 16 15 16 15 12
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+$~
+#999999

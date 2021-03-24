@@ -1,0 +1,1714 @@
+#16600
+Graffin's Delicatessen~
+   Graffin is here to serve you.  Let him get you a pimento loaf or 
+perhaps some head cheese, and don't hesitate to let him serve you.
+Please form the line outside.
+~
+64 8 0 1 99 1
+S
+#16601
+Man-Made Tunnel~
+   This is a dark, roughly carved tunnel, artfully concealed from the outside
+world.  It continues down in to the darkness.
+~
+64 269 0 1 99 0
+D4
+The opening to the grave lies above.
+~
+~
+0 -1 3427
+D5
+The tunnel continues down.
+~
+~
+0 -1 16602
+S
+#16602
+Man-Made Tunnel~
+   You think you see light seeping out from the cracks in a door to the
+north.  Is that a silhouette moving in front of it the light?  It is too
+dark to tell.  The tunnel continues up.
+~
+64 265 0 1 99 0
+D0
+The tunnel continues north.
+~
+~
+0 -1 16603
+D4
+The tunnel continues up.
+~
+~
+0 -1 16601
+S
+#16603
+Man-Made Tunnel~
+   There is a door blocking your further procession to the north, and a
+non-descriptive person standing in front of the door who looks determined
+not to let you pass.  The tunnel leads south.
+~
+64 13 0 1 99 0
+D0
+A door is to the north.
+~
+door~
+13 16601 16604
+D2
+The tunnel continues south.
+~
+~
+0 -1 16602
+S
+#16604
+Entryway~
+   This is a dimly lit hallway, lined with old tapestries and closed.
+There is not another soul in sight.  Periodically you think you see
+movement, apparently caused by tight nerves and your imagination.
+~
+64 9 0 1 99 0
+D0
+The entryway continues north.
+~
+~
+0 -1 16605
+D2
+The tunnel is to the south.
+~
+door~
+13 16601 16603
+S
+#16605
+Entryway~
+   This is a dimly lit hallway, lined with old tapestries and closed.
+There is not another soul in sight.  Periodically you think you see
+movement, apparently caused by tight nerves and your imagination.
+~
+64 9 0 1 99 0
+D0
+The entryway continues north.
+~
+~
+0 -1 16606
+S
+#16606
+Entryway~
+   This is a dimly lit hallway, lined with old tapestries and closed.
+There is not another soul in sight.  Periodically you think you see
+movement, apparently caused by tight nerves and your imagination.
+~
+64 9 0 1 99 0
+D0
+The entryway continues north.
+~
+~
+0 -1 16607
+S
+#16607
+Entryway~
+   This is a dimly lit hallway, lined with old tapestries and closed.
+There is not another soul in sight.  Periodically you think you see
+movement, apparently caused by tight nerves and your imagination.
+~
+64 9 0 1 99 0
+D0
+The entryway continues north.
+~
+~
+0 -1 16608
+S
+#16608
+Entryway~
+   This is a dimly lit hallway, lined with old tapestries and closed.
+There is not another soul in sight.  Periodically you think you see
+movement, apparently caused by tight nerves and your imagination.
+~
+64 9 0 1 99 0
+D0
+The entryway is continues north...it seems to go on forever.
+~
+~
+0 -1 16605
+D4
+A new area is up!
+~
+crawlspace~
+25 -1 16609
+S
+#16609
+Bare Hallway~
+   This passageway is obviously more often used than the one below it.
+Scuff marks from soft (sneaky) leather boots line the floor, heading off
+in all directions.  You are lost and confused.
+~
+64 9 0 1 99 0
+D0
+The hallway continues north.
+~
+~
+0 -1 16610
+D1
+The hallway continues.
+~
+~
+0 -1 16623
+D2
+A bare hallway is south.
+~
+~
+0 -1 16619
+D3
+The hallway continues.
+~
+~
+0 -1 16627
+D4
+Stairs lead up.
+~
+~
+0 -1 16633
+D5
+The entryway is down.
+~
+crawlspace~
+25 -1 16608
+S
+#16610
+Bare Hallway~
+   A rank odor from the north permeates the stale air.  You get a 
+feeling of dread from the darkness ahead.  Your skin crawls as a spider
+walks across your arm, but is gone before you can kill it.  It must have
+been three inches long.
+~
+64 9 0 1 99 0
+D0
+The hallway continues north.
+~
+~
+0 -1 16611
+D2
+The hallway continues south.
+~
+~
+0 -1 16609
+S
+#16611
+Fork in the Hall~
+   The hall splits, leading to the east and the west here.  You think
+that this would be a good place to set an ambush for unwanted visitors.
+There is a sign on the wall that says "If you're not a guild member, get
+out."
+~
+64 8 0 1 99 0
+D0
+A concealed door is north.
+~
+concealed~
+25 -1 16618
+D1
+A dirty passageway is east.
+~
+~
+0 -1 16613
+D2
+The hallway continues south.
+~
+~
+0 -1 16610
+D3
+The hallway continues west.
+~
+~
+0 -1 16612
+S
+#16612
+Dirty Passageway~
+   This is a dirty passageway, with crusty things and huge dust bunnies
+in the corners.  Thieves obviously don't have maids, nor do they care to!
+~
+64 9 0 1 99 0
+D0
+A lighter hallway is north.
+~
+~
+0 -1 16615
+D1
+A fork in the hall is east.
+~
+~
+0 -1 16611
+S
+#16613
+Dirty Passageway~
+   This is a dirty passageway, with crusty things and huge dust bunnies
+in the corners.  Thieves obviously don't have maids, nor do they care to!
+~
+64 9 0 1 99 0
+D0
+A lighter room is ahead.
+~
+~
+0 -1 16614
+D3
+A fork in the hallway is west.
+~
+~
+0 -1 16611
+S
+#16614
+Lighter Hallway~
+   This hallway is dimly lit from a torch to the west.  You feel a breeze
+from the same direction.  You see that darn spider again.  He laughs
+at you.
+~
+64 8 0 1 99 0
+D2
+A dirty passageway is south...eeeewwww!
+~
+~
+0 -1 16613
+D3
+Light leads you west.
+~
+~
+0 -1 16616
+S
+#16615
+Lighter Hallway~
+   This hallway is dimly lit from a torch to the east.  You feel a breeze
+from the same direction.  That darn spider passes you again.  He laughs
+at you.
+~
+64 8 0 1 99 0
+D1
+Light leads you east.
+~
+~
+0 -1 16616
+D2
+A dirty passageway is south....eeeewww!
+~
+~
+0 -1 16612
+S
+#16616
+Before a Cell~
+   A dusty, old cell lies to the south, with its sole resident being a 
+yellowed skeleton.  Fresh bloodstains on the floor tell you that this
+room is quite frequently occupied, though.  The skeleton has some old
+jewelry on it.
+~
+64 8 0 1 99 0
+D1
+The hallway conitnues...
+~
+~
+0 -1 16614
+D2
+A cell is to the south.
+~
+cell~
+15 16605 16617
+D3
+The hallway continues.
+~
+~
+0 -1 16615
+S
+#16617
+Inside a Cell~
+   This hallway is dimly lit from a torch to the east.  You feel a breeze
+from the same direction.  That darn spider passes you again.  He laughs
+at you.
+~
+64 8 0 1 99 0
+D0
+Outside the cell.
+~
+cell~
+15 16605 16616
+D2
+The interrogation room is south.
+~
+cell~
+15 16605 16618
+S
+#16618
+Interrogation Room~
+   Various implements to loosen peoples tongues lie around this room,
+some having been freshly used.  It seems as if the head interrogator
+greatly enjoys her work, and now it looks as if she is going to try
+and enjoy some work on you!
+~
+64 8 0 1 99 0
+D0
+A cell is to the north.
+~
+cell~
+15 16605 16617
+D2
+A fork in the hallway is south.
+~
+door~
+9 -1 16611
+S
+#16619
+Bare Hallway~
+   All these bare hallways look the same.  Haven't thieves ever heard of
+an interior decorator?  This hall leads north and south.
+~
+64 9 0 1 99 0
+D0
+A junction is north.
+~
+~
+0 -1 16609
+D2
+The hallway continues into the darkness...
+~
+~
+0 -1 16620
+S
+#16620
+Bare Hallway~
+   Through the darkness you think you see a doorway ahead.  This looks 
+like a little-used area of the guild.  You see a really big spider, but
+it eludes your crushing boot.
+~
+64 9 0 1 99 0
+D0
+The hallway continues.
+~
+~
+0 -1 16619
+D2
+The hallway continues.
+~
+~
+0 -1 16621
+S
+#16621
+Bare Hallway~
+   The is a bare door to the south of you, but nothing much else of 
+interest in this part of the hallway.  Nothing obviously interesting, 
+anyway.  You don't think you should take anything for granted in this
+place.
+~
+64 9 0 1 99 0
+D0
+The hallway continues.
+~
+~
+0 -1 16620
+D2
+A storage room is south.
+~
+door~
+9 -1 16622
+S
+#16622
+Storage Room~
+   This is a storage room, as the name suggests, containing various food
+items, such as pimento loaves and head cheese.  There are also some old, 
+decaying barrels in the back of the room, containing some fine, aged 
+wine?  Or perhaps some fine, aged.....lemonade?
+~
+64 9 0 1 99 0
+D0
+A hallway leads north.
+~
+door~
+9 -1 16621
+S
+#16623
+Bare Hallway~
+   This hallway is choked with dust.  It seems not to be used at all.  
+Is there a good reason for that?  Who knows what evil lurks in the 
+hearts of thieves?
+~
+64 9 0 1 99 0
+D1
+The hallway continues.
+~
+~
+0 -1 16624
+D3
+The hallway continues.
+~
+~
+0 -1 16609
+S
+#16624
+Bare Hallway~
+   This hallway is already dark, but ahead to the east the darkness is 
+impenetrable.  Even with your light sources you can't make out what lies
+in wait for you.  Obviously some powerful magic is guarding the area.  
+Watch out for yourself.
+~
+64 9 0 1 99 0
+D1
+The darkness is so impenetrable that if you enter it, you may never leave.
+~
+~
+0 -1 16625
+D2
+A concealed panel is south.
+~
+panel~
+25 -1 16640
+D3
+The hallway continues.
+~
+~
+0 -1 16623
+S
+#16625
+Room of Death (Traps)~
+   In a whirl of fine mechanics that takes your breath away (literally),
+a scything blade swings down from the ceiling to cleave you neatly in half
+vertically as another one swings out from the wall to do the same
+horizontally.  At the same time, 16 poisonous darts shoot out from each
+wall, each one sticking perfectly into one of your pressure points.
+Ahhh...what an engineering masterpiece.
+~
+64 14 0 1 99 0
+S
+#16626
+The Stairwell~
+   You are now on a large spiral staircase.  The door you came through seems
+to have disappeared, leaving you stuck on the stairs.  As you start on your
+way into the darkness, you realize you aren't going anywhere.  The stairwell
+is rotating like a drill and everytime you step up or down the stair moves 
+you back to where you were before.  Can't Move!  No Exits!  You have only one
+option left.  Quit!  (the thieves thank you for your donation of equipment)
+~
+64 268435597 0 1 99 0
+D4
+Nothing special there...
+~
+exit~
+3 16625 16601
+S
+#16627
+Bare Hallway~
+   You see a light up ahead, although a rancid odor accompanies it.  You
+have never smelt a beast as foul as this.  It smells so bad, it almost hurts.
+~
+64 9 0 1 99 0
+D1
+The hallway continues.
+~
+~
+0 -1 16609
+D3
+The hallway continues.
+~
+~
+0 -1 16628
+S
+#16628
+Bare Hallway~
+   Now the hall smells so bad it DOES hurt.  Obviously there is something
+monstrous nearby that really needs a toothbrush or something even more 
+effective.
+~
+64 2056 0 1 99 0
+D1
+The hallway continues.
+~
+~
+0 -1 16627
+D3
+an iron gate ahead.
+~
+~
+0 -1 16631
+S
+#16629
+Nick the Fence's Gallery of Merchandise~
+  You see piles of merchandise that looks brand new to you. There are many
+thieves wandering around, looking through the items and picking out their
+favorite toys.  On the wall, you see a large sign that says, " All of my
+quality merchandise has been brought to you thanks to the many members of 
+this infamous guild."  There is a small sign hanging just below the other 
+one.  It reads, "None of the merchandise you see before you was stolen.  It
+just happened to fall off the back of a wagon and one of my friends was there
+to pick it up."
+~
+64 268435465 0 1 99 0
+D0
+It is too dark to tell.
+~
+gray door~
+9 -1 16635
+S
+#16630
+Jhessail's Training Room~
+   This is obviously not a normal thieves training room.  It does not 
+contain locks to pick, trapped containers to open, etc... Yet, it contains
+items you would expect to find in a fighters training hall.  There are many
+assorted weapons hanging from the walls and several targets for trainees to
+practice on in the center of the room.  There is a large painting on the west
+wall that depicts a small thief fighting a battle against great odds.  On the
+east wall, there is a similar painting that depicts the same thief standing
+over the bodies of her vanquished foes.  Under each painting you see the name
+Jhessail the Relentless.
+~
+64 268435593 0 1 99 0
+D2
+It is too dark to tell.
+~
+gray door~
+9 -1 16635
+S
+#16631
+At an Iron Gate~
+   An iron gate blocks your way westward, not that you would want to go
+there anyway.  The smell is terrible.  
+~
+64 2056 0 1 99 0
+D1
+The hallway continues.
+~
+~
+0 -1 16628
+D3
+A gate blocks the way west.
+~
+gate~
+9 -1 16632
+S
+#16632
+Room of Garbage~
+   This room is piled to the ceiling with garbage, the second favorite 
+food of your friendly neighborhood otyugh.  His first favorite food is
+you, of course.
+~
+64 4104 0 1 99 0
+D1
+The hallway leads east.
+~
+gate~
+9 -1 16631
+S
+#16633
+Staircase~
+   You are climbing up a spiraling staircase.  You recall Adventuring 101
+in which Prof. Katzenellenbogen taught you that more difficult monsters
+are usually in the higher levels.  
+~
+64 9 0 1 99 0
+D4
+The top of the stairs is up.
+~
+~
+0 -1 16634
+D5
+Stairs lead down.
+~
+~
+0 -1 16609
+S
+#16634
+Staircase.~
+   You are climbing up a spiraling staircase.  You recall Adventuring 101
+in which Prof. Katzenellenbogen taught you that more difficult monsters
+are usually in the higher levels.  
+~
+64 268435465 0 1 99 0
+D4
+It is too dark to tell.
+~
+~
+0 -1 16635
+D5
+A staircase leads down.
+~
+~
+0 -1 16633
+S
+#16635
+Decorated Hallway~
+   You enter a hall that is decorated with many great works of art.  This is
+where the thieves of this guild display their "borrowed" items.  You can tell
+from the treasures found here, these are some really experienced thieves.
+There are gray doors to the north and south and the hall continues to the 
+west.
+~
+64 268435465 0 1 99 0
+D0
+It is too dark to tell.
+~
+door gray north~
+9 -1 16630
+D1
+A barred iron door blocks your path.
+~
+iron barred~
+9 -1 16652
+D2
+It is too dark to tell.
+~
+door south gray~
+9 -1 16629
+D3
+It is too dark to tell.
+~
+~
+0 -1 16636
+D4
+You feel very uneasy about going further up.
+~
+~
+0 -1 16626
+D5
+It is too dark to tell.
+~
+~
+0 -1 16634
+S
+#16636
+Decorated Hallway~
+   The hall continues.  The farther down the hallway you go, the higher the
+quality of the works of art on the walls.  It seems obvious that continuing
+down the hall will bring you to the better thieves.
+~
+64 268435465 0 1 99 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 16635
+D3
+It is too dark to tell.
+~
+~
+0 -1 16637
+S
+#16637
+Decorated Hallway~
+   The hall continues.  The farther down the hallway you go, the higher the
+quality of the works of art on the walls.  It seems obvious that continuing
+down the hall will bring you to the better thieves.  There are two black 
+doors here.  One is to the south and the other is to the north.
+~
+64 268435465 0 1 99 0
+D0
+~
+black door~
+9 -1 16663
+D1
+It is too dark to tell.
+~
+~
+0 -1 16636
+D2
+~
+black door~
+9 -1 16645
+D3
+It is too dark to tell.
+~
+~
+0 -1 16638
+S
+#16638
+The End of the Decorated Hallway.~
+   The hall ends abruptly at a set of elaborate double doors.  All in this
+part of the hall is obviously not as it seems, as you get a tingly 
+sensation up your spine.  The double doors look quite heavy, as if they 
+weren't meant to be opened.
+~
+64 268435465 0 1 99 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 16637
+D3
+You hear a HORRIBLE buzzing noise from behind the door.
+~
+double~
+9 -1 16639
+D5
+~
+board~
+16 -1 16643
+S
+#16639
+The Nest.~
+   You walk through the double doors only to hear them slam shut behind you.
+You see tens of thousands of large insects crawling all over the walls, floor
+and ceiling of this room.  As you stand there thinking that this room is a 
+total waste of your time, THE BUGS ATTACK YOU!  They only do one point of 
+damage each but there are so many of them, they manage to kill you before you
+have a chance to react.  You'll be happy to know that your corpse will keep
+the insects well fed until there next victum arrives.  I guess the double 
+doors weren't such a good idea afterall.
+~
+64 14 0 1 99 0
+S
+#16640
+Secret Passageway~
+   This is obviously a little used passageway.  It is doubtful that any
+of the inhabitants of this place even know about it anymore, from the 
+amount of dust that is collected here.  You note some old tapestries
+on the walls depicting knights winning their lady's hands.
+~
+64 9 0 1 99 0
+D0
+A concealed panel is north.
+~
+panel~
+9 -1 16624
+D2
+The passage continues.
+~
+~
+0 -1 16641
+S
+#16641
+Secret Passageway~
+   The passage begins to slope down here.  Water drips from somewhere,
+making the floor slippery and treacherous.  You are in utter blackness.
+~
+64 9 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16640
+D1
+The passage continues.
+~
+~
+0 -1 16642
+S
+#16642
+The Rapid Descent~
+   Suddenly, the floor isn't there anymore, and you are falling through
+a shoot.  When you hit the bottom, the only exit is a hole in the floor.
+~
+64 9 0 1 99 0
+D5
+A hole leads to a dark stone cavern.
+~
+~
+0 -1 16601
+S
+#16643
+The Hidden Corridor.~
+   As you slip through the moving floor boards, you enter a well made 
+corridor.  It is very plain and simple but well constructed none the less.
+It seems to slope downward and leads off into the darkness.
+~
+64 268435465 0 1 99 0
+D1
+It is too dark to see.
+~
+puerta~
+9 -1 16651
+D3
+It is too dark to see.
+~
+~
+0 -1 16644
+D4
+It is too dark to tell.
+~
+board~
+16 -1 16638
+S
+#16644
+The Hidden Corridor.~
+   The corridor branches off in two directions here.  It is too dark for you
+to see down any corridor but your nerves tingle because it is totally silent
+down here.  It is way too quiet.
+~
+64 268435465 0 1 99 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 16643
+D2
+It is too dark to tell.
+~
+~
+0 -1 16646
+D3
+It is too dark to tell.
+~
+~
+0 -1 16647
+S
+#16645
+Accomplice Barracks~
+   You have entered a very noisy room.  The are cages on shelves on all the
+walls.  The cages contain various animals that look to be useful to a 
+thieves cause.  Most of them are small and agile and they would be great
+for accomplishing small objectives for the thieves.  The shelves are
+labeled, telling what each animal is trained to do.  Just when you thought
+you were safe, you notice a LARGE black cat lying in the back of the room.
+There is a label under it too.  It reads, "The guard!"  Doh!
+~
+64 268435465 0 1 99 0
+D0
+~
+black door~
+9 -1 16637
+S
+#16646
+The Hidden Corridor.~
+   The corridor ends at a large adamantite door.  There is a sign on the door
+that reads, "For your safety and ours, please DO NOT open this door.  Thank
+you."  It is signed, "Your gracious host, Quinn the Master Thief."
+~
+64 268435465 0 1 99 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 16644
+D2
+~
+adamantite door~
+9 -1 16648
+S
+#16647
+The Hidden Corridor.~
+   This branch of the corridor ends at a small wooden door.  Besides that,
+there is no difference between this and any other part of the corridor.  
+It is a very smooth, well cut tunnel.
+~
+64 268435465 0 1 99 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 16644
+D3
+~
+wooden door~
+9 -1 16649
+S
+#16648
+The Cage~
+   You have opened the door and entered the adamantite walled cage of a 
+mighty purple worm.  The tunnels you came in through looked a little too
+smoothly cut and now you know why.  They were made by the worm.  The 
+thieves somehow managed to capture the worm in here but you had to go and
+open the door.  Nice job!  Well, time to pay the price as the worm comes
+toward you, ready to swallow you whole.  It has been locked up for a long 
+time, I bet it is VERY hungry.
+~
+64 8 0 1 99 1
+D0
+~
+adamantite door~
+9 -1 16646
+S
+#16649
+Elaborate Bedroom~
+   This is an obviously masculine bedroom, even though there is a generous
+portion of lace and frilly things around.  You suspect that this is the 
+bedroom of some very important person.  Do you really think it would be
+unguarded?
+~
+64 268435465 0 1 99 0
+D1
+~
+wooden door~
+9 -1 16647
+D3
+An alcove is west.
+~
+door~
+13 16628 16650
+S
+#16650
+Alcove~
+   You are in an alcove in which several trophies are displayed in a 
+case near the far wall.  The owner of the trophies frequently visits
+his collections here.  There is an obvious trapdoor in the floor.
+~
+64 268435465 0 1 99 0
+D1
+A bedroom is east.
+~
+door~
+13 16628 16649
+D5
+Another passage is down...far down.
+~
+trapdoor~
+9 -1 16664
+S
+#16651
+The Master's Court~
+   This is a well decorated room, seemingly designed for one person
+to hear audiences.  Rows of chairs line the walls, with one large meeting
+table in the center.  A raised chair is at the far wall, currently 
+being unused.
+~
+64 268435465 0 1 99 0
+D0
+The consultation room is north.
+~
+~
+0 -1 16692
+D3
+It is too dark to see.
+~
+puerta~
+9 -1 16643
+S
+#16652
+Top of the Spiral~
+   You are on the top of a rusty spiralling staircase that leads down into the
+darkness.  Your eyes can't penetrate the gloom to see what lies beyond.
+~
+64 268435469 0 1 99 0
+D3
+A barred iron door blocks your path.
+~
+iron barred~
+9 -1 16635
+D5
+The stairs spiral downwards.
+~
+~
+0 -1 16653
+S
+#16653
+Downward Spiral~
+   You are standing on a rusty iron spiralling staircase.  The world 
+disappears at the end of your field of vision, which is about 10 feet.
+~
+64 268435465 0 1 99 0
+D4
+The stairs spiral upwards.
+~
+~
+0 -1 16652
+D5
+The stairs spiral downwards.
+~
+~
+0 -1 16654
+S
+#16654
+Downward Spiral~
+   You are still travelling in total darkness, but the air seems to be 
+getting warmer the further down you go.  You still can see nothing.
+~
+64 268435465 0 1 99 0
+D4
+The stairs spiral upwards.
+~
+~
+0 -1 16653
+D5
+The stairs spiral downwards.
+~
+~
+0 -1 16655
+S
+#16655
+Downward Spiral~
+   A red glow from below begins to permeate the darkness here, and the air
+gets progressively warmer the further down you go.
+~
+64 268435464 0 1 99 0
+D4
+The stairs spiral upwards.
+~
+~
+0 -1 16654
+D5
+The end is in sight.
+~
+~
+0 -1 16656
+S
+#16656
+Bottom of the Spiral~
+   You see now that the red glow comes from an underground lava flow at
+the far end of the cavern.  The flow also explains why this room is so hot.
+The viscous material moves by sluggishly.
+~
+64 268435468 0 1 99 0
+D0
+The cavern continues north.
+~
+~
+0 -1 16657
+D3
+The lava flow is west.
+~
+~
+0 -1 16658
+D4
+The stairs spiral upward.
+~
+~
+0 -1 16655
+S
+#16657
+Underground Cavern~
+   You see what vaguely resembles a throne in the far northern corner of 
+the room, but heat waves obscure your vision, so you cannot see clearly.
+~
+64 268435468 0 1 99 0
+D0
+You think you see a throne to the north.
+~
+~
+0 -1 16662
+D2
+The spiral begins south.
+~
+~
+0 -1 16656
+D3
+The flow is west.
+~
+~
+0 -1 16659
+S
+#16658
+By the Flow~
+  You are now standing by the lava flow.  It is very hot, so hot, that 
+your skin begins to turn red and blister just from standing here.  You
+seem to see odd creatures in the flow.
+~
+64 268437512 0 1 99 0
+D0
+The flow continues north.
+~
+~
+0 -1 16659
+D1
+The spiral begins east.
+~
+~
+0 -1 16656
+S
+#16659
+By the Flow~
+   There is a slender bridge leading into the flow.  The cavern continues in 
+all other directions as well.
+~
+64 268437512 0 1 99 0
+D0
+The flow continues north.
+~
+~
+0 -1 16661
+D1
+The cavern is east.
+~
+~
+0 -1 16657
+D2
+The lava flows south.
+~
+~
+0 -1 16658
+D3
+The slender bridge into the lava looks VERY unstable.
+~
+~
+0 -1 16660
+S
+#16660
+In the Flow~
+   The slender bridge you are walking on suddenly crumbles under your weight.
+You tumble headlong into the flow of lava and are instantly incinerated.
+You are dead...sorry :)
+~
+64 268437514 0 1 99 0
+S
+#16661
+By the Flow~
+   The flow of lava originates from a hole in the wall to the north of 
+here.  It is sort of like a red, incandescent underground river.
+~
+64 268437512 0 1 99 0
+D1
+You think you see a throne to the east.
+~
+~
+0 -1 16662
+D2
+The flow continues south.
+~
+~
+0 -1 16659
+S
+#16662
+Throne of Grendel~
+   A throne made of charred bone dominates this section of the cavern.  
+The normal occupant of the throne is Grendel, the Fiery Dragon.  Do you
+seek to overthrow him?
+~
+64 268435464 0 1 99 0
+D2
+The cavern continues south.
+~
+~
+0 -1 16657
+D3
+a lava flow to the west.
+~
+~
+0 -1 16661
+S
+#16663
+The Lady's Chamber.~
+   You have just entered an elaborately decorated bedroom.  There is a 
+large bed in the center of the room.  The walls have murals painted on 
+them and there is a portrait of a beautifull woman hanging over the bed.
+That same woman is lying on the bed before you.  She wears nothing but 
+a red, lacey teddy and her beauty gets your heart racing.  Just as you
+began to think that you are in heaven, she pulls a strange looking 
+dagger out from under her pillow and jumps forth at you.  She was 
+searching for fresh blood and you just answered her call (of course,
+being a thief, she wants all your stuff too).  Doh!  Women!  You can't
+live without and she is trying to make you die with them.
+~
+64 268435593 0 1 99 0
+D2
+The hallway is south
+~
+black door~
+9 -1 16637
+S
+#16664
+Stone Passage~
+   The trapdoor you entered through is far above you, leaving you stranded
+in this passage with no hope of returning by the way you came.  A sign on 
+the wall written in red ink says, "Some of my treasures are here, as well
+as my pets.  Enjoy."  The note is signed "Quinn."
+~
+64 268435468 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16665
+S
+#16665
+Stone Passage~
+   Torches lining the walls provide faint light for you to navigate these
+corridors.  Strange how they don't burn out.  Exits are in all directions.
+~
+64 268435464 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16676
+D1
+The passage continues.
+~
+~
+0 -1 16666
+D2
+The passage continues.
+~
+~
+0 -1 16664
+D3
+The passage continues.
+~
+~
+0 -1 16679
+S
+#16666
+Stone Passage~
+   You catch wind of a faint, sweet odor from this direction.  Exits are 
+to the north, east, and west.
+~
+64 268435464 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16667
+D1
+The passage continues.
+~
+~
+0 -1 16669
+D3
+The passage continues.
+~
+~
+0 -1 16665
+S
+#16667
+Stone Passage~
+   You see a brighter light coming from the east.  An exit is also south.
+~
+64 268435464 0 1 99 0
+D1
+A brighter light...
+~
+~
+0 -1 16668
+D2
+The passage continues.
+~
+~
+0 -1 16666
+S
+#16668
+Shrine to an Nameless God~
+   An elaborately made shrine to some god you don't recognize is here,
+housing some artifact that Quinn collected over his illustrious career.
+The only exit is west.
+~
+64 268435468 0 1 99 0
+D3
+The passage continues.
+~
+~
+0 -1 16667
+S
+#16669
+Stone Passage~
+   The passage widens a bit here, and the sweet smell increases the further
+east you go.  Exits are east and west.
+~
+64 268435464 0 1 99 0
+D1
+The passage continues.
+~
+~
+0 -1 16670
+D3
+The passage continues.
+~
+~
+0 -1 16666
+S
+#16670
+Stone Passage~
+   You are going deeper into the caverns, and getting more lost with each
+turn.  (At least, that's the desired effect.)  Exits are east, south, 
+and west.
+~
+64 268435464 0 1 99 0
+D1
+The passage continues.
+~
+~
+0 -1 16671
+D2
+The passage continues...
+~
+~
+0 -1 16677
+D3
+The passage continues.
+~
+~
+0 -1 16669
+S
+#16671
+Stone Passage~
+   The sweet smell you detected before is getting stronger here, and you 
+feel a faint rush of air.  Exits are north and west.
+~
+64 268435464 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16672
+D3
+The passage continues.
+~
+~
+0 -1 16670
+S
+#16672
+Stone Passage~
+   A myriad of colorful lights fill this room, but the source of them is
+not here.  Exits are north and south.
+~
+64 268435464 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16673
+D2
+The passage continues.
+~
+~
+0 -1 16671
+S
+#16673
+A Portal~
+   The colorful lights you saw come from a dimensional portal in the wall
+here.  It looks dangerous for beings of this world to use.
+~
+64 268435464 0 1 99 0
+D0
+A smell of sulphur drifts into the room.
+~
+~
+0 -1 15902
+D1
+The passage continues.
+~
+~
+0 -1 16676
+D2
+The passage continues.
+~
+~
+0 -1 16672
+D3
+An alcove is west.
+~
+~
+0 -1 16675
+S
+#16674
+Inside a wall!~
+The teleport spell has malfunctioned disasterously, sending you into a wall.
+You are killed instantly.
+~
+64 268435466 0 1 99 0
+S
+#16675
+Alcove~
+   This is a plain looking alcove, colored by the lights of Tarterus
+coming from the next room.  The isn't much of interest here.
+~
+64 268435464 0 1 99 0
+D1
+The passage continues.
+~
+~
+0 -1 16673
+S
+#16676
+Stone Passage~
+   This part of the passage is decorated by colorful lights coming from 
+the west.  The air also has a sickly sweet tinge to it.
+~
+64 268435464 0 1 99 0
+D2
+The passage continues.
+~
+~
+0 -1 16665
+D3
+Colorful lights guide your way.
+~
+~
+0 -1 16673
+S
+#16677
+Stone Passage~
+   With all the twists and turns in this place, you can't even be sure that
+this floor plan follows the laws of physics.  But that's not for you to worry
+about.
+~
+64 268435464 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16670
+D3
+The passage continues.
+~
+~
+0 -1 16678
+S
+#16678
+Stone Passage~
+   You start to wonder if carbon 14 dating is all it's cracked up to be
+as you wander around these bland, dull halls.  You hope that you'll 
+eventually find all the equipment down here, but that's not likely.
+~
+64 268435464 0 1 99 0
+D1
+The passage continues.
+~
+~
+0 -1 16677
+D2
+The passage continues
+~
+~
+0 -1 16691
+S
+#16679
+Stone Passage~
+   A musty odor permeates the air here, diffusing at a constant rate from
+the west.  The corridors darken here.
+~
+64 268435464 0 1 99 0
+D1
+The passage continues.
+~
+~
+0 -1 16665
+D3
+The passage continues.
+~
+~
+0 -1 16680
+S
+#16680
+Stone Passage~
+   Exits from here are east and north.  To the north is utter blackness,
+as the last torches in sight are in this room.
+~
+64 268435464 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16681
+D1
+The passage continues.
+~
+~
+0 -1 16679
+D2
+The passage continues.
+~
+~
+0 -1 16686
+S
+#16681
+Stone Passage~
+   Exits from this room are north and west.  The torches have totally
+vanished and you are in blackness.
+~
+64 268435465 0 1 99 0
+D2
+The passage continues.
+~
+~
+0 -1 16680
+D3
+The passage continues.
+~
+~
+0 -1 16682
+S
+#16682
+Stone Passage~
+   This is an intersection leading in all directions.  You think you catch
+a scent of fresh graves to the south.
+~
+64 268435465 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16685
+D1
+The passage continues.
+~
+~
+0 -1 16681
+D2
+The passage continues.
+~
+~
+0 -1 16683
+D3
+The passage continues.
+~
+~
+0 -1 16690
+S
+#16683
+Stone Passage~
+   You catch a familiar scent to the west of here, kind of like the one you
+smelled when you first entered the guild.  You don't really want to leave
+though, do you?
+~
+64 268435465 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16682
+D3
+You think an exit is west.
+~
+~
+0 -1 16684
+S
+#16684
+Exit~
+A red and white sign saying "Exit" with an arrow pointing down is here.  You
+get a clue that an exit might be down.
+~
+64 268435465 0 1 99 0
+D1
+The passage continues.
+~
+~
+0 -1 16683
+D5
+An exit is down
+~
+~
+0 -1 16601
+S
+#16685
+Stone Passage~
+   The passage gets narrower the further north you go, and the dust per
+square inch ratio increases, telling you that this passageway isn't used all
+that much.
+~
+64 268435465 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16686
+D2
+The passage contines.
+~
+~
+0 -1 16682
+S
+#16686
+Stone Passage~
+   Exits from here are east, south, and north.  East and north look more
+promising for fame and fortune, while south looks better for wimps and 
+newbies.
+~
+64 268435465 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16680
+D1
+The passage continues.
+~
+~
+0 -1 16687
+D2
+The passage continues.
+~
+~
+0 -1 16685
+S
+#16687
+Stone Passage~
+   You hear dripping in the darkness, as if a murky pool of water is around.
+What do the demons down here use the pool for?  You don't want to know.
+~
+64 268435469 0 1 99 0
+D1
+The passage continues.
+~
+~
+0 -1 16688
+D3
+The passage bends.
+~
+~
+0 -1 16686
+S
+#16688
+Stone Passage~
+   For some reason, you get the feeling that you are going in circles.  Why 
+is that?
+~
+64 268435465 0 1 99 0
+D0
+The passage continues.
+The passage is open.
+~
+~
+0 -1 16689
+D3
+You hear dripping water.
+~
+~
+0 -1 16687
+S
+#16689
+Stone Passage~
+   These bendy, twisty tunnels get annoying after a while, no?  Well,
+that's the general idea.
+~
+64 268435465 0 1 99 0
+D1
+The passage continues.
+~
+~
+0 -1 16690
+D2
+The passage continues.
+~
+~
+0 -1 16688
+S
+#16690
+Stone Passage~
+   There's nothing special here...it is just one of the same tunnels
+you've been walking through forever.
+~
+64 268435465 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16691
+D1
+The passage continues.
+~
+~
+0 -1 16682
+D3
+The passage doesn't continue...oh...can't fool you.
+~
+~
+0 -1 16689
+S
+#16691
+Stone Passage~
+   This is starting to look like one of those loop mazes to you.  It 
+shouldn't be too hard to get out though.
+~
+64 268435465 0 1 99 0
+D0
+The passage continues.
+~
+~
+0 -1 16678
+D2
+The passage continues.
+~
+~
+0 -1 16690
+S
+#16692
+Consultation Room~
+   This is where Quinn gets his advice from his resident soothsayer. 
+This is also where The soothsayer spends most of his time.
+~
+64 268435465 0 1 99 0
+D2
+The master's court is south.
+~
+~
+0 -1 16651
+S
+$~
+#999999

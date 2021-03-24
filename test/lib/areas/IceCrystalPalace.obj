@@ -1,0 +1,392 @@
+#18800
+obj ice crystal staff~
+2
+&WI&Cc&We &CC&cr&Cy&cs&Ct&ca&Cl &yStaff&n~
+A Ice Crystal Staff set with a black rose has been left here.~
+~
+5 4326465 0 8193
+33792 4 8 12
+12 200000 75000
+A
+19 4
+A
+32 -1
+A
+18 2
+A
+12 -20
+#18801
+obj crystal ice encrusted cape~
+8
+&bI&cc&be &cE&bn&cc&br&cu&bs&ct&be&cd &bC&ca&bp&ce&n~
+Ice Encrusted Chain Cape~
+~
+9 4326400 0 5
+30 0 0 0
+25 150000 50000
+A
+19 3
+A
+13 5
+#18802
+obj crystal paladin greaves~
+8
+&CPaladin's &cGreaves&n~
+Paladin's Greaves~
+~
+9 4197377 0 33
+30 0 0 0
+1 150000 85000
+A
+19 3
+A
+18 1
+A
+12 -10
+A
+13 10
+#18803
+obj crystal remorhaz shield~
+1
+&yremorhaz skin &wshield&n~
+A strange shield has been left here.~
+~
+9 4195329 0 513
+15 0 0 0
+10 250000 90000
+A
+19 4
+A
+18 1
+A
+14 -10
+#18804
+obj crystal winter rose armband~
+4
+&WWi&Cnt&Wer &rRose &CArmband&n~
+Winter Rose Armband~
+~
+9 4194305 0 257
+45 0 0 0
+12 100000 70000
+A
+19 3
+A
+18 1
+A
+2 -1
+#18805
+obj crystal black rose ring~
+1
+&KBlack &rRose &WRing&n~
+Black Rose Ring~
+~
+9 104860737 0 3
+20 0 0 0
+3 200000 70000
+A
+19 3
+A
+18 2
+A
+13 5
+#18806
+obj crystal silver chain bracelet~
+2
+&cC&Cr&cy&Cs&ct&Ca&cl &nand &wS&Wi&wl&Wv&we&Wr &nChain Bracelet~
+&cC&Cr&cy&Cs&ct&Ca&cl &nand &wS&Wi&wl&Wv&we&Wr &nChain Bracelet~
+~
+9 4194369 0 4097
+20 0 0 0
+8 400000 95000
+A
+19 3
+A
+18 1
+A
+12 -10
+A
+14 -10
+#18807
+obj crystal lich skin~
+5
+&GLich &ySkin&n~
+The skin of a long dead lich sits here.~
+~
+15 4196356 0 1025
+350 0 0 0
+4 250000 100000
+A
+19 4
+A
+14 -50
+A
+17 -45
+#18808
+obj crystal ice encrusted cloak~
+1
+&CI&cc&Ce &We&wncruste&Wd &yCloak&n~
+&wA ice encrusted cloak lays crumpled on the ground.&n~
+~
+15 104889410 155776 1025
+500 0 0 0
+3 2500000 25000
+A
+19 4
+A
+18 2
+A
+17 -50
+#18809
+obj crystal ice flamberge~
+0
+&WI&Cc&We &RF&Ylam&Rberge&n~
+You see a large sword lying here covered in ice~
+~
+5 2126914 0 8193
+0 4 9 3
+22 250000 56000
+A
+19 6
+A
+18 -3
+A
+2 -2
+#18810
+obj dungeon key palace~
+2
+ice cell key~
+A large key covered with ice.~
+~
+18 134479884 0 1
+0 3 0 0
+1 5 5
+#18811
+obj crystal demon light~
+3
+&KDemon &RL&Yigh&Rt&n~
+A light glowly with evil lays here.~
+~
+1 4194308 0 65537
+0 0 1000000 0
+10 100000 50000
+A
+19 2
+A
+18 2
+A
+17 -15
+#18812
+obj note ice palace~
+100
+a note~
+a note is here begging for someone to read it~
+~
+16 134217792 0 16385
+0 0 10 0
+1 5 5
+E
+A note is laying here~
+Blah blah
+~
+E
+read note~
+Please help .  I  am the true king of the Ice Crystal Palace.  I have been
+captured and imprisoned by an lich.  He has made a clone of me and is
+now in control of the entire castle.  I know he is at the end of the caverns
+below the throne room antechamber.  I have the key that opens his lair.
+Beware the monsters that stalk the caverns and the lich's minions.
+Good luck
+Good luck
+King Rowan
+~
+#18813
+obj crystal stonebreaker~
+1
+&yStone&Kbreaker&n~
+The great axe of legend, Stonebreaker.~
+~
+5 4194304 0 8193
+32768 9 5 3
+25 100000 50000
+A
+12 -10
+A
+19 4
+A
+18 -1
+A
+13 -20
+#18814
+obj key lich lair~
+2
+lich key~
+A large key with here.~
+~
+18 134479880 0 5
+0 1 0 0
+10 5 0
+#18815
+obj crystal durcrist~
+2
+&KDurcrist&n~
+A large sword lays here cutting thru the darkness.~
+~
+5 4197378 0 8193
+8 18 3 3
+5 150000 90000
+A
+1 1
+A
+19 4
+A
+13 2
+#18816
+obj Nike air zoom shoes~
+100
+Nike Air Zoom~
+A pair of Nike's sit here~
+~
+11 134217730 0 65
+0 0 10 0
+1 100000 5
+#18817
+obj crystal ghostly cestus~
+1
+&WGhostly &CCestus&n~
+A ghostly pair of gloves lie here and appear to be a weapon of sorts~
+~
+5 4195424 0 8193
+0 3 19 6
+1 5 5
+A
+19 4
+A
+13 4
+A
+17 20
+#18818
+obj crystal lizardskin mesh gloves~
+2
+&GL&gizar&Gd&w-&yskin Mesh &cGloves&n~
+Lizard-skin gloves lie here.~
+~
+9 4223041 131200 129
+25 0 0 0
+10 100000 200000
+A
+19 3
+A
+18 2
+A
+14 -20
+A
+12 -5
+#18819
+obj crystal braided cerulean belt~
+2
+&wB&Wraide&wd Cerulean &BBlue &wBelt&n~
+Braided Cerulean Blue Belt~
+~
+9 4325377 0 2049
+24 0 0 0
+8 100000 200000
+A
+19 3
+A
+18 1
+A
+12 -10
+A
+13 -5
+#18820
+obj crystal silver encrusted platemail~
+2
+&wS&Wi&wl&Wv&we&Wr &GEncrusted &BRoyal &wPlatemail&n~
+Silver Encrusted Royal Platemail~
+~
+9 4328450 0 9
+80 0 0 0
+15 150000 250000
+A
+19 3
+A
+18 1
+A
+14 -30
+#18821
+obj crystal sunburst earring~
+3
+&YSunburst &CC&cr&Cy&cs&Ct&ca&Cl &wEarring&n~
+A earring with the glow of the sun in it.~
+~
+9 4197379 0 17
+10 0 0 0
+5 150000 250000
+A
+19 3
+A
+18 1
+A
+12 -10
+A
+36 -1
+#18822
+obj crystal divine staff~
+100
+A staff of divine power~
+A divine staff lies here still glowing.~
+~
+3 2359296 0 16385
+75 5 5 76
+1 5 5
+#18823
+obj crystal fallen star ring~
+1
+&KRing &wof the &CFallen &YStar&n~
+Ring of the Fallen Star~
+~
+9 4195328 1024 3
+10 0 0 0
+7 1000000 200000
+A
+19 3
+A
+18 3
+A
+13 -25
+#18824
+obj crystal ring rising sun~
+1
+&KRing &wof the &rR&Yi&rs&Yi&rn&Yg &rS&Yu&rn&n~
+Ring of the Rising Sun~
+~
+9 4195328 1024 3
+10 0 0 0
+7 1000000 200000
+A
+19 2
+A
+41 1
+A
+18 1
+#18825
+obj Lich Orb~
+32767
+&RL&ri&Rc&rh &KOrb&w~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#18826
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

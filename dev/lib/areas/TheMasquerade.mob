@@ -1,0 +1,488 @@
+#20500
+mob guardian fire~
+&RThe Guardian of Fire&n~
+a formless elemental is here, summoning the forces of &Rfire&n to protect the altar
+~
+&BYou stand face to face with the spirit of the eternal.  Here it waits, guarding the temple from the wyrm, and evidently from you.&n
+~
+67166218 32769 136249361 128 1000 S
+45 0 -5 1d1+4999 10d10+75
+300000 60000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_SECOND 99
+#20501
+mob vampire half breed~
+A Vampire Half Breed~
+A small half breed vampire sits here, cackling maniacally
+~
+&cYou stand face to face with a young wyrmling.  He grins at you devilishly, and as you laugh at his seemingly puny form, he swipes at you with his claws with suprising speed.  Perhaps he is a more fearsome foe than you assumed.&n
+~
+69263370 1 136249361 2097280 -1000 S
+41 2 -10 1d1+15000 10d10+30
+0 380000
+8 8 0
+0 0 25 15 14 16 14 11
+SKILL=SPELL_BLACK_BURST 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=45
+ATTACK_TYPE=105
+#20502
+mob gaia mother garou~
+&GG&ga&Gi&ga&c, Mother of the Garou&n~
+Gaia lies in wait, preventing the kindred from leaving their sanctuary.
+~
+At the beginning of time, all was peaceful.  The Mother took shelter inside
+the core of the planet, overjoyed with her creations.  But one day a deep
+pain consumed her soul.  Angered and confused, she rose from her haven and
+traveled to the surface once again...and upon reaching it, she found hordes
+of her beloved slaughtered.  The day she had been dreading had come.
+
+The arrival of the Wyrm on her lush planet had brought destruction to her
+faithful minions.  Enraged, she hunted the kindred with ferocious vengeance
+and destroyed all in her path.  After her annihilation of three great clans,
+she trapped the remaining kindred within these walls.  She now stands here
+for all eternity, guarding the entrance to the sanctuary to prevent the
+escape of what lies within.
+
+~
+210763786 32769 136249361 2097280 1000 S
+46 0 -27 1d1+27999 20d30+30
+2350000 1104000
+8 8 2
+0 0 25 17 15 14 12 11
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20503
+mob cappodocius fallen antedivulvian~
+Cappodocius, the fallen antediluvian~
+Cappodocius, the fallen antediluvian is here, awaiting his next victim.
+~
+&BA monstrous vampire towers above you.  One of the largest of the antediluvians his mere size is enough to make you rethink your attack.  Looking closely however, you notice something is out of place.
+He doesn't seem to have that strange aura antediluvians normally have, in fact, he almost seems weak.  It seems almost as though he has fallen prey to the hands of his kin.&n
+~
+203423754 32769 136249361 2097280 -1000 S
+46 0 -30 1d1+19999 30d10+25
+2500000 1104000
+8 8 0
+0 0 25 17 15 14 12 11
+SKILL=SPELL_ENERGY_DRAIN 45
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SCALES 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=75
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20504
+mob caine kindred father~
+Caine, father of the kindred~
+The Sire of all Kindred looms over you.
+~
+Before you stands the father of the Wyrm.  It is his doing that these
+creatures exist...he is the first, the trueblood, the immortal.  From
+his progeny all Wyrm were spawned.
+
+He stands before you, eyes closed, yet somehow you can tell he senses
+your presence.  You suddently feel a sharp pain in the back of your
+neck, and whirl around to find nothing there.
+
+Before you turn back around, an immense pain fills your legs.  As they
+twitch and spasm you topple to the ground.  This battle seems to have
+ended before it even began, unless you can muster the strength...
+~
+204472328 1343489 136249361 2097280 0 S
+48 0 -40 1d1+19999 30d30+35
+4500000 2000000
+8 8 0
+0 0 25 16 16 15 15 15
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 70
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20505
+mob Mehket~
+Mehket~
+Mehket sits before you, cloaked in shadows.
+~
+You stare into the dark eyes of a shadow.  Whether he is truly
+here or a figment of your imagination is indistinguishable.
+When the ancients came, they brought forth the power of the
+Daywalker, or the strength of the night.  This creature before
+you is the only surviving Night Stalker.  His power is
+unquestioned, but the light of day still pierces his soul.
+
+Beware traveler - strike under the light of the sun, for darkness
+brings only death.
+~
+70258698 32769 136249361 128 0 S
+47 0 -35 5d9+18575 20d20+30
+3000000 1250000
+8 8 0
+0 0 25 15 16 16 12 12
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20506
+mob djuhah seraph sabbat~
+&WDjuhah Seraph of the Sabbat&n~
+Djuhah is here, searching for his kin
+~
+&BThe fear of all wyrm is here, grinning in his glory.  A vampire by kin, shapeshifter by magic, and bounty hunter by choice, it is at his hands that most kindred fall.  The champion of the Sabbat, he takes great joy in the fall of the wyrm.
+As you gaze into his eyes, their icy glow penetrates your very being.  As you begin to retreat to debate the battle, those cold eyes seem to trap you.  Draw your blade, God save your soul.&n
+~
+101777418 32769 136249361 128 0 S
+46 0 -37 1d1+16999 30d15+25
+2000000 999999
+8 8 0
+0 0 25 17 14 16 14 15
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 72
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_MORTICE_FLAME 75
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=25
+ATTACK_SKILL=25
+ATTACK_TYPE=104
+#20507
+mob Lucien~
+Lucien~
+You find yourself at the feet of Lucien, Antediluvian of the House of Lasombra.
+~
+The master of the House of Lasombra stands before you, emitting
+a powerful aura.  A true Antediluvian, he was the first to enlist
+in the great hunt.  He has been rewarded by his sire accordingly.
+
+Many millenia of experience can be found in his hands, yet even
+more importantly, the strength of the innumerable masses he has
+slain rests in his soul.  Mad with joy at the chance of battle,
+he strikes at you.
+~
+70254602 1 136249361 128 0 S
+48 0 -40 1d1+22999 20d20+20
+3000000 1750000
+8 8 0
+0 0 25 17 15 15 13 11
+SKILL=SKILL_KICK 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20508
+mob siegfried visigoth chieftan~
+Siegfried, Chieftan of the Visigoth~
+Siegfried is here holding council with the Garou
+~
+This figure standing before you has not always been the
+Chieftain of the Visigoth.  It was not until he diablerized
+his sire that he gained the power he has now.  Yet, however
+treacherous his means were, the outcome was desirable.
+
+He now rules his minions with a peaceful hand.  His treaties
+with the garou are the only that exist.  Regardless of the
+meaning behind the treaty or even its purpose, it has served
+well in making Siegfried one of the strongest in the land.
+~
+69206026 32769 136249361 128 0 S
+48 0 -35 35d20+48000 30d30+17
+2750000 1750000
+8 8 0
+0 0 25 18 15 15 12 15
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=2
+ATTACK_TYPE=105
+#20509
+mob Tremere~
+Tremere~
+Tremere is here, trying to attain immortality
+~
+The lord of Clan Tremere, this Wyrm is a fearsome enemy.
+As his is one of the original houses of the kindred, his
+age is quite astonishing.  His advanced age certainly
+does not work in your favor.
+
+In his many years, he has learned methods of fighting
+much stronger than those of the fist.  Beware the Wyrm,
+for with him not even your thoughts are safe.
+~
+68157450 1 136249361 128 0 S
+48 0 -37 1d1+29999 27d27+27
+2850000 1300000
+8 8 0
+0 0 17 17 15 14 15 13
+ATTACK_SKILL=99
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=9
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20510
+mob arikel ancient~
+Arikel the Ancient~
+You have stumbled upon Arikel as he practices for his next battle.
+~
+You face the oldest of the Antediluvian.  As you become aware
+of the wisdom in his eyes and the power in his arms, you grow
+concerned for your own well-being.  With over five millenia
+of power in his soul, and the strength of the fountain of life
+in his body, he seems nearly invincible.
+
+Caught in his gaze, you realize you must fight back before
+it's too late.
+~
+70254602 1 136249361 2097280 0 S
+47 0 -39 1d1+25000 20d35+35
+3000000 1269000
+8 8 0
+0 0 25 16 15 14 15 12
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20511
+mob ennoia antedivulvian~
+Ennoia, Antediluvian of the Gangrel~
+Ennoia is here, dictating her orders to her minions
+~
+&BOf the leaders of the Gangrel, Ennoia is the elder.  The powers of her mind are unmatched save the power of the sire himself.  Ruling her minions with an iron fist, she has earned her house great respect.
+With her mate at her side, she and her tribe wiped clean many of the Sabbat attacks that plagued the stronghold.  With the favour of Caine on her side, she fears none, and grows eager as you approach.&n
+~
+3203082 32769 136249361 1073741952 0 S
+47 0 -31 1d1+27999 30d30+32
+1500000 1200000
+8 8 0
+0 0 25 16 15 14 12 12
+SKILL=SPELL_HEAL_MAJOR 75
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20512
+mob absimiliard fierce nosferatu~
+Absimilliard the Fierce~
+Absimilliard is here, hunting Caine in the name of Nosferatu.
+~
+An intense glow radiates from this being.  Within him is
+the power of the Nosferatu and the strength of the
+progeny of the Sire himself.  In his younger years he
+was discontent with his position - to be an Antediluvian
+was not enough.
+
+After gaining control of the Nosferatu, he diablerized his
+brother-in-arms, gaining the ancestral power of the progeny.
+With his new-found generation his power grew without end,
+as did his lust for more.  When he finally reached the
+pinnacle of his strength, he was overcome by madness.  Now
+he hunts Caine, day and night, in search of a power he shall
+never have and could never hope to control.
+~
+69263370 32769 136249361 2097280 -1000 S
+48 0 -40 1d1+29999 30d30+45
+3750000 1500000
+8 8 0
+0 0 17 16 16 16 13 12
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20513
+mob gangrel antedivulvian~
+Gangrel, Antediluvian of the Gangrel~
+Gangrel is here ruling at Ennoia's side
+~
+&BThe might of the Gangrel lies within this creature.  Through years of training he has perfectly every art of fightning known, and even invented some of his own.  He rules his tribe with his strength, and thus empowers them with it as well.
+As you step into the room, he screams in bloodlust and attacks.&n
+~
+3203594 32769 136249361 1075839104 0 S
+47 0 -30 5d5+15000 30d35+50
+2000000 1200000
+8 8 0
+0 0 17 15 15 15 14 12
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20514
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 16 14 16 12 12
+#20515
+mob guardian earth~
+&GThe Guardian of the Earth&n~
+a formless elemental is here, summoning the forces of the &Gearth&n to protect the altar
+~
+&BYou stand face to face with the spirit of the eternal.  Here it waits, guarding the temple from the wyrm, and evidently from you.&n
+~
+57354 32769 136249361 128 1000 S
+45 0 -5 1d1+4999 10d10+75
+300000 60000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_SECOND 99
+#20516
+mob guardian wind~
+&YThe Guardian of the Winds&n~
+a formless elemental is here, summoning the forces of the &Ywind&n to protect the altar
+~
+&BYou stand face to face with the spirit of the eternal.  Here it waits, guarding the temple from the wyrm, and evidently from you.&n
+~
+57354 32769 136249361 128 1000 S
+45 0 -5 1d1+4999 10d10+75
+300000 60000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_SECOND 99
+#20517
+mob guardian water~
+&BThe Guardian of Water&n~
+a formless elemental is here, summoning the forces of the &Bwater&n to protect the altar
+~
+&BYou stand face to face with the spirit of the eternal.  Here it waits, guarding the temple from the wyrm, and evidently from you.&n
+~
+57354 32769 136249361 128 1000 S
+45 0 -5 1d1+4999 10d10+75
+300000 60000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_SECOND 99
+#20518
+mob guardian spirit~
+&CThe Guardian of Spirit&n~
+a formless elemental is here, summoning the great &Cspirits&n to protect the altar
+~
+&BYou stand face to face with the spirit of the eternal.  Here it waits, guarding the temple from the wyrm, and evidently from you.&n
+~
+57354 32769 136249361 128 1000 S
+45 0 -5 1d1+4999 10d10+75
+300000 60000
+8 8 0
+0 0 25 17 16 16 14 13
+SKILL=SKILL_SECOND 99
+#20519
+mob guardian temple~
+&pThe Guardian of the Temple&n~
+&pThe Guardian of the Temple&n
+~
+&pThe Guardian of the Temple stands here, eyeing you with great disgust.&n
+~
+10 32769 136249361 3145856 1000 S
+48 0 -40 1d1+55000 10d10+99
+300000 1000000
+8 8 0
+0 0 16 18 16 14 15 14
+SKILL=SPELL_TREMOR 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_HIDE 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_EARTHQUAKE 99
+$~
+#999999

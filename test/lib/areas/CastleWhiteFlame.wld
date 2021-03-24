@@ -1,0 +1,1248 @@
+#20200
+Drawbridge to the Castle~
+You are on a drawbridge approaching a castle.
+~
+106 1048584 0 1 99 1
+D0
+Castle Gates
+~
+~
+0 -1 20201
+D3
+To the West you see the Forest at the Back of Shikarnith Island.
+~
+~
+32 -1 1086
+S
+#20201
+Castle Gates~
+You stand before large castle gates.  As you look up you see a large glowing
+castle.  Hypnotizing in appearance, you can't help but wonder what lies
+within.
+~
+106 269484040 0 1 99 1
+D0
+Great Hall
+~
+~
+9 -1 20202
+D1
+~
+~
+0 -1 20273
+D2
+Drawbridge to the Castle
+~
+~
+0 -1 20200
+S
+#20202
+Great Hall~
+You are in the entryway of a large, ornate castle.  The walls are decorated
+with bright, colorful tapestries.  Fluttering torches light up the hall.
+To the North, the hall continues.
+~
+106 269484040 0 1 99 1
+D0
+Great Hall
+~
+~
+0 -1 20203
+D2
+Castle Gates
+~
+~
+9 -1 20201
+S
+#20203
+Great Hall~
+You continue down the great hall, entering deeper into this elaborate 
+castle.  You can't help but wonder who or what lives in such a beautiful
+place.
+~
+106 269484040 0 1 99 1
+D0
+Great Hall
+~
+~
+0 -1 20204
+D2
+Great Hall
+~
+~
+0 -1 20202
+S
+#20204
+Great Hall~
+You come to a halt and see massive, ornate doors before you.  Guards of the
+White Flame stand here.  The hall continues both East and West.
+~
+106 269484040 0 1 99 1
+D0
+Chapel
+~
+~
+9 -1 20205
+D1
+East Wing
+~
+~
+0 -1 20216
+D2
+Great Hall
+~
+~
+0 -1 20203
+D3
+West Wing
+~
+~
+0 -1 20217
+S
+#20205
+Chapel~
+You enter into the chapel.  Brightly colored stained glass windows line the walls.
+The pews are made of intricately carved oak and have velvet cushions.  The floor
+is wood parquet, making a colorful pattern.  Lined up along the East and West 
+walls are large marble statues, wearing saintly gowns.  At the end of the room you 
+see a row of curtains draped along the wall with light shining out from behind
+them.  You hear a muffled howling and a faint scratching sound that seems to be
+coming from somewhere beneath the chapel floor.
+~
+106 269484040 0 1 99 1
+D0
+~
+~
+9 -1 20206
+D2
+Great Hall
+~
+~
+9 -1 20204
+S
+#20206
+Chapel Library~
+You enter a room with large bookcases lined up all around the walls.
+In the corner you see a young woman shuffling through books.  She
+turns to you and in a soft voice says "Please be quiet.  I can't 
+stand loud noises!".  To the North you see a small passage.
+~
+106 269746184 0 1 99 1
+D0
+Staircase
+~
+~
+9 -1 20207
+D2
+Chapel
+~
+~
+9 -1 20205
+S
+#20207
+Staircase~
+You see a staircase leading down into darkness.
+~
+106 269484040 0 1 99 1
+D2
+Chapel Library
+~
+~
+9 -1 20206
+D5
+Dungeon Entrance
+~
+~
+0 -1 20208
+S
+#20208
+Dungeon Entrance~
+As you come to the bottom of the staircase, you are overwhelmed with the
+thick stench of death.  You hear loud howling coming from the South, 
+East and West.  You see a large Ogre leaning against the wall, guarding
+the cells.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+0 -1 20272
+D1
+E
+~
+cell~
+9 0 20211
+D2
+S
+~
+~
+0 -1 20209
+D3
+W
+~
+cell~
+9 0 20212
+D4
+Staircase
+~
+~
+0 -1 20207
+S
+#20209
+Dungeon~
+You enter deeper into the dungeon. The stench of death grows thicker.
+Loud horrifying howling overwhelms you.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+0 -1 20208
+D1
+E
+~
+cell~
+9 0 20214
+D2
+S
+~
+~
+0 -1 20210
+D3
+W
+~
+cell~
+9 0 20215
+S
+#20210
+Torture Room~
+Darkness and death surround you.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+0 -1 20209
+S
+#20211
+Pitch Black Cell~
+You enter into a pitch black cell and feel someone or something 
+breathing heavily upon you.  You feel as if coming this far
+was a mistake...
+~
+106 269484040 0 1 99 1
+S
+#20212
+Pitch Black Cell~
+You enter into a pitch black cell and feel someone or something
+breathing heavily upon you.  You feel as if coming this far
+was a mistake...
+~
+106 269484040 0 1 99 1
+S
+#20213
+Pitch Black Cell~
+You enter into a pitch black cell and feel someone or something
+breathing heavily upon you.  You feel as if coming this far
+was a mistake...
+~
+106 268435464 0 1 99 1
+S
+#20214
+Pitch Black Cell~
+You enter into a pitch black cell and feel someone or something
+breathing heavily upon you.  You feel as if coming this far
+was a mistake...
+~
+106 269484040 0 1 99 1
+S
+#20215
+Pitch Black Cell~
+You enter into a pitch black cell and feel someone or something
+breathing heavily upon you.  You feel as if coming this far
+was a mistake...
+~
+106 269484040 0 1 99 1
+S
+#20216
+East Wing~
+You begin walking down the East wing of the Castle of the White Flame.
+The halls are painted an eggshell white, the floor paved with white
+stones and the halls lit brightly with flickering torches.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20218
+D3
+Great Hall
+~
+~
+0 -1 20204
+S
+#20217
+West Wing~
+You walk down the West wing of the Castle of the White Flame.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20204
+D3
+West Wing
+~
+~
+0 -1 20219
+S
+#20218
+East Wing~
+You continue further down the East wing.  The hall branches off
+to the North.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+0 -1 20241
+D1
+E
+~
+~
+0 -1 20220
+D3
+W
+~
+~
+0 -1 20216
+S
+#20219
+West Wing~
+Continuing down the West wing.  The hall leads North, East and West.
+~
+106 269484040 0 1 99 1
+D0
+North-West Hall
+~
+~
+0 -1 20222
+D1
+E
+~
+~
+0 -1 20217
+D3
+West Wing
+~
+~
+0 -1 20221
+S
+#20220
+East Wing~
+Continuing East.  You smell a delicious scent in the air.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20246
+D3
+W
+~
+~
+0 -1 20218
+S
+#20221
+West Wing~
+You continue down the hallway.
+~
+106 269484040 0 1 99 1
+D1
+West Wing
+~
+~
+0 -1 20219
+D3
+West Wing
+~
+~
+0 -1 20227
+S
+#20222
+North-West Hall~
+You walk down the NorthWest hall of the Castle of the White Flame.
+White candles line the wall every few feet.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+0 -1 20223
+D2
+S
+~
+~
+0 -1 20219
+S
+#20223
+North-West Hall~
+You continue down the NorthWest Hall.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+0 -1 20224
+D2
+S
+~
+~
+0 -1 20222
+S
+#20224
+North-West Hall~
+You continue down the NorthWest hall.  To the North is a door.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+9 0 20225
+D2
+S
+~
+~
+0 -1 20223
+S
+#20225
+A Royal Bedroom~
+You enter into the bedroom of the prince.  White candles are placed
+all around the room.  Against the North wall there is a large bed
+with a quilt folded up on the end.  To the East you see a walk-in
+closet and to the West a large window with velvet drapes.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+½~
+17 0 20226
+D2
+S
+~
+~
+9 -1 20224
+S
+#20226
+The Prince's Closet~
+You currently stand in the prince's closet.  His clothes hang
+neatly to one side.
+~
+106 269484040 0 1 99 1
+D3
+W
+~
+~
+1 0 20225
+S
+#20227
+West Wing~
+You continue down the hallway.
+~
+106 269484040 0 1 99 1
+D1
+West Wing
+~
+~
+0 -1 20221
+D3
+The West Staircase
+~
+~
+0 -1 20228
+S
+#20228
+The West Staircase~
+Coming to the end of the West wing, there is a staircase leading
+down into the basement.
+~
+106 269484040 0 1 99 1
+D1
+West Wing
+~
+~
+0 -1 20227
+D5
+Bottom of the West Staircase
+~
+~
+0 -1 20229
+S
+#20229
+Bottom of the West Staircase~
+As you come to the bottom of the staircase you see a corridor
+leading East.  A single torch lights up the way.  An eerie 
+feeling overwhelms you.
+~
+106 269484040 0 1 99 1
+D1
+Basement
+~
+~
+0 -1 20230
+D4
+The West Staircase
+~
+~
+0 -1 20228
+S
+#20230
+Basement~
+You seem to be in the basement of the castle. This room appears to have not been used for
+quite a long time for there is dust and cobwebs all over. The walls and floor are covered
+with a thick layer of dust. Old worn chairs and tables are stacked up against the wall
+covered in cobwebs.
+~
+106 269484040 0 1 99 1
+D1
+Basement
+~
+~
+0 -1 20231
+D3
+Bottom of the West Staircase
+~
+~
+0 -1 20229
+S
+#20231
+Basement~
+As you walk deeper into the basement, the darkness gets more overpowering.
+The dust gets thicker and spiders scurry around the floor.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20232
+D3
+Basement
+~
+~
+0 -1 20230
+S
+#20232
+Basement~
+You come to a dusty staircase leading down deeper into the basement.
+~
+106 269484040 0 1 99 1
+D3
+Basement
+~
+~
+0 -1 20232
+D5
+Deeper into the Basement
+~
+~
+0 -1 20233
+S
+#20233
+Deeper into the Basement~
+You come to the bottom of the old, dusty staircase.  The basement
+continues East.  There is a torch on the wall lighting the way.
+~
+106 269484040 0 1 99 1
+D1
+Deeper into the Basement
+~
+~
+0 -1 20234
+D4
+Basement
+~
+~
+0 -1 20232
+S
+#20234
+Deeper into the Basement~
+You come to the end of the hall. There is a staircase leading deeper into the ground. It
+looks very old and unstable.
+~
+106 269484040 0 1 99 1
+D3
+Deeper into the Basement
+~
+~
+0 -1 20233
+D5
+Under the Castle
+~
+~
+0 -1 20235
+S
+#20235
+Under the Castle~
+You have come to a tunnel under the castle.  There are skeletons all around
+dressed in old, tattered clothing.  The walls and floor are just packed 
+dirt.  There is a small opening leading South.
+~
+106 269484040 0 1 99 1
+D2
+Under the Castle
+~
+~
+0 -1 20236
+D4
+Deeper into the Basement
+~
+~
+0 -1 20234
+S
+#20236
+Under the Castle~
+You crawl your way through the small tunnel and past the skeletons and come to a path
+leading down. You hear a faint rattle coming from below..
+~
+106 269484040 0 1 99 1
+D0
+Under the Castle
+~
+~
+0 -1 20235
+D5
+D
+~
+~
+0 -1 20238
+S
+#20237
+The Long Plummit~
+As you climb into the small hole, the ground below you gives out!
+You begin Plummeting down into the darkness.....
+
+
+
+
+As you hit the ground you feel your bones shatter into pieces...
+~
+106 269484042 0 1 99 1
+S
+#20238
+Deeper Under the Castle~
+Climbing down into the ground, you see a small hole in the
+Eastern wall.
+~
+106 269484040 0 1 99 1
+D1
+~
+~
+0 -1 20237
+D4
+Under the Castle
+~
+~
+0 -1 20236
+D5
+Even Deeper Under The Castle
+~
+~
+0 -1 20239
+S
+#20239
+Even Deeper Under the Castle~
+You continue climbing downwards.
+~
+106 269484040 0 1 99 1
+D4
+Deeper Under the Castle
+~
+~
+0 -1 20238
+D5
+A Pit
+~
+~
+0 -1 20240
+S
+#20240
+A Pit..~
+You look around and notice you are surrounded by giant rattlesnakes.
+You get a strong feeling that coming here was a mistake..
+~
+106 269484040 0 1 99 1
+S
+#20241
+Northern Hallway~
+You begin walking down the Northern hallway.  The walls are painted
+white and the floor lined with dark red velvet carpeting.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+0 -1 20242
+D2
+S
+~
+~
+0 -1 20218
+S
+#20242
+Northern Hallway~
+As you continue down the hallway, you look to the West and see
+a painting of the queen herself.  A torch is placed on the 
+opposite wall.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+0 -1 20243
+D2
+S
+~
+~
+0 -1 20241
+D3
+W
+~
+Vault~
+29 20210 20249
+S
+#20243
+Northern Hallway~
+You continue down the hallway.  To the North you see a large oak door.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+9 0 20244
+D2
+S
+~
+~
+0 -1 20242
+S
+#20244
+Royal Bedroom~
+You enter into a large, beautifully decorated room.  A large window 
+to the North with velvet drapes, a king sized bed against the Western 
+wall and a walk-in closet to the East.  Standing to the North you see
+a beautiful queen gazing out the window.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+25 0 20245
+D2
+S
+~
+~
+9 0 20243
+S
+#20245
+Inside A Closet~
+You are in a walk-in closet.
+The king's wardrobe is hung on the right and the queen's
+is hung up on the left.
+~
+106 269484040 0 1 99 1
+D3
+W
+~
+~
+0 -1 20244
+S
+#20246
+East Wing~
+As you look around you see the hall goes South and continues
+East.  You smell the most wonderful aroma coming from the South.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20250
+D2
+S
+~
+~
+0 -1 20247
+D3
+W
+~
+~
+0 -1 20220
+S
+#20247
+Dining Hall~
+You enter a room with a large oak table in the center with chairs
+placed all around it.  At the far South corner you see a small
+wooden door.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+0 -1 20246
+D2
+S
+~
+~
+9 0 20248
+S
+#20248
+Kitchen~
+Chef's scurry around hurrying to prepare food fit for royalty.
+Ovens and tables line the walls of this room.  To the East
+there is a wine cellar.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+9 -1 20247
+D1
+E
+~
+Wine celler~
+25 0 20270
+S
+#20249
+Castle Vault~
+You enter into the castle vault where the royal family keeps
+their fortune.  It is a small, cold, sterile vault.  On the
+floor you see some priceless heirlooms of the royal family.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20242
+S
+#20250
+East Wing~
+Further down the East wing.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20251
+D3
+W
+~
+~
+0 -1 20246
+S
+#20251
+Eastern Staircase~
+As you come to the end of the East wing, there is a large
+stone staircase going up.  You hear faint voices coming 
+from above.
+~
+106 269484040 0 1 99 1
+D3
+W
+~
+~
+0 -1 20250
+D4
+U
+~
+~
+0 -1 20252
+S
+#20252
+Top of the Staircase~
+As you come to the top of the staircase you see a hallway
+leading West.
+~
+106 269484040 0 1 99 1
+D3
+W
+~
+~
+0 -1 20253
+D5
+D
+~
+~
+0 -1 20251
+S
+#20253
+Hall of the White Flame.~
+While walking down this hallway you are blinded by extreme bright light.
+You cant seem to figure out where it is coming from as it seems to be coming from
+all directions.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20252
+D3
+W
+~
+~
+0 -1 20254
+S
+#20254
+Hall of the White Flame.~
+As you stumble down the hall, blinded by the light, you can
+faintly make out two doors leading North and South.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+9 0 20255
+D1
+E
+~
+~
+0 -1 20253
+D2
+S
+~
+~
+9 0 20256
+D3
+W
+~
+~
+0 -1 20257
+S
+#20255
+The Kings Study~
+You are in a small room.  A desk and chair are against one wall
+as are another desk and chair opposite them.  The floor is 
+made of wood and a large rug has been placed in the middle of
+the floor.
+~
+106 269484040 0 1 99 1
+D2
+S
+~
+~
+9 0 20254
+S
+#20256
+The Wizards Sleeping Quarters~
+This is the wizard's sleeping quarters.  The wizard seems to 
+currently be asleep on his bed.  there is a closet to the West
+and to the East there is a large wooden desk.  Upon the desk
+rests the wizard's hat.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+9 -1 20254
+D1
+E
+~
+~
+25 -1 20258
+S
+#20257
+Hall of the White Flame.~
+The intense light seems to get brighter... so bright it begins to hurt. You hear
+a strange sound coming from above.
+~
+106 269484040 1 1 99 1
+D1
+E
+~
+~
+0 -1 20254
+D3
+W
+~
+~
+0 -1 20260
+D4
+U
+~
+Ceiling panel~
+25 0 20259
+S
+#20258
+The Wizards Closet~
+You have entered the wizard's closet.  His cloaks are hung
+neatly and his wand is kept in a case on the floor.
+~
+106 269484040 0 1 99 1
+D3
+W
+~
+~
+0 -1 20256
+S
+#20259
+In The Ceiling~
+You seem to be in a small alcove in the ceiling. Large cobwebs hang down from above.
+~
+106 269484040 0 1 99 1
+D3
+W
+~
+~
+0 -1 20262
+D5
+D
+~
+~
+0 -1 20257
+S
+#20260
+Hall of the White Flame.~
+The brightness seems to get brighter even though that seems 
+impossible.  You hear a strange, hollow sound everytime
+you take a step.  To the North you see a door.
+~
+106 269484040 1 1 99 1
+D0
+N
+~
+~
+9 0 20261
+D1
+E
+~
+~
+0 -1 20257
+D3
+W
+~
+~
+0 -1 20267
+D5
+D
+~
+floor panel~
+25 0 20266
+S
+#20261
+Office of the Kings Accountant~
+You enter a small room.
+In the center of the room stands a huge accountant's desk.
+~
+106 269484040 0 1 99 1
+D2
+S
+~
+~
+9 -1 20260
+S
+#20262
+In The Ceiling~
+You continue crawling through the ceiling.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20259
+D3
+W
+~
+~
+0 -1 20263
+S
+#20263
+In The Ceiling~
+You continue crawling through the ceiling.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20262
+D3
+W
+~
+~
+0 -1 20264
+S
+#20264
+In The Ceiling~
+You continue crawling through the ceiling.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20263
+D3
+W
+~
+~
+0 -1 20265
+S
+#20265
+In The Ceiling~
+You come to a dead end, large spiders surround you.
+~
+106 269484040 0 1 99 1
+S
+#20266
+Under the Floor Panels~
+You crawl under the floor panels and end up in a long, narrow
+tunnel that leads East.  The walls and floor are damp and 
+dusty.  You can hear the guards walking around above.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+0 -1 20268
+D4
+U
+~
+~
+0 -1 20260
+S
+#20267
+Hall of the White Flame.~
+The hall comes to an end.  To the West is a large, white door.
+When you touch it you feel a great warmth.  To the North is 
+the castle scriptorium.
+~
+106 269484040 0 1 99 1
+D0
+N
+~
+~
+9 -1 20271
+D1
+E
+~
+~
+0 -1 20260
+D3
+W
+~
+door~
+9 0 20274
+S
+#20268
+Under the Floor Panels~
+You crawl through the dust and dirt.
+~
+106 269484040 0 1 99 1
+D3
+W
+~
+~
+0 -1 20266
+S
+#20269
+A Large, Spacious Cave~
+  This large cavern spreads several hundred feet into the side of the cliff wall. Several
+stone idols of dragons bear numerous offerings beneath them, though most are meats and bear
+little market value. Several piles of gold, many as high as a mans head lie stacked in no
+obvious order around the cave. It would appear that this is the den of a dragon.
+~
+106 1880096776 536870912 1 99 1
+D3
+~
+~
+0 -1 20273
+S
+#20270
+Wine Cellar~
+As you look around you see every possible alcoholic beverage you could imagine.
+~
+106 269484040 0 1 99 1
+D3
+W
+~
+~
+9 -1 20248
+S
+#20271
+Scriptorium~
+You are in a room with rows of large desks with many people
+sitting at them writing out line after line upon scrolls.
+Shelves lie against the far North wall with hundreds of 
+scrolls stacked upon them.
+~
+106 269484040 0 1 99 1
+D2
+S
+~
+~
+9 -1 20267
+S
+#20272
+Slaves Quarters~
+You are in a room with rows of small hard beds.
+~
+106 269484040 0 1 99 1
+D2
+S
+~
+~
+0 -1 20208
+S
+#20273
+Rocky Trail~
+  A small path leads up to the cliff face that runs alongside Castle White Flame. Though
+it is difficult to traverse, it is obvious from the wear on the surrounding rocks that
+the path is used quite often.
+~
+106 1611661324 536870912 1 99 1
+D1
+~
+~
+0 -1 20269
+D3
+~
+~
+0 -1 20201
+S
+#20274
+Room of the White Flame~
+A great warmth rushes through your veins.
+~
+106 269484040 0 1 99 1
+D1
+E
+~
+~
+9 -1 20267
+S
+$~
+#999999

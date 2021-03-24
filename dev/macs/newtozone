@@ -1,0 +1,16 @@
+
+echo Moving /devel/src to /zoning/src
+echo cd /zoning
+     cd /zoning
+echo mv src src_`date '+%y%m%d'`
+     mv src src_`date '+%y%m%d'`
+echo mkdir src
+     mkdir src
+echo cd /devel/src
+    cd /devel/src
+echo Copying c h makefile and program to /prod/src
+    cp -p *.c /zoning/src
+    cp -p *.h /zoning/src
+    cp -p makefile /zoning/src
+    cp -p dmdevel /zoning/src/dmzone
+echo Finished

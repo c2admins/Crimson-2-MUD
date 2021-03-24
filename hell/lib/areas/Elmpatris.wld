@@ -1,0 +1,3153 @@
+#4800
+Blank~
+More blankness.
+~
+47 0 0 42 99 1
+S
+#4801
+River Watch Post.~
+The end of the battlements here has been extended out above the River
+Karyn, allowing the watch to easily monitor the river traffic.
+A raised wall around the edges prevents people from falling over the edge.
+~
+47 1048576 0 1 99 1
+D0
+The city wall stretches away, the length of the city.
+~
+~
+0 -1 4802
+S
+#4802
+End of the city defenses.~
+You are at the end of the main wall around the city, although south of here
+the wall overhangs the River Karyn, allowing the watch to monitor river
+traffic.
+The city itself sprawls out east from here to the water's edge.
+~
+47 1048576 0 1 99 1
+D0
+The city wall continues.
+~
+~
+0 -1 4803
+D2
+The wall has been built out, over the river.
+~
+~
+0 -1 4801
+S
+#4803
+Atop the city wall.~
+You are standing on the city wall, the city's main defense against attack.
+It looks robust enough to deter most enemies, although it does not have any
+of the battlements that would be required to deter a determined army.
+Sprawling out east from here to the water's edge is the City of Elmpatris
+itself.
+~
+47 1048576 0 1 99 1
+D0
+The city wall continues.
+~
+~
+0 -1 4804
+D2
+The city wall continues.
+~
+~
+0 -1 4802
+S
+#4804
+Atop the city wall.~
+You are standing on the city wall, the city's main defense against attack.
+It looks robust enough to deter most enemies, although it does not have any
+of the battlements that would be required to stop a determined army.
+Sprawling out east from here to the water's edge is the City of Elmpatris
+itself, and there is a small staircase here leading down.
+~
+47 1048576 0 1 99 1
+D0
+The city wall continues.
+~
+~
+0 -1 4805
+D2
+The city wall continues.
+~
+~
+0 -1 4803
+D5
+The stairs lead down into a guard house.
+~
+~
+0 -1 4818
+S
+#4805
+Atop the city wall.~
+You are standing on the city wall, the city's main defense against attack.
+It looks robust enough to deter most enemies, although it does not have any
+of the battlements that would be required to deter a determined army.
+Sprawling out east from here to the water's edge is the City of Elmpatris
+itself.
+~
+47 1048576 0 1 99 1
+D0
+The city wall continues.
+~
+~
+0 -1 4806
+D2
+The city wall continues.
+~
+~
+0 -1 4804
+S
+#4806
+Atop the city wall.~
+You are standing on the city wall, the city's main defense against attack.
+It looks robust enough to deter most enemies, although it does not have any
+of the battlements that would be required to deter a determined army.
+Sprawling out east from here to the water's edge is the City of Elmpatris
+itself.
+~
+47 1048576 0 1 99 1
+D0
+The city wall continues.
+~
+~
+0 -1 4807
+D2
+The city wall continues.
+~
+~
+0 -1 4805
+D5
+The stairs lead down into the guard house.
+~
+~
+0 -1 4820
+S
+#4807
+Atop the city wall.~
+You are standing on the city wall, the city's main defense against attack.
+It looks robust enough to deter most enemies, although it does not have any
+of the battlements that would be required to deter a determined army.
+Sprawling out east from here to the water's edge is the City of Elmpatris
+itself.
+~
+47 1048576 0 1 99 1
+D0
+The city wall continues.
+~
+~
+0 -1 4808
+D2
+The city wall continues.
+~
+~
+0 -1 4806
+S
+#4808
+Atop the city wall.~
+You are standing on the city wall, the city's main defense against attack.
+It looks robust enough to deter most enemies, although it does not have any
+of the battlements that would be required to deter a determined army.
+Sprawling out east from here to the water's edge is the City of Elmpatris
+itself.
+~
+47 1048576 0 1 99 1
+D0
+The city wall continues.
+~
+~
+0 -1 4809
+D2
+The city wall continues.
+~
+~
+0 -1 4807
+D5
+The stairs lead down into the guard house.
+~
+~
+0 -1 4822
+S
+#4809
+Atop the city wall.~
+You are standing on the city wall, the city's main defense against attack.
+It looks robust enough to deter most enemies, although it does not have any
+of the battlements that would be required to deter a determined army.
+Sprawling out east from here to the water's edge is the City of Elmpatris
+itself.
+~
+47 1048576 0 1 99 1
+D0
+The city wall continues.
+~
+~
+0 -1 4810
+D2
+The city wall continues.
+~
+~
+0 -1 4808
+S
+#4810
+Atop the city wall.~
+You are standing on the city wall, the city's main defense against attack.
+It looks robust enough to deter most enemies, although it does not have any
+of the battlements that would be required to deter a determined army.
+Sprawling out east from here to the water's edge is the City of Elmpatris
+itself.
+~
+47 1048576 0 1 99 1
+D0
+The wall turns east.
+~
+~
+0 -1 4811
+D2
+The city wall continues.
+~
+~
+0 -1 4809
+S
+#4811
+Corner of the wall.~
+You are standing on the corner of the city wall.  The wall is thicker here,
+as it needs to be for defending the wall.  The wall stretches away around
+the city south and east, reaching to the river in the south and the ocean in
+the east.  Looking out northwards you can see the forest spans into the
+distance.
+~
+47 1048576 0 1 99 1
+D1
+the wall continues east.
+~
+~
+0 -1 4812
+D2
+The wall continues south.
+~
+~
+0 -1 4810
+S
+#4812
+On the wall.~
+The wall reaches span along the northern edge of the city.  Looking out south
+you can see over the tops of the buildings, and north over the tops of the
+trees.
+~
+47 1048576 0 1 99 1
+D1
+The wall continues east.
+~
+~
+0 -1 4813
+D3
+The wall turns south.
+~
+~
+0 -1 4811
+D5
+The stairs lead down into a guard house set into the base of the wall.
+~
+~
+0 -1 4823
+S
+#4813
+On the wall.~
+You are standing atop the city wall on the northern side of the city.  It is
+a very thick, sturdy wall and has protected the city from attack on more than
+one occasion.  The city of Elmpatris spans away southward.
+~
+47 1048576 0 1 99 1
+D1
+The wall continues east.
+~
+~
+0 -1 4814
+D3
+The wall continues west.
+~
+~
+0 -1 4812
+S
+#4814
+On the wall.~
+The wall reaches span along the northern edge of the city.  Looking out south
+you can see over the tops of the buildings, and north over the tops of the
+trees.
+~
+47 1048576 0 1 99 1
+D1
+The wall continues east.
+~
+~
+0 -1 4815
+D3
+The wall continues west.
+~
+~
+0 -1 4813
+S
+#4815
+On the wall.~
+You are standing atop the city wall on the northern side of the city.  It is
+a very thick, sturdy wall and has protected the city from attack on more than
+one occasion.  The city of Elmpatris spans away southward.
+~
+47 1048576 0 1 99 1
+D1
+The wall continues toward some towers at the end.
+~
+~
+0 -1 4816
+D3
+the wall continues west.
+~
+~
+0 -1 4814
+S
+#4816
+On the wall.~
+The wall reaches span along the northern edge of the city.  Looking out south
+you can see over the tops of the buildings, and north over the tops of the
+trees.
+~
+47 1048576 0 1 99 1
+D1
+The wall ends at a tower by the waterfront.
+~
+~
+0 -1 4817
+D3
+The wall continues west.
+~
+~
+0 -1 4815
+S
+#4817
+End of the city wall.~
+The walkway ends here, halfway up the side of a tower built onto the end of the
+city wall.  The wall stretches away westward along the perimeter of the city
+and looking south you can see over some of the tops of the buildings.  A small
+open doorway leads into the side of the tower.
+~
+47 1048576 0 1 99 1
+D1
+You can see inside the tower at the end of the wall.
+~
+~
+0 -1 4827
+D3
+The wall continues west.
+~
+~
+0 -1 4816
+S
+#4818
+A guard house in the wall.~
+This room is a refuge where the city watch can rest when on duty.  There are
+a number of stone chairs which whilst not particularly comfortable, would
+still suffice for ten minutes of rest.  A door leads south, and there is a 
+staircase leading up to the top of the city wall.
+~
+47 1048576 0 1 99 1
+D1
+You can see the road outside.
+~
+door east~
+9 -1 4845
+D2
+nothing special.
+~
+door south~
+9 -1 4819
+D4
+The stairs leads up onto the city wall.
+~
+~
+0 -1 4804
+S
+#4819
+An armoury.~
+This is one of the small armouries where the militia store their weapons.  There
+are a number of racks on the walls, with all the necessary chains and fixings
+to keep the equipment safe.  There is a slightly musky smell in here though, and
+you imagine it has not been cleaned in quite a long time.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+door north~
+9 -1 4818
+S
+#4820
+The guard house at the gate.~
+This is a simple guard house built into the base of the city wall, next to the
+entrance.  A large stone staircase leads up onto the top of the wall, and a
+door opens out into the city itself.
+There are a few seats here, set into the stone.
+~
+47 1048576 0 1 99 1
+D1
+You can see the road outside.
+~
+~
+0 -1 4863
+D4
+The stairs lead up onto the city wall.
+~
+~
+0 -1 4806
+S
+#4821
+The city entrance.~
+You are standing between the two huge gates of the city of Elmpatris.  They are
+both open, and from the looks of the great hinges are rarely closed.  A section
+of the city's ramparts crosses you overhead, linking the two sections of wall.
+Inside the city you can see lots of buildings, and a bustling street running
+along the inside of the wall.
+Westward the road leads away into the hills.
+~
+47 1048576 0 1 99 1
+D1
+You can see a busy road inside the city.
+~
+~
+32 -1 4868
+D3
+The road leads out into the wilderness.
+~
+~
+0 -1 4927
+S
+#4822
+The guard house at the gate.~
+This is a simple guard house built into the base of the city wall.  A large
+stone staircase leads up onto the top of the wall, and a door opens out into
+the city itself.  There are a few seats here, set into the stone.
+~
+47 1048576 0 1 99 1
+D1
+You can see the road outside.
+~
+~
+0 -1 4873
+D4
+The stairs lead up to the top of the wall.
+~
+~
+0 -1 4808
+S
+#4823
+Guard house.~
+This is a simple guard house built into the base of the city wall.  A large
+stone staircase leads up onto the top of the wall, and a door opens out into
+the city itself.  There are a few seats here, set into the stone.
+~
+47 1048576 0 1 99 1
+D2
+You can see the road outside.
+~
+door wooden south~
+9 -1 4879
+D4
+The stairs lead up onto the top of the city wall.
+~
+~
+0 -1 4812
+S
+#4824
+In a guard house.~
+This room looks modestly comfortable, enough for the watch to take a rest at
+least.  There are weapon racks along the walls, but the weapons have all been
+chained and locked firmly in place.  A large table in the corner of the
+room is covered with a number of small personal aftifacts, and there are
+a few chairs scattered around the room.
+A door is in the wall to the east.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+door east~
+9 -1 4826
+D2
+nothing special.
+~
+~
+0 -1 4825
+S
+#4825
+In a guard house.~
+You are in front office of this building set into the city wall.  The room
+has not been designed for comfort, with stone walls and only one window out
+onto the street outside.  There are a few tables and chairs here, and 
+lots of items of the militia uniform scattered around.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4824
+D2
+You can see the waterfront outside.
+~
+door south~
+9 -1 4886
+S
+#4826
+In a guard house.~
+There is a flight of wooden stairs here that leads up.  The building is made
+of stone and little effort has been made to make it comfortable.  You can see
+the boards of the wooden floor above can be seen and it looks as if water has
+dripped through them every time it has rained.
+~
+47 1048576 0 1 99 1
+D3
+nothing special.
+~
+door west~
+9 -1 4824
+D4
+the stairs lead up.
+~
+~
+0 -1 4827
+S
+#4827
+In a guard tower.~
+You are standing in a small rectangular stairwell.  The walls are made of cold
+stone, but the stairs, floor and ceiling are all wooden.  There is a slightly
+rotten smell, and the wood looks as if water has dripped down through the 
+stairwell.  There is a small open doorway set into the wall that leads
+westward out onto the city wall.
+~
+47 1048576 0 1 99 1
+D3
+The wall leads away west.
+~
+~
+0 -1 4817
+D4
+The stairs continue upward.
+~
+~
+0 -1 4828
+D5
+The stairs continue downward.
+~
+~
+0 -1 4826
+S
+#4828
+Top of the observation post.~
+You have reached one of the highest points in the city, atop the city walls.
+This tower is attached at the end of the city wall where it meets the 
+seafront, to allow the city watch to spot ships further out to sea.
+The city itself can be seen quite clearly sprawling out from the waterfront
+in all it's filthy glory.  To the north the forest looks quite serene.
+~
+47 1048576 0 1 99 1
+D5
+The stairs lead down.
+~
+~
+0 -1 4827
+S
+#4829
+In the guard house.~
+You are in a reasonably spacious room.  There are chairs and a large table
+upon which are a number of used dishes and cutlery, left for somebody to clear
+up.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4830
+D3
+You can see the road outside.
+~
+door west~
+9 -1 4838
+S
+#4830
+Back of the guard house.~
+This small room at the base of the guard tower has a few chairs and a table
+for the comfort of the militia, but not much else of any use.  There is a wooden
+staircase leading up into the tower.
+~
+47 1048576 0 1 99 1
+D3
+nothing special.
+~
+~
+0 -1 4829
+D4
+The stairs lead up.
+~
+~
+0 -1 4831
+S
+#4831
+In the stairwell.~
+The wooden staircase leads up and down through this stone stairwell.
+~
+47 1048576 0 1 99 1
+D4
+The stairs continue upward.
+~
+~
+0 -1 4832
+D5
+The stairs continue downward.
+~
+~
+0 -1 4830
+S
+#4832
+Top of the watch tower.~
+You have reached one of the highest points in the city at the top of this 
+tower.  It has been built at the southern end of the city's waterfront
+matching the one at the northern end.  There is a small wall around the edge,
+over which you can see far out to see and down onto the river.
+~
+47 1048576 0 1 99 1
+D5
+The stairs lead down.
+~
+~
+0 -1 4831
+S
+#4833
+Corner of Eastgate Road and Karyna Road.~
+These two main roads join here at the corner of the city.  The road is bound
+in by the huge city wall to the west and a low wall to the south.  The river
+runs past, on the other side of the wall.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4839
+D1
+nothing special.
+~
+~
+0 -1 4834
+S
+#4834
+Karyna Road.~
+You are standing on Karyna Road which runs along the southern edge of the city
+next to the River after which the road is named.  A Large building to the 
+north blocks your view of the rest of the city, and a low wall has been built
+for safety reasons along the southern side of the road.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4835
+D3
+nothing special.
+~
+~
+0 -1 4833
+S
+#4835
+Karyna Road.~
+This is one of the major roads around the edge of the city.  There is a wall
+running along the south side of the road to stop people falling into the river,
+although it is low enough for you to see the wide mouth of the River Karyna.
+Northward the buildings stretch away into the city.  The nearest one is the
+port's jail, where undesirables are usually dealt with.
+A small pier is to the south, over the river.
+~
+47 1048576 0 1 99 1
+D0
+You can see a large room.
+~
+~
+32 -1 4909
+D1
+nothing special.
+~
+~
+0 -1 4836
+D2
+A small pier projects over the river.
+~
+~
+0 -1 4945
+D3
+nothing special.
+~
+~
+0 -1 4834
+S
+#4836
+Karyna Road.~
+You are standing on Karyna Road which runs along the southern edge of the city
+next to the River Karyna.  Looking over the wall at the edge of the road you
+can see the river is quite wide here near the mouth where it opens onto the
+sea.  There are a few boats slowly making there way along it, although most
+boats do not go further inland past Elmpatris.
+A narrow alleyway leads away north.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4840
+D1
+nothing special.
+~
+~
+0 -1 4837
+D3
+nothing special.
+~
+~
+0 -1 4835
+S
+#4837
+Karyna Road.~
+This road runs along the southern edge of the city between a low wall built
+simply to stop people falling into the river, and an inn to the north.  East
+of here the road turns north, and in the opposite direction the road 
+stretches away the length of the city.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4838
+D3
+nothing special.
+~
+~
+0 -1 4836
+S
+#4838
+Corner of Karyna Road.~
+Karyna road ends here and the road turns north along the waterfront.  South
+you can see lots of boats moving up and down along the river, and along the
+waterfront to the north you can see more ships, docked and busily loading and
+unloading there wares.  A large stone tower has been built to the east from 
+which the city watch can monitor the river traffic easier, and perhaps even
+defend the city from water based attack.
+~
+47 1048576 0 1 99 1
+D0
+You can see along the waterfront.
+~
+~
+0 -1 4841
+D1
+You can see inside the tower.
+~
+door east~
+9 -1 4829
+D3
+nothing special.
+~
+~
+0 -1 4837
+S
+#4839
+Eastgate Road.~
+You are standing on Eastgate road which runs north-south along the inside of 
+the city wall.  There is a smell of horses here, and east you can see where it's
+coming from.  A large stable, built to accomodate the horses of the city militia
+is there, it's entrance a little further north of here.  To the south the road
+meets Karyna Road and turns east along the riverside.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4842
+D2
+nothing special.
+~
+~
+0 -1 4833
+S
+#4840
+End of a dark alleyway.~
+This is at the end of the alleyway, just off of the main road.  To the south
+you can see people bustling back and forth as they go about their business.
+North the alley dissapears into the shadows, as the tall buildings, close on 
+either side, block out almost all of the light.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4843
+D2
+nothing special.
+~
+~
+0 -1 4836
+S
+#4841
+On the waterfront.~
+The waterfront is a long concrete walkway stretching along the length of the
+city.  There are numerous ships tied to the mooring posts all along the front.
+Just west of here is a large inn, the entrance of which is further northward
+but there is a large window here you should be able to see through.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4844
+D1
+The pier points out to sea.
+~
+~
+0 -1 4951
+D2
+nothing special.
+~
+~
+0 -1 4838
+E
+window~
+You can see a number of people in there of all manner of races, drinking and
+making merry.
+~
+S
+#4842
+Eastgate Road.~
+The road reaches away on both directions between the inside of the city wall
+and the outer limits of the city's buildings.  There is a large stable east
+of here, and from the smell you can be quite sure it is in use.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4845
+D1
+You can see inside the stables.
+~
+~
+32 -1 4913
+D2
+nothing special.
+~
+~
+0 -1 4839
+S
+#4843
+Along a dark alleyway.~
+You are standing in an alleyway that looks as if it is where all the city's
+filth must end up.  The ground is covered in all manner of refuse and there is
+something of a bad smell.  To the south you can see the alley leads toward
+a main road, and northwards it bends out of site.  The buildings on either
+side seem to block out most of the light though.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4846
+D2
+nothing special.
+~
+~
+0 -1 4840
+S
+#4844
+On the waterfront.~
+You are standing before a large inn on the waterfront of the city.  There are
+ships of all sizes and of all types of different designs moored to the front,
+and a little out to sea you can see more ships at anchor.
+There is a large sign hanging from the front of the inn.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4848
+D2
+nothing special.
+~
+~
+0 -1 4841
+D3
+The inn looks quite rowdy.
+~
+~
+32 -1 4902
+E
+sign~
+The sign has a picture of a long sleek ship cutting through the water, and 
+the name "The Great Waterfront Inn" emblazened below it.
+~
+S
+#4845
+Eastgate Road.~
+Walking along Eastgate Road you can see how this city has gained it's reputation
+as a calling point for traders from all over the world, and a place for any to
+try to earn a fortune.  People bustle around in all directions, most of them
+out to make some easy money.  There is a sturdy looking building east of here
+that houses the city militia.  Also the city wall has a door here through 
+which the militia probably reach the top of the wall.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4849
+D1
+You can see inside the barracks.
+~
+~
+32 -1 4915
+D2
+nothing special.
+~
+~
+0 -1 4842
+D3
+It leads inside the wall.
+~
+door west~
+9 -1 4818
+S
+#4846
+Along a dark alleyway.~
+It is very quiet here on this bend in the alley.  Far off you can hear the 
+murmur of the never resting city.  The buildings on either side enclose the
+alley, and close out practically all the light from outside.  Far south the
+alley opens out onto a larger, main road.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4847
+D2
+nothing special.
+~
+~
+0 -1 4843
+S
+#4847
+Along a dark alleyway.~
+You are standing at a bend in the alley.  South of here you can see the murky
+front of a shop, and a filthy sign that reads "Murph's Great Grub".  You can 
+smell the odour of hot grease wafting out from the shop into the alley.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4850
+D2
+You can see a grimey shop selling hot food.
+~
+~
+0 -1 4907
+D3
+nothing special.
+~
+~
+0 -1 4846
+S
+#4848
+On the waterfront.~
+Standing near the edge of the water you can feel the cool breeze that is
+drifting in off the ocean.  Looking out you can see lots of ships of all
+manner of exocit design anchored offshore, and a handful of them actually 
+moored to the waterfront.
+There is a small shop here.  Looking at it you initially are quite impressed,
+it looks as if it has a very complex and intricate architecture, but upon 
+closer scrutiny you realise it is just a standard Elmpatris building with lots
+of wooden cutouts cleverly fixed to the front.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4851
+D2
+nothing special.
+~
+~
+0 -1 4844
+D3
+nothing special.
+~
+~
+0 -1 4901
+S
+#4849
+Eastgate Road.~
+You are standing on Eastgate Road as it passes between the city wall and the
+town's library.  The road is busy with traders and all manner of cityfolk.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4852
+D2
+nothing special.
+~
+~
+0 -1 4845
+S
+#4850
+End of a dark alleyway.~
+This narrow alleyway leads away from the road, between tall buildings which
+block out all the light.  There is a faint but definate unpleasant smell here.
+You can hear the bustle of the market north of here, and it just seems to make
+this alley seem even more remote.
+~
+47 1048576 0 1 99 1
+D0
+You can see a huge marketplace.
+~
+~
+0 -1 4859
+D2
+nothing special.
+~
+~
+0 -1 4847
+S
+#4851
+On the waterfront.~
+the large building to the west of you looks very grimy.  It is a blacksmith
+and there has clearly been smoke pouring out of the door and window on the
+front at some point, due to the amount of ash on the front of the shop there.
+It has a larger than normal chimney from which black smoke bellows.
+All along the waterfront you can see shops and other buildings.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4853
+D2
+nothing special.
+~
+~
+0 -1 4848
+D3
+You can feel the warmth from in there.
+~
+~
+0 -1 4900
+S
+#4852
+Eastgate Road.~
+You are standing in front of the city's library.  It is not a grand affair, but
+is nonetheless better than found in most towns.  It is reputed that they even
+teach the citizens to read there sometimes.
+This road continues as far north as you can see, but also just north of here a
+smaller road splits off, leading deeper into the city.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4855
+D1
+You can see inside the library.
+~
+~
+32 -1 4917
+D2
+nothing special.
+~
+~
+0 -1 4849
+S
+#4853
+End of Waterfront Lane.~
+Waterfront lane ends here at the waterfront itself, which continues south and
+east.  There is a building to the west of you, but the entrance is not on this
+face, and you can see one of the city's large warehouses further north.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4861
+D1
+nothing special.
+~
+~
+0 -1 4854
+D2
+nothing special.
+~
+~
+0 -1 4851
+S
+#4854
+On the waterfront.~
+The waterfront juts out slightly here from the rest of the front giving you
+a clear view along in both directions.  You can see a number of ships moored
+to the dock, and the shop fronts to the north look varied.  Northwards there
+are a number of large warehouses.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4862
+D3
+nothing special.
+~
+~
+0 -1 4853
+S
+#4855
+Junction of Eastgate Road and Market Road.~
+Two roads join here, on running north and south along the inside edge of the
+city wall and the other leading away east and deeper into the heart of the
+city.  You can see a market far off eastward and some official buildings
+nearby.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4863
+D1
+nothing special.
+~
+~
+0 -1 4856
+D2
+nothing special.
+~
+~
+0 -1 4852
+S
+#4856
+Market Road.~
+You are standing on a narrow road with tall buildings towering on either side.
+A little east of here you can see a bustling market, full of traders and 
+customers from all over the world who have all converged on this major port.
+~
+47 1048576 0 1 99 1
+D1
+You can see a huge marketplace.
+~
+~
+0 -1 4857
+D3
+nothing special.
+~
+~
+0 -1 4855
+S
+#4857
+Market Road.~
+Despite this being a road, it is fairly difficult to walk along.  The market
+has clearly outgrown it's allocated area, and you have to thread your way 
+through the stalls to pass along the road.  To the south is a large doorway 
+giving entry to the town hall, from where the mayor and his staff try to 
+keep the town running smoothly.
+~
+47 1048576 0 1 99 1
+D0
+You can see across the market.
+~
+~
+0 -1 4864
+D1
+You can see along the edge of the market.
+~
+~
+0 -1 4858
+D2
+You can see inside the town hall.
+~
+~
+32 -1 4919
+D3
+nothing special.
+~
+~
+0 -1 4856
+S
+#4858
+Market Road.~
+The road here is lost under all manner of market stalls and traders, plying
+their wares.  There is a large building south of here which houses the mayor and
+his staff, and the main market area is to the north.
+~
+47 1048576 0 1 99 1
+D0
+You can see across the market.
+~
+~
+0 -1 4865
+D1
+The market ends and a road leads away.
+~
+~
+0 -1 4859
+D3
+The market ends and a road leads away.
+~
+~
+0 -1 4857
+S
+#4859
+Market Road.~
+You are standing at the corner of Elmpatris' large central market area.
+It is also a crossroad here, with roads leading away in all directions, 
+although the north and westward leading ones are almost lost under the market
+stalls.  South the road is only an alley and looks quite dark.
+~
+47 1048576 0 1 99 1
+D0
+You can see the market.
+~
+~
+0 -1 4866
+D1
+nothing special.
+~
+~
+0 -1 4860
+D2
+The alley leads away south.
+~
+~
+0 -1 4850
+D3
+You can walk along the edge of the market.
+~
+~
+0 -1 4858
+S
+#4860
+Waterfront Lane.~
+The road lead along between a block of warehouses and a block of shops.  South
+there is an armourer's and a large sign is mounted on the shop front.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4861
+D2
+You can see inside the armour shop.
+~
+~
+0 -1 4899
+D3
+You can see a huge marketplace.
+~
+~
+0 -1 4859
+E
+sign~
+   Falinor Trathar's Weapon Shop.  
+          /\______________________
+   ()====)*|_____________________/
+          \/
+~
+S
+#4861
+Waterfront Lane.~
+This road leads along between buildings on either side as it turns west and 
+south.  It is a well used road, as can be seen by the cracked pavings.
+South you can see it leads towards the waterfront.
+~
+47 1048576 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 4853
+D3
+nothing special.
+~
+~
+0 -1 4860
+S
+#4862
+On the waterfront.~
+You are standing before some huge brown warehouses, that continue northward 
+along the seafront.  Looking along the scattering of ships tied to the dock, you
+can see some of them look very fine indeed, and are clearly from exotic lands.
+The front continues north and south.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4867
+D2
+nothing special.
+~
+~
+0 -1 4854
+S
+#4863
+Eastgate Road.~
+You are standing on Eastgate Road on the western side of Elmpatris.  The 
+bustling road runs north and south along the inside of the city wall.  There
+are lots of buildings along the side of the road, and to the south a little
+you can see a road leading away east, into the city.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4868
+D2
+nothing special.
+~
+~
+0 -1 4855
+D3
+You can see inside the city wall.
+~
+~
+0 -1 4820
+S
+#4864
+The marketplace.~
+You are surrounded by people haggling and arguing over the prices of everything.
+The market does not look as if it had quite so many traders in mind when it
+was designed, and it is very crowded.  You have to push to move anywhere
+through this crowd.  There is a large building to the west, but you cannot see
+the front of it and so cannot determine what it's function is.  The market
+continues east.
+~
+47 1048576 0 1 99 1
+D0
+You can see the corner of the market.
+~
+~
+0 -1 4869
+D1
+You can see across the market.
+~
+~
+0 -1 4865
+D2
+You can see the corner of the market.
+~
+~
+0 -1 4857
+D3
+You can see a quiet church.
+~
+~
+0 -1 4934
+S
+#4865
+The marketplace.~
+Standing here in the centre of the market, you are surrounded by a huge 
+number of traders and their stalls.  People everywhere are bartering for
+goods and services, and many have come from miles away for the sheer variety
+available here.
+~
+47 1048576 0 1 99 1
+D0
+You can see the edge of the market.
+~
+~
+0 -1 4870
+D1
+You can see the edge of the market.
+~
+~
+0 -1 4866
+D2
+You can see the edge of the market.
+~
+~
+0 -1 4858
+D3
+You can see the edge of the market.
+~
+~
+0 -1 4864
+S
+#4866
+Market Road.~
+You are standing in the huge market in Elmpatris.  The stands around you look 
+as if there is nothing you could not buy here.  The market is enclosed to the
+east by a row of large warehouses where most of the supplies that pass 
+through the town are stored.
+This thin road you are on follows along the edge of the market area, and 
+dissapears into a dark alleyway to the north.
+~
+47 1048576 0 1 99 1
+D0
+You can see the market ends and a road leads away north.
+~
+~
+0 -1 4871
+D2
+You can see the edge of the market and roads leading away.
+~
+~
+0 -1 4859
+D3
+nothing special.
+~
+~
+0 -1 4865
+S
+#4867
+On the waterfront.~
+This part of the waterfront is quieter than a little further south where busy
+customers make use of the shops.  There are warehouses here to store the goods
+bought in from overseas by the many ships.
+A pier is attached to the waterfront here.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4872
+D1
+A pier reaches out over the water.
+~
+~
+0 -1 4944
+D2
+nothing special.
+~
+~
+0 -1 4862
+D3
+nothing special.
+~
+doors west~
+9 -1 4898
+S
+#4868
+Eastgate Road.~
+You are just inside the city gates, on one of the main roads around the city.
+The road is paved with huge old slabs of stone that are well worn.  There are
+large buildings along the eastern side of the road in both directions, and 
+the wall runs along the other side.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4873
+D2
+nothing special.
+~
+~
+0 -1 4863
+D3
+The road leads out of the city.
+~
+~
+32 -1 4821
+S
+#4869
+The marketplace.~
+Standing here at the corner of the central market place in Elmpatris you can
+see how the town has gained it's reputation as a haven for traders.  The
+market is packed to bursting point with traders and their goods, and then there
+are customers to add to the crush.
+~
+47 1048576 0 1 99 1
+D1
+You can see across the market.
+~
+~
+0 -1 4870
+D2
+You can see across the market.
+~
+~
+0 -1 4864
+S
+#4870
+The marketplace.~
+The bustling market place is as busy as ever here.  Despite the number of 
+militia around, you can still see daylight robbery taking place, although most
+of it legally.  The market is not quite as badly crowded here as over most of
+the rest of it, and east of here it looks as if it thins out as you get
+toward the edge of the market area.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4871
+D2
+You can see across the market.
+~
+~
+0 -1 4865
+D3
+You can see the corner of the market.
+~
+~
+0 -1 4869
+S
+#4871
+Market Road.~
+Standing on the corner of the market area, you can see how this town gained
+it's reputation as a trading post.  The market area is very large, and filled
+with traders from all over the world.  There is a dark road that leads away 
+north, and the way east is blocked by huge warehouses.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4874
+D2
+You can see across the market.
+~
+~
+0 -1 4866
+D3
+You can see across the market.
+~
+~
+0 -1 4870
+S
+#4872
+On the waterfront.~
+The area you are in is not as busy as a lot of the rest of the town, since there
+are very few citizens here.  It is still quite busy though with sailors and
+dock workers loading and unloading ships, and preparing cargo for voyage.
+There are a number of ships spread along the dock, moored safely in place that
+look quite foreign.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4875
+D2
+nothing special.
+~
+~
+0 -1 4867
+D3
+nothing special.
+~
+doors west~
+9 -1 4896
+S
+#4873
+Eastgate Road.~
+The paved city road here leads north south along the base of the city wall.
+There is a tall wooden fence running along the opposite side of the wall.  It
+is too high to look over, and stands very firm.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4876
+D2
+nothing special.
+~
+~
+0 -1 4868
+D3
+You can see inside the city wall.
+~
+~
+0 -1 4822
+S
+#4874
+Market Road.~
+This small untended road leads through the shadows between large buildings on
+either side.  To the south you can hear the noise of the busy marketplace at
+the centre of the town, and the road leads away north.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4877
+D2
+You can see a large market.
+~
+~
+0 -1 4871
+S
+#4875
+On the waterfront.~
+You are standing on the waterfront before a series of large warehouses.  
+looking out to sea you can see lots of ships, varying from large ocean
+going freighters to small river boats, moving around.  The waterfront
+continues north and south.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4878
+D2
+nothing special.
+~
+~
+0 -1 4872
+D3
+nothing special.
+~
+doors west~
+9 -1 4894
+S
+#4876
+Eastgate Road.~
+The hard, paved road has been worn by the heavy traffic in the city.  There is
+the huge city wall here along one side and you can see the road turns east a
+little way north from here.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4879
+D2
+nothing special.
+~
+~
+0 -1 4873
+S
+#4877
+Market Road.~
+You are standing on a small dark road leading through between two large 
+buildings.  The road has not been maintained and is covered with refuse and
+weeds.  Far to the south you can see the edge of the market place, and a
+larger road opens up to the north.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4883
+D2
+nothing special.
+~
+~
+0 -1 4874
+S
+#4878
+On the waterfront.~
+You are on the waterfront at the end of the rows of warehouses, and also near
+the end of the waterfront itself.
+Looking along south you can see the waterfront stretches all the way, the
+length of the city, to the river mouth.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4886
+D2
+nothing special.
+~
+~
+0 -1 4875
+D3
+nothing special.
+~
+doors west~
+9 -1 4892
+S
+#4879
+Corner of Eastgate Road and Empire Road.~
+The road bends here.  The huge city wall wraps around the corner of the city
+and continues south and east.  Set into the wall north of you is a heavy wooden
+door, which looks as if it would lead into another guard room.
+~
+47 1048576 0 1 99 1
+D0
+You can see inside the city wall.
+~
+door wooden north~
+9 -1 4823
+D1
+nothing special.
+~
+~
+0 -1 4880
+D2
+nothing special.
+~
+door wooden south~
+0 -1 4876
+S
+#4880
+Empire Road.~
+The bustling Empire Road leads around the northern edge of the city and to
+the seafront.  It is blocked in by the huge city wall and buildings within the
+city.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4881
+D3
+nothing special.
+~
+~
+0 -1 4879
+S
+#4881
+Empire Road.~
+You are standing on Empire Road in the bustling port of Elmpatris.  The paved
+road is worn badly by the heavy use of people and carts.  The strong city wall
+runs along the north side of the road, and to the south you can see the
+renowned brothel, Alyah's Massage and Comfort Parlour.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4882
+D2
+You can see the foyer of Alyah's Massage and Comfort Parlour.
+~
+~
+32 -1 4930
+D3
+nothing special.
+~
+~
+0 -1 4880
+S
+#4882
+Empire Road.~
+You are standing in front of a small and scruffy temple.  The building all
+around here do not look any better though, and there are weeds growing through
+the cracks in the floor.  There is a large sign on the building to the north.
+~
+47 1048576 0 1 99 1
+D0
+You can see a church of some kind.
+~
+~
+0 -1 4937
+D1
+nothing special.
+~
+~
+0 -1 4883
+D3
+nothing special.
+~
+~
+0 -1 4881
+E
+sign temple~
+Come in to the Shrine of Pageoran and be saved brother!
+~
+S
+#4883
+Empire Road.~
+A small, dark looking road breaks away south here from the main road and
+leads in between the buildings out of sight.  The main road runs east and west
+along the northern edge of the city, and there are buildings on either side
+scattered all along.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4884
+D2
+nothing special.
+~
+~
+0 -1 4877
+D3
+nothing special.
+~
+~
+0 -1 4882
+S
+#4884
+Empire Road.~
+The road passes between an inn and a warehouse.  The entrance to the inn is
+further along east, but through the windows you can see it looks quite busy.
+The road is very cracked and there are weeds sprouting up through it.
+There is a large sign hanging from the front of the inn.
+~
+47 1048580 0 1 99 1
+D0
+nothing special.
+~
+~
+32 -1 4890
+D1
+nothing special.
+~
+~
+0 -1 4885
+D3
+nothing special.
+~
+~
+0 -1 4883
+E
+sign~
+The sign has a painting of a huge red face with a long tangled white beard
+under it.  The words underneath read "The Bearded Moskavan".
+~
+S
+#4885
+Empire Road.~
+You are standing on a dark stretch of Empire Road between a large warehouse and
+the city wall.  The road is poorly kept and weeds have grown up through some
+of the cracks.
+~
+47 1048576 0 1 99 1
+D0
+You can see into the inn.
+~
+~
+0 -1 4890
+D1
+nothing special.
+~
+~
+0 -1 4886
+D3
+nothing special.
+~
+~
+0 -1 4884
+S
+#4886
+End of the waterfront.~
+The waterfront ends here and Empire Road leads away westward along the inside
+of the city wall.  To the north built into the wall is a guard house, and there
+is a window you can look through.  Looking south along the waterfront you can
+see all manner of different ships, moored to the dock and bobbing slightly on
+the tide.
+~
+47 1048576 0 1 99 1
+D0
+You can see inside an office.
+~
+door north~
+9 -1 4825
+D2
+nothing special.
+~
+~
+0 -1 4878
+D3
+nothing special.
+~
+~
+0 -1 4885
+E
+window~
+Looking in through the window you can see a number of tables and chairs, and
+it all looks fairly untidy.
+~
+S
+#4887
+Back of the Bearded Moskavan Inn.~
+There is a bar here where the innkeeper serves drinks from.  The brass taps
+on top of the bar have not been polished, and give off a dul reflection from
+the light.  The whole place actually smells very strongly of cheap beer and
+it looks as if it has thoroughly soaked into the floorboards.  The tables
+are scattered around very randomly, with small wooden chairs tucked under
+them.
+~
+47 1048584 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 4888
+D2
+You can see the storeroom.
+~
+door wooden south~
+9 -1 4889
+S
+#4888
+In the Bearded Moskavan.~
+The room is crowded with tables, chairs and in one corner an upright piano.
+The mood of the place is definately loud, and the beer flows freely.
+~
+47 1048584 0 1 99 0
+D2
+nothing special.
+~
+~
+0 -1 4890
+D3
+nothing special.
+~
+You see nothing special.~
+0 -1 4887
+S
+#4889
+A storeroom.~
+This is a large storeroom where the innkeeper keeps his beers.  The room is 
+well stocked with crates and barrels.
+~
+47 1048584 0 1 99 0
+D0
+nothing special.
+~
+door wooden north~
+9 -1 4887
+S
+#4890
+The Bearded Moskavan.~
+You are standing at the entrance to a fairly seedy looking inn.  It's shifty
+patrons eye you up as they boisterously drink their beer, spilling plenty
+of it over the floor.
+~
+47 1048584 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 4888
+D2
+You can see the road outside.
+~
+~
+32 -1 4884
+S
+#4891
+A warehouse.~
+You are standing at the back of one of the city's warehouses.  It is very large
+and very dark.  The boxes have been stacked halfway up the walls and are 
+higher than the level of your head.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4892
+S
+#4892
+A warehouse.~
+This is a large, fairly nondescript warehouse.  It is constructed from timber
+and reaches very high above you to allow as many crates to be stored here as
+possible.  A large pair of doors are to the east leading out to the 
+waterfront.
+~
+47 1048576 0 1 99 1
+D1
+You can see the waterfront.
+~
+doors east~
+9 -1 4878
+D3
+nothing special.
+~
+~
+0 -1 4891
+S
+#4893
+A warehouse.~
+You are standing at the back of one of the city's warehouses.  It is very large
+and very dark.  The boxes have been stacked halfway up the walls and are 
+higher than the level of your head.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4894
+S
+#4894
+A warehouse.~
+his is a large, fairly nondescript warehouse.  It is constructed from timber
+and reaches very high above you to allow as many crates to be stored here as
+possible.  A large pair of doors are to the east leading out to the 
+waterfront.
+~
+47 1048576 0 1 99 1
+D1
+You can see the waterfront.
+~
+doors east~
+9 -1 4875
+D3
+nothing special.
+~
+~
+0 -1 4893
+S
+#4895
+A warehouse.~
+ou are standing at the back of one of the city's warehouses.  It is very large
+and very dark.  The boxes have been stacked halfway up the walls and are 
+higher than the level of your head.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4896
+S
+#4896
+A warehouse.~
+This is a large, fairly nondescript warehouse.  It is constructed from timber
+and reaches very high above you to allow as many crates to be stored here as
+possible.  A large pair of doors are to the east leading out to the 
+waterfront.
+~
+47 1048576 0 1 99 1
+D1
+You can see the waterfront.
+~
+doors east~
+9 -1 4872
+D3
+nothing special.
+~
+~
+0 -1 4895
+S
+#4897
+A warehouse.~
+You are standing at the back of one of the city's warehouses.  It is very large
+and very dark.  The boxes have been stacked halfway up the walls and are 
+higher than the level of your head.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4898
+S
+#4898
+A warehouse.~
+This is a large, fairly nondescript warehouse.  It is constructed from timber
+and reaches very high above you to allow as many crates to be stored here as
+possible.  A large pair of doors are to the east leading out to the 
+waterfront.
+~
+47 1048576 0 1 99 1
+D1
+You can see the waterfront.
+~
+doors east~
+9 -1 4867
+D3
+nothing special.
+~
+~
+0 -1 4897
+S
+#4899
+Falinor Trathar's Weapons.~
+You are standing in a fairly smart, luxurious weapons shop.  There are racks of
+weapons on the walls, all chained down.  It looks as if the owner makes a 
+fairly brisk trade here.
+~
+47 1048584 0 1 99 0
+D0
+You can see the lane outside.
+~
+~
+0 -1 4860
+E
+sign~
+Welcome to Falinor Trathar's Weapons.
+Price list to come.
+~
+S
+#4900
+Habrem Librol's Metalurgy.~
+This shop is a well used old blacksmiths with a burning furnace sending plenty
+of smoke up into the chimney.  Examples of Habrem's skills are all around, both
+fixed to walls and in cabinets on display.  He is clearly an excellent 
+craftsman with metals.
+~
+47 1048576 0 1 99 1
+D1
+You can see the waterfront.
+~
+~
+0 -1 4851
+S
+#4901
+Kasper's Charms and Blessings.~
+You have entered a dark and misty shop.  On the walls you can just about make 
+out strange tapestries and weavings.  In the centre of the shop there is a
+large circular table with a silver bowl of some glowing liquid on it.  You
+cannot see where the mist could be coming from, although you are pretty sure
+there is no fire.
+There is a sign here.
+~
+47 1048576 0 1 99 1
+D1
+You can see the waterfront.
+~
+~
+0 -1 4848
+E
+sign~
+Cross my palm with gold and the future will be told.
+~
+S
+#4902
+The Great Waterfront Inn.~
+This is the entrance to the Great Waterfront Inn.  It is not a grand inn, but
+a fair attempt has been made to make it look a little more upmarket than you
+would have expected.  There are a few tables around, and to the south the
+inn opens up into a bar.
+~
+47 1048576 0 1 99 1
+D1
+You can see the waterfront.
+~
+~
+32 -1 4844
+D2
+nothing special.
+~
+~
+0 -1 4903
+S
+#4903
+Inside the Great Waterfront Inn.~
+You are standing in a bar in the Great Waterfront Inn.  There are assorted
+tables and chairs around the room, very loosely organised and the floor seems 
+to have fragments of glass on it.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4902
+D3
+nothing special.
+~
+~
+0 -1 4904
+D4
+The stairs lead up.
+~
+~
+0 -1 4906
+S
+#4904
+Inside the  Great Waterfront Inn.~
+The large bar here services the patrons of the inn with a number of beers and
+spirits from all over the world.  The bar is decorated with a few pictures, but
+has been kept wisely sparse to avoid costly damage.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4903
+S
+#4905
+A small bedroom.~
+This is a small, but comfortable bedroom.  There is a small dresser here and an
+adequate bed.  Nothing except the essentials though.
+~
+47 1048576 0 1 99 1
+D2
+nothing special.
+~
+door south~
+9 -1 4906
+S
+#4906
+Top landing.~
+You are standing on the landing at the top of the stairs.  Downward the stairs
+lead back to the inn, and north the landing leads into the bedroom.  There is
+a small window here.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+door north~
+9 -1 4905
+D5
+nothing special.
+~
+~
+0 -1 4903
+E
+window~
+The window looks out over the seafront.  From this raised window you can see
+quite far out to sea, and there are ships spread thinly all the way to the
+horizon.
+~
+S
+#4907
+Murphey's Great Grub Emporium.~
+Behind the counter, you can see three huge boiling pots on a fire at the base
+of a chimney.  One of the pots looks like it is full of water, the other two
+bubbling grease, and you can see all sorts of small shapes floating around 
+in them, raising to the surface and then dissapearing from view.  The shop has
+not been kept very clean, and even the main shop counter is covered in grime.
+There is a large notice on the wall showing the prices of the food.
+~
+47 1048576 0 1 99 1
+D0
+You can see the dark alleyway outside.
+~
+~
+0 -1 4847
+S
+#4908
+The Jail Office.~
+There is a large desk here, covered in paperwork, with a quill and ink pot.
+On the wall are pictures of some of Elmpatris' most wanted, although the 
+quality of most of the drawings leaves something to be desired.
+The door leads out into the main jail entrance, south.
+~
+47 1048576 0 1 99 1
+D2
+nothing special.
+~
+door south~
+9 -1 4909
+S
+#4909
+Inside the jailhouse.~
+This sparse room is the entrance to the town's jail.  There is a door to the
+north that leads through to the constable's office, and a wooden staircase
+leads precariously down into the cells.
+On a board on one wall, are a handful of drawings of some of the town's known
+villains.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+door north~
+9 -1 4908
+D2
+You can see Karyna Road outside.
+~
+~
+32 -1 4835
+D5
+The stairs lead down.
+~
+~
+0 -1 4912
+S
+#4910
+A smelly cell.~
+You are in a dark stone cell.  It is below the ground level of the town, and
+at near the top of one of the walls is a small window out onto the road
+outside, which allows a little light in.  The floor is bare and there is
+only a small wooden bed with a tattered blanket on it to provide any 
+comfort.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+cell door east~
+13 -1 4912
+S
+#4911
+A smelly cell.~
+You are in a dark stone cell.  It is below the ground level of the town, and
+at near the top of one of the walls is a small window out onto the road
+outside, which allows a little light in.  The floor is bare and there is
+only a small wooden bed with a tattered blanket on it to provide any 
+comfort.
+~
+47 1048576 0 1 99 1
+D2
+nothing special.
+~
+cell door south~
+13 -1 4912
+S
+#4912
+By the cells.~
+You are in a basement that has been dug beneath the jail to hold the prisoners
+and had stone walls made to support it.  There is a wooden staircase that
+leads up to the main office, and two doors here to the two cells.
+~
+47 1048576 0 1 99 1
+D0
+It is a small, smelly cell.
+~
+cell door north~
+13 -1 4911
+D3
+It is a small, smelly cell.
+~
+cell west door~
+13 -1 4910
+D4
+The stairs lead up to the main office.
+~
+~
+0 -1 4909
+S
+#4913
+The stables.~
+The smell of horses strikes your nose as soon as you enter the stable.  The
+ground is covered in a layer of well trodden hay, and well mixed with the 
+passings of the horses.  Wooden beams neatly divide the stable up into 
+stalls for each of the horses here, and continue south into the stable.
+~
+47 1048576 0 1 99 1
+D2
+The stables continue.
+~
+~
+0 -1 4914
+D3
+You can see the road outside.
+~
+~
+32 -1 4842
+S
+#4914
+The stables.~
+You are standing at the back of a large stable for the horses of the militia.
+They are well cared for, although this stable is not quite so lucky.  The
+floor is covered in hay, with ample manure trodden in.  The smell is pungent.
+The walls are covered wth an assortment of reins, saddles and other 
+equestrian paraphernalia.
+~
+47 1048576 0 1 99 1
+D0
+The stables continue.
+~
+~
+0 -1 4913
+S
+#4915
+Elmpatris barracks.~
+You are standing in a large barracks for the militia.  There are a number of
+beds along the walls, with large chests next to each, locked shut.
+~
+47 1048584 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 4916
+D3
+You can see the road outside.
+~
+~
+32 -1 4845
+S
+#4916
+Elmpatris barracks.~
+There are some beds filling up half of this room and leading away along the 
+walls westward.  The area here has a mess table, and a door leading away
+north.
+~
+47 1048584 0 1 99 0
+D0
+nothing special.
+~
+door north~
+9 -1 4921
+D3
+nothing special.
+~
+~
+0 -1 4915
+S
+#4917
+Elmpatris library.~
+The Elmpatris library is renowned as being one of the best in the land. 
+Unfortunately this is simply because there are so few.  The library has a
+fair collection of titles, well stacked up the walls, reaching almost to the
+ceiling.  A few clerics glide around quietly, taking care of them and replacing
+books that have been used by scholars, back in their correct locations.
+~
+47 1048576 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 4918
+D3
+nothing special.
+~
+~
+32 -1 4852
+S
+#4918
+Elmpatris library.~
+The Elmpatris library is renowned as being one of the best in the land. 
+Unfortunately this is simply because there are so few.  The library has a
+fair collection of titles, well stacked up the walls, reaching almost to the
+ceiling.  A few clerics glide around quietly, taking care of them and replacing
+books that have been used by scholars, back in their correct locations.
+A small door leads east.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4917
+D1
+nothing special.
+~
+door east~
+9 -1 4921
+S
+#4919
+Town Hall reception.~
+In the foyer of the town hall here, there is a large desk with a receptionist
+here to help you.  A handful of large portraits of former council members 
+adorn the walls and are mixed with a small number of gas lamps.
+~
+47 1048576 0 1 99 1
+D0
+You can see the road outside.
+~
+~
+32 -1 4857
+D2
+nothing special.
+~
+~
+0 -1 4921
+S
+#4920
+An office.~
+This is a large office, which looks as if it is shared by three or four clerks.
+A number of desks and filing cabinets are here, but other than that the room is
+quite lacking in furnishings and comforts, and looks very efficient.
+~
+47 1048576 0 1 99 1
+D2
+nothing special.
+~
+door south~
+9 -1 4922
+S
+#4921
+A corridor.~
+You are standing in a wide corridor in the town hall.  There is a large
+door with a window in it leading west and through it you can see a library.
+Another, smaller door leads away south.
+~
+47 1048584 0 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 4919
+D1
+nothing special.
+~
+~
+0 -1 4922
+D2
+nothing special.
+~
+door south~
+9 -1 4916
+D3
+nothing special.
+~
+door west~
+9 -1 4918
+S
+#4922
+A corridor.~
+This is a corridor in the town hall.  It leads away westward, and there is a
+door here in the north wall.  A flight of stairs leads upward.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+door north~
+9 -1 4920
+D3
+nothing special.
+~
+~
+0 -1 4921
+D4
+nothing special.
+~
+~
+0 -1 4926
+S
+#4923
+Town Council meeting chamber.~
+This is a sparse room, at the centre of which is a large table around which
+the council make the decisions of the running of the town.  There are papers
+strewn all over it.  A large window lets in light from outside.
+~
+47 1048576 0 1 99 1
+D2
+nothing special.
+~
+door south~
+9 -1 4925
+E
+window~
+Looking through the window you can see the busy market square below, packed
+with people.
+~
+S
+#4924
+The Mayor's office.~
+The mayor appears to enjoy his drink.  There is a large cabinet here with a
+number of drinks on it... most of them almost empty.  The office has been
+decorated relatively sparsely for somebody in such a position, but is 
+nonetheless quite grand.  A number of gas lamps are fixed to the walls, and
+there is a thick pile carpet on the floor.  A large window looks out over the
+market area.
+~
+47 1048576 0 1 99 1
+D2
+nothing special.
+~
+door south~
+9 -1 4926
+E
+window~
+You can see the busy market place below, teeming with customers and traders.
+~
+S
+#4925
+A corridor.~
+You are standing at the end of a short corridor linking the staircase to a large
+door set in the north wall here.  The whole corridor seems fairly featureless.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+door north~
+9 -1 4923
+D1
+nothing special.
+~
+~
+0 -1 4926
+S
+#4926
+A corridor~
+You are standing in a corridor in the town hall, at the top of a flight of
+stairs.  The corridor continues west, and there is a door here.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+door north~
+9 -1 4924
+D3
+nothing special.
+~
+~
+0 -1 4925
+D5
+nothing special.
+~
+~
+0 -1 4922
+S
+#4927
+Before the city walls.~
+The road here leads directly into the front gates of the city, the only
+way through the seemingly impervious city wall.  Inside the city looks full of 
+life, as traders from all over the world come to exchange their wares.
+~
+47 1048576 0 1 99 1
+D1
+The city wall is huge and stretches away in both directions.
+~
+~
+0 -1 4821
+D3
+The road leads into the hills.
+~
+~
+0 -1 4939
+S
+#4928
+Corner of Eastgate Road.~
+UNDEFINED ROOM DESCRIPTION: 4928
+~
+47 0 0 1 99 1
+S
+#4929
+l~
+UNDEFINED ROOM DESCRIPTION: 4929
+~
+47 0 0 1 99 1
+S
+#4930
+Alyah's Massage and Comfort Parlour.~
+You find yourself in the entrance to the town's brothel.  The walls have
+fine wallpaper, which is largely obscured by the broad curtains and a number
+of paintings of ladies.  A carpeted wooden staircase leads up to the next
+floor, and there is a door here to another room.
+~
+47 1048576 0 1 99 1
+D0
+You can see Empire Road outside.
+~
+~
+32 -1 4881
+D3
+You can see a bedroom.
+~
+~
+0 -1 4931
+D4
+The stairs lead up.
+~
+~
+0 -1 4933
+S
+#4931
+A bedroom.~
+You are standing in an elegant bedroom.  There are large sweeping curtains 
+covering large areas of the walls and a huge bed that takes up most of the
+area of the floor.  A cupboard and a dresser complete the furnishings.
+~
+47 1048576 0 1 99 1
+D1
+You can see the entrance foyer.
+~
+~
+0 -1 4930
+S
+#4932
+A bedroom.~
+This is a fine looking bedroom.  There is a large dresser with assorted 
+cosmetics strewn across it's top, and a pair of large wardrobes full of
+elegant clothing.  The bed is a large four poster, although you fear for the
+condition of the springs.
+~
+47 1048576 0 1 99 1
+D1
+You can see the hallway.
+~
+~
+0 -1 4933
+S
+#4933
+On the landing.~
+You are standing at the top of the stairs leading up from the entrance hall.
+There is a door here that appears to lead into a bedroom.
+~
+47 1048576 0 1 99 1
+D3
+You can see a bedroom.
+~
+~
+0 -1 4932
+D5
+The stairs lead down.
+~
+~
+0 -1 4930
+S
+#4934
+Church of Aodhfidiahnn.~
+This place of worship is a modest affair, with stone walls and a few bare 
+wooden benches spread throughout it, before the main idol of the church.
+A large door leads out east into the market.
+~
+47 1048576 0 1 99 1
+D0
+You can see a shining altar.
+~
+~
+0 -1 4935
+D1
+You can see the busy market outside.
+~
+~
+0 -1 4864
+S
+#4935
+Before the Idol of Aodhfidiahnn.~
+You are standing at the end of the church of Aodhfidiahnn.  Here they believe
+that these dogs are the incarnation of their saviour, in this form to test
+their kindness and so the followers have helped every one of this breed of
+dog that they have found and given it a home.
+~
+47 1048576 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 4934
+S
+#4936
+At the statue of Pageoran.~
+This part of the shrine is filled with most of the valuables of the cult.
+There are gold and silver decorations of all manner fixed to the walls,
+although there does seem to be a common theme.  Everything has three female
+breasts moulded onto it somewhere, from candles to picture frames.
+~
+47 1048584 0 1 99 0
+D2
+nothing special.
+~
+~
+0 -1 4937
+S
+#4937
+Shrine of the Saved.~
+This is the sparse entrance to the shrine.  The walls have a number of small
+paintings on them, but other than the the walls are simple stone.  The floor
+has been paved with large stone slabs, but there is almost no furniture here,
+just a plain empty room.  The room continues north to the end of the temple.
+~
+47 1048576 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 4936
+D2
+You can see the road outside.
+~
+~
+0 -1 4882
+E
+pictures~
+All of the pictures on the walls seem to be of the same thing, a naked woman
+with a third breast on the centre of her chest!
+~
+S
+#4938
+Road across the rolling hills.~
+The peaceful rolling hills stretch out as far as you can see in both directions,
+passing between thick expanses of forest.  Far off to the north-west you can
+see a small mountain peaking over the tips of the trees.
+~
+47 1048584 0 1 99 0
+D1
+nothing special.
+~
+~
+0 -1 4943
+D2
+~
+~
+0 -1 20385
+D3
+nothing special.
+~
+~
+0 -1 3506
+S
+#4939
+Road before Elmpatris.~
+The road approaches the large city of Elmpatris, which sits on the coast to
+the east.  Westward the road leads into undulating hills, following a 
+natural firebreak in the forest.
+~
+47 1048576 0 1 99 1
+D0
+A deer trail.
+~
+~
+0 -1 1900
+D1
+The road leads toward the large city.
+~
+~
+0 -1 4927
+D3
+The road leads into the hills.
+~
+~
+0 -1 4940
+S
+#4940
+Pathway through the hills.~
+This wide road runs east west between two major cities.  On either side there
+is a small bank leading up to the edges of thick forest.
+~
+47 1048576 0 1 99 1
+D1
+The road leads toward a large city.
+~
+~
+0 -1 4939
+D3
+nothing special.
+~
+~
+0 -1 4941
+S
+#4941
+Pathway through the hills.~
+The road glides along over the smoothly undulating hills.  To the north lies a 
+thick forest, while to the south a small pathway leads up to a large cathedral-
+like structure. Far off to the northwest you can see the top of a mountain.
+~
+47 1048576 0 1 99 1
+D1
+The road leads down toward the coast.
+~
+~
+0 -1 4940
+D2
+A small pathway leads off the road.
+~
+~
+0 -1 4955
+D3
+nothing special.
+~
+~
+0 -1 4942
+S
+#4942
+Pathway through the hills.~
+You are standing on a wide road that leads runs east-west between two vast
+expanses of forest.
+~
+47 1048576 0 1 99 1
+D0
+Temple of preservation
+~
+~
+16 -1 18400
+D1
+nothing special.
+~
+~
+0 -1 4941
+D3
+nothing special.
+~
+~
+0 -1 4943
+S
+#4943
+Pathway through the hills.~
+As far as you can see in either direction a carpet of trees covers the land.
+There is what appears to be a natural firebreak, along which this road has
+been constructed.
+~
+47 1048576 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 4942
+D3
+nothing special.
+~
+~
+0 -1 4938
+S
+#4944
+A pier on the waterfront.~
+This is a pier which reaches out from the main cityfront to allow passengers
+to board and unboard the ferry, Graviell easier.  West you can see large
+warehouses looming up over the street, and east the ocean dissapears over the
+horizon.
+There is a sign here, nailed to the pier.
+~
+47 1048580 67584 1 99 1
+D1
+The water stretches away from the coast.
+~
+~
+0 -1 3513
+D3
+You can see some warehouses.
+~
+~
+0 -1 4867
+E
+sign~
+                        Graviell Ferry Services.
+ 
+       Thank you for using Graviell Ferry Services Inc.  We run
+       a regular service between the cities of Elmpatris and
+       Krysaria, regularly.
+ 
+                           Tarif : 2000 gps.
+ 
+       Thank you for using Graviell Ferry Services Inc.
+~
+S
+#4945
+A small pier on the River Karyna.~
+A small wooden pier is fixed to the stone wall sides of the city here and
+reaches out over the river to allow boats to dock here.  The River Karyna
+flows past eastward toward the rivermouth and the ocean, and is joined by a
+small river feeding in from the south-west.
+There is a sign here.
+~
+47 1048580 69664 1 99 1
+D0
+You can see a road in the town.
+~
+~
+0 -1 4835
+D2
+nothing special.
+~
+~
+0 -1 4949
+D3
+The river continues.
+~
+~
+0 -1 4946
+E
+sign~
+                 Summit's Transport Empire
+                 =========================
+ 
+                                /---Midgaard--\
+    We run a regular service   /               \_________Elmpatris            
+    between the three major   |                              |
+    ports of call in the area.|                             /
+                              |                            /
+    Tarif: 1000 gps.          |                     ______/
+    ================           \     /--Arnath-----/
+                                \___/
+~
+S
+#4946
+On the River Karyna.~
+You are on the River Karyna as it flows eastward along the stone bank of the
+city, Elmpatris.  A little further down river there is a small wooden
+jetty protruding from the stone wall, and the river is joined by a second,
+smaller river.  Upstream the Karyna winds into the forest.
+~
+47 1048580 2080 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 4945
+D3
+The river continues.
+~
+~
+0 -1 4947
+S
+#4947
+The River Karyna.~
+The River Karyna flows along here eastward, along the side of the city of
+Elmpatris.  Upstream the river dissapears into the forest.
+~
+47 1048580 2080 1 99 7
+D1
+The river continues.
+~
+~
+0 -1 4946
+D2
+The river continues.
+~
+~
+0 -1 3535
+S
+#4948
+A small pier on the River Karyna.~
+This is a small pier on the river.
+~
+47 4 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 4949
+S
+#4949
+On the River Karyna.~
+You are floating on the the River Karyna, one of the main trading rivers
+of this area.  To the north is a small pier and the city of Elmpatris.
+South-west is a small river, joining the Karyna.
+~
+47 1048576 8208 1 99 7
+D0
+There is a pier sticking out from the edge of the city.
+~
+~
+0 -1 4945
+D3
+nothing special.
+~
+~
+0 -1 4950
+S
+#4950
+On the River Karyna.~
+You are floating on the River Karyna, as it meanders eastward toward the mouth 
+of the river and the open sea.  To the south a small river joins from the
+south-west, and to the north you can see the city of Elmpatris on the bank.
+~
+47 1048576 4128 1 99 7
+D1
+nothing special.
+~
+~
+0 -1 4949
+D2
+A small river leads into the forest.
+~
+~
+0 -1 3536
+S
+#4951
+&yA Pier on the Waterfront&n~
+The pier is probably one of the oldest and less maintained piers,
+of all the other piers on the docks, Its wooden top has rotted 
+and fallen into the water in places leaving large holes you tred 
+warily to avoid. At the end of the pier two old ropes rang down 
+low into the water, used for securing the Shikonas Sea Ferry to 
+the pier.
+~
+47 1048580 198656 1 99 1
+D1
+You can see ships out to the horizon.
+~
+~
+0 -1 4952
+D3
+nothing special.
+~
+~
+0 -1 4841
+S
+#4952
+&BThe Harbour of Elmpartis&n~
+&cYou are in the harbour of the city of Elmpatris.  You can see all number of
+huge trading ships bobbing up and down on the waves all around.&n
+~
+47 1048576 4096 1 99 7
+D0
+You can see the pier at the edge of the city.
+You can see the pier at the edge of the city.
+~
+~
+16 -1 4951
+D1
+The Ocean stretches out as far as the eyes can see.
+~
+~
+0 -1 21977
+D2
+nothing special.
+~
+~
+0 -1 4953
+D3
+You can see the pier at the edge of the city.
+~
+~
+0 -1 4951
+S
+#4953
+&BThe Harbour of Elmpartis&n~
+&cYou are in the harbour of the city of Elmpatris, rounding a large stone tower
+at the corner of the city, positioned to protect it from invading ships.
+&n
+~
+47 1048576 4096 1 99 7
+D0
+nothing special.
+~
+~
+0 -1 4952
+D2
+You can see the River Karyna.
+~
+~
+0 -1 4954
+S
+#4954
+&yA &wRocky &yCoastline&n~
+  &gThe mouth of the Yansu River empties it's waters near here where the &BShikonas Sea&g and &BKandarian
+Ocean&g meet. The coastline continues north along the borders of the &BKandarian Ocean&g, while
+the mouth of the river lies south, and the &BSkikonas Sea&g lies southeast.&n
+~
+47 1048576 4096 1 99 7
+D0
+nothing special.
+~
+~
+0 -1 4953
+D2
+nothing special.
+~
+~
+0 -1 1010
+S
+$~
+#999999

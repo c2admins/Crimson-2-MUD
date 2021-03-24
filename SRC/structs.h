@@ -586,16 +586,17 @@ struct vehicle_data {
 
 /* These only work up to 15, because it's a sh_int. */
 #define EX_ISDOOR				BIT0
-#define EX_PICKPROOF				BIT1
+#define EX_PICKPROOF			BIT1
 #define EX_LOCKED				BIT2
 #define EX_CLOSED				BIT3
 #define EX_HIDDEN				BIT4
 #define EX_NOMOB				BIT5
 #define EX_NOCHAR				BIT6
-#define EX_CLIMB_ONLY				BIT7
-#define EX_NO_MOBS_IN_ROOM			BIT8
-#define EX_PHASEPROOF				BIT9
-#define EX_BASHPROOF				BIT10
+#define EX_CLIMB_ONLY			BIT7
+#define EX_NO_MOBS_IN_ROOM		BIT8
+#define EX_PHASEPROOF			BIT9
+#define EX_BASHPROOF			BIT10
+#define EX_TRIPPROOF			BIT11
 
 /* For 'Sector types' */
 

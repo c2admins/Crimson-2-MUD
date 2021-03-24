@@ -1,0 +1,291 @@
+#7000
+mob mudmonster~
+The horrifying Mudmonster~
+A horrifying Mudmonster is slowly evolving from the mud ...
+~
+It sure looks like something out of a horrormovie. It strongly resembles
+a huge figure made up from mud alone, and it sure looks like it had human 
+flesh for breakfast and is strongly intent on having the same for dinner
+- Perhaps you?
+~
+72 1 136249345 524288 -250 S
+12 19 12 4d6+140 2d7+1
+100 15000
+5 5 0
+0 0 14 15 12 14 12 10
+#7001
+mob bat~
+The small bat~
+The small fierce-looking bat is hanging from the ceiling, obviously sleeping.
+~
+You have never in your entire life seen such a mean looking small creature,
+though it looks rather peaceful, hanging there, sleeping. The thought of 
+arousing this cruel creature doesn't sit well with you.
+~
+57416 1 136249345 524288 -500 S
+1 30 14 5d2+6 1d5+0
+0 200
+4 4 0
+0 0 12 13 11 9 8 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#7002
+mob rat~
+The Great Sewer Rat~
+The Huge Hungry-looking Sewer Rat sits here
+~
+rat
+~
+57352 1 136249345 0 -1000 S
+5 26 15 1d12+48 2d4+0
+40 1000
+8 8 1
+0 0 12 13 12 12 10 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#7003
+mob spider~
+The small Spider~
+The small hairy Spider
+~
+spider
+~
+57352 1 136249345 524288 -700 S
+1 30 13 1d12+8 1d4+0
+1 100
+8 8 1
+0 0 11 11 9 9 8 7
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#7004
+mob beetle~
+The giant earth beetle~
+The Giant Mean-looking Earth Beetle
+~
+beetle
+~
+8 1 136249345 0 -300 S
+8 23 13 2d10+98 2d5+1
+1000 5000
+4 4 1
+0 0 13 12 12 11 12 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#7005
+mob maggot~
+The maggot~
+The Giant Maggot
+~
+UNDEFINED DESCRIPTION: mob maggot~
+8 1 136249345 0 300 S
+3 27 19 2d5+35 1d7+0
+2 350
+8 8 1
+0 0 11 13 9 10 10 9
+#7006
+mob snake~
+The slithering snake~
+The snake slithers towards you
+~
+snake
+~
+57352 1 136249345 0 -500 S
+4 26 17 2d5+40 1d9+0
+1 1000
+8 8 0
+0 0 13 11 11 12 9 7
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#7007
+mob wanderer~
+The evil wanderer~
+The evil wanderer stares at you
+~
+The evil wanderer is very thin. He is dressed in a grey cloak.
+~
+140 1 136249345 0 -1000 S
+10 21 12 4d10+100 2d6+1
+300 9500
+8 8 1
+0 0 14 12 11 12 11 12
+#7008
+mob homonculus~
+the creature homonculous~
+The creature homonculous is here, looking at you with an evil look.
+~
+The Homonculous appers in a man-like form, about 18'' tall, have a
+greenish, reptilian skin, leathery wings, and a batlike mouth, with
+teeth passing on a venom.
+~
+8 1 136249345 8 -780 S
+11 20 11 6d3+130 2d6+2
+500 11500
+8 8 0
+0 0 13 15 12 12 11 10
+#7009
+mob grand knight~
+The Grand Knight of Paladins~
+The Grand Knight is standing here, waiting for someone to help.
+~
+The Knight is standing here, smiling at you. He is dressed all in
+white, blue and silver. He looks VERY strong, as he stands here, ready to
+help the innocent.
+~
+262216 1 136249345 8 1000 S
+26 10 2 10d8+550 2d6+12
+0 170000
+8 8 1
+0 0 17 18 15 17 16 13
+#7010
+mob chr-eff'n~
+the evil chr-eff'n~
+The chr-eff'n are crawling here, looking around with it's yellow eyes.
+~
+The head and torso of a chr-eff'n is copper-covered, with yellow
+,glowing eyes. The lower body is in an orange shading.
+~
+140 1 136249345 524296 -830 S
+12 19 12 2d26+148 2d7+1
+1500 13000
+8 8 0
+0 0 14 13 13 14 11 13
+#7011
+mob morkoth~
+the shadowy morkoth~
+The morkoth are standing here, waiting for someone to KILL!
+~
+It's a five feet tall, shadow monster. This has the shape between
+a human and a rat. It breaths very heavely, while it stares at you.
+~
+57480 1 136249345 0 -900 S
+10 22 13 1d20+120 2d6+0
+1 9000
+8 8 0
+0 0 14 13 11 13 12 10
+#7012
+mob esther madam~
+Madam Esther~
+Madam Esther is standing here, trying to sell dust.
+~
+She is very big standing here, smiling to you. She looks like the
+mother of the town, sometimes playing with the children, sometimes 
+helping the old people, with their daily work. All this in spite of
+her own hard work.
+~
+8 1 136249345 0 1000 S
+2 29 17 1d2+23 1d6+1
+6 150
+8 8 2
+0 0 11 10 11 10 9 8
+#7040
+mob red dragon~
+The red dragon~
+The Red fierce-looking dragon stares at you angrily
+~
+The red dragon stares at you, angrilly, as it wakes when you
+arrives.  It says 'Oh, human YOU woke me up...Hsssss', while
+it moves closer ,'Can one NEVER sleep in peace..Hssss'.
+~
+4513802 32769 136249345 8 -1000 S
+19 12 10 5d4+230 3d6+3
+10000 60000
+8 8 0
+0 0 16 16 15 13 14 12
+SKILL=SPELL_FIRE_BREATH 48
+#7041
+mob sea hag~
+The sea hag~
+The Sea Hag is swimming around here
+~
+The sea hag is so ghastly looking that you fell's the deepest
+fear: Big yellow eyes and sharp teeths. Its ears are very big,
+and it have small sharp horns. This type of monsters are one of
+the greatest haters of beauty (Next after Medusa).
+~
+57352 1 136249345 0 -800 S
+14 17 11 1d8+172 2d8+1
+0 18000
+8 8 2
+0 0 15 14 13 12 10 13
+#7042
+mob guardian naga~
+The guardian naga~
+The Guardian Naga looks kindly at you.
+~
+The naga are a snake-liked creature. She is covered in green-gold
+scale with silvery triangles along her back. Her eyes are golden.
+She notice that you look at her, and she says: 'Watch out. This way
+leads to some evil creatures'.
+~
+262154 1 136249345 0 700 S
+12 19 12 1d18+148 2d7+1
+100 13500
+8 8 2
+0 0 15 16 14 13 13 12
+#7043
+mob basilisk~
+The scaled basilisk~
+The scaled Basilisk crawls towards you slowly.
+~
+The basilisk is a reptilian monster. It has eight legs, and a strong
+toothy jaws. It is dull brown with yellowish underbell. It's eyes are
+glowing pale green.
+~
+12 1 136249345 8 -250 S
+13 21 10 1d12+160 2d7+2
+350 16000
+8 8 0
+0 0 15 13 12 14 11 12
+#7044
+mob lemure blob~
+The lemure~
+The lemure blob slithers terribly precisely towards you for an attack!~
+This looks like a vaguely human blob. Big black yellow eyes, and a
+mouth going a little bit out from the face. The lemure does not look
+interested in you at all, but anyway it attackes. It looks like it's
+mind has been burned out.
+~
+57352 1 136249345 4194304 -500 S
+5 26 16 3d5+57 2d4+0
+0 1000
+8 8 0
+0 0 12 14 11 12 9 10
+#7045
+mob jones ettin~
+Jones 'cruncher' the ettin~
+Jones is standing here glaring at you.~
+At the first sight you thought Jones was an Orc, but when it came
+closer you saw his second head. He wears an animal skinn dress,
+filthy and moth eaten. Jones really stinks...
+~
+12 1 136249345 0 -480 S
+10 21 12 1d5+130 2d6+2
+60 11000
+5 5 1
+0 0 13 12 11 12 10 9
+#7046
+mob Herald Ettin~
+Herald 'the mouse-killer' Ettin~
+Herald is standing here, looking at you confused.
+~
+When you look at Herald you cannot help but feel pitty.  His dress is very
+poor and ragged.  He has a rope around his stomach, from which hangs a number
+of dead rats and mice.  He does not smell good.
+~
+12 1 136249345 0 200 S
+6 24 14 3d5+70 1d8+0
+40 1500
+5 5 1
+0 0 13 13 10 12 11 11
+$~
+#999999

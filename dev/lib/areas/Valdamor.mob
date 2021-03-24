@@ -1,0 +1,146 @@
+#1800
+mob bird little brown~
+a little brown bird~
+You see a little brown bird, looking somewhat annoyed by your presence.
+~
+A little brown bird is walking circles around you, giving you the feeling you don't belong here.
+~
+16777482 1 136249361 100925576 500 S
+41 20 0 20d20+1800 4d5+10
+100000 30000
+8 8 0
+0 0 22 16 16 14 12 20
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#1801
+mob bird enormous brown female~
+An enormous female bird~
+An enormous female bird with brown feathers flies around you.
+~
+An enormous female bird with brown feathers attacks you, protecting her baby. You start to panic, while the bird keeps picking towards your face.
+~
+1291911754 4227073 136249361 34078856 -1000 S
+41 11 -9 40d30+2000 100d12+30
+250000 200000
+8 8 2
+0 0 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+#1802
+mob bird enourmous male brown~
+An enormous male bird~
+An enormous male bird with darkbrown feathers flies towards you.
+~
+You see a huge mass of darkbrown feathers fly towards you. Just before your face is covered by blood, you identify it as the father bird of the little one.
+~
+1291911754 4227073 136249361 34078856 -1000 S
+41 11 -9 40d30+2000 50d11+40
+250000 200000
+8 8 1
+0 0 21 21 21 19 19 18
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#1803
+mob Creature darkness~
+A creature of darkness~
+You think you see some creature in the darkness of the forest.
+~
+Not sure what you see, but you think you see some eyes. You peer hard and see an almost totally hidden creature, bigger than a normal human. At least you think so...
+~
+68456522 4194305 136249393 35389442 -125 S
+41 25 -30 4d20+7000 20d10+20
+200000 250000
+8 8 0
+0 0 20 17 15 14 13 11
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#1804
+mob mammal small~
+A small mammal~
+A small mammal drinks water from the pond.
+~
+You see a small mammel, licking water from the pond. As you aproaches, he runs to the other side and continues the drinking. The mammal looks at you now and then with strange, but friendly eyes.
+~
+16777482 4227073 136249361 1073741952 0 S
+41 40 40 40d50+1200 10d10+10
+220000 225000
+8 8 1
+28 0 16 16 15 14 15 11
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_HEAL_MINOR 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#1805
+mob mammal small angry~
+A small angry mammal~
+A small angry mammal is growling.
+~
+This small mammal isn't as friendly as the one you saw drinking.... He growls and screams, while looking around if his flok is okay. He has fierce little teeth, and is quite eager to show them to you.
+~
+150995466 4227073 136249361 1073741952 0 S
+41 40 40 40d1+1200 10d10+10
+220000 225000
+8 8 1
+28 0 16 16 15 14 15 11
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=70
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#1806
+mob mammal small angry~
+A small angry mammal~
+A small angry mammal is growling.
+~
+This small mammal isn't as friendly as the one you saw drinking.... He growls and screams, while looking around if his flok is okay. He has fierce little teeth, and is quite eager to show them to you.
+~
+150995466 4227073 136249361 1073741952 0 S
+41 40 40 40d1+1200 10d10+10
+220000 225000
+8 8 0
+28 0 16 16 15 14 15 11
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+#1807
+mob mammal small angry~
+A small angry mammal~
+A small angry mammal is growling.
+~
+This small mammal isn't as friendly as the one you saw drinking.... He growls and screams, while looking around if his flok is okay. He has fierce little teeth, and is quite eager to show them to you.
+~
+150995466 4227073 136249361 1073741952 0 S
+41 40 40 40d1+1200 10d10+10
+220000 225000
+8 8 0
+28 0 16 16 15 14 15 11
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+$~
+#999999

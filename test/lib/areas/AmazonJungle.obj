@@ -1,0 +1,580 @@
+#16300
+obj ruby key~
+2
+a ruby key~
+A red key lies here on the floor.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 100000000
+#16301
+obj skull key~
+2
+a skull key~
+A key in the shape of a skull lies here.~
+~
+18 262152 0 1
+10000000 0 10 0
+1 5 100000000
+#16302
+obj key stick~
+2
+a stick key~
+A very small stick lies here.~
+~
+18 262152 0 1
+10000000 0 10 0
+1 5 100000000
+#16303
+obj big knife~
+10
+a big knife~
+A long, big knife has been foolishly dropped here.~
+~
+5 136314890 0 8193
+128 8 4 3
+16 100000 75000
+A
+19 2
+A
+18 3
+A
+33 -1
+#16304
+obj sign~
+1
+a bamboo sign~
+A large bamboo sign is on the riverbank.~
+~
+16 8 0 0
+0 3 10 3
+2000000 5 5
+#16305
+obj zulu spear~
+10
+a zulu spear~
+A native spear likes on the groud.~
+~
+5 135354370 0 8193
+155648 4 7 11
+17 100000 65000
+A
+1 -1
+A
+19 1
+A
+18 -1
+#16306
+obj machete jungle~
+75
+a machete~
+A big machete lies on the ground.~
+~
+5 540672 0 8193
+0 4 5 3
+10 10000 8000
+#16307
+obj stinger poison bee~
+75
+a bee stinger~
+A bee stinger has been left here.~
+~
+5 1048576 0 8193
+1 5 5 11
+9 20000 5000
+#16308
+obj spear pygmy~
+75
+a pygmy spear~
+A plain spear lies on the floor.~
+~
+5 524288 0 8193
+0 4 4 11
+10 5 5000
+#16309
+obj ant pincher~
+75
+an ant pincher~
+An ant pincher is lying here.~
+~
+5 524288 0 8193
+1 3 3 11
+9 20000 8000
+A
+12 10
+#16310
+obj sword pygmy~
+40
+a pygmy sword~
+A short, mean looking sword lies here.~
+~
+5 524288 0 8193
+0 2 10 3
+15 100000 4000
+A
+18 1
+A
+3 -2
+#16311
+obj stone monkey~
+100
+a small stone~
+A stone is lying here...DAMN MONKEYS!~
+~
+5 0 0 8193
+0 1 3 7
+6 1000 200
+#16312
+obj tusk~
+50
+a large tusk~
+A tusk from a wild animal lies here.~
+~
+5 1048576 0 8193
+16 4 3 11
+5 10000 5000
+A
+18 1
+A
+19 2
+#16313
+obj stinger common~
+100
+a common stinger~
+Someone left a stinger here.~
+~
+5 0 0 1
+1 2 3 11
+6 1000 200
+#16314
+obj toothed necklace~
+40
+a toothed necklace~
+A long, toothed necklace is lying here.~
+~
+9 1155138 0 5
+8 0 0 0
+2 200000 21000
+A
+12 35
+A
+13 -10
+A
+14 -10
+#16315
+obj skull staff~
+50
+a skull staff~
+A staff with a skull upon it is on the ground.~
+~
+4 1052672 0 16385
+30 5 5 27
+10 100000 18000
+A
+12 20
+#16316
+obj surgeon's tool~
+50
+a surgeon's tool~
+A long surgeon's tool is lying on the ground.~
+~
+9 1089537 0 5
+10 0 0 0
+5 120000 11000
+A
+12 30
+A
+13 -25
+#16317
+obj mask ceremonial~
+20
+a ceremonial mask~
+A ceremonial mask lays here.~
+~
+9 2204675 0 17
+20 0 0 0
+8 100000 14000
+A
+12 20
+A
+26 -1
+A
+2 -2
+A
+32 -1
+#16318
+obj doll pigmie~
+70
+a pigmy doll~
+A pigmy child's doll is lying in the dust.~
+~
+9 524288 0 16385
+5 0 0 0
+1 5000 1000
+A
+12 5
+A
+13 10
+#16319
+obj bone plate armor~
+50
+some bone plate armor~
+Some pigmy bone armor lies here.~
+~
+9 1048576 0 9
+20 0 0 0
+20 200000 15000
+A
+2 -2
+A
+4 -4
+A
+19 2
+#16320
+obj fig leaf~
+25
+a fig leaf~
+A leaf lies on the ground.~
+~
+9 1115136 0 2049
+10 0 0 0
+2 50000 10000
+A
+18 2
+A
+19 1
+A
+3 -2
+#16321
+obj bird corpse~
+100
+the bird~
+*gasp* Someone gave you the bird!~
+~
+13 0 0 1
+0 0 10 0
+1 5 5
+#16322
+obj crown hairy mane~
+40
+a hairy crown~
+A furry mane lies here on the ground.~
+~
+9 1048576 0 17
+15 0 0 0
+5 50000 14000
+A
+12 20
+A
+3 2
+A
+2 -2
+#16323
+obj hide shield~
+30
+a hide shield~
+A shield made of hide is here.~
+~
+9 2097152 0 513
+20 0 0 0
+15 100000 22000
+A
+1 2
+A
+18 2
+A
+13 20
+#16324
+obj ant hide~
+30
+the ant hide~
+Some tough looking ant hide has been left here.~
+~
+9 1077248 0 9
+15 0 0 0
+15 60000 25000
+A
+2 -4
+A
+19 2
+A
+1 3
+#16325
+obj fruit~
+10
+some fruit~
+Some fruit is here on the ground.~
+~
+19 0 0 1
+3 0 10 0
+1 10 10
+#16326
+obj pollen~
+10
+some pollen~
+Some pollen lies here.~
+~
+19 0 0 1
+4 0 10 0
+1 5 5
+#16327
+obj bananna~
+10
+a bananna~
+A bananna lies here.~
+~
+19 0 0 1
+15 0 0 0
+1 5 5
+#16328
+obj berry~
+10
+a berry~
+A funny looking berry is on the ground.~
+~
+19 0 0 1
+2 1 10 0
+1 5 5
+#16329
+obj vial jungle juice~
+40
+a vial of jungle juice~
+A small vial of jungle juice sits here.~
+~
+10 262144 0 16385
+40 4 2 17
+1 5 5
+#16330
+obj pygmy basket~
+90
+a basket~
+A pygmy basket is lying here.~
+~
+15 0 0 16385
+70 1 10 0
+20 5 5
+#16331
+obj box jewlery~
+1
+a jewlery box~
+The Princess's jewelry box sits here.~
+~
+15 8 0 0
+1000 15 16332 0
+200000 5 5
+#16332
+obj tiny little key~
+2
+a tiny key~
+A tiny key has been dropped here.~
+~
+18 262152 0 1
+16331 0 0 0
+1 5 10000000
+#16333
+obj water pond~
+1
+A small pond~
+A small pond is here.~
+~
+17 8 0 0
+1000000 1000000 0 0
+100000 5 5
+#16334
+obj torch tubikki~
+80
+a tubikki torch~
+A Tubikki torch has been left standing here.~
+~
+1 1048576 0 65537
+0 0 100 0
+4 8000 6000
+A
+32 -1
+A
+26 -1
+A
+12 20
+#16335
+obj tubikki canoe~
+50
+a tubikki canoe~
+A tubikki canoe has been left here.~
+~
+22 0 0 1
+0 0 10 0
+19 3000 1000
+#16336
+obj ring vine amazon~
+40
+a vine ring~
+A vine ring has been left here.~
+~
+9 524292 0 3
+5 0 0 0
+1 50000 20000
+A
+19 1
+A
+24 -1
+A
+1 -2
+#16337
+obj snake skin boots~
+50
+some snake skin boots~
+Some good looking boots have been left here.~
+~
+9 1048576 0 65
+15 0 0 0
+4 40000 12000
+A
+18 -1
+A
+14 40
+A
+37 -1
+A
+13 -10
+#16338
+obj twine belt~
+20
+a twine belt~
+Some stupid pigmy left his belt here.~
+~
+9 524288 0 2049
+5 0 0 0
+4 10000 12000
+A
+19 1
+#16339
+obj pygmy gloves~
+50
+some pygmy gloves~
+A pair of pygmy gloves have been left here.~
+~
+9 524288 0 129
+5 0 0 0
+2 8000 9000
+A
+19 1
+#16340
+obj sign wooden small~
+1
+sign~
+A small wooden sign draws your attention.~
+~
+16 262152 0 0
+0 0 10 0
+1000000 5 5
+E
+new~
+Warning all ye who dare tread here.  This place is dangerous and
+very scary be sure of thy self all ye who enter.
+
+
+
+In other words Level 15 and up please.... :)
+~
+E
+sign~
+Warning all ye who dare tread here.  This place is dangerous and
+very scary be sure of thy self all ye who enter.
+
+
+
+
+In other words Level 15 and up please.... :)
+~
+#16341
+obj yo yo-yo glow glowing~
+1
+Glow-in-the-Dark Yo-Yo~
+A small wooden sign draws your attention.~
+~
+1 4194304 0 81985
+2 1 100000000 0
+1 5 1000000
+#16342
+obj air jordans shoes~
+1
+Air Jordans~
+Some kewl Air Jordans lie here on the ground.~
+~
+11 4194304 0 65601
+0 0 10 0
+1 5 5
+#16343
+obj belt bronco buckle~
+1
+Huge Bronco Buckle~
+Someone left a huge belt buckle here.~
+~
+11 4194304 0 2049
+0 0 10 0
+1 5 5
+#16344
+obj watch indiglo~
+1
+Indiglo Watch~
+A glowing watch is here.~
+~
+11 4194305 0 4097
+0 0 10 0
+1 5 5
+#16345
+obj cane crystal~
+1
+Crystal Cane~
+A clear cane lies here.~
+~
+11 4194306 0 8193
+0 0 10 0
+1 5 5
+#16346
+obj magazine playgirl~
+1
+playgirl~
+a magazine lies here. (HOLD ME)~
+~
+11 0 0 1
+0 0 10 0
+1 5 5
+#16347
+obj neck brace neckbrace~
+1
+neckbrace~
+Someone left their neckbrace here.~
+~
+11 0 0 5
+0 0 10 0
+1 5 5
+#16348
+obj amazon maze map~
+1
+the amazon maze map~
+The maze map lies here...please leave it and dont trash.~
+~
+16 0 0 16385
+0 0 10 0
+1 1 100000000
+#16349
+obj gold coin mountain coins~
+1
+A mountain of gold coins~
+You see nothing special.~
+~
+20 8 0 1
+40000 0 0 0
+1 5 5
+#16350
+obj torch~
+0
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+$~
+#999999

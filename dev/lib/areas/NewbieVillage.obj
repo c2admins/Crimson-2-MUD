@@ -1,0 +1,634 @@
+#8000
+obj knife sharp~
+100
+a sharp knife~
+A sharp knife glints in the sun.~
+~
+5 0 0 8193
+0 1 4 11
+1 10 3
+#8001
+obj horseshoe~
+35
+&wa &Khor&wses&Who&we&n~
+A large, heavy horseshoe is partially obscured by dirt.~
+~
+5 0 0 8193
+0 5 5 7
+5 5 3
+A
+19 1
+A
+18 1
+#8002
+obj bow longbow rowan-wood~
+100
+a rowan-wood longbow~
+A longbow made of rowan-wood gleams in the light.~
+~
+5 0 0 8193
+0 2 8 8
+5 200 120
+#8003
+obj hole ground~
+100
+a hole~
+There is a freshly dug hole in the ground here.~
+~
+15 0 0 0
+10000 1 10 0
+1000 0 -1
+#8004
+obj ring rose metal~
+70
+&wa &Km&we&Wt&wa&Kl &rr&Ros&re &wri&Kng&n~
+A metal ring carefully shaped into a rose shines in the light.~
+~
+9 0 0 3
+5 0 0 0
+1 150 50
+A
+19 1
+A
+5 1
+A
+13 10
+#8005
+obj herbs some~
+100
+so&Gm&ge h&Ge&grbs&n~
+Some herbs lie here, waiting to be made into a potion.~
+~
+10 0 0 16385
+10 38 0 0
+1 100 30
+#8006
+obj potion dark brown~
+100
+&wa &ydark b&Yr&yown&w potion&n~
+A dark brown potion sits here waiting to be used.~
+~
+10 0 0 16385
+10 39 0 0
+3 200 200
+#8007
+obj potion green~
+100
+&wa &ggr&Ge&gen &wpotion&n ~
+A green potions sits here waiting to be used.~
+~
+10 0 0 16385
+10 38 0 0
+3 100 30
+#8008
+obj hoe old~
+10
+&Kan &yol&Kd&y h&wo&Ke&n~
+An old hoe lies here on the ground..better watch where you step.~
+~
+5 0 0 8193
+0 2 3 3
+6 100 50
+A
+19 1
+#8009
+obj scythe sharp~
+80
+&wa sh&Wa&wrp &ws&Kc&wy&Wt&wh&Ke&n~
+A very sharp scythe glints in the sun.~
+~
+5 0 0 8193
+0 2 4 3
+6 175 80
+A
+19 1
+A
+18 1
+#8010
+obj hammer heavy blacksmith~
+100
+&Ka he&wa&Kvy ha&wm&Wm&we&Kr&n~
+A heavy blacksmith's hammer lies here.~
+~
+5 0 0 8193
+0 3 3 7
+10 180 85
+A
+18 3
+#8011
+obj axe light~
+100
+&wa &Wli&wg&Wht &wa&Kx&we&n~
+A light axe leans against a wall here.~
+~
+5 0 0 8193
+0 3 2 3
+4 100 50
+A
+19 1
+A
+2 1
+#8012
+obj chisel metal~
+100
+&Ka me&wt&Wa&wl &Kch&wi&Ksel&n~
+A thick metal chisel lies in the dust.~
+~
+5 0 0 8193
+0 2 2 11
+3 45 8
+#8013
+obj pouch leather money~
+100
+&ya leather money pouch&n~
+A leather money pouch lies in the dust.~
+~
+15 0 0 2049
+50 1 0 0
+1 700 7
+A
+3 2
+A
+6 2
+#8014
+obj fruit ripe~
+100
+some ripe fruit~
+Some ripe fruit tempts you to eat it.~
+~
+19 0 0 16385
+5 0 10 0
+2 10 8
+#8015
+obj some vegetables~
+100
+some vegetables~
+Some vegetables peek out from the ground here.~
+~
+19 0 0 16385
+5 0 0 0
+2 10 8
+#8016
+obj basket bushel~
+100
+&ga bu&Gs&ghe&Gl&y basket&n~
+A bushel basket lies here in the grass.~
+~
+15 0 0 16385
+20 0 10 0
+3 10 8
+#8017
+obj venison~
+100
+some venison~
+Some venison lies here ready to eat.~
+~
+19 0 0 16385
+14 0 10 0
+3 75 10
+#8018
+obj beef juicy~
+100
+some juicy beef~
+Some juicy beef tempts you with its smell.~
+~
+19 0 0 16385
+12 0 10 0
+3 50 10
+#8019
+obj ham hunk~
+100
+a hunk of ham~
+A hunk of ham wishes it were a pig again.~
+~
+19 0 0 16385
+12 0 10 0
+3 50 10
+#8020
+obj arrows brown bunch~
+100
+a bunch of brown arrows~
+A bunch of brown arrows are bundled together here.~
+~
+7 0 0 16385
+0 0 10 0
+3 400 50
+A
+13 3
+#8021
+obj knife hunting sharp~
+50
+&ya &gh&Gu&gn&yt&Ki&yn&gg &Kk&wn&Wi&wf&Ke&n~
+You barely detect a camouflaged hunting knife lying before you.~
+~
+5 0 0 8193
+16384 3 4 11
+3 70 30
+A
+19 2
+A
+18 1
+A
+37 -1
+#8022
+obj vase narrow clay~
+100
+&ya clay vase&n~
+A narrow clay vase with strange patterns sits here.~
+~
+15 32 0 16385
+10 0 10 0
+5 15 10
+#8023
+obj whip animal long~
+100
+&yan animal whip&n~
+A long, braided animal whip lies in the dirt.~
+~
+5 0 0 8193
+16384 1 7 2
+2 80 40
+#8024
+obj jewel amber~
+100
+&Ya&yn &yamb&Ye&yr &yj&Ye&yw&Ye&yl&n~
+A inticately cut amber jewel glows warmly here.~
+~
+1 0 0 65537
+0 0 30 0
+1 90 50
+A
+33 -1
+A
+26 -1
+#8025
+obj shirt homespun~
+100
+&Wa &whom&We&wspun shi&Wr&wt&n~
+A homespun shirt lies here getting dirty.~
+~
+9 65536 0 9
+1 0 10 0
+2 10 8
+A
+5 1
+#8026
+obj pants field~
+20
+&yfield pants&n~
+Some pants made for agricultural work lie here getting dirty.~
+~
+9 0 0 524321
+0 0 0 0
+2 20 15
+A
+2 1
+A
+14 10
+#8027
+obj beer tall mug~
+100
+a tall beer mug~
+A tall beer mug sits here.~
+~
+17 0 0 16385
+4 4 1 0
+2 8 5
+#8028
+obj coin gold~
+100
+&Ya go&yl&Yd co&yi&Yn&n~
+Someone has dropped a gold coin in the dirt here.~
+~
+20 0 0 1
+1 0 10 0
+0 1 0
+#8029
+obj boots work pair~
+100
+&Ka pair of &ywork boots&n~
+A pair of old work boots sag in a corner.~
+~
+9 64 0 65
+5 0 10 0
+2 35 20
+A
+14 10
+A
+2 1
+#8030
+obj statue goddess small~
+100
+a small statue~
+A small statue of a beautiful goddess stands in the corner.~
+~
+15 0 0 0
+100 1 8031 0
+50 0 0
+#8031
+obj key metal small~
+2
+a small, metal key~
+A small, metal key lies here.~
+~
+18 262152 0 16385
+8031 0 10 0
+1 5 -1
+#8032
+obj ledger blank~
+100
+a ledger~
+A blank ledger lies here covered with dust.~
+~
+16 134217728 1024 16385
+0 0 10 0
+1 20 10
+#8033
+obj quill magic~
+100
+a magic quill~
+A magic quill that never runs out of ink lies here.~
+~
+21 64 0 16385
+0 0 10 0
+1 30 15
+#8034
+obj desk small worn~
+100
+&ya desk&n~
+A small, worn desk leans against one wall.~
+~
+15 0 0 0
+100 1 8031 0
+50 5 5
+#8035
+obj gloves calfskin pair~
+100
+&Ka pair of calfskin gloves&n~
+A pair of calfskin gloves lie here.~
+~
+9 0 0 129
+1 0 0 0
+1 20 15
+A
+6 1
+A
+37 -1
+#8036
+obj gem crimson~
+100
+&Ra &rc&Rri&rmso&Rn &rg&Re&rm&n~
+A crimson gem sparkles in the sunlight.~
+~
+8 64 0 16385
+0 0 10 0
+1 4000 1000
+A
+4 1
+A
+3 1
+A
+1 1
+A
+5 1
+#8037
+obj rose wood~
+5
+&wa &Wwh&wi&Wte &Wr&wos&We&n~
+A rose carefully carved from a piece of white wood lies here.~
+~
+13 0 0 16385
+0 0 10 0
+0 0 0
+A
+6 2
+A
+20 -2
+A
+27 -1
+#8038
+obj wardrobe dark carved~
+100
+a wardrobe~
+A dark carved wooden wardrobe stands here.~
+~
+15 0 0 0
+100 1 10 0
+1 5 5
+#8039
+obj beer tall mug cheap~
+100
+a tall beer mug~
+A tall beer mug sits here.~
+~
+17 0 0 16385
+4 4 1 0
+2 7 5
+#8040
+obj barrel newbie village~
+100
+a wooden barrel~
+A wooden barrel is sitting here.~
+~
+17 0 0 1
+50 0 0 0
+65 250 100
+#8041
+obj charm wooden~
+100
+&ya wooden charm&n~
+A small wooden charm is lying here.~
+~
+9 0 0 5
+6 0 10 0
+1 250 25
+A
+3 1
+A
+24 -1
+#8042
+obj boat small~
+1
+a small boat~
+A small boat has been left here.~
+~
+22 0 0 1
+0 0 10 0
+45 750 1500
+#8043
+obj crate wooden box~
+100
+a wooden crate~
+A wooden crate has been left here.~
+~
+15 0 0 1
+35 0 10 0
+7 15 5
+#8044
+obj split blade shortsword~
+20
+&Ksp&wli&Wt b&wla&Kde&n~
+A short sword with twin blades is stabbed into the ground.~
+~
+5 0 0 8193
+0 4 4 11
+1 1000 100
+E
+split blade~
+This is a very interesting weapon.  The blade appears to be split down the middle,
+giving it a "twin blade" appearance.  The hilt seems to have a gear etched into it.
+~
+A
+19 3
+A
+18 5
+A
+37 -1
+#8045
+obj wand coma zzz~
+40
+&Ka &Cw&can&Cd &Kcalled &w"&KCo&wm&Ka&w"&n~
+A wand for novice magicians lies here.~
+~
+3 0 0 16385
+30 25 25 38
+1 5 5
+A
+3 1
+A
+4 1
+#8046
+obj gloves healer green~
+30
+&Gg&gre&Ge&gn &Khealer's gloves&n~
+Traditional green healer's gloves lie in a neat heap.~
+~
+9 0 0 129
+0 0 0 0
+1 5 5
+A
+37 -1
+A
+5 1
+#8047
+obj axe rune searinox~
+5
+&Kthe runed axe &w"&rSe&Ra&Yr&Yi&Rn&rox&w"&n~
+A large runed axe lies here smoldering.~
+~
+5 555072 31744 24577
+65536 1 1 3
+1 8000 80
+E
+axe searinox~
+Among the runes of this axe you discover a gear etched on
+the handle near the head.  You are not sure if it is the
+magical nature of the axe itself or this rune in particular,
+but for the size of this weapon, it is awfully light-weight.
+
+~
+#8048
+obj mace rune doomhammer~
+5
+&Kthe runed mace &w"&cD&Coo&cm&wH&Wam&wm&Wer&w"&n~
+A large runed mace lies here emitting frost.~
+~
+5 555072 31744 24577
+131072 1 1 6
+1 8000 80
+E
+mace hammer doomhammer~
+Among the runes of this mace you discover a gear etched on
+the top surface of the head.  You are not sure if it is the
+magical nature of the mace itself or this rune in particular,
+but for the size of this weapon, it is awfully light-weight.
+
+~
+#8049
+obj orb spider silk~
+10
+&wa sp&Wi&wd&We&wr si&Wl&wk &Wo&wr&Wb&n~
+A torch is lying here.~
+~
+1 524288 0 65537
+0 0 0 0
+1 5 5
+A
+27 -1
+A
+18 2
+#8050
+obj eyes of a spider~
+20
+&Kthe &re&Rye&rs &Kof a sp&ri&Kd&re&Kr&n~
+A set of monstrous spider eyes lies on the ground in front of you.~
+~
+9 524288 0 17
+0 0 0 0
+1 1000 10
+A
+32 -1
+A
+26 -1
+A
+19 1
+A
+18 1
+#8051
+obj carapace spider shield~
+20
+&Ka sp&ri&Kd&re&Kr cara&wp&Kace&n~
+The protective plating of a large spider lies here on the ground.~
+~
+9 524288 0 513
+10 0 0 0
+1 5 5
+A
+19 1
+A
+18 1
+A
+20 -5
+#8052
+obj vial cure poison hm str~
+100
+&wa vial of &ppu&Pr&ppl&Pe&w liquid&n~
+A vial of a strange purple liquid has been dropped here.~
+~
+10 0 0 1
+30 43 75 39
+1 1000 10
+#8053
+obj wizard novice robe black~
+20
+&KA &cw&Ci&cza&Cr&cd nov&Ci&cce's &Kblack robe&n~
+A black pile of cloth lies here...it smells like ozone.~
+~
+15 40960 0 1025
+100 0 0 0
+1 1000 10
+A
+3 1
+A
+4 1
+A
+12 5
+A
+31 -1
+#8054
+obj ring rose metal~
+70
+&wa &Km&we&Wt&wa&Kl &rr&Ros&re &wri&Kng&n~
+A metal ring carefully shaped into a rose shines in the light.~
+~
+9 0 0 3
+5 0 0 0
+1 150 50
+A
+19 1
+A
+5 1
+A
+13 10
+$~
+#999999

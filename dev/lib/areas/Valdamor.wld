@@ -1,0 +1,327 @@
+#1800
+The beginning of the Valley of Valdamor.~
+You stand on a cliff, looking out over a huge valley. Strange noices reach your ears, but you can't see any signs of life in the forest that grows in the valley
+below.
+~
+14 0 0 41 99 5
+D5
+A path leads to the valley below.
+~
+~
+0 -1 1801
+S
+#1801
+Closer to the Valley.~
+It's getting warmer while you descent into the valley. The horrible sounds you 
+heard earlier on seems to have vanished into thin air.
+~
+14 268435456 536870912 41 99 5
+D5
+The beginning of a huge forest.
+~
+~
+0 -1 1803
+S
+#1802
+The birds nest.~
+You are in the nest of a couple of giant birds, looking down at their baby bird.
+~
+14 268435464 536870912 41 99 3
+D5
+You sit high in a tree looking down for possible food.
+~
+~
+0 -1 1801
+S
+#1803
+In front of the forest of Valdamor.~
+Surrounded by huge trees, it's impossible to see where the trail south is going.The shadows here are giving you an unpleasant feeling. You peer up to see if all
+is safe now.
+~
+14 268435456 536870912 41 99 3
+D2
+nothing but darkness.
+~
+~
+0 -1 1804
+D4
+A path leading up.
+~
+~
+0 -1 1801
+S
+#1804
+In the forest of Valdamor.~
+Noices of wildlife surround you, but because of the permanent darkness here, you
+can't see anything.
+~
+14 301989888 536870912 41 99 3
+D0
+Daylight appears to be coming from the north.
+~
+~
+0 -1 1803
+D1
+nothing but darkness.
+~
+~
+0 -1 1805
+D2
+nothing but darkness.
+~
+~
+0 -1 1806
+D3
+nothing but darkness.
+~
+~
+0 -1 1807
+S
+#1805
+In the forest of Valdamor.~
+Noices of wildlife surround you, but because of the permanent darkness here, youcan't see anything.
+~
+14 301989888 536870912 41 99 3
+D2
+nothing but darkness.
+~
+~
+0 -1 1808
+D3
+nothing but darkness.
+~
+~
+0 -1 1804
+S
+#1806
+In the forest of Valdamor.~
+Noices of wildlife surround you, but because of the permanent darkness here, youcan't see anything.
+~
+14 301989888 536870912 41 99 3
+D0
+nothing but darkness.
+~
+~
+0 -1 1804
+D1
+nothing but darkness.
+~
+~
+0 -1 1804
+S
+#1807
+In the forest of Valdamor.~
+Noices of wildlife surround you, but because of the permanent darkness here, youcan't see anything.
+~
+14 301989888 536870912 41 99 3
+D1
+nothing but darkness.
+~
+~
+0 -1 1804
+D2
+nothing but darkness.
+~
+~
+0 -1 1808
+D3
+nothing but darkness.
+~
+~
+0 -1 1809
+S
+#1808
+In the forest of Valdamor.~
+Noices of wildlife surround you, but because of the permanent darkness here, youcan't see anything.
+~
+14 301989888 536870912 41 99 3
+D0
+nothing but darkness.
+~
+~
+0 -1 1804
+D1
+an open place in the middle of the forest.
+~
+~
+0 -1 1810
+S
+#1809
+In the forest of Valdamor.~
+Noices of wildlife surround you, but because of the permanent darkness here, youcan't see anything.
+~
+14 301989888 536870912 41 99 3
+D0
+nothing but darkness.
+~
+~
+0 -1 1804
+D3
+nothing but darkness.
+~
+~
+0 -1 1807
+S
+#1810
+An open field.~
+You are amazed what beauty can lie within so much horror. A small pond with
+colorful flora and fauna lies in the middle of the field. A small river flowing from the east supplies the pond with its water.
+~
+14 268435456 0 41 99 2
+D1
+A small river.
+~
+~
+0 -1 1811
+D5
+Nothing special there...
+~
+~
+16 -1 1812
+S
+#1811
+On the bank of a small river.~
+You are standing on the bank of a small river, which seems to provide the pond
+with its water. It makes almost no sound, and the flora and fauna appear to be
+a lot darker than at the pond.
+~
+14 268435456 0 41 99 2
+D1
+A small river.
+~
+~
+0 -1 1817
+D3
+An open field.
+~
+~
+0 -1 1810
+S
+#1812
+In the pond.~
+You can see bright light coming from the bottom of the pond. Just when you want
+to go down futher, you spot some bubbles coming from down there.
+~
+14 268435456 536870912 41 99 8
+D4
+The surface of the pond.
+~
+~
+0 -1 1810
+D5
+There is light coming from down there.
+~
+~
+0 -1 1813
+S
+#1813
+At the bottom of the pond.~
+You see some bones in a corner of the pond. Distracted by it, you suddenly are aware of the fact that something is watching you from a small cell south...
+~
+14 268435456 536870912 41 99 8
+D2
+Two eyes stare at you from an underwater cell.
+~
+~
+0 -1 1814
+D4
+Aproaching the surface of the pond.
+~
+~
+0 -1 1812
+S
+#1814
+An underwater cell.~
+You are face in face with a horrifying beast. There is only one escape, but that
+appears to be locked. Looking at the beast, you notice a key in one of his claws. A saying comes up in your head... "Kill or be killed!"
+~
+14 268435456 536870912 41 99 8
+D4
+nothing special.
+~
+~
+0 -1 1815
+S
+#1815
+A dark cave.~
+You are standing in and old cave. There is a horrible smell coming from the
+north. Some kind of glow is coming from the ceiling... weird, but at least you
+can see something now.
+~
+14 268435464 536870912 41 99 0
+E
+ceiling~
+You see a small crack in the ceiling of the cave.
+~
+S
+#1816
+A mammals hideout.~
+You are standing in a small hole, dug right next to the pond. It's covered with
+mud and leaves and smells awful. Hundreds of little eyes stare at you from all
+corners...
+~
+14 268435464 0 1 99 3
+D4
+An open field.~
+An open field.~
+0 -1 1810
+S
+#1817
+On the bank of a small river.~
+You are standing on the bank of a small river, flowing gently through the forestof Valdamor. The river appears to be coming from the north, but the vegetation 
+blocks your way north.
+~
+14 268435456 0 41 99 2
+D1
+Into the dark forest of Valdamor
+~
+~
+16 -1 1818
+D3
+A small river.
+~
+~
+0 -1 1811
+S
+#1818
+In the forest of Valdamor.~
+You are back in the darkness of the forest. Sounds and a little light try to pentrate the darkness north of you. You wonder what is there...
+~
+14 268435456 536870912 41 99 3
+D0
+Darkness, but not complete darkness...
+~
+~
+0 -1 1819
+D3
+The bank of a small river.
+~
+~
+0 -1 1817
+S
+#1819
+In the forest of Valdamor.~
+The light and sounds you experience here are coming from either east or west... You aren't sure......
+~
+14 268435456 536870912 41 99 3
+D1
+You feel some heat, but what scares you more... You smell death.
+~
+~
+0 -1 1820
+D2
+You see nothing but darkness.
+~
+~
+0 -1 1818
+S
+#1820
+Center of the earth.~
+You slide into a crack in the ground! Trying to get back, you wound your hands... with no result. You slide furter and futher towards the center of the earth. Time has no meaning to you anymore, and soon it will be the same with your life.
+When you finally hit the lava you are somewhat releaved that you have stopped falling just before you incinerate into a cloud of gasses...
+You are DEAD!
+~
+14 268959746 536870912 41 99 3
+S
+$~
+#999999

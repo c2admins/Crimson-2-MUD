@@ -1,0 +1,1600 @@
+#2200
+The Beginning~
+You lick yourself
+~
+20 8 0 42 99 1
+S
+#2201
+The Tower Gates.~
+You are at the entrance to the tower, and up close can see it is quite
+filthy.  It looks as if it has been built by a race slightly taller and
+broader than humans, however a race not a meticulous either.
+The trees of the forest have grown right up to the edge of the building,
+and there are some plants creeping up the sides also.
+~
+20 1048584 0 1 99 1
+D0
+a large steel gate.  Beyond it is the foyer of the tower.
+~
+gates north~
+1 -1 2202
+D2
+You can see into the forest.
+~
+~
+0 -1 2288
+S
+#2202
+The Foyer.~
+This is the entrance foyer to the building.  The hallway continues to the
+north, and to the south there are the front gates.  You notice a grim painting
+on the wall.
+~
+20 1048584 0 1 99 1
+D0
+a long hallway.
+~
+~
+0 -1 2203
+D2
+you see the gate.
+~
+gates south~
+1 -1 2201
+E
+painting~
+This picture depicts the grisly death of a foolish human.  You hope you do
+not shar his fate.
+~
+S
+#2203
+Hallway.~
+This hallway seems to stretch on forever.  You notice a stairway in
+the distance.
+~
+20 1048584 0 1 99 1
+D0
+The hall continues.
+~
+~
+0 -1 2204
+D2
+you see the foyer.
+~
+~
+0 -1 2202
+S
+#2204
+Hallway.~
+You are in a long dirty looking hallway.  It does not seem to have been
+well cleaned in a long time.  There are two doors here, one on each wall, and
+they too look quite dirty.
+~
+20 1048584 0 1 99 1
+D0
+The hall continues.
+~
+~
+0 -1 2207
+D1
+a door.  You notice a sign.
+~
+door east~
+9 -1 2205
+D2
+The hall continues.
+~
+~
+0 -1 2203
+D3
+an oak door.  There is an inscription in it.
+~
+door west~
+9 -1 2206
+S
+#2205
+Nursery.~
+It looks like a tornado has been through here.  This is the room where the
+young draconians spend a lot of their time, and there are bones and other
+such 'toys' scattered everywhere.  A wooden door leads west, and a large stone
+door is set into the east wall.
+~
+20 1048584 0 1 99 1
+D1
+a large stone door.
+~
+door east stone~
+9 -1 2223
+D3
+the hallway.
+~
+door west~
+9 -1 2204
+S
+#2206
+Storage room.~
+This room is covered with dust, it looks as if no one has been here in ages.
+~
+20 1048584 0 1 99 1
+D1
+the hallway.
+~
+door east~
+9 -1 2204
+D5
+nothing special.
+~
+down~
+9 -1 2208
+S
+#2207
+End of the hallway.~
+You are at the end of a long hallway.  Their is a huge staircase that leads
+upwards, and the hallway stretches away south.
+~
+20 1048584 0 1 99 1
+D2
+The hall continues.
+~
+~
+0 -1 2204
+D4
+the second floor.
+~
+~
+0 -1 2210
+S
+#2208
+Old basement.~
+This room does not look as if anybody has been in here in years.  There are
+a number of boxes and cartons around, but everything is covered in huge 
+quantities of dust.  The room continues to the south.
+~
+20 1048584 0 1 99 1
+D2
+A large grey door.
+~
+~
+0 -1 2209
+D4
+the storage room.
+~
+door trap~
+9 -1 2206
+S
+#2209
+Old basement.~
+The basement turns here and it can be seen that it leads a short way north
+or a longway into the darkness west.  There are dozens of boxes and crates
+here buried under a thick layer of dust.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2208
+D3
+a ruby door!
+~
+~
+0 -1 2218
+S
+#2210
+Top of the staircase.~
+You are standing at the top of a huge staircase.  The corridor leads away to
+the south, although their is a window here through which you can see the 
+treetops of the forest outside.
+~
+20 1048584 0 1 99 1
+D2
+the court.
+~
+~
+0 -1 2211
+D5
+the first floor.
+~
+~
+0 -1 2207
+S
+#2211
+the Court.~
+You have entered a large court.  Their is a beaded doorway leading off to the
+east, and the large open court continues south.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2210
+D1
+a wooden door.
+~
+~
+0 -1 2212
+D2
+the court.
+~
+~
+0 -1 2213
+S
+#2212
+Hall O' Pleasure.~
+This is a finely decorated room copared to the others, although it is still
+a little scruffy.  Their are a number of bean bags all around the room and
+a huge bed against one wall.
+~
+20 1048584 0 1 99 1
+D3
+the court.
+~
+~
+0 -1 2211
+S
+#2213
+The Court.~
+You are in the middle of the Royal Court.  To the south of here you can see
+the throne.
+~
+20 1048584 0 1 99 1
+D0
+the court.
+~
+~
+0 -1 2211
+D1
+a black door.
+~
+door east~
+9 -1 2214
+D2
+the court.
+~
+~
+0 -1 2216
+D3
+a white door.
+~
+door west~
+9 -1 2215
+S
+#2214
+The library.~
+You have entered a large room, the walls of which are covered by huge 
+racks full of books.
+~
+20 1048584 0 1 99 1
+D3
+the court.
+~
+door west~
+9 -1 2213
+S
+#2215
+The Sanctum.~
+This small room is modestly decorated with small dragon icons, which also
+serve to conceal some of the dirt.  This room is otherwise quite bare.
+~
+20 1048584 0 1 99 1
+D1
+the court.
+~
+door east~
+9 -1 2213
+S
+#2216
+The court ends.~
+You are standing near the throne of the King of Draconia.  The throne itself
+looks to be a fairly lavish affair, either made from, of plated with gold.
+Their is a door to the east and the court continues north of here.
+~
+20 1048584 0 1 99 1
+D0
+the court.
+~
+~
+0 -1 2213
+D1
+a private chamber.
+~
+door east~
+9 -1 2217
+S
+#2217
+The bedroom.~
+This is the bedroom of the Draconian King.  Their is a large bed in the
+centre, and a small window overlooking the coastline outside.
+~
+20 1048584 0 1 99 1
+D3
+the court.
+~
+door west~
+9 -1 2216
+S
+#2218
+Old basement.~
+You are standing in a long basement, that smells of reptile somewhat.  There
+are dozens of boxes and crates littered around, and you wonder what could
+be causing the smell.
+~
+20 1048584 0 1 99 1
+D1
+the treasure vault.
+~
+~
+0 -1 2209
+D3
+the crypt.
+~
+~
+0 -1 2219
+S
+#2219
+In the old basement.~
+You are in a long, large room that continues east and west.  There are 
+dozens of boxes and crates here, covered in dust.
+~
+20 1048584 0 1 99 1
+D1
+the entrance.
+~
+~
+0 -1 2218
+D3
+nothing special.
+~
+~
+0 -1 2222
+S
+#2220
+In a cave.~
+You are in a short but very smelly cave.  Judging from the bedding on the 
+floor, it looks like something lives in this cave.
+~
+20 1048584 0 1 99 1
+D2
+the cave opening.
+~
+~
+0 -1 2235
+S
+#2221
+Inside a cave.~
+You are inside this large, but shallow cave.  It has been gouged from the 
+rock by the wind by the looks of it, and a number of small rocks and 
+boulders lie scattered around here.
+~
+20 806354956 536870912 1 99 1
+D0
+You can see the cave opening.
+~
+~
+0 -1 2241
+S
+#2222
+End of the old basement.~
+This is the end of the disused basement.  The basement continues west into 
+the darkness, but their is a large hole here in the west wall that leads
+outside onto the hill.  Their is also a large boulder here, and you guess
+that is what caused the hole.
+~
+20 1048584 0 1 99 1
+D1
+the crypt.
+~
+~
+0 -1 2219
+D3
+nothing special.
+~
+~
+0 -1 2232
+S
+#2223
+Entrance to the Great Hall.~
+You have entered a huge hall.  It has been carefully decorated with 
+beautiful tapestries depicting a great battle between dragons and men.  The
+dragons appear to be the victors.
+~
+20 1048584 0 1 99 1
+D1
+The hall continues.
+~
+~
+0 -1 2224
+D3
+the nursery.
+~
+door west stone~
+9 -1 2205
+S
+#2224
+The Great Hall.~
+You are working your way down the hall.  To the north, you notice a smaller
+passageway, while the main hall continues to the east.
+~
+20 1048584 0 1 99 1
+D0
+a narrow passsageway.
+~
+~
+0 -1 2225
+D1
+the hall.
+~
+~
+0 -1 2229
+D3
+the hall.
+~
+~
+0 -1 2223
+S
+#2225
+The small cave.~
+This small cave leads away from the Great Hall into the darkness.  The ground
+is covered in dirt, and by the looks of the rocky walls, you guess this must
+tunneling straight into the side of the mountain.
+~
+20 1048584 0 1 99 1
+D0
+a large lair.  It looks dangerous.
+~
+~
+0 -1 2226
+D2
+the great hall.
+~
+~
+0 -1 2224
+S
+#2226
+End of a small cave.~
+This small caveway seems to end oddly here.  The floor is covered in dirt and
+the walls are carved from the rock.  On closer inspection you think you can
+see the edges of a trapdoor on the floor.
+~
+20 1048584 0 1 99 1
+D2
+The narrow passageway.
+~
+~
+0 -1 2225
+D5
+a trap door.
+~
+trapdoor~
+9 -1 2227
+S
+#2227
+Underground tunnel.~
+You are in a rocky tunnel that leads away into the darkness.  There is a
+wooden trapdoor quite visibly set into the roof above you.
+~
+20 1048584 0 1 99 1
+D0
+the tunnel.
+~
+~
+0 -1 2228
+D4
+the red dragon's lair.
+~
+trapdoor~
+9 -1 2226
+S
+#2228
+Underground tunnel.~
+The tunnel ends rather abruptly here, and it looks like it has been abandoned
+a long way from completion.  There are fixings in the wall here to chain
+prisoners too.
+~
+20 1048584 0 1 99 1
+D2
+the tunnel.
+~
+~
+0 -1 2227
+S
+#2229
+The Great Hall ends.~
+You have come to the end of the great hall.  You see before you a huge
+golden door, it must be at least twenty feet tall!  It has beautiful
+etchings of dragons.
+~
+20 1048584 0 1 99 1
+D1
+a great golden doorway.
+~
+door golden~
+9 -1 2230
+D3
+the hall.
+~
+~
+0 -1 2224
+S
+#2230
+Huge Dragon Temple.~
+This room is filled almost entirely with the huge altar fixed to the east
+wall.  The altar is intricately carved from gold, and depicts absolutely
+hundreds of dragons all over it's surface.  Some are very small whilst others
+huge.  This is truly a work of art.
+~
+20 1048584 0 1 99 1
+D3
+a great golden door.
+~
+door golden~
+9 -1 2229
+S
+#2231
+A vast cave.~
+This cave is very large, and it looks like something very large has made it
+it's home from the mess in here.  Most of the rocks and boulders have been
+cleared out of here, leaving the cave fairly smooth and clean.
+~
+20 1048584 0 1 99 1
+D2
+the top of the mountain.
+~
+~
+0 -1 2243
+S
+#2232
+Outside the tower.~
+You are standing at the base of the hill, on the outside of the tower.  Their
+is a large hole gouged into the side of the building, easily large enough for
+somebody to get through.
+~
+20 1048584 0 1 99 1
+D1
+The crypt.
+~
+~
+0 -1 2222
+D4
+The hillside leads up.
+~
+~
+0 -1 2233
+S
+#2233
+On the hillside.~
+You are on the hillside above the edge of a small tower.  The hillside
+wraps around smoothly south-west from here and you can see a small mountain
+rising up just south.  There are rocks and boulders scattered around here.
+~
+20 1048584 0 1 99 1
+D3
+nothing special.
+~
+~
+0 -1 2234
+D5
+The hillside leads down to the edge of the tower.
+~
+~
+0 -1 2232
+S
+#2234
+Along the side of the hill.~
+You are on a rocky hillside.  To the east the hill leads down towards a
+small tower, and to the far south you can see a mountain reaching into the
+sky.  There is a small cave opening north of here.
+~
+20 1048584 0 1 99 1
+D0
+A cave opening.
+~
+~
+0 -1 2235
+D1
+nothing special.
+~
+~
+0 -1 2233
+D3
+You can see the base of the mountain.
+~
+~
+0 -1 2236
+S
+#2235
+A cave opening.~
+You stand at the opening of a giant cave.  There are many bones strewn
+across the room.  Some human, some indistinguishable.  It smells very bad
+in here.  You can hear movement in the cave to the north.  The tunnel goes
+back to the south.
+~
+20 1048584 0 1 99 1
+D0
+The lair.
+~
+~
+0 -1 2220
+D2
+The tunnel.
+~
+~
+0 -1 2234
+S
+#2236
+Along the side of the hill.~
+You are standing on a small hillside thats overlooks a small tower to the
+east and leads towards a mountain south of here.  The forest stops at the 
+base of the hill, and this area is covered with boulders and rocks.
+~
+20 1048584 0 1 99 1
+D1
+It's a foothill.
+~
+~
+0 -1 2234
+D2
+~
+You can see a bridge.~
+0 -1 2237
+S
+#2237
+Along the side of the hill.~
+You are standing on the side of a hill.  To the far south you can see the
+hillside gently turns into mountainside and climbs further into the sky. 
+North-east of here there is a tower.
+~
+20 1048584 0 1 99 1
+D0
+The tunnel end.
+~
+~
+0 -1 2236
+D2
+A small opening.
+~
+~
+0 -1 2238
+S
+#2238
+Along the side of the hill.~
+You are standing on the side of a hill, which blends into a small mountain
+south of here.  To the east you can see a small path leading down into the
+forest.
+~
+20 1048584 0 1 99 1
+D0
+You can see a bridge.
+~
+~
+0 -1 2237
+D1
+The base of the mountain continues.
+~
+~
+0 -1 2244
+D2
+You can see a clearing.
+~
+~
+0 -1 2239
+S
+#2239
+At the foot of the mountain.~
+This is where the small hill slopes upward more and becomes a mountain. The
+shrubbery becomes more sparse and the rocks more common, although it looks
+fairly easy to climb up further.
+~
+20 1048584 0 1 99 1
+D0
+You can see a small clearing.
+~
+~
+0 -1 2238
+D4
+You can see a path.
+~
+~
+0 -1 2240
+E
+sign well~
+Danger!
+~
+S
+#2240
+On the mountainside.~
+This rough path leads up the side of the mountain.  Not far below you can see
+the mountain's slope becomes more shallow and it returns to being a foothill.
+Further on the hill ends at the edge of a forest.  There are lots of rocks
+and boulders around here.
+~
+20 806354952 536870912 1 99 1
+D3
+You can see a cave opening.
+~
+~
+0 -1 2241
+D4
+The path continues.
+~
+~
+0 -1 2242
+D5
+You can see a small clearing.
+~
+~
+0 -1 2239
+S
+#2241
+A cave opening.~
+You stand before a huge cave opening.  You can hear heavy breathing from
+within the cave.  There are a few skeletons lying about.  The cave lies to
+the south.  The path is to the east.
+~
+20 269484044 536870912 1 99 1
+D1
+You can see a pathway.
+~
+~
+0 -1 2240
+D2
+a lair.
+~
+~
+0 -1 2221
+S
+#2242
+On the mountainside.~
+What passes for a small path has one end here, leading away down toward it's
+other end.  The area becomes much more rocky and climbing up from here should
+be a little harder, although the summit of this small mountain is not far.
+~
+20 1048584 0 1 99 1
+D4
+You can see the top of the mountain.
+~
+~
+0 -1 2243
+D5
+The path continues.
+~
+~
+0 -1 2240
+S
+#2243
+The top of the mountain.~
+You are standing at the top of this mountain, and although it is a small
+one, you can see for miles in all directions.  East you can see out to
+sea, and the coastline tracing it's way north-south.  In all other
+directions you can see think forest blanketing the land.  There is a large
+cave opening north from here.
+~
+20 1048584 0 1 99 1
+D0
+a platinum door.
+~
+~
+0 -1 2231
+D5
+The path continues.
+~
+~
+0 -1 2242
+S
+#2244
+On the base of the hill.~
+You are standing on the foot of a small hill which rises up above the 
+surrounding forest.
+~
+20 1048584 0 1 99 1
+D1
+You can see into the forest.
+~
+~
+0 -1 2254
+D3
+The base of the mountain continues.
+~
+~
+0 -1 2238
+S
+#2245
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 2288
+D2
+nothing special.
+~
+~
+0 -1 2254
+S
+#2246
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 2247
+D3
+nothing special.
+~
+~
+0 -1 2288
+S
+#2247
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2250
+D1
+nothing special.
+~
+~
+0 -1 2248
+D3
+nothing special.
+~
+~
+0 -1 2246
+S
+#2248
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 2258
+D3
+nothing special.
+~
+~
+0 -1 2247
+S
+#2249
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2252
+S
+#2250
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+~
+~
+0 -1 13900
+D1
+nothing special.
+~
+~
+0 -1 2251
+D2
+nothing special.
+~
+~
+0 -1 2247
+S
+#2251
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 2252
+D3
+nothing special.
+~
+~
+0 -1 2250
+S
+#2252
+Forest.~
+You are at the end of a light forest.  A beach is to the east and you can
+see a small mountain climbing up above the tree-tops to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2253
+D1
+You can see a beach.
+~
+~
+0 -1 2282
+D2
+nothing special.
+~
+~
+0 -1 2249
+D3
+nothing special.
+~
+~
+0 -1 2251
+S
+#2253
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 2252
+S
+#2254
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2245
+D2
+nothing special.
+~
+~
+0 -1 2262
+D3
+It leads onto the base of the mountain.
+~
+~
+0 -1 2244
+S
+#2255
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2288
+D1
+nothing special.
+~
+~
+0 -1 2256
+S
+#2256
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D3
+nothing special.
+~
+~
+0 -1 2255
+S
+#2257
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 2258
+D2
+nothing special.
+~
+~
+0 -1 2265
+S
+#2258
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2248
+D2
+nothing special.
+~
+~
+0 -1 2266
+D3
+nothing special.
+~
+~
+0 -1 2257
+S
+#2259
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 2260
+D2
+nothing special.
+~
+~
+0 -1 2267
+S
+#2260
+Forest.~
+You are at the edge of a light forest.  A beach is to the east and you can
+see a small mountain climbing up above the tree-tops to the north-west.
+~
+20 1048584 0 1 99 1
+D1
+You can see a beach.
+~
+~
+0 -1 2285
+D3
+nothing special.
+~
+~
+0 -1 2259
+S
+#2261
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 2262
+D2
+nothing special.
+~
+~
+0 -1 2268
+S
+#2262
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2254
+D1
+nothing special.
+~
+~
+0 -1 2263
+D3
+nothing special.
+~
+~
+0 -1 2261
+S
+#2263
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 2264
+D2
+nothing special.
+~
+~
+0 -1 2270
+D3
+nothing special.
+~
+~
+0 -1 2262
+S
+#2264
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 2271
+D3
+nothing special.
+~
+~
+0 -1 2263
+S
+#2265
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2257
+S
+#2266
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2258
+D1
+nothing special.
+~
+~
+0 -1 2267
+D3
+nothing special.
+~
+~
+0 -1 2271
+S
+#2267
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2259
+D3
+nothing special.
+~
+~
+0 -1 2266
+S
+#2268
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2261
+D1
+nothing special.
+~
+~
+0 -1 2269
+S
+#2269
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 2273
+D3
+nothing special.
+~
+~
+0 -1 2268
+S
+#2270
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2263
+D2
+nothing special.
+~
+~
+0 -1 2274
+S
+#2271
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2264
+D1
+nothing special.
+~
+~
+0 -1 2266
+S
+#2272
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 2273
+D2
+nothing special.
+~
+~
+0 -1 2275
+S
+#2273
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2269
+D1
+nothing special.
+~
+~
+0 -1 2274
+D2
+nothing special.
+~
+~
+0 -1 2276
+D3
+you see nothing special.
+~
+~
+0 -1 2272
+S
+#2274
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+you see nothing special.
+~
+~
+0 -1 2270
+D3
+nothing special.
+~
+~
+0 -1 2273
+S
+#2275
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2272
+D1
+nothing special.
+~
+~
+0 -1 2276
+S
+#2276
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2273
+D1
+nothing special.
+~
+~
+0 -1 2277
+D3
+nothing special.
+~
+~
+0 -1 2275
+S
+#2277
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D2
+~
+You see nothing special.~
+0 -1 2278
+D3
+nothing special.
+~
+~
+0 -1 2276
+S
+#2278
+Forest.~
+You are in a light forest.  A small mountain climbs up above the tree-tops
+to the north-west.
+~
+20 1048584 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 2277
+D1
+nothing special.
+~
+~
+0 -1 2279
+S
+#2279
+Forest.~
+You on a trail through at the edge of a light forest.  The path ends here 
+and rejoins the main road to the south, and over the tree-tops to the 
+north you can see the top of a small mountain.
+~
+20 1048584 0 1 99 1
+D2
+The path emerges onto the main road.
+~
+~
+0 -1 3506
+D3
+nothing special.
+~
+~
+0 -1 2278
+S
+#2280
+On a beach.~
+You are standing on a cool sandy beach.  The ocean is to your east and a
+large forest to your west.  The beach stretches out in both directions.
+~
+20 1048584 0 1 99 1
+D2
+The beach continues.
+~
+~
+0 -1 2281
+S
+#2281
+On a beach.~
+You are standing on a cool sandy beach.  The ocean is to your east and a
+large forest to your west.  The beach stretches out in both directions.
+~
+20 1048584 0 1 99 1
+D0
+The beach continues.
+~
+~
+0 -1 2280
+D2
+The beach continues.
+~
+~
+0 -1 2282
+S
+#2282
+On a beach.~
+You are standing on a cool sandy beach.  An ocean is to your east, and an
+opening back into the forest is to your west.
+~
+20 1048584 0 1 99 1
+D0
+The beach continues.
+~
+~
+0 -1 2281
+D1
+The beach continues.
+~
+~
+0 -1 2283
+D3
+You can see into the forest.
+~
+~
+0 -1 2252
+S
+#2283
+On a beach.~
+You are standing on a cool sandy beach.  The ocean is to your east and a
+large forest to your west.  The beach stretches out in both directions.
+~
+20 1048584 0 1 99 1
+D2
+The beach continues.
+~
+~
+0 -1 2284
+D3
+The beach continues.
+~
+~
+0 -1 2282
+S
+#2284
+On a beach.~
+You are standing on a cool sandy beach.  The ocean is to your east and a
+large forest to your west.  The beach stretches out in both directions.
+~
+20 1048584 0 1 99 1
+D0
+The beach continues.
+~
+~
+0 -1 2283
+D2
+The beach stretches away into the distance.
+~
+~
+0 -1 2285
+S
+#2285
+On a beach.~
+You are standing on a cool sandy beach.  An ocean is to your east, and an
+opening back into the forest is to your west.
+~
+20 1048584 0 1 99 1
+D0
+The beach continues.
+~
+~
+0 -1 2284
+D1
+The beach continues.
+~
+~
+0 -1 2286
+D3
+You can see into the forest.
+~
+~
+0 -1 2260
+S
+#2286
+On a beach.~
+You are standing on a cool sandy beach.  The ocean is to your east and a
+large forest to your west.  The beach stretches out in both directions.
+~
+20 1048584 0 1 99 1
+D2
+The beach continues.
+~
+~
+0 -1 2287
+D3
+The beach continues.
+~
+~
+0 -1 2285
+S
+#2287
+On a beach.~
+You are standing on a cool sandy beach.  The ocean is to your east and a
+large forest to your west.  The beach stretches out in both directions.
+~
+20 1048584 0 1 99 1
+D0
+The beach continues.
+~
+~
+0 -1 2286
+S
+#2288
+On a beach.~
+You are in light forest.  You can see a small tower north of here, built into
+the side of a mountain.
+~
+20 1048584 0 1 99 1
+D0
+You can see a tower.
+~
+~
+0 -1 2201
+D1
+nothing special.
+~
+~
+0 -1 2246
+D2
+nothing special.
+~
+~
+0 -1 2255
+D3
+nothing special.
+~
+~
+0 -1 2245
+S
+$~
+#999999

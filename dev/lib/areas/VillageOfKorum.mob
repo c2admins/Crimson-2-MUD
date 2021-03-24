@@ -1,0 +1,274 @@
+#12625
+mob dog~
+A small dog~
+A small dog is foraging for scraps.
+~
+This small dog is scrounging for food out here.  It seems
+to have taken to you.
+~
+72 1 136249361 0 0 S
+2 40 40 5d5+15 5d3+0
+225 60
+8 8 0
+0 0 16 17 15 16 12 11
+#12626
+mob villager~
+A local villager~
+A local villager is walking about here.
+~
+This is a local villager.  He seems to not have a care in th world.
+The villagers all roam about these lands in search of things to do.
+~
+72 1 136249361 0 0 S
+3 40 40 5d6+12 2d2+1
+265 100
+8 8 1
+0 0 17 16 15 14 13 14
+#12627
+mob korum frog~
+A frog~
+A frog playfully hops about.
+~
+This frog seems larger than your average breed of frog.  Some
+legends say that this frog carries with it a potion to heal.
+~
+72 1 136249361 0 0 S
+2 35 40 5d5+10 2d4+2
+225 50
+8 8 0
+0 0 16 15 14 16 15 13
+#12628
+mob bird korum~
+A small bird flies around here.~
+A small bird flies about you.
+~
+These little flying creatures add some poetry to thier home.  You
+can see they have very colorful wings and they seem to give out a 
+sense of peace.
+~
+8 1 136249361 0 0 S
+2 38 40 5d4+10 2d4+3
+100 60
+8 8 0
+0 0 17 17 16 16 15 12
+#12629
+mob Woody korum~
+Woody The Bartender~
+Woody the bartender stands here ready to serve.
+~
+This bartender is kind of a bumpkin.  He has a very slackjaw
+smile about him.  There is nothing in the world that could bring
+this small town boy down.
+~
+10 1 136249361 0 0 S
+10 27 31 10d10+50 4d3+3
+900 3100
+8 8 1
+0 0 17 18 14 16 14 13
+#12630
+mob cliff korum~
+Cliff~
+Cliff, a local of the bar is resting on his barstool.
+~
+This is a strange creature indeed.  He kind of reminds you of
+a bulky gnome.  This guy never seems to shut up and thinks he
+knows everything.  With a blank stare on his face you can tell
+he knows very little.
+~
+10 1 136249361 0 0 S
+10 28 33 10d10+75 5d2+7
+800 3100
+8 8 1
+0 0 16 15 14 14 15 13
+#12631
+mob norm korum~
+Norm~
+Norm, a patron of the local pub is standing here.
+~
+This very portly fellow goes by the name Norm.  Everyone in this 
+pub knows him by his chubby cheaks and his timely wit.  Strange
+as it may seem Norm has nothing better to do than hang out here.
+~
+10 1 136249361 0 0 S
+10 28 40 100d1+30 5d2+6
+850 3000
+8 8 1
+0 0 16 16 16 16 15 12
+#12632
+mob sam korum~
+Sam~
+Sam, the bar manager rests behind the counter.
+~
+This is Sam, he is a rather tall slender man who seems to run the
+day to day operations here.  He basicly keeps the regulars happy and
+protects this place with his flail he keeps behind the bar.
+~
+10 1 136249361 0 0 S
+20 26 31 10d10+100 5d3+4
+1200 4000
+8 8 1
+0 0 17 16 16 14 12 13
+#12633
+mob bellhop~
+A bellhop~
+A bellhop is here waiting to gather luggage.
+~
+The bellhop is a long honored tradition of many fine hotels.  This
+one for instance is wearing the robe of a bellhop all drapped in red
+and gold weave.  He is more than likely a dopey family member that
+couldn't get a real job about the village.
+~
+72 1 136249361 0 0 S
+9 28 35 5d5+40 5d1+3
+340 1500
+8 8 0
+0 0 17 16 16 16 13 12
+#12634
+mob hotel guest~
+A hotel guest~
+A hotel guest stands about waiting to be checked in.
+~
+This hotel guest is patently waiting about for someone to check them in.
+They seem to be admiring the building and the paintings that cover the 
+walls.
+~
+72 1 136249361 0 0 S
+9 29 40 10d2+50 5d2+2
+950 1000
+8 8 0
+0 0 15 17 16 16 13 14
+#12635
+mob john innkeeper~
+John, the inkeeper~
+John, the inkeeper stands here waiting for new guests.
+~
+This fellow stands but a few feet tall.  He wears an eye patch over one of his
+little pea sized eyes.  You feel that the gash below it may come from someone
+cutting it out.  However, this inkeeper doesn't seem to take crap from anyone.
+~
+74 1 136249361 0 0 S
+15 30 27 10d10+120 5d4+5
+3900 4500
+8 8 0
+0 0 16 18 14 14 14 14
+#12636
+mob korum mayor~
+The mayor of Korum~
+The mayor of Korum is standing here.
+~
+This portly fellow walks about town with a strange grin on his face.  You
+can see by his sausage sized fingers that this guy must spend his time
+in the bakery.
+~
+72 1 136249361 0 0 S
+20 20 23 100d20+200 5d10+20
+6500 60000
+8 8 0
+0 0 16 16 16 15 15 15
+#12637
+mob korum citizen~
+A citizen of Korum~
+A citizen of Korum is wandering about here.
+~
+These citizens wander about the lands of Korum, in search of something
+better to do.  In a small town such as this they tend to be bored alot
+of the time.  They are all very average people.
+~
+72 1 136249361 0 0 S
+3 37 40 4d4+15 2d3+2
+100 100
+8 8 0
+0 0 17 16 14 14 12 12
+#12638
+mob bruno blacksmith~
+Bruno the blacksmith~
+Bruno the blacksmith awaits customers here.
+~
+This rather strong guy has rather strong questions of his own
+sexuality.  He seems to have very large arms and a very small brain.
+However, if you want it Bruno can make it.  He forges steel and
+bronze for many people around the world.  He is the personal custom
+tailor for Carnage.
+~
+536872970 1 136249361 33554600 0 S
+48 -59 -40 100d100+1000000 100d100+0
+1000000 0
+8 8 0
+0 0 17 17 16 15 12 14
+#12639
+mob lonny~
+Lonny the baker~
+Lonny the baker stands here cooking up a storm.
+~
+Lonny is short for Yolanda, she is also a rather short woman.  However,
+this midgets food is known throughout the world as some of the best.
+King Adrian has even ordered food from her for his past five weddings,
+and past six funerals.  She seems to have very little time for people
+however, she can never refuse a new customer.
+~
+536872970 1 136249361 33554600 0 S
+48 -59 -40 100d1+1000000 100d100+0
+1000000 0
+8 8 0
+0 0 17 17 16 15 12 14
+#12640
+mob job korum~
+Job~
+Job is standing here waiting on you.
+~
+Job is a rather lanky fellow.  He seems to have a strong cologne
+smell about him.  You can see from his glare that he atracts alot
+of females here.  Most men feel a bit uneasy in here because he
+comes off as a little more than friendly with everyone he meets.
+~
+536872970 1 136249361 33554600 0 S
+48 -59 -40 100d1+1000000 100d100+0
+1000000 0
+8 8 0
+0 0 17 17 16 15 12 14
+#12641
+mob ilsa korum~
+Ilsa~
+Ilsa the shopkeeper stands here.
+~
+Ilsa is a strange one.  She is roughly fourty years old and thinks she
+is still twenty.  She has a very short skirt and a set of legs that
+seriously need a razor.  She is more of an herbal life medicine
+kind of gal than a witch but thats what everyone wants.
+~
+536872970 1 136249361 33554600 0 S
+48 -59 -40 100d1+1000000 100d100+0
+1000000 0
+8 8 0
+0 0 17 17 16 15 12 14
+#12642
+mob gate guard korum~
+A gate guard~
+A gate guard stands here looking for intruders.
+~
+This guard stands at attention scouting the surrounding areas for intruders.
+Their main goal is to keep the nearby snotlings from establishing a full
+scale batting side these walls.
+~
+74 1 136249361 0 0 S
+6 34 36 5d5+20 2d2+5
+1 180
+8 8 0
+0 0 17 16 14 14 15 12
+#12643
+mob korum bum~
+A bum~
+A bum is here begging for change.
+~
+There aren't many bums in these streets.  However, the few that are here
+are usually just con artists.  In this town very few people lack the
+skills to actually work and make an honest days living.  You might do
+the town some good by ridding it of him.
+~
+72 1 136249361 0 0 S
+5 35 40 5d4+20 4d1+3
+0 150
+8 8 0
+0 0 16 18 15 14 12 13
+$~
+#999999

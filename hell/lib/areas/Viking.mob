@@ -1,0 +1,289 @@
+#17400
+mob eagle huge~
+huge eagle~
+A huge eagle is here, ready to defend it's nest.
+~
+This is a beautifully large and vicious looking predator. She has a wingspan of
+almost eight or nine feet, and razor sharp claws. Her feathers are 
+immaculately maintained, and you wonder how something so fantastic could be
+such an efficient killer.
+~
+57354 1 136249361 33554432 0 S
+26 15 16 80d37+730 5d5+3
+18500 17375
+8 8 2
+0 0 12 11 11 9 10 10
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#17401
+mob Felngard blacksmith viking~
+Felngard the Blacksmith~
+Felngard the village Blacksmith is here going about his business.
+~
+Felngard looks very rough.  He is quite short for a viking, but very stocky
+and heavily built.  His face is covered in what look like battle scars but
+could easily be from his working with hot metals.  He beats the metal with an
+almost insane rage, and you wonder if perhaps he was once a berserker.
+~
+270346 1 136249361 0 0 S
+38 8 -10 100d45+2500 5d5+1
+85000 211000
+8 8 1
+1 4 20 18 11 11 10 6
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_TYPE=100
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_TYPE=100
+#17402
+mob norseman watchtower~
+a Norse barbarian~
+A rough looking Norseman is standing here on watchout.
+~
+You are looking at a rough, battle hardened Norseman about six feet tall.
+He has clearly spent his entire life in a very harsh climate, and his
+skin looks very thick and rough.
+~
+8202 1 136249361 0 0 S
+20 20 24 50d50+250 4d7+14
+4850 58400
+8 8 1
+1 4 17 10 9 9 16 8
+#17403
+mob barbarian viking norse~
+a Norse barbarian~
+A rough looking Norse barbarian is standing here.
+~
+You are looking at a rough, battle ready woman almost six feet tall, and well
+built. She is wearing the same garb as the rest of the Norsemen, and appears
+to be fighting with the same tenacity and enthusiasm as her male counterparts.
+~
+8200 1 136249361 0 0 S
+20 20 24 50d50+250 4d7+14
+4850 58500
+8 8 2
+1 4 16 13 11 11 15 9
+#17404
+mob villager viking woman~
+a villager~
+A norse villager is walking around here.
+~
+This aging Norse woman is happily going about her business, apparently 
+ignorant of the bitter cold.
+~
+8 1 136249361 0 0 S
+15 25 29 14d9+150 6d4+5
+3000 4600
+8 8 2
+1 4 11 13 11 11 10 7
+#17405
+mob barbarian viking norse~
+a Norse barbarian~
+A rough looking Norse barbarian is standing here.
+~
+You are looking at a rough, battle hardened Norseman about six feet tall.
+He has clearly spent his entire life in a very harsh climate, and his
+skin looks very thick and rough.
+~
+8200 1 136249361 0 0 S
+20 20 24 50d50+250 4d7+14
+4800 58500
+8 8 1
+1 4 17 12 9 9 16 10
+#17406
+mob berserker viking norse~
+a Norse berserker~
+A Norse berserker is here, foaming at the mouth.
+~
+This is one of the most dangerous and fearsome of all Norse...a berserker.
+He has totally lost himself in an insane rage, and is even frothing at the 
+mouth as he roars around, looking for another enemy to slay.
+~
+319496 1 136249361 0 0 S
+26 15 16 50d50+50 4d7+10
+18500 79000
+8 8 1
+1 4 18 12 11 9 17 8
+ATTACK_SKILL=75
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17407
+mob Chieftain viking norse~
+the Norse Chieftain~
+The Norse Chieftain is here enjoying his privelige.
+~
+The Chieftain is the most powerful of all the Norse.  Rising to power through
+combat, his huge form is covered with very tough skin that looks almost
+as if it would be impervious to a blade.
+~
+57354 1 136249361 0 0 S
+31 12 2 10d49+3400 3d11+2
+40000 186350
+8 8 1
+1 4 22 17 16 15 22 18
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_TYPE=100
+#17408
+mob Viking drunk norse~
+a drunken Norseman~
+A Norseman is here, looking for somebody to fight.
+~
+This is a rough...and very intoxicated looking viking. He has clearly 
+over-indulged in his companion's festivities and looks a little worse for
+the ware.  The scowl on his face says all he needs to say.
+~
+57352 1 136249361 0 0 S
+21 19 23 50d50+450 4d7+19
+7000 63600
+8 8 1
+1 4 18 11 9 11 22 8
+#17409
+mob dog big viking norse~
+a big Viking dog~
+A big Viking dog is standing here, snarling at you.
+~
+This is a vicious, snarling dog about four or five feet in length and looking
+very angry. It glares at you with hatred in it's eyes and you know it is about
+to attack.
+~
+16834568 1 136249361 0 0 S
+16 24 28 20d10+140 5d3+4
+3000 4755
+8 8 1
+0 0 11 12 11 11 8 10
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17410
+mob wench viking girl~
+a village wench~
+A frantic looking village wench is here, running around for the Norsemen.
+~
+She is a young, pretty girl and must not be older than sixteen years old.
+She is dressed in ragged working clothes, and is quite filthy.
+~
+136 1 136249361 0 0 S
+6 31 36 4d7+25 2d4+3
+335 190
+8 8 2
+1 2 11 13 9 9 10 7
+#17411
+mob fisherman viking~
+a Norse fisherman~
+A Norse fisherman is busy tending to his boat.
+~
+The fisherman is an aging Norseman with a bushy black beard that hides the
+lower half of his face.  His huge hands look as powerful as an ogre's, and
+it is clear the sea has made him powerful indeed.
+~
+8200 1 136249361 0 0 S
+23 17 21 70d50+150 3d6+19
+11500 70000
+8 8 1
+1 4 18 11 11 9 17 9
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17412
+mob Captain viking norse~
+a Norse Captain~
+A Captain of the Norsemen is standing here.
+~
+The Captain towers almost seven feet tall, and looks as solid as a tree.
+His black beard drapes over his chest and his hair is tied back in plaits,
+falling down over his shoulders.
+~
+270344 1 136249361 0 0 S
+27 15 14 50d49+1250 4d4+32
+25000 83000
+8 8 1
+1 4 20 10 16 9 17 16
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17413
+mob cook viking norse~
+a Viking cook~
+A viking cook is here, planning the next meal.
+~
+The viking cook is here. He looks just as rough as the others, covered in grime
+and covered in scars, but he has chosen to spend his time cooking for his
+fellows, rather than subjecting his enemies to slow lingering deaths.
+~
+8 1 136249361 0 0 S
+29 14 8 80d19+1600 5d7+30
+26000 86700
+8 8 1
+1 4 19 16 9 16 19 9
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17414
+mob dog wild~
+a wild dog~
+A large snarling dog is padding around here.
+~
+This vicious dog prowls around here looking for food.  It has a fearsome
+snarl on it's face, from which a little drool slops down onto the ground.
+~
+16834568 32769 136249361 33554432 0 S
+13 26 31 10d10+120 5d4+4
+800 4000
+8 8 0
+0 0 12 10 10 9 7 6
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17415
+mob villager viking man~
+a villager~
+One of the villagers is walking around here.
+~
+He is an aging Norseman who has grown too old to fight with the youngsters
+and is merely awaiting the time for him to take up his place in Valhalla.
+~
+8 1 136249361 0 0 S
+11 28 33 6d10+95 6d2+4
+920 3220
+8 8 1
+1 4 11 12 9 10 10 7
+#17416
+mob boar norse~
+a lean boar~
+A boar is here, grunting.
+~
+A short fat pig, it looks just about ready for slaughter.
+~
+16777224 1 136249361 0 0 S
+14 25 30 10d10+125 5d5+5
+1800 4100
+8 8 2
+0 0 12 12 11 11 7 10
+#17417
+mob blank DELETE ME~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+1 30 25 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 11 13 11 10 8 6
+$~
+#999999

@@ -1,0 +1,1848 @@
+#24900
+mob Leafer~
+&GL&We&Ga&Wf&Ge&Wr&n~
+a &GL&We&Ga&Wf&Ge&Wr&n is lounging in the &Ggrass&n
+~
+A giant, leafy, meat-eating bunny rabbit. His Incisors should 
+cure you of any urge to pet and cuddle him.
+~
+16777224 1 136249361 67108864 -600 S
+30 16 40 1d1+4000 5d5+20
+80000 200000
+8 8 0
+0 0 16 16 15 16 14 18
+SKILL=SPELL_CHILL_TOUCH 51
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#24901
+mob Darkwind~
+&bDa&Brk&Kwind&n~
+A &bDa&Brk&Kwind&n flies about
+~
+A species of crow that likes to dive at its enemies.
+~
+16777224 1 136249361 16448 -300 S
+30 16 35 1d1+4000 5d5+20
+80000 200000
+8 8 0
+0 0 17 17 16 17 14 12
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#24902
+mob Terra~
+&PT&ye&Pr&yr&Pa&n~
+&PT&ye&Pr&yr&Pa&n the &Whuman&n &resper&n stands before you.
+~
+A mysterious young woman born with the gift to use magic. Once 
+controlled by the empire, she was said to have incinerated 100 soldiers 
+in mere seconds.  Now siding with the returners she uses her magic to 
+banish evil and fight the evil deranged Kefka.  Terra is an 
+eighteen-year-old half human half esper with mint green hair, a red 
+dress with a purple sash around her waist, red boots, red wristbands 
+and purple shoulder-pads.  At first Terra is confused, fearful and 
+amnesiac. She is suspicious of anyone who wants access to her powers 
+and not fully knowing what those powers are adds to her wariness.  
+Once she learns her true past and comes to control her powers, she 
+turns her introspection to her humanity, a question that had troubled 
+her from the start.  She worries she cannot feel love and asks others 
+about their emotions to try and figure it out. This question becomes so 
+overwhelming she briefly loses her ability to fight, but in the end Terra 
+is courageous and resolves to fight and use her special abilities to make 
+the world a better place. 
+~
+16777242 32769 136249361 2097280 850 S
+40 6 0 1d1+7500 5d12+50
+200000 300000
+8 8 2
+0 0 24 22 22 22 24 25
+SKILL=SPELL_COLOUR_SPRAY 75
+SKILL=SPELL_FIREBALL 30
+SKILL=SPELL_SANCTUARY 98
+SKILL=SPELL_SHOCKING_GRASP 60
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SPELL_HEAL_MINOR 60
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#24903
+mob Umaro~
+&WU&wm&Wa&wr&Wo&n~
+&WU&wm&Wa&wr&Wo&n the &cabomin&Kable &Csnow&Rbeast&n blocks the exit.
+~
+Looming over you stands a giant 15 ft. ferocious yeti.  He has an
+admiration of bone-carvings, and strength of a god.  He is the master 
+of these mines, and is very unhappy to see intruders in his domain.  His 
+fur is a silky white color and its neatness seems to indicate regular 
+grooming.  Despite the ferocious nature of this beast, The Mog doesn't 
+seem to fear him though in fact Umaro is rendered completely docile by 
+the presence of the little moogle.
+~
+25165838 1 136249361 0 0 S
+40 6 40 1d1+12000 5d9+50
+200000 300000
+8 8 1
+23 0 29 12 12 15 25 14
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_SCALES 50
+SKILL=SKILL_SECOND 20
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#24904
+mob Mog~
+&WM&wo&Wg&n~
+&WM&wo&Wg&n is dancing for everyones amusement
+~
+Human-loving, fast-talking, street-smart, slam dancing moogle.   Mog 
+is a twelve-year-old moogle with the traditional moogle look: white fur, 
+cat-like ears, and little wings.  He is more intelligent than the other 
+moogles, and acts as their leader. He is the only moogle to speak the 
+human language, while the rest just say "Kupo" or variations of it. He 
+is bossy, uses loose speech and slang terms, and has the ability to 
+control Umaro.  Although not the king of moogles, he should be.
+~
+16777226 32769 136249361 0 500 S
+40 6 -10 1d1+8000 10d5+95
+200000 300000
+8 8 1
+0 0 23 17 15 25 13 11
+SKILL=SPELL_FIREBALL 45
+SKILL=SPELL_LIGHTNING_BOLT 65
+SKILL=SPELL_MAGIC_MISSILE 65
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#24905
+mob Elder~
+the &wEld&Ker&n~
+The &K&wEld&Ker&n of &WNa&wrs&Whe&n sits contemplating his next move
+~
+"Narshe is a neutral city. We want no war here, but that @#$$% Empire won't listen! This old man 
+is full of passion for peace but alas has come to the realization that war has begun.   Despair fills 
+this old mans heart and he has a look of sorrow in his gentle eyes.  His grey hair is long but thinning.  
+Rather tall with broad shoulders for an oldman,  he wears a strange wardrobe and carries a walking 
+stick
+~
+10 1 136249361 2097280 1000 S
+31 15 38 1d1+4400 10d5+50
+84000 210000
+8 8 1
+1 1 18 22 22 3 20 22
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_LIGHTNING_BOLT 60
+SKILL=SPELL_HEAL_MINOR 60
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24906
+mob Tritoch~
+&YTri&ctoch&n~
+&YTri&ctoch&n the frozen esper looms before you
+~
+Tritoch is discovered encased in ice by miners in Narshe. He looks 
+like a large bird almost, and has the power to control the elements.  
+The Gestahlian Empire finds out about its existence, and 
+sends Terra, Biggs and Wedge to investigate. Narshe has proclaimed 
+itself neutral in the ongoing conflict between the Empire and 
+the Returners. In this case, they attempt to defend the esper against 
+the Empire when they come to take it.  Tritoch defeats Biggs and 
+Wedge, and communicates with Terra, releasing her from Imperial 
+control. In a later meeting, he releases Terra's inner power causing 
+her to transform into an esper and fly off.
+~
+16777242 32769 136249361 2113614 0 S
+41 5 -10 1d1+11000 10d10+50
+160000 400000
+8 8 1
+0 0 17 16 16 17 14 14
+SKILL=SPELL_BURNING_HANDS 75
+SKILL=SPELL_CHILL_TOUCH 75
+SKILL=SPELL_FIREBALL 40
+SKILL=SPELL_LIGHTNING_BOLT 75
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#24907
+mob King Edgar~
+&WKi&Cng&n &PEd&pgar&n~
+&WKi&Cng&n &PEd&pgar&n sits on his throne
+~
+He is a master engineer, which leads him to create odd and unusual 
+weapons, mostly as a hobby. Edgar often redecorates his room and is 
+flirtatious with women.  He is the king of Figaro Castle and brother to 
+Sabin. Ten years ago his parents were murdered and he became king at 
+the age of 12.  He's cunning and acts as a double-agent for the 
+Returners while pretending to be an Imperial ally. He advises the group 
+on strategy and tactics and is daring, as seen in the chocobo-mounted 
+escape from Figaro and castle dive.  He's committed to his 
+responsibilities towards his subjects, protecting them as best he can and 
+refusing to take items for free when shopkeepers offer.  Edgar wears 
+light blue armor, with white boots, and a long, blue cape, all with yellow 
+trim, to match the colors of the desert and sea. His eyes are a deep 
+blue, a sign of Figaro nobility. His hair is in a long ponytail, kept together 
+with two ribbons.  
+~
+266 32769 136249361 8 0 S
+40 6 0 1d1+10000 6d13+40
+200000 300000
+8 8 1
+0 0 20 18 18 14 20 11
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#24908
+mob Sandray~
+&YS&yan&Yd&Kray&n~
+A &YS&yan&Yd&Kray&n is hiding in the sands
+~
+Usually these hide under the sand, except when they come up to attack with their tail. 
+~
+16842760 1 136249361 1048578 0 S
+30 16 40 1d1+4000 5d5+20
+80000 200000
+8 8 0
+0 0 17 17 16 14 15 13
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#24909
+mob Areneid~
+&yA&Yr&ye&Yn&ye&Yi&yd&n~
+A poisonous &yA&Yr&ye&Yn&ye&Yi&yd&n wanders about
+~
+A species of desert scorpion that can bring victims to a halt with its poisonous tail 
+~
+65544 1 136249361 0 0 S
+30 16 30 1d1+4000 5d5+20
+80000 200000
+8 8 0
+0 0 17 16 15 16 13 12
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#24910
+mob Arvis~
+&GA&Yrv&Gi&Ys&n the &WRe&Cturn&Wer&n~
+&GA&Yrv&Gi&Ys&n runs around trying to get people to join the Returners
+~
+Arvis was one of the few residents of Narshe to take a side in the 
+conflict. Narshe was a neutral town and most of the residents preferred 
+that it stayed that way.  Arvis, however, knew that the Empire was 
+going to attack Narshe anyway, for the miners who worked there had 
+uncovered a frozen Esper.  Arvis was looking for a way to convince the 
+Elder of Narshe to join the Returners, however this still did not convince 
+the Elder.
+~
+536870922 1 136249361 0 1000 S
+31 15 36 1d1+4400 10d5+50
+84000 210000
+8 8 1
+0 0 17 17 15 14 14 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24911
+mob Matron~
+&CMat&Wron&n~
+The &CMat&wron&n stands here looking to be helpful
+~
+The matron is a kind old woman with a heart of gold.  She has known 
+Edgar and Sabin since childhood.  She tends to the king's needs and 
+loves to be helpful.  Shrouded in a large green and black robe, all that 
+can be seen is her face, which is full of wrinkles but contains a smile 
+none the less.
+~
+10 1 136249361 0 1000 S
+30 16 34 1d1+4000 10d5+50
+80000 200000
+8 8 2
+0 0 17 18 16 16 12 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24912
+mob Figaro Guard~
+&pF&ci&pg&ca&pr&co&n Guard~
+A &pF&ci&pg&ca&pr&co&n Guard stands ready to defend his king
+~
+A guard of the Castle Figaro, He pledges unrelenting loyalty to the 
+king and will come to his aid should any one attack.  Covered in 
+metal armor, he wields some sort of electrical blade.
+~
+134218250 1 136249361 128 800 S
+32 14 0 1d1+4800 6d6+30
+88000 220000
+8 8 1
+0 0 16 18 14 16 12 12
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24913
+mob Crawly~
+&yCraw&Kly&n~
+an odd looking caterpillar crawls along the ground
+~
+A species of caterpillar that gives you heart burn whether you eat it or not.
+~
+16777224 1 136249361 0 -800 S
+30 16 20 1d1+4000 5d5+20
+80000 200000
+8 8 0
+0 0 24 16 15 16 13 14
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#24914
+mob Hornet~
+&KHor&ynet&n~
+A &KHor&ynet&n is buzzing in your ear
+~
+A wasp with a large stinger.
+~
+16777224 1 136249361 67125248 -800 S
+31 15 20 1d1+4400 5d5+25
+84000 210000
+8 8 0
+0 0 16 18 14 14 13 14
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=107
+#24915
+mob Tunnel Armor~
+&WT&wu&Kn&wn&Ke&wl &RA&Br&Rm&Bo&Rr&n~
+&WT&wu&Kn&wn&Ke&wl &RA&Br&Rm&Bo&Rr&n is drilling its way toward you
+~
+A large motorcycle equipped with a drill and armor.   Has the ability to cast magic.
+~
+10 32769 136249361 0 -500 S
+36 10 0 1d1+6400 10d10+75
+104000 260000
+8 8 0
+0 0 16 16 16 15 14 11
+SKILL=SPELL_BURNING_HANDS 60
+SKILL=SPELL_CHILL_TOUCH 60
+SKILL=SPELL_LIGHTNING_BOLT 60
+SKILL=SPELL_EARTHQUAKE 60
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#24916
+mob Grease Monk~
+&BGrea&Cse &wMonk&n~
+A &BGrea&Cse &wMonk&n is aiming a wrench at you
+~
+An imperial maintinence  trooper that throws wrenches.
+~
+8 1 136249361 67108864 -700 S
+31 15 20 1d1+4400 5d5+25
+84000 210000
+8 8 0
+0 0 17 16 15 14 14 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#24917
+mob Rhinotaur~
+&GRh&gino&Yta&yur&n ~
+A &GRh&gino&Yta&yur&n stalks you from afar
+~
+a mutated rhino that stands on two legs and attacks with its horn
+~
+25165832 1 136249361 67108864 -800 S
+31 15 35 1d1+4400 5d5+25
+84000 210000
+8 8 0
+0 0 16 15 16 16 13 11
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=105
+#24918
+mob Duncan's Wife~
+&RDun&rcans&n &CW&wi&Cf&We&n~
+&RDun&rcans&n &CW&wi&Cf&We&n sits wishing her husband would come home
+~
+This is the wife of master Duncan.  She is a brilliant woman and with a 
+feisty attitude to match.  Although rumors of her husband's death run 
+rampant, she insists that he's still alive.  She is wearing a karate outfit 
+tied together by a black sash.
+~
+10 32769 136249361 2097280 800 S
+38 8 -10 1d1+7200 8d8+70
+112000 280000
+8 8 2
+0 0 17 15 15 14 12 12
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SPELL_SANCTUARY 45
+SKILL=SPELL_HEAL_MINOR 45
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#24919
+mob Sabin~
+&pS&Pa&pb&Pi&pn&n~
+&pS&Pa&pb&Pi&pn&n is getting ready to go after Vargas
+~
+Edgars twin brother who gave up the throne in order to pursue a life of 
+freedom.  He trains as a monk high in the mountains with Master 
+Duncan perfecting his blitz martial arts and getting ready to avenge the 
+murder of his parents.  Whenever he sees an opportunity to use his 
+strength to help someone he takes it immediately.  He is noticeably 
+less cultured and educated than Edgar.  For instance, he is puzzled by 
+all the singing at the opera.  However, Sabin usually doesn't mind jokes 
+at his own expense and will laugh heartily at them himself. He has an 
+unflappable determination and excels at thriving in situations where 
+most ordinary people would die or give up.  Sabin wears white pants 
+and a blue tank top belted with a sash, and like his brother, he has 
+blond hair and blue eyes.
+~
+10 1 136249361 67108928 800 S
+40 6 -20 1d1+12000 5d12+50
+200000 300000
+8 8 1
+0 0 17 15 16 15 15 15
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#24920
+mob Shadow~
+&KS&Wh&Ka&Wd&Ko&ww&n~
+&KS&Wh&Ka&Wd&Ko&ww&n sits at the bar with a drink
+~
+He is a man of little words, owes allegiance to no one, and will do 
+anything for money.  It has been rumored that he would slit his 
+mother's throat for a nickel.  Shadow typically only shows tenderness 
+to his dog, Interceptor and is described by other characters as a ruthless 
+assassin.  He rarely talks and shows little interest in the exploits of 
+others.  Shadow has a troubled past and even warns Terra about 
+"people who have killed their emotions", and encourages her not to do 
+the same.  Despite his cold and silent exterior, Shadow does develop a 
+kinship with the party. Shadow wears black ninja attire with his hood up 
+and dons a mask, hiding his facial features.  Could this man also be the 
+father of Relm?
+~
+266 32769 136249361 2097152 0 S
+40 6 -20 1d1+9000 10d5+50
+200000 300000
+8 8 0
+0 0 17 16 15 14 13 11
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#24921
+mob Interceptor~
+&WI&Kn&Wt&Ke&Wr&K&Wc&Ke&Wp&Kt&Wo&Kr&n~
+&WI&Kn&Wt&Ke&Wr&K&Wc&Ke&Wp&Kt&Wo&Kr&n lies at &KS&Wh&Ka&Wd&Ko&wws&n feet
+~
+Shadow's loyal canine companion, Interceptor has been at Shadows side 
+for 6 years, and in times of need appears at his masters' side to assist.  
+Although he seems aggressive toward everything but Shadow he also 
+shares an inexplicable kinship with Relm. 
+~
+150995466 32769 136249361 2097152 0 S
+40 6 -20 1d1+8000 10d5+40
+200000 300000
+8 8 1
+0 0 20 17 14 14 13 15
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#24922
+mob Imperial soldier~
+An &KIm&wpe&Rri&ral&n &KS&Bo&Kl&Bd&Ki&Be&Kr&n~
+A soldier is patrolling the area
+~
+Standing before you is a grunt of the imperial army.  Lightly outfitted, 
+with not much more than a vest and gun, these are only a threat to 
+normal civilians.
+~
+10 1 136249361 0 -500 S
+32 14 30 1d1+4800 6d6+40
+88000 220000
+8 8 1
+0 0 19 16 15 16 13 12
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24923
+mob Celes~
+&YC&pe&Yl&pe&Ys&n ~
+&YC&pe&Yl&pe&Ys&n the traitor is &Kchained&n up against the wall 
+~
+In front of you stands a product of genetic engineering.  She is a 
+battle-hardened knight, with a spirit as pure as snow.  Stolen from her 
+family at the age of 3, Celes was infused with magic, making her super 
+strong, and resistant to most forms of attack.  By the age of 11 she was 
+a commander in the imperial army, only to be branded a traitor by 
+kefka, and fleeing the empire.  Joining forces with the returners she 
+now looks to kill Kefka for turning her into a ruthless killing machine.  
+Celes is eighteen-years old and has long blonde hair, blue eyes, and pale 
+skin.  She wore yellow and purple armor with high white boots and a 
+sword.   Worn over her shoulders was a delicate black cloak 
+symbolizing her rank as commander.  Now she wears a prison outfit 
+and chains
+~
+10 32769 136249361 2097280 850 S
+40 6 0 1d1+7500 5d12+50
+200000 300000
+8 8 2
+0 0 24 22 22 22 24 25
+SKILL=SPELL_COLOUR_SPRAY 45
+SKILL=SPELL_FIREBALL 45
+SKILL=SPELL_LIGHTNING_BOLT 65
+SKILL=SPELL_SANCTUARY 75
+SKILL=SPELL_SHOCKING_GRASP 65
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SPELL_HEAL_MINOR 75
+SKILL=SPELL_HEAL_MEDIUM 30
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#24924
+mob Vulture~
+a &rV&Kultu&pre&n~
+a &rV&Kultu&pre&n sores through the air looking for its next meal
+~
+A big ugly scavenger bird.  Look out for its beak!
+~
+16777224 1 136249361 16384 -700 S
+34 12 30 1d1+5600 6d6+50
+96000 240000
+8 8 0
+0 0 17 16 15 14 14 11
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=105
+#24925
+mob Bloodfang~
+a &rB&Rl&ro&Ro&rd&n &KFa&wn&Wg&n~
+a &rB&Rl&ro&Ro&rd&n &KFa&wn&Wg&n is rapidly approaching you
+~
+A blood-thirsty wolf, faithful to its master's commands.
+~
+17825800 1 136249361 2097152 -700 S
+35 11 10 1d1+6000 7d6+50
+100000 250000
+8 8 0
+0 0 17 16 15 14 14 11
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+#24926
+mob fossilfang~
+&pFo&Kssil &KF&Ra&wng&n~
+A &pFo&Kssil &KF&Ra&wng&n is waiting for its prey
+~
+An undead dragon made up entirely of bones.
+~
+37748746 32769 136249361 0 -700 S
+35 11 20 1d1+6000 7d6+50
+100000 250000
+8 8 0
+0 0 17 16 15 23 14 11
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SPELL_GAS_BREATH 45
+SKILL=SPELL_EARTHQUAKE 75
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=104
+#24927
+mob Rockwasp~
+a &KR&po&Kc&pk&n &YW&Ra&rsp&n~
+a &KR&po&Kc&pk&n &YW&Ra&rsp&n is buzzing in your ear
+~
+A violent, aggressive hornet
+~
+16777224 1 136249361 16384 -700 S
+35 11 10 1d1+6000 7d6+50
+100000 250000
+8 8 0
+0 0 17 16 15 14 14 11
+SKILL=SPELL_SHOCKING_GRASP 51
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=107
+#24928
+mob Iron Fist~
+&wIr&Kon &BFi&Cst&n~
+A strange man is here doing martial arts 
+~
+A defeated soldier with no sense of dignity. Enjoys throwing Stones at things.
+~
+8 32769 136249361 0 -700 S
+35 11 20 1d1+6000 7d6+50
+100000 250000
+8 8 0
+0 0 17 16 15 14 14 11
+SKILL=SKILL_KICK 51
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24929
+mob Crazy Old Man~
+&xC&xr&xa&xz&xy &xO&xl&xd &xM&xa&xn&n~
+The &xC&xr&xa&xz&xy &xO&xl&xd &xM&xa&xn&n runs around his home muttering to himself
+~
+Keeps Rachel alive using herbs
+~
+10 1 136249361 0 1000 S
+30 16 37 1d1+4000 10d5+50
+80000 200000
+8 8 1
+0 0 17 17 15 14 14 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24930
+mob Impressario~
+&YI&Wm&Yp&Wr&Ye&Ws&Ys&Wa&Yr&Wi&Yo&n~
+The &YI&Wm&Yp&Wr&Ye&Ws&Ys&Wa&Yr&Wi&Yo&n is worried about Maria's safety
+~
+He runs the Opera House, not a fighter
+~
+10 1 136249361 0 1000 S
+30 16 36 1d1+4000 10d5+50
+80000 200000
+8 8 1
+0 0 17 17 15 14 14 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24931
+mob Owzer~
+&GO&gw&wz&Ge&gr&n~
+&GO&gw&wz&Ge&gr&n has items for sale
+~
+Obese and rich
+~
+536870922 1 136249361 0 1000 S
+30 16 30 1d1+4000 10d5+50
+80000 200000
+8 8 1
+0 0 17 17 15 14 14 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24932
+mob Ramuh~
+&YR&ga&Ym&w&Gu&Yh&n~
+&YR&ga&Ym&w&Gu&Yh&n has been waiting for you...
+~
+Terra's guardian while she is coming to her senses in Zozo. He sends the party to Vector to rescue 
+his friends, including Terra's father, Maduin. Afterwards he turns himself into magicite.  Mog 
+mentions that Ramuh has appeared to him in dreams and has told him to fight alongside the party 
+and taught him how to speak.
+~
+16777242 32769 136249361 2097226 0 S
+41 6 -10 1d1+10000 10d10+50
+120000 300000
+8 8 0
+0 0 24 24 24 17 24 24
+SKILL=SPELL_LIGHTNING_BOLT 65
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#24933
+mob Ultros~
+&pU&Wl&ptr&Wo&ps&n~
+&pU&Wl&ptr&Wo&ps&n is causing trouble
+~
+A big purple octopus that serves as comic relief
+~
+16777224 32769 136249361 0 0 S
+40 40 40 10d10+10000 5d5+23
+1 0
+8 8 0
+0 0 17 15 14 15 13 12
+SKILL=SKILL_SECOND 75
+ATTACK_SKILL=55
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=55
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=55
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#24934
+mob Locke~
+&RL&Wo&cc&Wk&re&n~
+&RL&Wo&cc&Wk&re&n is here reminiscing about Rachel
+~
+A contact, spy, and saboteur for the Returners the resistance group to 
+the Gestahlian Empire. He is driven to protect women he meets, 
+instantly promising to help Terra and Celes despite them being former 
+Imperial soldiers. His want to protect women is due to unresolved guilt 
+over a past incident which he struggles with. This incident was a key 
+reason he joined the Returners, and although he blames himself, he is 
+angry at the Empire for their involvement.  Despite his tragic past, 
+Locke is often less than serious. He jokes around with and about the 
+other party members, particularly teasing Edgar for his flirtatiousness. 
+He is proud of his skills and insistent on being called a "treasure hunter" 
+or "adventurer" rather than a thief. He is kindhearted and tries to 
+prevent others from experiencing the sorrow he has.  Locke stands 
+about average height, with a wiry build. He wears a blue vest and 
+trousers with a white shirt, He has light brown hair and wears a blue 
+bandanna.
+~
+10 1 136249361 0 0 S
+40 11 -15 25d1+10000 6d12+45
+500000 280000
+8 8 1
+0 0 17 16 15 14 13 11
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#24935
+mob Whelk~
+&pW&yh&pe&yl&pk&n~
+&pW&yh&pe&yl&pk&n roams around completely lost
+~
+Whelk is a supersized slug-like creature that absorbs lightning with its 
+shell.  He was supposed to be the Narshe's first line of defense but he 
+now just roams around lost.
+~
+25165832 32769 136249361 0 -500 S
+34 12 20 1d1+5600 10d10+55
+96000 240000
+8 8 1
+0 0 16 16 16 15 14 11
+SKILL=SPELL_LIGHTNING_BOLT 60
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#24936
+mob Dadaluma~
+&RD&Ca&Rd&ca&Rl&cu&Rm&Ca&n~
+&RD&Ca&Rd&ca&Rl&cu&Rm&Ca&n is enjoying the day
+~
+He hates to fight so hes just gonna leave you alone.
+~
+10 1 136249361 0 -500 S
+37 9 -10 1d1+6800 8d8+64
+108000 270000
+8 8 1
+0 0 17 16 15 16 13 12
+ATTACK_SKILL=60
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#24937
+mob Sewer Rat~
+&KS&we&Kw&we&Kr&n &KR&wa&Kt&n~
+A large rat is running around the rafters
+~
+An oversized rat that lives in the rafters of the opera house.
+~
+25165832 1 136249361 0 -700 S
+36 10 20 1d1+6400 7d7+40
+104000 260000
+8 8 0
+0 0 17 16 15 14 14 11
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+#24938
+mob Tusker~
+&yTusk&Ker&n~
+A huge &yTusk&Ker&n is stomping its giant feet next to you
+~
+A giant wholly mammoth.
+~
+25165832 1 136249361 67108864 -800 S
+31 15 40 1d1+4400 5d5+25
+84000 210000
+8 8 0
+0 0 16 15 16 16 13 11
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=108
+#24939
+mob Trillium~
+&gT&Gr&gi&Gl&gi&Gu&gm&n~
+Some dangerous looking veggies are sneaking up on you
+~
+A poisonous vegetable that likes to eat meat.
+~
+16842760 1 136249361 67108864 -800 S
+31 15 35 1d1+4400 5d5+25
+84000 210000
+8 8 0
+0 0 16 15 16 16 13 11
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24940
+mob Ipooh~
+&wI&Kp&woo&Kh&n~
+A large bear stands ready to protect &RV&rar&Yga&ys&n
+~
+These bears are the body guards of Vargas.
+~
+150995466 1 136249361 0 -500 S
+32 14 20 1d1+4800 5d5+30
+88000 220000
+8 8 1
+0 0 22 16 15 16 13 12
+SKILL=SPELL_FIREBALL 40
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=108
+#24941
+mob Pterdon~
+&BP&wter&bodon&n~
+A small dragon flies through the air
+~
+A small dragon that can attack with fireballs.
+~
+20971528 32769 136249361 16384 -500 S
+32 14 20 1d1+4800 5d5+30
+88000 220000
+8 8 0
+0 0 17 16 15 16 13 12
+SKILL=SPELL_FIREBALL 40
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+#24942
+mob Stray Cat~
+&wStr&pa&wy&n &pC&wa&pt&n~
+A &wStr&pa&wy&n &pC&wa&pt&n wanders around
+~
+A wild cat with really sharp claws.
+~
+16777224 1 136249361 2097156 -500 S
+32 14 10 1d1+4800 5d5+30
+88000 220000
+8 8 0
+0 0 17 16 15 16 13 12
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=105
+#24943
+mob Rhobite~
+&wRh&po&wb&pi&wt&pe&n~
+A mean looking bunny sits in the grass
+~
+A bunny with a violent disposition. Attacks with remarkably 
+well-developed Incisors.
+~
+16777224 32769 136249361 67108864 -500 S
+32 14 10 1d1+4800 5d5+30
+88000 220000
+8 8 0
+0 0 17 16 15 16 13 12
+SKILL=SPELL_HEAL_MINOR 51
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+#24944
+mob Imperial Templar~
+&KIm&wpe&Rri&ral&n &BT&We&Bmpl&Wa&Br&n~
+a heavily armored &KIm&wpe&Rri&ral&n &BT&We&Bmpl&Wa&Br&n stands guard
+~
+An imperial soldier wearing heavy-duty armor.
+~
+10 1 136249361 0 0 S
+33 13 20 1d1+5200 10d5+50
+92000 230000
+8 8 0
+0 0 16 16 15 16 12 13
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=5
+ATTACK_TYPE=104
+#24945
+mob M-Tek Armor~
+&gM-&KT&we&Kk&n &KA&Rrm&Ko&Rr&n~
+A machine built to destory stands watch
+~
+A large mechanical suit of armor that amplifies attacks.
+~
+8388616 32769 136249361 0 0 S
+33 13 40 1d1+5200 10d5+50
+92000 230000
+8 8 0
+0 0 16 16 15 16 12 13
+SKILL=SPELL_MAGIC_MISSILE 65
+SKILL=SPELL_EARTHQUAKE 75
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#24946
+mob Telstar~
+&yT&pe&yl&ps&yt&pa&yr&n~
+The Blank Mob standing here, looking formless.
+~
+When attacked, these will sound an alarm to summon allies. They attack 
+with Tek Lasers and Schillers.
+~
+10 1 136249361 128 0 S
+33 13 20 1d1+5200 10d5+50
+92000 230000
+8 8 0
+0 0 16 16 15 16 12 13
+ATTACK_SKILL=75
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#24947
+mob Ghost~
+&WG&wh&Wo&ws&Wt&n~
+A ghost floats through the air
+~
+A spook of the forest.
+~
+34603016 1 136249361 16448 0 S
+33 13 5 1d1+5200 10d5+50
+92000 230000
+8 8 0
+0 0 16 16 15 16 12 13
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=5
+ATTACK_TYPE=104
+#24948
+mob Bomb~
+&RB&Yo&rm&Rb&n~
+a &RB&Yo&rm&Rb&n looks ready to explode
+~
+A floating fireball that likes to use blaze and explode.
+~
+8 32769 136249361 16384 0 S
+33 13 15 1d1+5200 10d5+50
+92000 230000
+8 8 0
+0 0 16 16 15 16 12 13
+SKILL=SPELL_BURNING_HANDS 60
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=5
+ATTACK_TYPE=100
+#24949
+mob Piranha~
+&yP&Ki&yr&Ka&yn&Kh&ya&n~
+A fish with large teeth is going to eat you
+~
+A fish with a whale size appetite for flesh, and it can swim up falls.
+~
+16777226 1 136249361 83902464 -700 S
+34 12 20 1d1+5600 6d6+50
+96000 240000
+8 8 0
+0 0 17 16 15 14 14 11
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+#24950
+mob Anguiform~
+&pA&rn&pg&ru&Gi&pf&Go&rr&pm&n~
+a &rV&Kultu&pre&n sores through the air looking for its next meal
+~
+A long sinuous fish.
+~
+16777226 1 136249361 83886080 -700 S
+34 12 20 1d1+5600 6d6+50
+96000 240000
+8 8 0
+0 0 17 16 15 14 14 11
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+#24951
+mob Aspik~
+&RA&Bspik&n~
+An &RA&Bspik&n swims around you
+~
+A species of jellyfish with a numbing sting.
+~
+16777226 1 136249361 83886080 -700 S
+34 12 10 1d1+5600 6d6+50
+96000 240000
+8 8 0
+0 0 17 16 15 14 14 11
+SKILL=SPELL_LIGHTNING_BOLT 60
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=107
+#24952
+mob Ralph~
+&KR&wa&Klph&n~
+A large dog looking creature paces back and forth
+~
+A big ass dog thing that likes to pounce on things.
+~
+25165832 1 136249361 128 0 S
+36 10 10 1d1+6400 7d7+40
+104000 260000
+8 8 0
+0 0 17 17 15 14 14 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=101
+#24953
+mob Joker~
+&pJ&Bo&pk&We&pr&n~
+A &pJ&Bo&pk&We&pr&n cackles in the background
+~
+A floating demon that makes it rain acid.
+~
+65560 1 136249361 16384 0 S
+36 10 0 1d1+6400 7d7+40
+104000 260000
+8 8 0
+0 0 17 17 15 14 14 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24954
+mob Chicken Lip~
+&yCh&r&ri&yck&re&gn&n &gL&ri&gp&n~
+A chicken lizard crawls toward you
+~
+A chicken lizard that can cast quake.
+~
+16777224 32769 136249361 0 0 S
+36 10 5 1d1+6400 7d7+40
+104000 260000
+8 8 0
+0 0 17 17 15 14 14 13
+SKILL=SPELL_EARTHQUAKE 75
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+#24955
+mob Commando~
+&KCom&rman&Rdo&n~
+A &KCom&rman&Rdo&n is showing off to the ladies
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+37 9 0 1d1+6800 7d7+45
+108000 270000
+8 8 0
+0 0 20 15 14 14 13 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=103
+#24956
+mob Pipsqueak~
+&KPip&ysq&gueak&n~
+A small knight thats want to fight stands in front of you
+~
+A tiny knight with a big bark.
+~
+1048584 1 136249361 2097152 0 S
+37 9 0 1d1+6800 7d7+45
+108000 270000
+8 8 0
+0 0 16 15 14 14 13 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24957
+mob Proto-Armor~
+&BPr&ro&yto &wAr&Kmor&n~
+&BPr&ro&yto &wAr&Kmor&n is just sitting here
+~
+Although this is a test model, don't underestimate its power.
+~
+8 1 136249361 0 0 S
+37 9 20 1d1+6800 7d7+45
+108000 270000
+8 8 0
+0 0 16 15 14 14 13 13
+SKILL=SPELL_MAGIC_MISSILE 75
+SKILL=SPELL_EARTHQUAKE 75
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=101
+#24958
+mob Kefka~
+&RK&pe&Rf&pk&Ra&n~
+The evil &RK&pe&Rf&pk&Ra&n is going to kill you
+~
+Kefka is maniacal, short-tempered, flamboyant, destructive, and cruel.
+He is a psychopath with no regard for human life or remorse for the
+atrocities he commits, and finds amusement in the suffering of others.
+He cracks dark jokes, breaks out into hysterical laughter upon causing
+mayhem, and hates everything in the world. Kefka's only joy in life
+comes from causing death and chaos.  He is thirty five years old and
+Emperor Gestahls right hand man. At least sixteen years prior to the
+start of Final Fantasy VI, Kefka was the first experimental Magitek
+Knight, which gifted him incredible magical power, but shattered his
+sanity as the process had not been perfected yet.  Kefka became a
+cruel, destructive madman, and acquired a reputation as one of the
+most dangerous men in the Gestahlian Empire. 
+~
+38797336 1 136249361 0 0 S
+38 -3 -40 1d1+45000 10d35+-56
+4500000 999999
+8 8 1
+0 0 16 15 14 14 14 15
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_SKILL=60
+ATTACK_TYPE=103
+ATTACK_SKILL=65
+ATTACK_SKILL=60
+ATTACK_SKILL=55
+ATTACK_TYPE=103
+#24959
+mob Ninja~
+&BN&ri&Bnj&ra&n~
+You sense a &BN&ri&Bnj&ra&n in the room
+~
+That was totally ninja!
+~
+8 32769 136249361 128 0 S
+38 8 -10 1d1+7200 7d7+50
+112000 280000
+8 8 0
+0 0 16 15 14 14 14 15
+SKILL=SKILL_KICK 51
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=103
+#24960
+mob Lich~
+&cL&gi&cc&Kh&n~
+A &cL&gi&cc&Kh&n is floating above th floor
+~
+Undead spell casting ghost that loves the heat.
+~
+34603016 32769 136249361 16384 0 S
+38 8 0 1d1+7200 7d7+50
+112000 280000
+8 8 0
+0 0 16 15 14 14 14 15
+SKILL=SPELL_BURNING_HANDS 50
+SKILL=SPELL_EARTHQUAKE 50
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24961
+mob Ballon~
+&RB&ra&Rll&ro&Rn&n~
+A &RB&ra&Rll&ro&Rn&n gets ready to explode
+~
+A floating fireball that likes to use blaze and explode.
+~
+8 32769 136249361 16384 0 S
+39 7 0 1d1+7600 7d7+55
+116000 290000
+8 8 0
+0 0 17 16 16 15 15 13
+SKILL=SPELL_BURNING_HANDS 55
+SKILL=SPELL_CHILL_TOUCH 55
+SKILL=SPELL_FIREBALL 50
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24962
+mob Abolisher~
+&rA&pb&ro&pl&ri&psh&re&pr&n~
+A strange looking bird is pecking at your feet
+~
+A strange looking bird with a poison feather attack.
+~
+16777224 1 136249361 0 0 S
+39 7 10 1d1+7600 7d7+55
+116000 290000
+8 8 0
+0 0 17 16 16 15 15 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=107
+#24963
+mob Slurm~
+&yS&gl&yu&gr&ym&n~
+A &yS&gl&yu&gr&ym&n is at your feet
+~
+A highly additive drink that comes from a worms hinie.
+~
+16777224 1 136249361 0 0 S
+39 7 20 1d1+7600 7d7+55
+116000 290000
+8 8 0
+0 0 17 16 16 15 15 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+#24964
+mob Mandrake~
+&yMan&Gdr&ya&Gke&n~
+The Blank Mob standing here, looking formless.
+~
+A poison plant that likes to feast on blood.
+~
+16842760 1 136249361 0 0 S
+39 7 10 1d1+7600 7d7+55
+116000 290000
+8 8 0
+0 0 17 16 16 15 15 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=105
+#24965
+mob Behemoth~
+&pB&Re&ph&Re&pm&wo&pth&n~
+The legendary &pB&Re&ph&Re&pm&wo&pth&n stands just a few feet away from you
+~
+This ferocious beast has regal, a fluttering mane and roars violent 
+enough to shake the earth itself.  After rending foes with long claws 
+and horns, they usually use their sharp teeth to deal the killing blow.
+~
+10 1 136249361 0 0 S
+41 5 -10 1d1+16000 11d5+55
+160000 400000
+8 8 0
+0 0 17 18 16 14 14 15
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#24966
+mob Imp~
+&yI&gm&Gp&n~
+An &yI&gm&Gp&n is dancing around by itself
+~
+A winged, pointy-featured creature with a tail. They are usually related to 
+devilish ideas.  Imps are sometimes mistaken for Gremlins and other 
+times Gargoyles.
+~
+16777242 32769 136249361 67125376 0 S
+41 5 -20 1d1+6000 10d6+45
+160000 400000
+8 8 0
+0 0 17 16 14 14 13 13
+SKILL=SPELL_BURNING_HANDS 55
+SKILL=SPELL_CHILL_TOUCH 55
+SKILL=SPELL_LIGHTNING_BOLT 55
+SKILL=SPELL_MAGIC_MISSILE 55
+ATTACK_SKILL=80
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#24967
+mob Cactrot~
+&GC&Wa&gc&Gtr&g&Wo&Gt&n~
+A strange looking cactus runs around
+~
+A small agile cactus that attacks with 1000 needles.  It is very tough to hit.
+~
+16777226 1 136249361 2097280 0 S
+41 5 -40 1d1+4000 10d2+10
+160000 400000
+8 8 0
+0 0 16 16 16 14 12 12
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=107
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=107
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=107
+#24968
+mob Banon~
+&WB&Ca&Wn&Co&Wn&n~
+&WB&Ca&Wn&Co&Wn&n leader of the returners stands before you
+~
+Banon is a man of determination and spirit, leading a small rebel 
+group against the might of the Empire. He has his agents fight with 
+diplomacy, sabotage, and spying more than brute force. However, the 
+harsh conditions of the war makes him somewhat harsh himself. He 
+is very blunt when speaking to Terra for the first time and speaks of 
+the atrocities she committed as an Imperial soldier, and brushes off 
+Edgar's anger for not taking her amnesia into consideration. 
+However, he does encourage her to join them by describing her as a 
+ray of hope and doesn't intend to force her into it.
+~
+10 32769 136249361 0 0 S
+40 6 0 1d1+8000 8d8+65
+120000 300000
+8 8 1
+0 0 17 18 16 14 15 15
+SKILL=SPELL_BURNING_HANDS 60
+SKILL=SPELL_CHILL_TOUCH 60
+SKILL=SPELL_HEAL_MINOR 51
+SKILL=SPELL_EARTHQUAKE 60
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24969
+mob Returner~
+&WRe&Cturn&Wer&n~
+A &WRe&Cturn&Wer&n paces back and forth trying to figure out whats next
+~
+One of the good guys.
+~
+8 1 136249361 0 0 S
+31 15 10 1d1+4400 10d5+50
+84000 210000
+8 8 1
+0 0 17 15 15 14 14 11
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24970
+mob Man~
+Man~
+A man walks around
+~
+A plain man
+~
+8 1 136249361 0 0 S
+30 16 40 1d1+4000 10d5+50
+80000 200000
+8 8 1
+0 0 24 24 24 24 24 24
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24971
+mob Woman~
+Woman~
+A Woman walks around
+~
+A plain woman
+~
+8 1 136249361 0 0 S
+30 16 40 1d1+4000 10d5+50
+80000 200000
+8 8 2
+0 0 17 18 15 16 14 13
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+#24972
+mob Vargas~
+&RV&rar&Yga&ys&n~
+&RV&rar&Yga&ys&n is here looking for Sabin
+~
+Crazy son and student of Duncan, tried to murder his father.
+~
+10 1 136249361 0 0 S
+35 11 0 1d1+6000 10d10+65
+100000 250000
+8 8 1
+0 0 17 16 16 16 15 14
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#24973
+mob Phantom Train~
+&KPh&Wa&Knt&Wo&Km&n &KT&rr&ya&ri&Kn&n~
+The &KPh&Wa&Knt&Wo&Km&n &KT&rr&ya&ri&Kn&n is getting ready to carry souls to the next world
+~
+The transporter for the souls from the land of the living to the land of the dead.
+~
+34603018 1 136249361 0 0 S
+35 11 10 1d1+6000 10d10+75
+100000 250000
+8 8 0
+0 0 17 15 16 14 14 11
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#24974
+mob 024~
+&K#&B024&n~
+&K#&B024&n stands in your path
+~
+This creature is a hybrid human/machine aka a cyborg.  He is stronger 
+than he looks and has certain weak points that change periodically.
+~
+10 1 136249361 67108928 0 S
+37 9 -5 1d1+10000 10d5+65
+108000 270000
+8 8 1
+0 0 17 18 16 14 12 15
+ATTACK_SKILL=75
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#24975
+mob Number 128~
+&K#&p128&n~
+&K#&p128&n has been waiting for you
+~
+Number 128 is a creature that can regenerate his arms.  He can be 
+found trying to stop the party from fleeing the M-Tek Facility.  
+~
+16777242 1 136249361 67108928 0 S
+37 9 -10 1d1+11000 12d12+65
+108000 270000
+8 8 0
+0 0 17 16 15 16 14 14
+ATTACK_SKILL=75
+ATTACK_SKILL=22
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#24976
+mob Crane~
+&KC&wran&Ke&n~
+A &KC&wran&Ke&n has gotten ahold of you
+~
+Cranes with claws built to keep ships from escaping.
+~
+134218506 32769 136249361 0 0 S
+38 8 20 1d1+12000 10d10+65
+112000 280000
+8 8 0
+0 0 17 16 16 15 12 14
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#24977
+mob Emporer Gesthal~
+&KEm&rpor&Rer&n &RGes&Kthal&n~
+&KEm&rpor&Rer&n &RGes&Kthal&n sits comfotably on his throne
+~
+Gestahl's ambition is to project power over the world and use 
+technology to make his Empire grow unparalleled in its military branch. 
+Gestahl is ruthless in attaining his goals, shown in his forceful taking of 
+espers and paying no mind to the experiments done to them. Not once 
+did he show remorse regarding the ethical ambiguity of infusing 
+children with magic or using a mind-controlling device.  Gestahl holds 
+little regard for human and intelligent life, having his eyes set only on 
+his dream Magic Empire. Even after Kefka's atrocities the Emperor does 
+not punish him outside of throwing him into a prison cell. Gestahl's fake 
+affability and attempt to trick and use the party to his own ends, after 
+lying to them, shows his political knowledge. Gestahl attempts to stop 
+Kefka's disturbance of the Warring Triad as his goal is to lead an Empire, 
+and not to destroy the world, Gestahl has long white hair, a white beard 
+and mustache. Being an emperor, Gestahl dresses in ornate robes and 
+golden plates over red clothes lined with gold. He wears a black 
+gold-lined head ornament that sustains a ruby. 
+~
+10 32769 136249361 335544396 0 S
+42 4 -25 1d1+14000 5d5+30
+230000 433000
+8 8 1
+0 0 16 16 16 15 14 12
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_FIREBALL 45
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SPELL_SANCTUARY 50
+SKILL=SPELL_SHOCKING_GRASP 50
+SKILL=SPELL_HEAL_MINOR 50
+ATTACK_SKILL=80
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_TYPE=103
+ATTACK_SKILL=80
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_TYPE=103
+ATTACK_SKILL=60
+ATTACK_SKILL=55
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#24978
+mob Setzer~
+&RS&ret&wzer&n~
+&RS&ret&wzer&n is gambling in the back
+~
+A blackjack-playing, world traveling, casino-dwelling free spirit.  In 
+front of you stands the owner of the worlds' only air ship.  He wears a 
+long black trench coat, and a pair of sunglasses.  Setzer is a man in his 
+late twenties. He has long silver hair, and wears several layers of 
+clothing under a black trench coat with a gold lining, Setzer acts like a 
+happy and likeable person up front, but is still hurt by a great loss and 
+distracts himself with gambling.  Setzer cannot resist a gamble, he 
+thrives on risks, such as his planned abduction of Maria, and never 
+passes up an opportunity to prove his skill.  Most of his scars come 
+from gambling sessions gone wrong, although some also come from 
+airship accidents.
+~
+8 1 136249361 0 0 S
+40 6 0 1d1+9000 10d5+95
+200000 300000
+8 8 1
+0 0 17 15 14 15 12 12
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#24979
+mob Relm~
+&RR&Welm&n~
+&GRe&Ylm&n is here looking all innocent and sweet
+~
+Standing before you is the sassy young granddaughter of Strago.  No 
+older than age 10, she has the artistic skills of virtuoso.  In her pictures 
+she captures everything, forests, water, light, the very essence of life.  
+The only thing that that outshines her abilities as an artist is the love she 
+has for her grandfather, shown by her constantly scolding Strago for 
+making stupid decisions.  She has blonde hair covered by a large hat 
+and wears a black tube top and a yellow cape and a red dot on her left 
+cheek, presumed to be paint due to her artistic tendencies.  
+~
+10 32769 136249361 67109058 0 S
+40 6 0 1d1+6500 10d5+62
+200000 300000
+8 8 2
+0 0 24 24 24 16 14 11
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_LIGHTNING_BOLT 60
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SPELL_HEAL_MINOR 60
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#24980
+mob Strago~
+&WS&Rtr&rag&wo&n~
+&WS&Rtr&rag&wo&n is here denying his ability to use magic
+~
+An elderly gentleman who has spent his whole life pursuing the secrets 
+of monsters.  Strago is over protective of Relm, not letting her join the 
+party when she asks to. Undeterred by his old age, Strago is energetic 
+and spirited, although clumsy and prone to make mistakes, which Relm 
+scolds him for.  He is a small, elderly man who wears loose fitting 
+clothes and a bright, red cape. His white hair is styled in a Mohawk, and 
+he has large bushy eyebrows, a white mustache and beard.
+~
+10 32769 136249361 67109058 0 S
+40 6 -1 1d1+6000 10d5+60
+200000 300000
+8 8 1
+0 0 24 24 24 16 14 13
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_LIGHTNING_BOLT 60
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SPELL_HEAL_MINOR 60
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#24981
+mob GoGo~
+&GG&ro&gG&Ro&n~
+&GG&ro&gG&Ro&n is here mimicing your every movement
+~
+Shrouded in odd clothing, is this a man? A woman?  Or should we ask?  
+GoGo lives deep in the belly of the zone eater.  The robes it wears emit 
+a strange odor like feet that have been cooked in feet and you can't 
+help but wonder what kind of being would live like this.  Despite its 
+appearance and smell, it is quiet friendly and offers to join the party.
+~
+10 32769 136249361 67108930 0 S
+40 6 -10 1d1+11000 10d5+60
+200000 300000
+8 8 0
+0 0 16 16 16 16 12 15
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#24982
+mob Cyan~
+&GC&gy&Ya&yn&n~
+Sword drawn &GC&gy&Ya&yn&n is running toward the imperial base
+~
+The man in front of you is the master swordsman of Doma, and a force 
+to be reckoned with.  He has an unwavering loyalty to his fallen king, 
+while possessing the courage and strength of a hundred men.  He 
+witnessed the murder of his wife and son by poisoning and ever since 
+has been down the empires throat.  Being the sole survivor of Doma, 
+he is plagued with survivor's guilt, blaming himself for Doma's fall and 
+believing to have lost his honor.  Due to Doma's simple lifestyle, Cyan 
+is technophobic and struggles operating machines.  He is a 
+middle-aged warrior with a long dark hair in a ponytail, and a short 
+mustache. He wears blue armor with a matching cape and carries a 
+katana.
+~
+10 32769 136249361 0 0 S
+40 6 10 1d1+14000 10d7+75
+200000 300000
+8 8 1
+0 0 24 16 15 15 14 14
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#24983
+mob Gau~
+&yG&pa&Gu&n~
+The wild child of the veldt, &yG&pa&Gu&n is just staring at you
+~
+The wild child of the veldt.  After being kicked out into the wild by his 
+father, he learned to live with the animals and began taking on their 
+actions.  Draped in monster hides, eyes shining with intelligence, he is 
+a youth surviving against all odds.  Having grown up alone and in the 
+wild, Gau has no concept for etiquette or grammar and often refers to 
+himself in the third person.  Gau is a teenager with wild hair (greenish 
+blond brown)He walks with bad posture, occasionally on all fours,  and 
+wears tattered clothing which he fashioned from animal skins.
+~
+16777226 32769 136249361 2097152 0 S
+40 6 -15 1d1+8000 10d5+60
+200000 300000
+8 8 1
+0 0 16 17 16 15 12 14
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#24984
+mob Odin~
+&WO&Kd&Wi&Kn&n~
+&WO&Kd&Wi&Kn&n the new lord of this castle is standing here
+~
+A legendary knight who rides his beloved horse Sleipnir to deliver a 
+crushing blow, the Zantetsuken.
+~
+26 32769 136249361 2097230 0 S
+42 4 -15 1d1+14000 10d10+55
+250000 433000
+8 8 0
+0 0 17 17 14 16 12 12
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#24985
+mob Bahamut~
+&gBa&Rhamut&n~
+The king of the espers awaits a challenger
+~
+Conqueror of the skies, Bahamut has gone by several names 
+including, the Dragon King, the Hallowed Father, and the First Sire.  
+He is the king of the espers and waiting for you to prove your courage.
+~
+29360154 32769 136249361 2113614 0 S
+43 3 -20 1d1+15000 10d10+60
+300000 470000
+8 8 0
+0 0 24 24 24 17 24 24
+SKILL=SPELL_FIREBALL 40
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SPELL_HEAL_MINOR 65
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#24986
+mob Shiva~
+&CS&Bh&ci&Bv&Ca&n~
+The esper of ice is in front of you
+~
+The empress of ice, wreathed in frost. She is known for her signature 
+move, "Diamond Dust", which freezes everything in an instant.
+~
+16777242 32769 136249361 2097230 0 S
+41 6 -10 1d1+10000 10d10+50
+120000 300000
+8 8 2
+0 0 16 17 14 17 13 14
+SKILL=SPELL_CHILL_TOUCH 75
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#24987
+mob Ifrit~
+&RIfr&rit&n~
+The esper of fire burns before you
+~
+A powerful djinn with control over scorching flames hot enough to turn 
+the whole world to ashes.
+~
+16777242 32769 136249361 2097230 0 S
+41 6 -10 1d1+10000 10d10+50
+120000 300000
+8 8 1
+0 0 24 24 24 17 24 24
+SKILL=SPELL_BURNING_HANDS 76
+SKILL=SKILL_EXTRA_DAMAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#24988
+mob General Leo~
+&YG&ge&Yn&ge&Yr&ga&Yl&n &RL&Keo&n~
+&YG&ge&Yn&ge&Yr&ga&Yl&n &RL&Keo&n stands tall with pride and dignity
+~
+Leo is a strong, upstanding, moral man with a strong sense of 
+compassion and honor. The men of the Empire look up to him as an 
+ideal example of a warrior and are proud to serve him. He is slow to 
+waste human life on both sides of a battle, and is loyal to Emperor 
+Gestahl. These qualities place him at sharp odds with Kefka, who has no 
+regard for life or morality, and is utterly brutal in his tactics. Leo still 
+treats Kefka with respect, but is aware of his behavior and warns him 
+not to act rashly when Leo must leave the Siege of Doma in his hands. 
+The one time he truly gets angry with Kefka is in Thamasa, where he 
+attempts to threaten Kefka. It is unknown why a man like Leo would 
+serve the Empire in conquering the world, but given he was born in 
+Vector, it is likely out of a sense of duty and honor to his homeland.  
+He wears a light green armor, and has short blond hair.
+~
+10 1 136249361 335544396 0 S
+41 3 -20 1d1+15000 8d8+40
+200000 325000
+8 8 1
+0 0 17 15 14 15 15 14
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_FIREBALL 45
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SPELL_SANCTUARY 50
+SKILL=SPELL_SHOCKING_GRASP 50
+SKILL=SPELL_HEAL_MINOR 50
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=103
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_TYPE=103
+$~
+#999999

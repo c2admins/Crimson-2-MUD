@@ -1,0 +1,1638 @@
+#15000
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+55 0 32 1 99 7
+D0
+The river continues.
+~
+~
+0 -1 14900
+D1
+The river coninues toward the ocean.
+~
+~
+0 -1 15096
+S
+#15001
+Palace Street.~
+You stand in a well paved road. There are beautiful flowers to the left and
+right of this road. There seems to be very little traffic here for some reason
+But you have heard that this is the road that leads to the Palace. There is 
+supposed to be some maze of plum blossoms later on that you will have to 
+solve in order to actually reach the palace, however.
+~
+55 8 0 1 99 1
+D2
+palace street~
+~
+0 -1 14997
+D3
+palace road~
+~
+0 -1 15002
+S
+#15002
+Palace Street.~
+You stand in a well paved road. There are beautiful flowers to the left and
+right of this road. There seems to be very little traffic here for some reason
+But you have heard that this is the road that leads to the Palace. There is 
+supposed to be some maze of plum blossoms later on that you will have to 
+solve in order to actually reach the palace, however.
+~
+55 8 0 1 99 1
+D1
+palace road~
+~
+0 -1 15001
+D3
+palace road~
+~
+0 -1 15003
+S
+#15003
+Palace Street.~
+You stand in a well paved road. There are beautiful flowers to the left and
+right of this road. There seems to be very little traffic here for some reason
+But you have heard that this is the road that leads to the Palace. There is 
+supposed to be some maze of plum blossoms later on that you will have to 
+solve in order to actually reach the palace, however.
+~
+55 8 0 1 99 1
+D0
+the plum blossom maze~
+~
+0 -1 15008
+D1
+palace road~
+~
+0 -1 15002
+D2
+a nobleman's nouse~
+~
+0 -1 15004
+S
+#15004
+A Nobleman's House.~
+You stand in a huge house, it has all sorts of antique furniture and 
+art pieces. This seems to be the house of a nobleman.
+~
+55 8 0 1 99 1
+D0
+palace road
+~
+~
+0 -1 15003
+D4
+the living quaters~
+~
+0 -1 15005
+S
+#15005
+The Nobleman's Living Quarters.~
+You stand in a huge bedroom. There are other rooms to the north and south
+but the door to them seems to be jammed. Look around and see that there
+isn't much to do here but spy on the nobleman. But then again, he might get up
+set when he finds you in his bedroom.
+~
+55 8 0 1 99 1
+D5
+the nobleman's house~
+~
+0 -1 15004
+S
+#15006
+A Nobleman's House.~
+You stand in a huge house, it has all sorts of antique furniture and 
+art pieces. This seems to be the house of a nobleman.
+~
+55 8 0 1 99 1
+D1
+the palace street~
+~
+0 -1 15003
+D4
+the living quarters~
+~
+0 -1 15007
+S
+#15007
+The Nobleman's Living Quarters.~
+You stand in a huge bedroom. There are other rooms to the north and south
+but the door to them seems to be jammed. Look around and see that there
+isn't much to do here but spy on the nobleman. But then again, he might get up
+set when he finds you in his bedroom.
+~
+55 8 0 1 99 1
+D5
+the nobleman's house~
+~
+0 -1 15006
+S
+#15008
+The Plum Blossom Maze.~
+You stand in a maze of plum blossoms. They seem to shift and turn as you move
+from one place to another. You have the feeling that is you make a wrong turn
+you would be stuck here for a very long time.
+~
+55 8 0 1 99 1
+D0
+the plum blossom maze~
+~
+0 -1 15012
+D1
+the plum blossom maze~
+~
+0 -1 15009
+D2
+~
+~
+0 -1 15003
+D3
+the plum blossom maze~
+~
+0 -1 15012
+S
+#15009
+The Plum Blossom Maze.~
+You stand in a maze of plum blossoms. They seem to shift and turn as you move
+from one place to another. You have the feeling that is you make a wrong turn
+you would be stuck here for a very long time.
+~
+55 8 0 1 99 1
+D0
+you see many plum trees~
+~
+0 -1 15010
+D1
+the plum blossom maze~
+~
+0 -1 15012
+D2
+the plum blossom maze~
+~
+0 -1 15012
+D3
+the plum blossom maze~
+~
+0 -1 15008
+S
+#15010
+The Plum Garden~
+You stand in a very big and beautiful garden of plum trees. The plum blossoms 
+are all in full bloom and you can smell it's lovely fragrance.
+To the north lies the a huge hall and to the west lies a huge lighted hall.
+~
+55 8 0 1 99 1
+D0
+~
+~
+0 -1 15020
+D2
+the plum blossom maze~
+~
+0 -1 15009
+D3
+the great hall~
+~
+0 -1 15011
+S
+#15011
+The Great hall.~
+You stand in a huge lighted hall with smooth white walls. There is another hug
+e hall to the north and this hall continues to the west.
+~
+55 8 0 1 99 1
+D0
+the hall of legends~
+~
+0 -1 15017
+D1
+the plum garden~
+~
+0 -1 15010
+D3
+the great hall~
+~
+0 -1 15013
+S
+#15012
+The Plum Blossom Maze.~
+OOPS!!!!! looks like you made a wrong turn somewhere and are now stuck in the
+plum blossom maze. You look around and all you can see are plum trees, there
+appears to be no exit.
+~
+55 12 0 1 99 1
+S
+#15013
+The Great Hall.~
+You stand in a huge lighted hall. The walls are all made of some white smooth
+surface. There is a another hall that leads to the south of here, and the
+Great Hall leads back to the east.
+~
+55 8 0 1 99 1
+D0
+the hall of heroes~
+~
+0 -1 15014
+D1
+the great hall~
+~
+0 -1 15011
+S
+#15014
+The Hall of Heroes.~
+You stand in a huge hall with silver walls. There are various statues here.
+This is the Hall of Heroes, where the rulers have statues of the greatest hero
+s from the beginning of Arnath's history to the present time. It is believed
+that in the times of greatest need, these statues will come alive and save the
+city from invaders.
+~
+55 8 0 1 99 1
+D0
+the hall of heroes~
+~
+0 -1 15015
+D2
+the great hall~
+~
+0 -1 15013
+S
+#15015
+The Hall of Heroes.~
+You stand in a huge hall with silver walls. There are various statues here.
+This is the Hall of Heroes, where the rulers have statues of the greatest hero
+s from the beginning of Arnath's history to the present time. It is believed
+that in the times of greatest need, these statues will come alive and save the
+city from invaders.
+~
+55 8 0 1 99 1
+D0
+the hall of heroes~
+~
+0 -1 15016
+D2
+the hall of heroes~
+~
+0 -1 15014
+S
+#15016
+The Hall of Heroes.~
+You stand in a huge hall with silver walls. There are various statues here.
+This is the Hall of Heroes, where the rulers have statues of the greatest hero
+s from the beginning of Arnath's history to the present time. It is believed
+that in the times of greatest need, these statues will come alive and save the
+city from invaders.
+~
+55 8 0 1 99 1
+D2
+the hall of heroes~
+~
+0 -1 15015
+S
+#15017
+The Hall of Legends.~
+You stand in a huge hall with golden walls. The thing that catches you attenti
+on the most, other than the fact that the walls are made of gold are the golde
+n statues that line the walls. These statues are of legendary figures in the
+recorded history of Crimson.
+~
+55 8 0 1 99 1
+D0
+the hall of legends~
+~
+0 -1 15018
+D2
+the great hall~
+~
+0 -1 15011
+S
+#15018
+The Hall of Legends.~
+You stand in a huge hall with golden walls. The thing that catches you attenti
+on the most, other than the fact that the walls are made of gold are the golde
+n statues that line the walls. These statues are of legendary figures in the
+recorded history of Crimson.
+~
+55 8 0 1 99 1
+D0
+the hall of legends~
+~
+0 -1 15019
+D2
+the hall of legends~
+~
+0 -1 15017
+S
+#15019
+The Hall of Legends.~
+You stand in a huge hall with golden walls. The thing that catches you attenti
+on the most, other than the fact that the walls are made of gold are the golde
+n statues that line the walls. These statues are of legendary figures in the
+recorded history of Crimson.
+~
+55 8 0 1 99 1
+D2
+the hall of legends~
+~
+0 -1 15018
+S
+#15020
+The Reception Room.~
+You stand in a huge room with dark wooden walls outlined in gold. There are
+a couple of couches for you to rest in while you wait to see the King. There
+are also tables full of various exotic fruits and other foods.
+~
+55 8 0 1 99 1
+D0
+the hall of honor~
+~
+0 -1 15021
+D2
+the plum garden~
+~
+0 -1 15010
+S
+#15021
+The Hall of Honor.~
+You stand in an extremely wide and long hallway. There are Statues of the grea
+test rulers of Arnath lined to the right and left of you. To the north will be
+the Great Throne Room of Arnath. 
+~
+55 8 0 1 99 1
+D0
+the throne room~
+~
+0 -1 15022
+D2
+the reception area~
+~
+0 -1 15020
+S
+#15022
+The Great Throne Room of Arnath.~
+You stand in a great room lined with men garbed in fancy silk clothes. There
+is a huge golden throne to the north of here. The red carpet that you are stan
+ding on leads directly up there. King Adrian IV is presently seated at the 
+throne. You also notice some stairs to the east that would lead you up somewhe
+re, perhaps into the royal chambers themselves.
+~
+55 8 0 1 99 1
+D2
+the hall of Honor~
+~
+0 -1 15021
+D4
+the stairs lead up to the guard room.~
+~
+0 -1 15024
+S
+#15023
+The King's Bedroom.~
+You stand in a huge and elegantly decorated room. There is a huge oaken bed wi
+th gold trimmings. There is also a very large mirror to the left of you and 
+a window the size of the room to the south of you. As you go to the window you
+can see the whole city of Arnath. There is also a huge closet that is next to
+the great bed of King Adrian IV.
+~
+55 8 0 1 99 1
+D0
+the guard room~
+~
+0 -1 15024
+S
+#15024
+The Guard Room.~
+You stand in a huge room full of Elite Royal Guards. They are here to make sur
+e that no undesireables are let into the royal quarters.
+~
+55 8 0 1 99 1
+D1
+the royal hallway~
+~
+0 -1 15025
+D2
+the king's bedroom~
+~
+0 -1 15023
+D5
+the stairs lead down to the throne room~
+~
+0 -1 15022
+S
+#15025
+The Royal Hallway.~
+You stand in a huge hallway. There are guards posted at each and every door,
+but you do not have the urge to go and see what lies in the bedrooms of the
+royal family.
+~
+55 8 0 1 99 1
+D3
+the guard room~
+~
+0 -1 15024
+S
+#15026
+The Entrance to the White Temple.~
+You stand in a huge open area just outside of the White Temple. You have heard
+that the priests of the white temple worship the creator of the world, otherwi
+se known as God. They worship him because they believe that when it is time
+for the world to end, he will come back and reward those those who are good
+and punish those who have been evil. They do not believe that God has much to 
+do with the petty problems that mortals have to face from day to day. They do
+believe that they, as followers of God, should do all they must to help the
+poor and wretched live somewhat easier lives. They don't have much to do here
+since most of the poeple in northern Arnath is rich, but they do help refugees
+from other cities and towns get settled in Arnath.
+~
+55 12 0 1 99 1
+D0
+the altar~
+~
+0 -1 15059
+D5
+valor street~
+~
+0 -1 14957
+S
+#15027
+The High Priest of the White Temple's Meditation Room.~
+You stand in a huge white room with a large white matress for the High
+Priest Anson to meditate on. There is a small white table with a glass of
+clear water in it.
+~
+55 8 0 1 99 1
+D0
+the practising area~
+~
+0 -1 15043
+D3
+the altar~
+~
+0 -1 15059
+S
+#15028
+Entrance to the Blue Temple of Arnath.~
+You stand in a huge open platform. To the east lies the altar room of the 
+Blue Temple. The stairs leads down to Arena Way and you can see the Red
+Temple to the distant west. The Blue Temple is known for it's devotion to the
+fight against evil. The priest here train their deciples to fight not only
+physically and mentally but also magically against the evil forces of the worl
+d, such as the orcs and Kirus.
+~
+55 8 0 1 99 1
+D1
+the altar~
+~
+0 -1 15030
+D5
+arena way~
+~
+0 -1 14941
+S
+#15029
+The Conference Room.~
+You are in a huge white room with a massive wooden table. There are 12 chairs
+and a small next to each one. This is where the priests meet for conferences
+in times of peace and war.
+~
+55 8 0 1 99 1
+D1
+the dining room~
+~
+0 -1 15032
+D2
+the altar~
+~
+0 -1 15030
+S
+#15030
+The Altar Room.~
+You stand before the altar of the blue temple. The locals come here to
+worship the god Tiseus for his long struggle against the forces of evil.
+It is said that if you pray to Tiseus, He would protect you from the 
+evil things that may harm you.
+~
+55 8 0 1 99 1
+D0
+the conference room~
+~
+0 -1 15029
+D2
+the library
+~
+~
+0 -1 15031
+D3
+entrance to the temple~
+~
+0 -1 15028
+S
+#15031
+The Library.~
+You stand in a large room lined with shelves full of books. There are
+some tables and couches for you to sit on and read about the great battles
+against the forces of evil.
+~
+55 8 0 1 99 1
+D0
+the altar~
+~
+0 -1 15030
+D1
+the trainning room~
+~
+0 -1 15034
+S
+#15032
+The Dining Room.~
+You stand in a huge white room . There are a couple of tables with chairs
+for the residents of this temple to eat at. The tables seem to be separated by
+rank so that the elders sit together and the apprentices sit together.
+~
+55 8 0 1 99 1
+D2
+teh living quarters~
+~
+0 -1 15033
+D3
+the conference room~
+~
+0 -1 15029
+S
+#15033
+The Living Quarters~
+You stand in a huge white room with beds lined up against the walls. It seems 
+like all the residents of this temple sleep in this one room.
+~
+55 8 0 1 99 1
+D0
+The Dining Room~
+~
+0 -1 15032
+D2
+the training room~
+~
+0 -1 15034
+S
+#15034
+The Training Room.~
+You stand in a large open platform. You see some priests training here for
+hand to hand combat as well as some practicing the magical arts.
+~
+55 8 0 1 99 1
+D0
+the living quarters~
+~
+0 -1 15033
+D3
+the library~
+~
+0 -1 15031
+S
+#15035
+Dagger Street.~
+You stand on a small narrow street with dimly lit building to the left and rig
+ht of you.
+~
+55 8 0 1 99 1
+D0
+Great Gates.~
+~
+0 -1 14427
+D2
+dagger street~
+~
+0 -1 15036
+S
+#15036
+Dagger Street.~
+You stand on a small narrow street with dimly lit building to the left and rig
+ht of you.
+~
+55 8 0 1 99 1
+D0
+dagger street~
+~
+0 -1 15035
+D1
+badger street
+~
+~
+0 -1 15045
+D2
+dagger street~
+~
+0 -1 15037
+D3
+badger street
+~
+~
+0 -1 15041
+S
+#15037
+Dagger Street.~
+You stand on a small narrow street with dimly lit building to the left and rig
+ht of you.
+~
+55 8 0 1 99 1
+D0
+dagger street~
+~
+0 -1 15036
+D2
+dagger street~
+~
+0 -1 15038
+S
+#15038
+Dagger Street.~
+You stand on a small narrow street with dimly lit building to the left and rig
+ht of you.
+~
+55 8 0 1 99 1
+D0
+dagger street~
+~
+0 -1 15037
+D2
+dagger street~
+~
+0 -1 15039
+S
+#15039
+Dagger Street.~
+You stand on a small narrow street with dimly lit building to the left and rig
+ht of you.
+~
+55 8 0 1 99 1
+D0
+dagger street~
+~
+0 -1 15038
+D1
+twilight avenue~
+~
+0 -1 15053
+D2
+dagger street~
+~
+0 -1 15040
+D3
+twilight avenue~
+~
+0 -1 15049
+S
+#15040
+Dagger Street.~
+You stand on a small narrow street with dimly lit building to the left and rig
+ht of you.
+~
+55 8 0 1 99 1
+D0
+dagger street~
+~
+0 -1 15039
+D2
+thieves' haven~
+~
+0 -1 15090
+S
+#15041
+Badger Street.~
+You stand in a wide cobblestone road. There seem to be some houses or building
+s to the north and south of you. The cut out most of the sunlight so the stree
+t is basically dark. The stories about the thieves in Southern Arnath make you
+check you pockets for missing money.
+~
+55 8 0 1 99 1
+D1
+dagger street~
+~
+0 -1 15036
+D3
+badger street~
+~
+0 -1 15042
+S
+#15042
+Badger Street.~
+You stand in a wide cobblestone road. There seem to be some houses or building
+s to the north and south of you. The cut out most of the sunlight so the stree
+t is basically dark. The stories about the thieves in Southern Arnath make you
+check you pockets for missing money.
+~
+55 8 0 1 99 1
+D1
+badger street~
+~
+0 -1 15041
+D3
+badger street~
+~
+0 -1 15044
+S
+#15043
+The Practice Area.~
+You stand in an open platform above the city walls. Here you see some priests
+reciting various prayers to the God.
+~
+55 8 0 1 99 1
+D2
+the priests meditation room.~
+~
+0 -1 15027
+D3
+the living quarters~
+~
+0 -1 15064
+S
+#15044
+Badger Street.~
+You stand in a wide cobblestone road. There seem to be some houses or building
+s to the north and south of you. The cut out most of the sunlight so the stree
+t is basically dark. The stories about the thieves in Southern Arnath make you
+check you pockets for missing money.
+~
+55 8 0 1 99 1
+D0
+an abandoned house~
+~
+0 -1 15058
+D1
+badger street~
+~
+0 -1 15042
+D2
+an abandoned house~
+~
+0 -1 15057
+S
+#15045
+Badger Street.~
+You stand in a wide cobblestone road. There seem to be some houses or building
+s to the north and south of you. The cut out most of the sunlight so the stree
+t is basically dark. The stories about the thieves in Southern Arnath make you
+check you pockets for missing money.
+~
+55 8 0 1 99 1
+D1
+badger street~
+~
+0 -1 15046
+D3
+dagger street~
+~
+0 -1 15036
+S
+#15046
+Badger Street.~
+You stand in a wide cobblestone road. There seem to be some houses or building
+s to the north and south of you. The cut out most of the sunlight so the stree
+t is basically dark. The stories about the thieves in Southern Arnath make you
+check you pockets for missing money.
+~
+55 8 0 1 99 1
+D1
+badger street~
+~
+0 -1 15048
+D3
+badger street~
+~
+0 -1 15045
+S
+#15047
+Badger Street.~
+You stand in a wide cobblestone road. There seem to be some houses or building
+s to the north and south of you. The cut out most of the sunlight so the stree
+t is basically dark. The stories about the thieves in Southern Arnath make you
+check you pockets for missing money.
+~
+55 8 0 1 99 1
+S
+#15048
+Badger Street.~
+You stand in a wide cobblestone road. There seem to be some houses or building
+s to the north and south of you. The cut out most of the sunlight so the stree
+t is basically dark. The stories about the thieves in Southern Arnath make you
+check you pockets for missing money.
+~
+55 8 0 1 99 1
+D0
+an abandoned building~
+~
+0 -1 15065
+D2
+an abandoned building~
+~
+0 -1 15066
+D3
+badger street~
+~
+0 -1 15046
+S
+#15049
+Twilight Avenue.~
+You stand in a dark and narrow road. There are some small houses all
+along the road.
+~
+55 8 0 1 99 1
+D1
+dagger street~
+~
+0 -1 15039
+D3
+twilight avenue~
+~
+0 -1 15050
+S
+#15050
+Twilight Avenue.~
+You stand in a dark and narrow road. There are some small houses all
+along the road.
+~
+55 8 0 1 99 1
+D1
+twilight avenue~
+~
+0 -1 15049
+D3
+twilight avenue~
+~
+0 -1 15051
+S
+#15051
+Twilight Avenue.~
+You stand in a dark and narrow road. There are some small houses all
+along the road.
+~
+55 8 0 1 99 1
+D1
+twilight avanue~
+~
+0 -1 15050
+D2
+beggar's alley~
+~
+0 -1 15069
+D3
+twilight avenue~
+~
+0 -1 15052
+S
+#15052
+Twilight Avenue.~
+You stand in a dark and narrow road. There are some small houses all
+along the road.
+~
+55 8 0 1 99 1
+D1
+twilight avenue~
+~
+0 -1 15051
+D3
+the west gate.~
+~
+0 -1 15094
+S
+#15053
+Twilight Avenue.~
+You stand in a dark and narrow road. There are some small houses all
+along the road.
+~
+55 8 0 1 99 1
+D1
+twilight avenue~
+~
+0 -1 15054
+D3
+dagger street~
+~
+0 -1 15039
+S
+#15054
+Twilight Avenue.~
+You stand in a dark and narrow road. There are some small houses all
+along the road.
+~
+55 8 0 1 99 1
+D1
+twilight avenue~
+~
+0 -1 15055
+D3
+twilight avenue~
+~
+0 -1 15053
+S
+#15055
+Twilight Avenue.~
+You stand in a dark and narrow road. There are some small houses all
+along the road.
+~
+55 8 0 1 99 1
+D1
+twilight street~
+~
+0 -1 15056
+D2
+a dark alley~
+~
+0 -1 15074
+D3
+twilight avanue~
+~
+0 -1 15054
+S
+#15056
+Twilight Avenue.~
+You stand in a dark and narrow road. There are some small houses all
+along the road.
+~
+55 8 0 1 99 1
+D1
+east gate~
+~
+0 -1 15093
+D3
+twilight street~
+~
+0 -1 15055
+S
+#15057
+An abandoned house.~
+You stand in an empty house that looks like it could be the hideout
+of a smuggler or thief. You don't want to stay to find out which.
+~
+55 8 0 1 99 1
+D0
+badger street~
+~
+0 -1 15044
+D4
+the stairs lead up to another floor~
+~
+0 -1 15061
+S
+#15058
+An abandoned house.~
+You stand in an empty house that looks like it could be the hideout
+of a smuggler or thief. You don't want to stay to find out which.
+~
+55 8 0 1 99 1
+D2
+badger street~
+~
+0 -1 15044
+D4
+the stairs lead up to the second floor of this abandoned building.~
+~
+0 -1 15062
+S
+#15059
+The Altar of the White Temple.~
+You stand in a huge white washed room. There is a huge altar to the north and
+you see many people here paying their respects to God. There seems to be a
+meditation room to the east and a rest room to the west.~
+55 8 0 1 99 1
+D1
+the meditation room~
+~
+0 -1 15027
+D2
+entrance to the temple~
+~
+0 -1 15026
+D3
+the rest area~
+~
+0 -1 15060
+S
+#15060
+The Rest Area.~
+You stand in a huge room full of couches and other pieces of furniture. This
+is mainly for travelers or weary peasants that just need some place to stay fo
+r a while, until they get back on their feet.
+~
+55 8 0 1 99 1
+D0
+the great kithcen~
+~
+0 -1 15063
+D1
+the altar~
+~
+0 -1 15059
+S
+#15061
+The second floor.~
+You stand on the second floor of this abandoned house. There doesn't seem to
+be much of anything here except a lot of dust and a few discarded articles
+of clothing. There are traces that someone has lived here however hard that
+might be to believe.
+~
+55 8 0 1 99 1
+D5
+the stairs lead down to the first floor of this abandoned building~
+~
+0 -1 15057
+S
+#15062
+The second floor.~
+You stand on the second floor of this abandoned house. There doesn't seem to
+be much of anything here except a lot of dust and a few discarded articles
+of clothing. There are traces that someone has lived here however hard that
+might be to believe.
+~
+55 8 0 1 99 1
+D5
+the stairs lead down to the first floor of this abandoned house.~
+~
+0 -1 15058
+S
+#15063
+The Great Kitchen.~
+You stand in a huge kitchen. There are various stoves and ovens here. The
+reason for such a huge kitchen is because the priests of the white temple
+hand out free food for the homeless so they have to make a lot of it.
+~
+55 8 0 1 99 1
+D1
+the living quarters~
+~
+0 -1 15064
+D2
+the rest area~
+~
+0 -1 15060
+S
+#15064
+The Living Quarters.~
+You stand in a huge room with white walls. There are beds all along the walls.
+It appears that the priests and apprentices all sleep in this room.
+~
+55 8 0 1 99 1
+D1
+the practice area~
+~
+0 -1 15043
+D3
+the Great Kitchen.~
+~
+0 -1 15063
+S
+#15065
+An abandoned house.~
+You stand in an empty house that looks like it could be the hideout
+of a smuggler or thief. You don't want to stay to find out which.
+~
+55 8 0 1 99 1
+D2
+badger street~
+~
+0 -1 15048
+D4
+the second floor~
+~
+0 -1 15068
+S
+#15066
+An abandoned house.~
+You stand in an empty house that looks like it could be the hideout
+of a smuggler or thief. You don't want to stay to find out which.
+~
+55 8 0 1 99 1
+D0
+badger street~
+~
+0 -1 15048
+D4
+the second floor~
+~
+0 -1 15067
+S
+#15067
+The second floor.~
+You stand on the second floor of this abandoned house. There doesn't seem to
+be much of anything here except a lot of dust and a few discarded articles
+of clothing. There are traces that someone has lived here however hard that
+might be to believe.
+~
+55 8 0 1 99 1
+D5
+the first floor of the abandoned house.~
+~
+0 -1 15066
+S
+#15068
+The second floor.~
+You stand on the second floor of this abandoned house. There doesn't seem to
+be much of anything here except a lot of dust and a few discarded articles
+of clothing. There are traces that someone has lived here however hard that
+might be to believe.
+~
+55 8 0 1 99 1
+D5
+an abandoned house.~
+~
+0 -1 15065
+S
+#15069
+Beggar's Alley~
+You quickly discover why this place is called beggar's alley. There are more 
+beggars here than you have ever seen in your whole life combined. The street
+is dirty and smells pretty bad.
+~
+55 8 0 1 99 1
+D0
+twilight avenue~
+~
+0 -1 15051
+D2
+beggar's alley~
+~
+0 -1 15070
+S
+#15070
+Beggar's Alley~
+You quickly discover why this place is called beggar's alley. There are more 
+beggars here than you have ever seen in your whole life combined. The street
+is dirty and smells pretty bad.
+~
+55 8 0 1 99 1
+D0
+beggar's alley~
+~
+0 -1 15069
+D1
+a dark and narrow alley~
+~
+0 -1 15088
+D2
+beggar's alley~
+~
+0 -1 15071
+S
+#15071
+Beggar's Alley~
+You quickly discover why this place is called beggar's alley. There are more 
+beggars here than you have ever seen in your whole life combined. The street
+is dirty and smells pretty bad.
+~
+55 8 0 1 99 1
+D0
+beggar's alley~
+~
+0 -1 15070
+D2
+beggar's aller~
+~
+0 -1 15072
+S
+#15072
+Beggar's Alley~
+You quickly discover why this place is called beggar's alley. There are more 
+beggars here than you have ever seen in your whole life combined. The street
+is dirty and smells pretty bad.
+~
+55 8 0 1 99 1
+D0
+beggar's alley~
+~
+0 -1 15071
+D2
+beggar's alley~
+~
+0 -1 15073
+S
+#15073
+End of Beggar's Alley.~
+You quickly discover why this place is called beggar's alley. There are more 
+beggars here than you have ever seen in your whole life combined. The street
+is dirty and smells pretty bad.
+~
+55 8 0 1 99 1
+D0
+beggar's alley~
+~
+0 -1 15072
+D1
+alte street~
+~
+0 -1 15079
+S
+#15074
+A dark alley.~
+You stand in a dark and quiet alley. There is a smell of decay, human or
+animal, you can't tell. There has been many people murdered in this alley,
+you don't have to be psychic to figure that out.
+~
+55 9 0 1 99 1
+D0
+twilight avenue~
+~
+0 -1 15055
+D2
+a dark alley~
+~
+0 -1 15075
+S
+#15075
+A dark alley.~
+You stand in a dark and quiet alley. There is a smell of decay, human or
+animal, you can't tell. There has been many people murdered in this alley,
+you don't have to be psychic to figure that out.
+~
+55 9 0 1 99 1
+D0
+a dark alley~
+~
+0 -1 15074
+D2
+a dark alley~
+~
+0 -1 15076
+S
+#15076
+A dark alley.~
+You stand in a dark and quiet alley. There is a smell of decay, human or
+animal, you can't tell. There has been many people murdered in this alley,
+you don't have to be psychic to figure that out.
+~
+55 9 0 1 99 1
+D0
+a dark alley~
+~
+0 -1 15075
+D2
+a dark alley~
+~
+0 -1 15077
+S
+#15077
+A dark alley.~
+You stand in a dark and quiet alley. There is a smell of decay, human or
+animal, you can't tell. There has been many people murdered in this alley,
+you don't have to be psychic to figure that out.
+~
+55 9 0 1 99 1
+D0
+a dark aller~
+~
+0 -1 15076
+D2
+a dark alley~
+~
+0 -1 15078
+S
+#15078
+End of the dark alley.~
+You stand in a dark and quiet alley. There is a smell of decay, human or
+animal, you can't tell. There has been many people murdered in this alley,
+you don't have to be psychic to figure that out.
+~
+55 9 0 1 99 1
+D0
+a dark alley~
+~
+0 -1 15077
+D3
+alte street~
+~
+0 -1 15083
+S
+#15079
+Alte Street.~
+You stand in a huge street. There are some shops to the north of this street
+and the city walls lies to the south.
+~
+55 8 0 1 99 1
+D0
+the bakery~
+~
+0 -1 15084
+D1
+alte street~
+~
+0 -1 15080
+D3
+end of beggar's alley~
+~
+0 -1 15073
+S
+#15080
+Alte Street.~
+You stand in a huge street. There are some shops to the north of this street
+and the city walls lies to the south.
+~
+55 8 0 1 99 1
+D0
+the general store~
+door~
+1 0 15085
+D1
+the red bridge~
+~
+0 -1 15081
+D3
+alte street~
+~
+0 -1 15079
+S
+#15081
+On the Red Bridge.~
+You stand in the middle of a great red bridge. There is a small stream running
+ro the north and south of here, ending in a pond a little to the south.
+~
+55 8 0 1 99 1
+D1
+alte street~
+~
+0 -1 15082
+D3
+alte street~
+~
+0 -1 15080
+S
+#15082
+Alte Street.~
+You stand in a huge street. There are some shops to the north of this street
+and the city walls lies to the south.
+~
+55 8 0 1 99 1
+D0
+the armoury~
+~
+0 -1 15086
+D1
+alte street~
+~
+0 -1 15083
+D3
+the bridge~
+~
+0 -1 15081
+S
+#15083
+Alte Street.~
+You stand in a huge street. There are some shops to the north of this street
+and the city walls lies to the south.
+~
+55 8 0 1 99 1
+D0
+the weapon shop~
+~
+0 -1 15087
+D1
+end of a dark alley~
+~
+0 -1 15078
+D3
+alte street~
+~
+0 -1 15082
+S
+#15084
+The bakery.~
+You stand in a room full of stale bread. It looks like there hasn't been much
+business here. Either that or the baker doesn't enough to keep it looking
+clean.
+~
+55 8 0 1 99 1
+D2
+alte street~
+~
+0 -1 15079
+S
+#15085
+The general store of southern arnath.~
+You stand in a huge store full of things that might have belonged to someone
+else, who may or may not still be living.
+~
+55 8 0 1 99 1
+D2
+alte street~
+door~
+1 0 15080
+S
+#15086
+The Armoury.~
+You stand in a room full of blood stained armor. You think twice before
+buying anything from this place.
+~
+55 8 0 1 99 1
+D2
+alte street~
+~
+0 -1 15082
+S
+#15087
+The Weapon Store.~
+You stand in a huge store full of weapons from all the places of the world.
+How it got to be here you do not know and most likely do not want to know.
+~
+55 8 0 1 99 1
+D2
+alte street~
+~
+0 -1 15083
+S
+#15088
+Thieves' Haven~
+You stand in a narrow street which is pretty dark. You don't know when
+somebody is going to stab you back or rob you blind without you even knowing i
+t. There doesn't seem to be much choice but to look for a way out now that
+you got yourself into this place that is known as Thieves' Haven.
+~
+55 9 0 1 99 1
+D1
+a dark and narrow alley~
+~
+0 -1 15089
+D3
+beggar's alley~
+~
+0 -1 15070
+S
+#15089
+Thieves' Haven~
+You stand in a narrow street which is pretty dark. You don't know when
+somebody is going to stab you back or rob you blind without you even knowing i
+t. There doesn't seem to be much choice but to look for a way out now that
+you got yourself into this place that is known as Thieves' Haven.
+~
+55 9 0 1 99 1
+D1
+a dark and narrow street~
+~
+0 -1 15090
+D3
+a dark and narrow street~
+~
+0 -1 15088
+S
+#15090
+Thieves' Haven~
+You stand in a narrow street which is pretty dark. You don't know when
+somebody is going to stab you back or rob you blind without you even knowing i
+t. There doesn't seem to be much choice but to look for a way out now that
+you got yourself into this place that is known as Thieves' Haven.
+~
+55 9 0 1 99 1
+D0
+dagger street~
+~
+0 -1 15040
+D1
+a dark and narrow street~
+~
+0 -1 15091
+D3
+a dark and narrow street~
+~
+0 -1 15089
+S
+#15091
+Thieves' Haven~
+You stand in a narrow street which is pretty dark. You don't know when
+somebody is going to stab you back or rob you blind without you even knowing i
+t. There doesn't seem to be much choice but to look for a way out now that
+you got yourself into this place that is known as Thieves' Haven.
+~
+55 9 0 1 99 1
+D1
+a dark and narrow street~
+~
+0 -1 15092
+D3
+a dark and narrow street~
+~
+0 -1 15090
+S
+#15092
+Thieves' Haven~
+You stand in a narrow street which is pretty dark. You don't know when
+somebody is going to stab you back or rob you blind without you even knowing i
+t. There doesn't seem to be much choice but to look for a way out now that
+you got yourself into this place that is known as Thieves' Haven.
+~
+55 9 0 1 99 1
+D1
+a dark alley~
+~
+0 -1 15075
+D3
+a dark and narrow street.~
+~
+0 -1 15091
+S
+#15093
+The East Gate.~
+You stand before a huge iron gate. There is a huge road that leads east of her
+e but the gate is currently closed. Twilight Street lies to the west however.
+~
+55 8 0 1 99 1
+D3
+twilight street~
+~
+0 -1 15056
+S
+#15094
+The West Gate.~
+You stand before the great iron gates that marks the western entrance or
+exit of this city. There is a road that leads out west of here and Twilight
+Street lies to the east.
+~
+55 8 0 1 99 1
+D1
+twilight street.~
+~
+0 -1 15052
+S
+#15095
+The Great Throne Room of Arnath.~
+You stand in a great room lined with men garbed in fancy silk clothes. There
+is a huge golden throne to the north of here. The red carpet that you are stan
+ding on leads directly up there. King Adrian IV is presently seated at the 
+throne. You also notice some stairs to the east that would lead you up somewhe
+re, perhaps into the royal chambers themselves.
+~
+55 8 0 1 99 1
+S
+#15096
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+55 0 32 1 99 7
+D1
+The river continues toward the ocean.
+~
+~
+0 -1 15097
+D3
+The river continues.
+~
+~
+0 -1 15000
+S
+#15097
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+55 0 32 1 99 7
+D1
+The river continues toward the ocean.
+~
+~
+0 -1 15098
+D3
+The river continues.
+~
+~
+0 -1 15096
+S
+#15098
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+55 0 32 1 99 7
+D1
+The river continues to the ocean.
+~
+~
+0 -1 15099
+D3
+The river continues.
+~
+~
+0 -1 15097
+S
+#15099
+The Great River Yansu.~
+You are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+~
+55 0 32 1 99 7
+D1
+The river continues toward the ocean.
+~
+~
+0 -1 1000
+D3
+The river continues.
+~
+~
+0 -1 15098
+S
+$~
+#999999

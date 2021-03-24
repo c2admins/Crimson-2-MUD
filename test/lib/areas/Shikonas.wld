@@ -1,0 +1,2111 @@
+#1000
+&BThe Great River Yansu&n~
+&cYou are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.&n
+~
+12 1048576 32 1 99 7
+D1
+The river continues toward the ocean.
+~
+~
+0 -1 1001
+D3
+The river continues.
+~
+~
+0 -1 15099
+S
+#1001
+&BThe Great River Yansu&n~
+&cYou are floating on the legendary river, the Yansu. It is about 30 meters wide
+and nobody really knows how long it is. There have been many battles for
+control of this important river.
+&n
+~
+12 1048580 32 1 99 7
+D1
+The river begins to widen as it rushes for the ocean.
+~
+~
+0 -1 1002
+D3
+The river continues.
+~
+~
+0 -1 1000
+S
+#1002
+&BThe Widening of the Great River Yansu&n~
+&cYou are floating on the legendary river, the Yansu. It starts to 
+widen as the water rushes down towards the mouth to the east. 
+There has been many battles for control of this great river.
+&n
+~
+12 1048576 32 1 99 7
+D1
+The river widens into the mouth of the Yansu river.
+~
+~
+0 -1 1004
+D3
+The river continues.
+
+~
+~
+0 -1 1001
+S
+#1003
+&BMouth of the Yansu River&n~
+&cYou are floating in the mouth of the legendary river, the Yansu.
+The river widens to about 60 feet at the mouth, with water flowing
+at a rapid pace in some areas, mixing the fresh water with the salt
+of the Shikonas Sea.&n
+~
+12 1048576 67584 1 99 7
+D0
+The northern half of the river mouth lies to the north.
+~
+~
+0 -1 1004
+D1
+The Shikonas Sea lies to the east.
+~
+~
+0 -1 1068
+D2
+A large path leads up the river bank to the south.
+~
+~
+0 -1 1006
+D3
+The Yansu river flows from the west as far as the eye can see.
+~
+~
+0 -1 1004
+S
+#1004
+&BMouth of the Yansu River&n~
+&cYou are floating in the mouth of the legendary river, the Yansu.
+The river widens to about 60 feet at the mouth, with water flowing
+at a rapid pace in some areas, mixing the fresh water with the salt
+of the Shikonas Sea.&n
+~
+12 1048576 4128 1 99 7
+D0
+The small path continues through the forest.
+~
+~
+0 -1 1005
+D1
+The mouth of the Yansu river extends to the east.
+~
+~
+0 -1 1003
+D2
+The mouth of the Yansu river opens up to the south.
+~
+~
+0 -1 1003
+D3
+The Yansu river flows from the west as far as the eye can see.
+~
+~
+0 -1 1002
+S
+#1005
+&BThe Shikonas Sea Coast Line&n~
+&cThe waters of the Skikonas Sea are much calmer in comparison 
+to that outside the protection of the sourrouning islands.
+&n
+~
+12 1048576 4096 1 99 7
+D0
+The Shikonas Sea Coastline continues to the north.
+~
+~
+0 -1 1008
+D2
+The Yansu River breaks the Shikonas coastline to the south.
+~
+~
+0 -1 1004
+E
+tracks animal mud~
+Just boring old animal tracks in the mud, both small tracks and large.  
+Some of the large tracks seem to head through the scrub to the east.
+~
+S
+#1006
+&gDistinct Path Up the Southern Bank&n~
+A large path leads up the southern bank from the Yansu mouth.  The path is
+well trodden and shows signs of recent travell.  The forest to both sides of
+the path looks thick and deep, a dampness lingers in the air from the
+humidity of the forest.  The path ends at a small cottage in the forest to the
+south.
+~
+12 1048576 0 1 99 3
+D0
+The path winds down the southern bank of the Yansu mouth.
+~
+~
+0 -1 1003
+D2
+The ferry man's cottage is to the south.
+~
+door cottage~
+9 -1 1007
+S
+#1007
+&yCottage &nin the &GForest&n~
+The cottage you are standing in is surrounded with overgrown forest growth
+pushing its way through the windows, and in some sections even the walls.
+The cottage provides a peaceful home for the ferry man, who trys to make a
+living from ferrying brave persons between the Islands of Shilinta.
+A chart hangs crooked on the wall.
+~
+12 1048584 0 1 99 0
+D0
+The pathway leads back to the mouth of the twistly little creek.
+~
+door cottage~
+9 -1 1006
+E
+chart wall~
+
+                Shikonas Islands
+                Designed by: Cyric
+                Suggested levels: 17 - 41
+                General zone alignment: good
+~
+S
+#1008
+&BThe Shikonas Sea Coast Line&n~
+&cThe waters of the Skikonas Sea are much calmer in comparison 
+to that outside the protection of the sourrouning islands.
+&n
+~
+12 1048576 4096 1 99 7
+D0
+The Shikonas Sea Coastline continues to the north.
+~
+~
+0 -1 1009
+D2
+The Shikonas Sea Coastline continues to the south.
+~
+~
+0 -1 1005
+D3
+The forest is thick, but passable.
+~
+~
+16 -1 1005
+S
+#1009
+&BThe Shikonas Sea Coast Line&n~
+&cThe waters of the Skikonas Sea are much calmer in comparison 
+to that outside the protection of the sourrouning islands.
+&n
+~
+12 1048576 4096 1 99 7
+D0
+The waters of the Shikonas Sea get rougher to the north.
+~
+~
+0 -1 1098
+D2
+The Shikonas Sea Coastline continues to the south.
+~
+~
+0 -1 1008
+S
+#1010
+&BCoast Line&n~
+&cYou are passing along, just off the wooded coastline to your west.  Just a
+little north you can see the mouth of the River Karyna, opening out into the 
+ocean.  The even coastline continues southward.
+&n
+~
+12 1048585 4096 1 99 0
+D0
+nothing special.
+~
+~
+0 -1 4954
+D2
+The Shikonas Sea islands can be seen on the horizon to the south.
+~
+~
+0 -1 1099
+S
+#1011
+&YSholana Island Beach&n~
+You have reached the beach of the beautiful Sholana Island.  The island isn't 
+as densely covered in growth and vegetation as most of the lands around the 
+area, but it shows obvious signs of inhabitation.
+~
+12 1048576 0 1 99 6
+D0
+The island extends to the north.
+~
+~
+0 -1 1012
+D2
+The Shikonas Sea lies to the south.
+~
+~
+0 -1 1074
+S
+#1012
+&gSholana Island&n~
+Sholana  Island isn't as densely covered in growth and vegetation as most of 
+the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
+rises up to the skyline from fires around the island.
+~
+12 1048576 0 1 99 3
+D0
+The island extends to the north.
+~
+~
+0 -1 1013
+D2
+The beach lies to the south.
+~
+~
+0 -1 1011
+S
+#1013
+&gSholana Island&n~
+Sholana  Island isn't as densely covered in growth and vegetation as most of 
+the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
+rises up to the skyline from fires around the island.
+~
+12 1048576 0 1 99 3
+D0
+The island extends to the north.
+~
+~
+0 -1 1014
+D1
+The island extends to the east.
+~
+~
+0 -1 1016
+D2
+The island extends to the south.
+~
+~
+0 -1 1012
+S
+#1014
+&gSholana Island&n~
+Sholana  Island isn't as densely covered in growth and vegetation as most of 
+the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
+rises up to the skyline from fires around the island.
+~
+12 1048576 0 1 99 3
+D1
+The island extends to the east.
+~
+~
+0 -1 1015
+D2
+The island extends to the south.
+~
+~
+0 -1 1013
+S
+#1015
+&gSholana Island&n~
+Sholana  Island isn't as densely covered in growth and vegetation as most of 
+the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
+rises up to the skyline from fires around the island.
+~
+12 1048576 0 1 99 3
+D2
+The island extends to the south.
+~
+~
+0 -1 1016
+D3
+The island extends to the west.
+~
+~
+0 -1 1014
+S
+#1016
+&gSholana Island&n~
+Sholana  Island isn't as densely covered in growth and vegetation as most of 
+the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
+rises up to the skyline from fires around the island.
+~
+12 1048576 0 1 99 3
+D0
+The island extends to the north.
+~
+~
+0 -1 1015
+D3
+The island extends to the west.
+~
+~
+0 -1 1013
+S
+#1017
+&YLorantis Island Beach&n~
+You stand on the beach of the small island of Lorantis.   The island is covered
+in a thick forest filled with the tranquill sounds of birds and small animals. 
+Looking back across the Shikonas Sea, you spot smoke from sorrounding 
+islands, to distint to make out exactly where.
+~
+12 1048576 0 1 99 6
+D0
+The Shikonas Sea lies to the north.
+~
+~
+0 -1 1075
+D2
+The beach continues down the eastern half of the island.
+~
+~
+0 -1 1018
+D3
+The forest gets thicker over the western half of the island.
+~
+~
+0 -1 1019
+S
+#1018
+&YLorantis Island Beach&n~
+You stand on the beach of the small island of Lorantis.   The island is covered
+in a thick forest filled with the tranquill sounds of birds and small animals. 
+Looking back across the Shikonas Sea, you spot smoke from sorrounding 
+islands, to distint to make out exactly where.
+~
+12 1048576 0 1 99 6
+D0
+The beach continues around the northern end of the island.
+~
+~
+0 -1 1017
+D1
+The Shikonas Sea is to the east.
+~
+~
+0 -1 1078
+D2
+The beach turns to forest at the sothern end of the island.
+~
+~
+0 -1 1021
+D3
+The forest gets thick on the western half of the island.
+~
+~
+0 -1 1020
+S
+#1019
+&yWestern Side of Lorantis island&n~
+Lorantis Island is covered in a dry green vegetation that gets suprisingly 
+thick in parts.  Small animals rush across your path and head off into the 
+depths of the island.
+~
+12 1048576 0 1 99 3
+D1
+The forest opens up into a large beach running down the eastern half of 
+the island.
+~
+~
+0 -1 1017
+D2
+The forest looks just as thick that way.
+~
+~
+0 -1 1020
+S
+#1020
+&yWestern Side of Lorantis island&n~
+Lorantis Island is covered in a dry green vegetation that gets suprisingly 
+thick in parts.  Small animals rush across your path and head off into the 
+depths of the island.
+~
+12 1048576 0 1 99 3
+D0
+The forest looks just as thick that way.
+~
+~
+0 -1 1019
+D1
+The forest opens up into a large beach.
+~
+~
+0 -1 1018
+S
+#1021
+&ySouthern End of Lorantis Island&n~
+Lorantis Island is covered in a dry green vegetation that gets suprisingly 
+thick in parts.  Small animals rush across your path and head off into the 
+depths of the island.
+~
+12 1048576 0 1 99 3
+D0
+The beach lies to the north.
+~
+~
+0 -1 1018
+S
+#1022
+&YVensita Island beach&n~
+You stand on the beach of Venstia Island.  The island  extends to the 
+northeast of here covered in sub-tropical rainforest rich with water and 
+moss.  A large tower can be seen above the treetops at the back of the island.
+
+~
+12 1048576 0 1 99 6
+D1
+The beach disappears into the forest.
+~
+~
+0 -1 1023
+D3
+The Shikonas Sea lies to the west.
+~
+~
+0 -1 1076
+S
+#1023
+&gVensita Island&n~
+One of the largest of the Shikonas Islands, Vensita island is covered in a 
+dark sub-troppical rainforest. Originaly this forest would of been pretty 
+much unpassable, but hundreds of small tracks and paths have carved their
+way through the island.
+~
+12 1048577 0 1 99 3
+D0
+Deeper into the forest.
+~
+~
+0 -1 1025
+D1
+Deeper into the forest.
+~
+~
+0 -1 1024
+D3
+The forest opens up into a beach.
+~
+~
+0 -1 1022
+S
+#1024
+&gVensita Island&n~
+One of the largest of the Shikonas Islands, Vensita island is covered in a 
+dark sub-troppical rainforest. Originaly this forest would of been pretty 
+much unpassable, but hundreds of small tracks and paths have carved their 
+way through the island.
+~
+12 1048577 0 1 99 3
+D0
+Deeper into the forest.
+~
+~
+0 -1 1026
+D3
+Deeper into the forest.
+~
+~
+0 -1 1023
+S
+#1025
+&gVensita Island&n~
+One of the largest of the Shikonas Islands, Vensita island is covered in a 
+dark sub-troppical rainforest. Originaly this forest would of been pretty 
+much unpassable, but hundreds of small tracks and paths have carved their 
+way through the island.
+~
+12 1048577 0 1 99 3
+D0
+Deeper into the forest.
+~
+~
+0 -1 1027
+D1
+Deeper into the forest.
+~
+~
+0 -1 1026
+D2
+Deeper into the forest.
+~
+~
+0 -1 1023
+S
+#1026
+&gVensita Island&n~
+One of the largest of the Shikonas Islands, Vensita island is covered in a 
+dark sub-troppical rainforest. Originaly this forest would of been pretty 
+much unpassable, but hundreds of small tracks and paths have carved their 
+way through the island.
+~
+12 1048577 0 1 99 3
+D2
+Deeper into the forest.
+~
+~
+0 -1 1024
+D3
+Deeper into the forest.
+~
+~
+0 -1 1025
+S
+#1027
+&gVensita Island&n~
+One of the largest of the Shikonas Islands, Vensita island is covered in a 
+dark sub-troppical rainforest. Originaly this forest would of been pretty 
+much unpassable, but hundreds of small tracks and paths have carved their 
+way through the island.
+~
+12 1048577 0 1 99 3
+D0
+Deeper into the forest.
+~
+~
+0 -1 1029
+D2
+Deeper into the forest.
+~
+~
+0 -1 1025
+S
+#1028
+Vensita Island.~
+One of the largest of the Shikonas Islands, Vensita island is covered in a 
+dark sub-troppical rainforest. Originaly this forest would of been pretty 
+much unpassable, but hundreds of small tracks and paths have carved their 
+way through the island.
+~
+12 1048577 0 1 99 3
+D1
+Deeper into the forest.
+~
+~
+0 -1 1029
+S
+#1029
+Vensita Island.~
+One of the largest of the Shikonas Islands, Vensita island is covered in a 
+dark sub-troppical rainforest. Originaly this forest would of been pretty 
+much unpassable, but hundreds of small tracks and paths have carved their 
+way through the island.
+~
+12 1048577 0 1 99 3
+D1
+Deeper into the forest.
+~
+~
+0 -1 1030
+D2
+Deeper into the forest.
+~
+~
+0 -1 1027
+D3
+Deeper into the forest.
+~
+~
+0 -1 1028
+S
+#1030
+Vensita Island.~
+One of the largest of the Shikonas Islands, Vensita island is covered in a 
+dark sub-troppical rainforest. Originaly this forest would of been pretty 
+much unpassable, but hundreds of small tracks and paths have carved their 
+way through the island.
+A large tower is to the south of here, looking over the forest.
+~
+12 1048577 0 1 99 3
+D2
+The tower to the south looks old.
+~
+door tower~
+9 -1 1031
+D3
+Deeper into the forest.
+~
+~
+0 -1 1029
+S
+#1031
+&KInside the Tower&n~
+You stand in the base level of a tower that overlooks Vensita Island, along 
+with a few other of the Shikonas Islands.  The tower walls have been 
+constructed from bricks of black rock that dont look like they have come 
+from the area.  The rooms is fairly empty except for the spiral staircase 
+leading up.
+~
+12 1048585 0 1 99 0
+D0
+The forest awaits you outside the tower.
+~
+door ~
+9 -1 1030
+D4
+A spiral staircase leads to the top of the tower.
+~
+~
+0 -1 1032
+S
+#1032
+&KSpiral Staircase&n~
+You climb your way up an old spiral starcase that leads to the top of the 
+tower.  Small slits in the walls of the tower allow sharp beams of light to 
+highlight points on the walls and staircase.
+~
+12 1048585 0 1 99 0
+D4
+The top floor of the tower is above.
+~
+~
+0 -1 1033
+D5
+The enterance to the tower is below.
+~
+~
+0 -1 1031
+E
+stairs staircase~
+Small beams of light seem to focus on the walls and stairs.
+~
+E
+walls bricks~
+One of the bricks that the light focuses on seems able to be moved.
+~
+S
+#1033
+&KTop of the Tower&n~
+The top floor of the tower gives a beautiful view of some of the Shikonas 
+Islands.  There is not much to the north other then sea, leading to a distant 
+City-Port, but looking over the Shikonas Sea to the south you count five 
+other islands.
+~
+12 1048584 0 1 99 0
+D0
+A doorway lies to the north.
+~
+door~
+9 -1 1034
+D5
+A spiral staircase leads down.
+~
+~
+0 -1 1032
+S
+#1034
+&KTop of the Tower&n~
+The top floor of the tower gives a beautiful view of some of the Shikonas 
+Islands.  There is not much to the north other then sea, leading to a distant 
+City-Port, but looking over the Shikonas Sea to the south you count five 
+other islands.
+~
+12 1048584 0 1 99 0
+D2
+The stairs lead down from that part of the tower.
+~
+door~
+9 -1 1033
+S
+#1035
+&YShikarnith Island Beach&n~
+&gShikarnith Island is the largest and most densly populated island of all the
+Shikonas Islands.  From where you stand on the beach, you can sea a small 
+village through the forest to the south east, A village housing a small tribe
+of native wood elves.&n
+~
+12 1048576 198656 1 99 6
+D2
+The beach continues to the south.
+~
+~
+0 -1 1036
+D3
+The Shikonas Sea lies to the west.
+~
+~
+0 -1 1077
+S
+#1036
+&YShikarnith Island Beach&n~
+&gShikarnith Island is the largest and most densly populated island of all the
+Shikonas Islands.  From where you stand on the beach, you can sea a small 
+village through the forest to the south east, A village housing a small tribe
+of native wood elves.&n
+~
+12 1048576 0 1 99 2
+D0
+The beach continues to the northern tip of the island.
+~
+~
+0 -1 1035
+D1
+Looks like your going to have to bash your way through the scrub to the east
+if you want to get to the village.
+~
+~
+0 -1 1037
+S
+#1037
+&wOutside the Village&n~
+You stand outside the village of native wood elves, elven mothers come 
+rushing out of their huts to take their children off the village road as they 
+see your approach. Although the elves are peacefull and loving race, they can
+be very hostile to intruders.
+~
+12 1048576 0 1 99 3
+D1
+The village lies to the east.
+~
+~
+0 -1 1038
+D3
+The forest breaks out into a beach to the west.
+~
+~
+0 -1 1036
+S
+#1038
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of their huts to take there children back into the 
+safety of thier homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D1
+more of the village.
+~
+~
+0 -1 1039
+D2
+more of the village.
+~
+~
+0 -1 1041
+D3
+A short walk through the forest should land you back at the beach.
+~
+~
+0 -1 1037
+S
+#1039
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of thier huts to take their children back into the 
+safety of their homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D1
+more of the village.
+~
+~
+0 -1 1040
+D2
+A well built hut is to the south.
+~
+~
+0 -1 1050
+D3
+more of the village.
+~
+~
+0 -1 1038
+S
+#1040
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of thier huts to take their children back into the 
+safety of their homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D2
+A well built hut is to the south.
+~
+~
+0 -1 1051
+D3
+more of the village.
+~
+~
+0 -1 1039
+S
+#1041
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of their huts to take there children back into the 
+safety of thier homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D0
+more of the village.
+~
+~
+0 -1 1038
+D2
+more of the village.
+~
+~
+0 -1 1042
+S
+#1042
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of thier huts to take their children back into the 
+safety of their homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D0
+more of the village.
+~
+~
+0 -1 1041
+D2
+more of the village.
+~
+~
+0 -1 1043
+S
+#1043
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of thier huts to take their children back into the 
+safety of their homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D0
+more of the village.
+~
+~
+0 -1 1042
+D1
+The shaman's hut lies to the east.
+~
+~
+0 -1 1049
+D2
+more of the village.
+~
+~
+0 -1 1044
+S
+#1044
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of thier huts to take their children back into the 
+safety of their homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D0
+more of the village.
+~
+~
+0 -1 1043
+D1
+more of the village.
+~
+~
+0 -1 1045
+D2
+more of the village.
+~
+~
+0 -1 1052
+S
+#1045
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of thier huts to take their children back into the 
+safety of their homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D1
+more of the village.
+~
+~
+0 -1 1046
+D3
+more of the village.
+~
+~
+0 -1 1044
+S
+#1046
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of thier huts to take their children back into the 
+safety of their homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D1
+The village ends to the east.
+~
+~
+0 -1 1047
+D3
+more of the village.
+~
+~
+0 -1 1045
+S
+#1047
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of thier huts to take their children back into the 
+safety of their homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D0
+A fur trappers hut lies to the north.
+~
+~
+0 -1 1048
+D3
+more of the village.
+~
+~
+0 -1 1046
+S
+#1048
+&yFur Trappers &YHut&n~
+&KThis hut is used by the wood elf fur trapper as a place to skin wildlife, and 
+treat the skin using an innate native wood elven technique involving traditional
+herbs and bark from surrounding trees.  Furs from both large and small 
+wildlife cover the walls and hang from the roof, emitting an unpleasant odor
+into the air.&n
+~
+12 1048588 0 1 99 0
+D1
+Not much but forest out there.
+~
+furskins ~
+1 -1 1086
+D2
+The village lies to the south.
+~
+~
+0 -1 1047
+E
+furskins~
+Furskins hang from all over the hut, some furs on the east side of the hut 
+conceal an un-noticed side exit.
+~
+S
+#1049
+&yWood Elf &wShaman's &yHut&n~
+&KThis hut is home to the highest ranking native on the island.  It is not 
+elaborately decorated like that of a high elf leader, it just has a few of the 
+essential pieces of furniture sitting around the hut.&n
+~
+12 1048584 0 1 99 0
+D3
+The village lies to the west,
+~
+~
+0 -1 1043
+S
+#1050
+&yVillage Hut&n~
+&nThis hut is one of the best maintained ones in the small village, the roof is 
+made from thin sticks and bark from trees, while the walls are made from a
+wood and clay mixture molded into bricks. The floor is solid dirt as hard as 
+hard as rock.&n
+~
+12 1048584 0 1 99 0
+D0
+The village lies outside the hut.
+~
+~
+0 -1 1039
+S
+#1051
+&yVillage Hut&n~
+&nThis hut is one of the best maintained ones in the small village, the roof is 
+made from thin sticks and bark from trees, while the walls are made from a
+wood and clay mixture molded into bricks. The floor is solid dirt as hard as 
+hard as rock.&n
+~
+12 1048584 0 1 99 0
+D0
+The village lies outside the hut.
+~
+~
+0 -1 1040
+S
+#1052
+&wVillage of Shikarnith&n~
+&yAs you pace down the roads inside the small village of Shikarnith, elven 
+mothers come rushing out of thier huts to take their children back into the 
+safety of their homes.  Although the elves are peacefull and loving race, they
+can be very hostile to intruders.&n
+~
+12 1048576 0 1 99 2
+D0
+more of the village.
+~
+~
+0 -1 1044
+D3
+The Shikonas Sea lies to the west.
+~
+~
+0 -1 1053
+S
+#1053
+&YShikarnith Island Beach&n~
+Shikarnith Island is the largest and most densly populated island of all the
+Shikonas Islands.  From where you stand on the beach, you can sea a small 
+village through the forest to the north east, A village housing a small tribe 
+of native wood elves.
+~
+12 1048576 0 1 99 6
+D1
+The start of the village lies to the east.
+~
+~
+0 -1 1052
+D3
+The Shikonas Sea is west.
+~
+~
+0 -1 1080
+S
+#1054
+&YFlanithar Island Beach&n~
+Flanithar is one of the smaller islands of the Shikonas group, and is mostly 
+covered in fields providing excelent crops year after year.  Looming in the 
+south of the island is a large palace, about four stories high.
+~
+12 1048576 0 1 99 6
+D1
+The Shikonas Sea is the the east.
+~
+~
+0 -1 1079
+D2
+The fields lie to the south.
+~
+~
+0 -1 1055
+S
+#1055
+&GFields of Flanithar Island&n~
+You stand in the middle of the crops planted in the fields of Flanithar Island. 
+All kinds of vegetables and herbs grow here, and probably feeds what lies in 
+the big palace to the south of here.
+~
+12 1048576 0 1 99 2
+D0
+The beach lies to the north.
+~
+~
+0 -1 1054
+D1
+More fields lie to the east.
+~
+~
+0 -1 1056
+D2
+More fields lie to the south.
+~
+~
+0 -1 1058
+S
+#1056
+&GFields of Flanithar Island&n~
+You stand in the middle of the crops planted in the fields of Flanithar Island. 
+All kinds of vegetables and herbs grow here, and probably feeds what lies in 
+the big palace to the south of here.
+~
+12 1048576 0 1 99 2
+D2
+More fields lie to the south.
+~
+~
+0 -1 1057
+D3
+More fields lie to the west.
+~
+~
+0 -1 1055
+S
+#1057
+&GFields of Flanithar Island&n~
+You stand in the middle of the crops planted in the fields of Flanithar Island. 
+All kinds of vegetables and herbs grow here, and probably feeds what lies in 
+the big palace to the south of here.
+~
+12 1048576 0 1 99 2
+D0
+More fields lie to the north.
+~
+~
+0 -1 1056
+D3
+More fields lie to the west.
+~
+~
+0 -1 1058
+S
+#1058
+&GFields of Flanithar Island&n~
+You stand in the middle of the crops planted in the fields of Flanithar Island.
+All kinds of vegetables and herbs grow here, and probably feeds what lies in
+the big palace to the south of here.
+The Palace gates stand before you to the south.
+~
+12 1048576 0 1 99 2
+D0
+More fields lie to the north.
+~
+~
+0 -1 1055
+D1
+More fields lie to the east.
+~
+~
+0 -1 1057
+D2
+The palace lies to the south.
+~
+door palace.~
+9 -1 1059
+S
+#1059
+&wInside the Fairy Palace&n~
+You stand inside a strange palace, filled with strange magical glitters of 
+light.  The inside walls of the place show light colours of red and blue on 
+mostly white walls, in much contrast to the dull appearance of the outside 
+of the tower.
+~
+12 1048584 0 1 99 0
+D0
+The fields lie to the north.
+~
+door ~
+9 -1 1058
+D3
+The palace extends west.
+~
+~
+0 -1 1060
+S
+#1060
+&wInside the Fairy Palace&n~
+You stand inside a strange palace, filled with strange magical glitters of 
+light.  The inside walls of the place show light colours of red and blue on 
+mostly white walls, in much contrast to the dull appearance of the outside 
+of the tower.
+~
+12 1048584 0 1 99 0
+D1
+The enterance to the palace is east.
+~
+~
+0 -1 1059
+D2
+The palace extends south.
+~
+~
+0 -1 1061
+S
+#1061
+&wInside the Fairy Palace&n~
+You stand inside a strange palace, filled with strange magical glitters of 
+light.  The inside walls of the place show light colours of red and blue on 
+mostly white walls, in much contrast to the dull appearance of the outside 
+of the tower.
+~
+12 1048584 0 1 99 0
+D0
+The palace extends north.
+~
+~
+0 -1 1060
+D1
+The palace extends east.
+~
+~
+0 -1 1062
+S
+#1062
+&wInside the Fairy Palace&n~
+You stand inside a strange palace, filled with strange magical glitters of 
+light.  The inside walls of the place show light colours of red and blue on 
+mostly white walls, in much contrast to the dull appearance of the outside 
+of the tower.
+~
+12 1048584 0 1 99 0
+D3
+The palace extends west.
+~
+~
+0 -1 1061
+D4
+A set of marble stairs lead up.
+~
+~
+0 -1 1063
+S
+#1063
+&wInside the Fairy Palace&n~
+This large spiral stiarway looks as if it was carved from one huge slab of 
+marble.  The rock feels unusualy warm, not the cold touch found in normal 
+marble.  The stairway links the upper levels of the palace with the base in a 
+semi-hourglass shape.  Expert architecture and magic must of been used to 
+make the shape of this palace stable.
+~
+12 269485064 0 1 99 0
+D4
+The upper level of the palace.
+~
+~
+0 -1 1064
+D5
+The lower level of the palace.
+~
+~
+0 -1 1062
+S
+#1064
+&wInside the Fairy Palace&n~
+You stand inside a strange palace, filled with strange magical glitters of 
+light.  The inside walls of the place show light colours of red and blue on 
+mostly white walls, in much contrast to the dull appearance of the outside 
+of the tower.  A door lies to in the west wall here, glowing in a bright red 
+light.
+~
+12 269484040 0 1 99 0
+D0
+The palace extends north.
+~
+~
+0 -1 1065
+D3
+Looks to be the fairy throne room.
+~
+door~
+15 1001 1067
+D5
+A set of marble stairs lead down.
+~
+~
+0 -1 1063
+S
+#1065
+&wInside the Fairy Palace&n~
+You stand inside a strange palace, filled with strange magical glitters of 
+light.  The inside walls of the place show light colours of red and blue on 
+mostly white walls, in much contrast to the dull appearance of the outside 
+of the tower.  A door lies to in the west wall here, glowing in a bright red 
+light.
+~
+12 269484040 0 1 99 0
+D2
+The palace extends south.
+~
+~
+0 -1 1064
+D3
+The royal bedroom is west.
+~
+door~
+9 -1 1066
+S
+#1066
+&pThe Fairy Royal Bedroom&n~
+The royal bedroom of the fairies is heavily decorated with white lace and 
+silver.  Breaking up the plain white are a few other light rainbow colours 
+that glow and shed the room with light.  A small bed and dressing table lie
+beneath the window on the west wall.
+~
+12 269484040 0 1 99 0
+D1
+Back to the main hall of the palace.
+~
+door~
+9 -1 1065
+E
+dressing dresser table~
+The dressing table is closed, it probably contains some really valuable
+jewels or something, nothing major.
+~
+E
+covers sheets~
+A small buldge in the covers of the bed indicates that something might by
+under them...you could try opening them and see.
+~
+E
+bed~
+The bed looks neatly made, but recently slept in.  There could be something
+under the covers.
+~
+S
+#1067
+&pFairy Palace Throne Room&n~
+You stand in the elaboratly decorated throne room, filled with ornaments and
+jewelery.  Two small thrones stand up against the north wall, overlooking 
+the Shikonas Sea to the south.  The thrones have been carved from solid 
+marble, and covered with a reddish white colored velvet.
+~
+12 269484040 0 1 99 0
+D1
+The stairway lies outside the door to the east.
+~
+door~
+13 1001 1064
+E
+ornaments jewelery decorations~
+Theres nothing here that would be worth the bother of taking.
+~
+S
+#1068
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a 
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048576 2048 1 99 7
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1069
+D3
+The mainland coastline is to the west.
+~
+~
+0 -1 1003
+S
+#1069
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a 
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048576 2048 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1071
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1070
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1070
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1068
+S
+#1070
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a 
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048576 2048 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1074
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1071
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1071
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1069
+S
+#1071
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a
+peacefull blue colour with water as clear as crystal.&n
+~
+12 1048576 2048 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1069
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1072
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1075
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1070
+S
+#1072
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a
+peacefull blue colour with water as clear as crystal.&n
+~
+12 1048576 2048 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1073
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1077
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1071
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1071
+S
+#1073
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a
+peacefull blue colour with water as clear as crystal.&n
+~
+12 1048576 1024 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1076
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1070
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1072
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1069
+S
+#1074
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a 
+peacefull blue colour with water as clear as crystal.
+&n
+~
+12 1048580 0 1 99 7
+D0
+Land Ho!
+~
+~
+0 -1 1011
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1070
+S
+#1075
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a 
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048580 0 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1071
+D2
+Land Ho!
+~
+~
+0 -1 1017
+S
+#1076
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a
+peacefull blue colour with water as clear as crystal.&n
+~
+12 1048580 1024 1 99 7
+D1
+Land ho!
+~
+~
+0 -1 1022
+D2
+Waves and water, as far as the eye can see.
+
+~
+~
+0 -1 1073
+S
+#1077
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a
+peacefull blue colour with water as clear as crystal.&n
+~
+12 1048580 2048 1 99 7
+D1
+Land Ho!
+~
+~
+0 -1 1035
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1072
+S
+#1078
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a 
+peacefull blue colour with water as clear as crystal.&n
+~
+12 1048580 0 1 99 7
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1081
+D3
+Land Ho!
+~
+~
+0 -1 1018
+S
+#1079
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a 
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048580 0 1 99 7
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1085
+D3
+Land Ho!
+~
+~
+0 -1 1054
+S
+#1080
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a 
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048580 0 1 99 7
+D1
+Land Ho!
+~
+~
+0 -1 1053
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1084
+S
+#1081
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a 
+peacefull blue colour with water as clear as crystal.
+&n
+~
+12 1048576 0 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1083
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1078
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1082
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1078
+S
+#1082
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a 
+peacefull blue colour with water as clear as crystal.&n
+~
+12 1048576 0 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1081
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1085
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1083
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1084
+S
+#1083
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a 
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048576 0 1 99 7
+D0
+Waves and water, as far as the eye can see.
+
+~
+~
+0 -1 1082
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1081
+D2
+Waves and water, as far as the eye can see.
+
+~
+~
+0 -1 1084
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1078
+S
+#1084
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a 
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048576 0 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1083
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1080
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1085
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1085
+S
+#1085
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabbited by natives and small forest creatures.  The sea itself is a 
+peacefull blue colour with water as clear as crystal.
+&n
+~
+12 1048576 0 1 99 7
+D0
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1078
+D1
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1084
+D2
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1082
+D3
+Waves and water, as far as the eye can see.
+~
+~
+0 -1 1079
+S
+#1086
+&GForest at the Back of Shikarnith Island&n~
+You have stumbled on a small path through the thick forest at the back of 
+Shikarnith island.  This path is mostly used by the hunters of the village and 
+winds its way in a north east direction through the forsest to the water.
+~
+12 1048576 0 1 99 3
+D0
+The path continues through the forest to the north.
+~
+~
+0 -1 1087
+D1
+a drawbridge to the east.
+~
+~
+0 -1 20200
+D3
+The fur trappers hut is through the forest to the west.
+~
+~
+0 -1 1048
+S
+#1087
+&GForest at the Back of Shikarnith Island&n~
+You have stumbled on a small path through the thick forest at the back of 
+Shikarnith island.  This path is mostly used by the hunters of the village and 
+winds its way in a north east direction through the forsest to the water.
+~
+12 1048576 0 1 99 3
+D0
+The path reaches a beach at the eastern side of the island.
+~
+~
+0 -1 1088
+D2
+The path continues to through the forest to the south.
+~
+~
+0 -1 1086
+S
+#1088
+&YBack of Shikarnith Island Beach&n~
+This small beach at the back of Shikarnith Island is small and sorrounded 
+with green forest.  Smoke flows into the air from the native wood elf village 
+to the west of here, and slowly drifts in the currents of wind.
+~
+12 1048576 0 1 99 6
+D1
+The Shikonas Sea is east.
+~
+~
+0 -1 1089
+D2
+A small path heads off to the south.
+~
+~
+0 -1 1087
+S
+#1089
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048580 0 1 99 7
+D0
+The sea gets pretty rough that way.
+~
+~
+0 -1 1091
+D1
+The sea gets pretty rough that way.
+~
+~
+0 -1 1091
+D2
+The sea gets pretty rough that way.
+~
+~
+0 -1 1090
+D3
+Shikarnith Island is back to the west.
+~
+~
+0 -1 1088
+S
+#1090
+&BThe Shikonas Sea&n~
+&cThe Shikonas Sea is the name given to the body of water off the coast south 
+east of Midgaard.  A number of islands are spread about in the sea, most 
+inhabited by natives and small forest creatures.  The sea itself is a
+peaceful blue color with water as clear as crystal.&n
+~
+12 1048580 0 1 99 7
+D0
+The sea gets pretty rough that way.
+~
+~
+0 -1 1089
+D1
+~
+~
+0 -1 1091
+D2
+The sea gets pretty rough that way.
+~
+~
+0 -1 1091
+D3
+The sea gets pretty rough that way.
+~
+~
+0 -1 1091
+S
+#1091
+&BNearing DEATH in the Wirlpool&n~
+&cThe currents in the water pick up here, and are quite strong.  Large swells 
+smash into the side of your boat splashing water everywhere.  The currents 
+seem to run circular and you soon realize that you are being sucked towards
+the middle of a huge whirlpool.  There is no getting out now, the boat is just 
+about to tip sending you flying to a watery grave.&n
+~
+12 1048576 0 1 99 7
+D5
+Would it suprise you if down there was DEATH in the wirlpool???
+~
+~
+0 -1 1092
+S
+#1092
+&bA Watery Grave&n~
+That wasn't very smart.
+Instead of getting the hell out of that wirlpool while you had the chance, you 
+had to go ahead and go down with your ship, oh how brave you are to stay on 
+your ship till the very end.. Where has it got you?, no one knows you here, no 
+legends will be made about you, no songs will be sung by bards in taverns 
+across crimson of how brave you are.
+The water overflows your boat overturn it in a matter of seconds.  You are 
+thrown overboard, parted with all your possessions, you descend deep down 
+the center of the wirlpool kicking and screaming.  The currents turn you over 
+and over, not knowing which way is up you grab for anything solid...nothing.  
+You come to a realisation that it wont be too long now........
+~
+12 1048590 0 1 99 6
+S
+#1093
+&YKansrilla Island Beach&n~
+Kansrilla Island is the smallest of the Shikonas Islands, it has a strange 
+magical forest that covers every part of the island, except the beach you are
+currently standing on.  A peacefull sillence fills this place with no noises of 
+small forest animals and birds as found on all the other islands.
+~
+12 0 0 1 99 6
+D1
+The forest leads off to the east.
+~
+~
+0 -1 1094
+D2
+The forest leads off to the south.
+~
+~
+0 -1 1095
+D3
+The Shikonas Sea lies to the west.
+~
+~
+0 -1 1090
+S
+#1094
+&GMagical Kansrilla Forest&n~
+You wander about in the magic forest on Kansrilla Island.  Hardly a sound 
+comes from forest which suprises you considering the amount of wildlife 
+scuttling in the undergrowth.
+~
+12 0 0 1 99 3
+D2
+The forest continues to the south.
+~
+~
+0 -1 1096
+D3
+The forest breaks into a small beach.
+~
+~
+0 -1 1093
+S
+#1095
+&GMagical Kansrilla Forest&n~
+You wander about in the magic forest on Kansrilla Island.  Hardly a sound 
+comes from forest which suprises you considering the amount of wildlife 
+scuttling in the undergrowth.
+~
+12 0 0 1 99 3
+D0
+The forest breaks into a small beach.
+~
+~
+0 -1 1093
+D1
+The forest continutes to the east.
+~
+~
+0 -1 1096
+S
+#1096
+&GMagical Kansrilla Forest&n~
+You wander about in the magic forest on Kansrilla Island.  Hardly a sound 
+comes from forest which suprises you considering the amount of wildlife 
+scuttling in the undergrowth.
+~
+12 0 0 1 99 3
+D0
+The forest continues north.
+~
+~
+0 -1 1094
+D2
+The forest breaks into a small clearing to the south.
+~
+~
+0 -1 1097
+D3
+The Fforest continues west.
+~
+~
+0 -1 1095
+S
+#1097
+Kansrilla Island Shrine.~
+You break out of the magical forest into a large clearing. In the center of the 
+cleraing is some religeous shrine, a fountain with water pouring onto its 
+base, then disapearing in a blinding magical light.  Small humanoids dance in 
+the air above the shrine, acknowledging your arrival, but not showing any 
+signs of being threatened.
+~
+12 0 0 1 99 3
+D0
+The forest continues north.
+~
+~
+0 -1 1096
+S
+#1098
+&BThe Borders of the Shikonas Sea&n~
+&cHeading north the water gets a lot rougher as it is not
+protected by the sorrounding islands.. To the south the Shikonas
+Sea awaits, flowing between the peacefull islands.&n
+~
+12 1048580 4096 1 99 7
+D0
+Rougher waters lie to the north.
+~
+~
+0 -1 1099
+D2
+The Shikonas Sea Coastline continues to the south.
+~
+~
+0 -1 1009
+S
+#1099
+&BCoast Line&n~
+&cThe waters off the eastern coast of the continent are rough a
+nd hazardous, Large ships sail the horizons rocking with the 
+waves as they crash onto the harsh coastline.
+&n
+~
+12 1048580 4096 1 99 7
+D0
+The distant towers of Elmpatris lie to the north.
+~
+~
+0 -1 1010
+D2
+The Shikonas Sea lies to the south.
+~
+~
+0 -1 1098
+S
+$~
+#999999

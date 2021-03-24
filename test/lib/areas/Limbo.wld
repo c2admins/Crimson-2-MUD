@@ -1,0 +1,818 @@
+#0
+The Void~
+  You don't think that you are not floating in nothing.
+~
+0 1342291976 0 1 99 1
+D4
+void~
+~
+0 -1 3001
+S
+#1
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 1342226433 0 1 99 1
+S
+#2
+A dark smelly jail cell.~
+ You find yourself in a dark, dank and horribly filthy stone cell. The walls
+have been built from large stone blocks, and have moss growing from the cracks
+between them. There is a small window in the wall which allows a little light
+in to faintly illuminate the room, but it is about 15 feet from the ground and
+you cannot see through it. The ground is covered in straw, but it is very dirty
+and the smell is pungent.
+ You pray that you do not have to stay here long.
+
+&n
+  _________________________
+     ||   ||     ||   ||
+     ||   ||&y, , ,&n||   ||
+     ||  &y(&n||&y/|/(\&n||&y/&n  ||
+     ||  &y|&n|| _&y'&n_&y`&n||&y|&n  ||
+     ||   || &co&n &co&n ||   ||
+     ||  &p(&n||  &p-&n  ||&p)&n  ||
+     ||   ||  &r=&n  ||   ||
+     ||   ||&p\___/&n||   ||
+     ||&g___&n||&p) , (&n||&g___&n||
+   &g /&n||&g---&n||&g-\_/-&n||&g---&n||&g\&n
+  &g / &n||&g--&n_||_____||_&g--&n||&g \&n
+  &g(_&p(&n||&p)&g-&n|&b S123-45&n |&g-&p(&n||&p)&g_)&n
+It wasn't me, i'm telling you
+
+~
+0 268550152 0 1 99 1
+S
+#3
+Padded Room~
+The walls are covered in foam.
+~
+0 8 0 42 99 1
+S
+#4
+IMM chat room~
+There are several overstuffed chairs inviting you to rest.
+~
+0 8 0 42 99 1
+D1
+Through the archway to the east you can see a glowing board hung between
+two ornate tapestries.
+~
+~
+0 -1 8312
+S
+#5
+&WWedding &GMeadow&n~
+       &r_,--._.-,
+     &r /\_r-,\_ )
+   &r.-.) _;='_/ (.;
+    &r\ \'     \/S )
+     &rL.'-. _.'|-'
+    &r<_`-'\'_.'/
+    &r  `'-._(&y \   &n
+             &y\\  &G     ___&n
+              &y\\&G   .-'_. /&n
+               &y\\&G /.-'_.'&n
+                &y\&G('--'&n
+                  &y\ &n
+You stand in a vast meadow, The world is calm.
+You turn your head to the side and see your
+fiance beaming a smile back at you. 
+All is well. Life couldn't get any better,
+but it does, today is the day you take
+that extra step, and become forever 
+endowed, to live together, in holy 
+matriomony. The wind begins wisping, and
+the pastor arrives, ready to read your 
+vows, and make you officially mud married.
+May your marriage be as good as the day 
+you first locked eyes.
+~
+0 1073856520 0 42 99 1
+D0
+The Honeymoon suite.
+~
+Honeymoon suite~
+31 8975 15527
+D2
+Midgaard
+~
+~
+0 -1 3014
+S
+#6
+The Rehabilitation Room.~
+This is a small clean room, sparsely furnished, but with it's walls heavily
+decorated by various posters designed to smooth your transition back to
+normal society after your stretch in jail.
+There is a shimmering portal on the ground in the middle of the room.
+~
+0 8 0 1 99 1
+D5
+You can see the Market Square of Midgaard down below.
+~
+~
+0 -1 3014
+E
+notice~
+Are you having trouble adjusting to normal society?
+Finding freedom too liberating?
+Call in and speak to us at the Thieve's Guild. We're always ready to give
+people like you, a warm welcome and a helping hand in your difficult period
+of re-adjustment.
+~
+S
+#7
+&WEverything&n &wand &KNothing&n~
+&BYou take a deep breath as you enter the light filled room. The room is
+filled with all of your deepest desires. You walk up to a mirror and look at
+yourself and see a horrific, lifeless &Creflection&B of yourself. The &Creflection&B
+scares the breath out of you, and with your breath everything in existence
+disappears and you remain in a dark empty void. You realize the only way
+for you to enjoy the tangible things in life will ultimately lead to your &Kd&re&Km&ri&Ks&re&B.
+You must decide is &KV&ra&Kn&ri&Kt&ry&B more valuable than &WL&Ci&Wf&Ce&B itself.
+~
+0 1879080968 536870912 41 99 1
+E
+notice~
+Are you having trouble adjusting to normal society?
+Finding freedom too liberating?
+Call in and speak to us at the Thieve's Guild. We're always ready to give
+people like you, a warm welcome and a helping hand in your difficult period
+of re-adjustment.
+~
+S
+#8
+Vehicle Room~
+Huge marble columns support a massive ceiling.
+~
+0 8 0 99 99 1
+E
+notice~
+Are you having trouble adjusting to normal society?
+Finding freedom too liberating?
+Call in and speak to us at the Thieve's Guild. We're always ready to give
+people like you, a warm welcome and a helping hand in your difficult period
+of re-adjustment.
+~
+S
+#9
+&cMiriamele's Chamber&w in the &KCourts of Chaos&n~
+
+&wGrief and anger shrink my world, and I &cresent&w this.  They seem to paralyze my
+&wmemory of happier times, of friends, places, things, &coptions&w.  Squeezed by 
+&wthe grip of intense, unsettling &cemotion&w, I grow smaller in my singlemindedness.
+&wI suppose it is partly because I have &cdiscarded&w a range of choices, impairing in
+&wsome small measure my &cfreedom&w of will.  I don't like this, but after a point I have
+&wsmall &ccontrol&w over it... &n
+
+~
+0 1342177800 0 47 52 1
+D5
+Miriamele's Chamber of Nothingness
+~
+~
+16 -1 8350
+S
+#10
+The room of the bloody Beast.~
+This is the start room of the bloody beast.
+~
+0 268435464 0 41 99 1
+S
+#11
+Jupiter's Orbit.~
+As you walk in the room you notice black walls with stars
+and planets plastered on it. Occasionally you can hear space-ships
+flying by and you look over your shoulder now and then just to
+make sure there are no intruders. Pooh-Bear is here, 
+resting on the floor. As he sees you he darts at you with his
+tongue out to give you a big ole slurpy! Look out!
+~
+0 1342275720 0 42 99 1
+S
+#12
+&wAnteroom to the &cCen&Ktral &WDonation &KComp&clex&n~
+
+This small room is obviously just an entryway to a room just to the west.  The gentle drip
+of water and the dim lighting belies the intensity of this area.  Beyond the west door is
+a fierce challenge to regain gear that was abandoned by folly.  But before you can even
+face that challenge, you must get the key.  And the keeper of that key doesn't seem very
+inclined to just hand it over.  Are you up to the challenge?  Kill the keeper, unlock the
+door and pray that retrieval goes smoothly!
+
+~
+0 268435464 536870912 41 99 1
+D3
+Central Donation Complex
+~
+door~
+15 12 13
+D4
+Midgaard Donation Room
+~
+~
+0 -1 3419
+S
+#13
+&cCen&Ktral &WDonation &KComp&clex&n~
+
+&WTucked away and hidden behind many locked doors, you've finally discovered your goal:
+The mob donation room of &rCrimson Mud 2&W.  Where auctioned gear that received no bids
+has come to accumulate.  To obtain these treasures, you must defeat the donation room
+fighters who &rdevour&W flesh and &rsplinter&W bone without any qualms.  Good luck.&n
+
+~
+0 1879048200 536870912 41 99 1
+D1
+Anteroom to Central Donation Complex
+~
+8
+V	Èúq~
+9 0 12
+S
+#14
+&KRel&ri&Kc's Sanctuary&n~
+You're in the middle of a boundless field, with only a few noticable
+features.  There is a large arrangement of immense in the
+middle of the field.  There are torches lit around it, all flickering
+very quickly and intensely.  The sky overhead fluctuates from blue
+to black very quickly, as does the temperature.  During the
+stunted days, it's quite pleasant, and the nights are a bit chilly.
+
+The field is covered by long grass, and is also inhabited by
+one lonely tree.
+
+As evidenced by the flickering of the torches and accelerated
+days and nights, time passes here much more quickly than
+normal.  Only animals seem to be immune to this affect,
+ass the grass and the tree quickly cycle threw their lives,
+passing from Spring to Winter in a matter of mere hours.
+
+~
+0 1879146508 1879048192 48 51 1
+D4
+Writer's Nook
+~
+~
+15 0 7
+S
+#15
+&CRevetas &cConference Room&n~
+This is a chat room for bored Revetas.
+~
+0 1342177288 0 48 99 1
+S
+#16
+&RLatorrmis &cConference Room&n~
+This is a chat room for bored Latorrmis.
+~
+0 1342177288 0 49 99 1
+S
+#17
+&pDeiis &cConference Room&n~
+This is a chat room for bored Deiis.
+~
+0 1342177288 0 50 99 1
+S
+#18
+Sweet surrender~
+You enter a dimly lit room that excites your whole being and promises to 
+bring your wildest fatasies to life.  Candles have been expertly placed 
+so that your senses are fullfilled with the arousing blend of vanilla 
+and peaches.  Along one wall stands a cabinet filled with an array of 
+stimulating and erotic toys and oils.  In the corner  is a small 
+refrigerator filled with whipped cream and strawberries. 
+~
+0 1073742344 0 41 99 1
+D1
+The Reception
+~
+~
+1 0 3008
+S
+#19
+&xB&xi&xn&xg&xo&x'&xs &xD&xa&xw&xg &xP&xo&xu&xn&xd &Sv&S2&S.&S0&n~
+&K   We the unwilling, led by the ungrateful, are doing the&n
+&Kimpossible. We've done so much, for so long, with so little,&n
+&Kthat we are now qualified to do something with nothing.&n
+&K                &C-- &RAnonymous&n
+   Everyone wants results, but no one is willing to do what
+it takes to get them.
+                &b-- &yDirty Harry&n
+&P   Don't worry about the world coming to an end today.  It's&n
+&Palready tomorrow in &YAustralia&P.&n
+&P                &G-- &YCharles Schultz&n
+&R   There are many mysteries in this universe big and small.&n
+&RLike, why do clowns make us laugh?  Why do we love puppy dogs?&n
+&RAnd why, why do little &Bblue&R midgets hit me with fish?&n
+&R                &Y--&BThe Tick&n
+
+&ySee also&W: &YDUCK, BIRD, ELECTRICITY, FOGHORN, 71,&n
+&Y          PORNOGRAPHY, PORNOGRAPHY2, DISCHARGE,&n
+&Y          CHRISTMAS, COURT&n
+
+&RWARNING&W: &wSome of these contents may not be suitable for all.&n
+~
+0 1073741824 0 42 99 1
+D5
+Reception of Midgaard
+~
+~
+0 -1 3008
+E
+pornography1~
+
+&KHere is the problem: for many years, the &wSupreme Court &Kwrestled with
+the issue of &Bpornography&K, until finally &RAssociate Justice John Paul
+Stevens&K came up with the famous quotation about how he couldn't define
+&Bpornography&K, but he knew it when he saw it.  So for a while, the
+court's policy was to have all the suspected &Bpornography&K trucked to
+&RJustice Stevens'&K house, where he would look it over.  &c"&BNope, this isn't
+it,&c" &Khe'd say.  &c"&BBring some more.&c"&K  This went on until one morning when
+his housekeeper found him trapped in the recreation room under an
+enormous mound of rubberized implements, and the &wcourt&K had to issue a
+ruling stating that it didn't know what the hell &Bpornography&K was except
+that it was illegal and everybody should stop badgering the &wcourt&K about
+it because the &wcourt&K was going to take a nap.&n
+                &w-- &KDave Barry, "&BPornography&K"&n
+~
+E
+pornography2~
+
+&c[&wDistrict Attorneys&c] &Klearn in &wDistrict Attorney School&K that there are
+two sure-fire ways to get a lot of favorable publicity:
+
+&C(&c1&C) &BGo down and raid all the lockers in the local high school and
+    confiscate &Y53 &ymarijuana&B cigarettes and put them in a pile and hold
+    a press conference where you announce that they have a street value
+    of &Y850 &Bmillion.  These raids never fail, because ALL high schools,
+    including brand-new, never-used ones, have at least &Y53 &ymarijuana&B
+    cigarettes in the lockers.  As far as anyone can tell, the locker
+    factory puts them there.
+&C(&c2&C) &BRaid an &c"&Badult book store&c"&B and hold a press conference where you
+    announce you are charging the owner with &Y850&B counts of being a
+    piece of human sleaze.  This also never fails, because you always
+    get a conviction.  A juror at a &Kpornography&B trial is not about to
+    state for the record that he finds nothing obscene about a movie
+    where actors engage in sexual activities with live &gsnakes&B and a
+    &Rfire extinguisher&B.  He is going to convict the bookstore owner, and
+    vote for the death penalty just to make sure nobody gets the wrong
+    impression.
+                &K-- &BDave Barry, "&KPornography&B"&n
+~
+E
+court~
+
+&RReal-Life Courtroom Quote &w#&Y32&R:
+
+&RQ&Y:  &wDo you know how far pregnant you are right now?
+&YA&R:  &wI will be three months November 8th.
+&RQ&Y:  &wApparently then, the date of conception was August 8th?
+&YA&R:  &wYes.
+&RQ&Y:  &wWhat were you and your husband doing at that time?&n
+~
+E
+christmas~
+
+&BTo the music of &c"&CThe Christmas Song&c"&B:
+
+&yChipmunks &wroasting on an open &Rfire
+&CJack Frost &wripping up your nose
+&YYuletide carolers &wbeing thrown in the &Rfire
+&wAnd folks dressed up like &ybuffaloes
+&wEverybody knows a &yturkey &wslaughtered in the &Csnow
+&wHelps to make the season right
+Tiny tots with their eyes all gouged out
+Will find it hard to see tonight
+They know that &RSanta's &won his way
+He's loaded lots of &Kguns &wand &Kbullets &won his sleigh
+And every mother's child is sure to spy
+To see if &yreindeer &wreally scream when they die
+And so I'm offering this simple phrase
+To kids from one to ninety two
+Although it's been said many times, many ways
+&WMerry Christmas&w, &WMerry Christmas&w, &WMerry Christmas&w, &RFuck you&r!!&n
+~
+E
+71~
+
+&R71&W:
+&R        69 &Wwith two fingers up your &yass&W.
+&R                -- &yGeorge Carlin&n
+~
+E
+discharge~
+
+&C   The sergeant walked into the shower and caught me giving myself a
+dishonorable discharge.  Without missing a beat, I said, &c"&BIt's my dick
+and I can wash it as fast as I want!&c"&n
+~
+E
+foghorn~
+
+&Y   That boy's about as sharp as a pound of wet &gliver&Y.
+&W                -- &YFoghorn Leghorn&n
+~
+E
+electricity~
+
+&WHere is a simple experiment that will teach you an important &Yelectrical
+&Wlesson: On a cool, dry day, scuff your feet along a carpet, then reach
+your hand into a friend's mouth and touch one of his dental fillings.
+Did you notice how your friend twitched violently and cried out in
+pain?  This teaches us that &Yelectricity &Wcan be a very powerful force,
+but we must never use it to hurt others unless we need to learn an
+important &Yelectrical &Wlesson.
+
+It also teaches us how an &Yelectrical &Wcircuit works.  When you scuffed
+your feet, you picked up batches of "&Yelectrons&W", which are very small
+objects that carpet manufacturers weave into carpets so they will
+attract dirt.  The &Yelectrons&W travel through your bloodstream and
+collect in your finger, where they form a spark that leaps to your
+friend's filling, then travels down to his feet and back into the
+carpet, thus completing the circuit.
+
+Amazing Electronic Fact: If you scuffed your feet long enough without
+touching anything, you would build up so many &Yelectrons&W that your
+finger would explode!  But this is nothing to worry about unless you
+have carpeting.
+                &Y-- &WDave Barry, "What is &YElectricity&W?"&n
+~
+E
+bird~
+
+&ROnce upon a time, there was a non-conforming &ysparrow &Rwho decided not to
+fly south for the &Cwinter&R.  However, soon after the weather turned &Ccold&R,
+the &ysparrow &Rchanged his mind and reluctantly started to fly south.
+After a short time, &Cice&R began to form his on his wings and he fell to
+earth in a barnyard almost &Cfrozen&R.  A &gcow &Rpassed by and crapped on this
+little &ybird &Rand the &ysparrow &Rthought it was the end, but the &ymanure&R
+warmed him and defrosted his wings.  Warm and happy the little &ysparrow&R
+began to sing.  Just then, a large &rTom cat&R came by and hearing the
+chirping investigated the sounds.  As Old &rTom&R cleared away the manure,
+he found the chirping &ybird&R and promptly ate him.
+
+&YThere are three morals to this story:
+
+&C(&c1&C) &BEveryone who shits on you is not necessarily your enemy.
+&C(&c2&C) &BEveryone who gets you out of shit is not necessarily your friend.
+&C(&c3&C) &BIf you are warm and happy in a pile of shit, keep your mouth shut.&n
+~
+E
+duck~
+
+&y   With a rubber &Yduck&y, one's never alone.&n
+                &Y-- &y"The Hitchhiker's Guide to the Galaxy"&n
+~
+S
+#20
+Den of Iniquity~
+A room lit by candles glowing everywhere make creates an atmosphere of 
+sex and love.  The essence of lust lingers even as you
+draw your breath.  A large comfortable bed draws your attention. Pillows
+of every shape and size are arranged there for comfort and use.  There
+is a shelf over the bed that holds a box of asssorted adult toys for the
+pleasure of those fortunate enough to be allowed here.
+~
+0 1342177804 0 41 99 1
+S
+#21
+&KB&you&Knt&yy &KM&ya&Kst&ye&Kr's B&yu&Knk&ye&Kr&n~
+
+You enter a dark, smokey room.  The smell of tobacco, beer and vomit hang in the air, 
+creating a wall of repulsion that would make even the most grizzled warrior reconsider
+entering.  Passing the bar and some tables, at which some questionable characters are 
+sitting, you head to the far back corner.  Seated with his back to the wall, facing the
+entry is the Bounty Master.  His skills in assassination, deception and battle are
+known well to you.  Still, rather than take an active part in the "harsher realities" of
+life, the Bounty Master has now become a business man - taking contracts and doling them
+out.  Approach him carefully, and make your business known.  The Bounty Master doesn't
+care for people who just... hang around.
+
+~
+0 49288 536870912 1 99 1
+D1
+Questmaster's Lair.
+~
+~
+0 -1 3084
+S
+#22
+Just me...~
+&n
+                        &w    /|&n
+&w                          /'&n|&w|&n
+&w                         |  &n|&w|&n
+&w                         |  &n|&w|&n
+&w                         |  &n|&w|&n
+&w                         |  &n|&w|&n
+&w                         |  &n|&w|&n
+&w                         |  &n|&w|&n
+&w                         |  &n|&w|&n
+&w                         |  ||&n
+&w                         |  ||&n
+&w                         |  ||&n
+&w                         |  ||&n
+&w                         |  ||&n
+&w                         |  ||&n
+&w                         |  ||&n
+&w                         |  || &y        __.--._&n
+&w                         |  ||&y   &y   &y/~~   __.-~\ _&n
+&w                         |  || &y _.-~ / _---._ ~-\/~\&n
+&w                         |  || &y// /  /~/  .-  \  /~-\&n
+&w                         |  ||&y((( /(/_(.-(-~~~~~-)_/ |&n
+&w                         |  || &y) (( &p|&y_.----~~~~~-._\ /&n
+&w                         |  ||    &y) &p|&y              \_|&n
+&w                         |  ||     &y(&p|&w =-_   _.-=-  &p|~)&w       &y ,&n
+&w                         |  ||      &p|&w `~~ &p|&w   ~~'  &p|/&y~-._-'/'/_,&n
+&w                         |  ||     &p  \    |        /&y~-.__---~ , &y,&n
+&w                         |  ||       &p|   ~-''     ||&w &y`\_~~~----~&n
+&w                         |  ||&y_.ssSS**&p\&w &r-====-&w   &p/&w )\&y_&w  &y~~--~&n
+&w &y                ___.----&w|~~~|&y%******&w/ &p\_    _.-~&w /' )&y*s._&n
+&w  &y      __---~-~~  &w      |   |&y%%****&w/ /  &p~~~~&w   /'  /&y*******s__&n
+&w   &y   /~       ~\ &w   &n============&y**&w/ /        /'  /&y***********SS-.&n
+&w   &y /' &w     &y.&r/\\\\\\_&p( ~---._(_))&y*&w/ /       /'  /&y****%*****~      \&n
+&w   &y (  &w    &r//////////&p(~-(..___)&y/*&w/ /      /'  /&y**%**%****'         \&n
+&w     &y\&w    &r|||||||||||&p(~-(..___)&y*&w/ /  /  /'  /&y***%***%***            |&n
+&w      &y`-__&w &r\\\\\\\\\\\&p(-.(_____)&w /  / /'  /&y****%*****%*             |&n
+~
+0 805404808 805306368 42 99 1
+D1
+~
+~
+0 -1 23
+S
+#23
+Swiz Alps~
+&w                                   /\
+                              /\  //\\
+                       /\    //\\///\\\        /\      
+                      //\\  ///\////\\\\  /\  //\\         &c|&n     &y| |&n
+         /\          / &g ^ &n\/&g^ ^&n/&g^  ^  ^&n \/&g^&n \/ &g ^&n \       &c/ \&n    &y| |&n
+        /&g ^&n\    /\  /&g ^ &n  /&g  ^&n/&g ^ ^ ^   ^&n\ &g^&n/&g  ^^&n  \     &c|&c--&no&c|&w===&y|-|&n
+       /&g^   &n\  /&g ^&n\/&g ^ ^   ^ &n/&g ^  ^    ^  &n\/&g ^   ^&n  \   &c |&c---&c| &n  &y| |&n
+      /&g  ^ ^ &n\/&g^  ^&n\&g ^ ^ ^   ^  ^   ^  &r ____ &g ^   ^ &n \ &c /     \&n  &y| | &n
+     /&g ^ ^  ^ &n\&g ^ &r _&n\&r___________________|  |_____&g^ ^ &n \&c|       |&n &y| |&n
+    /&g ^^  ^ ^ ^&n\  &r/______________________________\ &g^ ^ &c| &nU S A&c |&w=&y| |&n
+   /&g  ^  ^^ ^ ^ &r /________________________________\ &g ^ &c|       |&b &y| |&n
+  /&g^ ^  ^ ^^  ^   &y |&n|___|___|&y||||||||||&n|___|__|&y||     &c |_______|&b &y|_|&n
+ / &g^   ^   ^    ^ &y |&n|___|___|&y||||||||||&n|___|__|&y||      &n |&y@&n| |&y@&n|  &y|&n &y|&n
+/&g ^ ^ ^  ^  ^  ^  &y ||||||||||||||||||||||||||||||&goooooooooooooooo&y|&go&y|&go&n
+&gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo&n
+~
+0 81928 805306368 47 99 1
+D0
+Hell
+~
+~
+0 -1 27
+D1
+~
+~
+0 -1 8300
+D3
+Warrior
+~
+~
+0 -1 22
+D4
+The sky
+~
+~
+0 -1 28
+D5
+market square
+~
+~
+0 -1 3014
+S
+#24
+Auction storage~
+Temporary auction storage, do *NOT* change.
+Also do *NOT* touch the items in here!
+~
+0 1342177800 0 48 99 1
+D2
+~
+~
+0 -1 19
+S
+#25
+&bSa&Bp&Kph&Bi&bre B&Blu&be &wBu&Wt&Kte&Wrf&wly M&Kea&Wd&wow&n~
+
+&cThe warm &Ysun&c shines down on a meadow filled with luscious &Ggreenery&c and the prettiest
+&bsa&Bp&Kph&Bi&bre b&Blu&be&c flowers one has ever laid eyes on.  As you wander through the enormous
+&ywrought&w iron&c gate and on to the &Kstone&c path, you notice that the &gflowe&rrs&c aren't really
+&cflowers, but pretty little &bsa&Bp&Kph&Bi&bre &wbu&Wt&Kte&Wrf&wli&Ke&ws&c.  Then, as if to answer your unasked
+&cquestion, a &Cbreeze&c blows across the meadow and the branches of &wwe&Wep&wing &Kwi&Wl&wlow&c part and
+out steps a &Wbeautiful woman&c.  She is clothed in &rerotic garb&c - black corset, thigh-high
+boots and a &bsa&Bp&Kph&Bi&bre b&Blu&be&c garter, etc.  Her long hair hangs past her waist and is of the
+&cpurest &Wwhite&c.  She smiles at you as her &wdi&Wam&Ko&Wn&wd&c and &bsa&Bp&Kph&Bi&bre&c wings unfold behind her.
+&cShe flutters to the &Bsky&c and makes her way to you.  Once she reaches you, she cracks her 
+&Kwhip &cand inquires, "are you &Cgood&c or &rbad&c??" Sure hope you answer correctly... &n
+
+~
+0 1342291969 0 47 99 1
+S
+#26
+Dragon's lair~
+&n
+&g                                       &r ,   ,&n
+&g                                       &r S,  S,     ,&n
+&g                                        &r"&gss.Sss. .s'&n
+&g                                &r, &g    .ssSSSSSSSSSSs,&n
+&g                                &rS.&g sSSSSSSSSSSSSSS&n`&gSSSs&n
+&g                                &r"&gSSSSSSSSSSSSSSSSSSoSSS       &b,&n
+&g                               sSSSSSSSSSSSSSSSSSSSSSSSSs,  &b,s&n
+&g                              sSSSSSSSSS"SSSSSS""""SSSSSS"SSSSS,&n
+&g                              sSSSSSSSSSSs""SSSSssssss"SSSSSSSS"&n
+&g                             sSSSSSSSSSS'         `"""ss"S"Ss""&n
+&g                             sSSSSSSSSSS,              `"""""S  .sSSs&n
+&g                             sSSSSSSSSSSSSs,...               &y`&gsSS&y'&g  &y`&n
+&g                         &r`sss&gsSSSSSSSSSSSSSSSSSSSS####s.     .SS"S&y.&g   &y,&g s&y-&n
+&g                           &r`""&g""SSSSSSSSSSSSSSSSSSSS#####SSSSSS"     S.S&y'&n
+&g                                 "SSSSSSSSSSSSSSSSSSSSS####s""     .SSS|&n
+&g                                  "SSSSSSSSSSSSSSSSSSSSSSSS##s    .SS" S&n
+&g                                   &rSS&g""SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"   &y`&n
+&g                                  &rSS"  "S&g"SSSSSSSSSSSSSSSSSSSSS""""'&n
+&g                             &r,   ,"     '&g  SSSSSSSSSSSSSSSS####s&n
+&g                             &rS.&g          .sSSSSSSSSSSSSSSSSS####"&n
+&g                 &r,           "Ss.&g   ..ssSSSSSSSSSSSSSSSSSSSS####"&n
+&g                 &rS&g           .SSSSSSSSSSSSSSSSSSSSSSSSSSSS#####"&n
+&g                 &rSs&g     ..sSSSSSSSSSSSSSSSSSSSSSSSSSSSS######""&n
+&g                  &r"SS&gsSSSSSSSSSSSSSSSSSSSSSSSSSSSS########"&n
+&g           &r,&g      sSSSSSSSSSSSSSSSSSSSSSSSS#########""'&n
+&g           &rS&g    sSSSSSSSSSSSSSSSSSSSSS#######""'      &rs'&g         &r,&n
+&g           &rSS..&gSSSSSSSSSSSSSSSSSS######"'       ....,&rSS&g....    &r,S&n
+~
+0 1879130248 0 1 99 1
+D4
+Up
+~
+~
+0 -1 23
+S
+#27
+Hell~
+&n
+                                                  /)_(\
+                                           &y______&n( &c0&n &c0&n )&y______&n
+                                          &y/_/_/_/&n\` ' `/&y\_\_\_\&n
+        You are   &pD E A D&n  !!                     )'_'(
+                                             &r____&n.""&r_&n"".&r____&n
+                                            &r|___|___|___|___|&n
+                                              &r|___|___|___|&n
+         Damn! why am I always                  |-      |
+  the last one to hear about these things...    |       |
+                        /                     &p &r_&n|&r_______&n|&r_&n
+                    ___                       &r|___|___|___|&n
+                   /   \                        |'   | ||
+                   )'__/                        |       |
+                   \(\\                         |       |
+                     _\\__                      |       |
+                    /,_ \--\                    |     - |
+               ____// \ |   \                   |       |
+              /,-' `  _)/   |\_                 |       |
+              ``     ,o_:)  ```                 |       |
+         &r.&n          /    \        &r.&n             |       |
+                   /      \                     | |     |
+      &r.&n    &y(&n      c        c     &y)&n    &r.&n         |       |
+       &y(&n    &y)&n      \      /    &y (    )&n          |       |
+      &y( )&n  &y'&n        |     |      &y'  ( )&n        &c_&n|&c_______&n|&c_&n
+      &r_#, .    ...&n,:o    o:,&r..    . ,#_ ,, ,,,&c|___________|&r,,,&n
+~
+0 1073823880 0 41 99 1
+D2
+Hercules's office
+~
+~
+0 -1 23
+S
+#28
+Up in the Sky~
+
+
+                    /\
+                   //\\
+                  ||  ||
+                 //    \\
+                //      \\
+               //        \\
+              //          \\
+             //            \\
+             ||            ||
+             ||            ||
+             |______________|
+             |              |
+              \____________/
+               |          |
+              /|    /\    |\
+             /_|    ||    |_\
+               |          |
+               |   U S A  |
+               |          |
+              /|    /\    |\
+             / |    ||    | \
+            /  |    ||    |  \
+           /  /\    ||    /\  \
+          |__/  \   ||   /  \__|
+            /____\      /____\
+            |    |      |    |
+            |    |______|    |
+            |    | /--\ |    |
+            |____|/----\|____|
+             \||/ //##\\ \||/
+             /##\//####\\/##\
+            //##\\/####\//##\\
+           ||/::\||/##\||/::\||
+           \\\''///:**:\\\''///
+            \\\///\::::/\\\///
+             \\//\\\::///\\//
+              \/\\\\..////\/
+                 \\\\////
+                  \\\///
+                   \\//
+                    \/
+~
+0 8 0 1 99 1
+D5
+Hercule's Room
+~
+~
+0 -1 23
+E
+notice~
+Are you having trouble adjusting to normal society?
+Finding freedom too liberating?
+Call in and speak to us at the Thieve's Guild. We're always ready to give
+people like you, a warm welcome and a helping hand in your difficult period
+of re-adjustment.
+~
+S
+#29
+Sloth's Paradise~
+
+                                                  _  _
+                                                 (\\( \
+                                                  `.\-.)
+                              _...._            _,-'   `-.
+\                           ,'      `-._.---.,-'       .  \
+ \`.                      ,'                               `.
+  \ `-...__              /                           .   .:  y
+   `._     ``--..__     /                           ,'`---._/
+      `-._         ``--'                      |    /_
+          `.._                   _            ;   <_ \
+              `--.___             `.           `-._ \ \
+                     `--<           `.     (\ _/)/ `.\/
+                         \            \     `<a \  /_/
+                          `.           ;      `._y
+                          `--.      /    _../
+                                \    /__..'
+                                 ;  //
+                                <   \\
+                                 `.  \\
+                                   `. \\
+                                     `.`-'  \\
+                                       `----''
+~
+0 8 0 42 99 1
+D0
+Eclipse' Exotic and Erotic Entryway
+~
+~
+0 -1 8254
+D2
+The inner sanctum of the talented floyd.
+~
+~
+0 -1 8248
+D3
+Tink's Tiny but Terrific Temple 
+~
+~
+0 -1 20
+D4
+The Coffin of Disease
+~
+~
+0 -1 9001
+D5
+The Wolf's Den
+~
+~
+0 -1 8305
+S
+#30
+Purgatory~
+&W!!!!!   Do *NOT* modify this room   !!!!!!&n
+
+&BWhen you purge a player, all his/her items will be moved here.
+~
+0 1879130252 536870912 49 99 1
+S
+$~
+#999999

@@ -1,0 +1,2974 @@
+#5700
+Beneath the Turning Point~
+You have stepped down into a dark and evil world.  You can feel the evil
+coming from the shady walls around, emanating in ever strengthening waves
+to pull you down into its embrace.  You have two choices.  You may step
+deeper into the vile world of Domoi Itaba or you may retreat back into the
+light of the world above.
+There appears to be something scratched into the stones near your shoulder.
+~
+59 269484040 0 1 99 1
+D4
+To the Turning Point
+~
+~
+32 -1 3502
+D5
+Into Domoi Itaba
+~
+~
+0 -1 5701
+E
+stones~
+                    ----------------------------------------
+                    -           You have entered           -
+                    -             DOMOI ITABA              -
+                    -                                      -
+                    -           Suggested Levels           -
+                    -                8 - 25                -
+                    -                                      -
+                    ----------------------------------------
+~
+S
+#5701
+Nearing the Danger Zone~
+You have stepped into the tunnels of Domoi Itaba and with each step you take,
+you come closer to the dangerous creatures which reside in this evil domain.
+Once you cross over, you will be at risk until you once again emerge into the
+light of day.  Make sure you have a light!
+~
+59 269484040 0 1 99 1
+D4
+Beneath the Turning Point
+~
+~
+0 -1 5700
+D5
+To the Predators
+~
+~
+0 -1 5702
+S
+#5702
+Nearing the Danger Zone~
+You have stepped into the tunnels of Domoi Itaba and with each step you take,
+you come closer to the dangerous creatures which reside in this evil domain.
+Once you cross over, you will be at risk until you once again emerge into the
+light of day.  Make sure you have a light!
+~
+59 269484032 0 1 99 0
+D4
+A Way Out
+~
+~
+0 -1 5701
+D5
+Worker's Domain
+~
+~
+0 -1 5703
+S
+#5703
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D2
+Worker's Domain
+~
+~
+0 -1 5705
+D4
+Towards the Exit
+~
+~
+32 -1 5702
+S
+#5704
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D1
+Worker's Domain
+~
+~
+0 -1 5705
+D2
+Worker's Domain
+~
+~
+0 -1 5708
+S
+#5705
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5703
+D1
+Worker's domain
+~
+~
+0 -1 5706
+D3
+Worker's Domain
+~
+~
+0 -1 5704
+S
+#5706
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D2
+Worker's domain
+~
+~
+0 -1 5709
+D3
+Worker's Domain
+~
+~
+0 -1 5705
+S
+#5707
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D1
+Worker's Domain
+~
+~
+0 -1 5708
+D2
+Worker's Domain
+~
+~
+0 -1 5712
+S
+#5708
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's domain
+~
+~
+0 -1 5704
+D2
+Worker's Domain
+~
+~
+0 -1 5713
+D3
+Worker's Domain
+~
+~
+0 -1 5707
+S
+#5709
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5706
+D1
+Worker's Domain
+~
+~
+0 -1 5710
+D2
+Worker's domain
+~
+~
+0 -1 5715
+S
+#5710
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D2
+Worker's Domain
+~
+~
+0 -1 5716
+D3
+Worker's Domain
+~
+~
+0 -1 5709
+S
+#5711
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D1
+Worker's Domain
+~
+~
+0 -1 5712
+D2
+Worker's Domain
+~
+~
+0 -1 5718
+S
+#5712
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5707
+D1
+Worker's Domain
+~
+~
+0 -1 5713
+D3
+Worker's Domain
+~
+~
+0 -1 5711
+S
+#5713
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5708
+D1
+Worker's Domain
+~
+~
+0 -1 5714
+D3
+Worker's Domain
+~
+~
+0 -1 5712
+S
+#5714
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D1
+Worker's Domain
+~
+~
+0 -1 5715
+D3
+Worker's Domain
+~
+~
+0 -1 5713
+S
+#5715
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5709
+D1
+Worker's Domain
+~
+~
+0 -1 5716
+D3
+Worker's Domain
+~
+~
+0 -1 5714
+S
+#5716
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5710
+D1
+Worker's Domain
+~
+~
+0 -1 5717
+D3
+Worker's Domain
+~
+~
+0 -1 5715
+S
+#5717
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D2
+Worker's Domain
+~
+~
+0 -1 5719
+D3
+Worker's Domain
+~
+~
+0 -1 5716
+S
+#5718
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5711
+D2
+Worker's Domain
+~
+~
+0 -1 5720
+S
+#5719
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5717
+D2
+Worker's Domain
+~
+~
+0 -1 5721
+S
+#5720
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5718
+D5
+Into a musty tunney
+~
+~
+48 -1 5725
+S
+#5721
+Worker's Domain~
+The primitive insect-like society of the Itaba is stratified clearly, much
+like any other insect species.  You see the workers of this coalition running
+about, working relentlessly as they have been born and bred to do until the
+day they die or are eradicated like the pests they have always been.
+~
+59 269484040 0 1 99 0
+D0
+Worker's Domain
+~
+~
+0 -1 5719
+D5
+Into a Musty Tunnel
+~
+~
+48 -1 5722
+S
+#5722
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 269484041 0 1 99 0
+D4
+Worker's Domain
+~
+~
+32 -1 5721
+D5
+Deeper
+~
+~
+0 -1 5723
+S
+#5723
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 269484041 0 1 99 0
+D4
+Towards the light
+~
+~
+0 -1 5722
+D5
+Deeper
+~
+~
+0 -1 5724
+S
+#5724
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 269484041 0 1 99 0
+D4
+Towards the light
+~
+~
+0 -1 5723
+D5
+Into the Defense
+~
+~
+32 -1 5738
+S
+#5725
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 269484041 0 1 99 0
+D4
+Towards the light
+~
+~
+32 -1 5720
+D5
+Deeper
+~
+~
+0 -1 5726
+S
+#5726
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 269484041 0 1 99 0
+D4
+Towards the light
+~
+~
+0 -1 5725
+D5
+Deeper
+~
+~
+0 -1 5727
+S
+#5727
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 269484041 0 1 99 0
+D4
+Towards the light
+~
+~
+0 -1 5726
+D5
+Into the Defense
+~
+~
+32 -1 5735
+S
+#5728
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 268435465 0 1 99 0
+D4
+Into the first line of defense
+~
+~
+32 -1 5748
+D5
+Deeper
+~
+~
+0 -1 5729
+S
+#5729
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 268435465 0 1 99 0
+D4
+Ascending...
+~
+~
+0 -1 5728
+D5
+Deeper
+~
+~
+0 -1 5730
+S
+#5730
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 268435465 0 1 99 0
+D4
+Ascending...
+~
+~
+0 -1 5729
+D5
+Into the true defense
+~
+~
+32 -1 5769
+S
+#5731
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 268435465 0 1 99 0
+D4
+Into the first line of defense
+~
+~
+32 -1 5751
+D5
+Deeper
+~
+~
+0 -1 5732
+S
+#5732
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 268435465 0 1 99 0
+D4
+Ascending...
+~
+~
+0 -1 5731
+D5
+Deeper
+~
+~
+0 -1 5733
+S
+#5733
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 268435465 0 1 99 0
+D4
+Ascending...
+~
+~
+0 -1 5732
+D5
+Into the true defense
+~
+~
+32 -1 5770
+S
+#5734
+Within a Musty Tunnel~
+You have stepped down into a damp dark tunnel.  There are faint rustlings all
+around you in the darkness and the evil of these tunnels sucks you further
+and further into its grip the further you go.  There is a light at the upper
+end of the tunnel but the further down you go, the deeper the darkness becomes.
+~
+59 268435465 0 1 99 0
+D4
+An escape route
+~
+~
+32 -1 5752
+D5
+Into the breeders' quarters
+~
+~
+32 -1 5773
+S
+#5735
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D1
+First Line
+~
+~
+0 -1 5736
+D2
+First Line
+~
+~
+0 -1 5739
+D4
+Into a musty tunnel
+~
+~
+48 -1 5727
+S
+#5736
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D1
+First Line
+~
+~
+0 -1 5737
+D3
+First Line
+~
+~
+0 -1 5735
+S
+#5737
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D1
+First Line
+~
+~
+0 -1 5738
+D2
+First Line
+~
+~
+0 -1 5740
+D3
+First Line
+~
+~
+0 -1 5736
+S
+#5738
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D2
+First Line
+~
+~
+0 -1 5741
+D3
+First Line
+~
+~
+0 -1 5737
+D4
+Into a musty tunnel
+~
+~
+48 -1 5724
+S
+#5739
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5735
+D2
+First Line
+~
+~
+0 -1 5742
+S
+#5740
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5737
+D1
+First Line
+~
+~
+0 -1 5741
+D2
+First Line
+~
+~
+0 -1 5744
+S
+#5741
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5738
+D3
+First Line
+~
+~
+0 -1 5740
+S
+#5742
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5739
+D1
+First Line
+~
+~
+0 -1 5743
+D2
+First Line
+~
+~
+0 -1 5745
+S
+#5743
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D1
+First Line
+~
+~
+0 -1 5744
+D3
+First Line
+~
+~
+0 -1 5742
+S
+#5744
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5740
+D2
+First Line
+~
+~
+0 -1 5746
+D3
+First Line
+~
+~
+0 -1 5743
+S
+#5745
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5742
+D2
+First Line
+~
+~
+0 -1 5748
+S
+#5746
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5744
+D1
+First Line
+~
+~
+0 -1 5747
+D2
+First Line
+~
+~
+0 -1 5750
+S
+#5747
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D2
+First Line
+~
+~
+0 -1 5751
+D3
+First Line
+~
+~
+0 -1 5746
+S
+#5748
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5745
+D1
+First Line
+~
+~
+0 -1 5749
+D5
+Into a Musty Tunnel
+~
+~
+48 -1 5728
+S
+#5749
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D1
+first Line
+~
+~
+0 -1 5750
+D3
+First Line
+~
+~
+0 -1 5748
+S
+#5750
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5746
+D1
+First Line
+~
+~
+0 -1 5751
+D3
+First Line
+~
+~
+0 -1 5749
+S
+#5751
+First Line of Defense~
+The disposable defenders of the Itaba reside on this layer of soil and rock,
+far beneath the surface you remember.  These creatures have taken root here
+and from here, their evil spreads in waves around the world.  This area is the
+first line of defense as the breeders of the society must be protected at all
+costs, ensuring the future of the species.
+~
+59 268435465 0 1 99 0
+D0
+First Line
+~
+~
+0 -1 5747
+D3
+First Line
+~
+~
+0 -1 5750
+D5
+Into a musty tunnel
+~
+~
+48 -1 5731
+S
+#5752
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D2
+True Defense
+~
+~
+0 -1 5754
+D5
+Into a musty tunnel
+~
+~
+48 -1 5734
+S
+#5753
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D1
+True Defense
+~
+~
+0 -1 5754
+D2
+True Defense
+~
+~
+0 -1 5757
+S
+#5754
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5752
+D1
+True Defense
+~
+~
+0 -1 5755
+D3
+True Defense
+~
+~
+0 -1 5753
+S
+#5755
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D2
+True Defense
+~
+~
+0 -1 5758
+D3
+True Defense
+~
+~
+0 -1 5754
+S
+#5756
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D1
+True Defense
+~
+~
+0 -1 5757
+D2
+True Defense
+~
+~
+0 -1 5761
+S
+#5757
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5753
+D2
+True Defense
+~
+~
+0 -1 5762
+D3
+True Defense
+~
+~
+0 -1 5756
+S
+#5758
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5755
+D1
+True Defense
+~
+~
+0 -1 5759
+D2
+True Defense
+~
+~
+0 -1 5764
+S
+#5759
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D2
+True Defense
+~
+~
+0 -1 5765
+D3
+True Defense
+~
+~
+0 -1 5758
+S
+#5760
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D1
+True Defense
+~
+~
+0 -1 5761
+D2
+True Defense
+~
+~
+0 -1 5767
+S
+#5761
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5756
+D1
+True Defense
+~
+~
+0 -1 5762
+D3
+True Defense
+~
+~
+0 -1 5760
+S
+#5762
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5757
+D1
+True Defense
+~
+~
+0 -1 5763
+D3
+True Defense
+~
+~
+0 -1 5761
+S
+#5763
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D1
+True Defense
+~
+~
+0 -1 5764
+D3
+True Defense
+~
+~
+0 -1 5762
+S
+#5764
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5758
+D1
+True Defense
+~
+~
+0 -1 5765
+D3
+True Defense
+~
+~
+0 -1 5763
+S
+#5765
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5759
+D1
+True Defense
+~
+~
+0 -1 5766
+D3
+True Defense
+~
+~
+0 -1 5764
+S
+#5766
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D2
+True Defense
+~
+~
+0 -1 5768
+D3
+True Defense
+~
+~
+0 -1 5765
+S
+#5767
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5760
+D2
+True Defense
+~
+~
+0 -1 5769
+S
+#5768
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5766
+D2
+True Defense
+~
+~
+0 -1 5770
+S
+#5769
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5767
+D4
+Into a musty tunnel
+~
+~
+48 -1 5730
+S
+#5770
+The True Defense~
+Those who have been lured in this far by the weak soldiers of higher levels
+are faced with the true defenders of Itaba.  To go any deeper will surely
+mean death to the weak though the rewards to the strong could be remarkable.
+Can you face the challenge?  A shiver down your spine at the blind rustling
+of the creatures moving around you in the dark tries your nerve and gives
+you a deep urge to turn and flee before you are consumed.
+~
+59 268435465 0 1 99 0
+D0
+True Defense
+~
+~
+0 -1 5768
+D4
+Into the musty tunnel
+~
+~
+48 -1 5733
+S
+#5771
+The Breeders' Quarters~
+On your journey to these depths you have made many mistakes, but the biggest
+mistake yet was stepping into these quarters.  Having survived the evil trials
+before you thus far, you must understand that to anger the breeders is to
+risk a terrible death.  You now begin to understand the source of the
+juvenile Itaba you have seen on your travels throughout the land.
+~
+59 268435465 0 1 99 0
+D1
+Breeders' quarters
+~
+~
+0 -1 5772
+S
+#5772
+The Breeders' Quarters~
+On your journey to these depths you have made many mistakes, but the biggest
+mistake yet was stepping into these quarters.  Having survived the evil trials
+before you thus far, you must understand that to anger the breeders is to
+risk a terrible death.  You now begin to understand the source of the
+juvenile Itaba you have seen on your travels throughout the land.
+~
+59 268435465 0 1 99 0
+D1
+Breeders' quarters
+~
+~
+0 -1 5773
+D3
+Breeders' quarters
+~
+~
+0 -1 5771
+S
+#5773
+The Breeders' Quarters~
+On your journey to these depths you have made many mistakes, but the biggest
+mistake yet was stepping into these quarters.  Having survived the evil trials
+before you thus far, you must understand that to anger the breeders is to
+risk a terrible death.  You now begin to understand the source of the
+juvenile Itaba you have seen on your travels throughout the land.
+~
+59 268435465 0 1 99 0
+D1
+Breeders' quarters
+~
+~
+0 -1 5774
+D2
+Breeders' quarters
+~
+~
+0 -1 5776
+D3
+Breeders' quarters
+~
+~
+0 -1 5772
+D4
+Into a musty tunnel
+~
+~
+48 -1 5734
+S
+#5774
+The Breeders' Quarters~
+On your journey to these depths you have made many mistakes, but the biggest
+mistake yet was stepping into these quarters.  Having survived the evil trials
+before you thus far, you must understand that to anger the breeders is to
+risk a terrible death.  You now begin to understand the source of the
+juvenile Itaba you have seen on your travels throughout the land.
+~
+59 268435465 0 1 99 0
+D1
+Breeders' quarters
+~
+~
+0 -1 5775
+D3
+Breeders' quarters
+~
+~
+0 -1 5773
+S
+#5775
+The Breeders' Quarters~
+On your journey to these depths you have made many mistakes, but the biggest
+mistake yet was stepping into these quarters.  Having survived the evil trials
+before you thus far, you must understand that to anger the breeders is to
+risk a terrible death.  You now begin to understand the source of the
+juvenile Itaba you have seen on your travels throughout the land.
+~
+59 268435465 0 1 99 0
+D3
+Breeders' quarters
+~
+~
+0 -1 5774
+S
+#5776
+The Breeders' Quarters~
+On your journey to these depths you have made many mistakes, but the biggest
+mistake yet was stepping into these quarters.  Having survived the evil trials
+before you thus far, you must understand that to anger the breeders is to
+risk a terrible death.  You now begin to understand the source of the
+juvenile Itaba you have seen on your travels throughout the land.
+~
+59 268435465 0 1 99 0
+D0
+Breeders' quarters
+~
+~
+0 -1 5773
+D2
+Breeders' quarters
+~
+~
+0 -1 5777
+S
+#5777
+The Breeders' Quarters~
+On your journey to these depths you have made many mistakes, but the biggest
+mistake yet was stepping into these quarters.  Having survived the evil trials
+before you thus far, you must understand that to anger the breeders is to
+risk a terrible death.  You now begin to understand the source of the
+juvenile Itaba you have seen on your travels throughout the land.
+~
+59 268435465 0 1 99 0
+D0
+Breeders' quarters
+~
+~
+0 -1 5776
+D2
+Breeders' quarters
+~
+~
+0 -1 5778
+S
+#5778
+The Breeders' Quarters~
+On your journey to these depths you have made many mistakes, but the biggest
+mistake yet was stepping into these quarters.  Having survived the evil trials
+before you thus far, you must understand that to anger the breeders is to
+risk a terrible death.  You now begin to understand the source of the
+juvenile Itaba you have seen on your travels throughout the land.
+~
+59 268435465 0 1 99 0
+D0
+Breeders' quarters
+~
+~
+0 -1 5777
+D2
+Breeders' quarters
+~
+~
+0 -1 5779
+S
+#5779
+The Breeders' Quarters~
+On your journey to these depths you have made many mistakes, but the biggest
+mistake yet was stepping into these quarters.  Having survived the evil trials
+before you thus far, you must understand that to anger the breeders is to
+risk a terrible death.  You now begin to understand the source of the
+juvenile Itaba you have seen on your travels throughout the land.
+~
+59 268435465 0 1 99 0
+D0
+Breeders' quarters
+~
+~
+0 -1 5778
+D5
+Into a brilliant tunnel
+~
+~
+48 -1 5780
+S
+#5780
+A Bejewelled Tunnel~
+This tunnel is studded with precious gems and is distinctly unlike anything
+you have ever laid eyes upon before.  The darkness you have emerged from is
+replaced by nearly unbearable light.  From the bottom of the tunnel rise
+sounds of laughter and good fun.  How exactly do the most evil creatures of
+the land relax and let their hair down?
+~
+59 268435464 0 1 99 0
+D4
+Into the breeders' quarters
+~
+~
+32 -1 5779
+D5
+Deeper
+~
+~
+0 -1 5781
+S
+#5781
+A Bejewelled Tunnel~
+This tunnel is studded with precious gems and is distinctly unlike anything
+you have ever laid eyes upon before.  The darkness you have emerged from is
+replaced by nearly unbearable light.  From the bottom of the tunnel rise
+sounds of laughter and good fun.  How exactly do the most evil creatures of
+the land relax and let their hair down?
+~
+59 268435464 0 1 99 0
+D4
+Ascending...
+~
+~
+0 -1 5780
+D5
+Deeper
+~
+~
+0 -1 5782
+S
+#5782
+A Bejewelled Tunnel~
+This tunnel is studded with precious gems and is distinctly unlike anything
+you have ever laid eyes upon before.  The darkness you have emerged from is
+replaced by nearly unbearable light.  From the bottom of the tunnel rise
+sounds of laughter and good fun.  How exactly do the most evil creatures of
+the land relax and let their hair down?
+~
+59 268435464 0 1 99 0
+D4
+Ascending...
+~
+~
+0 -1 5781
+D5
+Deeper
+~
+~
+0 -1 5783
+S
+#5783
+A Bejewelled Tunnel~
+This tunnel is studded with precious gems and is distinctly unlike anything
+you have ever laid eyes upon before.  The darkness you have emerged from is
+replaced by nearly unbearable light.  From the bottom of the tunnel rise
+sounds of laughter and good fun.  How exactly do the most evil creatures of
+the land relax and let their hair down?
+~
+59 268435464 0 1 99 0
+D4
+Ascending...
+~
+~
+0 -1 5782
+D5
+Into the lower court
+~
+~
+0 -1 5787
+S
+#5784
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D1
+Lower Court
+~
+~
+0 -1 5785
+D2
+Lower court
+~
+~
+0 -1 5791
+S
+#5785
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D1
+Lower court
+~
+~
+0 -1 5786
+D2
+Lower Court
+~
+~
+0 -1 5792
+D3
+Lower Court
+~
+~
+0 -1 5784
+S
+#5786
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D1
+Lower Court
+~
+~
+0 -1 5787
+D2
+Lower court
+~
+~
+0 -1 5793
+D3
+Lower Court
+~
+~
+0 -1 5785
+S
+#5787
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435468 0 1 99 0
+D1
+Lower Court
+~
+~
+0 -1 5788
+D2
+Lower Court
+~
+~
+0 -1 5794
+D3
+Lower court
+~
+~
+0 -1 5786
+D4
+Into a bright tunnel
+~
+~
+16 -1 5783
+S
+#5788
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D1
+Lower court
+~
+~
+0 -1 5789
+D2
+Lower Court
+~
+~
+0 -1 5795
+D3
+Lower court
+~
+~
+0 -1 5787
+S
+#5789
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D1
+Lower court
+~
+~
+0 -1 5790
+D2
+Lower court
+~
+~
+0 -1 5796
+D3
+Lower Court
+~
+~
+0 -1 5788
+S
+#5790
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D2
+Lower court
+~
+~
+0 -1 5797
+D3
+Lower Court
+~
+~
+0 -1 5789
+S
+#5791
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5784
+D1
+Lower Court
+~
+~
+0 -1 5792
+S
+#5792
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5785
+D1
+Lower court
+~
+~
+0 -1 5793
+D3
+Lower Court
+~
+~
+0 -1 5791
+S
+#5793
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5786
+D1
+Lower Court
+~
+~
+0 -1 5794
+D2
+Lower Court
+~
+~
+32 -1 5798
+D3
+Lower Court
+~
+~
+0 -1 5792
+S
+#5794
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower court
+~
+~
+0 -1 5787
+D1
+Lower court
+~
+~
+0 -1 5795
+D2
+Lower Court
+~
+~
+32 -1 5799
+D3
+Lower Court
+~
+~
+0 -1 5793
+S
+#5795
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower court
+~
+~
+0 -1 5788
+D1
+Lower Court
+~
+~
+0 -1 5796
+D2
+Lower court
+~
+~
+32 -1 5800
+D3
+Lower Court
+~
+~
+0 -1 5794
+S
+#5796
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5789
+D1
+Lower Court
+~
+~
+0 -1 5797
+D3
+Lower Court
+~
+~
+0 -1 5795
+S
+#5797
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5790
+D3
+Lower Court
+~
+~
+0 -1 5796
+S
+#5798
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+32 -1 5793
+D1
+Lower Court
+~
+~
+0 -1 5799
+D2
+Lower Court
+~
+~
+0 -1 5801
+S
+#5799
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+32 -1 5794
+D1
+Lower Court
+~
+~
+0 -1 5800
+D2
+Lower Court
+~
+~
+0 -1 5802
+D3
+Lower Court
+~
+~
+0 -1 5798
+S
+#5800
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower court
+~
+~
+32 -1 5795
+D2
+Lower Court
+~
+~
+0 -1 5803
+D3
+Lower Court
+~
+~
+0 -1 5799
+S
+#5801
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5798
+D1
+Lower Court
+~
+~
+0 -1 5802
+D2
+Lower Court
+~
+~
+0 -1 5804
+S
+#5802
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5799
+D1
+Lower Court
+~
+~
+0 -1 5803
+D2
+Lower Court
+~
+~
+0 -1 5805
+D3
+Lower Court
+~
+~
+0 -1 5801
+S
+#5803
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5800
+D2
+Lower court
+~
+~
+0 -1 5806
+D3
+Lower Court
+~
+~
+0 -1 5802
+S
+#5804
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5801
+D1
+Lower Court
+~
+~
+0 -1 5805
+D2
+Upper Court
+~
+~
+32 -1 5807
+S
+#5805
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5802
+D1
+Lower Court
+~
+~
+0 -1 5806
+D2
+Upper Court
+~
+~
+32 -1 5808
+D3
+Lower Court
+~
+~
+0 -1 5804
+S
+#5806
+Lower Court~
+Here in the lower court, the lower nobility mill about restlessly.  They want
+nothing more than for a spot to open in the upper court so that they can 
+move up in society.  This is truly an area where only the strongest survive.
+Luckily for you, the members of the lower nobility are more interested in
+each other than you
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+0 -1 5803
+D2
+Upper Court
+~
+~
+32 -1 5809
+D3
+Lower Court
+~
+~
+0 -1 5805
+S
+#5807
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+32 -1 5804
+D1
+Upper Court
+~
+~
+0 -1 5808
+D2
+Upper Court
+~
+~
+0 -1 5810
+S
+#5808
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+32 -1 5805
+D1
+Upper Court
+~
+~
+0 -1 5809
+D2
+Upper Court
+~
+~
+0 -1 5811
+D3
+Upper Court
+~
+~
+0 -1 5807
+S
+#5809
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Lower Court
+~
+~
+32 -1 5806
+D2
+Upper Court
+~
+~
+0 -1 5812
+D3
+Upper Court
+~
+~
+0 -1 5808
+S
+#5810
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5807
+D1
+Upper Court
+~
+~
+0 -1 5811
+D2
+Upper Court
+~
+~
+0 -1 5813
+S
+#5811
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5808
+D1
+Upper Court
+~
+~
+0 -1 5812
+D2
+Upper Court
+~
+~
+0 -1 5814
+D3
+Upper Court
+~
+~
+0 -1 5810
+S
+#5812
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5809
+D2
+Upper Court
+~
+~
+0 -1 5815
+D3
+Upper Court
+~
+~
+0 -1 5811
+S
+#5813
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper court
+~
+~
+0 -1 5810
+D1
+Upper court
+~
+~
+0 -1 5814
+D2
+Upper Court
+~
+~
+32 -1 5818
+S
+#5814
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5811
+D1
+Upper Court
+~
+~
+0 -1 5815
+D2
+Upper Court
+~
+~
+32 -1 5819
+D3
+Upper Court
+~
+~
+0 -1 5813
+S
+#5815
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5812
+D2
+Upper Court
+~
+~
+32 -1 5820
+D3
+Upper Court
+~
+~
+0 -1 5814
+S
+#5816
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D1
+Upper Court
+~
+~
+0 -1 5817
+D2
+Upper Court
+~
+~
+0 -1 5823
+S
+#5817
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D1
+Upper Court
+~
+~
+0 -1 5818
+D2
+Upper Court
+~
+~
+0 -1 5824
+D3
+Upper Court
+~
+~
+0 -1 5816
+S
+#5818
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+32 -1 5813
+D1
+Upper Court
+~
+~
+0 -1 5819
+D2
+To the king's throne room
+~
+~
+32 -1 5825
+D3
+Upper Court
+~
+~
+0 -1 5817
+S
+#5819
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+32 -1 5814
+D1
+Upper Court
+~
+~
+0 -1 5820
+D2
+Upper Court
+~
+~
+32 -1 5826
+D3
+Upper Court
+~
+~
+0 -1 5818
+S
+#5820
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+32 -1 5815
+D1
+Upper Court
+~
+~
+0 -1 5821
+D2
+To the queen's throne
+~
+~
+32 -1 5827
+D3
+Upper Court
+~
+~
+0 -1 5819
+S
+#5821
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D1
+Upper Court
+~
+~
+0 -1 5822
+D2
+Upper Court
+~
+~
+0 -1 5828
+D3
+Upper Court
+~
+~
+0 -1 5820
+S
+#5822
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D2
+Upper Court
+~
+~
+0 -1 5829
+D3
+Upper Court
+~
+~
+0 -1 5821
+S
+#5823
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5816
+D1
+Upper Court
+~
+~
+0 -1 5824
+S
+#5824
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5817
+D1
+To the king's throne
+~
+~
+32 -1 5825
+D3
+Upper Court
+~
+~
+0 -1 5823
+S
+#5825
+The King's Throne~
+The fearful King of the Itaba rests here.  You notice that none of the upper
+nobility will come within reach of his throne.  In this society where the
+strongest is the leader, any approach could be seen as a challenge.  Any
+noble that is overly attached to their head won't come within swinging
+distance.
+~
+59 268435464 0 1 99 0
+D0
+Upper court
+~
+~
+32 -1 5818
+D1
+Upper Court
+~
+~
+0 -1 5826
+D3
+Upper Court
+~
+~
+32 -1 5824
+S
+#5826
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+32 -1 5819
+D1
+To the queen's throne
+~
+~
+0 -1 5827
+D3
+To the king's throne
+~
+~
+0 -1 5825
+S
+#5827
+The Queen's Throne~
+If you thought the king was daunting, the queen is downright scary.  Of all
+the nobility, she stands head and shoulders above the rest.  Her powerful
+aura keeps the nobles at bay far easier than that of the king.  Even the
+king dares not venture too close for the queen rules this society and even
+he would not want to anger the queen.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5820
+D1
+Upper Court
+~
+~
+32 -1 5828
+D3
+Upper Court
+~
+~
+0 -1 5826
+S
+#5828
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5821
+D1
+Upper Court
+~
+~
+0 -1 5829
+D3
+To the queen's throne
+~
+~
+32 -1 5827
+S
+#5829
+Upper Court~
+You have crossed over into the upper court where tension is a way of life.
+All of the Itaba nobility have to watch their back all the time from all
+quarters.  It is better to kill than to be killed and you are just as much     
+of an enemy as any other.  Tread carefully and don't get caught up in the
+politics of these creatures.
+~
+59 268435464 0 1 99 0
+D0
+Upper Court
+~
+~
+0 -1 5822
+D3
+Upper Court
+~
+~
+0 -1 5828
+S
+$~
+#999999

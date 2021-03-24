@@ -1,0 +1,184 @@
+#5830
+Overlooking the cavern.~
+You are in a giant cavern looking out over a busy dwarven city.  There are steps leading down into it.
+~
+59 2097160 0 1 99 0
+D5
+steps going down.Steps going down
+~
+steps going down.~
+0 -1 5831
+S
+#5831
+The steps leading down into the city.~
+You are on a large stairway leading down into the city.
+~
+59 2097160 0 1 99 0
+D4
+To the overlook.
+~
+~
+0 -1 5830
+D5
+Steps leading down.
+~
+~
+0 -1 5832
+S
+#5832
+The bottom of the steps.~
+You are at the bottom of the steps. Infront of you in the distance you can see a massive gate guarded by two dwarven guards.
+~
+59 2097160 0 1 99 0
+D0
+To the city gates.
+~
+~
+0 -1 5833
+D4
+Steps going up.
+~
+~
+0 -1 5831
+S
+#5833
+Before the gates.~
+You are struck with a feeling of dread as moments before the guards attack you realize you can see right through them.
+~
+59 2097160 0 1 99 0
+D0
+Inside the city.
+~
+~
+0 -1 5834
+D2
+The bottom of the stairs.
+~
+~
+0 -1 5832
+S
+#5834
+Just inside the city walls.~
+You are on a large road leading to the city center, there are buildings on either side of you.
+~
+59 2097160 0 1 99 0
+D0
+On the road.
+~
+~
+0 -1 5835
+D2
+Before the gates.
+~
+~
+0 -1 5833
+S
+#5835
+On the road.~
+You are on a large road leading to the city center, there are buildings on either side of you.
+~
+59 2097160 0 1 99 0
+D0
+On the road.
+~
+~
+0 -1 5836
+D2
+The road thru town
+~
+~
+0 -1 5834
+S
+#5836
+On the road.~
+You are on a large road leading to the city center, there are buildings on either side of you.
+~
+59 2097160 0 1 99 0
+D0
+The city center.
+~
+~
+0 -1 5837
+D2
+On the road.
+~
+~
+0 -1 5835
+S
+#5837
+The City Center.~
+Before you is a seance out of your worst nightmares, for in the middle of the city center the spirts of the people of the city are reliveing the horror of the slaughter that killed them
+~
+59 2097160 0 1 99 0
+D0
+The City Center.
+~
+~
+0 -1 5838
+D1
+The City Center.
+~
+~
+0 -1 5839
+D2
+On the road
+~
+~
+0 -1 5836
+S
+#5838
+The City Center.~
+Before you is a seance out of your worst nightmares, for in the middle of the city center the spirts of the people of the city are reliveing the horror of the slaughter that killed them
+~
+59 2097160 0 1 99 0
+D1
+The City Center.
+~
+~
+0 -1 5840
+D2
+The City Center.
+~
+~
+0 -1 5837
+S
+#5839
+The City Center.~
+Before you is a seance out of your worst nightmares, for in the middle of the city center the spirts of the people of the city are reliveing the horror of the slaughter that killed them
+~
+59 2097160 0 1 99 0
+D0
+The City Center.
+~
+~
+0 -1 5840
+D3
+The City Center
+~
+~
+0 -1 5837
+S
+#5840
+The City Center.~
+Before you is a seance out of your worst nightmares, for in the middle of the city center the spirts of the people of the city are reliveing the horror of the slaughter that killed them
+~
+59 2097160 0 1 99 0
+D2
+The City Center.
+~
+~
+0 -1 5839
+D3
+The City Center.
+~
+~
+0 -1 5838
+S
+#5841
+Row of kings.~
+You are on the Row of Kings named such because it connected the Palaces of the two kings that ruled here.
+~
+59 2097160 0 0 99 0
+S
+$~
+#999999

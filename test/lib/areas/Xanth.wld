@@ -1,0 +1,3048 @@
+#500
+blank~
+none.
+~
+1 8 0 1 99 1
+S
+#501
+blank~
+none
+~
+1 8 0 1 99 1
+S
+#502
+blank~
+none
+~
+1 8 0 1 99 1
+S
+#503
+blank~
+none
+~
+1 268435464 0 1 99 1
+S
+#504
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#505
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#506
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#507
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#508
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#509
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#510
+North Village~
+This is the North Village.  Its just like all the other villages
+located in a land where magic is the norm. 
+~
+1 268435456 0 1 99 3
+D1
+a gently sloping path.
+~
+~
+0 -1 513
+E
+southwest~
+a hidden path that is obvious only when you're looking for it.
+~
+S
+#511
+Path~
+You are on a manicured path winding its way north and south.
+~
+1 268435456 0 1 99 3
+D0
+a path.
+~
+~
+0 -1 544
+D2
+a path.
+~
+~
+0 -1 526
+S
+#512
+Campsite~
+You stand amoung the remains of an old campsite.  A few blackened stones
+are all that remain.
+~
+1 268435456 0 1 99 3
+D0
+the path crest the top of a small hill.
+~
+~
+0 -1 534
+D2
+the path continuing south.
+~
+~
+0 -1 557
+S
+#513
+Path~
+A foot worn path runs through this area.  It meanders through cropped
+grass to the north and disappears through some trees to the south.
+~
+1 268435456 0 1 99 3
+D0
+a small town.
+~
+~
+0 -1 510
+D2
+a glade.
+~
+~
+0 -1 525
+E
+trees~
+They are standard trees.  You could find others like them anywhere.
+~
+E
+grass~
+Its perfectly manacured grass.  You would die just to lie on it.
+~
+S
+#514
+Gentle Slope~
+You stand upon a gentle slope.  Birds chirp in the distance as you
+gaze around admiring the scenery.   Off in the distance, you hear what
+sounds like an owl hooting.  As you are about to continue on your 
+journey, you notice a tunnel leading down into the hill.
+~
+1 268435456 0 1 99 3
+D1
+a path winding into a forested area.
+~
+~
+0 -1 535
+D3
+a path leading up to a magnificent castle.
+~
+~
+0 -1 562
+D5
+a twisty little passage.
+~
+~
+0 -1 611
+S
+#515
+Southern tip of Isle~
+none
+~
+1 268435456 0 1 99 3
+D0
+the isle continuing north.
+~
+~
+0 -1 537
+D3
+ocean.
+~
+~
+0 -1 623
+S
+#516
+Spring~
+There is a spring here flowing along a winding channel which finally
+trickles down into the chasm.  The channel is richly overgrown with
+strange plants.
+~
+1 268435456 0 1 99 3
+D0
+the North Village.
+~
+~
+0 -1 510
+S
+#517
+Mountain Pass~
+You stand upon a steep mountain pass.  Its strange how steep everything
+is...
+~
+1 268435456 0 1 99 3
+D1
+a lofty perch.
+~
+~
+0 -1 569
+D3
+a path winding down to a forested area.
+~
+~
+0 -1 535
+S
+#518
+Center of Beach~
+You're standing at the water line.  The surf pounding on the beach makes
+it almost impossible to hear anything else.
+~
+1 268435456 0 1 99 3
+D0
+more beach.
+~
+~
+0 -1 536
+D1
+beach.
+~
+~
+0 -1 615
+D3
+the beach end near a towering bluf.
+~
+~
+0 -1 579
+S
+#519
+Magic Path~
+The path is broad and clear.  The surrounding trees have have small
+wormlike holes through them.
+with 
+~
+1 268435456 0 1 99 3
+D0
+a magic bridge extending over the Gap Chasm.
+~
+~
+0 -1 529
+D2
+a junction of four paths.
+~
+~
+0 -1 548
+S
+#520
+Pine Grove~
+The path is narrower here, crowded by huge mock-pine trees.  The forest
+floor is a red-brown carpet of mock needles.  Here and there are patches
+of light green ferns.  There are regions of dark green moss.  It is
+quite here and there is pleasant piney smell.  You feel like lying down
+in a bed of moss.
+~
+1 268435456 0 1 99 3
+D0
+a path continuing north.
+~
+~
+0 -1 557
+D1
+the pine grove extending east.
+~
+~
+0 -1 523
+D2
+the pine grove extending south.
+~
+~
+0 -1 522
+D3
+the pine grove extending west.
+~
+~
+0 -1 521
+S
+#521
+Pine Grove~
+You are in a pine grove, crowded by huge mock-pine trees.  The forest
+floor is a red-brown carpet of mock needles.  Here and there are patches
+of light green ferns.  There are regions of dark green moss.  It is
+quite here and there is pleasant piney smell.  You feel like lying down
+in a bed of moss.
+~
+1 268435456 0 1 99 3
+D0
+the pine grove extending north.
+~
+~
+0 -1 520
+D1
+the pine grove extending east.
+~
+~
+0 -1 522
+D2
+the pine grove extending south.
+~
+~
+0 -1 524
+S
+#522
+Center of Pine Grove~
+The path is narrower here, crowded by huge mock-pine trees.  The forest
+floor is a red-brown carpet of mock needles.  Here and there are patches
+of light green ferns.  There are regions of dark green moss.  It is
+quite here and there is pleasant piney smell.  You feel like lying down
+in a bed of moss.  Ahhhh to rest and admire this peaceful spot.
+~
+1 268435456 0 1 99 3
+D0
+the pine grove extending north.
+~
+~
+0 -1 520
+D1
+the pine grove extending east.
+~
+~
+0 -1 523
+D2
+the pine grove extending south.
+~
+~
+0 -1 524
+D3
+the pine grove extending west.
+~
+~
+0 -1 521
+S
+#523
+Pine Grove~
+You are in a pine grove crowded by huge mock-pine trees.  The forest
+floor is a red-brown carpet of mock needles.  Here and there are patches
+of light green ferns.  There are regions of dark green moss.  It is
+quite here and there is pleasant piney smell.  You feel like lying down
+in a bed of moss.
+~
+1 268435456 0 1 99 3
+D0
+the pine grove extending north.
+~
+~
+0 -1 520
+D2
+the pine grove extending south.
+~
+~
+0 -1 524
+D3
+the pine grove extending west.
+~
+~
+0 -1 522
+S
+#524
+Pine Grove~
+The path is narrower here, crowded by huge mock-pine trees.  The forest
+floor is a red-brown carpet of mock needles.  Here and there are patches
+of light green ferns.  There are regions of dark green moss.  It is
+quite here and there is pleasant piney smell.  You feel like lying down
+in a bed of moss.
+~
+1 268435456 0 1 99 3
+D0
+the pine grove extending north.
+~
+~
+0 -1 522
+D1
+the pine grove extending east.
+~
+~
+0 -1 523
+D2
+the path continuing south and crossing a bubbling stream.
+~
+~
+0 -1 545
+D3
+the pine grove extending west.
+~
+~
+0 -1 521
+S
+#525
+Glade~
+This is a peaceful glade.  Birds chirp away in the surrounding trees.  Thoughts
+of previous picnics come to your mind and you think fleetingly that this would
+make an ideal setting for future ones.
+~
+1 268435456 0 1 99 3
+D0
+a gently sloping path.
+~
+~
+0 -1 513
+D2
+lookout rock.
+~
+~
+0 -1 533
+E
+trees~
+These are just standard trees.  You could find them anywhere.
+~
+E
+birds~
+You can hear them, but they are hidden by the trees.
+~
+S
+#526
+Rolling Hills~
+The path winds its way between rolling hills.
+~
+1 268435456 0 1 99 3
+D0
+a path.
+~
+~
+0 -1 511
+D2
+the path crest the top of a small hill.
+~
+~
+0 -1 534
+E
+rolling~
+These are gently rolling hills, Thanks for keeping them clean.
+~
+E
+hills~
+These are gently rolling hills, thanks for keeping them clean.
+~
+S
+#527
+Guard Room~
+This is a guard room used to provide rapid support for the outer
+defenses.  The massive steal gate to the west provides temporary
+security in case the outer defenses are breached and, while serving
+as a secondary defense, it also helps the guards make sure prisoners
+stay in the adjoining cell.
+~
+1 268435464 0 1 99 3
+D1
+the portculis.
+~
+gate massive steal~
+13 526 628
+D3
+a jail cell.
+~
+gate door~
+111 0 560
+S
+#528
+Northern tip of Isle~
+none.
+~
+1 268435456 0 1 99 3
+D2
+the isle continues southwards.
+~
+~
+0 -1 537
+D3
+ocean.
+~
+~
+0 -1 621
+S
+#529
+Magic Bridge over Chasm~
+This bridge is impossible.  Who would have thought there was an invisible
+bridge all the way across the chasm?  Looking down into the it brings on
+an intense feeling of vertigo.  
+~
+1 268435456 0 1 99 3
+D0
+the magic bridge leading to the north side of the chasm.
+~
+~
+0 -1 516
+S
+#530
+Panel Room~
+none.
+~
+1 268435456 0 1 99 3
+D0
+an entrace between two Greek columns.
+~
+~
+0 -1 549
+D1
+a cage
+~
+~
+0 -1 564
+S
+#531
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#532
+Storage Room~
+This room has been painted white.  A red cross has been painted on 
+each wall.  You wonder if they mean anything.
+~
+1 268435456 0 1 99 3
+D0
+hallway.
+~
+door north~
+9 0 565
+D3
+hallway.
+~
+door west~
+9 0 577
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#533
+Lookout Rock~
+This is not a particularly lofty promontory, but its situational magic makes
+it seem even more elevated than it is, so that you can look out on a quarter
+slice of Xanth.  This is a land of multicolored vegetaation, small pretty lakes,
+and deceptively quiet fields of flowers, ferns, and crops.  Even as you watch,
+one of the lakes expands slightly, making itself seem cooler and deeper, a
+better place for a swim.
+~
+1 268435456 0 1 99 3
+D0
+a glade.
+~
+~
+0 -1 525
+D5
+a ledge.
+~
+~
+0 -1 543
+E
+Lake~
+It looks like a nice place to swim, but you can't get to it from here.
+~
+S
+#534
+Top of Small Hill~
+You stand atop a small hill.  The path winds its way from the south and heads
+north.
+~
+1 268435456 0 1 99 3
+D0
+rolling hills.
+~
+~
+0 -1 526
+D2
+a campsite.
+~
+~
+0 -1 512
+S
+#535
+Dryad's Tree~
+Several trees surround you forming a quite glade.
+~
+1 268435456 0 1 99 3
+D1
+an indistingushable path heading somewhere.
+~
+~
+0 -1 559
+D3
+a gentle slope.
+~
+~
+0 -1 514
+S
+#536
+Center of Beach~
+You're standing at the water line.  The surf pounding on the beach makes
+it almost impossible to hear anything else.
+~
+1 268435456 0 1 99 3
+D0
+more beach.
+~
+~
+0 -1 547
+D1
+beach.
+~
+~
+0 -1 614
+D2
+more beach.
+~
+~
+0 -1 518
+D3
+more beach and a narrow opening into a cliff.
+~
+~
+0 -1 581
+S
+#537
+Center of Isle beach~
+none
+~
+1 268435456 0 1 99 3
+D0
+the isle continues northwards.
+~
+~
+0 -1 528
+D1
+nothing.
+~
+~
+0 -1 633
+D2
+the isle continues southwards.
+~
+~
+0 -1 515
+D3
+ocean
+~
+~
+0 -1 622
+S
+#538
+Midway up Castle Wall~
+From here you can see the pine grove and little white dots in the far 
+distance that might be homes in the North Village.  Looking up you
+notice the narrow stairway climbs into a square aperture.  Its not
+to late to turn around and head back down the stairs.
+~
+1 8 0 1 99 1
+D4
+a stairway leading upwards.
+~
+~
+0 -1 539
+D5
+north entrance of castle.
+~
+~
+0 -1 627
+S
+#539
+Marble Room~
+A low ceiling prevents an upward exit.
+You see a solid marble wall to the north.
+You see a sandstone wall to the east.
+You see a sandstone wall to the south.
+You see a solid marble wall to the west.
+~
+1 8 0 1 99 1
+D5
+~
+~
+0 0 538
+E
+wall~
+Which wall do you mean?  The sandstone or marble?
+~
+E
+ladder~
+Its attached to the sandstone.  If there were an opening in the ceiling
+it would be just the thing to get you out of here.
+~
+E
+sandstone stone~
+Its a crumbly standstone.  You could probably push it.
+~
+E
+marble~
+Its solid.  I doubt if it could be pushed out of the way.
+~
+S
+#540
+Western Turrent~
+You stand inside a wind swept turrent.  Mounted in the north wall are
+several buttons.
+~
+1 8 0 1 99 1
+D1
+top of castle
+~
+door~
+15 0 629
+D5
+a square aparture.
+~
+~
+0 -1 541
+E
+wooden~
+Its a huge wooden door.
+~
+E
+door~
+Its a huge wooden door.
+~
+S
+#541
+Marble Room~
+You see a solid marble wall to the north.
+You see a solid marble wall to the south.
+You see a solid marble wall to the east.
+You see a solid marble wall to the west.
+~
+1 268435456 0 1 99 3
+D4
+a room with buttons.
+~
+~
+0 -1 540
+D5
+A ledge midway up the platform.
+~
+~
+0 -1 538
+S
+#542
+Storage Room~
+This large room is decorated with velvet drapes and plush furniture, some
+of which appears to be ripped by claws.  The room is lit by various small
+candles scattered about the room. 
+~
+1 268435456 0 1 99 3
+D1
+hallway.
+~
+door east~
+9 0 587
+D2
+hallway.
+~
+door south~
+9 0 558
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#543
+Ledge Behind Lookout Rock~
+This is a little ledge behind lookout rock.  You can't see as much from here,
+but the view is still grand.
+~
+1 268435456 0 1 99 3
+D4
+lookout rock.
+~
+~
+0 -1 533
+S
+#544
+Path~
+You are on a manicured path winding its way north and south.
+~
+1 268435456 0 1 99 3
+D0
+a small town.
+~
+~
+0 -1 510
+D2
+a weed infested path.
+~
+~
+0 -1 511
+S
+#545
+Stream~
+You are standing on a wooden trestle which crosses a bubbling brook.
+~
+1 268435456 0 1 99 3
+D0
+a peaceful pine grove.
+~
+~
+0 -1 524
+D2
+the path continuing in a southerly direction.
+~
+~
+0 -1 552
+S
+#546
+Rolling Hills~
+You stand upon the highest of several hills.  To the southeast, you
+can hear pounding surf.  While the path doesn't actually go due west,
+it does turn west after a short north/south branching.
+~
+1 268435456 0 1 99 3
+D0
+the trail curving around to the west.
+~
+~
+0 -1 569
+D1
+a path heading east then northwards.  You can hear the faint sound of
+surf pounding against rocks.
+~
+~
+0 -1 579
+D2
+the trail curving around to the west.
+~
+~
+0 -1 584
+S
+#547
+Center of Beach~
+You're standing at the water line.  The surf pounding on the beach makes
+it almost impossible to hear anything else.
+~
+1 268435456 0 1 99 3
+D1
+beach.
+~
+~
+0 -1 613
+D2
+more beach.
+~
+~
+0 -1 536
+D3
+the beach continues up to an impassible cliff.
+~
+~
+0 -1 563
+S
+#548
+Path Junction~
+To the west is Humphry's castle.  Multiple paths join here so you have
+several directions to choose from.
+~
+1 268435456 0 1 99 3
+D0
+an entrance to the castle.
+~
+~
+0 -1 562
+D1
+a magic path that leads back to the North Village.
+~
+~
+0 -1 519
+D3
+castle hallway.
+~
+door massive stone west~
+15 0 565
+E
+door massive stone~
+___________________________________________________________________
+|                  .  .  .                 .  .  .                |
+|               .           .           .           .             |
+|             .       |       .       .       |       .           |
+|           .       --|--       .   .       --|--       .         |
+|         .           |           .           |           .       |
+|        .                        .                       |       |
+|        |**                      .                     **|       |
+|        |**                      .                     **|       |
+|        |         <M%#3   +P#*]? . #qA   %q4%fC          |       |
+|        |                        .                       |       |
+|        |                        .                       |       |
+|        |                   []   .  []                   |       |
+|        |                   []   .  []                   |       |
+|        |                        .                       |       |
+|        |                        .                       |       |
+|        |**                      .                     **|       |
+|        |**                      .                     **|       |
+|        |________________________________________________|       |
+|_________________________________________________________________|
+
+~
+S
+#549
+Outside Portculis~
+You stand before a portculis which protects the castle to the south.
+~
+1 268435456 0 1 99 3
+D0
+the Castle entrance.
+~
+~
+0 -1 562
+D2
+the raised portculis and a clear passage to the castle beyond.
+~
+portculis gate south~
+15 0 628
+E
+portculis door~
+Its a heavy iron grating used to protect the castle.
+~
+S
+#550
+North of Chasm~
+You stand before a mighty chasm, half a mile across and seemingly of
+bottomless depth.
+~
+1 268435456 0 1 99 3
+D1
+the bluff your standing on continues eastward.
+~
+~
+0 -1 551
+S
+#551
+North of Chasm~
+You stand before a mighty chasm, half a mile across and seemingly of
+bottomless depth.  The land seems to slope downwards to the east.
+~
+1 268435456 0 1 99 3
+D1
+the bluff your standing on continues eastward.
+~
+~
+0 -1 552
+D3
+the bluff your standing on continues westward.
+~
+~
+0 -1 550
+S
+#552
+North of Chasm~
+You stand before a mighty chasm, half a mile across and seemingly of
+bottomless depth.  The land seems to slope downwards to the east,
+with a slight rise to the west.
+~
+1 268435456 0 1 99 3
+D0
+the  path crosses a bubbling stream.
+~
+~
+0 -1 545
+D1
+the bluff your standing on continues eastward.
+~
+~
+0 -1 553
+D3
+the bluff your standing on continues westward.
+~
+~
+0 -1 551
+S
+#553
+North of Chasm~
+You stand before a mighty chasm, half a mile across and seemingly of
+bottomless depth.  The land seems to slope upwards to the west and
+has a descends to the east.  Looking over the edge, you notice 
+a slight path leading down into the chasm.
+~
+1 268435456 0 1 99 3
+D1
+the bluff your standing on continues eastward.
+~
+~
+0 -1 554
+D2
+a treacherous path leading down into the chasm.
+~
+~
+32 -1 598
+D3
+the bluff your standing on continues westward.
+~
+~
+0 -1 552
+S
+#554
+North of Chasm~
+The gap chasm lies before you.  Its only 100 feet or so deep.
+~
+1 268435456 0 1 99 3
+D1
+the bluff your standing on continues eastward.
+~
+~
+0 -1 555
+D2
+a path leading down into the chasm.
+~
+~
+32 -1 599
+D3
+the bluff your standing on continues westward.
+~
+~
+0 -1 553
+S
+#555
+North of Chasm~
+You're standing on a bluff with a 50 foot drop down into the chasm.
+A narrow trail leads down to the floor of the chasm.
+~
+1 268435456 0 1 99 3
+D1
+the bluff your standing on continues eastward.
+~
+~
+0 -1 556
+D2
+a path leading down into the chasm.
+~
+~
+32 -1 601
+D3
+the bluff your standing on continues westward.
+~
+~
+0 -1 554
+S
+#556
+North of Chasm~
+You're standing on a bluff.  The chasm has narrowed here and you notice
+an extremely steep path leading down to a beach on your right.  You
+can hear the faint sounds of ocean surf pounding the beach.  The land
+climbs to the west.
+~
+1 268435456 0 1 99 3
+D1
+the bluff you're standing on drops down to a beach.  You hear the sounds of
+ocean surf pounding the beach.   Its a certain bet, you'll not be able to 
+climb back up this way.
+~
+~
+0 -1 563
+D2
+a nice path gently winding its way down to the bottom of the chasm.
+~
+~
+32 -1 602
+D3
+the bluff your standing on continues westward.
+~
+~
+0 -1 555
+S
+#557
+Above Crevice~
+You stand above a crevise.  Crevise?  This is more like a gorge!  Its almost
+5 feet across.  You feel sweat run down your back as you think about falling
+into it if you fail to make it across.
+~
+1 268435456 0 1 99 3
+D0
+a campsite.
+~
+~
+0 -1 512
+D2
+a pine grove.
+~
+~
+0 -1 520
+D5
+a dark crevice.
+~
+~
+0 -1 561
+S
+#558
+Hallway~
+This hallway extends all the way west to what must be outer wall of the
+castle.
+~
+1 268435456 0 1 99 3
+D0
+a room.
+~
+door north~
+9 0 542
+D1
+the 1st floor winding staircase.
+~
+~
+0 -1 589
+D2
+a room.
+~
+door south~
+9 0 591
+S
+#559
+Mountain Pass~
+You stand upon a steep mountain pass.  Its strange how steep everything
+is...
+~
+1 268435456 0 1 99 3
+D1
+an inviting and well manicured path.
+~
+~
+0 -1 584
+D3
+a path winding down to a forested area.
+~
+~
+0 -1 535
+S
+#560
+Cell~
+The cell is a solid stone room.  You can't make out a single crack in 
+any wall or corner.  It dawns on you that being locked in a magicians
+cell is not the way to gain riches and fame.  You rack your mind trying
+to come up with a way out of this cursed room!  In despair, you recognize
+only time or death will release you.
+~
+1 1881260044 1610612736 1 99 3
+D1
+outter guard room.
+~
+gate door~
+111 0 527
+S
+#561
+Crevice~
+You are in a deep crevise.  Thankfully, the walls are pitted and provide 
+a means to climb out of the pit.
+~
+1 268435456 0 1 99 3
+D4
+a path.
+~
+~
+0 -1 557
+S
+#562
+Castle Grounds~
+You see proof that your quest has not been in vain, because to the
+south is a magnificent castle.  Towers and turrents adorn the structure.
+Flags snap in a stiff breeze blowing from the west.  To the south is a
+portculis which protects the castle.  To the east a gentle slope leads
+back towards the North village.
+~~
+1 268435456 0 1 99 3
+D1
+a gentle slope.
+~
+~
+0 -1 514
+D2
+an entrance between two Greek columns.
+~
+~
+0 -1 549
+S
+#563
+Beach~
+This is the northern end of the beach.  It is covered with the cleanest
+sand you've ever seen.  Thoughts of running barefoot pass through your
+mind.  
+~
+1 268435456 0 1 99 3
+D1
+more beach.
+~
+~
+0 -1 547
+D2
+the beach continuing south.
+~
+~
+0 -1 581
+D3
+a rough cliff face rising quickly to breathtaking heights.  You could climb
+down it, but never up.
+~
+~
+112 -1 556
+S
+#564
+Cage~
+none.
+~
+1 268435456 0 1 99 3
+D3
+the panel room.
+~
+~
+0 -1 530
+S
+#565
+Hallway~
+This hallway extends all the way east to what must be outer wall of the
+castle.
+~
+1 268435456 0 1 99 3
+D0
+a room.
+~
+door north~
+9 0 580
+D1
+you see a junction of paths.
+~
+door massive stone east~
+11 0 548
+D2
+a room.
+~
+door south~
+9 0 532
+D3
+the 1st floor winding staircase.
+~
+~
+0 -1 589
+E
+massive stone door~
+Its a massive stone door.
+~
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#566
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#567
+Storage Room~
+This room is empty.  Possibly its a future storage area.
+~
+1 268435456 0 1 99 3
+D2
+hallway.
+~
+door south~
+9 0 590
+D3
+hallway.
+~
+door west~
+9 0 592
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#568
+Storage Room~
+This is an empty room.  Possibly for future storage.
+~
+1 268435456 0 1 99 3
+D0
+hallway.
+~
+door north~
+1 0 593
+D1
+hallway.
+~
+door east~
+9 0 594
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#569
+Dragon's Perch~
+You've climbed upon a rocky promontory.  You notice what can only be
+claw marks etched into the soft stone. 
+~
+1 268435456 0 1 99 3
+D1
+the ground slants sharply downwards into rolling hills.
+~
+~
+0 -1 546
+D3
+a narrow pass up the mountain.
+~
+~
+0 -1 517
+S
+#570
+South of Chasm~
+You stand before a mighty chasm, half a mile across and seemingly of
+bottomless depth.
+~
+1 268435456 0 1 99 3
+D1
+the bluff you're standing on continues eastward.
+~
+~
+0 -1 571
+S
+#571
+South of Chasm~
+Awesome is the only way to describe the abyss you see before you.  Hundreds
+of feet below you see what must be clouds.  You feel butterflys in your
+stomach just looking down.
+~
+1 268435456 0 1 99 3
+D1
+the bluff you're standing on continues eastward.
+~
+~
+0 -1 572
+D3
+the bluff you're standing on continues westward.
+~
+~
+0 -1 570
+S
+#572
+South of Chasm~
+You stand before a mightly chasm, half a mile across and seeminly of 
+bottomless depth.  Looking downwards, you see what appears to be 
+clouds!
+~
+1 268435456 0 1 99 3
+D1
+the bluff you're standing on continues eastward.
+~
+~
+0 -1 573
+D3
+the bluff you're standing on continues westward.
+~
+~
+0 -1 571
+S
+#573
+South of Chasm~
+You stand before a mighty chasm.  There is no chance of climbing down
+into the chasm from here.  You notice the lands slopes downward to the
+east.  There might be a way down into the chasm in that direction.
+~
+1 268435456 0 1 99 3
+D1
+the bluff you're standing on continues eastward.
+~
+~
+0 -1 574
+D3
+the bluff you're standing on continues westward.
+~
+~
+0 -1 572
+S
+#574
+South of Chasm~
+You stand upon a high bluff before an immense chasm.  The chasm is a
+quarter of a mile across.  Mud slides have created a path down into 
+the chasm.
+~
+1 268435456 0 1 99 3
+D0
+a steeply descending path leads down into the chasm.
+~
+~
+32 -1 599
+D1
+the bluff you're standing on continues eastward.
+~
+~
+0 -1 575
+D3
+the bluff you're standing on continues westward.
+~
+~
+0 -1 573
+S
+#575
+South of Chasm~
+You are standing on a cliff with a 50 foot drop.   While you wouldn't
+want to fall off the cliff, you could scramble down a path to the north.
+~
+1 268435456 0 1 99 3
+D0
+a path leading down the chasm wall.
+~
+~
+32 -1 601
+D1
+the bluff you're standing on continues eastward.
+~
+~
+0 -1 576
+D3
+the bluff you're standing on continues westward.
+~
+~
+0 -1 574
+S
+#576
+South of Chasm~
+You're standing on a bluff.  The chasm has narrowed here and you 
+notice a sloping path leading to a beach on your right.  The bluff
+slopes down to the north leading into the chasm.  
+~
+1 268435456 0 1 99 3
+D0
+a nice path gently winding its way down into the chasm.
+~
+~
+32 -1 602
+D1
+the bluff gently sloping down to a sandy beach.
+~
+~
+0 -1 579
+D3
+the bluff you're standing on continues westward.
+~
+~
+0 -1 575
+S
+#577
+Hallway~
+On the walls of this long hallway you see great paintings of various
+Xanthian lifeforms.
+~
+1 268435456 0 1 99 3
+D0
+the 1st floor winding staircase.
+~
+~
+0 -1 589
+D1
+a room.
+~
+door east~
+9 0 532
+D3
+a room.
+~
+door west~
+9 0 591
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#578
+Storage Room~
+This is an empty room.  Possibly for future storage.
+~
+1 268435456 0 1 99 3
+D1
+hallway.
+~
+door east~
+9 0 592
+D2
+hallway.
+~
+door south~
+9 0 593
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#579
+Beach~
+You feel at peace here.  The beach continues a little further to the 
+east and ends with ocean surf lapping at it.   To the west is a steep
+hill begging you to climb up and see whats on the other side.  To the
+south you can barely make out what appear to be rolling hills.
+~
+1 268435456 0 1 99 3
+D0
+the beach continues to the north.
+~
+~
+0 -1 581
+D1
+more beach.
+~
+~
+0 -1 518
+D2
+a path heading south then west through gently rolling hills.
+~
+~
+0 -1 546
+D3
+the sandy beach ends and the ground gently slopes upwards to a bluff.
+~
+~
+0 -1 576
+S
+#580
+Storage Room~
+This room has been painted black.  A torch burning on each wall allows
+you to see.  However, when you do just that and notice blood stains on
+the walls, you decide a dark room would be best.
+~
+1 268435456 0 1 99 3
+D2
+hallway.
+~
+door south~
+9 0 565
+D3
+hallway.
+~
+door west~
+9 0 587
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#581
+Beach~
+Drifts of white sand hinder walking, but the ocean to the far east more
+than makes up for the extra labor. To the west is an opening between two
+high bluffs.
+~
+1 268435456 0 1 99 3
+D0
+more beach.
+~
+~
+0 -1 563
+D1
+more beach.
+~
+~
+0 -1 536
+D2
+the beach continues southwards.
+~
+~
+0 -1 579
+D3
+an opening that appears to be a chasm.
+~
+~
+32 -1 602
+S
+#582
+Storage Room~
+This room is empty.  Possibly a future storage area.
+~
+1 268435456 0 1 99 3
+D0
+hallway.
+~
+door north~
+9 0 590
+D3
+hallway.
+~
+door west~
+9 0 594
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#583
+Circular Stair~
+You are standing on an ornate circular staircase.
+~
+1 268435456 0 1 99 3
+D0
+a hallway.
+~
+door north~
+9 0 594
+D4
+a circular stairway leading upwards.
+~
+~
+0 -1 624
+S
+#584
+Manicured Path~
+AMAZING!  This is a perfectly manicured path.  The grass is cut so
+perfectly, as to appear as smooth carpet.  You can't wait to trod
+down it. 
+~
+1 268435456 0 1 99 3
+D1
+the ground slants sharply downwards into rolling hills.
+~
+~
+0 -1 546
+D3
+a narrow pass up the mountain.
+~
+~
+0 -1 559
+S
+#585
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#586
+Circular Stair~
+The fancy wood carvings adorning the walls are impressive as are the
+four arches leading outwards in all directions.  But what is most
+notable is the grand stairway in the center  of this room.  Its 
+wide enough for five humans to walk side by side.
+~
+1 268435456 0 1 99 3
+D0
+hallway.
+~
+~
+0 -1 592
+D1
+hallway.
+~
+~
+0 -1 590
+D2
+a hallway.
+~
+~
+0 -1 594
+D3
+hallway.
+~
+~
+0 -1 593
+D4
+a winding staircase leading upwards.
+~
+~
+0 -1 625
+D5
+a winding staircase leading downwards.
+~
+~
+0 -1 589
+S
+#587
+Hallway~
+While this hallway is wider than most, its most impressive feature
+is the picture on the north wall.  Its hard to focus your eyes on
+it as the scenery appears to change constantly.
+~
+1 268435456 0 1 99 3
+D1
+a room.
+~
+door east~
+9 0 580
+D2
+the 1st floor winding staircase.
+~
+~
+0 -1 589
+D3
+a room.
+~
+door west~
+9 0 542
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#588
+blank~
+none.
+~
+1 268435456 0 1 99 3
+S
+#589
+Bottom of Stairs~
+This room is huge.  The walls are appear to be made from massive marble
+slabs sanded to a glossy smoothness.   Equally massive granite columns
+support the 50 foot high ceiling.  Were it not for the grand stairway
+located in the center of the room, you would despair of every climbing
+to the next floor.  Four arches lead to each direction of the compass.
+~
+1 268435456 0 1 99 3
+D0
+hallway.
+~
+~
+0 -1 587
+D1
+hallway.
+~
+~
+0 -1 565
+D2
+hallway.
+~
+~
+0 -1 577
+D3
+hallway.
+~
+~
+0 -1 558
+D4
+a winding staircase leading upwards.
+~
+~
+0 -1 586
+D5
+a stairway leading downwards.
+~
+trapdoor down~
+25 0 626
+E
+trapdoor~
+Its a solid trap door.
+~
+S
+#590
+Hallway~
+This is a dimly lit hallway.
+~
+1 268435456 0 1 99 3
+D0
+A room with a huge box in the center of it.
+~
+door north~
+9 0 567
+D2
+what appears to be an empty room.
+~
+door south~
+9 0 582
+D3
+the 2nd floor winding staircase.
+~
+~
+0 -1 586
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#591
+Storage Room~
+This is a 40x50 room.  Other than buttons, a lever, and platform under your
+feet, its just an ordinary room.
+~
+1 268435456 0 1 99 3
+D0
+hallway.
+~
+door north~
+9 0 558
+D1
+hallway.
+~
+door east~
+9 0 577
+D5
+a ladder leading down into the basement.
+~
+platform door~
+31 0 631
+E
+platform~
+Its in the center of the room and is about a foot off the floor.
+~
+S
+#592
+Hallway~
+This is the second floor hallway.
+~
+1 268435456 0 1 99 3
+D1
+a room.
+~
+door east~
+9 0 567
+D2
+the 2nd floor winding staircase.
+~
+~
+0 -1 586
+D3
+a room.
+~
+door west~
+9 0 578
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#593
+Hallway~
+This is a dimly lit hallway.
+~
+1 268435456 0 1 99 3
+D0
+a room.
+~
+door north~
+9 0 578
+D1
+the 2nd floor winding staircase.
+~
+~
+0 -1 586
+D2
+a room.
+~
+door south~
+1 0 568
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#594
+Hallway~
+This is a well maintained hallway.  You can't see a single spec of
+dust anywhere.  The ceiling is free of cobwebs also.
+~
+1 268435456 0 1 99 3
+D0
+the 2nd floor winding staircase.
+~
+~
+0 -1 586
+D1
+what appears to be an empty room.
+~
+door east~
+9 0 582
+D2
+a room with stairs leading upward.
+~
+door south~
+9 0 583
+D3
+a room.
+~
+door west~
+9 0 568
+E
+door~
+Its a standard castle door available from any local hardware store 
+that happens to sell castle doors.
+~
+S
+#595
+Inside Chasm~
+You stand upon the chasm floor.  The walls of the chasm rise out of 
+site.  You notice wisp of cloud floating above.  The walls are even
+higher than them!
+~
+1 268435456 0 1 99 3
+D1
+The chasm continues east.
+~
+~
+0 -1 596
+S
+#596
+Inside Chasm~
+Rock walls prevent your climbing out of the chasm.  You only options are
+to continue east or west.
+~
+1 268435456 0 1 99 3
+D1
+The chasm continues east.
+~
+~
+0 -1 597
+D3
+The chasm continues west.
+~
+~
+0 -1 595
+S
+#597
+Inside Chasm~
+You're standing on the floor of the chasm.   Steep walls prevent your
+climbing out of the chasm.
+~
+1 268435456 0 1 99 3
+D1
+~
+~
+0 -1 598
+D3
+The chasm continues west.
+~
+~
+0 -1 596
+S
+#598
+Inside Chasm~
+It appears the chasm wall is not as steep on the north side.  A faint
+trail climbs steeply up the north face.  You can travel the chasm by
+heading east or west.
+~
+1 268435456 0 1 99 3
+D0
+a treacherous path leading out of the chasm.
+~
+~
+32 -1 553
+D1
+The chasm continues east.
+~
+~
+0 -1 599
+D3
+The chasm continues west.
+~
+~
+0 -1 597
+S
+#599
+Inside Chasm~
+It looks like there are exits from this chasm after all.   Looking
+upwards, you can see the top of the chasm walls. 
+~
+1 268435456 0 1 99 3
+D0
+a path leading up the chasm wall.
+~
+~
+32 -1 554
+D1
+The chasm continues east.
+~
+~
+0 -1 601
+D2
+a steeply climbing path leads upwards from the chasm.
+~
+~
+32 -1 574
+D3
+The chasm continues west.
+~
+~
+0 -1 598
+D5
+a deep dark hole.
+~
+~
+32 -1 603
+S
+#600
+Study~
+You see about you a paper filled study.
+~
+1 268435456 0 1 99 3
+D3
+a stairway landing.
+~
+door wooden west~
+13 504 625
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#601
+Inside Chasm~
+You are standing inside the chasm.  Faints sounds of surf come from the 
+east.
+~
+1 268435456 0 1 99 3
+D0
+a path leading up the chasm wall.
+~
+~
+32 -1 555
+D1
+The chasm continues east.
+~
+~
+0 -1 602
+D2
+a path leading up the chasm wall.
+~
+~
+32 -1 575
+D3
+The chasm continues west.
+~
+~
+0 -1 599
+S
+#602
+Inside Chasm~
+You are standing just inside the chasm.  To the east you see a beautiful 
+thread of white sand stretching from one side of the chasm to the other.
+~
+1 268435456 0 1 99 3
+D0
+a nice path gently winding its way to the top of the chasm wall.
+~
+~
+32 -1 556
+D1
+the chasm walls narrow to a width of about 3 feet.  Beyond the opening, you
+see a beach and hear the sound of surf crashing against the shore.
+~
+~
+32 -1 581
+D2
+a nice path gently winding its way to the top of the chasm wall.
+~
+~
+32 -1 576
+D3
+The chasm continues west.
+~
+~
+0 -1 601
+S
+#603
+Shade's Burial~
+You find yourself in a damp cave.  It appears water trickles down from
+above which turns the dirt to mud.  You notice a branching path leading
+east.
+~
+1 268435456 0 1 99 3
+D1
+a twisty little passage.
+~
+~
+0 -1 608
+D4
+what appears to be a passage leading out of the cave.
+~
+~
+0 -1 599
+S
+#604
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+1 274726921 0 1 99 3
+D0
+a twisty little passage.
+~
+~
+0 -1 611
+D1
+rlink a twisty little passage.
+~
+~
+0 -1 607
+D2
+a twisty little passage.
+~
+~
+0 -1 607
+D3
+a twisty little passage.
+~
+~
+0 -1 608
+D4
+a twisty little passage.
+~
+~
+0 -1 606
+D5
+a twisty little passage.
+~
+~
+0 -1 604
+S
+#605
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+1 274726925 0 1 99 3
+D0
+a twisty little passage.
+~
+~
+0 -1 611
+D1
+a twisty little passage.
+~
+~
+0 -1 607
+D2
+a twisty little passage.
+~
+~
+0 -1 608
+D3
+a twisty little passage.
+~
+~
+0 -1 609
+D4
+a twisty little passage.
+~
+~
+0 -1 603
+D5
+a twisty little passage.
+~
+~
+0 -1 604
+S
+#606
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+1 274726921 0 1 99 3
+D0
+rlinka twisty little passage.
+~
+~
+0 -1 609
+D1
+a twisty little passage.
+~
+~
+0 -1 608
+D2
+a twisty little passage.
+~
+~
+0 -1 611
+D3
+a twisty little passage.
+~
+~
+0 -1 607
+D4
+rlink d 607
+a twisty little passage.
+~
+~
+0 -1 605
+S
+#607
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+1 274726921 0 1 99 3
+D0
+a twisty little passage.
+~
+~
+0 -1 604
+D1
+a twisty little passage.
+~
+~
+0 -1 606
+D2
+a twisty little passage.
+~
+~
+0 -1 609
+D3
+a twisty little passage.
+~
+~
+0 -1 610
+D4
+rla twisty little passage.
+~
+~
+0 -1 608
+D5
+a twisty little passage.
+~
+~
+0 -1 607
+S
+#608
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+1 274726921 0 1 99 3
+D0
+a twisty little passage.
+~
+~
+0 -1 605
+D1
+a twisty little passage.
+~
+~
+0 -1 604
+D2
+a twisty little passage.
+~
+~
+0 -1 610
+D3
+a twisty little passage.
+~
+~
+0 -1 606
+D4
+a twisty little passage.
+~
+~
+0 -1 604
+D5
+a twisty little passage.
+~
+~
+0 -1 611
+S
+#609
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+1 274726925 0 1 99 3
+D0
+a twisty little passage.
+~
+~
+0 -1 607
+D1
+a twisty little passage.
+~
+~
+0 -1 610
+D2
+a twisty little passage.
+~
+~
+0 -1 605
+D3
+a twisty little passage.
+~
+~
+0 -1 608
+D4
+a twisty little passage.
+~
+~
+0 -1 514
+S
+#610
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+1 274726921 0 1 99 3
+D0
+a twisty little passage.
+~
+~
+0 -1 608
+D1
+a twisty little passage.
+~
+~
+0 -1 607
+D2
+a twisty little passage.
+~
+~
+0 -1 604
+D3
+a twisty little passage.
+~
+~
+0 -1 611
+D4
+rla twisty little passage.
+~
+~
+0 -1 604
+D5
+a twisty little passage.
+~
+~
+0 -1 607
+S
+#611
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+1 274726921 0 1 99 3
+D0
+a twisty little passage.
+~
+~
+0 -1 606
+D1
+a twisty little passage.
+~
+~
+0 -1 610
+D2
+a twisty little passage.
+~
+~
+0 -1 608
+D3
+a twisty little passage.
+~
+~
+0 -1 609
+D4
+a twisty little passage.
+~
+~
+0 -1 610
+D5
+a twisty little passage.
+~
+~
+0 -1 609
+S
+#612
+Ocean~
+You see water all around you.
+~
+1 268435464 0 1 99 7
+D1
+ocean.
+~
+~
+0 -1 621
+D2
+ocean.
+~
+~
+0 -1 619
+D3
+ocean.
+~
+~
+0 -1 616
+S
+#613
+Beach~
+You stand on the beach with pearly white sand all around.
+~
+1 268435456 0 1 99 3
+D1
+water.
+~
+~
+0 -1 612
+D2
+beach.
+~
+~
+0 -1 614
+D3
+beach.
+~
+~
+0 -1 547
+S
+#614
+Beach~
+You stand on the beach with pearly white sand all around.
+~
+1 268435456 0 1 99 3
+D0
+beach.
+~
+~
+0 -1 613
+D1
+ocean.
+~
+~
+0 -1 619
+D2
+beach.
+~
+~
+0 -1 615
+D3
+beach.
+~
+~
+0 -1 536
+S
+#615
+Beach~
+You stand on the beach with pearly white sand all around.
+~
+1 268435456 0 1 99 3
+D0
+beach.
+~
+~
+0 -1 614
+D1
+ocean.
+~
+~
+0 -1 620
+D3
+beach.
+~
+~
+0 -1 518
+S
+#616
+Ocean~
+You see water all around you.
+~
+1 268435464 0 1 99 7
+D1
+ocean.
+~
+~
+0 -1 612
+D2
+ocean.
+~
+~
+0 -1 617
+D3
+a beach.
+~
+~
+32 -1 563
+S
+#617
+Ocean~
+You see water all around you.
+~
+1 268435464 0 1 99 7
+D0
+ocean.
+~
+~
+0 -1 616
+D1
+ocean.
+~
+~
+0 -1 619
+D2
+ocean.
+~
+~
+0 -1 618
+D3
+a beach.
+~
+~
+32 -1 581
+S
+#618
+Ocean~
+You see water all around you.
+~
+1 268435464 0 1 99 7
+D0
+ocean.
+~
+~
+0 -1 617
+D1
+ocean.
+~
+~
+0 -1 620
+D3
+a beach.
+~
+~
+32 -1 579
+S
+#619
+Ocean~
+You see water all around you.
+~
+1 268435464 0 1 99 7
+D0
+ocean.
+~
+~
+0 -1 612
+D1
+ocean.
+~
+~
+0 -1 622
+D2
+ocean.
+~
+~
+0 -1 620
+D3
+ocean.
+~
+~
+0 -1 617
+S
+#620
+Ocean~
+You see water all around you.
+~
+1 268435464 0 1 99 7
+D0
+ocean.
+~
+~
+0 -1 619
+D1
+ocean.
+~
+~
+0 -1 623
+D3
+ocean.
+~
+~
+0 -1 618
+S
+#621
+Ocean~
+You see water all around you.
+~
+1 268435464 0 1 99 7
+D1
+an island.
+~
+~
+32 -1 528
+D2
+south.
+~
+~
+0 -1 622
+D3
+ocean.
+~
+~
+0 -1 612
+S
+#622
+Ocean~
+You see water all around you.
+~
+1 268435464 0 1 99 7
+D0
+ocean.
+~
+~
+0 -1 621
+D1
+an island.
+~
+~
+0 -1 537
+D2
+ocean.
+~
+~
+0 -1 623
+D3
+ocean.
+~
+~
+0 -1 619
+S
+#623
+Ocean~
+You see water all around you.
+~
+1 268435464 0 1 99 7
+D0
+ocean.
+~
+~
+0 -1 622
+D1
+an island.
+~
+~
+32 -1 515
+D3
+ocean.
+~
+~
+0 -1 620
+S
+#624
+Circular Stairway~
+You see an elevator door to the north and a circular stair leading
+downwards.
+~
+1 268435456 0 1 99 3
+D0
+an elevator.
+~
+~
+15 -1 630
+D5
+a circular stairway leading downwards.
+~
+~
+0 -1 583
+E
+elevator~
+Its a safe elevator protected under several CTA regulations.
+~
+E
+wooden~
+Its a huge wooden door.
+~
+S
+#625
+Top of Stairs~
+Standing at the top of the stairs, you think it strange that such a 
+grand staircase would end up in a room as small as this one.  The 
+room is just large enough for you to breathe.
+~
+1 268435456 0 1 99 3
+D1
+a study.
+~
+door wooden east~
+15 504 600
+D5
+a winding staircase leading downwards.
+~
+~
+0 -1 586
+E
+door huge wooden~
+Its a huge wooden door.
+~
+E
+door huge wooden~
+Its a huge wooden door.
+Its a huge wooden door.
+~
+E
+door huge wooden~
+Its a huge wooden door.
+~
+S
+#626
+Bottom of Stairs~
+This room hasn't been dusted in months.  Considering how spotless clean
+the rest of the castle is, you suspect its not used often if ever.
+~
+1 268435456 0 1 99 3
+D4
+a stairway leading upwards
+~
+trapdoor up~
+9 0 589
+S
+#627
+North Entrance~
+You stand before an imposing castle.  Instinctively you know your destiny
+lies beyond the castle.  Unfortunately, the castle builders put this structure
+right in way.  The forest and brush on both sides prevent your mearly walking
+around it.  You'll have to pass through it!  The door into the castle is
+impressive.
+~
+1 268435456 0 1 99 3
+D0
+the portculis.
+~
+~
+0 -1 628
+D2
+castle hallway.
+~
+door massive stone wooden~
+15 0 587
+D4
+a narrow stairway to a landing midway up the castle.
+~
+~
+0 -1 538
+E
+forest~
+The forest almost buts right up against the castle.  The brush appears to 
+exist for the sole benefit of closing up even that gap.  You'll have to
+pass through the castle.
+~
+E
+brush~
+Its the stuff keeping you from going around the castle.
+~
+E
+door massive stone~
+___________________________________________________________________
+|                  .  .  .                 .  .  .                |
+|               .           .           .           .             |
+|             .       |       .       .       |       .           |
+|           .       --|--       .   .       --|--       .         |
+|         .           |           .           |           .       |
+|        .                        .                       |       |
+|        |**                      .                     **|       |
+|        |**                      .                     **|       |
+|        |         <M%#3   +P#*]? . #qA   %q4%fC          |       |
+|        |                        .                       |       |
+|        |                        .                       |       |
+|        |                   []   .  []                   |       |
+|        |                   []   .  []                   |       |
+|        |                        .                       |       |
+|        |                        .                       |       |
+|        |**                      .                     **|       |
+|        |**                      .                     **|       |
+|        |________________________________________________|       |
+|_________________________________________________________________|
+
+~
+S
+#628
+Inside Portculis~
+You stand inside the portculis which protects the castle.
+~
+1 268435456 0 1 99 3
+D0
+the raised portculis and a clear passage to the land of Xanth beyond it.
+~
+portculis gate north~
+15 0 549
+D2
+the castle entrance.
+~
+~
+0 -1 627
+D3
+a guard post.
+~
+gate massive steal~
+13 526 527
+E
+portculis door~
+Its a heavy iron grating used to protect the castle.
+~
+S
+#629
+Eastern Turrent~
+You stand inside a wind swept turrent.  Mounted in the west wall are
+a couple buttons and lever.
+~
+1 268435456 0 1 99 3
+D2
+an elevator.
+~
+~
+3 -1 630
+D3
+the castle turrent.
+~
+door~
+47 0 540
+E
+elevator~
+Its a safe elevator protected under several CTA regulations.
+~
+E
+door~
+The west door is a huge wooden one.  The elevator door is standard.
+~
+E
+wooden~
+Its a huge wooden door.
+~
+S
+#630
+Elevator~
+You are standing in a *magically* powered elevator.   Its gotta be magic 
+because everyone knows electricity is a mundane creation.   The only thing
+of note is a panel with two buttons and the doors to your north and south.
+~
+1 268435456 0 1 99 3
+D0
+an exit from this elevator.
+~
+~
+3 -1 629
+D2
+Elevator lobby.
+~
+door wooden~
+47 0 624
+E
+doors~
+They are standard elevator doors.
+~
+E
+gray~
+Its a standard button.  Since its in this elevator, it probably has something
+to do with its operation.    Its positioned over the blue button.  Wonder if
+thats important?
+~
+E
+blue ~
+It appears to have been smashed by a hammer.  Wish there was a replacement.
+~
+E
+elevator~
+Its guarenteed safe by the CTA.
+~
+E
+blue button~
+~
+E
+wooden~
+Its a huge wooden door.
+~
+E
+door~
+The west door is a huge wooden one.  The elevator door is standard.
+~
+S
+#631
+Basement Treasure~
+Expecting great riches, you've rushed into this room and find to your dismay
+that instead of great riches, there is:
+ 
+                          D E A T H
+
+ 
+CrimsonMUD Main Menu
+
+0) Exit from CrimsonMud.
+1) Enter the game.
+2) Enter description.
+3) Change password.
+
+   Make your choice:      
+
+
+    And what appears to be great humor on the part of Humphrey!
+~
+1 268435456 0 1 99 3
+D4
+a ladder leading to the storage room.
+~
+door~
+13 0 591
+S
+#632
+blank~
+none
+~
+1 8 0 1 99 1
+S
+#633
+Weedgrown Yard~
+none
+~
+1 268435456 0 1 99 2
+D1
+a shack.
+~
+~
+0 -1 635
+D3
+the beach.
+~
+~
+0 -1 537
+S
+#634
+Pantry~
+none
+~
+1 268435456 0 1 99 2
+D2
+the shacks main room.
+~
+~
+0 -1 635
+S
+#635
+Shack~
+none
+~
+1 268435456 0 1 99 2
+D0
+the pantry.
+~
+~
+0 -1 634
+D2
+an attached outhouse.
+~
+~
+0 -1 636
+D3
+a weed grown yard.
+~
+~
+0 -1 633
+S
+#636
+Attached Outhouse~
+none
+~
+1 268435456 0 1 99 2
+D0
+the shacks main room.
+~
+~
+0 -1 635
+S
+#637
+Blank~
+none
+~
+1 268435456 0 1 99 2
+S
+#638
+Blank~
+none
+~
+1 268435456 0 1 99 2
+S
+#639
+Blank~
+none
+~
+1 268435456 0 1 99 2
+S
+#640
+Main Path~
+none
+~
+1 268435456 0 1 99 2
+D1
+what appears to be a garden.
+~
+~
+0 -1 642
+D3
+the beach.
+~
+~
+0 -1 537
+S
+#641
+Main Path~
+none
+~
+1 268435456 0 1 99 2
+D1
+what appears to be a garden.
+~
+~
+0 -1 642
+D3
+the beach.
+~
+~
+0 -1 537
+S
+#642
+Garden~
+none
+~
+1 268435456 0 1 99 2
+D1
+the crystal palace.
+~
+~
+0 -1 644
+D3
+the main path.
+~
+~
+0 -1 641
+S
+#643
+Dining Room~
+none
+~
+1 268435456 0 1 99 2
+D2
+the palaces main room.
+~
+~
+0 -1 644
+S
+#644
+Palace~
+none
+~
+1 268435456 0 1 99 2
+D0
+the dining room.
+~
+~
+0 -1 643
+D2
+the bathroom.
+~
+~
+0 -1 645
+D3
+the garden.
+~
+~
+0 -1 642
+S
+#645
+Bathroom~
+none
+~
+1 268435456 0 1 99 2
+D0
+the palaces main room.
+~
+~
+0 -1 644
+S
+$~
+#999999

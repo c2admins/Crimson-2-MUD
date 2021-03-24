@@ -1,0 +1,50 @@
+#!/bin/bash
+#
+# This script mails the admin the last week's:
+#                   bug repport
+#                   ideas
+#                   and missing help entries
+#
+# This file is for use with Crimson MUD 2
+# By Shalira
+#
+
+cd /prod/lib
+
+cat /mud/prod/lib/nohelp.header /mud/prod/logs/nohelp.7 /mud/prod/logs/nohelp.6 /mud/prod/logs/nohelp.5\
+    /mud/prod/logs/nohelp.4 /mud/prod/logs/nohelp.3 /mud/prod/logs/nohelp.2 /mud/prod/logs/nohelp.1\
+    > /mud/prod/lib/nohelp.mail
+    
+cat /mud/prod/lib/bugs.header /mud/prod/lib/bugs > /mud/prod/lib/bugs.mail
+
+cat /mud/prod/lib/ideas.header /mud/prod/lib/ideas > /mud/prod/lib/ideas.mail
+
+
+# enter everybody who need to get some of the files mailed
+# cat <filename1> <filename2>... | mail <email address>
+# each recipient on a line for themself
+#
+# at the moment the following files are prepared:
+# 
+# /mud/prod/lib/nohelp.mail: the missing help entries from the last week
+# /mud/prod/lib/bugs.mail  : The bug reports from the last week
+# /mud/prod/lib/ideas.mail : The ideas submitted in the last week
+#
+
+cat /mud/prod/lib/nohelp.mail /mud/prod/lib/bugs.mail /mud/prod/lib/ideas.mail | mail -s C2_files c2admins@gmail.com
+cat /mud/prod/lib/nohelp.mail /mud/prod/lib/bugs.mail /mud/prod/lib/ideas.mail | mail -s C2_files c2admins@gmail.com
+cat /mud/prod/lib/bugs.mail /mud/prod/lib/ideas.mail | mail -s C2_files c2admins@gmail.com
+cat /mud/prod/lib/nohelp.mail | mail -s C2_files c2admins@gmail.com
+
+
+
+
+mv /mud/prod/lib/ideas /mud/prod/lib/ideas.backup
+touch /mud/prod/lib/ideas
+
+
+mv /mud/prod/lib/bugs /mud/prod/lib/bugs.backup
+touch /mud/prod/lib/bugs
+
+
+    

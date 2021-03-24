@@ -1,0 +1,766 @@
+#4000
+mob snake~
+the snake~
+A large dreadful snake.
+~
+It looks hungry.
+~
+57354 1 136249361 8 -200 S
+11 28 33 10d9+80 3d5+3
+0 3500
+8 8 0
+0 0 13 12 11 12 10 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4001
+mob small greelak~
+The greelak~
+A small fuzzy creature oozes across the floor.
+~
+  Looking like little more than a big ball of fur, the greelak oozes
+up onto it's hindquaters to show it's maw of sharp, twisted fangs!
+~
+65544 1 136249361 0 -100 S
+7 30 36 5d9+20 2d5+2
+2 240
+8 8 0
+0 0 13 13 12 12 8 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4002
+mob centipede~
+the centipede~
+A small centipede.
+~
+It looks complete harmless.
+~
+8 1 136249361 0 100 S
+3 34 38 5d3+15 2d2+1
+150 115
+8 8 0
+0 0 12 12 9 9 9 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4003
+mob living rock~
+The living rock~
+A large rock is here, did it just move?
+~
+  At first glance, it looks like an ordinary rock. Upon closer examination,
+what at first looked like cracks in its frame, are really slits where it's
+eyes and mouth are! Feeling a presense close to it, the creature suddenly
+springs to life.
+~
+72 1 136249361 637534208 -100 S
+7 30 36 5d5+30 3d3+2
+0 208
+8 8 0
+0 0 13 12 10 10 9 8
+#4004
+mob orc small moria~
+the orc~
+The orc walks around, looking for someone to kill.
+~
+You notice an evil look in his eyes
+~
+57420 1 136249361 33554432 -400 S
+7 30 36 5d5+28 3d3+2
+4 200
+8 8 1
+17 0 13 14 11 11 9 7
+#4005
+mob orc moria~
+the orc~
+A large, mean looking orc wanders here, having been cast out of his tribe.
+~
+He looks dreadful.
+~
+57420 1 136249361 33554432 -500 S
+10 29 34 7d5+100 2d5+5
+8 3000
+8 8 1
+17 0 13 13 12 13 11 10
+#4050
+mob kargros~
+The kargros~
+An ugly kargros is here, blindly walking around.
+~
+  Blind from years without light, the kargros are a race of humpbacked
+humanoids. Their skin is a pale and pasty white, while their eyes are
+white and pupiless. years of scavenging have given them a hunger for
+any meat they can get their hands on, and right now, the closest meat is
+you!
+~
+57420 1 136249361 0 -300 S
+10 29 34 8d5+110 3d3+5
+8 3200
+8 8 1
+0 0 13 15 11 12 9 8
+#4051
+mob mercenary warrior~
+the warrior~
+A mercenary warrior is here, wandering around the mines.
+~
+He seems to know his way with weapons.
+~
+57420 1 136249361 0 -400 S
+12 27 32 9d7+125 2d5+8
+10 3685
+8 8 1
+0 4 15 16 14 13 12 13
+#4052
+mob hobgoblin small~
+the hobgoblin~
+A small hobgoblin wanders around, trying to make a name for himself.
+~
+The hobgoblin looks quite lost.
+~
+76 1 136249361 33554432 -300 S
+9 30 35 7d5+35 2d3+5
+5 260
+8 8 1
+21 0 14 15 12 13 10 11
+#4053
+mob snake~
+the snake~
+A brown snake watches you.
+~
+The snake looks quite mean.
+~
+122888 1 136249361 0 -600 S
+10 29 34 9d7+100 3d5+2
+0 3250
+8 8 0
+0 0 14 14 11 13 12 9
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4054
+mob centipede~
+the centipede~
+A white centipede is here.
+~
+The centipede doesn't really seem to notice you.
+~
+8 1 136249361 0 -100 S
+5 32 37 5d3+25 2d3+2
+0 165
+8 8 0
+0 0 12 14 12 12 9 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4055
+mob hobgoblin large~
+the hobgoblin~
+A large hobgoblin is here.
+~
+The hobgoblin looks quite dangerous.
+~
+76 1 136249361 33554432 -500 S
+13 26 31 9d9+130 2d3+4
+11 3800
+8 8 1
+21 0 14 15 12 12 11 9
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4056
+mob vicious vorlon~
+The vorlon~
+A vicious looking vorlon is here, looking for something to eat.
+~
+  Looking like little more than a huge mouth on legs, the vorlon do 
+little more than eat whatever they come across. Having highly developed
+taste buds, the beastys are able to detect their prey with their tongue
+rather than their other senses. From the looks of the saliva dripping from
+this ones mouth, it has sensed your presense and is ready for a meal.
+~
+57420 1 136249361 33554432 -800 S
+14 25 30 9d19+100 3d3+3
+22 4050
+8 8 1
+17 0 15 13 13 14 11 9
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4057
+mob orc chieftain~
+The orc chieftain~
+The mighty orc chieftain stands here in all his glory.
+~
+     Easily the ugliest of all orcs, the chieftain is also the smartest. He
+has survived his long reign as their leader on cunning and ruthlessness, and
+seeks nothing more to expand his boundaries to outside the mines.
+~
+10 32769 136249361 33554592 -750 S
+16 26 35 5d5+120 3d5+6
+41 4800
+8 8 1
+0 0 17 17 16 14 12 12
+SKILL=SPELL_BURNING_HANDS 40
+#4058
+mob orc shaman~
+The orc shaman~
+An old, frail looking orc stands here in a trance.
+~
+     An old wizened orc, this shaman serves as an advisor to the chief. Though
+his frame looks old and frail, he is still a strong member of his clan.
+~
+1034 32769 136249361 100663456 0 S
+15 27 34 6d6+100 3d4+3
+40 4650
+8 8 1
+0 0 17 17 16 15 13 15
+SKILL=SPELL_BURNING_HANDS 65
+SKILL=SPELL_COLOUR_SPRAY 45
+SKILL=SPELL_CURE_CRITIC 79
+SKILL=SPELL_MAGIC_MISSILE 90
+#4059
+mob orc witchdoctor~
+The orc witchdoctor~
+The orc witchdoctor dances around the room in some strange ritual.
+~
+     Completely covered in the bones of dead animals, the witchdoctor is a 
+gruesome sight indeed. She is the spiritual protector of her tribe, and will
+protect any of them to her own death.
+~
+1100 134250497 136249361 35651712 -800 S
+15 28 35 5d10+90 3d5+3
+35 4200
+8 8 2
+0 0 16 16 14 14 13 13
+SKILL=SPELL_ARMOR 40
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_TREMOR 80
+SKILL=SKILL_HUNT 20
+#4060
+mob orc sentinel~
+The orc sentinel~
+A big, strong orc stands guard here.
+~
+     Only the biggest, strongest and fastest of the hunters can become guards.
+This individual is no exception with his rippling muscles, huge frame and 
+a scowl that could make a dragon cringe. 
+~
+1034 32769 136249361 33816576 -600 S
+12 27 38 5d8+100 2d4+2
+10 3500
+8 8 1
+0 0 17 16 16 16 14 13
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4061
+mob orc female~
+The female orc~
+A female orc is here, devotedly doing her chores.
+~
+     Thought of as nothing more than child bearers, the women of the orc 
+species are left to do meaningless chores to appease the males. This poor 
+creature is weary, but will still defend her clan if need be.
+~
+396 1048577 136249361 33554432 0 S
+8 33 40 5d2+40 2d2+3
+4 250
+8 8 2
+0 0 17 17 16 15 15 12
+#4062
+mob orc child~
+The orc child~
+An orc child runs around unattended.
+~
+     At a young age it's near impossible to determine the sex of orcs. This
+individual is covered from head to toe in mud, making that task even harder.
+~
+136 1 136249361 33554432 0 S
+4 37 40 4d3+18 1d3+2
+0 150
+8 8 0
+0 0 17 18 14 14 12 13
+#4063
+mob orc warrior~
+The orc warrior~
+A large orc is here, looking for something to kill.
+~
+     Tall and strong, this orc was bred for war. He will kill anything and
+everything that crosses his path.
+~
+57352 1 136249361 33554432 -800 S
+11 29 33 10d4+100 3d3+3
+9 3400
+8 8 1
+0 0 16 15 14 14 12 11
+#4064
+mob orc hunter~
+The orc hunter~
+An orc is here, trying to hide in the shadows.
+~
+     He's big and mean, but not overly bright. 
+~
+49160 1 136249361 34603008 -750 S
+10 30 31 4d9+80 2d3+4
+8 3000
+8 8 1
+0 0 16 16 16 16 13 14
+#4065
+mob kobold leader~
+The kobold chieftain~
+The leader of the kobolds stands here.
+~
+     Standing a mere four feet tall, the chief still towers over the rest of
+his kin. He is decked out in a headress made from various baubbles taken from
+the remains of victims found throughout the mines. At his side is sheathed
+a glowing blade which is the symbol of his power and office. Though normally
+a very aggressive species, he is the most willing of the mine inhabitants to
+accept allies due to the losses he has suffered against the orcs. Even though
+he is not as aggressive as the other leaders, he should still not be trusted
+for he would assuredly stab any ally in the back once he gets what he wants.
+~
+74 134250497 136249361 101187712 -400 S
+13 27 33 5d5+65 2d2+3
+11 4000
+8 8 1
+0 0 17 17 16 15 14 14
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#4066
+mob kobold warrior~
+The kobold warrior~
+A small kobold warrior stands here, waiting for a fight.
+~
+     Though not as big as many of the denizens of the mines, kobold warriors
+more than make up for their small stature with pure ferocity. In times of need
+their sharp pointy teeth serve as good weapons, while their large bulbous
+eyes and huge pointy ears serve well at detecting prey. Many people tend to
+underestimate a kobold just because of its size..often to their own peril.
+~
+12 1048577 136249361 33554432 -350 S
+9 31 34 4d4+45 2d3+4
+8 600
+8 8 1
+0 0 17 18 16 14 13 15
+#4067
+mob kobold priestess~
+The kobold priestess~
+A kobold priestess stands here, chanting an incantation.
+~
+     Holding one of the highest positions in the tribe, the kobold priestess 
+wears only the finest clothing available. Though her somewhat pampered
+life has left her weaker than most kobolds, if provoked she can use her
+learned magic to aid her.
+~
+74 134217729 136249361 33554602 -400 S
+10 30 30 10d2+100 2d3+5
+9 3250
+8 8 2
+0 0 17 17 15 15 14 14
+SKILL=SPELL_ARMOR 50
+SKILL=SPELL_BLESS 50
+SKILL=SPELL_CURE_CRITIC 50
+SKILL=SPELL_TREMOR 50
+#4068
+mob kobold shaman~
+The kobold shaman~
+A rather large kobold stands here, muttering a strange chant.
+~
+     Dressed in exotic beads and feathers, the small kobold before you is an 
+intimidating beast for his size. Besides his beastial appearance, he is also
+very learned in the magical arts, and thus not a foe to be taken lightly.
+~
+65738 32769 136249361 33554440 -400 S
+10 29 35 3d4+110 3d3+2
+10 3100
+8 8 1
+0 0 17 16 14 16 14 11
+#4069
+mob kobold hunter~
+The kobold hunter~
+A small kobold hides here among the shadows, loooking for prey.
+~
+     Usually the largest and strongest of the tribe, the kobold hunters strike forth 
+each day to bring food to their brethren. This individual wields a very 
+nasty looking spear.
+~
+844 32769 136249361 33554432 -500 S
+7 33 36 5d5+30 2d2+4
+4 220
+8 8 0
+0 0 16 15 14 14 13 12
+#4070
+mob kobold warrior female~
+The female kobold~
+A female kobold warrior stands here at attention.
+~
+     Females hold a much better position in the society of kobolds than in
+other races. This particular beasty is armed to the teeth, and wears armor
+fashioned from scraps salvaged from adventurers who lost their lives 
+within the mines.
+~
+76 1081345 136249361 33554432 -400 S
+6 35 37 4d5+21 2d3+1
+3 170
+8 8 2
+0 0 17 18 15 14 12 15
+#4071
+mob kobold child~
+The kobold child~
+A small kobold child plays here gleefully.
+~
+     Small and underdeveloped, this poor child is barely able to defend 
+itself.
+~
+200 1 136249361 33554432 0 S
+3 35 39 3d3+11 1d1+2
+0 150
+8 8 0
+0 0 17 17 16 16 15 13
+#4072
+mob hobgoblin chief~
+the hobgoblin chieftain~
+A strong and powerful hobgoblin is here, watching your every move.
+~
+     Born of a race where only the strongest survive, the chief
+is the best the hobgoblins have to offer. He stands nearly a foot
+taller than any other hobgoblin, and his muscles can be seen bulging
+from under the piecemail armor he wears. A huge studded mace hangs at
+his side, a weapon of awesome destruction. The beast looks as if he wants
+to squash you like a bug!
+~
+32842 134250497 136249361 301990024 -800 S
+15 25 28 5d2+100 3d4+7
+35 4700
+8 8 1
+0 0 16 15 15 15 14 12
+#4073
+mob hobgoblin tracker~
+The hobgoblin tracker~
+A large hobgoblin is here, looking for something.
+~
+  Born with heightened senses beyond the rest of their kin, hobgoblin 
+trackers hold a rank within their clan that not even the chief can hope
+to achieve. 
+  Not wishing to be bogged down with heavy equipment, the tracker carries
+only a wicked looking spear, and light bone armor for defense. 
+~
+134221836 135299073 136249361 34078720 -700 S
+13 28 31 5d10+125 2d5+5
+15 3900
+8 8 1
+0 0 17 17 16 15 13 11
+SKILL=SKILL_HUNT 99
+#4074
+mob worker orc~
+An orc worker~
+A worker orc stands here, carrying a heavy load.
+~
+  Tired and weary from a long days work, the worker doesn't like it can put up
+much of a fight.
+~
+204 1 136249361 33554432 -200 S
+11 29 36 10d3+100 3d4+0
+12 3500
+8 8 0
+0 0 17 15 15 14 13 11
+#4075
+mob hobgoblin female~
+A female hobgoblin~
+A rather obnoxious hobgoblin female is here.
+~
+  Complain, complain, complain. That's all she ever does. You've only 
+been here a moment and you already want to kill her.
+~
+200 1 136249361 33554432 -1000 S
+10 36 36 10d2+60 2d3+1
+5 3500
+8 8 2
+0 0 17 15 14 15 14 13
+#4076
+mob hobgoblin sentinel~
+The hobgoblin sentinel~
+A rather large hobgoblin stands here at attention.
+~
+  The largest and strongest of the hobgoblins are chosen to become
+sentinels for the clan. Trained in heavy armor and bulky weapons, these
+guards are worthy opponents to any foe.
+~
+74 32769 136249361 369098752 -650 S
+14 25 30 20d3+120 2d4+5
+25 4200
+8 8 1
+0 0 16 18 16 14 12 12
+#4077
+mob normal hobgoblin~
+The hobgoblin~
+A hobgoblin stands here, not doing much of anything.
+~
+  Tired of feeding the fires all day, the hobgoblin is taking a break
+before spending an evening in the great hall.
+~
+76 135299073 136249361 33554432 -700 S
+13 27 32 20d2+100 2d3+5
+23 4000
+8 8 1
+0 0 16 17 14 16 14 14
+SKILL=SPELL_CURE_LIGHT 75
+SKILL=SPELL_MAGIC_MISSILE 75
+#4078
+mob hobgoblin trainee~
+The hobgoblin trainee~
+A hobgoblin trainee stands here, practicing swordplay.
+~
+  Battle is the only truth for the hobgoblin pride. At a young age, each
+and every hobgoblin undergoes training to test their mettle in battle. Only
+the strongest ever reach the battlefield..will this youth be one of them?
+~
+74 134217729 136249361 33554432 -200 S
+9 30 35 2d5+47 1d9+1
+8 1000
+8 8 0
+0 0 17 15 15 15 15 14
+#4079
+mob hobgoblin warmaster~
+The hobgoblin warmaster~
+A hobgoblin warmaster stands here, instructing his charges in the ways of war.
+~
+  though old and scarred from battle, the warmaster is still strong
+and able to battle. He trains the youth of the hobgoblins in ancient
+art of war, an art handed down from generation to generation. Since he
+is merely training at the moment, he wears little armor and carries no
+weapon.
+~
+32842 134250497 136249361 369098752 -900 S
+15 22 29 2d10+180 3d4+4
+35 4600
+8 8 1
+0 0 17 17 16 15 14 12
+#4080
+mob ugly mean troll~
+The troll~
+A big, mean, ugly troll stands here.
+~
+  Though large and powerful, this troll is not particularly bright.
+You could probably pass through the area without him even noticing 
+you.
+~
+72 134250497 136249361 100663296 -300 S
+16 24 29 1d30+200 2d5+0
+40 5000
+8 8 1
+0 0 17 17 16 15 15 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#4081
+mob young troll~
+The young troll~
+A young troll wanders around aimlessly.
+~
+  Since the trolls of this clan seem less intelligent than most, the
+young wander around without spuervision. This individual has had a busy 
+day from the smell of it. 
+~
+200 134217729 136249361 100663296 0 S
+10 29 34 3d20+60 1d2+2
+8 3000
+8 8 0
+0 0 16 16 16 15 12 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#4082
+mob female troll~
+the female troll~
+A large troll lumbers past, seemingly ignoring you.
+~
+  Almost indistinguishable from the males, the female trolls are just as 
+strong and powerful as they look. Green skin covers a tall muscular body, 
+while dark hollow eyes accent a lrage pointed nose and huge ears. Two rows
+of sharp teeth line her maw, complemented by two sets of clawed hands. Maybe
+you should just leave her alone!
+~
+72 32769 136249361 100663296 -750 S
+15 27 26 7d10+120 2d2+2
+36 4500
+8 8 2
+0 0 16 17 16 16 12 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#4083
+mob collector troll~
+The collector~
+A small troll known as 'The Collector' stands here.
+~
+   Smaller and weaker than his brethren, "the collector' is so named because
+of his facination with trinkets and bobbles. He can be seen carrying around
+his possesions at all times, usually fastened to his body with string.
+~
+200 1343489 136249361 100663296 -200 S
+15 26 24 5d9+170 2d2+1
+45 4500
+8 8 1
+0 0 17 18 16 16 14 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#4084
+mob big boss troll~
+Da big boss~
+A huge troll, simply known as 'Big Boss' stands here.
+~
+  Though not overly bright, Big Boss makes up for lack of intelligence
+with pure cunning and brute strength. He knows the trolls are the strongest
+of the mines denizens, and it's only a matter of time before they are able
+to wipe out the other races and claim the mines for themselves.
+~
+294986 32769 136249361 100663304 -800 S
+18 20 25 10d10+200 2d2+3
+46 5500
+8 8 1
+10 4 24 17 15 14 25 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#4085
+mob Groll orc god~
+Groll, the orc god~
+The mighty god of the orcs stands here, planning the destruction of his foes.
+~
+  All that orcs are, he is. Evil, manipulative and backstabbing are
+his trademarks. Anyone in his way is a potential victim, and he won't
+rest until the entire realm is his to control.
+~
+8454154 135299073 136249361 603980458 -1000 S
+47 3 -35 20d100+25000 20d20+20
+30000 1250000
+8 8 1
+0 0 16 15 14 16 13 12
+SKILL=SKILL_HIDE 90
+SKILL=SKILL_PARRY 60
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_CREMATION 99
+SKILL=SKILL_RAGE 50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#4086
+mob spline kobold god~
+Spline, lord of the kobolds~
+A small kobold, armed to the teeth, stands here.
+~
+  Though small in stature, the numerous scars that cover this kobolds
+body show proof that he has won many battles. He wears a large belt
+covered with jewels and wields a spear made from a black metal.
+~
+2097162 134512641 136249361 1140850888 0 S
+43 10 -40 100d100+12500 30d3+40
+15000 700000
+8 8 1
+0 0 16 15 15 15 15 11
+SKILL=SKILL_BACKSTAB 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#4087
+mob hagus hobgoblin king~
+Hagus, the hobgoblin king~
+A large and powerful hobgoblin is here, pondering your fate.
+~
+  The largest and strongest of all the hobgoblins, Hagus rose to power
+with his ferocity and cunning. His many years as ruler of the hobgoblins 
+has given him a near godlike status, and he now shares a place in the 
+realm with the other demihuman gods.
+~
+2662410 136609793 136249361 67109032 -1000 S
+46 10 -20 1d30+13000 30d20+20
+25000 1250000
+8 8 1
+0 0 16 18 14 15 13 15
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MORTICE_FLAME 99
+#4088
+mob drunken hobgoblin~
+A drunken hobgoblin~
+A drunken hobgoblin is here, being rowdy.
+~
+  He's obviously quite drunk, and looking for a fight.
+~
+72 134217729 136249361 33554432 -900 S
+13 31 31 3d10+110 2d4+5
+11 4000
+8 8 1
+0 0 17 18 16 16 12 11
+$~
+#999999

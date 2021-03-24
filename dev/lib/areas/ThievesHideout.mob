@@ -1,0 +1,265 @@
+#6025
+mob abraham zealot~
+&WAb&wr&ca&wh&Wam &KZ&Rea&Kl&Ro&Kt&n~
+A shady looking thief is here, balancing a dagger on his thumb.
+~
+  Abraham, leader of this rowdy group of thieves plays the role of their leader. Though a number of would be
+thugs would love to join his little gang, Zealot has created a strict and rather treacherous entrance exam
+that scares off the weaklings, and ensures that his troupe stays in good shape.
+~
+10 1343489 136249361 128 0 S
+43 8 -5 30d18+15000 10d10+24
+750000 690000
+8 8 1
+1 4 22 17 19 15 18 12
+SKILL=SKILL_KICK 75
+SKILL=SPELL_HEAL_MEDIUM 99
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_SKILL=10
+ATTACK_TYPE=102
+ATTACK_SKILL=10
+ATTACK_SKILL=15
+ATTACK_SKILL=10
+ATTACK_TYPE=102
+#6026
+mob jeremiah swanson~
+&wJere&Wmiah &KSwanson&n~
+A pious looking man strolls about, preaching words of wisdom.
+~
+  Jeremiah serves as the gangs spiritual healer. Though not technically a thief, the mental and physical well
+being of his men prompted Abraham to enlist the services of a priest, and Swanson fit the bill. Though he 
+doesn't condone the activities of the thieves, Jeremiah doesn't do anything about it either, and seems quite
+content tending to the wounded and holding his sermons.
+~
+8 32769 136249361 1572866 400 S
+42 10 -1 25d15+10000 10d15+50
+50000 350000
+8 8 1
+15 7 16 17 16 16 13 13
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_HARM 99
+SKILL=SKILL_STEAL 80
+SKILL=SKILL_SECOND 90
+SKILL=SPELL_HEAL_MEDIUM 90
+SKILL=SPELL_SILENCE 50
+#6027
+mob quentin rawe~
+&KQuentin &wR&Kaw&we&n~
+A tall man lurks in the shadows.
+~
+  When some of the shadier dealings need to be done, Quentin Rawe is the man to see. He, unlike the others of
+this camp, is a true professional. He handles assassinations and many other the other larger monetary 
+assignments, and with such has secured himself a high position within the band. For now he seems content with
+his lieutenants role, but he could easily take the role of leadership from Abraham any time he desires.
+~
+10 32769 136249361 536871044 -1000 S
+46 0 -25 100d100+16000 5d45+50
+2500000 1104000
+8 8 1
+1 3 16 18 15 15 14 15
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_FIREBALL 70
+SKILL=SKILL_PARRY 75
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 70
+SKILL=SPELL_HEAL_MEDIUM 99
+#6028
+mob burly thief~
+A big, burly looking thief~
+A big, burly looking thief is here.
+~
+  He's big, mean looking, and surely capable of holding his own in a fight.
+~
+8 32769 136249361 268435458 -800 S
+41 2 -24 10d10+15000 9d9+0
+450000 373737
+8 8 1
+0 3 17 15 15 16 13 14
+SKILL=SPELL_IMPROVED_INVIS 99
+SKILL=SPELL_LIGHTNING_BOLT 75
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+ATTACK_SKILL=70
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=108
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6029
+mob guard dog~
+a large guard dog~
+A large guard dog wanders around the camp.
+~
+A rather viscious looking creature wandering around aimlessly looking
+for something to feast upon. It may be you it may not be you but if you don't 
+wish to find out I wouldnt stick around here too long.
+~
+8 1 136249361 0 0 S
+25 15 18 25d25+1750 3d6+1
+17500 75050
+8 8 0
+0 0 17 18 14 15 13 15
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_PARRY 75
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#6030
+mob ravshi thief~
+A shifty ravshi thief~
+A shifty ravshi thief is here.
+~
+There are no better thieves than ravshi thieves, so it's no suprise to see a number of them in this 
+encampment. Used for many of the larger jobs, the ravshi seem to be doing better for themselves than 
+several of the other factions, which may cause some discontent down the road.
+~
+8202 1081345 136249361 132 -800 S
+35 8 -10 25d25+1800 5d8+10
+81818 290000
+8 8 0
+0 0 17 16 16 16 12 12
+SKILL=SPELL_SANCTUARY 99
+SKILL=SKILL_KICK 99
+ATTACK_SKILL=90
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6031
+mob feline thief~
+Triton, The Great~
+Triton, The Great is standing here waiting for his next show.
+~
+Triton is a rather gentle man looking to put on a show for the kids of
+Sherwood today. He has not many fears though for he is the most powerful
+person in the forest.
+~
+1074073688 819201 136249361 119015138 1000 S
+48 0 -35 100d100+45000 30d29+50
+3500000 1444000
+8 8 1
+1 1 16 17 14 15 14 12
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SKILL_SECOND 30
+SKILL=SKILL_THIRD 10
+SKILL=SKILL_FOURTH 2
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_BLACK_BURST 90
+ATTACK_SKILL=50
+ATTACK_SKILL=14
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#6032
+mob darkling thief~
+The Cemetary Guardian~
+The Cemetary Guardian stands here. Ready to protect the Sherwood cemetary from anyone who trys to come in.
+~
+A rather viscious looking man ready to destroy you. Only if you try to 
+gain access to the gate which he guards.
+~
+14 32769 136249361 0 0 S
+33 10 -5 7d56+3550 8d4+18
+65000 186000
+8 8 0
+0 0 16 17 15 14 15 15
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_DODGE 30
+SKILL=SKILL_SECOND 85
+SKILL=SKILL_THIRD 15
+SKILL=SKILL_FOURTH 2
+#6033
+mob bullywug thief~
+A Sherwood Knight~
+A Sherwood Knight is standing here waiting for trouble.
+~
+A Sherwood knight one of the most distinguished citizens of the Sherwood
+forest it is best not to mess with him.
+~
+134242824 32769 136249361 0 1000 S
+43 1 -28 100d100+17000 17d12+22
+1400000 645000
+8 8 1
+24 4 26 17 16 15 13 15
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 10
+SKILL=SKILL_RAGE 85
+#6034
+mob persa feline thief~
+The Sherwood Innkeeper~
+The Sherwood Innkeeper, is standing here waiting to serve you.
+~
+This gentleman is a rather old ragged fellow looks as if hes been through alot
+but he is willing to be of assistance to you 
+~
+537133130 1 136249393 128 900 S
+48 0 40 100d100+2000000 100d100+0
+1 0
+8 8 1
+0 0 17 15 16 16 13 11
+#6035
+mob ramshir longears ravshi thief~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 17 15 14 13 15
+#6036
+mob shayde darkling thief~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 16 16 15 13
+#6037
+mob amphrin bullywug thief~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 16 14 15 13
+#6038
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 17 15 14 15 12
+$~
+#999999

@@ -1,0 +1,34 @@
+##22975
+Vorn quest for fyrebrand
+
+#on_say
+if (words_in_string(input, "fyrebrand") =1) {
+   echo("");
+   echo (self + " &Psays 'Yes, I am in possession of the &KFyre&rbr&Ra&rnd&P, but it is far too powerful to leave'&n");
+   echo (self + " &Psays 'in the likes of mortal hands like yours.'&n");
+   echo("");
+   echo (self + " pauses a moment to think.");
+   echo("");
+   echo (self + " &Psays 'I could forge a copy though....It would not be as powerful as my original, but'&n");
+   echo (self + " &Psays 'it would still be a formidable weapon. In order create such a powerful item,'&n");
+   echo (self + " &Psays 'I will require a number of &pmaterials&P to be retrieved.'&n");
+   echo("");
+};
+
+if (words_in_string(input, "materials", "what") =2) {
+   echo ("");
+   echo (self + " &Psays 'The list is quite long...I doubt you could remember them all.'&n");
+   echo (self + " &Psays 'I will send you off for each item one by one. Return an object to me and I'&n");
+   echo (self + " &Psays 'will give you the next item on the list. When I have all the items, I will make'&n");
+   echo (self + " &Psays 'you the sword.'&n"); 
+};
+if (words_in_string(input, "item", "what", "first") =2) {
+   echo("");
+   echo (self + " &Psays 'What I require first is the heart of the sword..the essence so to speak.'&n");
+   echo (self + " &Psays 'Deep within the mines of the Dwarven Kingdom is a special ore. This ore is so'&n");
+   echo (self + " &Psays 'strong that it cannot be broken, even by magic. It is extremely rare, so'&n");
+   echo (self + " &Psays 'finding it will be difficult, but you will know it by the slight green aura'&n");
+   echo (self + " &Psays 'that it gives off. Bring me the ore and I will tell you the &pnext item&P I'&n");
+   echo (self + " &Psays 'require.'&n");
+};
+

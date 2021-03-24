@@ -1,0 +1,989 @@
+#100
+&RThe &BRoyal &WAcademy &Gof &CMidgaard&n~
+&RThe &BRoyal &WAcademy &Gof &CMidgaard&B was created in order to teach new
+players abit about this mud.  In these halls of knowledge you will learn 
+many useful things.  Remember to read everything you see.  Words that are
+highlighted in Green are called "Keywords."  If you see a keyword and 
+want to know more, type 'help "keyword"' and you will access the helpfiles
+for that word.  Always remember that there are always people playing who can
+assist you in whatever you may need.  Never be afraid to ask, and most of all,
+Have Fun!!!!!!
+&n
+~
+1 1342226440 0 1 4 0
+D0
+To the North you see a Class called 'Mud Basics 101.'
+~
+~
+0 -1 111
+D2
+To the South you see the Reception.~
+To the South you see the Reception.~
+0 -1 3008
+S
+#101
+Using Scrolls 101~
+&GScroll&Bs.  They are magical items that do a variety of things.  Some let you
+identify items.  Some allow you to recall to the City of Midgaard.  There
+is probably a scroll for just about anything.  Scrolls can be used on mobs,
+other characters or even yourself.  The way to use a scroll is by reciting
+it.  If you had a 'Scroll of Recall' for example, you would type 'recite
+recall <target>' to send that character back to Midgaard or type 'recite
+recall' to send yourself back.  The Wizard in the Magic Shop sells Recalls and
+other magical items.
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'Using Potions 101.'
+~
+~
+0 -1 102
+D2
+To the South you see a Class called 'Finding Exits and Looking in Directions 101.'
+~
+~
+0 -1 112
+E
+scroll~
+RECITE  SCROLL SCROLLS
+
+Is used to "read" a magical scroll.  Target can be an object, character or
+nothing (which may be yourself).
+~
+S
+#102
+Using Potions 101~
+&GPotion&Bs.  They are magical items that also do a variety of things.  Some
+let you heal yourself.  Some allow you to gain special abilites for a limited
+period of time that you normally do not have.  There is, like scrolls, 
+probably a potion for just about anything you can think of.  Potions are
+for the most part used only by the person carrying them.  The was you use
+a potion is by quaffing it.  If you had a 'Blue Potion of Healing' for 
+example, you would type 'qua blue' or 'quaff blue' to regain some hit points.
+The Wizard in the Magic Shop sells recalls and other magical items.  Some 
+potions of interest and necessity are:  "Blue Potion of Healing" and "Yellow
+Potion to See Invisible."
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'Using Wands and Staffs 101.'
+~
+~
+0 -1 103
+D2
+To the South you see a class called 'Using Scrolls 101.'
+~
+~
+0 -1 101
+E
+potion~
+QUAFF POTION POTIONS
+
+Use : Quaff <Potion>
+
+Quaff is used to "drink" a (magical) potion.
+~
+S
+#103
+Using Wands and Staffs 101~
+&YWand&Bs and &YStaff&Bs:  They are yet another sort of magical item that do
+a variety of things.  Some let you cast 'fireball' at mobs.  Some allow
+you to cast 'sleep' on a target.  As with Potions and Scrolls, there is
+probably a wand and/or staff to do just about anything you can think of.
+You need to know that there are also two different sorts of staffs in the
+game.  One is a weapon and can only be used as such, and the other is a
+magical item, which would be held.  Wands and Staffs must be held to use.
+You would use them by typing 'use wand <target>' or 'use staff <target>.'
+Many staffs, when used, not only hit your target, but also everyone and/or
+everything else in the room.  A Staff of Sleep, for example, when held and
+used by typing 'use staff <target>' in a room with four mobs, will try to
+sleep on ALL four mobs.  The Wizard in the Magic Shop sometimes carries
+staffs and wands and all sorts of other magical items.
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'Casting Spells 101.'
+~
+~
+0 -1 104
+D2
+To the South you see a class called 'Using Potions 101.'
+~
+~
+0 -1 102
+E
+Wand~
+USE WANDS STAFFS
+
+Use : Use <Staff>
+      Use <Wand> <Target>
+      Use <item> <optional target>
+
+Using staffs will automatically target everybody (or everything) in a 
+room, except yourself.  Therefore staffs are naturally very powerful.
+Staffs can be dangerous to use around other players.
+
+Using wands require that you point it at a target, which can be either a
+character or an object or a mob.
+
+Both staffs and wands must be HELD in the hand prior to use! (Use the
+grab or hold commands).  You must still supply the name of the staff or
+wand to avoid confusion.
+
+Other items can be used and only trial and error will reveal uses.
+~
+S
+#104
+Casting Spells 101~
+&GCast&Bing &GSpell&Bs.  Casting of spells if for magical people only.  When
+you reach level 41 you will at that time be allowed to choose limited spells
+of your choosing.  In order to use spells, you must practice them.  Please
+refer to 'help MIDGAARD' for a map of locations of your guilds.
+You can see what spells you are able to cast by typing 'prac.' Now to cast
+them you can either type "cast 'spell' <target>" or "cast 'number of spell 
+listed when you type prac' <target>."
+You can type 'Help <name of spell>' to get info on that particular spell as
+well.
+
+In order to see what spells are currently affecting your persona, you would
+simply type 'spell.'  Be warned though that 'spell' is a lvl5 command.
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'Using Abilities 101.'
+~
+~
+0 -1 105
+D2
+To the South you see a class called 'Using Wands and Staffs 101.'
+~
+~
+0 -1 103
+E
+cast~
+CAST
+For 'magical' people.  If you want to throw a spell at someone or something.
+In Example:  cast 'burning hands' <player>
+
+Note that the name of the spell must be enclosed by single quotes!!!
+Single word spells can be cast without quotes.  In Example:  cast heal Bird
+Spells can also be cast by the spell number seen when you type practice.
+In Example:  cast 4 <target> will cause blindness to be cast upon the target.
+
+See also:  help on each individual spall, for example:
+     > help cure light
+     > help ventri
+     > help energy drain
+~
+E
+spell~
+SPELL
+
+Shows spells currently affecing your character.
+
+Immortals can check on other players by using the name argument.
+
+See Also:  SCORE, ATTRIBUTE
+~
+S
+#105
+Using Abilities 101~
+&RAbilities.&B  Abilities and Skills are pratically the same thing, except
+that Abilities are something you're born with, and Skills will be something
+you learn.  Each race has its own abilities that make them very hard to
+choose between for new characters.  To see which races get what abilities,
+we type 'help race' to get a list of races, then 'help race *name*' to
+see the abilities that race comes with.  We will get into using those
+abilities and the skills you later learn in the next room
+north of here.
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'Using Skills 101.'
+~
+~
+0 -1 106
+D2
+To the South you see a class called 'Casting Spells 101.'
+~
+~
+0 -1 104
+S
+#106
+Using Skills 101~
+&CSkills.&B  Skills are a bit different than spells in the sense of
+how they are used.  You learn both skills and spells but they are
+each used in their own ways.  Skills differ from abilities only in that
+your abilities are given to you at birth dictated by your race.  Your
+class will dictate which skills you can learn.  To see a list of
+the skills your class can learn, type 'help class *class name*'.
+This list will tell you what skill and at what level you will get
+it at.  To practice skills, you m ust first reach that level and 
+then find your guildmaster in Midgaard to practice with.
+
+If you are unsure of how to use a skill, type 'help *skill name*'.
+For example, if you wish to 'hunt' someone and are a level 35 Warrior,
+you would either type 'hunt *target*' if you knew how to use it, or
+'help hunt' to learn how to use it.&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'Using Social Commands 101.'
+~
+~
+0 -1 107
+D2
+To the South you see a class called 'Using Abilities 101.'
+~
+~
+0 -1 105
+E
+skill~
+SKILLS SPELLS PROFICIENCIES PROFS
+
+Each class has it's own specific set of skills/spells.
+Spells can be cast by the number beside them or by the name.
+
+extra damage - (skill)/10 bonus dam to each hit
+slash/pierce/bludgeon - (skill)/10 bonus dam to each hit if that type
+                        of weapon is used.
+dodge - reduces ac by (skill)/10
+tougher scales - reduces damage taken by (skill)/10 per hit
+breath attacks - skill is % chance the breath works.
+second attack - the % chance of getting a second attack each round
+third attack - If you get the second attack in a given round this is
+                your chance at a third.
+fourth attack - If you get the third attack in a given round this is
+                your chance at a fourth.
+
+Enter HELP CLASS <class> to see a list of spells for that class.
+Enter HELP CLASS to get a list of classes.
+
+see also:  BREATH, PRACTICE
+~
+S
+#107
+Using Social Commands 101~
+&CSocials.&B  Social commands are a great way to express your feelings 
+towards others and to let out some steam at times.  To get a list
+of social commands, type 'help social'.  To use these commands you 
+can either just type in the word, such as 'fume' or you can type in 
+the word towards another player or mob, with 'grin *target*'.
+Please note that expressing and showing emotion is a great thing, but
+if you &gSPAM&B someone, you could get a headache by being approached
+by an immortal.  Please use common sense in using social commands, 
+and try to do unto others only as you wish done to you.
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'Using Help Files 101.'
+~
+~
+0 -1 108
+D2
+To the South you see a class called 'Using Skills 101.'
+~
+~
+0 -1 106
+E
+social~
+SOCIAL ACTIONS
+Commands mainly for social interaction:
+
+admire, applaud, bearhug, beg, bleed, blink, blush, bounce, bow, burp, cackle,
+cheer, chuckle, clap,, comfort, cough, cringe, cry, cuddle, curtsey, dance,
+daydream, desire, eyepoke, eyeroll, faint, fart, flex, flip, flower, fondle,
+french, frown, fume, gasp, giggle, glare, grin, groan, grope, grovel, growl,
+grumble, hiccup, high5, hold, hop, howl, hug, yawn, kiss, lag, laugh, lick,
+light, love, moan, moo, mourn, nibble, nod, nudge, pat, peer, point, poke, ponder,
+pout, puke, punch, purr, question, ruffle, salute, scream, shake, shiver,
+shrug, shudder, sigh, sing, slap, smirk, smile, snap, snarl, sneeze, snicker,
+sniff, snore, snuggle, spank, spit, squeeze, stagger, stare, steam, strut,
+sulk, tackle, tap, taunt, thank, think, twiddle, twirl, wave, whap, whimper,
+whine, whistle, wiggle, wink, wish, woo, worship, yodel, yoyo, grunt, fear, brb
+
+beep - this social uses the other player's speaker.
+       to prevent abuse it is set to minlvl 5.
+
+~
+S
+#108
+Using Help Files 101~
+&YHelp Files.&B  Help files are a life saver at times.  If you 
+ever need to know something, more likely than not, it will be
+found here.  For a listing of general help topics, type 'help'.
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'Using Help Files 102.'
+~
+~
+0 -1 109
+D2
+To the South you see a class called 'Using Social Commands 101.'
+~
+~
+0 -1 107
+E
+help~
+"GENERAL HELP" "HELP FILE"
+
+Following help is available:
+
+HELP help     - This test.
+HELP          - List the available commands.
+
+Help searches for a partial match of the entered word, including any
+spaces that may follow the word.
+
+Example -
+> 'help magic mis'
+   will find the help test for the magic missile spell.
+
+> 'help mag '
+   will not match anything.
+
+> 'help mag'
+   will match 'magic user' or 'magic missle' depending on the first
+  occurrence in the help files.
+~
+S
+#109
+Using Help Files 102~
+&CHelp Files.&B  Help files can be pretty detailed as well.
+In the last room, we learned how to get a general list of
+help topics, which will assist you alot.  However, sometimes
+you have to be more detailed in your usage of the help commands.
+
+Typically, if a you need more detail than the general list has 
+given you, you would then type 'help *topic*' to get more detail.
+At the end of that help file you will also many times see a
+"See also..."  These are related topics which might help you even
+more.
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'Using Help Files 103.'
+~
+~
+0 -1 110
+D2
+To the South you see a class called 'Using Help Files 101.'
+~
+~
+0 -1 108
+S
+#110
+Using Help Files 103~
+&RHelp Files.&B  At times, you will be in search of a topic which
+you just can't seem to find in the general list or related topics.
+An example of this might be looking for help on the spell "Chill
+Touch."  If you type 'help spell' you get a topic on the spell 
+command which shows you which spells are currently cast upon you.
+Further, 'help spells' will give you help information on basic
+usage of spells, but not on a particular one.  So what to do?
+Simply type in 'help chill touch' and you will get the help
+on that specific spell.  That also applies to all other spells,
+skills, and items.  If you can't find what you are looking for,
+just ask over gossip and someone will point you in the right
+direction
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a Class called 'Your Actions 101.'
+~
+~
+0 -1 113
+D2
+To the South you see a class called 'Using Help Files 102.'
+~
+~
+0 -1 109
+S
+#111
+Mud Basics 101~
+&CThe Basics.&B Most often any question you might have can be answered
+by use of the help files.  You simply type in 'help "topic"' and you
+should get an explanation on that topic.  Be warned that sometimes the
+keywords are a bit different than one might think, so try a couple
+different ones.  When help files fail to assist you, you can ask over
+gossip or tells to another player for assistance.  Patience is a virtue
+you will soon learn here.  Often players are very busy and don't even
+notice a tell sent to them, or a gossip.  If you feel ignored, believe
+the request was missed, and try to ask an immortal for help.
+
+Some basic things you should do when you are new are the following--
+
+Type "auto all."  This will set loot, flee, assist, coin on for all kills.
+At level 2 type 'set flag show_diag on.' This will allow you to see the state
+of a mob while you are fighting him.
+To set color on your screen type 'Ansi on'.
+To set new graphics type 'Set graphics new'.
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a Class called 'Finding Exits and Looking in Directions 101.'
+~
+~
+0 -1 112
+D2
+To the South you see &RThe &BRoyal &WAcademy &Gof &CMidgaard.
+~
+~
+0 -1 100
+E
+consider~
+CONSIDER
+Usage - consider <monster or player>
+This command will compare several of your attributes against the char/mob
+you are considering.  This command will show the actual calculations of
+the player in the 'YOU' column, and an estimate of how powerful or weak
+the considered mobile or person is in the 'OPONENT' columns.  The fields of
+information in the command are as follows-
+
+Level              -  Compares your level versus the considered's level.
+Hits               -  Compares your level versus the considered's level.
+Magic              -  Compares your level versus the considered's level.
+Damage Ability     -  Compares your level versus the considered's level.
+
+
+*** By using this command, you agree not to hold Crimson Mud II or any of its
+immortals or creators responsible for any loses real or perceived you feel 
+result from your relying upon the data provided.  Further, you agree to be happy
+with the additional data and won't gripe or complain about it. ***
+~
+E
+where~
+WHERE
+Tells you the location of a monster, a player or an object.  Examples -
+
+Where dragon
+     tells you where dragons are.
+Where 3022
+     tells you where long swords are located.
+Where OBJ <object>
+     tells you where objects are located.
+
+Mortals can only 'where' monsters or players, and only from their
+own zone.  Immortals may type 'where' without arguments to see where all
+players are.  Ante and above can type where <number> to see where all
+objects of that number are located.
+
+~
+E
+scan~
+SCAN
+Scan allows a char to scan for mobs in a direction or it may be used by itself.
+Ex - scan <dir> or scan
+Immortals can scan <No><dir> where <No> is the number of rooms to scan.
+~
+E
+Diag~
+DIAG DIAGNOSE
+Syntax - Diag <player or mob name>
+Gives you a rough diagnosis of a player or a mob's general health status.
+
+You may type 'SET FLAG SHOW_DIAG <ON or OFF>' to 
+toggle an indicator in your command prompt that will show the current
+health of any mob or player you are fighting.
+~
+E
+who~
+WHO
+Lists the people currently in the game.  Some people may choose to remain
+unseen.
+
+If you cannot see invisible, and invisible characters are logged on, you
+will not see them on the who list.
+
+Note-  who accepts a name argument to display the real names of chars with $$n's
+       hiding their name WHO NAME to see their true names.
+      Who accepts min and max lvl arguments.  Who 10 20.
+       WHO CLAN shows the real name and the clan they are in.
+~
+S
+#112
+Finding Exits and Looking in Directions 101~
+&YExits.&B  To see exits, one types 'set flag show_exits on'.
+This will enable a letter of N, S, E or W to the bottom of
+your screen when in a room with those exits.  Also in that list
+are the directions U and D for up and down.  Some rooms may
+have dangers that you only have one real way of knowing ahead
+of time.  Type 'look *direction*' prior to entering to see
+whether or not it is safe to enter.  Remember, always carry
+a Scroll of Recall with you, for you never know when a situation
+may arise from which you need a quick get-a-way.
+&n
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a Class called 'Using Scrolls 101.'
+~
+~
+0 -1 101
+D2
+To the South you see a Class called 'Mud Basics 101.'
+~
+~
+0 -1 111
+E
+look~
+LOOK
+For studying your surroundings.  Examples -
+look
+look AT the angel
+look IN the bag
+look to the south   (or just - look south)
+
+Note that if you LOOK AT CORPSES you will not see its inventory.
+To see what's inside any container (e.i. Corpse) use LOOK IN <OBJECT>.
+
+See also - EXAMINE or READ
+~
+E
+exits~
+EXITS
+Gives you a list of the obvious exits from your location.  Of course, the less
+obvious ones won't show up here - you have to READ and THINK in order to locate
+those.
+~
+S
+#113
+Your Actions 101~
+You get what you give. What comes around goes around. If you should choose
+to be a mean nasty person, expect others to be such to you.  If you choose
+to try to better yourself and assist others when in need, expect others to 
+be there when you require assistance. Everything you do has some sort of 
+repercussion.  Be it rule breaking (jail time or worse), be it harassing 
+(jail time or worse), be it helping (being known as a good player), or be 
+it sticking to yourself (loner).  Just remember that people react to you
+accordingly and you will be fine.
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'People on the Mud 101.'
+~
+~
+0 -1 114
+D2
+To the South you see a Class called 'Using Help Files 103.'
+~
+~
+0 -1 110
+E
+jail~
+JAIL
+
+Jail is one of the last line of punishments you can get before more
+serious and permanent action is taken.  You can do nothing while in jail
+not even gossip.  Although you will see yourself gossip, it will not go to
+the rest of the mud.  Your only form of communication is through the
+appeals board, on which you will see why you were jailed and for how
+long.  You may plead your case there, however if it has come to you being
+jailed, you probably won't get a change of mind.  Very few offenses bring 
+jail as your first warning, but for those offences the second warning is
+usually deletion.
+
+This is the place of last resort before your character is deleted
+from the database.  If jail doesn't get the message across.....
+
+See also APPEALS RULES RULE_2 RULES_3
+~
+E
+purge~
+PURGE
+
+A way to make the world a little cleaner.
+
+In Example:
+Purge all                    To empty a room of monsters and objects.
+Purge <character>            To remove a living thing.  Kicks out a player.
+Purge <object>               To remove an object
+~
+S
+#114
+People on the Mud 101~
+The people of this mud can be broken into three categories:
+Mortals, Avatars and Immortals.  Mortals are the characters between the 
+levels of 1 and 40.  Avatars are the characters who have attained level 41.
+Immortals are characters who are level 48 through 50.  Spirits, level 47, 
+are outside of the playing and administrative domain, and merely exist to
+talk and observe.  Spirits are not immortals.
+
+The immortals are broken down by their roles. Some immortals may have
+multiple of the below roles:
+MEDIATOR -  These are the mortal relations immortals. They server to help
+mortals with problems, convey ideas from the mortals to the immortal zoners
+and coders, and to help enfore a comfortable and enjoyable atmosphere on C2. 
+
+QUESTOR - These are the quest and event immortals. These imms have the
+ability to load mobs and items for the purpose of enhanced gameplay. Quests
+or events can coincide with holidays or can be held at a whim.
+
+BUILDER - These are the zoning immortals. They have the ability to modify 
+and create rooms, objects, mobs, and zones. Most of their work is performed
+on the development port, but they may occasionally fix typos on this port.
+
+RULER - These are the administrators of the MUD. The have the ability to
+restart the ports, review logs, delete/undelete users.
+
+All imms are to be treated with respect and to be listened to when they 
+get involved in any matter pertaining to Crimson Mud 2.
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'A Few Secrets 101.'
+~
+~
+0 -1 115
+D2
+To the South you see a class called 'Your Actions 101.'
+~
+~
+0 -1 113
+E
+avat~
+AVATAR (level 41)
+Avatars are semi-immortals.  They have climbed the ranks of mortal men and now
+roam the world as monuments of perfection.  Once you reach the level of Avatar
+you gain some minor god commands and can still adventure, but ONLY uder
+the defined rules.  You may either continue to adventure like this, building
+your character up tougher and tougher.  Once you each this level you may
+possible become a full immortal (See: IMMORTAL) by one of two ways at this
+time.  1) By asking an Ante+ who will then take your request up to be
+considered, or 2) you will be approached by a higher immortal who sees your
+contributions to the mud and use of good sense and asks for you to join.
+
+NOTE - Advancig to ARCH is an irreversible step, and you cannot continue
+        to adventure.  For no reason will your avatar be reimbursed.
+
+Refer to HELP_IMMORTAL.
+~
+E
+meth~
+METHUSELAH
+
+The Methuselah (meth) is the immortal level right above Arch.  A majority
+of the immortals who express an interest in helping to run the mud are 
+positioned here.  These immortals have the powers to peform basic law
+enforcement, assist the implementation of quests and such.  They are a
+direct liason between mortals and the HIGHER GODS.  If an Arch is not around
+to assist you or if you feel an Arch's decision is incorrect, you would
+appeal and/or approach a Meth.
+~
+E
+creator~
+CREATOR
+
+The Creator is a Legend who has created at least one zone which has
+been installed on Crimson Mud.  
+~
+E
+legend~
+LEGENDS
+
+Legends are immortals who have worked or played on Crimson Mud II in the
+past but, by time and other duties have sadly been unable to maintain
+their duties in other positions.  When they are around, these immortals
+can be helpful, just ask.  Their position is one of honor and as such,
+they deserve just as much respect as all other immortals.
+~
+E
+arch~
+ARCH ARCH-AVATARS
+
+The Arch-avat (Arch) is the first level of true immortality on
+Crimson Mud II.  They are in a level of training for Meth in most cases,
+so please be patient if they cannot help you right away.
+They may be approached for rules clarification or help with
+basics of the mud or mudding.
+~
+E
+ante~
+ANTE ANTEDELUVIAN
+
+The Antedeluvians(Ante) are the next step if the METH can't settle a
+dispute.  They also have more powers to enforce the rules.  They are able to
+reimburse equipment when the situation calls for it.
+
+See also:  IMMORTAL
+
+Mercy
+Email -     Gintm@aol.com
+
+Orchid
+Email -     Orchidstyles@hotmail.com
+
+Lanthis
+Email -     lanthis@delanet.com
+~
+E
+High~
+HIGHLORD
+
+HighLords are second only to the Overlord and have almost as much power.
+A HighLord's word is LAW and should be treated accordingly.  A High is
+the one that usually steps in when rules are broken that need a more
+diplomatic solution.
+
+See also:  IMMORTAL
+
+Bingo
+Email - Bingo_the_dog@hotmail.com
+~
+E
+over~
+OVER OVERLORD
+
+The Overlord shadows the mud and make sure Immortals/Lesser Gods are
+keeping up with their jobs.  They also spend many hours enforcing and
+checking over the code.  The Overlord is the head of the HighLords.
+They also receive responsibility and abuse for anything which goes 
+wrong.
+
+See also:  IMMORTAL
+
+Vangar
+Email -     gardner@raye.com
+~
+E
+implementor~
+IMPLEMENTOR
+
+Is responsible for coding the mud.  In addition to this difficult task,
+this person is always looking out for both the mortals and immortals of
+the mud, often assuring from behind the scenes that everyday mud life
+progresses smoothly and fairly.  This person can just do about anything mud
+related, but request that you seek day to day help from the other immortals
+and Gods as altering the world is a time consuming and weary business.
+
+Zandifar
+Email -     schultrc@nag.cs.colorado.edu
+
+Omega
+Email -     bassett@csc104.csc.dg.com
+
+Shast 
+Email -     c.d.michael@student.murdoch.edu.au
+
+Hercules
+Email -     pjdelang@tref.nl
+~
+E
+kinetic~
+KINETIC
+
+The boss, email him for questions or zone proposals.
+Email - xtase.bbs@bbs.augsburg.edu
+~
+S
+#115
+A Few Secrets 101~
+If you go just North of your recall point (point at which
+you arrive when you recite a scroll of recall),
+and type 'pray' you will be healed.  Just remember
+this only works until you reach level 10, at which
+point you must find other means to heal.
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'A Few Secrets 102.'
+~
+~
+0 -1 116
+D2
+To the South you see a class called 'People on the Mud 101.'
+~
+~
+0 -1 114
+S
+#116
+A Few Secrets 102~
+Up until about level 20, mortals can get free spells cast
+upon them (minus sanctuary) from Nedra the Healer.
+She is located just Up from Market Square in Midgaard.
+You may rest here or sleep, as the regeneration in this
+room is more advanced than in other rooms of the
+mud.  Typically, Nedra casts upon you once every few ticks,
+so it might be best to rest and wait.
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see the Courtyard.
+~
+~
+0 -1 119
+D2
+To the South you see a class called 'A Few Secrets 101.'
+~
+~
+0 -1 115
+S
+#117
+A Few Secrets 103~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see a class called 'What the Future Will Bring 101.'
+~
+~
+0 -1 118
+D2
+To the South you see a class called 'A Few Secrets 102.'
+~
+~
+0 -1 116
+S
+#118
+What the Future Will Bring 101~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see The Courtyard.
+~
+~
+0 -1 119
+D2
+To the South you see a class called 'A Few Secrets 103.'
+~
+~
+0 -1 117
+S
+#119
+The Courtyard~
+You have entered a magnificent courtyard made of marble and granite.
+The walls reach up unto the skies, and the flags of Midgaard fly high
+above.  You note to yourself that you would someday like to climb
+up on the parapets of this find city and view the surrounding areas.
+
+There is a great command called 'scan' that you will need to learn 
+before you venture out into the world.  When you wish to see who or
+what lies around you, simply type 'scan' or 'scan *direction*' to see
+what is in that direction.  Try it here and see what you find.  Don't
+worry the Pets won't harm you, they'll actually reward you if you
+take their tests.
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see &RThe Room of the Beast&n.
+~
+~
+0 -1 122
+D1
+To the East you see &RThe Room of the Beast&n.
+~
+~
+0 -1 120
+D2
+To the South you see A Few Secrets 102.
+~
+~
+0 -1 116
+D3
+To the West you see the &RThe Room of the Beast&n.
+~
+~
+0 -1 121
+S
+#120
+&RThe Room of the Beast&n~
+The Beast is here waiting to test you.  You need to face your
+inner demons, and conquer them before facing the beast.  The
+Beast is your key to gaining knowledge and experience.
+~
+1 1342226440 0 1 3 0
+D3
+To the West you see The Courtyard.
+~
+~
+0 -1 119
+S
+#121
+&RThe Room of the Beast&n~
+The Beast is here waiting to test you.  You need to face your
+inner demons, and conquer them before facing the beast.  The
+Beast is your key to gaining knowledge and experience.
+~
+1 1342226440 0 1 3 0
+D1
+To the East you see The Courtyard.
+~
+~
+0 -1 119
+S
+#122
+&RThe Room of the Beast&n~
+The Beast is here waiting to test you.  You need to face your
+inner demons, and conquer them before facing the beast.  The
+Beast is your key to gaining knowledge and experience.
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see The Royal Academy Graduation.
+~
+~
+0 -1 123
+D2
+To the South you see The Courtyard.
+~
+~
+0 -1 119
+S
+#123
+Royal Academy Graduation~
+Congrats! You have passed Academy Training.  You are almost out
+to the outside world. Remember the lessons you have learned inside
+these walls, they may save your life someday.
+~
+1 1342226440 0 1 3 0
+D0
+To the North you see Congratulations.
+~
+~
+0 -1 124
+D2
+To the South you see &RThe Room of the Beast&n.
+~
+~
+0 -1 122
+S
+#124
+Return to Midgaard ~
+Remember your training young mudder.  Keep it in mind and also
+keep in mind to always keep an open mind to new things and new
+lessons.  Don't treat others with disrespect, nor try to harm
+them in any way.  You wouldn't want it to happen to you, now 
+would you?  Enjoy the Crimson World, and may the Light shine 
+upon you.
+~
+1 1342226440 0 1 4 0
+D2
+To the South you see  The Royal Academy Graduation.
+~
+~
+0 -1 123
+D5
+Midgaard awaiting you.~
+You see Midgaard awaiting you.~
+0 -1 3005
+S
+$~
+#999999

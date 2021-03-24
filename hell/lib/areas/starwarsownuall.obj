@@ -1,0 +1,194 @@
+#24100
+obj studded leather gloves precision~
+1
+&YS&ytudde&Yd &yleather &ygloves &wof &YP&yrecisio&Yn&n~
+&wA pair of &yleather gloves &wcovered with &Yb&yras&Ys &ystudds &wlay here.&n~
+~
+9 4247552 28672 129
+5 0 0 0
+4 4000000 25000
+A
+19 2
+A
+18 3
+A
+41 2
+A
+13 -25
+#24101
+obj thieving belt dexterity object~
+1
+&WT&whie&Kving &ybelt &wof &WD&wexterit&Wy&n~
+&wAn old worn out &ybelt &wlays crumpled up in a pile on the &yground&w.&n~
+~
+15 4247552 28672 2049
+300 0 0 0
+3 150000 15000
+A
+19 3
+A
+18 1
+A
+17 -15
+A
+41 1
+#24102
+obj Thieving boots Dexterity object~
+1
+&WT&whie&Kving &yboots &wof &WD&wexterit&Wy&n~
+&wAn old worn out pair of &yboots&w lay crumpled over on the &yground&w.&n~
+~
+9 4247552 28672 65
+25 0 0 0
+1 2500000 250000
+A
+19 3
+A
+18 1
+A
+41 1
+A
+12 -30
+#24103
+obj Eye of the Gryphon object~
+2
+&WE&wy&Ke &Wof &wthe &YG&yrypho&Yn&n~
+&wThe eye of a gryphon &Yilluminates &wthe room.&n~
+~
+1 4196352 1024 65541
+10 10 1000 2
+1 35000000 1500000
+A
+19 2
+A
+36 -1
+A
+41 1
+A
+18 2
+#24104
+obj carapace spider object~
+1
+&wA &ys&wp&Kid&we&yr &yc&warapac&ye&n~
+&wA spider carapace lays in a puddle of blood.&n~
+~
+15 104857600 0 1025
+500 0 0 0
+20 12000000 23000
+A
+19 1
+A
+40 2
+A
+12 -35
+A
+25 1
+#24105
+obj fiery forge hammer object~
+2
+&wA &Rf&ri&Ye&rr&Ry &wforge &Kh&wamme&Kr&n~
+A torch is lying here.~
+~
+5 37769216 24576 8193
+65536 22 3 6
+15 150000 150000
+A
+19 5
+A
+18 2
+#24106
+obj butchers cleaver object~
+2
+&WA &ybutchers &Wc&wleave&Wr&n~
+&WA &Wc&wleave&Wr has been discarded here.&n~
+~
+5 104858112 0 8193
+49216 18 2 3
+1 5 5
+#24107
+obj cooking pot object~
+1
+&WA cooking &Kpot&n~
+&WA cooking &Kpot&W rests here.&n~
+~
+15 8 0 0
+500 0 0 0
+1 5 5
+#24108
+obj chefs secret stew object potion~
+0
+&yThe chefs secret stew.&n~
+&yA vial has been discarded here.&n~
+~
+10 2097152 0 1
+49 160 36 1
+1 100000000 100000000
+#24109
+obj chest steel plated object~
+1
+&KA steel plated chest&n~
+&KA steel plated chest has been placed here.&n~
+~
+15 8 0 0
+500 13 0 0
+1 5 5
+#24110
+obj master thieves shortsword of piercing~
+2
+&wThe &Wl&wegendar&Wy &Wshortsword &wof &Wpiercing&n~
+&WA brilliant looking shortsword has been misplaced here.&n~
+~
+5 4247552 28672 8193
+5640 4 11 11
+1 5 5
+A
+41 1
+A
+19 2
+A
+18 2
+#24111
+obj whip torturer obj~
+1
+&YT&yorturer'&Ys &Kwhip &wof &Rp&rai&Rn&n~
+&wA long barbed whip lays coiled on the ground.&n~
+~
+5 138412032 4096 8193
+525889 6 6 2
+4 2500000 25000
+#24112
+obj black leather corsette obj~
+1
+&KB&wlac&Kk &Kleather &wcorset&n~
+&KB&wlac&Kk &Kleather &wcorset is crumpled up on the floor.&n~
+~
+9 138414596 0 9
+0 0 0 0
+5 2500000 25000
+A
+40 1
+A
+19 4
+A
+18 1
+A
+13 10
+#24113
+obj forged arm plates obj~
+1
+&KForged &warm &Yp&ylate&Ys&n~
+&wA pair of arm plates have been discarded here.&n~
+~
+9 104858112 0 257
+0 0 0 0
+5 150000 15000
+A
+40 2
+A
+19 2
+A
+18 1
+A
+41 -1
+$~
+#999999

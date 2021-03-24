@@ -1,0 +1,52 @@
+#15450
+The Forest before the Keep~
+You are standing deep in the middle of a forest. You can see an enormous keep ahead of you.
+~
+123 8 0 1 99 1
+D0
+Entrance to the Keep
+~
+~
+0 -1 15451
+S
+#15451
+Entrance to the Keep~
+You are standing outside of a giant set of gates leading up to a treacherous looking keep. Behind the gates there is a drawbridge across a deep deadly looking moat. The gates are open, enter at your own risk!
+~
+123 8 0 1 99 1
+D0
+~
+~
+0 -1 15452
+D2
+The Forest Before The Keep
+~
+~
+0 -1 15450
+S
+#15452
+On a drawbridge across a deadly moat~
+Your standing on a wooden drawbridge, it doesn't look like it functions correctly anymore as there doesn't appear to be a way to raise it. As you look over the side into the moat you realize its a really long fall that would probably lead to your death. In front of you is the gate to the keep, it is unlocked.
+~
+123 8 0 0 99 1
+D0
+~
+~
+0 -1 15453
+D2
+~
+~
+0 -1 15451
+S
+#15453
+Inside the keep~
+ADD ME
+~
+123 8 0 0 99 1
+D2
+~
+~
+0 -1 15452
+S
+$~
+#999999

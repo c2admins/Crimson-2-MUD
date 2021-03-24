@@ -1,0 +1,335 @@
+#17700
+mob stile lord blue adept~
+Stile~
+Stile stands here, thinking.
+~
+You see before you Stile, the Lord of the Blue Demenses. He is only
+about 5.4 feet tall. But you know he is deadly.
+~
+1074003978 1 136249361 136 800 S
+42 1 -26 50d99+7100 6d6+15
+6800 545000
+8 8 1
+1 5 15 20 20 17 17 15
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_FIREBALL 70
+SKILL=SKILL_PARRY 60
+SKILL=SPELL_EARTHQUAKE 60
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#17701
+mob ladyblue lady blue~
+the Lady Blue~
+The Lady Blue is sleeping here.
+~
+You are looking at a lovely lady in a flowing blue gown, her hair is
+black and her eyes are blue. She is sleeping peacefully.
+~
+262154 1 136249361 128 800 S
+30 13 5 50d9+1150 5d5+23
+300 175000
+8 8 2
+1 2 15 15 15 15 15 15
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17702
+mob neysa unicorn mare~
+Neysa~
+Neysa the Unicorn Mare is sleeping here, in her human form.
+~
+You see a small lady sleeping here. She is wearing a midnight black gown that
+match her eyes and hair.
+~
+262154 1 136249361 128 800 S
+30 13 5 50d50+350 3d5+30
+0 188000
+8 8 2
+0 1 15 15 15 15 15 15
+SKILL=SKILL_PARRY 67
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#17703
+mob flach grandson adept~
+Flach~
+Flach is sitting here.
+~
+You see before you Flach, the Blue Adepts grandson. He is resting
+here.
+~
+10 32769 136249361 128 800 S
+35 8 -10 100d40+200 1d9+17
+750 220000
+8 8 1
+1 1 15 15 15 15 15 15
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#17704
+mob demon ice blue~
+The Ice Demon~
+An Ice Demon is here, visiting the Blue Demenses for healing.
+~
+The thing you see before you is made totally out of ice. It gives
+you an icy look as you walk into the room.
+~
+74 1 136249361 0 -400 S
+20 20 24 10d50+3000 3d6+4
+59 50000
+8 8 1
+0 4 10 10 10 15 10 10
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#17705
+mob fleta unicorn ~
+Fleta~
+Fleta is here, admiring the view.
+~
+You see before you a woman sitting on the floor and admiring
+the view out the window, she turns to you and smiles as 
+she sees you.
+~
+262154 1 136249361 128 800 S
+32 11 -1 50d39+900 3d19+11
+500 190000
+8 8 2
+0 4 15 15 15 14 15 15
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17706
+mob demon ice blue large~
+The Ice Demon~
+An Ice Demon is here, visiting the Blue Demenses for healing.
+~
+The thing you see before you is made totally out of ice. It gives
+you an icy look as you walk into the room.
+~
+72 1 136249361 0 -400 S
+20 20 24 10d50+3000 3d10+15
+59 55000
+8 8 0
+0 4 10 10 10 15 10 10
+#17707
+mob unicorn~
+A Unicorn~
+A Unicorn stands here, waiting for healing.
+~
+This is one of the many Unicorns in the herd near the Blue
+Demenses.
+~
+72 1 136249361 0 800 S
+12 27 32 6d5+150 3d3+3
+0 3720
+8 8 1
+0 4 10 10 10 10 10 10
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#17708
+mob unicorn yellow red~
+A Unicorn~
+A Unicorn stands here, waiting for healing.
+~
+This is one of the many Unicorns in the herd near the Blue
+Demenses.
+~
+72 1 136249361 0 800 S
+20 20 24 10d50+1350 3d4+5
+0 60900
+8 8 0
+0 4 10 10 10 10 10 10
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17709
+mob werewolf snarling~
+A Werewolf~
+A Werewolf waits for healing here.
+~
+You see a werewolf that will tear you to shreds if it gets the chance.
+~
+72 1 136249361 128 100 S
+20 20 24 50d9+550 3d4+8
+0 60200
+8 8 1
+0 0 10 10 10 10 10 10
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17710
+mob werewolf~
+A Werewolf~
+A Werewolf waits for healing here.
+~
+You see a werewolf that will tear you to shreds if it gets the chance.
+~
+72 1 136249361 128 100 S
+20 20 24 50d8+500 3d5+4
+0 61000
+8 8 0
+0 0 10 10 10 10 10 10
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17711
+mob werewolf growling~
+A Werewolf~
+A Werewolf waits for healing here.
+~
+You see a werewolf that will tear you to shreds if it gets the chance.
+~
+72 1 136249361 128 100 S
+20 20 24 50d8+500 3d5+4
+0 60500
+8 8 0
+0 0 10 10 10 10 10 10
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17712
+mob adeptbane bane heir~
+Bane~
+Bane is walking the halls.
+~
+This is the heir to Stile, he has been trained in the magic of the Blue
+Adept, and is even more dangerous than Stile.
+~
+262216 32769 136249361 128 800 S
+43 1 -28 100d99+8000 4d20+10
+13000 675000
+8 8 1
+0 4 19 17 17 17 17 17
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_CONFLAGRATION 60
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_TYPE=103
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_TYPE=103
+#17713
+mob unicorn kicking~
+A Unicorn~
+A Unicorn stands here, waiting for healing.
+~
+This is one of the many Unicorns in the herd near the Blue
+Demenses.
+~
+72 1 136249361 0 800 S
+20 20 24 50d19+1075 3d5+6
+0 60000
+8 8 0
+0 4 10 10 10 10 10 10
+ATTACK_SKILL=80
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17714
+mob unicorn laughing~
+A Unicorn~
+A Unicorn stands here, waiting for healing.
+~
+This is one of the many Unicorns in the herd near the Blue
+Demenses.
+~
+72 1 136249361 0 800 S
+20 20 24 50d9+1075 3d5+4
+0 59900
+8 8 0
+0 4 10 10 10 10 10 10
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#17715
+mob werewolf barking~
+A Werewolf~
+A Werewolf waits for healing here.
+~
+You see a werewolf that will tear you to shreds if it gets the chance.
+~
+72 1 136249361 128 100 S
+20 20 24 50d9+1075 3d5+3
+0 60300
+8 8 0
+0 0 10 10 10 10 10 10
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_SKILL=30
+ATTACK_TYPE=106
+#17716
+mob werewolf jumping~
+A Werewolf~
+A Werewolf waits for healing here.
+~
+You see a werewolf that will tear you to shreds if it gets the chance.
+~
+72 1 136249361 128 100 S
+20 20 24 50d9+1075 3d5+2
+0 59800
+8 8 0
+0 0 10 10 10 10 10 10
+ATTACK_SKILL=99
+ATTACK_SKILL=80
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#17717
+mob blah test~
+test~
+test
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262152 1 136249361 1073741832 -900 S
+41 0 25 1d5+500000000 100d125+97
+0 0
+8 8 0
+0 0 20 20 20 20 20 20
+SKILL=SPELL_FIREBALL 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+$~
+#999999

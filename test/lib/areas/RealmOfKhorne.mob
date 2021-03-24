@@ -1,0 +1,439 @@
+#1300
+mob daemon mists khorne~
+&wthe &Kd&Raemo&Kn &wof the &Wmists&n~
+&wA &Kd&Raemo&Kn &wof the &Wmists&n &wdrifts about.&n
+~
+&cThe daemon lives in, and is part of the crimson colored mists of chaos, his
+body is nearly transparent but his head and claws look more dense.  The
+daemon wears the mark of khorne on his forehead, between his two sunken
+eyes.  The Daemon of the Mists is possibly the weakest of all the lesser
+daemons of Khorne.&n
+~
+4252 32769 136249361 0 -1000 S
+46 -15 -26 1d1+15000 15d15+30
+1000000 1366666
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 20
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=98
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=98
+ATTACK_TYPE=105
+#1301
+mob daemon bone khorne~
+&wthe &Wbone &Kd&Raemo&Kn&n~
+&wA &Wbone &Kd&Raemo&Kn&n &wwanders the &WSea of Splintered Bones&w.&n
+~
+&cBone daemons are lesser daemons of khorne, formed from the piles of bones 
+laying around the sea of splintered bone. They are not undead beasts, as Khorne 
+apposes necromantic magic, as he does all other schools of magic. The daemonic
+beast has the familiar symbol of Khorne repeated over his body.&n
+~
+61468 32769 136249361 0 -1000 S
+46 -10 -26 1d1+15000 15d15+30
+1000000 1366666
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=98
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=98
+ATTACK_TYPE=105
+#1302
+mob daemon fiery skull khorne~
+&Ra fi&Ye&Rry &Wskull&n~
+&Ra fi&Ye&Rry &Wskull&n &Kd&Raemo&Kn &Rfloats through the air.&n
+~
+These small lesser daemons of khrone are fierce fighters, resembling large 
+skulls covered with flames, they can breath intense fire upon those who they 
+fight and are extreemly deadly in large numbers. The daemons float through the 
+air silently, spreading their fire and heat in there tracks
+~
+53272 32769 136249361 0 -1000 S
+47 1 -26 20d99+18000 10d10+35
+1000000 1500000
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 20
+SKILL=SPELL_FIRE_BREATH 5
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=94
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=94
+ATTACK_TYPE=100
+#1303
+mob daemon demon bloodletter letter khorne~
+&wthe &rBlood&KLetter &wof &yKhorne&n~
+&wA &rBlood&KLetter &wof &yKhorne&n &wscreams and attacks!&n
+~
+BloodLetters have skaly skin and shiny black claws. They are furious 
+fighters with strong arms and murderous talons, but their most fearsome 
+weapons are their HellBlades. These weapons glow with deadly enchantment, 
+and cause terrible wounds that can slay even the hardiest avatar.
+~
+8450072 32769 136249361 0 -1000 S
+48 -16 -26 1d1+29999 17d15+10
+1100000 1575000
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 30
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=55
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=55
+ATTACK_TYPE=105
+#1304
+mob juggernaut daemon khorne~
+&wthe &yJuggernaut &wof &yKhorne&n~
+&wA huge &yJuggernaut &wof &yKhorne&w crashes towards you.
+~
+Juggernauts of Khorne are huge daemon beasts whose flesh is made of 
+brass and whose blood is pure fire. They are brutal and fierce creatures.
+but lack intelligence and discrimination, being pure killing machines.
+~
+8392728 32769 136249361 0 -1000 S
+46 -15 -26 1d1+21000 20d15+99
+900000 1250000
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=108
+#1305
+mob fleshhound hound khorne~
+&wthe &yFlesh Hound &wof &yKhorne&n~
+&wA &yFlesh Hound &wof &yKhorne&n &wis savagely ripping apart a corpse.&n
+~
+Khorne's Flesh hounds are huge daemonic hounds with heavy-jawed heads 
+that are both reptilian and savagely canine. They bound into battle, 
+slavering and biting, hungry for the taste of living flesh. Their hide 
+is tough and ruddy, and their claws dark and bloody.
+~
+151057182 32769 136249361 0 -1000 S
+47 -26 -26 1d1+16999 15d15+99
+0 1200000
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 5
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+#1306
+mob battle luster khorne~
+&wthe &bBattle Luster &wof &yKhorne&n~
+&wA &bBattle Luster &wof &yKhorne&n &wstands here.&n
+~
+The Battle Luster is a huge daemon, probably the strongest and most savage of 
+all the lesser dameons of khorne. His leathery red arms buldge with muscles 
+as he wields a huge battle axe. The daemon stands about 7 foot tall, while not 
+as tall as other daemons,  these are ferocious fighters and wear there mark 
+of the Blood 
+God with pride.
+~
+53272 32769 136249361 0 -1000 S
+46 -25 -26 100d19+25000 30d15+99
+1200000 1150000
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 20
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+#1307
+mob Inferno greater daemon khorne~
+&wthe &RInferno&n~
+&wThe &RInferno&n&w, &BGreater Daemon of Khorne&w, showers you with flaming debris.&n
+~
+The Inferno towers above you, waving his arms and head wildly spreading 
+flaming debris across the room. Its hard to see the facial features of 
+this daemon, but you can make out the symbol of Khorne, buried deep into 
+his forhead, along with other locations around his body. The Inferno is 
+a unique greater daemon of Khorne, occasionly pulled from the realm to 
+assist in battles at distant worlds where he has the power to make a whole 
+army flee at the sight of him.
+~
+8654874 32769 136249361 0 -1000 S
+49 -26 -28 100d19+35000 15d20+90
+2000000 1301201
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 20
+SKILL=SPELL_FIRE_BREATH 30
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_TYPE=106
+ATTACK_SKILL=85
+ATTACK_SKILL=80
+ATTACK_SKILL=75
+ATTACK_TYPE=105
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=65
+ATTACK_TYPE=103
+#1308
+mob BloodRage greater daemon khorne~
+&wthe &rBlood&KRage&n~
+&wThe &rBlood&KRage&n&w, &BGreater Daemon of Khorne&w, looks up from his feeding.&n
+~
+You stand before the Greater Daemon of Khorne, known as the BloodRage. This 
+daemon has black skin as hard as iron or rock. his teeth drip with blood and 
+snarl at you loudly. The blade he holds is made out of the same black 
+substance as his body in glows with an faint redness.
+~
+8712218 32769 136249361 0 -1000 S
+48 -25 -32 100d19+35000 15d15+95
+2000000 1321201
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 20
+ATTACK_SKILL=99
+ATTACK_SKILL=95
+ATTACK_SKILL=90
+ATTACK_TYPE=103
+ATTACK_SKILL=90
+ATTACK_SKILL=85
+ATTACK_SKILL=80
+ATTACK_TYPE=105
+ATTACK_SKILL=80
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_TYPE=106
+#1309
+mob HellBringer greater daemon khorne~
+&wthe &rHell&bBringer&n~
+&wThe &rHell&bBringer&w, &BGreater Daemon of Khorne&w, is resting here.&n
+~
+The HellBringer is a unique Greater Daemon of Khorne, he stands upright on 
+two legs, but has facial features of a large savage dog, his skin is dark
+red and rock hard, needing him to wear little armor. He holds a great sword 
+in one hand, humming faintly as you near it, in the other hand he holds a 
+huge bannar showing a great symbol of the Blood God, Khorne.
+~
+8704026 32769 136249361 0 -1000 S
+48 -25 -34 100d19+35000 12d17+82
+2000000 1421201
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#1310
+mob BloodThirster greater daemon khorne~
+&wthe &rBloodThirster&n~
+&wThe &rBloodThirster&n&w, &BGreater Daemon of Khorne&w, wastes no time readying his whip.&n
+~
+The BloodThirster is a huge terrifying monster, the greatest and most 
+deadly of all Khorne's daemons. Its master is the Chaos God of Battle, 
+and the BloodThirsters is the greatest fighter of all daemon kind. He 
+is a savage, bellowing creature with the head of a ferocious dog with 
+snarling teeth. Its blood stained fur is dark red, and its armor is
+ruddy brass and black iron. 
+~
+8712474 32769 136249361 0 -1000 S
+48 -25 -33 100d19+34500 15d15+99
+2500000 1221201
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 50
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#1311
+mob Khorne chaos god ~
+&yKhorne&w, the &rBlood God&n~
+&yKhorne&w, the &rBlood God&n&w, the &BGod of Battle&w, sits here on his throne.&n
+~
+Khorne wears ornate armor of black chaos metal and brass. He leans 
+upon a mighty sword made from the same black substance. His body is 
+broad and muscular and his head has the features of a fierce dog 
+superimposed over human form. He shows favour to those who fight for 
+what they desire, to great warriors, and to the mighty war leaders. 
+Khorne repects strength, honour, and martial skill.
+~
+42209306 32769 136249361 0 -1000 S
+50 -59 -34 1d1+79999 25d25+35
+5500000 2500000
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 80
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_TYPE=108
+#1312
+mob Arbaal destroyer champion khorne  ~
+&yA&Yrbaa&yl &wthe &KDestroyer&n~
+&yA&Yrbaa&yl &wthe &KDestroyer&n&w, &RChampion &wof &yKhorne&w stands here.&n
+~
+Of all the warrior heroes of Khorne the Blood God there are few so 
+utterly devoted to thier thirting master as Arbaal. Thousands have 
+felt his blade at their necks and now their white skulls lie at the 
+feet of Khorne.
+~
+8655386 32769 136249361 0 -500 S
+48 -26 -30 20d19+29000 25d25+35
+2250000 1500000
+8 8 1
+1 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 20
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_SKILL=89
+ATTACK_TYPE=108
+#1313
+mob Hound Khorne flesh    ~
+&wthe &yHound &wof &yKhorne&n~
+&wA Huge &yHound&w of &yKhorne &wstands by his masters side.&n
+~
+The Hound of Khorne is the Blood God's own Flesh Hound, a daemon of 
+titanic proportions that combines the attributes of the Flesh Hound 
+with massive size and tremendous power. Only Khorne's own chosen 
+champion is ever rewarded with the Hound of Khorne.
+~
+25170458 32769 136249361 0 -1000 S
+42 0 -26 100d49+16000 15d15+25
+0 800000
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 5
+ATTACK_SKILL=99
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=33
+ATTACK_TYPE=106
+ATTACK_SKILL=45
+ATTACK_SKILL=45
+ATTACK_SKILL=35
+ATTACK_TYPE=106
+#1314
+mob spawn chaos   ~
+&wthe &BChaos &BS&Rpaw&Bn&n~
+&wSome &Bs&Rpaw&Bn &wof &Bchaos&w mutates before your eyes.&n
+~
+Chaos Spawn is the name given to those warriors and champions who have lost 
+there mind and body controll due to excesive mutations and gifts given to the
+by the gods of chaos, they can sometimes have great horns of a bull, scales
+of a dragon, or claws of a crab. Sometimes the chaos gods reward those who 
+fight for them with extra arms to help them wield an extra weapon, or sometimes
+rock hard skin to make them not need to wear armor.
+~
+323592 32769 136249361 0 -1000 S
+46 -15 -28 100d69+19000 5d3+92
+1114000 1250000
+8 8 1
+7 4 20 20 20 20 20 10
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=107
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=104
+#1315
+mob Scyla spawn chaos~
+&WScyla&w, the &BS&Rpaw&Bn &wof &BChaos&n~
+&wThe great beast &WScyla&w lashes out at you angrily.&n
+~
+Once Scyla Anfinngrim of Norsca enjoyed the favour of his Chaos God. 
+But power of such magnitude has its cost, and Scyla paid the highest 
+price for his ambition. At first his body swelled with chitinous plates. 
+This gift made him even more powerful, but it was the beginning of the 
+end for Scyla. WIthin the year his head grew elongate and reptillian and 
+a scorpion tail sprouted from his back. His limbs lost their clean human 
+shape, becoming long, hairy and ape-like. Soon he could no longer grasp 
+his sword and fell on all fours like a beast. At last his mind gave up 
+its grip and Scyla was lost into the depths of gibbering abomination - 
+He became Chaos Spawn.
+~
+323608 32769 136249361 0 -1000 S
+47 -15 -28 2500d19+0 10d15+99
+2750000 850000
+8 8 1
+7 4 20 20 20 20 20 10
+SKILL=SKILL_PARRY 10
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=107
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=107
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=107
+#1316
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 14 15 12 13
+$~
+#999999

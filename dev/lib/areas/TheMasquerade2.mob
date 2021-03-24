@@ -1,0 +1,115 @@
+#20610
+mob Malkavian~
+&KM&wa&Kl&wk&Ka&wv&Ki&wa&Kn, &wt&Kh&we &KF&wa&Kl&wl&Ke&wn&n~
+&KMalkavian is here, sulking in the corner&n
+~
+&wYou have come face to face with one of the most powerful beings in the universe, something however, seems amiss.  As you gaze into his eyes, Malkavian begins to relate his story to you telepathically.
+&c-Long ago, I roamed this planet weilding the power of the cosmos.  My minions were innumerable and my was name revered across the land.  All was well until a dark day when I felt a strange tremor in the worlds energy.
+I however, wraped in my own glory, ignored this fluke, and proceeded in my daily tasks without a second thought.
+Later I came to understand, that the very tremor I had felt, was in fact the birth of he who would be the destruction of my being, that strange cosmic quake, had been the birth of the Nosferatu.
+As one of the few descendants of the wyrm who had survived the journey to this planet, my power had been unquestioned in this world, and subsequently I had lowered my defences almost completely, and my skills had grown rusty.
+When I became of the Nosferatu, and his plans for me, I sought power in the ancients.  As I searched for the great sigil, in the hope it would empower me to a point in which I could destroy him, I was hunted every step of the way.
+But at last, I found the components to create what would have been my saving grace, and as i knelt at the altar, proud, triumphant, and utterly defenseless, he came from behind, and ended all that I was.
+A single stake passed through my heart, and all was lost.&n
+~
+1278542350 294913 136249361 1178075306 0 S
+48 0 -25 100d5+80000 22d21+100
+5000000 2000000
+8 8 1
+19 4 23 25 16 25 25 12
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=106
+#20611
+mob vampire bat~
+&KA Vampire Bat&n~
+&KA vampire bat is here glaring at you&n
+~
+&wCovered in grey fur, appears to be one ancient bat&n
+~
+65802 1 136249361 128 0 S
+20 40 0 1d1+3000 1d1+1
+666 666
+8 8 0
+0 0 17 18 14 14 12 13
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+#20612
+mob Ahrimane shadow~
+&KAn Ahrimane Shadow&n~
+An Ahrimane Shadow is patrolling here
+~
+&KA new breed of Sabbat, this warrior seems to posess incredible strength.  With his companions in tow, their vengance is deadly.  Be weary of the Ahrimane&n
+~
+212918536 294913 136249393 1077412008 0 S
+44 1 40 1d1+15000 6d3+45
+2000000 800000
+8 8 0
+0 0 16 16 14 14 12 11
+SKILL=SPELL_ENERGY_DRAIN 25
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_STEAL 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_BLACK_BURST 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=107
+#20613
+mob tatiana~
+&pTatiana &CA&cr&Cc&ch&Co&cn &pof the Gangrel&n~
+Tatiana is here tied to a large pole, a prisoner of the Sabbat.
+~
+&cIn her prime, Tatiana was the primary researcher in the field of defense against the Sabbat.  She however, in her final endevour, was cought by her subjects, and now serves as a practice dummy for new means of torture.&n
+~
+2101258 32769 136249361 0 0 S
+48 0 40 5d5+100000 5d5+25
+5000000 1500000
+8 8 0
+0 0 17 16 14 14 12 12
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+$~
+#999999

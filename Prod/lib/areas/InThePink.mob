@@ -34,8 +34,8 @@ from long-ago collisions and near-misses on their way around a star.
 SKILL=SPELL_HEAL_MINOR 75
 #15802
 mob death horseman~
-&WD&we&Ka&wt&Wh&K, the fourth horseman of the &wApocalypse&n~
-&KYou see the shadowy figure of &WD&we&Ka&wt&Wh&K mounted atop a &wpale horse&K.&n
+&WD&we&Ka&wt&Wh&n, the fourth horseman of the &KApocalypse&n~
+&KYou see the shadowy figure of &WD&we&Ka&wt&Wh&K mounted atop a &wpale horse&n
 ~
 &w"&K...And when he had opened the fourth seal, I heard the voice of the
 fourth beast say, Come and see.
@@ -46,11 +46,12 @@ unto them over the fourth part of the earth, to kill with sword, and
 with hunger, and with death, and with the beasts of the earth.&w"
 &n
 ~
-101781532 1409025 136249361 1008738492 0 S
+101777432 1409025 136249361 874520764 0 S
 50 -10 -40 1d1+80000 50d25+100
 5000000 2000000
 8 8 0
 0 0 25 25 25 25 25 13
+SKILL=SPELL_ELSEWHERE 99
 SKILL=SPELL_CHILL_TOUCH 99
 SKILL=SKILL_KICK 99
 SKILL=SKILL_PARRY 75
@@ -80,7 +81,7 @@ Looking directly back at you, an odd smirk appears on his face.
 
 ~
 134222348 299009 136249361 69206656 0 S
-50 -5 -40 100d10+100000 100d20+100
+50 -5 -40 1d1+1 100d20+100
 5000000 2500000
 8 8 1
 11 4 24 18 18 20 23 17
@@ -133,8 +134,8 @@ ATTACK_SKILL=20
 ATTACK_TYPE=106
 #15804
 mob famine horseman~
-&GF&ga&ymi&Kne&w, the third horseman of the &KApocalypse&n~
-The Blank Mob standing here, looking formless.
+&GF&ga&ymi&Kne&n, the third horseman of the &KApocalypse&n~
+&wYou see the emaciated figure of &GF&ga&ymi&Kne&w mounted atop a &Kblack horse
 ~
 &K"&w...And when he had opened the third seal, I heard the third beast say,
 Come and see.  And I beheld, and lo a &Kblack horse&w; and he that sat
@@ -145,11 +146,29 @@ wheat for a penny, and three measures of barley for a penny; and
 see thou hurt not the oil and the wine.&K"
 &n
 ~
-101781516 1409025 136249361 0 0 S
-20 40 40 1d1+1 1d1+1
-1 0
+101777432 1409025 136249361 874520764 0 S
+50 -5 -40 1d1+75000 50d25+50
+5000000 2000000
 8 8 0
-0 0 16 16 15 14 14 15
+0 0 20 25 25 20 20 15
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_CREMATION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=55
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=45
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
 #15805
 mob orion constellation~
 &wOr&Wi&won, the &Kf&wall&Ken Con&wste&Wl&wlat&Kion&n~
@@ -190,8 +209,8 @@ ATTACK_SKILL=60
 ATTACK_TYPE=100
 #15806
 mob conquest horseman~
-the Blank Mob~
-The Blank Mob standing here, looking formless.
+&WCon&wqu&West&w, the first horseman of the &KApocalypse&n~
+&KYou see the imposing figure of &WCon&wqu&West&K mounted atop a &Wwhite horse&n
 ~
 &w"&K...And I saw when the Lamb opened one of the seals, and I heard, as it
 were the noise of thunder, one of the four beasts saying, Come and see.
@@ -201,11 +220,29 @@ bow; and a crown was given unto him: and he went forth conquering,
 and to conquer.&w"
 &n
 ~
-8 1 136249361 0 0 S
-20 40 40 1d1+1 1d1+1
-1 0
+101777432 1409025 136249361 872423612 0 S
+50 -5 -40 1d1+65000 50d25+50
+5000000 2000000
 8 8 0
-0 0 16 17 14 16 14 13
+0 0 20 25 25 20 20 15
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_CREMATION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=55
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=45
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
 #15807
 mob darius zechariah~
 the Blank Mob~
@@ -220,8 +257,8 @@ The Blank Mob is pretty formless, awaiting a creators molding.
 0 0 17 17 16 15 15 15
 #15808
 mob war horseman~
-the Blank Mob~
-The Blank Mob standing here, looking formless.
+&RW&ra&Rr&w, the second horseman of the &KApocalypse&n~
+&wYou see the bloodied figure of &RW&ra&Rr&w mounted atop a &Rred horse&n
 ~
 &w"&K...And when he had opened the second seal, I heard the second beast
 say, Come and see.
@@ -231,14 +268,32 @@ given to him that sat thereon to take peace from the earth, and that
 they should kill one another: and there was given unto him a great sword.&w"
 &n
 ~
-8 1 136249361 0 0 S
-20 40 40 1d1+1 1d1+1
-1 0
+101777432 1409025 136249361 872423612 0 S
+50 -5 -40 1d1+70000 50d25+50
+5000000 2000000
 8 8 0
-0 0 16 17 15 14 15 12
+0 0 20 25 25 20 20 15
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_CREMATION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=55
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=45
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
 #15809
-mob halloween crone~
-the Crone~
+mob loss lord~
+&KLord &RL&ro&Rss&n~
 The Crone has arrived to announce the rule of darkness and wish you a happy Samhain.
 ~
 It is the last harvest before the snows. The night is at once the end, and the beginning.
@@ -248,7 +303,7 @@ The Crone is to be celebrated. It is a day of divination, and a time of the dead
 1141239886 6324225 203358257 33816718 -700 S
 48 0 -25 100d1+40000 50d3+60
 42000 1750000
-8 8 2
+8 8 1
 0 0 25 21 11 9 10 8
 SKILL=SPELL_ENERGY_DRAIN 75
 SKILL=SPELL_SLEEP 50

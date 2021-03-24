@@ -1,0 +1,1305 @@
+#600
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+D3
+A stairway landing.
+~
+door wooden west~
+13 504 625
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#601
+Inside Chasm~
+You are standing inside the chasm.  Faints sounds of surf come from the 
+east.
+~
+6 268435456 0 1 99 3
+D0
+A path leading up the chasm wall.
+~
+~
+32 -1 555
+D1
+The chasm continues east.
+~
+~
+0 -1 602
+D2
+A path leading up the chasm wall.
+~
+~
+32 -1 575
+D3
+The chasm continues west.
+~
+~
+0 -1 599
+S
+#602
+Inside Chasm~
+You are standing just inside the chasm.  To the east you see a beautiful 
+thread of white sand stretching from one side of the chasm to the other.
+~
+6 268435456 0 1 99 3
+D0
+A nice path gently winding its way to the top of the chasm wall.
+~
+~
+32 -1 556
+D1
+The chasm walls narrow to a width of about 3 feet.  Beyond the opening, you
+see a beach and hear the sound of surf crashing against the shore.
+~
+~
+32 -1 581
+D2
+A nice path gently winding its way to the top of the chasm wall.
+~
+~
+32 -1 576
+D3
+The chasm continues west.
+~
+~
+0 -1 601
+S
+#603
+Shade's Burial~
+You find yourself in a damp cave.  It appears water trickles down from
+above which turns the dirt to mud.  You notice a branching path leading
+east.
+~
+6 268435456 0 1 99 3
+D1
+A twisty little passage.
+~
+~
+0 -1 608
+D4
+What appears to be a passage leading out of the cave.
+~
+~
+0 -1 599
+S
+#604
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+6 274726921 0 1 99 3
+D0
+A twisty little passage.
+~
+~
+0 -1 611
+D1
+A twisty little passage.
+~
+~
+0 -1 607
+D2
+A twisty little passage.
+~
+~
+0 -1 607
+D3
+A twisty little passage.
+~
+~
+0 -1 608
+D4
+A twisty little passage.
+~
+~
+0 -1 606
+D5
+A twisty little passage.
+~
+~
+0 -1 604
+S
+#605
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+6 274726925 0 1 99 3
+D0
+A twisty little passage.
+~
+~
+0 -1 611
+D1
+A twisty little passage.
+~
+~
+0 -1 607
+D2
+A twisty little passage.
+~
+~
+0 -1 608
+D3
+A twisty little passage.
+~
+~
+0 -1 609
+D4
+A twisty little passage.
+~
+~
+0 -1 603
+D5
+A twisty little passage.
+~
+~
+0 -1 604
+S
+#606
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+6 274726921 0 1 99 3
+D0
+A twisty little passage.
+~
+~
+0 -1 609
+D1
+A twisty little passage.
+~
+~
+0 -1 608
+D2
+A twisty little passage.
+~
+~
+0 -1 611
+D3
+A twisty little passage.
+~
+~
+0 -1 607
+D4
+A twisty little passage.
+~
+~
+0 -1 605
+S
+#607
+A maze of Twisty Little Passages~
+You are in a maze of twisty little passages going in all directions.
+~
+6 274726921 0 1 99 3
+D0
+A twisty little passage.
+~
+~
+0 -1 604
+D1
+A twisty little passage.
+~
+~
+0 -1 606
+D2
+A twisty little passage.
+~
+~
+0 -1 609
+D3
+A twisty little passage.
+~
+~
+0 -1 610
+D4
+A twisty little passage.
+~
+~
+0 -1 608
+D5
+A twisty little passage.
+~
+~
+0 -1 607
+S
+#608
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+6 274726921 0 1 99 3
+D0
+A twisty little passage.
+~
+~
+0 -1 605
+D1
+A twisty little passage.
+~
+~
+0 -1 604
+D2
+A twisty little passage.
+~
+~
+0 -1 610
+D3
+A twisty little passage.
+~
+~
+0 -1 606
+D4
+A twisty little passage.
+~
+~
+0 -1 604
+D5
+A twisty little passage.
+~
+~
+0 -1 611
+S
+#609
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+6 274726925 0 1 99 3
+D0
+A twisty little passage.
+~
+~
+0 -1 607
+D1
+A twisty little passage.
+~
+~
+0 -1 610
+D2
+A twisty little passage.
+~
+~
+0 -1 605
+D3
+A twisty little passage.
+~
+~
+0 -1 608
+D4
+a twisty little passage.
+~
+~
+0 -1 514
+S
+#610
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+6 274726921 0 1 99 3
+D0
+A twisty little passage.
+~
+~
+0 -1 608
+D1
+A twisty little passage.
+~
+~
+0 -1 607
+D2
+A twisty little passage.
+~
+~
+0 -1 604
+D3
+A twisty little passage.
+~
+~
+0 -1 611
+D4
+A twisty little passage.
+~
+~
+0 -1 604
+D5
+A twisty little passage.
+~
+~
+0 -1 607
+S
+#611
+A maze of Twisty Little Passages~
+You are in a maze of twistly little passages going in all directions.
+~
+6 274726921 0 1 99 3
+D0
+A twisty little passage.
+~
+~
+0 -1 606
+D1
+A twisty little passage.
+~
+~
+0 -1 610
+D2
+A twisty little passage.
+~
+~
+0 -1 608
+D3
+A twisty little passage.
+~
+~
+0 -1 609
+D4
+A twisty little passage.
+~
+~
+0 -1 610
+D5
+A twisty little passage.
+~
+~
+0 -1 609
+S
+#612
+Ocean~
+You see water all around you.
+~
+6 268435464 0 1 99 7
+D1
+Ocean.
+~
+~
+0 -1 621
+D2
+Ocean.
+~
+~
+0 -1 619
+D3
+Ocean.
+~
+~
+0 -1 616
+S
+#613
+Beach~
+You stand on the beach with pearly white sand all around.
+~
+6 268435456 0 1 99 3
+D1
+Water.
+~
+~
+0 -1 612
+D2
+Beach.
+~
+~
+0 -1 614
+D3
+Beach.
+~
+~
+0 -1 547
+S
+#614
+Beach~
+You stand on the beach with pearly white sand all around.
+~
+6 268435456 0 1 99 3
+D0
+Beach.
+~
+~
+0 -1 613
+D1
+Ocean.
+~
+~
+0 -1 619
+D2
+Beach.
+~
+~
+0 -1 615
+D3
+Beach.
+~
+~
+0 -1 536
+S
+#615
+Beach~
+You stand on the beach with pearly white sand all around.
+~
+6 268435456 0 1 99 3
+D0
+Beach.
+~
+~
+0 -1 614
+D1
+Ocean.
+~
+~
+0 -1 620
+D3
+Beach.
+~
+~
+0 -1 518
+S
+#616
+Ocean~
+You see water all around you.
+~
+6 268435464 0 1 99 7
+D1
+Ocean.
+~
+~
+0 -1 612
+D2
+Ocean.
+~
+~
+0 -1 617
+D3
+A beach.
+~
+~
+32 -1 563
+S
+#617
+Ocean~
+You see water all around you.
+~
+6 268435464 0 1 99 7
+D0
+Ocean.
+~
+~
+0 -1 616
+D1
+Ocean.
+~
+~
+0 -1 619
+D2
+Ocean.
+~
+~
+0 -1 618
+D3
+A beach.
+~
+~
+32 -1 581
+S
+#618
+Ocean~
+You see water all around you.
+~
+6 268435464 0 1 99 7
+D0
+Ocean.
+~
+~
+0 -1 617
+D1
+Ocean.
+~
+~
+0 -1 620
+D3
+A beach.
+~
+~
+32 -1 579
+S
+#619
+Ocean~
+You see water all around you.
+~
+6 268435464 0 1 99 7
+D0
+Ocean.
+~
+~
+0 -1 612
+D1
+Ocean.
+~
+~
+0 -1 622
+D2
+Ocean.
+~
+~
+0 -1 620
+D3
+Ocean.
+~
+~
+0 -1 617
+S
+#620
+Ocean~
+You see water all around you.
+~
+6 268435464 0 1 99 7
+D0
+Ocean.
+~
+~
+0 -1 619
+D1
+Ocean.
+~
+~
+0 -1 623
+D3
+Ocean.
+~
+~
+0 -1 618
+S
+#621
+Ocean~
+You see water all around you.
+~
+6 268435464 0 1 99 7
+D1
+An island.
+~
+~
+32 -1 528
+D2
+South.
+~
+~
+0 -1 622
+D3
+Ocean.
+~
+~
+0 -1 612
+S
+#622
+Ocean~
+You see water all around you.
+~
+6 268435464 0 1 99 7
+D0
+Ocean.
+~
+~
+0 -1 621
+D1
+An island.
+~
+~
+32 -1 537
+D2
+Ocean.
+~
+~
+0 -1 623
+D3
+Ocean.
+~
+~
+0 -1 619
+S
+#623
+Ocean~
+You see water all around you.
+~
+6 268435464 0 1 99 7
+D0
+Ocean.
+~
+~
+0 -1 622
+D1
+An island.
+~
+~
+32 -1 515
+D3
+Ocean.
+~
+~
+0 -1 620
+S
+#624
+Circular Stairway~
+You see an elevator door to the north and a circular stair leading
+downwards.
+~
+6 268435456 0 1 99 3
+D0
+An elevator.
+~
+~
+15 -1 630
+D5
+A circular stairway leading downwards.
+~
+~
+0 -1 583
+E
+wooden~
+Its a huge wooden door.
+~
+E
+elevator~
+Its a safe elevator protected under several CTA regulations.
+~
+S
+#625
+Top of Stairs~
+Standing at the top of the stairs, you think it strange that such a 
+grand staircase would end up in a room as small as this one.  The 
+room is just large enough for you to breathe.
+~
+6 268435456 0 1 99 3
+D1
+A study.
+~
+door wooden east~
+15 504 600
+D5
+A winding staircase leading downwards.
+~
+~
+0 -1 586
+E
+door huge wooden~
+Its a huge wooden door.
+~
+E
+door huge wooden~
+Its a huge wooden door.
+Its a huge wooden door.
+~
+E
+door huge wooden~
+Its a huge wooden door.
+~
+S
+#626
+Bottom of Stairs~
+This room hasn't been dusted in months.  Considering how spotless clean
+the rest of the castle is, you suspect its not used often if ever.
+~
+6 268435456 0 1 99 3
+D4
+A stairway leading upwards
+~
+trapdoor up~
+9 0 589
+S
+#627
+North Entrance~
+You stand before an imposing castle.  Instinctively you know your destiny
+lies beyond the castle.  Unfortunately, the castle builders put this structure
+right in way.  The forest and brush on both sides prevent your mearly walking
+around it.  You'll have to pass through it!  The door into the castle is
+impressive.
+~
+6 268435456 0 1 99 3
+D0
+The portculis.
+~
+~
+0 -1 628
+D2
+castle hallway.
+~
+door massive stone wooden~
+15 0 587
+D4
+A narrow stairway to a landing midway up the castle.
+~
+~
+0 -1 538
+E
+door massive stone~
+___________________________________________________________________
+|                  .  .  .                 .  .  .                |
+|               .           .           .           .             |
+|             .       |       .       .       |       .           |
+|           .       --|--       .   .       --|--       .         |
+|         .           |           .           |           .       |
+|        .                        .                       |       |
+|        |**                      .                     **|       |
+|        |**                      .                     **|       |
+|        |         <M%#3   +P#*]? . #qA   %q4%fC          |       |
+|        |                        .                       |       |
+|        |                        .                       |       |
+|        |                   []   .  []                   |       |
+|        |                   []   .  []                   |       |
+|        |                        .                       |       |
+|        |                        .                       |       |
+|        |**                      .                     **|       |
+|        |**                      .                     **|       |
+|        |________________________________________________|       |
+|_________________________________________________________________|
+
+~
+E
+brush~
+Its the stuff keeping you from going around the castle.
+~
+E
+forest~
+The forest almost buts right up against the castle.  The brush appears to 
+exist for the sole benefit of closing up even that gap.  You'll have to
+pass through the castle.
+~
+S
+#628
+Inside Portculis~
+You stand inside the portculis which protects the castle.
+~
+6 268435456 0 1 99 3
+D0
+The raised portculis and a clear passage to the land of Xanth beyond it.
+~
+portculis gate north~
+15 0 549
+D2
+The castle entrance.
+~
+~
+0 -1 627
+D3
+A guard post.
+~
+gate massive steal~
+13 526 527
+E
+portculis door~
+Its a heavy iron grating used to protect the castle.
+~
+S
+#629
+Eastern Turrent~
+You stand inside a wind swept turrent.  Mounted in the west wall are
+a couple buttons and lever.
+~
+6 268435456 0 1 99 3
+D2
+An elevator.
+~
+~
+3 -1 630
+D3
+The castle turrent.
+~
+door~
+47 0 540
+E
+wooden~
+Its a huge wooden door.
+~
+E
+door~
+The west door is a huge wooden one.  The elevator door is standard.
+~
+E
+elevator~
+Its a safe elevator protected under several CTA regulations.
+~
+S
+#630
+Elevator~
+You are standing in a *magically* powered elevator.   Its gotta be magic 
+because everyone knows electricity is a mundane creation.   The only thing
+of note is a panel with two buttons and the doors to your north and south.
+~
+6 268435456 0 1 99 3
+D0
+An exit from this elevator.
+~
+~
+3 -1 629
+D2
+Elevator lobby.
+~
+door wooden~
+47 0 624
+E
+door~
+The west door is a huge wooden one.  The elevator door is standard.
+~
+E
+wooden~
+Its a huge wooden door.
+~
+E
+blue button~
+~
+E
+elevator~
+Its guarenteed safe by the CTA.
+~
+E
+blue ~
+It appears to have been smashed by a hammer.  Wish there was a replacement.
+~
+E
+gray~
+Its a standard button.  Since its in this elevator, it probably has something
+to do with its operation.    Its positioned over the blue button.  Wonder if
+thats important?
+~
+E
+doors~
+They are standard elevator doors.
+~
+S
+#631
+Basement Treasure~
+Expecting great riches, you've rushed into this room and find to your dismay
+that instead of great riches, there is:
+ 
+                          D E A T H
+
+ 
+CrimsonMUD Main Menu
+
+0) Exit from CrimsonMud.
+1) Enter the game.
+2) Enter description.
+3) Change password.
+
+   Make your choice:      
+
+
+    And what appears to be great humor on the part of Humphrey!
+~
+6 268435456 0 1 99 3
+D4
+A ladder leading to the storage room.
+~
+door~
+13 0 591
+S
+#632
+blank~
+none
+~
+6 8 0 1 99 1
+S
+#633
+Weedgrown Yard~
+Weeds abound in this yard.  They have grown so tall its hard to
+recognize that this was served as a yard for the rickty shack to
+the east.
+~
+6 268435456 0 1 99 2
+D1
+A shack.
+~
+~
+0 -1 635
+D3
+The beach.
+~
+~
+0 -1 537
+S
+#634
+Pantry~
+This is a small leanto off the shack.  Most likely, it was used to store
+foodstuffs.  Its seen better days as it looks like it'll fall over at
+any minute.
+~
+6 268435456 0 1 99 2
+D2
+The shacks main room.
+~
+~
+0 -1 635
+S
+#635
+Shack~
+none
+~
+6 268435456 0 1 99 2
+D0
+The pantry.
+~
+~
+0 -1 634
+D2
+An attached outhouse.
+~
+~
+0 -1 636
+D3
+A weed grown yard.
+~
+~
+0 -1 633
+S
+#636
+Attached Outhouse~
+This is an attached outhouse.  The toilet is merely the usual board
+with a hole sawed in it.  Flies buzz merrily below it.  The bathtub
+is a converted horse watering trough.
+~
+6 268435456 0 1 99 2
+D0
+The shacks main room.
+~
+~
+0 -1 635
+S
+#637
+Blank~
+none
+~
+6 268435456 0 1 99 2
+S
+#638
+Blank~
+none
+~
+6 268435456 0 1 99 2
+S
+#639
+Blank~
+none
+~
+6 268435456 0 1 99 2
+S
+#640
+Main Path~
+This is some island!  Lush vegetation grows all around, flowers of
+all colors and sizes: polka-dot daisies the size of dishes, orchids of 
+exquisite splendor, tiger lilies that yawn and purr as you walk by
+them.  Neat paths lead from the beach toward a palace of solid crystal.
+~
+6 268435456 0 1 99 2
+D1
+What appears to be a garden.
+~
+~
+0 -1 642
+D3
+The beach.
+~
+~
+0 -1 537
+S
+#641
+Main Path~
+This is some island!  Lush vegetation grows all around, flowers of
+all colors and sizes: polka-dot daisies the size of dishes, orchids of 
+exquisite splendor, tiger lilies that yawn and purr as you walk by
+them.  Neat paths lead from the beach toward a palace of solid crystal.
+~
+6 268435456 0 1 99 2
+D1
+What appears to be a garden.
+~
+~
+0 -1 642
+D3
+The beach.
+~
+~
+0 -1 537
+S
+#642
+Garden~
+The spell of flowers is almost overwhelming.  Roses abound in all 
+colors, exhaling their perfumes. 
+~
+6 268435456 0 1 99 2
+D1
+The crystal palace.
+~
+~
+0 -1 644
+D3
+The main path.
+~
+~
+0 -1 641
+S
+#643
+Dining Room~
+This bathroom is, appropriately palatial.  The tub is like a small 
+swimming pool, and the commode an elegant affair of the type Mundanes
+are said to employ.  You watch the water circle around the bowl and
+drain out into a pipe below, disappearing as if magic.
+~
+6 268435456 0 1 99 2
+D2
+The palaces main room.
+~
+~
+0 -1 644
+S
+#644
+Palace~
+This palace is also exquisite.  Rainbow-hued beems of light shine down
+from the prismatic roof formations and the crystal walls formed mirrors.
+Soft pretty pillows are piled in the corners in lieu of chairs or 
+couches. 
+~
+6 268435456 0 1 99 2
+D0
+The dining room.
+~
+~
+0 -1 643
+D2
+The bathroom.
+~
+~
+0 -1 645
+D3
+The garden.
+~
+~
+0 -1 642
+S
+#645
+Bathroom~
+none
+~
+6 268435456 0 1 99 2
+D0
+The palaces main room.
+~
+~
+0 -1 644
+S
+#646
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#647
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#648
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#649
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#650
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#651
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#652
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#653
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#654
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#655
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#656
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#657
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#658
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#659
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#660
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#661
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#662
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#663
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#664
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#665
+Study~
+You see about you a paper filled study.
+~
+6 268435456 0 1 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+#666
+&KWo&rnd&Ker &rL&Kan&rd&n~
+
+&wThe mistress of this domain is the beautiful queen of &rhell&w.  Her power lies in seduction and the
+&wpromise of eternal youth.  Her weakness comes from her strength, drawn from the veins of those who 
+&wcatch her fancy.  To feel her bite is &Cheaven&w.  To endure her curse is &rhell&w.  If you are her guest
+&w then you are welcome.  If you are an intruder... be on your &rguard&w.
+
+&wSo... where is &RAlice&w?  She rarely leaves her &WW&Ro&Wn&Rd&We&Rr&Wl&Ra&Wn&Rd&w.&n
+
+~
+6 1342177280 0 47 99 3
+E
+Its a huge wooden door~
+Its a huge wooden door.
+~
+S
+$~
+#999999

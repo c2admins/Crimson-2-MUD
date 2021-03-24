@@ -1,0 +1,211 @@
+#5880
+mob The Witch-Lord of Angmar~
+&wThe Witch-Lord of Angmar&g~
+&wThe Witch-Lord of Angmar is standing here.&g
+~
+&wThe Witch-Lord of Angmar was sent from &KMordor &wto aid evil in battle.
+They say no man can kill him, anyone who has ever tried has died trying.&g
+~
+10 1 136249361 0 -1000 S
+50 -10 -27 1d1+49999 50d50+45
+2000000 2500000
+8 8 1
+0 0 17 15 15 22 14 15
+#5881
+mob Troll~
+An &wArmored &KCave &gTroll&n~
+&gAn &wArmored &KCave &gTroll &nis standing here.
+~
+&wThese massive trolls are heavily armored and
+wield giant maces, ready to crush anything.&g
+~
+25165834 1 136249361 0 -750 S
+45 -5 -20 1d1+74999 35d35+40
+1000000 1500000
+8 8 1
+0 0 17 5 16 25 14 14
+#5882
+mob Troll~
+&gAn &wArmored &kCave &gTroll~
+An &wArmored &kCave &gTroll is standing here.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+25165834 1 136249361 0 -750 S
+45 -5 -20 1d1+74999 35d35+40
+1000000 1500000
+8 8 0
+0 0 17 5 16 25 14 14
+#5883
+mob Troll~
+&gAn &wArmored &kCave &gTroll~
+An &wArmored &kCave &gTroll is standing here.
+~
+cave troll
+~
+25165834 1 136249361 0 -750 S
+45 -5 -20 1d1+74999 35d35+40
+1000000 1500000
+8 8 0
+0 0 17 5 16 25 14 14
+#5884
+mob Troll~
+&gAn &wArmored &kCave &gTroll~
+An &wArmored &kCave &gTroll is standing here.
+~
+cave troll
+~
+25165834 1 136249361 0 -750 S
+45 -5 -20 1d1+74999 35d35+40
+1000000 1500000
+8 8 0
+0 0 17 5 16 25 14 14
+#5885
+mob Troll~
+&gAn &wArmored &kCave &gTroll~
+An &wArmored &kCave &gTroll is standing here.
+~
+cave troll
+~
+25165834 1 136249361 0 -750 S
+45 -5 -20 1d1+74999 35d35+40
+1000000 1500000
+8 8 0
+0 0 17 5 16 25 14 14
+#5886
+mob Troll~
+&gAn &wArmored &kCave &gTroll~
+An &wArmored &kCave &gTroll is standing here.
+~
+cave troll
+~
+25165834 1 136249361 0 -750 S
+45 -5 -20 1d1+74999 35d35+40
+1000000 1500000
+8 8 0
+0 0 17 5 16 25 14 14
+#5887
+mob &kA Mordor Uruk-Hai&g~
+&KA Mordor Uruk-Hai&n~
+&KA Mordor Uruk-Hai &nis standing here.
+~
+&wThese creatures of evil were sent here
+from Mordor to destroy all that is good.&g
+~
+10 1 136249361 0 -1000 S
+42 0 0 1d1+34999 10d10+35
+500000 750000
+8 8 0
+0 0 17 10 16 15 14 14
+#5888
+mob mumakil~
+&gA &wMu&Wm&ra&Wk&wil&g~
+&gA &wMu&Wm&ra&Wk&wil &gis standing here.
+~
+&wThis beast stands atleast eight stories tall
+with massive spikes strapped to its tusks.&g
+~
+25165834 1 136249361 0 -1000 S
+45 15 -10 1d1+99999 45d45+15
+1000000 2500000
+8 8 1
+0 0 17 15 15 25 12 15
+#5889
+mob easterling soldier~
+&gAn &yEasterling &wSoldier&g~
+&gAn &yEasterling &wSoldier &gis standing here.
+~
+&wThese men from the east were recruited
+by Sauron to fight for evil.&g
+~
+10 1 136249361 0 -1000 S
+42 0 0 1d1+34999 10d10+35
+500000 750000
+8 8 1
+0 0 16 17 15 15 15 14
+#5890
+mob Haradrim-warrior~
+&gA &wHaradrim&r-&wWarrior&g~
+&gA &wHaradrim&r-&wWarrior &gis standing here.
+~
+&wA Haradrim&r-&wWarrior stands battle ready, cloaked
+in war paint, awaiting his next challenge.&g
+~
+10 1 136249361 0 -1000 S
+42 0 0 1d1+34999 10d10+35
+500000 750000
+8 8 1
+0 0 16 15 15 15 14 13
+#5891
+mob Dementor figure~
+A Dementor~
+A cloaked figure hovers about the room.
+~
+The cloaked figure leaves you breathless, the air around
+you starts to chill rapidly. You feel your senses numb
+and you lose your train of thought.
+~
+10 32769 136249361 278528 -1000 S
+25 15 40 1d1+1999 20d2+5
+20000 75000
+8 8 0
+7 2 16 16 14 16 14 15
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SPELL_FROST_BREATH 50
+#5892
+mob Inferi corpse~
+an &rI&Kn&wfe&Kr&ri&g~
+A corpse lies before you.
+~
+The corpse emits a ghastly odor, though it is heavily decayed
+you can make out the mark of the Dark Lord on its left forearm.
+~
+167772938 1 136249361 262188 -1000 S
+15 28 30 50d4+10 5d3+3
+3300 3000
+8 8 1
+1 0 17 15 15 16 14 11
+#5893
+mob Borshenk Goblin~
+B&Go&Kr&wsh&Ke&Gn&gk, The Goblin~
+A goblin stands in the corner sharpening his sword.
+~
+This battle-scarred goblin is dressed in tattered clothing.
+Ready for war he scans the room awaiting his next challenger.
+~
+10 1 136249361 262176 0 S
+25 15 18 100d10+2000 20d2+5
+175000 75000
+8 8 1
+21 4 17 18 15 16 12 13
+#5894
+mob Huntress~
+&gThe H&yu&wntr&we&ys&gs~
+&gThe H&yu&wntr&we&ys&gs awaits her next victim.
+~
+&gThe H&yu&wntre&ys&gs is on a life-time quest to purge
+all that is evil in the world. Those who dare stand
+in her way will know the true meaning of pain.
+~
+10 1 136249361 1310720 0 S
+20 20 24 1d1+1999 10d2+10
+5000 60000
+8 8 2
+1 3 17 16 16 15 13 12
+#5895
+mob phoenix bird~
+&rA &rP&rh&Ro&Ye&Rn&ri&rx&g~
+A bird wreathed in flame is perched above.
+~
+The Phoenix is an amazing creature. This large bird has
+beautiful red and gold plumage. The Phoenix dies in flames
+and is reborn from the ashes.
+~
+10 1 136249361 16384 0 S
+25 15 18 100d10+2000 20d2+5
+175000 75000
+8 8 0
+0 0 17 16 16 16 12 11
+SKILL=SPELL_FIRE_BREATH 25
+$~
+#999999

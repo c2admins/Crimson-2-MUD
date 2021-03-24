@@ -1,0 +1,123 @@
+#17700
+obj broadsword broad sword adept blue~
+10
+&wbroad&Ksword &Wof the &BBl&Cue &WA&Cde&Bpt&n~
+The Blue Adept's broadsword is lying here.~
+~
+5 2097219 0 8193
+0 6 6 3
+10 200000 75000
+A
+3 2
+A
+4 2
+A
+19 3
+A
+1 1
+#17701
+obj harmonica stile blue adept~
+15
+&wa harmonica&n~
+A harmonica is lying here.~
+~
+9 2097218 0 16385
+15 0 0 0
+10 150000 50000
+A
+12 25
+A
+3 1
+#17702
+obj gown blue lady~
+15
+&Wan ornate &Bblue &Bg&wow&Bn&n~
+An ornate blue gown is here.~
+~
+11 0 0 9
+0 0 0 0
+5 100000 25000
+A
+36 1
+#17703
+obj sword blue castle~
+15
+&wa &Ksword&n~
+A sword has been left here.~
+~
+5 524288 0 8201
+0 2 10 3
+5 10000 5000
+A
+1 1
+A
+17 12
+#17704
+obj blackgown gown black~
+15
+&wa &Kmid&wni&Kght black &wgown&n~
+A black gown lies here.~
+~
+9 0 0 9
+4 0 0 0
+2 10000 5000
+#17705
+obj pants blue adept~
+8
+&wa pair of &Bblue &Bpa&Kn&Bts&n~
+You see a pair of blue pants lying on the floor.~
+~
+9 2097217 0 33
+5 0 0 0
+10 50000 60000
+A
+14 20
+A
+19 2
+A
+23 -2
+#17706
+obj shirt blue adept~
+5
+&wa &Bblue sh&Ki&Brt&n~
+You see a blue shirt lying here.~
+~
+9 2097217 0 9
+18 0 0 0
+10 50000 30000
+A
+12 30
+A
+19 3
+#17707
+obj helm bane~
+15
+&wa &yleather helm &wof &KBane&n~
+You see a blue leather helm here.~
+~
+9 1048577 0 17
+3 0 0 0
+10 60000 15000
+A
+3 1
+A
+4 1
+A
+26 -1
+#17708
+obj boots bane~
+5
+&yleather boots &wof &KBane&n~
+You see a pair of blue leather boots here.~
+~
+9 2097153 0 65
+5 0 0 0
+1 100000 25000
+A
+14 12
+A
+12 5
+A
+19 2
+$~
+#999999

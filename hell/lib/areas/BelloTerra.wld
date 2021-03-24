@@ -1,0 +1,1667 @@
+#12400
+&gPassage Through The Willows&n~
+&y Before you lies a &Kpath &ylined with &GWe&gepi&Gng &gWi&Gll&gow &yTrees.  Their branches sway in the warm breeze.  The faint rustling of the branches fills you with an unusual sense of calm.&n
+~
+71 0 0 1 99 2
+D0
+&gPassage Through The Willows&n
+~
+~
+0 -1 12401
+S
+#12401
+&gPassage Through The Willows&n~
+&y Before you lies a &Kpath &ylined with &GWe&gepi&Gng &gWi&Gll&gow &yTrees.  Their branches sway in the warm breeze.  The faint rustling of the branches fills you with an unusual sense of calm.&n
+~
+71 268435456 0 1 99 2
+D0
+&gPassage Through The Willows&n
+~
+~
+0 -1 12402
+D2
+&gPassage Through The Willows&n
+~
+~
+0 -1 12400
+S
+#12402
+&gPassage Through The Willows&n~
+&y Before you lies a &Kpath &ylined with &GWe&gepi&Gng &gWi&Gll&gow &yTrees.  Their branches sway in the warm breeze.  The faint rustling of the branches fills you with an unusual sense of calm.&n
+~
+71 268435456 0 1 99 2
+D0
+&gA Passage Through The Willows&n
+~
+~
+0 -1 12403
+D2
+&gPassage Through The Willows&n
+~
+~
+0 -1 12401
+D3
+&gBeyond The Willows&n
+~
+~
+16 -1 12404
+S
+#12403
+&gPassage Through The Willows&n~
+&y Before you lies a &Kpath &ylined with &GWe&gepi&Gng &gWi&Gll&gow &yTrees.  Their branches sway in the warm breeze.  The faint rustling of the branches fills you with an unusual sense of calm.&n
+~
+71 268435456 0 1 99 2
+D0
+&gPassage Through The Willows&n
+~
+~
+0 -1 12400
+D2
+&gPassage Through The Willows&n
+~
+~
+0 -1 12402
+S
+#12404
+&gBeyond The Willows&n~
+&yAs you leave the comfort of the &GWe&gepi&Gng &gWi&Gll&gow &yTrees, you find yourself pushing through thick brush on a path that has been long forgotten&n
+~
+71 268435712 0 1 99 3
+D1
+&g Passage Through The Willows&n
+~
+~
+0 -1 12402
+D3
+&WThe Gates of &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12405
+S
+#12405
+&WThe Gates of &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&wBefore you stands a wall of &ytangled roots&w that seem to form a gate concealing the wonderous mysteries that lie beyond.  Suddenly, a loud fluttering directs your attention southward.
+~
+71 268435456 0 1 99 2
+D1
+&gBeyond The Willows&n
+~
+~
+0 -1 12404
+D2
+&gGarden Path&n
+~
+~
+0 -1 12406
+D3
+&gIvy Lined Path&n
+~
+gate~
+5 12400 12411
+S
+#12406
+&pG&Pa&Wrd&Pe&pn&K Path&n~
+&wA small path lined with &glush &Pc&Co&Gl&Yor&Gf&Cu&Pl&w &pflowers&w leading deeper into a private garden.  As you proceed the fluttering gets louder.&n
+~
+71 268435460 0 1 99 2
+D0
+&WThe Gates of &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12405
+D2
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n
+~
+~
+0 -1 12407
+S
+#12407
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n~
+&wYou stumble upon a &ggarden&w like none you've ever seen.  Hundreds of &Ybu&Ctt&Perf&Cli&Yes&w of all sizes and colors fly overhead, forming a living canopy.  All around you are &gtrees&w and &gbushes&w adorned with crawling &ycaterpillars&w and hanging &Wcocoons&w.  &pFlowers&w fill every empty &ybranch&w, adding the final touch to this perfect example of the true beauty of nature.
+~
+71 268435456 0 1 99 2
+D0
+&pG&Pa&Wrd&Pe&pn&K Path&n
+~
+~
+0 -1 12406
+D2
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n
+~
+~
+0 -1 12410
+D3
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n
+~
+~
+0 -1 12408
+S
+#12408
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n~
+&wYou stumble upon a &ggarden&w like none you've ever seen.  Hundreds of &Ybu&Ctt&Perf&Cli&Yes&w of all sizes and colors fly overhead, forming a living canopy.  All around you are &gtrees&w and &gbushes&w adorned with crawling &ycaterpillars&w and hanging &Wcocoons&w.  &pFlowers&w fill every empty &ybranch&w, adding the final touch to this perfect example of the true beauty of nature.
+~
+71 268435456 0 1 99 2
+D1
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n
+~
+~
+0 -1 12407
+D2
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n
+~
+~
+0 -1 12409
+S
+#12409
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n~
+&wYou stumble upon a &ggarden&w like none you've ever seen.  Hundreds of &Ybu&Ctt&Perf&Cli&Yes&w of all sizes and colors fly overhead, forming a living canopy.  All around you are &gtrees&w and &gbushes&w adorned with crawling &ycaterpillars&w and hanging &Wcocoons&w.  &pFlowers&w fill every empty &ybranch&w, adding the final touch to this perfect example of the true beauty of nature.
+~
+71 268435456 0 1 99 2
+D0
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n
+~
+~
+0 -1 12408
+D1
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n
+~
+~
+0 -1 12410
+S
+#12410
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n~
+&wYou stumble upon a &ggarden&w like none you've ever seen.  Hundreds of &Ybu&Ctt&Perf&Cli&Yes&w of all sizes and colors fly overhead, forming a living canopy.  All around you are &gtrees&w and &gbushes&w adorned with crawling &ycaterpillars&w and hanging &Wcocoons&w.  &pFlowers&w fill every empty &ybranch&w, adding the final touch to this perfect example of the true beauty of nature.
+~
+71 268435456 0 1 99 2
+D0
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n
+~
+~
+0 -1 12407
+D3
+&wCanopy of &YBu&Ctt&Perf&Cli&Yes&n
+~
+~
+0 -1 12409
+S
+#12411
+&gIvy Lined Path&n~
+&gYou are walking through a tunnel of pure green ivy.  Everything around you seems to be in constant motion, as the vines twist and turn and...&GREACH OUT FOR YOU!&n
+~
+71 268435456 0 1 99 3
+D1
+&WThe Gates of &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+gate~
+1 0 12405
+D3
+&gIvy Lined Path&n
+~
+~
+0 -1 12412
+S
+#12412
+&gIvy Lined Path&n~
+&gYou are walking through a tunnel of pure green ivy.  Everything around you seems to be in constant motion, as the vines twist and turn and...&GREACH OUT FOR YOU!&n
+~
+71 268435456 0 1 99 3
+D1
+&gIvy Lined Path&n
+~
+~
+0 -1 12411
+D3
+&gIvy Lined Path&n
+~
+~
+0 -1 12413
+S
+#12413
+&gIvy Lined Path&n~
+&gYou are walking through a tunnel of pure green ivy.  Everything around you seems to be in constant motion, as the vines twist and turn and...&GREACH OUT FOR YOU!&n
+~
+71 268435456 0 1 99 3
+D0
+&gIvy Line Path&n
+~
+~
+0 -1 12414
+D1
+&gIvy Lined Path&n
+~
+~
+0 -1 12412
+S
+#12414
+&gIvy Lined Path&n~
+&gYou are walking through a tunnel of pure green ivy.  Everything around you seems to be in constant motion, as the vines twist and turn and...&GREACH OUT FOR YOU!&n
+~
+71 268435456 0 1 99 3
+D0
+&gIvy Lined Path&n
+~
+~
+0 -1 12415
+D2
+&gIvy Lined Path
+~
+~
+0 -1 12413
+D3
+&GIvy's &gSecret &GHiding &gSpot&n
+~
+ivy door~
+17 0 12417
+S
+#12415
+&gIvy Lined Path&n~
+&gYou are walking through a tunnel of pure green ivy.  Everything around you seems to be in constant motion, as the vines twist and turn and...&GREACH OUT FOR YOU!&n
+~
+71 268435456 0 1 99 3
+D2
+&gIvy Lined Path&n
+~
+~
+0 -1 12414
+D3
+&gA Fork in the Path&n
+~
+~
+0 -1 12416
+S
+#12416
+&gA Fork in the Path&n~
+&yYou have come to a fork in the path.  To the west you see a &gclearing&y and to the north a &Kcobblestone&y path.&n
+~
+71 268435460 0 1 99 2
+D0
+&KCobblestone Path&n
+~
+~
+0 -1 12418
+D1
+&gIvy Lined Path&n
+~
+~
+0 -1 12415
+D3
+Entrance to the Woodland Sanctuary
+~
+~
+0 -1 12419
+S
+#12417
+&gI&Gv&gy&g's &GGrove &gof &GSolemn &gThought&n~
+&gI&Gv&gy&y comes here to mourn her lost &rlove &KT&wy&Ww&Gr&Wo&wt&Kh&y.  The only man she has ever &rloved&y, or will &rlove&y.  He gave her his &rheart&y, then took it away and gave it to another.&n
+~
+71 268435456 0 1 99 2
+D1
+&gIvy Lined Path&n
+~
+ivy door~
+1 0 12414
+S
+#12418
+&KCobblestone Path&n~
+&KThis path leads to the city of &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&K.  Most do not know about this city and the one's that do, choose to keep it's name quiet, for they do not want the &cmy&Cs&Wti&Cc&cal&K wonders to disappear.&n
+~
+71 268435460 0 1 99 2
+D0
+&KCobblestone Path&n
+~
+~
+0 -1 12461
+D2
+&gA Fork in the Path&n
+~
+~
+0 -1 12416
+S
+#12419
+&gEntrance to the &yWood&gland &WSan&gctu&Wary&n~
+&yYou have entered a large &gmeadow&y at &Ydawn&y.  As the &Ysun&y rises on the horizon, you see the &Wglistening&y of morning &Wdew&y all around you.  The morning &Ylight&y brings forth the endless &bc&po&rl&yo&gr&bs&y of the &gtrees&y, &Gbushes&y and wild &pflowers&y.  A &ccrystal&y clear stream flows off into the distance.  At the far end of the meadow you see a colossal oak &gtree&y that seems to be home to many woodland creatures.&n
+~
+71 268435456 0 1 99 2
+D0
+&WBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n
+~
+~
+0 -1 12421
+D1
+&gA Fork in the Path&n
+~
+~
+0 -1 12416
+D3
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12420
+S
+#12420
+&yWood&gland &WSan&gctu&Wary&n~
+&yThe &gmeadow&y is home to many strange and exotic &gplants&y and animals, all living in perfect &Yharmony&y.  As you enter you feel an &poverwhelming&y sense of balance and &Wpeace&y.  All is right in the world, at least for now.&n
+~
+71 268435456 0 1 99 2
+D1
+&gEntrance to the Woodland Sanctuary&n
+~
+~
+0 -1 12419
+D3
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12447
+S
+#12421
+&wBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n~
+&wYou are walking along a &cc&Cry&Ws&Cta&cl &Wclear &Bs&bt&Wre&ba&Bm&w.  The &Bwater&W sparkles &wlike di&Wam&won&Wds&w and as the &Bwater&w flows northward, a &ch&Car&Wm&Con&cy&w fills the air&n
+~
+71 268435456 0 1 99 2
+D0
+&wBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n
+~
+~
+0 -1 12422
+D2
+&gEntrance to the &yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12419
+S
+#12422
+&wBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n~
+&wYou are walking along a &cc&Cry&Ws&Cta&cl &Wclear &Bs&bt&Wre&ba&Bm&w.  The &Bwater&W sparkles &wlike di&Wam&won&Wds&w and as the &Bwater&w flows northward, a &ch&Car&Wm&Con&cy&w fills the air&n
+~
+71 268435456 0 1 99 2
+D1
+&WBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n
+~
+~
+0 -1 12423
+D2
+&WBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n
+~
+~
+0 -1 12421
+S
+#12423
+&wBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n~
+&wYou are walking along a &cc&Cry&Ws&Cta&cl &Wclear &Bs&bt&Wre&ba&Bm&w.  The &Bwater&W sparkles &wlike di&Wam&won&Wds&w and as the &Bwater&w flows northward, a &ch&Car&Wm&Con&cy&w fills the air&n
+~
+71 268435456 0 1 99 2
+D0
+&wBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n
+~
+~
+0 -1 12424
+D3
+&wBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n
+~
+~
+0 -1 12422
+S
+#12424
+&wBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n~
+&wYou are walking along a &cc&Cry&Ws&Cta&cl &Wclear &Bs&bt&Wre&ba&Bm&w.  You notice a waterfall up ahead.  Could it be the &BWat&ber F&Ball &bde &BMu&wsi&Bca&w?  You recall a great tale told to you once, about a musical &Bwater&w fall, where all music is created.&n
+~
+71 268435456 0 1 99 2
+D0
+&wApproaching a &BWat&ber F&Ball&n
+~
+~
+0 -1 12425
+D2
+&WBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n
+~
+~
+0 -1 12423
+S
+#12425
+&wApproaching the &BWat&ber F&Ball &bdi &BMu&wsi&Bca&n~
+&wThe &bw&Ba&Wt&Be&br&w becomes quite shallow and much quicker here.  You see the &Bw&ba&Wt&be&Br&w disappear over the &Kr&wo&Kc&wk&Ks&w in the distance.&n
+~
+71 268435456 0 1 99 2
+D0
+&wApproaching a &BWat&ber F&Ball&n
+~
+~
+0 -1 12426
+D2
+&wBy the &BRu&bsc&We&bl&Blo &Wdi &bA&Brm&Wo&Bni&ba&n
+~
+~
+0 -1 12424
+S
+#12426
+&wNear the Edge of the &BWat&ber F&Ball &bdi &BMu&wsi&Bca&n~
+&wThe quiet &bs&Bt&Wre&Ba&bm&w has turned to raging rapids.  Strangely, you are drawn to move on by the hypnotic &cm&Ce&Wlo&Cd&cy&w of the &bw&Ba&Wt&Be&br&w crashing onto the &Kr&wo&Kc&wk&Ks&w ahead.&n
+~
+71 268435456 0 1 99 2
+D0
+&wEdge of a &BWat&ber F&Ball&n
+~
+~
+0 -1 12427
+D2
+&wApproaching a &BWat&ber F&Ball&n
+~
+~
+0 -1 12425
+S
+#12427
+&wEdge of the &BWat&ber F&Ball &bdi &BMu&wsi&Bca&n~
+&wYou are standing at the top of a beautiful &Bwat&berf&Ball&w.  A vivid &pr&Ba&Gi&Yn&Rb&ro&Pw&w stretches through the &Csky&w over head.  Birds seem to swoop through the air and sing along with the rhythmic beat of the &bw&Ba&Wt&Be&br&w crashing onto the rocks below.  This place brings &yn&Ya&Gtu&Yr&ye&W'&ys&w beauty alive in a combination of &Bc&Go&Yl&Ro&Pr&w and music.&n
+~
+71 268435456 0 1 99 5
+D2
+&wApproaching a &BWat&ber F&Ball&n
+~
+~
+0 -1 12426
+D5
+&wOn the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12428
+S
+#12428
+&wOn the &BWat&ber F&Ball &bdi &BMu&wsi&Bca&n~
+&wA small path leads you down the side of the &Bwat&berf&Ball&w.  The &ys&Yu&yn&Ylight&w shines into the &Cm&Wi&Cst&w below forming what looks like a &Wprismatic cloud&w.  THe &Cb&ce&Wau&ct&Cy&w of this place is almost overwhelming.&n
+~
+71 268566528 0 1 99 5
+D2
+&wBehind &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+16 -1 12429
+D4
+&wEdge of a &BWat&ber F&Wall&n
+~
+~
+0 -1 12427
+D5
+&wOn the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12432
+S
+#12429
+&wBehind the &BWat&ber F&Ball &bdi &BMu&wsi&Bca&n~
+&wYou have stumbled upon the secret hideaways of the &BGo&bdd&Bes&bse&Bs&w of &BMu&wsi&Bca&w.  It is within these &Kstone&w walls that the great music is composed and shared with &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&w and the worlds beyond it's gates. Enjoy the music and your visit.&n
+~
+71 268435464 0 1 99 1
+D0
+&wOn the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12428
+D1
+&KSymphony &Win &KBl&Wa&Kck a&Wn&Kd &WWh&Ki&Wte&n
+~
+~
+0 -1 12430
+D3
+&YRh&ya&Yps&yo&Ydy &yin &YG&yo&Yld&n
+~
+~
+0 -1 12431
+S
+#12430
+&KSymphony &Win &KBl&Wa&Kck a&Wn&Kd &WWh&Ki&Wte&n~
+&KSi&Wn&Kfo&Wn&Kia, &wthe &Wgo&Kd&wd&Ke&Wss&w of &Kj&Wa&Kzz&w dwells in this hidden hideway.  It is here that she creates her wonderful &Kmu&Wsic&Kal&w notes, then &Wst&Krin&Wgs&w them together for the whole world to &rlove&w.  She &rloves&w parties and is always ready for a &KCar&Wni&Kval&w.  Won't you &Win&Kvi&Wte&n her to the next one?
+~
+71 268435464 0 1 99 1
+D3
+&wBehind &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12429
+S
+#12431
+&YRh&ya&Yps&yo&Ydy &yin &YG&yo&Yld&n~
+&wWelcome &YAr&yet&Yha&yti&Yna&y's &whideway.  It is here that all the &Ys&yo&Yul&yfu&Yl&w music &Yn&yo&Ytes&w are created.  The walls are covered in &yg&Yo&yl&Yd&w and a thousand candles &Yl&yu&Ymin&ya&Yte&w the room.  It looks as if all the &ys&Yt&yar&Ys&w have come to this very place to rest until the next clear &Knight&w.  And then the &Ys&yt&Yar&ys&w can dance on the &yw&Ya&yves&w of &Ys&yo&Yul&w music!&n
+~
+71 268435464 0 1 99 1
+D1
+&wBehind &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12429
+S
+#12432
+&w On the &BWat&ber F&Ball &bdi &BMu&wsi&Bca&n~
+&wA small path leads you down the side of the &Bwat&berf&Ball&w.  The &ys&Yu&yn&Ylight&w shines into the &Cm&Wi&Cst&w below forming what looks like a &Wprismatic cloud&w.  THe &Cb&ce&Wau&ct&Cy&w of this place is almost overwhelming.&n
+~
+71 268566528 0 1 99 5
+D2
+&wBehind the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+16 -1 12433
+D4
+&wOn the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12428
+D5
+&wOn the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12436
+S
+#12433
+&wBehind the &BWat&ber F&Ball &bdi &BMu&wsi&Bca&n~
+&wYou have stumbled upon the secret hideaways of the &BGo&bdd&Bes&bse&Bs&w of &BMu&wsi&Bca&w.  It is within these &Kstone&w walls that great music is composed and shared with &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&w and the worlds beyond it's gates. Enjoy the music and your visit.&n
+~
+71 268435464 0 1 99 1
+D0
+&wOn the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12432
+D1
+&BPre&bl&Bude &bin &BB&bl&Bue&n
+~
+~
+0 -1 12435
+D3
+&pLa&wv&pen&wd&per &wS&per&wen&pad&we&n
+~
+~
+0 -1 12434
+S
+#12434
+&pLa&wv&pen&wd&per &wS&per&wen&pad&we~
+&wHere in &pVi&wo&pla&w'&ps&w hideaway the world's greatest &wc&pla&wss&pic&wal composers find their inspiration.  &pVi&wo&pla&w is their muse.  The room is adorned with many thank you &pgi&wf&pts&w, but none compare to the &pg&wi&pft&w that &pVi&wo&pla&w has given to the world.&n
+~
+71 268435464 0 1 99 1
+D1
+&wBehind the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12433
+S
+#12435
+&BPr&be&Wl&bu&Bde &bin &BB&Wl&bu&Be&n~
+The &bb&Bl&Wu&be&bs&w are created here in &BZa&bf&Wf&bi&Bra&W'&bs&w hideaway.  In a corner you see &Bwater&w flowing from a spout in the wall into a massive &Wwhite&w marble fountain.  When you go over and look into it, you see the &rheart &Bbreaking &wmemories of life's &bsaddest&w moments.  It is if the fountain contains all the &ctears&w that the world has shed.
+~
+71 268435464 0 1 99 1
+D3
+&wBehind the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12433
+S
+#12436
+&wDescending towards &CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wAs you reach the bottom of the &Bwaterfall&w, you enter the &Wmist&w on the surface of small &Clake&w.  The &Ysun's&w rays reflect off the droplets of &Cwater&w like dancing &Bc&Go&Yl&ro&Rr&Ys&w in the morning &Wlight&w.  Strangely, the extreme force of the crashing falls is absorbed by the &Cwater&w of the lake, leaving it's surface as smooth as a pane of &Wglass&w.&n
+~
+71 268566532 0 1 99 5
+D4
+&wOn the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12432
+D5
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n
+~
+~
+0 -1 12437
+S
+#12437
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wThe warm, &cre&Cfr&Wes&Chi&cng&w water relaxes you as you enjoy the almost &Ch&cy&Wp&Cno&Wt&ci&Cc&w dance of the &cm&Ca&Wri&Cn&ce &wlife.&n
+~
+71 268566528 0 1 99 8
+D0
+&BLake&n
+~
+~
+0 -1 12438
+D4
+&wOn the &BWat&ber F&Ball &bde &BMu&wsi&Bca&n
+~
+~
+0 -1 12436
+S
+#12438
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wThe warm, &cre&Cfr&Wes&Chi&cng&w water relaxes you as you enjoy the almost &Ch&cy&Wp&Cno&Wt&ci&Cc&w dance of the &cm&Ca&Wri&Cn&ce &wlife.&n
+~
+71 268566528 0 1 99 8
+D0
+&BLake&n
+~
+~
+16 -1 12446
+D1
+&BLake&n
+~
+~
+0 -1 12445
+D2
+&BLake&n
+~
+~
+0 -1 12437
+D3
+&BLake&n
+~
+~
+0 -1 12439
+S
+#12439
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wThe warm, &cre&Cfr&Wes&Chi&cng&w water relaxes you as you enjoy the almost &Ch&cy&Wp&Cno&Wt&ci&Cc&w dance of the &cm&Ca&Wri&Cn&ce &wlife.&n
+~
+71 268566528 0 1 99 8
+D0
+&BLake&n
+~
+~
+0 -1 12440
+D1
+&BLake&n
+~
+~
+0 -1 12438
+S
+#12440
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wThe warm, &cre&Cfr&Wes&Chi&cng&w water relaxes you as you enjoy the almost &Ch&cy&Wp&Cno&Wt&ci&Cc&w dance of the &cm&Ca&Wri&Cn&ce &wlife.&n
+~
+71 268566528 0 1 99 8
+D0
+&BLake&n
+~
+~
+0 -1 12441
+D2
+&BLake&n
+~
+~
+0 -1 12439
+S
+#12441
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wThe warm, &cre&Cfr&Wes&Chi&cng&w water relaxes you as you enjoy the almost &Ch&cy&Wp&Cno&Wt&ci&Cc&w dance of the &cm&Ca&Wri&Cn&ce &wlife.&n
+~
+71 268566528 0 1 99 8
+D1
+&BLake&n
+~
+~
+0 -1 12442
+D2
+&BLake&n
+~
+~
+0 -1 12440
+S
+#12442
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wThe warm, &cre&Cfr&Wes&Chi&cng&w water relaxes you as you enjoy the almost &Ch&cy&Wp&Cno&Wt&ci&Cc&w dance of the &cm&Ca&Wri&Cn&ce &wlife.&n
+~
+71 268566528 0 1 99 8
+D1
+&BLake&n
+~
+~
+0 -1 12443
+D3
+&BLake&n
+~
+~
+0 -1 12441
+S
+#12443
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wThe warm, &cre&Cfr&Wes&Chi&cng&w water relaxes you as you enjoy the almost &Ch&cy&Wp&Cno&Wt&ci&Cc&w dance of the &cm&Ca&Wri&Cn&ce &wlife.&n
+~
+71 268566528 0 1 99 8
+D2
+&BLake&n
+~
+~
+0 -1 12444
+D3
+&BLake&n
+~
+~
+0 -1 12442
+S
+#12444
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wThe warm, &cre&Cfr&Wes&Chi&cng&w water relaxes you as you enjoy the almost &Ch&cy&Wp&Cno&Wt&ci&Cc&w dance of the &cm&Ca&Wri&Cn&ce &wlife.&n
+~
+71 268566528 0 1 99 8
+D0
+&BLake&n
+~
+~
+0 -1 12443
+D2
+&BLake&n
+~
+~
+0 -1 12445
+S
+#12445
+&CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&wThe warm, &cre&Cfr&Wes&Chi&cng&w water relaxes you as you enjoy the almost &Ch&cy&Wp&Cno&Wt&ci&Cc&w dance of the &cm&Ca&Wri&Cn&ce &wlife.&n
+~
+71 268566528 0 1 99 8
+D0
+&BLake&n
+~
+~
+0 -1 12444
+D3
+&BLake&n
+~
+~
+0 -1 12438
+S
+#12446
+&cMa&Cri&Wc&Cel&cla&W'&Cs &CUn&cde&Wrw&cat&Cer &cA&Cb&Wo&Cd&ce&n~
+&wThis is where &cMa&Cri&Wc&Cel&cla&w likes to spend her time.  The room is surrounded by &cseaweed&w walls and in the middle of the room is a &pt&bh&rr&yo&cn&ge&w made of &pc&bo&rl&yo&cr&gf&pu&bl&w coral.&n
+~
+71 268566528 0 1 99 8
+D2
+&BLake&n
+~
+~
+0 -1 12438
+S
+#12447
+&yWood&gland &WSan&gctu&Wary&n~
+&yThe &gmeadow&y is home to many strange and exotic &gplants&y and animals, all living in perfect &Yharmony&y.  As you enter you feel an &poverwhelming&y sense of balance and &Wpeace&y.  All is right in the world, at least for now.&n
+~
+71 268435456 0 1 99 2
+D0
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12448
+D1
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12420
+S
+#12448
+&yWood&gland &WSan&gctu&Wary&n~
+&yThe &gmeadow&y is home to many strange and exotic &gplants&y and animals, all living in perfect &Yharmony&y.  As you enter you feel an &poverwhelming&y sense of balance and &Wpeace&y.  All is right in the world, at least for now.&n
+~
+71 268435456 0 1 99 2
+D0
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12449
+D2
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12447
+S
+#12449
+&yWood&gland &WSan&gctu&Wary&n~
+&yThe &gmeadow&y is home to many strange and exotic &gplants&y and animals, all living in perfect &Yharmony&y.  As you enter you feel an &poverwhelming&y sense of balance and &Wpeace&y.  All is right in the world, at least for now.&n
+~
+71 268435456 0 1 99 2
+D2
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12448
+D3
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12450
+S
+#12450
+&yWood&gland &WSan&gctu&Wary&n~
+&yThe &gmeadow&y is home to many strange and exotic &gplants&y and animals, all living in perfect &Yharmony&y.  As you enter you feel an &poverwhelming&y sense of balance and &Wpeace&y.  All is right in the world, except for several small spider &wwebs&y to the north.&n
+~
+71 268435460 0 1 99 2
+D0
+&KS&wp&Wid&we&Kr W&we&Kb&n
+~
+~
+16 -1 12451
+D1
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12449
+D3
+&yBase of the &GO&ga&Gk &gT&Gr&ge&Ge&n
+~
+~
+0 -1 12454
+S
+#12451
+&KS&wp&Wid&Ker W&we&Kb&n~
+&KHow &wunlucky &Wfor &Kyou. &wYou &Whave &Kstumbled &winto &Wa &Kmassive &wspider &Wweb.  &KYou &wwonder &Wif &Kthe &wspider &Kis &whome&W....&wjust &Wthen &Kthe &wspider &Wweb &Kstarts &wto &Wshake.&n
+~
+71 268435461 0 1 99 4
+D0
+&WS&Kp&wu&Wn &KS&Wi&wlk C&Wo&Ktt&Wa&wge
+~
+door~
+5 12407 12452
+D2
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12450
+S
+#12452
+&WS&Kp&wu&Wn &KS&Wi&wlk &wC&Wo&Ktt&Wa&wge&n~
+&KYou &whave &Wfound &Kthe &whidden &Wcottage &Kof &KAr&ra&Rc&rh&Kne.  &wIt &Wis &Kcovered &wwith &Wall &Kshapes &wand &Wsizes &Kof &wspider &Wwebs. &KAr&ra&Rc&rh&Kne &wis &Wthe &Kmistress &wthat &Wstole &GI&gv&Gy&g'&Gs &Kone &wtrue &rlove &KT&wy&Ww&Gr&Wo&wt&Kh.  &wThey &Whad &Ksome &Wgood &Ktimes &wtogether, &Wbut &Kthen &wshe &Wgrew &Kbored &wof &Whim &Kand &wate &Whim &Kfor &wdinner. &WMay &Kyour &wfate &Wnot &Kbe &wthe &Wsame.&n
+~
+71 268435457 0 1 99 4
+D2
+&KS&wp&Wid&we&Kr W&we&Kb&n
+~
+door~
+1 0 12451
+S
+#12453
+&RWatch That First Step...It's a Doozie&n~
+&RHmm, guess it was your day to die!&n
+~
+71 6 0 1 99 2
+S
+#12454
+&yInside the Base of the &GO&ga&Gk &gT&Gr&ge&Ge&n~
+&yYou have entered the base of the &Goak &gtree.  Inside you see a &gmaze&y of twisted timber stretching into the &Kdarkness&y above.  No one path will take you any further and climbing will prove to be a &Gdifficult&y, yet &Ypossible&y task.&n
+~
+71 268435465 0 1 99 5
+D1
+&yWood&gland &WSan&gctu&Wary&n
+~
+~
+0 -1 12450
+D4
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n
+~
+~
+0 -1 12455
+S
+#12455
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n~
+&yThe &Ytwisting&y and &Gturning&y limbs continue to stretch off into all &Ydifferent&y directions.  The only &Wclear&y opening is upwards, which still proves to be a &Gdifficult&y climb.&n
+~
+71 268435469 0 1 99 5
+D1
+&PSe&Cr&Yaf&Ci&Pna&W's &CR&Yoo&Cm&n
+~
+~
+16 -1 12456
+D3
+&GVi&Yr&Wgi&Yn&Gia&W's &GR&Yoo&Gm&n
+~
+~
+16 -1 12457
+D4
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n
+~
+~
+0 -1 12458
+D5
+&yBase of the &GO&ga&Gk &gT&Gr&ge&Ge&n
+~
+~
+0 -1 12454
+S
+#12456
+&PPr&Cim&Yav&Wer&Ya A&Cbo&Pde'&n~
+&wThis branch holds the essence of &PS&Cp&Yri&Cn&Pg&w.  Everything here is coming to &Wlife&w.  &GSaplings&w are stretching their &Gbranches&w for the first time.  The &Cf&Yl&Po&Ww&Pe&Yr&Cs&w are beginning to &Pbud&w and the woodland creatures are taking their first steps.  Just being in this space makes you feel &Wrefreshed&w and &Cy&Po&Yu&Pn&Cg&w again.&n
+~
+71 268435464 0 1 99 2
+D3
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n
+~
+~
+0 -1 12455
+S
+#12457
+&GE&Ys&Wta&Yt&Ge&W' &YC&Got&Wt&Gag&Ye&n~
+&wThis branch holds the essence of &GS&Yu&Wmm&Ye&Gr&w.  As you enter, you feel the &Rwarmth&w of the &Ysun&w on your face.  Everything around you is full of &Ylife&w.  The &Gtrees&w are tall and strong, the &Yflowers&w are in full bloom and the animals move playfully around enjoying the simple &Ypl&Gea&Ws&Gur&Yes&w of &Gnature's&w bounty.&n
+~
+71 268435468 0 1 99 2
+D1
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n
+~
+~
+0 -1 12455
+S
+#12458
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n~
+&yThe &Ytwisting&y and &Rturning&y timbers continue to stretch off into all different directions.  The only &Cclear&y opening is upwards which still proves to be a &rdifficult&y climb.&n
+~
+71 268435469 0 1 99 5
+D1
+&rC&Rl&Yai&Rr&re&W's &RR&Yoo&Rm&n
+~
+~
+16 -1 12460
+D3
+&cE&Cm&Wil&Ci&ca&W's &CR&Woo&Cm&n
+~
+~
+16 -1 12459
+D4
+&CH&Wal&Co&W's &CR&Woo&Cm&n
+~
+~
+0 -1 12463
+D5
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n
+~
+~
+0 -1 12455
+S
+#12459
+&cI&Cn&Kv&we&Kr&Cn&co&K' &CC&ch&wal&ce&Ct&n~
+&cThis branch contains the essence of &CW&ci&Knt&ce&Cr&c.  There is a &Wbitter&c cold chill in the air.  Your own breath seems to &Cfreeze&c and fall to the ground before your eyes.  Everything here is covered in &Cice&c and &Wsnow&c.  The animals are hidden away and the plants are all &Wbarren&c.  The cold, &Cicy&c lifelessness is only shattered by the thought of &CSpring&c bringing new &Wlife&c to such a seemingly &Wdesolate&c wasteland.&n
+~
+71 268435468 0 1 99 2
+D1
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n
+~
+~
+0 -1 12458
+S
+#12460
+&rAu&Rt&Yu&Rn&rno&K' &rC&Ra&Yb&Ri&rn&n~
+&KThis branch holds the essence of &rA&Ru&Ytu&Rm&rn&K.  The playfulness of &Gs&Yu&Wmm&Ye&Gr&K has now passed and the &rbr&Ril&Yli&Ran&rce&K of &rF&Ya&Rll&K has set the &Gtrees&K and &gplants&K &ra&Rb&Yla&Rz&re&K with color.  The beauty of &ynature&K sends a relaxing feeling through your &Wbones&K that forces you to stop and think about the &rme&Rm&Yor&Ri&res&K of your own experiences.&n
+~
+71 268435468 0 1 99 2
+D3
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n
+~
+~
+0 -1 12458
+S
+#12461
+&KCobblestone Path&n~
+&KThis path leads to the city of &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&K.  Most do not know about this city and the one's that do, choos to keep it's name quiet.  For they do not want the &cmy&Cst&Wi&Cca&cl&K wonders to disappear.&n
+~
+71 268435460 0 1 99 2
+D0
+&WEntering &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12462
+D2
+&KCobblestone Path&n
+~
+~
+0 -1 12418
+S
+#12462
+&WEntering &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&wBefore you are the most &yornate &wand &Pbeautiful&w gates you have ever laid eyes on.  They are hung between two &ylarge &goak &Gtrees&w in the center of a wall of tall, thick &gbushes&w.  The craftsmanship is absolutely breathtaking; depicting all sorts of &yanimals&w and &Gplants&w with perfect detail.  These gates were made to pay homage to the &Gtrue &gbeauty &wof &ynature&w.  As you approach the gates, they &Wopen&w all by themselves.&n
+~
+71 268435460 0 1 99 2
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12465
+D2
+&KCobblestone Path&n
+~
+~
+0 -1 12461
+S
+#12463
+&CCa&cn&Wce&cl&Clo&W' &cdi &CC&ci&We&cl&Co&W'&n~
+&KYou have reached what you thought would be the top of the tree but instead you have entered a strange pocket in space.  There is no floor, ceiling or walls.  It is completely dark, except for a &Wsoft &Cblue &Wlight&K that seems to come from nowhere.  It shines down on a door that is just floating in front of you.  The door has no knob, nor keyhole and a sign above it reads, &C"Passage is granted only to those who are prepared to move on from this world."&n
+~
+71 268435468 0 1 99 0
+D0
+&rP&Ka&rs&Ks&ra&Kg&re&K &KB&re&Ky&ro&Kn&rd&n
+~
+door~
+13 12417 12453
+D5
+&yUp in &gt&Gh&ge &GT&gr&Ge&ge&n
+~
+~
+0 -1 12458
+S
+#12464
+&PA Ma&Gss&Pive P&Gi&Pnk R&Go&Pse B&Gu&Psh&n~
+&gYou are pushing your way through a tangled mess of &rthorns&g and &Gbranches&g.  Every movement you make &Rtears&g into your flesh.  Who knew something of such &Rbeauty&g could cause such &rpain.&n
+~
+71 268435460 0 1 99 5
+D0
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12485
+D1
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12487
+D2
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12481
+D3
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12483
+D4
+&PP&Wi&Pnk R&Wo&Pse Co&Wtt&Page&n
+~
+~
+0 -1 12499
+S
+#12465
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yEntering this city is like walking into a &Cd&Pr&Ge&Pa&Cm&y.  Everything here is &ppeaceful&y and &Ppleasant&y.  The &Kstone &wpath&y is lined with &Ysandstone&y benches and an &Kiron&y fence covered in &Givy&y.  The path surrounds the beautiful &rr&Go&rse&y garden that occupies the center of the city.  Elevated above the garden is a &Pp&Wi&Pnk &Pr&Wo&Pse&y as large a small cottage.  The natural &Cbeauty&y of this place seems never ending.&n
+~
+71 268435460 0 1 99 1
+D0
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12481
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12480
+D2
+&WEntering &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12462
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12466
+S
+#12466
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12465
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12467
+S
+#12467
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12468
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12466
+D2
+A Cottage
+~
+~
+0 -1 12498
+D3
+A Cottage
+~
+~
+0 -1 12489
+S
+#12468
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12469
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12467
+S
+#12469
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12470
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12468
+D3
+A Cottage
+~
+~
+0 -1 12490
+S
+#12470
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12471
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12469
+S
+#12471
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12472
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12470
+D3
+A Cottage
+~
+~
+0 -1 12491
+S
+#12472
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+A Cottage
+~
+~
+0 -1 12492
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12473
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12471
+S
+#12473
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12474
+D2
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12485
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12472
+S
+#12474
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+A Cottage 
+~
+~
+0 -1 12493
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12475
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12473
+S
+#12475
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D1
+A Cottage
+~
+~
+0 -1 12494
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12476
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12474
+S
+#12476
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12475
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12477
+S
+#12477
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12476
+D1
+A Cottage
+~
+~
+0 -1 12495
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12478
+S
+#12478
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12477
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12479
+S
+#12479
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12478
+D1
+A Cottage
+~
+~
+0 -1 12496
+D2
+A Cottage
+~
+~
+0 -1 12497
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12480
+S
+#12480
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &yThrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n~
+&yThe &ws&Kt&wo&Kn&we &Kp&wa&Kt&wh&y through the city continues, leading you around the &Wr&Po&Ws&Pe &Ggarden&y and to the several small &Yc&yo&Yt&yt&Ya&yg&Ye&ys of &pB&Pe&wl&Wlo Te&wr&Pr&pa&y.&n
+~
+71 268435460 0 1 99 1
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12479
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12465
+S
+#12481
+&rR&go&rse Gar&gd&ren&n~
+&gYou are surrounded by a &Yv&wi&Yr&wt&Yu&wa&Yl&n &pk&Ka&pl&Ke&pi&Kd&po&Ks&pc&Ko&pp&Ke&g of &Rc&Yo&Gl&Bo&Pr&g.  There are &Rr&Yo&Gs&Be&Ps &gof all shapes and sizes that are growing so fast, they seem to &pc&bh&ra&Pn&Bg&Re&g before your very eyes.&n
+~
+71 268435456 0 1 99 3
+D0
+&PA Ma&Gss&Pive P&Gi&Pnk R&Go&Pse B&Gu&Psh&n
+~
+~
+0 -1 12464
+D1
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12488
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12465
+D3
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12482
+S
+#12482
+&rR&go&rse Gar&gd&ren&n~
+&gYou are surrounded by a &Yv&wi&Yr&wt&Yu&wa&Yl&n &pk&Ka&pl&Ke&pi&Kd&po&Ks&pc&Ko&pp&Ke&g of &Rc&Yo&Gl&Bo&Pr&g.  There are &Rr&Yo&Gs&Be&Ps &gof all shapes and sizes that are growing so fast, they seem to &pc&bh&ra&Pn&Bg&Re&g before your very eyes.&n
+~
+71 268435456 0 1 99 3
+D0
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12483
+D1
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12481
+S
+#12483
+&rR&go&rse Gar&gd&ren&n~
+&gYou are surrounded by a &Yv&wi&Yr&wt&Yu&wa&Yl&n &pk&Ka&pl&Ke&pi&Kd&po&Ks&pc&Ko&pp&Ke&g of &Rc&Yo&Gl&Bo&Pr&g.  There are &Rr&Yo&Gs&Be&Ps &gof all shapes and sizes that are growing so fast, they seem to &pc&bh&ra&Pn&Bg&Re&g before your very eyes.&n
+~
+71 268435456 0 1 99 3
+D0
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12484
+D1
+&PA Ma&Gss&Pive P&Gi&Pnk R&Go&Pse B&Gu&Psh&n
+~
+~
+0 -1 12464
+D2
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12482
+S
+#12484
+&rR&go&rse Gar&gd&ren&n~
+&gYou are surrounded by a &Yv&wi&Yr&wt&Yu&wa&Yl&n &pk&Ka&pl&Ke&pi&Kd&po&Ks&pc&Ko&pp&Ke&g of &Rc&Yo&Gl&Bo&Pr&g.  There are &Rr&Yo&Gs&Be&Ps &gof all shapes and sizes that are growing so fast, they seem to &pc&bh&ra&Pn&Bg&Re&g before your very eyes.&n
+~
+71 268435456 0 1 99 3
+D1
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12485
+D2
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12483
+S
+#12485
+&rR&go&rse Gar&gd&ren&n~
+&gYou are surrounded by a &Yv&wi&Yr&wt&Yu&wa&Yl&n &pk&Ka&pl&Ke&pi&Kd&po&Ks&pc&Ko&pp&Ke&g of &Rc&Yo&Gl&Bo&Pr&g.  There are &Rr&Yo&Gs&Be&Ps &gof all shapes and sizes that are growing so fast, they seem to &pc&bh&ra&Pn&Bg&Re&g before your very eyes.&n
+~
+71 268435456 0 1 99 3
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12473
+D1
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12486
+D2
+&PA Ma&Gss&Pive P&Gi&Pnk R&Go&Pse B&Gu&Psh&n
+~
+~
+0 -1 12464
+D3
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12484
+S
+#12486
+&rR&go&rse Gar&gd&ren&n~
+&gYou are surrounded by a &Yv&wi&Yr&wt&Yu&wa&Yl&n &pk&Ka&pl&Ke&pi&Kd&po&Ks&pc&Ko&pp&Ke&g of &Rc&Yo&Gl&Bo&Pr&g.  There are &Rr&Yo&Gs&Be&Ps &gof all shapes and sizes that are growing so fast, they seem to &pc&bh&ra&Pn&Bg&Re&g before your very eyes.&n
+~
+71 268435456 0 1 99 3
+D2
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12487
+D3
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12485
+S
+#12487
+&rR&go&rse Gar&gd&ren&n~
+&gYou are surrounded by a &Yv&wi&Yr&wt&Yu&wa&Yl&n &pk&Ka&pl&Ke&pi&Kd&po&Ks&pc&Ko&pp&Ke&g of &Rc&Yo&Gl&Bo&Pr&g.  There are &Rr&Yo&Gs&Be&Ps &gof all shapes and sizes that are growing so fast, they seem to &pc&bh&ra&Pn&Bg&Re&g before your very eyes.&n
+~
+71 268435456 0 1 99 3
+D0
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12486
+D2
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12488
+D3
+&PA Ma&Gss&Pive P&Gi&Pnk R&Go&Pse B&Gu&Psh&n
+~
+~
+0 -1 12464
+S
+#12488
+&rR&go&rse Gar&gd&ren&n~
+&gYou are surrounded by a &Yv&wi&Yr&wt&Yu&wa&Yl&n &pk&Ka&pl&Ke&pi&Kd&po&Ks&pc&Ko&pp&Ke&g of &Rc&Yo&Gl&Bo&Pr&g.  There are &Rr&Yo&Gs&Be&Ps &gof all shapes and sizes that are growing so fast, they seem to &pc&bh&ra&Pn&Bg&Re&g before your very eyes.&n
+~
+71 268435456 0 1 99 3
+D0
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12487
+D3
+&rR&go&rse Gar&gd&ren&n
+~
+~
+0 -1 12481
+S
+#12489
+&WC&po&Pt&Wt&Pa&pg&We &pdi &WIn&pte&Pl&Wli&Pg&pen&Wte&p'&n~
+&pThis room is full of &Pbooks&p and papers which are stacked on tables, packed into bookshelves and cover the floor.  You get the sense that the &Panswers&p to all of &Wlife's&p questions are contained somewhere in this clutter.  You see a woman sitting in the overstuffed chair that sits in the far &Pcorner.&p  She has read every line of every book.  She knows every &Panswer&p to every question, even the ones that are beyond your comprehension.  She reacts to your every move like she knew they were going to happen before you did.  Her knowledge is &Punsurpassed&p.  She has also studied every fighting style known to mankind.  She is ready for you, but the &Wquestion&p is are you ready for her?&n
+~
+71 268435468 0 1 99 0
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12467
+S
+#12490
+&WC&Go&gt&wt&ga&Gg&We &gdi &WO&Gn&ges&Gt&Wo&n~
+&wAs you enter, your &rblood&w pressure begins to rise.  The &ghair&w on the back of your neck stands on end and you feel like you are being watched.  Your &Gfear&w is realized when you see a &Wbeautiful&w woman staring at you from the far corner of the room.  She does not have a normal &ggaze&w.  This &Ggaze&w looks right through you to your &Wsoul&w.  &GHonesty&w is the best policy when dealing with her.  She knows the &gtruth&w, so choose your words and actions&W wisely&w.&n
+~
+71 268435468 0 1 99 0
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12469
+S
+#12491
+&WC&Bo&bt&Kt&ba&Bg&We &Kdi &WM&Bo&bra&Bl&Wi&n~
+&KYour stomach &Btwists&K and &bturns&K as you enter this cottage.  You are suddenly overcome by your own ideals.  A woman, who &Woddly&K reminds you of your mother, stands before you.  You have &Bvisions&K of your past and are immediately flooded with overwhelming &bmemories&K of the way you were brought up to live.  Have you maintained these &Wstandards&K or strayed from the path?  The time has come to face your worst enemy, your own &bconscience&K.  Your guide in this &Bjourney&K stands before you and is ready to give you a lesson on walking the path that you know in your &rheart&K is &btrue, &Bhonorable&K and &Wright&K.&n
+~
+71 268435468 0 1 99 0
+D1
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12471
+S
+#12492
+&YCo&yt&wt&ya&Yge &wdi &YPr&yop&wri&Yta&w'&n~
+&yUpon entering this room you are overwhelmed by a sense of true &Yw&ye&Ya&yl&Yt&yh&y.  Strangely, looking around, you see no &Yg&yo&Yl&yd, no &rj&Re&Yw&Ge&Bl&ps&y and no &Kartifacts&y.  &YWHERE ARE THE RICHES?!?!?&y  Just then a &Kelderly&y woman stands up from her rocking chair and stares into your &Beyes&y.  Looking back into her eyes you see a &Ybiography&y of her life.  You see &Ygood&y and &Kbad&y times; &Yhappiness&y and &Ksorrow&y; &Ypleasure&y and &Kpain&y.  You quickly realize the &Wvalue&y of the most overlooked aspects of one's life.  Prosperity is not measured in &Yg&yo&Yl&yd&y but rather in the little things we take and leave behind during our &Wlife's&y journey.&n
+~
+71 268435468 0 1 99 0
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12472
+S
+#12493
+&rC&Ro&Kt&Wt&Ka&Rg&re &Kdi &rIm&Rpr&Kz&Wi&Ka&Rli&rta&n~
+&KYou enter a strangely simple room.  The floors and ceiling are black and the walls are &Wwhite&K.  There is only one door and no &Wwindows&K.  There are two identical black and &Wwhite&K chairs in the center of the room.  One chair seems to be for you and the other is for &rGi&Ru&Ks&Wt&Ki&Rz&ria&K.  She is sitting in her chair.  As you approach she looks at you with an &Wemotionless&K face and says, "This is the hall of justice.  You are either &Wright&K or wrong.  I am the judge, the jury and the &rexecutioner&K, so &WDO NOT&K argue with me, because my word is &RFINAL!"&n
+~
+71 268435468 0 1 99 0
+D2
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12474
+S
+#12494
+&CC&Ko&wt&Wt&wa&Kg&Ce &Kdi &CMe&Kra&wv&Wig&Kio&Cso&n~
+&wWalking into this cottage is like walking into a &Cdream&w.  The &Gscenery&w, the &ycreatures&w and the &csmells&w all seem very familiar to you.  A place you have been many times in your &Wlife&w.  You have stepped into your own &Wd&Crea&Wm&w; that one safe and &Yhappy&w place we all have.  The place you go when the &Bworld&w seems to be caving in.  Somehow your &Yspecial&w sanctuary has become reality right before your &beyes&w.  You are overcome by an odd &Ch&Wappines&Cs&w that you have never before experienced.  You are standing in your own personal &Wheaven&w on earth.&n
+~
+71 268435468 0 1 99 0
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12475
+S
+#12495
+&pC&Ko&wt&Wt&wa&Kg&pe &Kdi &pC&Kr&we&Wde&wn&Kz&pa&n~
+&pStrange! You have stumbled upon a sort of &Wshrine&p, dedicated solely to &KYOU&p!  This room is filled with &wpaintings&p and &Ksculptures&p depicting some of your greatest victories.  There are &Wbooks&p telling the tales of your &wglorious&p and prosperous life.  You are the &Kenvy&p of everyone, the person we all strive to be.  You hardly notice the &Wwoman&p in the corner.  She gasps when she realizes it is really &KYOU&p!  She knows everything about you, even more than you remember.  Her stories lift your &Wspirits&p and make you feel like you can take on the &wworld.&n
+~
+71 268435468 0 1 99 0
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12477
+S
+#12496
+&KCo&wt&Wt&wa&Kge &Wdi &KDe&Wsi&Wd&wer&Kio&n~
+&WThis &wcottage &Kreminds &Wyou &wof &Ka &Wmagic &wshop.  &KThere &Ware &wshelves &Kcovering &Wall &wthe &Kwalls &Wand &wa &Kyoung &Wwoman &win &Kthe &Wcorner, &wsitting &Kbehind &Wa &wlarge &Kdesk.  &WThe &wshelves &Kare &Wfull &wof &Kstrange &Wlittle &wbottles.  &KEach &Wbottle &wis &Klabeled &Wwith &wthings &Klike "&WSh&wo&Wot&wi&Wng &KS&Wt&wa&Kr&W", "&GFour&g-&GLeaf&g Clover&W" &wand "&rL&Ra&rd&Ry &KBug&w".  &WThe &wwoman &Kis &Wstaring &woff &Kinto &Wspace &was &Kthough &Wshe &wis &Kconcentrating &Won &wsomeone's &Kevery &Wword, &wbut &Kyou &Wcan't &whear &Kanyone &Wtalking.  &wShe &Kis &Wlistening &wto &Kpeople's &Wdreams.  &wFor &Kshe &Wis &wcharge &Kof &Wbestowing &whope &Kin &Wtheir &whearts.  &KA &Wsign &wabove &Kher &Wdesk &wreads, &K"The &Wdreams &wof &Kyesterday, &Ware &wthe &Khopes &Wof &wtoday &Kand &Wthe &wrealities &Kof &Wtomorrow".&n
+~
+71 268435468 0 1 99 0
+D3
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12479
+S
+#12497
+&KCo&Pt&wt&Pa&Kge &wdi &KC&Pa&wl&Pm&Ka&n~
+&WWhen you enter this &Pcottage&W, the door slams &Kshut&W and disappears.  You hear the calming sounds of chirping &Pbirds&W, wind rustling through the &gleaves&W and &Bwater&W trickling over &Krocks&W in a shallow stream.  You are suddenly very relaxed and all your cares &wvanish&W.  You loose any sense of urgency regarding things in your &Plife&W.  You find yourself wanting to stay here &Kforever&W.  Good thing too, because there is no way &Pout.&n
+~
+71 268435468 0 1 99 0
+S
+#12498
+&rC&Ro&yt&Kt&ya&Rg&re &ydi &rA&Rr&Kdi&Rr&re&y'&n~
+&KAs you enter you sense a feeling of great &Rstrength&K and &rcourage&K.  You see paintings depicting all sorts of &yvictories&K from small &Rsacrifices&K to great &rbattles&K.  In each picture a single &Wwoman&K, standing &ystrong&K in the face of adversity.  You now find that &Wwoman&K standing in front of you.  She is looking, &Robserving&K and learning from your every move.  She is waiting to see what you have come for and &Rguarantee&K she will not back down from you either.&n
+~
+71 268435468 0 1 99 0
+D0
+&yThe &wS&Kt&wo&Kn&we &KP&wa&Kt&wh &ythrough &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&n
+~
+~
+0 -1 12467
+S
+#12499
+&PP&Wi&Pnk R&Wo&Pse Co&Wtt&Page&n~
+&YS&Gt&Yr&Ga&Yn&Gg&Ye&g...Somehow the center of this &Wr&Po&Ws&Pe&g is hollow.  It has grown to form some sort of cottage.  The huge &Pp&Wi&Pn&Wk&g petals of the rose form the walls and ceiling.  From above, hundreds of &Wc&Cr&Wy&Cs&Wt&Ca&Wl&Cs&g dangle, catching the sun's &Yl&Wi&Yg&Wh&Yt&g and projecting wonderful &w&rr&Ra&Yi&Gn&Bb&Po&pw&Ws&g all throughout the room.&n
+~
+71 12 0 1 99 5
+D5
+&PA Ma&Gss&Pive P&Gi&Pnk R&Go&Pse B&Gu&Psh&n
+~
+~
+0 -1 12464
+S
+$~
+#999999

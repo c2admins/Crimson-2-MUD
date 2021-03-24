@@ -1,0 +1,283 @@
+#20400
+mob titus~
+&CTitus&n~
+&CTitus stands here, prepared to give his life for the Matron&n
+~
+&pOne of the few of Kiransalee's offspring who has been granted free will, this colossal figure still protects his leige without a second thought.  His power is undenyable, and his loyalty unquestioned.  A fearsome force indeed.&n
+~
+234906186 32769 136249361 536870948 -1000 S
+48 0 -40 100d99+40000 20d25+70
+35000 1450000
+8 8 1
+16 1 22 16 25 15 13 15
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=2
+ATTACK_TYPE=105
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20401
+mob spider~
+&pa small spider-like creature&n~
+&pa small spider-like creature is here, scurrying across the room&n
+~
+&pYou find yourself facing a strange looking creature.  It's eyes bulge from their sockets as it peers at you.  When you return its stare, it suddenly scampers off into the shadows.&n
+~
+1073741834 1 136249361 67108864 -1000 S
+43 2 -25 80d19+16000 10d10+35
+1200000 450000
+8 8 0
+16 3 17 16 14 15 13 15
+#20402
+mob shrine guardian~
+&pA Guardian of the Shrine&n~
+&pA Guard is here, standing its post&n
+~
+&pA faithful guardian of the shrine,  this large drow's mind is controlled completely by the Overminds.  Trained solely in the ways of the warrior, it stands solid and fierce.&n
+~
+201359882 32769 136249361 1140850762 0 S
+47 1 -34 100d90+39000 30d10+40
+1500000 1150000
+8 8 0
+16 4 17 15 14 16 15 11
+SKILL=SPELL_WORD_OF_RECALL 99
+#20403
+mob juvenile spider~
+&pA juvenile spider&n~
+&pA juvenile spider roams aimlessly around the room, looking for trouble to get into&n
+~
+&pa small adolescent drider, this creature strives to evolve, but seemingly without results.  It continues however to try, its mind controlled by the overminds, and its body by the overseer.&n
+~
+4106 32769 136249361 67108928 -1000 S
+43 2 -25 80d25+16000 30d5+35
+1250000 635000
+8 8 0
+16 2 17 15 14 16 15 12
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20404
+mob Kiaransalee ~
+&KKiaransalee&n~
+&KKiaransalee lies here, plotting the worlds demise.&n
+~
+&KOriginally the drow god of vengeance, Kiransalee plotted and slew Orcus the
+Abyssial Lord of the Dead.  Now possessing his portfolio, she seeks to rival
+Lloth in power, and ultimately reign as the supreme drow goddess over
+Tenebrous, Lloth and Eilistraee.&n
+~
+67109130 134250497 136249361 1176506368 -1000 S
+48 0 -37 100d99+34500 25d28+99
+5000000 1650000
+8 8 0
+16 4 16 16 15 15 13 14
+SKILL=SPELL_HAIL_STORM 99
+SKILL=SKILL_KICK 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+#20405
+mob malakai~
+&pMalakai&n~
+&pMalakai is resting here, awaiting his next mission&n
+~
+&pA high ranking member in Kiransalee's immense army, you can sense nothing about this creature.  All you know, is his faithfulness to his matron is absolute.&n
+~
+234881546 32769 136249361 524296 -1000 S
+48 0 -35 25d40+44000 25d30+25
+3000000 1111111
+8 8 0
+16 6 17 16 16 14 13 15
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 20
+SKILL=SKILL_FOURTH 2
+SKILL=SPELL_HEAL_MAJOR 99
+#20406
+mob droid spider~
+&pa Spider Droid&n~
+&pA placid looking spider droid is roaming the halls here&n
+~
+&pThis strange drider clings to the walls as you walk by, in a very curious position.  Suddenly you notice it lash out at one of your comrades, in a sort of kamakazi fashion.&n
+~
+1132724232 32769 136249393 0 -1000 S
+10 6 37 1d1+200 2d10+5
+200000 1500
+8 8 0
+16 0 17 15 16 14 15 12
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+#20407
+mob overmind~
+&cAn Overmind&n~
+&cA formless Overmind lies here, controlling the hordes telepathically&n
+~
+&pBefore you rests a large amorphoeus mass.  Dark and covered in shadows, you cant tell where one end starts or the other ends.  It's purpose is solely to control the minds of the hordes, and takes its orders only from the matron.&n
+~
+234881034 32769 136249361 524296 -1000 S
+48 0 -35 100d45+45000 23d21+70
+3000000 1111111
+8 8 0
+16 1 17 18 15 15 12 13
+SKILL=SPELL_WORD_OF_RECALL 99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20408
+mob azmodian~
+&pAzmodian&n~
+&pAzmodian is here straining to achieve new levels of mastery&n
+~
+&pA high ranking member in Kiransalee's immense army, you can sense nothing about this creature.  All you know, is his faithfulness to his matron is absolute.&n
+~
+201327114 32769 136249361 67109064 -1000 S
+48 0 -25 50d50+18000 20d25+70
+4000000 1000000
+8 8 0
+16 1 16 16 14 15 13 11
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+ATTACK_SKILL=75
+ATTACK_SKILL=15
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+#20409
+mob artemis~
+&pArtemis&n~
+&pThe weaponsmaster Artemis stands before you, grinning devilishly&n
+~
+&pOne of the few of Kiransalee's offspring who has been granted free will, this colossal figure still protects his leige without a second thought.  His power is undenyable, and his loyalty unquestioned.  A fearsome force indeed.&n
+~
+1308885514 32769 136249361 1073741896 -1000 S
+48 0 -35 100d39+35000 30d39+20
+3450000 1111111
+8 8 0
+16 1 16 16 15 15 12 15
+SKILL=SPELL_WORD_OF_RECALL 99
+#20410
+mob riven~
+&CRiven&n~
+&CRiven stands here, prepared to give his life for the Matron&n
+~
+&pA grand general of the shadowed army of Kiransalee, this being is one of the strongest members of the church.  Commanding both immense power, and telepathic control over the hordes, it may well be one of your most feared foe.&n
+~
+201351242 32769 136249361 536871076 -1000 S
+48 0 -35 100d99+25000 24d25+80
+5000000 1440000
+8 8 0
+16 4 22 16 25 15 13 15
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=2
+ATTACK_TYPE=105
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20411
+mob overseer~
+&pThe Overseer&n~
+&pA Overseer stands here, watching the progression of the broods&n
+~
+&pStriving to gain rank in the chruch, this drow has taken upon himself the responsibility of looking after the matron's newest spawn.  Armed with a large whip, it treats the juveniles as if they were slaves, preparing them for the army.&n
+~
+201351242 32769 136249361 536871076 -1000 S
+48 0 -35 100d99+25000 24d25+80
+5000000 1500000
+8 8 0
+16 1 22 16 25 15 13 15
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=2
+ATTACK_TYPE=105
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20412
+mob laodecia~
+&pLaodecia&n~
+&pLaodecia is here grooming herself&n
+~
+&pA high ranking member in Kiransalee's immense army, you can sense nothing about this creature.  All you know, is his faithfulness to his matron is absolute.&n
+~
+234881546 32769 136249361 524296 -1000 S
+48 0 -35 25d40+44000 25d30+25
+3500000 1250000
+8 8 0
+16 1 17 16 16 14 13 15
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 57
+SKILL=SPELL_HEAL_MAJOR 99
+#20413
+mob legolas~
+&pLegolas&n~
+&pLegolas sits before you, bandaging his wounds&n
+~
+&pA high ranking member in Kiransalee's immense army, you can sense nothing about this creature.  All you know, is his faithfulness to his matron is absolute.&n
+~
+234881546 32769 136249361 524296 -1000 S
+48 0 -35 25d40+44000 25d30+25
+3500000 1250000
+8 8 0
+16 1 17 16 16 14 13 15
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 57
+SKILL=SPELL_HEAL_MAJOR 99
+#20414
+mob ancient mutant spider~
+a mutated spider~
+a mutated spider is here, crawling on all 16 of its legs.
+~
+&pan old spider stands before you, but something seems wrong with it.
+One of the failed subjects of the matron's mutagen testing, it grew in size,
+but never in strength.  Due to its near unvulnerability, it has grown quite old.&n
+~
+1073741832 32769 136249361 67108864 -1000 S
+43 2 -29 80d1+21000 20d10+70
+1000000 600000
+8 8 0
+16 3 17 16 14 15 13 15
+SKILL=SPELL_ENERGY_DRAIN 99
+#20415
+mob mutated spawnling~
+&pA &GM&pu&Gt&pa&Gt&pe&Gd &pS&Gp&pa&Gw&pn&Gl&pi&Gn&pg&n~
+&pA &GM&pu&Gt&pa&Gt&pe&Gd &pS&Gp&pa&Gw&pn&Gl&pi&Gn&pg &clies squirming in the ooze&n
+~
+&pThe finished project of the mutagen testing of the matron, this is a fearsome foe.  They serve as the front lines in the army, large and fairly strong, and produced by the thousand.  A single mutant drider egg can produce over 100 spawnlings.&n
+~
+10 32769 136249361 67108928 -1000 S
+45 1 -32 40d25+20000 30d10+90
+22000 1450000
+8 8 0
+16 3 17 17 16 15 14 12
+SKILL=SKILL_SECOND 99
+SKILL=SPELL_MAGIC_RESIST 99
+$~
+#999999

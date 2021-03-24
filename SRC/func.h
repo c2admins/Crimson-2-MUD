@@ -610,6 +610,7 @@ void ot1850_do_envenom(struct char_data * ch, char *argument, int cmd);
 void at1200_do_backstab(struct char_data * ch, char *arg, int cmd);
 void ot1900_do_steal(struct char_data * ch, char *arg, int cmd);
 void at1500_do_bash(struct char_data * ch, char *arg, int cmd);
+void at2400_do_trip(struct char_data * ch, char *arg, int cmd);
 void at1600_do_rescue(struct char_data * ch, char *arg, int cmd);
 void at1650_do_stab(struct char_data * ch, char *argument, int cmd);
 void at1700_do_kick(struct char_data * ch, char *arg, int cmd);

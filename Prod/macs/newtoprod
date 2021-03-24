@@ -1,0 +1,15 @@
+
+echo Moving ~/devel/src to ~/prod/src
+echo cd ~/prod
+     cd ~/prod
+echo mv src src_`date '+%y%m%d'`
+     mv src src_`date '+%y%m%d'`
+echo mkdir src
+     mkdir src
+echo cd ~/devel/src
+    cd ~/devel/src
+echo Copying c h and program to ~/prod/src
+    cp -p *.c ~/prod/src
+    cp -p *.h ~/prod/src
+    cp -p dmdevel ~/prod/src/dmdameon
+echo Finished

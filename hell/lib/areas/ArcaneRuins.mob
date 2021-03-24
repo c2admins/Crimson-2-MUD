@@ -1,0 +1,393 @@
+#20850
+mob Godzilla~
+&GGodzilla&n~
+&GGodzilla &whas arisen from the &Csea&n.
+~
+Godzilla, a radioactive lizard, towers high above you.  He looks at you with
+a mixture of spite and innocent hatred.  Innocent hatred you ask?  Innocent 
+hatred, I said.  Don't mess with me.  I mean it.  Oh, it's on now!
+~
+25206862 32769 136249361 67108992 -1000 S
+47 0 -32 1d1+39999 20d20+20
+1000000 1269000
+8 8 1
+32 4 24 4 6 16 21 8
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20851
+mob A Ghoul~
+&wA &yGhoul&n~
+&wA &Kstrange&w humanoid walks around in here&n.
+~
+The Ghoul seems to almost slide across the ground.  Not overly graceful, yet not apparently
+clumsy, the ghoul instead seems to be a perfect mix of both to confuse it's prey.  It's pasty
+skin and it's deep, sunken eyes catch your attention... It's breath, so atrocious, makes you
+ill.  It would be best to move on and leave it alone!
+~
+72 1 136249361 128 -1000 S
+35 3 -15 1d1+3000 5d10+15
+220000 200000
+8 8 0
+0 0 25 16 15 15 15 12
+ATTACK_SKILL=99
+ATTACK_SKILL=1
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#20852
+mob dracula~
+&KDracula&w, &bLord &wof the &KV&ya&Km&yp&Ki&yr&Ke&ys&n~
+&wA &Kwinged &whumanoid roams here, eyeing you neck, dreaming of the taste of your &Rblood&n.
+~
+What lies here is that of a frail man.  His face is pale white, but his fangs are 
+drenched in fresh blood.  He is the living dead.  He looks very weak, but under
+estimating this man would not be smart.  His powers lie not in combat but in the
+art of magic.  A once powerful warrior he was, but now, he lies in his coffin,
+roaming the night, looking for fresh blood, and to feed upon the weak.
+~
+169934922 32769 136249361 68681966 -1000 S
+48 0 -40 1d1+119999 20d10+30
+3750000 2000000
+8 8 1
+0 0 22 25 25 25 25 15
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_IMPROVED_INVIS 99
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_SILENCE 50
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SPELL_BIND_SOULS 99
+SKILL=SPELL_FLY 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20853
+mob frankenstein~
+&gFrankenstein&n~
+&wThe dreaded &ymonster&w, &gFrankenstein&w is on the loose!&n
+~
+What stands before you is the creation of a mad doctor.  The pieces of over one
+hundered human corpses, compile together to create what you see in front of 
+you.  He doesn't look rather happy to see you either.
+~
+176160844 32769 136249361 2097280 0 S
+48 0 -30 1d1+29999 30d10+99
+2750000 1500000
+8 8 1
+0 0 25 18 14 15 13 14
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#20854
+mob werewolf~
+&wA &Kwere&ywolf&n~
+&wA &Wfurry &ymonster&w roams here&n.
+~
+  A furry creature roams around in here.  He is a half breed of man and wolf.  A
+curse has been placed upon him, making him succeptable to light as well as the 
+need to feed upon human flesh....I think he just spotted you.
+~
+135266376 32769 136249361 128 -1000 S
+35 3 -10 1d1+3499 10d7+15
+0 230000
+8 8 0
+0 0 25 16 14 15 14 14
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20855
+mob witch~
+&wA &Kwitch&n~
+&wA &Kwitch&w is here, stirring her &Kpot &wwith a &ybroomstick&n.
+~
+  A wierd looking human stands before you.  She has greenish colored skin and is
+covered in warts.  Her nose protrudes from her face in a disgusting manner.  Yet
+after she lays eyes upon you, she goes back to stirring her vat of liquid.
+~
+134217800 32769 136249361 128 -1000 S
+35 3 -10 1d1+4400 9d8+15
+100000 230000
+8 8 2
+0 0 25 16 14 15 14 14
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_HUNT 99
+#20856
+mob The black cloaked witch~
+&wThe &Kblack-cloaked witch&n~
+&wA &Kblack-cloaked witch &wstirs her &Kpot&n
+~
+  A wierd looking human stands before you.  She has greenish colored skin and is
+covered in warts.  Her nose protrudes from her face in a disgusting manner.  Yet
+after she lays eyes upon you, she goes back to stirring her vat of liquid.
+~
+671088714 32769 136249361 128 -1000 S
+43 3 -20 1d1+10000 100d100+99
+350000 645000
+8 8 2
+0 0 25 16 14 15 14 14
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+#20857
+mob King Kong~
+&YKing &KKong&n~
+&wThe &YKing &wof &KKong &wroams here&n.
+~
+A humongous ape stands before you.  He is the world renowned King Kong.  He
+stands before you wielding his club, screaming, "ooga!  booga".  But what does
+that actually mean?
+~
+159383626 32769 136249361 128 0 S
+47 0 -40 1d1+19999 30d25+30
+0 1400000
+8 8 1
+0 0 25 16 14 14 15 14
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#20858
+mob freddy krueger~
+&rFr&yed&rdy &yKr&rue&yger&n~
+&wThe man who scares you from your &Cdreams &wis here, smiling&n.
+~
+A tall, scarred individual stands before you, grinning eerily.  He's been waiting for you.
+In fact, you might even say he's been dreaming of your visit.  His red and black striped
+shirt is stained with blood, but that's not all that bothers you...  As you look at his 
+hands, you notice that he's wearing unusual gloves....bladed gloves.  The better to rip
+your soul through the flesh, my dear.
+~
+134217802 32769 136249361 2097280 -1000 S
+48 0 -37 1d1+34999 30d30+50
+2000000 1250000
+8 8 1
+0 0 25 16 14 15 13 14
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20859
+mob jason voorhees~
+&wJason Voorhees&n~
+&wA &Kstrange&w man, wearing a &Whockey&r mask&w has spotted you&n!
+~
+Long ago, this was a careless child.  Until that fateful day he died in the lake.  He
+arose from the waters, only to become a killer.  His hockey mask is proof that
+he has murdered more then you can imagine.  The chainsaw he wields is also 
+spattered with blood, and now, you will feel it slice into you.
+~
+167772234 32769 136249361 128 -1000 S
+47 1 -40 1d1+19999 30d20+50
+2650000 1300000
+8 8 1
+0 0 25 16 14 14 12 14
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#20860
+mob mrs voorhees~
+&wMrs. Voorhees&n~
+&wMrs. Voorhees sits here, awaiting her son&n.
+~
+Mrs. Voorhees stands here.  Her son, the serial killer, Jason is on a rampage and 
+she is waiting for him to take her as a victim as well.  She looks at you and cries,
+she knows her son has killed, and that he will kill you too.
+~
+202 1 136249361 128 0 S
+43 1 -25 1d1+7499 20d10+99
+850000 650000
+8 8 2
+0 0 25 18 14 15 14 11
+#20861
+mob sasquatch~
+&ySasquatch&n~
+&wThe &ySasquatch &whas come to crush you!&n
+~
+Also known as bigfoot, this beast has yet to be spotted.  Not even Jack Hannah
+from National Geographic has locked eyes with this primate.  But now you have,
+but damn, where is that camera?
+~
+25165898 1 136249361 128 0 S
+47 1 -40 1d1+19999 30d25+30
+0 1500000
+8 8 0
+0 0 25 17 14 16 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=1
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#20862
+mob cujo~
+&KCujo&n~
+&wA &rrabid &Kdog &wstrikes, going right for the throat&n.
+~
+A nasty looking dog eyes you hungrily.  He snarls, and leaps, going straight for
+your jugular.
+~
+25223242 1 136249361 128 -1000 S
+43 0 -37 1d1+29999 15d15+30
+0 800000
+8 8 0
+0 0 25 18 15 14 14 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20863
+mob lochness monster~
+&KLochness &yMonster&n~
+&wA humongous &ymonster &whas arisen from the depths of the &Kmurky &Cpool&n.
+~
+  A large creature peeks its head over the lagoon.  Its the fabled Lochness 
+Monster! Fancy that!  You of all people have found the Lochness Monster, to bad
+he's reaching down to bite your head off.
+~
+16842826 32769 136249361 70779008 1000 S
+48 0 -30 100d100+100000 10d10+99
+0 2000000
+8 8 2
+0 0 25 25 25 16 12 12
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#20864
+mob creature of the black lagoon~
+&wThe &yCreature&w from the &KBlack &CLagoon&n~
+&wThe &ycreature &wfrom the &Kblack &Clagoon &wrests in the &Kmurky &cwater&n
+~
+  A wierd creature stands before you.  A creature unknown to anyone.  It has
+never been seen.  Now that you've seen him, he has no thought in his mind that
+he should kill you.
+~
+9502794 32769 136249361 538443906 -1000 S
+47 0 -40 1d1+45999 30d25+30
+1750750 1250000
+8 8 0
+0 0 25 25 25 15 12 14
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SKILL_SECOND 99
+#20865
+mob swampthing~
+&GSwampThing&n~
+&wThe &GSwampThing &whas arisen from the &Kmurky &cwater&n.
+~
+The swampthing has arisen from the murky depths in which he came.  His arms
+ooze with the slime and mold that have built upon him.  He eyes you hungrily,
+and begins to lunge towards you.  Damn, of all places, why here....
+~
+143654986 32769 136249361 1075314818 1000 S
+47 0 -30 1d1+23999 30d50+99
+2350000 1125000
+8 8 1
+0 0 25 16 16 15 14 14
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+#20866
+mob mummy~
+&wThe &WM&yu&Wm&ym&Wy&n~
+&wThe &Wliving &Kdead &whas arrived to take you with him&n.
+~
+&nA large creature stands before you.  His eyes glow &Rred&n in the darkness
+and you are pretty sure that he's seen you.  But he opens his arms, is he trying
+to hug you?  No he's going to crush you!
+~
+167831258 1933313 136249361 3670144 -1000 S
+44 3 -30 1d1+12000 20d20+30
+1475475 792000
+8 8 1
+0 0 25 17 15 14 14 14
+#20867
+mob lesser mummy~
+&wA Lesser &WM&yu&Wm&ym&Wy&n~
+&wA lesser version of the &Wgauzed &Kdemon &wroams here&n.
+~
+What is here is a gauzed, and dead human.  It was wrapped in guaze to prevent
+it from fully decaying, and now you see that for yourself.  Now he's going after
+you to make you one of them.
+~
+76 1 136249361 2621440 -1000 S
+38 3 -25 1d1+8699 10d10+20
+150000 228000
+8 8 0
+0 0 25 18 14 14 13 11
+$~
+#999999

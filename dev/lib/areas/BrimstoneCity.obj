@@ -1,0 +1,820 @@
+#21825
+obj crude metal breastplate~
+100
+&wa crude metal breastplate&n~
+&wA crudely fashioned breastplate lies here, slowly rusting.&n~
+~
+9 0 0 9
+13 0 0 0
+10 2000 5
+A
+13 5
+#21826
+obj suit elven chainmail~
+8
+&wa suit of elven chainmail&n~
+A suit of finely crafted chainmail lies here, shining in the light.~
+~
+9 67634176 0 9
+15 0 0 0
+6 8000 5
+A
+19 1
+A
+18 1
+#21827
+obj platemail bracer~
+100
+&Wa platemail bracer&n~
+&WA platemail bracer lies here, slowly rusting.&n~
+~
+9 0 0 4097
+4 0 21 0
+2 600 5
+#21828
+obj chainmail leggings~
+100
+&wa pair of chainmail leggings&n~
+&wA pair of chainmail leggings lies here, slowly rusting.&n~
+~
+9 0 0 33
+9 0 21 0
+8 1000 5
+#21829
+obj chainmail sleeves~
+100
+&wa pair of chainmail sleeves&n~
+&wA pair of chainmail sleeves lie here, slowly rusting.&n~
+~
+9 0 0 257
+9 0 21 0
+6 900 5
+#21830
+obj platemail skullcap~
+100
+&Wa platemail skullcap&n~
+&WA platemail skullcap lies here, slowly rusting.&n~
+~
+9 0 0 17
+6 0 0 0
+4 800 5
+A
+20 -3
+#21831
+obj small wooden shield chain mesh~
+100
+&ya small wooden shield covered in &wchain mesh&n~
+&yA small wooden shield covered in &wchain mesh&y lies here.&n~
+~
+9 0 0 513
+10 0 0 0
+8 600 5
+A
+23 -2
+#21832
+obj short sword~
+15
+a short sword~
+A rather nondescript short sword lies here. It looks good for training with.~
+~
+5 0 0 8193
+0 2 4 11
+4 800 5
+#21833
+obj wooden longsword sword~
+10
+&ya wooden longsword&n~
+&yAn old wooden longsword lies here. It looks good for training with.&n~
+~
+5 0 0 8193
+0 2 5 3
+5 1000 5
+#21834
+obj sturdy oak staff~
+15
+&ya sturdy oak staff&n~
+&yA sturdy oak staff lies here. It looks good for fighting with.&n~
+~
+5 0 0 8193
+0 2 4 6
+8 850 5
+#21835
+obj small dagger~
+12
+a small dagger~
+A small dagger lies here, slowly rusting.~
+~
+5 0 0 8193
+0 2 4 11
+3 900 5
+#21836
+obj mithril axe~
+8
+&ca mithril axe&n~
+&cAn axe made from mithril lies here. It looks good for fighting with.&n~
+~
+5 544832 0 8193
+0 4 5 3
+10 4500 5
+A
+19 1
+A
+18 1
+#21837
+obj leather backpack~
+10
+&ya leather backpack&n~
+&yA leather backpack seems to have been discarded here.&n~
+~
+15 0 0 17409
+125 1 0 0
+5 500 5
+#21838
+obj large bag~
+100
+&ya large bag&n~
+&yA large bag has been discarded here.&n~
+~
+15 0 0 16385
+100 0 0 0
+3 175 5
+#21839
+obj ivory scrollcase~
+7
+&Wan ivory scrollcase~
+&WA scrollcase made from ivory lies here.&n~
+~
+15 557122 0 2049
+20 5 0 0
+1 15000 5
+A
+3 2
+A
+4 1
+#21840
+obj hooded lantern~
+30
+a &Khooded&n lantern~
+A &Khooded&n lantern sits here.~
+~
+1 0 0 16385
+0 0 30 0
+3 50 5
+#21841
+obj map brimstone~
+100
+&wa map of &KBrimstone&n~
+&wA rolled up piece of parchment lies here.&n~
+~
+16 0 0 1
+0 0 10 0
+1 100 5
+E
+map~
+           D                   O
+          |                   |               
+     D     D       C C C C C C O C C B-B-B-B   
+     |     |       | | | | | | | | |     |     
+     D-D-D-D-D   R-O-O-O-O-O-O-O-O-O-O-O-O-O-R 
+       |     |     | |         |   | | |   |   
+       D     D     O-G-G     R-O   C M-M   O-R 
+       |     |     | | |       |           |   
+       D     D     O G-G     R-O           O-R 
+             |     |           |           |   
+             D-O-O-O           O-BS        O-R 
+             |     |           |           |   
+       D   D D     O   E-E   R-O G     G   O     GA
+       |   | |     |   | |     | |     |   |     |
+     D-D-D-D-D     O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-GA
+       |           |           |   | |     | | | |
+       D           O           O   G G     O O O GA
+       |           |           |           | | |
+       D           O     S S   O-G         O O O
+                   |     | |               | | |
+                   O-O-O-O-O-O-O-O-O-O-O-O-O-O MT
+                   |   |       |           |   
+                   O   P-P   S-O-S         O  
+                   |   | |     |  \        |   
+                   O P-P-P-P S-O-S S    ST O   
+                   | | | | |   |         | |  
+                   O P-P-P-P S-O-S      ST-O-I
+                   | | | | | |             |   
+                   O P-P-P-P S             O   
+                   |   | |                 |   
+                   O   P-P                 O   
+                   |                       |   
+                   O-O-O-O-O-O-O-O-O-O-O-O-O
+                   |                       |
+                GA-GA-O-O-O-O-O-O-O-O-O-O-GA-GA
+
+KEY:
+S  = Shop
+G  = Guild
+GA = Gate house
+E  = Entrance to the Temple of Eilistraee
+I  = Inn
+P  = Proving grounds
+D  = Docks
+M  = Mayor's residence
+B  = City barracks
+C  = Councilman's residence
+MT = Entrance to Mage Tower (levels 30-41)
+BS = Entrance to Sewers (Levels 10-20)
+R  = Residence
+ST = Stables (not active)
+
+~
+#21842
+obj cyan colored potion~
+8
+&ca cyan colored potion of protection&n~
+&cA cyan colored potion rests here.&n~
+~
+10 0 0 1
+9 1 3 0
+1 500 5
+#21843
+obj thick oak staff dwarven runes~
+5
+&ya thick oak staff with dwarven runes&n~
+&yA large staff covered in runes lies here.&n~
+~
+4 566272 0 16385
+20 3 3 22
+8 10000 5
+#21844
+obj small balsa wand~
+9
+&ya small balsa wand&n~
+&yA small balsa wand lies here.&n~
+~
+3 0 0 16385
+13 3 3 29
+2 6000 5
+#21845
+obj light green potion~
+13
+&Ga light green potion of remove poison&n~
+&Ga light green potion lies here collecting dust.&n~
+~
+10 0 0 1
+10 43 0 0
+2 500 5
+#21846
+obj kiwi fruit~
+30
+&Ga k&yiw&Gi fruit&n~
+&GA strange looking fruit lies here, slowly rotting.&n~
+~
+19 0 0 1
+30 0 0 0
+1 40 5
+#21847
+obj loaf wheat bread~
+30
+&ya loaf of wheat bread&n~
+&yA loaf of wheat bread lies here.&n~
+~
+19 0 0 1
+15 0 0 0
+1 25 5
+#21848
+obj loaf white bread~
+30
+&ya loaf of &Wwhite&y bread&n~
+&yA loaf of &Wwhite&y bread lies here.&n~
+~
+19 0 0 1
+13 0 0 0
+1 20 5
+#21849
+obj strip dried beef~
+15
+a strip of &ydried beef&n~
+A strip of &ydried beef&n lies here.~
+~
+19 0 0 1
+30 0 0 0
+1 70 5
+#21850
+obj large field provision~
+10
+a large field provision~
+A large field provision lies here.~
+~
+19 0 0 1
+50 0 0 0
+3 150 5
+#21851
+obj shiny red apple~
+30
+&ra shiny red apple&n~
+&rA shiny red apple rests here, slowly rotting away.&n~
+~
+19 0 0 1
+8 0 0 0
+1 10 5
+#21852
+obj black leather gloves~
+10
+&Ka pair of black leather gloves&n~
+&KA pair of black leather gloves lies here.&n~
+~
+11 0 0 129
+0 0 10 0
+2 1200 5
+A
+18 1
+A
+13 5
+#21853
+obj soft black leather boots~
+10
+&Ka pair of black boots fashioned from softened leather&n~
+&KA pair of black leather boots lies here, discarded by their owner.&n~
+~
+11 0 0 65
+0 0 10 0
+4 1400 5
+A
+14 10
+#21854
+obj black leather belt~
+10
+&Ka black leather belt&n~
+&KA black leather belt lies here, discarded by its owner.&n~
+~
+11 0 0 2049
+0 0 10 0
+2 1200 5
+A
+13 10
+A
+12 5
+#21855
+obj light blue soft leather neckguard~
+10
+&Ca light blue neckguard made from softened leather&n~
+&CA light blue neckguard lies here, discarded by its owner.&n~
+~
+11 0 0 5
+0 0 10 0
+2 1750 5
+A
+1 1
+A
+5 1
+#21856
+obj light blue bracer leather~
+9
+&Ca light blue bracer made from softened leather&n~
+&CA light blue bracer lies here, discarded by its owner.&n~
+~
+11 0 0 4097
+0 0 10 0
+1 900 5
+A
+17 -1
+A
+2 1
+#21857
+obj torch~
+50
+&ya torch&n~
+&yA simple torch lies here.&n~
+~
+1 0 0 16385
+0 0 10 0
+1 17 5
+#21858
+obj resin wrapped torch~
+15
+&ya resin wrapped torch&n~
+&yA torch, wrapped in cloth and dipped in resin lies here.&n~
+~
+1 0 0 16385
+0 0 15 0
+2 25 5
+E
+torch~
+  Using special procedures, Dart has been able to create a longer burning torch by wrapping the item in cloth
+and then dipping it into a resin-like substance to slow the burning process, but not diminish light. The result
+is a torch that burns 1.5 times longer, and just as bright.
+~
+#21859
+obj bullseye lantern~
+10
+&Ka bullseye lantern&n~
+&KA large bullseye lantern lies here, discarded by its owner.&n~
+~
+1 0 0 16385
+0 0 50 0
+3 150 5
+#21860
+obj floating ball light~
+5
+&Ya floating ball of light&n~
+&YA floating ball of light is here, discarded by its owner.&n~
+~
+1 524353 0 65537
+0 0 999 0
+1 5000 5
+A
+13 15
+A
+26 -1
+#21861
+obj small waterskin~
+7
+a small &cwater&yskin&n~
+A small &cwater&yskin&n is laying here, collecting dust.~
+~
+17 0 0 1
+60 60 0 0
+8 200 5
+#21862
+obj large waterskin~
+5
+&ya large waterskin&n~
+&yA large waterskin lies here, discarded by its owner.&n~
+~
+17 0 0 1
+85 85 0 0
+15 300 5
+#21863
+obj large water barrel~
+4
+&ya large water barrel&n~
+&yA large water barrel is here, waiting to be taken.&n~
+~
+17 0 0 1
+150 150 0 0
+50 1000 5
+#21864
+obj ruby signet ring brimstone~
+100
+&Ka &rruby&K &Ysignet ring &Kof &cBrimstone&n~
+&Ka &rruby &Yring&K with the crest of &cBrimstone&K lies here.&n~
+~
+8 164928 0 3
+0 0 0 0
+1 7500 5
+A
+12 5
+A
+3 1
+A
+5 1
+#21865
+obj fine sylvan wine~
+10
+a large bottle of fine &GSylvan&n &pwine&n~
+A large bottle of fine &GSylvan &pwine&n rests here.~
+~
+17 0 0 16385
+40 40 2 0
+4 1000 5
+#21866
+obj amulet elistraee blue purple~
+100
+&can amulet of &pEilistraee&n~
+A strange amulet with a &cblue&n and &ppurple&n stone lies here.~
+~
+8 525312 1024 5
+0 0 0 0
+2 10000 5
+A
+18 1
+A
+2 2
+A
+17 -2
+#21867
+obj adamantium plated tail guard~
+1
+&Kan adamantium plated tail guard&n~
+An armor plated contraption that looks to fit over a tail lies here.~
+~
+9 4195394 0 262145
+100 0 0 0
+13 213000 500000
+A
+19 10
+A
+13 10
+A
+12 -50
+A
+18 4
+#21868
+obj Brimstone fountain~
+32767
+the Brimstone fountain~
+&WA large fou&wnt&Wain surrounded buy eight &Yg&yol&Yd&W-plated statues is here.&n~
+~
+17 9 0 0
+1000000 1000000 0 0
+1 5 5
+#21869
+obj shining longsword moonsteel steel~
+10
+&Ka &WM&woo&Wn&Ksteel Long&wsword&n~
+A &Yshining &Klong&wsword&n infused with the power of the &Wm&woo&Wn&n lies here.~
+~
+5 17408 136 8193
+16777216 4 6 3
+4 15000 2500
+A
+18 2
+A
+19 1
+A
+31 -1
+A
+33 -1
+#21870
+obj scroll enchantment~
+100
+a &Wscroll&n of &pGreater &WEn&wch&pan&wti&Wng&n~
+A torch is lying here.~
+~
+2 0 0 1
+42 24 0 0
+1 45000 500
+#21871
+obj yellow potion see invisible~
+100
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 64 0 16385
+12 19 -1 -1
+1 2000 50
+#21872
+obj blue potion healing~
+100
+a blue potion of healing~
+a small crystal vial with blue liquid inside~
+~
+10 64 0 16385
+30 75 0 0
+1 2059 1300
+#21873
+obj scroll recall~
+100
+a scroll of recall~
+A scroll has been left here carelessly.~
+~
+2 64 0 1
+12 42 -1 -1
+4 2000 100
+#21874
+obj scroll identify~
+100
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 0 16385
+12 53 -1 -1
+1 3400 1250
+#21875
+obj sapphire signet ring brimstone~
+100
+&Ka &Csapphire &Ysignet ring&K of &cBrimstone&n~
+&Ka &Csapphire &Yring&K with the crest of &cBrimstone &Klies here.&n~
+~
+8 136256 0 3
+0 0 0 0
+1 7500 5
+A
+13 5
+A
+2 1
+A
+5 1
+#21876
+obj emerald signet ring brimstone~
+100
+&Kan &Gemerald &Ysignet ring&K of &cBrimstone&n~
+&Kan &Gemerald &Yring&K with the crest of &cBrimstone&K lies here.&n~
+~
+8 148544 0 3
+0 0 0 0
+1 7500 5
+A
+14 5
+A
+1 1
+A
+4 1
+#21877
+obj coldfire necklace fire~
+100
+&Ka &Cc&col&Cd&rf&Rir&re&n &Ynecklace&n~
+A necklace forged with &Cc&col&Cd&rf&Rir&re&n rests here.~
+~
+8 1197120 8320 5
+0 0 0 0
+2 150000 1500
+A
+19 2
+A
+18 1
+#21878
+obj necklace health~
+100
+&Ka &Ynecklace&K of &rhealth&n~
+A &rhealthy&n looking necklace lies here.~
+~
+8 132160 0 5
+0 0 0 0
+2 5000 5
+A
+13 20
+#21879
+obj hood coif chainmail mail~
+20
+&Ka ch&wai&Knm&wai&Kl coif&n~
+A hood made from &Kch&wai&Knm&wai&Kl&n lies here.~
+~
+9 4096 262280 17
+7 0 0 0
+5 7500 500
+A
+19 1
+A
+31 -1
+A
+26 -1
+#21880
+obj sturdy chainmail mail sleeves~
+20
+&Ka set of st&wur&Kdy ch&wai&Knm&wai&Kl sleeves&n~
+A set of sleeves made from &Kch&wai&Knm&wai&Kl&n lie here.~
+~
+9 5120 136 257
+12 0 0 0
+8 15000 600
+A
+19 1
+A
+13 10
+#21881
+obj chainmail hauberk suit sturdy~
+20
+&Ka sturdy ch&wai&Knm&wai&Kl hauberk&n~
+A suit of &Kch&wai&Knm&wai&Kl&n lies here collecting dust.~
+~
+9 67113984 136 9
+20 0 0 0
+12 15000 1500
+A
+18 1
+A
+19 1
+A
+13 15
+#21882
+obj sturdy chainmail leggings~
+20
+&Ka set of sturdy ch&wai&Knm&wai&Kl leggings&n~
+A set of &Kch&wai&Knm&wai&Kl&n leggings lies here.~
+~
+9 5120 136 524321
+12 0 0 0
+9 10000 1000
+A
+19 1
+A
+18 1
+#21883
+obj boots wrapped chainmail leather~
+20
+&Ka pair of &yleather&K boots wrapped in ch&wai&Knm&wai&Kl&n~
+a pair of &yleather&n boots covered in &Kch&wai&Knm&wai&Kl&n lies here.~
+~
+9 1024 8 65
+3 0 0 0
+6 6500 650
+A
+19 1
+A
+14 10
+#21884
+obj rune etched halberd~
+10
+&Ka &cr&Cun&ce&W-&Ketched &yha&wl&Wb&we&yrd&n~
+A &yha&wl&Wb&we&yrd&n covered with dwarven &cr&Cun&ces&n lies here.~
+~
+5 532480 16384 8193
+0 4 5 3
+8 35000 350
+#21885
+obj carapace leg plates legplates~
+8
+A pair of &ycarapace &wle&Kgplat&wes&n~
+A pair of &wle&Kgplat&wes&n made from the &ycarapace&n of a beast lie here.~
+~
+9 0 0 524289
+3 0 0 0
+6 3000 30
+A
+4 1
+A
+2 1
+#21886
+obj obsidian chatkcha~
+10
+an &Kobsidian &wch&Katkc&wha&n~
+A strange looking weapon made from &Kobsidian&n lies here.~
+~
+5 0 0 8193
+0 3 4 3
+2 2300 23
+#21887
+obj gythka bone strange polearm crescent~
+9
+a &Wbone &yg&wyth&yka&n~
+A strange crescent shaped polearm made from &Wbone&n lies here.~
+~
+5 67633152 0 8193
+1 3 5 3
+8 4900 49
+A
+18 3
+#21888
+obj kanabo iron club~
+10
+&wa &Kkanabo&n~
+A long &yclub&n wrapped with &Kiron spikes&n lays here. ~
+~
+5 101187584 0 8193
+0 4 4 6
+12 15000 150
+#21889
+obj enchanted leather tail wrap~
+7
+an &Yen&ychant&Yed &yleather &Gt&gai&Gl &wwrap&n~
+A pile of &yleather&w designed to wrap around a &Gt&gai&Gl&n lies here.~
+~
+9 1 0 262145
+10 0 0 0
+7 8000 80
+A
+1 1
+A
+3 1
+A
+2 1
+A
+5 1
+#21890
+obj blood red potion~
+15
+&ra blood red potion&n~
+A potion the color of blood lies here.~
+~
+10 1 0 16385
+30 39 75 0
+2 2000 200
+#21891
+obj purple potion~
+15
+&wa &ppurple&w potion&n~
+A potion has been left here.~
+~
+10 0 0 16385
+30 35 36 0
+1 10000 100
+#21892
+obj two tigers sword blade~
+5
+&Kthe &wtwo &Kt&yi&Kg&ye&Kr&ys &Wsword&n~
+A long &Wsword &n with a strange language inscribed upon it lies here.~
+~
+5 20801 136 8193
+32 5 4 3
+3 25000 250
+A
+18 3
+A
+19 1
+#21893
+obj four tigers sword blade~
+5
+&Kthe &wfour &Kt&yi&Kg&ye&Kr&ys &Wsword&n~
+A long &Wsword &n with a strange language inscribed upon it lies here.~
+~
+5 1611923456 0 8193
+4458498 5 5 3
+4 350000 5
+A
+40 2
+A
+19 4
+A
+18 4
+A
+25 1
+$~
+#999999

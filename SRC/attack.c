@@ -566,7 +566,7 @@ void at1500_do_bash(struct char_data * ch, char *argument, int cmd)
 		}
 		else {
 			li9900_gain_proficiency(ch, SKILL_BASH);
-			DAMAGE(ch, victim, 15, SKILL_BASH);
+			DAMAGE(ch, victim, ((GET_LEVEL(ch) >> 3) * GET_STR(ch)), SKILL_BASH);
 			GET_POS(victim) = POSITION_SITTING;
 			WAIT_STATE(victim, PULSE_VIOLENCE * lv_wait);
 		}
@@ -1689,3 +1689,105 @@ void do_dismount(struct char_data * ch, char *argument, int cmd)
 	}
 
 }
+
+void at2400_do_trip(struct char_data * ch, char *argument, int cmd)
+{
+
+	struct char_data *victim;
+	char name[MAX_STRING_LENGTH], buf[MAX_STRING_LENGTH];
+	signed char percent;
+	int block, lv_wait = 2;
+
+	if (GET_LEVEL(ch) > PK_LEV) {
+		bzero(buf, sizeof(buf));
+		sprintf(buf, "%s trip %s", GET_NAME(ch), argument);
+		do_wizinfo(buf, GET_LEVEL(ch) + 1, ch);
+		spec_log(buf, GOD_COMMAND_LOG);
+	}
+
+	one_argument(argument, name);
+
+	if (ch->skills[SKILL_TRIP].learned == 0) {
+		send_to_char("You better leave all the martial arts to someone else.\n\r", ch);
+		return;
+	}
+	if (name[0] == 0) {
+		/* WE DIDN'T GET AN ARGUMENT.  SEE IF WE ARE FIGHTING */
+		if (ch->specials.fighting) {
+			victim = ch->specials.fighting;
+		}
+		else {
+			/* WE AREN'T FIGHTING AND NO ARG GIVEN */
+			send_to_char("Who do you want to trip?\n\r", ch);
+			return;
+		}
+	}
+	else {
+		/* SEE IF THE THE SPECIFIED VICTIM IS AVAILABLE */
+		victim = ha2125_get_char_in_room_vis(ch, name);
+		if (!(victim)) {
+			/* CAN'T LOCATE THAT VICTIM */
+			send_to_char("Your good! that person didn't wait around to be tripped.\n\r", ch);
+			return;
+		}
+	}
+
+	if (victim == ch) {
+		send_to_char("Aren't we funny today...\n\r", ch);
+		return;
+	}
+
+	CHECK_FOR_CHARM();
+	CHECK_FOR_PK();
+	CHECK_FOR_NO_FIGHTING();
+	IS_ROOM_NO_KILL();
+	if ((GET_POS(ch) == POSITION_STANDING) &&
+	    (victim != ch->specials.fighting)) {
+		sprintf(buf, "FIRSTHIT: %s (%d/%d) trips %s (%d/%d).",
+			GET_REAL_NAME(ch), GET_HIT(ch), GET_MAX_HIT(ch),
+		 GET_REAL_NAME(victim), GET_HIT(victim), GET_MAX_HIT(victim));
+		main_log(buf);
+		if (IS_PC(victim)) {
+			spec_log(buf, PKILL_LOG);
+		}
+		else {
+			spec_log(buf, FIRSTHIT_LOG);
+		}
+	}
+
+	percent = number(1, 101);	/* 101% is a complete failure */
+
+	if (GET_DEX(victim) > GET_DEX(ch)) {
+		block = number(0, 2);
+	}
+	else {
+		block = number(0, 3);
+	}
+
+	if (ch->in_room != victim->in_room) {
+		send_to_char("Doesn't seem that you can stretch that far to trip them...\n\r", ch);
+		lv_wait = 0;
+		return;
+	}
+
+	if (percent > ch->skills[SKILL_TRIP].learned) {
+		DAMAGE(ch, victim, 0, SKILL_TRIP);
+		GET_POS(ch) = POSITION_SITTING;
+		WAIT_STATE(ch, PULSE_VIOLENCE * lv_wait);
+	}
+	else {
+		if (block == 1) {
+			act("$N dodges your trip.", TRUE, ch, 0, victim, TO_CHAR);
+			act("$N dodges $n's trip.", TRUE, ch, 0, victim, TO_NOTVICT);
+			act("You move your leg and dodge $n's trip.", TRUE, ch, 0, victim, TO_VICT);
+			lv_wait = 1;
+		}
+		else {
+			li9900_gain_proficiency(ch, SKILL_TRIP);
+			DAMAGE(ch, victim, ((GET_LEVEL(ch) >> 3) * GET_DEX(ch)), SKILL_TRIP);
+			GET_POS(victim) = POSITION_SITTING;
+			WAIT_STATE(victim, PULSE_VIOLENCE * lv_wait);
+		}
+	}
+	WAIT_STATE(ch, PULSE_VIOLENCE * lv_wait);
+}				/* END OF at2400_do_trip() */

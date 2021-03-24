@@ -1,0 +1,152 @@
+#4501
+mob wolf timberwolf~
+The Timberwolf~
+A hungry timberwolf is here, looking for food.
+~
+It looks like it would be more at home in a forest. I wonder why it left.
+~
+16834760 1 136249361 0 0 S
+8 30 35 8d5+30 2d5+3
+0 250
+8 8 1
+0 0 13 13 11 13 11 10
+#4502
+mob white wolf~
+The Huge White Wolf~
+A huge white wolf is here, looking for food.
+~
+It looks like it would be more at home in a forest. I wonder why it left.
+~
+16834632 1 136249361 0 0 S
+12 27 32 10d19+65 3d3+8
+0 3695
+8 8 1
+0 0 15 15 14 14 10 13
+#4503
+mob shadow wolf~
+The Huge Shadow Wolf~
+A huge wolf shadow is here, it howls eerily as it hunts for life force.
+~
+Although faintly transparent, its probably solid enough to rip your throat 
+out. Its obviously very evil, and very nasty. I hope you have friends.
+~
+17883208 1 136249361 524288 -1000 S
+12 27 32 20d9+70 3d6+4
+0 3725
+8 8 1
+0 0 15 14 13 14 10 13
+#4504
+mob vampire shaman orc~
+The Vampire Orc-Shaman~
+An Orc-Shaman is here, he has very well developed canines and pale coloration
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy...
+~
+2416718 32769 136249361 10 -1000 S
+20 20 24 10d19+500 5d5+15
+50 62000
+8 8 1
+0 0 17 15 14 15 14 13
+SKILL=SPELL_BLINDNESS 50
+SKILL=SPELL_BURNING_HANDS 50
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_CURSE 50
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SPELL_MAGIC_MISSILE 50
+SKILL=SPELL_SLEEP 50
+#4505
+mob bodyguard orc~
+The Orc Bodyguard~
+A large orc bodyguard is here, eyeing you suspiciously.
+~
+Looks pretty tough, as orcs go...
+~
+57422 1 136249361 0 -750 S
+12 27 32 10d9+100 3d3+6
+9 3500
+8 8 1
+0 0 14 13 14 13 11 9
+#4506
+mob vampire mayor~
+The Vampire Mayor~
+The mayor is here grinning evily, His eyes are red and glowing.
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy...
+~
+2416718 1 136249361 8 -1000 S
+19 21 25 10d11+285 7d3+14
+46 5650
+8 8 1
+0 0 16 14 15 13 13 12
+#4507
+mob shadow wolf~
+The Enormous Shadow Wolf~
+An Enormous shadow wolf is here, it growls eerily.
+~
+Although you can see right though it, it still seems quite dangerous...
+perhaps thats because its the size of a large horse...
+~
+17883214 1 136249361 8 -1000 S
+12 27 32 10d10+100 2d8+4
+0 15000
+8 8 1
+0 0 15 14 12 13 13 9
+#4508
+mob vampire mistress~
+A vampire mistress~
+A provocatively dressed woman is here, her eyes glow red in the darkness.
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy...
+~
+2416718 1 136249361 10 -1000 S
+23 17 21 10d19+850 8d5+15
+138 68575
+8 8 1
+0 0 16 17 16 15 15 11
+#4509
+mob rat~
+The giant rat~
+A giant rat is here, it rushes at you with mindless hunger.
+~
+It looks much like any other rat except that its about 3 feet long.
+~
+16834636 1 136249361 8 -200 S
+5 32 37 5d5+20 3d3+0
+0 145
+8 8 1
+0 0 13 14 12 11 10 9
+#4510
+mob vampire nosferatu~
+Nosferatu~
+Nosferatu snarls with rage, and prepares to cast a spell.
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy... In fact I hope you have an army
+handy... (Nosferatu is not to be trifled with)
+~
+2941006 32769 136249361 138 -1000 S
+25 15 18 100d19+200 5d5+35
+188 7850
+8 8 1
+0 0 19 20 18 18 15 15
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_HAIL_STORM 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_HARM 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_POISON 70
+SKILL=SPELL_SLEEP 70
+SKILL=SPELL_CAUSE_CRITIC 70
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_EARTHQUAKE 70
+$~
+#999999

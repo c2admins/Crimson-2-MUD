@@ -1,0 +1,314 @@
+#500
+mob Justin tree palm~
+Justin Tree~
+A tree with palm shaped leaves looms over you.
+~
+   There are many kinds of trees in Xanth, a number of them vital to the
+economy.  Beerbarrel trees are tapped for drink, oilbarrel trees are for
+fuel.  But this tree is special.  A species never sprouted from seed.  Its
+leaves are shaped like flat hands, and its trunk is the hue of tanned
+human flesh.
+   All is not right with this tree.  There are cut marks on the tree's roots.
+The white wood wounds are clearley visible in contrast to the shoelike bark.
+Driblets of reddish sap are forming, very much like blood.
+~
+1074004234 2097153 136249361 1073741824 750 S
+35 30 0 5d200+5500 20d7+2
+0 580000
+8 8 1
+0 4 19 20 18 17 18 21
+ATTACK_SKILL=90
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=103
+#501
+mob Jama boy mischevious~
+Jama~
+Jama is here looking mischevious.
+~
+This is a cocky and annoying fifteen year old.  Its obvious he is up to
+no good.   His talent is manifestation of a sword.  His favorite pastime
+is chopping down trees.
+~
+14 1 136249361 0 -200 S
+4 30 19 2d8+20 1d5+0
+120 250
+8 8 1
+1 3 11 12 10 9 7 9
+#502
+mob Zink boy mischevious~
+Zink~
+Zink is here looking mischevious.
+~
+This is a cocky and annoying fourteen year old.  Its obvious he is up to
+no good.  His talent is creating mirage-holes.  His favorite pastime is
+chopping down trees.
+~
+14 1 136249361 0 -200 S
+4 30 19 2d8+20 1d5+0
+120 250
+8 8 1
+1 3 11 12 10 9 7 9
+#503
+mob Potipher boy mischevious~
+Potipher~
+Potipher is here looking mischevious.
+~
+This is a cocky and annoying fourteen year old.  Its obvious he is up to
+no good.  His talent is creating a poisonous gas cloud.  His favorite
+pastime is chopping down trees.
+~
+14 1 136249361 0 -200 S
+4 30 19 2d8+20 1d5+0
+120 250
+8 8 1
+1 3 11 12 10 9 7 9
+#504
+mob Sabrina beauty woman female~
+Sabrina~
+Sabrina stands here in all her beauty.
+~
+   This women is absolutely beautiful.  Other girls manage to enhance their
+appearance by cosmetics or padding or specialized spells, but beside this
+female, all others look somewhat artificial.
+~
+10 1 136249361 0 750 S
+5 30 25 5d5+50 1d10+0
+100 700
+8 8 2
+1 2 12 13 10 9 8 9
+#505
+mob chameleon lizard stringray salamander basalisk~
+Chameleon~
+A lizard is sitting on the stone.
+~
+This is a chameleon.  It converts its form to frighten away preditors.  The
+conversions aren't real.  Even though it might assume the form of an
+abnoxious monster, it can't assume their essence.  It might appear to become
+a stingray, basalistk, or fiery salamander, but it can't sting, stink, or burn.
+~
+10 1 136249361 0 0 S
+1 30 20 1d6+10 1d4+0
+33 100
+8 8 2
+11 0 12 11 9 9 8 6
+#506
+mob centipedes pedes~
+Centipede~
+a centipede is here waiting to rend you.
+~
+This creature has a myriad of legs enabling it to cling to vertical rock faces, and its pincers
+can gouge out disk of flesh a centimeter across.   It inhabits dark crevices, not liking direct
+sunlight.
+~
+268558350 2097153 136249361 0 0 S
+3 10 10 3d6+5 2d5+2
+1 200
+8 8 0
+11 0 12 11 11 11 8 8
+ATTACK_SKILL=90
+ATTACK_SKILL=50
+ATTACK_SKILL=35
+ATTACK_TYPE=105
+#507
+mob nicklepedes pedes~
+Nicklepede~
+a nicklepede is here waiting to rend you.
+~
+Nicklepedes are like centipedes, but about five times as large and considerably more deadly.
+Its myriad legs can cling to veritcal rock faces, and its pincers can gouge out huge disk of
+flesh an inch across.  Nicklepedes prefer dark crevices, not liking direct sunlight.  Even
+dragons hesitate to walk through ditches known to be infested by pedes.
+~
+268558350 2097153 136249361 0 0 S
+5 10 15 5d7+10 4d5+3
+5 350
+8 8 0
+11 0 11 12 11 11 7 7
+ATTACK_SKILL=90
+ATTACK_SKILL=50
+ATTACK_SKILL=35
+ATTACK_TYPE=105
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=105
+#508
+mob serpent sea~
+A sea serpent~
+A Sea Serpent swims here waiting to devour you!
+~
+and scream!
+~
+385032 32769 136249361 786952 0 S
+41 30 25 50d200+12000 100d8+20
+1000000 1150000
+8 8 2
+0 0 23 20 19 25 24 15
+SKILL=SKILL_HUNT 50
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_TYPE=105
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#509
+mob dragon scaley~
+a scaley dragon~
+A scaley dragon is curled up here eyeing you watchefully.
+~
+This enourmous winged beast has eaten better adventurers than you for breakfast.
+Circular disk of hardened scales protect it from even the sharpest sword.  You
+would be well advised to leave it alone.
+~
+262154 294913 136249361 262152 0 S
+25 10 17 10d100+1000 5d4+4
+15000 30000
+8 8 1
+0 0 15 11 9 24 8 20
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SKILL_STEAL 75
+SKILL=SPELL_FIRE_BREATH 80
+SKILL=SPELL_HEAL_MINOR 75
+SKILL=SPELL_SMITE 45
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=103
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=90
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#510
+mob tangletree tree~
+a tangle tree~
+A tangle tree waits for you to pass under it.
+~
+Its a tall tree with hundreds of waving limbs.
+~
+319502 1 136249361 262152 -750 S
+29 0 0 10d100+1500 15d5+10
+55000 400000
+8 8 1
+1 0 19 18 16 16 17 17
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#511
+mob repairman underpaid man~
+elevator repairman~
+An underpaid elevator repairman stands here watching the clock.
+~
+A big, strong, helpful, trustworthy guard.
+~
+262346 1 136249361 0 1000 S
+15 0 0 1d1+138 1d1+18
+1000 15000
+8 8 1
+0 0 15 15 12 12 13 13
+#512
+mob wraith~
+a wraith~
+A faintly luminous form radiating intense hatred floats here.
+~
+A faintly luminous form with two glowing red eyes glares at you with a 
+deep seated hatred.   You shiver with an intense fear that reaches down
+to your very marrow.
+~
+33554506 1 136249361 604241928 0 S
+25 0 -1 600d1+100 3d20+10
+0 160000
+8 8 0
+0 0 17 17 17 17 16 15
+#513
+mob harpy female bird~
+a harpy~
+A harpy roost here screaching obscenities at you.
+~
+You see before you a birdlike thing.  Its a cross between a woman and a bird.  Err, make that
+a very ugly women and a vulture.  The coiled snake tail doesn't help her appearence either.
+~
+8 1 136249361 0 900 S
+1 30 19 1d1+9 1d5+0
+34 100
+8 8 0
+0 0 12 11 9 10 7 9
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#514
+mob gateguard guard~
+the Cityguard~
+A guard stands here ready to defend the castle.
+~
+A big, strong, helpful, trustworthy guard.
+~
+134217930 1 136249361 0 1000 S
+15 0 0 1d1+138 1d1+18
+1000 15000
+8 8 1
+1 4 15 15 12 12 13 13
+#515
+mob Iris woman sorceress~
+Sorceress Iris~
+The Sorceress Iris stands here in all her illusion.
+~
+This woman looks like a queen.  She is extremely beautiful.  While mature, she
+has impressive poise.     Precise dress and manner are enhanced by hair of the
+richest red.   Even the pupils of her eyes are an extrodinary red.
+~
+262218 16809985 136249361 0 0 S
+25 0 0 5d125+500 5d5+18
+45000 15000
+8 8 2
+1 9 15 15 12 12 13 13
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SKILL_SECOND 70
+SKILL=SKILL_THIRD 15
+SKILL=SPELL_SILENCE 89
+SKILL=SPELL_DIVINE_RETRIBUTION 70
+#516
+mob a cleaning maid~
+a cleaning maid~
+A cleaning maid is busily dusting the furniture.
+~
+This maid is over aged, over weight, and over worked.   But she appears very
+friendly and has one of the kindest dispostions you'll ever encounter.
+~
+76 589825 136249361 8 100 S
+12 9 0 7d1+120 2d6+2
+100 15000
+8 8 0
+14 0 14 13 12 14 11 9
+$~
+#999999

@@ -1,0 +1,137 @@
+#4600
+mob grig flying~
+&gA &Gflying &ggrig&n~
+&gA &Gflying &ggrig&b is flying about here.&n
+~
+This creature is very tiny and almost unoticeable.  It stands a few inches
+tall and floats about with strange and mystical powers.  The head and upper
+torso resemble that of a human however, the lower half is that of a grasshopper.
+~
+16777288 1 136249361 128 1000 S
+20 30 20 10d10+20 2d4+5
+30000 46000
+8 8 1
+6 0 17 18 15 16 15 14
+#4601
+mob falinix grig~
+&GFali&gnix &Wthe &Gshop&gkeeper&n~
+&GFali&gnix &Wthe &Gshop&gkeeper&n, is leaning against the wall.
+~
+This rather rotund being is lying against a wall for support.  He has hammered
+his last stinger many years ago and just keeps them stockpiled in his back room.
+You can tell this guy needs a bath badly.
+~
+16777226 1 136249361 128 1000 S
+25 20 40 20d1+300 5d5+2
+50000 60000
+8 8 0
+0 0 16 18 14 16 14 13
+#4602
+mob mysphit grig~
+&GMys&gphit &Wthe &bHea&Bler&n~
+&GMys&gphit &Wthe &bHea&Bler&g, is standing here.&n
+~
+This strange guy has a very layed back disposition.  He seems to take his own
+herbal medicines.  The glazed look in his eyes tells a long story just sitting
+on a log.  You can feel there is some strange power glowing from him.
+~
+16777226 1 136249361 128 1000 S
+25 20 20 1d10+1350 5d3+6
+60000 65000
+8 8 1
+0 0 17 16 16 15 15 12
+SKILL=SPELL_CURE_CRITIC 65
+SKILL=SPELL_CURE_LIGHT 65
+#4603
+mob manush grig~
+&RMan&rush &wthe &Rma&rge&n~
+&RMan&rush &wthe &Rma&rge&g, is standing here.&n
+~
+This strange little mage is a very tiny and yet very aggressive little man.  He
+stands but a few inches tall and seems to think he is ten foot tall and
+sword proof.
+~
+16777226 1 136249361 128 500 S
+25 15 20 1d1+1400 5d3+6
+60000 65000
+8 8 0
+0 0 16 17 16 16 14 14
+#4604
+mob wyvern~
+&yThe &wW&yy&wv&ye&wr&yn&n~
+&yThe &wW&yy&wv&ye&wr&yn&n, dragon of the undead stands before you.
+~
+This strange beast of the underworld has risen from its grave and taken up
+hold in this dark and danty place.  You can see the scales on this creature
+are cold and brown.  There is no longer a beating heart in this beast you
+can detect.  You wonder what kind of madman would summon a beast such as
+this from its place of eternal rest.
+~
+189915146 32769 136249361 606077096 -1000 S
+50 -30 -30 100d100+65000 20d20+60
+5500000 2500000
+8 8 0
+0 0 16 18 14 16 13 15
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_ACID_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_METEOR_SWARM 99
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=106
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=107
+#4605
+mob krailin grig~
+&GKrai&glin &Wthe &gblack&Gsmith&n~
+&GKrai&glin &Wthe &gblack&Gsmith&n, is standing here.
+~
+This is grig was a great warrior in his tribe.  He stands before you calling
+upon the dawn of an old era.  He has retired to his sword and shield making ways.
+However, he will quickly recant his days on the front lines.
+~
+16777226 1 136249361 128 1000 S
+25 15 15 1d10+1550 5d5+5
+75000 60000
+8 8 1
+0 0 16 17 15 14 12 14
+#4606
+mob grig mother~
+&GA grig &gmother&n~
+&GA grig &gmother stands here protecting her young.&n
+~
+This mother watches and feeds her young.  Be wary of attacking her young.
+~
+16777738 1 136249361 0 1000 S
+20 20 20 1d10+1550 2d8+2
+20000 25000
+8 8 2
+0 0 17 16 15 15 15 12
+#4607
+mob grig spawnling~
+&GA grig&g spawnling&n~
+&GA grig&g spawnling&n is here playing with its mother.
+~
+This spawnling seems to be maybe a few weeks old yet has a strange aura of
+power emminating from it.
+~
+10 1 136249361 0 1000 S
+15 25 30 1d10+160 2d4+6
+4000 5000
+8 8 0
+0 0 16 15 16 16 12 11
+$~
+#999999

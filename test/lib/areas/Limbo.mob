@@ -1,0 +1,885 @@
+#1
+mob Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+Puff.
+~
+1346633736 32769 136249361 0 1000 S
+48 0 -25 10d10+200000 100d100+10
+10000 1500000
+8 8 2
+11 0 17 17 17 16 14 15
+SKILL=SPELL_FIRE_BREATH 30
+#2
+mob black stallion horse~
+the black stallion~
+The black stallion warely watches you.
+~
+  A proud, black stallion stands here, his head held high.  He warely
+watches you as a breeze swirls around him, lifting his mane.
+~
+17039560 1 136249361 33554464 1000 S
+43 1 -29 20d59+22000 10d9+80
+1000000 645000
+8 8 0
+0 0 22 20 21 21 20 17
+SKILL=SPELL_ARMOR 1
+#3
+mob Gothelred jailer~
+Gothelred~
+Gothelred the Jailer is here chewing on some tobacco.
+~
+This is a short fat dwarf. He is absolutely filthy, and surrounded by a huge
+swarm of flies.  His scraggy beard ought to be white, but has turned a sickly
+mixture of pastel shades through lack of care, but no lack of sticky foods.
+His clothes are very worn, their lifetime, which really expired long ago, was
+probably halved due to them having never been washed once.  His belly hangs
+out over his thick black belt, and he spins his keys around his finger merrily
+as he walks around here, checking the cells.
+~
+262154 1 136249361 33816584 0 S
+44 0 0 1000d50+5000 1d1+1
+20000 300000
+8 8 1
+0 0 23 22 20 21 19 21
+#4
+mob Brubbelby jailer apprentice~
+Brubbelby~
+Brubbelby the Jailer's apprentice is here learning to lean against a wall.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+262158 1 136249361 33816584 0 S
+25 0 0 1000d50+5000 1d1+1
+5000 0
+8 8 1
+0 0 17 18 15 16 16 16
+#5
+mob friend imaginary~
+Fish's imaginary friend~
+A friend for Fish for when SunShine isn't around.
+~
+He's imaginary, there's nothing here really.
+~
+262154 1 136249361 0 0 S
+5 30 20 10d10+50 2d3+1
+0 2000
+8 8 0
+0 0 22 24 20 20 19 21
+#6
+mob author sewers~
+the author of The Sewers~
+The author of The Sewers is standing here looking gormless.
+~
+A *dork*
+
+Probably a Dane too...
+~
+8 1 136249361 0 -1000 S
+48 1 0 3500d6+200 10d19+0
+100000 40000
+8 8 1
+0 0 21 20 19 21 18 19
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+#7
+mob reindeer red-nosed~
+a red-nosed reindeer~
+A red-nosed reindeer is standing here.
+~
+A huge reindeer with a bright red nose, that seems to glow!
+~
+16777224 32769 136249361 0 1000 S
+32 10 0 50d39+2000 10d9+20
+45000 185000
+8 8 0
+0 0 12 11 9 11 8 10
+SKILL=SPELL_ELSEWHERE 99
+#8
+mob Santa Claus~
+Santa claus~
+Santa Claus is standing here dressed in red and white.
+~
+He has a big fat belly and a big fat nose.  His heard is hanging down almost to
+his waist, covering his bare stomach a little.
+Santa is standing here almost totally nekkid though!  Somebody has stolen all
+of his clothes!
+~
+262216 1 136249361 0 1000 S
+50 30 25 10d100+200000 100d100+100
+1 0
+8 8 1
+0 0 18 18 18 18 18 18
+SKILL=SPELL_ELSEWHERE 99
+#9
+mob nacho demon~
+The Demon Nacho~
+The Demon Nacho is standing here, dripping with cheese.
+~
+A huge nacho about 6 feet tall and absolutely *dripping* with cheese and 
+salsa!  It looks fearsome!
+~
+1073741832 557057 136249361 0 -800 S
+37 7 -16 100d19+6000 6d3+5
+105000 210000
+8 8 0
+0 0 16 20 15 16 15 13
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+#10
+mob beast bloody~
+The bloody Beast~
+The bloody beast is here, hopefully looking for a victim.
+~
+You are looking up to a 10 feet high dreadful beast, he seems te be dripping
+all over with fresh blood. You can sense the smell of flesh in the
+surroundings. You are sure this monster will tear you apart in a second. 
+His huge fangs look that sharp that you become sad your life had to end
+this way.
+~
+1082462232 557057 136249361 119015106 0 S
+48 0 -20 100d99+20000 30d29+50
+3500000 1500000
+8 8 1
+0 0 23 24 20 21 18 21
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 80
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 50
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 90
+SKILL=SPELL_FIRESTORM 80
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=75
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_TYPE=105
+#11
+mob Bunny Easter~
+Easter Bunny~
+The Easter Bunny is here, laying eggs busily.
+~
+This cute white bunny is the most miraculous bunny in the world.  You see, this
+bunny lays eggs and they are bright beautiful eggs.  The bunny's serenity
+belies the hectic pace at which it lays these eggs...
+~
+1141112904 4194305 136249361 0 1000 S
+45 30 25 10d1+31000 10d19+119
+1 0
+8 8 0
+0 0 18 18 18 18 18 18
+SKILL=SPELL_ELSEWHERE 99
+#12
+mob Pooh-Bear dog~
+Pooh-Bear the dog~
+Pooh-Bear, Jupiter's dog is sleeping here.
+~
+You are looking at a beautiful, sweet brown dog. His name is
+Pooh-Bear and he belongs to Jupiter the Methuselah. 
+He starts licking you almost right away when he notices you.
+~
+537133064 1 136249361 131072 0 S
+43 40 40 100d100+20000 1d1+1
+1 0
+8 8 1
+0 0 16 17 15 16 12 15
+#13
+mob Rahnkara high priestess~
+Rahnkara the Highpriestess~
+The Highpriestess, Rahnkara is here smiling warmly.
+~
+Rahnkara is a beautiful looking creature.  She has the appearance of a ten year
+old girl, however you know from the legends that she has lived for hundreds of
+years.  Her head is shaven, and this combined with the simple cotton
+over-garment she wears gives her very boyish looks.
+~
+872677464 32769 136249361 128 1000 S
+48 0 -1 6000d1+216 127d127+127
+0 1
+8 8 2
+1 2 23 25 22 22 22 20
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+#14
+mob womble~
+a Womble~
+A womble is here, wombling free.
+~
+You see before you a curious looking creature. It is only about 18 inches tall
+and is covered in short grey fur. It looks almost like a small teddy bear, but
+has a long nose and small black shiny eyes. It is wearing a tartan cap and
+waistcoat, and seems to be muttering to itself quietly as it waddles around,
+collecting trash to take home.
+~
+8 32769 136249361 0 900 S
+1 35 39 8d1+1 1d1+2
+185 45
+8 8 0
+0 0 12 11 9 10 7 9
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_TELEPORT_SELF 99
+#15
+mob roy dignitary~
+A royal dignitary~
+A royal dignitary is tied up here.
+~
+   You seem a frail man yelling in his foreign tongue.
+"Inz ditz not have zezual relazions wiz daz womanz"
+
+He looks like he could use some help.
+~
+537133066 4227073 136249361 302254120 0 S
+41 10 40 50d50+10000 10d5+20
+1 0
+8 8 0
+0 0 16 17 14 15 15 11
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SPELL_HASTE 99
+SKILL=SPELL_GATE 99
+#16
+mob Sha'Tav Faceless~
+&RSha'Tav&n~
+The Faceless 
+~
+Followers of Sha'Tav fear their Lord and believe that only by causing terror
+in others will they be spared his vengeful wrath.  They strive to beat down and
+suppress all hope.  Fear rules their lives and through fear they rule the lives of
+others.  Pain, misery, violence, torture, living sacrifice:  these are the tools 
+of a Sha'Tavite.  The Faceless God is a massice bulk of charred flesh and bone, oozing
+with decay and giving off a scent of fear.  It swallows all it encounters and its 
+shadow makes you feel very cold.  
+~
+1112835850 6062081 169803825 805307018 -1000 S
+48 0 -20 100d100+3000000 20d20+60
+5000000 2000000
+8 8 0
+24 4 24 13 15 16 14 11
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_HAIL_STORM 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 80
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_PICK_LOCK 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 80
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_HEAL_MAJOR 80
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_WATERWALK 99
+SKILL=SPELL_TELEPORT_SELF 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+SKILL=SPELL_MIRROR_SELF 99
+SKILL=SKILL_RAGE 99
+SKILL=SKILL_SWITCH 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SKILL_MEDITATE 99
+SKILL=SKILL_BERSERK 99
+SKILL=SPELL_BIND_SOULS 99
+SKILL=SPELL_CALL_LIGHTNING 99
+SKILL=SPELL_FLY 99
+SKILL=SKILL_ESCAPE 99
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=101
+#17
+mob Plaguebringer Baal'Nergal~
+&BBaal'Nergal&n~
+The Plaguebringer
+~
+Followers of Baal'Nergal believe the only truth in Crimson is that everything
+dies.  They view the decay of flesh as a thing of ultimate beauty.  The subtle
+purples of a fresh bruise, the almost irridescent yellow green of an infested
+wound, are but a few of the things His followers relish.  It is not suprising
+that most of His followers follow the dark arts.  Do not take this to mean that
+His followers are suicidal or seek a quick death.  To the contrary, they wish
+to live long, painful lives, spreading their dark, diseased stain across all 
+of Crimson.
+~
+1112835850 6062081 169803825 805307018 -1000 S
+48 0 -20 100d1+3000000 20d20+60
+1000000 2000000
+8 8 0
+24 4 24 13 15 16 14 11
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_HAIL_STORM 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 80
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_PICK_LOCK 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 80
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_HEAL_MAJOR 80
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_WATERWALK 99
+SKILL=SPELL_TELEPORT_SELF 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+SKILL=SPELL_MIRROR_SELF 99
+SKILL=SKILL_RAGE 99
+SKILL=SKILL_SWITCH 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SKILL_MEDITATE 99
+SKILL=SKILL_BERSERK 99
+SKILL=SPELL_BIND_SOULS 99
+SKILL=SPELL_CALL_LIGHTNING 99
+SKILL=SPELL_FLY 99
+SKILL=SKILL_ESCAPE 99
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_TYPE=101
+#18
+mob Prince Hate Carr'buth~
+&CCarr'buth&n~
+The Prince of Hate
+~
+Followers of Carr'buth include almost the entire Dark Elven race who regard him
+as their 'Father.'  They believe that Hate is a creative force, or rather 'THE'
+creative force in the universe. Creativity born of destruction.  Love and kindness
+are tools for those too ignorant to know what they want or too cowardly to do
+what is necessary to obtain it.  It is only through the total disdain of your enemies
+thay you will have power over them.  Pity and mercy have no power when
+confronted with contempt and viciousness.  It is the honest belief of the 
+followers of Carr'buth that if they were to hate strong enough they could
+destroy all of Crimson.
+~
+1112835850 6066177 169803825 805307018 -1000 S
+48 0 -20 100d1+3000000 20d20+60
+1000000 2000000
+8 8 0
+24 4 24 13 15 16 14 11
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_HAIL_STORM 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 80
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_PICK_LOCK 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 80
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_HEAL_MAJOR 80
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_WATERWALK 99
+SKILL=SPELL_TELEPORT_SELF 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+SKILL=SPELL_MIRROR_SELF 99
+SKILL=SKILL_RAGE 99
+SKILL=SKILL_SWITCH 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SKILL_MEDITATE 99
+SKILL=SKILL_BERSERK 99
+SKILL=SPELL_BIND_SOULS 99
+SKILL=SPELL_CALL_LIGHTNING 99
+SKILL=SPELL_FLY 99
+SKILL=SKILL_ESCAPE 99
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_TYPE=101
+#19
+mob Warlord Ba'Mahlaht~
+&WBa'Mahlaht&n~
+The Warlord
+~
+The followers of Ba'Mahlaht believe in survival of the strong and death to the
+weak.  In the heat of battle is the only place where enlightenment can be gained.
+The universe was formed in conflict and will end in conflict.  The victors
+feasting upon the remains of the fallen enemy.  No respect nor regard is given to
+the dead, for if they were worthy their hearts would still pump blood through their
+veins and not upon the soil of Crimson.  Followers of Ba'Mahlaht are almost 
+exclusively warriors.
+~
+1112835850 6062081 169803825 805307018 -1000 S
+48 0 -20 100d1+3000000 20d20+60
+1000000 2000000
+8 8 0
+24 4 24 13 15 16 14 11
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_BURNING_HANDS 99
+SKILL=SPELL_HAIL_STORM 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 80
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_PICK_LOCK 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 80
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_HEAL_MAJOR 80
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_WATERWALK 99
+SKILL=SPELL_TELEPORT_SELF 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+SKILL=SPELL_MIRROR_SELF 99
+SKILL=SKILL_RAGE 99
+SKILL=SKILL_SWITCH 99
+SKILL=SPELL_DEMON_FLESH 99
+SKILL=SKILL_MEDITATE 99
+SKILL=SKILL_BERSERK 99
+SKILL=SPELL_BIND_SOULS 99
+SKILL=SPELL_CALL_LIGHTNING 99
+SKILL=SPELL_FLY 99
+SKILL=SKILL_ESCAPE 99
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_TYPE=101
+#20
+mob Platypus~
+The &BPlatypus&n of &RPAIN&n~
+The &BPlatypus&n of &RPAIN&n is here, swimming playfully in his waterhole.
+~
+The &BPlatypus&n of &RPAIN&n is here, swimming in his water hole. You have heard about this creature before
+in stories from Australians. This is the only mammal that is born from an egg, which is weird in itself.
+You get the feeling this creature is not a calm one, as his razor sharp teeth jut out of his mouth, covered in blood.
+Maybe you should back away before you get hurt.
+~
+10 1 136249361 128 0 S
+48 0 -30 100d100+999999 30d30+50
+5000000 2000000
+8 8 0
+0 0 25 18 16 16 14 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#21
+mob Zephyr master assassin~
+&KZephyr&w, the &cMas&Bte&br Ass&Bas&csin&n ~
+&KZephyr&w, the &cMas&Bte&br Ass&Bas&csin &wslinks in the shadows&n
+~
+  Man or woman? Human or demon? Noone knows who or where Zephyr came from, or how it came to be
+what it is, but what is known is that the creature is the perfect assassin. Working for the highest 
+bidder, it strikes without warning, always fulfilling a contract. Those who see the beast are usually
+too stunned to speak of it...those who cross its path never get that chance.
+~
+1410662412 139755521 136249361 1094189696 0 S
+49 0 -40 10d100+45000 40d35+99
+4000000 1500000
+8 8 0
+0 0 16 15 14 14 13 15
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_HUNT 80
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=102
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=102
+#22
+mob astral dragon mist~
+&WM&wis&Wt&n~
+A tiny dragon float here, phasing between realities.
+~
+  Astral dragons are tiny little creatures that exist in both the prime material plane and 
+the astral planes of existance. Their bodies are covered in silvery-grey scales that seem
+to shift and phase between the two realities. Though they rarely attack, they as ferocious
+as any normal dragon when challenged, and should be treated as such.
+~
+5244942 5275649 136249361 1412981502 1000 S
+50 -30 -40 100d100+50000 25d25+45
+5000000 2000000
+8 8 0
+0 0 16 18 15 14 14 12
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 70
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_HOLD_PERSON 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#23
+mob Glait~
+&gGlait&n~
+&gGlait&w, Miriamele's pet snake, observes you closely
+~
+Glait, a small snake-like creature from the Courts of Chaos, slowly slithers towards you.
+Looking for vermin or a small saucer of milk, Glait is Miriamele's trusted pet and friend.
+Though small, Glait is resourceful and possesses great cunning.  She is also loyal to her
+mistress.  Be careful not to anger her.
+~
+17039454 1 136249361 524288 0 S
+49 -10 -40 1d1+49999 1d1+90
+25000000 2500000
+8 8 2
+7 3 23 23 20 25 25 20
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_SKILL=60
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_SKILL=60
+ATTACK_TYPE=108
+#24
+mob Rel'hic~
+&rRel&W'&rhic&n~
+&rRel&W'&rhic&w, guardian and lord of &yMeats &wof &rEvil&n
+~
+Rel'hic is one helluva luvah!  But he's also quite effective in beating the unholy shite
+out of just about anyone.  Like a siren, his bewitching songs lure people into their dooms.
+Rather than having nice bosoms, or a bewitching smile, Rel'hic possesses a small heart and
+strong hands.  The better to crush you with, my dear.
+
+~
+1105998 5603329 136249361 1073758472 0 S
+50 -55 -40 1d1+34999 25d20+10
+5000000 2500000
+8 8 1
+10 4 24 22 12 20 25 25
+SKILL=SPELL_HEAL_MAJOR 80
+ATTACK_SKILL=75
+ATTACK_SKILL=65
+ATTACK_SKILL=55
+ATTACK_TYPE=106
+ATTACK_SKILL=75
+ATTACK_SKILL=65
+ATTACK_SKILL=55
+ATTACK_TYPE=101
+ATTACK_SKILL=75
+ATTACK_SKILL=65
+ATTACK_SKILL=55
+ATTACK_TYPE=105
+#25
+mob Buckhi~
+&KB&Wu&rck&Wh&Ki&n~
+&KB&Wu&rck&Wh&Ki&w, slayer of &yfawns&w, master of &ygerbils&n
+~
+
+Buckhi, Buckhi, Buckhi.  The Grand Designer foretold the coming of the dreamer.  He who would
+mold whole worlds with his warped illusions and twisted fantasies.  A dreamer who would take
+the known reality and reverse the established Order.
+
+But Buckhi don't give a damn, no suh.  He prefers to drink da liquor, slap da bitches and
+eat dat fine, fine bratwurst.  Oh, and he likes to make blood spill.  Occasionally he'll
+mutter such words as "munchy frog, jump testicle, bad mormon." Don't pay that any mind.
+
+He's sexy.
+
+~
+8448014 5275649 136249361 1140851720 0 S
+50 -55 -37 1d1+34999 26d22+20
+5000000 2500000
+8 8 1
+30 6 19 25 16 25 25 25
+SKILL=SPELL_HEAL_MEDIUM 90
+SKILL=SPELL_LIFETAP 85
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_TYPE=106
+ATTACK_SKILL=65
+ATTACK_SKILL=65
+ATTACK_SKILL=65
+ATTACK_TYPE=108
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_TYPE=100
+#26
+mob bounty master bountymaster~
+&yB&Kou&ynt&Ky &yM&Ka&yst&Ke&yr&n~
+The &yB&Kou&ynt&Ky &yM&Ka&yst&Ke&yr&n watches your movements carefully.
+~
+The Bounty Master is a tough, cynical and humorless creature.  Long involved in the arts
+of pain, he served initially as an apprentice to Jinipan, seeking the rewards of constant
+physical challenge.  His attitude changed as his experience grew, and he effectively grew
+to become an opposite of Jinipan - a merciless persecutor, killer and scourge to all who
+walked the lands.  Breaking away from Jinipan, the Bounty Hunter hired his skills out and
+learned more about death, becoming an employee of the Questmaster and even an emissary of
+the Dungeon Master.  Finally the Bounty Master grew satisfied in his abilities and had
+developed a reputation - merciless, brutal, successful and perfect.  He tired of his job
+eventually, and began to take more interest in watching how others carried out the art 
+of murder, and thus started his own business.  He takes great interest in the success and
+abilities of others... and is known for rewarding those who do well, and punishing those
+who do not.  He is a deadly master, one not to be trifled with.
+
+~
+613679116 1052673 136249361 1075855496 -1000 S
+49 -10 -35 1d1+74999 25d3+15
+15000000 2500000
+8 8 1
+17 4 24 15 13 22 22 13
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_SILENCE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+#27
+mob bounty hunter bountyhunter~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 15 16 13 14
+$~
+#999999

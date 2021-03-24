@@ -1,0 +1,1426 @@
+#3000
+obj beer barrel~
+100
+a barrel~
+A beer barrel has been left here.~
+~
+17 0 0 1
+50 50 1 0
+65 300 100
+#3001
+obj beer bottle~
+100
+a bottle~
+A beer bottle has been left here.~
+~
+17 0 0 1
+8 8 1 0
+10 20 8
+#3002
+obj ale bottle dark~
+100
+a bottle~
+A dark bottle of ale has been left here.~
+~
+17 0 0 1
+8 8 3 0
+10 10 3
+#3003
+obj firebreather bottle~
+100
+a firebreather~
+A firebreather has been left here.~
+~
+17 0 0 1
+8 8 7 0
+10 50 17
+#3004
+obj local bottle~
+100
+a bottle~
+A dark bottle has been left here.~
+~
+17 0 0 1
+8 8 8 0
+10 20 7
+#3010
+obj bread~
+100
+a bread~
+A loaf of bread has been left here.~
+~
+19 0 0 1
+12 0 0 0
+1 10 10
+#3011
+obj danish pastry~
+100
+a danish pastry~
+A nice looking delicious danish pastry has been placed here.~
+~
+19 0 0 1
+5 0 0 0
+1 5 5
+#3020
+obj dagger~
+10
+a dagger~
+A dagger with a long thin blade is here.~
+pierce~
+5 0 0 8193
+0 1 4 11
+1 10 3
+#3021
+obj sword small crap~
+10
+a small sword~
+A small sword lies here.~
+slash~
+5 0 0 8193
+0 1 6 3
+3 60 20
+E
+inscription~
+It says : May this sword be a good companion.
+~
+E
+sword small~
+The small sword seems to have an inscription of some sort.
+~
+#3022
+obj sword long crap~
+10
+a long sword~
+A long sword has been left here.~
+slash~
+5 0 0 8193
+0 1 8 3
+7 600 200
+#3023
+obj club wooden~
+10
+a wooden club~
+A simple looking wooden club is here.~
+pound~
+5 0 0 8193
+0 1 3 7
+3 12 4
+#3024
+obj warhammer hammer~
+100
+a warhammer~
+A medium sized warhammer is here.~
+pound~
+5 0 0 8193
+0 1 5 7
+6 50 17
+#3030
+obj torch~
+100
+a torch~
+A large torch.~
+~
+1 0 0 65537
+0 0 24 0
+1 10 3
+#3031
+obj lantern~
+100
+a lantern~
+A brass lantern.~
+~
+1 0 0 65537
+0 0 96 0
+1 50 17
+#3032
+obj bag~
+100
+a bag~
+A small bag.~
+~
+15 0 0 16385
+50 0 0 0
+2 20 7
+#3033
+obj box~
+10
+a box~
+A small box.~
+~
+15 0 0 16385
+10 0 0 0
+5 50 7
+#3040
+obj breast plate~
+100
+a breast plate~
+A breast plate is lying on the ground.~
+~
+9 69632 0 9
+7 0 0 0
+100 18000 6000
+#3041
+obj chain mail shirt crap~
+10
+a chain mail shirt~
+A chain mail shirt is lying on the ground.~
+~
+9 69632 0 9
+5 0 0 0
+60 2500 650
+#3042
+obj shield wooden crap~
+10
+a shield~
+A small wooden shield is lying on the ground.~
+~
+9 4096 0 513
+10 0 0 0
+3 100 33
+#3043
+obj jacket soft leather~
+10
+a leather jacket~
+A soft leather jacket is lying on the ground.~
+~
+9 65536 0 9
+2 0 0 0
+10 200 60
+#3044
+obj jacket studded~
+10
+a studded leather jacket~
+A studded leather jacket is lying on the ground.~
+~
+9 69632 0 9
+3 0 0 0
+20 500 150
+#3045
+obj jacket scale mail~
+10
+a scale mail jacket~
+A scale mail jacket is lying on the ground.~
+~
+9 69632 0 9
+4 0 0 0
+40 1000 300
+#3046
+obj bronze breast plate~
+10
+a bronze breast plate~
+A bronze breast plate is lying on the ground.~
+~
+9 69632 0 9
+6 0 0 0
+80 7000 2250
+#3050
+obj scroll identify~
+100
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 0 16385
+12 53 -1 -1
+1 3400 1250
+E
+scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#3051
+obj potion yellow~
+100
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 64 0 16385
+12 19 -1 -1
+1 2000 50
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#3052
+obj scroll recall~
+100
+a scroll of recall~
+A scroll has been left here carelessly.~
+~
+2 64 0 1
+12 42 -1 -1
+4 2000 100
+E
+scroll~
+The scroll has written a formulae of 'Word of Recall' upon it.
+~
+#3053
+obj wand invisibility~
+10
+a wand of invisibility~
+A wand has carelessly been left here.~
+~
+3 64 0 16385
+12 2 2 29
+2 4000 100
+E
+wand~
+The wand is an old dark stick. You notice a small symbol etched at the
+base of the wand. It looks like this:
+
+     \ /
+    - O -
+     / \
+~
+#3054
+obj staff~
+10
+a staff of sleep~
+A staff has carelessly been left here.~
+~
+4 64 0 16385
+12 1 1 38
+7 5000 100
+E
+staff~
+The staff is made of old oak, and is around five feet long. It fits
+perfectly into your hand. You notice a small symbol etched at the
+base of the staff, it looks like:
+
+  ZZZZZ
+     Z
+    Z
+   Z
+  ZZZZZ  z   z
+~
+#3060
+obj raft~
+100
+a raft~
+A raft has been left here.~
+~
+22 0 0 1
+0 0 0 0
+75 400 25
+E
+raft~
+The raft looks very primitive.
+~
+#3061
+obj canoe~
+100
+a canoe~
+A canoe has been left here.~
+~
+22 0 0 1
+0 0 0 0
+32 1000 2000
+E
+canoe~
+The canoe is fairly light.
+~
+#3070
+obj gauntlets bronze~
+10
+a pair of bronze gauntlets~
+A pair of bronze gauntlets is lying on the ground.~
+~
+9 4096 0 129
+6 0 0 0
+8 1750 550
+#3071
+obj gloves leather~
+10
+a pair of leather gloves~
+A pair of leather gloves is lying on the ground.~
+~
+9 0 0 129
+3 0 0 0
+3 75 25
+#3073
+obj slot machine midgaard~
+10
+Bingo's Crimson Mud 2 Slot Machine~
+A tiny wooden slot machine is resting here.  Go ahead try it out.~
+~
+8 8 0 0
+0 0 0 0
+3 75 25
+#3074
+obj extra bulletin board 7~
+10
+A spare bulletin board~
+A spare bulletin board hangs on a wall.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3075
+obj helmet bronze~
+10
+a bronze helmet~
+A bronze helmet is lying on the ground.~
+~
+9 69632 0 17
+6 0 0 0
+8 3500 1200
+#3076
+obj cap leather~
+10
+a leather cap~
+A leather cap is lying on the ground.~
+~
+9 65536 0 17
+3 0 0 0
+3 150 50
+#3080
+obj leggings bronze~
+10
+a pair of bronze leggings~
+A pair of bronze leggings is lying on the ground.~
+~
+9 4096 0 33
+6 0 0 0
+8 3500 1200
+#3081
+obj pants newbie crap~
+10
+a pair of newbie pants~
+A pair of newbie pants is lying on the ground.~
+~
+9 0 0 33
+3 0 0 0
+8 150 50
+#3085
+obj sleeves bronze~
+10
+a pair of bronze sleeves~
+A pair of bronze sleeves is lying on the ground.~
+~
+9 4096 0 257
+6 0 0 0
+8 1750 550
+#3086
+obj sleeves leather~
+10
+a pair of leather sleeves~
+A pair of leather sleeves is lying on the ground.~
+~
+9 0 0 257
+2 0 0 0
+4 75 25
+#3096
+obj board bulletin LAT~
+10
+Latorrmis Board~
+A glowing board stands here...the work of the gods.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages. Use "Read
+<message number>" or "Remove <message number>" to read or remove
+a message, respectively.
+~
+#3097
+obj board bulletin immortal~
+10
+Immortal Board~
+You see various immortal scribblings on this board.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages. Use "Read
+<message number>" or "Remove <message number>" to read or remove
+a message, respectively.
+~
+#3098
+obj board bulletin zonelord~
+10
+Zonelord Board~
+The drawings of many zonelords cover this board.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages. Use "Read
+<message number>" or "Remove <message number>" to read or remove
+a message, respectively.
+~
+#3099
+obj board bulletin mortal~
+10
+Mortal Board~
+A large bulletin board is mounted on a wall here.~
+~
+13 8 0 0
+0 0 0 0
+1000 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages. Use "Read
+<message number>" or "Remove <message number>" to read or remove
+a message, respectively.
+~
+#3100
+obj tea cup~
+32767
+a cup~
+A cup has been set here.~
+~
+17 0 0 1
+8 8 11 0
+1 5 1
+E
+cup~
+It is a small simple cup.
+~
+#3101
+obj coffee cup~
+32767
+a cup~
+A cup has been set here.~
+~
+17 0 0 1
+8 8 12 0
+1 7 1
+E
+cup~
+It is a small simple cup.
+~
+#3102
+obj water cup~
+32767
+a cup~
+A cup has been set here.~
+~
+17 0 0 1
+16 16 0 0
+1 2 1
+E
+cup~
+It is a large simple cup.
+~
+#3120
+obj key iron~
+2
+a key~
+An iron key has been left here.~
+~
+18 262152 0 1
+0 0 0 0
+1 0 10
+E
+key iron~
+The iron key is not special.
+~
+#3121
+obj key rusty~
+2
+a key~
+A rusty key has been left here.~
+~
+18 262152 0 1
+0 0 0 0
+1 0 10
+E
+key rusty~
+The key is a fairly large rusty key. You notice a lot of dirt it.
+~
+#3122
+obj key wooden~
+2
+a key~
+A wooden key has been left here.~
+~
+18 262152 0 1
+0 0 0 0
+1 0 10
+E
+key wooden~
+The wooden key is not special.
+~
+#3123
+obj key brass~
+2
+a key~
+A brass key has been left here.~
+~
+18 262152 0 1
+0 0 0 0
+1 0 10
+E
+key brass~
+The brass key is small and looks like it fits a very complicated lock.
+~
+#3130
+obj desk drawer~
+32767
+the desk~
+A desk is set against the western wall.~
+The desk looks very sparse, there is a drawer in the left side.
+~
+15 0 0 0
+34 15 3122 0
+100 0 100000
+E
+drawer~
+You notice a keyhole in the drawer.
+~
+#3131
+obj safe~
+32767
+the safe~
+A safe is placed in a dark corner of the room.~
+The safe has a keyhole.
+~
+15 0 0 0
+34 15 3123 0
+100 0 100000
+E
+safe~
+The safe is very heavy.
+~
+#3132
+obj gold coins~
+100
+the gold~
+A lot of gold is here.~
+Looks like at least 10,000 coins.
+~
+20 8 0 1
+52385 0 0 0
+0 52385 0
+#3133
+obj city key~
+2
+the City Key~
+The very big City Key is lying here.~
+It is probably the biggest key you have seen in your life.  It is made from
+polished gold and has various patterns on it along with the Midgaard Coat of
+Arms.
+~
+18 262152 0 1
+0 0 0 0
+10 10000 5000
+#3134
+obj bench~
+32767
+the Bench~
+A white-painted wooden bench is standing here.~
+~
+12 0 0 0
+0 0 0 0
+100 600 200
+E
+bench~
+It is a quite heavy but very comfortable bench.  It is placed with its front
+towards the river so you can sit and watch the river and the houses on the
+other side.
+~
+#3135
+obj fountain~
+1
+a fountain~
+A small white fountain is standing at the end of the road.~
+~
+17 8 0 0
+50 50 0 0
+500 3000 1000
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#3136
+obj coins gold~
+100
+a small pile of gold coins~
+A small pile of gold coins lies here.~
+~
+20 8 0 1
+20 0 0 0
+0 0 0
+#3400
+obj candlestick~
+100
+a candlestick~
+A pewter candlestick is standing here.~
+~
+1 0 0 16385
+0 0 24 0
+5 150 50
+E
+candlestick~
+It is a rather old-looking three-armed candlestick made from pewter.  Its
+candles are a yellowish white colour.
+~
+#3401
+obj eye agamotto obj quest3 DEIIS LOAD ONLY~
+0
+&CEye &Wof &YA&Wg&wamot&Wt&Yo&n~
+&WA strange eye shaped amulet has been misplaced here.&n~
+~
+9 134479937 0 5
+45 0 0 0
+1 0 0
+A
+25 2
+A
+40 5
+A
+41 5
+A
+18 2
+#3402
+obj wand twisted wooden~
+100
+a twisted wooden wand~
+A twisted wooden wand lies here.~
+~
+3 64 0 131073
+10 0 0 0
+1 5 5
+#3403
+obj sword newbie brand crap~
+100
+a newbie sword~
+A newbie's sword has been left here.~
+~
+5 8 0 8193
+0 1 8 11
+1 0 1
+E
+sword newbie~
+It looks like a pretty awful sword... best try to get another one soon.
+~
+#3404
+obj jacket newbie wear crap~
+100
+a newbie leather jacket~
+A newbie has left his leather jacket here.~
+~
+9 8 0 9
+5 0 0 0
+1 0 1
+E
+armor jacket newbie~
+This armor is very thin and does not look very good at all.
+~
+#3405
+obj boots newbie pair crap~
+100
+a pair of newbie boots~
+A pair of newbie boots have been discarded here.~
+~
+9 8 0 65
+5 0 0 0
+3 10 10
+#3406
+obj garter~
+0
+&bsap&Bph&bire b&Blu&be ga&Brt&ber&n~
+a blue garter lays here~
+~
+12 134217728 0 33
+0 0 10 0
+1 5 5
+#3407
+obj wedding dress~
+100
+Wedding Dress~
+A sheer white silk wedding dress lays here~
+~
+12 0 0 9
+0 0 10 0
+1 5 5
+#3408
+obj tuxedo tux~
+100
+Black Tuxedo~
+a black tuxedo lays here~
+~
+12 0 0 9
+0 0 10 0
+1 5 5
+#3409
+obj bow tie~
+100
+bow tie~
+a tie lays on the ground~
+~
+12 0 0 5
+0 0 10 0
+1 5 5
+#3410
+obj engagement ring~
+100
+an engagement ring~
+A thin gold ring with a large diamond set in it is here.~
+~
+9 0 0 3
+0 0 10 0
+1 5 5
+#3411
+obj birthday cake~
+100
+a birthday cake~
+A birthday cake lies here on the floor.~
+~
+19 0 0 1
+24 0 10 0
+1 5 5
+#3412
+obj high level reimb sword~
+100
+a high level reimb sword~
+A dull metal sword lies here.~
+~
+5 1048576 0 8193
+0 3 10 3
+5 12000 3000
+A
+18 1
+A
+19 1
+#3413
+obj high level reimb armor~
+100
+high level reimb armor~
+A suit of dull metal armor lies in the dust.~
+~
+9 1048576 0 9
+8 0 10 0
+20 20000 5000
+A
+19 1
+A
+18 1
+#3414
+obj high level reimb helmet~
+100
+a high level reimb helmet~
+A dull metal helmet lies in the dirt.~
+~
+9 1048576 0 17
+5 0 10 0
+5 4000 1000
+A
+18 2
+#3415
+obj high level reimb shield~
+100
+a high level reimb shield~
+A dull metal sheild lies in the dust.~
+~
+9 1048576 0 513
+10 0 10 0
+5 2000 500
+A
+19 1
+#3416
+obj low level reimb sword~
+100
+low level reimb sword~
+A shoddy sword lies in the dust.~
+~
+5 0 0 8193
+0 1 12 3
+4 2000 500
+#3417
+obj low level reimb armor~
+100
+low level reimb armor~
+A shoddy suit of armor lies in the dust.~
+~
+9 0 0 9
+4 0 10 0
+10 500 125
+#3418
+obj low level reimb helmet~
+100
+a low level reimb helmet~
+A shoddy helmet lies in the dirt.~
+~
+9 0 0 17
+3 0 10 0
+3 40 10
+#3419
+obj low level reimb shield~
+100
+a low level reimb shield~
+A shoddy shield has been left here to rot.~
+~
+9 0 0 513
+3 0 10 0
+5 60 15
+#3420
+obj gauntlet of might~
+100
+&pGa&wu&Kntl&we&pts &Wof &pM&wi&Kg&wh&pt&n~
+A shiny gauntlet lies here.~
+~
+9 0 0 129
+0 0 10 0
+1 5 5
+#3421
+obj midgaard fountain~
+1
+a fountain~
+A fountain of a Fish with water pouring from its mouth is standing here.~
+~
+17 8 0 0
+1000000 1000000 0 0
+1000 5 5
+#3422
+obj house key 1 emerald ave~
+2
+a house key~
+Someone lost their house key here.~
+~
+18 262152 0 16385
+3422 0 10 0
+1 5 2000
+#3423
+obj house key 4 emerald ave~
+2
+a house key~
+Someone lost their house key here.~
+~
+18 262152 0 16385
+3423 0 10 0
+1 5 2000
+#3424
+obj note~
+100
+a note~
+A note is pinned to the wall here.~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#3425
+obj house key 5 emerald ave~
+2
+a house key~
+Someone lost their house key here.~
+~
+18 262152 0 16385
+3425 0 10 0
+1 5 2000
+#3426
+obj house key~
+2
+a house key~
+Someone lost their house key here.~
+~
+18 262152 0 16385
+3426 0 10 0
+1 5 2000
+#3427
+obj key Grand golden~
+2
+a golden key~
+You see the key to the Grand Pavilion.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#3428
+obj potion blue~
+100
+a blue potion of healing~
+a small crystal vial with blue liquid inside~
+~
+10 64 0 16385
+30 75 0 0
+1 2059 1300
+#3429
+obj cane~
+100
+a candy cane~
+a small red and white candy cane~
+~
+10 0 0 1
+30 0 0 16
+1 10000 1300
+#3430
+obj necktie tie~
+100
+A necktie~
+The mayor's necktie is lying on the group.~
+~
+9 0 0 5
+0 0 10 0
+1 5 5
+#3431
+obj canteen water~
+100
+a canteen~
+A canteen has been set on the ground here.~
+~
+17 0 0 1
+80 80 0 0
+20 45 20
+#3432
+obj sign midgaard map~
+1
+the big signpost~
+A big signpost with a map has been erected here.~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+E
+sign newbie~
+The sign has this large picture chiselled into it.  It has been designed to
+assist newcomers to this land find their barings.
+
+                   Snotling         Newbie Village---\
+                     Camp                            |
+                       |   #######################   |
+                       |   #        Temple       #   |
+              Gnome    |   #          |          #   |
+             Village---|   #          |          #   |
+                       |   #          |          #   |
+          North Rd-----|   #   /-Bank |          #   |
+                       | West |       |         East |
+             <---------+-Gate-+----- U R -----+-Gate-+-----+----->
+                       |   #  |     Here.     |  #         |
+                       |   #  |       |       |  #         |
+              South----/   #  \-------+-------/  #        \|/
+               Rd          #          |          #       Ratmen
+               |           #        Dump         #
+              \|/          #######################
+~
+#3433
+obj cart snotling carriage vehicle~
+1
+a snotling-drawn cart~
+A cart, pulled by dozens of tiny snotlings is standing here.~
+~
+24 8 0 0
+10 10 10 20
+1 5 0
+E
+cart~
+The cart is a rickety old wooden cart, pulled by dozens of tiny snotlings
+strapped into the harness.
+~
+E
+interior~
+You are sitting on a rickety wooden cart, pulled by dozens of tiny snotlings
+tied to the harness.
+~
+E
+arrival~
+A wooden cart, pulled by dozens of panting snotlings rolls in.
+A gruff goblin's voice yells "All aboard!".
+~
+#3434
+obj limo~
+2
+A stretch limo~
+A stretch limo idles here waiting to carry the rich.~
+~
+24 0 0 0
+0 0 10 0
+1 5000 5
+#3435
+obj book guide newbie crap~
+100
+a newbie's guide book~
+A newbie has left their guidebook here.~
+~
+13 8 0 16385
+0 0 10 0
+1 5 5
+E
+map 1~
+        ******************Ye Map of Midgaard*******************
+ 
+                             CONFESSIONAL
+                                   |
+                                 ALTAR                   DRESSING ROOM
+                                   |                      /
+                                   |                  RECEPTION (RENT)
+            CHAT------READING----TEMPLE----DONATION   /
+            ROOM       ROOM        |         ROOM   /
+       WALL                        |              /
+       ROAD--BANK      CLERIC----TEMPLE--------INN----BAR (barrels)
+        |              GUILD     SQUARE
+       WALL                        |
+       ROAD      MAGIC    BAKER    |   GENERAL   WEAPON
+        |         SHOP     SHOP    |    STORE     SHOP
+       WEST        |        |      |      |        |         EAST
+   <=--GATE-------(MAIN STREET)--MARKET--(MAIN STREET)-------GATE--=>
+        |          |        |    SQUARE   |        |           | 
+        |        MAGIC    ARMORY   |     PET    WARRIOR        |
+       WALL      GUILD    SHOP     |     SHOP    GUILD       EAST
+       ROAD                        |                         ROAD
+        |                          |                           | 
+        |                          |                           |
+        WALL-----POOR----E POOR--COMMON--DARK---LEVEE------E ALLEY
+        ROAD     ALLEY    ALLEY  SQUARE  ALLEY  ALLEY        END  
+        |                   |      |       |       |          | 
+        |                 FILTHY   |    THIEVES  LEVEE     WAREHOUSE
+        |                   INN    |     GUILD
+        V                         DUMP
+     SOUTHERN
+     MIDGAARD
+~
+E
+book index~
+You are looking at a fairly hefty book.  There is a message on it's cover:
+ 
+        This book is written to help newcomers to the mud to settle
+        in as fast as possible.  In it is hopefully everything you
+                        need to get started smoothly.
+                Note this book can be EATEN in emergencies.
+ 
+Type 'read <page>' to read the book.  Pages names are in upper case letters.
+ 
+MAP map of midgaard.
+WALKING around the game.
+FIGHTING
+RESTING
+SUSTENANCE eating and drinking.
+EQ your equipment and how to use it.
+SPELLS using your spells and skills.
+COMM communicating with other people.
+STATS stats, what they are, how to see them.
+PRAC gaining new spells and skills.
+BANK keeping your money safe.
+SHOPS how to buy and sell things in the shops.
+RENT how to store your equipment between playing sessions.
+DONATION
+ABBREVIATIONS a fairly handy feature of the mud.
+HELP how to use online mud help.
+~
+#3436
+obj board bulletin tree~
+1
+Social Board~
+A large oak tree is standing here with a board attached to it.~
+~
+13 8 0 0
+0 0 0 0
+1000 0 0
+#3437
+obj roses dozen white~
+1
+a dozen of white roses~
+A dozen of beautiful white roses lie here.~
+~
+9 0 0 16385
+0 0 10 0
+1 5 5
+#3438
+obj statue platinum c2 crimson~
+100
+Platinum Crimson II Statue~
+A statue honoring the players, past, present and future, of Crimson Mud 2, stands here.~
+~
+8 0 0 0
+0 0 10 0
+500000000 5 5
+E
+statue~
+This is a statue dedicated to the hardworking people on Crimson II Mud.
+Both Immortals and Mortals who make this place a better place to live.
+Sit and bask in its glory.
+~
+#3439
+obj ledger grocer~
+100
+a ledger~
+A blank ledger lies here covered with dust.~
+~
+16 0 0 16385
+0 0 10 0
+1 5 5
+#3440
+obj quill grocer~
+100
+a magic quill~
+A magic quill that never runs out of ink lies here.~
+~
+21 64 0 16385
+0 0 10 0
+1 5 5
+#3441
+obj potion sustenance midgaard~
+100
+a potion of sustenance~
+A potion of sustenance has been left here.~
+~
+10 262144 0 1
+20 88 0 0
+6 5500 5
+#3442
+obj potion help midgaard~
+100
+a helpfull potion~
+A potion has been left here, it looks pretty usefull.~
+~
+10 262144 0 1
+20 1 3 36
+6 9000 5
+#3443
+obj potion healing midgaard~
+100
+a potion of healing~
+A potion of healing lies here in the dust.~
+~
+10 262144 0 1
+20 15 16 0
+6 5500 5
+#3444
+obj potion green midgaard~
+100
+a green potion~
+A green potion lies here.~
+~
+10 262144 0 1
+41 43 0 0
+6 5500 5
+#3445
+obj potion red midgaard~
+100
+a red potion~
+A red potion lies here.~
+~
+10 262144 0 1
+41 35 0 0
+6 5500 5
+#3446
+obj potion blind midgaard~
+100
+a potion of cure blind~
+A potion to cure blindness lies here.~
+~
+10 262144 0 1
+20 14 0 0
+6 5500 5
+#3447
+obj board bulletin auction~
+1
+Auction Board~
+A board for auctions is here.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+#3448
+obj council B-object doesn't work~
+1
+Council Board~
+A council board is here.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3449
+obj creation B-object doesn't work~
+1
+Creations Group Board~
+The board for the &G|-** Creation **-|&n group stands here~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3450
+obj extra bulletin board 8~
+1
+A spare bulletin board~
+A spare bulletin board hangs on a wall.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3451
+obj development B-object doesn't work~
+1
+Development Group Board~
+The board for the &W==-* Development *-==&n Group stands here.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3452
+obj relations B-object doesn't work~
+1
+Relations Group Board~
+The board for the &C\/** Relations **\/&n Group stands here.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3453
+obj board bulletin coder~
+1
+Coder's board~
+A board for coders is hanging here on the wall.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3454
+obj ocopyof3448~
+1
+Counsil Board~
+A counsil board is here.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3455
+obj ocopyof3448~
+1
+Counsil Board~
+A counsil board is here.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3456
+obj ocopyof3448~
+1
+Counsil Board~
+A counsil board is here.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3457
+obj ocopyof3448~
+1
+Counsil Board~
+A counsil board is here.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+#3458
+obj mallet~
+100
+A mallet~
+Auctioneer Bob's mallet has fallen and it can't get up.~
+~
+12 0 0 16385
+0 0 10 0
+1 5 5
+#3459
+obj button~
+100
+A button~
+A big red button is on the wall.~
+~
+1 0 0 0
+0 0 10 0
+1 5 5
+#3460
+obj cake birthday kinetic~
+1
+Kinetic's Birthday Cake~
+A jummy piece of someone's birthday cake has been left here.~
+~
+19 134217730 0 1
+0 0 10 0
+1 5 5
+#3461
+obj sushi food~
+0
+Sushi~
+Some sushi is lying here.~
+~
+19 0 0 1
+0 0 10 0
+1 5 5
+#3462
+obj overlord B-object doesn't work~
+1
+Overlord Board~
+A fairly useless board is sitting here.~
+~
+13 8 0 0
+0 0 0 0
+0 0 0
+E
+board~
+Use "Look AT board" to see a listing of the messages. Use "Read
+<message number>" or "Remove <message number>" to read or remove
+a message, respectively.~
+#3463
+obj large backpack~
+100
+a large backpack~
+A large backpack is lying here~
+~
+15 524289 0 1025
+600 0 0 0
+10 2000 300
+#3464
+obj kevlar vest~
+32767
+a kevlar vest~
+A kevlar vest is lying here.~
+~
+1 0 0 1033
+0 0 10 0
+1 5 5
+A
+17 -100
+A
+17 -100
+A
+17 -100
+A
+17 -100
+#3465
+obj white potion healing~
+100
+a white potion of healing~
+a small crystal vial with white liquid inside~
+~
+10 64 0 16385
+41 77 0 0
+5 65000 1300
+#3466
+obj odif's tail dog~
+4
+Odif's tail~
+A god's lait is here revered as a dogs tail.~
+~
+9 65 4 262145
+10 0 0 0
+1 5 5
+A
+2 2
+A
+3 1
+A
+4 1
+A
+18 1
+#3467
+obj magical rose~
+100
+&wA &gM&ra&Yg&bi&yc&bi&ra&Cl &rrose&n~
+A box with the finest red roses lies here.~
+~
+12 0 0 16385
+0 0 10 0
+1 5 5
+$~
+#999999

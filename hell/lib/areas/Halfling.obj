@@ -1,0 +1,321 @@
+#17600
+obj staff rainbow~
+10
+&ythe &RR&Ya&Gi&Bn&Pb&po&Rw &yStaff&n~
+The Rainbow Staff lies here.~
+~
+1 0 0 65537
+0 0 -1 4
+5 3800 950
+A
+4 1
+#17601
+obj sting~
+10
+&BSting&n~
+A Sting lies here.~
+~
+5 67 0 8193
+0 4 4 11
+5 80000 15000
+A
+18 4
+A
+19 4
+#17602
+obj sign~
+100
+a sign~
+&yA sign demands your attention.&n~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+E
+sign~
+Welcome to the Shire.  As you enter the Shire from Haon-Dor you come under
+the jurisdiction of the Thain, the peacekeeper of the Shire.  Consequently,
+by entering these lands you agree to obey our laws.  If you break these laws,
+you will be severely punished.  We do not like riff raff in our peaceful
+town.
+
+                                        The Thain
+                                        Peacekeeper of the Shire.
+~
+#17603
+obj pipeweed bread~
+80
+&ya loaf of pipe&Kweed&y bread&n~
+A load of pipeweed bread arouses your hunger.~
+~
+19 0 0 1
+24 0 10 0
+2 20 5
+#17604
+obj cloak silvery~
+25
+&wa &Ksi&wlve&Kry&w cloak&n~
+A silvery cloak lies here.~
+~
+9 0 0 1025
+7 0 0 0
+3 3600 850
+A
+24 3
+#17605
+obj ring one~
+25
+&wthe &KOne R&win&Kg&n~
+The One Ring is here.~
+~
+9 524352 0 3
+5 0 0 0
+3 95000 24000
+A
+18 3
+A
+9 15
+#17606
+obj bow elven~
+25
+&yan &GE&glve&Gn&y Bow&n~
+An Elven bow lies here.~
+~
+5 1026 0 8193
+0 2 7 7
+1 60000 15000
+A
+19 2
+#17607
+obj axe mithril~
+25
+&wa &Cmi&cthr&Cil &wa&Kx&we&n~
+A mithril axe lies here.~
+~
+5 0 0 8193
+0 2 10 3
+12 58000 14500
+A
+13 5
+A
+3 -2
+#17608
+obj girth thain~
+25
+&ythe Thain girth&n~
+The girth of the Thain lies here.~
+~
+9 0 0 2049
+7 0 0 0
+4 3000 750
+A
+18 1
+#17609
+obj dagger tiny shire~
+25
+&wa tiny dagger&n~
+A tiny dagger lies here.~
+~
+5 0 0 8193
+0 2 6 11
+3 38000 9500
+#17610
+obj egg shire~
+25
+&Wan egg&n~
+An egg lies here.~
+~
+19 0 0 1
+10 0 10 0
+1 20 5
+#17611
+obj headband ivory~
+25
+&yan &Wivory&y headband&n~
+An ivory headband has been dropped here.~
+~
+9 0 0 17
+1 0 10 0
+1 4400 1100
+A
+12 20
+#17612
+obj wand ruby~
+25
+&Ka &Rruby&K wand&n~
+A ruby wand is lying here.~
+~
+13 0 0 16385
+0 0 10 0
+1 5 5
+#17613
+obj cutlass~
+25
+&wa &Kc&wutlas&Ks&n~
+A cutlass lies here.~
+~
+5 0 0 8193
+0 2 4 3
+8 3000 750
+A
+19 1
+#17614
+obj broadsword flaming~
+100
+&wa &rfla&Rm&ring &Kbroad&wsword&n~
+A flaming broadsword lies here.~
+~
+5 0 0 8193
+0 3 6 3
+12 32000 8000
+A
+5 2
+#17615
+obj key keep~
+2
+&Kthe Keep key&n~
+The Keep key has been dropped here.~
+~
+18 262153 0 1
+0 0 10 0
+1 5 5
+#17616
+obj collar old leather~
+25
+&yan old leather collar&n~
+An old leather collar lies here.~
+~
+9 0 0 5
+6 0 10 0
+2 30000 7500
+A
+2 1
+A
+1 1
+#17617
+obj statue fish ice~
+100
+an ice statue of Fish~
+A large statue of Fish is here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+E
+statue~
+It's a huge statue of Fish, carved from ice.
+He appears to be laughing heartily at the idea of a 'council'.
+
+Ho ho ho.
+~
+#17618
+obj statue sunshine ivory~
+1
+an ivory statue of SunShine~
+There is a large statue of SunShine here, carved from solid ivory.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+E
+statue~
+This is a large block of solid ivory, carved intricately into a giant statue
+of SunShine, the mud's implementor.
+~
+#17619
+obj sign message~
+100
+a big sign~
+A big sign has been erected here.~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+E
+sign~
+The board has been removed for a shirt period until a bug can be fixed.
+
+Fish.
+~
+#17620
+obj burning toilet brush~
+1
+a burning toilet brush~
+a burning toilet brush smokes here~
+~
+1 4194305 0 65537
+0 0 0 0
+5 80000 15000
+A
+6 5
+A
+6 -5
+A
+2 -1
+#17621
+obj glass red bull vodka drink~
+1
+A glass of red bull mixed with vodka~
+Someone left their drink on the ground.~
+~
+17 0 0 1
+99 99 8 0
+1 5 5
+#17622
+obj shard1 narsil~
+1
+&wthe shard of a sword&n~
+A broken piece of a sword lies here in the dirt.~
+~
+13 0 0 1
+0 0 0 0
+1 5 5
+#17623
+obj shard2 narsil~
+1
+&wthe shard of a sword&n~
+A broken piece of a sword lies here in the dirt.~
+~
+13 0 0 1
+0 0 0 0
+1 5 5
+#17624
+obj shard3 narsil~
+1
+&wthe shard of a sword&n~
+A broken piece of a sword lies here in the dirt.~
+~
+13 0 0 1
+0 0 0 0
+1 5 5
+#17625
+obj shard4 narsil~
+1
+&wthe shard of a sword&n~
+A broken piece of a sword lies here in the dirt.~
+~
+13 0 0 1
+0 0 0 0
+1 5 5
+#17626
+obj hilt sword narsil~
+1
+&wthe hilt of a broken sword&n~
+The hilt of a broken sword lies here, collecting dust~
+~
+13 0 0 1
+0 0 0 0
+1 5 5
+#17627
+obj legendary sword narsil~
+1
+&wThe &WLegendary &KSword &cN&warsi&cl&n~
+A strange and powerful sword lies here, collecting dust.~
+~
+5 540736 0 8193
+2048 3 5 3
+7 130000 5
+A
+18 2
+$~
+#999999
