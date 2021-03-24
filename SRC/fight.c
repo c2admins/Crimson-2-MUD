@@ -2357,17 +2357,17 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 			/* Critical attack for warriors ,paladins, &priests,
 			 * Bingo 9 - 19 - 01 */
 			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_WARRIOR) {
-				if (GET_MOVE(ch) >= 50) {
+				if (GET_MOVE(ch) >= 25) {
 					dam *= 2;
-					GET_MOVE(ch) -= 50;
+					GET_MOVE(ch) -= 25;
 					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
 			}
 
 			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_PALADIN) {
-				if (GET_MOVE(ch) >= 25) {
+				if (GET_MOVE(ch) >= 12) {
 					dam *= 1.5;
-					GET_MOVE(ch) -= 25;
+					GET_MOVE(ch) -= 12;
 					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
 			}
@@ -2381,24 +2381,24 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 			}
 
 			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_BARD) {
-				if (GET_MOVE(ch) >= 20) {
+				if (GET_MOVE(ch) >= 10) {
 					dam *= 1.35;
-					GET_MOVE(ch) -= 20;
+					GET_MOVE(ch) -= 10;
 					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
 				
 			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT) {
-				if (GET_MOVE(ch) >= 25) {
+				if (GET_MOVE(ch) >= 12) {
 					dam *= 1.35;
-					GET_MOVE(ch) -= 25;
+					GET_MOVE(ch) -= 12;
 					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
 			}
 			
 			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_MONK) {
-				if (GET_MOVE(ch) >= 50) {
+				if (GET_MOVE(ch) >= 25) {
 					dam *= 2;
-					GET_MOVE(ch) -= 50;
+					GET_MOVE(ch) -= 25;
 					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
 			}
