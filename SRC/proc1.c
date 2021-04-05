@@ -592,52 +592,74 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		send_to_char("Your guildmaster apologizes, but only Thri-Kreen can learn that skill.\r\n", ch);
 		return;
 	}
+	//Spells/skills not implemented yet.
 	if (lv_what_to_practice == SPELL_UNDETECT_INVIS ||
 		lv_what_to_practice == SPELL_SPIRIT_HAMMER ||
+		lv_what_to_practice == SPELL_MANA_LINK ||
+		lv_what_to_practice == SPELL_KNOCK ||
+		lv_what_to_practice == SPELL_TELEVIEW_MINOR ||
+		lv_what_to_practice == SPELL_TELEVIEW_MAJOR ||
 		lv_what_to_practice == SPELL_DREAMSIGHT ||
+		lv_what_to_practice == SPELL_BLOCK_SUMMON ||
 		lv_what_to_practice == SPELL_ANIMATE_DEAD ||
 		lv_what_to_practice == SPELL_IRRESISTABLE_DANCE ||
 		lv_what_to_practice == SPELL_WIZARD_LOCK ||
 		lv_what_to_practice == SPELL_CLAWED_HANDS ||
 		lv_what_to_practice == SKILL_ASSESS ||
 		lv_what_to_practice == SKILL_SWITCH_OPPONENT ||
-		lv_what_to_practice == SKILL_SWITCH ||
-		lv_what_to_practice == SKILL_DIN_MAK ||
+		lv_what_to_practice == SKILL_DIN_MAK ||		
 		lv_what_to_practice == SPELL_FEAR ||
+		lv_what_to_practice == SKILL_DIN_MAK ||
 		lv_what_to_practice == SKILL_TSUGIASHI ||
 		lv_what_to_practice == SKILL_BERSERK ||
-		lv_what_to_practice == SPELL_TREEWALK ||
-		lv_what_to_practice == SPELL_TRANSFORM_CHIMERA ||
-		lv_what_to_practice == SKILL_TRACK ||
+		lv_what_to_practice == SPELL_DEATHSHADOW ||
 		lv_what_to_practice == SPELL_EARTHMAW ||
+		lv_what_to_practice == SPELL_TREEWALK ||
+		lv_what_to_practice == SKILL_FORAGE ||
+		lv_what_to_practice == SPELL_CREATE_SPRING ||
+		lv_what_to_practice == SPELL_LEVIATHAN ||
+		lv_what_to_practice == SPELL_TSUNAMI ||
+		lv_what_to_practice == SPELL_TORNADO ||
+		lv_what_to_practice == SPELL_LANDSLIDE ||
+		lv_what_to_practice == SKILL_STAB ||
+		lv_what_to_practice == SPELL_CHARM_ANIMAL ||
+		lv_what_to_practice == SPELL_ACID_BLAST ||
+		lv_what_to_practice == SPELL_DISPLACEMENT ||
+		lv_what_to_practice == SPELL_SUMMON_ELEMENTAL ||
+		lv_what_to_practice == SPELL_SHOCKWAVE ||
+		lv_what_to_practice == SPELL_GUST ||
+		lv_what_to_practice == SPELL_GRANITE_FIST ||
+		lv_what_to_practice == SPELL_PRAYER ||
+		lv_what_to_practice == SPELL_ELEMENTAL_SHIELD ||
+		lv_what_to_practice == SKILL_TAUNT ||
+		lv_what_to_practice == SKILL_CHARGE ||
+		lv_what_to_practice == SPELL_LIFETAP ||
+		lv_what_to_practice == SPELL_ENCHANT_ARMOR ||
+		lv_what_to_practice == SPELL_SANCTUARY_MINOR ||
+		lv_what_to_practice == SPELL_SANCTUARY_MEDIUM ||
+		lv_what_to_practice == SPELL_SLEEP_IMMUNITY ||
+		lv_what_to_practice == SKILL_TRACK ||
+		lv_what_to_practice == SPELL_CONVALESCE) {
+		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
+		return;
+	}
+	
+	//Spells restricted to immortals only.
+	if (lv_what_to_practice == SPELL_TRANSFORM_CHIMERA ||
+		lv_what_to_practice == SPELL_TRANSFORM_COW ||
+		lv_what_to_practice == SKILL_SWITCH ||
+		lv_what_to_practice == SPELL_SPIRIT_TRANSFER ||
+		lv_what_to_practice == SPELL_TRANSFORM_WOLF ||
+		lv_what_to_practice == SPELL_TRANSFORM_BEAR ||
+		lv_what_to_practice == SPELL_TRANSFORM_DRAGON ||
+		lv_what_to_practice == SPELL_TRANSFORM_MONKEY ||
+		lv_what_to_practice == SPELL_TRANSFORM_NINJA ||
+		lv_what_to_practice == SPELL_TRANSFORM_WOMBLE ||
+		lv_what_to_practice == SPELL_TRANSFORM_MANTICORE ||
 	    lv_what_to_practice == SPELL_TRANSFORM_COW) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
+		send_to_char("Your guildmaster informs you that this is restricted to use by the immortals.\r\n", ch);
 		return;
 	}
-	if (lv_what_to_practice >= SPELL_DEATHSHADOW && lv_what_to_practice <= SPELL_TRANSFORM_MONKEY) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
-		return;
-	}
-	if (lv_what_to_practice > SPELL_FAERIE_FIRE && lv_what_to_practice < SPELL_METEOR_SWARM) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
-		return;
-	}	
-	if (lv_what_to_practice >= SPELL_TSUNAMI && lv_what_to_practice < SKILL_AIRWALK) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
-		return;
-	}
-	if (lv_what_to_practice >= SPELL_LIFETAP && lv_what_to_practice <= SPELL_ENCHANT_ARMOR) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
-		return;
-	}
-	if (lv_what_to_practice >= SPELL_SANCTUARY_MINOR && lv_what_to_practice < SPELL_GUSHER) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell yet.\r\n", ch);
-		return;
-	}
-	if (lv_what_to_practice >= SPELL_TRANSFORM_MANTICORE && lv_what_to_practice <= SPELL_SLEEP_IMMUNITY) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell yet.\r\n", ch);
-		return;
-	}	
 	if (plevel > 50)
 		lv_cost += (plevel - 50) * 1000000;
 
