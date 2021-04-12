@@ -1422,7 +1422,8 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 	}
 
 	if (IS_CASTED_ON(victim, SPELL_STONESKIN)) {
-		if (((attacktype >= TYPE_HIT) && (attacktype <= TYPE_CRUSH)) || IS_PC(victim))
+		if (((attacktype >= TYPE_HIT) && (attacktype <= TYPE_CRUSH)) ||
+		    IS_PC(victim))
 			dam = MAXV(0, dam * 0.60);	/* 40 % for melee */
 		else
 			dam = MAXV(0, dam * 0.50);	/* 50 % for spells */
@@ -2021,7 +2022,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		held = ch->equipment[HOLD];
 	else
 		held = 0;
-	
+
 	if (type == TYPE_DUALWIELD && ch->equipment[WIELD]) {
 		wielded = held;
 	}
@@ -2111,13 +2112,13 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 	victim_ac = GET_AC(victim) + li9750_ac_bonus(GET_DEX(victim) + GET_BONUS_DEX(victim)) +
 		races[GET_RACE(victim)].adj_ac;
 
-	/* OLD DODGE
+	/* DODGE */
 	if (number(0, 101) < victim->skills[SKILL_DODGE].learned ||
 	    number(0, 101) < victim->skills[SKILL_DODGE].learned) {
 		li9900_gain_proficiency(victim, SKILL_DODGE);
 		victim_ac -= victim->skills[SKILL_DODGE].learned;
 	}
-	 */
+
 	victim_ac = victim_ac / 10;
 
 	if (IS_AFFECTED(victim, AFF_HOLD_PERSON)) {
@@ -2180,7 +2181,8 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 			num_attacks += dice(1,num_attacks);
 			if IS_PC(ch)
 				send_to_char("&WYou bombard your opponent with a flurry of attacks!&n\r\n", ch);
-		}/* end of Flurry Attack*/
+		}
+		/* end of Flurry Attack*/
 		
 		/* GIVE DARKLINGS A POISON ATTACK IF USING CLAW */
 		if ((GET_RACE(ch) == RACE_DARKLING ||
@@ -2190,7 +2192,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		    !wielded &&
 		    !number(0, 3)) {
 			spell_poison(GET_LEVEL(ch), ch, victim, 0);
-		} /* End of poison bare hand attack */
+		}
         
 		/* New Dodge */
 		if (victim->skills[SKILL_DODGE].learned > 1 && (number(0,101) < MINV(25, (victim->skills[SKILL_DODGE].learned / 4)))){
@@ -2203,7 +2205,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 			if (IS_PC(victim)){
 			send_to_char("&WYou deftly dodged some of your opponents attacks!&n\r\n", victim); //Display dodge text to player.
 			}
-		} /* End of new DODGE */
+		}
 
 		if ((type == TYPE_DUALWIELD) && (num_attacks > 1))
 			num_attacks >>= 1;
@@ -2215,10 +2217,12 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				lv_temp_dam += dice(ch->specials.damnodice, ch->specials.damsizedice);
 			}
 			else {
-				if (GET_CLASS(ch) == CLASS_MONK && (!wielded)) {
+				if (GET_CLASS(ch) == CLASS_MONK)
+				{
 				lv_temp_dam += dice((GET_LEVEL(ch)/2), 3) + (GET_LEVEL(ch)/2);	/* Monk Unarmed Strike */
 				}
-				lv_temp_dam+= number(0, 2);	/* Max. 2 dam with bare hands */	
+				lv_temp_dam+= number(0, 2);	/* Max. 2 dam with bare hands */
+				
 			}
 
 			if (wielded)	/* NPC barehand damage is added to this * -- ouch */
@@ -2230,7 +2234,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 
 			if (type == SKILL_BACKSTAB) {
 				lv_part1 = lv_temp_dam + (2 * GET_LEVEL(ch));
-				if (number(0, 101) <= 15 && GET_CLASS(ch) == CLASS_THIEF && GET_LEVEL(ch) >= 30) {
+				if (number(0, 101) <= 10 && GET_CLASS(ch) == CLASS_THIEF && GET_LEVEL(ch) >= 30) {
 					//Critical backstab(2 x damage) Bingo 9 - 19 - 01
 						lv_part1 *= 2;
 					send_to_char("&y<&YCRITICAL&y>&n ", ch);
@@ -2322,16 +2326,16 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 			lv_temp_dam = MAXV(1, lv_temp_dam);	/* Not less than 1
 								 * damage */
 			dam += lv_temp_dam;
-		} /* End of Number of Attacks For Loop */
+		}
 		if (type == TYPE_DUALWIELD) {
 			if (ch->equipment[HOLD] && (ch->equipment[HOLD]->obj_flags.type_flag == ITEM_WEAPON || ch->equipment[WIELD]->obj_flags.type_flag == ITEM_QSTWEAPON))
 			if (number(1,5) == 3){
-				dam += ft2600_check_for_special_weapon_attacks(ch, victim, ch->equipment[HOLD]);
+				lv_temp_dam += ft2600_check_for_special_weapon_attacks(ch, victim, ch->equipment[HOLD]);
 			}
 		} /* Off Hand Bits Proc*/
 		else if (type == TYPE_UNDEFINED && ch->equipment[WIELD] && (ch->equipment[WIELD]->obj_flags.type_flag == ITEM_WEAPON || ch->equipment[WIELD]->obj_flags.type_flag == ITEM_QSTWEAPON)) {
 			if (number(1, 5) == 3) {
-				dam += ft2600_check_for_special_weapon_attacks(ch, victim, ch->equipment[WIELD]);
+				lv_temp_dam += ft2600_check_for_special_weapon_attacks(ch, victim, ch->equipment[WIELD]);
 			}
 		} /* Normal Hand Bits Proc */
 		
@@ -2349,55 +2353,58 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				lv_temp_num = lv_temp_num * 0.6;
 			}
 
-			/* Critical attack for warriors ,paladins, priests, eldritch knight, and monk
+
+			/* Critical attack for warriors ,paladins, &priests,
 			 * Bingo 9 - 19 - 01 */
-			if (number(0, 101) <= 9 && IS_PC(ch) && GET_LEVEL(ch) >= 30) {
-				if (GET_CLASS(ch) == CLASS_WARRIOR) { 
-					if (GET_MOVE(ch) >= 25) {
-						dam *= 2;
-						GET_MOVE(ch) -= 25;
-						send_to_char("&y<&YCRITICAL&y> &n", ch);
-					}
+			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_WARRIOR) {
+				if (GET_MOVE(ch) >= 25) {
+					dam *= 2;
+					GET_MOVE(ch) -= 25;
+					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
-				else if (GET_CLASS(ch) == CLASS_PALADIN) {
-					if (GET_MOVE(ch) >= 12) {
-						dam *= 1.5;
-						GET_MOVE(ch) -= 12;
-						send_to_char("&y<&YCRITICAL&y> &n", ch);
-					}
+			}
+
+			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_PALADIN) {
+				if (GET_MOVE(ch) >= 12) {
+					dam *= 1.5;
+					GET_MOVE(ch) -= 12;
+					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
-				else if (GET_CLASS(ch) == CLASS_PRIEST) {
-					if (GET_MOVE(ch) >= 10) {
-						dam *= 1.25;
-						GET_MOVE(ch) -= 10;
-						send_to_char("&y<&YCRITICAL&y> &n", ch);
-					}
+			}
+
+			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_PRIEST) {
+				if (GET_MOVE(ch) >= 10) {
+					dam *= 1.25;
+					GET_MOVE(ch) -= 10;
+					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
-				else if (GET_CLASS(ch) == CLASS_BARD) {
-					if (GET_MOVE(ch) >= 10) {
-						dam *= 1.35;
-						GET_MOVE(ch) -= 10;
-						send_to_char("&y<&YCRITICAL&y> &n", ch);
-					}
+			}
+
+			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_BARD) {
+				if (GET_MOVE(ch) >= 10) {
+					dam *= 1.35;
+					GET_MOVE(ch) -= 10;
+					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
-				else if (GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT) {
-					if (GET_MOVE(ch) >= 12) {
-						dam *= 1.35;
-						GET_MOVE(ch) -= 12;
-						send_to_char("&y<&YCRITICAL&y> &n", ch);
-					}
+				
+			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT) {
+				if (GET_MOVE(ch) >= 12) {
+					dam *= 1.35;
+					GET_MOVE(ch) -= 12;
+					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
-				else if (GET_CLASS(ch) == CLASS_MONK) {
-					if (GET_MOVE(ch) >= 25) {
-						dam *= 2;
-						GET_MOVE(ch) -= 25;
-						send_to_char("&y<&YCRITICAL&y> &n", ch);
-					}
+			}
+			
+			if (number(0, 101) <= 8 && IS_PC(ch) && GET_LEVEL(ch) >= 30 && GET_CLASS(ch) == CLASS_MONK) {
+				if (GET_MOVE(ch) >= 25) {
+					dam *= 2;
+					GET_MOVE(ch) -= 25;
+					send_to_char("&y<&YCRITICAL&y> &n", ch);
 				}
-			} /* End of Melee Critical Attacks */
-			else
+			}
+				else
 					dam *= 1;
-			} /* END of not a Backstab */
+			}
 
 
 			if ((GET_POS(victim) = POSITION_FIGHTING) &&
@@ -2410,11 +2417,12 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				    FALSE, victim, 0, 0, TO_CHAR);
 				act("$n desperately parries the blow that would have been $s death.",
 				    FALSE, victim, 0, 0, TO_ROOM);
-			} /* END of Parry Death Blow */
+			}
 			else
 				damage(ch, victim, dam, w_type, num_attacks);
-		} /* END of didn't miss */
-	}	/* END OF hit() */
+		}
+	}
+}				/* END OF hit() */
 
 
 /* control the fights going on */
