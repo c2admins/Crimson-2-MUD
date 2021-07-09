@@ -299,7 +299,13 @@ void spell_dancing_sword(sbyte level, struct char_data * ch, struct char_data * 
 
 	if (obj->obj_flags.type_flag != ITEM_WEAPON ||
 	    obj->obj_flags.type_flag != ITEM_QSTWEAPON) {
-
+			
+	sprintf(buf, "You are only able to transform weapons!\n\r", GET_OSDESC(obj));
+	send_to_char(buf, ch);
+	return;
+	} /* END OF not a weapon  */
+	
+	else{
 	sprintf(buf, "You transform %s into a mob!\n\r", GET_OSDESC(obj));
 	send_to_char(buf, ch);
 
