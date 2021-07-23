@@ -1912,7 +1912,7 @@ void nanny(struct descriptor_data * d, char *arg)
 				return;
 			}
 
-			sprintf(buf, "Give me a password for %s: ", GET_NAME(d->character));
+			sprintf(buf, "Give me an alphanumeric password for %s: ", GET_NAME(d->character));
 
 			SEND_TO_Q(echo_off, d);
 			SEND_TO_Q(buf, d);
@@ -2082,13 +2082,32 @@ void nanny(struct descriptor_data * d, char *arg)
 			SEND_TO_Q("Password: ", d);
 			return;
 		}
-
-		if (!*arg || strlen(arg) > 10 || strlen(arg) < 2) {
+		
+		if (!*arg || strlen(arg) > 10 || strlen(arg) < 2)
+		{
 			SEND_TO_Q("Illegal password.\n\r", d);
 			SEND_TO_Q("Password: ", d);
 			return;
 		}
-
+		
+		
+		char pwstr[10]; strcpy (pwstr, arg);
+		int len;
+		len = strlen(pwstr);
+		if( pwstr[len-1] == '\n' ){
+		pwstr[len-1] = 0;
+		}
+		for( int h = 0; h <strlen(pwstr); h++)
+		{
+			if (isalnum(pwstr[h])){
+			break;
+			}else {
+			SEND_TO_Q("Illegal password. \n\r", d);
+			SEND_TO_Q("Password: ", d);
+			return;
+			}
+		}
+				
 		strncpy(d->pwd, (char *) crypt(arg, arg), 10);
 		*(d->pwd + 10) = '\0';
 
@@ -2106,6 +2125,22 @@ void nanny(struct descriptor_data * d, char *arg)
 			SEND_TO_Q("\r\nPasswords don't match.\r\n", d);
 			SEND_TO_Q("Password: ", d);
 			return;
+		}
+		
+		strcpy (pwstr, arg);
+		len = strlen(pwstr);
+		if( pwstr[len-1] == '\n' ){
+		pwstr[len-1] = 0;
+		}
+		for( int h = 0; h <strlen(pwstr); h++)
+		{
+			if (isalnum(pwstr[h])){
+			break;
+			}else {
+			SEND_TO_Q("Illegal password. \n\r", d);
+			SEND_TO_Q("Password: ", d);
+			return;
+			}
 		}
 
 		if (strncmp((char *) crypt(arg, arg), d->pwd, 10)) {
@@ -2614,12 +2649,28 @@ void nanny(struct descriptor_data * d, char *arg)
 			return;
 		}
 
-		if (!*arg || strlen(arg) > 10) {
+		if (!*arg || strlen(arg) > 10 || strlen(arg) < 2) {
 			SEND_TO_Q("Illegal password.\n\r", d);
 			SEND_TO_Q("Password: ", d);
 			return;
 		}
-
+		
+		strcpy (pwstr, arg);
+		len = strlen(pwstr);
+		if( pwstr[len-1] == '\n' ){
+		pwstr[len-1] = 0;
+		}
+		for( int h = 0; h <strlen(pwstr); h++)
+		{
+			if (isalnum(pwstr[h])){
+			break;
+			}else {
+			SEND_TO_Q("Illegal password. \n\r", d);
+			SEND_TO_Q("Password: ", d);
+			return;
+			}
+		}
+		
 		strncpy(d->pwd, (char *) crypt(arg, arg), 10);
 		*(d->pwd + 10) = '\0';
 
