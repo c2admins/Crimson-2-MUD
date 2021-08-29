@@ -548,6 +548,7 @@ const char *command[] =
 	"bounty",		/* 484 */
 	"qmsales",		/* 485 */
 	"trip",         /* 486 */
+	"reload",		/* 487 */
 	"\n"			/* current MAX_CMD_LIST variable is contained
 				 * in parser.h */
 };
@@ -1654,6 +1655,7 @@ void assign_command_pointers(void)
 	COMMANDO(484, POSITION_STANDING, bt2100_do_bounty, 10, ENABLED_CMD | ALLOWMOB);
 	COMMANDO(485, POSITION_DEAD, qu0000_questsales, IMO_IMM, ENABLED_CMD);
 	COMMANDO(486, POSITION_FIGHTING, at2400_do_trip, 1, ENABLED_CMD);
+	COMMANDO(487, POSITION_FIGHTING, do_action, 1, ENABLED_CMD);
 }
 
 

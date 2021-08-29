@@ -41,7 +41,7 @@ extern struct command_info cmd_info[];
 #define WIZ_RULER_PERM 		BIT2
 #define WIZ_BUILDER_PERM	BIT3
 
-#define MAX_CMD_LIST   487
+#define MAX_CMD_LIST   488
 
 #define CMD_NORTH       1
 #define CMD_EAST        2
@@ -527,6 +527,7 @@ extern struct command_info cmd_info[];
 #define CMD_BOUNTY    484
 #define CMD_QMSALES   485
 #define CMD_TRIP	  486  /* VIOLENCE */
+#define CMD_RELOAD    487
 
 
 /* Virtual commands */

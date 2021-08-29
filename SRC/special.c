@@ -725,7 +725,7 @@ int sp2300_load_ammo(struct char_data * ch, int cmd, char *arg)
 	int lv_ammo;
 	char buf[MAX_STRING_LENGTH];
 
-	if (cmd != CMD_LOAD)
+	if (cmd != CMD_RELOAD)
 		return (FALSE);
 	for (; *arg == ' '; arg++);
 	if (!(*arg)) {
