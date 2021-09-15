@@ -120,7 +120,7 @@ unsigned long thebits[32];
 #define VALUE_LIGHT_CHARGES    2
 
 /* Maxes for the output buffer system. */
-#define SMALL_BUFSIZE					1024
+#define SMALL_BUFSIZE					4096
 #define MAX_SOCK_BUF					(12 * SMALL_BUFSIZE)
 #define MAX_PROMPT_LENGTH			560
 #define GARBAGE_SPACE					64

@@ -548,7 +548,6 @@ const char *command[] =
 	"bounty",		/* 484 */
 	"qmsales",		/* 485 */
 	"trip",         /* 486 */
-	"reload",		/* 487 */
 	"\n"			/* current MAX_CMD_LIST variable is contained
 				 * in parser.h */
 };
@@ -1655,7 +1654,6 @@ void assign_command_pointers(void)
 	COMMANDO(484, POSITION_STANDING, bt2100_do_bounty, 10, ENABLED_CMD | ALLOWMOB);
 	COMMANDO(485, POSITION_DEAD, qu0000_questsales, IMO_IMM, ENABLED_CMD);
 	COMMANDO(486, POSITION_FIGHTING, at2400_do_trip, 1, ENABLED_CMD);
-	COMMANDO(487, POSITION_FIGHTING, do_action, 1, ENABLED_CMD);
 }
 
 
@@ -1949,6 +1947,7 @@ void nanny(struct descriptor_data * d, char *arg)
 			}
 
 			bzero(buf3, sizeof(buf3));
+			
 			strcpy(buf3, d->pwd);
 			bzero(buf4, sizeof(buf4));
 			strcpy(buf4, (char *) crypt(arg, d->pwd));
@@ -1963,6 +1962,22 @@ void nanny(struct descriptor_data * d, char *arg)
 					do_sys(buf, IMO_IMM, d->character);
 				}	/* END OF tmp_count % 5 */
 				return;
+			}
+			char pwstr[10]; strcpy (pwstr, arg);
+			int len;			
+			len = strlen(pwstr);
+			if( pwstr[len-1] == '\n' ){
+			pwstr[len-1] = 0;
+			}
+			for( int h = 0; h <strlen(pwstr); h++)
+			{
+			if (isalnum(pwstr[h])){
+			break;
+			}else {
+			SEND_TO_Q("Illegal password. \n\r", d);
+			SEND_TO_Q("Password: ", d);
+			return;
+			}
 			}
 			strncpy(buf2, (char *) crypt(arg, arg), 10);
 			if ((strncmp((char *) crypt(arg, arg), gv_master_pwd, sizeof(gv_master_pwd) - 1) &&
@@ -2092,9 +2107,9 @@ void nanny(struct descriptor_data * d, char *arg)
 			return;
 		}
 		
-		
 		char pwstr[10]; strcpy (pwstr, arg);
 		int len;
+		strcpy (pwstr, arg);
 		len = strlen(pwstr);
 		if( pwstr[len-1] == '\n' ){
 		pwstr[len-1] = 0;
