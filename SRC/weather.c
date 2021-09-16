@@ -123,7 +123,7 @@ void send_current_lunar_phase(void)
 		co3100_send_to_outdoor("The moon is now in the first quarter.\n\r");
 		break;
 		case PHASE_WAXING_GIBBOUS:
-		co3100_send_to_outdoor("THe moon is now waxing gibbous.\n\r");
+		co3100_send_to_outdoor("The moon is now waxing gibbous.\n\r");
 		break;
 		case PHASE_FULL_MOON:
 		co3100_send_to_outdoor("The moon is now full.\n\r");

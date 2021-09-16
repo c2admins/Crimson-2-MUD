@@ -225,9 +225,9 @@ int li1300_mana_limit(struct char_data * ch)
 		    (GET_LEVEL(ch) + 16)) / 100000;
 
 //TODO:For class gains
-		// max += (long) (add_mana * classes[GET_CLASS(ch)].adj_mana / 100);
+	max +=  (add_mana * classes[GET_CLASS(ch)].adj_mana / 100);
 
-	max += add_mana;
+	//max += add_mana;
 
 	/* DON'T LET THEM EXCEED RACE BOUNDARIES */
 	if (max >= races[GET_RACE(ch)].max_mana)
@@ -262,9 +262,9 @@ int li1500_hit_limit(struct char_data * ch)
 	 */
 
 //TODO:For class gains
-		// lv_result = ch->points.max_hit + (long) (lv_gain * classes[GET_CLASS(ch)].adj_hit / 100);
+	lv_result = ch->points.max_hit + (lv_gain * classes[GET_CLASS(ch)].adj_hit / 100);
 
-	lv_result = ch->points.max_hit + lv_gain;
+	//lv_result = ch->points.max_hit + lv_gain;
 	/* DON'T LET THEM EXCEED RACE BOUNDARIES */
 	if (lv_result >= races[GET_RACE(ch)].max_hit)
 		lv_result = races[GET_RACE(ch)].max_hit;
@@ -291,7 +291,10 @@ int li1600_move_limit(struct char_data * ch)
 	}
 
 	add_move = (GET_DEX(ch) + (GET_CON(ch) / 5) + (GET_LEVEL(ch) / 5)) / 3.5;
-	max += add_move;
+	
+	//TODO:For class gains
+	max += (add_move * classes[GET_CLASS(ch)].adj_move / 100);
+	//max += add_move;
 
 
 	/* DON'T LET THEM EXCEED RACE BOUNDARIES */
@@ -369,7 +372,9 @@ int li1700_mana_gain(struct char_data * ch)
 
 	if (IS_AFFECTED(ch, AFF_HASTE))
 		gain += gain;
-
+	
+	if (GET_LEVEL(ch) < IMO_LEV)
+		gain += (gain >> 1);
 
 	return (gain);
 
@@ -559,6 +564,9 @@ int li1800_hit_gain(struct char_data * ch)
 
 	if (IS_AFFECTED(ch, AFF_HASTE))
 		gain += gain;
+	
+		if (GET_LEVEL(ch) < IMO_LEV)
+		gain += (gain >> 1);
 
 	return (gain);
 
@@ -621,6 +629,9 @@ int li1900_move_gain(struct char_data * ch)
 	if (IS_AFFECTED(ch, AFF_HASTE))
 		gain += gain;
 
+	if (GET_LEVEL(ch) < IMO_LEV)
+		gain += (gain >> 1);
+	
 	return (gain);
 
 }				/* END OF li1900_move_gain() */

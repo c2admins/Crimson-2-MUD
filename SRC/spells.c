@@ -165,7 +165,7 @@ int s1000_cost_of_mana(struct char_data * ch, int lv_spl)
 		lv_cost = (4 * lv_cost);
 	}
 	if (lv_spl == SPELL_BEAST_TRANSFORM) {
-		lv_cost = (5 * lv_cost);
+		lv_cost = (3 * lv_cost);
 	}
 	return (lv_cost);
 
