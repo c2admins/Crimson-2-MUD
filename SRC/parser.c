@@ -1969,15 +1969,17 @@ void nanny(struct descriptor_data * d, char *arg)
 			if( pwstr[len-1] == '\n' ){
 			pwstr[len-1] = 0;
 			}
-			for( int h = 0; h <strlen(pwstr); h++)
+			for( int h = 0; h < strlen(pwstr); h++)
 			{
 			if (isalnum(pwstr[h])){
 			break;
-			}else {
-			SEND_TO_Q("Illegal password. \n\r", d);
-			SEND_TO_Q("Password: ", d);
-			return;
 			}
+			else {
+				pwstr[0] = "\0";
+				SEND_TO_Q("Illegal password. \n\r", d);
+				SEND_TO_Q("Password: ", d);
+				return;
+				}
 			}
 			strncpy(buf2, (char *) crypt(arg, arg), 10);
 			if ((strncmp((char *) crypt(arg, arg), gv_master_pwd, sizeof(gv_master_pwd) - 1) &&
@@ -2114,11 +2116,12 @@ void nanny(struct descriptor_data * d, char *arg)
 		if( pwstr[len-1] == '\n' ){
 		pwstr[len-1] = 0;
 		}
-		for( int h = 0; h <strlen(pwstr); h++)
+		for( int h = 0; h < strlen(pwstr); h++)
 		{
 			if (isalnum(pwstr[h])){
 			break;
 			}else {
+			pwstr[0] = "\0";
 			SEND_TO_Q("Illegal password. \n\r", d);
 			SEND_TO_Q("Password: ", d);
 			return;
@@ -2149,11 +2152,12 @@ void nanny(struct descriptor_data * d, char *arg)
 		if( pwstr[len-1] == '\n' ){
 		pwstr[len-1] = 0;
 		}
-		for( int h = 0; h <strlen(pwstr); h++)
+		for( int h = 0; h < strlen(pwstr); h++)
 		{
 			if (isalnum(pwstr[h])){
 			break;
 			}else {
+			pwstr[0] = "\0";
 			SEND_TO_Q("Illegal password. \n\r", d);
 			SEND_TO_Q("Password: ", d);
 			return;
@@ -2677,11 +2681,12 @@ void nanny(struct descriptor_data * d, char *arg)
 		if( pwstr[len-1] == '\n' ){
 		pwstr[len-1] = 0;
 		}
-		for( int h = 0; h <strlen(pwstr); h++)
+		for( int h = 0; h < strlen(pwstr); h++)
 		{
 			if (isalnum(pwstr[h])){
 			break;
 			}else {
+			pwstr[0] = "\0";
 			SEND_TO_Q("Illegal password. \n\r", d);
 			SEND_TO_Q("Password: ", d);
 			return;
