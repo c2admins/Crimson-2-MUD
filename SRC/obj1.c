@@ -20,7 +20,6 @@
 #include "constants.h"
 #include "spells.h"
 #include "globals.h"
-#include "xanth.h"
 #include "func.h"
 
 
@@ -1567,11 +1566,6 @@ void do_give(struct char_data * ch, char *argument, int cmd)
 	}
 
 	if (IS_NPC(vict)) {
-		if (mob_index[vict->nr].virtual == MOB_XANTH_JUSTIN) {
-			send_to_char("Justin is unable to accept it.  He is in\r\n", ch);
-			send_to_char("terrible pain and needs you to help him.\r\n", ch);
-			return;
-		}
 	}			/* END OF IS NPC */
 
 	if (check_nodrop(obj)) {

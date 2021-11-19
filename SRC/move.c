@@ -21,7 +21,6 @@
 #include "constants.h"
 #include "spells.h"
 #include "ansi.h"
-#include "xanth.h"
 #include "globals.h"
 #include "func.h"
 
@@ -89,32 +88,20 @@ int mo1000_do_simple_move(struct char_data * ch, int cmd, int following, int lv_
 	if (!(IS_SET(world[ch->in_room].room_flags, RM1_SOUNDPROOF))) {
 		if ((!IS_SET(lv_flag, BIT1)) &&
 		    (!IS_AFFECTED(ch, AFF_SNEAK) || IS_SET(lv_flag, BIT0))) {
-			if (world[ch->in_room].number == XANTH_NORTH_VILLAGE &&
-			    cmd == CMD_UP - 1) {
-				sprintf(tmp, "$n leaves southwest.");
+			if (!RIDING(ch) && !RIDDEN_BY(ch)) {
+				sprintf(tmp, "$n leaves %s.", dirs[cmd]);
 				act(tmp, TRUE, ch, 0, 0, TO_ROOM);
 			}
-			else {
+			if (RIDING(ch) && RIDING(ch)->in_room == ch->in_room) {
+				sprintf(tmp, "You ride $N %s.", dirs[cmd]);
+				act(tmp, TRUE, ch, 0, RIDING(ch), TO_CHAR);
 
-				if (!RIDING(ch) && !RIDDEN_BY(ch)) {
-					sprintf(tmp, "$n leaves %s.", dirs[cmd]);
-					act(tmp, TRUE, ch, 0, 0, TO_ROOM);
-				}
-				if (RIDING(ch) && RIDING(ch)->in_room == ch->in_room) {
+				/* One Problem: Sends to the mount too */
+				sprintf(tmp, "$n rides $N %s.", dirs[cmd]);
+				act(tmp, TRUE, ch, 0, RIDING(ch), TO_ROOM);
 
-					sprintf(tmp, "You ride $N %s.", dirs[cmd]);
-					act(tmp, TRUE, ch, 0, RIDING(ch), TO_CHAR);
-
-					/* One Problem: Sends to the mount too */
-					sprintf(tmp, "$n rides $N %s.", dirs[cmd]);
-					act(tmp, TRUE, ch, 0, RIDING(ch), TO_ROOM);
-
-					sprintf(tmp, "%s rides you %s.\r\n", GET_REAL_NAME(ch), dirs[cmd]);
-					send_to_char(tmp, RIDING(ch));
-
-				}
-
-
+				sprintf(tmp, "%s rides you %s.\r\n", GET_REAL_NAME(ch), dirs[cmd]);
+				send_to_char(tmp, RIDING(ch));
 			}
 		}
 	}

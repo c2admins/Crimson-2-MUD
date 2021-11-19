@@ -12,7 +12,6 @@
 #include "utility.h"
 #include "globals.h"
 #include "func.h"
-#include "xanth.h"
 
 // int special_shield(struct char_data * ch, int cmd, char *arg);
 
@@ -168,10 +167,6 @@ void as1000_assign_mobiles(void)
 	/* Arnath */
 	ASSIGN_MOB(14431, r7000_func_receptionist);
 
-	/* XANTH */
-	ASSIGN_MOB(MOB_XANTH_JUSTIN, xn3200_xanth_justin_tree);
-	ASSIGN_MOB(MOB_XANTH_SABRINA, xn4200_xanth_sabrina);
-
 	/* Quest */
 	ASSIGN_MOB(MOB_QUESTMAN, qu1000_questmaster);
 
@@ -194,10 +189,6 @@ void as1000_assign_mobiles(void)
 void as1100_assign_objects(void)
 {
 	int lv_num;
-
-	/* XANTH */
-	ASSIGN_OBJ(OBJ_XANTH_PANDORAS_BOX, xn4500_xanth_pandoras_box);
-	ASSIGN_OBJ(OBJ_XANTH_SHADES_GLASSES, xn5000_xanth_shades_glasses);
 
 	/* CLOUD PALACE */
 	ASSIGN_OBJ(2126, sp2000_cloud_stone);
@@ -279,32 +270,6 @@ void as1200_assign_rooms(void)
 {
 
 	int lv_num;
-
-	/* XANTH */
-	ASSIGN_ROOM(XANTH_PUZZLE_ENTRY, xn2000_xanth_entry_room);
-	ASSIGN_ROOM(XANTH_PUZZLE_ROOM, xn3000_xanth_puzzle_room);
-	ASSIGN_ROOM(XANTH_NORTH_VILLAGE, xn3100_xanth_north_village);
-	ASSIGN_ROOM(XANTH_PINE_GROVE1, xn4300_xanth_pine_grove);
-	ASSIGN_ROOM(XANTH_PINE_GROVE2, xn4300_xanth_pine_grove);
-	ASSIGN_ROOM(XANTH_PINE_GROVE3, xn4300_xanth_pine_grove);
-	ASSIGN_ROOM(XANTH_PINE_GROVE4, xn4300_xanth_pine_grove);
-	ASSIGN_ROOM(XANTH_PINE_GROVE5, xn4300_xanth_pine_grove);
-	ASSIGN_ROOM(XANTH_OCEAN_AUTO_DUMP1, xn3400_xanth_auto_dump_in_ocean);
-	ASSIGN_ROOM(XANTH_OCEAN_AUTO_DUMP2, xn3400_xanth_auto_dump_in_ocean);
-	ASSIGN_ROOM(XANTH_OCEAN_AUTO_DUMP3, xn3400_xanth_auto_dump_in_ocean);
-	ASSIGN_ROOM(XANTH_FRIEND_JUNCTION, xn3500_xanth_room_say_friend);
-	ASSIGN_ROOM(XANTH_OUTER_JAIL_CELL, xn4700_xanth_outer_jail_cell);
-	ASSIGN_ROOM(XANTH_HEAL_LEVER_ROOM, xn3700_xanth_room_heal_lever);
-	ASSIGN_ROOM(XANTH_ABOVE_CREVICE, xn4400_xanth_crevice);
-	ASSIGN_ROOM(XANTH_ELSEWHERE_ROOM, xn3600_xanth_room_elsewhere);
-	ASSIGN_ROOM(XANTH_FRIEND_NRTH_ENT, xn3500_xanth_room_say_friend);
-	ASSIGN_ROOM(XANTH_PORTCULIS_ROOM, xn3800_xanth_room_portculis_lever);
-	ASSIGN_ROOM(XANTH_OUTER_GUARD_ROOM, xn4600_xanth_outer_guard_room);
-
-	ASSIGN_ROOM(XANTH_RACE_CLASS_ROOM, xn3900_xanth_race_class_room);
-	ASSIGN_ROOM(XANTH_MOUSEVATOR_ENTR, xn4000_xanth_outside_mousevator);
-	ASSIGN_ROOM(XANTH_MOUSEVATOR_ROOM, xn4100_xanth_inside_mousevator);
-	ASSIGN_ROOM(XANTH_MOUSEVATOR_EXIT, xn4000_xanth_outside_mousevator);
 
 	//ASSIGN_ROOM(8835, fi1000_door_knocker);
 

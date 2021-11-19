@@ -32,12 +32,7 @@
         !ha1175_isexactname(GET_NAME(ch), zone_table[zone].lord)) {    \
 			send_to_char("Sorry, that is a new zone.\r\n", ch);          \
 				return;                                                 \
-    }                                                                  \
-    /* KEEP THEIR FINGERS OUT OF XANTH! */                             \
-    if (!strncmp(zone_table[zone].filename, "Xanth", 5)) {             \
-			send_to_char("You do not have access to this zone.\r\n", ch); \
-				return;                                                     \
-    }                                                                  \
+    }                                                                  \                                                             \
   } /* END OF < IMO_IMP */                                             \
 }
 
@@ -87,7 +82,6 @@
 #include "constants.h"
 #include "modify.h"
 #include "globals.h"
-#include "xanth.h"
 #include "func.h"
 
 #define RATTACK_FORMAT "Try mattack <mob> <slot> <type> <skill second> <skill third> <skill fourth>.\r\n"
@@ -2479,13 +2473,6 @@ void do_ocopy(struct char_data * ch, char *arg, int cmd)
 		return;
 	}
 
-	/* KEEP EM OUT OF XANTH */
-	if (GET_LEVEL(ch) < IMO_IMP &&
-	    !strcmp(zone_table[zone].filename, "Xanth")) {
-		send_to_char("You can't use objects from that zone.\r\n", ch);
-		return;
-	}
-
 	/* fix the top/bottom of the index for the new entry */
 	top_of_objt++;
 	db2400_allocate_obj(top_of_objt);
@@ -3094,21 +3081,11 @@ void do_ostat(struct char_data * ch, char *arg, int cmd)
 			obj->obj_flags.value[3]);
 		break;
 	case ITEM_ARMOR:
-		if (obj_index[obj->item_number].virtual >= OBJ_XANTH_BEG_MAGIC_ITEMS &&
-		    obj_index[obj->item_number].virtual <= OBJ_XANTH_END_MAGIC_ITEMS) {
-			sprintf(buf, "AC-apply:[%d] Max Charge:[%d] Charges:[%d] Undef:[%d]\r\n",
-				obj->obj_flags.value[0],
-				obj->obj_flags.value[1],
-				obj->obj_flags.value[2],
-				obj->obj_flags.value[3]);
-		}
-		else {
-			sprintf(buf, "AC-apply:[%d] Race(Anti/Only:[%d] Anti_Class:[%d] Undef:[%d]\r\n",
-				obj->obj_flags.value[0],
-				obj->obj_flags.value[1],
-				obj->obj_flags.value[2],
-				obj->obj_flags.value[3]);
-		}
+		sprintf(buf, "AC-apply:[%d] Race(Anti/Only:[%d] Anti_Class:[%d] Undef:[%d]\r\n",
+			obj->obj_flags.value[0],
+			obj->obj_flags.value[1],
+			obj->obj_flags.value[2],
+			obj->obj_flags.value[3]);
 		break;
 	case ITEM_TRAP:
 		sprintf(buf, "Spell:[%d] Hitpoints:[%d] Undef:[] Undef:[]\r\n",
@@ -4423,13 +4400,6 @@ void do_mcopy(struct char_data * ch, char *arg, int cmd)
 		return;
 	}
 
-	/* KEEP EM OUT OF XANTH */
-	if (GET_LEVEL(ch) < IMO_IMP &&
-	    !strcmp(zone_table[zone].filename, "Xanth")) {
-		send_to_char("You can't use chars from that zone.\r\n", ch);
-		return;
-	}
-
 	/* fix the top/bottom of the index for the new entry */
 	top_of_mobt++;
 	db2300_allocate_mob(top_of_mobt);
@@ -5518,21 +5488,11 @@ void do_obj_report(struct char_data * ch, char *arg, int cmd)
 				obj->obj_flags.value[3]);
 			break;
 		case ITEM_ARMOR:
-			if (obj_index[obj->item_number].virtual >= OBJ_XANTH_BEG_MAGIC_ITEMS &&
-			    obj_index[obj->item_number].virtual <= OBJ_XANTH_END_MAGIC_ITEMS) {
-				sprintf(buf, "AC-apply:[%d] Max Charge:[%d] Charges:[%d] Undef:[%d]\r\n",
-					obj->obj_flags.value[0],
-					obj->obj_flags.value[1],
-					obj->obj_flags.value[2],
-					obj->obj_flags.value[3]);
-			}
-			else {
-				sprintf(buf, "AC-apply:[%d] Race(Anti/Only):[%d] Anti_Class:[%d] Undef:[%d]\r\n",
-					obj->obj_flags.value[0],
-					obj->obj_flags.value[1],
-					obj->obj_flags.value[2],
-					obj->obj_flags.value[3]);
-			}
+			sprintf(buf, "AC-apply:[%d] Race(Anti/Only):[%d] Anti_Class:[%d] Undef:[%d]\r\n",
+				obj->obj_flags.value[0],
+				obj->obj_flags.value[1],
+				obj->obj_flags.value[2],
+				obj->obj_flags.value[3]);
 			break;
 		case ITEM_TRAP:
 			sprintf(buf, "    Spell:[%d] Hitpoints:[%d] Undef:[] Undef:[]\r\n",

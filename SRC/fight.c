@@ -26,7 +26,6 @@
 #include "spells.h"
 #include "ansi.h"
 #include "fight.h"
-#include "xanth.h"
 #include "globals.h"
 #include "mobact.h"
 #include "bounty.h"
@@ -725,11 +724,6 @@ int ft1900_special_procedure(struct char_data *ch)
 		}
 		return (FALSE);
 	}			/* END OF flame elemental */
-
-	if (mob_index[ch->nr].virtual == MOB_XANTH_QUEEN_IRIS) {
-		xn5100_xanth_chars_illusion_to_isle(0);
-		return (FALSE);
-	}			/* END OF queen iris */
 
 	return (FALSE);
 
@@ -2194,6 +2188,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
         
 		/* New Dodge */
 		if (victim->skills[SKILL_DODGE].learned > 1 && (number(0,101) < MINV(25, (victim->skills[SKILL_DODGE].learned / 4)))){
+			li9900_gain_proficiency(victim, SKILL_DODGE);
 	    	if (num_attacks > 1 ){
 			num_attacks >>= 1;  //Dodges half of the attacks if more than one
 			}

@@ -49,11 +49,6 @@
 			send_to_char("Sorry, that is a new zone.\r\n", ch);          \
 				return;                                                      \
     }                                                                  \
-    /* KEEP THEIR FINGERS OUT OF XANTH! */                             \
-    if (!strncmp(zone_table[zone].filename, "Xanth", 5)) {             \
-			send_to_char("You do not have access to this zone.\r\n", ch); \
-				return;                                                     \
-    }                                                                  \
   } /* END OF < IMO_IMP */                                             \
 }
 

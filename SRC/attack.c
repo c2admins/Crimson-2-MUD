@@ -1422,7 +1422,7 @@ void at2100_do_mob_hunt_msgs(struct char_data * ch, struct char_data
 				GET_REAL_NAME(vict), HSHR(vict), HMHR(vict));
 			break;
 		case 21:
-			sprintf(buf, "%s should be exploring Xanth instead of me killing %s.",
+			sprintf(buf, "%s should be exploring Daydream instead of me killing %s.",
 				GET_REAL_NAME(vict), HMHR(vict));
 			break;
 		case 22:

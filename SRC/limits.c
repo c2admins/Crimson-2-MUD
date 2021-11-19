@@ -20,7 +20,6 @@
 #include "handler.h"
 #include "spells.h"
 #include "constants.h"
-#include "xanth.h"
 #include "globals.h"
 #include "limits.h"
 #include "rent.h"
@@ -1215,12 +1214,6 @@ void li2500_point_update(void)
 					continue;
 				}	/* END OF timer */
 			}	/* END OF flags3.value */
-			/* IF ITS PANDORA'S BOX AND ITS OPEN */
-			if (j->item_number > -1 &&
-			    obj_index[j->item_number].virtual == OBJ_XANTH_PANDORAS_BOX &&
-			    !IS_SET(j->obj_flags.value[1], CONT_CLOSED)) {
-				xn4550_xanth_load_more_wraiths(j, 0);
-			}
 
 			/* IF ITS THE PORTAL */
 			if (j->item_number > -1 && obj_index[j->item_number].virtual == OBJ_PORTAL) {
@@ -1421,10 +1414,6 @@ void li3100_send_blocked_text(struct char_data * ch, int lv_error, int lv_flag)
 		}
 	case BLOCKED_BY_PET:{
 			sprintf(buf, "The pet shop is reserved and off limits to you.\r\n");
-			break;
-		}
-	case BLOCKED_BY_XANTH:{
-			sprintf(buf, "That zone is blocked.\r\n");
 			break;
 		}
 	case BLOCKED_BY_NOBOAT:{

@@ -22,7 +22,6 @@
 #include "constants.h"
 #include "utility.h"
 #include "globals.h"
-#include "xanth.h"
 #include "func.h"
 
 void weight_change_object(struct obj_data * obj, int weight)
@@ -1267,33 +1266,6 @@ void oj5100_wear_check_special(struct char_data * ch, struct obj_data * obj_obje
 	}
 
 	lv_num = obj_index[obj_object->item_number].virtual;
-
-	/* TOSS OUT THE MAJORITY RIGHT AWAY */
-	if (lv_num > OBJ_XANTH_END_MAGIC_ITEMS) {
-		return;
-	}
-
-	if (lv_num < OBJ_XANTH_BEG_MAGIC_ITEMS) {
-		return;
-	}
-
-	if (lv_num == OBJ_XANTH_RING_OPPOSIT_ALIGN ||
-	    lv_num == OBJ_XANTH_HELM_OPPOSIT_ALIGN ||
-	    lv_num == OBJ_XANTH_ROBE_OPPOSIT_ALIGN) {
-		/* ARE THERE CHARGES LEFT? */
-		if (obj_object->obj_flags.value[2] > 0) {
-			if (GET_ALIGNMENT(ch) != 0) {
-				obj_object->obj_flags.value[2]--;
-				GET_ALIGNMENT(ch) *= -1;
-				send_to_char("You feel your perspective change.\r\n", ch);
-				if (GET_ALIGNMENT(ch) > 0)
-					act("$n smiles.", TRUE, ch, 0, 0, TO_ROOM);
-				else
-					act("$n frowns.", TRUE, ch, 0, 0, TO_ROOM);
-
-			}
-		}
-	}
 
 }				/* END OF oj5100_wear_check_special() */
 

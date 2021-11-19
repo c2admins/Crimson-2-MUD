@@ -40,7 +40,6 @@
 #include "comm.h"
 #include "constants.h"
 #include "globals.h"
-#include "xanth.h"
 #include "func.h"
 #include "alias.h"
 #include "history.h"
@@ -665,13 +664,6 @@ char *co1100_give_prompt(struct descriptor_data * point)
 					len += count;
 			}
 
-			if (GET_LEVEL(ch) >= IMO_IMP && ch->in_room >= 0 &&
-			    world[ch->in_room].number == XANTH_PUZZLE_ROOM) {
-				count = snprintf(p_buf + len, sizeof(p_buf) - len, "p[%d/%d] ",
-						 pz_puzzle_row, pz_puzzle_col);
-				if (count >= 0)
-					len += count;
-			}
 		}
 
 		if (IS_SET(GET_ACT3(ch), PLR3_SHOW_VEHICLE) && ch->in_room >= 0 && (len < sizeof(p_buf))) {

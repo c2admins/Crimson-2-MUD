@@ -30,7 +30,6 @@
 #include "constants.h"
 #include "func.h"
 #include "mobact.h"
-#include "xanth.h"
 #include "globals.h"
 
 void mb1000_mobile_activity(void)
@@ -58,45 +57,6 @@ void mb1000_mobile_activity(void)
 					GET_REAL_NAME(ch), ch->in_room);
 				main_log(buf);
 			}
-
-			/* IF THIS IS AN XANTH MOB, */
-			if (lv_mob_num > 499 && lv_mob_num < 599) {
-				if (lv_mob_num == MOB_XANTH_CHAMELEON) {
-					if (xn3300_xanth_chameleon(ch, 0, "\0")) {
-						continue;
-					}
-				}	/* END OF CHAMELEON */
-
-				if (lv_mob_num == MOB_XANTH_ELEVATOR_REPAIRMAN) {
-					if (world[ch->in_room].number == XANTH_MOUSEVATOR_ENTR) {
-						/* HAVE WE BEEN GIVEN MONEY? */
-						if (GET_GOLD(ch) > 1000) {
-							GET_GOLD(ch) = 1000;
-							xn4000_xanth_outside_mousevator(ch, CMD_PUSH, "lever");
-							xn4000_xanth_outside_mousevator(ch, CMD_PULL, "lever");
-							continue;
-						}	/* END OF OVER DEFAULT
-							 * GOLD */
-						else {
-							/* PUT HIM BACK IN
-							 * ELEVATOR */
-							mo1500_do_move(ch, "", CMD_SOUTH);
-						}
-					}	/* END OF WE ARE IN ELEVATOR
-						 * ENTRY */
-					if (world[ch->in_room].number == XANTH_MOUSEVATOR_ROOM) {
-						/* HAVE WE BEEN GIVEN MONEY? */
-						if (GET_GOLD(ch) > 1000) {
-							GET_GOLD(ch) = 1000;
-							/* PUT HIM IN ELEVATOR
-							 * ENTRY */
-							mo1500_do_move(ch, "", CMD_NORTH);
-						}	/* END OF OVER DEFAULT
-							 * GOLD */
-					}	/* END OF WE ARE IN ELEVATOR */
-				}	/* END OF ELEVATOR REPAIRMAN */
-
-			}	/* END OF XANTH MOB */
 
 			/* IF THIS IS A GATE Demon AND IT DOESN'T HAVE */
 			/* A LEADER/FOLLOWER THEN SEND IT HOME.        */

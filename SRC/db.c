@@ -28,7 +28,6 @@
 #include "ban.h"
 #include "weather.h"
 #include "spells.h"
-#include "xanth.h"
 #include "globals.h"
 #include "mobact.h"
 #include "bounty.h"
@@ -1621,11 +1620,6 @@ void db4700_boot_zones(void)
 		 if (zone_table[zon].lord)
 		 zone_table[zon].flags = ZONE_TESTING | ZONE_NO_ENTER;
 		 */
-
-		/* IF ITS XANTH, KEEP EM OUT */
-		/* if (gv_port != 5000) { if
-		 * (!strncmp(zone_table[zon].filename, "Xanth", 5)) {
-		 * SET_BIT(zone_table[zon].flags, ZONE_NEW_ZONE); } } */
 
 		zone_table[zon].name = db7000_fread_string(fl);
 		/* throw out old top of zone */
@@ -3503,22 +3497,6 @@ void db5600_reset_zone(int zone)
 /* SPECIAL RESETS */
 /* ************** */
 
-/* IF THIS IS THE Xanth zone, we need to update some stuff */
-	if (!strncmp(zone_table[zone].filename, "Xanth", 5)) {
-		if (!strcmp(zone_table[zone].filename, "Xanth1")) {
-			db5650_reset_xanth1_zone();
-		}
-		if (!strcmp(zone_table[zone].filename, "Xanth2")) {
-			db5660_reset_xanth2_zone();
-		}
-		if (!strcmp(zone_table[zone].filename, "Xanth3")) {
-			db5670_reset_xanth3_zone();
-		}
-		if (!strcmp(zone_table[zone].filename, "Xanth4")) {
-			db5680_reset_xanth4_zone();
-		}
-	}			/* END OF xanth() */
-
 	/* IF THIS IS THE abyss zone, we need to remove links */
 	if (!strcmp(zone_table[zone].filename, "TheAbyss")) {
 		wi2925_remove_room_links(2472, CMD_UP - 1);
@@ -3603,141 +3581,6 @@ void db5625_print_error(char *lv_location, int lv_line, char lv_command, int lv_
 	return;
 
 }				/* END OF db5625_print_error() */
-
-
-void db5650_reset_xanth1_zone()
-{
-
-	int lv_room, lv_races, lv_classes;
-	char buf[MAX_STRING_LENGTH];
-	struct obj_data *tmp_obj, *next_obj;
-
-
-
-	/* FIND NUMBER OF RACES */
-	for (lv_races = MAX_RACES - 1; lv_races > 0 &&
-	     !strncmp(races[lv_races].name, "undefined", 9); lv_races--);
-
-	/* FIND NUMBER OF CLASSES */
-	for (lv_classes = MAX_CLASSES - 1; lv_classes > 0 &&
-	     !strncmp(classes[lv_classes].name, "undefined", 9); lv_classes--);
-
-
-	lv_room = db8000_real_room(XANTH_RACE_CLASS_ROOM);
-	if (lv_room > 0) {
-		for (tmp_obj = world[lv_room].contents; tmp_obj;
-		     tmp_obj = next_obj) {
-			next_obj = tmp_obj->next_content;
-			if (obj_index[tmp_obj->item_number].virtual ==
-			    OBJ_XANTH_BUTTON_GENERIC_THREE) {
-				sprintf(buf, "There are %d green buttons mounted in the wall.  They are all out.",
-					lv_races);
-				if (tmp_obj->description)
-					free(tmp_obj->description);
-				tmp_obj->description = strdup(buf);
-				tmp_obj->obj_flags.value[0] = lv_races;
-				tmp_obj->obj_flags.value[1] = 0;
-				tmp_obj->obj_flags.value[2] = 0;
-				tmp_obj->obj_flags.value[3] = 0;
-			}
-			if (obj_index[tmp_obj->item_number].virtual ==
-			    OBJ_XANTH_BUTTON_GENERIC_ONE) {
-				sprintf(buf, "There are %d blue buttons mounted in the wall.  They are all out",
-					lv_classes);
-				if (tmp_obj->description)
-					free(tmp_obj->description);
-				tmp_obj->description = strdup(buf);
-				tmp_obj->obj_flags.value[0] = lv_classes;
-				tmp_obj->obj_flags.value[1] = 0;
-				tmp_obj->obj_flags.value[2] = 0;
-				tmp_obj->obj_flags.value[3] = 0;
-			}
-			if (obj_index[tmp_obj->item_number].virtual ==
-			    OBJ_XANTH_BUTTON_GENERIC_TWO) {
-				sprintf(buf, "There are %d purple buttons mounted in the wall.  They are all out",
-					MAX_LEV);
-				if (tmp_obj->description)
-					free(tmp_obj->description);
-				tmp_obj->description = strdup(buf);
-				tmp_obj->obj_flags.value[0] = MAX_LEV;
-				tmp_obj->obj_flags.value[1] = 0;
-				tmp_obj->obj_flags.value[2] = 0;
-				tmp_obj->obj_flags.value[3] = 0;
-			}
-		}
-	}			/* END OF XANTH_RACE_CLASS_ROOM */
-
-	/* GIVE THE BUTTONS IN THE ELEVATOR NAMES */
-	lv_room = db8000_real_room(XANTH_MOUSEVATOR_ROOM);
-	if (lv_room > 0) {
-		for (tmp_obj = world[lv_room].contents; tmp_obj;
-		     tmp_obj = next_obj) {
-			next_obj = tmp_obj->next_content;
-			if (obj_index[tmp_obj->item_number].virtual ==
-			    OBJ_XANTH_BUTTON_GRAY) {
-				sprintf(buf, "A gray button is mounted in a panel above a blue one.");
-				if (tmp_obj->description)
-					free(tmp_obj->description);
-				tmp_obj->description = strdup(buf);
-			}
-			if (obj_index[tmp_obj->item_number].virtual ==
-			    OBJ_XANTH_BUTTON_BLUE) {
-				sprintf(buf, "A blue button is mounted in a panel below a gray one. It appears to be broken.");
-				if (tmp_obj->description)
-					free(tmp_obj->description);
-				tmp_obj->description = strdup(buf);
-			}
-		}
-	}			/* END OF XANTH_MOUSEVATOR_ENTR  */
-
-	lv_room = db8000_real_room(XANTH_MOUSEVATOR_EXIT);
-	if (lv_room > 0) {
-		for (tmp_obj = world[lv_room].contents; tmp_obj;
-		     tmp_obj = next_obj) {
-			next_obj = tmp_obj->next_content;
-			if (obj_index[tmp_obj->item_number].virtual ==
-			    OBJ_XANTH_LEVER) {
-				sprintf(buf, "a lever protrudes from the wall.  The lever is down.");
-				if (tmp_obj->description)
-					free(tmp_obj->description);
-				tmp_obj->description = strdup(buf);
-			}
-		}
-	}			/* END OF XANTH_MOUSEVATOR_ENTR */
-
-	return;
-
-}				/* END OF db5650_reset_xanth1_zone() */
-
-
-void db5660_reset_xanth2_zone()
-{
-
-
-
-	/* MOVE CHARS FROM BLAH ISLE TO PARADISE */
-	xn5200_xanth_chars_isle_to_illusion(0);
-
-	return;
-
-}				/* END OF db5660_reset_xanth2_zone() */
-
-
-void db5670_reset_xanth3_zone()
-{
-
-
-	return;
-}				/* END OF db5670_reset_xanth3_zone() */
-
-
-void db5680_reset_xanth4_zone()
-{
-
-
-	return;
-}				/* END OF db5680_reset_xanth4_zone() */
-
 
 int db5700_zone_reset_mob(struct char_data ** mob_ptr, int zone, int cmd_no, int lv_command, int lv_if_flag, int mob_num, int mob_qty, int the_room)
 {
@@ -6530,15 +6373,21 @@ int db9900_purge_check(struct char_file_u * lv_char, int lv_flag)
 	}
 
 	/* NEWBIE */
-	if (lv_char->level < 2) {
-		if (lv_months > 0 || lv_days > 30)
+
+	if (lv_char->level < 10) {
+		if (lv_months > 12 ){
 			return (PURGE_NOW);
+		}
+		if (lv_months > 9){
 		return (PURGE_LATER);
+		}
+		return (0);
 	}
 
 	/* MORTALS 2 - 15 */
+/*
 	else if (lv_char->level < 16) {
-		if (lv_months > 2) {	/* MEANING ITS 2 OR MORE */
+		if (lv_months > 2) {
 			main_log(buf);
 			spec_log(buf, PURGE_LOG);
 			return (PURGE_NOW);
@@ -6547,7 +6396,8 @@ int db9900_purge_check(struct char_file_u * lv_char, int lv_flag)
 			return (PURGE_LATER);
 		return (0);
 	}
-
+*/
+/*
 	else if (lv_char->level < 30) {
 		if (lv_months > 11) {
 			main_log(buf);
@@ -6558,6 +6408,7 @@ int db9900_purge_check(struct char_file_u * lv_char, int lv_flag)
 			return (PURGE_LATER);
 		return (0);
 	}
+*/
 	/* PURGE turned off for level 30 plus
 	else if (lv_char->level < 41) {
 		if (lv_months > 23) {

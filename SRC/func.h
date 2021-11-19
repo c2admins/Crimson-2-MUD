@@ -204,10 +204,6 @@ char *db5250_parse_str(char *lv_search_str, char *str_in,
 void db5300_load_classes(void);
 void db5500_zone_update(void);
 void db5600_reset_zone(int zone);
-void db5650_reset_xanth1_zone();
-void db5660_reset_xanth2_zone();
-void db5670_reset_xanth3_zone();
-void db5680_reset_xanth4_zone();
 void db5625_print_error(char *lv_location, int lv_line, char lv_command, int lv_if_flag, int lv_arg1, int lv_arg2, int lv_arg3, char *lv_filename, int lv_flag);
 int db5700_zone_reset_mob(struct char_data ** mob_ptr, int zone, int cmd_no, int lv_command, int lv_if_flag, int mob_num, int mob_qty, int the_room);
 int db5710_zone_reset_object(int zone, int cmd_no, int lv_command, int lv_if_flag, int obj_num, int obj_qty, int the_room);
@@ -860,39 +856,6 @@ int sp2200_clan_teleporter_button(struct char_data * ch, int cmd, char *arg);
 int sp2300_load_ammo(struct char_data * ch, int cmd, char *arg);
 void sp2400_do_shoot(struct char_data * ch, char *argument, int cmd);
 
-void xn1000_xanth_set_puzzle(struct char_data * ch, int cmd, char *arg);
-void xn1100_initialize_xanth_room(void);
-int xn2000_xanth_entry_room(struct char_data * ch, int cmd, char *arg);
-int xn3000_xanth_puzzle_room(struct char_data * ch, int cmd, char *arg);
-int xn3100_xanth_north_village(struct char_data * ch, int cmd, char *arg);
-int xn3200_xanth_justin_tree(struct char_data * ch, int cmd, char *arg);
-int xn3300_xanth_chameleon(struct char_data * ch, int cmd, char *arg);
-int xn3400_xanth_auto_dump_in_ocean(struct char_data * ch, int cmd, char *arg);
-int xn3500_xanth_room_say_friend(struct char_data * ch, int cmd, char *arg);
-int xn3600_xanth_room_elsewhere(struct char_data * ch, int cmd, char *arg);
-int xn3625_xanth_find_status_of_buttons(int lv_room, int lv_flag);
-int xn3700_xanth_room_heal_lever(struct char_data * ch, int cmd, char *arg);
-int xn3800_xanth_room_portculis_lever(struct char_data * ch, int cmd, char *arg);
-void xn3850_xanth_room_portculis_to_jail(struct char_data * ch, int cmd, char *arg);
-int xn3900_xanth_race_class_room(struct char_data * ch, int cmd, char *arg);
-int xn4000_xanth_outside_mousevator(struct char_data * ch, int cmd, char *arg);
-int xn4050_xanth_elevator_doors(int lv_enter_room_in,
-int lv_exit_room_in, int lv_elev_room_in, int lv_enter_dir,
-int lv_exit_dir, char *lv_lever_dir, int lv_flag);
-int xn4100_xanth_inside_mousevator(struct char_data * ch, int cmd, char *arg);
-int xn4200_xanth_sabrina(struct char_data * ch, int cmd, char *arg);
-int xn4300_xanth_pine_grove(struct char_data * ch, int cmd, char *arg);
-void xn4350_xanth_make_char_sleep(struct char_data * ch, int lv_flag);
-int xn4400_xanth_crevice(struct char_data * ch, int cmd, char *arg);
-int xn4500_xanth_pandoras_box(struct char_data * ch, int cmd, char *arg);
-void xn4550_xanth_load_more_wraiths(struct obj_data * lv_obj, int lv_flag);
-int xn4600_xanth_outer_guard_room(struct char_data * ch, int cmd, char *arg);
-int xn4700_xanth_outer_jail_cell(struct char_data * ch, int cmd, char *arg);
-int xn5000_xanth_shades_glasses(struct char_data * ch, int cmd, char *arg);
-int xn5100_xanth_chars_illusion_to_isle(int lv_flag);
-int xn5150_xanth_move_chars(int lv_real_from, int lv_real_to);
-int xn5200_xanth_chars_isle_to_illusion(int lv_flag);
-
 void oj5000_wear_obj(struct char_data * ch, struct obj_data * obj_object, int keyword, int lv_verbose);
 void oj5100_wear_check_special(struct char_data * ch, struct obj_data * obj_object, int keyword, int lv_verbose);
 void do_fill(struct char_data * ch, char *arg, int cmd);
@@ -1006,8 +969,6 @@ int bt1200_bounty_check(struct char_data * ch);
 //bounty.c
 int ha5100_manually_close_door(int lv_room, int lv_dir, int lv_flag);
 //handler.c
-int xn5175_xanth_convert_illusion_objects(struct obj_data * from_obj, struct obj_data * to_obj);
-//xanth.c
 int pc2300_teleport_room(struct char_data * ch, int cmd, char *arg);
 //proc2.c
 int pc2400_cliff(struct char_data * ch, int cmd, char *arg);

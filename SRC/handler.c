@@ -23,7 +23,6 @@
 #include "handler.h"
 #include "spells.h"
 #include "constants.h"
-#include "xanth.h"
 #include "ansi.h"
 #include "globals.h"
 #include "func.h"
@@ -1187,16 +1186,6 @@ int ha1650_all_from_room_to_room(int lv_from_room, int lv_to_room,
 			strcpy(buf, lv_to_msg);
 			act(buf, TRUE, tmp_ch, 0, 0, TO_CHAR);
 		}
-		/* DON'T LET EM KNOW IRIS MOBS ARE ENTERING ROOM */
-		if (lv_mob_num != MOB_XANTH_QUEEN_IRIS &&
-		    lv_mob_num != MOB_XANTH_IRIS_DRAGON &&
-		    lv_mob_num != MOB_XANTH_IRIS_GARDNER) {
-			if (*lv_from_msg) {
-				bzero(buf, sizeof(buf));
-				strcpy(buf, lv_from_msg);
-				act(buf, TRUE, tmp_ch, 0, 0, TO_ROOM);
-			}
-		}		/* END OF not IRIS */
 		if (IS_SET(lv_flag, BIT0)) {
 			in3000_do_look(tmp_ch, "\0", 0);
 		}

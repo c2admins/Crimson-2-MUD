@@ -24,7 +24,6 @@
 #include "spells.h"
 #include "constants.h"
 #include "globals.h"
-#include "xanth.h"
 #include "func.h"
 
 void ot1100_do_visible(struct char_data * ch, char *argument, int cmd)
@@ -2400,17 +2399,10 @@ struct obj_data *ot4000_check_spell_store_item(struct char_data * ch, int av_spe
 				if (lv_obj->obj_flags.value[VALUE_CURR_CHARGE] <
 				 lv_obj->obj_flags.value[VALUE_MAX_CHARGES]) {
 					lv_num = obj_index[lv_obj->item_number].virtual;
-					if (lv_num == OBJ_XANTH_RING_SPELL_FIREBALL ||
-					lv_num == OBJ_XANTH_HELM_SPELL_HEAL ||
-					    lv_num == OBJ_XANTH_ROBE_SPELL_M_MISSLE ||
-					lv_num == OBJ_XANTH_JEWEL_SPELL_HEAL) {
-						return (lv_obj);
-					}	/* END OF ITS A SPECIAL ITEM */
 				}	/* END OF IT CAN BE RECHARGED */
 			}	/* END OF FOUND THE SPELL */
 		}		/* END OF SOMETHING AT LOCATION */
 	}			/* END OF FOR LOOP */
-
 	return (0);
 
 }				/* END OF ot4000_check_spell_store_item() */

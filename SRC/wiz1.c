@@ -23,7 +23,6 @@
 #include "rent.h"
 #include "spells.h"
 #include "globals.h"
-#include "xanth.h"
 #include "func.h"
 
 extern FILE *help_fl;
@@ -1202,21 +1201,11 @@ DO_OBJECT:
 			break;
 
 		case ITEM_ARMOR:
-			if (obj_index[j->item_number].virtual >= OBJ_XANTH_BEG_MAGIC_ITEMS &&
-			    obj_index[j->item_number].virtual <= OBJ_XANTH_END_MAGIC_ITEMS) {
-				sprintf(buf, "AC-apply:[%d] Max Charge:[%d] Charges:[%d] Undef:[%d]\r\n",
-					j->obj_flags.value[0],
-					j->obj_flags.value[1],
-					j->obj_flags.value[2],
-					j->obj_flags.value[3]);
-			}
-			else {
-				sprintf(buf, "AC-apply:[%d] Race(Anti/Only):[%d] Anti_Class:[%d] Undef:[%d]\r\n",
-					j->obj_flags.value[0],
-					j->obj_flags.value[1],
-					j->obj_flags.value[2],
-					j->obj_flags.value[3]);
-			}
+			sprintf(buf, "AC-apply:[%d] Race(Anti/Only):[%d] Anti_Class:[%d] Undef:[%d]\r\n",
+				j->obj_flags.value[0],
+				j->obj_flags.value[1],
+				j->obj_flags.value[2],
+				j->obj_flags.value[3]);
 			break;
 
 		case ITEM_POTION:
