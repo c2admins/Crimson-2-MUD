@@ -32,7 +32,7 @@
         !ha1175_isexactname(GET_NAME(ch), zone_table[zone].lord)) {    \
 			send_to_char("Sorry, that is a new zone.\r\n", ch);          \
 				return;                                                 \
-    }                                                                  \                                                             \
+    }                                                                  \
   } /* END OF < IMO_IMP */                                             \
 }
 
