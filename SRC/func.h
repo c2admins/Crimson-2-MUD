@@ -146,7 +146,6 @@ void cr3900_do_mset(struct char_data * ch, char *arg, int cmd);
 void cr4000_do_mskill(struct char_data * ch, char *arg, int cmd);
 void cr4100_do_mattack(struct char_data * ch, char *arg, int cmd);
 
-void co2500_close_single_socket(struct descriptor_data * d);
 void co3000_send_to_all(char *messg);
 void co3100_send_to_outdoor(char *messg);
 void send_to_char(char *messg, struct char_data * ch);

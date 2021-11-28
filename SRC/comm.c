@@ -302,7 +302,7 @@ int co1000_run_the_game(int port)
 	main_log("Signal trapping.");
 	signal_setup();
 	/* INCREASE MAX USERS */
-	/* co1250_increase_max_users(); */
+	/*co1250_increase_max_users(); */
 	main_log("Opening mother connection.");
 	co1800_init_socket(port, mother_descs);
 	db1000_boot_db();

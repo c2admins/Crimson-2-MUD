@@ -4295,7 +4295,7 @@ void in5700_build_top_score_list(int min_level, int max_level)
 		topx_scores[idx].score = 0;
 		strcpy(topx_scores[idx].name, "Empty.");
 	}
-	for (idx = 0; idx < top_of_p_table; idx++) {
+	for (idx = 0; idx <= top_of_p_table; idx++) {
 		if (player_table[idx].pidx_level > max_level)
 			continue;
 		if (player_table[idx].pidx_level < min_level)
