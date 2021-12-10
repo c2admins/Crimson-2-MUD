@@ -60,6 +60,15 @@ int pc1000_gerinshill_room_1414(struct char_data * ch, int cmd, char *arg)
 
 	/* WE ONLY DO THE SPECIAL IF ITS GREATER THAN 50K */
 	if (lv_amount < 50000) {
+		if (lv_amount < 5000){
+		act("You call that an offering?\r\n", FALSE, ch, 0, 0, TO_CHAR);	
+		}
+		else if (lv_amount < 15000){
+		act("I have seen beggars give more to try to enter.\r\n", FALSE, ch, 0, 0, TO_CHAR);	
+		}
+		else {
+		act("Your offering is not high enough for entrance.\r\n", FALSE, ch, 0, 0, TO_CHAR);
+		}
 		return (FALSE);
 	}
 

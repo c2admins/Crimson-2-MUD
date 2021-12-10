@@ -142,7 +142,7 @@ unsigned long thebits[32];
 
 #define MESS_ATTACKER					1
 #define MESS_VICTIM						2
-#define MESS_ROOM							3
+#define MESS_ROOM						3
 
 #define SECS_PER_REAL_MIN			60
 #define SECS_PER_REAL_HOUR		(60*SECS_PER_REAL_MIN)
@@ -267,7 +267,7 @@ unsigned long thebits[32];
 #define OBJ2_ANTI_BARD				BIT14
 #define OBJ2_NO_EXTEND				BIT15
 #define OBJ2_MINLVL42    			BIT16
-#define OBJ2_ANTI_ELDRITCHKNIGHT	BIT17
+#define OBJ2_ANTI_ELDRITCH	BIT17
 #define OBJ2_ANTI_MONK				BIT18
 
 
@@ -309,7 +309,7 @@ unsigned long thebits[32];
 #define OVAL_ANTI_PALADIN        	BIT6
 #define OVAL_ANTI_DRUID          	BIT7
 #define OVAL_ANTI_RANGER         	BIT8
-#define OVAL_ANTI_ELDRITCHKNIGHT    BIT9
+#define OVAL_ANTI_ELDRITCH    BIT9
 #define OVAL_ANTI_MONK	         	BIT10
 
 /* Some different kind of liquids */
@@ -340,8 +340,8 @@ unsigned long thebits[32];
 /* top xx lists */
 #define top_avats       1
 #define top_mortals     2
-#define top_kills	3
-#define top_deaths	4
+#define top_kills		3
+#define top_deaths		4
 #define top_scores      5
 
 /* size of top xx lists */
@@ -818,7 +818,7 @@ struct room_data {
 #define CFLAG_CLASS_BARD        		 BIT9
 #define CFLAG_CLASS_DRUID        		BIT10
 #define CFLAG_CLASS_RANGER       		BIT11
-#define CFLAG_CLASS_ELDRITCHKNIGHT      BIT12
+#define CFLAG_CLASS_ELDRITCH      BIT12
 #define CFLAG_CLASS_MONK	     		BIT13
 
 
@@ -925,7 +925,7 @@ struct race_data {
 #define CLASS_PRIEST      		6
 #define CLASS_PALADIN     		7
 #define CLASS_DRUID       		8
-#define CLASS_ELDRITCHKNIGHT	9
+#define CLASS_ELDRITCH	9
 #define CLASS_MONK       		10
 #define CLASS_RANGER      		13
 #define CLASS_NECROMANCER 		15
@@ -1165,8 +1165,7 @@ struct char_ability_data {
 /* Used in CHAR_FILE_U *DO*NOT*CHANGE* */
 struct char_point_data {
 	int mana;
-	int max_mana;		/* Not useable may be erased upon player file
-				 * renewal */
+	int max_mana;		/* Not useable may be erased upon player file renewal */
 	int hit;
 	int max_hit;		/* Max hit for NPC                         */
 	int move;
@@ -1532,8 +1531,8 @@ struct txt_q {
 #define CON_LINK_DEAD                 14
 #define CON_QUIT                      15
 #define CON_CONFIRM_DICE_ROLL         16
-#define CON_DELETE_CONFIRM	      17
-#define CON_ADMIN		      18
+#define CON_DELETE_CONFIRM	   		  17
+#define CON_ADMIN	 				  18
 #define CON_PKILLABLE_CONFIRM	      19
 
 

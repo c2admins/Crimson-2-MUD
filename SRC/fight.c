@@ -514,6 +514,8 @@ void ft1800_raw_kill(struct char_data * ch, struct char_data * killer)
 		REMOVE_BIT(GET_ACT2(ch), PLR2_QUEST);
 
 	ft1500_make_corpse(ch, killer);
+	if (ch->desc)
+		ch->desc->connected_at = time(0); /* Try to prevent deaths crashing the mud. */
 	ha3000_extract_char(ch, END_EXTRACT_BY_RAW_KILL);
 
 	return;
@@ -1417,9 +1419,9 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 
 	if (IS_CASTED_ON(victim, SPELL_STONESKIN)) {
 		if (((attacktype >= TYPE_HIT) && (attacktype <= TYPE_CRUSH)) || IS_PC(victim))
-			dam = MAXV(0, dam * 0.60);	/* 40 % for melee */
+			dam = MAXV(0, dam * 0.50);	/* 40 % for melee */
 		else
-			dam = MAXV(0, dam * 0.50);	/* 50 % for spells */
+			dam = MAXV(0, dam * 0.80);	/* 50 % for spells */
 	}
 
 	if (IS_AFFECTED(victim, AFF_DEMON_FLESH)) {
@@ -2187,7 +2189,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		} /* End of poison bare hand attack */
         
 		/* New Dodge */
-		if (victim->skills[SKILL_DODGE].learned > 1 && (number(0,101) < MINV(25, (victim->skills[SKILL_DODGE].learned / 4)))){
+		if (victim->skills[SKILL_DODGE].learned > 1 && (number(0,101) < MINV(20, (victim->skills[SKILL_DODGE].learned / 5)))){
 			li9900_gain_proficiency(victim, SKILL_DODGE);
 	    	if (num_attacks > 1 ){
 			num_attacks >>= 1;  //Dodges half of the attacks if more than one
@@ -2346,46 +2348,46 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 
 			/* Critical attack for warriors ,paladins, priests, eldritch knight, and monk
 			 * Bingo 9 - 19 - 01 */
-			if (number(0, 101) <= 9 && IS_PC(ch) && GET_LEVEL(ch) >= 30) {
+			if (number(0, 101) <= 4 && IS_PC(ch) && GET_LEVEL(ch) >= 30) {
 				if (GET_CLASS(ch) == CLASS_WARRIOR) { 
-					if (GET_MOVE(ch) >= 25) {
+					if (GET_MOVE(ch) >= (GET_MAX_MOVE(ch) / 5)) {
 						dam *= 2;
-						GET_MOVE(ch) -= 25;
+						GET_MOVE(ch) -= (GET_MAX_MOVE(ch) / 100);
 						send_to_char("&y<&YCRITICAL&y> &n", ch);
 					}
 				}
 				else if (GET_CLASS(ch) == CLASS_PALADIN) {
-					if (GET_MOVE(ch) >= 12) {
+					if (GET_MOVE(ch) >= (GET_MAX_MOVE(ch) / 5)) {
 						dam *= 1.5;
-						GET_MOVE(ch) -= 12;
+						GET_MOVE(ch) -= (GET_MAX_MOVE(ch) / 100);
 						send_to_char("&y<&YCRITICAL&y> &n", ch);
 					}
 				}
 				else if (GET_CLASS(ch) == CLASS_PRIEST) {
-					if (GET_MOVE(ch) >= 10) {
+					if (GET_MOVE(ch) >= (GET_MAX_MOVE(ch) / 5)) {
 						dam *= 1.25;
-						GET_MOVE(ch) -= 10;
+						GET_MOVE(ch) -= (GET_MAX_MOVE(ch) / 100);
 						send_to_char("&y<&YCRITICAL&y> &n", ch);
 					}
 				}
 				else if (GET_CLASS(ch) == CLASS_BARD) {
-					if (GET_MOVE(ch) >= 10) {
+					if (GET_MOVE(ch) >= (GET_MAX_MOVE(ch) / 5)) {
 						dam *= 1.35;
-						GET_MOVE(ch) -= 10;
+						GET_MOVE(ch) -= (GET_MAX_MOVE(ch) / 100);
 						send_to_char("&y<&YCRITICAL&y> &n", ch);
 					}
 				}
-				else if (GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT) {
-					if (GET_MOVE(ch) >= 12) {
+				else if (GET_CLASS(ch) == CLASS_ELDRITCH) {
+					if (GET_MOVE(ch) >= (GET_MAX_MOVE(ch) / 5)) {
 						dam *= 1.35;
-						GET_MOVE(ch) -= 12;
+						GET_MOVE(ch) -= (GET_MAX_MOVE(ch) / 100);
 						send_to_char("&y<&YCRITICAL&y> &n", ch);
 					}
 				}
 				else if (GET_CLASS(ch) == CLASS_MONK) {
-					if (GET_MOVE(ch) >= 25) {
+					if (GET_MOVE(ch) >= (GET_MAX_MOVE(ch) / 5)) {
 						dam *= 2;
-						GET_MOVE(ch) -= 25;
+						GET_MOVE(ch) -= (GET_MAX_MOVE(ch) / 100);
 						send_to_char("&y<&YCRITICAL&y> &n", ch);
 					}
 				}

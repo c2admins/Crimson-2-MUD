@@ -245,7 +245,7 @@
 #define IS_BARD(ch) (classes[ch->player->class].flag, CFLAG_CLASS_BARD);
 #define IS_DRUID(ch) (classes[ch->player->class].flag, CFLAG_CLASS_DRUID);
 #define IS_RANGER(ch) (classes[ch->player->class].flag, CFLAG_CLASS_RANGER);
-#define IS_ELDRITCHKNIGHT(ch) (classes[ch->player->class].flag, CFLAG_CLASS_ELDRITCHKNIGHT);
+#define IS_ELDRITCH(ch) (classes[ch->player->class].flag, CFLAG_CLASS_ELDRITCH);
 #define IS_MONK(ch) (classes[ch->player->class].flag, CFLAG_CLASS_MONK);
 
 #define SWITCH(a,b) { (a) ^= (b); \

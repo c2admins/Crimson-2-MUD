@@ -986,7 +986,7 @@ int co1200_game_loop(int mother_descs[])
 		}
 		/* WE COME THROUGH THIS LOOP EVERY Minute */
 		if (!(pulse % 960)) {
-			co3500_clear_user_list();
+			/* co3500_clear_user_list(); //Clears out Undefined connections may be crashing us. */
 		}
 
 		if (!(pulse % 9600)) {

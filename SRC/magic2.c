@@ -447,7 +447,7 @@ void spell_sense_life(sbyte level, struct char_data * ch,
 
 void spell_identify(sbyte level, struct char_data * ch,
 		      struct char_data * victim, struct obj_data * obj){
-	char buf[256], buf2[256];
+	char buf[256], buf2[256], buf3[20];
 	int i, avgdice;
 	bool found;
 
@@ -574,7 +574,21 @@ void spell_identify(sbyte level, struct char_data * ch,
 			strcat(buf, "\n\r");
 			send_to_char(buf, ch);
 			avgdice = ((obj->obj_flags.value[2] / 2) + .5) * obj->obj_flags.value[1];
-			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d \n\r", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
+			if ((obj->obj_flags.value[3] == 2 ) || (obj->obj_flags.value[3] == 3)) {
+				strcpy(buf3, "Slash");
+			}
+			else if ((obj->obj_flags.value[3] == 6 ) || (obj->obj_flags.value[3] == 7)) {
+				strcpy(buf3, "Bludgeon");
+			}
+			else if (obj->obj_flags.value[3] == 11) {
+				strcpy(buf3, "Pierce");
+			}
+			else {
+				strcpy(buf3, "Undefined");
+			}
+			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d  ", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
+			send_to_char(buf, ch);
+			sprintf(buf, "Weapon Type: %s\n\r", buf3);
 			send_to_char(buf, ch);
 			break;
 
@@ -596,7 +610,21 @@ void spell_identify(sbyte level, struct char_data * ch,
 			strcat(buf, "\n\r");
 			send_to_char(buf, ch);
 			avgdice = ((obj->obj_flags.value[2] / 2) + .5) * obj->obj_flags.value[1];
-			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d \n\rTime left: %d\n\r", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice, obj->obj_flags.timer);
+		if (obj->obj_flags.value[3] == 2 || 3) {
+				strcpy(buf3, "Slash");
+			}
+			else if (obj->obj_flags.value[3] == 6 || 7) {
+				strcpy(buf3, "Bludgeon");
+			}
+			else if (obj->obj_flags.value[3] == 11) {
+				strcpy(buf3, "Pierce");
+			}
+			else {
+				strcpy(buf3, "Undefined");
+			}
+			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d  " , obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
+			send_to_char(buf, ch);
+			sprintf(buf,"Weapon Type: %s\n\rTime left: %d\n\r", buf3, obj->obj_flags.timer);
 			send_to_char(buf, ch);
 			break;
 		}
@@ -2282,7 +2310,7 @@ void spell_firelance(sbyte level, struct char_data * ch,
 		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);
 	}
 	
-	if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT && GET_LEVEL(ch) >= 30) {
+	if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_ELDRITCH && GET_LEVEL(ch) >= 30) {
 		/* Random critical fire damage for eldritch knight,Pythias 8 - 13 - 2020 */
 				dam *= 1.5;
 		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);
@@ -2327,7 +2355,7 @@ void spell_firestorm(sbyte level, struct char_data * ch,
 		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);
 	}
 	
-	if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT && GET_LEVEL(ch) >= 30) {
+	if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_ELDRITCH && GET_LEVEL(ch) >= 30) {
 		/* Random critical fire damage for eldritch knight,Pythias 8 - 13 - 2020 */
 				dam *= 1.5;
 		send_to_char("&R*&rF&YL&rA&RM&YE &rR&RU&YS&rH&R*&n ", ch);

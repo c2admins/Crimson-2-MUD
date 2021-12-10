@@ -1101,7 +1101,7 @@ const char *oflag2_bits[] = {
 	"ANTI_BARD",
 	"NO_EXTEND",
 	"MINLVL42",
-	"ANTI_ELDRITCHKNIGHT",
+	"ANTI_ELDRITCH",
 	"ANTI_MONK",
 	"\n"
 };
@@ -1798,7 +1798,7 @@ const char *class_anti[] = {
 	"ANTI_PRIEST",
 	"ANTI_PALADIN",
 	"ANTI_DRUID",
-	"ANTI_ELDRITCHKNIGHT",
+	"ANTI_ELDRITCH",
 	"ANTI_MONK",
 	"\n"
 };

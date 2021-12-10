@@ -584,7 +584,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		send_to_char("Your guildmaster apologizes, but only Rangers and Druids may practice that spell.\r\n", ch);
 		return;
 	}
-	if ((lv_what_to_practice == SPELL_MORDEN_SWORD) && (GET_CLASS(ch) != CLASS_MAGIC_USER && GET_CLASS(ch) != CLASS_ELDRITCHKNIGHT)) {
+	if ((lv_what_to_practice == SPELL_MORDEN_SWORD) && (GET_CLASS(ch) != CLASS_MAGIC_USER && GET_CLASS(ch) != CLASS_ELDRITCH)) {
 		send_to_char("Your guildmaster apologizes, but only Mages and Eldritch Knights may practice that spell.\r\n", ch);
 		return;
 	}
@@ -1132,7 +1132,7 @@ int pr2600_high_priest(struct char_data * ch, int cmd, char *arg)
 			if (!(IS_NPC(ch))) {
 				if (ha1375_affected_by_spell(ch, SPELL_BLINDNESS))
 					spell_cure_blind(40, priest, ch, 0);
-				spell_remove_poison(40, priest, ch, 0);
+					spell_remove_poison(40, priest, ch, 0);
 				if ((li1500_hit_limit(ch) > ch->points.hit) ||
 				  (li1300_mana_limit(ch) > ch->points.mana) ||
 				  (li1600_move_limit(ch) > ch->points.move)) {
@@ -1612,7 +1612,7 @@ int pr2700_guild_guard(struct char_data * ch, int cmd, char *arg)
 		if ((GET_LEVEL(ch) < IMO_LEV) &&
 		    (GET_CLASS(ch) == CLASS_MAGIC_USER ||
 		     GET_CLASS(ch) == CLASS_THIEF ||
-			 GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT ||
+			 GET_CLASS(ch) == CLASS_ELDRITCH ||
 			 GET_CLASS(ch) == CLASS_MONK ||
 		     GET_CLASS(ch) == CLASS_WARRIOR)) {
 			act(buf2, FALSE, ch, 0, 0, TO_ROOM);
@@ -1628,7 +1628,7 @@ int pr2700_guild_guard(struct char_data * ch, int cmd, char *arg)
 		     GET_CLASS(ch) == CLASS_CLERIC ||
 		     GET_CLASS(ch) == CLASS_WARRIOR ||
 		     GET_CLASS(ch) == CLASS_PRIEST ||
-			 GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT ||
+			 GET_CLASS(ch) == CLASS_ELDRITCH ||
 			 GET_CLASS(ch) == CLASS_DRUID ||
 		     GET_CLASS(ch) == CLASS_PALADIN)) {
 			act(buf2, FALSE, ch, 0, 0, TO_ROOM);

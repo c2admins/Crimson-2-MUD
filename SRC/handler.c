@@ -1262,13 +1262,15 @@ int ha1750_remove_char_via_death_room(struct char_data * ch, int lv_how_left)
 		main_log("Leaving by ha1750 DEATH ROOM");
 	}
 
-	/* IF this is an AVATAR and PK, there is a 100% chance of kit loss */
+	/* IF this is an AVATAR and PK, there is a 100% chance of Quest kit loss */
+	
 	if (GET_LEVEL(ch) == IMO_LEV || GET_LEVEL(ch) == PK_LEV) {
 		wi2900_purge_items(ch, "\0", 0);
 		sprintf(buf, "%s lost kit.", GET_REAL_NAME(ch));
 		strcat(buf1, buf);
 
 	}
+	
 	if (IS_PC(ch))
 		spec_log(buf1, DT_LOG);
 
@@ -1283,8 +1285,8 @@ int ha1750_remove_char_via_death_room(struct char_data * ch, int lv_how_left)
 			return (FALSE);
 		}
 	}
-	GET_HIT(ch) = MINV(1, GET_MAX_HIT(ch));
-	GET_MANA(ch) = MINV(1, GET_MAX_MANA(ch));
+	GET_HIT(ch) = MINV(GET_MAX_HIT(ch) / 2, GET_MAX_HIT(ch));
+	GET_MANA(ch) = MINV(GET_MAX_MANA(ch) / 2, GET_MAX_MANA(ch));
 	GET_MOVE(ch) = MINV(100, GET_MAX_MOVE(ch));
 	GET_SCORE(ch) -= 200;
 	if (GET_LEVEL(ch) == IMO_LEV || GET_LEVEL(ch) == PK_LEV) {
@@ -1295,18 +1297,23 @@ int ha1750_remove_char_via_death_room(struct char_data * ch, int lv_how_left)
 	else
 		GET_EXP(ch) -= 2 * MINV(GET_EXP(ch) >> 4, 25000 * GET_LEVEL(ch));
 	player_table[ch->nr].pidx_score = GET_SCORE(ch);
-	GET_DEATHS(ch)++;
-	in5300_update_top_list(ch, top_deaths);
+	//GET_DEATHS(ch)++;
+	//in5300_update_top_list(ch, top_deaths);
 	old_location = ch->in_room;
 	ch->in_room = location;
-	ft1500_make_corpse(ch, ch);
+	//	ft1500_make_corpse(ch, ch);
 	ch->in_room = old_location;
+	/*
 	for (i = 0; i < MAX_AFFECT; i++) {
 		if (ch->affected)
 			ha1325_affect_remove(ch, ch->affected, 0);
 	}
+	*/
 	li9800_set_alignment(ch);
-	ha3000_extract_char(ch, END_EXTRACT_BY_DEATH_ROOM);
+	//ha3000_extract_char(ch, END_EXTRACT_BY_DEATH_ROOM);
+	ha1500_char_from_room(ch);
+	ha1600_char_to_room(ch,location);
+	in3000_do_look(ch, "", 0);
 	return (TRUE);
 
 }				/* END OF ha1750_remove_char_via_death_room() */
@@ -1480,19 +1487,23 @@ void ha1925_equip_char(struct char_data * ch, struct obj_data * obj, int pos, in
 				main_log("ERROR: ch->in_room = NOWHERE when equipping char.");
 			}
 		}
+		if (IS_OBJ_STAT(obj, OBJ1_ANTI_DRAGON) && (GET_RACE(ch) == 11)) {
+			send_to_char("You are not the correct race to wear this.\n\r", ch);
+			return;
+		} //Pythias - For ANTI_DRAGON Flag
 		if ((GET_ITEM_TYPE(obj) == ITEM_ARMOR) &&
 		    GET_RACE(ch) == obj->obj_flags.value[1]) {
 			send_to_char("You are not the correct race to wear this.\n\r", ch);
 			return;
 		} //Bingo - For individual race antis on objects
-			if ((GET_ITEM_TYPE(obj) == ITEM_ARMOR) &&
+		if ((GET_ITEM_TYPE(obj) == ITEM_ARMOR) &&
 			    obj->obj_flags.value[1] > 50 &&
 			    obj->obj_flags.value[1] != GET_RACE(ch) + 50) {
 			sprintf(buf, "Only %s can wear this!", race_list[obj->obj_flags.value[1] - 50]);
 			send_to_char(buf, ch);
 			return;
 		} //Bingo - For individual races to only be able to wear the item
-			if ((IS_OBJ_STAT(obj, OBJ1_MINLVL10) && GET_LEVEL(ch) < 10) ||
+		if ((IS_OBJ_STAT(obj, OBJ1_MINLVL10) && GET_LEVEL(ch) < 10) ||
 		   (IS_OBJ_STAT2(obj, OBJ2_MINLVL15) && GET_LEVEL(ch) < 15) ||
 		    (IS_OBJ_STAT(obj, OBJ1_MINLVL20) && GET_LEVEL(ch) < 20) ||
 		   (IS_OBJ_STAT2(obj, OBJ2_MINLVL25) && GET_LEVEL(ch) < 25) ||
@@ -1503,11 +1514,10 @@ void ha1925_equip_char(struct char_data * ch, struct obj_data * obj, int pos, in
 			    (IS_OBJ_STAT2(obj, OBJ2_IMMONLY) && GET_LEVEL(ch) < IMO_SPIRIT)) {
 			if (ch->in_room != NOWHERE) {
 				act("You are too inexperienced to use $p.", FALSE, ch, obj, 0, TO_CHAR);
-				act("$n realizes that $e is too inexperienced to use $p.", FALSE, ch,
-				    obj, 0, TO_ROOM);
-				if (IS_SET(lv_flag, BIT1))
-					ha1700_obj_to_char(obj, ch);
-				return;
+				act("$n realizes that $e is too inexperienced to use $p.", FALSE, ch, obj, 0, TO_ROOM);
+					if (IS_SET(lv_flag, BIT1))
+						ha1700_obj_to_char(obj, ch);
+					return;
 			}
 			else {
 				main_log("ch->in_room = NOWHERE when equipping char.");
@@ -1524,10 +1534,10 @@ void ha1925_equip_char(struct char_data * ch, struct obj_data * obj, int pos, in
 		      (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_PRIEST) && (GET_CLASS(ch) == CLASS_PRIEST)) ||
 		      (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_RANGER) && (GET_CLASS(ch) == CLASS_RANGER)) ||
 		      (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_DRUID) && (GET_CLASS(ch) == CLASS_DRUID)) ||
-			  (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_ELDRITCHKNIGHT) && (GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT)) ||
+			  (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_ELDRITCH) && (GET_CLASS(ch) == CLASS_ELDRITCH)) ||
 			  (IS_SET(obj->obj_flags.flags2, OBJ2_ANTI_MONK) && (GET_CLASS(ch) == CLASS_MONK))) ||
 		     ((GET_ITEM_TYPE(obj) == ITEM_ARMOR && IS_SET(OVAL2(obj), OVAL_ANTI_MONK) && (GET_CLASS(ch) == CLASS_MONK)) ||
-			  (GET_ITEM_TYPE(obj) == ITEM_ARMOR && IS_SET(OVAL2(obj), OVAL_ANTI_ELDRITCHKNIGHT) && (GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT)) ||
+			  (GET_ITEM_TYPE(obj) == ITEM_ARMOR && IS_SET(OVAL2(obj), OVAL_ANTI_ELDRITCH) && (GET_CLASS(ch) == CLASS_ELDRITCH)) ||
 			  (GET_ITEM_TYPE(obj) == ITEM_ARMOR && IS_SET(OVAL2(obj), OVAL_ANTI_RANGER) && (GET_CLASS(ch) == CLASS_RANGER)) ||
 		      (GET_ITEM_TYPE(obj) == ITEM_ARMOR && IS_SET(OVAL2(obj), OVAL_ANTI_DRUID) && (GET_CLASS(ch) == CLASS_DRUID)) ||
 		      (GET_ITEM_TYPE(obj) == ITEM_ARMOR && IS_SET(OVAL2(obj), OVAL_ANTI_MAGE) && (GET_CLASS(ch) == CLASS_MAGIC_USER)) ||

@@ -627,10 +627,11 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		}
 
 		if (GET_LEVEL(ch) <= PK_LEV) {
-			GET_EXP(ch) += (lv_reward / 10) * exp_modifier;
+			//GET_EXP(ch) += (lv_reward / 10) * exp_modifier; /*This just gives XP and doesn't trigger level gains  */
 			sprintf(buf, "You also gained %d experience points for your quest.",
 				(lv_reward / 10) * exp_modifier);
 			do_say(questman, buf, CMD_SAY);
+			li2200_gain_exp(ch, (lv_reward /10) * exp_modifier);
 		}
 
 		/* 5% Chance he'll give you extra qps */
@@ -921,7 +922,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		act("$n asks $N for a list of quest items.", TRUE, ch, 0, questman, TO_ROOM);
 		act("You ask $N for a list of quest items.", TRUE, ch, 0, questman, TO_CHAR);
 		send_to_char("Quest Items for sale:\n\r", ch);
-		send_to_char("    &cQuestpoints                             &C10000&n Gold\r\n", ch);
+		send_to_char("    &cQuestpoints                           &C10000&n Gold\r\n", ch);
 		send_to_char("&W 1&n) &cFull Restore                         &G    50&n Qps\n\r", ch);
 		send_to_char("&W 2&n) &cSanctuary                            &G   200&n Qps\n\r", ch);
 		send_to_char("&W 3&n) &cPotion of Fly                        &G   100&n Qps\n\r", ch);
@@ -978,7 +979,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		case 13:
 			// Large Backpack
                         if (GET_LEVEL(ch) < 10){
-                        send_to_char("You do not have enough experience to buy this item!\r\n", ch);
+                        send_to_char("You are not a high enough level to buy this item!\r\n", ch);
 						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
@@ -993,7 +994,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		case 14:
 			// This is for a Hasek's Wedding Ring
                         if (GET_LEVEL(ch) < IMO_LEV){
-                        send_to_char("You do not have enough experience to buy this item!\r\n", ch);
+                        send_to_char("You are not a high enough level to buy this item!\r\n", ch);
 						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
@@ -1008,7 +1009,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		case 15:
 			// This is for a Sapphire Butterfly
                         if (GET_LEVEL(ch) < IMO_LEV){
-                        send_to_char("You do not have enough experience to buy this item!\r\n", ch);
+                        send_to_char("You are not a high enough level to buy this item!\r\n", ch);
 						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
@@ -1023,7 +1024,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		case 16:
 			// This is for an Emerald Green Cloak
                         if (GET_LEVEL(ch) < IMO_LEV){
-                        send_to_char("You do not have enough experience to buy this item!\r\n", ch);
+                        send_to_char("You are not a high enough level to buy this item!\r\n", ch);
 						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
@@ -1038,7 +1039,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		case 17:
 			//This is for an Essence of the Plague
                         if (GET_LEVEL(ch) < IMO_LEV){
-                        send_to_char("You do not have enough experience to buy this item!\r\n", ch);
+                        send_to_char("You are not a high enough level to buy this item!\r\n", ch);
 						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
@@ -1053,7 +1054,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		case 18:
 			// This is for Nameless Sword of Assassination
                         if (GET_LEVEL(ch) < IMO_LEV){
-                        send_to_char("You do not have enough experience to buy this item!\r\n", ch);
+                        send_to_char("You are not a high enough level to buy this item!\r\n", ch);
 						ch->questpoints += QuestPrices[lv_buyitem - 1];
                         break;
                         }
@@ -1065,6 +1066,18 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         do_give(questman, buf, CMD_QUEST);
                         break;
 			}
+		/*case 19:
+		//Purchase a 10 tick rush
+			 if (GET_LEVEL(ch) < 20){
+                        send_to_char("You must be Level 20 or higher to purchase a RUSH HOUR\r\n", ch);
+						ch->questpoints += QuestPrices[lv_buyitem - 1];
+                        break;
+                        }
+                        else {
+                        ot4400_do_rushhour(questman, 10, 0);
+					    break;
+			}
+*/			
 		default:
 			sprintf(buf, "obj %d", 547 + lv_buyitem);
       			wi2700_do_load(questman, buf, CMD_QUEST);
@@ -1153,16 +1166,12 @@ void qu1200_make_quest(struct char_data * ch)
 	/* Pick a random number between bottom and top of mob table */
 	lv_number = number(1, 10000);
 	lv_dev = number(1, 25);
-	if (GET_LEVEL(ch) == PK_LEV)
-		lv_level = number(47, 58);	/* 50 is playrs level - pk -5
-						 * level +6 else if
-						 * (GET_LEVEL(ch) == IMO_LEV)
-						 * lv_level = number (46, 57);
-						 * 50 is players level - avats
-						 * -4 level +7 */
+	if (GET_LEVEL(ch) >= IMO_LEV)
+		lv_level = number(46, 58);	
+	/* 50 is players level - PK -4 up to level +6-7 */
 	else
-		lv_level = number(44, 55);	/* 50 is players level -
-						 * mortals -6 level +5 */
+		lv_level = number(46, 55);	/* 50 is players level -
+						 * mortals -4 level +5*/
 	idx = 0;
 
 	/* Find the mob with that number */
@@ -1209,8 +1218,14 @@ void qu1200_make_quest(struct char_data * ch)
 			}
 		}
 		lv_div = 50 + GET_LEVEL(vict) - GET_LEVEL(ch);
-		if ((lv_div < 42) || (lv_div > 57))
-			jdx++;
+		if (GET_LEVEL(ch) >= IMO_LEV){
+			if ((lv_div < 43) || (lv_div > 59))
+				jdx++;
+		}
+		else {
+			if ((lv_div < 43) || (lv_div > 57))
+				jdx++;
+		}
 	}
 
 	/* 25% chance you have to find an item */
@@ -1244,7 +1259,8 @@ void qu1200_make_quest(struct char_data * ch)
 			do_whisper(questman, buf, CMD_WHISPER);
 			sprintf(buf, "%s My court wizard has located it on %s.", GET_NAME(ch), GET_REAL_NAME(vict));
 			do_whisper(questman, buf, CMD_WHISPER);
-
+			sprintf(buf, "%s It seems the thief was last seen in %s in ", GET_NAME(ch), zone_table[world[vict->in_room].zone].name);
+			do_whisper(questman, buf, CMD_WHISPER);
 			SET_BIT((obj)->obj_flags.flags1, OBJ1_QUEST_ITEM);
 			ch->questobj = obj;
 			ch->questmob = vict;

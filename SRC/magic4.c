@@ -1728,7 +1728,7 @@ void spell_earthmaw(sbyte level, struct char_data * ch,
 				dam *= 2;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);
 			}
-			if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT && GET_LEVEL(ch) >= 30) {
+			if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_ELDRITCH && GET_LEVEL(ch) >= 30) {
 				//Random critical fire damage for Eldritch Knight, Pythias 12 - 14 - 2020	
 				dam *= 1.5;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);

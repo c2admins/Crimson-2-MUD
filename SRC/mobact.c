@@ -89,7 +89,16 @@ void mb1000_mobile_activity(void)
 					wi2900_purge_items(ch, "\0", 0);
 					ha3000_extract_char(ch, END_EXTRACT_BY_GATE_NO_LEADER);
 					continue;
-				}  /*END of WE HAVE A MASTER */
+				}
+				/* IF TREANT/ANIMAL ISN'T IN THE SAME ROOM, WITH ITS MASTER, */
+				/* TELEPORT TO HIM/HER                               */
+				if (ch->master) {
+					if (ch->in_room != ch->master->in_room) {
+						GET_SKILL(ch, SPELL_TELEPORT_SELF) = 70;
+						spell_teleport_self(GET_LEVEL(ch), ch, ch->master, 0);
+						continue;
+					}	/* END OF NOT IN THE SAME ROOM */
+				}	/* END OF WE HAVE A MASTER */
 			}	/* END OF its a TREANT or ANIMAL */
 
 			/* IF THIS IS A PET FROM THE PET SHOP AND IT     */
@@ -101,7 +110,16 @@ void mb1000_mobile_activity(void)
 					wi2900_purge_items(ch, "\0", 0);
 					ha3000_extract_char(ch, END_EXTRACT_BY_GATE_NO_LEADER);
 					continue;
-				}	/* END OF WE HAVE A MASTER */
+				}
+				/* IF PET ISN'T IN THE SAME ROOM, WITH ITS MASTER, */
+				/* TELEPORT TO HIM/HER                               */
+				if (ch->master) {
+					if (ch->in_room != ch->master->in_room) {
+						GET_SKILL(ch, SPELL_TELEPORT_SELF) = 70;
+						spell_teleport_self(GET_LEVEL(ch), ch, ch->master, 0);
+						continue;
+					}	/* END OF NOT IN THE SAME ROOM */
+				}/* END OF WE HAVE A MASTER */
 			}	/* END OF its a PET */
 
 			/* IF THIS IS A Dancing Sword AND IT DOESN'T HAVE */

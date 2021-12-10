@@ -414,7 +414,7 @@ void spell_fireball(sbyte level, struct char_data * ch,
 	}
 	
 	if (number(1, 101) <= 5 &&
-	    GET_CLASS(ch) == CLASS_ELDRITCHKNIGHT &&
+	    GET_CLASS(ch) == CLASS_ELDRITCH &&
 	    GET_LEVEL(ch) >= 30) {
 		/* Random critical fire damage for eldritch knight,Pythias 8 - 13 - 2020 */
 				dam *= 1.5;

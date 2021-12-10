@@ -74,6 +74,7 @@ void au999_do_auction_identify(struct char_data * ch)
 
 	char buf[MAX_STRING_LENGTH];
 	char buf2[MAX_STRING_LENGTH];
+	char buf3[20];
 
 	struct obj_data *obj;
 	int i, avgdice;
@@ -231,7 +232,21 @@ void au999_do_auction_identify(struct char_data * ch)
 			strcat(buf, "\n\r");
 			send_to_char(buf, ch);
 			avgdice = ((obj->obj_flags.value[2] / 2) + .5) * obj->obj_flags.value[1];
-			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d \n\r", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
+			if ((obj->obj_flags.value[3] == 2 ) || (obj->obj_flags.value[3] == 3)) {
+				strcpy(buf3, "Slash");
+			}
+			else if ((obj->obj_flags.value[3] == 6 ) || (obj->obj_flags.value[3] == 7)) {
+				strcpy(buf3, "Bludgeon");
+			}
+			else if (obj->obj_flags.value[3] == 11) {
+				strcpy(buf3, "Pierce");
+			}
+			else {
+				strcpy(buf3, "Undefined");
+			}
+			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d ", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
+			send_to_char(buf, ch);
+			sprintf(buf, "Weapon Type: %s \n\r", buf3);
 			send_to_char(buf, ch);
 			break;
 
@@ -253,7 +268,21 @@ void au999_do_auction_identify(struct char_data * ch)
 			strcat(buf, "\n\r");
 			send_to_char(buf, ch);
 			avgdice = ((obj->obj_flags.value[2] / 2) + .5) * obj->obj_flags.value[1];
-			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d \n\r", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
+			if ((obj->obj_flags.value[3] == 2 ) || (obj->obj_flags.value[3] == 3)) {
+				strcpy(buf3, "Slash");
+			}
+			else if ((obj->obj_flags.value[3] == 6 ) || (obj->obj_flags.value[3] == 7)) {
+				strcpy(buf3, "Bludgeon");
+			}
+			else if (obj->obj_flags.value[3] == 11) {
+				strcpy(buf3, "Pierce");
+			}
+			else {
+				strcpy(buf3, "Undefined");
+			}
+			sprintf(buf, "Damage Dice is '%dD%d' Avg: %d ", obj->obj_flags.value[1], obj->obj_flags.value[2], avgdice);
+			send_to_char(buf, ch);
+			sprintf(buf, "Weapon Type: %s \n\r", buf3);
 			send_to_char(buf, ch);
 			break;
 
