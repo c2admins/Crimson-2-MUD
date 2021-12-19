@@ -1259,7 +1259,7 @@ void qu1200_make_quest(struct char_data * ch)
 			do_whisper(questman, buf, CMD_WHISPER);
 			sprintf(buf, "%s My court wizard has located it on %s.", GET_NAME(ch), GET_REAL_NAME(vict));
 			do_whisper(questman, buf, CMD_WHISPER);
-			sprintf(buf, "%s It seems the thief was last seen in %s in ", GET_NAME(ch), zone_table[world[vict->in_room].zone].name);
+			sprintf(buf, "%s It seems the thief was last seen in %s.", GET_NAME(ch), zone_table[world[vict->in_room].zone].name);
 			do_whisper(questman, buf, CMD_WHISPER);
 			SET_BIT((obj)->obj_flags.flags1, OBJ1_QUEST_ITEM);
 			ch->questobj = obj;

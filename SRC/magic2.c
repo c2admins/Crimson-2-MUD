@@ -718,6 +718,7 @@ void spell_fire_breath(sbyte level, struct char_data * ch,
 			     (burn->obj_flags.type_flag != ITEM_WAND) &&
 			     (burn->obj_flags.type_flag != ITEM_STAFF) &&
 			     (burn->obj_flags.type_flag != ITEM_NOTE) &&
+				 (burn->obj_flags.type_flag != ITEM_QUEST)&&
 			     (number(0, 2) == 0);
 			     burn = burn->next_content);
 			if (burn) {	/* if we found one thing to burn its
@@ -791,7 +792,9 @@ void spell_frost_breath(sbyte level, struct char_data * ch,
 			for (frozen = victim->carrying;
 			     frozen && (frozen->obj_flags.type_flag != ITEM_DRINKCON) &&
 			     (frozen->obj_flags.type_flag != ITEM_FOOD) &&
-			     (frozen->obj_flags.type_flag != ITEM_POTION) && (number(0, 2) == 0);
+			     (frozen->obj_flags.type_flag != ITEM_POTION) &&
+				 (frozen->obj_flags.type_flag != ITEM_QUEST) &&
+				 (number(0, 2) == 0);
 			     frozen = frozen->next_content);
 			if (frozen) {
 				act("$o breaks.", 0, victim, frozen, 0, TO_CHAR);

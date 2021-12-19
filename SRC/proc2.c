@@ -1645,10 +1645,11 @@ int pc3000_pulse_attack(struct char_data * ch, struct char_data * victim)
 			GET_ALIGNMENT(ch) = 1000;
 		}
 		else {
-			GET_ALIGNMENT(ch) += 250;
+			GET_ALIGNMENT(ch) += 200;
 		}
 	}
-
+	GET_ALIGNMENT(ch) += 50;
+	
 	fyredrain = GET_MANA(victim) / 2;
 	GET_MANA(victim) = fyredrain;
 	GET_MANA(ch) += fyredrain / 2;
