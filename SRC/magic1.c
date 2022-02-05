@@ -1226,6 +1226,26 @@ void spell_donate_mana(sbyte level, struct char_data * ch,
 		act("You feel some of your mana flow to $N.", FALSE, ch, 0, victim, TO_CHAR);
 }
 
+void spell_mana_link(sbyte level, struct char_data * ch,
+		         struct char_data * victim, struct obj_data * obj){
+	assert(victim);
+	assert((level >= 0) && (level <= NPC_LEV));
+
+
+
+	if (magic_fails(ch, victim))
+		return;
+
+	if ((15 + GET_MANA(victim)) > GET_SPECIAL_MANA(victim))
+		GET_MANA(victim) = GET_SPECIAL_MANA(victim);
+	else
+		GET_MANA(victim) += 15;
+
+	send_to_char("You feel mana flow into you!\n\r", victim);
+	if (victim != ch)
+		act("You feel some of your mana flow to $N.", FALSE, ch, 0, victim, TO_CHAR);
+}
+
 void spell_cause_critic(sbyte level, struct char_data * ch,
 			  struct char_data * victim, struct obj_data * obj){
 	int healpoints;

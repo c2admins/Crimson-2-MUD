@@ -406,6 +406,8 @@ SPELL_FN(spell_cure_critic);
 CAST_FN (cast_cure_critic);
 SPELL_FN(spell_donate_mana);
 CAST_FN (cast_donate_mana);
+SPELL_FN(spell_mana_link);
+CAST_FN (cast_mana_link);
 SPELL_FN(spell_cause_critic);
 CAST_FN (cast_cause_critic);
 SPELL_FN(spell_cure_light);

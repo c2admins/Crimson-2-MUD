@@ -427,6 +427,33 @@ void cast_donate_mana(signed char level, struct char_data * ch, char *arg, int t
 }
 
 
+void cast_mana_link(signed char level, struct char_data * ch, char *arg, int type,
+		        struct char_data * tar_ch, struct obj_data * tar_obj)
+{
+
+
+
+	switch (type) {
+		case SPELL_TYPE_SPELL:
+		spell_mana_link(level, ch, tar_ch, 0);
+		break;
+	case SPELL_TYPE_POTION:
+		spell_mana_link(level, ch, ch, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (tar_ch = world[ch->in_room].people;
+		     tar_ch; tar_ch = tar_ch->next_in_room)
+			if (tar_ch != ch)
+				spell_mana_link(level, ch, tar_ch, 0);
+		break;
+	default:
+		main_log("ERROR: Invalid spell type in mana link!");
+		spec_log("ERROR: Invalid spell type in mana link!", ERROR_LOG);
+		break;
+
+	}
+}
+
 void cast_sustenance(signed char level, struct char_data * ch, char *arg, int type,
 		       struct char_data * tar_ch, struct obj_data * tar_obj)
 {

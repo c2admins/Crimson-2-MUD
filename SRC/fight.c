@@ -2038,7 +2038,8 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 	    (GET_RACE(ch) == RACE_DARKLING ||
 	     GET_RACE(ch) == RACE_RAVSHI ||
 	     GET_RACE(ch) == RACE_PIXIE ||
-	     GET_RACE(ch) == RACE_FELINE)) {
+	     GET_RACE(ch) == RACE_FELINE ||
+		 GET_RACE(ch) == RACE_SAHAUGIN )) {
 		w_type = TYPE_CLAW;
 	}
 
@@ -2182,7 +2183,8 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 		if ((GET_RACE(ch) == RACE_DARKLING ||
 		     GET_RACE(ch) == RACE_RAVSHI ||
 		     GET_RACE(ch) == RACE_PIXIE ||
-		     GET_RACE(ch) == RACE_FELINE) &&
+		     GET_RACE(ch) == RACE_FELINE ||
+			 GET_RACE(ch) == RACE_SAHAUGIN) &&
 		    !wielded &&
 		    !number(0, 3)) {
 			spell_poison(GET_LEVEL(ch), ch, victim, 0);
@@ -2215,7 +2217,15 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 				if (GET_CLASS(ch) == CLASS_MONK && (!wielded)) {
 				lv_temp_dam += dice((GET_LEVEL(ch)/2), 3) + (GET_LEVEL(ch)/2);	/* Monk Unarmed Strike */
 				}
-				lv_temp_dam+= number(0, 2);	/* Max. 2 dam with bare hands */	
+				if (GET_RACE(ch) == RACE_DARKLING ||
+					GET_RACE(ch) == RACE_RAVSHI ||
+					GET_RACE(ch) == RACE_PIXIE ||
+					GET_RACE(ch) == RACE_FELINE ||
+					GET_RACE(ch) == RACE_SAHAUGIN && 
+					(!wielded)) {
+				lv_temp_dam += number(3, 10);	/* Racial Claw Attacks */
+				}
+				lv_temp_dam+= number(0, 5);	/* Max. 5 dam with bare hands */	
 			}
 
 			if (wielded)	/* NPC barehand damage is added to this * -- ouch */

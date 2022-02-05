@@ -1244,6 +1244,11 @@ void assign_spell_pointers(void)
 	       ENABLED_SPELL | GENERAL_SPELL,
 	       0, APPLY_NONE, 0,
 	       TAR_CHAR_ROOM, cast_donate_mana);
+		   
+	SPELLO(82, 3, POSITION_FIGHTING, 15, 0,
+	       GENERAL_SPELL,
+	       0, APPLY_NONE, 0,
+	       TAR_CHAR_ROOM, cast_mana_link);
 
 	SPELLO(83, 3, POSITION_FIGHTING, 50, 0,
 	       ENABLED_SPELL | MOB_SPELL | VIOLENT_SPELL,
