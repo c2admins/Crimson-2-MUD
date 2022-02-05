@@ -107,16 +107,16 @@ obj butchers cleaver object~
 1 5 5
 #24107
 obj cooking pot object~
-1
+100
 &WA cooking &Kpot&n~
 &WA cooking &Kpot&W rests here.&n~
 ~
-15 8 0 0
+15 0 0 1
 500 0 0 0
 1 5 5
 #24108
 obj chefs secret stew object potion~
-0
+1
 &yThe chefs secret stew.&n~
 &yA vial has been discarded here.&n~
 ~

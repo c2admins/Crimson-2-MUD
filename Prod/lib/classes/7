@@ -8,11 +8,11 @@ DESC=PLDN
 # Enter three lines of text displayed when view details 80bytes/per
 TEXT1=Paladins are a combination figter/cleric.  Because of this, they
 TEXT2=aquire fighter skills and spells at higher levels than true  
-TEXT3=warriors/clerics.
-TEXT4=Paladins must maintain a good alignment
-ADJHIT=170
-ADJMANA=120
-ADJMOVE=100
+TEXT3=warriors/clerics. Must maintain good alignment.
+TEXT4=Chance for bonus healing and melee damage starting at level 30.
+ADJHIT=130
+ADJMANA=110
+ADJMOVE=110
 THACO 1 1
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=GOOD

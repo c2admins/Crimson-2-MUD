@@ -9,7 +9,7 @@ DESC=Ogre
 TEXT1=Big, ugly, greedy humanoids who live by ambush and theft. Their skin colour
 TEXT2=ranges from a dead yellow to a dull black-brown, and rare cases of sickly
 TEXT3=violet.  Their warts are darker in tone and have purple eyes with white 
-TEXT4=pupils. Can only use equipment flagged as "large".
+TEXT4=pupils.
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

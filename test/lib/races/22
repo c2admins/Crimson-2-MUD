@@ -9,7 +9,7 @@ DESC=Minot
 TEXT1=Minotaurs are huge, well over 7 feet tall, and quite broad and muscular. They
 TEXT2=have the head of a bull but the body of a human. They are wild warriors
 TEXT3=that can get out of control when in battle, definately something to be feared.
-TEXT4=Berserk (to come) Can only use equipment flagged "large".
+TEXT4=none
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

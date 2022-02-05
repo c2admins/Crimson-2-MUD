@@ -9,10 +9,10 @@ DESC=CLER
 TEXT1=These are powerful healers.  The Cleric is a master of both
 TEXT2=body and soul.  Clerics are not great fighters but have been
 TEXT3=known to hold their own with staffs, maces, and clubs.
-TEXT4=none
-ADJHIT=120
-ADJMANA=150
-ADJMOVE=100
+TEXT4=Chance for bonus healing starting at Level 30
+ADJHIT=110
+ADJMANA=130
+ADJMOVE=110
 THACO 1 2
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL

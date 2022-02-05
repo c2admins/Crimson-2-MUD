@@ -6,10 +6,10 @@ NAME=Pixie
 # enter 5 digit race description which appears on the WHO list
 DESC=Pixie
 # Enter text displayed when view race details 80bytes/per
-TEXT1=Pixies are elfin creatures, about 2.5 feet tall. When visible, their facial
-TEXT2=features resemble those of Elves. They have two silver wings that enable
+TEXT1=Pixies are fae creatures, about 2.5 feet tall. When visible, their facial
+TEXT2=features resemble those of elves. They have two silver wings that enable
 TEXT3=them to fly and being so small, they are also able to sneak with ease.
-TEXT4=Airwalk(1) (to come).  Sneak(1).  -50 AC bonus. Only equipment flagged "small".
+TEXT4=They have poisonous claws when fighting unarmed.
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

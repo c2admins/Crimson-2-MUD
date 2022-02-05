@@ -7,8 +7,8 @@ NAME=Drow Elf
 DESC=Drow
 # Enter text displayed when view race details 80bytes/per
 TEXT1=Drow elves are dreaded, evil creatures that were once a part of the elven
-TEXT2=community but now are outcasts.  They have black skin and pale white
-TEXT3=hair.  They like to dress usually in black.
+TEXT2=community but now are outcasts.  They have black skin and pale white hair.
+TEXT3=They usually like to dress in black.
 TEXT4=Must keep an evil alignment.
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=EVIL

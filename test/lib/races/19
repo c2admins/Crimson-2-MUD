@@ -9,7 +9,7 @@ DESC=Darkl
 TEXT1=This poisonous race are not to be taken lightly. Their power comes from among
 TEXT2=the shadows of the dark that will enable them to recouperate and regenerate.
 TEXT3=The light is their fear, they might flee in daylight if one is attacked.
-TEXT4=No hp/move/mana gain unless in the dark. Hand damage is poisoness (to come)
+TEXT4=No hp/move/mana gain unless in the dark. Poisonous unarmed attack.
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

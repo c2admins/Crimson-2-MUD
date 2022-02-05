@@ -35,7 +35,7 @@ obj hole ground~
 a hole~
 There is a freshly dug hole in the ground here.~
 ~
-15 0 0 0
+15 0 0 1
 10000 1 10 0
 1000 0 -1
 #8004
@@ -516,7 +516,7 @@ obj axe rune searinox~
 &Kthe runed axe &w"&rSe&Ra&Yr&Yi&Rn&rox&w"&n~
 A large runed axe lies here smoldering.~
 ~
-5 555072 31744 24577
+5 555072 162944 24577
 65536 1 1 3
 1 8000 80
 E
@@ -533,7 +533,7 @@ obj mace rune doomhammer~
 &Kthe runed mace &w"&cD&Coo&cm&wH&Wam&wm&Wer&w"&n~
 A large runed mace lies here emitting frost.~
 ~
-5 555072 31744 24577
+5 555072 162944 24577
 131072 1 1 6
 1 8000 80
 E

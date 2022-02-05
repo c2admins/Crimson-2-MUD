@@ -9,14 +9,13 @@
 LogFiles="mudrunning.txt"
 
 # The directories to run the script in.
-LogDirectories="/home/crimson/c2/controlscripts" 
+LogDirectories="/home/ubuntu/c2/controlscripts" 
 
 # How many back logs to keep.
 # MUST ME 3 OR MORE!!!
 FilesToKeep=7
 
 RotateLogFile() {
-	
 	# Case 1 -- The standard case.  If the file is there, delete it, move the next oldest in to place.
 	for ((i=$FilesToKeep ; i > 1 ; i--))
 	do

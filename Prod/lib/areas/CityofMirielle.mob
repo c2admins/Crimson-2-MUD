@@ -561,12 +561,12 @@ The maze demon awaits you perhaps you should not go astray
 A creature of the maze stands here ready to interrupt you progress.  He has
 glowing red eyes and noticed you before you noticed him.
 ~
-319496 32769 136249361 138 -250 S
+266248 32769 136249361 138 -250 S
 23 17 21 9d9+900 10d5+9
 12350 71250
 8 8 0
 7 0 17 15 14 15 15 11
-SKILL=SPELL_GAS_BREATH 56
+SKILL=SPELL_GAS_BREATH 30
 #7629
 mob monk phyrshanct~
 A phyrshanct monk~

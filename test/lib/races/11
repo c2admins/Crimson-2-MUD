@@ -6,10 +6,10 @@ NAME=DragonKin
 # enter 5 digit race description which appears on the WHO list
 DESC=Dragn
 # Enter text displayed when view race details 80bytes/per
-TEXT1=Kin to dragons, they also posses the power of a dragon to breathe fire. They
+TEXT1=Kin to dragons, they also posses the power of a dragon to breath attacks. They
 TEXT2=make a powerful foe in combat and should not be underestimated. They posses
 TEXT3=many abilities yet unknown to them, but are discovered with time.  Despite
-TEXT4=thier small wings, dragonkin are unable to fly.  Have breath attacks.
+TEXT4=thier small wings, dragonkin are unable to fly.
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

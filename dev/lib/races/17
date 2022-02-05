@@ -9,7 +9,7 @@ DESC=Orc
 TEXT1=Orcs are a species of aggressive mammalian carnivores. Orcs vary in appearance,
 TEXT2=as they freaquently crossbreed with other species. In general, they resemble
 TEXT3=primitive humans with grey-green skin, coarse hair and able to see in the dark.
-TEXT4=Berserk (to come).
+TEXT4=none
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

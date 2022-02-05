@@ -59,7 +59,7 @@ obj scales waterbeast~
 Two enormous fish-like scales have been left here.~
 ~
 9 65536 0 33
-9 0 0 0
+9 11 0 0
 11 22000 3000
 A
 19 1
@@ -94,7 +94,7 @@ obj trident moon sea~
 The legendary Trident of the Moon Sea rests here!~
 ~
 5 1048641 0 8193
-16777216 12 2 0
+16777216 12 2 11
 12 110000 15000
 #14508
 obj symbol holy pisces necklace~

@@ -9,7 +9,7 @@ DESC=Thri
 TEXT1=Thri-Kreen, or mantis-men, are a race of insect-like humanoids that live in 
 TEXT2=the wasteland known as the Burning Sea in Torindrel. Their four legs provide
 TEXT3=them with an amazing dexterity and quick speed, but their alien shape also 
-TEXT4=prevents them from using some armors as well.  
+TEXT4=prevents them from using FEET or HEAD equipment.
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE
@@ -73,4 +73,4 @@ RACE_PERM_SPELL5=0
 # skill/spell adjustments
 SKILL_MIN_LEVEL=SKILL_SCALES 1
 SKILL_MIN_LEVEL=SKILL_DODGE 5
-SKILL_MIN_LEVEL=SPELL_VENOM_BLADE 20
+SKILL_MIN_LEVEL=SKILL_ENVENOM_WEAPON 20

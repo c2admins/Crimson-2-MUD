@@ -113,16 +113,16 @@ a helm has been left here.~
 13 5 5 0
 10 20000 2000
 E
+propert~
+    nothing special..
+~
+E
+propert~
+    nothing special..
+~
+E
 property~
 helm of alignment change.
-~
-E
-propert~
-    nothing special..
-~
-E
-propert~
-    nothing special..
 ~
 #806
 obj helm xanth~
@@ -222,10 +222,6 @@ A bolt of clothe is lying here.~
 36 0 0 0
 10 20000 2000
 E
-property~
-robe of alignment change.
-~
-E
 propert~
     nothing special..
 ~
@@ -236,6 +232,10 @@ undefined.
 E
 propert~
     nothing special..
+~
+E
+property~
+robe of alignment change.
 ~
 #811
 obj robe xanth~
@@ -560,7 +560,7 @@ obj scarecrow head~
 scarecrow head~
 scarecrow head lies here~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #833
@@ -569,7 +569,7 @@ obj scarecrow torso~
 scarecrow torso~
 scarecrow torso~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #834
@@ -578,7 +578,7 @@ obj scarecrow right arm~
 scarecrow right arm~
 scarecrow right arm~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #835
@@ -587,7 +587,7 @@ obj scarecrow left arm~
 scarecrow left arm~
 scarecrow left arm~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #836
@@ -596,7 +596,7 @@ obj scarecrow right leg ~
 scarecrow right leg~
 scarecrow right leg~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #837
@@ -605,7 +605,7 @@ obj scarecrow left leg ~
 scarecrow left leg~
 scarecrow left leg~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #838
@@ -614,7 +614,7 @@ obj scarecrow right foot~
 scarecrow right foot~
 scarecrow right foot~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #839
@@ -623,7 +623,7 @@ obj scarecrow left foot~
 scarecrow left foot~
 scarecrow left foot~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #840
@@ -632,7 +632,7 @@ obj scarecrow right hand~
 scarecrow right hand~
 scarecrow right hand~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #841
@@ -641,7 +641,7 @@ obj scarecrow left hand~
 scarecrow left hand~
 scarecrow left hand~
 ~
-8 671088640 512 1
+8 671088640 1536 17
 0 0 0 0
 1 100 100
 #842
@@ -650,7 +650,7 @@ obj epitaph scythe imm~
 &KEp&ri&wtaph's &WScythe of &wJudgem&re&Knt&n~
 &cA sharp scythe, fit for rendering judgement, lies here&n~
 ~
-5 134217728 64 8193
+5 134217728 64 8209
 9964555 1551 1551 3
 10 100 100
 A

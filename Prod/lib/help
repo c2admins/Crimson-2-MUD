@@ -1,16 +1,23 @@
-#Typing HELP with no arguments will give you a list of things you can get
-help on.
+#Typing HELP with no arguments will give you a list of things you can get help on.
 
 #
 CHANGELOG
 
-Latest Changes as of March 17, 2021
+Latest Changes as of September 15, 2021
 
 Code changes:
-Class Criticals available at lvl 30 instead of AVAT, see help CLASS_BONUS
-Class Criticals chance increased to ~8%
-Envenom Weapon modified to give Acid Attack instead of Poisonous
-Say Quest to Questmaster for information on in-game EQ quests
+Added Weapon Type on Auction ID and Spell ID
+Rebalanaced Dodge skill to max at 20%
+Adjusted frequency and cost of Melee Critical
+Adjusted Questmaster to give some clues
+Adjust Stone Skin to be the same as Sanc
+Fixed ANTI_DRAGON flag
+
+Zone changes:
+Remove blind from Grenlinstone
+Removed Melon and Corn from Darkling
+Lower mob load in Amazon
+Trident of Moon Sea made Piercing again in Atlantis
 See also: HELP_UPDATE
 
 #
@@ -25,32 +32,10 @@ Email: c2admins@gmail.com
 Mudmail: Pythias
 Discord: check crimson2.com for invite link
 
-Below are the updates as of March 17, 2021:
+Below are the updates as of March 25, 2021:
 
-             QUESTS: Added hints to find in-game EQ quests
-     ENVENOM WEAPON: updated with new modification
-        CLASS_BONUS: updated with new modification
-               DICE: can be found with NEWBIE_DICE
-              FORMS: each can be found with "FORM <FORM_NAME> IE: FORM WOLF
-         PICK LOCKS: can be found with "PICKLOCK" "PICK LOCK"
-      AVATAR SPELLS: can be found with "AVATAR SKILLS"
-          SANCTUARY: can be found with "SANCTUARY MAJOR"
-MORDENKAINENS SWORD: can be found with "SPELL 152", 152" "MORDENK SWORD"
-    SKILLS / SPELLS: most skills and spells shoud be able to be found by their
-                     skill #/name or spell #/name
-
-                     Examples: 
-                      help 1                    - should show armor
-                      help spell 2              - should show elsewhere
-                      help skill 46             - should show hide
-                      help skill backstab       - should show backstab
-                      help spell teleview major - should show teleview major
-                      help mordenk              - should show mordenk sword
-                      help rage                 - should show rage
 
 NEW HELP FILES
-            SIZE : has been added and found with NORMAL, LARGE, SMALL
-     AVATAR ZONES: has been added with a list of AVATAR ZONES
 
 #
 AUCTION
@@ -64,6 +49,22 @@ something up for auction or a mob does it.  Do not cry to the
 immortal staff about this.  This is part of the game.&n
 
 See Also: BID
+
+#
+COIN COINS CURRENCY MONEY GOLD
+
+Crimson 2 MUD uses gold coins as a currency. This can be used to buy items at
+shops, It is earned from killing monsters, finding treasure hoards, selling 
+gear, and completing quests. Money can be kept on-person, at the inn or bank.
+Coins carried on person can be stolen and lost from Death Traps. 
+
+You are able to store up to 2 billion coins at the Bank and Inn and can carry
+2,147,483,648 coins on your character.
+
+Coins can also be converted to questpoints at the Questmaster at a rate of
+1 questpoint for 10k goid coins. 
+
+See Also: BANK QUEST_QPS
 
 #
 HEALING
@@ -622,24 +623,22 @@ contact an IMM.
  54. cause critic         55. cause light          68. darksight
  72. undetectable inv     73. restoration          74. regeneration
  75. heal minor           76. heal medium          77. heal major
- 78. spiritual hammer     79. turn undead          80. succor
- 81. donate mana          82. mana link            83. magic resist
- 84. magic immune         85. detect good          86. conflagration
- 87. breathwater          88. sustenance           90. hold person
- 91. knock                92. phase door           93. waterwalk
- 94. teleport self        95. teleport group       96. teleview minor
- 97. teleview major       98. haste	           99. (removed)
-100. gate                101. vitalize mana       102. vitalize hit
-103. vigorize minor      104. vigorize medium     105. vigorize major
-106. aid                 107. silence             108. dispel silence
-109. dispel hold         110. block summon        111. smite
-113. black burst         114. cremation           115. mortice flame
-116. firelance           117. firestorm           118. earthquake
-119. divine retribution  126. dancing sword       127. demonic aid
-128. grangorns curse     130. floating disk       131. intelligence
-132. wisdom              133. dexterity           134. constitution
-135. charisma            139. portal              140. hemmorage
-142. demon flesh         149. pestilence          150. spirit transfer
+ 79. turn undead          80. succor               81. donate mana
+ 83. magic resist         84. magic immune         85. detect good
+ 86. conflagration        87. breathwater          88. sustenance
+ 90. hold person          91. knock                92. phase door
+ 93. waterwalk            94. teleport self        95. teleport group
+ 98. haste	         100. gate                101. vitalize mana
+102. vitalize hit        103. vigorize minor      104. vigorize medium
+105. vigorize major      106. aid                 107. silence
+108. dispel silence      109. dispel hold         110. block summon
+111. smite               113. black burst         114. cremation
+115. mortice flame       116. firelance           117. firestorm
+118. earthquake          119. divine retribution  126. dancing sword
+127. demonic aid         128. grangorns curse     130. detect animals
+131. intelligence        132. wisdom              133. dexterity
+134. constitution        135. charisma            139. portal
+140. hemmorage           142. demon flesh         149. pestilence
 151. bind souls          152. mordenk sword       153. call lightning
 154. fly                 171. detect undead
 
@@ -652,7 +651,7 @@ You can practice any of the following skills:
  69. second attack        70. third attack         71. fourth attack
  89. hunt                137. rage                145. meditation
 146. sense danger        155. escape              156. peek
-220. fifth attack
+200. trip                220. fifth attack
 
 See also: "UNFINISHED SPELLS"
 
@@ -665,26 +664,23 @@ characters. Players should not be able to practice these spells. If a
 spell/skill listed was practiced you will not be able to use it If you 
 notice any spells listed which are practicable, please contact an IMM.
 
- 72) undetect invis      136) assess           190) charm_animal       
- 78) spiritual hammer    138) switch           191) switch opponent     
- 79) turn undead         140) hemmorage        192) acid blast        
- 82) mana link           141) fear             193) displacement      
- 86) conflagration       143) din mak          194) summon elemental  
- 91) knock               144) tsugiashi        195) shockwave          
- 96) teleview minor      147) berserk          196) gust               
- 97) teleview major      149) pestilence       197) granite fist      
- 99) dreamsight          150) spirit transfer  198) prayer             
-110) block summon        157) deathshadow      199) elemental shield   
-112) animate dead        174) earthmaw         200) circle attack     
-113) black burst         176) treewalk         201) taunt              
-114) cremation           181) forage           202) charge             
-115) mortice flame       182) create spring    205) lifetap            
-119) divine retribution  183) leviathan        206) enchant armor      
-124) irresitable dance   184) meteor swarm     208) sanctuary minor    
-125) wizard lock         186) tsunami          209) sanctuary medium   
-128) grangorns curse     187) tornado          213) sleep immunity    
-129) clawed hands        188) landslide        216) track              
-189) stab                219) purge magic       
+ 72) undetect invis       78) spiritual hammer       82) mana link
+ 91) knock                96) teleview minor         97) teleview major
+ 99) dreamsight          110) block summon          112) animate dead
+124) irresitable dance   125) wizard lock           129) clawed hands
+136) assess              138) switch                141) fear
+143) din mak             144) tsugiashi             147) berserk
+150) spirit transfer     157) deathshadow           174) earthmaw
+176) treewalk            181) forage                182) create spring
+183) leviathan           186) tsunami               187) tornado               
+188) landslide           189) stab                  190) charm_animal          
+191) switch opponent     192) acid blast            193) displacement          
+194) summon elemental    195) shockwave             196) gust              
+197) granite fist        198) prayer                199) elemental shield
+201) taunt               202) charge                205) lifetap
+206) enchant armor       208) sanctuary minor       209) sanctuary medium
+213) sleep immunity      216) track                 218) convalesce
+
 
 Some of these have help files but most do not. Help files will be made
 once the spell is complete and known to work.
@@ -914,6 +910,32 @@ Say Quests to the Questmaster for information on in-game Equipment quests.
 Say some keywords from his responds to get extra details.
 
 SEE ALSO: QUEST_FLAG
+
+#
+"QUEST EQ" QUEST_EQ QEQ
+
+There are Quest Items available from Questmaster. Below are details of each item
+
+-------------------------------------------------------------------------------|
+Hasek's Wedding Ring | Sapphire Butterfly | Emerald Cloak  |Essence of Plague  |
+Slot: Finger         | Slots : HOLD/LIGHT | Slot: Neck     |Slot: Light        |
+AC Apply  : 20       | Damroll  : + 7     | AC Apply : 30  |Damroll     : + 5  |
+DamRoll   : + 3      | Bonus_DEX: + 5     | Damroll  : + 3 |Hitroll     : + 5  |
+Hitroll   : + 3      | Bonus_CHA: + 5     | Hitroll  : + 2 |Extra Attack: + 2  |
+Bonus_DEX : + 2      | Bonus_STR: + 5     | Bonus_DEX: + 2 |Bonus_DEX   : + 3  |
+Regeneration         |                    | Bonus_STR: + 2 |                   |
+--------------------------------------------------------------------------------
+Nameless Hero's Sword of Assassination                                         |
+Slots: Wield Hold Dualwield                                                    |
+Weapon Bits: Blinding, Silence, Silver                                         |
+Slayer Bits: Wood_Stake, Good, Evil, Undead, Dragon, Animal, Giant, Demon      |
+Damage Type: Piercing                                                          |
+Dice       : 15d15                                                             |
+Bonus_STR  : + 8                                                               |
+Bonus_Dex  : + 8                                                               |
+AC Apply   : 50                                                                |
+-------------------------------------------------------------------------------|
+
 
 #
 COLORS
@@ -2293,6 +2315,30 @@ Walking Directions from Market Square:
 s2e2s7es2es2en4en2en3en4e2n11e3ne2nenen6en3e2n
 
 #
+"Shikonas Islands"
+
+Suggested levels:  20+          Align:  Varies
+
+Travel east out of Midgaard until you reach a small glade.  From here
+follow the small dirt road until you reach the river.  Follow this small
+river westwards until you reach the Great River Yansu.  Travel east on the
+Great River Yansu until it empties into its mouth around the Shikonas
+Islands.
+
+The weak of heart can simply go to the pier on the waterfront of Elmpatris
+and catch the Shikonas Sea Ferry to the Shikonas Islands for a small fee
+of 3000 gold coins.
+
+#
+"Tuscany"
+
+Suggested levels: 15+          Align: Varies (Primarily Neutral)
+
+Tuscany lies outside the east gate of midgaard. Follow the small dirt road
+to the small glade and then head south. Continue following the road until
+you find a well worn road heading east that leads to Tuscany.
+
+#
 "Volcano"
 
 Suggested levels:  20+          Align:  Evil
@@ -2324,28 +2370,16 @@ forest. Should you find a path through, you'll be at the steps of the
 mysterious castle known as Vroloks Castle.
 
 #
-"Shikonas Islands"
+"Olympus"
 
-Suggested levels:  20+          Align:  Varies
+Suggested level: Avatar          Align: Varies
 
-Travel east out of Midgaard until you reach a small glade.  From here
-follow the small dirt road until you reach the river.  Follow this small
-river westwards until you reach the Great River Yansu.  Travel east on the
-Great River Yansu until it empties into its mouth around the Shikonas
-Islands.
+There are no walking directions to Mount Olympus. You must have attained
+the ability to teleport to the Island of Greece and then climb up the mountain.
 
-The weak of heart can simply go to the pier on the waterfront of Elmpatris
-and catch the Shikonas Sea Ferry to the Shikonas Islands for a small fee
-of 3000 gold coins.
+Goto Room: 15650
 
-#
-"Tuscany"
 
-Suggested levels: 15+          Align: Varies (Primarily Neutral)
-
-Tuscany lies outside the east gate of midgaard. Follow the small dirt road
-to the small glade and then head south. Continue following the road until
-you find a well worn road heading east that leads to Tuscany.
 
 #
 "Palace of Elements" 
@@ -2523,9 +2557,16 @@ yourself entering the Citadel of Chaos.
 #
 "Magetower"
 
-Sugessted levels:  Avatar          Align: All alignments
+Sugessted levels:  Avatar          Align: Varies
 
-Walking description needed here
+There is a path to the mage tower venturing north through Arachnos.You will
+find a Webby passage beyond the Queen Spider. Then follow the busy path to
+arrive at the tower.
+
+Note: There is a hidden path to the Magetower east and north of the 
+Fisherman's Shack in Teldescian Swamp.
+
+
 
 #
 "Grig Forest"
@@ -3440,7 +3481,7 @@ Like emote, $n can be used to put your name anywhere you want in the title.
 Black may not be used to block your name in any way.
 
 #
-"SECOND" THIRD FOURTH FIFTH
+"SECOND" "69" "70" "71" "220" "THIRD" "FOURTH" "FIFTH"
 
 These skills are for additional attacks in combat.
 
@@ -4018,7 +4059,7 @@ A good way to start a fight.
 See Also: SLASH, PIERCE, BLUDGEON
 
 #
-SLASH PIERCE BLUDGEON "SKILL BLUDGEONING" "SKILL PIERCING" "SKILL SLASHING"
+SLASH PIERCE BLUDGEON BLUDGEONING PIERCING SLASHING 57 58 59
 
 Another good way to start a fight.
 
@@ -4067,7 +4108,7 @@ Ninja Form   -- 1 round delay
 BASH "SKILL BASH" "SKILL 51" 51
 
 Bash can be one of the most powerful abilities any fighter can obtain.  It
-can be said that even with the small damage that is delt the effects are 
+can be said that even with the lower damage that is dealt the effects are 
 far greater.  A bash can stop someone from casting heal spells and can stop
 someone from an offensive move.  Use this power with great respect as it
 can turn around to bite you back.
@@ -4092,6 +4133,39 @@ Player vs Player bashing:
 If you are wearing a shield you have a chance of blocking.
 That chance is greater if your dex is higher than the person
 bashing you.
+
+#
+TRIP "SKILL TRIP" "SKILL 200" 200
+
+Trip can be one of the most powerful abilities any rogue can obtain.  It
+can be said that even with the lower damage that is dealt the effects are 
+far greater.  A trip can stop someone from casting heal spells and can stop
+someone from an offensive move.  Use this power with great respect as it
+can turn around to bite you back as you may lose balance wile performing this.
+
+Usage: 'trip <mob>' or 'trip' if alread in combat to trip you current
+opponent.
+
+
+The success of a trip depends upon two things.
+     1) Your skill in tripping.
+     2) The victim's dex and difference between your
+        level and victim's level.   For example, A newbie would
+        find it impossible to trip a level 40 mob.
+  To trip someone is to attempt to 'knock' that person over. If you
+  succeed you will inflict medium damage, and cause the victim to fall on
+  it's rear. The victim will be unable to issue any commands/spells for 2
+  rounds of violence. If you miss you loose your balance and fall.
+
+  A trip makes you unable to type commands/spells for 2 rounds of violence.
+
+Player vs Player tripping:
+There is a change that you can dodge your opponents trip.
+That chance is greater if your dex is higher than the person
+tripping you.
+
+See Also: BASH KICK
+
 
 #
 RESCUE 52 "SKILL RESCUE" "SKILL 52"
@@ -4760,8 +4834,15 @@ Usage       : cast 'armor' [self]
 Accumulative: No
 Duration    : 24 Hours
 
-The Armor spell will improve your AC by a minimum of 20.
-(Level*2)/10 AC improvement.
+This spell will improve your AC by 'Caster Level' * 2. The spell will improve
+your AC by a maximum of 20.
+
+Examples:
+Chani the Level 6 priest casts Armor on themself. The spell will improve their
+AC by 12.
+
+Pythias the Level 50 Immortal casts Armor on Chani. The spell will improve 
+Chani's armor by 20.
 
 See Also: AC
 
@@ -5714,6 +5795,7 @@ This spell allows you to see in the dark.
 
 #
 "MANA LINK" "82" "MANA_LINK" "SPELL 82" "SPELL MANA LINK"
+
     Undefined at this time.
 
 #
@@ -5844,12 +5926,15 @@ Save        : Versus spell for half damage.
 Special     : You will gain 1d30 of their hit points,
 	      and 1/4 of the victims mana
 
-This spell does not give much damage, but victims failing their
-saving throws will loose 1/2 of their mana points.
-In addition it will drain experience points from the target, the
-amount depending on the level difference between caster and target. 
+This spell does not give much damage, but victims failing their saving throws
+will lose 50% of their current mana and movement points.
 
-Beware that this spell is evil.
+In addition it may drain experience points from the target, If the vicitim is
+above level 5. The spell will drain an ammount of XP equal to:
+
+XP loss of victim = "1/2 Caster level" d2 * 1000
+
+Beware that this spell is evil and will adjust your alignment towards evil.
 
 See Also: -
 
@@ -6144,7 +6229,6 @@ This command will try to locate victim and automatcially move your
 character to that destination.  If you fail your skill check, you
 might end up at the wrong mob.
 
-See Also: TRACK
 
 #
 "HOLD PERSON" 90 "SPELL 90" "SPELL HOLD PERSON"
@@ -6191,35 +6275,6 @@ areas where boats are normally required.
 See Also: BREATHWATER
 
 #
-"TELEVIEW MINOR" 96 "SPELL 96" "SPELL TELEVIEW MINOR"
-Usage       : cast 'teleview minor' <victim>
-Accumulative: No.
-Duration    : Instant.
-
-This spell allows you to look into another room, only in the current
-zone you are in.  When you cast this spell specifying a mobile or
-player, you will see into the room they are in, viewing everything and
-everyone else in that room as well.
-
-See Also:  TELEVIEW MAJOR
-
-#
-"TELEVIEW MAJOR" 97 "SPELL 97"
-Usage       : cast 'teleview major' <victim>
-Accumulative: No.
-Duration    : Instant.
-
-This spell allows you to look into another room.  When you cast this
-spell specifying a mobile or player, you will see into the room they
-are in, viewing everything and everyone else in that room as well.
-
-WARNING: This spell can have disasterous results if you try to look at
-         the room your in.  Avoid that at all cost is the message you
-         most remember from "Magic to Spy by 530"
-
-See Also: TELEVIEW MINOR
-
-#
 "HASTE" 98 "SPELL 98" "SPELL HASTE"
 Usage       : cast 'haste' [self] || <victim>
 Accumulative: No.
@@ -6232,15 +6287,6 @@ the victim will eat and drink twice the amount each tic, and spell
 durations tic at double the rate.
 
 See Also: REGENERATION
-
-#
-"DREAMSIGHT" 99 "SPELL 99" "SPELL DREAMSIGHT"
-Spell #     : 99
-Usage       : cast 'dreamsight' [self]
-Accumulative: No.
-Duration    : level of caster / 2  (mininum 5 hours).
-
-This spell lets a sleeping player see as if he/she was awake.
 
 #
 "GATE" 100 "SPELL 100" "SPELL GATE"
@@ -7177,7 +7223,7 @@ See Also OHELP
 See Also OHELP, OFLAG1, OFLAG2, OFLAG_TABLE
 
 #
-"OHELP_OWFLAG" OWFLAG SLAYER
+"OHELP_OWFLAG" OWFLAG "SLAYER" "BITS"
     This command lets you set special weapon flags.
 
 Flags and Meanings
@@ -7725,7 +7771,7 @@ DANCING_SWORD	  126
 DEMONIC_AID	  127
 GRANGORNS_CURSE	  128
 CLAWED_HANDS	  129
-FLOATING_DISK	  130
+DETECT_ANIMALS	  130
 INTELLIGENCE	  131
 WISDOM		  132
 DEXTERITY	  133
@@ -9750,12 +9796,12 @@ No_rent equipment means that when you leave the game with that particular
 item, it will dissapear.
 
 #
-BOWS CROSSBOWS ARROWS BOLTS SHOOT
+BOWS CROSSBOWS ARROWS BOLTS SHOOT RELOAD
 
 Usage: grab <bow/crossbow>
 - You must grab the bow before you can load it with an arrow or bolt.
 
-Usage: load <arrow/bolt>
+Usage: reload <arrow/bolt>
 - This will put your ammunition into the bow or crossbow.
 
 Usage: shoot <target>
@@ -10059,9 +10105,8 @@ See also: QUEST_QPS
 QUEST_QPS
 
 QPS is already much simpler to handle than gold.  Each quest point is worth
-10K gold IF SOLD TO QUESTMASTER.  However, to buy a quest point, it is 20K
-gold. So using quest points in quests can be money savers OR money makers
-for players.
+10K gold IF SOLD TO QUESTMASTER. You can also purchase quest points at the
+same rate.
 
 Basically, follow equivalents for gold and qps.
 

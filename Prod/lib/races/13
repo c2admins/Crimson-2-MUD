@@ -9,7 +9,7 @@ DESC=Mermn
 TEXT1=Mermen are marine-dwelling, amphibious humanoids with the upper torso of a
 TEXT2=human and the lower torso of a fish. Mermen were humans but were transformed
 TEXT3=by unknown powers into their current forms.
-TEXT4=Waterwalk.  Breathwater.
+TEXT4=none
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

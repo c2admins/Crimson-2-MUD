@@ -13,13 +13,13 @@
 # *  *  *  *  *  command to be executed
 
 # Rotate the logs, once every night.
-0 1 * * * /bin/bash /home/crimson/c2/controlscripts/rotate_logs.sh >/dev/null 2>&1
+0 1 * * * /bin/bash /home/ubuntu/c2/controlscripts/rotate_logs.sh >/dev/null 2>&1
 
-# Run the daily backup script, also once every night.
-0 1 * * * /bin/bash /home/crimson/c2/controlscripts/daily_backup.sh >/dev/null 2>&1
+# Run the daily backup script, once every night.
+0 1 * * * /bin/bash /home/ubuntu/c2/controlscripts/daily_backup.sh >/dev/null 2>&1
 
-# Run the weekly backup script, also once every night.  (Tuesday.)
-0 1 * * 2 /bin/bash /home/crimson/c2/controlscripts/weekly_backup.sh >/dev/null 2>&1
+# Run the weekly backup script, once every week.  (Tuesday.)
+0 1 * * 2 /bin/bash /home/ubuntu/c2/controlscripts/weekly_backup.sh >/dev/null 2>&1
 
 # Make sure the Mud is UP. Run every 15 minutes.
-15 * * * * /bin/bash /home/crimson/c2/controlscripts/mudrunning.sh >/dev/null 2>&1
+15 * * * * /bin/bash /home/ubuntu/c2/controlscripts/mudrunning.sh >/dev/null 2>&1

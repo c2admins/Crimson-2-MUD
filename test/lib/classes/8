@@ -9,10 +9,10 @@ DESC=DRUI
 TEXT1=By living in tune with nature, druids are able to call upon the elements
 TEXT2=to help protect them from those who do them harm.  While they may seem
 TEXT3=weak in combat, druids can actually be quite formidable opponents.
-TEXT4=none
-ADJHIT=120
-ADJMANA=150
-ADJMOVE=150
+TEXT4=Chance for bonus damage on Nature spells starting at level 30.
+ADJHIT=100
+ADJMANA=125
+ADJMOVE=125
 THACO 2 3
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL

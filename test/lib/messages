@@ -69,6 +69,34 @@ Your spray of colours turn into butterflies as $N frowns.~
 Your frown is enough to turn $n's colour spray into little butterflies.~
 The air is filled with butterflies as $N frowns at $n's colour spray.~
 M
+ 22
+$N is dissolved by your goodness.~
+$n dissolves you, you regret having been so evil, and die...~
+$n completely dissolves $N.~
+$N is unaffected by your goodness!.~
+$n thinks that he is really good, and tries to dispell you.~
+$N laughs at $n as $e tries to dispell $M!.~
+$N shivers, and suffers from $s evilness!.~
+$n makes your soul hurt and suffer!.~
+$n makes $N's evil spirit shiver and suffer!.~
+Did you really expect $M to suffer?.~
+$n unfruitfully tries to dispell you.~
+$n is stupid...~
+M
+ 33
+Poison burns intensely in your veins, you shiver, you die.~
+victim die suffer never see.~
+$N has a few cramps and die suffering.~
+undefined lib\messages 1 poison.~
+undefined lib\messages 2 poison.~
+undefined lib\messages 3 poison.~
+You feel burning poison in your blood, and suffer.~
+suffer victim never see.~
+$N looks really sick, and shivers uncomfortably.~
+You fail to make $N suffer from poison.~
+You ignore the effects of poison.~
+$N ignores the effects of poison.~
+M
  25
 $N crumples as you kill $M by draining $S energy.~
 As $n drains your last energy you look foreward to the peace of the graveyard.~
@@ -152,6 +180,21 @@ $n throws a cause light at $N who staggers under the blow.~
 Your cause light makes $N roar with laughter.~
 You can't help laughing as $n sends a cause light at you.~
 $N starts to roar with laughter as $n sends a cause light at $M.~
+M
+ 72 
+You envelope $N in black hellfire, causing an immediate death.~
+As you burst into flames of death, $n grins evilly.~
+Black hellfire from $n turns $N into a charred corpse.~
+Your hellfire flashes a few feet before $N who claps $S hands in wonder.~
+$n aims black hellfire at you but it falls short, you clap your hands at the show.~
+Black hellfire from $n misses $N - what great arsonist !!.~
+You throw hellfire at $N and have the satisfaction of seeing $M enveloped in black flames.~
+You are enveloped in black flames from hellfire sent by $n - OUCH.~
+$n grins as $s black hellfire engulfs $N.~
+How shameful to cast that at a GOD !!!.~
+You choose to ignore $N's shameful attempt to smite you.~
+$n's hellfire is tactfully ignored by $N.~
+
 M
  101
 You split $N's skull open with a powerful bludgeon attack. Ooh that's gotta hurt!~
@@ -405,34 +448,6 @@ Your effort to bash $N sends you sprawling on the ground.~
 $n unfruitfully tries to bash you and is sent sprawling.~
 $n dares a bash at $N and is sent sprawling without touching $M.~
 M
- 22
-$N is dissolved by your goodness.~
-$n dissolves you, you regret having been so evil, and die...~
-$n completely dissolves $N.~
-$N is unaffected by your goodness!.~
-$n thinks that he is really good, and tries to dispell you.~
-$N laughs at $n as $e tries to dispell $M!.~
-$N shivers, and suffers from $s evilness!.~
-$n makes your soul hurt and suffer!.~
-$n makes $N's evil spirit shiver and suffer!.~
-Did you really expect $M to suffer?.~
-$n unfruitfully tries to dispell you.~
-$n is stupid...~
-M
- 33
-Poison burns intensely in your veins, you shiver, you die.~
-victim die suffer never see.~
-$N has a few cramps and die suffering.~
-undefined lib\messages 1 poison.~
-undefined lib\messages 2 poison.~
-undefined lib\messages 3 poison.~
-You feel burning poison in your blood, and suffer.~
-suffer victim never see.~
-$N looks really sick, and shivers uncomfortably.~
-You fail to make $N suffer from poison.~
-You ignore the effects of poison.~
-$N ignores the effects of poison.~
-M
  111 
 You envelope $N in a tower of flame, causing an immediate death.~
 As you burst into flames of death, $n grins evilly.~
@@ -474,20 +489,6 @@ $n mutters and $N is suddenly seared by an incredible blast of heat~~
 How shameful to cast that at a GOD !!!.~
 You choose to ignore $N's shameful attempt to cremate you.~
 $n's searing blast of heat is tactfully ignored by $N.~
-M
- 179
-You envelope $N in a great storm, causing immediate death.~
-As the storm of the century causes your death, $n grins evilly.~
-The great storm summoned by $n turns $N into a weathered corpse.~
-Your storm strikes a few feet before $N missing $M.~
-$n aims a massive storm at you but it falls short.~
-A great storm summoned by $n misses $N.~
-You summon nature's wrath down onto everything around you.~
-Torrential winds, lightning and hail envelope you totally!~
-Torrential winds, lightning and hail rain down, enveloping everything around you.~
-How shameful to cast that at a GOD !!!.~
-You choose to ignore $N's shameful attempt to summon nature's wrath upon you.~
-$n's wrath is tactfully ignored by $N.~
 M
  115 
 You envelope $N in black flame, causing an immediate death.~
@@ -545,20 +546,6 @@ How shameful to cast that at a GOD !!!.~
 You choose to ignore $N's shameful attempt to seek divine help against you.~
 $n's plea for divine help is tactfully ignored by $N.~
 M
- 184
-You crush $N with a swarm of meteors. Someone please get a mop!~
-As a meteor crushes your skull, $n grins evilly.~
-$n calls forth a swarm of meteors which crush $N into a bloody pulp!~
-Your meteors strike the ground just a few feet in front of $N.~
-$n aims a group of meteors at you, but they fall short.~
-A meteor swarm called forth by $n misses $N.~
-You summon a swarm of meteors down onto everything around you!~
-Meteors slam into the ground all around you!~
-Meteors slam into the ground all around you!~
-How shameful to cast that at a GOD !!!.~
-You choose to ignore $N's shameful attempt to summon a meteor swarm upon you.~
-$n's meteor swarm is tactfully ignored by $N.~
-M
  168 
 Thorny vines grow from the ground and constrict $N, causing $M immediate death.~
 Thorny vines rip into your flesh, causing your death.~
@@ -615,19 +602,34 @@ How shameful to cast that on a GOD!!!.~
 You choose to ignore $n's feeble attempt to send a spore cloud upon you.~
 $n's spore cloud is tactfully ignored by $N.~
 M
- 200
-You circle around and destroy $N causing $M instant death!~
-$n kills you by circling around and backstabbing you!~
-$N collapses, as $n's circle attack slaughters $S.~
-You circle around, but the fight moves and you miss $N.~
-$n circles behind you, but you turn to face him!~
-$n circles behind $N, but misses thier attack~
-You suddenly stab $N from behind!~
-$n STABS you from behind! That REALLY did hurt!~
-$n circles behind $N and stabs them in the back.~
-$N watches you as you go around behind them and try to circle attack them.~
-You watch as $N circles behind you. Yeah right!~
-$n trys to circle attack $, but doesn't even come close!~
+ 179
+You envelope $N in a great storm, causing immediate death.~
+As the storm of the century causes your death, $n grins evilly.~
+The great storm summoned by $n turns $N into a weathered corpse.~
+Your storm strikes a few feet before $N missing $M.~
+$n aims a massive storm at you but it falls short.~
+A great storm summoned by $n misses $N.~
+You summon nature's wrath down onto everything around you.~
+Torrential winds, lightning and hail envelope you totally!~
+Torrential winds, lightning and hail rain down, enveloping everything around you.~
+How shameful to cast that at a GOD !!!.~
+You choose to ignore $N's shameful attempt to summon nature's wrath upon you.~
+$n's wrath is tactfully ignored by $N.~
+
+M
+ 184
+You crush $N with a swarm of meteors. Someone please get a mop!~
+As a meteor crushes your skull, $n grins evilly.~
+$n calls forth a swarm of meteors which crush $N into a bloody pulp!~
+Your meteors strike the ground just a few feet in front of $N.~
+$n aims a group of meteors at you, but they fall short.~
+A meteor swarm called forth by $n misses $N.~
+You summon a swarm of meteors down onto everything around you!~
+Meteors slam into the ground all around you!~
+Meteors slam into the ground all around you!~
+How shameful to cast that at a GOD !!!.~
+You choose to ignore $N's shameful attempt to summon a meteor swarm upon you.~
+$n's meteor swarm is tactfully ignored by $N.~
 M
  189
 $N's coughs and gurgles up blood as your blade slips past their ribs into the lung!~
@@ -643,6 +645,20 @@ $N laughes at your attempt at a stab.~
 You watch as $N trys to stab.~
 $n trys to stab $N, but doesn't even come close!~
 M
+ 200
+$N doesn't recover from your trip ! - $E is dead.~
+As $n trips you, you give up living and die...~
+$N dies after $n has tripped $M.~
+As $N avoids your trip, you topple over and fall to the ground.~
+You dodge a trip from $n who loses $s balance and falls.~
+$N avoids being tripped by $n who loses $s balance and falls.~
+Your trip $N sends $M sprawling.~
+$n sends you sprawling.~
+$n sends $N sprawling with a swift trip.~
+Your effort to trip $N sends you sprawling on the ground.~
+$n unfruitfully tries to trip you and is sent sprawling.~
+$n dares to trip $N and is sent sprawling without touching $M.~
+M
  211
 Your gusher drowns $N causing a horrible death.~
 A large stream of water errupts from the ground and kills you instantly! ~
@@ -656,18 +672,4 @@ $n summon a stream of water from the ground that engulfs $N. ~
 $N laughs at your feeble attempt to harm $M. ~
 You choose to ignore $n's feeble attempt to summon a gusher against you. ~
 $n's attempt to summon a gusher against $N is laughed at. ~
-M
- 148
-Your flurry attack at $N made $M die.~
-$n kills you with a flurry of attacks.~
-$N dies from $n's flurry of attacks.~
-Your flurry of attacks each miss $N.~
-$n makes a flurry of attacks which all swing wide from your body..~
-$n makes a flurry of attacks which all swing wide from $N's body.~
-Your flurry of attacks hit making blood splatter all over.~
-$n hits you with a flurry of blows.~
-$n hits $N with a flurry of blows.~
-$N makes you swing wildly in the air with your attacks.~
-You make $n swing wildly in the air with their attacks.~
-$n starts swinging at an imaginary opponent.~
 $.~

@@ -9,7 +9,7 @@ DESC=Snot
 TEXT1=One should keep a close eye on a snotling, for they poses the abilities of a
 TEXT2=thief to sneak, steal and hide. Their small size also enables them to defend
 TEXT3=themselves very well.
-TEXT4=50 AC bonus. Can only use equipment flagged "small"
+TEXT4=none
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

@@ -6,13 +6,13 @@ NAME=Monk
 # enter 5 digit class description which appears on the WHO list
 DESC=MONK
 # Enter three lines of text displayed when view details 80bytes/per
-TEXT1=Monks are dedicated students of martial combat and enlightenment. They try to 
-TEXT2=achieve perfect harmony between mind and body through tough physical training. 
-TEXT3=Being skilled at bare-handed combat, this damage scales with level.
-TEXT4=none
-ADJHIT=150
+TEXT1=Monks are dedicated students of martial arts from the east. They try to acheive
+TEXT2=perfect harmony between mind and body through tough physical training. They are
+TEXT3=experienced in stealth as well as being skilled survivalists. They are skilled
+TEXT4=at fighting without weapons. Chance for bonus melee damage starting at level 30
+ADJHIT=125
 ADJMANA=100
-ADJMOVE=150
+ADJMOVE=125
 THACO 1 1
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL

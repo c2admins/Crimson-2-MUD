@@ -9,9 +9,9 @@ DESC=MAGE
 TEXT1=These are very powerful students of magical destruction.  The
 TEXT2=mage has to rely on his mind - not his body, and so has become
 TEXT3=dedicated to magical pursuits.
-TEXT4=none
+TEXT4=Chance for bonus damage on fire based magic starting at level 30. 
 ADJHIT=100
-ADJMANA=200
+ADJMANA=150
 ADJMOVE=100
 THACO 1 3
 # alignment must be EVIL, NORMAL, GOOD

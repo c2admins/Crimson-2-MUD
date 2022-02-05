@@ -163,16 +163,16 @@ A scales from a large blue beast lies here.~
 ~
 9 104859968 0 513
 60 0 0 0
-10 240000 1000000
+10 240000 50000
 A
 19 3
 A
 18 1
 A
-13 -10
+41 2
 #20759
 obj lightning runestone~
-0
+1
 &Wthe &wl&Wig&Yhtning &Krun&we&Ws&wt&Kone&n~
 A small stone lies here, crackling with electrical energy.~
 ~
@@ -181,7 +181,7 @@ A small stone lies here, crackling with electrical energy.~
 2 76000 5
 #20760
 obj binding runestone~
-0
+1
 &Wthe &Krun&we&Ws&wt&Kone &Wof &Rb&rindin&Rg&n~
 A small stone lies here, pulsing with a strange power.~
 ~
@@ -190,7 +190,7 @@ A small stone lies here, pulsing with a strange power.~
 3 95000 5
 #20761
 obj runestone elders~
-0
+1
 &WA &wRun&Kest&wone &Wof the &WE&wl&pde&wr&Ws&n~
 A small stone lies here, glowing with an old, powerful aura.~
 ~
@@ -199,11 +199,11 @@ A small stone lies here, glowing with an old, powerful aura.~
 2 110000 5
 #20762
 obj runestone nobility~
-0
+1
 &Wthe &Krun&we&Ws&wt&Kone &Wof &cno&Cb&Wil&Ci&cty&n~
 A strange, glowing rune lies here.~
 ~
-1 4194657 0 65537
+1 4194625 0 65537
 0 0 0 0
 2 200000 5
 #20763
@@ -241,12 +241,12 @@ A
 41 1
 #20766
 obj elven dias~
-100
+3
 an &Go&yake&Gn&n dais~
 A large dais grown from the heart of the tree is here..~
 ~
-15 0 0 0
-100 0 0 0
+15 8 0 0
+100 1 0 0
 1 5 5
 E
 dais oak~
@@ -364,7 +364,7 @@ A
 #20774
 obj boots elvenkind~
 1
-&yBoots &Wof &GE&gleve&Gnk&gin&Gd&n~
+&yBoots &Wof &GE&glvenkin&Gd&n~
 A pair of boots covered with elven runes lie here.~
 ~
 9 4195392 0 65

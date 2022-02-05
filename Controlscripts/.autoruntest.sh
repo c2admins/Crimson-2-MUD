@@ -110,9 +110,11 @@ while (:) do
   DATE=`date`
   echo "autorun starting game $DATE" >> ${LOGFILE}
   echo "running bin/${PROG} ${FLAGS} ${PORT}" >> ${LOGFILE}
-  LD_PRELOAD=/home/crimson/c2/diehard-1.1/src/libdiehard.so bin/${PROG} ${FLAGS} ${PORT} >> ${LOGFILE} 2>&1
+ LD_PRELOAD=/home/ubuntu/c2/diehard-1.1/src/libdiehard.so  bin/${PROG} ${FLAGS} ${PORT} >> ${LOGFILE} 2>&1
 
- #valgrind --tool=memcheck --leak-check=full --track-origins=yes --verbose --log-file=vallog.out
+
+#valgrind --tool=memcheck --log-file=memcheck00.txt --leak-check=full --track-origins=yes --verbose --read-var-info=yes 
+
 
   #  Everything after this happens after the binary exits
   #  (whether that be scheduled or because of a crash)

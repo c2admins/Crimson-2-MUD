@@ -9,7 +9,7 @@ DESC=Gobln
 TEXT1=Though they are smaller than humans, one should not turn their back to these
 TEXT2=backstabing sneaks. Goblins have flat faces, broad noses, pointed ears, wide
 TEXT3=mouths with small sharp fangs, sloping forehead and dull glazed eyes.
-TEXT4=Sneak(1) Backstab(5).
+TEXT4=none
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

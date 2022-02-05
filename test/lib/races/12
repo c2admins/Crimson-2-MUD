@@ -9,7 +9,7 @@ DESC=Centr
 TEXT1=The appearance of a centaur is unmistakable: they have the upper torso, arms
 TEXT2=and head of a human being and the lower body of a large, powerful horse. They
 TEXT3=usually like to keep to themselves.
-TEXT4=none
+TEXT4=Unable to wear FEET or WAIST equipment.
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

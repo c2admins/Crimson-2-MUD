@@ -1,0 +1,414 @@
+rebuildplr.o: rebuildplr.c ../structs.h ../utility.h ../db.h ../comm.h \
+ ../handler.h ../limits.h ../constants.h ../ban.h ../globals.h \
+ ../weather.h
+admin.o: /home/ubuntu/c2/src/admin.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/admin.h \
+ /home/ubuntu/c2/src/repversion.h
+alias.o: /home/ubuntu/c2/src/alias.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/func.h \
+ /home/ubuntu/c2/src/alias.h
+assign.o: /home/ubuntu/c2/src/assign.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/utility.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/func.h \
+ /home/ubuntu/c2/src/xanth.h
+attack.o: /home/ubuntu/c2/src/attack.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/limits.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/bounty.h \
+ /home/ubuntu/c2/src/func.h
+auction.o: /home/ubuntu/c2/src/auction.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+ban.o: /home/ubuntu/c2/src/ban.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/handler.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/ban.h \
+ /home/ubuntu/c2/src/func.h
+boards.o: /home/ubuntu/c2/src/boards.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/handler.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/modify.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/boards.h /home/ubuntu/c2/src/func.h
+bounty.o: /home/ubuntu/c2/src/bounty.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/bounty.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+channel.o: /home/ubuntu/c2/src/channel.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/ansi.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/history.h
+citadel.o: /home/ubuntu/c2/src/citadel.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h
+clans.o: /home/ubuntu/c2/src/clans.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+comm.o: /home/ubuntu/c2/src/comm.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/ban.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/weather.h \
+ /home/ubuntu/c2/src/rent.h /home/ubuntu/c2/src/signals.h \
+ /home/ubuntu/c2/src/comm.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/xanth.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/alias.h \
+ /home/ubuntu/c2/src/history.h
+config.o: /home/ubuntu/c2/src/config.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/config.h
+constants.o: /home/ubuntu/c2/src/constants.c \
+ /home/ubuntu/c2/src/structs.h /home/ubuntu/c2/src/limits.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/utility.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/ansi.h
+create.o: /home/ubuntu/c2/src/create.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/modify.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/xanth.h /home/ubuntu/c2/src/func.h
+db.o: /home/ubuntu/c2/src/db.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/comm.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/ban.h \
+ /home/ubuntu/c2/src/weather.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/xanth.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/mobact.h /home/ubuntu/c2/src/bounty.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/alias.h
+fight.o: /home/ubuntu/c2/src/fight.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/fight.h \
+ /home/ubuntu/c2/src/xanth.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/mobact.h /home/ubuntu/c2/src/bounty.h \
+ /home/ubuntu/c2/src/func.h
+find.o: /home/ubuntu/c2/src/find.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/globals.h
+forbidden.o: /home/ubuntu/c2/src/forbidden.c \
+ /home/ubuntu/c2/src/structs.h /home/ubuntu/c2/src/utility.h \
+ /home/ubuntu/c2/src/comm.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/handler.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/modify.h /home/ubuntu/c2/src/ansi.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/func.h \
+ /home/ubuntu/c2/src/forbidden.h
+halfling.o: /home/ubuntu/c2/src/halfling.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h
+handler.o: /home/ubuntu/c2/src/handler.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/comm.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/handler.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/xanth.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+history.o: /home/ubuntu/c2/src/history.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/history.h \
+ /home/ubuntu/c2/src/func.h
+hunt.o: /home/ubuntu/c2/src/hunt.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/globals.h
+ident.o: /home/ubuntu/c2/src/ident.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/ident.h \
+ /home/ubuntu/c2/src/ban.h
+info.o: /home/ubuntu/c2/src/info.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/modify.h /home/ubuntu/c2/src/ansi.h \
+ /home/ubuntu/c2/src/weather.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+limits.o: /home/ubuntu/c2/src/limits.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/xanth.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/rent.h \
+ /home/ubuntu/c2/src/func.h
+logview.o: /home/ubuntu/c2/src/logview.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/func.h \
+ /home/ubuntu/c2/src/globals.h
+magic1.o: /home/ubuntu/c2/src/magic1.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/parser.h
+magic2.o: /home/ubuntu/c2/src/magic2.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/parser.h
+magic3.o: /home/ubuntu/c2/src/magic3.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/parser.h
+magic4.o: /home/ubuntu/c2/src/magic4.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/parser.h
+mail.o: /home/ubuntu/c2/src/mail.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+mobact.o: /home/ubuntu/c2/src/mobact.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/func.h \
+ /home/ubuntu/c2/src/mobact.h /home/ubuntu/c2/src/xanth.h \
+ /home/ubuntu/c2/src/globals.h
+modify.o: /home/ubuntu/c2/src/modify.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/handler.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/comm.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/modify.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/ansi.h
+move.o: /home/ubuntu/c2/src/move.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/xanth.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/func.h
+obj1.o: /home/ubuntu/c2/src/obj1.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/xanth.h /home/ubuntu/c2/src/func.h
+obj2.o: /home/ubuntu/c2/src/obj2.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/xanth.h \
+ /home/ubuntu/c2/src/func.h
+objact.o: /home/ubuntu/c2/src/objact.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+other.o: /home/ubuntu/c2/src/other.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/xanth.h \
+ /home/ubuntu/c2/src/func.h
+parser.o: /home/ubuntu/c2/src/parser.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/ban.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/admin.h
+pictures.o: /home/ubuntu/c2/src/pictures.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+proc1.o: /home/ubuntu/c2/src/proc1.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/ansi.h
+proc2.o: /home/ubuntu/c2/src/proc2.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/ansi.h
+quest.o: /home/ubuntu/c2/src/quest.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+rent.o: /home/ubuntu/c2/src/rent.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/func.h \
+ /home/ubuntu/c2/src/rent.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/mobact.h
+security.o: /home/ubuntu/c2/src/security.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/security.h
+shop.o: /home/ubuntu/c2/src/shop.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/comm.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h
+signals.o: /home/ubuntu/c2/src/signals.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/signals.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/db.h
+silver.o: /home/ubuntu/c2/src/silver.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/func.h
+skills.o: /home/ubuntu/c2/src/skills.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/spells.h
+smobs.o: /home/ubuntu/c2/src/smobs.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/modify.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+social.o: /home/ubuntu/c2/src/social.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/globals.h
+special.o: /home/ubuntu/c2/src/special.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/func.h
+spells.o: /home/ubuntu/c2/src/spells.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/handler.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+spells1.o: /home/ubuntu/c2/src/spells1.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/func.h
+spells2.o: /home/ubuntu/c2/src/spells2.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/weather.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+spells3.o: /home/ubuntu/c2/src/spells3.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/func.h
+spells4.o: /home/ubuntu/c2/src/spells4.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/func.h \
+ /home/ubuntu/c2/src/constants.h
+swamp.o: /home/ubuntu/c2/src/swamp.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/constants.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h
+utility.o: /home/ubuntu/c2/src/utility.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/comm.h
+vehicle.o: /home/ubuntu/c2/src/vehicle.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/parser.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/db.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/func.h /home/ubuntu/c2/src/globals.h
+weather.o: /home/ubuntu/c2/src/weather.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/globals.h /home/ubuntu/c2/src/weather.h
+wiz1.o: /home/ubuntu/c2/src/wiz1.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/rent.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/xanth.h /home/ubuntu/c2/src/func.h
+wiz2.o: /home/ubuntu/c2/src/wiz2.c /home/ubuntu/c2/src/structs.h \
+ /home/ubuntu/c2/src/utility.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/handler.h \
+ /home/ubuntu/c2/src/limits.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/rent.h \
+ /home/ubuntu/c2/src/spells.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h
+xanth.o: /home/ubuntu/c2/src/xanth.c /home/ubuntu/c2/src/utility.h \
+ /home/ubuntu/c2/src/structs.h /home/ubuntu/c2/src/parser.h \
+ /home/ubuntu/c2/src/db.h /home/ubuntu/c2/src/comm.h \
+ /home/ubuntu/c2/src/constants.h /home/ubuntu/c2/src/spells.h \
+ /home/ubuntu/c2/src/ansi.h /home/ubuntu/c2/src/xanth.h \
+ /home/ubuntu/c2/src/handler.h /home/ubuntu/c2/src/globals.h \
+ /home/ubuntu/c2/src/func.h

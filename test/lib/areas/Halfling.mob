@@ -234,7 +234,7 @@ The Innkeeper stands here awaiting your order.
 The Innkeeper is a jolly old halfling who spends his days eavesdropping on
 local gossip.  In his younger days, he was quite a seasoned traveller.
 ~
-74 1 136249361 67108864 200 S
+536870986 1 136249361 67108864 200 S
 12 27 32 8d7+120 2d6+5
 1000 3530
 8 8 1
@@ -319,7 +319,7 @@ The shopkeeper smiles and patiently waits for you to buy something.
 The shopkeeper will fight like a madman to protect his store from riff raff
 like you.
 ~
-10 1 136249361 0 600 S
+536870922 1 136249361 0 600 S
 21 19 23 50d19+1200 4d8+17
 8000 64000
 8 8 1
@@ -333,7 +333,7 @@ The grocer is a large, jovial halfling who knows how to enjoy his pipeweed.
 However, he also knows that it's worth protecting and so will do everything
 in his power to prevent riff raff like you from stealing it.
 ~
-10 1 136249361 67108864 600 S
+536870922 1 136249361 67108864 600 S
 30 13 5 100d39+1300 5d9+6
 32000 183000
 8 8 1
@@ -350,8 +350,8 @@ The blacksmith bids you welcome to his humble store.
 The blacksmith is a lean and mean fighting machine.  His knowledge of weapons
 and armour would certainly help him in any fight against riff raff like you.
 ~
-67371082 4227073 136249393 100925440 0 S
-50 13 5 100d39+1300 7d7+35
+536870922 1 136249361 67108864 600 S
+30 13 5 100d39+1300 7d7+35
 30000 185000
 8 8 1
 0 0 19 18 16 16 17 15
@@ -486,7 +486,7 @@ The Innkeeper stand here awaiting your order.
 The Innkeeper is a jolly old halfling who spends his days eavesdropping on
 local gossip.  In his younger days, he was quite a seasoned traveller.
 ~
-10 1 136249361 67108864 200 S
+536870922 1 136249361 67108864 200 S
 12 27 32 8d7+120 2d6+5
 1100 3540
 8 8 1

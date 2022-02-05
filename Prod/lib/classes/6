@@ -9,10 +9,10 @@ DESC=PRST
 TEXT1=Somtimes a rare person comes along who wants a combination of
 TEXT2=physical as well as mental training.  A priest is just such a 
 TEXT3=person.  A combination warrior/cleric is an asset to any group.
-TEXT4=none
-ADJHIT=135
-ADJMANA=140
-ADJMOVE=100
+TEXT4=Chance for bonus Cure Critic and melee damage starting at level 30.
+ADJHIT=110
+ADJMANA=130
+ADJMOVE=110
 THACO 2 3
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL

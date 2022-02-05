@@ -9,7 +9,7 @@ DESC=Troll
 TEXT1=Trolls are tall creatures and very big. Though their appearance may appear to
 TEXT2=be frail, they posses surprising strength. Their arms and legs are ungainly.
 TEXT3=The legs end in great three-toed feet, and the hands have sharpened claws.
-TEXT4=Can only use equipment flagged "large" One day will be able to eat anything.
+TEXT4=Are able to eat any anything.
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
 # physical size must be SMALL, NORMAL, LARGE

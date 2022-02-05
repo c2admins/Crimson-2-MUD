@@ -13,7 +13,7 @@ VERSIONHEADER = repversion.h
 PROGNAME = crimsond
 
 # Compiler flags:
-CFLAGS =  -Wall -g -Wformat=0 -w
+CFLAGS =  -Wall -g -Wformat=0 -w -fcommon
 
 # Linker flags.  (-lcrypt isn't needed on OS X)
 LFLAGS = -lcrypt

@@ -1,0 +1,433 @@
+#21200
+obj hauberk silver dragonscale scale~
+1
+&wSi&Klv&wer &KD&wr&Wag&wo&Kn&Gs&gcal&Ge &KHauberk&n~
+A large hauberk made from silver dragoncsales lies upon the ground.~
+~
+9 104858689 0 9
+80 0 0 0
+15 150000 70000
+A
+40 1
+A
+19 3
+A
+23 -5
+#21201
+obj silver dragonskin cloak skin~
+1
+&wA Si&Klv&wer &KD&wr&Wag&wo&Kns&wki&Kn &yCl&Ko&yak&n~
+A cloak made from a dragons skin rests easily here.~
+~
+9 4195393 1024 5
+0 0 0 0
+10 100000 60000
+A
+40 1
+A
+19 3
+A
+18 2
+A
+13 -35
+#21202
+obj silver dragonscale bracer scale~
+1
+&wA Si&Klv&wer &KD&wr&Wag&wo&Kn&Gs&gcal&Ge &WBr&wac&Wer&n~
+A large bracer made from silver dragonscales lies here.~
+~
+9 4201537 131072 4097
+20 0 0 0
+3 100000 75000
+A
+19 3
+A
+18 2
+A
+23 -1
+A
+12 -25
+#21203
+obj ancient blue key~
+2
+An Ancient Blue Key~
+There lies here an ancient blue key with a dragon carved into it.~
+~
+18 262219 0 1
+0 1 0 0
+1 5 1000000000
+#21204
+obj grand emerald ring~
+5
+&Gg&gran&Gd &Gem&gera&Gld &Yr&yi&Yng&n~
+There is a golden ring with a very large emerald in it here.~
+~
+9 2097216 0 3
+10 0 0 0
+3 30000 30000
+A
+12 30
+A
+18 1
+A
+3 2
+#21205
+obj psionicist cloak~
+5
+&wthe &Gps&wi&ponicists cl&wo&Gak&n~
+A purple cloak with glowing green trim.~
+~
+9 2097218 0 1025
+30 0 0 0
+3 76000 70000
+A
+12 50
+A
+13 10
+#21206
+obj cabal sceptre~
+3
+&wC&Waba&wl &ySc&Ye&yptr&Ye&n~
+A sceptre glows brightly.~
+~
+1 2097219 0 65537
+0 0 5 0
+5 10000 30000
+A
+19 2
+A
+17 -5
+A
+18 1
+A
+26 -1
+#21207
+obj ancient encrypted key~
+2
+An Ancient Encrypted Key~
+Here lies an ancient key covered with encrypted carvings.~
+~
+18 262219 0 1
+21233 1 0 0
+1 5 1000000000
+#21208
+obj adamantium breastplate plate~
+3
+&Wad&wa&Kmant&wi&Wum &wbreast&Kplate&n~
+A breast plate made out of sturdy material rests here.~
+~
+9 64 32 9
+60 0 0 0
+18 60000 35000
+A
+19 2
+A
+18 2
+A
+1 1
+A
+24 -5
+#21209
+obj adamantium helmet~
+3
+&Wad&wa&Kmant&wi&Wum &Khelmet&n~
+A helmet made of a strong material rests here.~
+~
+9 0 32 17
+20 0 0 0
+13 7000 20000
+A
+18 2
+A
+19 2
+#21210
+obj adamantium shield~
+3
+&Wad&wa&Kmant&wi&Wum &Kshield&n~
+A shield made of very strong material is here.~
+~
+9 0 32 513
+50 0 0 0
+12 20000 25000
+A
+18 1
+A
+19 1
+#21211
+obj adamantium bracelet~
+3
+&Wad&wa&Kmant&wi&Wum &Kbracelet&n~
+A small bracelet of adamantine sits upon the ground.~
+~
+9 2097216 0 4097
+5 0 0 0
+5 10000 50000
+A
+18 2
+A
+19 2
+#21212
+obj sword sharpness~
+3
+&Ks&wwor&Kd &wof &Wshar&wpn&Kess&n~
+An extremely sharp sword has been clumsily dropped here.~
+~
+5 2097282 0 8193
+1048584 6 7 3
+13 40000 80000
+A
+19 5
+A
+18 5
+#21213
+obj ancient green key~
+2
+An Ancient Green Key~
+There lies here an ancient green key with a ranger carved into it~
+~
+18 262219 0 1
+0 1 0 0
+1 5 1000000000
+#21214
+obj gate key~
+2
+the gate key~
+a small key lies, rusting in the dirt.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 1000000000
+#21215
+obj war banner~
+10
+&rw&Ra&rr &wba&Wnn&wer&n~
+A glowing banner is losing shape in the sun.~
+~
+1 1048576 0 65537
+0 0 10 0
+4 1000 5000
+A
+19 2
+#21216
+obj heavy bastard sword~
+5
+&wheavy bastard &Ksword&n~
+An extremely heavy looking sword is stuck in the ground.~
+~
+5 1077248 0 8193
+0 3 5 3
+20 10000 25000
+A
+18 2
+A
+19 2
+#21217
+obj tower key~
+2
+the tower key.~
+The key to the tower lies discarded here.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 1000000000
+#21218
+obj horsewhip~
+10
+&Ka &yhorsewhip&n~
+A used horsewhip is lying here.~
+~
+5 524288 0 8193
+0 3 6 2
+10 60000 15000
+A
+18 2
+A
+2 1
+#21219
+obj lance accuracy~
+10
+&wthe &KL&wa&Wn&wc&Ke &wof &CA&cccurac&Cy&n~
+A glowing piece of long weapon is here.~
+~
+5 524289 0 8193
+0 3 5 11
+10 60000 14000
+A
+18 4
+#21220
+obj heavy bastard sword~
+10
+&wheavy bastard &Ksword&n~
+An extremely heavy looking sword is stuck in the ground.~
+~
+5 1077248 0 8193
+0 3 5 3
+20 10000 25000
+A
+18 2
+A
+19 2
+#21221
+obj guardman gloves~
+10
+&wguardsmans &Kg&ylove&Ks&n~
+A special looking pair of gloves are covered with mud.~
+~
+9 524288 0 129
+12 0 0 0
+8 200 5000
+A
+18 -1
+A
+19 1
+#21222
+obj small copper key~
+2
+a small copper key~
+A copper key lies useless on the ground.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 1000000000
+#21223
+obj small brass key~
+2
+a small brass key~
+A brass key lies useless on the ground.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 1000000000
+#21224
+obj small bronze key~
+2
+a small bronze key~
+A bronze key lies useless on the ground.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 1000000000
+#21225
+obj small silver key~
+10
+a small silver key~
+A silver key lies useless on the ground.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 1000000000
+#21226
+obj small sapphire key~
+2
+a small sapphire key~
+A gleaming key made of sapphire lies here.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 1000000000
+#21227
+obj cloak elven~
+5
+&Kan &Ge&glve&Gn &ycloak&n~
+A fine cloak stands upright.~
+~
+9 524544 0 5
+13 0 0 0
+8 2000 15000
+A
+2 2
+#21228
+obj small pearl key~
+2
+a small pearl key~
+A pearl key shines brightly in the sun.~
+~
+18 262152 0 1
+0 3 0 0
+1 5 1000000000
+#21229
+obj elven boots~
+4
+&Ka pair of &Ge&glve&Gn &yboots&n~
+A fancy pair of boots are standing up.~
+~
+9 1048832 0 65
+13 0 0 0
+4 2000 15000
+A
+2 4
+A
+14 50
+#21230
+obj fine elven longbow~
+4
+&yfine &Ge&glve&Gn &ylongbow&n~
+An fine bow with a sparkling bowstring lies here.~
+~
+5 1048832 0 8193
+0 4 6 6
+4 25000 60000
+A
+2 1
+#21231
+obj small topaz key~
+2
+a small topaz key~
+A gleaming key made of topaz lies here.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 1000000000
+#21232
+obj lord key~
+2
+the Lord's key~
+A small jewelled key lies here glimmering in the sun.~
+~
+18 268697608 0 1
+0 1 0 0
+1 5 1000000000
+#21233
+obj chest ancient~
+2
+An Ancient Runed Covered Chest~
+In the center of the room lies an Ancient Runed Covered Chest.~
+~
+15 262155 0 0
+300 15 21207 0
+100000 5 1000000000
+#21234
+obj ancient green key~
+2
+An Ancient Green Key~
+There lies here an ancient green key with a ranger carved into it~
+~
+18 262219 0 1
+0 1 0 0
+1 5 1000000000
+#21235
+obj whisperwind blade sword~
+1
+&G)&yxxx&K{&W::: Whisp&werW&Kind &w:::&K:>&n~
+A long blade lies here, whispering to those who can hear it.~
+~
+5 138415393 0 8193
+264344 10 4 11
+2 402500 150000
+A
+18 2
+A
+19 2
+A
+24 -2
+#21236
+obj ancient runed key~
+2
+An Ancient Runed Key~
+There lies here an ancient key with several runes carved into it.~
+~
+18 262219 0 1
+21233 1 0 0
+1 5 1000000000
+$~
+#999999

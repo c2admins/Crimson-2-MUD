@@ -9,10 +9,10 @@ DESC=WARR
 TEXT1=These are the powerful weapon masters.  These brave fighters
 TEXT2=are big in size and are very strong.  Warriors do not believe
 TEXT3=in using magic or spells, they rely on skill alone.
-TEXT4=none
-ADJHIT=200
-ADJMANA=0
-ADJMOVE=100
+TEXT4=Chance for bonus melee damage starting at level 30.
+ADJHIT=135
+ADJMANA=75
+ADJMOVE=135
 THACO 1 1
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=NORMAL
@@ -31,6 +31,6 @@ SKILL_MIN_LEVEL=SKILL_PARRY 13
 SKILL_MIN_LEVEL=SKILL_THIRD 20
 SKILL_MIN_LEVEL=SKILL_HUNT 20
 SKILL_MIN_LEVEL=SKILL_FOURTH 30
-SKILL_MIN_LEVEL=SKILL_RAGE 35
+SKILL_MIN_LEVEL=SKILL_RAGE 15 # used to be level 35
 
 

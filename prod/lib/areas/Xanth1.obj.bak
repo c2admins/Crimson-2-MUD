@@ -1,0 +1,806 @@
+#500
+obj sponge absorbant~
+20
+an absorbant sponge~
+An absorbant sponge is lying here.~
+~
+13 0 0 16385
+0 0 10 0
+1 5 5
+#501
+obj Stone brown rock~
+100
+A huge rock~
+A brown stone is partially blocking the path.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#502
+obj bookshelves bookshelf~
+100
+a bookshelf~
+Bookshelves line the walls.~
+~
+15 0 0 0
+500 0 0 0
+100 5 5
+#503
+obj tome book page~
+100
+a tome~
+A huge tome lies here waiting to be read.~
+~
+16 0 0 0
+0 0 10 0
+1 5 5
+#504
+obj key xanth ivory~
+2
+an ivory key~
+Someone has carelessly left an ivory key lying here.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#505
+obj stone blackened~
+100
+a blackened stone~
+a blackened stone lies here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#506
+obj rosetta stone~
+100
+a rosetta stone~
+A worthless chipped stone is partially buried in the dirt.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+E
+rosetta stone~
+                    /^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\
+                   /    Crimson Rosetta Stone         \
+            /\    /                                    \
+           /  \  /   Being a conversion from            \
+          /    \/                  Crimson to         |\ |
+     /\  /                         Xanthian           | \|
+    /  \/                                            /
+   /     ABCDEFGHIJKLMNOPQRSTUV                      \
+  /     ~!K?*+k,#yYNs]@7DP<1)x                        \
+ /                                                     \
+|                 WXYZabcdefghijklmnopqr                |
+|                 2vnS#/uA%dr[:j3QXq$M5f              _/
+|                                                    |
+|                        stuvwxyz0123456789.,        |
+|                        >4(RHh;zt8VpZTFUagCJ        \
+|                                                     \
+|                                                 /\  /
+|                                                /  \/
+|        ______                                 /
+| /\    /      \                                \
+|/  \  /        \                                \/\
+     \/          \                                  \
+                 /                                  /
+                /                        _______   |
+               /                        /       \/\|
+              /                    __/\/            
+              \                   /
+               \_________________/
+
+~
+#507
+obj tube cylinder long~
+30
+a long cylindrical tube~
+a long cylindrical tube is rolling around here~
+~
+15 0 0 513
+100 1 10 0
+1 5 5
+#508
+obj nugget gold~
+10
+a gold nugget~
+a valuable gold nugget has been left lying here.~
+~
+12 402915537 0 16385
+0 0 10 0
+1 5 5
+A
+27 -1
+#509
+obj vine climbing~
+100
+a climbing vine~
+a vine has grown up the portculis wall.~
+~
+25 0 0 0
+628 75000 10 0
+1 5 5
+E
+vine~
+Normally vines grow with a long thin stem that climbs a support.  Other than
+the stem, this vine fits the norm.  That is if a girth of 1 foot is normal!
+Its obvious a person could climb this vine.
+~
+#510
+obj black button~
+100
+a generic button~
+the black button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#511
+obj red button ~
+100
+a red button~
+the red button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#512
+obj green button ~
+100
+a green button~
+the green button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#513
+obj brown button ~
+100
+a brown button~
+the brown button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#514
+obj blue button ~
+100
+a blue button~
+the blue button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#515
+obj purple button ~
+100
+a purple button~
+the purple button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#516
+obj yellow button ~
+100
+a yellow button~
+the yellow button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#517
+obj gray button ~
+100
+a gray button~
+the gray button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#518
+obj button generic blue~
+100
+a generic button one~
+a generic blue button is here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+E
+race button~
+the race button is out.
+~
+#519
+obj button generic purple~
+100
+a generic button two~
+a generic purple button is here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+E
+generic button~
+the generic button is out.
+~
+#520
+obj button generic green~
+100
+a generic button three~
+a generic green button is here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#521
+obj rope~
+100
+a length of rope~
+A rope is here suspended in mid air.~
+~
+25 0 0 1
+8326 0 10 0
+1 5 5
+#522
+obj lever ~
+100
+a lever~
+a lever protrudes from the wall.  The lever is up.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#523
+obj gold coin~
+100
+a gold coin~
+One miserable gold coin.~
+~
+20 0 0 1
+0 0 10 0
+1 1 5
+#524
+obj box pandora's~
+100
+a box~
+a box with gold inlay has been pushed against the wall.~
+~
+15 134217808 0 0
+500 13 0 0
+100 5 5
+#525
+obj sign worn wooden~
+100
+a sign~
+A weather worn sign has been placed here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+E
+sign worn~
+                        NORTH VILLAGE
+                           |  |
+                           |  |
+                      _____|  |_____
+              CASTLE  _____    _____  MAGIC PATH
+                           |  |
+                           |  |
+                           |  |
+                        CASTLE ROOGNA
+~
+#526
+obj key xanth gate~
+2
+a gate key~
+a key lies here half buried in the dirt.~
+~
+18 262152 0 16385
+0 0 10 0
+1 5 5
+#527
+obj shades glasses specs~
+100
+a cool set of shades~
+A cool set of shades, obviously lost, lies here.~
+~
+9 136314952 0 17
+15 0 0 0
+5 1 25000
+E
+shades glasses specs~
+   Other than being extremely cool and heavier than you would expect, they
+appear to be normal glasses.
+~
+#528
+obj plank six~
+100
+a plank~
+A six foot plank has been tossed on the ground.~
+~
+13 262144 0 1
+0 0 10 0
+50 5 5
+E
+plank board~
+Its six feet in lenght.  Its probably a plank off an old bridge.
+~
+#529
+obj copper shield~
+50
+a copper shield~
+A copper shield is lying  here.~
+~
+9 0 0 8705
+12 0 0 0
+8 300 75
+A
+18 1
+#530
+obj legguards copper leg~
+50
+a pair copper leg guards~
+A pair of copper leg guards are lying here.~
+~
+9 0 0 33
+10 0 0 0
+10 800 200
+#531
+obj armguards copper guards~
+50
+a pair of copper arm guards~
+A pair of copper arm guards are lying here.~
+~
+9 0 0 257
+10 0 0 0
+8 900 150
+#532
+obj breastplate copper plate~
+50
+a copper breast plate~
+A copper breast plate is lying here.~
+~
+9 0 0 9
+16 0 0 0
+18 1000 400
+#533
+obj boots copper~
+50
+a pair copper boots~
+A pair of copper boots is lying here.~
+~
+9 0 0 65
+6 0 0 0
+9 15000 5000
+A
+14 10
+#534
+obj pike copper~
+30
+a copper pike~
+A 10 foot copper pike has been rammed into the floor.~
+~
+5 1052672 0 8193
+0 4 7 3
+9 20000 15000
+A
+19 1
+A
+18 1
+#535
+obj helm copper~
+50
+a copper helm~
+A copper helm is lying here.~
+~
+9 65536 0 17
+5 0 0 0
+10 5000 1800
+#536
+obj gloves copper~
+50
+a pair of copper gloves~
+A pair of copper gloves is lying here.~
+~
+9 0 0 129
+5 0 0 0
+8 900 150
+#537
+obj crownlet platinum~
+20
+a platinum crownlet~
+A platinum crownlet has fallen and lies here pulsating.~
+~
+26 65601 0 17
+30 5 5 10
+10 5000 1800
+#538
+obj cape billowing white~
+20
+a billowing white cape~
+A bolt of clothe has been tossed here.~
+~
+9 1048576 0 1029
+15 0 10 0
+6 10000 5000
+A
+9 20
+A
+39 1
+#539
+obj iris plant flower~
+20
+an iris~
+A plant with sword shaped leaves grows here.~
+~
+5 0 0 8193
+0 5 4 3
+1 5 5
+E
+flower plant iris~
+Its a flower.  An iris to be exact.
+~
+#540
+obj steak dragon food~
+100
+a juicy dragon steak~
+A juicy dragon steak lies here simmering in hot sauce.~
+~
+19 0 0 1
+50 0 0 0
+2 20 5
+#541
+obj cookies chocolate-chip~
+100
+chocolate-chip cookie~
+Someone has left some home-baked chocolate-chip cookies lying here.~
+~
+19 0 0 1
+12 0 0 0
+1 10 10
+#542
+obj wine glass delicate~
+100
+a delicate wine glass~
+A long stimmed delicate wine glass is sitting here.~
+~
+17 0 0 1
+8 8 2 0
+1 5 2
+#543
+obj knickers breeches~
+50
+a pair of knickers~
+A pair of knickers.~
+~
+9 0 0 2049
+5 0 0 0
+1 100 50
+E
+knickers~
+They are a pair of loose breeches gathered just below the knees.
+~
+#544
+obj uniform princely robe~
+40
+a princley robe~
+A princely robe is lying here.~
+~
+9 0 0 1025
+12 0 0 0
+1 5 5
+#545
+obj shawl~
+50
+a crude feminine shawl~
+a crude feminine shawl is lying here.~
+~
+9 0 0 1041
+5 0 0 0
+1 5 5
+#546
+obj grass stalk~
+100
+a stalk of grass~
+A stalk of grass is growing here.~
+~
+13 0 0 1
+0 0 10 0
+1 1 5
+#547
+obj cup water~
+100
+a cup~
+A cup has been left here.~
+~
+17 0 0 1
+16 16 0 0
+1 2 1
+#548
+obj rice cake~
+100
+a rice cake~
+A cake of rice is lying here.~
+~
+19 0 0 1
+5 0 0 0
+3 5 5
+#549
+obj panties lacy silk~
+50
+a pair of lacy girl-style panties~
+A pair of lacy silk girl-style panties is lying here.~
+~
+9 0 0 2049
+2 0 0 0
+10 5 5
+#550
+obj potion fly~
+100
+potion of fly~
+a potion of fly is lying here.~
+~
+10 0 0 1
+48 154 0 0
+1 5 5
+#551
+obj scroll demonic aid~
+100
+scroll of demonic aid~
+a scroll of demonic aid is lying here.~
+~
+2 0 0 1
+48 127 0 0
+1 5 5
+#552
+obj arrow~
+0
+an arrow~
+an arrow is lying here.~
+~
+7 0 0 1
+0 0 10 0
+1 5 5
+#553
+obj arrow poisonous~
+0
+a poisonous arrow~
+a poisonous arrow is lying here.~
+~
+7 0 0 1
+0 0 10 0
+1 5 5
+#554
+obj bolt~
+0
+a bolt~
+a bolt is lying here.~
+~
+7 0 0 1
+0 0 10 0
+1 5 5
+#555
+obj bolt poisonous~
+0
+a poisonous bolt~
+a poisonous bolt is lying here.~
+~
+7 0 0 1
+0 0 10 0
+1 5 5
+#556
+obj bolt deadly~
+0
+a deadly bolt~
+a deadly bolt is lying here.~
+~
+7 0 0 1
+0 0 10 0
+1 5 5
+#557
+obj Bow~
+0
+a bow~
+a bow is lying here.~
+~
+5 64 0 16385
+0 0 10 0
+1 5 5
+A
+40 2
+A
+18 2
+#558
+obj crossbow bow~
+0
+a crossbow~
+A Crossbow is lying here.~
+~
+5 1048641 0 16385
+0 0 0 0
+1 5 5
+A
+40 4
+A
+18 1
+#559
+obj crossbow heavy~
+0
+a heavy crossbow~
+A heavy Crossbow is lying here.~
+~
+5 2097217 0 16385
+0 0 0 0
+1 5 5
+A
+40 4
+A
+18 2
+#560
+obj Bingo~
+32767
+Bingo~
+Bingo is standing here~
+~
+1 0 0 245759
+0 0 10 0
+1 5 5
+#561
+obj barrel~
+100
+a barrel~
+A beer barrel has been left here.~
+~
+17 0 0 1
+1000000 1000000 1 0
+65 300 100
+#562
+obj banana~
+32767
+a banana~
+a banana is lying on the floor here.~
+~
+5 0 0 8193
+0 1 1 11
+1 5 5
+#563
+obj something nice~
+32767
+Something nice for a level 20 mage...~
+Something nice for a level 20 mage is standing here.~
+~
+1 1048576 0 1
+0 0 10 0
+1 5 5
+#564
+obj naughty note~
+100
+a note that says 'You've been naughty'~
+A note that says 'You've been naughty' is lying here.~
+~
+8 134217729 0 1
+0 0 10 0
+1 5 5
+E
+naughty note~
+This is one of Santa's notes.
+It is worth 100 qps.
+~
+#565
+obj Charlotte's Rose~
+100
+A lovely rose that reflects the beauty of &CCharlotte&n ~
+A &Prose&n lies here, glowing with &Yradiant&n beauty, mirroring the beautiful &CCharlotte&n.~
+~
+8 134217729 0 1
+0 0 10 0
+1 5 5
+E
+nice note~
+This is one of Santa's notes.
+It is worth 1000 qps.
+~
+#566
+obj nuclear missile~
+32767
+&ga &Gn&gu&Gc&gl&Ge&ga&Gr &gm&Gi&gs&Gs&gi&Gl&ge&n~
+&ga &Gn&gu&Gc&gl&Ge&ga&Gr &gm&Gi&gs&Gs&gi&Gl&Ge&n is standing here.~
+~
+5 0 0 8193
+0 0 0 0
+5000000 5 5
+#567
+obj silvery halo~
+32767
+&ca &wsilvery &Cblue&W halo&n~
+Chani's halo lies here on the floor~
+~
+1 257 0 17
+0 0 10 0
+1 5 5
+#568
+obj one-liter stein~
+100
+A &Cone-liter&c stein&n~
+A &Cone-liter&c stein &nsits here~
+~
+17 0 0 24577
+2 50 5 0
+1 5 5
+E
+stein~
+This stein is filled with enough alcohol to really blur your perceptions.
+It'll mess you up big time.
+Yum.  Yum.  Yum.
+~
+#569
+obj hockey stick imm~
+10
+a hockey stick~
+A hockey stick covered in the blood of Canadiens rests here ~
+~
+5 268435456 2112 24577
+37896 20 5 11
+3 1000000 100000
+A
+19 15
+A
+18 15
+A
+40 5
+A
+41 5
+#570
+obj wings morning imm~
+0
+&WWin&wg&cs of Mor&wn&Wing~
+&wA pair of wings, crafted from the softest down, lie here, radiating peace.&n~
+~
+15 536870912 68 1025
+350 0 0 0
+1 100 100
+A
+19 4
+A
+41 1
+A
+17 -50
+A
+18 1
+#571
+obj aura vengeance imm~
+0
+&WAur&wa of &KVeng&rean&Rce&n~
+a protective aura of retribution rests here~
+~
+9 0 64 513
+300 0 0 0
+1 5 5
+A
+41 15
+A
+40 15
+A
+18 15
+#572
+obj sword salvation imm~
+0
+&wSword of &KSac&rrif&Kice &wand &WSalv&Ca&Wtion&n~
+a sword of choices rests here~
+~
+5 0 64 8193
+13159449 1000 750 11
+1 5 5
+A
+40 30
+A
+41 30
+A
+18 30
+A
+25 15
+$~
+#999999

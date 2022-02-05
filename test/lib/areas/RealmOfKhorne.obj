@@ -17,16 +17,16 @@ The Blood Chariot of Khorne thunders past.~
 80 80 10 9000
 500 50000 5
 E
+arrival~
+The Blood Chariot screeches to a halt. There is no one aboard to 
+collect your cash, but you assume 50k coins would be an honest amount.
+~
+E
 interior~
 From inside the Charriot you see that it is made of Brass smeared 
 with dried blood. A furnace type section in the front of the chariot 
 blazes red hot, but the furnace needs no fuel to produce the fire 
 that powers the chariot.
-~
-E
-arrival~
-The Blood Chariot screeches to a halt. There is no one aboard to 
-collect your cash, but you assume 50k coins would be an honest amount.
 ~
 A
 13 10
@@ -311,7 +311,7 @@ A
 18 2
 #1323
 obj khorne blood candle~
-20
+80
 &Ra small &rblood&R candle&n~
 A candle made from blood flickers with light.~
 ~

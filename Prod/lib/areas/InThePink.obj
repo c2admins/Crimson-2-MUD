@@ -108,13 +108,13 @@ a very old and well-used spear rests here~
 19456 10 6 11
 6 500000 50000
 E
+spear lance maestro ~
+~
+E
 spear lance~
 
 *kill them all*-----*ORION*
 
-~
-E
-spear lance maestro ~
 ~
 A
 19 3
@@ -338,21 +338,21 @@ A
 23 -3
 #15820
 obj balances pair famine~
-5
+2
 &Ka &Kp&wa&Wi&wr of &ybal&Ya&ync&Ye&ys&n~
 A pair of ancient balances rests here.~
 ~
-8 1 32 16385
-0 0 0 0
+9 1 32 16385
+15 0 0 0
 3 150000 1500
 A
 19 5
 A
-18 3
+18 2
 A
 37 -1
 A
-13 -35
+13 -25
 #15821
 obj vambrace bone splint~
 1
@@ -393,7 +393,7 @@ obj apocalypse greatsword war~
 &RGreatsword &Wof the &KApocalypse&n~
 &wA bloodied greatsword with a frightening aura lies here.&n~
 ~
-5 675284996 2048 8193
+5 675284996 2048 24577
 458752 10 6 3
 1 5 5
 A

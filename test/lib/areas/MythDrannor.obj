@@ -251,7 +251,7 @@ A
 obj Wyvernspur Arm Guard~
 1
 &KWy&wv&Berns&wp&Kur &BA&Krm &BG&Kuard&n~
-A torch is lying here.~
+An arm guard made from Wyvern scales lies here~
 ~
 9 71306240 0 257
 30 0 0 0
@@ -322,7 +322,7 @@ obj Paladin key~
 obj Guardian Key~
 100
 &wGuardian Key&n~
-A torch is lying here.~
+A guard key lies here.~
 ~
 18 262144 0 1
 0 1 0 0
@@ -331,7 +331,7 @@ A torch is lying here.~
 obj Guardian key~
 100
 &wGuardian Key&n~
-A torch is lying here.~
+A guards key lies here.~
 ~
 18 262144 0 1
 0 1 0 0
@@ -340,7 +340,7 @@ A torch is lying here.~
 obj Guardian key~
 100
 &wGuardian Key&n~
-A torch is lying here.~
+A guardian key lies here.~
 ~
 18 262144 0 1
 0 1 0 0
@@ -349,7 +349,7 @@ A torch is lying here.~
 obj Guardian key~
 100
 &wGuardian Key&n~
-A torch is lying here.~
+A guardians key lies here.~
 ~
 18 0 0 1
 0 1 0 0
@@ -473,7 +473,7 @@ obj Mithril Fountain~
 1 5 5
 #8662
 obj Mystra's Key~
-32767
+100
 &bM&gy&cs&bt&gr&ca'&bs &gK&ce&by&n~
 Mystra's key lies here.~
 ~

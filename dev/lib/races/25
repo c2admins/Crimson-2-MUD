@@ -6,10 +6,10 @@ NAME=Ravshi
 # enter 5 digit race description which appears on the WHO list
 DESC=Ravsh
 # Enter text displayed when view race details 80bytes/per
-TEXT1=The Ravshi are a small, rodent-like race with highly developed speed, and 
-TEXT2=agility and very strong legs for their size. They are fairly intelligent   
-TEXT3=beings, but lack the charisma to live openly among others, and are 
-TEXT4=generally socially inept. They must maintain an evil alignment.
+TEXT1=Ravshi are a small, rodent-like race with highly developed speed, and agility
+TEXT2=and very strong legs for their size. They are fairly intelligent beings, but   
+TEXT3=lack the charisma to live openly among others, and are socially inept.
+TEXT4=They must maintain an evil alignment. Poisonous unarmed attack.
 # alignment must be EVIL, NORMAL, GOOD
 ALIGNMENT=EVIL
 # physical size must be SMALL, NORMAL, LARGE

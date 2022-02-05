@@ -16,7 +16,7 @@ souls of the fallen that still haunt these grounds.  The monsters of this
 land will stop anything and everything from entering and destroying their
 haunting grounds.  WATCH YOUR HEAD.
 ~
-68 8 0 41 75 2
+68 1048584 0 41 75 2
 D1
 South of Heaven
 ~
@@ -34,7 +34,7 @@ This field is stained with the blood of dead.  Many warriors fought on this
 land, and were destroyed by evil magic.  You can see the grass has grown out
 with crimson red blades.
 ~
-68 268435464 0 41 75 2
+68 269484040 0 41 75 2
 D0
 The fields.
 ~
@@ -63,7 +63,7 @@ your eyes.  You see small splotches of blood that lay just past it.  It looks
 like there is gore and bone fragments stuck over the field.  Could this be a
 deadly voyage for you?
 ~
-68 805306376 0 41 75 2
+68 806354952 0 41 75 2
 D2
 The fields.
 ~
@@ -81,7 +81,7 @@ S
 where you look.  Those poor victims of hapless carnage.  They died just like
 you're about to.
 ~
-68 268435464 0 41 75 2
+68 269484040 0 41 75 2
 D1
 The fields.
 ~
@@ -100,7 +100,7 @@ full of foul stenches.  All over the floor around you are bloody remains,
 bloated carcasses and bones.  It seems whats within those man-made tunnels
 are cannibals.
 ~
-68 805306376 0 41 75 2
+68 806354952 0 41 75 2
 D0
 The fields.
 ~
@@ -118,7 +118,7 @@ S
 it.  You are not the first, and you are definitely not the last to enter 
 this place.  Maybe next time bring some friends.
 ~
-68 805306376 0 41 75 2
+68 806354952 0 41 75 2
 D1
 Before the barn.
 ~
@@ -136,7 +136,7 @@ This room connects westward to the Fields where your fate awaits you in bloody
 shambles.  This is the last time you walk these halls without feeling the 
 torment that the people in here have felt.
 ~
-68 268435464 0 41 99 1
+68 269484040 0 41 99 1
 D0
 Deep within the earth
 ~
@@ -154,7 +154,7 @@ S
 people, those from the war, those from after it that still roamed here,
 they were preyed upon and slaughtered for food, you're next.
 ~
-68 268435464 0 41 75 2
+68 269484040 0 41 75 2
 D0
 Walking among the corn stalks.
 ~
@@ -172,7 +172,7 @@ S
 you see.  It's huge in size, yet the depth of it seems not that far.  
 Should you trust your blind eyes and enter.
 ~
-68 1342177288 0 41 75 2
+68 1343225864 0 41 75 2
 D0
 Heading towards the outhouse
 ~
@@ -191,7 +191,7 @@ locals as a war time trench of some sort.  The dirt fills your boots and the
 dust makes you wheeze.  Up ahead is something, it lurks like a shadow, be
 careful.
 ~
-68 1342177288 0 41 75 2
+68 1343225864 0 41 75 2
 D0
 In the outhouse.
 ~
@@ -209,7 +209,7 @@ S
 fire that dances around your flesh.  It seems the shadows have welcomed you
 into their hell.
 ~
-68 1342177288 0 41 75 2
+68 1343225864 0 41 75 2
 D0
 Walking among the corn stalks.
 ~
@@ -227,7 +227,7 @@ This is the beggining of your paranoia.  You sweat beyond belief as you see a
 monstrous man hulking above you.  Grinning and pondering how he should kill you.
 He just stands here waiting for you to come at him.
 ~
-68 268435464 0 41 75 2
+68 269484040 0 41 75 2
 D0
 Heading towards the House.
 ~
@@ -246,8 +246,8 @@ Walking among the corn stalks.
 D5
 A pit in the fields
 ~
-Xdd	8•@~
-0 0 8912
+pit~
+1 0 8912
 S
 #8912
 &wThe &GL&gee&GchW&gor&Gm &RPit&n~
@@ -260,7 +260,7 @@ D4
 Death
 ~
 leechworm hole~
-1 8963 8911
+9 8963 8911
 S
 #8913
 &wa &rbloody &ggrass &wfield&n~
@@ -323,7 +323,7 @@ The bottom of the portal is dark and damp.  It leads to God knows where.  This
 area seems dark and very dangerous.  You can see by the claw marks and sword
 grooves, that there was some fierce battles going on down here.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D2
 Towards the halls of blood
 ~
@@ -350,7 +350,7 @@ see is where some strange monster has destroyed people one at a time.  There
 are claw marks and grooves cut into the walls by weapons.  It seems like the
 floors here have drag marks leading south.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 The bottom of the portal
 ~
@@ -369,7 +369,7 @@ laying about here.  You can see very little flesh has been left here.  There
 are some small looking leech creatures on the walls.  They seem to be feeding
 off the remains of these dead souls.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 bloody hallway
 ~
@@ -388,7 +388,7 @@ leading in all directions.  You can see some strange monsters about.  Be very
 weary of where you go from here.  It would be best if you went back from where
 you came from.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 bloody hallway
 ~
@@ -417,7 +417,7 @@ It seems with all the blood here.  That nothing ever gets a chance to decompose.
 You can feel bones snap on the floor as you take a step.  Are you sure you 
 really want to be in here?
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 bloody hallway
 ~
@@ -441,7 +441,7 @@ and scrolls.  He just stands here floating several feet off the ground.  He has
 been dead for a very long time.  This place has a very found strench from the
 grave yard nearby. 
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 The bloody hallway
 ~
@@ -454,7 +454,7 @@ This is a weird chamber of the hallway.  It has warnings carved everywhere.
 Some read "Your soul is mine!"  While others read "The Messiah must die."  But
 who is the Messiah?
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 bloody hallway
 ~
@@ -479,7 +479,7 @@ S
 their grotesque features, primitive pictures of animals being slaughtered
 children being sacrificed unto Messiah.  This land is haunted.
 ~
-68 805306376 0 41 75 1
+68 806354952 0 41 75 1
 D2
 The Barn
 ~
@@ -584,7 +584,7 @@ by that of only you wish to imagine.  The cries grow louder as well as your
 adrenaline, the walls seems to be telling you, things aren't always as they
 appear.
 ~
-68 805306376 0 41 75 1
+68 806354952 0 41 75 1
 D0
 The portal to the barn
 ~
@@ -602,7 +602,7 @@ S
 yet still fresh.  The monster you must face, seem to be of an origin of 
 unknown kind.
 ~
-68 805306376 0 41 75 1
+68 806354952 0 41 75 1
 D0
 The barn
 ~
@@ -620,7 +620,7 @@ S
  yet the walls seem to be sturdy enough for you to go through them, but the
 dirt caves in as you walk on it.  You might slip, better move.
 ~
-68 805306376 0 41 75 1
+68 806354952 0 41 75 1
 D0
 The Barn
 ~
@@ -658,7 +658,7 @@ S
 the walls and the seem to have their brains intact, is that what is so pungent
 about this place.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 The Barn
 ~
@@ -671,7 +671,7 @@ S
 somewhere, hidden, this is where the common folk worship him from, the 
 righteous worship and grovel in his chamber.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 The Barn
 ~
@@ -684,7 +684,7 @@ S
 man has an evil smirk written across his mouth, could you be next to die
 to this cannibal?
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D4
 The Barn
 ~
@@ -697,7 +697,7 @@ S
 of fates and is smugly looking in your direction pondering upon what should
 happen to your life.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D5
 The Barn
 ~
@@ -710,7 +710,7 @@ S
 it looks like some sort of exit, care to try?  It might lead you out or into
 another battle, whichever, you will soon die anyway.
 ~
-68 805306376 0 41 75 1
+68 806354952 0 41 75 1
 D0
 The Barn
 ~
@@ -723,7 +723,7 @@ S
 with your comrades.  There are frightful screams coming from within here.
 Maybe this is a bad place to be.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D2
 Nearing Messiah
 ~
@@ -747,7 +747,7 @@ is a violent pulse all about you.  There is the glow of several eyes creeping
 up at you.  There is sounds of hisses and growls.  You may want to take cover
 somewhere else.
 ~
-68 1342177288 0 41 75 1
+68 1343225864 0 41 75 1
 D0
 The phantoms hell
 ~
@@ -760,7 +760,7 @@ S
 yet the blood along the walls is telling you a story of tragic loss.  You
 care not to listen, remember the foolish die.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 The entrance to Messiah's World
 ~
@@ -778,7 +778,7 @@ S
 here after so many years after the final battle.  They seem to have lost
 their way home.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Tunnels
 ~
@@ -796,7 +796,7 @@ S
 to you even though he is yet, so so far away.  You feel him in your bones
 you know he's here awaiting you.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Tunnels
 ~
@@ -814,7 +814,7 @@ S
 of the fields.  This is the worst part of it.  There is no escape, there is
 no return.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Tunnels
 ~
@@ -832,7 +832,7 @@ S
 heard before.  The language seems like an old religious archaic one.  Yet
 you still can't make out what these voices are saying.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D1
 Closer to God
 ~
@@ -850,7 +850,7 @@ S
 around you, its hard to concentrate on what you are thinking, the world
 seems to spin in every direction.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Nearing God
 ~
@@ -868,7 +868,7 @@ S
 lies in here is the real mystery, these monsters have been hidden for so
 long, no one has ever seen them.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D2
 Nearing Messiah
 ~
@@ -885,7 +885,7 @@ S
   Up above is an altar to Messiah, you have finally made it.  Next is to 
 slay this beast.  If you do sothis world might be a better place.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 The tunnel to Messiah
 ~
@@ -910,7 +910,7 @@ what lies south of here.  The strongest of warriors have tried their luck at
 bringing this man down, but, all have perished and souls sent into an eternity
 of abyss and pain.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D1
 E
 ~
@@ -935,7 +935,7 @@ murmering them while he looks at you.  The floor begins to shift as he once
 again turns to chanting some archaic language.  The world begins to swirl,
 leaving you drained, and to think that's just the beggining of what this man could do to you.&n
 ~
-68 268435468 0 41 75 1
+68 269484044 0 41 75 1
 D0
 N
 ~
@@ -948,7 +948,7 @@ S
 little huts out of the dirt to survive, and there are bones of leechworms
 sprawled across here.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Nearing God
 ~
@@ -975,7 +975,7 @@ S
   This is one of the many man-made homes built by lost soldiers in order to
 keep them from dying.  Its small yet its very spacioud for one person.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 The crossroads of the chambers
 ~
@@ -987,7 +987,7 @@ S
   This is one of the many man-made homes built by lost soldiers in order to
 keep them from dying.  Its small yet its very spacious for one person.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 crossroad of the chambers
 ~
@@ -1000,7 +1000,7 @@ S
 way back home, to no avail.  They have abandoned all reason so they try
 and kill al who enter here.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 More chambers
 ~
@@ -1028,7 +1028,7 @@ S
 houses to live out of.  This is the one that was made the last.  It seems
 to be crumbling and caving in.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 crossroad of the chamber
 ~
@@ -1041,7 +1041,7 @@ S
 he has lost the will to live, given up hope and just awaits death with open
 arms.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 crossroad of the chambers
 ~
@@ -1053,7 +1053,7 @@ S
   There are groove patters along the floor.  The seem to have been carved
 out by sparring soldiers and swords, just to waste the time.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 crossroad of the chambers
 ~
@@ -1293,7 +1293,7 @@ S
 yet there is an energy coming from it.  There is a light far ahead, it glows
 like that of no other.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Hallway
 ~
@@ -1315,7 +1315,7 @@ S
   You are approaching the throne of a long forgotten and heard to be fabled
 kingdom.  The leechworm king has been throughout time the rightful ruler of this land, yet he hasn't, he's been ovethrown by every kingdom that has overtaken these lands.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Hallway
 ~
@@ -1341,7 +1341,7 @@ S
 &wA &KC&whambe&Kr&n~
   This is a filthy chamber.  The walls are murky, the blackness upon them seems to be fecal matter from these giant creatures.  It slides down the wall with ease and begins to plop onto the floor.  That's just gross.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 A hallway
 ~
@@ -1352,7 +1352,7 @@ S
 &wA &KC&whambe&Kr&n~
   This is a filthy chamber.  The walls are murky, the blackness upon them seems to be fecal matter from these giant creatures.  It slides down the wall with ease and begins to plop onto the floor.  That's just gross.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 Hallway
 ~
@@ -1365,7 +1365,7 @@ S
 leechworms were and always will be the rightful rulers, even though they
 are always shoved aside by an army, they will rule again.
 ~
-68 268435465 0 1 99 1
+68 269484041 0 1 99 1
 D0
 A chamber
 ~
@@ -1391,7 +1391,7 @@ S
 &wA &KC&whambe&Kr&n~
   This is a filthy chamber.  The walls are murky, the blackness upon them seems to be fecal matter from these giant creatures.  It slides down the wall with ease and begins to plop onto the floor.  That's just gross.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 Hallway
 ~
@@ -1402,7 +1402,7 @@ S
 &wA &KC&whambe&Kr&n~
   This is a filthy chamber.  The walls are murky, the blackness upon them seems to be fecal matter from these giant creatures.  It slides down the wall with ease and begins to plop onto the floor.  That's just gross.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 Hallway
 ~
@@ -1415,7 +1415,7 @@ This the throne room of the king of all leechworms.  He stands higher then
 the rest.  He is well over twenty feet high and almost covers this room and
 stresses the golden throne he sits upon.  Watch out he's gonna fall!
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 Hidden
 ~
@@ -1436,7 +1436,7 @@ mind begins to not function.  Alas, you wonder how long you can stay behind the
 leechworm throne room before death.  You can tell, this room was a trap for the
 thieves that tried to steal their precious valuables.
 ~
-68 2080644877 536870912 41 75 1
+68 2081693453 536870912 41 75 1
 D2
 S
 ~
@@ -1450,7 +1450,7 @@ has no fecal matter upon it like the other chambers.  There are shadows
 dancing all around you, mocking you, taunting you, daring you to attack there
 blank form.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 Hallway
 ~
@@ -1463,7 +1463,7 @@ S
 see shadows, dancing around, taunting you, beconing you to try and kill 
 their blank formless bodies.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -1481,7 +1481,7 @@ S
 tribes of these lands, where could this hallway lead to?  I guess you're 
 about to find out.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 Hallway
 ~
@@ -1504,7 +1504,7 @@ S
 out where the hallway leads.  This place has alot of things hidden, you will
 find this out.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 Hallway
 ~
@@ -1522,7 +1522,7 @@ S
 out where the hallway leads.  This place has alot of things hidden, you will
 find this out.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 Hallway
 ~
@@ -1540,7 +1540,7 @@ S
 discovered, talked about or even heard of.  You are the first and maybe the
 last.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 The hallway
 ~
@@ -1558,7 +1558,7 @@ S
 with a green tinge in it.  There is mumbling coming from somewhere.  What
 could lie ahead?
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D2
 The temple
 ~
@@ -1576,7 +1576,7 @@ S
 empty.  Their walls have upon them marks of battle and blood of victims,
 victors and people who where slaughtered for the merry fun of it.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 The temple
 ~
@@ -1607,7 +1607,7 @@ S
 &Kthe hidden hallway&n~
 A hallway hidden from plain sight.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 The temple
 ~
@@ -1624,7 +1624,7 @@ S
 and rests in your head.  It makes you feel gone, life seems not to matter
 anymore.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 The temple
 ~
@@ -1640,7 +1640,7 @@ they are the forgotten people who fought for this land.  They have no tombs
 or epitaphs, they just linger, hoping someday to become human, someway, 
 somehow.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 The temple
 ~
@@ -1654,7 +1654,7 @@ around you.  What do they mean, what is their symbolism?  You see
 words marking in the dirt, saying, &KJudgement, &RDamnation, &bDespise, &wand
 the &GL&gee&GchW&gor&Gm&n.  What does this mean?
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 The Altar of Damnation
 ~
@@ -1687,7 +1687,7 @@ S
 well it should be, your soul is being judged.  If you pass the test you 
 might make it to heaven, if not you'll burn for eternity.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 The entrance to the second level
 ~
@@ -1706,7 +1706,7 @@ often to pray to their god.  Yet in the end there God Tremo couldnt save
 them.  He cowered to the power of The Messiah and left his people for dead.
 What a god.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 Behind the Altar
 ~
@@ -1726,7 +1726,7 @@ he was in all there minds, God himself.  He has remained here, his power
 stronger then that of Messiah, or else his soul would be banished into
 the fields of damnation.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 Behind the altar
 ~
@@ -1744,7 +1744,7 @@ S
 like it may lead somewhere.  You see other exits though.  They lead somewhere
 but most likely they will turn out to be dead ends.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 Behind the altars
 ~
@@ -1776,7 +1776,7 @@ S
   This is behind the altars of the gods of these lands.  You find yourself
 thinking of getting out of here.  This might not seem like a bad idea.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 Behind the altars
 ~
@@ -1793,7 +1793,7 @@ S
   This is behind the altars of the gods of these lands.  You find yourself
 thinking of getting out of here.  This might not seem like a bad idea.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 Hallway behind the altars
 ~
@@ -1810,7 +1810,7 @@ S
   This is behind the altars of the gods of these lands.  You find yourself
 thinking of getting out of here.  This might not seem like a bad idea.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 Behind an altar
 ~
@@ -1827,7 +1827,7 @@ S
   This is behind the altars of the gods of these lands.  You find yourself
 thinking of getting out of here.  This might not seem like a bad idea.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D2
 Behind an altar
 ~
@@ -1847,7 +1847,7 @@ mourned the loss of the great &BTresses&n, thus upon a deep moon, the &Gl&gee&Gc
 prayed and prayed, and the spirit of &BTresses&n arose from the ground and now
 what stands before you is a spirit of a former warrior.  Killed in battle, his soul still roaming here.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -1890,7 +1890,7 @@ S
 leads onward.  There is blood adorning the walls like decorations.  There is
 no turning back now, prepare for battle.
 ~
-68 8 0 41 75 1
+68 1048584 0 41 75 1
 D4
 Staircase
 ~
@@ -1908,7 +1908,7 @@ S
 leads onward.  There is blood adorning the walls like decorations.  There is
 no turning back now, prepare for battle.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D4
 ascending the staircase
 ~
@@ -1926,7 +1926,7 @@ S
 leads onward.  There is blood adorning the walls like decorations.  There is
 no turning back now, prepare for battle.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D4
 Staircase of souls
 ~
@@ -1943,7 +1943,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -1970,7 +1970,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for
 help.  You cant save the less fortunate, you gotta save yourself.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -1982,7 +1982,7 @@ S
 The tension in the air is thick.  You here shattered screams and cries for 
 help.  You cant help the less fortunate you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 W
 ~
@@ -1995,7 +1995,7 @@ S
 leads onward.  There is blood adorning the walls like decorations.  There is
 no turning back now, prepare for battle.
 ~
-68 1342177288 0 1 99 1
+68 1343225864 0 1 99 1
 D4
 The first level of emotion
 ~
@@ -2012,7 +2012,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -2044,7 +2044,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -2056,7 +2056,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 W
 ~
@@ -2070,7 +2070,7 @@ did you want this to happen or did you die because you were a fool, look
 around and you will see the broken souls and tattered beings crying, bleeding
 they become martyrs for pain.  You're the next victim.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -2087,7 +2087,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D2
 S
 ~
@@ -2104,7 +2104,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -2136,7 +2136,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -2148,7 +2148,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 W'
 ~
@@ -2160,7 +2160,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -2172,7 +2172,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 Collapsing the soul
 ~
@@ -2206,7 +2206,7 @@ organs permeate the air, and, the hideous daemons that await you in here,
 are most likely not nice either.  Beware fellow adventurer, your body might
 be picked limb from limb by the creatures within.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -2225,7 +2225,7 @@ did you want this to happen or did you die because you were a fool, look
 around and you will see the broken souls and tattered beings crying, bleeding
 they become martyrs for pain.  You're the next victim.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -2247,7 +2247,7 @@ S
 This is an evolved creature of some sort.  He seems mean.  Leave before you
 die to this beast.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -2261,7 +2261,7 @@ did you want this to happen or did you die because you were a fool, look
 around and you will see the broken souls and tattered beings crying, bleeding
 they become martyrs for pain.  You're the next victim.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 W
 ~
@@ -2280,7 +2280,7 @@ organs permeate the air, and, the hideous daemons that await you in here,
 are most likely not nice either.  Beware fellow adventurer, your body might
 be picked limb from limb by the creatures within.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -2304,7 +2304,7 @@ organs permeate the air, and, the hideous daemons that await you in here,
 are most likely not nice either.  Beware fellow adventurer, your body might
 be picked limb from limb by the creatures within.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -2328,7 +2328,7 @@ organs permeate the air, and, the hideous daemons that await you in here,
 are most likely not nice either.  Beware fellow adventurer, your body might
 be picked limb from limb by the creatures within.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 n
@@ -2353,7 +2353,7 @@ organs permeate the air, and, the hideous daemons that await you in here,
 are most likely not nice either.  Beware fellow adventurer, your body might
 be picked limb from limb by the creatures within.
 ~
-68 268435464 0 1 99 1
+68 269484040 0 1 99 1
 D1
 E
 ~
@@ -2377,7 +2377,7 @@ organs permeate the air, and, the hideous daemons that await you in here,
 are most likely not nice either.  Beware fellow adventurer, your body might
 be picked limb from limb by the creatures within.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -2425,7 +2425,7 @@ organs permeate the air, and, the hideous daemons that await you in here,
 are most likely not nice either.  Beware fellow adventurer, your body might
 be picked limb from limb by the creatures within.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -2449,7 +2449,7 @@ organs permeate the air, and, the hideous daemons that await you in here,
 are most likely not nice either.  Beware fellow adventurer, your body might
 be picked limb from limb by the creatures within.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D2
 S
 ~
@@ -2473,7 +2473,7 @@ organs permeate the air, and, the hideous daemons that await you in here,
 are most likely not nice either.  Beware fellow adventurer, your body might
 be picked limb from limb by the creatures within.
 ~
-68 268435464 0 41 99 1
+68 269484040 0 41 99 1
 D1
 E
 ~
@@ -2493,7 +2493,7 @@ hulking mass of a creature.  Well over Ten feet tall, and, about five hundred
 pounds of pure muscle and beast.  It growls, knowing you have penetrated
 past the gallery, and are now in its chamber. 
 ~
-68 268435464 0 41 99 1
+68 269484040 0 41 99 1
 D0
 N
 ~
@@ -2527,7 +2527,7 @@ did you want this to happen or did you die because you were a fool, look
 around and you will see the broken souls and tattered beings crying, bleeding
 they become martyrs for pain.  You're the next victim.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 N
 ~
@@ -2541,7 +2541,7 @@ did you want this to happen or did you die because you were a fool, look
 around and you will see the broken souls and tattered beings crying, bleeding
 they become martyrs for pain.  You're the next victim.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D2
 S
 ~
@@ -2555,7 +2555,7 @@ did you want this to happen or did you die because you were a fool?  Look
 around and you will see the broken souls and tattered beings crying, bleeding
 they become martyrs of pain.  You're the next victim.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -2567,7 +2567,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -2583,7 +2583,7 @@ decaying bones, most likely, dismembered from their owner, and, eaten on
 the spot.  The beasts that lurk within here must be hungry, and you're their
 next meal if you step inside the darkness they call, their home.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D0
 Deep within the earth
 ~
@@ -2605,7 +2605,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 W
 ~
@@ -2617,7 +2617,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435468 0 41 75 1
+68 269484044 0 41 75 1
 D1
 E
 ~
@@ -2644,7 +2644,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D3
 W
 ~
@@ -2659,7 +2659,7 @@ comes from the cauldron as a bubble swells and explodes.  An even larger
 sound comes from it after, a bellow of sorts, it turns to you, ready to swallow
 you whole.
 ~
-68 268435464 0 41 75 1
+68 269484040 0 41 75 1
 D1
 E
 ~
@@ -2675,7 +2675,7 @@ feet tall, and, its wings have almost been completely eaten off of its body. It
 screams in agony as one of the tiny insects squirms down, into his eye, and 
 begins eating a part of his brain.  What have you walked yourself into...
 ~
-68 1879310344 536870912 41 75 1
+68 1880358920 536870912 41 75 1
 D0
 Into the lava
 ~
@@ -2687,7 +2687,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 deep within the earth.
 ~
@@ -2704,7 +2704,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Deep within the earth
 ~
@@ -2721,7 +2721,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D2
 Deep within the earth.
 ~
@@ -2738,7 +2738,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D4
 Deep within the earth
 ~
@@ -2755,7 +2755,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Deep within the earth
 ~
@@ -2772,7 +2772,7 @@ S
 The tension in the air is thick.  You hear shattered screams and cries for help
 You cant help the less fortunate, you have to save yourself from dying.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 Deep within the earth
 ~
@@ -2790,7 +2790,7 @@ S
 toes.  The ooze from there bodies is all over you, there is no way through them
 unless you kill them all.  Time to start fighting.
 ~
-68 268435465 0 41 75 1
+68 269484041 0 41 75 1
 D0
 deep within the earth.
 ~

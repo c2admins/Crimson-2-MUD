@@ -309,7 +309,7 @@ A
 24 -1
 #16925
 obj handle smiter ~
-1
+10
 &wa weapon &Whandle&n~
 &gThe handle of what once appears to be a weapon is here, stuck in the &ymud&n~
 This is a curvy dagger, which possesses the great magical gift of death.
@@ -320,7 +320,7 @@ You wonder if you are worthy enough to use such a great treasure!
 5 10 20000
 #16926
 obj shaft smiter stick~
-1
+10
 &wa long shaft&n~
 &yA long straight stick protrudes from the mud&n~
 This is a curvy dagger, which possesses the great magical gift of death.
@@ -335,7 +335,7 @@ What once appeared to be a perfectly straight stick reveals itself to actually b
 ~
 #16927
 obj head smiter ball~
-1
+10
 &wa large metal &Wball&n~
 A large metal ball lies here, looking a little out of place.~
 ~

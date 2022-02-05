@@ -110,7 +110,8 @@ while (:) do
   DATE=`date`
   echo "autorun starting game $DATE" >> ${LOGFILE}
   echo "running bin/${PROG} ${FLAGS} ${PORT}" >> ${LOGFILE}
-  LD_PRELOAD=/home/crimson/c2/diehard-1.1/src/libdiehard.so bin/${PROG} ${FLAGS} ${PORT} >> ${LOGFILE} 2>&1
+  #LD_PRELOAD=/home/crimson/c2/diehard-1.1/src/libdiehard.so 
+  bin/${PROG} ${FLAGS} ${PORT} >> ${LOGFILE} 2>&1
 
  #valgrind --tool=memcheck --leak-check=full --track-origins=yes --verbose --log-file=vallog.out
 
