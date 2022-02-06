@@ -1,9 +1,0 @@
-#!/bin/bash
-
-# Just a simple script to call the hidden loop script.  We run it with a
-# nohup to make sure that exiting or abruptly closing the shell doesn't stop
-# the children processes.
-
-# Frank Fleschner, 2007
-
-nohup ./.autorundev.sh &
