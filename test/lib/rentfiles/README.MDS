@@ -1,0 +1,35 @@
+The following directories are required in this folder. These hold the kit, alias, and mail files for each character.
+
+
+1
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+tmp
+crashback
+backups
+
+The backups folder needs all of the above directories excluding crashback, backups, and tmp
