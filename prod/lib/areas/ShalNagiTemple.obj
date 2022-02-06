@@ -1,0 +1,615 @@
+#6500
+obj key~
+100
+An exquisite key~
+A gold tinted key lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6501
+obj key~
+100
+Bal'tannars key~
+Bal'Tannars key lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6502
+obj key~
+100
+Crypt key~
+a key with a skull on the end lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6503
+obj key~
+100
+Iron key~
+A iron key lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6504
+obj key~
+100
+Zai'Isha's key~
+Zai'Isha's key lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6505
+obj key~
+100
+Crypt key~
+A grey key with a small skull on the end lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6506
+obj key~
+100
+The key to the altar~
+A large orb shaped key lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6507
+obj key~
+100
+Ky'Ilads key~
+Ky'Ilads key lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6508
+obj key~
+100
+Crypt key~
+A grey key with a small skull on the end lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6509
+obj key~
+100
+The warriors key~
+The warriors key lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6510
+obj key~
+100
+The mages key~
+The mages key lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6511
+obj key~
+100
+The priests key~
+the priests key lies here.~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 1
+#6512
+obj heart irda~
+5
+&wThe &Rh&re&Ra&rr&Rt &wof the &GI&gr&Gd&ga&n~
+A small red ruby lies here.~
+~
+1 37749761 0 65537
+0 0 0 0
+40 80000 1
+A
+36 -1
+A
+19 2
+A
+18 2
+#6513
+obj chalice sorcery~
+7
+&wThe &Kchalice &wof &Wsorcery&n~
+A large golden chalice lies on the ground.~
+~
+12 2138112 0 16385
+0 0 10 0
+30 20000 1
+A
+12 30
+A
+3 2
+A
+4 2
+#6514
+obj bracelet amethyst~
+4
+&wAn &Pamethyst &Kbracelet&n~
+An amethyst bracelet lies on the ground.~
+~
+9 1048577 0 4097
+5 0 0 0
+23 30000 1
+A
+19 2
+A
+18 -1
+#6515
+obj neckguard brass~
+4
+&wA &ybrass neckguard&n~
+A neckguard made of brass lies here.~
+~
+9 1048576 0 5
+7 0 0 0
+36 23000 1
+A
+1 2
+A
+18 3
+#6516
+obj blade warrior~
+10
+&wa large &Rwarrior &wblade&n~
+A large blade lies on the ground.~
+~
+5 1048577 0 8193
+0 4 7 11
+21 19000 1
+A
+19 2
+A
+18 2
+#6517
+obj chainmail suit~
+10
+&wA &Kchainmail suit&n~
+A small pile of interlocking metal rings lies here.~
+~
+9 1048576 0 9
+35 0 0 0
+23 18500 1
+A
+18 2
+A
+19 1
+#6518
+obj helm guardian~
+10
+&KHelm &wof the &Wguardian&n~
+A large helm lies here.~
+~
+9 2097153 0 17
+15 0 0 0
+18 280000 1
+A
+1 2
+A
+5 1
+#6519
+obj arc dead~
+6
+&KThe arc of the dead&n~
+A large arc with a skull engraved on it lies here.~
+~
+9 2099200 0 513
+29 0 0 0
+21 80000 1
+A
+19 1
+A
+1 1
+A
+2 -1
+#6520
+obj blade irda~
+4
+&wThe &Kblade &wof the &GI&gr&Gd&ga&n~
+A long slender blade lies here.~
+~
+5 4194304 0 8193
+2048 11 4 3
+15 120000 1
+A
+19 3
+A
+18 2
+#6521
+obj platemail general~
+4
+&wthe &yGeneral's &Kplatemail&n~
+A large suit of platemail lies here.~
+~
+9 4194304 0 9
+70 0 0 0
+63 300000 1
+A
+19 3
+A
+13 15
+#6522
+obj blade undead~
+4
+&wthe &Kblade &wof the &KU&wn&Kd&we&Ka&wd&n~
+A large cold blade lies here shrouded in mist.~
+~
+5 4194308 0 8193
+1024 11 4 3
+10 330000 1
+A
+19 2
+A
+18 4
+#6523
+obj armplates daith~
+4
+&wthe armplates of &WDaith&n~
+a large pair of armplates lie here.~
+~
+9 4194306 0 257
+40 0 0 0
+32 350000 1
+A
+19 3
+A
+1 -1
+#6524
+obj cudgel priest~
+10
+&wa &Cpriest's &ycrudgel&n~
+A cudgel lies on the ground here.~
+~
+5 1048576 0 8193
+0 4 7 6
+21 18000 1
+A
+19 2
+#6525
+obj symbol regeneration~
+10
+&WSymbol &wof &Rregeneration&n~
+A large holy symbol lies on the ground.~
+~
+9 1048577 0 5
+18 0 0 0
+18 60000 1
+A
+37 -1
+A
+19 1
+A
+18 1
+#6526
+obj sleeves death~
+8
+&wthe sleeves of &KDeath&n~
+a pair of sleeves lie on the ground here.~
+~
+9 2097156 0 257
+40 0 0 0
+23 130000 1
+A
+19 2
+A
+6 -1
+#6527
+obj robe daith~
+8
+&wthe &yrobe &wof &WDaith&n~
+a large robe lies on the ground.~
+~
+9 2097154 0 1025
+11 0 0 0
+34 240000 1
+A
+19 2
+A
+18 3
+A
+1 -1
+#6528
+obj gloves flesh~
+4
+&yGloves of flesh&n~
+a large pile of flesh lies here.~
+~
+9 4194308 0 129
+19 0 0 0
+13 5 1
+A
+19 2
+A
+18 1
+A
+6 -1
+#6529
+obj obsidian staff~
+10
+&wa long &Wobsidian &ystaff&n~
+A long black staff lies here.~
+~
+5 1048576 0 8193
+0 4 7 3
+29 50000 1
+A
+19 2
+#6530
+obj heavy robe white~
+10
+&Wa heavy white robe&n~
+A large white robe lies here.~
+~
+9 1180672 0 1025
+16 0 0 0
+40 80000 1
+A
+3 2
+A
+4 2
+A
+12 35
+#6531
+obj hood white~
+10
+&wa large &Wwhite &Khood&n~
+A large piece of white material lies here.~
+~
+9 1048576 0 17
+12 0 0 0
+16 90000 1
+A
+12 15
+A
+3 2
+A
+4 2
+A
+18 2
+#6532
+obj boots mage~
+5
+&yBoots &wof the &Rmage&n~
+A large pair of glowing boots lie here.~
+~
+9 2097153 0 65
+23 0 0 0
+18 120000 1
+A
+4 2
+A
+12 40
+#6533
+obj staff lightning~
+10
+&wA &ystaff &wof &Ylightning&n~
+A long staff with lightning spinning around it lies here.~
+~
+5 2154496 0 8193
+262144 4 9 2
+26 280000 1
+A
+19 2
+A
+18 2
+#6534
+obj pouch component~
+5
+&wA spell component pouch&n~
+A large pouch lies here.~
+~
+15 4194304 0 2049
+350 0 0 0
+25 130000 1
+A
+12 50
+A
+19 2
+#6535
+obj ring archmage~
+3
+&wThe &Kring &wof the &WArchmage&n~
+A large ring pulsing with magical energy lies here.~
+~
+9 4194305 0 3
+12 0 0 0
+12 300000 1
+A
+19 3
+A
+18 1
+A
+1 -2
+#6536
+obj legplates death~
+6
+&yLegplates &wof &Kd&we&Ka&wt&Kh&n~
+A large pair of unholy looking legplates lies here.~
+~
+9 2097156 0 524321
+5 0 0 0
+31 180000 1
+A
+19 2
+A
+18 1
+A
+6 -1
+#6537
+obj bracelet bone~
+9
+&wA &Wbone &Kbracelet&n~
+A bracelet made of bone lies here.~
+~
+9 2097156 0 4097
+5 0 0 0
+12 90000 1
+A
+19 2
+A
+36 -1
+#6538
+obj symbol archmage~
+8
+&wThe &Wsymbol &wof the &WArchmage&n~
+A large symbol surrounded in energy lies here.~
+~
+9 2154496 0 5
+0 0 0 0
+19 89000 1
+A
+19 2
+A
+32 -1
+A
+12 35
+#6539
+obj orb warriors~
+7
+&wThe &Kwarrior's orb&n~
+A large orb with a battle being fought inside rests here.~
+~
+1 2125824 0 65537
+0 0 0 0
+31 120000 1
+A
+19 2
+A
+26 -1
+A
+1 1
+#6540
+obj idol fleshy~
+7
+&wA &yfleshy idol&n~
+A disgusting pile of tattered flesh lies here.~
+~
+9 2097156 0 16385
+6 0 0 0
+13 110000 1
+A
+19 4
+A
+6 -2
+A
+32 -1
+#6541
+obj robe archmage~
+7
+&wThe &yrobe &wof the &WArchmage&n~
+A large powerful looking robe lies here.~
+~
+9 2154496 0 9
+0 0 60 0
+36 115000 1
+A
+12 100
+A
+36 -1
+#6542
+obj belt fleshy~
+5
+&yA fleshy belt&n~
+A belt made of flesh lies in a crumpled heap here.~
+~
+9 1048580 0 2049
+5 0 0 0
+13 78000 1
+A
+19 2
+A
+13 15
+A
+12 -10
+#6543
+obj symbol prayer~
+5
+&WSymbol of Prayer&n~
+A large symbol lies on the ground.~
+~
+9 1048897 0 16385
+0 0 10 0
+12 20000 1
+A
+4 2
+A
+12 35
+#6544
+obj amulet ether~
+5
+&GAmulet &wof the &Kether&n~
+A large grey amulet lies here.~
+~
+11 1048579 0 5
+0 0 10 0
+17 90000 1
+A
+19 2
+A
+3 1
+A
+32 -1
+#6545
+obj robe irda~
+5
+&wThe &yrobe &wof the &GI&gr&Gd&ga&n~
+A large robe of Irda design lies here.~
+~
+9 524289 0 1025
+12 0 0 0
+19 12000 1
+A
+12 30
+#6546
+obj hide tough wooden~
+5
+&wA tough &ywooden &Khide&n~
+A tough pile of bark lies here.~
+~
+9 524288 0 9
+30 0 0 0
+21 14000 1
+A
+19 1
+A
+5 1
+#6547
+obj branch heavy~
+10
+&wA large heavy &ybranch&n~
+A thick long branch lies here.~
+~
+5 524288 0 8193
+0 2 7 2
+23 11000 1
+A
+19 2
+A
+18 -1
+#6548
+obj cuirass engraved gold~
+4
+&wA &Yg&yo&Yl&yd &Kengraved &Yc&yu&Yi&yr&Ya&ys&Ys&n~
+a large engraved cuirass made of gold lies here.~
+~
+9 4194304 0 9
+80 0 0 0
+43 300000 1
+A
+19 3
+$~
+#999999

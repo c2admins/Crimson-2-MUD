@@ -1,0 +1,821 @@
+#15650
+obj massive club olympus object~
+4
+&yA massive &yclub&n~
+&wA &ywooden&w club has been discarded here.&n~
+~
+5 37748736 0 8193
+16 10 5 6
+20 15000 5000
+A
+19 1
+A
+18 3
+A
+40 2
+A
+13 -25
+#15651
+obj skin cyclopes object olympus~
+4
+&wThe &yskin &wof the &yCycl&Kopes&n~
+&wThe &yskin&w of some slain creature has been discarded here.&n~
+~
+9 37751296 0 1025
+0 0 0 0
+45 10000 5000
+A
+19 2
+A
+18 2
+A
+40 2
+#15652
+obj key rock~
+100
+&yRock &Kkey&n~
+&wA key chiseled out of rock has been discarded here.&n~
+~
+18 262144 0 1
+0 1 0 0
+1 5 5
+#15653
+obj sandals leather olympus object~
+1
+&yLeather&w sandals&n~
+&WA pair of &yleather&w sandals &Whave been discarded here.&n~
+~
+9 4194304 0 65
+0 0 0 0
+4 15000 15000
+A
+19 1
+A
+18 1
+A
+40 2
+A
+17 20
+#15654
+obj loin clothe object olympus~
+1
+&wLoin &yclothe&n~
+&WA &wLoin &yclothe&W has been discarded here.&n~
+~
+9 4195328 0 2049
+0 0 0 0
+2 10000 10000
+A
+19 3
+A
+40 1
+A
+13 15
+A
+17 15
+#15655
+obj battle gauntlets object olympus~
+3
+&Kbattle scarred &wgauntlets&n~
+&wA pair of battle scarred gauntlets lay on the ground.&n~
+~
+9 4195328 0 129
+0 0 0 0
+1 10000 10000
+A
+19 3
+A
+18 1
+A
+40 1
+A
+12 -15
+#15656
+obj flaming giant sword olympus object~
+1
+&wa &rfl&Ra&rm&Ri&rng&w giant &Ksword&n~
+&wA giagantic sword covered in &rf&Rl&ra&Rm&re&Rs&w has been left behind.&n~
+~
+5 104864256 0 8193
+34880 10 4 3
+1 1000 1000
+A
+19 3
+A
+18 4
+A
+13 -23
+A
+12 -20
+#15657
+obj object flaming wall shield olympus~
+1
+&wa &rfl&Ra&rm&Ri&rng &wwall &Kshield&n~
+&wA wall shield engulfed in &rf&Rl&ra&Rm&re&Rs&w has been discarded here.&n~
+~
+9 104860160 0 513
+1 0 2 0
+25 10000 10000
+A
+19 3
+A
+18 2
+A
+12 -20
+#15658
+obj storm cloud object olympus~
+2
+&wa &Kstorm &Wcl&wo&Wud&n~
+&wA &Kstorm &Wcl&wo&Wud&w floats above you.&n~
+~
+1 104860164 0 65537
+0 0 0 0
+2 20000 20000
+A
+40 2
+A
+19 1
+A
+18 1
+#15659
+obj swirling winds object olympus~
+2
+&wswirling &cwinds&n~
+&wA swirling &cwinds&w seemingly surrounds you.&n~
+~
+9 71303680 0 1025
+0 0 0 0
+5 50000 50000
+A
+19 2
+A
+18 2
+A
+40 2
+#15660
+obj stone hammer object olympus~
+2
+&KStone &whammer&n~
+&wA hammer crafted out of &Kstone&w has been discarded here.&n~
+~
+5 104864256 0 8193
+608 15 4 6
+15 25000 25000
+A
+19 2
+A
+18 5
+A
+13 -20
+#15661
+obj earth platemail object olympus~
+2
+&wplate&Kmail &wof the &yearth&n~
+&wA set of platemail has been discarded here.&n~
+~
+9 104862208 131072 9
+80 0 0 0
+25 25000 25000
+A
+18 4
+A
+19 2
+A
+13 -25
+#15662
+obj oceans fury object olympus~
+3
+&cO&Cc&Bea&Cn&cs &Rfury&n~
+&wA puddle of &Bwater&w in the shape of a sword lays on the ground.&n~
+~
+5 4194816 0 8193
+16384 10 5 3
+1 5 5
+A
+18 4
+A
+19 3
+A
+13 -15
+#15663
+obj abysmal guardians cloak object olympus~
+1
+&KAb&wysm&Kal &rGu&wa&Krdi&wa&rns &wcloak&n~
+&KA ragged looking cape has been discarded here.&n~
+~
+9 4194816 0 5
+0 0 0 0
+1 150000 150000
+A
+19 4
+A
+13 20
+A
+17 15
+#15664
+obj amulet cronus object olympus~
+3
+&YAmulet &Wof &cCronus&n~
+&WA amulet has been discarded here.&n~
+~
+9 4194304 0 5
+20 0 0 0
+3 3000000 55000
+A
+18 4
+A
+41 1
+A
+19 -1
+#15665
+obj key ~
+100
+&Kchamber key&n~
+&KThe chamber key has been discarded here.&n~
+~
+18 0 0 1
+0 1 0 0
+1 5 5
+A
+18 59
+#15666
+obj wings pegasus object olympus~
+4
+&Wthe wings of Pegasus&n~
+&WA torn off pair of wings have been discarded here.&n~
+~
+9 88148992 0 1025
+45 0 0 0
+5 500000 70000
+A
+18 4
+A
+19 2
+A
+13 -10
+A
+14 -10
+#15667
+obj winged sandals hermes object olympus~
+2
+&YHermes &Wwinged sandals&n~
+a pair of winged sandals with wax straps lies here.~
+~
+9 104857600 0 65
+20 0 0 0
+2 350000 650000
+A
+41 1
+A
+18 2
+A
+25 1
+#15668
+obj messenger hermes sword object olympus~
+3
+&YHermes &Kmessengers sword&n~
+&YHermes&K messengers sword&n lies here, emitting heat.~
+~
+5 104857600 0 8193
+3080 4 10 3
+10 250000 550000
+A
+41 1
+A
+18 2
+A
+13 -20
+#15669
+obj messengers shield object olympus~
+2
+&KMessengers &Wshield&n~
+&wThe shield of the &Kmessenger &wrests here.&n~
+~
+9 104927232 131072 1537
+50 0 0 0
+1 245000 85000
+A
+18 3
+A
+41 1
+A
+19 -1
+A
+13 -15
+#15670
+obj key olympus gate~
+100
+&WThe key to the gates of &YOlympus&n~
+&WA &Ygolden&W key has been dropped here.&n~
+~
+18 0 0 1
+0 1 0 0
+1 5 5
+A
+18 59
+#15671
+obj sentinels pike object olympus~
+1
+&WSentinels &wpike&n~
+&WA rather large pike has been discarded here.&n~
+~
+5 100663296 32 8193
+2112 3 8 11
+10 100000 20000
+A
+18 3
+#15672
+obj sentinels pike object olympus~
+1
+&YSentinels &Wpike&n~
+&WA rather large pike has been discarded here.&n~
+~
+5 100663296 32 8193
+1088 3 8 11
+10 100000 20000
+A
+18 3
+A
+19 1
+#15673
+obj nectar Hedes~
+100
+&Whede's &YNectar&n~
+&WA bottle of nectar has been discarded here.&n~
+~
+10 4194304 1024 1
+75 77 77 77
+1 350000 350000
+#15674
+obj nectar ancients~
+100
+&WHedes &Ynectar &Wof the Ancients&n~
+&WA off flask looking flask has been discared here.&n~
+~
+10 2097152 1024 1
+47 36 76 76
+1 250000 250000
+#15675
+obj Nectar true seeing~
+100
+&YNectar &Wof &Ctrue seeing&n~
+&WA bottle full of nectar has been discarded here.&n~
+~
+10 2097152 0 1
+75 18 85 44
+1 10000 10000
+#15676
+obj encrusted jewel crown object olympus~
+4
+&Wa &pj&rewe&pl &pen&wc&Wrus&wt&ped &Ycrown&n~
+&wA &Ygolden crown &pen&wc&Wrus&wt&ped &wwith  &pj&rewel&ps&w has for some reason been discarded here.&n~
+~
+9 4194304 0 17
+15 0 0 0
+5 1500000 35000
+A
+24 -2
+A
+23 -2
+A
+19 3
+A
+18 1
+#15677
+obj flowing robes goddess object olympus~
+5
+&WThe &Cflowing&W robes of the &YGoddess&n~
+&WA long flowing robe lays crumpled up on the ground.&n~
+~
+15 104899072 262144 1025
+350 0 0 0
+6 60000 10000
+A
+12 100
+A
+18 3
+#15678
+obj small water fountain~
+1
+&WA small &Cwater&W fountain&n~
+&WA small &Cwater&W fountain has been placed at the back of the room.&n~
+~
+15 8 0 0
+50 0 0 0
+1 5 5
+E
+fountain~
+
+&WAs you look into this beautiful fountain you are all most amazed at its ability
+to give you vision to many mortal planes. Strangely enough each time you look you
+notice something different and even more strange it is always a worship place of
+the Goddess &wHera&n
+~
+#15679
+obj black pearl~
+10
+&wA &Wblack &wPearl&n~
+&wA &Wblack &wPearl has been misplaced by it's owner.&n~
+~
+8 0 0 1
+0 0 10 0
+1 100000000 250000
+#15680
+obj blue sapphire royal~
+10
+&BA &Yroyal&B blue Sapphire&n~
+&BA &Yroyal&B blue Sapphire &whas been misplaced by its owner.&n~
+~
+8 0 0 1
+0 0 10 0
+1 100000000 250000
+#15681
+obj forged hammer hephaestus object olympus~
+1
+&wThe &Rfo&rrg&Red &Khammer &wof Hephaestus&n~
+&wA rather large &Khammer&w has been left behind.&n~
+~
+5 104858176 0 8193
+589825 11 6 6
+15 65000 65000
+A
+40 1
+A
+19 4
+A
+18 2
+A
+13 -30
+#15682
+obj forged bracer gods olympus object~
+1
+&wA &cforged &Kbracer &wof the &YGods&n~
+&wA rather magnificet bracer has been dropped here.&n~
+~
+9 4215300 131200 4097
+0 0 0 0
+10 350000 35000
+A
+19 3
+A
+18 1
+A
+17 15
+#15683
+obj chains binding object olympus~
+3
+&wA chain of &cbinding&n~
+&wA old &yrusty&w chain has been discarded here.&n~
+~
+9 104857748 4 4101
+0 0 0 0
+15 150000 150000
+A
+40 -15
+A
+41 -15
+A
+18 -5
+A
+18 -5
+#15684
+obj ares blood stained sword piercing olympus object~
+1
+&rAres &Rb&rloo&Rd s&rtaine&Rd &Ksword &wof &KD&woo&Km&n~
+&wA &rb&Rl&ro&Ro&rd&Ri&re&Rd &Ksword&w has been left behind.&n~
+~
+5 104860180 0 8193
+1616 5 8 11
+1 250000 150000
+A
+19 3
+A
+18 2
+A
+13 -45
+#15685
+obj dangling flower pot~
+1
+&yA dangling plant pot&n~
+&WA dangling &Pflower&W pot hangs overhead.&n~
+~
+15 8 0 0
+50 0 0 0
+1 5 5
+E
+pot~
+&WAs you gaze at the beauty of this one &Plotus&Wyou feel so relaxxed and
+at peace with yourself&n
+~
+#15686
+obj ivory planter~
+1
+&WA Ivory &yplanter&n~
+&WA planter carved out of ivory rests on the ground beside you.&n~
+~
+15 8 0 0
+50 0 0 0
+1 5 5
+#15687
+obj golden bed~
+1
+&Wa lovely &Ygolden&W bed&n~
+&WA lovely &Ygolden&W bed sits in the center of the room.&n~
+~
+12 9 0 0
+0 0 10 0
+1 5 5
+E
+bed~
+&WThis bed looks so comfortable..you just want to lay down and take
+a nice nap.&n
+~
+#15688
+obj face mask hephaestus object olympus~
+1
+&wFace mask of &KHephaestus&n~
+&wA metal face mask has been discarded here.&n~
+~
+9 104858112 0 17
+0 0 0 0
+5 25000 55000
+A
+19 2
+A
+18 3
+A
+32 -1
+#15689
+obj golden apple object olympus~
+4
+&YA &Yg&yo&Yl&yd&Ye&yn &Yapple&n~
+&YA &Yg&yo&Yl&yd&Ye&yn &Yapple&W has been dropped on the ground.&n~
+~
+9 4236288 262144 16385
+20 0 0 0
+2 250000 50000
+A
+19 6
+A
+18 2
+A
+12 -13
+A
+13 -12
+#15690
+obj flowered crown object olympus~
+6
+&WA &Gflowered &Ycrown&n~
+&WA &Gflowered &Ycrown&W has been dropped here.&n~
+~
+9 4195328 0 17
+10 0 0 0
+2 15000 15000
+A
+42 2
+A
+18 1
+A
+19 2
+A
+6 4
+#15691
+obj trident poseidon object olympus~
+1
+&cPoseidons&W trident of the &CSeas&n~
+&WA trident has been discarded here.&n~
+~
+5 104860164 0 8193
+33792 3 13 11
+1 5 5
+A
+19 2
+A
+18 4
+#15692
+obj golden throne~
+1
+&Wa &Yth&yro&Yne&W of &Yg&yol&Yd&n~
+&WA &Yth&yro&Yne&W of &Yg&yol&Yd &Wsits in the middle of the room.&n~
+~
+12 8 0 0
+0 0 10 0
+1 5 5
+#15693
+obj thunderbolt object olympus~
+1
+&WA &Ythunderbolt&n~
+&WA odd looking twisted dagger has been discarded here.&n~
+~
+5 4194305 0 8193
+458752 10 5 11
+3 150000 40000
+A
+19 4
+A
+18 1
+#15694
+obj aegis object olympus~
+3
+&cAegis&n~
+&WA magnificent piece of armor has for some reason been discarded here.&n~
+~
+9 104857857 0 9
+0 0 0 0
+25 250000 150000
+A
+18 4
+A
+19 3
+A
+13 20
+#15695
+obj forge~
+1
+&wA large metal &Kforge&n~
+&wA large metal &Kforge &wrests in the center of the room.&n~
+~
+12 8 0 1
+0 0 10 0
+1 5 5
+#15696
+obj throne~
+1
+&WA &CThrone&n~
+&WA &CThrone&W sits in the back of the room.&n~
+~
+12 8 0 0
+0 0 10 0
+1 5 5
+#15697
+obj winged helm object olympus~
+4
+&YWinged &Khelm&n~
+&WA &YWinged &Khelm&W has been discarded here.&n~
+~
+9 4194304 0 17
+25 11 0 0
+5 25000 25000
+A
+41 1
+A
+19 2
+A
+36 -1
+#15698
+obj forged leg plates object olympus~
+1
+&wforged leg &cplates&n~
+&wA pair of leg plates have been discarded here.&n~
+~
+9 37749248 0 33
+0 0 0 0
+5 75000 55000
+A
+19 3
+A
+18 3
+A
+17 15
+A
+13 25
+#15699
+obj sceptre rulership object olympus~
+1
+&Wa &Ws&Yceptr&We of r&wul&cers&whi&Wp&n~
+&WA sceptre has been left behind.&n~
+~
+9 637534465 0 16385
+10 0 0 0
+3 300000 250000
+A
+19 7
+#15700
+obj golden box object~
+1
+&wa &Yg&yolde&Yn &wbox&n~
+&wa &Yg&yolde&Yn &wbox &wsits in the middle of the room.&n~
+~
+15 262153 0 1
+350 15 15701 0
+1 5 5
+#15701
+obj golden key~
+75
+&wa &Yg&yolde&Yn &Kkey&n~
+&wa &Yg&yolde&Yn &Kkey &whas been discarded here.&n~
+~
+18 262144 0 1
+15700 1 0 0
+1 5 5
+#15702
+obj glorious shortsword might object olympus~
+4
+&Wa &wg&Wl&porio&Wu&ws &wshort&Ksword&w of &Cm&cigh&Ct&n~
+&WA rather odd looking shortsword has been discarded here.&n~
+~
+5 4196356 0 24577
+40968 11 4 3
+5 100000 5000000
+A
+18 3
+A
+19 3
+#15703
+obj fang basilisk object olympus~
+3
+&KFang &wof the &gb&Ga&Ksili&Gs&gk&n~
+&wA rather large fang has discarded here.&n~
+~
+5 4194304 0 8193
+18432 4 9 11
+5 25000 25000
+A
+18 2
+A
+19 2
+#15704
+obj tail basilisk object olympus~
+3
+&wtail of the &ggreater &wbasilisk&n~
+&wA large scale covered tail has been ripped away from its owner.&n~
+~
+9 4194304 4 262145
+0 0 0 0
+15 150000 150000
+A
+40 3
+A
+19 7
+A
+18 4
+A
+17 15
+#15705
+obj boots war object olympus~
+1
+&Kboots &wof &rW&Ra&rr&n~
+&wA pair of &Rb&rloo&Rd splattered &wboots have been left here.&n~
+~
+9 104862208 131072 65
+30 0 0 0
+1 150000 15000
+A
+19 3
+A
+41 1
+A
+12 -25
+#15706
+obj quest1 blood splattered platemail~
+3
+&Rb&rloo&Rd splattered &wplate&Kmail&n~
+&wA suit of &Rbloodied &Kplatemail&w has been left behind here.&n~
+~
+9 138678784 0 9
+95 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+A
+41 2
+A
+12 -25
+#15707
+obj fireball impending doom object olympus~
+1
+&rfi&Rr&Yeb&Ra&rll &Wof &Ki&wmp&Wend&win&Kg &RD&rOO&RM&r!&n~
+&WA &Rfire &Yburns&W on the ground.&n~
+~
+1 4196864 0 65537
+0 0 0 0
+3 30000 30000
+A
+19 2
+A
+25 1
+A
+18 1
+A
+14 -35
+#15708
+obj earth encrusted platemail object olympus~
+3
+&yearth &We&wncruste&Wd &wplate&Kmail&n~
+&wA suit of platemail encrusted by the &yearth&w has been discarded here.&n~
+~
+9 104859648 0 9
+70 0 0 0
+45 45000 45000
+A
+19 2
+A
+18 1
+A
+41 2
+A
+13 -40
+$~
+#999999

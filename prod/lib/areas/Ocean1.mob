@@ -1,0 +1,506 @@
+#12800
+mob siren~
+&Bthe &GSiren&n~
+&BA beautiful &GSiren &Bis here, singing her enchanting song.&n
+~
+   Resembling beautiful a beautiful human woman, the Siren lures her victims to the island with
+a melodious charming voice, and then proceeds to dissect and devour poor hapless sailors. Once
+her victim is under her spell, she returns to her true form...a disgusting beast with tentacled
+arms, sharp toothed maw, and obese, amorphous body with skin as tough as steel.
+~
+1074585674 32769 136249361 33554944 0 S
+43 3 -30 50d50+20000 50d5+99
+10000 645000
+8 8 2
+13 0 16 17 15 16 15 12
+#12801
+mob dolphin bottlenose~
+&ca &Kbottlenose &wdolphin&n~
+&cA &Kbottlenose &wdolphin &cswims here.&n
+~
+  A large and robust ocean mammal, the bottlenose dolphin derives its name from it's short and
+slender 'bottle' shaped beak. The dorsal cape of the creature is a dark blue, which fades to
+a light grey along its flanks. The ventral surface is a white-pink, while the snout of the 
+creature is white. The tail flukes and flippers are a dark grey-black, with lines of grey 
+running through them. The creature is normally docile, and somewhat playful, but can defend 
+itself very well if provoked by ramming its opponent.
+~
+16777800 32769 136249361 544 200 S
+20 20 24 10d4+1530 2d4+24
+0 60000
+8 8 0
+0 0 17 17 16 15 12 12
+#12802
+mob school tuna~
+&Cthe school of tuna&n~
+&CA school of tuna swims peacefully here.&n
+~
+  Numbering only about a score or so of fish, the tuna are by no means a large group. These
+fish are so large though, that anyone caught in the midst of them could get hurt rather badly.
+~
+1090781192 1 136249361 16777728 0 S
+14 25 30 2d10+250 2d2+1
+1 4200
+8 8 0
+0 0 17 17 16 14 12 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12803
+mob humpback whale~
+&wa humpback whale&n~
+&BA great &whumpback whale&B swims here peacefully.&n
+~
+  Measuring a massive fifty feet in length, and weighing a hefty thirty-five tons, the whale
+derives its name from the large hump in its dorsal fin that is accentuated by dark grey. It's
+elongated flippers are white, contrasted by a dark grey body. Numerous 'bumps' form along its
+head before the blowhole, and also along its flippers. The whale generally feeds on krill and 
+small fish, but its size alone makes it a dangerous creature to approach.
+~
+1090781256 1 136249361 16777728 0 S
+40 5 -20 10d50+14000 2d10+90
+0 235000
+8 8 0
+0 0 17 15 16 14 12 12
+#12804
+mob giant octopus~
+&wa giant &roctopus&n~
+&w a giant &roctopus&w swims by, looking for a meal.&n
+~
+  The giant octopus resembles its smaller cousin in all respects save size. It's tentacles
+can stretch out to an amazing thirty feet in length, while its beak is the size of a dwarf and
+could easily crush a whales bones.
+~
+1090781384 1 136249393 16777728 0 S
+29 14 8 2d50+2750 2d8+10
+0 90000
+8 8 0
+0 0 17 16 15 14 13 11
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=108
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12805
+mob kraken~
+&ba &wkraken&n~
+&ba huge &wkraken&b swims by, looking for it's next meal&n
+~
+   Measuring a massive ninety feet in length, this giant squid is legendary for attacking 
+ships in search of food. More than likely these are just myths, but this great beasty would 
+have no problems swallowing you whole if it decided you were a tasty looking morsel.
+~
+1409552456 1 136249361 16777728 0 S
+43 1 -28 1d1+22500 5d5+60
+0 0
+8 8 0
+0 0 16 16 14 15 14 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12806
+mob marine troll~
+&Gthe marine troll&n~
+&GA very large marine troll makes his presense known with a loud belch.&n
+~
+  Marine trolls, much like their land dwelling cousins, are large humanoids, standing nearly 
+8 feet tall. Their webbed hands and feet give them superior swimming ability over other 
+humanoids, and their greenish blue skin provides them with good camouflage in any water. Their
+fingers end in long hooked talons that secrete a nasty poison used to incapacitate their prey.
+They are not evil creatures, they simply hunt whatever looks tasty to survive.
+~
+66376 32769 136249361 83886592 0 S
+23 17 21 10d20+1375 3d3+33
+125 69000
+8 8 0
+0 0 17 18 14 14 14 12
+#12807
+mob sea serpent~
+&Ga &cSea Serpent&n~
+&GA great &cSea Serpent&G casually swims through the waters, ignoring your presense.&n
+~
+  Nobody knows how big Sea Serpents get...Nobody has lived long enough to tell the tale. In
+most respects the creature seems to resemble a snake, or even a dragon. The fact that little 
+more than its head and a portion of it's neck are ever above water though leaves only your
+imagination to determine what the rest of the beast looks like.
+~
+1145311304 2129921 136249361 0 0 S
+47 0 -39 20d50+45000 40d40+99
+0 1400000
+8 8 0
+0 0 16 16 14 14 13 15
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+#12808
+mob lesser sea demon~
+&cthe &Kl&Resse&Kr s&Re&Ka d&Remo&Kn&n~
+&cA &Kl&Resse&Kr s&Re&Ka d&Remo&Kn&c is here, looking to cause some mischief.&n
+~
+  From a distance these creatures much resemble Sahuagin with their slimy green skin, large dorsal
+fin, and webbed feet and hands. Upon closer examination, however, subtle differences can be seen.
+The demons eyes glow a brilliant red, visible even in the day, and apear to be completely 
+pupiless. Gill slits can be seen along its ribcage, but the beast can also breath air for a short
+time if needed. Also noticably different from sahaugin is the large fin that starts on the 
+creatures forehead and runs down to the base of its neck. This fin appears to serve litle purpose, 
+but serves as a status symbol among its own kind. In essense, the coloration and size of the fin
+determine the beasts ranking in its society.
+~
+1074118728 2392065 136249361 654311946 -750 S
+30 13 0 10d50+2700 2d5+10
+1000 170000
+8 8 0
+0 0 17 16 15 16 13 11
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_SHOCKING_GRASP 50
+SKILL=SPELL_FROST_BREATH 80
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#12809
+mob greater sea demon~
+&cthe &Kg&Rreate&Kr s&Re&Ka d&Remo&Kn&n~
+&cA &Kg&Rreate&Kr s&Re&Ka d&Remo&Kn &cis here, looking for a tasty morsel to feed upon.&n
+~
+  Greater sea demons look exactly like their cousins, the younger sea demons, in every respect
+except they are much larger and much more viscous. Just like their smaller cousins, the fin that
+runs from their forehead to the base of their neck denotes rank within their society, but even
+the lowest ranking greater sea demons rules over the highest ranking lesser sea demon.
+~
+1074126924 2392065 136249361 620757674 -1000 S
+43 1 -30 10d50+11000 2d10+75
+20000 650000
+8 8 0
+0 0 17 18 16 14 15 14
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_SUMMON 80
+SKILL=SPELL_FROST_BREATH 90
+SKILL=SPELL_GATE 90
+SKILL=SPELL_LIFETAP 75
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#12810
+mob kelpie~
+&cthe &GKelpie&n~
+&cA beautiful &Gelven maiden&c is here, floating in the water.&n
+~
+  At first glance, this maiden is nothing more than a typical aquatic elven maiden. Upon closer
+examination, however, her true form become more apparent. She is not a being made of flesh, but
+rather a plant that has adapted her form to a creature of the sea in an attempt to lure prey to
+her before devouring them.
+~
+1074126986 32769 136249361 117441132 0 S
+20 20 24 10d50+1100 2d5+20
+0 75000
+8 8 0
+0 0 17 15 15 14 14 14
+SKILL=SPELL_BLINDNESS 60
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SKILL_SNEAK 90
+SKILL=SKILL_HIDE 90
+SKILL=SKILL_HUNT 90
+#12811
+mob male aquatic elf warrior~
+&cthe &Baquatic elf warrior&n~
+&cA &Bmale aquatic elf&c floats here, scanning the horizon for trouble.&n
+~
+  Aquatic elves much resemble their land dwelling cousins with a slight build, pointed ears, and
+delicate good looks. From generations of adapting to the sea however, their hands and feet have
+become webbed in order to give them better swimming ability, and gill slits have grown on their
+neck, allowing them to breath underwater. When on land, these gill slits disappear entirely, with
+no evidence of them ever being present. Their skin coloration can range anywhere from a light 
+green do a deep, rich blue to give them good camouflage abilities underwater. The warriors usually
+wear a very fine and extremely light mesh mail armor to provide them protection. The metal used 
+to make the mesh is usually traded with their land dwelling cousins, with whom they have excellent
+relations.
+~
+1074012744 1081345 136249361 822346404 800 S
+35 8 -12 10d10+2100 5d2+10
+2200 210000
+8 8 1
+0 0 16 15 16 16 13 12
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_SLEEP 50
+SKILL=SKILL_PARRY 50
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#12812
+mob female aquatic elf warrior~
+&cthe &Bfemale aquatic elf&n~
+&cA beautiful &Gelven maiden&c is here, floating in the water.&n
+~
+  Aquatic elves much resemble their land dwelling cousins with a slight build, pointed ears, and
+delicate good looks. From generations of adapting to the sea however, their hands and feet have
+become webbed in order to give them better swimming ability, and gill slits have grown on their
+neck, allowing them to breath underwater. When on land, these gill slits disappear entirely, with
+no evidence of them ever being present. Their skin coloration can range anywhere from a light 
+green do a deep, rich blue to give them good camouflage abilities underwater. The warriors usually
+wear a very fine and extremely light mesh mail armor to provide them protection. The metal used 
+to make the mesh is usually traded with their land dwelling cousins, with whom they have excellent
+relations.
+~
+1074012744 1081345 136249361 822346404 800 S
+33 10 -7 10d10+1900 4d2+10
+1700 198000
+8 8 0
+0 0 17 18 14 16 15 11
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_LIGHTNING_BOLT 75
+SKILL=SPELL_SLEEP 50
+SKILL=SKILL_PARRY 50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#12813
+mob blue whale~
+&Ba &bblue whale&n~
+&BA humongous &bblue whale&B calmly swims by.&n
+~
+  Measuring a massive one hundred feet in length and weighing a good two hundred tons, this whale
+has got to be one of the biggest creatures you've ever seen. It's head forms a quarter of its great
+body, and when opened, its mouth could easily swallow a giant. It's best to steer clear of the
+creature to avoid being swallowed whole accidentaly.
+~
+1082392648 1 136249361 50594304 0 S
+48 0 -40 20d50+50000 70d30+99
+0 1600000
+8 8 0
+0 0 16 17 15 14 13 12
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12814
+mob marine troll priestess~
+&Gthe marine troll priestess&n~
+&GA marine troll priestess is here, pondering the wonders of the ocean.&n
+~
+  A bit smaller than her brothers, the priestess stands roughly seven feet tall at best. Since she
+is not a hunter like the rest of her brothers, she has instead undertaken the role of healer and
+shaman. She is still not very intelligent though, so as a result her powers are not great, but in
+a fight she can still be deadly with her spells and clawed appendages.
+~
+65864 32769 136249361 83886720 0 S
+20 20 24 10d10+750 3d3+4
+200 0
+8 8 0
+0 0 17 17 16 16 15 13
+SKILL=SPELL_ARMOR 60
+SKILL=SPELL_BLESS 60
+SKILL=SPELL_HARM 60
+SKILL=SPELL_POISON 60
+SKILL=SPELL_HEAL_MINOR 60
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#12815
+mob aboleth~
+&cthe &wAboleth&n~
+&cA disgusting &wAboleth&c floats here, looking for a meal.&n
+~
+  A strange creature to say the least, the aboleth has the body of a slug-like creature, and
+the tail of a fish. Long black tentacles grow from its side and serve to grasp prey, and it's
+razor-toothed maw looks capable of crushing the hardest of shells and flesh. Most curious of
+all are its three elongated, pupiless eyes which run horizontally down its front. They don't 
+appear to give the creature any sight advantage, but they sure do make it ugly!
+~
+1074073676 1 136249361 84148776 -300 S
+24 40 20 2d50+1900 2d4+2
+200 74500
+8 8 0
+0 0 17 17 14 16 14 13
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_CHILL_TOUCH 90
+SKILL=SPELL_SHOCKING_GRASP 60
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#12816
+mob man-o-war gelatinous blob~
+&Bthe &WMan-O-War&n~
+&BA giant &Wgelatinous blob&B floats in the water.&n
+~
+  Nothing more than a giant jellyfish with tentacles that can extend down into the oceans 
+depths for hundreds of feet, the Man-O-War is best known for it's extremely toxic poison. This
+poison can immobilize even a giant upon contact, so it may be best to avoid this creature of 
+the deep.
+~
+1090846920 1 136249361 16777728 0 S
+19 21 25 10d5+270 3d3+18
+0 5900
+8 8 0
+0 0 16 15 14 14 14 11
+#12817
+mob giant crab~
+&cthe &Rgiant crab&n~
+&cA &Rgiant crab&c swims by.&n
+~
+  Its a very large, extremely scary looking crab. His claws look like they could crush your
+bones to pulp with almost no effort, and his outer shell looks like it could withstand any
+kind of physical blow.
+~
+1090785480 1 136249361 1090519552 0 S
+32 11 -10 10d10+4000 2d8+50
+0 195000
+8 8 0
+0 0 16 18 15 15 14 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#12818
+mob giant clam~
+&cthe &wgiant clam&n~
+&cA &wgiant clam&c is here.&n
+~
+  Resembling any ordinary clam that has grown to gigantic proportions, this little beasty
+has no real offensive capabilities, but when it's shell is closed it is nearly indestructible.
+~
+1090519240 1 136249361 1090519552 0 S
+15 25 10 2d5+200 2d4+6
+0 4600
+8 8 0
+0 0 16 17 14 14 14 14
+#12819
+mob mermaid~
+&cthe &Pmermaid&n~
+&cA beautiful &Pmermaid&c turns and smiles.&n
+~
+  Having the upper proportions of a beautiful woman, and the lower extremities of a fish, 
+mermaids are a marvel of nature. Legends abound that these marvelous beings, through the use
+of ancient and powerful magicks, can fully take human form and walk among humans. Since there
+has been no way to prove such a thing, the rumors have been discarded as myth.
+~
+1074004430 32769 136249361 16785920 750 S
+25 15 16 10d12+2000 2d20+5
+650 75000
+8 8 0
+0 0 16 18 14 16 15 11
+SKILL=SPELL_HARM 80
+SKILL=SPELL_HEAL_MINOR 80
+#12820
+mob giant seahorse~
+&cthe &ygiant seahorse&n~
+&cA &ygiant seahorse&c swims here peacfully.&n
+~
+  Used primarily as steeds by the merfolk and elves, the giant seahorse is simply a larger 
+version of its more common cousin. 
+~
+17039560 257 136249361 16777792 0 S
+15 25 29 10d10+112 3d4+7
+0 4500
+8 8 0
+0 0 17 16 16 14 12 13
+#12821
+mob merman~
+&cthe &Gmerman&n~
+&cA &Gmerman&c swims by, scanning the horizon for danger.&n
+~
+  Having the upper body of a male human and the lower extraimties of a fish, the merman is quite
+simply a wonder of nature. Generally good in nature, merfolk are reknowned for providing 
+wonderous items of trade from the sea. Legends abound of a powerful spell that all merfolk possess
+allowing them to roam freely upon land in the guise of a human, but since this has never been 
+proven, the notion has been dispelled as simply a myth.
+~
+1074004556 1 136249361 16785920 750 S
+26 15 16 20d10+2000 2d5+35
+680 80000
+8 8 0
+0 0 16 15 14 15 12 13
+#12822
+mob tidal sea dragon~
+&cT&Cida&cl&w, &KD&wr&Wag&wo&Kn &wof the &BSea&n~
+A great blue serpent is here, looking for lunch.
+~
+  Unlike normal dragons, the dragons of the sea have no legs, nor wings. Instead their tail ends in a fin, 
+allowing the great beasts to swim like fish. Tidal is currently the oldest of these dragons, and his size and
+wisdom make him the deadliest of the species as well. He is not an opponent to be taken lightly.
+~
+1078272010 4227073 136249361 924844716 0 S
+50 -38 -40 1d1+75000 25d30+99
+10000000 2500000
+8 8 1
+0 0 16 16 14 15 14 15
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SKILL_RAGE 99
+SKILL=SPELL_WRATH_OF_NATURE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=90
+ATTACK_TYPE=104
+$~
+#999999

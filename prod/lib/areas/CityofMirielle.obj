@@ -1,0 +1,826 @@
+#7600
+obj shield iridescent~
+15
+&Can &Bir&bid&Ces&bce&Bnt &Cshield&n~
+M'Yeslika's iridescent shield is resting here.~
+~
+9 2097730 0 513
+25 0 0 0
+20 100000 35000
+A
+12 30
+A
+1 1
+A
+4 -1
+A
+19 2
+#7601
+obj staff sanctuary~
+70
+&ya &Wsanctuary &ystaff&n~
+A staff glowing with a white aura is resting here.~
+~
+4 2378816 0 16385
+30 1 5 36
+15 180000 5
+#7602
+obj midnight shield nysphemia~
+2
+&wthe &Kmidnight s&whiel&Kd&n~
+The midnight shield of Nysphemia lies here against a wall.~
+~
+9 71305222 0 513
+45 0 0 0
+25 150000 150000
+A
+12 10
+A
+19 3
+A
+13 -30
+A
+18 1
+#7603
+obj morningstar star nysphemia~
+20
+&wthe &Rphy&rrsha&Rnct &wMorning Star&n~
+A large morning star is lying here on the ground.~
+~
+5 2130496 0 8193
+65536 7 4 7
+20 175000 50000
+A
+19 3
+A
+12 30
+A
+18 5
+#7604
+obj ring sapphire malioch~
+1
+&wa &bs&Bapphir&be &wring&n~
+The sapphire ring of Malioch has been left here.~
+~
+9 88083712 1024 3
+15 0 0 0
+15 250000 70000
+A
+19 2
+A
+41 1
+A
+13 20
+A
+12 -10
+#7605
+obj bracers petrified phymalianch~
+1
+&Ka pair of &wpet&Wr&wi&Wf&wied&K bracers&n~
+The petrified bracers of Phymalianch lie here~
+~
+9 239078466 0 257
+0 0 0 0
+25 100000 80000
+A
+19 3
+A
+18 1
+A
+13 -20
+A
+40 1
+#7606
+obj heels emerald dypartes~
+2
+&wa pair of &Ge&gmeral&Gd &gh&Geel&gs&n~
+Dyparte's emerald green heels lie here.~
+~
+9 88123396 262144 65
+0 0 0 0
+4 189000 65000
+A
+19 3
+A
+18 2
+A
+41 -2
+A
+17 20
+#7607
+obj bracelet crimson~
+2
+&Wa &rcrimson &Wbracelet&n~
+A &rcrimson&n bracelet lies here.~
+~
+9 4196608 0 4097
+25 0 0 0
+7 145000 75000
+A
+12 -10
+A
+13 25
+A
+19 2
+#7608
+obj light dawn losarious~
+1
+&Kthe light of &Ydawn&n~
+The dawn light of Losarious is lying here.~
+~
+1 4196352 0 65537
+20 0 0 0
+3 250000 90000
+A
+19 3
+A
+12 30
+A
+36 -1
+#7609
+obj key crimson~
+2
+a crimson key~
+A key coloured crimson lies here.~
+~
+18 262152 0 1
+0 0 10 0
+10 5 5
+#7610
+obj key sapphire~
+2
+a sapphire key~
+A key made of beautiful sapphire lies here.~
+~
+18 262152 0 1
+0 0 10 0
+10 5 5
+#7611
+obj key jaundice~
+2
+a jaundice key~
+A key the colour of sickness lies here.~
+~
+18 262152 0 1
+0 0 10 0
+10 5 5
+#7612
+obj key midnight~
+2
+a midnight key~
+A key cut out of midnight is here.~
+~
+18 262152 0 1
+0 0 10 0
+10 5 5
+#7613
+obj key dawn~
+2
+a dawn key~
+A key made of the colours of the dawn lies here.~
+~
+18 262152 0 1
+0 0 10 0
+10 5 5
+#7614
+obj key emerald~
+2
+an emerald key~
+A key carved out of emerald lies here.~
+~
+18 262152 0 1
+0 0 10 0
+10 5 5
+#7615
+obj key crystal~
+2
+a crystal key~
+A crystal key is lying here.~
+~
+18 262152 0 1
+0 0 10 0
+10 5 5
+#7616
+obj key dusty~
+2
+a dusty key~
+A key covered in dust is lying here.~
+~
+18 262152 0 1
+0 0 10 0
+10 5 5
+#7617
+obj key pendant chain~
+2
+a tiny key on a chain~
+A tiny key with a chain is lying here on the ground.~
+~
+18 262152 0 5
+0 0 10 0
+10 5 5
+#7618
+obj box~
+1
+a guilded box~
+A box inlaid with gold sits here.~
+~
+15 262152 0 1
+0 0 10 0
+1 5 5
+#7619
+obj tongue golden~
+100
+&Ya golden tongue&n~
+A golden tongue is here for licking~
+~
+12 0 0 1
+0 0 10 0
+1 5 5
+#7620
+obj prism glowing~
+10
+&WA &Yglowing &Rp&Yr&Gi&Bs&pm&n~
+A prism is here emitting a strong light~
+~
+1 2097728 0 65537
+4227072 0 -1 0
+20 100000 45000
+A
+26 -1
+A
+32 -1
+A
+19 1
+A
+12 10
+#7621
+obj rattle violet~
+1
+&KA vi&wo&plet ra&wt&Ktle&n~
+A violet rattle made of glass lies here.~
+~
+9 4194304 0 16385
+15 0 0 0
+1 250000 150000
+A
+19 6
+A
+18 4
+A
+12 -20
+A
+14 -20
+#7622
+obj crystal scythe~
+1
+&wA cr&Wys&Ctal s&Wcy&wthe&n~
+A small, deadly crystal scythe lies here~
+~
+5 4194304 0 8193
+589824 9 7 3
+13 200000 75000
+A
+19 2
+A
+18 1
+A
+12 10
+A
+2 -1
+#7623
+obj note~
+100
+A note lies here~
+A rolled up note lies here in the ashes~
+~
+16 262144 0 1
+0 0 10 0
+1 5 5
+E
+note~
+The house of zalmynk holds a wonderful adventure for you.  Only the 
+strong will survive and the members fo Zalmynk suggest not adventuring
+alone.  Be careful as their lair is a tricky one where one misstep may
+cause you to lose you equipment or your life.  Normal rules do not
+apply within our house and we will protect our master til the end.
+We made it so you must go thru each of us to reach our beloved, so
+be prepared to die again and again we will search out your soul to
+trap in our lair forever.....
+                                   the house of Zalmynk
+ps.  We have safely guarded our new master so you must receive a key from 
+each of us.  Once you have successfully received all six keys find a sunlit 
+altar within our house on which to place then in a crystal box.  Once you 
+close the box a shaft of light will fill the room with rainbows creating
+the object which you seek the key to our master.
+~
+#7624
+obj light ishphylph~
+30
+&wa gu&Wid&wing &Ylight&n~
+A light made to guide you thru the dark places you adventure~
+~
+1 1048577 0 65537
+0 0 -1 0
+10 60000 25000
+A
+26 -1
+A
+36 -1
+A
+13 -10
+A
+14 50
+#7625
+obj ball lead~
+20
+&Ka lead ball&n~
+A heavy ball made of lead is here~
+~
+9 2097152 0 16385
+25 0 0 0
+50 75000 40000
+A
+19 2
+A
+18 2
+#7626
+obj ring lord's~
+25
+&wthe &Bl&Kord'&Bs &Wr&win&Wg&n~
+The lord's ring of mastery~
+~
+9 2097664 0 3
+15 0 0 0
+13 11000 35000
+A
+19 2
+A
+18 3
+A
+12 15
+A
+14 -50
+#7627
+obj stockings~
+15
+&Kblack stockings&n~
+A pair of black seamed stockings~
+~
+9 2099200 0 33
+34 0 0 0
+10 180000 45000
+A
+19 2
+#7628
+obj fruit kiwi~
+100
+A piece of fruit~
+A yummy kiwi awaits to be eaten~
+~
+19 0 0 1
+7 0 10 0
+1 5 5
+#7629
+obj satchel~
+1
+A silk satchel~
+A satchel made of silk awaits filling~
+~
+15 0 0 1025
+50 0 0 0
+30 275 125
+#7630
+obj waterskin water skin milk~
+100
+&ya water skin&n~
+A waterskin awaits you to fill it~
+~
+17 0 0 1
+48 48 10 0
+20 250 100
+#7631
+obj corsette~
+35
+&Ka black velvet corsette&n~
+A soft, velvety black corsette lies here to be worn~
+~
+9 2097152 0 2049
+17 0 0 0
+13 157000 35000
+A
+12 20
+A
+19 2
+#7632
+obj heels black~
+20
+&Ka pair of black heels&n~
+A pair of black spike heels are lying on the ground.~
+~
+9 2097152 0 65
+5 0 0 0
+7 123000 45000
+A
+14 -30
+A
+37 -1
+A
+12 45
+A
+13 45
+#7633
+obj chain silvery necklace~
+20
+&Ka si&wlv&Wery &wch&Kain&n~
+A silvery necklace with a strange symbol for a pendant~
+~
+9 2097152 0 5
+20 0 0 0
+6 185000 55000
+A
+19 2
+A
+18 2
+#7634
+obj Knuckleguards~
+10
+&Ka pair of s&wh&Wi&wn&Ky &wknuckleguards&n~
+A pair of silvery Knuckleguards awaits you to wear them~
+~
+9 2097152 0 129
+25 0 0 0
+27 237000 45000
+A
+19 2
+A
+18 2
+#7635
+obj bracer platinum~
+10
+&Kplatinum&w bracer&n~
+A platinum bracer is here waiting to grace your arms~
+~
+9 1048576 0 257
+40 0 0 0
+40 115000 50000
+A
+19 2
+A
+18 2
+#7636
+obj barette glinting~
+10
+&wa &Wg&Yli&Wnt&Yin&Wg &Kb&warett&Ke&n~
+A glinting barette with a spiked edge~
+~
+9 2097155 0 17
+20 0 0 0
+17 136000 60000
+A
+36 -1
+A
+19 2
+A
+18 2
+#7637
+obj ring psychosis~
+15
+&Kthe psychotic ring&n~
+A ring is hear, overwrought with a feeling of pyschosis~
+~
+9 2097152 0 3
+20 0 0 0
+9 87000 31000
+A
+19 1
+A
+18 3
+#7638
+obj suit shadow~
+10
+&Ka shadow suit&n~
+An evil, black shadow suit~
+~
+9 2099716 0 9
+10 0 0 0
+3 177000 50000
+A
+19 3
+A
+13 -25
+A
+12 -25
+A
+18 4
+#7639
+obj Crystal Bracelet~
+10
+&wc&Wr&Cyst&Wa&wl &Wbracelet&n~
+A chunky crystal bracelet~
+~
+9 2099201 0 4097
+15 0 0 0
+23 159000 35000
+A
+19 1
+A
+18 2
+#7640
+obj cloak forgiveness~
+20
+&ythe cloak of &Wforgiveness&n~
+the cloak of forgiveness lies here.~
+~
+9 2114050 0 1025
+20 0 0 0
+30 150000 35000
+A
+36 -1
+A
+19 -2
+A
+18 4
+#7641
+obj ring demon evil~
+15
+&wthe &rde&Rm&ron &wring of &Kevil&n ~
+a glowing ring of jet black lies here~
+~
+9 2097667 0 3
+15 0 0 0
+11 117000 40000
+A
+19 2
+A
+12 25
+A
+18 -1
+#7642
+obj shield soul~
+30
+the shield of souls~
+A shimmering shield lies here.~
+~
+9 526338 0 513
+15 0 0 0
+42 200000 33000
+A
+19 1
+A
+6 2
+#7643
+obj collar tattered~
+50
+&ya tattered collar&n~
+A tattered priest collar lies here.~
+~
+9 1051140 0 5
+15 0 0 0
+16 197000 34000
+A
+13 20
+A
+12 -40
+A
+9 15
+A
+18 4
+#7644
+obj harp Platinum~
+20
+&Wa &Kplatinum &Wharp&n~
+A platinum harps responds to the touch.~
+~
+5 1107968 0 8193
+2 6 5 7
+18 140000 60000
+A
+19 3
+A
+18 5
+A
+4 -1
+#7645
+obj key rainbow~
+2
+the rainbow key~
+Through perseverance you have created the mystical rainbow key.~
+~
+18 4456456 0 1
+0 0 10 0
+50 5 5
+#7646
+obj box rainbow~
+1
+the box of rainbows~
+A crystal box sits in a shaft of sunlight, there are places for 6 keys inside~
+~
+15 262152 0 0
+750 1 10 0
+10 5 5
+#7647
+obj key smoked~
+2
+a smoked glass key~
+A key made of smoked glass lies here.~
+~
+18 262152 0 1
+0 0 10 0
+20 5 5
+#7648
+obj belt rope~
+40
+&ya rope belt&n~
+A length of rope is here to be used as a belt~
+~
+9 1048577 0 2049
+10 0 0 0
+23 88000 25000
+A
+12 25
+A
+19 1
+#7649
+obj symbol phyrshanct~
+50
+&Wthe &Rphy&rrsha&Rnct &Wsymbol&n~
+The phyrshanct symbol lies here in the dust.~
+~
+9 1049088 0 5
+8 0 0 0
+23 58000 25000
+A
+12 15
+A
+19 2
+A
+4 -1
+#7650
+obj shirt silk~
+15
+&wa &Csilk&w shirt&n~
+A loose-fitting red silk shirt is here.~
+~
+9 2097152 0 9
+55 0 0 0
+11 30000 8500
+A
+19 2
+#7651
+obj pantaloons silk~
+100
+&wa pair of &Gsilk&w pantaloons&n~
+A billowing pair of black silk pantaloons lies here.~
+~
+9 524288 0 33
+7 0 0 0
+13 121000 11500
+A
+12 10
+A
+13 5
+#7652
+obj tassles arm~
+40
+&ya pair of arm tassles&n~
+A glittering pair of arm tassles.~
+~
+9 1050625 0 257
+23 0 0 0
+23 121000 20000
+A
+12 20
+A
+13 -10
+A
+19 1
+A
+1 -1
+#7653
+obj bracelet curiosity~
+20
+&wa cu&Wri&Bosity bra&Wce&wlet&n~
+A strange bracelet lies here sparking your curiosity.~
+~
+9 1048578 0 4097
+15 0 0 0
+21 75000 20000
+A
+13 15
+A
+19 1
+A
+31 -1
+#7654
+obj arc shadows~
+48
+&Ka shadow arc&n~
+An arc made of shadows is here waiting to be held.~
+~
+9 524289 0 16385
+10 0 0 0
+13 25000 2500
+A
+12 10
+A
+18 2
+#7655
+obj claw animal~
+39
+&wan &Kan&yimal &Kcl&waw&n~
+A vicious animal claw waits to be wielded.~
+~
+5 1048576 0 8193
+1 6 3 11
+17 58000 18000
+A
+19 1
+A
+18 3
+#7656
+obj potion amber~
+100
+an amber potion~
+An amber potion is here waiting to be drank.~
+~
+10 262146 0 1
+30 81 81 81
+11 28000 5
+#7657
+obj fountain iridescent~
+1
+an iridescent fountain~
+An iridescent fountain is here filled with a faint violet liquid.~
+~
+17 41 0 0
+1000000 1000000 6 0
+110000000 5 5
+#7658
+obj Sign~
+100
+a sign is here~
+A sign is here in the woods.~
+~
+16 262144 0 0
+0 0 10 0
+237777777 5 5
+E
+sign~
+Welcome to the city of Mirielle.
+It has been posessed by a strange magic.
+Beware of the dangers that lie beyond       
+it in the forest.
+~
+#7659
+obj light dusk losarious~
+5
+&wthe light of &Kdusk&n~
+The dusk light of Losarious is lying here.~
+~
+1 4196352 0 65537
+0 0 10 0
+45 250000 90000
+A
+19 2
+A
+12 15
+A
+32 -1
+A
+18 3
+#7660
+obj bracelet fiery zalmynk~
+3
+&wa f&Wi&rer&Ry br&race&Wl&wet&n~
+A bracelet engulfed with fire lies here.~
+~
+9 4200449 131072 4097
+20 0 0 0
+1 150000 35000
+A
+19 2
+A
+18 3
+A
+14 -20
+A
+13 -20
+#7661
+obj ring flames circle zalmynk~
+1
+&Wa c&wi&Rrcl&re of &Rfla&wm&Wes&n~
+A circle, covered with flames has been left here.~
+~
+9 104864260 132096 5
+10 0 0 0
+1 150000 34000
+A
+19 3
+A
+18 3
+A
+13 -20
+A
+14 -40
+$~
+#999999

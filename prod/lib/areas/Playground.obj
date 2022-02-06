@@ -1,0 +1,432 @@
+#1600
+obj playground instability life drainer~
+4
+&KInstability&w, the &KLife-Drainer&n~
+&KA lifeless sword rests on the ground, it awaits it's next victim to slaughter.&n~
+~
+5 4223488 131072 8193
+4194368 10 4 3
+1 5 5
+A
+19 -1
+A
+18 2
+#1601
+obj playground armband named vendetta~
+2
+&wAn Armband Named "&KV&we&Kn&wd&Ke&wt&Kt&wa&w"&n~
+&wA large armband covers the floor around you, etched on it are markings of a language you've never seen.&n~
+~
+9 104858132 0 4097
+10 0 0 0
+1 5 5
+A
+19 2
+A
+40 1
+A
+13 -20
+#1602
+obj chiseled small bone key~
+2
+&wA small chiseled &ybone&w key&n~
+&wA hollowed out bone key rests in the dust.&n~
+~
+18 134479880 0 3
+0 2 0 0
+1 5 5
+A
+41 1
+#1603
+obj playground mask vengeance~
+2
+&wA &KMask &wof &RVen&rgea&Rnce&n~
+&KA large mask awaits it's owner, wanting to reap more unlucky souls.&n~
+~
+9 104860196 0 17
+10 0 0 0
+1 5 5
+A
+19 3
+A
+41 1
+A
+13 -20
+A
+12 -20
+#1604
+obj playground sword malice~
+1
+&K@===[|====&wA &KSword &wof &RMa&rli&Rce&K===>&n~
+&KA fierce looking blade rests heavily upon the ground it lays, spitting embers of anger everywhere.&n~
+~
+5 4196948 0 8193
+12583032 5 8 3
+1 5 5
+A
+18 2
+A
+13 -50
+#1605
+obj playground divinity gloves~
+1
+&wThe &KG&ylove&Ks &wof &cD&Civ&Win&Cit&cy&n~
+&WThe &ygloves &Wof di&wvini&Wty rest here&n.~
+~
+9 4194307 0 129
+0 0 0 0
+3 1000000000 13000
+A
+19 2
+A
+40 2
+A
+41 -2
+A
+25 1
+#1606
+obj heaven's chest~
+1
+&WH&we&Wa&wv&We&wn&W'&ws &yChest&n~
+&WH&we&Wa&wv&We&wn&W'&ws &yChest&n~
+~
+15 134479880 0 1
+1 5 0 0
+1000 5 5
+#1607
+obj playground golden cross necklace~
+1
+&wA &YGo&yld&Yen &WC&wr&Co&Ws&ws Necklace&n~
+&wA tiny &Ygo&yld&Yen &Wc&wr&Co&Ws&ws necklace rests upon the floor&n~
+~
+9 4197379 1024 5
+5 0 0 0
+1 5 5
+A
+19 3
+A
+18 4
+A
+12 -25
+A
+13 -30
+#1608
+obj angels rope~
+100
+&wThe &yRope &wto the &WAngels&n~
+&wThe &YRope &wto the &WAngels&n~
+~
+25 0 0 0
+0 0 0 0
+1 5 5
+#1609
+obj altar key~
+25
+&wThe Key to the Altar&n~
+&WThe key to an altar rests here.&n~
+~
+18 134479872 0 1
+0 1 0 0
+1 5 5
+#1610
+obj quest wing-shaped dagger~
+1
+&wa wing-shaped &Kdagger&n~
+&wA wing-shaped &Kdagger &wrests upon the dirt covered floor.&n~
+~
+5 4456968 0 8193
+527425 21 1 11
+1 5 5
+#1611
+obj playground small tattered bible~
+2
+&wA small tattered &ybible&n~
+&wA small, tattered &ybible &wrests heavily upon a floor in which it does not belong.&n~
+~
+9 4197379 0 16385
+0 0 0 0
+1 1000000000 5
+A
+41 1
+A
+19 5
+A
+18 3
+#1612
+obj playground priest's swathe~
+3
+&wA priest's swathe&n~
+&wA priest's swathe rests upon the floor, somehow becoming loose from it's owner it has now found it's way here.&n~
+~
+9 4197376 0 1025
+35 0 0 0
+1 5 5
+A
+41 1
+A
+19 3
+A
+12 -15
+A
+13 -15
+#1613
+obj playground perseverance rapier~
+1
+&wThe &KRapier &wof &CPer&csev&Cera&cnce&n~
+&wA small rapier rests on the floor, refusing to stay down.&n~
+~
+5 541199363 0 8193
+6152 6 6 11
+1 5 5
+A
+19 1
+#1614
+obj playground eternal wisdom~
+3
+&cE&Ct&We&cr&Wn&Ca&cl &pW&Kisdo&pm&n~
+&WEternal wisdom lies at your feet.&n~
+~
+1 4238339 262144 65537
+0 0 0 0
+1 5 5
+A
+37 -1
+A
+19 1
+A
+18 3
+A
+17 -7
+#1615
+obj playground broken chains~
+1
+&wBr&Kok&wen &KChains&n~
+&wSome busted up chains lay in a heap, setting the once slave free.&n~
+~
+9 4197380 0 257
+40 0 0 0
+1 5 5
+A
+19 4
+A
+18 1
+A
+12 -25
+A
+13 -25
+#1616
+obj playground angel feather~
+2
+&wAn &WA&wn&Wg&we&Wl&wi&Wc &yFeather&n~
+&WA tiny angelic feather floats in the winds.&n~
+~
+9 4197378 0 17
+20 0 0 0
+1 5 5
+A
+19 3
+A
+18 3
+A
+12 -20
+A
+14 -20
+#1617
+obj playground wing divine~
+2
+&wThe &WWing &wof the &BDi&Cvi&Bne&n~
+&WA wing of something divine shines brightly upon the floor.&n~
+~
+9 4197377 0 513
+45 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+A
+13 -30
+A
+12 -20
+#1618
+obj playground interwoven branches hope~
+2
+&WAn Interwoven Band &Wof &pHope&n~
+&WA small interwoven band of hope floats above the ground.&n~
+~
+9 4197377 0 3
+18 0 0 0
+1 5 5
+A
+19 2
+A
+18 3
+A
+13 -20
+A
+14 -10
+#1619
+obj playground barkskin girdle~
+1
+&wA &yBarkskin &wGirdle&n~
+&wA large barkskin girdle lies upon the floor.&n~
+~
+9 4197378 0 2049
+3 0 0 0
+1 5 5
+A
+40 2
+A
+19 2
+A
+18 -1
+A
+13 -20
+#1620
+obj playground dispel silence scroll~
+100
+a scroll of dispel silence~
+a scroll of dispel silence has been left here.~
+~
+2 134217728 0 1
+75 108 0 0
+1 2635 5
+#1621
+obj playground mana potion~
+100
+&WA potion of mana&n~
+&WA small clear potion calmly wastes away in the sunlight.&n~
+~
+10 0 0 1
+75 81 81 81
+1 5 5
+#1622
+obj playground archaic scroll~
+32767
+&wAn archaic scroll&n~
+A torch is lying here.~
+~
+2 0 0 1
+50 28 83 2
+1 5 5
+#1623
+obj playground fury maker~
+1
+&wThe &RF&rur&Ry &wof the &cM&Ca&Wk&Ce&cr&n~
+&wThe wrath of the heavens lies on the ground.&n~
+~
+5 4197379 0 8193
+102400 6 7 6
+15 75000000 75000
+#1624
+obj quest leprechaun belt~
+10
+&GA Leprechaun's &gBelt&n~
+A torch is lying here.~
+~
+9 262144 0 2049
+15 0 0 0
+1 5 5
+A
+41 3
+A
+40 6
+A
+13 50
+A
+25 3
+#1625
+obj quest four leaf clover~
+5
+&Ga four leaf clover&n~
+A torch is lying here.~
+~
+9 262144 0 16385
+25 0 0 0
+1 5 5
+A
+13 100
+A
+12 100
+A
+14 100
+A
+40 8
+#1626
+obj quest leprechaun hat~
+10
+&GA Leprechaun's &yHat&n~
+Someone has dropped a nice leprechaun hat here.  Oh my!~
+~
+9 262144 0 17
+30 0 0 0
+1 5 5
+A
+18 5
+A
+19 5
+A
+37 -1
+A
+36 -1
+#1627
+obj st saint patrick staff quest~
+5
+&GSt &gPatr&Gick&g's St&Gaff&n~
+Oh my gosh someone has dropped Saint Patrick's staff here!~
+~
+5 134479872 2048 24577
+16186427 8 11 6
+1 5 5
+A
+40 4
+A
+41 6
+A
+12 100
+A
+13 100
+#1628
+obj quest saint patrick flowing robes~
+10
+&WSaint Patrick's Flowing Robes&n~
+A torch is lying here.~
+~
+9 262144 0 1033
+95 0 0 0
+1 5 5
+A
+40 4
+A
+41 2
+A
+13 75
+#1629
+obj pint guiness quest~
+3
+&yA Pint of &YGuiness&n~
+Someone has dropped a mighty fine pint of Guiness here.~
+~
+10 262144 0 1
+50 160 0 0
+1 5 5
+#1630
+obj pot gold quest~
+6
+&wA &yPot &wof &YG&yol&Yd&n~
+&wIt's your lucky day, you've found a pot of gold!&n~
+~
+20 8 0 1
+250000 0 0 0
+1 5 5
+#1631
+obj quest blarney stone~
+10
+&wThe &GBl&garn&Gey &yStone&n~
+&wYou've found the blarney stone, turn it in to your favorite IMM for a prize!&n~
+~
+13 671350850 512 1
+0 0 0 0
+1200 5 5
+$~
+#999999

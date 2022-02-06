@@ -1,0 +1,365 @@
+#1200
+obj candle red waxy~
+10
+&RA red waxy candle&n~
+A red waxy candle is here, bleeding light on the walls.~
+~
+1 136314880 0 65537
+200000 0 0 0
+4 200000 29000
+A
+19 2
+#1201
+obj dragonsword~
+2
+&Wthe &GDragon&cSword&n~
+The mighty DragonSword is lying here, sucking the light.~
+~
+5 2192384 0 8193
+8192 6 5 3
+3 110000 5
+A
+18 3
+#1202
+obj fortune key~
+10
+&wThe fortune key&n~
+The fortune key is here.~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#1203
+obj hidden key~
+10
+&wThe &Khidden&w key&n~
+Gratz! You have found the hidden key!~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#1204
+obj wisp shadow~
+5
+a wisp of a &Kshadow&n~
+A small shadow haunts the corner.~
+~
+9 4194320 0 1025
+10 0 0 0
+9 200000 75000
+A
+19 2
+A
+13 5
+A
+18 2
+A
+12 10
+#1205
+obj dungeon key~
+25
+&wThe dungeon key&n~
+This key is tagged 'dungeon'~
+~
+18 262144 0 1
+0 0 10 0
+1 5 5
+#1206
+obj hallway key~
+10
+&wThe hallway key&n~
+This key is tagged 'hallway'~
+~
+18 262144 0 1
+0 0 10 0
+1 5 5
+#1207
+obj key ring~
+10
+&KA key ring&n~
+A key ring is here for your keys.~
+~
+9 2097316 0 3
+2 0 0 0
+1 400000 22000
+A
+19 2
+#1208
+obj case key holder~
+99
+&KA key case&n~
+&yA case of keys stands against the wall.&n~
+~
+15 8 0 0
+300 0 0 0
+99 5 5
+#1209
+obj comfy chair~
+1
+The comfy chair?~
+&rThe Comfy chair is here, frightening you.&n~
+~
+15 8 0 0
+1500 0 0 0
+99 5 5
+#1210
+obj scabbard~
+25
+&gA &Cj&Bewele&Cd &yscabbard&n~
+A jewel encrusted scabbard is lying here.~
+~
+15 4194306 0 17409
+80 0 0 0
+1 40000 15000
+#1211
+obj fallen star~
+20
+&YA fallen star&n~
+&YA fallen star lies here, winking at you.&n~
+~
+12 4194304 0 24581
+0 0 0 0
+10 200000 80000
+A
+29 1
+#1212
+obj vibrating pentagram~
+50
+&KThe vibrating &rpentagram&n~
+&KThe vibrating &rpentagram&K lays here, burning with an evil &Ylight&n~
+~
+2 2363456 0 16401
+45 118 118 118
+3 10000 6000
+#1213
+obj skeleton lady gadria~
+1
+Gadria's skeleton~
+&WThe skeleton of Lady Gadria lays here, burried in &ymud&n~
+~
+15 8 0 0
+600 0 0 0
+99 5 5
+#1214
+obj ribcage skeletal~
+5
+&Wa skeletal ribcage&n~
+The ribcage of a long dead knight lays here.~
+~
+9 4194308 0 9
+0 0 0 0
+16 125000 125000
+A
+19 4
+A
+13 30
+A
+6 -4
+#1215
+obj Soth's blood sword~
+2
+&wA huge &rblood-caked&w sword&n~
+A huge blood caked sword lays here.~
+~
+5 4211332 0 24577
+1024 14 3 3
+23 213000 666666
+E
+soth sword~
+oooooow!
+~
+A
+19 3
+A
+18 1
+#1216
+obj plate rose~
+4
+&KBlackened &Wplate of the &rRose&n~
+Some scorched plate mail lays here~
+~
+9 4207108 131072 9
+20 0 0 0
+20 5 1350000
+A
+19 4
+A
+18 2
+A
+12 -20
+#1217
+obj helm scorched~
+3
+&KScorched &cfull helm&n~
+A knights scorched helm lays here~
+~
+9 4194820 0 17
+25 0 0 0
+50 2000000 355000
+A
+19 3
+A
+14 -10
+#1218
+obj black rose key~
+99
+a single back rose shaped key~
+a strange looking black rose lays here~
+~
+18 134479872 0 1
+0 0 10 0
+1 5 5
+#1219
+obj dagger marital~
+3
+&wdagger of &Wmarital bliss&n~
+a small tarnished silver dagger lays here~
+~
+5 134218240 32 8193
+0 4 9 11
+7 456000 100000
+A
+19 3
+#1220
+obj skeleton caradoc's~
+1
+&Wthe skeleton of Caradoc&n~
+&Wthe crumpled skeleton of Caradoc lays here.&n~
+~
+15 8 0 0
+400 0 0 0
+99 5 5
+#1221
+obj shovel rusted~
+20
+&KA very &yrusted &Kshovel&n~
+An old rusting shovel lays here, rusting some more.~
+~
+5 1048576 0 8193
+0 1 10 7
+15 45000 35000
+#1222
+obj gauntlets rusted~
+9
+&Ka pair of &yrusted &Kgauntlets&n~
+A pile of rusted chain gauntlets lay on the ground.~
+~
+9 4211204 128 129
+10 0 0 0
+10 15000 75000
+A
+19 2
+A
+18 -1
+#1223
+obj boots dusty~
+6
+&ydust covered boots&n~
+Some dusty boots sit here.~
+~
+9 4194432 0 65
+17 0 0 0
+12 1000 300000
+A
+13 40
+A
+26 -1
+#1224
+obj shield back rose~
+2
+&Wthe legendary shield of the &Kblack &rrose&n~
+a massive fire blasted shield lays here~
+~
+9 138416132 131072 513
+60 0 0 0
+43 1000666 1000666
+A
+19 2
+A
+23 -5
+A
+37 -1
+A
+32 -1
+#1225
+obj gate plaque~
+99
+a huge gate plaque~
+&yAn old bronze gate plaque lays here in the dust.&n~
+~
+16 262144 0 0
+0 0 10 0
+100000 5 5
+E
+test test~
+~
+E
+plaque bronze~
+Welcome to Nedragaard Keep, Home of the honorable Lord Soth
+
+Created by Nocture and Daedalus
+
+Sugested level range 30+ for ground floor
+Sugested level range 41+ for top floor
+
+Have a nice day.
+~
+#1226
+obj shield key~
+10
+&wkey of shields&n~
+A tiny key lays here.~
+~
+18 262144 0 1
+0 0 10 0
+1 5 5
+#1227
+obj board warning~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#1228
+obj soth treasure~
+5
+&YA large pile of gold&n~
+&YSoth's treasure lies here.&n~
+~
+20 0 0 1
+10000 0 0 0
+1 5 5
+#1229
+obj skeletal gauntlets~
+6
+&wa pair of &Wskeletal gauntlets&n~
+A pair of gauntlets made of bone lie here.~
+~
+9 222298752 0 129
+10 0 49 0
+6 40000 90000
+A
+22 -3
+A
+2 2
+A
+19 4
+#1230
+obj ring black rose~
+1
+&cring of the &KBlack Rose&n~
+A dark ring with a black rose sigil lies here.~
+~
+11 88123904 262144 3
+0 0 10 0
+2 50000 70000
+A
+19 3
+A
+18 2
+A
+17 -10
+$~
+#999999

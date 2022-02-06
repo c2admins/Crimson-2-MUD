@@ -1,0 +1,631 @@
+#7400
+mob celestial guard~
+A celestial guard~
+A celestial guard stands here guarding the gates of Heaven.
+~
+This is a guardian of Heaven.  They guard heavens gates from the forces of evil.
+You can see these guys mean business.  They are souls that were meant for
+purgitory.  They have been allowed here only as servents.  You can see they
+protect this land very well.  They will not fail God.  If they do their souls
+will be casted back to purgitory and forever will they wait.
+~
+270542 1081345 136249361 136 1000 S
+41 2 -25 100d100+3000 10d10+70
+900000 369000
+8 8 0
+0 0 17 17 15 15 12 12
+#7401
+mob lower celestial~
+A lower celestial~
+A lower celestial roams about here.
+~
+These are the lowest of in Heavens ranks.  They have led mainly good lives.
+Some have broken some of the commandments set forth by their deity.  But have
+repented before their time in the mortal realm.  They have basicly done very
+little wrong.  But none have ever lost faith.
+~
+33562636 1081345 136249361 136 1000 S
+42 1 -25 99d99+5000 40d7+30
+985000 600000
+8 8 0
+0 0 17 18 14 14 14 11
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_HEAL_MINOR 99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7402
+mob lower cupid~
+A lower cupid~
+A lower cupid roams here searching for trouble.
+~
+These are the lower beings of Heaven.  Most have lead a good lives in the
+mortal realms.  They mainly police the lower realms of Heaven.  They however
+haven't done any significant good in their lives.  They have never lost faith
+nor have they ever frayed from the path set forth by their deity.  
+~
+8200 32769 136249361 8 1000 S
+43 2 -28 99d99+7000 20d20+90
+1450000 645000
+8 8 0
+0 0 17 18 16 15 14 13
+SKILL=SPELL_HAIL_STORM 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_HEAL_MINOR 99
+ATTACK_SKILL=15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7403
+mob cupid michael~
+The Cupid Michael~
+The Cupid Michael is guarding the gates to higher realms.
+~
+Michael is a very strong and devote protector of Heaven's Gates.  He has been
+Placed in charge of guarding the second level of Heaven against the those who
+minds are evil and who's plans are the same.  Michael has never known of human
+ways as he was created an angel.  He has worked his way through the ranks of
+his deity by carving out those who are set against his master.  Beware, this
+cherub has one wing in heaven and one dipped in blood.
+~
+270346 32769 136249361 67109000 1000 S
+44 1 -30 99d99+6500 10d20+75
+1600000 792000
+8 8 0
+0 0 17 16 16 16 12 12
+SKILL=SPELL_TREMOR 85
+SKILL=SPELL_HEAL_MEDIUM 85
+SKILL=SPELL_HEAL_MAJOR 85
+SKILL=SPELL_SMITE 85
+ATTACK_SKILL=74
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+#7404
+mob purineesa seraph~
+Purineesa the seraph~
+Purineesa the seraph of the lower heavens watches for evil.
+~
+Purineesa is the protector of the lowest level of Heaven.  She has come fourth
+to protect this level.  You can see she has a heart of gold and a very vast
+spectrum of healing powers.  She is almost as beautiful as she is powerful.
+Her wings are lined with razor sharp edges.  You can see she is very noble indeed.
+~
+8396810 32769 136249361 67109056 1000 S
+47 0 -34 100d99+19000 15d20+30
+1600000 1269000
+8 8 0
+0 0 17 16 15 16 12 14
+SKILL=SPELL_CURSE 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_HEAL_MAJOR 50
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+#7405
+mob gedariah~
+Gedariah~
+Gedariah, the spiritual advisor of man stands here.
+~
+This is quite possibly the most holy of the angels.  This angel is the head of
+prayer and teachings.  His teachings are passed down all the time upon the 
+clergymen of the world.
+~
+8658954 32769 136249393 67109056 1000 S
+47 1 -34 100d99+17500 5d97+67
+3333333 945000
+8 8 0
+0 0 17 16 16 15 14 15
+SKILL=SPELL_TREMOR 65
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_HEAL_MAJOR 25
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_FIRESTORM 50
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+#7406
+mob cupid wayne~
+Wayne the cupid~
+Wayne the cupid is guarding the fourth gates.
+~
+Wayne is the guardian to the fourth level of Heaven.  You must pass him before
+you can go onward up heavens gates.  He is a worthy advesary indeed.
+~
+262154 1 136249361 1140850912 1000 S
+44 5 -30 100d100+12000 10d50+50
+2000000 792000
+8 8 0
+0 0 17 15 14 16 13 12
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7407
+mob celestial~
+A celestial~
+A celestial wanders about here.
+~
+You can see this celestial was once a some kind of religeous figure.  All of
+the celestials here were men of some kind of significance.
+~
+33816584 32769 136249361 1677721792 1000 S
+43 3 -28 100d100+7000 5d80+50
+1450000 645000
+8 8 0
+0 0 17 17 14 14 14 15
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_SMITE 99
+#7408
+mob sabrina~
+Sabrina, the muse~
+Sabrina, the muse wanders about here.
+~
+This is a very beautiful muse.  Sabrina wanders around trying to find and give
+insperation.
+~
+262216 1 136249361 67633280 1000 S
+43 1 -28 100d100+7000 10d10+40
+1590000 645000
+8 8 0
+0 0 16 18 16 14 12 15
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#7409
+mob soshia muse~
+Soshia, the muse~
+Soshia, the muse walks about here looking to find some inspiration.
+~
+Soshia is a rather popular muse her insperations are of a sexual nature.
+~
+262152 1 136249361 128 1000 S
+43 1 -28 100d100+7000 10d10+40
+1600000 645000
+8 8 0
+0 0 16 16 16 16 13 14
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#7410
+mob emily muse~
+Emily, a muse~
+Emily, a muse wanders about looking for inspiration.
+~
+This is a rather beautiful woman.  Her smile can only have come from heaven she
+is a muse of love and aspirations.  You can see by the way her hair falls down
+her back that she can drop the jaw of any mortal man (and most women.)
+~
+262152 32769 136249361 67109056 1000 S
+43 2 -28 100d100+7000 10d10+40
+1500000 645000
+8 8 0
+0 0 17 17 14 15 13 12
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#7411
+mob natasha muse~
+Natasha, the muse~
+Natasha is here wandering about.
+~
+Natasha is wandering about these halls trying to find some insperation for 
+technology.  That is what she is passionate about.  Most of the muses deal
+with a part of life they help humans learn.
+~
+262152 1 136249361 67108992 1000 S
+43 2 -28 100d100+7000 10d10+40
+1500000 645000
+8 8 0
+0 0 16 15 15 14 12 14
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#7412
+mob haley muse~
+Haley, the muse~
+Haley, the muse is floating about.
+~
+Haley, is a small sprite like spirit.  She carries with her some magical wings
+that help her speed up.  She is the muse of speed, and velocity.  She inspires
+mankind to go faster and further quicker.
+~
+262152 1 136249361 67108992 1000 S
+43 2 -29 100d100+7000 10d10+40
+1600000 645000
+8 8 0
+0 0 16 17 15 15 13 14
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#7413
+mob kelly muse~
+Kelly, the muse~
+Kelly, the muse walks about these halls.
+~
+Kelly is a wonderful muse indeed.  She has a warm smile and short hair.  She
+has the face of a pixie and the body that is all woman.  She helps mankind with
+her inspirations toward exceling in life.  She has a warm wit and inteligence.
+~
+262152 1 136249361 128 1000 S
+43 1 -27 100d100+7000 10d10+40
+1600000 645000
+8 8 0
+0 0 16 18 14 14 14 11
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#7414
+mob sebastian cupid~
+Sebastian, the cupid~
+Sebastian, guardian of the third gates is keeping intruders out.
+~
+This is Sebastian, one of the choir of cupids.  He is also the guardian of the
+gates to the third level of heaven.  You can see the cupids are a tough 
+group of fighters.
+~
+270346 32769 136249361 67371136 1000 S
+45 0 -30 100d100+10000 25d20+40
+2200000 945000
+8 8 0
+0 0 16 15 15 15 14 12
+ATTACK_SKILL=50
+ATTACK_SKILL=5
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+#7415
+mob micah~
+Micah~
+Micah, the Seraph is here to help man guide his destiny.
+~
+Micah, is the angel who oversees mankinds destiny.  He is the angel that invokes
+progress in the world.  All of man's research and devolopment have been 
+attributed to Micah.
+~
+8658954 32769 136249361 2097280 1000 S
+47 0 -34 100d100+16550 50d7+5
+3000000 1269000
+8 8 0
+0 0 16 16 16 14 15 13
+ATTACK_SKILL=25
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=25
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=100
+#7416
+mob silvery dragon~
+The silvery dragon~
+The silvery dragon is standing here.
+~
+This dragon is intense indeed.  You can see by his silvery scales that he is
+highly intelligent indeed.  He lets off a fierce scream when he goes into battle
+that can be heard for miles around.  This dragon breaths are are powerful and
+almost as strong as his razor sharp claws.
+~
+71630872 32769 136249361 67109288 0 S
+48 0 -35 100d100+20000 100d10+75
+3700000 1750000
+8 8 0
+11 0 25 25 25 25 25 25
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 75
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+#7417
+mob anael~
+Anael, the seraph~
+Anael, the seraph stands before you
+~
+Anael is the seraph of the moon and human sexuality.  Anael is the keeper of
+the second level of heaven.  You can see it's giant strength and size could
+easily destroy any human being.  It will take a special mortal to take on any
+seraphim inside the levels of heaven.
+~
+8396810 32769 136249361 67108992 1000 S
+47 0 -34 100d100+17500 25d30+75
+3000000 1300000
+8 8 0
+0 0 25 25 25 25 25 25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7418
+mob rhonda cupid~
+Rhonda, the cupid~
+Rhonda is here guarding the gates.
+~
+Rhonda is a powerful cupid indeed.  She guards the next level of heaven from
+evil outsiders.  Rhonda carries herself with confidence, and grace.  She has
+long brown hair that streatches half way down her back.  She is petite in size
+however, she is one powerful and explosive package.  You can see by the smile
+on her face she greets others in a kind and friendly manor.  However, watch
+out and don't make her mad.
+~
+10 1 136249361 67108992 1000 S
+45 1 -25 100d100+12000 25d25+75
+2000000 945000
+8 8 0
+0 0 18 25 25 14 13 14
+#7419
+mob Carla muse~
+Carla, the muse~
+Carla, the muse stands here glowing with asperations
+~
+Carla stands before you beaming with a holy glow.  She is the muse of goodness
+She inspires, mankind to treat each other with dignity and self respect.
+~
+262152 32769 136249361 67109056 1000 S
+43 2 -28 100d100+7000 100d3+75
+1300000 645000
+8 8 0
+0 0 17 17 14 15 13 12
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+#7420
+mob marcus watcher~
+Marcus, the watcher~
+Marcus, the watcher watches over mans fornications.
+~
+Marcus is the watcher who sees all mankind's debauchery.  He has taken his post
+because of all the sins he commited on earth in this department.  Before Marcus
+was sent to the realm of the angels, he confessed his sins and forced himself
+into abstainance.  God allowed him into the ranks of the angels and of the
+watchers because of his keen ability to see a commandment breaker.
+~
+243540554 1 136253489 606077128 1000 S
+46 1 -25 100d100+15000 100d10+85
+2600000 1104000
+8 8 0
+0 0 25 25 25 25 25 25
+#7421
+mob lebes watcher~
+Lebes, the watchman~
+Lebes, the watchman of mankinds treatment towards others.
+~
+Lebes, is the watcher of mankind's treatment towards others.  He sees the way
+people interact with each other and writes it down for judgement day.  You
+can see by the red cross banner he carries, he is also a healer of man.  
+Beware, any deeds you do; good or bad will be written down in his endless book.
+~
+209986122 1 136253489 606077128 1000 S
+46 1 -25 100d100+15000 100d10+85
+2600000 1104000
+8 8 0
+0 0 25 25 25 25 25 25
+#7422
+mob ramiel watcher~
+Ramiel, the watchman~
+Ramiel, watches over mankinds understanding and compasion.
+~
+Ramiel watches over mankinds shows of compasion and understanding.  He is the
+angel of true divine inspiration.  Ramiel watches mans interactions of
+compassion and how humans see the views of each other.  He also shows man
+how their actions have affected the lives of people around them at death.
+~
+209986122 32769 136253489 606077128 1000 S
+46 1 -25 100d100+15000 100d10+85
+2600000 1104000
+8 8 0
+0 0 25 25 25 25 25 25
+#7423
+mob yurkemi watcher~
+Yurkemi, the watcher~
+Yurkemi, the watcher of mankinds basic desires and secrets.
+~
+This watcher looks at mans inner-self.  They know all the skeletans in everyones
+closet.  "God knows what you are thinking so you might as well say it.", is his
+motto.  Yurkemi writes down your deep down feelings in his book.  When judgement
+day comes, what you think and what you feel will also be judged.
+~
+209986122 32769 136253489 606077128 1000 S
+46 1 -25 100d100+15000 100d10+85
+2600000 1104000
+8 8 0
+0 0 25 25 25 25 25 25
+#7424
+mob bartlebee watcher~
+Bartlebee, the Head Watcher~
+Bartlebee, the Head Watcher is standing above you.
+~
+This angel hoovers above you.  It stands at about fifteen feet tall.  The wings
+are bloody and scabbed.  He may be the head watcher but he has been in his fair
+share of fights.  He was one of the few that survived to cast Lucifer down into
+hell.  He knows all of mans deeds, as all other watchers report to him.  
+Bartlebee answers only to God itself.
+~
+209987402 1081345 136253489 614990312 1000 S
+48 0 -30 100d100+37000 35d18+85
+3000000 1600000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#7425
+mob loki seraphim~
+Loki, The Seraphim~
+Loki, The Seraphim stands before you.
+~
+Loki is as handsome as he is dangerous.  He is strong in arms and he has
+been the wrath of god for many centuries.  He was the angel responsible for
+the flood that Noah built an arc for.  He rained down sulphur at Sodom and
+Gomorrah.  Any punishment god has set forth Loki has carried out.  He guards
+the gate to the 6th level of Heaven.
+~
+67117322 32769 136249361 67108992 1000 S
+48 0 -40 100d100+35000 100d18+75
+3600000 1500000
+8 8 0
+0 0 25 25 25 25 25 25
+#7426
+mob watcher~
+A lower watcher~
+A lower watcher stands here checking out the halls.
+~
+These watchers are low on the totem pole for the watchers.  They run errands
+and do general checking for the other watchers.  They also protect the halls
+from intruders.
+~
+134226440 32769 136253457 128 1000 S
+46 0 -30 100d100+15000 100d10+65
+1000000 1200000
+8 8 0
+0 0 16 16 15 15 13 12
+SKILL=SKILL_KICK 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+#7427
+mob cupid~
+A cupid~
+A cupid roaming the halls.
+~
+These creatures are guardians of the heavens.  They are warriors by creation
+and savages by sport.  Most places in the bible where destruction was done by
+an angel, it was done by a cupid.  They are not the nice little love being
+most people mistake them for.
+~
+8 1 136249361 67108992 1000 S
+44 1 -30 1d1+13000 10d10+25
+1800000 792000
+8 8 0
+0 0 25 18 14 14 13 13
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+#7428
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 15 15 14 14
+$~
+#999999

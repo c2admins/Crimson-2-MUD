@@ -1,0 +1,255 @@
+#15800
+Before the Vacuum~
+
+You stand on the verge of the vacuum of space.  As the air behind you blasts
+by, you wonder how you'll manage to breathe.  Luckily for you, an unseen
+presence has granted you a pardon from death by asphyxiation.  Stars, planets,
+and other astronomical phenomina can be seen from here.  Wait, did you just 
+see a star move?  Nah...these things stay in place, don't they?
+
+You notice some etchings on an asteroid floating by...
+
+~
+94 12 0 47 99 0
+D0
+beyond the atmosphere~
+beyond the atmosphere~
+0 -1 15801
+E
+asteroid~
+
+Hi!
+
+Since you spent the time to look at my asteroid, I might as well blather on
+a bit.  This level is intended for players between level 20 and level 41.
+The alignment here changes back and forth, so for Avatars you'll need to pay
+attention to the mobs.  For the mortals, most of the mobs are neutral...but
+you'll still want to keep an eye out.
+
+Enjoy the zone and tell me what you think.
+
+-Orion.
+
+~
+E
+south~
+The entrance to Paradise.
+~
+E
+sign ~
+
+Welcome!
+
+This zone is for all of those fun-loving characters levels 20-41!
+
+BEWARE: You may find that some parts of this zone aren't as nice as others...
+~
+E
+sign~
+~
+E
+to paradise~
+The entrance to Paradise.
+~
+S
+#15801
+Adrift in space...~
+
+You float here in the vacuum of space.  Looking around, you notice some 
+familiar constellations.
+~
+94 134217740 0 47 99 2
+D0
+further into space
+~
+~
+0 -1 15802
+D2
+entrance to the Astral Planes~
+entrance to the Astral Planes~
+0 -1 15800
+S
+#15802
+&wthe &Wt&whi&Wn &Ci&cc&Ce&n~
+
+You see bodies scattered across the ice.  Looking down, you see a few trapped souls
+who couldn't claw their way back up from below the ice...their masks of frustration
+frozen on their faces.  It's apparent that anguish and misery abound on this field.
+
+This isn't Hell.  This is Hockey.
+
+~
+94 1612709920 1048576 47 99 2
+D5
+&wb&Wel&wow the &Wt&whi&Wn &Ci&cc&Ce&n
+~
+~
+16 -1 15803
+S
+#15803
+&Wo&wu&Wt &wof your &Cd&cept&Ch&n~
+
+You've fallen through the ice!
+~
+94 335551500 0 47 99 8
+S
+#15804
+&ythe &YPy&yra&Ym&yi&Yd&ys&n~
+This area of the zone should be developed into a pretty decently-sized pyramid.  Remember: pyramids built
+for pharohs had traps and mazes --> DTs required.
+
+Darius Zechariah should maybe be here?  Get Soul-Calibur so that you can work on the four horsemen
+and then Apocalypse...
+~
+94 8 0 47 99 2
+S
+#15805
+Room for Disraeli~
+
+You can use objects 15836-15843 to remake Narsil.
+
+According to the production port, there are 5 pieces of Narsil.
+
+The are:
+
+ * Shard1 Narsil
+ * Shard2 Narsil
+ * Shard3 Narsil
+ * Shard4 Narsil
+ * Hilt Sword Narsil
+
+And lastly, the actual object Legendary Sword Narsil
+
+Oh, by the way, nothing is capitalized in the okeywords on the production port.
+You don't need to capitalize anything over here either.
+
+~
+94 8 0 47 99 2
+S
+#15806
+nothing yet~
+
+~
+94 8 0 47 99 2
+S
+#15807
+nothing yet~
+
+~
+94 12 0 47 99 6
+S
+#15808
+nothing yet~
+
+~
+94 8 0 47 99 6
+S
+#15809
+nothing yet~
+UNDEFINED ROOM DESCRIPTION: 15809
+~
+94 8 0 47 99 0
+S
+#15810
+nothing yet~
+
+~
+94 8 0 47 99 6
+S
+#15811
+nothing yet~
+
+~
+94 8 0 47 99 6
+S
+#15812
+nothing yet~
+
+~
+94 8 0 47 99 6
+S
+#15813
+nothing yet~
+
+~
+94 8 0 47 99 6
+S
+#15814
+nothing yet~
+
+~
+94 8 0 1 99 6
+S
+#15815
+nothing yet~
+
+~
+94 0 0 47 99 2
+S
+#15816
+&wAt the gates of &WZ&wio&Wn&n~
+
+~
+94 1073741824 536870912 41 99 2
+D2
+~
+path~
+1 0 15817
+S
+#15817
+&WOn the &Rbattle&rfield&n~
+
+~
+94 0 0 1 99 2
+D0
+~
+path~
+1 0 15816
+D2
+To the &Gw&ga&ys&Kted fi&yeld&Ks&n.
+~
+path~
+1 0 15818
+S
+#15818
+&wt&Wh&we &Gw&ga&yst&Ked fi&yeld&Ks&n~
+
+~
+94 1342177280 536870912 41 99 2
+D0
+~
+path~
+1 0 15817
+D2
+&wTo the &Wg&wat&Wes &wof &RHe&rl&Yl&w.&n
+~
+path~
+33 0 15819
+S
+#15819
+&wthe &Wg&wat&We &wto &RHe&rl&Yl&n~
+
+&KYou stand before the gate to hell, questioning your resolve.  You can hear the ominous sounds
+behind the gate...a dark thrumming of evil forces.  You feel the urge to scream and weep, though
+you find yourself incapable of either.  Panic is gripping your very soul.
+Between you and hell is the ultimate gate keeper: the fourth horseman of the apocalypse - Death.
+&n
+~
+94 1342177280 536870912 41 99 2
+D0
+&wTo the &Gw&ga&yst&Ked fi&yeld&Ks&w.&n
+~
+path~
+33 0 15818
+S
+#15820
+Hillary's room.~
+
+As you enter the room a feeling of peace fills your body.  The room is all
+white and very clean, which is totally opposite from the rest of the island.
+
+~
+94 0 0 47 99 2
+S
+$~
+#999999

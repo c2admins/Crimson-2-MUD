@@ -1,0 +1,1762 @@
+#14200
+Edge of the valley.~
+You are standing at the edge of a deep valley.  From here you can see a river
+running through the valley, and a mass of vegetation has burst into life 
+along it's banks, creating a paradise in the middle of the desert.
+The desert stretches away to the north.
+~
+77 0 8 1 99 2
+D5
+A path leads down the side of the valley.
+~
+~
+0 -1 14201
+S
+#14201
+The Sand Sea~
+The desert reaches out as far as you can see in all directions.  You see a 
+faint speck on the south horizon.
+~
+77 0 8 1 99 2
+D0
+~
+~
+0 -1 5267
+D2
+~
+~
+0 -1 14202
+S
+#14202
+In the Desert~
+The sun blazes down from above with intense heat. Sweat seeps from your pores
+making your clothes cling to your skin. Nothing is to be seen in any direction
+except for a speck on the south horizon.
+~
+77 0 8 1 99 2
+D0
+To the north is the edge of the desert.
+~
+~
+0 -1 14201
+D2
+The desert continues to the south.
+~
+~
+0 -1 14203
+S
+#14203
+In the Desert~
+The speck on the horizon grows larger as you plod south through the mountains
+of sand. The sun continues to burn your skin, and your tounge has dried like
+a mound of baked clay in your mouth. A small pool of water appears far to the 
+west.
+~
+77 1342177284 536870920 1 99 2
+D0
+The desert continues to the north.
+~
+~
+0 -1 14202
+D2
+The desert continues to the south.
+~
+~
+0 -1 14205
+D3
+A shimmering pool lies to the west.
+~
+~
+0 -1 14204
+S
+#14204
+The Mirage~
+  As you approach this "pool" in the sand, it slowly fades out of existance. You
+have been fooled by a mirage! However, a hungry looking bronze dragon will oblige
+to capitalize on your mistake.
+~
+77 1879048192 536870920 1 99 2
+D1
+The desert continues to the east.
+~
+~
+0 -1 14203
+S
+#14205
+In the Desert~
+The structure on the horizon appears larger are you approach, and you can now
+see the outline of a city with an immense structure at it's center!
+~
+77 4 0 1 99 2
+D0
+The desert continues to the north.
+~
+~
+0 -1 14203
+D2
+A city lies to the south.
+~
+~
+0 -1 14206
+S
+#14206
+At the Gate~
+You have reached the gate of a city of considerable size. The doors are
+made of heavy wood, and the wall around the city stands 20 feet high. Over
+the wall you can see the point of an immense pyramid!
+~
+77 8 0 1 99 1
+D0
+The desert expands to the north.
+~
+~
+0 -1 14205
+D2
+Inside the gate you see a crowded city street.
+~
+~
+0 -1 14207
+S
+#14207
+Inside the Gate~
+The pyramid comes into almost complete view as you pass through the gate. It
+is the largest man-made structure that you have ever seen! To the north-west
+you see a palace and to the south is a crowded marketplace.
+~
+77 8 0 1 99 1
+D0
+The gate to the city.~
+~
+0 -1 14206
+D2
+A crowded market.~
+~
+0 -1 14209
+D3
+A small house.
+~
+~
+0 -1 14208
+S
+#14208
+Guard House~
+Some gate guards are here gambling with dice. The room is sparsely furnished.
+~
+77 8 0 1 99 1
+D1
+You can see the gate from here.~
+~
+0 -1 14207
+S
+#14209
+The Market~
+You have entered a crowded market. Various peddlers try to barter their goods
+for a living, while the streets are lines with shops. To the west you see a
+road with small houses, and the market continues to the south.
+~
+77 8 0 1 99 1
+D0
+The gate is north.
+~
+~
+0 -1 14207
+D2
+A crowded market.
+~
+~
+0 -1 14210
+D3
+A city street.
+~
+~
+0 -1 14219
+S
+#14210
+The Market~
+The streets are lined with shops, and the pyramid lies to the south.
+~
+77 8 0 1 99 1
+D0
+A crowded market.
+~
+~
+0 -1 14209
+D1
+A sign says 'Skins of the Desert Beetle.'
+~
+~
+0 -1 14216
+D2
+A crowded market.
+
+~
+~
+0 -1 14211
+D3
+A sign says 'Rez's World of Weapons'
+~
+~
+0 -1 14215
+S
+#14211
+The Market~
+The streets are lined with shops, and the pyramid lies to the south.
+~
+77 8 0 1 99 1
+D0
+A crowded market.
+~
+~
+0 -1 14210
+D1
+A sign says, 'Food of the Gods.'
+~
+~
+0 -1 14217
+D2
+An open road.
+~
+~
+0 -1 14212
+D3
+A sign says, 'Mystery of the Sands'
+~
+~
+0 -1 14218
+S
+#14212
+A Paved Street~
+The the street continues north to the market and south to the pyramid. You can
+now see the immense structure in full view. Legends have told of abundant and
+exotic treasures that lie within.
+~
+77 8 0 1 99 1
+D0
+A crowded market.
+~
+~
+0 -1 14211
+D2
+A guard post.
+~
+~
+0 -1 14213
+S
+#14213
+Guard Post~
+Guards have been posted here outside the doors to the pyramid to insure that
+no trespassing occurs. The pyramid is sealed with two worn iron doors.
+~
+77 8 0 1 99 1
+D0
+An open road.~
+~
+0 -1 14212
+D2
+The interior of the temple is dark.
+~
+door~
+13 14224 14242
+D3
+A large house.
+~
+~
+0 -1 14214
+S
+#14214
+Guard House of the Pyramid~
+This is a well furnished house with several beds in it. The guards seem to
+work in shifts in order to keep the gate guarded around the clock.
+~
+77 8 0 1 99 1
+D1
+The gate to the pyramid.
+~
+~
+0 -1 14213
+S
+#14215
+Rez's World of Weapons~
+A fat man sits behind a counter eyeing you suspiciously. A sign here says,
+"NO CREDIT--CASH ONLY."
+~
+77 8 0 1 99 1
+D1
+A crowded market.
+~
+~
+0 -1 14210
+S
+#14216
+Skins of the Desert Beetle~
+A shopkeeper is here selling body wears for combat.
+~
+77 8 0 1 99 1
+D3
+A crowded market.
+~
+~
+0 -1 14210
+S
+#14217
+Food of the Gods~
+A shopkeeper welcomes you into this small store. 'I have the best food in all
+of Egypt for you!' he exclaims.
+~
+77 8 0 1 99 1
+D3
+A crowded market.
+~
+~
+0 -1 14211
+S
+#14218
+Mystery of the Sands~
+Several messy shelves are filled with scrolls and books. A shopkeeper raises
+his eyebrow as you enter.
+~
+77 8 0 1 99 1
+D1
+A crowded market.
+~
+~
+0 -1 14211
+S
+#14219
+A City Street~
+This street leads west to the palace. Several small houses lie to the east and
+west.
+~
+77 8 0 1 99 1
+D0
+A small house.
+~
+~
+0 -1 14221
+D1
+A crowded market.
+~
+~
+0 -1 14209
+D3
+A city street.
+~
+~
+0 -1 14220
+S
+#14220
+A City Street~
+This street leads west to the palace. Several small houses lie to the east and
+west.
+~
+77 8 0 1 99 1
+D1
+A city street.
+~
+~
+0 -1 14219
+D2
+A small house.
+~
+~
+0 -1 14222
+D3
+The palace stands in all its glory to the west.
+~
+~
+0 -1 14223
+S
+#14221
+A Commoner's House~
+This is a simple home of a family in the city. It is poorly funished but 
+clean. Several rolls of hay are stretched out on the floor.
+~
+77 8 0 1 99 1
+D2
+A city street.
+~
+~
+0 -1 14219
+S
+#14222
+A Commoner's Home~
+Like many other homes in the city, this house belongs to a poor wage earner
+who works for the queen. It contains little more than the bare necessities for
+living.
+~
+77 8 0 1 99 1
+D0
+A city street.
+~
+~
+0 -1 14220
+S
+#14223
+Approaching the Palace~
+The street here is paved and the buildings are extravagant. To the west lies
+the gate to the palace of Cleopatra, Queen of the Eqyptians.
+~
+77 8 0 1 99 1
+D1
+A city street.
+~
+~
+0 -1 14220
+D3
+A great palace lies to the west.
+~
+~
+0 -1 14224
+S
+#14224
+At the Palace Gates~
+Two huge marble doors block your way. This is the entrance to the palace of
+Cleopatra, queen of the Eqyptians. Legends of her beauty have spread across
+the surrounding lands, and many suitors have come and gone in an attempt to
+court her.
+~
+77 8 0 1 99 1
+D1
+A paved street.
+~
+x~
+0 0 14223
+D3
+The interior of the palace is bright and colorful.
+~
+gate~
+13 14223 14225
+S
+#14225
+Entrance to the Palace~
+The interior of the palace leaves you in awe. The floors are made of polished
+marble and the ceilings are 30 feet high and adorned with colorful
+art. Several common items such as doorknobs and hinges are made of solid gold!
+A large door lies to the north.
+~
+77 8 0 1 99 1
+D0
+A wooden door is set in the north wall.
+~
+door~
+9 -1 14227
+D1
+the castle gate.
+~
+gate~
+13 14223 14224
+D2
+A small, dull room no bigger than a large closet.
+~
+~
+0 -1 14226
+D3
+The beautiful palace courtyard lies to the west.
+~
+~
+0 -1 14228
+S
+#14226
+Storage Room~
+This is a small storage room. Guards are here protecting the palace water
+supply from thirsty thieves.
+~
+77 8 0 1 99 1
+D0
+A foyer lies to the north.
+~
+~
+0 -1 14225
+S
+#14227
+Captain's Room~
+This room belongs to the captain of the guard for the entire town. He lives 
+a good life, as the queen provides for his almost every whim. Upon the walls
+are tapestries depicting a great battle.
+~
+77 8 0 1 99 1
+D2
+A foyer lies to the south.
+~
+door~
+9 -1 14225
+S
+#14228
+The Palace Courtyard~
+The extravagant courtyard is bathed in light from above. Several potted plants
+line the walls.
+~
+77 8 0 1 99 1
+D0
+The courtyard continues to the north.
+~
+~
+0 -1 14230
+D1
+A foyer.
+~
+~
+0 -1 14225
+D2
+The courtyard continues to the south.
+~
+~
+0 -1 14231
+D3
+The courtyard continues to the east.
+~
+~
+0 -1 14229
+S
+#14229
+The Palace Courtyard~
+The extravagant courtyard is bathed in light from above. Several potted plants
+line the walls.
+~
+77 8 0 1 99 1
+D0
+The courtyard continues to the north.
+~
+~
+0 -1 14233
+D1
+The courtyard continues to the west.
+~
+~
+0 -1 14228
+D2
+The courtyard continues to the south.
+~
+~
+0 -1 14232
+D3
+A golden throne rests utop a small staircase to the west.
+~
+~
+0 -1 14234
+S
+#14230
+The Palace Courtyard~
+The extravagant courtyard is bathed in light from above. Several potted plants
+line the walls.
+~
+77 8 0 1 99 1
+D2
+The courtyard continues to the south.
+~
+~
+0 -1 14228
+D3
+The courtyard continues to the west.
+~
+~
+0 -1 14233
+S
+#14231
+The Palace Courtyard~
+The extravagant courtyard is bathed in light from above. Several potted plants
+line the walls.
+~
+77 8 0 1 99 1
+D0
+The courtyard continues to the north.
+~
+~
+0 -1 14228
+D3
+The courtyard continues to the west.
+~
+~
+0 -1 14232
+S
+#14232
+The Palace Courtyard~
+A small door lies in the south wall bordered by two potted plants.
+~
+77 8 0 1 99 1
+D0
+The courtyard continues to the north.
+~
+~
+0 -1 14229
+D1
+The courtyard continues to the east.
+~
+~
+0 -1 14231
+D2
+A small wooden door blocks your view.
+~
+door~
+9 -1 14241
+D3
+The courtyard continues to the west.
+~
+~
+0 -1 14236
+S
+#14233
+The Palace Courtyard~
+This area is silimar to the rest of the courtyard, except for a door in the
+north wall.
+~
+77 8 0 1 99 1
+D0
+A large marble door lies in the north wall.
+~
+door~
+9 -1 14237
+D1
+The courtyard continues to the east.
+~
+~
+0 -1 14230
+D2
+The courtyard continues to the south.
+~
+~
+0 -1 14229
+D3
+The courtyard continues to the west.
+~
+~
+0 -1 14235
+S
+#14234
+Before the Throne~
+The is the throne at which Cleopatra sits when she holds court. However, it
+is empty now. The solid gold throne glows brightly in the sunlight.
+~
+77 8 0 1 99 1
+D0
+The courtyard continues north.
+~
+~
+0 -1 14235
+D1
+The courtyard continues to the east.
+~
+~
+0 -1 14229
+D2
+The courtyard continues to the south.
+~
+~
+0 -1 14236
+S
+#14235
+The Palace Courtyard~
+A large door made of solid gold lies to the west. You have a feeling that they
+lead to someplace important.
+~
+77 8 0 1 99 1
+D1
+The courtyard continues to the east.
+~
+~
+0 -1 14233
+D2
+A throne made of solid gold is to the south.
+~
+~
+0 -1 14234
+D3
+The room ahead is dark.
+~
+door~
+13 14222 14238
+S
+#14236
+The Palace Courtyard~
+The extravagant courtyard is bathed in light from above. Several potted plants
+line the walls.
+~
+77 8 0 1 99 1
+D0
+To the north is a throne made of solid gold.
+~
+~
+0 -1 14234
+D1
+The courtyard continues to the east.
+~
+~
+0 -1 14232
+S
+#14237
+The Guest Bedroom~
+Staying in the palace is a "special guest", Antonious. He is here to provide
+special "services" for the queen. However, he is now pouring over a tactical
+map depicting a sea battle.
+~
+77 8 0 1 99 1
+D2
+The courtyard lies to the south.
+~
+door~
+9 -1 14233
+S
+#14238
+The Antechamber~
+This dark chamber is bare except for a large bed and a small table with
+chairs. However, I large dark man rises from the corner and says, 'STOP!
+I shall protect Cleopatra from all intruders!'
+~
+77 8 0 1 99 1
+D1
+To the west lies the courtyard.
+~
+door~
+13 14222 14235
+D3
+Your view is obstructed by silk curtains hanging from ceiling to floor.
+~
+~
+0 -1 14239
+S
+#14239
+The Bedroom of Cleopatra~
+This chamber is filled with huge couches and beds. The sheets are made with
+silk and large curtains and veils hang down from the ceiling blocking out most
+of the light. A shapely woman is here, wearing a golden veil.
+~
+77 8 0 1 99 1
+D0
+A small room lit from sunlight.
+~
+~
+0 -1 14240
+D1
+The room to the west is dark.
+~
+~
+0 -1 14238
+S
+#14240
+The Royal Bath~
+This room is lit with bright light from above. A large wooden chair has been
+placed before a giant mirror, and a large man made pool is in the far north
+corner. Several toiletry items have been scattered on a bureau.
+~
+77 8 0 1 99 1
+D2
+The room to the south is dimly lit making it difficult to see.
+~
+~
+0 -1 14239
+S
+#14241
+Vangar's Chamber~
+This room belongs to the famed Egyptian general, Vangar. He has been known
+for pointless killings and tortures, but is also respected for his cunning
+tactics and determination.
+~
+77 8 0 1 99 1
+D0
+The courtyard lies to the north.
+~
+door~
+9 -1 14232
+S
+#14242
+Entryway to the Pyramid~
+This room is lit only by the dim light that pours in from the north door. The 
+only exit leads south into the darkness. Strange symbols have been etched
+and painted on the walls.
+~
+77 12 0 1 99 1
+D0
+An exit from the pyramid.
+~
+door~
+13 14224 14213
+D2
+The pale light fades into the darkness.
+~
+~
+0 -1 14243
+S
+#14243
+Long Hallway~
+The passage narrows slightly as an intense musty smell permeates the room.
+Nothing is of interest is here except for the strange symbols upon the walls.
+~
+77 9 0 1 99 0
+D0
+A dim light shines from the north.
+~
+~
+0 -1 14242
+D2
+It is too dark to see further.
+~
+~
+0 -1 14244
+S
+#14244
+The Junction~
+Hallways branch off in all directions, leaving you confused.
+~
+77 9 0 1 99 0
+D0
+It is too dark to see further.
+~
+~
+0 -1 14243
+D1
+A dusty path lies east.
+~
+~
+0 -1 14253
+D2
+It is far too dark to see anything.
+~
+~
+0 -1 14254
+D3
+It is too dark to see further.
+~
+~
+0 -1 14245
+S
+#14245
+A Wide Hallyway~
+The hallway widens here, allowing space for ten men to stand abreast.
+~
+77 9 0 1 99 0
+D1
+It is tooo dark to see further.
+~
+~
+0 -1 14244
+D3
+It is too dark to see.
+~
+~
+0 -1 14246
+S
+#14246
+Junction Deep in the Pyramid~
+The air around you grows colder and you realize that you may be lost...
+~
+77 9 0 1 99 0
+D0
+It is too dark to see a thing!
+~
+~
+0 -1 14247
+D1
+It is too dark to see.
+~
+~
+0 -1 14245
+D3
+The darkness is impenetrable.
+~
+~
+0 -1 14249
+S
+#14247
+A Sloping Passage~
+The floor here begins to slope downward slightly, and the passage becomes 
+more narrow. Nothing can be seen in the darkness ahead.
+~
+77 9 0 1 99 0
+D0
+It is pitch black.
+~
+~
+0 -1 14248
+D2
+It is very dark.
+~
+~
+0 -1 14246
+S
+#14248
+The Slave Pit~
+This is tonb for several of the pharaoh's slaves who were sacrificed so they
+could serve him in the after-life. The room is small and plain, and several sk
+skeletons lie on the floor.
+~
+77 9 0 1 99 0
+D2
+It is pitch black.
+~
+~
+0 -1 14247
+S
+#14249
+Hallway Deep in the Pyramid~
+Among the plethora of colorful drawings upon the walls you notice blood stains
+ and claw marks. A rusty hilt from a long-broken sword lies here.
+~
+77 9 0 1 99 0
+D1
+It is very dark there.
+~
+~
+0 -1 14246
+D3
+It is very dark there, you can't see a thing!
+~
+~
+0 -1 14250
+S
+#14250
+A Ladder~
+A large wooden ladder leads up through a hole of considerable size in the
+ceiling.
+~
+77 9 0 1 99 0
+D1
+It is too dark to see.
+~
+~
+0 -1 14249
+D4
+The ladder leads up into the darkness.
+~
+~
+0 -1 14251
+S
+#14251
+A Ladder~
+This room contains a large ship that was supposed to carry the pharaoh's soul
+into the next life. It is now rotting and smelly. I ladder leads down
+.
+~
+77 9 0 1 99 0
+D1
+It is too dark to see there.
+~
+~
+0 -1 14266
+D5
+The ladder leads down into the darkness.
+~
+~
+0 -1 14250
+S
+#14252
+The Junction~
+Hallways branch off in all directions, leaving you confused.
+~
+77 8 0 1 99 1
+D2
+It is too dark.
+~
+~
+0 -1 14244
+S
+#14253
+Dusty Passage~
+The choking dust makes it difficult to breath.  The tunnel continues east and
+west.
+~
+77 9 0 1 99 0
+D1
+The dusty passage continues east.
+~
+~
+0 -1 14255
+D3
+West: the junction.
+~
+~
+0 -1 14244
+S
+#14254
+Tapering Hallway~
+The walls gradually narrow in as you continue south. Nothing of interest is
+to be found here. You get an eerie feeling as you look into the darkness.
+~
+77 9 0 1 99 0
+D0
+It is too dark to see.
+~
+~
+0 -1 14244
+D2
+It is too dark to see.
+~
+~
+0 -1 14257
+S
+#14255
+Dusty Passage~
+The dust gets thicker.  The walls in this passage were poorly constructed,
+and the mortar is crumbling.
+~
+77 9 0 1 99 0
+D1
+Dust obscures your view to the east.
+~
+~
+0 -1 14256
+D3
+A dusty passage lies west.
+~
+~
+0 -1 14253
+S
+#14256
+Crumbling Junction~
+Tunnels branch in all directions.  You see old yellowed bones lying around,
+bones of something not quite human.
+~
+77 9 0 1 99 0
+D0
+A tiny passage is north.
+~
+~
+0 -1 14284
+D1
+You think the cracked and smoking floor to the east looks EXTREMELY dangerous.
+~
+~
+0 -1 14283
+D2
+A dark passage lies south.
+~
+~
+0 -1 14258
+D3
+The dusty passage is west.
+~
+~
+0 -1 14255
+S
+#14257
+Junction Deep in the Pyramid~
+You have ventured far into the pyramid. The walls all begin to appear the same
+and you feel lost.
+~
+77 9 0 1 99 0
+D0
+It is very dark.
+~
+~
+0 -1 14254
+D1
+It is too dark to see there.
+~
+~
+0 -1 14259
+D3
+You feel a chill down your spine as you look west, but curiosity compells you
+to venture in that direction.
+~
+~
+0 -1 14261
+S
+#14258
+Dark Passage~
+You think this tunnel doesn't look quite safe, and the sprinkling of dust
+that lands on your shoulder confirms your suspicions.
+~
+77 9 0 1 99 0
+D0
+To the north is a junction.
+~
+~
+0 -1 14256
+D2
+The passage continues south.
+~
+~
+0 -1 14274
+S
+#14259
+Red Hallway~
+The symbols etched into the walls here depict great battles and the pillage
+of hard won victories. The paints used are deep red in color, and almost seem
+to be the hues of dried human blood! The hallway continues to the east and
+west.
+~
+77 9 0 1 99 0
+D1
+The walls fade into the darkness ahead.
+~
+~
+0 -1 14260
+D3
+It is very dark there.
+~
+~
+0 -1 14257
+S
+#14260
+The Room of War~
+Several old, decaying weapons hang on the walls and dangle from the ceiling.
+Three large stone coffins have been built partially into the floor, and you
+see that the walls have been painted entirely red with human blood. As you
+continue to peer into the dim light, you notice movement from the corner of
+the room!
+~
+77 9 0 1 99 0
+D3
+It is very dark there, you can't see a thing.
+~
+~
+0 -1 14259
+S
+#14261
+Entrance to the Crypt~
+The walls of this room have been covered with several large drawings depicting
+Eqyptian gods. The air is thick with the smell of old perfumes, and the only
+new exit is a staircase leading down into the darkness.
+~
+77 9 0 1 99 0
+D1
+It is too dark to see.
+~
+~
+0 -1 14257
+D5
+The staircase leads down into the darkness.
+~
+~
+0 -1 14262
+S
+#14262
+In the Crypt~
+This room has been plated with giant gold slabs, much too heavy for you to
+carry. Several bas-reliefs have been etched into them, depicting religious
+ceremonies and godly interventions. The smell of rotting meat hangs in the
+air.
+~
+77 9 0 1 99 0
+D0
+The room ahead is dark
+~
+~
+0 -1 14263
+D4
+The staircase leads up into the darkness.
+~
+~
+0 -1 14261
+S
+#14263
+Entrance to the Tombs~
+There are two large stone doors here, one set in the north wall and one in the
+east. The north door has a large sceptre and ring etched into it, while the
+eastern door shows field of grain and children.
+~
+77 9 0 1 99 0
+D0
+A large stone door lies to the north.
+~
+door~
+9 -1 14264
+D1
+It is too dark to see.
+~
+door~
+9 -1 14265
+D2
+You can see nothing in through the darkness.
+~
+~
+0 -1 14262
+S
+#14264
+Tomb of the Great Pharaoh Tutankahmen~
+This is the burial chamber of the well known and respected pharaoh
+Tutankahmen. The walls are etched with sacred golden symbols and the coffin
+itself is made of one continuous piece of melded gold. Most of the fabled
+treasures which were supposedly buried with this king have been stolen long
+ago by grave robbers, but enough has still been left here to make anyone
+prosperous.
+~
+77 9 0 1 99 0
+D2
+There is only darkness ahead.
+~
+door~
+9 -1 14263
+D5
+~
+~
+0 -1 5950
+S
+#14265
+Aelphia's Tomb~
+This room hangs heavy with the stench of old perfumes. Several dried grain
+husks adorn the walls, and a coffin of solid marble has been set into the
+floor. This is the burial chamber of Aelphia, most favoured wife of
+Tutankahmen. During her life, she was a symbol of livelihood and fertility to
+the Egyptian people as she bore Tutankahmen many children.
+~
+77 9 0 1 99 0
+D3
+It is too dark to see.
+~
+door~
+9 -1 14263
+S
+#14266
+A Round Tunnel~
+The hallway here resembles the shape of a sewer pipe as it is completely round
+. You feel a draft from the east while the darkness continues to the south.
+~
+77 8 0 1 99 0
+D1
+Through the darkness you can just see the outline of a huge pit...it looks
+dangerous!
+~
+~
+0 -1 14267
+D2
+It is too dark to see.
+~
+~
+0 -1 14268
+D3
+It is too dark to see.
+~
+~
+0 -1 14251
+S
+#14267
+The Pit~
+You FOOL! If you would have looked at the room description before you entered
+you wouldn't have lost your kit! Oh well, you lose....
+You stumble into a pit in the darkness. You keep falling until the hard ground
+smashes the life from your body.
+~
+77 14 0 1 99 1
+S
+#14268
+A Round Tunnel~
+Several open coffins lies here against the wall, giving you an eerie feeling.
+Long strips of cloth lie in small, dirty piles and several footprints can be
+seen in the thick layer of dust that coats the floor.
+~
+77 9 0 1 99 0
+D0
+It is too dark to see.
+~
+~
+0 -1 14266
+D1
+You think you see some movement in the darkness ahead.
+~
+~
+0 -1 14269
+S
+#14269
+A Round Tunnel~
+Several small bottles are lined up on a row of shelves on the south wall. Each
+is labelled with a strange symbol and smells very strange. Several beautifully
+decorated ceramic pottery pieces have been lined up on a rotting table.
+~
+77 9 0 1 99 0
+D1
+It is too dark to see there.
+~
+~
+0 -1 14270
+D3
+It is too dark to see.
+~
+~
+0 -1 14268
+S
+#14270
+A Partial Cave-In~
+A huge block from the ceiling has sunk here, so that you must bend down to
+pass through the room. Exits lie to the west and north.
+~
+77 9 0 1 99 0
+D0
+You can't make out anything in the darkness.
+~
+~
+0 -1 14271
+D3
+It is too dark to see there.
+~
+~
+0 -1 14269
+S
+#14271
+A Junction~
+The tunnel braches off to the north and east. A faint echo of shuffling
+footsteps can be heard in the distance letting you know that you are not
+alone here.
+~
+77 9 0 1 99 0
+D0
+It is too dark to see.
+~
+~
+0 -1 14272
+D1
+It is too dark to see.
+~
+~
+0 -1 14277
+D2
+It is too dark to see anything!
+~
+~
+0 -1 14270
+S
+#14272
+A Bend in the Tunnel~
+The tunnel makes an abrupt turn here. The walls are covered with scenes of a
+great funeral, and two copper pots with stout bases are resting in the corner.
+~
+77 9 0 1 99 0
+D2
+The room is veiled in darkness.
+~
+~
+0 -1 14271
+D3
+Nothing can be seen in the darkness ahead.
+~
+~
+0 -1 14273
+S
+#14273
+A Bend in the Tunnel~
+The tunnel turns at what seems to be a right angle. You can here a subtle
+hissing noise coming from the north. Several large urns have been placed here,
+painted with coloful scenes of everyday Egyptian life.
+~
+77 9 0 1 99 0
+D0
+subtle movement in the darkness ahead.
+~
+~
+0 -1 14276
+D1
+Nothing can be seen in the darkness ahead.
+~
+~
+0 -1 14272
+S
+#14274
+Blocked Passage~
+As you enter this passage, the passage to the north collapse, leaving you
+trapped.  The only exit is a ladder leading up.
+~
+77 9 0 1 99 0
+D4
+A rickety ladder leads up.
+~
+~
+0 -1 14275
+S
+#14275
+Lit Corridor~
+This passage is lit by torches on the walls.  You think it is strange that
+a place "deserted" for so long would contain lit torches.  The corridor
+continues east and a ladder leads down.
+~
+77 8 0 1 99 0
+D1
+The lit corridor continues east.
+~
+~
+0 -1 14281
+D5
+A rickety ladder leads down.
+~
+~
+0 -1 14274
+S
+#14276
+The Stairwell~
+An exetremely large wicker basket has been tipped over in the corner. Several
+large round compacted balls of crushed human bones lie against the wall. A
+staircase coated with gold leads up through a dark hole in the ceiling.
+~
+77 9 0 1 99 0
+D2
+It is very dark there.
+~
+~
+0 -1 14273
+D4
+The stairs lead up into the darkness.
+~
+~
+0 -1 14279
+S
+#14277
+Long Hallway~
+This hallway continues on for several yards into the darkness. The symbols on
+the walls depict religious ceremonies and temple priests offering worship to
+higher powers. A strong smell of perfume hangs in the air.
+~
+77 9 0 1 99 1
+D1
+It is too dark to see.
+~
+door~
+1 -1 14278
+D3
+It is too dark to see anything there.
+~
+~
+0 -1 14271
+S
+#14278
+The Priest's Chamber~
+Several large rotting robes are hanging from the walls, and a small altar has
+been set up against the east wall. This is the grave of the priest who
+performed the final funeral rights for the great pharaoh Ramses. After the
+funeral, the priest gladly gave his life so he could help guide Ramses into
+the afterlife.
+~
+77 9 0 1 99 0
+D3
+It is very dark there.
+~
+door~
+1 -1 14277
+S
+#14279
+Entrance to the Great Tomb~
+The doors to the south appear to be made of solid gold! Several long dead
+potted plants are lined around the door, and a long decayed feast lies on a 
+polished wood table.
+~
+77 9 0 1 99 0
+D2
+A set of solid gold doors blocks you view.
+~
+door~
+9 -1 14280
+D5
+The stairs lead down into the darkness.
+~
+~
+0 -1 14276
+S
+#14280
+The Tomb of the Great Pharaoh Ramses~
+The walls of this room are entirely coated with gold. A large emerald coffin
+has been set into the floor, and the lid is laying on the ground next to it.
+Several everyday items have been left here, such as a washing basin and a bed,
+so that Ramses could take them with him into the afterlife.
+~
+77 9 0 1 99 0
+D0
+It is too dark to see there.
+~
+door~
+9 -1 14279
+S
+#14281
+Lit Corridor~
+The corridor widens here, and you see the remnants of half-eaten humanoids.
+You get the feeling that something large and aggressive lives here.
+~
+77 8 0 1 99 1
+D2
+An alcove is to the south.
+~
+~
+0 -1 14282
+D3
+The lit corridor continues west.
+~
+~
+0 -1 14275
+S
+#14282
+Alcove~
+This is a small, unused chamber.  You see a steep tunnel leading down.  You
+feel that if you go down, you won't be able to get back up.
+~
+77 9 0 1 99 0
+D0
+The lit corridor is north.
+~
+~
+0 -1 14281
+D5
+A steep tunnel leads down.
+~
+~
+0 -1 14244
+S
+#14283
+Collapsing Floor~
+As you enter this room, the floor crumbles under your feet, causing you
+to commence a 150 foot drop into an underground lava flow.  
+You are dead...sorry.
+~
+77 10 0 1 99 1
+S
+#14284
+Tiny Passage~
+This passage seems like it was designed for pygmies.  The ceiling is only
+four feet high, and the walls seem to close you in.  
+~
+77 8 0 1 99 1
+D0
+The passage continues north.
+~
+~
+0 -1 14285
+D2
+The crumbling junction is south.
+~
+~
+0 -1 14256
+S
+#14285
+Well Constructed Corridor~
+As you go further into the pyramid, you notice the construction getting 
+better.  The giant six foot cube blocks fit together perfectly without 
+mortar.  Was this section built for a special purpose?
+~
+77 8 0 1 99 1
+D0
+The corridor continues north.
+~
+~
+0 -1 14286
+D2
+A tiny passage is south.
+~
+~
+0 -1 14284
+S
+#14286
+Well Constructed Corridor~
+The corridor enlarges a bit here, making walking more comfortable.  A long 
+unused passage leads east and the corridor continues north and south.
+~
+77 8 0 1 99 1
+D0
+The corridor continues north.
+~
+~
+0 -1 14292
+D1
+The little used passage leads east.
+~
+~
+0 -1 14287
+D2
+The corridor continues south. 
+~
+~
+0 -1 14285
+S
+#14287
+Little Used Passage~
+This passage seems darker and creepier than the other corridor.  The 
+unusually large spider you see seems to tell you, "You are lost."
+~
+77 9 0 1 99 1
+D1
+A junction is east.
+~
+~
+0 -1 14288
+D3
+A junction is west.
+~
+~
+0 -1 14286
+S
+#14288
+T Junction~
+The corridors meet in a T here, with exits to the north, south, and west.
+There is nothing else of interest here.
+~
+77 9 0 1 99 1
+D0
+A passage leads north.
+~
+~
+0 -1 14290
+D2
+A dark passage is south.
+~
+~
+0 -1 14289
+D3
+The passage continues west.
+~
+~
+0 -1 14287
+S
+#14289
+Dark Corridor~
+You get a premonition of dread as you enter this room.  Every nerve in
+your body screams for you to go back.  An immovable portcullis blocks a
+passage to the east.  Exits are to the north and west.
+~
+77 8 0 1 99 1
+D0
+A junction is north.
+~
+~
+0 -1 14288
+D3
+You think the cracked and smoking floor to the west looks EXTREMELY hazardous.
+~
+~
+0 -1 14283
+S
+#14290
+Lair~
+You have stumbled into a lair...but can you stumble out alive?
+~
+77 9 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 14288
+D3
+The corridor leads you west.
+~
+~
+0 -1 14291
+S
+#14291
+Dark Room~
+There is nothing special about this corridor, save the fact that you think
+you keep seeing something out of the corner of your eye....nahhh.
+~
+77 9 0 1 99 1
+D1
+The corridor continues east.
+~
+~
+0 -1 14290
+D3
+The passage continues west.
+~
+~
+0 -1 14292
+S
+#14292
+Junction~
+This is one of many junctions in this maze of a pyramid.  Which path will
+you take?  The road to riches?  Or the path to....never mind.
+~
+77 9 0 1 99 1
+D0
+A bright chamber is north.
+~
+~
+0 -1 14293
+D1
+A dark room is east.
+~
+~
+0 -1 14291
+D2
+The corridor continues south.
+~
+~
+0 -1 14286
+D3
+A side passage leads west.
+~
+~
+0 -1 14289
+S
+#14293
+Bright Chamber~
+This ante-chamber is by far the brightest in this part of the pyramid.
+You feel an almost holy presence nearby.  A door is to the north.
+~
+77 9 0 1 99 1
+D0
+A door is to the north.
+~
+door~
+9 -1 14294
+D2
+A passage leads south.
+~
+~
+0 -1 14292
+S
+#14294
+Bright Room~
+You cannot see the light source in this room, but whatever it is glows so
+brightly that you cannot see.  There is a door to the south.
+~
+77 9 0 1 99 1
+D0
+The bright room in north.
+~
+~
+0 -1 14296
+D1
+The bright room is east.
+~
+~
+0 -1 14295
+D2
+nothing special.
+~
+door~
+9 -1 14293
+S
+#14295
+Bright Room~
+You cannot see the light source in this room, but it is so bright in here
+that you can barely see.
+~
+77 9 0 1 99 1
+D0
+The bright room is north.
+~
+~
+0 -1 14297
+D3
+The bright room is west.
+~
+~
+0 -1 14294
+S
+#14296
+Bright Room~
+You cannot see the light source in this room, but it is so bright in here
+that you can barely see.
+~
+77 9 0 1 99 1
+D1
+The bright room is east.
+~
+~
+0 -1 14297
+D2
+The bright room is south.
+~
+~
+0 -1 14294
+S
+#14297
+Bright Room~
+You see a blue six pointed star on the wall, lovingly made of some sort of
+metal and well maintained.
+~
+77 9 0 1 99 1
+D2
+The bright room is south.
+~
+~
+0 -1 14295
+D3
+The bright room is west.
+~
+~
+0 -1 14296
+S
+$~
+#999999

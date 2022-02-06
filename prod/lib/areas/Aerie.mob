@@ -1,0 +1,603 @@
+#7750
+mob jotun storm giant~
+&BJotun&w, ruler of the &cStorm Giants&n~
+&wA large and very powerful looking &cstorm giant&w stands here.&n
+~
+Standing a massive twenty six feet tall, Jotun is an intimidating figure
+to behold. Rippling muscles show through his cloak, and numerous scars of
+battles fought long ago cover his face. However his jovial laugh and 
+compassionate look in his eyes eases any tension you once felt. You are 
+welcome here...as long as you come in peace.
+~
+1082400782 1048577 136249393 536871080 950 S
+42 2 2 20d30+8000 20d3+15
+1000000 400000
+8 8 1
+24 4 26 17 14 15 25 15
+SKILL=SKILL_PARRY 40
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7751
+mob jerial elven representative elf~
+&GJerial&n~
+&GJerial&w, representative of the &pElven Kingdom&w, stands here.&n
+~
+   As is typical of most elves, Jerial is quite comely even in her advanced
+years. She has been sent to the Aerie by King Mor'Don of the Quel'Sith
+Nation in order to form a peace treaty between her people and the giants. 
+As of yet though, Kotun has not granted her an audience and she is growing 
+quite impatient.
+~
+270346 1 136249393 262312 950 S
+36 7 -35 32d12+2500 6d8+30
+80000 220000
+8 8 2
+14 6 19 23 15 14 12 12
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+#7752
+mob throm troll warrior representative~
+&YThrom&n~
+&YThrom&y, representative of &KBrimstone&y, stands here waiting patiently.&n
+~
+ A huge mountain of a troll stands before you in all his splendor of 
+rippling muscles a rugged looks. He stands well over seven feet tall and
+bears numerous scars from the battles he has won. He has been sent to the 
+Aerie by the lords and ladies of Brimstone in hopes to gain some aid in
+the Brimstonian war against the orcs, but as of yet has not been able to 
+gain an audience with the leader of the storm giants.
+~
+270346 1 136249393 67371176 950 S
+37 7 -10 13d16+2600 7d7+25
+80000 220000
+8 8 1
+10 4 24 12 15 14 25 12
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+#7753
+mob viana divine light~
+&BViana&w, the &CDivine Light&n~
+&wThe &Cdivine &BViana&w is here, searching for &revil&w.&n
+~
+    The beauty that is Viana transcends mortal words. She wears no armor, but
+instead chooses to don a gown of the purest white so that those creatures of
+evil will see her coming when she runs them through with her sword. Her long
+silken hair seems to have a life of its own, while her grey eyes pierce 
+through your skin..reading your very soul for judgement.
+~
+1342439436 135299073 136249393 51380910 1000 S
+48 2 -30 100d10+35000 15d5+70
+3000000 2000000
+8 8 2
+1 7 22 22 22 22 22 22
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_DISPEL_EVIL 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_PARRY 70
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MAJOR 90
+SKILL=SPELL_SILENCE 75
+SKILL=SPELL_FIRELANCE 75
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_TYPE=103
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_TYPE=103
+#7754
+mob vorn ul'azzr drow~
+&KVorn Ul'Azzr&W, the &cRenegade &wGuardian&n~
+&KVorn Ul'Azzr&w stands here, guarding his lands from &revil&w.&n
+~
+     Here stands before you a proud and noble drow. At a young age
+he was sent to the surface world, where he was raised by a kindly
+druid. It was here that Vorn learned the arts of being a ranger, 
+and once the old human passed from this life the drow remained
+steadfast in the ways of the forest. During his many adventures as
+a mortal he gained many friends, who like himself were outcasts 
+from their respective societies. Near the end of their careers 
+they all decided to build a city, Brimstone, where beings like 
+themselves could lead respectable lives without fear. 
+     Vorn stands over six feet tall, huge for a drow elf. His hair
+is silver and tied into a braid that falls just past his shoulders.
+Eyes of emerald green constantly scan the horizon for any danger.
+He is lithe, but strong..not a person to be taken lightly.
+~
+335806472 134250497 136249361 554697390 900 S
+48 0 -40 100d10+70000 15d15+50
+3500000 2000000
+8 8 1
+16 4 22 23 21 22 22 22
+SKILL=SPELL_ARMOR 90
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 75
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_FLY 99
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_SKILL=75
+ATTACK_TYPE=103
+ATTACK_SKILL=60
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+ATTACK_SKILL=70
+ATTACK_SKILL=60
+ATTACK_SKILL=70
+ATTACK_TYPE=103
+#7755
+mob giant guard storm~
+&wA &cstorm giant&wguard&n~
+&wA large &cstorm giant&w stands here, guarding against intruders.&n
+~
+     This large giant stands well over twenty feet tall. He wears armor that 
+is form fitted to his body, making for a rather astonishing muscular effect.
+A blade of mithril hangs by his side in case any danger approaches.
+~
+8396814 135266305 136249361 33554468 500 S
+20 20 24 10d10+1200 2d5+0
+700 110000
+8 8 1
+24 4 26 17 14 15 24 15
+ATTACK_SKILL=35
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#7756
+mob storm giant servant~
+&wThe &cstorm giant&C servant&n~
+&WA &cstorm giant&C servant&w is busily running errands here.&n
+~
+     Tired and weary from the days chores, the giant servant stops briefy to
+give a kind 'Hlo' before continuing in its task. 
+~
+140 1048577 136249361 67117088 400 S
+20 20 25 15d10+1000 2d4+10
+300 56000
+8 8 0
+24 3 16 16 15 15 15 15
+#7757
+mob bror master servant~
+&RBror&w, the master servant&n~
+&RBror &wstands here, directing others through their chores.&n
+~
+     He is a huge mountain of a giant, standing a hefty thirty feet tall at
+least. Numerous scars cover is face and neck from the days he was an elite 
+warrior in the vanguard, but old age has now set in and his task now is to
+create duties for the servants. he still has pride in his work, and should
+the need arise, he can still take up arms if necessary.
+~
+67371020 135266305 136249393 67109032 600 S
+28 12 22 10d6+1500 2d3+1
+750 87000
+8 8 1
+24 4 17 18 16 14 14 12
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=30
+ATTACK_TYPE=100
+#7758
+mob storm giant vanguard~
+&wA &cstorm giant&G vanguard&n~
+&wAn elite &cstorm giant &Gvanguard &wis here, keeping watch for intruders.&n
+~
+     The toughest and strongest of the storm giants, the vanguard are bred
+for war. This individual stands roughly twenty-five feet tall with rippling
+muscles that would be the envy of any god. He carries a various assortment of
+weapons, all of which he is proficient in. Picking a fight with him may not
+be a good idea.
+~
+8396812 135266305 136249361 2097324 750 S
+33 10 20 10d6+1500 2d2+4
+2500 199000
+8 8 1
+24 4 16 15 15 16 15 11
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_TYPE=100
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+#7759
+mob slave cambion demon~
+&wA &Kcambion &rdemon &wslave&n~
+&wA weary &Kcambion &rdemon &wslave is here, pondering his future.&n
+~
+     Upon first glance, this cambion demon could be mistaken for a drow. They
+have the same black skin, delicate features and white hair. Upon closer 
+inspection, however, the demons true nature can be seen. Rows of sharpened
+teeth form a wicked smile and clawed fingers look as through they could easily
+tear through flesh. He is a true demon ideed.
+~
+1106056 136347649 136249361 1142947880 -800 S
+28 15 25 5d30+1900 3d2+5
+0 79000
+8 8 1
+7 6 16 16 14 16 14 15
+SKILL=SPELL_ARMOR 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_ENERGY_DRAIN 80
+SKILL=SPELL_FIREBALL 50
+SKILL=SPELL_LIGHTNING_BOLT 60
+SKILL=SKILL_KICK 80
+SKILL=SKILL_BASH 90
+SKILL=SPELL_BLACK_BURST 50
+SKILL=SKILL_RAGE 99
+#7760
+mob ice ogre slave~
+&wAn &Bice &yogre &wslave&n~
+&wA large &Bice &yogre &wslave is here, trying to survive the day.&n
+~
+     Generally being larger, smarter and for the most part more dangerous 
+than their more common counterparts, this happless fellow is starting to
+feel the hopelessness of his situation. Unlike normal ogres, his skin is a
+black-brown. His hair is a dirty grey, while his eyes are a deep purple. He 
+has been cooped up in this cage for so long that his odor has scared away
+all other manners of animal life.
+~
+57356 136577025 136249361 1572864 -500 S
+25 15 20 3d20+2750 5d2+5
+0 65000
+8 8 1
+20 4 17 15 16 16 12 13
+#7761
+mob githyanki slave~
+&wa &ygithyanki&w slave&n~
+&wA &ygithyanki &wslave is here, wondering how it will return home.&n
+~
+     The githyanki appears very humanlike in appearance, but is much more 
+gaunt and longer of limb. it has yellowish colored skin, deep black eyes, and
+it's ears form into a point and are serrated in the back. It has been seper-
+ated from its home on the astral plane for a long while, and is currently 
+forming a plan so that it may return.
+~
+2162696 134217729 136249361 2097272 -900 S
+20 20 0 3d10+1560 3d6+5
+0 55000
+8 8 0
+7 4 16 15 16 14 12 15
+#7762
+mob maedar slave~
+&wA &Kmaedar &wslave&n~
+&wA &Kmaedar&w slave is here, awaiting his chance of escape.&n
+~
+     This creature is the male form of a medusa. Unlike the females, the maedar
+lack the serpentine bodies and petrifying gaze. It is rumored, however, that
+once a medusa turns a victim to stone that the maedar then smashes the foe
+with his powerful fists and uses his powers to turn the stone back to flesh 
+again..a gruesome thought indeed.
+~
+12 134217729 136249361 67633312 -500 S
+31 12 0 7d10+2750 3d4+3
+0 200000
+8 8 1
+14 4 16 17 14 15 15 15
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=108
+#7763
+mob archon spirit beast~
+&GArchon&w, &Wspirit &wof the &ybeast&n~
+&GArchon &wstands here, protecting the lands from &revil&w.&n
+~
+     A strange creature to say the least, Archon is the living spirit of 
+numerous animal creatures fused into one body. He is basically humanoid in 
+appearance, his body covered in a thick fur that seems to change color with
+but a thought. His head is a concoction of wolf, cat and some sort of unident-
+ified bird. Large feathered wings sprout from his back, completing his rather
+macabre look. Despite his gruesome appearance, Archon is a gentle creature 
+by nature and only serves to protect the lands from evil.
+~
+84148232 134250497 136249361 86000364 650 S
+48 0 -35 100d10+26500 10d30+55
+2000000 1500000
+8 8 0
+1 4 16 17 15 14 15 12
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 70
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 90
+SKILL=SPELL_FROST_BREATH 50
+SKILL=SPELL_ACID_BREATH 70
+SKILL=SPELL_LIGHTNING_BREATH 75
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+SKILL=SPELL_HEMMORAGE 99
+ATTACK_SKILL=80
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#7764
+mob storm giant priest~
+&wA &cstorm giant &Bpriest&n~
+&wA &cstorm giant &Bpriest &wstands here in prayer.&n
+~
+     Seemingly unaware of your presense, the priest goes through 
+his day praying to the divine Iallanis, goddess of mercy. He wears
+a flowing white robe,the only symbol of his faith.
+~
+8388616 134250497 136249361 8328 500 S
+31 12 0 20d3+1260 5d5+7
+40000 175000
+8 8 1
+24 6 16 17 16 16 12 15
+SKILL=SPELL_ARMOR 75
+SKILL=SPELL_CHILL_TOUCH 75
+SKILL=SPELL_DISPEL_EVIL 75
+SKILL=SPELL_TREMOR 75
+SKILL=SPELL_HARM 75
+SKILL=SPELL_DISPEL_MAGIC 75
+ATTACK_SKILL=90
+ATTACK_SKILL=90
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7765
+mob storm giant priestess~
+&wA &cstorm giant &Bpriestess&n~
+&wA &cstorm giant &Bpriestess &wstands here in prayer.&n
+~
+     Seemingly unaware of your presense, the priestess goes through
+her daily praying to the divine Iallanis, goddess of mercy. She wears
+a flowing white robe, the only symbol of her faith.
+~
+8388616 134250497 136249361 8328 500 S
+32 12 -5 20d3+1250 3d6+9
+40000 175000
+8 8 2
+24 6 16 17 14 14 13 11
+SKILL=SPELL_ARMOR 75
+SKILL=SPELL_CHILL_TOUCH 75
+SKILL=SPELL_DISPEL_EVIL 75
+SKILL=SPELL_TREMOR 75
+SKILL=SPELL_HARM 75
+SKILL=SPELL_DISPEL_MAGIC 75
+ATTACK_SKILL=90
+ATTACK_SKILL=90
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7766
+mob skold storm giant advisor~
+&rSkold&n~
+&rSkold&w, advisor to &BJotun&w, is here wandering the halls.&n
+~
+     Being rather meek as far as storm giants go, Skold is still a
+mountain when compared to most races. He has spent many years as
+advisors to the kings, for his frail body is unfit for fighting.
+He has grown quite impatient with his new headstrong king, but still
+serves him loyally.
+~
+8388876 135299073 136249361 8328 400 S
+33 10 15 10d17+2700 5d3+1
+55000 200000
+8 8 1
+24 5 16 18 14 15 14 13
+SKILL=SPELL_ARMOR 75
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_DISPEL_EVIL 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+#7767
+mob hild priestess~
+&YHild&n~
+&YHild&w, the &Chighpriestess&w, watches over her priests here.&n
+~
+     Even in her advancing years, Hild demands the respect of her brethren.
+She is the highpriestess of the goddess Ialannis, goddess of mercy, and 
+followers her duties to the letter. Noone escapes her everwatching gaze, and
+those who fail intheir priestly duties are often exiled from the clan.
+~
+75768074 134217729 136249361 172 1000 S
+41 9 -20 10d50+7000 4d5+22
+900000 370000
+8 8 2
+24 2 16 17 14 14 12 11
+SKILL=SPELL_DISPEL_EVIL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_HEAL_MAJOR 90
+SKILL=SPELL_EARTHQUAKE 90
+SKILL=SPELL_DIVINE_RETRIBUTION 90
+ATTACK_SKILL=80
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_TYPE=100
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+#7768
+mob stone gargoyle~
+&Ka large stone gargoyle&n~
+&KA large stone gargoyle has been placed here. It looks rather &rominous&K.&n
+~
+     Melded from stone by magic and then infused with life, the stone gargoyle
+is in a state of decay. Glowing red eyes are proof that its life is still 
+intact, while stone claws and teeth are brandished as it raises to attack!
+~
+8456 32769 136253457 2097196 0 S
+22 18 19 10d15+1970 7d2+2
+750 69000
+8 8 0
+29 4 16 18 15 14 15 15
+#7769
+mob wemic slave~
+&wA &Ywemic &wslave&n~
+&wA &Ywemic&w slave patiently awaits its fate here.&n
+~
+A centauroid creature, made from the bottom torso of a lion and the upper
+torso of a human, the wemic is a splendid and proud creature to behold under
+normal circumstances. However, its time in captivity has nearly broken its 
+spirit, and the creature is a mere shadow of its former glory.
+~
+1074003980 135266305 136249361 32 0 S
+24 16 20 23d6+1450 2d3+1
+0 70000
+8 8 0
+12 4 16 18 14 16 12 11
+ATTACK_SKILL=90
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_SKILL=70
+ATTACK_TYPE=105
+#7770
+mob giant roc~
+&yA giant Roc&n~
+&yA giant Roc arrives at its nest, ready to protect the young.&n
+~
+Having a wingspan of over seventy-five feet, this creature is an awesome sight
+to behold. Normally docile animals, when creatures frighten the great birds
+young, its true power can be seen.
+~
+1166336264 134250497 136249361 67109068 0 S
+42 2 -26 45d5+8000 10d12+1
+0 500000
+8 8 0
+24 4 21 15 14 15 13 15
+#7771
+mob baby roc~
+&wA &Ybaby roc&n~
+&wA &Ybaby roc &wsits here, crying for its mother.&n
+~
+Having just opened its eyes, the baby roc is getting its first view of the
+world. However, its stomach is telling it that it is hungry, so the young
+bird doesn't much care, it just wants to eat.
+~
+16777486 134250497 136253489 67108896 0 S
+20 20 25 10d5+1560 2d10+10
+0 65000
+8 8 0
+0 0 16 16 15 14 13 13
+#7772
+mob tower guard storm giant~
+&wA &cstorm giant &ytower guard&n~
+&wA large &cstorm giant &wis here, scanning the horizon.&n
+~
+This giant has been set specifically at this tower to watch for impending
+dangers. In most respects he resembles any other giant guard, but instead of
+the normal weaponry, he brandishes a huge spear.
+~
+1082400778 135266305 136249361 67117100 500 S
+27 13 20 11d6+2000 5d5+25
+300 87000
+8 8 1
+24 4 16 17 15 14 14 12
+#7773
+mob wolf kil'ron mor moonshadow~
+&KMoonshadow&n~
+&wA huge wolf-like creature of the &Kdeepest black &wstands here, cautiously watching your every move.&n
+~
+     The largest and greatest of the Kil'Ron Mor wolves, Moonshadow
+stands nearly six feet tall at the shoulder. His body measures an
+astounding twelve feet in length, covered with a inky black fur that
+is his namesake. He is a companion of Vorn, the two having been partners
+for over a century. They have made a pact...together they live, together
+they shall die.
+~
+83886092 136347649 136249361 67895460 1000 S
+48 0 -37 20d10+27500 5d20+55
+0 986000
+8 8 1
+0 0 16 18 15 16 15 12
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=60
+ATTACK_SKILL=65
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+#7774
+mob wolf kil'ron mor icerain~
+&BIce&crain&n~
+&wA huge wolf-like creature of the &Wpurest white&w stands here, cautiously watching your every move.&n
+~
+     Standing nearly six feet tall at the shoulder, IceRain is the second 
+largest of all the Kil'Ron Mor. She is the mate of MoonShadow and travels 
+with him whereever he goes. Her fur is as white as pure snow, and where she
+gets her name. Normally very shy and benevolent, she will defend herself and
+her mate to the death if provoked.
+~
+1157627912 134250497 136249361 67895460 1000 S
+48 0 -36 10d20+25000 10d15+65
+0 975000
+8 8 2
+0 0 17 15 16 16 12 12
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=70
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=55
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+$~
+#999999

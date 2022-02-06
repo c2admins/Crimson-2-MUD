@@ -1,0 +1,118 @@
+#7000
+mob Herald Ettin~
+Herald 'the mouse-killer' Ettin~
+Herald is standing here, looking at you confused.
+~
+When you look at Herald you cannot help but feel pitty.  His dress is very
+poor and ragged.  He has a rope around his stomach, from which hangs a number
+of dead rats and mice.  He does not smell good.
+~
+204 1048577 136249361 34078720 200 S
+12 27 32 3d5+150 2d4+8
+1000 3645
+5 5 1
+1 2 14 15 12 14 12 10
+#7001
+mob chr-eff'n~
+the evil chr-eff'n~
+The chr-eff'n is floating here, looking for food.
+~
+This creature looks like an obscene jelly-fish with a hard carapace and huge
+jagged claws.  It has huge eyes that allow it to see in the dark, and all
+over it's body, long thin spines seem to float outward across the surface of
+the water.
+~
+84205640 1 136249361 35127296 0 S
+32 11 -1 80d19+3000 9d5+25
+50000 194325
+4 4 0
+0 0 22 5 6 9 22 10
+ATTACK_SKILL=80
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#7002
+mob rat sewer~
+a sewer rat~
+A hungry looking sewer rat is scuttling around here.
+~
+It is a small rat with mottled black fur.
+~
+57352 1 136249361 34078720 -1000 S
+5 32 37 1d12+48 2d4+0
+200 180
+8 8 1
+0 0 12 13 12 12 10 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#7003
+mob lizard sewer~
+a sewer lizard~
+A long thin lizard is here, watching you closely.
+~
+The lizard is about 2-3 feet long, and very thin.  His skin is a very dark 
+green, and he has unusually large claws on his feet.
+He seems to be watching you with one eye.
+~
+57352 1 136249361 35127296 0 S
+14 25 30 5d10+150 5d5+3
+2000 4200
+8 8 1
+0 0 11 11 9 9 8 7
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#7004
+mob Morkoth shadow sewer~
+a shadowy Morkoth~
+The dark figure of one of the Morkoth is standing here.
+~
+This Morkoth is a dark figure, and you can only see it's sillouette.
+It is humanoid and stands around five feet high and you can hear a slight hiss
+as it breathes.
+~
+57480 1081345 136249361 35127296 -500 S
+20 20 24 50d19+1000 3d5+17
+5200 58235
+8 8 0
+0 0 14 12 11 12 11 12
+SKILL=SKILL_HUNT 40
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7005
+mob homonculus~
+the homonculus~
+The evil homonculus is here, staring at you with wide eyes.
+~
+The homonculus is a huge reptilian creature that stands on it's hind legs to
+reach almost eight feet in height.  It's powerful front legs have long sharp
+claws on them, and it's mouth is full of razor sharp teeth.
+~
+16834568 1 136249361 33554432 300 S
+3 34 38 2d5+35 1d7+0
+200 135
+8 8 1
+0 0 11 13 9 10 10 9
+#7006
+mob snake sewer~
+The slithering snake~
+The snake slithers towards you
+~
+snake
+~
+16834568 1 136249361 35127296 -500 S
+4 33 37 2d5+40 1d9+0
+255 148
+8 8 0
+0 0 13 11 11 12 9 7
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+$~
+#999999

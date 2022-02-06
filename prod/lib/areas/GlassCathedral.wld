@@ -1,0 +1,1642 @@
+#19500
+A dark pathway under the stars~
+You leave the confines of a well travelled road and enter into a seemingly 
+deep forest. A dreadful, mirky place under the light of an unnatural sky.
+~
+108 1 2 30 99 3
+D2
+the path leads on into the misty night
+~
+~
+0 -1 19501
+S
+#19501
+A dark pathway under the stars~
+A misty path leads through the forest, boggy and giving away with each step. 
+A sign is to the left and is written in an anchient, archaic language.
+~
+108 1 2 20 99 3
+D0
+the path leads out of the mist and bog and nearer to a road
+~
+~
+0 -1 19500
+D2
+the path leads deeper into boggy ground
+~
+~
+0 -1 19502
+S
+#19502
+A dark pathway under the stars~
+The path sinks slowly into the boggy ground with every step.
+~
+108 1 2 1 99 3
+D0
+the path begins to ascend a little from the bog
+~
+~
+0 -1 19501
+D2
+the path begins to disappear under the bog and mist
+~
+~
+0 -1 19503
+S
+#19503
+A dark pathway under the stars~
+The path sinks slowly into the boggy ground with every step.
+~
+108 1 2 1 99 3
+D0
+the bog path leads on
+~
+~
+0 -1 19502
+D2
+the mist becomes hard to see through but you can make out a vague 
+outline of a gate
+~
+~
+0 -1 19504
+S
+#19504
+Rusted Iron Gate~
+You stand at a rusty iron gate. The doors sway slowly in the wind, 
+and creek from years of abuse. Behind the gate you can see a large 
+stained-glass cathedral towering into the sky.
+~
+108 1 2 1 99 3
+D0
+the bog is thick and wet
+~
+~
+0 -1 19503
+D2
+the bog ends and the mists rises. a courtyard can be seen ahead.
+~
+~
+0 -1 19505
+S
+#19505
+The Grande Courtyard of Darkness~
+A courtyard, long dead from the passage of time, where red and white flowers 
+once bloomed, stands as a monument to decay and ill-fate. All that can be
+seen now are the black, withered remains of plants and shrubbery, and the 
+tall, twisting gnarled trees left to withstand the cold, frigid nights.
+~
+108 0 2 1 99 3
+D0
+~
+~
+0 -1 19504
+D1
+stables, charred by heat.
+~
+~
+0 -1 19507
+D2
+the entrance to the cathedral can be seen ahead. 
+its doors hang open inviting you in.
+~
+~
+0 -1 19506
+D3
+the mist covers the ground there, making it hard to see.
+~
+~
+0 -1 19529
+S
+#19506
+Entrance to The Glass Cathedral~
+You stand before large iron doors, scortched by some great amount of heat. 
+One of them hangs open inviting unwary visitors to come in.
+~
+108 0 2 1 99 3
+D0
+a withered courtyard
+~
+~
+0 -1 19505
+D2
+inside a large hall of the cathedral
+~
+~
+0 -1 19542
+S
+#19507
+The Stables~
+Unhloy mounts dragged from their native world, sent to further the reaches of 
+Darkness, sit in torment in a world that is not there own. Hoping day to
+day to be released from service, and to go back to the chaos world from 
+which they came.
+~
+108 1 0 1 99 3
+D1
+w
+~
+~
+0 -1 19508
+D3
+~
+~
+0 -1 19505
+S
+#19508
+Pathway through the fog~
+The path begins to darken into the stillness of the fog. 
+Vision becomes reduced to about five feet, and your senses become thrown
+off.
+~
+108 1 0 1 99 3
+D2
+~
+~
+0 -1 19509
+D3
+w
+w
+~
+~
+0 -1 19507
+S
+#19509
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19508
+D2
+~
+~
+0 -1 19510
+S
+#19510
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19509
+D2
+~
+~
+0 -1 19511
+S
+#19511
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19510
+D2
+~
+~
+0 -1 19512
+S
+#19512
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19511
+D1
+~
+~
+0 -1 19596
+D2
+~
+~
+0 -1 19513
+S
+#19513
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19512
+D2
+~
+~
+0 -1 19514
+S
+#19514
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19513
+D2
+~
+~
+0 -1 19515
+D3
+~
+~
+0 -1 19530
+S
+#19515
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19514
+D2
+~
+~
+0 -1 19516
+S
+#19516
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19515
+D3
+~
+~
+0 -1 19517
+S
+#19517
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see
+something moving ahead.
+~
+108 1 0 1 99 3
+D1
+~
+~
+0 -1 19516
+D3
+~
+~
+0 -1 19518
+S
+#19518
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D1
+~
+~
+0 -1 19517
+D3
+~
+~
+0 -1 19519
+S
+#19519
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D1
+~
+~
+0 -1 19518
+D2
+The fog clears, revealing an overgrown garden.
+~
+~
+0 -1 1292
+D3
+~
+~
+0 -1 19520
+S
+#19520
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19521
+D1
+~
+~
+0 -1 19519
+S
+#19521
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19522
+D2
+~
+~
+0 -1 19520
+S
+#19522
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19523
+D2
+~
+~
+0 -1 19521
+S
+#19523
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19524
+D2
+~
+~
+0 -1 19522
+S
+#19524
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19525
+D2
+~
+~
+0 -1 19523
+S
+#19525
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19526
+D2
+~
+~
+0 -1 19524
+S
+#19526
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19527
+D2
+~
+~
+0 -1 19525
+S
+#19527
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D0
+~
+~
+0 -1 19528
+D2
+~
+~
+0 -1 19526
+S
+#19528
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D1
+~
+~
+0 -1 19529
+D2
+~
+~
+0 -1 19527
+S
+#19529
+Pathway through the fog~
+The thick fog plays with your vision and you think you can see 
+something moving ahead.
+~
+108 1 0 1 99 3
+D1
+~
+~
+0 -1 19505
+D3
+~
+~
+0 -1 19528
+S
+#19530
+The Cracks of Doom~
+Feeling through the fog you find a large crack in the foundation 
+leading down into some unknown terror. Warm, humid, and damp, a strong 
+stench of decay hangs in the air.
+~
+108 268435464 0 1 99 0
+D1
+~
+~
+0 -1 19514
+D2
+~
+~
+0 -1 19531
+S
+#19531
+Within the Cracks~
+Advancing within the crack, you travell downward at a steady pace, 
+growing ever nearer to the heart of some malicious evil. The sound 
+of water can be heard ahead with the distant sound of souls screaming 
+to be released from their unholy confines.
+~
+108 268435464 0 1 99 0
+D0
+~
+~
+0 -1 19530
+D2
+~
+~
+0 -1 19532
+S
+#19532
+Into the water~
+You wade underneath the water, feeling it's still, cold waters touch your 
+skin. You wonder how far it will take you before coming up to air again.
+~
+108 268566537 0 1 99 6
+D0
+~
+~
+0 -1 19531
+D2
+~
+~
+0 -1 19533
+S
+#19533
+Beneath the water~
+The water chills you straight through to the heart. Ahead you can see 
+a dim light coming from the surface of the water.
+~
+108 268566537 0 1 99 8
+D0
+~
+~
+0 -1 19532
+D2
+~
+~
+0 -1 19534
+S
+#19534
+An Opening in a Cave~
+A large chamber filled with remains from beings long forgotten, 
+gives a strange sense of your not being alone. You dont see or hear
+anything in the distance, but you know SOMETHING is here, and that 
+you should probably leave now!
+~
+108 268435465 0 1 99 0
+D0
+~
+~
+0 -1 19533
+D1
+~
+~
+0 -1 19535
+D2
+the cave goes underwater
+~
+~
+0 -1 19536
+S
+#19535
+A Crack in the Cave~
+It looks as if something once made it's home here. Now there's nothing 
+left but it's mortal shell, to dry and crack on the cold, baren ground.
+~
+108 9 0 1 99 0
+D3
+~
+~
+0 -1 19534
+S
+#19536
+Beneath the water~
+You sink into the cold water once agin, hoping that it wont lead to far 
+before you can come up again.
+~
+108 268566537 0 1 99 8
+D0
+~
+~
+0 -1 19534
+D2
+the water continues, will you make it up for air?
+~
+~
+0 -1 19539
+D3
+dry land!
+~
+~
+0 -1 19537
+S
+#19537
+Deep Within the Cave~
+Sssshhh!!......What's that sound? There is something just up ahead.
+Whatever it is, it definately wants you for dinner! 
+~
+108 9 0 1 99 0
+D1
+the cave leads into water
+~
+~
+0 -1 19536
+D3
+you see a pool of water with something very large in it
+~
+~
+0 -1 19538
+S
+#19538
+Splynncryth's Chamber~
+A huge, horrific eye stares out of the water. It doesnt seem to be 
+transfixed on any one thing, but it is aware of your movements. 
+Fluid oozes from the slimy membrane, as tentacles reach up from the 
+depths, grasping at you.
+~
+108 268435465 0 1 99 0
+D1
+outside splynncryth's pool
+~
+~
+0 -1 19537
+S
+#19539
+Beneath the water~
+The water here is very deep, and you begin to lose sense of direction.
+~
+108 268566537 0 1 99 8
+D0
+the water continues
+~
+~
+0 -1 19536
+D2
+more water
+~
+~
+0 -1 19540
+S
+#19540
+Beneath the water~
+You sink into the cold water once agin, hoping that it wont lead to far 
+before you can come up again.
+~
+108 268566537 0 1 99 8
+D0
+water
+~
+~
+0 -1 19539
+D2
+the water opens up into a cave
+~
+~
+0 -1 19541
+S
+#19541
+An Open Chamber~
+A baren floor exept for the broken, gnawed on bones, lies before you. 
+There is evidently nothing here to be found.
+~
+108 9 0 1 99 0
+D0
+you must go beneath the water
+~
+~
+0 -1 19540
+S
+#19542
+The Ornate Hall~
+The inside of the cathedral is lit up by moonlight pouring in from the 
+glass walls and ceiling. Glass of every color shines overhead causing
+strange designs and patterns on the walls. The inside is kept amazingly
+clean and free of dust. Strange sounds and moaning can be heard from down
+the distant hallways.
+~
+108 268435464 0 1 99 0
+D0
+~
+~
+0 -1 19506
+D1
+~
+~
+0 -1 19543
+D3
+~
+~
+0 -1 19563
+D4
+~
+~
+0 -1 19586
+S
+#19543
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19544
+D3
+~
+~
+0 -1 19542
+S
+#19544
+Hall of Broken Glass~
+Glass shards of every color litter the ground. Sharp and jagged, 
+inviting you to step on them. A gaping hole in the ceiling exposes 
+you to a soft drizzle of rain, cool and pleasant to the touch.
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19583
+D2
+~
+~
+0 -1 19545
+D3
+~
+~
+0 -1 19543
+S
+#19545
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the 
+corridor. A huge place this is, for the hallway seems to never end, or is
+it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+n
+~
+~
+0 -1 19544
+D2
+~
+~
+0 -1 19546
+S
+#19546
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+n
+~
+~
+0 -1 19545
+D1
+~
+~
+0 -1 19571
+D2
+~
+~
+0 -1 19547
+S
+#19547
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19546
+D2
+~
+~
+0 -1 19548
+D3
+~
+~
+0 -1 19564
+S
+#19548
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19547
+D1
+~
+~
+0 -1 19572
+D2
+~
+~
+0 -1 19549
+S
+#19549
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19548
+D2
+~
+~
+0 -1 19550
+S
+#19550
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19549
+D1
+e
+~
+~
+0 -1 19573
+D2
+~
+~
+0 -1 19551
+S
+#19551
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+n
+~
+~
+0 -1 19550
+D3
+~
+~
+0 -1 19552
+S
+#19552
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination. ~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19551
+D3
+~
+~
+0 -1 19553
+S
+#19553
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D1
+e
+~
+~
+0 -1 19552
+D2
+~
+~
+0 -1 19577
+D3
+~
+~
+0 -1 19554
+S
+#19554
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19553
+D3
+~
+~
+0 -1 19555
+S
+#19555
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19556
+D1
+~
+~
+0 -1 19554
+S
+#19556
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19557
+D2
+~
+~
+0 -1 19555
+D3
+w
+~
+~
+0 -1 19574
+S
+#19557
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19558
+D2
+~
+~
+0 -1 19556
+S
+#19558
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19559
+D2
+~
+~
+0 -1 19557
+D3
+~
+~
+0 -1 19575
+S
+#19559
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19560
+D1
+~
+~
+0 -1 19566
+D2
+~
+~
+0 -1 19558
+S
+#19560
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination. ~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19561
+D2
+~
+~
+0 -1 19559
+D3
+~
+~
+0 -1 19576
+S
+#19561
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19562
+D2
+~
+~
+0 -1 19560
+S
+#19562
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19563
+D2
+~
+~
+0 -1 19561
+D3
+~
+~
+0 -1 19585
+S
+#19563
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19542
+D3
+~
+~
+0 -1 19562
+S
+#19564
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19547
+D3
+~
+~
+0 -1 19565
+S
+#19565
+The Sacrificial Alter~
+An intricate artwork of stained glass, this room is a vile and unholy
+place for the corrupt. Sacrificing infants, slaves, and small animals 
+to a god who doesn't even exist, these bringers of death have no mercy 
+on anything.
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19564
+D2
+~
+~
+0 -1 19567
+D3
+~
+~
+0 -1 19566
+S
+#19566
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19565
+D3
+~
+~
+0 -1 19559
+S
+#19567
+The Room of Death~
+This is where praying victims are brought to be adorned in their sacrificial 
+attire. When they reach this room they are bound and gagged and their soul 
+prepared to be fasted upon.
+~
+108 8 0 1 99 0
+D0
+~
+~
+0 -1 19565
+D2
+~
+~
+0 -1 19568
+S
+#19568
+The Pit to Hell~
+A gorry place indeed, the mutilated bodies are brought here to be dumped,
+where they will fall until reaching the burning sulphur pits of hell, whereby
+they can be eaten, and the lost souls will strengthen the beast that lies
+below.
+~
+108 8 536870912 1 99 0
+D0
+~
+~
+0 -1 19567
+D1
+~
+~
+0 -1 19569
+D3
+~
+~
+0 -1 19570
+S
+#19569
+The Summoning Circle~
+Standing amongst a blood-red pentagram, you hear a chant coming from 
+nearby. A purple flame rises from the ground licking at you, cold to the 
+touch. From the flames comes a large Balrog ready to feast. With a final 
+word it is ordered to attack.
+~
+108 8 0 1 99 0
+D3
+~
+~
+0 -1 19568
+S
+#19570
+Arial's Chamber of Pain~
+A horrid room this is, body parts flung about, who could be capable of 
+such mutilation? You suddenly become aware of the answer, as you see a 
+skimpy dressed drow female raising a hand at you. Could you be next?
+~
+108 268435464 536870912 1 99 0
+D1
+~
+~
+0 -1 19568
+S
+#19571
+Kitchen~
+Barely a manner of food found in this place, the only thing the inhabitants 
+seem to be eating are brains. Zombies stand posed over the bodies of dead 
+beings, but quickly turn after a fresh meal...You!
+~
+108 268435464 536870912 1 99 0
+D3
+~
+~
+0 -1 19546
+S
+#19572
+Sir Licky's Chamber~
+Amongst a room filled with weapons and devices, one man stands over them 
+all. Cleaning the blade of his great sword, he stares intently on you. 
+Slowly he stands and then bows, and in an instance he lunges forth.
+~
+108 268435464 536870912 1 99 0
+D3
+~
+~
+0 -1 19548
+S
+#19573
+Drissandra's Beauty Room~
+In a beauty room, a woman of some elegance sits tending her face. But this 
+foul woman needs more than just makeup. And what is that smell? 
+A green-brown fog hangs over her like a plague of death.
+~
+108 268435464 536870912 1 99 0
+D3
+~
+~
+0 -1 19550
+S
+#19574
+Priestly Quarters~
+An unusually neat kept room, exept for gaping holes in the ceiling and 
+piles of anchient book lining the walls, houses several dark brothers. 
+They are all in at the moment, and give a wonderful cheer to your arrival.
+~
+108 268435464 536870912 1 99 0
+D1
+~
+~
+0 -1 19556
+S
+#19575
+Ginrual's Private Chamber~
+A hideous looking man with bat wings stands swinging a sword. He drops it 
+whereupon it breaks in half. Strewn acroos the floor are shards of broken 
+swords. Could this guy be that bad? Well your about to find out!
+~
+108 268435464 536870912 1 99 0
+D1
+~
+~
+0 -1 19558
+S
+#19576
+Lair of the Orc God~
+A wildly insane Orc sits fiddling with a red-jeweled crown. Afflicted by a 
+God-complex, he beleives he is more powerful than he really is, but 
+never-the-less he is going to show you just how powerful he really is.
+~
+108 268435464 536870912 1 99 0
+D1
+~
+~
+0 -1 19560
+S
+#19577
+Base of the Glass Spire~
+Glass stairs lead up to a narrowing glass spire. Fairly tall, you wonder 
+how sturdy the glass is? Your curiosity leads you to wonder what is up 
+there, if anything.
+~
+108 8 0 1 99 3
+D0
+~
+~
+0 -1 19553
+D4
+~
+~
+0 -1 19578
+S
+#19578
+The Glass Spire~
+As you go up, the light begins to pour through the glass walls, producing 
+vivid colors. Small holes can be seen in the glass, and it has definately
+taken some abuse.
+~
+108 8 0 1 99 3
+D4
+~
+~
+0 -1 19579
+D5
+~
+~
+0 -1 19577
+S
+#19579
+Spire Overlook~
+The top of the spire is gone leaving you exposed to chilled winds and a 
+soft rain. Looking across the land, a deep black forest hauntingly stands 
+in the night, and the moon shines brighter than ever in the clear skies.
+~
+108 8 0 1 99 3
+D5
+~
+~
+0 -1 19578
+S
+#19580
+The Glass Spire~
+As you go up, the light begins to pour through the glass walls, producing 
+vivid colors. Small holes can be seen in the glass, and it has definately 
+taken some abuse.
+~
+108 8 0 1 99 0
+D4
+~
+~
+0 -1 19584
+D5
+~
+~
+0 -1 19583
+S
+#19581
+The Glass Spire~
+As you go up, the light begins to pour through the glass walls, producing 
+vivid colors. Small holes can be seen in the glass, and it has definately
+taken some abuse.
+~
+108 8 0 1 99 0
+D4
+~
+~
+0 -1 19582
+D5
+~
+~
+0 -1 19585
+S
+#19582
+Spire Overlook~
+The top of the spire is gone leaving you exposed to chilled winds and a 
+soft rain. Looking across the land, a deep black forest hauntingly stands 
+in the night, and the moon shines brighter than ever in the clear skies.
+~
+108 8 0 1 99 0
+D5
+d
+~
+~
+0 -1 19581
+S
+#19583
+Base of the Glass Spire~
+Glass stairs lead up to a narrowing glass spire. Fairly tall, you wonder 
+how sturdy the glass is? Your curiosity leads you to wonder what is up 
+there, if anything.
+~
+108 8 0 1 99 0
+D3
+~
+~
+0 -1 19544
+D4
+l
+~
+~
+0 -1 19580
+S
+#19584
+Spire Overlook~
+The top of the spire is gone leaving you exposed to chilled winds and a 
+soft rain. Looking across the land, a deep black forest hauntingly stands 
+in the night, and the moon shines brighter than ever in the clear skies.
+~
+108 8 0 1 99 0
+D5
+~
+~
+0 -1 19580
+S
+#19585
+Base of the Glass Spire~
+Glass stairs lead up to a narrowing glass spire. Fairly tall, you wonder 
+how sturdy the glass is? Your curiosity leads you to wonder what is up 
+there, if anything.
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19562
+D4
+~
+~
+0 -1 19581
+S
+#19586
+The Balcony~
+A wooden balcony overlooks the Great Hall. A hallway to either side 
+twisting through the panes of stained glass, wind around into the unknown. 
+~
+108 8 0 1 99 0
+D1
+~
+~
+0 -1 19587
+D3
+~
+~
+0 -1 19591
+D5
+~
+~
+0 -1 19542
+S
+#19587
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination. ~
+108 268435464 536870912 1 99 0
+D2
+~
+~
+0 -1 19588
+D3
+~
+~
+0 -1 19586
+S
+#19588
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 268435464 536870912 1 99 0
+D0
+~
+~
+0 -1 19587
+D2
+~
+~
+0 -1 19589
+S
+#19589
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 268435464 536870912 1 99 0
+D0
+~
+~
+0 -1 19588
+D2
+~
+~
+0 -1 19590
+S
+#19590
+Dancing Shadows~
+Shadows are cast onto the walls by a source coming from the next room. 
+Strangely they seem to pass straight through the walls continuing into 
+this room, creating a void of nothingness of black light.
+~
+108 268435464 536870912 1 99 0
+D0
+~
+~
+0 -1 19589
+D3
+~
+~
+0 -1 19595
+S
+#19591
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 268435464 536870912 1 99 0
+D1
+~
+~
+0 -1 19586
+D2
+~
+~
+0 -1 19592
+S
+#19592
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 268435464 536870912 1 99 0
+D0
+~
+~
+0 -1 19591
+D2
+~
+~
+0 -1 19593
+S
+#19593
+Glass Hallway~
+Glass walls flicker with light, sending multi-color rays down the
+corridor. A huge place this is, for the hallway seems to never end, 
+or is it just the light playing with your imagination.
+~
+108 268435464 536870912 1 99 0
+D0
+~
+~
+0 -1 19592
+D2
+~
+~
+0 -1 19594
+S
+#19594
+Dancing Shadows~
+Shadows are cast onto the walls by a source coming from the next room. 
+Strangely they seem to pass straight through the walls continuing into 
+this room, creating a void of nothingness of black light.
+~
+108 268435464 536870912 1 99 0
+D0
+~
+~
+0 -1 19593
+D1
+~
+~
+0 -1 19595
+S
+#19595
+The DarkLight~
+Illuminated by a dark sphere set upon a silver pedestal, shadows play on 
+the walls of this most unholy room. A darkly clad figure stands unmoving 
+amidst the shadows, almost blending in as they pass over him. Reaching 
+out he grasps the dark orb.
+~
+108 268435464 536870912 1 99 0
+D1
+~
+~
+0 -1 19590
+D3
+~
+~
+0 -1 19594
+S
+#19596
+A Blazing Campfire~
+A campfire littered with rather large cooking wear, sit on the border of 
+the Dark Forest. Peering down the path it becomes very dark and the trees 
+seem to move from all directions.
+~
+108 0 0 1 99 3
+D1
+~
+~
+0 -1 19597
+D3
+~
+~
+0 -1 19512
+S
+#19597
+The Dark Path~
+The path winds through the thickening tree until they start to thin out 
+a little bit. Looking ahead the moonlight shows through the tree tops, 
+illuminating the world.
+~
+108 1 0 1 99 3
+D1
+e
+~
+~
+0 -1 19598
+D3
+w
+~
+~
+0 -1 19596
+S
+#19598
+Shady Trees Under the Moonlight~
+An opening in the thinning trees radiates moonlight, bathing the 
+surrounding area in white, soft light. Beautiful in nature, a grunting
+sounds defiles the tranquility within. It can be heard coming just from 
+the west.
+~
+108 0 0 1 99 3
+D1
+~
+~
+0 -1 19599
+D3
+~
+~
+0 -1 19597
+S
+#19599
+The Camping Grounds~
+A lone Fire giant sits here among a mess of decayed remains. This small 
+outposts acts as a watchful eye for the minions of Gith. Any traversing 
+within a nearby land would immediately alert the minions to your presence. 
+~
+108 0 0 1 99 3
+D3
+~
+~
+0 -1 19598
+S
+$~
+#999999

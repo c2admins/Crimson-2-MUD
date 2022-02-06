@@ -1,0 +1,295 @@
+#2200
+obj spear draconian~
+10
+&ya &Ydr&wa&Kcon&wi&Yan&y spear&n~
+A long spear is lying on the ground here.~
+~
+5 1048576 0 8193
+0 6 5 11
+5 660000 16500
+A
+18 -1
+#2201
+obj cloak draconian~
+10
+&Ka &Ydr&wa&Kcon&wi&Yan&K cloak&n~
+A cloak is lying here in a heap.~
+~
+9 1048576 0 1025
+15 0 0 0
+6 38000 9500
+A
+1 1
+A
+13 20
+A
+19 1
+#2202
+obj hat jesters~
+12
+&Ga je&Rste&Gr's h&Ra&Gt&n~
+A colourful jester's hat is resting here.~
+~
+9 1048576 0 17
+3 0 0 0
+18 24000 6000
+A
+6 -2
+A
+12 20
+#2203
+obj shoes jesters~
+15
+&wa pair of funny &Gje&Rst&Ger's s&Rhoe&Gs&n~
+A funny pair of jester's shoes are resting here.~
+~
+9 1048576 0 65
+5 0 0 0
+15 20000 5000
+A
+2 -2
+A
+6 -1
+A
+4 2
+#2204
+obj gloves dragonskin red~
+7
+&ra pair of red &rdr&Wa&Kgons&Wk&rin &Kgloves&n~
+Somebody has left a pair of red gloves lying here.~
+~
+9 2097152 0 129
+19 0 0 0
+5 180000 45000
+A
+37 1
+A
+19 2
+A
+13 5
+#2205
+obj sword battered~
+15
+&wa battered &Ksword&n~
+An old looking sword is resting here.~
+~
+5 524288 0 8193
+0 3 5 11
+6 2000 500
+#2206
+obj broadsword battered~
+12
+&wa battered &Kbroadsword&n~
+An old looking broadsword is lying here on the ground.~
+~
+5 524288 0 8193
+0 2 10 3
+14 8000 2000
+#2207
+obj helmet battered red~
+8
+&wa battered &rred h&Kelme&rt&n~
+An old, worn, red helmet is sitting here.~
+~
+9 524288 0 17
+8 0 0 0
+10 10000 2500
+A
+1 3
+#2208
+obj breastplate battered red plate~
+10
+&wa battered &rred b&Kreastplat&re&n~
+A worn out old breastplate is sitting here.~
+~
+9 524288 0 9
+26 0 0 0
+19 40000 10000
+A
+1 1
+A
+13 5
+#2209
+obj battered horse flanks~
+10
+&ysome battered horse's flanks&n~
+Some old and battered horse's flanks are lying here.~
+~
+9 524288 0 33
+16 0 0 0
+10 30000 7500
+A
+2 2
+#2210
+obj old halberd~
+9
+&wan old &Khalberd&n~
+A long staff with a battered blade on the end is resting here.~
+~
+5 524288 0 8193
+0 6 3 3
+12 26000 6500
+A
+19 2
+#2211
+obj claw dragons enfyrn~
+8
+&Ka d&wr&Gag&wo&Kn's claw&n~
+The claw of a huge animal is lying here.~
+~
+5 2097152 0 8193
+0 4 9 11
+7 940000 23500
+A
+19 3
+A
+18 1
+#2212
+obj dagger petite~
+10
+&wa petite &Kdagger&n~
+A very small dagger is resting here.~
+~
+5 1048576 0 8193
+0 4 6 11
+7 30000 7500
+A
+19 3
+A
+18 1
+#2213
+obj ring glowing red~
+10
+&Ka &wgl&Wowi&wng &Rred &Kring&n~
+A small glowing red ring has been dropped here.~
+~
+9 1048576 0 3
+11 0 0 0
+1 110000 27500
+A
+26 1
+A
+36 1
+A
+19 1
+#2214
+obj mace studded draconian~
+10
+&wa &ys&wtu&yd&wde&yd&K mace&n~
+A large mace covered in short studs is resting here.~
+~
+5 1048576 0 8193
+0 3 11 6
+12 44000 11000
+A
+5 1
+#2215
+obj brooch ruby draconian~
+10
+&Ka &rruby &Yb&Krooc&Yh&n~
+A large brooch with a ruby centre has been dropped here.~
+~
+9 2097152 0 9
+1 0 0 0
+1 700000 17500
+A
+13 40
+A
+12 20
+A
+18 3
+#2216
+obj hammer copper~
+10
+&wa &ycopper&K hammer&n~
+A large reddish hammer is resting here on the ground.~
+~
+5 2097152 0 8193
+262144 4 10 6
+16 140000 35000
+A
+19 2
+A
+18 1
+#2217
+obj key tarnished gold chain~
+7
+&wa tar&Knis&whed &Ygold &wkey&n~
+A small reddish-gold key on a chain is lying here in a heap.~
+~
+9 1048576 0 5
+2 0 0 0
+1 44000 11000
+A
+4 2
+A
+5 2
+#2218
+obj chest~
+100
+&ya chest&n~
+a &ylarge chest&g has been positioned here.&n~
+~
+15 0 0 0
+0 0 10 0
+1 5 5
+#2219
+obj treasure gold draconian~
+80
+some gold treasure~
+A heap of gold treasure is resting here.~
+~
+8 0 0 1
+750000 0 0 0
+1 5 5
+#2220
+obj blue dragon scale~
+1
+&wA &CB&clu&Ce &KD&wr&Wag&wo&Kn &GS&gcal&Ge&n ~
+A large blue dragon scale lies here.~
+~
+9 138414080 0 513
+60 0 0 0
+20 800000 100
+A
+19 3
+A
+18 1
+A
+13 -50
+A
+23 -1
+#2221
+obj blue dragonscale arm plates~
+1
+&CB&clu&Ce &KD&wr&Wag&wo&Kn&Gs&gcal&Ge &wA&Krm Plates&n~
+A set of arm plates made from blue dragonscales lies here.~
+~
+9 239088128 147456 257
+50 0 0 0
+6 120000 300000
+A
+19 3
+A
+18 4
+A
+13 -35
+#2222
+obj skull blue dragon~
+1
+&WSk&wu&Wll &Kof the &CB&clu&Ce &KD&wr&Wag&wo&Kn&n ~
+The skull of a dragon lies here.~
+~
+9 239076032 0 17
+0 0 0 0
+5 40000 400000
+A
+19 3
+A
+40 1
+A
+18 1
+A
+17 20
+$~
+#999999

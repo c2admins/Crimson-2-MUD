@@ -1,0 +1,263 @@
+#7100
+mob kaczy~
+&GThe High Priest Kaczy&n~
+&GKaczy the High Priest &Wis standing here.&n
+~
+&wThe High Priest Kaczy glows with a holy light.  He stands at about seven feet tall, and wears an outfit made
+of &Ggreen silk&w with &Ygold trim&w, and a &Rred cross&w on the back.  Through the robe you can see that this
+is a very strong man, and would make a worthy figthing compeditor.&g
+~
+1417748554 1 136249361 128 1000 S
+48 0 -40 50d10+53000 99d10+99
+5000000 2000000
+8 8 1
+1 1 22 22 22 25 22 22
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SPELL_HEAL_MAJOR 90
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_FIRELANCE 25
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_EARTHQUAKE 99
+ATTACK_SKILL=90
+ATTACK_SKILL=3
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=95
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=100
+#7101
+mob cardinal gutin~
+&rG&Ruti&rn &rt&Rh&re &RH&rea&Rd &rCa&Rrdin&ral&n~
+&rG&Ruti&rn &rt&Rh&re &RH&rea&Rd &rCa&Rrdin&ral &Wis standing here.&n
+~
+&rYou find yourself looking at a large, powerfull man.  Gutin stands at 8 feet tall, and looks like he weighs
+well over 350 pounds.  He appears to be 100% muscle, and he prides himself on his strength.  No man dares to
+challenge this great fighter.&g
+~
+1417683018 1 136249361 128 1000 S
+48 0 -40 5d10+60000 99d13+99
+5000000 2000000
+8 8 1
+1 0 26 22 22 22 22 22
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=90
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=100
+ATTACK_SKILL=93
+ATTACK_SKILL=15
+ATTACK_SKILL=6
+ATTACK_TYPE=100
+#7102
+mob cardinal~
+&RA Cardinal&n~
+&RA Cardinal&W is standing here.&n
+~
+&RYou are looking at a Cardinal, the highest order of men besides the High Priest.  They dress in all red, and
+walk past you minding their own business.&g
+~
+8 1 136249361 0 1000 S
+42 0 -24 20d10+18000 10d10+60
+1234567 554000
+8 8 1
+0 0 22 17 22 22 22 22
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7103
+mob adolescent guardian~
+&CAn Adolescent Guardian&n~
+&CAn Adolescent Guardian is here, learning to kill&n
+~
+&cYou are looking at an odd creature, half man, half bird.  The guardians are a full male body, with the head of
+an albatross and 3 arms, 2 with hands on the end and one extending out of their chest with sharp talons.  They
+stand 6 feet at adolescence, but will one day grow 9-10 feet tall.&g
+~
+16777224 1 136249361 0 750 S
+43 1 -25 10d50+20100 30d5+90
+1400000 650000
+8 8 1
+0 0 18 15 15 15 15 15
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7104
+mob guardian~
+&cA Guardian&n~
+&cA Guardian is standing here, blocking your way.&n
+~
+&CYou are looking at an odd creature, half man, half bird.  The guardians are a full male body, with the head of
+an albatross and 3 arms, 2 with hands on the end and one extending out of their chest with sharp talons.  It
+stands at about 10 feet tale, towering over you.&g
+~
+10 1 136249361 0 1000 S
+45 0 -30 1d1+31000 28d5+74
+2200000 950000
+8 8 1
+0 0 24 22 22 22 22 22
+ATTACK_SKILL=1
+ATTACK_SKILL=2
+ATTACK_SKILL=3
+ATTACK_TYPE=105
+ATTACK_SKILL=1
+ATTACK_SKILL=2
+ATTACK_SKILL=3
+ATTACK_TYPE=100
+ATTACK_SKILL=1
+ATTACK_SKILL=2
+ATTACK_SKILL=3
+ATTACK_TYPE=100
+#7105
+mob dawn~
+&pDawn&n~
+&CDawn is here, looking beautiful.&n
+~
+&pYou find yourself looking at an incredibly beautiful woman.  She had &ylong brown hair, beautiful brown
+eyes, &pand a smile that could make your heart melt.  Do not be decieved by her beauty, Dawn is well trained
+and can be vicious when fighting.  Beware, she is used to getting her own way!&g
+~
+10 1 136249361 128 1000 S
+48 0 -40 1d1+52000 10d95+50
+4500000 2000000
+8 8 0
+0 0 24 24 24 24 24 24
+ATTACK_SKILL=80
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=80
+ATTACK_SKILL=5
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+#7106
+mob priest~
+&WA &KP&wr&Wie&ws&Kt&n~
+&WA &KP&wr&Wie&ws&Kt &Wis standing here, worshiping all that is holy.&n
+~
+&WThis is a man of God, who devotes all of his time to completely understanding His message.&g
+~
+8 1 136249361 0 1000 S
+42 0 -22 1d1+19000 5d50+60
+1050505 525000
+8 8 1
+0 0 16 15 15 16 15 12
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_HEAL_MINOR 95
+SKILL=SPELL_HEAL_MEDIUM 20
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7107
+mob wandering spirit~
+&wA Wandering Spirit&n~
+&wA Wandering Spirit is here, wandering for eternity.&n
+~
+&WThis is the spirit of a holy member of the Temple of Salvation, it is eternally stuck in the graveyard.&g
+~
+33554446 1 136249361 2 900 S
+44 0 -30 1d1+26500 50d6+50
+1900000 875000
+8 8 0
+0 0 16 15 14 16 14 14
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7108
+mob minister~
+&YA Mi&yni&Yst&yer&n~
+&YA Mi&yni&Yst&yer &Wis standing here.&n
+~
+&WThis is a man of God, who devotes all of his time to completely understanding His message.&g
+~
+8 1 136249361 0 1000 S
+42 0 -22 1d1+18000 8d25+55
+1000000 500000
+8 8 1
+0 0 16 15 15 16 15 12
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_HEAL_MINOR 95
+SKILL=SPELL_HEAL_MEDIUM 20
+#7109
+mob hunchback~
+&YA Hunchback&n~
+&YA Hunchback is here, ringing the bell.&n
+~
+&yThis man is about five feet even, and has a dominating hunchback&g
+~
+10 1 136249361 0 1000 S
+41 0 -25 1d1+16000 10d10+12
+1000000 0
+8 8 1
+0 0 25 6 5 25 22 25
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#7110
+mob chapel guardian~
+&WThe Chapel Guardian&n~
+&WThe Chapel Guardian is standing here.&n
+~
+&WJust another memeber of the clergy, this man makes sure that nobody unathorized enters the chapel.&g
+~
+14 1 136249361 130 1000 S
+44 0 -33 10d10+26550 50d6+50
+1000000 875000
+8 8 1
+0 0 24 15 14 25 14 14
+SKILL=SPELL_HEAL_MINOR 99
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_SKILL=1
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#7111
+mob chapel patron~
+&gA chapel patron&n~
+&gA chapel patron &Wis standing here.&n
+~
+You are looking at a patron of the chapel. They are small, and do nothing but hang around. Useless!
+~
+8 1 136249361 0 1000 S
+41 0 -24 1d1+15800 10d10+12
+950000 400000
+8 8 0
+0 0 17 17 14 16 12 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+$~
+#999999

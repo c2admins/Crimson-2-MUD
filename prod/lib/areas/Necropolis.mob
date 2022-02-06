@@ -1,0 +1,184 @@
+#4400
+mob baltazar necromancer~
+Baltazar the Necromancer~
+Baltazar the Necromancer, Lord of the Lazar stands here.
+~
+You see before you a tall man, about 6 feet tall. He is wearing
+all black. Black robes, gloves, shoes. His hair is totally white,
+and he has dark, midnight eyes. He is happy to see you, he is 
+always happy to see a live person, because that means a new 
+subject. That new subject.. is you.
+~
+1141170250 32769 136249361 136 -900 S
+46 -20 -25 100d89+9000 5d11+70
+2450000 1150000
+8 8 1
+0 0 25 20 20 20 20 20
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 60
+ATTACK_SKILL=99
+ATTACK_SKILL=79
+ATTACK_SKILL=59
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=89
+ATTACK_SKILL=79
+ATTACK_TYPE=103
+#4401
+mob jonathan lazar~
+Jonathan the Lazar~
+Jonathan the Lazar stands here, mourning.
+~
+You see before you a horrid creature, it is what is called a lazar.
+A thing stuck between the spirt life and the real world, the phantasm
+of this poor soul struggles to leave, then struggles to join with the 
+body again, making you shiver in terror. It turns its eyes on you, but
+does not attack, only stares, and smiles a wicked, very wicked smile.
+~
+1174667274 1 136249361 136 -900 S
+44 -20 -30 35d19+13975 4d11+50
+1650000 850000
+8 8 1
+0 0 20 20 20 20 20 20
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=101
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=101
+#4402
+mob jera lazar~
+Jera~
+Jera sneers at you and attacks.
+~
+You see before you Jera, the husband of Jonathon. When she died that
+night in Necropilis, Jonathon resurrected her. She has hated him ever
+since then for putting her in this prison. She hates everyone, except
+her Lazar brethren. She sneers at you, and attacks.
+~
+1174724618 1 136249361 136 -900 S
+44 -20 -30 35d19+13975 4d11+50
+1700000 850000
+8 8 2
+0 0 20 20 20 20 20 20
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=101
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=101
+#4403
+mob kleitus lazar~
+Kleitus the Lazar~
+Kleitus the Lazar stands here.
+~
+You see before you Kleitus, he used to rule Necropilis, but then he
+died and was resurrected to this. He hates all living beings, and trys
+to convert them all to Lazars when he meets them. Maybe you will be his
+next victim..
+~
+1174667274 1 136249361 136 -900 S
+44 -20 -30 35d19+13975 4d11+50
+1600000 850000
+8 8 0
+0 0 20 20 20 20 20 20
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=101
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=101
+#4404
+mob lazar necropilis~
+A Lazar~
+One of the dread lazar of Necropilis stands here.
+~
+You see before you a horrid creature, it is what is called a lazar.
+A thing stuck between the spirt life and the real world, the phantasm
+of this poor soul struggles to leave, then struggles to join with the 
+body again, making you shiver in terror. It turns its eyes on you, but
+does not attack, only stares, and smiles a wicked, very wicked smile.
+~
+1174667276 1 136249393 262280 -900 S
+42 -20 -26 100d19+9000 10d10+35
+975000 575000
+8 8 0
+0 0 20 20 20 20 20 20
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#4405
+mob undead guard necropilis~
+An Undead Guard~
+An Undead Guard stands here.
+~
+You see before you a shell, just skin and bone. No soul, nothing 
+inside it. It stares at nothing endlessly, it has no eyes to blink 
+with. It has no weapon, if you try to get into the city without
+permission, it will crush you to death.
+~
+1174667274 1 136249393 262280 -900 S
+43 -20 -22 100d19+6000 10d10+35
+700000 650000
+8 8 0
+0 0 20 20 20 20 20 20
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#4406
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 15 16 12 15
+#4407
+mob mighty sartan~
+A mighty Sartan~
+A mighty Sartan stands here conjuring up legions of the dead.
+~
+&wThis is one of the mightiest of beings you've ever seen.  He weaves his hands and calls upon the dead to rise.  Once a proud people, the Sartans have forgotten almost all of their heritage.  Now the only thing they seem to amass is legions of dead, as a mysterious illness seems to be killing off the living.&n
+~
+1174708298 32769 136249393 262280 -900 S
+43 -20 -26 100d1+9000 5d15+35
+975000 750000
+8 8 0
+0 0 20 20 20 20 20 20
+SKILL=SPELL_CHARM_PERSON 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 45
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_MORTICE_FLAME 99
+#4408
+mob lazar~
+A Lazar~
+One of the dread lazar of Necropilis stands here.
+~
+You see before you a horrid creature, it is what is called a lazar.
+A thing stuck between the spirt life and the real world, the phantasm
+of this poor soul struggles to leave, then struggles to join with the 
+body again, making you shiver in terror. It turns its eyes on you, but
+does not attack, only stares, and smiles a wicked, very wicked smile.
+~
+1174667276 1 136249393 262280 -900 S
+42 -20 -26 100d1+9000 10d10+35
+975000 575000
+8 8 0
+0 0 20 20 20 20 20 20
+$~
+#999999

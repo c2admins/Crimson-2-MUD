@@ -1,0 +1,204 @@
+#200
+mob zombie captain pirate~
+The zombie captain~
+A grotesque looking zombie is standing here, directing his followers around.
+~
+     Bits of flesh fall off the creature as he slowly crawls towards you. He
+mutters something unintelligable, but you understand what he wants. Flesh to
+feed on is his goal, and lots of it.
+~
+33587214 2097153 136249361 33554568 -900 S
+20 30 24 10d13+1150 5d3+8
+15000 65000
+8 8 1
+1 12 16 18 14 15 12 12
+#201
+mob brimstone captain~
+The Brimstonian captain~
+The captain of the Brimstonian ship stands here, bravely defending his crew.
+~
+     Standing strong and proud, this brave captain valiantly tries to stave
+off the assault from the undead ship. From the look on his face he knows he
+is fighting a losing battle, yet still he remains steadfast for the benefit of
+his crew.
+~
+8716 134250497 136249361 67108904 500 S
+20 20 22 10d10+1200 2d4+2
+7500 62500
+8 8 1
+1 4 17 17 14 14 12 15
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#202
+mob red skeleton~
+&rA red skeleton&n~
+&rA pile of red &Wbones&r lies here.&n
+~
+  As you examine closer, you could swear the pile just moved...
+~
+33554442 134217729 136249361 8 -500 S
+12 27 35 10d5+70 3d4+1
+1000 3900
+8 8 0
+0 0 16 15 15 15 12 12
+#203
+mob black skeleton~
+&KA black skeleton&n~
+&KA pile of black &Wbones&K lies here.&n
+~
+  As you examine closer, you could swear the pile just moved...
+~
+33554442 134217729 136249361 8 -500 S
+16 24 28 10d5+150 4d5+1
+4000 4800
+8 8 0
+0 0 16 17 15 16 13 15
+#204
+mob white skeleton~
+&WA white skeleton&n~
+&WA pile of white bones lies here.&n
+~
+  As you examine closer, you could swear the pile just moved...
+~
+33554442 134217729 136249361 8 -500 S
+10 29 34 10d5+50 1d8+3
+800 3000
+8 8 0
+0 0 16 18 16 15 12 12
+#205
+mob blue skeleton~
+&BA blue skeleton&n~
+&BA blue skeleton stands here, it's hands crackling with &Yelectrical energy&B.&n
+~
+  Standing a bit smaller than the other skeletons, this undead creature looks to have been a 
+mage in its previous life. It's hands still crackle with a magical energy as it prepares to cast 
+against its next victim.
+~
+33554440 134217729 136249361 8 -500 S
+18 22 26 10d10+200 5d5+1
+4500 5400
+8 8 0
+0 0 17 16 14 15 12 15
+SKILL=SPELL_LIGHTNING_BOLT 25
+SKILL=SPELL_SHOCKING_GRASP 80
+#206
+mob red skeleton~
+&rA red skeleton&n~
+&rA red skeleton walks slowly towards you.&n
+~
+  Standing nearly six feet tall, this skeleton was more than likely human in its prior life. Its
+bones glow an eerie red, through some unknown magical power. Most of it's clothing has long ago
+rotted and fallen off, but it still brandishes a rusty sword, which it uses with amazing skill.
+~
+33554442 134217729 136249361 8 -500 S
+12 27 35 10d1+70 3d4+1
+1000 3900
+8 8 0
+0 0 16 15 15 15 12 12
+#207
+mob black skeleton~
+&KA black skeleton&n~
+&KA black skeleton walks slowly towards you.&n
+~
+  Standing nearly six feet tall, this skeleton was more than likely human in its prior life. Its
+bones radiate an eerie black, through some unknown magical power. Most of it's clothing has long 
+ago rotted and fallen off, but it still brandishes a rusty sword, which it uses with amazing 
+skill.
+~
+33554442 134217729 136249361 8 -500 S
+16 24 28 10d1+150 4d5+1
+4000 4800
+8 8 0
+0 0 16 17 15 16 13 15
+#208
+mob white skeleton~
+&WA white skeleton&n~
+&WA white skeleton walks slowly towards you.&n
+~
+  Standing nearly six feet tall, this skeleton was more than likely human in its prior life. Its
+bones glow an eerie white, through some unknown magical power. Most of it's clothing has long 
+ago rotted and fallen off, but it still brandishes a rusty sword, which it uses with amazing 
+skill.
+~
+33554442 134217729 136249361 8 -500 S
+10 29 34 10d1+50 1d8+3
+800 3000
+8 8 0
+0 0 16 18 16 15 12 12
+#209
+mob brimstonian first mate~
+the first mate~
+The first mate of the '&YGriffon's Wing&n' stands here trying to direct combat.
+~
+  Standing just over six feet tall with a moderate build, the first mate of the '&YGriffon's Wing&B'
+shows the same determined confidence that his captain does. He has remained above decks with his
+leader, trying to assist the surviving members of his ship get below decks to make a final stand
+against this undead force.&n
+~
+270346 32769 136249393 268443680 850 S
+17 23 27 10d3+240 2d5+13
+425 5100
+8 8 1
+1 3 17 15 16 14 14 13
+#210
+mob brimstonian cook~
+the cook~
+The cook of the '&YGriffon's Wing&n' stands here, preparing to defend his kitchen.
+~
+  He's a typical slovenly galley cook with a big bulging belly and stains all over his clothes. He
+has a rather nasty scowl upon his face and is determined to fight any undead being that enters his
+kitchen.
+~
+270346 32769 136249393 268443680 850 S
+17 23 27 10d1+240 2d5+13
+425 5100
+8 8 1
+1 3 17 15 16 14 14 13
+#211
+mob brimstonian crewman~
+the crewman~
+A crew member of the '&YGriffon's Wing&n' stands here behind a crate.
+~
+  A tall, strong man in his late twenties, the crewman is bound and determined to destroy any 
+undead creature that dare treads his path.
+~
+8204 1 136249393 268435456 700 S
+15 25 29 10d1+200 2d4+10
+300 4500
+8 8 1
+1 4 16 15 16 16 14 12
+#212
+mob brimstonian crewman~
+the crewman~
+A crew member of the '&YGriffon's Wing&n' stands here, trying to defend the ship.
+~
+  A tall, strong man in his late twenties, the crewman is bound and determined to destroy any 
+undead creature that dare treads his path.
+~
+8204 1 136249393 268435456 700 S
+15 25 29 10d1+200 2d4+10
+300 4500
+8 8 0
+1 4 16 15 16 16 14 12
+#213
+mob karandokis hermit~
+Karandokis~
+A small, feeble looking hermit named &KKarandokis&n stands here.
+~
+  He is a small, feeble looking individual with long greyish hair and an equally long beard. He 
+would seem to be no threat at all, but there is a look of power in his eyes, and there is still 
+there question of how the storm avoids this small island....
+~
+1141112846 1 136249393 67109034 800 S
+25 15 18 10d10+1000 2d5+35
+650 75000
+8 8 1
+1 1 17 17 16 15 13 14
+SKILL=SPELL_DISPEL_EVIL 60
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_SHOCKING_GRASP 80
+SKILL=SPELL_SILENCE 50
+$~
+#999999

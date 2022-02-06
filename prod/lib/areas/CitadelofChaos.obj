@@ -1,0 +1,653 @@
+#4200
+obj horn minotaur stone~
+10
+&wa stone &ymi&Kn&wota&Ku&yr's &yhorn&n~
+A long minotaurs horn made of stone lies here.~
+~
+5 34078720 0 8193
+0 3 4 11
+10 40000 10000
+A
+19 2
+A
+18 1
+A
+2 -2
+#4201
+obj battleaxe axe stone~
+10
+&wa stone &Kbattle axe&n~
+A stone battle axe lies here.~
+~
+5 34603008 0 8193
+0 8 3 3
+10 30000 8000
+A
+19 1
+#4202
+obj longsword runed~
+10
+&wa &Yr&Kune&Yd &wlong&Ksword&n~
+A strange longsword lies here, covered with ancient runes.~
+~
+5 1048576 0 8193
+0 7 4 3
+8 100000 50000
+A
+18 1
+A
+4 2
+#4203
+obj ring sapphire~
+20
+&wa &bsapphire &wr&Win&wg&n~
+A small sapphire ring glints in the light.~
+~
+9 1048576 0 3
+1 0 0 0
+1 80000 20000
+A
+13 10
+A
+12 20
+A
+18 1
+#4204
+obj chainmail silver~
+10
+&wa suit of &wsi&Wlv&wer &wchain&Kmail&n~
+A suit of fine silver chainmail is lying here.~
+~
+9 524289 0 9
+10 0 0 0
+20 50000 11000
+A
+13 15
+#4205
+obj bracers beast~
+10
+&Wthe &ybracers &Wof the &Rb&reas&Rt&n~
+A set of huge bracers have been left here.~
+~
+9 34668544 0 257
+10 0 0 0
+8 100000 25000
+A
+19 2
+A
+1 1
+#4206
+obj cloth loincloth bloody rags pile~
+10
+&wa &Rb&rloo&Rd &Rs&rtaine&Rd &yloin cloth&n~
+A pile of bloody rags lay on the ground.~
+~
+9 33554432 0 2049
+10 0 0 0
+2 4000 1000
+#4207
+obj staff gnarled chaos~
+10
+&ya gnarled staff&n~
+A gnarled old staff lays here on the ground.~
+~
+5 524288 0 8193
+0 2 12 6
+4 80000 20000
+A
+3 1
+A
+12 20
+#4208
+obj robe chaos~
+30
+&wthe &Wrobe&w of &Kc&Ghao&Ks&n~
+A strange robe lies here, covered with chaotic markings.~
+~
+9 1114112 0 1025
+6 0 0 0
+3 25000 7000
+A
+12 25
+A
+13 -20
+A
+3 1
+A
+18 1
+#4209
+obj dagger twisted~
+20
+&wa twisted &Kdagger&n~
+A small dagger with a twisted blade lies here.~
+~
+5 540672 0 8193
+1 2 12 11
+4 120000 30000
+A
+19 -1
+A
+18 1
+A
+2 1
+#4210
+obj cross chaotic~
+20
+&Wa &Kch&Gaot&Kic &Wcross&n~
+A small cross belonging to the gods of chaos lies here.~
+~
+9 570880 0 5
+1 0 0 0
+1 130000 40000
+A
+4 1
+A
+12 10
+A
+18 1
+#4211
+obj legplates crimson~
+10
+&Wsome &rcrimson &wleg&Kplates&n~
+A pair of crimson legplates have been left here.~
+~
+9 1048576 0 33
+5 0 0 0
+5 70000 15000
+A
+19 1
+A
+18 1
+A
+14 -20
+#4212
+obj helmet firey~
+15
+&wa &rf&Ri&Ye&Rr&ry &Khelmet&n~
+Flames crawl out the sides of a helmet that is left on the ground.~
+~
+9 1114112 0 17
+8 0 0 0
+3 130000 33000
+A
+18 2
+A
+19 1
+A
+13 -15
+#4213
+obj gauntlets heat~
+12
+&wthe &Kgauntelets &wof &rh&Rea&rt&n~
+A pair of extremely hot gauntlets lie on the ground.~
+~
+9 1114112 0 129
+10 0 0 0
+3 70000 10000
+A
+1 1
+A
+19 1
+A
+13 -15
+A
+2 -2
+#4214
+obj battleaxe axe igour~
+10
+&WI&wg&Gou&wr&W's &wbattle&Kaxe&n~
+The battle axe used by the great minotaur Igour, lays here on the ground.~
+~
+5 34603008 0 8193
+16384 6 3 3
+11 140000 40000
+A
+19 3
+A
+18 3
+#4215
+obj ringmail spiked suit~
+10
+&wa suit of spiked ring&Kmail&n~
+A suit of spiked ringmail lies on the ground.~
+~
+9 34668544 0 9
+15 0 0 0
+60 80000 20000
+A
+19 1
+#4216
+obj ring signet nark~
+10
+&Kthe signet ring of N&Yar&Kk&n~
+A rather large signet ring has been left here.~
+~
+9 34078720 0 3
+5 0 0 0
+2 30000 4000
+A
+5 2
+A
+13 10
+#4217
+obj surcoat red~
+10
+&wa &Rred &rsurcoat&n~
+A magnificent looking red surcoat lies here in the dirt.~
+~
+9 35717120 0 1025
+7 0 0 0
+2 60000 20000
+A
+13 10
+A
+37 -1
+A
+18 3
+#4218
+obj robe blood red~
+10
+&ra &Rb&rloo&Rd &Rr&re&Rd &Rr&rob&Re&n~
+A blood red robe lies here on the ground.~
+~
+9 34668544 0 1025
+13 0 0 0
+3 80000 10000
+A
+12 30
+#4219
+obj orb true~
+20
+&wthe &WOrb &wof &CT&Brue Seein&Cg&n~
+a large orb has been dropped here.~
+~
+1 34078720 0 65537
+40 3 200 97
+1 100000 25000
+A
+26 -1
+A
+31 -1
+A
+32 -1
+A
+27 -1
+#4220
+obj scroll minotaur~
+0
+&Wa &yminotaur&W scroll&n~
+A curled scroll lays on the ground.~
+~
+2 33816576 0 1
+41 4 4 2
+1 80000 10000
+#4221
+obj armor minotaur ceremonial~
+10
+&wa suit of &yminotaur &Wceremonial &Karmor&n~
+A large suit of minotuar ceremonial armor has been left here.~
+~
+9 34668544 0 9
+15 0 0 0
+80 200000 25000
+A
+19 1
+#4222
+obj fauchard large~
+10
+&wa large &Kfauchard&n~
+A large fauchard has been thrust into the ground here.~
+~
+5 34603008 0 8193
+0 6 4 3
+8 80000 20000
+A
+19 2
+A
+18 3
+#4223
+obj talisman chaos~
+10
+&wthe &KTalisman &wof &KC&Ghao&Ks&n~
+A large talisman lies on the ground, displaying runes of chaos.~
+~
+9 34603008 0 5
+8 0 0 0
+6 13000 30000
+A
+19 2
+A
+12 10
+#4224
+obj flame chaos~
+5
+&wthe &KC&Ghao&Ks &rF&Rl&Ya&Rm&re&n~
+An ever burning flame of chaos flickers with a magical light.~
+~
+1 35651585 0 65537
+0 0 100 0
+5 400000 35000
+A
+19 2
+A
+5 1
+A
+18 1
+#4225
+obj bandana black thorns~
+10
+&Ka black bandana of &ythorns&n~
+A large black bandana, covered with sharp thorns rests on the ground.~
+~
+9 35667968 0 17
+10 0 0 0
+2 120000 30000
+A
+19 2
+A
+13 -20
+A
+5 -1
+#4226
+obj boots spiked iron~
+10
+&wa pair of spiked &Kiron boots&n~
+A pair of spiked iron boots have been left here.~
+~
+9 35659776 0 65
+10 0 0 0
+40 200000 50000
+A
+19 1
+A
+18 2
+A
+14 -10
+#4227
+obj greaves spiked iron~
+20
+&wsome spiked &Kiron greaves&n~
+Some spiked iron greaves lay on the ground.~
+~
+9 35717120 0 33
+15 0 0 0
+40 200000 20000
+A
+18 1
+A
+19 1
+A
+2 -2
+#4228
+obj belt daggers~
+10
+&wthe &ybelt &wof &Kdaggers&n~
+A large belt with lots of daggers attached to it lies here.~
+~
+9 35717120 0 2049
+10 0 0 0
+5 120000 30000
+A
+19 2
+A
+18 2
+A
+13 10
+#4229
+obj sleeves malice~
+10
+&Kthe Sleeves of Malice&n~
+A pair of dangerous looking sleeves lie here in the dirt.~
+~
+9 34603520 0 257
+9 0 0 0
+10 80000 20000
+A
+19 1
+A
+18 3
+A
+13 -15
+A
+12 -15
+#4230
+obj axe greataxe fire~
+5
+&wthe &YGr&ye&Yat &KAxe &wof &rF&Rir&re&n~
+A massive axe lays on the ground. surrounded in a strange magic flame.~
+~
+5 35655680 0 8193
+65536 7 7 3
+13 200000 75000
+A
+19 1
+A
+18 4
+#4231
+obj cloak fire~
+10
+&wthe &KC&wloa&Kk &wof &rF&Rir&re&n~
+A large cloak, covered with flames has been left here.~
+~
+9 35717120 0 5
+12 0 0 0
+7 140000 35000
+A
+19 2
+#4232
+obj ring crimson~
+10
+&wa &rcrimson &Kring&n~
+A large crimson coloured ring lies here.~
+~
+9 1048576 0 3
+4 0 0 0
+6 200000 20000
+A
+19 1
+A
+18 1
+#4233
+obj boots henark~
+8
+&wthe &yBoots &wof &rH&Ke&rna&Kr&rk&n~
+A huge pair of boots lay here sourounded in flames.~
+~
+9 35659776 0 65
+10 0 0 0
+20 200000 30000
+A
+19 1
+A
+14 10
+A
+18 2
+#4234
+obj greaves blood stained~
+10
+&wsome &Rb&rloo&Rd s&rtaine&Rd &Kgreaves&n~
+A large set of blood stained greaves lie in a pile on the ground~
+~
+9 1114112 0 524321
+7 0 0 0
+20 80000 10000
+A
+19 1
+A
+1 2
+#4235
+obj plate firey breast~
+10
+&wa &rf&Ri&Yr&Re&ry &wbreast&Kplate&n~
+A large firey breast plate lies on the ground.~
+~
+9 35651584 0 9
+30 0 0 0
+30 200000 50000
+A
+19 3
+A
+18 1
+#4236
+obj bracelet chaos~
+10
+&wa &Kc&Ghao&Ks &Kbracelet&n~
+A large bracelet of chaos lies here.~
+~
+9 34603008 0 4097
+5 0 0 0
+5 80000 10000
+A
+19 2
+A
+18 1
+A
+4 -2
+A
+3 -1
+#4237
+obj armor training armour~
+10
+&wa &ysuit &wof &ytraining &Karmor&n~
+A suit of chaos warrior training armor lies here.~
+~
+9 65536 0 9
+7 0 0 0
+80 10000 4000
+#4238
+obj ranseur~
+10
+&wa &Kranseur&n~
+A ranseur leans against a nearby wall.~
+~
+5 0 0 8193
+0 4 4 3
+6 5000 1200
+A
+18 1
+#4239
+obj bands arm minotaur~
+12
+&wsome &yminotaur &warm &Kbands&n~
+A large pair of minotaur arm bands lay on the ground.~
+~
+9 33554432 0 257
+4 0 0 0
+3 5000 1200
+#4240
+obj loincloth cloth minotaur~
+10
+&wa &yminotaur lioncloth&n~
+A large cloth lies on the ground.~
+~
+9 33554432 0 2049
+6 0 0 0
+2 4000 1000
+#4241
+obj plate breast crimson~
+10
+&wa &rcrimson &wbreast&Kplate&n~
+A chaos warriors breast plate lies on the ground.~
+~
+9 65536 0 9
+10 0 0 0
+40 20000 4000
+#4242
+obj platemail chaos~
+10
+&wa suit of &Kc&Ghao&Ks &wplate&Kmail&n~
+A suit of chaos platemail lies at your feet.~
+~
+9 589824 0 9
+14 0 0 0
+90 30000 8000
+A
+19 1
+A
+13 10
+#4243
+obj legplates iron~
+10
+&wsome &Kiron legplates&n~
+A pair of iron legplates lie on the ground.~
+~
+9 33554432 0 33
+8 0 0 0
+20 8000 2000
+#4244
+obj armplates iron~
+10
+&wsome &Kiron armplates&n~
+A large set of iron armplates lie on the ground.~
+~
+9 33554432 0 257
+8 0 0 0
+12 5000 1000
+#4245
+obj plate breast iron~
+10
+&wan &Kiron breastplate&n~
+A large iron breast plate lies in the dirt.~
+~
+9 33619968 0 9
+12 0 0 0
+60 20000 5000
+#4246
+obj battleaxe axe large~
+10
+&wa &ylarge &wbattle&Kaxe&n~
+A large battleaxe rests on the ground.~
+~
+5 33554432 0 8193
+0 6 3 3
+8 8000 2000
+#4247
+obj ring minotaur large~
+10
+&wa large &yminotaur &Kring&n~
+A large minotaur ring lies on the ground.~
+~
+9 33554432 0 3
+3 0 0 0
+1 4000 1000
+A
+5 1
+#4248
+obj armor battle armour minotaur~
+10
+&wsome &yminotaur &wbattle &Karmor&n~
+A large suit of minotaur battle armor lies in a heap on the ground.~
+~
+9 34144256 0 9
+15 0 0 0
+100 30000 13000
+A
+18 1
+#4249
+obj shield large miotaur war~
+10
+&wa lar&Kge mi&ynotaur w&Kar sh&wield&n~
+A large minotaur war shield has been left here.~
+~
+9 34078720 0 513
+10 0 0 0
+12 20000 10000
+A
+19 1
+A
+4 -1
+#4250
+obj golden statue dutch~
+100
+A golden statue of Dutch~
+A golden statue of Dutch is standing here.~
+~
+8 0 0 0
+0 0 10 0
+100000 5 5
+E
+obj golden statue dutch~
+A golden statue of the mighty immortal Dutch is standing here.
+~
+$~
+#999999

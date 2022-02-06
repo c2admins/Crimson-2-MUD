@@ -1,0 +1,81 @@
+#4100
+obj blade black demon~
+3
+a black demon blade~
+A black demon blade is here, you sense the forces of evil
+controling the weapon.~
+~
+5 2560 8 8193
+32 5 3 3
+8 10000 3500
+E
+blade~
+You'll become as evil as the weapon, if you use it!
+~
+#4101
+obj gloves swordsmans~
+15
+some swordsman's gloves~
+Some gloves are here. They look good for fighting with.~
+~
+9 512 0 129
+0 0 0 0
+1 1500 500
+E
+gloves~
+Looks very usefull in combat.
+~
+A
+13 20
+#4102
+obj scroll ysafg~
+100
+a scroll which reads "ysafg"~
+A scroll which reads "ysafg", it looks very fragile and quite old.~
+~
+2 0 0 1
+1 53 0 0
+1 1500 500
+E
+scroll~
+It looks informative.
+~
+#4103
+obj slime mold~
+100
+a green slime mold~
+A green slime mold is here. It smells awful.~
+~
+19 0 0 1
+24 0 0 0
+1 20 8
+E
+smile mold~
+It wasn't mend to be food, - Certainly not for humans.
+~
+#4104
+obj slime mold~
+100
+a green slime mold~
+A green slime mold is here. It smells awful.~
+~
+19 0 0 1
+24 0 0 1
+1 20 8
+E
+smile mold~
+It wasn't mend to be food, - Certainly not for humans.
+~
+#4105
+obj blade moors trolls~
+2
+&GBlade of the moors trolls&n~
+A wicked looking blade lies here.~
+~
+5 4194816 0 8193
+64 11 5 3
+10 40000 3000
+A
+19 4
+$~
+#999999

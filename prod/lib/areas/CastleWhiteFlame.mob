@@ -1,0 +1,494 @@
+#20200
+mob Guard White Flame~
+Guard of the White Flame~
+A Guard of the White Flame is here standing guard.
+~
+A Guard of the White Flame stands here on guard. He keeps a watchful eye on you.
+His bright white armor shimmers in the light.
+~
+262922 32769 136249361 0 1000 S
+41 3 -20 100d50+5000 20d10+21
+850000 300000
+8 8 1
+1 4 18 18 15 15 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+#20201
+mob Snarling Beast~
+A Large Snarling Beast~
+A Large Snarling Beast Is Here.
+~
+You see a large creature drooling and snarling at you.
+~
+57864 32769 136249361 0 -1000 S
+43 1 -29 100d125+10000 3d15+5
+1000000 700000
+8 8 0
+0 0 19 18 15 15 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#20202
+mob Wizard~
+Wizard of the White Flame~
+The Wizard Is Here, Asleep In His Bed.
+~
+You see a wise old wizard asleep in his bed. He has short grey hair and a long grey beard.
+~
+1074004746 32769 136249361 0 1 S
+43 1 -39 100d4+14000 40d10+50
+1600000 750000
+8 8 1
+1 1 18 22 22 15 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+#20203
+mob Large Creature~
+A Large Creature~
+A Large Creature Is Here Growling At You.
+~
+A large creature is standing here looking down at you. It opens it mouth and lets out a
+loud howl.
+~
+319498 1 136249361 0 0 S
+43 2 -26 48d48+9000 10d9+60
+1600000 650000
+8 8 0
+0 0 17 18 14 15 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#20204
+mob Queen Liane~
+Queen Liane~
+Queen Liane stands here gazing out the window.
+~
+Before you stands a beautiful young queen. Tall, slender, elegant, Her beauty is known
+across the land. Her hair shimmers a dark indigo. Her eyes glow a light aqua.
+Comfortably dressed in an ermine cloak, with a tiara placed on her head. She turns to
+you and smiles.
+~
+262426 1310721 136249361 128 1000 S
+48 1 -30 100d100+30000 40d20+80
+1700000 1500000
+8 8 2
+1 5 21 20 20 20 19 18
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=4
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20205
+mob Guard White Flame~
+Guard of the White Flame~
+A Guard of the White Flame is here standing guard.
+~
+A Guard of the White Flame stands here on guard. He keeps a watchful eye on you.
+His bright white armor shimmers in the light.
+~
+522 1 136249361 0 1000 S
+41 3 -20 100d1+5000 20d10+21
+850000 300000
+8 8 1
+4 0 18 18 15 15 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+#20206
+mob skeleton~
+Skeleton~
+A Skeleton Is Here
+~
+You see a large skeleton with brittle bones covered with cobwebs.
+~
+58122 32769 136249361 0 1000 S
+42 3 -20 100d2+8000 20d10+21
+850000 450000
+8 8 0
+0 0 19 18 15 15 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+#20207
+mob Royal Chef White Flame~
+Royal Chef~
+A Royal Chef Is Cooking Here.
+~
+You see a large man wearing a white apron and a chefs hat cooking up some food for the 
+King and Queen.
+~
+262666 1 136249361 128 1000 S
+41 3 -20 100d1+5000 20d10+21
+850000 300000
+8 8 1
+1 4 18 18 15 15 13 15
+#20208
+mob Historian~
+A Historian~
+A Historian Is Working Here.
+~
+You see a man working at his desk.
+~
+262922 32769 136249361 0 1000 S
+41 2 -37 100d4+8000 20d12+22
+900000 350000
+8 8 1
+1 5 18 18 15 15 13 15
+#20209
+mob Kings Servant~
+A Servant Of The King~
+One Of The Kings Servants Is Here.
+~
+You see a scrawny young man here. He is dressed in torn white clothing.
+~
+262984 32769 136249361 0 1000 S
+42 1 -20 45d18+8800 10d19+60
+900000 550000
+8 8 1
+1 4 18 18 15 15 13 15
+#20210
+mob Torturer~
+Torturer~
+The Torturer Stands Here Waiting For Someone To Torture.
+~
+A large man with bulging muscles stands here. He waits eagerly to torture evil ones who
+oppose the laws of the White Flame.
+~
+522 1 136249361 0 0 S
+43 1 -28 50d20+12000 15d15+5
+850000 730000
+8 8 1
+1 4 21 18 15 15 13 15
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20211
+mob Poisonus Spider~
+A Poisonus Spider~
+A Poisonus Spider Crawls Around Here.
+~
+A large spider crawls around here, spinning its web to catch its victims in.
+~
+270858 1 136249361 0 1000 S
+41 3 -20 100d2+7000 20d10+21
+850000 300000
+8 8 0
+0 0 18 18 15 15 13 15
+ATTACK_SKILL=4
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20212
+mob King White Flame Michael~
+King of the White Flame~
+The King Is Here Working At His Desk.
+~
+Sitting here is King Michael. A handsome king dressed in large robes.
+~
+262154 1 136249361 128 1000 S
+45 1 -30 100d100+10000 45d25+80
+1800000 1000000
+8 8 1
+1 4 16 18 15 14 13 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20213
+mob Giant Rattlesnake~
+Giant Rattlesnake~
+A Giant Rattlesnake Slithers Around Here.
+~
+A large snake slithers around here. Unusually large, with hideous fangs. Truly a
+creature to be feared by all.
+~
+1276436744 32769 136249361 67109068 -500 S
+42 3 -26 99d99+10000 9d9+125
+980000 500000
+8 8 0
+0 0 21 15 14 15 13 15
+#20214
+mob Royal Knight White Flame~
+Royal Knight Of The White Flame~
+A Royal Knight Of The White Flame Is Here.
+~
+Here stands a royal knight. Dressed in white armor with a gleeming sword. His Muscles so large
+you see why he was chosen as a royal knight.
+~
+270602 32769 136249361 8 0 S
+42 1 -26 100d1+14000 7d5+43
+1000000 535000
+8 8 1
+0 0 22 21 19 19 19 17
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 60
+SKILL=SKILL_FOURTH 30
+SKILL=SKILL_RAGE 75
+#20215
+mob Castle Watchman~
+A Castle Watchman~
+A Castle Watchman is here keeping an eye on things.
+~
+You see a tall man wandering around the castle making sure everything is okay.
+~
+270408 1 136249361 8 1000 S
+48 0 -28 100d100+90000 20d11+45
+3200000 1500000
+8 8 1
+1 0 22 22 19 19 19 17
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=102
+#20216
+mob Ghost~
+Castle Ghost~
+A Ghost Wanders Around Here.
+~
+A ghost of one of the former inhabitents of this castle wanders around here.
+~
+262154 1 136249361 8 0 S
+42 1 -26 100d2+9000 9d9+18
+1000000 535000
+8 8 0
+0 0 22 21 19 19 19 17
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+#20217
+mob Warlord Karloff~
+The Warlord Karloff~
+The Warlord Karloff Stands Here.
+~
+You see a large man. Once the meanest warlord in all the land but now he's forever locked
+up in this cell for attempting to assassinate the king.
+~
+319498 32769 136249361 8 -1000 S
+43 1 -26 100d1+14000 10d10+25
+1000000 650000
+8 8 1
+1 0 22 21 19 19 19 17
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#20218
+mob Faceless Man~
+A Faceless Man~
+A Faceless Man Stands Here.
+~
+You are disgusted when you see this faceless man. His face brutally hacked off by the 
+torturer.
+~
+262154 32769 136249361 8 0 S
+46 1 -26 100d80+17000 9d9+24
+1000000 1104000
+8 8 1
+1 0 22 21 19 19 19 17
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=98
+ATTACK_SKILL=97
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=98
+ATTACK_SKILL=97
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#20219
+mob Librarian mob~
+Chapel Librarian~
+The Chapel Librarian Stands Here Shuffling Through Books.
+~
+You see a young intelligent woman with long flowing blonde hair and green eyes.
+~
+1074003978 1 136249393 136 1000 S
+43 1 -28 6000d1+10 40d10+50
+1000000 735000
+8 8 2
+0 0 21 20 21 20 18 19
+SKILL=SKILL_RAGE 75
+#20220
+mob Guardian White Flame~
+Guardian of the White Flame~
+The Guardian Of The White Flame Stands Here.
+~
+You see a strong young man before you, his hands and face covered in scars.
+~
+262154 32769 136249361 136 1000 S
+48 0 -25 50d1+20000 30d10+50
+1000000 1600000
+8 8 1
+0 0 22 21 20 21 17 17
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20221
+mob Prince Alexander~
+Prince Alexander~
+A Young Prince Stands Here.
+~
+A young prince dressed in white glowing clothes stands here. 
+~
+67375178 32769 136249361 33554560 0 S
+43 1 -28 30d1+11000 40d5+30
+940000 650000
+8 8 0
+0 0 17 15 14 14 15 14
+SKILL=SPELL_BURNING_HANDS 50
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_SECOND 80
+SKILL=SPELL_HEAL_MINOR 65
+SKILL=SPELL_HEAL_MEDIUM 5
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20222
+mob Ogre~
+Ogre~
+A Large Ogre Stands Here Guarding The Cells.
+~
+A large ogre covered in warts stands here.
+~
+262154 32769 136249361 100671496 0 S
+43 1 -28 100d1+20000 9d9+45
+1000000 680000
+8 8 0
+7 0 21 20 20 20 20 17
+SKILL=SKILL_EXTRA_DAMAGE 67
+SKILL=SPELL_ACID_BREATH 45
+#20223
+mob Drunken Guard~
+A Drunken Guard~
+A Drunken Guard Is Here, Sprawled Out On The Floor.
+~
+A guard lies here surrounded by liquor bottles.
+~
+67375178 32769 136249361 33554560 0 S
+43 1 -28 30d1+11000 40d5+30
+940000 650000
+8 8 1
+0 0 17 15 14 14 15 14
+SKILL=SPELL_SHOCKING_GRASP 50
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_SECOND 80
+SKILL=SPELL_HEAL_MINOR 65
+SKILL=SPELL_HEAL_MEDIUM 5
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+#20224
+mob weyr gold dragon~
+&WW&wey&Wr&w, the &YG&yo&Yld &KD&wr&Wag&wo&Kn&n~
+A majestic golden dragon is here.
+~
+ A graceful and wise dragon, Weyr is only a mere 500 years old. He was orphaned as a fledgling, and found
+and raised by Asha'Ele, the silver dragon that now serves Vorn. When he came of age to leave the nest, Weyr
+chose to leave all of Torindrel behind, and struck out for the old lands. He happened upon this castle in
+his travels, and seeing the kind and good natured folk, decided to stay and become their guardian. He is 
+now revered much like a god, and he plays the role well, though he doesn't enjoy it much. Several times a
+year he flies back to Torindrel, to visit his surrogate mother and to check on the progress of Brimstone, 
+which he has begun to have a growing fascination with. 
+~
+1080303694 134250497 136249361 1143472364 1000 S
+50 -40 -40 10d120+85000 30d15+45
+7000000 2500000
+8 8 1
+0 0 16 17 15 15 15 14
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 65
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_TYPE=105
+$~
+#999999

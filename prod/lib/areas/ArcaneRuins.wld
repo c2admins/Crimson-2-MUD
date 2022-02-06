@@ -1,0 +1,1282 @@
+#20850
+Arcane Ruins Entry~
+This zone is the land of the damned.  Mystery, horror and the unknown crawl
+through this bloodless land of shade and vision.  Monsters, wraiths and 
+gruesome terror grip this area.  Where science or logic may apply to other 
+zones, this zone exists simply to kill, maim and humiliate.
+Enjoy your visit.
+~
+104 12 0 1 99 1
+D4
+The bogs of sharrizar
+~
+~
+0 -1 7503
+D5
+A dank, swampy forest area.
+Is that a wolf?
+~
+~
+0 -1 20851
+S
+#20851
+Swampy Forest Area~
+Water seeps into your boots and the stench of rotting vegetation and animal
+excrement clings to you.  Around you bushes seem to be rustling.  Is it 
+possible that there is life nearby?  Keep your eyes open.  You can never tell
+what will happen.
+~
+104 268435468 0 1 99 1
+D0
+towards the lagoon
+~
+~
+0 -1 20907
+D1
+the swampy path
+~
+~
+0 -1 20866
+D3
+A swampy path
+~
+~
+0 -1 20852
+D4
+The entryway to the Arcane Ruins.
+~
+~
+0 -1 20850
+S
+#20852
+A Swampy Pathway~
+A swampy pathway leading towards a mausoleum.  What could be inside?  And 
+why is cheesy horror movie music beginning to play?
+~
+104 268435464 0 1 99 1
+D1
+a swamp area
+~
+~
+0 -1 20851
+D3
+a swampy path
+~
+~
+0 -1 20853
+S
+#20853
+A Swampy Pathway~
+Just to the north you see the crumbly old Mausoleum.  Be careful!  Oh so careful!  I sense danger!  Danger I tell you!
+*ahem*
+It's all good.
+~
+104 268435464 0 1 99 1
+D0
+the Mausoleum
+~
+~
+1 0 20854
+D1
+a swampy path
+~
+~
+0 -1 20852
+S
+#20854
+Mausoleum~
+Dust, bone and bits of hair and flesh lie in piles in this foul, reeking crypt
+of the damned.  All around you large spiders spin strong, glistening webs.
+~
+104 268435464 0 1 99 1
+D2
+a swampy path
+~
+~
+1 0 20853
+D5
+Underground passage
+~
+~
+0 -1 20855
+S
+#20855
+Tunnel Beneath the Swamp~
+This murky tunnel smells of decay and raw matter.  You can barely see your hands when
+you hold them to your face.  Cobwebs hang from the ceiling and walls.  You never know
+what you might bump into.
+~
+104 268435464 0 1 99 1
+D0
+Tunnel below the swamp
+~
+~
+0 -1 20856
+D4
+Mausoleum entry way.
+~
+~
+0 -1 20854
+S
+#20856
+Tunnel Beneath the Swamp~
+The tunnel stinks of mildew and there's a definite chill in the room.  Water
+drips from the ceiling.  Roots from the swamp land plants dangle from above you.
+~
+104 268435464 0 1 99 1
+D0
+The branchway.
+~
+~
+0 -1 20857
+D2
+Tunnel entrance
+~
+~
+0 -1 20855
+S
+#20857
+The Branchway~
+The tunnel splits to the west and the east.  To the east you see stone steps 
+leading downward.  To the east, you see a dim light.  Perhaps it's an exit?
+But an exit to where?
+~
+104 268435464 0 1 99 1
+D1
+a dimly lit passage
+~
+~
+0 -1 20862
+D2
+The tunnel beneath the swamp.
+~
+~
+0 -1 20856
+D3
+a stone corridor
+~
+~
+0 -1 20860
+S
+#20858
+The Crypt of the Lord of Vampires.~
+The tomb of Dracula is a ghastly, candle-lit dungeon.  The cold stone walls are slick with
+moisture, and a goblet with a dried red film lies on a table near his casket.  Be aware
+and be very careful, for though the evil vampire is physically weak, his powers of sorcery
+and his mastery of the black arts makes him more than a match for any visitor.
+~
+104 268435464 0 1 99 1
+D2
+Entrance to the dungeon of blood.
+~
+door~
+1 0 20861
+S
+#20859
+Frankenstein's Chamber.~
+The dimly lit laboratory houses a great beastly creature.  Pieced together from various 
+corpses, and given life through alchemical means, the Frankenstein monster is not truly
+alive, nor is he dead.  But he is angry.  And he craves revenge on those who would fear
+or hate him.
+~
+104 268435464 0 1 99 1
+D1
+Entryway into the lab.
+~
+~
+0 -1 20865
+S
+#20860
+&wThe Stone Corridor&n~
+This stone corridor leads you downward, into a dark, dungeon-like tomb.  Your footsteps echo
+on the hard stone, and you have to step over small piles of rotten meat and rat corpses.
+This is not where you'd like to have your honeymoon.
+~
+104 268435464 0 1 99 1
+D1
+the branchway
+~
+~
+0 -1 20857
+D5
+Bottom of the &wstone&n stairwell.
+~
+~
+0 -1 20861
+S
+#20861
+Before the Dungeon of &RBlood&n~
+Looking to the north is an old, wooden door.  You smell something rancid and almost coppery.
+The floor has many streaks of red &rgore&n.  Take care.  Beyond this door lies evil eternal.
+~
+104 268435464 0 1 99 1
+D0
+The Crypt of the Lord of Vampires.
+~
+door~
+1 0 20858
+D4
+&wa stone corridor&n
+~
+~
+0 -1 20860
+S
+#20862
+A Dimly Lit Path~
+This passage of dust and ash leads slowly upwards towards a pinhole of light.
+Perhaps there's a way out of this dark and dreary passage that isn't too dangerous?
+~
+104 268435464 0 1 99 1
+D3
+the branchway
+~
+~
+0 -1 20857
+D4
+one step closer to the &Wlight&n.
+~
+~
+0 -1 20863
+S
+#20863
+&nCloser to the &WLight&n.~
+Closer and closer, you approach the light.  It's not so far away...maybe you can run there
+and get out of this place!  Run!  RUN!
+Or walk fast.  Whatever works best for you.
+~
+104 268435464 0 1 99 1
+D4
+So close to the light it's scary!  The exit can be seen!
+~
+~
+0 -1 20864
+D5
+A dusty dirt path.
+~
+~
+0 -1 20862
+S
+#20864
+A Few Feet to Freedom!~
+You're getting so close now!  The light is only a few feet away!  Quickly, now!  Just
+keep moving!  You're going to make it!  You're almost there!
+~
+104 268435464 0 1 99 1
+D4
+The &WLIGHT!
+~
+~
+0 -1 20865
+D5
+a step away from the &Wlight&n.
+~
+~
+0 -1 20863
+S
+#20865
+&cThe &WLIGHT!&n~
+You've reached the light!  But what you saw as the light is really only a lit entry into a 
+new room.  As you peer around the room, you notice that it is a lab.  But what's inside?
+~
+104 268435464 0 1 99 1
+D3
+The Laboratory of Dr. Frankenstein
+~
+~
+0 -1 20859
+D5
+a passage between darkness and light
+~
+~
+0 -1 20864
+S
+#20866
+Path towards the Howling Woods~
+The swampy ground begins to get a little less moist.  A path is visibly leading you to 
+a dark, ominous forest.  Do you move forward, or do you turn back?  Or, even more frightening, do you even have a choice?
+~
+104 268435464 0 1 99 1
+D1
+on the trail to the Howling Woods
+~
+~
+0 -1 20867
+D3
+the swampy marsh
+~
+~
+0 -1 20851
+S
+#20867
+Path towards the Howling Woods~
+The Howling Woods seems to swallow the path as you walk closer to it.  Any form of light
+from the sky is absorbed by the vegetation.  You think that anything can happen in there...
+And you are probably right.
+~
+104 268435464 0 1 99 1
+D1
+the Howling Woods entry
+~
+~
+0 -1 20868
+D3
+a path into the swamp
+~
+~
+0 -1 20866
+S
+#20868
+The Foreboding Mouth of Howling Woods~
+Peering into the mouth of the woods, you hear screeching and screaming... Animals?  People?
+Or...something more supernatural?  It's an inky black in there.  How many people have been
+lost within this forest?  And are you doomed to join them?
+~
+104 268435464 0 1 99 1
+D1
+inside the Howling Woods
+~
+~
+0 -1 20869
+D3
+a path towards the swamp
+~
+~
+0 -1 20867
+S
+#20869
+Inside the Howling Woods~
+Every sound you make seems amplified... Can all creatures hear you?  Can they track you?
+And you still can't see too well.  Who can tell if something is behind you or beside you...
+Until it's too late?
+~
+104 268435465 0 1 99 1
+D0
+a darkening path through the Howling Woods
+~
+~
+0 -1 20870
+D3
+the entryway to the forest
+~
+~
+0 -1 20868
+S
+#20870
+A Path Through the Howling Woods~
+Following the path you see dark pools collecting at odd intervals.  You bend down to look
+at the puddles more closely.  It's so dark, you can't tell what it is.  So you stick your
+finger into the puddle and bring your finger close to your nose... It smells salty and 
+slightly metallic...could it be &rblood&n?
+~
+104 268435465 0 1 99 1
+D0
+the howling path
+~
+~
+0 -1 20871
+D2
+a path through the Howling Woods
+~
+~
+0 -1 20869
+S
+#20871
+The &rHowling&n Path~
+You look towards the east, where the path wants you to go and you notice a clearing.  You
+see evidence of many small fires in this clearing.  What could have happened here?  As you
+venture clearer to the scorched areas, you notice small metal cauldrons and pieces of lizards
+and other animals scattered around.  It's almost like someone was trying to make potions 
+here....
+~
+104 268435465 0 1 99 1
+D1
+The &GWitches&n clearing.
+~
+~
+0 -1 20872
+D2
+the howling path
+~
+~
+0 -1 20870
+S
+#20872
+The &GWitches&n Clearing~
+To the north, south and east you see an expansive clearing.  Could this whole area be for
+witches?  No, surely not... I mean, for an area this big, there'd have to be several of
+them...  And how many witches could there possibly be?  Right?  Right?
+~
+104 268435465 0 1 99 1
+D0
+the northern edge of the clearing
+~
+~
+0 -1 20873
+D1
+the &rHowling&n path
+~
+~
+0 -1 20875
+D2
+the southern boarder of the clearing
+~
+~
+0 -1 20876
+D3
+along the &rHowling&n path
+~
+~
+0 -1 20871
+S
+#20873
+The Northern Edge of the &GWitches&n Clearing~
+This is the northern border of the witches clearing.  Ashes, blood and disturbing pentagrams are strewn throughout the landscape in disturbing fashion.
+Just what are these witches doing?  And are they all around?
+~
+104 268435465 0 1 99 1
+D1
+the northeast edge of the clearing
+~
+~
+0 -1 20874
+D2
+The &GWitches&n Clearing
+~
+~
+0 -1 20872
+S
+#20874
+The Northern Edge of the &GWitches&n Clearing~
+From the trees you see strange objects hanging from the branches... Some look like odd
+symbols or emblems... Others look vaguely like body parts.  Maybe it's time to check out
+a different area?  Some place less...spooky?
+~
+104 268435465 0 1 99 1
+D0
+The hidden Witch's lair
+~
+~
+16 -1 20878
+D2
+the &rHowling&n path
+~
+~
+0 -1 20875
+D3
+the northwest edge of the clearing
+~
+~
+0 -1 20873
+S
+#20875
+The &GWitches&n Clearing~
+The &rHowling&n path continues through this clearing.  Sounds from within the forest tell
+you that you are NOT alone.  Looking around you, you become aware of shadows and eyes...
+How about picking up the pace, fellow traveller?
+~
+104 268435465 0 1 99 1
+D0
+the northern edge
+~
+~
+0 -1 20874
+D1
+the &rHowling&n path
+~
+~
+0 -1 20879
+D2
+the southern edge of the clearing
+~
+~
+0 -1 20877
+D3
+the &GWitches&n clearing entrance
+~
+~
+0 -1 20872
+S
+#20876
+The Southern Edge of the &GWitches&n Clearing~
+This is the southern edge of the clearing.  You see mounds of dirt that can only be one
+thing - burial sites.  You scan the area and notice over a dozen such mounds.  Perhaps
+this is not the time to sight-see.  After all, you don't want to be in a mound yourself.
+~
+104 268435465 0 1 99 1
+D0
+the &GWitches&n clearing entrance
+~
+~
+0 -1 20872
+D1
+the southwest edge of the clearing
+~
+~
+0 -1 20877
+S
+#20877
+The Southern Edge of the &GWitches&n Clearing~
+Howling suddenly chills your blood!  Is it coming from behind you?  Or is it next to you?
+If I were you, I'd get back on the path and run!  Because what ever howled didn't sound happy...
+In fact, I'd say it sounded almost...hungry...
+~
+104 268435465 0 1 99 1
+D0
+the &rHowling&n path
+~
+~
+0 -1 20875
+D3
+the southwest edge of the clearing
+~
+~
+0 -1 20876
+S
+#20878
+&KThe Witches General Supply Store&n~
+&KSmall rotten animal carcasses lie across the table found in the middle of the room.  Vials, and humongous pots and pans lie scattered across the room as well.  The smell of several different thing enter your nostrils all at once
+This supply store is surely something that you've never seen or even experienced before, but you know that only witches can cure the harshest of spells cast upon thee.
+&n
+~
+104 268435469 0 1 99 1
+D2
+the northern edge of the clearing
+~
+~
+0 -1 20874
+S
+#20879
+The Turn of Choice~
+After seeing that clearing, you are fairly happy to see a trail to the north leading to
+some mountains, away from the forest.  To the south you see a path leading further into the woods.
+It's your choice, traveller.  You must make it.  I don't envy you.
+~
+104 268435465 0 1 99 1
+D0
+The path into the mountains.
+~
+~
+0 -1 20880
+D2
+the &rHowling&n path continues
+~
+~
+0 -1 20881
+D3
+the &rHowling&n path
+~
+~
+0 -1 20875
+S
+#20880
+The &wMountain&n Path~
+This path leads into the mountainous areas.  You see that you have a long road to go...
+There are no visible landmarks, nor any points of interest....yet.  But it looks safer
+than the forest did.
+~
+104 268435465 0 1 99 1
+D0
+The mountain path.
+~
+~
+0 -1 20900
+D2
+the Turn of Choice
+~
+~
+0 -1 20879
+S
+#20881
+The Path Continues~
+You have chosen to continue on this path?  You're a braver adventurer than I!  Still, it
+doesn't look so bad.  Maybe this is the exit out of the forest.  Things will SURELY be
+better further down this path than some of the monstrosities you've already seen.
+~
+104 268435465 0 1 99 1
+D0
+the Turn of Choice
+~
+~
+0 -1 20879
+D2
+the path continues
+~
+~
+0 -1 20882
+S
+#20882
+The Continuing Trail~
+The &rHowling&n path continues into the foreboding forest.  You hear owls, but overall, 
+this area is quiet.  Almost too quiet...*horror music begins to play*  Just remember, like
+in the movies, don't forget to look behind you!
+~
+104 268435465 0 1 99 1
+D0
+along the &rHowling&n path
+~
+~
+0 -1 20881
+D1
+yep, more trails
+~
+~
+0 -1 20883
+S
+#20883
+The Continuing Trail~
+Not too far away you think you see a glimmer of light through the trees.  And you smell 
+smoke on the cold air... Could it be you have found someplace safe?  It might be worth
+a look.  Of course, don't forget to have a weapon ready.  You know, just to be on the safe
+side.
+~
+104 268435465 0 1 99 1
+D2
+an old, dirty path
+~
+~
+0 -1 20884
+D3
+more trails for your walking pleasure
+~
+~
+0 -1 20882
+S
+#20884
+An Interesting Turn~
+Just ahead of you you see a small cabin.  A warm, inviting glow emanates from the windows
+of the charming building.  Let's go inside!
+~
+104 268435465 0 1 99 1
+D0
+just another dusty path
+~
+~
+0 -1 20883
+D3
+the path to the cabin
+~
+~
+0 -1 20885
+S
+#20885
+In Front of the Cabin~
+You find ourself standing outside the doorway of the nice cabin.  There's no lock, and it
+looks SO much nicer than the surrounding wooded area.  I'm sure no one would mind if you
+just popped in for a visit.  I'm sure the cabin owner might be a little lonely, anyway.
+~
+104 268435465 0 1 99 1
+D1
+I bet you'd never guess that there's a trail leading through there!
+~
+~
+0 -1 20884
+D2
+the path continues on and on
+~
+~
+0 -1 20888
+D3
+the Cabin of Dreams
+~
+door~
+1 0 20886
+S
+#20886
+&KCabin&W of &bDreams&n.~
+Upon entering the cabin, your vision blurs and for a moment you cannot think clearly... 
+This quickly passes, however, and your senses return.  You're just in a nice little cabin.
+There's nothing to be afraid of.  Hmm... Hey, look over there.... What's in that closet?
+~
+104 268435465 0 1 99 1
+D0
+Freddy's Dream Closet
+~
+door~
+1 0 20887
+D1
+outside of the Cabin of Dreams
+~
+door~
+1 0 20885
+S
+#20887
+&rFreddy's &PDream &bCloset&n~
+You have entered the lair of Freddy Krueger, soul ripper and the terror of the dreamscape!
+His clawed glove will tear through your soul, and his insane mentality will send your soul
+to the depths of Hell itself!  Fear him and fear for yourself!
+~
+104 268435465 0 1 99 1
+D2
+Inside the Cabin of Dreams
+~
+door~
+1 0 20886
+S
+#20888
+The &rHowling&n Path Continued~
+Heading quickly away from the cabin, you hit the trail again.  HOPEFULLY you'll find some
+place that isn't as insane or as terrifying as the places you've seen already.  Then again,
+if experience is any indicator, you're in for a wild ride.  I hope you packed clean underwear.
+~
+104 268435465 0 1 99 1
+D0
+the path in front of the cabin
+~
+~
+0 -1 20885
+D2
+I foresee a lot more path walking for you, young Jedi.
+~
+~
+0 -1 20889
+S
+#20889
+The &rHowling&n Path Continued~
+Hrm... It appears that the forest is giving way a little bit.  The trees are clearing
+away and thinning out... You can see patches of the sky from where you are standing.  Maybe
+you've found the way out!  Keep walking!
+~
+104 268435465 0 1 99 1
+D0
+the trail
+~
+~
+0 -1 20888
+D1
+the waterfront area
+~
+~
+0 -1 20890
+S
+#20890
+&nNear the &CWaterfront&n.~
+There aren't many trees clouding your vision now.  You seem to be standing near a small
+lake.  In the distance stands a moderately sized resort.  What kind of place would possibly
+stand in the middle of such a forest?  Looking around, you notice this sign:
+&yWelcome to Camp Crystal Lake&n.
+~
+104 268435465 0 1 99 1
+D3
+the path
+~
+~
+0 -1 20889
+D5
+the beach of Crystal Lake
+~
+~
+0 -1 20891
+S
+#20891
+The &yBeach&n of &CCrystal Lake&n~
+You walk along the pebbled shoreline of Crystal Lake.  You don't see anyone or hear anything.
+Well, nothing you haven't seen or heard in the woods already!  Still, be on the lookout.
+If nothing else, this zone has proven that &WNOTHING&n is what it seems.
+~
+104 268435465 0 1 99 1
+D3
+closer to the Crystal Lake lodge
+~
+~
+0 -1 20892
+D4
+the forest entry
+~
+~
+0 -1 20890
+S
+#20892
+The &yBeach&n of &CCrystal Lake&n~
+Just a little more to the west and you'll have reached the Crystal Lake Lodge.  You see
+no lights on in the building.  Maybe it's deserted?  Still, if the building is empty, maybe
+you'll find a safe refuge for a little while.  It's worth a look, I suppose.
+~
+104 268435465 0 1 99 1
+D1
+the beach
+~
+~
+0 -1 20891
+D3
+outside the lodge
+~
+~
+0 -1 20893
+S
+#20893
+&CCrystal Lake Lodge&n~
+You are standing outside the Crystal Lake Lodge.  There's nothing really to see.  This
+place has obviously not seen much use over the last few years.  The paint is crumbling, and
+the door is almost off it's hinges.  It looks like a rundown old shack, now.
+~
+104 268435465 0 1 99 1
+D0
+the Lodge
+~
+door~
+1 0 20894
+D1
+the beach
+~
+~
+0 -1 20892
+S
+#20894
+Inside the Crystal Lake Lodge~
+Inside this derelict building, you smell dust and a musky odor... Similar to rotting matter,
+but slightly different.  Slightly...older.  More like something freshly dug up from the
+ground.  Then again, it might just be from the lake outside.
+~
+104 268435465 0 1 99 1
+D0
+the stairway
+~
+~
+0 -1 20895
+D2
+outside the lodge
+~
+door~
+1 0 20893
+S
+#20895
+The Lodge Stairway~
+At this juncture, you have two choices: up or down.  Up the stairs, to the bedroom, or
+downstairs, to the basement?  I don't know about you, my friend, but I'm not sure which
+I'd prefer.  To tell you the truth, I'm getting the creeps.
+~
+104 268435465 0 1 99 1
+D2
+the foyer of the lodge
+~
+~
+0 -1 20894
+D4
+upstairs in the lodge
+~
+~
+0 -1 20896
+D5
+Basement entry to the lodge
+~
+~
+0 -1 20898
+S
+#20896
+Upstairs in the Lodge~
+You stand on the second floor, with only one room facing you.  The master bedroom... Hrm.
+Something smells rather atrocious.  Like rotting meat and river muck.  I don't feel to
+good about this, partner.
+~
+104 268435465 0 1 99 1
+D3
+the master bedroom
+~
+~
+0 -1 20897
+D5
+the stairwell
+~
+~
+0 -1 20895
+S
+#20897
+The Master Bedroom of the Lodge~
+The tattered and filthy bedroom hasn't seen a good cleaning in years...and you see why.
+The main inhabitant of this room has been beyond the interest of cleaning for many years
+now.  The rotten smell seems to be emanating from her and from the bed that she is propped up
+on.  I think I'm gonna be sick *brumph*
+~
+104 268435465 0 1 99 1
+D1
+the top of the stairs
+~
+~
+0 -1 20896
+S
+#20898
+Basement Entry of the Lodge~
+The cellar reeks of death, pure and simple.  There is no mistaking the odor of blood and
+dead bodies.  This cellar has held the dead.  From the scent of things, it has seen death
+recently, too.  I'd back out now, myself, but it's all up to you.
+~
+104 268435465 0 1 99 1
+D3
+Basement entry of the lodge
+~
+~
+0 -1 20899
+D4
+the stairwell
+~
+~
+0 -1 20895
+S
+#20899
+&nThe &KCellar &Wof &rJason Voorhees&n.~
+You have entered the realm of Jason Vorhees, the man who would be a demon.  After studying
+the dark arts and making a pact with Satan, Jason stalks all those who encroach on the 
+Crystal Lake territory.  Here, every day is Friday the 13th.
+~
+104 268435465 0 1 99 1
+D1
+the entry to the lodge basement
+~
+~
+0 -1 20898
+S
+#20900
+The &wMountain&n Path~
+The path goes almost straight up from here.  What lies on top of these mountains?  I 
+honestly can't tell you, my friend.  Could be happy clouds and lots of happy bushes, but
+my bet is that if it isn't pretty down here, it won't be too sexy up there. 
+~
+104 268435469 0 1 99 1
+D0
+the sandy path
+~
+~
+0 -1 20912
+D2
+the &wMountain&n path
+~
+~
+0 -1 20880
+D4
+climbing the mountain
+~
+~
+0 -1 20901
+S
+#20901
+Climbing the &wMountain&n~
+Looks like you've got a bit of climbing ahead of you, sparky.  But at least there's a
+ledge not too far up from here.  Just be patient and keep climbing.  Just a little bit
+further, then you can take a break.
+~
+104 268435465 0 1 99 1
+D4
+on the mountain
+~
+~
+0 -1 20902
+D5
+the base of the mountain
+~
+~
+0 -1 20900
+S
+#20902
+Climbing the &wMountain&n~
+Just a little farther to the ledge...you can do it...I have faith in you.  Wait a second.
+Did you hear that?  I think I heard....growling?  Maybe you should proceed with caution.
+I'm not sure WHAT is on that ledge.  But it doesn't sound like a group of cheerleaders.
+~
+104 268435465 0 1 99 1
+D4
+the ledge
+~
+~
+0 -1 20903
+D5
+on the mountain...yep
+~
+~
+0 -1 20901
+S
+#20903
+The Mountain Ledge~
+Well, you made it to the ledge...and it looks like you were better off in the woods!  Looks
+like the rabid beast Cujo doesn't like visitors, yet here you are!  I hope you had your
+rabies vaccinations recently, because Cujo looks a little droolie!
+~
+104 268435465 0 1 99 1
+D4
+back on the mountain
+~
+~
+0 -1 20904
+D5
+it's a long fall down the mountain...the ground looks hard
+~
+~
+0 -1 20902
+S
+#20904
+Further Up the Mountain~
+Well, wasn't Cujo fun?  At least that's over with.  Looks like it's only a little farther
+til the top.  Ever onward, curious adventurer!  It won't be long now.  (At least, that's
+what I'm hoping.  I mean dang, this is a long climb!)
+~
+104 268435465 0 1 99 1
+D4
+almost to the top
+~
+~
+0 -1 20905
+D5
+the ledge
+~
+~
+0 -1 20903
+S
+#20905
+Further Up the Mountain~
+Just a few feet more!  You're almost to the top!  I can see the edge!  Oh, glorious day!
+Ne'er have I felt such a glorious tug at my soul!  To be free of the forest!  To be away
+from the monsters!  To be above it all, like some hippy that has smoked some fine hallucinogens!  Yes!  Yes!
+~
+104 268435465 0 1 99 1
+D4
+Kong's place
+~
+~
+0 -1 20906
+D5
+just climbing the mountain like some silly yak
+~
+~
+0 -1 20904
+S
+#20906
+&yKong's Overlook&n~
+You made it to the top!  Your prize.... one huge monkey!  Looks to me, my dear friend, like
+we have stumbled onto the lair of the great King Kong.  He's a big fella.  Looks to be about
+35 feet tall.  Doesn't look like a mean monkey.  More like a grumpy gorilla to me.
+~
+104 268435465 0 1 99 1
+D5
+*pant* looks like you are high up on a mountain
+~
+~
+0 -1 20905
+S
+#20907
+Leading to the Lagoon~
+The swampy land gives way to more marshy areas... you realize that the further you walk,
+the less land you notice... It's obvious that there's a lot of water.  And you forgot
+to bring your swimsuit today, too!  Well, shucks!
+~
+104 268435468 0 1 99 1
+D0
+the dock overlooking the lagoon
+~
+~
+0 -1 20908
+D2
+the swamp entrance
+~
+~
+0 -1 20851
+S
+#20908
+A Dock Overlooking the Lagoon~
+Thankfully you'd discovered a bit of dry land.  Sticking off of it is a dock, which you
+proceed to walk on.  Hrm... I wonder if this is a good spot for fishing?  Did you bring
+your pole?  Come on, surely you didn't forget your fishing pole?  You did?  Then you are
+of no use to me!  *mutter*
+~
+104 268435468 0 1 99 1
+D1
+the Creatures hang out
+~
+~
+0 -1 20910
+D2
+the squishy path
+~
+~
+0 -1 20907
+D3
+Nessie's Domain
+~
+~
+0 -1 20909
+S
+#20909
+The &GLagoon&n of &RNessie&n~
+In this marshy area resides the legendary Loch Ness monster!  Is she a dinosaur?  An odd
+fish?  Some poor schmuck who fell into a vat of spam and was converted into a monster?
+Or, could Nessie be a genetic experiment conducted by the immortals to create the perfect
+tuna for a tuna sandwich?  We may never know.
+~
+104 268435468 0 1 99 1
+D1
+the dock
+~
+~
+0 -1 20908
+S
+#20910
+The &GCreatures&n Lagoon~
+Ok, the Creature may look like some weird rubbery lizard kinda guy, but he sure knows
+how to decorate.  Just look at it!  Fish on the walls, seaweed on the floor.... It's so...
+Mediterranean.  Don't you just love post-modernist art?  Apparently the Creature does!
+~
+104 268435468 0 1 99 1
+D0
+SwampThing's area
+~
+~
+0 -1 20911
+D3
+the dock
+~
+~
+0 -1 20908
+S
+#20911
+&GSwampThing's&n Residence~
+&GSwampThing&n.  Once a brilliant scientist, he now lives his life a monster of his own
+making.  Science and the greed of others has turned him into a creature of vegetation and
+anger.  Though not an evil being, he's known to get into a snit every once in a while.
+~
+104 268435468 0 1 99 1
+D2
+the Creatures place
+~
+~
+0 -1 20910
+S
+#20912
+&yThe Gritty Path&n~
+The mountainous soil begins to give way to smaller rocks.  The path is getting more gritty
+and a little less defined.  The forest seems to be turning into a desert-like area.  I
+wonder what's in store for you ahead.
+~
+104 268435469 0 1 99 1
+D0
+the sandy path
+~
+~
+0 -1 20913
+D2
+the mountain
+~
+~
+0 -1 20900
+S
+#20913
+&yThe Gritty Path&n~
+There are only a few pebbles left to show any existance of rock.  The path is almost now
+all sand.  There are few plants, though you can still see the mountains and the forest
+to the south.  Up ahead you see a small stone structure.  What could be inside?
+~
+104 268435465 0 1 99 1
+D1
+the sandy path
+~
+~
+0 -1 20914
+D2
+the sandy path
+~
+~
+0 -1 20912
+S
+#20914
+&yThe Gritty Path&n~
+A small turn leads you into a purely arid region.  It's dry and it's very sandy.  This
+looks just like all the pictures of Egypt that you've seen in books!  Wow!  Maybe you'll
+get lucky and see a mummy!
+~
+104 268435465 0 1 99 1
+D0
+the sandy path continues
+~
+~
+0 -1 20915
+D3
+the sandy path
+~
+~
+0 -1 20913
+S
+#20915
+&yThe Gritty Path&n~
+Just a little further to the north you see a very small stone structure.  It should provide
+you with some nice shade from the sun.  You might be able to find some neat artifacts, too.
+So let's keep going!
+~
+104 268435465 0 1 99 1
+D0
+the sandy path....still
+~
+~
+0 -1 20916
+D2
+the sandy path
+~
+~
+0 -1 20914
+S
+#20916
+Just before the &wStone Structure&n~
+The stone structure is very close now!  It's not very big, but it doesn't look like anyone
+has been near here for quite a while.  Maybe you WILL find something interesting inside!
+Maybe gold!  Maybe jewelry!  Who knows?
+~
+104 268435465 0 1 99 1
+D0
+the stone structure
+~
+~
+0 -1 20917
+D2
+the sandy path
+~
+~
+0 -1 20915
+S
+#20917
+The &wStone Structure&n~
+As you enter the structure, you realize you've found something of interest... But it's more
+than you bargained for!  The dried husk of a giant mummy stands here, and from the way it
+moves, it looks like it's of the "living dead" variety!  
+~
+104 268435465 0 1 99 1
+D2
+the entry to the stone structure
+~
+~
+0 -1 20916
+D3
+a stone hallway
+~
+~
+0 -1 20918
+S
+#20918
+The &wStone Structure&n~
+This small passage leads you to an even larger room.  Perhaps this is where the treasure
+is stored?  Can't hurt to go find out.  Let's move on and check it out!  That is, if you
+aren't too scared.  Muahahahaha!
+~
+104 268435465 0 1 99 1
+D1
+the stone entry room
+~
+~
+0 -1 20917
+D3
+the antechamber
+~
+~
+0 -1 20919
+S
+#20919
+The Mummy Antechamber~
+Well, still no treasure, but there sure is one heck of a ticked off mummy here!  You can
+sense his power just by being in the same room.  The scent of spices and old rotting cloth
+stings your nostrils.  From the looks of things, though, the mummy doesn't want you to
+suffocate to death... He seems to have more...violent...intentions.
+~
+104 268435469 0 1 99 1
+D1
+the stone passage
+~
+~
+0 -1 20918
+S
+$~
+#999999

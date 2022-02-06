@@ -1,0 +1,497 @@
+#1700
+obj Plaque~
+1
+A Plaque~
+A Plague has been put up here on the wall.~
+~
+12 134217728 0 1
+0 0 10 0
+10000 5 5
+E
+Plaque~
+Lanthis is a god who figured it all out.
+~
+#1701
+obj statue stone Mercy~
+100
+A Deteriorating statue of Mercy stands here.~
+A Deteriorating statue of Mercy stands here.~
+~
+25 8 0 0
+0 0 10 0
+10000000 5 5
+#1702
+obj Mercy~
+32767
+Mercy~
+Mercy~
+~
+12 134217728 0 73875
+0 0 10 0
+1 5 5
+#1704
+obj pipe of love~
+1
+a pipe of love~
+a pipe that emits love and romance was dropped here by some lonely mofo~
+~
+12 134217728 0 81921
+0 0 10 0
+1 5 5
+#1708
+obj Medallion Funk Church~
+100
+A Medallion of the ChUrCh Of FuNk~
+A Medallion of the ChUrCh Of FuNk is lying here looking funky.~
+~
+1 134217728 0 92181
+0 0 10 0
+1 5 5
+#1709
+obj bingo medallion~
+32767
+Bingo's Quest Medallion~
+A quest medallion is lying here.  Type 'Look Medallion'~
+~
+8 671088705 0 1
+0 0 10 0
+1 5 5
+E
+quest medallion bingo~
+
+
+This is a quest medallion.  It's purpose is simple, the more you collect from
+quests, the better prizes you can trade them in for.
+
+NOTE: If you found this lying on the ground please get it and return it to
+      Bingo as soon as you see him, you should only be in possession of one
+      of these tokens if Bingo gave them too you for a quest.  Also if you
+      received this from anyone other than Bingo please return it to him
+      they are only valid if you receive them from him.  If you lose your
+      tokens they will not be reimbursed, so keep close watch on them.
+
+
+~
+#1710
+obj mercy medallion~
+32767
+Mercy's Quest Medallion~
+A quest medallion is lying here. Type 'Look Medallion'~
+~
+8 671088705 0 1
+0 0 10 0
+1 5 5
+E
+quest medallion mercy~
+
+
+This is a quest medallion.  It's purpose is simple, the more you collect from
+quests, the better prizes you can trade them in for.
+
+NOTE: If you found this lying on the ground please get it and return it to
+      Mercy as soon as you see him, you should only be in possession of one
+      of these tokens if Mercy gave them too you for a quest.  Also if you
+      received this from anyone other than Mercy please return it to him
+      they are only valid if you receive them from him.  If you lose your
+      tokens they will not be reimbursed, so keep close watch on them.
+
+
+~
+#1713
+obj scroll move regeneration~
+32767
+scroll of move regeneration~
+A scroll of move regeneration is lying here on the ground.~
+~
+2 134217728 0 1
+48 105 105 105
+1 5 5
+#1714
+obj elixir mana~
+32767
+Elixer of Mana~
+A small glowing elixir of magical liquid is lying here.~
+~
+10 134217728 0 1
+48 81 81 81
+1 5 5
+#1715
+obj quest tome warrior~
+32767
+Tome of the Warrior~
+An old dusty magical tome is lying here with 'Warrior' scribed upon it.~
+~
+2 134217728 0 1
+50 134 106 0
+1 5 5
+#1716
+obj quest tome wizard~
+32767
+Tome of the Wizard~
+An old dusty magical tome is lying here with 'Wizard' scribed upon it.~
+~
+2 134217728 0 1
+50 131 132 36
+1 5 5
+#1717
+obj quest tome rogue~
+32767
+Tome of the Rogue~
+An old dusty magical tome is lying here with 'Rogue' scribed upon it.~
+~
+2 134217728 0 1
+50 133 135 154
+1 5 5
+#1719
+obj quest1 string barb wire mcnast blood~
+1
+a String of Barbed Wire coverd in McNaStY's Blood~
+A length of barbed wire sits here.~
+~
+9 138674368 0 16389
+0 0 0 0
+4 1000000 5
+A
+18 4
+A
+19 4
+A
+12 -100
+#1720
+obj frostmourne sword blade dragon~
+1
+&W@&y==&K[&c::&WFr&wo&Wst&Cmo&cur&Cne&C:::&W>&n~
+A finely crafted blade rests here. It is cold to the touch.~
+~
+5 138414660 0 8193
+132104 16 3 3
+10 5000000 200000
+A
+19 4
+A
+18 2
+A
+13 -35
+#1721
+obj white dragonscale legplates~
+1
+&WWh&wi&Wte &KD&wr&Wag&wo&Kn&Gs&gcal&Ge &wLeg&Kplates&n~
+A slimy eyeball stares up at you from the floor.~
+~
+9 138412560 24576 524321
+45 0 0 0
+10 100000 40000
+A
+19 3
+A
+18 1
+A
+14 -20
+A
+36 -1
+#1722
+obj harlequin diamond covered suit~
+2
+&wThe &GHa&grlequ&Gin &wd&Wia&wm&Wo&wnd &Wc&wo&Wv&we&Wr&we&Wd &Wsuit&n~
+A plain white suit covered with shiny clear stones lies here.~
+~
+9 4194368 0 9
+10 0 0 0
+8 50000 450000
+A
+14 20
+A
+42 2
+A
+41 2
+A
+12 20
+#1723
+obj harlequin ring~
+10
+&wA &GHa&grlequ&Gin &Kr&win&Kg&n~
+A funny looking ring lies here.~
+~
+11 138412036 0 3
+20 0 0 0
+5 50000 40000
+A
+42 1
+A
+12 20
+A
+14 20
+#1724
+obj small dagger blood~
+5
+&wA sm&Ka&wll &Kdagger &wc&ro&wv&re&wr&re&wd in &rblood&n~
+a small dagger covered in blood lies here.~
+~
+5 4194820 0 8193
+198656 4 8 11
+1 35000 350000
+A
+19 3
+A
+13 -20
+A
+14 -20
+#1725
+obj tail guard white dragonscale~
+1
+&wA &KT&cai&Kl &KGuard &wmade from &WWh&wi&Wte &KD&wr&Wag&wo&Kn&Gs&gcale&Gs&n~
+A set of dragonscale plates fashioned to protect a tail lie here.~
+~
+9 138412096 0 262145
+100 0 0 0
+4 1000000 750000
+A
+19 9
+A
+18 3
+A
+13 -50
+#1726
+obj string barb wire mcnasty blood3~
+1
+a String of Barbed Wired covered in &BM&Gc&YN&Ca&WS&Pt&wY&n Blood~
+a String of Barbed Wired covered in &BM&Gc&YN&Ca&WS&Pt&wY&n Blood~
+~
+9 138412224 0 16389
+0 0 0 0
+4 1000000 5
+A
+18 3
+A
+19 2
+A
+12 -30
+A
+17 20
+#1727
+obj small dagger blood 2~
+5
+&wA sm&Ka&wll &Kdagger &wc&ro&wv&re&wr&re&wd in &rblood&n~
+a small dagger covered in blood lies here.~
+~
+5 4194820 0 8193
+66624 4 8 11
+1 5 5
+A
+19 1
+A
+18 1
+A
+37 -1
+A
+1 1
+#1728
+obj quest1 warder sword~
+100
+a warder's sword~
+A warder's sword is lying here.~
+~
+5 671351107 1024 8193
+0 3 10 3
+5 250000 50000
+A
+1 4
+A
+18 4
+A
+19 3
+A
+25 1
+#1729
+obj ruby gem~
+1
+&ra &RRuby&n~
+A &RRuby&n is lying here.~
+~
+8 134217728 1536 1
+0 0 10 0
+1 5 5
+#1730
+obj sapphire gem~
+1
+&Ba &CSapphire&n~
+A &CSapphire&n is lying here.~
+~
+8 134217728 1536 1
+0 0 10 0
+1 5 5
+#1731
+obj topaz gem~
+1
+&ya &YTopaz&n~
+A &YTopaz&n is lying here.~
+~
+8 134217728 1536 1
+0 0 10 0
+1 5 5
+#1732
+obj amethyst gem~
+1
+&pa &PAmethyst&n~
+A &PAmethyst&n is lying here.~
+~
+8 134217728 1536 1
+0 0 10 0
+1 5 5
+#1733
+obj diamond gem~
+1
+&wa &WDiamond&n~
+A &WDiamond&n is lying here.~
+~
+8 134217728 1536 1
+0 0 10 0
+1 5 5
+#1734
+obj emerald gem~
+1
+&ga &GEmerald&n~
+A &GEmerald&n is lying here.~
+~
+8 134217728 1536 1
+0 0 10 0
+1 5 5
+#1735
+obj scroll ice dragon~
+100
+&Ws&wcrol&Wl &wof the &Wi&Cc&We &Kd&wr&Wag&wo&Kn&n~
+a rolled up scroll encrusted with ice lies here.~
+~
+2 4456448 0 1
+50 6 6 6
+1 5 5
+A
+18 35
+#1736
+obj long blackened blood and spiderwebs cape~
+0
+&wlong &Kblackened&r blood&w and &Wspi&wde&Wrwe&Kb&ws cape&n~
+a cape formed from blood and spiderwebs lies here~
+~
+9 0 64 5
+0 0 0 0
+1 5 5
+#1737
+obj gore-christened vampire crown~
+0
+&Ka &rblood-christened&K cr&wo&Kwn &wof &rvam&Wpi&rric &Wte&we&Wth&n~
+a fanged crown rests here~
+~
+9 0 64 17
+0 0 0 0
+1 5 5
+#1738
+obj dress woven of the night~
+0
+&rvelvet &Kdr&we&Kss &wwoven of the &Knight&n~
+a crumpled elegant dress lies here, cloaked in a pool of soft darkness~
+~
+9 0 64 9
+0 0 0 0
+1 5 5
+#1739
+obj collar formed of the muddied tears of innocence~
+0
+&Kco&rll&Kar formed of the &rmuddied&w tears of &Winnocents&n~
+a collar slick with the tears of lost innocence lies here~
+~
+9 0 64 5
+0 0 0 0
+1 5 5
+#1740
+obj bustier infant bones~
+0
+&Rsatin&w and &Wlace&K bustier&w with boning made from the &ws&Wpi&wn&Wes &wof &Winfants&n~
+a bustier formed from child bones and soft clothes rests here~
+~
+9 0 64 2049
+0 0 0 0
+1 5 5
+#1741
+obj skin-formed fishnet stockings~
+0
+&wskin-formed &Kfishnet &rstockings&n~
+stockings made from human flesh lie here~
+~
+9 0 64 33
+0 0 0 0
+1 5 5
+#1742
+obj thigh-high bloody boots~
+32767
+&wthigh-high boots of &rbloodstones&w and &Kobsidian plates&w, hinged by &cdr&yag&con &Wclaws&n~
+dangerous thigh-high boots rest here~
+~
+9 0 64 65
+0 0 0 0
+1 5 5
+#1743
+obj ring liquid ruby~
+32767
+&wl&Wiq&Ku&wid &rr&Ru&rby &Kri&wn&Kg&n~
+a ring encrusted with a precious fluid stone lies here~
+~
+9 0 64 3
+0 0 0 0
+1 5 5
+#1744
+obj ring forged from a broken heart~
+32767
+&Kri&wng &Wforged &wfrom a &Kb&rro&wke&Kn &Rheart&n~
+a ring dripping with pain and loss is abandoned here~
+~
+9 0 0 3
+0 0 0 0
+1 5 5
+#1745
+obj panther's claws~
+0
+&Kpan&wt&Kher's &Wcl&wa&Wws&n~
+fierce claws lie here~
+~
+9 0 64 129
+0 0 0 0
+1 5 5
+#1746
+obj light of the heavenly soul~
+0
+&WLight &wof the &WHeavenly &CSoul&n~
+a light that emits pure spiritual power rests here~
+~
+1 0 64 65537
+0 0 0 0
+1 5 5
+#1747
+obj Eve's Apple~
+0
+&gE&Gv&ge's &rAp&Wp&rle&n~
+an apple of sin lies here, a bite missing from it~
+~
+9 0 64 16385
+0 0 0 0
+1 5 5
+#1748
+obj Tattoos of Good and Evil~
+0
+&RTat&rt&Roos&w of &WGood &wand &KEvil&n~
+a series of bloody tattoos lie here, clotting~
+~
+9 0 64 257
+0 0 0 0
+1 5 5
+#1749
+obj bracelets of silver tears~
+0
+&Kbracelets &wmade of &Ctears&w, hanging by &Kthreads&w of &Wpalest &wsilver&n~
+delicate bracelets, damp with ancient tears, rest here~
+~
+9 0 64 4097
+0 0 0 0
+1 5 5
+$~
+#999999

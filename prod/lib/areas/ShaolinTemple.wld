@@ -1,0 +1,1417 @@
+#14100
+Giggle's room~
+Accelerator's scream from tires that streak.
+Cupe, with your women on, dashed out.
+Run away from the shadows, shut the door.
+You said, "I don't care where, just run.
+Encounter is a highway junction by the time I saw the harbor
+I now know that I'm in love.
+Take me to summer side, you said you prefered gentleness than a kiss
+Night on summer side, with an innocent look in your eye, of an adult.
+Take me to summer side, you said,"I prefer a kiss to loneliness"
+Night on summer side, And the way you looked it was of an adult.
+
+                       -Kimagure Orange Road theme song.
+~
+81 8 0 1 99 1
+D4
+void~
+~
+2 -1 3001
+S
+#14101
+In the Woods~
+   The woods turn dark and cold and you feel uneasy about going in.
+There is a sign hanging from a tree beside the path.
+~
+81 8 0 1 99 1
+D0
+The forest looks a little more familiar.
+~
+~
+0 -1 6117
+D2
+You enter the forest through here.
+~
+~
+0 -1 14144
+E
+sign~
+The sign reads:
+      Beware the forest south of here!
+      One false step and you will perish for all
+      eternity in the traps laid by the 
+      citizens of Shaolin!
+~
+S
+#14102
+Main Street~
+You are on the main street of the city.  The temples of Shin Shun and
+Shaolin flank you on both sides while the legendary palace lies west.
+Peddlers and citizens are numerous in this part of town.
+~
+81 8 0 1 99 1
+D2
+You can return to the woods through here.
+~
+~
+0 -1 14150
+D3
+A broad street takes you into the heart of the city.
+~
+~
+0 -1 14103
+S
+#14103
+Main Street~
+Still walking on main street, but there are more monks here.  Some are
+dressed in the checkered red-yellow cloaks and some are dressed in blood
+red cloaks.  A tofu seller is here selling his wares.
+~
+81 8 0 1 99 1
+D1
+A broad street leads you east.
+~
+~
+0 -1 14102
+D3
+The main part of town is this way.
+~
+~
+0 -1 14104
+S
+#14104
+Grand Square~
+   You have reached the most crowded part of town.  The great temples of 
+good and evil are to the north and the south.  The red and yellow of the
+Shaolin is to the north while the blood red of the Shin Shun is to the
+south.
+~
+81 8 0 1 99 1
+D0
+You can enter the temple of Shaolin through here.
+~
+~
+0 -1 14152
+D1
+A paved road leads you out of town.
+~
+~
+0 -1 14103
+D2
+a large temple.
+~
+~
+0 -1 14161
+D3
+The palace is straight west.
+~
+~
+0 -1 14105
+S
+#14105
+The Imperial Highway~
+Past the temples, you have entered the affluent section of town.  Only nobles
+and workers at the palace use this road.  The road is not paved with
+ceramics anymore, for they are paved with marble.
+~
+81 8 0 1 99 1
+D1
+The paved road continues.
+~
+~
+0 -1 14104
+D3
+The paved road continues.
+~
+~
+0 -1 14106
+S
+#14106
+The Imperial Highway~
+   You are getting closer to the palace.  Even from here, you can see that
+the palace is massive, bigger than the biggest cities in world.  The
+marble walls refract the light into a rainbow over the palace.
+~
+81 8 0 1 99 1
+D1
+two large temples off in the distance.
+~
+~
+0 -1 14105
+D3
+Large houses appear in the distance.
+~
+~
+0 -1 14107
+S
+#14107
+The Imperial Highway~
+   The palace looms even larger from this standpoint.  Silver lined lanterns
+stand by the sides of this road, giving off light at night.  A large house
+is to the north.  The security seems a lot tighter now that you are closer
+to the capitol.
+~
+81 8 0 1 99 1
+D0
+a large house.
+~
+~
+0 -1 14109
+D1
+The marble roads continues.
+~
+~
+0 -1 14106
+D3
+A large palace is gleams in the distance.
+~
+~
+0 -1 14108
+S
+#14108
+Before the Gates~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+D1
+The marble road continues.
+~
+~
+0 -1 14107
+D2
+a large black house.
+~
+~
+0 -1 14110
+D3
+A large steel door prevents you from entering the palace.
+~
+steel~
+13 14144 14111
+S
+#14109
+Hinshoro's House~
+   You have entered the home of the High Lord Hinshoro.  Polished marble
+floors and velvet curtains speak of his power and influence.  Gold figurines
+and jade statues lie on pedastals around the room.  A large sword is on
+show in a glass case behind the Lord.
+~
+81 8 0 1 99 1
+D2
+The highway is this way.
+~
+~
+0 -1 14107
+S
+#14110
+Kyoske's House~
+   The home of the High Lord Kyosk is majestic indeed.  Black ebony floors
+and blood red walls makes this room appear malevolent.  A slender yet
+muscular man grins at you evilly.  You wish you had waited for an invitation
+for you now face the best swordsman in the empire.
+~
+81 8 0 1 99 1
+D0
+The highway is this way.
+~
+~
+0 -1 14108
+S
+#14111
+The Entrance to the Palace.~
+   The walls of the castle continues to the north and the south.  To the
+west, a great mansion seems to raise to the sky.  The marble blocks are
+fitted together so tight that a knife blade could not fit between the blocks.
+~
+81 8 0 1 99 1
+D0
+The palace walls extend to the north.
+~
+~
+0 -1 14124
+D1
+You can leave the palace through the gates.
+~
+~
+8 -1 14108
+D2
+The palace walls extend to the south.
+~
+~
+0 -1 14112
+D3
+a large square.
+~
+~
+0 -1 14130
+S
+#14112
+On the Tower Walls~
+   The marble walls is reinforced with steel bars.  Beauty and protection
+were incorporated into the design of this palace.  Through thin slots,
+you can see the town to the east.
+~
+81 8 0 1 99 1
+D0
+The palace walls extend to the north.
+~
+~
+0 -1 14111
+D2
+a large tower.
+~
+~
+0 -1 14113
+S
+#14113
+The Southeast Tower~
+   Four feet of marble blocks and reinforced with steel bars, this is the
+cornerstone of the palace walls.  Imperial lancers patrol this area.
+You can see the countryside from this point.
+~
+81 8 0 1 99 1
+D0
+The palace walls extend to the north.
+~
+~
+0 -1 14112
+D3
+The palace walls extend to the west.
+~
+~
+0 -1 14114
+S
+#14114
+On the Tower Walls~
+   The marble walls are reinforced with steel bars.  Beauty and protection
+were incorporated into the design of this palace.  Through thin slots,
+you can see the countryside to the south.
+~
+81 8 0 1 99 1
+D1
+a large tower.
+~
+~
+0 -1 14113
+D3
+The palace walls extend to the west.
+~
+~
+0 -1 14115
+S
+#14115
+On the Tower Walls~
+   The marble walls are reinforced with steel bars.  Beauty and protection
+were incorporated into the design of this palace.  Through thin slots,
+you can see the countryside to the south.
+~
+81 8 0 1 99 1
+D1
+The palace walls extend to the east.
+~
+~
+0 -1 14114
+D3
+a large tower.
+~
+~
+0 -1 14116
+S
+#14116
+The Southwest Tower~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+D0
+The palace walls extend to the north.
+~
+~
+0 -1 14117
+D1
+The palace walls extend to the east.
+~
+~
+0 -1 14115
+S
+#14117
+On the Tower Walls~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+D0
+The palace walls extend to the north.
+~
+~
+0 -1 14118
+D2
+a large tower.
+~
+~
+0 -1 14116
+S
+#14118
+On the Tower Walls~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+D0
+The palace walls extend to the north.
+~
+~
+0 -1 14119
+D2
+The palace walls extend to the south.
+~
+~
+0 -1 14117
+S
+#14119
+On the the Tower Walls~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+D0
+a large tower.
+~
+~
+0 -1 14120
+D2
+The palace walls extend to the south.
+~
+~
+0 -1 14118
+S
+#14120
+The Northwest Tower~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+D1
+The palace walls extend to the east.
+~
+~
+0 -1 14121
+D2
+The palace walls extend to the south.
+~
+~
+0 -1 14119
+S
+#14121
+On the Tower Walls~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+D1
+The palace walls extend to the east.
+~
+~
+0 -1 14122
+D3
+a large tower.
+~
+~
+0 -1 14120
+S
+#14122
+On the Tower Walls~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+D1
+a large tower.
+~
+~
+0 -1 14123
+D3
+The palace walls extend to the west.
+~
+~
+0 -1 14121
+S
+#14123
+The Northeast Tower~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+D2
+The palace walls extend to the south.
+~
+~
+0 -1 14124
+D3
+The palace walls extend to the west.
+~
+~
+0 -1 14122
+S
+#14124
+On the Tower Walls~
+   The marble walls are reinforced with steel bars.  Beauty and protection
+were incorporated into the design of this place.  Through thin slots, you
+see the town to the east.
+~
+81 8 0 1 99 1
+D0
+a large tower.
+~
+~
+0 -1 14123
+D2
+The palace walls extend to the south.
+~
+~
+0 -1 14111
+S
+#14125
+A Dirt Path~
+   The tiny dirt path leads you further into the darkness.  Even though
+you are still in the temple, the path looks unlike the grand opulance
+of the main hallway.  The dirt here is hard packed as if a lot of traffic
+passed through here.
+~
+81 8 0 1 99 1
+D1
+A small path continues this way.
+~
+~
+0 -1 14126
+D3
+The main hallway is this way.
+~
+~
+0 -1 14154
+S
+#14126
+A Dirt Path~
+   The small hallway ends abruptly.  This will probably be the site
+of future expansions.  Wish me luck.
+-Giggles
+~
+81 8 0 1 99 1
+D3
+A small path continues.
+~
+~
+0 -1 14125
+S
+#14127
+North of Buddha~
+   You feel momentarily dizzy as you are transported to another time
+and place.  To the north will be the ruins of the dead.  A great
+sadness permeates the air.
+~
+81 8 0 1 99 1
+D2
+The Buddhameister is back there.
+~
+~
+8 -1 14155
+S
+#14128
+Empty~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+S
+#14129
+Empty~
+   The light reflected off of the marble covers the road in a soft aura.
+The gates to the palace is to the west, but a couple hostile looking guards
+stop you from going west.  A large house is to the south.
+~
+81 8 0 1 99 1
+S
+#14130
+Palace Grounds~
+   You are standing outside the famous Tsung-Hsing Palace.  Made from
+generations of forced labor, this palace controls the world.  As expected
+the security is tight, as two of the emperor's best troops are
+permenantly stationed here.
+~
+81 8 0 1 99 1
+D1
+The gates lie this way.
+~
+~
+0 -1 14111
+D3
+A hallway goes into the building.
+~
+~
+0 -1 14131
+S
+#14131
+A Hallway~
+   Gold, silver, and jade surround you as you walk into the most sacred
+of palaces.  To be found is to be executed.  A great aura comes from the
+west, but the exit to the east would probably be safer.  Sounds of
+hammers come from the south.
+~
+81 8 0 1 99 1
+D1
+You leave the building.
+~
+~
+0 -1 14130
+D2
+Sounds of hammers come from this direction.
+~
+~
+0 -1 14135
+D3
+The hallway goes futher into the palace.
+~
+~
+0 -1 14132
+S
+#14132
+A Hallway~
+   The aura glows stronger.  All your nerves tingle as all you instincts
+tell you to flee while you still have your head.  There is a door to the
+north, and the aura grows even stronger to the west.
+~
+81 8 0 1 99 1
+D0
+A door blocks your way.
+~
+door~
+9 -1 14136
+D1
+light off in the distance.
+~
+~
+0 -1 14131
+D3
+The hallway continues.
+~
+~
+0 -1 14133
+S
+#14133
+Before the Throne~
+   A pair of bamboo doors is to the west.  A great gold dragon guards the
+entrance to the emperor.  Another door bars your way to the south.  The
+aura is over-powering.
+~
+81 8 0 1 99 1
+D1
+The hallway continues in this direction.
+~
+~
+0 -1 14132
+D2
+A pair of bamboo doors block your way.
+~
+door~
+9 -1 14137
+D3
+A pair of bamboo doors block your way.
+~
+door~
+9 -1 14134
+S
+#14134
+Throne Room~
+The most powerful man in the world is here.  You can not help but bow before
+the Emperor's presence.  Standing to the right of the Emperor is his
+commander-in-chief General Tang-tsu.  
+~
+81 8 0 1 99 1
+D1
+A pair of bamboo doors are open.
+~
+door~
+9 -1 14133
+S
+#14135
+The Armoury~
+   The heat is unbearable as you walk in the armory of the emperor.  A
+bulking man stands before you with the biggest arms you have ever seen.
+In his hands is a massive glowing hammer that looks like it weighs a ton.
+~
+81 8 0 1 99 1
+D0
+The hallway is this way.
+~
+~
+0 -1 14131
+S
+#14136
+The Training Field~
+You leave the home of the emperor and enter the imperial training grounds.
+Hundreds of generations of warriors have trained here.  As you enter, 
+the battle master notices you and charges.  The thousands of troops watch
+quietly as the battle master rushes over to dispose of the intruder.
+~
+81 8 0 1 99 1
+D2
+You enter the building again.
+~
+door~
+9 -1 14132
+S
+#14137
+A Hallway~
+   A grand hallway lead into the darkness.  Although lavishly decorated,
+the hallway does not have the formality that was present in the previous hall.
+The strong aura gets weaker.
+~
+81 8 0 1 99 1
+D0
+a golden glow.
+~
+door~
+9 -1 14133
+D2
+It is too dark.
+~
+~
+0 -1 14138
+S
+#14138
+A Hallway~
+   A grand hallway lead into the darkness.  There is no end in sight.
+~
+81 9 0 1 99 1
+D0
+A light comes from this direction.
+~
+~
+0 -1 14137
+D2
+Too dark to see.
+~
+~
+0 -1 14139
+S
+#14139
+A Hallway~
+   A grand hallway leads into the darkness.  There is no end in sight.
+~
+81 9 0 1 99 1
+D0
+It is too dark to see.
+~
+~
+0 -1 14138
+D2
+It is too dark to see.
+~
+~
+0 -1 14140
+S
+#14140
+An Intersection~
+   The hallway splits up into three directions.  The carpet here is kind of
+worn out, but the rich silk is still better than anything else in the world.
+Singing comes from the south.
+~
+81 8 0 1 99 1
+D0
+It is too dark to see.
+~
+~
+0 -1 14139
+D1
+A room lies to the east.
+~
+~
+0 -1 14141
+D2
+You hear singing.
+~
+~
+0 -1 14143
+D3
+A bedroom is to the west.
+~
+~
+0 -1 14142
+S
+#14141
+Miyu's Bedroom~
+   A shrill shriek pierces the air as you see a startled Princess Miyu.  As
+she quickly puts on a silk robe, you are stunned by the sheer beauty of her.
+Everything else in the room becomes worthless as you gawk at her semi-
+nude presence.
+~
+81 8 0 1 99 1
+D3
+A hallway is to the west.
+~
+~
+0 -1 14140
+S
+#14142
+Pan's Bedroom~
+   You see a man in the mid-twenties studying bamboo parchments at a table.
+As you enter, he jumps up from his seat and faces you.  Out of thin air,
+a large glowing pike appears in his hand and races for your heart.
+~
+81 8 0 1 99 1
+D1
+The hallway is this way.
+~
+~
+0 -1 14140
+S
+#14143
+The Queen's Chambers~
+   The room is filled with exotic flowers of all types.  A
+transparent woman floats down from nowhere.  Legend has it that Queen
+Shinobu is a descendent of the fairy race.  A large bed stands to one side,
+and a lychee bush grows on the window sill.
+~
+81 8 0 1 99 1
+D0
+A hallway goes into the darkness.
+~
+~
+0 -1 14140
+S
+#14144
+Entrance to Enchanted Forest~
+   The scenery changes drastically as you walk into this forest.  Maniacal
+laughter greets you as you enter.  Legend has it that the powerful fairy
+race does not take intrusions by outsiders lightly.  The legends also say
+that there are gargantuan spiders that lay traps to snare the unweary
+traveller.
+~
+81 8 0 1 99 1
+D0
+You can see a more familiar looking type of forest.
+~
+~
+0 -1 14101
+D3
+The forest continues.
+~
+~
+0 -1 14145
+S
+#14145
+The Enchanted Forest~
+   The woods around burst into life as you disturb the fairies from their
+age long sleep. Looking around, you are not sure why but the forest seems to
+make you feel very insecure...
+~
+81 9 0 1 99 1
+D0
+The forest continues.
+~
+~
+0 -1 14146
+D1
+The forest continues.
+~
+~
+0 -1 14144
+D2
+Your nerves tingle.
+~
+~
+0 -1 14151
+D3
+Your nerves tingle.
+~
+~
+0 -1 14151
+S
+#14146
+The Enchanted Forest~
+   The woods turn extremely dark.  A sign is posted on a tree here.
+~
+81 9 0 1 99 1
+D0
+The forest continues.
+~
+~
+0 -1 14147
+D1
+Your nerves tingle.
+~
+~
+0 -1 14151
+D2
+It is too dark to see.
+~
+~
+0 -1 14145
+D3
+You nerves tingle.
+~
+~
+0 -1 14151
+E
+sign~
+The sign reads:
+I, Young Han, am looking for the legendary city of the Chinese.
+After ten years of wandering, I have finally made it out, but alas
+I still have not found the coty.  To go north is to forever wander
+in the forest.  Turn back now before it is too late.
+~
+S
+#14147
+The Enchanted Forest~
+   The woods around burst into life as you disturb the fairies from their
+age long sleep.
+~
+81 9 0 1 99 1
+D0
+Your nerves tingle.
+~
+~
+0 -1 14151
+D1
+The forest continues.
+~
+~
+0 -1 14148
+D2
+The forest continues.
+~
+~
+0 -1 14146
+D3
+The forest continues.
+~
+~
+0 -1 14173
+S
+#14148
+The Enchanted Forest~
+   The woods around burst into life as you disturb the fairies from their
+age long sleep.
+~
+81 9 0 1 99 1
+D0
+It is too dark to see.
+~
+~
+0 -1 14149
+D1
+Your nerves tingle.
+~
+~
+0 -1 14151
+D2
+Your nerves tingle.
+~
+~
+0 -1 14151
+D3
+The forest continues.
+~
+~
+0 -1 14147
+S
+#14149
+The Enchanted Forest~
+   The woods around burst into life as you disturb the fairies from their
+age long sleep.
+~
+81 9 0 1 99 1
+D0
+It is too dark to see.
+~
+~
+0 -1 14150
+D1
+Your nerves tingle.
+~
+~
+0 -1 14151
+D2
+The forest continues.
+~
+~
+0 -1 14148
+D3
+Your nerves tingle.
+~
+~
+0 -1 14151
+S
+#14150
+The Lighted Clearing~
+   You see that the forest parts before you.  A legendary city appears
+in the distance.  As you shake your head free of the fairy charm, you 
+have the irrestible urge to explore more.  You can return to the
+woods by going south.
+~
+81 12 0 1 99 1
+D0
+A bustling city lies ahead.
+~
+~
+0 -1 14102
+D1
+You can leavee through here.
+~
+~
+0 -1 14101
+D2
+The forest continues.
+~
+~
+0 -1 14149
+S
+#14151
+A Pit~
+   A large spike goes through your torso as you fall into a pit.  As you
+stare at what used to be your torso, you start to feel drowsy.  Just before
+you die, you think you saw a fairy hunter laugh at you from up on a tree.
+~
+81 14 0 1 99 1
+S
+#14152
+Temple Entrance~
+   This is the temple entrance.  Statues of Buddha glow, giving off the only
+light in this room.  Red and yellow clad monks funnel the visitors north
+towards the great burning altar.
+~
+81 8 0 1 99 1
+D0
+A large altar burns in the distance.
+~
+~
+0 -1 14153
+D2
+a crowded Main Street.
+~
+~
+0 -1 14104
+S
+#14153
+Temple Hallway~
+   You have ventured further into the Shaolin temple.  The monks are more
+numerous, and the great flaming altar is directly north of here.  A small
+hallway leads off into the darkness to the west.  Loud chants of worship
+come from the north.
+~
+81 8 0 1 99 1
+D0
+A large altar burns in the distance.
+~
+~
+0 -1 14154
+D2
+the entrance to the temple.
+~
+~
+0 -1 14152
+D3
+A small passage leads off into the darkness.
+~
+~
+0 -1 14157
+S
+#14154
+Before the Altar~
+   There are numerous monks here.  A high priest is blessing all who ventures
+to the north.  Only a small handful of people dare venture into the flame
+that is north.  Pictures of ancient battles adorn the walls.  A small hall
+exits to the east.  The crowd is going back to Main Street, obviously,
+they are not pure of heart.
+~
+81 8 0 1 99 1
+D0
+A great white flame forms a wall.
+~
+~
+0 -1 14155
+D1
+A small hall leads to the east.
+~
+~
+0 -1 14125
+D2
+the exit a little further south.
+~
+~
+0 -1 14153
+S
+#14155
+The Altar~
+   The altar of Buddha is surrounded by fighting monks of the Shaolin temple.
+There are hundreds of people kneeling down before the altar.  You notice a
+large wooden statue of Buddha standing here.  The eyes give off a strange
+ambience.  In a loud voice, the statue bellows, "Infidel!"  The monks start
+attacking.
+~
+81 8 0 1 99 1
+D0
+A door bars your way north.
+~
+pearl~
+9 -1 14127
+D2
+You are leaving the altar.
+~
+~
+0 -1 14154
+D5
+A blinding light bodes poorly for travels in this direction.
+~
+~
+0 -1 14156
+S
+#14156
+Buddha's Sanctuary~
+   Disregarding the statue's warning, you have entered the sanctuary of the
+god Buddha.  You burn as you look upon his holy body.  As your equipment
+smoulders on you, a HUGE hand comes from the sky and crushs you into
+oblivion.
+~
+81 14 0 1 99 1
+S
+#14157
+A Small Passage~
+   This is a small hallway that branched off from the main path.  Here,
+the walls are made from dirt as is the floor.  Sounds of cooking and eating
+come from the west.
+~
+81 9 0 1 99 1
+D1
+The main hallway is this way.
+~
+~
+0 -1 14153
+D3
+The small passage continues.
+~
+~
+0 -1 14158
+S
+#14158
+A Small Passage~
+   The small dirt passage continues.  The utter poverty of this temple
+belies the sheer wealth donated to this powerful temple.  The dirt around
+your feet seems rather loose, but that is to be expected from an old
+temple.  A small room is to the south.
+~
+81 9 0 1 99 1
+D1
+The small passage continues.
+~
+~
+0 -1 14157
+D2
+You smell tofu.
+~
+~
+0 -1 14159
+D5
+a trapdoor.
+~
+door~
+1 -1 14160
+S
+#14159
+The Dining Room~
+   The smell of tofu is overwhelming here.  Since these monks are vegetarians
+they have to eat tofu to get their protein.  A large table is in the center
+of the room.  Otherwise, the room seems to be deserted.  It must not be
+dinnertime yet.
+~
+81 8 0 1 99 1
+D0
+The way you came.
+~
+~
+0 -1 14158
+S
+#14160
+Treasure Vault~
+  You have entered the fabled treasure vault of the temple.  Generations
+of donations are gathered here.  A king's ransom is here, just waiting for
+an adventurous person to come and get it.
+~
+81 268435464 0 1 99 1
+D4
+a small passage.
+~
+door~
+1 -1 14158
+S
+#14161
+Temple Entrance~
+   This is the temple entrance.  Statues of Shin Shun glow, giving off the
+only light in the room.  Crimson clad monks wander in the hallways.
+~
+81 8 0 1 99 1
+D0
+You leave the temple.
+~
+~
+0 -1 14104
+D1
+a small room.
+~
+~
+0 -1 14171
+D2
+You walk futher into the temple.
+~
+~
+0 -1 14162
+D3
+a small room.
+~
+~
+0 -1 14172
+S
+#14162
+A Bloody Hallway~
+   The walls are covered with bloody heads preserved in some kind of liquid.
+Without refrigeration, the heads still do not smell, but that is of little
+help to your stomach.  You see a couple wandering guards, but you are not sure
+if they are aggressive.
+~
+81 12 0 1 99 1
+D0
+the hallway continue.
+~
+~
+0 -1 14161
+D2
+The hallway continues.
+~
+~
+0 -1 14163
+S
+#14163
+A Bloody Hallway~
+   The parade of heads continue.  Now, paintings are also on the walls.
+The inscription on the bottom is faint, but you can barely make
+out the name, Shin Shun.  Shin Shun the God?  All the paintings are of
+him.  Each one shows him eating some portion of a human's body.
+~
+81 8 0 1 99 1
+D0
+The hallway continues.
+~
+~
+0 -1 14162
+D1
+The hallway continues.
+~
+~
+0 -1 14166
+D2
+A cell is south.
+~
+~
+0 -1 14164
+D3
+Screams of terror come from the west.
+~
+door~
+9 -1 14165
+S
+#14164
+A Cell~
+   This cell is packed with dead and almost dead humans.  The stench is
+overpowering.  One of the prisoners grab your foot, and as you move, his
+arm falls off.  A chunk of flesh hits you on the face as you finally
+notice the dangling corpse from the spiked ceiling.
+~
+81 8 0 1 99 1
+D0
+a small hallway
+~
+~
+0 -1 14163
+S
+#14165
+The Torture Room~
+   A large rack dominates this room.  Tools are scattered all around.  A
+fresh corpse is still quivering on a pole in the corner.  The torture
+master, at least that is what you call the huge leather clad monster,
+is grinning evily at you.
+~
+81 8 0 1 99 1
+D1
+a small hallway.
+~
+door~
+9 -1 14163
+S
+#14166
+A Bloody Hallway~
+   Candles have replaced the decapitated heads.  Guards become more
+numerous.  A dark sense of forboding comes over you.  The hallway
+continues into the darkness towards the east.
+~
+81 8 0 1 99 1
+D1
+The hallway continues.
+~
+~
+0 -1 14167
+D3
+The hallway continues.
+~
+~
+0 -1 14163
+S
+#14167
+A Bend~
+   Flashes of thunder come from the south.  The dark aura that is this
+room totally blocks out the crimson flames from the candles.  The walls
+are spewing blood, and floor is littered with corpses.
+~
+81 9 0 1 99 1
+D2
+The small hallway continues.
+~
+~
+0 -1 14168
+D3
+The small hallway continues.
+~
+~
+0 -1 14166
+S
+#14168
+An Intersection in Hell~
+   Screams of terror come from the south and east.  Loud chants
+provide a chilly counterpoint to the perpetual screams.  Various
+body parts decorate this room.  A carpet is made with interwoven
+intestines.
+~
+81 9 0 1 99 1
+D0
+The small hallway continues.
+~
+~
+0 -1 14167
+D1
+A river of blood flows from there.
+~
+~
+0 -1 14170
+D2
+Screams of terror are blocked out with a large munching sound.
+~
+door~
+0 -1 14169
+S
+#14169
+Shin Shun's Room~
+   The scenery changes dramatically as you notice that you are not on Earth
+anymore.  A pile of hearts is in the center of the room.  The walls seem
+to blur as if something is bending the light.  A large figure is slowly
+coming through the shadows.
+~
+81 8 0 1 99 1
+D0
+This is the way to salvation.
+~
+energy~
+0 -1 14168
+S
+#14170
+Unholy Altar~
+   The room is filled with people dangling from meat hooks.  Various
+body parts are missing from each of them.  The stronger ones try to
+warn you about the High Priest.  Too late.  The door closes behind you
+and fire erupts from the mouths of all the corpses.  Someone bellows,
+"Who dares intrude on my feast?"
+~
+81 8 0 1 99 1
+D3
+the hallway.
+~
+~
+0 -1 14168
+S
+#14171
+A Barren Room~
+This room is totally barren except for some bloody claw marks on the
+the wall.  Hmm...whoever was here last did not come here voluntarily.
+Maybe you should leave.
+~
+81 8 0 1 99 1
+D3
+the hallway.
+~
+~
+0 -1 14161
+S
+#14172
+Storage Room~
+   This room has all the old knives used for the sacrifices.  Rows upon rows
+of blood stained knives line the wall as a testimony to Shin Shun's
+blood thirstiness.
+~
+81 8 0 1 99 1
+D1
+the hallway.
+~
+~
+0 -1 14161
+S
+#14173
+The Enchanted Forest~
+   The woods around burst into life as you disturb the fairies from their
+age long sleep.
+~
+81 9 0 1 99 1
+D0
+Your nerves tingle.
+~
+~
+0 -1 14151
+D1
+The forest continues.
+~
+~
+0 -1 14147
+D2
+Your nerves tingle.
+~
+~
+0 -1 14151
+D3
+The forest continues.
+~
+~
+0 -1 14174
+S
+#14174
+The Enchanted Forest~
+   This is a old sacred meeting place of the Fairy Gods.  Their passing
+from this world has left only a shiny ring here in this field.
+~
+81 268435465 0 1 99 1
+D1
+The forest continues.
+~
+~
+0 -1 14173
+S
+$~
+#999999

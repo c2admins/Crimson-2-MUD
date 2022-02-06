@@ -1,0 +1,295 @@
+#15885
+A dark stairway leading down~
+This is a stairway leading down to the deepest depths of Gargath's Keep.
+You have no clue what lies below.  In the distance you can hear
+faint screams for help.
+~
+116 268435464 0 1 99 1
+D4
+Torture chamber of Ocara.
+~
+~
+0 -1 15947
+D5
+A dimly lit stairway.
+~
+~
+0 -1 15886
+S
+#15886
+A dark stairway leading down~
+This is a stairway leading down to the deepest depths of Gargath's Keep.
+You have no clue what lies below.  In the distance you can hear
+faint screams for help.
+~
+116 268435464 0 1 99 1
+D4
+A dimly lit stairway.
+~
+~
+0 -1 15885
+D5
+Bottom of the dimly lit stairway.
+~
+~
+0 -1 15887
+S
+#15887
+The entrance to the lower dungeon of Gargath's Keep.~
+You are at the bottom of a dark stairway.  Somehow you just
+know you are in the dungeons of Gargath's Keep.  The screams
+you once faintly heard are much more audible now.  You wonder
+if perhaps you best leave this part of Gargath's Keep unexplored.
+The walls here are covered in blood and all around you there is 
+an awful odor that fills the air.
+~
+116 268435464 0 1 99 1
+D1
+Dungeons of gargath keep.
+~
+~
+0 -1 15888
+D4
+A dimly lit stairway lead out of dungeon.
+~
+~~
+0 -1 15886
+S
+#15888
+Dungeons of Gargath's Keep~
+You are at a small intersection with two hallways, one leading
+North and the other South.  Either way you hear screams of agony 
+coming from both directions.  There seems to be a jailor or guard
+sitting at a desk just to the North.
+~
+116 268435464 0 1 99 1
+D0
+Dungeons of gargath keep.
+~
+~
+0 -1 15889
+D2
+Dungeons of gargath keep.
+~
+~
+0 -1 15895
+D3
+Stairway leading out of the dungeon.
+~
+~
+0 -1 15887
+S
+#15889
+Dungeons of Gargath's Keep~
+You are standing before a gigantic guard of some sorts.  This
+room has an awful, musty odor about it.  The walls are covered
+in blood and you can hear screams of agony coming from the
+North.
+~
+116 268435464 0 1 99 1
+D0
+Dungeons of gargath keep.
+~
+~
+1 -1 15890
+D2
+Dungeons of gargath keep.
+~
+~
+0 -1 15888
+S
+#15890
+Dungeons of Gargath's Keep~
+You are at an intersection of sorts.  Prison cells lie to the
+East, West and North.  There are arms reaching out attempting
+to grab at you as you walk past.  Their screams for your help
+are beginning to drive you insane.  The odor of death fills
+the air making it hard for you to breath.  Perhaps you should
+turn tail and run while you still can.
+~
+116 268435464 0 1 99 1
+D0
+Something to dark to tell.
+~
+door~
+25 0 15893
+D1
+A prison cell.
+~
+door~
+9 0 15891
+D2
+Dungeons of gargath keep.
+~
+
+~
+0 0 15889
+D3
+A prison cell.
+~
+door~
+9 0 15892
+S
+#15891
+Prison cell~
+You are in the middle of a prison cell.  You do notice that this 
+cell is different than the others you've seen before.  It has 
+only one prisoner in it, a knight of some sort.  This knight
+no longer goes by any name other than 'imprisoned.'  Perhaps
+someday he will escape and reclaim his honor by purging all
+the evils about this mighty keep.
+~
+116 268435464 0 1 99 1
+D3
+Dungeons of gargath keep.
+~
+door~
+9 0 15890
+S
+#15892
+Prison cell~
+You are in the middle of a prison cell.  You are surrounded by
+lifeless creatures of all sorts.  All around you there are the
+remains of the dead who have passed away in this dark dungeon.
+As you start to leave, the prisoners around you begin to grab
+at you, begging for your help.  You now wonder if you will make 
+it out alive or become just another victim of Gargath's Keep.
+~
+116 268435464 0 1 99 1
+D1
+A prison cell.
+~
+door~
+9 0 15890
+S
+#15893
+A musty laboratory~
+As you enter into this room, you notice no visible exits.  You 
+realize this is not a prison cell, but rather some sort of
+laboratory where they experiment on prisoners, seeing what
+sort of humanoid beings they can create.  The floor is 
+covered in leftover body parts.  In the corner of the room you
+notice a small feeble scientist, quite possibly working
+for the Arch-Duke himself.
+~
+116 268435464 0 1 99 1
+D2
+Dungeons of gargath keep.
+~
+door~
+25 0 15890
+S
+#15894
+A storage chamber~
+This room is just a storage chamber.  You notice it is 
+filled with broken creations.
+~
+116 268435464 0 1 99 1
+D2
+A musty laboratory.   
+~~
+~
+0 -1 15893
+S
+#15895
+Dungeons of Gargath's Keep~
+You are in the dungeon of Gargath's Keep.  The hallway 
+continues on toward the South.  You can hear all sorts
+of screams coming from the South.  You wonder to
+yourself whether you should turn back now while
+you still can.
+~
+116 268435464 0 1 99 1
+D0
+Dungeons of gargath keep.
+~
+~~
+0 -1 15888
+D2
+Dungeons of gargath keep.
+~
+~
+0 -1 15896
+S
+#15896
+Dungeons of Gargath's Keep~
+You are at an intersection.  There are prison cells to the East,
+West and South.  The prisoners try vainly to grab at you and their
+cries for help are driving you insane.  You know they are all
+desperately wanting to escape the hell they are in.
+~
+116 268435464 0 1 99 1
+D0
+Dungeons of gargath keep.
+~
+~
+0 -1 15895
+D1
+A prison cell.
+~
+door~
+1 0 15897
+D2
+A prison cell.
+~~
+door~
+9 0 15898
+D3
+A prison cell.
+~
+door~
+1 0 15899
+S
+#15897
+Prison cell~
+You are standing in a prison cell.  You are surrounded by lifeless 
+creatures of all sorts.  All around you there are the remains of 
+the dead, the unfortunate souls who have passed away in this dark
+dungeon.  As you start to leave, the prisoners around you begin
+to grab at you, begging for your help.  You wonder if you will 
+make it out of this dungeon alive or simply fall yet another
+victim of Gargath's Keep.
+~
+116 805306376 0 1 99 1
+D3
+Dungeons of gargath keep.
+~~
+door~
+1 0 15896
+S
+#15898
+Prison cell~
+You are standing in a prison cell.  You are surrounded by lifeless
+creatures of all sorts.  All around you there are the remains of
+the dead, the unfortunate souls who have passed away in this dark
+dungeon.  As you start to leave, the prisoners around you begin
+to grab at you, begging for your help.  You wonder if you will
+make it out of this dungeon alive or simply fall yet another
+victim of Gargath's Keep.
+~
+116 939524104 0 1 99 1
+D0
+Dungeons of gargath keep.
+~
+door~
+9 0 15896
+S
+#15899
+Prison cell~
+You are standing in a prison cell.  You are surrounded by lifeless
+creatures of all sorts.  All around you there are the remains of
+the dead, the unfortunate souls who have passed away in this dark
+dungeon.  As you start to leave, the prisoners around you begin
+to grab at you, begging for your help.  You wonder if you will
+make it out of this dungeon alive or simply fall yet another
+victim of Gargath's Keep.
+~
+116 2013265928 536870912 1 99 1
+D1
+Dungeons of gargath keep.
+~
+door~
+1 0 15896
+S
+$~
+#999999

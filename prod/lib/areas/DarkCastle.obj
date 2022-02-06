@@ -1,0 +1,826 @@
+#19200
+obj grand gates key~
+2
+&wThe key to the grand gates&n~
+&wThe key to the grand gates&n~
+~
+18 4456456 512 1
+0 1 0 0
+1 5 5
+A
+18 59
+#19201
+obj darkcastle lava forged shackles~
+3
+&RL&ra&Rv&ra &KForged Shackles&n~
+&KSome forged shackles rest here, &Rred hot&K from the lava in which they were created&n~
+~
+9 4194832 0 257
+0 0 0 0
+10 50000 40000
+A
+19 3
+A
+18 3
+A
+12 -10
+#19202
+obj darkcastle lava forged legbands~
+2
+&RL&ra&Rv&ra &KForged L&wegband&Ks&n~
+&KSome forged legbands rest here, &Rred hot&K from the lava in which they were created&n~
+~
+9 4194820 0 33
+40 0 0 0
+10 150000 15000
+A
+19 2
+A
+18 2
+A
+14 -35
+A
+12 -15
+#19203
+obj darkcastle lava covered nail~
+3
+&RL&ra&Rv&ra&w-&KCovered &yNail&n~
+&KA huge &Rlava covered &Knail rests here.&n~
+~
+5 306203284 0 8193
+98304 6 6 11
+4 150000 45000
+A
+19 2
+A
+18 4
+A
+13 -25
+#19204
+obj darkcastle dark priests souls robe~
+2
+&KRobe of Dark Souls&n~
+&KA dark robe, with the insignia of the carrier of souls rests among the rubble on the ground&n~
+~
+15 138412548 0 9
+350 0 0 0
+11 96000 13500
+A
+40 2
+A
+19 2
+#19205
+obj key to the castle~
+1
+&KDarkCastle &wKey&n~
+&KDarkCastle &wKey&n~
+~
+18 262152 512 1
+0 1 0 0
+110 5 5
+A
+18 59
+#19206
+obj withering tree~
+3
+&yA &KWithering &yTree&n~
+&yA &KWithering &yTree&n~
+~
+15 134217740 0 1
+100000 5 0 0
+500 5 5
+#19207
+obj darkcastle withered soul~
+2
+&yWithered &KSoul&n~
+&KA &ywithered &Ksoul rests heavily upon the ground&n~
+~
+1 205543956 131712 65537
+0 0 1000 0
+18 165000 45000
+A
+19 3
+A
+18 2
+A
+13 -10
+#19208
+obj darkcastle damned amulet~
+2
+&KAmulet of the Damned&n~
+&KA large amulet bearing the symbol of the damned lies here&n~
+~
+9 4196996 0 5
+0 0 0 0
+6 225000 89000
+A
+19 4
+A
+18 1
+A
+12 -15
+A
+13 -15
+#19209
+obj darkcastle chainmail damned~
+2
+&KC&wh&Ka&wi&Kn&wm&Ka&wi&Kl &wof the &KDamned&n~
+&KSome very heavy chainmail, bearing the symbol of the damned rests here&n~
+~
+9 104860164 0 9
+0 0 0 0
+19 224000 150000
+A
+19 4
+A
+18 3
+A
+13 -15
+#19210
+obj darkcastle bracer darkness~
+3
+&KBracer of Darkness&n~
+&KA small forged bracer, bearing the symbol of the damned rests here&n~
+~
+9 4194816 0 4097
+5 0 0 0
+3 97000 50000
+A
+19 3
+A
+18 1
+A
+13 -20
+A
+12 -10
+#19211
+obj darkcastle dream dissolver~
+1
+&WD&wrea&Wm &KD&wi&Ks&ws&Ko&wl&Kv&we&Kr&n~
+&KThe dissolver of dreams rests here, waiting to cleave the good from this world&n~
+~
+5 222300804 0 8193
+33792 10 4 3
+2 300000 13000
+A
+40 2
+A
+19 2
+A
+13 -15
+#19212
+obj ferry darkcastle~
+1
+&wThe Ferry to the &KDarkCastle&n~
+&wThe Ferry to the &KDarkCastle&n~
+~
+24 8 0 0
+80 80 10 9000
+1 62000 5
+#19213
+obj darkcastle key~
+1
+&KDarkCastle Key&n~
+&KIf you see this, how in the hell did this key get lost? :P &n~
+~
+18 541327372 1540 1
+0 1 0 0
+15 5 150000
+A
+18 59
+#19214
+obj small candle~
+7
+&WA small candle&n~
+&WA small candle lies here, flickering in the &Kdarkness&n.~
+~
+1 8 0 0
+0 0 10 0
+1 5 5
+#19215
+obj darkcastle zadkiel sword the valiant blade~
+1
+&WThe &wV&Wa&wl&Wi&wa&Wn&wt&n~
+&WA large, magically forged sword rests here, emitting the will of the angels&n~
+~
+5 4328770 0 8193
+34816 4 10 3
+20 500000 150000
+A
+19 1
+A
+18 1
+#19216
+obj darkcastle demon hood~
+3
+&KD&we&Km&wo&Kn Hood&n~
+&KAn evil looking hood collects dust in the corner.&n~
+~
+9 4194820 0 17
+5 0 0 0
+5 90000 140000
+A
+19 4
+A
+42 -2
+A
+13 15
+#19217
+obj darkcastle demon chain~
+2
+&KD&we&Km&wo&Kn &WC&wh&Wa&wi&Wn&n~
+&KA small frail chain sits here, coiled into a ball.&n~
+~
+9 4196886 4 2049
+25 0 0 0
+8 70000 450000
+A
+19 3
+A
+18 3
+A
+13 -20
+A
+12 -15
+#19218
+obj darkcastle detached soul~
+2
+&wa &Kd&we&Kt&wa&Kt&wc&Kh&we&Kd &ws&Ko&wu&Kl&n~
+&KA forgotten soul has been detached from its owner and placed upon the floor in here&n~
+~
+9 171991716 132 16385
+0 0 0 0
+15 124000 170000
+A
+19 6
+A
+18 4
+A
+13 -40
+A
+12 -25
+#19219
+obj darkcastle ragged edged pike demonbringer~
+2
+&wA &rRa&wgg&red&K-E&wd&rg&we&Kd Pike named &rD&Remo&Rn&KB&wringe&Kr&n~
+&KA ragged-edged pike rests; heavily laced with flesh calling forth demons.&n~
+~
+5 4194836 0 8193
+8406016 4 9 11
+5 96000 71000
+A
+19 3
+A
+18 2
+#19220
+obj darkcastle darkness shroud~
+2
+&KDarkness Shroud&n~
+&KA darkened shroud sits here.&n~
+~
+15 4194324 0 9
+350 0 0 0
+10 140000 90000
+A
+19 4
+A
+18 2
+#19221
+obj darkcastle darkness gauntlets~
+2
+&KGauntlets of Darkness&n~
+&KA set of darkened gauntlets lie heavily upon the ground&n~
+~
+9 4194852 0 129
+0 0 0 0
+5 75000 15000
+A
+19 4
+A
+18 1
+#19222
+obj darkcastle demon tail~
+4
+&KThe D&we&Km&wo&Kn&w'&Ks &GT&ga&Gi&gl&n~
+&KA wicked looking tail slithers around the room, detached from its owner&n~
+~
+9 4196868 0 262145
+90 0 0 0
+1 5 40000
+A
+19 7
+A
+18 2
+#19223
+obj darkcastle marble circlet~
+2
+&KMa&wrb&Kle Circlet&n~
+&Ka small piece of marble crafted into a ring sits here&n~
+~
+9 507524772 132612 3
+10 0 0 0
+1 5 76500
+A
+19 3
+A
+18 2
+#19224
+obj darkcastle tiara queen demon~
+2
+&wThe &WTiara &wof the &KD&we&Km&wo&Kn &CQ&Gu&Ce&Ge&Cn&n~
+&KA small &Wd&wi&Wa&wm&Wo&wn&Wd &Kencrusted tiara rests on the ground&n~
+~
+9 239077892 0 17
+10 0 0 0
+1 5 150000
+A
+19 4
+A
+18 1
+A
+13 -30
+A
+36 -1
+#19225
+obj slain demon corpse~
+2
+&wA corpse of a slain &Rdemon&n~
+&wThe &ycorpse &wof a slain &Rdemon &wlies here.&n~
+~
+15 8 0 0
+50 5 0 0
+1 5 5
+#19226
+obj darkcastle uriel cloth~
+2
+&WUriel's Cloth&n~
+&WA large cloth lies gently upon the ground&n~
+~
+9 104860673 4 9
+75 0 0 0
+1 5 5
+A
+19 2
+A
+18 4
+A
+41 1
+A
+13 -55
+#19227
+obj darkcastle uriel wings~
+2
+&WUriel's Wings&n~
+&WSome ripped off &Rbloody &Kwings sit here&n~
+~
+9 104860674 0 1025
+40 0 0 0
+1 5 5
+A
+19 3
+A
+41 2
+A
+12 -50
+#19228
+obj darkcastle destroying flame~
+3
+&KThe Destroying &RFl&Ya&Rme&n~
+&KThe &Rfl&Ya&Rme &Kof destruction rests on the floor&n~
+~
+1 4196886 0 65537
+0 0 10 0
+150 5 30000
+A
+19 3
+A
+18 2
+#19229
+obj crypt tomb~
+1
+&KAn ancient tomb&n~
+&KAn archaic tomb rests here, keeping Ereshkigal's mortal body from decaying.&n~
+~
+15 8 0 1
+30000 15 19230 0
+750 5 5
+#19230
+obj crypt key~
+2
+&KCrypt Key&n~
+&KCrypt Key&n~
+~
+18 943980684 1540 1
+19229 1 0 0
+1 5 5
+A
+18 59
+A
+41 10
+A
+17 100
+#19231
+obj pile of slain demons~
+1
+&wA large pile of &Rbodies&n~
+&wA large pile of &Rbodies &wlay here, &Kblackened &Wwings &wstill attached to dismembered bodies&n~
+~
+25 8 0 0
+0 0 10 0
+1 5 5
+#19232
+obj darkcastle utu flame~
+2
+&wUtu's &RF&Yl&Ra&Ym&Re&n~
+&KA large &Rfla&Ym&Ring &Kbroadsword rests on the floor&n~
+~
+5 4194305 0 8193
+65536 10 6 3
+4 5 45000
+A
+19 5
+#19233
+obj darkcastle decree dead~
+3
+&wDecree of the &KDead&n~
+&KThe decree of the dead is mounted on the walls, as you see your number...you DIE!!!&n~
+~
+9 4194308 0 16385
+5 0 0 0
+5 5 35000
+A
+19 6
+A
+18 1
+#19234
+obj darkcastle marduk war chains~
+3
+&WMarduk's &KW&wa&Kr &yCh&Kai&yns&n~
+&KSome heavy chains of war rest here&n~
+~
+9 37749252 0 5
+0 0 0 0
+25 5 65000
+A
+19 3
+A
+18 3
+#19235
+obj darkcastle sky boots~
+1
+&KBoots &wof the &CSky&n~
+&KSome boots, that look ready to take you into the &Csky &Krest here&n~
+~
+9 104860161 0 65
+15 0 0 0
+12 5 75000
+A
+19 2
+A
+18 2
+A
+25 1
+A
+13 -25
+#19236
+obj darkcastle anu battle shroud~
+3
+&WAnu's &RB&ra&Rt&rt&Rl&re &KS&wh&Kr&wo&Ku&wd&n~
+&KThe battle shroud of Anu rests here&n~
+~
+9 4196352 0 1025
+50 0 0 0
+30 5 45000
+A
+19 4
+A
+18 2
+A
+12 -35
+A
+36 -1
+#19237
+obj darkcastle forged hero ring~
+2
+&KThe forged ring of a hero&n~
+&Ka small forged ring lies here&n~
+~
+9 4194852 0 3
+20 0 0 0
+1 5 100000
+A
+19 2
+A
+18 2
+A
+41 1
+A
+12 -30
+#19238
+obj queens treasure~
+4
+&KThe Queen's &YTr&yea&Ysu&yre&n~
+&KThe Queen's &YTr&yea&Ysu&yre&n~
+~
+20 8 0 1
+750000 0 0 0
+1 5 5
+#19239
+obj darkcastle vampire necklace~
+2
+&KV&ya&Km&yp&Ki&yr&Ke&y'&Ks &RN&re&Rc&rk&Rl&ra&Rc&re&n~
+The vampire's necklace lies here.~
+~
+9 4194816 1024 5
+30 0 0 0
+4 5 666666
+A
+19 3
+A
+18 3
+A
+13 -25
+A
+12 -10
+#19240
+obj darkcastle double flail of innocence~
+2
+&KA Double Flail of &CI&cn&Cn&co&Cc&ce&Cn&cc&Ce&n~
+The blade of the innocent rests here.~
+~
+5 104858112 0 8193
+24 25 2 7
+9 5 17500
+A
+19 6
+A
+33 -1
+A
+13 -50
+#19241
+obj darkcastle nightmare vampire~
+1
+&wThe &KNightmare &wof the &KV&ya&Km&yp&Ki&yr&Ke&n~
+The nightmare of the vampire rests here, ready to reap the undead.~
+~
+5 4196356 0 8193
+4112 9 5 11
+6 5 137500
+A
+19 4
+A
+18 4
+#19242
+obj darkcastle innocent symbol~
+2
+&wThe &KSymbol &wof the &CI&cn&Cn&co&Cc&ce&Cn&ct&n~
+The symbol of innocence rests here, peacefully.~
+~
+9 4194304 1024 5
+30 0 0 0
+16 5 345600
+A
+19 3
+A
+18 3
+A
+13 -20
+A
+12 -20
+#19243
+obj darkcastle shining silver tipped dagger~
+3
+&WS&wh&Wi&wn&Wi&wn&Wg &KS&wilve&Kr &wTipped &KDagger&n~
+The shining silver tipped dagger rests here.~
+~
+5 4194817 0 8193
+8 9 5 11
+3 7500000 666
+A
+19 5
+A
+18 2
+#19244
+obj darkcastle lasmosith~
+3
+&RLasmosith&n~
+&KThe legendary Lasmosith lies here&n~
+~
+9 4194832 0 2049
+25 0 0 0
+15 1250000000 15000
+A
+18 5
+A
+19 2
+A
+12 -25
+A
+13 -25
+#19245
+obj darkcastle destiny relic~
+3
+&RR&re&Rl&ri&Rc &wof &SD&Se&Ss&St&Si&Sn&Sy&n~
+&KThe relic of destiny eyes you&n~
+~
+9 138414593 4 16385
+0 0 0 0
+15 100000 1500000
+A
+19 6
+A
+37 -1
+A
+17 15
+A
+18 2
+#19246
+obj darkcastle bloody circlet kosis~
+2
+&RKosis' Bloody Circlet&n~
+&KThe &Rbloody &Kcirclet of Kosis is here&n~
+~
+9 104860176 0 3
+20 0 0 0
+15 69696969 6969
+A
+19 2
+A
+18 3
+A
+13 -10
+A
+12 -10
+#19247
+obj darkcastle atir bracelet~
+2
+&KAtir's Bracelet&n~
+&KThe bracelet of the princess of Sh'lazt sits upon the dirty floor&n~
+~
+9 104859652 0 4097
+20 0 0 0
+5 145000 13000
+A
+19 2
+A
+18 3
+A
+13 -25
+A
+12 -10
+#19248
+obj quest nightmare vampire~
+3
+&wThe &KNightmare &wof the &KV&ya&Km&yp&Ki&yr&Ke&n~
+The nightmare of the vampire rests here, ready to reap the undead.~
+~
+5 138676740 0 8193
+654424 15 3 11
+6 5 137500
+A
+19 2
+A
+18 5
+A
+40 3
+#19249
+obj quest destiny relic~
+0
+&RR&re&Rl&ri&Rc &wof &SD&Se&Ss&St&Si&Sn&Sy&n~
+&wA &ydusty &Rrelic &wrests here&n~
+~
+9 138674176 0 16385
+45 0 0 0
+1 5 5
+A
+19 5
+A
+40 4
+#19250
+obj quest talisman sh'lazt~
+32767
+&KA Talisman bearing the symbol of &CSh'Lazt &Kupon it&n~
+&KA large talisman, with an engraving of the symbol of &CSh'Lazt &Kupon it rests on the floor in here&n~
+~
+9 138674176 0 5
+15 0 0 0
+1 5 5
+A
+19 4
+A
+18 3
+A
+40 2
+A
+41 2
+#19251
+obj quest agile gauntlets~
+4
+&YThe Gauntlets of the Agile&n~
+&WSome very quality gauntlets rest amongst the armour placed upon the wall.&n~
+~
+9 138674184 0 129
+35 0 0 0
+1 5 5
+A
+19 4
+A
+18 3
+A
+41 2
+#19252
+obj quest fire forged legplates~
+4
+&KSome &Rf&Yir&Re &Kforged legplates&n~
+&KA set of &Rf&Yir&Re &Kforged legplates lay upon the ground, burning a hole in the floor.&n~
+~
+9 138674184 0 33
+55 0 0 0
+1 5 5
+A
+19 4
+A
+18 4
+A
+42 4
+#19253
+obj quest phoenix beak~
+0
+&YBeak &Wof the &RPho&re&Ynix&n~
+&WA large beak, covered in fire rests here.&n~
+~
+5 138674184 0 8193
+65536 7 11 11
+1 5 5
+A
+40 6
+A
+41 4
+#19254
+obj do not use~
+0
+&WThe &yBear's &KClaw&n~
+&WA large bear claw is resting upon the floor, giving off the power of the animal.&n~
+~
+27 4456456 0 16385
+100 0 0 0
+1 5 5
+A
+40 30
+A
+25 3
+A
+18 -15
+A
+13 100
+#19255
+obj darkcastle sh'lazt mark~
+3
+&KThe Dark Marking of &CSh'Lazt&n~
+&KA dark mark, representing the town of &CSh'Lazt&K rests in the dirt.&n~
+~
+9 4196356 0 17
+15 0 0 0
+1 5 5
+A
+19 2
+A
+18 3
+A
+13 -25
+A
+12 -25
+#19256
+obj darkcastle sh'lazt engraved symbol shield~
+4
+&wThe &BR&Coya&Bl &KG&wuar&Kd&n &wshield of &n&CSh'Lazt&n~
+&wA shield from the &Br&Coya&Bl &Kg&wuar&Kd &wof &CSh'Lazt &wrests here.&n~
+~
+9 104880128 131200 513
+55 0 0 0
+1 5 5
+A
+40 2
+A
+12 -30
+A
+14 -30
+#19257
+obj darkcastle torso corpse human body dismembered~
+10
+&KA dismembered human torso&n~
+&KA foul smelling corpse decays in the dust.&n~
+~
+15 0 0 1033
+400 0 0 0
+1 5 5
+A
+40 -4
+A
+42 -4
+A
+41 -10
+A
+13 -100
+$~
+#999999

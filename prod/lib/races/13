@@ -1,0 +1,74 @@
+#
+# 
+#
+# Name must be 4 to 20 characters
+NAME=Merman
+# enter 5 digit race description which appears on the WHO list
+DESC=Mermn
+# Enter text displayed when view race details 80bytes/per
+TEXT1=Mermen are marine-dwelling, amphibious humanoids with the upper torso of a
+TEXT2=human and the lower torso of a fish. Mermen were humans but were transformed
+TEXT3=by unknown powers into their current forms.
+TEXT4=none
+# alignment must be EVIL, NORMAL, GOOD
+ALIGNMENT=NORMAL
+# physical size must be SMALL, NORMAL, LARGE
+PHYSICAL_SIZE=NORMAL
+# Stats must be 1 to 25
+MAX_STR=23
+MAX_INT=22
+MAX_WIS=22
+MAX_DEX=19
+MAX_CON=22
+MAX_CHA=21
+# starting hit, mana, moves
+BASE_HIT=23
+BASE_MANA=90
+BASE_MOVE=90
+# max hit, mana, and moves must be 0 to 1 million.
+MAX_HIT=2500
+MAX_MANA=2500
+MAX_MOVE=2500
+# max food, thirst, and drunk must be 10 to 250.
+MAX_FOOD=30
+MAX_THIRST=30
+MAX_DRUNK=30
+# adjustments must be -25 to 25.  A stat will never fall below 3.
+ADJ_STR=+1
+ADJ_INT=+1
+ADJ_WIS=0
+ADJ_DEX=-2
+ADJ_CON=0
+ADJ_CHA=0
+# admustments to hit, mana, move.
+ADJ_HIT=0
+ADJ_MANA=0
+ADJ_MOVE=0
+# adjustments to hit roll range: -50, +50
+ADJ_HITROLL=0
+# adjustments to damage roll range: -50, +50
+ADJ_DMGROLL=0
+# adjustments to armour class range: -25, +25
+ADJ_AC=0
+# Food is normally set to 100.  This means they use 100% of food
+# normally.  If set to 50, the race only uses half the food.
+# if set to 200, race uses twice the food.  A 0 values means no
+# food consumption.
+ADJ_FOOD=100
+ADJ_THIRST=300
+ADJ_DRUNK=100
+# Regeneration is normally set to 100.  This means chars gain 100%
+# normally.  If set to 50, the race only gains at half the rate.
+# if set to 200, race regens at double rate.  A 0 values means no
+# regen.
+REGEN_HIT=100
+REGEN_MANA=100
+REGEN_MOVE=100
+# Enter the spell acronym.
+RACE_PERM_SPELL1=SPELL_BREATHWATER
+RACE_PERM_SPELL2=SPELL_WATERWALK
+RACE_PERM_SPELL3=0
+RACE_PERM_SPELL4=0
+RACE_PERM_SPELL5=0
+# skill/spell adjustments
+SKILL_MIN_LEVEL=SKILL_SCALES 1

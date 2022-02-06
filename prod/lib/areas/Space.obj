@@ -1,0 +1,438 @@
+#8300
+obj wings angels~
+100
+&cA pair of &wsilvery &Cblue&W angelic wings&n~
+Chani's wings lie here on the floor ~
+~
+1 1281 0 1025
+0 0 -1 0
+1 5 5
+#8301
+obj clue~
+100
+a Clue~
+A Clue lies here.  Get it and you will finally have one.  ~
+~
+16 0 0 1
+0 0 10 0
+1 5 5
+#8302
+obj board rogerwaters~
+1
+RogerWaters' Bulletin Board~
+A large bulletin board is here.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+#8304
+obj gun peacemaker~
+100
+Clint's Peacemaker~
+You see a beautifully engraved pistol here.  ~
+~
+11 4194304 0 26625
+0 4 4 11
+25 10 1000000000
+#8308
+obj echo echo's lyre harp~
+100
+Echo's Lyre~
+A shimmering golden harp has been dropped here!~
+~
+9 4194306 0 16385
+10 0 0 3
+1 5 5
+#8309
+obj helm black knight~
+100
+Helm of the Black Knight~
+The famed helm of the knight of darkness has been left here! ~
+~
+9 4194304 0 17
+0 0 10 0
+1 5 5
+#8316
+obj hulk hulk's dumbbell~
+100
+Hulk's dumbbell~
+A dumbbell with enormous weights on it is rolling across the room.  ~
+~
+5 4194304 0 24577
+0 0 0 6
+18 100000 10000000
+#8318
+obj christmas tree~
+100
+a Christmas tree~
+A huge Christmas tree stands here proudly.~
+~
+12 4194304 0 0
+2048 1 1 11
+18 35 10
+E
+tree~
+This huge tree has been cut from the depths of the Haon-Dorian Forest where
+only the biggest trees can be found.  It has been decorated from top to bottom
+with all manner of shining, glittering toys, with a few small spells to add
+that extra sparkle.
+~
+#8319
+obj delete key ~
+100
+&wDe&Kle&wte &KK&we&Ky&n~
+It's best not to tempt fate around this item.~
+~
+11 205520897 0 24577
+0 0 10 0
+8 20000 5000
+#8320
+obj bear teddy teddybear~
+100
+a teddybear~
+A large teddybear with a red ribbon around it's neck is here.~
+~
+13 0 0 24577
+0 0 10 0
+1 5 5
+#8321
+obj flail isthimus~
+100
+the flail of Isthimus~
+A golden flail lies here on the ground.~
+~
+5 1 0 8193
+0 0 10 6
+18 1000000 1000000
+#8322
+obj wet noodle~
+100
+a wet noodle~
+A wet noodle lies here on your foot.~
+~
+5 4194304 0 8193
+0 0 0 2
+1 5 1000000
+A
+19 2
+A
+13 2
+#8323
+obj rose blue delicate~
+100
+a delicate, blue rose~
+A delicate, blue rose lies here waiting to be picked up.~
+~
+13 0 0 16385
+0 0 10 0
+1 5 5
+#8324
+obj ears Mickey black~
+100
+Black Mickey Ears~
+Black Micky ears sit here waiting to be put on.~
+~
+13 4194304 0 17
+0 0 10 0
+1 5 5
+#8325
+obj yummy chocolate cookie~
+100
+A Yummy Chocolate Chip Cookie~
+The best looking chocolate cookie you ever saw is lying here.~
+~
+19 0 0 1
+15 0 0 0
+1 5 5
+#8326
+obj candy corn~
+100
+candy corn~
+Some candy corn is lying here.~
+~
+19 0 0 1
+24 0 10 0
+1 5 5
+#8327
+obj paper serrated~
+100
+a serrated piece of paper~
+A piece of paper lies here.~
+~
+5 0 0 8193
+0 6 5 3
+13 5 10000
+A
+18 10
+#8328
+obj icecream tub chocolate~
+100
+large tub of chocolate icecream~
+A large tub of chocolate icecream is here, melting slowly.~
+~
+19 4194304 0 1
+10 0 10 0
+2 50 25
+A
+18 1
+#8329
+obj walkman sony~
+100
+a Sony Walkman~
+A Sony Walkman has been left lying here.~
+~
+13 0 0 2049
+0 0 10 0
+1 5 5
+#8330
+obj rose chocolate~
+100
+a chocolate covered rose~
+A beautiful rose, coated with a thin layer of chocolate is growing here.~
+~
+19 0 0 16385
+5 0 10 0
+1 5 5
+#8331
+obj trenchcoat coat~
+100
+a long black trenchcoat~
+A long black trenchcoat has been left here in a pile on the ground.~
+~
+9 0 0 9
+5 0 10 0
+10 10000 2500
+#8332
+obj booger green bogey~
+100
+a booger~
+A big green booger is lying here on the ground in a lump.~
+~
+9 262276 0 8209
+100 0 10 0
+1 5 10000000
+A
+27 1
+A
+37 1
+#8333
+obj football ball american~
+100
+a football~
+A football is flopping around on the ground.~
+~
+13 134217728 0 16385
+0 0 10 0
+6 5 5
+E
+ball football~
+This is your typical football, made of leather and shaped like an egg with
+points at both ends.  The laces, what is left of them, were white but are
+now brownish black from the mud and sweat ground into the over the years.
+~
+#8334
+obj Stratocaster guitar~
+100
+a Stratocaster guitar~
+A black and white Fender Stratocaster guitar has been left here.~
+~
+13 2 0 8193
+0 0 10 0
+4 5 5
+E
+guitar stratocaster~
+You're looking at Ford's Vintage 1958 Fender Stratocaster, a SWEET
+looking electric guitar! Black and white with a rosewood neck
+and ivory frets, it looks like a dream and sounds even better...
+~
+#8335
+obj board bulletin appeals~
+1
+Appeals Board~
+A filthy board is here for prisoners to post appeals on.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+#8336
+obj board bulletin DEI~
+1
+Deiis Board~
+An ornate board guilded with gold is here.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+#8337
+obj special proj B-object doesn't work~
+1
+The Special Projects Board~
+A large bulletin board is here.~
+~
+13 8 0 0
+0 0 10 0
+1 5 5
+#8338
+obj head decayed decapitated~
+100
+a decayed head~
+A decaying, decapitated head is sitting here.~
+~
+13 0 0 16385
+0 0 10 0
+8 5 5
+E
+head~
+It is a gruesome half-decayed head that has long been seperated from it's
+owner.
+~
+#8339
+obj doctor pepper soft drink~
+100
+&wA &KDr. &rP&ye&rp&yp&re&yr&n~
+Someone has left their Dr. Pepper can here.~
+~
+17 0 0 1
+1000 1000 15 0
+1 5 5
+#8340
+obj taco~
+100
+a taco~
+Somebody has left a taco lying here.~
+~
+19 0 0 1
+5 0 10 0
+1 5 5
+#8341
+obj white wolf fang~
+100
+&WWhite Wolf &KFang&n~
+&WLupine has lost her fang.&n~
+~
+5 3 64 24577
+0 10 10 11
+5 80000 15000
+A
+18 4
+A
+19 4
+#8342
+obj desk marble den~
+100
+&wa ma&Wr&wb&Kle d&wes&Wk&w, covered with books and maps, rests here&n~
+&wa ma&Wr&wb&Kle d&wes&Wk&w, covered with books and maps, rests here&n~
+~
+12 8 0 0
+0 0 10 0
+15000 5 5
+E
+desk~
+&wThe desk is a large marble desk, polished and buffed to a high gloss.  It is heavy, but
+it is also durable and tasteful.  Whites, greys and blacks swirl in patterns that catch your
+eye and make your imagination soar.  Atop the desk lie books, maps and assorted items that
+belong to the owner, RogerWaters.  
+&n
+~
+#8343
+obj golden altar obj~
+1
+&WA &YG&yolde&Yn &WAltar&n~
+&WA &YG&yolde&Yn &WAltar rests here.&n~
+~
+15 8 0 0
+12345 0 0 0
+1 5 5
+E
+chair modern~
+This is a modern, stainless steel chair with a black leather covering.
+~
+#8344
+obj golden lever obj~
+1
+&WA &YG&yolde&Yn &WLever&n~
+&WA &YG&yolde&Yn &WLever hangs from the altar.&n~
+~
+12 8 0 1
+0 0 10 0
+1 5 5
+E
+chair comfy~
+It is a huge chair, stuffed with foam.  It looks as if it would swallow
+up anybody who sat in it. 
+~
+#8345
+obj crimson cloud~
+100
+&WCl&wou&Wd &wof &rCr&Rims&ron &rM&Ru&rd 2&n~
+&WA la&wr&Wge c&wumu&Klon&wimb&Wus clo&wud floa&Kts gent&wly ne&Warby&n~
+~
+15 0 0 0
+5000000 0 0 0
+1000000 5 5
+E
+cloud~
+This cloud reflects the light of nobility and the darkness of deceit.  Silvery white strands
+of hope spiderweb throughout the cloud, as do blood-red veins of treachery and fear.  This
+cloud is the essence of Crimson Mud 2.  Always changing, always moving.  Sometimes absent,
+sometimes covering the land... but always returning, reshaping and re-inspiring.
+
+Let it hold your hopes, fears, dreams and doubts.  It will be true to you.
+
+~
+#8346
+obj doll toy executive~
+100
+a stress toy~
+Somebody has left a small doll here.~
+~
+12 0 0 16385
+0 0 10 0
+1 5 5
+E
+doll toy~
+It is a small doll, about 6 inches in length, specially made from rubber to
+allow it to be twisted and beaten.
+It resembles Raygar.
+~
+#8347
+obj plant potted~
+100
+a large potted plant~
+A large potted plant is resting here in the corner.~
+~
+12 1 0 0
+0 0 10 0
+1 5 5
+E
+plant pot~
+It is a large, rubbery green plant, that stands up about 5 feet above the 
+pot.  At the top there is a large flourescent pink flower.
+~
+#8348
+obj fireplace sunshine office~
+100
+a roaring fireplace~
+A roaring fireplace that looks totally out of place is here.~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+E
+fireplace~
+It is a roaring fireplace... it looks very comforting, although a little out
+of place in this modern office.
+
+:P
+~
+#8349
+obj chair fish special~
+100
+a special chair~
+A special magical rest chair for Fish.~
+~
+12 0 0 0
+0 0 10 0
+1 5 5
+$~
+#999999

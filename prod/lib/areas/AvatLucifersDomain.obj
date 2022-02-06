@@ -1,0 +1,886 @@
+#15500
+obj enshrouded darken lucifer~
+1
+&wa &Kdark e&gn&Ks&gh&Kr&go&Ku&gd&Ke&gd &wcloak&n~
+A dark cloak that seems to steal the light floats above the ground.~
+~
+9 4194308 0 1033
+0 0 0 0
+10 50000 85000
+A
+19 4
+A
+18 4
+A
+13 -10
+#15501
+obj angel bladed sword lucifer~
+1
+&wan &Wa&wn&Wg&we&Wl&w-&Kbladed &Rsword&n~
+An angel's wing lays here, crying.~
+~
+5 4196865 0 8193
+1537 10 5 3
+7 5 75000
+A
+1 1
+A
+19 4
+A
+18 4
+#15502
+obj lucifer corpse boots~
+3
+&wthe &Kboots &wof &RCorpse&n~
+A dark pair of boots lies here emitting steam.~
+~
+9 4194304 0 65
+20 0 10 0
+4 300000 30000
+A
+18 2
+A
+19 3
+A
+14 -40
+#15503
+obj mace soulcrusher lucifer~
+5
+&wa &Kmace &wnamed &Ksoul-crusher&n~
+The smasher of souls lies here peacefully~
+~
+5 4194820 0 8193
+64 5 10 4
+11 120000 40000
+#15504
+obj salvation key~
+100
+The key to salvation~
+The key of Salvation lies here...tainted in hatred~
+~
+18 262152 0 1
+0 0 10 0
+5 5 1000000
+#15505
+obj sandman cloak lucifer~
+3
+&wthe &Kcloak &wof the &ysandman&n~
+A large pile of brown cloth lies here.~
+~
+9 4194308 0 5
+2 0 0 0
+12 5 75000
+A
+40 1
+A
+19 2
+A
+12 10
+#15506
+obj lucifer sin ring~
+4
+&yThe &rring of sin&n~
+The wages of sin lay before you.~
+~
+9 4194304 0 3
+2 0 0 0
+1 130000 75000
+A
+18 1
+A
+19 3
+#15507
+obj unholy dagger lucifer~
+4
+&wan &Runholy &Kdagger&n~
+A bloody dagger lies here in the dirt.~
+~
+5 4194816 0 24577
+16385 7 6 11
+3 123000 125000
+A
+18 4
+A
+2 1
+A
+19 2
+#15508
+obj personal bs toy~
+10
+Your own personal bs toy~
+Someone has left a bs toy here.~
+~
+5 262144 0 8193
+5815323 10 10 11
+1 100000 5
+A
+18 6
+A
+19 6
+A
+41 4
+#15509
+obj gate key~
+2
+a gate key~
+A gate key lies before you.~
+~
+18 4456456 0 16385
+45 100 100 26
+1 5 5
+#15510
+obj dark shroud lucifer~
+1
+&Ka dark shroud&n~
+An enshrouded mist lies here.~
+~
+1 4194304 0 65537
+30 0 1000 0
+1 100000 100000
+A
+3 2
+A
+19 3
+A
+18 3
+#15511
+obj skull zombie~
+5
+&WA zombie's&g skull&n~
+the skull of a zombie lies here in the dirt.~
+~
+9 4194304 0 16385
+0 0 0 0
+3 80000 100000
+A
+19 5
+#15512
+obj strangle cord lucifer~
+5
+&WA strangle cord&n~
+A sharp cord lies here in the dirt.~
+~
+9 4194304 0 2049
+12 0 10 0
+6 96000 50000
+A
+13 20
+A
+19 3
+A
+18 1
+#15513
+obj skin slayer lucifer~
+1
+&wthe &yskin &wof the &RS&rl&Ra&ry&Re&rr&n~
+A wicked looking skin lies on the ground.~
+~
+15 4194304 0 1025
+350 0 0 0
+9 200000 75000
+A
+19 4
+A
+18 1
+A
+17 -5
+#15514
+obj bone gauntlets lucifer~
+1
+&Wbone gauntlets&n~
+Gauntlets made from the bones of the dead lie here.~
+~
+9 4194304 0 129
+5 0 0 0
+3 111000 35000
+A
+19 3
+A
+25 1
+A
+18 1
+A
+17 50
+#15515
+obj ring gozor~
+8
+&Ra ring named &bGozor&n~
+A large ring lies on the floor crying.~
+~
+1 0 0 3
+0 0 10 0
+1 40000 100000
+E
+Ring Gozor~
+This ring was made from the corpse of a once famous mage.  The soul was bound
+on top of the large diamond in the center of a gold setting.  This ring was
+the most seeked artifact in history.  The power of the great mage himself. 
+All though the ring has mysterious powers, it seems to cry for freedom.
+~
+E
+ring was made from a wicked mage out of the corpse of a great mages corpse.  The corpse was a man named ~
+*}_'{$$EP)dkPSb!_?{
+~
+A
+12 38
+A
+17 -10
+#15516
+obj wand grunting~
+10
+the wand of grunting~
+A rather girthy wand lies here grunting.~
+~
+3 0 0 16385
+42 10 10 26
+1 5 1000000
+E
+ring~
+~
+#15517
+obj unholy signet ring~
+1
+&wAn &gunholy &Ysignet &Rring&n~
+A very unholy ring lies here.~
+~
+9 4194820 0 3
+0 0 0 0
+1 500000 190000
+E
+ring unholy signet~
+This ring blazes with the unholy fires of Lucifer himself.  You can see there
+are some of the most tourtured souls that lie trapped inside this vessel.  The
+signet is only for those who can travel from the planes of the living to the
+tourtured dead.
+~
+A
+13 -10
+A
+19 3
+A
+40 1
+A
+18 -6
+#15518
+obj head ripped ripper~
+5
+&Ra ripped-off &Whead&n~
+A decaying head which has been ripped of lies here, smelling badly.~
+~
+9 4194304 0 16385
+10 0 10 0
+8 234000 36000
+A
+19 5
+A
+3 -1
+A
+2 -1
+A
+6 -1
+#15519
+obj mask fiery lucifer~
+10
+&ra fiery mask&n~
+A mask lies here, too hot to be taken.~
+~
+9 4194304 0 17
+20 0 10 0
+5 125000 45000
+A
+19 3
+A
+18 1
+A
+13 -5
+#15520
+obj robe dust lucifer~
+10
+&ya dust covered robe&n~
+A dusty robe lies crumpled on the ground.~
+~
+9 4194304 0 1033
+45 0 0 0
+9 50000 85000
+A
+19 3
+A
+18 1
+#15521
+obj flashpoint rod lucifer~
+4
+&Wa &Cf&Wl&Ca&Ws&Ch&Wp&Co&Wi&Co&Wn&Ct &Wr&Co&Wd&n~
+Someone has left a rather bright rod here.~
+~
+9 104858112 0 24577
+0 0 0 0
+10 5 1000000
+A
+19 6
+A
+37 -1
+A
+36 -1
+A
+32 -1
+#15522
+obj diamond engagement ring~
+100
+an engagement ring with a BIG OL diamond~
+A white gold ring, with a BIG OL HUGE diamond set in it is here.~
+~
+9 0 0 3
+0 0 10 0
+1 5 5
+#15523
+obj unholy key~
+100
+an unholy key~
+A small unholy key lies here.~
+~
+18 0 0 1
+0 0 10 0
+1 500000 5
+#15524
+obj unholy pentagram lucifer~
+1
+&wan &Run&Kho&Rly &Kpent&Ra&Kgram&n~
+Somone has painted a pentagram on the floor.~
+~
+9 4194816 0 16385
+20 0 0 0
+10 300000 300000
+A
+19 6
+A
+18 5
+A
+13 -50
+A
+6 -5
+#15525
+obj shield souls lucifer~
+3
+&Bshield &Cof &bsouls&n~
+Somone has left a strange shield here.~
+~
+9 4194304 0 513
+60 0 0 0
+15 50000 390000
+A
+19 2
+#15526
+obj bastard sword sorrow lucifer~
+4
+&WA bastard sword named &GSorrow&n~
+Somone has left a rather large sword here.~
+~
+5 4194304 0 8193
+0 8 7 3
+5 500000 250000
+A
+19 5
+#15527
+obj gauntlets glass~
+5
+&Ga pair of &Wglass&G gauntlets&n~
+Somone has left some clear gauntlets here.~
+~
+9 4194304 0 129
+10 0 0 0
+4 500000 100000
+A
+18 2
+A
+19 2
+A
+36 -1
+#15528
+obj guiding light lucifer~
+3
+&KA guiding light&n~
+A guiding light sends of brilliant rays all over the room.~
+~
+1 4194305 0 65537
+0 0 10 0
+5 500000 170000
+A
+19 3
+A
+33 -1
+A
+37 -1
+A
+32 -1
+#15529
+obj piker golden bracers lucifer~
+4
+&Wa pair of &Yg&yo&Yl&yd&Ye&yn &YB&yr&Ya&yc&Ye&yr&Ys&n~
+There is a very valuable set of bracers laying here.~
+~
+9 4194304 0 257
+45 0 0 0
+5 500000 340000
+A
+19 2
+A
+18 1
+A
+12 -40
+#15530
+obj rich money bag lucifer~
+10
+&GA &grichmans's &Gmoney bag&n~
+Somone has left a richman's money bag here.~
+~
+15 4194304 0 2049
+250 0 0 0
+5 40000 500000
+A
+17 -25
+A
+18 4
+A
+23 -5
+#15531
+obj shield coal black lucifer~
+8
+&KA coal black shield&n~
+There is a coal black shield lying here collecting dust.~
+~
+9 4194304 0 513
+55 0 0 0
+4 500000 350000
+A
+19 2
+#15532
+obj vanity mirror lucifer~
+1
+&Ca vanity mirror&n~
+A vanity mirror lies here.~
+~
+9 4194304 0 16385
+10 0 0 0
+4 500000 30000
+A
+19 6
+A
+41 2
+A
+13 -40
+A
+14 -40
+#15533
+obj bondage bracer lucifer~
+10
+&Wa &Kbondage &Wbracer&n~
+Someone has left a black bondage bracer here.~
+~
+9 4194304 0 4097
+15 0 0 0
+1 50000 5
+A
+19 3
+A
+14 -40
+#15534
+obj greaves pride lucifer~
+5
+&Rgreaves &wof &rpride&n~
+A valuable set of greaves lay here.~
+~
+9 4194304 0 524321
+15 0 0 0
+1 79000 520000
+A
+19 3
+A
+18 2
+#15535
+obj boots overachiever lucifer~
+1
+&Rboots of &ran overachiever&n~
+A very expensive pair of boots lay here.~
+~
+9 205520896 0 65
+10 0 0 0
+3 500000 900000
+A
+18 2
+A
+25 1
+#15536
+obj invidious robe lucifer~
+4
+&wInvidious's Robe&n~
+A pile of nasty cloth lays here.~
+~
+9 4194304 0 1033
+5 0 0 0
+5 500000 380000
+A
+19 4
+A
+13 5
+A
+18 2
+#15537
+obj irascible platemail lucifer~
+4
+&BIrascrible's &cPlatemail&n~
+A tough looking platemail lays here.~
+~
+9 4194816 0 9
+50 0 0 0
+5 210000 612500
+A
+19 4
+A
+13 15
+#15538
+obj ring wrath lucifer~
+4
+&Ba ring &cof wrath&n~
+A bright glowing ring lays here.~
+~
+9 4194304 0 3
+5 0 0 0
+1 100000 231200
+A
+19 3
+A
+18 1
+A
+12 -20
+#15539
+obj smasher arm lucifer~
+3
+&cSm&Ka&wsh&Ke&cr's Arm&n~
+Someone has left a large metal arm here.~
+~
+5 4194816 0 8193
+528 11 4 6
+7 190000 222200
+#15540
+obj boots damnation lucifer~
+2
+&wthe &Kboots &wof the&K damned&n~
+A pair of damned boots has been left here unattended.~
+~
+9 4196864 0 65
+20 0 0 0
+5 260000 650000
+A
+19 3
+A
+18 1
+A
+13 -50
+#15541
+obj flesh tail 3 spikes lucifer~
+3
+&GA spiked &yfleshy tail&n~
+Someone has left a gross tail laying here.~
+~
+9 4194304 0 262145
+0 0 8 0
+10 350000 1000000
+A
+19 8
+A
+18 3
+A
+40 2
+A
+12 -50
+#15542
+obj horns goat scape lucifer~
+10
+&yScapegoat's &KHorn&n~
+Someone has left golden horns laying here.~
+~
+9 4194304 0 17
+2 0 0 0
+5 200000 500000
+A
+18 1
+A
+19 3
+A
+36 -1
+A
+12 -5
+#15543
+obj jet black blade lucifer~
+2
+&wa &Kjet black blade&n~
+Someone has left a rather large black blade here.~
+~
+5 4326400 0 8193
+2048 6 8 3
+9 240000 800000
+A
+18 3
+A
+19 2
+#15544
+obj doll suffering lucifer~
+10
+&Wa &Bdoll of suffering&n~
+Someone has left a rather strange looking doll here.~
+~
+1 0 0 65537
+0 0 10 0
+1 75000 200000
+A
+29 -1
+A
+24 -10
+A
+28 -1
+A
+39 -1
+#15545
+obj devourer arm lucifer~
+3
+&KDev&Boure&Kr's &cArm&n~
+A large greyish arm lays here.~
+~
+5 4194816 0 8193
+32768 11 4 6
+6 210000 650000
+A
+19 4
+#15546
+obj small soul boots lucifer~
+2
+&Wa &Kpair &Wof &Ksmall &Wsouls &Kboots&n~
+Someone has left a fine pair of clear shoes here.~
+~
+9 20972032 0 65
+20 0 0 0
+6 100000 500000
+A
+19 3
+A
+18 1
+A
+41 1
+A
+13 -30
+#15547
+obj cloak god lucifer~
+1
+&Wa &Kcloak &Wof &RGod&n~
+Someone has left a royal cloak here.~
+~
+9 104860160 0 5
+20 0 0 0
+6 217000 555500
+A
+18 1
+A
+19 4
+A
+12 -30
+A
+13 -10
+#15548
+obj flesh hold lucifer~
+2
+&ya flesh hold&n~
+Someone has left a rather nasty looking belt here.~
+~
+9 4194816 0 2049
+10 0 0 0
+10 100000 500000
+A
+18 3
+A
+19 3
+A
+12 -40
+A
+13 -20
+#15549
+obj tail ooze lucifer~
+3
+&Ga tail made from ooze&n~
+Someone has left a long ooze tail here.~
+~
+9 4194304 1024 262145
+100 0 0 0
+25 400000 300000
+A
+18 4
+A
+19 10
+A
+12 -50
+A
+13 -50
+#15550
+obj damnation cloak lucifer~
+1
+&Ra cloak of &Kdamnation&n~
+Someone has left a rather nice cloak here.~
+~
+9 4196864 0 5
+10 0 0 0
+8 10000 20000
+A
+19 4
+A
+13 -10
+#15551
+obj gauntlets sandman lucifer~
+2
+&nthe &Kgauntlets&n of the &ysandman&n~
+Someone has left some dark gauntlets here.~
+~
+9 4243972 262272 257
+5 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+A
+40 1
+#15552
+obj greaving blade slayer lucifer~
+2
+&wThe &bGreaving &KBlade &wof the &KDrac'Ocker&n~
+Someone has left a nasty looking sword here.~
+~
+5 4194304 0 8193
+526424 4 10 3
+1 5 5
+#15553
+obj holy wood splintered lucifer~
+2
+&CA splintered piece of holy wood&n~
+Someone has left a piece of broken cross here.~
+~
+5 4194816 0 8193
+1144 7 6 3
+1 5 5
+A
+13 -50
+A
+18 2
+#15554
+obj sadron lucifer spiritual candle~
+3
+&rSadron's &wSpiritual &yCandle&n~
+Someone has left a burning vigil here.~
+~
+1 20971520 0 65537
+0 0 10 0
+1 5 5
+A
+18 1
+A
+40 3
+A
+14 -40
+A
+37 -1
+#15555
+obj stalker claws lucifer~
+2
+&WA pair of stalker claws&n~
+Someone has left some grizzly looking claws here.~
+~
+5 4194304 0 8193
+536 10 5 3
+1 5 5
+A
+18 2
+A
+13 -20
+A
+19 4
+#15556
+obj lamb hide lucifer~
+2
+&wA &Wlamb's &yhide&n~
+&wa &Wlamb's &yhide &wlies here&n~
+~
+15 88113664 290816 1033
+350 0 0 0
+1 5 5
+A
+19 4
+A
+12 -30
+A
+41 2
+A
+17 -25
+#15557
+obj coat stalker lucifer~
+3
+&WA stalkers coat&n~
+Someone has left a coat with many pockets here.~
+~
+9 4194304 0 1025
+5 0 0 0
+1 5 5
+A
+18 2
+A
+19 2
+A
+40 1
+A
+13 -50
+#15558
+obj hooves bloody lucifer~
+2
+&Rb&rl&Ro&ro&Rd&ry &Khooves&n~
+Someone has dropped some bloody hooves here.~
+~
+9 104876544 128 65
+20 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+A
+13 -5
+A
+41 1
+#15559
+obj lucifer burden~
+2
+&KThe Burdens of the World&n~
+&KThe Burdens of the World&n~
+~
+5 4194832 0 8193
+557056 6 8 3
+1 10000000 75000
+A
+19 3
+A
+18 3
+#15560
+obj sin lucifer pendant~
+1
+&rSin's Pendant&n~
+Someone has dropped a pendant here.~
+~
+9 4233728 421888 5
+20 0 0 0
+1 1000000 100000
+A
+18 2
+A
+19 3
+A
+41 1
+A
+13 -100
+$~
+#999999

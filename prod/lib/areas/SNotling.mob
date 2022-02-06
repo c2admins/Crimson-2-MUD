@@ -1,0 +1,129 @@
+#14300
+mob soldier snotling~
+A Snotling Soldier~
+A malicious looking snotling soldier is standing here.
+~
+This is a small green humanoid about two and a half feet tall. He has
+a long pointed nose and long green ears. He looks at you with a wicked
+grin and looks as if he would happily cut your throat.
+~
+12 1048577 136249361 0 -900 S
+1 35 39 2d9+7 2d1+1
+200 35
+8 8 1
+8 0 11 12 11 10 9 10
+#14301
+mob guard snotling~
+A snotling guard~
+A snotling guard is here, lounging around.
+~
+this is a small green humanoid about two and a half feet tall with a long
+pointed nose and tall thin ears. He looks like he does not really care
+who passes......unless the sarge is around that is.
+~
+10 1 136249361 0 -950 S
+5 32 37 8d7+4 2d3+2
+300 150
+8 8 1
+8 0 13 13 12 11 10 8
+#14302
+mob sergeant snotling~
+The Snotling Sergeant~
+A rough looking snotling sergeant looking for somebody to boss about.
+~
+This snotling is a little bigger than the others, and that means he can boss
+them around. He is looking around with a nasty smirk on his face, clearly
+trying to decide which poor snotling has just done something wrong.
+~
+8 1 136249361 0 -1000 S
+8 30 35 9d5+24 2d5+3
+380 242
+8 8 1
+8 0 13 13 12 12 11 9
+#14303
+mob Captain Goblin~
+The Goblin Captain~
+The goblin captain of the army drawing up his plans.
+~
+This is a small goblin, but compared to the snotlings under his control he is
+a giant..and in an army like this, thats all that matters. He has tall pointed
+green ears and a long evil looking nose. He does not seem to have noticed you
+however, as he goes about making his plans to conquer the puny humans of
+midgaard.
+~
+10 1 136249361 0 -1000 S
+12 27 32 10d19+55 1d3+5
+1000 3695
+8 8 1
+8 0 15 14 12 12 13 11
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14304
+mob chef snotling~
+The Snotling Chef~
+The snotling chef is here preparing some slopp.
+~
+This is a small snotling about two feet tall and he is running around 
+preparing his latest delicacy for the troop....the question is, how many will
+survive this time?
+~
+138 1 136249361 0 -1000 S
+12 27 32 10d9+100 5d3+3
+975 3610
+8 8 1
+8 0 15 16 14 12 12 13
+#14305
+mob madboy snotling~
+The Snotling Madboy~
+An insane snotling madboy is here gibbering senslessly.
+~
+This small green snotling snotling is the same size as the others,but has 
+clearly been involved in one too many of the Shaman's mad experiments. His
+eyes are rolling and he drools on himself as he wanders aimlessly around the
+camp making absurd noises.
+~
+136 1 136249361 0 -800 S
+3 34 38 5d9+1 2d3+0
+225 95
+8 8 1
+8 0 12 10 11 10 8 6
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14306
+mob shaman snotling~
+The Snotling Shaman~
+The snotling shaman is here thinking up new spells.
+~
+The shamen is about 3 feet tall, but his big black hat makes him look about 4.
+His body is covered in arcane symbols, and he does not even seem to have notice
+d you, as he recites words under his breath to himself.
+~
+138 32769 136249361 0 -1000 S
+12 27 32 30d7+35 6d3+1
+1000 3575
+8 8 1
+8 6 15 15 12 14 13 9
+SKILL=SPELL_BLINDNESS 34
+SKILL=SPELL_BURNING_HANDS 34
+SKILL=SPELL_CURSE 34
+SKILL=SPELL_MAGIC_MISSILE 34
+#14307
+mob snotling dragon~
+A snotling dragon~
+A sickly little snotling dragon is sitting here.
+~
+This small little dragon sits here helping to protect the camp.
+The snotlings enslaved a few of these beasts and rarely feed them.
+They are pretty weak from starvation and small by nature. 
+~
+10 1 136249361 0 0 S
+5 32 37 2d2+30 2d5+0
+310 175
+8 8 0
+0 0 17 15 16 14 15 14
+$~
+#999999

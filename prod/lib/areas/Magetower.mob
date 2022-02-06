@@ -1,0 +1,360 @@
+#24380
+mob servant~
+&wA &Ws&wervan&Wt&n~
+&wA simple &Ws&wervan&Wt&w is taking a break from his daily chores.&n
+~
+&w This man looks to the ground as to avoid any eye contact. He makes no
+sounds as you approach. He begins to go about his business of cleaning
+the tower.&n
+~
+10 1 136249361 8 1000 S
+44 7 40 1d1+3999 10d19+2
+55000 500000
+8 8 1
+1 0 17 15 14 15 13 14
+#24381
+mob shopkeeper mob~
+&WA &Ye&ylderl&Yy &Ws&whopkeepe&Wr&n~
+&WA &Ye&ylderl&Yy &Ws&whopkeepe&Wr &wasks if she may help you.&n
+~
+&w This old wrinkled woman has seen many years in this tower. She has a friendly look
+on her weathered face. She asks if there is something in particular you are looking
+for.&n
+~
+10 1 136249361 128 750 S
+42 -5 40 1d1+4999 10d19+5
+450000 450000
+8 8 2
+1 0 17 18 16 16 15 12
+#24382
+mob frumpy chef mob~
+&WA &Wf&wrump&Wy &Yc&yhe&Yf&n~
+&WA &Wf&wrump&Wy &Yc&yhe&Yf&W is preparing a stew.&n
+~
+&W A &Wf&wrump&Wy &Yc&yhe&Yf&W stands over her pots and pans preparing a lovely
+smelling stew. As she notices you she screams at you to get out
+of her kitchen before she cleaves you limb from limb.&n
+~
+319498 1 136249361 2097280 250 S
+42 -5 40 1d1+11999 30d15+30
+70000 512333
+8 8 2
+1 0 16 16 16 15 14 13
+#24383
+mob fledgling mage mob~
+&WA &Yf&yledglin&Yg &Rm&rag&Re&n~
+&WA &Yf&yledglin&Yg &Rm&rag&Re&W is resting in his sleeping quarters.&n
+~
+&W A &Yf&yledglin&Yg &Rm&rag&Re&W stands beforeyou wearing a long &Rb&rloo&Rd &Rred&W
+robe. He pays little attention to you as you enter his room.&n
+~
+10 32769 136249361 0 -1000 S
+44 5 40 1d1+12999 20d10+5
+55000 500000
+8 8 1
+1 1 16 18 15 15 12 12
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_BLACK_BURST 35
+SKILL=SPELL_FIRELANCE 75
+#24384
+mob undead guard~
+&wAn &Kundead &Wg&wuar&Wd&n~
+&wAn &Kundead &Wg&wuar&Wd &wcharges you.&n
+~
+&wThis creature was summoned from the dead to guard the necromancer's
+private chambers.  This huge shadowy figure hulks over you, standing
+at least nine feet tall.&n
+~
+43048970 32769 136249361 2097284 -1000 S
+45 -15 40 100d1+22999 30d32+50
+355000 1233453
+8 8 0
+0 0 16 16 16 15 15 13
+SKILL=SPELL_LIGHTNING_BREATH 75
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+ATTACK_SKILL=4
+ATTACK_SKILL=4
+ATTACK_SKILL=4
+ATTACK_TYPE=105
+#24385
+mob illusionary force mob~
+&WThe &Ri&rllusionar&Ry &Cf&co&wr&cc&Ce&n~
+&WThe &Ri&rllusionar&Ry &Cf&co&wr&cc&Ce&W surrounds you.&n
+~
+&w This formless creature holds no shape the eye can see. As it attacks
+you, it's like fighting with wind. Every blow from this creature feels
+like a massive gust of wind.&n
+~
+1075109898 98305 136249361 1048716 0 S
+44 -30 -30 100d100+15999 30d30+30
+0 967123
+8 8 0
+0 0 16 18 16 16 13 12
+#24386
+mob fire elemental mob~
+&RF&rir&Re &ye&wlementa&yl&n~
+&wA &Rf&rir&Re &ye&wlementa&yl&w &Rb&rurn&Rs&w with a &Yb&yrigh&Yt &Wlight&w.&n
+~
+&wA large &Rf&rier&Ry &ye&wlementa&yl &Rb&rurn&Rs&w away endlessly. As you
+approach the elemental, the intense heat makes your
+body sweat profusely.&n
+~
+42205194 32769 136249361 603979916 0 S
+44 -25 40 100d100+15999 25d25+50
+25000 987654
+8 8 0
+0 0 16 16 16 14 15 12
+SKILL=SPELL_FIRE_BREATH 75
+#24387
+mob demonic imp mob~
+&wA &Klittle &Rd&remoni&Rc &yimp&n~
+&wA &Klittle &Rd&remoni&Rc &yimp&w snarls at you.&n
+~
+  &wThis demonic little imp appears to be some sort of familiar. Perhaps he was
+summoned here to guard over this chamber. Who knows what powers this little 
+creature possesses.&n
+~
+1082392602 32769 136249361 2113676 -1000 S
+44 -25 40 100d100+20000 20d20+20
+250000 912345
+8 8 0
+0 0 17 16 15 15 13 12
+SKILL=SPELL_FIRE_BREATH 50
+SKILL=SPELL_CREMATION 75
+SKILL=SPELL_MORTICE_FLAME 50
+SKILL=SPELL_FIRELANCE 75
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+#24388
+mob necromancer mob~
+&wA &Ws&wmal&Wl &Knecro&wmancer&n~
+&wA &Ws&wmal&Wl &Knecro&wmancer&w is chanting away.&n
+~
+&w A small man clad in a black and red robe is a master of the arcane arts.
+He is a summoner of the dead, and they answer to his every beck and call.&n
+~
+1074003982 32769 136249361 2097292 -1000 S
+49 -30 1 1d1+39999 34d34+5
+1234567 1976423
+8 8 0
+1 1 16 16 16 16 14 12
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_MORTICE_FLAME 99
+#24389
+mob skeletal beast mob~
+&wA &Ws&wkeleta&Wl &Kbeast&n~
+&wA &Ws&wkeleta&Wl &Kbeast&w is here protecting it's master.&n
+~
+&wA large fleshless beast charges you in an effort to protect its master. The
+beast is enormous with large skeletal tusks jutting out of it's mouth.&n
+~
+1132724234 32769 136249361 2097164 -1000 S
+44 -30 0 100d100+18999 30d30+30
+0 1232432
+8 8 0
+0 0 17 15 14 15 13 15
+#24390
+mob gnome illusionist mob~
+&WA &Gg&gnom&Ge &Ci&cllusionis&Ct&n~
+&WA &Gg&gnom&Ge &Ci&cllusionis&Ct&W is casting a spell.&n
+~
+&W This gnome is the master of all illusions. With a wave of her
+wand she can make the most beautiful illusions. She completely
+ignores your presence.&n
+~
+1074003978 1 136249361 140 1000 S
+48 -30 -40 1d1+32999 20d25+75
+1237325 1548392
+8 8 2
+3 1 17 18 16 14 14 14
+SKILL=SPELL_COLOUR_SPRAY 99
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SPELL_CONFLAGRATION 99
+#24391
+mob librarian mob~
+&WA &Yl&yibraria&Yn&n~
+&WA &Yl&yibraria&Yn &Wis sorting out a stack of books.&n
+~
+&WThe &Yl&yibraria&Yn&w is busy working away, sorting through
+various books of the library.&n
+~
+1074003978 32769 136249361 0 750 S
+44 -25 40 1d1+5999 20d20+75
+555001 1200000
+8 8 1
+1 1 17 17 15 15 14 14
+SKILL=SPELL_CONFLAGRATION 99
+#24392
+mob conjurer mob~
+&WThe &RC&ronjure&Rr&n~
+&WThe &RC&ronjure&Rr&W is chanting some arcane words.&n
+~
+&W A bearded wizard is busy with his summonings. He waves his staff back and
+fourth while he utters various chants. He pays you no mind as he summons his
+mighty elementals.&n
+~
+1074003978 32769 136249361 140 0 S
+48 -35 -12 100d100+30000 30d30+65
+932123 1234566
+8 8 0
+0 0 17 16 15 15 14 11
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_FIRESTORM 99
+#24393
+mob skulking force~
+&WA &Ks&wkulkin&Kg &Wf&worc&We&n~
+&WA &Ks&wkulkin&Kg &Wf&worc&We &wbegins to drain your lifeforce.&n
+~
+&w This shadowy creature lives by leeching away the lifeforces of all those
+who come in contact with it.&n
+~
+1107558410 32769 136249361 2097152 -1000 S
+44 -30 40 1d1+6999 10d5+3
+12500 500000
+8 8 0
+0 0 16 17 14 16 14 11
+SKILL=SPELL_ENERGY_DRAIN 99
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=105
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+#24394
+mob tinker golem builder mob~
+&YT&yinke&Yr &wthe &Wm&waste&Wr&K golem &Rb&ruilde&Rr&n~
+&YT&yinke&Yr &wthe &Wm&waste&Wr &Kgolem &Rb&ruilde&Rr&w is studying some plans.&n
+~
+&w Tinker is a small dwarf. He has a long grey beard that reaches the floor,
+his face is wrinkled showing his many years.&n
+~
+1074004234 32769 136249361 140 0 S
+46 -25 0 100d100+20000 30d30+30
+1250000 1900000
+8 8 1
+2 0 16 17 15 15 14 15
+#24395
+mob flesh golem mob~
+&wA &yf&wles&yh &Yg&yole&Ym&n~
+&wA lifeless &Yg&yole&Ym&w stands here.&n
+~
+&w This golem has been created from all different kinds of body parts.
+It shows no signs of life. It's completely motionless and ignores your
+every move.&n
+~
+41943050 1 136249361 2097164 -1000 S
+44 0 -10 1d1+15999 40d11+99
+1250000 1200000
+8 8 0
+0 0 17 15 16 16 13 12
+#24396
+mob ghostly horror mob~
+&wA &Wg&whostl&Wy &Khorror&n~
+&wA &Wg&whostl&Wy &Khorror&w sends a chill down your spine.&n
+~
+ &wA ghostly horror is a tortured soul of a mage gone mad. They forever
+roam this tower.&n
+~
+1107558410 1 136249361 2097152 -1000 S
+44 -5 40 1d1+11999 38d10+89
+25000 1234567
+8 8 0
+0 0 16 16 14 14 15 15
+#24397
+mob insane mage mob~
+&wA &Ri&rnsan&Re &Ym&yag&Ye&n~
+&wA &Ri&rnsan&Re &Ym&yag&Ye&w screams at you to leave at once.&n
+~
+&w Once a powerful mage, now just a shell of his former self. His thirst for
+power drove him mad.&n
+~
+1074003976 32769 136249361 0 -1000 S
+44 -25 40 1d1+5999 40d10+99
+250000 900000
+8 8 0
+1 1 17 16 16 15 15 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#24398
+mob inquisitor mob~
+&WThe &RI&rnquisito&Rr&n~
+&WThe &RI&rnquisito&Rr&W stares at you.&n
+~
+&W The inquisitor oversees all maters of the law envolving any of the mages in the
+tower. The inquisitor only answers to the arch-magus.&n
+~
+8 32769 136249361 536871052 550 S
+48 -25 40 100d100+25000 40d30+70
+1545000 1544324
+8 8 1
+1 0 16 18 16 16 12 11
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_FIRESTORM 99
+#24399
+mob arch-magus mob~
+&WThe &KA&wrc&Kh&W-&YM&yagu&Ys&n~
+&WThe &KA&wrc&Kh&W-&YM&yagu&Ys &wexamines you looking for a weakness.&n
+~
+&w The oldest and wisest of all the magi. This is the Arch-Magus, his power
+knows no boundry and his knowledge is limitless.&n
+~
+1074003976 32769 136249361 128 0 S
+50 -25 40 1d1+35999 40d40+50
+5000000 2098473
+8 8 0
+1 1 16 18 16 16 14 12
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_METEOR_SWARM 99
+#24400
+mob shadow dragon mob~
+&WA &WS&whado&Ww &KD&wrago&Kn&n~
+&WA &WS&whado&Ww &KD&wrago&Kn&w prepares to feast on your corpse.&n
+~
+ &wA shadow dragon snarls at you. The shadow dragon is most viscious
+of all the dragon breeds. This dragon is chained to the top of the
+tower and has been saddled.&n
+~
+1083498504 32769 136249361 538968192 -1000 S
+50 -35 40 100d1+75000 35d22+65
+5000000 2500000
+8 8 0
+0 0 25 25 25 25 25 15
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SPELL_SILENCE 99
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=75
+ATTACK_TYPE=105
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=75
+ATTACK_TYPE=105
+$~
+#999999

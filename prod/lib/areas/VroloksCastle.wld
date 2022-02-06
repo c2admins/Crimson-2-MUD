@@ -1,0 +1,1804 @@
+#5500
+Lost in the Black Forest~
+You stumble around, lost, and suddenly you find yourself in the middle of the
+Black Forest!  Towering above you menacingly are evil-looking, misshapen trees,
+leafless and twisted, with the cold wind howling through their boughs.  All
+around you, the forest is covered with thick, thorny vines.  All around you,
+you hear the howling of wolves.  There is a rickety sign posted here.
+~
+55 2097152 0 1 99 0
+D0
+Lost in the Black Forst!
+~
+~
+0 -1 5501
+D1
+Lost in the Black Forest!
+~
+~
+0 -1 5502
+D2
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+D3
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+E
+sign rickety~
+The sign reads:
+ 
+   ::::::::::::::::::::::::::::::
+   :: You are now entering the ::
+   :: domain of the great lord ::
+   :: Vrolok.  Great evil lies ::
+   :: ahead.  Proceed  at your ::
+   :: own risk.                ::
+   ::::::::::::::::::::::::::::::
+~
+S
+#5501
+Lost in the Black Forest~
+Towering above you menacingly are evil-looking, misshapen trees, leafless and
+twisted, with the cold wind howling through their boughs.  All around you, the
+forest is covered with thick, thorny vines.  All around you, you hear the
+howling of wolves.
+~
+55 2097152 0 1 99 0
+D0
+Lost in the Black Forst!
+~
+~
+0 -1 5500
+D1
+Lost in the Black Forest!
+~
+~
+0 -1 5503
+D2
+Lost in the Black Forest!
+~
+~
+0 -1 5503
+D3
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+S
+#5502
+Lost in the Black Forest~
+Towering above you menacingly are evil-looking, misshapen trees, leafless and
+twisted, with the cold wind howling through their boughs.  All around you, the
+forest is covered with thick, thorny vines.  All around you, you hear the
+howling of wolves.
+~
+55 2097152 0 1 99 0
+D0
+Lost in the Black Forst!
+~
+~
+0 -1 5504
+D1
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+D2
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+D3
+Lost in the Black Forest!
+~
+~
+0 -1 5503
+S
+#5503
+Lost in the Black Forest~
+Towering above you menacingly are evil-looking, misshapen trees, leafless and
+twisted, with the cold wind howling through their boughs.  All around you, the
+forest is covered with thick, thorny vines.  All around you, you hear the
+howling of wolves.
+~
+55 2097152 0 1 99 0
+D0
+Lost in the Black Forst!
+~
+~
+0 -1 5503
+D1
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+D2
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+D3
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+S
+#5504
+Lost in the Black Forest.~
+Towering above you menacingly are evil-looking, misshapen trees, leafless and
+twisted, with the cold wind howling through their boughs.  All around you, the
+forest is covered with thick, thorny vines.  All around you, you hear the
+howling of wolves.
+~
+55 2097160 0 1 99 0
+D0
+~
+~
+0 -1 5563
+D1
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+D2
+Lost in the Black Forest!
+~
+~
+0 -1 5500
+D3
+Lost in the Black Forest!
+~
+~
+0 -1 5503
+S
+#5505
+Before the great bridge.~
+You have found your way out of the Black Forest!.  Before you, to the east, you
+see a long stone bridge.  It spans a deep chasm.  As you look down, all you can
+see is mist.  The howling is still all around you making you wonder if it came
+from the forest, or from what lies ahead...
+~
+55 268435456 0 1 99 0
+D1
+On the bridge.
+~
+~
+0 -1 5506
+D3
+Back into the Black Forest...are you MAD?!?
+~
+~
+0 -1 5504
+S
+#5506
+On the great bridge.~
+The bridge looks very old, but has defied time and still stands strong.  Up
+ahead you see a gate at the center of the bridge, and beyond that is the
+house of Lord Vrolok.  A cold wind blows by, chilling you to the bone.
+~
+55 268435456 0 1 99 0
+D1
+A gate at the center of the bridge.
+~
+~
+0 -1 5507
+D3
+At the edge of the Black Forest.
+~
+~
+0 -1 5505
+S
+#5507
+At the front gate in the center of the bridge~
+Two small towers rise from the sides of the bridge, and between them stands a
+black iron gate.  Through the gate you can see the house.  You can also hear
+the howling coming from beyond the gate.  You have some reservations about
+going through the gate...
+~
+55 268435456 0 1 99 0
+D1
+The gate is made of black iron and is cold to the touch.
+~
+gate iron black~
+9 0 5508
+D3
+On the bridge.
+~
+~
+0 -1 5506
+S
+#5508
+On the bridge near the front door ~
+You are standing on the stone bridge which spans a great chasm.  To the east 
+is the house, and to the west is the gate.  You get a sense of dread when you
+look at the house.  It seems to be shrouded in perpetual night.
+~
+55 268435464 0 1 99 0
+D1
+At the doorstep.
+~
+~
+0 -1 5509
+D3
+The gate is made of black iron and is cold to the touch.
+~
+gate~
+9 0 5507
+S
+#5509
+The front door.~
+You are standing on the steps before the front door.  The house looks ancient
+and weathered, but still stands strong.  The front door is made of wood and
+iron, and is splintered and rusting, yet you feel that it can still keep all
+uninvited guests out...or in.  There is a thick rug in front of the door, but
+it doesn't look very welcome.  Flanking the door are two pedestals, on which 
+two gruesome gargoyle statues crouch.  They appear to be staring and you,
+staring and grinning.
+~
+55 268435464 0 1 99 0
+D1
+The front door stands, blocking passage for all.
+~
+door front~
+9 0 5510
+D3
+On the bridge.  
+~
+~
+0 -1 5508
+S
+#5510
+The foyer.~
+You are standing in the middle of the foyer.  It is very dark, and you hear 
+strange noises coming from all around you.  This area is barren, save for a  
+curious sculpture standing before you, right in the middle of the foyer.  To
+the east is a flight of stairs, and passageways are to the north and south.
+~
+55 268435464 0 1 99 0
+D0
+The northern hallway.
+~
+~
+0 -1 5511
+D1
+A staircase.
+~
+~
+0 -1 5532
+D2
+The southern hallway.
+~
+~
+0 -1 5524
+D3
+The front door stands, blocking passage for all.
+~
+door front~
+9 0 5509
+E
+sculpture curious~
+It is a sculpture of the Greek god Apollo, dearly holding on to a changing
+Daphne.  She is almost completely a laurel tree;  only her head and upper
+torso remain those of a beautiful nymph.  She reaches out to Apollo in
+futility, her arms having already turned into branches.
+~
+S
+#5511
+Western end of the northern hallway.~
+You are at the west end of the northern hallway.  Farther to the east, you see
+doors on either side.  The passageway is dimly lit by small candles hanging
+from the walls.
+~
+55 268435464 0 1 99 0
+D1
+The hallway continues.
+~
+~
+0 -1 5512
+D2
+The foyer.
+~
+~
+0 -1 5510
+S
+#5512
+Northern hallway.~
+There are two rows of suits of armor, standing with their backs to the walls.
+They are dirty and unkempt, and almost appear to have seen action recently.
+They wield great poleaxes.  The hallway stretches out to the east and west.
+~
+55 268435464 0 1 99 0
+D1
+The hallway continues.
+~
+~
+0 -1 5513
+D3
+The western end of the hallway.
+~
+~
+0 -1 5511
+E
+armor suit~
+The armor is made of a heavy, dull grey metal.  It is ornately decorated,
+and the visor of the helmet is in the shape of a wolf's muzzle.  The armor
+is covered with dirt and dust, and stains of blood appear to be somewhat
+fresh.    
+~
+S
+#5513
+Middle of the northern hallway.~
+The dark hallway continues to the east and west.  The living room is to the
+north, and a door is to the south.  Farther to the east are more doors.
+~
+55 268435464 0 1 99 0
+D0
+A living room.
+~
+~
+0 -1 5516
+D1
+The hallway continues.
+~
+~
+0 -1 5514
+D2
+The wooden door is unmarked, and you hear nothing from beyond.
+~
+door south~
+1 0 5517
+D3
+The hallway continues.
+~
+~
+0 -1 5512
+S
+#5514
+Bend in the northern hallway.~
+The hallway bends south here, and there are doors to the north and east. The
+hallway stretches out to the west.  You can hear some strange noises coming
+from the north, and faint lupine howling from the south.
+~
+55 268435464 0 1 99 0
+D0
+This is a very large, ornate set of double doors.  You hear a lot of bustling
+coming from beyond.
+~
+doors double north~
+1 0 5518
+D1
+You hear a lot of talking coming from beyond these double doors.
+~
+doors double east~
+1 0 5519
+D2
+The hallway ends.
+~
+~
+0 -1 5515
+D3
+The hallway continues.
+~
+~
+0 -1 5513
+S
+#5515
+End of the northern hallway.~
+The hallway ends here, with a door to the east.  You hear some clanging
+noises through the doors, as well as the howling of wolves you heard on your
+way here.  However, it sounds a lot closer now.
+~
+55 268435464 0 1 99 0
+D0
+The hallway continues.
+~
+~
+0 -1 5514
+D1
+From beyond the door you hear the clanging of metal and smell blood and
+roasting meat.  This door obviously leads to the kitchen.
+~
+door east~
+1 0 5520
+S
+#5516
+Living room.~
+This large room is decorated with velvet drapes and plush furniture, some of
+which appears to be ripped by claws.  The room is lit by various small candles
+scattered about the room.  Outside the window is completely dark.  There is a
+fireplace here, but it is not lit, despite the coldness of the room.  The only
+exit is south.
+~
+55 268435464 0 1 99 0
+D2
+Back out to the hallway.
+~
+~
+0 -1 5513
+S
+#5517
+Library.~
+This huge library also serves as the Master's study.  There are thousands of
+book stacked on shelves covering the walls, and various other books are strewn
+about the room.  A large reading chair stands in one corner of the room.
+~
+55 268435464 0 1 99 0
+D0
+The wooden door is unmarked, and you hear nothing from beyond.
+~
+door north~
+1 0 5513
+D1
+This shelf appears to have been moved here recently.  Some of the dust is still
+unsettled.
+~
+shelf secret~
+17 0 5533
+S
+#5518
+The grand ballroom.~
+ What once must have been a lavish room is now just a dust covered trash heap. Heaps of books lie scattered 
+about, and a makeshift bed of moss sits in the middle of the room. The furinture has been removed, and no
+doubt disposed of. The only exit is south.
+~
+55 268435464 0 1 99 0
+D2
+This is a very large, ornate set of double doors.
+~
+doors double south~
+1 0 5514
+S
+#5519
+Dining room.~
+This room has a great polished dark wood dining table in the center.  On it
+are the remains of a great feast.  Forks, knives, spoons, dishes, goblets, and
+scraps of food are all over the table.  There are easily enough chairs to seat
+thirty.
+~
+55 268435464 0 1 99 0
+D2
+This door is used by the servants to get to the kitchen.
+~
+door south~
+1 0 5520
+D3
+These doors lead back out into the hallway.
+~
+doors double west~
+1 0 5514
+S
+#5520
+Kitchen.~
+Dirty pots and pans are all over the place.  It looks like there was a lot of
+cooking done recently.  There is still a large piece of meat roasting on a
+spit, and recently killed game lie on a butcher's block, dripping blood. You
+hear the howling of wolves very clearly now.  It is coming from just outside
+the kitchen, to the east.
+~
+55 268435464 0 1 99 0
+D0
+This door is used by the servants to serve their Master and guests in the  
+dining room.
+~
+door north~
+1 0 5519
+D1
+a large pack of hungry wolves, just waiting for some meat to come
+their way.  You do NOT want to go out there.
+~
+~
+0 -1 5522
+D2
+A pantry.
+~
+~
+0 -1 5521
+D3
+This door leads back to the northern hallway.
+~
+door west~
+1 0 5515
+S
+#5521
+A pantry.~
+This is where all of the food is kept.  However, you do not see a lot of food,
+and some of what is on the shelves look like they belong in a laboratory.
+~
+55 268435464 0 1 99 0
+D0
+The kitchen.
+~
+~
+0 -1 5520
+D5
+You spot a trapdoor in the floor.
+~
+trapdoor down~
+1 0 5523
+E
+shelf shelves~
+You see jars full of strange bits of flesh, and various preserved body parts,
+some humanoid, some not.
+~
+S
+#5522
+A pack of hungry wolves.~
+Walking into the midst of fifty rabid, starving wolves was not one of your
+brighter ideas.  Too late, they've already ripped you to pieces, and are 
+happily feasting upon your flesh.
+ 
+You are DEAD!
+~
+55 268435466 0 1 99 0
+D3
+You can see a kitchen.
+~
+~
+0 -1 5520
+S
+#5523
+Secret laboratory.~
+All around you is glassware.  Strange tubes, beakers, flasks, and vials are
+connected into some strange contraption, through which hot bubbling liquids
+flow.  Strange tomes lie open on a table, and crumpled pieces of parchment
+are strewn about, with notes scribbled down on them in some arcane language.
+~
+55 268435464 0 1 99 0
+D4
+You spot a trapdoor in the ceiling.
+~
+trapdoor~
+1 0 5521
+E
+glassware~
+You wonder what the strange fluids are.  They are of all kinds of different
+colors:  orange, green, red, silver, black, clear.
+~
+S
+#5524
+Western end of the southern hallway.~
+This end of the hallway is dimly lit by candles on the wall.  There is a door
+to the south, and the hallway continues east.
+~
+55 268435464 0 1 99 0
+D0
+The foyer.  
+~
+~
+0 -1 5510
+D1
+The hallway continues.
+~
+~
+0 -1 5525
+D2
+This is a small door, possibly leading to a closet.
+~
+door south~
+1 0 5529
+S
+#5525
+Middle of the southern hallway.~
+This hallway seems to be smaller than the northern hallway, and somewhat less
+interesting to look at.  The walls and the paintings hanging on them have been
+ripped to shreds.
+~
+55 268435464 0 1 99 0
+D1
+The hallway continues.
+~
+~
+0 -1 5526
+D3
+The western end of the hallway.
+~
+~
+0 -1 5524
+S
+#5526
+A turn in the southern hallway.~
+The hallway turns from east to south.  From around the corner you hear faint
+music.  There is a large silver mirror hanging on the east wall.
+~
+55 268435464 0 1 99 0
+D1
+yourself in the mirror.
+~
+mirror secret east~
+17 3792 5530
+D2
+The hallway continues.
+~
+~
+0 -1 5527
+D3
+The hallway continues.
+~
+~
+0 -1 5525
+S
+#5527
+A bend in the southern hallway.~
+The hallway turns from south to east.  You hear faint music coming from the
+west.  The hallway leads north and east.
+~
+55 268435464 0 1 99 0
+D0
+The hallway continues.
+~
+~
+0 -1 5526
+D1
+The end of the hallway.
+~
+~
+0 -1 5528
+D3
+From behind this ornate door comes some of the most beautiful piano music you
+have ever heard.
+~
+door west~
+1 5509 5531
+S
+#5528
+End of the southern hallway.~
+There is a door to the east, and the hallway goes back to the west.  You hear
+faint music coming from the west.
+~
+55 268435464 0 1 99 0
+D1
+This door leads outside the house, to the garden.
+~
+door east~
+1 5591 5536
+D3
+The hallway continues.
+~
+~
+0 -1 5527
+S
+#5529
+Coatroom.~
+This is a walk-in closet, full of old, moth-eaten coats.  The large amount of
+dust immediately makes you cough uncontrollably.  The only exit is the door to
+the north.
+~
+55 268435464 0 1 99 0
+D0
+This door leads back out into the northern hallway.
+~
+door north~
+1 0 5524
+S
+#5530
+The hidden tower.~
+This strange tower looks deserted, yet you feel a strange presence. Instead
+of the dread you felt elsehwere in the house, the gloom of this place makes
+you sad.  The stairs wind farther up.
+~
+55 268435464 0 1 99 0
+D3
+Nothing special there...
+~
+secret mirror~
+17 5592 5526
+D4
+Up in the hidden tower.
+~
+~
+0 -1 5559
+S
+#5531
+Music room.~
+The first thing you notice is the huge grand piano in the northwestern corner
+of this room.  It is made of polished ebony, and appears to be in perfect
+condition.  There are also various instruments hanging on the walls.  There
+is a marble bust on a pedestal in one corner.  The only exit is the door to
+the east.
+~
+55 268435464 0 1 99 0
+D1
+The door leads back out to the southern hallway.
+~
+door east~
+1 5509 5527
+E
+bist marble~
+You recognize it immediately when you see it;  the long, flowing hair, the
+spectacles, and the stern face give it away.  It is Tyv, the patron of all
+musicians.  He is a familiar sight to you, even without the kilt.
+~
+S
+#5532
+At the foot of the staircase.~
+This grand staircase leads up to the second and third floors.  The bannisters
+are made of polished marble, and the stairs are carpeted by an old, tattered
+red carpet.
+~
+55 268435464 0 1 99 0
+D3
+The foyer.
+~
+~
+0 -1 5510
+D4
+The second floor.
+~
+~
+0 -1 5543
+S
+#5533
+The secret stairwell.~
+You wonder what this small, cobweb-filled stairwell was used for, or where it
+leads.  Small steps wind upward.
+~
+55 268435464 0 1 99 0
+D3
+This is the back of one of the shelves in the library.
+~
+shelf secret west~
+17 5502 5517
+D4
+Up the secret stairwell.
+~
+~
+0 -1 5534
+S
+#5534
+The secret stairwell.~
+You wonder what this small, cobweb-filled stairwell was used for, or where it
+leads.  Small steps wind upward and downward.
+~
+55 268435464 0 1 99 0
+D4
+The top of the secret stairwell.
+~
+~
+0 -1 5535
+D5
+The base of the secret stairwell.
+~
+~
+0 -1 5533
+S
+#5535
+The secret stairwell.~
+You wonder what this small, cobweb-filled stairwell was used for, or where it
+leads.  Small steps wind downward.
+~
+55 268435464 0 1 99 0
+D3
+Nothing special there...
+~
+secret door west~
+17 0 5573
+D5
+Down the secret stairwell.
+~
+~
+0 -1 5534
+S
+#5536
+Entrance to the garden.~
+Strange plants of all shapes, sizes, and colors are all around you.  The amount
+of growth is somewhat astonishing, considering the decay the rest of the house
+has suffered.  Exits lead in all directions.
+~
+55 268435464 0 1 99 0
+D0
+In the garden.
+~
+~
+0 -1 5537
+D1
+In the garden.
+~
+~
+0 -1 5539
+D2
+In the garden.
+~
+~
+0 -1 5537
+D3
+This door leads back inside the house.
+~
+door west~
+1 5591 5528
+S
+#5537
+The garden.~
+The vegetation is so thick it blocks out natural light.  Exits lead in all
+directions.
+~
+55 268435464 0 1 99 0
+D0
+In the garden.
+~
+~
+0 -1 5537
+D1
+In the garden.
+~
+~
+0 -1 5537
+D2
+In the garden.
+~
+~
+0 -1 5539
+D3
+In the garden.
+~
+~
+0 -1 5536
+S
+#5538
+The garden.~
+The vegetation is so thick it blocks out natural light.  Exits lead in all
+directions.
+~
+55 268435464 0 1 99 0
+D0
+In the garden.
+~
+~
+0 -1 5537
+D1
+In the garden.
+~
+~
+0 -1 5541
+D2
+In the garden.
+~
+~
+0 -1 5536
+D3
+In the garden.
+~
+~
+0 -1 5537
+S
+#5539
+The garden.~
+The vegetation is so thick it blocks out natural light.  Exits lead in all
+directions.
+~
+55 268435464 0 1 99 0
+D0
+In the garden.
+~
+~
+0 -1 5540
+D1
+In the garden.
+~
+~
+0 -1 5537
+D2
+In the garden.
+~
+~
+0 -1 5539
+D3
+In the garden.
+~
+~
+0 -1 5537
+D5
+~
+~
+0 -1 5598
+S
+#5540
+The garden.~
+The vegetation is so thick it blocks out natural light.  Exits lead in all
+directions.
+~
+55 268435464 0 1 99 0
+D0
+In the garden.
+~
+~
+0 -1 5540
+D1
+In the garden.
+~
+~
+0 -1 5537
+D2
+In the garden.
+~
+~
+0 -1 5537
+D3
+In the garden.
+~
+~
+0 -1 5538
+S
+#5541
+The garden.~
+This area of the garden is clear, and has a small dark pond.  You wonder what
+kind of life it could sustain...
+~
+55 268435464 0 1 99 0
+D0
+In the garden.
+~
+~
+0 -1 5540
+D1
+In the garden.
+~
+~
+0 -1 5538
+D2
+In the garden.
+~
+~
+0 -1 5542
+D3
+In the garden.
+~
+~
+0 -1 5537
+E
+pond pool small dark black~
+The murky water is too dark to see into.
+~
+S
+#5542
+The garden.~
+This part of the garden is extremely overgrown and lush, making breathing
+difficult.  The plants which grow here also seem exceptionally large.
+~
+55 268435464 0 1 99 0
+D0
+In the garden.
+~
+~
+0 -1 5537
+D1
+In the garden.
+~
+~
+0 -1 5540
+D2
+In the garden.
+~
+~
+0 -1 5537
+D3
+In the garden.
+~
+~
+0 -1 5539
+S
+#5543
+By the staircase on the second floor.~
+The grand staircase leads down and up.  The bannisters are made of polished
+marble.  The stairs down are covered by a tattered red carpet, and the stairs
+up are carpeted in royal purple.
+~
+55 268435464 0 1 99 0
+D0
+A hallway.
+~
+~
+0 -1 5544
+D1
+A long hallway.
+~
+~
+0 -1 5551
+D2
+A hallway.
+~
+~
+0 -1 5547
+D4
+~
+~
+0 -1 5565
+D5
+The first floor.
+~
+~
+0 -1 5532
+S
+#5544
+Hallway.~
+This hallway goes to the west.  There is a door to the north.
+~
+55 268435464 0 1 99 0
+D0
+You hear slight growling from behind this door.
+~
+door north~
+1 0 5546
+D2
+The staircase.
+~
+~
+0 -1 5543
+D3
+The hallway.
+~
+~
+0 -1 5545
+S
+#5545
+Hallway.~
+This hallway goes to the east.  There is a door to the south.
+~
+55 268435464 0 1 99 0
+D1
+The hallway.
+~
+~
+0 -1 5544
+D2
+This black door is marked by a hideous bloodshot eye.
+~
+door south~
+1 5504 5550
+S
+#5546
+Guest chamber.~
+This bedchamber is in terrible condition.  All of the furniture has been ripped
+apart or broken.  Splinters of wood lie all over the ground.
+~
+55 268435464 0 1 99 0
+D2
+This door leads back out into the hallway.
+~
+door south~
+1 0 5544
+S
+#5547
+Hallway.~
+This hallway goes to the west.  There is a door to the south.
+~
+55 268435464 0 1 99 0
+D0
+The staircase.
+~
+~
+0 -1 5543
+D2
+This door looks untouched in years.  You hear nothing from the inside.
+~
+door south~
+1 0 5549
+D3
+The hallway.
+~
+~
+0 -1 5548
+S
+#5548
+Hallway.~
+This hallway goes to the east.  There is a door to the north.
+~
+55 268435464 0 1 99 0
+D0
+~
+~
+0 -1 5566
+D1
+nothing special.
+~
+~
+0 -1 5547
+S
+#5549
+Guest chamber.~
+The furniture in this room is dusty and looks as if it hasn't been used in
+many years.  The only exit is the door to the north.
+~
+55 268435464 0 1 99 0
+D0
+This door leads back out into the hallway.
+~
+door north~
+1 0 5547
+S
+#5550
+Observation room.~
+This is the room from which the Master looks over his estate.  The view of
+the surrounding countryside is ghastly, as everything looks dead.
+Far off to the distance, on a neighboring mountaintop, stands a tower.
+~
+55 268435464 0 1 99 0
+D0
+This door leads back out into the hallway.
+~
+door north~
+1 5504 5545
+S
+#5551
+Hallway.  ~
+This part of the hallway looks as if a massacre took place here.  Blood, claw
+marks, bits of old flesh, and other strange markings are all over the floor
+and walls.
+~
+55 268435464 0 1 99 0
+D1
+The long hallway.
+~
+~
+0 -1 5553
+D3
+The staircase.
+~
+~
+0 -1 5543
+S
+#5552
+Hallway.~
+This part of the hallway looks as if a massacre took place here.  Blood, claw
+marks, bits of old flesh, and other strange markings are all over the floor
+and walls.  
+~
+55 268435464 0 1 99 0
+D1
+The long hallway.
+~
+~
+0 -1 5553
+D3
+The staircase.
+~
+~
+0 -1 5543
+S
+#5553
+End of the hallway.~
+There is a pair of ornate double doors to the north, and a curtain to the east.
+To the south is a cherrywood door.
+~
+55 268435464 0 1 99 0
+D0
+These heavy double doors are decorated in gold leaf.
+~
+doors double north~
+1 5597 5555
+D1
+The scarlet curtain wavers from the wind blowing on it from the other side.  
+~
+curtain east~
+1 0 5554
+D3
+The long hallway.
+~
+~
+0 -1 5552
+S
+#5554
+Balcony.~
+From here the Master looks over the other end of his estate.  The cold wind
+chills your entire body.  A massive stone railing circles the balcony, but it
+is falling to pieces.  You see a vast desert far to the southeast.
+~
+55 268435464 0 1 99 0
+D1
+The stone railing is crumbled here.  Be careful...do NOT fall over!
+~
+~
+0 -1 5580
+D3
+The scarlet curtain wavers from the cold wind blowing against it.
+~
+curtain west~
+1 0 5553
+S
+#5555
+The decorated hallway.~
+On the walls of this long hallway you see great paintings of the previous
+masters of this house. The hallway continues to the north.
+~
+55 268435464 0 1 99 0
+D0
+~
+~
+0 -1 5557
+D2
+These heavy double doors are decorated in gold leaf.
+~
+doors double south~
+1 5597 5553
+E
+painting west ordog~
+On the west wall is a painting depicting a great general in full arms and
+armor.  The name at the bottom reads "Ordog".
+~
+E
+painting east grigori~
+On the east wall is a painting of a great mariner from ages past.  The  bottom
+edge of the frame bears the name "Grigori".
+~
+S
+#5556
+Master Bedroom~
+On the walls of this long hallway you see great paintings of the previous
+masters of this house.  The hallway continues north and south.
+~
+55 268435464 0 1 99 0
+D2
+~
+~
+0 -1 5558
+E
+painting west tatiana~
+On the West wall is a painting depicting a beautiful woman, with long black
+hair blowing in the wind, in olive raiment.  You read the name "Tatiana" at
+the bottom.
+~
+E
+painting east alexei~
+On the East wall is a painting showing a young man with pale, handsome features,
+and jet black hair.  At the bottom edge of the frame is inscribed  the name
+"Alexei".
+~
+S
+#5557
+The decorated hallway.~
+On the walls of this long hallway you see great paintings of the previous
+masters of this house.  The hallway continues north and south.
+~
+55 268435464 0 1 99 0
+D0
+The end of the decorated hallway.
+~
+~
+0 -1 5558
+D2
+~
+~
+0 -1 5555
+E
+painting west cassova~
+On the West wall is a faded painting of a mysterious figure.  He appears to be
+looking away, as if in shame.  The name at the bottom reads "Cassova".
+~
+E
+painting east sergei~
+On the East wall is a canvas.  On this canvas is painted the portrait of a
+great lord who was loved by his people.  The letters at the bottom spell the
+name "Sergei".
+~
+S
+#5558
+The end of the decorated hallway.~
+On the walls of this long hallway you see great paintings of the previous
+masters of this house.  There is a massive iron door to the north, and the
+hallway stretches back to the south.
+~
+55 268435464 0 1 99 0
+D0
+~
+~
+0 -1 5556
+D2
+The decorated hallway.
+~
+~
+0 -1 5557
+E
+painting west sasha~
+On the West wall is a painting of a young woman with pale blond hair and grey
+eyes.  She is carrying a golden flute and a golden harp with silver strings.
+On the frame is the name "Sasha".
+~
+E
+painting east voivode~
+On the East wall is a painting that almost seems to glow.  It shows a powerful
+witch-king from long ago.  There are strange runes at the bottom of the frame,
+but next to them is written the name "Voivode".
+~
+S
+#5559
+The hidden tower.~
+This strange tower looks deserted, yet you feel a strange presence. Instead of
+the dread you felt elsehwere in the house, the gloom of this place makes you
+sad.  The stairs wind upward and downward.
+~
+55 268435464 0 1 99 0
+D1
+From beyond this white door you feel a strange power.
+~
+door white east~
+1 5592 5560
+D4
+The top of the hidden tower.
+~
+~
+0 -1 5568
+D5
+The bottom of the hidden tower.
+~
+~
+0 -1 3730
+S
+#5560
+White hallway.~
+This hallway appears to be unaccessible from anywhere within the house except
+for the hidden tower.  The walls are completely white and seem to glow.  You
+wonder what such a place would be doing inside a house such as this one.
+~
+55 268435464 0 1 99 0
+D1
+The white hallway.
+~
+~
+0 -1 5561
+D3
+The white door leads back into the hidden tower.
+~
+door white west~
+1 5592 5559
+S
+#5561
+White hallway.~
+This hallway appears to be unaccessible from anywhere within the house except
+for the hidden tower.  The walls are completely white and seem to glow.  You
+wonder what such a place would be doing inside a house such as this one.
+~
+55 268435464 0 1 99 0
+D1
+You hear faint chanting from beyond this door.
+~
+door white east~
+1 0 5562
+D3
+The white hallway.
+~
+~
+0 -1 5560
+S
+#5562
+The forbidden chapel.~
+This chapel was founded in secret, as a place of worship for those who did not
+wish to live a life of evil.  In the walls are niches for candles, and two rows
+of pews face an altar to the east.  You feel at ease here, as if none of the
+horrors of this place could get to you in here.
+~
+55 268435464 0 1 99 0
+D1
+By the altar.
+~
+~
+0 -1 5563
+D3
+This door leads back out into the white hallway.
+~
+white west~
+1 0 5561
+E
+pews~
+It appears as if no one has sat in these for a very long time.
+~
+S
+#5563
+Lost in the Black Forest~
+Towering above you menacingly are evil-looking, misshapen trees, leafless and
+twisted, with the cold wind howling through their boughs.  All around you, the
+forest is covered with thick, thorny vines.  All around you, you hear the
+howling of wolves.
+~
+55 0 0 1 99 0
+D0
+~
+~
+0 -1 5504
+D1
+~
+~
+0 -1 5501
+D2
+~
+~
+0 -1 5564
+D3
+~
+~
+0 -1 5501
+S
+#5564
+Lost in the Black Forest~
+Towering above you menacingly are evil-looking, misshapen trees, leafless and
+twisted, with the cold wind howling through their boughs.  All around you, the
+forest is covered with thick, thorny vines.  All around you, you hear the
+howling of wolves.
+~
+55 0 0 1 99 0
+D0
+~
+~
+0 -1 5563
+D1
+~
+~
+0 -1 5505
+D2
+Lost in the Black Forest!
+~
+~
+0 -1 5501
+D3
+Lost in the Black Forest!
+~
+~
+0 -1 5502
+S
+#5565
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5566
+End of the Hall~
+  The hallway abruptly ends, as if the manor was never finished. The only exit leads back south.
+~
+55 268435464 0 1 99 0
+D2
+~
+~
+0 -1 5548
+S
+#5567
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5568
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5569
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5570
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5571
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5572
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5573
+Makeshift Throne Room~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+D1
+~
+~
+16 -1 5535
+S
+#5574
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5575
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5576
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5577
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5578
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5579
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5580
+Falling Off a Balcony~
+  You step off the balcony, and fall...smart move bonehead.
+~
+55 268435470 0 1 99 0
+S
+#5581
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5582
+Vroloks Zone~
+These descs will be pasted from the src file soon.
+~
+55 268435464 0 1 99 0
+S
+#5583
+Gem Encrusted Tunnel~
+  Gems of all shapes, sizes and quality fill this tunnel. Several smallish creatures wander about, many with
+pick in hand to quickly dislodge what stones they can and load them into carts to be hauled off elsewhere. The
+only exit is north.
+~
+55 268435464 0 1 99 0
+D0
+~
+~
+0 -1 5584
+S
+#5584
+Gem Encrusted Tunnel~
+  Gems of all shapes, sizes and quality fill this tunnel. Several smallish creatures wander about, many with
+pick in hand to quickly dislodge what stones they can and load them into carts to be hauled off elsewhere. The
+only exits are north and south.
+~
+55 268435464 0 1 99 0
+D0
+~
+~
+0 -1 5587
+D2
+~
+~
+0 -1 5583
+S
+#5585
+Tunnel Cave In~
+  Recent mining followed by poor mine support methods have caused a cave-in here. The only exit lies south.
+~
+55 268435464 0 1 99 0
+D2
+~
+~
+0 -1 5587
+S
+#5586
+Dead End~
+  The tunnel abruptly ends here as the mining work hasn't yet dug further. The only exit is east.
+~
+55 268435464 0 1 99 0
+D1
+~
+~
+0 -1 5587
+S
+#5587
+Tunnel Crossroads~
+  Several tunnels meet at this intersection, and evidence of cross mining can be observed. Gems inset into 
+metal veins make this area a very rare find. And it appears that both veins are being mined. Numerous carts,
+from empty to completely full lie scattered about, and several small creatures appear to be doing all the work.
+Exits lead in all directions.
+~
+55 268435464 0 1 99 0
+D0
+~
+~
+0 -1 5585
+D1
+~
+~
+0 -1 5588
+D2
+~
+~
+0 -1 5584
+D3
+~
+~
+0 -1 5586
+S
+#5588
+Vein-Streaked Tunnel~
+  Veins of several metals, some precious, steak all through this tunnel. Ore lies scattered about, but all of
+the good ore has since been moved for processing. The tunnel continues to the east and west.
+~
+55 268435464 0 1 99 0
+D1
+~
+~
+0 -1 5589
+D3
+~
+~
+0 -1 5587
+S
+#5589
+Vein-Streaked Tunnel~
+  Veins of several metals, some precious, steak all through this tunnel. Ore lies scattered about, but all of
+the good ore has since been moved for processing. The tunnel continues to the east and west.
+~
+55 268435464 0 1 99 0
+D1
+~
+~
+0 -1 5590
+D3
+~
+~
+0 -1 5588
+S
+#5590
+Vein-Streaked Tunnel~
+  Veins of several metals, some precious, steak all through this tunnel. Ore lies scattered about, but all of
+the good ore has since been moved for processing. The tunnel continues to the east and west.
+~
+55 268435464 0 1 99 0
+D1
+~
+~
+0 -1 5591
+D3
+~
+~
+0 -1 5589
+S
+#5591
+Turn in the Tunnel~
+  Veins of several metals, some precious, steak all through this tunnel. Ore lies scattered about, but all of
+the good ore has since been moved for processing. The tunnel continues to the south and west.
+~
+55 268435464 0 1 99 0
+D2
+~
+~
+0 -1 5592
+D3
+~
+~
+0 -1 5590
+S
+#5592
+Vein-Streaked Tunnel~
+  Veins of several metals, some precious, steak all through this tunnel. Ore lies scattered about, but all of
+the good ore has since been moved for processing. The tunnel continues to the south and north.
+~
+55 268435464 0 1 99 0
+D0
+~
+~
+0 -1 5591
+D2
+~
+~
+0 -1 5593
+S
+#5593
+Turn in the Tunnel~
+  Veins of several metals, some precious, steak all through this tunnel. Ore lies scattered about, but all of
+the good ore has since been moved for processing. The tunnel continues to the east and north.
+~
+55 268435464 0 1 99 0
+D0
+~
+~
+0 -1 5592
+D1
+~
+~
+0 -1 5595
+S
+#5594
+Glistening Tunnel~
+  The tunnel glistens with rich veins of gems of all colors and sizes. There are signs of recent excavation
+all around, and there are several half full mining carts still laying haphazzardly about. The only exit
+is south.
+~
+55 268435464 0 1 99 0
+D2
+~
+~
+0 -1 5596
+S
+#5595
+Vein-Streaked Tunnel~
+  Veins of several metals, some precious, steak all through this tunnel. Ore lies scattered about, but all of
+the good ore has since been moved for processing. The tunnel continues to the east and west.
+~
+55 268435464 0 1 99 0
+D1
+~
+~
+0 -1 5596
+D3
+~
+~
+0 -1 5593
+S
+#5596
+Glistening Tunnel~
+  The tunnel glistens with rich veins of gems of all colors and sizes. There are signs of recent excavation
+all around, and there are several half full mining carts still laying haphazzardly about. The tunnel leads
+north south and west.
+~
+55 268435464 0 1 99 0
+D0
+~
+~
+0 -1 5594
+D2
+~
+~
+0 -1 5597
+D3
+~
+~
+0 -1 5595
+S
+#5597
+Glistening Tunnel~
+  The tunnel glistens with rich veins of gems of all colors and sizes. There are signs of recent excavation
+all around, and there are several half full mining carts still laying haphazzardly about. The tunnel leads both
+north and south.
+~
+55 270532616 0 1 99 0
+D0
+~
+~
+0 -1 5596
+D2
+~
+~
+0 -1 5598
+S
+#5598
+Entrance to the Mines~
+The small tunnel leads down into a mineshaft, which is rather cramped. The only exit lies north.
+~
+55 270532620 0 1 99 0
+D0
+~
+~
+0 -1 5597
+D4
+~
+~
+0 -1 5539
+S
+#5599
+End of the hallway.~
+There is a pair of ornate double doors to the north, and a curtain to the east.
+To the south is a cherrywood door.
+~
+55 268435464 0 1 99 0
+S
+$~
+#999999

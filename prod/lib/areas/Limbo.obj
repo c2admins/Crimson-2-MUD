@@ -1,0 +1,1100 @@
+#0
+obj wedding ring~
+100
+a wedding ring~
+You have found someones Wedding Ring.~
+~
+11 0 0 3
+0 0 0 0
+1 0 100
+#1
+obj globe crimson imm~
+100
+&wthe j&Wew&wel&Ke&Wd &gg&bl&po&rb&we of &rCrimson Mud 2&n~
+&KThe &rCrimson Mud 2&w &gg&bl&po&rb&we &Kradiates power&n.~
+~
+8 73 64 81920
+0 0 0 0
+10000 10000000 10000000
+#2
+obj turkey leg~
+100
+a turkey leg~
+Somebody has left a leg of turkey here.~
+~
+19 0 0 1
+10 0 10 0
+1 5 5
+#3
+obj box container~
+100
+a pharmaceutical box~
+A small white pharmaceutical box is resting here.~
+~
+15 0 0 16385
+25 0 10 0
+4 5 5
+E
+box~
+It is a small white box with the label:
+Recreatioanl Pharmaceuticals.
+stamped on it.
+~
+#4
+obj boots boot bloody~
+1
+&rbloody boots&n~
+Blood-covered boots have been left here in the dirt.~
+~
+9 138412042 0 65
+20 0 0 0
+20 200000 1000000
+A
+19 3
+A
+25 1
+A
+13 -30
+A
+12 -30
+#5
+obj corpse~
+100
+corpse of the Lord of Decay~
+Corpse of the Lord of Decay.~
+~
+19 0 0 1
+8 1 10 0
+2 5 5
+#6
+obj cookie~
+100
+a fortune cookie~
+A fortune cookie is lying here.~
+~
+19 0 0 17
+10 50 50 10
+1 5 5
+#7
+obj coria blade imm~
+100
+&PC&po&Pr&pi&Pa&p'&Ps &KA&wn&Ki&wm&Ke &yB&Yl&ya&Yd&ye&n~
+&PC&po&Pr&pi&Pa&p'&Ps &KA&wn&Ki&wm&Ke &yB&Yl&ya&Yd&ye&n~
+~
+5 0 64 24577
+120 100 100 11
+1 5 5
+A
+40 15
+A
+41 15
+A
+17 -125
+A
+17 -125
+#8
+obj fluffy gorilla~
+100
+a fluffy gorilla~
+Somebody has left a cuddly fluffy gorilla here.~
+~
+13 0 0 16385
+0 0 10 0
+1 5 5
+#9
+obj cumberband red wedding~
+100
+a red cumberband~
+A large red sash is lying here in a heap.~
+~
+12 0 0 2049
+0 0 10 0
+1 5 5
+#10
+obj hat top black wedding~
+100
+a black top hat~
+A posh looking black top hat is resting here.~
+~
+12 0 0 17
+0 0 10 0
+1 5 5
+#11
+obj stick walking golden wedding~
+100
+a golden walking stick~
+A walking stick emblazened with gold is resting here.~
+~
+12 0 0 16385
+0 0 10 0
+4 5 5
+#12
+obj key donation complex~
+1
+donation room complex key~
+A key guarding discarded and neglected equipment lies here.~
+~
+18 262152 0 1
+0 1 0 0
+7 5 5
+#13
+obj tuxedo black wedding~
+100
+a black tuxedo~
+A black tuxedo has been left here.~
+~
+12 0 0 9
+0 0 10 0
+8 5 5
+#14
+obj bowtie black wedding~
+100
+a black bowtie~
+A small black bowtie is lying here.~
+~
+12 0 0 5
+0 0 10 0
+1 5 5
+#15
+obj shoes black wedding~
+100
+black shoes~
+a pair of shiny black shoes are resting here.~
+~
+12 0 0 65
+0 0 10 0
+2 5 5
+#16
+obj figurine vampire~
+100
+a small vampire figurine~
+A small figurine of a vampire is standing here.~
+~
+12 0 0 16385
+0 0 10 0
+10 5 5
+E
+vampire figurine~
+It is a small platinum figurine about 8 inches high and looks very thin
+and slender.
+~
+#17
+obj cards deck pack~
+99
+a deck of cards~
+A pack of cards has been dropped here.~
+~
+15 0 0 16385
+100 0 0 0
+1 5 5
+#18
+obj skin imitation skin~
+100
+the skin of the slayer~
+A wicked looking skin lies on the ground.~
+~
+11 0 0 1025
+1 0 10 0
+1 5 5
+E
+skin~
+On close inspection it seems to be falling apart... it's a fake skin!
+~
+#19
+obj wig sunshine hair lump~
+100
+a dodgy looking wig~
+A lump of hair is here on the ground.~
+~
+11 0 0 17
+0 0 10 0
+1 5 5
+#20
+obj lemur stuffed fluffy~
+100
+a stuffed lemur~
+A small fluffy toy is sitting here.~
+~
+8 0 0 24577
+0 0 10 0
+1 5 5
+#21
+obj jacket checkered dinner~
+100
+a checkered dinner jacket~
+Somebody has wisely left a checkered dinner jacket here in a heap.~
+~
+11 0 0 9
+0 0 10 0
+5 5 5
+E
+jacket~
+It looks awful!
+~
+A
+6 -5
+#22
+obj slightly soiled diaper~
+100
+&wslightly &ysoiled &Wdiaper&n~
+&wa slightly &ysoiled &Wdiaper&w lies here, emitting steam... you hope&n~
+~
+11 2097152 0 2049
+0 0 10 0
+1 5 5
+A
+19 3
+A
+13 2
+A
+17 -15
+A
+12 50
+#23
+obj noodle wet~
+100
+a wet noodle~
+A soggy wet noodle has been dropped here.~
+~
+5 262144 0 8193
+0 4 3 2
+1 5 5
+#24
+obj bag paper~
+100
+a paper bag~
+A paper bag is resting here on the ground.~
+~
+9 0 0 262127
+0 0 10 0
+1 5 5
+#25
+obj cap disney~
+100
+a disney cap~
+A cap with lots of disney animals on it is lying here.~
+~
+13 0 0 17
+0 0 10 0
+1 5 5
+#26
+obj cake jaffa~
+100
+a jaffa cake~
+Somebody has dropped a jaffa cake here.~
+~
+19 0 0 1
+4 0 10 0
+1 5 5
+E
+jaffa cake~
+It's a small spongy biscuit, filled with orange jelly and coated with 
+chocolate.
+~
+#27
+obj strawberry~
+100
+a strawberry~
+A luscious red strawberry is growing here.~
+~
+19 0 0 1
+3 0 10 0
+1 5 5
+#28
+obj heels stilletoes~
+100
+a pair of sexy black stilletoes~
+A pair of sexy black stilleto heels has been left here.~
+~
+11 0 0 65
+0 0 10 0
+1 5 5
+#29
+obj boots Dr Marten's~
+100
+a pair of Dr Marten's boots~
+Somebody has left a pair of black Dr Marten's boots here.~
+~
+9 0 0 65
+10 0 0 0
+7 50000 5000
+A
+19 2
+#30
+obj gag leather strip~
+100
+a leather gag~
+Somebody has dropped a strip of leather here~
+~
+13 0 0 17
+0 0 10 0
+1 5 5
+#31
+obj book xanth~
+100
+a book about Xanth~
+Somebody has dropped a thick book here.~
+~
+12 0 0 16385
+0 0 10 0
+4 5 5
+E
+book xanth~
+On the front cover is a huge emblem of the land of Xanth.  The book contains
+a complete, in depth history of the land of Xanth.
+~
+#32
+obj hat santa red~
+100
+a red and white Santa's hat~
+A big red hat has been left here in a heap.~
+~
+11 0 0 17
+0 0 10 0
+1 5 5
+#33
+obj boots santa red~
+100
+a pair of bright red boots~
+A pair of bright red boots have been neatly placed here.~
+~
+11 0 0 65
+0 0 10 0
+1 5 5
+#34
+obj flesh demonic~
+100
+a chunk of demonic flesh~
+A grotesque chunk of demonic flesh is lying here, pulsating slowly.~
+~
+19 0 0 1
+3 10 10 0
+1 5 5
+#35
+obj santa hat~
+100
+Santa's hat~
+A bright red hat has been neatly placed here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#36
+obj boot santa~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#37
+obj coat santa~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#38
+obj pants santa~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#39
+obj sack santa~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#40
+obj glasses 3-d movie~
+100
+a pair of 3-d glasses~
+A pair of 3-d glasses is lying here.~
+~
+11 0 0 17
+0 0 10 0
+1 5 5
+#41
+obj santa glove~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#42
+obj seat santa~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#43
+obj runner santa~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#44
+obj reigns santa~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#45
+obj santa sledge~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#46
+obj nose red santa~
+100
+Rudolf's red nose~
+Rudolf's red nose is lying here on the ground.~
+~
+11 0 0 17
+0 0 10 0
+1 5 5
+#47
+obj map santa~
+100
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 10 0
+1 5 5
+#48
+obj popcorn~
+100
+a box of popcorn~
+somebody has left some popcorn here.~
+~
+19 0 0 1
+10 0 0 0
+1 5 5
+#49
+obj tree kinetic walnut~
+1
+Kinetic's walnut tree~
+A tree full of huge walnuts is standing here.~
+~
+25 8 0 0
+200 0 0 0
+1 5 5
+E
+tree walnut~
+You peek at the huge tree full of delicious walnuts, if you would
+ask gently maybe Kinetic will give you one.
+~
+#50
+obj cyanide pill suicide~
+100
+&pcyanide &cpill&n~
+A pill which can make all the pain go away is lying in the dust.~
+~
+19 0 0 16385
+25 25 5 25
+1 5 5
+#51
+obj finger bloody~
+20
+A bloody finger~
+A finger covered in blood is pointing at you.~
+~
+5 138412032 0 8193
+1 1 1 1
+1 5 25000000
+A
+13 -120
+A
+13 -120
+A
+13 -120
+A
+13 -120
+#52
+obj nipple ring~
+1
+a nipple ring~
+A ring for one of your nipples is lying here.~
+~
+9 0 0 9
+15 0 0 0
+1 400000 70000
+#53
+obj staff ihl'varian~
+5
+an Ihl'Varian Staff~
+An Ihl'Varian staff is lying here~
+~
+4 3 0 16385
+0 0 0 0
+1 5 100000000
+#54
+obj girdle chastity~
+1
+&ya girdle of &wChastity&n~
+A modest girdle has been left here.~
+~
+9 138412032 0 2049
+30 0 0 0
+1 100000 50000
+A
+19 3
+A
+6 2
+A
+12 10
+#55
+obj tooth beast bloody~
+1
+&wthe &Wtooth &wof the &Rb&reas&Rt&n~
+A pretty sharp tooth has been left here on the ground.~
+~
+5 138412032 0 24577
+1024 5 7 11
+1 123200 46000
+A
+19 2
+A
+18 2
+#56
+obj gauntlets grudge beast~
+2
+&Kthe &wgauntlets &Kof &ygrudge&n~
+Some gauntlets are lying here, emitting a feeling of grudge.~
+~
+9 4194304 0 129
+25 0 0 0
+1 270000 70000
+A
+19 4
+A
+13 -10
+A
+12 -20
+#57
+obj note zero~
+1
+A quest note~
+A note with a number written on it lies here.~
+~
+16 134217728 0 16385
+0 0 10 0
+1 5 5
+E
+note~
+A note with the number 0 written on it.
+~
+#58
+obj note one~
+1
+obj note one~
+1
+A quest note~
+A note with a number written on it lies here.~
+5 5 5 5
+5 5 5 5
+5 5 5
+#59
+obj note two~
+1
+obj note two~
+1
+A quest note~
+A note with a number written on it lies here.~
+5 5 5 5
+5 5 5 5
+5 5 5
+#60
+obj egg easter green~
+100
+&Geaster egg&n~
+An &Geaster egg&n lies here rotting and smelling bad.~
+A green easter egg is here.~
+13 134217733 5 1
+5 5 5 5
+5 5 5
+#61
+obj egg easter red~
+100
+&Reaster egg&n~
+An &Reaster egg&n lies here rotting and smelling bad.~
+~
+13 134217728 0 1
+1 0 0 0
+1 5 5
+#62
+obj egg easter blue~
+100
+&Beaster egg&n~
+An &Beaster egg&n lies here rotting and smelling bad.~
+~
+13 134217728 0 1
+1 0 0 0
+1 5 5
+#63
+obj egg easter yellow~
+100
+&Yeaster egg&n~
+An &Yeaster egg&n lies here rotting and smelling bad.~
+~
+13 134217728 0 16385
+1 0 0 0
+1 5 5
+#64
+obj egg easter purple~
+100
+&peaster egg&n~
+An &peaster egg&n lies here rotting and smelling bad.~
+~
+13 134217728 0 1
+1 0 0 0
+1 5 5
+#65
+obj egg easter orange~
+100
+&yeaster egg&n~
+An &yeaster egg&n lies here rotting and smelling bad.~
+~
+13 134217728 0 1
+1 0 0 0
+1 5 5
+#66
+obj egg easter pink~
+100
+&Peaster egg&n~
+An &Peaster egg&n lies here rotting and smelling bad.~
+~
+13 134217728 0 1
+1 0 0 0
+1 5 5
+#67
+obj technicolor dream coat~
+100
+&ca &Ktechni&Rc&Co&Gl&Bo&Yu&Pr&n &cdream coat&n~
+Phoebe's technicolour dream coat has been left here.~
+~
+9 0 0 1033
+0 0 0 0
+1 5 5
+#68
+obj note three~
+1
+A quest note~
+A note with a number written on it lies here.~
+~
+16 134217728 0 16385
+0 0 10 0
+1 5 5
+E
+note~
+A note with the number 3 written on it.
+~
+#69
+obj note four~
+1
+obj note four~
+1
+A quest note~
+A note with a number written on it lies here.~
+5 5 5 5
+5 5 5 5
+5 5 5
+#70
+obj note five~
+1
+obj note five~
+1
+A quest note~
+A note with a number written on it lies here.~
+5 5 5 5
+5 5 5 5
+5 5 5
+#71
+obj note six~
+1
+obj note six~
+1
+A quest note~
+A note with a number written on it lies here.~
+5 5 5 5
+5 5 5 5
+5 5 5
+#72
+obj note seven~
+1
+obj note seven~
+1
+A quest note~
+A note with a number written on it lies here.~
+5 5 5 5
+5 5 5 5
+5 5 5
+#73
+obj note eight~
+1
+obj note eight~
+1
+A quest note~
+A note with a number written on it lies here.~
+5 5 5 5
+5 5 5 5
+5 5 5
+#74
+obj note nine~
+1
+obj note nine~
+1
+A quest note~
+A note with a number written on it lies here.~
+5 5 5 5
+5 5 5 5
+5 5 5
+#75
+obj astral dragonscale gauntlets~
+1
+&WA&ws&Ktr&wa&Wl &KD&wr&Wag&wo&Kn&Gs&gcal&Ge &KG&wau&Kntl&we&Kts&n~
+A pair of gauntlets lie here, phasing between planes of existance.~
+A delicious walnut lies here, tempting to be eaten.~
+9 222301477 4 129
+25 0 0 0
+5 80000 450000
+A
+19 4
+A
+18 1
+A
+12 15
+A
+13 -30
+#76
+obj belly button ring~
+1
+&Ga &Yb&yell&Yy &yb&Yutto&yn &Gr&gin&Gg&n~
+A small ring is lying here, it appears to be for the belly.~
+~
+8 0 0 2049
+0 0 10 0
+1 5 5
+#77
+obj white thong~
+1
+a &Ww&whit&We&n thong~
+A tight, white, thong tha thong thong thong is lying here.~
+~
+8 0 0 2049
+0 0 10 0
+1 5 5
+#78
+obj Gerbil's Tooth~
+2
+&CGer&cbi&Cl's &WT&woo&Wth&n~
+A jagged mammal tooth rests here.~
+~
+5 134479937 1024 24577
+3080 12 10 11
+1 5 5
+A
+40 2
+A
+41 2
+#79
+obj quest1 plagued essence~
+99
+&KE&wssenc&Ke &Kof the &GP&gl&wag&gu&Ge&n~
+Something lies here permeating disease.~
+~
+1 138674260 1024 65537
+0 0 0 0
+5 100000000 5
+A
+19 5
+A
+18 5
+A
+25 2
+A
+41 3
+#80
+obj hatred belt quest1~
+99
+&KH&watre&Kd &yBelt&n~
+A belt lies here permeating the room with Darkness.~
+~
+9 138674260 0 2049
+50 0 0 0
+2 100000000 5
+A
+13 100
+A
+18 4
+A
+19 6
+A
+37 -1
+#81
+obj ring bloody beast~
+1
+&Rb&rlood&Ry &Rr&rin&Rg &Kof the &Rb&reas&Rt&n~
+A ring covered with dried up blood has been left here.~
+~
+9 138412544 0 3
+25 0 0 0
+1 400000 45000
+E
+ring~
+Power fills you as you don the ring.
+~
+A
+19 3
+A
+18 3
+A
+12 25
+A
+24 -3
+#82
+obj ring dutch~
+4
+The Dutch ring~
+The Dutch ring is lying here.~
+~
+18 134217728 0 3
+0 0 10 0
+1 5 5
+#83
+obj halo golden~
+100
+a golden halo~
+A heavenly circle shines on the ground.~
+~
+1 138413056 0 65553
+0 0 10 0
+1 5 5
+A
+6 1
+#84
+obj Magneto's helmet object~
+1
+&rM&wagneto'&rs &rH&welme&rt&n~
+&wA helmet rests on the ground.&n~
+~
+9 0 0 17
+0 0 0 0
+1 5 5
+A
+40 20
+A
+41 20
+A
+36 -1
+#85
+obj quest1 cat little black~
+100
+&wa little &Kblack &wcat&n~
+You see a little black cat sitting on the ground.~
+~
+9 134479872 0 17
+0 0 0 0
+3 20 504
+A
+25 1
+A
+41 1
+A
+18 5
+#86
+obj cloak shadows~
+1
+&KThe C&wlo&cak of S&wha&Kdows&n~
+A large black cloak lies here.~
+~
+9 138465280 406656 5
+20 0 10 0
+5 40000 400000
+A
+19 3
+A
+41 1
+A
+18 1
+A
+12 -15
+#87
+obj skin goat horns~
+1
+A goat horns skin~
+A skin made of goat horns has been left here.~
+~
+9 0 0 1033
+0 0 0 0
+1 5 5
+#88
+obj pizza pepperoni~
+100
+A hot slice of pepperoni pizza~
+A hot slice of pepperoni pizza is laying here, steaming.~
+~
+19 0 0 24577
+700 0 0 0
+1 5 5
+#89
+obj roses box rose~
+100
+A box with beautiful red roses~
+A box with the finest red roses lies here.~
+~
+12 0 0 1
+0 0 10 0
+1 5 5
+#90
+obj pin kiss lilly~
+25
+A pin that says 'Kiss me, I'm Lilly!'~
+A pin stares at you and says 'Kiss me, I'm Lilly!'~
+~
+5 135266304 0 8193
+0 2 4 11
+1 5 5
+A
+6 -1
+#91
+obj boots black leather go~
+100
+Black Leather Go-Go Boots~
+A pair of Black Leather boots are trying to Go-Go somewhere.~
+~
+9 138412032 0 65
+0 0 10 0
+4 60 20
+#92
+obj shirt t-shirt patriot~
+100
+a patriot t-shirt~
+A patriot t-shirt has been left here, crumpled on the ground.~
+~
+9 0 0 9
+0 0 10 0
+1 5 5
+#93
+obj dress beautiful~
+100
+A beautiful dress~
+A beautiful dress lies here, only to be worn on special nights.~
+~
+12 0 0 9
+0 0 10 0
+1 5 5
+#94
+obj apple green~
+100
+an apple~
+A jummy green apple lies here.~
+~
+19 0 0 1
+100 0 0 0
+1 0 5
+#95
+obj bouqet red roses million~
+100
+a bouqet of a million &rred roses&n~
+Millions of red roses lie here.~
+~
+12 0 0 16385
+0 0 10 0
+1 5 5
+#96
+obj phantasm cloak neck~
+1
+Phantasm Cloak~
+A cloak lies here, it resembles a floating soul.~
+~
+9 4194308 0 5
+5 0 0 0
+5 250000 50000
+A
+19 3
+A
+13 20
+A
+12 10
+#97
+obj scaled belt~
+1
+&wA Sc&Wa&wl&We&wd &KB&we&Klt&n~
+A belt made from a dragons scales lies here.~
+~
+11 138412064 0 2049
+0 0 0 0
+10 5000000 5
+A
+40 1
+A
+19 2
+A
+18 4
+A
+12 -25
+#98
+obj platinum gold wedding ring~
+100
+A platinum and gold wedding ring~
+A platinum and gold wedding ring.~
+~
+11 0 0 3
+0 0 10 0
+1 5 5
+E
+ring platinum gold~
+With love forever and always.
+~
+A
+18 2
+A
+13 20
+A
+19 2
+A
+17 20
+#99
+obj thieves gloves~
+1
+&wA Pa&yir of &KThievin&yg Glo&wves&n~
+A pair of lightweight gloves lies here.~
+~
+11 222351424 406656 129
+1 0 0 0
+2 200000 1000000
+A
+19 4
+A
+18 1
+A
+17 -20
+$~
+#999999

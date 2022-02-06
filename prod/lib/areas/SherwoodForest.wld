@@ -1,0 +1,769 @@
+#6025
+The entrance to the haunted Sherwood Forest~
+Ancient Legend has it that Sherwood Forest is a vast forest haunted
+and occupied by outcasts of the City of Nottingham.  Most of the 
+people in this here forest have great bounties upon their heads
+and live in this forest due to that fact.
+~
+42 8 0 1 99 1
+D0
+~
+~
+0 -1 6027
+D1
+~
+~
+0 -1 6028
+D2
+~
+~
+0 -1 6026
+D3
+twist your way back out of the trees
+~
+~
+48 -1 6107
+S
+#6026
+Thieves Path~
+This is a path where all the notorious thieves hang out.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6025
+D2
+~
+~
+0 -1 6030
+S
+#6027
+A dimly lit path ~
+You are strolling down a path of dense forestry which makes
+it hard for you to see where you are going.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6033
+D2
+~
+~
+0 -1 6025
+S
+#6028
+The Great Tree of Sherwood~
+This is the biggest tree in the entire forest.  Rumor has it
+that this ole tree is haunted and that people live inside of it.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+0 -1 6031
+D3
+~
+~
+0 -1 6025
+D4
+~
+~
+0 -1 6029
+S
+#6029
+Home of John Little~
+This is where the great John Little lays his head at night.
+He invites you into his Home for a small tax.
+~
+42 536870920 536870912 1 99 1
+D5
+~
+~
+0 -1 6028
+S
+#6030
+Thieves Path~
+From here you can see another quite large tree.  It is rumored 
+that this is the tree in which Robin Hood lives.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6026
+D1
+~
+~
+0 -1 6038
+D2
+~
+~
+0 -1 6037
+S
+#6031
+In the Forest~
+From here all you can see is alot of trees.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6032
+D3
+~
+~
+0 -1 6028
+S
+#6032
+Deeper in the forest~
+As you walk through this gentle forest, your vision gets more and
+more clouded by the density of the trees.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+0 -1 6042
+D2
+~
+~
+0 -1 6031
+S
+#6033
+Sherwood gathering point~
+This is where everyone gathers whether it is to party
+or to attend church.  As you look to the West, you see
+the temple.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6036
+D1
+~
+~
+0 -1 6035
+D2
+~
+~
+0 -1 6027
+D3
+2
+~
+~
+0 -1 6034
+S
+#6034
+Sherwood Temple~
+Here you see many old pictures of Christ and
+a ratchety looking old stairwell that peaks your
+interest.
+~
+42 8 0 1 99 1
+D1
+~
+~
+0 -1 6033
+D4
+~
+~
+0 -1 6046
+S
+#6035
+Armoury of Sherwood Forest~
+Welcome to the Armoury of Sherwood Forest.
+David the Armourer is at your service.
+~
+42 8 0 1 99 1
+D3
+~
+~
+0 -1 6033
+S
+#6036
+A dimly lit path~
+This path seems to get more and more difficult to see
+as you walk further and further down it.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6056
+D2
+~
+~
+0 -1 6033
+S
+#6037
+Thieves path~
+The path is surrounded by trees of all sizes, but
+further down one tree stands out.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6030
+D2
+~
+~
+0 -1 6039
+S
+#6038
+Locksley Road~
+Along this road you see nothing but rocks and sticks.
+Somewhere around here is the grave of King Locksley.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+0 -1 6050
+D3
+~
+~
+0 -1 6030
+S
+#6039
+End of Thieves path~
+This is the end of the Thieves path.  Looking South you
+see the Great Tree of Sherwood where Robin Hood resides.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6037
+D2
+~
+~
+0 -1 6040
+S
+#6040
+The legendary Tree of Sherwood~
+This is the tree where the legendary Robin Hood resides.  
+Find your way to him and you'll see alot of treasure.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6039
+D4
+~
+~
+16 -1 6041
+S
+#6041
+Robin Hood's gentle landing~
+This is where Robin Hood lays to rest.  Looking around the room
+all you see is alot of treasure and gold.  You think to yourself
+about how much this is all worth, and wish you could take some
+with you.
+~
+42 805306376 0 1 99 1
+D5
+~
+~
+0 -1 6040
+S
+#6042
+A dimly lit clearing in the forest~
+You see an opening in the forest here and you listen to the
+beautiful sounds of birds singing and children playing by
+the stream.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6042
+D1
+~
+~
+0 -1 6043
+D2
+~
+~
+0 -1 6042
+D3
+~
+~
+0 -1 6032
+S
+#6043
+Along the stream~
+You see a gentle stream flowing here with trout jumping
+in and out of the crystal clear water.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6045
+D2
+~
+~
+0 -1 6044
+D3
+~
+~
+0 -1 6042
+S
+#6044
+Along the stream~
+Here you see a gentlman fishing for trout.
+~
+42 268435464 0 1 99 1
+D0
+2@
+~
+~
+0 -1 6043
+D2
+~
+~
+0 -1 6047
+S
+#6045
+Along the stream~
+Walking along the stream you see the beautiful waters and 
+alot of twigs and roots coming from the ground upon which
+you walk.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6051
+D2
+~
+~
+0 -1 6043
+S
+#6046
+Priest's quarters~
+This is the room where the High Priest of Sherwood resides
+after his daily going to town and getting drunk.
+~
+42 8 0 1 99 1
+D5
+~
+~
+0 -1 6034
+S
+#6047
+A sharp twist in the road~
+You have reached what looks like the end of the stream.  Fish are swimming
+all through the waters.  To the West you see Locksley Road, such a 
+pleasant sight.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6044
+D3
+~
+~
+0 -1 6048
+S
+#6048
+Locksley Road~
+Nearing the end of Locksley Road you hear a gentle
+sound of water flowing, as if a stream is nearby.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6071
+D1
+~
+~
+0 -1 6047
+D3
+~
+~
+0 -1 6049
+S
+#6049
+Locksley Road~
+Locksley Road has been believed to be the finest road in all
+of Sherwood. It is where most people come just to have a good time.
+There is a bar on Locksley Road and a place to lay your head for a 
+small fee per night.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6058
+D1
+~
+~
+0 -1 6048
+D2
+~
+~
+0 -1 6059
+D3
+2
+~
+~
+0 -1 6050
+S
+#6050
+Locksley Road~
+Walking further down this road you see what looks to be a 
+graveyard to the South.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+0 -1 6049
+D2
+~
+~
+0 -1 6057
+D3
+~
+~
+0 -1 6038
+S
+#6051
+A turning point~
+At this turning point in the path you see a magnificent
+waterfall.
+~
+42 268435464 0 1 99 1
+D2
+~
+~
+0 -1 6045
+D3
+~
+~
+0 -1 6052
+S
+#6052
+The end of the dusty road~
+You breath a big sigh of relief when you realize you have made it out
+of the big sandstorm.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+0 -1 6051
+D3
+~
+~
+0 -1 6053
+S
+#6053
+A dusty road in the forest~
+You get more and more scared as you realize you still can't see
+anything, wondering to yourself if you will survive to see 
+anything again.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+16 -1 6052
+D3
+~
+~
+16 -1 6054
+S
+#6054
+A dusty road in the forest~
+As you continue walking down the road, you feel a very strong wind
+making it impossible for you to see where you are going, as the
+dust is blowing in your eyes.  You are about to shriek in terror 
+because you feel that you are lost.  You know the great Sorcerer's
+home is neaby but cannot see anything through the thick cloud of 
+dust.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+16 -1 6057
+D1
+~
+~
+16 -1 6053
+D3
+~
+~
+16 -1 6055
+S
+#6055
+A dusty road in the forest~
+This road is covered in dust, but fairly easy to walk
+down expect when the wind blows and it gets extremely
+hard to see where you are going.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+0 -1 6054
+D3
+~
+~
+0 -1 6056
+S
+#6056
+A turn in the path~
+As you walk down this path, you see that it turns
+towards the East onto a rather dusty road.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+0 -1 6055
+D2
+~
+~
+0 -1 6036
+S
+#6057
+House of the Sorcerer of Sherwood~
+This is the home of probably the greatest sorcerer of all
+Sherwood and Nottingham.  Looking around the room, you see 
+dusty old pictures and ragged old spell books.
+~
+42 268435464 0 1 99 1
+D2
+s
+~
+~
+0 -1 6054
+S
+#6058
+Sherwood Tavern~
+As you enter into this tavern, you feel a warm welcome.
+The bartender smiles and asks "What will it be friend?"
+~
+42 8 0 1 99 1
+D2
+~
+~
+0 -1 6049
+S
+#6059
+Before the gates of the great Cemetary of Sherwood~
+Standing here you see a giant gate made of some of the 
+blackest iron you have ever seen.  Two huge guards stand
+in front of the gate.
+~
+42 8 0 1 99 1
+D0
+~
+~
+0 -1 6049
+D2
+~
+cemetary~
+15 6035 6060
+S
+#6060
+Inside the gates of the great Cemetary of Sherwood~
+Inside these gates you get a strange feeling throughout your body
+as if you thought you were about to die and be buried here.  However,
+you know only one person has been buried here, and a great treasure
+has been buried with him.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+13 0 6059
+D1
+~
+~
+0 -1 6063
+D3
+~
+~
+0 -1 6061
+S
+#6061
+In the cemetary~
+Although you feel as if you should not be here, you keep walking
+in search of King Locksley's grave.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+0 -1 6060
+D3
+~
+~
+0 -1 6062
+S
+#6062
+King Locksley's grave~
+At last you have found the King's grave.  However, you are not happy
+with what you found as the guards do not like your presence here.
+~
+42 805306376 0 1 99 1
+D1
+~
+~
+0 -1 6061
+S
+#6063
+In the cemetary~
+Although you feel as if you should not be here, you keep walking
+in search of King Locksley's grave.
+~
+42 268435464 0 1 99 1
+D2
+~
+~
+0 -1 6064
+D3
+~
+~
+0 -1 6060
+S
+#6064
+In the cemetary~
+While looking for the King's treasure, you find many different
+ways in which you could travel.  None may be the right way
+though.
+~
+42 268435464 0 1 99 1
+D0
+~
+~
+0 -1 6063
+D1
+It looks like a bottomless pit... your nerves tingle, probably should back off.
+~
+~
+0 -1 6069
+D2
+~
+~
+0 -1 6070
+D3
+It looks like a bottomless pit... your nerves tingle, probably should back off.
+~
+~
+0 -1 6065
+D5
+It looks like a bottomless pit... your nerves tingle, probably should back off.
+~
+~
+0 -1 6068
+S
+#6065
+The door to the great treasure room of Sherwood Cemetary~
+Finally you have found the door to the great treasure room of
+Sherwood Cemetary.  Now you worry only if you have the proper
+key.
+~
+42 268435464 0 1 99 1
+D1
+~
+~
+0 -1 6064
+D5
+~
+door~
+15 6037 6066
+S
+#6066
+The great Treasure room of Sherwood Cemetary~
+Congratulations!!!! The treasure is now yours.
+~
+42 268435464 0 1 99 1
+D4
+~
+~
+1 0 6065
+S
+#6067
+The bottomless grave in the cemetary~
+As you make your turn through the cemetary you realize you shouldnt have turned this way. You
+find yourself falling in an endless grave knowing the only thing left in life is DEATH!!!!!!!!!
+~
+42 14 0 1 99 1
+S
+#6068
+The bottomless grave in the cemetary~
+As you make your turn through the cemetary you realize you shouldnt have turned this way. You
+find yourself falling in an endless grave knowing the only thing left in life is DEATH!!!!!!!!!
+~
+42 14 0 1 99 1
+S
+#6069
+The bottomless grave in the cemetary~
+As you make your turn through the cemetary you realize you shouldnt have turned this way. You
+find yourself falling in an endless grave knowing the only thing left in life is DEATH!!!!!!!!!
+~
+42 14 0 1 99 1
+S
+#6070
+The bottomless grave in the cemetary~
+As you make your turn through the cemetary you realize you shouldnt have turned this way. You
+find yourself falling in an endless grave knowing the only thing left in life is DEATH!!!!!!!!!
+~
+42 14 0 1 99 1
+S
+#6071
+Sherwood Inn~
+As you enter these doors, you are greated by the Innkeeper
+with a big, warm, down home smile on his face.  Looking
+around, you see some nice, comfortable looking beds and
+wonder how much it would cost to stay in this nice inn
+for a night.
+~
+42 8 0 1 99 1
+D2
+s
+~
+~
+0 -1 6048
+S
+#6072
+The Beginning~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+42 8 0 1 99 1
+S
+#6073
+The Beginning~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+42 8 0 1 99 1
+S
+#6074
+The Beginning~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+42 8 0 1 99 1
+S
+$~
+#999999

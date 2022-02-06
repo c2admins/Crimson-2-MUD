@@ -1,0 +1,1796 @@
+#7300
+&yA Small Dock&n~
+&c A safe passage through the rocks leads up to a curious &ysmall dock&c. No signs of civilization
+can be seen in any direction, but a small path leads away from the dock and up a &wlarge mountain&c 
+to the north. Perhaps the inhabitants that built this landing live in a network of &Kcaves&c in the
+&wmountain&c.&n
+~
+55 131073 0 1 99 3
+D0
+Base of the mountain.
+~
+~
+0 -1 7301
+D2
+Back to the ocean.
+~
+~
+0 -1 12879
+S
+#7301
+&wBase of the Mountain&n~
+  &yStanding at the bottom of a very faint path that winds up the &wmountain&y, you look up and 
+marvel at the size of the great mound. The path leads steeply up, and you hope that the climb 
+won't be too taxing.&n
+~
+55 1 0 1 99 4
+D2
+Approaching the mountain.
+~
+~
+0 -1 7300
+D4
+On the mountain
+~
+~
+0 -1 7302
+S
+#7302
+&wHalfway up the Mountain&n~
+&yYou are on the path halfway up the &wmountain&y. You can see the top somewhere above you. Looking 
+down you see how high you are and nearly slip as a result. You think better and decide to stop 
+looking down.&n
+~
+55 1 0 1 99 5
+D4
+Top of the mountain
+~
+~
+0 -1 7303
+D5
+Base of the mountain
+~
+~
+0 -1 7301
+S
+#7303
+&wTop of the Mountain&n~
+  &yStanding that the top of the &wmountain&y, you marvel at the view of the &Bocean&y around
+you. To the north lies a faint path, leading to a large platform sticking out of the &mountains&y
+side, which is used would normally be used for climbing, but seems to be disabled do to a broken
+pulley system.&n
+~
+55 1 0 1 99 5
+D0
+The overlook
+~
+~
+0 -1 7304
+D5
+Halfway up the mountain
+~
+~
+0 -1 7302
+S
+#7304
+&wThe Overlook&n~
+&y  The large platform extends over the edge of the mountain. Looking down you can see a long 
+ravine winding down into a canyon, which appears to be split into four different parts.&n
+~
+55 1 0 1 99 5
+D2
+Top of the mountain
+~
+~
+0 -1 7303
+D5
+The ravine
+~
+~
+0 -1 7305
+S
+#7305
+&yA Long Winding Ravine&n~
+&y  The sheer angle of the ravine makes it difficult, but not overly dangerous to traverse. 
+Looking up you can see a platform on an overlook, and down lies a canyon floor.&n
+~
+55 1 0 1 99 5
+D4
+The overlook
+~
+~
+0 -1 7304
+D5
+The canyon floor
+~
+~
+0 -1 7306
+S
+#7306
+&yCanyon Floor&n~
+&y  The cold, rocky canyon floor is smooth to the touch, as is formed by powerful magics long
+forgotten. Looking around, there are four arches with swirling patterns of magic, apparently
+some form of permanent portal. To the north lies an arch made of &Kearth&y, an arch of &Bwater&y to the 
+south, &Wair&y to the east, and an arch of &rf&Yi&rre&y to the west. The only other thing of 
+interest is a winding trail that leads up a ravine to the top of the mountain.&n
+~
+55 5 0 1 99 4
+D0
+Into the earth
+~
+~
+0 -1 7317
+D1
+Floating on the air
+~
+~
+0 -1 7336
+D2
+The ocean
+~
+~
+0 -1 7356
+D3
+In the fire
+~
+~
+0 -1 7377
+D4
+The ravine
+~
+~
+0 -1 7305
+D5
+A black passage
+~
+passage~
+27 0 7307
+S
+#7307
+&KA Black Passage&n~
+&K You are standing in a black passage, all around you is the element that is known but not 
+understood, ether. Although you cannot understand it you can sense it's great power.&n
+~
+55 268435457 0 1 99 0
+D0
+A black passage
+~
+door~
+3 7301 7308
+S
+#7308
+&KA Black Passage&n~
+&K You are standing in a black passage, all around you is the element that is known but not 
+understood, ether. Although you cannot understand it you can sense it's great power.&n
+~
+55 1879048193 536870912 1 99 0
+D0
+A black passage
+~
+~
+0 -1 7309
+S
+#7309
+&KA Black Passage&n~
+&K You are standing in a black passage, all around you is the element that is known but not 
+understood, ether. Although you cannot understand it you can sense it's great power.&n
+~
+55 1879048193 536870912 1 99 0
+D1
+A black passage
+~
+~
+0 -1 7310
+D2
+A black passage
+~
+~
+0 -1 7308
+D3
+A black passage
+~
+~
+0 -1 7316
+S
+#7310
+&KA Black Passage&n~
+&K You are standing in a black passage, all around you is the element that is known but not 
+understood, ether. Although you cannot understand it you can sense it's great power.&n
+~
+55 1879048193 536870912 1 99 0
+D0
+A black passage
+~
+~
+0 -1 7311
+D3
+A black passage
+~
+~
+0 -1 7309
+S
+#7311
+&KA Black Passage&n~
+&K You are standing in a black passage, all around you is the element that is known but not 
+understood, ether. Although you cannot understand it you can sense it's great power.&n
+~
+55 1879048193 536870912 1 99 0
+D2
+A black passage
+~
+~
+0 -1 7310
+D3
+A black passage
+~
+~
+0 -1 7312
+S
+#7312
+&KA Black Passage&n~
+&K You are standing in a black passage, all around you is the element that is known but not 
+understood, ether. Although you cannot understand it you can sense it's great power.&n
+~
+55 1342177281 536870912 1 99 0
+D0
+A black passage
+~
+door~
+3 7302 7313
+D1
+A black passage
+~
+~
+0 -1 7311
+D3
+A black passage
+~
+~
+0 -1 7315
+S
+#7313
+&KA Black Passage&n~
+&K You are standing in a black passage, all around you is the element that is known but not 
+understood, ether. Although you cannot understand it you can sense it's great power.&n
+~
+55 1879048193 536870912 1 99 0
+D0
+The Shrine of Ether
+~
+door~
+3 7303 7314
+D2
+A black passage
+~
+~
+0 -1 7312
+S
+#7314
+&KThe Shrine of Ether&n~
+&K You are standing in a room much like the passage's you entered through. Surrounding you is the 
+element ether, but what catches you eye is the massive altar in the centre of this room, made
+out of pure ether. The power that radiates from it causes your head to erupt into agony.&n
+~
+55 1879050241 536870912 1 99 0
+D2
+A black passage
+~
+~
+0 -1 7313
+D3
+The Heart of Ether
+~
+~
+0 -1 7399
+S
+#7315
+&KA Black Passage&n~
+&K You are standing in a black passage, all around you is the element that is known but not 
+understood, ether. Although you cannot understand it you can sense it's great power.&n
+~
+55 1879048193 536870912 1 99 0
+D1
+A black passage
+~
+~
+0 -1 7312
+D2
+A black passage
+~
+~
+0 -1 7316
+S
+#7316
+&KA Black Passage&n~
+&K You are standing in a black passage, all around you is the element that is known but not 
+understood, ether. Although you cannot understand it you can sense it's great power.&n
+~
+55 1879048193 536870912 1 99 0
+D0
+A black passage
+~
+~
+0 -1 7315
+D1
+A black passage
+~
+~
+0 -1 7309
+S
+#7317
+&yInto the Earth&n~
+&K You arrive through the portal into a cave that leads in one direction only, further into the 
+earth. The smell of fresh dirt is overwhelming.&n
+~
+55 1879048201 0 1 99 0
+D0
+Deeper into the earth
+~
+~
+0 -1 7318
+S
+#7318
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D1
+Deeper into the earth
+~
+~
+0 -1 7319
+D2
+The entrance to the earth
+~
+~
+0 -1 7317
+D3
+Deeper into the earth
+~
+~
+0 -1 7332
+S
+#7319
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D0
+Deeper into the earth
+~
+~
+0 -1 7320
+D3
+Deeper into the earth
+~
+~
+0 -1 7318
+S
+#7320
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D1
+Deeper into the earth
+~
+~
+0 -1 7321
+D2
+Deeper into the earth
+~
+~
+0 -1 7319
+S
+#7321
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D0
+Deeper into the earth
+~
+~
+0 -1 7322
+D3
+Deeper into the earth
+~
+~
+0 -1 7320
+S
+#7322
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D2
+Deeper into the earth
+~
+~
+0 -1 7321
+D5
+Deeper into the earth
+~
+~
+0 -1 7323
+S
+#7323
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D3
+Deeper into the earth
+~
+~
+0 -1 7324
+D4
+Deeper into the earth
+~
+~
+0 -1 7322
+S
+#7324
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D0
+The guardian's chamber
+~
+~
+0 -1 7325
+D1
+~
+~
+0 -1 7323
+D2
+~
+secret treasury~
+29 7300 7326
+D3
+~
+~
+0 -1 7328
+S
+#7325
+&yThe Guardian's Chamber&n~
+&K You have entered the chamber of the guardian of the earth, a huge elemental made up dirt and 
+rocks. The room you entered is deep in the heart of the earth, with the stone walls seemingly 
+closing in around you.&n
+~
+55 268435465 0 1 99 0
+D0
+Essence of the earth
+~
+~
+0 -1 7333
+D2
+~
+~
+0 -1 7324
+S
+#7326
+&yTreasury&n~
+&K You have entered the treasury of earth. Many racks line the walls with weapons and armour, 
+whilst long tables hold potions, scrolls and other magic items. Large earthen pots hold huge
+sums of money in each corner.&n
+~
+55 1879048201 0 1 99 0
+D0
+Deeper in the earth
+~
+~
+0 -1 7324
+D2
+~
+~
+16 -1 7327
+S
+#7327
+&yShrine of the Earth&n~
+&K A large altar sits in the exact centre of the room. Much earth is scattered around and about
+the shrine, and the bones of many adventurer's, people like yourself line the floor of the room, 
+the remains of those who attempted to loot the shrine.&n
+~
+55 1879048201 0 1 99 0
+D0
+Treasury
+~
+~
+0 -1 7326
+S
+#7328
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D1
+Deeper into the earth
+~
+~
+0 -1 7324
+D4
+Deeper into the earth
+~
+~
+0 -1 7329
+S
+#7329
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D2
+Deeper into the earth
+~
+~
+0 -1 7330
+D5
+Deeper into the earth
+~
+~
+0 -1 7328
+S
+#7330
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D0
+Deeper into the earth
+~
+~
+0 -1 7329
+D1
+Deeper into the earth
+~
+~
+0 -1 7331
+S
+#7331
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D2
+Deeper into the earth
+~
+~
+0 -1 7332
+D3
+Deeper into the earth
+~
+~
+0 -1 7330
+S
+#7332
+&yDeeper in the Earth&n~
+  &KTraversing deeper into the earth, heading ever downward, the walls seem to close in upon
+you, causing feelings of panic and fear.&n
+~
+55 1879048201 0 1 99 0
+D0
+Deeper into the earth
+~
+~
+0 -1 7331
+D1
+Deeper into the earth
+~
+~
+0 -1 7318
+S
+#7333
+&yEssense Of the Earth&n~
+&K You have entered the essence of the earth, the magical driving force behind the power of the 
+land. A magical force seems to flow through the room, leaving new earth as it passes. This force 
+would appear to originate from a hole leading down.&n
+~
+55 268435465 0 1 99 0
+D2
+The guardian's chamber
+~
+~
+0 -1 7325
+D4
+The portal
+~
+~
+0 -1 7335
+D5
+The heart of the earth
+~
+~
+0 -1 7334
+S
+#7334
+&yThe Heart of the Earth&n~
+&K The room seems to pulse with it's own life force, seeping through cracks in the earth and 
+filling these cracks with new earth as it passes. This is the driving power behind the land and 
+you feel that your presence has caused a disturbance.&n
+~
+55 268435465 0 1 99 0
+D4
+Essence of the earth
+~
+~
+0 -1 7333
+S
+#7335
+&yThe Portal&n~
+&K A shimmering portal stands to the north of this small stone cavern. Looking through the 
+portal, you can see what appears to be a canyon floor. The only other exit of the room lies down
+to the essense of the earth.&n
+~
+55 268435465 0 1 99 0
+D0
+The canyon floor
+~
+~
+0 -1 7306
+D5
+Essence of the heart
+~
+~
+0 -1 7333
+S
+#7336
+&wIn the Air&n~
+&W You magically appear high above the canyon. The air around you seems to be magically holding 
+you up, but your not sure how stable the ride is going to be. You are only able to move in one
+direction, and that seems to be east.&n
+~
+55 268435457 0 1 99 1
+D1
+In the air
+~
+~
+0 -1 7337
+S
+#7337
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D0
+In the air
+~
+~
+0 -1 7342
+D2
+In the air
+~
+~
+0 -1 7338
+D3
+In the air
+~
+~
+0 -1 7336
+S
+#7338
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D0
+In the air
+~
+~
+0 -1 7337
+D1
+In the air
+~
+~
+0 -1 7339
+S
+#7339
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D2
+In the air
+~
+~
+0 -1 7340
+D3
+In the air
+~
+~
+0 -1 7338
+S
+#7340
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D0
+In the air
+~
+~
+0 -1 7339
+D2
+In the air
+~
+~
+0 -1 7341
+S
+#7341
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D0
+In the air
+~
+~
+0 -1 7340
+S
+#7342
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D1
+In the air
+~
+~
+0 -1 7343
+D2
+In the air
+~
+~
+0 -1 7337
+S
+#7343
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D1
+In the air
+~
+~
+0 -1 7344
+D3
+In the air
+~
+~
+0 -1 7342
+S
+#7344
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D2
+~
+secret treasury~
+29 7301 7345
+D3
+In the air
+~
+~
+0 -1 7343
+D4
+In the air
+~
+~
+0 -1 7347
+S
+#7345
+&wTreasury&n~
+&W You have entered the treasury of air. Many racks float upon air currents with weapons and 
+armour, whilst long tables hold potions, scrolls and other magic items. Large twisting currents
+of air hold huge sums of money completely suspended around you.&n.
+~
+55 268435457 0 1 99 1
+D0
+In the air
+~
+~
+0 -1 7344
+D3
+~
+~
+16 -1 7346
+S
+#7346
+&wShrine of Air&n~
+&W You have entered the shrine of air. A large altar floats upon an air current in the centre. 
+You can see no signs of anything around the area but u can feel a presence.&n
+~
+55 268435457 0 1 99 1
+D1
+treasury
+~
+~
+0 -1 7345
+S
+#7347
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D3
+In the air
+~
+~
+0 -1 7348
+D5
+In the air
+~
+~
+0 -1 7344
+S
+#7348
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D0
+In the air
+~
+~
+0 -1 7350
+D1
+In the air
+~
+~
+0 -1 7347
+D3
+In the air
+~
+~
+0 -1 7349
+S
+#7349
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D0
+In the air
+~
+~
+0 -1 7351
+D1
+In the air
+~
+~
+0 -1 7348
+S
+#7350
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D2
+In the air
+~
+~
+0 -1 7348
+D3
+In the air
+~
+~
+0 -1 7351
+S
+#7351
+&wIn the Air&n~
+&W You are floating high above the ground supported by the air around you. While it's support 
+now is sturdy your not entirely sure about the next air current.&n
+~
+55 268435457 0 1 99 1
+D1
+In the air
+~
+~
+0 -1 7350
+D2
+In the air
+~
+~
+0 -1 7349
+D3
+The guardian's chamber
+~
+~
+0 -1 7352
+S
+#7352
+&wThe Guardian's Chamber&n~
+&W You have entered the chamber of the air guardian. Although you think that there can't be a 
+chamber in air you are sorely mistaken. Huge currents of air create a floor and walls, with the 
+roof open to the sky.&n
+~
+55 268435457 0 1 99 1
+D1
+In the air
+~
+~
+0 -1 7351
+D2
+Essence of the air
+~
+~
+0 -1 7353
+S
+#7353
+&wEssense of the Air&n~
+&W As you float into this area you are buffeted by fierce winds and blown straight at a large 
+twisting tornado. You sense the power of the air coming from this tornado and you feel your 
+breath being sucked from your lungs.&n
+~
+55 268435457 0 1 99 1
+D0
+The guardian's chamber
+~
+~
+0 -1 7352
+D4
+Heart of the air
+~
+~
+0 -1 7354
+D5
+The portal
+~
+~
+0 -1 7355
+S
+#7354
+&wHeart of the Air&n~
+&W You get caught in the tornado and are sucked up and into it. After travelling for what seems 
+like an eternity you find yourself right in the center of the tornado, at the heart of air.&n
+~
+55 268435457 0 1 99 1
+D5
+The essence of the air
+~
+~
+0 -1 7353
+S
+#7355
+&wThe Portal&n~
+&W A shimmering portal stands suspended in mid-air. Through the portal you can see what appears
+to be a canyon floor, while to the south a torando can take you to the heart of the air.&n
+~
+55 268435457 0 1 99 1
+D0
+The canyon floor
+~
+~
+0 -1 7306
+D4
+The essence of air
+~
+~
+0 -1 7353
+S
+#7356
+&BOn the Ocean&n~
+&c You are floating upon an ocean in the elemental canyon. You dont know how you got here, or 
+why there is an ocean in the mountain, but you guess it has something to do with the element of 
+water.&n
+~
+55 268435456 0 1 99 7
+D2
+The ocean
+~
+~
+0 -1 7357
+S
+#7357
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7356
+D2
+The ocean
+~
+~
+0 -1 7358
+S
+#7358
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7357
+D1
+The ocean
+~
+~
+0 -1 7366
+D2
+The ocean
+~
+~
+0 -1 7364
+D3
+The ocean
+~
+~
+0 -1 7359
+S
+#7359
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D1
+The ocean
+~
+~
+0 -1 7358
+D2
+The ocean
+~
+~
+0 -1 7360
+S
+#7360
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7359
+D1
+The ocean
+~
+~
+0 -1 7364
+D2
+The ocean
+~
+~
+0 -1 7361
+S
+#7361
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7360
+D1
+The ocean
+~
+~
+0 -1 7365
+D5
+~
+secret treasury~
+29 7302 7362
+S
+#7362
+&BTreasury&n~
+&c You have entered the treasury of water. Many weapons and armour lie on the sand in this small 
+cavern. Potions, scrolls and other magic items are contained within waterproof containers and 
+large sums of gold are lying in craters on the bottom.&n
+~
+55 268435456 0 1 99 8
+D2
+~
+~
+16 -1 7363
+D4
+The ocean
+~
+~
+0 -1 7361
+S
+#7363
+&BShrine of Water&n~
+&c You have entered the shrine to the element water. A large blue altar lies on the bottom of 
+the ocean here. Many bones lie scattered around the area, many of them having been splintered
+by some huge force.&n
+~
+55 268435456 0 1 99 8
+D0
+Treasury
+~
+~
+0 -1 7362
+S
+#7364
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7358
+D1
+The ocean
+~
+~
+0 -1 7367
+D2
+The ocean
+~
+~
+0 -1 7365
+D3
+The ocean
+~
+~
+0 -1 7360
+S
+#7365
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7364
+D1
+The ocean
+~
+~
+0 -1 7368
+D3
+The ocean
+~
+~
+0 -1 7361
+S
+#7366
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D1
+The ocean
+~
+~
+0 -1 7369
+D2
+The ocean
+~
+~
+0 -1 7367
+D3
+The ocean
+~
+~
+0 -1 7358
+S
+#7367
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7366
+D1
+The ocean
+~
+~
+0 -1 7370
+D2
+The ocean
+~
+~
+0 -1 7368
+D3
+The ocean
+~
+~
+0 -1 7364
+S
+#7368
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7367
+D1
+The ocean
+~
+~
+0 -1 7371
+D3
+The ocean
+~
+~
+0 -1 7365
+S
+#7369
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D2
+The ocean
+~
+~
+0 -1 7370
+D3
+The ocean
+~
+~
+0 -1 7366
+S
+#7370
+&BThe Waterfall&n~
+  &cFine spray covers you, emanating from a waterfall that lies to the east. All around you
+is a vast expanse of water that seems to lead nowhere.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7369
+D1
+~
+~
+16 -1 7372
+D2
+The ocean
+~
+~
+0 -1 7371
+D3
+The ocean
+~
+~
+0 -1 7367
+S
+#7371
+&BOn the Ocean&n~
+&c You are floating somewhere on the ocean. Looking underneath the ocean you think you see faces 
+looking up at you, but they are gone as quickly as you see them. The water begins to swell 
+violently, and you barely manage to stay afloat.&n
+~
+55 268435456 0 1 99 7
+D0
+The ocean
+~
+~
+0 -1 7370
+D3
+The ocean
+~
+~
+0 -1 7368
+S
+#7372
+&BBehind the Waterfall&n~
+&c You have entered a small flooded passage behind the waterfall. You see a faint light coming 
+from the south, and a large amount of light coming from back west.&n
+~
+55 268435456 0 1 99 8
+D2
+The guardian's chamber
+~
+~
+0 -1 7373
+D3
+The waterfall
+~
+~
+0 -1 7370
+S
+#7373
+&BThe Guardian's Chamber&n~
+&c You have entered the flooded chamber of the water guardian. A quick look around reveals many
+remains of those who foolishly attempted to kill the guardian. Some remains have not even
+fully decayed yet.&n
+~
+55 268435456 0 1 99 8
+D0
+Behind the waterfall
+~
+~
+0 -1 7372
+D2
+Essence of water
+~
+~
+0 -1 7374
+S
+#7374
+&BEssense of Water&n~
+&GYou have entered a small flooded chamber with water coloured a deep jade. The water in the 
+centre of the chamber is a slightly darker colour, and from this emanates a strong magical
+energy.&n
+~
+55 268435456 0 1 99 8
+D0
+The guardians chamber
+~
+~
+0 -1 7373
+D1
+Heart of water
+~
+~
+0 -1 7375
+D3
+The portal
+~
+~
+0 -1 7376
+S
+#7375
+&BHeart of Water&n~
+&c You have entered the very heart of the element of water. The water has turned so dark that it 
+is almost &Kblack&c. You have trouble seeing and soon get lost. You wonder if you will ever be able 
+to get out of here.&n
+~
+55 268435457 0 1 99 8
+D3
+Essence of water
+~
+~
+0 -1 7374
+S
+#7376
+&BThe Portal&n~
+&c A shimmering portal stands in the water of this small flooded chamber. Writing next to the
+portal indicates that it will take you to the canyon floor. To the east lies a room filled with
+jade green waters.&n
+~
+55 268435456 0 1 99 8
+D1
+Essence of water
+~
+~
+0 -1 7374
+D2
+Canyon floor
+~
+~
+0 -1 7306
+S
+#7377
+&RIn the Fire&n~
+&r Flames spring up all around you, the eternal fires forming a path to follow into the unknown.
+Strangely enough there isn't a feeling of overwhelming heat around you, just comfortable warmth.&n
+~
+55 268435456 0 1 99 2
+D3
+The fire
+~
+~
+0 -1 7378
+S
+#7378
+&RIn the Fire&n~
+  &rIt is still unknown where this path is taking you, but it has become quite apparent that you
+are on the plane of elemental fire. Little has ever been written about this place, so it would
+be in your best interests to remain on guard.&n
+~
+55 268435456 0 1 99 2
+D1
+The fire
+~
+~
+0 -1 7377
+D3
+The fire
+~
+~
+0 -1 7379
+S
+#7379
+&RThe Ring of Fire&n~
+  &rA ring of dancing flames encircles you, playfully lashing out with a tendril of flame like
+a child with a new toy. After a time the flames seem to become bored and slowly dissipate, 
+revealing a passage to the east and west.&n
+~
+55 268437504 0 1 99 2
+D1
+The fire
+~
+~
+0 -1 7378
+D3
+The fire
+~
+~
+0 -1 7380
+S
+#7380
+&RThe Ring of Fire&n~
+  &rA ring of dancing flames encircles you, playfully lashing out with a tendril of flame like
+a child with a new toy. After a time the flames seem to become bored and slowly dissipate, 
+revealing a passage to the north.&n
+~
+55 268437504 0 1 99 2
+D0
+The fire
+~
+~
+0 -1 7381
+S
+#7381
+&RThe Ring of Fire&n~
+  &rA ring of dancing flames encircles you, playfully lashing out with a tendril of flame like
+a child with a new toy. After a time the flames seem to become bored and slowly dissipate, 
+revealing a passage to the west.&n
+~
+55 268437504 0 1 99 2
+D3
+The fire
+~
+~
+0 -1 7382
+S
+#7382
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D0
+The fire
+~
+~
+0 -1 7392
+D2
+The fire
+~
+~
+0 -1 7383
+S
+#7383
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D0
+The fire
+~
+~
+0 -1 7382
+D3
+The fire
+~
+~
+0 -1 7384
+S
+#7384
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D1
+The fire
+~
+~
+0 -1 7383
+D2
+The fire
+~
+~
+0 -1 7385
+S
+#7385
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D0
+The fire
+~
+~
+0 -1 7384
+D3
+The fire
+~
+~
+0 -1 7386
+S
+#7386
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D0
+The fire
+~
+~
+0 -1 7387
+D1
+The fire
+~
+~
+0 -1 7385
+S
+#7387
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D0
+The fire
+~
+~
+0 -1 7388
+D2
+The fire
+~
+~
+0 -1 7386
+S
+#7388
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D1
+The fire
+~
+~
+0 -1 7389
+D2
+The fire
+~
+~
+0 -1 7387
+S
+#7389
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D0
+~
+secret treasury~
+29 7303 7390
+D3
+The fire
+~
+~
+0 -1 7388
+S
+#7390
+&RTreasury&n~
+&rYou have entered the treasury for fire. Armour and weapons can faintly be seen through the 
+smoke and flames surrounding you. Scrolls, potions and other magic items are held in flame
+proof containers and large piles of gold have been fused together.&n
+~
+55 268435456 0 1 99 2
+D2
+The fire
+~
+~
+4 -1 7389
+D3
+~
+~
+16 -1 7391
+S
+#7391
+&RShrine of Fire&n~
+&rA large burning flame in the shape of an altar lies in the centre of the area. The bones of 
+many beings litter the ground many with large scorch marks along them.&n
+~
+55 268435456 0 1 99 2
+D1
+Treasury
+~
+~
+0 -1 7390
+S
+#7392
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D1
+The fire
+~
+~
+0 -1 7393
+D2
+The fire
+~
+~
+0 -1 7382
+S
+#7393
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D0
+The fire
+~
+~
+0 -1 7394
+D3
+The fire
+~
+~
+0 -1 7392
+S
+#7394
+&RIn the Fire&n~
+&r  Flames lick and dance around the path that has been provided to you. The eternally burning
+fires seem to almost beckon forward, into the heart of their den.&n
+~
+55 268435456 0 1 99 2
+D2
+The fire
+~
+~
+0 -1 7393
+D3
+The guardian's chamber
+~
+~
+0 -1 7395
+S
+#7395
+&RGuardian's Chamber&n~
+&rYou have entered the chamber of the fire guardian. The flames grow very high here and seem to 
+meet at a point high above you, creating the large dome-like area in which you stand. The flames 
+begin to inch closer, and appear to be controlled by the figure in front of you.&n
+~
+55 268435456 0 1 99 2
+D1
+The fire
+~
+~
+0 -1 7394
+D3
+The essence of the flame
+~
+~
+0 -1 7396
+S
+#7396
+&REssense of Fire&n~
+&r This seems to be the source that all the fires from the plane spring from. The heat grows 
+uncomfortably intense, and you have trouble standing so close, but to reach the heart of the 
+flame, you must continue onwards.&n
+~
+55 268437504 0 1 99 2
+D0
+The portal
+~
+~
+0 -1 7398
+D1
+The guardian's chamber
+~
+~
+0 -1 7395
+D3
+Heart of the flame
+~
+~
+0 -1 7397
+S
+#7397
+&RHeart of Fire&n~
+&r You have reached the heart of the fire. The most intense heat you have ever felt now causes  
+your hair to singe and your skin to burn. You dont think you can take much of this punishment.&n
+~
+55 268441600 0 1 99 2
+D1
+Essence of the flame
+~
+~
+0 -1 7396
+S
+#7398
+&RThe Portal&n~
+&r A shimmering portal stands to the north, through which you can see a canyon floor. The only
+other exit lies to the south, to the essense of the flames.&n
+~
+55 268435456 0 1 99 2
+D0
+Canyon floor
+~
+~
+0 -1 7306
+D2
+Essence of the flame
+~
+~
+0 -1 7396
+S
+#7399
+&KHeart of the Ether&n~
+&K You are standing in a room much like the shrine you just came from. The element Ether permeats 
+from this place, causing you head to pound and your knees to weaken.&n
+~
+55 1342181377 536870912 1 99 0
+D1
+The Shrine of Ether
+~
+~
+0 -1 7314
+S
+$~
+#999999

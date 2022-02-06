@@ -1,0 +1,335 @@
+#1700
+mob Git on Drugs~
+&WG&RI&YT &BO&CN &PD&WR&BU&RG&YS&n~
+&WG&RI&YT &BO&CN &PD&WR&BU&RG&YS
+~
+&WG&RI&YT &BO&CN &PD&WR&BU&RG&YS &nstares at you rudely.
+He only wants a piece of &WG&RO&YD &BO&CN &PD&WR&BU&RG&YS&n.
+
+However, if you ask nicely, I'm sure he'll kill you too.
+~
+1273235210 4227073 136249361 571212576 -1000 S
+48 0 -25 100d100+3000000 100d15+2
+1000000 2000000
+8 8 1
+0 4 18 18 14 15 12 12
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_SLEEP 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_KICK 60
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_ACID_BREATH 50
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 50
+SKILL=SPELL_HEAL_MAJOR 40
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_AID 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_ANIMATE_DEAD 99
+SKILL=SPELL_BLACK_BURST 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_MIRROR_SELF 99
+SKILL=SPELL_WIZARD_LOCK 99
+SKILL=SPELL_FLYING_DISK 55
+SKILL=SKILL_RAGE 50
+SKILL=SPELL_PORTAL 88
+SKILL=SPELL_DIN_MAK 99
+SKILL=SKILL_TSUGIASHI 99
+SKILL=SKILL_SENSE_DANGER 60
+SKILL=SKILL_BERSERK 50
+SKILL=SPELL_SPIRIT_TRANSFER 99
+SKILL=SPELL_BIND_SOULS 99
+SKILL=SPELL_CALL_LIGHTNING 60
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#1701
+mob Adriana~
+&YA&Bd&Rr&Bi&Ya&Pn&Wn&Ga &n- Mercy's &RL&YO&PV&BE &nSlave~
+&YA&Bd&Rr&Bi&Ya&Pn&Wn&Ga &n- Mercy's &RL&YO&PV&BE &nSlave
+~
+Before you stands a wonderful sight.  &YA&Bd&Rr&Bi&Ya&n&Wn&Ga &Bis a semi-clad 
+beauty from a distant land.  Her almond skin shimmers in the low light of the room,
+while her eyes dart to and fro, assuring that every one of Mercy's whims are 
+attended to.  
+&YA&Bd&Rr&Bi&Ya&n&Wn&Ga &Bstands six feet tall, with long, dark hair spilling over
+her shoulders and onto her breasts.  Her eyes are the most seductive creations
+you have ever witnessed, while her hands, slowly caressing Mercy's body, taunt
+you with untold pleasures and delights.
+~
+1346633738 32769 136249361 0 1000 S
+48 0 -25 10d1+200000 100d100+10
+10000 1500000
+8 8 2
+9 3 17 17 17 16 14 15
+SKILL=SPELL_FIRE_BREATH 30
+#1704
+mob Justice~
+&BJ&Yu&Rs&Gt&Ci&Pc&We&n~
+A guardian of the wee little people *Justice*
+~
+I am Justice.
+I kill those who try to kill me wee lil' people.
+Don't kill the wee ones.
+~
+674498378 32769 136249361 262312 0 S
+42 10 -30 100d100+26 4d4+50
+1 1
+8 8 0
+0 4 25 16 14 15 12 11
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_KICK 50
+SKILL=SKILL_BASH 99
+SKILL=SKILL_THIRD 50
+SKILL=SKILL_FOURTH 50
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 50
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=108
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=101
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=102
+#1706
+mob arena assassin~
+an arena assassin~
+A dark figure lurks in the shadows........
+~
+   The arena assassin is an age old being who thrives on killing all who dare
+enter the great arena of which he sees to be his own.  Watch out for him and
+his brethren, for they will appear without notice......Taking your life before
+you can scream.
+~
+1412816904 4227073 136249393 607912062 -1000 S
+35 15 -15 100d70+1000 15d5+25
+100000 100000
+8 8 1
+1 3 22 22 22 22 22 22
+SKILL=SKILL_SNEAK 99
+SKILL=SKILL_HIDE 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_BACKSTAB 99
+SKILL=SKILL_SECOND 85
+SKILL=SKILL_THIRD 65
+SKILL=SKILL_FOURTH 10
+#1707
+mob yourself~
+yourself~
+Yourself is here.
+~
+Hey.  Are you looking in a mirror?
+~
+10 1 136249361 0 0 S
+1 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 18 15 14 14 12
+#1710
+mob funk sage~
+&YF&Bu&RN&Gk&CM&Pa&WS&Yt&BE&Rr &GS&Ca&PG&We&YY&n~
+&YF&Bu&RN&Gk&CM&Pa&WS&Yt&BE&Rr &GS&Ca&PG&We&YY&n
+~
+&YF&Bu&RN&Gk&CM&Pa&WS&Yt&BE&Rr &GS&Ca&PG&We&YY &Bis one damn cool mother.  He is TOP
+dawg in &YC&Bh&RU&Gr&CC&Ph &WO&Yf &BF&Ru&GN&Ck &Band he gets all da ladies.
+He's wearing his favorite charms and sporting his best cologne.  He's da man and
+he's going after Nedra tonight.
+
+Are you IN or are you OUT?
+Don't be a Square man.
+You jiggy with it?
+~
+10 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 17 14 16 12 12
+#1712
+mob balderdash mad jester~
+&WBalderdash&w, the &rM&Ra&rd &xJ&xe&xs&xt&xe&xr&n~
+&WBalderdash&w, the &rM&Ra&rd &xJ&xe&xs&xt&xe&xr&w is here.&n
+~
+  Nobody knows where this poor creature came from, or what happened to drive him insane. He acts
+harmless unless provoked, and thus has been allowed to live out his life for now. He is dressed in a 
+tattered and torn jesters uniform, leading you to believe this was his former career, but the only person
+that could tell you for sure stares back blankly with no emotion.
+  Though he makes no threatening moves, he looks quite dexterous and carrys a set of small daggers in sheaths
+on his body. He can probably defend himself quite well when the need arises.
+~
+1074003978 1671169 136249393 0 0 S
+48 0 -20 100d90+50000 20d20+20
+3600000 1800000
+8 8 1
+0 0 25 25 25 25 25 25
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_DETECT_INVISIBLE 99
+SKILL=SPELL_SANCTUARY 60
+SKILL=SPELL_SLEEP 70
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_KICK 60
+SKILL=SKILL_BASH 60
+SKILL=SKILL_PARRY 77
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SPELL_UNDETECT_INVIS 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 60
+SKILL=SPELL_MAGIC_IMMUNE 70
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_MORTICE_FLAME 99
+SKILL=SKILL_RAGE 60
+SKILL=SKILL_SENSE_DANGER 50
+SKILL=SKILL_BERSERK 99
+SKILL=SPELL_CALL_LIGHTNING 99
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=40
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+#1713
+mob everquest monster~
+&YT&RH&WE &GE&BV&CE&PR&YQ&RU&WE&GS&BT &CM&PO&YN&RS&WT&GE&BR&n~
+&YT&RH&WE &GE&BV&CE&PR&YQ&RU&WE&GS&BT &CM&PO&YN&RS&WT&GE&BR&n
+~
+&YT&RH&WE &GE&BV&CE&PR&YQ&RU&WE&GS&BT &CM&PO&YN&RS&WT&GE&BR &Bis here searching for immortals
+to drag to the hells of Everquest
+~
+10 1 136249361 0 0 S
+1 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 16 15 15 14
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=20
+ATTACK_TYPE=107
+#1714
+mob frostmourne dragon~
+&WFr&wo&Wst&Cmo&cur&Cne&n~
+The great dragon &WFr&wo&Wst&Cmo&cur&Cne&n stands before you in all his glory.&n
+~
+  Frostmourne is an ancient dragon who once lived within the Ironstar Mountains in Torindrel. Centuries
+ago the dwarves of the ironstar clan and drove the dragon out, but not without severe casualties. The 
+dragon spent the next several years ravaging the countryside near the Quel'Sith forest, until one day 
+he faced his defeat at the hands of the Ranger, Vorn Ul'Azzr. For reasons unknown, the dragon has risen
+once again, striking terror into the hearts of mortal men everywhere.
+~
+6619144 4816897 136249361 570687656 -1000 S
+50 -40 -40 100d90+57000 25d30+80
+6500000 2500000
+8 8 1
+24 0 23 24 20 21 18 21
+SKILL=SPELL_ARMOR 50
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_BLINDNESS 50
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_INVISIBLE 50
+SKILL=SPELL_SANCTUARY 99
+SKILL=SPELL_STRENGTH 99
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_KICK 50
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_FROST_BREATH 99
+SKILL=SPELL_DARKSIGHT 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 50
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_GATE 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_MORTICE_FLAME 50
+SKILL=SKILL_RAGE 60
+SKILL=SPELL_DEMON_FLESH 25
+SKILL=SPELL_DIN_MAK 50
+SKILL=SKILL_TSUGIASHI 99
+SKILL=SKILL_SENSE_DANGER 50
+SKILL=SKILL_BERSERK 60
+SKILL=SPELL_CALL_LIGHTNING 99
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=105
+#1715
+mob womble special edition~
+a Womble~
+A womble is here, wombling free.
+~
+You see before you a curious looking creature. It is only about 18 inches tall
+and is covered in short grey fur. It looks almost like a small teddy bear, but
+has a long nose and small black shiny eyes. It is wearing a tartan cap and
+waistcoat, and seems to be muttering to itself quietly as it waddles around,
+collecting trash to take home.
+~
+1208223496 1671169 136249361 103023228 900 S
+11 35 39 18d15+1 1d1+2
+1000 3100
+8 8 0
+0 0 12 11 9 10 7 9
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_GATE 99
+SKILL=SKILL_RAGE 99
+$~
+#999999

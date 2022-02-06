@@ -1,0 +1,1598 @@
+#8000
+Trade Road~
+  A wide, dirt road leads through the village past the main shops.
+Weather-worn huts crowd the road to the north and the south.
+  The roads leads on to the east and to the west.
+~
+62 4 2560 1 99 1
+D0
+A small, worn down hut stand against the wind.
+~
+door~
+1 0 8001
+D1
+The trade street leads farther into the village.
+~
+~
+0 -1 8002
+D2
+A small, worn down hut stands against the wind.
+~
+hut~
+9 0 8009
+D3
+The Trade Road.
+~
+~
+0 -1 8068
+S
+#8001
+Village Hut~
+  In the dim light, the small, single room hut revels its crowded interior.
+A scared wooden table and a old stool seem to be the largest items in the
+whole house.
+~
+62 8 0 1 99 1
+D2
+A wide, dirt road passes by, leading into the village.
+~
+door~
+1 0 8000
+S
+#8002
+Trade Road~
+  A wide dirt road leads through the village past all the main shops.
+The healers house is to the north and the Moon Inn is to the south.
+  The roads leads onward to the east and west.
+~
+62 0 2560 1 99 1
+D0
+The well-made stone house has a sign saying, "Healers" on it.
+~
+door~
+9 0 8012
+D1
+The Trade road contines through the village.
+~
+~
+0 -1 8003
+D2
+A small, weather worn hut barely stands against the wind.
+~
+inn~
+0 0 8010
+D3
+The trade street leads out of the village.
+~
+~
+0 -1 8000
+S
+#8003
+Trade Road~
+  A wide, dirt road leads through the village past all the main shops.
+The tall, wooden walls of the town hall loom to the north and the general
+store occupies the lot to the south.
+  The road leads onward to the east and west.
+~
+62 0 2560 1 99 1
+D1
+The Trade road leads onward through the village.
+~
+~
+0 -1 8004
+D2
+The general store of the village stands here.
+~
+~
+0 -1 8014
+D3
+The Trade road continues through the village.
+~
+~
+0 -1 8002
+S
+#8004
+Trade Road~
+  A wide, dirt road leads through the village past all the main shops.
+The town hall's doors are open in the north.
+  The Trade road leads to the east and west.  Another dirt road leads
+south to the rest of the village.
+~
+62 0 2560 1 99 1
+D0
+The town hall's wooden walls loom to the north.
+~
+door~
+1 0 8015
+D1
+The road leads through the village.
+~
+~
+0 -1 8005
+D2
+The road leads onto the rest of the village
+~
+~
+0 -1 8018
+D3
+The Trade road leads onward through the village.
+~
+~
+0 -1 8003
+S
+#8005
+Trade Road~
+  A wide dirt road leads through the village past all the main shops.
+The Blacksmith's shop is to the north and the Bakery is to the south.
+~
+62 0 2560 1 99 1
+D0
+A blacksmith shop stands here.
+~
+~
+0 -1 8043
+D1
+The road leads onward through the village.
+~
+~
+0 -1 8006
+D2
+~
+~
+0 -1 8045
+D3
+The road leads onward through the village.
+~
+~
+0 -1 8004
+S
+#8006
+Trade Road~
+  A wide dirt road leads through the village past all the main shops.
+The wood-worker's shop is to the north and the butcher's shop is to the
+south.
+~
+62 1048580 2560 1 99 1
+D0
+The wood-workers shop is to the north.
+~
+~
+0 -1 8046
+D1
+The road leads onward through the village.
+~
+~
+0 -1 8007
+D2
+The bar is to the south.
+~
+~
+0 -1 8047
+D3
+The road leads onward through the village.
+~
+~
+0 -1 8005
+S
+#8007
+Trade Road~
+  A wide dirt road leads through the village past all the main shops.
+The PathFinder's house is to the north and the Silver Moon Bar is to the
+south.
+~
+62 1048580 2560 1 99 1
+D0
+The PathFinder's house rises before you.
+~
+door~
+1 0 8049
+D1
+The road leads onward through the village.
+~
+~
+0 -1 8008
+D2
+Silver Moon Bar stands here.
+~
+~
+0 -1 8048
+D3
+The road leads onward through the village.
+~
+~
+0 -1 8006
+S
+#8008
+Troll Bridge~
+  A deep, winding river passes benith this small, wooden bridge and
+continues it's way from the north to the south.  From the marks to
+the east side of this bridge, the fabled troll seems to really live
+below the bridge.
+~
+62 1048576 68096 1 99 1
+D1
+The Troll Bridge spands the river.
+~
+~
+0 -1 8053
+D3
+The road leads onward through the village.
+~
+~
+0 -1 8007
+D5
+The river flows by a small den here.
+~
+~
+0 -1 8051
+S
+#8009
+Wizard's Hut~
+  This is the small hut of the local town wizard.  Though in truth he is
+a novice in the wizarding community, he has powers far beyond those of the
+other locals.  His hut contains battered spell books and chipped potion
+vials stacked on all of the available surfaces.
+
+~
+62 8 0 1 99 1
+D0
+A wide, dirt road passes by that leads into the village.
+~
+hut~
+9 0 8000
+S
+#8010
+Moon Inn~
+  In the dim light, you make out the common room of the inn.  A small
+fireplace gives off some light and less warmth.  Beaten and worn stools
+and tables take up most of the room.  A small bar is at the south side
+of the room.  A bad smell fills the stuffy room.
+ A steep stairway lead up to the attic of the inn.
+~
+62 8 0 1 99 1
+D0
+A wide, dirt road passes by here, leading farther into the village.
+~
+~
+0 -1 8002
+D4
+The attic of the inn where travelers can sleep looks to be here in the
+shadows.
+~
+~
+0 -1 8011
+S
+#8011
+Moon Inn's Attic~
+ The low ceiling makes it hard to move around and the darkness hides
+the bumpy floor.  Some straw covers the floor in some places, probably
+meant to be used as bedding.
+  A steep stairway leads down to the common room.
+~
+62 8 0 1 99 1
+D5
+The main room of the crowded Moon Inn is downstairs.
+~
+~
+0 -1 8010
+S
+#8012
+Healers House~
+  Cool, fresh air swirls through this small, stone house.  Along
+one wall, a row of three beds with clean, white sheets are settled.
+A desk with an assortment of bottles lined up on it with small tags
+occupies the other wall along with another bed.  A wooden, carved
+wardrode full of sheets occupies the last wall.
+~
+62 12 0 1 99 1
+D2
+The Trade road leads by and on into the village.
+~
+door~
+9 0 8002
+D5
+The basement is dark and smells on herbs.
+~
+trapdoor~
+17 0 8013
+S
+#8013
+Basement of the Healer's House~
+The air is cool and amazingly fresh down here in the basement.  Herbs
+drying on the floor joists scent the air pleasantly.  Tools for making
+healing potions and medicines lie on a clean, wooden table in the corner.
+~
+62 9 0 1 99 1
+D4
+The street level of the healers house seems bright to your eyes.
+~
+trapdoor~
+1 0 8012
+S
+#8014
+General Store~
+  The general store is pack with items for sell, tagged and ready to
+sell to anyone with enough gold.
+~
+62 8 0 1 99 1
+D0
+The Trade road passes by the shop and on through the village.
+~
+~
+0 -1 8003
+S
+#8015
+Town Hall~
+  The wooden floor has been swept clean and is totally empty.  Windows
+let in some light and the ceiling rises high above you.  A small platform
+is against the north wall for a speaker to stand on, but the rest of the
+floor has been left open for the villages to stand in.
+~
+62 12 0 1 99 1
+D2
+The road leads by and onto the rest of the village.
+~
+door~
+1 0 8004
+D3
+The rest of the town hall prsents itself.
+~
+~
+0 -1 8016
+S
+#8016
+Town Hall~
+  The wooden floor has been swept clean and is totally empty.  Windows
+let in some light and the ceiling rises high above you.  A small platform
+is against the north wall for a speaker to stand on, but the rest of the
+floor has been left open for the villages to stand in.
+~
+62 8 0 1 99 1
+D1
+The rest of the town hall presents itself.
+~
+~
+0 -1 8015
+S
+#8017
+Village Road~
+  The narrow, dirt road leads onward to the rest of the village.  Huts
+line both sides of the road.  The stink of animals comes from the east.
+The road leads north and south.
+~
+62 0 0 1 99 1
+D0
+The Trade road passes by to the north.
+~
+~
+0 -1 8004
+D1
+A weather-worn hut rises to the east.
+~
+door~
+9 0 8020
+D2
+The village road leads south towards the fields.
+~
+~
+0 -1 8021
+D3
+A weather-worn hut stands against the wind.
+~
+hut~
+1 0 8019
+S
+#8018
+Village Road~
+The narrow dirt road leads onward to the rest of the village.  The
+general store's walls rise to the west and the smell of bread comes
+from the bakery's walls to the east.  The road leads south to the
+fields.
+~
+62 0 0 1 99 1
+D0
+The trade roads passes by to the north.
+~
+~
+0 -1 8004
+D2
+The narrow, dirt road leads onward to the rest of the village.
+~
+~
+0 -1 8017
+S
+#8019
+Village Hut~
+  In the dim light, the small, single room hut revels its crowded interior.
+A scared wooden table and a old stool seem to be the largest items in the
+whole house.
+~
+62 8 0 1 99 1
+D1
+The village road leads by.
+~
+hut~
+1 0 8017
+S
+#8020
+Animal Keepers Hut~
+  A dim light revels the crowded interior of the hut.  Ropes, halters, and
+other equipment for handling animals is strewn all over the meger, wooden
+furniture.  The whole hut smells of animals and animal waste from little
+washed clothing.
+~
+62 8 0 1 99 1
+D3
+The village road leads by.
+~
+door~
+9 0 8017
+S
+#8021
+Village Road~
+  The narrow, dirt road leads onward to the rest of the village.  A
+brown, wooden barn rises to your east.  A stink of animals comes from
+it and beyond it.  A white, stone house rises to the west.
+  The village road leads south towards the fields and north towards
+the rest of the village.
+~
+62 0 0 1 99 1
+D0
+The road leads to the rest of the village.
+~
+~
+0 -1 8017
+D2
+The road leads toward the fields.
+~
+~
+0 -1 8022
+S
+#8022
+Intersection of Roads~
+  The narrow, dirt road leads north, to the rest of the village.  It turns
+west, towards the front of the white, stone house.  The pasture, full of
+the villager's animals, fills the land to the east.  To the south, the
+grain fields of the villagers has taken over the land.
+  A wide, deep river winds by to the south-east.  The steep cliffs on the
+other side of the river cut that way off.
+~
+62 4 0 1 99 1
+D0
+The road leads towards the main village.
+~
+~
+0 -1 8021
+D1
+The animal pasture is to the east.
+~
+~
+0 -1 8023
+D2
+The fields start here.
+~
+~
+0 -1 8039
+D3
+The road turns in front of the white, stone house.
+~
+~
+0 -1 8030
+S
+#8023
+Animal Fields~
+  The muddy field is full of the villagers' animals.  Droppings and waste
+from the animals are scattered all about, making it hard to keep one's
+feet clean in any way.
+  The animal barn looms to the north.  A wide, deep river winds by a
+little to the south of the pasture.  The steep cliff on the other side
+cuts that way off.
+
+~
+62 0 0 1 99 2
+D1
+The animal fields continue.
+~
+~
+0 -1 8024
+D3
+The village road passes by.
+~
+~
+0 -1 8022
+S
+#8024
+Animal Fields~
+  The muddy field is full of the villager's animals.  Droppings and waste
+from the animals are scattered all about, making it hard to keep one's
+feet clean in any way.
+  The animal barn looms to the north.  A wide, deep river winds by a
+little to the south.  The steep cliff on the other side cuts that way off.
+~
+62 0 0 1 99 2
+D1
+The animal fields continue.
+~
+~
+0 -1 8025
+D3
+The animal fields continue.
+~
+~
+0 -1 8023
+S
+#8025
+Animal Fields~
+  The muddy field is full of the villager's animals.  Droppings and waste
+from the animals are scattered all about, making it hard to keep one's
+feet clean in any way.
+  The animal barn looms to the north-west.  A wide, deep river flows by
+from the east and twists by again a little to the south.
+~
+62 0 0 1 99 2
+D0
+The animal fields continue.
+~
+~
+0 -1 8026
+D3
+The animal fields continue.
+~
+~
+0 -1 8024
+S
+#8026
+Animal Fields~
+  The muddy field is full of the villager's animals.  Droppings and waste
+from the animals are scattered all about, making it hard to keep one's
+feet clean in any way.
+  The animal barn looms to the west.  A wide, deep river winds by to the
+east.
+~
+62 0 0 1 99 2
+D0
+The animal fields comtinue.
+~
+~
+0 -1 8027
+D2
+The animal fields continue.
+~
+~
+0 -1 8025
+S
+#8027
+Animal Fields~
+  The muddy field is full of the villager's animals.  Droppings and waste
+from the animals are scattered all about, making it hard to keep one's
+feet clean in any way.
+  The animal barn looms to the south-west.  A wide, deep river winds by to
+the east.
+~
+62 0 0 1 99 2
+D2
+The animal fields continue.
+~
+~
+0 -1 8026
+D3
+The animal fields continue.
+~
+~
+0 -1 8028
+S
+#8028
+Animal Fields~
+  The muddy field is full of the villager's animals.  Droppings and waste
+from the animals are scattered all about, making it hard to keep one's
+feet clean in any way.
+  The mud colored animal barn opens up to the south.
+~
+62 0 0 1 99 2
+D1
+The animal fields continue.
+~
+~
+0 -1 8027
+D2
+The animal barn opens to the south.
+~
+~
+0 -1 8029
+S
+#8029
+Animal Barn~
+  The very dim light makes it hard to see what it is that is moving around
+in the open space on the barn.  Animals roam around the whole barn and a
+small pile of hay is left in one corner.  The footing looks rather muddy..
+you find you you don't want to think what made it that way or what else you
+are stepping in besides mud.
+  The exit from the barn is to the north.
+~
+62 8 0 1 99 0
+D0
+The animal field is outside the door.
+~
+~
+0 -1 8028
+D2
+The rest of the barn and a horrible stink present themselves.
+~
+~
+0 -1 8031
+S
+#8030
+Manor Road~
+  The small, dirt road leads to the base of the white, stone Manor.  The
+road looks like it was made by wagons and feet trampling the grass away
+until it was named a road.
+  The Manor rises to the north, easily the richest house in the whole
+village.  The huge grain fields stretch out to the south.  The road leads
+to the east and west.
+~
+62 0 0 1 99 1
+D1
+The village road ends here.
+~
+~
+0 -1 8022
+D2
+The fields start here.
+~
+~
+0 -1 8038
+D3
+The road leads the the front of the Manor house.
+~
+~
+0 -1 8032
+S
+#8031
+Animal Barn~
+  An overwelming stink hits you like a wall as you enter.  Very little light
+enters this far into the barn, making it hard to see the footing..though
+the stick gives you an idea of what it is.  The dim shapes of animals move
+around you and through the whole building.
+~
+62 8 0 1 99 0
+D0
+The light in this direction shows you the way to fresher air.
+~
+~
+0 -1 8029
+S
+#8032
+Manor Road~
+  The small, dirt road ends here at the base of the white, stone Manor.
+The road looks like it was made by wagons and feet trampling the grass
+away.
+  The Manor rises to the north, easily the richest looking house in the
+whole village.  The fields stretch out to the south.
+~
+62 0 0 1 99 1
+D0
+The Manor house doors present themselve to everyone wandering this road.
+~
+door~
+9 0 8033
+D1
+The road leads toward the Village Road.
+~
+~
+0 -1 8030
+D2
+The fields start here.
+~
+~
+0 -1 8037
+S
+#8033
+Manor House~
+  This room is full of a few well-made chairs and a flat, polished table
+to set things on.  This looks like the formal recieving room made up to
+look the best it can be.  A small, clay vase occupies one corner and a
+statue occupies another.
+  Narrow, steep, well-worn wooden stairs lead up to the second floor.
+~
+62 8 0 1 99 1
+D1
+The smell of food wafts from here.
+~
+~
+0 -1 8034
+D2
+The road leading to the house stops here.
+~
+door~
+9 0 8032
+D4
+Narrow, steep, wooden stairs lead up to the second floor.
+~
+~
+0 -1 8035
+S
+#8034
+Manor House~
+  This area smells of cooking of all types.  From the heat in the room
+from the oven, it seems like cooking is done almost constently.  Food is
+set out everywhere in all stages of done.  It looks like a lot of people
+eat from the food cooked here.
+~
+62 8 0 1 99 1
+D3
+The entrace to the house, dining room, and formal room present themselves.
+~
+~
+0 -1 8033
+S
+#8035
+Manor House~
+  A door to the main bedroom is to the east of the stairs.  Past the door
+and a small wall, the wooker's coomon room opens up.  A long, wooden table
+with several benches takes up one side of this room.  A series of bunk-beds
+line the other wall.  Dirt is tracked all over the floor, but otherwise this
+room looks rather well taken care of.
+  Narrow, steep, well-worn wooden stairs lead down to the main room.
+~
+62 8 0 1 99 1
+D1
+The main bedroom presents itself.
+~
+door~
+1 0 8036
+D5
+The walk-thorugh and the workers commom room persent themselves.
+~
+~
+0 -1 8033
+S
+#8036
+Manor House~
+  This room is filled up by a huge four-poster bed.  A carved, dark-wood
+wardrobe stands against one wall and a worn desk stands beside it.  A
+large window opens to the south where the grain fields that provide this
+family with their wealth stretch to the river.
+~
+62 8 0 1 99 1
+D3
+The walk-thorugh and the workers commom room persent themselves.
+~
+door~
+1 0 8035
+S
+#8037
+Grain Fields~
+  Grain grows in this large, fertile field.  It is just planted, growing,
+or ready to be harvested as the season dictates.  You think it could be
+easy to lose your way here if you don't watch where you're going carefully.
+  A wide, deep river winds by the fields to the west.  The steep cliffs
+cut that way off.  A small, dirt road ends to the north of the fields.
+~
+62 0 0 1 99 2
+D0
+The Manor Road starts here.
+~
+~
+0 -1 8032
+D1
+The fields continue.
+~
+~
+0 -1 8038
+D2
+The fields continue.
+~
+~
+0 -1 8042
+S
+#8038
+Grain Fields~
+  Grain grows in this large, fertile field.  It is just planted, growing,
+or ready to be harvested as the season dictates.  You think it could be
+easy to lose your way here if you don't watch where you're going carefully.
+  A small, dirt road twists by to the north of the fields.
+~
+62 0 0 1 99 2
+D0
+The Manor Road winds by.
+~
+~
+0 -1 8030
+D1
+The fields continue.
+~
+~
+0 -1 8039
+D2
+The fields continue.
+~
+~
+0 -1 8041
+D3
+The fields continue.
+~
+~
+0 -1 8037
+S
+#8039
+Grain Fields~
+  Grain grows in this large, fertile field.  It is just planted, growing,
+or ready to be harvested as the season dictates.  It could be rather easy
+to lose your way in these fields for lack of landmarks.
+  A wide, deep river winds by the fields to the east.  The steep cliffs
+cut that way off.  The Village Road and the Manor Road met to the north.
+~
+62 0 0 1 99 2
+D0
+The Manor Road and Village Road meet here.
+~
+~
+0 -1 8022
+D2
+The fields continue.
+~
+~
+0 -1 8040
+D3
+The fields continue.
+~
+~
+0 -1 8038
+S
+#8040
+Grain Fields~
+  Grain grows in the large, fertile field.  It is just planted, growing,
+or ready to harvest as the season dictates.  It could be easy to lose
+your sense of direction in these fields unless you watch where you are
+going carefully.
+  A wide, deep river winds by the fields to the east and the south.  The
+steep cliffs cut that way off.
+~
+62 0 0 1 99 2
+D0
+The fields continue.
+~
+~
+0 -1 8039
+D3
+The fields continue.
+~
+~
+0 -1 8041
+S
+#8041
+Grain Fields~
+  Grain grows in this large, fertile field.  It is just planted, growing,
+or ready to be harvested as the season dictates.  You think it could be
+easy to lose your way here if you don't watch where you're going carefully.
+  A wide, deep river winds by the fields to the south.  The steep cliffs
+cut that way off.
+~
+62 0 0 1 99 2
+D0
+The fields continue.
+~
+~
+0 -1 8038
+D1
+The fields continue.
+~
+~
+0 -1 8040
+D3
+The fields continue.
+~
+~
+0 -1 8042
+S
+#8042
+Grain Fields~
+  Grain grows in this large, fertile field.  It is just planted, growing,
+or ready to be harvested as season dictates.  It could be rather easy
+to lose your way here if you don't watch where you're going carefully.
+  A wide, deep river winds by the fields to the west and the south.  The
+steep cliffs cut that way off.
+~
+62 0 0 1 99 2
+D0
+The fields continue.
+~
+~
+0 -1 8037
+D1
+The fields continue.
+~
+~
+0 -1 8041
+S
+#8043
+Blacksmith Shop~
+  This shop is full of metal objects.  Horse shoes, mended axes and shovels,
+one or two weapons, and many other metal tools line the tables and hang on
+the walls.  To the north, the forge glows in the dim light.
+~
+62 8 0 1 99 1
+D0
+The rest of the shop.
+~
+~
+0 -1 8044
+D2
+The TRade road passes by.
+~
+~
+0 -1 8005
+S
+#8044
+Blacksmith Shop~
+  Tools needing to be fixed lie to one side of this room on a table.  Raw
+metal is carefully piled in a box near the forge, waiting to be fashioned
+into tools and other objects.  The forge, anvil, and metal-working tools
+all rest on the north side of the room, ready to do their job.
+~
+62 8 0 1 99 1
+D2
+The rest of the shop.
+~
+~
+0 -1 8043
+S
+#8045
+Bakery~
+The smell of baking bread fills the room.  All types of bread fill the
+shelves.  A small oven warms the room while baking the bread made here.
+A flour-covered table has all stages of bread being made on it.
+~
+62 8 0 1 99 1
+D0
+The Trade road leads by.
+~
+~
+0 -1 8005
+S
+#8046
+Wood-Worker's Shop~
+  This shop is filled with wooden objects being made and repaired.  Some
+pieces are small, carved figurines.  Other are crudely made tables and
+chairs.  Either this person doesn't know how to make larger objects, or
+knows the people here can't afford better made objects.  A table to the
+north of the shop has tools of the craft laid neatly on it.
+~
+62 8 0 1 99 1
+D2
+The Trade road passes by.
+~
+~
+0 -1 8006
+S
+#8047
+Butcher Shop~
+  The shop is full of cut-up and prepared meat.  Almost all of it seems
+to have been salted to perserve it, but some fresh meat is still around
+because it's just been butchered.
+~
+62 8 0 1 99 1
+D0
+The Trade road passes by.
+~
+~
+0 -1 8006
+S
+#8048
+Silver Moon Bar~
+  The bar smells of spilled beer and other nasty smells.  A few carved on
+crude wooden tables fill this room and a small bar stands against the
+south wall.
+~
+62 1048584 0 1 99 1
+D0
+The Trade road leads by.
+~
+~
+0 -1 8007
+S
+#8049
+PathFinder's House~
+  This room seems to be rarely used to entertain visitors.  It is full of
+leather working tools, hides of woodland animals, and a few things to eat from.
+~
+62 1048588 0 1 99 1
+D0
+A bedroom opens up before you.
+~
+~
+0 -1 8050
+D2
+The Trade road passes by.
+~
+door~
+1 0 8007
+S
+#8050
+PathFinder's Bedroom~
+  The room is in perfect order, but looks to be rarely used and rarely
+cleaned.  A fine layer of dust covers the clothes chest which is almost
+empty.  It seems that the PathFinder spends more time in the forests
+than in this small house.
+~
+62 8 0 1 99 1
+D2
+~
+~
+0 -1 8049
+S
+#8051
+Under the Troll Bridge~
+  There is a small den made here benith the bridge.  It stinks of some
+animal and bones of a small animal are piled to one side.  The river
+runs by, taking up most of the room benith the bridge.
+~
+62 1048576 0 1 99 0
+D4
+The bridge spans above you.
+~
+~
+0 -1 8008
+S
+#8052
+Troll Bridge~
+  A deep, winding river passes benith this small, wooden bridge and
+continues it's way from the north to the south.  From the marks to
+the east side of this bridge, the fabled troll seems to really live
+below the bridge.
+~
+62 1048580 10752 1 99 1
+D1
+The Trade road.
+~
+~
+0 -1 8053
+D3
+The Trade road continues.
+~
+~
+0 -1 8008
+S
+#8053
+Trade Road in the Forest~
+The wide, dirt road winds its way beneath the tall trees.  The forest
+is full of plants of all types.  Sunlight peeks through the branches above.
+The trade road leads east and west.
+A small hunting dog romps around you in the street. 
+~
+62 1048576 2560 1 99 3
+D0
+The forest.
+~
+~
+0 -1 8056
+D1
+The Trade road.
+~
+~
+0 -1 8054
+D2
+The forest.
+~
+~
+0 -1 8062
+D3
+The Troll Bridge.
+~
+~
+0 -1 8052
+S
+#8054
+Trade Road in the Forest~
+The wide, dirt road winds its way beneath the tall trees.  The forest
+is full of plants of all types.  Sunlight peeks through the branches above.
+The trade road leads east and west.
+A small hunting dog romps around you in the street. 
+~
+62 1048576 2560 1 99 3
+D0
+The forest.
+~
+~
+0 -1 8057
+D1
+The Trade road.
+~
+~
+0 -1 8055
+D2
+The forest.
+~
+~
+0 -1 8063
+D3
+The Trade road.
+~
+~
+0 -1 8053
+S
+#8055
+Trade Road in the Forest~
+The wide, dirt road winds its way beneath the tall trees.  The forest
+is full of plants of all types.  Sunlight peeks through the branches above.
+The trade road leads east and west.
+~
+62 1048576 2048 1 99 3
+D0
+The forest.
+~
+~
+0 -1 8058
+D1
+~
+~
+32 -1 2678
+D2
+The forest.
+~
+~
+0 -1 8064
+D3
+The Trade road.
+~
+~
+0 -1 8054
+S
+#8056
+The Forest~
+  This forest is full of plants and tall trees of all kinds.  Shy animals
+dash away at a strange sound.  Sunlight peeks through the branches above,
+making the forest seem almost mystical.
+~
+62 1048576 0 1 99 3
+D0
+The forest.
+~
+~
+0 -1 8061
+D1
+The forest.
+~
+~
+0 -1 8057
+D2
+The Trade road.
+~
+~
+0 -1 8053
+S
+#8057
+The Forest~
+  This forest is full of plants and trees of all kinds.  Shy animals
+dash away at a strange sound.  Sunlight peeks through the branches above,
+making the forest seem almost mystical.
+~
+62 1048576 0 1 99 3
+D0
+The forest.
+~
+~
+0 -1 8060
+D1
+The forest.
+~
+~
+0 -1 8058
+D2
+The Trade road.
+~
+~
+0 -1 8054
+D3
+The forest.
+~
+~
+0 -1 8056
+S
+#8058
+The Forest~
+  This forest is full of plants and trees of all kinds.  Shy animals
+dash away at a strange sound.  Sunlight peeks through the branches above,
+making the forest seem almost mystical.
+~
+62 1048576 0 1 99 3
+D0
+The forest.
+~
+~
+0 -1 8059
+D2
+The Trade road.
+~
+~
+0 -1 8055
+D3
+The forest.
+~
+~
+0 -1 8057
+S
+#8059
+The Forest~
+  This forest is full of plants and trees of all kinds.  Shy animals
+dash away at a strange sound.  Sunlight peeks through the branches above,
+making the forest seem almost mystical.
+~
+62 1048576 0 1 99 3
+D2
+The forest.
+~
+~
+0 -1 8058
+D3
+The forest.
+~
+~
+0 -1 8060
+S
+#8060
+The Forest~
+  This forest is full of plants and trees of all kinds.  Shy animals
+dash away at a strange sound.  Sunlight peeks through the branches above,
+making the forest seem almost mystical.
+~
+62 1048576 0 1 99 3
+D0
+Hidden Cave
+~
+~
+16 -1 8071
+D1
+The forest.
+~
+~
+0 -1 8059
+D2
+The forest.
+~
+~
+0 -1 8057
+D3
+The forest.
+~
+~
+0 -1 8061
+S
+#8061
+The Forest~
+  This forest is full of plants and tall trees of all kinds.  Shy animals
+dash away at a strange sound.  Sunlight peeks through the branches above,
+making the forest seem almost mystical.
+~
+62 1048576 0 1 99 3
+D1
+The forest.
+~
+~
+0 -1 8060
+D2
+The forest.
+~
+~
+0 -1 8056
+D3
+A pond~
+~
+0 -1 8070
+S
+#8062
+The Forest~
+  This forest is full of plants and trees of all kinds.  Shy animals
+dash away at a strange sound.  Sunlight peeks through the branches above,
+making the forest seem almost mystical.
+~
+62 1048576 0 1 99 3
+D0
+The Trade road.
+~
+~
+0 -1 8053
+D1
+The forest.
+~
+~
+0 -1 8063
+S
+#8063
+The Forest~
+  This forest is full of plants and trees of all kinds.  Shy animals
+dash away at a strange sound.  Sunlight peeks through the branches above,
+making the forest seem almost mystical.
+~
+62 1048576 0 1 99 3
+D0
+The Trade Road.
+~
+~
+0 -1 8054
+D1
+The forest.
+~
+~
+0 -1 8064
+D3
+The forest.
+~
+~
+0 -1 8062
+S
+#8064
+The Forest~
+  This forest is full of plants and trees of all kinds.  Shy animals
+dash away at a strange sound.  Sunlight peeks through the branches above,
+making the forest seem almost mystical.
+~
+62 1048576 0 1 99 3
+D0
+The Trade Road.
+~
+~
+0 -1 8055
+D3
+The forest.
+~
+~
+0 -1 8063
+S
+#8065
+Village Garden~
+  Straight rows of green leaves and dirt mark the edge of the villager's
+large garden.
+~
+62 0 0 1 99 1
+D0
+The Trade Road.~
+~
+0 -1 8068
+S
+#8066
+Village Orchard~
+  Long, straight, neatly spaced rows of fruit trees are planted here.
+A great variety of trees grow here, including apples of all types and pears.
+~
+62 0 0 1 99 1
+D2
+The Trade Road~
+~
+0 -1 8068
+D3
+The orchard continues.
+~
+~
+0 -1 8067
+S
+#8067
+Village Orchard~
+  Long, straight, neatly spaced rows of fruit trees are planted here.
+A great variety of trees grow here, including apples of all types and pears.
+~
+62 0 4096 1 99 1
+D1
+The orchard continues.
+~
+~
+0 -1 8066
+D2
+The Trade Road.~
+~
+0 -1 8069
+D3
+A tunnel cuts through a hill and CTA signs warn you to keep out.
+~
+~
+32 -1 14314
+S
+#8068
+Trade Road~
+  A wide, dirt road leads into the village.  Weather-worn huts line the
+road into the village.  An orchard casts shade to the north and a large
+garden struggles to survive to the south.
+~
+62 0 2560 1 99 1
+D0
+The orchard~
+~
+0 -1 8066
+D1
+The Trade road.
+~
+~
+0 -1 8000
+D2
+The Village Garden.~
+~
+0 -1 8065
+D3
+The Trade Road~
+~
+0 -1 8069
+S
+#8069
+Trade Road~
+  A wide, dirt road leads east into a village.  Weather-worn huts line the
+road into the village.  A large orchard casts shade on the road to the
+north.
+~
+62 0 2560 1 99 1
+D0
+The Village Orchard.~
+~
+0 -1 8067
+D1
+The Trade Road.~
+~
+0 -1 8068
+S
+#8070
+Fish Pond~
+  A small pond has been created in a bend in the stream here.  It looks to be 
+fishing haunt, being next to the forest and the smooth rocky shore.
+~
+62 1048576 0 1 99 1
+D1
+The forest.~
+~
+0 -1 8061
+S
+#8071
+&KThe Hidden Cave&n~
+  You have discovered a hidden cave in the forest.  You try to peer
+further into the cave, but it's so dark that you can barely see
+your hand in front of your face.  You faintly detect the scuffling
+of feet in the distance.
+
+~
+62 1048588 0 1 99 3
+D0
+Further into the Cave
+~
+~
+16 -1 8072
+D2
+The Forest
+~
+~
+0 -1 8060
+S
+#8072
+&KFurther into the Cave&n~
+  You have stumbled further into the cave.  You know it's odd, but
+there's disgruntled muttering coming from the west.  You can also
+hear an odd scurrying.  Maybe it's wisest to leave well enough
+alone and head back to the forest...
+
+~
+62 1048589 0 1 99 3
+D0
+Even Further into the Cave
+~
+~
+16 -1 8075
+D2
+The Entrance to the Cave~
+The Entrance to the Cave~
+16 -1 8071
+D3
+Even Further into the Cave
+~
+~
+16 -1 8073
+S
+#8073
+&KEven Further into the Cave&n~
+  Well, in the dark you've managed to find a bunch of evil
+cave spiders.  They seem to be making really excited
+clicking noises, which probably means they're happy to
+see fresh meat...and again, very clearly to your west, you
+can hear cursing and muttering.
+
+~
+62 1048585 0 1 99 3
+D1
+Back towards the Entrance
+~
+~
+16 -1 8072
+D3
+Against the Wall
+~
+~
+16 -1 8074
+S
+#8074
+&KAgainst the Wall&n~
+  You have entered a small hollowed-out cavern of this cave system.
+The walls of this area seem to have been shattered and melted in a
+bizarre pattern.  There is equipment and cave debris used to
+barricade a small figure against the far side of the room, right up
+against the wall...the figure appears to be a fairly upset dwarf.
+
+~
+62 12 0 1 99 3
+D1
+Back towards the Entrance
+~
+~
+0 -1 8073
+S
+#8075
+&KEven Further into the Cave&n~
+  You can't see much of anything, but you do hear the crunch of little
+bones under your feet as you walk.  No doubt there are fearsome
+creatures inside this cave, lurking in the shadows.  It's best to be
+on guard at all times.
+
+~
+62 1048585 0 1 99 3
+D1
+Still Further into the Cave
+~
+~
+16 -1 8076
+D2
+Towards the Entrance
+~
+~
+16 -1 8072
+S
+#8076
+&KStill Further into the Cave&n~
+  You can't see much of anything, but you do hear the crunch of little
+bones under your feet as you walk.  No doubt there are fearsome
+creatures inside this cave, lurking in the shadows.  It's best to be
+on guard at all times.
+
+~
+62 1048585 0 1 99 3
+D1
+Towards the Back of the Cave
+~
+~
+16 -1 8077
+D3
+Towards the Entrance
+~
+~
+16 -1 8075
+S
+#8077
+&KTowards the Back of the Cave&n~
+  You can't see much of anything, but you do hear the crunch of little
+bones under your feet as you walk.  No doubt there are fearsome
+creatures inside this cave, lurking in the shadows.  It's best to be
+on guard at all times.
+
+~
+62 1048585 0 1 99 3
+D0
+The Back of the Cave
+~
+~
+16 -1 8078
+D3
+Towards the Entrance
+~
+~
+16 -1 8076
+S
+#8078
+&KThe Back of the Cave&n~
+  You've come to the back of the cave.  You can feel the cool rough
+texture of stone around you, and know that you must go back from
+where you came...you can go no further into the cave.
+
+~
+62 1048585 0 1 99 3
+D2
+Towards the Entrance
+~
+~
+16 -1 8077
+S
+$~
+#999999

@@ -1,0 +1,1456 @@
+#15650
+&yIsland of ancient Greece&n~
+&w  After a treacherous journey across the great ocean you have found the ancient
+island of Greece. As you look around you notice that the shoreline is littered with
+the ships seemingly crushed by immense boulders. Peering to the east and west you see
+nothing but shoreline for as far as the eye can see. The island itself seems to be
+heavily covered in vegetation of all types. To the south is the ocean from which you
+came and to the north you can make out a path overgrown by the vegetation.&n
+~
+93 32776 0 30 99 1
+D0
+&wA pathway seemingly leads north through the overgrown vegetation.&n
+~
+~
+0 -1 15651
+S
+#15651
+&yA pathway overgrown by vegetation&n~
+ &wMaking your way through the overgrown plant life you notice that there is
+of little interest here. Yet with such vegetation would wonder how it can be
+so quiet. You can not make head or tails of this island. The only thing that
+seems for sure is the pathway heads to the north.&n
+~
+93 1342210056 536870912 30 99 1
+D0
+&yThe pathway continues&n
+~
+~
+0 -1 15652
+D2
+&wThe shoreline lies just ahead.&n
+~
+~
+0 -1 15650
+S
+#15652
+&yA pathway leading towards a clearing&n~
+ &wAs your journey continues just ahead you can make out a the beginnings
+of a trail heading up a mountain side. There is little else you can tell
+and that appears to be the only option you have other than turning around
+and heading from which you came.&n
+~
+93 1342210056 536870912 30 99 1
+D0
+&yYou can barely make out a trial heading up the mountain side.&n
+~
+~
+0 -1 15653
+D2
+&yThe pathway continues&n
+~
+~
+0 -1 15651
+S
+#15653
+&yBase of Mount Olympus&n~
+ &wYou are at the base of the majestic Mount Olympus. The Mountain itself
+seems to reach out to the heavens above. There is a trail that heads up
+the base of the mountain. The moutain trail is very treacherous for with
+every step you take rocks jut out from the surface. One mistep and down
+the mountain you could tumble.&n
+~
+93 1342210056 536870912 30 99 1
+D2
+&yThe path leads through the overgrown vegetation.&n
+~
+~
+0 -1 15652
+D4
+&yFurther up the mountain&n
+~
+~
+0 -1 15654
+S
+#15654
+&yMountain face&n~
+&w As you begin you journey up the mountain you are constantly being pelted
+with rocks of all sizes that seem to be falling from the heavens. Even the
+smallest rocks nearly knock you off the mountain face.&n
+~
+93 1342216200 536870912 30 99 1
+D4
+&yFurther up the face of the Moutain.&n
+~
+~
+0 -1 15655
+D5
+&yThe base of the mountain.&n
+~
+~
+0 -1 15653
+S
+#15655
+&yMountain face&n~
+&w Your arms and legs grow weary. In fact you can barely go much longer
+even though you have only be climbing a few hours it seems like you have
+been climbing for days and days. With every foot you climb the Mountain
+seems to grow at foot.&n
+~
+93 1342216200 0 30 99 1
+D4
+&yMoutain face&n
+~
+~
+0 -1 15656
+D5
+&yDon't look down what ever you do for you have climbed higher than you could
+have ever imagined.
+&n
+~
+~
+0 -1 15654
+S
+#15656
+&yMountain face&n~
+&w Your arms and legs grow weary. In fact you can barely go much longer
+even though you have only be climbing a few hours it seems like you have
+been climbing for days and days. With every foot you climb the Mountain
+seems to grow at foot.&n
+~
+93 1342216200 536870912 30 99 1
+D0
+&yMoutain crevice&n
+~
+~
+16 -1 15658
+D4
+&yThe mountain face&n
+~
+~
+0 -1 15657
+D5
+&yDon't look down what ever you do for you have climbed high than you could
+have ever imagined.&n
+~
+~
+0 -1 15655
+S
+#15657
+&yMountain face&n~
+&w Your arms and legs grow weary. In fact you can barely go much longer
+even though you have only be climbing a few hours it seems like you have
+been climbing for days and days. With every foot you climb the Mountain
+seems to grow at foot.&n
+~
+93 1342216200 536870912 30 99 1
+D4
+&yThe mountain face.&n
+~
+~
+0 -1 15657
+D5
+&yDon't look down what ever you do for you have climbed high than you could
+have ever imagined.&n
+~
+~
+0 -1 15656
+S
+#15658
+&yMountain Crevice&n~
+&w Finally after hours of climbing you have found breach in the face of the
+mountain. Your aching limbs tell you it's time for a rest before you continue
+any further. After a rest you look around and it almost seems as if the mountain
+has swallowed you up. With such sparse lighting you can't make heads or tails
+of how to begin the climb once more.&n
+~
+93 1342212104 0 30 99 1
+D2
+&yThe mountain face.&n
+~
+~
+0 -1 15656
+D4
+&KIt's to dark to notice anything.&n
+~
+~
+16 -1 15659
+S
+#15659
+&yHidden passage&n~
+&w After closely examining the crevice you have found what appears to
+be a ladder carved into the side of the mountain. It appears to only 
+venture upwards into the heart of the mountain.&n
+~
+93 1342212104 0 30 99 1
+D4
+&KIt's to dark to notice anything.&n
+~
+~
+0 -1 15660
+D5
+&KIt's to dark to notice anything.&n
+~
+~
+0 -1 15658
+S
+#15660
+&yHidden passage&n~
+&w After closely examining the crevice you have found what appears to
+be a ladder carved into the side of the mountain. It appears to only 
+venture upwards into the heart of the mountain.&n
+~
+93 1342212104 0 30 99 1
+D4
+&KIt's to dark to notice anything.&n
+~
+~
+0 -1 15661
+D5
+&KIt's to dark to notice anything.&n
+~
+~
+0 -1 15659
+S
+#15661
+&yHidden passage&n~
+&w After closely examining the crevice you have found what appears to
+be a ladder carved into the side of the mountain. It appears to only 
+venture upwards into the heart of the mountain.&n
+~
+93 1342212104 0 30 99 1
+D1
+&KA cave opening&n
+~
+~
+0 -1 15662
+D5
+&KIt's to dark to notice anything.&n
+~
+~
+0 -1 15660
+S
+#15662
+&yCave opening&n~
+&wYou have found a cave opening it could possibly be a tunnel of sorts
+because you can see daylight just ahead.&n
+~
+93 1342210057 0 30 99 1
+D1
+&yA set of massive doors.&n
+~
+~
+0 -1 15663
+D3
+&KHidden passage&n
+~
+~
+0 -1 15661
+S
+#15663
+&yMassive doors&n~
+&wThe cave has come to a massive opening, just ahead stand a set of massive doors
+seemingly carved out of the mountain itself. As you approach the doors a
+humongous one-eyed beast blocks your way. To advance any further it appears
+that this beast must die.&n
+~
+93 1342210056 0 30 99 1
+D1
+&YThe incoming lights saps your vision.&n
+~
+stone door~
+15 15652 15664
+D3
+&yIt's to dark to notice anything special.&n
+~
+~
+0 -1 15662
+S
+#15664
+&WCloud Road&n~
+After walking through the doors it seems you have been teleported far away
+from the cave from which you entered. Off in the distance you see a majestic
+building resting on the clouds.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WNothing but clouds&n
+~
+~
+0 -1 15665
+D3
+&WA hole in the cloud.&n
+~
+stone door~
+1 15652 15663
+S
+#15665
+&WCloud Road&n~
+You find yourslf walking amongst the clouds. You have to wonder if your
+next step could be your last. You find yourself so high up that just walking
+is a major task and with every step you take you grow weaker and weaker.
+~
+93 1342210056 0 30 99 1
+D0
+&WNothing but clouds&n
+~
+~
+0 -1 15666
+D2
+&WNothing but clouds&n
+~
+~
+0 -1 15664
+S
+#15666
+&WCloud Road&n~
+You find yourslf walking amongst the clouds. You have to wonder if your
+next step could be your last. You find yourself so high up that just walking
+is a major task and with every step you take you grow weaker and weaker.
+~
+93 1342210056 0 30 99 1
+D0
+&WThe cloud raod continues.&n
+~
+~
+0 -1 15668
+D1
+&WA hole in the clouds.&n
+~
+~
+0 -1 15667
+D2
+&WThe cloud raod continues.&n
+~
+~
+0 -1 15665
+S
+#15667
+Forest of the Basilisks~
+&wAfter walking through the hole in the clouds you find yourself surrounded
+by basilisk lizards. Peering around you notice one has already been slain and
+you can hear a warriors battle cry.&n
+~
+93 1342177288 0 30 99 1
+D1
+&GThe forest continues.&n
+~
+~
+0 -1 15719
+D3
+&WA portal opens up to the west.&n
+~
+~
+0 -1 15666
+S
+#15668
+&WCloud Road&n~
+You find yourslf walking amongst the clouds. You have to wonder if your
+next step could be your last. You find yourself so high up that just walking
+is a major task and with every step you take you grow weaker and weaker.
+~
+93 1342210056 0 30 99 1
+D0
+&WThe cloud raod continues.&n
+~
+~
+0 -1 15669
+D2
+&WThe cloud raod continues.&n
+~
+~
+0 -1 15666
+S
+#15669
+&WCloud Road&n~
+You find yourslf walking amongst the clouds. You have to wonder if your
+next step could be your last. You find yourself so high up that just walking
+is a major task and with every step you take you grow weaker and weaker.
+~
+93 1342210056 0 30 99 1
+D0
+&WThe cloud road continues.&n
+~
+~
+0 -1 15676
+D1
+&wA storm cloud rages.&n
+~
+~
+16 -1 15670
+D2
+&WThe cloud raod continues.&n
+~
+~
+0 -1 15668
+S
+#15670
+&wStorm Cloud&n~
+&wYou have wandered into the middle of a storm cloud. All around
+you lightning flashes. The air has a strange stench to it here.
+The smell nearly takes your breath away.&n
+~
+93 1342210056 0 1 99 1
+D1
+&KA small portal leading into abysmal darkness.&n
+~
+~
+0 -1 15671
+D3
+&wOutside of the storm cloud.&n
+~
+~
+0 -1 15669
+S
+#15671
+&KAbyssal prison&n~
+&wYou have somehow found a way to the abyssal prison...the eternal prison
+of the immortal titans. Banished here many eons ago when the Immortal
+Zues gained control of Olympus.&n
+~
+93 1342210056 0 1 99 1
+D0
+&KNothing but the darkness of the abyss.&n
+~
+~
+0 -1 15672
+D1
+&KA giant guard lurks about in the abyss.&n
+~
+~
+0 -1 15674
+D2
+&KNothing but the darkness of the abyss.&n
+~
+~
+0 -1 15673
+D3
+&KA small portal.&n
+~
+~
+0 -1 15670
+S
+#15672
+&KAbyssal prison&n~
+&wYou have somehow found a way to the abyssal prison...the eternal prison
+of the immortal titans. Banished here many eons ago when the Immortal
+Zues gained control of Olympus.&n
+~
+93 1342210056 0 1 99 1
+D2
+&KNothing but the darkness of the abyss.&n
+~
+~
+0 -1 15671
+S
+#15673
+&KAbyssal prison&n~
+&wYou take a turn in this darkness filled void called the abyssal
+prison. Now standing before you is a enmormous titan wielding a
+blade of water.&n
+~
+93 1342210056 0 1 99 1
+D0
+&KNothing but the darkness of the abyss.&n
+~
+~
+0 -1 15671
+S
+#15674
+&KAbyssal prison&n~
+&wYou have wandered before a massive guardian. He stands guard over
+one loan titan....to enter that cell you must vanquish this lone
+guardian.&n
+~
+93 1342210056 0 1 99 1
+D1
+&KNothing but the darkness of the abyss.&n
+~
+chamber~
+15 15665 15675
+D3
+&KNothing but the darkness of the abyss.&n
+~
+~
+0 -1 15671
+S
+#15675
+&KAbyssal chamber&n~
+This is the abyss chamber it houses Cronus the imprisoned titan. This
+room has many strange affects about it...for it seems to greatly sap
+this one mighty titans power.
+~
+93 1342210056 0 1 99 1
+D3
+&KNothing but the darkness of the abyss.&n
+~
+Àæ?	shroom~
+13 0 15674
+S
+#15676
+&WCloud Road&n~
+You find yourslf walking amongst the clouds. You have to wonder if your
+next step could be your last. You find yourself so high up that just walking
+is a major task and with every step you take you grow weaker and weaker.
+~
+93 1342210056 0 30 99 1
+D0
+&WThe cloud road continues.&n
+~
+~
+0 -1 15677
+D2
+&WThe cloud road continues.&n
+~
+~
+0 -1 15669
+S
+#15677
+&WCloud Road&n~
+You find yourslf walking amongst the clouds. You have to wonder if your
+next step could be your last. You find yourself so high up that just walking
+is a major task and with every step you take you grow weaker and weaker.
+~
+93 1342210056 0 30 99 1
+D0
+&WThe cloud road continues.&n
+~
+~
+0 -1 15678
+D2
+&WThe cloud road continues.&n
+~
+~
+0 -1 15676
+S
+#15678
+&WCloud Road&n~
+You find yourslf walking amongst the clouds. You have to wonder if your
+next step could be your last. You find yourself so high up that just walking
+is a major task and with every step you take you grow weaker and weaker.
+~
+93 1342210056 0 30 99 1
+D0
+&WThe cloud road continues.&n
+~
+~
+0 -1 15679
+D2
+&WThe cloud road continues.&n
+~
+~
+0 -1 15677
+S
+#15679
+&YGates &Wof Olympus&n~
+You are standing before the gates of Olympus.There is only one thing standing
+between you and passage to the home of the Gods...one lone guard stands before
+you wielding a sword in one hand and a shield in the other. His feet are adorned
+with a pair of winged sandals and on his head he wears a winged helm.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe gates of Olympus.&n
+~
+gate~
+15 15670 15680
+D2
+south&WThe cloud road continues.&n
+~
+south~
+0 -1 15678
+S
+#15680
+&WStreets of&Y Olympus&n~
+Walking down the streets of Olympus is just as you would have imagined
+it. The streets are paved of gold. It's so quiet and peaceful you may
+never want to leave this place..this place high atop Mount Olympus.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe &Ygolden&W streets of Olympus continue.&n
+~
+~
+0 -1 15681
+D2
+&WThe gates of Olympus.&n
+~
+gate~
+9 15670 15679
+S
+#15681
+&WStreets of&Y Olympus&n~
+Walking down the streets of Olympus is just as you would have imagined
+it. The streets are paved of gold. It's so quiet and peaceful you may
+never want to leave this place..this place high atop Mount Olympus.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe gold paved street continues.&n
+~
+~
+0 -1 15682
+D2
+&WThe &Ygolden&W streets of Olympus continue.&n
+~
+~
+0 -1 15680
+S
+#15682
+&WStreets of&Y Olympus&n~
+Walking down the streets of Olympus is just as you would have imagined
+it. The streets are paved of gold. It's so quiet and peaceful you may
+never want to leave this place..this place high atop Mount Olympus.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe gold paved street continues.&n
+~
+~
+0 -1 15683
+D2
+&WThe gold paved street continues.&n
+~
+~
+0 -1 15681
+S
+#15683
+&WStreets of&Y Olympus&n~
+Walking down the streets of Olympus is just as you would have imagined
+it. The streets are paved of gold. It's so quiet and peaceful you may
+never want to leave this place..this place high atop Mount Olympus.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe gold paved streets of Olympus continue.&n
+~
+~
+0 -1 15685
+D1
+&WA apothecary shop.&n
+~
+~
+0 -1 15684
+D2
+&WThe gold paved street continues.&n
+~
+~
+0 -1 15682
+S
+#15684
+&WThe apothecary shop&n~
+This is the immortal Hebes nectar shop. In here you can find various
+potions and various magic scrolls. As with everything her items do
+not come cheap.
+~
+93 98312 0 30 99 1
+S
+#15685
+&WStreets of&Y Olympus&n~
+Walking down the streets of Olympus is just as you would have imagined
+it. The streets are paved of gold. It's so quiet and peaceful you may
+never want to leave this place..this place high atop Mount Olympus.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe gold paved streets of Olympus continue.&n
+~
+~
+0 -1 15686
+D2
+&WThe gold paved streets of Olympus continue.&n
+~
+~
+0 -1 15683
+S
+#15686
+&WStreets of&Y Olympus&n~
+While walking down this splendid golden street. You notice a small 
+temple to your west. There is little you can make out about it other
+than the fact that it seems adorned by sculptors of the Goddess
+Hera.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe gold paved streets of Olympus continue.&n
+~
+~
+0 -1 15689
+D2
+&WThe gold paved streets of Olympus continue.&n
+~
+~
+0 -1 15685
+D3
+&wHera's temple&n
+~
+~
+0 -1 15687
+S
+#15687
+&wTemple entrance~
+This is the entrance to Hera's private temple. Here she comes to watch
+over her followers. It is also where she comes to try and inflict harm
+on Hercules.
+~
+93 1342210056 0 30 99 1
+D1
+&WThe gold paved streets of Olympus.&n
+~
+~
+0 -1 15686
+D3
+&wHera's temple&n
+~
+~
+0 -1 15688
+S
+#15688
+&wHera's temple&n~
+The first thing you notice is Hera standing in the back of the room looking
+into a small water fountain. She appears to be chanting some sort of
+arcance words. She comes to her temple often to get away from her
+husband Zues who she despises for his many exploits with mortal women.
+~
+93 1342210056 0 30 99 1
+D1
+&wThe only way out of Hera's temple&n
+~
+~
+0 -1 15687
+S
+#15689
+&WStreets of&Y Olympus&n~
+As you walk down the gold paved streets of Olympus you are in utter awe
+of this place. The street you are on continues to the north and to the
+south. To the west a simple cobble stone path lies ahead.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe gold paved streets of olympus continue south.&n
+~
+~
+0 -1 15701
+D2
+&WThe gold paved streets of Olympus continue.&n
+~
+~
+0 -1 15686
+D3
+&yA cobblestone path leads to a cave opening.&n
+~
+~
+0 -1 15690
+S
+#15690
+&yCobblestone path&n~
+You have left the splendid streets of Olympus. You now find yourself
+wandering down a rough and rugged cobblestone path. The road twists
+and turns and you can make out little of where you are going.&n
+~
+93 1342210056 0 41 99 1
+D0
+&yThe cobblestone path heads north&n
+~
+~
+0 -1 15691
+D1
+&WThe gold paved streets of Olympus head north and south.&n
+~
+~
+0 -1 15689
+S
+#15691
+&yCobblestone path&n~
+You have left the splendid streets of Olympus. You now find yourself
+wandering down a rough and rugged cobblestone path. The road twists
+and turns and you can make out little of where you are going.&n
+~
+93 1342210056 0 40 99 1
+D1
+&yThe cobblestone path heads east&n
+~
+~
+0 -1 15692
+D2
+&yThe cobblestone path heads south&n
+~
+~
+0 -1 15690
+S
+#15692
+&yCobblestone path&n~
+You have left the splendid streets of Olympus. You now find yourself
+wandering down a rough and rugged cobblestone path. The road twists
+and turns and you can make out little of where you are going.&n
+~
+93 1342210056 0 40 99 1
+D0
+&yThe cobblestone path heads north&n
+~
+~
+0 -1 15693
+D3
+&yThe cobblestone path heads west&n
+~
+~
+0 -1 15691
+S
+#15693
+&yCobblestone path&n~
+You have left the splendid streets of Olympus. You now find yourself
+wandering down a rough and rugged cobblestone path. The road twists
+and turns and you can make out little of where you are going.&n
+~
+93 1342210056 0 40 99 1
+D0
+&wIt's to dark to tell, although you can smell smoke and feel intense heat.&n
+~
+~
+0 -1 15694
+D2
+&yThe cobblestone path heads south&n
+~
+~
+0 -1 15692
+S
+#15694
+&wCave entrance&n~
+After stepping into the darkness of the cave opening..you feel a
+little more secure that you are still alive. Just ahead you can
+hear the sound of a hammer pounding a forge.
+~
+93 1342210056 0 40 99 1
+D0
+&wYou can hear &rf&Ri&rr&Re&rs &Rraging&w just ahead ...the &Rh&Ye&Ra&Yt&w is almost to much for
+you to bare.The &Ksmoke&w saps your breath taking you down to one knee..It 
+would most likely be wise for you to proceed with caution....as the
+fury of a &Rraging &rf&Ri&rr&Re&w knows few limits.&n
+~
+~
+0 -1 15695
+D2
+&yThe cobblestone path heads south&n
+~
+~
+0 -1 15693
+S
+#15695
+&rF&Ri&re&Rr&ry &Rlava &wforge&n~
+&RYOU NOW REALISE YOU DID NOT PROCEED WITH CAUTION AS YOU TAKE THAT FIRST STEP
+THE DIRT FLOORS SEEMINGLY COLLAPSE AROUND YOU! YOU TRY HELPLESS TO ESCAPE BUT
+YOU ARE TRAPPED THERE IS NOTHING YOU CAN DO BUT BURN TO A SMOLDERING CRISP. AS
+YOU ENTER THE LAVA YOU CAN SMELL THE FLESH FROM YOUR FEET AS IT BEGINS TO BURN
+MAKING THE MOST HORRID STINCH YOU HAVE EVER SMELLED. YOUR HEART RACES WITH NOT
+A THING TO DO. SHOULD YOU TAKE YOUR LIFE NOW SHOULD YOU BURN TO DEATH OR WILL
+YOU JUST DIE FROM THE SHEER HORROR OF THE FATE THAT HAS FALLEN ON YOU?&N
+
+
+
+
+&GCrimsonMUD II Main Menu:
+
+&W1&w)&c Enter the game.&n
+&W2&w) &cConfigure character.&n
+&W3&w) &cEnter description.&n
+&W4&w) &cChange password.&n
+&W5&w) &cSet player killable flag ON.&n
+&W6&w) &cDelete this character.&n
+
+&W0&w) &rExit from CrimsonMUD II.&n
+
+       &GMake your choice:
+~
+93 1073774600 0 40 99 1
+D2
+&wThe mouth of the Cave opens up giving you a welcomed break for the infernal
+heat of this cave.&n
+~
+~
+0 -1 15694
+D5
+&RYou notice a opening of sorts in the lava pit. And remeber always
+proceed with caution.&n
+~
+~
+16 -1 15696
+S
+#15696
+&wThe hidden &rforge&w of Hephaestus&n~
+&wAfter making your way through the &rf&Ri&re&Rr&ry &Rl&Ya&Rv&Ya&w. You have stumbled onto the
+forge of the legendary immortal blacksmith Hephaestus. He serves as the god of metal workers
+all across the greek lands. As you look at him he seems a bit deformed wearing a metal face
+mask to hide his face. His size is unbelievable even the largest of mortals are pale in
+comparison to him. He wields a massive forged hammer and wears gauntlets on each of his
+wrists.&n
+~
+93 1342210056 0 40 99 1
+D4
+&KIt's to dark to tell.&n
+~
+~
+16 -1 15697
+S
+#15697
+A small shaft~
+&wAfter you battle with Hephaestus you find yourself exhausted...making this climb
+up this shaft is about all you can manage. But up above you can make out some
+form of &Ylight shinning through the darkness.&n
+~
+93 1342210056 0 40 99 1
+D4
+&wYou notice a small &Cbeam &wof &Ylight shinning &wthrough.&n
+~
+~
+16 -1 15698
+D5
+&KIt's to dark to tell.&n
+~
+~
+16 -1 15696
+S
+#15698
+A small shaft~
+&wAfter you battle with Hephaestus you find yourself exhausted...making this climb
+up this shaft is about all you can manage. But up above you can make out some
+form of &Ylight shinning through the darkness.&n
+~
+93 1342210056 0 40 99 1
+D4
+&wYou notice a small &Cbeam &wof &Ylight shinning &wthrough.&n
+~
+~
+16 -1 15699
+D5
+&KIt's to dark to tell.&n
+~
+~
+16 -1 15697
+S
+#15699
+A small shaft~
+&wYou have made it to the end of this small shaft it's clear to you now that
+you can soon end your climb upwards. Your body seems to be rejuvenated with
+the thought that you can stop this horrid climb.&n
+~
+93 1342210056 0 40 99 1
+D4
+&wThe exit from this shaft lies just up above.&n
+~
+~
+0 -1 15700
+D5
+&KIt's to dark to tell.&n
+~
+~
+16 -1 15698
+S
+#15700
+Weight of the world~
+&wAfter making it out of the shaft you are amazed at what you see before
+your eyes. One of the last titans....he stands here chained to Mount
+Caucasus...holding the weight of the world on his shoulders.&n
+~
+93 268468232 536870912 40 99 1
+D5
+&A small shaft leads down through Mount Causcasus.&n
+~
+~
+0 -1 15699
+S
+#15701
+&WStreets of&Y Olympus&n~
+Walking down the streets of Olympus is just as you would have imagined
+it. The streets are paved of gold. It's so quiet and peaceful you may
+never want to leave this place high atop Mount Olympus.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe gold paved streets leads north.&n
+~
+~
+0 -1 15709
+D1
+&WAfter a more thorough examination you realise there is a path magically
+hidden from plain sight.&n
+~
+~
+16 -1 15702
+D2
+&WThe gold paved streets of olympus continue south.&n
+~
+~
+0 -1 15689
+S
+#15702
+&wA &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbattlefield&n~
+&wAnd with one turn you now find yourself on a &rb&Rl&ro&Ro&rd&Ry &Kbattlefield...&w
+you see nothing but bloodied bodies with every step you take.  As you
+drudge through the bodies your boots become covered with &rb&Rl&ro&Ro&rd&w.  Just
+the sight of it all turns your stomach.&n
+~
+93 1879080960 0 30 99 1
+D0
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15703
+D1
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15705
+S
+#15703
+&wA &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbattlefield&n~
+&wAnd with one turn you now find yourself on a &rb&Rl&ro&Ro&rd&Ry &Kbattlefield...&w
+you see nothing but bloodied bodies with every step you take.  As you
+drudge through the bodies your boots become covered with &rb&Rl&ro&Ro&rd&w.  Just
+the sight of it all turns your stomach.&n
+~
+93 1879080960 0 30 99 1
+D1
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15704
+D2
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15702
+S
+#15704
+&wA &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbattlefield&n~
+&wAnd with one turn you now find yourself on a &rb&Rl&ro&Ro&rd&Ry &Kbattlefield...&w
+you see nothing but bloodied bodies with every step you take.  As you
+drudge through the bodies your boots become covered with &rb&Rl&ro&Ro&rd&w.  Just
+the sight of it all turns your stomach.&n
+~
+93 1879080960 0 30 99 1
+D1
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15706
+D2
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15705
+D3
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15703
+S
+#15705
+&wA &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbattlefield&n~
+&wAnd with one turn you now find yourself on a &rb&Rl&ro&Ro&rd&Ry &Kbattlefield...&w
+you see nothing but bloodied bodies with every step you take.  As you
+drudge through the bodies your boots become covered with &rb&Rl&ro&Ro&rd&w.  Just
+the sight of it all turns your stomach.&n
+~
+93 1879080960 0 30 99 1
+D0
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15704
+D3
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15702
+S
+#15706
+&wA &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbattlefield&n~
+&wAnd with one turn you now find yourself on a &rb&Rl&ro&Ro&rd&Ry &Kbattlefield...&w
+you see nothing but bloodied bodies with every step you take.  As you
+drudge through the bodies your boots become covered with &rb&Rl&ro&Ro&rd&w.  Just
+the sight of it all turns your stomach.&n
+~
+93 1879080960 0 30 99 1
+D1
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15707
+D3
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15704
+S
+#15707
+&wA &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbattlefield&n~
+&wAnd with one turn you now find yourself on a &rb&Rl&ro&Ro&rd&Ry &Kbattlefield...&w
+you see nothing but bloodied bodies with every step you take.  As you
+drudge through the bodies your boots become covered with &rb&Rl&ro&Ro&rd&w.  Just
+the sight of it all turns your stomach.&n
+~
+93 1879080960 0 30 99 1
+D3
+&wNothing but more &rb&Rl&ro&Ro&rd&Ri&re&Rd &Kbodies&n
+~
+~
+16 -1 15706
+D5
+down&KIt's to dark to tell.&n
+~
+down~
+16 -1 15708
+S
+#15708
+&wA secret escape&n~
+&KLuckily for you....you seem to have secret escape of sorts.&n
+~
+93 268468228 0 30 99 1
+S
+#15709
+&WStreets of&Y Olympus&n~
+Walking down the streets of Olympus is just as you would have imagined
+it. The streets are paved of gold. It's so quiet and peaceful you may
+never want to leave this place high atop Mount Olympus.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WA set of steps carved out of granite&n
+~
+~
+0 -1 15710
+D2
+&WThe gold paved streets leads southward.&n
+~
+~
+0 -1 15701
+S
+#15710
+&WTemple entrance&n~
+This is the entrance to the Temple of Zeus...the steps have been carved
+out of on massive granite stone.The steps lead directly into the open
+temple.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe temple foyer&n
+~
+~
+0 -1 15711
+D2
+&WThe gold paved streets leads south.&n
+~
+~
+0 -1 15709
+S
+#15711
+Temple foyer~
+You are standing in the temple foyer, just ahead you can make out a figure
+sitting on a golden throne. Peering towards the east you spy a beautiful
+garden.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WThe throne room of Zeus.&n
+~
+~
+0 -1 15717
+D1
+&WYou notice a beautiful &Ggarden.&n
+~
+~
+0 -1 15712
+D2
+&WA step of granite steps leading out of the temple.&n
+~
+~
+0 -1 15710
+D3
+&WA path towards a &Cpool.&n
+~
+~
+0 -1 15714
+S
+#15712
+&WBeautiful &GGarden&n~
+&WThis is the most beautiful garden you have ever laid eyes on. With every
+every step you take you are surrounded by flowers and plants of all types.
+Just overhead hangs a dangling plant pot with a single beautiful &Ppurple&W
+lotus in it. To your right and to your left are beautiful roses in 
+beautifully carved ivory planters.&n
+~
+93 1342210056 0 30 99 1
+D0
+&WA special private place in this small garden&n
+~
+~
+16 -1 15713
+D3
+&WThe temple foyer&n
+~
+~
+0 -1 15711
+S
+#15713
+&YAphrodites &Wabode&n~
+&WYou have entered a place surrounded by the lovely flowers and plants. In
+the center of the room sits the most beautiful woman you have ever seen.
+She sits on a lovely &yg&Yo&yl&Yd&ye&Yn &Wbed.&n
+~
+93 1342210056 0 30 99 1
+D2
+&WA Beautiful &GGarden&n
+~
+~
+0 -1 15712
+S
+#15714
+A small pathway~
+&WAfter leaving the temple foyer....you are walking down a small
+path that leads to a beautiful &Cpool&W just ahead. There
+is very little here to attract your attention. Every thing
+is so calm and peaceful.&n
+~
+93 1342210056 0 30 99 1
+D1
+&WThe temple foyer&n
+~
+~
+0 -1 15711
+D3
+&WA beautiful pool of &Cwater&W lies just ahead.&n
+~
+~
+0 -1 15715
+S
+#15715
+Base at the pool~
+A beautiful pool of crystal clear water is at the tips of you toes.
+You get down on your hands and knees to take a drink. You can make
+out your reflection in the water and a throne at the bottom.
+~
+93 1342210056 0 30 99 1
+D1
+&WThe small path leads back towards the temple foyer.&n
+~
+~
+0 -1 15714
+D5
+&CYou can make at a throne room of sorts.&n
+~
+~
+16 -1 15716
+S
+#15716
+&CUnderwater &Ythrone room&n~
+&WAfter stepping into the pool it's as you were teleported far away...
+yet you can see the surface just within reach. In the back of this
+room sits a man on a throne.&n
+~
+93 1879080968 0 30 99 8
+D4
+&CThe waters surface.&n
+~
+~
+0 -1 15715
+S
+#15717
+Throne room of Zeus~
+You are standing in the Throne room of the head of the Greek Gods the almighty
+Zeus himself. At the back of the room rests a throne of gold for which Zeus
+rests on. In this room he oversees all that happens on Mt Olympus and the
+mortal realm of Greece.
+~
+93 1342210056 0 30 99 1
+D2
+&WThe temple foyer lies to the south.&n
+~
+~
+0 -1 15711
+D5
+&WA secret place.&n
+~
+~
+16 -1 15718
+S
+#15718
+&WHidden &Ytrea&Csure &Wroom&n~
+&WWhat luck you have stumbled onto Zeus hidden treasure room...all around are
+massive piles of gold just waiting for your touch.
+~
+93 1342210056 0 1 99 1
+D4
+&WThe throne room.&n
+~
+~
+0 -1 15717
+S
+#15719
+Forest of the Basilisks~
+&WThis is a dark and dreary place...this forest has a foul stench about it.
+All around you here the sounds of basilisks.&n
+~
+93 268435464 0 30 99 1
+D0
+&GThe forest continues.&n
+~
+~
+0 -1 15720
+D3
+&GThe forest continues.&n
+~
+~
+0 -1 15667
+S
+#15720
+Forest of the Basilisks~
+&WThis is a dark and dreary place...this forest has a foul stench about it.
+All around you here the sounds of basilisks.&n
+~
+93 268435464 0 30 99 1
+D0
+&wThere is the foul stench of death just ahead.&n
+~
+~
+0 -1 15725
+D1
+&GThe forest continues.&n
+~
+~
+0 -1 15722
+D2
+&GThe forest continues.&n
+~
+~
+0 -1 15719
+D3
+&GThe forest continues.&n
+~
+~
+0 -1 15721
+S
+#15721
+Forest of the Basilisks~
+&WThis is a dark and dreary place...this forest has a foul stench about it.
+All around you here the sounds of basilisks.&n
+~
+93 1342177288 0 30 99 1
+D0
+&GThe forest continues.&n
+~
+~
+0 -1 15724
+D1
+&GThe forest continues.&n
+~
+~
+0 -1 15720
+D2
+&GThe forest continues.&n
+~
+~
+0 -1 15727
+S
+#15722
+Forest of the Basilisks~
+&WThis is a dark and dreary place...this forest has a foul stench about it.
+All around you here the sounds of basilisks.&n
+~
+93 1342177288 0 30 99 1
+D0
+&GThe forest continues.&n
+~
+~
+0 -1 15723
+D2
+&GThe forest continues.&n
+~
+~
+0 -1 15726
+D3
+&GThe forest continues.&n
+~
+~
+0 -1 15720
+S
+#15723
+Forest of the Basilisks~
+&WThis is a dark and dreary place...this forest has a foul stench about it.
+All around you here the sounds of basilisks.&n
+~
+93 268435464 0 30 99 1
+D2
+&GThe forest continues.&n
+~
+~
+0 -1 15722
+S
+#15724
+Forest of the Basilisks~
+&WThis is a dark and dreary place...this forest has a foul stench about it.
+All around you here the sounds of basilisks.&n
+~
+93 268435464 0 30 99 1
+D2
+&GThe forest continues.&n
+~
+~
+0 -1 15721
+S
+#15725
+&wA destroyed camp&n~
+&wYou have stumbled across the battered remains of a campsite. All the is
+left are the decaying bones and splintered piecef of wagons. The air here
+has such a vile stench it takes your breath away.&n
+~
+93 268435464 0 30 99 1
+D0
+&wA mound of some kind.&n
+~
+~
+16 -1 15728
+D2
+&GThe forest continues.&n
+~
+~
+0 -1 15720
+S
+#15726
+Forest of the Basilisks~
+&WThis is a dark and dreary place...this forest has a foul stench about it.
+All around you here the sounds of basilisks.&n
+~
+93 268435464 0 30 99 1
+D0
+&GThe forest continues.&n
+~
+~
+0 -1 15722
+S
+#15727
+Forest of the Basilisks~
+&WThis is a dark and dreary place...this forest has a foul stench about it.
+All around you here the sounds of basilisks.&n
+~
+93 268435464 0 1 99 1
+D0
+&GThe forest continues.&n
+~
+~
+0 -1 15721
+S
+#15728
+&wA nesting mound&n~
+&wPerhaps this is what led to the destruction of that campsite. It appears
+they set up camp close to a nesting mound. All about small basilisks 
+roam. It might be a good idea for you to leave here at once.&n
+~
+93 268435464 0 30 99 1
+D2
+&wA destroyed campsite.&n
+~
+~
+0 -1 15725
+S
+$~
+#999999

@@ -1,0 +1,421 @@
+#500
+obj sponge absorbant~
+32767
+an absorbant sponge~
+An absorbant sponge is lying here.~
+~
+13 0 0 16385
+0 0 10 0
+1 5 5
+#501
+obj Stone brown rock~
+32767
+A huge rock~
+A brown stone is partially blocking the path.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#502
+obj bookshelves bookshelf~
+32767
+a bookshelf~
+Bookshelves line the walls.~
+~
+15 0 0 0
+500 0 0 0
+100 5 5
+#503
+obj tome book page~
+32767
+a tome~
+A huge tome lies here waiting to be read.~
+~
+16 0 0 0
+0 0 10 0
+1 5 5
+#504
+obj key xanth ivory~
+1
+an ivory key~
+Someone has carelessly left an ivory key lying here.~
+~
+18 262144 0 1
+0 0 10 0
+1 5 5
+#505
+obj stone blackened~
+32767
+a blackened stone~
+a blackened stone lies here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#506
+obj rosetta stone~
+1
+a rosetta stone~
+A worthless chipped stone is partially buried in the dirt.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+E
+rosetta stone~
+                    /^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\
+                   /    Crimson Rosetta Stone         \
+            /\    /                                    \
+           /  \  /   Being a conversion from            \
+          /    \/                  Crimson to         |\ |
+     /\  /                         Xanthian           | \|
+    /  \/                                            /
+   /     ABCDEFGHIJKLMNOPQRSTUV                      \
+  /     ~!K?*+k,#yYNs]@7DP<1)x                        \
+ /                                                     \
+|                 WXYZabcdefghijklmnopqr                |
+|                 2vnS#/uA%dr[:j3QXq$M5f              _/
+|                                                    |
+|                        stuvwxyz0123456789.,        |
+|                        >4(RHh;zt8VpZTFUagCJ        \
+|                                                     \
+|                                                 /\  /
+|                                                /  \/
+|        ______                                 /
+| /\    /      \                                \
+|/  \  /        \                                \/\
+     \/          \                                  \
+                 /                                  /
+                /                        _______   |
+               /                        /       \/\|
+              /                    __/\/            
+              \                   /
+               \_________________/
+
+~
+#507
+obj tube cylinder long~
+100
+a long cylindrical tube~
+a long cylindrical tube is rolling around here~
+~
+15 0 0 1
+100 1 10 0
+1 5 5
+#508
+obj nugget gold~
+1
+a gold nugget~
+a valuable gold nugget has been left lying here.~
+~
+12 402915537 0 16385
+0 0 10 0
+1 5 5
+A
+27 -1
+A
+38 1
+#509
+obj vine climbing~
+32767
+a climbing vine~
+a vine has grown up the portculis wall.~
+~
+25 0 0 0
+628 75000 10 0
+1 5 5
+E
+vine~
+Normally vines grow with a long thin stem that climbs a support.  Other than
+the stem, this vine fits the norm.  That is if a girth of 1 foot is normal!
+Its obvious a person could climb this vine.
+~
+#510
+obj black button~
+32767
+a generic button~
+the black button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#511
+obj red button ~
+32767
+a red button~
+the red button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#512
+obj green button ~
+32767
+a green button~
+the green button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#513
+obj brown button ~
+32767
+a brown button~
+the brown button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#514
+obj blue button ~
+32767
+a blue button~
+the blue button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#515
+obj purple button ~
+32767
+a purple button~
+the purple button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#516
+obj yellow button ~
+32767
+a yellow button~
+the yellow button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#517
+obj gray button ~
+32767
+a gray button~
+the gray button is out.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#518
+obj button generic blue~
+32767
+a generic button one~
+a generic blue button is here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+E
+race button~
+the race button is out.
+~
+#519
+obj button generic purple~
+32767
+a generic button two~
+a generic purple button is here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+E
+generic button~
+the generic button is out.
+~
+#520
+obj button generic green~
+32767
+a generic button three~
+a generic green button is here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#521
+obj rope~
+32767
+a length of rope~
+A rope is here suspended in mid air.~
+~
+25 0 0 1
+8326 0 10 0
+1 5 5
+#522
+obj lever ~
+32767
+a lever~
+a lever protrudes from the wall.  The lever is up.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+#523
+obj cold coin~
+32767
+a gold coin~
+One miserable gold coin.~
+~
+20 0 0 1
+0 0 10 0
+1 1 5
+#524
+obj box pandora's~
+1
+a box~
+a box with gold inlay has been pushed against the wall.~
+~
+15 134217808 0 0
+500 13 0 0
+100 5 5
+#525
+obj sign worn wooden~
+1
+a sign~
+A weather worn sign has been placed here.~
+~
+13 0 0 0
+0 0 10 0
+1 5 5
+E
+sign worn~
+                        NORTH VILLAGE
+                           |  |
+                           |  |
+                      _____|  |_____
+              CASTLE  _____    _____  MAGIC PATH
+                           |  |
+                           |  |
+                           |  |
+                        CASTLE ROOGNA
+~
+#526
+obj key xanth gate~
+1
+a gate key~
+a key lies here half buried in the dirt.~
+~
+18 262144 0 16385
+0 0 10 0
+1 5 5
+#527
+obj shades glasses specs~
+1
+a cool set of shades~
+A cool set of shades, obviously lost, lies here.~
+~
+9 136314952 0 17
+15 0 0 0
+5 1 25000
+E
+shades glasses specs~
+   Other than being extremely cool and heavier than you would expect, they
+appear to be normal glasses.
+~
+#528
+obj plank board~
+2
+a plank~
+A six foot plank has been tossed on the ground.~
+~
+13 262144 0 1
+0 0 10 0
+50 5 5
+E
+plank board~
+Its six feet in lenght.  Its probably a plank off an old bridge.
+~
+#529
+obj copper shield~
+100
+a copper shield~
+A copper shield is lying  here.~
+~
+9 0 0 513
+5 0 10 0
+8 300 75
+#530
+obj legguards copper leg~
+100
+a pair copper leg guards~
+A pair of copper leg guards are lying here.~
+~
+9 0 0 33
+3 0 10 0
+10 800 200
+#531
+obj armguards copper guards~
+100
+a pair of copper arm guards~
+A pair of copper arm guards are lying here.~
+~
+9 0 0 257
+4 0 10 0
+8 900 150
+#532
+obj breastplate copper plate~
+100
+a copper breast plate~
+A copper breast plate is lying here.~
+~
+9 0 0 9
+5 0 10 0
+18 1000 400
+#533
+obj boots copper~
+100
+a pair copper boots~
+A pair of copper boots is lying here.~
+~
+9 0 0 65
+8 0 10 0
+9 15000 5000
+A
+14 15
+#534
+obj pike copper~
+100
+a copper pike~
+A 10 foot copper pike has been rammed into the floor.~
+~
+5 1052672 0 8193
+0 4 7 3
+9 20000 15000
+A
+19 1
+A
+18 1
+#535
+obj helm copper~
+32767
+a copper helm~
+A copper helm is lying here.~
+~
+9 65536 0 17
+7 0 0 0
+10 5000 1800
+#536
+obj gloves copper~
+100
+a pair of copper gloves~
+A pair of copper gloves is lying here.~
+~
+9 0 0 129
+4 0 10 0
+8 900 150
+#537
+obj crownlet platinum~
+5
+a platinum crownlet~
+A platinum grownlet has fallen and lies here pulsating.~
+~
+26 65601 0 17
+30 5 5 10
+10 5000 1800
+$~
+#999999

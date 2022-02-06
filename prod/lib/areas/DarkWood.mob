@@ -1,0 +1,312 @@
+#14000
+mob Kiru~
+The kiru~
+A ferocious Kiru is standing here, considering how he should kill you.
+~
+ You see a large creature that looks like a vampire but it has great
+leathery wings like a dragon. His eyes are bright red and his scaly body is
+pitch black. From what you remember of the tales of the first great war these
+creatures rode on blood panthers and led squadrons of orcs into villages and
+literally wiping out scores of men and women.
+~
+65546 32769 136249361 128 -1000 S
+20 20 24 100d7+450 5d5+15
+5000 62760
+8 8 1
+0 0 19 19 16 18 16 17
+SKILL=SPELL_BLINDNESS 66
+SKILL=SPELL_BURNING_HANDS 66
+SKILL=SPELL_COLOUR_SPRAY 66
+SKILL=SPELL_CURSE 66
+SKILL=SPELL_ENERGY_DRAIN 66
+SKILL=SPELL_FIREBALL 66
+SKILL=SPELL_LIGHTNING_BOLT 66
+SKILL=SPELL_MAGIC_MISSILE 66
+SKILL=SPELL_SLEEP 66
+#14002
+mob kiru master~
+kiru master~
+The Kiru Master is standing here, planning a raid on a nearby village.
+~
+The Kiru Master is a large vampiric looking thing with pitch black scales
+and large dragon like wings. His red eyes look very wise but also very deadly. 
+~
+262156 32769 136249361 136 -1000 S
+30 13 5 70d19+1000 10d3+10
+35000 185244
+8 8 1
+0 0 19 19 19 17 15 17
+SKILL=SPELL_BLINDNESS 80
+SKILL=SPELL_BURNING_HANDS 80
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_CURSE 80
+SKILL=SPELL_ENERGY_DRAIN 80
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_MAGIC_MISSILE 80
+SKILL=SPELL_SLEEP 80
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14003
+mob orc soldier~
+orc soldier~
+A mean looking orc soldier is standing here.
+~
+A gross looking creature with dark leathery skin and blood stains all over his
+filthy body. He grunts and looks very upset at having to be on guards duty when
+he could be out killing women and children.
+~
+8 1 136249361 0 -1000 S
+20 29 34 10d15+50 4d4+0
+750 46000
+8 8 1
+17 0 14 15 11 12 9 12
+#14004
+mob ghost marius~
+ghost marius~
+The ghost of the once great magician Marius is floating around you.
+~
+You see a tall man with big brown eyes. He looks very noble but sad as well.
+You can tell that he had many things on his mind when he died because of all
+the wrinkles on his forehead.
+~
+262154 1 136249361 10 1000 S
+34 9 -7 15d19+4000 12d10+10
+75000 203000
+8 8 1
+0 0 19 20 18 17 15 14
+#14005
+mob tree willow~
+a willow tree~
+A large willow tree looms over you and seems to beckon you to come to
+it.
+~
+there is something strange about this willow tree. It looks just like a
+normal willow tree except it is almost twice the size of any that you have
+ever seen before, but the strange thing about it is that it seems to move
+by itself, or maybe it's just your eyes playing tricks on you.
+~
+72 1 136249361 34078720 -249 S
+35 8 -10 64d19+4000 20d7+2
+85000 212345
+8 8 1
+0 0 19 20 18 17 18 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#14006
+mob witch~
+a witch~
+A witch is upset that you have found her hiding place and attacks you.
+~
+An ugly looking thing with warts all over her face and a body odor that you
+will never be able to forget is upset that you have found her secret hiding
+place and is now determined to kill you for your stupidity.
+~
+262154 32769 136249361 128 -1000 S
+34 9 -7 400d8+200 10d12+10
+75000 207937
+8 8 2
+0 0 19 20 17 19 17 18
+SKILL=SPELL_BLINDNESS 80
+SKILL=SPELL_BURNING_HANDS 80
+SKILL=SPELL_COLOUR_SPRAY 80
+SKILL=SPELL_CURSE 80
+SKILL=SPELL_ENERGY_DRAIN 80
+SKILL=SPELL_FIREBALL 80
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_MAGIC_MISSILE 80
+SKILL=SPELL_SLEEP 80
+#14007
+mob roots~
+some roots~
+Some roots are jutting out of the ground and seem to beckon you towards
+it.
+~
+You see some roots that are sticking out of the ground. They seem to move by
+themselves.
+~
+10 1 136249361 0 -1000 S
+13 26 31 10d10+130 5d3+5
+1000 3925
+8 8 1
+0 0 14 14 12 12 9 10
+#14008
+mob serpant black~
+a black serpant~
+A large black serpant thrusts his head out of the river and tries to
+bite you.
+~
+A large black snake with fierce red eyes and a body that looks like it might be
+30 feet long opens its mouth and shows you it's 5 inch long and poisonous
+fangs.
+~
+122890 1 136249361 0 -1000 S
+21 19 23 60d19+1000 18d2+5
+6500 61885
+8 8 1
+0 0 17 17 15 15 15 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14009
+mob blood panther~
+a blood panther~
+A blood panther is stealthily stalking his prey.
+~
+You see something that looks exactly like a normal panther but it is twice the
+size of a traditional panther and has a blood red coat. You catch a glimpse of
+his teeth and you feel like fainting.
+~
+16777224 1 136249361 0 -1000 S
+30 13 5 500d10+200 10d5+0
+30000 160000
+8 8 1
+0 0 19 19 17 17 14 13
+ATTACK_SKILL=90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14010
+mob blood wolf~
+a blood red wolf~
+A hungry blood red wolf is looking for something to kill.
+~
+You see a mean looking wolf with huge teeth and a blood red coat. The red color
+shifts and changes into different shades of red, making it look like it is wet.
+~
+16777224 1 136249361 0 -1000 S
+10 29 34 15d6+80 5d4+0
+700 3250
+8 8 1
+0 0 14 12 12 11 9 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14011
+mob orc~
+a mean orc~
+A mean looking orc has just had a big meal and is lazily standing here.
+~
+You see a mean looking orc who has just had a big meal and looks like is
+could doze off any minute now.
+~
+12 1 136249361 0 -1000 S
+20 30 35 15d5+15 5d3+0
+375 46000
+8 8 1
+17 0 13 14 11 11 10 12
+#14012
+mob spirit~
+a wandering spirit~
+A wandering spirit of a sad looking man floats here.
+~
+You see a sad looking man who looks like he is looking for something.
+~
+8 1 136249361 0 -1000 S
+20 20 24 75d19+1000 20d1+8
+5250 60306
+8 8 1
+0 0 16 17 15 16 15 12
+#14013
+mob Carnage~
+Carnage~
+Carnage the god of despair is meditating here.
+~
+You see a huge giant with noble features and a sharp mind. He looks very
+cunning and devious, yet patient. he looks like he is planning something very
+very bad, so far he has captured the Old Forest and it looks like he is
+possibly planning to capture the Kingdom of Arnath next.
+~
+319566 294913 136249361 136 -1000 S
+42 1 -26 100d29+8000 9d4+5
+935539 520000
+8 8 1
+0 5 22 24 22 20 19 18
+SKILL=SPELL_BLINDNESS 99
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 94
+SKILL=SPELL_HARM 99
+SKILL=SPELL_INVISIBLE 99
+SKILL=SPELL_LIGHTNING_BOLT 80
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_SHOCKING_GRASP 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_SUMMON 95
+SKILL=SPELL_WORD_OF_RECALL 90
+SKILL=SPELL_REMOVE_POISON 50
+SKILL=SKILL_STEAL 99
+SKILL=SKILL_HUNT 90
+SKILL=SPELL_SILENCE 72
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14014
+mob troll ugly~
+an ugly troll~
+A huge and ugly troll is upset that you have entered his lair.
+~
+You see a huge and ugly troll twice your size. He was obviously trying to
+get some beauty sleep when you barged in on his home unannounced. So it
+looks like he is going to have to kill you.
+~
+262152 1 136249361 128 -1000 S
+25 15 18 20d19+1000 5d5+10
+20000 74000
+8 8 1
+10 0 17 19 16 16 13 16
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#14015
+mob Beriz demon~
+Beriz the Demon~
+Beriz the Demon is crouched here, thinking of ways to corrupt you
+~
+You see a huge demon, his eyes are blood red and his skin looks to be charred
+black. He looks like he is about to eat you alive or at least cut you up into
+little pieces and play with your body parts as you are forced to watch in
+terror.
+~
+319498 32769 136249393 168 -1000 S
+39 4 -20 75d20+4500 4d9+10
+400000 236000
+8 8 0
+7 0 21 23 21 20 18 17
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+$~
+#999999

@@ -1,0 +1,2754 @@
+#1900
+The Deer Trail~
+A small animal trail winds through the dense forest ahead of you.
+The trail is very narrow with no end in sight.
+~
+22 1048836 536870912 1 99 3
+D0
+A small trail winds through the woods.
+~
+~
+0 -1 1942
+D2
+A road.
+~
+~
+0 -1 4939
+S
+#1901
+Dusty Road~
+A dust covered trail runs through what looks to be a deserted
+mining town.  The buildings show some need of whitewash, but 
+for the most part they look warm and inviting.  You wonder how 
+such out of the way businesses can stay open with the lack of 
+people traveling through the region.
+~
+22 1343225856 536870912 1 99 1
+D0
+A dusty road leads through the village.
+~
+~
+0 -1 1944
+D2
+A trail starts through the woods.
+~
+~
+0 -1 1943
+S
+#1902
+The Mine Trail~
+The dust covered road leads from town to the entrance of the 
+once very profitable mine.  Many a laborer worked the mines
+south of here till the diggers broke through the wall into 
+the realm of the duergar dwarves.
+Tales of the riches gained from the mines spread to every 
+nation in the land when dusk was a well traveled town.
+~
+22 1343225856 536870912 1 99 4
+D0
+A trail leads to a dark mine.
+~
+~
+0 -1 1947
+D2
+A dusty road leads through a village.
+~
+~
+0 -1 1946
+S
+#1903
+Entrance to the Mine~
+The entrance to the mine lies before you.  Strong wooden planks brace the
+once much used walls of this dark mine.  Many a jewel was plundered 
+from the wealthy walls of mother earth long ago, now cobwebs hang from
+every available surface.
+~
+22 1074790924 536870912 1 99 0
+D1
+east
+~
+~
+0 -1 1948
+D4
+Duergar mines.
+~
+~
+0 -1 5350
+S
+#1904
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343226112 536870912 1 99 5
+D0
+A long ascent begins up the mountains.
+~
+~
+0 -1 1949
+D3
+A path begins through the hills.
+~
+~
+0 -1 1984
+S
+#1905
+Imya's Private Cabin~
+A small comfortable abode is before you.  No lavish decorations 
+cover the walls, but an enticing elegance strikes you none the less
+by the rustic beauty of this small log cabin.
+~
+22 1343226372 536870912 1 99 0
+D0
+The shop is ahead.
+~
+~
+0 -1 1906
+S
+#1906
+Imya's Trade and Barter~
+The smell of spices and goods fill your nostrils as you enter
+this small trade good shop.  Necessities for survival are 
+traded and sold by the lovely lady behind the counter.
+~
+22 1343225864 536870912 1 99 0
+D1
+The road is ahead. 
+~
+~
+0 -1 1944
+D2
+A small cabin is ahead.
+~
+~
+0 -1 1905
+S
+#1907
+Tiffany's Bake Goods~
+The smell of rich coffee and baked sweet rolls leaves you breathless
+as you enter this charming little cafe.  Cedar tables and chairs line 
+the walls of this quaint little shop.  A beautiful lady loving rubs a
+deep shine into the varnish on the countertop near the ovens.
+~
+22 1343225864 536870912 1 99 0
+D1
+A small cabin is ahead.
+~
+~
+0 -1 1908
+D3
+The road is ahead.
+~
+~
+0 -1 1944
+S
+#1908
+Tiffany's Comfy Cabin~
+Delicate lace and embroidery cover the walls of this log cabin.  A charming
+brass bed offers a beautiful view of the mountains northeast of the village
+through the stained bay window.  A charming ornate oak table with chairs 
+offers you a place to rest.
+~
+22 1343226376 536870912 1 99 0
+D3
+The smell of food draws you.
+~
+~
+0 -1 1907
+S
+#1909
+The Sleepy Dream~
+A small comfortable inn rest snuggled near the beginning of the rugged
+mountains to the northeast.  A soft rest is promised within the strong
+timbers of this immense inn.  Banners of from many of the crusades led
+by the party of Rivenberg decorate the mantle above the cozy fireplace.
+A lovely lady steps from inside of one of the rooms to greet you.
+
+~
+22 1360117772 536870912 1 99 0
+D0
+A small cabin is before you.
+~
+~
+0 -1 1910
+D3
+The road leads you back to adventure.
+~
+~
+0 -1 1945
+S
+#1910
+Anna's Cabin~
+This cabin is decorated sparsely.  A few personal items lie in a corner near
+the bed but little else adorns the room.  It seems very sparse an abode for 
+someone who was once as famous as one of the companions of Rivenberg to live
+here. 
+~
+22 1343226380 536870912 1 99 0
+D1
+A small trail leads outside.
+~
+wall~
+31 1900 1911
+D2
+The inn makes you feel tired.
+~
+~
+0 -1 1909
+S
+#1911
+The dark wooded path~
+A dark path snakes its way through the forest to the beginning of the
+climb up through the mountains ahead.  Little light ever seems to touch
+this heavy forest.  It seems odd that so dense a plant life can grow 
+where little sun every shines.
+~
+22 1343226112 536870912 1 99 4
+D1
+A path leads through the hills.
+~
+~
+0 -1 1912
+D3
+A small cabin is before you.
+~
+wall~
+31 1900 1910
+S
+#1912
+Path into the Mountains~
+A path winds its way toward the towering mountain pass before you.  Rocks and
+dried up tree limbs seem to hamper your every step.  Climbing is slow going
+at best and it has become impossible to travel in a group now.  The walls of 
+the pass seem to close in more with every step.
+~
+22 1343226112 536870912 1 99 4
+D0
+A path leads through the hills.
+~
+~
+0 -1 1983
+D3
+A trail turns to a dark wooded path.
+~
+~
+0 -1 1911
+S
+#1913
+Outside the Cave~
+A dark opening in the mountain face stops you cold in your tracks.  Finally, 
+the ledge has widened abit here.  A strange crunching noises underfoot 
+startles you from your trance.  Hundreds of bones litter the ledge before
+the cave entrance. Not to mention the huge pile of bones way down below the
+ledge.
+~
+22 1343225856 536870912 1 99 5
+D0
+The climb continues through the mountains
+~
+~
+0 -1 1958
+D1
+The cave mouth beckons you onward.
+~
+~
+0 -1 1915
+D2
+The ledge becomes very narrow ahead.
+~
+~
+0 -1 1957
+D3
+The footing looks very treacherous that way.
+~
+~
+0 -1 1914
+S
+#1914
+The Slip~
+The ledge gives out beneath you and sends you plummeting down the face of the
+
+
+
+
+
+
+
+Mountain!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+C*R*U*N*C*H!!!!!!
+~
+22 1048582 0 1 99 5
+S
+#1915
+Cave of the Ekunda~
+The smell alone from this cave is enough to gag a hundred maggots.
+Bones from hundreds of mortals litter the floor in every direction.
+A gross pool of urine flows out the entrance past your legs.  A dark
+hulking shadow looms in one corner of this huge cavern.
+~
+22 1343225864 536870912 1 99 0
+D1
+a larger cave opening
+~
+~
+16 -1 20100
+D3
+The cave exits here.
+~
+~
+0 -1 1913
+S
+#1916
+The Guarded Gate~
+The long hard climb through the rugged mountains has finally brought
+you to the front of an intricately detailed stone gatehouse.  Each 
+individual stone of the building depicts some sort of scene from 
+ancient history.  The gate house blocks your only path over the ravine.
+The path itself looks unsteady at best and ends at the entrance to an
+unforgettable site..... How could this exist and you never had heard of
+it.  It is beautiful.  The stones themselves dance and meld to form a 
+hypnotic dance on your eyes.  Beautiful plate glass fills every window
+of it.  Light of every shade is reflected along the face of the ravine
+from the sunlight bouncing off of the windows.  The mansion you see is
+Gothic in style and lovely to behold.  Again how could anything this 
+spectacular exist and people never speak of it in towns and taverns.
+~
+22 1343225856 536870912 1 99 5
+D1
+The Bridge of Sorrows beckons.
+~
+gate~
+11 1901 1917
+D2
+The trail starts down the mountain.
+~
+~
+0 -1 1965
+S
+#1917
+The Bridge of Sorrow~
+Small stones cascade from the underside of the natural bridge as you 
+attempt to cross it.  Sharp winds threaten to rip you from on top of 
+the stone walkway.  As you reach midway.... You pause.....Your very
+soul begins to ache...... A pain and sorrow the likes never known
+before to mortal man grips at your very essence.  What kind of agony
+and grief is this... Tears pour from your eyes as a vision of love is 
+forever torn asunder before you....OH!!!... the pain!!.. God how can
+this continue how can I go on becomes your only thought...All of a 
+sudden a beautiful woman is before you... She looks at herself and 
+screams in sheer terror, agony.........and..grief.  You are stunned..
+for a moment... then.. Oh god No!!!... she jumps... You desperately
+reach for her but your fingers pass through her form.... NO!! Why 
+does it have to end like this.......
+~
+22 1477444609 536870912 1 99 5
+D0
+The ravine looks real deep.
+~
+~
+0 -1 1918
+D1
+The entrance to the manor beckons you.
+~
+door~
+9 0 1924
+D2
+The ravine looks real deep.
+~
+~
+0 -1 1918
+D3
+The gate leads away from the manor.
+~
+gate~
+15 1901 1916
+S
+#1918
+The Fall~
+Oh god.. grab me .. please guys help me.. 
+
+
+
+
+
+Please guys help me...
+
+
+
+
+
+This can't happen to me... 
+
+
+not now....
+
+
+
+OH GOD!!!!!!!!!!!!!!!
+
+
+
+NO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+C*R*U*N*C*H
+~
+22 1048582 0 1 99 5
+S
+#1919
+The Dining Hall~
+An embroidered lace table cloth covers one of the most beautiful
+oak tables you have ever seen.  The legs of the table are detailed
+to a stunning degree.  Huge bay windows overlook the ravine and the
+gorgeous countryside for miles.  Twenty two ornate chairs are arrayed
+around the gorgeous fifteen foot table.
+~
+22 1343225864 536870912 1 99 0
+D0
+The Dining Hall extends further north.
+~
+~
+0 -1 1985
+D2
+The Foyer is south of here.
+~
+~
+0 -1 1998
+S
+#1920
+The Kitchen~
+Pots hang down from above as you enter a giant kitchen.  A group 
+of giant fireplaces cover one wall for baking and for boiling of 
+foods.  The kitchen is kept surprisingly clean to be so big and 
+well stocked.
+~
+22 1343225864 536870912 1 99 0
+D3
+A room with tables and chairs.  A dining room, perhaps?
+~
+~
+0 -1 1985
+D5
+A dark, musty room with rows of shelves.
+~
+~
+0 -1 1929
+S
+#1921
+Hall of Sorrow~
+As you enter this hallway, a sudden pain stabs your chest.  An image
+of despair forms in your mind.  The walls of the hall start to shift 
+and mock you.  Your eyes begin to betray you.  You turn to run out of
+the room but the door isnt there.  PAIN! lances through your brain.
+You close your eyes to the sight of 4 beautiful young ladies picking
+flowers in a field far from this place.  The sun sets quickly..
+Day has become night..  An evil form rises from the field.  Flesh hangs
+from his bones.. Sharp fangs extend and start ripping the women to pieces.
+Blood flies in every direction.. The monster.. The monster does not kill
+them to feed but for pleasure... It howls with delight... The women shriek
+curses at it with their dying breaths but to no avail... What evil is this.
+~
+22 1343227913 536870912 1 99 1
+D0
+The portrait hall is ahead
+~
+panel~
+25 0 1997
+D2
+The hall of sorrow continues
+~
+~
+0 -1 1987
+S
+#1922
+The Dark Vault~
+The vault appears to be very small but the gold is piled all through
+the room.  Generations of victims have contributed to this dark horde.
+~
+22 1477443597 536870912 1 99 0
+D2
+The portrait hall continues.
+~
+panel~
+31 1902 1992
+S
+#1923
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225868 536870912 1 99 0
+D0
+A sad-looking hall.
+~
+panel~
+25 0 1987
+D1
+The portrait hall continues.
+~
+~
+0 -1 1988
+D3
+The Foyer lies before you.
+~
+~
+0 -1 1999
+S
+#1924
+The Foyer~
+As you enter this room of the mansion, the sheer elegance and beauty
+of it leaves you speechless.  The ivory marble floor contrasts
+stunningly with the ebon stairposts of the grand staircase to the east.
+Marble steps lead to a landing on the next floor of the mansion.  Off
+to the south east of this room, a group of stain-glass doors lead out
+into a lush garden.  Behind the massive stairwell is a brightly lit
+hallway filled with priceless works of art.  A huge doorway to the north
+leads into a beautiful dining room which beckons to you while to the 
+south, another doorway leads into an enchanting tea room.
+~
+22 1343225868 536870912 1 99 0
+D0
+The Foyer continues north.
+~
+~
+0 -1 1998
+D1
+The Foyer continues east.
+~
+~
+0 -1 2000
+D2
+The Foyer continues south.
+~
+~
+0 -1 2002
+D3
+The Bridge of Sorrow
+~
+door~
+9 0 1917
+S
+#1925
+The Tea Room~
+Beautiful stain-glass windows overlooking the ravine catch your eye
+as you enter this enchanting little room.  Softly cushioned teak
+chairs call to you to rest your weary legs from the rough climb
+through the now beautiful looking mountains.  French-style doors
+give an amazing view of the rich garden growing on the backside 
+of the manor house.
+~
+22 1343225864 536870912 1 99 0
+D0
+The Tea Room continues north.
+~
+~
+0 -1 2003
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1976
+S
+#1926
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519364 536870912 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1973
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1966
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1977
+D3
+The Foyer
+~
+~
+0 -1 2001
+S
+#1927
+The Fountain~
+A giant elegant fountain bubbles joyeously in this part
+of the beautiful garden.  Tiny drops of water drop all 
+around created by the spray thrown from the top of 
+the stone fountain.
+~
+22 1347420168 536870912 1 99 0
+D0
+The plants look very dangerous that way...
+~
+~
+0 -1 1928
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1982
+D2
+The plants look very dangerous that way...
+~
+~
+0 -1 1928
+D3
+The plants look very dangerous that way...
+~
+~
+0 -1 1928
+S
+#1928
+Lair of the Deep Worm~
+The garden seems to close in on you in this room.
+The plants seem to come to life and start pulling on 
+your arms and legs.  You scream only to have a vine rush
+down your throat.  The ground opens up to a giant maw below
+you.  It starts pulling you down... what ... stop ...
+
+
+
+The teeth from the maw crunch down on your armor....
+
+
+
+Your eyes explode out of your head from the pressure caused 
+by the vines ensnarling you...
+
+
+
+The light goes dim.
+~
+22 269484046 0 1 99 3
+S
+#1929
+The Pantry~
+The pantry is lined with wall to wall shelving.  Each of the shelves is 
+teaming with items that could be thrown together to make any entree 
+known to mortal man.  The further back you travel in to the pantry the
+stranger the stuff gets though.  Many items on the shelf near the back
+are indescribable and sure do not look edible.
+~
+22 1343225864 536870912 1 99 0
+D2
+A eerie glow beckons you.
+~
+shelf~
+25 0 1930
+D4
+Upwards from here looks like a kitchen.
+~
+~
+0 -1 1920
+S
+#1930
+The Vast Cauldron~
+The floor of the room sinks down into the soft earth.  An incredibly
+large cauldron fills almost the entire room.  What on god's earth
+could need something like this.  The stench of the boiling substance
+starts to fill your nostrils as you get closer to the vast pot.  As
+you peer over the sides of the immense cauldron, pieces of human flesh
+and animal parts float to the surface only to immerse again in the 
+bubbling substance.  Amazingly enough the cauldron is cool to the 
+touch even though the substance insides boils.  You involuntarily 
+retch from the stench into the pot
+~
+22 1343225865 536870912 1 99 0
+D0
+The pantry lies ahead.
+~
+shelf~
+25 0 1929
+S
+#1931
+The Velvet Hall~
+The top of ebon stairs deposits you on to a velvet landing.
+Rich colorful taperstries hang from the ceiling along the walls
+delighting you with their beauty.  Three elaborately decorated 
+doors entice you with the treasures they must hide from your eye.
+The soft rugs covering the floor beg to you to lay down and rest.
+~
+22 1343225868 536870912 1 99 0
+D0
+The Velvet Hall continues.
+~
+~
+0 -1 2004
+D1
+A very extravagant bedroom.
+~
+door~
+9 0 1932
+D2
+The Velvet Hall continues
+~
+~
+0 -1 2005
+D5
+A foyer
+~
+~
+0 -1 2000
+S
+#1932
+The Elaborate Bedroom~
+A stunning four poster bed fills the center of the room.  Around the
+walls chest and dressers leave plenty of room for the weary to 
+store their possessions.  The windows in the room give you an excellent
+view of the surrounding countryside.
+~
+22 1343225864 0 1 99 0
+D0
+The pungent scent of blood assaults your nostrils.
+~
+door~
+31 1904 1934
+D3
+A velvet-lined hallway.
+~
+door~
+9 0 1931
+S
+#1933
+The Chamber of Jundar the Dark One~
+Your eyes are drawn inexorbantly to the coffin dominating one side
+of the room.  The lid creaks open.  A huge beastly sized arm reaches
+from inside the rich oak coffin.  You notice for the first time the
+massive crest painted on the wall.  Could this be one of the fabled 
+members of the Companions of Rivenberg.  A more horrible fate you
+could not imagine.  Then the coffin opens completely........
+~
+22 1343225865 536870912 1 99 0
+D0
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2009
+S
+#1934
+The Blood-Soaked Hall~
+The hall you have entered is inlaid with teak.  Unfortunately, most of
+the beauty of the wood is lost in the fact that the floors, walls, ...
+even lord help the ceilings are covered in dry blood.  
+~
+22 1343225868 536870912 1 99 0
+D1
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2011
+D2
+A very extravagant bedroom.
+~
+door~
+31 1904 1932
+S
+#1935
+The Lair of the Shriek~
+This room appears to be a giant cave of all things.  How or why
+would anyone build a giant cave inside of this beautiful manor.
+Your feet feel sticky and you look down to find that you are in
+a giant pile of guano.  A giant shadow dwarves you from above....
+~
+22 1343225865 536870912 1 99 0
+D3
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2011
+S
+#1936
+LeTrast's Bedroom~
+This room seems to go with the rest of the manor... not this awful
+back hallway you have discovered.  The bed in the center of the room
+is bigger than even the ones you saw earlier if at all possible.  
+Elaborate dressers and a desk are all that adorn this lavish room.
+~
+22 1343225864 536870912 1 99 0
+D3
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2009
+S
+#1937
+Crypt of the Vatang~
+The stench of decay fills your nostrils.  A coffin twice the size of that
+needed by any human dominates the main part of the room.  The rich detail
+on the coffin does not hint at the dangers that lie within it.  All...
+~
+22 1343225864 536870912 1 99 0
+S
+#1938
+The Stained Hall~
+The teak wood panels were probably once the most beautiful in all
+the realms, but the splatter of the blood on the walls though detracts
+horribly from any beauty this place may once have held.
+~
+22 1343225865 536870912 1 99 0
+D2
+The hallway continues.
+~
+~
+0 -1 2012
+D5
+The stairs lead down.
+~
+~
+0 -1 2008
+S
+#1939
+The Dark Library~
+This room is wall to wall books.  Backings of many various colors and 
+designs fill the shelves floor to ceiling.  The shelves must contain
+hundreds of titles including some less than tasteful works.  Oddly 
+enough no dust covers this room and it looks well used.
+~
+22 1343225864 0 1 99 0
+D2
+The hallway leads out.
+~
+~
+0 -1 2015
+S
+#1940
+The Chapel of Blood~
+This room is a small but ornately decorated chapel.  Pews for about 
+thirty or so people all face toward a cedar and teak pulpit which is
+inlaid with silver figures of gods.  As you look around,..Pictures 
+pierce your thoughts.  You see Tristan SoulRavage burst through the 
+doors of the chapel.  Pain lances through your head.  You see
+Tristan snarl in rage at the sight of the monster from the paintings.
+Then from behind the monster Lady Gabrielle steps into the light.
+Gabrielle faces Tristan with tears of blood in her eyes.  You snap 
+back into reality and your thoughts clear.  Odd you can still see
+Gabrielle before you.  You rub your eyes.
+~
+22 1343225865 536870912 1 99 0
+D2
+A small room is south
+~
+~
+0 -1 1941
+D3
+The hall leads out of hell.
+~
+~
+0 -1 2015
+S
+#1941
+The Dark Altar~
+A small platinum altar dominates this small room.  A powerful looking
+figure is kneeling before the altar in solemn prayer.  No light touches
+the figure as if he is cursed by it.  Every so often, the figure shudders
+as if small tremors of pain lance through him.  A dark image pierces 
+your thoughts for a moment.  You see Lord Tristan kneel before his love
+and bear his neck.  My God... he was a Paladin how.. how.. could he...
+~
+22 1343225865 536870912 1 99 0
+D0
+The chapel is ahead.
+~
+~
+0 -1 1940
+D5
+Dangerous.
+~
+~
+25 0 1937
+S
+#1942
+The Deer Trail~
+A small animal trail winds through the dense forest ahead of you.
+The trail is very narrow with no end in sight.
+~
+22 1343226116 536870912 1 99 3
+D0
+A trails winds through the woods.
+~
+~
+0 -1 1943
+D2
+A trail winds back through the woods.
+~
+~
+0 -1 1900
+S
+#1943
+The Deer Trail~
+A small animal trail winds through the dense forest ahead of you.
+The trail is very narrow with no end in sight.
+~
+22 1343226116 0 1 99 3
+D0
+The trail opens up to a dusty road.
+~
+~
+0 -1 1901
+D2
+A trail winds back through the woods.
+~
+~
+0 -1 1942
+S
+#1944
+Dusty Road~
+A dust covered trail runs through what looks to be a deserted
+mining town.  The buildings show some need of whitewash, but 
+for the most part they look warm and inviting.  You wonder how 
+such out of the way businesses can stay open with the lack of 
+people traveling through the region.
+~
+22 1343225856 0 1 99 1
+D0
+A dusty road continues through the village.
+~
+~
+0 -1 1945
+D1
+A bakery is before you.
+~
+~
+0 -1 1907
+D2
+The road leads back out of town.
+~
+~
+0 -1 1943
+D3
+A trading post is before you.
+~
+~
+0 -1 1906
+S
+#1945
+Dusty Road~
+A dust covered trail runs through what looks to be a deserted
+mining town.  The buildings show some need of whitewash, but 
+for the most part they look warm and inviting.  You wonder how 
+such out of the way businesses can stay open with the lack of 
+people traveling through the region.
+~
+22 1343225856 0 1 99 1
+D0
+A dusty road leads through the village.
+~
+~
+0 -1 1946
+D1
+The inn makes you sleepy.
+~
+~
+0 -1 1909
+D2
+A dusty road leads through the village.
+~
+~
+0 -1 1944
+S
+#1946
+Dusty Road~
+A dust covered trail runs through what looks to be a deserted
+mining town.  The buildings show some need of whitewash, but 
+for the most part they look warm and inviting.  You wonder how 
+such out of the way businesses can stay open with the lack of 
+people traveling through the region.
+~
+22 1343225856 0 1 99 1
+D0
+A dusty roads leads out of the village.
+~
+~
+0 -1 1902
+D2
+A dusty road leads through the village.
+~
+~
+0 -1 1945
+S
+#1947
+The Mine Trail~
+The dust covered road leads from town to the entrance of the 
+once very profitable mine.  Many a laborer worked the mines
+south of here till the diggers broke through the wall into 
+the realm of the duergar dwarves.
+Tales of the riches gained from the mines spread to every 
+nation in the land when dusk was a well traveled town.
+~
+22 1343225856 0 1 99 4
+D2
+A trail turns to a dusty road.
+~
+~
+0 -1 1902
+D3
+A trail leads to a dark mine.
+~
+~
+0 -1 1948
+S
+#1948
+The Mine Trail~
+The dust covered road leads from town to the entrance of the 
+once very profitable mine.  Many a laborer worked the mines
+south of here till the diggers broke through the wall into 
+the realm of the duergar dwarves.
+Tales of the riches gained from the mines spread to every 
+nation in the land when dusk was a well traveled town.
+~
+22 1343225856 0 1 99 4
+D1
+A trail leads from the mine.
+~
+~
+0 -1 1947
+D3
+A dark mine is before you.
+~
+~
+0 -1 1903
+S
+#1949
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D1
+A long ascent begins through the mountains.
+~
+~
+0 -1 1950
+D2
+A long ascent begins towards the bottom.
+~
+~
+0 -1 1904
+S
+#1950
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D3
+A long ascent begins through the mountains.
+~
+~
+0 -1 1949
+D4
+A long ascent begins up the mountains.
+~
+~
+0 -1 1951
+S
+#1951
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D0
+A long ascent leads through the mountains.
+~
+~
+0 -1 1952
+D5
+A long ascent begins down the mountains.
+~
+~
+0 -1 1950
+S
+#1952
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D1
+A long ascent leads through the mountains.
+~
+~
+0 -1 1953
+D2
+A long ascent leads through the mountains.
+~
+~
+0 -1 1951
+S
+#1953
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D3
+A long ascent leads through the mountains.
+~
+~
+0 -1 1952
+D4
+A long ascent leads up the mountains.
+~
+~
+0 -1 1954
+S
+#1954
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D0
+A long ascent leads through the mountains.
+~
+~
+0 -1 1955
+D5
+A long ascent leads down the mountains.
+~
+~
+0 -1 1953
+S
+#1955
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D1
+A long ascent leads through the mountains.
+~
+~
+0 -1 1956
+D2
+A long ascent leads through the mountains.
+~
+~
+0 -1 1954
+S
+#1956
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D3
+A long ascent leads through the mountains.
+~
+~
+0 -1 1955
+D4
+A long ascent leads up the mountains.
+~
+~
+0 -1 1957
+S
+#1957
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D0
+The ledge widens ahead.
+~
+~
+0 -1 1913
+D5
+A long ascent leads down the mountains.
+~
+~
+0 -1 1956
+S
+#1958
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D2
+The ledge widens south of here.
+~
+~
+0 -1 1913
+D4
+The climb continues.
+~
+~
+0 -1 1959
+S
+#1959
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D0
+The climb continues
+~
+~
+0 -1 1960
+D5
+The trail down the mountain continues.
+~
+~
+0 -1 1958
+S
+#1960
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D1
+The trail continues.
+~
+~
+0 -1 1961
+D2
+The trail continues.
+~
+~
+0 -1 1960
+S
+#1961
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D3
+The trail continues.
+~
+~
+0 -1 1960
+D4
+The trail continues.
+~
+~
+0 -1 1962
+S
+#1962
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D0
+The trail continues.
+~
+~
+0 -1 1963
+D5
+The trail continues.
+~
+~
+0 -1 1961
+S
+#1963
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D1
+The trail continues
+~
+~
+0 -1 1964
+D2
+The trail continues.
+~
+~
+0 -1 1963
+S
+#1964
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D3
+The trail continues.
+~
+~
+0 -1 1963
+D4
+The trail is nearing an end.
+~
+~
+0 -1 1965
+S
+#1965
+The long ascent through the Mountains.~
+The climb up the Kharolist Mountains is tiring and very difficult.
+Several times you stop thinking I can not go on. Sharp rocks protrude
+from every possible surface.  As you look up all you can see is the 
+ledge continuing off into the distance.  The mountains hold such vast 
+beauty before your eyes.  Looking out over the land the city of Empaltris 
+can even be seen in the far distance.  The view is as breathtaking as it 
+is scary.  There are only two ways to continue the climb... either up or 
+down.
+~
+22 1343225856 0 1 99 5
+D0
+The trail ends at the guard gate.
+~
+~
+0 -1 1916
+D5
+The trail leads down the mountain.
+~
+~
+0 -1 1964
+S
+#1966
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1977
+D1
+The plants look very dangerous that way...
+~
+~
+0 -1 1928
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1971
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1967
+S
+#1967
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1968
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1966
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1981
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1971
+S
+#1968
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1981
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1978
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1977
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1976
+S
+#1969
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1972
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1979
+D2
+The plants look very dangerous that way.
+~
+~
+0 -1 1928
+D3
+The plants look very dangerous that way.
+~
+~
+0 -1 1928
+S
+#1970
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+The plants look very dangerous that way...
+~
+~
+0 -1 1928
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1975
+D2
+The plants look very dangerous that way...
+~
+~
+0 -1 1928
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1976
+S
+#1971
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519364 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1967
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1973
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1977
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1982
+S
+#1972
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1926
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1970
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1969
+D3
+The plants look very dangerous that way...
+~
+~
+0 -1 1928
+S
+#1973
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1968
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1978
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1966
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1970
+S
+#1974
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1966
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1966
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1970
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1967
+S
+#1975
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1980
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1967
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1970
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1966
+S
+#1976
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519364 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1966
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1967
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1973
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1976
+S
+#1977
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1967
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1972
+D2
+The plants look very dangerous that way.
+~
+~
+0 -1 1928
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1966
+S
+#1978
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1926
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1974
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1966
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1972
+S
+#1979
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+A fountain lies ahead.
+~
+~
+0 -1 1927
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1975
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1975
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1975
+S
+#1980
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1968
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1976
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1981
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1970
+S
+#1981
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1973
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1975
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1974
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1976
+S
+#1982
+The Garden~
+A beautiful and richly intense garden stretches as far as the eye can 
+see in every direction.  The shrubs and plants stand so tall that it 
+blocks the view of part of the manor house.  Wildly exotic plants bloom 
+vividly in the icy air.  The growth of the plants strikes you as odd for 
+such a high elevation and cold enviroment.  Realization hits you that a
+dark magic fuels this unnatural preserve.
+~
+22 1349519360 0 1 99 3
+D0
+The plants look very dangerous that way...
+~
+~
+0 -1 1928
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1971
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1981
+D3
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1976
+S
+#1983
+Path into the Mountains~
+A path winds its way toward the towering mountain pass before you.  Rocks and
+dried up tree limbs seem to hamper your every step.  Climbing is slow going
+at best and it has become impossible to travel in a group now.  The walls of 
+the pass seem to close in more with every step.
+~
+22 1343226112 0 1 99 4
+D0
+A path leads through the hills.
+~
+~
+0 -1 1984
+D2
+A path leads out of the hills.
+~
+~
+0 -1 1912
+S
+#1984
+Path into the Mountains~
+A path winds its way toward the towering mountain pass before you.  Rocks and
+dried up tree limbs seem to hamper your every step.  Climbing is slow going
+at best and it has become impossible to travel in a group now.  The walls of 
+the pass seem to close in more with every step.
+~
+22 1343226112 0 1 99 4
+D1
+A climb starts up through the mountains.
+~
+~
+0 -1 1904
+D2
+A path leads thrugh the hills.
+~
+~
+0 -1 1983
+S
+#1985
+The Dining Hall~
+An embroidered lace table cloth covers one of the most beautiful
+oak tables you have ever seen.  The legs of the table are detailed
+to a stunning degree.  Huge bay windows overlook the ravine and the
+gorgeous countryside for miles.  Twenty two ornate chairs are arrayed
+around the gorgeous fifteen foot table.
+~
+22 1343225864 0 1 99 0
+D1
+what looks like a kitchen.
+~
+~
+0 -1 1920
+D2
+The Dining Hall extends further south.
+~
+~
+0 -1 1919
+S
+#1986
+Hall of Sorrow~
+As you enter this hallway, a sudden pain stabs your chest.  An image
+of despair forms in your mind.  The walls of the hall start to shift 
+and mock you.  Your eyes begin to betray you.  You turn to run out of
+the room but the door isnt there.  PAIN! lances through your brain.
+You close your eyes to the sight of 4 beautiful young ladies picking
+flowers in a field far from this place.  The sun sets quickly..
+Day has become night..  An evil form rises from the field.  Flesh hangs
+from his bones.. Sharp fangs extend and start ripping the women to pieces.
+Blood flies in every direction.. The monster.. The monster does not kill
+them to feed but for pleasure... It howls with delight... The women shriek
+curses at it with their dying breaths but to no avail... What evil is this.
+~
+22 1343227913 0 1 99 1
+D1
+The hall of sorrow continues.
+~
+~
+0 -1 1987
+D3
+The exit to the portrait hall.
+~
+panel~
+25 0 1997
+S
+#1987
+Hall of Sorrow~
+As you enter this hallway, a sudden pain stabs your chest.  An image
+of despair forms in your mind.  The walls of the hall start to shift 
+and mock you.  Your eyes begin to betray you.  You turn to run out of
+the room but the door isnt there.  PAIN! lances through your brain.
+You close your eyes to the sight of 4 beautiful young ladies picking
+flowers in a field far from this place.  The sun sets quickly..
+Day has become night..  An evil form rises from the field.  Flesh hangs
+from his bones.. Sharp fangs extend and start ripping the women to pieces.
+Blood flies in every direction.. The monster.. The monster does not kill
+them to feed but for pleasure... It howls with delight... The women shriek
+curses at it with their dying breaths but to no avail... What evil is this.
+~
+22 1343227913 0 1 99 1
+D0
+The hall of sorrows continues.
+~
+~
+0 -1 1921
+D3
+The hall of sorrows continues.
+~
+~
+0 -1 1986
+S
+#1988
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225864 0 1 99 0
+D1
+The portrait hall continues.
+~
+~
+0 -1 1989
+D2
+The portrait hall continues.
+~
+~
+0 -1 1993
+D3
+The portrait hall continues.
+~
+~
+0 -1 1923
+S
+#1989
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225864 0 1 99 0
+D1
+The portrait hall continues.
+~
+~
+0 -1 1990
+D2
+The portrait hall continues.
+~
+~
+0 -1 1994
+D3
+The portrait hall continues.
+~
+~
+0 -1 1988
+S
+#1990
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225864 0 1 99 0
+D1
+The portrait hall continues.
+~
+~
+0 -1 1991
+D2
+The portrait hall continues.
+~
+~
+0 -1 1995
+D3
+The portrait hall continues.
+~
+~
+0 -1 1989
+S
+#1991
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225864 0 1 99 0
+D1
+The portrait hall continues.
+~
+~
+0 -1 1992
+D2
+The portrait hall continues.
+~
+~
+0 -1 1996
+D3
+The portrait hall continues.
+~
+~
+0 -1 1990
+S
+#1992
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225864 0 1 99 0
+D0
+A secret-looking vault
+~
+panel~
+31 1902 1922
+D2
+The portrait hall continues.
+~
+~
+0 -1 1997
+D3
+The portrait hall continues.
+~
+~
+0 -1 1991
+S
+#1993
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225864 0 1 99 0
+D0
+The portrait hall continues.
+~
+~
+0 -1 1988
+D1
+The portrait hall continues.
+~
+~
+0 -1 1994
+S
+#1994
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225864 0 1 99 0
+D0
+The portrait hall continues.
+~
+~
+0 -1 1989
+D1
+The portrait hall continues.
+~
+~
+0 -1 1995
+D3
+The portrait hall continues.
+~
+~
+0 -1 1993
+S
+#1995
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225864 0 1 99 0
+D0
+The portrait hall continues.
+~
+~
+0 -1 1990
+D1
+The portrait hall continues.
+~
+~
+0 -1 1996
+D3
+The portrait hall continues.
+~
+~
+0 -1 1994
+S
+#1996
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225864 0 1 99 0
+D0
+The portrait hall continues.
+~
+~
+0 -1 1991
+D1
+The portrait hall continues.
+~
+~
+0 -1 1997
+D3
+The portrait hall continues.
+~
+~
+0 -1 1995
+S
+#1997
+The Portrait Hall~
+You enter a long wide hallway.  Light bounces off vivid haunting
+paintings which hang from each section of the hall.  You rub your
+hands over the glorious wood craftings in the room.  The walls 
+themselves are inlaid with carvings from the far east.  Beautiful
+rich woven tapestries hang from the ceiling twenty feet overhead.
+As you take each step under the beautiful tapestries your feet sink
+into rich soft rugs from the fabled Shikarnith isles.  
+~
+22 1343225868 0 1 99 0
+D0
+The portrait hall continues.
+~
+~
+0 -1 1992
+D3
+The portrait hall continues.
+~
+~
+0 -1 1996
+S
+#1998
+The Foyer~
+As you enter this room of the mansion, the sheer elegance and beauty
+of it leaves you speechless.  The ivory marble floor contrasts
+stunningly with the ebon stairposts of the grand staircase to the east.
+Marble steps lead to a landing on the next floor of the mansion.  Off
+to the south east of this room, a group of stain-glass doors lead out
+into a lush garden.  Behind the massive stairwell is a brightly lit
+hallway filled with priceless works of art.  A huge doorway to the north
+leads into a beautiful dining room which beckons to you while to the 
+south, another doorway leads into an enchanting tea room.
+~
+22 1343225864 0 1 99 0
+D0
+the dining room north of you.
+~
+~
+0 -1 1919
+D1
+The Foyer continues east
+~
+~
+0 -1 1999
+D2
+The Foyer continues south.
+~
+~
+0 -1 1924
+S
+#1999
+The Foyer~
+As you enter this room of the mansion, the sheer elegance and beauty
+of it leaves you speechless.  The ivory marble floor contrasts
+stunningly with the ebon stairposts of the grand staircase to the east.
+Marble steps lead to a landing on the next floor of the mansion.  Off
+to the south east of this room, a group of stain-glass doors lead out
+into a lush garden.  Behind the massive stairwell is a brightly lit
+hallway filled with priceless works of art.  A huge doorway to the north
+leads into a beautiful dining room which beckons to you while to the 
+south, another doorway leads into an enchanting tea room.
+~
+22 1343225864 0 1 99 0
+D1
+walls lined with pictures.
+~
+~
+0 -1 1923
+D2
+The Foyer continues south.
+~
+~
+0 -1 2000
+D3
+The Foyer continues west.
+~
+~
+0 -1 1998
+S
+#2000
+The Foyer~
+As you enter this room of the mansion, the sheer elegance and beauty
+of it leaves you speechless.  The ivory marble floor contrasts
+stunningly with the ebon stairposts of the grand staircase to the east.
+Marble steps lead to a landing on the next floor of the mansion.  Off
+to the south east of this room, a group of stain-glass doors lead out
+into a lush garden.  Behind the massive stairwell is a brightly lit
+hallway filled with priceless works of art.  A huge doorway to the north
+leads into a beautiful dining room which beckons to you while to the 
+south, another doorway leads into an enchanting tea room.
+~
+22 1343225864 0 1 99 0
+D0
+The Foyer continues north.
+~
+~
+0 -1 1999
+D2
+The Foyer continues south.
+~
+~
+0 -1 2001
+D3
+The Foyer continues west.
+~
+~
+0 -1 1924
+D4
+A velvet-lined hallway
+~
+~
+0 -1 1931
+S
+#2001
+The Foyer~
+As you enter this room of the mansion, the sheer elegance and beauty
+of it leaves you speechless.  The ivory marble floor contrasts
+stunningly with the ebon stairposts of the grand staircase to the east.
+Marble steps lead to a landing on the next floor of the mansion.  Off
+to the south east of this room, a group of stain-glass doors lead out
+into a lush garden.  Behind the massive stairwell is a brightly lit
+hallway filled with priceless works of art.  A huge doorway to the north
+leads into a beautiful dining room which beckons to you while to the 
+south, another doorway leads into an enchanting tea room.
+~
+22 1343225864 0 1 99 0
+D0
+The Foyer continues north.
+~
+~
+0 -1 2000
+D1
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1926
+D2
+Garden rows that seem to go on forever.
+~
+~
+0 -1 1971
+D3
+The Foyer continues west.
+~
+~
+0 -1 2002
+S
+#2002
+The Foyer~
+As you enter this room of the mansion, the sheer elegance and beauty
+of it leaves you speechless.  The ivory marble floor contrasts
+stunningly with the ebon stairposts of the grand staircase to the east.
+Marble steps lead to a landing on the next floor of the mansion.  Off
+to the south east of this room, a group of stain-glass doors lead out
+into a lush garden.  Behind the massive stairwell is a brightly lit
+hallway filled with priceless works of art.  A huge doorway to the north
+leads into a beautiful dining room which beckons to you while to the 
+south, another doorway leads into an enchanting tea room.
+~
+22 1343225864 0 1 99 0
+D0
+The Foyer continues north.
+~
+~
+0 -1 1924
+D1
+The Foyer continues east.
+~
+~
+0 -1 2001
+D2
+A Tea Room lies south of here.
+~
+~
+0 -1 2003
+S
+#2003
+The Tea Room~
+Beautiful stain-glass windows overlooking the ravine catch your eye
+as you enter this enchanting little room.  Softly cushioned teak
+chairs call to you to rest your weary legs from the rough climb
+through the now beautiful looking mountains.  French-style doors
+give an amazing view of the rich garden growing on the backside 
+of the manor house.
+~
+22 1343225868 0 1 99 0
+D0
+A Foyer begins north of here.
+~
+~
+0 -1 2002
+D2
+The Tea Room continues south.
+~
+~
+0 -1 1925
+S
+#2004
+The Velvet Hall~
+The top of ebon stairs deposits you on to a velvet landing.
+Rich colorful taperstries hang from the ceiling along the walls
+delighting you with their beauty.  Three elaborately decorated 
+doors entice you with the treasures they must hide from your eye.
+The soft rugs covering the floor beg to you to lay down and rest.
+~
+22 1343225864 0 1 99 0
+D0
+A fairly extravagant bedroom.
+~
+door~
+9 0 2007
+D2
+The Velvet Hall continues
+~
+~
+0 -1 1931
+S
+#2005
+The Velvet Hall~
+The top of ebon stairs deposits you on to a velvet landing.
+Rich colorful taperstries hang from the ceiling along the walls
+delighting you with their beauty.  Three elaborately decorated 
+doors entice you with the treasures they must hide from your eye.
+The soft rugs covering the floor beg to you to lay down and rest.
+~
+22 1343225864 0 1 99 0
+D0
+The Velvet Hall continues.
+~
+~
+0 -1 1931
+D2
+A fairly extravagant bedroom.
+~
+door~
+9 0 2006
+S
+#2006
+The Elaborate Bedroom~
+A stunning four poster bed fills the center of the room.  Around the
+walls chest and dressers leave plenty of room for the weary to 
+store their possessions.  The windows in the room give you an excellent
+view of the surrounding countryside.
+~
+22 1343225864 0 1 99 0
+D0
+A velvet-lined hallway.
+~
+door~
+9 0 2005
+S
+#2007
+The Elaborate Bedroom~
+A stunning four poster bed fills the center of the room.  Around the
+walls chest and dressers leave plenty of room for the weary to 
+store their possessions.  The windows in the room give you an excellent
+view of the surrounding countryside.
+~
+22 1343225864 0 1 99 0
+D2
+A velvet-lined hallway.
+~
+door~
+9 0 2004
+S
+#2008
+The Blood-Soaked Hall~
+The hall you have entered is inlaid with teak.  Unfortunately, most of
+the beauty of the wood is lost in the fact that the floors, walls, ...
+even lord help the ceilings are covered in dry blood.  
+~
+22 1343225864 0 1 99 0
+D1
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2009
+D4
+The stairs lead up.
+~
+~
+0 -1 1938
+S
+#2009
+The Blood-Soaked Hall~
+The hall you have entered is inlaid with teak.  Unfortunately, most of
+the beauty of the wood is lost in the fact that the floors, walls, ...
+even lord help the ceilings are covered in dry blood.  
+~
+22 1343225864 0 1 99 0
+D0
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2010
+D1
+A frightening room, indeed.
+~
+~
+0 -1 1936
+D2
+A frightening room, indeed.
+~
+~
+0 -1 1933
+D3
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2008
+S
+#2010
+The Blood-Soaked Hall~
+The hall you have entered is inlaid with teak.  Unfortunately, most of
+the beauty of the wood is lost in the fact that the floors, walls, ...
+even lord help the ceilings are covered in dry blood.  
+~
+22 1343225864 0 1 99 0
+D0
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2011
+D2
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2009
+S
+#2011
+The Blood-Soaked Hall~
+The hall you have entered is inlaid with teak.  Unfortunately, most of
+the beauty of the wood is lost in the fact that the floors, walls, ...
+even lord help the ceilings are covered in dry blood.  
+~
+22 1343225864 0 1 99 0
+D1
+A frightening room, indeed.
+~
+~
+0 -1 1935
+D2
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 2010
+D3
+The pungent scent of blood assaults your nostrils.
+~
+~
+0 -1 1934
+S
+#2012
+The Stained Hall~
+The teak wood panels were probably once the most beautiful in all
+the realms, but the splatter of the blood on the walls though detracts
+horribly from any beauty this place may once have held.
+~
+22 1343225869 0 1 99 0
+D0
+The hallway continues.
+~
+~
+0 -1 1938
+D1
+The hallway continues.
+~
+~
+0 -1 2013
+S
+#2013
+The Stained Hall~
+The teak wood panels were probably once the most beautiful in all
+the realms, but the splatter of the blood on the walls though detracts
+horribly from any beauty this place may once have held.
+~
+22 1343225865 0 1 99 0
+D1
+The hallway continues.
+~
+~
+0 -1 2014
+D3
+The hallway continues.
+~
+~
+0 -1 2012
+S
+#2014
+The Stained Hall~
+The teak wood panels were probably once the most beautiful in all
+the realms, but the splatter of the blood on the walls though detracts
+horribly from any beauty this place may once have held.
+~
+22 1343225865 0 1 99 0
+D1
+The hallway continues.
+~
+~
+0 -1 2015
+D3
+The hallway continues.
+~
+~
+0 -1 2013
+S
+#2015
+The Stained Hall~
+The teak wood panels were probably once the most beautiful in all
+the realms, but the splatter of the blood on the walls though detracts
+horribly from any beauty this place may once have held.
+~
+22 1343225865 0 1 99 0
+D0
+A library is ahead.
+~
+~
+0 -1 1939
+D1
+A small chapel is ahead.
+~
+~
+0 -1 1940
+D3
+The hallway continues.
+~
+~
+0 -1 2014
+S
+#2016
+Kinetic's Mountain Ski Lodge~
+A small cabin lies nestled in the mountains far above Midgaard. A
+small skiing trail winds its way down the mountain to the entrance
+to the valley of Dusk. A small enticing fire keeps away the cold
+from the icy air. The cabin is not decorated lavishly but it has
+an elegance all its own. A peace not often attainable overcomes
+you in this simple setting.
+~
+22 1342210564 0 46 99 0
+D3
+To the office.
+~
+~
+0 -1 9
+D5
+The Dusken Forest lies far below.
+~
+~
+0 -1 1900
+S
+$~
+#999999

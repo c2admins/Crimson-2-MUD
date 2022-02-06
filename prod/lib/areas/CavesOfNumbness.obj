@@ -1,0 +1,710 @@
+#20550
+obj numbness glowing halo~
+5
+&wA &YGlowing &WHalo&n~
+A halo lies here.~
+~
+9 2177 16 17
+0 0 0 0
+7 100000 5
+A
+19 2
+A
+5 2
+A
+4 1
+#20551
+obj numbness pelt myst~
+4
+&GMyst's &bPelt&n~
+A misty pelt lies here crumpled.~
+~
+15 0 16 1025
+500 0 0 0
+21 350000 5
+A
+19 2
+A
+37 -1
+A
+1 3
+A
+17 -36
+#20552
+obj quest ring encrusted blood hades~
+1
+&wa &Kring &Gencrusted &wwith the &Rblood &wof &KHades&n~
+A large ring lies here, oozing the blood of the King of the Underworld.~
+~
+9 4456448 0 3
+30 0 0 0
+35 1750000 5
+A
+19 2
+A
+18 2
+A
+13 15
+A
+40 2
+#20553
+obj quest chainmail of the damned~
+1
+&KThe Chainmail of the Damned&n~
+The chainmail of the damned lies here on the ground, unguarded.~
+~
+9 4456449 0 9
+100 0 0 0
+15 20000000 5
+A
+19 4
+A
+18 2
+#20554
+obj quest hide of dragon~
+1
+Hide of the Dragon~
+a dragons hide lies here.~
+~
+15 786433 0 1025
+300 0 0 0
+50 350000 5
+A
+19 2
+A
+18 2
+A
+13 5
+#20555
+obj quest eye of the dragon~
+1
+&WEye &wof the &RDragon&n~
+A stone-like eye lies here.~
+~
+1 262148 0 65537
+0 0 10 0
+10 12000000 5
+A
+19 2
+A
+36 -1
+#20556
+obj quest boots of flesh~
+1
+&wThe &yBoots &wof &RFlesh&n~
+some fleshy boots lie here.~
+~
+9 786434 0 65
+0 0 0 0
+30 300000 30000
+A
+19 1
+A
+18 1
+A
+25 1
+#20557
+obj numbness healer ring~
+5
+&wThe &Chealer's &Kring&n~
+The healers ring lies here~
+~
+9 2049 32 3
+0 0 0 0
+13 150000 5
+A
+19 2
+A
+12 20
+A
+18 1
+#20558
+obj numbness caveman cloak~
+10
+&wThe &yCaveman's &KCloak&n~
+A tattered piece of loin cloth sits here.~
+~
+9 4 32 1025
+0 0 0 0
+30 1597500 5
+A
+19 3
+A
+18 2
+A
+14 -20
+#20559
+obj dark key~
+100
+&KThe Key to Darkness&n~
+A dark key lies here.~
+~
+18 262145 0 1
+0 1 0 0
+1 5 5
+A
+18 59
+#20560
+obj numbness dark knight sheath~
+2
+&wThe &KDark Knight's &WSheath&n~
+The dark knight has left his sheath here.~
+~
+9 4194305 0 1025
+0 0 0 0
+75 3000000 15000
+A
+19 4
+A
+18 3
+A
+12 -10
+A
+14 -35
+#20561
+obj numbness darkness eternal flame~
+1
+&KThe &RFlame &Kof Eternal Darkness&n~
+The flame of eternal darkness has been placed here for safe keeping.~
+~
+1 624994627 262144 65537
+10 10 1000 0
+30 2100000000 30000
+A
+19 1
+A
+18 2
+A
+14 -25
+A
+40 2
+#20562
+obj sloth goat imm~
+100
+Sloth's Pet Goat~
+A torch is lying here.~
+~
+8 0 64 2049
+0 0 10 0
+1 5 5
+#20563
+obj crocodile hunter voodoo doll~
+100
+A voodoo doll with Steve Irwin's Face~
+A voodoo doll has been left here, it resembles Steve Irwin.~
+~
+9 0 0 5
+0 0 0 0
+1 5 5
+#20564
+obj quest fire claw~
+1
+&RThe Claw of the &KEternal &RFlame&n~
+A flaming claw lies here spitting off embers.~
+~
+5 4501568 2048 24577
+71704 7 7 11
+1 5 5
+A
+18 2
+#20565
+obj quest fire boots eternal~
+1
+&KThe Boots of the Eternal &RF&rir&Re&n~
+some boots lie here emitting embers.~
+~
+9 4456449 0 65
+10 0 0 0
+1 5 5
+A
+25 1
+A
+19 2
+A
+18 2
+#20566
+obj quest light flame darkness~
+1
+&KThe &RFlame &Kof Eternal Darkness&n~
+The flame of eternal darkness has been placed here for safe keeping.~
+~
+1 4456448 0 65537
+0 0 10 0
+1 5 5
+A
+19 3
+A
+18 3
+A
+40 2
+#20567
+obj Paul Hogan imm~
+100
+A Paul Hogan Action Figure~
+A disfigured toy of Paul Hogan lies here, mutilated.~
+~
+1 335544832 64 65537
+0 0 10 0
+1 5 5
+A
+19 3
+A
+17 -50
+A
+18 1
+#20568
+obj key to earth~
+99
+&WThe Key to &yEarth&n~
+Someone lost their key to get back to the surface.~
+~
+18 262144 0 1
+0 1 0 0
+1 5 5
+A
+18 59
+#20569
+obj numbness claw eternal flame~
+3
+&RThe Claw of the &KEternal &RFlame&n~
+A flaming claw lies here spitting off embers.~
+~
+5 4204864 0 8193
+67600 5 8 11
+1 5 5
+A
+18 2
+#20570
+obj numbness oracle flames~
+100
+Oracle of Flames~
+An oracle surrounded by flames lies here.~
+~
+3 71602176 1024 16385
+75 5 5 116
+30 3000000 5
+A
+40 1
+#20571
+obj numbness myst amulet~
+3
+&wThe Amulet of the &GMysts&n~
+A misty amulet lies in the dust.~
+~
+9 2134561 0 5
+0 0 0 0
+15 400000 5
+A
+19 2
+A
+18 3
+A
+4 2
+A
+14 -45
+#20572
+obj numbness storm light~
+4
+&YThe Storm's &KLight&n~
+A light eminating from a storm lies here.~
+~
+1 68190338 0 65537
+10 10 1000 0
+10 2300000 5
+A
+19 1
+A
+18 1
+A
+26 -1
+A
+9 15
+#20573
+obj pile of bones~
+100
+A pile of gold encrusted bones~
+A pile of gold encrusted bones lie here in a heap.~
+~
+15 0 0 0
+350 1 0 0
+10000 5 5
+#20574
+obj treasure room key~
+100
+Treasure room key~
+The treasure room key lies here.~
+~
+18 262144 0 1
+0 1 0 0
+1 5 5
+#20575
+obj pile of gold and gems~
+100
+A pile of gold and gems.~
+A large pile of gold and gems lies here.~
+~
+20 0 0 1
+4000000 0 0 0
+30 5 5
+#20576
+obj korn shirt imm~
+100
+&KA K&wo&KR&wn &KT-shirt&n~
+A KoRn Shirt lies here.~
+~
+9 0 64 9
+80 0 0 0
+1 5 5
+A
+19 4
+A
+18 4
+#20577
+obj Quest PitchFork Damned~
+1
+&KThe &RPitchFork &Kof the Damned&n~
+A dark pitchfork, covered in blood lies here.~
+~
+5 537133057 1024 8193
+3072 5 4 11
+1 5 5
+A
+19 2
+A
+18 1
+#20578
+obj light of eternity~
+100
+&Klig&wht o&Yf et&wern&Kity&n~
+A large light, consumed with the light of eternity lies here.~
+~
+1 2 0 65537
+0 0 10 0
+1 5 5
+#20579
+obj numbness caveman bone~
+10
+&wThe &KBone &wof a &KCave&yMan&n~
+&wThe &KBone &wof a &KCave&yMan&n~
+~
+5 2097154 0 8193
+16384 15 3 11
+1 5 5
+#20580
+obj numbness eternal myst~
+10
+&KEternal &GMyst&n~
+&KEternal &GMyst&n~
+~
+5 2097155 0 8193
+6144 16 2 3
+1 5 5
+#20581
+obj wall hammer imm~
+100
+&KThe &RHammer&n~
+The hammer for the wall lies here.~
+~
+5 4 64 8193
+523384 10 10 6
+20 5 5
+A
+40 50
+A
+41 50
+A
+23 -20
+A
+17 100
+#20582
+obj archangel seal imm~
+32767
+&KA&wrchange&Kl's &cS&Cea&cl &wof &yA&Ypprova&yl&n~
+Archangel's seal of approval rests here.~
+~
+8 0 64 4097
+0 0 10 0
+1 5 5
+A
+13 100
+A
+13 100
+A
+13 100
+A
+13 100
+#20583
+obj pie warm apple~
+32767
+Warm apple pie~
+A pie is lying here.~
+~
+19 0 0 1
+100 0 0 0
+1 5 5
+A
+18 3
+#20584
+obj angel legs legplates~
+99
+Legplates of &WAngels&n~
+The legplates made from angel wings lie here, bloody.~
+~
+1 524288 0 33
+0 0 10 0
+1 5 5
+#20585
+obj numbness fireblade soulweaver~
+2
+&RFire&KBlade &wnamed &KSoul&RWeaver&n~
+&wA large &Kadamantium &Wsword, with an etched blade inscribed &KSoul&RWeaver&w has been left here, unattended to.&n~
+~
+5 4194836 0 8193
+73760 12 4 3
+4 350000 35000
+A
+18 3
+A
+19 3
+#20586
+obj numbness platinum ringmail~
+2
+&wA &KSuit of &WPlatinum &KRingmail&n~
+A suit of platinum ringmail lies here.~
+~
+9 71303680 0 9
+80 0 0 0
+13 3575000 300000
+A
+19 3
+A
+18 3
+A
+24 -3
+A
+13 -45
+#20587
+obj numbness voulge golem golden~
+1
+&wThe &YG&yo&Yl&yd&Ye&yn &KVoulge &wof the &KGolem&n~
+&WA very large axe covered in gold rests upon the ground.&n~
+~
+5 4196416 0 8193
+40968 8 5 3
+11 300000 350000
+A
+19 2
+A
+18 5
+#20588
+obj numbness steel golem ring~
+2
+&KThe Golem's Ring&n~
+The golems ring lies here.~
+~
+9 37779972 131200 3
+0 0 0 0
+30 150000 100000
+A
+19 3
+A
+18 2
+A
+13 25
+#20589
+obj numbness fyreshroud~
+5
+&RF&ry&Rr&re &KShroud&n~
+&RF&ry&Rr&re &KShroud&n~
+~
+15 134217730 16 9
+250 0 0 0
+1 5 5
+A
+19 2
+A
+18 2
+#20590
+obj a large wire~
+100
+A large wire~
+A large wire lies here, still connected to the inside of the machine.~
+~
+25 0 0 0
+0 0 10 0
+1 5 5
+#20591
+obj numbness hollowed bone armplates~
+10
+&wA set of hollowed out &Kbones&n~
+Some hollowed out bones lie here.~
+~
+15 37749252 0 257
+200 0 0 0
+100 100000000 30000
+A
+17 -45
+A
+19 2
+A
+18 3
+A
+13 -20
+#20592
+obj corpse of dr wyzlitrus~
+1
+&wThe Corpse of Dr. Wyzlitrus&n~
+&wA pile of bones lie here among the rubble, covered in a labcoat.&n~
+~
+15 8 0 0
+10000 15 20593 0
+1 5 5
+#20593
+obj an adamantium key~
+1
+&wan &Kadamantium &wkey&n~
+an adamantium key lies here.~
+~
+18 262152 512 1
+20592 1 0 0
+100 2000000 5
+A
+18 59
+#20594
+obj numbness scalpel rusty blood covered~
+3
+&wA &RB&rloodie&Rd &KS&wcalpe&Kl&n~
+A bloodied scalpel lies here.~
+~
+5 742433281 4 8193
+4153 7 6 11
+12 35750000 300000
+A
+19 5
+A
+33 -1
+A
+18 -2
+A
+12 -40
+#20595
+obj numbness hammer mithril~
+2
+&wA &WMi&Kthr&Wil &KHammer&n~
+A large hammer, plated in mithril lies here.~
+~
+5 775946308 0 8193
+327744 20 3 7
+21 2500000 300000
+A
+19 4
+A
+18 2
+A
+13 25
+#20596
+obj numbness mask mithril~
+2
+&wA &WMi&Kthr&Wil Mask&n~
+A mithril mask lies here.~
+~
+9 172013570 393220 17
+20 10 0 0
+50 300000 300000
+A
+19 4
+A
+18 1
+A
+36 -1
+#20597
+obj numbness battered greaves mithril~
+3
+&wA set of battered &WMi&Kthr&Wil &KGreaves&n~
+A set of battered mithril greaves lie here.~
+~
+9 675282945 0 33
+0 0 0 0
+45 2750000 300000
+A
+19 3
+A
+18 2
+A
+13 25
+A
+41 -2
+#20598
+obj numbness book doctor~
+50
+&wThe &yBook &wof the &WDoctor&n~
+A book, containing pages from Dr. Wyzlitrus' expirementations lies here.~
+~
+16 4194432 512 16385
+0 0 10 0
+10 10000 30000000
+E
+book~
+&KI was once a valiant warrior.  I fought alongside the strongest 
+this realm could offer. I was head advisor to the army of the 
+demon lord.  I knew Flagg, he was a close friend to me.  I 
+couldn't believe my eyes,  I saw him lying there, Ladondra 
+standing over him, with a large white cross, the holiness 
+from the cross, sapping his stength.  I rushed towards her, 
+but, she turned a hand to me, and sent me reeling.  It sent me into 
+another realm of my mind, one in which wierd worms and flames 
+talked to me, and a man, hanging from a cross was still lively, and 
+
+
+The note seems to have been cut off at that last sentence, but, where could the rest of the story be?  Look around, it might be right beneath you, or on something you have yet to see.
+~
+A
+19 -5
+A
+18 -10
+A
+13 -100
+#20599
+obj numbness book missing part~
+2
+&wthe missing part of the &ybook&n~
+the missing part of Dr. Wyzlitrus' book lies here, some scribling is on it.~
+~
+16 4194304 0 16385
+0 0 10 0
+1 5 5
+E
+book missing page~
+&Ktalkative.  My mind made this world, it created the Leechworms
+that killed off defenseless men, torturing them, it created the 
+messiah,  the blasphemy of the world the heresy in which you see, 
+the rage, torment, fury, and all the hate I could hold.  In my mind, the 
+dragons spoke, they became our saviors, and the man hanging on the 
+cross killed my comrades.  I didnt understand why, until I started 
+creating the golems.  I knew why he did it, the power he must have felt, 
+to take anothers life just because of malice.  I spent nights working in my 
+laboratory, creating the ultimate golems, preparing for a war.  But, alas, 
+they revolted, enslaving me, the dead carcass in which you see at the 
+beginning is that of Smiltres, my assistant who helped me with the project 
+of building these golems. I awoke with a sudden splash of water, awakening  
+in my chamber.  "Sire, how ist thou today?"
+~
+A
+19 6
+A
+13 15
+A
+18 3
+A
+14 -60
+#20600
+obj torture device~
+1
+A large torturing device~
+A large metallic torture device lies here, beckoning you to lie upon it.~
+~
+15 8 0 0
+1000 5 0 0
+1 5 5
+$~
+#999999

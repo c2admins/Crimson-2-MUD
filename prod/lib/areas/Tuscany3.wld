@@ -1,0 +1,1722 @@
+#21300
+Chamber of the Weapons Master~
+This fabulous chamber is immaculate.  There isn't a drop of blood, sweat
+nor even a single chip or flaw anywhere.  There are weapons lining each wall
+as well as a few hanging from the ceiling.  There are several practicing
+devices throughout the room and they all look like they have been used A LOT.
+There is a bookshelf with several books about weapons in it.  There are also
+several ceremonial weapons of varying materials, in special cases about the
+chamber.
+~
+171 268435468 0 1 99 0
+D3
+The entryway leads to the Antechamber
+~
+~
+0 -1 21299
+S
+#21301
+Top of the Silver Staircase~
+You are standing atop another in the seemingly endless stream of metal
+stairwells. This one shines of bright, freshly-polished silver.  It
+is decorated with statues of monks, cavaliers, and bards.  It seems to be
+a bit longer than the others also.  There is a hall to the north.
+~
+171 8 0 1 99 0
+D0
+The hall comes tn end at another door, just north of here.
+~
+~
+0 -1 21298
+D5
+The stairs lead down from here.
+~
+~
+0 -1 21292
+S
+#21302
+Chamber of the Cavalier Lord~
+This is by far the most highly decorated chamber in the entire tower.
+Against the north wall there are two suits of black glowing full platemail,
+each grasping a longsword in one hand and holding a shield, decorated with
+the Lord's coat of arms, in the other.  Against the eastern wall can be
+seen several framed parchments, with such names as Telgar the Ranger Lord,
+Peacock the Hierophant Druid, King Drenor of Tuscany, Meloncholy (Archmage
+to His Magesty), and many more signed upon them.  Against the western wall
+there are various gold-plated weapons, all with plaques beneath them with
+the name of the foe vanquished for the weapon.  There are three stuffed
+dragon heads above these weapons as well, two of which are red dragons and
+one gigantic head of an ancient black.  In the center of the room there are
+statues of a Druid, a Blue Dragon, a Ranger Lord and the Cavalier Lord to
+whom this chamber belongs.
+~
+171 268435468 0 1 99 0
+D2
+There is a bright ivory door.
+~
+ivory door~
+15 21304 21305
+S
+#21303
+Chamber of the Cavalier/Archmage~
+You couldn't have entered a more dangerous chamber if you tried.  The
+chamber looks like a giagantic laboratory, with instruments of magical
+persuation everywhere.  There is a very large bookcase with literally
+hundreds of books in it and none of them have names.  Against the western
+wall there is a bright glow, coming from a gigantic tome resting on a
+pedestal.
+~
+171 268435468 0 1 99 0
+D1
+A brilliant door of lapis material is glowing and humming.
+~
+lapis door~
+15 21311 21304
+E
+tome book~
+This enormous leather-bound tome radiates a golden glow.  The runes
+on the cover seem to hover above it rather than being stamped into
+the leather.  You think for an instant that you can recognize a few
+words but then they change before your eyes.
+~
+S
+#21304
+Top of the Topaz Staircase~
+This staircase looks quite remarkable.  Carved entirely out of topaz it shines
+brighter than any other you've seen so far.  There are several illusions
+dancing about the room, which canstantly change form and appearance.  At one
+point you see a heavily armored gentleman conversing with a god and at the
+next moment you see him without any armor creating a swarm of meteors from
+thin air.  The stairs go down from here and there is a lapis door to the
+south and another to the west.
+~
+171 8 0 1 99 0
+D2
+A brilliant door of lapis material is glowing and humming.
+~
+lapis door~
+15 21311 21307
+D3
+A brilliant door of lapis material is glowing and humming.
+~
+lapis door~
+15 21311 21303
+D5
+The stairs lead down from here.
+~
+~
+0 -1 21295
+S
+#21305
+Pearl Hall Before an Ivory Door~
+This glorious hall is made out of perfectly smooth pearl.  The hall is
+brightly lit and literally covered with paintings and sculptures of some
+of the most powerful beings in the land.  The hall comes to an end here
+before a door of pure ivory, like that which covers the outside of the
+tower.
+~
+171 8 0 1 99 0
+D0
+There is a bright ivory door with a carving of a heavily armored cavalier
+on it.  There is also a very intricate coat of arms above the cavalier.
+~
+ivory door~
+15 21304 21302
+D2
+The hall seems to turn just south of here.
+~
+~
+0 -1 21308
+S
+#21306
+Top of the Pearl Staircase~
+You are standing atop the beautiful pearl staircase.  The entire stairwell
+glows and radiates a feeling of excessive magic.  The statues lining the walls
+depict the most famous battles of the war with the forces of Hel.  The elven
+warriors, mounted upon their magnificent griffons/ the powerful rangers
+using the forces of the forest/ and the cavaliers with thier incredible
+horses and armor.  Each statue is a unique original and any one of them
+would cost half a dragon's horde to purchase.  They all glow with fairie
+fires and to stare at them to long could easily distract you from your goal.
+A pearl hallway leads away to the south.
+~
+171 8 0 1 99 0
+D2
+The hall seems to turn just south of here and there is a very shiny door there
+~
+~
+0 -1 21309
+D5
+The stairs lead down from here.
+~
+~
+0 -1 21297
+S
+#21307
+Base of the Lapis Stairwell~
+This stairwell is different from all of the others.  It is carved out of a
+fantastic Lapis, but the strange thing is that there are no statues nor
+any paintings here.  The stairwell doesn't look like it is too long but
+the lack of ornaments is a bit disturbing.
+~
+171 12 0 1 99 0
+D0
+A brilliant door of lapis material is glowing and humming.
+~
+lapis door~
+15 21117 21304
+D4
+The stairs go up from here ~
+~
+0 -1 21316
+S
+#21308
+Turn in the Pearl Hall~
+This glorious hall is made out of perfectly smooth pearl.  The hall is
+brightly lit and literally covered with paintings and sculptures of some
+of the most powerful beings in the land.  The hall turns here from the
+east to the north.
+~
+171 8 0 1 99 0
+D0
+The hall ends just north of here.
+~
+~
+0 -1 21305
+D1
+The hall seems to turn just east of here and there is a very shiny door there
+~
+~
+0 -1 21309
+S
+#21309
+Bend in the Pearl Hall by a Diamond Door~
+This glorious hall is made out of perfectly smooth pearl.  The hall is
+brightly lit and literally covered with paintings and sculptures of some
+of the most powerful beings in the land.  The hall turns here from the
+north to the east and there is a brilliant diamond door against the east
+wall.
+~
+171 8 0 1 99 0
+D0
+There is a stairwell just north of here.
+~
+~
+0 -1 21306
+D1
+The door is carved from what must've been the biggest diamond in the world!
+It sparkles and reflects all light in a brilliant rainbow effect.
+~
+diamond door~
+15 21310 21310
+D3
+The hall takes another turn just west of here.
+~
+~
+0 -1 21308
+S
+#21310
+Treasure Room~
+This room is litered with treasure.  Precious gems/coins and several statues
+are all arranged upon crystal shelves.  There is armor and weapons along
+the walls as well as magnificent tapestries and paintings.
+~
+171 268435468 0 1 99 0
+D3
+The door is carved from what must've been the biggest diamond in the world!
+It sparkles and reflects all light in a brilliant rainbow effect.
+~
+diamond door~
+15 21118 21309
+S
+#21311
+Turn in the Lapis Hall~
+This hall continues to be undecorated (except for the hall itself of course).
+There are no statues, paintings nor any other form of decoration.  The hall
+itself is gorgeous and perfectly clean, in fact it's almost as if this hall
+is rarely used.  The hall continues from the east to the south.
+~
+171 8 0 1 99 0
+D1
+The hall continues to the east.
+~
+~
+0 -1 21312
+D2
+The hall continues to the south.
+~
+~
+0 -1 21314
+S
+#21312
+Lapis Hall~
+This hall continues to be undecorated (except for the hall itself of course).
+There are no statues, paintings nor any other form of decoration.  The hall
+itself is gorgeous and perfectly clean, in fact it's almost as if this hall
+is rarely used.  The hall continues from the east to the west.
+~
+171 8 0 1 99 0
+D1
+The hall makes a turn just east of here.
+~
+~
+0 -1 21313
+D3
+The hall turns just west of here.
+~
+~
+0 -1 21311
+S
+#21313
+Beginning of the Lapis Hall~
+This hall is as strange as the staircase that leads to it.  There are no
+statues, paintings, tapestries nor any other decorations.  The hall itself
+is gorgeous and perfectly clean, in fact it's almost as if this hall is
+rarely used.  The hall continues to the west and there is a stairwell to
+the south.
+~
+171 8 0 1 99 0
+D2
+There is a stairwell just south of here.
+~
+~
+0 -1 21316
+D3
+The hall continues to the west.
+~
+~
+0 -1 21312
+S
+#21314
+Lapis Hall~
+This hall continues to be undecorated (except for the hall itself of course).
+There are no statues, paintings nor any other form of decoration.  The hall
+itself is gorgeous and perfectly clean, in fact it's almost as if this hall
+is rarely used.  You are beginning to wonder where this hallway leads.  It
+is easily the longest one you've been on since entering the tower.  The hall
+leads from the north to the south.
+~
+171 8 0 1 99 0
+D0
+The hall turns just north of here.
+~
+~
+0 -1 21311
+D2
+The hall turns again just south of here.
+~
+~
+0 -1 21317
+S
+#21315
+Treasure Room~
+This room is litered with treasure.  Precious gems/coins and several statues
+are all arranged upon crystal shelves.  There is armor and weapons along
+the walls as well as magnificent tapestries and paintings.
+~
+171 268435468 0 1 99 0
+D2
+The door is carved from what must've been the biggest diamond in the world!
+It sparkles and reflects all light in a brilliant rainbow effect.
+~
+diamond door~
+15 21118 21318
+S
+#21316
+Top of the Lapis Stairwell~
+This stairwell is different from all of the others.  It is carved out of a
+fantastic Lapis, but the strange thing is that there are no statues nor
+any paintings here.  The stairwell doesn't look like it is too long but
+the lack of ornaments is a bit disturbing.  There is a hall leading away
+to the north and the stairs go down from here.
+~
+171 8 0 1 99 0
+D0
+The hall takes a turn just north of here.
+~
+~
+0 -1 21313
+D5
+The stairs lead down.
+~
+~
+0 -1 21307
+S
+#21317
+Bend in the Lapis Hall~
+OK now this is getting strange.  Not only is this hall irregularly long
+and undecorated but just to the east of here you can see a VERY large
+statue. The hall turns here from the north to the east.
+~
+171 8 0 1 99 0
+D0
+The hall continues to the north.
+~
+~
+0 -1 21314
+D1
+The hall continues to the east.
+~
+~
+0 -1 21318
+S
+#21318
+Before Crystal and Diamond Doors~
+The lapis hall comes to an abrupt end here and you are staring at two of
+the most beautiful doors you (or probably anyone else) have ever seen.  The
+one against the east wall is carved from a beautiful crystal and the one
+north of here is a sparkling diamond.  There is also a VERY large statue
+of a cavalier riding a dragon in this room.
+~
+171 8 0 1 99 0
+D0
+The door is carved from what must've been the biggest diamond in the world!
+It sparkles and reflects all light in a brilliant rainbow effect.
+~
+diamond door~
+15 21310 21315
+D1
+This gorgeous crystal door reflects all light in rainbows of colors.
+~
+crystal door~
+15 21315 21319
+D3
+The hall turns just west of here.
+~
+~
+0 -1 21317
+E
+statue cavalier dragon~
+It's amazing that anyone can move freely in this room with this
+obnoxiously sized decoration in the middle of the room.  The
+dragon is not recognizable to you, it has a very long neck and a
+large gaping maw, but its torso is enormous, as is the saddle
+pon it.  The rider is dressed in full-plate and seems to be
+guiding the beast with a glowing pair of reigns.
+~
+S
+#21319
+Chamber of the Lord of Mounts~
+This chamber is covered with saddles and reigns of varying sizes.  Some
+are obviously made for horses while others could easily fit a dinosaur.
+There are several brushes and other grooming devices scattered about as
+well as several books in the bookshelf (all of which have to do with
+capturing/training various mounts).  There is a small staircase in the
+south-east corner of this chamber as well as the crystal door to the west.
+~
+171 268435596 0 1 99 0
+D3
+This gorgeous crystal door reflects all light in rainbows of colors.
+~
+crystal door~
+15 21315 21318
+D4
+The stairs lead up.
+~
+~
+0 -1 21320
+S
+#21320
+Top of the Stairs Below a Trapdoor~
+As you climb this narrow staircase you begin to realize just how its
+construction differs from all of the others you've seen.  Not only is
+it made out of stone rather than some precious material, it is also
+completely undecorated and it comes to an end at a trapdoor in the ceiling.
+~
+171 268435468 0 1 99 0
+D4
+The trapdoor is made of gorgeous onyx.
+~
+onyx trapdoor door~
+9 -1 21323
+D5
+The stairs go down from here.
+~
+~
+0 -1 21319
+S
+#21321
+Lair of Lucifanticus~
+You have entered through the back entrance into a gigantic lair.  It
+literally covers the entire top of the Ivory Tower and it has a gigantic
+opening in the west side.  The chamber is also immaculately clean and
+constructed entirely out of the same ivory that makes up the walls of
+this incredible tower.  There are several VERY LARGE spellbooks against
+one of the walls and you wonder what the hell is big enough to require
+this much space and can cast spells?
+~
+171 268435468 200704 1 99 0
+D1
+There is a strange door radiating Luck???????
+~
+luck door~
+15 21322 21322
+D2
+The air above the tower.
+~
+~
+32 -1 21380
+D3
+~
+~
+0 -1 21324
+D5
+This shaft looks like a quick way out of the tower.
+~
+shaft~
+9 -1 21230
+S
+#21322
+White Onyx Hall~
+This hall is very strange indeed.  You've never seen white onyx before, let
+alone an entire hall made out of any onyx.  However, this hallway is
+completely undecorated.  There are no paintings or tapestries or anything
+besides, of course, a gigantic statue of a dragon in the center of the room.
+~
+171 268435468 0 1 99 0
+D1
+The hall ends just east of here.
+~
+~
+0 -1 21323
+D3
+There is a strange door radiating Luck???????
+~
+luck door~
+15 21322 21321
+E
+dragon statue~
+This dragon is the same as the one before the crystal door, except
+this one has no rider.  Its back seems to have a golden stripe
+down it and the statue's eyes look seem to move to look at you.  The
+wings on this creature take up most of the room and they are not
+even fully extended.
+~
+S
+#21323
+Above the Trapdoor in a White Onyx Hall~
+This hall is very strange indeed.  You've never seen white onyx before, let
+alone an entire hall made out of any onyx.  However, this hallway is
+completely undecorated.  There are no paintings or tapestries or anything.
+The hall continues to the west.
+~
+171 268435468 0 1 99 0
+D3
+The hall continues to the west.
+~
+~
+0 -1 21322
+D5
+The trapdoor is made of gorgeous onyx.
+~
+onyx trapdoor door~
+9 -1 21320
+S
+#21324
+Shifting Halls~
+The halls shift constantly.  All around you there is mist and vapor swirrling.
+You can see other halls leading away from here, but you are unable to tell
+the specific direction they head in.
+~
+171 12 0 41 99 0
+D0
+The halls constantly shift.
+~
+~
+0 -1 21326
+D1
+The halls constantly shift.
+~
+~
+0 -1 21325
+D2
+~
+~
+0 -1 21352
+D3
+Another plane
+~
+~
+0 -1 21358
+S
+#21325
+Shifting Halls~
+The halls shift constantly.  All around you there is mist and vapor swirrling.
+You can see other halls leading away from here, but you are unable to tell
+the specific direction they head in.
+~
+171 268435468 0 1 99 0
+D0
+The halls constantly shift.
+~
+~
+0 -1 21326
+D1
+The halls constantly shift.
+~
+~
+0 -1 21325
+D2
+The halls constantly shift.
+~
+~
+0 -1 21327
+D3
+The halls constantly shift.
+~
+~
+0 -1 21324
+S
+#21326
+Shifting Halls~
+The halls shift constantly.  All around you there is mist and vapor swirrling.
+You can see other halls leading away from here, but you are unable to tell
+the specific direction they head in.
+~
+171 268435468 0 1 99 0
+D0
+The halls constantly shift.
+~
+~
+0 -1 21327
+D1
+Another plane
+~
+~
+0 -1 21359
+D2
+The halls constantly shift.
+~
+~
+0 -1 21326
+D3
+The halls constantly shift.
+~
+~
+0 -1 21324
+S
+#21327
+Shifting Halls~
+The halls shift constantly.  All around you there is mist and vapor swirrling.
+You can see other halls leading away from here, but you are unable to tell
+the specific direction they head in.
+~
+171 268435468 0 1 99 0
+D0
+The evil halls twist and bend.
+~
+~
+0 -1 21328
+D1
+Another plane
+~
+~
+0 -1 21360
+D2
+The halls constantly shift.
+~
+~
+0 -1 21327
+D3
+The halls constantly shift.
+~
+~
+0 -1 21325
+S
+#21328
+Halls of Evil~
+The halls here twist and bend to not only confuse you, but also to give you
+several horrible visions.  All around you are demons and spectres and other
+foul creatures.  The halls are constantly shifting and changing color from
+blood-red to deep jet black.
+~
+171 268435468 0 1 99 0
+D0
+The halls constantly shift.
+~
+~
+0 -1 21325
+D1
+The evil halls twist and bend.
+~
+~
+0 -1 21329
+D2
+The evil halls twist and bend.
+~
+~
+0 -1 21328
+D3
+Another plane
+~
+~
+0 -1 21361
+S
+#21329
+Halls of Evil~
+The halls here twist and bend to not only confuse you, but also to give you
+several horrible visions.  All around you are demons and spectres and other
+foul creatures.  The halls are constantly shifting and changing color from
+blood-red to deep jet black.
+~
+171 268435468 0 1 99 0
+D0
+Another plane.
+~
+~
+0 -1 21362
+D1
+The evil halls twist and bend.
+~
+~
+0 -1 21329
+D2
+~
+~
+0 -1 21364
+D3
+The evil halls twist and bend.
+~
+~
+0 -1 21330
+S
+#21330
+Halls of Evil~
+The halls here twist and bend to not only confuse you, but also to give you
+several horrible visions.  All around you are demons and spectres and other
+foul creatures.  The halls are constantly shifting and changing color from
+blood-red to deep jet black.
+~
+171 268435468 0 1 99 0
+D0
+The evil halls twist and bend.
+~
+~
+0 -1 21331
+D1
+The evil halls twist and bend.
+~
+~
+0 -1 21328
+D2
+The evil halls twist and bend.
+~
+~
+0 -1 21330
+D3
+The evil halls twist and bend.
+~
+~
+0 -1 21330
+S
+#21331
+Halls of Evil~
+The halls here twist and bend to not only confuse you, but also to give you
+several horrible visions.  All around you are demons and spectres and other
+foul creatures.  The halls are constantly shifting and changing color from
+blood-red to deep jet black.
+~
+171 268435468 0 1 99 0
+D0
+Black mist everywhere...
+~
+~
+0 -1 21333
+D1
+The white halls bend and shift.
+~
+~
+0 -1 21337
+D2
+The evil halls twist and bend.
+~
+~
+0 -1 21332
+D3
+Another plane
+~
+~
+0 -1 21363
+S
+#21332
+Halls of Evil~
+The halls here twist and bend to not only confuse you, but also to give you
+several horrible visions.  All around you are demons and spectres and other
+foul creatures.  The halls are constantly shifting and changing color from
+blood-red to deep jet black.
+~
+171 268435468 0 1 99 0
+D0
+The evil halls twist and bend.
+~
+~
+0 -1 21332
+D1
+The evil halls twist and bend.
+~
+~
+0 -1 21331
+D3
+The evil halls twist and bend.
+~
+~
+0 -1 21330
+S
+#21333
+Halls of Greater Evil~
+You have a horrible fear of death as you enter these shifting twisted halls.
+Everything is black.  Even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+Black mist everywhere...
+~
+~
+0 -1 21333
+D1
+Black mist everywhere...
+~
+~
+0 -1 21334
+D2
+The evil halls twist and bend.
+~
+~
+0 -1 21328
+D3
+Another plane
+~
+~
+0 -1 21365
+S
+#21334
+Halls of Greater Evil~
+You have a horrible fear of death as you enter these shifting twisted halls.
+Everything is black.  Even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+Black mist everywhere...
+~
+~
+0 -1 21334
+D1
+Black mist everywhere...
+~
+~
+0 -1 21333
+D2
+Black mist everywhere...
+~
+~
+0 -1 21335
+D3
+Black mist everywhere...
+~
+~
+0 -1 21333
+S
+#21335
+Halls of Greater Evil~
+You have a horrible fear of death as you enter these shifting twisted halls.
+Everything is black.  Even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+Black mist everywhere...
+~
+~
+0 -1 21334
+D1
+Black mist everywhere...
+~
+~
+0 -1 21336
+D2
+Black mist everywhere...
+~
+~
+0 -1 21334
+D3
+Another plane
+~
+~
+0 -1 21366
+S
+#21336
+Halls of Greater Evil~
+You have a horrible fear of death as you enter these shifting twisted halls.
+Everything is black.  Even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+Black mist everywhere...
+~
+~
+0 -1 21333
+D1
+Black mist everywhere...
+~
+~
+0 -1 21333
+D2
+Black mist everywhere...
+~
+~
+0 -1 21334
+D3
+The evil halls twist and bend.
+~
+~
+0 -1 21331
+S
+#21337
+Halls of Good~
+The halls continue to shift and an overwhelming sense of good overcomes you.
+All around you is a soft white vapor which welcomes you in.
+~
+171 268435468 0 1 99 0
+D0
+The evil halls twist and bend.
+~
+~
+0 -1 21328
+D1
+The good halls slide and shift.
+~
+~
+0 -1 21338
+D2
+The good halls slide and shift.
+~
+~
+0 -1 21337
+D3
+The halls constantly shift.
+~
+~
+0 -1 21324
+S
+#21338
+Halls of Good~
+The halls continue to shift and an overwhelming sense of good overcomes you.
+All around you is a soft white vapor which welcomes you in.
+~
+171 268435468 0 1 99 0
+D0
+The good halls slide and shift.
+~
+~
+0 -1 21339
+D1
+Another plane
+~
+~
+0 -1 21367
+D2
+The good halls slide and shift.
+~
+~
+0 -1 21337
+D3
+The good halls slide and shift.
+~
+~
+0 -1 21338
+S
+#21339
+Halls of Good~
+The halls continue to shift and an overwhelming sense of good overcomes you.
+All around you is a soft white vapor which welcomes you in.
+~
+171 268435468 0 1 99 0
+D0
+The good halls slide and shift.
+~
+~
+0 -1 21337
+D1
+The good halls slide and shift.
+~
+~
+0 -1 21340
+D2
+The good halls slide and shift.
+~
+~
+0 -1 21338
+S
+#21340
+Halls of Good~
+The halls continue to shift and an overwhelming sense of good overcomes you.
+All around you is a soft white vapor which welcomes you in.
+~
+171 268435468 0 1 99 0
+D0
+White mist everywhere...
+~
+~
+0 -1 21341
+D1
+The good halls slide and shift.
+~
+~
+0 -1 21337
+D2
+The good halls slide and shift.
+~
+~
+0 -1 21337
+D3
+The good halls slide and shift.
+~
+~
+0 -1 21337
+S
+#21341
+Halls of Supreme Good~
+You have an overwhelming feeling of holiness as you move about these shifting
+halls. Everything is white, even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+White mist everywhere...
+~
+~
+0 -1 21342
+D1
+White mist everywhere...
+~
+~
+0 -1 21341
+D2
+The good halls slide and shift.
+~
+~
+0 -1 21337
+D3
+White mist everywhere...
+~
+~
+0 -1 21343
+S
+#21342
+Halls of Supreme Good~
+You have an overwhelming feeling of holiness as you move about these shifting
+halls. Everything is white, even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+White mist everywhere...
+~
+~
+0 -1 21342
+D1
+White mist everywhere...
+~
+~
+0 -1 21344
+D2
+White mist everywhere...
+~
+~
+0 -1 21343
+D3
+White mist everywhere...
+~
+~
+0 -1 21341
+S
+#21343
+Halls of Supreme Good~
+You have an overwhelming feeling of holiness as you move about these shifting
+halls. Everything is white, even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+White mist everywhere...
+~
+~
+0 -1 21342
+D1
+White mist everywhere...
+~
+~
+0 -1 21341
+D2
+White mist everywhere...
+~
+~
+0 -1 21343
+D3
+White mist everywhere...
+~
+~
+0 -1 21344
+S
+#21344
+Halls of Supreme Good~
+You have an overwhelming feeling of holiness as you move about these shifting
+halls. Everything is white, even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+White mist everywhere...
+~
+~
+0 -1 21341
+D1
+White mist everywhere...
+~
+~
+0 -1 21345
+D2
+White mist everywhere...
+~
+~
+0 -1 21344
+D3
+White mist everywhere...
+~
+~
+0 -1 21343
+S
+#21345
+Halls of Supreme Good~
+You have an overwhelming feeling of holiness as you move about these shifting
+halls. Everything is white, even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+White mist everywhere...
+~
+~
+0 -1 21345
+D1
+White mist everywhere...
+~
+~
+0 -1 21346
+D2
+White mist everywhere...
+~
+~
+0 -1 21344
+D3
+White mist everywhere...
+~
+~
+0 -1 21342
+S
+#21346
+Halls of Supreme Good~
+You have an overwhelming feeling of holiness as you move about these shifting
+halls. Everything is white, even the air around you.
+~
+171 268435468 0 1 99 0
+D0
+White mist everywhere...
+~
+~
+0 -1 21343
+D1
+White mist everywhere...
+~
+~
+0 -1 21341
+D2
+Another plane.
+~
+~
+0 -1 21369
+D3
+White mist everywhere...
+~
+~
+0 -1 21342
+S
+#21347
+Entrance to the Halls of the Gods~
+You have entered the halls of the gods.  Overwhelming power radiates
+everywhere. There are no fancy decorations or anything around.  All
+around you is a mist that strangely resembles dew, however, it is neither
+wet nor does it impare your vision at all it is just sortof there.  The
+air here is the freshest you've ever inhaled and an all-encompasing
+feeling of something unnatural engulfes you.  A magical voice booms out
+as you enter the halls: 'Ye who hath violated the Halls of the Gods, be
+warned :  All whom are not invited shall be dealt with accordingly.  The
+mythos of the Kalevala are NOT pleased.'
+~
+171 268435468 0 1 99 0
+D0
+The halls continues to the north.
+~
+~
+0 -1 21348
+S
+#21348
+Halls of the Heros~
+Overwhelming power radiates everywhere. There are no fancy decorations
+nor anything around.  All around you is a mist that strangely resembles
+dew, however, it is neither wet nor does it impare your vision at all,
+it is just sortof there.  The feeling of something unnatural engulfes
+you. You notice that these halls don't seem to change much no longer
+how long you look around.
+~
+171 268435468 0 1 99 0
+D0
+The halls continue to the north.
+~
+~
+0 -1 21349
+D1
+A hero's chamber.
+~
+~
+0 -1 21357
+D2
+The entrance lies just south of here.
+~
+~
+0 -1 21347
+D3
+A hero's chamber.
+~
+~
+0 -1 21356
+S
+#21349
+Halls of the Heros~
+Overwhelming power radiates everywhere. There are no fancy decorations
+nor anything around.  All around you is a mist that strangely resembles
+dew, however, it is neither wet nor does it impare your vision at all,
+it is just sortof there.  The feeling of something unnatural engulfes
+you. You notice that these halls don't seem to change much no longer
+how long you look around.
+~
+171 268435468 0 1 99 0
+D1
+The halls continue to the east.
+~
+~
+0 -1 21350
+D2
+The halls continue to the south.
+~
+~
+0 -1 21348
+D3
+A hero's chamber
+~
+~
+0 -1 21354
+S
+#21350
+Halls of the Heros~
+Overwhelming power radiates everywhere. There are no fancy decorations
+nor anything around.  All around you is a mist that strangely resembles
+dew, however, it is neither wet nor does it impare your vision at all,
+it is just sortof there.  The feeling of something unnatural engulfes
+you. You notice that these halls don't seem to change much no longer
+how long you look around.
+~
+171 268435468 0 1 99 0
+D0
+This is a door of pure light.  It shines so brightly that you need to
+shield your eyes lest you become blinded.
+~
+light door~
+3 21121 21351
+D1
+A hero's chamber.
+~
+~
+0 -1 21355
+D3
+The halls continue to the west.
+~
+~
+0 -1 21349
+S
+#21351
+Staircase of the Kalevala~
+The staircase begins to shift and change direction beneath your feet.  All
+around you swirling colors of light engulf everything. You are becoming
+increasingly dizzy.
+~
+171 268435468 0 1 99 0
+D2
+This is a door of pure light.  It shines so brightly that you need to
+shield your eyes lest you become blinded.
+~
+door light~
+15 21350 21350
+D4
+The stairs lead up from here.
+~
+~
+0 -1 21352
+S
+#21352
+Top of the Staircase of the Kalevala~
+The staircase continues to shift and change direction beneath your feet.
+All around you swirling colors of light engulf everything. You are
+becoming VERY dizzy now.  The halls to the north are shifting positions
+all over the place.
+~
+171 268435468 0 1 99 0
+D0
+The halls twist and bend.
+~
+~
+0 -1 21324
+D5
+The stairs lead down from here.
+~
+~
+0 -1 21351
+S
+#21353
+Land of Summoned Monsters~
+If you can read this then leave!
+~
+171 268435589 0 1 99 2
+S
+#21354
+Chamber of Ilmarinen~
+This magnificent chamber looks like the blacksmith shop of the gods.  All
+along the walls and in cases, are the finest weapons that have ever been
+made. Armors from distant planes, hang on display as well.  There is a giant
+anvil in the center of the room as well as an gorgeous sledge against the
+wall.
+~
+171 268435468 0 1 99 0
+D1
+The halls lie to the east.
+~
+~
+0 -1 21349
+S
+#21355
+Chamber of Lemminkainen~
+This plane/chamber is decorated rather oddly.  There are several instruments
+for grooming wolves, as well as several sets of battle-hardened armor, strewn
+about. Several weapons lie split in half and bent all over.  There is a
+strange brush on a table here, and it seems to be bleeding?????
+~
+171 268435468 0 1 99 0
+D3
+The halls lie to the west
+~
+~
+0 -1 21350
+S
+#21356
+Chamber of Vainamoinen~
+This is the chamber of the Kalevala's greatest hero.  All around there are
+illusionary images of the great battles that the 'Son of the Wind' has fought.
+Resting easily in a corner of this plane is a magnificent warhorse, and
+behind him rests a gigantic sledge.  At another area of the plane there is
+a glowing boat.
+~
+171 268435468 0 1 99 0
+D1
+The halls lie to the east.
+~
+~
+0 -1 21348
+S
+#21357
+Chamber of Kullervo~
+This is the chamber of Kullervo, the foil of the good heros of the Kalevala.
+The plane itself is not well assembled.  There are rifts in the fabric of
+its existence, and mainly looks like it isn't well taken care of.
+~
+171 268435468 0 1 99 0
+D3
+The halls lie to the west.
+~
+~
+0 -1 21348
+S
+#21358
+Ilmatar's Plane~
+This is the home plane of existence for Ilmatar.  It appears as a giant
+nursery for the gods.  There are toys, cribs, and highchairs, even if they
+do appear more magical than anything you've ever seen before.  This would
+seem odd to you if you didn't know that Ilmatar is the Goddess of Mothers.
+~
+171 268435469 0 1 99 0
+D1
+The halls constantly shift.
+~
+~
+0 -1 21324
+S
+#21359
+The Forest of Mielikki~
+You have stepped into a fantastic forest.  The trees tower over you as far
+as you can see, and they each have their own particular space, none invades
+another. The air smells of fresh pine and there are dozens of species of
+animals moving about in their daily ritual.
+~
+171 268435469 0 1 99 0
+D3
+The halls constantly shift.
+~
+~
+0 -1 21326
+S
+#21360
+ZZZzzzzzzzzz.......~
+As soon as you enter this plane you find yourself in a battle with sleep.
+YAWN!!!!! You are extremely tired.
+~
+171 268435469 0 1 99 0
+D3
+The halls constantly shift.
+~
+~
+0 -1 21327
+S
+#21361
+Home of the Plague~
+UUUUUUGGGGGGHHHHH!!!! This plane is horrible!!!  The stench of dead and
+decaying corpses is barely tolorable.  All around you, corpses are rotting
+and decaying at a highly acceletated rate.  There are several people here
+screaming in pain and looking almost dead due to a starnge ailment.  Best
+to leave before you catch it as well.
+~
+171 268435485 0 1 99 0
+D1
+The evil halls twist and bend.
+~
+~
+0 -1 21328
+S
+#21362
+The Plane of Pain~
+This looks VERY bad!  There are instruments of torture everywhere you look.
+There are crusifixes, racks, iron maidens, lemon and salt dipped swords,
+whips, hot oil, a dunk tank, and various other instruments of pain.  The
+'Maiden of Pain' has an interesting idea of decorations.
+~
+171 268435485 0 1 99 0
+D2
+The evil halls twist and bend.
+~
+~
+0 -1 21329
+S
+#21363
+Death's Door~
+Ever heard of being in the wrong place at the wrong time?  This plane appears
+to be under the control of the demigod of death.  The rows and columns of
+corpses are what make you feel like you should leave, before you become a
+permanent addition.
+~
+171 268435485 0 1 99 0
+D1
+The evil halls twist and bend.
+~
+~
+0 -1 21331
+S
+#21364
+Chamber of the Old Crone~
+This plane appears as a master alchemist's lab.  There are shelves full
+of various potion ingrediants as well as some potions.  There are mixing
+and measuring instruments lying about as well.  There are symbols of
+wolves all around.  This is a fitting plane for the ruler of the evil
+land of Pohjola.
+~
+171 268435485 0 1 99 0
+D0
+~
+~
+0 -1 21329
+S
+#21365
+Plane of Pure Evil~
+Brrrrrrrrrrrr.. This place could put a booger look on a demon.  The sense of
+evil radiating from here makes you think that all the evil of the world,
+starts here.  Everything is either black or has turned into a strange
+misty grey, on its way to becomming black.
+~
+171 268435485 0 1 99 0
+D1
+Black mist everywhere...
+~
+~
+0 -1 21333
+S
+#21366
+The Underworld~
+This is the height of all the evil planes.  From here Tuoni and Tuonetar
+rule over all that is evil in all the planes.  Black mist covers the entire
+plane and no details can be made out about its makeup.
+~
+171 268435485 0 1 99 0
+D1
+Black mist everywhere...
+~
+~
+0 -1 21335
+S
+#21367
+Plane of Oceans~
+For as far as you can see there is water.  All of the oceans of the prime
+material plane, are from this plane.  The water is crystal clear and calm
+as a small pond.  All different sea animals dwell in its depths, without
+fear of wandering warriors disturbing them.  The portal you came from lies
+to the west.
+~
+171 268435533 0 1 99 7
+D3
+The good halls slide and shift.
+~
+~
+0 -1 21338
+S
+#21368
+Halls of Good~
+The halls continue to shift and an overwhelming sense of good overcomes you.
+All around you is a soft white vapor which welcomes you in.
+~
+171 268435468 0 1 99 0
+D0
+The good halls slide and shift.
+~
+~
+0 -1 21337
+D1
+The good halls slide and shift.
+~
+~
+0 -1 21337
+D2
+The good halls slide and shift.
+~
+~
+0 -1 21337
+D3
+The good halls slide and shift.
+~
+~
+0 -1 21337
+S
+#21369
+Plane of Sky and Air~
+You are floating in a plane with no solid mass.  There is nothing but open
+sky, clouds and air all around.  This is the residence of the supreme god
+of the Kalevala.
+~
+171 268435533 0 1 99 7
+D0
+White mist everywhere...
+~
+~
+0 -1 21346
+S
+#21370
+Under the River's Surface~
+You have ducked under the surface of the River Cadera.  The water is tough
+to see in, but you are able to notice a few of the different fish that this
+river is home to.
+~
+171 1 0 1 99 8
+D1
+Water everywhere...
+~
+~
+0 -1 21371
+D4
+A magical force pulls you upwards.
+~
+~
+0 -1 21109
+S
+#21371
+Murky Water~
+The water is especially murky here and you can't see your way around.  You
+think you could go east, west or south.  You'd better get some air soon.
+~
+171 1 0 1 99 8
+D2
+Water everywhere
+~
+~
+0 -1 21373
+D3
+Water everywhere...
+~
+~
+0 -1 21370
+S
+#21372
+Magical Cell~
+You have entered a cell made out of pure mithril.  The sides sparkle with
+magical glyphs and wards.  It is obvious that whatever was imprisoned here
+was never meant to get out.
+~
+171 805306377 0 1 99 0
+D2
+The cage leads out.
+~
+door~
+15 21234 21246
+S
+#21373
+Lighter Water~
+The water gets a bit lighter here and you can now make out several different
+species of colorfull fish.  There is a ledge poking out to the east and
+you think you can jump up to it.
+~
+171 1 0 1 99 8
+D0
+Water everywhere...
+~
+~
+0 -1 21371
+D1
+There is a ledge thee just above the water line.
+~
+~
+0 -1 21374
+S
+#21374
+On a Ledge~
+You are standing on a ledge, just above the water, in an underwater cavern.
+The ledge is only about 4 feet wide and there is a door to the north.
+~
+171 1 0 1 99 8
+D0
+There is a magical door with the symbol of the Mystic on it.
+~
+door lat~
+15 21327 21372
+D3
+The water flows under this ledge from the west.
+~
+~
+0 -1 21373
+S
+#21375
+Crashing Through the Forest~
+You have crashed through the forest, and have found a small path here.  It
+is very well hidden amongst the overgrowth but you think you can continue.
+~
+171 4 0 1 99 3
+D0
+The forest lies to the north.
+~
+~
+0 -1 21158
+D2
+You think you can keep going to the south.
+~
+~
+0 -1 21376
+S
+#21376
+Hidden Pit~
+AAAARRRRRRGGGGHHHHHH!! As you stp here the ground gives out.  And you
+fall through a false ground and land with an oooooffffffff!
+There is a hole in the ground here and a strange hovering ladder poking
+through it.
+~
+171 1 0 1 99 3
+D0
+The path continues to the north.
+~
+~
+0 -1 21375
+D5
+You can climb down a magical latter here.
+~
+~
+0 -1 21377
+S
+#21377
+Deep Underground~
+This cavern is small but you are able to squeeze through it.  The cavern
+is strangely quite clean.  There are several sketches carved into the rock
+and you can see more than a fe glyphs and wards as well.  There is a magical
+ladder here which hovers up to a hole in the ceiling.
+~
+171 9 0 1 99 0
+D1
+The dirt wall looks moveable.
+~
+dirt wall~
+9 -1 21378
+D4
+There is a ladder that hovers here, that you could use to leave this cavern.
+~
+~
+0 -1 21109
+S
+#21378
+Ichzentenopheous's Dwelling~
+You have entered the dwelling of the most famous and least seen sorcerer
+in Tuscany.  The cavern looks comfortable yet unmodest.  There are a few
+potions on a shelf and there is a very nicely crafted meditation rug
+in the center of the floor and many different puzzles and riddles carved
+into the walls.  There is also a very magical looking door to the east.
+~
+171 268435465 0 1 99 0
+D1
+The door is magically sealed.
+~
+magic door~
+15 21333 21379
+D3
+The dirt wall looks moveable.
+~
+dirt wall~
+9 -1 21377
+S
+#21379
+Artifact Room~
+This room is simple looking yet it is littered with artifacts.  Each one has
+there own special magically sealed plane to rest eternally in.  It seems
+that the Mental Mystic makes a habit of collecting artifacts and storing
+them where no one can ever use them again.
+~
+171 268435465 0 1 99 0
+D3
+The door is magically sealed.
+~
+magic door~
+15 21333 21378
+S
+#21380
+Flying over Tuscany~
+You can see the entire kingdom from here.
+~
+171 268435468 32768 1 99 0
+D4
+A giant tower of ivory lies ahead.
+~
+~
+96 -1 21321
+D5
+There is a giant waterfall directly below you.
+~
+~
+96 -1 21161
+S
+#21381
+A secret, hidden cabin~
+Somehow you have stumbled into a cozy cabin hidden somewhere in the
+depths of the forest.  You do not remember walking here; you must
+have had some divine intervention help you along.  Nevertheless, you
+stand in the middle of a very relaxing environment.  All your worries
+have vanished, almost as fast as you found yourself here.  This looks
+like a place for someone to escape to when they want to hide from the
+dangers of the outside world.  You feel much better already.
+~
+171 1342292488 536870912 43 99 0
+S
+$~
+#999999

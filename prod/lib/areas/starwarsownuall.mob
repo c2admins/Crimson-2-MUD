@@ -1,0 +1,194 @@
+#24100
+mob gryphon rabid mob~
+A rabid &ygryphon&n~
+A rabid &ygryphon&n charges you.
+~
+&wA rather large beast stands here ready to rip your body to shreds. This mythical creation
+is the combination of part lion part eagle. It has a errie &Rred &wglow about it's eyes.&n
+~
+25550858 32769 136249361 67109036 0 S
+46 -20 0 1d1+19999 30d15+10
+500000 2000000
+8 8 1
+0 0 16 16 15 15 14 11
+ATTACK_SKILL=50
+ATTACK_SKILL=3
+ATTACK_SKILL=4
+ATTACK_TYPE=105
+ATTACK_SKILL=24
+ATTACK_SKILL=3
+ATTACK_SKILL=2
+ATTACK_TYPE=108
+ATTACK_SKILL=10
+ATTACK_SKILL=3
+ATTACK_SKILL=2
+ATTACK_TYPE=102
+#24101
+mob Poison creeping vine mob~
+&WA &Gp&goisonu&Gs &Gc&greepin&Gg &Gv&win&Ge&n~
+&WA &Gp&goisonu&Gs &Gc&greepin&Gg &Gv&win&Ge &Wcreeps along the &yground&W.&n
+~
+&GA rather large prickly vine slowly creeps along the ground.&n
+~
+25550926 1 136249361 69206028 -750 S
+42 1 40 1d1+10999 12d12+15
+0 375000
+8 8 0
+0 0 16 17 14 14 15 12
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=104
+ATTACK_SKILL=5
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=104
+ATTACK_SKILL=3
+ATTACK_SKILL=1
+ATTACK_SKILL=1
+ATTACK_TYPE=104
+#24102
+mob giant wolf spider mob~
+&wA giant &yw&wol&yf &ys&wpide&yr&n~
+&wA giant spider lunges towards you.&n
+~
+&wA giant spider stands here ready to bounce on you. It has rather large
+fangs dripping with &Gv&ge&wn&go&Gm&w protruding from it's mouth.&n
+~
+25288714 32769 136249361 69206048 -1000 S
+43 -15 40 100d10+15000 20d20+40
+0 550000
+8 8 2
+0 0 20 16 15 20 13 14
+ATTACK_SKILL=10
+ATTACK_SKILL=2
+ATTACK_SKILL=2
+ATTACK_TYPE=106
+ATTACK_SKILL=10
+ATTACK_SKILL=2
+ATTACK_SKILL=2
+ATTACK_TYPE=101
+ATTACK_SKILL=10
+ATTACK_SKILL=2
+ATTACK_SKILL=2
+ATTACK_TYPE=102
+#24103
+mob master thief mob~
+&KThe &wM&Kaste&wr &yThief&n~
+&KThe &wM&Kaste&wr &yThief &wis clouded in &Kdarkness.&n
+~
+&wA figure stands here clouded in &Kdarkness&w. As he moves around
+the room his footsteps are completely silent.&n
+~
+1075118094 32769 136249361 67109024 -1000 S
+47 -20 -20 100d50+19000 30d30+35
+2500000 1250000
+8 8 1
+1 3 22 17 15 22 13 14
+ATTACK_SKILL=15
+ATTACK_SKILL=3
+ATTACK_SKILL=2
+ATTACK_TYPE=101
+ATTACK_SKILL=10
+ATTACK_SKILL=3
+ATTACK_SKILL=2
+ATTACK_TYPE=108
+#24104
+mob ulsaf master blacksmith mob~
+&yUlsa&yf &wthe master &Kb&wlacksmit&Kh&n~
+&yUlsaf &wstands here pounding away on an &Kanvil.&n
+~
+&wA rather large man stands before pounding away on his anvil. In his hand
+he wields a massive forge hammer. His body is disfigured from the heat of
+of his forge. He notices you and prepares to crush your skull with a mighty
+blow from his forge hammer.&n
+~
+1082449930 32769 136249361 2097292 -350 S
+50 -20 0 100d100+20000 30d30+40
+3000000 1200000
+8 8 1
+24 4 25 18 16 16 14 12
+ATTACK_SKILL=20
+ATTACK_SKILL=5
+ATTACK_SKILL=2
+ATTACK_TYPE=108
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_SKILL=2
+ATTACK_TYPE=101
+#24105
+mob rotund chef mob~
+&WA rotund &ychef&n~
+&WA rather rotund &ychef&W stands here preparing a stew.&n
+~
+&WA large and jolly fatman stands over his cooking pot humming a song. In his
+he holds a butchers cleaver chopping away at some &Gvegetables&W.
+~
+10 32769 136249361 69206024 0 S
+44 -9 40 1d1+17999 30d20+30
+750000 450000
+8 8 1
+0 0 16 17 14 15 12 15
+#24106
+mob cloaked mercenary mob~
+&yA cloaked mercenary&n~
+&yA cloaked mercenary wonders about on patrol.&n
+~
+&w  A hired mercenary wanders about on his daily patrol. There isn't
+really anything special about them. They wear a simple studded
+leather armor and wield common short swords.&n
+~
+1048650 32769 136249361 2097288 -1000 S
+42 2 40 1d1+9999 20d20+40
+250000 950000
+8 8 1
+0 0 17 16 14 14 15 15
+#24107
+mob harpy mob~
+&GS&ghrillin&Gg &yharpy&n~
+&wA &Gs&ghrillin&Gg &yharpy &wpierces you with it's &Rred &weyes.&n
+~
+&w A large half woman half bird creature lets out a shrill and begins to rend
+at your flesh. With every attack the harpy lets out a might shrill.&n
+~
+83886090 32769 136249361 538972296 -1000 S
+44 -5 0 1d1+14999 35d10+99
+125000 975000
+8 8 2
+0 0 16 18 14 14 12 12
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=105
+ATTACK_SKILL=20
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_TYPE=106
+#24108
+mob master torturer mob~
+&KM&waste&Kr &YT&yorture&Yr&n~
+&wThe &KM&waste&Kr &YT&yorture&Yr&w stands here with an evil grin on her face.&n
+~
+  &wA tall women clad in a black leather outfit stands before you whip in hand. She
+has a gleam in her eye and a evil grin on her face. As you approach her she begins
+to crack her whip.&n
+~
+1081354 32769 136249361 606077096 -1000 S
+49 -26 -30 100d100+25000 20d20+35
+1200000 2100000
+8 8 2
+1 3 22 22 22 22 22 22
+ATTACK_SKILL=99
+ATTACK_SKILL=20
+ATTACK_SKILL=2
+ATTACK_TYPE=104
+ATTACK_SKILL=35
+ATTACK_SKILL=20
+ATTACK_SKILL=2
+ATTACK_TYPE=104
+ATTACK_SKILL=15
+ATTACK_SKILL=20
+ATTACK_SKILL=2
+ATTACK_TYPE=104
+$~
+#999999

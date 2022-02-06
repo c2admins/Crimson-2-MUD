@@ -1,0 +1,180 @@
+#8350
+mob gnome laborer~
+the gnome laborer~
+A gnome laborer is here, relaxing after a hard day of work.
+~
+This man is stout and pudgy. He has a long, white beard and a reddish nose.
+Although is measures only 3 feet in height, he look he looks strong for his
+size.
+~
+14 1 136249361 0 1000 S
+7 30 36 5d9+21 3d3+2
+350 210
+8 8 1
+3 0 13 14 12 12 10 11
+#8351
+mob gnome woman~
+the gnome woman~
+A gnome woman is here, smiling at you casually.
+~
+The gnome woman stands no more than 3 feet tall. She hums softly to herself
+as she goes about her work.
+~
+14 1 136249361 0 1000 S
+6 31 36 9d5+14 3d3+1
+320 185
+8 8 2
+0 0 13 11 11 11 11 7
+#8352
+mob gnome child~
+the gnome child~
+A gnome child is here, pointing at you and laughing.
+~
+This small humanoid stands at about 2 feet in height. His mischievious grin
+seems to tell you that he is usually up to no good.
+~
+12 1 136249361 0 1000 S
+4 33 37 5d5+15 2d3+1
+270 120
+8 8 1
+3 0 13 12 11 10 8 9
+#8353
+mob gnome guard~
+the gnome guard~
+A guard of the gnome village is here, scanning the area for intruders.
+~
+This gnome looks to be both muscular and dextrous. He has sworn upon his
+father's grave to protect the villagers with his life. He carries a stern
+expression on his face, and eyes you with slight suspicion.
+~
+14 1 136249361 0 1000 S
+9 30 35 8d5+32 4d3+2
+415 275
+8 8 1
+3 0 13 13 12 13 12 11
+#8354
+mob gnome leader Grenlitstone~
+Grenlitstone~
+Grenlitstone, leader of the gnome people is standing here.
+~
+This is the oldest gnome you have seen here yet.  His long, flowing, white
+beard hangs down to his knees, and his nose is red from years of heavy
+ale drinking.  He smiles and welcomes you into his room as you approach.
+~
+262158 32769 136249361 128 1000 S
+13 26 31 9d9+43 3d5+6
+1150 4000
+8 8 1
+3 0 14 15 11 11 10 8
+SKILL=SPELL_BLINDNESS 30
+SKILL=SPELL_BURNING_HANDS 30
+SKILL=SPELL_CURSE 30
+SKILL=SPELL_MAGIC_MISSILE 30
+#8355
+mob gnome infant~
+the gnome infant~
+A gnome infant is here, lying in a crib.
+~
+Aaaawwww, how cute!
+~
+14 1 136249361 0 1000 S
+1 35 39 4d5+5 1d6+0
+160 35
+8 8 1
+3 0 11 12 10 10 9 9
+#8356
+mob gnome traveller~
+the gnome traveller~
+A gnome traveller is here, getting drunk and telling tales.
+~
+The man has a worn face and a long white beard. He seems to have several
+of the people in the bar listening to his stories. From what you can here,
+most of what is he telling about his travels is probably not true.
+~
+14 1 136249361 0 1000 S
+8 30 35 5d9+25 2d3+5
+370 235
+8 8 1
+3 0 14 15 12 13 11 9
+#8357
+mob gnome innkeeper~
+the gnome innkeeper~
+The innkeeper is here, tending to the bar and offering rooms.
+~
+This man looks rich and fat. It is obvious that his business has been 
+profitable for him. When he sees that you are not a gnome, he eyes you
+suspiciously.
+~
+537133070 1 136249393 0 1000 S
+9 30 35 5d7+35 3d3+4
+400 280
+8 8 1
+3 0 14 13 12 11 12 8
+#8358
+mob gnome hero egbenchad~
+Egbenchad, Gnome hero~
+Folk hero of the gnomes, Egbenchad, stands here.
+~
+This is the largest gnome you have ever seen. Under his long beard you can
+see his bulging muscles and tough skin. Stories from town have told you that
+this man was responsible for single-handedly slaying a wyvern that once 
+plagued the village with repeated attacks. He is respected throughout the
+community, and legends of his deeds will be passed down for generations.
+~
+14 1 136249361 0 1000 S
+14 25 30 15d9+120 3d3+6
+2250 4300
+8 8 1
+3 0 13 13 13 11 12 12
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#8359
+mob gnome drunk drunken~
+the drunken gnome~
+A drunken Gnome is here, quaffing large quantities of ale.
+~
+It is evident from looking at this little man that he has too much to drink.
+His nose is red and his eyes are bloodshot. He desperately tries to hold on
+to his mug of ale, so that he can have a few more sips before he passes out.
+~
+14 1 136249361 0 1000 S
+5 32 37 5d5+20 3d3+0
+280 140
+8 8 1
+3 0 13 12 12 12 10 7
+#8360
+mob gnome ancient bendershank~
+Bendershank the Ancient~
+Bendershank the Ancient stares at you from the corner of the room.
+~
+Before you stands the true King of the gnomish people.  Bendershank the Ancient,
+as he'd been called called for the last millennia, was abducted and shackled to
+the walls of this room by his son, Grenlitstone, in an attempt to control the
+gnomish kingdom.  Even now the Royal Tree is decorated with pictures of Grenlitstone
+in an attempt to erase the memory of Bendershank.
+~
+262158 32769 136249361 128 0 S
+15 28 35 1d1+120 3d5+6
+1500 8000
+8 8 1
+3 0 17 16 15 15 14 13
+SKILL=SPELL_CHILL_TOUCH 70
+SKILL=SPELL_COLOUR_SPRAY 70
+#8361
+mob gnome guard off-duty~
+an off-duty gnome guard~
+An off-duty gnome guard is here, drinking ale and blowing off steam.
+~
+This gnome looks to be both muscular and dextrous. He has sworn upon his
+father's grave to protect the villagers with his life. He carries a stern
+expression on his face, and eyes you with slight suspicion.
+~
+14 1 136249361 0 1000 S
+9 30 35 8d1+32 4d3+2
+415 275
+8 8 0
+3 0 13 13 12 13 12 11
+$~
+#999999

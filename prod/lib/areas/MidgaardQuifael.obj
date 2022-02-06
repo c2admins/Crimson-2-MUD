@@ -1,0 +1,167 @@
+#6900
+obj optimizer~
+80
+Quifael's global optimizer~
+Quifael's global optimizer has been left here.~
+chop~
+5 524288 0 8193
+0 3 6 3
+1 10 10000
+E
+optimizer~
+It is a very unpredictable piece of software, consisting mostly of
+self-modifying code and inexcusable goto commands.  Looks very dangerous.
+~
+A
+18 2
+A
+19 2
+#6910
+obj shirt scale~
+80
+a black dragon scale shirt~
+A black dragon scale shirt has been left here.~
+~
+9 65600 0 9
+16 0 0 0
+10 10000 3000
+E
+shirt scale~
+It is a sleeveless shirt made from big, black dragon scales joined with silver
+threads.  Its inside has been made from the soft skin on the dragon's belly,
+making it very comfortable to wear.  The name "Isha" has been engraved on one
+of the scales.
+~
+#6911
+obj skirt scale~
+80
+a black dragon scale skirt~
+A black dragon scale skirt has been left here.~
+~
+9 64 0 33
+10 0 0 0
+8 5000 1500
+E
+skirt scale~
+It is a short skirt made from big, black dragon scales joined with silver
+threads.  Its inside has been made from the soft skin on the dragon's belly,
+making it very comfortable to wear.  The name "Isha" has been engraved on one
+of the scales.
+~
+#6912
+obj cloak black~
+100
+a black, hooded cloak~
+A large, hooded cloak, as dark as the night, has been left here.~
+~
+9 64 0 1025
+10 0 0 0
+20 8000 3000
+E
+cloak black~
+It is a heavy, black cloak with a large hood.  The name "Isha" is written
+inside it with a silver thread.
+~
+A
+23 -2
+#6913
+obj belt silver~
+100
+&ca broad&w silver&C belt&n~
+A broad silver belt has been left here.~
+~
+9 4160 0 2049
+6 0 0 0
+4 5000 1500
+E
+belt silver~
+It is a broad belt made from tiny silver rings woven together.
+~
+#6914
+obj sword long slender~
+100
+a long, slender sword~
+A long, slender sword lies on the ground.~
+slash~
+5 1051201 0 8193
+0 3 6 3
+7 30000 10000
+E
+sword long slender~
+It is a long, slender sword that seems to be made from silver.  The name
+"Isha" has been engraved on the hilt.
+~
+A
+18 2
+A
+19 2
+#6950
+obj coffee machine~
+100
+a coffee machine~
+A coffee machine is standing here.~
+~
+17 2 0 0
+1000 1000 12 0
+100 3000 300
+E
+coffee machine~
+It is a big old-fashioned thing that most of all resembles a cupboard with a
+slot large enough to hold three coffee cups at once.  It doesn't appear to
+have any buttons or any other means of control.  Golden letters on its front
+tell that this is a Quifatronic C-1000 mk I.
+~
+#6951
+obj coffee cup~
+100
+a coffee cup~
+A coffee cup has been left here.~
+~
+17 0 0 1
+3 3 12 0
+1 6 3
+E
+coffee cup~
+It is a small white throwaway cup that has 'Keep MudLand tidy' written on its
+side and 'Quifatronic C-1000 mk I' on its bottom.
+~
+#6998
+obj sleeves Death~
+2
+&Kthe sl&we&Kev&we&Ks of &WD&weat&Wh&n~
+Some deadly looking sleeves have been left here.~
+reaps~
+9 4194308 0 257
+45 0 0 0
+5 240000 60000
+A
+19 3
+A
+18 4
+A
+24 -5
+#6999
+obj quest scythe of death~
+0
+&wthe &KS&wc&Ky&wt&Kh&we &wof &KD&we&Ka&wt&Kh&n~
+The Scythe of Death rests heavily on the ground.~
+reaps~
+5 4456960 3072 24577
+16776315 8 8 11
+10 30000 10000
+E
+scythe~
+It is a very heavy scythe.  The grey handle is made from hard wood and the long
+iron blade is completely smooth from countless years of use.  It feels cold to
+the touch.
+~
+A
+19 6
+A
+19 4
+A
+41 3
+A
+41 3
+$~
+#999999

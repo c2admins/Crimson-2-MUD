@@ -1,0 +1,331 @@
+#23800
+obj theodon crown helms~
+1
+&Y\|/&W=&C*&W=&Y\|/&n~
+&wA grand looking crown lays here.&n~
+~
+9 104870912 147456 17
+0 0 0 0
+3 5 10000
+A
+40 2
+A
+19 2
+A
+17 20
+#23801
+obj gimli's war axe helms~
+2
+&yGimli's &wwar &caxe&n~
+&wA rugged looking axe lays here.&n~
+~
+5 21002240 0 8193
+36864 5 8 3
+1 5 5
+A
+19 2
+A
+18 4
+#23802
+obj elven gloves dexterity helms~
+1
+&GE&glve&Gn &ygloves &wof &Gde&gxteri&Gty&n~
+&wA finely crafted pair of &ygloves&w have been left behind.&n~
+~
+9 71370752 0 129
+15 0 0 0
+1 250000 25000
+A
+19 3
+A
+41 1
+A
+13 -20
+#23803
+obj uruk-hai forged leg plates helms~
+2
+&KBlack &wf&Korge&wd &wleg &Kpla&wtes&n~
+&wA pair of &Kblack&w leg plaets lay here &rrusting &waway.&n~
+~
+9 104859648 0 33
+0 0 0 0
+5 150000 15000
+A
+19 2
+A
+18 1
+A
+40 1
+#23804
+obj eye sauron helms~
+2
+&rE&Ry&re &wof &YSau&Rron&n~
+&wA &Yb&rur&Rn&rin&Yg &rred &Keye &wfloats before you.&n~
+~
+12 138674176 4 17
+0 0 0 0
+1 5 5
+A
+38 -1
+A
+29 -1
+#23805
+obj ladder~
+2
+&wA &ywooden &wladder&n~
+&wA &ywooden &wladder rests against the fortress wall.&n~
+~
+25 8 0 0
+23810 0 0 0
+1 5 5
+#23806
+obj mark saruman helms~
+2
+&KM&war&Kk &wof &YSaru&Rman&n~
+&wA symbol bearing the mark of saruman lays on the ground.&n~
+~
+9 105122312 1024 21
+0 0 0 0
+1 5 5
+A
+19 3
+A
+18 2
+A
+40 1
+A
+13 15
+#23807
+obj uruk-hai blade helms~
+1
+&wA &Kuruk-hai &cblade&n~
+&KA jagged &cblade&K has been discarded here.&n~
+~
+5 4200448 16384 8193
+9216 9 4 3
+5 250000 25000
+A
+19 4
+A
+18 2
+A
+13 -15
+#23808
+obj chainmail rugged helms~
+1
+&wRugged looking &KChain&wmail&n~
+&wA suit of chainmail has been left behind.&n~
+~
+9 88084480 139264 9
+80 0 0 0
+25 5 5
+A
+19 2
+A
+18 2
+A
+25 1
+A
+13 -30
+#23809
+obj key fortress ~
+1
+&cA key to the fortress gates.&n~
+&wA key rests on the ground.&n~
+~
+18 262152 0 1
+0 1 0 0
+1 5 5
+#23810
+obj aragorn sword helms~
+1
+&cSword &wof &yAragorn&n~
+&wA &Klong &csword&w has been discarded here.&n~
+~
+5 4217856 8192 8193
+34816 4 10 3
+5 1000000 25000
+#23811
+obj leather sheath helms~
+2
+&wA &yleather &wsheath&n~
+&wA empty &ysheath&w lays here on the ground.&n~
+~
+15 4200448 139264 2049
+500 0 0 0
+5 500000 50000
+A
+40 2
+A
+19 1
+A
+18 1
+#23812
+obj elven fury bow helms~
+1
+&GE&glve&Gn &Rf&Gur&Ry&n~
+&wA odd looking bow has been discarded here.&n~
+~
+5 4197376 0 24577
+2184 5 9 11
+4 250000 25000
+A
+19 2
+A
+18 4
+A
+13 -20
+#23813
+obj throne stone~
+1
+&wA stone crafted throne.&n~
+&wA throne carved out of &Kstone&w sits here.&n~
+~
+15 8 0 0
+0 0 0 0
+1 5 5
+#23814
+obj golden chalice~
+1
+&Ygo&ylde&Yn &Wchalice&n~
+&wA chalice made of gold has been lost here.&n~
+~
+17 8 0 16385
+0 0 0 0
+1 1000000000 5
+#23815
+obj massive broad sword helms~
+1
+&WA massive &wbroad&csword&n~
+&wA massive looking &csword &whas been left behind.&n~
+~
+5 4222976 8192 8193
+3211264 21 3 3
+5 5000000 15000
+A
+19 5
+A
+18 2
+A
+12 -20
+A
+13 -20
+#23816
+obj eowyn's robes helms~
+1
+&WA beautiful silk robe&n~
+&WA silk robe has been misplaced here.&n~
+~
+15 88187904 262144 1025
+500 0 0 0
+1 1000000 10000
+A
+19 3
+A
+17 -40
+A
+41 1
+A
+12 -15
+#23817
+obj gold woven belt helms~
+1
+&wA &Yg&yol&Yd &wwoven &ybelt&n~
+&WA beautiful belt has been discarded here.&n~
+~
+15 88083456 0 2049
+350 0 0 0
+1 200000 20000
+A
+19 3
+A
+18 1
+A
+17 -20
+A
+13 -10
+#23818
+obj forged gauntlets obj helms~
+1
+&KF&worge&Kd &KGaunt&wlets&n~
+&wA pair of gauntlets have been discarded here.&n~
+~
+9 4196864 0 129
+0 0 0 0
+3 35000000 350000
+A
+19 3
+A
+18 1
+A
+40 1
+A
+12 -20
+#23819
+obj eye sauron helms2~
+1
+&rE&Ry&re &wof &YSau&Rron&n~
+&wA &Yb&rur&Rn&rin&Yg &rred &Keye &wfloats before you.&n~
+~
+15 239106560 155780 17
+400 0 0 0
+1 5 5
+A
+19 2
+A
+40 1
+A
+18 2
+A
+13 -20
+#23820
+obj white wizards robe helms~
+1
+&c&wThe &WWhite &cW&wizard&cs &yRobe&n~
+&wA crumpled up &Wrobe &whas been discard here.&n~
+~
+15 4238592 266240 1025
+500 0 0 0
+5 2500000 250000
+A
+19 4
+A
+41 1
+A
+18 1
+A
+17 -50
+#23821
+obj white wizards staff helms~
+1
+&wThe &WWhite &cW&wizard&cs &WStaff&n~
+an intricate white staff leans on the wall.~
+~
+9 4238401 266240 16385
+25 0 0 0
+4 600000 200000
+A
+19 6
+A
+18 3
+A
+32 -1
+A
+14 -25
+#23822
+obj white wizards mage sword helms~
+1
+&wThe &WWhite &cW&wizard&cs &cM&wag&ce &KSword&n~
+&wA sword lays here &Yg&Wleamin&Yg &win the &Ysun&Wlight.&n~
+~
+5 4254721 28672 8193
+4196352 6 6 11
+10 1500000 500000
+A
+41 1
+A
+40 1
+A
+18 2
+$~
+#999999

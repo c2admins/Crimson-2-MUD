@@ -1,0 +1,1878 @@
+#400
+Index for ClansArea~
+Whiterose 440-446
+~
+4 805306376 0 48 99 1
+D2
+~
+~
+0 -1 3070
+S
+#401
+&cT&Ch&cr&Ce&cs&Ch&co&Cl&cd &wto the Bastion&n~
+
+You stand at the gates before the Aberrant.  From here you see a colossal &wtower&B
+to the northeast and hear the ceaseless turning of the &Pp&po&Prt&pa&Pl&B to the south.  The
+ground quakes as the massive doors of granite and ironwood allow you entrance
+to the &Gl&ga&Gvi&gs&Gh &gc&wour&gt&wy&gar&wd&B.&n
+
+~
+4 1342177288 0 1 99 1
+D0
+to the courtyard.
+~
+~
+0 -1 402
+D2
+back to the &Pp&po&Prt&pa&Pl&n.
+~
+~
+0 -1 3070
+S
+#402
+&wThe &gF&Gl&go&Gu&gr&Gi&gs&Gh&gi&Gn&gg C&wour&gt&wy&gar&wd&n~
+
+&gYou realize this place is more of a &Gl&ga&Gvi&gs&Gh &goutdoor &Gg&ga&Grd&ge&Gn &gthan a courtyard, and are
+immediately soothed by the &Gsoft grass&g, the neatly &Gtrimmed hedges&n, and the smell of
+&pwine &gwafting from the giant &Km&wa&Wrb&wl&Ke f&wo&Wunta&wi&Kn&w.&n
+
+&gFrom here you can see a mammoth &wclock tower&g to the far east, while in the other
+direction you can see a small educational campus.  In both directions you are sure that
+you will be suitably entertained, though one direction maybe more so than the other.
+
+~
+4 1342177280 0 1 99 1
+D1
+to the tower.
+~
+~
+0 -1 405
+D2
+back to the entrance.
+~
+~
+0 -1 401
+D3
+beware: education.
+~
+~
+0 -1 403
+S
+#403
+&rT&wh&re Sch&woo&rlho&wus&re&n~
+
+To the west of the &Gg&ga&Grd&ge&Gn &gc&wour&gt&wy&gar&wd&B, this private campus was constructed for the
+benefit of all who stroll these grounds.  You notice several desks, bookshelves, and
+a library further to the west.&n
+
+~
+4 1342177292 0 1 99 1
+D1
+back to the great outdoors.
+~
+~
+0 -1 402
+D3
+to the library.
+~
+~
+0 -1 404
+S
+#404
+&wA Comfortable &yL&wi&ybra&wr&yy&n~
+
+This room is furnished in plush carpeting, overstuffed leather chairs, and luxurious
+satin drapes concealing vast floor-to-ceiling windows.  To encourage intellectual
+pursuits, this is an enforced &cp&wr&ci&wv&ca&wt&ce &Bstudy.&n
+
+~
+4 1342177804 0 1 99 1
+D1
+back to campus.
+~
+~
+0 -1 403
+S
+#405
+&cB&Ca&cs&Ce &wof the Tower&n~
+
+You stand before the staggering tower of the Aberrant.  Squinting, you look to the
+top of the tower and notice a &wclockface &Band several bells.  Evenly spaced windows
+ascend the stone spire to the very peak.&n
+
+&BWhile you're down here, you also notice a miniature stairwell leading down into the earth.
+It appears the steps end abruptly, but that might just be your eyes playing tricks on
+you...it IS awfully dark down there, though.  You detect the faint smell of &Sw&Sa&St&Se&Sr&B
+and can feel cold air creeping up from the ground.&n
+
+~
+4 1342177288 0 1 99 1
+D3
+back to the courtyard.
+~
+~
+0 -1 402
+D4
+second floor.
+~
+~
+0 -1 406
+D5
+the tomb.
+~
+~
+0 -1 408
+S
+#406
+&wTower of the &cA&Cbe&crr&Can&ct&n~
+
+Personal rooms and offices flank you to the east and west.  Sunlight pours in from
+a variety of windows, and you can hear the faint ticking of the &wclocktower&B.  Looking
+around, you notice the stairwell continues to lead upward to the top of the tower.
+Through one of the windows, you can see the &gc&wour&gt&wy&gar&wd &Bfar down below and the &rsch&woo&rlho&wus&re&B
+much further off to the west.&n
+
+~
+4 1342177288 0 1 99 1
+D1
+&KS&Wa&KdP&Wand&Ka &cand &GP&gle&Gb&c's room...it smells like a hamster cage.&n
+~
+~
+0 -1 411
+D3
+&KNight&wOwl &cand &KDark's &cDungeon.&n
+~
+door west~
+9 0 410
+D4
+the penthouse.
+~
+~
+0 -1 407
+D5
+first floor.
+~
+~
+0 -1 405
+S
+#407
+&wTower of the &cA&Cbe&crr&Can&ct&n~
+
+You have entered the top of the &wtower&B, dubbed "&ct&Ch&ce p&Ce&cnt&Ch&cou&Cs&ce&B" by its inhabitants.  You
+gaze all around, openly enthralled by the numerous works of art collected and displayed
+in this lobby.  Vast paintings, including abstract and gothic styles, cover the walls 
+while the massive sculptures erupting from the ground command your respect and attention.
+At the very center of the lobby is a magnificent &Kf&wo&Wunta&wi&Kn&B, spraying jets of &pwine&B in
+complicated arches across the &Kf&wo&Wunta&wi&Kn&B's tall centerpiece, which acts as the source for
+the &pwine&B "waterfall" flowing into the base of the expensive marble structure.
+You also happen to notice rooms surrounding you on all points of the compass.&n
+
+~
+4 1342177288 0 41 99 1
+D0
+&KS&we&pcr&we&Kt&c's main &Co&cf&Cf&ci&Cc&ce&C.&n
+~
+~
+1 -1 409
+D1
+&x&fSee&x&fsaw&x's &xPlayground&x.&n
+~
+door~
+1 0 412
+D2
+&WB&war&Wt&w's &WN&wic&We &wR&poo&wm&W.&n
+~
+~
+0 -1 414
+D3
+&wA &cG&wea&ct D&wwarve&cn H&wal&cl&n
+~
+door oaken~
+9 0 413
+D4
+a forest of large hanging &Gp&gl&Ga&gn&Gt&gs dangling from the ceiling.
+~
+ceiling up door~
+31 429 415
+D5
+second floor.
+~
+~
+0 -1 406
+S
+#408
+&SU&Sn&Sd&Se&Sr&Sw&Sa&St&Se&Sr &ST&So&Sm&Sb&n~
+
+&SSome&Sone's trash &Sis some&Sone else&S's tre&Sasure.  &SKeep items saf&Se here or al&Slow your &Sclan
+&Sto benefit from &Syour genero&Ssity.  If you &Sare takin&Sg rather &Sthan getting, &Splease
+do&Sn't be &Sgreed&Sy.&n
+
+~
+4 1879048201 536870912 1 99 8
+D4
+back to the tower.
+~
+~
+0 -1 405
+S
+#409
+&KSe&wcre&pt's O&wffi&Kce&n~
+
+&cThe first thing you notice as you enter &KS&we&pcr&we&Kt&c's room is the spectacular
+view from the wall-to-wall, floor-to-ceiling window behind her desk.  From the doorway
+you can see what appears to be most of the known &RCrimson&wWorld&c.  You suddenly
+realize how far from the ground this office is, and smile as you notice the scant clouds
+creeping by below the window sil.
+
+Looking around the room, you notice hand-drawn artwork (doodles, really) framed and
+mounted on the walls, and notice a few engineering-related texts piled on the corner
+of &KS&we&pcr&we&Kt&c's desk.  You have a suspicion that if you were to open up one of
+the drawers of her desk, you would see eighty different mechanical pencils and just as
+many pens.  You're not sure whether to be impressed by the degree of preparation or
+saddened by the fact that she is being trained to be a nerd.
+
+~
+4 1344389128 0 1 99 1
+D2
+to the penthouse.
+~
+door south~
+1 0 407
+S
+#410
+&KNight&wOwl &cand &KDark's &cDungeon&n~
+
+&wAs you enter the room, the door slams shut behind you and all you can see is two pairs
+of glowing &geyes&w coming from the corners of this poorly lit room.  You then realize
+this room is only fit for the &Kdarkest&w of all creatures to live here.  You see the
+pairs of &geyes&w moving closer and closer and you then can tell from the look in those
+&geyes&w that you have entered the &cKeep&w of &KDark &wand &KNight&wOwl.&n
+
+~
+4 1342226441 0 1 99 1
+D1
+to the tower.
+~
+door east~
+9 0 406
+S
+#411
+&CL&civin&Cg Q&cuarter&Cs &pof &KS&Wa&KdP&Wand&Ka &pand &GP&gle&Gb&n~
+
+As you enter the room, you notice bunk beds stacked against the far wall and dirty
+magazines strewn about the floor.  There's an Australian flag being used as a window
+blind, covering up what would undoubtedly be a wonderful view.  Judging by the two sets
+of binoculars on the window sil and the empty Kleenex boxes scattered around the room,
+you surmise that their view yields them something of interest. 
+
+~
+4 1342177288 0 1 99 1
+D3
+to the tower.
+~
+~
+0 -1 406
+S
+#412
+&C&fSee&G&fSaw&E&w's &BPlayground.&E~
+&E
+&E
+&E   &w____________&E                                              &w____________&E
+&E  &w/&E&7            &E&w\&E                                            &w/&E&7            &E&w\&E
+&E  &w\&E&7____________&E&w/&E&x______________________&E&x______________________&w\&E&7____________&E&w/&E
+&E     &E&x&f|&E&X                                &E&X                                &E&x&f|&E
+&E      &E&x&f\&E&x&X______________________________&E&x/&E&x\&E&x&X______________________________&E&x&f/&E
+&E                                    &S&f/&E&0  &S&f\&E
+&E                                    &S&f\&E&0&S_&S_&S&f/&E
+~
+4 1348468748 928 41 99 0
+D3
+&EYou slam into the &xWALL!&E  OUCH&x!&x!&x!&E ...
+        &wWatch where you are going next time.&E
+
+~
+wall~
+145 0 407
+E
+wall west~
+&E
+&EThat's funny ...
+&E  You recall entering from this side of the room, but there is only a wall...
+&E Wait!  The wall... How strange....Where did the exit go?
+&EYou wonder to yourself... Is that where I came in from?!?!?!
+&E
+&EScanning the wall and stretching your neck up you notice a distant door at
+&E the top right corner of the wall...
+&EBut you didn't sense any sort of movement ... how can this be!?!?!
+&E
+&EPerplexed and dumbfounded you continue to stare at the distant door above you.
+&EEerily, the door seems to become less and less distant...
+&EIn fact, the ceiling doesn't appear to look as high as you had first thought.
+&EWhy ... the floor is MOVING!!!
+&E
+&EThis whole room is one humongous &x&fSee&x&fSaw&E&x!&E
+&EYou can now climb your way out the door you entered.
+&E
+~
+S
+#413
+&wThe &yG&wrea&yt &wHall of &yT&wheori&yn&n~
+
+&KAs you pass through the doorway you become
+aware of the fine &wstonework&K that went into crafting this room.
+The joints between the &wstones&K are so well crafted
+that there is very little sign of a seam between them.
+In the middle of the room stands a great &wstone table&K
+with a fine dwarven banquet spread out upon it.
+To the far side of the room there is a great &wstone hearth&K with a very
+cozy looking &r&ff&R&fi&Y&fre &R&fb&r&fla&R&fz&Y&fi&R&fn&r&fg&K within it. It's difficult to tell where the
+gasses from the &rf&yir&re&K are escaping, apparently the same craftmanship
+as the rest of the room was able to hide any visible opening.
+You feel an overwhelming urge to sing songs of &yG&Yo&yl&Yd&K mined and orcs
+killed, and dwarvish ale to be consumed.&n
+
+~
+4 1342177288 0 1 99 1
+D1
+to the penthouse.
+~
+door oaken~
+9 0 407
+S
+#414
+&WB&war&Wt&w's &WR&woo&Wm&n~
+
+&WYou see a plain white room here with this message painted on the far wall:
+&k.                        &p"&wThi&ps room loo&wks ni&Kce&W.&p"&n
+
+~
+4 1342177288 0 1 99 1
+D0
+to the penthouse.
+~
+~
+0 -1 407
+S
+#415
+&wT&Wh&we &KT&wo&Wlli&wn&Kg &wof &wt&Wh&we &KB&we&Wl&wl&Ks&n~
+
+&KYou find yourself amidst the &wg&Ke&wa&Kr&ws&K in &wthe Clock Tower&K, the house hideaway.
+It is directly behind the &wtranslucent clockface&K, so the light shines in and is filtered
+by the various &wcams&K, &wsprockets&K, and &wbalance wheels&K.  The rhythmic hum of the
+tower's mechanics soothes you.
+
+Observing the workings of this mechanical masterpiece, you notice a distinct pattern of
+&wgears&K, &waxles&K, and &wpulley systems&K emerging from the clock's design.  Suddenly,
+you become very aware of the fact that a &wgear&K is missing from a pendulum configuration
+that runs across the floor.  Search your pockets...maybe you have one that will fit.&n
+
+~
+4 2212360 536870912 41 99 1
+D5
+you peer at &ct&Ch&ce p&Ce&cnt&Ch&cou&Cs&ce &gfrom behind the &Gp&gl&Ga&gn&Gt&gs.&n
+~
+trapdoor down door~
+15 429 407
+S
+#416
+Crimson Guard entrance~
+
+~
+4 1342226440 0 1 99 1
+D1
+donation room
+~
+~
+0 -1 417
+D5
+exit
+~
+~
+0 -1 3070
+S
+#417
+Crimson Guard assembly room~
+
+~
+4 1342210056 0 1 99 1
+D3
+entrance
+~
+~
+0 -1 416
+S
+#418
+This could be yours.~
+Mudmail room descrips to Jose.
+~
+4 1879048200 536870912 1 99 1
+D3
+Lounge
+~
+~
+0 -1 429
+S
+#419
+&RT&re&Km&rp&Rl&We of &BP&ga&Ki&Bn&n~
+You have been teleported to a temple that smells more foul than
+anything you have smelled before. The very sight of this place makes
+you wish you never had eyes. A feeling of shame and depression
+overcomes you the longer you stay. You see glowing red eyes appear
+in front of you. You turn to leave and all the lights go out.
+You can't see anything. The red eyes appear again, this time
+followed by a mighty roar....
+~
+4 1879048200 0 1 99 1
+D1
+the lounge
+~
+~
+0 -1 429
+S
+#420
+unused~
+UNDEFINED ROOM DESCRIPTION: 420
+~
+4 805306376 0 1 99 1
+D0
+~
+~
+0 -1 421
+D1
+~
+~
+0 -1 422
+D2
+~
+~
+0 -1 419
+D3
+~
+~
+0 -1 412
+S
+#421
+Entrance to the Caern of the Wyrm~
+ You find yourself in a black marble hallway. The only source of light is a
+faint glow emmiting (spelling?) from the end of the corridor.  As you begin
+to make your way towards the end of the hallway, you fall to your knees,
+clutching a gaping wound. With a scream you quickly rise to your feet and
+sprint down the hallway as you hear scraping footsteps and howls behind
+you...
+~
+4 268435464 0 1 99 1
+D0
+~
+~
+0 -1 422
+D5
+Teleporter room
+~
+~
+0 -1 3070
+S
+#422
+Altar to the Wyrm~
+  As you reach the source of the greenish light, you stop to catch your
+breath.  With your heart pounding, you glance around the room, but you find
+that it is empty except for a pool... A POOL OF BALEFIRE! You begin to shake
+as you realize that you've wandered in the the heart of the Wyrm Caern, the
+altar room.  As you grow closer to the pool of balefire, your wound begins
+to burn and the flame shifts from one color to another. You become alarmed
+as you hear the howls growing louder. You panic and look for an exit.
+~
+4 805306376 0 1 99 1
+D1
+~
+~
+0 -1 424
+D2
+~
+~
+0 -1 421
+D3
+~
+~
+0 -1 423
+S
+#423
+The Moonbridge~
+  You turn the corner, and to your horror you find that there is a massive
+stone door blocking your path. You push on the door, but it won't budge. You
+examine the door for a lock, but all it has on it is an engraving...the
+Prophecy of the Litany.  You skim the prophecy. It tells of a devastating
+war that is to come, the War of The Apocolypse. You begin to gasp as you
+read the final sentence... "And should the teh minions of the Wrym be
+victorious, the Moonbridge will open and the Wrym itself shall be unleashed
+unto Crimson."
+~
+4 805306376 0 1 99 1
+D1
+~
+~
+0 -1 422
+S
+#424
+The Hall of Blood~
+  You stand in the entrance to a gigantic arena. The walls are lined with
+the skins of an uncountable number of creatures and many racks of weapons.
+"Trophies" you think to yourself.  The roof is supported by four towering
+stone pillars... but there is one pillar in the very center... one that does
+not touch the ceiling. Letting your curiosity get the  better of you, you
+approach the pillar. Your stomache begins to turn as you realize that it is
+a totem composed of the bones of the fallen.  Suddenly there is a sharp pain
+in the back of your head and everything goes black.
+~
+4 805306376 0 1 99 1
+D0
+~
+~
+0 -1 425
+D3
+~
+~
+0 -1 422
+S
+#425
+The Bane's Throneroom~
+  You wake up with your face to the floor. You scramble to your knees as
+your realize where you are. You see before you a grotesque creature on a
+massive black marble throne. In his right hand he holds a klaive, and in his
+right a twisted staff with balefire flowing from the top. Your eyes are
+drawn to his... they glow like the balefire, piercing your very soul. The
+creature resembles a Yuan-Ti with its serpentine features, but its skin...
+not skin, but a greenish brown exoskeleton. "I was once a Yuan-Ti." the
+creatures hisses, the words linger in
+your head."But now I've become something greater... a servant of the Wrym...
+as you shall soon be." You begin to writhe in agony as your wound tears open
+and a leeching exoskeleton begins to cover your body...
+
+~
+4 805306376 0 1 99 1
+D2
+~
+~
+0 -1 424
+S
+#426
+&KP&yalace &wof &CA&ct&Ba&bra&Bx&ci&Ca &KFoyer&n~
+As you body rematerializes, you find yourself standing in an immaculate
+foyer. A large marble staircase in the center of the room leads up to
+the second floor. Two curved hallways on either side of the staircase
+appear to lead beyond. Behind you is a tall bronze door leading outside
+of the temple. You find a small trapdoor inbetween the staircase and
+the doorway, as you move closer you hear the sounds of the reception.
+~
+4 1879146504 536870912 1 99 1
+D4
+Second Floor
+~
+~
+0 -1 429
+D5
+To the Reception area
+~
+~
+0 -1 3008
+S
+#427
+&bTi&Bme&cle&Cs&ws &YTreasures&n~
+You walk into a room filled with all sorts of treasures, a few items
+along the far wall catch your eye immediately. These items appear to be
+in great condition and show no trace of past use.
+~
+4 805306376 0 1 99 1
+D1
+To the Loot
+~
+~
+0 -1 437
+S
+#428
+&Rth&Ke &Ren&Kd &Ri&Ks &Rnea&Kr&n~
+You walk into a room filled with all sorts of treasures, a few items
+along the far wall catch your eye immediately. These items appear to be
+in poor condition and seem to be somewhat falling apart.
+~
+4 805306376 0 1 99 1
+D3
+To the Loot
+~
+~
+0 -1 437
+S
+#429
+&KS&wecond &wF&Kloor &yL&coung&ye&n~
+As you reach the top of the marble staircase, you are humbly welcomed
+with a comfy lounge. A large fireplace sits centered on the south wall.
+Two large bay &Cwindows&B on either side of the fireplace overlook the
+palace gardens. An array of styles of furniture; chairs, stools, couches
+and tables are thrown about the room. On either side of the lounge two
+hallways extend, most likely the living quarters of the palace patrons.
+~
+4 1342275592 536870912 1 99 1
+D1
+Tower rooms
+~
+~
+0 -1 418
+D3
+A foul smell seems to come from this direction...
+~
+~
+0 -1 419
+D5
+clan donation
+~
+~
+0 -1 436
+E
+windows~
+A breathtaking view of the gardens. You have never seen such big beautiful
+&gleafy green stupid plants&B in all your life. Oh of course the &wlovely lillies&B,
+and the &Ydaffodils&B are quite splendid themselves, as are the &rroses&B.
+But the aroma on the air is heavy with the scent of &Ggreen&B.
+~
+S
+#430
+&KThe &wG&Ga&grd&Ge&wn &y&fL&n&ya&y&fb&n&yy&y&fr&n&yi&y&fn&n&yt&y&fh&n &Kof &CA&ct&Ba&bra&Bx&ci&Ca&n~
+You find yourself standing in front of the Palace of Ataraxia. Before you
+stands a large fountain, but the liquid emerging appears to be somewhat
+translucent, yet full of colors. As you look beyond the fountain, to the
+west, south, and east, you notice the garden maze seems to go on forever.
+~
+4 1879146504 536870912 1 99 1
+D0
+To the Foyer
+~
+~
+0 -1 426
+D5
+spiderhole
+~
+hole~
+31 434 438
+S
+#431
+Entry Way~
+You are surrounded by images of celebrated warriors of the past.  Winding
+thorns cover the ancient statues, giving them more of an antique look.  The
+emblem of the clan, the black rose, floats in the center of a glass sphere
+which is embedded in a wall which rivals you to the north.  The rose's
+irridescent glow seems to almost hypnotize you, but you shake off the feeling
+as you remember why you are here, to fight...
+~
+4 268435464 0 1 99 1
+D0
+~
+~
+0 -1 432
+D1
+~
+~
+0 -1 433
+D2
+~
+~
+0 -1 435
+D3
+~
+~
+0 -1 434
+D5
+~
+~
+0 -1 3070
+S
+#432
+Council Room~
+This is where decisions that may effect your life within the clan will be
+posted, all recent decisions will be posted here.  This is also where you can
+voice your opinion within the clan and be heard.  If you beleive that a
+decision that we have made is wrong, you can argue your point.  Any and Every
+thing that you have to say, we are willing to listen to in order to make this a
+better, and more efficient clan.
+~
+4 268435464 0 1 99 1
+D2
+~
+~
+0 -1 431
+S
+#433
+Hall of History~
+The Spirit of the history seens to overwhelm you. The Scent of the yellowing
+ancient manuscripts makes your head spin.  It's overwhelming, the rich ancient
+past of ancient battles whose purpose is almost as forgotten as the battles
+themselves. Few have survived our brutal wars, but those who do are greatly
+rewarded.  Many have died to keep our history, but it is worth dying for.
+~
+4 268435464 0 1 99 1
+D3
+~
+~
+0 -1 431
+S
+#434
+Rose Bush~
+You look around to see a room with a lone window placed to the left of you.
+The room seems ancient, and on all walls is covered with vines, thorns, and
+rose blossoms which choke out the light from the window.  You are tempted to
+reach out and pick one of the roses, but those thorns look very sharp...
+~
+4 268435464 0 1 99 1
+D1
+~
+~
+0 -1 431
+S
+#435
+Armory~
+The walls are covered with the sacred ancient armors of warriors long
+forgotten.  One set of armor seems to give off a glow.  When you get closer to
+it you see that the inscription on the sword reads "La mise  mort ou soit
+dtruite". It glows slightly brighter as you touch it, but you feel as though
+with age it must have lost some of that legendary power.   The armor is that of
+Shakan, and you know that only by your feel. You suppose that you could be
+wrong, but who else would have been able to have worn armor and given it such
+power?  Various dummies stand wearing the ancient armors that were only used
+for the ancient wars, and you can't help but wonder wehn they will have to be
+worn again.
+~
+4 268435464 0 1 99 1
+D0
+~
+~
+0 -1 431
+S
+#436
+&KBlack Tower of &pthe Brotherless&n~
+The black marble shines like so much emptiness of space. There are
+items of destruction here, waiting to be used. A marble stair leads up further
+into the tower. Please do check out the gardens through the window. They are
+quite lovely this time of year.
+~
+4 1879048204 0 1 99 1
+D4
+large bay windows
+~
+~
+0 -1 429
+D5
+Reception.
+~
+~
+0 -1 3008
+S
+#437
+&xRoom &xof &xs&xo&xr&xt&xs&n~
+This room appears to be a storage depot for all types of equipment and
+treasures. You realize there really is no organization in this room as you
+stumble over what appears to be a chest amongst the loot. Perhaps,
+sometime when you find extra time, you consider taking a few moments to
+organize some of this clutter. Two rooms are attached to either side of the
+room, and a hallway to the south leads back towards the foyer.
+~
+4 1342275592 536870912 1 99 1
+D1
+The end is near...
+~
+~
+0 -1 428
+D2
+To the foyer.
+~
+~
+0 -1 426
+D3
+Timeless Treasures
+~
+~
+0 -1 427
+D5
+Reception
+~
+~
+0 -1 3008
+S
+#438
+&cS&Ka&cdd&Ka&cm &pH&Ku&psse&Ki&pn&w'&ps &Ys&wpider hol&Ye&n~
+You find yourself in a six-to-eight-foot-deep "hole" that has been
+camouflaged with bricks and dirt.
+~
+4 268435464 0 1 99 1
+D4
+to the garden
+~
+~
+17 0 430
+S
+#439
+The Caddyshack Board Room~
+
+~
+4 805306376 0 1 99 1
+D0
+&yGreat Hall of Zul Kiras&n
+~
+~
+0 -1 471
+S
+#440
+&KTet&wrag&Wram&wmat&Kon &wCou&Kn&wcil~
+&wHere you enter a large room with black marble floors lined with &KBlack 
+&wM&Ka&Wr&Kb&wle &KPi&wl&Wl&wa&Krs &was you enter the room you notice a large statue of Atlas
+holding an illuminated world on his back as you venture past Atlas you
+notice a large black desk with a large black chair you also notice a file
+on the desk it has your name on it. Behind the desk sits a &KC&wou&Wn&wci&Kl &wmember
+of the highest honor.
+
+He says to you "You are charged with the crime of sensory offense, How do 
+you plead" You attempt to regain your composure however it is too late, the
+&KC&wou&Wn&wci&Kl &wmember orders you to be taken to the Hall of Destruction
+for summary judgment and combustion.
+
+~
+4 1879162888 805306368 1 99 0
+D5
+There are stairs leading down to the foyer.
+~
+door~
+1 0 441
+S
+#441
+Entrance Hall~
+  As you enter this room you notice two rows if columns that run north
+through this great hall,looking up you see that the columns fan outward
+and seem to join an enormous stained glass dome that filters in the most
+beutiful light you have ever seen.Along the walls of this great hall are
+portraits of the famous leaders of clan &w@&gWhiteRose&w@&B,past and present.
+Placed evenly along the back edges of the room are candles on holders,ten
+feet high. You think that when lit at night it would make for a stunning
+effect.&n
+~
+4 805306376 0 1 99 1
+D0
+~
+~
+0 -1 442
+D2
+~
+~
+0 -1 3070
+D4
+There is a stairway leading up to another room.
+~
+door~
+1 0 440
+D5
+~
+~
+0 -1 445
+S
+#442
+Fountain Rest Lounge~
+  Stepping into this room you feel yourself slipping away from reality,the
+calm gurgling of water from the fountain before you seems therapudic and
+becons you to drink,and sleep.Or if you ellect to sit and chat with a
+fellow clan member,you feel as if here is as good a place as any.You
+notice a lovelyscent and realize that you smell the insence burning slowly
+at each of the rooms four corners.
+~
+4 805306376 0 1 99 1
+D1
+~
+~
+0 -1 444
+D2
+~
+~
+0 -1 441
+D3
+~
+~
+0 -1 443
+S
+#443
+Board Room~
+  The room you have just entered seems devoted solely to the large board
+erected on the wall.The board is the clan members and leaders way to
+inform the clan of important info.If you have not gotten the feeling
+already you should feel this board is a very important part of clan life
+and should be checked as often as you possible.
+~
+4 805306376 0 1 99 1
+D1
+~
+~
+0 -1 442
+S
+#444
+War Council Room~
+  When you enter this room,you notice a large wooden table in the center
+of it,covered with maps and charts,essential to the art of war.Those who
+have proven themselves are often placed in this room to aid in the
+military affairs of the clan.The drab walls,lined with reports from the
+clans many scouts,seems so lifeless and cold ... such is war.
+~
+4 805306376 0 1 99 1
+D3
+~
+~
+0 -1 442
+S
+#445
+The White Garden~
+  You have entered into a room that is used to help aid the clan by
+offering free equipment to those in need,though it is exspected that you
+take only that witch you need.Many a sad story can be told of those who
+diped there hands to deeply into the pocket of charity,so remember if you
+take out please put something back,if not now,when you can.
+
+NOTE: Any clan member caught donating KEYS(to anywhere) OR selling donated
+eq will be delt with VERY harshly.
+~
+4 805306376 0 1 99 1
+D4
+~
+~
+0 -1 441
+S
+#446
+Great Hall of The Caddyshack~
+
+~
+4 268435464 0 1 99 1
+D0
+~
+~
+0 -1 450
+D1
+~
+~
+0 -1 447
+D2
+&yGreat Hall of Zul Kiras&n
+~
+~
+0 -1 471
+S
+#447
+The Caddyshack Cafeteria~
+
+~
+4 268435464 0 1 99 1
+D3
+~
+~
+0 -1 446
+S
+#448
+Head Greenskeeper Office~
+
+~
+4 268435464 0 1 99 1
+D3
+~
+~
+0 -1 449
+S
+#449
+Great Hall of The Caddyshack~
+
+~
+4 268435464 0 1 99 1
+D1
+~
+~
+0 -1 448
+D2
+~
+~
+0 -1 450
+S
+#450
+Great Hall of The Caddyshack~
+
+~
+4 268435464 0 1 99 1
+D0
+~
+~
+0 -1 449
+D2
+~
+~
+0 -1 446
+S
+#451
+Entrance~
+You suddenly appear in the middle of a room that appears to be the 
+entrance to clan HaVoK's fortress.  The crude stone block walls give
+this place a chilly, evil feeling.  Above you, a skull with fresh dripping
+blood is hung high with the word "HaVoK" etched into its forehead.
+To your east is the board room, and to your west is the clan donation
+room.  To your south is a wooden door which reads "COUNCIL
+MEMBERS ONLY", and going north leads you through the hallway of
+clan HaVoK's fortress.
+~
+4 805306376 0 1 99 1
+D5
+The way out.
+~
+~
+0 -1 3070
+S
+#452
+Board Room~
+You step in the room and see a large board of cork on the eastern
+wall with a rough wooden frame around it.  On it are pieces of paper
+that are hung there by knives.  Here, you can post your ideas for or
+about the clan.  This board should be checked on every time you log
+in so you can keep posted on clan matters or news.  Back to the west
+is the entrance.
+~
+4 805306376 0 1 99 1
+D3
+Entrance
+~
+~
+0 -1 451
+S
+#453
+Donation Room~
+You walk in the room and see that there are assorted piles of
+various recycled or unwanted items.  Little signs are hung on the wall
+next to the piles saying what those objects are.  There are piles of
+weapons, armors, scrolls, potions, and other such things.  You may
+pick up items here, or you may donate items that you think may be of
+use to any fellow clan members. Back to the east is the entrance.
+~
+4 805306376 0 1 99 1
+D1
+Entrance
+~
+~
+0 -1 451
+D5
+Quest Room
+~
+~
+0 -1 456
+S
+#454
+Council Meeting Room~
+You notice that this room is different from the rest of the clan hall.
+The walls in here are made of smooth granite instead of the usual
+crude stone blocks.  Along the walls are plush velvet couches.  In the
+middle of the room is a large, round white marble table with little
+cushioned recliners around it.  This is where the meetings are held for
+council members of clan HaVoK. Back to the north is the entrance.
+~
+4 805306376 0 1 99 1
+D0
+Entrance
+~
+~
+0 -1 451
+S
+#455
+&RB&rl&Ro&ro&Rd&w-&rB&Ra&rt&Rh&n~
+&n &n &n &wYou step into a large room of pure &Wwhite&n &Kmarble&w.  &BThis is by far the
+most beautiful room you have ever set your eyes on.  In the middle of the
+room there is an enourmous pool of only the &Rp&wu&Wr&Ge&ns&wt &rb&Rl&ro&Ro&rd&B.&n
+~
+4 805306376 0 1 99 1
+D2
+Entrance
+~
+door~
+3 423 451
+S
+#456
+&RQ&ru&Re&rs&Rt &rR&Ro&ro&Rm&n~
+&W &n &n &nThis is a room designed to be used as a storage area for quest
+equipment acumilated by the supreme powers of the &RB&rl&Ro&ro&Rd &rP&Ra&rc&Rk&n.
+~
+4 268435464 0 41 99 1
+D4
+Donation room
+~
+~
+0 -1 453
+S
+#457
+unused~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+4 8 0 1 99 1
+S
+#458
+unused~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+4 8 0 1 99 1
+S
+#459
+unused~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+4 8 0 1 99 1
+S
+#460
+Entrance hall to the Order of the Black Hand~
+This is a large long hallway. The walls are lined with torches, and in
+the middle of the hall is a small stand with a black magical light, which
+burns in remembrance of Wrath, the Sage of the Ages, Dragonlord
+Mindbendre and other legends of the clan who have passed on. This room is
+very peaceful and quiet, almost too quiet.
+
+Statues of Gorbash, Quicksilver, Wawa, Ben, Raistlin, and Aragon stand
+here in appreciation for there donations to the clan. On both walls is
+written "Long Live the Black Hand" in an old elfish tongue.
+~
+4 268435464 0 1 99 1
+D0
+Into the house of Clan Black Hand.
+~
+~
+0 -1 461
+D5
+~
+~
+0 -1 3070
+S
+#461
+Resting and Relaxation Room~
+This is a small room with a large board on which messages are put. There
+are chairs all along the perimeter of the room. This is the room before
+the Order of the Black Hand Church, so keep your voice down. Yes, even
+you!
+~
+4 268435464 0 1 99 1
+D0
+To the inner church.
+~
+~
+0 -1 463
+D1
+The Donation room.
+~
+~
+0 -1 462
+D2
+Back out of the Clan House.
+~
+~
+0 -1 460
+D3
+To the Clan Assembly Hall.
+~
+~
+0 -1 464
+S
+#462
+Black Hand Donation Room~
+This is a  rather large room, with all sorts of equipment and items
+leaning against the walls. These are items and equipment other members
+have left here for the less fortunate members.
+IF YOU ARE CAUGHT SELLING, AUCTIONING OR JUNKING ANYTHING THAT IS OR WAS
+IN THIS ROOM, YOU SHALL BE PUNISHED SEVERELY (DEMOTION OR BANNED FROM THE
+CLAN). IF YOU SEE ANYONE BREAKING THIS LAW, PLEASE TELL QUICKSILVER, YOUR
+HONESTY IS APPRECIATED.   ~Quicksilver, High Lord of the Black Hand
+
+~
+4 268435464 0 1 99 1
+D3
+To the Relaxation Room.
+~
+~
+0 -1 461
+S
+#463
+Order of the Black Hand~
+This room is a church. A religion with multiple gods and many religions
+artifacts. This room has two statues. One of Wrath, the original founder
+of the Black Hand and it's church and another of the High Protector of
+Alefgard, Deluge. All new members must go through a ceremonial acceptance
+into the clan. In the front of the church is the great alter, followed
+with rows of pews. The Theology of the clan is based solely on the ideas
+and philosophy of Wrath.
+~
+4 268435976 0 1 99 1
+D1
+Wawa's Private Abode :)
+~
+~
+0 -1 465
+D2
+Back to the Relaxation room.
+~
+~
+0 -1 461
+D3
+Raistlin's Chamber of Infinity
+~
+~
+0 -1 466
+D5
+Gorbash's Den
+~
+~
+0 -1 467
+S
+#464
+Assembly Hall~
+This is a good sized room, with a very high ceiling. Before you is a
+large conference type table, with a chair for each member of the clan.
+Clan Meetings are held in this room. Discussions over new applicants and
+punishments are all made in this room. In the center of the table is the
+Crest of the Black Hand. Also varying animal and beast skins line the
+walls.
+~
+4 268435976 0 1 99 1
+D1
+Back to the Relaxation Room.
+~
+~
+0 -1 461
+S
+#465
+Wawa's Private Abode~
+Upon entering Wawa's private abode, you are drawn to the French doors
+leading to a balcony overlooking our crimson world. The white lace on the
+doors lets in the light from the outside casting the room in the
+beautiful colors of the sunrise,the day, and the sunsets as they
+occur.You are invited by the comfort of the pastel splashed couch with
+their pink pillows to snuggle in softness, to visit or to sleep as
+desired. The cherry wood table allows for meals to be eaten or plans to
+be discussed in total relaxation as two matching fluffed chairs are
+placed on either side across from the couch and table. Tall cream colored
+shell lamps behind the couch allow for light to glow in the room when the
+evening hours make it necessary to see or perhaps the mood is to be
+romantic in which case the black cherry candles would be lit to invite a
+sense of romance to this haven........
+~
+4 268435976 0 1 99 1
+D3
+Order of the Black Hand
+~
+~
+0 -1 463
+S
+#466
+Raistlin's Chamber of Infinity~
+     Heavy doors close behind you. Before you lays a huge room, the 
+floor is made of a beautiful mix of black marble and jet. The south wall
+is covered with thousands of books, potions, and magical items of the
+past and present. There is little furniture, just a desk in the 
+northern corner, and a grand couch made of gryphon mane and dragon hide
+on the western wall. The eastern wall is a magical work of art, there is
+a magnificent view of all of Kyrnn. A magical window to the world
+outside. In the middle of the room there is a gigantic obsidian statue
+of a dark man wearing a long black cloak, it's eyes seem to stare into
+your very soul. A cold breeze sends chills to your spine as you stare at
+the statue, it's eyes glow a pale golden light. It is he, the chosen one,
+Lord Raistlin Shadowbane, Holder of the Infinity, master of the past and
+present. Welcome to my Infinity, welcome to my madness.
+~
+4 268435976 0 1 99 1
+D1
+Wawa's Private Abode
+~
+~
+0 -1 465
+S
+#467
+Gorbash's Den~
+As you walk through the cave-like entrance you shiver involuntarily.
+Before you is a room entirely carved from shiny black onyx with jagged
+slashes of white marble here and there.  Your eyes are drawn to the east
+wall from which hangs a variety of nasty looking weapons.  On the west
+wall are many trophies and objects of power brought back from the darkest
+corners of the world.  Straight in front is an enormous fireplace that
+burns with an eerie light but seems to give off little heat.  Propped up
+in one corner is a large mirror through which one can see any clan member
+they are concentrating on.  In front of the fireplace is a large chair
+upholstered with many animal skins and legs made of bone.
+You desperately hope that no one is home..... 
+~
+4 268435976 0 1 99 1
+D4
+Order of the Black Hand
+~
+~
+0 -1 463
+S
+#468
+unused~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+4 8 0 1 99 1
+S
+#469
+&xF&xu&xN&xk&xY &xs&xT&xa&xI&xr&xW&xa&xY&n~
+&nYou find yourself on a &XF&xu&xN&xk&xY&n stairway where up may be down
+and left may be right.
+~
+4 1342177292 536870912 1 99 1
+D3
+HaLlS oF fUnK
+~
+~
+16 -1 497
+D4
+HaLlS oF fUnK
+~
+~
+16 -1 474
+D5
+HaLls Of FuNk
+~
+~
+0 -1 492
+S
+#470
+unused~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+4 8 0 1 99 1
+S
+#471
+Great Hall of The Caddyshack~
+
+~
+4 1342177288 0 1 99 1
+D0
+&yGreat Hall of Zul Kiras&n
+~
+~
+0 -1 446
+D1
+&wZul Hiras Armoury&n
+~
+~
+0 -1 473
+D2
+&yZul Kiras board room&n
+~
+~
+0 -1 439
+D3
+&KZul Kiras War Room&n
+~
+~
+0 -1 472
+D5
+Reception
+~
+~
+0 -1 3008
+S
+#472
+The Caddyshack Locker Room~
+
+~
+4 1342439432 537919488 1 99 1
+D1
+&yGreat Hall of Zul Kiras&n
+~
+~
+0 -1 471
+S
+#473
+The Caddyshack Pro Shop~
+
+~
+4 268435464 0 1 99 1
+D3
+&yGreat Hall of Zul Kiras&n
+~
+~
+0 -1 471
+S
+#474
+&xM&xe&xR&xc&xY&x&xs &xF&xu&xN&xk&xT&xa&xS&xi&xA&x.&n~
+&xY&xo&xu &xh&xa&xv&xe &xe&xn&xt&xe&xr&xe&xd &xa &xv&xe&xr&xy
+&xp&xl&xa&xi&xn &xa&xn&xd &xn&xo&xn&xd&xe&xs&xc&xr&xi&xp&xt
+&xr&xo&xo&xm&x.&n
+~
+4 268435516 536870912 1 99 1
+D1
+HaLlS oF fUnK
+~
+~
+16 -1 497
+D5
+HaLlS oF fUnK
+~
+~
+0 -1 469
+S
+#475
+Tactics Room~
+   As you stride into the hallowed sanctum, you reveal in the
+history of it's past and present patrons. Here the avatars of
+the proud clan Shadow's Edge have stood as bastions of
+freedom- pulling the oppressors of order, and effecating
+the rise of Shadow's Edge.
+~
+4 268435464 0 41 99 1
+D0
+Entrance
+~
+~
+0 -1 471
+S
+#476
+Tomb of Shadow's Edge~
+   Stepping into the plush club, you pluck a crystal goblet of 
+swirling shadowy liquid from a passing waiter.  As you take a sip
+from the goblet, a myriad of tastes explode over the tip of your
+tongue, shifting with your every thought.  Shade Dow the
+bartender, you are pointed to a cushioned divan, where you may 
+rest and engage other clan members in conversation.
+~
+4 268435464 0 1 99 1
+D4
+Library
+~
+~
+0 -1 474
+S
+#477
+&xC&xh&xU&xr&xC&xh &xO&xf &xF&xu&xN&xk&n~
+&nYou have entered into the beginnings of the clan halls of the
+&xC&xh&xU&xr&xC&xh &xO&xf &xF&xu&xN&xk&n, where loyalty
+and honor are held above all else.  The bonds of friendship can be
+felt in the air here, built through joy, through tears and through blood.
+The room you find yourself standing in is a common lounge. There is a
+clan board for members to stay in touch and share valuable information.
+This location is also the clan donation.  Take what you need and only what you
+need. Items that are gained through questing that you borrow from here, should
+be returned here as well.
+~
+4 1342177292 536870912 1 99 1
+D1
+reception
+~
+~
+0 -1 3008
+D4
+HaLlS oF fUnK
+~
+~
+0 -1 478
+S
+#478
+&xF&xu&xN&xk&xY &xs&xT&xa&xI&xr&xW&xa&xY&n~
+&nYou find yourself on a &XF&xu&xN&xk&xY&n stairway where up may be down and
+left may be right.
+~
+4 1342177292 536870912 1 99 1
+D4
+HaLlS oF fUnK
+~
+~
+0 -1 479
+D5
+to donation and entrance
+~
+~
+0 -1 477
+S
+#479
+&xF&xu&xN&xk&xY &xs&xT&xa&xI&xr&xW&xa&xY&n~
+&nYou find yourself on a &XF&xu&xN&xk&xY&n stairway where up may be down and
+left may be right.
+~
+4 1342177292 536870912 1 99 1
+D3
+HaLlS oF fUnK
+~
+~
+0 -1 495
+D4
+HaLlS oF fUnK
+~
+~
+0 -1 469
+D5
+HaLlS oF fUnK
+~
+~
+0 -1 493
+S
+#480
+A dark cave.~
+The light from outside grows dim as you enter this damp cold cave.
+Off in the distance a clicking sound can be faintly heard.  It 
+looks as if the cave has a light source ahead. 
+~
+4 268435464 0 1 99 0
+D0
+The peace of mother earth fills you.
+~
+grate~
+11 407 481
+D2
+~
+~
+0 -1 3070
+S
+#481
+Entrance to the Hall of the Wolves.~
+Giant braziers filled with flame light this wonderous room.  Carvings
+dating back before the dawn of man leap and dance in the flickering 
+light.  Resplendent taperstries hang down from the ceiling boldly 
+displaying the likeness of the wolf.  As the awe of the room leaves you,
+the exits leading off in every direction catch thy eye.  To the east,
+a brillant light can be seen.  While off to the west, the smell of oils
+used in the cleaning and polishing of weapons and armour can be smelled.
+Lastly leading directly away to the north, there dost appear to be a large
+hall with the carving of a giant wolf perched above the doorway.
+~
+4 268435464 0 1 99 0
+D0
+An immense hall is before thee.
+~
+~
+0 -1 482
+D1
+The garden of Gaia beckons thee.
+~
+~
+0 -1 485
+D2
+A dark caves leads back outside.
+~
+grate~
+9 407 480
+D3
+The smell of oils fills thy nostrils.
+~
+~
+0 -1 483
+S
+#482
+The Great Hall of the Wolf~
+The immense table fills most of the room.  The meetings of all the
+great members of Clan wolf for generations have occurred in this
+chamber.  The pride of many a member is shown in the loving care taken
+of this room.
+~
+4 268435464 0 1 99 0
+D2
+The Entrance lies before thee.
+~
+~
+0 -1 481
+D5
+A natural ladder carved in the stone leads down.
+~
+~
+0 -1 491
+S
+#483
+War room of the Wolf~
+This room is built in the shape of a giant oval.  Weapons of 
+every description adorn the walls.  Oils used in the polishing
+of weapons line a shelf on the far wall.  A small section of the 
+room is also cordoned off with a hammer and anvil for the hammering
+out of dents in armor.  The carvings of many a wolf being blooded
+lay the atmosphere to this room.
+~
+4 268435464 0 1 99 0
+D1
+The entrance is ahead.
+~
+~
+0 -1 481
+S
+#484
+The Wolf's Den~
+The sleeping chamber of the Clan of the Wolf is sparsely decorated.
+The small forests nymph awaits you beside a giant storage area used
+to protect the belongings of the members of the clan.
+~
+4 268435464 0 1 99 3
+D1
+The Baths of Gaia are ahead.
+~
+~
+0 -1 490
+S
+#485
+The Garden of Gaia~
+The pollen from the flowers floats delicately on the breeze.  Your
+awe of our mother Gaia grows with each passing step.
+~
+4 268435464 0 1 99 3
+D1
+The shrine of Gaia is ahead.
+~
+~
+0 -1 489
+D2
+The baths of Gaia call to cool thee.
+~
+~
+0 -1 490
+D3
+The hall of wolves is ahead
+~
+~
+0 -1 481
+D4
+Mount Wolf beckons thee to climb her.
+~
+~
+0 -1 486
+S
+#486
+The Mountain trail~
+A small trail begins the accent up Mount Wolf. The view of the Garden
+of Gaia from this height does nore to take your breath away. It takes
+a moment before you are able to continue your climb.
+~
+4 268435464 0 1 99 3
+D4
+A small trail leads up the mountain.
+~
+~
+0 -1 488
+D5
+The garden of Gaia is before thee.
+~
+~
+0 -1 485
+S
+#487
+The Cret of Mount Wolf~
+The top of Mount Wolf affords a super view of the surrounding countryside.
+The garden below dominates your vision pulling you to its beauty.
+~
+4 1342177288 0 1 99 3
+D2
+The moutain trail starts toward the garden.
+~
+~
+0 -1 488
+S
+#488
+The Mountain Trail~
+A small trail continues the accent up Mount Wolf. The view of the Garden
+of Gaia is unmistakingly the most beautiful sight you have seen in your
+short life.
+~
+4 268435464 0 1 99 3
+D0
+The crest of the mountain is before thee.
+~
+~
+0 -1 487
+D5
+The trail leads further down.
+~
+~
+0 -1 486
+S
+#489
+The Shrine of Gaia~
+A small altar has been erected for the worship of the mother of us all
+Gaia the Protector.  The simple ivory used to create this shrine only
+enhances the beauty of the garden detracting none from the enchantment
+you have beheld.
+~
+4 268435464 0 1 99 3
+D3
+The garden of Gaia beckons thee.
+~
+~
+0 -1 485
+S
+#490
+The Baths of Gaia~
+The garden opens up here to a fantastic site.  A natural hot springs
+has been surrounded and inlain with ivory and jade.  Beautifully warm
+moist air rises from the enticing pool.  Small forest nymphs maintain 
+the beauty of the bath.
+~
+4 268435464 0 1 99 3
+D0
+The garden of Gaia awaits thee.
+~
+~
+0 -1 485
+D3
+A small dressing room appears to be befoe thee.
+~
+~
+0 -1 484
+S
+#491
+The Council Room of Clan Wolf~
+The actual decisions day to day decisions of the clan are made
+from this room as the ruling members of the clan discuss with
+the Khan about what needs to be done. Notices to members of the
+clan are left on the board propped up in the corner.
+~
+4 268435464 0 1 99 3
+D4
+A small natural lagger carved in the wall leads up.
+~
+~
+0 -1 482
+S
+#492
+&xF&xu&xN&xk&xY &xs&xT&xa&xI&xr&xW&xa&xY&n~
+&nYou find yourself on a &XF&xu&xN&xk&xY&n stairway where up may be down
+and left may be right.
+~
+4 1879048204 536870912 1 99 3
+D1
+HaLlS oF fUnK
+~
+~
+0 -1 496
+D3
+HaLlS oF fUnK
+~
+~
+0 -1 479
+D4
+HaLlS oF fUnK
+~
+~
+0 -1 498
+D5
+HaLlS oF fUnK
+~
+~
+0 -1 493
+S
+#493
+&xF&xu&xN&xk&xY &xs&xT&xa&xI&xr&xW&xa&xY&n~
+&nYou find yourself on a &xF&xu&xN&xk&xY&n stairway where up may be down and
+left may be right.
+~
+4 268435464 0 1 99 3
+D1
+HaLlS oF fUnK
+~
+~
+0 -1 494
+D4
+HaLlS oF fUnK
+~
+~
+0 -1 479
+D5
+HaLlS oF fUnK
+~
+~
+0 -1 477
+S
+#494
+&PCasa de Ramza&n~
+Ramza is a slacker and needs a rdesc.
+~
+4 1342177292 536870912 1 99 0
+D3
+HaLlS oF fUnK
+~
+~
+0 -1 493
+S
+#495
+Corey's Room~
+Corey is a slacker and needs a rdesc.
+~
+4 1342177292 536870912 1 99 0
+D1
+HaLlS oF fUnK
+~
+~
+0 -1 479
+S
+#496
+&R@&g----- &YPeeberoni's Room &R@&g-----&n~
+&WYou walk in through the arched doorway, and enter a room with a &Pbig hot
+pink&Wfan hanging from the ceiling.  The walls are painted black, and the floor is
+covered in a a &Phot pink shag carpet&W.  &CPosters &Wdecorate the walls
+- on them are pictures of &Ycars&W, mostly &Yimports&W.  The scent of &pClinique
+"Happy" &Wis in the air.  On the wall opposite the doorway there is a huge
+picture of a &RCandy Apple Red Miata&W.  A sign hanging below it reads,
+&R"RIP Peaches 1992-2001"&W.  A &ppurple futon &Wis on the wall to the left
+of the doorway, covered in &Gstuffed animals &Wand &pfluffy pink pillows&W. 
+A giant picture of Peeberoni's current crush is plastered to the ceiling.  To the right
+of the doorway is a metal garage door.  There is a keypad next to it.  Loud exhaust
+noises come from that wall.  In the corner is a &Phot pink vanity &Wwith a &ppurple
+chair&W.  A giant fridge is in the opposite corner.  Help yourself.&n
+~
+4 1342177292 536870912 1 99 0
+D3
+HaLlS oF fUnK
+~
+~
+0 -1 492
+S
+#497
+&GP&go&Rl&ry&Pa&pn&Pd&rr&Ri&gu&Gm &wof &Ce&cu&Bp&bho&Br&ci&Ca&n~
+&KYou seemed to have slipped into a hazy room and fallen onto your ass.
+Fancy that... as you get up off your feet, you wipe the dust from your kit, and
+quickly take a deep breath of air in relief. Immediately your creativity kicks in and
+you're ready to mud. &n
+~
+4 1342177292 536870912 1 99 0
+D1
+HaLlS oF fUnK
+~
+~
+0 -1 469
+D3
+HaLlS oF fUnK
+~
+~
+16 -1 474
+S
+#498
+&K[&wB&Ko&wx &Ko&wf U&Kn&wd&Ke&wr&K]&n~
+&KYou find yourself in a room filled with darkness, so dark you are unable to
+locate the exit. From all around you hear the sounds of millions of souls screeching
+in pain as they are constantly being ripped from the bodies of humans and
+shredded into nothing being absorbed by the Divinity of Under. Regardless
+of the darkness you can make out &wGlowing White Glyphs&K written all over the
+room. They look like stars if you would look up into the night sky.&n
+~
+4 1342177292 536870912 1 99 0
+D5
+HaLlS oF fUnK
+~
+~
+16 -1 492
+S
+#499
+&CBet&Ww&Ceen &WWo&Crl&Wds&n~
+          &wEven the reality outside the virtual is temporary.&n
+                       &KDeceive one must not.&n
+~
+4 268435464 0 1 99 0
+S
+$~
+#999999

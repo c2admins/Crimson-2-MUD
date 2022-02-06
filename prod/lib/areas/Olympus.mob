@@ -1,0 +1,563 @@
+#15650
+mob Cyclopes~
+&wThe &yCycl&Kopes&n~
+&wA enormous one eyed &ygiant&w stands between you and Olympus.&n
+~
+  &wYou have found the fabled one eye giant known as the Cyclopes. This hulking
+figure stands about fourteen feet tall and wields a massive wooden club. Although
+he can barely see his sense of smell and hearing is so great that he follows you
+every step. His body is battle scared from the centuries of guarding the portal
+doors to Olympus.&n
+~
+1082392586 1 136249361 3145868 -1000 S
+47 0 -30 10d1+22000 40d40+99
+2500000 1400000
+8 8 0
+24 0 26 18 16 14 24 11
+#15651
+mob Basilisk~
+&wA &Kbasi&glisk&n~
+&wA &Kbasi&glisk&w approaches you.&n
+~
+&wA rather large lizard approaches you. It has nothing on it's mind
+but feasting on your flesh. It's only weapons seem to be razor
+sharp claws and razor sharp teeth. A green smelly gas seeps out
+from the lizards mouth.&n
+~
+29401098 32769 136249361 3149832 -1000 S
+46 0 -15 50d99+20000 40d10+99
+1200000 1200000
+8 8 0
+0 0 17 16 14 15 12 15
+SKILL=SKILL_SCALES 75
+SKILL=SPELL_GAS_BREATH 75
+SKILL=SKILL_RAGE 99
+#15652
+mob Hercules~
+&wHe&yrcul&wes&n~
+&WThe mighty &wHe&yrcul&wes&W charges into battle.&n
+~
+&wBefore you stands a man like no other, there is no one person on this earth
+who could rival his strength and power in battle. He wields no weapon nor does
+he need one. He has a set of gauntlets on his hands and wears nothing more than
+a loin cloth for clothes on his feet he wears a set of sandals made from the hide
+of one of the many beasts he has slain. He looks over your once and said let us
+return to the fray.&n
+~
+1082396746 32769 136249361 1075855502 1000 S
+48 0 -30 100d1+50000 35d35+55
+2500000 2000000
+8 8 0
+1 0 25 25 25 25 25 25
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_RAGE 99
+#15653
+mob Fiery Titan~
+&RF&ri&Re&rr&Ry &wTitan&n~
+&wA titan covered in &rf&Rl&ra&Rm&re&Rs&w charges toward you.&n
+~
+&wA fiery titan stands here pondering your demise. He is one of the most
+powerful beings you have ever layed eyes upon on also one of the largest.
+He is all to confident in his ability to bring about your doom.&n
+~
+1283847758 4227073 203358257 33816718 -850 S
+48 0 -40 100d100+75000 32d25+85
+3500000 1750000
+8 8 1
+24 0 26 21 11 9 10 8
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 95
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRELANCE 95
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=15
+ATTACK_SKILL=3
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=15
+ATTACK_SKILL=3
+ATTACK_TYPE=103
+#15654
+mob storm titan~
+&wA &ys&wt&yo&wr&ym &wTitan&n~
+&wA &wTitan&w surrounded by stormy clouds charges toward you.&n
+~
+&wA gigantic titan charges toward you preparing to end you life. He has
+the rage and fury of a massive storm. His body is surrounded by dreary
+black clouds. With every step he takes you sense your life slowly 
+coming to a end.&n
+~
+1283847758 4227073 203358257 33816718 -850 S
+48 0 -40 100d1+75000 32d25+85
+3500000 1750000
+8 8 0
+24 0 26 21 11 9 10 8
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 95
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRELANCE 95
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15655
+mob Titan Earth~
+&wTitan of the &yEarth&n~
+&wA titan of the &yEarth&w charges toward you.&n
+~
+&KBefore you stands a enormous titan. His body is covered in a set of
+&yearthly&K covered platemail...In his hand he wields a massive hammer
+constructed from the &yearth&K. He looks you over picking out your many
+weaknesses, preparing to end your life and damn you to the eternal
+prison know as the abyss.&n
+~
+1283847758 4227073 203358257 33816718 -850 S
+48 0 -35 100d1+75000 32d25+85
+3000000 1750000
+8 8 0
+24 0 26 21 11 9 10 8
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 95
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRELANCE 95
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15656
+mob Titan Oceans~
+&wThe Titan of the &BOceans &Rfury&n~
+&wA titan charges at you with the &Rfury&w of the &BOceans&w.&n
+~
+&wA enormous titan charges toward you. As you look the titan over
+it is color is almost transparent as it appears to be formed out
+of the waters of the Oceans. It's pure size and mass is overwhleming
+to you. In his hand he wields a massive blade constructed from the
+oceans water.&n
+~
+1283847758 4227073 203358257 33816718 -850 S
+48 0 -35 100d1+75000 32d25+85
+3000000 1750000
+8 8 0
+24 0 26 21 11 9 10 8
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 95
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRELANCE 95
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+#15657
+mob Guardian Abysmal~
+&KA&wb&Ky&ws&Km&wa&Kl &rG&Ru&ra&Rr&rd&Ri&ra&Rn&n~
+&KThe &KA&wb&Ky&ws&Km&wa&Kl &rG&Ru&ra&Rr&rd&Ri&ra&Rn &Kstands watch over the abysmal chamber.&n
+~
+&KBefore you stands a hulking figured clouded surrrounded by the darkness of the
+abyss. His body is shrouded by a enormous black cloak. In his hand he wields a
+&rb&Rl&ro&Ro&rd &Rr&re&Rd &Kcolored bastard sword. His eye glow with a strange red glow.
+Without a glance towards you he can detect your every move and can sense your every
+thought.As you step closer he warns you turn back while you still can for only your
+death will come about on this day.&n
+~
+1115951178 32769 136249361 1075855502 0 S
+48 0 -30 100d1+50000 37d35+60
+3000000 2000000
+8 8 0
+1 0 25 25 25 25 25 25
+SKILL=SPELL_FIREBALL 75
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_FIRE_BREATH 95
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#15658
+mob Cronus~
+&cCro&wnus&n~
+&wThe once mighty titan &cCro&wnus stands here.&n
+~
+&wCronus was the ruler of Olympus...He took the throne by castrating his father
+Uranus...little would Cronus know that one day he would be imprisoned by his son.
+As he had did to his father.&n
+~
+8651018 32769 136249361 639897736 -1000 S
+48 0 -25 100d1+50000 30d30+99
+3000000 2000000
+8 8 0
+11 4 25 25 25 25 25 12
+#15659
+mob pegasus~
+&WA Pegasus&n~
+&WA Pegasus has taken rest on this cloud.&n
+~
+&WAt first glance you notice the most beautiful steed you have ever
+layed your eyes upon...it's hair all white and dark eyes almost put
+you in a trance as your stare at it.....as you approach you notice
+it has wings sprouting at from each of its sides. This has to be the
+mythical pegasus. One could consider themselves lucky to stumble
+upon such a glorius creature as this.&n
+~
+1090781258 1 136249361 1140850828 950 S
+45 0 -30 50d50+12500 15d20+60
+1500000 945000
+8 8 0
+0 0 23 15 15 23 15 11
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 95
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=15
+ATTACK_SKILL=2
+ATTACK_TYPE=108
+ATTACK_SKILL=95
+ATTACK_SKILL=12
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+#15660
+mob Hermes~
+&YHermes &Kthe Messenger&n~
+&YHermes &Kthe Messenger stands guard at the gates of Olympus&n
+~
+&WThis is Hermes, the messenger of Olympus.He stands guard over the gates
+of Olympus. He only task is to defend the gates of Olympus and warn Zeus
+of any oncoming dangers. He wields a brilliant looking sword...and holds
+a small shield in his off-hand. On his head and feet he wears a winged
+helmet and a pair of winged sandals.
+&n
+~
+8650826 32769 136249361 1141113260 0 S
+46 0 -40 1d1+34999 25d25+65
+1750000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=103
+ATTACK_SKILL=85
+ATTACK_SKILL=7
+ATTACK_SKILL=1
+ATTACK_TYPE=103
+#15661
+mob guard olympus sentinel~
+&WA &YOlympus&W sentinel guard&n~
+&WA guard stands here keeping watch over &YOlympus&W.&n
+~
+This is one of the Sentinel guards of Olympus. It surveys the streets
+of Olympus warding off anything that should not be. They wield only a
+large pike...and have be trained by Ares the god of war. There skill
+with the pike is matched by none.
+~
+8708106 32769 136253457 172 0 S
+46 0 40 1d1+21999 25d10+99
+1500000 1450000
+8 8 0
+24 0 25 18 14 14 25 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#15662
+mob Hedes apothecary~
+&WHedes the &Yapothecary&n~
+&WHedes the &Yapothecary&W stands here selling her nectars.&n
+~
+Hedes stands before you selling her various nectars. She is wed to Hercules
+and serves her nectars to the gods helping them keep there youthful appearance.
+~
+536870922 1 136249361 0 0 S
+27 15 14 47d1+2000 4d8+5
+230 80000
+8 8 0
+1 0 11 12 10 9 10 10
+#15663
+mob Hera~
+&wHera&n~
+&wHera stands at the back of the room looking into a small water fountain.&n
+~
+Before you stands Hera she exsists now if only for her hatred that burns
+inside. She has made it her goal in life to bring about the end of Hercules,
+to punish her Husband Zues ruler of Olympus. She despises him for his many
+exploits with the mortal women. She wields no weapons just has a robe and
+jewel encrusted crown on her head.
+~
+1082449994 32769 136249393 2097288 -1000 S
+46 0 -25 1d50+20000 40d35+80
+1750000 950000
+8 8 2
+0 0 24 20 20 22 17 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_HARM 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_SILENCE 95
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 75
+#15664
+mob Hephaestus master blacksmith~
+&KHephaestus&w, the master blacksmith&n~
+&KHephaestus&w stands here pounding on his forge&n
+~
+&wHephaestus was the god of fire and the protector of the metal
+workers. He was lame and deformed, but very powerful. His wife was
+Aphrodite. He made the golden throne of Zeus. 
+Hephaestus was married to Aphrodite, but Aphrodite was not very 
+faithful to him. So Hephaestus attempted to rape Athena to aggravate 
+Aphrodite. This resulted in the birth of Erichthonios.&n
+
+~
+1149505610 4227073 136249361 1075855502 -750 S
+48 0 -30 100d1+50000 55d55+75
+3000000 2000000
+8 8 1
+1 4 25 25 25 25 25 25
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 89
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=2
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#15665
+mob Prometheus~
+&RP&Yrometheu&Rs&n~
+&RP&Yrometheu&Rs&w stands here with the weight of the world on his shoulders.&n
+~
+&wPrometheus was part of the earliest race of gods. Prometheus was a
+Titan. His parents were Iapetus and Thesis or Clymene.
+Zeus decided to destroy all humans by keeping fire away from them. 
+But Prometheus stole fire from the gods and gave it to humans. Zeus
+punished him by taking Prometheus to the Caucasus Mountains. An 
+eagle came every day to eat his liver. Each night, the liver grew back.
+After many centuries, Hercules killed the eagle and set Prometheus 
+free.&n
+
+~
+75497482 4227073 136249361 3145900 1000 S
+48 0 -33 1d1+150000 10d10+65
+2500000 1500000
+8 8 1
+0 0 25 16 14 14 12 12
+#15666
+mob cloaked assassin~
+&KA cloaked Assassin&n~
+&KA cloaked Assassin hides himself in the shadows.&n
+~
+&KThe cloaked shadow assassins&w are the creation of &rA&Rr&re&Rs&w, the God of &rWar&w.
+These were once great warriors who worshipped &rA&Rr&re&Rs&w til the end as a
+gift for dying in battle upholding his name they were granted a immortality of
+sorts. As long as they served in his undead armies they would not perish and
+would always exsist.&n
+~
+1108606986 32769 136249361 3149866 -1000 S
+47 0 -33 1d1+29999 40d11+99
+1500000 1650000
+8 8 1
+0 0 24 17 15 22 16 12
+#15667
+mob Ares god war~
+&rA&Rr&re&Rs &wthe God of &rWar&n~
+&rA&Rr&re&Rs &wthe God of &rWar&w stands here contemplating his next battle.&n
+~
+&rA&Rr&re&Rs&w is the god of &rwar&w and is the son of Zeus and Hera.
+&rA&Rr&re&Rs&w embraces the most violent and brutal parts of war, and
+is despised by many Greeks who do not respect him for the traits he
+exhibits.  Though brutal and violent, &rA&Rr&re&Rs&w has loved many
+women, including the lovely goddess &YAphrodite&w.  Together they gave
+life to Eros, who is also known as Cupid.&n
+~
+75759690 4227073 136249361 1141113260 -1000 S
+48 0 -40 1d1+34999 42d42+99
+3000000 2000000
+8 8 1
+24 4 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#15668
+mob Aphrodite~
+&WThe Beautiful Goddess &YAphrodite&n~
+&WThe Beautiful Goddess &YAphrodite&W sits on a lovely &yg&Yo&yl&Yd&ye&Yn &Wbed&n
+~
+&WAphrodite is the Goddess of love and beauty. She is married to Hephaestus. Eros
+the Cupid is her son. She bore on other child named Aeneas.
+Aphrodite, Hera and Athena were all claimed the golden apple, the prize awarded to
+the most beautiful goddess. To settle the argument, Paris was choosen to award the
+prize. He chose Aphrodite&n
+~
+1149501450 4227073 136249361 16552 1000 S
+48 1 -30 100d1+30000 40d20+80
+2750000 1500000
+8 8 2
+24 6 21 20 20 20 19 18
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=4
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=1
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#15669
+mob poseidon~
+&cPoseidon &WGod of the &CSeas&n~
+&cPoseidon &WGod of the &CSeas&W sits on his throne.&n
+~
+&cPoseidon&W was the god of the &Csea&W. He was also the god of horses, earthquakes, and storms at 
+the sea. &cPoseidon&W was the son of Cronus and Rhea. His wife was Amphitrite. Artist portay him as a 
+bearded man with a strict face. He drove a chariot drawn by horses and he carried a three-pronged 
+spear called a trident.
+&n
+~
+1166278730 4227073 136249361 16777384 -750 S
+48 0 -40 20d1+50000 50d50+50
+3000000 2000000
+8 8 1
+0 0 25 17 15 19 25 12
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 95
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#15670
+mob Zeus~
+&YZeus &Wking of the Gods&n~
+&YZeus &Wking of the gods sit on his throne of &Yg&yol&Yd&W.&n
+~
+&YZeus&W was the king of the gods. He was the son of Cronos and Rhea. Ancient people 
+associated him with justice and they thought he punished those who did wrong and rewarded those 
+who did good.&n
+~
+1082396746 32769 136249361 1075855502 0 S
+48 -20 -40 1d1+59999 40d40+75
+5000000 2000000
+8 8 1
+24 0 26 25 25 25 25 25
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_FIREBALL 75
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#15671
+mob greater basilisk~
+&wA &gg&wr&ge&wa&gt&we&gr &Kbasilisk&n~
+&wA &gg&wr&ge&wa&gt&we&gr &Kbasilisk&w charges towards you.&n
+~
+&wThis is the largest basilisk you have ever seen..it sheer size is an
+amazing thing to behold. It has razor sharp teeth, protruding out from
+its mouth. A green oderous gas seeps out from its mouth. While its body
+is covered with enormous green scales. As it inches closer and closer
+its massive tail swings back and forth.&n
+~
+1103421450 32769 136249361 2101416 -1000 S
+48 3 -35 75d99+20000 24d24+75
+2500000 1755555
+8 8 2
+0 0 24 16 16 23 14 12
+SKILL=SPELL_GAS_BREATH 99
+ATTACK_SKILL=85
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#15672
+mob basilisk small~
+&wA small &gb&wa&gs&wi&gl&wi&gs&wk&n~
+&wA small &gb&wa&gs&wi&gl&wi&gs&wk walks approaches you.&n
+~
+&wA small basislisk lizard slowly walks towards you. It seems rather
+coy and begins to back away from you. It's body has not yet fully
+developed and isn't covered with scales as of yet. Its tail is
+rather small, though even at this size it's razor sharp teeth 
+protrude from its tiny mouth.
+~
+29401098 32769 136249361 3149832 -1000 S
+43 0 -15 50d50+13000 25d10+70
+1000000 900000
+8 8 0
+0 0 17 16 14 15 12 15
+SKILL=SKILL_SCALES 75
+SKILL=SPELL_GAS_BREATH 65
+SKILL=SKILL_RAGE 99
+$~
+#999999

@@ -1,0 +1,337 @@
+#7500
+obj crocodile skin ~
+25
+&KC&gr&Ko&gc&Ko&gd&Ki&gl&Ke &wskin&n~
+A scaly green skin lies here in a heap.~
+~
+9 528384 0 9
+10 0 0 0
+25 10000 3000
+A
+19 1
+A
+18 1
+A
+5 1
+#7501
+obj bracelet puke green~
+15
+&Kpuke &gg&Kr&ge&Ke&gn &wbracelet&n~
+A disgusting hunk of gross green rock lies here.~
+~
+9 10240 8 4097
+5 0 0 0
+10 30000 12000
+A
+18 2
+A
+19 1
+A
+13 -5
+A
+12 -5
+#7502
+obj spear poisonous stick~
+50
+&KPoisonous &rSpear&n~
+A nasty looking barbed stick is propped against the wall.~
+~
+5 544896 0 24577
+1 3 6 11
+10 8000 7500
+A
+19 3
+A
+18 3
+A
+13 -10
+#7503
+obj pouch snake skin~
+10
+&yS&Wn&ya&Wk&ye&w-&yskin &Kpouch&n~
+A pouch made of snake-skin lies on the floor.~
+~
+15 524304 0 2049
+50 0 0 0
+10 20000 2500
+A
+36 -1
+A
+17 -5
+A
+18 1
+#7504
+obj shield reptilian~
+10
+&yReptilian &KShield&n~
+A pile of reptile scales lies here in a heap.~
+~
+9 524292 0 513
+15 0 0 0
+15 10000 7500
+A
+19 1
+A
+30 -1
+A
+1 1
+#7505
+obj potion saline cyan~
+80
+&CCyan&w-colored &rpotion&n~
+A potion of soft blue liquid lies here.~
+~
+10 262144 0 1
+37 88 106 0
+1 5 5
+#7506
+obj staff tremor ornate~
+50
+&yTremor Staff&n~
+An ornately carved staff is propped against the wall.~
+~
+4 524292 0 147457
+17 5 5 23
+15 300 100
+#7507
+obj taffy salt water~
+100
+&WSalt&w-&Cwater &Gt&Pa&Gf&Pf&Gy&n~
+A rubbery piece of candy lies here.~
+~
+19 0 0 16385
+24 0 0 0
+3 20 5
+#7508
+obj membrane tallow soft~
+25
+&Wtallow &ymembrane&n~
+A soft membrane floats here.~
+~
+1 524289 0 65537
+0 0 20 0
+2 10000 8000
+A
+26 -1
+A
+2 2
+A
+3 1
+A
+18 1
+#7509
+obj club spike~
+1
+&rSp&Kik&red &yClub&n~
+A huge club with spikes lies on the floor.~
+~
+5 524304 0 8193
+262146 2 9 6
+10 2000 2000
+A
+18 1
+#7510
+obj key iron~
+100
+a huge iron key~
+a huge iron key lies here.~
+~
+18 262144 0 1
+6487 0 0 0
+1 5 5
+#7511
+obj chest iron~
+1
+&wi&Kr&wo&Kn &ychest&n~
+A huge iron chest lies on the floor.~
+~
+15 8 0 0
+100 15 7510 0
+1 500 100
+#7512
+obj gold coin pile~
+100
+gold coins~
+A pile of gold coins is here.~
+~
+20 0 0 1
+50000 0 0 0
+0 0 0
+#7513
+obj feathered armband obj~
+100
+&WA &Yf&yeathere&Yd &Warm&wband&n~
+&WA &Yf&yeathere&Yd &Warm&wband&W has been discarded here.&n~
+~
+9 262144 0 257
+65 0 0 0
+1 5 5
+A
+19 1
+A
+18 1
+A
+40 4
+A
+41 4
+#7514
+obj broken sword obj quest2~
+100
+&W<[}&w<+><+>&W{|}&K&uXXXX&E&WB&wroke&Wn&wSword&K&uXXXX&E&K}&n~
+&wA broken sword cluttlers the gound in pieces.&n~
+~
+5 134479872 2048 24577
+1084441 20 20 3
+1 5 5
+A
+19 4
+A
+18 2
+A
+41 4
+A
+40 4
+#7515
+obj snow sword swiftness quest2 obj~
+0
+&wFlying &WSnow's &Ks&wwor&Kd &wof &Wswift&wness&n~
+&WA long slender sword rests here.&n~
+~
+5 134479873 2048 24577
+39960 10 10 11
+1 150000 15000
+A
+19 6
+A
+41 12
+A
+18 4
+A
+32 -1
+#7516
+obj A pendant of silver and gold.~
+32767
+A  Pendant of silver and gold.~
+A pendant of silver and gold is on the ground.~
+~
+9 0 0 7
+0 0 10 0
+1 5 5
+E
+delte ~
+~
+E
+delete~
+~
+E
+: After you open the pendant you notice a picutre of Courtney ~
+  After opening the pendant you notice a picture of 
+Courtney with a smile from ear to ear.
+~
+#7517
+obj dagger yuan-ti dagger~
+8
+&KYuan-ti's &rbloody &Kdagger&n~
+A bloody dagger lies on the ground.~
+~
+5 1048580 0 8197
+1 4 7 11
+5 25000 5
+A
+19 2
+A
+18 1
+A
+14 -10
+#7518
+obj Pelt Shamans pelt~
+18
+&ySh&wa&ym&wa&yn&w's &yPelt&n~
+A pelt is on the ground.~
+~
+9 32768 0 1025
+10 0 0 0
+8 10000 5
+A
+19 1
+A
+12 20
+A
+3 1
+A
+1 -1
+#7519
+obj sky spear impaling quest2 obj~
+100
+&wSky's &yspear &Wof &KI&wmpalin&Kg&n~
+&wA slender sword has been misplaced here.&n~
+~
+5 134479872 2048 24577
+39992 11 11 11
+1 5 5
+A
+40 4
+A
+41 3
+A
+19 5
+A
+18 2
+#7520
+obj Razors edge tail~
+5
+&wA &crazors edge &Ktail&n~
+A tail covered in razor blades lies here.~
+~
+9 1049089 0 262145
+5 0 0 0
+1 5 5
+A
+25 1
+A
+18 3
+A
+19 1
+#7521
+obj Blackfang~
+8
+&KBlack&rfang&n~
+A Blackfang is clouded in darkness.~
+~
+5 1049092 0 8193
+1025 3 8 11
+1 5 5
+#7522
+obj nameless hero sword assassination obj quest3~
+1
+&WN&wameles&Ws &RH&rero'&Rs &WS&wwor&Wd &wof &KAssassination&n~
+&KA sword rests here, stuck in the ground.&n~
+~
+5 134479872 3072 24577
+4783130 15 15 11
+1 5 5
+A
+40 8
+A
+41 8
+A
+17 -50
+#7523
+obj jedi lightsaber imm~
+32767
+&wThe &CM&caste&Cr &CJedi'&Cs &CL&cightsabe&Cr&n~
+&wA jedi must have lost his lightsaber here.&n~
+~
+5 1 2112 24577
+14023704 10000 10000 11
+1 5 5
+A
+40 50
+A
+41 50
+A
+42 100
+A
+13 100
+$~
+#999999

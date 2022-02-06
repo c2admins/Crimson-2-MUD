@@ -1,0 +1,800 @@
+#7750
+obj thunder hammer giant~
+5
+&wa &YThunder &wHammer&n~
+A giant hammer surging with elictrical power lies here.~
+~
+5 33557569 32 8193
+262272 7 7 6
+15 141000 500
+A
+19 1
+A
+18 3
+#7751
+obj gauntlets wind ~
+9
+Gauntlets of the &WWind&n~
+A glowing pair of gauntlets lie here.~
+~
+9 34604033 0 129
+10 0 0 0
+6 9000 2500
+A
+19 1
+A
+1 1
+A
+2 2
+#7752
+obj tempest greaves storm giant~
+4
+&cTempest &Kgreaves&n~
+A large set of greaves impowered with the fury of the storm lies here.~
+~
+9 35652673 0 33
+20 0 0 0
+10 38000 5000
+A
+19 2
+A
+13 10
+A
+33 -1
+#7753
+obj cyclone boots storm ~
+8
+&wCyclone &yboots&n~
+A large pair of boots made from a storm lie here.~
+~
+9 33555456 16 65
+12 0 0 0
+12 15000 4500
+A
+19 2
+A
+13 10
+A
+12 -10
+#7754
+obj amulet storms strange~
+1
+&wan &Yamulet &wof &BSt&cor&Bms&n~
+A strange amulet imbued with the power of storms lies here.~
+~
+9 3072 32 5
+0 0 0 0
+5 100000 10000
+A
+19 2
+A
+40 1
+#7755
+obj roc feather ~
+9
+the feather of a &yroc&n~
+An extremely large feather lies on the ground.~
+~
+9 134742018 0 16385
+0 0 0 0
+19 900 10000
+A
+2 2
+A
+14 15
+#7756
+obj ring quel'sith elf elven elves~
+4
+&Gring of the &KQuel'Sith&n~
+A small ring that appears to be formed from a live vine lies here.~
+~
+9 136479809 0 3
+10 0 0 0
+3 38500 10000
+A
+18 3
+A
+19 2
+A
+23 -2
+A
+14 -35
+#7757
+obj oriflamme troll~
+2
+&rOriflamme &wof the &yTrolls&n~
+A rather large oriflamme lies here unattended.~
+~
+12 136320066 1024 16385
+0 0 0 0
+20 48000 9000
+A
+19 4
+A
+33 -1
+#7758
+obj jotung blade sword giant~
+6
+&Kblade &wof the &cJotung&n~
+A huge sword shaped from cold forged steel lies here.~
+~
+5 33554432 32 8193
+0 7 7 3
+23 36000 5000
+A
+18 -3
+#7759
+obj rune platemail giant~
+5
+&Krune &wcovered &Wplatemail&n~
+A suit of rune covered platemail lies here collecting dust.~
+~
+9 34604032 0 9
+15 0 0 0
+40 16250 10000
+A
+19 1
+A
+18 2
+A
+5 1
+A
+2 -1
+#7760
+obj mithril blade sword~
+10
+&ca mithril blade&n~
+A blade made from mithril lies here.~
+~
+5 1049600 0 8193
+0 8 4 3
+15 26000 5
+A
+18 1
+A
+19 1
+#7761
+obj belt holy~
+2
+&Choly &Bbelt &Cof &BV&Cian&Ba&n~
+A belt made of holy material lies in the dust.~
+~
+9 4326465 0 2049
+0 0 20 0
+10 117500 500000
+A
+19 3
+A
+18 2
+#7762
+obj blade divine might~
+1
+&wThe Blade of &CD&civin&Ce &cM&Cigh&ct&n~
+A large blade emitting holy power resides here unattended.~
+~
+5 71306243 0 8193
+262274 10 6 3
+18 375000 750000
+A
+18 3
+A
+19 2
+A
+12 -10
+#7763
+obj fyrebrand sword blade~
+1
+&G@&y==&K[:::F&wyr&Ke&rBra&Rn&Yd&r::&R::&Y>&n~
+A strange blade lies here, emitting a smoldering heat.~
+~
+5 138415169 4 8193
+71736 10 5 3
+10 402500 1500000
+A
+18 3
+A
+19 1
+A
+13 -50
+A
+33 -1
+#7764
+obj black moonstone ring brimstone~
+1
+&KThe Black &wM&Woo&wnst&Wo&wne &KR&win&Kg of B&wr&cim&Ks&cto&wn&Ke&n~
+A small ring made of black metal and shaped into the form of a crescent moon lies here.~
+~
+9 138415172 4 3
+25 0 0 0
+5 207500 19000
+A
+19 3
+A
+18 3
+A
+13 20
+A
+23 -1
+#7765
+obj tabard ul'azzr~
+1
+&Wrune &Kcovered &ctabard &Kof Ul'Azzr&n~
+A beautiful tabard covered in runes lies here.~
+~
+9 205524032 0 9
+80 0 52 0
+10 208750 980000
+A
+18 1
+A
+19 3
+A
+24 -3
+A
+13 -15
+#7766
+obj eye beast~
+2
+&Weye &wof the &rbeast&n~
+An eye carved from the skull of a large beast lies here.~
+~
+1 138429441 128 65537
+0 0 0 0
+5 97500 780000
+A
+12 -20
+A
+36 -1
+A
+18 2
+A
+19 3
+#7767
+obj archon bracer~
+4
+&GAr&gcho&Gn's &WBr&wac&Wer&n~
+A bracer made from a chitinous material lies here.~
+~
+9 138413056 0 4097
+10 0 0 0
+3 111250 12000
+A
+18 2
+A
+19 2
+A
+13 -15
+A
+14 -15
+#7768
+obj butcher knife~
+6
+&y0=Butcher's|&w==knife==>&n~
+A knife for chopping meat lies here, unattended.~
+~
+5 1048576 0 8193
+0 4 3 11
+5 110 5
+A
+19 -1
+A
+18 -1
+#7769
+obj tattered rags~
+10
+&wtattered rags&n~
+A large pile of torn cloth is on the floor.~
+~
+9 1048576 0 9
+10 0 0 0
+15 3000 5
+A
+13 10
+A
+18 2
+A
+6 -3
+#7770
+obj ioun stone~
+10
+&Wa small &rr&Ga&pi&Cn&Bb&Yo&Pw &Wcolored ioun stone&n~
+A small colorful stone lies here.~
+~
+1 1056769 0 65537
+0 0 10 0
+2 6500 1000
+A
+19 1
+A
+26 -1
+A
+32 -1
+A
+2 1
+#7771
+obj adamantine axe~
+5
+&wan &Kadamantine &waxe&n~
+Ahuge axe made from a strange metal lies here.~
+~
+5 35652608 0 8193
+0 9 4 3
+21 51000 500
+A
+18 -1
+A
+19 3
+#7772
+obj priestly robe~
+7
+&wa &Cpriestly &wrobe&n~
+A large pile of silken cloth lies here.~
+~
+12 35652608 0 1025
+0 0 10 0
+10 21000 500
+A
+12 20
+A
+4 3
+A
+18 2
+#7773
+obj platemail giant~
+6
+&Wa suit of giant platemail&n~
+Asuit of giant platemail lies here collecting dust.~
+~
+9 34603008 0 9
+30 0 0 0
+25 14500 2300
+A
+19 1
+A
+1 2
+A
+5 2
+#7774
+obj murky potion~
+15
+&wa &ymurky &wpotion&n~
+A vial filled with a murky fluid lies here.~
+~
+10 0 0 16385
+30 18 38 0
+2 5000 200
+#7775
+obj scroll light~
+10
+&wa &Ylight &wscroll&n~
+A bound pieces of parchment lies here on the floor.~
+~
+2 0 0 16385
+45 119 119 119
+1 13000 5
+#7776
+obj giant spear~
+8
+&ya giant spear&n~
+A huge spear used by giants lies here.~
+~
+5 34623488 0 8193
+0 10 2 11
+18 12000 5000
+A
+18 -2
+A
+27 -1
+A
+1 3
+#7777
+obj black moonstone ring brimstone~
+4
+&KThe Black &wM&Woo&wnst&Wo&wne &KR&win&Kg of B&wr&cim&Ks&cto&wn&Ke&n~
+A small ring made from a black metal and shaped into the form of a crescent moon lies here~
+~
+9 138413124 4 3
+20 0 0 0
+5 107500 190000
+A
+19 2
+A
+18 1
+A
+24 -4
+A
+13 -20
+#7778
+obj black moonstone ring brimstone~
+2
+&KThe Black &wM&Woo&wnst&Wo&wne &KR&win&Kg of B&wr&cim&Ks&cto&wn&Ke&n~
+A small ring made from a black metal and shaped in the form of a crescent moon lies here.~
+~
+9 138421316 4 3
+2 0 0 0
+5 107500 290000
+A
+19 3
+A
+12 -20
+A
+13 20
+A
+36 -1
+#7779
+obj shadow slayer shadowslayer sword blade~
+1
+&KShadow&WSlayer&n~
+A mystical blade lies here, pulsing with a holy life.~
+~
+5 205523969 0 24577
+2056 6 6 11
+10 287500 1000000
+A
+18 2
+A
+19 2
+#7780
+obj belt holy 2~
+3
+&Choly &Bbelt &Cof &BV&Cian&Ba&n~
+A belt made of holy material lies in the dust.~
+~
+9 4326465 0 2049
+15 0 0 0
+10 108750 240000
+A
+19 2
+A
+18 2
+A
+36 -1
+#7781
+obj blade divine might 2~
+2
+&wThe Blade of &CD&civin&Ce &cM&Cigh&ct&n~
+A large blade emitting holy power sits here unattended.~
+~
+5 71306243 0 8193
+262144 8 7 3
+9 427500 600000
+A
+19 1
+A
+18 1
+A
+41 1
+#7782
+obj blade divine might 3~
+2
+&wThe Blade of &CD&civin&Ce &cM&Cigh&ct&n~
+A large blade emitting holy power sits here unattended.~
+~
+5 138413059 0 8193
+262178 6 11 3
+9 315000 500000
+A
+19 3
+A
+18 1
+#7783
+obj eye beast 2~
+7
+&Weye &wof the &rbeast&n~
+An eye carved from the skull of a large beast lies here.~
+~
+1 138413057 0 65537
+0 0 10 0
+5 80000 30000
+A
+19 2
+A
+18 2
+A
+36 -1
+A
+32 -1
+#7784
+obj archon bracer 2~
+7
+&GAr&gcho&Gn's &wBr&Wac&wer&n~
+A bracer made from a chitinous material lies here.~
+~
+9 138413056 0 4097
+20 0 0 0
+3 100000 190000
+A
+19 2
+A
+13 5
+A
+24 -3
+#7785
+obj moonshadow tail~
+1
+&KMoonshadow's &Wtail&n~
+A tail from a great black wolf lies here.~
+~
+9 138421248 0 262145
+70 0 0 0
+7 497500 1900000
+A
+25 1
+A
+13 10
+A
+19 4
+A
+18 1
+#7786
+obj skull wolf~
+3
+&WSkull &wof the &Kblack &wwolf&n~
+The skull of a wolf-like creature lies here collecting dust.~
+~
+9 4199488 131072 17
+10 0 0 0
+4 123750 390000
+A
+19 3
+A
+18 1
+A
+12 -15
+A
+36 -1
+#7787
+obj moonshadow pelt~
+3
+&wa &KMoonShadow &wpelt&n~
+The pelt of a large wolf-like creature lies here in a heap.~
+~
+15 239076416 0 1025
+500 0 0 0
+10 136250 670000
+A
+17 -35
+A
+19 3
+A
+37 -1
+#7788
+obj icerain fang~
+3
+&Wan &BIce&cRain &Wfang&n~
+A fang from a large beast lies here.~
+~
+5 138415105 0 8193
+0 3 13 11
+6 295000 160000
+A
+19 4
+#7789
+obj nightwynde seal approval~
+32767
+&KNightwynde's &xSeal &xof &xApproval&n~
+Nightwynde's seal lies here collecting dust.~
+~
+9 1 0 5
+0 0 10 0
+1 5 5
+#7790
+obj icerain pelt~
+2
+&BIce&cRain&W's pelt&n~
+The pelt of a very large wolf lies here.~
+~
+9 205555713 262144 1025
+40 0 80 0
+8 157500 500000
+A
+19 4
+A
+23 -2
+A
+3 2
+#7791
+obj wolf paw white~
+3
+&wa &Wwhite wolf's &wpaw&n~
+The severed paw of a wolf lies here.~
+~
+9 71336960 262144 16385
+10 0 0 0
+4 186250 600000
+A
+19 6
+A
+18 2
+A
+12 -30
+#7792
+obj icerain fang 2~
+2
+&Wan &BIce&CRain &Wfang&n~
+A fang from a large beast lies here.~
+~
+5 4195329 0 8193
+131072 5 10 11
+6 150000 340000
+#7793
+obj icerain pelt 2~
+1
+&BIce&cRain&W's pelt&n~
+The pelt of a very large wolf lies here.~
+~
+9 205522944 0 1025
+60 0 0 0
+15 150000 750000
+A
+19 3
+A
+18 2
+A
+12 -15
+A
+14 -15
+#7794
+obj skull wolf 2~
+2
+&WSkull &wof the &Kblack &wwolf&n~
+The skull of a wolf-like creature lies here collecting dust.~
+~
+9 4197440 0 17
+15 0 0 0
+4 100000 500000
+A
+19 3
+A
+18 3
+A
+13 -30
+A
+36 -1
+#7795
+obj moonshadow tail 2~
+2
+&KMoonshadow's &Wtail&n~
+A tail from a great black wolf lies here.~
+~
+9 138423296 0 262145
+0 0 0 0
+7 150000 2000000
+A
+19 10
+A
+18 4
+A
+13 -25
+A
+12 -15
+#7796
+obj monkey form scroll (5 max in game)~
+1
+a scroll of &YMonkeys&n~
+a scroll of monkey form lies here.~
+~
+2 134217728 1024 1
+48 161 0 0
+1 5 10000
+#7797
+obj ninja form scroll (5 max in game)~
+1
+a scroll of &bNinjas&n~
+a scroll of ninja form lies here.~
+~
+2 134217728 1024 1
+48 162 0 0
+1 5 15000
+#7798
+obj wolf form scroll (4 max in game)~
+1
+a scroll of &CWolves&n~
+a scroll of wolf form lies here.~
+~
+2 134217728 1024 1
+48 158 0 0
+1 5 20000
+#7799
+obj bear form scroll (4 max in game)~
+1
+a scroll of &yBears&n~
+a scroll of bear form lies here.~
+~
+2 134217728 1024 1
+48 159 0 0
+1 5 25000
+#7800
+obj mask destiny viana~
+1
+&wthe &Bmask &wof &Cdestiny&n~
+A silver helm lies here, glowing with a holy power.~
+~
+9 71472193 393220 17
+15 0 16 0
+3 200000 10000000
+A
+19 4
+A
+18 1
+A
+13 -20
+#7801
+obj large wooden table~
+100
+&yA table&n~
+&yA large wooden table is here.&n~
+~
+15 0 0 0
+100 0 0 0
+1 5 5
+#7802
+obj bowl offerings~
+100
+&wA small bowl of offerings&n~
+&WA large bowl of food offerings rests in front of the statue.&n~
+~
+15 0 0 0
+50 0 0 0
+1 5 5
+#7803
+obj slab cooked meat~
+50
+&yA large slab of cooked meat&n~
+&yA large slab of cooked meat rests here&n~
+~
+19 0 0 1
+50 0 0 0
+3 50 5
+#7804
+obj some mixed fruit~
+50
+some &Rmixed fruit&n~
+Some &Rmixed fruit&n lies here in a heap.~
+~
+19 0 0 1
+20 0 0 0
+2 25 5
+#7805
+obj bottle fine wine~
+50
+a large bottle of fine &GSylvan&n &pwine&n~
+A large bottle of fine &GSylvan &pwine&n rests here.~
+~
+17 0 0 16385
+40 40 2 0
+4 300 5
+#7806
+obj drow chainmail adamantium set~
+3
+&Ka set of drow chainmail made from an &wadamantium weave&n~
+A set of black elven chainmail lies here.~
+~
+9 138674274 0 9
+100 0 0 0
+25 400000 5
+A
+19 5
+A
+13 50
+A
+41 2
+#7807
+obj fyrebrand sword blade 2~
+1
+&W@&G==&K[;;;F&wyr&Ke&rBra&Rn&Yd&r;;&R;;&Y>&n~
+A strange blade lies here, emitting a smoldering heat.~
+~
+5 138415169 0 8193
+16848952 10 5 11
+7 190000 100000
+A
+18 3
+A
+19 1
+A
+13 -25
+A
+33 -1
+$~
+#999999

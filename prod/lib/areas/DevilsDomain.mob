@@ -1,0 +1,368 @@
+#20050
+mob Soulravage~
+&rSoulravage&n~
+&rSoulravage &Kis standing nearby.&n
+~
+  Before you stands a horrific creature, it resembles
+nothing you have ever seen before. Soulravage has the
+head of a human with the horns of a ram. It's lower
+torso resembles that of a bull. Soulravage stands 
+about eight feet tall. There is a powerful aura about
+him.
+~
+1074008394 2392065 136249361 1075855502 0 S
+48 0 -25 1d1+50000 17d17+94
+3500000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_ENERGY_DRAIN 95
+SKILL=SPELL_FIREBALL 75
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_FIRE_BREATH 75
+SKILL=SPELL_GAS_BREATH 75
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_IMMUNE 75
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20051
+mob priest dark priest~
+&wA &Kdark &yP&Kr&yi&Ke&ys&Kt&n~
+&wA &Kdark &yP&Kr&yi&Ke&ys&Kt&w stands here.&n
+~
+This priest follows your every move. You can see he is studying
+everything about you. Perhaps planning to make you the next
+victim for Soulravage.
+~
+1074061386 32769 136249393 136 -1000 S
+45 0 -25 50d50+12500 20d25+70
+1500000 950000
+8 8 1
+0 0 24 20 20 22 17 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_IMMUNE 65
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=75
+ATTACK_SKILL=15
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+#20052
+mob Devouring deep~
+&wThe Devouring &wD&Wee&wp&n~
+&wThe Devouring &wD&Wee&wp&w has settled down to the bottom of the lake.&n
+~
+This appears to be a giagantic fish. Juding from it's enormous
+size it must weigh tons. It is large enough to swallor you whole
+and not even notice it. It is covered in hige scale and it's
+mouth aligned with razor sharp teet.
+~
+1099227146 32769 136249361 1073741964 0 S
+47 -20 -25 100d100+15000 35d25+55
+1750000 1000000
+8 8 0
+0 0 25 16 14 20 25 14
+ATTACK_SKILL=55
+ATTACK_SKILL=5
+ATTACK_SKILL=1
+ATTACK_TYPE=106
+ATTACK_SKILL=50
+ATTACK_SKILL=5
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#20053
+mob Temple Guard~
+&wTemple &Pg&pu&Pa&pr&Pd&n~
+&wA temple &Pg&pu&Pa&pr&Pd &wstands watch here.&n
+~
+  A heavily armored priest stands here seemingly blocking you way. The guards
+all seem to be almost without life almost motionless.
+~
+201647626 32769 136249361 140 -750 S
+42 1 -25 100d9+9500 25d20+40
+550000 580000
+8 8 1
+1 4 25 15 16 14 12 14
+#20054
+mob Temple priest~
+&wTemple &Pp&wr&Pi&we&Ps&wt&n~
+&wTemple &Pp&wr&Pi&we&Ps&wt&w is chanting some arcance words.&n
+~
+A tall man adorned in a black and red robe. He wanders around
+with a lost look in his eyes, paying little attention to
+anything around him.
+~
+319562 1081345 136249457 67108864 -500 S
+41 2 -18 100d100+8500 10d5+25
+350000 320000
+8 8 0
+1 2 20 20 20 15 19 14
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 75
+SKILL=SPELL_SILENCE 75
+#20055
+mob Living statue~
+&wA living &KStatue&n~
+&wA living &KStatue&w watches your every move.&n
+~
+A huge stone statue stands guard over this cave. It almost
+appears lifeless. Yet with every move you make it appears
+to be watching.
+~
+1141113354 32769 136249393 606077128 0 S
+42 1 -26 90d1+9000 15d20+40
+9800 543215
+8 8 0
+7 4 22 22 21 21 17 19
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_GAS_BREATH 85
+SKILL=SPELL_ACID_BREATH 85
+SKILL=SKILL_RAGE 75
+#20056
+mob Stone elemental~
+&wA stone &ye&Kl&ye&Km&ye&Kn&yt&Ka&yl&n~
+&wA stone &ye&Kl&ye&Km&ye&Kn&yt&Ka&yl&w is waiting here to crush you.&n
+~
+ The giagantic elemental blends in with all it's
+surroundings. It can't wait to feed on human flesh
+once again. It can kill with one swift blow.
+~
+319502 2129921 136249361 103809160 -1000 S
+43 1 -25 15d50+10000 5d5+60
+1250000 741234
+8 8 0
+0 4 21 23 19 19 19 19
+SKILL=SPELL_SLEEP 90
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_RAGE 75
+SKILL=SPELL_DEMON_FLESH 99
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=108
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=1
+ATTACK_TYPE=101
+#20057
+mob living wall~
+&wA living &Pw&pa&Pl&pl&n~
+&wA living &Pw&pa&Pl&pl&w surrounds you.&n
+~
+All you can see is a wall that completely surrounds you.
+~
+1074061322 1 136249361 3145740 -500 S
+44 1 40 10d10+12000 25d25+60
+750000 875000
+8 8 0
+0 0 16 16 15 14 15 12
+#20058
+mob Stone Giant~
+&wA stone &yg&wi&ya&wn&yt&n~
+&wA stone &yg&wi&ya&wn&yt&w lumbers around.&n
+~
+Before you stands a massive stone giant. His body is made up of 
+pieces of the cave itself. It is wielding a massive stone axe
+just waiting to errupt in a fit of rage.
+~
+1082392586 1 136249361 3145868 0 S
+47 0 40 10d10+22000 20d20+60
+1750000 1400000
+8 8 1
+24 0 26 18 16 14 24 11
+ATTACK_SKILL=60
+ATTACK_SKILL=20
+ATTACK_SKILL=2
+ATTACK_TYPE=108
+ATTACK_SKILL=25
+ATTACK_SKILL=20
+ATTACK_SKILL=2
+ATTACK_TYPE=101
+#20059
+mob Grunger Telfor~
+&YG&yr&Yu&yn&Yg&ye&Yr &yT&Ye&yl&Yf&yo&Yr&n~
+&YG&yr&Yu&yn&Yg&ye&Yr &yT&Ye&yl&Yf&yo&Yr&n &Wis wandering about.&n
+~
+ You find yourself standing before Grunger Telfor. One of the mightiest 
+dwarven warriors to walk this world. His body is scared from countless
+battles. His beard hangs from his chin almost touching the ground. He
+has almost a cold heartless look on his face. He wields a mighty hammer
+nearly his equal in size. He wanders this land for yet one more battle
+to bring honor to his great name.
+~
+1074012170 32769 136249361 140 1000 S
+46 1 -25 100d1+14000 30d30+70
+2000000 850000
+8 8 1
+2 7 22 22 22 22 22 22
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_MAGIC_RESIST 75
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_SKILL=2
+ATTACK_TYPE=108
+ATTACK_SKILL=10
+ATTACK_SKILL=5
+ATTACK_SKILL=2
+ATTACK_TYPE=108
+#20060
+mob LiMuBai~
+LiMuBai~
+LiMuBai sits on the floor meditating.
+~
+  Before you crouches Li Mu Bai the deadliest of the Wudan warriors. He is
+as highly skilled at his martial arts as he is with the use of this blade
+the green dragon. He has but one mission left in his life time that is to
+avenge his masters death. So he roams this land in search of The Jade fox.
+As you approach him he unsheaths the green dragon sword. With a blow as 
+quick as the wind itself you are sliced open. Li Mu Bai now warns you to
+advance no further because you will not have his sword on this day or any
+other.
+~
+1074008072 32769 136249361 640180900 0 S
+48 0 -35 100d125+135000 30d25+60
+10000000 2500000
+8 8 0
+1 4 22 22 22 22 22 22
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=15
+ATTACK_SKILL=5
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=15
+ATTACK_SKILL=5
+ATTACK_TYPE=100
+#20061
+mob Jade Fox~
+Jade Fox~
+The Jade Fox stands before you crouched is some strange fighting stance.
+~
+   This is the legendary Jade Fox once a servant to Li Mu Bai's master. But her
+hatred for her master drove her to poison him resulting in his death. She now roams
+the earth hiding from Li Mu Bai. In her hand she clutches a legendary manual of the
+martial arts. In her hand appears to be some kind of hollowed out staff. As you 
+approach her she prepares to end your life.
+~
+1074008072 32769 136249361 573075628 -1000 S
+48 0 -34 100d125+130000 25d30+65
+5000000 2500000
+8 8 0
+1 0 20 20 22 22 19 19
+SKILL=SPELL_ELSEWHERE 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_FOURTH 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=15
+ATTACK_SKILL=5
+ATTACK_TYPE=102
+ATTACK_SKILL=99
+ATTACK_SKILL=15
+ATTACK_SKILL=5
+ATTACK_TYPE=108
+#20062
+mob Slyvester pu8ÿÿÿ!~
+Slyvester the puppy~
+A cute little puppy named Slyvester charges playfully towards you.
+~
+This little puppy is nothing more than a cute little black ball
+of fur. It is so small it can easily fit into both of your hands.
+But beware if you get this puppy hyper active you could be in
+some major trouble. You notice the little puppy has skin piercing
+teeth just waiting to gnaw on your hands and feet.
+~
+1224999176 32769 136249361 537404072 0 S
+48 0 40 100d100+750000 40d30+70
+1000000 2000000
+8 8 1
+0 0 25 16 15 25 25 25
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=4
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=4
+ATTACK_TYPE=105
+#20063
+mob fallen paladin~
+&wThe &KF&wa&Kl&wl&Ke&wn &yP&Ka&yl&Ka&yd&Ki&yn&n~
+&wA once &WRoyal Knight &wstands here, forever enslaved by his victor, &rSoulravage&n.
+~
+&nYou peer deep into this mans eyes.  It tells a story of a once
+triumphant warrior, who, in his prime went to kill off the evils
+of this world.  He traveled far and wide, until finding himself
+in a large open cave with a small dwarf with that of his same
+beliefs.  The dwarf told of great stories of the monster within.
+A beast so large, it would take ten men to even leave a scratch
+upon its flesh.  This man walked deeper into the cave, attacking
+the monster, and, his plans were spoiled.  He was forever 
+enslaved in a deep cave hidden well within the domain.  Now,
+when he hears his masters call, he comes to its aid.
+~
+1216672330 5537793 136253457 337117380 -1000 S
+47 0 -33 1d1+23999 30d35+55
+2500000 1269000
+8 8 1
+0 0 25 25 23 24 13 15
+SKILL=SPELL_ENERGY_DRAIN 35
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 50
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+ATTACK_SKILL=11
+ATTACK_SKILL=10
+ATTACK_SKILL=9
+ATTACK_TYPE=103
+ATTACK_SKILL=11
+ATTACK_SKILL=10
+ATTACK_SKILL=9
+ATTACK_TYPE=108
+$~
+#999999

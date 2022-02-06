@@ -1,0 +1,84 @@
+#5400
+mob rust monster rustmonster~
+a rust monster~
+A rust monster is here.
+~
+A copper-colored creature twirls its attenae at you.  A small nose on the
+front seems to be sniffing vigorously.  The rust monster seems to think
+you are a tasty bite.
+~
+16834760 1 136249361 33558536 0 S
+8 30 35 5d5+35 3d3+3
+360 249
+8 8 0
+0 0 13 13 13 13 9 8
+#5401
+mob map maker~
+the map-maker~
+The duergar map-maker is here.
+~
+The duergar Map-Maker is here staring at a nudey picture.
+~
+206 1 136249361 301989888 -500 S
+15 25 29 30d9+80 3d5+10
+3285 4735
+8 8 1
+1 0 14 15 14 13 11 9
+#5402
+mob lemure demon~
+a lemure~
+The lemure stands here, within its own excrement.
+~
+The lemure is an almost formless gelatin, human-like being which constantly
+moans and groans.  You have heard stories that the lemure were once people
+who have detoriated into these lesser demons for selling their soul to the
+devil.
+~
+65608 1 136249361 67109920 -600 S
+14 25 30 9d19+100 5d3+7
+1800 4150
+8 8 1
+7 0 14 13 14 13 10 9
+#5403
+mob zombie occupant~
+a zombie~
+A yellowed zombie is here.
+~
+The zombie is yellow and withered.  It is attached to the chair by
+many wires and cables, yet it can move from the chair to attack you.
+~
+33816650 1 136249361 67109888 0 S
+20 20 24 55d19+1000 5d5+15
+5100 62000
+8 8 1
+0 0 16 15 15 15 13 12
+#5404
+mob whore woman demon~
+a whore~
+A beautiful whore stares at you with a mischevious grin.
+~
+A naked woman of unsurpassed beauty stands in front of you.  She smiles
+mischeviously at you beckoning you to come to her.  As she smiles you notice
+that her teeth are strange.  When she smiles again, you notice they are
+fanged!
+~
+33833166 1 136249361 67372040 -800 S
+20 20 24 100d9+1000 5d5+15
+3400 100000
+8 8 2
+7 0 17 16 16 14 15 11
+#5405
+mob Chef~
+the Keep's Chef~
+The Chef of the Keep is standing here.
+~
+The chef is pretty mundane in appearance, save for the 'Salvador Dali'
+mustache on his face.  He seems pretty content with his job.
+~
+74 1 136249361 0 0 S
+10 29 34 20d7+45 3d3+5
+700 2985
+8 8 1
+1 0 13 12 12 13 10 12
+$~
+#999999

@@ -1,0 +1,192 @@
+#23800
+mob Uruk-hai orc~
+&wUruk-hai &KOrc&n~
+&wA grotesque looking orc stands here.&n
+~
+&w The uruk-hai orcs were created by the dark Lord Saruman. Unlike normal
+orcs the uruk-hai do not grow weak in sunlight. They are larger and
+stronger than men in combat, as their only objective is to kill.
+Uruk-hai sometimes wear black armor and wield fierce blades. They
+bare the mark of Saruman.&n
+~
+1107558410 32769 136249361 2101290 -1000 S
+46 3 -27 1d1+11999 36d10+99
+750000 1100000
+8 8 0
+0 4 24 17 15 22 16 12
+#23801
+mob Uruk-hai battle master~
+&wUruk-hai &Kbattle master&n~
+&wA fierce looking &Korc&w stands here.&n
+~
+&wThis is the fiercest of the Uruk-hai. Thie orc stands head
+and shoulders above all other uruk-hai. He wields a massive
+blade and his legs are covered with a set of leg plates.&n
+~
+100925514 4227073 136249361 67371436 -1000 S
+48 0 -30 1d1+34999 42d36+99
+2500000 1200000
+8 8 0
+0 4 25 25 25 25 25 25
+#23802
+mob Gimli~
+&yG&Ki&wm&Kl&yi&n~
+&wA rugged looking &ydw&Karv&yen &wwarrior looks you over.&n
+~
+&wThis is the mightiest of all the dwarven warriors. His name is Gimli,
+he wields a massive war axe and wears a set of rugged looking chainmail.
+&n
+~
+1074003978 32769 136249361 140 1000 S
+44 0 -10 100d1+14000 34d34+75
+1000000 750000
+8 8 1
+2 4 22 22 22 22 22 22
+SKILL=SKILL_RAGE 99
+#23803
+mob Aragorn~
+&yAragorn&n~
+&wA battle ready &yranger&w stands here sword drawn.&n
+~
+&w Before you stands a ranger like no others, his name is Aragorn. He is fully
+clad in &yleather&w armor from head to toe. He wears a &yleather&w cloak about his
+body and a sheath around his waist.&n
+~
+1074003978 32769 136249361 140 1000 S
+44 0 40 1d1+24999 25d25+50
+1000000 825000
+8 8 1
+1 4 22 22 22 22 22 22
+ATTACK_SKILL=74
+ATTACK_SKILL=5
+ATTACK_SKILL=1
+ATTACK_TYPE=103
+ATTACK_SKILL=45
+ATTACK_SKILL=5
+ATTACK_SKILL=1
+ATTACK_TYPE=103
+#23804
+mob Legolas~
+&GLe&yg&go&yl&Gas&n~
+&wThe greatest of the &ge&Glve&gn &yarchers&w stand here with bow ready to fire.&n
+~
+&wLegolas stands before you. He is the greatest of the archers. He wields 
+a glorius looking bow. He wear standard elven armor from head to toe, on
+his hands are a pair of finely crafted &yleather&w gloves.&n
+~
+1074004042 32769 136249361 174 1000 S
+45 0 -15 1d1+26999 35d35+60
+2000000 850000
+8 8 1
+14 4 19 18 14 22 20 13
+#23805
+mob king theoden~
+&WKing &CT&wh&ceod&we&Cn&n~
+&WKing &CT&wh&ceod&we&Cn&w sits here on his throne.&n
+~
+&wThis is King Theodon, he sits here ready to defend his people against the
+armies of the hruk-hai. He wears a glorius crown on his head and sits on his
+throne with a massive broad sword in his hand.&n
+~
+67371018 32769 136249361 536871082 750 S
+48 0 -27 1d1+39999 35d35+99
+2750000 975000
+8 8 1
+1 4 20 20 20 18 18 18
+#23806
+mob king's guard~
+&wThe &Wking's &wguard&n~
+&wA guard stands here protecting the &Wking.&n
+~
+&wA guard stands here with no purpose in his life, but to protect
+King Theodon's life.&n
+~
+1140908042 1081345 136249361 538968108 500 S
+43 4 25 1d1+15999 5d10+99
+450000 450000
+8 8 1
+1 4 22 18 18 22 22 12
+#23807
+mob elven archer~
+&WA &GE&glve&Gn &yarcher&n~
+&wA &yarcher&w stands here protecting the fortress walls.&n
+~
+&wHere stands a legendary &Ge&glve&Gn &yarcher&w. He is clad from head to toe
+in elven armor. His only weapon is the bow in his hand. As
+you draw closer he prepares to strike with his bow.&n
+~
+67371018 32769 136249361 536871084 1000 S
+45 2 -9 1d1+19999 20d20+99
+550000 1150000
+8 8 1
+14 4 19 17 14 22 21 13
+#23808
+mob peasant woman~
+&wA &ypeasant &wwoman&n~
+&wA &ypeasant &wwoman hurries her way through the &ypassage&n
+~
+&wYou stare upon a tired and weary looking woman. The clothes she is wearing are torn
+and tattered. Tears seem to roll down her face as she hurries through the twisting
+passage hoping to make it to safety.&n
+~
+67108878 32769 136249361 8 1000 S
+41 6 40 1d1+11999 10d10+99
+150000 350000
+8 8 2
+1 0 16 15 14 16 14 14
+#23809
+mob peasant child~
+&wA &ypeasant &wchild&n~
+&wA child blows buy you screaming for his mother.&n
+~
+&wThis child runs by you so fast that you can't make
+heads nor tails of him.&n
+~
+10 1 136249361 8 1000 S
+41 7 40 1d1+10999 5d10+99
+125000 300000
+8 8 1
+0 0 16 15 16 16 13 15
+#23810
+mob Eowyn&n~
+&WLady &CE&cow&cy&Cn&n~
+&WLady &CE&cowy&Cn&w stands here guiding people out of the &ypassage&w.&n
+~
+&wA beutiful woman stands before you. She is clad in a long silky
+white robe that is tied around her waist with a gold weaved silk
+belt. Eowyn wears a silver crown on her head&n
+~
+67371018 32769 136249361 140 1000 S
+45 1 -20 1d1+25999 25d35+99
+1750000 940000
+8 8 2
+1 4 21 16 16 22 22 22
+#23811
+mob Gandolf the White~
+&cG&wandol&cf &wthe &WWhite&n~
+&cG&wandol&cf &wthe &WWhite&w stands here staff in hand.&n
+~
+  &wThis is &cG&wandol&cf &wthe &WWhite&w, formerly &cG&wandol&cf &wthe Grey.
+He lives once more to finish his task at hand. He is is clothed from head to
+toe in a long white robe. Around Gandolf's waist rests a sword in sheath and
+wielded in hand is a old man's cane.&n
+~
+1074008072 2129921 136249361 538968204 1000 S
+50 -50 -25 100d100+60000 35d40+45
+4200000 1669000
+8 8 1
+1 1 22 22 22 22 22 22
+SKILL=SPELL_ELSEWHERE 75
+SKILL=SPELL_HEAL_MAJOR 95
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_METEOR_SWARM 95
+ATTACK_SKILL=10
+ATTACK_SKILL=3
+ATTACK_SKILL=2
+ATTACK_TYPE=101
+ATTACK_SKILL=4
+ATTACK_SKILL=3
+ATTACK_SKILL=2
+ATTACK_TYPE=100
+$~
+#999999

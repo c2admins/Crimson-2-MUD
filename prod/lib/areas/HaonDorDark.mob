@@ -1,0 +1,183 @@
+#6100
+mob warg vicious~
+the vicious warg~
+A vicious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
+quickly from its long, white fangs.  It looks quite dangerous and very angry.
+~
+57416 1 136249361 0 -350 S
+5 32 37 1d12+30 2d4+0
+250 162
+8 8 0
+0 0 12 13 12 11 9 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6101
+mob warg ferocious~
+the ferocious warg~
+A ferocious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
+quickly from its long, white fangs.  It looks quite dangerous and very angry.
+~
+57416 1 136249361 0 -350 S
+7 30 36 1d12+44 2d4+2
+300 222
+8 8 0
+0 0 12 12 11 12 9 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6102
+mob wolf grey~
+the large, grey wolf~
+A large, grey wolf is here, glaring hungrily at you.
+~
+The large, grey wolf eyes you with interest while licking its lips.
+~
+57416 1 136249361 33554432 -150 S
+3 34 38 1d12+35 1d7+0
+160 130
+8 8 0
+0 0 12 12 11 11 10 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6103
+mob wolf black~
+the large, black wolf~
+A large, black wolf is here, glaring hungrily at you.
+~
+The large, black wolf eyes you with interest while licking its lips.
+~
+57416 1 136249361 33554432 -150 S
+4 33 17 1d12+35 1d9+0
+225 160
+8 8 0
+0 0 11 10 10 11 9 6
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6110
+mob tree ancient large~
+a large, ancient tree~
+A large, ancient tree towers above you.
+~
+It's roots are extremely big and large parts of them are above ground.
+The enormous grey trunk shivers slightly, as if sighing deeply.
+~
+262232 1 136249361 34078728 0 S
+30 13 5 25d19+3100 5d9+40
+30000 182000
+8 8 0
+0 0 18 19 17 18 15 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6111
+mob tree ancient huge~
+a huge, ancient tree~
+A huge, ancient tree towers above you.
+~
+It's roots are extremely big and large parts of them are above ground.
+The enormous grey trunk emits a deep, moaning sound.
+~
+262232 1 136249361 34078728 0 S
+33 10 -4 100d19+3250 15d5+30
+58750 200000
+8 8 0
+0 0 19 21 17 17 16 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#6112
+mob Narcissus green dragon~
+&GNa&gr&ycis&gs&Gus&n~
+A huge green dragon is here, its narrow yellow eyes glowing with rage.
+~
+This enormous winged serpent has dark green scales covering most of its
+colossal body.  Numerous holes in its heavy wings tell of many fights as does
+the nicks in the horns on its head.  It smells as disgusting as only dragons
+do.
+~
+5562446 294913 136249361 1140867304 -500 S
+50 -30 -40 62d100+60000 30d20+85
+6000000 2250000
+8 8 2
+0 0 17 18 15 15 12 15
+SKILL=SPELL_ARMOR 80
+SKILL=SPELL_SLEEP 78
+SKILL=SPELL_STRENGTH 89
+SKILL=SPELL_SUMMON 80
+SKILL=SKILL_SNEAK 80
+SKILL=SKILL_STEAL 79
+SKILL=SPELL_GAS_BREATH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 60
+SKILL=SKILL_RAGE 99
+SKILL=SPELL_WRATH_OF_NATURE 99
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=40
+ATTACK_TYPE=106
+ATTACK_SKILL=80
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_TYPE=104
+#6113
+mob spider poisonous~
+the huge, poisonous spider~
+A huge, poisonous spider is here.
+~
+This disgusting creature is at the size of a human crawling on all four.  It
+has eight hairy legs that gives it a tremendous speed on almost any surface and
+sharp poisonous fangs to paralyze or kill its prey.
+~
+90 1 136249361 0 -350 S
+8 30 35 1d12+50 2d5+3
+310 255
+8 8 0
+0 0 13 15 11 11 9 9
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#6114
+mob queen spider~
+the Queen Spider~
+The huge, bulky Queen Spider is here.
+~
+This disgusting creature is at the size of a small elephant.  It has eight
+huge, hairy legs that would give it a tremendous speed on almost any surface
+if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
+~
+319578 1 136249361 8 -1000 S
+15 25 29 4d12+200 4d8+2
+3500 4690
+8 8 2
+0 0 15 13 13 14 10 9
+#6115
+mob shargugh brownie~
+Shargugh~
+Shargugh the Forest Brownie is here, grinning broadly at you.
+~
+This little fellow is only three foot tall with wild matted brown hair and long
+tangled brown beard.  He wears ragged brown and green clothing and looks as if
+he is having great fun.
+~
+262300 1 136249361 524298 1000 S
+10 29 34 3d12+110 1d8+7
+825 3075
+8 8 1
+0 0 13 15 11 13 9 9
+$~
+#999999

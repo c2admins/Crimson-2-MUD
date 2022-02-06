@@ -1,0 +1,1779 @@
+#7400
+Zone Explanation~
+This zone was made because Crimson 2 lacked good aligned zones.  I made
+it so big as to take up for some of the slack.  Also I had alot of ideas
+for a 7 heavens zone.  I started this zone around august, and will have it
+finished by the end of november of 2000.  Part of the delay is due to the
+port I made this being down for about a month.  It takes up 2 zone files.
+~
+58 268435464 536870912 1 99 1
+S
+#7401
+Entrace to the first level of Heaven~
+You stand in a peaceful area.  Up in these clouds the angels and seraphs all
+listen to the word of God.  They have all lead holy lives.  You can see this is
+the place for where only the holy shall venture in death.  The skies bring a
+sort of peaceful harmony.  Beware all who have found their way here better be
+very good.
+~
+58 1048576 0 1 99 1
+D1
+Along the clouds.
+~
+~
+0 -1 7402
+D5
+a clearing
+~
+~
+0 -1 18494
+S
+#7402
+At the gates of Heaven.~
+These are the gates of Heaven.  To enter you have to be judged.  If you are
+judged to be a righteous man, you shall enter.  If you are of the wicked and 
+immoral, you shall be sent to dwell with the morning star.
+~
+58 1048580 0 1 99 1
+D1
+The first level of Heaven.
+~
+gates~
+15 7400 7403
+D3
+The entrance to Heaven.
+~
+~
+0 -1 7401
+S
+#7403
+The first level of Heaven~
+You are just on the inside of Heaven's gates.  There are guardians all over
+this area.  You can see the white sky on this glistening sanctuary seems to
+harold the holy land.  The harmony this land seems is warm and seems to smile
+at everyone here.  This land is all about love and forgiveness.
+~
+58 1048588 0 1 99 1
+D0
+The first level of Heaven.
+~
+~
+0 -1 7404
+D3
+The gates of Heaven.
+~
+~
+12 -1 7402
+S
+#7404
+The first level of Heaven~
+Blessed by God, and shrouded in a sanctuary aura; This kingdom has been built
+by sheer will.  Many souls wander throughout these halls.  All of them are here
+because in their mortal life they served their deity well.  
+You notice that there are very few matieral items about these halls.  Most are
+for protection from evil strays.
+~
+58 1048576 0 1 99 1
+D0
+The first level of Heaven.
+~
+~
+0 -1 7408
+D1
+First level of Hell.
+~
+~
+0 -1 7410
+D2
+The first level of heaven.
+~
+~
+0 -1 7403
+D3
+~
+~
+0 -1 7405
+S
+#7405
+The first level of Heaven~
+This is the first stage of Heaven.  This is where fairly good people go.  These
+people have lead mainly good lives.  They haven't done anything exceptional.
+However, most of the ones that gained sainthood have ascended to the next
+level.  But, those who have devoted most of their lives are within the first
+few levels of Heaven.
+~
+58 1048580 0 1 99 1
+D0
+The first level of Heaven.
+~
+~
+0 -1 7406
+D1
+The first level of Heaven.
+~
+~
+0 -1 7404
+S
+#7406
+The first level of Heaven~
+You are standing before the second gates of Heaven.  You will find that all
+gates are guarded by a Seraph.  The higher you go the more powerful Heaven will
+become.  The aura of this sanctuary is blessed with holy song.  This song can
+be heard by every being.  For the holy ones, this song is a blessing.  For the
+evil minded.  This song will drive them insane.
+~
+58 1048576 0 1 99 1
+D0
+A path to another level of Heaven.
+~
+~
+0 -1 7407
+D2
+The First level of Heaven.
+~
+~
+0 -1 7405
+S
+#7407
+Doorway to the second level of Heaven~
+The white halls here are amazingly wonderful.  You can see that there is some
+kind of beautiful harmony in the air.  There is a song in this place.  It will
+make a holy man feel at ease and an evil one will be driven mad.  The second
+level of heaven is just passed Michael's gates.
+~
+58 1048576 0 1 99 1
+D0
+~
+gate~
+15 7404 7417
+D2
+The first level of Heaven.
+~
+~
+0 -1 7406
+S
+#7408
+The first level of Heaven.~
+These lower levels are covered by guardians and protectors of Heaven's gates.
+You can see many cherubs and lower celestials that wander about here.
+There is a feeling of ease and settlement here for the holy, and total pain for
+the wicked.  Many lives have come here only after a life of prayer and belief.
+~
+58 1048576 0 1 99 1
+D0
+The first level of Heaven.
+~
+~
+0 -1 7416
+D1
+First level of Heaven.
+~
+~
+0 -1 7409
+D2
+The first level of Heaven.
+~
+~
+0 -1 7404
+S
+#7409
+The first level of Heaven~
+These lower levels are covered by guardians and protectors over Heaven's gates.
+You can see many cherubs and lower celestials that wander about here.
+There is a feeling of ease and settlement here for the holy, and total pain for
+the wicked.  Many lives have come to here only after a life of pray and belief.
+~
+58 1048576 0 1 99 1
+D0
+The first level of Heaven.
+~
+~
+0 -1 7415
+D2
+The first level of Heaven.
+~
+~
+0 -1 7410
+D3
+First level of Heaven.
+~
+~
+0 -1 7408
+S
+#7410
+The first level of Heaven.~
+This lower levels of Heaven aren't as strong as the higher ones.  However, you
+can see the awesome force upon this level alone.  To think it only gets harder
+from here.  The next few levels can make an undivine creature feel like its a worse hell.
+~
+58 1048576 0 1 99 1
+D0
+The first level of Heaven.
+~
+~
+0 -1 7409
+D1
+The first level of Heaven.
+~
+~
+0 -1 7411
+D3
+The first level of Hell.
+~
+~
+0 -1 7404
+S
+#7411
+The first level of Heaven~
+The innocents of Heaven walk amung the lower levels.  These were made for those
+who have achieved a holy life.  However, they are also the first stage of
+invasion upon Heaven.  These celestials and cherubs have no worries.  Each level
+is guarded by two seraphims.
+~
+58 1048576 0 1 99 1
+D1
+The first level of Heaven.
+~
+~
+0 -1 7412
+D3
+The first level of Heaven.
+~
+~
+0 -1 7410
+S
+#7412
+The first level of Heaven~
+You have entered a quiet section of the lower level area.  You are near a
+guardian's watch tower.  You can see that Purineesa's home is somewhere
+around here.  This area, just as all others is guarded by a seraph.
+~
+58 1048576 0 1 99 1
+D0
+The first level of Heaven.
+~
+~
+0 -1 7413
+D3
+The first level of Heaven.
+~
+~
+0 -1 7411
+S
+#7413
+The first level of Heaven~
+You have entered a quiet section of this lower level area.  You are near a 
+guardian's watch tower.  You can see that Purineesa's home near here.  This
+area, just as all the other levels of Heaven are guarded by Seraph.
+~
+58 1048576 0 1 99 1
+D1
+The home of Chani the cupid.
+~
+~
+0 -1 7414
+D2
+The first level of Heaven.
+~
+~
+0 -1 7412
+S
+#7414
+Home of Purineesa~
+This is the home of Purineesa.  She stays on this level to protect the lower
+celestials and cherubs.  You can see this home is filled with many white statues.
+There is such a pure feeling about this room.  The area is filled with many
+celestials and cherubs.  These halls are all protected by a Seraph and a 
+gatekeeper.  Each level is more powerful than the last.  The higher you go
+the more the halls become protected.
+~
+58 1048580 0 1 99 1
+D3
+The first level of Heaven.
+~
+~
+0 -1 7413
+S
+#7415
+The first level of Heaven~
+These lower levels are covered by guardians and protectors over Heaven's gates.
+You can see many cherubs and lower celestials that wander about these halls.
+There is a feeling of ease and settlement here for the holy, and total pain
+for the wicked.  many lives have come to here only after a life of prayer and
+belief.
+~
+58 1048576 0 1 99 1
+D2
+The first level of Heaven.
+~
+~
+0 -1 7409
+D3
+The first level of Heaven.
+~
+~
+0 -1 7416
+S
+#7416
+The first level of Heaven~
+These lower levels are covered by guardians and protectors of Heaven's gates.
+You can see many cherubs and lower celestials that wander about these halls.
+There is a feeling of ease and settlement here for the holy, and total pain
+for the wicked.  Many lives have come to here only after a life of prayer and
+belief.
+~
+58 1048576 0 1 99 1
+D1
+The first level of Heaven.
+~
+~
+0 -1 7415
+D2
+The first level of Heaven.
+~
+~
+0 -1 7408
+S
+#7417
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484044 536870912 1 99 1
+D1
+~
+~
+0 -1 7421
+D2
+~
+~
+0 -1 7407
+S
+#7418
+Anael's Sanctuary~
+This is the home of Anael, the ruler of Friday.  You can see he governs the
+second level of Heaven.  This mighty angel was one of the first seven created.
+His room is doned with bright and brilliant visions of sexual acts of love.
+You can tell he has helped create some of the worlds most favorite feelings.
+~
+58 269484044 0 1 99 1
+D1
+~
+~
+0 -1 7429
+S
+#7419
+At the third level gates~
+You can see the palace gates of heaven a few levels away.  You are almost half
+way there.  You can see the watchers coming up.  They are on the fourth level.
+To get there you have to pass this gatekeeper.  This keeper is harder than the
+last.  The next will be harder than this one.
+~
+58 269484040 0 1 99 1
+D2
+~
+~
+0 -1 7430
+D3
+~
+gate~
+15 7414 7434
+S
+#7420
+Gedariah's Home~
+This home belongs to Gedariah the chief minister of Heaven.  The house is
+filled with ministies and scrolls.  These scrolls are the prayers for the human
+race.  There is a sweet scent of murr in the air.  You can feel the holy prayer
+about this room.  The songs of all churches fill here.  There is a sign on the
+wall that reads: Turn over every rock and you shall find him.  Break every
+board and you shall find him.  Look outside and you shall find him.
+~
+58 269484044 0 1 99 1
+D1
+~
+~
+0 -1 7442
+S
+#7421
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7422
+D3
+~
+~
+0 -1 7417
+S
+#7422
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484040 0 1 99 1
+D1
+~
+~
+0 -1 7423
+D2
+~
+~
+0 -1 7421
+S
+#7423
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7424
+D3
+~
+~
+0 -1 7422
+S
+#7424
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 1048584 0 1 99 1
+D0
+~
+~
+0 -1 7425
+D2
+~
+~
+0 -1 7423
+S
+#7425
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484040 0 1 99 1
+D2
+~
+~
+0 -1 7424
+D3
+~
+~
+0 -1 7426
+S
+#7426
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7427
+D1
+~
+~
+0 -1 7425
+S
+#7427
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7430
+D2
+~
+~
+0 -1 7426
+D3
+~
+~
+0 -1 7428
+S
+#7428
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484040 0 1 99 1
+D1
+~
+~
+0 -1 7427
+D3
+~
+~
+0 -1 7429
+S
+#7429
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484040 0 1 99 1
+D1
+~
+~
+0 -1 7428
+D3
+~
+~
+0 -1 7418
+S
+#7430
+The second level of Heaven~
+This is the second level of Heaven.  From here you see the great castle of
+Heaven.  'The meek shall inherit the Earth.'  However, this looks like a
+grandious castle.  You can hear the voice of God from here.  This level is
+protected by cherubs.  These belong to the main sect of angels.  They are the
+warriors of Heaven.  They are trained to be on the front lines of the Meek.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7419
+D2
+~
+~
+0 -1 7427
+S
+#7431
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 8 0 1 99 1
+S
+#7432
+The fourth gate of Heaven~
+You can see just passed this gate into the next area.  There are very powerful
+muses.  These inspire mankind into doing better for themselves.  You can see
+there is a glorious and righteous feeling there.  You can smell flowers and 
+perfumes there.  The entrance to the palace is just ahead of that.
+~
+58 269484040 0 1 99 1
+D0
+~
+gate~
+15 7407 7445
+D2
+~
+~
+0 -1 7443
+S
+#7433
+The Silvery Dragons Lair~
+This is the lair of the silvery dragon.  You can see he has collected treasures
+from all over the game.  This room is wide and vast for the dragon's wingspan.
+You can see not many mortals can journey to this plateu.  It sits upon a high
+mountain without any way of climbing up or down.
+~
+58 270532616 0 42 99 1
+S
+#7434
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484044 0 1 99 1
+D1
+~
+~
+0 -1 7419
+D3
+~
+~
+0 -1 7435
+S
+#7435
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7436
+D1
+~
+~
+0 -1 7434
+S
+#7436
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7437
+D2
+~
+~
+0 -1 7435
+S
+#7437
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484040 0 1 99 1
+D2
+~
+~
+0 -1 7436
+D3
+~
+~
+0 -1 7438
+S
+#7438
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484040 0 1 99 1
+D1
+~
+~
+0 -1 7437
+D3
+~
+~
+0 -1 7439
+S
+#7439
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484040 0 1 99 1
+D1
+~
+~
+0 -1 7438
+D3
+~
+~
+0 -1 7440
+S
+#7440
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7443
+D1
+~
+~
+0 -1 7439
+D3
+~
+~
+0 -1 7441
+S
+#7441
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484040 0 1 99 1
+D1
+~
+~
+0 -1 7440
+D2
+~
+~
+0 -1 7442
+S
+#7442
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7441
+D3
+~
+~
+0 -1 7420
+S
+#7443
+The third level of Heaven~
+This is the third level of Heaven.  In this area you will find the watchers.
+The watchers take notes on all acts of human lives.  These notes are used to
+prepare for judgement day.  The watchers know every move you have ever made.
+So they know how you fight.  Be prepared for these angels.
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7432
+D2
+~
+~
+0 -1 7440
+S
+#7444
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 8 0 1 99 1
+S
+#7445
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 269484044 0 1 99 1
+D2
+~
+~
+0 -1 7432
+D4
+~
+~
+0 -1 7446
+S
+#7446
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 269484040 0 1 99 1
+D0
+~
+~
+0 -1 7447
+D5
+~
+~
+0 -1 7445
+S
+#7447
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 269484040 0 1 99 1
+D2
+~
+~
+0 -1 7446
+D3
+~
+~
+0 -1 7448
+S
+#7448
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 269484040 0 1 99 1
+D1
+~
+~
+0 -1 7447
+D4
+~
+~
+0 -1 7449
+S
+#7449
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+0 -1 7450
+D5
+~
+~
+0 -1 7448
+S
+#7450
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 268435464 0 1 99 1
+D3
+~
+~
+0 -1 7449
+D5
+~
+~
+0 -1 7451
+S
+#7451
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7452
+D4
+~
+~
+0 -1 7450
+S
+#7452
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 268435464 0 1 99 1
+D2
+~
+~
+0 -1 7451
+D5
+~
+~
+0 -1 7453
+S
+#7453
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 268435464 0 1 99 1
+D3
+~
+~
+0 -1 7454
+D4
+~
+~
+0 -1 7452
+S
+#7454
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+0 -1 7453
+D5
+~
+~
+0 -1 7455
+S
+#7455
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 268435464 0 1 99 1
+D3
+~
+~
+0 -1 7456
+D4
+~
+~
+0 -1 7454
+D5
+~
+~
+0 -1 7459
+S
+#7456
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7457
+D1
+~
+~
+0 -1 7455
+S
+#7457
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+0 -1 7458
+D2
+~
+~
+0 -1 7456
+S
+#7458
+Michah's Home~
+This house is filled with the ideas for man.  More like the steps they will take
+in life and in the future.  The divine plan set for by God to be carried out
+by man.  It is written in some ancient angelic script that makes no sense to 
+you.
+~
+58 268435468 0 1 99 1
+D2
+~
+~
+0 -1 7457
+S
+#7459
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 8 0 1 99 1
+D0
+~
+~
+0 -1 7461
+D4
+~
+~
+0 -1 7455
+S
+#7460
+The gates of the fifth level~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 12 0 1 99 1
+D0
+~
+gate~
+15 7424 7462
+D2
+~
+~
+0 -1 7461
+S
+#7461
+The fourth level of Heaven~
+This is the fourth level of Heaven.  This is the level where all the muses 
+preside.  You can see the this secontion is filled with ideas and wonders.  
+There are many thing about this place that are strange and unusual.  These are
+creations made by the muses of this land.  All important ideas on earth came
+from these angels. 
+~
+58 8 0 1 99 1
+D0
+~
+~
+0 -1 7460
+D2
+~
+~
+0 -1 7459
+S
+#7462
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435468 0 1 99 1
+D1
+~
+~
+16 -1 7463
+D2
+~
+~
+0 -1 7460
+D3
+~
+~
+16 -1 7483
+S
+#7463
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7464
+D3
+~
+~
+16 -1 7462
+S
+#7464
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7465
+D3
+~
+~
+16 -1 7463
+S
+#7465
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7466
+D3
+~
+~
+16 -1 7464
+S
+#7466
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7467
+D3
+~
+~
+16 -1 7465
+D4
+~
+~
+16 -1 7488
+S
+#7467
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7468
+D2
+~
+~
+16 -1 7466
+S
+#7468
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7469
+D2
+~
+~
+16 -1 7467
+S
+#7469
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7487
+D2
+~
+~
+16 -1 7468
+S
+#7470
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268697608 0 1 99 1
+D2
+~
+~
+16 -1 7487
+D3
+~
+~
+16 -1 7471
+D4
+~
+~
+16 -1 7489
+S
+#7471
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7470
+D3
+~
+~
+16 -1 7472
+S
+#7472
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7471
+D3
+~
+~
+16 -1 7473
+S
+#7473
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7472
+D3
+~
+~
+16 -1 7474
+S
+#7474
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7473
+D2
+~
+~
+16 -1 7490
+D3
+~
+~
+16 -1 7475
+S
+#7475
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7474
+D3
+~
+~
+16 -1 7476
+S
+#7476
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7475
+D3
+~
+~
+16 -1 7477
+S
+#7477
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7476
+D3
+~
+~
+16 -1 7478
+S
+#7478
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7477
+D2
+~
+~
+16 -1 7479
+D4
+~
+~
+16 -1 7494
+S
+#7479
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7478
+D2
+~
+~
+16 -1 7480
+S
+#7480
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7479
+D2
+~
+~
+16 -1 7481
+S
+#7481
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7480
+D2
+~
+~
+16 -1 7482
+S
+#7482
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7481
+D2
+~
+~
+16 -1 7486
+S
+#7483
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7462
+D3
+~
+~
+16 -1 7484
+S
+#7484
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7483
+D3
+~
+~
+16 -1 7485
+S
+#7485
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7484
+D3
+~
+~
+16 -1 7486
+S
+#7486
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7482
+D1
+~
+~
+16 -1 7485
+D4
+~
+~
+16 -1 7495
+S
+#7487
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7470
+D2
+~
+~
+16 -1 7469
+S
+#7488
+A watch tower~
+These towers cover all four of the corners.  From here the watchers can see not
+only the earth but they can also see whats down on earth.  From this vantage
+no corner of the earth can be missed.  The large telescopes up here can see 
+through walls and other barriers in the realms of earth.
+~
+58 268435464 0 1 99 1
+D5
+~
+~
+0 -1 7466
+S
+#7489
+The watch tower~
+These towers cover all four of the earths corners.  From here the watchers can
+seenot only the earth but they can also see whats down on all of the universe.
+The large telescopes up here can see through walls and other barriers in the 
+realms of earth.
+~
+58 268435464 0 1 99 1
+D5
+~
+~
+16 -1 7470
+S
+#7490
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7474
+D2
+~
+~
+16 -1 7491
+S
+#7491
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D0
+~
+~
+16 -1 7490
+D1
+~
+~
+16 -1 7492
+D3
+~
+~
+16 -1 7493
+S
+#7492
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D3
+~
+~
+16 -1 7491
+D4
+~
+~
+16 -1 7497
+S
+#7493
+The fifth level of Heaven~
+This is the entrance of the white castle.  In this are you will find the
+watchers.  The watchers are those who watch the deeds of mankind.  They are 
+the ones who give the information for judgement.  They watch all of mankind
+from these halls.  These halls are semi-clear white.  They allow the watchers
+to see down into the world of mankind.
+~
+58 268435464 0 1 99 1
+D1
+~
+~
+16 -1 7491
+D4
+~
+~
+16 -1 7496
+S
+#7494
+A watch tower~
+These towers cover all four of the corners.  From here the watchers can see not
+only the earth but they can also see whats down on earth.  From this vantage
+no corner of the earth can be missed.  The large telescopes up here can see 
+through walls and other barriers in the realms of earth.
+~
+58 268435464 0 1 99 1
+D5
+~
+~
+16 -1 7478
+S
+#7495
+A watch tower~
+These towers cover all four of the corners.  From here the watchers can see not
+only the earth but they can also see whats down on earth.  From this vantage
+no corner of the earth can be missed.  The large telescopes up here can see 
+through walls and other barriers in the realms of earth.
+~
+58 268435464 0 1 99 1
+D5
+~
+~
+16 -1 7486
+S
+#7496
+The sixth level gates~
+This is the sixth gates of Heaven.  Beyond these gates lie the apostiles of
+Jesus Christ.  They dwell in the White Castle of God.  The White Castle is 
+the end of the Journey.  In there you will find Seraphim and the Apostiles.
+Beware the Seraphim carry with them the word of God and a heavy hand.  They
+will normally tear mortal men to shreds.  So be very aware as they may bring
+upon you death most certain.
+~
+58 272629768 0 1 99 1
+D4
+~
+gates~
+29 7442 7498
+D5
+~
+~
+16 -1 7493
+S
+#7497
+The watch tower of Bartlebee~
+This is the home of Bartlebee.  He is the head of the watchers.  His word to
+God is almost law.  These walls are covered with lists of deeds that powerful
+leaders have done.  He watches only the great leaders of the world.  He knows
+all their intimate details of their life.
+~
+58 268435464 0 1 99 1
+D5
+~
+~
+16 -1 7492
+S
+#7498
+The sixth level of Heaven~
+This level is dedicated to the apostiles.  They were the men who followed Jesus
+without thought of their self.  They followed Jesus through his times and trials
+with an open heart and an open mind.  They followed without question and without
+desire.  The thirteen apostiles of Jesus Christ live within this level being
+closer to god than almost any other angel or man.
+~
+58 268435468 0 1 99 1
+D0
+~
+~
+0 -1 20000
+D5
+~
+~
+0 -1 7496
+S
+$~
+#999999

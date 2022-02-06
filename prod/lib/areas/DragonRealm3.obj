@@ -1,0 +1,354 @@
+#13900
+obj castle key~
+2
+a gold key~
+A shiney gold key is lying here.~
+~
+18 262152 0 1
+10000 0 10 0
+5 5 5
+#13901
+obj small steel key~
+2
+a small steel key~
+You see a small steel key lying here.~
+~
+18 262152 0 1
+0 0 10 0
+5 5 5
+#13902
+obj book legends~
+10
+&wthe &yBook &wof &cLe&Cg&We&Cn&cds&n~
+You see a gold bound book laying here.~
+~
+11 134786145 0 16385
+0 0 10 0
+1 1500 700
+A
+3 2
+A
+4 2
+A
+24 -5
+#13903
+obj black key~
+2
+&Ka pitch black key&n~
+&Ka pitch black key is lying here.&n~
+~
+18 262172 0 1
+0 0 10 0
+5 5 5
+#13904
+obj fountain~
+1
+&wa fountain&n~
+&wA large &Ws&wi&Klv&we&Wr &wfountain is here, giving a nice place to rest.&n~
+~
+17 8 0 0
+1000000 1000000 0 0
+100000 5 1000000
+#13905
+obj Heron-marked longsword~
+10
+&wa &WHeron&K-&wmarked long&Ksword&n~
+A Heron-marked longsword is laying here.~
+~
+5 1048833 0 8193
+0 4 6 3
+10 5 20000
+A
+6 1
+A
+18 3
+#13906
+obj feather duster~
+10
+&Ka fe&Wath&Ker &yduster&n~
+A feather duster is lying here.~
+~
+5 33554432 0 24577
+0 5 5 2
+25 500 250
+A
+23 -1
+#13907
+obj noble short sword~
+3
+&wa &cn&Woble'&cs &wshort&Ksword&n~
+A rather large short sword is lying here.~
+~
+5 1049857 0 8193
+11 3 15 3
+30 8000 800
+A
+33 -1
+A
+6 2
+#13908
+obj noble money sack~
+90
+&ya money sack&n~
+A bulging sack is lying here.~
+~
+20 0 0 2049
+30000 0 10 0
+25 5 5
+#13909
+obj titanium short sword~
+10
+&wa &Wti&wt&Kan&wi&Wum &wshort&Ksword&n~
+a titanium short sword is lying here.~
+~
+5 34079744 0 8193
+129 3 10 11
+5 5000 1000
+A
+18 2
+A
+5 1
+#13910
+obj tasting ladel~
+10
+&wa tasting &Kladel&n~
+a ladel is laying here on the gound with some good looking food on the end of it.~
+~
+5 34604289 0 8193
+0 11 3 7
+4 8000 2000
+A
+33 -1
+A
+19 1
+A
+18 2
+#13911
+obj pot shield~
+10
+&Ka metal pot&n~
+a metal pot is laying here eminating good smells.~
+~
+9 524288 0 513
+10 0 0 0
+1 900 700
+A
+18 1
+A
+6 -1
+#13912
+obj shield platinum~
+10
+&wa &Kplatinum shield&n~
+A platinum shield lies here blinding you with it's brilliance~
+~
+9 34620419 0 513
+2 0 0 0
+8 6000 2000
+A
+19 2
+A
+18 1
+#13913
+obj pike golden~
+10
+&wa &Ygo&yld&Yen &Kpike&n~
+A golden pike is laying here designed with dragon scales~
+pierce~
+5 34772032 0 8193
+2048 3 6 11
+19 80000 20000
+A
+19 2
+A
+33 -1
+#13914
+obj sceptre platinum~
+10
+&Wa &Kplatinum&W sceptre&n~
+A platinum sceptre is lying here, it looks fairly powerful~
+~
+4 37762048 131072 16385
+35 4 4 34
+3 130000 12500
+A
+19 5
+A
+12 10
+A
+18 2
+#13915
+obj pedistool golden~
+100
+a golden pedistool~
+A golden pedistool is standing here in the middle of the room~
+~
+15 1 0 0
+20 0 0 0
+70 5 5
+#13916
+obj golden sceptre treasure~
+100
+&wa valuable &Ygo&yld&Yen &ysc&Yept&yre&n~
+An extremely valuable looking golden sceptre is laying here.~
+~
+8 0 0 16385
+0 0 10 0
+1 5 5
+#13917
+obj cloak black hooded~
+40
+&Ka black hooded cloak&n~
+a black hooded cloak lays here~
+~
+9 1048577 0 5
+15 0 10 0
+5 80000 20000
+A
+19 2
+A
+5 2
+#13918
+obj ball crystal black~
+5
+&Ka black &Wc&Cr&wyst&Ca&Wl &Wball&n~
+A crystal ball made of onyx is lying here.~
+~
+1 2097665 0 65537
+0 0 1000000 0
+3 44000 11000
+A
+18 1
+A
+19 2
+#13919
+obj earrings silver~
+10
+&Wa pair of&w si&Klv&wer &Wearrings&n~
+A pair of silver earrings are laying here~
+~
+9 2097152 0 17
+20 0 0 0
+1 200000 50000
+A
+18 3
+A
+19 2
+A
+12 -30
+#13920
+obj chromatic armor~
+1
+&xC&xh&xr&xo&xm&xa&xt&xi&xc &wArmor~
+A suit of chromatic armor is laying here~
+~
+9 104859652 24576 9
+80 0 0 0
+18 150000 85000
+A
+12 -30
+A
+18 1
+A
+41 1
+A
+40 3
+#13921
+obj shrine tiamat~
+100
+a shrine to tiamat~
+A shrine to Tiamat the chromatic dragon is sitting here~
+~
+1 0 0 0
+0 0 10 0
+1 5 5
+#13922
+obj mirror split~
+100
+a split mirror~
+A split mirror showing different parts of the castle is sitting here~
+~
+1 0 0 0
+0 0 10 0
+1 5 5
+#13923
+obj telescope large~
+100
+a large telescope~
+A large telescope is here pointed at the heavens~
+~
+1 0 0 0
+0 0 10 0
+1 5 5
+#13924
+obj bed large comfy~
+100
+a large comfy bed~
+A large comfortable bed is here~
+~
+1 0 0 0
+0 0 10 0
+1 5 5
+#13925
+obj bench large pillowed~
+100
+a pillowed bench~
+A large pillowed bench is sitting here inviting you to rest~
+~
+1 0 0 0
+0 0 10 0
+1 5 5
+#13926
+obj couch comfy~
+100
+a comfortable couch~
+A comfortable couch is sitting here looking inviting~
+~
+1 0 0 0
+0 0 10 0
+1 5 5
+#13927
+obj plant large~
+100
+a large plant~
+A large plant is sitting here adding to the scenery~
+~
+1 0 0 0
+0 0 10 0
+1 5 5
+#13928
+obj chromatic dragonscale ring~
+1
+&xC&xh&xr&xo&xm&xa&xt&xi&xc &gDragonscale &wRing~
+You see a ring made of Dragonscales gleaming all the colors of the rainbow~
+~
+9 104859648 24576 3
+0 0 0 0
+3 10000000 25000
+A
+19 2
+A
+40 2
+A
+12 -20
+A
+17 5
+#13929
+obj glimmering shield~
+1
+&xG&xl&xi&xm&xm&xe&xr&xi&xn&xg &wShield&n~
+There is a rainbow colored shield on lying on the ground~
+~
+9 104933376 24576 513
+50 0 0 0
+15 150000 50000
+A
+41 2
+A
+40 2
+A
+18 1
+A
+19 1
+$~
+#999999

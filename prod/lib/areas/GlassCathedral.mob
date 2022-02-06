@@ -1,0 +1,679 @@
+#19500
+mob Splynncryth Lord~
+Lord Splynncryth~
+Lord Splynncryth, The Evil Splugorth Terror 
+~
+Splynncryth is an incarnation of pure evil, not a savage beast, but an 
+intellectual being with a high regard for magic. He has eight tentacle 
+arms with which to fight and is sure to outmatch even the sturdiest of 
+warriors.
+~
+1153490954 16809985 136249393 50331816 -1000 S
+45 0 -25 60d19+15900 10d5+30
+2150000 1000000
+8 8 0
+0 1 24 25 22 6 17 5
+SKILL=SKILL_EXTRA_DAMAGE 72
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_SCALES 70
+SKILL=SPELL_LIGHTNING_BREATH 99
+SKILL=SKILL_SECOND 95
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 85
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 90
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=100
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=104
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=108
+#19501
+mob Licky Sir~
+Sir Licky~
+Sir Licky, Knight of the Dark Gith
+~
+As a knight of the Gith, Sir Licky is adorned in black and orange atire. 
+A cunning fighter and savage in heart, he is a ruthless foe, and will stop 
+at nothing to expand the name of his master.
+~
+33611786 1081345 136249457 168 -500 S
+42 1 -26 45d19+9375 5d9+12
+1000000 508000
+8 8 1
+1 4 22 15 15 16 16 8
+SKILL=SKILL_EXTRA_DAMAGE 95
+SKILL=SKILL_PARRY 95
+SKILL=SKILL_SECOND 95
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 85
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=103
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#19502
+mob Drissandra Lady ~
+Lady Drissandra~
+Lady Drissandra, Dark Priestess of the Gith
+~
+A horribly ugly woman, disfigured by the powers that pulse through her 
+veins. She is clad in the ceremonial black and orange atire of the Gith.
+A truly derranged person, and hideously insane she tries in vein to make
+herself beautiful for all. 
+~
+36028426 1081345 136249393 369098922 -500 S
+41 2 -24 90d19+6785 7d3+7
+800000 371000
+8 8 2
+16 2 12 17 20 12 16 7
+SKILL=SPELL_CURSE 76
+SKILL=SKILL_EXTRA_DAMAGE 50
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_SECOND 85
+SKILL=SKILL_THIRD 75
+SKILL=SKILL_FOURTH 30
+SKILL=SPELL_HEAL_MINOR 80
+SKILL=SPELL_HEAL_MEDIUM 70
+SKILL=SPELL_HEAL_MAJOR 70
+SKILL=SPELL_SILENCE 60
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=104
+#19503
+mob Ginrual~
+Ginrual~
+Ginrual, The Fumbling Swordsman
+~
+A big man, drow in nature, wears a rather adorned suit of armor, and has 
+a knack for breaking his weapon in combat. Not a bad fighter, he has been 
+cursed by dark powers which view this as a mere game where he is there pawn.
+~
+33611790 1081345 136249457 570426400 -500 S
+36 7 -14 15d30+5000 3d5+12
+87500 217000
+8 8 1
+16 4 20 13 14 18 16 8
+SKILL=SKILL_EXTRA_DAMAGE 55
+SKILL=SKILL_PARRY 40
+SKILL=SKILL_SECOND 85
+SKILL=SKILL_THIRD 70
+SKILL=SKILL_FOURTH 40
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=103
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=102
+#19504
+mob Drogut Orc~
+Drogut~
+Drogut is Orc God, sits impatiently
+~
+Drogut has gained a higher and somewhat more respective position than his 
+orc kin. As a master of lowly magics, he considers himself a God when 
+compared to other orcs.
+~
+8437770 1081345 136249457 33554602 -500 S
+36 7 -14 20d30+5000 5d5+20
+90000 215000
+8 8 0
+17 1 22 15 12 17 17 5
+SKILL=SPELL_BURNING_HANDS 80
+SKILL=SPELL_CHILL_TOUCH 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SKILL_EXTRA_DAMAGE 70
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_SCALES 50
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 85
+SKILL=SKILL_FOURTH 55
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=103
+#19505
+mob Arial Lady~
+Arial~
+Arial, Your Mistress of Pain
+~
+A strikingly beautiful woman, exquisit in nature, but terrifying all at 
+the same time stands before you. Barely dressed she stands with a sicle 
+in one hand and a scourge in the other.
+~
+33611850 1081345 136249393 301990056 0 S
+43 1 -28 100d100+7000 10d5+25
+1425000 667895
+8 8 2
+16 2 17 18 14 13 22 19
+SKILL=SKILL_EXTRA_DAMAGE 60
+SKILL=SKILL_PARRY 55
+SKILL=SKILL_SECOND 95
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 75
+SKILL=SPELL_HEAL_MINOR 80
+SKILL=SPELL_HEAL_MEDIUM 80
+SKILL=SPELL_SILENCE 70
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=104
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#19506
+mob Gith ~
+Gith~
+Gith, The Ambassador of Hell
+~
+Sent from the far heated confines of hell, Gith takes on the form of a 
+drow clad in a black and orange robe. A revered being in his own society, 
+he was chosen to lead an assault on the puny, disrespectful human race.
+~
+33873930 1081345 136249393 102760490 -1000 S
+48 0 -25 100d100+70000 30d11+25
+3600000 1555000
+8 8 0
+7 8 23 21 20 21 22 18
+SKILL=SKILL_EXTRA_DAMAGE 90
+SKILL=SKILL_PARRY 85
+SKILL=SKILL_SCALES 90
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 80
+SKILL=SPELL_HEAL_MEDIUM 90
+SKILL=SPELL_CREMATION 90
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 80
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=105
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19507
+mob Balrog Demon~
+Balrog of Hell~
+The Balrog of Hell rises from a purple flame
+~
+Summoned from the burning pits of hell, is a fierce and untammed creature
+without a master, Unrivelled as one of the most cunning of demons, his 
+savage heart makes him unstopable.
+~
+42000410 1081345 136249393 35656872 0 S
+43 1 -28 100d19+4500 10d5+15
+1325000 620000
+8 8 0
+7 4 23 18 18 20 22 5
+SKILL=SKILL_EXTRA_DAMAGE 90
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_SCALES 90
+SKILL=SPELL_FIRE_BREATH 90
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 95
+SKILL=SKILL_FOURTH 90
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=105
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19508
+mob Nightmare~
+Nightmare~
+A Nightmare, flaming with the desires of hell, snarls at you
+~
+Unhloy mounts dragged from their native world, sent to further the reaches 
+of Darkness, sit in torment in a world that is not there own. Hoping to be 
+released from service, and to go back to the chaos world from wince they 
+came.
+~
+51413002 32769 136249457 570425388 -500 S
+36 7 -14 50d19+5375 5d5+17
+85000 217000
+8 8 0
+0 4 20 18 16 19 20 10
+SKILL=SPELL_FIRE_BREATH 80
+SKILL=SKILL_SECOND 80
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19509
+mob Dark Priest~
+A Dark Priest~
+A Dark Priest of Gith stands chanting in prayer
+~
+A tall drow man, adorned in black and orange flowing robes.
+~
+33611784 1081345 136249457 67108992 -500 S
+38 5 -18 35d19+4000 5d7+20
+300000 230000
+8 8 1
+16 2 16 20 20 15 19 14
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 75
+SKILL=SPELL_SILENCE 75
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#19510
+mob High Priest of Gith~
+The High Priest of Gith~
+The High Priest of Gith stands here summoning a Balrog
+~
+A tall drow man, adorned in black and orange flowing robes.
+~
+33611786 1081345 136249393 67109000 -500 S
+40 3 -22 100d19+4875 8d5+25
+635000 238000
+8 8 0
+16 2 16 20 20 15 19 14
+SKILL=SKILL_EXTRA_DAMAGE 75
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 80
+SKILL=SPELL_SILENCE 75
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#19511
+mob Bulcock Fire Giant~
+Bulcock, The Fire Giant~
+Bulcock, A lone fire giant keeps a vigil lookout
+~
+A fire giant enlisted into the services of Gith, in hopes of one day being 
+able to call the fiery pits of Hell his home.
+~
+8445966 1081345 136249457 0 -500 S
+30 13 5 80d19+2500 4d5+10
+28000 182350
+8 8 0
+24 4 26 10 12 16 20 11
+SKILL=SKILL_EXTRA_DAMAGE 80
+SKILL=SKILL_PARRY 70
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 75
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=108
+#19512
+mob beast giant~
+giant beast~
+A giant beast lies in wait here.
+~
+This giant beast is obviously the companion of the fire giant.
+We all need friends are giants are no different!
+~
+65550 1 136249457 0 0 S
+5 32 37 5d5+15 2d3+2
+300 100
+8 8 0
+0 4 8 18 14 14 14 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#19513
+mob carrion crawler~
+carrion crawler~
+A carrion crawler passes by looking for scraps to eat
+~
+A large catapillarish creature that feeds off the remains and waste of 
+other creatures.
+~
+16842888 1 136249457 0 0 S
+20 20 24 58d19+1000 3d3+12
+5000 55000
+8 8 0
+0 4 16 17 16 16 14 11
+SKILL=SKILL_SECOND 80
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19514
+mob Devouring Flame~
+Devouring Flame~
+A flame blazes out of control devouring all nearby
+~
+A red-orange flame fuelled by an unknown force burns brightly, devouring
+all plantlife nearby.
+~
+1074061326 2129921 136249457 1140850792 0 S
+30 13 5 20d19+3125 5d5+20
+30000 182000
+8 8 0
+0 4 18 17 15 16 20 14
+SKILL=SPELL_FIREBALL 90
+SKILL=SKILL_EXTRA_DAMAGE 70
+SKILL=SPELL_FIRE_BREATH 99
+SKILL=SKILL_SECOND 80
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+#19515
+mob Fire Mephit~
+Fire Mephit~
+A Fire Mephit stands here laughing at you crazily
+~
+A fire red creature, made from molten rock, summoned from another plane, 
+makes his home here. Not as comfortable as he would like, the pranks he 
+gets to pull on the petty humans is enough pleasure.
+~
+49224 32769 136249457 570425352 -500 S
+30 13 5 20d9+3200 5d5+15
+29000 184535
+8 8 0
+0 4 17 15 15 14 18 14
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_FIRE_BREATH 90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19516
+mob Treant~
+A Treant~
+A Treant stands thrashing with his gnarled branches
+~
+Withered of age and longing for company, this treant has turned cold of 
+heart, and takes out his anger on all.
+~
+42000398 1 136249457 0 -500 S
+35 8 -10 60d19+4050 9d5+10
+77500 213425
+8 8 0
+0 4 22 16 15 14 22 13
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#19517
+mob Gargoyle~
+A Gargoyle~
+A Gargoyle perched apon a ledge is here.
+~
+Made of stone, this gargoyle has remained here for centuries. Chipped by 
+the forces of nature, it has been rendered somewhat weak.
+~
+33611786 5242881 136249457 640680032 0 S
+30 13 5 20d19+2832 3d3+8
+30000 172000
+8 8 0
+0 4 20 16 14 20 22 15
+SKILL=SKILL_EXTRA_DAMAGE 90
+SKILL=SKILL_PARRY 40
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 80
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#19518
+mob ghost~
+a ghost~
+A ghost haunts this area where it once lived. 
+~
+A transparent visage of a beautiful woman who once called the confines 
+of these walls home.
+~
+35184650 32769 136249457 1090519082 0 S
+34 9 -7 28d19+3795 5d5+20
+65000 200000
+8 8 0
+0 0 16 17 15 15 14 14
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_EXTRA_DAMAGE 70
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 70
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#19519
+mob ghost~
+a ghost~
+A ghost haunts this area where it once lived. 
+~
+A transparent visage of a beautiful woman who once called the confines 
+of these walls home.
+~
+35184648 32769 136249457 1090519082 0 S
+34 9 -7 28d19+3795 5d5+20
+65000 200000
+8 8 0
+0 0 16 17 15 15 14 14
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_EXTRA_DAMAGE 70
+SKILL=SKILL_SECOND 80
+SKILL=SKILL_THIRD 70
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#19520
+mob Orngor dragon~
+Orngor~
+Orngor, The Black Dragon 
+~
+A mature black dragon with midnight black scales, polished to shiny 
+perfection. Orngor has made the top of this broken spire her home. 
+~
+12902410 32769 136249457 33554464 0 S
+40 3 -22 70d19+12000 3d5+19
+700000 240000
+8 8 0
+11 4 24 17 14 15 20 15
+SKILL=SKILL_EXTRA_DAMAGE 80
+SKILL=SKILL_PARRY 30
+SKILL=SPELL_ACID_BREATH 90
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 80
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=105
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=106
+#19521
+mob drow slave~
+a drow slave~
+a drow slave sits against the wall, bruised and hurt.
+~
+Torn from their home, these slaves do the work of another in the name 
+of another god. Figuring that Lolth will cast down there captives, they 
+are gravely wrong for she takes much delight in all of this.
+~
+10 1 136282225 33554432 -500 S
+5 32 37 5d5+20 2d3+2
+300 145
+8 8 1
+16 4 17 16 14 15 12 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#19522
+mob pit dweller~
+a pit dweller~
+a pit dweller stands here looking as he climbs out of the pit.
+~
+A reddish-brown creature with big horns and fangs, and a shiny coat of 
+fur that seems to blaze out of control.
+~
+57354 32769 136282225 100663360 -500 S
+32 11 -1 70d19+2945 5d5+25
+50000 193492
+8 8 0
+0 4 17 16 15 15 12 12
+SKILL=SKILL_SCALES 99
+SKILL=SPELL_FIRE_BREATH 90
+SKILL=SKILL_SECOND 90
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#19523
+mob glass golem~
+a glass golem~
+a glass golem stands still, hidden in the glass background.
+~
+Made of stained, multi-colored glass, when unmoving it is rendered 
+almost completely invisible. Sharp edges of glass make it a formidable 
+opponent in combat, and but week against blunt weapons.
+~
+8445962 1 136249457 34603008 0 S
+32 11 -1 20d69+3000 5d5+25
+48375 193475
+8 8 0
+0 4 22 18 16 15 13 13
+SKILL=SKILL_EXTRA_DAMAGE 70
+SKILL=SKILL_SCALES 90
+SKILL=SKILL_SECOND 90
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#19524
+mob Brain-Eating Zombie~
+A Brain-Eating Zombie~
+A zombie roams, eating the brains of the dead.
+~
+A hideous creature once human, now made of rotten flesh, and animated bone. 
+Muscles, half-decayed shows through the outer skin, and is gruesome to
+behold. ~
+33611786 1 136249457 33558528 -500 S
+30 13 5 20d19+2935 5d5+9
+28000 175000
+8 8 0
+0 4 18 15 14 16 12 14
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 80
+SKILL=SKILL_FOURTH 80
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=106
+#19525
+mob spectre ghost~
+a spectre~
+a spectre floats before you barely visible. 
+~
+A deathly incarnation of a spirit torn from its body, it is savage and 
+wreaks havoc upon all that crosses it. Flesh falls from the bone, and 
+muscle is torn, and only the tattered remains of a dress cover the body.
+~
+35184650 32769 136249457 1124073508 0 S
+36 7 -14 50d19+5000 4d5+10
+92500 217325
+8 8 0
+0 4 18 16 14 14 14 13
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_CURSE 99
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 80
+SKILL=SKILL_FOURTH 75
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#19526
+mob shadow~
+the coalescing shadow~
+The coalescing shadow takes shape before you.
+~
+A blotch of darkness begins to take the shape of a vague humanoid figure. 
+Shadowy fingers spring from stubby hands, and a pin-prick lights can be 
+seen in a vague head.
+~
+1081354 1081345 136249457 1073741866 0 S
+44 1 -30 70d19+27435 40d5+25
+1600000 810000
+8 8 0
+0 4 20 18 16 14 14 12
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=105
+#19527
+mob banshee~
+a banshee~
+a banshee moans in the night scaring all that can hear her.
+~
+A drow female who died here is torn from a resting soul, until she can 
+return to her homeland, underground, and make fully her faith to Lolth. 
+~
+35184650 32769 136249393 0 0 S
+38 5 -18 70d19+7875 4d3+14
+250000 233000
+8 8 0
+0 4 18 16 14 15 14 11
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 85
+ATTACK_SKILL=69
+ATTACK_SKILL=70
+ATTACK_SKILL=71
+ATTACK_TYPE=103
+ATTACK_SKILL=69
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+$~
+#999999

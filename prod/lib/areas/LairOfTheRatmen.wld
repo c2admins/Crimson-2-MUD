@@ -1,0 +1,2002 @@
+#13200
+Fish's not so funky room.~
+This room just aint funky.
+~
+45 8 0 1 99 1
+D1
+It looks pretty funky.
+~
+~
+0 -1 13227
+D4
+void~
+~
+2 -1 3001
+S
+#13201
+Pathway through the ruined crops.~
+You are in a huge field of what used to be crops, but now is just a
+wasteground. The harvest that was nearly ready here, has been totally
+destroyed by something, leaving not a single plant standing.
+You see something on a rock laying on the ground.
+~
+45 0 0 1 99 2
+D0
+farmlands~
+~
+0 -1 3724
+D2
+Path through the devastated crops.
+~
+~
+0 -1 13202
+E
+rock~  ~
+                Lair of the Ratmen
+                Designed by: Fish
+                Suggested levels: 20 - 40   
+                General zone alignment: evil
+~                                         ~
+S
+#13202
+Pathway through the devastated crops.~
+The crops here are as bad as before. The place has been devastated by 
+some huge, remorseless, entity. You can see a huge tree on the other side
+of the field, lying on its side. It looks as if it has been literally
+pulled out of the ground.
+~
+45 0 0 1 99 2
+D0
+Path through the ruined crops.
+~
+~
+0 -1 13201
+D2
+End of the ruined crop fields.
+~
+~
+0 -1 13203
+D3
+A small path leads to a murky bog.
+~
+~
+32 -1 7500
+S
+#13203
+End of the ruined crop fields.~
+You are at the edge of the crop fields, where they meet the village. The
+crops here are completely flattened, and to the south, the gate to the 
+village appears to be in no better a state.
+You can see what looks like the corpse of a crop tender out in the middle
+of the field to your west.       
+~
+45 0 0 1 99 2
+D0
+Path through the devastated crops.
+~
+~
+0 -1 13202
+D2
+Through the gaping entrance to the village you can see the village is in a 
+bad way. The gate to the village is lying on the ground in front of the 
+gateway.
+~
+~
+0 -1 13204
+S
+#13204
+The entrance to the village.~
+This is the entrance to the village....or what is left of it.
+The whole place looks like a war zone, with the dead bodies of it's
+citizens all over the place and most of the buildings damaged, if not
+destroyed. The smell is awful, and there are rats and flies everywhere
+you look.
+~
+45 8 0 1 99 1
+D0
+Edge of the crop fields.
+~
+~
+0 -1 13203
+D1
+The remains of a small cottage.
+~
+~
+0 -1 13206
+D2
+Main road through the village.
+~
+~
+0 -1 13208
+D3
+Small cottage.
+~
+~
+0 -1 13205
+S
+#13205
+Crop tender's cottage.~
+This was where two of the crop tenders of the village lived. There are two
+corpses here, of a young man and woman, but they have clearly been thrown all
+around the room whilst they were being murdered because there is blood 
+everywhere. The furniture, what little there was, has also been smashed.
+~
+45 8 0 1 99 0
+D1
+Entrance to the village.
+~
+~
+0 -1 13204
+S
+#13206
+The ruined cottage.~
+You are standing in the ruins of one of the cottages. Everything has been
+smashed inside and then the building itself seems to have been pulled down.
+There are a number of small objects littered around the ruin, but nothing of
+any use.
+~
+45 8 0 1 99 1
+D3
+Entrance to the village.
+~
+~
+0 -1 13204
+S
+#13207
+The bloody cottage.~
+As you enter this cottage you are very nearly sick. The inhabitants of this
+cottage, two maybe three people, have been torn literally limb from limb as
+the attackers devastated their home. There are parts of human bodies all 
+around the inside of this place, and blood covers almost every inch of the 
+walls.
+~
+45 8 0 1 99 1
+D2
+Pathway through the village.
+~
+~
+0 -1 13212
+S
+#13208
+Main road through the village.~
+This is the road passing through the village and it is littered with 
+more corpses, not only of the villagers, but of livestock as well. Some
+of the corpses seem to have had been bitten by something a lot larger
+than the rats you can see skuttling around.
+~
+45 8 0 1 99 1
+D0
+Entrance to the village.
+~
+~
+0 -1 13204
+D2
+Centre of the village.
+~
+~
+0 -1 13213
+S
+#13209
+Ruins of the small cottage.~
+This is another cottage that has been torn down by the aggressors. You can
+see the lifeless arm of some poor villager sticking out of the rubble, and
+can see no way anybody would have lived this long underneath it. 
+~
+45 8 0 1 99 1
+D2
+Pathway through the village.
+~
+~
+0 -1 13214
+S
+#13210
+The village store.~
+This is the village store. They seem to have sold a few items to the village
+from here, but now all of the stock is either ruined or has simply been taken.
+There is an open trapdoor leading down into the cellar, but it looks very 
+dark, and you cannot tell how large the cellar could be. The breeze coming up
+through the trapdoor,would suggest there is a very large cellar down there....
+~
+45 8 0 1 99 1
+D2
+The end of the pathway through the village.
+~
+~
+0 -1 13215
+D5
+You can see the shelves and stock down there look as if they have been thrown
+around.
+~
+~
+0 -1 13221
+S
+#13211
+A ruined cottage.~
+This looks like it was a normal crop tenders cottage. There are a few smashed
+possesions littered around and there is the corpse of an old lady on the floor
+~
+45 8 0 1 99 1
+D1
+Pathway through the village.
+~
+~
+0 -1 13212
+S
+#13212
+Pathway through the village.~
+The road ends here and leads to three cottages....one of which is still
+standing. There are a few corpses, slowly rotting away, but the smell is
+not as bad here as elsewhere in the village.
+~
+45 8 0 1 99 1
+D0
+Small cottage.
+~
+~
+0 -1 13207
+D1
+Centre of the village.
+~
+~
+0 -1 13213
+D2
+The razed cottage.
+~
+~
+0 -1 13216
+D3
+Remains of a small cottage.
+~
+~
+0 -1 13211
+S
+#13213
+The centre of the village.~
+This area looks as though it was where the villagers ate all of their meals
+and held their meetings. There are tables and chairs, most smashed to pieces
+and the rest just thrown around, lying amongst the corpses. The stench Of the
+rotting bodies is awful, and makes you feel quite ill. Whatever did this, is
+clearly as powerful as it is vicious.
+~
+45 8 0 1 99 1
+D0
+Main road through the village.
+~
+~
+0 -1 13208
+D1
+Pathway through the village.
+~
+~
+0 -1 13214
+D2
+Main road through the village.
+~
+~
+0 -1 13217
+D3
+Pathway through the village.
+~
+~
+0 -1 13212
+S
+#13214
+Pathway through the village.~
+The path way leads away from the centre of the village between two cottages
+and towards the edge of the village and fields beyond. There are more bodies
+here, mainly of livestock, slowly being returned into the ground by the 
+processes of decay. The village seems to be almost completely silent, even
+the animals of the surrounding area being either dead, or scared away.
+~
+45 8 0 1 99 1
+D0
+Remains of a razed cottage.
+~
+~
+0 -1 13209
+D1
+Edge of the village.
+~
+~
+0 -1 13215
+D2
+A small cottage.
+~
+~
+0 -1 13218
+D3
+Centre of the village.
+~
+~
+0 -1 13213
+S
+#13215
+End of the pathway through the village.~
+This is the where the path ends and the surrounding fields begin. There are
+no more corpses here, although the air still tastes fairly rancid. There is
+a small shop to the north, and a lot of rubble to the south, both looking
+very lifeless.
+~
+45 8 0 1 99 1
+D0
+It appears to be the village store.
+~
+~
+0 -1 13210
+D2
+The village granary.
+~
+~
+0 -1 13219
+D3
+Pathway towards the centre of the village.
+~
+~
+0 -1 13214
+S
+#13216
+The razed cottage.~
+You are standing in the ruins of a cottage. This one was not torn down, it
+was burnt. There is very little left, and all of the vegetation near the 
+cottage has been burnt back too, leaving a fairly large space.
+~
+45 8 0 1 99 1
+D0
+Pathway through the village.
+~
+~
+0 -1 13212
+S
+#13217
+Main road through the village.~
+You are on the main road through the village leading up to what looks like
+was the home of the village leader. There are not as many corpses here as
+there were in the centre of the village, but there are a couple. There is the
+corpse of a horse here too, with its guts spilt all over the road and flies
+everywhere. 
+~
+45 8 0 1 99 1
+D0
+Towards the centre of the village.
+~
+~
+0 -1 13213
+D2
+A cottage, bigger than all the others.
+~
+~
+0 -1 13220
+S
+#13218
+A small, beat up cottage.~
+This cottage looks as if the attackers tried to pull it down, but left before
+finishing the job. One of the walls looks very unsafe and you think it could
+collapse at any moment. The contents of the house have been thoroughly
+ransacked and you know there is not going to be anything of use here.
+~
+45 8 0 1 99 1
+D0
+Pathway through the village.
+~
+~
+0 -1 13214
+S
+#13219
+The remains of the village granary.~
+This is what remains of where the villagers would have kept their harvest.
+It has been smashed to the ground by whatever was in the village and will
+not hold another harvest ever again. there are no corpses here, and
+consequently, no rats.
+~
+45 4 0 1 99 1
+D0
+The end of the pathway through the village.
+~
+~
+0 -1 13215
+S
+#13220
+The large cottage.~
+This was definately the cottage of the village leader. There are horns and
+various other ornaments fixed on the walls and the furniture looks as if it 
+was of a relatively high quality. Of course, now it is just firewood. This
+cottage has been smashed up as much as the others and it does not look as 
+though there is anything valuable left untouched. Strangely, there are no
+bodies, nor even any blood here. Clearly there was nobody here for the 
+attackers to kill.
+~
+45 8 0 1 99 1
+D0
+Main road to the village centre.
+~
+~
+0 -1 13217
+S
+#13221
+The dark cellar.~
+You can see this is where they kept all of the supplies for shop above. There
+are large shelves, that used to be fixed to the walls,thrown all over the 
+cellar floor. The boxes and sacks down here have been ripped up or destroyed
+and there is grain all over the floor,slowly being eaten by rats. As you peer
+into the darkness you notice there is a roughly dug tunnel leading away from
+the cellar into the darkness. There seem to be faint noises, but you cannot
+tell what they are.
+~
+45 13 0 1 99 1
+D3
+It looks like an unlit tunnel cut roughly from the earth.
+~
+~
+0 -1 13222
+D4
+The top of the Village Store.
+~
+~
+0 -1 13210
+S
+#13222
+A small dark tunnel.~
+You are in a small dark tunnel. You can see it gets lighter to the north,and
+opens into the cellar to the east.
+~
+45 9 0 1 99 1
+D0
+The tunnel continues, and it looks a little lighter.
+~
+~
+0 -1 13223
+D1
+You can see the cellar looks as though it has been thoroughly ransacked.
+~
+~
+0 -1 13221
+S
+#13223
+A small dark tunnel.~
+You are in a small tunnel, cut very roughly from the earth. There is a 
+little more light coming from the north, and south it just disappears into the
+darkness.
+~
+45 9 0 1 99 1
+D0
+You can see a dimly lit tunnel,much bigger and well cut than the one you
+are in now. You can also hear some faint sounds, too distant to identify.
+~
+~
+0 -1 13224
+D2
+The tunnel leads up to a bend up ahead.
+~
+~
+0 -1 13222
+S
+#13224
+A poorly lit tunnel.~
+The tunnel is poorly lit here by a torch set into the wall that is dying
+and looks as if it will go out soon. The tunnel leads into the darkness in
+all directions from here, and you cannot see where any way will lead.
+~
+45 8 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13275
+D2
+nothing special.
+~
+~
+0 -1 13223
+D3
+nothing special.
+~
+~
+0 -1 13260
+S
+#13225
+The small gloomy cave.~
+This is a small cave, cut from the earth. There is not much light here, but
+what little there is, is filtering in from a torch set in the wall to the
+west.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13226
+D1
+A small tunnel leading into the darkness.
+~
+~
+0 -1 13260
+D3
+nothing special.
+~
+~
+0 -1 13228
+S
+#13226
+The small gloomy cave.~
+This corner of the cave is the darkest, the only light coming from a torch
+in the opposite corner. The ground here is fairly moist and your feet sink a
+little into the mud. 
+~
+45 8 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 13225
+D3
+nothing special.
+~
+~
+0 -1 13229
+S
+#13227
+Noccy's flat of Terror!~
+This place is truley fearsome.
+~
+45 8 0 42 99 1
+D1
+Now THAT room looks funky.
+~
+~
+0 -1 13297
+D3
+It doesn't look so funky out there.
+~
+~
+0 -1 13200
+S
+#13228
+The small gloomy cave.~
+There is a torch set into the wall here lighting up this corner of the cave
+reasonably well. The ground and walls are damp, and there is a door set into
+the south wall here.
+~
+45 8 0 1 99 1
+D0
+The cave continues north.
+~
+~
+0 -1 13229
+D1
+The cave continues to the east.
+~
+~
+0 -1 13225
+D2
+As you look you can see large forms moving around, but cannot distinguish them
+, it is just too dark in there.
+~
+door~
+13 13201 13236
+S
+#13229
+The small gloomy cave.~
+This corner of the cave leads off north into a dark forboding looking tunnel.
+There is light coming from the corner south of here.
+~
+45 8 0 1 99 1
+D0
+The tunnel leads away into the darkness.
+~
+~
+0 -1 13230
+D1
+nothing special.
+~
+~
+0 -1 13226
+D2
+The cave continues south.
+~
+~
+0 -1 13228
+S
+#13230
+A turning in a dark tunnel.~
+You are in an unlit tunnel that has been quite roughly cut from the earth. To
+the south you can see it gets lighter as you enter a small cave.
+~
+45 9 0 1 99 1
+D2
+You can see a small, but fairly well lit cave.
+~
+~
+0 -1 13229
+D3
+nothing special.
+~
+~
+0 -1 13240
+S
+#13231
+A corner of the rat-ogre's cave.~
+You are in almost total darkness here. There is some kind of straw bedding
+on the ground, but it is horribly sodden in something, and the smell is awful
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13232
+D3
+nothing special.
+~
+~
+0 -1 13234
+S
+#13232
+In the rat-ogre's cave.~
+This cave is very dark, and you can only see a few feet in any direction. You
+can hear the grunting and growling of animals all around you.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13233
+D2
+nothing special.
+~
+~
+0 -1 13231
+D3
+nothing special.
+~
+~
+0 -1 13235
+S
+#13233
+A corner of the rat-ogre's cave.~
+The smell of rotting corpses is stronger here. As you peer into the darkness
+around you, you notice the half eaten remains of a human body, stuffed into 
+the corner.             
+~
+45 8 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 13232
+D3
+It looks a little lighter, and you think you can see some large forms
+moving around in the darkness.
+~
+~
+0 -1 13236
+S
+#13234
+In the rat-ogre's cave.~
+There are the sounds of creatures roaming around inside this cave, and they
+sound big. there are a few bones on the floor, but thankfully you cannot
+identify which animal they came from.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13235
+D1
+nothing special.
+~
+~
+0 -1 13231
+D3
+nothing special.
+~
+~
+0 -1 13237
+S
+#13235
+The large rat-ogre's cave.~
+You are in the middle of a cave that seems very large. You cannot see
+the top above you, but you can see the ground is buried underneath a 
+mixture of the dung of some huge animal, and straw. The smell is horrendous.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13236
+D1
+nothing special.
+~
+~
+0 -1 13232
+D2
+nothing special.
+~
+~
+0 -1 13234
+D3
+nothing special.
+~
+~
+0 -1 13238
+S
+#13236
+The large dark cave.~
+You are in a large dark cave, and the ground is covered in what appears to
+be straw. There is a horrible smell,something like a farmyard, but with a 
+faint touch of the smell of rotting corpses in there too. You can hear
+the sounds of animals grunting in the darkness,but it is too dark to see
+farther than a few feet in front of you.
+~
+45 8 0 1 99 1
+D0
+You can see a smaller but well lit cave.
+~
+door~
+13 13201 13228
+D1
+nothing special.
+~
+~
+0 -1 13233
+D2
+nothing special.
+~
+~
+0 -1 13235
+D3
+nothing special.
+~
+~
+0 -1 13239
+S
+#13237
+A corner of the cave.~
+This is one of the corners of this large cave, and it looks as if some animal
+has made its home here. There is some sort of animal bedding on the floor and
+it looks as if it has not been changed in a long time. It is rotting, and
+smells awful.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13238
+D1
+nothing special.
+~
+~
+0 -1 13234
+S
+#13238
+In the large rat-ogre's cave.~
+The cave is too dark to see more than a few feet away. You know there are
+animals moving around in here, but you just cannot seem to pinpoint them, or
+identify them.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13239
+D1
+nothing special.
+~
+~
+0 -1 13235
+D2
+nothing special.
+~
+~
+0 -1 13237
+S
+#13239
+The corner of the large cave.~
+The cave is as dark here as everywhere else, and the smell coming from the
+ground nearly makes you sick. The darkness seems to close in all around
+you, and you can hear the sounds of whatever is in this cave, moving around.
+~
+45 8 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13236
+D2
+nothing special.
+~
+~
+0 -1 13238
+S
+#13240
+In a dark tunnel.~
+You are in an unlit tunnel that has been cut very hastily from the earth
+and the ground is quite uneven.
+~
+45 13 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13230
+D3
+nothing special.
+~
+~
+0 -1 13241
+S
+#13241
+A junction in a dark tunnel.~
+You at a junction in an unlittunnel. The tunnel looks a little lighter to
+the west, and you can hear a lot of actuvity to the north.
+~
+45 9 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13242
+D1
+nothing special.
+~
+~
+0 -1 13240
+D3
+The tunnel is lighter up ahead.
+~
+~
+0 -1 13256
+S
+#13242
+A dark tunnel.~
+You are in an unlit tunnel that has been cut from the earth. There is no
+light here, but you can see a large cave to the north and there is a lot
+of noise coming from it.
+~
+45 9 0 1 99 1
+D0
+The tunnel emerges into a large cave.
+~
+~
+0 -1 13243
+D2
+nothing special.
+~
+~
+0 -1 13241
+S
+#13243
+A corner of the huge cave.~
+You are in the corner of the cave, and there is a small dark tunnel leading
+away south. You can see lots of humans walking around working hard for
+the skaven who are shouting in a strange language and beating the slaves.
+The ground is very firm, and very dry. Quite noticably different from the
+tunnels outside.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13262
+D1
+nothing special.
+~
+~
+0 -1 13264
+D2
+The tunnel disappears into the darkness.
+~
+~
+0 -1 13242
+S
+#13244
+A dark tunnel.~
+The tunnel here is lit by a torch set into the wall. There is a door to the
+north and the tunnel runs east-west.
+~
+45 268435464 0 1 99 1
+D0
+It looks like a small room dug out of the earth.
+~
+door~
+13 13202 13245
+D1
+The tunnel disappears into the darkness.
+~
+~
+0 -1 13296
+D3
+The tunnel is dimly lit ahead and you can make out a faint mumbling sound.
+~
+~
+0 -1 13246
+S
+#13245
+The sacrificial preparation room.~
+This is a small room, fairly well lit by a torch set into the wall. There
+are a few draperies on the walls looking very old and worn, and there is
+even a carpet of sorts on the floor.
+~
+45 8 0 1 99 1
+D2
+a tunnel running east-west.
+~
+door~
+13 13202 13244
+S
+#13246
+A dim tunnel.~
+This is a tunnel dug from the earth. There is a torch setinto the wall
+providing a certain amount of illumiantion, and there is a door in the north
+wall of the tunnel. You can hear some kind of chanting to the west.
+~
+45 268435468 0 1 99 1
+D0
+You can see a small room, dug out of the earth.
+~
+door~
+9 -1 13247
+D1
+You can see the tunnel continues and there is a door set into the wall up
+ahead, on the left.
+~
+~
+0 -1 13244
+D3
+The tunnel becomes darker up ahead, and you can hear chanting.
+~
+~
+0 -1 13249
+S
+#13247
+A poorly lit room.~
+This room has been cut from the rocks much better than any of the others
+you have seen. It is almost completely barren without even stones one the 
+ground. The only features are two huge tapestries, one on either side of the 
+room, hanging on the walls. They seem to depict some huge battle, but you
+cannot discern much more than that because of the size of the weave and the
+age and condition of the tapestry.
+~
+45 268435464 0 1 99 1
+D0
+It is just too dark in there. You cannot see anything.
+~
+~
+0 -1 13248
+D2
+You can see a tunnel running east-west.
+~
+door~
+9 -1 13246
+S
+#13248
+Chambers of the Lord of Decay.~
+This room is fully adorned with large draperies, banners and shields. A
+number of the shields are very dirty and have clearly earned their place on
+this display. The banners seem to depict horrific acts of violence and 
+depravity being carried out by the skaven, their race not being particularly
+concerned with any human values of morality and decency. This group of skaven
+appear to have travelled thousands of miles in their underground networks,
+building and scheming against all of the surface dwelling races above.
+~
+45 268435464 0 1 99 1
+D2
+You can see a small room.
+~
+~
+0 -1 13247
+S
+#13249
+Tunnel to the altar.~
+This is a dark unlit tunnel. From the west you can hear the sounds of chanting
+and it looks very dark,causing your stomach to twist slightly.
+~
+45 268435464 0 1 99 1
+D1
+The tunnel looks a little better lit.
+~
+~
+0 -1 13246
+D3
+The tunnel emerges into a small cave.
+~
+~
+0 -1 13251
+S
+#13250
+A corner of the cave.~
+You are in an unlit corner of a cave. The cave is filled with the murmuring
+of the ceremony taking place at the altar. The ground feels moist and you
+feel you could almost sink if you do not move soon.
+~
+45 268435465 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13251
+D3
+It is dark, but you can see it is the corner of the cave, beside the altar.
+~
+~
+0 -1 13253
+S
+#13251
+Before the altar.~
+You are standing at the entrance to a large cave. There is a small echo in
+here and you can hear a murmuring coming from a huge altar to your west.
+The soil underfoot is damp, and this whole place fills you with a feeling
+of evil,worse than anywhere else in these tunnels.
+~
+45 268435464 0 1 99 1
+D0
+You can see a corner of the cave.
+~
+~
+0 -1 13252
+D1
+There is a tunnel leading away from the altar.
+~
+~
+0 -1 13249
+D2
+You can see a corner of the cave.
+~
+~
+0 -1 13250
+D3
+You can see a glowing altar.
+~
+~
+0 -1 13254
+S
+#13252
+A corner of the cave.~
+You are in an unlit corner of a cave. The cave is filled with the murmuring
+of the ceremony taking place at the altar. The ground feels moist and you
+feel you could almost sink if you do not move soon.
+~
+45 268435465 0 1 99 1
+D2
+nothing special.    
+~
+~
+0 -1 13251
+D3
+It looks fairly dark,but you can see a corner of the cave.
+~
+~
+0 -1 13255
+S
+#13253
+Beside the altar.~
+You have found your way around the side of the altar. The altar is north of
+here and you can hear them chanting. This area itself is unlit and damp. 
+Your feet sink slightly as you stand here. There is nothing of interest here,
+it is just a corner of this cave.
+~
+45 268435465 0 1 99 1
+D0
+You can see a glowing altar.
+~
+~
+0 -1 13254
+D1
+nothing special.
+~
+~
+0 -1 13250
+S
+#13254
+Altar of the Horned Rat.~
+You are standing at an altar. There is a huge symbol up on the wall. It is
+a large triangle with the silhouette of a huge rat's skull in the middle.
+The skull appears to have a large pair of horns sticking out at the top and
+they go up and out of the triangle. The symbol itself is on a huge crimson
+drape that is hanging down loosely.
+The altar itself looks like a huge stone font filled with a dark liquid,
+contrasting sharply with the illuminous ball the Seer is holding over it.
+~
+45 268435464 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13255
+D1
+nothing special.
+~
+~
+0 -1 13251
+D2
+nothing special.
+~
+~
+0 -1 13253
+S
+#13255
+Beside the altar.~
+You have found your way around the side of the altar. The altar is south of
+here and you can hear them chanting. This area itself is unlit and damp. 
+Your feet sink slightly as you stand here. There is nothing of interest here,
+it is just a corner of this cave.
+~
+45 268435465 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13252
+D2
+You can see a glowing altar.
+~
+~
+0 -1 13254
+S
+#13256
+An illuminated tunnel.~
+You are in a tunnel cut roughly from the earth. There is a torch set into the
+wall here, lighting up this area of the tunnel.
+~
+45 8 0 1 99 1
+D1
+The tunnel leads away into the darkness.
+~
+~
+0 -1 13241
+D2
+There is a small room dug out of the earth.
+~
+door~
+9 -1 13257
+D3
+There is a door on the right wall up ahead.
+~
+~
+0 -1 13259
+S
+#13257
+Skaven sleeping chambers.~
+The ground is covered in some sort of straw bedding, but it is filthy. The
+smell is unpleasant too, but you have smelt worse here. There is a pair of
+drapes leading to another room to the west.
+~
+45 8 0 1 99 1
+D0
+You can see a tunnel running east-west.
+~
+door~
+9 -1 13256
+D3
+The sleeping chambers continue.
+~
+drapes~
+1 -1 13258
+S
+#13258
+Skaven sleeping chambers.~
+Their is more bedding here, looks like it has been used a lot.
+~
+45 8 0 1 99 1
+D1
+nothing special.
+~
+drapes~
+9 -1 13257
+S
+#13259
+An illuminated tunnel.~
+The corridor is illuminated by a torch set into the wall. You can see the 
+tunnel goes off as far as you can see to the west, but here, there is a door
+set into the north wall.
+~
+45 8 0 1 99 1
+D0
+You can see what looks like sleeping chambers.
+~
+door~
+9 -1 13261
+D1
+You can see the tunnel continues and there is a door in the wall on the left.
+~
+~
+0 -1 13256
+D3
+The tunnel disappears into the darkness.
+~
+~
+0 -1 13286
+S
+#13260
+A dark tunnel.~
+This tunnel seem to featureless, but there is light in both directions, west
+opening into a cave of some sort.
+~
+45 9 0 1 99 1
+D1
+The tunnel is lit up ahead and there is a smaller tunnel branching away south.
+~
+~
+0 -1 13224
+D3
+You can see light up ahead, and the tunnel emerges into some sort of cave.
+~
+~
+0 -1 13225
+S
+#13261
+Skaven sleeping chambers.~
+This room is fairly smelly, and the bedding on the ground shows that it is
+frequently used.
+~
+45 8 0 1 99 1
+D2
+You can see the tunnel outside is lit.
+~
+door~
+9 -1 13259
+S
+#13262
+Edge of the huge cave.~
+You are in the largest cave you have seen in this whole place. It is huge.
+There are lots of human slaves here, working hard and a lot of them seem
+to be almost in a trance. You can hear the skaven issuing occasional
+commands, but you cannot understand them.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13263
+D1
+nothing special.
+~
+~
+0 -1 13265
+D2
+You can see the corner of the cave with a dark tunnel leading away from it.
+~
+~
+0 -1 13243
+S
+#13263
+A corner of the huge cave.~
+This cave is pretty large, and there is not much activity in this corner.
+There are lots of slaves walking around working hard, and a few skaven
+forcing them to work harder. The ground here is firm, and is covered in
+lots of small clumps of earth.
+~
+45 8 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13266
+D2
+nothing special.
+~
+~
+0 -1 13262
+S
+#13264
+The huge cave.~
+This cave is very large. There are lots of slaves walking around in a daze
+and a few skaven,issuing orders. The ground here is very firm, and it looks
+as if they are about to put some large machines in this cave.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13265
+D1
+nothing special.
+~
+~
+0 -1 13267
+D3
+You can see a corner of the cave and what appears to be a small tunnel
+leading away south.
+~
+~
+0 -1 13243
+S
+#13265
+In the huge cave.~
+You are in the middle of this huge cave. It looks as if it is being prepared
+to contain some large machinery. The ground is being pounded to make it
+harder and there appears to be a lot more drainage holes in the ground here
+than in the rest if these tunnels.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13266
+D1
+nothing special.
+~
+~
+0 -1 13268
+D2
+nothing special.
+~
+~
+0 -1 13264
+D3
+nothing special.
+~
+~
+0 -1 13262
+S
+#13266
+The huge cave.~
+You are at the edge of an enormous cave. It is much larger than any area
+you have seen in these tunnels so far. There is lots of noise from the
+slaves and their masters, as they toil to complete their leaders evil
+plans for this place.
+~
+45 8 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13269
+D2
+nothing special.
+~
+~
+0 -1 13265
+D3
+nothing special.
+~
+~
+0 -1 13263
+S
+#13267
+The huge cave.~
+This cave is very large. There are lots of slaves walking around in a daze
+and a few skaven,issuing orders. The ground here is very firm, and it looks
+as if they are about to put some large machines in this cave.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13268
+D1
+You can see a corner of the cave and a tunnel appears to lead away into the
+darkness.
+~
+~
+0 -1 13270
+D3
+nothing special.
+~
+~
+0 -1 13264
+S
+#13268
+In the huge cave.~
+You are in the middle of this huge cave. it looks as if it is being prepared
+to contain some large machinery. The ground is being pounded to make it
+firmer and there appear to be a lot more drainage holes in the ground here,
+than anywhere else yo have seen in these tunnels.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13269
+D1
+nothing special.
+~
+~
+0 -1 13271
+D2
+nothing special.
+~
+~
+0 -1 13267
+D3
+nothing special.
+~
+~
+0 -1 13265
+S
+#13269
+The huge cave.~
+You are in the middle of this huge cave. It looks as if it is being prepared
+to contain some large machinery. The ground is being pounded to make it
+harder and there appears to be a lot more drainage holes in the ground here
+than in the rest of these tunnels.
+~
+45 8 0 1 99 1
+D0
+It looks like the cave has been freshly cut from the ground.
+~
+~
+0 -1 13273
+D1
+nothing special.
+~
+~
+0 -1 13272
+D2
+nothing special.
+~
+~
+0 -1 13268
+D3
+nothing special.
+~
+~
+0 -1 13266
+S
+#13270
+A corner of the huge cave.~
+You are in the corner of the cave,and there is the entrance to a small dark
+tunnel leading away east. The ground is very firm, and you have to be
+careful to avoid tripping on the small lumps of earth littering the area.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13271
+D1
+The tunnel leads away into the darkness.
+~
+~
+0 -1 13285
+D3
+nothing special.
+~
+~
+0 -1 13267
+S
+#13271
+Edge of the huge cave.~
+The cave is pretty featurless here. The ground seems very dry and firm, and
+could probably hold some considerable weight. There are small lumps of
+earth littered around, and the cave looks as if it is being prepared to
+contain something very large indeed.
+~
+45 8 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13272
+D2
+You can see a corner of the cave and a tunnel appears to lead away west
+from the cave.
+~
+~
+0 -1 13270
+D3
+nothing special.
+~
+~
+0 -1 13268
+S
+#13272
+Around the edge of the huge cave.~
+You are in the largest cave you have seen in this whole place. It is huge.
+there are lots of human slaves here, working hard and a lot of them seem
+to be almost in a trance. You can hear the skaven issuing occasional
+commands, but you cannot understand them.
+~
+45 8 0 1 99 1
+D0
+The cave ahead appears to be freshly cut from the earth.
+~
+~
+0 -1 13274
+D2
+nothing special.
+~
+~
+0 -1 13271
+D3
+nothing special.
+~
+~
+0 -1 13269
+S
+#13273
+The freshly cut cave.~
+This is where the skaven work-front is, digging away to enlarge there lair.
+The earth has been dug away by human tools, but there does not seem to be
+anything supporting the ceiling, and by the looks of the red marks on the 
+ground, the skaven dont really care. Clearly, some slaves have died in the
+service of the skaven here.
+~
+45 8 0 1 99 1
+D1
+The freshly cut area of the cave continues.
+~
+~
+0 -1 13274
+D2
+nothing special.
+~
+~
+0 -1 13269
+S
+#13274
+The freshly cut cave.~
+This is where the skaven work-front is, digging away to enlarge there lair.
+The earth has been dug away by human tools, but there does not seem to be
+anything supporting the ceiling, and by the looks of the red marks on the 
+ground, the skaven dont really care. Clearly, some slaves have died in the
+service of the skaven here.
+~
+45 8 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 13272
+D3
+The freshly cut area of the cave continues west.
+~
+~
+0 -1 13273
+S
+#13275
+A dark tunnel.~
+You are in an unlit tunnel that has been roughly dug from the earth.
+~
+45 9 0 1 99 1
+D1
+You can see nothing special.
+~
+~
+0 -1 13276
+D3
+The tunnel looks lighter up ahead.
+~
+~
+0 -1 13224
+S
+#13276
+A dark tunnel.~
+You are in an unlit tunnel that has been cut roughly from the earth. It
+appears to get brighter as you look east.
+~
+45 13 0 1 99 1
+D1
+The tunnel is lighter up ahead and you can see it turns north.
+~
+~
+0 -1 13278
+D3
+You can see nothing special.
+~
+~
+0 -1 13275
+S
+#13277
+The Warp Stone Pit.
+~
+As soon as you enter this room your body fills with agony and you cannot
+help yourself from screaming. You can see hairs growing incredibly fast from
+your skin and feel as if your very bones are changing shape. Everything fades
+as you realise you are becoming one with the Skaven.....
+~
+45 10 0 1 99 1
+D0
+You should not be reading this, you are supposed to be dead!  :b
+~
+door~
+13 13203 13278
+S
+#13278
+A turn in the tunnel.~
+This part of the tunnel is dimly illuminated by a torch fixed into the wall.
+The tunnel continues in both directions into the darkness and there is a heavy
+looking door here leading south.The door looks very solid, and has a rusty
+lock about halfway down.
+~
+45 8 0 1 99 1
+D0
+You can see nothing special.
+~
+~
+0 -1 13279
+D2
+The room beyond the door appears to be so dark that it actually seems to
+darken the tunnel you are in,filling you with dread as it does so. You 
+cannot make out a thing beyond the door.
+~
+door~
+15 13202 13277
+D3
+You can see nothing special.
+~
+~
+0 -1 13276
+S
+#13279
+In a dark tunnel.~
+You are in an unlt tunnel that has been cut very roughly from the earth. It
+appears to get brighter towards the south.
+~
+45 9 0 1 99 1
+D0
+You can see the tunnel appears to turn west up ahead.
+~
+~
+0 -1 13280
+D2
+The tunnel looks lighter up ahead.
+~
+~
+0 -1 13278
+S
+#13280
+In a dark tunnel.~
+The tunnel is unlit and has been cut very roughly from the earth.
+~
+45 9 0 1 99 1
+D2
+nothing special.
+~
+~
+0 -1 13279
+D3
+The tunnel is lighter up ahead.
+~
+~
+0 -1 13281
+S
+#13281
+A well lit bend in the tunnel.~
+There is a torch fixed into the wall that lights up this part of the tunnel
+very well. The tunnel looks as if it was dug out by claws instead of shovels
+and it is quite damp.
+~
+45 8 0 1 99 1
+D0
+You can see the tunnel appears to turn west up ahead.
+~
+~
+0 -1 13282
+D1
+You can see the tunnel appears to turn south up ahead.
+~
+~
+0 -1 13280
+S
+#13282
+A dark turn in the tunnel.~
+The tunnel is unlit and has been cut very roughly from the earth.
+~
+45 9 0 1 99 1
+D2
+You can see a well lit turn in the tunnel.
+~
+~
+0 -1 13281
+D3
+nothing special.
+~
+~
+0 -1 13283
+S
+#13283
+In a dark tunnel.~
+You are in an unlit tunnel that has been cut roughly from the earth.
+~
+45 9 0 1 99 1
+D1
+The tunnel appears to turn south up ahead.
+~
+~
+0 -1 13282
+D3
+nothing special.
+~
+~
+0 -1 13284
+S
+#13284
+In a dark tunnel.~
+You are in an unlit tunnel that has been cut roughly from the earth.
+~
+45 9 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13283
+D3
+nothing special.
+~
+~
+0 -1 13285
+S
+#13285
+End of a dark tunnel.~
+You are in an unlit tunnel that has been roughly cut from the earth.You
+can see it is lighter to the west and can hear the sounds of working.
+~
+45 9 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13284
+D3
+You can see a huge cavern dug out of the earth.
+~
+~
+0 -1 13270
+S
+#13286
+A dark tunnel.~
+The tunnel here appears to disappear into the darkness the the west,and to 
+the east you can see the comparative safety of an illuminated tunnel.
+~
+45 9 0 1 99 1
+D1
+The tunnel is lighter up ahead and there is a door set in the wall on the left
+~
+~
+0 -1 13259
+D3
+nothing special.
+~
+~
+0 -1 13287
+S
+#13287
+A dark tunnel.~
+You are in a featureless tunnel that leads away into the darkness in both
+directions for as far as you can see.
+~
+45 9 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13286
+D3
+nothing special.
+~
+~
+0 -1 13289
+S
+#13288
+A dark tunnel.~
+You are in a featureless tunnel that leads away into the darkness in both
+directions for as far as you can see.
+~
+45 9 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13289
+D2
+nothing special.
+~
+~
+0 -1 13291
+S
+#13289
+Crossroads in the dark tunnels.~
+There are no sources of light that you can see in any direction, and the 
+tunnels lead away in all directions. It looks like you could easily get lost
+in a place like this.
+~
+45 9 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13290
+D1
+nothing special.
+~
+~
+0 -1 13287
+D2
+nothing special.
+~
+~
+0 -1 13288
+D3
+nothing special.
+~
+~
+0 -1 13294
+S
+#13290
+A dark tunnel.~
+You are in a featureless tunnel that leads away into the darkness in both
+directions for as far as you can see.
+~
+45 9 0 1 99 1
+D0
+It is too dark to see anything.
+~
+~
+0 -1 13291
+D2
+It is too dark to see anything.
+~
+~
+0 -1 13289
+S
+#13291
+Crossroads in the dark tunnels.~
+There are no sources of light that you can see in any direction, and the
+tunnel leads away in all directions. It looks like you could easily get lost
+in a place like this.
+~
+45 9 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13288
+D1
+nothing special.
+~
+~
+0 -1 13286
+D2
+nothing special.
+~
+~
+0 -1 13290
+D3
+nothing special.
+~
+~
+0 -1 13293
+S
+#13292
+A dark tunnel.~
+You are in a featureless tunnel that leads away into the darkness in both
+directions for as far as you can see.
+~
+45 9 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13289
+D2
+nothing special.
+~
+~
+0 -1 13291
+S
+#13293
+A dark tunnel.~
+You are in a featureless tunnel that leads away into the darkness in both
+directions for as far as you can see.
+~
+45 9 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13291
+D3
+nothing special.
+~
+~
+0 -1 13295
+S
+#13294
+A dark tunnel.~
+You are in a featureless tunnel that leads away as far as you can see in both
+directions.
+~
+45 9 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13289
+D3
+nothing special.
+~
+~
+0 -1 13287
+S
+#13295
+A dark junction.~
+You have reached a junction in the tunnel.There are no features you can see
+and the tunnels lead away for as far as you can see into darkness, but as you
+listen you hear faint sounds coming from the south.
+~
+45 9 0 1 99 1
+D1
+nothing special.
+~
+~
+0 -1 13293
+D2
+nothing special.
+~
+~
+0 -1 13296
+D3
+nothing special.
+~
+~
+0 -1 13291
+S
+#13296
+Crossroads in the dark tunnels.~
+You are in a dark tunnel, but can see a little light coming from the west.
+Also, as you wait here, you can here some strange noises in the distance,but
+they are too faint to distinguish.
+~
+45 9 0 1 99 1
+D0
+nothing special.
+~
+~
+0 -1 13295
+D1
+nothing special.
+~
+~
+0 -1 13294
+D2
+nothing special.
+~
+~
+0 -1 13292
+D3
+nothing special.
+~
+~
+0 -1 13244
+S
+#13297
+The funky bed.~
+Yep, this bed definitely is FUNKY!!
+~
+45 268435464 0 42 99 1
+D3
+Its one hell of a funky room in there.
+~
+~
+0 -1 13227
+D5
+Back home! :)
+~
+~
+16 -1 901
+S
+#13298
+The Miserable Room.~
+This room isn't very cheerful.
+~
+45 8 0 1 99 1
+D1
+It doesn't look so miserable out there.
+~
+~
+0 -1 13200
+S
+$~
+#999999

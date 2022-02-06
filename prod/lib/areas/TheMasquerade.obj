@@ -1,0 +1,506 @@
+#20500
+obj rope ladder~
+100
+&cA rope ladder leftover from the Inquisition lies here unused&n~
+&cA rope ladder leftover from the Inquisition lies here unused&n~
+~
+25 0 0 0
+0 0 10 0
+1 5 5
+#20501
+obj vampire claw~
+1
+A Vampire Claw~
+The claw of a vampire lies here, detached from its owner~
+~
+5 136315012 0 8193
+0 7 4 11
+3 175000 75000
+A
+19 3
+A
+18 1
+A
+26 -1
+A
+12 20
+#20502
+obj Vampire Claw 2~
+13
+A Vampire Claw~
+the claw of a vampire lies here, detached from its owner.~
+~
+5 1048580 0 8193
+0 3 8 3
+10 1500000 50000
+A
+19 3
+A
+18 3
+A
+13 -20
+A
+32 -1
+#20503
+obj vampire claw 3~
+5
+&wA &WV&wa&Wm&wp&Wi&wr&We &wC&Wl&wa&Ww&n~
+The claw of a vampire lies here, detached from its owner~
+~
+5 135271491 0 8193
+2048 2 12 3
+15 1500000 15000
+A
+19 -2
+A
+18 2
+A
+40 1
+A
+13 -15
+#20504
+obj chalice eternal life~
+3
+&KThe Ch&wa&Kli&wc&Ke &wof &GE&gterna&Gl L&gif&Ge&n~
+a rare chalice seems to beckon you to drink from it~
+~
+17 138414084 0 16385
+999 999 13 0
+50 750000 13000
+A
+40 2
+A
+19 4
+A
+17 15
+A
+37 -1
+#20505
+obj shield seraph~
+4
+&wA Shield Emblazened with the Sign of the Seraph&n~
+the powerful shield of a seraph lies here, awaiting its owners return~
+~
+9 541067776 0 513
+35 0 0 0
+30 100000000 175000
+A
+19 2
+A
+26 -1
+A
+12 -25
+A
+40 1
+#20506
+obj legacy caine~
+1
+&KThe L&we&Kga&wc&Ky &wof &GC&gain&Ge&n~
+the legacy of the sire of all kindred lies here, glowing with power~
+~
+9 104866320 0 129
+25 24 0 0
+20 350000 150000
+A
+19 4
+A
+18 1
+A
+13 -15
+#20507
+obj bloodbane~
+3
+&RBloodBane&n~
+the bane of all kindred lies here, waiting to slay its next victim~
+~
+5 4207120 0 8193
+67584 10 4 2
+15 50000 300000
+A
+19 5
+A
+18 2
+#20508
+obj gaia's blessing~
+3
+&GG&Yaia's &GB&Ylessing&n~
+the blessing of the garou lies here, awaiting its use~
+~
+9 4195329 0 17
+30 0 0 0
+10 30000000 200000
+A
+19 2
+A
+18 3
+A
+32 -1
+A
+36 -1
+#20509
+obj symbol tremere~
+2
+&wThe &ws&wymbo&wl&w of the &CH&cous&Ce &wof &CT&cremer&Ce&n~
+a strange kindred symbols lies here half buried in dirt~
+~
+9 71315457 131076 5
+20 0 0 0
+25 10000000 200000
+A
+19 2
+A
+18 4
+A
+23 -5
+A
+9 50
+#20510
+obj emerald brooch encrusted~
+1
+&gAn &GEmerald &gEncrusted Brooch&n~
+a large brooch encrusted in gemstones hovers here, glowing with power~
+~
+9 4194304 0 5
+10 0 0 0
+30 1500000 300000
+A
+19 3
+A
+18 2
+A
+41 2
+A
+9 10
+#20511
+obj adamantite pike~
+4
+&cAn Adamantite Pike&n~
+a long pike sits here humming to itself~
+~
+5 4194304 0 8193
+32768 5 7 11
+15 222222 75000
+A
+19 4
+A
+18 2
+#20512
+obj coat arms visigoth~
+5
+&wThe Visigoth Coat of Arms&n~
+What appears to be some sort of coat of arms is lying here gathering dust.~
+~
+9 4195331 0 9
+0 0 0 0
+30 3750000 30000
+A
+19 3
+A
+18 3
+A
+13 15
+#20513
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20514
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20515
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20516
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20517
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20518
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20519
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20520
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20521
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20522
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20523
+obj strange rune~
+100
+&wA strange rune&n~
+&wA strange rune&n~
+~
+18 262144 0 1
+0 1 0 0
+10 5 5000000
+A
+18 59
+#20524
+obj vengence tzimisce~
+3
+&KThe Vengence of Tzimisce&n~
+a great anger burns here~
+~
+5 138412098 0 8193
+2088 6 6 11
+20 175000000 15000
+A
+18 3
+A
+12 -10
+A
+31 -1
+#20525
+obj gaia's blessing scroll~
+10
+&YG&Gaia's &YB&Glessing&n~
+the blessing of the garou lies here humming, awaiting its use~
+~
+2 262144 0 1
+50 36 106 127
+1 5 10000
+#20526
+obj battle armor lasombra~
+2
+&KThe Battle Armor of the House of &BLasombra&n~
+a set of glowing battle armor lies here~
+~
+9 71307264 131072 9
+0 0 0 0
+80 3000000 13650
+A
+19 4
+A
+32 -1
+A
+24 -5
+A
+13 15
+#20527
+obj wrath trueblood~
+1
+&BThe &RWrath &Bof &Bthe &CTrue&Rblood&n~
+the mighty weapon of the trueblood lies here crackling with energy~
+~
+5 4196416 0 8193
+0 11 5 7
+15 150000 150000
+A
+40 2
+A
+41 2
+A
+9 50
+#20528
+obj sigil madness~
+2
+&pTh&Ke &wS&Wi&wg&Wi&wl &Wo&wf &wM&Wa&wdn&Ke&pss&n~
+a strange symbol lies here humming~
+~
+1 4217412 131200 65537
+0 0 0 0
+15 4000000 1000000
+A
+19 4
+A
+18 1
+A
+13 -25
+A
+17 50
+#20529
+obj mark daywalker~
+2
+&wThe &BMark &wof the &KDay&wwa&Wlk&Yer&n~
+the glowing mark of immortality lies here awaiting its next patron~
+~
+1 272804928 262144 65537
+0 0 0 0
+30 175000 100000
+A
+19 3
+A
+18 1
+A
+17 -20
+A
+12 -30
+#20530
+obj wisdom ancients~
+3
+&pT&whe &pW&wisdom &po&wf &pt&whe &pA&wncients&n~
+a bracelet posessing the knowledge of all things~
+~
+9 4195392 0 4097
+20 0 0 0
+10 75075075 100000
+A
+19 2
+A
+18 2
+A
+13 20
+#20531
+obj dining well~
+100
+&ca large well&n~
+&cAn enormous well stands in the direct center of the room&n~
+~
+17 0 0 0
+3000 3000 13 0
+1 5 5
+#20532
+obj temple key~
+25
+&pThe Temple Key&n~
+&pThe Temple Key&n~
+~
+18 262144 0 1
+0 1 0 0
+1 5 5
+#20533
+obj seal key ancient~
+1
+&WThe Seal of the Ancients&n~
+&WThe Seal of the Ancients&n~
+~
+18 134479880 4 1
+20400 2 0 0
+100 5 1000000
+#20534
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 343
+0 0 0 0
+1 5 5
+A
+17 -125
+A
+19 10
+A
+18 7
+#20535
+obj wrath trueblood 2~
+1
+&KThe &WW&wrat&Wh&K of the &rT&Rr&ru&re&Rb&rl&Ro&Ro&rd&n~
+The mighty weapon of the trueblood lies here crackling with energy.~
+~
+5 536881798 0 8193
+8394864 11 5 3
+1 5 5
+A
+13 -55
+A
+12 -50
+A
+19 2
+#20536
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 16385
+0 0 0 0
+1 5 5
+A
+25 1
+#20537
+obj passage earth key~
+35
+&wpassage through the earth&n~
+someone has left a strangely shaped key here~
+~
+18 262144 0 1
+0 1 0 0
+1 5 5
+$~
+#999999

@@ -1,0 +1,139 @@
+#9200
+obj rock stone boulder~
+1
+A large boulder~
+A large boulder is sitting here.~
+~
+25 8 0 0
+48 160 159 158
+1 5 5
+E
+rock boulder stone~
+This is a very strange rock.  It seems to have fallen off that very large 
+mountain above.  There seems to be some kind of path above you.  Maybe if you
+"climb" up this rock, you can find out where it goes.
+~
+#9201
+obj strange coral bracelet felix~
+1
+&YA &Pst&Yra&Png&Ye cor&Ral br&Yace&Ple&Rt&n~
+Someone has dropped a strange bracelet here.~
+~
+9 4194304 0 4097
+30 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+A
+14 -30
+#9202
+obj key gate felixian felix~
+2
+A felixian gate key~
+Someone has dropped a key marked with an "F".~
+~
+18 0 0 1
+0 0 0 0
+1 5 5
+#9203
+obj guardian cloak felix~
+1
+&GA guardi&Wans cl&Goak&n~
+Someone has dropped a guardians cloak here.~
+~
+9 4214784 139264 5
+0 0 0 0
+1 5 5
+A
+19 4
+A
+18 2
+A
+17 5
+#9204
+obj guardian sword felxi~
+1
+&GA guardi&Wans sw&Gord&n~
+Someone has dropped a lame sword here.~
+~
+5 4194304 0 8193
+36880 6 7 3
+1 5 5
+A
+19 2
+A
+18 2
+A
+14 -30
+#9205
+obj fagus sceptre felix~
+1
+&GKing &WFagus&G's Mig&Whty r&Goya&gl sc&Wept&Ger&n~
+Someone has dropped a mighty scepter here.~
+~
+9 37754880 131072 16385
+5 0 0 0
+40 5 25000
+A
+19 5
+A
+40 1
+A
+18 4
+A
+17 10
+#9206
+obj fagus amulet felix~
+1
+&GKing Fa&Wgus's&g might&Gy am&Wulet&n~
+Someone has dropped a fearsome amulet here.~
+~
+9 4235264 282624 5
+30 0 0 0
+1 5 5
+A
+19 3
+A
+18 2
+A
+13 10
+A
+12 -15
+#9207
+obj xelifian ring felix~
+1
+&wXelifian &rring &wof &Khaste&n~
+Someone has dropped a small ring engraved with X on it.~
+~
+9 4214784 131072 3
+15 0 0 0
+1 5 5
+A
+19 2
+A
+18 2
+A
+41 1
+A
+13 -20
+#9208
+obj xelifian dagger felix~
+1
+&rA Xelifian &Kdagger &rcovered&w in &rb&Rl&roo&Rd&n~
+Someone has dropped a strange dagger with an X mark~
+~
+5 4231168 12288 8193
+50177 6 4 11
+1 5 5
+A
+18 4
+A
+19 2
+A
+12 -30
+A
+41 1
+$~
+#999999

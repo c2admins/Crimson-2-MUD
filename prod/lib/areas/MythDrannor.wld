@@ -1,0 +1,2779 @@
+#8625
+&gA Narrow &GForest &yTrail&n~
+&gThis small, almost unnoticeable path leads in an east-west direction, winding around several 
+&ytrees &gin the process. The figures that have plagued you from the &Kshadows&g seem to have 
+left, which could be both good and bad. Though the trail appears quite old and unused, there 
+are signs of recent travel from several humanoid figures leading east, deeper into the forest.
+~
+65 1073741832 0 1 99 1
+D1
+~
+~
+0 -1 8562
+D3
+~
+~
+0 -1 8626
+S
+#8626
+&gA Narrow &GForest &yTrail&n~
+&gThe pathway breaks south here, though it is still almost indistinguishable from the rest
+of the &Gforest&g. There are still signs of recent humanoid travelers leading south, deeper
+into the forest.&n
+~
+65 1073741832 0 1 99 1
+D1
+~
+~
+0 -1 8625
+D2
+In the forest
+~
+~
+0 -1 8629
+S
+#8627
+&gA Thin &yTrail&n~
+&gThe animal trail takes a sharp turn to the east here. The large footprints of the giant-
+like creature can still be found, leading in both directions as if the beast patrolled
+this area.&n
+~
+65 1073741832 0 1 99 1
+D1
+In the forest
+~
+~
+0 -1 8628
+D2
+In the forest
+~
+~
+0 -1 8630
+S
+#8628
+&gA Dead End&n~
+&gThe game trail suddenly ends at a small stream. Numerous large footprints of a giant-
+like creature can be seen in the mud around the stream, leading you to believe it often
+stops here for a drink before resuming its patrol.&n
+~
+65 1073741832 0 1 99 1
+D3
+In the forest
+~
+~
+0 -1 8627
+S
+#8629
+&gA Narrow &GForest &yTrail&n~
+&gThe pathways leads in a north-south direction, though it is largely indistinguishable from
+the rest of the &Gforest&g. There are signs of several humanoid figures going south, deeper
+into the forest.&n
+~
+65 1073741832 0 1 99 1
+D0
+In the forest
+~
+~
+0 -1 8626
+D2
+In the forest
+~
+~
+0 -1 8632
+S
+#8630
+&gA Thin &yTrail&n~
+&gThis small path leads in a north-south direction, and appears to be more of a game trail 
+than well travelled path. There are several large humanoid footprints here and there, as 
+if a giant walked this path frequently.&n
+~
+65 1073741832 0 1 99 1
+D0
+In the forest
+~
+~
+0 -1 8627
+D2
+In the forest
+~
+~
+0 -1 8634
+S
+#8631
+&gA Dead End&n~
+&gThe trail suddenly stops here, blocked by &Gdense vegetation&g and &yheavy undergrowth&g  on the
+forest floor. It is impossible to tell if at one time it continued, but the only path
+now leads back east.&n
+~
+65 1073741832 0 1 99 1
+D1
+In the forest
+~
+~
+0 -1 8632
+S
+#8632
+&gA &GForest&y Trail&n~
+&gThe trail widens enough to become plainly visible. A set of tracks made by humanoid figures
+leads east, deeper into the forest and seem to have originated from the northern path. The 
+trail also leads west, deeper into the forest.&n
+~
+65 1073741836 0 1 99 1
+D0
+In the forest
+~
+~
+0 -1 8629
+D1
+In the forest
+~
+~
+0 -1 8633
+D3
+In the forest
+~
+~
+0 -1 8631
+S
+#8633
+&gA &GForest &yTrail&n~
+&gThe trail is now wide enough for several people to walk abreast in comfort. There are 
+signs of several humanoid figures leading south, but mixed in are footprints from another, 
+much larger creature as well..perhaps a giant?&n
+~
+65 1073741832 0 1 99 1
+D1
+In the forest
+~
+~
+0 -1 8634
+D2
+In the forest
+~
+~
+0 -1 8636
+D3
+In the forest
+~
+~
+0 -1 8632
+S
+#8634
+&gA &GForest &yTrail&n~
+&gThe large pathway leads in an east-west direction. Several large footprints can be seen 
+scattered all around, leading in all directions. A smaller side path leads north.&n
+~
+65 1073741832 0 1 99 1
+D0
+In the forest
+~
+~
+0 -1 8630
+D1
+In the forest
+~
+~
+0 -1 8635
+D3
+In the forest
+~
+~
+0 -1 8633
+S
+#8635
+&gA Dead End&n~
+&gThe trail suddenly ends here, blocked by heavy &ybrush&g and &Gdense foliage&g on the forest
+floor. The only way out is back west, along the trail.&n
+~
+65 1073741832 0 1 99 1
+D3
+In the forest
+~
+~
+0 -1 8634
+S
+#8636
+Vaulted Gates of &cM&byth &cD&brannor&n~
+&nBefore you lie the vaulted gates of &cM&byth &cD&brannor&n.  The awe inspiring beauty of its craftsmanship
+is displayed in the intricate patterns that weave up and down the spires.  You can see many slits for archers
+to use as well as many openings used by mages to thunder down their spells upon anyone attempting to seige
+these gates.
+~
+65 1073741832 0 1 99 1
+D0
+In the forest
+~
+~
+0 -1 8633
+D2
+Gates of Myth Drannor
+~
+gate~
+1 1 8637
+S
+#8637
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D0
+The gates of Myth Drannor
+~
+~
+1 -1 8636
+D1
+Further down Wall Road
+~
+~
+0 -1 8683
+D2
+Further down Kendel Road
+~
+~
+0 -1 8638
+D3
+Further down Wall Road
+~
+~
+0 -1 8648
+S
+#8638
+Kendrel Road of &cM&byth &cD&brannor&n~
+&nYou stand on Kendrel Road.  Once the busiest street in &cM&byth &cD&brannor&n, leading from the gates
+all the way to the &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n, now merely an echo of its former greatness.
+The cobblestone path is at times broken and in place of carts there is now just weeds.
+~
+65 1342177288 0 1 99 1
+D0
+The gates of Myth drannor
+~
+~
+0 -1 8637
+D2
+Further down Kendel Road
+~
+~
+0 -1 8639
+S
+#8639
+Kendrel Road of &cM&byth &cD&brannor&n~
+&nYou stand on Kendrel Road.  Once the busiest street in &cM&byth &cD&brannor&n, leading from the gates
+all the way to the &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n, now merely an echo of its former greatness.
+The cobblestone path is at times broken and in place of carts there is now just weeds.
+~
+65 1342177288 0 1 99 1
+D0
+Further down Kendel Road
+~
+~
+0 -1 8638
+D2
+Further down Kendel Road
+~
+~
+0 -1 8640
+D3
+Lucky Star's Inn
+~
+door~
+15 8647 8723
+S
+#8640
+Kendrel Road of &cM&byth &cD&brannor&n~
+&nYou stand on Kendrel Road.  Once the busiest street in &cM&byth &cD&brannor&n, leading from the gates
+all the way to the &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n, now merely an echo of its former greatness.
+The cobblestone path is at times broken and in place of carts there is now just weeds.
+~
+65 1342177288 0 1 99 1
+D0
+Further down Kendel Road
+~
+~
+0 -1 8639
+D1
+Branded Steel Blacksmithing
+~
+door~
+15 8643 8726
+D2
+kenFurther down Kendel Road
+~
+ken~
+0 -1 8641
+S
+#8641
+Kendrel Road of &cM&byth &cD&brannor&n~
+&nYou stand on Kendrel Road.  Once the busiest street in &cM&byth &cD&brannor&n, leading from the gates
+all the way to the &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n, now merely an echo of its former greatness.
+The cobblestone path is at times broken and in place of carts there is now just weeds.
+~
+65 1342177288 0 1 99 1
+D0
+Further down Kendel Road
+~
+~
+0 -1 8640
+D2
+Town sqaure
+~
+~
+0 -1 8642
+S
+#8642
+Town Square of &cM&byth &cD&brannor&n~
+&nThis is the great town square of &cM&byth &cD&brannor&n.  From here one can see all the monuments left standing
+in this once great town.  The greatest is the fountain right before you.  Crafted by the greatest
+dwarfen stoneworkers and the greatest elven wizards it combines the most perfect marble and is streaked
+with the finest mithril.
+~
+65 1342177288 0 1 99 1
+D0
+Further down Kendel Road
+~
+~
+0 -1 8641
+D1
+Further down Cheldran Way
+~
+~
+0 -1 8712
+D2
+Further down Kendel Road
+~
+~
+0 -1 8643
+D3
+Further down Cheldran Way
+~
+~
+0 -1 8711
+S
+#8643
+Kendrel Road of &cM&byth &cD&brannor&n~
+&nYou stand on Kendrel Road.  Once the busiest street in &cM&byth &cD&brannor&n, leading from the gates
+all the way to the &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n, now merely an echo of its former greatness.
+The cobblestone path is at times broken and in place of carts there is now just weeds.
+~
+65 1342177288 0 1 99 1
+D0
+Town square
+~
+~
+0 -1 8642
+D2
+Further down Kendel Road
+~
+~
+0 -1 8644
+S
+#8644
+Kendrel Road of &cM&byth &cD&brannor&n~
+&nYou stand on Kendrel Road.  Once the busiest street in &cM&byth &cD&brannor&n, leading from the gates
+all the way to the &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n, now merely an echo of its former greatness.
+The cobblestone path is at times broken and in place of carts there is now just weeds.
+~
+65 1342177288 0 1 99 1
+D0
+Further down Kendel Road
+~
+~
+0 -1 8643
+D2
+Further down Kendel Road
+~
+~
+0 -1 8645
+S
+#8645
+Kendrel Road of &cM&byth &cD&brannor&n~
+&nYou stand on Kendrel Road.  Once the busiest street in &cM&byth &cD&brannor&n, leading from the gates
+all the way to the &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n, now merely an echo of its former greatness.
+The cobblestone path is at times broken and in place of carts there is now just weeds.
+~
+65 1342177288 0 1 99 1
+D0
+Further down Kendel Road
+~
+~
+0 -1 8644
+D2
+Intersection of Kendel and Lancer
+~
+~
+0 -1 8646
+S
+#8646
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+Further down Kendel Road
+~
+~
+0 -1 8645
+D1
+Further down Lancer Road
+~
+~
+0 -1 8666
+D2
+Guard Post
+~
+mithril~
+31 8660 8647
+D3
+Further down Lancer Road
+~
+~
+0 -1 8665
+S
+#8647
+Guard Spire of the Temple~
+You stand inside the ancient guard spire of Mystra's Temple.  This posistion is
+well protected and one can see each of the main wall spires from here.  This spire
+is where the captain of the guard used to stand on his daily watch.
+~
+65 1342177288 0 1 99 1
+D0
+Intersection of Kendel and Lancer
+~
+~
+0 -1 8646
+S
+#8648
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8637
+D3
+~
+~
+0 -1 8649
+S
+#8649
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8648
+D3
+~
+~
+0 -1 8650
+S
+#8650
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8649
+D3
+~
+~
+0 -1 8651
+S
+#8651
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8650
+D3
+~
+~
+0 -1 8652
+S
+#8652
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8684
+D1
+~
+~
+0 -1 8651
+D2
+~
+~
+0 -1 8653
+D3
+~
+~
+0 -1 8687
+S
+#8653
+Lasik Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8652
+D2
+~
+~
+0 -1 8654
+S
+#8654
+Lasik Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8653
+D2
+~
+~
+0 -1 8655
+D3
+~
+door~
+15 8650 8688
+S
+#8655
+Lasik Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8654
+D2
+~
+~
+0 -1 8656
+S
+#8656
+Lasik Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8655
+D2
+~
+~
+0 -1 8657
+S
+#8657
+Intersection of Lasik and Cheldran Roads~
+&nYou stand one of &cM&byth &cD&brannors&n main intersections.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8656
+D1
+~
+~
+0 -1 8708
+D2
+rlink e 8708
+~
+~
+0 -1 8658
+S
+#8658
+Lasik Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8657
+D2
+~
+~
+0 -1 8659
+D3
+~
+door~
+15 8649 8698
+S
+#8659
+Lasik Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8658
+D1
+~
+~
+0 -1 8716
+D2
+~
+~
+0 -1 8660
+S
+#8660
+Lasik Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8659
+D2
+~
+~
+0 -1 8661
+S
+#8661
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8660
+D1
+~
+~
+0 -1 8662
+D2
+~
+~
+0 -1 8707
+D3
+~
+~
+0 -1 8704
+S
+#8662
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8663
+D3
+~
+~
+0 -1 8661
+S
+#8663
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8718
+D1
+~
+~
+0 -1 8664
+D3
+~
+~
+0 -1 8662
+S
+#8664
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8665
+D2
+~
+door~
+15 8662 8763
+D3
+~
+~
+0 -1 8663
+S
+#8665
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8646
+D3
+~
+~
+0 -1 8664
+S
+#8666
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8667
+D3
+~
+~
+0 -1 8646
+S
+#8667
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8668
+D2
+~
+door~
+15 8662 8764
+D3
+~
+~
+0 -1 8666
+S
+#8668
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8748
+D1
+~
+~
+0 -1 8669
+D3
+~
+~
+0 -1 8667
+S
+#8669
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8670
+D3
+~
+~
+0 -1 8668
+S
+#8670
+Lancer Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8671
+D1
+~
+~
+0 -1 8752
+D2
+~
+~
+0 -1 8749
+D3
+~
+~
+0 -1 8669
+S
+#8671
+Shan Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8672
+D2
+~
+~
+0 -1 8670
+S
+#8672
+Shan Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8673
+D1
+~
+door~
+15 8652 8753
+D2
+~
+~
+0 -1 8671
+D3
+~
+~
+0 -1 8747
+S
+#8673
+Shan Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8674
+D2
+~
+~
+0 -1 8672
+S
+#8674
+Intersection of Shand and Cheldran Roads~
+&nYou stand one of &cM&byth &cD&brannors&n main intersections.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8675
+D2
+~
+~
+0 -1 8673
+D3
+~
+~
+0 -1 8715
+S
+#8675
+Shan Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8676
+D2
+~
+~
+0 -1 8674
+S
+#8676
+Shan Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8677
+D2
+~
+~
+0 -1 8675
+S
+#8677
+Shan Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8678
+D1
+~
+door~
+15 8651 8740
+D2
+~
+~
+0 -1 8676
+S
+#8678
+Shan Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8679
+D2
+~
+~
+0 -1 8677
+S
+#8679
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8731
+D1
+~
+~
+0 -1 8734
+D2
+~
+~
+0 -1 8678
+D3
+~
+~
+0 -1 8680
+S
+#8680
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8679
+D3
+~
+~
+0 -1 8681
+S
+#8681
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8680
+D3
+~
+~
+0 -1 8682
+S
+#8682
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8681
+D3
+~
+~
+0 -1 8683
+S
+#8683
+Wall Road of &cM&byth &cD&brannor&n~
+&nThis the ancient Wall Road of &cM&byth &cD&brannor&n.  Many a tale of valiant battle, lost blood, and great sorrow
+Has been sung about this arrow straight stretch of cobbled pathway.  The magical walls of Myth Drannor.
+Stand pristine to this day.  The last defenders of this great city stood firm behind them as thousands upon
+thousands of orcs laid siege to the city generations ago, only to have the evil come from within.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8682
+D3
+~
+~
+0 -1 8637
+S
+#8684
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8652
+D3
+~
+~
+0 -1 8685
+S
+#8685
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8684
+D2
+~
+~
+0 -1 8687
+D4
+~
+door~
+15 8644 8686
+S
+#8686
+&WG&Buard &WP&Bost &WS&Bpire&n~
+&nThis is one of the four great guard towers of &cM&byth &cD&brannor&n.  It has stood through just about every
+attack possible.  Great warriors, archers, and wizards would sit in these rooms, protecting the sanctity
+of what lay inside them.  Many slits and holes allowed them to attack at every angle, yet block most
+attacks from every getting near the defender.
+~
+65 1342177288 0 1 99 1
+D5
+~
+~
+0 -1 8685
+S
+#8687
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8685
+D1
+~
+~
+0 -1 8652
+S
+#8688
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8654
+D3
+~
+~
+0 -1 8690
+S
+#8689
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8690
+D3
+~
+~
+0 -1 8694
+S
+#8690
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8689
+D1
+~
+~
+0 -1 8688
+D2
+~
+~
+0 -1 8691
+D3
+~
+~
+0 -1 8693
+S
+#8691
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8690
+D3
+~
+~
+0 -1 8692
+S
+#8692
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8693
+D1
+~
+~
+0 -1 8691
+D2
+~
+~
+0 -1 8692
+D3
+~
+~
+0 -1 8697
+S
+#8693
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8694
+D1
+~
+~
+0 -1 8690
+D2
+~
+~
+0 -1 8692
+D3
+~
+~
+0 -1 8696
+S
+#8694
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8689
+D2
+~
+~
+0 -1 8693
+D3
+~
+~
+0 -1 8695
+S
+#8695
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8694
+D2
+~
+~
+0 -1 8696
+S
+#8696
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8695
+D1
+~
+~
+0 -1 8693
+D2
+~
+~
+0 -1 8697
+S
+#8697
+&BSpitting &gDragon &BTavern&n~
+&nThe &BSpitting &gDragon &BTavern&n was named because it was the only building to survive the first attack
+by the ancient green wyrm, Awertalis.  During that attack a unknown bard, playing his lyre, lured
+the wyrm to land just ouside this tavern where it was captured and killed by the city watch.  The tavern
+itself stands much like it did in those days, just the clinking of the glasses has not returned in many years.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8696
+D1
+~
+~
+0 -1 8692
+S
+#8698
+Prison of &cM&byth &cD&brannor&n~
+&gYou are standing inside the burned out prison of &cM&byth &cD&brannor&g.  There are floor to ceiling
+burns throughout although there seems to have been alot of cleaning since the fire. A
+couple holes have begun to form in the ceiling allowing you to catch glimpses of a tattered
+roof that once protected the inside.&n
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8658
+D3
+~
+~
+0 -1 8699
+S
+#8699
+Prison of &cM&byth &cD&brannor&n~
+&gYou are standing inside the burned out prison of &cM&byth &cD&brannor&g.  There are floor to ceiling
+burns throughout although there seems to have been alot of cleaning since the fire. A
+couple holes have begun to form in the ceiling allowing you to catch glimpses of a tattered
+roof that once protected the inside.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8700
+D1
+~
+~
+0 -1 8698
+D2
+~
+~
+0 -1 8702
+S
+#8700
+Prison of &cM&byth &cD&brannor&n~
+&gYou are standing inside the burned out prison of &cM&byth &cD&brannor&g.  There are floor to ceiling
+burns throughout although there seems to have been alot of cleaning since the fire. A
+couple holes have begun to form in the ceiling allowing you to catch glimpses of a tattered
+roof that once protected the inside.&n
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8699
+D3
+~
+~
+0 -1 8701
+S
+#8701
+Prison of &cM&byth &cD&brannor&n~
+&gYou are standing inside the burned out prison of &cM&byth &cD&brannor&g.  There are floor to ceiling
+burns throughout although there seems to have been alot of cleaning since the fire. A
+couple holes have begun to form in the ceiling allowing you to catch glimpses of a tattered
+roof that once protected the inside.&n
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8700
+S
+#8702
+Prison of &cM&byth &cD&brannor&n~
+&gYou are standing inside the burned out prison of &cM&byth &cD&brannor&g.  There are floor to ceiling
+burns throughout although there seems to have been alot of cleaning since the fire. A
+couple holes have begun to form in the ceiling allowing you to catch glimpses of a tattered
+roof that once protected the inside.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8699
+D3
+~
+~
+0 -1 8703
+S
+#8703
+Prison of &cM&byth &cD&brannor&n~
+&gYou are standing inside the burned out prison of &cM&byth &cD&brannor&g.  There are floor to ceiling
+burns throughout although there seems to have been alot of cleaning since the fire. A
+couple holes have begun to form in the ceiling allowing you to catch glimpses of a tattered
+roof that once protected the inside.&n
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8702
+S
+#8704
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8661
+D2
+~
+~
+0 -1 8705
+S
+#8705
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8704
+D1
+~
+~
+0 -1 8707
+D4
+~
+door~
+15 8648 8706
+S
+#8706
+&WG&Buard &WP&Bost &WS&Bpire&n~
+&nThis is one of the four great guard towers of &cM&byth &cD&brannor&n.  It has stood through just about every
+attack possible.  Great warriors, archers, and wizards would sit in these rooms, protecting the sanctity
+of what lay inside them.  Many slits and holes allowed them to attack at every angle, yet block most
+attacks from every getting near the defender.
+~
+65 1342177288 0 1 99 1
+D5
+~
+~
+0 -1 8705
+S
+#8707
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8661
+D3
+~
+~
+0 -1 8705
+S
+#8708
+Cheldran Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8709
+D3
+~
+~
+0 -1 8657
+S
+#8709
+Cheldran Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8710
+D2
+~
+~
+0 -1 8717
+D3
+~
+~
+0 -1 8708
+S
+#8710
+Cheldran Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8711
+D3
+~
+~
+0 -1 8709
+S
+#8711
+Cheldran Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8642
+D3
+~
+~
+0 -1 8710
+S
+#8712
+Cheldran Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8713
+D3
+~
+~
+0 -1 8642
+S
+#8713
+Cheldran Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8714
+D3
+~
+~
+0 -1 8712
+S
+#8714
+Cheldran Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8715
+D2
+~
+~
+0 -1 8746
+D3
+~
+~
+0 -1 8713
+S
+#8715
+Cheldran Road of &cM&byth &cD&brannor&n~
+&nYou stand one of &cM&byth &cD&brannors&n main streets.  The broken ruins of food carts and market stands
+are spread across the street.  Many of the once proud shops the lined these streets have also been razed leaving
+only the ones that would not burn standing.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8674
+D3
+~
+~
+0 -1 8714
+S
+#8716
+&CN&boblemans Q&Cuarters&n~
+&nThese are the gentlemanly quarters that were once reserved for traveling nobleman and women who flocked
+to this city to seek guidance for their own lands.  This room provided them with all the amenities that
+they would have found and home with a little cunning magic to pamper and hide them from the outside world.
+~
+65 1342177288 0 1 99 1
+D3
+~
+~
+0 -1 8659
+S
+#8717
+&CN&boblemans Q&Cuarters&n~
+&nThese are the gentlemanly quarters that were once reserved for traveling nobleman and women who flocked
+to this city to seek guidance for their own lands.  This room provided them with all the amenities that
+they would have found and home with a little cunning magic to pamper and hide them from the outside world.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8709
+S
+#8718
+&CN&boblemans Q&Cuarters&n~
+&nThese are the gentlemanly quarters that were once reserved for traveling nobleman and women who flocked
+to this city to seek guidance for their own lands.  This room provided them with all the amenities that
+they would have found and home with a little cunning magic to pamper and hide them from the outside world.
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8663
+S
+#8719
+&YL&Wucky &YS&Wtars &nInn ~
+&nThe &YL&Wucky &YS&Wtars &nInn is aptly named.  During the final siege of &cM&byth &cD&brannor&n patrons to this inn
+were saved by the great mage Elminster, whose magical wards held the demons at bay long enough for him
+to teleport everyone to safety.  Although the wards could not protect the upper floor from destruction this
+bottom floor stands perfectly to this day
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8722
+S
+#8720
+&YL&Wucky &YS&Wtars &nInn ~
+&nThe &YL&Wucky &YS&Wtars &nInn is aptly named.  During the final siege of &cM&byth &cD&brannor&n patrons to this inn
+were saved by the great mage Elminster, whose magical wards held the demons at bay long enough for him
+to teleport everyone to safety.  Although the wards could not protect the upper floor from destruction this
+bottom floor stands perfectly to this day
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8721
+D2
+~
+~
+0 -1 8722
+S
+#8721
+&YL&Wucky &YS&Wtars &nInn ~
+&nThe &YL&Wucky &YS&Wtars &nInn is aptly named.  During the final siege of &cM&byth &cD&brannor&n patrons to this inn
+were saved by the great mage Elminster, whose magical wards held the demons at bay long enough for him
+to teleport everyone to safety.  Although the wards could not protect the upper floor from destruction this
+bottom floor stands perfectly to this day
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8723
+D3
+~
+~
+0 -1 8720
+S
+#8722
+&YL&Wucky &YS&Wtars &nInn ~
+&nThe &YL&Wucky &YS&Wtars &nInn is aptly named.  During the final siege of &cM&byth &cD&brannor&n patrons to this inn
+were saved by the great mage Elminster, whose magical wards held the demons at bay long enough for him
+to teleport everyone to safety.  Although the wards could not protect the upper floor from destruction this
+bottom floor stands perfectly to this day
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8720
+D1
+~
+~
+0 -1 8723
+D2
+~
+~
+0 -1 8724
+D3
+~
+~
+0 -1 8719
+S
+#8723
+&YL&Wucky &YS&Wtars &nInn ~
+&nThe &YL&Wucky &YS&Wtars &nInn is aptly named.  During the final siege of &cM&byth &cD&brannor&n patrons to this inn
+were saved by the great mage Elminster, whose magical wards held the demons at bay long enough for him
+to teleport everyone to safety.  Although the wards could not protect the upper floor from destruction this
+bottom floor stands perfectly to this day
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8721
+D1
+~
+~
+0 -1 8639
+D2
+~
+~
+0 -1 8725
+D3
+~
+~
+0 -1 8722
+S
+#8724
+&YL&Wucky &YS&Wtars &nInn ~
+&nThe &YL&Wucky &YS&Wtars &nInn is aptly named.  During the final siege of &cM&byth &cD&brannor&n patrons to this inn
+were saved by the great mage Elminster, whose magical wards held the demons at bay long enough for him
+to teleport everyone to safety.  Although the wards could not protect the upper floor from destruction this
+bottom floor stands perfectly to this day
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8722
+D1
+~
+~
+0 -1 8725
+S
+#8725
+&YL&Wucky &YS&Wtars &nInn ~
+&nThe &YL&Wucky &YS&Wtars &nInn is aptly named.  During the final siege of &cM&byth &cD&brannor&n patrons to this inn
+were saved by the great mage Elminster, whose magical wards held the demons at bay long enough for him
+to teleport everyone to safety.  Although the wards could not protect the upper floor from destruction this
+bottom floor stands perfectly to this day
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8723
+D3
+~
+~
+0 -1 8724
+S
+#8726
+&KBr&rand&Ked &rSteel &KBlacksmithing&n~
+&gThe &KBr&rand&Ked &rSteel &KBlacksmithing&g was once the greatest forge outside the dwarven
+kingdoms.  Many of the great treasures of &cM&byth &bcD&brannor&g were crafted here.  The forges
+are heated from a rift deep underground and are still burning a bright red to this day.
+Many tools for crafting armor and weapons still lie everywhere.&n
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8727
+D3
+~
+~
+0 -1 8640
+S
+#8727
+&KBr&rand&Ked &rSteel &KBlacksmithing&n~
+&gThe &KBr&rand&Ked &rSteel &KBlacksmithing&g was once the greatest forge outside the dwarven
+kingdoms.  Many of the great treasures of &cM&byth &bcD&brannor&g were crafted here.  The forges
+are heated from a rift deep underground and are still burning a bright red to this day.
+Many tools for crafting armor and weapons still lie everywhere.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8728
+D1
+~
+~
+0 -1 8729
+D2
+~
+~
+0 -1 8730
+D3
+~
+~
+0 -1 8726
+S
+#8728
+&KBr&rand&Ked &rSteel &KBlacksmithing&n~
+&gThe &KBr&rand&Ked &rSteel &KBlacksmithing&g was once the greatest forge outside the dwarven
+kingdoms.  Many of the great treasures of &cM&byth &bcD&brannor&g were crafted here.  The forges
+are heated from a rift deep underground and are still burning a bright red to this day.
+Many tools for crafting armor and weapons still lie everywhere.&n
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8727
+S
+#8729
+&KBr&rand&Ked &rSteel &KBlacksmithing&n~
+&gThe &KBr&rand&Ked &rSteel &KBlacksmithing&g was once the greatest forge outside the dwarven
+kingdoms.  Many of the great treasures of &cM&byth &bcD&brannor&g were crafted here.  The forges
+are heated from a rift deep underground and are still burning a bright red to this day.
+Many tools for crafting armor and weapons still lie everywhere.&n
+~
+65 1342177288 0 1 99 1
+D3
+~
+~
+0 -1 8727
+S
+#8730
+&KBr&rand&Ked &rSteel &KBlacksmithing&n~
+&gThe &KBr&rand&Ked &rSteel &KBlacksmithing&g was once the greatest forge outside the dwarven
+kingdoms.  Many of the great treasures of &cM&byth &bcD&brannor&g were crafted here.  The forges
+are heated from a rift deep underground and are still burning a bright red to this day.
+Many tools for crafting armor and weapons still lie everywhere.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8727
+S
+#8731
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8732
+D2
+~
+~
+0 -1 8679
+S
+#8732
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8734
+D3
+~
+~
+0 -1 8731
+D4
+~
+door~
+15 8646 8733
+S
+#8733
+&WG&Buard &WP&Bost &WS&Bpire&n~
+&nThis is one of the four great guard towers of &cM&byth &cD&brannor&n.  It has stood through just about every
+attack possible.  Great warriors, archers, and wizards would sit in these rooms, protecting the sanctity
+of what lay inside them.  Many slits and holes allowed them to attack at every angle, yet block most
+attacks from every getting near the defender.
+~
+65 1342177288 0 1 99 1
+D5
+~
+~
+0 -1 8732
+S
+#8734
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8732
+D3
+~
+~
+0 -1 8679
+S
+#8735
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8736
+S
+#8736
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8735
+D2
+~
+~
+0 -1 8737
+S
+#8737
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8736
+D1
+~
+~
+0 -1 8741
+D2
+~
+~
+0 -1 8738
+D3
+~
+~
+0 -1 8740
+S
+#8738
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8737
+D2
+~
+~
+0 -1 8739
+S
+#8739
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8738
+S
+#8740
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8737
+D3
+~
+~
+9 -1 8677
+S
+#8741
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8742
+D3
+~
+~
+0 -1 8737
+S
+#8742
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8744
+D1
+~
+~
+0 -1 8743
+D2
+~
+~
+0 -1 8745
+D3
+~
+~
+0 -1 8741
+S
+#8743
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D3
+~
+~
+0 -1 8742
+S
+#8744
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8742
+S
+#8745
+&SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n ~
+&nThe &SC&Sa&St&Sh&Se&Sd&Sr&Sa&Sl &So&Sf &SS&Si&Sn&Sg&Si&Sn&Sg &SS&Sp&Si&Sr&Se&Ss&n was built many many centuries ago to the goddess Mystra
+by Gond "The Wondermaker" as a token of his love for her.  The spires themselves echo a serene
+voice that never ends.  For many decades this Cathedral was the focus for many a pilgrimage to &cM&byth
+&cD&brannor&n.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8742
+S
+#8746
+&CN&boblemans Q&Cuarters&n~
+&nThese are the gentlemanly quarters that were once reserved for traveling nobleman and women who flocked
+to this city to seek guidance for their own lands.  This room provided them with all the amenities that
+they would have found and home with a little cunning magic to pamper and hide them from the outside world.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8714
+S
+#8747
+&CN&boblemans Q&Cuarters&n~
+&nThese are the gentlemanly quarters that were once reserved for traveling nobleman and women who flocked
+to this city to seek guidance for their own lands.  This room provided them with all the amenities that
+they would have found and home with a little cunning magic to pamper and hide them from the outside world.
+~
+65 1342177288 0 1 99 1
+D1
+@ 
+~
+~
+0 -1 8672
+S
+#8748
+&CN&boblemans Q&Cuarters&n~
+&nThese are the gentlemanly quarters that were once reserved for traveling nobleman and women who flocked
+to this city to seek guidance for their own lands.  This room provided them with all the amenities that
+they would have found and home with a little cunning magic to pamper and hide them from the outside world.
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8668
+S
+#8749
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8670
+D1
+~
+~
+0 -1 8750
+S
+#8750
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8752
+D3
+~
+~
+0 -1 8749
+D4
+~
+door~
+15 8645 8751
+S
+#8751
+&WG&Buard &WP&Bost &WS&Bpire&n~
+&nThis is one of the four great guard towers of &cM&byth &cD&brannor&n.  It has stood through just about every
+attack possible.  Great warriors, archers, and wizards would sit in these rooms, protecting the sanctity
+of what lay inside them.  Many slits and holes allowed them to attack at every angle, yet block most
+attacks from every getting near the defender.
+~
+65 1342177288 0 1 99 1
+D5
+~
+~
+0 -1 8750
+S
+#8752
+Before the Guard Posts of &cM&byth &cD&brannor&n~
+&gYou stand right below the ancient spires that guard the four corners in &cM&byth &cD&brannor&g
+Although the stone shows sign of weathering, the parapets look to be in amazing shape.
+The elven magic that was used during its creation has allowed the stone to temper both
+storm and fire and continue to protect the city walls till this day.&n
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8750
+D3
+~
+~
+0 -1 8670
+S
+#8753
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8754
+D3
+~
+~
+0 -1 8672
+S
+#8754
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8755
+D1
+~
+~
+0 -1 8758
+D2
+~
+~
+0 -1 8756
+D3
+~
+~
+0 -1 8753
+S
+#8755
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8759
+D2
+~
+~
+0 -1 8754
+S
+#8756
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8754
+D1
+~
+~
+0 -1 8757
+S
+#8757
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8758
+D1
+~
+~
+0 -1 8762
+D3
+~
+~
+0 -1 8756
+S
+#8758
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8759
+D1
+~
+~
+0 -1 8761
+D2
+~
+~
+0 -1 8757
+D3
+~
+~
+0 -1 8754
+S
+#8759
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8760
+D2
+~
+~
+0 -1 8758
+D3
+~
+~
+0 -1 8755
+S
+#8760
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8761
+D3
+~
+~
+0 -1 8759
+S
+#8761
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8760
+D2
+~
+~
+0 -1 8762
+D3
+~
+~
+0 -1 8758
+S
+#8762
+&KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n~
+&nThe &KF&Yallen &YS&Kickle &KT&Yraining &YG&Krounds&n was once the mecca for all gladiators to come train
+during the winter.  Masters of every combat style known would convene here and dicuss the nuances of
+their training as well as spar.  Many tales were spun from the great rivalries that were spawned here.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8761
+D3
+~
+~
+0 -1 8757
+S
+#8763
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8664
+D2
+~
+~
+0 -1 8765
+S
+#8764
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8667
+D2
+~
+~
+0 -1 8768
+S
+#8765
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8763
+D1
+~
+~
+0 -1 8766
+S
+#8766
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D2
+~
+~
+0 -1 8769
+D3
+~
+~
+0 -1 8765
+S
+#8767
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8768
+D2
+~
+~
+0 -1 8771
+S
+#8768
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8764
+D3
+~
+~
+0 -1 8767
+S
+#8769
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8766
+D1
+~
+~
+0 -1 8770
+S
+#8770
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8771
+D2
+~
+~
+0 -1 8772
+D3
+~
+~
+0 -1 8769
+S
+#8771
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8767
+D3
+~
+~
+0 -1 8770
+S
+#8772
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8770
+D2
+~
+~
+0 -1 8775
+S
+#8773
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8774
+S
+#8774
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8775
+D3
+~
+~
+0 -1 8773
+S
+#8775
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8772
+D1
+~
+~
+0 -1 8776
+D2
+~
+~
+0 -1 8778
+D3
+~
+~
+0 -1 8774
+S
+#8776
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D1
+~
+~
+0 -1 8777
+D3
+~
+~
+0 -1 8775
+S
+#8777
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D3
+~
+~
+0 -1 8776
+S
+#8778
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8775
+D2
+~
+~
+0 -1 8779
+S
+#8779
+&BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n~
+&nThe &BM&Gy&Cs&Bt&Gi&Cc &BT&Ge&Cm&Bp&Gl&Ce &Bo&Gf &CM&By&Gs&Ct&Br&Ga&n was built by the hand of Mystra herself as a gift to &cM&byth
+&cD&brannor&n for their devotion to her.  The walls are lit by a eerie pale blue light emitted
+from the stones themselves.  You sense great magic pouring from everywhere and you feel a unseen eye
+watching your every move.
+~
+65 1342177288 0 1 99 1
+D0
+~
+~
+0 -1 8778
+S
+#8780
+The Beginning~
+Congrats! you have been granted a zone.
+
+NOTE:  Please make this the entry room for your zone.
+       
+~
+65 1342177288 0 1 99 1
+S
+$~
+#999999

@@ -1,0 +1,306 @@
+#5500
+mob gnome svirfneblin guard~
+&KA Svi&wr&pfne&wb&Klin Guard&n~
+A small gnome stands here, guarding something.
+~
+  The Svirfneblin guard seems a bit out of place here. Since they commonly live deep underground, you can't
+imagine why he would be out in the daylight, where his combat skills would be at a disadvantage.
+~
+57866 32769 136249361 0 -500 S
+44 0 -20 10d10+12000 10d10+70
+250000 750000
+8 8 0
+0 0 17 16 16 15 13 15
+#5501
+mob duergar worker~
+&wA &KDu&yerg&Kar &wworker&n~
+A stocky Duergar worker is here, toiling away.
+~
+  Though he wears no armour, the worker does carry a rather viscious looking minig pick that would make an
+ideal weapon. 
+~
+67371016 32769 136249361 536871084 -600 S
+43 2 -9 1d1+19999 15d15+99
+550000 575000
+8 8 0
+14 4 19 17 14 22 21 13
+#5502
+mob gnoll overseer~
+&KThe G&ynol&Kl &wOve&Krs&weer&n~
+&KA towering Gnoll overseer is here, snapping his whip at the slaves.&n
+~
+  Standing at over seven feet tall, the gnoll litteraly dwarfs his smaller companions. he mercilessly cracks
+his whip at the workers, forcing them to work harder and faster so that the precious minerals can be brought to
+the various lords.
+~
+1074004040 32769 136249361 174 0 S
+45 0 -15 1d1+26999 20d10+75
+1000000 850000
+8 8 1
+14 4 19 18 14 22 20 13
+#5503
+mob duergar lord~
+&wA &KDu&yerg&Kar &wLord&n~
+A stocky duergar lord is here.
+~
+   A minor lord within the heirarchy of duergar society, the duergar lords are in charge of overseeing the
+excavation of the area, and maintaining peace between the three races. Typical of all duergar, the lord appears
+as a stocky dwarf, with ash colored skin and a tangled mass of dark grey hair. In order to show their disdain
+of their other dwarven cousins, the duergar have shaved off their beards, and keep their hair cropped shorter
+than normal.
+~
+167772234 134250497 136249361 8388744 -1000 S
+48 0 -40 1d1+25000 20d35+25
+1000000 2000000
+8 8 1
+16 4 25 24 25 25 25 25
+SKILL=SKILL_STEAL 75
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 99
+SKILL=SKILL_THIRD 99
+SKILL=SKILL_FOURTH 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_BLACK_BURST 25
+SKILL=SPELL_MORTICE_FLAME 75
+SKILL=SPELL_FIRELANCE 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=10
+ATTACK_SKILL=35
+ATTACK_SKILL=25
+ATTACK_TYPE=100
+ATTACK_SKILL=10
+ATTACK_SKILL=35
+ATTACK_SKILL=25
+ATTACK_TYPE=100
+#5504
+mob svirfneblin lord~
+&wThe &KSvi&wr&pfne&wb&Klin Lord&n~
+&KA small gnome of some importance is standing here.&n
+~
+   A lower ranking official within the svirfneblin society, the lords chief responsibility is maintaining the
+peace between the three nations at the dig site. Though his head is unprotected, the gnome does wear a mithril-
+mesh type armor that is common among his kind, and carries an assortment of weapons to serve as the the 
+situation warrants.
+~
+1074003978 32769 136249361 140 -500 S
+44 0 -30 1d1+24999 10d20+75
+1000000 825000
+8 8 1
+3 4 22 22 22 22 22 22
+ATTACK_SKILL=10
+ATTACK_SKILL=25
+ATTACK_SKILL=35
+ATTACK_TYPE=100
+ATTACK_SKILL=10
+ATTACK_SKILL=25
+ATTACK_SKILL=35
+ATTACK_TYPE=100
+#5505
+mob goblin lord~
+&KThe &yG&Yo&ybl&Yi&yn &KLord&n~
+A disgusting little goblin is here, drooling all over itself.
+~
+  With its blotchy yellow-brown skin, large bulbous eyes and enlongaed incisors, the goblin lord would be 
+intimidating if not for its small size. Instead it looks a bit comical, and you can't help but wonder why the 
+proud Duergar and Svirfneblin races have allied themselves with such a pitiful creature.
+~
+262154 32769 136249361 128 -1000 S
+46 0 -28 100d1+14000 97d5+67
+1000000 1000000
+8 8 0
+0 0 21 21 19 19 19 17
+SKILL=SKILL_HUNT 90
+SKILL=SKILL_RAGE 75
+#5506
+mob goblin sapper~
+A &Gg&gobli&Gn &ysapper&n~
+&gA &Gg&gobli&Gn &ysapper &gis here, blowing stuff up.&n
+~
+  Goblin sappers are the "explosive" experts of the alliance. usually this includes simple tasks such as mixing
+the correct powders or potions, but the goblins are stupid creatures and usually make alot of mistakes.
+~
+1073741896 5275649 136249361 34078764 -400 S
+41 4 -24 10d1+9500 10d5+56
+500000 369000
+8 8 0
+14 6 16 15 14 15 13 14
+#5507
+mob goblin merchant~
+&gA &Gg&gobli&Gn &wmerchant&n~
+&gA &Gg&gobli&Gn &wmerchant&g wanders around, selling his wares.
+~
+  Though he doesn't have anything very interesting, the goblin merchant tries his best to get everyone who
+passes by to stop and look at his items.
+~
+537133130 1 136249361 136 -500 S
+50 0 -40 20000d1+20000 100d90+90
+100000 20000
+8 8 0
+0 0 23 23 22 23 21 21
+#5508
+mob kobold slave~
+&wa &Kko&ybo&Kld &Kslave&n~
+&gA &Kko&ybo&Kld slave&g is here, toiling away&n
+~
+  The kobolds aren't a part of the alliance...they never had the chance. The others see them as an inferior
+race and thus they were made slaves to do all the work.
+~
+10 32769 136249361 0 -500 S
+43 10 -25 20d1+13000 5d10+15
+450000 600000
+8 8 0
+1 0 22 18 16 15 20 6
+SKILL=SPELL_HEAL_MEDIUM 99
+#5509
+mob zsaben metaljeer~
+&yZ&ws&Kab&we&yn &KMetal&wj&Wee&wr&n~
+&yZ&ws&Kab&we&yn &KMetal&wj&Wee&wr&g is here.&n
+~
+  Zsaben is as wide as he is tall, and looks more like a typical dwarf than a duergar. His hair is a thick 
+tangled mass of black and he wears a long puffy beard that hangs as low as his waist. The only telling sign 
+that he is a deep dwarf are his piercing grey eyes, which seem very out of place. He carries an intricately
+carved axe, and wears a suit of armor made of strange scales.
+~
+1074012170 32769 136249361 140 -1000 S
+46 1 -25 100d1+14000 30d30+70
+1000000 850000
+8 8 1
+2 4 22 22 22 22 22 22
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_MAGIC_RESIST 75
+SKILL=SKILL_RAGE 99
+#5510
+mob ker bonescum~
+&KKer &WB&won&We&rscum&n~
+&gA short but stocky &Gg&gobli&Gn &gis here, wandering around aimlessly.&n
+~
+  Ker is a proud goblin warrior, which is evidenced by the number of trophies he wears all over his body. With
+each victim he dismembers, he bleaches the bones in the sun before adding them to his armor. He also wields a 
+hammer that appears to be made of bone as well.
+~
+1074061322 32769 136249361 140 -1000 S
+46 1 -25 100d1+14000 30d30+70
+1000000 850000
+8 8 0
+2 4 22 22 22 22 22 22
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_MAGIC_RESIST 75
+SKILL=SKILL_RAGE 99
+#5511
+mob vaultspawn the grasping~
+&yV&Yau&yltsp&Ya&ywn&w the &KG&wraspin&Kg&n~
+A small goblin with large hands is here.
+~
+  Vaultspawn is a disgusting goblin with yellowish skin, brown blotches and pink eyes. His hands are large for
+his body size, being about the size of an ogres. He wears crude equipment save for his massive gauntlets, and
+a large crimson ring around his finger.
+~
+1208283722 5537793 136253457 337117380 -1000 S
+47 0 -33 1d1+23999 30d35+55
+1000000 1269000
+8 8 1
+0 0 25 25 23 24 13 15
+SKILL=SPELL_ENERGY_DRAIN 35
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 50
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+#5512
+mob hatespike the shredder~
+&rH&Rat&re&Kspike &wthe &RS&rhredde&Rr&n~
+&gA rather large &Gg&gobli&Gn &gis here, trying to look mean.&n
+~
+  Hatespike is an enigma of goblinkind. He is considered not only their best war hero, but also an sage. He 
+sits around, daily spouting out his words of "wisdom" which the other goblins follow to the letter. So far it
+seems to have worked well for them, as they have a strong alliance with the duergar and svirfneblin which has 
+benefited all parties involved.
+~
+1216614986 5537793 136253457 337117380 -1000 S
+47 0 -33 1d1+23999 30d35+55
+1000000 1269000
+8 8 1
+0 0 25 25 23 24 13 15
+SKILL=SPELL_ENERGY_DRAIN 35
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 50
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+#5513
+mob baugulinazgwe~
+&KBaugulinazgwe&n~
+A small svirfneblin is here, practicing some magic.
+~
+  Svirfneblin are known for their magical prowess, and Baugulinazgwe is no exception. He is a legend among the
+gnomes for his cruel twists to seemingly mundane spells. The fact that he is here would lead you to believe 
+that the projects that go on in this area are extremely important to the deep gnomes.
+~
+1208283722 5537793 136253457 337117380 -1000 S
+47 -15 -33 1d1+23999 30d35+55
+1000000 2000000
+8 8 1
+0 0 25 25 23 24 13 15
+SKILL=SPELL_ENERGY_DRAIN 35
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 50
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+#5514
+mob thavae duergar warlord~
+&KT&yh&Ka&yv&Ka&ye &wthe &KDu&yerg&Kar &RW&ra&Rr&Klord&n~
+&KA stocky &Kdu&yerg&Kar stands here, clad in full armor.&n
+~
+  A short, stocky, well muscled dwarf with numerous battlescars, Thavae is typical of most duergar warlords. 
+His copper colored skin is accented by his black beard, but his head is shaved bald as a symbol of his hatred 
+for other dwarves who walk on the surface world. His eyes are the same black as his beard, and he wears a set
+of armor made from the scales of a strange beast, no doubt from one of the many creatures that roams the 
+Underdark.
+~
+1216672330 5537793 136253457 337117380 -1000 S
+47 0 -33 1d1+23999 30d35+55
+1000000 1269000
+8 8 1
+0 0 25 25 23 24 13 15
+SKILL=SPELL_ENERGY_DRAIN 35
+SKILL=SPELL_WORD_OF_RECALL 99
+SKILL=SKILL_PARRY 99
+SKILL=SKILL_SECOND 50
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_FIRELANCE 99
+#5515
+mob rasthatsha svirfneblin scientist~
+&yRas&wt&Khas&wt&ysha &wthe &KSvi&wr&pfne&wb&Klin Scientist&n~
+&KA twisted gnome scientist is here.&n
+~
+  Rastastsha is a small hunched little gnome with wiry grey hair and deep grey eyes. She stands only two
+and a half feet tall, and wears the typical mithril mesh armor under her robes that is typical of the 
+Svirfneblin. She is often found in her lab, tinkering with her next experiment, and is avoided by the other
+denizens of the castle lest they become her new toys.
+~
+1074012170 32769 136249361 140 -1000 S
+46 1 -25 100d1+14000 30d30+70
+1000000 850000
+8 8 2
+3 1 22 22 22 22 22 22
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_MAGIC_RESIST 75
+SKILL=SPELL_FIRELANCE 99
+SKILL=SKILL_RAGE 99
+$~
+#999999

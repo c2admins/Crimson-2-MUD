@@ -1,0 +1,609 @@
+#2100
+obj light goodness~
+15
+&Wthe &Ylight &Wof goodness&n~
+A light is here, shining a holy light.~
+~
+1 2270209 0 65537
+2 0 1000 0
+10 150000 60000
+E
+stone~
+Continent of Gilavie
+discovered by Blaze
+within her own imagination
+founded September 1995
+~
+A
+32 -1
+A
+19 1
+A
+12 30
+#2101
+obj ring mists~
+15
+&Bthe ring of &wmists&n~
+the ring of mists lays here ~
+~
+9 2097184 0 3
+2 0 0 0
+3 160000 45000
+A
+19 2
+A
+13 5
+A
+2 -2
+#2102
+obj gauntlets silk white~
+15
+&WA pair of white silk gauntlets&n~
+A pair of white silk gauntlets lies here~
+~
+9 2129921 0 129
+1 0 0 0
+11 110000 35000
+A
+2 1
+A
+5 2
+A
+19 1
+A
+18 1
+#2103
+obj inkot platinum~
+3
+&wa &Kplatinum &winkot&n~
+a platinum inkot with the emblem of a paladin lies here~
+~
+9 2098176 0 16385
+5 0 0 0
+7 190000 70000
+A
+19 5
+A
+3 1
+#2104
+obj cloak haberdasher's~
+20
+&Ga &phaberdasher's &Gcloak&n~
+a haberdasher's cloak lies in a heap here~
+~
+9 2129920 0 1025
+30 0 0 0
+11 210000 39000
+A
+19 1
+A
+13 30
+A
+12 -25
+#2105
+obj veil silk~
+25
+&ba &wsilk &bveil&n~
+a silk veil lies presumptiously here~
+~
+9 2097152 0 17
+16 0 0 0
+4 130000 43000
+A
+19 1
+A
+12 30
+A
+13 -15
+#2106
+obj pants riding~
+10
+&ya pair of riding pants&n~
+a pair of creme coloured riding pants are here~
+~
+9 2097152 0 33
+20 0 0 0
+9 90000 27000
+A
+19 1
+A
+18 2
+A
+5 1
+#2107
+obj feather duster~
+5
+&Ka fe&Wath&Ker &yduster&n~
+A maid's feather duster has been left here~
+~
+9 2097152 0 16385
+1 0 0 0
+13 150000 50000
+A
+29 -1
+A
+19 -1
+A
+12 10
+#2108
+obj gloves white cotton~
+35
+&Wa pair of white gloves&n~
+A pair of crisp white cotton gloves are here trying to stay clean~
+~
+9 1048576 0 129
+15 0 10 0
+5 30000 10000
+A
+18 1
+A
+13 10
+#2109
+obj tassles ear~
+30
+&w a pair of &Ytwinkling &year tassles&n~
+a pair of twinkling ear tassles lie here~
+~
+9 2097154 0 17
+10 0 0 0
+6 70000 33000
+A
+19 2
+A
+18 1
+#2110
+obj boots riding~
+10
+&ya pair of riding boots&n~
+A pair of riding boots sits in the corner~
+~
+9 2162688 0 65
+20 0 0 0
+19 85000 38000
+A
+19 2
+A
+14 30
+A
+13 -15
+A
+12 -15
+#2111
+obj armor palatian~
+20
+&Ca suit of &Gpalatian&C armor&n~
+a suit of palatian armor lies here glistening~
+~
+9 2229248 0 9
+30 0 0 0
+15 210000 40000
+A
+19 2
+A
+18 2
+A
+13 5
+#2112
+obj sword guard~
+20
+&Wa guards sword&n~
+a guards sword glistens in the sun~
+~
+5 2229248 0 8193
+0 9 4 3
+10 110000 35000
+A
+19 3
+A
+18 4
+#2113
+obj pin straight~
+9
+&Ka huge straight pin&n~
+a huge straight pin lies here ready to prick you~
+~
+5 1048576 0 8193
+32832 2 11 11
+7 120000 30000
+#2114
+obj ring heirloom signet~
+15
+&YA heirloom signet ring&n~
+a heirloom signet ring covered in tarnish is here~
+~
+9 1048576 0 3
+6 0 0 0
+8 200000 32000
+A
+19 2
+A
+13 -10
+A
+12 15
+#2115
+obj shackles metal~
+25
+&Ka pair of metal shackles&n~
+Some metal shackles lie here awaiting your wrists~
+~
+9 1048580 0 4097
+5 0 0 0
+18 60000 21000
+A
+19 2
+A
+18 -3
+A
+1 -1
+#2116
+obj boots grubby~
+25
+&ya pair of grubby boots&n~
+a pair of grubby boots emits an odour here~
+~
+9 1048576 0 65
+14 0 0 0
+16 177000 25000
+A
+19 2
+A
+14 30
+A
+13 -40
+#2117
+obj visor mind~
+30
+&Ba strange looking visor&n~
+a mind controlling visor is here~
+~
+9 2097154 0 17
+13 0 10 0
+15 140000 39000
+A
+12 60
+A
+13 -40
+A
+4 -2
+A
+3 -1
+#2118
+obj gloves warrior rough~
+18
+&ya pair of rough warrior gloves&n~
+a pair of rough looking warrior gloves lie here~
+~
+9 2125824 0 129
+20 0 0 0
+6 225000 60000
+A
+19 2
+A
+1 2
+A
+13 15
+#2119
+obj star flame~
+25
+&ba &rflame &bstar&n~
+a flame star lies here emitting sparks~
+~
+3 1048576 0 147457
+30 5 5 26
+13 25000 50000
+#2120
+obj belt thieves~
+2
+&ya &Kthieves &ybelt&n~
+a thieves belt lies here hidden~
+~
+9 4248096 393344 2049
+15 0 0 0
+14 225000 65000
+A
+36 -1
+A
+32 -1
+A
+19 3
+A
+14 25
+#2121
+obj cloak concealment~
+3
+&ya cloak of &Cconcealment&n~
+a cloak of concealment is hidden here~
+~
+15 4248064 393344 1025
+350 0 0 0
+9 250000 45000
+A
+19 3
+A
+18 2
+A
+12 15
+A
+14 -20
+#2122
+obj dagger maatian acid~
+3
+&wan &Kacid filled &wdagger&n~
+an acid filled dagger of maatian worksmanship is here~
+~
+5 4194306 0 8193
+2099200 5 8 11
+10 190000 125000
+A
+19 2
+#2123
+obj rags filthy~
+25
+&wsome &yfilthy &wrags&n~
+some filthy rags have been discarded here~
+~
+9 4194308 0 9
+11 0 10 0
+14 200000 70000
+A
+23 -1
+A
+24 -1
+A
+13 50
+#2124
+obj gloves assassin~
+15
+&ya pair of &Kassassins &ygloves&n~
+A pair of bloody assassin gloves are here~
+~
+9 4248064 393344 129
+10 0 0 0
+14 240000 65000
+A
+19 3
+A
+18 2
+A
+13 10
+#2125
+obj spike head~
+20
+&Ka head spike&n~
+a head spike lies here~
+~
+9 4194304 0 17
+25 0 0 0
+16 230000 45000
+A
+19 2
+A
+18 2
+A
+13 10
+A
+12 -10
+#2126
+obj stone~
+100
+&Ka stone&n~
+&KA huge stone with a notch rest here.&n~
+~
+12 262144 0 0
+20 0 10 0
+1 5 5
+E
+stone~
+Its got a notch thats just begging for the right sword to be inserted.
+~
+E
+notch~
+It looks like you could stick a sword in it.
+~
+#2127
+obj sword key~
+2
+&Wa small sword&n~
+&Wa small small not used for fighting is lying here.&n~
+~
+5 262152 0 1
+0 0 10 0
+19 5 5
+#2128
+obj lever~
+100
+&y a drawbridge lever&n~
+&ya drawbridge lever is found here.&n~
+~
+18 262144 0 1
+0 0 10 0
+3 5 5
+#2129
+obj ring platinum~
+2
+&Ya &Kplatinum &Yring&n~
+a platinum ring is here~
+~
+9 4194304 0 3
+20 0 0 0
+7 210000 60000
+A
+19 2
+A
+18 1
+#2130
+obj plates leg bloody~
+1
+&Ka pair of &rbloody &Kleg plates&n~
+a pair of bloody leg plates are here~
+~
+9 4194304 0 33
+5 0 0 0
+10 230000 55000
+A
+19 3
+A
+18 3
+A
+12 35
+#2131
+obj orb transmorgification~
+10
+&Cthe orb of &Btransmorgification&n~
+the orb of transmorgification is here~
+~
+9 4194304 0 16385
+20 0 0 0
+22 250000 100000
+A
+19 2
+A
+12 75
+A
+14 -15
+#2132
+obj guards brass studded~
+4
+&ya pair of &Ybrass&y elbow guards&n~
+a pair of brass elbow guards lie here~
+~
+9 4194304 0 257
+20 0 0 0
+9 182000 43000
+A
+19 3
+A
+18 2
+A
+12 -10
+#2133
+obj key forgotten~
+2
+&Ga forgotten key&n~
+&GA forgotten key lies here.&n~
+~
+18 262152 0 1
+10000 0 10 0
+1 5 5
+#2134
+obj treasure~
+100
+&YSiraya's treasure&n~
+&Ythe treasure of Siraya is here&n~
+~
+20 0 0 1
+1500000 0 0 0
+1 5 5
+#2135
+obj shrine~
+100
+&ya shrine in the woods&n~
+&ya shrine in the woods was erected here&n~
+~
+15 262144 0 0
+100 0 10 0
+1 5 5
+#2136
+obj bookshelf shelf~
+100
+&ya large bookshelf&n~
+&yA large book shelf with all filled shelves except one takes up the whole wall.&n~
+~
+12 262144 0 0
+37 0 10 0
+1 5 5
+#2137
+obj book~
+5
+&Ra large bound book&n~
+&Ra large bound book lies untidily here unlike those on the shelves&n~
+~
+18 262152 0 1
+0 0 10 0
+35 5 5
+#2138
+obj staff protection~
+20
+&ya staff of &Wprotection&n~
+a staff of protection has been carelessly left here~
+~
+4 2359808 0 1
+41 1 1 36
+9 20000 35000
+#2139
+obj stone continent~
+100
+&wa stone is here&n~
+&wa stone is here setting in the cove&n~
+~
+12 262144 0 0
+0 0 10 0
+1 5 5
+#2140
+obj leverhouse~
+100
+&ya drawbridge leverhouse&n~
+&ya drawbridge leverhouse was erected here to lower the drawbridge&n~
+~
+15 262144 0 0
+5 0 10 0
+1 5 5
+#2141
+obj stonesword~
+100
+swordinstone~
+&KA huge stone with a &Wsword&K sticking out of it, rest here.&n~
+~
+15 262144 0 0
+20 0 10 0
+1 5 5
+E
+stone~
+Its got a sword sticking out of it
+~
+E
+sword~
+Its a really expensive looking sword.  A shame someone had to stick it
+permanently into this stone.
+~
+#2142
+obj bookshelf shelf~
+100
+A large bookshelf~
+&yA large book shelf has been pulled back from the wall.&n~
+~
+12 262144 0 0
+37 0 10 0
+1 5 5
+#2143
+obj mage blade schist~
+1
+&KA mystical blade called '&BSchist&K'&n~
+A strange glowing sword made of crystalline rock lies here pulsating.~
+~
+5 138471429 0 8193
+786432 16 4 3
+7 325000 120000
+A
+19 2
+A
+12 40
+#2144
+obj robe dark mage~
+2
+&yRobes of the &KDark Magi&n~
+A black robe covered in silver runes lies here in a heap.~
+~
+11 138469988 262272 1025
+0 0 10 0
+15 145000 120000
+A
+12 25
+A
+19 4
+A
+18 1
+A
+24 -5
+$~
+#999999

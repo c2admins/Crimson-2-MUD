@@ -1,0 +1,137 @@
+#21450
+Road to Victoria's Keep~
+You start down a very dusty road.  All vegetation around you seems to be dead. You are
+overcome with a feeling of fear and the urge to run away.   What is it about this strange
+place that makes you shiver? You must move on to learn more.
+~
+177 12 0 1 99 2
+D0
+~
+~
+0 -1 21451
+S
+#21451
+Road to Victoria's Keep~
+The dust flies with your every step.  You hear no sound from animals or humans.  A
+few footprints are in the road ahead, so you shrug off the feeling of fear and travel
+on.  As you travel you will find some of the people speak talk to them for clues to 
+help you on your way. 
+~
+177 12 0 1 99 2
+D0
+~
+~
+0 -1 21452
+D2
+~
+~
+0 -1 21450
+S
+#21452
+Road to Victoria's Keep~
+In this desolate land you may want to make sure you both talk to the mobs and also read
+their descriptions very closely.  You are on a quest, you just don't know it yet.
+~
+177 12 0 1 99 2
+D0
+~
+~
+0 -1 21453
+D2
+~
+~
+0 -1 21451
+S
+#21453
+Road to Victoria's Keep~
+You begin to hear a few low murmurs and moans.  Their are some huts along the road that 
+are in great disrepair.  Make sure you speak to the poor people who live here for 
+a few important clues for your quest.  Be careful the vultures here are very hungry 
+and looking for something to eat.  They often don't care if their meal is dead or alive.
+~
+177 12 0 1 99 2
+D0
+You see nothing special.
+~
+~
+0 -1 21454
+D2
+~
+~
+0 -1 21452
+S
+#21454
+Road to Victoria's Keep~
+Just ahead you see a small village.  From here it seems to be in ruins.  You hear some
+weak moans.  You wonder if someone has been hurt.  Hurry and see if you can help in 
+anyway.
+~
+177 12 0 1 99 2
+D0
+You see nothing special.
+~
+~
+0 -1 21455
+D2
+~
+~
+0 -1 21453
+S
+#21455
+Road to Vicoria's Keep~
+The road is dusty and you can smell death in the air.  Looking west you see a small 
+hut, ahead there seems to be a cross road.
+~
+177 12 0 0 99 2
+D0
+A small cross road.
+~
+~
+0 -1 21457
+D2
+~
+~
+0 -1 21454
+D3
+To the west you see a small hut.
+~
+~
+0 -1 21456
+S
+#21456
+A Hut~
+You have entered an old hut.  The walls are crumbling away, the dirt floor is 
+littered with odd pieces of broken wood and a few rags.  Some how it seems very cold 
+in here and you are filled with fear.
+~
+177 12 0 0 99 0
+D1
+To the east is a dirt road.
+~
+~
+0 -1 21455
+S
+#21457
+Road to Victoria's Keep~
+You stand at a crossroad.  The village continues to the north.  A small dirt path
+is east and west.  
+~
+177 12 0 0 99 2
+D2
+~
+~
+0 -1 21455
+S
+#21458
+Road to Victoria's Keep~
+You are traveling down a small worn, dirt pathway.
+~
+177 12 0 0 99 2
+D1
+A cross road.
+~
+~
+0 -1 21457
+S
+$~
+#999999

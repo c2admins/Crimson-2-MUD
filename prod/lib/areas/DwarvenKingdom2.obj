@@ -1,0 +1,381 @@
+#4700
+obj key small~
+100
+a small key~
+A small key of red rock lies here on the ground.~
+~
+18 0 0 16385
+2 0 0 0
+1 10 1
+#4701
+obj pick mining~
+10
+&ya mining &Kpick&n~
+A small pick lies here on the ground.~
+~
+5 0 0 8193
+0 3 4 11
+10 100 20
+#4702
+obj helm dwarven~
+8
+&wa &ydw&Ya&yrv&Ye&yn &Khelm&n~
+A large dwarven helm lies here on the ground.~
+~
+9 1118208 0 17
+6 0 0 0
+10 1000 100
+A
+19 1
+A
+18 1
+A
+5 1
+#4703
+obj plate dwarven breast~
+5
+&wa &ydw&Ya&yrv&Ye&yn &wbreast &Kplate&n~
+A dwarven breast plate lies here on the ground.~
+~
+9 69632 16 9
+53 0 0 0
+15 1500 150
+A
+18 2
+#4704
+obj shield large dwarven~
+5
+&wa large &ydw&Ya&yrv&Ye&yn &Kshield&n~
+A large dwarven shield lies here on the ground.~
+~
+9 4097 16 513
+15 0 0 0
+7 2000 200
+E
+shield~
+The shield is encrusted with many beautiful metals and carvings.~
+A
+27 -1
+A
+24 -3
+A
+19 2
+#4705
+obj key dwarven small steel~
+100
+A small steel key~
+A small steel key lies here.~
+~
+18 0 0 1
+1 0 5 0
+1 5 0
+#4706
+obj dwarven battle axe~
+9
+&wa large &ydw&Ya&yrv&Ye&yn &wbattle&Kaxe&n~
+A large battle axe lies here on the ground.~
+~
+5 524608 0 8193
+0 2 12 3
+5 10000 100
+E
+dwarven battle axe~
+It is encarved with beautiful dwarven runes.~
+A
+18 1
+A
+19 1
+#4707
+obj large stone sarcophagus~
+100
+a large stone sarcophagus~
+A large stone sarcophagus lies here, the lid fallen on the floor.~
+~
+15 0 0 0
+1000 1 -1 0
+1000 0 0
+#4708
+obj staff ruling large~
+4
+&WTh&we &ystaff &Bof rul&wi&Wng&n~
+A large and intricate staff rests here.~
+~
+4 2138114 0 16385
+35 10 10 7
+10 10000 100
+A
+19 4
+A
+12 15
+#4709
+obj cloak ironstar clan~
+3
+&ycloak of the &Kir&wo&Wns&wt&Kar &cc&Cla&cn&n~
+A cloak bearing the insignia of the ironstar clan lies here in a heap.~
+~
+11 218244416 16 5
+0 0 10 0
+3 10000 5
+A
+19 2
+A
+18 2
+A
+1 1
+#4710
+obj large diamond~
+8
+&wa large &Wdia&wm&Wond&n~
+A very large diamond sits upon the ground.~
+~
+20 0 0 1
+70000 0 0 0
+1 5 5
+#4711
+obj green rock~
+1
+&gA la&Grge green r&gock&n~
+&gA la&Grge green r&gock sits here, looking rather out of place.&n~
+~
+13 0 0 16385
+0 0 0 0
+30 5 5
+E
+rock~
+Upon closer inspection, the rock is actually a very rare and mysterious ore...what it could be made into
+you can only speculate.
+~
+#4712
+obj large ruby~
+8
+&ra large &Rr&rub&Ry&n~
+A very large ruby lies on the ground.~
+~
+20 0 0 1
+50000 0 0 0
+1 5 5
+#4713
+obj large emerald~
+8
+a large &Gem&gera&Gld&n~
+A very large emerald lies on the ground.~
+~
+20 0 0 1
+60000 0 0 0
+1 5 5
+#4714
+obj ring berronar truesilver~
+4
+&wring of &yB&Ye&yrr&Yo&yn&Ya&yr &cTr&Cue&Ksi&wlv&Ker&n~
+A small, strange ring lies here, collecting dust.~
+~
+11 151028800 16 3
+0 0 0 0
+1 25000 5
+A
+17 -10
+A
+19 1
+A
+18 1
+A
+12 25
+#4715
+obj loaf hard bread~
+100
+&ya loaf of hard bread&n~
+A loaf of bread is here.~
+~
+19 0 0 1
+26 0 0 0
+2 30 5
+#4716
+obj pipeweed bread~
+100
+&ya loaf of pipe&Kweed&y bread&n~
+A load of pipeweed bread arouses your hunger.~
+~
+19 0 0 1
+24 0 10 0
+2 20 5
+#4717
+obj bag~
+100
+a bag~
+A small bag.~
+~
+15 0 0 16385
+50 0 0 0
+2 20 7
+#4718
+obj leather backpack~
+10
+&ya leather backpack&n~
+&yA leather backpack seems to have been discarded here.&n~
+~
+15 0 0 17409
+100 1 0 0
+5 500 5
+#4719
+obj large waterskin~
+5
+&ya large waterskin&n~
+&yA large waterskin lies here, discarded by its owner.&n~
+~
+17 0 0 1
+85 85 0 0
+15 300 5
+#4720
+obj lantern~
+100
+a lantern~
+A brass lantern.~
+~
+1 0 0 65537
+0 0 96 0
+1 50 17
+#4721
+obj torch~
+100
+a torch~
+A large torch.~
+~
+1 0 0 65537
+0 0 24 0
+1 10 3
+#4722
+obj breast plate~
+100
+a breast plate~
+A breast plate is lying on the ground.~
+~
+9 69632 0 9
+7 0 0 0
+100 18000 6000
+#4723
+obj steel breast plate~
+10
+&wa &Ksteel&w breastplate&n~
+A polished steal breast-plate lies here.~
+~
+9 1048640 0 9
+44 0 0 0
+15 40000 18000
+A
+2 1
+#4724
+obj large battleaxe axe~
+10
+&wa &ylarge &wbattle&Kaxe&n~
+A large battleaxe rests on the ground.~
+~
+5 33554432 0 8193
+0 6 3 3
+8 8000 2000
+#4725
+obj warhammer hammer~
+100
+&ya &Kwar&yhammer&n~
+A medium sized warhammer is here.~
+pound~
+5 0 0 8193
+0 1 5 7
+6 50 17
+#4726
+obj shield reorx~
+1
+&ySh&Yie&yld &Yo&yf R&Yeo&yrx&n~
+&WA finely crafted shield has been misplaced by it owner.&n~
+~
+9 16792577 0 513
+15 0 0 0
+10 15000 25000
+A
+19 3
+A
+18 2
+A
+13 10
+#4727
+obj ring reorx~
+1
+&yR&Yi&yng &Yo&yf R&Yeo&yrx&n~
+A Ring of Reorx glows with a bright light.~
+~
+9 20978689 131072 3
+15 0 0 0
+1 15000 25000
+A
+19 2
+A
+18 3
+A
+13 15
+#4728
+obj amulet reorx~
+1
+&YA&ym&Yu&yl&Ye&yt &Yo&yf R&Yeo&yrx&n~
+An Amulet of Reorx levitates in front of you.&n~
+~
+9 20978688 131072 5
+5 0 0 0
+1 15000 15000
+A
+19 3
+A
+40 1
+A
+13 10
+#4729
+obj helm reorx~
+1
+&yH&Ye&ylm &Yo&yf &yR&Yeo&yrx&n~
+A Helm of Reorx lays on the ground.~
+~
+9 20986880 131072 17
+30 0 0 0
+4 15000 25000
+A
+19 4
+A
+18 1
+A
+31 -1
+A
+12 -20
+#4730
+obj staff reorx~
+1
+&ySt&Ya&yff &Yo&yf R&Yeo&yrx&n~
+A finely crafted staff has been misplaced here.~
+~
+1 20978688 131072 65537
+0 0 99999 0
+3 15000 25000
+A
+19 2
+A
+18 2
+A
+41 1
+A
+36 -1
+#4731
+obj platemail reorx~
+1
+&yPl&Ya&yt&Ye&ym&Yai&yl &Yo&yf R&Yeo&yrx&n~
+A suit of finely crafted platemail lies here.~
+~
+9 21117953 147456 9
+80 0 0 0
+25 78000 500000
+A
+19 3
+A
+18 2
+A
+13 10
+A
+12 -30
+$~
+#999999

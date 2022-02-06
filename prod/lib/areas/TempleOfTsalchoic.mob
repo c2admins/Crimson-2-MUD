@@ -1,0 +1,355 @@
+#2600
+mob wolf placid~
+a wolf~
+A placid looking wolf is gently padding around here.
+~
+This large, tough looking wolf is padding around here and seems to be almost
+tame.  You could probably stroke his neck without him attacking.
+~
+72 1 136249361 33554432 0 S
+4 33 37 5d5+15 2d3+1
+250 190
+8 8 0
+0 0 13 11 10 11 9 9
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2601
+mob guard temple t'salchoic~
+a temple guard~
+A guard of the Temple of T'Salchoic is standing here.
+~
+The temple guard is one of the followers of the Church of T'Salchoic who was
+not deemed worthy enough to become one of the priests, but nonetheless wishes
+to serve as best he can.
+~
+204 1048577 136249361 0 500 S
+16 24 28 8d9+195 5d5+5
+3915 4875
+8 8 1
+1 0 15 16 14 15 12 11
+#2602
+mob priest t'salchoic~
+a priest~
+A priest of the Temple of T'Salchoic is here, deep in thought.
+~
+This priest is one of the lucky members of the cult who have been deemed
+worthy enough by the leader of the church to study the ways of the religion in
+depth, and train to perhaps one day become a bishop.  He is walking around
+here thinking deeply about the interpretations of the church's artifacts.
+~
+204 1081345 136249361 0 700 S
+14 25 30 9d7+150 3d5+9
+2160 4500
+8 8 1
+1 6 14 15 13 13 13 12
+SKILL=SPELL_BLINDNESS 38
+SKILL=SPELL_HAIL_STORM 38
+SKILL=SPELL_CURE_CRITIC 38
+SKILL=SPELL_CURSE 38
+SKILL=SPELL_MAGIC_MISSILE 38
+SKILL=SPELL_POISON 38
+SKILL=SPELL_CAUSE_CRITIC 38
+SKILL=SPELL_EARTHQUAKE 38
+#2603
+mob minister t'salchoic~
+a minister~
+A minister of the Temple of T'Salchoic is standing here.
+~
+The minister looks in his mid thirties.  He has been studying the doctrines
+of the church for many years, and is quietly reciting a prayer to himself as
+he walks around here.
+~
+200 1 136249361 0 750 S
+18 22 26 20d9+200 3d3+19
+4340 5350
+8 8 1
+1 6 16 14 14 15 11 13
+#2604
+mob bishop t'salchoic~
+a bishop~
+An old bishop of the Temple of T'Salchoic is here looking content.
+~
+The bishop is one of the higher ranking members of the church.  He travels
+around on various missions, most of which usually involve saving the public
+from their sins.
+~
+72 32769 136249361 0 950 S
+30 13 5 20d19+3000 7d5+6
+30000 185500
+8 8 1
+1 6 18 18 18 16 17 17
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_HAIL_STORM 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_HARM 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_POISON 70
+SKILL=SPELL_CAUSE_CRITIC 70
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SPELL_EARTHQUAKE 70
+ATTACK_SKILL=99
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#2605
+mob clergyman t'salchoic~
+a clergyman~
+A member of the clergy is walking around here looking for enlightenment.
+~
+This young man is one of the followers of the cult, not yet ready to become
+a priest, and who is studying hard to try to attain the position.  He looks
+youthful, but very tired.
+~
+204 1048577 136249361 0 400 S
+10 29 34 12d5+88 3d3+5
+750 3085
+8 8 1
+1 6 13 12 11 11 9 8
+#2606
+mob templar t'salchoic~
+a templar~
+A fearsome looking templar is here, looking for enemies of the cult.
+~
+This is one of the guards who through extreme dedication has begun to be
+more accepted into the cult as a practitioner, rather than just a thug.  He
+looks very mean, and is here looking for enemies of the church to crush.
+~
+72 1 136249361 8 550 S
+25 15 18 11d19+2000 3d5+27
+17250 76750
+8 8 1
+1 4 17 18 15 16 14 12
+ATTACK_SKILL=75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#2607
+mob T'Sartle t'salchoic~
+T'Sartle~
+T'Sartle, leader of the cult of T'Salchoic is standing here.
+~
+T'Sartle is the current head of the Church of T'Salchoic.  He is a huge 
+burly old man who looks like he could walk down an alleyway in South-Midgaard
+without worrying.  He is here silently praying to his god in an almost
+tracelike, fixated gaze.
+~
+262154 32769 136249361 100663432 1000 S
+44 1 -30 35d19+13000 35d9+40
+1755000 958000
+8 8 1
+1 6 22 24 20 20 20 21
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_SILENCE 40
+SKILL=SPELL_SMITE 50
+SKILL=SPELL_EARTHQUAKE 90
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+#2608
+mob Tiamara t'salchoic~
+Tiamara~
+Tiamara, administrator of the temple is standing here.
+~
+Tiamara is the woman responsible for the adminstration and financial side of
+the cult.  She is very educated, and despite her stature is probably one of the
+toughest people in the cult.
+~
+262216 32769 136249361 33554568 800 S
+39 4 -20 30d19+5000 8d5+70
+510000 243000
+8 8 2
+1 6 20 21 20 20 18 16
+SKILL=SPELL_BLINDNESS 88
+SKILL=SPELL_BURNING_HANDS 88
+SKILL=SPELL_HAIL_STORM 88
+SKILL=SPELL_COLOUR_SPRAY 88
+SKILL=SPELL_CURSE 88
+SKILL=SPELL_ENERGY_DRAIN 88
+SKILL=SPELL_FIREBALL 88
+SKILL=SPELL_HARM 88
+SKILL=SPELL_LIGHTNING_BOLT 88
+SKILL=SPELL_MAGIC_MISSILE 88
+SKILL=SPELL_POISON 88
+SKILL=SPELL_SLEEP 88
+SKILL=SPELL_CAUSE_CRITIC 88
+SKILL=SPELL_HEAL_MINOR 88
+SKILL=SPELL_EARTHQUAKE 88
+#2609
+mob Rahnkara highpriestess~
+Rahnkara the Highpriestess~
+The Highpriestess, Rahnkara is here smiling warmly.
+~
+Rahnkara is a beautiful looking creature.  She has the appearance of a ten year
+old girl, however you know from the legends that she has lived for hundreds of
+years.  Her head is shaven, and this combined with the simple cotton
+over-garment she wears gives her very boyish looks.
+~
+872677464 32769 136249361 128 1000 S
+48 0 -1 6000d10+216 127d127+127
+0 1
+8 8 2
+1 2 23 25 22 22 22 20
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_BURNING_HANDS 90
+SKILL=SPELL_HAIL_STORM 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_CURSE 90
+SKILL=SPELL_ENERGY_DRAIN 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_LIGHTNING_BOLT 90
+SKILL=SPELL_MAGIC_MISSILE 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_CAUSE_CRITIC 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+#2610
+mob wolf dire~
+A ferocious &Kdire wolf&n~
+A ferocious &Kdire wolf&n is here, lending a hand to its master.
+~
+Standing nearly six feet at the shoulder, this dire wolf is not an animal you want to mess with.
+~
+16777224 4227073 136249361 33554472 0 S
+20 20 25 7d10+1500 2d5+30
+1 0
+8 8 0
+0 0 17 17 15 15 12 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2611
+mob large brown bear~
+A large &ybrown bear&n~
+A large &ybrown bear&n is here, serving its master.
+~
+  Standing a full either feet tall when on it's hind legs, the brown bear has paws that could crush an
+ordinary mans skull and teeth that could rip through flesh with ease.
+~
+16777224 4227073 136249361 33554472 0 S
+25 15 18 10d10+2000 2d5+10
+1 0
+8 8 0
+0 0 16 16 14 15 14 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2612
+mob fearsome mountain lion~
+A fearsome &Ym&you&Ynt&yai&Yn l&yio&Yn&n~
+A fearsome &Ym&you&Ynt&yai&Yn l&yio&Yn&n is here, doing the bidder of its master....for now.
+~
+  Sleek and powerfully built, the mountain lion is a perfect killing machine. Best not give it a reason
+to eat you.
+~
+16777224 4227073 136249361 33554472 0 S
+22 18 22 8d10+1700 2d8+30
+1 0
+8 8 0
+0 0 17 18 16 16 13 11
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2613
+mob stag powerful~
+A powerful &ystag&n~
+A powerful &ystag&n is here, doing the bidding of its master.
+~
+Though not the most aggressive of creatures, the stag can still defnd itself if needed.
+~
+16777224 4227073 136249361 33554472 0 S
+15 25 29 1d11+200 3d5+10
+1 0
+8 8 0
+0 0 16 17 16 15 15 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#2614
+mob feisty wolverine~
+A feisty wolverine~
+A feisty wolverine is here, doing the bidding of its master.
+~
+Don't let its small stature fool you. This little wolverine is vicious.
+~
+16777224 4227073 136249361 33554472 0 S
+18 22 26 1d3+300 3d6+15
+1 0
+8 8 0
+0 0 16 18 15 16 15 14
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2615
+mob young treant~
+A young &yTr&Gea&ynt&n~
+A young &ytr&Gea&ynt&n is here, following its master.
+~
+A young &yTr&Gea&ynt&n towers above you.
+~
+8 1 136249361 0 0 S
+15 25 40 10d7+240 5d3+10
+0 1
+8 8 0
+0 0 17 15 16 15 13 15
+#2616
+mob mature treant~
+A mature &yTr&Gea&ynt&n~
+A mature &yTr&Gea&ynt&n is here, following its master.
+~
+A mature &yTr&Gea&ynt&n towers above you.
+~
+8 1 136249361 0 0 S
+15 25 40 10d7+270 5d3+10
+0 1
+8 8 0
+0 0 16 17 15 14 14 12
+#2617
+mob old treant~
+An old &yTr&Gea&ynt&n~
+An old &yTr&Gea&ynt&n is here, following its master.
+~
+An old &yTr&Gea&ynt&n towers above you.
+~
+8 1 136249361 0 0 S
+15 25 40 10d7+290 5d3+10
+0 1
+8 8 0
+0 0 16 18 15 16 13 11
+#2618
+mob ancient treant~
+An ancient &yTr&Gea&ynt&n~
+An ancient &yTr&Gea&ynt&n is here, following its master.
+~
+An ancient &yTr&Gea&ynt&n towers above you.
+~
+8 1 136249361 0 0 S
+15 25 29 10d7+310 5d3+10
+0 1
+8 8 0
+0 0 17 17 14 13 15 11
+$~
+#999999

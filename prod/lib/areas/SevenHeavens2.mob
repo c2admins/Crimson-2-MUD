@@ -1,0 +1,510 @@
+#20000
+mob Peter Apostle~
+Peter, the Apostle~
+Peter, The Apostle stands here praying.
+~
+This is Peter, he stands before you as one of the apostles of Jesus Christ.  He
+served as the spokesman for the apostles and for Jesus in many afairs.  At one
+point he denied being associated with Jesus after his arrest and subsequent
+crucifixion.  Later on he suffered on his decision and became the first bishop
+in the christian church.  Now he spends his days here in the white castle.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 1
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20001
+mob paul apostle~
+Paul, the Apostle~
+Paul, the apostle stands here praying.
+~
+Paul the apostle was born a jew.  He was "called" by god to become a christian.
+For many years he did missionary work all the way from what is now known as
+Turkey to what is now known as Spain.  In his missions he collected money from
+converts and such to be delivered to the home church.  He was known as the first
+evangelist in the christian religion.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20002
+mob james apostle~
+James, the Lesser~
+James The Lesser, sits here bored.
+~
+James the Lesser is very well unknown.  Most of his life people he traveled with
+Jesus, however not much is known about him.  He was the son of Alpheus.  That
+is about all people know of him.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20003
+mob james apostle great~
+James, the Great~
+James The Great, is resting at his table.
+~
+This is James the Great, he was called that not for his "greatness" just because
+he was the first apostle named James.  James the lesser was named that because
+he was the second.  James the Great was brother to John.  He and John grew up
+well off with servants and such.  But he and his brother gave that up to travel
+with Jesus in his mission.  They were given this place in Heaven for what they
+gave up in their mortal life.  This man is at times hot-headed but always looked
+for the good of mankind.  He was beheaded by order of King Herod Agrippa I.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20004
+mob andrew apostle~
+Andrew, the Apostle~
+Andrew, The Apostle is resting here after a tired life.
+~
+Andrew was the first known disciple of Christ.  He was originally a disciple of
+John the Baptist.  He grew up a small fisherman and was changed by the words he
+heard comming from Jesus at a rally.  He was eventually crucified at Patras.
+His crucifixion was done on an x-shaped cross now known as the Saint Andrew's
+Cross.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20005
+mob philip apostle~
+Philip, the Apostle~
+Philip, the Apostle rests here.
+~
+Very little is also known about Philip.  He was originaly a follower of John
+the Baptist.  He was there when Jesus turned water into wine and bread into
+fish.  When the Greeks were searching for Jesus he spoke with the Greeks.
+Finally he was accounted for at the Last Supper of Jesus Christ.  Other than
+that nothing else is really know.  How he died is a mystery.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20006
+mob judas iscariot apostle~
+Judas Iscariot, the Apostle~
+Judas is here pondering over his life.
+~
+Judas Iscariot is one of the most well known and thought to be infamous of the
+apostles.  The Bible teaches that he betrayed Jesus for thirty silver pieces to
+the Romans.  Other books say that Jesus himself asked for Judas to do this. As
+he knew beforehand what had to be done.  God wouldn't have allowed for the what
+took place if it wasn't nessesary.  Jesus knew beforehand what had happened. As
+is well documented at the Last Supper.  However, most of their time together
+Judas was the best friend of Jesus and stood up for him.  Judas was almost with
+Jesus during the whole missionary.  However, filled with self-hatred for what
+he had done.  Even if it may have been what Jesus had wanted.  Judas killed
+himself in the year of 28 AD.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20007
+mob bartholomew apostle~
+Bartholomew, the Apostle~
+Bartholomew, the Apostle is resting here.
+~
+This is one of the 12 Apostles.  Mystery surrounds his doings and even his name
+some of the bibles list him as Nathaniel and others to Bartholomew.  Very little
+is know about this Apostle except that he was skinned alive and beheaded at
+the Caspian Sea.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20008
+mob long rufus apostle~
+Long Rufus, the Apostle~
+Long Rufus, the Apostle is waiting about for a craps game.
+~
+This is Long Rufus, even though the Bible never mentions him.  Dogma does.  To
+me that is all that matters.  This african followed Jesus the whole time.  He
+insists that Jesus was black and that the white man wrote him out because of
+color.  He has tried his whole afterlife to get the recognition he believes he
+deserved.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20009
+mob Thomas, the Apostle~
+Thomas, the Apostle~
+Thomas is standing here thinking.
+~
+Thomas was a devout follower of Jesus.  If Jesus was attacked; Thomas was
+attacked.  And thus a true friend of Jesus.  He followed Jesus into Judea and
+to where Jesus was to be stoned to death by the Jews.  He was at the Last Supper
+and he was there when Jesus died.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20010
+mob matthew apostle~
+Matthew, the Apostle~
+Matthew is resting here after a long night out.
+~
+Matthew means "Gift of Yahweh (God)".  Many books think his name was
+originally Levi and that Jesus named him Matthew after he became an
+Apostle.  He was a tax collector at the Ancient Palastinian Lake Port.
+Luke wasn't impressed by the first sight of Matthew.  However later he
+was welcomed into joining the Apostles.  A feast was given at his turning.
+He was a very skilled at math and spoke several languages.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20011
+mob Matthias apostle~
+Matthias, the Apostle~
+Matthias is resting here.
+~
+Matthias was not one of the original 12 apostles.  The catholic church made him
+so after discounting Judas Iscariot.  They believed he was best suited to take
+the coveted slot in the 12 apostles.  Matthias was known for his regard towards
+pleasures of the skin.  He also practiced these things very often.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20012
+mob simon apostle~
+Simon, the Apostle~
+Simon is standing here concerned.
+~
+Simone comes from a sect of Jews called Zealots.  They were like the Jewish Maffia.
+They killed nobles in the streets and didn't care whom saw.  They rallied the
+Jews to rage against their oppressors.  They gave strength to the people known
+as "Gods People".  This is why Simon is called Simon the Zealot.  He was 
+eventually Martyred in Persia.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20013
+mob thaddaeus apostle~
+Thaddaeus, the Apostle~
+Thaddaeus is moving about the room.
+~
+Thaddaeus means "Judas son of James".  He was called Thaddaeus in the Bible as
+a way to distinguish him from Judas Iscariot.  He is also known as Saint Jude.
+Many hospitals and churches have been named in his honor.  Most of what is known
+about him is that other guy named Judas that isn't Iscariot.  However some have
+also thought that he may be a brother of Jesus himself.
+~
+33816650 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d35+99
+4000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20014
+mob gabriel angel arch angel arch~
+Gabriel~
+Gabriel, the archangel stands before you.
+~
+This is Gabriel, he is a monster indeed.  He stands about ten feet tall and has
+a wingspan of over twenty feet.  This creature has handed down many vast 
+judgements that God has sent forth.  He has a wing dipped in the light and the
+other is covered in blood.  This is one angel you will never ever want to meet.
+~
+262218 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d40+99
+5000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20015
+mob Daywynde~
+Daywynde~
+Daywynde is standing before you
+~
+You see before you a strange creature indeed.  Blinding light surrounds you everywhere.
+This creature stalks only in the day time.  It is a very viscous serial killer indeed.
+~
+8 1 136249361 1597788366 -1000 S
+48 0 -40 1d1+950000 100d39+85
+5000000 200000
+8 8 1
+0 0 25 18 14 16 15 13
+SKILL=SKILL_KICK 99
+SKILL=SKILL_BASH 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#20016
+mob raphael archangel arch angel~
+Raphael~
+Raphael, the archangel hovers above you.
+~
+This is Raphael, he is the angel of healing and of happiness.  He gets
+directions for God himself to reward the world for various reasons.  He stands
+over ten feet tall and has a massive wingspan.  This huge beast could
+easily destroy as well as create.
+~
+262218 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d40+99
+5000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20017
+mob barachiel angel archangel arch~
+Barachiel~
+Barachiel, the archangel stands before you.
+~
+This is Barachiel, he stands well over ten feet tall and his wings are covered
+in gold highlights.  He protects Gods children and sees them to their
+destination.  He continues to help mankind out to reach their goals into Heaven.
+He wears a crest of truth and a badge of honor.
+~
+262218 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d40+99
+5000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+#20018
+mob michael angel~
+Michael~
+Michael, the archangel stands before you.
+~
+This is Michael, he is second in command of all of Heaven.  He is at the same
+level as Gabriel.  Together they control all the angels of Heaven.  His only 
+boss is God itself.  You can see by the glowing eyes and the blackened hair.
+This creature means business.  He helps people do Gods work by destroying anyone
+who gets in their path.
+~
+262218 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d40+99
+5000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20019
+mob metatron angel arch angel archangel~
+Metatron~
+Metatron stands before you.
+~
+This is Metatron.  He is the voice of God.  He has really no other purpose
+other than to speak to humans on God's behalf.  He is a massive creature that
+stands roughly twelve feet high, and has a wingspan of over twenty feet.  He
+wears a small garb of cloth to cover genitelia.
+~
+262218 32769 136249361 1141113260 1000 S
+48 0 -40 1d1+49999 40d40+99
+5000000 2000000
+8 8 0
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SPIRIT_HAMMER 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+$~
+#999999

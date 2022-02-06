@@ -1,0 +1,743 @@
+#1900
+obj tear drop key~
+2
+&CT&We&Ca&Wrd&Cr&Wo&Cp &WKey&n~
+&WA small key in the shape of a &Ct&Wea&Cr &Whas been discarded here.&n~
+~
+18 262152 0 1
+0 0 10 0
+1 5 5
+#1901
+obj iron key~
+2
+&KI&wr&Ko&wn &Kkey&n~
+&WA small &KI&wr&Ko&wn &Kkey&W hangs here.&n~
+~
+18 134479880 0 1
+0 0 10 0
+1 5 5
+#1902
+obj Silver key~
+2
+&WS&Ki&Wlv&Ke&Wr &wkey&n~
+&WA small &WS&Ki&Wlv&Ke&Wr &wkey&W lies discarded here.&n~
+~
+18 134479880 0 1
+0 0 10 0
+1 5 5
+A
+18 59
+#1903
+obj leathery membrane~
+1
+&WA &yl&we&ya&wth&ye&wr&yy &wmembrane&n~
+&WA sleeve of &yl&we&ya&wt&yh&we&yr &Wlies discarded here.&n~
+~
+9 4194304 0 257
+5 0 0 0
+5 100000 75000
+A
+19 4
+A
+40 1
+#1904
+obj marble key~
+2
+&KMarble &wkey&n~
+&WA small &wivory &Kmarble &wkey&W lies here.&n~
+~
+18 134479880 0 1
+0 0 10 0
+1 5 5
+#1905
+obj Pelt Wolf~
+3
+&WA &KW&yol&Kf's &KP&yel&Kt&n~
+&WA soft mound of &yfur &Wlies here.&n~
+~
+15 4194305 0 1025
+250 0 0 0
+25 250000 85000
+A
+19 3
+A
+18 -1
+A
+17 -50
+A
+13 15
+#1906
+obj cross weeping gabrielle~
+3
+&WThe &rWeeping &WCro&Wss&n~
+&WThe &rblood &wwept cross of Lady Gabrielle lies in a pool of her &Ct&ce&Ca&cr&Cs.&n~
+~
+9 4194304 0 16385
+20 0 0 0
+10 125000 55000
+A
+19 6
+A
+14 -25
+A
+12 -25
+A
+18 2
+#1907
+obj chair~
+1
+A comfortable chair~
+A comfortable chair is here.~
+~
+12 8 0 0
+0 0 10 0
+1 5 5
+#1908
+obj Fireplace~
+7
+A Fireplace~
+A soft glow comes from a warm fireplace.~
+~
+12 8 0 0
+0 0 10 0
+1 5 5
+E
+new~
+  A &Rfire&n rages inside. The warmth from it is a nice change
+to your cold bones.
+~
+#1909
+obj Chest~
+1
+A chest~
+A big chest is here.~
+~
+15 8 0 16384
+500 5 0 0
+40 200 100
+#1910
+obj bed~
+3
+A soft bed~
+A soft bed invites you to rest.~
+~
+12 8 0 0
+0 0 10 0
+1 5 5
+#1911
+obj Bed Poster~
+6
+A Gorgeous Bed~
+An elaborate Bed is before you.~
+~
+12 8 0 0
+0 0 10 0
+1 5 5
+#1912
+obj Fountain~
+1
+Fountain~
+A giant Fountain enhances the beauty of this Garden.~
+~
+15 8 0 0
+400 0 0 0
+1000000 5 5
+#1913
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+paint~
+A picture of a proud haughty elf hangs here.  You wonder what
+happen to cause this elf to reak such destruction.
+~
+#1914
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+paint~
+A monsterous creature starts to form from the body of the 
+elven prince lain strewn across a dark altar.  Bones are being
+ripped and changed and the picture shows different parts of the
+Vatang's body in transformation.
+~
+#1915
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+paint~
+The new monster Vatang tears through the soft bodies of 
+the small elven maids that served his wife.  Their pink
+flesh proved to be no buffer to the sharp fangs or 
+insatiable hunger of Vatang.  His wife enters the hall 
+her maids frequent to only be horrified by the butchery.
+In sheer terror she flees the room to what must have 
+been her apparent suicide on the Bridge of sorrow.
+~
+#1916
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+painting~
+This painting depicts the Party of Rivenberg resting at a camp
+while dark eyes look on in hunger.  Lord Tristan and Lady 
+Gabrielle lay cuddled in each others happy arms while Jundar and
+Heng wrestle each other near the camp fire.  Lady Anna and Tiffany
+both look on smiling.
+~
+#1917
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+painting~
+The party of Rivenberg is torn from its sleep as a giant bat and 
+the monsterous Vatang haul away Lady Gabrielle and Jundar.
+Tristan screams in frustration as massive werewolves cut off his 
+pursuit of the vile beast.
+~
+E
+paint~
+~
+#1918
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+painting~
+Tristan and Heng fight in vain and frustration as a horde of ghouls try
+to prevent them from reaching the manor before the dying of the light.
+Both warriors are painted as if they were poetry in motion.  
+~
+#1919
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+painting~
+Tristan tries desperately to reach Heng as he is flown away by what looks
+to be a giant bat.  Hordes of evil ghouls stand to fight between him and 
+the beast.  SoulRender glowes with an eerie light.
+~
+#1920
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+paint~
+Tristan fights through ghouls and werewolves valiantly in this picture
+all the while tears of utter rage and frustration flow from his 
+hagard face.  The bodies of his enemies litter the floor in droves.
+~
+#1921
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+painting~
+This picture shows the monsterous Vatang feasting off of the blood of
+the beautiful elf Lady Gabrielle as she slowly struggles in vain.
+Fear is the only blemish that marks her otherwise perfect features.
+She is portrayed in the painting with a hint of sadness in her eyes.
+~
+#1922
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+paint~
+This painting depicts Tristan standing horrified before Lady Gabrielle
+as she weeps blood red tears.  Vatang stands behind Gabrielle laughing 
+maniacly with blood dripping down from his long fangs.  SoulRender falls
+loosely from Tristan's stunned grasp as he stares at the puncture wounds
+on Lady Gabrielle's beautiful neck.
+~
+#1923
+obj Painting Beautiful Art~
+1
+A Gorgeous Painting~
+An incredible work of art hangs here for all to see.~
+~
+16 8 0 0
+0 0 10 0
+10 5 5
+E
+Painting~
+This picture depicts the heartrending end to this awful tradegy.  Lady
+Gabrielle holds the lifeless body of her Beloved Lord Tristan in her
+grief stricken arms.  Tears of deep red blood pour from her eyes to mix
+with Tristan's blood dripping from her sharp fangs.  Ominously portrayed
+in the background is the vast shadowed bulk of the soulless bloodthirsty
+Vatang.
+~
+#1924
+obj Platemail Rose~
+3
+&WPlatemail of the &rRose&n~
+&WA suit of precious platemail adorned with a &rrose&W lies here.&n~
+~
+9 4194369 0 9
+45 0 0 0
+60 300000 100000
+A
+19 4
+A
+18 1
+#1925
+obj ladel hag stirring stick~
+2
+&yLadel &wof the &KHag&n~
+A dark stirring stick lies stuck to the floor.~
+~
+9 2097172 0 16385
+5 0 0 0
+25 250000 75000
+A
+19 5
+A
+18 -1
+#1926
+obj shirt silk swashbuckler~
+8
+&wSilk Shirt&n~
+A soft silk shirt looking like it belongs to a pirate hangs here.~
+~
+9 4194368 0 9
+0 0 0 0
+5 100000 30000
+A
+19 4
+A
+18 1
+A
+13 20
+A
+12 15
+#1927
+obj lace clasp~
+3
+&WL&wac&We &wC&Wlas&wp&n~
+A decorative lace clasp lies here.~
+~
+9 4194305 0 4101
+0 0 0 0
+2 187000 65000
+A
+19 3
+A
+18 1
+A
+12 5
+A
+6 -5
+#1928
+obj pick ice~
+5
+&CI&Wc&Ce &KPick&n~
+A wooden pick lays discarded here.~
+~
+5 138412032 0 8193
+12304 8 5 11
+1 110000 55000
+A
+18 4
+A
+19 2
+A
+33 -1
+A
+13 -20
+#1929
+obj soulrender sword rune~
+4
+&KSoul&BRender&n~
+A spectacular rune covered sword is propped up here.~
+~
+5 4194304 0 8193
+3072 10 4 3
+30 400000 125000
+A
+18 3
+A
+19 1
+#1930
+obj thorn sharp~
+30
+&wA sharp &ythorn&n~
+A sharp prickly thorn lies here.~
+~
+5 1048640 0 8193
+1 3 9 11
+2 30000 10000
+A
+19 3
+#1931
+obj enchanted teak shield~
+1
+&wEnchanted &yTeak &wShield&n~
+A shield made from teak is propped against the wall.~
+~
+9 4215553 159744 513
+60 0 0 0
+25 300000 85000
+A
+19 3
+#1932
+obj breast vatang~
+1
+&wThe &ybreast &wof &KV&wa&Kta&wn&Kg&n~
+The bone plate of a giant creature lies here.~
+~
+9 4196352 0 2049
+0 0 0 0
+40 1200000 55000
+A
+19 4
+A
+12 15
+A
+24 -2
+A
+18 1
+#1933
+obj platinum leg bands~
+4
+&KP&wlatinum L&Keg &wB&Kands&n~
+A circlet of platinum lies on the ground here.~
+~
+9 88080896 0 33
+45 0 0 0
+10 20000 20000
+A
+19 2
+A
+18 3
+A
+12 -15
+#1934
+obj roll sweet cinnamon~
+100
+a cinnamon sweet roll~
+A sweet roll lies here on the floor.4 a sweet roll is laying on the ground.~
+~
+19 0 0 1
+20 0 0 0
+1 15 5
+#1935
+obj bag small~
+100
+a small bag~
+A small bag lies discarded here.~
+~
+15 0 0 16385
+100 0 0 0
+1 30 5
+#1936
+obj dagger~
+100
+dagger~
+A dagger lies discarded here.~
+~
+5 0 0 8193
+0 1 4 11
+1 10 5
+#1937
+obj ragged pelt~
+10
+&wA &yragged &wpelt&n~
+A ragged pelt of fur lies here in a heap.~
+~
+9 35651712 0 1033
+5 0 0 0
+30 500000 55000
+A
+19 1
+A
+18 1
+A
+40 1
+#1938
+obj iris vatang~
+5
+&wThe &cI&wri&cs &wof &KV&wa&Kta&wn&Kg&n~
+The remains of an eye float ominously before you.~
+~
+1 4196880 0 65553
+0 0 10 0
+10 700000 70000
+A
+19 3
+A
+36 -1
+A
+12 15
+A
+13 15
+#1939
+obj vast pile gold~
+100
+A vast pile of gold~
+A vast pile of gold is locked away in here.~
+~
+20 0 0 1
+1000000 0 0 0
+1 5 5
+#1940
+obj removed~
+5
+removed~
+A ball of a well known brand has been left here.~
+~
+9 4194304 0 16385
+10 0 10 0
+1 234000 36000
+A
+19 6
+#1941
+obj ring test~
+100
+Test ring ~
+test ring~
+~
+9 0 0 3
+20 0 0 0
+1 5 5
+#1942
+obj cloak test~
+100
+Test Cloak~
+Test Cloak~
+~
+9 0 0 5
+30 0 0 0
+1 5 5
+#1943
+obj body test~
+100
+Test Body~
+Test Body~
+~
+9 0 0 9
+80 0 0 0
+1 5 5
+#1944
+obj head test~
+100
+Test Head~
+Test Head~
+~
+9 0 0 17
+25 0 0 0
+1 5 5
+#1945
+obj about test~
+100
+Test About~
+Test About~
+~
+9 0 0 1025
+60 0 0 0
+1 5 5
+#1946
+obj leg test~
+100
+Test Leg~
+Test Leg~
+~
+9 0 0 33
+50 0 0 0
+1 5 5
+#1947
+obj arm test~
+100
+Test Arm~
+Test Legs~
+~
+9 0 0 257
+50 0 0 0
+1 5 5
+#1948
+obj feet Test~
+100
+Test Feet~
+Test Feet~
+~
+9 0 0 65
+30 0 0 0
+1 5 5
+#1949
+obj Charlotte's bracelet~
+100
+&PCh&Wa&Prl&Wo&Ptt&We'&Ps Br&Wa&Pc&We&Pl&We&Pt &Wo&Pf K&Wi&Pndn&We&Pss&n~
+A warm and beautiful bracelet, reflecting the gorgeous Charlotte, rests here~
+~
+9 0 0 4097
+20 0 0 0
+1 5 5
+#1950
+obj hold test~
+100
+Test Holdable~
+test hold~
+~
+9 0 0 16385
+20 0 0 0
+1 5 5
+#1951
+obj waist test~
+100
+Test Waist ~
+Test Waist~
+~
+9 0 0 2049
+25 0 0 0
+1 5 5
+#1952
+obj shield test~
+100
+Test Shield~
+Test Shield~
+~
+9 0 0 513
+60 0 0 0
+1 5 5
+#1953
+obj hand test~
+100
+Test Hand~
+Test Hand~
+~
+9 0 0 129
+25 0 0 0
+1 5 5
+#1954
+obj gold ring wedding band valkyrie~
+100
+a gold wedding band~
+A simple yet beautiful gold wedding band is here.~
+~
+9 0 0 3
+0 0 0 0
+1 400000 45000
+E
+band ring~
+Dearest Valkyrie with this ring I promise to love and honor you forever
+You are the light and beauty that shines in my soul.  I love thee
+Ishalan.
+~
+#1955
+obj membrane leathery obj~
+1
+A leathery membrane~
+A soft sleeve of leather lies discarded here.~
+~
+9 4194304 0 257
+5 0 0 0
+5 100000 75000
+A
+19 4
+A
+18 1
+A
+13 25
+#1956
+obj statue Phelan crystal~
+100
+A torch~
+A crystal statue of &wP&Bh&we&Bl&wa&Bn&n stands here remembering one of the best to ever grace Crimson.~
+~
+8 0 0 0
+0 0 10 0
+5000 5 5
+#1957
+obj Nothing's wedding band~
+1
+&wNothing's &Wplatinum &wand &Ygold &Wwedding &Wband&n~
+&wA ring made of &Wplatinum &wand &Ygold &win the shape of a &rheart&w lies here.&n~
+~
+9 138415169 4 3
+25 0 0 0
+5 207500 19000
+E
+band~
+   &WThis band is a symbol of the ever lasting love of Nothing
+and Peeberoni.&n
+~
+A
+19 3
+A
+18 3
+A
+13 20
+A
+23 -1
+#1958
+obj silencer sword~
+2
+&wThe &KSi&wlenc&Ker&n~
+&WA &csword&W lays on the ground seemingly calling out for your touch.&n~
+~
+5 4196868 0 8193
+524288 10 7 3
+4 12500 22500
+A
+19 4
+A
+18 3
+A
+12 -25
+$~
+#999999

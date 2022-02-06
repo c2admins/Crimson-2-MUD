@@ -1,0 +1,491 @@
+#1200
+mob Goat small bleet~
+a small bleeting goat~
+a small goat bounces about the room
+~
+Seeing as the only ppl looking at this mob will be immortals, Im sure you
+will understand that he has no real desc, so to speak, coz mortals WONT be
+looking at him, now..will they, I mean..how could they? 
+~
+8 1 136249361 128 0 S
+45 10 25 100d125+256000 1d1+1
+0 1
+8 8 1
+0 4 18 12 15 18 15 10
+ATTACK_SKILL=90
+ATTACK_SKILL=90
+ATTACK_SKILL=50
+ATTACK_TYPE=103
+#1201
+mob Braim keeper sword~
+Braim, the sword keeper~
+Braim is here, guarding over the guests swords.
+~
+Briam is trusted with keeping watch over many expensive and powerful
+weapons. He also acts as a doorway guard, attacking anyone who enters his
+room.
+~
+1074044938 1 136249361 128 -100 S
+42 1 -20 1d10+8000 2d40+75
+999999 504000
+8 8 1
+0 0 19 18 14 21 13 21
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_SECOND 70
+#1202
+mob funky test~
+Funky the test mob.~
+Funky the test mob is here wating to be killed.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+10 1 136249361 128 0 S
+20 30 25 100d100+100000 1d1+1
+1 0
+8 8 0
+0 0 16 18 15 15 14 14
+ATTACK_SKILL=70
+ATTACK_SKILL=5
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+#1203
+mob Turakah knight~
+Turakah~
+Turakah is here, looking at you as he polishes his sword.
+~
+Turakah looks up at you with dark sorrow filled eyes. He looks as if he is a
+man who has faced many hardships through his life and expects many more. 
+~
+1074003978 1 136249361 128 -100 S
+41 10 -20 1d1+7654 10d4+40
+750000 369000
+8 8 1
+0 0 19 18 14 21 13 21
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_SECOND 70
+ATTACK_SKILL=75
+ATTACK_SKILL=15
+ATTACK_SKILL=99
+ATTACK_TYPE=103
+#1204
+mob Zaccura Librarian~
+Zaccura the Librarian~
+Zaccura the Librarian is here, reading a fine novel.
+~
+Zaccura is so engrosed in her book that she doesent even notice you enter.
+Strangly enough for a librarian, she looks like quite a good fighter.
+~
+1074003978 1 136249361 128 -100 S
+43 10 25 1d1+12020 10d4+60
+750000 900000
+8 8 2
+1 4 19 18 14 21 13 21
+SKILL=SPELL_FIREBALL 99
+SKILL=SKILL_SECOND 70
+ATTACK_SKILL=80
+ATTACK_SKILL=40
+ATTACK_SKILL=10
+ATTACK_TYPE=100
+ATTACK_SKILL=70
+ATTACK_SKILL=30
+ATTACK_SKILL=99
+ATTACK_TYPE=100
+#1205
+mob Shade~
+A shade~
+Suddenly a shade bites into your warm flesh.
+~
+The shade is made fomr pure shadow and evil magic. You hope that your
+death will be quick and painless.
+~
+1900554 65537 136249361 10 0 S
+45 0 -30 20d10+30000 12d9+44
+1000000 950000
+8 8 0
+0 0 16 18 15 14 14 12
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=107
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=50
+ATTACK_TYPE=107
+#1206
+mob Keymaster~
+The Keymaster~
+The Keymaster is here, polishing his keys.
+~
+A tall man in his late thirtys, you assume he was probally a 
+rouge locksmith before settling down with a honest
+job as the keymaster of the castle.
+~
+262154 1 136249361 128 0 S
+35 10 -10 3d10+2000 6d5+30
+80000 210000
+8 8 1
+0 0 20 18 18 17 16 15
+SKILL=SKILL_BASH 30
+SKILL=SKILL_PARRY 30
+ATTACK_SKILL=80
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=103
+#1207
+mob Dungeon guard Thaan~
+Thaan the dungeon guard~
+The dungeon guard, Thaan, is sleeping here.
+~
+Thaan the dungeon guard is a slob beyond belief. His room is testiment to that.
+~
+262154 32769 136249361 1140981888 0 S
+40 0 -10 44d3+4434 11d3+27
+275000 240000
+8 8 1
+1 0 21 22 21 20 18 19
+ATTACK_SKILL=80
+ATTACK_SKILL=30
+ATTACK_SKILL=10
+ATTACK_TYPE=103
+#1208
+mob Rat dungeon~
+A dungeon rat~
+A small rat is here, frothing at the mouth.
+~
+Its just a rat you tell yourself. You wonder why its eyes glow red.
+~
+16834636 1 136249361 8 -200 S
+5 22 8 3d1+12 1d4+2
+0 800
+8 8 0
+0 0 13 14 12 11 10 9
+#1209
+mob Gite blowing goat blower~
+Gite, the blowing goat~
+The infamous blowing goat, Gite is here being a tosser.
+~
+Yep, its gite and he is PISSED!
+~
+1157890058 32769 136249361 67108936 0 S
+40 0 -10 10d10+9000 10d5+60
+1 240000
+8 8 0
+0 0 17 15 16 16 15 14
+SKILL=SPELL_ACID_BREATH 99
+#1210
+mob Undead groundsman~
+Undead groundsman~
+The revolting remains of the groundsman lays here
+~
+A great evil lies here, he may have died but his soul lives within this body and you have 
+disturbed his protege you will pay for that indiscretion.
+~
+319502 32769 136249361 136 -1000 S
+48 0 -40 100d1+22000 98d10+50
+3500000 1500000
+8 8 0
+0 4 24 24 21 22 22 21
+SKILL=SPELL_BLINDNESS 90
+SKILL=SPELL_COLOUR_SPRAY 90
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_HARM 90
+SKILL=SPELL_POISON 90
+SKILL=SPELL_SLEEP 90
+SKILL=SPELL_FIRE_BREATH 90
+SKILL=SPELL_FROST_BREATH 90
+SKILL=SPELL_HEAL_MINOR 90
+SKILL=SPELL_EARTHQUAKE 90
+#1211
+mob Eel electric~
+the electric eel.~
+a small eel slithers through the water
+~
+The small eel peers back at you through lidless eyes, an you facy seeing
+a small grin creep across its face.....naaah.
+~
+57352 32769 136249361 8 0 S
+17 5 10 12d10+50 5d6+10
+100 5000
+8 8 0
+13 0 16 14 13 19 12 12
+SKILL=SPELL_LIGHTNING_BREATH 80
+#1212
+mob Mikel skeletal knight~
+Sir Mikel, the skeletal knight~
+Sir Mikel the skeletal kinght is here, pacing the room
+~
+Before you stands the once proud Sir Mikel. Once he was one of Lord Soths
+proudest and fineist men, but now all that remains of this once fine warrior
+is a scabrous yellowed skeleton. 
+~
+1308942856 557057 136249393 100663432 0 S
+42 2 -20 10d10+9000 7d9+40
+800000 504000
+8 8 1
+1 1 24 10 10 16 20 6
+SKILL=SKILL_STEAL 80
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=80
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#1213
+mob Tyron skeletal knight~
+Sir Tyron, the skeletal knight~
+Sir Tyron the skeletal knight is here, pacing the room
+~
+Tyron has a smaller stature to the rest of the death knights.
+He is rumoured to have been in league with the Lord of Decay
+of late planning the conquest of Midgaard.
+~
+1308942858 557057 136249393 100663432 0 S
+42 2 -20 10d7+10000 15d15+25
+800000 504000
+8 8 1
+1 1 24 10 10 16 20 6
+SKILL=SKILL_PARRY 60
+SKILL=SKILL_HUNT 99
+ATTACK_SKILL=80
+ATTACK_SKILL=45
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#1214
+mob sebastion skeletal knight~
+Sir Sebastian, the skeletal knight~
+Sir Sebastian, the skeletal knight stands in the corner
+~
+Bits of dried, bloodied cloth cling to Sabastian's gaping ribcage and the 
+remains of what look to be once pricless armor hang feebly around his barrel
+like shoulders. His hollow eyes stare into space as his jaw swings bellow his
+skull resembling what looks to be the blabbering of a madman.
+~
+1241833994 524289 203358225 262280 0 S
+42 0 -15 15d30+9500 15d20+20
+755000 504000
+8 8 1
+1 1 17 18 15 20 20 3
+SKILL=SKILL_HUNT 99
+#1215
+mob Soth lord deathknight~
+Lord Soth, the Deathknight~
+Lord Soth stands here, his arms crossed on his chest
+~
+  Soth, lord of the deathnights and all that is evil. His body is completely covered in a suit
+of blackened platemail, including his face. His eyes are the only body part visible..deep 
+glowing red eyes that feel of pure evil intent. he wields a huge sword, completely covered in
+blood as if it had been used recently, and it looks liek you are next.
+~
+1174724874 1 136249361 262280 0 S
+48 0 -40 100d100+40000 90d10+10
+6500000 1500000
+8 8 1
+0 1 25 24 24 24 24 12
+SKILL=SKILL_HUNT 99
+#1216
+mob Nathan skeletal knight~
+Sir Nathan, the skeletal knight~
+Sir Nathan, the skeletal knight stands quietly in the centre of the room
+~
+Nathan oozes charm like a gangrenous wound oozes puss. You are 
+drawn towards his dark glowing eyes, the way they seem to dance
+infront of you, makes you feel relaxed, almost sleepy, you with
+(wish) you never had to look away...
+~
+168092170 524289 136249361 262280 0 S
+42 0 -16 20d20+9000 20d10+50
+975000 504000
+8 8 1
+1 1 16 16 14 16 15 11
+#1217
+mob Frederick skeletal knight~
+Sir Frederick, the skeletal knight~
+Sir Frederick, the skeletal knight paces the hall
+~
+Sir Frederick continues his watch of the castle is death, just as he would have
+in life. His pacing is slow and jerky and for some reason you feel pity for 
+him as he persists on his mindless task.
+~
+168092170 524289 136249361 262280 0 S
+42 0 -16 100d1+11000 10d30+50
+975000 504000
+8 8 0
+1 1 16 16 14 16 15 11
+#1218
+mob Francis skeletal knight~
+Sir Francis, the skeletal knight~
+Sir Francis, the skeletal knight stands here
+~
+Sir Francis stands in the centre of the room, as still as a statue. Staring
+at him you almost fancy that he will not move and simply let you pass, but
+as you come near his head turns and he fixes you with a stare with is empty
+eye sockets that seem to hold on intelegence.
+~
+168092170 524289 136249361 262280 0 S
+42 0 -16 100d1+11000 38d14+50
+975000 504000
+8 8 0
+1 1 16 16 14 16 15 11
+#1219
+mob Alexander skeletal knight~
+Sir Alexander, the skeletal knight~
+Sir Alexander, the skeletal knight is slumped here
+~
+Sir Alexander appears to be sleeping, his helm rests
+on his chest, his body slumped on the floor.
+
+Suddenly he leaps up at you mouth open, his sharp teeth 
+digging at your neck!
+~
+168092170 524289 136249361 262280 0 S
+42 0 -16 100d1+11000 10d15+50
+975000 500000
+8 8 0
+1 1 16 16 14 16 15 11
+#1220
+mob Erik skeletal knight~
+Sir Erik, the skeletal knight~
+Sir Erik, the skeletal knight waits here
+~
+Sir Erik glares at you maliciously.
+~
+168092170 524289 136249361 262280 0 S
+42 0 -16 100d1+9750 17d17+50
+975000 504000
+8 8 0
+1 1 16 16 14 16 15 11
+#1221
+mob venus fly plant~
+a giant venus fly trap~
+A giant venus fly trap is rooted here
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8454158 2097153 136249361 0 0 S
+20 16 25 7d15+1500 2d10+5
+76 5100
+8 8 0
+0 0 17 15 16 14 13 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=107
+#1222
+mob Banshee ice~
+a Banshee~
+a pale elven woman floats here, she seems to emit a chill aura
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+1108664328 65537 136249361 262280 -1000 S
+41 15 -5 20d10+7650 4d15+10
+775000 370000
+8 8 2
+16 5 16 18 14 14 14 12
+SKILL=SPELL_FROST_BREATH 99
+ATTACK_SKILL=85
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=85
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#1223
+mob Lynch skeletal knight~
+Sir Lynch, the skeletal knight~
+The once noble Sir Lynch is here
+~
+Yep, he's boring alright!
+~
+168092170 524289 136249361 262280 0 S
+42 0 -16 100d1+11000 15d18+30
+975000 500000
+8 8 0
+1 1 16 16 14 16 15 11
+#1224
+mob Gwedian skeletal knight~
+Sir Gwedian, the skeletal knight~
+The horrid skeleton of Sir Gwedian stands here
+~
+Yep, he's boring alright!
+~
+168092170 524289 136249361 262280 0 S
+42 0 -16 100d1+11000 15d18+30
+975000 505000
+8 8 0
+1 1 16 16 14 16 15 11
+#1225
+mob Marcus skeletal knight~
+Sir Marcus, the skeletal knight~
+The animated Sir Marcus stands here
+~
+Yep, he's boring alright!
+~
+168092170 524289 136249361 262280 0 S
+42 0 -16 100d1+10000 25d10+20
+975000 505000
+8 8 0
+1 1 16 16 14 16 15 11
+SKILL=SPELL_FROST_BREATH 20
+SKILL=SPELL_DEMON_FLESH 90
+#1226
+mob Duncan skeletal knight~
+Sir Duncan, the skeletal knight~
+Sir Duncan stands here, seeing all
+~
+Yep, he's boring alright!
+~
+168092170 524289 136249361 262280 0 S
+42 0 -16 100d1+11000 15d15+40
+975000 504000
+8 8 0
+1 1 16 16 14 16 15 11
+#1227
+mob Sheridan skeletal knight~
+Sir Sheridan, the skeletal knight~
+Sir Sheridan, famous in life, deadly in death awaits you
+~
+He was once known for his skill with both the art of magic and the swing
+of his sword, renound over all the land for his fair judgment and swift
+punnishment. Sir Sheridan is now nothing more, no longer good, no longer 
+just, and no longer.....alive.
+~
+1241833994 557057 136249393 262280 0 S
+42 0 -16 100d1+11000 33d10+10
+975000 504000
+8 8 0
+1 1 22 16 16 20 22 6
+SKILL=SPELL_FIRELANCE 75
+#1228
+mob Guard undead nook~
+Nedragaard Keep Guard~
+The undead Nedragaard Keep guard is slumped here
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+1241571850 1 136249393 128 0 S
+41 10 40 20d20+7500 15d20+10
+550000 369000
+8 8 0
+0 0 17 18 16 16 12 11
+#1229
+mob Guard suit armor~
+a Massive fire blackened suit of armor~
+an ornate suit of finely crafted armor stands here
+~
+The armor before you is a set of full plate, normally used for ceremonies as
+for the most part, armor such as this was considered far too cumbersome for
+battle. Its details, however, are amazing, and shows that whomever crafted 
+such a piece loved his craft. All of this hardly matters, however, as the
+armor jerks to life and starts to move towards you. You hope your earlier
+observation about how slow this armor is still holds true.
+~
+57354 32769 136249361 1073741824 0 S
+39 3 -25 10d18+3500 10d10+40
+200000 223456
+8 8 0
+0 0 20 5 5 15 20 5
+$~
+#999999

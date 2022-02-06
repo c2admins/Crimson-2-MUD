@@ -1,0 +1,467 @@
+#2400
+mob Lankoon~
+Lankoon~
+Lankoon is here sitting on his throne of ice.
+~
+Lankoon has come here from a land of ice and snow, to make himself more at
+home he has turned this mountain to ice. His skin is very pale and he does not
+seem to be cold even though you are freezing. he looks very old and wise and
+not someone you should mess with.
+~
+1141149774 5275649 136249393 33816714 -600 S
+45 -20 -25 35d19+14500 33d5+13
+2750000 955750
+8 8 1
+0 0 25 23 21 21 17 16
+SKILL=SPELL_CHILL_TOUCH 85
+SKILL=SPELL_CURE_CRITIC 70
+SKILL=SPELL_FROST_BREATH 78
+ATTACK_SKILL=85
+ATTACK_SKILL=80
+ATTACK_SKILL=40
+ATTACK_TYPE=100
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_SKILL=30
+ATTACK_TYPE=106
+#2401
+mob guard Gate~
+the Gate Guard~
+The Gate Guard does not take his eyes off of you.
+~
+This large guard is here to keep intruders from entering the island. He stares
+at you while lifting his sword from his side, he looks very upset that you
+are here.
+~
+75817546 1 136249393 1107558536 -500 S
+36 12 0 77d19+1000 5d5+20
+42500 340321
+8 8 1
+0 0 25 17 16 15 16 13
+ATTACK_SKILL=60
+ATTACK_SKILL=40
+ATTACK_SKILL=35
+ATTACK_TYPE=103
+#2402
+mob Misery~
+Misery~
+Misery is crouched in the corner of the cage.
+~
+As you look at this abomination you wonder why Agony would want something 
+this repulsive. Maybe it was a mistake that caused this thing that is crouched
+before you. She cowers before you clutching her doll and shivering in the
+corner.
+~
+319566 4194305 136249393 33816712 0 S
+43 -20 -30 28d19+13220 20d5+10
+2000000 815000
+8 8 2
+0 0 25 20 11 10 8 9
+SKILL=SPELL_HEAL_MINOR 85
+ATTACK_SKILL=95
+ATTACK_SKILL=85
+ATTACK_SKILL=70
+ATTACK_TYPE=106
+#2403
+mob soul lost~
+a lost soul~
+A lost soul of a fallen warrior is floating in front of you.
+~
+As you look at the lost soul  the transparent form grins evily at you. Now
+you realize he doesn't know he is dead.
+~
+319564 1343489 136249393 34341002 -1000 S
+40 20 24 10d10+5100 5d5+25
+75000 330983
+8 8 1
+0 0 20 18 16 16 15 13
+SKILL=SKILL_SNEAK 99
+SKILL=SPELL_HEAL_MINOR 60
+SKILL=SPELL_BLACK_BURST 75
+#2404
+mob dog three headed~
+a three headed dog~
+A large three headed dog is here.
+~
+As you look at the dog it's gaze almost looks through you with it's glowing
+red eyes. The dog seems to have many long sharp teeth in its mouth waiting
+to rip you you to shreads. The dogs tail is something else you might want
+to look out for!
+~
+151257932 2129921 136249393 33816584 -600 S
+42 -20 18 1d1+6999 10d10+25
+17250 310322
+8 8 0
+0 0 11 13 11 11 7 10
+SKILL=SKILL_DODGE 50
+SKILL=SKILL_HUNT 80
+ATTACK_SKILL=40
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+ATTACK_SKILL=40
+ATTACK_SKILL=30
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#2405
+mob Agony~
+Agony~
+Agony the demon witch gives you an evil stare as you approach.
+~
+You have found the evil witch Agony, who is the ugliest woman you have ever
+seen, the sight of her almost makes you vomit. She is dressed in all black
+ragged looking clothes and her growling is making your skin crawl. When
+you walked in she seemed to be making some sort of potion, which is
+probably where all the smell was coming from.
+~
+201650766 6324225 136249393 100925576 -1000 S
+45 -25 -30 28d19+13720 30d10+15
+2000000 1599933
+8 8 2
+0 0 20 18 11 11 7 10
+SKILL=SKILL_PARRY 35
+SKILL=SPELL_GAS_BREATH 85
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SKILL_HUNT 95
+SKILL=SPELL_CREMATION 65
+SKILL=SPELL_FIRELANCE 70
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=45
+ATTACK_TYPE=100
+ATTACK_SKILL=80
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_TYPE=106
+#2406
+mob Flagg~
+Flagg~
+The Demon Lord Flagg has been waiting for you!
+~
+Flagg stands here grinning at your foolishness to come before him.  He is one
+of the most grotesque creatures you have ever layed eyes upon and also
+one of the largest.  He seems very confident in his abillity to destroy you
+with no effort and add your body to his collection.
+~
+1141239902 6324225 203358257 33816718 -700 S
+48 -25 -25 100d99+40000 50d3+60
+4200000 1750000
+8 8 1
+0 0 25 21 11 9 10 8
+SKILL=SPELL_ENERGY_DRAIN 75
+SKILL=SPELL_SLEEP 50
+SKILL=SPELL_SUMMON 90
+SKILL=SKILL_DODGE 80
+SKILL=SPELL_FIRE_BREATH 89
+SKILL=SKILL_SECOND 90
+SKILL=SKILL_THIRD 90
+SKILL=SKILL_FOURTH 90
+SKILL=SPELL_HEAL_MAJOR 93
+SKILL=SPELL_MORTICE_FLAME 90
+SKILL=SPELL_FIRESTORM 85
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=90
+ATTACK_SKILL=85
+ATTACK_SKILL=65
+ATTACK_TYPE=100
+ATTACK_SKILL=85
+ATTACK_SKILL=79
+ATTACK_SKILL=60
+ATTACK_TYPE=105
+ATTACK_SKILL=80
+ATTACK_SKILL=75
+ATTACK_SKILL=65
+ATTACK_TYPE=106
+#2407
+mob geek~
+the geek~
+The geek is here eating off of a corpse.
+~
+The geek is the most disgusting creature in all the world. It will eat 
+anything and everything is finds, alive or dead. The geek is covered in blood
+and guts and smells like a sewer.
+~
+67436620 1 136249393 100925448 -700 S
+41 0 24 1d1+5999 3d5+21
+35000 123432
+8 8 0
+0 0 17 16 15 15 15 11
+#2408
+mob dopelganger~
+a dopelganger~
+A dopelganger is stalking it's prey.
+~
+The dopelganger is very tall and very thin with long arms and sharp claws. 
+Its hairless body is covered in pusy bleeding welts.
+~
+67371212 1048577 136249393 100925452 0 S
+41 -5 24 100d9+1000 10d10+5
+5100 212322
+8 8 0
+0 0 17 15 15 15 14 15
+#2409
+mob gargoyle~
+a gargoyle~
+A gargoyle is sitting here looking like a statue.
+~
+The gargoyle sitts motionless, you can't even tell if it is alive or not.
+Having very sharp horns on it small head and even sharper teeth and claws
+it is probably pretty vicious.
+~
+67371102 262145 136249393 100933640 0 S
+41 -10 24 1d1+6999 10d10+5
+5100 254322
+8 8 0
+0 0 17 17 16 16 14 15
+ATTACK_SKILL=95
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=95
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#2410
+mob bat~
+a black bat~
+A black bat is hanging from a glass tree.
+~
+This bat is hanging upside down from a glass tree and looks like it doesn't
+want to be disturbed. Being all black it is hard to make out it's features
+against the black tree.
+~
+67436746 1 136249393 33816584 -10 S
+42 -15 24 1d1+8999 10d10+30
+5100 694323
+8 8 0
+0 0 17 16 15 14 15 14
+#2411
+mob hooded gargoyle~
+a hooded gargoyle~
+A gargoyle is sitting here dressed in a black hooded robe.
+~
+This gargoyle sitts here motionless but its eyes seem to follow you. He is
+dressed in a small black robe that covers most of its body.
+~
+67428426 294913 136249393 33816712 0 S
+45 -20 -28 30d19+11000 20d20+5
+1410000 123420
+8 8 0
+0 0 25 15 15 14 14 12
+SKILL=SPELL_HEAL_MINOR 76
+SKILL=SPELL_HEAL_MAJOR 90
+SKILL=SPELL_MAGIC_IMMUNE 90
+SKILL=SPELL_BLACK_BURST 55
+ATTACK_SKILL=95
+ATTACK_SKILL=25
+ATTACK_SKILL=10
+ATTACK_TYPE=106
+ATTACK_SKILL=95
+ATTACK_SKILL=39
+ATTACK_SKILL=5
+ATTACK_TYPE=105
+#2412
+mob dog two headed~
+a two headed dog~
+A mangy two headed dog is looking at you.
+~
+Yet another mutation that this island holds, the two headed dog. It looks
+pretty gross and smells like it died a while ago, for all you know it did.
+~
+84205644 2097153 136249393 33816584 0 S
+41 -20 24 1d1+6999 15d20+20
+5100 299484
+8 8 0
+0 0 17 16 16 14 13 11
+ATTACK_SKILL=90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2413
+mob vulture~
+a black vulture~
+A large black vulture is perched in a tree.
+~
+The vulture is very black and glares at you as you look at him. It is usually
+flying in search of the recently dead.
+~
+84152394 1 136249393 262144 -25 S
+41 -20 21 1d1+8999 15d20+20
+13000 343121
+8 8 0
+0 0 20 17 15 14 13 11
+#2414
+mob dragon abyss~
+The Abyss dragon~
+The Dragon of the Abyss is here protecting his treasure.
+~
+Before you is the Dragon of the Abyss, a very large black dragon, he sits here
+guarding is treasure. Smoke curls from its huge nostrils making a horrible
+smell and it burns your eyes. The dragons scales look very tough and hard
+damage if you were to hit them.
+~
+72613962 4227073 136249393 33816712 -300 S
+44 -25 -22 35d19+11000 20d20+20
+714000 1232199
+8 8 0
+0 0 25 15 14 15 13 15
+SKILL=SPELL_FIRE_BREATH 95
+SKILL=SPELL_HEAL_MINOR 75
+ATTACK_SKILL=85
+ATTACK_SKILL=70
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+#2415
+mob gargoyle ice~
+the ice gargoyle~
+An ice statue of a gargoyle has been made here.
+~
+The ice gargoyle looks very fragile and it seems it would shatter if you hit
+it hard enough.
+~
+67371082 4227073 136249393 262272 0 S
+41 -20 24 1d1+4999 10d10+10
+5100 211234
+8 8 0
+0 0 17 16 16 16 12 11
+SKILL=SPELL_CHILL_TOUCH 85
+SKILL=SPELL_FROST_BREATH 95
+ATTACK_SKILL=80
+ATTACK_SKILL=75
+ATTACK_SKILL=60
+ATTACK_TYPE=100
+#2416
+mob weresnake~
+the weresnake~
+A weresnake growls at you as you approch.
+~
+Looking at the weresnake you realize that it is a large snake with the head
+of a wolf. It doen't look like anything you want to play with as it growls
+at you.
+~
+67436622 2097153 136249393 33816584 0 S
+41 0 5 1d1+5999 10d10+20
+30000 211234
+8 8 0
+0 0 21 17 15 16 12 14
+ATTACK_SKILL=75
+ATTACK_SKILL=70
+ATTACK_SKILL=45
+ATTACK_TYPE=106
+#2417
+mob Ladondra~
+Ladondra~
+The goddess Ladondra has been waiting for you to arrive.
+~
+The goddess Landondra is the most beautiful women you have ever seen and as
+you look at her you fall in love. She is dressed all in white and her hair
+flows down her back. As you look into her eyes you feel very peaceful and
+a warm glow fills your body.
+~
+67371082 4227073 136249393 33816704 0 S
+50 0 -30 100d100+100000 80d10+30
+5000000 2500000
+8 8 2
+0 0 25 25 25 25 25 25
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_FIRESTORM 99
+ATTACK_SKILL=50
+ATTACK_SKILL=40
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=80
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#2418
+mob morg~
+the morg~
+A morg stands here hoping you will leave him alone.
+~
+The morg is a very hairy forest dweller that likes to keep to itself , but
+if attacked will become very vicious.
+~
+67371080 1 136249393 33816712 0 S
+41 13 5 1d1+3432 10d10+15
+30000 192453
+8 8 0
+0 0 24 17 14 14 12 14
+ATTACK_SKILL=60
+ATTACK_SKILL=50
+ATTACK_SKILL=49
+ATTACK_TYPE=105
+#2419
+mob Anrep~
+Anrep~
+Anrep is sitting in the corner.
+~
+Before you is a very old man, he looks almost dead or will die any second.
+~
+67375182 6324225 136249393 101974152 0 S
+47 0 -25 50d19+21000 20d16+20
+3150000 1300000
+8 8 0
+0 0 20 18 11 11 7 10
+SKILL=SKILL_PARRY 35
+SKILL=SPELL_GAS_BREATH 85
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_CREMATION 65
+SKILL=SPELL_FIRELANCE 70
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=99
+ATTACK_SKILL=67
+ATTACK_SKILL=39
+ATTACK_TYPE=100
+ATTACK_SKILL=95
+ATTACK_SKILL=80
+ATTACK_SKILL=40
+ATTACK_TYPE=108
+#2420
+mob corpse walking~
+the walking corpse~
+A smelly rotting corpse is walking towards you.
+~
+You see a corpse covered in a death shroud leaving a trail of rotting skin
+behind him.
+~
+33816648 1 136249393 262144 0 S
+41 -20 24 1d1+3999 10d10+25
+5100 193432
+8 8 0
+0 0 16 17 14 15 15 15
+#2421
+mob bartender~
+the bartender~
+The bartender is waiting for your order.
+~
+The bartender is skilled in the making of every drink known to man.
+~
+604241994 4194305 136249393 262144 0 S
+20 20 24 60d19+1000 3d3+25
+5100 60666
+8 8 0
+0 0 16 18 15 14 14 14
+#2422
+mob weasel~
+a weasel~
+A large weasel is looking at you and seems to be drooling.
+~
+This weasel looks more like a giant gross rat but is deffenitly a weasel. It
+has really large sharp teeth and he looks real hungry.
+~
+17104974 4194305 136249393 33816588 0 S
+41 20 24 80d19+800 6d5+14
+5100 61275
+8 8 0
+0 0 16 17 14 15 15 15
+$~
+#999999

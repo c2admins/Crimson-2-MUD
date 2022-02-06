@@ -1,0 +1,486 @@
+#12400
+mob flutterance, the oracle~
+&yFl&gut&Gt&We&Gr&gan&yce&n, &yThe Oracle&n~
+&yFl&gut&Gt&We&Gr&gan&yce&g, &yThe Oracle is wandering about contemplating life's mysteries.&n
+~
+&yShe is the oracle of &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa&y and she has come to her favorite spot to contemplate life's mysteries.  She is dressed in a long flowing sage &ggreen&y gown and an earthy brown cape.  Around her neck you spot a &wchrysalis &ykey.  Remember she sees and knows all.&n
+~
+1141121036 1310721 136249393 1677983934 0 S
+45 1 -32 100d10+30000 25d25+75
+2000000 945000
+8 8 2
+0 0 22 22 22 22 22 22
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_HEAL_MEDIUM 75
+SKILL=SPELL_FIRESTORM 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12401
+mob crawling ivy~
+&gCrawling &GIvy&n~
+&gCrawling &GIvy&n
+~
+&gStrangling &Gvines &gthat &Gprevent &gyou &Gfrom &gproceeding &Gforward&n
+~
+134341194 1 136249361 40 0 S
+40 3 -22 25d4+400 10d10+8
+50000 50000
+8 8 0
+0 0 17 17 15 15 15 12
+SKILL=SPELL_ENERGY_DRAIN 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=104
+ATTACK_SKILL=40
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12402
+mob Ivy, Goddess of Fidelity~
+&GI&gv&Gy&g, &gG&Go&gd&Wd&ge&Gs&gs&n &Gof &gF&Gid&Wel&Git&gy&n~
+&GI&gv&Gy&g, &gG&Go&gd&Wd&ge&Gs&gs&n &Gof &gF&Gid&Wel&Git&gy&n
+~
+&gI&Gv&gy&n &ysits upon a &gthrone&y made of &Gvines&y mourning the loss her one true &rlove&y, &KT&wy&Ww&Gr&Wo&wt&Kh&n. &y He swore his &rheart&y to her and only her, then he met &KAr&ra&Rc&rh&Kne&y and his &rheart&y no longer belonged to &gI&Gv&gy&y.  With her &Kanger&y and &bhurt&y she has now sworn to help all women make men who are unfaithful...&rpay&y!&n 
+~
+1342439434 1081345 136249393 100663468 0 S
+48 2 -35 100d10+49000 15d5+70
+3000000 2000000
+8 8 2
+0 0 22 22 22 22 22 22
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#12403
+mob Maricella~
+&cMa&Cri&Wc&Cel&cla, E&Cmp&Wr&Ces&cs &Wof &CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n~
+&cMa&Cri&Wc&Cel&cla, E&Cmp&Wr&Ces&cs &Wof &CL&Wa&Cgo &Wdi &cMe&Cl&Wo&Cd&cia&n
+~
+&wYou are looking at the evasive &cme&Cr&Wm&Ca&cid&W of &CL&Wa&Cgo &Wde &cMe&Cl&Wo&Cd&cia&w, she is the empress of this lake.  All her people have moved on to other bodies of &Cwater&w, but she has decided to stay behind and be the guardian of all that dwell beneath this &Cmes&cm&Weri&cz&Cing&w lake.&n
+~
+67149834 1343489 136249361 1677721772 0 S
+48 0 -35 1d1+52000 35d15+70
+3500000 1400000
+8 8 2
+0 0 22 22 22 22 22 22
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#12404
+mob Angel Fish~
+&KA&Wn&Yg&We&Kl &WF&Yi&Ks&Wh&n~
+&KA&Wn&Yg&We&Kl &WF&Yi&Ks&Wh &Kis swimming here.&n
+~
+&wIt's a fish. It's &Kblack, &Yyellow &wand &Wwhite&w.  What did you expect for a description??&n
+~
+17039368 1 136253457 0 0 S
+45 0 40 1d1+21999 25d10+99
+1500000 1500000
+8 8 0
+0 0 17 18 16 15 12 15
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12405
+mob starfish~
+&BSa&bp&Wph&bi&Bre &bB&Bl&Wu&be &BS&bt&Ba&br&Bfish&n~
+&BSa&bp&Wph&bi&Bre &bB&Bl&Wu&be &BS&bt&Ba&br&Bfish&w is swimming here.&n
+~
+&BIt's &bso &Bpretty, &boh, &Bso &bpretty &Band &bblue!&n
+~
+16777224 1 136249361 67109024 0 S
+41 2 -10 1d1+7499 20d3+40
+500000 500000
+8 8 0
+0 0 17 15 15 16 13 13
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12406
+mob Sinfonia~
+&KSi&Wn&Kfo&Wn&Kia, &WGo&Kd&wd&Ke&Wss &wof &KM&Wu&Ksi&Wc&Ka &Wdi &KJ&Wa&Kzz&n~
+&KSi&Wn&Kfo&Wn&Kia, &WGo&Kd&wd&Ke&Wss &wof &KM&Wu&Ksi&Wc&Ka &Wdi &KJ&Wa&Kzz&n
+~
+&wShe is a woman of &Kuni&Wm&Kagi&Wn&Kable&w beauty.  Long &Kraven&w colored hair that hangs past her waist.  She is dressed in a short, fitted, &Kh&Wa&Kr&Wl&Ke&Wq&Ku&Wi&Kn&w print gown.  On her face she wears a &Kblack &Wv&Kelve&Wt&w &Kb&Wut&Kter&Wfl&Ky &Wcarnival &Kmask&w.  She is the &Wgo&Kd&wd&Ke&Wss&w of &Kj&Wa&Kzz&w.  Always the &Kmystery&w, Always the &Wlife&w of the party.&n
+~
+303114 32769 136249361 67109004 0 S
+43 1 -28 50d50+20000 10d10+40
+1500000 1200000
+8 8 0
+0 0 20 18 15 15 15 15
+SKILL=SPELL_ENERGY_DRAIN 99
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_SILENCE 99
+#12407
+mob Arethatina~
+&YAr&yet&Yha&yti&Yna, &yG&Yod&yd&Yes&ys &Yof &yM&Yu&ysi&Yc&ya &Ydi &yS&You&yl&n~
+&YAr&yet&Yha&yti&Yna, &yG&Yod&yd&Yes&ys &Yof &yM&Yu&ysi&Yc&ya &Ydi &yS&You&yl&n
+~
+&wA &Yst&yat&Ye&ysq&Yue&w beauty with hair the color of spun &yg&Yo&yl&Yd&w.  She wears a flowing &Wwhite&w gown edged in &Yg&yo&Yl&yd&Ye&yn&w embroidery thread.  She &yfl&Yoa&yts&w about this room as if she is &yda&Ynci&yng&w on air.  Her &Yc&yha&Yrm &ybr&Ya&yce&Yl&yet&w of musical &Yn&yo&Yt&ye&Ys&w keeps rhythm with the soulful beats.  Can't you &Yh&ye&Yar&w it?  &Y*&ych&Yi&yng&w...&ych&Yi&yng&Y*&w
+~
+303114 1 136249361 67109004 0 S
+43 1 -34 50d50+21000 10d10+40
+1500000 1200000
+8 8 0
+0 0 17 18 14 15 14 11
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_SILENCE 99
+#12408
+mob Zaffira ~
+&BZa&bf&Wf&bi&Bra, &bGod&Bd&Wd&Be&bss &Wof &BM&bu&Wsi&bc&Ba &Wdi &bB&Bl&beu&n~
+&BZa&bf&Wf&bi&Bra, &bGod&Bd&Wd&Be&bss &Wof &BM&bu&Wsi&bc&Ba &Wdi &bB&Bl&beu&n
+~
+&wShe is a &br&Bav&Wish&Bin&bg&w beauty with long &Yblonde&w hair and big &Bb&bl&Bu&be&w eyes.  Dressed in a deep &bnavy&B blue&w, velvet gown that is trimmed in &Wsi&wlv&Wer &wcr&Wyst&wal &Wtea&wrdr&Wops&w.  She creates the &Bm&b&Wus&bi&Bc&w that makes the whole world &Bc&Wr&By&w.  But, it is a balance that must be &Bma&bin&Wta&bin&Bed&w..happy times and &Bs&ba&Bd&w times.  She glances at you and then with a &bf&Bor&Wl&Bor&bn&w expression and &Wt&we&Wa&wr&n drop down her face goes back to her &Bs&bh&We&be&Bt&w music.&n
+~
+40970 1081345 136249361 67371180 0 S
+43 1 -34 50d50+20000 10d10+40
+1500000 1200000
+8 8 2
+0 0 20 16 15 14 13 11
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#12409
+mob Viola~
+&pVi&wo&pla, &wGo&pd&wd&pe&wss &pof &wMu&psi&wca &pdi &wC&pla&wss&pic&wo&n~
+&pVi&wo&pla, &wGo&pd&wd&pe&wss &pof &wMu&psi&wca &pdi &wC&pla&wss&pic&wo&n
+~
+&wShe is an &pal&wl&pur&wi&png&w woman with shoulder length &ra&Ru&rb&Ru&rr&Rn&w hair and &pviolet&w eyes. Adorned in a flowing &Wwhite&w gown with a &pamethyst&w encrusted &ym&Yu&ys&Yi&yc&Ya&yl&w note belt around her waist.  Possibly a &pth&wan&pk&w you gift from one of the many &pcl&was&psi&pca&wl composers that have requested her help with a great &pmas&wt&perp&wi&pece&w of music.&n 
+~
+40970 1048577 136249393 67371148 0 S
+43 1 -34 50d50+20000 10d10+40
+1500000 1200000
+8 8 2
+0 0 20 16 16 15 15 14
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12410
+mob Black Widow Spider~
+&KBl&Ra&Kck W&Ri&Kdow Sp&Ri&Kder&n~
+&KBl&Ra&Kck Wi&Rd&Kow Sp&Ri&Kder&n
+~
+&wYou see a &KBl&Ra&Kck Wi&Rd&Kow Sp&Ri&Kder&w sitting on her web, waiting for her next meal..err...unlucky &Rv&ri&Rc&rt&Ri&rm&w to get caught.&n
+~
+16777226 1048577 136249361 128 0 S
+45 0 -30 1d1+31000 28d5+74
+1500000 950000
+8 8 0
+0 0 24 22 14 14 14 11
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12411
+mob Arachne~
+&KAr&ra&Rc&rh&Kne, &KEm&rp&Rr&re&Kss &rof &KB&rl&Ra&rc&Kk &KW&ri&Rd&ro&Kw &KSp&ri&Rd&re&Krs&n~
+&KAr&ra&Rc&rh&Kne, &KEm&rp&Rr&re&Kss &rof &KB&rl&Ra&rc&Kk &KW&ri&Rd&ro&Kw &KSp&ri&Rd&re&Krs&n
+~
+&wA &Kmys&Rt&rif&Ry&King&w woman of stunning beauty.  With hair and eyes as &Kblack&w as night she seems to see into your &Wsoul&w.  She wears a strapless &Kblack&w leather corset that flows into a long &Kblack&w skirt with &rblood &Rred&w embroidery on the edges.  On her left arm she bears the mark of &KEm&rp&Rr&re&Kss&w, a&K b&rl&Ra&rc&Kk w&ri&Rd&ro&Kw sp&Ri&Kder t&ra&Rtt&ro&Ko&w.  Also, around her neck is a &Rr&re&Rd&w hour glass pendant that says it's your time to &Rd&ri&Re&w!&n
+~
+134258698 1146881 136249361 67109036 0 S
+48 0 -40 5d10+45000 25d30+50
+2000000 1500000
+8 8 2
+0 0 24 24 24 24 24 24
+SKILL=SPELL_POISON 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_RAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12412
+mob dewina~
+&GD&Pe&Wwi&Pn&Ga&n, &PEm&Gp&Wr&Ge&Pss&W of the &GMo&Pr&Wn&Pi&Gng &PD&We&Pw&n~
+&GD&Pe&Wwi&Pn&Ga&n, &PEm&Gp&Wr&Ge&Pss&W of the &GMo&Pr&Wn&Pi&Gng &PD&We&Pw&n
+~
+&wThis woman before you has &ybrown&w hair, that is long and wild.  She is dressed in an &Wwhite&w velvet gown that is adorned with &Ppink&w crystal &Pbu&Wtt&Per&Wfl&Pie&Ws&w.  She has &Wwhite&w wings that are &Ppink&w tipped.  She makes the world &Pa&Wne&Pw&w with a fresh layering of morning &Cdew&w.  It is her way of protecting all things.  Maybe she will share her &Psp&Weci&Pal&w gift with you.&n
+~
+40970 1048577 136249361 67387548 0 S
+47 0 -40 1d1+32999 25d25+50
+1750000 2500000
+8 8 0
+0 0 25 17 15 25 15 11
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12413
+mob butterfly~
+&pC&Bo&Gl&Yo&Rr&rf&Pu&pl&B &GB&Yu&Rt&rt&Pe&pr&Bf&Gl&Yy&n~
+&pC&Bo&Gl&Yo&Rr&rf&Pu&pl&B &GB&Yu&Rt&rt&Pe&pr&Bf&Gl&Yy&n
+~
+&wYou see a pretty &pb&Bu&Gt&Yt&Re&rr&Pf&pl&By&w.  Do you really want to kill it??&n
+~
+16777224 2129921 136249393 67125280 0 S
+48 0 -30 1d1+34999 36d10+99
+750000 1100000
+8 8 0
+0 0 22 22 22 22 22 22
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#12414
+mob Serafina~
+&PSe&Cr&Yaf&Ci&Pna&w, &CMi&Ys&Ptr&Ye&Css&w of &YS&Pp&Cri&Pn&Yg&n~
+&PSe&Cr&Yaf&Ci&Pna&W, &CMi&Ys&Ptr&Ye&Css &Wof &YS&Pp&Cri&Pn&Yg&n
+~
+&wShe is a young girl on the &Wpeak&w of womanhood.  She has long &Yblond&w hair held back from her face with a &Ppink &Wcrystal &Pbutterfly&w barrette and big &Cblue&w eyes.  She is dressed in a &Wshimmering&P pink &Ys&Pp&Cri&Pn&Yg&w dress.  She looks at the world with &Pawe, &Cwonder&w and great &Yhope&w.  Don't you wish you could be &Py&Co&Yu&Cn&Pg&w again?&n
+~
+40974 1048577 136249393 603979948 0 S
+48 0 -40 1d1+35999 10d10+99
+5000000 1000000
+8 8 2
+0 0 25 25 25 25 25 25
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#12415
+mob claire~
+&rC&Rl&Yai&Rr&re&K, &RMi&Ys&rtr&Ye&Rss &Kof &YA&ru&Rtu&rm&Yn&n~
+&rC&Rl&Yai&Rr&re&K, &RMi&Ys&rtr&Ye&Rss &Kof &YA&ru&Rtu&rm&Yn&n
+~
+&KBefore stands a confident woman.  She has long &Rr&re&Rd&K hair and is wearing a black velvet floor length gown trimmed in &Ya&ru&Rtu&rm&Yn&K colored &Rl&re&Yav&re&Rs&K.  She once was a great &rwarrior&K in her father's kingdom, but she has left the fighting to the young.  The only piece she carries with her where every she goes is her &rb&Ra&Ytt&Rl&re&K shield.  It has proved to be a great protector.  May you find something just as nice.&n
+~
+40974 1048577 136249393 603979948 0 S
+48 0 -40 1d1+35999 10d10+99
+1000000 1000000
+8 8 2
+0 0 25 25 25 25 25 25
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#12416
+mob Virginia~
+&GVi&Yr&Wgi&Yn&Gia&W, &YMi&Gs&Wtr&Ge&Yss &Wof &GS&Yu&Wmm&Ye&Gr&n~
+&GVi&Yr&Wgi&Yn&Gia&W, &YMi&Gs&Wtr&Ge&Yss &Wof &GS&Yu&Wmm&Ye&Gr&n
+~
+&wBefore you stands a woman with &Gnatural&w beauty.  She has short &Kblackish&w-&ybrown&w hair and dark &ybrown&w eyes.  She is dressed in a short &Yyellow &Gsummer &Wdress.&w  Just like a &Ccool&w summer breeze, she evokes an aura of &Wcalmness&w to all she meets.&n
+~
+40974 1048577 136249393 603979948 0 S
+48 0 -40 1d1+35999 10d10+99
+1000000 1000000
+8 8 0
+0 0 25 25 25 25 25 25
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#12417
+mob Emilia~
+&cE&Cm&wil&Ci&ca&K, &cM&Ci&Ks&wtr&Ke&Cs&cs &Kof &cW&Ci&wnt&Ce&cr&n~
+&cE&Cm&wil&Ci&ca, &cM&Ci&Ks&wtr&Ke&Cs&cs &Kof &cW&Ci&wnt&Ce&cr&n
+~
+&wThrough her years she has maintained her beauty.  She is dressed in a &Wwhite&w velvet gown that is adorned with &ra&Ru&Y&Gr&Bo&pr&Pa &rb&Ro&Yr&Ge&Ba&pl&Pi&rs&n crystals in the shape of &Wsnowflakes&w.  She has long flowing &Kgray&w hair and sky &Cblue&w eyes.  She once was a renowned &Ysorceress&w, but now her time has come to pass from this world.  She holds her &cs&Ct&Wa&Cf&cf&w close and begins to sing a long forgotten &Cl&cu&Kl&wl&Ka&cb&Cy&w.  She stops and looks at you and knows it is you who brings her &rdeath!&n
+~
+40974 1048577 136249393 603979948 0 S
+48 0 -40 1d1+35999 10d10+99
+1000000 1000000
+8 8 2
+0 0 25 25 25 25 25 25
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+#12418
+mob Corragia~
+&rC&Ro&yr&Kra&yg&Ri&ra, E&Rm&yp&Kr&ye&Rs&rs &ydi &rC&Ro&yu&Kr&ya&Rg&re&n~
+&rC&Ro&yr&Kra&yg&Ri&ra, E&Rm&yp&Kr&ye&Rs&rs &ydi &rC&Ro&yu&Kr&ya&Rg&re&n
+~
+&KShe is a woman of small stature.  So, it is hard to believe she is the &Wwoman&K from all the paintings on the wall.  She has been very &rvictorious&K in her battles, no matter the size of the foe.  She believes in teaching every person that they do have the &Rcourage&K to obtain victory over all their obstacles.  Do you &ybelieve&K?&n
+~
+40970 32769 136249361 603979948 0 S
+44 0 -40 1d1+24999 25d25+50
+1500000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+#12419
+mob Verita~
+&WV&Ge&gr&Gi&wt&Wa&g, &WE&wm&Gp&gr&Ge&ws&Ws &gdi &WT&Gr&gu&Gt&Wh&n~
+&WV&Ge&gr&Gi&wt&Wa&g, &WE&wm&Gp&gr&Ge&ws&Ws &gdi &WT&Gr&gu&Gt&Wh&n
+~
+&wA pretty &Wwoman&w of mature age.  She believes in the &Gtruth&w and nothing but the &gtruth&w.  Dressed in a &Gg&gr&Ge&ge&Gn&w velvet renaissance gown that matches her &ggreen &Gemerald&w eyes.  As she runs a hand through her &Rauburn &whair you notice her &Gr&Kin&Gg&w.  It glows with an &Geerie&w light.&n
+~
+40970 32769 136249361 603979948 0 S
+44 0 -40 1d1+24999 25d25+50
+1000000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+#12420
+mob Moraita~
+&WM&Bo&br&Ka&bi&Bt&Wa&w'&K, &WE&Bm&bp&Kr&be&Bs&Ws &Kdi &WM&Bo&bra&Bl&Ws&n~
+&WM&Bo&br&Ka&bi&Bt&Wa&w'&K, &WE&Bm&bp&Kr&be&Bs&Ws &Kdi &WM&Bo&bra&Bl&Ws&n
+~
+&KFloating about the &broom&K, this woman is waiting to take you on your &Bjourney&K.  She will show you the right &Wpaths&K to take.  She slips a &bcloak&K around your shoulders and grabs your hand.  Your &Bjourney&K has begun.&n
+~
+40970 32769 136249361 603979948 0 S
+44 0 -40 1d1+24999 25d25+50
+1000000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+#12421
+mob Fortunia~
+&WF&Yo&yr&wtu&yn&Yi&Wa&w, &WE&Ym&yp&wr&ye&Ys&Ws &wdi &WPr&Yo&ys&wpe&yr&Yi&Wty&n~
+&WF&Yo&yr&wtu&yn&Yi&Wa&w, &WE&Ym&yp&wr&ye&Ys&Ws &wdi &WPr&Yo&ys&wpe&yr&Yi&Wty&n
+~
+&yA very &Kold&y woman who has seen the &Ybeauty&y and hardships that &Wlife&y has to offer.  She does not have much in the way of &Ywealth&y.  But what she does have is the &Wgift&y of showing the people she meets what is &Ytruly&y worthwhile.&n
+~
+40970 32769 136249361 603979948 0 S
+44 0 40 1d1+24999 25d25+50
+1000000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+#12422
+mob Halo~
+&CH&Wal&Co&c, &WGu&ca&Crd&ci&Wan &cof &Wthe &cP&Cas&Ws&Cag&ce&n~
+&CH&Wal&Co&c, &WGu&ca&Crd&ci&Wan &cof &Wthe &cP&Cas&Ws&Cag&ce&n
+~
+&cShe stands over 6 feet &Wtall&c and is dressed from head to toe in &Wwhite&c armor.  Her face
+shows no &Wemotion&c until you take a step towards the &Wdoor&c.  Then she gives a &Wlaugh&c
+and says, "You'll have to &Wkill&c me first!"&n
+
+~
+40974 1048577 136249393 603979948 0 S
+48 0 -40 1d1+35999 10d10+99
+1000000 1000000
+8 8 2
+0 0 25 25 25 25 25 25
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=106
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_TYPE=105
+#12423
+mob Saggezza~
+&pSa&Pg&Wge&Pz&pza&W, &pEm&Pp&Wr&Pe&pss &Wdi &pW&Pi&Wsd&Po&pm&n~
+&pSa&Pg&Wge&Pz&pza&W, &pEm&Pp&Wr&Pe&pss &Wdi &pW&Pi&Wsd&Po&pm&n
+~
+&pA very old &Wwoman&p full of &Pwisdom&p and &Kknowledge&p.  She has spent her many years traveling the world gathering all the &Wanswers&p she could find.  Then she came upon &pB&Pe&Kl&wl&Wo T&we&Kr&Pr&pa and decided to make this place  her home.  She has read all the &Pbooks&p in this place, but one book is her's and her's alone.  Maybe, if you are &Wnice&p she will let you take a peek inside.&n
+~
+40970 32769 136249361 603979948 0 S
+44 0 -40 1d1+24999 25d25+50
+1000000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+#12424
+mob Giustizia~
+&rGi&Ru&Ks&Wt&Ki&Rz&ria&K, &rE&Rm&Kp&Wr&Ke&Rs&rs &Kdi &rJ&Ru&Ks&Wt&Ki&Rc&re&n~
+&rGi&Ru&Ks&Wt&Ki&Rz&ria&K, &rE&Rm&Kp&Wr&Ke&Rs&rs &Kdi &rJ&Ru&Ks&Wt&Ki&Rc&re&n
+~
+&KThis woman is &rstern&K to the core, but is &Wbeautiful&K nonetheless.  Her &Rreddish&K-&ybrown&K hair is tied back in bun. Her &Wlight&K colored &Ggreen&K eyes penetrate your &Wsoul&K.  She wears a black judge's robe and she firmly believes in the &rs&Rc&Ka&Wl&Re&rs &Wof &rj&Ru&Ks&Wt&Ki&Rc&re&K.&n  
+~
+40970 32769 136249361 603979948 0 S
+44 0 -40 1d1+24999 25d25+50
+1000000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+#12425
+mob Felicita'~
+&CFe&Kl&Wic&Ki&Cta&W'&K, &CE&Km&Wp&Wr&we&Ks&Cs &Kof &Cha&Kp&wp&Wi&wn&Ke&Css&n~
+&CFe&Kl&Wic&Ki&Cta&W'&K, &CE&Km&Wp&Wr&we&Ks&Cs &Kof &Cha&Kp&wp&Wi&wn&Ke&Css&n
+~
+&wShe is &Cperfect&w in every way, the girl of your &Wdreams&w.  &CRavishing&w and &cgraceful&w, she appears to &Wfloat&w about.  On her shoulder is a little &Cb&Kl&wu&Ce &Cb&wi&Kr&Cd&w and he is singing the &Wprettiest&w song.&n
+~
+40970 32769 136249361 603979948 0 S
+44 0 -30 1d1+24999 25d25+50
+1000000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+#12426
+mob Fiducia, Empress of Confidence~
+&pF&Ki&wd&Wu&wc&Ki&pa&K, &pE&Km&wp&Wr&we&Ks&ps &Kof &pCo&Knf&Wid&Ken&pce&n~
+&pF&Ki&wd&Wu&wc&Ki&pa&K, &pE&Km&wp&Wr&we&Ks&ps &Kof &pCo&Knf&Wid&Ken&pce&n
+~
+&pShe is your biggest &Kfan&p.  She knows all your &Wsecrets&p, &KYES&p all of them.  She has waited along time to &wmeet&p you.  Won't you stay awhile and &Wtalk&p to her?  Maybe even sign a &Kpicture&p or two.&n
+~
+40970 32769 136249361 603979948 0 S
+44 0 -40 1d1+24999 25d25+50
+1000000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+#12427
+mob Speranza~
+&KSp&we&Wra&wn&Kza&K, Em&wp&Wr&we&Kss &wof &KH&Wo&Kpe&n ~
+&KSp&we&Wra&wn&Kza&K, Em&wp&Wr&we&Kss &wof &KH&Wo&Kpe&n 
+~
+&KThis &wwoman &Wis &Kso &wcaught &Wup &Kin &wlistening &Wto &Kother &wpeople's &Kwishes, &wdreams &Wand &Khopes, &wthat &Wshe &Kdoesn't &wsee &Wyou &wcome &Win.  &KHer &whope &Wis &Kto &wmake &Weveryone &Khappy &wand &Wshe &Kis &wvery &Wgood &Kat &wher &Wjob.&n
+~
+40970 32769 136249361 603979948 0 S
+44 0 -40 1d1+24999 25d25+50
+1000000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+#12428
+mob Pazenza'~
+&KPa&Pz&We&Pn&Kza&W'&K, &KEm&Pp&Wr&Pe&Kss &Wof &KPa&Pt&Wie&Pn&Kce&n~
+&KPa&Pz&We&Pn&Kza&W'&K, &KEm&Pp&Wr&Pe&Kss &Wof &KPa&Pt&Wie&Pn&Kce&n
+~
+&WA whisper of a woman &Pdances&W across your vision.  She fans the &Kcalming&W sounds your way.  She &Psmiles&W as she watches all your muscle begin to relax and you to begin to crack a complacent &Ksmile.&n
+~
+40970 32769 136249361 603979948 0 S
+44 0 -40 1d1+24999 25d25+50
+1000000 925000
+8 8 2
+0 0 22 22 22 22 22 22
+$~
+#999999

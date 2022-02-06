@@ -1,0 +1,134 @@
+#4400
+obj lazar baltazar sword~
+6
+&KBaltazar's &wsw&Wo&wrd&n~
+A long, sigla-inscribed swords lies here.~
+~
+5 4194308 0 24577
+131072 6 10 3
+4 250000 50000
+A
+19 3
+A
+18 4
+#4401
+obj lazar midnight robe~
+3
+&Ka mid&wni&Kght black r&wob&Ke&n~
+A midnight black robe is lying on the ground here.~
+~
+15 4194308 0 1025
+500 0 0 0
+5 250000 50000
+A
+19 4
+#4402
+obj lazar midnight sandals~
+5
+&Ka &wp&Kai&wr &Kof mid&wni&Kght black &ws&Kandal&ws&n~
+A pair of sandals lays here.~
+~
+9 4194308 0 65
+10 0 0 0
+5 250000 50000
+A
+19 3
+A
+18 1
+#4403
+obj lazar jonathon dagger~
+2
+&wDagger &Kof the &YL&waza&Yr&n~
+A small dagger lies here.~
+~
+5 4194308 0 24577
+8389632 8 5 11
+5 250000 50000
+A
+19 3
+A
+18 1
+A
+13 -10
+#4404
+obj lazar phantasm cloak~
+5
+&SP&Sha&Snt&Sas&Sm &ycloak&n~
+A cloak lies here, it resembles a floating soul.~
+~
+9 4194308 0 1029
+0 0 0 0
+5 250000 50000
+A
+19 4
+#4405
+obj lazar phantasm sword~
+5
+&SP&Sha&Snt&Sas&Sm &Ksword&n~
+A sword lies here, it seems to resemble a floating soul.~
+~
+5 4194320 0 8197
+32 5 11 3
+5 250000 50000
+A
+19 3
+#4406
+obj lazar tattered robe~
+8
+&ya tat&wte&yre&wd &yrobe&n~
+A torn and tattered robe lies here.~
+~
+9 4194320 0 1025
+20 0 0 0
+5 250000 50000
+A
+19 3
+A
+13 -5
+A
+12 30
+#4407
+obj lazar kleitus dagger~
+2
+&YK&Kleitu&Ys&K's &wDagger&n~
+The dagger of a Necromancer lies here.~
+~
+5 4194308 0 8193
+4196352 3 12 11
+1 125000 12000
+A
+18 2
+A
+19 2
+#4408
+obj lazar necromancer robe~
+5
+&KNecr&Boman&Kcer's Robe&n~
+A black flowing robe is lying here.~
+~
+9 4194304 0 1025
+15 0 0 0
+1 140000 25000
+A
+19 3
+A
+18 3
+#4409
+obj don't load plz thx~
+1
+&Kmid&wkni&Kght &wgauntlets&n~
+A pair of dark, shadowy gauntlets are lying here, etched with a 'B'.~
+~
+9 4194820 0 129
+5 0 0 0
+1 5 5
+A
+19 4
+A
+18 3
+A
+12 10
+A
+13 -20
+$~
+#999999

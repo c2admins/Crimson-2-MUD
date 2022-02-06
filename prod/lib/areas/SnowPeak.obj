@@ -1,0 +1,120 @@
+#4955
+obj journal~
+100
+a journal~
+a small journal lies here, only one final entry remains in it.~
+~
+1 0 0 0
+0 0 0 0
+1 5 5
+#4956
+obj snowpeak sword fears~
+2
+&K]===={|||||F&we&Ka&wr&K||||}>&n~
+The sword you fear most haunts you~
+~
+5 4194628 0 8193
+67584 9 5 3
+5 12366666 14500
+A
+19 4
+A
+18 2
+A
+42 -2
+#4957
+obj snowpeak qis scales legs~
+1
+&GS&gc&Ga&gl&Ge&gs &wof the &KQis&n~
+Some wierd scales glow here~
+~
+9 138412036 0 33
+40 0 0 0
+15 1000000 15000
+A
+18 2
+A
+19 3
+A
+14 -25
+#4958
+obj snowpeak elven girdle holiness~
+1
+&wThe &WE&wl&Wv&we&Wn &Kbelt &wof &CH&wo&Wl&wi&Wn&we&Ws&Cs&n~
+a large sheath beams the holiness of God upon you~
+~
+9 71306241 0 2049
+15 0 0 0
+15 350000 150000
+A
+19 4
+A
+14 -10
+#4959
+obj snowpeak qis cloak of the~
+1
+&wThe &WCloak &wof the &KQis&n~
+The cloak of the divine lies here.~
+~
+9 4235328 263168 5
+20 0 0 0
+7 3500000 15000
+A
+19 4
+A
+18 1
+A
+14 -10
+#4960
+obj snowpeak shield imm~
+1
+&wThe Everlasting Shield of Steel&n~
+A heavy, battle worn shield rests here.~
+~
+9 9 576 513
+0 0 0 0
+3000 5 5
+#4961
+obj dead nomad corpse~
+1
+a corpse of a nomad~
+A bloated, petrified corpse rests on the floor here.~
+~
+15 8 0 0
+100 0 0 0
+1 5 5
+#4962
+obj rusted pick~
+1
+&wa &rrusted &Kpick&n~
+&wa &rrusted &Kpick &wlies in a heap of rubble on the floor.&n~
+~
+18 262152 0 1
+0 0 0 0
+1 5 5
+#4963
+obj snowpeak rotted flesh bandages~
+3
+&KRotted flesh bandages&n~
+&KSome rotted flesh bandaged by stitches rests in a corner, leaving a nasty odour in the room&n~
+~
+9 4195840 0 524289
+0 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+#4964
+obj snowpeak shard of redemption~
+2
+&wthe &Kshard &wof &Wredemption&n~
+&wA small glass shard glows white as you approach.&n~
+~
+5 541067331 0 8193
+4194304 4 10 11
+6 1505050 75000
+A
+19 2
+$~
+#999999

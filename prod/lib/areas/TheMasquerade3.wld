@@ -1,0 +1,721 @@
+#20400
+&RThe Altar of Fire&n~
+&rYou smile as you enter the altar room, until the door slams behind you.  It appears you've been tricked.&n
+~
+169 1343225864 536870912 1 99 2
+D2
+S
+~
+~
+16 -1 20511
+S
+#20401
+&GThe Altar of the Earth&n~
+&gYou smile as you enter the altar room, until the door slams behind you.  It appears you've been tricked.&n
+~
+169 1477443592 536870912 41 99 2
+D3
+W
+~
+~
+16 -1 20511
+S
+#20402
+&BThe Altar of Water&n~
+&bYou smile as you enter the altar room, until the door slams behind you.  It appears you've been tricked.&n
+~
+169 1343356936 536870912 41 99 7
+D0
+N
+~
+~
+16 -1 20511
+S
+#20403
+&YThe Altar of the Winds&n~
+&yYou smile as you enter the altar room, until the door slams behind you.  It appears you've been tricked.&n
+~
+169 1880227848 536870912 1 99 7
+D1
+E
+~
+~
+16 -1 20511
+S
+#20404
+&CThe Altar of Spirit&n~
+&cYou smile as you enter the altar room, until the door slams behind you.  It appears you've been tricked.&n
+~
+169 1343356936 536870912 1 99 7
+D5
+D
+~
+~
+16 -1 20511
+S
+#20405
+&GThe &BTemple &Yof &Rthe &CAncients&n~
+&pAs you step into the main chamber of the temple, an amazing glow surrounds your body.  As the mystical energies of this place channel into your body, you kneel at the altar, preparing your sacrifice.&n
+~
+169 940573704 536870912 1 99 7
+S
+#20406
+&CA hole in the earth&n~
+&rYou find yourself tumbling downward at an incredible rate.  A strange musky scent penetrates your nostrils as you fall through the inky blackness of the earth.  Thrashing wildly in the darkness, you pray for your life.&n
+~
+169 1410334728 16384 41 75 7
+D5
+~
+~
+0 -1 20407
+S
+#20407
+&CA hole in the earth&n~
+&rYou find yourself tumbling downward at an incredible rate.  A strange musky scent penetrates your nostrils as you fall through the inky blackness of the earth.  Thrashing wildly in the darkness, you pray for your life.&n
+~
+169 1410334728 16384 41 75 7
+D5
+~
+~
+0 -1 20408
+S
+#20408
+&CA hole in the earth&n~
+&rYou find yourself tumbling downward at an incredible rate.  A strange musky scent penetrates your nostrils as you fall through the inky blackness of the earth.  Thrashing wildly in the darkness, you pray for your life.&n
+~
+169 1410334728 0 41 75 7
+D5
+~
+~
+0 -1 20409
+S
+#20409
+&pBefore the Shrine&n~
+&rYou suddenly land in front of an immense structure, somehow unharmed.  As you regain your composure, you notice a strange pattern of runes along the arch to the entrance of the building.
+As you toil to translate them, you realize what you've stumbled upon is in fact the fabled sanctuary of the Drow Gods.  Serving as a refuge from the Garou Hordes, this place has been known only to exist by pureblood drow.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20410
+S
+#20410
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20411
+D1
+a guard post
+~
+~
+0 -1 20452
+D2
+~
+~
+0 -1 20409
+D3
+a guard post
+~
+~
+0 -1 20453
+S
+#20411
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20412
+D1
+~
+~
+0 -1 20414
+D2
+~
+~
+0 -1 20410
+D3
+~
+~
+0 -1 20415
+S
+#20412
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20413
+D2
+~
+~
+0 -1 20411
+D4
+~
+~
+0 -1 20417
+D5
+~
+~
+0 -1 20416
+S
+#20413
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20418
+D1
+~
+~
+0 -1 20419
+D2
+~
+~
+0 -1 20412
+D3
+~
+~
+0 -1 20420
+S
+#20414
+&pA deep pit&n~
+&rAs you fall to what you presume to be your death, you land on something relatively soft, breaking your fall.  Suddenly, the ground shifts, and you realize you've tumbled onto the back of a freshly spawned drow&n
+~
+169 1343225864 0 41 75 7
+S
+#20415
+&pA deep pit&n~
+&rAs you fall to what you presume to be your death, you land on something relatively soft, breaking your fall.  Suddenly, the ground shifts, and you realize you've tumbled onto the back of a freshly spawned drow&n
+~
+169 1343225864 0 41 75 7
+S
+#20416
+&pA deep pit&n~
+&rAs you fall to what you presume to be your death, you land on something relatively soft, breaking your fall.  Suddenly, the ground shifts, and you realize you've tumbled onto the back of a freshly spawned drow&n
+~
+169 1343225864 0 41 75 7
+S
+#20417
+&pThe Overseer's Post&n~
+&rYou've reached the top of the tower.  As you pull yourself upward, an enormous figure comes into view.  Suddenly your hand slips, and it whirls around.  It seems you've been found out.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+~
+0 -1 20412
+S
+#20418
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20422
+D2
+~
+~
+0 -1 20413
+D4
+~
+~
+0 -1 20421
+S
+#20419
+&pA split in the halls&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20425
+D3
+~
+~
+0 -1 20413
+S
+#20420
+&pA split in the halls&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20426
+D1
+~
+~
+0 -1 20413
+S
+#20421
+&pThe War Council Room&n~
+&rYou've entered a fairly plain room.  The only structure in sight is a massive table, made entirely of some sort of webbing.  Strewn across it are the current missions the armies of the matron are occupied by.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+~
+0 -1 20418
+S
+#20422
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20424
+D2
+~
+~
+0 -1 20418
+D4
+~
+~
+0 -1 20423
+S
+#20423
+&pAn Evolution Chamber&n~
+&rAs you enter the room, the force of your own body drags you to the ground.  It seems that the force of gravity is somehow amplified here.  A lone figure stands in the center of the chamber, struggling to stand.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+~
+0 -1 20422
+S
+#20424
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20436
+D2
+~
+~
+0 -1 20422
+D4
+~
+~
+0 -1 20447
+S
+#20425
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20427
+D2
+~
+~
+0 -1 20419
+D4
+~
+~
+0 -1 20449
+S
+#20426
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20431
+D2
+~
+~
+0 -1 20420
+D4
+~
+~
+0 -1 20450
+S
+#20427
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20428
+D2
+~
+~
+0 -1 20425
+D4
+~
+~
+0 -1 20448
+S
+#20428
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20429
+D2
+~
+~
+0 -1 20427
+S
+#20429
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D2
+~
+~
+0 -1 20428
+D4
+~
+~
+0 -1 20430
+S
+#20430
+&pThe War Room of a Patron&n~
+&rAs you slip into the room the clash of metal fills your ears.  Looking around you find yourself surrounded by a multitude of weapons and armor.  The center of the chamber is dominated by a massive being.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+~
+0 -1 20429
+S
+#20431
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20432
+D2
+~
+~
+0 -1 20426
+D4
+~
+~
+0 -1 20451
+S
+#20432
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20433
+D2
+~
+~
+0 -1 20431
+S
+#20433
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D2
+~
+~
+0 -1 20432
+D4
+~
+~
+0 -1 20434
+S
+#20434
+&pThe War Room of a Patron&n~
+&rAs you slip into the room the clash of metal fills your ears.  Looking around you find yourself surrounded by a multitude of weapons and armor.  The center of the chamber is dominated by a massive being.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+~
+0 -1 20433
+S
+#20435
+&pThe Halls of Kiransalee&n~
+&rYou suddenly find your faithful ship jetting upward at an incredible rate.  Screams and cries fill you ears and eat at your soul as you begin to realize you are travelling not through water, but a sea of souls.&n
+~
+169 1342177288 0 1 99 7
+S
+#20436
+&pThe Halls of Kiransalee&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20437
+D2
+~
+~
+0 -1 20424
+S
+#20437
+&pThe Chamber of the Matron&n~
+&rYou've entered the chamber's the the matron.  Here the godess rests, controlling her minions through telepathy.  The massive size of the room, is dwarfed solely by her immense mass.  She is not to be trifled with, her power is obvious.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+trapdoor~
+31 20401 20438
+S
+#20438
+&Chidden path&n~
+&rYou've come across a secret escape tunnel belonging to the matron.  In the unlikely event that the shine should be found, and her warriors defeated, the Queen would use this passage to escape to safety, deep within the Earth's core.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20439
+S
+#20439
+&Chidden path&n~
+&rYou've come across a secret escape tunnel belonging to the matron.  In the unlikely event that the shine should be found, and her warriors defeated, the Queen would use this passage to escape to safety, deep within the Earth's core.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20440
+S
+#20440
+&Chidden path&n~
+&rYou've come across a secret escape tunnel belonging to the matron.  In the unlikely event that the shine should be found, and her warriors defeated, the Queen would use this passage to escape to safety, deep within the Earth's core.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20441
+D2
+~
+~
+0 -1 20439
+S
+#20441
+&Chidden path&n~
+&rYou've come across a secret escape tunnel belonging to the matron.  In the unlikely event that the shine should be found, and her warriors defeated, the Queen would use this passage to escape to safety, deep within the Earth's core.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20442
+D2
+~
+~
+0 -1 20440
+S
+#20442
+&Chidden path&n~
+&rYou've come across a secret escape tunnel belonging to the matron.  In the unlikely event that the shine should be found, and her warriors defeated, the Queen would use this passage to escape to safety, deep within the Earth's core.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20443
+D2
+~
+~
+0 -1 20441
+S
+#20443
+&Chidden path&n~
+&rYou've come across a secret escape tunnel belonging to the matron.  In the unlikely event that the shine should be found, and her warriors defeated, the Queen would use this passage to escape to safety, deep within the Earth's core.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20444
+D2
+~
+~
+0 -1 20442
+S
+#20444
+&Chidden path&n~
+&rYou've come across a secret escape tunnel belonging to the matron.  In the unlikely event that the shine should be found, and her warriors defeated, the Queen would use this passage to escape to safety, deep within the Earth's core.&n
+~
+169 1343225864 0 41 75 7
+D0
+~
+~
+0 -1 20445
+D2
+~
+~
+0 -1 20443
+S
+#20445
+&pThe Spawning Pool&n~
+&GAs you wade through the slime, strange legs and tentacles rub against your limbs, coating your armor with ooze.  What kind of strange place have you managed to wander into this time.&n
+~
+169 1343225864 0 41 75 7
+S
+#20446
+&CUn-used~
+&BHow the hell did you get in here?&n
+~
+169 1342177288 0 1 99 7
+D0
+~
+~
+0 -1 20440
+D1
+~
+~
+0 -1 20439
+D2
+~
+~
+0 -1 20442
+D3
+~
+~
+0 -1 20441
+D4
+~
+~
+0 -1 20444
+D5
+~
+~
+0 -1 20443
+S
+#20447
+&pThe General's Quarters&n~
+&rAs soon as you enter, the door seems to melt away.  Already you can feel that this was a mistake.  Adorning the walls are hundreds of medals, an array on a general could posess, and as that crosses your mind, you notice him.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+~
+0 -1 20424
+S
+#20448
+&pAn Officer's Chambers&n~
+&rYou find yourself in the relaxation room of one of the matron's  more trusted spawn.  Although the room in nearly completely black, you can sense the presence of another being.  A pair of &Rred&r eyes glare at you from the corner.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+~
+0 -1 20427
+S
+#20449
+&pA Control Chamber&n~
+&rYou've stumbled into a massive padded room.  The only thing you can make out, is a large dark blob.  You'd better investigate, but watch your step.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+~
+0 -1 20425
+S
+#20450
+&pA Control Chamber&n~
+&rYou've stumbled into a massive padded room.  The only thing you can make out, is a large dark blob.  You'd better investigate, but watch your step.&n
+~
+169 1343225864 0 41 75 7
+D5
+~
+~
+0 -1 20426
+S
+#20451
+&pAn Officer's Chambers&n~
+&rYou find yourself in the relaxation room of one of the matron's  more trusted spawn.  Although the room in nearly completely black, you can sense the presence of another being.  A pair of &Rred&r eyes glare at you from the corner.&n
+~
+169 1343225864 0 41 75 7
+D5
+@#
+~
+~
+0 -1 20431
+S
+#20452
+&pA Guard Post&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D3
+the halls of lloth
+~
+~
+0 -1 20410
+S
+#20453
+&pA Guard Post&n~
+&rAs you pass through the darkened hallway, millions of strange spiderlike creatures peer at you curiously, before dissapearing into the walls.  As you place your hand on the surface of a wall, you realize they are made entirely of webbing.
+Proceeding through the darkness, something brushes against your leg, but when you look down, you find nothing.  Somewhere in the distance you can hear the scurrying of millions of tiny feet.&n
+~
+169 1343225864 0 41 75 7
+D1
+the halls of lloth
+~
+~
+0 -1 20410
+S
+$~
+#999999

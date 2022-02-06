@@ -1,0 +1,517 @@
+#17900
+obj drow shard vortex~
+2
+&wthe &PV&porte&Px &CS&char&Cd&n~
+The shard of the vortex pulses with a life of its own.~
+~
+9 4194304 0 5
+20 0 0 0
+1 100000 45000
+A
+19 3
+A
+18 2
+A
+12 -30
+#17901
+obj Nails Nine Inch~
+66
+Nine Inch Nails~
+A set of Nine Inch Nails are lying here.~
+~
+4 4456448 0 16385
+41 10 10 90
+6 10000 100000
+#17902
+obj Courtney's Locket~
+0
+Courtney's Locket~
+A locket with a beautiful picture of Courtney inside it lies here~
+~
+9 4194368 0 5
+0 0 0 0
+6 200000 50000
+#17903
+obj drow spike legendary silver~
+2
+&wthe &yLegendary &KS&wi&Klv&we&Kr Spike&n~
+The Legendary Silver Spike from the black company~
+~
+5 4194816 0 8193
+12296 5 8 11
+7 99999 66666
+A
+9 20
+A
+13 -50
+A
+19 4
+#17904
+obj drow spider mask~
+3
+&wA &rs&Kp&ri&Kd&re&Kr &wmask&n~
+Gromph's spider mask lays on the floor here.~
+~
+9 4194304 0 17
+20 0 0 0
+1 200000 50000
+A
+18 2
+A
+19 3
+A
+36 -1
+A
+6 -2
+#17905
+obj drow magius staff~
+4
+&wthe &yStaff &wof &CMagius&n~
+The Staff of Magius floats infront of you.~
+~
+1 4196368 0 65537
+0 0 10 0
+13 200000 80000
+A
+19 3
+A
+13 5
+A
+12 25
+A
+24 -3
+#17906
+obj drow tarrasque horn~
+3
+&Ka &yTarrasque's &Khorn&n~
+The horn from a dreaded Tarrasque is here.~
+~
+12 4194832 0 16385
+0 0 10 0
+3 100000 35000
+A
+19 6
+A
+18 2
+A
+13 -30
+#17907
+obj key magical~
+2
+A magical key~
+A magical key pulses here.~
+~
+18 262152 0 16385
+16628 0 10 0
+1 1 5
+#17908
+obj drow vhaeraun dagger~
+1
+&yVhaeraun's &wdagger&n~
+Vhaeraun's dagger is lying here.~
+~
+5 4194370 0 8193
+49152 5 8 11
+5 1500000 60000
+A
+19 2
+#17909
+obj drow errtu wing~
+8
+&cErrtu's &WWing&n~
+Errtu's severed wing lies here in a pool of black blood.~
+~
+9 4198912 131072 513
+45 0 0 0
+20 130000 130000
+A
+19 2
+A
+18 3
+A
+12 -20
+A
+32 -1
+#17910
+obj drow phoenix ring~
+3
+&YA &RPho&re&Ynix &RRing&n~
+A Phoenix Ring glows with untold power.~
+~
+9 4194307 0 3
+3 0 0 0
+13 11000 60000
+A
+19 3
+A
+18 1
+A
+6 1
+A
+12 10
+#17911
+obj phoenix ring fake god~
+50
+A Phoenix Ring~
+A Phoenix Ring glows with untold power.~
+~
+9 0 0 3
+1 0 10 0
+13 1 1
+#17912
+obj drow piwafwi~
+2
+&WA &CPiwa&Wfwi&n~
+A magical drow piwafwi is here~
+~
+9 4194304 0 5
+30 0 0 0
+5 120000 30000
+A
+19 1
+A
+2 1
+A
+18 4
+A
+12 -10
+#17913
+obj drow dispater rod~
+100
+&RF&Yir&Re &WRod&n~
+Dispater's Fire Rod is lying here.~
+~
+3 4456448 0 16385
+75 8 8 117
+6 10000 5
+#17914
+obj drow lolth spider cloak~
+3
+&KLolth's &rS&Kp&ri&Kde&rr &KCloak&n~
+Lolth's spider cloak is moving around on the ground.~
+~
+9 4194304 0 1025
+5 0 0 0
+9 300000 100000
+A
+19 3
+A
+18 4
+A
+14 -5
+#17915
+obj boots nadal drow~
+1
+&KNadal's &wboots&n~
+A pair of fine drow boots lie before you.~
+~
+9 4194304 0 65
+0 0 0 0
+15 200000 50000
+A
+19 4
+A
+18 1
+A
+2 2
+#17916
+obj drow undead bracelet~
+2
+&KU&wn&Kd&we&Ka&wd &KBracelet&n~
+The Prince of the Dead's bracelet lies on the floor.~
+~
+9 4194308 0 4097
+15 0 0 0
+10 125000 60000
+A
+19 3
+A
+18 1
+A
+6 -5
+A
+12 -5
+#17917
+obj drow zak gloves~
+10
+&KZak's &yGloves&n~
+Zak's gloves rest here, they look very delicate.~
+~
+9 4194304 0 129
+15 0 0 0
+4 200000 75000
+A
+19 3
+A
+18 1
+A
+2 1
+#17918
+obj pole Whipping~
+100
+Whipping pole~
+A lesser demon is strapped to the whipping pole begging for mercy.~
+~
+25 0 0 0
+1000000 1000000 13 0
+1 5 5
+#17919
+obj drow shar axe~
+3
+&cSh&Car's &cAxe &Cof Mi&cg&Cht&n~
+&cSh&Car's &cAxe &COf Mi&cg&Cht&n~
+~
+5 20971521 0 8193
+0 5 12 6
+12 150000 150000
+A
+40 2
+A
+18 4
+#17920
+obj drow quild tome~
+10
+&rQ&Ru&r&Ri&rl&Rd&r'&Rs &KTome&n~
+&rQ&Ru&ri&Rl&rd&R'&rs &KTome&n~
+~
+9 4194836 0 16385
+10 0 0 0
+5 125000 125000
+A
+18 5
+A
+12 20
+A
+13 20
+A
+14 -5
+#17921
+obj scales zealot drow~
+3
+&rS&Rca&rl&Re&rs &wof &wZealot&n~
+Some scales of the mighty Dragon-kin Zealot lie here.~
+~
+9 71303744 4 257
+10 0 0 0
+3 5 5
+A
+19 4
+A
+14 25
+#17922
+obj webbed belt sorn drow~
+4
+&KWebbed belt of &rS&Ror&rn&n~
+A belt made out of thing webbing is lying here, covered in spiders.~
+~
+9 4194880 0 2049
+0 0 0 0
+2 5 5
+A
+19 2
+A
+40 1
+A
+13 20
+A
+14 -5
+#17923
+obj ryltar power orb~
+3
+&YRyltar's &COrb &wof &YPower&n~
+Someone has left a powerful orb laying here.~
+~
+1 4194304 0 65537
+0 0 0 0
+1 5 5
+A
+19 3
+A
+18 1
+A
+13 -30
+#17924
+obj rizzen drow body armor~
+3
+&rR&Riz&rz&Re&rn&R'&rs &wBody Armor&n~
+Someone has left Rizzen's body armor laying here.~
+~
+9 4194304 0 9
+25 0 0 0
+1 5 5
+A
+19 4
+A
+18 2
+A
+37 -1
+#17925
+obj rager drow shield~
+3
+&yRager's &KShield&n~
+Someone has left a dark shield laying here.~
+~
+9 4194304 0 513
+5 0 0 0
+20 5 5
+A
+19 3
+A
+18 1
+A
+13 15
+#17926
+obj piwafwi drow 2~
+3
+&CA &WPiwa&Cfwi&n~
+A magical drow piwafwi is here~
+~
+9 4194304 0 5
+25 0 0 0
+5 120000 30000
+A
+19 2
+A
+2 -1
+A
+18 2
+#17927
+obj drow piwafwi 3~
+2
+&wA &cPiwa&wfwi&n~
+A magical drow piwafwi is here~
+~
+9 4194304 0 5
+30 0 0 0
+5 120000 30000
+A
+19 3
+A
+41 1
+A
+18 -2
+#17928
+obj drow darkness living~
+3
+&KLiving Darkness&n~
+&KLiving &KDarkness surrounds you.&n~
+~
+1 4194832 0 65537
+0 0 1000 0
+1 25000 25000
+A
+19 2
+A
+18 3
+A
+13 -10
+A
+14 -5
+#17929
+obj drow demogorgon tail forked~
+6
+&wThe &rD&Rem&ro&Rg&ro&Rr&rg&Ro&rn&R'&rs &wforked &Glizard &wtail&n~
+There is a large forked lizard tail lying here, flopping around.~
+~
+9 37751312 0 262145
+5 0 0 0
+20 5 5
+A
+19 8
+A
+18 6
+A
+13 -10
+#17930
+obj drow phoenix orb flame~
+1
+&KOrb &Wof the &RPho&re&Ynix&n~
+&WA large orb, covered in &RFl&Yam&Res &Wrests here, floating in mid-air.&n~
+~
+5 675286339 4 8193
+589824 10 6 6
+5 130000 800000
+A
+19 3
+A
+18 3
+A
+13 5
+#17931
+obj drow vortex blade~
+1
+&PV&porte&Px&KB&wlad&Ke&n~
+&PV&porte&Px&KB&wlad&Ke&n~
+~
+5 20973633 0 8193
+49152 10 4 3
+6 100000 50000
+#17932
+obj drow tarrasque skin~
+3
+&wa &Ktar&wr&yas&wq&Kue &yskin&n~
+&wa &Ktar&wr&yas&wq&Kue &yskin&w lies here.&n~
+~
+15 4196352 0 1025
+350 0 0 0
+10 100000 500000
+A
+19 3
+A
+18 3
+#17933
+obj phoenix feather~
+0
+&Ya &RPho&re&Ynix fea&rt&Rher&n~
+A feather of the great Phoenix lies here.~
+~
+8 0 0 1
+0 0 0 0
+1 5 5
+#17934
+obj drow aegis fang warhammer~
+1
+&WThe &WL&wegendar&Wy &YA&yegi&Ys &WF&wan&Wg &KWarhamme&Kr&n~
+&WA large fang tipped warhammer rests on the ground.&n~
+~
+5 104886272 24576 8193
+4229120 3 10 3
+10 50000000 500000
+A
+40 1
+A
+19 1
+A
+18 2
+A
+13 -20
+#17935
+obj drow yochlol signal horn~
+2
+&wThe Greater &yYochlol's &wsignal &yhorn&n~
+&wA large horn has been discarded here.&n~
+~
+4 37751296 0 16385
+50 5 5 36
+5 1250000 12500
+A
+40 1
+A
+19 5
+A
+18 2
+A
+13 -40
+#17936
+obj drow orcus quarterstaff~
+3
+&wMighty &yQuarterstaff &wof &KOrcus&n~
+&wSomeone has left a giant &yquarterstaff&w lying upon the ground.&n~
+~
+5 37749252 0 24577
+1056 7 6 6
+1 5 5
+A
+19 2
+$~
+#999999

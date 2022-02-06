@@ -1,0 +1,1086 @@
+#14500
+Nefarious and Graffin's lobby of love.~
+All the babes and beer you've ever dreamed of... right here at your
+finger-tips!
+~
+85 8 0 1 99 1
+D4
+void~
+~
+2 -1 3001
+S
+#14501
+SPARE~
+The river here flows smoothly through a large limestone cave. The sounds of
+rushing water echo of the walls and the current of the river begins to feel
+stronger.
+~
+85 8 0 1 99 7
+D1
+The river leads deeper into the dark cave.
+~
+~
+0 -1 14502
+D3
+the river~
+~
+0 -1 3205
+S
+#14502
+A small unnoticed waterway.~
+
+~
+85 8 0 1 99 7
+D2
+The hole in the south wall is very dark, and you cannot tell what lies within.
+~
+~
+0 -1 14503
+D3
+There is a bright light at the cavern entrance.
+~
+~
+0 -1 14501
+S
+#14503
+A Small Tunnel~
+You have entered a narrow, damp tunnel. The walls are covered with slimy mold
+and a wretched stench hangs in the air. After several feet the tunnel makes
+an abrupt decent into the darkness.
+~
+85 1879048201 536870912 1 99 8
+D0
+Inside a limestone cave~
+Inside a limestone cave~
+0 -1 3038
+D5
+The tunnel decends into the darkness below.
+~
+~
+0 -1 14504
+S
+#14504
+Where the Tunnel Descends ~
+The tunnel begins to make a steep descent here.  A small trickle of water
+runs down into the blackness.  The slippery footing make walking treacherous.
+~
+85 1879048205 536870912 1 99 1
+D4
+Inside a Small Tunnel~
+Inside a Small Tunnel~
+0 -1 14503
+D5
+The tunnel continues down.
+~
+~
+0 -1 14505
+S
+#14505
+Descending Tunnel~
+The tunnel continues on a definite downward trend.  You believe that if
+you continue down you will soon be below sea level.  The walls close in
+on you as you think about the tons of water over your head.
+~
+85 9 0 1 99 1
+D4
+A Descending Tunnel. ~
+A Descending Tunnel. ~
+0 -1 14504
+D5
+The tunnel continues down.
+~
+~
+0 -1 14506
+S
+#14506
+Bottom of Tunnel~
+You are at the bottom of an ascending tunnel.  A small, dark, natural 
+passage leads to the east.  Using your natural sense of direction, you 
+believe that you are heading towards the ocean.
+~
+85 9 0 1 99 1
+D1
+The darkness hides the next room.
+~
+~
+0 -1 14507
+D4
+The tunnel continues up.
+~
+~
+0 -1 14505
+S
+#14507
+Dark Passage~
+You are in a small, dark cavern.  You can see exits to the east and west,
+but you can not see where they go.  The walls close in on you as you 
+decide what to do.
+~
+85 13 0 1 99 1
+D1
+A lighter room is east.
+~
+~
+0 -1 14508
+D3
+The bottom of the tunnel is west.
+~
+~
+0 -1 14506
+S
+#14508
+Entrance to Atlantis~
+Before you lies the lost city of Atlantis.  Obviously, it is not lost 
+anymore.  Great stalks of coral flank the entrance, dwarfing you as you
+pass by them.  You see a crystal dome high overhead keeping out the water.
+The city is brightly lit, though no sunlight reaches through the fathoms
+above you.
+~
+85 8 0 1 99 1
+D1
+The city of Atlantis lies east.
+~
+~
+0 -1 14509
+D3
+The darkness hides the next room.
+~
+~
+0 -1 14507
+S
+#14509
+The Lost City of Atlantis~
+You have entered the city of Atlantis.  Hidden for ages, no one knows what
+treasues this beautiful city holds, or what dangers. 
+~
+85 8 0 1 99 1
+D1
+The main street leads east.
+~
+~
+0 -1 14510
+D3
+The entrance to the city is west.
+~
+~
+0 -1 14508
+S
+#14510
+Moon Pearl Boulevard~
+This is Atlantis's main street.  At any time of the day (or night) this
+street is filled with the strange, fish-like inhabitants of the city.  The
+natives nod politely to you as you pass by, giving no notice to your strange
+appearance.  You see a veritable jungle of kelp to the north.
+~
+85 8 0 1 99 1
+D1
+Moon Pearl Boulevard continues east.
+~
+~
+0 -1 14511
+D3
+The street continues west.
+~
+~
+0 -1 14509
+S
+#14511
+Moon Pearl Boulevard~
+Shops and buildings line the street on either side.  You think that this
+is possibly the cleanest city you have ever seen.  The people are speaking
+in a language you don't understand.
+~
+85 8 0 1 99 1
+D1
+Moon Pearl Boulevard continues east.
+~
+~
+0 -1 14512
+D3
+Moon Pearl Boulevard continues west.
+~
+~
+0 -1 14510
+S
+#14512
+Moon Pearl Boulevard~
+A small, kelp-lined alley is north.  Moon Pearl Boulevard ends up ahead
+at the foot of a large tower.  It is now that you see the light source 
+of the city.  It is a giant glowing ball atop the tower in front of you.
+You stare in awe at the magical power needed to sustain the intensity of
+the light.
+~
+85 8 0 1 99 1
+D0
+A kelp-lined alley is north.
+~
+~
+0 -1 14513
+D1
+The town square is east.
+~
+~
+0 -1 14516
+D3
+Moon Pearl Boulevard continues west.
+~
+~
+0 -1 14511
+S
+#14513
+Kelp-Lined Alley~
+Due to tall buildings on either side of you, the light from the tower is 
+partially blocked, making pause a moment to let your eyes adjust to the
+darkness.  The kelp appears to grow thicker to the north.
+~
+85 8 0 1 99 1
+D0
+The alley continues north.
+~
+~
+0 -1 14514
+D2
+Moon Pearl Boulevard is south.
+~
+~
+0 -1 14512
+S
+#14514
+Kelp-Lined Alley~
+The kelp grows thicker as you go further into the alley.  To the north
+the buildings fall away and kelp is all you see.
+~
+85 12 0 1 99 1
+D0
+The kelp farm is north.
+~
+~
+0 -1 14515
+D2
+The alley is south.
+~
+~
+0 -1 14513
+S
+#14515
+Kelp Farm~
+Stalks of kelp surround you on all sides, obscuring sight after a few
+feet.  You think you are lost.
+~
+85 8 0 1 99 1
+D0
+The kelp farm is north.
+~
+~
+0 -1 14529
+D1
+The kelp farm is east.
+~
+~
+0 -1 14515
+D2
+The kelp farm is south.
+~
+~
+0 -1 14515
+D3
+The kelp farm is west.
+~
+~
+0 -1 14515
+S
+#14516
+Town Square~
+You are in the town square.  It seems that all the important people in
+the city live and work here.  The tower is before you to the east.  You see a 
+temple to the northeast and a palace to the southeast.
+~
+85 8 0 1 99 1
+D0
+The town square is north.
+~
+~
+0 -1 14517
+D2
+The town square is south.
+~
+~
+0 -1 14528
+D3
+Moon Pearl Boulevard is west.
+~
+~
+0 -1 14512
+S
+#14517
+Town Square~
+You are in the town square.  A temple is to the east and the tower lights
+your path from the southeast.
+~
+85 8 0 1 99 1
+D1
+Before the temple is east.
+~
+~
+0 -1 14518
+D2
+The town square is south.
+~
+~
+0 -1 14516
+S
+#14518
+Before the Temple~
+You stand before the great temple of Pisces.  Golden seascape sculptures 
+flank either side of the open door, which is also made of gold.
+~
+85 12 0 1 99 1
+D0
+Inside the temple is north
+~
+~
+0 -1 14542
+D1
+The town square is east.
+~
+~
+0 -1 14519
+D3
+The town square is west.
+~
+~
+0 -1 14517
+S
+#14519
+Town Square~
+You are in the town square.  The lighted tower is southwest of you and the
+Temple of Pisces lies to the west.
+~
+85 8 0 1 99 1
+D2
+The entrance to the tower is south.
+~
+~
+0 -1 14520
+D3
+Before the temple is west.
+~
+~
+0 -1 14518
+S
+#14520
+Entrance to the Lighted Tower~
+You stand before the tower that provides the city with its light.  You 
+wonder what kind of magic it takes to keep that enormous globe lit.  
+The entrance to the tower is west.
+~
+85 8 0 1 99 1
+D0
+The town square is north.
+~
+~
+0 -1 14519
+D1
+Moon Pearl Boulevard continues east.
+~
+~
+0 -1 14533
+D2
+The town square is south.
+~
+~
+0 -1 14526
+D3
+Inside the tower is west.
+~
+door~
+9 -1 14521
+S
+#14521
+Inside the Tower~
+You have entered the tower.  Since the globe of light is atop this
+structure, no light penetrates into this room.  Stairs lead up.
+~
+85 13 0 1 99 1
+D1
+Outside the tower is east.
+~
+door~
+9 -1 14520
+D4
+Stairs lead up.
+~
+~
+0 -1 14522
+S
+#14522
+Neptune's Chamber~
+This is the chamber in which Lord Neptune resides.  This is also the room
+from which he runs the city through his puppet government.  The room is
+lit by statues of anglers whose glowing parts still glow.  Various godly
+items are lying around the room.
+~
+85 8 0 1 99 1
+D4
+Stairs lead up.
+~
+~
+0 -1 14523
+D5
+Stairs lead down.
+~
+~
+0 -1 14521
+S
+#14523
+Dark Staircase~
+You are in a dark staircase.  You think you see a light down.
+~
+85 9 0 1 99 1
+D4
+A dark landing is up.
+~
+~
+0 -1 14524
+D5
+Neptune's chamber is down.
+~
+~
+0 -1 14522
+S
+#14524
+Dark Landing~
+You stand on a dark landing.  A door blocks your way north and a 
+staircase leads down.  You see light coming from under the door.
+~
+85 9 0 1 99 1
+D0
+A door blocks your view north.
+~
+door~
+9 -1 14525
+D5
+A dark staircase leads down.
+~
+~
+0 -1 14523
+S
+#14525
+Wizard's Chamber~
+You stand atop the tower.  An old merman wizard lives up here, maintaining
+the light source of the city.  He does not take kindly to your intrusion
+into his home.
+~
+85 8 0 1 99 1
+D2
+The dark landing is south.
+~
+door~
+9 -1 14524
+S
+#14526
+Town Square~
+You are in the town square.  The entrance to the tower is north and the
+palace is to the west.  Citizens pass by you and nod politely.
+~
+85 8 0 1 99 1
+D0
+The entrance to the lighted tower is north.
+~
+~
+0 -1 14520
+D3
+The entrance to the palace is west.
+~
+~
+0 -1 14527
+S
+#14527
+Before The Palace~
+Awed by the majesty of the building in front of you, there is nothing
+you can do but gape.  The entire palace is built from rose quartz, with
+solid gold statues and lawn ornaments scattered everywhere.  If all this
+is on the outside, you wonder what the inside is like.
+~
+85 8 0 1 99 1
+D1
+The town square is east.
+~
+~
+0 -1 14526
+D2
+The palace is south.
+~
+~
+0 -1 14537
+D3
+The town square is west.
+~
+~
+0 -1 14528
+S
+#14528
+Town Square~
+You are in the town square.  The amount of activity around the clock in
+this area surprises you.  You see the palace to the east.
+~
+85 8 0 1 99 1
+D0
+The town square is north.
+~
+~
+0 -1 14516
+D1
+The palace entrance lies east.
+~
+~
+0 -1 14527
+S
+#14529
+Kelp Farm~
+Stalks of kelp surround you on all sides, obscuring sight after a few
+feet.  You think you are lost.
+~
+85 8 0 1 99 1
+D0
+The kelp farm is north.
+~
+~
+0 -1 14530
+D1
+The kelp farm is east.
+~
+~
+0 -1 14515
+D2
+The kelp farm is south.
+~
+~
+0 -1 14515
+D3
+The kelp farm is west.
+~
+~
+0 -1 14530
+S
+#14530
+Kelp Farm~
+Stalks of kelp surround you on all sides, obscuring sight after a few
+feet.  You think you are lost.
+~
+85 8 0 1 99 1
+D0
+The kelp farm is north.
+~
+~
+0 -1 14529
+D1
+The kelp farm is east.
+~
+~
+0 -1 14529
+D2
+The kelp farm the south.
+~
+~
+0 -1 14515
+D3
+The kelp farm is west.
+~
+~
+0 -1 14531
+S
+#14531
+Kelp Farm~
+Stalks of kelp surround you on all sides, obscuring sight after a few
+feet.  You think you are lost.
+~
+85 8 0 1 99 1
+D0
+The kelp farm is north.
+~
+~
+0 -1 14531
+D1
+The kelp farm is east.
+~
+~
+0 -1 14530
+D2
+The kelp farm is south.
+~
+~
+0 -1 14532
+D3
+The kelp farm is west.
+~
+~
+0 -1 14530
+S
+#14532
+Kelp Farm~
+Stalks of kelp surround you on all sides, obscuring sight after a few
+feet.  You think you are lost.
+~
+85 12 0 1 99 1
+D0
+The kelp farm is north.
+~
+~
+0 -1 14531
+D1
+The kelp farm is east.
+~
+~
+0 -1 14515
+D2
+Moon Pearl Boulevard is south.
+~
+~
+0 -1 14510
+D3
+The kelp farm is west.
+~
+~
+0 -1 14530
+S
+#14533
+Moon Pearl Boulevard~
+This is obviously the side of town where most of the commoners live.  
+The scenery is dominated by craftsmen's shops and common residences.  
+~
+85 8 0 1 99 1
+D1
+Moon Pearl Boulevard is east.
+~
+~
+0 -1 14534
+D3
+The entrance to the tower is west.
+~
+~
+0 -1 14520
+S
+#14534
+Moon Pearl Boulevard~
+As you pass by the tradesmen's shops, you hear the steady ring of steel
+hitting steel that could only come from a smithy.  Wondering what kind of
+metal items and underwater city could need, you think you should go take a
+look.  The smithy is south.
+~
+85 8 0 1 99 1
+D1
+Moon Pearl Boulevard is east.
+~
+~
+0 -1 14536
+D2
+The smithy is south.
+~
+~
+0 -1 14535
+D3
+Moon Pearl Boulevard is west.
+~
+~
+0 -1 14533
+S
+#14535
+The Smithy~
+The smiths working here take little notice of you as they continue their
+arduous job.  The head smith glances up at you as you enter and eyes 
+you suspiciously.
+~
+85 8 0 1 99 1
+D0
+Moon Pearl Boulevard is north.
+~
+~
+0 -1 14534
+S
+#14536
+Moon Pearl Boulevard~
+You pass by various common residences, not seeing anything particularly
+interesting.  Ahead to the east you see what appears to be a bazaar.
+~
+85 8 0 1 99 1
+D1
+The bazaar is east.
+~
+~
+0 -1 14548
+D3
+Moon Pearl Boulevard is west.
+~
+~
+0 -1 14534
+S
+#14537
+The Palace Foyer~
+The inside of the palace in more spectacular than the outside.  Magicians
+are all over, performing for the throngs of people.  Several gold and
+platinum sculptures lie about.  You see the throne room far to the south.
+There is a small dark alcove to the east which you cannot see into.
+~
+85 8 0 1 99 1
+D0
+The town square is north.
+~
+~
+0 -1 14527
+D1
+A dark alcove is east.
+~
+~
+0 -1 14538
+D2
+Approaching the throne is south.
+~
+~
+0 -1 14539
+S
+#14538
+Alcove~
+This room is the equivelant of a guard house.  The off-duty palace guards
+lounge around in this room, drinking and gambling.  They seem to give no
+notice of your presence.
+~
+85 8 0 1 99 1
+D3
+The foyer is west.
+~
+~
+0 -1 14537
+S
+#14539
+Approaching the Throne~
+You pass by what you believe to be emmissaries and diplomats on your way
+to the throne room.  As you draw nearer, you see that there are actually
+two thrones, each at the same height.  You see light coming from under
+a door to the east.
+~
+85 8 0 1 99 1
+D0
+The foyer is north.
+~
+~
+0 -1 14537
+D1
+A chamber eminating a soft light lies to the east.
+~
+door~
+9 -1 14555
+D2
+The throne room is south.
+~
+~
+0 -1 14540
+S
+#14540
+Throne Room~
+As you enter the room, you see the two thrones clearly.  Seated in one
+is the sahaugin king and in the other is the merman queen.  This marriage
+is obviously the binding force which has kept these two races living
+together in this city.  The royal couple looks bored as they sit in their
+respective thrones.  You see a door to the west.
+~
+85 8 0 1 99 1
+D0
+The palace is north.
+~
+~
+0 -1 14539
+D3
+A door is west.
+~
+door~
+9 -1 14541
+S
+#14541
+Dressing Chamber~
+This is the king's dressing room.  You see that it is well maintained and,
+unfortunately for you, none of the king's belongings have been left out.
+~
+85 8 0 1 99 1
+D1
+The throne room is east.
+~
+door~
+9 -1 14540
+S
+#14542
+The Temple Of Pisces~
+You have entered the Temple of Pisces, apparently the patron deity of this
+city.  The temple is beautifully adorned with representations of exotic
+fish.  You see the altar far to the north and a small door to the east.
+~
+85 72 0 1 99 1
+D0
+Approaching the altar is north.
+~
+~
+0 -1 14545
+D1
+A door blocks your view east.
+~
+door~
+9 -1 14544
+D2
+Outside the temple is south.
+~
+~
+0 -1 14518
+D3
+A side chamber lies west.
+~
+~
+0 -1 14543
+S
+#14543
+The Temple Of Pisces~
+This is a side chamber in the temple.  It's obvious use is for commoners 
+to pray to the shrine you see on the west wall.  Commoners are not allowed 
+into the main temple, as that is reserved for noblemen.
+~
+85 72 0 1 99 1
+D1
+The temple entrance is east.
+~
+~
+0 -1 14542
+S
+#14544
+The Temple Of Pisces~
+This is a room used by the priests of Pisces to store vestments and articles
+of worship.  There is nothing here that you have ever seen before or know 
+how to use.
+~
+85 72 0 1 99 1
+D3
+The entrance to the temple is west.
+~
+door~
+9 -1 14542
+S
+#14545
+The Temple Of Pisces~
+You are on your way to the altar room.  A gate of silver blocks your path,
+but you can see a shaman performing some bizarre ritual in the next room.
+~
+85 72 0 1 99 1
+D0
+The altar room is north.
+~
+gate~
+9 -1 14546
+D2
+The entrance to the temple is south.
+~
+~
+0 -1 14542
+S
+#14546
+The Altar to Pisces~
+You are in the altar room.  The shaman, now in a religious frenzy, totally
+ignores you as he tries to complete his ritual.  You think you see a
+not-so-carefully hidden trapdoor under the altar.
+~
+85 72 0 1 99 1
+D2
+The temple hall is south.
+~
+gate~
+9 -1 14545
+D5
+A trapdoor leads down into water.  You think you shouldn't go down there
+unless you have some method for breathing water
+~
+trapdoor~
+9 -1 14547
+S
+#14547
+Under the Altar~
+You are in the watery world beneath the altar.  You do not know what
+keeps the water from coming into the rest of the city, but since it
+doesn't, you shouldn't concern yourself with it.  You see a bright light
+further down and a trapdoor above.
+~
+85 8 0 1 99 8
+D4
+The altar room is up.
+~
+trapdoor~
+9 -1 14546
+D5
+The underwater passage continues down.
+~
+~
+0 -1 14554
+S
+#14548
+The Bazaar~
+This is perhaps the busiest area of the city.  Commoners rush about, 
+buying everyday necessities.  You wonder if you could buy anything, but
+since you don't understand the language, you don't know what to pay for 
+anything.  
+~
+85 8 0 1 99 1
+D2
+An alley is south.
+~
+~
+0 -1 14549
+D3
+Moon Pearl Boulevard is to the west.
+~
+~
+0 -1 14536
+S
+#14549
+The Alley~
+You are in a virtually deserted alley.  A few pieces of trash lie about,
+with strange, rat-like creatures rooting through the garbage.  The alley
+continues south.
+~
+85 8 0 1 99 1
+D0
+The bazaar is north.
+~
+~
+0 -1 14548
+D2
+The alley continues south.
+~
+~
+0 -1 14550
+S
+#14550
+The Alley~
+The alley continues north and south.  To the south you see it bend to the
+west.  You hear various shouts from the end of the alley.
+~
+85 8 0 1 99 1
+D0
+The Alley is north.
+~
+~
+0 -1 14549
+D2
+A bend in the alley is south.
+~
+~
+0 -1 14551
+S
+#14551
+Bend in the Alley~
+The alley takes a sharp turn to the west here.  You see the cause for the
+shouts, as a few native construction workers are trying to repair a crack
+in the dome.  
+~
+85 8 0 1 99 1
+D0
+The alley continues north.
+~
+~
+0 -1 14550
+D3
+The crack in the dome is west.
+~
+~
+0 -1 14552
+S
+#14552
+By the Crack~
+Some kind of magical energy barrier has been put up to keep the water
+from rushing through the crack.  The barrier seems strong enough to keep out
+the rushing water, but not strong enough to keep out the giant, hungry 
+squid.
+~
+85 8 0 1 99 1
+D1
+A bend in the alley is east.
+~
+~
+0 -1 14551
+D2
+The crack in the dome is south.  You don't think you would be able to 
+withstand the high pressure of the sea outside the dome.
+~
+~
+0 -1 14553
+S
+#14553
+Outside the Dome~
+You have left the protection of the domed city and find that your frail
+body cannot withstand the pressures of the hostile sea.  Since the energy
+barrier will not let you back in, you are crushed to death by the waves.
+You are dead...sorry.  :)
+~
+85 14 0 1 99 1
+S
+#14554
+Underwater Passage~
+The light gets brighter the further down you go.  Also, the more you go 
+down, the more you feel at peace with your inner self.  You feel as if you
+have no cares in the world.
+~
+85 8 0 1 99 8
+D4
+The underwater passage continues up.
+~
+~
+0 -1 14547
+D5
+The underwater passage continues down
+~
+~
+0 -1 14556
+S
+#14555
+The Home of the Sage~
+This room belongs to the reknowned sage of Atlantis, who goes by the name of
+Kreel.  His room is adorned with gaudy and clashing colorful wall
+tapestries, and several  wide bookshelves have been placed in the corner.  
+This room is large enough to sleep 15 men comfortably, but Kreel seems
+to have it all to himself.  A door is to the west.
+~
+85 8 0 1 99 1
+D3
+A wide hallway runs past the room.
+~
+door~
+9 -1 14539
+S
+#14556
+Underwater Passage~
+You think you can see the source of the light from this area, but the 
+water difffuses it such that you cannot see clearly from this distance.
+The passage continues north.
+~
+85 8 0 1 99 8
+D0
+A holy area is north.
+~
+~
+0 -1 14557
+D4
+The underwater passage is up.
+~
+~
+0 -1 14554
+S
+#14557
+Residence of Pisces~
+This humble underwater cave is the residence of the deity of Atlantis.
+It is from here that she insures the city above exists in peace.  Various
+small fish cluster around the deity, competing for her attention.
+~
+85 8 0 1 99 8
+D2
+The underwater passage continues south.
+~
+~
+0 -1 14556
+S
+$~
+#999999

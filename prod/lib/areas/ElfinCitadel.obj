@@ -1,0 +1,532 @@
+#14600
+obj key black elven~
+2
+&Ka dark black key&n~
+A strange looking black key seems to have been left here.~
+~
+18 262156 0 1
+1 2 10 3
+1 100000 10000000
+#14601
+obj elven royal slippers~
+30
+&bR&Boya&bl S&Blipper&bs&n~
+The King's Royal Slippers are sitting here.~
+~
+11 1048576 0 65
+0 0 10 0
+5 1000 250
+A
+13 -5
+A
+12 10
+A
+14 40
+A
+2 2
+#14602
+obj elven longsword sword~
+30
+&wan &Ge&glve&Gn &wlong&Ksword&n~
+A sword with a long, thin blade and green hilt is here.~
+~
+5 524288 0 8193
+0 3 7 3
+9 3500 500
+A
+19 1
+#14603
+obj elven royal signet~
+40
+&GE&glve&Gn &YRo&Wy&Yal &wS&Kigne&wt&n~
+The Elfin Royal Signet is sitting here.~
+~
+9 1084450 0 16387
+3 0 10 0
+1 18000 10000
+A
+12 20
+A
+3 3
+A
+1 -2
+A
+5 1
+#14604
+obj elven crystal ball~
+20
+&wan &Ge&glve&Gn &wc&Cr&Wyst&Ca&wl &Wball&n~
+An Elfin Crystal ball is lying here.~
+~
+1 1116160 0 81921
+0 0 -1 0
+2 15000 15000
+A
+27 -1
+A
+26 -1
+A
+32 -1
+A
+3 2
+#14605
+obj clear elven breast plate~
+20
+&wa &Wclear &wbreast plate&n~
+A clear breast plate is laying here.~
+~
+9 2168832 0 9
+64 0 0 0
+50 50000 20000
+A
+1 -1
+A
+19 1
+#14606
+obj holy elven cross~
+35
+&wa &Wholy &Ge&glve&Gn &Wcross&n~
+A holy Elfin cross is laying here.~
+~
+11 1051648 0 5
+2 0 10 0
+0 100000 5000
+A
+19 2
+#14607
+obj ring deep black~
+10
+&Ka deep black ring&n~
+A deep black ring is lying here.~
+~
+9 1051266 0 3
+10 0 10 0
+1 150000 30000
+A
+37 -1
+A
+13 10
+A
+1 -2
+A
+12 10
+#14608
+obj gloves leather elfin~
+25
+&ya pair of brown leather gloves&n~
+A brown pair of Elfin gloves are lying here.~
+~
+9 2097152 0 129
+19 0 0 0
+1 50000 15000
+A
+1 4
+A
+19 1
+A
+12 -25
+A
+3 -3
+#14609
+obj crossbow bow elven~
+45
+&ya &Kshadow&y crossbow&n~
+A Shadowed crossbow has been malevolently placed here!~
+~
+5 2099744 0 8193
+0 4 8 8
+15 100000 21000
+A
+18 3
+A
+19 3
+A
+17 -2
+A
+1 -2
+#14610
+obj Stormblade sword storm~
+100
+&Kthe &WSto&wr&Kmb&wl&Wade&n~
+The StormBlade is sitting here.~
+~
+5 2103808 0 8193
+1024 8 4 3
+5 100000 50000
+A
+1 1
+A
+19 3
+A
+18 3
+A
+3 -2
+#14611
+obj book first swords~
+15
+&ythe first book of &Ks&wword&Ks&n~
+There is a red dusty book here on the floor.~
+~
+12 264704 0 1
+0 0 10 0
+1 1000000 100000000
+E
+book~
+Long ago, an ancient evil attacked the citadel.  An evil so powerful that it could never be destroyed entirely.
+The king, in a valiant attempt to save his people and home, called forth the powers of the elven god Solarius.
+The battle between the god Solarius and the evil one was furious, but in the end the elven god stood
+triumphant over the corpse of his enemy.
+~
+#14612
+obj book second swords~
+15
+&ythe second book of &Ks&wword&Ks&n~
+Their is a white book lying before you.~
+~
+12 264704 0 1
+0 0 10 0
+1 1000000 100000000
+E
+book~
+Solarius, knowing that the evil could never be destroyed, instead sealed the already regenerating spirit inside
+a holy altar deep under the citadel. The creatures blade, an artifact of great power, was broken into three 
+pieces and given to three guardians to prevent it from ever being reunited again. He then created three books,
+the books of swords, to serve as a reminder to his people of the evil that lurked below them, and to act as a
+greater barrier to prevent the stormblade from again falling into evil hands.
+~
+#14613
+obj book third swords~
+15
+&ythe third book of &Ks&wword&Ks&n~
+There is a blue book lying here.~
+~
+12 264704 0 1
+0 0 10 0
+1 1000000 100000000
+E
+book~
+Even so, the blade can be remade. Solarius' power was great, but not all-powerful. Many have attempted to 
+collect the broken sword pieces and books, and bring them to the altar to be mended, but so far the elves have
+thwarted all attempts. If one were to &Wassemble&B the stormblade at the altar, it could well spell doom for
+all creatures of good......&n
+~
+#14614
+obj hilt piece sword~
+10
+&Wthe hi&wlt&K piece of t&whe &Wsword&n~
+There is a hilt piece of the sword before you.~
+~
+12 264708 0 1
+0 0 10 0
+1 1000000 100000000
+#14615
+obj middle piece sword~
+10
+&Wthe mi&wdd&Kle piece of t&whe &Wsword&n~
+The middle piece of the sword lays before you!~
+~
+12 264708 0 1
+0 0 10 0
+1 1000000 100000000
+#14616
+obj tip piece sword~
+10
+&Wthe ti&wp p&Kiece of t&whe &Wsword&n ~
+The tip of the stormblade lays before you!~
+~
+12 264708 0 1
+0 0 10 0
+1 1000000 100000000
+#14617
+obj first book~
+10
+&ythe first book of &Ks&wword&Ks&n~
+The First Book of Swords in sitting on the altar.~
+~
+12 262144 0 0
+0 0 10 0
+1 1000000 100000000
+E
+book~
+Long ago, an ancient evil attacked the citadel. An evil so powerful, that it could never be destroyed enitely.
+The king, in a valiant attempt to save his people and home called forth the powers of the elven god Solarius.
+The battle between the god Solarius and the evil one was furious, but in the end, the elven god stood 
+truimphant over the corpse of his enemy.
+~
+#14618
+obj second book~
+10
+&ythe second book of &Ks&wword&Ks&n~
+The Second Book of Swords is sitting on the altar.~
+~
+12 262144 0 0
+0 0 10 0
+1 1000000 100000000
+E
+book~
+Solarius, knowing that the evil could never be destroyed, instead sealed the already regenerating spirit inside
+a holy altar deep under the citadel. The creatures blade, an artifact of great power, was broken into three 
+pieces and given to three guardians to prevent it from ever being reunited again. He then created three books,
+the books of swords, to serve as a reminder to his people of the evil that lurked below them, and to act as a
+greater barrier to prevent the stormblade from again falling into evil hands.
+~
+#14619
+obj third book~
+10
+&ythe third book of &Ks&wword&Ks&n~
+The Third Book of Swords is sitting on the altar.~
+~
+12 262144 0 0
+0 0 10 0
+1 1000000 100000000
+E
+book~
+Even so, the blade can be remade. Solarius' power was great, but not all-powerful. Many have attempted to 
+collect the broken sword pieces and books, and bring them to the altar to be mended, but so far the elves have
+thwarted all attempts. If one were to &Wassemble&B the stormblade at the altar, it could well spell doom for
+all creatures of good......&n
+~
+#14620
+obj hilt piece~
+10
+&Wthe hi&wlt &Kpiece of t&whe &Wsword&n~
+The hilt of the sword is lying on the altar.~
+~
+12 262144 0 0
+0 0 10 0
+1 1000000 100000000
+#14621
+obj middle piece~
+10
+&Wthe mi&wdd&Kle piece of t&whe &Wsword&n~
+The middle of the sword is lying on the altar.~
+~
+12 262144 0 0
+0 0 10 0
+1 1000000 100000000
+#14622
+obj tip piece~
+10
+&Wthe ti&wp p&Kiece of t&whe &Wsword&n~
+The tip of the Stormblade is lying on the altar.~
+~
+12 262144 0 0
+0 0 10 0
+1 1000000 100000000
+#14623
+obj thorn poisonous~
+35
+&ya &Gpoi&gson&Gous&y thorn&n~
+Someone has left a thorn laying here.~
+~
+5 524288 0 24577
+3 3 4 11
+8 15000 250
+A
+19 1
+A
+18 1
+#14624
+obj silver flask elven~
+100
+&wa si&Wlv&wer &Kflask&n~
+A valuable flask is here, waiting to hold water for you.~
+~
+17 0 0 1
+100 100 13 0
+15 559 15000
+#14625
+obj chocolate food ~
+80
+&ya chocolate&n~
+A piece of chocolate is here, melting in the sun.~
+~
+19 0 0 1
+8 0 10 0
+1 15 2
+#14626
+obj steak T-bone food~
+80
+&ra juicy &WT-bone &rsteak&n~
+A steak is here, still sizzling hot.~
+~
+19 0 0 1
+18 0 10 0
+1 39 12
+#14627
+obj grapes grape food~
+80
+&pa bunch of grapes&n~
+A bunch of grapes has been set here.~
+~
+19 0 0 1
+11 0 10 0
+1 15 8
+#14628
+obj necklace diamond elfin~
+45
+&wa di&Wamo&wnd &Wnecklace&n~
+A sparkling diamond necklace is resting here on the ground!~
+~
+9 1051648 0 5
+5 0 10 0
+5 150000 20000
+A
+12 20
+A
+4 1
+A
+2 -2
+A
+33 -1
+#14629
+obj magic elven shield~
+20
+&wa &cma&Kg&cic &Ge&glve&Gn &Kshield&n~
+A magical elfin shield is laying here.~
+~
+9 1056833 0 513
+33 0 0 0
+6 100000 10000
+A
+12 15
+A
+4 1
+A
+18 -1
+#14630
+obj key ivory elven~
+2
+&Wan ivory key&n~
+An oddly shaped piece of ivory is on the ground.~
+~
+18 262152 0 1
+2 1 3 1
+1 5 5
+#14631
+obj slippers glass~
+15
+&Wglass &wslippers&n~
+Angelic glass slippers are sitting here.~
+~
+11 1048576 0 65
+5 0 0 0
+5 1000 250
+A
+19 1
+A
+13 15
+A
+32 -1
+#14632
+obj shoddy elven chainmail~
+20
+&wsh&Kod&wdy &Ge&glve&Gn &wchain&Kmail&n~
+Someone has left some shoddy chainmail here.~
+~
+9 524288 0 9
+3 0 0 0
+5 1000 5
+A
+18 1
+A
+3 1
+#14633
+obj excellent elven chainmail~
+5
+&wan excellent set of &Ge&glve&Gn &wchain&Kmail&n~
+Someone has left an excellent set of elfin chainmail here.~
+~
+9 1048576 0 9
+7 0 0 0
+5 10000 5
+A
+19 2
+A
+18 2
+A
+5 1
+#14634
+obj elven leggings~
+10
+&wa set of excellent &Ge&glve&Gn &Kleggings&n~
+Someone has left an excelent set of elfin leggings here.~
+~
+9 1048576 0 33
+10 0 0 0
+3 1000 5
+A
+19 1
+A
+18 1
+#14635
+obj chef apron ~
+10
+&Wa chef apron&n~
+Someone has left a chef's apron here.~
+~
+9 524288 0 1025
+0 0 10 0
+1 5 5
+A
+19 1
+A
+36 -1
+#14636
+obj boris longsword~
+15
+&wBoris' long&Ksword&n~
+Someone has left Boris's longsword here.~
+~
+5 524288 0 8193
+0 2 12 3
+5 5 5
+#14637
+obj elven gauntlets~
+20
+&wa pair of &Ge&glve&Gn &Kgauntlets&n~
+Someone has left a pair of green gauntlets here.~
+~
+9 1048576 0 129
+10 0 0 0
+1 15 5
+A
+19 1
+A
+1 2
+A
+5 1
+#14638
+obj elven defender~
+1
+&wthe &Ge&glve&Gn &Wdefender&n~
+The Elfin Defender~
+~
+5 7168 32 8193
+2048 8 4 3
+5 100000 50000
+A
+1 1
+A
+19 2
+A
+18 3
+A
+3 -2
+#14639
+obj squirrel's tail~
+20
+&ya squirrels tail&n~
+A squirrel's tail is lying here.~
+~
+9 0 0 262145
+5 0 0 0
+1 5 5
+A
+5 1
+A
+2 1
+A
+13 10
+$~
+#999999

@@ -1,0 +1,156 @@
+#7500
+mob lizardman warrior guard~
+lizardman warrior~
+A tall ferocious looking lizardman blocks the way.
+~
+You notice a lizardman guard with a spear in hand.  He
+seems to watch your every move, ready to strike you down 
+at any moment.
+~
+206 1048577 136249361 4096 -1000 S
+14 25 30 7d19+130 4d3+10
+20 8000
+8 8 1
+32 4 18 18 14 15 13 14
+SKILL=SKILL_SECOND 20
+#7501
+mob Lizardress~
+Lizardress~
+A lizardress guards over her young.
+~
+A female lizard stands protectively over her nest of young tadpoles.
+You begin to wonder if you belong here; more importantly, 
+you wonder if you will get out alive.
+~
+204 1048577 136249361 4096 -1000 S
+12 27 32 10d19+75 3d5+3
+10 3725
+8 8 2
+32 4 15 18 14 15 13 14
+#7502
+mob Tadpole~
+Tadpole~
+A scrawny Tadpole crawls around its nest.
+~
+You notice a little tadpole swimming about in a pool of water.
+~
+204 1048577 136249361 4096 -10 S
+9 30 35 4d5+50 2d9+2
+0 320
+8 8 0
+32 4 10 18 14 15 13 14
+#7503
+mob Lizardman Necromancer ~
+Lizardman Necromancer~
+A shriveled Lizardman practices his dark necromancy.
+~
+You notice some sort of Lizard necromancer, he has a aura about 
+his body that gives you a feeling of great despair.
+~
+134276814 1048577 136249361 4104 -1000 S
+20 20 24 100d19+400 3d15+2
+50 54000
+8 8 1
+32 8 18 18 14 15 13 14
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_BLACK_BURST 99
+#7504
+mob Lizardman shaman~
+Lizardman Shaman~
+A lizardman shaman prays to her dark gods.
+~
+You notice a female shaman chanting and praying to her gods above,
+you wonder if she has plans enstore for you.
+~
+57550 1048577 136249361 4104 -1000 S
+24 16 20 88d19+1000 5d9+15
+150 72305
+8 8 2
+32 6 18 18 14 15 13 14
+SKILL=SPELL_HEAL_MINOR 99
+#7505
+mob lord priest Yuan-ti~
+Yuan-ti priestlord~
+An evil Yuan-ti priestlord leads this tribe in its dark rituals.
+~
+Before you is a great Yuan-ti Priestlord.  He seems to be in
+a trance as he mumbles dark arcane words.  Fear strikes you 
+as you realize he is the leader of the realm of Sharrizar.
+~
+1208226126 2129921 136249361 136 -1000 S
+28 14 8 23d19+1000 6d17+4
+290 112000
+8 8 1
+35 2 24 24 14 14 15 15
+SKILL=SPELL_COLOUR_SPRAY 65
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_SECOND 30
+SKILL=SPELL_EARTHQUAKE 60
+#7506
+mob vulture~
+vulture~
+A vulture eyes its feast.
+~
+A giant vulture stares at you hungrily through large bulbous eyes.
+~
+16777288 1 136249361 0 -250 S
+21 19 23 70d19+1000 10d6+1
+0 66000
+8 8 0
+0 0 17 17 14 14 15 14
+#7507
+mob crocodile~
+Crocodile~
+A very large Crocodile is looking for its next meal.
+~
+You notice a huge crocodile ready to tear you limb from limb 
+and feast on your remains.
+~
+151052488 1 136249361 8 -500 S
+16 24 28 30d9+90 5d5+7
+0 4935
+8 8 0
+0 0 16 16 16 16 12 15
+#7508
+mob Master Mace Windu mob~
+&WMaster &YM&yac&Ye &YW&yind&Yu&n~
+&WMaster &YW&yind&Yu&w sits here meditating on the force.&n
+~
+&wWhat the hell you expect &YW&yind&Yu&w will lay a beat down on you
+just like &WMaster &GYoda&w...so get to stepping.&n
+~
+10 1 136249361 128 0 S
+49 -20 -40 1d1+99999 80d80+90
+1 0
+8 8 1
+1 4 16 15 15 15 13 13
+#7509
+mob master yoda~
+&WMaster &GYoda&n~
+&WMaster &GYoda&w sits here pondering matters of the &CJedi.&n
+~
+&wIt's &WMaster &GYoda. &wYou don't mess with &WMaster &GYoda &wunless
+you want him to lay a beat down on your arse with his jedi
+lightsaber.&n
+~
+10 1 136249361 128 1000 S
+49 -20 -40 1d1+99999 80d80+99
+1 0
+8 8 1
+1 4 17 17 16 14 14 13
+#7510
+mob Blackfang Yuan-ti Warlord~
+The Yuan-ti Warlord Blackfang~
+The Yuan-ti Warlord Blackfang stands here pondering the Yuan-ti's next conquest.
+~
+Before you is the great Yuan-ti Warlord. He seems to be studying some
+sort of map. Perhaps he is planning his next conquest for the ever
+growing Yuan-ti army.
+~
+1074004046 32769 136249361 140 -1000 S
+26 18 20 20d20+1800 6d14+5
+225 78000
+8 8 1
+35 4 21 16 16 20 15 11
+$~
+#999999

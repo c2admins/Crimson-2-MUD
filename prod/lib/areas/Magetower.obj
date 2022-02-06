@@ -1,0 +1,322 @@
+#24380
+obj food stained apron obj~
+6
+&WA &Gf&goo&Gd &ystained &Wapron&n~
+&WA &Gf&goo&Gd &ystained &Wapron&w has been discarded here.&n~
+~
+15 2097152 0 2049
+500 0 0 0
+1 50000 5000
+A
+19 1
+A
+18 3
+A
+12 -15
+A
+13 -15
+#24381
+obj servants robe~
+2
+&YS&yervant&Ys &Wr&wob&We&n~
+&WA &Ys&yervan&Yt&W has lost his robe.&n~
+~
+9 2097152 0 1025
+30 0 0 0
+3 5000 5000
+A
+19 1
+A
+18 3
+#24382
+obj bone shield obj mage~
+2
+&WS&whiel&Wd &wof &Kb&wone&Ks&n~
+&wYou notice a shield constructed from the bones of the dead.&n~
+~
+9 4194820 0 513
+0 0 0 0
+5 1500000 15000
+A
+19 3
+A
+40 1
+A
+12 -10
+A
+14 -10
+#24383
+obj fiery claws mage obj~
+2
+&Rf&rier&Ry &yc&Klaw&ys&n~
+&wA pair of claws lay on the &yground &Rb&rurnin&Rg&w.&n~
+~
+5 20971520 0 8193
+1616 5 8 11
+1 2500000 10000
+#24384
+obj flame strike obj sword mage~
+1
+&Y<}&r+-+-&Y{&R::&r:&RF&rlam&Re&r:&R:&YS&ytrik&Ye&r:&R::&Y>&n~
+&wA &Rs&rmolderin&Rg &Kb&wlad&Ke&w is stuck in the ground.&n~
+~
+5 37748736 0 8193
+65536 10 5 11
+5 250000 2500
+#24385
+obj wand wondrous colors obj mage~
+3
+&YWand &Wof &Yw&yondrou&Ys &xc&xo&xl&xo&xr&xs&n~
+&WSome mage has lost a wand.&n~
+~
+3 4456448 0 16385
+75 10 10 10
+1 5 5
+#24386
+obj necromancer robe obj mage~
+1
+&KNecro&wmancers &rr&Kob&re&n~
+&wA red and black robe has been discarded here.&n~
+~
+15 4211200 128 1025
+500 0 0 0
+4 5000000 10000
+A
+19 4
+A
+18 1
+A
+41 1
+A
+17 -40
+#24387
+obj bone tusk obj mage~
+1
+&wA &Kl&warg&Ke &yb&Kon&ye &yt&Kus&yk&n~
+&wA large tusk lays on the ground.&n~
+~
+5 4194816 0 8193
+33304 5 8 11
+1 5 5
+A
+19 1
+A
+18 4
+A
+13 -10
+A
+12 -10
+#24388
+obj mage obj wand wondrous power~
+1
+&YW&yan&Yd &Wof &Cw&condrou&Cs &Gp&gowe&Gr&n~
+&WA wand was misplaced here.&n~
+~
+3 4194304 0 16385
+75 5 5 86
+1 125000000 1250000
+#24389
+obj tome ancients mage~
+10
+&YT&yom&Ye &wof &Wthe &GA&Cncient&Gs&n~
+an old, dust-covered book lies here.~
+~
+9 2359296 0 16385
+30 0 0 0
+1 5 5
+A
+19 7
+A
+18 3
+A
+25 2
+A
+37 -1
+#24390
+obj conjurer staff mage obj~
+1
+&RC&ronjurer'&Rs &Ys&ytaf&Yf &Wof &Rf&rlam&Re&Ys&ytrik&Ye&n~
+&WA smoldering &Ys&ytaf&Yf &Wlays &Rb&rurnin&Rg&W on the &Gggroun&Gd&W.&n~
+~
+3 4235265 266240 16385
+75 6 6 116
+4 2500000 250000
+A
+19 6
+A
+18 3
+A
+12 -15
+A
+14 -10
+#24391
+obj golem makers belt mage obj~
+1
+&WThe &KG&wole&Km &YM&yaker&Ys &ybelt&n~
+&wA frayed &ybelt&w lays crumpled up on the ground.&n~
+~
+15 4194304 0 2049
+450 0 0 0
+2 1250000 12500
+A
+19 3
+A
+18 1
+A
+40 1
+A
+13 -20
+#24392
+obj inquisitor cloak mage obj~
+1
+&WThe &RI&rnquisitor'&Rs &Yc&yloa&Yk&n~
+&wSomeone has misplaced their cloak.&n~
+~
+9 4194304 1024 5
+20 0 0 0
+3 3500000 3500
+A
+19 4
+A
+18 1
+A
+13 -10
+A
+12 -10
+#24393
+obj bracers magi mage obj~
+1
+&RB&rrace&Rr &Wof the &YM&yag&Yi&n~
+&WA bracer has been misplaced here.&n~
+~
+9 88137729 291968 4097
+25 0 0 0
+1 45000000 4500
+A
+19 3
+A
+18 3
+A
+13 -10
+#24394
+obj arch-magus hat mage obj~
+1
+&WThe &KA&wrc&Kh&W-&YM&yagu&Ys' &yhat&n~
+&WSomeone has lost their wizards hat.&n~
+~
+9 4251648 290944 17
+25 0 0 0
+1 5 5
+A
+19 4
+A
+18 1
+A
+36 -1
+#24395
+obj shadowfang mage obj~
+1
+&KS&whado&Kw&yf&wan&yg&n~
+&wA dragons fang has been discarded here.&n~
+~
+5 4194304 0 8193
+36880 5 8 11
+5 2500000 2500
+A
+18 2
+A
+13 -20
+A
+19 1
+#24396
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#24397
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#24398
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#24399
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#24400
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#24401
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#24402
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#24403
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#24404
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#24405
+obj torch~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+$~
+#999999

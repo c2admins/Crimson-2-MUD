@@ -1,0 +1,466 @@
+#20745
+obj fruit bearing bush~
+100
+&GThe bush&n~
+&GA small &Rfruit&G bearing bush grows out of the &yfloor&G.&n~
+~
+15 0 0 0
+50 0 0 0
+1 5 5
+E
+bush~
+  &cThe bush appears to grow straight out of the floor. It's many branches carry many different
+varieties of fruits, giving testament to the powerful magics that shaped this realm.&n
+~
+#20746
+obj apple shiny ripe~
+70
+&ran apple&n~
+&nA nice shiny &rripe apple&n looks ready to be picked.&n~
+~
+19 0 0 1
+9 0 0 0
+2 30 5
+#20747
+obj unripe apple~
+80
+&Gan unripe apple&n~
+An unripe &Ggreen apple&n looks like it should stay on the bush a bit longer.&n~
+~
+19 0 0 1
+9 0 0 1
+2 10 5
+#20748
+obj juicy orange~
+70
+an orange~
+A nice juicy looking orange grows on the bush.~
+~
+19 0 0 1
+7 0 0 0
+2 25 5
+#20749
+obj juicy kiwi~
+50
+a juicy &Gk&yiw&Gi&n~
+A juicy looking &Gk&yiw&Gi&n grows on the bush.~
+~
+19 0 0 1
+24 0 0 0
+1 50 5
+#20750
+obj weapons rack~
+100
+&ya weapons rack&n~
+&yA large weapons rack stands here, encased in &wglass&y.&n~
+~
+15 0 0 0
+500 15 20753 0
+90 5000 5
+E
+rack weapons glass~
+&w A small green lock keeps the weapons case closed. It looks very delicate, but a few strong
+pulls shows it to be very strong after all.&n
+~
+#20751
+obj battle spear elven steel tipped~
+4
+&ya battle spear with an &Ge&glve&Gn &wsteel &Ktip&n~
+A large, yet very light spear rests here.~
+~
+5 21568 16 8193
+65536 6 5 11
+6 10000 5
+E
+spear battle~
+&c  Fashioned from aged oak and expertly carved by the most prestigious elven woodworkers, 
+the spear is a wonderous weapon to behold. The tip of the weapon has been forged from a very
+light, yet incredibly strong metal that only elves have the ability to make. It is simple, yet
+elegant in it's design. A perfect weapon for any warrior.
+~
+A
+18 4
+#20752
+obj elven broadsword finely crafted~
+10
+&Wa finely crafted &Ge&glve&Gn &wbroad&Ksword&n~
+A broadsword crafted from elven steel lies here.~
+~
+5 134235136 16 8193
+0 6 5 3
+7 16750 5
+A
+18 2
+A
+19 2
+#20753
+obj small green key~
+33
+&Ga small green key&n~
+A small green key has been discarded here.~
+~
+18 0 0 1
+20750 1 0 0
+1 300 5
+#20754
+obj thin serrated short blade~
+2
+&ca thin, &Kserrated&c short blade&n~
+A thin blade with serrated edges lies here.~
+~
+5 138429505 128 8193
+0 5 10 11
+5 35000 5
+A
+33 -1
+A
+41 2
+#20755
+obj suit green mesh armor~
+3
+&Wa suit of &Gg&gree&Gn &wm&Kes&wh &Karmor&n~
+A suit of armor made from green leather and mesh lies here.~
+~
+9 4195329 0 9
+30 0 0 0
+15 19000 5
+A
+19 3
+A
+12 20
+A
+24 -3
+#20756
+obj wooden lampost~
+100
+&ya wooden lampost with a &Khooded lantern&y affixed.&n~
+&yA wooden lampost with a &Khooded lantern&y affixed is here.&n~
+~
+1 1 0 0
+0 0 1000 0
+1 5 5
+E
+lamp lantern post~
+&c Seemingly growing from the base of the walkway itself, the post reaches nearly six feet
+in length before curling at the end to form a hook upon which a large hooded lantern rests.
+The hook then further curls in upon itself, almost as if it grabs the lantern, preventing
+the light from being removed without entirely destroying the post.&n
+~
+#20757
+obj rope ladder~
+100
+&ya rope ladder&n~
+&yA sturdy rope ladder is firmly attached to the side of the branch.&n~
+~
+25 0 0 0
+0 0 10 0
+1 5 5
+#20758
+obj legendary shield blue dragon~
+0
+&KThe &wLeg&Wend&wary &KShield of the &CB&clu&Ce &KD&wr&Wag&wo&Kn&n~
+A scales from a large blue beast lies here.~
+~
+9 104859968 0 513
+60 0 0 0
+10 240000 50000
+A
+19 3
+A
+18 1
+A
+41 2
+#20759
+obj lightning runestone~
+1
+&Wthe &wl&Wig&Yhtning &Krun&we&Ws&wt&Kone&n~
+A small stone lies here, crackling with electrical energy.~
+~
+3 138412097 0 16385
+41 10 10 30
+2 76000 5
+#20760
+obj binding runestone~
+1
+&Wthe &Krun&we&Ws&wt&Kone &Wof &Rb&rindin&Rg&n~
+A small stone lies here, pulsing with a strange power.~
+~
+3 138412097 0 16385
+41 5 5 90
+3 95000 5
+#20761
+obj runestone elders~
+1
+&WA &wRun&Kest&wone &Wof the &WE&wl&pde&wr&Ws&n~
+A small stone lies here, glowing with an old, powerful aura.~
+~
+8 138413121 0 81921
+0 0 0 0
+2 110000 5
+#20762
+obj runestone nobility~
+1
+&Wthe &Krun&we&Ws&wt&Kone &Wof &cno&Cb&Wil&Ci&cty&n~
+A strange, glowing rune lies here.~
+~
+1 4194625 0 65537
+0 0 0 0
+2 200000 5
+#20763
+obj table wooden~
+100
+&ya wooden table&n~
+&yA large wooden table is here, growing from the floor.&n~
+~
+15 0 0 0
+400 0 0 0
+500 5 5
+#20764
+obj finely crafted chair~
+32767
+A torch~
+A torch is lying here.~
+~
+1 0 0 1
+0 0 0 0
+1 5 5
+#20765
+obj elven longsword wyrm sliver wyrmsliver~
+1
+&K>&yxxxx&Y{&K:::: &GW&gyr&Gm&KS&wl&Wiv&we&Kr :::>&n~
+A finely crafted longsword lies here, pulsing with internal power.~
+~
+5 222452801 0 8193
+1056768 12 4 3
+4 399999 300000
+A
+19 1
+A
+18 3
+A
+41 1
+#20766
+obj elven dias~
+3
+an &Go&yake&Gn&n dais~
+A large dais grown from the heart of the tree is here..~
+~
+15 8 0 0
+100 1 0 0
+1 5 5
+E
+dais oak~
+Grown from the tree itself, the dais is a magnificent example of the art of the elves of Quel'Sith. Depictions
+of several battles run up each side, telling a story of bravery and sacrifice in an endless cycle. The top
+of the dais is plain, save for 4 indentations in each corner, almost as if something were missing......
+~
+#20767
+obj shadowdancers suit~
+3
+&KA Shadow&cd&wa&Wnc&we&cr &KSuit&n~
+A small, tight fitting leather suit lies here.~
+~
+9 71341056 397312 9
+80 0 0 0
+8 200000 40000
+A
+19 3
+A
+18 2
+A
+12 -20
+#20768
+obj poison tipped dagger~
+3
+&wA &Gp&goiso&Gn&W-&wti&Kpp&wed &Kdagger&n~
+A small thin bladed dagger lies here. It is covered in a sticky goo.~
+~
+5 4194368 4096 8193
+3 24 2 11
+1 5 5
+A
+41 1
+A
+18 2
+A
+19 1
+#20769
+obj gnarled oak staff~
+2
+&yA Gnarled Oak Staff&n~
+A large staff made from oak lies here.~
+~
+12 88081408 0 16385
+0 0 0 0
+7 500 40000
+A
+17 -25
+A
+19 6
+#20770
+obj dragonhide leggings~
+1
+&WA &wpair&W of &KD&wr&Wag&wo&Kn&yhide &KLeggings&n~
+A pair of magical leather leggings lie here.~
+~
+9 88085568 147456 524321
+40 0 0 0
+5 500000 400000
+A
+41 1
+A
+19 3
+A
+12 -15
+#20771
+obj dragonhide sleeves~
+1
+&WA &wpair &Wof &KD&wr&Wag&wo&Kn&yhide &KSleeves&n~
+A pair of magical leather sleeves lie here.~
+~
+9 88085568 147456 257
+35 0 0 0
+4 400000 300000
+A
+41 1
+A
+19 3
+A
+18 1
+A
+13 -30
+#20772
+obj executioner~
+1
+&Y]&yxxxx&w|&K+++ &WExe&Gc&guti&Go&Wner &K+++>&n~
+A thin elven blade lies here. ~
+~
+5 88098112 8192 8193
+4227072 8 5 3
+5 450000 200000
+A
+19 2
+A
+18 2
+A
+33 -1
+#20773
+obj cloak elvenkind~
+1
+&WA &yCl&Ko&yak &Wof &GE&glve&Gnk&gin&Gd&n~
+A simple brown and green cloak lies here.~
+~
+9 71306560 4096 5
+15 0 0 0
+4 240000 75000
+A
+41 1
+A
+36 -1
+A
+19 2
+A
+18 3
+#20774
+obj boots elvenkind~
+1
+&yBoots &Wof &GE&glvenkin&Gd&n~
+A pair of boots covered with elven runes lie here.~
+~
+9 4195392 0 65
+5 0 0 0
+3 50000 13500
+A
+19 3
+A
+18 1
+#20775
+obj amulet sky~
+2
+&wThe &YA&ym&Yu&yl&Ye&yt &wof the &CS&ck&Cy&n~
+A strange glowing amulet lies here.~
+~
+9 4236288 278528 5
+10 0 0 0
+2 400000 100000
+A
+19 4
+A
+18 1
+#20776
+obj elven war banner~
+1
+&wAn &GE&glve&Gn &rW&Ra&rr &WB&wanne&Wr&n~
+A banner with an elven insignia lies here.~
+~
+9 4195648 0 16385
+20 0 0 0
+10 345000 10000
+A
+19 6
+A
+18 4
+A
+13 -50
+#20777
+obj suit elven chainmail~
+2
+&wA &KSuit &wof &GE&glve&Gn &KC&whai&Knmail&n~
+A suit of finely crafted chainmail lies here.~
+~
+9 71304257 0 9
+70 0 0 0
+10 10000000 109000
+A
+19 3
+A
+18 1
+A
+41 2
+A
+13 -50
+#20778
+obj bracer sun~
+2
+&GB&grace&Gr &wof the &YSun&n~
+A bracer with the symbol of the elven sun god lies here.~
+~
+9 4195328 0 4097
+0 0 0 0
+2 10000 40000
+A
+19 3
+A
+18 2
+#20779
+obj elven warhammer moon~
+1
+&GE&glve&Gn &rW&Ra&rr&Khammer &wof the &wM&Woo&wn&n~
+A large warhammer with an elven symbol of the moon god lies here.~
+~
+5 138425664 1024 8193
+524448 13 5 6
+9 159555 50000
+A
+19 3
+A
+18 3
+#20780
+obj gloves stars~
+1
+&yGl&Kov&yes &wof the &KS&wt&Wa&wr&Ks&n~
+A pair of gloves with the elven symbol for the god of the stars lies here.~
+~
+9 4197376 0 129
+0 0 0 0
+3 657300 324005
+A
+19 3
+A
+40 1
+A
+18 1
+A
+17 15
+$~
+#999999

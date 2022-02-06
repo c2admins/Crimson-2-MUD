@@ -1,0 +1,2135 @@
+#21200
+Winding Unused Trail~
+This is a strange trail indeed.  There don't appear to be any tracks on
+it yet it is definately not a naturally occuring trail.  The ground is
+very compact and that could be an explanaition, but then again it appears
+like it has been leveled with great effort and skill.  Hmm, aren't dwarves
+very good at shaping land?
+~
+173 1048576 0 1 99 5
+D2
+The trail continues to the south.
+~
+~
+0 -1 21202
+D3
+The trail continues to the west.
+~
+~
+0 -1 21199
+S
+#21201
+Top of the Crack~
+Standing at the top of a very large crack.  From here you have a more
+unobstructed view of the kingdom then from below.  You can see the immense
+size of the Altat Forest to the north, east and south.  You can see the
+extent of the mountain range leading off to the west.  There appears to be
+another trail leading away from here to the north.  It appears to circle
+around the edge of the particular mountain that you are currently standing
+on.
+~
+173 1048576 0 1 99 5
+D0
+There is a trail to the north.
+~
+~
+0 -1 21199
+D5
+There is a very large crack below you.
+~
+~
+0 -1 21198
+S
+#21202
+Winding Unused Trail~
+The trail comes to an end here, but it has sucessfully navigated a way around
+a troublesome mountain.  From here you can see a group of large crags to the
+east, but most of the rest of you view is obscured by the mountains.
+~
+173 1048576 0 1 99 5
+D0
+The trail continues to the north.
+~
+~
+0 -1 21200
+D1
+Some blood stained crags lie to the east.
+~
+~
+0 -1 21203
+S
+#21203
+By the Blood Stained Crags~
+Standing amongst a group of very large crags, where the feeling of dread is
+overwhelming. The feeling is brought on mostly by the amount of blood that
+surrounds this area.  It is like the crags themselves have been painted with
+blood, as they are red than stone colored.  There are huge bloodstains all
+over the ground as well as the dried up reminants of former puddles
+everywhere. The crags seem climable if you dare to go on.
+~
+173 1048576 0 1 99 5
+D3
+A trail lies to the west.
+~
+~
+0 -1 21202
+D4
+The crags seem climable.
+~
+~
+0 -1 21204
+S
+#21204
+Scaling the Mountain~
+The mountain is very dry and not as hard to climb as one might think.
+However, looking down from this height would scare the hell out of anyone.
+You are about halfway between the crags and the top of this peak and you
+have sucessfully managed to control your fear of falling
+So far...
+~
+173 806354948 0 1 99 5
+D4
+the top of the peak.
+~
+~
+0 -1 21205
+D5
+There are some blood stained crags below.
+~
+~
+0 -1 21203
+S
+#21205
+Top of the Peak, Outside a HUGE Cave~
+You've made it!!  Standing on the top of this mountain peak the view of the
+kingdom is breathtaking.  To the north, east and south you can see all the
+way to the edges of the magnificent Altat forest.  Far to the north-east you
+can see a rather large clearing at the northern edge of the forest where
+there appears to be a village.  Even farther to the north you can see the
+magnificent river Cadera that flows directly into the forest.  To the north
+of the village, on the river you can see a strikingly beautiful tower.  It
+glows white, even from this distance, and appears as the most beautiful
+building you have ever seen.  You must make a point of examining it from a
+closer viewpoint.
+
+After you take in the amazing view and catch your breath, reality finally
+catches up with you.  You are standing outside an ENORMOUS cave-mouth.  Its
+opening is easily more than fifteen meters around, and all of the rock around
+it is scorched black.  You can hear some VERY heavy breathing coming from
+inside and you think that it would be wise to get the hell out of here fast!
+~
+173 806354948 0 1 99 5
+D1
+It is very dark and VERY terrifying.
+~
+~
+0 -1 21206
+D5
+The mountain seems climable below.
+~
+~
+0 -1 21204
+S
+#21206
+The Lair of Seolfor~
+WOW!!! This cavern is HUGE!!  It towers, easily more than 15 meters above
+your head.  It is wider than your average brontosaurus and you can't even
+tell how deep it is.  There are black scorch marks all over the walls and
+the cavern has very large claw marks everywhere.  It appears like some big
+creature carved it out of the side of the mountain with its claws.  There
+are blackened bones strewn about all over the place and large patches of
+dried blood as well.  The cavern is warmer than it was outside and you begin
+to feel sweat forming on your brow.  Clearly this is not a safe place to
+rest your bones.
+~
+173 806354953 0 1 99 0
+D3
+Outside the cave.
+~
+~
+0 -1 21205
+S
+#21207
+River Cadera~
+Floating gently along the river through the forest the river suddenly
+dissappears ahead under the edge of the forest.  The interlocking vines
+of the forest literally form a wall, less than two inches above the water
+line. Your journey by way of the river is at an end.  There is a docking
+area to the east where you can land your boat.
+~
+173 269484032 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21146
+D1
+There is a safe place to land your boat to the east.
+~
+~
+0 -1 21208
+S
+#21208
+Outside a Large Fort~
+Standing before you is a fort of great stature.  You were unable to even see
+it from the river as it is perfectly camaflaged in the forest.  Now that
+it is visable though, your breath is taken away.  The walls surrounding it
+are several stories high and are connected to some of the larger trees of this
+area. There isn't a single crack or gap anywhere in in its construction.
+To the south you can see the entrance gates.
+~
+173 269484033 0 1 99 2
+D2
+The gates of a large fort.
+~
+~
+0 -1 21209
+D3
+The River Cadera lies to the west.
+~
+~
+0 -1 21207
+S
+#21209
+Gates of the Ranger's Fort~
+Standing before the gates to this magnificent fort you can see that the wood
+not only has no cracks, but it doesn't even have a single splinter or chip.
+The gates tower in front of you, and their edges seem to be forest trees.  It
+looks like the fort is simply carved right out of the forest.
+~
+173 269484032 0 1 99 2
+D0
+Leaving the fort area.
+~
+~
+0 -1 21208
+D1
+The gates stand three stories tall and look very solid.
+~
+gates~
+15 21214 21210
+S
+#21210
+Entryway to the Fort~
+You have entered this magnificent fort and gaze upon the surrounding beauty.
+There are rows of groomed trees lining the inside of the outer walls and
+there are gardens scattered everywhere.  Sever species of animals wander
+about as well as several people.
+~
+173 269484032 0 1 99 1
+D1
+There is more to the fort to the east.
+~
+~
+0 -1 21211
+D2
+There is more to the fort to the south.
+~
+~
+0 -1 21212
+D3
+The gates stand three stories tall and look very solid.
+~
+gates~
+15 21214 21209
+S
+#21211
+In the Fort~
+As you walk along the inside walls of the fort you are beginning to see that
+the fort looks much larger from the outside.  Perhaps it is an illusion or
+just that it was built to decieve.  There are random walls built throughout
+this complex, which seem to be designed to seperate different sections of the
+fort, yet you don't see any actual buildings anywhere.
+~
+173 269484032 0 1 99 1
+D2
+There is more to the fort to the south.
+~
+~
+0 -1 21213
+D3
+The entryway lies to the west.
+~
+~
+0 -1 21210
+S
+#21212
+In the Fort~
+As you walk along the inside walls of the fort you are beginning to see that
+the fort looks much larger from the outside.  Perhaps it is an illusion or
+just that it was built to decieve.  There are random walls built throughout
+this complex, which seem to be designed to seperate different sections of the
+fort. To the south you can see a couple of buildings.
+~
+173 269484032 0 1 99 1
+D0
+The entryway lies to the north.
+~
+~
+0 -1 21210
+D2
+More of the fort lies to the south.
+~
+~
+0 -1 21216
+S
+#21213
+By the Grand Garden~
+As you walk along the inside walls of the fort you are beginning to see that
+the fort looks much larger from the outside.  Perhaps it is an illusion or
+just that it was built to decieve.  To the east you see a spectacular garden
+inviting you to come take a look.
+~
+173 269484032 0 1 99 1
+D0
+There is more to the fort to the north.
+~
+~
+0 -1 21211
+D1
+The garden lies to the east.
+~
+~
+0 -1 21214
+S
+#21214
+North End of the Garden~
+What a spread!!!  Every type of vegetable, root, and fruit tree seems to have
+its place here.  All around you can see some of the largest tomatoes, squash,
+apples, oranges, and others, in the land.  There is literally enough
+growing here to feed a small army for several months.  There is a light
+mist that falls from the forest canopy above, which serves to water all of
+the plants.
+~
+173 269484032 0 1 99 2
+D2
+More of the garden lies to the south.
+~
+~
+0 -1 21218
+D3
+More of the fort lies to the west.
+~
+~
+0 -1 21213
+S
+#21215
+The Armory~
+Various weapons are arranged along the walls here.  l types of shields,
+swords, polearms and armors line the walls.  There is also a small section
+in the corner devoted to holding a few important spell components.  There
+is a statue of Mielikki in the middle of the room, seeming to guard the
+armory.
+~
+173 269484040 0 1 99 0
+D1
+More of the fort lies to the east.
+~
+~
+0 -1 21216
+S
+#21216
+In the Fort~
+As you walk along the inside walls of the fort you are beginning to see that
+the fort looks much larger from the outside.  Perhaps it is an illusion or
+just that it was built to decieve.  There are random walls built throughout
+this complex, which seem to be designed to seperate different sections of the
+fort. To the west you see a building labeled 'Armoury'.  There are a couple of
+more buildings to the south.
+~
+173 269484032 0 1 99 1
+D0
+More of the fort lies to the north.
+~
+~
+0 -1 21212
+D1
+More of the fort lies to the east.
+~
+~
+0 -1 21217
+D2
+More of the fort lies to the south.
+~
+~
+0 -1 21220
+D3
+The armory lies to the west.
+~
+~
+0 -1 21215
+S
+#21217
+North of the Training Grounds~
+As you walk along the inside walls of the fort you are beginning to see that
+the fort looks much larger from the outside.  Perhaps it is an illusion or
+just that it was built to decieve.  There are random walls built throughout
+this complex, which seem to be designed to seperate different sections of the
+fort. To the south you can see several rangers practicing their battle
+skills.
+~
+173 269484032 0 1 99 1
+D2
+The training grounds lie to the south.
+~
+~
+0 -1 21221
+D3
+More of the fort lies to the west.
+~
+~
+0 -1 21216
+S
+#21218
+Southern End of the Garden~
+The garden just gets more spectacular the longer you look around.  As you
+look more carefully at the plants you can see the various bees and other
+plant-friendly insects moving around.  You can pick out a few mite-eaters
+as well as other natural enemies doing their job.  Clearly the rangers who
+keep up this garden are in touch with nature.
+~
+173 269484032 0 1 99 2
+D0
+More of the garden lies to the north.
+~
+~
+0 -1 21214
+S
+#21219
+Dining Hall~
+This appears to be the dining building but it isn't what you'd expect.  For
+instance there aren't any tables or chairs or even a kitchen.  There is
+a closet that has an arrangement of furniture within it.  Perhaps this hall
+is only used for entertaining guests.  Nothing is really of much interest
+here.
+~
+173 269484040 0 1 99 0
+D1
+More of the fort lies to the east.
+~
+~
+0 -1 21220
+S
+#21220
+In the Fort~
+As you walk along the inside walls of the fort you are beginning to see that
+the fort looks much larger from the outside.  Perhaps it is an illusion or
+just that it was built to decieve.  There are random walls built throughout
+this complex, which seem to be designed to seperate different sections of the
+fort. To the west you see a building labeled 'Dining Hall'.  There is more
+to the fort, south of here.
+~
+173 269484032 0 1 99 1
+D0
+More of the fort lies to the north.
+~
+~
+0 -1 21216
+D2
+More of the fort lies to the south.
+~
+~
+0 -1 21223
+D3
+There is a dining building to the west.
+~
+~
+0 -1 21219
+S
+#21221
+Western End of the Training Grounds~
+This is the first part of the fort that isn't groomed with plant-life.  In
+fact the entire training area is nothing more than dirt.  Several rangers
+are dueling in this area and none of them seems too concerned with your
+presence.
+~
+173 269484032 0 1 99 1
+D0
+More of the fort lies to the north.
+~
+~
+0 -1 21217
+D1
+More of the training grounds lie to the east.
+~
+~
+0 -1 21222
+S
+#21222
+Eastern End of the Training Grounds~
+This is the first part of the fort that isn't groomed with plant-life.  In
+fact the entire training area is nothing more than dirt.  Several rangers
+are dueling in this area and none of them seems too concerned with your
+presence.
+~
+173 269484032 0 1 99 1
+D3
+More of the training grounds lie to the west.
+~
+~
+0 -1 21221
+S
+#21223
+In the Fort~
+As you walk along the inside walls of the fort you are beginning to see that
+the fort looks much larger from the outside.  Perhaps it is an illusion or
+just that it was built to decieve.  There are random walls built throughout
+this complex, which seem to be designed to seperate different sections of the
+fort. To the east you see another building, but this one appears to be the
+only one with a door.
+~
+173 269484032 0 1 99 1
+D0
+More of the fort lies to the north.
+~
+~
+0 -1 21220
+D1
+There is a building to the east.
+~
+~
+0 -1 21224
+S
+#21224
+Outside of a Locked Building~
+You stand outside another building within the fort.  This one however has
+a locked door on it.  The building seems to be designed in the same way as
+the others, nothing special about it so you wonder why there is a door on this
+one?
+~
+173 269484032 0 1 99 1
+D1
+The door looks quite solid and there is a prominant unicorn carved into it.
+~
+door~
+15 21232 21225
+D3
+More of the fort lies to the west.
+~
+~
+0 -1 21223
+S
+#21225
+Chamber of the Ranger Lord~
+All around you are paintings, sculptures and other symbols, all devoted to
+Mielikki the 'Mistress of the Forest'.  There is a large desk in the corner
+and a ton of weapons and armorments in display cases around the room.
+Several thought to be extinct species of plant-life can also be seen growing
+directly under the skylights carved out of the ceiling.
+~
+173 269484040 0 1 99 0
+D3
+The door looks quite solid.
+~
+door~
+3 21232 21224
+S
+#21226
+Enclave in the Altat Forest~
+This small enclave in the forest is very strange indeed.  It has a cleared out
+area in the center and there is a small pit where things have been burned
+for some reason or another.  There is a circle of rocks around the burnt area
+and there is an aroma of flowers all around, yet no flowers grow here.
+~
+173 1048576 0 1 99 3
+D1
+The vines interlock in a twisted mesh there.
+~
+vines~
+9 -1 21174
+S
+#21227
+Turn in the Hall~
+The arched cielings and the walls of this magnificent hall are constructed
+out of pure ivory and are decorated with the finest of gems from across
+the planes.  Here you can see gold lined sculptures on marble shelves, and
+lit by magnificent fairie fires.  The floor is carved marble, without
+a single chip or flaw in its intricate design.  The hall makes a turn from
+the east to the south here.
+~
+173 1048584 0 1 99 0
+D1
+The hall continues to the east.
+~
+~
+0 -1 21228
+D2
+The hall bends again to the south of here.
+~
+~
+0 -1 21232
+S
+#21228
+The Entry Hall~
+The arched cielings and the walls of this magnificent hall are constructed
+out of pure ivory and are decorated with the finest of gems from across
+the planes.  Rare emeralds, sapphires, and garnets are a glorious sight,
+highlighting the masterful works o that decorate this hall.  The
+floor is carved marble, without a single chip or flaw in its intricate
+design. You are struck by the sheer beauty of this tower.
+~
+173 1048584 0 1 99 0
+D1
+The entrance to the tower lies to the east.
+~
+~
+0 -1 21229
+D3
+The hall continues to the west.
+~
+~
+0 -1 21227
+S
+#21229
+Entrance to the Tower~
+You have entered the Glorious Ivory Tower, home to the finest cavaliers in
+all of the land.  The arched cielings and the walls are constructed out of
+pure ivory and are decorated with the finest of gems from across the planes.
+All around you can see emeralds, rubys, topazes, lapis, and diamonds
+pressed right into the walls.  There are also several intricate carvings
+seemingly come to life by the sculpturer's hand lining the hall.  Some of
+greatest painters in the realms have contributed their talents to creating
+portraits of the most famous cavaliers, which are displayed along this
+entry hall.  There are some words carved into the wall here as well.
+~
+173 1048584 0 1 99 0
+D1
+The tower doors are made of solid ivory.
+~
+doors~
+15 21103 21230
+D3
+The hall continues to the west
+~
+~
+0 -1 21228
+E
+words~
+Welcome to the mystical halls of the Sons of the Wind.
+This tower is the finest of its kind in all the planes.
+Through many years and the exhausting spell power of
+many mages this tower now stands as a testiment to
+the Gods of the Kalevala who watch over us all.
+~
+S
+#21230
+Outside the Tower Doors~
+You are standing in front of the legendary Ivory Tower of Tuscany.  Legends
+tell of the Cavaliers, also known as the 'Sons of the Wind', who reside
+within these majestic walls.  Tales of their heroism in the battle to force
+back the forces of Hell are legenda  The tower itself stands over eight
+stories tall and is a vibrant white in hue.  There is a large set of doors
+here which lead into the tower and a path to the east which leads back to the
+river.
+~
+173 1048580 0 1 99 2
+D0
+There is a HUGE crevice there, and you can't see the bottom of it.  It
+looks like it would be EXTREMELY bad to jump into it.  Your nerves feel
+like icicles shooting through your veins.
+~
+~
+0 -1 21247
+D1
+There is a path to the east.
+~
+~
+0 -1 21231
+D2
+There is a HUGE crevice there, and you can't see the bottom of it.  It
+looks like it would be EXTREMELY bad to jump into it.  Your nerves feel
+like icicles shooting through your veins.
+~
+~
+0 -1 21247
+D3
+The tower doors are made of solid ivory.
+~
+doors~
+15 21217 21229
+S
+#21231
+Gazing at the Tower~
+You are standing at the best place in the kingdom to see the Ivory Tower
+from. It is absolutely gorgeous. It stands over eight stories tall and
+is brilliantly white in hue.  There are no visable windows anywhere in the
+structure of the tower.  There are large intricate carvings of some famous
+cavaliers all along the sides of the tower.  There are several cavaliers
+moving about around the side of the tower, but you clearly can't get there
+from here as the tower is surrounded on all sides but this by a gigantic
+crevice. Looking down into it you cannot see its bottom.
+~
+173 1048576 0 1 99 2
+D2
+The path continues to the south.
+~
+~
+0 -1 21235
+D3
+The Ivory Tower lies to the west.
+~
+~
+0 -1 21230
+S
+#21232
+Bend in the Hall~
+The arched cielings and the walls of this magnificent hall are constructed
+out of pure ivory and are decorated with the finest of gems from across
+the planes.  Here you can see silver streams flowing like waterfalls
+down the walls to give the illusion of rivers of mithril, the metal of which
+cavaliers prize above all.  The hall gets more exquisite the farther along
+it you travel.
+~
+173 1048584 0 1 99 0
+D0
+The tower turns again to the north of here.
+~
+~
+0 -1 21227
+D1
+The hall continues to the east.
+~
+~
+0 -1 21233
+S
+#21233
+Hallway~
+The arched cielings and the walls of this magnificent hall are constructed
+out of pure ivory and are decorated with the finest of gems from across
+the planes.  Here you can see silver streams flowing like waterfalls
+down the walls to give the illusion of rivers of mithril, the metal of which
+cavaliers prize above all.  The hall gets more exquisite the farther along
+it you travel.  To the south you see a very intricately carved door.
+~
+173 1048584 0 1 99 0
+D1
+The hall appears to take a turn there.
+~
+~
+0 -1 21234
+D2
+There is an ancient door with several indecipherable runes upon it.
+~
+runed door~
+15 21302 21237
+D3
+The hall seems to turn there.
+~
+~
+0 -1 21232
+S
+#21234
+Turn to the Stairs~
+The arched cielings and the walls of this magnificent hall are constructed
+out of pure ivory and are decorated with the finest of gems from across
+the planes.  To the south you can see a grand staircase leading to the
+second level of the tower.
+~
+173 1048584 0 1 99 0
+D2
+There is a staircase to the south.
+~
+~
+0 -1 21238
+D3
+The hall continues to the west.
+~
+~
+0 -1 21233
+S
+#21235
+Approaching the Tower~
+As you continue to approach the tower you are even more amazed by its beauty.
+Its glimmering sides reflect the sun to create a glowing appearance, the
+way it stands, surrounded on all sides by an immense crack in the ground
+makes it seem even more god-like.
+~
+173 1048576 0 1 99 2
+D0
+The path continues to the north.
+~
+~
+0 -1 21231
+D2
+The shore lies to the south.
+~
+~
+0 -1 21239
+D3
+There is a HUGE crevice there, and you can't see the bottom of it.  It
+looks like it would be EXTREMELY bad to jump into it.  Your nerves feel
+like icicles shooting through your veins.
+~
+~
+0 -1 21247
+S
+#21236
+Grand Dusty Staircase~
+You are standing at the top of a magnificent staircase, at least you think
+it would be magnificent if it wasn't for the amount of dust that has befallen
+it. You are leaving tracks in it, the dust is so thick.  How long has it
+been since anyone has even been here.  The staircase itself appears to be
+carved out of some sort of black marble of onyx or something.  The staircase
+leads down into darkness.
+~
+173 269484041 0 1 99 0
+D1
+There is a dusty chamber to the east.
+~
+~
+0 -1 21237
+D5
+The stairs lead down from here.
+~
+~
+0 -1 21243
+S
+#21237
+Dusty Chamber~
+You are standing at the top of a magnificent staircase, at least you think
+it would be magnificent if it wasn't for the amount of dust that has befallen
+it. You are leaving tracks in it, the dust is so thick.  How long has it
+been since anyone has even been here.  The staircase itself appears to be
+carved out of some sort of black marble of onyx or something.  The staircase
+leads down into darkness.
+~
+173 269484041 0 1 99 0
+D0
+The door is very ancient and there is a heavy coat of dust upon it.
+~
+runed door~
+15 21104 21233
+D3
+There is a staircase to the west.
+~
+~
+0 -1 21236
+S
+#21238
+Staircase to the Second Level~
+You have made it to the end of the entry hall and are now ready to ascend
+to the next level of the tower.  The staircase before you is carved out
+of the same gorgeous marble as the hall floor and it shines as if it has
+just been waxed.  Several fairie fires light the sculptures along the walls
+of this staircase and you can see several human forms moving about upstairs.
+~
+173 1048588 0 1 99 0
+D0
+There is a turn in the hall to the north.
+~
+~
+0 -1 21234
+D4
+The marble staircase leads up from here.
+~
+~
+0 -1 21256
+S
+#21239
+Shore on the Island~
+You have landed on the shore of this strange island.  From here you can see
+clearly that there are no bridges leading to this island, and clearly boats
+are the only means of transportation to and from it.  To the west you now
+can see the magnificent tower clearly.  It rises up eight stories into the sky
+and you feel yourself drawn towards it.  Watch out for that gigantic crevice
+surrounding it though.  You'd better stick to the path.
+~
+173 1048576 0 1 99 2
+D0
+There is a path to the north.
+~
+~
+0 -1 21235
+D1
+The river lies to the east.
+~
+~
+0 -1 21240
+D3
+There is a HUGE crevice there, and you can't see the bottom of it.  It
+looks like it would be EXTREMELY bad to jump into it.  Your nerves feel
+like icicles shooting through your veins.
+~
+~
+0 -1 21247
+S
+#21240
+River Cadera~
+The current gets even stronger here and no matter how hard you struggle
+there is simply no way you're going to be able to go farther upstream than
+this. However, you have managed to make it to what appears to be a safe
+shoreline upon the island where you can land your boat.
+~
+173 1048576 0 1 99 7
+D2
+The river flows to the south.
+~
+~
+0 -1 21241
+D3
+The shore of the island lies to the west.
+~
+~
+0 -1 21239
+S
+#21241
+River Cadera~
+You can now see the tower on the island much clearer, and even though the
+current is pushing against you with everything it's got, you can't seem to
+take your eyes off of the tower.  It is gleaming white and stands several
+stories tall right in the middle of the island.  You also catch a quick
+glimpse of a large, white, winged creature circling the top of the tower,
+before your attention is drawn back to fighting the current.
+~
+173 1048576 0 1 99 7
+D0
+Upstream on the river by the island.
+~
+~
+0 -1 21240
+D2
+The river continues to the south.
+~
+~
+0 -1 21242
+S
+#21242
+River Cadera~
+The water flows powerfully from the north to the south.  You are fighting
+the current with everything you've got and you think you may be able to go
+a little farther north if you try hard enough.  There is definately an
+island to the north of here and you might be able to make it there.  You
+can also make out a large tower located on the center of the island, but
+because you are struggling so hard against the current you can't get a good
+look at it.  To the south you can see the faint outline of a bridge.
+~
+173 1048576 0 1 99 7
+D0
+Upstream on the river.
+~
+~
+0 -1 21241
+D2
+The river flows to the south.
+~
+~
+0 -1 21111
+S
+#21243
+Bottom of the Dusty Staircase~
+You are standing at the bottom of a magnificent staircase, at least you
+think it would be magnificent if it wasn't for the amount of dust that has
+befallen it. You are leaving tracks in it, the dust is so thick.  How long
+has it been since anyone has even been here.  The staircase itself appears
+to be carved out of some sort of black marble of onyx or something.  The
+staircase leads up into darkness and there is a dusty tunnel leading away
+to the south.
+~
+173 269484041 0 1 99 0
+D2
+There is a hall leading to the south.
+~
+~
+0 -1 21244
+D4
+The stairs go up from here.
+~
+~
+0 -1 21236
+S
+#21244
+Dusty Hall Before an Ancient Blue Door~
+The dust in this chamber is so thick that you can't even see the ground.
+The chamber has a dead musty smell to it and you wonder how long it has
+been since anyone has been here.  There is one very noticible thing in this
+room, however, that is an ancient door to the south that glows bright blue
+illuminating this chamber.  The door has pictures of a giant wyrm carved
+into it.  The pictures depict the wyrm in combat with a party of adventurers,
+and by the looks of it the dragon has clearly gotten the upper hand.
+~
+173 269484040 0 1 99 0
+D0
+There is a staircase to the north.
+~
+~
+0 -1 21243
+D2
+The door glows bright blue and the carvings are so intricate that they seem
+to come alive.  It seems like the wyrm in the carvings could turn his head
+and breath his deadly lightning directly at you.  The door looks very solid
+and looks like it has stood closed, guarding whatever is behind it, for some
+time now.
+~
+blue door ancient~
+15 21203 21245
+S
+#21245
+Dusty Chamber Before an Ancient Green Door~
+The dust in this chamber is thicker than the previous ones, if that is posse.
+The chamber has a dead musty smell to it and you wonder how long it has
+been since anyone has been here.  Like the previous chamber, this one also
+has an ancient door glowing to the south, except that this door is glowing
+green and the carvings on it depict a ranger facing off against a large
+group of demons.  By the looks of the tortured faces of the demons the ranger
+has been fairing very well against them.
+~
+173 269484040 0 1 99 0
+D0
+You are looking at the undecorated side of the ancient blue door.
+~
+blue door ancient~
+15 21203 21244
+D2
+The door glows bright green and the carvings are so intricate that they seem
+to come alive.  It seems like the ranger in the carving could face you with
+his magical bow and launch a flurry of arros right through your heart.
+~
+green door~
+15 21213 21246
+S
+#21246
+Chamber of the Gods~
+Ages ago the 4 great mages trapped a rampaging beast and tried to rid
+the world of any memory of it.  A cage of pure mithril was constructed
+to hold the vile beast because no way was known to destroy the artifact
+that powered the rampaging monster.
+~
+173 269484044 536870912 1 99 0
+D0
+The mithril cage.
+~
+door~
+15 21234 21372
+S
+#21247
+The Crevice~
+AAAAAAAARRRRRRRGGGGGGGHHHHHHHHHHH!!!!! How could one be so foolish as to
+jump into a crevice that one can't see the bottom of?????????
+
+Well you can see the bottom now and it's coming at you VERY fast.
+
+SPLAT!!!!!!!!! CRUNCH!!!!!!!!
+
+You have just enough time to gaze down at your bloodied mangled corpse before
+ascend from this world.
+~
+173 1048578 0 1 99 2
+S
+#21248
+Base of the Staircase to the Third Level~
+You are standing at the base of another staircase.  From here you can see that
+the top of the staircase is bathed in the same white light that surrounds
+you here.  The staircase is as solidly constructed as the previous and it
+looks like it could support the weight of a dragon or two.  There is also a
+hallway to the east.
+~
+173 1048588 0 1 99 0
+D1
+The marble hallway continues to the east.
+~
+~
+0 -1 21249
+D4
+The stairs go up from here.
+~
+~
+0 -1 21257
+S
+#21249
+Marble Hall~
+This hall is constructed entirely out of marble.  Like the floor on the level
+below it shines as if it has just been waxed, however in this hall the walls
+and ceiling as well as the floor is carved marble.  How much must a tower
+like this have cost to build?  The hall continues to the east and there is
+a staircase to the west.
+~
+173 1048584 0 1 99 0
+D1
+The marble hall comes to a turn to the east.
+~
+~
+0 -1 21250
+D3
+There is a staircase to the west.
+~
+~
+0 -1 21248
+S
+#21250
+Turn in the Marble Hall~
+This hall is constructed entirely out of marble.  Like the floor on the level
+below it shines as if it has just been waxed, however in this hall the walls
+and ceiling as well as the floor is carved marble.  How much must a tower
+like this have cost to build?  The hall makes a turn from the south to the
+west here.
+~
+173 1048584 0 1 99 0
+D2
+The marble hall continues to the south.
+~
+~
+0 -1 21253
+D3
+The marble hall continues to the west.
+~
+~
+0 -1 21249
+S
+#21251
+Center of the Grand Dining Hall~
+Standing in the center of this magnificent dining hall.  It is constructed
+around a corner so that the main table turns the corner and allows the head
+of the table to sit at the point and have an equal number of his men on
+either side.  The table is clean as a whistle and constructed out of
+brilliant white granite.  The chairs are arranged and decorated according
+to the rank of those who occupy them.  The dining hall continues to the
+east and south.
+~
+173 1048584 0 1 99 0
+D1
+The dining hall continues to the east.
+~
+~
+0 -1 21252
+D2
+The southern end of the dining hall lies to the south.
+~
+~
+0 -1 21254
+S
+#21252
+Eastern End of the Dining Hall~
+Standing at the eastern edge of this magnificent dining hall.  It is
+constructed around a corner so that the main table turns the corner and allows
+the head of the table to sit at the point and have an equal number of his
+men on either side.  The table is clean as a whistle and constructed out
+of brilliant white granite.  The chairs are arranged and decorated according
+to the rank of those who occupy them.  The dining hall continues to the
+west and there is a door to the east.
+~
+173 1048584 0 1 99 0
+D1
+The door is made out of a brilliant white granite.
+~
+granite door~
+9 -1 21253
+D3
+The center of the dining hall lies to the west.
+~
+~
+0 -1 21251
+S
+#21253
+Marble Hall~
+This hall is constructed entirely out of marble.  Like the floor on the level
+below it shines as if it has just been waxed, however in this hall the walls
+and ceiling as well as the floor is carved marble.  How much must a tower
+like this have cost to build?  The hall comes to a turn to the north and there
+is a staircase to the south.
+~
+173 1048584 0 1 99 0
+D0
+The hall seems to turn to the north.
+~
+~
+0 -1 21250
+D2
+There is a marble staircase to the south.
+~
+~
+0 -1 21256
+D3
+The door is made out of a brilliant white granite.
+~
+granite door~
+9 -1 21252
+S
+#21254
+Southern End of the Dining Hall~
+Standing at the eastern edge of this magnificent dining hall.  It is
+constructed around a corner so that the main table turns the corner and allows
+the head of the table to sit at the point and have an equal number of his
+men on either side.  The table is clean as a whistle and constructed out
+of brilliant white granite.  The chairs are arranged and decorated according
+to the rank of those who occupy them.  The dining hall continues to the north
+and there is a door to the east.
+~
+173 1048584 0 1 99 0
+D0
+The center of the dining hall lies to the north.
+~
+~
+0 -1 21251
+D1
+There is a door to the east.
+~
+door~
+9 -1 21255
+S
+#21255
+Kitchen~
+The kitchen is gigantic.  Easily there are over thirty chefs and their
+assistants running about.  You can see a row of pots hanging over fires to
+the south and the lovely smell of cooking food teases your nostrils.  You
+see a huge spread of delicasies being prepared all around you.  Wonder
+what the occasion is, or if they eat like this every night?
+~
+173 1048584 0 1 99 0
+D3
+The dining hall lies to the west.
+~
+door~
+9 -1 21254
+S
+#21256
+Top of the Marble Staircase~
+The staircase you stand upon is carved out of the same gorgeous marble as
+the hall floor on the level below.  It shines as if it has just been waxed and
+from here you can see that ahead of you to the north the beauty continues.
+You can see that the entire hall is made out of marble.
+~
+173 1048584 0 1 99 0
+D0
+The marble hall continues to the north.
+~
+~
+0 -1 21253
+D5
+The marble staircase leads down from here.
+~
+~
+0 -1 21238
+S
+#21257
+Top of the Staircase~
+You are standing at the top of another staircase.  From here you can see that
+the base of the staircase is bathed in the same white light that surrounds
+you here.  The staircase is as solidly constructed as the previous and it
+looks like it could support the weight of a dragon or two.  Another marble
+hall leads to the west from here.
+~
+173 1048584 0 1 99 0
+D1
+A hallway leads away to the east.
+~
+~
+0 -1 21258
+D5
+The bottom of the staircase lies down from here.
+~
+~
+0 -1 21248
+S
+#21258
+Marble Hall~
+This hall is constructed entirely out of marble.  Like on the previous floor
+it shines as if it has just been waxed.  The calmness is what strikes you as
+the strangest thing about this level.  All of the warriors you've seen
+wandering the halls have little or no concern for you at all.  They all go
+about their business as if you didn't exist.  To the west you see a staircase
+and to the east the hall takes a turn.
+~
+173 1048584 0 1 99 0
+D1
+The hall takes a turn just east of here.
+~
+~
+0 -1 21259
+D3
+A staircase lies to the west.
+~
+~
+0 -1 21257
+S
+#21259
+Bend in the Hall~
+This hall is constructed entirely out of marble.  Like on the previous floor
+it shines as if it has just been waxed.  The calmness is what strikes you as
+the strangest thing about this level.  All of the warriors you've seen
+wandering the halls, have little or no concern for you at all.  They all go
+about their business as if you didn't exist.  To the west the hallway leads
+to a staircase and there is another turn south of here.
+~
+173 1048584 0 1 99 0
+D2
+The hall takes another turn to the south of here.
+~
+~
+0 -1 21262
+D3
+The hall continues to the west.
+~
+~
+0 -1 21258
+S
+#21260
+Behind the Copper Door~
+Standing on this side of a copper door the halls have changed appearance once
+again. You no longer stand within the confines of an all marble hall, rather
+now you are in the middle of a shining copper hall.  The light sources are
+once again magical fairie fires and they light the hall with perfect
+subtleness. The fires, rather than blinding you with reflections off of the
+copper, instead serve the purpose of enabling perfectly clear sight, making
+the metal hall look exquisite.  What other wonders of construction will this
+tower be home to?  There is a copper door to the east and the hall makes a
+turn just south of here.
+~
+173 1048584 0 1 99 0
+D1
+There is a door here made out of solid copper.  You can make out your
+reflection in it.
+~
+copper door~
+15 21109 21261
+D2
+The hall makes a turn just south of here.
+~
+~
+0 -1 21263
+S
+#21261
+Before a Copper Door~
+This hall is constructed entirely out of marble.  Like on the previous floor
+it shines as if it has just been waxed.  The calmness is what strikes you as
+the strangest thing about this level.  All of the warriors you've seen
+wandering the halls, have little or no concern for you at all.  They all go
+about their business as if you didn't exist.  To the east the hallway makes a
+turn and to the west you see a strange copper door.
+~
+173 1048584 0 1 99 0
+D1
+The hall turns to the east.
+~
+~
+0 -1 21262
+D3
+There is a door here made out of solid copper.  You can make out your
+reflection in it.
+~
+copper door~
+15 21222 21260
+S
+#21262
+Turn in the Hall~
+This hall is constructed entirely out of marble.  Like on the previous floor
+it shines as if it has just been waxed.  The calmness is what strikes you as
+the strangest thing about this level.  All of the warriors you've seen
+wandering the halls, have little or no concern for you at all.  They all go
+about their business as if you didn't exist.  To the west the hallway leads
+to a door and to the north the hall takes another turn.
+~
+173 1048584 0 1 99 0
+D0
+The hall bends to the north.
+~
+~
+0 -1 21259
+D3
+There seems to be a door to the west.
+~
+~
+0 -1 21261
+S
+#21263
+Turn in the Copper Hall~
+You stand within the confines of an all copper hall.  The light sources are
+once again magical fairie fires and they light the hall with perfect
+subtleness. The fires, rather than blinding you with reflections off of the
+copper, instead serve the purpose of enabling perfectly clear sight, making
+the metal hall look exquisite.  What other wonders of construction will this
+tower be home to?  The hall continues to the north and east.
+~
+173 1048584 0 1 99 0
+D0
+There is a door to the north of here.
+~
+~
+0 -1 21260
+D1
+The hall continues to the east.
+~
+~
+0 -1 21264
+S
+#21264
+Copper Hall~
+You are travelling down an all copper hall.  The light sources are once
+again magical fairie fires and they light the hall with perfect subtleness.
+The fires, rather than blinding you with reflections off of the copper,
+instead serve the purpose of enabling perfectly clear sight, making the
+metal hall look exquisite.  What other wonders of construction will this
+tower be home to?  The hall continues to the west and there is a staircase
+just east of here.
+~
+173 1048584 0 1 99 0
+D1
+There is a staircase just east of here.
+~
+~
+0 -1 21265
+D3
+The hall makes a turn just west of here.
+~
+~
+0 -1 21263
+S
+#21265
+Base of the Copper Stairs~
+You are standing at the base of another staircase.  From here you can see that
+the top of the staircase is bathed in the same copper glow that surrounds
+you here.  The staircase is as solidly constructed as the previous and it
+looks like it could support the weight of a dragon or two.  There is also a
+a copper hall leading away to the west.
+~
+173 1048588 0 1 99 0
+D3
+The copper hall leads away to the west.
+~
+~
+0 -1 21264
+D4
+The staircase leads up from here.
+~
+~
+0 -1 21274
+S
+#21266
+Bend in the Brass Hall~
+This hall is constructed entirely out of brass.  It shines brilliantly like
+it is cared for daily.  There isn't a flaw or a dent anywhere in the
+metal design.  There are sculptures painted a brilliant brass lining the
+walls and they are lit by the same magical fairie fires that you've seen
+on the previous levels.  The hall leads away from here to the east and south.
+~
+173 1048584 0 1 99 0
+D1
+There is a T-intersection to the east of here.
+~
+~
+0 -1 21267
+D2
+The hall continues to the south.
+~
+~
+0 -1 21269
+S
+#21267
+T-Intersection in the Brass Hall~
+This hall is constructed entirely out of brass.  It shines brilliantly like
+it is cared for daily.  There isn't a flaw or a dent anywhere in the
+metal design.  There are sculptures painted a brilliant brass lining the
+walls and they are lit by the same magical fairie fires that you've seen
+on the previous levels.  The hall leads away to the east, west and south.
+~
+173 1048584 0 1 99 0
+D1
+The hall comes to an end just east of here.
+~
+~
+0 -1 21268
+D2
+The hall ends by a door to the south of here.
+~
+~
+0 -1 21270
+D3
+The hall makes a turn just west of here.
+~
+~
+0 -1 21266
+S
+#21268
+End of the Brass Hall~
+This hall is constructed entirely out of brass.  It shines brilliantly like
+it is cared for daily.  There isn't a flaw or a dent anywhere in the
+metal design.  There are sculptures painted a brilliant brass lining the
+walls and they are lit by the same magical fairie fires that you've seen
+on the previous levels.  The hall leads away to the west.
+~
+173 1048584 0 1 99 0
+D3
+There is a T-intersection to the west of here.
+~
+~
+0 -1 21267
+S
+#21269
+Brass Hall~
+This hall is constructed entirely out of brass.  It shines brilliantly like
+it is cared for daily.  There isn't a flaw or a dent anywhere in the
+metal design.  There are sculptures painted a brilliant brass lining the
+walls and they are lit by the same magical fairie fires that you've seen
+on the previous levels.  The hall leads away to the north and south.
+~
+173 1048584 0 1 99 0
+D0
+The hall seems to turn just north of here.
+~
+~
+0 -1 21266
+D2
+The hall seems to take a turn just south of here.
+~
+~
+0 -1 21272
+S
+#21270
+Behind the Brass Door~
+This hall is constructed entirely out of brass.  It shines brilliantly like
+it is cared for daily.  There isn't a flaw or a dent anywhere in the
+metal design.  There are sculptures painted a brilliant brass lining the
+walls and they are lit by the same magical fairie fires that you've seen
+on the previous levels.  To the east there is a shining brass door and the
+hallway leads away to the north.
+~
+173 1048584 0 1 99 0
+D0
+There is a T-intersection to the north of here.
+~
+~
+0 -1 21267
+D1
+There is a shining brass door to the east.
+~
+brass door~
+15 21110 21271
+S
+#21271
+Before a Brass Door~
+You are travelling down an all copper hall.  The light sources are once
+again magical fairie fires and they light the hall with perfect subtleness.
+The fires, rather than blinding you with reflections off of the copper,
+instead serve the purpose of enabling perfectly clear sight, making the
+metal hall look exquisite.  To the west there is a shining door made of solid
+brass, and there is also a staircase to the south.
+~
+173 1048584 0 1 99 0
+D2
+There is a stairwell to the south.
+~
+~
+0 -1 21274
+D3
+There is a shining brass door to the west.
+~
+brass door~
+15 21223 21270
+S
+#21272
+Before a Bronze Door~
+This hall is constructed entirely out of brass.  It shines brilliantly like
+it is cared for daily.  There isn't a flaw or a dent anywhere in the
+metal design.  There are sculptures painted a brilliant brass lining the
+walls and they are lit by the same magical fairie fires that you've seen
+on the previous levels.  To the east there is a shining bronze door and
+the hallway leads away to the north.
+~
+173 1048584 0 1 99 0
+D0
+The hallway continues to the north.
+~
+~
+0 -1 21269
+D1
+The door is constructed very solidly out of bronze.
+~
+bronze door~
+15 21224 21273
+S
+#21273
+Base of the Bronze Staircase~
+Fantastic. Yet another staircase constructed entirely out of shining metal.
+The bronze has been polished to a bright shine and is a lit so subtely that
+you'd think the hall itself was a light-source.  The sculptures in this
+stairwell depict mages and priests as well as cavaliers.  The stairs lead up
+from here and there is a bronze door to the west.
+~
+173 1048588 0 1 99 0
+D3
+The door is constructed very solidly out of bronze.
+~
+bronze door~
+15 21111 21272
+D4
+The stairs lead up from here.
+~
+~
+0 -1 21282
+S
+#21274
+Top of the Copper Staircase~
+You are standing at the top of another staircase.  From here you can see that
+the base of the stairwell is bathed in the same copper glow that surrounds
+you here.  The staircase is as solidly constructed as the previous and it
+looks like it could support the weight of a dragon or two.  There is also a
+a copper hall leading away to the north.
+~
+173 1048584 0 1 99 0
+D0
+The hall comes to an end by another door.
+~
+~
+0 -1 21271
+D5
+The base of the stairwellm liest down from here.
+~
+~
+0 -1 21265
+S
+#21275
+Turn in the Bronze Hall~
+You are beginning to wonder how many levels this tower actually has, because
+to the south of here you can see another stairwell.  The hall you are in
+continues to shine brilliantly of bronze.  All along the walls the statues get
+more and more exquisite.  There are statues of cavaliers, warriors, mages
+and priests lining the halls.  The bronze has been polished to a bright shine
+and is a lit so subtely that you'd think the hall itself was a light-source.
+The hall leads away from here to the east and south.
+~
+173 1048584 0 1 99 0
+D1
+The hall continues to the east.
+~
+~
+0 -1 21276
+D2
+The hall continues to the south.
+~
+~
+0 -1 21278
+S
+#21276
+Bronze Hall~
+The hall you are in continues to shine brilliantly of bronze.  All along the
+walls the statues get more and more exquisite.  There are statues of
+cavaliers, warriors, mages and priests lining the halls.  The bronze has been
+polished to a bright shine and is a lit so subtely that you'd think the hall
+itself was a light-source.  The hall leads away from here to the east
+and west.
+~
+173 1048584 0 1 99 0
+D1
+The hall seems to turn just east of here.
+~
+~
+0 -1 21277
+D3
+The hall turns just west of here.
+~
+~
+0 -1 21275
+S
+#21277
+Winding Bronze Hall~
+The hall you are in continues to shine brilliantly of bronze.  All along the
+walls the statues get more and more exquisite.  There are statues of
+cavaliers, warriors, mages and priests lining the halls.  The bronze has been
+polished to a bright shine and is a lit so subtely that you'd think the hall
+itself was a light-source.  The hall leads away from here to the west and
+just south of here you can see the hall makes another turn.
+~
+173 1048584 0 1 99 0
+D2
+The hall takes another turn just south of here and there seems to be a
+door there as well
+~
+~
+0 -1 21280
+D3
+The hall continues to the west.
+~
+~
+0 -1 21276
+S
+#21278
+Bronze Hall~
+The hall you are in continues to shine brilliantly of bronze.  All along the
+walls the statues get more and more exquisite.  There are statues of
+cavaliers, warriors, mages and priests lining the halls.  The bronze has been
+polished to a bright shine and is a lit so subtely that you'd think the hall
+itself was a light-source.  The hall leads away from here to the north and
+south of here you can see another stairwell.
+~
+173 1048584 0 1 99 0
+D0
+The hall turns just north of here.
+~
+~
+0 -1 21275
+D2
+There is a brilliant sapphire stairwell just south of here.
+~
+~
+0 -1 21281
+S
+#21279
+Winding Bronze Hall~
+The hall you are in continues to shine brilliantly of bronze.  All along the
+walls the statues get more and more exquisite.  There are statues of
+cavaliers, warriors, mages and priests lining the halls.  The bronze has been
+polished to a bright shine and is a lit so subtely that you'd think the hall
+itself was a light-source.  The hall leads away from here to the east and
+to the south you can see a bronze stairwell.
+~
+173 1048584 0 1 99 0
+D1
+The hall takes another turn just east of here and there seems to be a door
+there as well.
+~
+~
+0 -1 21280
+D2
+There is a stairwell just south of here.
+~
+~
+0 -1 21282
+S
+#21280
+Winding Bronze Hall Before a Silver Door~
+The hall you are in continues to shine brilliantly of bronze and takes yet
+another turn.  All along the walls the statues get more and more exquisite.
+There are statues of cavaliers, warriors, mages and priests lining the halls.
+The bronze has been polished to a bright shine and is a lit so subtely
+that you'd think the hall itself was a light-source.  The hall turns here
+from the west to the north and there is a brilliantly crafted silver door
+here against the southern wall.
+~
+173 1048584 0 1 99 0
+D0
+The hall takes another turn just north of here.
+~
+~
+0 -1 21277
+D2
+There is a silver door shining brightly in the light.
+~
+silver door~
+15 21225 21283
+D3
+The hall takes another turn to the west of here.
+~
+~
+0 -1 21279
+S
+#21281
+Base of the Sapphire Staircase~
+The beauty of this tower never ceases to amaze you.  You are now standing at
+the base of a stairwell crafted entirely out of sapphire.  It glimmers in
+the light like the stars in the sky.  Just a small piece of this stairwell
+would be worth a fortune.  You contemplate chipping off a piece but decide
+that it would probably be unwise.  That and the fact that this tower is so
+well constructed that very few weapons in the realms could accomplish the
+task without ruining their own enchantment.  There is a bronze hall leading
+away from here to the north and the staircase goes up from here.
+~
+173 1048588 0 1 99 0
+D0
+There is a bronze hall that leads away to the north.
+~
+~
+0 -1 21278
+D4
+The stairs go up from here.
+~
+~
+0 -1 21290
+S
+#21282
+Top of the Bronze Staircase~
+You are standing at the top of this magnificent staircase and there is a
+bronze hallway leading away to the north.  The bronze has been polished to
+a bright shine and is a lit so subtely that you'd think the hall itself
+was a light-source.  The sculptures in this stairwell depict mages and
+priests as well as cavaliers.  The stairs lead down from here.
+~
+173 1048584 0 1 99 0
+D0
+The hall seems to turn just north of here.
+~
+~
+0 -1 21279
+D5
+The base of the stairs lie down from here.
+~
+~
+0 -1 21273
+S
+#21283
+Base of the Silver Staircase~
+You have entered another in the seemingly endless stream of metal stairwells.
+This one shines of bright, freshly-polished silver.  You are now starting to
+realize that the higher up you go the more precious the construction material.
+This stairwell is decorated with statues of monks, cavaliers, and bards and
+it seems to be a bit taller than the others.  There is also a silver
+door against the north wall.
+~
+173 1048588 0 1 99 0
+D0
+There is a silver door shining brightly in the light.
+~
+silver door~
+15 21225 21280
+D4
+The staircase leads up from here.
+~
+~
+0 -1 21292
+S
+#21284
+Turn in the Sapphire Hall~
+This hall gets more amazing the farther you travel down it.  The sapphire is
+as pure as that you would see in a jeweler's store.  The cuts and intricacies
+of it are exquisite.  There are statues carved right out of the wall itself.
+They depict cavaliers, monks, priests, wizards and dragon-kin.  The paintings
+on the wall stand out as more beautiful that any you have seen.  Either the
+Cavaliers who own this hall have wealth beyond imiganation or they have some
+extremely talented friends.  The hall turns here from the east to the south.
+~
+173 1048584 0 1 99 0
+D1
+The hall continues to the east.
+~
+~
+0 -1 21285
+D2
+The hall seems to end just south of here.
+~
+~
+0 -1 21287
+S
+#21285
+Sapphire Hall~
+This hall gets more amazing the farther you travel down it.  The sapphire is
+as pure as that you would see in a jeweler's store.  The cuts and intricacies
+of it are exquisite.  There are statues carved right out of the wall itself.
+They depict cavaliers, monks, priests, wizards and dragon-kin.  The paintings
+on the wall stand out as more beautiful that any you have seen.  Either the
+Cavaliers who own this hall have wealth beyond imiganation or they have some
+extremely talented friends.  The hall goes from the east to the west.
+~
+173 1048584 0 1 99 0
+D1
+The hall seems to turn just east of here.
+~
+~
+0 -1 21286
+D3
+The hall seems to turn just west of here.
+~
+~
+0 -1 21284
+S
+#21286
+Another Bend in the Sapphire Hall~
+There is another turn in this winding hall here.  This time the hall turns
+from the south to the west and you can see that the hall goes straight for
+a while to the west.  This hall gets more amazing the farther you travel
+down it.  The sapphire is as pure as that you would see in a jeweler's store.
+The cuts and intricacies of it are exquisite.  There are statues carved right
+out of the wall itself.  They depict cavaliers, monks, priests, wizards and
+dragon-kin. The paintings on the wall stand out as more beautiful that any
+you have seen.  Either the Cavaliers who own this hall have wealth beyond
+imiganation or they have some extremely talented friends.  The hall goes from
+the south to the west.
+~
+173 1048584 0 1 99 0
+D2
+The hall turns again just south of here.
+~
+~
+0 -1 21289
+D3
+The hall continues to the west.
+~
+~
+0 -1 21285
+S
+#21287
+End of the Sapphire Hall Beneath a Trapdoor~
+This is very ODD indeed.  The tower has been so brilliantly constructed that
+to find a trapdoor, especially one so obvious seems strange.  However, there
+is no denying the beauty of the construction here.  There are two large
+statues here:  one is of a powerful and heavily armored Cavalier.  He is
+dressed in a suit of full plate with a glowing longsword in one hand and
+a shield with several symbols upon it:  The other is of another cavalier,
+dressed in chain mail, and armed with a scimitar.  Both statues are carved
+from ivory and both radiate a powerful magical glow.  The hall continues to
+the north and there is a ladder leading through a trapdoor in the ceiling.
+~
+173 1048588 0 1 99 0
+D0
+The hall seems to turn just north of here.
+~
+~
+0 -1 21284
+D4
+The trapdoor is carved entirely out of sapphire and it glows as if trapping
+a light source within its construction.
+~
+sapphire door trapdoor~
+15 21226 21296
+S
+#21288
+Turn in the Sapphire Hall~
+This hall gets more amazing the farther you travel down it.  The sapphire is
+as pure as that you would see in a jeweler's store.  The cuts and intricacies
+of it are exquisite.  There are statues carved right out of the wall itself.
+They depict cavaliers, monks, priests, wizards and dragon-kin.  The paintings
+on the wall stand out as more beautiful that any you have seen.  Either the
+Cavaliers who own this hall have wealth beyond imiganation or they have some
+extremely talented friends.  The hall turns here from the south to the east.
+~
+173 1048584 0 1 99 0
+D1
+The hall turns again, just east of here.
+~
+~
+0 -1 21289
+D2
+The hall turns again to the south of here.
+~
+~
+0 -1 21291
+S
+#21289
+Another Bend in the Sapphire Hall~
+There is another turn in this winding hall here.  This time the hall turns
+from the west to the north.  This hall gets more amazing the more you explore
+it. The sapphire is as pure as that you would see in a jeweler's store.
+The statues lining the walls are exquisite and the temptation to carve off a
+piece is overwhelming.  The hall goes from the west to the north.
+~
+173 1048584 0 1 99 0
+D0
+The hall takes yet another turn just norht of here.
+~
+~
+0 -1 21286
+D3
+The hall turns again just west of here.
+~
+~
+0 -1 21288
+S
+#21290
+Top of the Sapphire Staircase~
+You are standing at the top of a magnificent sapphire staircase and facing
+a hall that is created entirely out of sapphire.  It twinkles in the light
+of magical fairie fires which seem to be imbedded in the walls themselves.
+The statues and paintings lining the walls seem to glow with magical radiance
+and the skill with which they have been crafted would cause even the simplest
+collector to gasp.  The hall continues to the east and the stairs lead
+down from here.
+~
+173 1048584 0 1 99 0
+D1
+The halls leads away from here to the east.
+~
+~
+0 -1 21291
+D5
+The stairs lead down from here.
+~
+~
+0 -1 21281
+S
+#21291
+Bend in the Sapphire Hall~
+Your pace has slowed as you are trying to take in all of the beauty of this
+hallway. You have never even heard, let alone seen, a building with so
+magnificent passageways.  In order to create such a place one would've had to
+employ the very best metal workers and gem cutters in the realms.  The hall
+turns here from the west to the north.
+~
+173 1048584 0 1 99 0
+D0
+The hall takes another turn just north of here.
+~
+~
+0 -1 21288
+D3
+There is a stairwell to the west.
+~
+~
+0 -1 21290
+S
+#21292
+Climbing the Silver Stairs~
+This stairwell shines of bright, freshly-polished silver.  You are now
+wondering why it seems so easy to ascend.  One would think that a metal
+staircase would be slippery, but instead it seems to hold your feet firmer
+than stone.  This stairwell is decorated with statues of monks, cavaliers
+and bards.  You can see the top of the stairs just ahead.
+~
+173 1048584 0 1 99 0
+D4
+The top of the staircase lies up from here.
+~
+~
+0 -1 21301
+D5
+The base of the stairs lies just down from here.
+~
+~
+0 -1 21283
+S
+#21293
+Master Trainer's Antechamber~
+The feeling of a magical influence comes over you in waves as you enter the
+room. All around you are crystal statues of great warriors.  The paintings
+along the walls depict several of the famous battles of the war with the
+forces of Hel.  The largest statue in the room is a crystal version of the
+Cavalier statue just below the sapphire trapdoor.  The statue here not only
+shows the cavalier dressed in chainmail but it moves and shifts positions
+to depict different attacking positions.  There is an arched entrance to the
+east and a door to the south.
+~
+173 269484044 0 1 99 0
+D1
+There is an arched entryway leading to a large room.
+~
+~
+0 -1 21294
+D2
+A beautiful pearl door which radiates a powerful magical aura.
+~
+pearl door~
+15 21228 21296
+S
+#21294
+Chamber of the Master Trainer~
+You have entered the chamber of THE master trainer.  All around you are books
+charts, and various paintings, all depicting battle strategy, positions and
+armorments. There are various practicing dummies about the chamber and
+what appears to be a row of jousting poles and saddles, along the north wall,
+although a couple of the saddles seem to be large enough to use on a dragon.
+The antechamber lies to the west.
+~
+173 269484044 0 1 99 0
+D3
+The antechamber lies to the west.
+~
+~
+0 -1 21293
+S
+#21295
+Base of the Topaz Stairs~
+This staircase looks quite remarkable.  Carved entirely out of topaz it shines
+brighter than any other you've seen so far.  There are several illusions
+dancing about the room, which constantly change form and appearance.  At one
+point you see an elven mage throwing a lightning bolt at a demon, then the
+next it depicts a Shin-Shun monk having his head caved in by a dragon-kin.
+There is a large statue here of a Cavalier wearing no armor.  He appears
+to be holding a spellbook in one hand but his shirt appears to have a coat
+of arms upon it.  The stairs go up from here and there is a door to the south.
+~
+173 1048588 0 1 99 0
+D2
+A beautiful door carved out of glowing topaz.
+~
+topaz door~
+15 21231 21298
+D4
+The stairs lead up from here.
+~
+~
+0 -1 21304
+S
+#21296
+Above the Sapphire Trapdoor~
+You are standing in a strange room with three pearl doors leading out of it
+as well as a sapphire trapdoor in the floor.  The walls and ceiling are
+constructed out of sapphire, but there aren't any statues or paintings here.
+Perhaps this area isn't for visitor's eyes.
+~
+173 1048584 0 1 99 0
+D0
+A beautiful pearl door which radiates a powerful magical aura.
+~
+pearl door~
+15 21228 21293
+D1
+A beautiful pearl door which radiates a powerful magical aura.
+~
+pearl door~
+15 21228 21297
+D2
+A beautiful pearl door which radiates a powerful magical aura.
+~
+pearl door~
+15 21228 21299
+D5
+The trapdoor is carved entirely out of sapphire and it glows as if trapping
+a light source within its construction.
+~
+sapphire door trapdoor~
+15 21113 21287
+S
+#21297
+Base of the Pearl Staircase~
+This is the most fantastic staircase you've seen yet.  Constructed flawlessly
+from pure pearl.  The statues lining the walls depict the most famous
+battles of the war with the forces of Hel.  The elven warriors, mounted upon
+their magnificent griffons/ the powerful rangers using the forces of the
+forest/ and the cavaliers with thier incredible horses and armor.  Each
+statue is a unique original and any one of them would cost half a dragon's
+horde to purchase.  They all glow with fairie fires and to stare at them to
+long could easily distract you from your goal.
+~
+173 1048588 0 1 99 0
+D3
+A beautiful pearl door which radiates a powerful magical aura.
+~
+pearl door~
+15 21114 21296
+D4
+The stairs lead up from here.
+~
+~
+0 -1 21306
+S
+#21298
+Before a Topaz Door~
+This hall comes to a quick end at a rather remarkable door.  There are
+several statues here depicting monks, bards, cavaliers, mages and priests.
+To the south there is a silver staircase.
+~
+173 1048584 0 1 99 0
+D0
+A beautiful door carved out of glowing topaz.
+~
+topaz door~
+15 21231 21295
+D2
+There is a silver stairwell, just south of here.
+~
+~
+0 -1 21301
+S
+#21299
+Weapons Master's Antechamber~
+The feeling of a magical influence comes over you in waves as you enter the
+room. Crystal cabinets, housing various weapons, surround the room.  There
+are swords, daggers, pole-arms, maces, flails, and many other weapons from
+all around the realms.  All of the weapons appear to be of the very finest
+quality and beneath each cabinet is a plaque with the name and origin of
+the weapon.  There is also a crystal statue which is identical to the one
+in the room beneath the sapphire trapdoor.  However, the statue here is
+holding a vast assortment of weapons and moves and shifts positions and
+weapons. There is an arched entryway to the east and a pearl door to the
+north.
+~
+173 269484044 0 1 99 0
+D0
+A beautiful pearl door which radiates a powerful magical aura.
+~
+pearl door~
+15 21228 21296
+D1
+The entryway leads to a large chamber.
+~
+~
+0 -1 21300
+S
+$~
+#999999

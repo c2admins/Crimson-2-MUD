@@ -1,0 +1,657 @@
+#15900
+obj servant servant's armbands~
+10
+&wservant's &Karmbands&n~
+A dull, steel armband lies in the dust.~
+~
+9 4194304 0 257
+50 0 0 0
+3 60 15
+A
+19 2
+A
+18 4
+A
+14 -50
+#15901
+obj jester jester's hat~
+10
+&wa pointy &gjester's &yhat&n~
+A colorful hat with many points  is lying here.~
+~
+9 4194368 0 17
+5 0 0 0
+3 200000 50000
+A
+12 75
+A
+18 4
+A
+19 1
+A
+14 -65
+#15902
+obj psionic egg beater~
+20
+&wa &Gpsionic &Yegg &wbeater&n~
+A large egg beater has been left here.~
+~
+5 4194307 0 8193
+0 6 9 6
+4 180000 45000
+A
+19 4
+#15903
+obj adamantine earring~
+1
+&wan &Wa&wd&Wa&wm&Wa&wn&Wt&wi&Wn&we &Kearring&n~
+A dark, shiny stone has been dropped here.~
+~
+9 4194304 0 17
+2 0 0 0
+1 200000 50000
+A
+18 2
+A
+19 4
+A
+36 -1
+A
+12 -20
+#15904
+obj shadow shadowcloak cloak~
+10
+&wthe &KShadowCloak&n~
+A shadowy, translucent cloak lies here.~
+~
+15 4194308 0 1025
+500 0 0 0
+5 180000 65000
+A
+17 -45
+A
+19 2
+A
+18 2
+#15905
+obj scintillating keg~
+10
+&Gscintillating &ykeg&n~
+A colorful barrel has been left here.~
+~
+1 4194307 0 65537
+0 0 1000000 0
+40 80000 20000
+A
+25 1
+A
+18 2
+A
+36 -1
+#15906
+obj amulet planes~
+10
+&wthe &yamulet &wof the &yplanes&n~
+A shiny amulet lies here.~
+~
+9 4194370 0 5
+25 0 0 0
+2 160000 70000
+A
+19 2
+A
+12 30
+A
+13 10
+#15907
+obj veil darkness~
+5
+&wThe &WVeil &wof &KDarkness&n~
+A shadowy cloth lies here.~
+~
+9 1048580 0 5
+3 0 1 0
+4 35000 40000
+A
+27 -1
+A
+19 1
+A
+2 4
+A
+18 3
+#15908
+obj dancing sword~
+4
+&wa &Bd&Ka&Bn&Kc&Bi&Kn&Bg &Ksword&n~
+An animated sword floats above the ground!~
+~
+5 4194368 0 8193
+0 11 6 3
+6 200000 50000
+#15909
+obj fencing gloves~
+1
+&Kfencing &ygloves&n~
+A pair of soft white gloves has been left in the dust.~
+~
+9 4194304 0 129
+2 0 0 0
+4 200000 85000
+A
+19 4
+A
+18 2
+#15910
+obj marble bracelet~
+1
+&Kma&wrb&Kle bracelet&n~
+A loop of solid black marble has been left here.~
+~
+9 4194308 0 4097
+0 0 0 0
+10 120000 50000
+A
+19 3
+A
+18 1
+A
+40 1
+A
+17 20
+#15911
+obj safari hat~
+10
+&wa &ysafari &what&n~
+A hard, wooden hat has been left here.~
+~
+9 4194304 0 17
+30 0 0 0
+5 40000 10000
+A
+19 2
+A
+18 2
+A
+14 -20
+#15912
+obj jewel pit~
+10
+&wthe &YJewel &wof the &RPit&n~
+A glistening jewel rest on the floor of the room.~
+~
+9 4194305 0 16385
+20 0 0 0
+21 200000 100000
+A
+19 4
+A
+18 4
+#15913
+obj astral plate~
+10
+&KAstral &wplate mail&n~
+A transparent suit or armor has been left here to rot.~
+~
+9 4194304 0 9
+50 0 0 0
+0 120000 85000
+A
+19 2
+A
+18 2
+#15914
+obj ball slime~
+5
+&GA ball of slime&n~
+A ball of slime rolls here.~
+~
+13 4194304 0 1
+0 0 10 0
+1 100000000 5
+#15915
+obj incisor blood red~
+3
+&wan elongated, &Rblood-red &Wincisor&n~
+A long, red, bloody tooth lies here.~
+~
+5 4194304 0 8193
+59 9 5 11
+8 200000 100000
+#15916
+obj plates bloody arm~
+3
+&Rb&rlood&Ry &warm plates&n~
+A set of bloody arm plates lies here.~
+~
+9 4194368 0 257
+40 0 0 0
+8 135000 56000
+A
+19 4
+A
+32 -1
+A
+12 -20
+#15917
+obj bone chain~
+15
+&Wa bone chain&n~
+A string of bones has been tied together here.~
+~
+9 4194304 0 2049
+25 0 0 0
+6 200000 50000
+A
+19 2
+A
+18 2
+#15918
+obj amulet merkuul~
+25
+&wan amulet of &KMerkuul&n~
+An amulet made of bone has been dropped here.~
+~
+9 4194308 0 5
+25 0 0 0
+5 200000 55000
+A
+18 2
+A
+19 2
+A
+13 20
+#15919
+obj sceptre bone femur~
+3
+&Wa bone sceptre&n~
+A large femur has been dropped here.~
+~
+9 4194320 0 16385
+0 0 0 0
+8 200000 80000
+A
+19 6
+A
+18 2
+#15920
+obj sooty black robe~
+1
+&wa &Ksooty black robe&n~
+A dirty black robe lies in the dust.~
+~
+9 4194308 0 1025
+35 0 0 0
+5 120000 30000
+A
+19 3
+A
+5 -2
+A
+12 25
+#15921
+obj greaves spiked gargath~
+10
+&Ks&wp&Ki&wk&Ke&wd &wgreaves&n~
+A set of spiked leg plates lies here.~
+~
+9 4194304 0 33
+50 0 0 0
+16 120000 30000
+A
+19 2
+A
+14 -20
+#15922
+obj black opal ring~
+15
+&wa &Kblack opal &wring&n~
+A ring with a dark stone has been carelessly dropped here.~
+~
+9 4194304 0 3
+20 0 0 0
+1 160000 85000
+A
+19 2
+A
+18 3
+A
+12 -20
+#15923
+obj boots razor toed~
+10
+&Krazor &ytoed boots&n~
+A pair of boots with blades attached to the toe are here.~
+~
+9 4194304 0 65
+20 0 0 0
+3 80000 20000
+A
+19 2
+A
+18 1
+#15924
+obj bracelet varnished cedar bracelet~
+15
+&wa &yvarnished &Gcedar &wbracelet&n~
+A shiny wooden bracelet rolls around on the floor.~
+~
+9 4194306 0 4097
+25 0 0 0
+3 100000 80000
+A
+19 1
+A
+18 3
+#15925
+obj emerald green cloak~
+1
+&Gan emerald green cloak&n~
+A deep green cloak lies here.~
+~
+9 4194304 0 1029
+10 0 0 0
+5 120000 70000
+A
+19 3
+A
+13 25
+#15926
+obj jeweled shield~
+7
+&wa &Gj&Re&Yw&Pe&Yl&Re&Gd &wshield&n~
+A large, jeweled shield has been dropped here.~
+~
+9 4194306 0 513
+25 0 0 0
+18 200000 85000
+A
+19 3
+A
+13 10
+#15927
+obj dull grey tunic~
+5
+&wa dull grey tunic&n~
+A dull grey shirt lies here.~
+~
+9 4194304 0 9
+40 0 0 0
+5 200000 100000
+A
+18 4
+A
+19 2
+#15928
+obj staff withering~
+7
+&ystaff of withering&n~
+A withered stick has been left here to rot.~
+~
+9 4194304 0 16385
+0 0 0 0
+5 120000 45000
+A
+19 5
+A
+1 -2
+A
+5 -3
+#15929
+obj girth rulership~
+2
+&wthe &yGirth &wof &rRulership&n~
+An immense golden belt has been dropped here.~
+~
+9 4194304 0 2049
+20 0 0 0
+25 160000 60000
+A
+19 3
+A
+12 30
+A
+14 30
+A
+13 -40
+#15930
+obj ring elemental chaos~
+4
+&wring of &Cele&Wmen&Ctal &Rchaos&n~
+A colorful ring has been left here.~
+~
+9 4194816 0 3
+5 0 0 0
+1 160000 70000
+A
+19 3
+A
+18 1
+A
+13 20
+#15931
+obj sceptre plane travel~
+10
+&YS&yc&Ye&yp&Yt&yr&Ye &wof &WPlane Travel&n~
+A sceptre made of black marble lies here.~
+~
+9 4194307 0 16385
+20 0 0 0
+3 120000 65000
+A
+13 50
+A
+14 100
+A
+12 -50
+#15932
+obj black marble plate mail~
+2
+&Kblack ma&wrb&Kle &wplate mail&n~
+A suit of black marble plate mail has been dropped here.~
+~
+9 4194308 0 9
+80 0 0 0
+65 160000 55000
+A
+19 3
+A
+18 3
+A
+12 -40
+#15933
+obj buffalo bills t t-shirt shirt~
+100
+a Buffalo Bills t-shirt~
+A red, white, and blue t-shirt lies here.~
+~
+9 0 0 9
+0 0 10 0
+1 5 5
+#15934
+obj burrito as big as your head~
+100
+a burrito as big as your head~
+A large, steaming burrito lies here.~
+~
+19 0 0 24577
+24 0 10 0
+1 5 5
+#15935
+obj a lota money~
+100
+a lota money~
+A HUGE pile of money is laying here.~
+~
+8 0 0 16385
+0 0 10 0
+1 5 5
+#15936
+obj fang slaughter~
+3
+&Kthe fang of &RSlaughter&n~
+A nasty fang which would rip you open lies here.~
+~
+5 138415104 0 24577
+2048 4 9 11
+5 200000 85000
+A
+33 -1
+A
+19 3
+A
+18 3
+A
+13 -10
+#15937
+obj boots damnation gargath~
+10
+&Wthe &Kboots &Wof &Kdamnation&n~
+A pair of damned boots has been left here unattended.~
+~
+9 4194304 0 65
+30 0 0 0
+1 260000 65000
+A
+19 3
+A
+14 -20
+A
+13 15
+A
+12 15
+#15938
+obj armplates darkened~
+5
+&Kdarkened armplates&n~
+A pair of very dark armplates have been left here.~
+~
+9 4194304 0 257
+40 0 0 0
+1 222222 34000
+A
+19 3
+A
+13 -10
+A
+2 2
+A
+14 10
+#15939
+obj shield bloody ocara~
+5
+&Ra bloody shield&n~
+A large, bloodied shield lies here.~
+~
+9 4194306 0 513
+50 0 0 0
+18 200000 85000
+A
+19 3
+A
+13 -20
+#15940
+obj spikes bone merkuul~
+5
+&Wbone &wmade &Ks&wp&Ki&wk&Ke&ws&n~
+A set of leg plates made of bones lie here.~
+~
+9 4194304 0 33
+30 0 0 0
+16 120000 30000
+A
+19 2
+A
+18 2
+#15941
+obj fang slaughter2~
+1
+&Kthe fang of &rSlaughter&n~
+A nasty fang which would rip you open lies here.~
+~
+5 138414592 0 24577
+263232 4 9 11
+5 200000 85000
+A
+37 -1
+A
+19 1
+A
+18 2
+A
+13 -40
+#15942
+obj iron branding iron~
+5
+&RBranding &KIron&n~
+White hot branding iron glows with a errie light.~
+~
+5 4194305 0 8193
+0 5 10 7
+1 5 5
+A
+19 1
+A
+18 3
+#15943
+obj black marble shield~
+2
+&Ka black ma&wrb&Kle shield&n~
+A shield of black marble lies here.~
+~
+9 4456984 0 513
+45 0 0 0
+18 250000 5
+A
+19 3
+A
+18 3
+#15944
+obj black marble greaves~
+1
+&Ka pair of black ma&wrb&Kle greaves&n~
+&Ka pair of black ma&wrb&Kle greaves lie here.&n~
+~
+9 4194304 0 524321
+35 0 0 0
+10 79000 5
+A
+19 3
+A
+41 1
+A
+18 1
+A
+12 -25
+#15945
+obj chaotic battle cape~
+1
+&ra chaotic red battle cape&n~
+A deep red cape of chaos lies here.&n~
+~
+9 4456960 0 1025
+15 0 0 0
+5 245000 5
+A
+19 4
+A
+18 4
+A
+13 10
+#15946
+obj Death Gauntlet~
+3
+&WD&re&Ra&Wt&rh&E &RK&Wn&ri&Rg&Wh&rt&R'&Ws&E &rG&Ra&Wu&rn&Rt&Wl&re&Rt&Ws~
+&WD&re&Ra&Wt&rh&E &RK&Wn&ri&Rg&Wh&rt&R'&Ws&E &rG&Ra&Wu&rn&Rt&Wl&re&Rt&Ws&E lies here.~
+~
+9 4194304 0 129
+20 0 0 0
+1 5 5
+A
+19 3
+A
+18 2
+A
+12 -20
+$~
+#999999

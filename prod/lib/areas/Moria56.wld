@@ -1,0 +1,618 @@
+#21400
+Tunnel through the Mines~
+  Traveling in an east-west direction, the darkness that permeats the tunnels
+prevents an examination of the features. Though no creatures can be seen, an
+ominous presense can be felt coming from every direction.
+~
+173 9 0 1 99 1
+D1
+It's too dark to see.
+~
+~
+0 -1 4104
+D3
+It's very dark.
+~
+~
+0 -1 21401
+S
+#21401
+Tunnel through the Mines~
+  Traveling in an east-west direction, the darkness that permeats the tunnels
+prevents an examination of the features. Though no creatures can be seen, an
+ominous presense can be felt coming from every direction.
+~
+173 9 0 1 99 1
+D1
+It's very dark.
+~
+~
+0 -1 21400
+D3
+It's very dark.
+~
+~
+0 -1 21402
+S
+#21402
+Tunnel through the Mines~
+  Traveling in an east-west direction, the darkness that permeats the tunnels
+prevents an examination of the features. Though no creatures can be seen, an
+ominous presense can be felt coming from every direction.
+~
+173 13 0 1 99 1
+D1
+It's very dark
+~
+~
+0 -1 21401
+D3
+It's very dark.
+~
+~
+0 -1 21403
+S
+#21403
+A Natural Cavern~
+  From the echo of your footsteps, you can tell the tunnel has opened up into
+a large cavern. Though mostly dark, there is a light coming from an unknown 
+source to the west.
+~
+173 13 0 1 99 1
+D1
+It's very dark.
+~
+~
+0 -1 21402
+D3
+A warm light comes from that direction.
+~
+~
+0 -1 21404
+S
+#21404
+Hobgoblin Campfire~
+  A large bonfire has been lit here, it's light and warmth flooding the entire
+cavern. Several creatures called hobgoblins dance around the fire in a strange
+barbaric dance, while several of their brethren cook meals that are completely
+unappetizing to most pallets. Several structures made of wood can be seen to
+the north and south, most likely crude housing for the beasts. A very large
+structure lies to the west, where most of the hobgoblin activity seems to be.
+~
+173 8 0 1 99 1
+D0
+To a hobgoblin house.
+~
+~
+0 -1 21405
+D1
+The darkness of the cavern awaits.
+~
+~
+0 -1 21403
+D2
+To a hobgoblin house.
+~
+~
+0 -1 21407
+D3
+Path to a large building.
+~
+~
+0 -1 21409
+S
+#21405
+Near a Hobgoblin House~
+  A small trail has been worn into the cavern floor, leading directly to what
+can only be described as a shoddy house. The structure appears to be made from
+wood gathered from outside the mines, but has very little craftsmanship to it 
+at all, and looks very unsturdy.
+~
+173 9 0 1 99 1
+D0
+A hobgoblin house.
+~
+door~
+9 0 21406
+D2
+Near the bonfire.
+~
+~
+0 -1 21404
+S
+#21406
+An Unstable Household~
+  Built from collapsed beams from the mines, and branches of trees from the
+outside world, this structure is barely holding together. There are several
+gaps in the woodwork, serving as windows, while a small hearth built in the 
+center of the building provides the only warmth and light to the area. There
+are no beds or furniture here, only several rotting blankets that serve as
+the sleeping area.
+~
+173 8 0 1 99 1
+D2
+path to the bonfire.
+~
+door~
+9 0 21405
+S
+#21407
+Near a Hobgoblin House~
+  A small trail has been worn into the cavern floor, leading directly to what
+can only be described as a shoddy house. The structure appears to be made from
+wood gathered from outside the mines, but has very little craftsmanship to it 
+at all, and looks very unsturdy.
+~
+173 9 0 1 99 1
+D0
+Near the bonfire.
+~
+~
+0 -1 21404
+D2
+A shoddy house.
+~
+south~
+9 0 21408
+S
+#21408
+An Unstable Household~
+  Built from collapsed beams from the mines, and branches of trees from the
+outside world, this structure is barely holding together. There are several
+gaps in the woodwork, serving as windows, while a small hearth built in the
+center of the building provides the only warmth and light to the area. There
+are no beds or furniture here, only several rotting blankets that serve as
+the sleeping area.
+~
+173 8 0 1 99 1
+D0
+Path to the bonfire.
+~
+~
+9 0 21407
+S
+#21409
+Well Worn Path~
+  Traveling in an east-west direction, the darkness that permeats the tunnels
+prevents an examination of the features. Though no creatures can be seen, an
+ominous presense can be felt coming from every direction.
+~
+173 8 0 1 99 1
+D1
+A large fire spreads warmth throughout the cavern.
+~
+~
+0 -1 21404
+D3
+Next to a very large building.
+~
+~
+0 -1 21410
+S
+#21410
+Outside the Hobgoblin Hall~
+  Standing outside the large hall, you finally realize the great size of the
+building considering the size of the small cavern. In all, the structure takes
+up over half the space in the cave, and at its highest point, nearly touches
+the ceiling. Wooden planks form the walls and roof, having been carefully 
+carved and constructed so that the beauty of the hall far surpasses the more
+shoddily built housing structures. A large double door leads into the hall,
+sounds of merriment and laughter come from within.
+~
+173 8 0 1 99 1
+D1
+A well worn path.
+~
+~
+0 -1 21409
+D3
+Into the great hall.
+~
+west~
+1 0 21411
+S
+#21411
+Entrance to the Great Hall~
+  The sight inside this establishment is chaotic to say the least. Dozens of
+hobgoblins sit around tables, boasting loudly of tales of pillaging and plun-
+der. Several fights go unattended as drunken patrons disagree on one subject 
+or another. Several stools and tables lie in pieces from bodies crashing into
+them, or the items having been used as weapons. Numberous kegs of an alcoholic
+substance line the back, probably bounty from a raid to a village. 
+~
+173 8 0 1 99 1
+D0
+Corner of the hall.
+~
+~
+0 -1 21412
+D1
+Outside the great hall.
+~
+door~
+1 0 21410
+D2
+Corner of the hall.
+~
+~
+0 -1 21413
+D3
+Center of the Great Hall.
+~
+~
+0 -1 21415
+S
+#21412
+Corner of the Hall~
+  Several scraps from tables and chairs lie against the wall, in a vain 
+attempt to free up walkspace through the crowded hall. Several drunken 
+hobgoblins scuffle about in somewhat humorous brawls, while others ignore 
+them while telling tales of plunder and might.
+~
+173 8 0 1 99 1
+D2
+Entrance to the hall
+~
+~
+0 -1 21411
+D3
+In the hall.
+~
+~
+0 -1 21416
+S
+#21413
+Corner of the Hall~
+  Several scraps from tables and chairs lie against the wall, in a vain 
+attempt to free up walkspace through the crowded hall. Several drunken 
+hobgoblins scuffle about in somewhat humorous brawls, while others ignore 
+them while telling tales of plunder and might. 
+~
+173 8 0 1 99 1
+D0
+Entrance to the hall.
+~
+~
+0 -1 21411
+D3
+In the great hall.
+~
+~
+0 -1 21414
+S
+#21414
+In the Great Hall~
+  The roar of the hobgoblins becomes almost deafening as each tries to out-
+boast the other in near shouting matches. Several fights have broken out, and 
+most go unattended as drinks, tables and chairs fly by your head at times. Most
+of the creatures are so occupied in their acts of bravado, that none have
+really noticed your intrusion yet.
+~
+173 8 0 1 99 1
+D0
+Center of the hall.
+~
+~
+0 -1 21415
+D1
+~
+~
+0 -1 21413
+D3
+Corner of the hall.
+~
+~
+0 -1 21419
+S
+#21415
+Center of the Great Hall~
+  The few surviving tables and chairs here are completely filled with hob-
+goblins in various states of drunkeness. The back of the hall, near the 
+wine barrels seems to be a bit more calm. Most of the beasties seem to avoid
+that area for some reason.
+~
+173 8 0 1 99 1
+D0
+In the hall.
+~
+~
+0 -1 21416
+D1
+Entrance to the hall.
+~
+~
+0 -1 21411
+D2
+In the hall.
+~
+~
+0 -1 21414
+D3
+The back of the Great Hall.
+~
+~
+0 -1 21418
+S
+#21416
+In the Great Hall~
+  The roar of the hobgoblins becomes almost deafening as each tries to out-
+boast the other in near shouting matches. Several fights have broken out, and 
+most go unattended as drinks, tables and chairs fly by your head at times. Most
+of the creatures are so occupied in their acts of bravado, that none have
+really noticed your intrusion yet.
+~
+173 8 0 1 99 1
+D1
+Corner of the hall.
+~
+~
+0 -1 21412
+D2
+Center of the hall.
+~
+~
+0 -1 21415
+D3
+Corner of the hall.
+~
+~
+0 -1 21417
+S
+#21417
+Corner of the Great Hall~
+  Scraps of broken tables and chairs lie in the corner, in a vain attempt
+to make more walkspace within the crowded hall. The area to the south seems
+to be the least conjested, as most hobgoblins seem to steer clear of that
+part of the building.
+~
+173 8 0 1 99 1
+D1
+In the hall.
+~
+~
+0 -1 21416
+D2
+The back of the hall.
+~
+~
+0 -1 21418
+S
+#21418
+Back of the Great Hall~
+  A very large and sturdy table has been set here near the wine barrels. The
+leaders of the hobgoblins sit at this table, and that is why the others in the 
+area have been afraid to approach. Several severed digits lie scattered on the
+floor, apparently from patrons that came too close.
+~
+173 8 0 1 99 1
+D0
+A corner in the hall.
+~
+~
+0 -1 21417
+D1
+The center of the hall.
+~
+~
+0 -1 21415
+D2
+A corner in the hall.
+~
+~
+0 -1 21419
+S
+#21419
+Corner in the Great Hall~
+  Traveling in an east-west direction, the darkness that permeats the tunnels
+prevents an examination of the features. Though no creatures can be seen, an
+ominous presense can be felt coming from every direction.
+~
+173 8 0 1 99 1
+D0
+The back of the hall.
+~
+~
+0 -1 21418
+D1
+In the hall.
+~
+~
+0 -1 21414
+S
+#21420
+Tunnel through the Mines~
+  Traveling in an east-west direction, the darkness that permeats the tunnels
+prevents an examination of the features. Though no creatures can be seen, an
+ominous presense can be felt coming from every direction.
+~
+173 13 0 1 99 1
+D1
+It's too dark to see.
+~
+~
+0 -1 21421
+D3
+It's too dark to see.
+~
+~
+0 -1 4117
+S
+#21421
+Tunnel through the Mines~
+  Passages lead in every direction. The darkness that permeates the tunnels
+prevents any examination of the area features, and though no creatures can 
+be seen, an ominous presense can be felt coming from every direction.
+~
+173 9 0 1 99 1
+D0
+It's too dark to see.
+~
+~
+0 -1 21422
+D1
+It's too dark to see.
+~
+~
+0 -1 21424
+D2
+It's too dark to see.
+~
+~
+0 -1 21423
+D3
+It's too dark to see.
+~
+~
+0 -1 21420
+S
+#21422
+Dead End~
+  The passage suddenly ends here. It appears as though work was interrupted
+from the claw marks and blood stains on the walls.
+~
+173 9 0 1 99 1
+D2
+It's too dark to see.
+~
+~
+0 -1 21421
+S
+#21423
+Dead End~
+  The passage suddenly ends here. It appears as though work was interrupted
+from the claw marks and blood stains on the walls.
+~
+173 9 0 1 99 1
+D0
+It's too dark to see.
+~
+~
+0 -1 21421
+S
+#21424
+Tunnel through the Mines~
+  The tunnel branches off to the north, south and to the west. The darkness
+that permeates the passageways prevents any detailed examinations, but a 
+soft green glow can be seen in the southern tunnel. Though no creatures 
+can be seen, an ominous presense can be felt coming from every direction.
+~
+173 9 0 1 99 1
+D0
+It's too dark to see.
+~
+~
+0 -1 21425
+D2
+It's too dark to see.
+~
+~
+0 -1 21426
+D3
+It's too dark to see.
+~
+~
+0 -1 21421
+S
+#21425
+Dead End~
+  The passage suddenly ends here. It appears as though work was interrupted
+from the claw marks and blood stains on the walls.
+~
+173 9 0 1 99 1
+D2
+It's too dark to see.
+~
+~
+0 -1 21424
+S
+#21426
+The Green Cave~
+  Luminescent moss clings to the walls, giving the cavern a very eerie glow.
+A very rank odor comes from this cave, almost reminiscent of rotting flesh.
+Several bungles of cloth lie against several of the walls, and piles of 
+bones have been heaped into the center of the room. Some shapes that appear
+near humanoid can be seen moving around, but the moss doesn't give enough 
+light to detect features.
+~
+173 8 0 1 99 1
+D0
+It's too dark to see.
+~
+~
+0 -1 21424
+D1
+It's too dark to see.
+~
+~
+0 -1 21429
+D2
+It's too dark to see.
+~
+~
+0 -1 21427
+S
+#21427
+The Green Cave~
+  Luminescent moss clings to the walls, giving the cavern a very eerie glow.
+A very rank odor comes from this cave, almost reminiscent of rotting flesh.
+Several bungles of cloth lie against several of the walls, and piles of 
+bones have been heaped into the center of the room. Some shapes that appear
+near humanoid can be seen moving around, but the moss doesn't give enough 
+light to detect features.
+~
+173 8 0 1 99 1
+D0
+It's too dark to see.
+~
+~
+0 -1 21426
+D1
+It's too dark to see.
+~
+~
+0 -1 21428
+S
+#21428
+The Green Cave~
+  Luminescent moss clings to the walls, giving the cavern a very eerie glow.
+A very rank odor comes from this cave, almost reminiscent of rotting flesh.
+Several bungles of cloth lie against several of the walls, and piles of 
+bones have been heaped into the center of the room. Some shapes that appear
+near humanoid can be seen moving around, but the moss doesn't give enough 
+light to detect features.
+~
+173 8 0 1 99 1
+D0
+It's too dark to see.
+~
+~
+0 -1 21429
+D3
+It's too dark to see.
+~
+~
+0 -1 21427
+S
+#21429
+The Green Cave~
+  Luminescent moss clings to the walls, giving the cavern a very eerie glow.
+A very rank odor comes from this cave, almost reminiscent of rotting flesh.
+Several bungles of cloth lie against several of the walls, and piles of 
+bones have been heaped into the center of the room. Some shapes that appear
+near humanoid can be seen moving around, but the moss doesn't give enough 
+light to detect features.
+~
+173 8 0 1 99 1
+D2
+It's too dark to see.
+~
+~
+0 -1 21428
+D3
+It's too dark to see.
+~
+~
+0 -1 21426
+S
+$~
+#999999

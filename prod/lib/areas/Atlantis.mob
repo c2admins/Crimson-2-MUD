@@ -1,0 +1,321 @@
+#14500
+mob guard merman~
+the merman guard~
+A merman guard is here, keeping an eye out for evil intruders.
+~
+The "man" is a short humanoid whose skin is covered with blue-green scales. In
+the sides of his neck you notice three gill slits. He appears to be strong and
+quick for his size.
+~
+10 1 136249361 0 0 S
+16 24 28 225d1+0 3d5+10
+3500 4700
+8 8 1
+13 0 15 14 13 15 13 14
+#14501
+mob guard sahaugin~
+the sahaugin guard~
+A sahaugin guard is here, staring at you with an evil grin.
+~
+This creature stands on two legs and has dark-green, rough looking skin. 
+His bulging muscles, long, thin claws, and large lower jaw filled with teeth
+seem to make you wary of his presence.
+~
+57354 1 136249361 0 -100 S
+18 22 26 20d19+100 5d5+10
+4350 5450
+8 8 1
+13 0 15 14 13 14 12 14
+#14502
+mob citizen merman~
+the merman citizen~
+A merman citizen is here, walking about the city streets.
+~
+He looks to be about five feet tall and has blue-green scaly skin. His neck 
+has three small gill slits at each side, and they slowly open and close. He
+seems to be in a rush to get somewhere.
+~
+12 1 136249361 0 0 S
+15 25 29 20d9+100 3d5+10
+3300 4425
+8 8 1
+13 0 14 15 14 14 13 13
+#14503
+mob citizen sahaugin~
+the sahaugin citizen~
+A sahaugin citizen stands here, eating a piece of steamed fish.
+~
+This is stocky built creature with wide shoulders and thick muscles. Long sharp
+fingernails grow out from his webbed hands. He eyes you suspiciously.
+~
+12 1 136249361 0 0 S
+15 25 29 20d13+80 5d5+6
+3400 4625
+8 8 1
+13 0 15 13 12 12 11 9
+#14504
+mob Neptune~
+Neptune~
+Neptune, lawful lord of the deep is here.
+~
+This is an immense man with blue-green skin and enormous muscles. Legends have 
+told of his supernatural abilities and the peace he helped to create 
+between the warring factions of the sahaugin and merman people. He now rules
+Atlantis with absolute power, but has enstated a king and queen as a puppet
+government to appease the people of the city.
+~
+262154 32769 136249361 136 1000 S
+24 16 20 100d9+650 4d10+20
+16325 74375
+8 8 1
+13 0 19 19 17 16 14 14
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+#14505
+mob Medeak merman wizard magician~
+Medeak~
+The mysterious merman wizard Medeak is here, staring directly into the intense light.
+~
+This man appears to be EXTREMELY old. His back is hunched and he wears a pointy
+white and green hat on his head. He stands in a strange trans before the 
+intense light source, almost as if he is meditating. He does not seem to notice
+you enter the room.
+~
+262154 32769 136249361 8 1000 S
+20 20 24 1400d1+0 3d12+10
+5500 55000
+8 8 1
+13 1 18 16 16 17 14 12
+SKILL=SPELL_BLINDNESS 64
+SKILL=SPELL_BURNING_HANDS 64
+SKILL=SPELL_COLOUR_SPRAY 64
+SKILL=SPELL_CURSE 64
+SKILL=SPELL_ENERGY_DRAIN 64
+SKILL=SPELL_FIREBALL 64
+SKILL=SPELL_LIGHTNING_BOLT 64
+SKILL=SPELL_MAGIC_MISSILE 64
+SKILL=SPELL_SLEEP 64
+#14506
+mob merman shaman~
+the merman shaman~
+The merman shaman of Pisces is here, performing a strange dance.
+~
+The entire extent of this man's skin is covered with odd painted symbols. 
+In fact, he is wearing no clothes other than a thin robe. Although he seems
+to be truly excentric, it is obvious that this man holds a position of unique
+importance amost the people of Atlantis.
+~
+262154 32769 136249361 8 700 S
+19 21 25 20d19+145 4d8+10
+35000 5710
+8 8 1
+13 2 16 15 14 15 13 13
+SKILL=SPELL_BLINDNESS 54
+SKILL=SPELL_HAIL_STORM 54
+SKILL=SPELL_CURSE 54
+SKILL=SPELL_HARM 54
+SKILL=SPELL_MAGIC_MISSILE 54
+SKILL=SPELL_POISON 54
+SKILL=SPELL_CAUSE_CRITIC 54
+SKILL=SPELL_HEAL_MINOR 54
+SKILL=SPELL_EARTHQUAKE 54
+#14507
+mob assistant priest merman~
+the shaman's assistant~
+The shaman's assistant stands here, reciting prayers in a stange language.
+~
+This merman appears to be reciting certain lines of a prayer as the shaman
+performs different parts of his dance. He has a devout look about him, and
+seems annoyed that you have interrupted his ceremony.
+~
+10 32769 136249361 0 600 S
+16 24 28 40d5+100 3d6+10
+4000 49000
+8 8 1
+13 6 16 18 14 15 12 15
+SKILL=SPELL_BLINDNESS 50
+SKILL=SPELL_HAIL_STORM 50
+SKILL=SPELL_CURSE 50
+SKILL=SPELL_HARM 50
+SKILL=SPELL_MAGIC_MISSILE 50
+SKILL=SPELL_POISON 50
+SKILL=SPELL_CAUSE_CRITIC 50
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_EARTHQUAKE 50
+#14508
+mob merman priest~
+the merman priest~
+A merman priest stands here, chanting a strange prayer.
+~
+This merman clutches a holy symbol of two fish in his hand. His mind seems to
+be lost in prayer.
+~
+8 32769 136249361 0 600 S
+13 26 31 9d9+120 2d8+5
+1000 3925
+8 8 1
+13 6 15 17 13 15 14 10
+SKILL=SPELL_BLINDNESS 46
+SKILL=SPELL_HAIL_STORM 46
+SKILL=SPELL_CURSE 46
+SKILL=SPELL_HARM 46
+SKILL=SPELL_MAGIC_MISSILE 46
+SKILL=SPELL_POISON 46
+SKILL=SPELL_CAUSE_CRITIC 46
+SKILL=SPELL_HEAL_MINOR 46
+SKILL=SPELL_EARTHQUAKE 46
+#14509
+mob sahaugin blacksmith~
+the sahaugin blacksmith~
+A sahaugin blacksmith is here, pounding on an anvil.
+~
+This is the largest sahaugin you have seen yet. He look VERY strong. His veins
+and muscles bulge as he brings a large hammer down on a peice of wrought iron.
+~
+10 32769 136249361 0 -100 S
+20 20 24 100d9+1000 7d6+4
+5295 62000
+8 8 1
+13 0 16 15 14 16 14 14
+#14510
+mob queen merman~
+the merman queen~
+The queen of the mermen is here, looking at you curiously.
+~
+Although she is respected among the mermen of Atlantis for her supposed power
+and leadership abilities, this queen is really just part of the puppet   
+goevernment that Neptune is using to keep peace among the people.
+~
+262154 32769 136249361 8 900 S
+23 17 21 100d19+800 5d5+20
+13500 70000
+8 8 2
+13 0 17 16 16 16 12 12
+SKILL=SPELL_BLINDNESS 56
+SKILL=SPELL_HAIL_STORM 56
+SKILL=SPELL_CURSE 56
+SKILL=SPELL_HARM 56
+SKILL=SPELL_MAGIC_MISSILE 56
+SKILL=SPELL_POISON 56
+SKILL=SPELL_CAUSE_CRITIC 56
+SKILL=SPELL_HEAL_MINOR 56
+SKILL=SPELL_EARTHQUAKE 56
+#14511
+mob king sahaugin~
+the sahaugin king~
+The bold king of the sahaugin is here, polishing his sword.
+~
+The king has a stern look on his face, and appears to be militant and impatient.
+He looks disappointed to see you here.  Little does he know that he really has
+no power here in Atlantis and he is just another part of the puppet
+government set up by Neptune to stop the war between the Mermen and Sahaugin.
+~
+262154 32769 136249361 8 -200 S
+25 15 18 100d19+1200 5d5+30
+19000 78000
+8 8 1
+13 0 16 17 15 16 15 12
+#14512
+mob kraken squid~
+the Kraken~
+The Kraken, legendary monster of the deep is here.
+~
+The is the largest beast you have ever seen! His giant beak has made a hole in
+the dome above, and throught the gushing water he attacks you!
+~
+385034 1 136249361 8 0 S
+27 15 14 100d19+1400 9d9+7
+22000 82515
+8 8 1
+13 0 18 18 18 18 16 13
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#14513
+mob eel~
+the electric eel~
+A long eel is here, slithering among the kelp.
+~
+He is slippery and slimy looking, and an occasiously burst of evergy seem to
+come from his mouth.
+~
+57352 32769 136249361 8 0 S
+14 25 30 20d9+80 3d8+4
+2000 4100
+8 8 1
+13 0 16 14 13 13 12 12
+SKILL=SPELL_LIGHTNING_BREATH 44
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#14514
+mob kreel sage~
+Kreel~
+The sage of Atlantis, Kreel, is here.
+~
+The is a very old merman who is considered to be the wisest man in all
+Atlantis. Many people have come to him for advice over the years, and he
+charges them a great deal for the few words that he gives.
+~
+262154 32769 136249361 136 1000 S
+25 15 18 20d9+1000 5d5+30
+17000 75950
+8 8 1
+13 1 17 19 17 17 14 16
+SKILL=SPELL_BLINDNESS 60
+SKILL=SPELL_BURNING_HANDS 60
+SKILL=SPELL_COLOUR_SPRAY 60
+SKILL=SPELL_CURSE 60
+SKILL=SPELL_ENERGY_DRAIN 60
+SKILL=SPELL_FIREBALL 60
+SKILL=SPELL_LIGHTNING_BOLT 60
+SKILL=SPELL_MAGIC_MISSILE 60
+SKILL=SPELL_SLEEP 60
+#14515
+mob merman tradesman~
+the merman tradesman~
+A merman tradesman stands here, checking the dome for cracks.
+~
+The tradesman looks up towards the top of the dome with a worried look on his
+face. Appearantly there have been it has broken before....
+~
+12 1 136249361 0 800 S
+13 26 31 20d7+100 3d8+1
+1200 3975
+8 8 1
+13 0 16 14 14 13 11 14
+#14516
+mob pisces goddess~
+Pisces~
+Pisces, the goddess of the deep id here.
+~
+A beautful naked woman is here, with radiant skin and soft glowing hair. She
+waves her arms gracefully and several schools of fish swim around her body.
+She stares deep into your eyes with curiosity, as if she has never seen a 
+creature without gills before.
+~
+262154 32769 136249361 1140850825 1000 S
+27 15 14 20d19+1135 20d3+10
+24000 83475
+8 8 2
+13 0 18 18 18 17 16 16
+SKILL=SPELL_BLINDNESS 70
+SKILL=SPELL_BURNING_HANDS 70
+SKILL=SPELL_COLOUR_SPRAY 70
+SKILL=SPELL_CURSE 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SPELL_LIGHTNING_BOLT 70
+SKILL=SPELL_MAGIC_MISSILE 70
+SKILL=SPELL_SLEEP 70
+$~
+#999999

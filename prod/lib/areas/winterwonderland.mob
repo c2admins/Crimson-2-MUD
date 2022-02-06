@@ -1,0 +1,179 @@
+#24480
+mob Santa Claus mob~
+&RS&Wa&Rn&Wt&Ra &RC&Wl&Ra&Wu&Rs&n~
+&RS&Wa&Rn&Wt&Ra &RC&Wl&Ra&Wu&Rs&n &Wis looking over his naughty and nice list.&n
+~
+    &WA large jolly old man stands here. He has rosey red cheeks and
+is standing here checking over his who's been naught and who's been
+nice list.&n
+~
+1074003978 32769 136249361 536871040 1000 S
+50 -20 40 1d1+19999 42d42+75
+6000000 2500000
+8 8 1
+1 0 17 16 15 16 15 15
+#24481
+mob grinch mob~
+&wThe &GG&Rr&Gi&Rn&Gc&Rh&n~
+&wThe &GG&Rr&Gi&Rn&Gc&Rh&w stands here plotting the end of christmas.&n
+~
+&w  The Grinch is a mean one...you don't wanna cross his path. He despises everything
+about christmas. He will do whatever it takes to get rid of all christmas cheer.&n
+~
+1090781214 32769 136249361 2097280 -1000 S
+50 -20 40 1d1+24999 42d42+80
+6000000 2500000
+8 8 1
+0 0 16 16 15 16 12 11
+#24482
+mob frosty snowman mob~
+&CF&cr&wos&ct&Cy &wthe &WSnowman&n~
+&WA large snowman stands here.&n
+~
+  &WA freshly made snowman stands here. He is has a carrot for a noose and wears
+a scarf and black top hat.&n
+~
+1082392586 32769 136249361 128 1000 S
+48 -10 40 1d1+14999 25d25+99
+4000000 2000000
+8 8 0
+0 0 16 15 16 16 15 12
+#24483
+mob claus mrs mob~
+&WMrs &RC&Wlau&Rs&n~
+&WMrs Claus stands here baking some &ycookies&W.&n
+~
+&W  Mrs Claus stands here in the kitched baking her daily batch
+of cookies. She has a set of large oven mits on her hands.
+&n
+~
+1074003978 32769 136249361 128 1000 S
+47 -10 40 1d1+12999 30d30+45
+3500000 1500000
+8 8 2
+1 0 16 16 16 16 13 12
+#24484
+mob elf mob~
+&WA &RC&Whristma&Rs &GElf&n~
+&WA &RC&Whristma&Rs &GElf&W stands here playing in the snow.&n
+~
+&wThese tiny elves work in santa's workshop almost all year long, with all the toys
+made for christmas they finally have a some time play in the snow.&n
+~
+262222 1 136249361 538968064 1000 S
+44 0 40 1d1+9999 20d20+30
+1100000 1500000
+8 8 0
+14 0 17 15 14 16 12 12
+#24485
+mob rudolph red-noose reindeer mob~
+&yRudolph &Wthe &RRed&w-&Rnose &yReindeer.&n~
+&yRudolph &Wthe &RRed&w-&Rnose &yReindeer&w prepares for lift-off.&n
+~
+&wThis is the smallest of all the reindeer in Santa's shop. However, his
+bright red nose has helped guide Santa's sleigh through many winter storms.
+&n
+~
+1090781194 1 136249361 16512 1000 S
+20 -20 40 1d1+15999 30d30+50
+2500000 2000000
+8 8 1
+0 0 17 16 16 15 15 15
+#24486
+mob reindeer mob~
+&wA &yReindeer&n~
+&wA &yReindeer&w stands here grazing.&n
+~
+  &WThis four legged beast is one of Santa's reindeer.&n
+~
+16777224 32769 136249361 128 750 S
+44 -15 40 1d1+13999 20d20+25
+500000 1500000
+8 8 1
+0 0 24 16 14 15 14 11
+#24487
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 15 15 16 12 12
+#24488
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 15 16 13 15
+#24489
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 16 15 14 11
+#24490
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 14 14 15 15
+#24491
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 18 15 15 15 13
+#24492
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 16 15 15 11
+#24493
+mob blank~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 17 18 14 14 12 15
+$~
+#999999

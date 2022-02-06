@@ -1,0 +1,808 @@
+#18400
+mob nagi protector north~
+Nagi, Protector of the North~
+Nagi stands facing north in tribute.
+~
+Nagi, Protector of the North, turns his featureless face towards you, making you
+wish you hadn't looked.  In place of the features of a normal living entity is
+a glimmering sheet of light that looks very much like the surface of a body of
+water.
+~
+67375178 32769 136249361 33554560 0 S
+43 1 -28 30d19+11000 40d5+30
+940000 650000
+8 8 0
+0 0 17 15 14 14 15 14
+SKILL=SPELL_SHOCKING_GRASP 50
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_SECOND 80
+SKILL=SPELL_HEAL_MINOR 65
+SKILL=SPELL_HEAL_MEDIUM 5
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18401
+mob sunal protector south~
+Sunal, Protector of the South~
+Sunal stands facing the south in tribute.
+~
+Sunal, Protector of the South, turns his featureless face towards you, making
+you wish you hadn't looked.  In place of the features of a normal living entity
+is a glimmering sheet of light that looks very much like the surface of a body
+of water.
+~
+67375178 32769 136249361 33554560 0 S
+43 1 -28 30d19+11000 40d5+30
+940000 650000
+8 8 0
+0 0 17 15 14 14 15 14
+SKILL=SPELL_BURNING_HANDS 50
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_SECOND 80
+SKILL=SPELL_HEAL_MINOR 65
+SKILL=SPELL_HEAL_MEDIUM 5
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18402
+mob eophay protector east~
+Eophay, Protector of the East~
+Eophay stands facing the east in tribute.
+~
+Eophay, Protector of the East, turns his featureless face towards you, making
+you wish you hadn't looked.  In place of the features of a normal living entity
+is a glimmering sheet of light that looks very much like the surface of a body
+of water.
+~
+67375178 32769 136249361 33554560 0 S
+43 1 -28 30d19+11000 40d5+30
+940000 650000
+8 8 0
+0 0 17 15 14 14 15 14
+SKILL=SPELL_CHILL_TOUCH 50
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_SECOND 80
+SKILL=SPELL_HEAL_MINOR 65
+SKILL=SPELL_HEAL_MEDIUM 5
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18403
+mob widmer protector west~
+Widmer, Protector of the West~
+Widmer stands facing the west in tribute.
+~
+Widmer, Protector of the West, turns his featureless face towards you, making
+you wish you hadn't looked.  In place of the features of a normal living entity
+is a glimmering sheet of light that looks very much like the surface of a body
+of water.
+~
+67375178 32769 136249361 33554560 0 S
+43 1 -28 30d19+11000 40d5+30
+940000 650000
+8 8 0
+0 0 17 15 14 14 15 14
+SKILL=SPELL_SHOCKING_GRASP 50
+SKILL=SKILL_PARRY 10
+SKILL=SKILL_SECOND 80
+SKILL=SPELL_HEAL_MINOR 65
+SKILL=SPELL_HEAL_MEDIUM 5
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=101
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18404
+mob wanderer nameless~
+a nameless wanderer~
+A nameless wanderer blends in with the darkness.
+~
+A hooded, nameless, faceless being tries to blend with the shadows and escape
+your notice.
+~
+67371080 32769 136249361 1107296256 -500 S
+41 2 -24 80d19+15000 9d7+22
+450000 367500
+8 8 1
+16 3 16 16 14 14 12 13
+SKILL=SKILL_STEAL 50
+SKILL=SKILL_SECOND 75
+SKILL=SKILL_THIRD 30
+ATTACK_SKILL=75
+ATTACK_SKILL=30
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18405
+mob erwin guardian eagle~
+Erwin, Guardian of the Eagle~
+Erwin stares at you intently.
+~
+Erwin, Guardian of the Eagle, has been here so long he is no longer really 
+human.  Light downy feathers sprout from his head in place of hair and his feet
+have come to look more like the razor sharp talons of a bird than those of a 
+human.
+~
+16777290 32769 136249361 192 100 S
+30 13 5 60d19+1000 5d11+20
+20000 180000
+8 8 1
+0 0 17 16 16 16 13 13
+SKILL=SPELL_ENERGY_DRAIN 10
+SKILL=SKILL_SECOND 20
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#18406
+mob wysel guardian wolf~
+Wysel, Guardian of the Wolf~
+Wysel lurks in the shadows.
+~
+Wysel, Guardian of the Wolf, has been here so long that he is no longer entirely
+human.  His lengthened snout does not cover his enlarged canines and he moves
+with the stealth of the beast whose spirit he is to guard.
+~
+16777290 32769 136249361 192 100 S
+30 13 5 60d19+1000 5d11+20
+20000 180000
+8 8 1
+0 0 16 17 16 15 13 14
+SKILL=SPELL_ENERGY_DRAIN 10
+SKILL=SKILL_SECOND 20
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#18407
+mob boleigh guardian bear~
+Boleigh, Guardian of the Bear~
+Boleigh lumbers around grumpily.
+~
+Boleigh, Guardian of the Bear, has been here so long that he is no longer 
+entirely human.  His burly body and widened head have grown a dense pelt and
+his sheer size is daunting.
+~
+16777290 32769 136249361 192 100 S
+30 13 5 60d19+1000 5d11+20
+20000 180000
+8 8 0
+0 0 17 16 16 16 13 13
+SKILL=SPELL_ENERGY_DRAIN 10
+SKILL=SKILL_SECOND 20
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#18408
+mob leren guardian lynx~
+Leren, Guardian of the Lynx~
+Leren slinks around the room on all fours.
+~
+Leren, Guardian of the Lynx, has long forgotten the ways of his two-legged 
+ancestors and dropped down to all fours.  His body has gained the characteristic
+slink of felines but he can still rear back on his hind limbs to defend himself
+if necessary.
+~
+16777290 32769 136249361 192 100 S
+30 13 5 60d19+1000 5d11+20
+20000 180000
+8 8 0
+0 0 17 16 16 16 13 13
+SKILL=SPELL_ENERGY_DRAIN 10
+SKILL=SKILL_SECOND 20
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#18409
+mob lynx~
+a lynx~
+A lynx stretches lazily against the wall.
+~
+The thick, luxurious pelt of the cat before you makes you want to sink your
+fingers in.  The icy look in the lynx's eyes convinces you that perhaps that
+wouldn't be the best idea though.
+~
+16777288 1 136249361 33554432 0 S
+28 15 11 44d19+2000 5d5+12
+12500 85000
+8 8 0
+0 0 17 17 16 15 12 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#18410
+mob eagle~
+an eagle~
+An eagle looks haughtily at you from its perch.
+~
+This huge bird could rip you to shreds with its powerful beak and talons.  It
+has earned the right to its haughty glare so you should tread with care around
+this noble beast.
+~
+16777288 1 136249361 33554432 0 S
+28 15 11 44d19+2000 5d5+12
+12500 85000
+8 8 0
+0 0 17 17 16 15 12 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#18411
+mob wolf~
+a wolf~
+A wolf peers at you cautiously.
+~
+The lean flanks of this wily beast could lead you to underestimate its power
+easily.  The hungry light in its eyes, on the other hand, lets you know exactly
+what plans it has for your near future.
+~
+16777288 1 136249361 33554432 0 S
+28 15 11 44d19+2000 5d5+12
+12500 85000
+8 8 0
+0 0 17 17 16 15 12 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#18412
+mob bear~
+a bear~
+A bear lies here, covering your path.
+~
+This big shaggy beast may not be very fast, but it makes up for it by sheer
+strength.  It has the power to put a hurting on most adventurers and you are no
+exception.
+~
+16777288 1 136249361 33554432 0 S
+28 15 11 44d19+2000 5d5+12
+12500 85000
+8 8 0
+0 0 17 17 16 15 12 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#18413
+mob sentinel white~
+a white sentinel~
+A white sentinel guards his post here.
+~
+The sentinel is intent on holding his ground.  Perhaps he is too intent on that
+job as he is obviously not paying a whit of attention to his surroundings
+(yourself included).
+~
+4174 1081345 136249361 33554432 200 S
+30 13 5 20d19+3000 7d5+20
+20000 183000
+8 8 1
+1 4 16 17 14 14 12 11
+SKILL=SKILL_SECOND 40
+SKILL=SKILL_THIRD 20
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18414
+mob ranger elven~
+an elven ranger~
+An elven ranger is here, protecting the peace.
+~
+The ranger is the being of nature.  This one is no different.  It knows its 
+place is here, where the ancients placed it to defend the things they valued.
+~
+76 32769 136249361 33554432 100 S
+26 15 16 22d10+2000 5d5+15
+9250 78125
+8 8 0
+15 14 16 18 16 16 14 15
+SKILL=SKILL_SECOND 60
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18415
+mob ranger human~
+a human ranger~
+A human ranger is here, protecting the peace.
+~
+The ranger is the being of nature.  This one is no different.  It knows its 
+place is here, where the ancients placed it to defend the things they valued.
+~
+76 32769 136249361 33554432 100 S
+25 15 18 11d19+2000 5d5+13
+7500 75000
+8 8 0
+1 14 16 18 16 16 14 15
+SKILL=SKILL_SECOND 60
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18416
+mob ranger feline~
+a feline ranger~
+A feline ranger is here, protecting the peace.
+~
+The ranger is the being of nature.  This one is no different.  It knows its 
+place is here, where the ancients placed it to defend the things they valued.
+~
+76 32769 136249361 33554432 100 S
+27 15 14 33d19+2000 5d5+17
+10425 80560
+8 8 0
+9 14 16 18 16 16 14 15
+SKILL=SKILL_SECOND 60
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18417
+mob pela essence pine~
+Pela, Essence of the Pine~
+Pela meditates here.
+~
+Pela, Essence of the Pine, has beautiful, fragile features.  However, in place
+of the hair normally found on our bodies, Pela has sprouted clusters of deep
+green pine needles.  They fall on her body much like clothing, giving her the
+pungent scent of pine.
+~
+74 32769 136249361 100663424 0 S
+35 8 -10 28d19+2000 6d9+23
+58500 214000
+8 8 2
+0 0 17 15 16 16 15 14
+SKILL=SKILL_SECOND 50
+SKILL=SPELL_HEAL_MINOR 35
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18418
+mob cina essence cedar~
+Cina, Essence of the Cedar~
+Cina twirls happily in her own dream world.
+~
+Cina, Essence of the Cedar, has beautiful, fragile features.  However, in place
+of the hair normally found on our bodies, Cina has sprouted clusters of cedar
+needles.  They fall on her body much like clothing giving her the clean scent
+of cedar.
+~
+74 32769 136249361 100663424 0 S
+35 8 -10 28d19+2000 6d9+23
+58500 214000
+8 8 0
+0 0 17 15 16 16 15 14
+SKILL=SKILL_SECOND 50
+SKILL=SPELL_HEAL_MINOR 35
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18419
+mob ondya essence oak~
+Ondya, Essence of the Oak~
+Ondya sits fiddling with her acorns.
+~
+Ondya, Essence of the Oak, has beautiful fragile features.  However, in place
+of the hair normally found on our bodies, Ondya has sprouted clusters of rich
+green oak leaves.  They fall around her body much like clothing, giving her the
+strong scent of oak.
+~
+74 32769 136249361 100663424 0 S
+35 8 -10 28d19+2000 6d9+23
+58500 214000
+8 8 0
+0 0 17 15 16 16 15 14
+SKILL=SKILL_SECOND 50
+SKILL=SPELL_HEAL_MINOR 35
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18420
+mob mara essence maple~
+Mara, Essence of the Maple~
+Mara reclines peacefully here.
+~
+Mara, Essence of the Maple, has beautiful, fragile features.  However, in place
+of the hair normally found on our bodies, mara is covered with clumps of maple
+leaves.  They fall on her body much like clothing, giving her scent the taste
+of maple.
+~
+74 32769 136249361 100663424 0 S
+35 8 -10 28d19+2000 6d9+23
+58500 214000
+8 8 0
+0 0 17 15 16 16 15 14
+SKILL=SKILL_SECOND 50
+SKILL=SPELL_HEAL_MINOR 35
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18421
+mob sentinel green~
+a green sentinel~
+A green sentinel dutifully guards his post.
+~
+The sentinel is intent on holding his ground.  Perhaps he is too intent on that
+job as he is obviously not paying a whit of attention to his surroundings
+(yourself included).
+~
+4174 1081345 136249361 33554432 200 S
+30 13 5 20d19+3000 7d5+20
+20000 180000
+8 8 0
+1 4 16 17 14 14 12 11
+SKILL=SKILL_SECOND 40
+SKILL=SKILL_THIRD 20
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18422
+mob dweller canopy~
+a canopy dweller~
+A canopy dweller rests here.
+~
+The canopy dweller crouches low to its substrate, its hind limbs far shorter 
+than its forelimbs.  The amazing length of those arms make you guess that this
+beast would be just as comfortable swinging from the branches of trees as it 
+would be wielding the weapons in its hands.
+~
+16777288 32769 136249361 33554432 0 S
+33 10 5 20d19+3000 3d7+24
+35000 180000
+8 8 0
+0 0 17 17 16 15 15 15
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+#18423
+mob crawler canopy~
+canopy crawler~
+A canopy crawler crouches here on all fours.
+~
+The canopy crawler crouches warily on all fours, clinging close to its 
+substrate.  The beast doesn't look capable of wielding a weapon but looks as if 
+it would fight tooth and nail to defend its territory if it thinks this
+necessary.  As you approach, a long low growl of increasing intensity begins to
+rumble forth from its chest.
+~
+16777288 1 136249361 33554432 0 S
+30 13 5 20d19+3000 9d3+12
+20000 182500
+8 8 0
+0 0 16 15 15 14 13 11
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#18424
+mob delpho bringer dawn~
+Delpho, Bringer of the Dawn~
+Delpho is here pondering the beginning of a new day.
+~
+Delpho, Bringer of the Dawn, is an amazing creature whose body appears to be
+made solely of light.  Though it is humanoid, its face is a sheet of bright
+orange and pink hues while its body is covered with shimmering garments that
+are difficult distinguish from the body they cover.
+~
+262218 32769 136249361 33554560 0 S
+40 3 -22 35d19+6000 5d7+48
+167500 235000
+8 8 0
+0 0 16 15 14 14 14 14
+SKILL=SPELL_ENERGY_DRAIN 15
+SKILL=SPELL_FIREBALL 40
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18425
+mob dargo bringer dusk~
+Dargo, Bringer of the Dusk~
+Dargo stands, the lights of dusk in his eyes.
+~
+Dargo, Bringer of the Dusk, is an amazing creature whose body appears to be made
+solely of light.  Though it is humanoid, its face is a sheet of deep golden
+and reddish hues while its body is covered with shimmering garments that are
+difficult to distinguish from the body they cover.
+~
+262218 32769 136249361 33554560 0 S
+40 3 -22 35d19+6000 5d7+48
+167500 235000
+8 8 0
+0 0 16 15 14 14 14 14
+SKILL=SPELL_ENERGY_DRAIN 15
+SKILL=SPELL_FIREBALL 40
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18426
+mob dyeno bringer day~
+Dyeno, Bringer of the Day~
+Dyeno stands here enjoying the light of day.
+~
+Dyeno, Bringer of the Day, is an amazing creature whose body appears to be made
+solely of light.  Though it is humanoid, its face is a sheet of bright golden
+light while its body is covered with shimmering garments that are difficult to
+distinguish from the body that they cover.
+~
+262218 32769 136249361 33554560 0 S
+40 3 -22 35d19+6000 5d7+48
+167500 235000
+8 8 0
+0 0 16 15 14 14 14 14
+SKILL=SPELL_ENERGY_DRAIN 15
+SKILL=SPELL_FIREBALL 40
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18427
+mob nyeto bringer night~
+Nyeto, Bringer of the Night~
+Nyeto, veiled in darkness, kneels here.
+~
+Nyeto, Bringer of the Night, is an amazing creature whose body appears to suck
+in all the light around him.  Though it is humanoid, its face is a black hole
+and its body is merely suggested by the movements of particles in the blackness
+around him.
+~
+262218 32769 136249361 33554560 0 S
+40 3 -22 35d19+6000 5d7+48
+167500 235000
+8 8 0
+0 0 16 15 14 14 14 14
+SKILL=SPELL_ENERGY_DRAIN 15
+SKILL=SPELL_FIREBALL 40
+SKILL=SPELL_HEAL_MINOR 70
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=60
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18428
+mob sentinel red~
+a red sentinel~
+A red sentinel guards his post.
+~
+The sentinel is intent on holding his ground.  Perhaps he is too intent on that
+job as he is obviously not paying a whit of attention to his surroundings
+(yourself included).
+~
+4174 1081345 136249361 33554432 200 S
+30 13 5 20d19+3000 7d3+27
+20000 180000
+8 8 0
+1 4 16 17 14 14 12 11
+SKILL=SKILL_SECOND 40
+SKILL=SKILL_THIRD 20
+ATTACK_SKILL=40
+ATTACK_SKILL=20
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18429
+mob time~
+time~
+Time passes slowly by.
+~
+Time very much resembles the Grim Reaper of lore.  Its cloaked body and face 
+make its features indistinguishable, leaving time's appearance to your 
+imagination.  Time has a different face for each person who looks upon it so
+no two descriptions will ever be the same.
+~
+72 32769 136249361 1107296256 0 S
+37 6 -16 100d19+6000 5d5+28
+95000 220000
+8 8 0
+0 0 16 18 14 15 15 14
+SKILL=SPELL_ENERGY_DRAIN 25
+ATTACK_SKILL=70
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18430
+mob gryphon~
+a gryphon~
+A gryphon sits here, looking over the temple.
+~
+This odd half lion, half eagle beast has been transplanted from its usual 
+mountain home to defend the Temple of Preservation from intruders.  The majestic
+beast has made this its home by bringing in large stones and branches forming
+a large rocky nest for its comfort.
+~
+84152394 4227073 136249361 33554560 500 S
+42 1 -26 100d29+8000 5d7+48
+700000 507500
+8 8 0
+0 0 17 18 14 16 15 14
+SKILL=SPELL_HEAL_MINOR 50
+SKILL=SPELL_HEAL_MEDIUM 5
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#18431
+mob elemental earth~
+an earth elemental~
+A huge man made of the elements of the earth is here.
+~
+This huge rock creature looks as if it can think of nothing better to do than
+crush you between its great stony jaws.  It was summoned by the long forgotten
+powers of the ancients and left to dwell here in the circle of stone for all
+of eternity.
+~
+67375178 4227073 136249361 67108992 0 S
+45 0 -25 80d49+13500 12d25+79
+1850000 955000
+8 8 0
+0 0 16 15 16 16 15 15
+SKILL=SPELL_TREMOR 60
+SKILL=SPELL_EARTHQUAKE 60
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=70
+ATTACK_SKILL=40
+ATTACK_SKILL=15
+ATTACK_TYPE=108
+#18432
+mob elemental water~
+a water elemental~
+A huge colum of water looms here.
+~
+The water elemental looks very much like a massive whirlpool that has hopped 
+out of the water.  It was summoned by the long forgotten powers of the ancients
+and left to dwell here in the circle of stones for all eternity.
+~
+67375178 4227073 136249361 67108992 0 S
+45 0 -25 100d19+15000 50d17+20
+1920000 955000
+8 8 0
+0 0 16 15 16 16 15 15
+SKILL=SPELL_TREMOR 30
+SKILL=SPELL_EARTHQUAKE 40
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18433
+mob elemental fire~
+a fire elemental~
+A huge humanoid made entierly of fire stands here.
+~
+This huge mountain of flesh actually isn't flesh at all but a huge mountain of
+writhing flames that have chosen a humanoid form.  It was summoned by the long
+forgotten powers of the ancients and left to dwell here in the circle of stones
+for all eternity.
+~
+67375178 4227073 136249361 67108992 0 S
+45 0 -25 100d19+15000 50d17+20
+1910000 955000
+8 8 0
+0 0 16 15 16 16 15 15
+SKILL=SPELL_CHILL_TOUCH 70
+SKILL=SPELL_FIREBALL 70
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18434
+mob elemental air~
+an air elemental~
+The air in front of you is blurred as a deafening scream reaches you.
+~
+The air elemental appears as nothing more than a distortion of the air in front 
+of you but the deafening scream of the particles as they rush through the air
+assure you that this is a gale which could rip off anything you put into it.
+It was summoned by the long forgotten powers of the ancients and left to dwell
+here in the circle of stones for all eternity.
+~
+67375178 4227073 136249361 67108992 0 S
+45 0 -25 100d19+15000 50d17+20
+1900000 955000
+8 8 0
+0 0 16 15 16 16 15 15
+SKILL=SPELL_CHILL_TOUCH 70
+SKILL=SPELL_SHOCKING_GRASP 70
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#18435
+mob elemental darkness~
+a darkness elemental~
+A shadowy patch of darkness disfigures the room.
+~
+The darkness elemental looks like a patch of shadow before you but your senses
+refuse to be confused as there is no obvious light source within the stone and no
+shadows are cast.  It was summoned by the long forgotten powers of the ancients
+and left to dwell here in the circle of stones for all eternity.
+~
+67375178 4227073 136249361 67108992 0 S
+46 0 -25 50d19+18000 50d23+20
+2350000 1111000
+8 8 0
+0 0 16 15 16 16 15 15
+SKILL=SPELL_CHILL_TOUCH 70
+SKILL=SPELL_ENERGY_DRAIN 70
+SKILL=SKILL_RAGE 75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+$~
+#999999

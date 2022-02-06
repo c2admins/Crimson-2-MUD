@@ -1,0 +1,157 @@
+#4100
+mob mage small~
+the Mage~
+A small, intelligent looking mage is here standing here, ready to make a fight.
+~
+  Having fought his way here through the mines, the mage has become quite
+crazed. He attacks everything in sight, and unfortunately, you are in his
+path.
+~
+57358 32769 136249361 33554440 -100 S
+20 20 24 20d19+450 4d5+15
+48 60855
+8 8 1
+0 0 17 17 16 16 12 15
+SKILL=SPELL_BLINDNESS 50
+SKILL=SPELL_BURNING_HANDS 50
+SKILL=SPELL_COLOUR_SPRAY 50
+SKILL=SPELL_CURSE 50
+SKILL=SPELL_ENERGY_DRAIN 50
+SKILL=SPELL_LIGHTNING_BOLT 50
+SKILL=SPELL_MAGIC_MISSILE 50
+SKILL=SPELL_SLEEP 50
+#4101
+mob troll~
+the troll~
+A large mean-looking troll is here.
+~
+  An outcast of his tribe, the troll has taken up residence in this 
+small room, and defends his domain with sheer voracity.
+~
+57358 1 136249361 100663304 -800 S
+18 22 26 9d9+285 5d5+10
+43 5525
+8 8 1
+0 0 16 17 14 15 12 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=108
+#4102
+mob snake~
+the snake~
+A large green snake, looks like a guardian for an evil force.
+~
+You see a evil creature.
+~
+122894 1 136249361 0 -700 S
+10 29 34 9d9+75 3d5+2
+0 3185
+8 8 1
+0 0 13 12 11 13 12 8
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4103
+mob thief~
+the Thief~
+A thief, all dressed in black.
+~
+  An expert in pickpocketing, the thief doesn't care whose pocket he picks, 
+as long as he gets some loot!
+~
+76 1 136249361 1572864 100 S
+8 30 35 7d9+19 2d5+1
+4 245
+8 8 1
+0 0 14 13 13 12 9 12
+#4104
+mob phantom~
+The phantom~
+A shadowy phantom floats about, looking for a soul.
+~
+  The soul of a dead warrior, risen by the powers of evil, the phantom 
+now spends its days looking for souls of the living to feed off of.
+~
+33611980 1 136249361 33554432 -200 S
+18 22 26 10d29+150 4d5+15
+0 5480
+8 8 1
+0 0 16 17 14 15 12 10
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4105
+mob centipede~
+a centipede~
+A small harmless centipede is here.
+~
+Well it doesn't seem to pay any attention towards you.
+~
+8 1 136249361 0 300 S
+6 31 36 7d9+10 1d8+1
+0 185
+8 8 0
+0 0 13 11 11 10 9 10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+#4106
+mob warrior big moria~
+the Warrior~
+A human warrior is here. He has a evil grin in his face.
+~
+He doesn't look friendly at all...
+~
+57420 1 136249361 8 -300 S
+15 25 29 9d9+165 4d4+2
+30 4795
+8 8 1
+0 0 15 15 14 13 12 10
+ATTACK_SKILL=99
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#4107
+mob kobold~
+the kobold~
+A green kobold is here.
+~
+It looks slimy..
+~
+57420 1 136249361 33554432 -100 S
+8 30 35 9d5+25 3d5+2
+4 253
+8 8 1
+0 0 13 14 13 13 9 10
+#4108
+mob Melcrin troll sovereign leader~
+Melcrin, sovereign of the trolls~
+A huge troll is here, grinding boulders with his fists.
+~
+ Born a godling, Melcrin abuses his power as much as possible. Anything
+within his power to further the cause of the moors trolls is his goal.
+Perhaps this is the reason he is so highly revered by his charges.
+~
+8445962 134250497 136249361 538968224 -1000 S
+48 4 -35 35d10+24000 20d20+50
+50000 1500000
+8 8 1
+0 0 17 16 15 14 12 13
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 50
+SKILL=SPELL_MAGIC_IMMUNE 60
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=105
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=106
+$~
+#999999

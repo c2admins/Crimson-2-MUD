@@ -1,0 +1,373 @@
+#20000
+obj heavens peter crucifix~
+2
+&cPeter's &yCrucifix&n~
+Someone has left a small wooden crucifix here.~
+~
+9 138544385 1024 5
+30 0 0 0
+30 3500000 300000
+A
+19 4
+A
+18 1
+A
+13 -30
+#20001
+obj Paul crucifix~
+2
+&CPaul's &yCrucifix&n~
+Someone has left a small wooden crucifix here.~
+~
+9 138544385 1024 5
+30 0 0 0
+15 300000 150000
+A
+19 3
+A
+18 3
+A
+13 -35
+#20002
+obj james greater staff heavens~
+3
+&WThe &GStaff &Wof &CJames &WThe &cGreat&n~
+A large wooden staff is here collecting dust.~
+~
+5 138413313 0 8193
+458752 10 6 6
+15 350000 157575
+A
+19 6
+A
+18 6
+#20003
+obj james lesser staff heavens~
+3
+&BJames &WThe &BLesser's &GStaff&n~
+A large staff is laying here collecting dust.~
+~
+5 4195328 0 24577
+458752 10 6 6
+13 450000 100000
+A
+19 2
+A
+18 2
+#20004
+obj andrew cross heavens~
+2
+&WSaint Andrew's Cross&n~
+An x-shaped cross lays here collecting dust.~
+~
+9 205521921 0 1025
+40 0 0 0
+40 350000 175000
+A
+19 4
+A
+18 1
+A
+13 -25
+A
+14 -25
+#20005
+obj philip hand basket heavens~
+1
+&CPhilip's &WHandbasket&n~
+A basket made for carring fish is left here.~
+~
+15 4195328 0 17
+350 0 0 0
+20 7500000 100000
+A
+19 4
+A
+18 1
+A
+13 -10
+A
+17 -10
+#20006
+obj fish shield heavens~
+1
+&wA &Kshield &wwith a &yfish &Wsymbol&n~
+Someone has left a large shield laying here.~
+~
+9 4195328 0 513
+60 0 0 0
+15 5 31500
+A
+19 3
+A
+13 -10
+A
+12 -15
+#20007
+obj bartholomew flaying knife heavens~
+2
+&bBartholomew's &RFlaying &KKnife&n~
+A large knife made for skinning is laying here.~
+~
+5 4195328 0 8193
+16392 9 5 11
+17 4500000 350000
+A
+18 2
+A
+19 5
+#20008
+obj rufus trenchcoat heavens~
+1
+&KRufus' Trenchcoat&n~
+A large trenchcoat is laying here.~
+~
+15 4195328 0 1025
+350 0 0 0
+30 200000 75000
+A
+19 3
+A
+18 1
+A
+17 -5
+A
+40 1
+#20009
+obj thomas arm wraps heavens~
+2
+&WThomas' Arm Wraps&n~
+someone has left some glowing cloth laying here.~
+~
+9 4195328 0 257
+0 0 0 0
+40 30000000 40000
+A
+19 4
+A
+18 1
+A
+12 -40
+A
+37 -1
+#20010
+obj thaddaeus gloves heavens~
+3
+&CGloves &wof &BThaddaeus&n~
+Someone has left some shiny gloves laying here.~
+~
+9 4197376 0 129
+15 0 0 0
+30 450000 450000
+A
+19 2
+A
+18 4
+A
+14 -20
+A
+41 1
+#20011
+obj simon banner war heavens~
+1
+&CSimon's &RWar &WBanner&n~
+Someone has left a large war banner laying here.~
+~
+9 71435521 0 16385
+10 0 0 0
+100 750000 350000
+A
+19 6
+A
+18 4
+A
+12 -50
+A
+33 -1
+#20012
+obj matthew chain heavens~
+3
+&YMatthew's &yChain&n~
+Someone has left a heavy chain laying here.~
+~
+9 4197633 0 2049
+25 0 0 0
+5 1000000000 25000
+A
+19 3
+A
+18 4
+A
+12 -25
+A
+14 -20
+#20013
+obj matthias brace heavens~
+1
+&KM&wat&Wth&wia&Ks' &GB&grace&Gr&n~
+Someone has left a bracer here.~
+~
+9 4195328 1024 4097
+20 0 0 0
+15 450000 45000
+A
+19 3
+A
+18 3
+A
+12 -30
+#20014
+obj gabriel horn heavens~
+1
+&bGabriel's &yHorn&n~
+Someone has left a trump laying about here.~
+~
+9 4197376 1024 16389
+10 0 0 0
+30 30000 30000
+A
+19 4
+A
+18 2
+A
+13 -20
+A
+6 -5
+#20015
+obj raphael seal heavens~
+1
+&WRaphael's &BSeal&n~
+Someone has left a large seal here.~
+~
+9 4238336 267264 4097
+10 0 0 0
+5 45000 45000
+A
+18 2
+A
+19 1
+A
+12 -15
+A
+41 1
+#20016
+obj barachiel wing heavens~
+1
+&CBarachiel's &bwing&n~
+Someone has left an angel's wing here.~
+~
+15 104901634 262144 1025
+350 0 0 0
+75 300000 300000
+A
+18 2
+A
+19 4
+A
+17 -55
+A
+12 -10
+#20017
+obj michael breast plate heavens~
+2
+&WMichael's &YB&yr&Ye&ya&Ys&yt &YP&yl&Ya&yt&Ye&n~
+Someone has left a rather large breast plate laying here.~
+~
+9 4217856 139392 9
+75 0 0 0
+10 350000 35000
+A
+18 2
+A
+19 2
+A
+41 1
+A
+12 -50
+#20018
+obj metatron maelstrom sword~
+2
+&Sa &Smaelstrom &Ssword&n~
+Someone has left a rather heavy sword with the sound of the ocean here.~
+~
+5 4195328 0 8193
+393216 31 2 3
+12 750000 3000000
+A
+18 3
+A
+19 3
+A
+12 -25
+A
+13 25
+#20019
+obj heaven wing gabriel~
+1
+&RGabriel's &Bwing&n~
+A powerful set of wings lay here.~
+~
+15 104885248 16512 1025
+500 0 0 0
+1 350000 350000
+A
+19 4
+A
+17 -35
+A
+41 1
+A
+18 1
+#20020
+obj heaven raphael silvery leggings~
+1
+&SRaphiel's &wsilvery &Sleggings&n~
+Someone has dropped some powerful leggings here.~
+~
+9 88124416 267264 33
+40 0 0 0
+1 500000 50000
+A
+19 2
+A
+41 1
+A
+18 2
+A
+13 -20
+#20021
+obj michael's wing heaven~
+1
+&YMichael's &Swing&n~
+A torch is lying here.~
+~
+9 4209664 131072 1025
+40 0 0 0
+1 5 5
+A
+18 3
+A
+19 3
+A
+41 1
+A
+12 -45
+#20022
+obj glowing redemption heavens~
+1
+&SG&sl&So&Sw&si&Sn&Sg &sR&Se&Sd&se&Sm&St&si&So&Sn&n~
+Someone has dropped a very valuable glowing object here.~
+~
+1 138415360 0 65537
+5 0 0 0
+1 10000000 100000
+A
+19 2
+A
+37 -1
+A
+25 1
+A
+13 -45
+$~
+#999999

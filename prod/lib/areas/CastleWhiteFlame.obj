@@ -1,0 +1,341 @@
+#20200
+obj Queens Rapier~
+2
+&wthe &Wq&wu&Yee&wn&Ws &Krapier&n~
+The queens rapier is here leaning against the wall.~
+~
+5 4195329 0 8193
+2080 5 9 11
+5 1300000 5
+A
+19 4
+A
+18 1
+A
+17 0
+#20201
+obj kings robes~
+5
+&wthe &Wk&wi&Yn&wg&Ws &Wrobes&n~
+You see the Kings Robes carlessly left here.~
+~
+9 4195328 0 1025
+20 0 0 0
+10 1000000 5
+A
+18 2
+A
+19 3
+#20202
+obj White Flame~
+2
+&wthe &Wwhite &rf&Rl&Ya&Rm&re&n~
+The White Flame Glows Here.~
+~
+1 4195329 0 65537
+0 0 10 0
+1 100000 5
+A
+19 3
+A
+18 3
+A
+12 -10
+#20203
+obj scroll~
+32767
+&WA small &YGlowing &WScroll&n~
+A small glowing scroll lies here.~
+~
+2 1 0 1
+75 142 36 154
+1 5 5
+#20204
+obj Kings Wedding Ring~
+3
+&wthe &Wk&wi&Yn&wg&Ws &Wwedding &Yring&n~
+The Kings Wedding Ring Has Been Left Here.~
+~
+9 4195328 0 3
+5 0 0 0
+1 400000 45000
+A
+19 3
+A
+18 1
+A
+9 5
+#20205
+obj Queens Wedding Ring~
+3
+&wthe &Wq&wu&Yee&wn&Ws wedding &Yring&n~
+The Queens Wedding Ring Has Been Left Here.~
+~
+9 4195328 0 3
+5 0 0 0
+1 400000 45000
+A
+19 3
+A
+18 1
+A
+9 5
+#20206
+obj Wizards Hat~
+3
+&ythe &rw&Ri&wz&Wa&wr&Rd&rs &yhat&n~
+The Wizards Hat Lies Here.~
+~
+9 4194304 0 17
+20 0 0 0
+15 200000 5
+A
+19 3
+A
+18 1
+#20207
+obj Ogres Claw~
+2
+&wan &yOgres &Kclaw&n~
+An Ogres Claw Has Been Left Here.~
+~
+9 4195328 0 16385
+0 0 0 0
+5 100000 10000
+A
+19 6
+#20208
+obj Platemail White Flame~
+1
+&WThe plate&Kmail &Wof the white &rf&rl&Ya&Rm&re&n~
+Shining Platemail Has Been Left Here~
+~
+9 4197376 0 9
+15 0 0 0
+6 1000000 5
+A
+18 1
+A
+19 4
+A
+40 1
+#20209
+obj Guardians Belt~
+2
+&wthe &WGu&war&Yd&wia&Wns &Kbelt&n~
+The Guardians Belt Has Been Left Here.~
+~
+9 4195328 0 2049
+20 0 0 0
+20 5 5
+A
+19 3
+A
+13 20
+#20210
+obj Vault Key~
+3
+&wVault Key&n~
+A Small Metal Key Has Been Left On The Accountants Desk.~
+~
+18 8 0 1
+0 0 10 0
+1 5 5
+#20211
+obj Royal Knights Sword~
+2
+&wa &Yr&Woya&Yl &Yk&wnight&Ys &Ksword&n~
+A Royal Knights Sword Has Been Left Here.~
+~
+5 4194304 0 8193
+0 4 14 3
+15 30000 5
+A
+19 2
+#20212
+obj Fencers Shoes~
+5
+&wa pair of &Wfencers &Ws&whoe&Ws&n ~
+A Fencer Has Left Their Shoes Here.~
+~
+9 4456448 0 65
+0 0 0 0
+2 1000000 5
+A
+25 1
+#20213
+obj Face Faceless Man~
+3
+&wThe &KFace&w of the &KFaceless&w Man&n~
+A Face Is Laying Here.~
+~
+9 4194304 0 17
+25 0 0 0
+5 5 5
+A
+36 -1
+A
+19 2
+#20214
+obj Kings Crown~
+1
+&wthe &Wk&wi&Yn&wg&Ws &Yc&yrow&Yn&n~
+The Kings Crown Sits Here.~
+~
+9 4195328 0 17
+25 0 0 0
+10 5 5
+A
+19 3
+A
+18 2
+#20215
+obj Shiny Dead Fish~
+32767
+A Shiny Dead Fish~
+Someone Has Left A Dead Fish Here,~
+~
+1 0 0 65537
+0 0 10 0
+1 5 5
+#20216
+obj Dog Tags~
+32767
+Dog Tags~
+Storm Has Left Her Dog Tags Here.~
+~
+9 0 0 5
+0 0 10 0
+1 5 5
+#20217
+obj Xena T-Shirt~
+32767
+Xena T-shirt~
+A Xena T-shirt Is Here, Folded Up On The Ground.~
+~
+9 0 0 9
+0 0 10 0
+1 5 5
+#20218
+obj He-Man Action Figure~
+32767
+A He-man Action Figure~
+A He-man Action Figure Has Been Left Here~
+~
+9 0 0 16385
+0 0 10 0
+1 5 5
+#20219
+obj Guitar Pick~
+100
+A Guitar Pick~
+A Guitar Pick Has Been Dropped Here.~
+~
+11 0 0 16385
+0 0 10 0
+1 5 5
+#20220
+obj Rubber Snake~
+32767
+A Rubber Snake~
+A Rubber Snake Has Been Left Here.~
+~
+11 0 0 8193
+0 0 10 0
+1 5 5
+#20221
+obj Ring Pop~
+32767
+A Ring Pop~
+A Ring Pop Has Been Dropped Here.~
+~
+9 0 0 3
+0 0 10 0
+1 5 5
+#20222
+obj Weapon Unimaginable Destruction~
+32767
+A Weapon Of Unimaginable Destruction.~
+An Odd Looking Weapon Has Been Left Here.~
+~
+5 0 0 8193
+0 0 10 0
+1 5 5
+#20223
+obj Midol~
+32767
+A 24-caplet Package of Midol~
+Storm Has Left Her Package of Midol Here..~
+~
+11 0 0 16385
+0 0 10 0
+1 5 5
+#20224
+obj Storms Pet Rat Chipper~
+32767
+Storms Pet Rat Chipper.~
+Storms Pet Rat Chipper Sits Here.~
+~
+11 0 0 16385
+0 0 10 0
+1 5 5
+#20225
+obj Gibson Les Paul Electric Guitar~
+32767
+A Gibson Les Paul Electric Guitar~
+A Guitar Lies Here.~
+~
+5 0 0 8193
+0 0 10 0
+1 5 5
+#20226
+obj crest gold dragon~
+1
+&KCrest &wof the &YG&yo&Yld&ye&Yn &KD&wr&Wag&wo&Kn&n~
+The crest of a gold dragon lies here.~
+~
+11 4197376 0 17
+0 0 0 0
+5 1000000 1000000
+A
+19 4
+A
+18 3
+A
+13 25
+A
+12 -50
+#20227
+obj flame golden dragon~
+1
+&rF&Rl&Ya&Rm&re &Kof the &YG&yo&Yld&ye&Yn &KD&wr&Wag&wo&Kn&n~
+the flame from a golden dragon lies here, smoldering.~
+~
+1 222299136 0 65537
+0 0 0 0
+1 400000 800000
+A
+19 1
+A
+18 3
+A
+25 1
+A
+13 -30
+#20228
+obj boots gold dragonscale~
+1
+&WA P&wai&Wr of &yBoots &Wwith &YG&yo&Yld &KD&wr&Wag&wo&Kn&Gs&gcale&Gs&n~
+A pair of boots with gold dragonscales lie here.~
+~
+9 239078400 12288 65
+35 0 0 0
+5 78000 300000
+A
+19 3
+A
+18 1
+A
+14 -20
+$~
+#999999

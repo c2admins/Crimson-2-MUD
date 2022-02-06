@@ -1,0 +1,1112 @@
+#3900
+obj scroll fire~
+35
+&wScroll of &RFire&n~
+A scroll with a symbol of a fireball is lying here.~
+~
+2 2359393 0 147457
+15 116 116 116
+1 25000 5
+A
+6 4
+A
+24 -5
+A
+23 -5
+#3901
+obj fire claw~
+15
+&RFire &yClaw&n~
+A fiery claw is lying here.~
+~
+5 -2146942975 0 8193
+65536 4 5 11
+5 4500 5
+A
+2 2
+A
+13 -5
+#3902
+obj bone hammer~
+10
+&KBone &BHammer&n~
+A huge hammer of bone is lying here.~
+~
+5 1069761 0 8193
+0 4 9 7
+10 12500 5
+A
+1 2
+A
+2 1
+A
+18 -3
+A
+19 2
+#3903
+obj arch fire~
+1
+the Arch of Fire~
+&YT&Rh&re &RA&Yr&Rc&rh &Yo&Rf &YF&ri&Rr&re&n &Yi&rs &Rt&Yo&rw&Re&rr&Yi&Rn&rg &Rh&re&Yr&Re&Y.&n~
+~
+12 8 0 0
+0 0 10 0
+1 5 5
+E
+arch fire~
+Your eyes burn as you try to read what the flames say:
+
+Welcome to the Volcano
+
+Before you enter the Volcano you must know that if you are under
+the level of twenty, some things may be rather difficult and
+deadly for you to encounter.
+To all the other brave adventurers you may also find some things
+to be even a wee bit difficult for you. ;)
+
+Good Luck on your journey ahead!
+
+Bingo "It's hot, it's sizzling, it's all around smoldering!  Don't Melt!"
+
+~
+#3904
+obj magma shield~
+15
+&RMagma &wShield&n~
+A shield made of magma is lying here.~
+~
+9 32768 0 513
+4 0 0 0
+2 3500 5
+A
+1 2
+A
+13 15
+A
+2 1
+A
+6 -2
+#3905
+obj volcanic sabre~
+12
+&RV&rol&Yca&rni&Rc &wSabre&n~
+A large flaming sabre is lying here.~
+~
+5 1048576 0 8193
+65536 2 13 3
+6 55000 5
+A
+19 1
+A
+18 2
+A
+13 -25
+A
+1 1
+#3906
+obj golden chest~
+1
+Golden Chest~
+A large golden chest is here.~
+~
+15 41 0 0
+25 5 0 0
+1 5 5
+#3907
+obj ruby necklace xyria~
+5
+&wthe &Rruby &wnecklace of &rX&py&br&gi&ya&n~
+A bright and shiny ruby necklace is lying here.~
+~
+9 2138689 1024 5
+22 0 0 0
+6 125550 5
+A
+19 3
+A
+12 -50
+A
+24 -5
+A
+36 -1
+#3908
+obj claw shi'van~
+2
+&wthe &yclaw &wof &RShi&r'&Rvan&n~
+Something that looks like a claw of a dragon is resting here.~
+~
+5 136335456 0 8193
+0 3 13 11
+15 357550 5
+A
+19 4
+A
+18 2
+A
+5 -5
+A
+13 -20
+#3909
+obj bone key~
+2
+Bone key~
+A finely crafted key of bone is lying here.~
+~
+18 262152 0 1
+0 2 0 0
+1 1 5
+#3910
+obj ring vulcan~
+3
+&KRing &wof &RVulcan&n~
+A powerful looking ring is lying here.~
+~
+9 4194643 0 3
+5 0 0 0
+5 110000 5
+A
+19 3
+A
+18 1
+A
+13 10
+A
+12 -10
+#3911
+obj drake's tongue~
+14
+&rdrake&R'&rs &Rtongue&n~
+A tongue is lying here.~
+~
+19 303168 0 16385
+25 0 0 0
+2 75950 5
+A
+1 3
+A
+5 3
+A
+2 3
+A
+12 -40
+#3912
+obj leg slave~
+15
+&yleg &wof &yslave&n~
+The leg of a slave is bleeding here.~
+~
+19 786496 0 24577
+35 0 0 0
+6 35750 5
+A
+18 2
+#3913
+obj blood dragon~
+15
+&RBl&roo&Rd &wof the &RDragon&n~
+A small potion of blood is lying here.~
+~
+10 303104 0 1
+48 3 39 68
+1 85355 5
+#3914
+obj vulcan's power juice~
+15
+&RVulcan&r'&Rs &KPower &YJuice&n~
+Vulcan's Power Juice is lying here.~
+~
+10 303105 0 1
+48 36 1 106
+1 105000 5
+#3915
+obj hellflame~
+2
+&RH&re&Yl&rl&Rf&rl&Ya&rm&Re&n~
+A blade of sharp fiery steel is lying here.~
+~
+5 2101344 0 8193
+67584 8 4 3
+9 225000 5
+A
+19 2
+A
+18 2
+A
+9 25
+#3916
+obj god key~
+2
+God key~
+A powerful looking key is glowing for your attention.~
+~
+18 262184 0 1
+0 1 0 0
+1 5 5
+#3917
+obj watch infinity~
+2
+&wthe &cWatch &wof &pI&Pnf&pi&Pn&pi&Pty&n~
+An intricutly designed looking watch is lying here.~
+~
+9 135266369 0 4097
+3 0 0 0
+1 5235740 5
+A
+19 2
+A
+18 1
+A
+13 5
+A
+12 -25
+#3918
+obj second hand~
+16
+a second hand~
+The second hand of a clock is lying here.~
+~
+5 135266560 0 8193
+0 7 4 3
+3 757190 5
+A
+19 2
+A
+3 2
+A
+4 2
+A
+5 -3
+#3919
+obj bracers time~
+12
+&KBracers &wof &BTime&n~
+The Bracers of Time are glowing here.~
+~
+9 135266369 0 257
+25 0 0 0
+4 95000 5
+A
+2 1
+A
+18 2
+A
+14 10
+A
+12 -10
+#3920
+obj infinity charm~
+2
+&y&pI&Pnf&pi&Pn&pi&Pty&n&n &YC&Ghar&Ym&n~
+A small charm that resembles a watch is lying here.~
+~
+9 136316993 0 5
+0 0 0 0
+3 1102934 5
+A
+19 2
+A
+18 1
+A
+13 15
+#3921
+obj time belt~
+15
+&KBe&clt &wof &cTi&Kme&n~
+A small flashy belt is lying here.~
+~
+15 134742272 0 2049
+75 0 0 0
+1 75255 5
+A
+19 1
+A
+13 3
+#3922
+obj minute hand~
+11
+a minute hand~
+The minute hand of a clock is lying here.~
+~
+5 136331520 0 8193
+0 8 4 3
+5 854995 5
+A
+19 2
+A
+18 4
+A
+13 -20
+#3923
+obj light eternity~
+6
+&YLight &wof &PE&Bt&Pe&Brn&Pi&Bty&n~
+A small eternal light is lying here glowing brightly.~
+~
+1 134742081 0 65537
+0 0 0 0
+2 115000 5
+A
+3 2
+A
+4 1
+A
+12 5
+A
+18 1
+#3924
+obj destiny symbol~
+75
+&YS&yy&Ym&yb&Yo&Yl&W of &SD&Se&Ss&St&Si&Sn&Sy&n~
+An odd looking symbol is lying here.~
+~
+18 138674499 1024 16389
+0 1 0 0
+4 5 5
+A
+19 3
+A
+13 50
+A
+12 10
+A
+14 20
+#3925
+obj void ring~
+2
+&pVoid &wRing&n~
+A ring created from the void is floating here.~
+~
+9 136314882 0 3
+15 0 0 0
+1 1654689 5
+A
+19 2
+A
+18 -1
+A
+14 -15
+A
+13 15
+#3926
+obj vortex robe~
+24
+&PV&porte&Px R&pob&Pe&n~
+A Vortex Robe is swirling here.~
+~
+15 134225985 0 1025
+8 0 0 0
+3 69954 5
+A
+13 5
+A
+12 5
+A
+14 5
+A
+5 1
+#3927
+obj gauntlets holocaust~
+2
+&KGauntlets &wof &RH&ro&Yl&ro&Yc&ra&Yu&rs&Rt&n~
+A pair of fiery gauntlets are lying here screaming of suffering.~
+~
+9 2097249 0 129
+5 0 0 0
+6 80000 5
+A
+19 2
+A
+13 75
+A
+18 -3
+A
+14 -100
+#3928
+obj gloves eternal power~
+15
+&wGloves of &REternal &KPower&n~
+A pair of power struck gloves are lying here.~
+~
+9 168821059 0 129
+10 0 0 0
+3 159876 5
+A
+40 1
+A
+1 2
+A
+5 1
+A
+9 20
+#3929
+obj sword vulcan~
+2
+&KSword &wof &RVulcan&n~
+A powerful looking sword forged by Vulcan lays here.~
+~
+5 4196675 0 8193
+458752 9 7 3
+15 150000 200000
+A
+19 3
+A
+18 2
+A
+9 25
+A
+13 -20
+#3930
+obj leggings eternity~
+3
+&BLeggings &wof &PE&Bt&Pe&Brn&Pi&Bty&n~
+A pair of eternal leggings are lying here.~
+~
+9 134217794 16 33
+10 0 0 0
+3 759876 5
+A
+19 2
+A
+13 20
+A
+12 -20
+A
+14 -20
+#3931
+obj charred ring~
+12
+&KCh&ka&Krr&ke&Kd &wRing&n~
+A charred ring is lying here burnt to a crisp.~
+~
+9 2097216 0 3
+0 0 0 0
+2 55000 5
+A
+18 2
+A
+13 25
+A
+12 5
+#3932
+obj chunk ivory~
+25
+&ychunk &wof &Wivory&n~
+A chunk of ivory is lying here.~
+~
+9 262144 0 16385
+2 0 0 0
+4 5 5
+A
+13 10
+A
+14 10
+A
+2 1
+#3933
+obj small silver chest~
+1
+small silver chest~
+A small silver chest is sitting here.~
+~
+15 8 0 1
+25 5 0 0
+900 5 5
+#3934
+obj flame~
+12
+the &RF&rl&Ya&rm&Re&n~
+A fiery looking object is lying here.~
+~
+1 1048641 0 81921
+0 0 25 0
+3 86000 5
+A
+19 1
+A
+18 1
+A
+13 4
+#3935
+obj bloody apron~
+15
+&rbloody &Kapron&n~
+A bloody apron is lying here dripping blood.~
+~
+9 524288 0 3073
+5 0 0 0
+2 55000 5
+A
+19 1
+A
+18 1
+A
+24 -3
+A
+13 -10
+#3936
+obj royal seal guard~
+30
+&PR&poyal &yS&Yeal &wof the &bG&Buard&n~
+The Royal Seal of the Guard is lying here.~
+~
+9 20481 0 5
+5 0 0 0
+1 5000 5
+A
+4 2
+A
+18 -1
+A
+3 2
+#3937
+obj chunk marble~
+25
+&ychunk &wof &cmarble&n~
+A chunk of marble is lying here.~
+~
+9 262144 0 16385
+5 0 0 0
+4 6678 5
+A
+12 10
+A
+3 1
+A
+4 1
+A
+13 -5
+#3938
+obj captain's gloves~
+3
+&wcaptain&W'&ws &Wgloves&n~
+A pair of captain's gloves are lying here.~
+~
+9 2097152 0 129
+7 0 0 0
+1 99000 5
+A
+19 1
+A
+18 3
+A
+13 -23
+A
+1 1
+#3939
+obj flaming dagger~
+13
+&RFlaming &KDagger&n~
+A flaming dagger is lying here.~
+~
+5 2113857 0 8193
+69632 3 8 11
+2 120000 5
+A
+18 4
+A
+4 -2
+#3940
+obj pile gold bars~
+35
+a pile of gold bars~
+A pile of gold bars is lying here to your right.~
+~
+20 134217729 0 1
+300000 0 0 0
+1 5 5
+#3941
+obj golden statue~
+25
+a golden statue~
+A golden statue is lying to your left.~
+~
+20 134217729 0 1
+300000 0 0 0
+1 5 5
+#3942
+obj golden ring~
+50
+a golden ring~
+A golden ring is lying here in front of you.~
+~
+20 134217729 0 1
+175000 0 0 0
+1 5 5
+#3943
+obj statue vulcan~
+2
+Statue of Vulcan~
+&wA &KStatue &wof &RVulcan &bGod &wof &RFire &wis standing here.&n~
+~
+17 9 0 0
+500 500 13 0
+1 5 5
+#3944
+obj burning ribcage~
+30
+&Rb&ru&Yrni&rn&Rg &wri&Wb&wca&Wg&we&n~
+The flaming ribcage of a skeleton is lying here.~
+~
+9 268960064 0 1033
+10 0 0 0
+4 10000 5
+A
+19 1
+A
+4 1
+A
+12 10
+A
+13 -5
+#3945
+obj slave shackles~
+60
+&KSlave &wShackles&n~
+A pair of interesting slave's shackles is lying here.~
+~
+9 268435668 0 4577
+0 0 0 0
+5 1 5
+A
+13 -100
+A
+12 -100
+A
+14 -100
+A
+29 -1
+#3946
+obj sword vulcan fake~
+98
+&KSword &wof &RVulcan&n~
+A powerful looking sword forged by Vulcan lays here.~
+~
+5 4194304 0 8193
+0 0 0 3
+1 1 5
+A
+19 -3
+A
+18 -2
+A
+9 -25
+A
+13 20
+#3947
+obj slave whip~
+17
+&wSlave Whip&n~
+A scraggley looking whip is lying here.~
+~
+5 2099792 0 8193
+514 2 19 2
+3 87000 5
+A
+19 4
+A
+3 -2
+A
+6 2
+#3948
+obj burnt robe~
+19
+&Kburnt &wrobe&n~
+A burnt robe is lying here.~
+~
+9 40960 0 1033
+12 0 0 0
+2 1255 5
+A
+3 1
+A
+4 2
+A
+13 -10
+A
+6 -3
+#3949
+obj fiery dagger~
+10
+&rf&Rie&Yr&ry &Kdagger&n~
+A small fiery dagger is lying here.~
+~
+5 -2146942975 0 8193
+65536 1 19 11
+2 7120 5
+#3950
+obj living fire~
+22
+&Cliving &Rfire&n~
+A pile of live fire is lying here burning brightly.~
+~
+9 524353 0 9
+16 0 0 0
+2 6897 5
+A
+1 2
+A
+2 2
+A
+3 -2
+A
+4 -2
+#3951
+obj arm of fire~
+10
+&Warm &wof &Rfire&n~
+A giant flaming arm is lying here.~
+~
+5 136315233 0 8193
+65536 7 5 7
+14 123456 5
+A
+19 1
+A
+18 3
+A
+13 -20
+A
+12 5
+#3952
+obj crowbar~
+3
+&wa &Kcrowbar&n~
+A floor prying crowbar is lying here.~
+~
+5 134481929 0 8193
+2048 3 2 6
+7 5 5
+A
+13 -15
+A
+19 1
+#3953
+obj flesh fire~
+5
+&YF&yl&Ye&ys&Yh &Wof the &RF&ri&Rr&re&n~
+A huge pile of burning flesh his here roasting madly.~
+~
+9 4194817 0 9
+15 0 0 0
+8 666666 150000
+A
+19 3
+A
+18 1
+A
+13 50
+A
+12 -25
+#3954
+obj first journal page fallen warrior~
+2
+the first journal page of a fallen warrior~
+The first journal page of a fallen warrior is resting here.~
+~
+12 134610944 0 1
+0 0 10 0
+1 5 5
+E
+obj first journal page fallen warrior~
+There is something written upon it:
+
+   Today I figured out what this mysterious symbol I found was really for.  I
+found the Gate of Destiny.  Here my wizard friend and I met a man who called
+himself the TimeMaster.  He said that here we would decide our fate.  My friend
+went one way, I want another........  I never saw him again.    
+
+~
+#3955
+obj second journal page fallen warrior~
+2
+the second journal page of a fallen warrior~
+The second journal page of a fallen warrior is resting here.~
+~
+12 134610944 0 1
+0 0 10 0
+1 5 5
+E
+obj second journal page fallen warrior~
+There is something written upon it:
+
+   This is amazing.  I don't know where my wizard friend is but my fate sent me
+to some sort of lost city.  There is a well here that I went down but found
+nothing, but I feel something may be hidden here.    
+
+~
+#3956
+obj third journal page fallen warrior~
+3
+the third journal page of a fallen warrior~
+The third journal page of a fallen warrior is resting here.~
+~
+12 134610944 0 1
+0 0 10 0
+1 5 5
+E
+obj third journal page fallen warrior~
+There is something written upon it:
+
+   This morning after fighting off hoards of monsters I found a hole in the
+floor of this temple.  I found an object top pry it with, but I did not go
+down, I sensed too much danger below me to continue.    
+
+~
+#3957
+obj fourth journal page fallen warrior~
+6
+the fourth journal page of a fallen warrior~
+The fourth journal page of a fallen warrior is resting here.~
+~
+12 134610944 0 1
+0 0 10 0
+1 5 5
+E
+obj fourth journal page fallen warrior~
+There is something written upon it:
+
+   Although I never found it, I learned much about the magic Firestorm Charm.
+This is one of the most powerful charms that is know to exist.  I have heard
+stories of a beast of the elements protecting it from trespassers.
+~
+#3958
+obj final journal page fallen warrior~
+1
+the final journal page of a fallen warrior~
+The final journal page of a fallen warrior is resting here.~
+~
+12 134610952 0 1
+0 0 10 0
+1 5 5
+E
+final journal page fallen warrior~
+There is something written upon it:
+
+   I fear this is the last entry I will get to write here in my journal.  So
+for whomever finds this i will reveal that I have scattered around 4 more pages
+from my journal around the Volcano.  These pages will guide you to the many
+secrets of this place.  Beware I have given the most important piece t.........
+
+
+                                 The message ends here.........
+~
+#3959
+obj male fire collar~
+15
+&RFire &yCollar&n~
+A collar of fire is lying here.~
+~
+9 1081409 0 5
+15 0 0 0
+2 89454 5
+A
+13 35
+A
+12 -35
+A
+5 -2
+A
+1 2
+#3960
+obj female fire collar~
+15
+&rFire &YCollar&n~
+A collar of fire is lying here.~
+~
+9 1048641 0 5
+15 0 0 0
+2 89454 5
+A
+12 35
+A
+13 -35
+A
+5 2
+A
+1 -2
+#3961
+obj flaming tree branch~
+11
+&wa &Rflaming &gtree &ybranch&n~
+A tree branch is here on fire.~
+~
+5 37771841 0 8193
+65552 5 11 6
+18 500 5
+A
+19 1
+A
+18 1
+A
+13 -50
+A
+12 -15
+#3962
+obj fire fruit~
+40
+&Rfire &Yfruit&n~
+A flaming fruit that resembles and apple is lying here.~
+~
+19 786433 0 16385
+30 0 0 0
+1 879 5
+A
+3 3
+A
+4 3
+A
+12 25
+A
+13 10
+#3963
+obj firestorm charm~
+1
+&RF&Pir&Re&Bs&Ctor&Bm &YC&Ghar&Ym&n~
+A beautiful, sparkling, fiery charm is lying here.~
+~
+9 138412865 0 5
+5 0 0 0
+2 999999 255555
+A
+19 4
+A
+13 10
+A
+12 5
+#3964
+obj staff emense fire~
+8
+&yStaff &wof &KEmense &RFire&n~
+A staff of with symbols of fire is lying here.~
+~
+4 2138689 0 147457
+43 7 7 117
+7 191919 5
+A
+19 1
+A
+18 4
+A
+12 30
+A
+24 -2
+#3965
+obj infinite hourglass~
+3
+&Wthe &KInfinite &cHour&pglass&n~
+A rather large looking hourglass is lying here.~
+~
+9 172009537 262144 16385
+25 0 0 0
+8 3403821 159951
+A
+19 4
+A
+18 1
+A
+40 1
+A
+13 10
+#3966
+obj corpse fallen warrior~
+1
+the corpse of a fallen warrior~
+The long dead corpse of a fallen warrior is decaying here.~
+~
+15 8 0 0
+10 0 0 0
+1 5 5
+#3967
+obj light warrior~
+1
+the Light of a Warrior~
+An orb of holy mystical energy is floating here.~
+~
+1 4325635 0 84505
+0 0 10 0
+1 5 5
+A
+19 3
+A
+13 25
+#3968
+obj flaming tail~
+15
+&wa &Rflaming &ytail&n~
+A flaming tail is burning here.~
+~
+9 512 8 262145
+5 0 0 0
+1 5 5
+A
+19 3
+A
+18 -1
+A
+13 10
+A
+14 -10
+#3969
+obj horn red dragon~
+1
+&wH&Wor&wn &Kof the &rR&Re&rd &KD&wr&Wag&Wo&Kn&n~
+The horn of a dragon lies here, collecting dust.~
+~
+12 138414080 0 16385
+0 0 0 0
+13 40000 400000
+A
+19 6
+A
+18 3
+A
+17 -25
+A
+13 -40
+#3970
+obj red dragon scale~
+1
+&KA &rR&Re&rd &KD&wr&Wag&wo&Kn Sc&wa&Kle&n~
+The scale of a great red dragon lies here.~
+~
+9 104869888 148480 513
+10 0 0 0
+15 800000 4000000
+A
+40 1
+A
+19 2
+A
+18 2
+#3971
+obj cloak red dragonscale~
+1
+&wA &KCl&woa&Kk m&wa&Kd&we &Kfr&wo&Km &rR&Re&rd &KD&wr&Wag&wo&Kn&Gs&gcale&Gs&n~
+A cloak made from the scales of a red dragon lies here.~
+~
+9 138412032 0 5
+25 0 0 0
+9 100000 100000
+A
+19 4
+A
+23 -2
+A
+13 -10
+#3972
+obj red dragon claw~
+5
+&KA &rR&Re&rd &KD&wr&Wag&wo&Kn's Cl&wa&Kw&n~
+The claw of a great red dragon has been discarded here.~
+~
+5 239091712 0 24577
+2656 10 5 11
+6 200000 5000000
+A
+19 4
+A
+18 3
+A
+13 -50
+$~
+#999999

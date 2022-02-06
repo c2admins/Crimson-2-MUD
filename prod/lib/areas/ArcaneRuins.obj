@@ -1,0 +1,259 @@
+#20850
+obj quest byzantium cross quest1~
+1
+A Holy Cross of the Byzantium~
+A holy cross of the byzantium lies here.~
+~
+5 4456448 0 24577
+1054744 11 6 6
+2 5 5
+A
+19 6
+A
+18 6
+#20851
+obj vial of human blood~
+66
+A vial of human blood~
+A vial of human blood lies here.~
+~
+10 262144 0 1
+75 73 77 106
+1 5 5
+#20852
+obj quest1 vampire dracula cape~
+1
+&KDracula's Cape&n~
+Dracula's cape lies here.~
+~
+15 4456452 0 1025
+500 0 0 0
+3 5 5
+A
+19 4
+A
+18 2
+A
+17 -30
+#20853
+obj vampire dracula cape~
+3
+&KDracula's Cape&n~
+Dracula's cape lies here.~
+~
+15 4194820 0 1025
+350 0 0 0
+5 37500 3500
+A
+19 3
+A
+18 1
+A
+17 -45
+#20854
+obj a lightning rod~
+100
+&wA &Ylightning &Krod&n~
+A lightning rod lies here.~
+~
+3 4456448 0 16385
+75 10 10 30
+5 1000 5
+#20855
+obj shoddy iron chain shackles~
+3
+&wA set of &Kshoddy iron &warm &Kshackles&n~
+A set of shoddy iron chain shackles lie here.~
+~
+9 2097156 0 257
+5 0 0 0
+30 45000 4000
+A
+19 3
+A
+18 1
+A
+14 -30
+#20856
+obj coffin bloody nail~
+100
+A nail-filled coffin lies here.~
+Dracula's Coffin lies here.~
+~
+15 0 0 0
+50 0 0 0
+20 5 20
+#20857
+obj king kongs club~
+3
+&YKing &KKong's &yClub&n~
+King Kong's Club lies here.~
+~
+5 33554432 32 8193
+0 10 5 6
+15 40000 3500
+A
+3 -2
+A
+19 2
+A
+40 2
+#20858
+obj gloves stitched knives freddy claws~
+3
+&wFreddy Krueger's &KClaws&n~
+Some stiched gloves lie here with knives protruding from them.~
+~
+9 4260372 0 129
+25 0 0 0
+25 131250 12000
+A
+19 3
+A
+18 2
+A
+14 -45
+#20859
+obj hockey mask~
+2
+&wA &rblood&w-spattered &Whockey &Kmask&n~
+A blood spattered hockey mask lies here.~
+~
+9 4194832 0 17
+0 0 0 0
+10 45000 4000
+A
+19 4
+A
+18 1
+#20860
+obj chainsaw bloody~
+2
+&wA &rbloody &Kchainsaw&n~
+a bloody chainsaw lies here, ready to tear out someones entrails.~
+~
+5 4203072 0 8193
+525312 9 5 11
+25 1000 1000
+#20861
+obj the bigfoot~
+3
+&yThe BigFoot&n~
+The feet of bigfoot lie here.~
+~
+9 33554432 32 65
+0 0 0 0
+30 35000 3000
+A
+19 2
+A
+18 3
+A
+14 -50
+#20862
+obj witch wand quest1~
+100
+The Witch's Wand~
+The witches wand lies here.~
+~
+3 4456448 0 16385
+75 118 10 10
+15 5 5
+A
+19 5
+A
+18 5
+A
+17 -25
+#20863
+obj mummy charm quest1~
+4
+The Mummy's Charm~
+The mummy's charm lies here.~
+~
+9 4456456 0 4101
+45 0 0 0
+50 5 5
+A
+19 5
+A
+18 5
+#20864
+obj ghoul belt quest2~
+100
+The Ghoul's Belt~
+The ghoul's belt lies here.~
+~
+9 4456448 0 2049
+50 0 0 0
+5 5 5
+A
+19 4
+A
+18 2
+A
+41 1
+#20865
+obj bloodied fang dracula vampire~
+2
+&wThe &Rbloodied &Kfang &wof &KDracula&n~
+The bloodied fang of dracula lies here, it emits a feeling of hatred.~
+~
+5 4194320 0 8193
+8407056 6 6 11
+13 200000 100000
+#20866
+obj scroll of dispel silence~
+100
+a scroll of dispel silence~
+a scroll of dispel silence has been left here.~
+~
+2 0 0 1
+75 108 0 0
+1 2635 5
+#20867
+obj witches brew~
+100
+&KA Vial of the Witches Brew&n~
+&KA vial of witches brew steams in the corner of the room, smelling just awful&n~
+~
+10 4 1024 1
+50 35 43 88
+1 5814 5
+#20868
+obj frog stew~
+100
+&GF&gr&Go&gg &ystew&n~
+&wSome &Gf&gr&Go&gg &wlegs and other parts rest here, dangling outside of a bowl of horrid smelling stew.&n~
+~
+19 16 0 1
+50 1 0 0
+1 10 5
+#20869
+obj tattered witches robe~
+100
+&KA Tattered Witches &yRobe&n~
+A tattered and crumpled garment lies on the ground.~
+~
+9 264196 0 1025
+5 0 0 0
+1 15000 5
+A
+3 1
+A
+4 1
+A
+5 1
+A
+2 1
+#20870
+obj witches rod~
+100
+&wThe &KWitches &yRod&n~
+A large, magical rod rests here.~
+~
+5 57344 16 8193
+0 7 4 6
+1 35000 5
+$~
+#999999

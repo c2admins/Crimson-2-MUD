@@ -1,0 +1,221 @@
+#15885
+obj spike bone spike~
+3
+&KB&wo&Kn&we &Ks&wp&Ki&wk&Ke&n~
+A bone made spike lies on the ground.~
+~
+5 4194820 0 8193
+65 12 4 11
+5 150000 150000
+A
+19 3
+A
+18 1
+A
+40 2
+A
+13 -35
+#15886
+obj glasses round rim glasses~
+3
+&CR&Wo&Cu&Wn&Cd &Wr&Ci&Wm &Cg&Wl&Ca&Ws&Cs&We&Cs&n~
+A pair of old glasses have been discarded on the ground.~
+~
+9 4194305 0 17
+0 0 50 0
+1 5 5
+A
+13 40
+A
+18 2
+A
+19 1
+A
+32 -1
+#15887
+obj Gauntlets massive gauntlets~
+2
+&bmassive &Kgauntlets&n~
+A massive gauntlet lies here on the ground.~
+~
+9 4194305 0 4097
+5 0 0 0
+5 15000 150000
+A
+19 2
+A
+40 1
+A
+18 2
+A
+12 -30
+#15888
+obj chains prison chains~
+3
+&wP&Wr&wi&Ws&wo&Wn &wC&Wh&wa&Wi&wn&Ws&n~
+A set of prison chains are in pile on the ground.~
+~
+9 37748736 0 2049
+0 0 0 0
+15 150000 150000
+A
+19 1
+A
+25 1
+A
+18 2
+#15889
+obj Avenger Holy~
+1
+&CH&co&Cl&cy &CA&cv&Ce&cn&Cg&ce&Cr&n~
+The &CH&co&Cl&cy &CA&cv&Ce&cn&Cg&ce&Cr&n glows with a bright light.~
+~
+5 4226049 0 8193
+1054744 5 8 3
+5 100000 100000
+A
+18 3
+A
+33 -1
+#15890
+obj hockey jersey imm~
+50
+&WDetroit &RRed Wings&W Jersey&n~
+A Detroit &RRed Wings&n jersey with the number 19 on it lies here~
+~
+9 0 64 9
+100 0 0 0
+10 0 500
+A
+19 10
+A
+18 10
+A
+40 10
+A
+41 10
+#15891
+obj blight flesh~
+1
+&yFlesh &Kof &rB&Kl&ri&Kg&rh&Kt&n~
+&wWith blight dead all that is left is his &rs&Rm&ro&Rl&rd&Re&rr&Ri&rn&Rg &Wmaggot &winfested &yflesh&w.&n~
+~
+9 4194308 0 9
+0 0 0 0
+10 0 500
+A
+19 3
+A
+18 2
+A
+25 1
+#15892
+obj helm knights helm~
+1
+&WK&wn&ci&Cg&ch&wt&Ws &wh&Wel&wm&n~
+A knights helm lies in front of you.~
+~
+9 4197440 0 17
+25 0 0 0
+4 450000 90000
+A
+19 4
+A
+18 1
+A
+36 -1
+A
+12 -10
+#15893
+obj colt's ball cap~
+32767
+&BI&Wn&Bd&Wi&Ba&Wn&Ba&Wp&Bo&Wl&Bi&Ws &BC&Wo&Bl&Wt&B'&Ws &nball cap~
+A &BI&Wn&Bd&Wi&Ba&Wn&Ba&Wp&Bo&Wl&Bi&Ws &BC&Wo&Bl&Wt&B'&Ws &nball cap lies here.~
+~
+9 0 0 17
+0 0 10 0
+1 5 5
+#15894
+obj dragon form scroll (3 max in game)~
+1
+Scroll of the &RDragons&n~
+A tattered scroll of dragon form lies here.~
+~
+2 134217728 1024 1
+48 1 1 160
+1 1500000 1500000
+#15895
+obj chains prison chains2~
+2
+&wP&Wr&wi&Ws&wo&Wn &wC&Wh&wa&Wi&wn&Ws&n~
+A set of prison chains are in a pile on the ground.~
+~
+9 37748736 0 2049
+10 0 0 0
+1 5 5
+A
+25 1
+A
+18 2
+A
+12 15
+#15896
+obj chains prison chains3~
+1
+&wP&Wr&wi&Ws&wo&Wn &wC&Wh&wa&Wi&wn&Ws&n~
+A set of prison chains are in a pile on the ground.~
+~
+9 37748736 0 2049
+0 0 0 0
+1 5 5
+A
+40 2
+A
+19 2
+A
+18 -1
+#15897
+obj undead bone spike~
+3
+&KB&wo&Kn&we &Ks&wp&Ki&wk&Ke&n~
+A bone made spike lies on the ground.~
+~
+5 4194304 0 8193
+4120 4 10 11
+5 150000 150000
+#15898
+obj Blight axe~
+1
+&wA&Kx&we &Kof &wB&rl&wig&rh&wt&n~
+A axe clouded in darkness rests on the ground.~
+~
+5 138426880 0 8193
+2048 8 6 3
+15 350000 2500000
+A
+19 4
+A
+18 3
+A
+33 -1
+A
+32 -1
+#15899
+obj cloak darkness~
+2
+&KA cloak surrounded in darkness!&n~
+A cloak surrounded in darkness is laying on the floor.~
+~
+15 4194820 0 1025
+350 0 0 0
+1 1500000 750000
+A
+19 3
+A
+18 2
+A
+40 1
+A
+13 -10
+$~
+#999999

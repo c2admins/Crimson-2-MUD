@@ -1,0 +1,471 @@
+#1300
+obj ribcage bone hero~
+1
+a ribcage of a long dead hero~
+&WA ribcage of a long dead hero crunches underfoot.&n~
+~
+15 262152 0 0
+200 0 0 0
+10 5 5
+#1301
+obj chariot blood khorne vehicle~
+1
+&wthe &rBlood Chariot&w of &yKhorne&n~
+The Blood Chariot of Khorne thunders past.~
+~
+24 262152 0 0
+80 80 10 9000
+500 50000 5
+E
+arrival~
+The Blood Chariot screeches to a halt. There is no one aboard to 
+collect your cash, but you assume 50k coins would be an honest amount.
+~
+E
+interior~
+From inside the Charriot you see that it is made of Brass smeared 
+with dried blood. A furnace type section in the front of the chariot 
+blazes red hot, but the furnace needs no fuel to produce the fire 
+that powers the chariot.
+~
+A
+13 10
+#1302
+obj Candelabra brass ~
+100
+a large brass candelabra~
+&YA few &ybrass &Ycandelabras light up the &Kcathedral &Yto the north.&n~
+~
+15 134217728 0 0
+400 0 0 0
+40 5 5
+#1303
+obj armor chaos khorne~
+5
+&wthe &BChaos &KArmor &wof &yKhorne&n~
+A fine suit of Chaos Armor lies in the dust.~
+~
+9 4207104 131072 9
+80 0 0 0
+70 120000 45000
+A
+19 2
+A
+13 20
+A
+18 2
+#1304
+obj khorne blade chaos runed~
+3
+&wthe &BChaos &KRuned &wBlade&n~
+The Chaos Runed Blade lies on the ground.~
+~
+5 4194372 0 24577
+121 8 7 3
+14 240000 60000
+A
+19 2
+A
+18 2
+#1305
+obj khorne helm destroyer~
+5
+&Rthe Helm of the &rDestroyer&n~
+The Helm of the Destroyer has been kicked to one side.~
+~
+9 4223492 131200 17
+25 0 0 0
+10 130000 50000
+A
+19 3
+A
+18 2
+#1306
+obj khorne skulls cloak~
+1
+&wThe &rC&Rloa&rk &wof &KS&wk&Kul&wl&Ks&n~
+The Cloak of Skulls lies in a heap.~
+~
+9 104858116 0 1029
+0 0 0 0
+10 100000 20000
+A
+19 2
+A
+40 2
+A
+18 1
+A
+12 -20
+#1307
+obj khorne axe~
+2
+&Kthe Axe of &yKhorne&n~
+The Axe of Khorne lies in the dirt.~
+~
+5 37777988 128 24577
+0 5 15 3
+20 200000 70000
+A
+19 4
+A
+18 1
+#1308
+obj khorne bloodthirster whip~
+3
+&ythe &rBloodThirsters &yWhip&n~
+The BloodThirsters Whip is lying on the ground.~
+~
+5 37751360 0 24577
+262146 5 10 2
+5 100000 30000
+A
+19 2
+A
+18 1
+#1309
+obj khorne brass skull girth~
+5
+&ya brass &Wskull &ygirth&n~
+A girth made from brass skulls is lying here~
+~
+9 37749248 0 2049
+20 0 0 0
+8 200000 50000
+A
+19 3
+A
+13 15
+A
+1 2
+#1310
+obj khorne greaves chaos brass~
+4
+&Bsome &ybrass plated &Bchaos greaves&n~
+A set of brass plated chaos greaves lie here.~
+~
+9 37761536 131072 33
+40 0 0 0
+8 210000 70000
+A
+19 2
+A
+13 10
+A
+18 1
+#1311
+obj khorne blood God helm~
+5
+&wthe helm of the &rblood god&n~
+The Helm of the Blood God rests here.~
+~
+9 37761536 131072 17
+20 0 0 0
+8 210000 70000
+A
+19 3
+A
+18 1
+#1312
+obj khorne change sword~
+5
+&Gthe Sword of Change&n~
+A sword forged from dark metal rests here.~
+~
+5 4210754 0 24577
+262144 6 9 3
+20 180000 60000
+A
+19 4
+#1313
+obj banner hell khorne~
+5
+&Gthe &rHell Banner&G of &yKhorne&n~
+A large banner with a huge symbol of khorne rests on a nearby wall.~
+~
+4 4235776 262144 16385
+45 5 5 117
+15 150000 5
+A
+19 6
+A
+13 -20
+#1314
+obj khorne rage boots~
+5
+&ythe Boots of &RRage&n~
+A pair of dark boots plated with chaos metal lie here.~
+~
+9 4194304 0 65
+8 0 0 0
+20 150000 65000
+A
+19 2
+A
+18 1
+A
+2 2
+#1315
+obj khorne flame mace~
+4
+&rthe &RFl&Ya&Rme &rMace&n~
+A large mace sorrounded in flames burns away at the ground.~
+~
+5 37748800 0 24577
+65536 5 11 6
+17 120000 40000
+A
+19 1
+A
+18 2
+#1316
+obj khorne flaming shroud~
+5
+&rthe &RFl&Yami&Rng &rShroud&n~
+A shroud of flames lies on the ground.~
+~
+9 37748736 0 1025
+10 0 0 0
+4 240000 60000
+A
+19 3
+A
+18 2
+#1317
+obj khorne blood stained axe~
+5
+&ra blood stained &KBattleaxe&n~
+A Battleaxe lies on the ground, covered with blood.~
+~
+5 4194368 0 24577
+0 11 5 3
+12 90000 30000
+A
+19 1
+A
+18 3
+#1318
+obj khorne girth daemon~
+2
+&Ka d&Raemo&Kn girth&n~
+A dark looking girth rests on the ground.~
+~
+9 4194820 0 2049
+2 0 0 0
+6 40000 10000
+A
+19 3
+A
+18 2
+A
+13 -20
+#1319
+obj khorne hellblade~
+8
+&Kthe &rHellBlade&n~
+A sword with a vicious looking blade lies on the ground.~
+~
+5 4211264 0 24577
+65536 6 9 3
+6 120000 40000
+A
+18 4
+#1320
+obj bloodied remains~
+20
+&rsome bloodied remains&n~
+A pile of bloodied remains lies in a heap on the floor.~
+~
+13 262144 0 1
+0 0 10 0
+10 0 0
+#1321
+obj khorne mist platemail~
+5
+&wthe Platemail of &Wmists&n~
+A suit of fine platemail covered with mist lies here.~
+~
+9 4194304 0 9
+50 0 0 0
+10 130000 40000
+A
+19 2
+A
+36 -1
+A
+14 35
+#1322
+obj khorne katam skull~
+4
+&Bthe &WSkull &Bof Katam&n~
+A strange magic skull lies here emiting a blue light.~
+~
+9 4194305 0 16385
+20 0 0 0
+5 200000 50000
+A
+19 5
+A
+24 -1
+A
+18 2
+#1323
+obj khorne blood candle~
+80
+&Ra small &rblood&R candle&n~
+A candle made from blood flickers with light.~
+~
+1 20971521 0 65537
+0 0 100 0
+5 50000 20000
+#1324
+obj khorne blood candle~
+4
+&Ra small &rblood&R candle&n~
+A candle made from blood flickers with light.~
+~
+1 21004801 262144 65537
+0 0 100 0
+5 50000 20000
+A
+19 3
+A
+18 2
+A
+13 -10
+#1325
+obj khorne ornate chaos armor~
+5
+&KA suit of black &BChaos Metal&K Armor&n~
+An ornate suit of black armor lies here.~
+~
+9 4194308 0 9
+80 0 0 0
+50 300000 100000
+A
+19 2
+A
+18 1
+A
+13 20
+#1326
+obj khorne dark chaos sword~
+2
+&wThe &KCh&wa&Kos &rD&Raemo&rn &KSword&n~
+The sword forged from dark chaos metal lies here.~
+~
+5 4196928 0 8193
+66584 7 7 3
+3 300000 100000
+A
+18 4
+#1327
+obj spiked mace ball khorne~
+1
+&wA S&Kp&wi&wk&Ke&wd &RM&rac&Re &KBall&n~
+A large spiked ball from a mace has become detached and rests here.~
+~
+9 37748740 0 16385
+15 0 0 0
+3 30000 10000
+A
+19 6
+A
+25 1
+A
+18 3
+A
+13 -100
+#1328
+obj khorne collar~
+3
+&ythe Collar of Khorne&n~
+A large spiked collar lies here.~
+~
+9 37748736 0 5
+25 0 0 0
+8 100000 30000
+A
+19 3
+A
+6 -2
+#1329
+obj khorne scorpion tail~
+5
+&wa giant &Kscorpions &wtail&n~
+A giant scorpions tail lies in the dirt.~
+~
+5 37748736 0 24577
+1 5 9 11
+9 100000 30000
+A
+19 1
+A
+18 1
+#1330
+obj khorne bone saddle~
+20
+&Wa large Bone Saddle&n~
+A large Bone Saddle looks fairly uncomfortable~
+~
+9 37748736 0 2049
+10 0 10 0
+20 100000 30000
+A
+2 -5
+#1331
+obj khorne flesh blade~
+3
+&Wthe &yF&Yles&yh &WBlade&n~
+A menacing looking sword lies here.~
+~
+5 4219456 0 24577
+1024 4 10 3
+12 130000 40000
+A
+19 1
+A
+18 3
+#1332
+obj thongs imm~
+0
+a pair of old thongs~
+A pair of old thongs lay in the dirt.~
+~
+9 0 64 65
+0 0 10 0
+1 5 5
+A
+13 100
+A
+13 100
+#1333
+obj dawn chaos khorne~
+1
+&wthe &KDawn &wof &RC&rh&Ra&ro&Rs&n~
+A mythical orb of the battle master Khorne is here, swirling in chaos.~
+~
+1 104860244 0 65537
+0 0 10 0
+3 666666 66666
+A
+40 1
+A
+19 2
+A
+18 3
+#1334
+obj ruination edge sword khorne~
+1
+&wThe &cE&Cdg&ce&w of &rR&Ruinatio&rn&n~
+A small sword of epic proportions lies in the sand.~
+~
+5 4194304 0 8193
+12615704 4 10 11
+3 5 50000
+A
+13 -50
+A
+40 2
+$~
+#999999
