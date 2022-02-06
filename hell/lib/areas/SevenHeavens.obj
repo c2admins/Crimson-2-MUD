@@ -120,7 +120,7 @@ A
 #7409
 obj soshia charm~
 1
-&WSo&ws&Whi&wa&W's &GC&ghar&Gm&n~
+&WSoshia's &WC&Gh&Ya&Gr&Wm&n~
 A small silvery charm lays on the ground here.~
 ~
 9 4195328 0 4097
@@ -175,7 +175,7 @@ obj haley wings~
 A small pair of angelic wings lay here.~
 ~
 9 4195328 0 1025
-50 0 0 0
+60 0 0 0
 1 5 5
 A
 41 1
@@ -534,7 +534,7 @@ A
 #7437
 obj bartlebee blazing short sword shortsword~
 2
-&KBartlebee's &rBl&Ra&Yz&Ri&rng &wShort&Ksword&n~
+&KBartlebee's &RB&Yl&Ra&Yz&Ri&Yn&Rg &KShort Sword&n~
 A short sword on fire lays here.~
 ~
 5 4195328 0 24577
@@ -547,7 +547,7 @@ A
 #7438
 obj bartlebee guidance light~
 2
-&KBartlebee's &YL&wi&Wg&wh&Yt &wof &cG&Cu&Widan&Cc&ce&n~
+&KBartlebee's &WL&Yi&Wg&Yh&Wt &wof &WGuidance&n~
 A large glowing angelic light lays here.~
 ~
 1 138415104 4 65537
@@ -562,7 +562,7 @@ A
 #7439
 obj loki flaming broadsword~
 1
-&rL&Koki'&rs &rFl&Ra&Ym&Ri&rng &wBroad&Ksword&n~
+&RLoki's Fl&Yami&Rng &KBroadsword&n~
 A massive broadsword covered in flames has been left here.~
 ~
 5 4197377 0 8193
@@ -577,7 +577,7 @@ A
 #7440
 obj boots loki~
 3
-&KBoots &wof &rL&Kok&ri&n~
+&KBoots &wof &RLoki&n~
 A pair of white boots lay here.~
 ~
 9 4195328 0 65
@@ -639,29 +639,23 @@ and girlfriend.  I and others will always miss you.
 Love, Jason Lucas (Sorrow)
 ~
 #7445
-obj quest1 ladondra's cross~
+obj quest ladondra's cross~
 1
-&GL&ga&Gd&go&Gndr&ga'&Gs cr&go&Gss&n~
+&GL&ga&Gd&go&gd&Gr&ga&G'&gs &Gc&gr&Go&gs&Gs&n~
 A glowing white cross fills the room with light.~
 ~
-9 138674176 0 16385
-25 0 0 0
+9 4456448 0 16385
+30 0 0 0
 1 5 5
 A
-19 5
-A
-18 3
-A
-40 2
-A
-41 2
+19 7
 #7446
-obj quest1 silver rod~
+obj quest silver rod~
 32767
 A silver Rod~
 Someone has left a valuable silver rod here.~
 ~
-9 138674176 0 16385
+9 4456448 0 16385
 0 0 0 0
 1 5 5
 A
@@ -673,21 +667,21 @@ A
 A
 12 20
 #7447
-obj quest1 ty cobb bat~
+obj quest ty cobb bat~
 1
 &BT&by &BC&bo&Bb&bb&B'&bs &BB&ba&Bt&n~
 Someone has left a nice baseball bat here.~
 ~
-5 138674498 0 8193
-16 10 10 6
+5 4456770 0 8193
+0 10 10 6
 1 5 5
 #7448
-obj quest1 captain kirk toupee~
+obj quest captain kirk toupee~
 1
 &YC&ya&Yp&yt&Ya&yi&Yn &YK&yi&Yr&yk&Y'&ys &YT&yo&Yu&yp&Ye&ye&n~
 Someone has left a small poodle-looking fur here.~
 ~
-9 134479872 0 17
+9 4456448 0 17
 30 0 0 0
 1 5 5
 A
@@ -696,8 +690,6 @@ A
 19 4
 A
 13 50
-A
-36 -1
 #7449
 obj angelic shield~
 2
@@ -733,21 +725,21 @@ A
 A
 14 -10
 #7451
-obj quest1 potion heavenly sanctuary armor~
+obj quest potion heavenly sanctuary armor~
 5
 A potion of Heaven~
 Someone has left a holy potion here.~
 ~
-10 134217728 0 1
+10 0 0 1
 50 36 1 0
 1 5 5
 #7452
-obj quest1 potion movement vigorize major~
+obj quest potion movement vigorize major~
 5
 A potion of movement~
 Someone has left a strange green potion here.~
 ~
-10 134217728 0 1
+10 0 0 1
 50 105 0 0
 1 5 5
 #7453

@@ -7,7 +7,7 @@ oput of the walls, and provide the only light in this otherwise dark room. The &
 of the torches reveals the item of note within the room...a set up stairs leading up into
 the unknown.&n
 ~
-114 1879064780 0 25 50 0
+160 1879064780 0 25 50 0
 D3
 ~
 door tree~
@@ -27,7 +27,7 @@ intervals along the walkway, providing light for those who walk through here. Th
 light to view a landing below, but the curvature of the stairs prevents anyone from seeing 
 anything above.&n
 ~
-114 1879064780 0 1 99 0
+160 1879064780 0 1 99 0
 D3
 The wall looks a bit strange.
 ~
@@ -59,7 +59,7 @@ long watches. Two cot-like formations grow out of the southern wall for even lon
 while a small &Gbush&y bearing &Rfruits&y grows out of the center of the floor, providing food
 for anyone who stays here. The only exit appears to lie to the east.&n
 ~
-114 1879064780 0 1 99 0
+160 1879064780 0 1 99 0
 D1
 A panel leads back to the main hollow of the tree.
 ~
@@ -86,12 +86,12 @@ The door itself almost looks a part of the wall, with no discernable keyholes or
 Sounds of raucous laughter can be heard through the door, and sounds of beautiful music fill
 the air.
 ~
-114 1879064780 0 1 99 0
+160 1879064780 0 1 99 0
 D0
 Sounds of laughter and merriment can be heard through the door.
 ~
 door wood~
-1 0 20749
+9 0 20749
 D5
 The stairs lead down towards the base of the tree.
 ~
@@ -108,7 +108,7 @@ provide light during the night hours. In the distance can be seen rope ladders c
 branches together in an intricate web, and several doors can be seen in the trunks of other 
 trees, no doubt the homes of the elves that live here.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 The branch leads off into the heart of the elven community.&n
 ~
@@ -118,7 +118,7 @@ D2
 A door leads into the hollow of the tree.
 ~
 wood door~
-1 0 20748
+9 0 20748
 S
 #20750
 &gOn a Large Tree Branch&n~
@@ -129,7 +129,7 @@ and allowing multiple people to walk abreast in comfort. The branch leads in a m
 south direction, with the southern path leading to the trees base, and the north path leading
 further out along the branch.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 The branch appears to lead to the base of a large tree.
 ~
@@ -151,7 +151,7 @@ during the night. A rope ladder is attached to one of the rails leading up to a 
 on another tree, and several more such ladders can be seen connecting to other trees in a very
 intricate web of design.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 The branch appears to lead to the base of a large tree.
 ~
@@ -178,12 +178,12 @@ provide light during the night hours. A rope ladder can be seen just to the sout
 this branch to another very large branch. The outline of what appears to be a door is on the
 base of the tree in front of you, while the southern path leads out further along the branch.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 A door leads into what appears to be a home.
 ~
 door wooden~
-1 0 20753
+9 0 20753
 D2
 The branch appears to lead to the base of a large tree.
 ~
@@ -198,12 +198,12 @@ comfortable looking chairs surrounding it. On the far wall is a window, not cut 
 think, but rather molded with magic so the tree is not harmed. A set of stairs leads down, a thin railing
 with intricately carved &Gleaf patterns&y complementing the natural feel of the home of the &gelves&y.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D2
 A door leads to a large branch.
 ~
 door wooden~
-1 0 20752
+9 0 20752
 D5
 Stairs lead down to another room.
 ~
@@ -218,7 +218,7 @@ comfortable looking set of beds lie against the eastern and western walls, while
 a window, molded from an ancient magic. A set of stairs leads up and down, a thin railing with intricately
 carved &Gleaf patterns&y complementing the natural feel of the whole room.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D4
 Stairs lead up to another room.
 ~
@@ -240,7 +240,7 @@ by chairs grows from the floor, and against the northern wall is a counter and s
 as the kitchen area. A set of stairs leads up, a thin railing with intricately carved &Gleaf patterns&y 
 complements the nature design and feel of the whole home.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D4
 Stairs lead up to another room.
 ~
@@ -256,7 +256,7 @@ posts grow out of the base of the path at roughly twenty foot intervals, each wi
 latern attached to light the way at night. Further to the east lies what appears to be 
 a door, while a rope ladder leads down to another branch.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D1
 The branch ends at a door.
 ~
@@ -278,12 +278,12 @@ latern attached to light the way at night. Further to the east lies a door set i
 base of the treetrunk the branch grows from, while to the west the branch ends at a long
 rope ladder.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D1
 A door leads into the tree trunk.
 ~
 door wooden~
-1 0 20758
+9 0 20758
 D3
 The branch ends at a rope ladder.
 ~
@@ -298,12 +298,12 @@ while the upper levels are mainly used as a marketplace for trading and exchangi
 formed rampways lead to and from each level, upon which can be seen several patrolling guards to
 "protect" visitors to this area.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D3
 A door leads out onto a branch.
 ~
 door wooden~
-1 0 20757
+9 0 20757
 D4
 A set of stairs leads up to another room.
 ~
@@ -321,15 +321,15 @@ S
 the ramp, protecting the inhabitants and visitors from wouldbe thieves and assassins. The ramp also leads up  
 into the reknowned elven marketplace, where items of all walks of life are traded and sold.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D1
 ~
 door guild~
-1 0 20781
+9 0 20781
 D2
 ~
 door wooden~
-1 0 20768
+9 0 20768
 D4
 A set of stairs leads up to another room.
 ~
@@ -349,7 +349,7 @@ A large podium sits at the north end of the hall, above which hang &glarge banne
 &GQuel'Sith &yelves. Rows upon rows of ornately carved chairs sit in front of the podium, and down the center 
 aisle is laid a carpet of the finest &rred silk&y.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D4
 A set of stairs leads up to another room.
 ~
@@ -363,7 +363,7 @@ walls and floor, the scene much resembles a desert city bazaar with its narrow w
 Items ranging from the benign to the malignant can be purchased here. One need only find the right vendor 
 with the item that they seek.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D4
 ~
 ~
@@ -381,11 +381,11 @@ walls and floor, the scene much resembles a desert city bazaar with its narrow w
 Items ranging from the benign to the malignant can be purchased here. One need only find the right vendor 
 with the item that they seek.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D1
 ~
 door wooden~
-1 0 20764
+9 0 20764
 D4
 ~
 ~
@@ -402,7 +402,7 @@ walls and floor, the scene much resembles a desert city bazaar with its narrow w
 Items ranging from the benign to the malignant can be purchased here. One need only find the right vendor 
 with the item that they seek.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D5
 ~
 ~
@@ -418,7 +418,7 @@ provide light during the night hours. In the distance can be seen rope ladders c
 branches together in an intricate web, and several doors can be seen in the trunks of other 
 trees, no doubt the homes of the elves that live here.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D1
 ~
 ~
@@ -426,7 +426,7 @@ D1
 D3
 ~
 wooden door~
-1 0 20762
+9 0 20762
 S
 #20765
 &gOn a Large Tree Branch&n~
@@ -438,7 +438,7 @@ provide light during the night hours. Rope ladders connecting the branches toget
 various intervals, creating and intricate web. Several doors are formed in the trunks of the 
 trees as well, no doubt the homes of the elves that live here.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D1
 ~
 ~
@@ -462,7 +462,7 @@ provide light during the night hours. Rope ladders connecting the branches toget
 various intervals, creating and intricate web. Several doors are formed in the trunks of the 
 trees as well, no doubt the homes of the elves that live here.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D1
 ~
 ~
@@ -486,11 +486,11 @@ provide light during the night hours. Rope ladders connecting the branches toget
 various intervals, creating and intricate web. Several doors are formed in the trunks of the 
 trees as well, no doubt the homes of the elves that live here.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D1
 ~
 door wooden~
-1 0 20790
+9 0 20790
 D3
 ~
 ~
@@ -506,11 +506,11 @@ lantern attached to light the way at night. Further to the south lies what appea
 a door.
 &n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 door wooden~
-1 0 20759
+9 0 20759
 D2
 ~
 ~
@@ -525,7 +525,7 @@ posts grow out of the base of the path at roughly twenty foot intervals, each wi
 lantern attached to light the way at night. A door lies to the south, while a rope ladder
 leads down to another branch.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 ~
@@ -533,7 +533,7 @@ D0
 D2
 ~
 door wooden~
-1 0 20772
+9 0 20772
 D5
 ~
 ~
@@ -548,7 +548,7 @@ posts grow out of the base of the path at roughly twenty foot intervals, each wi
 lantern attached to light the way at night. To the south lies a very elaborate door.
 &n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 ~
@@ -556,7 +556,7 @@ D0
 D2
 ~
 door temple~
-1 0 20774
+9 0 20774
 D4
 ~
 ~
@@ -571,11 +571,11 @@ posts grow out of the base of the path at roughly twenty foot intervals, each wi
 lantern attached to light the way at night. To the south can be seen a door leading inside
 a tree.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D2
 ~
 door temple~
-1 0 20775
+9 0 20775
 D4
 ~
 ~
@@ -589,11 +589,11 @@ comfortable looking chairs surrounding it. On the far wall is a window, not cut 
 think, but rather molded with magic so the tree is not harmed. A set of stairs leads up, a thin railing
 with intricately carved &Gleaf patterns&y complementing the natural feel of the home of the &gelves&y.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 door wooden~
-1 0 20769
+9 0 20769
 D4
 ~
 ~
@@ -608,7 +608,7 @@ by chairs grows from the floor, and against the northern wall is a counter and s
 as the kitchen area. A set of stairs leads up, a thin railing with intricately carved &Gleaf patterns&y 
 complements the nature design and feel of the whole home.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D5
 ~
 ~
@@ -620,11 +620,11 @@ S
 about the room to let light in, while at the center of the room sits a large statue of the sun god 
 himself. Several small altars sit all about, welcoming patrons to worship at this holy site.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 door temple~
-1 0 20770
+9 0 20770
 S
 #20775
 &gTemple of the &WMoon&n~
@@ -633,15 +633,15 @@ about the room to let moonlight in, while at the center of the room sits a large
 moon god himself. Several small altars sit all about, welcoming patrons to worship at this holy 
 site.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 door temple~
-1 0 20771
+9 0 20771
 D2
 ~
 door temple~
-1 0 20777
+9 0 20777
 S
 #20776
 &gTemple of the &wStars&n~
@@ -650,11 +650,11 @@ no light in, but several lanterns with holes in their hoods give the illusion of
 filling the room. A large statue os the star goddess herself sits in the center of the room. Surrounding
 the statue are several altars, welcoming patrons to worship at this holy site.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D1
 ~
 door temple~
-1 0 20777
+9 0 20777
 S
 #20777
 &gA Short, Sturdy Branch&n~
@@ -665,15 +665,15 @@ posts grow out of the base of the path at roughly twenty foot intervals, each wi
 lantern attached to light the way at night. To the north and west lie doors, above which
 can be found elven sigils that represent temples.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 door temple~
-1 0 20775
+9 0 20775
 D3
 ~
 door temple~
-1 0 20776
+9 0 20776
 D5
 ~
 ~
@@ -686,7 +686,7 @@ enemy establishments. Since they practice the arts of both clerics and thieves, 
 troops in battle, and thanks to their magical abilities are nearly impossible to capture. The current guild 
 leader is &cL&Ka&wera &KShadow&cs&Won&Kg&g, a brilliant tactician who has led the guild for a modest three hundred years. &n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 ~
@@ -705,7 +705,7 @@ magics all around the guild, some more successfully than others. The oddity abou
 seem to be a pile of discarded failures. It would seem the &wstones&g can always be reworked into a piece of 
 art, so there is never any waste.&n
 ~
-114 1880113224 0 1 99 0
+160 1880113224 0 1 99 0
 D0
 ~
 door hidden~
@@ -724,7 +724,7 @@ bonds with nature, and their ability to shape their surroundings, many attempts 
 forces to harnass the treeshapers magics. To prevent further attacks, the Bladesingers guild now protects
 this area, so it should be safe to look around.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D3
 ~
 ~
@@ -736,11 +736,11 @@ Wardancers guild~
 hall. Cots are set up for off duty officers, while teas and foodstuffs are prepared constantly in a small side
 kitchen area next to the entrance.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D3
 ~
 door guild~
-1 0 20759
+9 0 20759
 S
 #20782
 Bladesingers guild~
@@ -752,7 +752,7 @@ confines day or night. He is a respected guildmaster despite his young age, and 
 the bladesinger skills from none other than "The Guardian" of the Quel'Sith forest..a legend of these parts
 whose identity has never been discovered.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 ~
@@ -768,7 +768,7 @@ S
 and go as they please. They are completely provided for by the &Ge&glve&Gs&g, and thus many of 
 giant &wwolves&g stay here to raise their young.&n
 ~
-114 1343242312 0 1 99 0
+160 1343242312 0 1 99 0
 D0
 ~
 pen door~
@@ -788,7 +788,7 @@ S
 and go as they please. They are completely provided for by the &Ge&glve&Gs&g, and thus many of 
 giant &wwolves&g stay here to raise their young.&n
 ~
-114 1343242312 0 1 99 0
+160 1343242312 0 1 99 0
 D0
 ~
 ~
@@ -808,7 +808,7 @@ S
 and go as they please. They are completely provided for by the &Ge&glve&Gs&g, and thus many of 
 giant &wwolves&g stay here to raise their young.&n
 ~
-114 1343242312 0 1 99 0
+160 1343242312 0 1 99 0
 D3
 ~
 ~
@@ -820,7 +820,7 @@ S
 and go as they please. They are completely provided for by the &Ge&glve&Gs&g, and thus many of 
 giant &wwolves&g stay here to raise their young.&n
 ~
-114 1343242312 0 1 99 0
+160 1343242312 0 1 99 0
 D0
 ~
 ~
@@ -836,7 +836,7 @@ S
 and go as they please. They are completely provided for by the &Ge&glve&Gs&g, and thus many of 
 giant &wwolves&g stay here to raise their young.&n
 ~
-114 1343242312 0 1 99 0
+160 1343242312 0 1 99 0
 D1
 ~
 ~
@@ -854,7 +854,7 @@ easily allowing a number of people to walk in relative comfort. Smaller branchli
 posts grow out of the base of the path at roughly twenty foot intervals, each with a 
 lantern attached to light the way at night. &n
 ~
-114 1880113224 0 1 99 0
+160 1880113228 0 1 99 0
 D0
 ~
 ~
@@ -862,7 +862,7 @@ D0
 D2
 ~
 door guild~
-25 0 20779
+17 0 20779
 S
 #20789
 &gIn a Large Tree Home&n~
@@ -872,7 +872,7 @@ comfortable looking chairs surrounding it. On the far wall is a window, not cut 
 think, but rather molded with magic so the tree is not harmed. A set of stairs leads up, a thin railing
 with intricately carved &Gleaf patterns&y complementing the natural feel of the home of the &gelves&y.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D4
 ~
 ~
@@ -887,11 +887,11 @@ by chairs grows from the floor, and against the northern wall is a counter and s
 as the kitchen area. A set of stairs leads up, a thin railing with intricately carved &Gleaf patterns&y 
 complements the nature design and feel of the whole home.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D3
 ~
 door wooden~
-1 0 20767
+9 0 20767
 D5
 ~
 ~
@@ -903,11 +903,11 @@ S
 about the room to let the breeze in, while at the center of the room sits a large statue of the sky goddess
 herself. Several small altars sit all about, welcoming patrons to worship at this holy site.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D2
 ~
 door temple~
-1 0 20793
+9 0 20793
 S
 #20792
 &gOn a Large Tree Branch&n~
@@ -919,7 +919,7 @@ provide light during the night hours. Rope ladders connecting the branches toget
 various intervals, creating and intricate web. Several doors are formed in the trunks of the 
 trees as well, no doubt the homes of the elves that live here.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 ~
 ~
@@ -943,11 +943,11 @@ provide light during the night hours. Rope ladders connecting the branches toget
 various intervals, creating and intricate web. Several doors are formed in the trunks of the 
 trees as well, no doubt the homes of the elves that live here.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 ~
 door temple~
-1 0 20791
+9 0 20791
 D2
 ~
 ~
@@ -963,7 +963,7 @@ provide light during the night hours. Rope ladders connecting the branches toget
 various intervals, creating and intricate web. Several doors are formed in the trunks of the 
 trees as well, no doubt the homes of the elves that live here.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 ~
 ~
@@ -983,7 +983,7 @@ provide light during the night hours. Rope ladders connecting the branches toget
 various intervals, creating and intricate web. Several doors are formed in the trunks of the 
 trees as well, no doubt the homes of the elves that live here.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 ~
 ~
@@ -991,7 +991,7 @@ D0
 D2
 ~
 door wooden ~
-1 0 20796
+9 0 20796
 S
 #20796
 &gIn a Large Tree Home&n~
@@ -1001,11 +1001,11 @@ comfortable looking chairs surrounding it. On the far wall is a window, not cut 
 think, but rather molded with magic so the tree is not harmed. A set of stairs leads down, a thin railing
 with intricately carved &Gleaf patterns&y complementing the natural feel of the home of the &gelves&y.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 ~
 door wooden~
-1 0 20795
+9 0 20795
 D5
 ~
 ~
@@ -1019,7 +1019,7 @@ comfortable looking chairs surrounding it. On the far wall is a window, not cut 
 think, but rather molded with magic so the tree is not harmed. A set of stairs leads down, a thin railing
 with intricately carved &Gleaf patterns&y complementing the natural feel of the home of the &gelves&y.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D4
 ~
 ~
@@ -1033,7 +1033,7 @@ comfortable looking set of beds lie against the eastern and western walls, while
 a window, molded from an ancient magic. A set of stairs leads up and down, a thin railing with intricately
 carved &Gleaf patterns&y complementing the natural feel of the whole room.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D4
 ~
 ~
@@ -1053,7 +1053,7 @@ by chairs grows from the floor, and against the northern wall is a counter and s
 as the kitchen area. A set of stairs leads up, a thin railing with intricately carved &Gleaf patterns&y 
 complements the nature design and feel of the whole home.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D4
 ~
 ~
@@ -1067,7 +1067,7 @@ easily allowing a number of people to walk in relative comfort. Smaller branchli
 posts grow out of the base of the path at roughly twenty foot intervals, each with a 
 lantern attached to light the way at night.&n
 ~
-114 1880113224 0 1 99 0
+160 1880113224 0 1 99 0
 D0
 ~
 ~
@@ -1085,7 +1085,7 @@ easily allowing a number of people to walk in relative comfort. Smaller branchli
 posts grow out of the base of the path at roughly twenty foot intervals, each with a 
 lantern attached to light the way at night.&n
 ~
-114 1880113224 0 1 99 0
+160 1880113224 0 1 99 0
 D0
 ~
 ~
@@ -1109,7 +1109,7 @@ during the night. A rope ladder is attached to one of the rails leading up to a 
 on another tree, and several more such ladders can be seen connecting to other trees in a very
 intricate web of design.&n
 ~
-114 1880113228 0 1 99 0
+160 1880113228 0 1 99 0
 D2
 ~
 ~
@@ -1125,7 +1125,7 @@ S
 surrounding area is beautiful however, so this area is more than likely used by those seeking 
 peace and quiet during the day.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 ~
 door hidden~
@@ -1143,7 +1143,7 @@ easily allowing a number of people to walk in relative comfort. Smaller branchli
 posts grow out of the base of the path at roughly twenty foot intervals, each with a 
 lantern attached to light the way at night.&n
 ~
-114 1880113224 0 1 99 0
+160 1880113228 0 1 99 0
 D2
 ~
 ~
@@ -1165,7 +1165,7 @@ easily allowing a number of people to walk in relative comfort. Smaller branchli
 posts grow out of the base of the path at roughly twenty foot intervals, each with a
 lantern attached to light the way at night. To the south lies a very elaborate door.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D2
 ~
 ~
@@ -1183,7 +1183,7 @@ easily allowing a number of people to walk in relative comfort. Smaller branchli
 posts grow out of the base of the path at roughly twenty foot intervals, each with a 
 lantern attached to light the way at night.&n
 ~
-114 1880113224 0 1 99 0
+160 1880113224 0 1 99 0
 D1
 ~
 ~
@@ -1200,7 +1200,7 @@ around are magnificent &ytrees&g climb hundreds of feet into the sky. A rope lad
 connected to the closest &ytree&g and several more such can be seen in the branches of
 other &ytrees&g as well.&n
 ~
-114 1343242312 0 1 99 0
+160 1343242312 0 1 99 0
 D2
 ~
 ~
@@ -1216,7 +1216,7 @@ S
 the stench of animals fills your nostrils. The thick &Gvegetation&g prevents you from seeing
 what is ahead, so it would be best to proceed with caution.&n
 ~
-114 1343242312 0 1 99 0
+160 1343242312 0 1 99 0
 D0
 ~
 ~
@@ -1232,7 +1232,7 @@ Laera's Sanctuary~
 furnishings include a rather large bed, a desk, and a small altar which lies against the western wall. Laele 
 can usually be found here, using the darkness to her advantage to harass anyone who would disturn her.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D4
 ~
 ~
@@ -1244,7 +1244,7 @@ Sleeping Quarters~
 Beside each bed is a small chest for personal possessions, as well as a small altar to pray to the guilds
 patron god Mask. There is little else of interest here.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D1
 ~
 ~
@@ -1255,7 +1255,7 @@ Halls of the Shadowdancers~
   &gLeading deep within the heart of the tree, the halls of the guild are dark and rather ominous. Though 
 there is no apparent activity, you feel as though your every move is being watched.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D2
 ~
 ~
@@ -1274,7 +1274,7 @@ Halls of the Shadowdancers~
   &gLeading deep within the heart of the tree, the halls of the guild are dark and rather ominous. Though 
 there is no apparent activity, you feel as though your every move is being watched.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 ~
@@ -1294,7 +1294,7 @@ confines day or night. He is a respected guildmaster despite his young age, and 
 the bladesinger skills from none other than "The Guardian" of the Quel'Sith forest..a legend of these parts
 whose identity has never been discovered.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 ~
@@ -1314,7 +1314,7 @@ confines day or night. He is a respected guildmaster despite his young age, and 
 the bladesinger skills from none other than "The Guardian" of the Quel'Sith forest..a legend of these parts
 whose identity has never been discovered.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D2
 ~
 ~
@@ -1330,7 +1330,7 @@ during the night. A rope ladder is attached to one of the rails leading up to a 
 on another tree, and several more such ladders can be seen connecting to other trees in a very
 intricate web of design.&n
 ~
-114 1879064652 0 1 99 0
+160 1879064652 0 1 99 0
 D0
 ~
 door wooden~
@@ -1354,7 +1354,7 @@ Treeshapers guild~
 grow from the floor as doorways arch like branches in their natural state. The room is otherwise rather 
 spartan in appearance as the treeshapers who live here like to form their furnishings as they need them.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 ~
@@ -1370,7 +1370,7 @@ Treeshapers guild~
 grow from the floor as doorways arch like branches in their natural state. The room is otherwise rather 
 spartan in appearance as the treeshapers who live here like to form their furnishings as they need them.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D1
 ~
 ~
@@ -1386,7 +1386,7 @@ Treeshapers guild~
 grow from the floor as doorways arch like branches in their natural state. The room is otherwise rather 
 spartan in appearance as the treeshapers who live here like to form their furnishings as they need them.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D0
 ~
 door wood~
@@ -1405,7 +1405,7 @@ magics all around the guild, some more successfully than others. The oddity abou
 seem to be a pile of discarded failures. It would seem the &wstones&g can always be reworked into a piece of 
 art, so there is never any waste.&n
 ~
-114 1880113224 0 1 99 0
+160 1880113224 0 1 99 0
 D0
 ~
 ~
@@ -1428,7 +1428,7 @@ magics all around the guild, some more successfully than others. The oddity abou
 seem to be a pile of discarded failures. It would seem the &wstones&g can always be reworked into a piece of 
 art, so there is never any waste.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D1
 ~
 ~
@@ -1441,7 +1441,7 @@ useful items such as sundials or altars, while others were created as simple dec
 home. This is where Celendril resides, and works on the failures of his students. Several piles of mishapen 
 lie about his desk, but nothing stays for long as the aged &Ge&gl&Gf&g works diligently on his pieces of art.&n
 ~
-114 1879064648 0 1 99 0
+160 1879064648 0 1 99 0
 D3
 ~
 ~

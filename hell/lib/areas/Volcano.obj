@@ -996,7 +996,7 @@ obj infinite hourglass~
 &Wthe &KInfinite &cHour&pglass&n~
 A rather large looking hourglass is lying here.~
 ~
-9 172009537 0 16385
+9 172009537 262144 16385
 25 0 0 0
 8 3403821 159951
 A
@@ -1069,7 +1069,7 @@ obj red dragon scale~
 &KA &rR&Re&rd &KD&wr&Wag&wo&Kn Sc&wa&Kle&n~
 The scale of a great red dragon lies here.~
 ~
-9 104869888 17408 513
+9 104869888 148480 513
 10 0 0 0
 15 800000 4000000
 A

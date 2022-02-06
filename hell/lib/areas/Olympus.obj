@@ -173,7 +173,7 @@ obj earth platemail object olympus~
 &wplate&Kmail &wof the &yearth&n~
 &wA set of platemail has been discarded here.&n~
 ~
-9 104862208 0 9
+9 104862208 131072 9
 80 0 0 0
 25 25000 25000
 A
@@ -259,7 +259,7 @@ A
 obj winged sandals hermes object olympus~
 2
 &YHermes &Wwinged sandals&n~
-A torch is lying here.~
+a pair of winged sandals with wax straps lies here.~
 ~
 9 104857600 0 65
 20 0 0 0
@@ -291,7 +291,7 @@ obj messengers shield object olympus~
 &KMessengers &Wshield&n~
 &wThe shield of the &Kmessenger &wrests here.&n~
 ~
-9 104927232 0 1537
+9 104927232 131072 1537
 50 0 0 0
 1 245000 85000
 A
@@ -387,7 +387,7 @@ obj flowing robes goddess object olympus~
 &WThe &Cflowing&W robes of the &YGoddess&n~
 &WA long flowing robe lays crumpled up on the ground.&n~
 ~
-15 104899072 0 1025
+15 104899072 262144 1025
 350 0 0 0
 6 60000 10000
 A
@@ -452,7 +452,7 @@ obj forged bracer gods olympus object~
 &wA &cforged &Kbracer &wof the &YGods&n~
 &wA rather magnificet bracer has been dropped here.&n~
 ~
-9 4215300 0 4097
+9 4215300 131200 4097
 0 0 0 0
 10 350000 35000
 A
@@ -551,7 +551,7 @@ obj golden apple object olympus~
 &YA &Yg&yo&Yl&yd&Ye&yn &Yapple&n~
 &YA &Yg&yo&Yl&yd&Ye&yn &Yapple&W has been dropped on the ground.&n~
 ~
-9 4236288 0 16385
+9 4236288 262144 16385
 20 0 0 0
 2 250000 50000
 A
@@ -757,7 +757,7 @@ obj boots war object olympus~
 &Kboots &wof &rW&Ra&rr&n~
 &wA pair of &Rb&rloo&Rd splattered &wboots have been left here.&n~
 ~
-9 104862208 0 65
+9 104862208 131072 65
 30 0 0 0
 1 150000 15000
 A

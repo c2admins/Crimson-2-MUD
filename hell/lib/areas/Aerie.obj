@@ -188,7 +188,7 @@ obj fyrebrand sword blade~
 A strange blade lies here, emitting a smoldering heat.~
 ~
 5 138415169 4 8193
-67640 10 5 3
+71736 10 5 3
 10 402500 1500000
 A
 18 3
@@ -238,7 +238,7 @@ obj eye beast~
 &Weye &wof the &rbeast&n~
 An eye carved from the skull of a large beast lies here.~
 ~
-1 138429441 0 65537
+1 138429441 128 65537
 0 0 0 0
 5 97500 780000
 A
@@ -532,7 +532,7 @@ obj skull wolf~
 &WSkull &wof the &Kblack &wwolf&n~
 The skull of a wolf-like creature lies here collecting dust.~
 ~
-9 4199488 0 17
+9 4199488 131072 17
 10 0 0 0
 4 123750 390000
 A
@@ -584,7 +584,7 @@ obj icerain pelt~
 &BIce&cRain&W's pelt&n~
 The pelt of a very large wolf lies here.~
 ~
-9 205555713 0 1025
+9 205555713 262144 1025
 40 0 80 0
 8 157500 500000
 A
@@ -599,7 +599,7 @@ obj wolf paw white~
 &wa &Wwhite wolf's &wpaw&n~
 The severed paw of a wolf lies here.~
 ~
-9 71336960 0 16385
+9 71336960 262144 16385
 10 0 0 0
 4 186250 600000
 A
@@ -710,7 +710,7 @@ obj mask destiny viana~
 &wthe &Bmask &wof &Cdestiny&n~
 A silver helm lies here, glowing with a holy power.~
 ~
-9 71472193 4 17
+9 71472193 393220 17
 15 0 16 0
 3 200000 10000000
 A
@@ -786,7 +786,7 @@ obj fyrebrand sword blade 2~
 A strange blade lies here, emitting a smoldering heat.~
 ~
 5 138415169 0 8193
-16844856 10 5 11
+16848952 10 5 11
 7 190000 100000
 A
 18 3

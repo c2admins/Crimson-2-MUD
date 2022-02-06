@@ -77,7 +77,7 @@ A
 2 -1
 #18805
 obj crystal black rose ring~
-1
+2
 &KBlack &rRose &WRing&n~
 Black Rose Ring~
 ~
@@ -128,7 +128,7 @@ obj crystal ice encrusted cloak~
 &CI&cc&Ce &We&wncruste&Wd &yCloak&n~
 &wA ice encrusted cloak lays crumpled on the ground.&n~
 ~
-15 104889410 24576 1025
+15 104889410 155776 1025
 500 0 0 0
 3 2500000 25000
 A
@@ -139,7 +139,7 @@ A
 17 -50
 #18809
 obj crystal ice flamberge~
-0
+3
 &WI&Cc&We &RF&Ylam&Rberge&n~
 You see a large sword lying here covered in ice~
 ~
@@ -186,6 +186,10 @@ a note is here begging for someone to read it~
 0 0 10 0
 1 5 5
 E
+A note is laying here~
+Blah blah
+~
+E
 read note~
 Please help .  I  am the true king of the Ice Crystal Palace.  I have been
 captured and imprisoned by an lich.  He has made a clone of me and is
@@ -195,10 +199,6 @@ Beware the monsters that stalk the caverns and the lich's minions.
 Good luck
 Good luck
 King Rowan
-~
-E
-A note is laying here~
-Blah blah
 ~
 #18813
 obj crystal stonebreaker~
@@ -271,7 +271,7 @@ obj crystal lizardskin mesh gloves~
 &GL&gizar&Gd&w-&yskin Mesh &cGloves&n~
 Lizard-skin gloves lie here.~
 ~
-9 4223041 0 129
+9 4223041 131200 129
 25 0 0 0
 10 100000 200000
 A

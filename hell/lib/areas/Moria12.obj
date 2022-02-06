@@ -299,7 +299,7 @@ obj battered greaves~
 a set of battered greaves lies here.~
 ~
 9 65540 0 33
-2 0 0 0
+2 11 0 0
 8 11000 500
 A
 13 10
@@ -534,7 +534,7 @@ obj orcish battlemail~
 &wa suit of &yorcish &wbattlemail&n~
 A suit of mail worn by orcs lies here.~
 ~
-9 138433024 0 9
+9 138433024 131200 9
 20 29 0 0
 20 750000 5000
 A
@@ -620,7 +620,7 @@ obj greaves power~
 &KGre&caves of Po&Kwer&n~
 A set of greaves lies here, they emit an aura of power.~
 ~
-9 4198916 1024 524321
+9 4198916 132096 524321
 17 0 0 0
 10 100000 6000
 A

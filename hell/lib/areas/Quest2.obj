@@ -72,7 +72,7 @@ obj quest1 god bracer~
 &Wa &pb&Brace&pr &Wof &BG&po&Bd&n~
 A bracer filled with godly power lies here.~
 ~
-9 138674177 0 4097
+9 134479873 0 4097
 25 0 0 0
 2 5 5
 A
@@ -162,7 +162,7 @@ obj quest1 black moonstone ring sigil brimstone~
 &KThe Black &wM&Woo&wnst&Wo&wne &KR&win&Kg of B&wr&cim&Ks&cto&wn&Ke&n~
 A black ring with a strange stone lies here.~
 ~
-9 205783041 0 3
+9 138674177 0 3
 35 0 0 0
 1 5 5
 A
@@ -325,7 +325,7 @@ A
 24 -5
 #9123
 obj adamantium bracer silver pattern quest2~
-5
+10
 &Kan &wadamantium bracer &Kwith an intertwining &wsilver pattern&n~
 An adamantium bracer lies here covered with a silver pattern..~
 ~

@@ -4,7 +4,7 @@ obj anubis bracelet~
 &rb&wr&ra&wc&re&wl&re&wt &Go&gf &YA&yn&Kub&yi&Ys&n~
 a shiny gold bracelet beckons you closer.~
 ~
-9 171987456 0 4097
+9 171987456 131200 4097
 0 0 0 0
 15 2000000 2000
 E
@@ -81,7 +81,7 @@ A
 obj sai anuksonamun~
 2
 &YA&yn&wu&Yk&ys&wo&Yn&ya&wm&Yu&yn&w's &WS&Ka&Wi&n~
-A torch is lying here.~
+A sai is lying on the ground.~
 ~
 5 4196352 1024 8193
 33792 9 4 11
@@ -150,7 +150,7 @@ obj shield scorpion~
 a &Yg&yo&Wld&ye&Yn &rs&wc&Ko&rr&wp&Ki&ro&wn&K-&rs&wh&Ka&rp&we&Kd &Wshield&n~
 a golden scorpion lies here~
 ~
-9 104878592 0 513
+9 104878592 131200 513
 60 0 0 0
 18 20202020 15151
 A
@@ -172,7 +172,7 @@ A
 12 -30
 #5965
 obj onyx gem~
-5
+8
 an &Konyx&n~
 a small &Konyx&n gem lies here collecting dust.~
 ~
@@ -181,7 +181,7 @@ a small &Konyx&n gem lies here collecting dust.~
 10 500000000 5
 #5966
 obj gold orb~
-5
+8
 a &Ygolden orb&n~
 a smalle &Ygolden orb&n lies here collecting dust.~
 ~
@@ -244,7 +244,7 @@ obj circlet golden~
 &Yg&yo&Yl&yd&Ye&yn &Wcirclet &n~
 a shimering circle made of gold is lying here.~
 ~
-9 71345185 0 17
+9 71345185 262144 17
 20 0 0 0
 14 202020 500
 A
@@ -301,7 +301,7 @@ A
 A
 41 -1
 #5975
-obj imm grifter acid sword~
+obj grifter sword imm~
 100
 &Ka &Rb&rl&Roo&rd &Kstained &Ga&Kc&Gi&Kd edged sword&n~
 the weapon used in the destruction of the gods lies here.~
@@ -314,7 +314,7 @@ A
 A
 18 3
 #5976
-obj imm grifter blade trench~
+obj grifter trench imm~
 100
 &KA trenchcoat caked in &RB&rl&Roo&rD&n~
 Grifter's trenchcoat lies here.~
@@ -331,7 +331,7 @@ A
 A
 13 100
 #5977
-obj imm grifter glyph blood~
+obj grifter glyph imm~
 100
 &Ka &yglyph &Kof &rB&Rl&roo&Rd&n~
 a pile of blood lies here.~
@@ -348,7 +348,7 @@ A
 A
 13 100
 #5978
-obj imm grifter sun glass~
+obj grifter sunglass imm~
 100
 &Ka pair of sunglasses with &Rb&rl&Roo&Rd &Ksplattered on them&n~
 a pair of bloody sunglasses lie here~
@@ -357,12 +357,12 @@ a pair of bloody sunglasses lie here~
 800 0 0 0
 15 2000000000 5
 #5979
-obj imm grifter lunar eclipse~
+obj grifter eclipse imm~
 100
 &Ka total &Yl&Ku&Yn&Ka&Yr &beclipse&n~
 something dark lies here~
 ~
-1 4194304 64 65537
+1 0 64 65537
 0 0 0 0
 10 2000000000 5
 A
@@ -374,7 +374,7 @@ A
 A
 36 -1
 #5980
-obj imm grifter duffle blood~
+obj grifter duffle imm~
 100
 &Ka large &rb&Rl&roo&Rd &Kcoverd duffle bag&n~
 a bloody duffle bag lies here~
@@ -392,7 +392,7 @@ obj quest1 belt haste~
 &Ythe &Gbelt &Yof &Bh&Wa&Bs&Wt&Be&n~
 A belt is here, flickering in and out of existence.~
 ~
-9 138674176 0 2049
+9 134479872 0 2049
 20 0 0 0
 20 5 5
 A
@@ -411,7 +411,7 @@ A
 A
 32 -1
 #5983
-obj imm grifter kevlar~
+obj grifter kevlar imm~
 100
 &Ka &Rb&rl&Roo&rd &Ksplattered kevlar vest&n~
 a bloody kevlar vest lies here.~
@@ -429,12 +429,12 @@ obj grifter bottom pit~
 1000 0 1 0
 150 5 5
 #5985
-obj imm grifter glyph blood2~
+obj grifter glyph2 imm~
 32767
 &Ka &yglyph &Kof &RB&rl&Roo&rd&n~
 a bloody glyph lies here.~
 ~
-9 0 0 5
+9 0 64 5
 0 0 0 0
 1 2000000000 5
 A
@@ -451,7 +451,7 @@ obj grifter test armor~
 Grifter's Test Armor~
 A torch is lying here.~
 ~
-9 0 0 9
+9 0 64 9
 200 0 0 0
 1 5 5
 A
@@ -468,7 +468,7 @@ obj cloak banished~
 &ythe &wcloak &yof the &rba&Kn&Wi&Ksh&red&n~
 the banished one has left his cloak here.~
 ~
-11 71337988 1024 5
+11 71337988 263168 5
 0 0 0 0
 10 2000000000 15000
 A
@@ -481,11 +481,11 @@ A
 18 1
 #5988
 obj quest1 dagger ultimate destruction~
-5
+8
 &Rd&Ka&rgg&Ke&Rr &nof &Yul&Wti&ym&Wat&Ye &Kde&bst&Bru&Wc&Bti&Kon&n~
 the weapon that could destroy the world lies here.~
 ~
-5 675545088 1540 8193
+5 675545088 3072 24577
 5281832 7 6 11
 15 2000000 5
 A

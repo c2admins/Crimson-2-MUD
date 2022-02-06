@@ -1,6 +1,6 @@
 #18400
 obj crown crystal~
-5
+15
 &Ccrystal crown&n~
 Here sits a delicate crystal crown.~
 ~
@@ -15,7 +15,7 @@ A
 19 2
 #18401
 obj ring opalescent~
-3
+15
 &Wopalescent &wring&n~
 A tiny opalescent ring is lying here.~
 ~
@@ -32,7 +32,7 @@ A
 13 -20
 #18402
 obj tundra boots~
-5
+20
 &Btundra &yboots&n~
 A pair of rugged cold weather boots is here.~
 ~
@@ -47,7 +47,7 @@ A
 19 2
 #18403
 obj ice shield~
-5
+15
 &Kshield &wof &Cice&n~
 A huge chunk of ice is lying here.~
 ~
@@ -64,7 +64,7 @@ A
 12 -5
 #18404
 obj hoop opalescent~
-3
+15
 &Wopalescent &whoop&n~
 A small opalescent hoop glows here.~
 ~
@@ -81,7 +81,7 @@ A
 12 -15
 #18405
 obj underskirt pleated~
-5
+10
 &wpleated underskirt&n~
 A confusing pile of pleated cloth is lying here.~
 ~
@@ -107,7 +107,7 @@ A ragged looking pile of sinew and leather lies here.~
 4 280000 52000
 #18407
 obj bracer braided twine~
-5
+15
 &ybraided &Gtwine &wbracer&n~
 A wide band of braided twine is here.~
 ~
@@ -122,7 +122,7 @@ A
 18 2
 #18408
 obj gloves rugged worker~
-3
+10
 &yrugged worker gloves&n~
 A pair of rugged, well worn gloves lies here.~
 ~
@@ -137,7 +137,7 @@ A
 13 -10
 #18409
 obj dagger gold-flecked~
-1
+5
 &Yg&yo&Yl&yd&w-&Yf&yl&Ye&yc&Yk&ye&Yd &Kdagger&n~
 A lethal gold-flecked dagger is lying here.~
 ~
@@ -182,16 +182,16 @@ A
 18 -1
 #18412
 obj rucksack~
-5
+80
 &yrucksack&n~
 A pile of rough canvas lies here.~
 ~
 15 0 0 16385
-150 1 0 0
+500 0 0 0
 3 500 50
 #18413
 obj eye eagle~
-10
+25
 &Weye &wof the &Weagle&n~
 An orb resembling an eye floats here.~
 ~
@@ -199,12 +199,12 @@ An orb resembling an eye floats here.~
 0 0 0 0
 10 3075 290
 A
-4 1
-A
 5 1
+A
+18 2
 #18414
 obj feathered cowl~
-10
+25
 &Wfeathered &wcowl&n~
 A feathered cowl lies here.~
 ~
@@ -217,20 +217,20 @@ A
 4 1
 #18415
 obj talon eagle's~
-10
+25
 &Weagle's &Ktalon&n~
 The huge claw of a bird is lying here.~
 ~
-9 524288 0 16385
-5 0 0 0
+9 1048576 0 16385
+10 0 0 0
 9 3500 400
 A
-1 1
+19 2
 A
-19 1
+18 2
 #18416
 obj furred plate~
-10
+25
 &yfurred &wplate of &Ksteel&n~
 A piece of fur covered metal lies here.~
 ~
@@ -243,22 +243,16 @@ A
 23 -1
 #18417
 obj sword fossilized~
-10
+25
 &Kfossilized sword&n~
 An odd stone sword sits here.~
 ~
 5 1048576 0 8193
-0 3 11 3
+16777216 16 2 3
 14 80000 15000
-A
-18 2
-A
-13 -10
-A
-19 1
 #18418
 obj bracer furred~
-10
+20
 &yfurred &wbracer&n~
 A furred wrist bracer is lying here.~
 ~
@@ -271,20 +265,20 @@ A
 12 10
 #18419
 obj belt wide gold~
-10
+25
 &wwide &Yg&yo&Yl&yd &ybelt&n~
 A wide golden belt lies here.~
 ~
 9 2 0 2049
-5 0 0 0
+10 0 0 0
 10 18000 2000
 A
-5 1
+19 1
 A
-2 1
+18 1
 #18420
 obj shield bear hide~
-10
+25
 &ybear hide &Kshield&n~
 A big furry shield rests here.~
 ~
@@ -295,7 +289,7 @@ A
 1 1
 #18421
 obj scrotum furred~
-10
+60
 &yfurred scrotum&n~
 A glowing furred sac lies here.~
 ~
@@ -308,7 +302,7 @@ A
 4 1
 #18422
 obj cloak fine fur~
-10
+30
 &wfine &Wfur &wcloak&n~
 A fancy looking fur cloak lies here.~
 ~
@@ -321,33 +315,29 @@ A
 4 2
 #18423
 obj dagger ritual~
-10
+25
 &writual &Kdagger&n~
 A small ornate dagger is lying here.~
 ~
 5 1048640 0 8193
-0 6 5 11
+64 12 2 11
 3 9450 2380
-A
-13 -10
-A
-4 1
-A
-3 1
 #18424
 obj ring cat's~
-10
+30
 &Kcat's &wring&n~
 A small ring shows itself here.~
 ~
 9 96 0 3
-3 0 0 0
+15 0 0 0
 1 5375 1040
 A
-2 2
+19 1
+A
+18 1
 #18425
 obj shield shining bronze~
-10
+40
 &Wshining &ybronze &wshield&n~
 A shining bronze shield is propped up against the wall.~
 ~
@@ -356,7 +346,7 @@ A shining bronze shield is propped up against the wall.~
 16 800 350
 #18426
 obj plate battle worn metal~
-10
+50
 &wbattle worn &Kmetal &wplate&n~
 A battle worn plate of metal rests here.~
 ~
@@ -369,35 +359,31 @@ A
 13 5
 #18427
 obj lochaber axe~
-10
+20
 &wlochaber &Kaxe&n~
 A lochaber axe leans threateningly against the wall.~
 ~
 5 1048576 0 8193
-0 5 7 3
+64 16 2 0
 15 10000 1000
-A
-1 1
-A
-4 -1
 #18428
 obj boots weathered~
-10
+20
 &yweathered boots&n~
 A pair of heavily weathered boots lies here.~
 ~
 9 1048576 0 65
-9 0 0 0
+10 0 0 0
 10 14000 1250
 A
 19 1
 A
 1 1
 A
-13 5
+18 1
 #18429
 obj gauntlets antique~
-10
+20
 &yantique &Wgauntlets&n~
 A very interesting old pair of gauntlets lies here.~
 ~
@@ -405,14 +391,12 @@ A very interesting old pair of gauntlets lies here.~
 10 0 0 0
 7 16000 1000
 A
-1 1
-A
 19 1
 A
-13 -20
+18 1
 #18430
 obj helmet horsehair crested~
-10
+50
 &yhorsehair crested helmet&n~
 A shiny helmet with a horsehair crest lies here.~
 ~
@@ -425,7 +409,7 @@ A
 24 -2
 #18431
 obj cape dark brown~
-10
+25
 &Kdark &ybrown &wcape&n~
 A pike of rough dark brown cloth lies here.~
 ~
@@ -436,7 +420,7 @@ A
 3 1
 #18432
 obj flail steel~
-10
+25
 &Ksteel flail&n~
 A steel flail is lying in your way.~
 ~
@@ -445,7 +429,7 @@ A steel flail is lying in your way.~
 9 1050 200
 #18433
 obj boot short dark leather~
-10
+25
 &wshort &Kdark &yleather &Kboots&n~
 A pair of short dark leather boots is sitting here.~
 ~
@@ -456,7 +440,7 @@ A
 14 15
 #18434
 obj cape light brown~
-10
+25
 &Wlight &ybrown &wcape&n~
 A pile of rough dark brown cloth lies here.~
 ~
@@ -467,7 +451,7 @@ A
 4 1
 #18435
 obj flail wooden~
-10
+25
 &ywooden &Kflail&n~
 A wooden flail lies here.~
 ~
@@ -476,7 +460,7 @@ A wooden flail lies here.~
 5 605 80
 #18436
 obj hood soft leather~
-10
+25
 &wsoft &yleather &Khood&n~
 A soft pile of leather sits here.~
 ~
@@ -484,12 +468,12 @@ A soft pile of leather sits here.~
 10 0 0 0
 2 12350 1400
 A
-3 2
+19 1
 A
-12 5
+18 1
 #18437
 obj cape soft green~
-10
+25
 &Wa soft &Ggreen &Wcape&n~
 A soft green cape is crumpled here.~
 ~
@@ -502,7 +486,7 @@ A
 3 1
 #18438
 obj flail enchanted~
-10
+15
 &Wenchanted &Kflail&n~
 An enchanted flail is lying here.~
 ~
@@ -521,11 +505,9 @@ A band of marble is lying here.~
 4 0 0 0
 2 5000 435
 A
-13 5
+19 1
 A
-12 5
-A
-14 5
+18 1
 #18440
 obj light forest~
 10
@@ -543,20 +525,20 @@ A
 32 -1
 #18441
 obj band seamless pine~
-10
+50
 &wseamless &gpine &wband&n~
 A wooden band sits here.~
 ~
 9 1048640 0 257
-5 0 0 0
+25 0 0 0
 3 12650 1265
 A
 12 10
 A
-18 2
+19 2
 #18442
 obj knot flaming pine~
-10
+15
 &Rfl&Yami&Rng &gpine &yknot&n~
 A flaming know ot wood rests here.~
 ~
@@ -564,14 +546,12 @@ A flaming know ot wood rests here.~
 0 0 0 0
 6 48000 10000
 A
-12 20
+19 -2
 A
-3 2
-A
-4 2
+25 1
 #18443
 obj cone gilded~
-10
+25
 &Yg&yi&Yl&yd&Ye&yd cone&n~
 A gold plated pine cone lies here.~
 ~
@@ -584,7 +564,7 @@ A
 12 10
 #18444
 obj gloves woven bark~
-10
+60
 &wwoven &ybark gloves&n~
 A pair of woven bark gloves is here.~
 ~
@@ -595,7 +575,7 @@ A
 13 5
 #18445
 obj vest woven bark~
-10
+15
 &wwoven &ybark &cvest&n~
 A woven bark vest is lying here.~
 ~
@@ -608,7 +588,7 @@ A
 1 1
 #18446
 obj band cedar~
-10
+50
 &Gcedar &wband&n~
 A small cedar band rests here.~
 ~
@@ -623,7 +603,7 @@ A
 18 2
 #18447
 obj pants tight woolen~
-10
+70
 &wtight &Wwoolen &wpants&n~
 A pair of long woolen pants lies here.~
 ~
@@ -634,7 +614,7 @@ A
 6 1
 #18448
 obj belt braided kudzu~
-10
+15
 &Gbraided &wkudzu &ybelt&n~
 A piece of strangling vine is lying here.~
 ~
@@ -649,7 +629,7 @@ A
 24 -1
 #18449
 obj strand kudzu~
-10
+20
 &wkudzu strand&n~
 A piece of strangling vine is lying here.~
 ~
@@ -662,7 +642,7 @@ A
 23 -2
 #18450
 obj slippers linen~
-5
+20
 &Wlinen &Cslippers&n~
 A comfortable pair of linen slippers is here.~
 ~
@@ -675,7 +655,7 @@ A
 2 1
 #18451
 obj tap banded~
-5
+20
 &Kbanded &ytap&n~
 A tap is here, attached to its band.~
 ~
@@ -690,7 +670,7 @@ A
 18 2
 #18452
 obj ring maple~
-10
+25
 &ymaple &wring&n~
 A tiny wooden ring rests here.~
 ~
@@ -733,7 +713,7 @@ A
 14 10
 #18455
 obj band wide rigid~
-10
+30
 &wwide &yrigid &wband&n~
 A wide rigid leather band lies here.~
 ~
@@ -748,7 +728,7 @@ A
 2 1
 #18456
 obj boots adhesive~
-10
+25
 &Wadhesive &Kboots&n~
 A pair of sticky bottomed boots rests here.~
 ~
@@ -763,7 +743,7 @@ A
 18 1
 #18457
 obj ring vine~
-10
+20
 &Gvine &Kring&n~
 A tiny string of vine is here.~
 ~
@@ -780,7 +760,7 @@ A
 37 -1
 #18458
 obj gloves adhesive~
-10
+50
 &Wadhesive &ygloves&n~
 A pair of sticky gloves lies here.~
 ~
@@ -810,7 +790,7 @@ A
 2 1
 #18460
 obj sleeves sturdy linen~
-10
+15
 &wsturdy linen sleeves&n~
 A sturdy pair of linen sleeves lies here.~
 ~
@@ -825,7 +805,7 @@ A
 5 1
 #18461
 obj jacket heavy linen~
-10
+15
 &wheavy linen jacket&n~
 A heavily padded linen jacket is here.~
 ~
@@ -842,7 +822,7 @@ A
 14 -5
 #18462
 obj blouse ruffled linen~
-10
+15
 &wruffled linen blouse&n~
 A ruffled linen garment rests here.~
 ~
@@ -857,7 +837,7 @@ A
 4 1
 #18463
 obj ring bone~
-10
+40
 &Wbone &Kring&n~
 A tiny ring of bone lies here.~
 ~
@@ -898,7 +878,7 @@ A
 19 1
 #18466
 obj amulet setting sun~
-10
+40
 &wamulet of the &psetting &Ysun&n~
 An amulet in shades of red and purple is here.~
 ~
@@ -924,7 +904,7 @@ A
 18 2
 #18468
 obj dagger ancients~
-10
+20
 &Kdagger &wof the &pa&Wncients&n~
 A dagger older than time is here.~
 ~
@@ -939,7 +919,7 @@ A
 26 -1
 #18469
 obj bracer day~
-10
+25
 &Kbracer &wof &Yday&n~
 A glowing bracer lies here.~
 ~
@@ -972,11 +952,11 @@ obj sword day~
 The brilliant sword of day is here.~
 ~
 5 2097153 0 8193
-32 5 8 3
+16777216 10 5 3
 21 230000 60000
 #18472
 obj darkness~
-10
+15
 &Kdarkness&n~
 You see darkness.~
 ~
@@ -989,11 +969,11 @@ A
 36 -1
 #18473
 obj plates antiqued leg~
-10
+50
 &Wantiqued &Kleg plates&n~
 A really old looking set of leg plates is here.~
 ~
-9 524288 0 524321
+9 524288 0 33
 9 0 0 0
 9 10000 2000
 A
@@ -1002,7 +982,7 @@ A
 13 5
 #18474
 obj wall darkness~
-10
+15
 &wwall of &Kdarkness&n~
 A mystifying wall of darkness blocks your path.~
 ~
@@ -1024,7 +1004,7 @@ A small gold ring is here.~
 1 1000 100
 #18476
 obj piece time neck~
-10
+50
 &Wenchanted time piece&n~
 An enchanted time piece is here.~
 ~
@@ -1039,7 +1019,7 @@ A
 13 20
 #18477
 obj piece time head~
-10
+25
 &pmagic &Wtime piece&n~
 A magical time piece lies here.~
 ~
@@ -1054,7 +1034,7 @@ A
 12 20
 #18478
 obj cloak warder's~
-10
+80
 Warder's cloak~
 A pile of color-shifting fabric lies here.~
 ~
@@ -1063,7 +1043,7 @@ A pile of color-shifting fabric lies here.~
 1 1000 100
 #18479
 obj claw gryphon's~
-3
+10
 &Kgryphon's &Rclaw&n~
 The lethal talon of the gryphon lies here.~
 ~
@@ -1076,7 +1056,7 @@ A
 18 2
 #18480
 obj blade stone~
-4
+10
 &ystone &Kblade&n~
 A huge stone sword lies here~
 ~
@@ -1209,5 +1189,14 @@ A pair of disembodied hooves quietly tempts you.~
 9 4 0 65
 0 0 0 0
 12 400000 85000
+#18491
+obj Vagaries of Time~
+10
+&rV&Ra&Wg&ra&Rr&Wi&re&Rs&E &WO&rf&E &RT&Wi&rm&Re&E~
+A torch is lying here.~
+~
+5 0 0 8193
+16780288 10 3 3
+1 5 5
 $~
 #999999

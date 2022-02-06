@@ -720,7 +720,7 @@ D1
 Chamber of the Lord
 ~
 door~
-5 429 21037
+13 429 21037
 D2
 clannie room South
 ~
@@ -740,7 +740,7 @@ D5
 clannie room Down
 ~
 door~
-1 0 21049
+9 0 21049
 S
 #21036
 S|H clannie room North~
@@ -762,12 +762,12 @@ D3
 S|H clan tunnel
 ~
 door~
-1 0 21035
+9 0 21035
 D5
 the room that doesn't exist.
 ~
 trap door down~
-17 429 21038
+29 429 21038
 S
 #21038
 Darkness~
@@ -778,7 +778,7 @@ D4
 Chamber of the Lord
 ~
 trap door up~
-17 429 21037
+29 429 21037
 S
 #21039
 S|H clannie room South~
@@ -824,7 +824,7 @@ Scorched Horizons Treasure Room~
    You enter a vast store room.  You see items of every sort lying on the
 ground.  Clan members look through these items and take what they need. 
 ~
-119 1342177288 536870912 1 99 1
+119 1342177292 536870912 1 99 1
 D1
 Dimly lit hallway
 ~
@@ -960,7 +960,7 @@ D4
 S|H clan tunnel
 ~
 door~
-1 0 21035
+9 0 21035
 S
 #21050
 Dairy Farm of DooM~

@@ -465,14 +465,6 @@ The 'corpse' of Darvathain the dwarf lies mingled with other bodies.~
 0 0 10 100
 1 5 5
 E
-corpse~
-'My time...is near...yet I see...the shadows...of death...around you...I see
-much...and dazed am...I...argh...it hurts...my soul...withered...away...
-in the...room...argh...with...my...blue...torch...there is a secret...wall
-...there...you must go...and remember always...Darvathain!......
-remember me...'
-~
-E
 darvathain~
 The dieing dwarf named Darvathain spits out his last words at you,
 'My time...is near...yet I see...now...the death...around you...
@@ -480,6 +472,14 @@ so that...you...may...live...take heart...and live...enter a wall...
 in the...room with...a...blue...torch...the ring...I hid...is yours...
 And speak of ... Darvathain...so that they will re..member.....
 '
+~
+E
+corpse~
+'My time...is near...yet I see...the shadows...of death...around you...I see
+much...and dazed am...I...argh...it hurts...my soul...withered...away...
+in the...room...argh...with...my...blue...torch...there is a secret...wall
+...there...you must go...and remember always...Darvathain!......
+remember me...'
 ~
 #1533
 obj torch blue~
@@ -514,7 +514,7 @@ A large iron chest rests in the middle of the room.~
 30 5 5
 #1536
 obj key treasure room~
-1
+2
 treasure room key~
 The treasure room key to Gerin's vault lies here!~
 ~
@@ -528,17 +528,21 @@ obj gold pile~
 A huge pile of gold is here!~
 ~
 20 262144 0 1
-1000000 0 0 0
+3000000 0 0 0
 1 5 5
 #1538
-obj hammerfang fang fake~
+obj mage boots gerin~
 1
-hammerfang(FAKE)~
-The magic weapon hammerfang has been left here unattended.~
+&cG&Cerin&cs &KB&woot&Ks&n~
+The boots of the arch-mage Gerin rest here, still giving off steam.~
 ~
-5 4194304 0 24577
-0 1 1 11
+9 4194304 0 65
+30 0 0 0
 10 200000 80000
+A
+19 3
+A
+18 2
 #1539
 obj fang hammerfang hammer 2~
 1

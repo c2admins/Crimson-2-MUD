@@ -80,7 +80,7 @@ A bottle of beer has been dropped here.~
 obj flail sam korum~
 40
 Sam's flail~
-A torch is lying here.~
+Someone has left a flail lying in the dirt.~
 ~
 5 524288 0 24577
 0 4 5 6
@@ -92,7 +92,7 @@ A potion of sanctuary~
 Someone has left a powerful potion here.~
 ~
 10 0 0 1
-13 36 0 0
+21 36 0 0
 1 3000 1
 #12634
 obj broadsword innkeeper~
@@ -100,8 +100,8 @@ obj broadsword innkeeper~
 The innkeeper's broadsword~
 Someone has left a heafy sword laying about.~
 ~
-5 771772928 28680 1
-64 10000 0 0
+5 134279168 28680 8193
+64 100 0 0
 10 5 4000
 A
 18 1
@@ -111,12 +111,12 @@ A
 19 1
 #12635
 obj mayor cloak korum~
-25
+40
 The mayor's cloak~
 Someone has left a large cloak laying here.~
 ~
 9 1048576 0 5
-8 0 0 0
+15 0 0 0
 1 3000 3000
 A
 5 2
@@ -160,8 +160,8 @@ Someone has dropped a small green potoin here.~
 20 15 0 0
 1 500 50
 #12639
-obj potion armor bless sustenance~
-32767
+obj Sustenance Potion~
+100
 A potion of minor blessings~
 Someone has left a powerful potion here.~
 ~
@@ -181,7 +181,7 @@ Someone has left a strange red potion here.~
 obj scroll recall~
 100
 A scroll of recall~
-Someone has left a scroll laying here.~
+Someone has left a scroll lying here.~
 ~
 2 0 0 1
 48 42 0 0
@@ -226,7 +226,7 @@ Someone has dropped a nasty flail here.~
 obj citizen ring korum~
 100
 A citizen's ring~
-Someone has left a ring laying here~
+Someone has left a ring lying here.~
 ~
 9 0 0 3
 2 0 0 0
@@ -234,7 +234,7 @@ Someone has left a ring laying here~
 A
 3 1
 #12647
-obj bronze breast plate korum~
+obj Bronze Breast Plate~
 100
 A bronze breast plate~
 Someone has dropped a bronze plate here.~

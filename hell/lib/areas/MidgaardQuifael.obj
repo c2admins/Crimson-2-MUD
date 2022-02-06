@@ -146,8 +146,8 @@ obj quest scythe of death~
 &wthe &KS&wc&Ky&wt&Kh&we &wof &KD&we&Ka&wt&Kh&n~
 The Scythe of Death rests heavily on the ground.~
 reaps~
-5 4456960 0 8193
-523387 4 11 3
+5 4456960 3072 24577
+16776315 8 8 11
 10 30000 10000
 E
 scythe~
@@ -156,8 +156,12 @@ iron blade is completely smooth from countless years of use.  It feels cold to
 the touch.
 ~
 A
-19 1
+19 6
 A
-18 1
+19 4
+A
+41 3
+A
+41 3
 $~
 #999999

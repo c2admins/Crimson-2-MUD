@@ -410,17 +410,9 @@ The Shikonas Sea Ferry rocks with the motion of the waves.~
 70 40 10 9000
 1 3000 5
 E
-sign bow destinations costs~
-The sign is weather beaten but still readable, The Shikonas Sea
-Ferry travels from Cityport of Elmpatris, to the mouth of the Yansu 
-River, through Shikonas Sea to Shikarnith Island, Back to the Yansu 
-River, and finaly back up the coast to Elmpatris. Passage costs 3,000 
-gold coins per person.
-~
-E
-interior~
-The Ferry rocks up and down with the motion of the waves, small rodents 
-scuttle below the deck to get away from the salt water of the Shikonas Sea.
+arrival~
+The Ferryman jumps onto the dock and secures his ferry tightly.  He removes
+a pipe from his unshaven mouth and offers you a passage for 3,000 gold coins.
 ~
 E
 ferry shikonas boat ship~
@@ -429,9 +421,17 @@ of ocean weather, its got a large sign hanging from the bow
 displaying the destination and costs.
 ~
 E
-arrival~
-The Ferryman jumps onto the dock and secures his ferry tightly.  He removes
-a pipe from his unshaven mouth and offers you a passage for 3,000 gold coins.
+interior~
+The Ferry rocks up and down with the motion of the waves, small rodents 
+scuttle below the deck to get away from the salt water of the Shikonas Sea.
+~
+E
+sign bow destinations costs~
+The sign is weather beaten but still readable, The Shikonas Sea
+Ferry travels from Cityport of Elmpatris, to the mouth of the Yansu 
+River, through Shikonas Sea to Shikarnith Island, Back to the Yansu 
+River, and finaly back up the coast to Elmpatris. Passage costs 3,000 
+gold coins per person.
 ~
 #1032
 obj chainmail fine elven~
@@ -514,7 +514,7 @@ obj sapphire butterfly held quest2~
 &bsap&Bph&bire &Wbut&Kt&we&Kr&Wfly&n~
 &bsap&Bph&bire &Wbut&Kt&we&Kr&Wfly&n~
 ~
-1 134479872 1024 16385
+1 134479872 1024 81921
 0 0 0 0
 1 5 5
 A

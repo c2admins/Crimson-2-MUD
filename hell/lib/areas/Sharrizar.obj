@@ -307,7 +307,7 @@ obj nameless hero sword assassination obj quest3~
 &WN&wameles&Ws &RH&rero'&Rs &WS&wwor&Wd &wof &KAssassination&n~
 &KA sword rests here, stuck in the ground.&n~
 ~
-5 134479872 2048 24577
+5 134479872 3072 24577
 4783130 15 15 11
 1 5 5
 A
@@ -317,7 +317,7 @@ A
 A
 17 -50
 #7523
-obj master jedi lightsaber object~
+obj jedi lightsaber imm~
 32767
 &wThe &CM&caste&Cr &CJedi'&Cs &CL&cightsabe&Cr&n~
 &wA jedi must have lost his lightsaber here.&n~

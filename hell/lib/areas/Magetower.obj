@@ -78,7 +78,7 @@ obj necromancer robe obj mage~
 &KNecro&wmancers &rr&Kob&re&n~
 &wA red and black robe has been discarded here.&n~
 ~
-15 4211200 0 1025
+15 4211200 128 1025
 500 0 0 0
 4 5000000 10000
 A
@@ -117,9 +117,9 @@ obj mage obj wand wondrous power~
 1 125000000 1250000
 #24389
 obj tome ancients mage~
-3
+10
 &YT&yom&Ye &wof &Wthe &GA&Cncient&Gs&n~
-A torch is lying here.~
+an old, dust-covered book lies here.~
 ~
 9 2359296 0 16385
 30 0 0 0
@@ -138,7 +138,7 @@ obj conjurer staff mage obj~
 &RC&ronjurer'&Rs &Ys&ytaf&Yf &Wof &Rf&rlam&Re&Ys&ytrik&Ye&n~
 &WA smoldering &Ys&ytaf&Yf &Wlays &Rb&rurnin&Rg&W on the &Gggroun&Gd&W.&n~
 ~
-3 4235265 4096 16385
+3 4235265 266240 16385
 75 6 6 116
 4 2500000 250000
 A
@@ -189,7 +189,7 @@ obj bracers magi mage obj~
 &RB&rrace&Rr &Wof the &YM&yag&Yi&n~
 &WA bracer has been misplaced here.&n~
 ~
-9 88137729 29696 4097
+9 88137729 291968 4097
 25 0 0 0
 1 45000000 4500
 A
@@ -204,7 +204,7 @@ obj arch-magus hat mage obj~
 &WThe &KA&wrc&Kh&W-&YM&yagu&Ys' &yhat&n~
 &WSomeone has lost their wizards hat.&n~
 ~
-9 4251648 28672 17
+9 4251648 290944 17
 25 0 0 0
 1 5 5
 A

@@ -292,7 +292,7 @@ obj scales slatag~
 &GS&gcale&Gs &wof the &KSlatag&n~
 Scales that look like mirrors reflect the light.~
 ~
-9 37753060 0 33
+9 37753060 131072 33
 50 0 0 0
 10 130000 70000
 A
@@ -439,7 +439,7 @@ A key carved from bone rests here.~
 0 0 10 0
 1 5 1000000000
 #21336
-obj girdle cloud giant strength~
+obj girdle storm giant strength~
 1
 &yGirdle &wof &WCl&wo&Wud &yGi&Ka&ynt St&wr&Ken&wg&yth&n~
 A powerful girdle radiates magic.~
@@ -581,7 +581,7 @@ A
 A
 26 -1
 #21346
-obj judgement seas~
+obj judgement skies~
 1
 &WJu&wd&Kgem&we&Wnt &Kof the &CS&cea&Cs&n~
 The judgement of a god lies here.~
@@ -652,28 +652,98 @@ A strange, bright, mist swirls in the form of a key at your feet.~
 0 0 10 0
 1 5 1000000000
 #21351
-obj whisperwind blade sword~
-1
-&G)&yxxx&K{&W::: Whisp&werW&Kind &w:::&K:>&n~
-A long blade lies here, whispering to those who can hear it.~
+obj plague black~
+5
+&KThe Bl&wa&Kck Pl&wag&gu&Ge&n~
+A festering sickness is in the room.~
 ~
-5 138415393 0 8193
-264344 10 4 11
+9 138677025 4 257
+75 0 0 0
 2 402500 150000
 A
-18 2
+40 5
+A
+41 5
+A
+24 -10
+A
+13 100
+#21352
+obj staff black magic~
+1
+&yStaff &wof &KBl&wa&Kck &cM&wa&Wg&wi&cc&n~
+A long staff of blackened cedar lies here.~
+~
+4 4237984 278528 16385
+75 20 20 184
+5 400000 4000000
+A
+17 -25
+A
+19 6
+A
+18 3
+A
+13 -30
+#21353
+obj mask death~
+1
+&KM&was&Kk of Death&n~
+A deadly looking mask lies here.~
+~
+9 4262420 0 1
+25 0 0 0
+1 5000000 3200000
+A
+19 3
+A
+18 3
+A
+36 -1
+A
+12 -25
+#21354
+obj shroud pure evil~
+1
+&KSh&wro&Kud &wof &KPure Evil&n~
+A shroud is here...it emantates dark, forboding powers.~
+~
+12 138414720 4 1025
+0 0 0 0
+1 5 5
+A
+40 -10
+A
+41 -10
+A
+39 -1
+A
+29 -1
+#21355
+obj tounetar's claws~
+1
+&cTo&wu&Knet&wa&cr's &WCl&wa&Wws&n~
+A set of long, jagged claws lie here.~
+~
+5 138412676 0 8193
+8389728 5 9 3
+5 27500000 89911227
+#21356
+obj black furs tuoni~
+1
+&KBl&wa&Kck &yFurs &Kof &cT&wu&Ko&wn&ci&n~
+A set of black furs lie here.~
+~
+15 4194816 0 9
+300 0 0 0
+20 1000000 4520000
+A
+17 76
 A
 19 2
 A
-24 -2
-#21352
-obj staff black magic~
-32767
-A torch~
-A torch is lying here.~
-~
-4 0 0 1
-0 0 0 0
-1 5 5
+18 1
+A
+13 -50
 $~
 #999999

@@ -4,7 +4,7 @@ You are balancing carefully on the giant sticky threads that holds the giant
 web in place.  To the south leads a strand to a cave-like structure made from
 many layers of a spider web.  Another silky strand continues to the north.
 ~
-35 9 0 1 99 6
+64 1048585 0 1 99 6
 D0
 ~
 ~
@@ -24,7 +24,7 @@ You are balancing carefully on the giant sticky threads that holds the giant
 web in place.  To the north leads a strand to a cave-like structure made from
 many layers of a spider web.
 ~
-35 9 0 1 99 6
+64 9 0 1 99 6
 E
 web~
 The immense spider web moves softly.
@@ -36,7 +36,7 @@ You are balancing carefully on the giant sticky threads that holds the giant
 web in place.  To the east leads a strand to a cave-like structure made from
 many layers of a spider web.
 ~
-35 9 0 1 99 6
+64 9 0 1 99 6
 E
 web~
 The immense spider web moves softly.
@@ -48,7 +48,7 @@ You are balancing carefully on the giant sticky threads that holds the giant
 web in place. A single silky strand lead to the south, while another leads
 off into the northern direction.
 ~
-35 9 0 1 99 6
+64 1048585 0 1 99 6
 D0
 ~
 ~
@@ -70,7 +70,7 @@ You begin to wonder about what lies ahead.  The air is damp here,
 and even the little light that shines through the canopy seems
 absorbed into the webbing.
 ~
-35 4 0 1 99 1
+64 1048580 0 1 99 1
 D0
 ~
 ~
@@ -87,7 +87,7 @@ limbs are coated with cobwebs and seem unusually strong for tree
 branches.  Paths lead in four directions.  The eastward path goes
 down a bit.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -111,7 +111,7 @@ Wasp Hive~
 are honeycomb in shape and many of the maggots and wasps you see
 have fang-marks on there bodies.  You sense some order in their markings.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -122,7 +122,7 @@ Webby Passage~
      Another webby passage, all sticky and wet.  Tiny ballooning
 spiders fill the air.  It seems that these young ones are newborns.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -138,7 +138,7 @@ Beneath the Busy Path~
 the footsteps suggest a primitive order in there movement.  The light
 seems brighter upwards.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D3
 ~
 ~
@@ -154,7 +154,7 @@ On the Busy Path~
 with one big difference.  The spiders here are carrying ant-corpses,
 as well as rats, wolves, and humans.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D2
 ~
 ~
@@ -170,7 +170,7 @@ On the Busy Path~
 with one big difference.  The spiders here are carrying ant-corpses,
 as well as cats, wolves, and humans.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -186,11 +186,12 @@ On the Busy Path~
 with one big difference.  The spiders here are carrying ant-corpses,
 as well as cats, dogs, and humans.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
+Towards a large tower.
 ~
 ~
-0 -1 6307
+0 -1 24380
 D1
 ~
 ~
@@ -211,7 +212,7 @@ with cricket feelers.  The other is well-kept and suitable for smooth
 travelling.  The webbing that was prevalent in earlier rooms is almost
 non-existant now.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -231,7 +232,7 @@ Fuzzy Tree Limb~
 seem to have "hairs" sprouting from its bark.  As you look
 closer you see millions of aphids covering each limb.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D2
 ~
 ~
@@ -246,7 +247,7 @@ Tree Trunk~
      You feel that you can rest here safely.  There is evidence of
 webbing here, but it is of a finer quality.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -263,7 +264,7 @@ victims, as evidenced by the remains before you.  The area
 is cluttered with desiccated corpses, apparently bitten
 but unwebbed, and drained of their life juices.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -279,7 +280,7 @@ Wolf Spider Lair~
 save an exit.  The wolf spider keeps no corpses here, but rather
 throws them out at her leisure.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -291,7 +292,7 @@ The Webless Path~
 The path continues northward, where you find that you may have to
 tightrope your way across a ravine.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -309,7 +310,7 @@ Below you can see a prismatic web with lots of animal bones caught in it:
 some bear and small deer bones in fact.  No human skeletons are visible
 (yet).
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -329,7 +330,7 @@ The Rainbow Web~
 sharp colors and contrasts.  The resident here seems to have a command
 of light as well.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D4
 ~
 ~
@@ -341,7 +342,7 @@ The Web Forest~
 anymore, but disjointed make-shift silken made shafts, sticky to the touch,
 and webby in texture.  This is another world it would appear.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -357,7 +358,7 @@ The Slave Pit~
 "Get back to work, maggots!"  Rails upon rails of mined gold and silver
 clutter the trail beneath you.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -373,7 +374,7 @@ The Tether Path~
 -lit by the golden orbs that hang from the sides, you can see the paths
 become finer and finer in quality.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -387,7 +388,7 @@ S
 A Road Crossing~
      Another shifty little strand of webs, almost ethereal in nature.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D3
 ~
 ~
@@ -404,7 +405,7 @@ it.  You are definitely not in the Midgaardian realms anymore.  Just
 where you are you can't tell.  It feels like you're moving through
 ether.  You can still get back down to more surer lands.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -420,7 +421,7 @@ The Entrance of the Ethereal Web~
 in and out, each strand reveals a different hue from black to green
 to blue.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D2
 ~
 ~
@@ -434,7 +435,7 @@ and eaten later.  You sense that the maker of this place has
 an appetite for dragon meat, and uses this room as a breeding
 area.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D4
 ~
 ~
@@ -447,7 +448,7 @@ flickers within the ether.  You see many flying creatures--
 insects, pegasi, and dragon wormkins--navigate the dangerous
 passages of the web.  Exits go in many directions.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -471,7 +472,7 @@ Through the Trees~
 trees.  Various leaves and other debris that the many drones
 have not picked up yet lie here.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -491,7 +492,7 @@ Above the Clouds~
 of the larger dragons that do wish to fly seem to fly
 away from the sticky strands of the web.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -510,7 +511,7 @@ On A Cloud~
      Rather thick in consistency.  You realize this is not
 a typical cloud, but it might be the nest of an aerial creature.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D5
 ~
 ~
@@ -521,7 +522,7 @@ A Link in the Ethereal Web~
      This is another link in the ethereal web.  Various creatures
 seem to get caught (or hypnotized) by its sticky strands.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -536,7 +537,7 @@ The Tenuous Strand~
      Very windy here since it goes up into the sky somewhat.
 Still, it's safe enough to move around.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D2
 ~
 ~
@@ -555,7 +556,7 @@ The Elder Wormkin's Room~
      A more mature wormkin it seems resides here.  Various tomes of
 arcane lore clutter the area, along with shards of armor and weaponry.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D5
 ~
 ~
@@ -566,7 +567,7 @@ Another Tree Limb~
      Once again the web crosses another tree limb.  To the side you
 see the possible entrace to another creatures lair.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -586,7 +587,7 @@ The Bird Spider's Lair~
 and other weapons suggest the inhabitant must have powerful jaws.
 Beware!
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D5
 ~
 ~
@@ -597,7 +598,7 @@ A Link in the Ethereal Web~
      This is another link in the ethereal web.  Various creatures
 seem to get caught (or hypnotized) by its sticky strands.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D2
 ~
 ~
@@ -616,7 +617,7 @@ The Quiet Tree Top~
      Here is a quiet tree top.  Downwards you can see a familiar path
 that may lead back to Midgaard.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D3
 ~
 ~
@@ -632,7 +633,7 @@ On The Web~
 of a powerful beast.  Dragon, you think.  You shiver in your boots
 as you tiptoe on this section of the web.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -651,7 +652,7 @@ The Ki-Rin Chamber~
 A wise ki-rin ws entrapped here many years ago.  It is from her
 that the ruler of this realm saps his magical strength.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -663,7 +664,7 @@ A Link in the Ethereal Web~
 seem to get caught (or hypnotized) by its sticky strands.  To
 the north you sense the heavy breathing of a fiery animal.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -679,7 +680,7 @@ Yevaud's Lair~
 out, "BEWARE, the Usurper of Midgaard lives here!  FLEE while you can!"
 But even Yevaud has his master...or so you deduce.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D2
 ~
 ~
@@ -692,7 +693,7 @@ seem to get caught (or hypnotized) by its sticky strands.  A single
 spider line lies to the north, while ghastly seemings are due
 southward.  The grim entrance of Arachnos' Lair is downward.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -717,7 +718,7 @@ a torch lit chamber where the souls of unavenged adventurers
 come and gnash their teeth.  The howls and screams of many echo
 through the hall ways.  You see one definite path ahead.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -728,7 +729,7 @@ The Guardian's Room~
      A chair sits here for a tireless guardian who ensures that no
 soul escapes.  The room is undecorated.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -745,7 +746,7 @@ They search for those who killed them without warrant, and seek the
 free souls of living beings to inhabit and perhaps adventure once
 more.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -758,7 +759,7 @@ They search for those who killed them without warrant, and seek the
 free souls of living beings to inhabit and perhaps adventure once
 more.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -776,7 +777,7 @@ you hear.  The walls are thin and wispy.  The only light you receive
 is the shimmering from the strand of the ethereal web you used to get
 here.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -789,7 +790,7 @@ across the ether you seen a single shack up ahead with a light in
 the window.  You sense a great evil coming from the north and feel
 inclined to go back on the ethereal web and take your chances there.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -804,7 +805,7 @@ The Single Spider Line~
      A single spider line supports you once more.  The shack comes
 closer into view and you are even more inclined to go back now.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -821,7 +822,7 @@ north, if you dare enter it.  You get the sneaking feeling you should
 go back now.  The skies above you darken and roar with the laughter
 of thunder.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D0
 ~
 ~
@@ -837,14 +838,14 @@ Mahatma's Inescapable Trap~
 have.  He says, "Here, have a quick trip to the Temple of Midgaard."
 He plugs a black dagger into your back...
 ~
-35 6 0 1 99 0
+64 1048582 0 1 99 0
 S
 #6390
 The Entrance to the Arachnos' Lair~
      All strands inevitably lead here, the center of the web, the
 entrance to Arachnos' Lair.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -858,7 +859,7 @@ web, surprisingly unsticky.  The strand does not vibrate like the
 others.  A few ballooning spiders pass by, cackling "You're gonna
 die, you're gonna fry.  Good bye!"
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D1
 ~
 ~
@@ -874,7 +875,7 @@ The Great Door~
 of ancient runes and names of Midgaard heroes are etched into
 the webwork.  Perhaps lists of victims?  You can't tell.
 ~
-35 8 0 1 99 2
+64 1048584 0 1 99 2
 D0
 ~
 door~
@@ -893,7 +894,7 @@ Coffers upon coffers of gold, magical jewels and gems await.  Unfor-
 tunately Arachnos is a baggy spider too, and webs all her treasures
 to her beautiful silken body.
 ~
-35 0 0 1 99 2
+64 1048576 0 1 99 2
 D2
 ~
 door~

@@ -4,7 +4,7 @@ obj studded leather gloves precision~
 &YS&ytudde&Yd &yleather &ygloves &wof &YP&yrecisio&Yn&n~
 &wA pair of &yleather gloves &wcovered with &Yb&yras&Ys &ystudds &wlay here.&n~
 ~
-9 4247552 28672 129
+9 4247552 422016 129
 5 0 0 0
 4 4000000 25000
 A
@@ -21,7 +21,7 @@ obj thieving belt dexterity object~
 &WT&whie&Kving &ybelt &wof &WD&wexterit&Wy&n~
 &wAn old worn out &ybelt &wlays crumpled up in a pile on the &yground&w.&n~
 ~
-15 4247552 28672 2049
+15 4247552 422016 2049
 300 0 0 0
 3 150000 15000
 A
@@ -38,7 +38,7 @@ obj Thieving boots Dexterity object~
 &WT&whie&Kving &yboots &wof &WD&wexterit&Wy&n~
 &wAn old worn out pair of &yboots&w lay crumpled over on the &yground&w.&n~
 ~
-9 4247552 28672 65
+9 4247552 422016 65
 25 0 0 0
 1 2500000 250000
 A
@@ -107,16 +107,16 @@ obj butchers cleaver object~
 1 5 5
 #24107
 obj cooking pot object~
-1
+100
 &WA cooking &Kpot&n~
 &WA cooking &Kpot&W rests here.&n~
 ~
-15 8 0 0
+15 0 0 1
 500 0 0 0
 1 5 5
 #24108
 obj chefs secret stew object potion~
-0
+1
 &yThe chefs secret stew.&n~
 &yA vial has been discarded here.&n~
 ~
@@ -138,7 +138,7 @@ obj master thieves shortsword of piercing~
 &wThe &Wl&wegendar&Wy &Wshortsword &wof &Wpiercing&n~
 &WA brilliant looking shortsword has been misplaced here.&n~
 ~
-5 4247552 28672 8193
+5 4247552 290816 8193
 5640 4 11 11
 1 5 5
 A

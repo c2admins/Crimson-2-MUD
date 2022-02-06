@@ -126,7 +126,7 @@ the demon vulture
 Kyranchix' pet vulture is here.  He has a razor sharp beak and is more than 
 prepared to defend his master.  The gleam in his eye may be the death of you.
 ~
-17096718 32769 136249361 524296 -450 S
+17039374 32769 136249361 524296 -450 S
 25 15 18 11d19+2000 8d5+21
 17250 75250
 8 8 0
@@ -141,7 +141,7 @@ A large pale Bear-Ogre is here.  It looks incredibly mean and has a shock
 of dirty white furr covering dangling limbs.  It appears incredibly strong
 but a touch stupid and not quite as nimble as you.
 ~
-16834586 1 136249361 536870920 -150 S
+16777242 1 136249361 536870920 -150 S
 23 17 21 89d19+1000 7d7+11
 12350 69300
 8 8 0
@@ -155,7 +155,7 @@ Kyranchix must have played around with an evil magic as he has crossed a
 lizard and a rat and it is nearly as large as a human.  A white froth is at
 it's lips and you wonder if it might be deadly.
 ~
-17162254 1 136249361 8 0 S
+17104910 1 136249361 8 0 S
 24 16 20 100d19+1000 8d7+10
 15000 73000
 8 8 0
@@ -561,12 +561,12 @@ The maze demon awaits you perhaps you should not go astray
 A creature of the maze stands here ready to interrupt you progress.  He has
 glowing red eyes and noticed you before you noticed him.
 ~
-319496 32769 136249361 138 -250 S
+266248 32769 136249361 138 -250 S
 23 17 21 9d9+900 10d5+9
 12350 71250
 8 8 0
 7 0 17 15 14 15 15 11
-SKILL=SPELL_GAS_BREATH 56
+SKILL=SPELL_GAS_BREATH 30
 #7629
 mob monk phyrshanct~
 A phyrshanct monk~

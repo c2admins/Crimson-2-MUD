@@ -4,8 +4,8 @@ obj quest shatterer~
 &wThe &KS&whattere&Kr &wof a T&Whousan&wd &cD&Cream&cs&n~
 The shatterer of many dreams lies here, in a large pile of rubble.~
 ~
-5 138674185 2048 24577
-16776251 8 8 11
+5 138674177 3072 24577
+33553467 8 8 11
 15 5 5
 A
 19 6
@@ -237,7 +237,7 @@ obj fields bloody thorn crown~
 &YC&yrow&Yn &wof &rT&Rhorn&rs&n~
 the legendary crown of thorns bleeds just for you~
 ~
-9 4200468 0 17
+9 4200468 131072 17
 5 0 0 0
 7 4500000 45000
 A
@@ -361,7 +361,7 @@ A
 A
 19 3
 #8924
-obj fields legplates land~
+obj fields legplates lands~
 1
 &pL&Ke&pg&Kp&pl&Ka&pt&Ke&ps &Ko&pf &Kt&ph&Ke &yLands&n~
 some dirty legplates glow here~
@@ -421,7 +421,7 @@ A
 A
 12 -10
 #8928
-obj fallen angel wings~
+obj fallen angel wings imm~
 100
 &KThe Blackened Wings of the F&wa&Kl&wl&Ke&wn &WAngel&n~
 The fallen angel has left his wings here.~
@@ -438,7 +438,7 @@ A
 A
 25 100
 #8929
-obj fields land ring~
+obj fields lands ring~
 3
 &CR&ci&Cn&cg &Co&cf &Ct&ch&Ce &yLands&n~
 A ring filled with fury gleems in the darkness.~
@@ -494,7 +494,7 @@ obj fields divine amulet~
 &wThe Amulet of the &GDivine&n~
 The cloak of the divine lies here.~
 ~
-9 4235328 1024 5
+9 4235328 263168 5
 20 0 0 0
 7 3500000 15000
 A
@@ -807,7 +807,7 @@ A
 A
 14 -10
 #8954
-obj Shi'Ihi Claw Dragon~
+obj dragon claw imm~
 100
 &RThe Claw of the &rDragon &GSha'Ihi&n~
 The claw of the dragon Sha'Ihi lies here amidst the rubble.~
@@ -829,7 +829,7 @@ obj fields killer mask~
 &bMask of a Killer&n~
 A killers mask lies here covered in fresh blood.~
 ~
-9 4216836 0 17
+9 4216836 131200 17
 15 0 0 0
 10 10000000 10000
 A
@@ -1040,7 +1040,7 @@ to enter it.  Whoever owns this is going to come back, and maybe you shouldn't
 stay around much longer....
 ~
 #8973
-obj squish toy~
+obj coria toy imm~
 100
 &PC&Ro&Pr&Ri&Pa &RS&Pq&Ru&Pi&Rs&Ph &RT&Po&Ry&n~
 A Coria squish toy has been left here.~
@@ -1195,7 +1195,7 @@ A
 17 -50
 #8985
 obj quest chains angel~
-0
+2
 &KChains of an &WAngel&n~
 &KChains of an &WAngel&n~
 ~
@@ -1216,7 +1216,7 @@ obj quest skin laced sandals~
 &ySkin &KLaced &ySandals&n~
 &ySkin &KLaced &ySandals&n~
 ~
-9 4456448 0 65
+9 262144 0 65
 30 0 0 0
 1 5 5
 A

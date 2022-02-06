@@ -73,7 +73,7 @@ blue. You also notice that he seems to have a lot of mobility for someone
 wearing full plate, as well as the fact that he moves without making a sound.
 ~
 1074006286 32769 136249393 1040711848 500 S
-40 0 -8 200d1+30000 20d4+70
+40 0 -8 100d1+9000 20d4+70
 800000 900000
 8 8 1
 1 4 24 22 23 19 19 21
@@ -211,7 +211,7 @@ so singled out, rest and sleep is denied. The mere act of closing one's eyes can
 the soul, and those that do not kill themselves soon succumb to lack of sleep.
 ~
 262926 1 136249361 637534376 0 S
-50 -15 -40 50d1+50000 20d20+50
+50 -15 -40 50d1+40000 20d20+50
 5000000 2500000
 8 8 1
 0 0 26 25 26 25 22 22
@@ -235,7 +235,7 @@ incredibly hard.  His head is mostly mouth with a huge metallic
 object stuck atop.  The Slatag prepares to charge.
 ~
 1140973580 2916353 136249393 1325662760 -400 S
-50 -10 -40 30d1+45000 25d13+40
+50 -10 -40 20d1+35000 25d13+40
 5000000 2500000
 8 8 0
 0 0 24 23 21 23 20 19
@@ -276,7 +276,7 @@ have a life of its own as well.  The greens of it seem to be a
 smoke which moves about the purple fabric.
 ~
 1141112846 262145 136249361 570687656 0 S
-45 -5 -40 30d1+30000 20d10+99
+45 -5 -40 20d1+15000 20d10+99
 1400000 1400000
 8 8 1
 1 0 27 25 26 25 24 24
@@ -297,7 +297,7 @@ He also invented the world's first harp, using the bones of a gigantic pike and 
 presumably equally gigantic).
 ~
 262926 1 136249361 100663464 200 S
-49 -15 -40 14d1+56000 70d10+99
+49 -15 -40 14d1+30000 70d10+99
 4500000 2250000
 8 8 1
 0 0 24 22 22 22 22 20
@@ -323,7 +323,7 @@ in Hamlet, Kullervos sword replies, bursting into song affirming that if it glad
 foul deeds, it would gladly drink of his blood also.
 ~
 319758 1 136249361 100663464 0 S
-48 -5 -40 1d1+48000 25d15+100
+48 -5 -40 14d1+30000 25d15+100
 3500000 1440000
 8 8 1
 0 0 24 25 23 23 22 20
@@ -345,7 +345,7 @@ severed pieces of the fallen heros body from the black river of death, she puts 
 son by means of the nectar of immortality fetched for her from heaven by the honey bee. 
 ~
 262926 1 136249361 100663464 50 S
-50 -25 -40 14d1+65000 25d15+100
+50 -25 -40 14d1+30000 25d15+100
 5000000 2500000
 8 8 1
 0 0 23 23 21 22 20 18
@@ -371,7 +371,7 @@ This gadget was supposed to buy a bride for VAINAMOINEN, but things didn't work 
 and they snatched it back. During a chase it got lost at sea, but it still grinds out salt.
 ~
 262926 1 136249361 100663464 50 S
-49 -26 -40 14d1+60000 25d15+100
+49 -26 -40 14d1+30000 25d15+100
 4500000 2250000
 8 8 1
 0 0 24 22 23 23 21 22
@@ -419,7 +419,7 @@ she felt a stirring inside her. VAINAMOINEN had woken up after so many years and
 world. 
 ~
 262926 32769 136249361 637534376 500 S
-50 -40 -40 50d1+90000 25d25+99
+50 -40 -40 14d1+60000 25d25+99
 5000000 2500000
 8 8 2
 0 0 26 26 24 24 25 23
@@ -468,7 +468,7 @@ fresh puss. She is wicked and fickle, sparing some and killing others with no ob
 that she enjoys greatly the slow suffering caused by illness. It is said that Kiputytto is mother of Diancecht.
 ~
 385806 32769 136249361 637534376 -1000 S
-50 -35 -40 50d1+55000 20d20+50
+50 -35 -40 14d1+40000 20d20+50
 5000000 2500000
 8 8 2
 0 0 27 25 26 26 24 25

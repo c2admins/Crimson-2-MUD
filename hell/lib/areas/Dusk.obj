@@ -218,14 +218,14 @@ An incredible work of art hangs here for all to see.~
 0 0 10 0
 10 5 5
 E
-paint~
-~
-E
 painting~
 The party of Rivenberg is torn from its sleep as a giant bat and 
 the monsterous Vatang haul away Lady Gabrielle and Jundar.
 Tristan screams in frustration as massive werewolves cut off his 
 pursuit of the vile beast.
+~
+E
+paint~
 ~
 #1918
 obj Painting Beautiful Art~
@@ -430,7 +430,7 @@ obj enchanted teak shield~
 &wEnchanted &yTeak &wShield&n~
 A shield made from teak is propped against the wall.~
 ~
-9 4215553 28672 513
+9 4215553 159744 513
 60 0 0 0
 25 300000 85000
 A

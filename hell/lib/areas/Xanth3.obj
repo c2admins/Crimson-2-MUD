@@ -96,7 +96,7 @@ A
 A
 41 5
 #707
-obj hugh hefner jacket~
+obj hugh hefner imm~
 32767
 Hugh Hefner's &KS&wm&Wo&Kk&wi&Wn&Kg &rJ&ya&Yc&rk&ye&Yt&n~
 Ew, this jacket stinks.~
@@ -113,7 +113,7 @@ A
 A
 41 5
 #708
-obj gomez adam cigar~
+obj Gomez Adams imm~
 32767
 Gomez Adam's &yCigar&R:&w:&n~
 Ow, don't burn yourself.~
@@ -130,7 +130,7 @@ A
 A
 40 5
 #709
-obj brass balls pair~
+obj brass balls imm~
 32767
 One Big Pair of &yBr&ra&yss&n Balls~
 Ew, don't touch it. You don't know where it's been.~
@@ -145,7 +145,7 @@ A
 A
 40 5
 #710
-obj boom stick~
+obj boom stick imm~
 32767
 &KB&roo&Km &rSt&Ki&rck&n~
 You see this lying on the ground? Dude, someone's in trouble...~
@@ -160,7 +160,7 @@ A
 A
 40 30
 #711
-obj chainsaw~
+obj chainsaw imm~
 32767
 &KCh&rains&Kaw&n~
 This really shouldn't be lying on the ground, damn them spirits.~
@@ -307,7 +307,7 @@ obj flaming turducken bill~
 &RA flaming turducken bill&n~
 Someone has left a strange turducken bill here.~
 ~
-5 0 2048 24577
+5 262144 2048 24577
 13238203 13 16 3
 1 5 5
 A

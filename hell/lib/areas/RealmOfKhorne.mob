@@ -181,7 +181,7 @@ assist in battles at distant worlds where he has the power to make a whole
 army flee at the sight of him.
 ~
 8654874 32769 136249361 0 -1000 S
-49 -26 -28 100d19+35000 15d10+90
+49 -26 -28 100d19+35000 15d20+90
 2000000 1301201
 8 8 1
 7 4 20 20 20 20 20 10
@@ -210,7 +210,7 @@ snarl at you loudly. The blade he holds is made out of the same black
 substance as his body in glows with an faint redness.
 ~
 8712218 32769 136249361 0 -1000 S
-48 -25 -32 100d19+35000 15d9+95
+48 -25 -32 100d19+35000 15d15+95
 2000000 1321201
 8 8 1
 7 4 20 20 20 20 20 10
@@ -291,19 +291,23 @@ what they desire, to great warriors, and to the mighty war leaders.
 Khorne repects strength, honour, and martial skill.
 ~
 42209306 32769 136249361 0 -1000 S
-50 -26 -34 1d1+59999 25d25+35
+50 -59 -34 1d1+79999 25d25+35
 5500000 2500000
 8 8 1
 7 4 20 20 20 20 20 10
 SKILL=SKILL_PARRY 80
-ATTACK_SKILL=90
-ATTACK_SKILL=90
-ATTACK_SKILL=90
-ATTACK_TYPE=103
-ATTACK_SKILL=90
-ATTACK_SKILL=90
+ATTACK_SKILL=99
+ATTACK_SKILL=99
 ATTACK_SKILL=90
 ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_TYPE=103
+ATTACK_SKILL=99
+ATTACK_SKILL=99
+ATTACK_SKILL=90
+ATTACK_TYPE=108
 #1312
 mob Arbaal destroyer champion khorne  ~
 &yA&Yrbaa&yl &wthe &KDestroyer&n~
@@ -315,7 +319,7 @@ felt his blade at their necks and now their white skulls lie at the
 feet of Khorne.
 ~
 8655386 32769 136249361 0 -500 S
-48 -26 -30 20d19+29000 20d25+30
+48 -26 -30 20d19+29000 25d25+35
 2250000 1500000
 8 8 1
 1 4 20 20 20 20 20 10
@@ -325,8 +329,8 @@ ATTACK_SKILL=99
 ATTACK_SKILL=99
 ATTACK_TYPE=103
 ATTACK_SKILL=99
-ATTACK_SKILL=75
-ATTACK_SKILL=0
+ATTACK_SKILL=90
+ATTACK_SKILL=89
 ATTACK_TYPE=108
 #1313
 mob Hound Khorne flesh    ~

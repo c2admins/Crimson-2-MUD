@@ -239,7 +239,7 @@ obj raphael seal heavens~
 &WRaphael's &BSeal&n~
 Someone has left a large seal here.~
 ~
-9 4238336 5120 4097
+9 4238336 267264 4097
 10 0 0 0
 5 45000 45000
 A
@@ -256,7 +256,7 @@ obj barachiel wing heavens~
 &CBarachiel's &bwing&n~
 Someone has left an angel's wing here.~
 ~
-15 104901634 0 1025
+15 104901634 262144 1025
 350 0 0 0
 75 300000 300000
 A
@@ -273,7 +273,7 @@ obj michael breast plate heavens~
 &WMichael's &YB&yr&Ye&ya&Ys&yt &YP&yl&Ya&yt&Ye&n~
 Someone has left a rather large breast plate laying here.~
 ~
-9 4217856 8192 9
+9 4217856 139392 9
 75 0 0 0
 10 350000 35000
 A
@@ -307,7 +307,7 @@ obj heaven wing gabriel~
 &RGabriel's &Bwing&n~
 A powerful set of wings lay here.~
 ~
-15 104885248 16384 1025
+15 104885248 16512 1025
 500 0 0 0
 1 350000 350000
 A
@@ -324,7 +324,7 @@ obj heaven raphael silvery leggings~
 &SRaphiel's &wsilvery &Sleggings&n~
 Someone has dropped some powerful leggings here.~
 ~
-9 88124416 5120 33
+9 88124416 267264 33
 40 0 0 0
 1 500000 50000
 A
@@ -341,7 +341,7 @@ obj michael's wing heaven~
 &YMichael's &Swing&n~
 A torch is lying here.~
 ~
-9 4209664 0 1025
+9 4209664 131072 1025
 40 0 0 0
 1 5 5
 A

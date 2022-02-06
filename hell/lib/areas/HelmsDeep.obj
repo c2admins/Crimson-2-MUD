@@ -4,7 +4,7 @@ obj theodon crown helms~
 &Y\|/&W=&C*&W=&Y\|/&n~
 &wA grand looking crown lays here.&n~
 ~
-9 104870912 16384 17
+9 104870912 147456 17
 0 0 0 0
 3 5 10000
 A
@@ -116,7 +116,7 @@ obj chainmail rugged helms~
 &wRugged looking &KChain&wmail&n~
 &wA suit of chainmail has been left behind.&n~
 ~
-9 88084480 8192 9
+9 88084480 139264 9
 80 0 0 0
 25 5 5
 A
@@ -151,7 +151,7 @@ obj leather sheath helms~
 &wA &yleather &wsheath&n~
 &wA empty &ysheath&w lays here on the ground.&n~
 ~
-15 4200448 8192 2049
+15 4200448 139264 2049
 500 0 0 0
 5 500000 50000
 A
@@ -216,7 +216,7 @@ obj eowyn's robes helms~
 &WA beautiful silk robe&n~
 &WA silk robe has been misplaced here.&n~
 ~
-15 88187904 0 1025
+15 88187904 262144 1025
 500 0 0 0
 1 1000000 10000
 A
@@ -267,7 +267,7 @@ obj eye sauron helms2~
 &rE&Ry&re &wof &YSau&Rron&n~
 &wA &Yb&rur&Rn&rin&Yg &rred &Keye &wfloats before you.&n~
 ~
-15 239106560 24580 17
+15 239106560 155780 17
 400 0 0 0
 1 5 5
 A
@@ -284,7 +284,7 @@ obj white wizards robe helms~
 &c&wThe &WWhite &cW&wizard&cs &yRobe&n~
 &wA crumpled up &Wrobe &whas been discard here.&n~
 ~
-15 4238592 4096 1025
+15 4238592 266240 1025
 500 0 0 0
 5 2500000 250000
 A
@@ -299,9 +299,9 @@ A
 obj white wizards staff helms~
 1
 &wThe &WWhite &cW&wizard&cs &WStaff&n~
-A torch is lying here.~
+an intricate white staff leans on the wall.~
 ~
-9 4238401 4096 16385
+9 4238401 266240 16385
 25 0 0 0
 4 600000 200000
 A

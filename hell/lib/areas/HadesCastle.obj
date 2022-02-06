@@ -287,7 +287,7 @@ obj angel death~
 A huge, black blade lies here, screaming for a victim.~
 ~
 5 440404484 0 8193
-458851 8 7 3
+8388707 8 7 3
 6 216500 150000
 A
 19 1
@@ -310,7 +310,7 @@ A
 obj drinker souls~
 100
 &yDrinker &wof &Ks&wo&Ku&wl&Ks&n~
-A rolled up scroll lies here.~
+A rolled up scroll lies on the ground.~
 ~
 2 262145 512 1
 48 25 25 25
@@ -323,8 +323,23 @@ obj claws unending pain~
 &yclaws &Kof u&ynen&Kdin&yg pain&n~
 Some claws lie here, dripping flesh.~
 ~
-5 138414592 0 8193
-10240 6 6 11
+5 239075328 0 8193
+10240 2 13 11
 3 189000 90000
+#1777
+obj Bony Finger Death~
+2
+&rA&E &RB&ro&Rn&ry&E &RF&ri&Rn&rg&Re&rr&E &RO&rf&E &RD&re&Ra&rt&Rh&E~
+A torch is lying here.~
+~
+9 4194304 0 3
+20 0 0 0
+1 10000 10000
+A
+19 3
+A
+18 2
+A
+13 -30
 $~
 #999999

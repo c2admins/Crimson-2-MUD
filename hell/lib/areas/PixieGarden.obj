@@ -36,10 +36,10 @@ A
 A
 2 2
 #5453
-obj kravat silken~
+obj cravat silken~
 10
 &wa s&Wilke&wn &ccravat&n~
-A crumpled silken kravat lies here.~
+A crumpled silken cravat lies here.~
 ~
 11 17301504 0 5
 0 0 10 0
@@ -412,15 +412,15 @@ A
 37 -1
 #5484
 obj leggings enchanted~
-10
+25
 &We&Gnc&ghan&Gte&Wd &yleggings&n~
 A pair of enchanted leggings is here for you.~
 ~
-9 17301504 0 33
-4 0 0 0
+9 1572864 0 33
+20 0 0 0
 4 75000 5000
 A
-12 10
+18 2
 #5485
 obj sash mother~
 10

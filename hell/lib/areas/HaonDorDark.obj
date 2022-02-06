@@ -28,15 +28,15 @@ A colossal tree blocks the way westwards.~
 1000 0 0 0
 0 0 0
 E
-opening~
-The opening is far too narrow for you to squeeze through but it looks as if the
-tree is hollow.
-~
-E
 tree~
 This enourmous tree must be a thousand years old.  Its rough bark looks grey
 and pale and is decorated with scratches and clawmarks.  On its west side is a
 small opening just above ground level.
+~
+E
+opening~
+The opening is far too narrow for you to squeeze through but it looks as if the
+tree is hollow.
 ~
 #6103
 obj branch~
@@ -159,7 +159,7 @@ obj bracer green dragon scale~
 &KA &GG&gree&Gn &KD&wr&Wag&wo&Kn&Gs&gcal&Ge &KBracer&n~
 A bracer made from the scales of a green dragon lies here.~
 ~
-9 138418688 0 4097
+9 138418688 131072 4097
 15 0 0 0
 3 450000 50000
 A
@@ -174,7 +174,7 @@ obj bracer green dragon scale~
 &KA &GG&gree&Gn &KD&wr&Wag&wo&Kn&GS&gcal&Ge &KBracer&n~
 A bracer made from the scales of a green dragon lies here.~
 ~
-9 138433092 0 4097
+9 138433092 131200 4097
 0 0 0 0
 5 40000 400000
 A

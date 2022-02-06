@@ -43,7 +43,7 @@ obj guardian cloak felix~
 &GA guardi&Wans cl&Goak&n~
 Someone has dropped a guardians cloak here.~
 ~
-9 4214784 8192 5
+9 4214784 139264 5
 0 0 0 0
 1 5 5
 A
@@ -73,7 +73,7 @@ obj fagus sceptre felix~
 &GKing &WFagus&G's Mig&Whty r&Goya&gl sc&Wept&Ger&n~
 Someone has dropped a mighty scepter here.~
 ~
-9 37754880 0 16385
+9 37754880 131072 16385
 5 0 0 0
 40 5 25000
 A
@@ -90,7 +90,7 @@ obj fagus amulet felix~
 &GKing Fa&Wgus's&g might&Gy am&Wulet&n~
 Someone has dropped a fearsome amulet here.~
 ~
-9 4235264 20480 5
+9 4235264 282624 5
 30 0 0 0
 1 5 5
 A
@@ -107,7 +107,7 @@ obj xelifian ring felix~
 &wXelifian &rring &wof &Khaste&n~
 Someone has dropped a small ring engraved with X on it.~
 ~
-9 4214784 0 3
+9 4214784 131072 3
 15 0 0 0
 1 5 5
 A

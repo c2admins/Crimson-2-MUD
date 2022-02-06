@@ -2,7 +2,7 @@
 Serhasa's Room~
 Another room sitting around :)
 ~
-111 8 0 1 99 1
+80 12 0 1 99 1
 D4
 void~
 ~
@@ -13,7 +13,7 @@ The borders of the Old Forest.~
 You stand at the borders of the enchanted Old Forest. To the north you can
 see that there is a little path that goes into the heart of the forest.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 the path leads north.
 ~
@@ -27,11 +27,6 @@ D2
 The great silt road.~
 ~
 0 -1 14401
-D3
-&GA path has since long faded away.&n
-~
-~
-0 -1 14000
 S
 #14002
 A small path in the dark forest.
@@ -40,7 +35,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues north.~
 ~
@@ -52,8 +47,8 @@ The path continues south.~
 D3
 &GA path has long since faded away.&n
 ~
-~
-0 -1 24100
+west~
+57 0 24100
 S
 #14003
 The borders of the Old Forest.~
@@ -61,7 +56,7 @@ You stand at the edge of the old forest. You look about you and notice that
 it is very dark inside the forest and you also hear strange sounds that
 send shivers up your spine.
 ~
-111 12 0 1 99 1
+80 12 0 1 99 1
 D1
 dark forest.~
 ~
@@ -78,7 +73,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues to the north.~
 ~
@@ -95,7 +90,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues to the north.~
 ~
@@ -115,7 +110,7 @@ A fork in the path.~
 You stand in a small intersection in the path. To the west is an unusual path
 that looks like it leads to nowhere but shrubbery, while to the
 north lies a path that takes you deeper into the forest.~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues north.~
 ~
@@ -135,7 +130,7 @@ Beside a familiar looking tree.~
 You are on a path in the dark forest but the trees that pass by in this room
 looks very familiar, as if you've just passed by them.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues to the north.~
 ~
@@ -159,7 +154,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -179,7 +174,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -199,7 +194,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues to the north.~
 ~
@@ -216,7 +211,7 @@ left as well as to your right.  The sunlight is completely blocked off now so
 that the only light you have comes from some sort of glowing algae on the 
 ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues to the north.~
 ~
@@ -236,7 +231,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues to the north.~
 ~
@@ -256,7 +251,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues to the north.~
 ~
@@ -276,7 +271,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues to the north.~
 ~
@@ -300,7 +295,7 @@ The path seems to curve to the east. You feel somewhat uncomfortable as you
 get deeper into the forest. The algae seems to glow brighter as you make your
 way along this small path.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -324,7 +319,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The path continues to the north.~
 ~
@@ -349,7 +344,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -373,7 +368,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 a small path lies to the north.~
 ~
@@ -397,7 +392,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D0
 the entrance to a dark and forbidding castle lies to the north.
 ~
@@ -421,7 +416,7 @@ Beside some thorny bushes.~
 You stand between some thorny bushes and notice that there seems to be
 a hidden path to the west of here. The only problem is how are
 you going to get to the other side of the bushes without getting cut.~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -446,7 +441,7 @@ You stand in a small hidden path in the old forest. There are huge trees
 both to the left and the right of you. You feel as if somebody if watching 
 you. You look around and see little green eyes staring at you from the bushes.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D1
 Some thorny bushes lie to the east.
 ~
@@ -464,7 +459,7 @@ You stand in a small hidden path in the old forest. There are huge trees
 both to the left and the right of you. You feel as if somebody if watching 
 you. You look around and see little green eyes staring at you from the bushes.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 A huge tree trunk lies to the north.~
 ~
@@ -484,7 +479,7 @@ You stand beside what was once a great tree. You notice that there is a hole
 in the base of this massive trunk. This hole looks big enough to fit a very
 large man or even a small horse. It looks bvery dark in there.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D2
 a small hidden path to the south of here.~
 ~
@@ -499,7 +494,7 @@ Inside a huge tree trunk.~
 You stand in a huge hole in the tree trunk. It is very dark in here and you
 wonder if this could be the home of a huge beast of some sort.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D2
 You can't see anything in the darkness.~
 ~
@@ -514,7 +509,7 @@ A dark cave.~
 It is dark in here and smells very bad. You decide that there must be
 some very foul creature living here.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 some light to the north.~
 ~
@@ -530,7 +525,7 @@ You stand in a large room with piles of bones everywhere. You trip over an arm
 and almost lose your balance. You try to look around and see that the troll th
 at lives here must have been a good hunter.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D1
 You can't see anything in the darkness.~
 ~
@@ -542,7 +537,7 @@ You are on a path in the dark forest. There are numerous trees to your left
 as well as to your right. The sunlight is completely blocked off now so that
 the only light you have comes from some sort of glowing algea on the ground.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 beside the black river.~
 ~
@@ -557,7 +552,7 @@ Beside the Black River.~
 You stand beside a river that flows to the east and west. As you look more clo
 sely at the dark liquid you get the feeling that it might be blood.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The Black River lies to the north.~
 ~
@@ -576,7 +571,7 @@ The Black River.~
 The river has the smell of fresh blood and flows eastward. To the south you
 can see some huge black trees while to the north lies some smaller ones.
 ~
-111 8 0 1 99 6
+80 8 0 1 99 6
 D0
 The northern shore lies to the north of here.~
 ~
@@ -598,7 +593,7 @@ S
 The Black River.~
 The river has the smell of fresh blood and flows to the east. To the south you
 can see some huge black trees while to the north lies some smaller trees.~
-111 8 0 1 99 6
+80 8 0 1 99 6
 D1
 The Black River flows eastward.~
 ~
@@ -612,7 +607,7 @@ S
 The bottom of the waterfall.~
 The black liquid seems to fall from the skies above. The smell of fresh blood
 seems to be even stronger here. ~
-111 8 0 1 99 6
+80 8 0 1 99 6
 D1
 The Black River flows eastward.~
 ~
@@ -623,7 +618,7 @@ The Black River.~
 The river ha the smell of fresh blood and flows eastward. T. to the south you
 can see some huge black trees while to the north you can see smaller trees.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D1
 The Black River flows eastward.~
 ~
@@ -633,7 +628,7 @@ S
 The Black River.~
 The river has the smell of fresh blood and flows eastward. To the south you
 can see some huge black trees while to the north lies some smaller ones.~
-111 8 0 1 99 6
+80 8 0 1 99 6
 D1
 The Black River flows to the east.~
 ~
@@ -651,7 +646,7 @@ S
 The Black River.~
 The river has the smell of fresh blood and flows eastward. To the south you
 can see some huge black trees while to the north lies some smaller ones.~
-111 8 0 1 99 6
+80 8 0 1 99 6
 D1
 The river flows to the east.~
 ~
@@ -665,7 +660,7 @@ S
 The Black River.~
 The river has the smell of fresh blood and flows eastward. To the south you
 can see some huge black trees while to the north lies some smaller ones.~
-111 8 0 1 99 6
+80 8 0 1 99 6
 D1
 The river flows to the east.~
 ~
@@ -679,7 +674,7 @@ S
 Before the waterfall.~
 The river come to an abrupt end a few meters to the east.
 ~
-111 8 0 1 99 6
+80 8 0 1 99 6
 D3
 The river flows from the west.~
 ~
@@ -694,7 +689,7 @@ The northern shore of the Black River.~
 You stand in just north of the Black River. As you look to the north you see
 a cliff of some sort and to the east and west of you there is dense forest.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The strange cliff lies to the north of here.~
 ~
@@ -719,7 +714,7 @@ is that it is in the middle of a forest. You can either go south towards the
 river, east or west into the forest or jump down into the pool of light at
 the bottom of the cliff.
 ~
-111 8 0 1 99 5
+80 8 0 1 99 5
 D2
 The northern shore of the Black River lies to the south of here.~
 ~
@@ -735,7 +730,7 @@ You stand in a pool of soft white light. You feel your body tingle with pleasu
 re as you move around in this light. There seems to be an exit to the west of 
 here but you do not feel any urgency to leave this blissful place.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D3
 It is too dark for you to see in that direction.~
 ~
@@ -752,7 +747,7 @@ what sort of a place this is. The smell of death is everywhere, there is a
 tree with some strange inscription in it. Your knowledge tells you that you
 are in the lands where orcs and Kiru live and breed.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees surround you and seem to move by themselves.
 ~
@@ -770,7 +765,7 @@ what sort of a place this is. The smell of death is everywhere, there is a
 tree with some strange inscription in it. Your knowledge tells you that you
 are in the lands where orcs and Kiru live and breed.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees surround you and seem to move by themselves.
 ~
@@ -797,7 +792,7 @@ what sort of a place this is. The smell of death is everywhere, there is a
 tree with some strange inscription in it. Your knowledge tells you that you
 are in the lands where orcs and Kiru live and breed.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees surround you and seem to move by themselves.~
 ~
@@ -823,7 +818,7 @@ what sort of a place this is. The smell of death is everywhere, there is a
 tree with some strange inscription in it. Your knowledge tells you that you
 are in the lands where orcs and Kiru live and breed.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees surround you and seem to move by themselves.~
 ~
@@ -850,7 +845,7 @@ what sort of a place this is. The smell of death is everywhere, there is a
 tree with some strange inscription in it. Your knowledge tells you that you
 are in the lands where orcs and Kiru live and breed.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees surround you and seem to move by themselves.~
 ~
@@ -876,7 +871,7 @@ what sort of a place this is. The smell of death is everywhere, there is a
 tree with some strange inscription in it. Your knowledge tells you that you
 are in the lands where orcs and Kiru live and breed.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees surround you and seem to move by themselves.~
 ~
@@ -902,7 +897,7 @@ what sort of a place this is. The smell of death is everywhere, there is a
 tree with some strange inscription in it. Your knowledge tells you that you
 are in the lands where orcs and Kiru live and breed.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees surround you and seem to move by themselves.~
 ~
@@ -929,7 +924,7 @@ what sort of a place this is. The smell of death is everywhere, there is a
 tree with some strange inscription in it. Your knowledge tells you that you
 are in the lands where orcs and Kiru live and breed.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D1
 The trees surround you and seem to move by themselves.~
 ~
@@ -946,7 +941,7 @@ Carnage for reasons that should be obvious. No creature of the sun has been h
 here (alive) for many centuries now. You had previously thought that the tales
 about the Cave of Carnage was only a legend or folk tale.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D1
 the feast room.~
 ~
@@ -966,7 +961,7 @@ This is the room where the High Kiru Masters feast on the fresh kills of the
 day. As you look around the room you can see that the main course last night
 was an elf woman and her children. Your stomach feels very strange.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D3
 the entrance to the Cave of Carnage.~
 ~
@@ -981,7 +976,7 @@ Carnage was supposed to have built this cave himself so that his favorite
 creatures, the Kiru and Orcs, may live without interference from the outside
 world.
 ~
-111 12 0 1 99 1
+80 12 0 1 99 1
 D0
 the entrance to the Cave of Carnage.~
 ~
@@ -1006,7 +1001,7 @@ a huge statue of the god Carnage slaying three men with one stroke of his migs
 mighty blade. Heads of various things surround the statue. You suddenly
 feel very very sick and wonder if it is too late to leave.......
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The Halls of carnage lies to the north.
 ~
@@ -1025,7 +1020,7 @@ made of white marble. There is a large pool of bubling black liquid in the
 middle of the room, and as you look closely at the liquid you can see that
 a figure of an orc is slowly forming into shape.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 To the north lies the Halls of Carnage.
 ~
@@ -1042,7 +1037,7 @@ You stand in a dark and smelly cave. There is not much to see here, but there
 are some crudely built beds that would suggest that this might be the living
 quarters of some of the orcs and Kiru.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 a dark cave lies to the north.~
 ~
@@ -1066,7 +1061,7 @@ You stand in a rather dark and smelly cave. It continues to the east but you
 wonder if it is worth it to go there since it seems like the smell is coming
 from that direction.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 a dark cave lies to the north.~
 ~
@@ -1091,7 +1086,7 @@ You stand in a rather dark and smelly cave. There is nothing very interesting
 outside of a few arms and legs left over from last night's dinner probably and
 the few pieces of jewelry left on the body parts.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The cave continues to the north.~
 ~
@@ -1115,7 +1110,7 @@ You stand in a rather dark and smelly cave. There is nothing very interesting
 outside of a few arms and legs left over from last night's dinner probably and
 the few pieces of jewelry left on the body parts.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 a dark cave lies to the north.~
 ~
@@ -1139,7 +1134,7 @@ You stand in a large room full of gold and other valuable items. These must
 have been collected by the orcs as they raided villages and towns for food
 and entertainment.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D1
 a dark cave lies to the east.~
 ~
@@ -1155,7 +1150,7 @@ forces of Carnage from invading this forest once and for all.
 It becomes quite obvious to you that the great magician must have failed in
 his efforts to ward off the evil creatures of Carnage.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D0
 The main hall lies to the north.~
 ~
@@ -1179,7 +1174,7 @@ You stand in the main hall of the Dark Castle. The walls are richly decorated
 and the floor is covered with a beautiful rug. The only problem is that there
 seems to be no trace of any life form.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D0
 The main hall continues to the north.~
 ~
@@ -1203,7 +1198,7 @@ You stand in the main hall of the Dark Castle. The walls are richly decorated
 and the floor is covered with a beautiful rug. The only problem is that there
 seems to be no trace of any life form.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D0
 The main hall continues to the north.~
 ~
@@ -1223,7 +1218,7 @@ You stand in the main hall of the Dark Castle. The walls are richly decorated
 and the floor is covered with a beautiful rug. The only problem is that there
 seems to be no trace of any life form.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D0
 The meditation room lies to the north.~
 ~
@@ -1248,7 +1243,7 @@ only difference is a huge feast table in the center of the room. There must
 have been many nights where all the nobility of the castle or surrounding area
 feasted here, but there is nobody here now...
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D1
 The main hall lies to the east.~
 ~
@@ -1260,7 +1255,7 @@ You stand in a huge oval shaped room with a huge round black table at its
 center. From what you can see, this must be the area where strategies for
 war are decided upon.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D3
 The main hall lies to the west.~
 ~
@@ -1276,7 +1271,7 @@ This is the room where the great magician Marius meditated. You can see many
 great books of magic on the shelves. There seems to be a feeling of pof
 peacefulness in this room. You notice there there are stairs leading up.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D2
 The main hall lies to the south.~
 ~
@@ -1293,7 +1288,7 @@ reason that the tower might be located here would be for the magician
 to get a good idea where everything is because you can see a good portion
 of the forest from this vantage point.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D5
 The stairs lead down into the meditation room.~
 ~
@@ -1305,7 +1300,7 @@ You stand in a large room fill of grain and other necessities. There is a lot
 of dust everywhere so you can pretty much assume that nobody has been here for
 a while.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D3
 The main hall lies to the west.~
 ~
@@ -1322,7 +1317,7 @@ you are tempted to take a sip of the delicious looking beverage. Yet you
 hesitate because you want to be as alert as you can while exploring this
 castle.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D2
 The basement lies to the south.~
 ~
@@ -1337,7 +1332,7 @@ The basement.~
 You look around and see various articles of clothing and furniture. There
 is nothing very interesting here, except for a few glowing spider.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D0
 The cellar lies to the north of here.~
 ~
@@ -1349,7 +1344,7 @@ You stand in a large room richly decorated with armour from all the ages,
 and some items that look like they may have been forged by the gods
 themselves.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D1
 The main hall lies to the east.~
 ~
@@ -1360,7 +1355,7 @@ a small hallway~
 You stand in a small hallway. There are very elegant paintings on the walls
 and stairs that lead up.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D1
 The main hall lies to the east.~
 ~
@@ -1375,7 +1370,7 @@ The living quarters.~
 This is a large room which is interconnected to many different rooms. The
 magician and his family must have occupied these rooms when they lived here.
 ~
-111 8 0 1 99 3
+80 8 0 1 99 3
 D5
 The stairs lead down into a small hallway.~
 ~
@@ -1389,7 +1384,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -1411,7 +1406,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -1437,7 +1432,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D1
 a small path lies to the east.~
 ~
@@ -1459,7 +1454,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -1485,7 +1480,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 there are many gnarled trees to the north.~
 ~
@@ -1511,7 +1506,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 there are many gnarled trees to the north.~
 ~
@@ -1537,7 +1532,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 a small path lies to the north.~
 ~
@@ -1563,7 +1558,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 the black river lies to the north.~
 ~
@@ -1589,7 +1584,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 the black river lies to the north.~
 ~
@@ -1611,7 +1606,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 a small path lies to the north.~
 ~
@@ -1637,7 +1632,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -1663,7 +1658,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -1689,7 +1684,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -1715,7 +1710,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -1741,7 +1736,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -1767,7 +1762,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -1793,7 +1788,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 There are many large gnarled trees crowded together.~
 ~
@@ -1815,7 +1810,7 @@ coming out of the ground seem to have a life of it's own as well. The deeper
 you get into the forest the most confused you become, trees move and block 
 your way, or at least it seems that way.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -1837,7 +1832,7 @@ room looks bent out of shape somehow and you feel as if you are going to lose
 your balance so you try to hold onto something but it disappears before your 
 very eyes.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D5
 the huge stone stairs lead down into the war room.~
 ~
@@ -1851,7 +1846,7 @@ you to come and have a nap under the trees. As you move from one room to
 another the trees seem to move with you, causing you to lose any sense of
 direction that you previously had.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -1877,7 +1872,7 @@ you to come and have a nap under the trees. As you move from one room to
 another the trees seem to move with you, causing you to lose any sense of
 direction that you previously had.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -1903,7 +1898,7 @@ you to come and have a nap under the trees. As you move from one room to
 another the trees seem to move with you, causing you to lose any sense of
 direction that you previously had.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -1929,7 +1924,7 @@ you to come and have a nap under the trees. As you move from one room to
 another the trees seem to move with you, causing you to lose any sense of
 direction that you previously had.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -1955,7 +1950,7 @@ you to come and have a nap under the trees. As you move from one room to
 another the trees seem to move with you, causing you to lose any sense of
 direction that you previously had.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -1981,7 +1976,7 @@ you to come and have a nap under the trees. As you move from one room to
 another the trees seem to move with you, causing you to lose any sense of
 direction that you previously had.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -2007,7 +2002,7 @@ you to come and have a nap under the trees. As you move from one room to
 another the trees seem to move with you, causing you to lose any sense of
 direction that you previously had.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -2033,7 +2028,7 @@ you to come and have a nap under the trees. As you move from one room to
 another the trees seem to move with you, causing you to lose any sense of
 direction that you previously had.
 ~
-111 8 0 1 99 1
+80 8 0 1 99 1
 D0
 The trees shift from place to place, causing you to be totally confused.~
 ~
@@ -2059,7 +2054,7 @@ around this place. The emptiness seems to surround you and you start to
 feel sorry for yourself. The only thing you can foresee of your future is the
 death that awaits you.
 ~
-111 8 0 1 99 0
+80 8 0 1 99 0
 D5
 The large black stone stairs leads down to the Room of reincarnation.~
 ~

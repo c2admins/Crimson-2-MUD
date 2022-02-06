@@ -1,7 +1,7 @@
 #14000
 obj fang orkish black~
-10
-&Ka l&warg&Ke bl&wa&Kck &ro&Krcis&rh &Kfa&wn&Wg&n~
+25
+a large black orkish fang~
 A large black nasty looking fang is lying here.~
 ~
 5 1069060 0 8193
@@ -11,8 +11,8 @@ A
 18 2
 #14001
 obj staff black serpent~
-10
-&Kthe G&wrea&Kt Black &GS&cerpen&Gt &yStaff&n~
+25
+the Great Black Serpent Staff~
 The great Black Serpent Staff is lying here.~
 ~
 5 622592 0 8193
@@ -25,7 +25,7 @@ A
 #14002
 obj metal wall shield~
 8
-&Ka f&Wu&wll &Km&we&Kt&wa&Kl &ww&Wa&wll &Kshield&n~
+a full metal wall shield~
 A full metal wall shield is lying here.~
 ~
 9 524288 0 513
@@ -37,8 +37,8 @@ A
 13 -25
 #14003
 obj despair cloak~
-10
-&KThe C&yloa&Kk of &pD&we&Kspa&wi&pr&n~
+50
+The Cloak of Despair~
 a pitch black cloak is lying here... it emits a feeling of despair.~
 ~
 9 2097156 0 5
@@ -52,8 +52,8 @@ A
 13 10
 #14004
 obj sword despair~
-10
-&KThe S&wwor&Kd of &pD&we&Kspa&wi&pr&n~
+30
+a Sword of Despair~
 A pitch black two handed sword is lying here...it emits a feeling of despair.~
 ~
 5 2126020 0 8193
@@ -65,8 +65,8 @@ A
 18 4
 #14005
 obj helmet black horned~
-10
-&Ka Bl&wa&Kck H&wo&Wrn&we&Kd Helm&n~
+100
+a Black Horned Helm~
 A pitch black horned helm is lying here... it emits a feeling of despair.~
 ~
 9 589828 0 17
@@ -76,8 +76,8 @@ A
 19 1
 #14006
 obj plate black steel pitch~
-10
-&KA plate of pitch black steel&n~
+100
+A plate of pitch black steel~
 A plate of pitch black steel is lying here... its emits a feeling of despair.~
 ~
 9 589828 0 9
@@ -89,8 +89,8 @@ A
 18 1
 #14007
 obj bracelet black pitch~
-10
-&KA pitch black bracelet&n~
+75
+A pitch black bracelet~
 A pitch black bracelet is lying here.... it emits a feeling of despair.~
 ~
 9 622596 0 4097
@@ -104,8 +104,8 @@ A
 18 -1
 #14008
 obj black arm wrappings pitch~
-10
-&Ksome pitch black arm wrappings&n~
+75
+some pitch black arm wrappings~
 Some pitch black arm wrapping are lying here...it emits a feeling of despair.~
 ~
 9 524292 0 257
@@ -115,8 +115,8 @@ A
 19 1
 #14009
 obj black leg plates pitch~
-10
-&Ksome pitch black leg plates&n~
+100
+some pitch black leg plates~
 Some pitch black leg plates are lying here...it emits a feeling of despair.~
 ~
 9 524292 0 524321
@@ -131,7 +131,7 @@ obj black broad axe~
 A black broad axe is lying here... it emits a feeling of despair.~
 ~
 5 524304 0 8193
-1 5 4 3
+64 5 4 3
 14 50000 10000
 A
 18 2
@@ -140,7 +140,7 @@ A
 #14011
 obj black saddle~
 5
-&KA pitch black saddle&n~
+A pitch black saddle~
 A pitch black saddle is lying here... it emits a feeling of despair.~
 ~
 9 1048576 0 3073
@@ -152,8 +152,8 @@ A
 13 -10
 #14012
 obj ring despair~
-6
-&KA R&win&Kg of &pD&we&Kspa&wi&pr&n~
+25
+A Ring of Despair~
 A Ring of Despair is lying here.~
 ~
 9 2097316 0 3
@@ -167,8 +167,8 @@ A
 12 -25
 #14013
 obj book wisdom~
-9
-&wa &ybook &wof &Cw&ci&wsd&co&Cm&n~
+50
+a book of wisdom~
 a book of wisdom is lying here.~
 ~
 12 1146944 0 16385
@@ -181,7 +181,7 @@ A
 #14014
 obj filthy broom broomstick~
 30
-&Ka f&yilth&Ky &ybroom&Kstick&n~
+a filthy broomstick~
 A filthy broomstick is lying here.~
 ~
 1 1146880 0 65537
@@ -201,7 +201,7 @@ A huge treasure of jewels and gold is lying here.~
 #14016
 obj black gauntlets~
 5
-&KA pair of bl&wa&Kck gau&wntl&Kets&n~
+A pair of black gauntlets~
 A pair of black gauntlets are lying here...it emits a feeling of despair.~
 ~
 9 524356 0 129
@@ -213,8 +213,8 @@ A
 13 -15
 #14017
 obj wooden club~
-10
-&ya huge wooden club&n~
+100
+a huge wooden club~
 A huge wooden club is lying here.~
 ~
 5 524544 0 8193
@@ -231,8 +231,8 @@ A bag of gold is lying here.~
 1 0 0
 #14019
 obj book war~
-10
-&KA &yBook &Kof &rW&Ra&rr&n~
+20
+A Book of War~
 A nasty looking Book of War is lying here.~
 ~
 5 524289 0 16385
@@ -254,7 +254,7 @@ An bloody arm which has been separated from its owner id lying he~
 #14021
 obj sheath of despair~
 10
-&KThe S&yheat&Kh of &pD&we&Kspa&wi&pr&n~
+a Sheath of Despair~
 A Sheath of Despair is lying here.~
 ~
 9 1048580 0 2049
@@ -266,8 +266,8 @@ A
 14 -15
 #14022
 obj cloak damned~
-10
-&KThe C&yloa&Kk of the Da&wmn&Ked&n~
+50
+The Cloak of the Damned~
 A pile of black cloth lies here.~
 ~
 9 2183168 0 1029
@@ -282,7 +282,7 @@ A
 #14023
 obj boots despair~
 10
-&KThe B&yoot&Ks of &pD&we&Kspa&wi&pr&n~
+the boots of Despair~
 A pair of dark boots have been left here, they emit a feeling of despair.~
 ~
 9 1048576 0 65

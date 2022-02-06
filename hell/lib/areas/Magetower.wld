@@ -8,6 +8,11 @@ D0
 ~
 ~
 0 -1 24381
+D2
+Into a dark forest
+~
+~
+0 -1 6308
 S
 #24381
 &WThe &Rf&rirs&Rt &Yf&yloo&Yr&n~
@@ -724,7 +729,7 @@ D0
 &WNothing out of the ordinary.&n
 ~
 door~
-1 0 24420
+9 0 24420
 D4
 &WNothing out of the ordinary.&n
 ~
@@ -752,7 +757,7 @@ D2
 &WNothing out of the ordinary.&n
 ~
 door~
-1 0 24419
+9 0 24419
 D3
 &WNothing out of the ordinary.&n
 ~
@@ -888,7 +893,7 @@ D0
 &KNothing at all.&n
 ~
 door~
-1 0 24429
+13 0 24429
 D4
 &WNothing out of the ordinary.&n
 ~
@@ -915,7 +920,7 @@ D2
 &KA faint light ahead.&n
 ~
 door~
-1 0 24428
+13 0 24428
 D3
 &KNothing at all.&n
 ~
@@ -1046,7 +1051,7 @@ S
 &W Just as the floor below a single door leads to the north. A few faint
 screams can be heard through the door.&n
 ~
-193 268435468 0 0 99 1
+193 268435468 0 1 99 1
 D0
 &WNothing out of the ordinary.&n
 ~
@@ -1068,7 +1073,7 @@ S
 &W Just as the floor below a single door leads to the north. A few faint
 screams can be heard through the door.&n
 ~
-193 268435596 0 0 99 1
+193 268435596 0 1 99 1
 D1
 &WNothing out of the ordinary.&n
 ~
@@ -1090,7 +1095,7 @@ S
 &W Just as the floor below a single door leads to the north. A few faint
 screams can be heard through the door.&n
 ~
-193 268435596 0 0 99 1
+193 268435596 0 1 99 1
 D2
 &WNothing out of the ordinary.&n
 ~
@@ -1107,7 +1112,7 @@ S
 &W Just as the floor below a single door leads to the north. A few faint
 screams can be heard through the door.&n
 ~
-193 268435596 0 0 99 1
+193 268435596 0 1 99 1
 D0
 &WNothing out of the ordinary.&n
 ~
@@ -1124,7 +1129,7 @@ S
 &W Just as the floor below a single door leads to the north. A few faint
 screams can be heard through the door.&n
 ~
-193 268435596 0 0 99 1
+193 268435596 0 1 99 1
 D0
 &WNothing out of the ordinary.&n
 ~
@@ -1141,7 +1146,7 @@ S
 &W Just as the floor below a single door leads to the north. A few faint
 screams can be heard through the door.&n
 ~
-193 268435596 0 0 99 1
+193 268435596 0 1 99 1
 D1
 &WNothing out of the ordinary.&n
 ~
@@ -1158,7 +1163,7 @@ S
 &W Just as the floor below a single door leads to the north. A few faint
 screams can be heard through the door.&n
 ~
-193 268435596 0 0 99 1
+193 268435596 0 1 99 1
 D0
 &WNothing out of the ordinary.&n
 ~
@@ -1175,7 +1180,7 @@ S
 &W Just as the floor below a single door leads to the north. A few faint
 screams can be heard through the door.&n
 ~
-193 268435596 0 0 99 1
+193 268435596 0 1 99 1
 D0
 &WNothing out of the ordinary.&n
 ~
@@ -1192,7 +1197,7 @@ S
 &W Just as the floor below a single door leads to the north. A few faint
 screams can be heard through the door.&n
 ~
-193 268435596 0 0 99 1
+193 268435596 0 1 99 1
 D1
 &WNothing out of the ordinary.&n
 ~
@@ -1209,7 +1214,7 @@ S
 &W A single opened door lays just ahead. Unlike the other floors of this
 tower you can not hear any of the haunting screams.&n
 ~
-193 268435468 0 0 99 1
+193 268435468 0 1 99 1
 D0
 &WNothing out of the ordinary.&n
 ~
@@ -1231,7 +1236,7 @@ S
 &W A slender yet tall man sits at a large desk going over some sort
 of paperwork. As you enter the room he asks if he may help you.&n
 ~
-193 268435468 0 0 99 1
+193 268435468 0 1 99 1
 D1
 &WNothing out of the ordinary.&n
 ~
@@ -1248,7 +1253,7 @@ S
 &w The entrance to this room was hidden by some sort of illusionary
 spell. A large wooden chest rests on the floor ahead.&n
 ~
-193 268435468 0 0 99 1
+193 268435468 0 1 99 1
 D3
 &WNothing out of the ordinary.&n
 ~
@@ -1260,7 +1265,7 @@ S
 &W You have reached the last level of this tower. A large door is
 closed just ahead.&n
 ~
-193 268435468 0 0 99 1
+193 268435468 0 1 99 1
 D0
 &WNothing out of the ordinary.&n
 ~
@@ -1277,7 +1282,7 @@ S
 &w As you enter this chamber a grand mage approaches you and asks
 what is your reason for intruding on him.&n
 ~
-193 268435468 0 0 99 1
+193 268435468 0 1 99 1
 D1
 &WNothing out of the ordinary.&n
 ~
@@ -1299,7 +1304,7 @@ S
 &w You have found the Arch-Magus secret spell cache. A odd looking
 rack has all different kinds of spells rolled up on it.&n
 ~
-193 268435468 0 0 99 1
+193 268435468 0 1 99 1
 D3
 &WNothing out of the ordinary.&n
 ~
@@ -1310,7 +1315,7 @@ S
 &KS&wecre&Kt &We&wscap&We&n~
 &w A large trap door leads up to the top of the tower.&n
 ~
-193 268435468 0 0 99 1
+193 268435468 0 1 99 1
 D1
 &WNothing out of the ordinary.&n
 ~
@@ -1328,7 +1333,7 @@ S
 dragon lets out a mighty burst of lightning hitting just
 at your feet.&n
 ~
-193 268435468 0 0 99 1
+193 268435468 0 1 99 1
 D5
 &WNothing out of the ordinary.&n
 ~

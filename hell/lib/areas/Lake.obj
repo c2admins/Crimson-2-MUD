@@ -1,16 +1,16 @@
 #13100
-obj shield medved's~
+obj pond medved shield~
 10
 &ym&we&Kdve&wd&y's &Kshield&n~
 A medved's shield is lying here.~
 ~
 9 1048578 0 513
-17 0 0 0
+25 0 0 0
 5 150000 25000
 A
 19 2
 #13101
-obj coat caeba's~
+obj pond caeba coat~
 25
 &wcaeba's &Kcoat&n~
 A pile of tangled fibers is lying here.~
@@ -23,20 +23,24 @@ A
 A
 36 -1
 A
-18 2
+19 2
 #13102
-obj pelt Alata's~
+obj pond alata pelt~
 10
 &cAl&Gat&ca's pelt&n~
 A plated pelt is lying here.~
 ~
-9 1048576 0 1025
-20 0 0 0
+15 1048576 0 1025
+500 0 0 0
 12 50000 15000
 A
+17 -20
+A
 19 2
+A
+18 1
 #13103
-obj cuff plated~
+obj pond cuff plated~
 10
 &ca pl&ga&Gted &gc&cuff&n~
 A plated cuff is lying here.~
@@ -49,20 +53,20 @@ A
 A
 13 -10
 #13104
-obj vertebrae Alata's~
-10
+obj pond alata vertebrae~
+20
 &cAl&Gat&ca's &Wvertebrae&n~
 The vertebrae of some animal is lying here.~
 ~
-9 524290 0 4097
-3 0 0 0
+9 1048578 0 4097
+10 0 0 0
 4 100000 20000
 A
 19 1
 A
-13 7
+18 1
 #13105
-obj wing shorea's~
+obj pond shorea wing~
 10
 &ysh&Rorea's wi&yng&n~
 A long, pointed wing lies here.~
@@ -75,7 +79,7 @@ A
 A
 19 2
 #13106
-obj fuzzy blue robe~
+obj pond fuzzy robe blue~
 30
 &cfuzzy &Cblue&c robe&n~
 A pile of fuzzy blue something lies here.~
@@ -86,7 +90,7 @@ A pile of fuzzy blue something lies here.~
 A
 4 2
 #13107
-obj blade mangrove~
+obj pond mangrove blade~
 5
 &yman&ggr&yove b&Glad&ye&n~
 An odd blade with a wooden hilt is lying here.~
@@ -99,7 +103,7 @@ A
 A
 18 3
 #13108
-obj lily essence vial~
+obj pond lilly essence~
 100
 &Wessence &wof the &Wlilly&n~
 A vial containing the essence of the lily is lying here.~
@@ -108,7 +112,7 @@ A vial containing the essence of the lily is lying here.~
 28 75 0 0
 2 5000 5
 #13109
-obj exoskeleton tough~
+obj pond exoskeleton tough~
 10
 &Ka tough &pe&wx&Koskelet&wo&pn&n~
 A tough looking exoskeleton lies here.~
@@ -121,7 +125,7 @@ A
 A
 18 1
 #13110
-obj helmet cladoceran~
+obj pond cladoceran helmet~
 7
 &ycl&wa&Kdoce&wr&yan &Khelmet&n~
 An interesting helmet is lying here.~
@@ -132,7 +136,7 @@ An interesting helmet is lying here.~
 A
 19 2
 #13111
-obj flagella copepod's~
+obj pond flagella copepod~
 10
 &Rco&rpe&Kpod's flag&rel&Rla&n~
 A detached and rather huge flagella is lying here.~
@@ -145,7 +149,7 @@ A
 A
 18 3
 #13112
-obj nymph crystallized miniature~
+obj pond crystallized nymph~
 5
 &cC&Cryst&walized &Cnymp&ch&n~
 A crystallized nymph miniature is lying here.~
@@ -158,7 +162,7 @@ A
 A
 18 2
 #13113
-obj root thismia~
+obj pond thismia root~
 10
 &Kth&wi&Gs&wm&Kia &yroot&n~
 A thismis root is lying here.~
@@ -169,7 +173,7 @@ A thismis root is lying here.~
 A
 19 2
 #13114
-obj cloak enchanted~
+obj pond pond enchanted cloak~
 10
 &Senc&Shan&Sted &ycloak&n~
 An enchanted cloak is lying here.~
@@ -184,7 +188,7 @@ A
 A
 18 1
 #13115
-obj cuticle renda's~
+obj pond renda cuticle~
 5
 &Kr&we&rnd&wa&K's &Kcuticle&n~
 A piece of waxy cuticle is lying here.~
@@ -195,7 +199,7 @@ A piece of waxy cuticle is lying here.~
 A
 19 3
 #13116
-obj ring renda's~
+obj pond renda ring~
 10
 &Kr&we&rnd&wa&K's &Kring&n~
 The ring of a renda is lying here.~
@@ -210,7 +214,7 @@ A
 A
 13 -10
 #13117
-obj necklace amethyst~
+obj pond necklace amethyst~
 8
 &pam&Pethy&pst &wnecklace&n~
 An amethyst necklace lies here.~
@@ -225,7 +229,7 @@ A
 A
 14 20
 #13118
-obj chalice Arundina's~
+obj pond arundina chalice~
 15
 &KAr&wu&Bndin&wa&K's &Yc&yha&Yl&yic&Ye&n~
 A jeweled chalice is lying here.~
@@ -238,7 +242,7 @@ A
 A
 13 -10
 #13119
-obj circlet opal~
+obj pond opal circlet~
 4
 &Kopal &Wc&wir&Kc&wle&Wt&n~
 An opal circlet is lying here.~
@@ -252,19 +256,21 @@ A
 18 1
 A
 13 -10
+A
+36 -1
 #13120
-obj shield cerodaphnae's~
+obj pond cerodaphnae shield~
 3
 &Wce&wro&ydaphn&wae&W's &Kshield&n~
 A strange flake of stone is lying here.~
 ~
 9 4194368 0 513
-15 0 0 0
+45 0 0 0
 20 400000 100000
 A
 19 3
 A
-13 20
+18 2
 #13121
 obj medal reward bronze~
 100

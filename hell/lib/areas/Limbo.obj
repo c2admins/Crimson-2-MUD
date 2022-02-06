@@ -8,7 +8,7 @@ You have found someones Wedding Ring.~
 0 0 0 0
 1 0 100
 #1
-obj jeweled globe of Crimson Mud 2~
+obj globe crimson imm~
 100
 &wthe j&Wew&wel&Ke&Wd &gg&bl&po&rb&we of &rCrimson Mud 2&n~
 &KThe &rCrimson Mud 2&w &gg&bl&po&rb&we &Kradiates power&n.~
@@ -46,7 +46,7 @@ obj boots boot bloody~
 &rbloody boots&n~
 Blood-covered boots have been left here in the dirt.~
 ~
-9 134217738 0 65
+9 138412042 0 65
 20 0 0 0
 20 200000 1000000
 A
@@ -76,7 +76,7 @@ A fortune cookie is lying here.~
 10 50 50 10
 1 5 5
 #7
-obj Coria's Anime Blade~
+obj coria blade imm~
 100
 &PC&po&Pr&pi&Pa&p'&Ps &KA&wn&Ki&wm&Ke &yB&Yl&ya&Yd&ye&n~
 &PC&po&Pr&pi&Pa&p'&Ps &KA&wn&Ki&wm&Ke &yB&Yl&ya&Yd&ye&n~
@@ -846,7 +846,7 @@ obj hatred belt quest1~
 &KH&watre&Kd &yBelt&n~
 A belt lies here permeating the room with Darkness.~
 ~
-9 138674260 1024 2049
+9 138674260 0 2049
 50 0 0 0
 2 100000000 5
 A
@@ -934,7 +934,7 @@ obj cloak shadows~
 &KThe C&wlo&cak of S&wha&Kdows&n~
 A large black cloak lies here.~
 ~
-9 138465280 13312 5
+9 138465280 406656 5
 20 0 10 0
 5 40000 400000
 A
@@ -1087,7 +1087,7 @@ obj thieves gloves~
 &wA Pa&yir of &KThievin&yg Glo&wves&n~
 A pair of lightweight gloves lies here.~
 ~
-11 222351424 13312 129
+11 222351424 406656 129
 1 0 0 0
 2 200000 1000000
 A

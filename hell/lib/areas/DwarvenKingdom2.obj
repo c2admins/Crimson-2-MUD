@@ -302,7 +302,7 @@ obj ring reorx~
 &yR&Yi&yng &Yo&yf R&Yeo&yrx&n~
 A Ring of Reorx glows with a bright light.~
 ~
-9 20978689 0 3
+9 20978689 131072 3
 15 0 0 0
 1 15000 25000
 A
@@ -317,7 +317,7 @@ obj amulet reorx~
 &YA&ym&Yu&yl&Ye&yt &Yo&yf R&Yeo&yrx&n~
 An Amulet of Reorx levitates in front of you.&n~
 ~
-9 20978688 0 5
+9 20978688 131072 5
 5 0 0 0
 1 15000 15000
 A
@@ -332,7 +332,7 @@ obj helm reorx~
 &yH&Ye&ylm &Yo&yf &yR&Yeo&yrx&n~
 A Helm of Reorx lays on the ground.~
 ~
-9 20986880 0 17
+9 20986880 131072 17
 30 0 0 0
 4 15000 25000
 A
@@ -349,7 +349,7 @@ obj staff reorx~
 &ySt&Ya&yff &Yo&yf R&Yeo&yrx&n~
 A finely crafted staff has been misplaced here.~
 ~
-1 20978688 0 65537
+1 20978688 131072 65537
 0 0 99999 0
 3 15000 25000
 A
@@ -366,7 +366,7 @@ obj platemail reorx~
 &yPl&Ya&yt&Ye&ym&Yai&yl &Yo&yf R&Yeo&yrx&n~
 A suit of finely crafted platemail lies here.~
 ~
-9 21117953 16384 9
+9 21117953 147456 9
 80 0 0 0
 25 78000 500000
 A

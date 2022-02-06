@@ -95,7 +95,7 @@ obj darkcastle withered soul~
 &yWithered &KSoul&n~
 &KA &ywithered &Ksoul rests heavily upon the ground&n~
 ~
-1 205543956 512 65537
+1 205543956 131712 65537
 0 0 1000 0
 18 165000 45000
 A
@@ -248,7 +248,7 @@ obj darkcastle detached soul~
 &wa &Kd&we&Kt&wa&Kt&wc&Kh&we&Kd &ws&Ko&wu&Kl&n~
 &KA forgotten soul has been detached from its owner and placed upon the floor in here&n~
 ~
-9 171991716 4 16385
+9 171991716 132 16385
 0 0 0 0
 15 124000 170000
 A
@@ -317,7 +317,7 @@ obj darkcastle marble circlet~
 &KMa&wrb&Kle Circlet&n~
 &Ka small piece of marble crafted into a ring sits here&n~
 ~
-9 507524772 1540 3
+9 507524772 132612 3
 10 0 0 0
 1 5 76500
 A
@@ -356,7 +356,7 @@ obj darkcastle uriel cloth~
 &WUriel's Cloth&n~
 &WA large cloth lies gently upon the ground&n~
 ~
-9 100666369 4 9
+9 104860673 4 9
 75 0 0 0
 1 5 5
 A
@@ -715,7 +715,7 @@ A
 41 2
 #19251
 obj quest agile gauntlets~
-0
+4
 &YThe Gauntlets of the Agile&n~
 &WSome very quality gauntlets rest amongst the armour placed upon the wall.&n~
 ~
@@ -730,7 +730,7 @@ A
 41 2
 #19252
 obj quest fire forged legplates~
-0
+4
 &KSome &Rf&Yir&Re &Kforged legplates&n~
 &KA set of &Rf&Yir&Re &Kforged legplates lay upon the ground, burning a hole in the floor.&n~
 ~
@@ -796,7 +796,7 @@ obj darkcastle sh'lazt engraved symbol shield~
 &wThe &BR&Coya&Bl &KG&wuar&Kd&n &wshield of &n&CSh'Lazt&n~
 &wA shield from the &Br&Coya&Bl &Kg&wuar&Kd &wof &CSh'Lazt &wrests here.&n~
 ~
-9 104880128 0 513
+9 104880128 131200 513
 55 0 0 0
 1 5 5
 A

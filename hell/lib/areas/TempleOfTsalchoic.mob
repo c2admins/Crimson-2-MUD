@@ -308,48 +308,48 @@ mob young treant~
 A young &yTr&Gea&ynt&n~
 A young &ytr&Gea&ynt&n is here, following its master.
 ~
-The Blank Mob is pretty formless, awaiting a creators molding.
+A young &yTr&Gea&ynt&n towers above you.
 ~
 8 1 136249361 0 0 S
-20 40 40 1d1+1 1d1+1
-1 0
+15 25 40 10d7+240 5d3+10
+0 1
 8 8 0
 0 0 17 15 16 15 13 15
 #2616
 mob mature treant~
-the Blank Mob~
-The Blank Mob standing here, looking formless.
+A mature &yTr&Gea&ynt&n~
+A mature &yTr&Gea&ynt&n is here, following its master.
 ~
-The Blank Mob is pretty formless, awaiting a creators molding.
+A mature &yTr&Gea&ynt&n towers above you.
 ~
 8 1 136249361 0 0 S
-20 40 40 1d1+1 1d1+1
-1 0
+15 25 40 10d7+270 5d3+10
+0 1
 8 8 0
 0 0 16 17 15 14 14 12
 #2617
 mob old treant~
-the Blank Mob~
-The Blank Mob standing here, looking formless.
+An old &yTr&Gea&ynt&n~
+An old &yTr&Gea&ynt&n is here, following its master.
 ~
-The Blank Mob is pretty formless, awaiting a creators molding.
+An old &yTr&Gea&ynt&n towers above you.
 ~
 8 1 136249361 0 0 S
-20 40 40 1d1+1 1d1+1
-1 0
+15 25 40 10d7+290 5d3+10
+0 1
 8 8 0
 0 0 16 18 15 16 13 11
 #2618
 mob ancient treant~
-the Blank Mob~
-The Blank Mob standing here, looking formless.
+An ancient &yTr&Gea&ynt&n~
+An ancient &yTr&Gea&ynt&n is here, following its master.
 ~
-The Blank Mob is pretty formless, awaiting a creators molding.
+An ancient &yTr&Gea&ynt&n towers above you.
 ~
 8 1 136249361 0 0 S
-20 40 40 1d1+1 1d1+1
-1 0
+15 25 29 10d7+310 5d3+10
+0 1
 8 8 0
-0 0 17 17 14 14 15 11
+0 0 17 17 14 13 15 11
 $~
 #999999

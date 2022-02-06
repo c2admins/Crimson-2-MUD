@@ -538,22 +538,22 @@ A pair of lacy silk girl-style panties is lying here.~
 2 0 0 0
 10 5 5
 #550
-obj potion demon flesh~
-32767
-a potion of demon flesh~
-A potion of demon flesh is lying here.~
+obj potion fly~
+100
+potion of fly~
+a potion of fly is lying here.~
 ~
 10 0 0 1
-48 142 0 0
+50 154 0 0
 1 5 5
 #551
-obj potion bind souls~
-0
-a potion of bind souls~
-A potion of bind souls is lying here.~
+obj scroll demonic aid~
+100
+scroll of demonic aid~
+a scroll of demonic aid is lying here.~
 ~
-10 0 0 1
-48 151 0 0
+2 0 0 1
+50 127 0 0
 1 5 5
 #552
 obj arrow~
@@ -606,27 +606,39 @@ obj Bow~
 a bow~
 a bow is lying here.~
 ~
-5 0 0 16385
+5 64 0 16385
 0 0 10 0
 1 5 5
+A
+40 2
+A
+18 2
 #558
 obj crossbow bow~
 0
 a crossbow~
 A Crossbow is lying here.~
 ~
-5 1 0 278529
+5 1048641 0 16385
 0 0 0 0
 1 5 5
+A
+40 4
+A
+18 1
 #559
 obj crossbow heavy~
 0
 a heavy crossbow~
 A heavy Crossbow is lying here.~
 ~
-5 0 0 16385
+5 2097217 0 16385
 0 0 0 0
 1 5 5
+A
+40 4
+A
+18 2
 #560
 obj Bingo~
 32767
@@ -725,7 +737,7 @@ It'll mess you up big time.
 Yum.  Yum.  Yum.
 ~
 #569
-obj a hockey stick~
+obj hockey stick imm~
 10
 a hockey stick~
 A hockey stick covered in the blood of Canadiens rests here ~
@@ -742,12 +754,12 @@ A
 A
 41 5
 #570
-obj wings of morning~
+obj wings morning imm~
 0
 &WWin&wg&cs of Mor&wn&Wing~
 &wA pair of wings, crafted from the softest down, lie here, radiating peace.&n~
 ~
-15 541065216 68 1025
+15 536870912 68 1025
 350 0 0 0
 1 100 100
 A
@@ -759,7 +771,7 @@ A
 A
 18 1
 #571
-obj aura of vengeance shield~
+obj aura vengeance imm~
 0
 &WAur&wa of &KVeng&rean&Rce&n~
 a protective aura of retribution rests here~
@@ -774,7 +786,7 @@ A
 A
 18 15
 #572
-obj Sword of Sacrifice and Salvation~
+obj sword salvation imm~
 0
 &wSword of &KSac&rrif&Kice &wand &WSalv&Ca&Wtion&n~
 a sword of choices rests here~

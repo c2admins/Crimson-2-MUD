@@ -108,7 +108,7 @@ obj thin serrated short blade~
 &ca thin, &Kserrated&c short blade&n~
 A thin blade with serrated edges lies here.~
 ~
-5 138429505 0 8193
+5 138429505 128 8193
 0 5 10 11
 5 35000 5
 A
@@ -163,16 +163,16 @@ A scales from a large blue beast lies here.~
 ~
 9 104859968 0 513
 60 0 0 0
-10 240000 1000000
+10 240000 50000
 A
 19 3
 A
 18 1
 A
-13 -10
+41 2
 #20759
 obj lightning runestone~
-0
+1
 &Wthe &wl&Wig&Yhtning &Krun&we&Ws&wt&Kone&n~
 A small stone lies here, crackling with electrical energy.~
 ~
@@ -181,7 +181,7 @@ A small stone lies here, crackling with electrical energy.~
 2 76000 5
 #20760
 obj binding runestone~
-0
+1
 &Wthe &Krun&we&Ws&wt&Kone &Wof &Rb&rindin&Rg&n~
 A small stone lies here, pulsing with a strange power.~
 ~
@@ -190,7 +190,7 @@ A small stone lies here, pulsing with a strange power.~
 3 95000 5
 #20761
 obj runestone elders~
-0
+1
 &WA &wRun&Kest&wone &Wof the &WE&wl&pde&wr&Ws&n~
 A small stone lies here, glowing with an old, powerful aura.~
 ~
@@ -199,11 +199,11 @@ A small stone lies here, glowing with an old, powerful aura.~
 2 110000 5
 #20762
 obj runestone nobility~
-0
+1
 &Wthe &Krun&we&Ws&wt&Kone &Wof &cno&Cb&Wil&Ci&cty&n~
 A strange, glowing rune lies here.~
 ~
-1 4194657 0 65537
+1 4194625 0 65537
 0 0 0 0
 2 200000 5
 #20763
@@ -241,12 +241,12 @@ A
 41 1
 #20766
 obj elven dias~
-100
+3
 an &Go&yake&Gn&n dais~
 A large dais grown from the heart of the tree is here..~
 ~
-15 0 0 0
-100 0 0 0
+15 8 0 0
+100 1 0 0
 1 5 5
 E
 dais oak~
@@ -260,7 +260,7 @@ obj shadowdancers suit~
 &KA Shadow&cd&wa&Wnc&we&cr &KSuit&n~
 A small, tight fitting leather suit lies here.~
 ~
-9 71341056 4096 9
+9 71341056 397312 9
 80 0 0 0
 8 200000 40000
 A
@@ -303,7 +303,7 @@ obj dragonhide leggings~
 &WA &wpair&W of &KD&wr&Wag&wo&Kn&yhide &KLeggings&n~
 A pair of magical leather leggings lie here.~
 ~
-9 88085568 16384 524321
+9 88085568 147456 524321
 40 0 0 0
 5 500000 400000
 A
@@ -318,7 +318,7 @@ obj dragonhide sleeves~
 &WA &wpair &Wof &KD&wr&Wag&wo&Kn&yhide &KSleeves&n~
 A pair of magical leather sleeves lie here.~
 ~
-9 83891264 16384 257
+9 88085568 147456 257
 35 0 0 0
 4 400000 300000
 A
@@ -364,7 +364,7 @@ A
 #20774
 obj boots elvenkind~
 1
-&yBoots &Wof &GE&gleve&Gnk&gin&Gd&n~
+&yBoots &Wof &GE&glvenkin&Gd&n~
 A pair of boots covered with elven runes lie here.~
 ~
 9 4195392 0 65
@@ -380,7 +380,7 @@ obj amulet sky~
 &wThe &YA&ym&Yu&yl&Ye&yt &wof the &CS&ck&Cy&n~
 A strange glowing amulet lies here.~
 ~
-9 4236288 16384 5
+9 4236288 278528 5
 10 0 0 0
 2 400000 100000
 A

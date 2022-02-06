@@ -178,7 +178,7 @@ obj plate rose~
 &KBlackened &Wplate of the &rRose&n~
 Some scorched plate mail lays here~
 ~
-9 4207108 0 9
+9 4207108 131072 9
 20 0 0 0
 20 5 1350000
 A
@@ -244,7 +244,7 @@ obj gauntlets rusted~
 &Ka pair of &yrusted &Kgauntlets&n~
 A pile of rusted chain gauntlets lay on the ground.~
 ~
-9 4211204 0 129
+9 4211204 128 129
 10 0 0 0
 10 15000 75000
 A
@@ -270,7 +270,7 @@ obj shield back rose~
 &Wthe legendary shield of the &Kblack &rrose&n~
 a massive fire blasted shield lays here~
 ~
-9 138416132 0 513
+9 138416132 131072 513
 60 0 0 0
 43 1000666 1000666
 A
@@ -291,6 +291,9 @@ a huge gate plaque~
 0 0 10 0
 100000 5 5
 E
+test test~
+~
+E
 plaque bronze~
 Welcome to Nedragaard Keep, Home of the honorable Lord Soth
 
@@ -300,9 +303,6 @@ Sugested level range 30+ for ground floor
 Sugested level range 41+ for top floor
 
 Have a nice day.
-~
-E
-test test~
 ~
 #1226
 obj shield key~
@@ -352,7 +352,7 @@ obj ring black rose~
 &cring of the &KBlack Rose&n~
 A dark ring with a black rose sigil lies here.~
 ~
-11 88123904 0 3
+11 88123904 262144 3
 0 0 10 0
 2 50000 70000
 A

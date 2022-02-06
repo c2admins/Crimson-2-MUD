@@ -20,7 +20,7 @@ obj numbness pelt myst~
 A misty pelt lies here crumpled.~
 ~
 15 0 16 1025
-225 0 0 0
+500 0 0 0
 21 350000 5
 A
 19 2
@@ -29,7 +29,7 @@ A
 A
 1 3
 A
-3 -2
+17 -36
 #20552
 obj quest ring encrusted blood hades~
 1
@@ -76,12 +76,12 @@ A
 A
 13 5
 #20555
-obj quest eye dragon quest1~
+obj quest eye of the dragon~
 1
 &WEye &wof the &RDragon&n~
 A stone-like eye lies here.~
 ~
-1 134479876 0 65537
+1 262148 0 65537
 0 0 10 0
 10 12000000 5
 A
@@ -89,12 +89,12 @@ A
 A
 36 -1
 #20556
-obj quest1 boots of flesh~
+obj quest boots of flesh~
 1
 &wThe &yBoots &wof &RFlesh&n~
 some fleshy boots lie here.~
 ~
-9 135004162 0 65
+9 786434 0 65
 0 0 0 0
 30 300000 30000
 A
@@ -167,7 +167,7 @@ obj numbness darkness eternal flame~
 &KThe &RFlame &Kof Eternal Darkness&n~
 The flame of eternal darkness has been placed here for safe keeping.~
 ~
-1 624994627 0 65537
+1 624994627 262144 65537
 10 10 1000 0
 30 2100000000 30000
 A
@@ -179,7 +179,7 @@ A
 A
 40 2
 #20562
-obj sloths pet goat~
+obj sloth goat imm~
 100
 Sloth's Pet Goat~
 A torch is lying here.~
@@ -197,23 +197,23 @@ A voodoo doll has been left here, it resembles Steve Irwin.~
 0 0 0 0
 1 5 5
 #20564
-obj quest fire claw quest1~
+obj quest fire claw~
 1
 &RThe Claw of the &KEternal &RFlame&n~
 A flaming claw lies here spitting off embers.~
 ~
-5 138719296 2048 24577
+5 4501568 2048 24577
 71704 7 7 11
 1 5 5
 A
 18 2
 #20565
-obj quest fire boots eternal quest1~
+obj quest fire boots eternal~
 1
 &KThe Boots of the Eternal &RF&rir&Re&n~
 some boots lie here emitting embers.~
 ~
-9 138674177 0 65
+9 4456449 0 65
 10 0 0 0
 1 5 5
 A
@@ -223,12 +223,12 @@ A
 A
 18 2
 #20566
-obj quest light flame darkness quest2~
+obj quest light flame darkness~
 1
 &KThe &RFlame &Kof Eternal Darkness&n~
 The flame of eternal darkness has been placed here for safe keeping.~
 ~
-1 138674176 0 65537
+1 4456448 0 65537
 0 0 10 0
 1 5 5
 A
@@ -237,15 +237,13 @@ A
 18 3
 A
 40 2
-A
-17 -50
 #20567
-obj paul hogan action toy figure~
+obj Paul Hogan imm~
 100
 A Paul Hogan Action Figure~
 A disfigured toy of Paul Hogan lies here, mutilated.~
 ~
-1 339739136 64 65537
+1 335544832 64 65537
 0 0 10 0
 1 5 5
 A
@@ -271,7 +269,7 @@ obj numbness claw eternal flame~
 &RThe Claw of the &KEternal &RFlame&n~
 A flaming claw lies here spitting off embers.~
 ~
-5 4204864 4 8193
+5 4204864 0 8193
 67600 5 8 11
 1 5 5
 A
@@ -349,7 +347,7 @@ A large pile of gold and gems lies here.~
 4000000 0 0 0
 30 5 5
 #20576
-obj korn shirt~
+obj korn shirt imm~
 100
 &KA K&wo&KR&wn &KT-shirt&n~
 A KoRn Shirt lies here.~
@@ -362,12 +360,12 @@ A
 A
 18 4
 #20577
-obj quest pitchfork damned quest1~
+obj Quest PitchFork Damned~
 1
 &KThe &RPitchFork &Kof the Damned&n~
 A dark pitchfork, covered in blood lies here.~
 ~
-5 671350785 1024 8193
+5 537133057 1024 8193
 3072 5 4 11
 1 5 5
 A
@@ -385,26 +383,24 @@ A large light, consumed with the light of eternity lies here.~
 1 5 5
 #20579
 obj numbness caveman bone~
-5
+10
 &wThe &KBone &wof a &KCave&yMan&n~
 &wThe &KBone &wof a &KCave&yMan&n~
 ~
-5 2097170 0 8193
-16384 6 5 11
+5 2097154 0 8193
+16384 15 3 11
 1 5 5
-A
-19 1
 #20580
 obj numbness eternal myst~
-1
+10
 &KEternal &GMyst&n~
 &KEternal &GMyst&n~
 ~
 5 2097155 0 8193
-6144 10 2 3
+6144 16 2 3
 1 5 5
 #20581
-obj the hammer~
+obj wall hammer imm~
 100
 &KThe &RHammer&n~
 The hammer for the wall lies here.~
@@ -421,9 +417,9 @@ A
 A
 17 100
 #20582
-obj archangel seal of approval~
+obj archangel seal imm~
 32767
-&RArchangel's &GSeal &Wof &KApproval&n~
+&KA&wrchange&Kl's &cS&Cea&cl &wof &yA&Ypprova&yl&n~
 Archangel's seal of approval rests here.~
 ~
 8 0 64 4097
@@ -506,7 +502,7 @@ obj numbness steel golem ring~
 &KThe Golem's Ring&n~
 The golems ring lies here.~
 ~
-9 37779972 0 3
+9 37779972 131200 3
 0 0 0 0
 30 150000 100000
 A
@@ -577,7 +573,7 @@ A
 #20594
 obj numbness scalpel rusty blood covered~
 3
-&wA &rblood&w-covered &yrusty &Kscalpel&n~
+&wA &RB&rloodie&Rd &KS&wcalpe&Kl&n~
 A bloodied scalpel lies here.~
 ~
 5 742433281 4 8193
@@ -612,7 +608,7 @@ obj numbness mask mithril~
 &wA &WMi&Kthr&Wil Mask&n~
 A mithril mask lies here.~
 ~
-9 172013570 4 17
+9 172013570 393220 17
 20 10 0 0
 50 300000 300000
 A

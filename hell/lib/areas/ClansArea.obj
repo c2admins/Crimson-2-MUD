@@ -160,13 +160,13 @@ A bulletin board with ideas for special projects stands here~
 0 0 0 0
 1 5 5
 #415
-obj extra bulletin board 6~
-1
-A spare bulletin board~
-A spare bulletin board hangs on a wall.~
+obj whiterose bulletin board~
+100
+Whiterose Bulletin Board~
+The Whiterose bulletin board hangs on the wall~
 ~
 13 8 0 0
-0 0 10 0
+0 0 0 0
 1 5 5
 E
 board~
@@ -321,7 +321,7 @@ obj seesaw teeter-totter AA~
 0 0 0 0
 2147483647 5 5
 #432
-obj ocopyof176~
+obj enigma cloth imm~
 32767
 &x&fE&E&Gnig&E&rmatic&E&y Cloth&E&w of&E&c Holding&E~
 A strange bundle is tossed here in the corner.~
@@ -372,6 +372,24 @@ obj funk key~
 ~
 18 0 0 1
 435 0 0 0
+1 5 5
+#437
+obj whiterose altar cleric~
+100
+&KTet&wrag&Wram&wmat&Kon &wAl&Kt&war&n~
+&wThe &KTet&wrag&Wram&wmat&Kon &wAl&Kt&war&n is resting in the center of the room~
+~
+15 8 0 0
+100 15 438 0
+1 5 5
+#438
+obj whiterose seal key~
+32767
+&KTet&wrag&Wram&wmat&Kon &KS&wea&Kl&n~
+&wThe &KTet&wrag&Wram&wmat&Kon &KS&wea&Kl&n lies in a pool of &wPro&Kz&wium.&n~
+~
+18 0 0 1
+437 0 0 0
 1 5 5
 $~
 #999999

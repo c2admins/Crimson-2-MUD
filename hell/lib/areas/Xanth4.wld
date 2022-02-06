@@ -1,26 +1,20 @@
 #800
 THE RULES~
+Halloween Scavenger Hunt Quest
 
-&COkay, here's the quest:
+Four of Samhain's scarecrows have been scattered across the MUD.
+Each scarecrow consists of 10 parts. Once collected you can redeem
+rewards from Pythias. Once a completed scarecrow has been turned in.
+The doors in this area will be unlocked for a series of quest mobs to be fought.
 
-It's the New Year's Death Fest!!  Avatars and mortals alike will be able
-to test their mettle against all manner of death and evil minions thereof.
-Quest mobs may have prizes worn on them, and Disraeli may also elect to
-provide additional quest prizes when all mobs are dead.
-
-* Avatars, please proceed to the NORTH.
-
-* Mortals, please proceed to the EAST.
-
-&WFrom all of the Crimson II Staff, we hope you enjoy!&n
-
+-Pythias
 ~
-8 1048588 0 41 99 1
+8 1048588 0 10 99 1
 D0
 803
 ~
 ~
-13 0 803
+15 0 803
 D1
 ~
 ~
@@ -47,7 +41,7 @@ D3
 to the Quest Start Room
 ~
 west~
-13 0 800
+9 0 800
 S
 #802
 Mortal Quest Room #2~
@@ -55,7 +49,7 @@ Mortal Quest Room #2~
 Kill kill kill...!
 
 ~
-8 269484044 536870912 1 40 1
+8 268435468 536870912 1 40 1
 D1
 to Mortal Quest Room #3
 ~
@@ -74,7 +68,7 @@ S
 with your soul.  A green gas laces the air, making it harder and harder to breathe.&n
 
 ~
-8 269491212 1 1 99 1
+8 269491212 536870913 1 99 1
 D0
 to Avatar Quest Room #2
 ~
@@ -84,7 +78,7 @@ D2
 800
 ~
 door south~
-13 0 800
+1 0 800
 S
 #804
 Mortal Quest Room #3~
@@ -92,7 +86,7 @@ Mortal Quest Room #3~
 Kill kill kill...!
 
 ~
-8 269484044 536870912 1 40 1
+8 268435468 536870912 1 40 1
 D1
 to Mortal Quest Room #4
 ~
@@ -110,7 +104,7 @@ Mortal Quest Room #4~
 Kill kill kill...!
 
 ~
-8 269484044 536870912 1 40 1
+8 268435468 536870912 1 40 1
 D1
 to Mortal Quest Room #5
 ~
@@ -133,7 +127,7 @@ Mortal Quest Room #5~
 Kill kill kill...!
 
 ~
-8 269484044 536870912 1 40 1
+8 268435468 536870912 1 40 1
 D3
 to Mortal Quest Room #4
 ~
@@ -146,12 +140,12 @@ Avatar Quest Room #2~
 Kill kill kill...!
 
 ~
-8 269484044 536870912 1 99 1
+8 268435468 536870912 1 99 1
 D0
 to Avatar Quest Room #3
 ~
-~
-0 -1 808
+door~
+13 0 808
 D2
 to Avatar Quest Room #1 / The Gas Chamber
 ~
@@ -167,7 +161,7 @@ Avatar Quest Room #3~
 Kill kill kill...!
 
 ~
-8 269484044 536870912 1 99 1
+8 268435468 536870912 1 99 1
 D0
 to Avatar Quest Room #4
 ~
@@ -185,7 +179,7 @@ Avatar Quest Room #4~
 Kill kill kill...!
 
 ~
-8 269484044 0 1 99 1
+8 268435468 0 1 99 1
 D0
 to Avatar Quest Room #5
 ~
@@ -203,7 +197,7 @@ Avatar Quest Room #5~
 Kill kill kill...!
 
 ~
-8 269484044 0 1 99 1
+8 268435468 0 1 99 1
 D0
 to Avatar Quest Room #6
 ~
@@ -221,7 +215,7 @@ Avatar Quest Room #6~
 Kill kill kill...!
 
 ~
-8 269484044 0 1 99 1
+8 268435468 0 1 99 1
 D0
 to Avatar Quest Room #7
 ~
@@ -239,7 +233,7 @@ Avatar Quest Room #7~
 Kill kill kill...!
 
 ~
-8 269484044 0 1 99 1
+8 268435468 0 1 99 1
 D0
 to Avatar Quest Room #8
 ~
@@ -257,7 +251,7 @@ Avatar Quest Room #8~
 Kill kill kill...!
 
 ~
-8 269484044 0 1 99 1
+8 268435468 0 1 99 1
 D0
 to Avatar Quest Room #9
 ~
@@ -275,7 +269,7 @@ Avatar Quest Room #9~
 Kill kill kill...!
 
 ~
-8 269484044 0 1 99 1
+8 268435468 0 1 99 1
 D0
 to Avatar Quest Room #10
 ~
@@ -293,7 +287,7 @@ Avatar Quest Room #10~
 Kill kill kill...!
 
 ~
-8 269484044 0 1 99 1
+8 268435468 0 1 99 1
 D2
 to Avatar Quest Room #9
 ~

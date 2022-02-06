@@ -168,9 +168,9 @@ obj sceptre platinum~
 &Wa &Kplatinum&W sceptre&n~
 A platinum sceptre is lying here, it looks fairly powerful~
 ~
-4 37762048 0 16385
+4 37762048 131072 16385
 35 4 4 34
-17 130000 12500
+3 130000 12500
 A
 19 5
 A
@@ -238,19 +238,21 @@ A
 12 -30
 #13920
 obj chromatic armor~
-25
-&cc&gh&Wr&Ko&rm&Ka&Wt&gi&cc &Karmor&n~
+1
+&xC&xh&xr&xo&xm&xa&xt&xi&xc &wArmor~
 A suit of chromatic armor is laying here~
 ~
-9 2097156 0 9
-64 0 0 0
-18 50000 85000
+9 104859652 24576 9
+80 0 0 0
+18 150000 85000
 A
-5 2
+12 -30
 A
-19 2
+18 1
 A
-13 4
+41 1
+A
+40 3
 #13921
 obj shrine tiamat~
 100
@@ -314,5 +316,39 @@ A large plant is sitting here adding to the scenery~
 1 0 0 0
 0 0 10 0
 1 5 5
+#13928
+obj chromatic dragonscale ring~
+1
+&xC&xh&xr&xo&xm&xa&xt&xi&xc &gDragonscale &wRing~
+You see a ring made of Dragonscales gleaming all the colors of the rainbow~
+~
+9 104859648 24576 3
+0 0 0 0
+3 10000000 25000
+A
+19 2
+A
+40 2
+A
+12 -20
+A
+17 5
+#13929
+obj glimmering shield~
+1
+&xG&xl&xi&xm&xm&xe&xr&xi&xn&xg &wShield&n~
+There is a rainbow colored shield on lying on the ground~
+~
+9 104933376 24576 513
+50 0 0 0
+15 150000 50000
+A
+41 2
+A
+40 2
+A
+18 1
+A
+19 1
 $~
 #999999

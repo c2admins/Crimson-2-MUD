@@ -189,7 +189,7 @@ A
 23 -1
 #12413
 obj quest2 glistening suntan~
-3
+8
 &YG&yl&Yi&ys&Yt&ye&Yn&yi&Yn&yg&Y S&yu&Yn&yt&Ya&yn&n~
 &YG&yl&Yi&ys&Yt&ye&Yn&yi&Yn&yg&Y S&yu&Yn&yt&Ya&yn&n~
 ~
@@ -457,7 +457,7 @@ A
 A
 12 -20
 #12430
-obj Zero Grandfathers Clock~
+obj zero clock imm~
 0
 &yAn&Kt&wi&Kq&yue &KGr&yan&wdfa&yth&Ker &yC&Kl&wo&Kc&yk&n~
 &yAn antique clock sits here...tick tock!&n~
@@ -474,7 +474,7 @@ A
 A
 6 50
 #12431
-obj Zero Minute Hand~
+obj zero minute imm~
 0
 &K>>----->&n~
 &KA minute hand&n~

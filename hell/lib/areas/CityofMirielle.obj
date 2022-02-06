@@ -96,7 +96,7 @@ obj heels emerald dypartes~
 &wa pair of &Ge&gmeral&Gd &gh&Geel&gs&n~
 Dyparte's emerald green heels lie here.~
 ~
-9 88123396 0 65
+9 88123396 262144 65
 0 0 0 0
 4 189000 65000
 A
@@ -336,18 +336,16 @@ obj ball lead~
 &Ka lead ball&n~
 A heavy ball made of lead is here~
 ~
-9 2099200 0 16385
-20 0 0 0
+9 2097152 0 16385
+25 0 0 0
 50 75000 40000
 A
 19 2
 A
-12 40
-A
-4 -1
+18 2
 #7626
 obj ring lord's~
-5
+25
 &wthe &Bl&Kord'&Bs &Wr&win&Wg&n~
 The lord's ring of mastery~
 ~
@@ -369,16 +367,10 @@ obj stockings~
 A pair of black seamed stockings~
 ~
 9 2099200 0 33
-12 0 0 0
+34 0 0 0
 10 180000 45000
 A
 19 2
-A
-12 20
-A
-5 -1
-A
-2 1
 #7628
 obj fruit kiwi~
 100
@@ -412,15 +404,13 @@ obj corsette~
 &Ka black velvet corsette&n~
 A soft, velvety black corsette lies here to be worn~
 ~
-9 2097664 0 2049
+9 2097152 0 2049
 17 0 0 0
 13 157000 35000
 A
 12 20
 A
 19 2
-A
-3 -1
 #7632
 obj heels black~
 20
@@ -444,34 +434,26 @@ obj chain silvery necklace~
 &Ka si&wlv&Wery &wch&Kain&n~
 A silvery necklace with a strange symbol for a pendant~
 ~
-9 2097664 0 5
-5 0 0 0
+9 2097152 0 5
+20 0 0 0
 6 185000 55000
-A
-12 35
 A
 19 2
 A
 18 2
-A
-13 -30
 #7634
 obj Knuckleguards~
-25
+10
 &Ka pair of s&wh&Wi&wn&Ky &wknuckleguards&n~
 A pair of silvery Knuckleguards awaits you to wear them~
 ~
 9 2097152 0 129
-0 0 0 0
+25 0 0 0
 27 237000 45000
 A
 19 2
 A
-12 -25
-A
-2 3
-A
-14 50
+18 2
 #7635
 obj bracer platinum~
 10
@@ -479,48 +461,40 @@ obj bracer platinum~
 A platinum bracer is here waiting to grace your arms~
 ~
 9 1048576 0 257
-15 0 0 0
+40 0 0 0
 40 115000 50000
 A
 19 2
 A
-12 -10
-A
-13 15
+18 2
 #7636
 obj barette glinting~
-8
+10
 &wa &Wg&Yli&Wnt&Yin&Wg &Kb&warett&Ke&n~
 A glinting barette with a spiked edge~
 ~
 9 2097155 0 17
-5 0 0 0
+20 0 0 0
 17 136000 60000
 A
 36 -1
 A
 19 2
 A
-18 3
-A
-12 -14
+18 2
 #7637
 obj ring psychosis~
-5
+15
 &Kthe psychotic ring&n~
 A ring is hear, overwrought with a feeling of pyschosis~
 ~
-9 2097668 0 3
-16 0 0 0
+9 2097152 0 3
+20 0 0 0
 9 87000 31000
 A
-1 4
+19 1
 A
-19 3
-A
-18 -3
-A
-12 10
+18 3
 #7638
 obj suit shadow~
 10
@@ -539,7 +513,7 @@ A
 A
 18 4
 #7639
-obj bracelet chunky crystal~
+obj Crystal Bracelet~
 10
 &wc&Wr&Cyst&Wa&wl &Wbracelet&n~
 A chunky crystal bracelet~
@@ -548,13 +522,9 @@ A chunky crystal bracelet~
 15 0 0 0
 23 159000 35000
 A
-19 2
+19 1
 A
-12 20
-A
-2 -2
-A
-14 -10
+18 2
 #7640
 obj cloak forgiveness~
 20
@@ -687,19 +657,15 @@ A
 4 -1
 #7650
 obj shirt silk~
-100
+15
 &wa &Csilk&w shirt&n~
 A loose-fitting red silk shirt is here.~
 ~
-9 0 0 9
-5 0 0 0
+9 2097152 0 9
+55 0 0 0
 11 30000 8500
 A
-12 15
-A
-26 -1
-A
-27 -1
+19 2
 #7651
 obj pantaloons silk~
 100
@@ -828,7 +794,7 @@ obj bracelet fiery zalmynk~
 &wa f&Wi&rer&Ry br&race&Wl&wet&n~
 A bracelet engulfed with fire lies here.~
 ~
-9 4200449 0 4097
+9 4200449 131072 4097
 20 0 0 0
 1 150000 35000
 A
@@ -845,7 +811,7 @@ obj ring flames circle zalmynk~
 &Wa c&wi&Rrcl&re of &Rfla&wm&Wes&n~
 A circle, covered with flames has been left here.~
 ~
-9 104864260 1024 5
+9 104864260 132096 5
 10 0 0 0
 1 150000 34000
 A

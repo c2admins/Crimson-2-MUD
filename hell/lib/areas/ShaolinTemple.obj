@@ -203,12 +203,12 @@ A
 12 10
 #14117
 obj silver sandals~
-5
+10
 &ca pair of &wsilver&c sandals&n~
 A pair of lovely sandals is lying here.~
 ~
 9 2097152 0 65
-24 0 0 0
+25 0 0 0
 2 20000 30000
 A
 37 -1
@@ -374,7 +374,7 @@ A
 18 4
 #14132
 obj armor suit ceremonial~
-5
+25
 &wa &Wceremonial &wsuit of &Karmor&n~
 A suit of armor bearing the family mark of the General is lying here.~
 ~
@@ -510,5 +510,14 @@ A
 13 -100
 A
 14 100
+#14144
+obj palace key~
+1
+Palace Key~
+a key made from steel is lying here.~
+~
+18 262152 0 1
+0 1 0 0
+1 5 5
 $~
 #999999

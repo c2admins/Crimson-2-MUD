@@ -297,7 +297,7 @@ obj belt thieves~
 &ya &Kthieves &ybelt&n~
 a thieves belt lies here hidden~
 ~
-9 4248096 0 2049
+9 4248096 393344 2049
 15 0 0 0
 14 225000 65000
 A
@@ -314,7 +314,7 @@ obj cloak concealment~
 &ya cloak of &Cconcealment&n~
 a cloak of concealment is hidden here~
 ~
-15 4248064 0 1025
+15 4248064 393344 1025
 350 0 0 0
 9 250000 45000
 A
@@ -357,8 +357,8 @@ obj gloves assassin~
 &ya pair of &Kassassins &ygloves&n~
 A pair of bloody assassin gloves are here~
 ~
-9 4248064 0 129
-10 0 10 0
+9 4248064 393344 129
+10 0 0 0
 14 240000 65000
 A
 19 3
@@ -393,12 +393,12 @@ obj stone~
 20 0 10 0
 1 5 5
 E
-notch~
-It looks like you could stick a sword in it.
-~
-E
 stone~
 Its got a notch thats just begging for the right sword to be inserted.
+~
+E
+notch~
+It looks like you could stick a sword in it.
 ~
 #2127
 obj sword key~
@@ -558,13 +558,13 @@ swordinstone~
 20 0 10 0
 1 5 5
 E
+stone~
+Its got a sword sticking out of it
+~
+E
 sword~
 Its a really expensive looking sword.  A shame someone had to stick it
 permanently into this stone.
-~
-E
-stone~
-Its got a sword sticking out of it
 ~
 #2142
 obj bookshelf shelf~
@@ -594,7 +594,7 @@ obj robe dark mage~
 &yRobes of the &KDark Magi&n~
 A black robe covered in silver runes lies here in a heap.~
 ~
-11 138469988 0 1025
+11 138469988 262272 1025
 0 0 10 0
 15 145000 120000
 A

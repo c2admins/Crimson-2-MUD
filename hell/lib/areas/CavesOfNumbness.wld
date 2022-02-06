@@ -2,7 +2,7 @@
 &WClimbing &yThe Mountain.&n~
   The fields become harder and harder to walk among, you start to ascend towards the clouds.  This road seems to lead to where all the people have hidden  due to the war.  It seems to lead into caves.
 ~
-110 13 8 20 99 1
+115 13 8 20 99 1
 D2
 S
 ~
@@ -19,7 +19,7 @@ S
 You are at the top of the mountain.  You see insects moving about.  A foggy mist
 comes from west of here, it emits a horrid stench, might not want to enter.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D3
 W
 ~
@@ -40,7 +40,7 @@ S
 &CThe Lighted Entrance.&n~
   You step inside a large opening above the grassy fields below.  You just stand here, the light inside glows and flickers.  A very damp mist becomes barreling out of the cave, engulfing you.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D0
 The hidden treasure room.
 ~
@@ -63,7 +63,7 @@ You stand, just inside the cave.  This is a man-made cavern, built to protect th
 who fled the messiah's wrath.  They hide in here, fearing for their lives, if the
 Messiah knew where they were, all would perish.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D1
 The lighted entrance
 ~
@@ -79,7 +79,7 @@ S
 &CThe Misty Hallway.&n~
   You step inside a large opening above the grassy fields below.  You just stand here, the light inside glows and flickers.  A very damp mist becomes barreling out of the cave, engulfing you.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D3
 W
 ~
@@ -97,7 +97,7 @@ You enter the back of the cave, from here the only ways out are to backtrack
 the way you came in or head south, the mist makes it hard to tell what could lie
 there, but it might be worth a look.
 ~
-110 268435977 0 20 75 1
+115 268435977 0 20 75 1
 D2
 S
 ~
@@ -109,7 +109,7 @@ S
 It seems that there is something hidden deep within here, heading down might
 show you what lies there, but it might lead to your death...Are you willing to chance it?
 ~
-110 268435977 0 20 75 1
+115 268435977 0 20 75 1
 D0
 N
 ~
@@ -127,7 +127,7 @@ You stand in a passage, only large enough for you and a comrade, the walls are
 four feet away from each other, this narrow passage leads downward.  But it 
 leads into a darkness, that you can not see yet.
 ~
-110 268435977 0 20 75 1
+115 268435977 0 20 75 1
 D2
 S
 ~
@@ -144,7 +144,7 @@ S
 The passage becomes even smaller.  You can only fit through here to see what 
 might lie below.  *gulp* Do you feel like dying?
 ~
-110 268435977 0 20 75 1
+115 268435977 0 20 75 1
 D0
 N
 ~
@@ -162,7 +162,7 @@ A beaming light blinds you for a second.  Then you realize that the mist has
 subsided and that all around you is brightened by this light.  You see heading
 down it gets darker, and the light will not follow. Is this as far as you wish to go?
 ~
-110 268435977 0 20 75 1
+115 268435977 0 20 75 1
 D4
 U
 ~
@@ -183,7 +183,7 @@ beam of light comes from downward in the tunnel.  A strange scream comes from
 down there, whats going on?  Light engulfs your eyes as you see him!  The doctor
 that left that note on the wall at the beginning of this laboratory!  Its Dr. Wyzlitrus!
 ~
-110 268435465 0 20 75 1
+115 268435465 0 20 75 1
 D4
 A damp tunnel beneath the laboratory
 ~
@@ -203,7 +203,7 @@ its wrist.  Be quick, because this golem has the power of every single one
 that was made before him, and he isnt very happy that you have discovered 
 where he hides.
 ~
-110 1879048456 536870912 42 75 1
+115 1879048456 536870912 42 75 1
 D4
 A damp tunnel beneath the laboratory
 ~
@@ -217,7 +217,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D1
 Misty hallway.
 ~
@@ -236,7 +236,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D0
 N
 ~
@@ -255,7 +255,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D3
 W
 ~
@@ -274,7 +274,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D1
 E
 ~
@@ -292,7 +292,7 @@ You stand deep within the earth.  The mist is alot hazier and thicker then it wa
 at the entrance.  You start seeing things that arent there.  The cave has begun
 to take its effect on you. You're going mad, and there is no way out.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D1
 E
 ~
@@ -316,7 +316,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D2
 S
 ~
@@ -334,7 +334,7 @@ S
 from the humidity in the air.  It perks up, eyes glowing red, and spots you.  Its 
 time to die.
 ~
-110 268435469 0 20 40 1
+115 268435469 0 20 40 1
 D0
 N
 ~
@@ -348,7 +348,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 0 20 40 1
+115 268435465 0 20 40 1
 D1
 E
 ~
@@ -365,7 +365,7 @@ S
 You stand inside a lighted room, what stands in front of you is a long deceased
 healer. His body and skin still in tact, he goes about his business as if he isn't dead at all.
 ~
-110 268435469 0 20 40 1
+115 268435469 0 20 40 1
 D0
 N
 ~
@@ -379,7 +379,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 9 536870912 1 99 1
+115 9 536870912 1 99 1
 D2
 Deep within the earth.
 ~
@@ -398,7 +398,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 536870912 41 75 1
+115 268435465 536870912 41 75 1
 D1
 E
 ~
@@ -427,7 +427,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435469 536870912 41 75 1
+115 268435469 536870912 41 75 1
 S
 #20574
 &KDeep Within The &yEarth&n.~
@@ -436,7 +436,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435469 536870912 41 75 1
+115 268435469 536870912 41 75 1
 S
 #20575
 &KDeep Within The &yEarth&n.~
@@ -445,7 +445,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 536870912 41 75 1
+115 268435465 536870912 41 75 1
 D0
 N
 ~
@@ -465,7 +465,7 @@ D5
 D
 ~
 gatetoearth~
-15 20568 20578
+3 20568 20578
 S
 #20576
 &KDeep Within The &yEarth&n.~
@@ -474,7 +474,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 536870912 41 75 1
+115 268435465 536870912 41 75 1
 S
 #20577
 &KDeep Within The &yEarth&n.~
@@ -483,7 +483,7 @@ so dark in here even using a light its hard to find a path.  There is a fog comi
 from deeper within.  Inspecting it might mean your doom. but you realize now 
 there is no other choice because the cave has shut you in, now there is not exit.
 ~
-110 268435465 536870912 41 75 1
+115 268435465 536870912 41 75 1
 S
 #20578
 &KDeep Within The &yEarth&n.~
@@ -492,7 +492,7 @@ deeper inside sends your skin crackling.  The sweat drips from your brow, and
 you realize that, you are succumbing to the heat.  Maybe if you move on, it might
 get colder....
 ~
-110 268435465 536870912 41 75 1
+115 268435465 536870912 41 75 1
 D0
 N
 ~
@@ -502,14 +502,14 @@ D4
 U
 ~
 gatetoearth~
-15 20568 20575
+3 20568 20575
 S
 #20579
 &KDeep Within The &yEarth&n.~
 &nThe &rflames&n spit from deeper inside.  It burns and the only exit is to go 
 further into the &rflames&n.  Is this how you die?
 ~
-110 268435465 536870912 41 75 1
+115 268435465 536870912 41 75 1
 D1
 E
 ~
@@ -521,7 +521,7 @@ S
 You stand above the &Rflames&n.  The intense heat is charring your skin.  The
 sweat begins dripping even more.  Your throat becomes dry, as you realize, you have to go exstinguish the mighty flames before you can escape the heat.
 ~
-110 268435465 536870912 41 75 1
+115 268435465 536870912 41 75 1
 D5
 D
 ~
@@ -535,7 +535,7 @@ begins to peel it away.  In the center of the &Rflames &nstands a larger &Rflame
 it seems to be alive and very angry that you have entered its lair, now you will
 suffer the heat of this beast's anger.
 ~
-110 268435464 536870912 41 75 1
+115 268435464 536870912 41 75 1
 D5
 Inside the machine
 ~
@@ -548,7 +548,7 @@ S
 decay of their bones.  There are no exits, now YOU become one of these lifeless
 corpses.
 ~
-110 268435465 536870912 41 75 1
+115 268435465 536870912 41 75 1
 D4
 The sewer of dreams
 ~
@@ -561,7 +561,7 @@ S
 before you, angry at you making the slightest sound.  It eyes you hungrily, then
 with one swoop it attacks!....
 ~
-110 268435465 536870912 41 75 1
+115 268435465 536870912 41 75 1
 D2
 The final clouds
 ~
@@ -574,7 +574,7 @@ This is the treasure room of those whom have fled.  They keep their valuables
 here for safe keeping.  The chest in here is not too big, but made of silver and 
 twinkles with the encrusted gems upon it.
 ~
-110 1342177293 0 20 40 1
+115 1342177293 0 20 40 1
 D2
 The lighted entrance.
 ~
@@ -615,7 +615,7 @@ There are two coffee cups in which to drink from.  You have been summoned
 here to discuss your problems and thus you shall.  Thank you for your time.
 - The Immortal Crew on C2.
 ~
-110 2013380744 805306368 44 75 1
+115 2013380744 805306368 44 75 1
 D0
 The Ante Conference Room
 ~
@@ -652,7 +652,7 @@ Haven of Animals and Angels.~
 Large creatures stir in here.  The cold darkness saps into you, now you know, that you shouldnt be in here.  The snarls coming from deeper within tell you that
 this isnt the greatest of places to be.
 ~
-110 1342177293 0 1 99 1
+115 1342177293 0 1 99 1
 D4
 Angel's Demise
 ~
@@ -665,7 +665,7 @@ An odd laboratory.~
 The room itself is adorned with cases, filled with vials of experimental
 elements.  Upon the one of the walls you see a &gnote&n.
 ~
-110 268435465 0 41 75 1
+115 268435465 0 41 75 1
 D5
 Breaking internally.
 ~
@@ -704,7 +704,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 41 75 1
+115 268435977 0 41 75 1
 D2
 Breaking internally.
 ~
@@ -723,7 +723,7 @@ across the floor are wires and pieces of scrap metal.  The walls are made of
 pure steel, and in the corner you see one of the killers.  It seems to be a
 metallic golem. Its heading right towards you.
 ~
-110 268435465 0 1 99 1
+115 268435465 0 1 99 1
 D3
 Breaking internally.
 ~
@@ -737,7 +737,7 @@ across the floor are wires and pieces of scrap metal.  The walls are made of
 pure steel, and in the corner you see one of the killers.  It seems to be a
 metallic golem. Its heading right towards you.
 ~
-110 268435465 0 1 99 1
+115 268435465 0 1 99 1
 D1
 Breaking internally.
 ~
@@ -751,7 +751,7 @@ across the floor are wires and pieces of scrap metal.  The walls are made of
 pure steel, and in the corner you see one of the killers.  It seems to be a
 metallic golem. Its heading right towards you.
 ~
-110 268435465 0 1 99 1
+115 268435465 0 1 99 1
 D3
 Breaking internally.
 ~
@@ -765,7 +765,7 @@ across the floor are wires and pieces of scrap metal.  The walls are made of
 pure steel, and in the corner you see one of the killers.  It seems to be a
 metallic golem. Its heading right towards you.
 ~
-110 268435465 0 1 99 1
+115 268435465 0 1 99 1
 D2
 A hidden exit, going deeper into the laboratory.
 ~
@@ -784,7 +784,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 1 99 1
+115 268435977 0 1 99 1
 D0
 Breaking internally.
 ~
@@ -803,7 +803,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 1 99 1
+115 268435977 0 1 99 1
 D0
 Breaking internally
 ~
@@ -827,7 +827,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 1 99 1
+115 268435977 0 1 99 1
 D0
 Breaking internally.
 ~
@@ -851,7 +851,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 1 99 1
+115 268435977 0 1 99 1
 D0
 Breaking internally.
 ~
@@ -870,7 +870,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 1 99 1
+115 268435977 0 1 99 1
 D0
 Breaking interally
 ~
@@ -889,7 +889,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 1 99 1
+115 268435977 0 1 99 1
 D0
 Breaking internally.
 ~
@@ -913,7 +913,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 1 99 1
+115 268435977 0 1 99 1
 D0
 Breaking internally
 ~
@@ -932,7 +932,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 1 99 1
+115 268435977 0 1 99 1
 D0
 Breaking internally.
 ~
@@ -951,7 +951,7 @@ smooth marble hallway.  The foul stench of decaying flesh enters your nose and
 you feel the sudden urge to vomit.  You begin walking further inward in this 
 odd laboratory.
 ~
-110 268435977 0 1 99 1
+115 268435977 0 1 99 1
 D1
 Breaking internally.
 ~
@@ -975,12 +975,12 @@ hear the buzz of them as the circuits malfunction.  Standing in what looks like
 a machine you feel your mind swell, your bones begin to stress, and your eyes
 bulge, as you realize, you're being sucked into a vortex.
 ~
-110 1342177293 0 41 75 1
+115 1342177293 0 41 75 1
 D4
 The vortex of pain
 ~
 ~
--32624 -1 20603
+144 -1 20603
 D5
 A slice of God.
 ~
@@ -993,7 +993,7 @@ S
 Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
 around you, murrmering words and staring blankly at you.
 ~
-110 1346371593 0 41 75 1
+115 1346371593 0 41 75 1
 D0
 Vortex of pain
 ~
@@ -1031,7 +1031,7 @@ S
 Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
 around you, murrmering words and staring blankly at you.
 ~
-110 1346371593 0 1 99 1
+115 1346371593 0 1 99 1
 D0
 Vortex of pain
 ~
@@ -1069,7 +1069,7 @@ S
 Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
 around you, murrmering words and staring blankly at you.
 ~
-110 1346371593 0 1 99 1
+115 1346371593 0 1 99 1
 D0
 Vortex of pain
 ~
@@ -1098,7 +1098,7 @@ S
 Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
 around you, murrmering words and staring blankly at you.
 ~
-110 1883249801 536870912 1 99 1
+115 1883249801 536870912 1 99 1
 D5
 Vortex of Pain
 ~
@@ -1111,7 +1111,7 @@ S
 Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
 around you, murrmering words and staring blankly at you.
 ~
-110 1346371593 0 1 99 1
+115 1346371593 0 1 99 1
 D0
 A hidden part of the vortex.
 ~
@@ -1129,7 +1129,7 @@ S
 Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
 around you, murrmering words and staring blankly at you.
 ~
-110 1346371593 0 1 99 1
+115 1346371593 0 1 99 1
 D2
 The Vortex of pain
 ~
@@ -1147,7 +1147,7 @@ S
 Cries of the less fortunate.  You are almost floating on air.  Swirling faces swim
 around you, murrmering words and staring blankly at you.
 ~
-110 1346371593 0 1 99 1
+115 1346371593 0 1 99 1
 D4
 Vortex of Pain
 ~
@@ -1157,7 +1157,7 @@ D5
 Pit of corpses
 ~
 Something~
-31 20559 20582
+19 20559 20582
 S
 $~
 #999999

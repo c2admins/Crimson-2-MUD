@@ -143,7 +143,7 @@ obj symbol tremere~
 &wThe &ws&wymbo&wl&w of the &CH&cous&Ce &wof &CT&cremer&Ce&n~
 a strange kindred symbols lies here half buried in dirt~
 ~
-9 71315457 4 5
+9 71315457 131076 5
 20 0 0 0
 25 10000000 200000
 A
@@ -350,7 +350,7 @@ obj battle armor lasombra~
 &KThe Battle Armor of the House of &BLasombra&n~
 a set of glowing battle armor lies here~
 ~
-9 71307264 0 9
+9 71307264 131072 9
 0 0 0 0
 80 3000000 13650
 A
@@ -382,7 +382,7 @@ obj sigil madness~
 &pTh&Ke &wS&Wi&wg&Wi&wl &Wo&wf &wM&Wa&wdn&Ke&pss&n~
 a strange symbol lies here humming~
 ~
-1 4217412 0 65537
+1 4217412 131200 65537
 0 0 0 0
 15 4000000 1000000
 A
@@ -399,7 +399,7 @@ obj mark daywalker~
 &wThe &BMark &wof the &KDay&wwa&Wlk&Yer&n~
 the glowing mark of immortality lies here awaiting its next patron~
 ~
-1 272804928 0 65537
+1 272804928 262144 65537
 0 0 0 0
 30 175000 100000
 A

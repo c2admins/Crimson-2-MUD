@@ -7,9 +7,9 @@ mob servant~
 sounds as you approach. He begins to go about his business of cleaning
 the tower.&n
 ~
-10 1 136249361 8 350 S
-41 7 40 1d1+3999 10d19+2
-55000 333000
+10 1 136249361 8 1000 S
+44 7 40 1d1+3999 10d19+2
+55000 500000
 8 8 1
 1 0 17 15 14 15 13 14
 #24381
@@ -48,9 +48,9 @@ mob fledgling mage mob~
 &W A &Yf&yledglin&Yg &Rm&rag&Re&W stands beforeyou wearing a long &Rb&rloo&Rd &Rred&W
 robe. He pays little attention to you as you enter his room.&n
 ~
-10 32769 136249361 128 0 S
-40 5 40 1d1+12999 20d10+5
-55000 420000
+10 32769 136249361 0 -1000 S
+44 5 40 1d1+12999 20d10+5
+55000 500000
 8 8 1
 1 1 16 18 15 15 12 12
 SKILL=SPELL_MAGIC_MISSILE 99
@@ -188,9 +188,9 @@ mob librarian mob~
 &WThe &Yl&yibraria&Yn&w is busy working away, sorting through
 various books of the library.&n
 ~
-1074003978 32769 136249361 128 750 S
-43 -25 40 1d1+24999 20d20+75
-555001 897654
+1074003978 32769 136249361 0 750 S
+44 -25 40 1d1+5999 20d20+75
+555001 1200000
 8 8 1
 1 1 17 17 15 15 14 14
 SKILL=SPELL_CONFLAGRATION 99
@@ -218,9 +218,9 @@ mob skulking force~
 &w This shadowy creature lives by leeching away the lifeforces of all those
 who come in contact with it.&n
 ~
-1074528266 32769 136249361 538968192 0 S
-41 -30 40 1d1+6999 10d5+3
-12500 432453
+1107558410 32769 136249361 2097152 -1000 S
+44 -30 40 1d1+6999 10d5+3
+12500 500000
 8 8 0
 0 0 16 17 14 16 14 11
 SKILL=SPELL_ENERGY_DRAIN 99
@@ -258,9 +258,9 @@ mob flesh golem mob~
 It shows no signs of life. It's completely motionless and ignores your
 every move.&n
 ~
-41943050 1 136249361 2097292 -1000 S
-42 0 -10 1d1+15999 40d11+99
-1250000 987651
+41943050 1 136249361 2097164 -1000 S
+44 0 -10 1d1+15999 40d11+99
+1250000 1200000
 8 8 0
 0 0 17 15 16 16 13 12
 #24396
@@ -271,8 +271,8 @@ mob ghostly horror mob~
  &wA ghostly horror is a tortured soul of a mage gone mad. They forever
 roam this tower.&n
 ~
-1108606986 1 136249361 2097280 -1000 S
-42 -5 40 1d1+11999 38d10+89
+1107558410 1 136249361 2097152 -1000 S
+44 -5 40 1d1+11999 38d10+89
 25000 1234567
 8 8 0
 0 0 16 16 14 14 15 15
@@ -284,9 +284,9 @@ mob insane mage mob~
 &w Once a powerful mage, now just a shell of his former self. His thirst for
 power drove him mad.&n
 ~
-1074003976 32769 136249361 128 -1000 S
-43 -25 40 1d1+14999 40d10+99
-250000 876543
+1074003976 32769 136249361 0 -1000 S
+44 -25 40 1d1+5999 40d10+99
+250000 900000
 8 8 0
 1 1 17 16 16 15 15 11
 ATTACK_SKILL=0

@@ -250,11 +250,12 @@ quick as the wind itself you are sliced open. Li Mu Bai now warns you to
 advance no further because you will not have his sword on this day or any
 other.
 ~
-1074016264 32769 136249361 640180900 0 S
-48 0 -35 100d125+350000 30d25+60
-10000 2000000
+1074008072 32769 136249361 640180900 0 S
+48 0 -35 100d125+135000 30d25+60
+10000000 2500000
 8 8 0
 1 4 22 22 22 22 22 22
+SKILL=SPELL_ELSEWHERE 99
 SKILL=SPELL_FIREBALL 99
 SKILL=SKILL_PARRY 99
 SKILL=SKILL_DODGE 99
@@ -282,8 +283,8 @@ martial arts. In her hand appears to be some kind of hollowed out staff. As you
 approach her she prepares to end your life.
 ~
 1074008072 32769 136249361 573075628 -1000 S
-47 0 -34 100d125+300000 25d30+65
-30000 1269000
+48 0 -34 100d125+130000 25d30+65
+5000000 2500000
 8 8 0
 1 0 20 20 22 22 19 19
 SKILL=SPELL_ELSEWHERE 99
@@ -318,7 +319,6 @@ teeth just waiting to gnaw on your hands and feet.
 0 0 25 16 15 25 25 25
 SKILL=SPELL_GAS_BREATH 99
 SKILL=SKILL_RAGE 99
-SKILL=SKILL_PARR 99
 ATTACK_SKILL=99
 ATTACK_SKILL=10
 ATTACK_SKILL=4

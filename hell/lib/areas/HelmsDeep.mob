@@ -9,8 +9,8 @@ stronger than men in combat, as their only objective is to kill.
 Uruk-hai sometimes wear black armor and wield fierce blades. They
 bare the mark of Saruman.&n
 ~
-1108606986 32769 136249361 2101290 -1000 S
-46 3 -27 1d1+19999 36d10+99
+1107558410 32769 136249361 2101290 -1000 S
+46 3 -27 1d1+11999 36d10+99
 750000 1100000
 8 8 0
 0 4 24 17 15 22 16 12
@@ -75,18 +75,10 @@ a glorius looking bow. He wear standard elven armor from head to toe, on
 his hands are a pair of finely crafted &yleather&w gloves.&n
 ~
 1074004042 32769 136249361 174 1000 S
-47 0 -15 1d1+26999 35d35+60
-2000000 2132445
+45 0 -15 1d1+26999 35d35+60
+2000000 850000
 8 8 1
 14 4 19 18 14 22 20 13
-ATTACK_SKILL=20
-ATTACK_SKILL=5
-ATTACK_SKILL=5
-ATTACK_TYPE=102
-ATTACK_SKILL=20
-ATTACK_SKILL=5
-ATTACK_SKILL=5
-ATTACK_TYPE=103
 #23805
 mob king theoden~
 &WKing &CT&wh&ceod&we&Cn&n~

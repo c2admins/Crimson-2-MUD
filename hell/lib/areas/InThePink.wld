@@ -10,7 +10,7 @@ see a star move?  Nah...these things stay in place, don't they?
 You notice some etchings on an asteroid floating by...
 
 ~
-94 12 0 1 99 0
+94 12 0 47 99 0
 D0
 beyond the atmosphere~
 beyond the atmosphere~
@@ -58,7 +58,7 @@ Adrift in space...~
 You float here in the vacuum of space.  Looking around, you notice some 
 familiar constellations.
 ~
-94 134217740 0 20 99 2
+94 134217740 0 47 99 2
 D0
 further into space
 ~
@@ -79,7 +79,7 @@ frozen on their faces.  It's apparent that anguish and misery abound on this fie
 This isn't Hell.  This is Hockey.
 
 ~
-94 1612709920 1048576 20 99 2
+94 1612709920 1048576 47 99 2
 D5
 &wb&Wel&wow the &Wt&whi&Wn &Ci&cc&Ce&n
 ~
@@ -91,7 +91,7 @@ S
 
 You've fallen through the ice!
 ~
-94 335551500 0 20 99 8
+94 335551500 0 47 99 8
 S
 #15804
 &ythe &YPy&yra&Ym&yi&Yd&ys&n~
@@ -101,7 +101,7 @@ for pharohs had traps and mazes --> DTs required.
 Darius Zechariah should maybe be here?  Get Soul-Calibur so that you can work on the four horsemen
 and then Apocalypse...
 ~
-94 8 0 1 99 2
+94 8 0 47 99 2
 S
 #15805
 Room for Disraeli~
@@ -124,55 +124,55 @@ Oh, by the way, nothing is capitalized in the okeywords on the production port.
 You don't need to capitalize anything over here either.
 
 ~
-94 8 0 1 99 2
+94 8 0 47 99 2
 S
 #15806
 nothing yet~
 
 ~
-94 8 0 1 99 2
+94 8 0 47 99 2
 S
 #15807
 nothing yet~
 
 ~
-94 12 0 1 99 6
+94 12 0 47 99 6
 S
 #15808
 nothing yet~
 
 ~
-94 8 0 1 99 6
+94 8 0 47 99 6
 S
 #15809
 nothing yet~
 UNDEFINED ROOM DESCRIPTION: 15809
 ~
-94 8 0 1 99 0
+94 8 0 47 99 0
 S
 #15810
 nothing yet~
 
 ~
-94 8 0 1 99 6
+94 8 0 47 99 6
 S
 #15811
 nothing yet~
 
 ~
-94 8 0 1 99 6
+94 8 0 47 99 6
 S
 #15812
 nothing yet~
 
 ~
-94 8 0 1 99 6
+94 8 0 47 99 6
 S
 #15813
 nothing yet~
 
 ~
-94 8 0 1 99 6
+94 8 0 47 99 6
 S
 #15814
 nothing yet~
@@ -184,25 +184,47 @@ S
 nothing yet~
 
 ~
-94 0 0 1 99 2
+94 0 0 47 99 2
 S
 #15816
-nothing yet~
+&wAt the gates of &WZ&wio&Wn&n~
 
 ~
-94 0 0 1 99 2
+94 1073741824 536870912 41 99 2
+D2
+~
+path~
+1 0 15817
 S
 #15817
-nothing yet~
+&WOn the &Rbattle&rfield&n~
 
 ~
 94 0 0 1 99 2
+D0
+~
+path~
+1 0 15816
+D2
+To the &Gw&ga&ys&Kted fi&yeld&Ks&n.
+~
+path~
+1 0 15818
 S
 #15818
-nothing yet~
+&wt&Wh&we &Gw&ga&yst&Ked fi&yeld&Ks&n~
 
 ~
-94 0 0 1 99 2
+94 1342177280 536870912 41 99 2
+D0
+~
+path~
+1 0 15817
+D2
+&wTo the &Wg&wat&Wes &wof &RHe&rl&Yl&w.&n
+~
+path~
+33 0 15819
 S
 #15819
 &wthe &Wg&wat&We &wto &RHe&rl&Yl&n~
@@ -213,7 +235,12 @@ you find yourself incapable of either.  Panic is gripping your very soul.
 Between you and hell is the ultimate gate keeper: the fourth horseman of the apocalypse - Death.
 &n
 ~
-94 1879048192 536870912 47 99 2
+94 1342177280 536870912 41 99 2
+D0
+&wTo the &Gw&ga&yst&Ked fi&yeld&Ks&w.&n
+~
+path~
+33 0 15818
 S
 #15820
 Hillary's room.~
@@ -222,7 +249,7 @@ As you enter the room a feeling of peace fills your body.  The room is all
 white and very clean, which is totally opposite from the rest of the island.
 
 ~
-94 0 0 1 99 2
+94 0 0 47 99 2
 S
 $~
 #999999

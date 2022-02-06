@@ -4,7 +4,7 @@ obj playground instability life drainer~
 &KInstability&w, the &KLife-Drainer&n~
 &KA lifeless sword rests on the ground, it awaits it's next victim to slaughter.&n~
 ~
-5 4223488 0 8193
+5 4223488 131072 8193
 4194368 10 4 3
 1 5 5
 A
@@ -186,7 +186,7 @@ obj playground eternal wisdom~
 &cE&Ct&We&cr&Wn&Ca&cl &pW&Kisdo&pm&n~
 &WEternal wisdom lies at your feet.&n~
 ~
-1 4238339 0 65537
+1 4238339 262144 65537
 0 0 0 0
 1 5 5
 A

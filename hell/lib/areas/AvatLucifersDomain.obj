@@ -211,15 +211,15 @@ A large ring lies on the floor crying.~
 0 0 10 0
 1 40000 100000
 E
-ring was made from a wicked mage out of the corpse of a great mages corpse.  The corpse was a man named ~
-*}_'{$$EP)dkPSb!_?{
-~
-E
 Ring Gozor~
 This ring was made from the corpse of a once famous mage.  The soul was bound
 on top of the large diamond in the center of a gold setting.  This ring was
 the most seeked artifact in history.  The power of the great mage himself. 
 All though the ring has mysterious powers, it seems to cry for freedom.
+~
+E
+ring was made from a wicked mage out of the corpse of a great mages corpse.  The corpse was a man named ~
+*}_'{$$EP)dkPSb!_?{
 ~
 A
 12 38
@@ -738,7 +738,7 @@ obj gauntlets sandman lucifer~
 &nthe &Kgauntlets&n of the &ysandman&n~
 Someone has left some dark gauntlets here.~
 ~
-9 4243972 0 257
+9 4243972 262272 257
 5 0 0 0
 1 5 5
 A
@@ -807,7 +807,7 @@ obj lamb hide lucifer~
 &wA &Wlamb's &yhide&n~
 &wa &Wlamb's &yhide &wlies here&n~
 ~
-15 88113664 28672 1033
+15 88113664 290816 1033
 350 0 0 0
 1 5 5
 A
@@ -841,7 +841,7 @@ obj hooves bloody lucifer~
 &Rb&rl&Ro&ro&Rd&ry &Khooves&n~
 Someone has dropped some bloody hooves here.~
 ~
-9 104876544 0 65
+9 104876544 128 65
 20 0 0 0
 1 5 5
 A
@@ -871,7 +871,7 @@ obj sin lucifer pendant~
 &rSin's Pendant&n~
 Someone has dropped a pendant here.~
 ~
-9 4233728 28672 5
+9 4233728 421888 5
 20 0 0 0
 1 1000000 100000
 A

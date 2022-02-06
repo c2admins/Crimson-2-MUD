@@ -7,7 +7,7 @@ The wizard looks old and senile, and yet he looks like a very powerful
 wizard. He is equipped with fine clothing, and is wearing many fine
 rings and bracelets.
 ~
-262218 32769 136249361 136 900 S
+537133130 32769 136249361 136 900 S
 50 0 -20 20000d1+20000 100d90+90
 200000 10000
 8 8 1
@@ -29,7 +29,7 @@ The Baker looks at you calmly, wiping flour from his face with one hand.
 A fat, nice looking baker. But you can see that he has many scars on his
 body.
 ~
-262218 1 136249361 136 900 S
+537133130 1 136249361 136 900 S
 50 0 -20 100d10+900 100d40+50
 0 10000
 8 8 1
@@ -41,7 +41,7 @@ A grocer stands at the counter, with a slightly impatient look on his face.
 ~
 A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
 ~
-262218 1 136249361 136 900 S
+537133130 1 136249361 136 900 S
 50 0 -20 20000d1+20000 100d90+90
 200000 10000
 8 8 1
@@ -53,7 +53,7 @@ A weaponsmith.
 ~
 A young weaponsmith, who still has lots to learn.
 ~
-262218 1 136249361 136 900 S
+537133130 1 136249361 136 900 S
 50 0 -20 20000d1+20000 100d90+90
 400000 10000
 8 8 1
@@ -66,7 +66,7 @@ An Armourer stands here.
 An old but very strong armourer, he has made more armours in his
 lifetime than you have ever seen.
 ~
-262218 1 136249361 136 900 S
+537133130 1 136249361 136 900 S
 50 0 -20 20000d1+20000 100d90+90
 100000 10000
 8 8 1
@@ -90,7 +90,7 @@ A retired Captain stands here, selling boats.
 ~
 This Captain has eaten more sharks than you have killed peas.
 ~
-262218 1 136249361 136 900 S
+537133130 1 136249361 136 900 S
 48 0 0 20000d1+20000 100d90+90
 20000 1000
 8 8 1
@@ -274,7 +274,7 @@ A Bartender watches you calmly, while he skillfully mixes a drink.
 ~
 A tired looking Bartender who hates trouble in his bar.
 ~
-262154 1 136249361 136 900 S
+537133066 1 136249361 136 900 S
 48 0 -20 20000d1+20000 100d90+90
 200000 10000
 8 8 1
@@ -299,7 +299,7 @@ peaceful life as a waiter.
 ~
 waiter
 ~
-262154 1 136249361 0 600 S
+537133066 1 136249361 0 600 S
 25 15 18 11d10+2000 8d5+21
 7550 75000
 8 8 1
@@ -311,7 +311,7 @@ A waiter who seems to have reach contact with God.
 ~
 waiter
 ~
-262154 1 136249361 0 600 S
+537133066 1 136249361 0 600 S
 25 15 18 11d10+2000 8d5+21
 7550 75000
 8 8 1
@@ -323,7 +323,7 @@ A waiter who knows where all his customers have thier money.
 ~
 waiter
 ~
-262154 1 136249361 0 600 S
+537133066 1 136249361 0 600 S
 25 15 18 11d10+2000 8d5+21
 7550 75000
 8 8 1
@@ -335,7 +335,7 @@ A waiter who easily could kill you, and still carry quite a few firebreathers.
 ~
 Waiter
 ~
-262154 1 136249361 0 600 S
+537133066 1 136249361 0 600 S
 25 15 18 11d10+2000 8d5+21
 7550 75000
 8 8 1
@@ -348,7 +348,7 @@ Filthy is standing here, eager to serve you a special drink.
 Filthy looks real, ehm, dirty. He likes to keep his costumers happy,
 but do not mess with him or else he'll get upset.
 ~
-262154 1 136249361 136 600 S
+537133066 1 136249361 136 600 S
 48 0 -20 20000d1+20000 100d90+90
 20000 10000
 8 8 1
@@ -535,7 +535,7 @@ This bright skin of this small creature relects the sunlight into your eyes.
 It appears to be made of solid gold! It chatters to itself as it
 gnaws on the small nut clutched between it's hands.
 ~
-10 1 136249361 0 1000 S
+536870922 1 136249361 0 1000 S
 5 32 37 10d5+3 1d3+4
 275 145
 8 8 1

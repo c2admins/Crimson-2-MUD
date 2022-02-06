@@ -1,0 +1,714 @@
+#20745
+mob elven lookout~
+&gThe &Ge&glve&Gn &Klookout&n~
+&gAn &Ge&glve&Gn &Klookout &gstands here, scanning the horizon for intruders.&n
+~
+ Standing just over five feet tall with striking features and long flowing hair, the elven 
+lookout is the epitome of what people envision when they think of elves. He stands tirelessly
+gazing out the window at his perch, scanning the surrounding area for anything that might be
+considered a threat to his home.
+~
+263242 1146881 136249361 536870924 900 S
+41 0 -25 10d30+12000 8d5+3
+500000 369000
+8 8 1
+0 0 17 16 14 16 12 12
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20746
+mob elven sentry~
+&gThe &Ge&glve&Gn &Ksentry&n~
+&gAn &Ge&glve&Gn &Ksentry &gstands here, guarding the door.&n
+~
+  Standing just over five and a half feet tall, the elven sentry has features typical of most
+elves. Pointed ears, almond shaped eyes and long flowing hair help to accent his delicate,
+yet somewhat chiseled features. He wears a suit of finely meshed leather and chain armor, and 
+brandishes a sharp looking longsword that should have no trouble cutting through flesh.
+~
+262218 1081345 136249361 536870956 900 S
+43 0 -30 50d2+22000 45d2+0
+500000 645000
+8 8 1
+0 0 17 17 16 16 14 13
+SKILL=SPELL_BLINDNESS 60
+SKILL=SPELL_DISPEL_EVIL 90
+SKILL=SPELL_SHOCKING_GRASP 90
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20747
+mob legandir eveningstar~
+&WLegandir &wEven&King&Ystar&n~
+&WLegandir &wEven&King&Ystar &gis here, assisting anyone who needs help.&n
+~
+  Legandir is an ancient elf, probably several millenia old. He has lost his sight, but has found other 
+magical means to go about his daily duties as keeper of the temple of the stars.
+~
+10250 4227073 136249361 872439980 800 S
+45 -10 -40 50d30+22000 30d30+99
+1000000 1000000
+8 8 1
+14 6 16 18 15 14 12 12
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 40
+SKILL=SKILL_DODGE 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_RESIST 99
+#20748
+mob thrawyn silverstaff~
+&GT&ghrawyn &WS&wilv&Kerstaff&n~
+&GT&ghrawyn &WS&wilv&Kerstaff&n, keeper of the treeshaper magics is here.
+~
+  Thrawyn is the keeper of the magics the Quel'Sith use to shape trees and form their home. It is a magic
+unique to these elves, and a closely guarded secret. because of this Thrawyn is constantly guarded, just in 
+case someone decides they want the magic for themselves.
+~
+1073744202 32769 136249361 16556 1000 S
+47 -10 -40 99d10+40000 10d20+99
+3500000 1269000
+8 8 1
+14 6 17 15 14 16 12 15
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_PARRY 50
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_MAGIC_IMMUNE 99
+SKILL=SPELL_SMITE 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_SKILL=50
+ATTACK_TYPE=100
+#20749
+mob nindel t'elnorn~
+&GN&winde&Gl &GT&w'elnor&Gn&n~
+&GN&winde&Gl T&w'elnor&Gn &gstands here, welcoming all to his temple.&n
+~
+  Nindel is the youngest of the temple keepers, but she is still nearly a millenia old. She still looks 
+strikingly young for her age, no doubt thanks to her sun god Illithandur.
+~
+10250 4227073 136249361 335560876 900 S
+45 -10 -40 50d30+19000 25d25+99
+1100000 965000
+8 8 2
+14 6 17 18 14 16 12 15
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_HARM 99
+SKILL=SPELL_REGENERATION 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_SILENCE 99
+#20750
+mob elemir til'giras~
+&cE&wlemir &cT&wil'Giras&n~
+&cE&wlemir &cT&wil'Giras &gis here, welcoming all to his temple.&n
+~
+  Elemir is the keeper of the temple of the moon. Though he is over 1000 years old, he still maintains his
+youthful appearance and vigor like all elves.
+~
+8202 4292609 136249361 1140867244 950 S
+45 -10 -40 50d20+17000 15d15+99
+1000000 960000
+8 8 1
+14 6 16 15 16 14 15 14
+SKILL=SPELL_LIGHTNING_BOLT 99
+SKILL=SPELL_SHOCKING_GRASP 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SPELL_SHOCKWAVE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20751
+mob elruwen til'giras~
+&pE&wlruwen &pT&wil'Giras&n~
+&pE&wlruwen &pT&wil'Giras&g is here, welcoming those who enter her temple.&n
+~
+  Elruwen is the older sister of Elemir, and also the keeper of the temple of the winds. She has only 
+recently taken over care Raya's shrine, and still seems a bit disoriented in her duties. Previously she 
+fashioned magical armors and weapons from natural items such as dragon scales and teeth, and should you
+be able to provide her with the correct assortment of items, she may summon enough magic to make something
+of worth.
+~
+67110986 4227073 136249361 1140867276 900 S
+46 -15 -40 50d50+22500 15d15+60
+1100000 1000000
+8 8 2
+14 6 17 15 16 16 12 11
+SKILL=SPELL_HARM 99
+SKILL=SPELL_SLEEP 88
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_CONFLAGRATION 99
+SKILL=SPELL_SILENCE 50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20752
+mob tinewen snowraven~
+&GT&ginewen &WS&wno&Ww&Kraven&n~
+&GT&ginewen &WS&wno&Ww&Kraven &nis here, tending to the Kil'Ron Mor.
+~
+  Tinewen is the exception to every rule. Unlike the other female elves of Quel'Sith, she bears tattoos not
+unlike the men, but more of them. her dark brown hair is tied into a pony tail, and her face is painted with
+designs that give her a feral look. She stays away from the other elves, preferring instead the company of
+the Kil'Ron Mor wolves that she tends. The only person she has ever been known to socialize with is the 
+mysterious "guardian" of the Quel'Sith forest, most likely because they share a similar bind with the wolves.
+~
+1140858954 4292609 136249361 603996332 500 S
+46 -10 -40 10d10+30000 10d10+99
+2500000 1200000
+8 8 2
+14 4 16 17 16 16 12 12
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_METEOR_SWARM 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20753
+mob celendil n'ahlor~
+&GC&gelendril &GN&g'ahlor&n~
+&GC&gelendril &GN&g'ahlor, the master Stoneweaver, is here.&n
+~
+  Celendril is the oldest living elf currently among the Quel'Sith. He has run the stone weavers guild since
+its inception, but its ranks have dwindled recently as the newer guilds ranks swell. If he is unable to find
+an adequate apprentice, this guild may soon become nothing more than a memory and its great magics lost to
+time.
+~
+10 4292609 136249361 606093480 1000 S
+48 -20 -40 40d40+35000 31d16+79
+5000000 1540000
+8 8 1
+14 6 17 15 14 16 13 15
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_CHILL_TOUCH 99
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_SUMMON 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 20
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_DIVINE_RETRIBUTION 99
+SKILL=SKILL_RAGE 99
+#20754
+mob torwyn bloodstone elven king~
+&KTorwyn &RB&rloo&Rd&Kstone&n~
+The &Ge&glve&Gn &gking stands here, watching over his people.&n
+~
+  A wise and very noble leader, Torwyn has protected his people from human and orc expansion for the past 
+several hundred years. His daughters, and only heirs to his throne have left his side to seek adventure, and
+now sit upon the council seats in the city of Brimstone. Whether or not they will one day return to their home
+is uncertain, and weighs heavily on the kings shoulders.
+~
+10 32769 136249361 16556 1000 S
+45 0 -30 1d1+22999 35d20+90
+1000000 1000000
+8 8 1
+0 0 17 15 16 16 13 12
+SKILL=SPELL_FIREBALL 99
+SKILL=SPELL_SANCTUARY 99
+SKILL=SKILL_PARRY 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_HEAL_MAJOR 99
+SKILL=SPELL_MAGIC_RESIST 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_SILENCE 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20755
+mob elven merchant~
+The &GE&glve&Gn &gmerchant&n~
+An &GE&glve&Gn &gmerchant stands here, peddling his wares.&n
+~
+  The merchant is part of the lower cast of elven society and has little to offer a true hero, but he 
+continues to offer his wares to anyone willing to buy.
+~
+536870986 1 136249361 40 900 S
+20 40 40 1d1+1 1d1+1
+50000 0
+8 8 1
+14 4 16 18 16 16 13 11
+#20756
+mob elven merchant~
+The &GE&glve&Gn &gmerchant&n~
+An &GE&glve&Gn&g merchant stands here, offering a few meager items.&n
+~
+  The merchant is part of the lower caste of elven society and has little to offer a true hero, but she
+continues to try and sell her wares to those who look interested.
+~
+536870986 1 136249361 40 900 S
+20 40 40 1d1+1 1d1+1
+50000 0
+8 8 2
+14 4 16 18 16 16 13 11
+#20757
+mob elven armorer~
+The &GE&glve&Gn &garmorer&n~
+The &GE&glve&Gn &narmorer stands here, doing some repairs.
+~
+  The armorer works effortlessly day in and day out repairing the equipment of hapless adventurers that 
+make their way through the forest. Even though, his specialization is the crafting of new pieces of armor, 
+more specifically shields. If you bring him the right materials, he may be able to craft you something of
+value.
+~
+536870986 1 136249361 40 900 S
+20 40 40 1d1+1 1d1+1
+50000 0
+8 8 1
+14 4 16 18 16 16 13 11
+#20758
+mob male elf commoner~
+A male &Ge&gl&Gf&n~
+A common male &Ge&gl&Gf&n is here, wandering around.
+~
+  This elf stands roughly five and a half feet tall, with flowing blonde hair and blue eyes. Typical of all
+elves, he has a slight build, and large pointed ears. As is common with the elves of Quel'Sith, he bears 
+numerous tattoos on his face and arms which depict his status in the community.
+~
+1074004172 1 136249361 4 800 S
+40 10 0 10d10+10000 5d10+60
+150000 250000
+8 8 1
+0 0 16 18 16 15 12 11
+#20759
+mob elf female commoner~
+A female &Ge&gl&Gf&n~
+A common female &Ge&gl&Gf&n is here, wandering around.
+~
+  Unlike most races, the women of Quel'Sith stand roughly the same height as the males, which is roughly five
+and a half feet tall. Their hair color can range from a fine blonde to a dark chestnut, and their eyes have
+been known to vary in color based on their mood. Unlike the men, the women do not tattoo their bodies, instead
+using multicolored clothing to show their ranking within their society.
+~
+1074004172 1 136249361 4 800 S
+40 10 0 10d1+10000 5d10+60
+150000 250000
+8 8 2
+0 0 16 18 16 15 12 11
+#20760
+mob thrawyns personal guard~
+&GT&ghrawyn's &Kguard&n~
+&GT&ghrawyn's &Kguard&g is here, guarding the master.&n
+~
+  A recent graduate of the bladesigners guild, the guard will protect the treeshaper master with his life.
+~
+26186 4227073 136249361 536870956 960 S
+44 -5 -30 35d10+26000 10d5+90
+1100000 860000
+8 8 1
+14 4 16 15 15 14 15 14
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20761
+mob elven child~
+A small &Ge&glve&Gn &nchild~
+A small &Ge&glve&Gn &nchild is here.
+~
+  As is typical with most elves, the children of the Quel'Sith develop very slowly. Based purely upon looks, 
+this child appears to be no more than eight or nine years old, but he is actually closer to fifty.  
+~
+204 1048577 136249361 33554440 700 S
+20 20 24 10d7+1500 2d5+20
+5000 60000
+8 8 1
+14 0 17 16 15 14 13 12
+#20762
+mob elven child~
+A small &Ge&glve&Gn &nchild~
+A small &Ge&glve&Gn &nchild is here.
+~
+  As is typical with most elves, the children of the Quel'Sith develop very slowly. Based purely upon looks, 
+this child appears to be no more than eight or nine years old, but she is actually closer to seventy.  
+~
+204 1048577 136249361 33554440 700 S
+20 20 24 10d1+1500 2d5+20
+5000 60000
+8 8 2
+14 0 17 16 15 14 13 12
+#20763
+mob laera shadowsong~
+&cL&Ka&wera &KShadow&cs&Won&cg&n~
+&cL&Ka&wera &KShadow&cs&Won&cg&w, the &KMaster Shadow&Wdancer&w is here.&n
+~
+  Tall and statuesque, Laera define all that is a shadowdancer. Her clothes are dark and tight fitting, aiding
+her with the stealth techniques that make her class so famous. She does not bear any noticeable weapons or
+any other equipment, but she's sure to have a number of items hidden away in her clothing.
+~
+1073809482 1343489 136249361 67109036 400 S
+46 -10 -40 10d10+30000 10d20+99
+2500000 1200000
+8 8 2
+14 3 17 15 14 15 13 11
+SKILL=SPELL_ARMOR 99
+SKILL=SPELL_BLESS 99
+SKILL=SPELL_DISPEL_EVIL 99
+SKILL=SPELL_HARM 99
+SKILL=SPELL_SUMMON 99
+SKILL=SPELL_HEAL_MINOR 99
+SKILL=SPELL_HEAL_MEDIUM 99
+SKILL=SPELL_SILENCE 99
+SKILL=SPELL_PESTILENCE 99
+SKILL=SPELL_LIFETAP 99
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=100
+#20764
+mob elven shadowdancer~
+An &Ge&glve&Gn &Kshadow&cd&wa&Wnc&we&cr&n~
+&gAn &Ge&glve&Gn &Kshadow&cd&wa&Wnc&we&cr&g is here, attempting to hide.&n
+~
+  &gStill rather new at his trade, the elven shadowdancer practices constantly. He wears tight fitting 
+black leather armor to assist in hiding in shadows and carries a posioned short sword, the trademark of his
+guild.&n
+~
+1073815624 5537793 136249361 35127340 300 S
+41 4 -24 10d50+9500 10d5+56
+500000 369000
+8 8 1
+14 3 16 15 14 15 13 14
+#20765
+mob elven shadowdancer~
+An &Ge&glve&Gn &Kshadow&cd&wa&Wnc&we&cr&n~
+&gAn &Ge&glve&Gn &Kshadow&cd&wa&Wnc&we&cr&g is here, attempting to hide.&n
+~
+&g  Still rather new at her trade, the elven shadowdancer practices contantly. She wears a tight fitting black
+leather suit of armor to assist in her ability to hide in shadows and carries a poisoned short sword, the 
+trademark of her guild.&n
+~
+1073815624 5537793 136249361 35127340 300 S
+41 4 -24 10d1+9500 10d5+56
+500000 369000
+8 8 2
+14 3 16 15 14 15 13 14
+#20766
+mob koevar hlae'athem~
+&KKo&we&cvar &KHl&wa&We'Athem&K, Master Bla&wd&resi&wn&Kger&n~
+&KKo&we&cvar &KHl&wa&We'Athem, &gthe &KMaster Bla&wd&resi&wn&Kger&n is here.
+~
+  The Bladesingers are the newest guild of the Quel'Sith, and as such, Koevar is the youngest active guild-
+master. He stands an impressive six foot four, and is very muscular for an elf. He bears a scar across his 
+left eye, but the eye itself is clear and his vision seems normal. Like all bladesingers, his equipment is 
+light, consisting only of common leather armor and a pair of twin blades.
+~
+1140859210 4292609 136249361 874528940 900 S
+47 -20 -35 30d15+35000 15d12+90
+2750000 1400000
+8 8 1
+14 5 17 18 14 14 12 13
+SKILL=SPELL_MAGIC_MISSILE 99
+SKILL=SKILL_KICK 99
+SKILL=SKILL_EXTRA_DAMAGE 99
+SKILL=SKILL_PARRY 50
+SKILL=SKILL_DODGE 99
+SKILL=SKILL_SCALES 99
+SKILL=SKILL_HUNT 99
+SKILL=SPELL_CREMATION 99
+SKILL=SPELL_FIRESTORM 99
+SKILL=SPELL_HEMMORAGE 99
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=10
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20767
+mob shallessa derdesseau~
+&GS&Khalless&Ga D&Ke&Gr'D&Kessea&Gu&n~
+&GS&Khalless&Ga D&Ke&Gr'D&Kessea&Gu&n, Master Wardancer, is here.
+~
+  Shallessa is an old and tireless elf. She never loses patience with her charges, and is thus one of the most
+respected guildmasters around. She appears rather plain for an elf, standing a modest five and a half feet 
+tall with long chestnut hair and eyes to match. She wears a suit of elven chainmail and carries with her the
+banner of the Quel'Sith elves at all times.
+~
+1140859210 4292609 136249361 874528940 900 S
+47 -20 -35 30d15+35000 15d12+90
+2750000 1400000
+8 8 2
+14 4 16 15 14 14 14 14
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=25
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=50
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20768
+mob heliase lapsier~
+the Blank Mob~
+The Blank Mob standing here, looking formless.
+~
+The Blank Mob is pretty formless, awaiting a creators molding.
+~
+8 1 136249361 0 0 S
+20 40 40 1d1+1 1d1+1
+1 0
+8 8 0
+0 0 16 15 16 15 14 14
+#20769
+mob bladesinger initiate~
+&KA bla&wd&resi&wn&Kger &winitiate&n~
+&KA bla&wd&resi&wn&Kger &winitiate&K is here.&n
+~
+  The iniates of the bladesinger guild spend a majority of their time practicing swordfighting techniques. 
+Once they have mastered the blade, their status is upgraded and they are then taught the arts of war magic.
+Finally, after mastering the magical arts, they are allowed to graduate and become full fledged bladesingers 
+and join the ranks of the elven army.
+~
+28232 4227073 136249361 536887342 900 S
+42 2 -25 30d30+18000 10d2+99
+750000 645000
+8 8 1
+14 4 16 18 15 14 14 15
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20770
+mob advanced bladesinger~
+&KAn &wadvanced &Kbla&wd&resin&Kger&n~
+&KAn &wadvanced &Kbla&wd&resin&Kger is here.&n
+~
+  The advanced bladesingers of the guild have begun practicing the magical arts. Once their trainign is 
+complete, they will graduate and join the ranks of the elven army.
+~
+28232 4227073 136249361 603996844 950 S
+43 1 -30 10d20+11000 10d4+99
+1000000 750000
+8 8 1
+14 4 16 15 16 16 13 12
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_SILENCE 40
+SKILL=SPELL_FIRELANCE 70
+SKILL=SPELL_DIVINE_RETRIBUTION 50
+ATTACK_SKILL=75
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_SKILL=0
+ATTACK_TYPE=103
+#20771
+mob elf treeshaper male~
+A male &Ge&gl&Gf &Gtr&ge&yesha&gp&Ger&n~
+A male &Ge&gl&Gf &Gtr&ge&yesha&gp&Ger&g is here, minding his own business.&n
+~
+  The treeshaper wanders around his guild practicing his abilities of molding contantly. His power is nearly 
+limitless, only bound by the mimit of his imagination.
+~
+1073750088 5275649 136249361 34078764 300 S
+41 4 -24 10d1+9500 10d5+56
+500000 369000
+8 8 1
+14 6 16 15 14 15 13 14
+#20772
+mob elf treeshaper female~
+A female &Ge&gl&Gf &GTr&ge&yesha&gp&Ger&n~
+A female &Ge&gl&Gf &Gtr&ge&yesha&gp&Ger&g is here, minding her own business.&n
+~
+  The treeshaper wanders around her guild practicing her abilities of molding contantly. Her power is nearly 
+limitless, only bound by the mimit of her imagination.
+~
+1073750088 5275649 136249361 34078764 300 S
+41 4 -24 10d1+9500 10d5+56
+500000 369000
+8 8 2
+14 6 16 15 14 15 13 14
+#20773
+mob male elf stoneweaver~
+A male &Ge&gl&Gf &wstoneweaver&n~
+A male &Ge&gl&Gf &wstoneweaver&g is here.
+~
+  The stoneweaver wanders around his guild practicing his abilities of molding contantly. His power is nearly 
+limitless, only bound by the mimit of his imagination.
+~
+1073750088 5275649 136249361 34078764 300 S
+41 4 -24 10d1+9500 10d5+56
+500000 369000
+8 8 1
+14 6 16 15 14 15 13 14
+#20774
+mob female elf stoneweaver~
+A female &Ge&gl&Gf &wstoneweaver&n~
+A female &Ge&gl&Gf &wstoneweaver&g is here.
+~
+  The stoneweaver wanders around her guild practicing his abilities of molding contantly. Her power is nearly 
+limitless, only bound by the mimit of her imagination.
+~
+1073750088 5275649 136249361 34078764 300 S
+41 4 -24 10d1+9500 10d5+56
+500000 369000
+8 8 1
+14 6 16 15 14 15 13 14
+#20775
+mob male kil'ron mor wolf black~
+&yA &Kblack &yKil'Ron Mor&n~
+&yA &Kblack&y Kil'Ron Mor watches you from a distance.&n
+~
+     Rumors say that the Kil'Ron Mor were created when an ordinary wolf took
+shelter inside the fabled Elven Tree of Life on a cold winter night. The magic
+of the tree granted that wolf increased intelligence and size in exchange for
+the protection of the elves. Whether this story is actually true or not is un-
+known, but the Elves of the Quel'Sith and the strange wolves do share a bond 
+that has lasted for generations. Once a bond is created, one would gladly die
+to save the other in any battle.
+     The magnificent beast before you stands nearly six feet tall at the 
+shoulder. Jet black fur accents sharp green eyes that stare at you with a pro-
+found intellect not found in normal beasts. In every other respect, the Kil'Ron
+Mor looks like a normal wolf.
+~
+150995788 134250753 136253489 67109036 950 S
+20 20 24 30d1+1750 4d4+15
+0 60000
+8 8 1
+0 0 17 18 16 16 12 15
+#20776
+mob female kil'ron mor wolf white~
+&yA &Wwhite&y Kil'Ron Mor&n~
+&yA &Wwhite &yKil'Ron Mor watches you catiously from the &Kshadows&y.&n
+~
+     Rumors say that the Kil'Ron Mor were created when an ordinary wolf took
+shelter inside the fabled Elven Tree of Life on a cold winter night. The magic
+of the tree granted that wolf increased intelligence and size in exchange for
+the protection of the elves. Whether this story is actually true or not is un-
+known, but the Elves of the Quel'Sith and the strange wolves do share a bond 
+that has lasted for generations. Once a bond is created, one would gladly die
+to save the other in any battle.
+     The magnificent beast before your stands nearly five tall at the 
+shoulder. Fur was white as new snow is accented by eyes as blue as the
+darkest ice. The eyes of the beast hold a profound intellect not known
+to normal creatures. In all other respects, the Kil'Ron Mor looks like a
+normal wolf.
+~
+150995788 134250753 136249361 67371180 950 S
+20 20 24 20d1+1500 5d4+15
+0 60000
+8 8 2
+0 0 16 17 14 16 15 14
+#20777
+mob male kil'ron mor red wolf~
+&yA &rred &yKil'Ron Mor&n~
+&yA &rred &yKil'Ron Mor watches you catiously from the &Kshadows&y.&n
+~
+     Rumors say that the Kil'Ron Mor were created when an ordinary wolf took
+shelter inside the fabled Elven Tree of Life on a cold winter night. The magic
+of the tree granted that wolf increased intelligence and size in exchange for
+the protection of the elves. Whether this story is actually true or not is un-
+known, but the Elves of the Quel'Sith and the strange wolves do share a bond 
+that has lasted for generations. Once a bond is created, one would gladly die
+to save the other in any battle.
+     The magnificent beast before you stands nearly four feet tall at the
+shoulder. Fur of a rusty brown color is accented by deep, black pupiless
+eyes. The eyes of the beast hold a profound intellect not known to 
+normal creatures. In all other respects, the Kil'Ron Mor looks like a
+normal wolf.
+~
+16777292 134217985 136249361 33554472 650 S
+16 24 29 10d1+275 2d4+4
+0 4800
+8 8 1
+0 0 16 16 16 15 15 13
+#20778
+mob elven wardancer~
+&wAn &Ge&glve&Gn &rW&Ra&rr&Kdancer&n~
+An &Ge&glve&Gn &rW&Ra&rr&Kdancer&n is here, patrolling the area.
+~
+  When not at war, the wardancers primary responsibility is patrolling the city of Quel'Sith. It is a task 
+they are very proud of, and it is nearly impossible to catch the brave warriors off guard.
+~
+28232 4227073 136249361 603996844 950 S
+43 1 -30 10d1+11000 10d4+99
+1000000 750000
+8 8 1
+14 4 16 15 16 16 13 12
+SKILL=SPELL_FIREBALL 90
+SKILL=SPELL_SILENCE 40
+SKILL=SPELL_FIRELANCE 70
+SKILL=SPELL_DIVINE_RETRIBUTION 50
+$~
+#999999

@@ -1,12 +1,6 @@
 #400
 Index for ClansArea~
-Crimson Alliance 401-410
-Death Squad 411-420
-Forsaken 436
-Havok 451-455
-Black Hand 460-467
-Tortured Souls 471-475
-Clan Wolf 480-491
+Whiterose 440-446
 ~
 4 805306376 0 48 99 1
 D2
@@ -825,18 +819,26 @@ D0
 0 -1 471
 S
 #440
-unused~
-UNDEFINED ROOM DESCRIPTION: 440
+&KTet&wrag&Wram&wmat&Kon &wCou&Kn&wcil~
+&wHere you enter a large room with black marble floors lined with &KBlack 
+&wM&Ka&Wr&Kb&wle &KPi&wl&Wl&wa&Krs &was you enter the room you notice a large statue of Atlas
+holding an illuminated world on his back as you venture past Atlas you
+notice a large black desk with a large black chair you also notice a file
+on the desk it has your name on it. Behind the desk sits a &KC&wou&Wn&wci&Kl &wmember
+of the highest honor.
+
+He says to you "You are charged with the crime of sensory offense, How do 
+you plead" You attempt to regain your composure however it is too late, the
+&KC&wou&Wn&wci&Kl &wmember orders you to be taken to the Hall of Destruction
+for summary judgment and combustion.
+
 ~
-4 805306376 0 1 99 1
-D1
+4 1879162888 805306368 1 99 0
+D5
+There are stairs leading down to the foyer.
 ~
-~
-0 -1 441
-D3
-~
-~
-0 -1 439
+door~
+1 0 441
 S
 #441
 Entrance Hall~
@@ -858,6 +860,11 @@ D2
 ~
 ~
 0 -1 3070
+D4
+There is a stairway leading up to another room.
+~
+door~
+1 0 440
 D5
 ~
 ~
@@ -901,7 +908,7 @@ D1
 0 -1 442
 S
 #444
-War Counsil Room~
+War Council Room~
   When you enter this room,you notice a large wooden table in the center
 of it,covered with maps and charts,essential to the art of war.Those who
 have proven themselves are often placed in this room to aid in the

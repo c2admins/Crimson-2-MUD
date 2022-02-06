@@ -30,17 +30,13 @@ A
 27 -1
 #9302
 obj blue crystaline sword~
-4
+10
 &BBlue&C crystaline &wsword&n~
 A &Ccrystaline&n sword rests here, reflecting the light.~
 ~
-5 69206016 0 8193
-8 6 8 3
+5 2097152 0 8193
+64 15 3 3
 5 20000 2000
-A
-18 2
-A
-19 2
 #9303
 obj blue steel axe~
 15
@@ -58,19 +54,13 @@ A
 14 -5
 #9304
 obj blue sapphire machete~
-2
+10
 &Bblue &Csapphire&w machete&n~
 A &Bblue &Csapphire &wmachete&n lies on the ground.~
 ~
-5 69220352 0 8193
-16448 6 6 3
+5 2097152 0 8193
+3136 10 3 0
 5 50000 5000
-A
-19 2
-A
-18 2
-A
-26 -1
 #9305
 obj oaken staves~
 8
@@ -140,7 +130,7 @@ obj shield of discord~
 &Kshield &rof &Kd&ri&Ksc&ro&Krd&n~
 &wA &Kshield &rof &Kd&ri&Ksc&ro&Krd&w lies here, its dull surface seeming to absorb the light.&n~
 ~
-9 68159488 0 513
+9 69208064 0 513
 20 0 0 0
 10 65000 6500
 A
@@ -151,18 +141,18 @@ obj juicy melon~
 &ca &Gj&cui&Gc&cy &Gm&ce&Gl&co&Gn&n~
 &ca &Gj&cui&Gc&cy &Gm&ce&Gl&co&Gn&n sits on the ground, looking delicious.~
 ~
-19 8 0 16385
+19 0 0 16385
 15 0 0 0
-1 250000 5
+1 5 5
 #9312
 obj golden corn~
 10
 &yg&Yo&yld&Ye&yn c&Yo&yrn&n~
 &yg&Yo&yld&Ye&yn c&Yo&yrn&n tempts you from the ground~
 ~
-19 8 0 16385
+19 0 0 16385
 25 0 0 0
-1 150000 5
+1 5 5
 #9313
 obj Book of Schism~
 5
@@ -200,12 +190,12 @@ A
 3 2
 #9314
 obj altar of Bladdest~
-100
+1
 If you can pick this up, you are a damned pimp.~
 An altar covered with the bones of some long-deceased darkling sits here, undisturbed.~
 ~
-15 0 0 1
-100 0 0 0
+15 8 0 1
+0 0 0 0
 8000 5 5
 #9315
 obj ring of Bladdest~
@@ -239,8 +229,17 @@ obj darkling pond~
 A small. soothing pond.~
 A peaceful pond with tranquil water gurgles enticingly, giving you the urge to drink deeply.~
 ~
-17 8 0 1
+17 8 0 0
 2000000 2000000 0 0
 3500 5 5
+#9318
+obj stone stepway~
+100
+&kstone ladder&n~
+&kShallow, slick stone grooves ... Are they climbable?&n~
+~
+25 0 0 0
+0 0 0 0
+1 5 5
 $~
 #999999

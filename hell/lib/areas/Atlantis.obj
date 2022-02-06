@@ -59,7 +59,7 @@ obj scales waterbeast~
 Two enormous fish-like scales have been left here.~
 ~
 9 65536 0 33
-9 0 0 0
+9 11 0 0
 11 22000 3000
 A
 19 1
@@ -93,13 +93,9 @@ obj trident moon sea~
 &KTrident &wof the &WM&woo&Wn &cS&Ce&ca&n~
 The legendary Trident of the Moon Sea rests here!~
 ~
-5 1069121 0 8193
-8 5 6 11
+5 1048641 0 8193
+16777216 12 2 11
 12 110000 15000
-A
-19 3
-A
-18 3
 #14508
 obj symbol holy pisces necklace~
 10
@@ -221,15 +217,17 @@ A
 19 1
 #14519
 obj helm of waterbreathing~
-10
+40
 &wa &Khelm &wof &cwater&wbr&Weathi&wng&n~
 A small blue helm rests here.~
 ~
 9 0 0 17
-5 0 0 0
+20 0 0 0
 7 5000 1000
 A
 30 -1
+A
+18 2
 #14520
 obj electrified tail~
 6

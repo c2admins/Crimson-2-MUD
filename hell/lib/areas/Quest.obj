@@ -4,7 +4,7 @@ obj Sword chosen~
 Sword of the chosen~
 A Sword of the Chosen rests here.~
 ~
-5 134479873 0 8193
+27 134479873 0 8193
 0 0 0 0
 1 45000 0
 #901
@@ -13,7 +13,7 @@ obj tome knowledge~
 Tome of knowledge~
 A Tome of knowledge is sitting here.~
 ~
-8 134479872 0 16385
+27 134479872 0 16385
 0 0 0 0
 1 50000 0
 #902
@@ -22,7 +22,7 @@ obj shroud holy~
 a holy shroud~
 The shroud of the holy one is sitting here.~
 ~
-9 134479872 0 1025
+27 134479872 0 1025
 0 0 0 0
 1 55000 0
 #903
@@ -31,7 +31,7 @@ obj eye beholder~
 Eye of the beholder~
 The Eye of the beholder is sitting here.~
 ~
-1 134479872 0 65537
+27 134479872 0 65537
 0 0 0 0
 1 40000 0
 #904
@@ -40,7 +40,7 @@ obj ring gods~
 Ring of the gods~
 A Ring of the gods is sitting here.~
 ~
-9 134479872 0 3
+27 134479872 0 3
 0 0 0 0
 1 30000 0
 #905
@@ -93,7 +93,7 @@ A pair of silk gloves glow brightly.~
 10 0 0 0
 1 5 50000
 #910
-obj Pythias hammer~
+obj pythias hammer 1 imm~
 0
 &wHa&Wm&wme&Kr o&wf T&Wr&wut&Kh&n~
 A hammer rests here, gently prodding your honesty and obedience.~

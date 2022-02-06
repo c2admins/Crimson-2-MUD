@@ -108,13 +108,13 @@ a very old and well-used spear rests here~
 19456 10 6 11
 6 500000 50000
 E
+spear lance maestro ~
+~
+E
 spear lance~
 
 *kill them all*-----*ORION*
 
-~
-E
-spear lance maestro ~
 ~
 A
 19 3
@@ -279,8 +279,8 @@ obj soul calibur~
 The ancient soul blade of good gleams in the light.~
 ~
 5 138543104 0 8193
-5245112 0 0 0
-1 5 5
+5245112 10 7 3
+5 5000000 5000
 A
 19 9
 A
@@ -291,13 +291,13 @@ A
 14 100
 #15817
 obj soul edge~
-32767
+1
 &w@&K==&w{&K:So&wu&Wl&w-&RE&rdg&Re&r::::&R>&n~
-crap~
+The ancient soul blade of evil shimmers in the light.~
 ~
-5 138674176 0 2049
-113 0 0 0
-1 5 5
+5 138412032 0 8193
+4195961 12 6 3
+5 5000000 5000
 A
 19 13
 A
@@ -329,79 +329,105 @@ A bony finger twitches on the ground.~
 25 0 0 0
 1 5 5
 A
-19 3
+40 3
 A
-18 3
+18 2
 A
 24 -3
 A
 23 -3
 #15820
-obj crap~
-100
-crap~
-crap~
+obj balances pair famine~
+2
+&Ka &Kp&wa&Wi&wr of &ybal&Ya&ync&Ye&ys&n~
+A pair of ancient balances rests here.~
 ~
-13 135266312 0 16385
-0 0 0 0
-1 5 5
+9 1 32 16385
+15 0 0 0
+3 150000 1500
+A
+19 5
+A
+18 2
+A
+37 -1
+A
+13 -25
 #15821
-obj crap~
-32767
-crap~
+obj vambrace bone splint~
+1
+&wb&Wo&wn&Ke-sp&wli&Wn&wte&Kd &yv&Ya&ym&wb&Kr&wa&Yc&ye&n~
 crap~
 ~
-13 135266304 0 16385
-50 8 8 116
-1 5 5
-E
-spin~
-*****
-     * 
-*     *  --   HAY ... Take half the money.
-*     *
-*     *
-~
+9 4194305 1028 4097
+25 0 0 0
+5 500000000 10000
+A
+19 3
+A
+18 3
+A
+13 -30
+A
+12 -15
 #15822
-obj crap~
-32767
-crap~
-crap~
+obj symbol power war~
+1
+&RSy&rmb&Rol &wof &RPo&rw&Rer&n~
+&wYou see the crest of a powerful leader lying here.&n~
 ~
-13 262144 0 16385
+1 4196356 4 65537
 0 0 0 0
 1 5 5
 A
-19 8
+40 3
 A
-18 8
+18 2
+A
+41 2
+A
+13 -90
 #15823
-obj crap~
-32767
-crap~
-crap~
+obj apocalypse greatsword war~
+1
+&RGreatsword &Wof the &KApocalypse&n~
+&wA bloodied greatsword with a frightening aura lies here.&n~
 ~
-13 0 0 1
-0 0 0 0
+5 675284996 2048 24577
+458752 10 6 3
 1 5 5
+A
+40 4
+A
+13 -100
 #15824
-obj crap~
-32767
-crap~
-crap~
+obj conqueror crown~
+1
+&WCon&wque&Wror's &YC&Wr&wo&Ww&Yn&n~
+&wAn unassuming crown lies here.~
 ~
-13 0 0 1
-0 0 0 0
+9 4196353 4 17
+15 0 0 0
 1 5 5
+A
+40 4
+A
+41 2
+A
+14 -90
+A
+12 -50
 #15825
-obj crap~
-32767
-crap~
+obj bow ages conquest~
+1
+&WBow &wof the &YAges&n~
 crap~
 ~
-13 0 0 1
-0 0 0 0
+5 541067265 0 8193
+3932160 19 3 11
 1 5 5
+A
+40 4
 #15826
 obj crap~
 32767
@@ -652,37 +678,20 @@ A
 A
 18 7
 #15843
-obj ring sire fatherhood~
-100
-&Kri&wn&Wg &wof &Kth&we &cS&Cir&ce&n~
-A ring of fatherhood proudly rests here.~
+obj crap~
+32767
+crap~
+crap~
 ~
-9 541065216 512 3
-25 0 0 0
-1 100000000 5
-E
-fatherhood~
-&wBecause you &Wbegat&w - this shows &Wthat&w.&n
-~
-E
-sire~
-&wBecause you &Wbegat&w - this shows &Wthat&w.&n
-~
-E
-ring~
-&wBecause you &Wbegat&w - this shows &Wthat&w.&n
-~
-E
-Because you begat - this shows that.~
-~
+13 4456448 4 1033
+100 0 0 0
+1 5 5
 A
-19 3
+13 -100
 A
-18 3
+18 10
 A
-24 -6
-A
-23 -6
+19 5
 #15844
 obj wand master fire~
 1
@@ -733,7 +742,7 @@ A
 A
 17 -100
 A
-41 5
+41 20
 #15847
 obj wizard novice robe black~
 20

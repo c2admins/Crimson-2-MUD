@@ -7,7 +7,7 @@ the amount of dust on the floor, you would guess that no one has been here
 in more than a year...
 The Zonelord has nailed a sign on the doors here.
 ~
-14 1342177289 536870912 41 99 0
+10 1342177289 536870912 41 99 0
 D0
 To the Foyer...
 ~
@@ -34,7 +34,7 @@ indicate to you that someone has been here recently.  Perhaps it was another
 adventurer in search of Gerin's riches.  There is a faint breeze coming from
 the north.
 ~
-14 1342177289 0 1 99 0
+10 1342177289 0 1 99 0
 D0
 To the beginning of the spiral staircase...
 ~
@@ -64,7 +64,7 @@ You can see the entrance to the second floor from here if you look up at
 about a 45 degree angle.  You can reach the second floor if you go up the
 stairs to the east and then follow them around until your there.
 ~
-14 1342177293 536870912 41 99 0
+10 1342177293 536870912 41 99 0
 D1
 Going up the spiral staircase...
 ~
@@ -86,7 +86,7 @@ Servant's Concourse~
 You are in a dark hallway.  Whispers of noise can be heard around you.  You
 wonder if someone or something has noticed your approach...
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To a servant's quarters...
 ~
@@ -108,7 +108,7 @@ The Guest's Concourse~
 You are in a dark hallway with an old red carpet lying on the floor.  The
 hallway ends to the east, where a large painting can be seen on the wall.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To a room...
 ~
@@ -132,7 +132,7 @@ sides of the Tower walls.  There is no railing preventing you from falling
 down through the center of the shaft, so you had better stick close to the
 walls.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going up the spiral staircase...
 ~
@@ -152,7 +152,7 @@ down the center of the shaft, but you can see that the railing is intermit-
 tent at best, and that you had better make sure you stick close to the walls
 lest you slip and fall to your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going up the spiral staircase...
 ~
@@ -172,7 +172,7 @@ down the center of the shaft, but you can see that the railing is intermit-
 tent at best, and that you had better make sure you stick close to the walls
 lest you slip and fall to your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 Going down the spiral staircase...
 ~
@@ -191,7 +191,7 @@ upward and downward, along the sides of the tower shaft.  A protective rail-
 ing is here which prevents you from accidentally falling off the stairs to
 your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To the dining hall...
 ~
@@ -213,7 +213,7 @@ Falling Down the Main Shaft of Gerin's Tower~
 You stumble and fly out into the center of the tower shaft.  You fall quickly
 to your demise. Splat!
 ~
-14 1342177295 536870912 1 99 0
+10 1342177295 536870912 1 99 0
 S
 #1510
 Second Floor Spiral~
@@ -223,7 +223,7 @@ down the center of the shaft, but you can see that the railing is intermit-
 tent at best, and that you had better make sure you stick close to the walls
 lest you slip and fall to your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 To the Second Floor...
 ~
@@ -242,7 +242,7 @@ sides of the Tower walls.  There is no railing preventing you from falling
 down through the center of the shaft, so you had better stick close to the
 walls.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going down the spiral staircase...
 ~
@@ -267,7 +267,7 @@ down the center of the shaft, but you can see that the railing is intermit-
 tent at best, and that you had better make sure you stick close to the walls
 lest you slip and fall to your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going down the spiral staircase...
 ~
@@ -286,7 +286,7 @@ upward and downward, along the sides of the tower shaft.  A protective rail-
 ing is here which prevents you from accidentally falling off the stairs to
 your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 Going up the spiral staircase...
 ~
@@ -311,7 +311,7 @@ down the center of the shaft, but you can see that the railing is intermit-
 tent at best, and that you had better make sure you stick close to the walls
 lest you slip and fall to your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going up the spiral staircase...
 ~
@@ -330,7 +330,7 @@ sides of the Tower walls.  There is no railing preventing you from falling
 down through the center of the shaft, so you had better stick close to the
 walls.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going up the spiral staircase...
 ~
@@ -355,7 +355,7 @@ down the center of the shaft, but you can see that the railing is intermit-
 tent at best, and that you had better make sure you stick close to the walls
 lest you slip and fall to your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 Going down the spiral staircase...
 ~
@@ -373,12 +373,12 @@ You are in the main shaft of Gerin's Tower.  A large door lies directly to
 the north of you.  Strange magical markings appear to slither along the edge
 of the door and all about the door handle.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 You are not sure what lies beyond the door...
 ~
 door~
-1025 1501 1525
+1037 1501 1525
 D1
 Going down the spiral staircase...
 ~
@@ -403,7 +403,7 @@ down the center of the shaft, but you can see that the railing is intermit-
 tent at best, and that you had better make sure you stick close to the walls
 lest you slip and fall to your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 To the fourth floor...
 ~
@@ -422,7 +422,7 @@ sides of the Tower walls.  There is no railing preventing you from falling
 down through the center of the shaft, so you had better stick close to the
 walls.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going down the spiral staircase...
 ~
@@ -447,7 +447,7 @@ down the center of the shaft, but you can see that the railing is intermit-
 tent at best, and that you had better make sure you stick close to the walls
 lest you slip and fall to your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going down the spiral staircase...
 ~
@@ -468,7 +468,7 @@ from accidentally falling to your death.  There is a large door to the
 south of you enscribes with a series of magical words that appear to crawl
 and slither when you look directly at them.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 Going up the spiral staircase...
 ~
@@ -478,7 +478,7 @@ D2
 To the room of the senior apprentice...
 ~
 door~
-557 0 1541
+557 -1 1541
 D3
 Going down the spiral staircase...
 ~
@@ -498,7 +498,7 @@ down the center of the shaft, but you can see that the railing is intermit-
 tent at best, and that you had better make sure you stick close to the walls
 lest you slip and fall to your death.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going up the spiral staircase...
 ~
@@ -517,7 +517,7 @@ sides of the Tower walls.  There is no railing preventing you from falling
 down through the center of the shaft, so you had better stick close to the
 walls.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Going up the spiral staircase...
 ~
@@ -536,7 +536,7 @@ railing is here preventing you from taking a long drop down to the bottom
 of the shaft.  The sixth floor landing is just to the west along the stair-
 case.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 Going down the spiral staircase...
 ~
@@ -556,7 +556,7 @@ manner. However, the foyer that you are in seems to be more 'clean' the
 the rest of the hallway.  There is a door on either side of you and one
 to the south as well.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D0
 Down the disheveled hallway...
 ~
@@ -566,12 +566,12 @@ D1
 To Gromen's room...
 ~
 door~
-1 1501 1526
+9 1501 1526
 D2
 To the spiral...
 ~
 door~
-33 1501 1517
+41 1501 1517
 D3
 To an apprentice's room...
 ~
@@ -589,7 +589,7 @@ and a sink.  The desk is stacked high with books and papers and quills.
 One book in particular takes your fancy.  It is called, "Playing on MUDS."
 Whatever could it possibly be about?
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D3
 To the dorm's hallway...
 ~
@@ -604,7 +604,7 @@ papers. One paper in particular takes your fancy.  It is entitled, "The
 Great Circle".  You read a little on it and find that it is about gold, power
 and opposing view points.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D1
 To the dormitory hall...
 ~
@@ -618,7 +618,7 @@ place. A few burn marks and smudged hand prints adorn the walls here.  Someone
 has drawn an arrow to a black stain on the wall that looks like the profile
 of a man's face.  You wonder what kind of crazy magic has gone on here.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D0
 Down the disheveled hallway...
 ~
@@ -628,7 +628,7 @@ D1
 To an apprentice's room...
 ~
 door~
-1 1501 1529
+9 1501 1529
 D2
 Towards a door...
 ~
@@ -646,12 +646,12 @@ This one however seems to be the messiest.  Books, papers, trash, and
 an odd assortment of clothes lie flung about the room.  You pick up one
 book and read the cover, "Being Bored is Not such a Bad Thing."
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D3
 To the dorm hall...
 ~
 door~
-1 1501 1528
+9 1501 1528
 S
 #1530
 Apprentices' Dormitory~
@@ -660,7 +660,7 @@ dormitory hall.  Actually the door appears to be fine, its just the large,
 black explosion markings around the door that really get your attention.
 What on crimson, could have happened behind that door?
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D2
 Down the disheveled hallway...
 ~
@@ -670,7 +670,7 @@ D3
 Whats behind the door?
 ~
 door~
-1 1501 1531
+13 1501 1531
 E
 paper~
 The papers and scrolls seem to be failed attempts at spell-making.
@@ -683,12 +683,12 @@ black. Somehow though, a few pieces of laboratory equipment still stand:
 a metal box, and rack, and a long (but burnt) lab desk.  Several potions
 rest on the shelves of the rack, and a useful scroll or two is lying about.
 ~
-14 1342179336 536870912 1 99 0
+10 1342179336 536870912 1 99 0
 D1
 To the dorm hallway...
 ~
 door~
-1 1501 1530
+9 1501 1530
 S
 #1532
 Library Entrance~
@@ -698,7 +698,7 @@ into the room beyond.  A large fancy rug meanders from this room to the next
 where a great desk can be seen.  Everything seems to be quiet here, except
 for the faint noise of flapping pages.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D0
 To the spiral...
 ~
@@ -719,7 +719,7 @@ the far wall of this room containing a few choice, but common books.
 This is the Grand Study of Gerin's main library.  It is a place where guests
 and apprentices may find needed information.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D0
 To the entrance of the library...
 ~
@@ -748,7 +748,7 @@ Who could read by the light in here?  At any rate, through the dim you can
 make out books and tomes lining every inch of the shelved walls.  A ladder
 is here to provide easy access to books on higher shelves.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D3
 To the study...
 ~
@@ -766,21 +766,21 @@ This place gives you the shivers.  It is very badly lit, hardly the place to
 actually read any of the thousands of books that line the shelves.  It is
 almost completely quiet except for the soft sound of flapping pages.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D1
 To the study...
 ~
 ~
 0 -1 1533
 E
-ladder~
-The ladder is tall and sturdy.  It is pinned to the shelves via rollers, and
-likewise it has rollers on the ground for easy sliding.
-~
-E
 pages~
 A lone book has been left open on the floor here, and every now and then
 the pages turn...perhaps by a wind.
+~
+E
+ladder~
+The ladder is tall and sturdy.  It is pinned to the shelves via rollers, and
+likewise it has rollers on the ground for easy sliding.
 ~
 S
 #1536
@@ -791,7 +791,7 @@ lining the walls.  There is one noteable exception to this however, a book
 entitled, "The Source Code to CrimsonII," which is quite rare!  At any rate,
 you can see that Gerin's library is vast.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D0
 To the study...
 ~
@@ -803,7 +803,7 @@ Servant's Concourse~
 You are in a dark hallway.  Whispers of noise can be heard around you.  You
 wonder if someone or something has noticed your approach...
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To a servant's quarters...
 ~
@@ -829,7 +829,7 @@ for the awful stench that has just seemed to hit your nostrils.  Perhaps
 the smell comes from the shower.  At any rate, this room has a door that
 adjoins it to the room to the east.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Into the shower...
 ~
@@ -853,7 +853,7 @@ itself. Blood and urine mingle and settle in places where the mixture did
 not run down the drain.  The victim looks somewhat like a butler, dressed
 in blacks, whites, and a fancy bow-tie.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 To a room...
 ~
@@ -867,7 +867,7 @@ The room appears to have been ransacked as everything is in disarray.  Of
 course 'everything' in this room is not much, so even still, the room main-
 tains a certain amount of neatness.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 To the concourse...
 ~
@@ -886,7 +886,7 @@ The place here is very well kept and the soft smell of cinammon incense
 floats around in the room.  Two similar-looking doors are to the south and
 west, while the door back out to the spiral is to the north.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D0
 To the spiral staircase..
 ~
@@ -914,7 +914,7 @@ A desk and two large, comfortable seats are surrounded by roughly 1000 books.
 The senior apprentice seems to be well-read!  A cinammon incense stick burns
 slowly in its mount on the desk, giving this room a cozy atmosphere.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D3
 To the end of the short hallway...
 ~
@@ -929,7 +929,7 @@ the far wall with books, scrolls, and maps lying on top of it.  Several strange
 devices hang from the ceiling and a few 'gizmos' are scattered here and
 there.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D1
 Nothing too special...
 ~
@@ -948,7 +948,7 @@ are here along with many different tools, powders, and potions.  A large
 cauldron is here, along with a long black table.  Several flasks and beakers
 are in a glass cabinet next to the table.
 ~
-14 1342177288 536870912 1 99 0
+10 1342177288 536870912 1 99 0
 D0
 Nothing too special...
 ~
@@ -960,7 +960,7 @@ Televator~
 You are in a small televator with hand-railings around every side of the
 cramped 'room.'  Soft, sweet music is playing in the background.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 To the kitchen...
 ~
@@ -974,7 +974,7 @@ this room, three on either of the east-west walls.  They depict people that
 are unfamiliar to you.  At the far north end of the hall, an archway goes into
 the dining room, where a long table can be see.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To the dining room...
 ~
@@ -984,7 +984,7 @@ D1
 To the theater...
 ~
 ~
-1 -1 1551
+9 -1 1551
 D2
 To the spiral staircase...
 ~
@@ -998,7 +998,7 @@ hay-day there must have been great parties.  But now the dining room is empty
 and not even a single bottle of wine is on the table.  What on earth has
 happened for this castle to be like this.  Surely, Gerin must be dead.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 To the theater through an inconspicous door...
 ~
@@ -1022,7 +1022,7 @@ in this room.  Pots, pans, knives, forks, and a whole array of kitchen-ware
 are scattered about this room.  A large oven, and stove are located in the
 north corner of the room.  The televator is to the west.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 To the dining room...
 ~
@@ -1044,7 +1044,7 @@ Televator~
 You are in a small televator with hand-railings around every side of the
 cramped 'room.'  Soft, sweet music is playing in the background.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 To the 1st floor...
 ~
@@ -1058,7 +1058,7 @@ was left to him to prepare every meal.  Every party had to be a great eating
 experience. No ordinary chef could handle such a task by himself.  So,
 Gerin got the best!
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To the kitchen...
 ~
@@ -1072,12 +1072,12 @@ ated before your eyes.  They dance as if they got no strings to hold them
 down, to make them fret, to make them frown... Then suddenly, the magic ends
 and the marionettes fall lifeless to the floor of the theater stage.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 To the green room...
 ~
 door~
-1 -1 1552
+9 -1 1552
 D2
 To the Dining hall...
 ~
@@ -1095,7 +1095,7 @@ You stand within a room that has a large green rug floor.  The rest of the
 room is filled with couches and desks planted close to mirrors on the walls.
 A few things for make-up and clothing are in this room as well.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D3
 To the theater...
 ~
@@ -1108,7 +1108,7 @@ You are standing in a hallway that splits in several directions.  The tele-
 vator is to the west, the first floor landing to the east, and to the north
 are stairs going down.
 ~
-14 1342177289 536870912 41 99 0
+10 1342177289 536870912 41 99 0
 D0
 To the node.
 ~
@@ -1130,7 +1130,7 @@ Televator to the 6th floor~
 You are in a cozy televator with a couch at the end.  Soft, sweet music is
 playing in the background.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 the north wall of the televator...
 ~
@@ -1147,12 +1147,12 @@ Televator to the 1st floor~
 You are in a cozy televator with a couch at the end.  Soft, sweet music is
 playing in the background.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 To the first floor...
 ~
 door~
-1 -1 1553
+9 -1 1553
 S
 #1556
 Sixth Floor~
@@ -1164,7 +1164,7 @@ around until youre there.
 A railing is here which prevents from falling to your death six stories
 below.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To the end of a hall...
 ~
@@ -1186,7 +1186,7 @@ D3
 To the televator...
 ~
 door~
-1 -1 1555
+9 -1 1555
 S
 #1557
 Hallway to the Second Spiral~
@@ -1195,7 +1195,7 @@ the tower must become narrow and then continue to spiral up till it reaches
 the peak.  Most likely, you will find Gerin or Gerin's riches there.  A
 large door is here blocking your way to the north.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 You can't be too sure what lies ahead...
 ~
@@ -1213,7 +1213,7 @@ You are at the end of a dark hallway.  An old red carpet is lying on the
 floor here, and a large painting of some small town scene is hung on the wall.
 There is a door to the north.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To a room...
 ~
@@ -1231,7 +1231,7 @@ The room is nicely decorated with all the furnishings of a 1st rate hotel.
 Everything appears to be in a neat arrangement suggesting that this room
 has not been disturbed in some time.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 To the guests' concourse...
 ~
@@ -1244,7 +1244,7 @@ The room is nicely decorated with all the furnishings of a 1st rate hotel.
 Everything appears to be in a neat arrangement suggesting that this room
 has not been disturbed in some time.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 To the guests' concourse...
 ~
@@ -1258,7 +1258,7 @@ is impossible to fall down any 'shaft' as the staircase is too tightly
 wound up.  If you follow this staircase to the top you will reach the room of
 Gerin.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 Up the spiral staircase...
 ~
@@ -1282,7 +1282,7 @@ case. You are certain that by following the stairs up, you will reach the
 peak of the tower.  A soft wind blows down the staircase bringing the scent
 of outside air.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Up the spiral staircase...
 ~
@@ -1301,7 +1301,7 @@ case. You are certain that by following the stairs up, you will reach the
 peak of the tower.  A soft wind blows down the staircase bringing the scent
 of outside air.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 Down the spiral staircase...
 ~
@@ -1320,7 +1320,7 @@ case. You are certain that by following the stairs up, you will reach the
 peak of the tower.  A soft wind blows down the staircase bringing the scent
 of outside air.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 Down the spiral staircase...
 ~
@@ -1339,7 +1339,7 @@ case. You are certain that by following the stairs up, you will reach the
 peak of the tower.  A soft wind blows down the staircase bringing the scent
 of outside air.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Down the spiral staircase...
 ~
@@ -1358,7 +1358,7 @@ case. You are certain that by following the stairs up, you will reach the
 peak of the tower.  A soft wind blows down the staircase bringing the scent
 of outside air.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Up the spiral staircase...
 ~
@@ -1377,7 +1377,7 @@ case. You are certain that by following the stairs up, you will reach the
 peak of the tower.  A soft wind blows down the staircase bringing the scent
 of outside air.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 Down the spiral staircase...
 ~
@@ -1396,7 +1396,7 @@ window lies to the west where you can see out into the Crimson landscape. A
 sturdy door is to the north, which includes a sign that reads, 'Do Not
 Disturb.' A soft breeze comes from out the window.
 ~
-14 1342177281 536870912 1 99 0
+10 1342177281 536870912 1 99 0
 D0
 nothing special...
 ~
@@ -1408,15 +1408,15 @@ Down the spiral staircase...
 ~
 0 -1 1567
 E
-door~
-Looking closely at the door, you detect a soft glow surrounding its edges.
-~
-E
 outside window~
 You look out of the window and see the gorgeous landscape of Crimson world.
 Directly below through the trees that surround the moat, you can see a
 hidden trail that you hadn't noticed before.  It is however, quite unreach-
 able from the basic entry points.
+~
+E
+door~
+Looking closely at the door, you detect a soft glow surrounding its edges.
 ~
 S
 #1569
@@ -1426,7 +1426,7 @@ tower. If it were actually the size that it appears it would be hanging in
 mid-air outside of the tower.  Yet, here you are and you are definately within
 the confines of Gerin's Tower.  The hall leads to the north.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Down the large hallway...
 ~
@@ -1444,7 +1444,7 @@ You are in an old stone hallway with a few burnt-out torches in sconces on
 the walls.  A rather large cobweb hangs down from the ceiling and connects
 to a side wall.  Several wrapped-up bugs can be seen within it.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Down the hallway...
 ~
@@ -1462,7 +1462,7 @@ You are in an old stone hallway with a few burnt-out torches in sconces on
 the walls.  A rather large cobweb hangs down from the ceiling and connects
 to a side wall.  Several wrapped-up bugs can be seen within it.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To the hall's end...
 ~
@@ -1482,7 +1482,7 @@ to a side wall.  Several wrapped-up bugs can be seen within it.
 There is a dark wooden door here with a black handle and lock about halfway
 down that looks untouched by dust, or cobwebs.
 ~
-14 1342178313 536870912 1 99 0
+10 1342178313 536870912 1 99 0
 D0
 A door blocks your view...
 ~
@@ -1503,7 +1503,7 @@ appears as large as an apartment.  The bed is canopied and it is not until
 now that you notice someone sleeping in it.  You creep up to the bed to take
 a closer look...
 ~
-14 1342178313 536870912 1 99 0
+10 1342178313 536870912 1 99 0
 D2
 nothing special...
 ~
@@ -1518,7 +1518,7 @@ you is the hard ground of the tower base.  Astonished that you are not dead,
 you quickly recover your wits and notice that there is a rope ladder leading
 up into darkness.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 To the staircase...
 ~
@@ -1536,7 +1536,7 @@ You are in a secret shaft which contains a rope ladder that leads into a room
 above. Looking below is dizzying as you are very high up.  One slip on this
 ladder could mean your doom.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D4
 Up the rope ladder, into a room...
 ~
@@ -1556,7 +1556,7 @@ riddle on it that gets your notice, as it is written in blood.  Otherwise,
 the room is small and crampt, and the writings on the walls seem to bear
 down at you.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 A door blocks your view...
 ~
@@ -1568,11 +1568,6 @@ Down the rope ladder...
 ~
 0 -1 1575
 E
-riddles~
-Hundreds of riddles are written like grafiti in this room.  The riddle 
-written in blood on the door, is the one which takes your notice however.
-~
-E
 door blood~
 What is it that man loves more than life,
 Hates more than death, or mortal strife,
@@ -1580,6 +1575,11 @@ That which the contented man desires,
 the poor have, the rich require,
 the miser spends, the spendthrift saves,
 and all men carry to their Graves?
+~
+E
+riddles~
+Hundreds of riddles are written like grafiti in this room.  The riddle 
+written in blood on the door, is the one which takes your notice however.
 ~
 S
 #1577
@@ -1590,7 +1590,7 @@ they are evil books.  Dust and cobwebs fill this room, covering the books,
 and also a few flasks that you did not notice before.  The door to the south
 seems to have a word carved into it.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 nothing special...
 ~
@@ -1620,7 +1620,7 @@ You are in a dark hallway that travels north-south.  Every step you make on
 this floor causes a soft echo to roll down and back at you.  You think you 
 hear the sound of moaning within the echo, but you cannot be sure.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 Down the secret hall...
 ~
@@ -1641,7 +1641,7 @@ this is was the several blood-filled flasks in a glass cabinet on the north
 wall. No doubt, these are Nezryn Illvar's 'spare' drinks that he keeps around
 just in case.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 nothing special...
 ~
@@ -1655,7 +1655,7 @@ this floor causes a soft echo to roll down and back at you.  You think you
 hear the sound of moaning within the echo, but you cannot be sure.
 A iron-bound door lies to the north.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 nothing special...
 ~
@@ -1675,7 +1675,7 @@ metal chairs, an operating table, a few flasks filled with odd-colored
 liquids. Then you hear it, a moan in the corner of the room!
 A metal door lies to the north.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 A sign on the door reads, 'Life Force Chamber -- Do Not Enter!!.'
 ~
@@ -1687,6 +1687,10 @@ nothing special...
 door~
 9 1441 1580
 E
+metal ~
+A sign on the door reads, 'Life Force Chamber -- Do Not Enter!!.'
+~
+E
 corner moan~
 You look at the dark corner and you hear the sound again.  You creep up
 cautiously and are horrified by what you see:  skeletons, dead humans,
@@ -1694,10 +1698,6 @@ elves, dwarves...bodies that haven't fully decayed yet...with gaunt leathery
 skin. The smell of death mingled with detergent and cleaning agents.
 You are ready to puke when realize that one of the 'corpses' is not quite
 dead!
-~
-E
-metal ~
-A sign on the door reads, 'Life Force Chamber -- Do Not Enter!!.'
 ~
 S
 #1582
@@ -1707,7 +1707,7 @@ to the north, one to the east, and one to the west.  The door to the north
 has a large sign on it, while the door to the east simply has the word, 
 'Quiet' engraved upon it.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 The Lab...
 ~
@@ -1734,7 +1734,7 @@ A Secret Place~
 You are in a small secret chamber that smells full of dust.  The way continues
 to the east although it is very cramped.
 ~
-14 1342177545 536870912 1 99 0
+10 1342177545 536870912 1 99 0
 D2
 a faint shimmering...
 ~
@@ -1751,7 +1751,7 @@ A Secret Place~
 You are in a small, cramped chamber.  The place is covered with dust except
 for a few noteable footprints that seem to be dwarven.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 Through the cramped corridors...
 ~
@@ -1767,7 +1767,7 @@ ment value: Piers Anthony's Xanth series seems to be here in its entirety
 as well as a few of Michael Chricton's books.  Also in attendance, are several
 vampire books by Anne Rice.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D0
 The Study...
 ~
@@ -1785,7 +1785,7 @@ A lone chair occupies this room.  It is old and well-worn, yet it appears
 quite comfortable-looking.  A small book has been folded over the armrest.
 The room is very peaceful to you.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D2
 The Library...
 ~
@@ -1810,7 +1810,7 @@ orderly manner around the room.  All cabinets are shut tight and all flasks
 and containers have been stoppered up.  A thin coating of dust blankets the 
 room.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 The Study...
 ~
@@ -1830,7 +1830,7 @@ thing in this room is a dresser with a large mirror attached to it.  You are
 about to leave the room when you think you see an outline of a 'hidden' door
 to the west.
 ~
-14 1342177289 536870912 1 99 0
+10 1342177289 536870912 1 99 0
 D1
 nothing special...
 ~
@@ -1855,7 +1855,7 @@ room. Several tubes run from it to a series of sockets in the wall.  The
 whole 'coffin' is glazed with ice, yet you can still see through the glass
 top. Peering inside, you see him!
 ~
-14 1342177293 536870912 41 99 0
+10 1342177293 536870912 41 99 0
 D1
 To a small room...
 ~
@@ -1873,14 +1873,14 @@ ing before your eyes!  You feel your face. My gosh! you can feel your skin
 shrivelling! Just then, you get faint, and that is the last thing you remem-
 ber before you die.
 ~
-14 1342177291 536870912 1 99 0
+10 1342177291 536870912 1 99 0
 S
 #1591
 A Small Room~
 You are in a small room with a door leading north and also one leading west.
 Each have small signs on them.
 ~
-14 1342177289 536870912 41 99 0
+10 1342177289 536870912 41 99 0
 D0
 The sign on the door reads, 'Life Force Chamber...Do Not Enter!'
 ~
@@ -1904,7 +1904,7 @@ center of it.  As you make sure there are no hidden objects in the room, a
 hissing sound starts up.  Gas, poison gas!  You must quickly leave if you
 hope to survive.
 ~
-14 1342180361 536870912 1 99 0
+10 1342180361 536870912 1 99 0
 D1
 To Gerin's room...
 ~
