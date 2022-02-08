@@ -3370,9 +3370,7 @@ void db5600_reset_zone(int zone)
 				break;
 
 			case 'M':	/* read a mobile */
-				rc = db5700_zone_reset_mob(&mob, zone, cmd_no, lv_command,
-							   lv_if_flag, lv_arg1,
-							   lv_arg2, lv_arg3);
+				rc = db5700_zone_reset_mob(&mob, zone, cmd_no, lv_command, lv_if_flag, lv_arg1, lv_arg2, lv_arg3);
 				last_mob_valid = 0;
 				last_cmd_valid = 0;
 				if (rc < 0) {	/* WE GOT AN ERROR */
@@ -3387,9 +3385,7 @@ void db5600_reset_zone(int zone)
 				break;
 
 			case 'O':	/* read an object */
-				rc = db5710_zone_reset_object(zone, cmd_no, lv_command,
-							  lv_if_flag, lv_arg1,
-							    lv_arg2, lv_arg3);
+				rc = db5710_zone_reset_object(zone, cmd_no, lv_command, lv_if_flag, lv_arg1, lv_arg2, lv_arg3);
 
 				last_cmd_valid = 0;
 				if (rc < 0) {	/* WE GOT AN ERROR */
@@ -3403,9 +3399,7 @@ void db5600_reset_zone(int zone)
 				break;
 
 			case 'P':	/* object to object */
-				rc = db5740_zone_reset_put(zone, cmd_no, lv_command,
-							   lv_if_flag, lv_arg1,
-							   lv_arg2, lv_arg3);
+				rc = db5740_zone_reset_put(zone, cmd_no, lv_command, lv_if_flag, lv_arg1, lv_arg2, lv_arg3);
 				last_cmd_valid = 0;
 				if (rc < 0) {	/* WE GOT AN ERROR */
 					lv_command = 'p';	/* lower case command to
@@ -3419,9 +3413,7 @@ void db5600_reset_zone(int zone)
 
 
 			case 'G':	/* ha1700_obj_to_char */
-				rc = db5720_zone_reset_give(mob, zone, cmd_no, lv_command,
-							  lv_if_flag, lv_arg1,
-							    lv_arg2, lv_arg3);
+				rc = db5720_zone_reset_give(mob, zone, cmd_no, lv_command, lv_if_flag, lv_arg1, lv_arg2, lv_arg3);
 				last_cmd_valid = 0;
 				if (rc < 0) {	/* WE GOT AN ERROR */
 					lv_command = 'g';	/* lower case command to
@@ -3434,9 +3426,7 @@ void db5600_reset_zone(int zone)
 				break;
 
 			case 'E':	/* object to equipment list */
-				rc = db5730_zone_reset_equip(&mob, zone, cmd_no, lv_command,
-							  lv_if_flag, lv_arg1,
-							     lv_arg2, lv_arg3);
+				rc = db5730_zone_reset_equip(&mob, zone, cmd_no, lv_command, lv_if_flag, lv_arg1, lv_arg2, lv_arg3);
 				last_cmd_valid = 0;
 				if (rc < 0) {	/* WE GOT AN ERROR */
 					lv_command = 'e';	/* lower case command to
@@ -3449,9 +3439,7 @@ void db5600_reset_zone(int zone)
 				break;
 
 			case 'R':	/* read an object */
-				rc = db5760_zone_reset_remove(zone, cmd_no, lv_command,
-							  lv_if_flag, lv_arg1,
-							    lv_arg2, lv_arg3);
+				rc = db5760_zone_reset_remove(zone, cmd_no, lv_command, lv_if_flag, lv_arg1, lv_arg2, lv_arg3);
 
 				last_cmd_valid = 0;
 				if (rc < 0) {	/* WE GOT AN ERROR */
@@ -3465,9 +3453,7 @@ void db5600_reset_zone(int zone)
 				break;
 
 			case 'D':	/* set state of door */
-				rc = db5750_zone_reset_doors(zone, cmd_no, lv_command,
-							  lv_if_flag, lv_arg1,
-							     lv_arg2, lv_arg3);
+				rc = db5750_zone_reset_doors(zone, cmd_no, lv_command, lv_if_flag, lv_arg1, lv_arg2, lv_arg3);
 				last_cmd_valid = 0;
 				if (rc < 0) {	/* WE GOT AN ERROR */
 					lv_command = 'd';	/* lower case command to
