@@ -1767,7 +1767,7 @@ const char *race_list[] = {
 	"BULLYWUG",
 	"GARGOYLE",
 	"IMP",
-	"empty",
+	"SAURIAN",
 	"LIZARDMAN",
 	"SAHUAGIN",
 	"SATYR",

@@ -939,7 +939,7 @@ if(obj_has_apply(obj_object, APPLY_MAGIC_RESIST)) {
 		break;
 
 	case WEAR_LEGS:{
-			if (CAN_WEAR(obj_object, ITEM_WEAR_LEGS) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_YAUNTI) && (GET_RACE(ch) != RACE_CENTAUR)) {
+			if (CAN_WEAR(obj_object, ITEM_WEAR_LEGS) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_YUANTI) && (GET_RACE(ch) != RACE_CENTAUR) && (GET_RACE(ch) != RACE_SAURIAN)) {
 				if (ch->equipment[WEAR_LEGS]) {
 					if (!lv_got_specific_keyword) {
 						if (remove_carried_object(ch, ch->equipment[WEAR_LEGS], WEAR_LEGS)) {
@@ -961,7 +961,7 @@ if(obj_has_apply(obj_object, APPLY_MAGIC_RESIST)) {
 		break;
 
 	case WEAR_FEET:{
-			if (CAN_WEAR(obj_object, ITEM_WEAR_FEET) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_YAUNTI) && (GET_RACE(ch) != RACE_CENTAUR)) {
+			if (CAN_WEAR(obj_object, ITEM_WEAR_FEET) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_YUANTI) && (GET_RACE(ch) != RACE_CENTAUR) && (GET_RACE(ch) != RACE_SAURIAN)) {
 				if (ch->equipment[WEAR_FEET]) {
 					if (!lv_got_specific_keyword) {
 						if (remove_carried_object(ch, ch->equipment[WEAR_FEET], WEAR_FEET)) {
@@ -1072,7 +1072,7 @@ if(obj_has_apply(obj_object, APPLY_MAGIC_RESIST)) {
 		break;
 
 	case WEAR_WAISTE:{
-			if (CAN_WEAR(obj_object, ITEM_WEAR_WAISTE) && (GET_RACE(ch) != RACE_YAUNTI) && (GET_RACE(ch) != RACE_CENTAUR)) {
+			if (CAN_WEAR(obj_object, ITEM_WEAR_WAISTE) && (GET_RACE(ch) != RACE_YUANTI) && (GET_RACE(ch) != RACE_CENTAUR) && (GET_RACE(ch) != RACE_SAURIAN)) {
 				if (ch->equipment[WEAR_WAISTE]) {
 					if (!lv_got_specific_keyword) {
 						if (remove_carried_object(ch, ch->equipment[WEAR_WAISTE], WEAR_WAISTE)) {
@@ -1334,9 +1334,9 @@ void do_find_wear_location(struct char_data * ch, struct obj_data * lv_object, i
 		keyword = WEAR_BODY;
 	if (CAN_WEAR(lv_object, ITEM_WEAR_HEAD) && (GET_RACE(ch) != RACE_THRI_KREEN))
 		keyword = WEAR_HEAD;
-	if (CAN_WEAR(lv_object, ITEM_WEAR_LEGS) && (GET_RACE(ch) != RACE_YAUNTI) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_CENTAUR))
+	if (CAN_WEAR(lv_object, ITEM_WEAR_LEGS) && (GET_RACE(ch) != RACE_YUANTI) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_CENTAUR) && (GET_RACE(ch) != RACE_SAURIAN))
 		keyword = WEAR_LEGS;
-	if (CAN_WEAR(lv_object, ITEM_WEAR_FEET) && (GET_RACE(ch) != RACE_YAUNTI) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_CENTAUR))
+	if (CAN_WEAR(lv_object, ITEM_WEAR_FEET) && (GET_RACE(ch) != RACE_YUANTI) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_CENTAUR) && (GET_RACE(ch) != RACE_SAURIAN))
 		keyword = WEAR_FEET;
 	if (CAN_WEAR(lv_object, ITEM_WEAR_HANDS))
 		keyword = WEAR_HANDS;
@@ -1346,7 +1346,7 @@ void do_find_wear_location(struct char_data * ch, struct obj_data * lv_object, i
 		keyword = WEAR_SHIELD;
 	if (CAN_WEAR(lv_object, ITEM_WEAR_ABOUT))
 		keyword = WEAR_ABOUT;
-	if (CAN_WEAR(lv_object, ITEM_WEAR_WAISTE) && (GET_RACE(ch) != RACE_YAUNTI) && (GET_RACE(ch) != RACE_CENTAUR))
+	if (CAN_WEAR(lv_object, ITEM_WEAR_WAISTE) && (GET_RACE(ch) != RACE_YUANTI) && (GET_RACE(ch) != RACE_CENTAUR) && (GET_RACE(ch) != RACE_SAURIAN))
 		keyword = WEAR_WAISTE;
 	if (CAN_WEAR(lv_object, ITEM_WEAR_WRIST))
 		keyword = WEAR_WRIST_R;
@@ -1354,7 +1354,7 @@ void do_find_wear_location(struct char_data * ch, struct obj_data * lv_object, i
 		keyword = HOLD;
 	if (CAN_WEAR(lv_object, ITEM_WIELD))
 		keyword = WIELD;
-	if (CAN_WEAR(lv_object, ITEM_WEAR_TAIL) && (GET_RACE(ch) == RACE_YAUNTI))
+	if (CAN_WEAR(lv_object, ITEM_WEAR_TAIL) && (GET_RACE(ch) == RACE_YUANTI || GET_RACE(ch) = RACE_SAURIAN))
 		keyword = WEAR_TAIL;
 	if (CAN_WEAR(lv_object, ITEM_WEAR_4LEGS) && (GET_RACE(ch) == RACE_THRI_KREEN || GET_RACE(ch) == RACE_CENTAUR))
 		keyword = WEAR_4LEGS_1;
@@ -1443,9 +1443,9 @@ void do_wear(struct char_data * ch, char *argument, int cmd)
 		keyword = WEAR_BODY;
 	if (CAN_WEAR(obj_object, ITEM_WEAR_HEAD) && (GET_RACE(ch) != RACE_THRI_KREEN))
 		keyword = WEAR_HEAD;
-	if (CAN_WEAR(obj_object, ITEM_WEAR_LEGS) && (GET_RACE(ch) != RACE_YAUNTI) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_CENTAUR))
+	if (CAN_WEAR(obj_object, ITEM_WEAR_LEGS) && (GET_RACE(ch) != RACE_YUANTI) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_CENTAUR) && (GET_RACE(ch) != RACE_SAURIAN))
 		keyword = WEAR_LEGS;
-	if (CAN_WEAR(obj_object, ITEM_WEAR_FEET) && (GET_RACE(ch) != RACE_YAUNTI) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_CENTAUR))
+	if (CAN_WEAR(obj_object, ITEM_WEAR_FEET) && (GET_RACE(ch) != RACE_YUANTI) && (GET_RACE(ch) != RACE_THRI_KREEN) && (GET_RACE(ch) != RACE_CENTAUR) && (GET_RACE(ch) != RACE_SAURIAN))
 		keyword = WEAR_FEET;
 	if (CAN_WEAR(obj_object, ITEM_WEAR_HANDS))
 		keyword = WEAR_HANDS;
@@ -1455,7 +1455,7 @@ void do_wear(struct char_data * ch, char *argument, int cmd)
 		keyword = WEAR_SHIELD;
 	if (CAN_WEAR(obj_object, ITEM_WEAR_ABOUT))
 		keyword = WEAR_ABOUT;
-	if (CAN_WEAR(obj_object, ITEM_WEAR_WAISTE) && (GET_RACE(ch) != RACE_YAUNTI) && (GET_RACE(ch) != RACE_CENTAUR))
+	if (CAN_WEAR(obj_object, ITEM_WEAR_WAISTE) && (GET_RACE(ch) != RACE_YUANTI) && (GET_RACE(ch) != RACE_CENTAUR) && (GET_RACE(ch) != RACE_SAURIAN))
 		keyword = WEAR_WAISTE;
 	if (CAN_WEAR(obj_object, ITEM_WEAR_WRIST))
 		keyword = WEAR_WRIST_R;
@@ -1463,7 +1463,7 @@ void do_wear(struct char_data * ch, char *argument, int cmd)
 		keyword = HOLD;
 	if (CAN_WEAR(obj_object, ITEM_WIELD))
 		keyword = WIELD;
-	if (CAN_WEAR(obj_object, ITEM_WEAR_TAIL) && (GET_RACE(ch) == RACE_YAUNTI))
+	if (CAN_WEAR(obj_object, ITEM_WEAR_TAIL) && (GET_RACE(ch) == RACE_YUANTI) || (GET_RACE(ch) == RACE_SAURIAN))
 		keyword = WEAR_TAIL;
 	if (CAN_WEAR(obj_object, ITEM_WEAR_4LEGS) && (GET_RACE(ch) == RACE_THRI_KREEN || GET_RACE(ch) == RACE_CENTAUR))
 		keyword = WEAR_4LEGS_1;
