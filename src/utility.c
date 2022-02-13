@@ -903,7 +903,9 @@ int check_class_race(int class, int race)
 		return 1;
 	case 2:
 		//Dwarf
-			switch (class) {
+		return 1;
+		//Old Class Restrictions
+		/*	switch (class) {
 		case 1:
 		case 5:
 		case 8:
@@ -912,8 +914,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 3:
 		//Gnome
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 7:
 		case 9:
@@ -921,8 +927,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 4:
 		//Halfling
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 1:
 		case 9:
@@ -930,8 +940,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 5:
 		//Half Giant
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 1:
 		case 2:
@@ -942,8 +956,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 6:
 		//Pixie
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 4:
 		case 7:
@@ -953,9 +971,18 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 7:
 		//Demon
 			switch (class) {
+		case 7:
+			return 0;
+		default:
+			return 1;
+		}
+		//Old Class Restrictions
+		/*
+			switch (class) {
 		case 5:
 		case 6:
 		case 7:
@@ -964,8 +991,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 8:
 		//Snotling
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 4:
 		case 7:
@@ -975,8 +1006,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 9:
 		//Feline
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 7:
 		case 9:
@@ -984,8 +1019,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 10:
 		//Troll
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 1:
 		case 2:
@@ -998,8 +1037,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 11:
 		//Dragon Kin
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 3:
 		case 5:
@@ -1010,8 +1053,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 12:
 		//Centaur
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 2:
 		case 3:
@@ -1023,8 +1070,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 13:
 		//Merman
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 1:
 		case 5:
@@ -1034,20 +1085,33 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 14:
 		//High Elf
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 3:
 			return 0;
 		default:
 			return 1;
 		}
+		*/
 	case 15:
 		//Half Elf
 			return 1;
 	case 16:
 		//Drow Elf
 			switch (class) {
+		case 7:
+			return 0;
+		default:
+			return 1;
+		}
+		//Old Class Restrictions
+		/*
+			switch (class) {
 		case 5:
 		case 7:
 		case 8:
@@ -1055,8 +1119,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 17:
 		//Orc
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 5:
 		case 7:
@@ -1065,11 +1133,15 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 18:
 		//Half Orc
 			return 1;
 	case 19:
 		//Darkling
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 5:
 		case 7:
@@ -1078,8 +1150,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 20:
 		//Ogre
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 3:
 		case 5:
@@ -1090,8 +1166,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 21:
 		//Goblin
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 4:
 		case 6:
@@ -1102,8 +1182,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 22:
 		//Minotaur
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 1:
 		case 3:
@@ -1115,8 +1199,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 23:
 		//Bugbear
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		//case 4:
 		//case 7:
@@ -1127,8 +1215,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 24:
 		//Giant
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 1:
 		case 3:
@@ -1140,8 +1232,17 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 25:
 		//Ravshi
+			switch (class) {
+		case 7:
+			return 0;
+		default:
+			return 1;
+		}
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 2:
 		case 4:
@@ -1152,8 +1253,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 26:
 		//Irda
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 3:
 		case 7:
@@ -1162,8 +1267,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 27:
 		//Thri - Kreen
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 5:
 		case 8:
@@ -1171,8 +1280,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 28:
 		//Bullywug
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 1:
 		case 6:
@@ -1182,8 +1295,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 29:
 		//Gargoyle
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 2:
 		case 5:
@@ -1195,8 +1312,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 30:
 		//Imp
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 6:
 		case 7:
@@ -1205,8 +1326,15 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
+	case 31:
+		//Saurian
+		return 1;
 	case 32:
 		//Lizardman
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 1:
 		case 5:
@@ -1216,8 +1344,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 33:
 		//Sahaugin
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 3:
 		case 5:
@@ -1227,8 +1359,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 34:
 		//Satyr
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 3:
 		case 6:
@@ -1237,8 +1373,12 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	case 35:
 		//Yuan - Ti
+		return 1;
+		//Old Class Restrictions
+		/*
 			switch (class) {
 		case 5:
 		case 6:
@@ -1248,6 +1388,7 @@ int check_class_race(int class, int race)
 		default:
 			return 1;
 		}
+		*/
 	default:
 		return 0;
 	}

@@ -847,18 +847,18 @@ struct room_data {
 #define RACE_GOBLIN      21
 #define RACE_MINOTAUR    22
 #define RACE_BUGBEAR     23
-#define RACE_GIANT	 24
-#define RACE_RAVSHI      25
-#define RACE_IRDA        26
+#define RACE_GIANT		 24
+#define RACE_RAVSHI      25 /* HAS TO STAY EVIL*/
+#define RACE_IRDA        26 /* HAS TO STAY GOOD */
 #define RACE_THRI_KREEN  27
 #define RACE_BULLYWUG    28
 #define RACE_GARGOYLE    29
 #define RACE_IMP         30
-#define RACE_KOBOLD      31
+#define RACE_SAURIAN     31
 #define RACE_LIZARDMAN   32
 #define RACE_SAHAUGIN    33
 #define RACE_SATYR       34
-#define RACE_YAUNTI      35
+#define RACE_YUANTI      35
 #define RACE_WEMIC       36
 
 #define MAX_RACES        37	/* WARNING:  You have to have a file for each

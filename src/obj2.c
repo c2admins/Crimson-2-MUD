@@ -825,7 +825,6 @@ if(obj_has_apply(obj_object, APPLY_MAGIC_RESIST)) {
 							world[ch->in_room].light++;
 						oj5100_wear_check_special(ch, obj_object, keyword, TRUE);
 					}
-
 				}
 			}
 			else {
@@ -968,7 +967,6 @@ if(obj_has_apply(obj_object, APPLY_MAGIC_RESIST)) {
 							ha1925_equip_char(ch, obj_object, WEAR_FEET, lv_verbose, BIT0);
 							oj5100_wear_check_special(ch, obj_object, keyword, TRUE);
 						}
-
 					}
 				}
 				else {
@@ -1354,7 +1352,7 @@ void do_find_wear_location(struct char_data * ch, struct obj_data * lv_object, i
 		keyword = HOLD;
 	if (CAN_WEAR(lv_object, ITEM_WIELD))
 		keyword = WIELD;
-	if (CAN_WEAR(lv_object, ITEM_WEAR_TAIL) && (GET_RACE(ch) == RACE_YUANTI || GET_RACE(ch) = RACE_SAURIAN))
+	if (CAN_WEAR(lv_object, ITEM_WEAR_TAIL) && (GET_RACE(ch) == RACE_YUANTI || GET_RACE(ch) == RACE_SAURIAN))
 		keyword = WEAR_TAIL;
 	if (CAN_WEAR(lv_object, ITEM_WEAR_4LEGS) && (GET_RACE(ch) == RACE_THRI_KREEN || GET_RACE(ch) == RACE_CENTAUR))
 		keyword = WEAR_4LEGS_1;
@@ -1463,7 +1461,7 @@ void do_wear(struct char_data * ch, char *argument, int cmd)
 		keyword = HOLD;
 	if (CAN_WEAR(obj_object, ITEM_WIELD))
 		keyword = WIELD;
-	if (CAN_WEAR(obj_object, ITEM_WEAR_TAIL) && (GET_RACE(ch) == RACE_YUANTI) || (GET_RACE(ch) == RACE_SAURIAN))
+	if (CAN_WEAR(obj_object, ITEM_WEAR_TAIL) && (GET_RACE(ch) == RACE_YUANTI || GET_RACE(ch) == RACE_SAURIAN))
 		keyword = WEAR_TAIL;
 	if (CAN_WEAR(obj_object, ITEM_WEAR_4LEGS) && (GET_RACE(ch) == RACE_THRI_KREEN || GET_RACE(ch) == RACE_CENTAUR))
 		keyword = WEAR_4LEGS_1;
