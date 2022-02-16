@@ -643,7 +643,7 @@ void ft1850_remove_item_from_dying_char_and_auction_it(struct char_data * ch,
 		lv_FoundItem = FALSE;
 		lv_obj = NULL;
 
-		/* Assuming best items are equiped, lets check there first */
+		/* Assuming best items are equipped, lets check there first */
 		for (idx = 0; idx < MAX_WEAR; idx++) {
 			lv_obj = ch->equipment[idx];
 			if (lv_obj) {
@@ -1606,10 +1606,10 @@ void damage(struct char_data * ch, struct char_data * victim, int dam, int attac
 
 				/* Check if the mob was a quest
 				 * 
-				 * targe t */
+				 * target */
 				if (IS_NPC(victim) && ch->questmob && ch->questmob == victim) {
 					send_to_char("&gYou have completed your quest!&n\r\n", ch);
-					send_to_char("&gReturn to the questmaster quickly to get your reward.&n\r\n", ch);
+					send_to_char("&gReturn to the quest master quickly to get your reward.&n\r\n", ch);
 					ch->questmob = 0;
 				}
 				if (IS_NPC(victim) && victim->questmob && victim->questmob != ch) {

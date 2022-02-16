@@ -299,7 +299,7 @@ void do_mob_master_muzzle(struct char_data * ch, char *arg, int cmd)
 	/* IF NOT MASTER, WE CAN'T DO ANYTHING */
 	if (!ch->master) {
 		send_to_char("If you had a master we would do more now!\r\n", ch);
-		sprintf(buf, "Mob %s has been forced to use inappropriate language - LOGGED for disiplinary action.\r\n",
+		sprintf(buf, "Mob %s has been forced to use inappropriate language - LOGGED for disciplinary action.\r\n",
 			GET_REAL_NAME(ch));
 		do_info(buf, 1, MAX_LEV, ch);
 		return;
@@ -308,7 +308,7 @@ void do_mob_master_muzzle(struct char_data * ch, char *arg, int cmd)
 	/* IS THE MASTER AN NPC? */
 	if (IS_NPC((ch->master))) {
 		send_to_char("If you didn't have an NPC master, we would do more now!\r\n", ch);
-		sprintf(buf, "Mob %s has been forced to use inappropriate language - LOGGED for disiplinary action.\r\n",
+		sprintf(buf, "Mob %s has been forced to use inappropriate language - LOGGED for disciplinary action.\r\n",
 			GET_REAL_NAME(ch));
 		do_info(buf, 1, MAX_LEV, ch);
 		return;
@@ -613,7 +613,7 @@ void do_tell(struct char_data * ch, char *argument, int cmd)
 	if ((IS_SET(GET_ACT2(ch), PLR2_JAILED)) &&
 	    (ch->in_room != vict->in_room) &&
 	    GET_LEVEL(ch) < IMO_IMP) {
-		sprintf(buf, "You tell %s, 'Hey, you know, I wouldn't blame you for sitebanning me for life.  In fact, I would encourage it, I seem to have a problem....  It all started when I picked up the habbit of molesting little puppies...it only got worse.&n'", GET_REAL_NAME(vict));
+		sprintf(buf, "You tell %s, 'Hey, you know, I wouldn't blame you for site banning me for life.  In fact, I would encourage it, I seem to have a problem....  It all started when I picked up the habbit of molesting little puppies...it only got worse.&n'", GET_REAL_NAME(vict));
 		ansi_act(buf, 0, ch, 0, 0, TO_CHAR, CLR_TELL, 0);
 		return;
 	}
@@ -1015,7 +1015,7 @@ void do_invisible(struct char_data * ch, char *arg, int cmd)
 		else if (GET_VISIBLE(ch) > PK_LEV)
 			sprintf(buf, "Your are invisible to mortals. (lvl %d)\r\n", GET_VISIBLE(ch));
 		else
-			sprintf(buf, "You are visibile to all players.(lvl %d)\r\n", GET_VISIBLE(ch));
+			sprintf(buf, "You are visible to all players.(lvl %d)\r\n", GET_VISIBLE(ch));
 
 		send_to_char(buf, ch);
 		return;
@@ -1044,7 +1044,7 @@ void do_invisible(struct char_data * ch, char *arg, int cmd)
 			return;
 		}
 		else {
-			sprintf(buf, "Sorry, you only have these invisiblity options:\r\n\n0     %d\r\n", IMO_IMM);
+			sprintf(buf, "Sorry, you only have these invisibility options:\r\n\n0     %d\r\n", IMO_IMM);
 			send_to_char(buf, ch);
 			return;
 		}

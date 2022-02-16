@@ -1,4 +1,4 @@
-/* *******************************************************************
+w/* *******************************************************************
 *  file: admin.h , Special module.           Part of Crimson MUD     *
 *  Usage: Admin system for Crimson MUD II                            *
 *                  Written by Hercules                               *

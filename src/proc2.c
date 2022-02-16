@@ -773,7 +773,7 @@ int pc1800_killer_womble(struct char_data * ch, int cmd, char *arg)
 						strcpy(buf, "You should've stayed at home today %s.");
 						break;
 					case 5:
-						strcpy(buf, "%s..... I'm sorry but.... laters.");
+						strcpy(buf, "%s..... I'm sorry but.... later.");
 						break;
 					case 6:
 						strcpy(buf, "I feel good, tralalalala.. But you don't %s!");
@@ -802,7 +802,7 @@ int pc1800_killer_womble(struct char_data * ch, int cmd, char *arg)
 						strcpy(buf, "Time for you to take a hike %s.");
 						break;
 					case 1:
-						strcpy(buf, "That's it, you're outa here %s.");
+						strcpy(buf, "That's it, you're outta here %s.");
 						break;
 					case 2:
 						strcpy(buf, "I can't take this any longer, Go play elsewhere %s.");
@@ -891,10 +891,10 @@ int pc1800_killer_womble(struct char_data * ch, int cmd, char *arg)
 					strcpy(buf, " %s I'm coming to get you...");
 					break;
 				case 1:
-					strcpy(buf, " %s I think i'll go kill you now.");
+					strcpy(buf, " %s I think I'll go kill you now.");
 					break;
 				case 2:
-					strcpy(buf, " %s If I were you, i'd watch my back..");
+					strcpy(buf, " %s If I were you, I'd watch my back..");
 					break;
 				case 3:
 					strcpy(buf, " %s Get ready to rumble!");
@@ -1122,13 +1122,13 @@ int pc2000_darken(struct char_data * ch, int cmd, char *arg)
 						strcpy(buf, "Wake up, its time to die %s.");
 						break;
 					case 2:
-						strcpy(buf, "Grain of sand %s is going off to nevernever land.");
+						strcpy(buf, "Grain of sand %s is going off to never-never land.");
 						break;
 					case 3:
 						strcpy(buf, "Prepare for Total Domination %s!");
 						break;
 					case 4:
-						strcpy(buf, "Where is your saviour now %s?");
+						strcpy(buf, "Where is your savior now %s?");
 						break;
 					case 5:
 						strcpy(buf, "This menu moment has been brought to you by...ME!");
@@ -1215,7 +1215,7 @@ int pc2200_sretaw(struct char_data * ch, int cmd, char *arg)
 			return 0;
 
 		if (number(0, 100) > 4)
-			//Change this, could get annoing.
+			//Change this, could get annoying.
 				return 0;
 
 		for (d = descriptor_list; d; d = d->next) {
@@ -1269,7 +1269,7 @@ int pc2200_sretaw(struct char_data * ch, int cmd, char *arg)
 			break;
 		case 5:
 			sprintf(buf, "What's the matter, %s, just got nothing to say, or can't you formulate "
-				"a proper English sentance to defend your honor?", GET_REAL_NAME(vict));
+				"a proper English sentence to defend your honor?", GET_REAL_NAME(vict));
 			break;
 		default:
 			sprintf(buf, "HAHAHAH!  %s is muzzled.  %se can't say a damn thing!", GET_REAL_NAME(vict),
@@ -1320,7 +1320,7 @@ int pc2300_teleport_room(struct char_data * ch, int cmd, char *arg)
 	if (is_abbrev(arg, "water")) {
 		loc_nr = 23919;
 		strcpy(charbuf, "As you say the magic word, a pool of water appears and swallows you.\r\n After a short drowning sensation you find yourself...elsewhere.\r\n");
-		strcpy(roombuf, "$n mutters some words, and a pool appears beneth his feet swallowing him. When the pool disappears all traces of $n is gone.\r\n");
+		strcpy(roombuf, "$n mutters some words, and a pool appears beneath his feet swallowing him. When the pool disappears all traces of $n is gone.\r\n");
 	}
 	if (is_abbrev(arg, "earth")) {
 		loc_nr = 23920;
@@ -1329,14 +1329,14 @@ int pc2300_teleport_room(struct char_data * ch, int cmd, char *arg)
 	}
 	if (is_abbrev(arg, "air")) {
 		loc_nr = 23921;
-		strcpy(charbuf, "As you say the magic word, a tornado suddely appears and swallows you.\r\nAfter a short suffocating sensation you find yourself...elsewhere.\r\n");
+		strcpy(charbuf, "As you say the magic word, a tornado suddenly appears and swallows you.\r\nAfter a short suffocating sensation you find yourself...elsewhere.\r\n");
 		strcpy(roombuf, "$n mutters some words, and a tornado appears and swallows him. When the tornado disappears all traces of $n is gone.\r\n");
 	}
 
 	send_to_char(charbuf, ch);
 	act(roombuf, TRUE, ch, 0, 0, TO_ROOM);
 
-	/* Is this really the most effecient way to find where we 're going? */
+	/* Is this really the most efficient way to find where we 're going? */
 
 	for (location = 0; location <= top_of_world; location++) {
 		if (world[location].number == loc_nr) {
@@ -1346,7 +1346,7 @@ int pc2300_teleport_room(struct char_data * ch, int cmd, char *arg)
 	ha1500_char_from_room(ch);
 	ha1600_char_to_room(ch, location);
 	in3000_do_look(ch, "", 0);
-	act("$n suddenly winks into existance.", TRUE, ch, 0, 0, TO_ROOM);
+	act("$n suddenly winks into existence.", TRUE, ch, 0, 0, TO_ROOM);
 	return (TRUE);
 
 
@@ -1631,7 +1631,7 @@ int pc3000_pulse_attack(struct char_data * ch, struct char_data * victim)
 	wielded = ch->equipment[WIELD];
 	/* Hold on to the attacker's wielded. */
 
-	/* Return no extra damage if we don't have a plusing weapon */
+	/* Return no extra damage if we don't have a pulsing weapon */
 	if (!IS_SET(wielded->obj_flags.value[0], WEAPON_PULSE_ATTACK)
 	    || number(0, 24) != 1)
 		return 0;

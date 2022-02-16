@@ -51,7 +51,7 @@ void do_adjust(struct char_data * ch, char *arg, int cmd)
 		return;
 
 	if (IS_NPC(ch)) {
-		send_to_char("However you did this, you aren't alowed.\r\n", ch);
+		send_to_char("However you did this, you aren't allowed.\r\n", ch);
 		return;
 	}
 
@@ -748,7 +748,7 @@ void do_cast_proc(struct char_data * ch, struct char_data * cast_victim, char *a
 		return;
 	}
 
-	if (GET_LEVEL(ch) < IMO_IMP &&
+	if (GET_LEVEL(ch) < IMO_LEV &&
 	    tar_char != ch &&
 	    IS_SET(spell_info[spl].targets, TAR_SELF_ONLY) &&
 	    !((spl == SPELL_HEAL_MINOR) ||
@@ -837,7 +837,7 @@ void do_cast_proc(struct char_data * ch, struct char_data * cast_victim, char *a
 	if (spl != SPELL_VENTRILOQUATE)	/* :-) */
 		say_spell(ch, spl);
 
-	/* synchronise spells with fighting */
+	/* synchronize spells with fighting */
 	if (IS_PC(ch) &&
 	    GET_LEVEL(ch) < IMO_IMP) {
 		WAIT_STATE(ch, spell_info[spl].beats);
@@ -1248,7 +1248,7 @@ void assign_spell_pointers(void)
 	SPELLO(82, 3, POSITION_FIGHTING, 15, 0,
 	       GENERAL_SPELL,
 	       0, APPLY_NONE, 0,
-	       TAR_CHAR_ROOM, cast_mana_link);
+	       TAR_CHAR_ROOM, 0);
 
 	SPELLO(83, 3, POSITION_FIGHTING, 50, 0,
 	       ENABLED_SPELL | MOB_SPELL | VIOLENT_SPELL,

@@ -5,7 +5,7 @@ struct bounty_info {
 	char *placed_by;	/* Who placed the bounty? */
 	int amount;		/* How big is the bounty? */
 	int killed;		/* Once they've been killed once */
-	int killable;		/* If 1, killable by all characters */
+	int killable;		/* If 1, kill able by all characters */
 	struct bounty_info *next;	/* Pointer to the next in the list */
 };
 /* Global variable, head of the bounty linked list */

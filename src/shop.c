@@ -39,18 +39,18 @@ struct shop_data {
 	char *no_such_item2;	/* Message if player hasn't got an item */
 	char *missing_casha1;	/* Message if keeper hasn't got cash    */
 	char *missing_casha2;	/* Message if player hasn't got cash    */
-	char *do_not_buy;	/* If keeper dosn't buy such things. 	 */
+	char *do_not_buy;	/* If keeper doesn't buy such things. 	 */
 	char *message_buy;	/* Message when player buys item        */
 	char *message_sell;	/* Message when player sells item       */
 	int temper1;		/* How does keeper react if no money    */
 	int temper2;		/* How does keeper react when attacked  */
-	int keeper;		/* The mobil who owns the shop (virtual) */
+	int keeper;		/* The mobile who owns the shop (virtual) */
 	int with_who;		/* Who does the shop trade with?	 */
 	int in_room;		/* Where is the shop?			 */
 	int open1, open2;	/* When does the shop open?		 */
 	int close1, close2;	/* When does the shop close?		 */
 
-	char stocked;		/* initially FALSE - dont want to repetitively
+	char stocked;		/* initially FALSE - don't want to repetitively
 				 * stock a shopkeeper */
 };
 
@@ -626,8 +626,7 @@ int shop_keeper(struct char_data * ch, int cmd, char *arg)
 	     (cmd == CMD_BASH) ||
 		 (cmd == CMD_TRIP) ||
 	     (cmd == CMD_KICK) ||
-		 /*(cmd == CMD_FLURRY) ||*/
-	     (cmd == CMD_BREATH))) {
+		 (cmd == CMD_BREATH))) {
 		bzero(buf, sizeof(buf));
 		arg = one_argument(arg, buf);
 		if (cmd == CMD_BREATH &&

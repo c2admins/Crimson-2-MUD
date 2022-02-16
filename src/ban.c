@@ -284,7 +284,7 @@ int bn1500_Valid_Name(char *newname)
 	char tempname[MAX_NAME_LENGTH];
 
 	/* Made the list of invalid names and words a file to avoid a recompile
-	 * when an immortal gets promoted or we think of differnt permutations,
+	 * when an immortal gets promoted or we think of different permutations,
 	 * all names in the list should be in caps */
 
 	/* IF THE LIST COULDN'T BE READ IN FOR A REASON, RETURN VALID */

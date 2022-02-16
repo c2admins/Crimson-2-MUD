@@ -56,7 +56,7 @@ void warning_signal(int i)
 	co3000_send_to_all("Reboot coming up in 5 minutes.\r\n");
 
 	bzero(buf, sizeof(buf));
-	sprintf(buf, "Recieved signal %d. Shutting down in 5 min.\r\n", i);
+	sprintf(buf, "Received signal %d. Shutting down in 5 min.\r\n", i);
 	printf(buf);
 	return;
 
@@ -69,7 +69,7 @@ void terminate_request(int i)
 	co3000_send_to_all("Operations is shutting down the computer\r\n");
 
 	bzero(buf, sizeof(buf));
-	sprintf(buf, "Recieved signal %d.  Shutting down(1).\r\n", i);
+	sprintf(buf, "Received signal %d.  Shutting down(1).\r\n", i);
 	printf(buf);
 	main_log(buf);
 	spec_log(buf, SYSTEM_LOG);
@@ -85,7 +85,7 @@ void stop_sig(int i)
 
 	wi4100_do_crashsave(0, 0, 0);
 	bzero(buf, sizeof(buf));
-	sprintf(buf, "Recieved signal %d.  Shutting down(2).\r\n", i);
+	sprintf(buf, "Received signal %d.  Shutting down(2).\r\n", i);
 	printf(buf);
 	main_log(buf);
 	perror(buf);
@@ -120,11 +120,11 @@ void infinate_loop_check(int lv_signal_number)
 	main_log(buf);
 	/* IF WE GOT HERE, GAME DIDN't RESET ALARM TIME SO ITS IN A LOOP.
 	 * LETS GO FATAL---- YIPPY YAY */
-	printf("Aborting from infinate loop\r\n");
-	trace_log("Aborting from infinate loop\r\n");
-	main_log("Aborting from infinate loop\r\n");
+	printf("Aborting from infinite loop\r\n");
+	trace_log("Aborting from infinite loop\r\n");
+	main_log("Aborting from infinite loop\r\n");
 
-	sprintf(buf, "ERROR: Aborting from infinate loop\r\n");
+	sprintf(buf, "ERROR: Aborting from infinite loop\r\n");
 	ABORT_PROGRAM();
 
 	/* SHOULD NEVER MAKE IT HERE... */

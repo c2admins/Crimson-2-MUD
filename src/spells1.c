@@ -377,7 +377,7 @@ void cast_magic_missile(sbyte level, struct char_data * ch, char *arg, int type,
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in magic missile!");
-		spec_log("ERROR: Invalid spell type in magic misile!", ERROR_LOG);
+		spec_log("ERROR: Invalid spell type in magic missile!", ERROR_LOG);
 		break;
 
 	}

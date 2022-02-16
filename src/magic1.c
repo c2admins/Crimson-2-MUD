@@ -1225,7 +1225,7 @@ void spell_donate_mana(sbyte level, struct char_data * ch,
 	if (victim != ch)
 		act("You feel some of your mana flow to $N.", FALSE, ch, 0, victim, TO_CHAR);
 }
-
+/*
 void spell_mana_link(sbyte level, struct char_data * ch,
 		         struct char_data * victim, struct obj_data * obj){
 	assert(victim);
@@ -1245,7 +1245,7 @@ void spell_mana_link(sbyte level, struct char_data * ch,
 	if (victim != ch)
 		act("You feel some of your mana flow to $N.", FALSE, ch, 0, victim, TO_CHAR);
 }
-
+*/
 void spell_cause_critic(sbyte level, struct char_data * ch,
 			  struct char_data * victim, struct obj_data * obj){
 	int healpoints;
@@ -1566,7 +1566,7 @@ void spell_dispel_magic(sbyte level, struct char_data * ch,
 
 	if (ch == victim) {
 		ha1370_remove_all_spells(ch);
-		send_to_char("You chant some archane words and dispel all magic from your body.\r\n", ch);
+		send_to_char("You chant some arcane words and dispel all magic from your body.\r\n", ch);
 		act("$n makes several strange gestures around $s body.", TRUE, ch, 0, 0, TO_ROOM);
 		act("A bright rainbow colored aura rises around $n.", TRUE, ch, 0, 0, TO_ROOM);
 		act("The aura goes back down and dispels all $s magic.", TRUE, ch, 0, 0, TO_ROOM);

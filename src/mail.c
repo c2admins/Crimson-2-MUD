@@ -181,7 +181,7 @@ void ma1000_do_mail(struct char_data * ch, char *arg, int cmd)
 						return;
 					}
 					if (!CLAN_EXISTS(CLAN_NUMBER(ch))) {
-						send_to_char("But you aren't a memeber of any clan...\r\n", ch);
+						send_to_char("But you aren't a member of any clan...\r\n", ch);
 						return;
 					}
 					lv_clan = CLAN_NUMBER(ch);
@@ -190,7 +190,7 @@ void ma1000_do_mail(struct char_data * ch, char *arg, int cmd)
 			else {
 				lv_target = pa2050_find_name_approx(buf2);
 				if (lv_target < 0) {
-					send_to_char("Unkown player.\r\n", ch);
+					send_to_char("Unknown player.\r\n", ch);
 					return;
 				}
 				if (player_table[lv_target].pidx_level < 10) {
@@ -220,7 +220,7 @@ void ma1000_do_mail(struct char_data * ch, char *arg, int cmd)
 		break;
 
 	default:{
-			send_to_char("Unkown command.\r\n", ch);
+			send_to_char("Unknown command.\r\n", ch);
 			return;
 		}
 	}

@@ -1029,7 +1029,7 @@ int r4100_backup_obj(struct char_data * ch)
 		return 0;
 
 	if (!r1050_backup_get_filename(GET_NAME(ch), buf)) {
-		sprintf(error_buf, "Coudn't get backup file name for %s.", GET_NAME(ch));
+		sprintf(error_buf, "Couldn't get backup file name for %s.", GET_NAME(ch));
 		main_log(error_buf);
 		spec_log(error_buf, ERROR_LOG);
 		spec_log(error_buf, EQUIPMENT_LOG);
@@ -1413,7 +1413,7 @@ int r7000_func_receptionist(struct char_data * ch, int cmd, char *arg)
 			) {
 			send_to_char("I'm afraid considering the transaction tax that would exceed our maximum allowable balance\r\n", ch);
 			bzero(buf, sizeof(buf));
-			sprintf(buf, "The maximum amout is currently set to %d million\r\n", MAX_DEPOSIT);
+			sprintf(buf, "The maximum amount is currently set to %d million\r\n", MAX_DEPOSIT);
 			send_to_char(buf, ch);
 			return (TRUE);
 		}
@@ -1612,7 +1612,7 @@ int r7200_func_banker(struct char_data * ch, int cmd, char *arg)
 			) {
 			send_to_char("I'm afraid that would exceed our maximum allowable balance\r\n", ch);
 			bzero(buf, sizeof(buf));
-			sprintf(buf, "The maximum amout is currently set to %d million\r\n", MAX_DEPOSIT);
+			sprintf(buf, "The maximum amount is currently set to %d million\r\n", MAX_DEPOSIT);
 			send_to_char(buf, ch);
 			return (TRUE);
 		}

@@ -149,14 +149,14 @@ void qu0000_questsales(struct char_data * ch, char *arg, int cmd)
 		if (!isQuestOverrideOn) {
 			isQuestOverrideOn = TRUE;
 			ret_var = qu0200_questWriteVar(isQuestTransformOn, transformSalesChance, isQuestOverrideOn);
-			sprintf(buf, "QMSALES: %s has enabled overrided Questmaster transformation sales", GET_NAME(ch));
+			sprintf(buf, "QMSALES: %s has enabled overrode Questmaster transformation sales", GET_NAME(ch));
 			spec_log(buf, GOD_COMMAND_LOG);
 		} //end if
 			else {
 			isQuestOverrideOn
 				= FALSE;
 			ret_var = qu0200_questWriteVar(isQuestTransformOn, transformSalesChance, isQuestOverrideOn);
-			sprintf(buf, "QMSALES: %s has disabled overrided Questmaster transformation sales", GET_NAME(ch));
+			sprintf(buf, "QMSALES: %s has disabled overrode Questmaster transformation sales", GET_NAME(ch));
 			spec_log(buf, GOD_COMMAND_LOG);
 		}
 
@@ -292,12 +292,12 @@ int qu1000_questmaster(struct char_data * ch, int cmd, char *arg)
 
 	if (cmd == CMD_SELL) {
 		if (!*arg) {
-			send_to_char("How many questpoints do you wish to sell?\r\n", ch);
+			send_to_char("How many quest points do you wish to sell?\r\n", ch);
 			return (TRUE);
 		}
 
 		if (GET_QPS(ch) == 0) {
-			send_to_char("You don't have that many questpoints.\r\n", ch);
+			send_to_char("You don't have that many quest points.\r\n", ch);
 			return (TRUE);
 		}
 
@@ -318,17 +318,17 @@ int qu1000_questmaster(struct char_data * ch, int cmd, char *arg)
 		}
 
 		if (GET_QPS(ch) < lv_number) {
-			sprintf(buf, "You do not have %d questpoints.\r\n", lv_number);
+			sprintf(buf, "You do not have %d quest points.\r\n", lv_number);
 			send_to_char(buf, ch);
 			return (TRUE);
 		}
 		if ((MAX_GOLD - GET_GOLD(ch) - (lv_number * cost)) < 0) {
-			send_to_char("The Questmaster mutters something deragotory about your wealth....", ch);
+			send_to_char("The Questmaster mutters something derogatory about your wealth....", ch);
 			return (TRUE);
 		}
 		GET_GOLD(ch) += lv_number * cost;
 		GET_QPS(ch) -= lv_number;
-		sprintf(buf, "You sell %d questpoints for %d gold.\r\n", lv_number, lv_number * cost);
+		sprintf(buf, "You sell %d quest points for %d gold.\r\n", lv_number, lv_number * cost);
 		send_to_char(buf, ch);
 		return (TRUE);
 	}
@@ -338,7 +338,7 @@ int qu1000_questmaster(struct char_data * ch, int cmd, char *arg)
 
 	if (cmd == CMD_BUY) {
 		if (!*arg) {
-			send_to_char("How many questpoints do you wish to buy?\r\n", ch);
+			send_to_char("How many quest points do you wish to buy?\r\n", ch);
 			return (TRUE);
 		}
 
@@ -359,13 +359,13 @@ int qu1000_questmaster(struct char_data * ch, int cmd, char *arg)
 		}
 
 		if (GET_GOLD(ch) < (lv_number * cost)) {
-			sprintf(buf, "You do not have enough money to buy %d questpoints.\r\n", lv_number);
+			sprintf(buf, "You do not have enough money to buy %d quest points.\r\n", lv_number);
 			send_to_char(buf, ch);
 			return (TRUE);
 		}
 		GET_GOLD(ch) -= lv_number * cost;
 		GET_QPS(ch) += lv_number;
-		sprintf(buf, "You buy %d questpoints for %d gold.\r\n", lv_number, lv_number * cost);
+		sprintf(buf, "You buy %d quest points for %d gold.\r\n", lv_number, lv_number * cost);
 		send_to_char(buf, ch);
 		return (TRUE);
 	}
@@ -488,7 +488,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 
 	switch (lv_choice) {
 	case QUEST_POINTS:
-		act("$n asks $N about $s questpoints.", TRUE, ch, 0, questman, TO_ROOM);
+		act("$n asks $N about $s quest points.", TRUE, ch, 0, questman, TO_ROOM);
 		act("You ask $N how many quest points you have.", TRUE, ch, 0, questman, TO_CHAR);
 		sprintf(buf, "%s You have %d quest points.", GET_REAL_NAME(ch), ch->questpoints);
 		do_whisper(questman, buf, CMD_WHISPER);
@@ -595,8 +595,8 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		sprintf(buf, "Thank you very much %s! ", GET_REAL_NAME(ch));
 		do_say(questman, buf, CMD_SAY);
 
-		lv_reward = (ch->reward * ch->reward * 100) + number(10, (ch->reward * ch->reward * 10));
-		lv_qp = (9 + ch->reward - GET_LEVEL(ch)) * 10 + number(0, 9);
+		lv_reward = (ch->reward * ch->reward * 200) + number(20, (ch->reward * ch->reward * 20));
+		lv_qp = (9 + ch->reward - GET_LEVEL(ch)) * 15 + number(0, 9);
 		bzero(buf, sizeof(buf));
 		sprintf(buf, "As a reward, I am giving you %d quest points", lv_qp);
 		do_say(questman, buf, CMD_SAY);
@@ -604,15 +604,15 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		ch->questpoints += lv_qp;
 
 		if (CHANCE100(25)) {
-			exp_modifier += number(-1, 2);
+			exp_modifier += number(0, 2);
 			if (CHANCE100(15)) {
-				exp_modifier += number(0, 2);
+				exp_modifier += number(1, 3);
 				if (CHANCE100(10)) {
-					exp_modifier += number(1, 3);
+					exp_modifier += number(2, 4);
 					if (CHANCE100(5)) {
-						exp_modifier += number(2, 4);
+						exp_modifier += number(3, 5);
 						if (CHANCE100(2)) {
-							exp_modifier += number(3, 25);
+							exp_modifier += number(4, 26);
 						}
 					}
 				}
@@ -629,14 +629,14 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		if (GET_LEVEL(ch) <= PK_LEV) {
 			//GET_EXP(ch) += (lv_reward / 10) * exp_modifier; /*This just gives XP and doesn't trigger level gains  */
 			sprintf(buf, "You also gained %d experience points for your quest.",
-				(lv_reward / 10) * exp_modifier);
+				(lv_reward / 20) * exp_modifier);
 			do_say(questman, buf, CMD_SAY);
-			li2200_gain_exp(ch, (lv_reward /10) * exp_modifier);
+			li2200_gain_exp(ch, (lv_reward / 20) * exp_modifier);
 		}
 
 		/* 5% Chance he'll give you extra qps */
 		if (CHANCE100(5)) {
-			sprintf(buf, "I'm in such a good mood today i'm gonna give you an extra %d questpoints!", lv_qp);
+			sprintf(buf, "I'm in such a good mood today I'm gonna give you an extra %d quest points!", lv_qp);
 			GET_QPS(ch) += lv_qp;
 			do_say(questman, buf, CMD_SAY);
 		}
@@ -943,7 +943,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		send_to_char("&W18&n) &cNameless Sword <Lore>       &R(lvl 41)&G 120000&n Qps\n\r", ch);
 		send_to_char("\r\nTo buy an item type Quest buy <nr>\r\n", ch);
 		send_to_char("For transformations type Quest Transform\r\n", ch);
-		send_to_char("To buy questpoints, type 'buy <amount>'\r\n", ch);
+		send_to_char("To buy quest points, type 'buy <amount>'\r\n", ch);
 		return;
 
 	case QUEST_BUY:
@@ -1141,8 +1141,8 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		}
 
 		if (lv_buyitem * 200 > ch->questpoints) {
-			do_say(questman, "You don't have enough questpoints!", CMD_SAY);
-			do_say(questman, "Each additional tick costs 200 questpoints.", CMD_SAY);
+			do_say(questman, "You don't have enough quest points!", CMD_SAY);
+			do_say(questman, "Each additional tick costs 200 quest points.", CMD_SAY);
 			return;
 		}
 
@@ -1291,13 +1291,13 @@ void qu1200_make_quest(struct char_data * ch)
 		case 0:{
 				sprintf(buf, "%s %s is making threats against my life.", GET_NAME(ch), GET_REAL_NAME(vict));
 				do_whisper(questman, buf, CMD_WHISPER);
-				sprintf(buf, "%s You are to stop these threaths!", GET_NAME(ch));
+				sprintf(buf, "%s You are to stop these threats!", GET_NAME(ch));
 				do_whisper(questman, buf, CMD_WHISPER);
 			} break;
 		case 1:{
 				sprintf(buf, "%s The most heinous criminal, %s, has escaped from jail!", GET_NAME(ch), GET_REAL_NAME(vict));
 				do_whisper(questman, buf, CMD_WHISPER);
-				sprintf(buf, "%s Since the escape, %s has murdered %d civillians!", GET_NAME(ch), GET_REAL_NAME(vict), number(20, 200));
+				sprintf(buf, "%s Since the escape, %s has murdered %d civilians!", GET_NAME(ch), GET_REAL_NAME(vict), number(20, 200));
 				do_whisper(questman, buf, CMD_WHISPER);
 				sprintf(buf, "%s The penalty for this crime is death, and you are to deliver the sentence!", GET_REAL_NAME(ch));
 				do_whisper(questman, buf, CMD_SAY);

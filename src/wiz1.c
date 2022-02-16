@@ -255,7 +255,7 @@ void wi1300_do_trans(struct char_data * ch, char *arg, int cmd)
 				act("$n has transferred you!", FALSE, ch, 0, victim, TO_VICT);
 				in3000_do_look(victim, "", 0);
 				send_to_char("Ok.\r\n", ch);
-				sprintf(buf, "TRANSFER: %s has transfered %s to room[%d].", GET_REAL_NAME(ch), GET_REAL_NAME(victim), target);
+				sprintf(buf, "TRANSFER: %s has transferred %s to room[%d].", GET_REAL_NAME(ch), GET_REAL_NAME(victim), target);
 				spec_log(buf, GOD_COMMAND_LOG);
 			}	/* END OF ELSE */
 		}
@@ -320,7 +320,7 @@ void wi1300_do_trans(struct char_data * ch, char *arg, int cmd)
 				number_transferred);
 			send_to_char(buffer, ch);
 		}
-		sprintf(buf, "TRANSFER: %s as tranfered all to r[%d].", GET_REAL_NAME(ch), target);
+		sprintf(buf, "TRANSFER: %s as transferred all to r[%d].", GET_REAL_NAME(ch), target);
 		spec_log(buf, GOD_COMMAND_LOG);
 	}
 }
@@ -3377,7 +3377,7 @@ void wi4100_do_crashsave(struct char_data * ch, char *arg, int cmd)
 
 	if (ch) {
 		send_to_char("All characters saved (even linkless).\r\n", ch);
-		sprintf(buf, "CRASHSAVE: %s has Crashsaved.", GET_REAL_NAME(ch));
+		sprintf(buf, "CRASHSAVE: %s has Crash saved.", GET_REAL_NAME(ch));
 		spec_log(buf, GOD_COMMAND_LOG);
 		spec_log(buf, SYSTEM_LOG);
 	}

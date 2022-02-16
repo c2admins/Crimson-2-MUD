@@ -1339,7 +1339,7 @@ void cl2100_do_set_clan(struct char_data * ch, char *arg, int cmd)
 		return;
 	}
 
-	/* Set the clans telportation room */
+	/* Set the clans teleportation room */
 	if (lv_choice == SET_ENTRANCE) {
 		clans[lv_clan].room = lv_argv;
 		sprintf(buf, "Clans teleportation room set to R#-%d.\r\n", lv_argv);

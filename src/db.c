@@ -5021,7 +5021,7 @@ void db7100_free_char(struct char_data * ch, int lv_flag)
 	if (IS_NPC(ch) &&
 	    (ch->questmob) &&
 	    (ch->questmob->questmob == ch)) {
-		main_log("Quest mob disappeard from game.");
+		main_log("Quest mob disappeared from game.");
 		if ((ch->questmob->desc) &&
 		    (ch->questmob->desc->connected == CON_PLAYING) &&
 		    (ch->questmob->in_room >= 0))

@@ -755,7 +755,7 @@ void do_donate(struct char_data * ch, char *argument, int cmd)
 			if (world[location].number == clan_dona_room)
 				break;
 			if (location == top_of_world) {
-				send_to_char("Error! Clan donationroom not found!\r\n", ch);
+				send_to_char("Error! Clan donation room not found!\r\n", ch);
 				return;
 			}
 		}

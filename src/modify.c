@@ -770,7 +770,7 @@ void do_set_char_questpoints(struct char_data * ch, char *arg, int cmd, struct c
 
 	if (!(*buf)) {
 		bzero(buf, sizeof(buf));
-		sprintf(buf, "%s has %d questpoints\r\n",
+		sprintf(buf, "%s has %d quest points\r\n",
 			GET_REAL_NAME(vict),
 			vict->questpoints);
 		send_to_char(buf, ch);
@@ -795,7 +795,7 @@ void do_set_char_questpoints(struct char_data * ch, char *arg, int cmd, struct c
 	vict->questpoints = lv_value;
 
 	bzero(buf, sizeof(buf));
-	sprintf(buf, "%s's questpoints changed from %d to %d\r\n",
+	sprintf(buf, "%s's quest points changed from %d to %d\r\n",
 		GET_REAL_NAME(vict),
 		lv_old_value,
 		vict->questpoints);

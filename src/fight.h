@@ -62,9 +62,9 @@ static struct dam_weapon_type {
 		"You rend $N asunder with your deadly #W.",           /* 13 */
 		"$n rends you asunder with $s deadly #W."},
 	
-	{"$n liquifies $N with $s deadly #W.",
-		"You liquify $N with your deadly #W.",                /* 14 */
-		"$n liquifies you with $s deadly #W."},
+	{"$n liquefies $N with $s deadly #W.",
+		"You liquefy $N with your deadly #W.",                /* 14 */
+		"$n liquefies you with $s deadly #W."},
 	
 	{"$n decimates $N with $s deadly #W.",
 		"You decimate $N with your deadly #W.",              /* 15 */
@@ -132,7 +132,7 @@ static struct dam_weapon_type {
 	
 	{"$n ruptures $N with $s deadly #W.",
 		"You rupture $N with your deadly #W.",              /* 31 */
-		"$n rupturs you with $s deadly #W."},
+		"$n ruptures you with $s deadly #W."},
 	
 	{"$n exterminates $N with $s deadly #W.",
 		"You exterminate $N with your deadly #W.",          /* 32 */
@@ -210,9 +210,9 @@ static struct mult_dam_weapon_type {
 		"You rend $N asunder with your #H deadly #W.",      /* 13 */
 		"$n rends you asunder with $s #H deadly #W."},
 	
-	{"$n liquifies $N with $s #H deadly #W.",
-		"You liquify $N with your #H deadly #W.",             /* 14 */
-		"$n liquifies you with $s #H deadly #W."},
+	{"$n liquefies $N with $s #H deadly #W.",
+		"You liquefy $N with your #H deadly #W.",             /* 14 */
+		"$n liquefies you with $s #H deadly #W."},
 	
 	{"$n decimates $N with $s #H deadly #W.",
 		"You decimate $N with your #H deadly #W.",            /* 15 */

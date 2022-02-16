@@ -563,7 +563,7 @@ const char *spell_wear_off_msg[] = {
 	"You feel less protected.",
 	"!Elsewhere!",
 	"You feel less righteous.",
-	"You feel a cloak of blindness disolve.",
+	"You feel a cloak of blindness dissolve.",
 	"!Burning Hands!",
 	"!Call Lightning",
 	"You feel more self-confident.",
@@ -597,13 +597,13 @@ const char *spell_wear_off_msg[] = {
 	"!Remove Curse!",
 	"The white aura around your body fades.",
 	"!Shocking Grasp!",
-	"You feel less drousy.",
+	"You feel less drowsy.",
 	"You don't feel as strong.",
 	"!Summon!",
 	"!Ventriloquate!",
 	"!Word of Recall!",
 	"!Remove Poison!",
-	"You feel less aware of your suroundings.",
+	"You feel less aware of your surroundings.",
 	"!sneak!",
 	"!Hide!",
 	"!Steal!",
@@ -642,7 +642,7 @@ const char *spell_wear_off_msg[] = {
 	"!succor!",
 	"!donate mana!",
 	"You feel your magical link suddenly break...",
-	"You feel more suseptible to magic...",
+	"You feel more susceptible to magic...",
 	"You feel more susceptible to magic...",
 	"Its harder to tell the nicer things in life",
 	"!conflagration!",
@@ -675,7 +675,7 @@ const char *spell_wear_off_msg[] = {
 	"!black burst!",	/* 113 */
 	"!cremation!",		/* 114 */
 	"!mortice flame!",	/* 115 */
-	"!fireland!",		/* 116 */
+	"!firelance!",		/* 116 */
 	"!firestorm!",		/* 117 */
 	"!earthquake!",		/* 118 */
 	"!divine retribution!",	/* 119 */
@@ -699,7 +699,7 @@ const char *spell_wear_off_msg[] = {
 	"!rage",		/* 137 */
 	"!switch",		/* 138 */
 	"!portal",		/* 139 */
-	"You feel reliefed as the hemmorage leaves your body",	/* 140 */
+	"You feel relieved as the hemorrhage leaves your body",	/* 140 */
 	"fear",			/* 141 */
 	"Your body returns to normal, leaving you feeling drained",	/* 142 */
 	"din mak",		/* 143 */
@@ -777,7 +777,7 @@ const char *spell_wear_off_msg[] = {
 	"You are no longer a chimera.",	/* 215 */
 	"!track!",		/* 217 */
 	"You moo no more.",	/* 217 */
-	"!Convolesence",	/* 218 */
+	"!Convalescence",	/* 218 */
 	"!Purge Magic!",	/* 219 */
 	"!Fifth",           /* 220*/
 	"\n",

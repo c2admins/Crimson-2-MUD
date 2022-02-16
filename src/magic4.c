@@ -132,7 +132,7 @@ void spell_pestilence(sbyte level, struct char_data * ch, struct char_data * vic
 		af.bitvector = AFF_POISON;
 		ha1400_affect_join(victim, &af, FALSE, FALSE);
 
-		act("$n seems pestilenced!!", TRUE, victim, 0, 0, TO_ROOM);
+		act("$n seems poisoned!!", TRUE, victim, 0, 0, TO_ROOM);
 		send_to_char("You feel very sick!\n\r", victim);
 	}
 
@@ -200,7 +200,7 @@ void spell_spiritual_transfer(sbyte level, struct char_data * ch,
 	sprintf(buf, "You transfer your spirit to %s.\r\n",
 		GET_NAME(victim));
 	send_to_char(buf, ch);
-	act("$n has transfered $s spirit into $N.\r\n", FALSE, ch, 0, victim, TO_ROOM);
+	act("$n has transferred $s spirit into $N.\r\n", FALSE, ch, 0, victim, TO_ROOM);
 
 	ch->desc->character = victim;
 	ch->desc->original = ch;

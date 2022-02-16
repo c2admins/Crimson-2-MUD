@@ -518,7 +518,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 
 	/* ARE WE ALREADY LEARNED IN THIS AREA? */
 	if (GET_SKILL(ch, lv_what_to_practice) >= 99) {
-		send_to_char("Your guildmaster tells you that your expert in that area.\r\n", ch);
+		send_to_char("Your guild master tells you that your expert in that area.\r\n", ch);
 		return;
 	}
 
@@ -553,7 +553,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 	/* IS THERE A RACE RESTRICTION? */
 	if (GET_SKILL(ch, lv_what_to_practice) >=
 	    races[GET_RACE(ch)].skill_max[lv_what_to_practice]) {
-		send_to_char("Your guildmaster apologizes but tells you there are racial limits.\r\n", ch);
+		send_to_char("Your guild master apologizes but tells you there are racial limits.\r\n", ch);
 		return;
 	}
 
@@ -561,7 +561,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 	if (GET_SKILL(ch, lv_what_to_practice) >=
 	    classes[GET_CLASS(ch)].skill_max[lv_what_to_practice]) {
 		bzero(buf, sizeof(buf));
-		sprintf(buf, "Your guildmaster apologizes but tells you there are class limits.\r\n");
+		sprintf(buf, "Your guild master apologizes but tells you there are class limits.\r\n");
 		send_to_char(buf, ch);
 		return;
 	}
@@ -581,15 +581,15 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 	lv_cost = ((slevel * slevel * slevel * slevel) / 175 + 1) * (plevel + 1);
 
 	if (lv_what_to_practice == SPELL_BEAST_TRANSFORM && (GET_CLASS(ch) != CLASS_RANGER && GET_CLASS(ch) != CLASS_DRUID)) {
-		send_to_char("Your guildmaster apologizes, but only Rangers and Druids may practice that spell.\r\n", ch);
+		send_to_char("Your guild master apologizes, but only Rangers and Druids may practice that spell.\r\n", ch);
 		return;
 	}
 	if ((lv_what_to_practice == SPELL_MORDEN_SWORD) && (GET_CLASS(ch) != CLASS_MAGIC_USER && GET_CLASS(ch) != CLASS_ELDRITCH)) {
-		send_to_char("Your guildmaster apologizes, but only Mages and Eldritch Knights may practice that spell.\r\n", ch);
+		send_to_char("Your guild master apologizes, but only Mages and Eldritch Knights may practice that spell.\r\n", ch);
 		return;
 	}
 	if (lv_what_to_practice == SKILL_ENVENOM_WEAPON && GET_RACE(ch) != RACE_THRI_KREEN) {
-		send_to_char("Your guildmaster apologizes, but only Thri-Kreen can learn that skill.\r\n", ch);
+		send_to_char("Your guild master apologizes, but only Thri-Kreen can learn that skill.\r\n", ch);
 		return;
 	}
 	//Spells/skills not implemented yet.
@@ -640,7 +640,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		lv_what_to_practice == SPELL_SLEEP_IMMUNITY ||
 		lv_what_to_practice == SKILL_TRACK ||
 		lv_what_to_practice == SPELL_CONVALESCE) {
-		send_to_char("Your guildmaster apologizes but you cannot practice that spell.\r\n", ch);
+		send_to_char("Your guild master apologizes but you cannot practice that spell.\r\n", ch);
 		return;
 	}
 	
@@ -657,7 +657,7 @@ void pr1300_do_the_guild_with_arg(struct char_data * ch, struct char_data * vict
 		lv_what_to_practice == SPELL_TRANSFORM_WOMBLE ||
 		lv_what_to_practice == SPELL_TRANSFORM_MANTICORE ||
 	    lv_what_to_practice == SPELL_TRANSFORM_COW) {
-		send_to_char("Your guildmaster informs you that this is restricted to use by the immortals.\r\n", ch);
+		send_to_char("Your guild master informs you that this is restricted to use by the immortals.\r\n", ch);
 		return;
 	}
 	if (plevel > 50)
@@ -926,7 +926,7 @@ int pr1700_mayor(struct char_data * ch, int cmd, char *arg)
 
 	case 'R':
 		GET_POS(ch) = POSITION_SITTING;
-		act("$n sits down on a barstool.", FALSE, ch, 0, 0, TO_ROOM);
+		act("$n sits down on a bar stool.", FALSE, ch, 0, 0, TO_ROOM);
 		break;
 
 	case 'T':
@@ -957,7 +957,7 @@ int pr1700_mayor(struct char_data * ch, int cmd, char *arg)
 		break;
 
 	case 'f':
-		act("$n chuckles as he looks at the pathetic midgaard man.", FALSE, ch, 0, 0, TO_ROOM);;
+		act("$n chuckles as he looks at the pathetic Midgaard man.", FALSE, ch, 0, 0, TO_ROOM);;
 		break;
 
 	case 'g':
@@ -1765,7 +1765,7 @@ int pr2800_gothelred(struct char_data * ch, int cmd, char *arg)
 		do_say(ch, "I heard they're sending you down the river my friend.", CMD_SAY);
 		return (1);
 	case 5:
-		do_say(ch, "I have a cousin in Asgaard ya know.", CMD_SAY);
+		do_say(ch, "I have a cousin in Asgard ya know.", CMD_SAY);
 		return (1);
 	case 6:
 		do_say(ch, "Have you ever met Melvis Wesley?", CMD_SAY);
@@ -2004,10 +2004,10 @@ int pr2899_newbie_helper(struct char_data * ch, int cmd, char *arg)
 		do_say(ch, "You can store your stuff at the receptionist by typing 'RENT'", CMD_SAY);
 		return (1);
 	case 6:
-		do_say(ch, "In the temple of T'Salhoic is a nice highpriestess, type 'BUY' at her.", CMD_SAY);
+		do_say(ch, "In the temple of T'Salhoic is a nice high-priestess, type 'BUY' at her.", CMD_SAY);
 		return (1);
 	case 7:
-		do_say(ch, "You can be uncursed and healed at the altar, 3 steps north from marketsquare.", CMD_SAY);
+		do_say(ch, "You can be uncursed and healed at the altar, 3 steps north from market square.", CMD_SAY);
 		return (1);
 	case 8:
 		do_say(ch, "Type 'HELP ZONES' for a list of currently available zones.", CMD_SAY);
@@ -2176,7 +2176,7 @@ int pr2950_santa(struct char_data * ch, int cmd, char *arg)
 		wi1000_do_emote(ch, "looks around for his missing items.", CMD_EMOTE);
 		return (1);
 	case 10:
-		do_say(ch, "We must find the toys for Chistmas!  There'll be extra goodies for those who help me.", CMD_SAY);
+		do_say(ch, "We must find the toys for Christmas!  There'll be extra goodies for those who help me.", CMD_SAY);
 		return (1);
 		/* IF ADDING TO THIS, BE SURE TO ADJUST lv_number CHECK ABOVE */
 	default:
@@ -2445,7 +2445,7 @@ int pr3600_pet_shops(struct char_data * ch, int cmd, char *arg)
 		}
 
 		if (GET_GOLD(ch) < (GET_EXP(pet) * 3)) {
-			send_to_char("You dont have enough gold!\n\r", ch);
+			send_to_char("You don't have enough gold!\n\r", ch);
 			return (TRUE);
 		}
 
@@ -2481,7 +2481,7 @@ int pr3600_pet_shops(struct char_data * ch, int cmd, char *arg)
 		ha1600_char_to_room(pet, ch->in_room);
 		ha4300_add_follower(pet, ch);
 
-		/* Be certain that pet's can't get/carry/use/weild/wear items */
+		/* Be certain that pet's can't get/carry/use/wield/wear items */
 		IS_CARRYING_W(pet) = 1000;
 		IS_CARRYING_N(pet) = 100;
 
@@ -2576,7 +2576,7 @@ int pr3750_brim_pet_shop(struct char_data * ch, int cmd, char *arg)
 		ha1600_char_to_room(pet, ch->in_room);
 		ha4300_add_follower(pet, ch);
 
-		/* Be certain that pet's can't get/carry/use/weild/wear items */
+		/* Be certain that pet's can't get/carry/use/wield/wear items */
 		IS_CARRYING_W(pet) = 1000;
 		IS_CARRYING_N(pet) = 100;
 

@@ -157,7 +157,7 @@ void cast_irresistable_dance(sbyte level, struct char_data * ch, char *arg, int 
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in irresistable_dance!");
-		spec_log("ERROR: Invalid spell type in irresistable dance!", ERROR_LOG);
+		spec_log("ERROR: Invalid spell type in irresistable_dance!", ERROR_LOG);
 		break;
 
 	}
@@ -273,7 +273,7 @@ void cast_grangorns_curse(sbyte level, struct char_data * ch, char *arg, int typ
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in grangorns_curse!");
-		spec_log("ERROR: Invalid spell type in grangorns curse!", ERROR_LOG);
+		spec_log("ERROR: Invalid spell type in grangorns_curse!", ERROR_LOG);
 		break;
 
 	}
@@ -512,8 +512,8 @@ void cast_portal(signed char level, struct char_data * ch, char *arg, int type,
 				spell_portal(level, ch, tar_ch, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in teleport group!");
-		spec_log("ERROR: Invalid spell type in teleport group(portal)!", ERROR_LOG);
+		main_log("ERROR: Invalid spell type in portal!");
+		spec_log("ERROR: Invalid spell type in portal!", ERROR_LOG);
 		break;
 	}
 }				/* END OF cast_portal() */

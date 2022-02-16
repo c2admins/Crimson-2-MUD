@@ -31,7 +31,7 @@ int si1000_nosferatu(struct char_data * ch, int cmd, char *arg)
 	if (cmd != -1)
 		return 0;
 	else {
-		main_log("nosferatu killed");
+		main_log("Nosferatu killed");
 	}
 	return 0;
 }
@@ -168,7 +168,7 @@ int cliff(struct char_data * ch, int cmd, char *arg)
 
 	case CMD_WEST:
 		if (!(obj = ha2000_get_obj_list_virtual(rope_grapple, world[ch->in_room].contents))) {
-			send_to_char("Whoa... thats far to steep a cliff to climb down unaided.\n\r", ch);
+			send_to_char("Whoa... that's far to steep a cliff to climb down unaided.\n\r", ch);
 			return (1);
 		}
 		return (0);

@@ -395,7 +395,7 @@ void mb1100_enfyrn_priest_changes_to_dragon(struct char_data * ch)
 	    TRUE, lv_mob, 0, 0, TO_ROOM);
 	act("begins to increase in size dramatically.  Almost filling the cave in seconds.",
 	    TRUE, lv_mob, 0, 0, TO_ROOM);
-	act("His skin begins to turn much redder and you realize the shape he is becomming",
+	act("His skin begins to turn much redder and you realize the shape he is becoming",
 	    TRUE, lv_mob, 0, 0, TO_ROOM);
 	act("is that of a great red dragon!",
 	    TRUE, lv_mob, 0, 0, TO_ROOM);
@@ -444,7 +444,7 @@ void mb1125_enfyrn_dragon_changes_to_priest(struct char_data * ch)
 
 	act("Having healed itself, the dragon recites several phrases in an arcane",
 	    TRUE, lv_mob, 0, 0, TO_ROOM);
-	act("language and slowly metamorphs into its smaller human form.",
+	act("language and slowly meta-morphs into its smaller human form.",
 	    TRUE, lv_mob, 0, 0, TO_ROOM);
 	return;
 

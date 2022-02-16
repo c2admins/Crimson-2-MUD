@@ -523,7 +523,7 @@ char buf[MAX_STRING_LENGTH];
 int lv_amount, tmp;
 
 
-// Really low occurance rate
+// Really low occurrence rate
 if (GET_LEVEL(victim) < 35 || GET_LEVEL(mob) < 41 || (number(0,999) > 2))
 return 0;
 

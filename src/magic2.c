@@ -1153,7 +1153,7 @@ void spell_teleport_self(sbyte level, struct char_data * ch,
 
 	if (!IS_UNCHARMED_NPC(ch) &&
 	    IS_SET(world[ch->in_room].room_flags, RM1_NO_TELEPORT_OUT)) {
-		send_to_char("You feel a kernal of energy form then it fades away.\r\n", ch);
+		send_to_char("You feel a kernel of energy form then it fades away.\r\n", ch);
 		return;
 	}
 
@@ -1263,7 +1263,7 @@ void spell_teleport_group(sbyte level, struct char_data * ch,
 	}
 
 	if (IS_SET(world[ch->in_room].room_flags, RM1_NO_TELEPORT_OUT)) {
-		send_to_char(" You feel the proper kernal of energy form but it fades away.\r\n", ch);
+		send_to_char(" You feel the proper kernel of energy form but it fades away.\r\n", ch);
 		return;
 	}
 

@@ -350,7 +350,7 @@ void cast_transform_monkey(sbyte level, struct char_data * ch, char *arg, int ty
 			spell_transform_monkey(level, ch, victim, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in pestilence!");
+		main_log("ERROR: Invalid spell type in transform_monkey!");
 		spec_log("ERROR: Invalid spell type in transform_monkey!", ERROR_LOG);
 		break;
 	}
@@ -388,7 +388,7 @@ void cast_transform_ninja(sbyte level, struct char_data * ch, char *arg, int typ
 			spell_transform_ninja(level, ch, victim, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in pestilence!");
+		main_log("ERROR: Invalid spell type in transfor_ninja!");
 		spec_log("ERROR: Invalid spell type in transfor_ninja!", ERROR_LOG);
 		break;
 	}

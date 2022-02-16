@@ -463,7 +463,7 @@ void ot1700_do_title(struct char_data * ch, char *argument, int cmd)
 	strcpy(buf3, buf);
 
 	if ((strlen(buf2) > 55) || (strlen(buf) > 70)) {
-		send_to_char("I'm afraid thats a bit lengthy.\n\r", ch);
+		send_to_char("I'm afraid that's a bit lengthy.\n\r", ch);
 		return;
 	}
 
@@ -841,7 +841,7 @@ void ot2000_do_practice(struct char_data * ch, char *arg, int cmd)
 	/* IT MEANS A GUILD MASTER ISN'T...                      */
 	if (*(arg)) {
 		if (GET_LEVEL(ch) < IMO_SPIRIT) {
-			send_to_char("You need to find a guildmaster to practice that.\r\n", ch);
+			send_to_char("You need to find a guild master to practice that.\r\n", ch);
 			return;
 		}
 		victim = 0;
@@ -1358,11 +1358,11 @@ void ot2900_do_auto(struct char_data * ch, char *arg, int cmd)
 		break;
 	case 5:		/* aggr */
 		if (IS_SET(GET_ACT3(ch), PLR3_AUTOAGGR)) {
-			send_to_char("You will try to spare unconsious mobs.\n\r", ch);
+			send_to_char("You will try to spare unconscious mobs.\n\r", ch);
 			REMOVE_BIT(GET_ACT3(ch), PLR3_AUTOAGGR);
 		}
 		else {
-			send_to_char("You will finish killing unconsious mobs.\n\r", ch);
+			send_to_char("You will finish killing unconscious mobs.\n\r", ch);
 			SET_BIT(GET_ACT3(ch), PLR3_AUTOAGGR);
 		}
 		break;
@@ -2201,7 +2201,7 @@ void ot3800_do_split(struct char_data * ch, char *arg, int cmd)
 		return;
 	}
 	if (total > GET_GOLD(ch)) {
-		act("You dont have that much money.", FALSE, ch, 0, 0, TO_CHAR);
+		act("You don't have that much money.", FALSE, ch, 0, 0, TO_CHAR);
 		return;
 	}
 	/* bugfix for immorts who are abusing this */
@@ -2350,7 +2350,7 @@ void ot3900_do_climb(struct char_data * ch, char *arg, int cmd)
 	lv_dir = old_search_block(buf, 0, strlen(buf), dirs, 0);
 	if ((lv_dir < 0) ||
 	    !(EXIT(ch, lv_dir - 1))) {
-		send_to_char("Thats not a valid direction.\r\n", ch);
+		send_to_char("That's not a valid direction.\r\n", ch);
 		return;
 	}
 	lv_dir--;
@@ -2433,7 +2433,7 @@ void ot4100_do_sense(struct char_data * ch, char *arg, int cmd)
 	lv_dir = old_search_block(buf, 0, strlen(buf), dirs, 0);
 	lv_dir--;
 	if ((lv_dir < 0) || (lv_dir > 5)) {
-		send_to_char("Thats not a valid direction.\r\n", ch);
+		send_to_char("That's not a valid direction.\r\n", ch);
 		return;
 	}
 
@@ -2683,9 +2683,9 @@ void ot4500_do_for(struct char_data * ch, char *arg, int cmd)
 #define FOR_ALL		1
 #define FOR_LEVEL	2
 #define FOR_MORTAL	3
-#define FOR_AVATAR 	4
+#define FOR_AVATAR	4
 #define FOR_GOD		5
-#define FOR_QUEST       6
+#define FOR_QUEST	6
 #define FOR_COUNT	7
 #define FOR_INTERVAL	8
 

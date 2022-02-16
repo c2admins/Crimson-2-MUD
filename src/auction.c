@@ -2,7 +2,7 @@
 /* *******************************************************************
 *  file: auction.c , Special module.         Part of Crimson MUD     *
 *  Usage: Auction system for Crimson MUD II                          *
-*                  Written by Hercules   asdfasdf                            *
+*                  Written by Hercules                               *
 ******************************************************************** */
 
 #include <stdio.h>
@@ -354,7 +354,7 @@ void au1000_do_auction(struct char_data * ch, char *arg, int cmd)
 			else
 				send_to_char("Bidder        : None\n\r\n\r\n\r", ch);
 
-			/* Don't let the auctioner see the item information */
+			/* Don't let the auctioneer see the item information */
 			return;
 		}
 		else {
@@ -502,7 +502,7 @@ void au1000_do_auction(struct char_data * ch, char *arg, int cmd)
 		if (world[location].number == 24)
 			break;
 		if (location == top_of_world) {
-			send_to_char("Error! Auctionroom not found!\r\n", ch);
+			send_to_char("Error! Auction room not found!\r\n", ch);
 			au1300_reboot_auction();
 			return;
 		}

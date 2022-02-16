@@ -188,7 +188,7 @@ void wz1000_do_jail(struct char_data * ch, char *arg, int cmd)
 
 	if (!*buf) {
 		if (IS_SET(GET_ACT2(vict), PLR2_JAILED)) {
-			act("$N's remaining jailtime is:", FALSE, ch, 0, vict, TO_CHAR);
+			act("$N's remaining jail time is:", FALSE, ch, 0, vict, TO_CHAR);
 			sprintf(buf2, "%d months %d days %d hours %d minutes %d seconds.\r\n",
 				get_jail_time(GET_JAILTIME(vict), 0),
 				get_jail_time(GET_JAILTIME(vict), 1),
@@ -256,7 +256,7 @@ void wz1000_do_jail(struct char_data * ch, char *arg, int cmd)
 			    GET_LEVEL(ch) < IMO_IMP) {
 				act("You create a faint outline of bars around $N, but they fade.", FALSE, ch, 0, vict, TO_CHAR);
 				act("$n tries to jail $N but only manages to show their limits.", TRUE, ch, 0, vict, TO_NOTVICT);
-				act("$n tries to jail you but ends up embarassing themselves.", TRUE, ch, 0, vict, TO_VICT);
+				act("$n tries to jail you but ends up embarrassing themselves.", TRUE, ch, 0, vict, TO_VICT);
 				send_to_char("That person is to awesome to jail!\r\n", ch);
 				return;
 			}
@@ -441,11 +441,11 @@ void wz1200_do_nohassle(struct char_data * ch, char *arg, int cmd)
 	}
 	if (IS_SET(GET_ACT3(ch), PLR3_NOHASSLE)) {
 		REMOVE_BIT(GET_ACT3(ch), PLR3_NOHASSLE);
-		send_to_char("You can now be hassled by aggr. mobs.\r\n", ch);
+		send_to_char("You can now be hassled by aggro mobs.\r\n", ch);
 	}
 	else {
 		SET_BIT(GET_ACT3(ch), PLR3_NOHASSLE);
-		send_to_char("You can no longer be hassled by aggr. mobs.\r\n", ch);
+		send_to_char("You can no longer be hassled by aggro mobs.\r\n", ch);
 	}
 
 }				/* END OF wz1200_do_nohassle */
@@ -1383,7 +1383,7 @@ void do_otransfer(struct char_data * ch, char *arg, int cmd)
 	}
 
 	if ((obj = ha3200_get_obj_vis(ch, arg1)) == NULL) {
-		send_to_char("Sorry, that object isnt out there.\n\r", ch);
+		send_to_char("Sorry, that object isn't out there.\n\r", ch);
 		return;
 	}
 	if (obj->carried_by != NULL) {

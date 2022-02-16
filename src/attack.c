@@ -178,7 +178,7 @@ void at1200_do_backstab(struct char_data * ch, char *argument, int cmd)
 
 
 	if (!ch->equipment[WIELD]) {
-		send_to_char("You need to wield a weapon, to make it a succes.\n\r", ch);
+		send_to_char("You need to wield a weapon, to make it a success.\n\r", ch);
 		return;
 	}
 
@@ -303,7 +303,7 @@ void at1300_do_order(struct char_data * ch, char *argument, int cmd)
 	}
 
 	if (IS_AFFECTED(ch, AFF_CHARM)) {
-		send_to_char("Your superior would not aprove of you giving orders.\n\r", ch);
+		send_to_char("Your superior would not approve of you giving orders.\n\r", ch);
 		return;
 	}
 
@@ -705,7 +705,7 @@ void at1650_do_stab(struct char_data * ch, char *argument, int cmd)
 	}
 
 	if (!ch->equipment[WIELD]) {
-		send_to_char("You need to wield a weapon, to make it a succes.\n\r", ch);
+		send_to_char("You need to wield a weapon, to make it a success.\n\r", ch);
 		return;
 	}
 
@@ -1036,7 +1036,7 @@ void at1800_do_breath(struct char_data * ch, char *arg, int cmd)
 			CHECK_FOR_PK();
 
 			if (victim == ch) {
-				send_to_char("Even dragon-kin arent that dumb..\n\r", ch);
+				send_to_char("Even dragon-kin aren't that dumb..\n\r", ch);
 			}
 			else {
 				if (IS_AFFECTED(ch, AFF_CHARM) && (ch->master == victim)) {
@@ -1305,7 +1305,7 @@ void at2100_do_mob_hunt_msgs(struct char_data * ch, struct char_data
 				GET_REAL_NAME(vict));
 			break;
 		case 25:
-			sprintf(buf, "Thats right %s!  Run to Rahnkara...",
+			sprintf(buf, "That's right %s!  Run to Rahnkara...",
 				GET_REAL_NAME(vict));
 			break;
 		case 26:
@@ -1378,7 +1378,7 @@ void at2100_do_mob_hunt_msgs(struct char_data * ch, struct char_data
 				GET_REAL_NAME(vict));
 			break;
 		case 10:
-			sprintf(buf, "I wish I didnt have to kill you, %s, but its just so much fun!",
+			sprintf(buf, "I wish I didn't have to kill you, %s, but its just so much fun!",
 				GET_REAL_NAME(vict));
 			break;
 		case 11:
@@ -1557,7 +1557,7 @@ void at2300_do_escape(struct char_data * ch, char *argument, int cmd)
 		lv_dir = old_search_block(buf, 0, strlen(buf), dirs, 0);
 		lv_dir--;
 		if ((lv_dir < 0) || (lv_dir > 5)) {
-			send_to_char("Thats not a valid direction.\r\n", ch);
+			send_to_char("That's not a valid direction.\r\n", ch);
 			return;
 		}
 		if (!CAN_GO(ch, lv_dir)) {

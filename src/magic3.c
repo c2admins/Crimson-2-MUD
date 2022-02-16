@@ -72,7 +72,7 @@ void spell_mirror_self(sbyte level, struct char_data * ch,
 	mob->player.weight = 1;
 	mob->points.hit = (100 + number(1, 10) - 20) * GET_HIT_LIMIT(ch) / 400;
 
-	/* Set Damageroll */
+	/* Set Damage roll */
 	mob->specials.damnodice = 2;
 	mob->specials.damsizedice = 2 * GET_LEVEL(ch);
 	mob->points.damroll = 2 * GET_LEVEL(ch);

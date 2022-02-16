@@ -688,9 +688,9 @@ int sp2200_clan_teleporter_button(struct char_data * ch, int cmd, char *arg)
 	}
 
 	if (!GET_CLAN_ROOM(CLAN_NUMBER(ch))) {
-		send_to_char("You press the button and see the world around you fading out of existance.\r\n", ch);
-		send_to_char("As the world fades back into existance you notice you haven't moved.\r\n", ch);
-		act("$n presses the button and starts flickering in and out of existance", TRUE, ch, 0, 0, TO_ROOM);
+		send_to_char("You press the button and see the world around you fading out of existence.\r\n", ch);
+		send_to_char("As the world fades back into existence you notice you haven't moved.\r\n", ch);
+		act("$n presses the button and starts flickering in and out of existence", TRUE, ch, 0, 0, TO_ROOM);
 		return (TRUE);
 	}
 
@@ -707,11 +707,11 @@ int sp2200_clan_teleporter_button(struct char_data * ch, int cmd, char *arg)
 	}
 
 	send_to_char("As you press the button the world around you fades away.\r\n", ch);
-	act("$n presses the button and suddenly winks out of existance", TRUE, ch, 0, 0, TO_ROOM);
+	act("$n presses the button and suddenly winks out of existence", TRUE, ch, 0, 0, TO_ROOM);
 	ha1500_char_from_room(ch);
 	ha1600_char_to_room(ch, location);
 	in3000_do_look(ch, "", 0);
-	act("$n suddenly winks into existance.", TRUE, ch, 0, 0, TO_ROOM);
+	act("$n suddenly winks into existence.", TRUE, ch, 0, 0, TO_ROOM);
 	return (TRUE);
 
 }				/* END OF sp2200_clan_teleporter_button() */
@@ -756,7 +756,7 @@ int sp2300_load_ammo(struct char_data * ch, int cmd, char *arg)
 	obj_weapon = ch->equipment[17];
 
 	if (!obj_weapon) {
-		send_to_char("You need to have a missile weapon equiped first.\r\n", ch);
+		send_to_char("You need to have a missile weapon equipped first.\r\n", ch);
 		return (TRUE);
 	}
 	switch (obj_index[obj_weapon->item_number].virtual) {
@@ -781,7 +781,7 @@ int sp2300_load_ammo(struct char_data * ch, int cmd, char *arg)
 		}
 		break;
 	default:
-		send_to_char("You need to have a missile weapon equiped first.\r\n", ch);
+		send_to_char("You need to have a missile weapon equipped first.\r\n", ch);
 		return (TRUE);
 	}
 
@@ -874,7 +874,7 @@ void sp2400_do_shoot(struct char_data * ch, char *arg, int cmd)
 		sprintf(buf, "$n puts %s against $s head and releases %s.\r\n",
 		  obj_weapon->short_description, obj_ammo->short_description);
 		act(buf, TRUE, ch, 0, 0, TO_ROOM);
-		sprintf(buf, "%s L[%d] commited suicide.\r\n",
+		sprintf(buf, "%s L[%d] committed suicide.\r\n",
 			GET_REAL_NAME(vict),
 			GET_LEVEL(vict));
 		do_info(buf, 1, MAX_LEV, vict);

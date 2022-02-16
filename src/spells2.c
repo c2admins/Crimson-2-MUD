@@ -95,7 +95,7 @@ void cast_elsewhere(signed char level, struct char_data * ch, char *arg, int typ
 		break;
 
 	default:
-		main_log("ERROR: Invalid spell type in spell elsewhere!");
+		main_log("ERROR: Invalid spell type in elsewhere!");
 		spec_log("ERROR: Invalid spell type in elsewhere!", ERROR_LOG);
 		break;
 	}
@@ -426,7 +426,7 @@ void cast_donate_mana(signed char level, struct char_data * ch, char *arg, int t
 	}
 }
 
-
+/*
 void cast_mana_link(signed char level, struct char_data * ch, char *arg, int type,
 		        struct char_data * tar_ch, struct obj_data * tar_obj)
 {
@@ -453,7 +453,7 @@ void cast_mana_link(signed char level, struct char_data * ch, char *arg, int typ
 
 	}
 }
-
+*/
 void cast_sustenance(signed char level, struct char_data * ch, char *arg, int type,
 		       struct char_data * tar_ch, struct obj_data * tar_obj)
 {
@@ -474,7 +474,7 @@ void cast_sustenance(signed char level, struct char_data * ch, char *arg, int ty
 				spell_sustenance(level, ch, tar_ch, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in donate mana!");
+		main_log("ERROR: Invalid spell type in sustenance!");
 		spec_log("ERROR: Invalid spell type in sustenance!", ERROR_LOG);
 		break;
 
@@ -833,7 +833,7 @@ void cast_dispel_magic(signed char level, struct char_data * ch, char *arg, int 
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in dispel_magic!");
-		spec_log("ERROR: Invalid spell type in dispel magic!", ERROR_LOG);
+		spec_log("ERROR: Invalid spell type in dispel_magic!", ERROR_LOG);
 		break;
 	}
 }				/* END OF cast_dispel_magic() */
@@ -1088,7 +1088,7 @@ void cast_heal_medium(signed char level, struct char_data * ch, char *arg, int t
 				spell_heal_medium(level, ch, tar_ch, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in heal!");
+		main_log("ERROR: Invalid spell type in heal medium!");
 		spec_log("ERROR: Invalid spell type in heal medium!", ERROR_LOG);
 		break;
 	}
@@ -1116,7 +1116,7 @@ void cast_heal_major(signed char level, struct char_data * ch, char *arg, int ty
 				spell_heal_major(level, ch, tar_ch, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in heal!");
+		main_log("ERROR: Invalid spell type in heal major!");
 		spec_log("ERROR: Invalid spell type in heal major!", ERROR_LOG);
 		break;
 	}
@@ -1466,7 +1466,7 @@ void cast_sanctuary_minor(signed char level, struct char_data * ch, char *arg, i
 				spell_sanctuary_minor(level, ch, tar_ch, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in sanctuary!");
+		main_log("ERROR: Invalid spell type in sanctuary minor!");
 		spec_log("ERROR: Invalid spell type in sanctuary minor!", ERROR_LOG);
 		break;
 	}
@@ -1499,7 +1499,7 @@ void cast_sanctuary_medium(signed char level, struct char_data * ch, char *arg, 
 				spell_sanctuary_medium(level, ch, tar_ch, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in sanctuary!");
+		main_log("ERROR: Invalid spell type in sanctuary medium!");
 		spec_log("ERROR: Invalid spell type in sanctuary medium!", ERROR_LOG);
 		break;
 	}
@@ -1760,7 +1760,7 @@ void cast_charm_person(signed char level, struct char_data * ch, char *arg, int 
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in charm person!");
-		spec_log("ERROR: Invalid spell type in char person!", ERROR_LOG);
+		spec_log("ERROR: Invalid spell type in charm person!", ERROR_LOG);
 		break;
 	}
 }
@@ -2048,11 +2048,11 @@ void do_phase_door(signed char level, struct char_data * ch, char *arg, int type
 	}
 
 	if (IS_SET(world[ch->in_room].room_flags, RM1_NO_TELEPORT_IN) && GET_LEVEL(ch) < IMO_IMP) {
-		send_to_char("Wisp of engery coalesce, but nothing happens!\r\n", ch);
+		send_to_char("Wisp of energy coalesce, but nothing happens!\r\n", ch);
 		return;
 	}
 	if (IS_SET(world[ch->in_room].room_flags, RM1_NO_TELEPORT_OUT) && GET_LEVEL(ch) < IMO_IMP) {
-		send_to_char("A massive kernal of energy forms, but nothing happens!\r\n", ch);
+		send_to_char("A massive kernel of energy forms, but nothing happens!\r\n", ch);
 		return;
 	}
 
@@ -2103,34 +2103,6 @@ void cast_phase_door(signed char level, struct char_data * ch, char *arg, int ty
 
 void cast_waterwalk(signed char level, struct char_data * ch, char *arg, int type,
 		      struct char_data * tar_ch, struct obj_data * tar_obj)
-{
-
-
-
-	switch (type) {
-		case SPELL_TYPE_SPELL:
-		spell_waterwalk(level, ch, tar_ch, 0);
-		break;
-	case SPELL_TYPE_SCROLL:
-		if (!tar_ch)
-			return;
-		spell_waterwalk(level, ch, tar_ch, 0);
-		break;
-	case SPELL_TYPE_STAFF:
-		for (tar_ch = world[ch->in_room].people;
-		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
-				spell_waterwalk(level, ch, tar_ch, 0);
-		break;
-	default:
-		main_log("ERROR: Invalid spell type in waterwalk!");
-		spec_log("ERROR: Invalid spell type in waterwalk!", ERROR_LOG);
-		break;
-	}
-}				/* END OF cast_waterwalk() */
-
-void cast_(signed char level, struct char_data * ch, char *arg, int type,
-	     struct char_data * tar_ch, struct obj_data * tar_obj)
 {
 
 
@@ -2437,7 +2409,7 @@ void cast_vitalize_mana(signed char level, struct char_data * ch, char *arg, int
 				spell_vitalize_mana(level, ch, tar_ch, 0);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in vitalze mana!");
+		main_log("ERROR: Invalid spell type in vitalize mana!");
 		spec_log("ERROR: Invalid spell type in vitalize mana!", ERROR_LOG);
 		break;
 	}
@@ -2659,8 +2631,8 @@ void cast_animate_dead(signed char level, struct char_data * ch, char *arg, int 
 		spell_animate_dead(level, ch, 0, tar_obj);
 		break;
 	default:
-		main_log("ERROR: Invalid spell type in gate!");
-		spec_log("ERROR: Invalid spell type in animate death!", ERROR_LOG);
+		main_log("ERROR: Invalid spell type in animate dead!");
+		spec_log("ERROR: Invalid spell type in animate dead!", ERROR_LOG);
 		break;
 	}
 }				/* END OF cast_animate_dead() */

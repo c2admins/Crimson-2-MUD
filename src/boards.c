@@ -38,7 +38,7 @@ To install:
 
 	3.  In boards.h, change NUM_OF_BOARDS to reflect how many different
 	number of boards you have.  Change MAX_BOARD_MESSAGES to the
-	maximum number of messages postable before people start to get
+	maximum number of messages post-able before people start to get
 	a 'board is full' message.
 
 	4.  Follow the instructions for adding a new board (below) to correctly
@@ -267,7 +267,7 @@ void Board_write_message(int board_type, struct char_data * ch, char *arg)
 	char *tmstr, buf[MAX_STRING_LENGTH], buf2[MAX_STRING_LENGTH];
 
 	if (IS_NPC(ch)) {
-		send_to_char("Mobs dont read sorry.\r\n", ch);
+		send_to_char("Mobs don't read sorry.\r\n", ch);
 		return;
 	}
 	if (GET_LEVEL(ch) < WRITE_LVL(board_type)) {
@@ -449,7 +449,7 @@ int Board_remove_msg(int board_type, struct char_data * ch, char *arg)
 		return (0);
 
 	if (IS_NPC(ch)) {
-		send_to_char("Mobs dont read sorry.\r\n", ch);
+		send_to_char("Mobs don't read sorry.\r\n", ch);
 		return 1;
 	}
 	if (!num_of_msgs[board_type]) {

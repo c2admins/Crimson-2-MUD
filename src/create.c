@@ -627,7 +627,7 @@ void show_zcmds(struct char_data * ch, int zone)
 	char buf[MAX_STRING_LENGTH], name[MAX_STRING_LENGTH];
 
 	if (IS_SET(zone_table[zone].dirty_zon, SHOWN)) {
-		send_to_char("Allready shown (to abort changes ZEDIT CANCEL).\r\n", ch);
+		send_to_char("Already shown (to abort changes ZEDIT CANCEL).\r\n", ch);
 		return;
 	}
 	for (i = 0; ZCMD[i].command != 'S'; i++) {	/* check against illegal
@@ -811,7 +811,7 @@ void do_zfirst(struct char_data * ch, char *arg, int cmd)
 			send_to_char(buf, ch);
 		}
 		else {
-			send_to_char("Thats no zone command\r\n", ch);
+			send_to_char("That's no zone command\r\n", ch);
 			return;
 		}
 	}
@@ -852,11 +852,11 @@ void do_zmax(struct char_data * ch, char *arg, int cmd)
 				send_to_char(buf, ch);
 			}
 			else {
-				send_to_char("Doors dont have max's?!?\r\n", ch);
+				send_to_char("Doors don't have max's?!?\r\n", ch);
 			}
 		}
 		else {
-			send_to_char("Thats no zone command\r\n", ch);
+			send_to_char("That's no zone command\r\n", ch);
 			return;
 		}
 	}
@@ -1515,7 +1515,7 @@ void cr3000_do_rlevel(struct char_data * ch, char *arg, int cmd)
 
 	/* IS VALUE IN CORRECT LIMITS? */
 	if ((lv_max_level < 0 || lv_max_level > 99)) {
-		send_to_char("Maxmimum level must be between 0 and 99.\r\n", ch);
+		send_to_char("Maximum level must be between 0 and 99.\r\n", ch);
 		return;
 	}
 

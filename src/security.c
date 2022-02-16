@@ -41,7 +41,7 @@ struct hardcode_list_type hardcode_list[] = {
 	{"Sprocket", 47, 0},
 	{"Pythias", 50, 0},
 	{"Winlaen", 47, 0},
-	{"Oldschool", 47, 0},
+	{"Oldschool", 50, 0},
 /* How we find the end of the list, add others ABOVE. */
 	{"666", -1, 0}
 };

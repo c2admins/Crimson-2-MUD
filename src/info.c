@@ -308,7 +308,7 @@ void in1000_do_show_races(struct char_data * ch, char *arg, int cmd)
 		send_to_char("    none\r\n", ch);
 	}
 
-	send_to_char("Race has the following limits on proficiences/spells:\r\n", ch);
+	send_to_char("Race has the following limits on skills/spells:\r\n", ch);
 	jdx = 0;
 	for (idx = 1; idx < MAX_SKILLS; idx++) {
 		if (races[lv_number].skill_max[idx] != 99) {
@@ -419,7 +419,7 @@ void in1100_do_show_classes(struct char_data * ch, char *arg, int cmd)
 			send_to_char("\r\n", ch);
 		}
 	}
-	send_to_char("\r\nStat adjustments (Max, and gained on level):\r\n", ch);
+	send_to_char("\r\nStat adjustments (gained per level):\r\n", ch);
 	sprintf(buf, "Hit : %3d%%\r\n", classes[lv_number].adj_hit);
 	send_to_char(buf, ch);
 	sprintf(buf, "Mana: %3d%%\r\n", classes[lv_number].adj_mana);
@@ -432,7 +432,7 @@ void in1100_do_show_classes(struct char_data * ch, char *arg, int cmd)
 		classes[lv_number].thaco_denominator);
 	send_to_char(buf, ch);
 
-	send_to_char("\r\nClass has the following proficiences(max prof):\r\n", ch);
+	send_to_char("\r\nClass has the following proficiency(max prof):\r\n", ch);
 	send_to_char("  LVL SPELL/SKILL           LVL SPELL/SKILL           LVL SPELL/SKILL\r\n", ch);
 
 	jdx = 0;
@@ -570,11 +570,11 @@ void do_xyzzy(struct char_data * ch, char *arg, int cmd)
 		if (!(strcmp(arg2, "loop"))) {
 			if (gv_force_infinate_loop != TRUE) {
 				gv_force_infinate_loop = TRUE;
-				main_log("At DEFCON 5 for infinate loop-next pass is WAR!");
-				do_sys("At DEFCON 5 for infinate loop-next pass is WAR!", 1, ch);
+				main_log("At DEFCON 5 for infinite loop-next pass is WAR!");
+				do_sys("At DEFCON 5 for infinite loop-next pass is WAR!", 1, ch);
 			}
 			else {
-				main_log("Entering infinate loop");
+				main_log("Entering infinite loop");
 			}
 			return;
 		}
@@ -1289,7 +1289,7 @@ void in1800_do_score(struct char_data * ch, char *arg, int cmd)
 	send_to_char(buf, ch);
 	sprintf(buf, "Your kills/death score is : &W%d&n.\r\n", GET_SCORE(k));
 	send_to_char(buf, ch);
-	sprintf(buf, "You have &W%d&n questpoints.\r\n", k->questpoints);
+	sprintf(buf, "You have &W%d&n quest points.\r\n", k->questpoints);
 	send_to_char(buf, ch);
 
 
@@ -1323,7 +1323,7 @@ void in1800_do_score(struct char_data * ch, char *arg, int cmd)
 	else if (GET_ALIGNMENT(k) > -300)
 		send_to_char("You're as neutral as they come.\r\n", ch);
 	else if (GET_ALIGNMENT(k) > -600)
-		send_to_char("You're mean and spitefull.\r\n", ch);
+		send_to_char("You're mean and spiteful.\r\n", ch);
 	else if (GET_ALIGNMENT(k) > -800)
 		send_to_char("&rYou're a malevolent fiend.&n\r\n", ch);
 	else
@@ -1337,7 +1337,7 @@ void in1800_do_score(struct char_data * ch, char *arg, int cmd)
 		send_to_char(buf, ch);
 	}
 	if ((ch->nextcast == 0) && (ch->skills[SPELL_BEAST_TRANSFORM].learned)) {
-		send_to_char("&CYour body can safely handle a beastial transformation.&n\r\n", ch);
+		send_to_char("&CYour body can safely handle a bestial transformation.&n\r\n", ch);
 	}
 	switch (GET_POS(k)) {
 	case POSITION_DEAD:
@@ -1524,7 +1524,7 @@ void in1900_do_system(struct char_data * ch, char *arg, int cmd)
 	minutes = elapsed % 3600 / 60;
 
 	if (GET_LEVEL(ch) > IMO_SPIRIT) {
-		sprintf(buf, "Uptime is: %d weeks %d days %d hours and %d minutes.\r\n",
+		sprintf(buf, "Up-time is: %d weeks %d days %d hours and %d minutes.\r\n",
 			weeks, day, hours, minutes);
 		send_to_char(buf, ch);
 	}
@@ -1672,7 +1672,7 @@ void in2500_show_obj_to_char(struct obj_data * object, struct char_data * ch, in
 		if ((GET_LEVEL(ch) < IMO_IMP) &&
 		    (!ha1175_isexactname(GET_NAME(ch),
 				   zone_table[world[ch->in_room].zone].lord)))
-			return;	/* hide nosee items from lesser mortals */
+			return;	/* hide no_see items from lesser mortals */
 
 	/* ZERO */
 	if ((mode == 0) && object->description) {
@@ -3739,7 +3739,7 @@ void in4975_whererent(struct char_data * ch, char *arg, int cmd)
 			lv_find_count, lv_file_count);
 	}
 	else {
-		sprintf(buf2, "Unable to locate %d in any rentfiles.\r\n",
+		sprintf(buf2, "Unable to locate %d in any rent files.\r\n",
 			lv_search);
 	}
 	send_to_char(buf2, ch);
@@ -3837,7 +3837,7 @@ void in5100_do_consider(struct char_data * ch, char *arg, int cmd)
 	else if (diff == 0)
 		sprintf(buf, "The perfect match!");
 	else if (diff <= 1)
-		sprintf(buf, "Slighty more skilled than you.");
+		sprintf(buf, "Slightly more skilled than you.");
 	else if (diff <= 2)
 		sprintf(buf, "A bit more skilled than you.");
 	else if (diff <= 3)

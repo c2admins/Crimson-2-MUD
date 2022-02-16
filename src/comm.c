@@ -964,7 +964,7 @@ int co1200_game_loop(int mother_descs[])
 
 						if (roll >= QMSALES_MIN_CHANCE && roll <= QMSALES_MAX_CHANCE) {
 							isQuestAutoOn = 1;
-							main_log("Questmaster transformation sales is Enabled");
+							main_log("Quest master transformation sales is Enabled");
 						}	/* end if */
 					}	/* end if */
 				}
@@ -976,7 +976,7 @@ int co1200_game_loop(int mother_descs[])
 
 					//disables QM transformation sales
 						if (isQuestAutoOn == 1) {
-						main_log("Questmaster transformation sales is Disabled");
+						main_log("Quest master transformation sales is Disabled");
 						main_log("Rush Finished");
 						isQuestAutoOn = 0;
 					} //end if
@@ -1222,7 +1222,7 @@ size_t vwrite_to_output(struct descriptor_data * t, const char *color, const cha
 		wantsize = size = parse_colors(txt, sizeof(txt), t->character, color);
 	if (size < 0 || wantsize > sizeof(txt)) {
 		size = sizeof(txt) - 1;
-		strcpy(txt + size - strlen("Sorry, overflow occured!\r\n"), "Sorry, overflow occured!\r\n");
+		strcpy(txt + size - strlen("Sorry, overflow occurred!\r\n"), "Sorry, overflow occurreds!\r\n");
 	}
 
 	/*
@@ -2074,7 +2074,7 @@ void send_to_char(char *message, struct char_data * ch)
 
 	/* IF THERE ISN'T A MESSAGE - ITS BAD!!! */
 	if (!(message) || !(*message)) {
-		sprintf(buf, "ERROR: Got a zerolength message string. gv_str=%s",
+		sprintf(buf, "ERROR: Got a zero-length message string. gv_str=%s",
 			gv_str);
 		main_log(buf);
 		main_log(gv_str);
