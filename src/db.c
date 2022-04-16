@@ -3361,6 +3361,7 @@ void db5600_reset_zone(int zone)
 
 		if (lv_do_next_command == TRUE)
 			switch (lv_command) {
+			case '*':   /* disabled command */
 			case 'm':	/* disabled command */
 			case 'o':	/* disabled command */
 			case 'p':	/* disabled command */
@@ -3469,7 +3470,7 @@ void db5600_reset_zone(int zone)
 					sprintf(buf, "Undefd cmd in reset table; zone %s cmd %d.\n\r",
 					   zone_table[zone].filename, cmd_no);
 					perror(buf);
-					ABORT_PROGRAM();
+					lv_command = '*';
 					break;
 				}
 			}
