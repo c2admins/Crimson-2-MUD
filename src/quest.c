@@ -1198,6 +1198,7 @@ void qu1200_make_quest(struct char_data * ch)
 	       (vict->specials.fighting) ||
 	       (!vict->in_room) ||
 	       (IS_SET(GET_ROOM1(vict->in_room), RM1_NOMKILL)) ||
+		   (IS_SET(GET_ROOM2(vict->in_room), RM2_NO_DONATE)) ||
 	       (IS_AFFECTED(vict, AFF_CHARM)) ||
 	       (IS_SET(GET_ACT2(vict), PLR2_JUNKS_EQ)) ||
 	       (world[vict->in_room].min_level > GET_LEVEL(ch)) ||
