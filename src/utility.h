@@ -179,12 +179,7 @@
 }
 
 
-#define CHECK_LEVEL(min_lev)  if (GET_LEVEL(ch) < (min_lev)) {\
-	bzero(buf, sizeof(buf));\
-		sprintf(buf, "You must be level %d to perform this command.\r\n", min_lev);\
-			send_to_char(buf, ch);\
-				return;\
-}
+#define CHECK_LEVEL(min_lev)  if (GET_LEVEL(ch) < (min_lev)) {bzero(buf, sizeof(buf)); sprintf(buf, "You must be level %d to perform this command.\r\n", min_lev);send_to_char(buf, ch);return;}
 
 /* eventually declare all std function types via macros */
 #define SPELL_FN(spell) extern void spell(sbyte level, struct char_data *ch, struct char_data *victim, struct obj_data *obj)
@@ -227,9 +222,7 @@
 			}while(0)
 #endif
 
-#define RECREATE(result,type,number) do {\
-				if (!((result) = (type *) realloc ((result), sizeof(type) * (number))))\
-				{ perror("realloc failure"); abort(); } } while(0)
+#define RECREATE(result,type,number) do {if (!((result) = (type *) realloc ((result), sizeof(type) * (number)))) { perror("realloc failure"); abort(); } } while(0)
 
 #define IS_SET(flag,bit)  ((flag) & (bit))
 
@@ -248,9 +241,7 @@
 #define IS_ELDRITCH(ch) (classes[ch->player->class].flag, CFLAG_CLASS_ELDRITCH);
 #define IS_MONK(ch) (classes[ch->player->class].flag, CFLAG_CLASS_MONK);
 
-#define SWITCH(a,b) { (a) ^= (b); \
-	(b) ^= (a); \
-		(a) ^= (b); }
+#define SWITCH(a,b) { (a) ^= (b); (b) ^= (a); (a) ^= (b); }
 
 #define USES_ANSI(ch) ( IS_SET(GET_ACT3(ch), PLR3_ANSI) )
 
@@ -271,8 +262,7 @@
 #define CAN_SEE_OBJ(sub, obj) (li1100_can_see_obj(sub, obj, 0))
 #define CAN_SEE_OBJ_NOLOCATE(sub, obj) (li1100_can_see_obj(sub, obj, BIT0))
 
-#define GET_REQ(i) (i<2  ? "Awful" :(i<4  ? "Bad"     :(i<7  ? "Poor"      :\
-																												(i<10 ? "Average" :(i<14 ? "Fair"    :(i<20 ? "Good"    :(i<24 ? "Very good" :\
+#define GET_REQ(i) (i<2  ? "Awful" :(i<4  ? "Bad"     :(i<7  ? "Poor"      :(i<10 ? "Average" :(i<14 ? "Fair"    :(i<20 ? "Good"    :(i<24 ? "Very good" :\
 																																																									"Superb" )))))))
 
 #define HSHR(ch) ((ch)->player.sex ?    /* $s HISHER */      \
@@ -439,20 +429,15 @@
 #define GET_ROOM1(room) (world[(room)].room_flags)
 #define GET_ROOM2(room) (world[(room)].room_flags2)
 
-#define CAN_CARRY_W(ch) ( \
-													((GET_STR(ch)+GET_BONUS_STR(ch)) * 10)  + (MAXV(0, (GET_STR(ch)+GET_BONUS_STR(ch)) - 14) * 60))
+#define CAN_CARRY_W(ch) (((GET_STR(ch)+GET_BONUS_STR(ch)) * 10)  + (MAXV(0, (GET_STR(ch)+GET_BONUS_STR(ch)) - 14) * 60))
 
 #define CAN_CARRY_N(ch) (5+GET_DEX(ch)/2+GET_LEVEL(ch)/2)
 #define IS_CARRYING_W(ch) ((ch)->specials.carry_weight)
 #define IS_CARRYING_N(ch) ((ch)->specials.carry_items)
 
-#define CAN_CARRY_OBJ(ch,obj)  \
-(((IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj)) <= CAN_CARRY_W(ch)) &&   \
- ((IS_CARRYING_N(ch) + 1) <= CAN_CARRY_N(ch)))
+#define CAN_CARRY_OBJ(ch,obj)	(((IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj)) <= CAN_CARRY_W(ch)) && ((IS_CARRYING_N(ch) + 1) <= CAN_CARRY_N(ch)))
 
-#define CAN_GET_OBJ(ch, obj)   \
-(CAN_WEAR((obj), ITEM_TAKE) && CAN_CARRY_OBJ((ch),(obj)) &&          \
- CAN_SEE_OBJ((ch),(obj)))
+#define CAN_GET_OBJ(ch, obj)   (CAN_WEAR((obj), ITEM_TAKE) && CAN_CARRY_OBJ((ch),(obj)) && CAN_SEE_OBJ((ch),(obj)))
 
 #define IS_OBJ_STAT(obj,stat) (IS_SET((obj)->obj_flags.flags1,stat))
 #define IS_OBJ_STAT2(obj,stat) (IS_SET((obj)->obj_flags.flags2,stat))
@@ -462,21 +447,16 @@
 #define SCRAM1 crypt
 #define SCRAM2 scramble
 /* char name/short_desc(for mobs) or someone?  */
-#define PERS(ch, vict)   (                                          \
-																																		CAN_SEE(vict, ch) ?                                                     \
-																																		(!IS_NPC(ch) ? (ch)->player.name : (ch)->player.short_descr) :  \
-																																		"someone")
+#define PERS(ch, vict)   ( \CAN_SEE(vict, ch) ? (!IS_NPC(ch) ? (ch)->player.name : (ch)->player.short_descr) : "someone")
 
-#define OBJS(obj, vict) (CAN_SEE_OBJ((vict), (obj)) ? \
-												 (obj)->short_description  : "something")
+#define OBJS(obj, vict) (CAN_SEE_OBJ((vict), (obj)) ? (obj)->short_description  : "something")
 
 #define GET_TIMER(obj) ((obj)->obj_flags.timer - 1)
 /* Only use this one for incrementing/decrementing, also, add 1 to it if your setting it:
 TIMER(obj) = my_value + 1 */
 #define TIMER(obj) ((obj)->obj_flags.timer)
 
-#define OBJN(obj, vict) (CAN_SEE_OBJ((vict), (obj)) ? \
-												 ha1100_fname((obj)->name) : "something")
+#define OBJN(obj, vict) (CAN_SEE_OBJ((vict), (obj)) ? ha1100_fname((obj)->name) : "something")
 
 //Utilities added by Odin 2 / 01 / 01
 #define GET_OBJ_VNUM(obj) (((obj)->item_number >= 0) ? obj_index[(obj)->item_number].virtual : 0)
@@ -484,8 +464,7 @@ TIMER(obj) = my_value + 1 */
 
 #define OUTSIDE(ch) (!IS_SET(world[(ch)->in_room].room_flags,RM1_INDOORS))
 #define EXIT(ch, door)  (door <6 ? world[(ch)->in_room].dir_option[door] : NULL)
-#define CAN_GO(ch, door) ((ch->in_room != NOWHERE) && EXIT(ch,door)  &&  (EXIT(ch,door)->to_room != NOWHERE) \
-                          && !IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
+#define CAN_GO(ch, door) ((ch->in_room != NOWHERE) && EXIT(ch,door)  &&  (EXIT(ch,door)->to_room != NOWHERE) && !IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
 
 #define GET_ALIGNMENT(ch) ((ch)->specials.alignment)
 #define GET_CARRY_WEIGHT(ch) ((ch)->specials.carry_weight)
