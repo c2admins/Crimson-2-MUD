@@ -6,4 +6,4 @@
 
 # Frank Fleschner, 2007
 
-nohup ./.autorundev.sh &
+nohup ./autorundev.sh &
