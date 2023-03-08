@@ -6,4 +6,4 @@
 
 # Frank Fleschner, 2007
 
-nohup ./.autoruntest.sh &
+nohup ./autoruntest.sh &
