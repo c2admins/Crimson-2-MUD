@@ -447,7 +447,7 @@
 #define SCRAM1 crypt
 #define SCRAM2 scramble
 /* char name/short_desc(for mobs) or someone?  */
-#define PERS(ch, vict)   ( \CAN_SEE(vict, ch) ? (!IS_NPC(ch) ? (ch)->player.name : (ch)->player.short_descr) : "someone")
+#define PERS(ch, vict)   ( CAN_SEE(vict, ch) ? (!IS_NPC(ch) ? (ch)->player.name : (ch)->player.short_descr) : "someone")
 
 #define OBJS(obj, vict) (CAN_SEE_OBJ((vict), (obj)) ? (obj)->short_description  : "something")
 
