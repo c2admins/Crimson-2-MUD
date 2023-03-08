@@ -10,3 +10,5 @@ test/bin/crimsond
 controlscripts/.devlockfile
 controlscripts/.prodlockfile
 controlscripts/.testlockfile
+*/lib/players
+*/logs/*
