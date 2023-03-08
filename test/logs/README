@@ -1,6 +1,0 @@
-I've moved the old syslog, and trace backup file to the dir old_logs/very_old/
-
-My goal is that only logs from the last 7 days are stored here, if you want some logs to be stored longer
-move them to old_logs/ or enter them in log_save_list to get it done automaticly once a week from a crontab job
-
-
