@@ -1,1 +1,9 @@
-
+*.o
+src/depend
+src/rebuild/depend
+src/crimsond
+src/repversion.h
+dev/bin/crimsond
+prod/bin/crimsond
+hell/bin/crimsond
+test/bin/crimsond
