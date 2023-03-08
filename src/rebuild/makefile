@@ -53,6 +53,6 @@ all:
 
 depend:
 	echo "#define C2_REBUILDPLR \"100\"" > $(VERSIONHEADER)
-	$(CC) -MM *.c /home/ubuntu/c2/src/*.c > depend
+	$(CC) -MM *.c ~/c2/src/*.c > depend
 
 -include depend
