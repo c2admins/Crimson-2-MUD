@@ -78,7 +78,10 @@ int local_get(struct char_data * ch, struct obj_data * obj_object,
 	if (sub_object) {
 		sprintf(buffer, "(obj) do_get %s - %s (%d) from %s", GET_REAL_NAME(ch), OBJS(obj_object, ch), GET_OBJ_VNUM(obj_object), OBJS(sub_object, ch));
 		main_log(buffer);
+		// Hide White potions from log files
+		if (GET_OBJ_VNUM(obj_object) != 3465){
 		spec_log(buffer, EQUIPMENT_LOG);
+		}
 
 		ha2400_obj_from_obj(obj_object);
 		ha1700_obj_to_char(obj_object, ch);
@@ -103,8 +106,11 @@ int local_get(struct char_data * ch, struct obj_data * obj_object,
 	}
 	else {
 		sprintf(buffer, "(obj) do_get %s - %s from floor ROOM: %d", GET_REAL_NAME(ch), OBJS(obj_object, ch), world[ch->in_room].number);
+		// Hide White potions from log files
+		if (GET_OBJ_VNUM(obj_object) != 3465){
 		main_log(buffer);
 		spec_log(buffer, EQUIPMENT_LOG);
+		}
 		ha2200_obj_from_room(obj_object);
 		ha1700_obj_to_char(obj_object, ch);
 		if (IS_SET(display_text, BIT0)) {
@@ -761,6 +767,9 @@ void do_donate(struct char_data * ch, char *argument, int cmd)
 		}
 		lv_donate_room = location;
 	}
+	if (cmd == CMD_QUEST_DONATE) {
+		lv_donate_room = gv_qeq_donate_room;
+	}
 	else
 		lv_donate_room = gv_donate_room;
 
@@ -1033,8 +1042,11 @@ void do_drop(struct char_data * ch, char *argument, int cmd)
 			     !IS_SET(tmp_object->obj_flags.flags1, OBJ1_PERSONAL))) {
 				sprintf(buffer, "(obj) do_drop %s - %s ROOM: %d", GET_REAL_NAME(ch), OBJS(tmp_object, ch),
 					world[ch->in_room].number);
+				// Hide White potions from log files
+				if (GET_OBJ_VNUM(tmp_object) != 3465){
 				main_log(buffer);
 				spec_log(buffer, EQUIPMENT_LOG);
+				}
 				if ((CAN_SEE_OBJ(ch, tmp_object))) {
 					sprintf(buffer, "You drop %s.\n\r", OBJS(tmp_object, ch));
 					send_to_char(buffer, ch);
@@ -1103,8 +1115,11 @@ void do_drop(struct char_data * ch, char *argument, int cmd)
 		/* DROP THE ITEM */
 		sprintf(buffer, "(obj) do_drop %s - %s ROOM: %d", GET_REAL_NAME(ch),
 			OBJS(tmp_object, ch), world[ch->in_room].number);
+		// Hide White potions from log files
+		if (GET_OBJ_VNUM(tmp_object) != 3465){
 		main_log(buffer);
 		spec_log(buffer, EQUIPMENT_LOG);
+		}
 
 		ha1800_obj_from_char(tmp_object);
 		ha2100_obj_to_room(tmp_object, ch->in_room);
@@ -1271,8 +1286,11 @@ void do_put(struct char_data * ch, char *argument, int cmd)
 			 * put quest items in containers (for now).\n\r", ch);
 			 * return; } */
 			sprintf(buffer, "(obj) do_put %s - %s in %s", GET_REAL_NAME(ch), OBJS(obj_object, ch), OBJS(sub_object, ch));
+			// Hide White potions from log files
+			if (GET_OBJ_VNUM(obj_object) != 3465){
 			main_log(buffer);
 			spec_log(buffer, EQUIPMENT_LOG);
+			}
 
 			ha1800_obj_from_char(obj_object);
 			/* make up for above line */
@@ -1281,8 +1299,11 @@ void do_put(struct char_data * ch, char *argument, int cmd)
 		}
 		else {
 			sprintf(buffer, "(obj) do_put %s - %s in %s", GET_REAL_NAME(ch), OBJS(obj_object, ch), OBJS(sub_object, ch));
+			// Hide White potions from log files
+			if (GET_OBJ_VNUM(obj_object) != 3465){
 			main_log(buffer);
 			spec_log(buffer, EQUIPMENT_LOG);
+			}
 			ha1800_obj_from_char(obj_object);
 			/* Do we need ha2200_obj_from_room???(sub_object,....); */
 			ha2300_obj_to_obj(obj_object, sub_object);
@@ -1589,8 +1610,11 @@ void do_give(struct char_data * ch, char *argument, int cmd)
 	}
 
 	sprintf(buf, "(obj) do_give: %s - %s to %s", GET_REAL_NAME(ch), OBJS(obj, ch), GET_REAL_NAME(vict));
+	// Hide White potions from log files
+	if (GET_OBJ_VNUM(obj) != 3465){
 	main_log(buf);
 	spec_log(buf, EQUIPMENT_LOG);
+	}
 
 	ha1800_obj_from_char(obj);
 	ha1700_obj_to_char(obj, vict);

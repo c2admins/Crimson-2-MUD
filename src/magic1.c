@@ -893,6 +893,13 @@ void spell_elsewhere(sbyte level, struct char_data * chr,
 	}
 
 	if (IS_NPC(ch) &&
+	    IS_SET(world[ch->in_room].room_flags, RM1_NO_MOB)) {
+		send_to_char("&RYou aren't supposed to be here!&n\n\rCasting elsewhere again to leave No_MOB room.\n\r", ch);
+		spell_elsewhere(48, ch, ch, 0);
+		return;
+	}
+
+	if (IS_NPC(ch) &&
 	    IS_SET(world[ch->in_room].room_flags, RM1_DEATH)) {
 		send_to_char("&RNo no no stay out of here!&n\n\rCasting elsewhere again to leave dt fast.\n\r", ch);
 		spell_elsewhere(48, ch, ch, 0);

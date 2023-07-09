@@ -132,6 +132,7 @@ struct board_info_type board_info[NUM_OF_BOARDS] = {
 	,{21017, 0, 0, 30, "boards/board.clan20", 0}
 	,{8302, 0, 0, IMO_IMP, "boards/board.rogerwaters", 0}
 	,{8371, IMO_IMM, IMO_IMM, IMO_IMM, "boards/board.zonecouncil", 0}
+	,{3468, 0, 0, 0, "boards/board.qeqdonate", 0}
 };
 
 

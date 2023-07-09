@@ -80,12 +80,12 @@ slash~
 0 1 6 3
 3 60 20
 E
-inscription~
-It says : May this sword be a good companion.
-~
-E
 sword small~
 The small sword seems to have an inscription of some sort.
+~
+E
+inscription~
+It says : May this sword be a good companion.
 ~
 #3022
 obj sword long crap~
@@ -1013,9 +1013,9 @@ A cart, pulled by dozens of tiny snotlings is standing here.~
 10 10 10 20
 1 5 0
 E
-cart~
-The cart is a rickety old wooden cart, pulled by dozens of tiny snotlings
-strapped into the harness.
+arrival~
+A wooden cart, pulled by dozens of panting snotlings rolls in.
+A gruff goblin's voice yells "All aboard!".
 ~
 E
 interior~
@@ -1023,9 +1023,9 @@ You are sitting on a rickety wooden cart, pulled by dozens of tiny snotlings
 tied to the harness.
 ~
 E
-arrival~
-A wooden cart, pulled by dozens of panting snotlings rolls in.
-A gruff goblin's voice yells "All aboard!".
+cart~
+The cart is a rickety old wooden cart, pulled by dozens of tiny snotlings
+strapped into the harness.
 ~
 #3434
 obj limo~
@@ -1045,6 +1045,34 @@ A newbie has left their guidebook here.~
 13 8 0 16385
 0 0 10 0
 1 5 5
+E
+book index~
+You are looking at a fairly hefty book.  There is a message on it's cover:
+ 
+        This book is written to help newcomers to the mud to settle
+        in as fast as possible.  In it is hopefully everything you
+                        need to get started smoothly.
+                Note this book can be EATEN in emergencies.
+ 
+Type 'read <page>' to read the book.  Pages names are in upper case letters.
+ 
+MAP map of midgaard.
+WALKING around the game.
+FIGHTING
+RESTING
+SUSTENANCE eating and drinking.
+EQ your equipment and how to use it.
+SPELLS using your spells and skills.
+COMM communicating with other people.
+STATS stats, what they are, how to see them.
+PRAC gaining new spells and skills.
+BANK keeping your money safe.
+SHOPS how to buy and sell things in the shops.
+RENT how to store your equipment between playing sessions.
+DONATION
+ABBREVIATIONS a fairly handy feature of the mud.
+HELP how to use online mud help.
+~
 E
 map 1~
         ******************Ye Map of Midgaard*******************
@@ -1078,34 +1106,6 @@ map 1~
         V                         DUMP
      SOUTHERN
      MIDGAARD
-~
-E
-book index~
-You are looking at a fairly hefty book.  There is a message on it's cover:
- 
-        This book is written to help newcomers to the mud to settle
-        in as fast as possible.  In it is hopefully everything you
-                        need to get started smoothly.
-                Note this book can be EATEN in emergencies.
- 
-Type 'read <page>' to read the book.  Pages names are in upper case letters.
- 
-MAP map of midgaard.
-WALKING around the game.
-FIGHTING
-RESTING
-SUSTENANCE eating and drinking.
-EQ your equipment and how to use it.
-SPELLS using your spells and skills.
-COMM communicating with other people.
-STATS stats, what they are, how to see them.
-PRAC gaining new spells and skills.
-BANK keeping your money safe.
-SHOPS how to buy and sell things in the shops.
-RENT how to store your equipment between playing sessions.
-DONATION
-ABBREVIATIONS a fairly handy feature of the mud.
-HELP how to use online mud help.
 ~
 #3436
 obj board bulletin tree~
@@ -1422,5 +1422,14 @@ A box with the finest red roses lies here.~
 12 0 0 16385
 0 0 10 0
 1 5 5
+#3468
+obj board qeq donation~
+1
+A torch~
+A large post is standing here with a board attached to it.~
+~
+13 8 0 0
+0 0 0 0
+1000 0 0
 $~
 #999999

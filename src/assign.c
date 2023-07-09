@@ -215,6 +215,7 @@ void as1100_assign_objects(void)
 	ASSIGN_OBJ(OBJ_BOARD_CODER, board);
 	ASSIGN_OBJ(OBJ_BOARD_ZONECOUNCIL, board);
 	ASSIGN_OBJ(OBJ_BOARD_ROGERWATERS, board);
+	ASSIGN_OBJ(OBJ_BOARD_QEQDONATE, board);
 
 	ASSIGN_OBJ(3459, sp2200_clan_teleporter_button);
 

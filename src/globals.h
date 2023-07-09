@@ -52,6 +52,7 @@ char gv_master_pwd[80];
 int gv_way_player_left_game;
 int gv_mob_donate_room;
 int gv_donate_room;
+int gv_qeq_donate_room;
 int gv_force_infinate_loop;
 time_t gv_infinate_loop_count;
 int gv_terminate;
@@ -173,6 +174,7 @@ int gv_move_succeeded;
 #define OBJ_BOARD_HELLNIGHT           3074
 #define OBJ_BOARD_ZONECOUNCIL         8371
 #define OBJ_BOARD_ROGERWATERS         8302
+#define OBJ_BOARD_QEQDONATE			  3468
 
 
 #define OBJ_CLAN_BOARD2    415

@@ -534,3 +534,4 @@ extern struct command_info cmd_info[];
 #define CMD_CLAN_DONATE  1000
 #define CMD_COUNTER      1001
 #define CMD_CANCEL_DEAD  1002
+#define CMD_QUEST_DONATE 1003

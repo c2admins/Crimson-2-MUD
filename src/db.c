@@ -230,7 +230,8 @@ void db1000_boot_db(void)
 	db4700_boot_zones();
 	fprintf(stderr, " rooms,");
 	gv_donate_room = 0;	/* DEFAULT DONATION ROOM TO VOID */
-	gv_mob_donate_room = 0;
+	gv_mob_donate_room = 0; /* MOB DONATION ROOM */
+	gv_qeq_donate_room = 0;/* QUEST EQUIPMENT DONATION ROOM */
 	db4300_boot_world();
 	fprintf(stderr, " player_index,");
 	db3000_build_player_index();
@@ -1292,12 +1293,16 @@ void db4300_boot_world(void)
 			world[room_nr].number = virtual_nr;
 			world[room_nr].name = temp;
 
-			/* WE NEED TO LOCATE THE DONATE ROOM */
+			/* WE NEED TO LOCATE THE DONATE ROOMS */
 			if (strncmp(temp, "The Midgaard Donation Room", 25) == 0)
-				gv_donate_room = room_nr;
+				gv_donate_room = room_nr; //Normal Donation Room
 
+			if (strncmp(temp, "Quest Equipment Donation Room", 31) == 0)
+				gv_qeq_donate_room = room_nr; //Quest Donation Room
+			
 			if (virtual_nr == 13)
-				gv_mob_donate_room = room_nr;
+				gv_mob_donate_room = room_nr; //Mob Donation Room
+			
 
 			world[room_nr].description = db7000_fread_string(fl);
 			if (world[room_nr].description == 0) {

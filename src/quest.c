@@ -379,7 +379,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 	char buf[MAX_STRING_LENGTH], arg1[MAX_INPUT_LENGTH], arg2[MAX_INPUT_LENGTH],
 	  arg3[MAX_INPUT_LENGTH];
 	struct obj_data *obj, *obj_next;
-	int lv_choice, lv_reward, lv_qp, lv_buyitem, exp_modifier = 1;
+	int lv_choice, lv_reward, lv_qp, lv_buyitem, lv_donate_room, exp_modifier = 1;
 	bool obj_found;
 	const char *lv_quest_cmds[] = {
 		"points",	/* 1 */
@@ -392,6 +392,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		"refuse",	/* 8 */
 		"extend",	/* 9 */
 		"transformations",	/* 10 */
+		"donate", /* 11 */
 		"\n",
 	};
 
@@ -452,6 +453,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 #define QUEST_REFUSE		8
 #define QUEST_EXTEND		9
 #define QUEST_TRANSFORM		10
+#define QUEST_DONATE		11
 
 	for (; isspace(*arg); arg++);
 	arg = one_argument(arg, arg1);
@@ -466,7 +468,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 
 	/* Check for wrong option */
 	if (lv_choice < 1) {
-		send_to_char("Quest commands: Points, Info, Time, Request, Complete, List, Extend, Buy, Refuse.\r\n", ch);
+		send_to_char("Quest commands: Points, Info, Time, Request, Complete, List, Extend, Buy, Refuse, Transform.\r\n", ch);
 		return;
 	}
 
@@ -1099,6 +1101,23 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 		do_whisper(questman, buf, CMD_WHISPER);
 		qu1400_clear_quest(ch);
 		ch->nextquest = time(0) + 5 * 60;
+		break;
+		
+	case QUEST_DONATE:
+	
+		if (!*arg2) {
+			do_say(questman, "Which object?", CMD_SAY);
+			return;
+		}
+
+	/*	obj = ha2075_get_obj_list_vis(ch, arg2, ch->carrying);
+		if (!obj) {
+			send_to_char("Sorry, you don't have anything like that!\r\n", ch);
+			return;
+		}
+		*/
+		do_donate(ch, arg2, CMD_QUEST_DONATE); /* Testing this.*/
+		
 		break;
 
 	case QUEST_EXTEND:
