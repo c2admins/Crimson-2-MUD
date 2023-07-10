@@ -12,7 +12,7 @@ controlscripts/.prodlockfile
 controlscripts/.testlockfile
 */lib/players
 */logs/*
-*/lib/rentfiles/*
+*/lib/rentfiles/
 */lib/areas.bak/*
 */lib/areas/automated_port_backups/*
 controlscripts/mudrunning.tx*
