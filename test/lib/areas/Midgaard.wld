@@ -5,7 +5,7 @@ dress here.  There is an exit down to the reception of the Midgaard Inn
 where you can rent a comfortable private room when you leave the game later.
 There is a huge sign on the wall with a "YOU ARE HERE" arrow.
 ~
-27 1114116 0 1 99 0
+27 65540 0 1 99 0
 D4
 The Grind
 ~
@@ -46,7 +46,7 @@ Large steps lead down through the grand temple gate, descending the huge
 mound upon which the temple is built and ends on the temple square below.
 The open air temple leads through to the street on the northern side.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D0
 At the northern end of the temple hall is a statue and a huge altar.
 ~
@@ -92,7 +92,7 @@ the wall, just above the altar which is set against the western wall.  A well
 in the middle of the floor leads down into darkness.  Vile smells waft from
 the depths.
 ~
-27 1114124 0 1 99 0
+27 65548 0 1 99 0
 D1
 your favorite place, the bar of divination.
 ~
@@ -104,7 +104,7 @@ Cleric's Bar~
    The bar is one of the finest in the land, lucky it is members only.  Fine
 furniture is set all around the room.  A small sign is hanging on the wall.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D2
 the entrance.
 ~
@@ -130,7 +130,7 @@ Entrance to Cleric's Guild~
 the Clerics.  The exit leads east to the temple square.  A small entrance to
 the bar is in the northern wall.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D0
 the bar, richly decorated with really stylish furniture.
 ~
@@ -149,7 +149,7 @@ temple gate.  The entrance to the Clerics Guild is to the west, and the old
 Grunting Boar Inn, is to the east.  Just south of here you see the market
 square, the center of Midgaard.
 ~
-27 1048588 0 1 99 1
+27 12 0 1 99 1
 D0
 the temple.
 ~
@@ -182,7 +182,7 @@ Entrance to the Grunting Boar Inn~
 has been wisely decorated with simple but functional furniture.  A small
 staircase leads up to the reception and the bar is to the east.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D1
 Surprise! You see the bar.
 ~
@@ -207,7 +207,7 @@ the western wall, and through the southeastern windows you can see the temple
 square.  This place makes you feel like home.
 A small sign with big letters is fastened to the bar.
 ~
-27 1114124 0 1 99 0
+27 65548 0 1 99 0
 D3
 the exit to the entrance hall.
 ~
@@ -238,7 +238,7 @@ The Reception~
 entrance hall and up to the dressing room. There is a small sign on the
 counter.
 ~
-27 1074823172 0 1 99 0
+27 1073774596 0 1 99 0
 D0
 To the North you see &RThe &BRoyal &WAcademy &Gof &CMidgaard.&n
 ~
@@ -265,7 +265,7 @@ fine bread fills the room.  The bread and Danish are arranged in fine order
 on the shelves, and seem to be of the finest quality.
 A small sign is on the counter.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D2
 the main street.
 ~
@@ -294,7 +294,7 @@ The General Store~
 behind the counter, safely out of your reach.
 A small note hangs on the wall.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D2
 the main street.
 ~
@@ -314,7 +314,7 @@ S
 The Weapon Shop~
    You are inside the weapon shop.  There is a small note on the counter.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D2
 the main street.
 ~
@@ -337,7 +337,7 @@ entrance to the Guild of Magic Users.  The street continues east towards the
 market square.  The magic shop is to the north and to the west is the city
 gate.
 ~
-27 1048576 8192 1 99 1
+27 0 8192 1 99 1
 D0
 the magic shop.
 ~
@@ -365,7 +365,7 @@ Main Street~
 here is the entrance to the Armoury, and the bakery is to the north.  East of
 here is the market square.
 ~
-27 1048576 8192 1 99 1
+27 0 8192 1 99 1
 D0
 the bakery.
 ~
@@ -394,7 +394,7 @@ A large, peculiar looking statue is standing in the middle of the square.
 Roads lead in every direction, north to the temple square, south to the
 common square, east and westbound is the main street.
 ~
-27 1048576 73728 1 99 1
+27 0 73728 1 99 1
 D0
 the temple square.
 ~
@@ -436,7 +436,7 @@ The Main Street~
 general store, and the main street continues east.  To the west you see and
 hear the market place, to the south a small door leads into the Pet Shop.
 ~
-27 1048576 8192 1 99 1
+27 0 8192 1 99 1
 D0
 the general store.
 ~
@@ -464,7 +464,7 @@ The Main Street~
 Guild of Swordsmen.  To the east you leave town and to the west the street
 leads to the market square.
 ~
-27 1048576 8192 1 99 1
+27 0 8192 1 99 1
 D0
 the weapon shop.
 ~
@@ -490,7 +490,7 @@ S
 Entrance to Mage's Guild~
    The entrance hall is a small, poor lighted room.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D0
 the main street.
 ~
@@ -507,7 +507,7 @@ Mage's Bar~
    The bar is one of the wierdest in the land.  Mystical images float around
 the air.  Illusions of fine furniture appear all around the room.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D0
 the lobby.
 ~
@@ -529,7 +529,7 @@ partially cleaned, some painful-looking letters faintly visible.  A well in
 the middle of the floor leads down into darkness.  Vile smells waft from the
 depths.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D3
 the bar.
 ~
@@ -542,7 +542,7 @@ The Armoury~
 see helmets, shields and chain mails.  To the north is the main street.
 On the wall is a small note.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D0
 the main street.
 ~
@@ -565,7 +565,7 @@ Entrance Hall to the Guild of Swordsmen~
 careful not to say something wrong (or right).  To the east is the bar and to
 the north is the main street.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D0
 the main street.
 ~
@@ -583,7 +583,7 @@ The Bar of Swordsmen~
 furniture is all around you in small pieces.  To the south is the yard, and
 to the west is the entrance hall.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D2
 the practise yard.
 ~
@@ -600,7 +600,7 @@ The Tournament and Practice Yard~
 The practice yard of the fighters. To the north is the bar. A well leads down
 into darkness.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D0
 the bar.
 ~
@@ -612,7 +612,7 @@ Eastern End of Poor Alley~
    You are standing at the eastern end of the poor alley.  South of here is the
 Grubby Inn, and to the east you can see the common square.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 the common square.
 ~
@@ -635,7 +635,7 @@ The Common Square~
 the poor alley and to the east is the dark alley.  To the north, this square
 is connected to the market square.  From the south you notice a nasty smell.
 ~
-27 1310728 0 1 99 1
+27 262152 0 1 99 1
 D0
 the market square.
 ~
@@ -667,7 +667,7 @@ The Dark Alley~
    You are in a dark alley.  To the west is the common square and to the 
 south is the Guild of Thieves.  The alley runs east and west.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 The alley continues east.
 ~
@@ -694,7 +694,7 @@ Entrance Hall to the Guild of Thieves~
 can lose both your life and your money, if you are not careful.  To the north
 is the dark alley and to the east is the thieves' bar.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D0
 the alley.
 ~
@@ -713,7 +713,7 @@ furnished, but now it seems almost empty.  To the south is the yard, and to
 the west is the entrance hall.
    (Maybe the furniture has been stolen?!)
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D2
 the secret yard.
 ~
@@ -734,7 +734,7 @@ The Secret Yard~
 The secret practice yard of thieves and assassins. To the north is the bar. A
 well leads down into darkness.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D0
 the bar.
 ~
@@ -748,7 +748,7 @@ garbage you can see a large junction of pipes, looks like the entrance to the
 sewer system.  South of here you see the river and to the north is the common
 square.
 ~
-27 1081348 0 1 99 2
+27 32772 0 1 99 2
 D0
 the common square.
 ~
@@ -765,7 +765,7 @@ The Pet Shop~
    The Pet Shop is a small crowded store, full of cages and animals of
 various sizes.  There is a sign on the wall.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D0
 the main street.
 ~
@@ -798,7 +798,7 @@ The Magic Shop~
    Behind the counter you see various items, neatly placed in racks,
 presumably most of them are magic.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D2
 the main street.
 ~
@@ -810,7 +810,7 @@ East Road.~
    You are walking next to the eastern city wall.  The road continues further
 south and the city gate is just north of here.
 ~
-27 1048576 0 1 99 0
+27 0 0 1 99 0
 D0
 nothing special.
 ~
@@ -828,7 +828,7 @@ You are standing at the base of a small hill. The edge of the Forest of
 Haon-Dor is to your north, and a small rugged path leads up the hill and over
 the crest, out of sight.
 ~
-27 1048576 0 1 99 4
+27 0 0 1 99 4
 D0
 The trail leads into the forest.
 ~
@@ -852,7 +852,7 @@ here under which many poets have probably drawn their imspiration.
 You can see along the tops of the Haon-Dorian forest to your north stretching
 away for miles, and you can see a large river blocks the way south.
 ~
-27 1048576 0 1 99 4
+27 0 0 1 99 4
 D5
 A rugged path leads down to the base if the hill.
 ~
@@ -865,7 +865,7 @@ The river here flows smoothly through a large limestone cave. The sounds of
 rushing water echo of the walls and the current of the river begins to feel
 stronger.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 The river dissapears into a tunnel.
 ~
@@ -883,7 +883,7 @@ The tunnel widens a little and you can feel yourself slowly descending.
 The current of the river increases slightly, and you can hear the rush of
 the water echoing from the darkness of the tunnel to the east.  A small waterway breaks off to the south.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 The tunnel continues.
 ~
@@ -906,7 +906,7 @@ The tunnel continues in the darkness.  West you can barely make out the white
 spot of the entrance, but east is only blackness.  The roar of the water
 flowing in the tunnel is very loud.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 The tunnel continues.
 ~
@@ -924,7 +924,7 @@ Inside the West Gate of Midgaard~
 connected with a footbridge across the heavy wooden gate.  Main Street leads
 east and Wall Road leads south from here.
 ~
-27 1048576 8192 1 99 1
+27 0 8192 1 99 1
 D0
 wall road continues north~
 ~
@@ -973,7 +973,7 @@ Inside the East Gate of Midgaard~
 connected with a footbridge across the heavy wooden gate. Main Street leads
 west from here into the centre of Midgaard, or east, out of the city.
 ~
-27 1048576 8192 1 99 1
+27 0 8192 1 99 1
 D1
 the city gate.
 ~
@@ -1016,7 +1016,7 @@ Wall Road~
    You are walking next to the western city wall.  The road continues further
 south and the city gate is just north of here.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 the city gate.
 ~
@@ -1039,7 +1039,7 @@ Wall Road~
 north and south.  A small, poor alley leads east.
 Some letters have been written on the wall here.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 The road continues further north.
 ~
@@ -1070,7 +1070,7 @@ Poor Alley~
    You are in the poor alley, which continues further east. You see the
 city wall to the west.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 The alley leads east.
 ~
@@ -1087,7 +1087,7 @@ Alley at Levee~
    You are standing in the alley which continues east and west.  South of
 here you see the levee.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 The alley leads east.
 ~
@@ -1110,7 +1110,7 @@ Eastern end of Alley~
 east, blocking any further movement.  A small warehouse is directly south of
 here.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 nothing special.
 ~
@@ -1132,7 +1132,7 @@ Wall Road~
    You are standing on the road next to the western city wall, which
 continues north.  South of here is a bridge across the river.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 the road.
 ~
@@ -1154,7 +1154,7 @@ Grubby Inn~
    You are inside the old Grubby Inn.  This place has not been cleaned for
 several decades, vile smells make you dizzy.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D0
 the alley.
 ~
@@ -1166,7 +1166,7 @@ Levee~
 You are at the levee, at the base of a short pier that leads out onto the
 River Karyna to the south.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 the Alley.
 ~
@@ -1183,7 +1183,7 @@ Warehouse~
    You are inside the warehouse.  The room is decorated with various old
 items from ships.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D0
 the Alley.
 ~
@@ -1196,7 +1196,7 @@ On the Bridge~
 built out from the western city wall and the river flows west through an
 opening in the wall ten feet below the bridge.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 the road.
 ~
@@ -1229,7 +1229,7 @@ connected with a footbridge across the heavy wooden gate.  To the west you
 can see the edge of a big forest. The road from the city forks north and
 south and a path leads into the forest.
 ~
-27 1048580 1024 1 99 1
+27 4 1024 1 99 1
 D0
 ~
 ~
@@ -1277,7 +1277,7 @@ connected with a footbridge across the heavy wooden gate. The road is well
 maintained, and leads either west into Midgaard, or east towards the 
 farmlands.
 ~
-27 1048580 8192 1 99 1
+27 4 8192 1 99 1
 D1
 the plains.~
 ~
@@ -1315,7 +1315,7 @@ South of here lies the Temple of Midgaard where all go for their devotions.
 To the north lie the northern gates of the city.  There is a large alter
 here, you feel that you should &Ppray&B here.&n
 ~
-27 1163272 0 1 99 0
+27 114696 0 1 99 0
 D0
 Inside the northern gates of Midgaard.
 ~
@@ -1353,7 +1353,7 @@ The tunnel is totally pitch black.  It stretchs away in both directions, for
 the short distance you can see.  The smell is of salt water, and you can hear
 only the deafening roar of the flowing water echoing in the tunnel.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 The tunnel continues.
 ~
@@ -1371,7 +1371,7 @@ The tunnel is totally pitch black.  It stretchs away in both directions, for
 the short distance you can see.  The smell is of salt water, and you can hear
 only the deafening roar of the flowing water echoing in the tunnel.
 ~
-27 1048576 4192 1 99 7
+27 0 4192 1 99 7
 D2
 The tunnel continues.
 ~
@@ -1389,7 +1389,7 @@ The tunnel is totally pitch black.  It stretchs away in both directions, for
 the short distance you can see.  The smell is of salt water, and you can hear
 only the deafening roar of the flowing water echoing in the tunnel.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D0
 The tunnel continues.
 ~
@@ -1408,7 +1408,7 @@ main rivers.  On either side the stone slabs are covered by a thick blanket of
 moss, which seems to extend somewhat across the surface of the water, away
 from the stone.  Long thick shoots of grass point out through the moss.
 ~
-27 1048576 1024 1 99 7
+27 0 1024 1 99 7
 D0
 The canal continues.
 ~
@@ -1427,7 +1427,7 @@ main rivers.  On either side the stone slabs are covered by a thick blanket of
 moss, which seems to extend somewhat across the surface of the water, away
 from the stone.  Long thick shoots of grass point out through the moss.
 ~
-27 1048576 1024 1 99 7
+27 0 1024 1 99 7
 D0
 The canal continues.
 ~
@@ -1446,7 +1446,7 @@ main rivers.  On either side the stone slabs are covered by a thick blanket of
 moss, which seems to extend somewhat across the surface of the water, away
 from the stone.  Long thick shoots of grass point out through the moss.
 ~
-27 1048576 1024 1 99 7
+27 0 1024 1 99 7
 D0
 The canal continues.
 ~
@@ -1465,7 +1465,7 @@ main rivers.  On either side the stone slabs are covered by a thick blanket of
 moss, which seems to extend somewhat across the surface of the water, away
 from the stone.  Long thick shoots of grass point out through the moss.
 ~
-27 1048576 1024 1 99 7
+27 0 1024 1 99 7
 D0
 The canal continues.
 ~
@@ -1484,7 +1484,7 @@ Yansu.  On either side, the cracked and worn stone blocks are covered with a
 blanket of rich moss that also floats out over the surface of the water,
 giving it an almost solid appearance.
 ~
-27 1048576 1024 1 99 7
+27 0 1024 1 99 7
 D0
 The canal continues.
 ~
@@ -1502,7 +1502,7 @@ You are floating on the large river, the Yansu.  It looks to be about 30 feet
 wide, and flows quite strongly eastward toward the city of Arnath which you
 can just about see through the thickage.  A thin canal leads away north.
 ~
-27 1048576 1056 1 99 7
+27 0 1056 1 99 7
 D0
 A canal leads away north.
 ~
@@ -1530,7 +1530,7 @@ You are floating on the legendary river, the Yansu. It is about 30 meters wide
 and nobody really knows how long it is. There have been many battles for
 control of this important river.
 ~
-27 1048576 8224 1 99 7
+27 0 8224 1 99 7
 D1
 The river continues.
 ~
@@ -1548,7 +1548,7 @@ You are floating on the legendary river, the Yansu. It is about 30 meters wide
 and nobody really knows how long it is. There have been many battles for
 control of this important river.
 ~
-27 1048576 32 1 99 7
+27 0 32 1 99 7
 D1
 The river continues.
 ~
@@ -1565,7 +1565,7 @@ Light forest.~
 You are in a forested area, walking along a well worn path leading away north
 and south through the trees.
 ~
-27 1048576 1024 1 99 3
+27 0 1024 1 99 3
 D0
 nothing special.
 ~
@@ -1582,7 +1582,7 @@ Light forest.~
 You are in a forested area, walking along a well worn path leading away north
 and south through the trees.
 ~
-27 1048576 1024 1 99 3
+27 0 1024 1 99 3
 D0
 nothing special.
 ~
@@ -1599,7 +1599,7 @@ Light forest.~
 You are in a forested area, walking along a well worn path leading away north
 and south through the trees.
 ~
-27 1048576 1024 1 99 3
+27 0 1024 1 99 3
 D0
 nothing special.
 ~
@@ -1621,7 +1621,7 @@ The Clan Portal~
 From here, all you have to do is push the button to be transported to
 your clan hall.
 ~
-27 1048588 0 1 99 0
+27 12 0 1 99 0
 D5
 To the common square
 ~
@@ -1635,7 +1635,7 @@ of Auctioneer Bob.  He presides over the room like a king in his palace.
 You are at his mercy as he glares at you, mallet in hand, wig in place, 
 and fastest tongue in Midgaard at his disposal!
 ~
-27 1163276 0 1 99 0
+27 114700 0 1 99 0
 D0
 To the main street.
 ~
@@ -1650,7 +1650,7 @@ down your spine as you venture to request your mail.  What will Billy do
 if you make one wrong move?  I don't think anyone wants to know...
 A sign is posted on the wall.
 ~
-27 1163276 0 1 99 0
+27 114700 0 1 99 0
 D2
 To the main street.
 ~
@@ -1666,7 +1666,7 @@ Healer's Room~
 The room is covered with large comfortable chairs and pillows, begging you
 to take your ease.  Rest here and let the healer do her job.
 ~
-27 1114124 0 1 99 0
+27 65548 0 1 99 0
 D4
 Quest Room 800
 ~
@@ -1684,7 +1684,7 @@ Going down from this room will lead you into the arena of death.
 This is your last chance to turn back.  Those found blocking this
 room unduly will be punished.
 ~
-27 1343340556 536870912 1 99 0
+27 1342291980 536870912 1 99 0
 D4
 To Market Square
 ~
@@ -1787,7 +1787,7 @@ Type 'look payout' to see the cash payout prize numbers.
 
 Have fun!
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D2
 Back to the chat room, done playing already?
 ~
@@ -1853,7 +1853,7 @@ The main street, to the north is the post office and to the south is the
 abode of the auctioneer.  To the east you leave town and to the west the
 street leads to the market square.
 ~
-27 1097736 8192 1 99 1
+27 49160 8192 1 99 1
 D0
 The Post Office
 ~
@@ -1887,7 +1887,7 @@ truly want to embark on this quest you are about to receive. The old man
 seems to read your thoughts as he cackles loudly as soon as you think
 this.
 ~
-27 1114124 536870912 1 99 0
+27 65548 536870912 1 99 0
 D3
 The Bounty Master's Bunker
 ~
@@ -1911,13 +1911,31 @@ Healer's room
 ~
 0 -1 3073
 S
+#3086
+Quest Equipment Donation Room~
+As you enter this room, you feel compelled to drop all items that you no
+longer want or cannot use, so that less fortunate can take advantage
+of them.
+ 
+NOTE
+IT IS NOT ALLOWED TO SELL/AUCTION DONATED EQUIPMENT, THIS WILL BE WATCHED
+AND VERY SEVERE SENTENCES WILL HAPPEN TO YOU IF YOU ARE CAUGHT, 
+THIS MEANS KIT PURGING AND PROBABLY DELETION OF YOUR CHARACTER!!!!
+~
+27 268550156 0 1 99 0
+D3
+Midgard Donation Room
+~
+~
+0 -1 3419
+S
 #3100
 Northwest end of Concourse~
    You are at the concourse, the city wall is just west.  A small promenade
 goes east, and the bridge is just north of here.  The concourse continues
 south along the city wall.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 the Bridge.
 ~
@@ -1940,7 +1958,7 @@ Promenade~
 further east and to the west you see the city wall.  Park Road leads south
 from here.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 The promenade.
 ~
@@ -1963,7 +1981,7 @@ Promenade~
 both east and west.  South of here you see the entrance to the park, and a
 small building seems to be just west of the entrance.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 the promenade.
 ~
@@ -1986,7 +2004,7 @@ Promenade~
 both east and west.  A small path leads south.  Looking across the river you
 see the levee.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 the Concourse.
 ~
@@ -2009,7 +2027,7 @@ Northeast end of Concourse~
 promenade goes west.  Looking across the river you see a building that
 resembles a warehouse.  The Concourse continues south along the city wall.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D2
 The Concourse continues south.
 ~
@@ -2032,7 +2050,7 @@ Park Entrance~
 the promenade and a small path leads south into the park.  To your east is
 the famous Park Cafe.
 ~
-27 1048580 0 1 99 1
+27 4 0 1 99 1
 D0
 the promenade.
 ~
@@ -2056,7 +2074,7 @@ is built from large logs. Through the windows in the northern wall you
 see the river, and through the southern window you see many vigorous
 colourful plants.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D3
 the park entrance.
 ~
@@ -2068,7 +2086,7 @@ Small path through the park~
    You are walking along a small path through the park.  The path continues
 south and east.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 ~
 ~
@@ -2084,7 +2102,7 @@ Small path in the park~
 just north of here, and Park Cafe is just east of the entrance.  The path
 leads further east and west.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 the northern park entrance.
 ~
@@ -2104,7 +2122,7 @@ Small path in the park~
    You are on a small path running through the park.  It continues west and
 south and just north of here you see the southern wall of Park Cafe.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D2
 ~
 ~
@@ -2118,7 +2136,7 @@ S
 Cityguard Head Quarters~
    You are inside a tidy office.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D1
 the park road.
 ~
@@ -2130,7 +2148,7 @@ Park Road~
    The road continues north and south.  A building is just west of here, you
 notice a sign on the door.  The park entrance is to the east.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2161,7 +2179,7 @@ Western Park Entrance~
    You are standing at the western end of the park.  A small path leads east
 into the park and going west through the entrance you will reach Park Road.
 ~
-27 1048580 0 1 99 1
+27 4 0 1 99 1
 D1
 ~
 ~
@@ -2176,7 +2194,7 @@ A path in the park~
    You are in the park.  The paths lead north and west.  Westwards is the
 park entrance and to the east you see a small pond.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2197,7 +2215,7 @@ The Pond~
    You are swimming around in the pond, feeling rather stupid.  You can get
 back on the path from the eastern and western end of the pond.
 ~
-27 1048576 0 1 99 6
+27 0 0 1 99 6
 D1
 ~
 ~
@@ -2212,7 +2230,7 @@ A path in the park~
    You are in the park.  The paths lead north and east.  Eastwards is the
 park entrance and to the west you see a small pond.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2232,7 +2250,7 @@ Eastern Park Entrance~
 into the park.  Going east through the entrance you will reach Emerald
 Avenue.
 ~
-27 1048580 0 1 99 1
+27 4 0 1 99 1
 D1
 ~
 ~
@@ -2248,7 +2266,7 @@ Emerald Avenue~
 promenade and to the west is the park entrance.  To the east is the not very
 big Town Hall of Midgaard.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2270,7 +2288,7 @@ S
 Park Road~
 You are on Park Road which leads north and south.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2289,7 +2307,7 @@ Emerald Avenue~
 You are standing at a bend on Emerald Avenue.  The road leads north and
 west.  To the east and south lie abandoned residences.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2303,7 +2321,7 @@ D2
 Nymph's house is south.
 ~
 door~
-11 3425 3430
+3 3425 3430
 D3
 ~
 ~
@@ -2313,7 +2331,7 @@ S
 Road Crossing~
    You are in the middle of the road cross.  Roads lead in all directions.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2351,7 +2369,7 @@ Emerald Avenue~
    You are standing at a bend on Emerald Avenue.  The road leads south and
 east.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 ~
 ~
@@ -2366,7 +2384,7 @@ Park Road~
    You are on Park Road which leads south and north.  Elm Street is east of
 here.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2386,7 +2404,7 @@ You are on Elm Street.  Park Road is to the west and Elm Street continues
 in an easterly direction.  A house to the north is surrounded by a white
 picket fence.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 A house is north.
 ~
@@ -2406,7 +2424,7 @@ End of Elm Street~
    You are at the end of Elm Street.
 An old elm tree grows here.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D3
 ~
 ~
@@ -2421,7 +2439,7 @@ Emerald Avenue~
    You are on Emerald Avenue which continues north.  The Concourse is south
 of here.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2437,7 +2455,7 @@ Park Road~
 here.
 An old two-storey house is to the east.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2469,7 +2487,7 @@ On the Concourse~
    You are at the southwest corner of the city wall.  The Concourse leads
 both north and east.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2484,7 +2502,7 @@ On the Concourse~
    The Concourse continues both east and west.  Emerald Avenue is north of
 here.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2503,7 +2521,7 @@ On the Concourse~
    The Concourse continues both east and west.  Park Road is north of here
 and an iron grate leads south to the graveyard.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2527,7 +2545,7 @@ On the Concourse~
    You are at the southeast corner of the city wall.  The Concourse leads
 both north and west.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2541,7 +2559,7 @@ S
 Park Road~
    You are at Park Road which continues north and south.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2566,7 +2584,7 @@ Emerald Avenue~
 You are at Emerald Avenue which continues north and south.  Penny Lane
 leads east from here.  To the west is an abandoned house.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2590,7 +2608,7 @@ Emerald Avenue~
 You are standing at a bend on Emerald Avenue.  To the east the road goes
 on and to the south is the Road Crossing.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 Chobbie's House
 ~
@@ -2610,7 +2628,7 @@ Emerald Avenue~
    You are standing at a bend on Emerald Avenue.  To the west the road goes on
 and to the north is the Road Crossing.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2625,7 +2643,7 @@ Park Road~
    You are at a bend on Park Road.  To the north the road goes on and to the
 east is the Road Crossing.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2640,7 +2658,7 @@ Park Road~
    You are at a bend on Park Road.  To the south the road goes on and to the
 west is the Road Crossing.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D2
 ~
 ~
@@ -2656,7 +2674,7 @@ The Waiting Room~
 along the walls and a long desk with a typewriter is placed in the middle of
 the room.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D1
 It looks like some kind of office.
 ~
@@ -2690,7 +2708,7 @@ polished but completely empty desk is standing in front of an armchair that
 looks so comfortable that it most of all resembles a bed with the head end
 raised slightly.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D3
 The waiting room is to the west.
 ~
@@ -2714,7 +2732,7 @@ Penny Lane~
 continues in eastward direction.  You see a sign posted on a house
 to the south that reads: The Grand Pavilion.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 ~
 ~
@@ -2723,7 +2741,7 @@ D2
 The Grand Pavilion.
 ~
 door~
-3 3427 3432
+11 3427 3432
 D3
 ~
 ~
@@ -2733,7 +2751,7 @@ S
 Penny Lane~
    You are on Penny Lane.  The narrow road continues north and west.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 ~
 ~
@@ -2747,7 +2765,7 @@ S
 End of Penny Lane~
    You are at the end of Penny Lane.  The only exit appears to be south.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D2
 ~
 ~
@@ -2759,7 +2777,7 @@ Under the Bridge~
 surface of the river.  The water gently flows through an opening in the lower
 part of the city wall.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 ~
 ~
@@ -2780,7 +2798,7 @@ On the River Karyna.~
 North of here you see the miserable buildings of the poor alley.  The river
 flows east.  The riverbanks are too steep to climb.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 ~
 ~
@@ -2795,7 +2813,7 @@ On the River Karyna.~
 To the north of here you can see the dump of Midgaard.  The river flows
 from west to east through the middle of the city.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 ~
 ~
@@ -2812,7 +2830,7 @@ and allow people to board and unboard.  The River Karyna runs east and looks to
 be fairly strong.
 There is a sign here.
 ~
-27 1048580 67616 1 99 1
+27 4 67616 1 99 1
 D0
 ~
 ~
@@ -2846,7 +2864,7 @@ You can see a large warehouse on the northern riverbank.  West of here you
 can see a small pier, set into the side of the river, and the river runs
 east at a fare pace.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 ~
 ~
@@ -2860,7 +2878,7 @@ S
 On the River Karyna.~
      The river enters from a hole in the eastern city wall.  Up above the sounds of the city come filtering down deafened by the roar of the river entering a large opening of a natural limestone cave.  The current seems to be slowing increasing, pulling you toward the opening at a somewhat surprising rate.  Leaving the sunlight behind you slip into the darkness to what unknowns might lurk inside.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 You can see a cavern up ahead.
 ~
@@ -2877,7 +2895,7 @@ A Gravel Road on the Graveyard~
 graveyard.  On both sides of the road grow dark evergreen trees.  An iron
 grate is to the north.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 Through the solid iron bars you see the Concourse.
 ~
@@ -2899,7 +2917,7 @@ A Gravel Road on the Graveyard~
   You are on a well-kept gravel road that leads north-south through the
 graveyard.  On both sides of the road grow dark evergreen trees.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 The gravel road continues northwards.
 ~
@@ -2916,7 +2934,7 @@ A Gravel Road on the Graveyard~
   You are on a well-kept gravel road that leads north-south through the
 graveyard.  On both sides of the road grow dark evergreen trees.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 The gravel road continues northwards.
 ~
@@ -2933,7 +2951,7 @@ A Gravel Road on the Graveyard~
   You are on a well-kept gravel road that leads north-south through the
 graveyard.  On both sides of the road grow dark evergreen trees.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 The gravel road continues northwards.
 ~
@@ -2951,7 +2969,7 @@ In front of the Chapel~
   You are on an open space before a small chapel.  A gravel road leads north
 through the graveyard and the chapel entrance is to the south.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 The gravel road continues northwards.
 ~
@@ -2968,7 +2986,7 @@ Inside the Chapel~
    You are in a small, dark chapel.  The dark brown glass in the tiny windows
 do not let much light through.  A few rows of worn wooden benches stand here.
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D0
 The chapel door is made of dark wood.
 ~
@@ -2988,7 +3006,7 @@ Wall Road~
 You are walking next to the western city wall.  The road continues further
 North.  The city gate is south of here.
 ~
-27 1097728 0 1 99 1
+27 49152 0 1 99 1
 D0
 You can see the end of Wall Road.
 ~
@@ -3027,7 +3045,7 @@ You are standing in the front foyer of the Moneylender's Guild. There is a
 counter for you to deposit and withdraw your gold, but you cannot see beyond
 to where they store the money.
 ~
-27 1163268 0 1 99 1
+27 114692 0 1 99 1
 D3
 You can see Wall Road outside.
 ~
@@ -3049,7 +3067,7 @@ End of Wall Road.~
 You have reached the end of Wall Road, and the North-West corner of Migdaard. 
 There is the Moneylender's Guild to the east.
 ~
-27 1359880 0 1 99 1
+27 311304 0 1 99 1
 D1
 You can see the Moneylender's Guild.
 ~
@@ -3087,7 +3105,7 @@ Light forest.~
 You are in a forested area, walking along a well worn path leading away north
 and south through the trees.
 ~
-27 1048576 1280 1 99 3
+27 0 1280 1 99 3
 D0
 nothing special.
 ~
@@ -3105,7 +3123,7 @@ You are standing on a well worn dirt path, that appears to split here. It
 leads north and south, through this forest, but to the west the woodland 
 appears to almost sparkle with vitality.
 ~
-27 1048576 1280 1 99 3
+27 0 1280 1 99 3
 D0
 more forest...~
 ~
@@ -3183,7 +3201,7 @@ read over the news of the day posted on a large bulletin board located
 on the far wall.  You are encouraged to be quiet in this room so others 
 aren't disturbed as they read.
 ~
-27 1343602700 536870912 1 99 0
+27 1342554124 536870912 1 99 0
 D1
 temple~
 ~
@@ -3200,7 +3218,7 @@ This wide, paved road leads north-south through the farmlands east of the
 city of Midgaard. It is a fairly busy route, frequently used by rich traders,
 and so has been very well maintained.
 ~
-27 1048584 5120 1 99 0
+27 8 5120 1 99 0
 D0
 Along the Trade Road
 ~
@@ -3235,7 +3253,7 @@ This wide, paved rode leads north-south through vast farmlands that stretch
 away in all directions. It is frequently used by traders, and so has been
 maintained with a great deal of care.
 ~
-27 269484040 4096 1 99 0
+27 268435464 4096 1 99 0
 D2
 Along the Trade Road
 ~
@@ -3281,7 +3299,7 @@ The road crosses over another well-used highway ahead, which runs east and
 west. Several wagon wheel tracks and horseshoe prints are impressed into
 the dirt.
 ~
-27 1048584 2048 1 99 0
+27 8 2048 1 99 0
 D0
 The crossroads lie ahead.
 ~
@@ -3313,7 +3331,7 @@ Turn in the road.~
 The Trade Road turns here, leading away south and westward.  There is forest
 all around, although a small path leads away north through the trees.
 ~
-27 1048588 4096 1 99 0
+27 12 4096 1 99 0
 D0
 A smaller path leads away into the forest.
 ~
@@ -3353,7 +3371,12 @@ IT IS NOT ALLOWED TO SELL/AUCTION DONATED EQUIPMENT, THIS WILL BE WATCHED
 AND VERY SEVERE SENTENCES WILL HAPPEN TO YOU IF YOU ARE CAUGHT, 
 THIS MEANS KIT PURGING AND PROBABLY DELETION OF YOUR CHARACTER!!!!
 ~
-27 269598732 0 1 99 0
+27 268550156 0 1 99 0
+D1
+Quest Equipment Donation Room
+~
+~
+0 -1 3086
 D3
 The grand temple lies to the west.
 ~
@@ -3383,7 +3406,7 @@ The river grows wider here, as the current picks up pace. Several small fish
 dart about just below the surface of the water. Legends have told of the
 great adventure that lies out west past the walls of Midgaard.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 The river flows on.
 ~
@@ -3405,7 +3428,7 @@ The River Karyna.~
 The River Karyna breaks off here, southwards into a small canal that has
 been laid into the forest.  The main river flows eastward with some vigour.
 ~
-27 1048576 2080 1 99 7
+27 0 2080 1 99 7
 D1
 The river flows on to the east.
 ~
@@ -3433,7 +3456,7 @@ The canal comes to an end here and opens out northward onto the River Karyna.
 On either side the stone walls of the canal are covered with a thick sheet
 of moss, and tall shoots of grass stick out from beneath the water.
 ~
-27 1048576 1024 1 99 7
+27 0 1024 1 99 7
 D0
 The canal ends at the River Karyna.
 ~
@@ -3457,7 +3480,7 @@ main rivers.  On either side the stone slabs are covered by a thick blanket of
 moss, which seems to extend somewhat across the surface of the water, away
 from the stone.  Long thick shoots of grass point out through the moss.
 ~
-27 1048576 1024 1 99 7
+27 0 1024 1 99 7
 D0
 The canal continues.
 ~
@@ -3481,7 +3504,7 @@ main rivers.  On either side the stone slabs are covered by a thick blanket of
 moss, which seems to extend somewhat across the surface of the water, away
 from the stone.  Long thick shoots of grass point out through the moss.
 ~
-27 1048576 1024 1 99 7
+27 0 1024 1 99 7
 D0
 The canal continues.
 ~
@@ -3502,7 +3525,7 @@ S
 On the Greater Karyna River.~
 The river flows eastward here through the forest, toward the city of Midgaard.
 ~
-27 1048576 32 1 99 7
+27 0 32 1 99 7
 D1
 The river flows on to the east.
 ~
@@ -3520,7 +3543,7 @@ An oversized grave has been dug up here. Several sets of foot prints abruptly
 end at it's edges. As you look down into the grave, you think you can see a
 thin, rickety ladder. Hmmm...I wonder what's down there...
 ~
-27 1048576 0 1 99 1
+27 0 0 1 99 1
 D1
 A main road runs through the graveyard.
 ~
@@ -3574,7 +3597,7 @@ of course.  In front os you there is a comfy looking bed and an over
 stuffed chair.  Scattered all over the room are books and papers (Justarius
 is a sloppy person) and an empty bookshelf to your right.
 ~
-27 269484556 0 1 99 0
+27 268435980 0 1 99 0
 D3
 Emerald Avenue is west.
 ~
@@ -3593,18 +3616,18 @@ Most of them scatter when they see you.
 A feeling of serenity surrounds you and you feel you could stay here 
 forever.......
 ~
-27 269484556 0 1 99 0
+27 268435980 0 1 99 0
 D0
 Emerald Avenue is out the door.
 ~
 door~
-11 3425 3119
+3 3425 3119
 S
 #3431
 A Residence~
 A comfortable residence
 ~
-27 269484556 0 1 99 0
+27 268435980 0 1 99 0
 D2
 Elm Street is south.
 ~
@@ -3622,12 +3645,12 @@ slowly starts to fade away.  This is clearly a very complex illusion
 created to put all who stay here at ease.  The beauty of this tent
 mesmerizes you, everything here is perfect.  A small piece of Paradise.
 ~
-27 1049096 0 1 99 1
+27 520 0 1 99 1
 D0
 Penny Lane.
 ~
 door~
-3 3427 3139
+11 3427 3139
 S
 #3433
 Chat Room~
@@ -3635,7 +3658,7 @@ Chat Room~
 tables in the middle of the room.  There is enough room for everyone to sit
 and enjoy a friendly conversation with fellow mudders.
 ~
-27 1163276 0 1 99 0
+27 114700 0 1 99 0
 D0
 the Gamblin' Room
 ~
@@ -3654,7 +3677,7 @@ the confines of Midgaard.  A footbridge crosses here to the seldom travelled
 trade routes of the north.  To the south lies the city of Midgaard in
 all of her glory.
 ~
-27 1097736 0 1 99 0
+27 49160 0 1 99 0
 D0
 The northern trade routes.
 ~
@@ -3688,7 +3711,7 @@ Tunnel under the Gates~
 This small chamber is damp and smells of mold and death. The area looks as
 though it has not been used for ages.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D0
 Through the darkness you can see the passageway continues north.
 ~
@@ -3716,7 +3739,7 @@ S
 Damp Tunnel~
 This tight damp tunnel goes south to a small room or continues to the north.
 ~
-27 1048585 0 1 99 0
+27 9 0 1 99 0
 D0
 To the north you can see the tunnel continues on.
 ~
@@ -3745,7 +3768,7 @@ Dripping Tunnel~
 There is water dripping from the ceiling and walls of this room. The water
 has collected in little puddles on the floor. Rats scurry at your feet
 ~
-27 1048585 0 1 99 0
+27 9 0 1 99 0
 D0
 To the north you can just make out the walls of a small room.
 ~
@@ -3775,7 +3798,7 @@ There is water dripping from the ceiling and walls of this room. At your
 feet rats scurry about avoiding the puddles that have formed. You see the
 outline of a door above your head, and a ladder hanging down.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D2
 To the south you see a tunnel heading off in that direction.
 ~
@@ -3785,7 +3808,7 @@ D4
 Through the trap door you see the sky above.
 ~
 trap door trapdoor~
-1 -1 3439
+9 -1 3439
 E
 statue odin king god~
 The statue represents the one-eyed Odin sitting on a his throne.  He has
@@ -3805,7 +3828,7 @@ You have stepped out of the safety of the city and into the wilds of the
 trade routes.  The road goes to the north and you see forests and mountains
 in the distance in this direction.
 ~
-27 1048584 0 1 99 0
+27 8 0 1 99 0
 D0
 ~
 ~
@@ -3819,7 +3842,7 @@ D5
 A tunnel goes under the gates.
 ~
 ~
-0 -1 3438
+8 -1 3438
 S
 #3440
 Storage Shed
@@ -3832,7 +3855,7 @@ D0
 Temple Yard
 ~
 door~
-1 -1 3439
+9 -1 3439
 E
 statue odin king god~
 The statue represents the one-eyed Odin sitting on a his throne.  He has

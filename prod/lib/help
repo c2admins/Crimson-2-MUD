@@ -3,21 +3,16 @@
 #
 CHANGELOG
 
-Latest Changes as of September 15, 2021
-
-Code changes:
-Added Weapon Type on Auction ID and Spell ID
-Rebalanaced Dodge skill to max at 20%
-Adjusted frequency and cost of Melee Critical
-Adjusted Questmaster to give some clues
-Adjust Stone Skin to be the same as Sanc
-Fixed ANTI_DRAGON flag
+Latest Changes as of July 9, 2023
 
 Zone changes:
-Remove blind from Grenlinstone
-Removed Melon and Corn from Darkling
-Lower mob load in Amazon
-Trident of Moon Sea made Piercing again in Atlantis
+Midgaard: Added Quest Equipment Donation Room(#3086) east of donation room
+
+Code changes:
+Changes "Elsewhere" spell to prevent NPCs from entering NO_MOB rooms
+Added 'Quest donate' command
+
+
 See also: HELP_UPDATE
 
 #
@@ -32,10 +27,15 @@ Email: c2admins@gmail.com
 Mudmail: Pythias
 Discord: check crimson2.com for invite link
 
-Below are the updates as of March 25, 2021:
+Below are the updates as of Jul 9, 2023:
 
 
 NEW HELP FILES
+"QUEST_DONATE"
+"ALL"
+
+CHANGED HELP FILES
+"QUEST_EQ"
 
 #
 AUCTION
@@ -228,7 +228,39 @@ Stealing from other players in PK is not allowed.  Do not do it.  That
 is all.
 
 #
-SLOTS BODY FINGER LIGHT_SOURCE NECK HEAD LEGS FEET HANDS ARMS SHIELD ABOUT WAIST WRIST HOLD TAIL
+SLOTS BODY FINGER LIGHT NECK HEAD LEGS FEET
+
+Generally different races have a different number of equipment slots that 
+they can fill.  Generally speaking, of course they are as follows:
+
+Non-tailed humanoid characters:  18 Equipment Slots
+Characters with tails:  16 Equipment Slots (No FEET, LEGS, or WAIST slots)
+Thri-kreen:             17 Equipment Slots (No FEET or HEAD slots)
+Centaur:                17 Equipment Slots (No FEET or WAIST slots)
+
+The available equipment slots are noted below:
+
+LIGHT-SOURCE - held as a light source.
+FINGER - worn on finger, you can wear 2 of these.
+NECK - worn around neck, you can wear 2 of these.
+BODY - worn on mid-body.
+HEAD - worn on the head.
+LEGS - worn on the legs.
+FEET - worn on the feet.
+HANDS - worn on the hands.
+ARMS - worn on the arms.
+SHIELD - worn as a shield.
+ABOUT - worn about the body.
+WAIST - worn around the waist.
+WRIST - worn about the wrist, you can wear 2 of these.
+WIELD - object is wielded.
+HOLD - held in the hand.
+TAIL - Worn on the lower body of Yuan-ti.
+4LEGS - Worn on the legs of Thri-Keen and Centaur, 2 of these can be worn.
+
+
+#
+HANDS ARMS SHIELD ABOUT WAIST WRIST HOLD TAIL
 
 Generally different races have a different number of equipment slots that 
 they can fill.  Generally speaking, of course they are as follows:
@@ -896,11 +928,12 @@ QUEST QUESTS
      Points    - Shows you how many Quest points you have.
      List      - Shows you a list of items you can buy with qps.
      Buy       - Buys a quest item.
-     transform - Buys a transformation.
+     Transform - Buys a transformation.
 
 
      These Commands work anywhere:
 
+     Donate    - Lets you donate items to the Quest Equipment Donation Room
      Info      - Tells you what your quest is.
      Time      - Tells you how much time you have left before
                  you can quest again, or how much time you have
@@ -912,28 +945,62 @@ Say some keywords from his responds to get extra details.
 SEE ALSO: QUEST_FLAG
 
 #
+"QUEST DONATE" QUEST_DONATE
+
+This command will let you donate items to the Quest Equipment Donation Room east
+of the Midgaard Donation Room. This is at room number 3086
+
+Syntax: quest donate <obj>
+
+This supports using the "all." prefix to manipulate all objects of a with a 
+certain criteria
+
+Examples:
+
+quest donate scythe    -Donates a Scythe of Death from inventory to the quest
+                        donation room.
+quest donate all.quest -Donate all objects with the quest keyword to the quest
+                        donation room.
+
+SEE ALSO: ALL QUEST QUESTS
+
+
+#
+"ALL"
+
+The game supports manipulating multiple items in inventory. You can add 'all.'
+prior to the object identify to apply the action to all of those objects.
+
+Examples: 
+
+put all.obj bag        -Puts all objects in your inventory into a bag you have
+get all.white bag      -Gets all white potions from a bag you have
+quest donate all.quest -Donate all quest items to the quest donation room. 
+
+#
 "QUEST EQ" QUEST_EQ QEQ
 
 There are Quest Items available from Questmaster. Below are details of each item
 
 -------------------------------------------------------------------------------|
-Hasek's Wedding Ring | Sapphire Butterfly | Emerald Cloak  |Essence of Plague  |
-Slot: Finger         | Slots : HOLD/LIGHT | Slot: Neck     |Slot: Light        |
-AC Apply  : 20       | Damroll  : + 7     | AC Apply : 30  |Damroll     : + 5  |
-DamRoll   : + 3      | Bonus_DEX: + 5     | Damroll  : + 3 |Hitroll     : + 5  |
-Hitroll   : + 3      | Bonus_CHA: + 5     | Hitroll  : + 2 |Extra Attack: + 2  |
-Bonus_DEX : + 2      | Bonus_STR: + 5     | Bonus_DEX: + 2 |Bonus_DEX   : + 3  |
-Regeneration         |                    | Bonus_STR: + 2 |                   |
+     Hades Ring           |     Emerald Cloak       |     Essence of Plague    |
+     Slot: Finger         |     Slot: Neck          |     Slot: Light          |
+     AC Apply  : 30       |     AC Apply : 30       |     Damroll     : + 5    |
+     DamRoll   : + 2      |     Damroll  : + 3      |     Hitroll     : + 5    |
+     Hitroll   : + 2      |     Hitroll  : + 2      |     Extra Attack: + 2    |
+     Bonus_STR : + 2      |     Bonus_DEX: + 2      |     Bonus_DEX   : + 3    |
+     HP        : + 15     |     Bonus_STR: + 2      |                          |
 --------------------------------------------------------------------------------
-Nameless Hero's Sword of Assassination                                         |
-Slots: Wield Hold Dualwield                                                    |
-Weapon Bits: Blinding, Silence, Silver                                         |
-Slayer Bits: Wood_Stake, Good, Evil, Undead, Dragon, Animal, Giant, Demon      |
-Damage Type: Piercing                                                          |
-Dice       : 15d15                                                             |
-Bonus_STR  : + 8                                                               |
-Bonus_Dex  : + 8                                                               |
-AC Apply   : 50                                                                |
+ Shatter of Dreams                     | Scythe of Death                       |
+ Slots: Wield Hold Dualwield           | Slots: Wield Hold Dualwield           |
+ Weapon Bits: All Procs except Drain   | Weapon Bits: All Procs except Pulse   |
+ Slayer Bits: All Slayer bits          | Slayer Bits: All Slayer bits          |
+ Damage Type: Piercing                 | Damage Type: Piercing                 |
+ Dice       : 8d8                      | Dice       : 8d8                      |
+ Damroll    : + 6                      | Damroll    : +6                       |
+ Hitroll    : + 4                      | Hitroll    : +4                       |
+ Bonus_Dex  : +30                      | Bonus_Dex  : +30                      |
+ Bonus_Dex  : +30                      | Bonus_Dex  : +30                      | 
 -------------------------------------------------------------------------------|
 
 
@@ -1028,7 +1095,7 @@ all the information on the current item being auctioned (if any).
 SEE ALSO: BID
 
 #
-STR
+STRENGTH
     Strength is a measure of muscle, endurance, and stamina combined.
 It is the force of fighters, for they must be physcally powerful in
 order to wear armor and wield heavy weapons.
@@ -1044,6 +1111,24 @@ order to wear armor and wield heavy weapons.
     if STR > 14                |     if str > 16
       BONUS: (STR - 14) * 60   |       BONUS: (STR - 16) * 2
 ----------------------------------------------------------------------
+
+#
+"STRENGTH SPELL" 39 "SPELL 39" "SPELL STRENGTH"
+Spell #     : 39
+Usage       : cast 'strength' <victim>
+Accumulative: Yes (strength)
+Duration    : Level hours
+
+This ritual was created to aid the master of the black arts to
+effectively destroy.  It creates a special bond with mind and
+body to create a super destructive machine.  A mage can be a
+more efficient killing machine with a maxed out strength.
+
+A person will gain 1 strength per spell (2 points if level of
+caster is greater than 18). Maximum is limited by race.  Enter
+HELP RACE <your race> for details.
+
+See Also: INTELLIGENCE WISDOM DEXTERITY CONSTITUTION CHARISMA
 
 #
 HITROLL DAMROLL DR HR "HIT ROLL" ROLL
@@ -5562,24 +5647,6 @@ basics out of it.  Without fully understanding this spell it is
 very hard to put someone to sleep with it.
 
 #
-"STRENGTH SPELL" 39 "SPELL 39" "SPELL STRENGTH"
-Spell #     : 39
-Usage       : cast 'strength' <victim>
-Accumulative: Yes (strength)
-Duration    : Level hours
-
-This ritual was created to aid the master of the black arts to
-effectively destroy.  It creates a special bond with mind and
-body to create a super destructive machine.  A mage can be a
-more efficient killing machine with a maxed out strength.
-
-A person will gain 1 strength per spell (2 points if level of
-caster is greater than 18). Maximum is limited by race.  Enter
-HELP RACE <your race> for details.
-
-See Also: INTELLIGENCE WISDOM DEXTERITY CONSTITUTION CHARISMA
-
-#
 "INTELLIGENCE SPELL" 131 "SPELL INTELLIGENCE" "SPELL 131"
 Usage       : cast 'intelligence' <victim>
 Accumulative: Yes
@@ -8573,7 +8640,8 @@ it'll seriously affect regeneration of your hitpoints, mana, and moves.
 balance what you eat and drink, if you drink until you are full on thirst
 You will not have room to eat food for hunger.
 
-    NOTE:  Immortals and Avatars have a value of -1.
+    NOTE:  Immortals and Avatars have a value of -1. The can eat and drink
+as much as they would like.
 
 See Also ATTRIBUTE, SUSTENANCE
 
@@ -9609,45 +9677,11 @@ See Also: READ WRITE
 
 #
 "RESTRICTED CLASSES" RESTRICTIONS
-There is many limitations due to race for what class you can choose for
-that race this listing will show what races can be what classes.
 
-&yRACE		&cPLAYABLE CLASSES
-&yHuman		&cAll Classes
-&yDwarf		&cCleric, Thief, Warrior, Priest, Paladin, Monk 
-&yGnome		&cMage, Cleric, Thief, Warrior, Bard, Priest, Druid, Monk
-&yHalfling	&cCleric, Thief,Warrior, Bard, PRiest, Druid, Monk
-&yHalf Giant	&cThief, Warrior, Bard, Druid, Monk
-&yPixie		&cMage, Cleric, Thief, Bard, Priest, Druid
-&yDemon		&cMage, Cleric, Thief, Warrior, Eldritch Knight, Monk
-&ySnotling	&cMage, Cleric, Thief, Bard, Priest, Druid
-&yFeline		&cMage, Cleric, Thief, Warrior, Bard, Priest, Druid, Monk
-&yTroll		&cThief, Warrior, Monk
-&yDragonkin	&cMage, Cleric, Warrior, Priest, Druid
-&yCentaur		&cMage, Warrior, Druid, Eldritch Knight
-&yMerman		&cCleric, Thief, Warrior, Priest, Druid, Monk
-&yHigh Elf	&cAll Classes except for Thief
-&yHalf Elf	&cAll Classes
-&yDrow Elf	&cMage, Cleric, Thief, Warrior, Priest, Eldritch Knight, Monk
-&yOrc		&cMage, Cleric, Thief, Warrior, Priest, Druid, Eldritch Knight
-&yHalf Orc	&cAll Classes
-&yDarkling	&cMage, Cleric, Thief, Warrior, Priest, Eldritch Knight, Monk
-&yOgre		&cMage, Cleric, Warrior, Eldritch Knight, Monk
-&yGoblin		&cMage, Cleric, Thief, Bard, Eldritch Knight, Monk
-&yMinotaur	&cCleric, Warrior, Druid, Monk
-&yBugbear		&cMage, Cleric, Thief, Warrior, Bard, Priest, Paladin
-&yGiant		&cCleric, Warrior, Priest, Druid
-&yRavshi		&cMage, Thief, Priest, Eldritch Knight, Monk
-&yIrda		&cMage, Cleric, Warrior, Bard, Priest, Druid, Eldritch Knight
-&yThri-Kreen	&cAll Classes Except for Bard and Druid
-&yBullywug	&cCleric, Thief, Warrior, Bard, Druid, Monk
-&yGargoyle	&cMage, Thief, Warrior, Eldritch Knight
-&yImp		&cMage, Cleric, Thief, Warrior, Bard, Eldritch Knight, Monk
-&yLizardman	&cCleric, Thief, Warrior, Paladin, Druid, Monk
-&ySahuagin	&cMage, Cleric, Warrior, Priest, Eldritch Knight, Monk
-&ySatyr		&cMage, Cleric, Warrior, Bard, Paladin, Druid, Monk
-&yYuan-ti		&cMage, Cleric, Thief, Warrior, Druid, Eldritch Knight
-&n
+There are some race and class restrictions. Evil races can't be Paladins.
+
+Demon, Ravshi, and Drow Elf are not able to be Paladin, due to their evilness.
+
 SEE ALSO: CLASS, RACE
 
 #

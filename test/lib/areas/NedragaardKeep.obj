@@ -57,7 +57,7 @@ A
 12 10
 #1205
 obj dungeon key~
-25
+99
 &wThe dungeon key&n~
 This key is tagged 'dungeon'~
 ~
@@ -66,7 +66,7 @@ This key is tagged 'dungeon'~
 1 5 5
 #1206
 obj hallway key~
-10
+99
 &wThe hallway key&n~
 This key is tagged 'hallway'~
 ~
@@ -90,7 +90,7 @@ obj case key holder~
 &KA key case&n~
 &yA case of keys stands against the wall.&n~
 ~
-15 8 0 0
+15 8 0 1
 300 0 0 0
 99 5 5
 #1209
@@ -291,9 +291,6 @@ a huge gate plaque~
 0 0 10 0
 100000 5 5
 E
-test test~
-~
-E
 plaque bronze~
 Welcome to Nedragaard Keep, Home of the honorable Lord Soth
 
@@ -304,9 +301,12 @@ Sugested level range 41+ for top floor
 
 Have a nice day.
 ~
+E
+test test~
+~
 #1226
 obj shield key~
-10
+99
 &wkey of shields&n~
 A tiny key lays here.~
 ~

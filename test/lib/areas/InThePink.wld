@@ -16,6 +16,26 @@ beyond the atmosphere~
 beyond the atmosphere~
 0 -1 15801
 E
+to paradise~
+The entrance to Paradise.
+~
+E
+sign~
+~
+E
+sign ~
+
+Welcome!
+
+This zone is for all of those fun-loving characters levels 20-41!
+
+BEWARE: You may find that some parts of this zone aren't as nice as others...
+~
+E
+south~
+The entrance to Paradise.
+~
+E
 asteroid~
 
 Hi!
@@ -30,26 +50,6 @@ Enjoy the zone and tell me what you think.
 
 -Orion.
 
-~
-E
-south~
-The entrance to Paradise.
-~
-E
-sign ~
-
-Welcome!
-
-This zone is for all of those fun-loving characters levels 20-41!
-
-BEWARE: You may find that some parts of this zone aren't as nice as others...
-~
-E
-sign~
-~
-E
-to paradise~
-The entrance to Paradise.
 ~
 S
 #15801
@@ -190,26 +190,26 @@ S
 &wAt the gates of &WZ&wio&Wn&n~
 
 ~
-94 1073741824 536870912 41 99 2
+94 1342177280 536870912 41 99 2
 D2
 ~
 path~
-1 0 15817
+9 0 15817
 S
 #15817
 &WOn the &Rbattle&rfield&n~
 
 ~
-94 0 0 1 99 2
+94 268435456 0 1 99 2
 D0
 ~
 path~
-1 0 15816
+9 0 15816
 D2
 To the &Gw&ga&ys&Kted fi&yeld&Ks&n.
 ~
 path~
-1 0 15818
+9 0 15818
 S
 #15818
 &wt&Wh&we &Gw&ga&yst&Ked fi&yeld&Ks&n~
@@ -219,12 +219,12 @@ S
 D0
 ~
 path~
-1 0 15817
+9 0 15817
 D2
 &wTo the &Wg&wat&Wes &wof &RHe&rl&Yl&w.&n
 ~
 path~
-33 0 15819
+41 0 15819
 S
 #15819
 &wthe &Wg&wat&We &wto &RHe&rl&Yl&n~
@@ -240,7 +240,7 @@ D0
 &wTo the &Gw&ga&yst&Ked fi&yeld&Ks&w.&n
 ~
 path~
-33 0 15818
+41 0 15818
 S
 #15820
 Hillary's room.~

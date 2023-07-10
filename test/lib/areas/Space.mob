@@ -6,7 +6,7 @@ The DungeonMaster stands here overseeing the game.
 The DungeonMaster stands here overseeing the game.
 ~
 262154 32769 136249361 128 0 S
-41 40 0 100d100+8000 127d9+50
+48 40 0 100d100+8000 127d9+50
 2500000 1500000
 8 8 1
 0 0 23 24 20 21 18 21
@@ -861,14 +861,14 @@ comes over you, and you know you're about to die.
 You are in the presence of&r The&K Ghost&B, one of
 a pair that is said to be the devil himself.&n
 ~
-18149642 1 136249361 1077412014 -1000 S
+18092298 1 136249361 1077412014 -1000 S
 48 0 -40 100d10+50000 100d1+100
 0 1256000
 8 8 1
 0 0 25 25 16 25 14 13
-ATTACK_SKILL=0
-ATTACK_SKILL=0
-ATTACK_SKILL=0
+ATTACK_SKILL=75
+ATTACK_SKILL=40
+ATTACK_SKILL=10
 ATTACK_TYPE=105
 #8349
 mob the darkness~
@@ -881,7 +881,7 @@ comes over you, and you know you're about to die.
 You are in the presence of&r The&K Darkness&B. one
 of a pair that is said to be the devil himself.&n
 ~
-18149642 1 136249361 1077412014 -1000 S
+18092298 1 136249361 1077412014 -1000 S
 48 0 -40 100d10+50000 100d5+44
 1 1256000
 8 8 1

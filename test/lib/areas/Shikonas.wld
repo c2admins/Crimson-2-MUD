@@ -4,7 +4,7 @@
 and nobody really knows how long it is. There have been many battles for
 control of this important river.&n
 ~
-12 1048576 32 1 99 7
+10 1048576 32 1 99 7
 D1
 The river continues toward the ocean.
 ~
@@ -23,7 +23,7 @@ and nobody really knows how long it is. There have been many battles for
 control of this important river.
 &n
 ~
-12 1048580 32 1 99 7
+10 4 32 1 99 7
 D1
 The river begins to widen as it rushes for the ocean.
 ~
@@ -42,7 +42,7 @@ widen as the water rushes down towards the mouth to the east.
 There has been many battles for control of this great river.
 &n
 ~
-12 1048576 32 1 99 7
+10 0 32 1 99 7
 D1
 The river widens into the mouth of the Yansu river.
 ~
@@ -62,7 +62,7 @@ The river widens to about 60 feet at the mouth, with water flowing
 at a rapid pace in some areas, mixing the fresh water with the salt
 of the Shikonas Sea.&n
 ~
-12 1048576 67584 1 99 7
+10 0 67584 1 99 7
 D0
 The northern half of the river mouth lies to the north.
 ~
@@ -91,7 +91,7 @@ The river widens to about 60 feet at the mouth, with water flowing
 at a rapid pace in some areas, mixing the fresh water with the salt
 of the Shikonas Sea.&n
 ~
-12 1048576 4128 1 99 7
+10 0 4128 1 99 7
 D0
 The small path continues through the forest.
 ~
@@ -119,7 +119,7 @@ S
 to that outside the protection of the sourrouning islands.
 &n
 ~
-12 1048576 4096 1 99 7
+10 0 4096 1 99 7
 D0
 The Shikonas Sea Coastline continues to the north.
 ~
@@ -144,7 +144,7 @@ the path looks thick and deep, a dampness lingers in the air from the
 humidity of the forest.  The path ends at a small cottage in the forest to the
 south.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D0
 The path winds down the southern bank of the Yansu mouth.
 ~
@@ -164,7 +164,7 @@ The cottage provides a peaceful home for the ferry man, who trys to make a
 living from ferrying brave persons between the Islands of Shilinta.
 A chart hangs crooked on the wall.
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D0
 The pathway leads back to the mouth of the twistly little creek.
 ~
@@ -185,7 +185,7 @@ S
 to that outside the protection of the sourrouning islands.
 &n
 ~
-12 1048576 4096 1 99 7
+10 0 4096 1 99 7
 D0
 The Shikonas Sea Coastline continues to the north.
 ~
@@ -208,7 +208,7 @@ S
 to that outside the protection of the sourrouning islands.
 &n
 ~
-12 1048576 4096 1 99 7
+10 0 4096 1 99 7
 D0
 The waters of the Shikonas Sea get rougher to the north.
 ~
@@ -227,7 +227,7 @@ little north you can see the mouth of the River Karyna, opening out into the
 ocean.  The even coastline continues southward.
 &n
 ~
-12 1048585 4096 1 99 0
+10 9 4096 1 99 0
 D0
 nothing special.
 ~
@@ -245,7 +245,7 @@ You have reached the beach of the beautiful Sholana Island.  The island isn't
 as densely covered in growth and vegetation as most of the lands around the 
 area, but it shows obvious signs of inhabitation.
 ~
-12 1048576 0 1 99 6
+10 0 0 1 99 6
 D0
 The island extends to the north.
 ~
@@ -263,7 +263,7 @@ Sholana  Island isn't as densely covered in growth and vegetation as most of
 the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
 rises up to the skyline from fires around the island.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D0
 The island extends to the north.
 ~
@@ -281,7 +281,7 @@ Sholana  Island isn't as densely covered in growth and vegetation as most of
 the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
 rises up to the skyline from fires around the island.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D0
 The island extends to the north.
 ~
@@ -304,7 +304,7 @@ Sholana  Island isn't as densely covered in growth and vegetation as most of
 the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
 rises up to the skyline from fires around the island.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D1
 The island extends to the east.
 ~
@@ -322,7 +322,7 @@ Sholana  Island isn't as densely covered in growth and vegetation as most of
 the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
 rises up to the skyline from fires around the island.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D2
 The island extends to the south.
 ~
@@ -340,7 +340,7 @@ Sholana  Island isn't as densely covered in growth and vegetation as most of
 the lands around the area, but it shows obvious signs of inhabitation.  Smoke 
 rises up to the skyline from fires around the island.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D0
 The island extends to the north.
 ~
@@ -359,7 +359,7 @@ in a thick forest filled with the tranquill sounds of birds and small animals.
 Looking back across the Shikonas Sea, you spot smoke from sorrounding 
 islands, to distint to make out exactly where.
 ~
-12 1048576 0 1 99 6
+10 0 0 1 99 6
 D0
 The Shikonas Sea lies to the north.
 ~
@@ -383,7 +383,7 @@ in a thick forest filled with the tranquill sounds of birds and small animals.
 Looking back across the Shikonas Sea, you spot smoke from sorrounding 
 islands, to distint to make out exactly where.
 ~
-12 1048576 0 1 99 6
+10 0 0 1 99 6
 D0
 The beach continues around the northern end of the island.
 ~
@@ -411,7 +411,7 @@ Lorantis Island is covered in a dry green vegetation that gets suprisingly
 thick in parts.  Small animals rush across your path and head off into the 
 depths of the island.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D1
 The forest opens up into a large beach running down the eastern half of 
 the island.
@@ -430,7 +430,7 @@ Lorantis Island is covered in a dry green vegetation that gets suprisingly
 thick in parts.  Small animals rush across your path and head off into the 
 depths of the island.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D0
 The forest looks just as thick that way.
 ~
@@ -448,7 +448,7 @@ Lorantis Island is covered in a dry green vegetation that gets suprisingly
 thick in parts.  Small animals rush across your path and head off into the 
 depths of the island.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D0
 The beach lies to the north.
 ~
@@ -462,7 +462,7 @@ northeast of here covered in sub-tropical rainforest rich with water and
 moss.  A large tower can be seen above the treetops at the back of the island.
 
 ~
-12 1048576 0 1 99 6
+10 0 0 1 99 6
 D1
 The beach disappears into the forest.
 ~
@@ -481,7 +481,7 @@ dark sub-troppical rainforest. Originaly this forest would of been pretty
 much unpassable, but hundreds of small tracks and paths have carved their
 way through the island.
 ~
-12 1048577 0 1 99 3
+10 1 0 1 99 3
 D0
 Deeper into the forest.
 ~
@@ -505,7 +505,7 @@ dark sub-troppical rainforest. Originaly this forest would of been pretty
 much unpassable, but hundreds of small tracks and paths have carved their 
 way through the island.
 ~
-12 1048577 0 1 99 3
+10 1 0 1 99 3
 D0
 Deeper into the forest.
 ~
@@ -524,7 +524,7 @@ dark sub-troppical rainforest. Originaly this forest would of been pretty
 much unpassable, but hundreds of small tracks and paths have carved their 
 way through the island.
 ~
-12 1048577 0 1 99 3
+10 1 0 1 99 3
 D0
 Deeper into the forest.
 ~
@@ -548,7 +548,7 @@ dark sub-troppical rainforest. Originaly this forest would of been pretty
 much unpassable, but hundreds of small tracks and paths have carved their 
 way through the island.
 ~
-12 1048577 0 1 99 3
+10 1 0 1 99 3
 D2
 Deeper into the forest.
 ~
@@ -567,7 +567,7 @@ dark sub-troppical rainforest. Originaly this forest would of been pretty
 much unpassable, but hundreds of small tracks and paths have carved their 
 way through the island.
 ~
-12 1048577 0 1 99 3
+10 1 0 1 99 3
 D0
 Deeper into the forest.
 ~
@@ -586,7 +586,7 @@ dark sub-troppical rainforest. Originaly this forest would of been pretty
 much unpassable, but hundreds of small tracks and paths have carved their 
 way through the island.
 ~
-12 1048577 0 1 99 3
+10 1 0 1 99 3
 D1
 Deeper into the forest.
 ~
@@ -600,7 +600,7 @@ dark sub-troppical rainforest. Originaly this forest would of been pretty
 much unpassable, but hundreds of small tracks and paths have carved their 
 way through the island.
 ~
-12 1048577 0 1 99 3
+10 1 0 1 99 3
 D1
 Deeper into the forest.
 ~
@@ -625,7 +625,7 @@ much unpassable, but hundreds of small tracks and paths have carved their
 way through the island.
 A large tower is to the south of here, looking over the forest.
 ~
-12 1048577 0 1 99 3
+10 1 0 1 99 3
 D2
 The tower to the south looks old.
 ~
@@ -645,7 +645,7 @@ constructed from bricks of black rock that dont look like they have come
 from the area.  The rooms is fairly empty except for the spiral staircase 
 leading up.
 ~
-12 1048585 0 1 99 0
+10 9 0 1 99 0
 D0
 The forest awaits you outside the tower.
 ~
@@ -663,7 +663,7 @@ You climb your way up an old spiral starcase that leads to the top of the
 tower.  Small slits in the walls of the tower allow sharp beams of light to 
 highlight points on the walls and staircase.
 ~
-12 1048585 0 1 99 0
+10 9 0 1 99 0
 D4
 The top floor of the tower is above.
 ~
@@ -675,12 +675,12 @@ The enterance to the tower is below.
 ~
 0 -1 1031
 E
-stairs staircase~
-Small beams of light seem to focus on the walls and stairs.
-~
-E
 walls bricks~
 One of the bricks that the light focuses on seems able to be moved.
+~
+E
+stairs staircase~
+Small beams of light seem to focus on the walls and stairs.
 ~
 S
 #1033
@@ -690,7 +690,7 @@ Islands.  There is not much to the north other then sea, leading to a distant
 City-Port, but looking over the Shikonas Sea to the south you count five 
 other islands.
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D0
 A doorway lies to the north.
 ~
@@ -709,7 +709,7 @@ Islands.  There is not much to the north other then sea, leading to a distant
 City-Port, but looking over the Shikonas Sea to the south you count five 
 other islands.
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D2
 The stairs lead down from that part of the tower.
 ~
@@ -723,7 +723,7 @@ Shikonas Islands.  From where you stand on the beach, you can sea a small
 village through the forest to the south east, A village housing a small tribe
 of native wood elves.&n
 ~
-12 1048576 198656 1 99 6
+10 0 198656 1 99 6
 D2
 The beach continues to the south.
 ~
@@ -742,7 +742,7 @@ Shikonas Islands.  From where you stand on the beach, you can sea a small
 village through the forest to the south east, A village housing a small tribe
 of native wood elves.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 The beach continues to the northern tip of the island.
 ~
@@ -762,7 +762,7 @@ rushing out of their huts to take their children off the village road as they
 see your approach. Although the elves are peacefull and loving race, they can
 be very hostile to intruders.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D1
 The village lies to the east.
 ~
@@ -781,7 +781,7 @@ mothers come rushing out of their huts to take there children back into the
 safety of thier homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D1
 more of the village.
 ~
@@ -805,7 +805,7 @@ mothers come rushing out of thier huts to take their children back into the
 safety of their homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D1
 more of the village.
 ~
@@ -829,7 +829,7 @@ mothers come rushing out of thier huts to take their children back into the
 safety of their homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D2
 A well built hut is to the south.
 ~
@@ -848,7 +848,7 @@ mothers come rushing out of their huts to take there children back into the
 safety of thier homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 more of the village.
 ~
@@ -867,7 +867,7 @@ mothers come rushing out of thier huts to take their children back into the
 safety of their homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 more of the village.
 ~
@@ -886,7 +886,7 @@ mothers come rushing out of thier huts to take their children back into the
 safety of their homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 more of the village.
 ~
@@ -910,7 +910,7 @@ mothers come rushing out of thier huts to take their children back into the
 safety of their homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 more of the village.
 ~
@@ -934,7 +934,7 @@ mothers come rushing out of thier huts to take their children back into the
 safety of their homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D1
 more of the village.
 ~
@@ -953,7 +953,7 @@ mothers come rushing out of thier huts to take their children back into the
 safety of their homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D1
 The village ends to the east.
 ~
@@ -972,7 +972,7 @@ mothers come rushing out of thier huts to take their children back into the
 safety of their homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 A fur trappers hut lies to the north.
 ~
@@ -992,7 +992,7 @@ herbs and bark from surrounding trees.  Furs from both large and small
 wildlife cover the walls and hang from the roof, emitting an unpleasant odor
 into the air.&n
 ~
-12 1048588 0 1 99 0
+10 12 0 1 99 0
 D1
 Not much but forest out there.
 ~
@@ -1015,7 +1015,7 @@ S
 elaborately decorated like that of a high elf leader, it just has a few of the 
 essential pieces of furniture sitting around the hut.&n
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D3
 The village lies to the west,
 ~
@@ -1029,7 +1029,7 @@ made from thin sticks and bark from trees, while the walls are made from a
 wood and clay mixture molded into bricks. The floor is solid dirt as hard as 
 hard as rock.&n
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D0
 The village lies outside the hut.
 ~
@@ -1043,7 +1043,7 @@ made from thin sticks and bark from trees, while the walls are made from a
 wood and clay mixture molded into bricks. The floor is solid dirt as hard as 
 hard as rock.&n
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D0
 The village lies outside the hut.
 ~
@@ -1057,7 +1057,7 @@ mothers come rushing out of thier huts to take their children back into the
 safety of their homes.  Although the elves are peacefull and loving race, they
 can be very hostile to intruders.&n
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 more of the village.
 ~
@@ -1076,7 +1076,7 @@ Shikonas Islands.  From where you stand on the beach, you can sea a small
 village through the forest to the north east, A village housing a small tribe 
 of native wood elves.
 ~
-12 1048576 0 1 99 6
+10 0 0 1 99 6
 D1
 The start of the village lies to the east.
 ~
@@ -1094,7 +1094,7 @@ Flanithar is one of the smaller islands of the Shikonas group, and is mostly
 covered in fields providing excelent crops year after year.  Looming in the 
 south of the island is a large palace, about four stories high.
 ~
-12 1048576 0 1 99 6
+10 0 0 1 99 6
 D1
 The Shikonas Sea is the the east.
 ~
@@ -1112,7 +1112,7 @@ You stand in the middle of the crops planted in the fields of Flanithar Island.
 All kinds of vegetables and herbs grow here, and probably feeds what lies in 
 the big palace to the south of here.
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 The beach lies to the north.
 ~
@@ -1135,7 +1135,7 @@ You stand in the middle of the crops planted in the fields of Flanithar Island.
 All kinds of vegetables and herbs grow here, and probably feeds what lies in 
 the big palace to the south of here.
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D2
 More fields lie to the south.
 ~
@@ -1153,7 +1153,7 @@ You stand in the middle of the crops planted in the fields of Flanithar Island.
 All kinds of vegetables and herbs grow here, and probably feeds what lies in 
 the big palace to the south of here.
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 More fields lie to the north.
 ~
@@ -1172,7 +1172,7 @@ All kinds of vegetables and herbs grow here, and probably feeds what lies in
 the big palace to the south of here.
 The Palace gates stand before you to the south.
 ~
-12 1048576 0 1 99 2
+10 0 0 1 99 2
 D0
 More fields lie to the north.
 ~
@@ -1187,7 +1187,7 @@ D2
 The palace lies to the south.
 ~
 door palace.~
-9 -1 1059
+1 -1 1059
 S
 #1059
 &wInside the Fairy Palace&n~
@@ -1196,12 +1196,12 @@ light.  The inside walls of the place show light colours of red and blue on
 mostly white walls, in much contrast to the dull appearance of the outside 
 of the tower.
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D0
 The fields lie to the north.
 ~
 door ~
-9 -1 1058
+1 -1 1058
 D3
 The palace extends west.
 ~
@@ -1215,7 +1215,7 @@ light.  The inside walls of the place show light colours of red and blue on
 mostly white walls, in much contrast to the dull appearance of the outside 
 of the tower.
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D1
 The enterance to the palace is east.
 ~
@@ -1234,7 +1234,7 @@ light.  The inside walls of the place show light colours of red and blue on
 mostly white walls, in much contrast to the dull appearance of the outside 
 of the tower.
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D0
 The palace extends north.
 ~
@@ -1253,7 +1253,7 @@ light.  The inside walls of the place show light colours of red and blue on
 mostly white walls, in much contrast to the dull appearance of the outside 
 of the tower.
 ~
-12 1048584 0 1 99 0
+10 8 0 1 99 0
 D3
 The palace extends west.
 ~
@@ -1273,7 +1273,7 @@ marble.  The stairway links the upper levels of the palace with the base in a
 semi-hourglass shape.  Expert architecture and magic must of been used to 
 make the shape of this palace stable.
 ~
-12 269485064 0 1 99 0
+10 268436488 0 1 99 0
 D4
 The upper level of the palace.
 ~
@@ -1293,7 +1293,7 @@ mostly white walls, in much contrast to the dull appearance of the outside
 of the tower.  A door lies to in the west wall here, glowing in a bright red 
 light.
 ~
-12 269484040 0 1 99 0
+10 268435464 0 1 99 0
 D0
 The palace extends north.
 ~
@@ -1318,7 +1318,7 @@ mostly white walls, in much contrast to the dull appearance of the outside
 of the tower.  A door lies to in the west wall here, glowing in a bright red 
 light.
 ~
-12 269484040 0 1 99 0
+10 268435464 0 1 99 0
 D2
 The palace extends south.
 ~
@@ -1328,7 +1328,7 @@ D3
 The royal bedroom is west.
 ~
 door~
-9 -1 1066
+1 -1 1066
 S
 #1066
 &pThe Fairy Royal Bedroom&n~
@@ -1337,16 +1337,16 @@ silver.  Breaking up the plain white are a few other light rainbow colours
 that glow and shed the room with light.  A small bed and dressing table lie
 beneath the window on the west wall.
 ~
-12 269484040 0 1 99 0
+10 268435464 0 1 99 0
 D1
 Back to the main hall of the palace.
 ~
 door~
-9 -1 1065
+1 -1 1065
 E
-dressing dresser table~
-The dressing table is closed, it probably contains some really valuable
-jewels or something, nothing major.
+bed~
+The bed looks neatly made, but recently slept in.  There could be something
+under the covers.
 ~
 E
 covers sheets~
@@ -1354,9 +1354,9 @@ A small buldge in the covers of the bed indicates that something might by
 under them...you could try opening them and see.
 ~
 E
-bed~
-The bed looks neatly made, but recently slept in.  There could be something
-under the covers.
+dressing dresser table~
+The dressing table is closed, it probably contains some really valuable
+jewels or something, nothing major.
 ~
 S
 #1067
@@ -1366,7 +1366,7 @@ jewelery.  Two small thrones stand up against the north wall, overlooking
 the Shikonas Sea to the south.  The thrones have been carved from solid 
 marble, and covered with a reddish white colored velvet.
 ~
-12 269484040 0 1 99 0
+10 268435464 0 1 99 0
 D1
 The stairway lies outside the door to the east.
 ~
@@ -1384,7 +1384,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a 
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048576 2048 1 99 7
+10 0 2048 1 99 7
 D1
 Waves and water, as far as the eye can see.
 ~
@@ -1403,7 +1403,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a 
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048576 2048 1 99 7
+10 0 2048 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1432,7 +1432,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a 
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048576 2048 1 99 7
+10 0 2048 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1461,7 +1461,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabbited by natives and small forest creatures.  The sea itself is a
 peacefull blue colour with water as clear as crystal.&n
 ~
-12 1048576 2048 1 99 7
+10 0 2048 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1490,7 +1490,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabbited by natives and small forest creatures.  The sea itself is a
 peacefull blue colour with water as clear as crystal.&n
 ~
-12 1048576 2048 1 99 7
+10 0 2048 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1519,7 +1519,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabbited by natives and small forest creatures.  The sea itself is a
 peacefull blue colour with water as clear as crystal.&n
 ~
-12 1048576 1024 1 99 7
+10 0 1024 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1549,7 +1549,7 @@ inhabbited by natives and small forest creatures.  The sea itself is a
 peacefull blue colour with water as clear as crystal.
 &n
 ~
-12 1048580 0 1 99 7
+10 4 0 1 99 7
 D0
 Land Ho!
 ~
@@ -1568,7 +1568,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a 
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048580 0 1 99 7
+10 4 0 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1587,7 +1587,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabbited by natives and small forest creatures.  The sea itself is a
 peacefull blue colour with water as clear as crystal.&n
 ~
-12 1048580 1024 1 99 7
+10 4 1024 1 99 7
 D1
 Land ho!
 ~
@@ -1607,7 +1607,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabbited by natives and small forest creatures.  The sea itself is a
 peacefull blue colour with water as clear as crystal.&n
 ~
-12 1048580 2048 1 99 7
+10 4 2048 1 99 7
 D1
 Land Ho!
 ~
@@ -1626,7 +1626,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabbited by natives and small forest creatures.  The sea itself is a 
 peacefull blue colour with water as clear as crystal.&n
 ~
-12 1048580 0 1 99 7
+10 4 0 1 99 7
 D1
 Waves and water, as far as the eye can see.
 ~
@@ -1645,7 +1645,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a 
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048580 0 1 99 7
+10 4 0 1 99 7
 D1
 Waves and water, as far as the eye can see.
 ~
@@ -1664,7 +1664,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a 
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048580 0 1 99 7
+10 4 0 1 99 7
 D1
 Land Ho!
 ~
@@ -1684,7 +1684,7 @@ inhabbited by natives and small forest creatures.  The sea itself is a
 peacefull blue colour with water as clear as crystal.
 &n
 ~
-12 1048576 0 1 99 7
+10 0 0 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1713,7 +1713,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabbited by natives and small forest creatures.  The sea itself is a 
 peacefull blue colour with water as clear as crystal.&n
 ~
-12 1048576 0 1 99 7
+10 0 0 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1742,7 +1742,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a 
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048576 0 1 99 7
+10 0 0 1 99 7
 D0
 Waves and water, as far as the eye can see.
 
@@ -1773,7 +1773,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a 
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048576 0 1 99 7
+10 0 0 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1803,7 +1803,7 @@ inhabbited by natives and small forest creatures.  The sea itself is a
 peacefull blue colour with water as clear as crystal.
 &n
 ~
-12 1048576 0 1 99 7
+10 0 0 1 99 7
 D0
 Waves and water, as far as the eye can see.
 ~
@@ -1831,7 +1831,7 @@ You have stumbled on a small path through the thick forest at the back of
 Shikarnith island.  This path is mostly used by the hunters of the village and 
 winds its way in a north east direction through the forsest to the water.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D0
 The path continues through the forest to the north.
 ~
@@ -1854,7 +1854,7 @@ You have stumbled on a small path through the thick forest at the back of
 Shikarnith island.  This path is mostly used by the hunters of the village and 
 winds its way in a north east direction through the forsest to the water.
 ~
-12 1048576 0 1 99 3
+10 0 0 1 99 3
 D0
 The path reaches a beach at the eastern side of the island.
 ~
@@ -1872,7 +1872,7 @@ This small beach at the back of Shikarnith Island is small and sorrounded
 with green forest.  Smoke flows into the air from the native wood elf village 
 to the west of here, and slowly drifts in the currents of wind.
 ~
-12 1048576 0 1 99 6
+10 0 0 1 99 6
 D1
 The Shikonas Sea is east.
 ~
@@ -1891,7 +1891,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048580 0 1 99 7
+10 4 0 1 99 7
 D0
 The sea gets pretty rough that way.
 ~
@@ -1920,7 +1920,7 @@ east of Midgaard.  A number of islands are spread about in the sea, most
 inhabited by natives and small forest creatures.  The sea itself is a
 peaceful blue color with water as clear as crystal.&n
 ~
-12 1048580 0 1 99 7
+10 4 0 1 99 7
 D0
 The sea gets pretty rough that way.
 ~
@@ -1929,7 +1929,7 @@ The sea gets pretty rough that way.
 D1
 ~
 ~
-0 -1 1091
+0 -1 1093
 D2
 The sea gets pretty rough that way.
 ~
@@ -1949,7 +1949,7 @@ seem to run circular and you soon realize that you are being sucked towards
 the middle of a huge whirlpool.  There is no getting out now, the boat is just 
 about to tip sending you flying to a watery grave.&n
 ~
-12 1048576 0 1 99 7
+10 0 0 1 99 7
 D5
 Would it suprise you if down there was DEATH in the wirlpool???
 ~
@@ -1970,7 +1970,7 @@ the center of the wirlpool kicking and screaming.  The currents turn you over
 and over, not knowing which way is up you grab for anything solid...nothing.  
 You come to a realisation that it wont be too long now........
 ~
-12 1048590 0 1 99 6
+10 14 0 1 99 6
 S
 #1093
 &YKansrilla Island Beach&n~
@@ -1979,7 +1979,7 @@ magical forest that covers every part of the island, except the beach you are
 currently standing on.  A peacefull sillence fills this place with no noises of 
 small forest animals and birds as found on all the other islands.
 ~
-12 0 0 1 99 6
+10 0 0 1 99 6
 D1
 The forest leads off to the east.
 ~
@@ -2002,7 +2002,7 @@ You wander about in the magic forest on Kansrilla Island.  Hardly a sound
 comes from forest which suprises you considering the amount of wildlife 
 scuttling in the undergrowth.
 ~
-12 0 0 1 99 3
+10 0 0 1 99 3
 D2
 The forest continues to the south.
 ~
@@ -2020,7 +2020,7 @@ You wander about in the magic forest on Kansrilla Island.  Hardly a sound
 comes from forest which suprises you considering the amount of wildlife 
 scuttling in the undergrowth.
 ~
-12 0 0 1 99 3
+10 0 0 1 99 3
 D0
 The forest breaks into a small beach.
 ~
@@ -2038,7 +2038,7 @@ You wander about in the magic forest on Kansrilla Island.  Hardly a sound
 comes from forest which suprises you considering the amount of wildlife 
 scuttling in the undergrowth.
 ~
-12 0 0 1 99 3
+10 0 0 1 99 3
 D0
 The forest continues north.
 ~
@@ -2063,7 +2063,7 @@ base, then disapearing in a blinding magical light.  Small humanoids dance in
 the air above the shrine, acknowledging your arrival, but not showing any 
 signs of being threatened.
 ~
-12 0 0 1 99 3
+10 0 0 1 99 3
 D0
 The forest continues north.
 ~
@@ -2076,7 +2076,7 @@ S
 protected by the sorrounding islands.. To the south the Shikonas
 Sea awaits, flowing between the peacefull islands.&n
 ~
-12 1048580 4096 1 99 7
+10 4 4096 1 99 7
 D0
 Rougher waters lie to the north.
 ~
@@ -2095,7 +2095,7 @@ nd hazardous, Large ships sail the horizons rocking with the
 waves as they crash onto the harsh coastline.
 &n
 ~
-12 1048580 4096 1 99 7
+10 4 4096 1 99 7
 D0
 The distant towers of Elmpatris lie to the north.
 ~
