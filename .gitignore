@@ -12,4 +12,5 @@ controlscripts/.prodlockfile
 controlscripts/.testlockfile
 */lib/players
 */logs/*
+*/lib/rentfiles/*
 controlscripts/mudrunning.txt
