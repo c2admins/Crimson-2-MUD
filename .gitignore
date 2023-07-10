@@ -13,4 +13,6 @@ controlscripts/.testlockfile
 */lib/players
 */logs/*
 */lib/rentfiles/*
-controlscripts/mudrunning.txt
+*/lib/areas.bak/*
+*/lib/areas/automated_port_backups/
+controlscripts/mudrunning.tx*
