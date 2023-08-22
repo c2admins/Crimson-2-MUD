@@ -3,14 +3,16 @@
 #
 CHANGELOG
 
-Latest Changes as of July 9, 2023
+Latest Changes as of Aug 21, 2023
 
 Zone changes:
-Midgaard: Added Quest Equipment Donation Room(#3086) east of donation room
+Midgaard: Fixed hidden tunnel near northern gates
+Starwarsownuall: Renamed to ThievesDen
 
 Code changes:
-Changes "Elsewhere" spell to prevent NPCs from entering NO_MOB rooms
-Added 'Quest donate' command
+Changes Idle timeout and droplink timeout
+Changed rushhour to happen every 30-60 minutes
+Changed rush hour duration to be between 5-20 minutes
 
 
 See also: HELP_UPDATE
@@ -27,15 +29,14 @@ Email: c2admins@gmail.com
 Mudmail: Pythias
 Discord: check crimson2.com for invite link
 
-Below are the updates as of Jul 9, 2023:
+Below are the updates as of Aug 21, 2023:
 
 
 NEW HELP FILES
-"QUEST_DONATE"
-"ALL"
+None
 
 CHANGED HELP FILES
-"QUEST_EQ"
+"RUSH"
 
 #
 AUCTION
@@ -4813,7 +4814,7 @@ See Also: GROUP RUSH
 
 Rush is a special aspect of Crimson 2 Mud that allows you to earn additional 
 experience for the same kills for a brief time.  There is a rush period every 
-1.5 to 2 hours lasting from 1 until 10 minutes randomly.
+30 to 60 minutes lasting from 5 to 20 minutes randomly.
 
 EXP Multiplier:
 Rush Hour - 2x EXP from kills
@@ -4825,7 +4826,7 @@ is as follows:
 10 minute rush: 100 mil gold
 20 minute rush: 200 mil gold
 
-*NOTE: Rushes may only be purchases if there are at least 25 minutes remaining
+*NOTE: Rushes may only be purchases if there are at least 20 minutes remaining
        before the normal in game rush. You type rushtime to see this.
        example: Next rush in 0 hours 49 minutes and 40 seconds.
        

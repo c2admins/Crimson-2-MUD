@@ -28,9 +28,9 @@
 
 #define CANT_IDLE_IN_FIGHT		1
 
-#define AVAT_IDLE_TIMEOUT					19
-#define MORT_IDLE_TIMEOUT					11	/* 12 in ticks */
-#define DROPLINK_TIMEOUT					29	/* 24 in ticks */
+#define AVAT_IDLE_TIMEOUT					30
+#define MORT_IDLE_TIMEOUT					15	/* 12 in ticks */
+#define DROPLINK_TIMEOUT					60	/* 24 in ticks */
 
 bool li1000_can_see_char(struct char_data * ch, struct char_data * victim, int lv_flag)
 {
