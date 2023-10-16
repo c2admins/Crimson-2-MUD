@@ -1330,7 +1330,7 @@ const char *affected_bits[] =
 	"BREATHWATER",		/* not used , I think... */
 	"DARKSIGHT",
 	"REGENERATION",
-	"DREAMSIGHT",
+	"BEASTIAL_TRANSFORM",
 	"AID",
 	"MAGIC_RESIST",
 	"MAGIC_IMMUNE",

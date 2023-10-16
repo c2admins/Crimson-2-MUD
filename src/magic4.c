@@ -2157,11 +2157,11 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 
 			  CHECK_FOR_NO_FIGHTING();
 			  CHECK_FOR_CHARM();
-			  CHECK_TRANSFORMS();
+			  //CHECK_TRANSFORMS();
 
 
-			if (ha1375_affected_by_spell(victim, SPELL_BEAST_TRANSFORM)) {
-				send_to_char("Nothing seems to happen.\n\r", ch);
+			if (IS_AFFECTED(ch, AFF_TRANSFORMED)) {
+				send_to_char("Your body is already affected by a transformation.\n\r", ch);
 				return;
 			}
 			if (ch->nextcast > 0) {
@@ -2222,11 +2222,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = ((GET_LEVEL(ch) / 5) - 1);
 						ha1300_affect_to_char(victim, &af);
 
-						af.modifier = -1;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_BREATHWATER;
-						ha1300_affect_to_char(victim, &af);
-
 						af.location = APPLY_MANA;
 						af.modifier = ((GET_LEVEL(ch) / 2) + 10);
 						ha1300_affect_to_char(victim, &af);
@@ -2234,7 +2229,11 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_HITROLL;
 						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
-
+						
+						af.modifier = -1;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_BREATHWATER;
+						ha1300_affect_to_char(victim, &af);
 						return;
 					}
 					else if (btnum == 2) {
@@ -2268,7 +2267,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_HITROLL;
 						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
 						ha1300_affect_to_char(victim, &af);
-
 						return;
 					}
 				}
@@ -2294,11 +2292,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = ((GET_LEVEL(ch) / 5) - 1);
 						ha1300_affect_to_char(victim, &af);
 
-						af.modifier = -1;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_BREATHWATER;
-						ha1300_affect_to_char(victim, &af);
-
 						af.location = APPLY_MANA;
 						af.modifier = ((GET_LEVEL(ch) / 2) + 10);
 						ha1300_affect_to_char(victim, &af);
@@ -2306,7 +2299,11 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_HITROLL;
 						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
-
+						
+						af.modifier = -1;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_BREATHWATER;
+						ha1300_affect_to_char(victim, &af);
 						return;
 					}
 					else if (btnum == 2) {
@@ -2340,7 +2337,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_HITROLL;
 						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
 						ha1300_affect_to_char(victim, &af);
-
 						return;
 					}
 					else if (btnum == 3) {
@@ -2366,11 +2362,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = (GET_LEVEL(ch) + 10);
 						ha1300_affect_to_char(victim, &af);
 
-						af.duration = lv_time;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_FLY;
-						ha1300_affect_to_char(victim, &af);
-
 						af.location = APPLY_DAMROLL;
 						af.modifier = ((GET_LEVEL(ch) / 8));
 						ha1300_affect_to_char(victim, &af);
@@ -2379,6 +2370,11 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
 
+						af.modifier = -1;
+						af.duration = lv_time;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_FLY;
+						ha1300_affect_to_char(victim, &af);
 						return;
 					}
 				}
@@ -2389,7 +2385,7 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						if (IS_AFFECTED(victim, AFF_FLY)) {
 						ha1350_affect_from_char(victim, SPELL_FLY);
 						}
-						send_to_char("You transform into a drake!\r\n", victim);
+												send_to_char("You transform into a drake!\r\n", victim);
 						act("$n transforms into a drake!", FALSE, victim, 0, 0, TO_ROOM);
 						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
 
@@ -2408,16 +2404,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = (GET_LEVEL(ch) / 15);
 						ha1300_affect_to_char(victim, &af);
 
-						af.duration = lv_time;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_FLY;
-						ha1300_affect_to_char(victim, &af);
-
-						af.modifier = -1;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_BREATHWATER;
-						ha1300_affect_to_char(victim, &af);
-
 						af.location = APPLY_MANA;
 						af.modifier = (GET_LEVEL(ch) + 10);
 						ha1300_affect_to_char(victim, &af);
@@ -2433,7 +2419,16 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_DAMROLL;
 						af.modifier = (GET_LEVEL(ch) / 10);
 						ha1300_affect_to_char(victim, &af);
-
+						
+						af.modifier = -1;
+						af.duration = lv_time;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_FLY;
+						ha1300_affect_to_char(victim, &af);
+								
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_BREATHWATER;
+						ha1300_affect_to_char(victim, &af);
 						return;
 					}
 					else if (btnum == 2) {
@@ -2456,11 +2451,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = ((GET_LEVEL(ch) / 5) - 1);
 						ha1300_affect_to_char(victim, &af);
 
-						af.modifier = -1;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_BREATHWATER;
-						ha1300_affect_to_char(victim, &af);
-
 						af.location = APPLY_MANA;
 						af.modifier = ((GET_LEVEL(ch) / 2) + 10);
 						ha1300_affect_to_char(victim, &af);
@@ -2468,7 +2458,11 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_HITROLL;
 						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
-
+						
+						af.modifier = -1;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_BREATHWATER;
+						ha1300_affect_to_char(victim, &af);
 						return;
 					}
 					else if (btnum == 3) {
@@ -2494,11 +2488,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = (GET_LEVEL(ch) + 10);
 						ha1300_affect_to_char(victim, &af);
 
-						af.duration = lv_time;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_FLY;
-						ha1300_affect_to_char(victim, &af);
-
 						af.location = APPLY_DAMROLL;
 						af.modifier = ((GET_LEVEL(ch) / 8));
 						ha1300_affect_to_char(victim, &af);
@@ -2507,6 +2496,11 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
 
+						af.modifier = -1;
+						af.duration = lv_time;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_FLY;
+						ha1300_affect_to_char(victim, &af);
 						return;
 					}
 					else if (btnum == 4) {
@@ -2540,7 +2534,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_HITROLL;
 						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
 						ha1300_affect_to_char(victim, &af);
-
 						return;
 					}
 				}
@@ -2548,7 +2541,7 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 					btnum = (number(1, 5));
 
 					if (btnum == 1 || btnum == 5) {
-						send_to_char("You transform into a drake!\r\n", victim);
+												send_to_char("You transform into a drake!\r\n", victim);
 						act("$n transforms into a drake!", FALSE, victim, 0, 0, TO_ROOM);
 						send_to_char("Your body is drained from the transformation and will take some time to rejuvenate.\r\n", ch);
 
@@ -2567,16 +2560,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = (GET_LEVEL(ch) / 15);
 						ha1300_affect_to_char(victim, &af);
 
-						af.duration = lv_time;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_FLY;
-						ha1300_affect_to_char(victim, &af);
-
-						af.modifier = -1;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_BREATHWATER;
-						ha1300_affect_to_char(victim, &af);
-
 						af.location = APPLY_MANA;
 						af.modifier = (GET_LEVEL(ch) + 10);
 						ha1300_affect_to_char(victim, &af);
@@ -2592,7 +2575,16 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_DAMROLL;
 						af.modifier = (GET_LEVEL(ch) / 10);
 						ha1300_affect_to_char(victim, &af);
-
+						
+						af.modifier = -1;
+						af.duration = lv_time;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_FLY;
+						ha1300_affect_to_char(victim, &af);
+								
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_BREATHWATER;
+						ha1300_affect_to_char(victim, &af);
 						return;
 					}
 					else if (btnum == 2) {
@@ -2615,11 +2607,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = ((GET_LEVEL(ch) / 5) - 1);
 						ha1300_affect_to_char(victim, &af);
 
-						af.modifier = -1;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_BREATHWATER;
-						ha1300_affect_to_char(victim, &af);
-
 						af.location = APPLY_MANA;
 						af.modifier = ((GET_LEVEL(ch) / 2) + 10);
 						ha1300_affect_to_char(victim, &af);
@@ -2627,7 +2614,11 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_HITROLL;
 						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
-
+						
+						af.modifier = -1;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_BREATHWATER;
+						ha1300_affect_to_char(victim, &af);
 						return;
 					}
 					else if (btnum == 3) {
@@ -2650,11 +2641,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = (GET_LEVEL(ch) + 10);
 						ha1300_affect_to_char(victim, &af);
 
-						af.duration = lv_time;
-						af.location = APPLY_NONE;
-						af.bitvector = AFF_FLY;
-						ha1300_affect_to_char(victim, &af);
-
 						af.location = APPLY_DAMROLL;
 						af.modifier = ((GET_LEVEL(ch) / 8));
 						ha1300_affect_to_char(victim, &af);
@@ -2663,6 +2649,11 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.modifier = ((GET_LEVEL(ch) / 8) - 1);
 						ha1300_affect_to_char(victim, &af);
 
+						af.modifier = -1;
+						af.duration = lv_time;
+						af.location = APPLY_NONE;
+						af.bitvector = AFF_FLY;
+						ha1300_affect_to_char(victim, &af);
 						return;
 					}
 					else if (btnum == 4) {
@@ -2696,7 +2687,6 @@ void spell_beast_transform(sbyte level, struct char_data * ch,
 						af.location = APPLY_HITROLL;
 						af.modifier = ((GET_LEVEL(ch) / 10) - 1);
 						ha1300_affect_to_char(victim, &af);
-
 						return;
 					}
 				}

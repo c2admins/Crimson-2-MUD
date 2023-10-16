@@ -1432,8 +1432,7 @@ struct char_file_u {
 	long descriptor_flag1;
 	char email_name[36];
 	char filler[200];
-	int nextcast;		/* Time before next casting of bestial
-				 * transformation */
+	int nextcast;		/* Time before next casting of bestial transformation */
 
 	int jailed;
 	/* Some spares, so we don't have to update the players file for a while */
