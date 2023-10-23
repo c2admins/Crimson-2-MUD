@@ -78,8 +78,8 @@ int local_get(struct char_data * ch, struct obj_data * obj_object,
 	if (sub_object) {
 		sprintf(buffer, "(obj) do_get %s - %s (%d) from %s", GET_REAL_NAME(ch), OBJS(obj_object, ch), GET_OBJ_VNUM(obj_object), OBJS(sub_object, ch));
 		main_log(buffer);
-		// Hide White potions from log files
-		if (GET_OBJ_VNUM(obj_object) != 3465){
+		// Hide healing potions from log files
+		if ((GET_OBJ_VNUM(obj_object) != 3465) && (GET_OBJ_VNUM(obj_object) != 12637) && (GET_OBJ_VNUM(obj_object) != 3428)){
 		spec_log(buffer, EQUIPMENT_LOG);
 		}
 
@@ -107,7 +107,7 @@ int local_get(struct char_data * ch, struct obj_data * obj_object,
 	else {
 		sprintf(buffer, "(obj) do_get %s - %s from floor ROOM: %d", GET_REAL_NAME(ch), OBJS(obj_object, ch), world[ch->in_room].number);
 		// Hide White potions from log files
-		if (GET_OBJ_VNUM(obj_object) != 3465){
+		if ((GET_OBJ_VNUM(obj_object) != 3465) && (GET_OBJ_VNUM(obj_object) != 12637) && (GET_OBJ_VNUM(obj_object) != 3428)){
 		main_log(buffer);
 		spec_log(buffer, EQUIPMENT_LOG);
 		}
@@ -791,10 +791,12 @@ void do_donate(struct char_data * ch, char *argument, int cmd)
 		argument += 4;
 
 
-	if (IS_NPC(ch) &&
-	    !IS_AFFECTED(ch, AFF_CHARM))
-		return;
-
+	
+	if (IS_NPC(ch) && !IS_AFFECTED(ch, AFF_CHARM)){
+		if (mob_index[ch->nr].virtual != MOB_QUESTMAN)
+			return;
+	}
+	
 	argument = one_argument(argument, arg);
 
 	if (is_number(arg)) {
@@ -1043,7 +1045,7 @@ void do_drop(struct char_data * ch, char *argument, int cmd)
 				sprintf(buffer, "(obj) do_drop %s - %s ROOM: %d", GET_REAL_NAME(ch), OBJS(tmp_object, ch),
 					world[ch->in_room].number);
 				// Hide White potions from log files
-				if (GET_OBJ_VNUM(tmp_object) != 3465){
+				if ((GET_OBJ_VNUM(tmp_object) != 3465) && (GET_OBJ_VNUM(tmp_object) != 12637) && (GET_OBJ_VNUM(tmp_object) != 3428)){
 				main_log(buffer);
 				spec_log(buffer, EQUIPMENT_LOG);
 				}
@@ -1116,7 +1118,7 @@ void do_drop(struct char_data * ch, char *argument, int cmd)
 		sprintf(buffer, "(obj) do_drop %s - %s ROOM: %d", GET_REAL_NAME(ch),
 			OBJS(tmp_object, ch), world[ch->in_room].number);
 		// Hide White potions from log files
-		if (GET_OBJ_VNUM(tmp_object) != 3465){
+		if ((GET_OBJ_VNUM(tmp_object) != 3465) && (GET_OBJ_VNUM(tmp_object) != 12637) && (GET_OBJ_VNUM(tmp_object) != 3428)){
 		main_log(buffer);
 		spec_log(buffer, EQUIPMENT_LOG);
 		}
@@ -1287,7 +1289,7 @@ void do_put(struct char_data * ch, char *argument, int cmd)
 			 * return; } */
 			sprintf(buffer, "(obj) do_put %s - %s in %s", GET_REAL_NAME(ch), OBJS(obj_object, ch), OBJS(sub_object, ch));
 			// Hide White potions from log files
-			if (GET_OBJ_VNUM(obj_object) != 3465){
+			if ((GET_OBJ_VNUM(obj_object) != 3465) && (GET_OBJ_VNUM(obj_object) != 12637) && (GET_OBJ_VNUM(obj_object) != 3428)){
 			main_log(buffer);
 			spec_log(buffer, EQUIPMENT_LOG);
 			}
@@ -1300,7 +1302,7 @@ void do_put(struct char_data * ch, char *argument, int cmd)
 		else {
 			sprintf(buffer, "(obj) do_put %s - %s in %s", GET_REAL_NAME(ch), OBJS(obj_object, ch), OBJS(sub_object, ch));
 			// Hide White potions from log files
-			if (GET_OBJ_VNUM(obj_object) != 3465){
+			if ((GET_OBJ_VNUM(obj_object) != 3465) && (GET_OBJ_VNUM(obj_object) != 12637) && (GET_OBJ_VNUM(obj_object) != 3428)){
 			main_log(buffer);
 			spec_log(buffer, EQUIPMENT_LOG);
 			}
@@ -1611,7 +1613,7 @@ void do_give(struct char_data * ch, char *argument, int cmd)
 
 	sprintf(buf, "(obj) do_give: %s - %s to %s", GET_REAL_NAME(ch), OBJS(obj, ch), GET_REAL_NAME(vict));
 	// Hide White potions from log files
-	if (GET_OBJ_VNUM(obj) != 3465){
+	if ((GET_OBJ_VNUM(obj) != 3465) && (GET_OBJ_VNUM(obj) != 12637) && (GET_OBJ_VNUM(obj) != 3428)){
 	main_log(buf);
 	spec_log(buf, EQUIPMENT_LOG);
 	}

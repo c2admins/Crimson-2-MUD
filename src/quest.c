@@ -468,7 +468,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
 
 	/* Check for wrong option */
 	if (lv_choice < 1) {
-		send_to_char("Quest commands: Points, Info, Time, Request, Complete, List, Extend, Buy, Refuse, Transform.\r\n", ch);
+		send_to_char("Quest commands: Points, Info, Time, Request, Complete, List, Extend, Buy, Refuse, Transform, Donate.\r\n", ch);
 		return;
 	}
 
@@ -992,6 +992,7 @@ void qu1100_do_quest(struct char_data * ch, char *arg, int cmd)
                         wi2700_do_load(questman, buf, CMD_QUEST);
                         sprintf(buf, "obj %s", GET_REAL_NAME(ch));
                         do_give(questman, buf, CMD_QUEST);
+						do_donate(questman, "obj", CMD_QUEST_DONATE);
                         break;
 			}
 		case 14:
