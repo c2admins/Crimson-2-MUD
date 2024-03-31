@@ -8,14 +8,14 @@ DESC=PLDN
 # Enter three lines of text displayed when view details 80bytes/per
 TEXT1=Paladins are a combination figter/cleric.  Because of this, they
 TEXT2=aquire fighter skills and spells at higher levels than true  
-TEXT3=warriors/clerics. Must maintain good alignment.
+TEXT3=warriors/clerics. This class suffers is not good or evil aligned.
 TEXT4=Chance for bonus healing and melee damage starting at level 30.
 ADJHIT=130
 ADJMANA=110
 ADJMOVE=110
 THACO 1 1
 # alignment must be EVIL, NORMAL, GOOD
-ALIGNMENT=GOOD
+ALIGNMENT=NORMAL
 # class must be MAGE, CLERIC, FIGHTER, THIEF
 CLASS=FIGHTER
 # skill/spell adjustments
@@ -23,6 +23,8 @@ SKILL_MIN_LEVEL=SPELL_DETECT_EVIL 1
 SKILL_MIN_LEVEL=SKILL_SLASH 1 
 SKILL_MIN_LEVEL=SKILL_PIERCE 2
 SKILL_MIN_LEVEL=SKILL_BLUDGEON 3
+SKILL_MIN_LEVEL=SPELL_HOLY_HEALING 4
+SKILL_MIN_LEVEL=SPELL_ENERGY_DRAIN 4
 SKILL_MIN_LEVEL=SPELL_DISPEL_EVIL 5 
 SKILL_MIN_LEVEL=SKILL_KICK 7
 SKILL_MIN_LEVEL=SPELL_PROTECT_FROM_EVIL 10 
@@ -37,7 +39,6 @@ SKILL_MIN_LEVEL=SPELL_SILENCE 22
 SKILL_MIN_LEVEL=SKILL_THIRD 23
 SKILL_MIN_LEVEL=SPELL_HEAL_MINOR 24
 SKILL_MIN_LEVEL=SKILL_HUNT 25
-SKILL_MIN_LEVEL=SPELL_HOLY_HEALING 29
 SKILL_MIN_LEVEL=SKILL_RAGE 30
 SKILL_MIN_LEVEL=SPELL_HEAL_MEDIUM 34
 SKILL_MIN_LEVEL=SPELL_AID 37
