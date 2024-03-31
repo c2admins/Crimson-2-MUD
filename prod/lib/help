@@ -9,7 +9,10 @@ Zone changes:
 
 
 Code changes:
-N/A
+Paladin - Removed good align requirement. Now must maintain strong evil or good
+align. Gave Energy Drain and Holy Healing at level 4 to help with this.
+Druid - Wrath of Nature updated to be always area effect. Thornwrack adjusted to
+be a backstab like spell in power level. This may need modified for balancing. 
 
 See also: HELP_UPDATE
 
@@ -33,7 +36,10 @@ Castle of the White Flame
 Helms Deep
 
 CHANGED HELP FILES
-N/A
+Thornwrack
+Wrath of Nature
+Race RESTRICTIONS
+
 
 #
 AUCTION
@@ -621,7 +627,7 @@ Updated_classes
 4.  Warrior
 5.  Bard  (thief)
 6.  Priest  (good cleric)
-7.  Paladin  (good fighter)
+7.  Paladin  (cleric like fighter)
 8.  Druid  (nature mage)
 9.  Eldritch Knight  (mage/fighter)
 10. Monk  (fighter)
@@ -6106,11 +6112,12 @@ See Also: FIREBALL, FIRESTORM
 Usage       : cast 'thornwrack' <victim>
 Accumulative: -
 Duration    : Instantaneous
-Dam         : leveld10 + 6*level
+Dam         : (level/2)d6 + 6*level
 MaxDam      : None.
 Save        : Versus spell for half damage.
 
-You calls upon thorny vines to constrict your enemies
+You calls upon thorny vines to constrict your enemies. Damage is multiplied
+using the backstab multiplier.
 **NOTE: This can not be cast during combat
 
 See Also: NEEDLESTORM, SPORECLOUD, and WRATH OF NATURE
@@ -6125,6 +6132,7 @@ MaxDam      : 30d14 + 4*level
 Save        : Versus spell for half damage.
 
 A hail of needles rain down upon your victim.
+Note: This can effect all enemies when indoors.
 
 See Also: THORNWRACK, SPORECLOUD, and WRATH OF NATURE
 
@@ -6138,7 +6146,7 @@ MaxDam      : 24d6 + 2*level
 Save        : Versus spell for half damage.
 
 You fill the room with a cloud or poisonous spores.
-This can affect all enemies in the room
+Note: This can affect all enemies when indoors
 
 See Also: THORNWRACK, NEEDLESTORM, and WRATH OF NATURE
 
@@ -6163,7 +6171,7 @@ MaxDam      : None
 Save        : Versus spell for half damage.
 
 You unleash nature's wrath upon your enemies.
-This can effect all enemies in a room.
+This effects all enemies in a room.
 
 See Also: THORNWRACK, NEEDLESTORM, and SPORECLOUD
 
@@ -8831,9 +8839,9 @@ ANTI-WARRIOR        - warrior class characters/mobs can't use it
 ANTI-PALADIN        - paladin class characters/mobs can't use it
 ANTI-PRIEST         - priest class characters/mobs can't use it
 ANTI-MONK           - monk class characters/mobs can't use it
-ANTI-DRUID          - DRUID class characters/mobs can't use it
-ANTI-ELDRITCHKNIGHT - paladin class characters/mobs can't use it
-ANTI-DRAGON         - dragonkin class characters/mobs can't use it
+ANTI-DRUID          - druid class characters/mobs can't use it
+ANTI-ELDRITCHKNIGHT - eldritch knight class characters/mobs can't use it
+ANTI-DRAGON         - Dragonkin race characters/mobs can't use it
 GOOD                -  doesn't do much of anything
 NORENT              - You can't rent with the item.
 MINLVL10            - characters under 10th level can not use
@@ -9696,9 +9704,7 @@ See Also: READ WRITE
 #
 "RESTRICTED CLASSES" RESTRICTIONS
 
-There are some race and class restrictions. Evil races can't be Paladins.
-
-Demon, Ravshi, and Drow Elf are not able to be Paladin, due to their evilness.
+There are not currently and race or class restrictions.
 
 SEE ALSO: CLASS, RACE
 

@@ -974,12 +974,7 @@ int check_class_race(int class, int race)
 		*/
 	case 7:
 		//Demon
-			switch (class) {
-		case 7:
-			return 0;
-		default:
-			return 1;
-		}
+		return 1;
 		//Old Class Restrictions
 		/*
 			switch (class) {
@@ -1103,12 +1098,7 @@ int check_class_race(int class, int race)
 			return 1;
 	case 16:
 		//Drow Elf
-			switch (class) {
-		case 7:
-			return 0;
-		default:
 			return 1;
-		}
 		//Old Class Restrictions
 		/*
 			switch (class) {
@@ -1136,7 +1126,7 @@ int check_class_race(int class, int race)
 		*/
 	case 18:
 		//Half Orc
-			return 1;
+		return 1;
 	case 19:
 		//Darkling
 		return 1;
@@ -1235,12 +1225,7 @@ int check_class_race(int class, int race)
 		*/
 	case 25:
 		//Ravshi
-			switch (class) {
-		case 7:
-			return 0;
-		default:
-			return 1;
-		}
+		return 1;
 		//Old Class Restrictions
 		/*
 			switch (class) {

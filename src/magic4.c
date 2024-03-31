@@ -1469,13 +1469,16 @@ void spell_thornwrack(sbyte level, struct char_data * ch,
 			if (magic_fails(ch, victim))
 				  return;
 
-			  dam = dice(level, 10) + (6 * level);
+			  dam = dice(level/2, 6) + (6 * level);
 
 			if (number(1, 101) <= 8 && GET_CLASS(ch) == CLASS_DRUID && GET_LEVEL(ch) >= 30) {
 				//Random critical damage for druid
 				dam *= 2;
 				send_to_char("&R*&yCRITICAL&R*&n ", ch);
 			}
+			
+			//Druid equivalent to backstab
+				dam *= backstab_mult[GET_LEVEL(ch)];
 
 			if (saves_spell(ch, victim, SAVING_SPELL))
 				  dam >>= 1;
@@ -2134,12 +2137,6 @@ void spell_wrath_of_nature(sbyte level, struct char_data * ch,
 					}
 					else {
 						DAMAGE(ch, tmp_victim, adj_dam, SPELL_WRATH_OF_NATURE);
-					}
-
-					/* WE'VE HIT ONE PERSON, IF NOT INDOORS
-					 * GET OUT */
-					if (!IS_SET(world[ch->in_room].room_flags, RM1_INDOORS)) {
-						return;
 					}
 
 				}	/* END OF do_attack */

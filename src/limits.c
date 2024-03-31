@@ -506,7 +506,17 @@ int li1800_hit_gain(struct char_data * ch)
 			}
 		}
 		else {
+			if (GET_CLASS(ch) == CLASS_PALADIN) {
+				if ((GET_ALIGNMENT(ch) >= -500) && (GET_ALIGNMENT(ch) <= 500)) {
+				gain = -5; 
+				}
+				if (gain < 0) {
+				send_to_char("You suffer because of alignment.\r\n", ch);
+				}
+			}
+			else {
 			gain += gain >> 1;
+		}
 		}
 	}
 
@@ -790,6 +800,9 @@ void li2200_gain_exp(struct char_data * ch, int gain)
 		}
 
 		/* WE ADVANCED */
+		/*
+		If 
+		*/
 		if (i > orig_lev) {
 			GET_LEVEL(ch) = i;
 			GET_EXP(ch) = LEVEL_EXP(i - 1) + 1;
