@@ -696,7 +696,7 @@ a fresh coat to his walls which look recently painted.  He is a very large
 beast and not very inviting.
 ~
 385034 32769 136249393 136 -750 S
-48 -20 -24 20d100+50000 20d20+65
+48 -5 -24 20d100+35000 15d15+65
 4000000 2000000
 8 8 1
 0 4 21 22 20 21 20 16
@@ -728,7 +728,7 @@ surroundings are a putrid shade of jaundice.  You can feel sickness and death
 eminating from the creature and his room.
 ~
 385034 32769 136249393 136 -850 S
-48 -20 -24 20d100+50000 20d20+65
+48 -5 -24 20d100+35000 15d15+65
 4000000 2000000
 8 8 1
 0 4 22 22 20 19 17 18
@@ -760,7 +760,7 @@ her mind.  She lost her lover to another archfiend and does not trust anyone.
 She sees you as someone who can take what little she has left.
 ~
 319498 32769 136249393 67109000 -900 S
-48 -20 -24 20d100+50000 20d20+65
+48 -5 -24 20d100+35000 15d15+65
 4000000 2000000
 8 8 2
 0 4 21 21 20 19 20 17
@@ -784,7 +784,7 @@ soul.  She posesses a greatness the other archfiends do not.  She holds both
 good and evil within her and perhaps she will spare your life...
 ~
 319498 32769 136249393 603979912 -100 S
-48 -20 -24 20d100+50000 20d20+65
+48 -5 -24 20d100+35000 15d15+65
 3500000 2000000
 8 8 2
 0 4 22 23 21 20 17 16
@@ -822,7 +822,7 @@ the biggest plotter in House Zalmynk.  Perhaps she has intentions to run it
 one day.  Her black mood consumes you and her eyes bore through you.
 ~
 319498 32769 136249393 200 -900 S
-48 -20 -24 20d100+50000 20d20+65
+48 -5 -24 20d100+35000 15d15+65
 4000000 2000000
 8 8 2
 0 4 22 22 20 19 18 18
@@ -846,7 +846,7 @@ the other archfiends.  In his eyes the tumult of House Zalmynk spawns.  He
 is a creature that builds fear in the hearts of those most noble.
 ~
 319498 32769 136249393 67109064 -1000 S
-48 -20 -24 20d100+50000 20d20+65
+48 -5 -24 20d100+35000 15d15+65
 3500000 2000000
 8 8 1
 0 4 22 21 21 21 19 18

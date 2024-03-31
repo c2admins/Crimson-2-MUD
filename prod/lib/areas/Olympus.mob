@@ -10,7 +10,7 @@ every step. His body is battle scared from the centuries of guarding the portal
 doors to Olympus.&n
 ~
 1082392586 1 136249361 3145868 -1000 S
-47 0 -30 10d1+22000 40d40+99
+47 0 -30 10d1+22000 25d10+99
 2500000 1400000
 8 8 0
 24 0 26 18 16 14 24 11
@@ -45,7 +45,7 @@ of one of the many beasts he has slain. He looks over your once and said let us
 return to the fray.&n
 ~
 1082396746 32769 136249361 1075855502 1000 S
-48 0 -30 100d1+50000 35d35+55
+48 0 -30 100d1+50000 25d30+55
 2500000 2000000
 8 8 0
 1 0 25 25 25 25 25 25
@@ -185,7 +185,7 @@ thought.As you step closer he warns you turn back while you still can for only y
 death will come about on this day.&n
 ~
 1115951178 32769 136249361 1075855502 0 S
-48 0 -30 100d1+50000 37d35+60
+48 0 -30 100d1+50000 35d30+55
 3000000 2000000
 8 8 0
 1 0 25 25 25 25 25 25
@@ -327,7 +327,7 @@ exploits with the mortal women. She wields no weapons just has a robe and
 jewel encrusted crown on her head.
 ~
 1082449994 32769 136249393 2097288 -1000 S
-46 0 -25 1d50+20000 40d35+80
+46 0 -25 1d50+20000 35d25+55
 1750000 950000
 8 8 2
 0 0 24 20 20 22 17 19
@@ -359,7 +359,7 @@ Aphrodite. This resulted in the birth of Erichthonios.&n
 
 ~
 1149505610 4227073 136249361 1075855502 -750 S
-48 0 -30 100d1+50000 55d55+75
+48 0 -30 100d1+50000 30d30+55
 3000000 2000000
 8 8 1
 1 4 25 25 25 25 25 25
@@ -421,7 +421,7 @@ women, including the lovely goddess &YAphrodite&w.  Together they gave
 life to Eros, who is also known as Cupid.&n
 ~
 75759690 4227073 136249361 1141113260 -1000 S
-48 0 -40 1d1+34999 42d42+99
+48 0 -40 1d1+34999 40d35+99
 3000000 2000000
 8 8 1
 24 4 25 25 25 25 25 25
@@ -449,7 +449,7 @@ the most beautiful goddess. To settle the argument, Paris was choosen to award t
 prize. He chose Aphrodite&n
 ~
 1149501450 4227073 136249361 16552 1000 S
-48 1 -30 100d1+30000 40d20+80
+48 1 -30 100d1+30000 35d20+20
 2750000 1500000
 8 8 2
 24 6 21 20 20 20 19 18
@@ -478,7 +478,7 @@ spear called a trident.
 &n
 ~
 1166278730 4227073 136249361 16777384 -750 S
-48 0 -40 20d1+50000 50d50+50
+48 0 -40 20d1+50000 40d20+50
 3000000 2000000
 8 8 1
 0 0 25 17 15 19 25 12
@@ -498,7 +498,7 @@ associated him with justice and they thought he punished those who did wrong and
 who did good.&n
 ~
 1082396746 32769 136249361 1075855502 0 S
-48 -20 -40 1d1+59999 40d40+75
+48 -20 -40 1d1+59999 40d20+75
 5000000 2000000
 8 8 1
 24 0 26 25 25 25 25 25

@@ -3,17 +3,13 @@
 #
 CHANGELOG
 
-Latest Changes as of Aug 21, 2023
+Latest Changes as of March 31, 2024
 
 Zone changes:
-Midgaard: Fixed hidden tunnel near northern gates
-Starwarsownuall: Renamed to ThievesDen
+
 
 Code changes:
-Changes Idle timeout and droplink timeout
-Changed rushhour to happen every 30-60 minutes
-Changed rush hour duration to be between 5-20 minutes
-
+N/A
 
 See also: HELP_UPDATE
 
@@ -29,14 +25,15 @@ Email: c2admins@gmail.com
 Mudmail: Pythias
 Discord: check crimson2.com for invite link
 
-Below are the updates as of Aug 21, 2023:
+Below were updated as of March 31, 2024:
 
 
 NEW HELP FILES
-None
+Castle of the White Flame
+Helms Deep
 
 CHANGED HELP FILES
-"RUSH"
+N/A
 
 #
 AUCTION
@@ -2465,6 +2462,17 @@ the ability to teleport to the Island of Greece and then climb up the mountain.
 
 Goto Room: 15650
 
+#
+"Castle of the White Flame" "White Flame"
+
+Suggested levels: Avatar         Align:  Good
+
+Go North out of Midgaard until you reach the Plains, then go south until the
+Rolling hills. Turn east and continue that way until you approach a small 
+glade. Take the small dirt road south and west until you reach a small river.
+Follow the river until it connects to the Great River Yansu. Continue on the
+Yansu river until it connects to the Shikonas Sea. Once yeah reach the island,
+continue east-northeast until you approach the Castle gates.
 
 
 #
@@ -3002,6 +3010,15 @@ mountain pass at the southernmost border of the Kingdom of Midgaard.
 From here, go up into the Elfin Citadel. There are tales of a powerful
 weapon that can be obtained here. You can find books with information
 about this blade.
+
+#
+"HelmsDeep" "Helms Deep"
+
+Suggested levels:  Avatar       Align:  Varies
+
+Go west from Midgaard and take the South road to the Halfling Shire.
+Continue southwest into the Moor and you will find a hidden path to the
+east that will lead you into Helms Deep pass.
 
 #
 "Vamplair"

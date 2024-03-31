@@ -398,29 +398,6 @@ Reception Dressing Room
 ~
 16 -1 3000
 E
-translucent face~
-
-&KBecause the Clock Tower is so tall, clouds don't get in the way of
-the sun.  Light shines through the translucent clockface, giving
-this place an interesting yet soothing atmosphere.&n
-~
-E
-cams sprockets balance wheels~
-
-&KVery important to any well-oiled machine.&n
-~
-E
-clock tower~
-
-&KThe Clock Tower is an enormous spire looking down upon all the land.  It is
-from here that the &wGrindmaster Zonelord&K surveys the realm.&n
-~
-E
-gear gears~
-
-&KMeshed gears grind together constantly, giving this place the nickname "&wThe Grind&K."&n
-~
-E
 map crimson world~
 
 
@@ -453,6 +430,29 @@ map crimson world~
   are constantly changing...dark &rred&w dashes and
   X's appear and disappear in exciting patterns...&n
 
+~
+E
+gear gears~
+
+&KMeshed gears grind together constantly, giving this place the nickname "&wThe Grind&K."&n
+~
+E
+clock tower~
+
+&KThe Clock Tower is an enormous spire looking down upon all the land.  It is
+from here that the &wGrindmaster Zonelord&K surveys the realm.&n
+~
+E
+cams sprockets balance wheels~
+
+&KVery important to any well-oiled machine.&n
+~
+E
+translucent face~
+
+&KBecause the Clock Tower is so tall, clouds don't get in the way of
+the sun.  Light shines through the translucent clockface, giving
+this place an interesting yet soothing atmosphere.&n
 ~
 S
 #8241
@@ -496,7 +496,7 @@ S
 AVAILABLE FOR USE~
 
 ~
-63 98312 0 41 99 1
+63 268533768 0 41 99 1
 S
 #8245
 &KInside the &rK&Ri&rl&Rl&ri&Rn&rg &KWinds.&n~
@@ -942,12 +942,12 @@ hallway
 ~
 0 -1 8311
 E
-21~
-read 33@
-~
-E
 portal~
 This is a large shimmering disc about 10 feet in diameter, floating just off the ground.
+~
+E
+21~
+read 33@
 ~
 S
 #8313
