@@ -925,7 +925,7 @@ struct race_data {
 #define CLASS_PRIEST      		6
 #define CLASS_PALADIN     		7
 #define CLASS_DRUID       		8
-#define CLASS_ELDRITCH	9
+#define CLASS_ELDRITCH			9
 #define CLASS_MONK       		10
 #define CLASS_RANGER      		13
 #define CLASS_NECROMANCER 		15
@@ -1100,6 +1100,7 @@ struct class_data {
 #define PLR4_FQUEST6      BIT9
 #define PLR4_FQUEST7      BIT10
 #define PLR4_NOSPIRIT     BIT11
+#define PLR4_NOADVANCE  BIT12 /* Pause Leveling*/
 
 
 /* This structure is purely intended to be an easy way to transfer */

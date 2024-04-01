@@ -4076,7 +4076,7 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 	char buf[MAX_STRING_LENGTH], buf2[MAX_STRING_LENGTH], flag_name[80];
 
 	unsigned long int lv_orig_flag, lv_temp_flag, lv_act1_flag, lv_act2_flag,
-	  lv_act3_flag, lv_dsc1_flag, lv_wizperm_flag;
+	  lv_act3_flag, lv_act4_flag, lv_dsc1_flag, lv_wizperm_flag;
 	int min_lev = 0, idx;
 
 	if (IS_NPC(victim) &&
@@ -4107,6 +4107,7 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 	lv_act1_flag = 0;
 	lv_act2_flag = 0;
 	lv_act3_flag = 0;
+	lv_act4_flag = 0;
 	lv_dsc1_flag = 0;
     lv_wizperm_flag = 0;
 
@@ -4162,6 +4163,11 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 			min_lev = 1;
 			strcpy(flag_name, "AUTOSPLIT");
 		}
+		if (is_abbrev(buf, "noadvance")) {
+			lv_act4_flag = PLR4_NOADVANCE;
+			min_lev = 1;
+			strcpy(flag_name, "NOADVANCE");
+		}
 		if (is_abbrev(buf, "brief")) {
 			lv_act3_flag = PLR3_BRIEF;
 			min_lev = 1;
@@ -4173,7 +4179,6 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 			strcpy(flag_name, "CAN FINGER");
 		}
 		if (is_abbrev(buf, "canthunt")) {
-			min_lev = IMO_IMP;
 			lv_act1_flag = PLR1_CANT_HUNT;
 			min_lev = IMO_IMP;
 			strcpy(flag_name, "CANTHUNT");
@@ -4350,11 +4355,6 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 			min_lev = 0;
 			strcpy(flag_name, "NOSHOUT");
 		}
-		if (is_abbrev(buf, "nosummon")) {
-			lv_act3_flag = PLR3_NOSUMMON;
-			min_lev = 1;
-			strcpy(flag_name, "NOSUMMON");
-		}
 		if (is_abbrev(buf, "nosystem")) {
 			lv_act3_flag = PLR3_NOSYSTEM;
 			min_lev = 1;
@@ -4369,11 +4369,6 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 			lv_act3_flag = PLR3_NOSUMMON;
 			min_lev = 1;
 			strcpy(flag_name, "NOSUMMON");
-		}
-		if (is_abbrev(buf, "notell")) {
-			lv_act3_flag = PLR3_NOTELL;
-			min_lev = 1;
-			strcpy(flag_name, "NOTELL");
 		}
 		if (is_abbrev(buf, "nowizinfo")) {
 			lv_act3_flag = PLR3_NOWIZINFO;
@@ -4504,6 +4499,10 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 		lv_orig_flag = GET_ACT3(victim);
 		lv_temp_flag = lv_act3_flag;
 	}
+	if (lv_act4_flag) {
+		lv_orig_flag = GET_ACT4(victim);
+		lv_temp_flag = lv_act4_flag;
+	}
 	if (lv_dsc1_flag) {
 		if (IS_NPC(victim)) {
 			send_to_char("You can't set this on NPC chars.\r\n", ch);
@@ -4537,6 +4536,7 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 		 "  NOBOSS     *MUZZLE_BEEP   NOMUSIC           *NOFOLLOW   ",
 		 " *NOKILL     *CANTHUNT      NOAVATAR           NOPKFLAME  ",
 		 " *MEDIATOR   *IMM_QUESTOR  *RULER             *BUILDER    ",
+		 "  SHOWNOEXP   NOADVANCE                                   ",
 		 " *flags preceeded by a * are priviledged                  ");
 
 		send_to_char(buf, ch);
@@ -4603,6 +4603,8 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 			GET_ACT2(victim) = lv_orig_flag;
 		if (lv_act3_flag)
 			GET_ACT3(victim) = lv_orig_flag;
+		if (lv_act4_flag)
+			GET_ACT4(victim) = lv_orig_flag;
 		if (lv_dsc1_flag)
 			GET_DSC1(victim) = lv_orig_flag;
 		if (lv_wizperm_flag)
@@ -4632,11 +4634,12 @@ void do_set_flag(struct char_data * ch, char *arg, int cmd, struct char_data * v
 			GET_ACT2(victim) = lv_orig_flag;
 		if (lv_act3_flag)
 			GET_ACT3(victim) = lv_orig_flag;
+		if (lv_act4_flag)
+			GET_ACT4(victim) = lv_orig_flag;
 		if (lv_dsc1_flag)
 			GET_DSC1(victim) = lv_orig_flag;
 		if (lv_wizperm_flag)
 			GET_WIZ_PERM(victim) = lv_orig_flag;
-
 		return;
 	}
 

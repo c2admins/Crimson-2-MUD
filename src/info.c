@@ -1303,6 +1303,9 @@ void in1800_do_score(struct char_data * ch, char *arg, int cmd)
 	}
 	sprintf(buf, "You have &W%d&n exp left to train.\r\n", GET_AVAILABLE_EXP(k));
 	send_to_char(buf, ch);
+	if (IS_SET(GET_ACT4(ch), PLR4_NOADVANCE)) {
+	send_to_char("&RYou have NOADVANCE enabled and will not gain levels.&n\r\n", ch);
+	}
 	if (GET_LEVEL(k) == IMO_LEV || GET_LEVEL(k) == PK_LEV) {
 		sprintf(buf, "You have practiced &g%d&n/&G55&n foreign spells/skills.\r\n", k->points.fspells);
 		send_to_char(buf, ch);

@@ -482,7 +482,13 @@ char *co1100_give_prompt(struct descriptor_data * point)
 			//Old Graphics Prompt
 			// ********************************
 			if (!IS_SET(GET_ACT2(ch), PLR2_SHOWNOEXP) && (len < sizeof(p_buf))) {
-			if (GET_LEVEL(ch) < IMO_LEV) {
+			if ((GET_LEVEL(ch) < IMO_LEV) && (IS_SET(GET_ACT4(ch), PLR4_NOADVANCE))) {
+				count = snprintf(p_buf + len, sizeof(p_buf) - len,
+						 "&r<&R%d&r>xp ", LEVEL_EXP(GET_LEVEL(ch)) - GET_EXP(ch));
+				if (count >= 0)
+					len += count;
+			}
+			else if (GET_LEVEL(ch) < IMO_LEV) {
 				count = snprintf(p_buf + len, sizeof(p_buf) - len,
 						 "&w<&W%d&w>xp ", LEVEL_EXP(GET_LEVEL(ch)) - GET_EXP(ch));
 				if (count >= 0)

@@ -506,12 +506,12 @@ int li1800_hit_gain(struct char_data * ch)
 			}
 		}
 		else {
-			if (GET_CLASS(ch) == CLASS_PALADIN) {
+			if ((GET_CLASS(ch) == CLASS_PALADIN) && (GET_LEVEL(ch) > 5)) {
 				if ((GET_ALIGNMENT(ch) >= -500) && (GET_ALIGNMENT(ch) <= 500)) {
 				gain = -5; 
 				}
 				if (gain < 0) {
-				send_to_char("You suffer because of alignment.\r\n", ch);
+				send_to_char("You suffer because due to alignment.\r\n", ch);
 				}
 			}
 			else {
@@ -774,6 +774,12 @@ void li2200_gain_exp(struct char_data * ch, int gain)
 			GET_EXP(ch) += gain;
 		}
 
+		if ((GET_LEVEL(ch) < IMO_LEV) && (IS_SET(GET_ACT4(ch), PLR4_NOADVANCE)) && (GET_EXP(ch) > LEVEL_EXP(orig_lev))) {
+			GET_EXP(ch) = LEVEL_EXP(orig_lev);
+			//send_to_char("&RYou have reached max experience for this level.&n\n\r", ch);
+		}
+
+
 		if ((GET_LEVEL(ch) == IMO_LEV || GET_LEVEL(ch) == PK_LEV) &&
 		    GET_EXP(ch) > 1000000000) {
 			GET_EXP(ch) = 1000000000;
@@ -789,7 +795,7 @@ void li2200_gain_exp(struct char_data * ch, int gain)
 			 * LEVEL */
 			if (i > orig_lev) {
 				if (GET_LEVEL(ch) == IMO_LEV ||
-				    GET_LEVEL(ch) == PK_LEV) {
+				    GET_LEVEL(ch) == PK_LEV || IS_SET(GET_ACT4(ch), PLR4_NOADVANCE)) {
 					//Bingo - 11 - 24 - 01, so avats and pk can gain more exp w / o leveling
 						i = orig_lev;
 				}
