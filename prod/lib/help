@@ -6,13 +6,16 @@ CHANGELOG
 Latest Changes as of March 31, 2024
 
 Zone changes:
-
+Draconia - Fixed mobs wandering to other zones
+Nedragaard Keep - Fixed mobs wandering to other zones
 
 Code changes:
 Paladin - Removed good align requirement. Now must maintain strong evil or good
 align. Gave Energy Drain and Holy Healing at level 4 to help with this.
 Druid - Wrath of Nature updated to be always area effect. Thornwrack adjusted to
 be a backstab like spell in power level. This may need modified for balancing. 
+NOADVANCE Flag - New flag that locks a character to their current level. They 
+will not gain experience or levels while flag enabled.
 
 See also: HELP_UPDATE
 
@@ -34,11 +37,13 @@ Below were updated as of March 31, 2024:
 NEW HELP FILES
 Castle of the White Flame
 Helms Deep
+NOADVANCE
 
 CHANGED HELP FILES
 Thornwrack
 Wrath of Nature
 Race RESTRICTIONS
+
 
 
 #
@@ -1460,6 +1465,15 @@ toggle an indicator in your command prompt that will show the current
 health of any mob or player you are fighting.
 
 See also: Graphics
+
+#
+"NOADVANCE"
+
+Flag that prevents a character from gain levels past their current level. They
+will gain up to the maximum XP for the level and remain at that level until the
+flag is disabled and the gain another point of exp.
+
+Usage: set flag NOADVANCE <on/off>
 
 #
 GRAPHICS "GRAPHICS NEW" "GRAPHICS OLD"

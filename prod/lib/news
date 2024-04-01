@@ -3,7 +3,36 @@ Welcome to Crimson mud 2  -  prod.crimson2.com 4000
 &C---------------------======{&WCrimson II NEWS&C}======---------------------&n
 This is in summary form. Te see the latest changes check out 'help changelog'
 
- &W Q1 2022 -
+ &W Q2 2024 -
+   &w*&n Zone Update:
+     - Draconia updated to prevent mobs from wandering to other zones.
+     - Nedragaard Keep updated to prevent mobs from wandering to other zones.
+   &w*&n Code Update:
+     - Paladin: Removed good align requirement. Must maintain strong good or
+       evil align or suffer. Gave Energy Drain and Holy Healing at level 4
+       to assist with maintaining alignment
+     - Druid: Thornwrack modified to be a backstab like effect may need to
+       be balanced further. Wrath of Nature changed to always area effect.
+     - Race restrictions preventing Demon, Ravshi and Darkling from being
+       Paladin removed
+     - NOADVANCE flag - locks a character to their current level.
+
+ &W Q4 2023 -
+   &w*&n Zone Update:
+     - Winter Wonderland available for holidays. Goto Room 24480
+
+ &W 2022 Summary -
+   &w*&n Code Update:
+     - Questmaster will no longer assign quests to mobs in NO_DONATE rooms
+     - Added Code to try to resolve zone reboot crashing
+     - Changed Quest Items able to be bought from Questmaster
+     - Changed Quest Items that can be rewarded from Questmaster
+     - Typo Fixes
+     - Removed most race/class restrictions(evil races can't be paladin)
+     - Adjusted XP rewards from Questmaster
+     - Added new Tailed Race "Saurian" See help race 31 for info.
+   &w*&n Zone Update:
+     - Fixed path to Glass Cathedral to match the Zone description
    &w*&n Server Update:
      - Moved to new Virtual Private Server IP 135.148.148.72
      - New Character Creation closed on old server as of Dec.1 2021
