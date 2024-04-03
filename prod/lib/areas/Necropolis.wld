@@ -4,12 +4,17 @@ You are walking through a large stone cavern, far ahead you see
 the sillhouette of a large city, created by a gigantic sea of
 fire near it. The path leads on..
 ~
-44 8 536870912 41 99 5
+34 8 536870912 35 99 5
 D0
 The path leads on.
 ~
 ~
 0 -1 4401
+D2
+The tunnel
+~
+~
+0 -1 4050
 S
 #4401
 In a cavern~
@@ -17,7 +22,7 @@ You are walking through a large stone cavern, far ahead you see
 the sillhouette of a large city, created by a gigantic sea of
 fire near it. The path leads on..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path leads on.
 ~
@@ -35,7 +40,7 @@ You are walking through a large stone cavern, far ahead you see
 the sillhouette of a large city, created by a gigantic sea of
 fire near it. The path leads on..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path leads on.
 ~
@@ -53,7 +58,7 @@ You are walking through a large stone cavern, far ahead you see
 the sillhouette of a large city, created by a gigantic sea of
 fire near it. The path leads on..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path leads on.
 ~
@@ -71,7 +76,7 @@ You are walking through a large stone cavern, far ahead you see
 the sillhouette of a large city, created by a gigantic sea of
 fire near it. The path leads on..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path leads on.
 ~
@@ -90,7 +95,7 @@ in front of you. It appears to be made totally out of stone. There
 is a large gate ahead of you, guarded by two people, one on each
 side of the gate. There is a lighted path leading to the city.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path leads on.
 ~
@@ -108,7 +113,7 @@ You are walking on a lighted path which leads to the city gates.
 The path is surrounded by small rocks which seem to be on fire,
 perhaps they are rocks from the fire sea..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path leads on.
 ~
@@ -126,7 +131,7 @@ You are walking on a lighted path which leads to the city gates.
 The path is surrounded by small rocks which seem to be on fire,
 perhaps they are rocks from the fire sea..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path leads on.
 ~
@@ -144,7 +149,7 @@ You are walking on a lighted path which leads to the city gates.
 The path is surrounded by small rocks which seem to be on fire,
 perhaps they are rocks from the fire sea..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The city gates.
 ~
@@ -164,7 +169,7 @@ guards. They stare at nothing endlessly, having no eyes to blink
 with. They have no weapons, needing none, they just crush you to
 death if they need to.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The gates are open.
 ~
@@ -182,7 +187,7 @@ You are standing inside the city, the road leading inside the city
 branchs here. There is a road leading to the west and east, you
 wonder which one to take..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D1
 The street leads east.
 ~
@@ -205,7 +210,7 @@ You are walking on a dirt path, it continues to the north. To the
 east is a crossroads which leads out of Necropilis or onto antoher
 path.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -223,7 +228,7 @@ You are walking on a dirt path, it continues to the north. To the
 west is a crossroads which leads out of Necropilis or onto antoher
 path.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -243,7 +248,7 @@ the Necromancer took over. The walls of this house are still
 stained with blood. You do not feel comfortable in here, you want 
 to leave as soon as you can.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D1
 A road.
 ~
@@ -255,7 +260,7 @@ On a dirt path~
 You are walking on a dirt path, it continues to the north and south.
 Up ahead you see an intersection, you wonder where it leads..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -272,7 +277,7 @@ At an intersection~
 You are walking on a dirt path, it continues north. There is also
 an intersection with the other path to the west.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -295,14 +300,14 @@ You are walking on a dirt path, it continues to the north. To the
 west is a crossroads which leads out of Necropilis or onto antoher
 path.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 S
 #4417
 On a dirt path~
 You are walking on a dirt path, it continues to the north and south.
 Up ahead you see an intersection, you wonder where it leads..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -319,7 +324,7 @@ At an intersection~
 You are walking on a dirt path, it continues north. There is also
 an intersection with the other path to the east.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -342,7 +347,7 @@ There are paths leading in all directions. To the west and east
 are the main paths of the city, to the north and south are paths
 leading into houses.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path leads north.
 ~
@@ -369,7 +374,7 @@ On a dirt path~
 You are walking on a dirt path, to the south is an intersection.
 The path continues north.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -389,7 +394,7 @@ have seen in this dread deserted city. You pray it is not inhabited
 by what the others are, but what if it is? Or, what if it is something
 worse?
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -406,7 +411,7 @@ On a dirt path~
 You are walking on a dirt path, to the south is an intersection.
 The path continues north.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -426,7 +431,7 @@ houses. Nothing living resides in them now, all of the living
 creatures in this hell of a city being dead. But, if undead do, who
 knows..?
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The road continues.
 ~
@@ -456,7 +461,7 @@ have seen in this dread deserted city. You pray it is not inhabited
 by what the others are, but what if it is? Or, what if it is something
 worse?
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -476,7 +481,7 @@ houses. Nothing living resides in them now, all of the living
 creatures in this hell of a city being dead. But, if undead do, who
 knows..? 
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D1
 A road.
 ~
@@ -501,7 +506,7 @@ houses. Nothing living resides in them now, all of the living
 creatures in this hell of a city being dead. But, if undead do, who
 knows..?
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The road continues.
 ~
@@ -531,7 +536,7 @@ houses. Nothing living resides in them now, all of the living
 creatures in this hell of a city being dead. But, if undead do, who
 knows..?
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The road continues.
 ~
@@ -553,7 +558,7 @@ At an intersection~
 You are on a dirt path, to the west in a intersection that
 leads to another path. Where that path leads is a mystery..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D2
 The path continues.
 ~
@@ -570,7 +575,7 @@ At an intersection~
 You are on a dirt path, to the east in a intersection that
 leads to another path. Where that path leads is a mystery..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D1
 At an intersection.
 ~
@@ -588,7 +593,7 @@ Your are standing at the intersection of three roads, to the
 west and south are the main roads of the city. To the north is
 the Path of the Necromancer, which leads to Baltazar's manor.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path beckons.
 ~
@@ -612,7 +617,7 @@ took over this city. Up ahead you see his manor, does he still live there?
 Who knows..? If he does, he certainly won't enjoy you disturbing him,
 you have the urge to turn back..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -631,7 +636,7 @@ took over this city. Up ahead you see his manor, does he still live there?
 Who knows..? If he does, he certainly won't enjoy you disturbing him,
 you have the urge to turn back..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The path continues.
 ~
@@ -650,7 +655,7 @@ took over this city. Up ahead you see his manor, does he still live there?
 Who knows..? If he does, he certainly won't enjoy you disturbing him,
 you have the urge to turn back..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The manor.
 ~
@@ -668,7 +673,7 @@ You are standing at the entrance to Baltazar's manor. What you can see
 of the inside is shrouded in shadows. You wonder about going in, but..
 would you come out again?
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 Inside the manor.
 ~
@@ -685,7 +690,7 @@ Inside the manor~
 You are now inside the manor, to the west and east are halls. An eerie
 light comes from both halls. Should you follow them, or leave?
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D1
 The east hall.
 ~
@@ -707,7 +712,7 @@ The west hall~
 You are walking on the west hall. It continues to the west, and to the
 east is the central area of the manor.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 A room.
 ~
@@ -729,7 +734,7 @@ The west hall~
 You are at the end of the west hall. It continues to the east, to the
 north is a door, where it leads, who knows..?
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 The Library.
 ~
@@ -746,7 +751,7 @@ The east hall~
 You are walking on the east hall. It continues to the east, and to the
 west is the central area of the manor.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 A room.
 ~
@@ -767,7 +772,7 @@ S
 The east hall~
 You are at the end of the east hall, it continues to the west.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D0
 A room.
 ~
@@ -788,7 +793,7 @@ You have the urge to run, but you cannot, you can't move because
 of the fear you feel. Yes, Baltazar is happy to see you, because you
 will become one of his subjects, one of the lazar..
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D2
 The west hall.
 ~
@@ -803,7 +808,7 @@ the Necromancer took over. The walls of this house are still
 stained with blood. You do not feel comfortable in here, you want 
 to leave as soon as you can.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D3
 A road.
 ~
@@ -818,7 +823,7 @@ the Necromancer took over. The walls of this house are still
 stained with blood. You do not feel comfortable in here, you want 
 to leave as soon as you can.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D1
 A road.
 ~
@@ -833,7 +838,7 @@ the Necromancer took over. The walls of this house are still
 stained with blood. You do not feel comfortable in here, you want 
 to leave as soon as you can.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D3
 A road.
 ~
@@ -848,7 +853,7 @@ the Necromancer took over. The walls of this house are still
 stained with blood. You do not feel comfortable in here, you want
 to leave as soon as you can.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D1
 A road.
 ~
@@ -863,7 +868,7 @@ the Necromancer took over. The walls of this house are still
 stained with blood. You do not feel comfortable in here, you want
 to leave as soon as you can.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D3
 A road.
 ~
@@ -878,7 +883,7 @@ the Necromancer took over. The walls of this house are still
 stained with blood. You do not feel comfortable in here, you want
 to leave as soon as you can.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D1
 A road.
 ~
@@ -893,7 +898,7 @@ the Necromancer took over. The walls of this houses are still
 stained with blood. You do not feel comfortable in here, you want
 to leave as soon as you can.
 ~
-44 268435464 536870912 41 99 5
+34 268435464 536870912 35 99 5
 D3
 A road.
 ~
@@ -904,7 +909,7 @@ S
 blank~
 blank
 ~
-44 268550152 536870912 42 99 5
+34 268550152 536870912 35 99 5
 D0
 A staircase.
 ~
@@ -915,19 +920,19 @@ S
 blank~
 blank
 ~
-44 268550152 536870912 42 99 5
+34 268550152 536870912 35 99 5
 S
 #4450
 blank~
 blank
 ~
-44 268550152 536870912 42 99 5
+34 268550152 536870912 35 99 5
 S
 #4451
 blank~
 blah
 ~
-44 268550152 536870912 10 99 5
+34 268550152 536870912 35 99 5
 D4
 The second floor.
 ~
@@ -938,7 +943,7 @@ S
 blah~
 blah
 ~
-44 268550152 536870912 42 99 5
+34 268550152 536870912 35 99 5
 S
 #4453
 Sleeping chambers of Sarel~
@@ -947,7 +952,7 @@ large window view and also 2 skylights on the ceiling. There
 is a bed in the corner with a small table beside it. Also in
 another corner is a small couch.
 ~
-44 268550152 536870912 42 99 5
+34 268550152 536870912 35 99 5
 D0
 Kinetic's Office
 ~
@@ -958,26 +963,26 @@ S
 boo~
 blah
 ~
-44 268550152 536870912 42 99 5
+34 268550152 536870912 35 99 5
 S
 #4455
 boo~
 blah
 ~
-44 268550152 536870912 42 99 5
+34 268550152 536870912 35 99 5
 S
 #4456
 Lost~
 You see nothing around you except an endless, impenetrable black void.
 ~
-44 1879113736 1879048192 10 99 5
+34 1879113736 1879048192 35 99 5
 S
 #4457
 A small room~
 You are in a small room with nothing more than a bed in it. There is
 one exit, that is to the south.
 ~
-44 268435464 536870912 1 99 5
+34 268435464 536870912 35 99 5
 D2
 A hall.
 ~
@@ -989,7 +994,7 @@ A small room~
 You are in a small room with nothing more than a bed in it. There is
 one exit, that is to the south.
 ~
-44 268435464 536870912 1 99 5
+34 268435464 536870912 35 99 5
 D2
 A hall.
 ~
@@ -1001,7 +1006,7 @@ A small room~
 You are in a small room with nothing more than a bed in it. There is
 one exit, that is to the south.
 ~
-44 268435464 536870912 1 99 5
+34 268435464 536870912 35 99 5
 D2
 A hall.
 ~
@@ -1012,7 +1017,7 @@ S
 boo~
 boo
 ~
-44 268484616 536870912 42 99 5
+34 268484616 536870912 35 99 5
 S
 $~
 #999999

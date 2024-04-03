@@ -315,7 +315,7 @@ obj handle smiter ~
 This is a curvy dagger, which possesses the great magical gift of death.
 You wonder if you are worthy enough to use such a great treasure!
 ~
-13 134218816 1024 8193
+13 1088 1024 8193
 2048 6 6 11
 5 10 20000
 #16926
@@ -326,7 +326,7 @@ obj shaft smiter stick~
 This is a curvy dagger, which possesses the great magical gift of death.
 You wonder if you are worthy enough to use such a great treasure!
 ~
-13 136315456 1024 8193
+13 2097728 1024 8193
 1024 6 6 11
 5 1000000 20000
 E
@@ -339,7 +339,7 @@ obj head smiter ball~
 &wa large metal &Wball&n~
 A large metal ball lies here, looking a little out of place.~
 ~
-8 134784000 1024 16385
+8 566272 1024 16385
 0 0 0 0
 3 10000 2500
 A

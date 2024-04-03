@@ -263,7 +263,7 @@ Someone left their drink on the ground.~
 1 5 5
 #17622
 obj shard1 narsil~
-15
+50
 the first shard of a sword~
 A broken shard of a sword lies here in the dirt.~
 ~
@@ -272,7 +272,7 @@ A broken shard of a sword lies here in the dirt.~
 1 5 5
 #17623
 obj shard2 narsil~
-15
+50
 the second shard of a sword~
 A shard of a broken sword lies here in the dirt.~
 ~
@@ -281,7 +281,7 @@ A shard of a broken sword lies here in the dirt.~
 1 5 5
 #17624
 obj shard3 narsil~
-15
+50
 the third shard of a sword~
 A piece of a broken sword lies here in the dirt.~
 ~
@@ -290,7 +290,7 @@ A piece of a broken sword lies here in the dirt.~
 1 5 5
 #17625
 obj shard4 narsil~
-15
+50
 the fourth shard of a sword~
 A broken piece of a sword lies here in the dirt.~
 ~
@@ -299,7 +299,7 @@ A broken piece of a sword lies here in the dirt.~
 1 5 5
 #17626
 obj hilt sword narsil~
-15
+50
 &wthe hilt of a broken sword&n~
 The hilt of a broken sword lies here, collecting dust~
 ~
