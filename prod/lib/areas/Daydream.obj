@@ -24,7 +24,7 @@ A
 6 2
 #127
 obj hair piece~
-5
+10
 a hair piece~
 A old dusty hair piece is lying here all scraggly.~
 ~
@@ -41,7 +41,7 @@ A
 6 2
 #128
 obj several stringed instruments~
-8
+10
 several stringed instruments~
 Several different stringed instruments are lying here.~
 ~
@@ -58,7 +58,7 @@ A
 28 -1
 #129
 obj your favorite meal~
-75
+10
 Your favorite meal~
 You favorite meal is lying here waiting to be eaten.~
 ~
@@ -67,7 +67,7 @@ You favorite meal is lying here waiting to be eaten.~
 1 1 5
 #130
 obj golden serving tray~
-5
+10
 a golden serving tray~
 The most exquisit golden tray in all the lands is here on the ground.~
 ~
@@ -112,7 +112,7 @@ A
 14 5
 #133
 obj ball yarn~
-15
+10
 a ball of yarn~
 A small tangled ball of yarn is lying here.~
 ~
@@ -144,7 +144,7 @@ A
 5 -1
 #135
 obj chocolate treats~
-25
+10
 a pile of chocolate treats~
 A sizable pile of chocolate treats are lying here tempting you.~
 ~
@@ -153,7 +153,7 @@ A sizable pile of chocolate treats are lying here tempting you.~
 1 5 5
 #136
 obj milk chocolate cherries~
-25
+10
 a pile of milk chocolate covered cherries~
 A pile of milk chocolate covered cherries are lying here awaiting you mouth.~
 ~
@@ -162,7 +162,7 @@ A pile of milk chocolate covered cherries are lying here awaiting you mouth.~
 1 5 5
 #137
 obj white chocolate pretsel~
-25
+10
 a white chocolate covered pretsel~
 A wonderfully white chocolate covered pretsel is here wanting you to eat it.~
 ~
@@ -171,7 +171,7 @@ A wonderfully white chocolate covered pretsel is here wanting you to eat it.~
 1 5 5
 #138
 obj bowl chocolate ice cream~
-25
+10
 a bowl of ice cream~
 A large bowl of chocolate ice cream is cooling here.~
 ~
@@ -180,7 +180,7 @@ A large bowl of chocolate ice cream is cooling here.~
 1 5 5
 #139
 obj tribute you~
-1
+10
 the peoples tribute to your complete and total greatness~
 A pile of expensive jewels and gold is here tributing you from the people.~
 ~
@@ -189,7 +189,7 @@ A pile of expensive jewels and gold is here tributing you from the people.~
 1 5 5
 #140
 obj sign greatness~
-12
+10
 a sign of greatness~
 A sign proclaiming your greatness is lying here.~
 ~
@@ -208,7 +208,7 @@ A
 14 -10
 #141
 obj flower yellow~
-2
+10
 a tall stiff &Yyellow&n flower~
 A tall yellow flower is here, fallen over.~
 ~
@@ -221,7 +221,7 @@ It looks like someone left this here before they could finish planting it.  Hmm.
 ~
 #142
 obj supreme satisfaction~
-5
+10
 &YSupreme Satisfaction&n~
 Here lies supreme satisfaction.~
 ~
@@ -236,7 +236,7 @@ A
 32 -1
 #143
 obj highest happiness~
-5
+10
 &PHighest Happiness&n~
 Here lies the highest happiness.~
 ~
@@ -251,7 +251,7 @@ A
 26 -1
 #144
 obj pure pleasure~
-5
+10
 &RPure Pleasure&n~
 Here lies pure pleasure.~
 ~
@@ -266,7 +266,7 @@ A
 30 -1
 #145
 obj rolling rapture~
-5
+10
 &CRolling Rapture&n~
 Here lies some rolling rapture.~
 ~
@@ -283,7 +283,7 @@ A
 33 -1
 #146
 obj beaming bliss~
-5
+10
 &GBeaming Bliss&n~
 Here lies some beaming bliss.~
 ~
@@ -296,7 +296,7 @@ A
 13 20
 #147
 obj embodiment ecstacy~
-2
+10
 &BThe Embodiment of Ecstacy&n~
 The embodiment of all that is pure and happy is lying here waiting to be worn.~
 ~
@@ -313,7 +313,7 @@ A
 37 -1
 #148
 obj drop rain~
-15
+10
 a &Cdrop&n of &Brain&n~
 A happy little drop of rain is lying here in a small pool.~
 ~

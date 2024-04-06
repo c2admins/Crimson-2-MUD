@@ -686,7 +686,7 @@ const char *spell_wear_off_msg[] = {
 	"!irresistable dance",	/* 124 */
 	"!wizard lock",		/* 125 */
 	"!dancing sword",	/* 126 */
-	"!demonic aid",		/* 127 */
+	"The rune on your forehead fades, and your body feels drained",		/* 127 */
 	"!grangorns curse",	/* 128 */
 	"!clawed hands",	/* 129 */
 	"You can no longer sense animals.",		/* 130 */

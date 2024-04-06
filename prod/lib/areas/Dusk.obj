@@ -56,7 +56,7 @@ obj Pelt Wolf~
 &WA soft mound of &yfur &Wlies here.&n~
 ~
 15 4194305 0 1025
-250 0 0 0
+400 0 0 0
 25 250000 85000
 A
 19 3
@@ -218,14 +218,14 @@ An incredible work of art hangs here for all to see.~
 0 0 10 0
 10 5 5
 E
+paint~
+~
+E
 painting~
 The party of Rivenberg is torn from its sleep as a giant bat and 
 the monsterous Vatang haul away Lady Gabrielle and Jundar.
 Tristan screams in frustration as massive werewolves cut off his 
 pursuit of the vile beast.
-~
-E
-paint~
 ~
 #1918
 obj Painting Beautiful Art~

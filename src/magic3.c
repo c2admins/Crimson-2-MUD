@@ -462,8 +462,12 @@ void spell_demonic_aid(sbyte level, struct char_data * ch,
 
 
 
-	if (IS_CASTED_ON(victim, SPELL_DEMONIC_AID))
+	if (IS_CASTED_ON(victim, SPELL_DEMONIC_AID)){
+		
+		act("$n traces out a rune pattern on $s forehead, but nothing happens.\r\n", TRUE, victim, 0, 0, TO_NOTVICT);
+		act("You trace out the rune on your forehead , but don't feel any different.\r\n", TRUE, victim, 0, 0, TO_CHAR);
 		return;
+	}
 
 	if (magic_fails(ch, victim))
 		return;
