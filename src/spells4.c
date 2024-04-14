@@ -114,7 +114,7 @@ void cast_bind_souls(sbyte level, struct char_data * ch, char *arg, int type,
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
-			if (victim != ch)
+			if (!(IS_NPC(victim)))
 				if (!(IS_AFFECTED(victim, SPELL_BIND_SOULS)))
 					spell_bind_souls(level, ch, victim, 0);
 		break;
@@ -417,7 +417,7 @@ void cast_detect_giants(signed char level, struct char_data * ch, char *arg, int
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
-			if (victim != ch)
+			if (!(IS_NPC(victim)))
 				spell_detect_giants(level, ch, victim, 0);
 		break;
 	default:
@@ -477,7 +477,7 @@ void cast_detect_shadows(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
-			if (victim != ch)
+			if (!(IS_NPC(victim)))
 				spell_detect_shadows(level, ch, victim, 0);
 		break;
 	default:
@@ -593,7 +593,7 @@ void cast_detect_demons(signed char level, struct char_data * ch, char *arg, int
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
-			if (victim != ch)
+			if (!(IS_NPC(victim)))
 				spell_detect_demons(level, ch, victim, 0);
 		break;
 	default:
@@ -628,7 +628,7 @@ void cast_detect_dragons(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
-			if (victim != ch)
+			if (!(IS_NPC(victim)))
 				spell_detect_dragons(level, ch, victim, 0);
 		break;
 	default:
@@ -663,7 +663,7 @@ void cast_detect_undead(signed char level, struct char_data * ch, char *arg, int
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
-			if (victim != ch)
+			if (!(IS_NPC(victim)))
 				spell_detect_undead(level, ch, victim, 0);
 		break;
 	default:
@@ -714,7 +714,7 @@ void cast_detect_vampires(signed char level, struct char_data * ch, char *arg, i
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
-			if (victim != ch)
+			if (!(IS_NPC(victim)))
 				spell_detect_vampires(level, ch, victim, 0);
 		break;
 	default:
@@ -1508,7 +1508,7 @@ void cast_sleep_immunity(sbyte level, struct char_data * ch, char *arg, int type
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
-			if (victim != ch)
+			if (!(IS_NPC(victim)))
 				spell_sleep_immunity(level, ch, victim, 0);
 		break;
 	default:

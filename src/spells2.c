@@ -60,6 +60,20 @@ void cast_armor(signed char level, struct char_data * ch, char *arg, int type,
 			return;
 		spell_armor(level, ch, ch, 0);
 		break;
+	case SPELL_TYPE_STAFF:
+		for (tar_ch = world[ch->in_room].people;
+		     tar_ch; tar_ch = tar_ch->next_in_room)
+			if (!(IS_NPC(tar_ch))) {
+				if (ha1375_affected_by_spell(tar_ch, SPELL_ARMOR)) {
+				send_to_char("Nothing seems to happen.\n\r", ch);
+				return;
+				}
+				if (ch != tar_ch) {
+				act("$N is protected by your deity.", FALSE, ch, 0, tar_ch, TO_CHAR);
+				}
+			spell_armor(level, ch, tar_ch, 0);
+			}
+		break;
 	default:
 		main_log("ERROR: Invalid spell type in armor!");
 		spec_log("ERROR: Invalid spell type in armor!", ERROR_LOG);
@@ -69,9 +83,6 @@ void cast_armor(signed char level, struct char_data * ch, char *arg, int type,
 
 void cast_elsewhere(signed char level, struct char_data * ch, char *arg, int type, struct char_data * tar_ch, struct obj_data * tar_obj)
 {
-
-
-
 	switch (type) {
 		case SPELL_TYPE_SCROLL:
 		case SPELL_TYPE_POTION:
@@ -80,20 +91,17 @@ void cast_elsewhere(signed char level, struct char_data * ch, char *arg, int typ
 			tar_ch = ch;
 		spell_elsewhere(level, ch, tar_ch, 0);
 		break;
-
 	case SPELL_TYPE_WAND:
 		if (!tar_ch)
 			return;
 		spell_elsewhere(level, ch, tar_ch, 0);
 		break;
-
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
 			if (tar_ch != ch)
 				spell_elsewhere(level, ch, tar_ch, 0);
 		break;
-
 	default:
 		main_log("ERROR: Invalid spell type in elsewhere!");
 		spec_log("ERROR: Invalid spell type in elsewhere!", ERROR_LOG);
@@ -165,6 +173,23 @@ void cast_bless(signed char level, struct char_data * ch, char *arg, int type,
 			    (GET_POS(tar_ch) == POSITION_FIGHTING))
 				return;
 			spell_bless(level, ch, tar_ch, 0);
+		}
+		break;
+	case SPELL_TYPE_STAFF:
+		if (tar_obj) {	/* It's an object */
+			if (IS_SET(tar_obj->obj_flags.flags1, OBJ1_BLESS))
+				return;
+			spell_bless(level, ch, 0, tar_obj);
+		}
+		else {
+		for (tar_ch = world[ch->in_room].people;
+		     tar_ch; tar_ch = tar_ch->next_in_room)
+			if (!(IS_NPC(tar_ch))) {
+				if (ha1375_affected_by_spell(tar_ch, SPELL_BLESS) ||
+			    (GET_POS(tar_ch) == POSITION_FIGHTING))
+				return;
+			spell_bless(level, ch, tar_ch, 0);
+			}
 		}
 		break;
 	default:
@@ -359,7 +384,6 @@ void cast_cure_critic(signed char level, struct char_data * ch, char *arg, int t
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				spell_cure_critic(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -415,7 +439,6 @@ void cast_donate_mana(signed char level, struct char_data * ch, char *arg, int t
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				spell_donate_mana(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -470,7 +493,6 @@ void cast_sustenance(signed char level, struct char_data * ch, char *arg, int ty
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				spell_sustenance(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -497,7 +519,6 @@ void cast_cure_light(signed char level, struct char_data * ch, char *arg, int ty
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				spell_cure_light(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -594,7 +615,6 @@ void cast_detect_evil(signed char level, struct char_data * ch, char *arg, int t
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				if (!(IS_AFFECTED(tar_ch, SPELL_DETECT_EVIL)))
 					spell_detect_evil(level, ch, tar_ch, 0);
 		break;
@@ -628,7 +648,6 @@ void cast_detect_good(signed char level, struct char_data * ch, char *arg, int t
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				if (!(IS_AFFECTED(tar_ch, SPELL_DETECT_GOOD)))
 					spell_detect_good(level, ch, tar_ch, 0);
 		break;
@@ -663,7 +682,6 @@ void cast_detect_invisibility(signed char level, struct char_data * ch, char *ar
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				if (!(IS_AFFECTED(tar_ch, SPELL_DETECT_INVISIBLE)))
 					spell_detect_invisibility(level, ch, tar_ch, 0);
 		break;
@@ -698,7 +716,6 @@ void cast_detect_magic(signed char level, struct char_data * ch, char *arg, int 
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				if (!(IS_AFFECTED(tar_ch, SPELL_DETECT_MAGIC)))
 					spell_detect_magic(level, ch, tar_ch, 0);
 		break;
@@ -731,7 +748,6 @@ void cast_breathwater(signed char level, struct char_data * ch, char *arg, int t
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				if (!(IS_AFFECTED(tar_ch, SPELL_BREATHWATER)))
 					spell_breathwater(level, ch, tar_ch, 0);
 		break;
@@ -764,7 +780,6 @@ void cast_darksight(signed char level, struct char_data * ch, char *arg, int typ
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				if (!(IS_AFFECTED(tar_ch, SPELL_DARKSIGHT)))
 					spell_darksight(level, ch, tar_ch, 0);
 		break;
@@ -798,7 +813,6 @@ void cast_regeneration(signed char level, struct char_data * ch, char *arg, int 
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				if (!(IS_AFFECTED(tar_ch, SPELL_REGENERATION)))
 					spell_regeneration(level, ch, tar_ch, 0);
 		break;
@@ -828,7 +842,6 @@ void cast_dispel_magic(signed char level, struct char_data * ch, char *arg, int 
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				spell_dispel_magic(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -927,7 +940,6 @@ void cast_restoration(signed char level, struct char_data * ch, char *arg, int t
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
 				if (!(IS_AFFECTED(tar_ch, SPELL_RESTORATION)))
 					spell_restoration(level, ch, tar_ch, 0);
 		break;
@@ -960,6 +972,11 @@ void cast_detect_poison(signed char level, struct char_data * ch, char *arg, int
 		if (!tar_ch)
 			tar_ch = ch;
 		spell_detect_poison(level, ch, tar_ch, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (tar_ch = world[ch->in_room].people;
+		     tar_ch; tar_ch = tar_ch->next_in_room)
+					spell_detect_poison(level, ch, tar_ch, 0);
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in detect poison!");
@@ -1052,7 +1069,8 @@ void cast_heal_minor(signed char level, struct char_data * ch, char *arg, int ty
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			spell_heal_minor(level, ch, tar_ch, 0);
+			 if (!(IS_NPC(tar_ch)))
+				spell_heal_minor(level, ch, tar_ch, 0);
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in heal!");
@@ -1084,7 +1102,7 @@ void cast_heal_medium(signed char level, struct char_data * ch, char *arg, int t
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_heal_medium(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1112,7 +1130,7 @@ void cast_heal_major(signed char level, struct char_data * ch, char *arg, int ty
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_heal_major(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1140,7 +1158,7 @@ void cast_convalesce(signed char level, struct char_data * ch, char *arg, int ty
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_convalesce(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1203,7 +1221,7 @@ void cast_invisibility(signed char level, struct char_data * ch, char *arg, int 
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				if (!(IS_AFFECTED(tar_ch, AFF_INVISIBLE)))
 					spell_invisibility(level, ch, tar_ch, 0);
 		break;
@@ -1249,7 +1267,7 @@ void cast_improved_invis(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				if (!(IS_AFFECTED(tar_ch, AFF_INVISIBLE)))
 					spell_improved_invis(level, ch, tar_ch, 0);
 		break;
@@ -1330,7 +1348,7 @@ void cast_protection_from_evil(signed char level, struct char_data * ch, char *a
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_protection_from_evil(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1366,7 +1384,7 @@ void cast_remove_curse(signed char level, struct char_data * ch, char *arg, int 
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_remove_curse(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1394,7 +1412,7 @@ void cast_remove_poison(signed char level, struct char_data * ch, char *arg, int
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_remove_poison(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1429,7 +1447,7 @@ void cast_sanctuary(signed char level, struct char_data * ch, char *arg, int typ
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_sanctuary(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1462,7 +1480,7 @@ void cast_sanctuary_minor(signed char level, struct char_data * ch, char *arg, i
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_sanctuary_minor(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1495,7 +1513,7 @@ void cast_sanctuary_medium(signed char level, struct char_data * ch, char *arg, 
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_sanctuary_medium(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1567,7 +1585,7 @@ void cast_strength(signed char level, struct char_data * ch, char *arg, int type
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_strength(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1672,7 +1690,7 @@ void cast_word_of_recall(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_word_of_recall(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -1783,7 +1801,7 @@ void cast_sense_life(signed char level, struct char_data * ch, char *arg, int ty
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_sense_life(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2089,7 +2107,7 @@ void cast_phase_door(signed char level, struct char_data * ch, char *arg, int ty
 	case SPELL_TYPE_STAFF:{
 			for (tar_ch = world[ch->in_room].people;
 			     tar_ch; tar_ch = tar_ch->next_in_room)
-				if (tar_ch != ch)
+				if (!(IS_NPC(tar_ch)))
 					do_phase_door(level, ch, arg, type);
 			break;
 		}
@@ -2119,7 +2137,7 @@ void cast_waterwalk(signed char level, struct char_data * ch, char *arg, int typ
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_waterwalk(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2147,7 +2165,7 @@ void cast_teleport_self(signed char level, struct char_data * ch, char *arg, int
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_teleport_self(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2175,7 +2193,7 @@ void cast_teleport_group(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_teleport_group(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2203,7 +2221,7 @@ void cast_teleview_minor(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_teleview_minor(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2231,7 +2249,7 @@ void cast_teleview_major(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_teleview_major(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2262,7 +2280,7 @@ void cast_haste(signed char level, struct char_data * ch, char *arg, int type,
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_haste(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2290,10 +2308,13 @@ void cast_fly(signed char level, struct char_data * ch, char *arg, int type,
 			return;
 		spell_fly(level, ch, tar_ch, 0);
 		break;
+	case SPELL_TYPE_WAND:
+		spell_fly(level, ch, tar_ch, 0);
+		break;
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_fly(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2320,7 +2341,7 @@ void cast_dreamsight(signed char level, struct char_data * ch, char *arg, int ty
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_dreamsight(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2348,7 +2369,7 @@ void cast_gate(signed char level, struct char_data * ch, char *arg, int type,
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_gate(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2377,7 +2398,7 @@ void cast_vitalize_hit(signed char level, struct char_data * ch, char *arg, int 
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_vitalize_hit(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2405,7 +2426,7 @@ void cast_vitalize_mana(signed char level, struct char_data * ch, char *arg, int
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_vitalize_mana(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2433,7 +2454,7 @@ void cast_vigorize_minor(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_vigorize_minor(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2461,7 +2482,7 @@ void cast_vigorize_medium(signed char level, struct char_data * ch, char *arg, i
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_vigorize_medium(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2489,7 +2510,7 @@ void cast_vigorize_major(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_vigorize_major(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2520,7 +2541,7 @@ void cast_aid(signed char level, struct char_data * ch, char *arg, int type,
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_aid(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2548,7 +2569,7 @@ void cast_dispel_silence(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_dispel_silence(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2576,7 +2597,7 @@ void cast_dispel_hold(signed char level, struct char_data * ch, char *arg, int t
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_dispel_hold(level, ch, tar_ch, 0);
 		break;
 	default:
@@ -2604,7 +2625,7 @@ void cast_block_summon(signed char level, struct char_data * ch, char *arg, int 
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_block_summon(level, ch, tar_ch, 0);
 		break;
 	default:

@@ -25,7 +25,7 @@ void cast_burning_hands(sbyte level, struct char_data * ch, char *arg, int type,
 
 
 	switch (type) {
-		case SPELL_TYPE_SPELL:
+	case SPELL_TYPE_SPELL:
 		spell_burning_hands(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_WAND:
@@ -163,8 +163,14 @@ void cast_tremor(sbyte level, struct char_data * ch, char *arg, int type,
 
 	switch (type) {
 		case SPELL_TYPE_SPELL:
-		case SPELL_TYPE_SCROLL:
+		spell_tremor(level, ch, 0, 0);
+		break;
 		case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+				spell_tremor(level, ch, 0, 0);
+		break;
 		case SPELL_TYPE_WAND:
 		spell_tremor(level, ch, 0, 0);
 		break;
@@ -233,6 +239,12 @@ void cast_fireball(sbyte level, struct char_data * ch, char *arg, int type,
 		if (victim)
 			spell_fireball(level, ch, victim, 0);
 		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+				spell_fireball(level, ch, victim, 0);
+		break;
 	default:
 		main_log("ERROR: Invalid spell type in fireball!");
 		spec_log("ERROR: Invalid spell type in fireball!", ERROR_LOG);
@@ -260,6 +272,12 @@ void cast_turn_undead(sbyte level, struct char_data * ch, char *arg, int type,
 	case SPELL_TYPE_WAND:
 		if (victim)
 			spell_turn_undead(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+				spell_turn_undead(level, ch, victim, 0);
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in turn_undead!");
@@ -312,6 +330,9 @@ void cast_conflagration(sbyte level, struct char_data * ch, char *arg, int type,
 	case SPELL_TYPE_POTION:
 		spell_conflagration(level, ch, ch, 0);
 		break;
+	case SPELL_TYPE_WAND:
+		spell_conflagration(level, ch, ch, 0);
+		break;
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
@@ -346,6 +367,12 @@ void cast_lightning_bolt(sbyte level, struct char_data * ch, char *arg, int type
 		if (victim)
 			spell_lightning_bolt(level, ch, victim, 0);
 		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+				spell_lightning_bolt(level, ch, victim, 0);
+		break;
 	default:
 		main_log("ERROR: Invalid spell type in lightning bolt!");
 		spec_log("ERROR: Invalid spell type in lightning bolt!", ERROR_LOG);
@@ -374,6 +401,12 @@ void cast_magic_missile(sbyte level, struct char_data * ch, char *arg, int type,
 	case SPELL_TYPE_WAND:
 		if (victim)
 			spell_magic_missile(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+				spell_magic_missile(level, ch, victim, 0);
 		break;
 	default:
 		main_log("ERROR: Invalid spell type in magic missile!");
@@ -436,6 +469,12 @@ void cast_smite(sbyte level, struct char_data * ch, char *arg, int type,
 		if (victim)
 			spell_smite(level, ch, victim, 0);
 		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+			spell_smite(level, ch, victim, 0);
+		break;
 	default:
 		main_log("ERROR: Invalid spell type in smite!");
 		spec_log("ERROR: Invalid spell type in smite!", ERROR_LOG);
@@ -462,6 +501,12 @@ void cast_black_burst(sbyte level, struct char_data * ch, char *arg, int type,
 		break;
 	case SPELL_TYPE_WAND:
 		if (victim)
+			spell_black_burst(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
 			spell_black_burst(level, ch, victim, 0);
 		break;
 	default:
@@ -495,6 +540,12 @@ void cast_cremation(sbyte level, struct char_data * ch, char *arg, int type,
 		if (victim)
 			spell_cremation(level, ch, victim, 0);
 		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+			spell_cremation(level, ch, victim, 0);
+		break;
 	default:
 		main_log("ERROR: Invalid spell type in cremation!");
 		spec_log("ERROR: Invalid spell type in cremation!", ERROR_LOG);
@@ -522,6 +573,12 @@ void cast_mortice_flame(sbyte level, struct char_data * ch, char *arg, int type,
 		break;
 	case SPELL_TYPE_WAND:
 		if (victim)
+			spell_mortice_flame(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
 			spell_mortice_flame(level, ch, victim, 0);
 		break;
 	default:
@@ -553,6 +610,12 @@ void cast_firelance(sbyte level, struct char_data * ch, char *arg, int type,
 		if (victim)
 			spell_firelance(level, ch, victim, 0);
 		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
+			spell_firelance(level, ch, victim, 0);
+		break;
 	default:
 		main_log("ERROR: Invalid spell type in firelance!");
 		spec_log("ERROR: Invalid spell type in firelance!", ERROR_LOG);
@@ -569,7 +632,7 @@ void cast_firestorm(sbyte level, struct char_data * ch, char *arg, int type,
 
 
 	switch (type) {
-		case SPELL_TYPE_SPELL:
+	case SPELL_TYPE_SPELL:
 		spell_firestorm(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_SCROLL:
@@ -580,6 +643,10 @@ void cast_firestorm(sbyte level, struct char_data * ch, char *arg, int type,
 		break;
 	case SPELL_TYPE_WAND:
 		if (victim)
+			spell_firestorm(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+			if (victim)
 			spell_firestorm(level, ch, victim, 0);
 		break;
 	default:
@@ -611,6 +678,10 @@ void cast_earthquake(sbyte level, struct char_data * ch, char *arg, int type,
 		if (victim)
 			spell_earthquake(level, ch, victim, 0);
 		break;
+	case SPELL_TYPE_STAFF:
+		if (victim)
+			spell_earthquake(level, ch, victim, 0);
+		break;
 	default:
 		main_log("ERROR: Invalid spell type in earthquake!");
 		spec_log("ERROR: Invalid spell type in earthquake!", ERROR_LOG);
@@ -638,6 +709,12 @@ void cast_divine_retribution(sbyte level, struct char_data * ch, char *arg, int 
 		break;
 	case SPELL_TYPE_WAND:
 		if (victim)
+			spell_divine_retribution(level, ch, victim, 0);
+		break;
+	case SPELL_TYPE_STAFF:
+		for (victim = world[ch->in_room].people;
+		     victim; victim = victim->next_in_room)
+			if (victim != ch)
 			spell_divine_retribution(level, ch, victim, 0);
 		break;
 	default:

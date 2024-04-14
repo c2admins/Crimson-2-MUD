@@ -1991,7 +1991,7 @@ void ot3300_do_use(struct char_data * ch, char *argument, int cmd)
 			 MAXV(1, stick->obj_flags.value[3]))].spell_pointer) {
 				((*spell_info[stick->obj_flags.value[3]].spell_pointer)
 				 ((signed char) stick->obj_flags.value[0], ch, "",
-				  SPELL_TYPE_WAND, tmp_char, tmp_object));
+				  SPELL_TYPE_SPELL, tmp_char, tmp_object));
 			}
 		}
 		else {

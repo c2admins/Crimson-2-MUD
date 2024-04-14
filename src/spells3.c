@@ -333,7 +333,7 @@ void cast_detect_animals(signed char level, struct char_data * ch, char *arg, in
 	case SPELL_TYPE_STAFF:
 		for (victim = world[ch->in_room].people;
 		     victim; victim = victim->next_in_room)
-			if (victim != ch)
+			if (!(IS_NPC(victim)))
 				spell_detect_animals(level, ch, victim, 0);
 		break;
 	default:
@@ -508,7 +508,7 @@ void cast_portal(signed char level, struct char_data * ch, char *arg, int type,
 	case SPELL_TYPE_STAFF:
 		for (tar_ch = world[ch->in_room].people;
 		     tar_ch; tar_ch = tar_ch->next_in_room)
-			if (tar_ch != ch)
+			if (!(IS_NPC(tar_ch)))
 				spell_portal(level, ch, tar_ch, 0);
 		break;
 	default:
