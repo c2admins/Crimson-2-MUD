@@ -2295,7 +2295,7 @@ Temple of T'salchoic  10+       good      Fish             2600-2689
 The Abyss             AVAT      evil      Perna            2400-2499
 The Fields            AVAT      evil      Archangel        8900-9049
 Thieves Guild         20+       neutral   Graffin          16600-16899
-Thieves Hideout       AVAT      varies    Jyaaku           24100-24149
+Thieves Den           AVAT      varies    Jyaaku           24100-24149
 Thalos                8-25      evil      STOCK            5200-5299
 Tuscany               15+       varies    Unknown          21100-21399
 Vamplair1             25+       evil      Fish             15100-15199
@@ -2347,7 +2347,7 @@ SnowPeak              AVAT      varies     Archangel       4955-4999
 Temple of Salvation   AVAT      good       Osiris          7100-7199
 The Abyss             AVAT      evil       Perna           2400-2499
 The Fields            AVAT      evil       Archangel       8900-9049
-Thieves Hideout       AVAT      varies     Jyaaku        24100-24149
+Thieves Den       AVAT      varies     Jyaaku        24100-24149
 
 See also: ZONES, ZONES_1, ZONES_2, ZONES_3, ZONES_4
 
@@ -2361,9 +2361,19 @@ Help Zones.
 SEE ALSO: ZONES, ZONES_1, ZONES_2, ZONES_3, ZONES_4
 
 #
+"Midgaard Quifael" QUIFAEL
+
+Suggested levels: 15-20  Align: Varies
+
+Head west from the Common Square until you reach Wall Road. Go south until
+you have are On the Concourse then follow the concourse and turn north onto
+Park Road. Go east and you will have reached Quifael's Hall.
+
+#
 TEMPLEOFSALVATION "Temple of Salvation"
 
 Suggested levels: 41    Align: Good
+
 Head out the east gate of Midgaard. Near the city of Elmpatris a small
 path leads south and up to the steps of the Temple.
 
@@ -2371,6 +2381,7 @@ path leads south and up to the steps of the Temple.
 NEDRAGAARDKEEP
 
 Suggested Levels: 30-41    Align: Evil
+
 Head out of the west gates of Midgaard.  Follow the south road in the same 
 direction as the citadel of chaos.  Once arriving on the pathway to chaos 
 look for a hidden exit, that will take you into the keep.
@@ -2390,7 +2401,7 @@ darklings.
 
 Suggested Levels: 5-20          Align: Varies
 
-Walking Directions to the zone are from Market Square in Midgaar.
+Walking Directions to the zone are from Market Square in Midgaard.
 
 Evil Area:  s2e2s7es2es2en4en2en3en4e2n11en16es2e3s2es4e2s
 Good Area:  s2e2s7es2es2en4en2en3en4e2n11en16es2e3s2es4e3sn
@@ -2629,12 +2640,24 @@ until you reach the turn in the road.  Turn westward on the Trade Road and
 venture from it northward to reach the temple.
 
 #
-"Arena"
+"Arena of Death"
 
 Suggested levels:  All          Align:  Varies
 
-Down from market square you will find this den of murder and mayhem.  Here
+Down from Market Square you will find this den of murder and mayhem.  Here
 players may kill one another whether or not they have the pkillable flag.
+
+For more information, please see help on PKILLER and PKILLING.
+
+#
+"Arena of Death"
+
+Suggested levels:  All          Align:  Varies
+
+Down from the Temple of Midgaard you will find this den of murder and 
+mayhem. Here players may kill one another whether or not they have the 
+pkillable flag.
+
 For more information, please see help on PKILLER and PKILLING.
 
 #
@@ -2671,7 +2694,7 @@ yourself entering the Citadel of Chaos.
 #
 "Magetower"
 
-Sugessted levels:  Avatar          Align: Varies
+Suggested levels:  Avatar          Align: Varies
 
 There is a path to the mage tower venturing north through Arachnos.You will
 find a Webby passage beyond the Queen Spider. Then follow the busy path to
@@ -3122,6 +3145,26 @@ path which can be walked but this complex path must be found by you if you
 wish to explore this area before you become an avatar.
 
 #
+"Gargath's Dungeon"
+
+Suggested levels:  Avatar          Align:  Varies
+
+Once you have ventured into Gargath's Keep and have found the torture 
+master, you can go down into the dungeon.
+
+#
+"Playground"
+
+Suggested levels: Avatar           Align:  Varies
+
+Head west out of Midgaard, then take the South road until you have crossed
+the bridge over the river. Take the dimly lit path heading southeast from 
+the South Road towards the Shire. Continue east to the gardens then go north
+and you find a Shaded path. Follow the path east and south until you approach
+a gate near the path to the fountain. Go through the gate and continue north
+until you reach Playground.
+
+#
 "Castle Bryan" "Bryan"
 
 Suggested levels:  20-35          Align:  Good
@@ -3133,12 +3176,55 @@ the Province of Shilinta and see the road curving into a light forest.
 Follow this road northwards until you find the Castle Bryan.
 
 #
+"Castle Fagus" FAGUS
+
+Suggested levels:  Avatar        Align:  Varies
+
+Leave north out of Midgaard until you reach the Plains then go south until
+the Rolling Hills and continue east. Once you arrive at a road crossing the
+rolling hills take the south path and then continue east and north to the 
+Fagus pond. From the pond you can climb your way up into the fields and make
+your way to the castle proper.
+
+#
+"Ocean"
+
+Suggested levels:                 Align:  Varies
+
+These are the vast oceans. You need to follow the Rivers until they lead out
+to the Ocean. 
+
+#
+"Masquerade"
+
+Suggested levels:  Avatar         Align: Varies
+
+Description to be added at a later time.
+
+
+
+#
 "Amazon Jungle"
 
 Suggested levels:  15+          Align:  Varies
 
 Leave Midgaard by way of the levee and head west on the River Karyna.
 When you reach the canal, follow it until you come into the Amazon.
+
+#
+"Thieves Den"
+
+Suggested levels: Avatar        Align:  Varies
+
+Description to be added at a later time.
+
+#
+"Limbo"
+
+Suggested levels: N/A           Align:  Varies
+
+This zone can only be accessed when idle in game and you will leave
+immediately after becoming active again.
 
 #
 "Thieves Guild"
