@@ -131,19 +131,18 @@ int local_get(struct char_data * ch, struct obj_data * obj_object,
 			 * remove without changing do_simple_split */
 			if ((MAX_GOLD - GET_GOLD(ch) - obj_object->obj_flags.value[0]) < 0) {
 				send_to_char("Too bad you can't hold it all, then you'd be REALLY rich....\r\n", ch);
-				ha2100_obj_to_room(obj_object, ch->in_room);
+				ha2100_obj_to_room(obj_object, 13);
 				return 0;
 			}
 			GET_GOLD(ch) += obj_object->obj_flags.value[0];
 			ot3700_do_simple_split(ch, obj_object->obj_flags.value[0]);
 		}
 		else {
-			sprintf(buffer, "There were %d coins.\r\n",
-				obj_object->obj_flags.value[0]);
+			sprintf(buffer, "There were %d coins.\r\n", obj_object->obj_flags.value[0]);
 			send_to_char(buffer, ch);
 			if ((MAX_GOLD - GET_GOLD(ch) - obj_object->obj_flags.value[0]) < 0) {
 				send_to_char("Too bad you can't hold it all, then you'd be REALLY rich....\r\n", ch);
-				ha2100_obj_to_room(obj_object, ch->in_room);
+				ha2100_obj_to_room(obj_object, 13);
 				return 0;
 			}
 			GET_GOLD(ch) += obj_object->obj_flags.value[0];

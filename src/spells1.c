@@ -29,6 +29,7 @@ void cast_burning_hands(sbyte level, struct char_data * ch, char *arg, int type,
 		spell_burning_hands(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_WAND:
+		if (victim)
 		spell_burning_hands(level, ch, victim, 0);
 		break;
 	default:
@@ -68,6 +69,9 @@ void cast_hail_storm(sbyte level, struct char_data * ch, char *arg, int type,
 				spell_hail_storm(level, ch, ch, 0);
 		}
 		break;
+	case SPELL_TYPE_WAND:
+		spell_hail_storm(level, ch, ch, 0);
+		break;
 	case SPELL_TYPE_STAFF:
 		if (OUTSIDE(ch) && (weather_info.sky >= SKY_RAINING)) {
 			for (victim = world[ch->in_room].people;
@@ -95,6 +99,7 @@ void cast_chill_touch(sbyte level, struct char_data * ch, char *arg, int type,
 		spell_chill_touch(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_WAND:
+	if (victim)
 		spell_chill_touch(level, ch, victim, 0);
 		break;
 	default:
@@ -117,6 +122,7 @@ void cast_shocking_grasp(sbyte level, struct char_data * ch, char *arg, int type
 		spell_shocking_grasp(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_WAND:
+		if (victim)
 		spell_shocking_grasp(level, ch, victim, 0);
 		break;
 	default:
@@ -158,9 +164,6 @@ void cast_colour_spray(sbyte level, struct char_data * ch, char *arg, int type,
 void cast_tremor(sbyte level, struct char_data * ch, char *arg, int type,
 		   struct char_data * victim, struct obj_data * tar_obj)
 {
-
-
-
 	switch (type) {
 		case SPELL_TYPE_SPELL:
 		spell_tremor(level, ch, 0, 0);
@@ -185,9 +188,6 @@ void cast_tremor(sbyte level, struct char_data * ch, char *arg, int type,
 void cast_energy_drain(sbyte level, struct char_data * ch, char *arg, int type,
 		         struct char_data * victim, struct obj_data * tar_obj)
 {
-
-
-
 	switch (type) {
 		case SPELL_TYPE_SPELL:
 		spell_energy_drain(level, ch, victim, 0);
@@ -308,6 +308,7 @@ void cast_harm(sbyte level, struct char_data * ch, char *arg, int type,
 				spell_harm(level, ch, victim, 0);
 		break;
 	case SPELL_TYPE_WAND:
+		if (victim)
 		spell_harm(level, ch, victim, 0);
 		break;
 	default:
@@ -385,8 +386,6 @@ void cast_lightning_bolt(sbyte level, struct char_data * ch, char *arg, int type
 void cast_magic_missile(sbyte level, struct char_data * ch, char *arg, int type,
 			  struct char_data * victim, struct obj_data * tar_obj)
 {
-
-
 
 	switch (type) {
 		case SPELL_TYPE_SPELL:

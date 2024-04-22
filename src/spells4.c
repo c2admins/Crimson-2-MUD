@@ -23,8 +23,6 @@ void cast_pestilence(sbyte level, struct char_data * ch, char *arg, int type,
 		       struct char_data * victim, struct obj_data * tar_obj)
 {
 
-
-
 	switch (type) {
 		case SPELL_TYPE_SPELL:
 		spell_pestilence(level, ch, victim, 0);
