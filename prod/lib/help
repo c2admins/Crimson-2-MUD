@@ -3,19 +3,15 @@
 #
 CHANGELOG
 
-Latest Changes as of March 31, 2024
+Latest Changes as of April 30, 2024
 
 Zone changes:
-Draconia - Fixed mobs wandering to other zones
-Nedragaard Keep - Fixed mobs wandering to other zones
+N/A
 
 Code changes:
-Paladin - Removed good align requirement. Now must maintain strong evil or good
-align. Gave Energy Drain and Holy Healing at level 4 to help with this.
-Druid - Wrath of Nature updated to be always area effect. Thornwrack adjusted to
-be a backstab like spell in power level. This may need modified for balancing. 
-NOADVANCE Flag - New flag that locks a character to their current level. They 
-will not gain experience or levels while flag enabled.
+Staves - Updated to have benefical spells effect wielder of staff.
+Wands - Fixed code to call correct function
+Bug Fix - Fixed crash bug related to using 'get all.coins' when at max gold.
 
 See also: HELP_UPDATE
 
@@ -35,16 +31,18 @@ Below were updated as of March 31, 2024:
 
 
 NEW HELP FILES
-Castle of the White Flame
-Helms Deep
-NOADVANCE
+Masquerade
+Midgaard Quifael
+Arena of Death
+Playground
+Gargath's Dungeon
+Castle Fagus
+Ocean
+Thieves Den
+Limbo
 
 CHANGED HELP FILES
-Thornwrack
-Wrath of Nature
-Race RESTRICTIONS
-
-
+N/A
 
 #
 AUCTION
@@ -3199,8 +3197,10 @@ to the Ocean.
 
 Suggested levels:  Avatar         Align: Varies
 
-Description to be added at a later time.
+This is the Realm of Vampires. You must have attained Avatar to venture into
+this region. 
 
+Goto 20500
 
 
 #
@@ -3216,7 +3216,11 @@ When you reach the canal, follow it until you come into the Amazon.
 
 Suggested levels: Avatar        Align:  Varies
 
-Description to be added at a later time.
+Head West out of Midgaard and continue south into the dark part of HoanDor
+forest. You will near the board of the old forest and take a hidden path west.
+This will take you to the Overgrown Path that leads to the Thieves Den.
+
+Rumor has it the chef makes a killer stew that will have you breathing fire. 
 
 #
 "Limbo"
