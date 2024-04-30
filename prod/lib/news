@@ -16,14 +16,19 @@ This is in summary form. Te see the latest changes check out 'help changelog'
      - Race restrictions preventing Demon, Ravshi and Darkling from being
        Paladin removed
      - NOADVANCE flag - locks a character to their current level.
+	 - Stave and Wand code fix.
+	 - Crash bug fix related to 'get all.coins' when at max gold.
 
- &W Q4 2023 -
-   &w*&n Zone Update:
-     - Winter Wonderland available for holidays. Goto Room 24480
-
- &W 2022 Summary -
-   &w*&n Code Update:
-     - Questmaster will no longer assign quests to mobs in NO_DONATE rooms
+ &W 2021 - 2023 Summary -
+   &w*&n Code Update: 
+     - Fixed Dancing sword to only transform weapons
+     - Fix ability to load bows/crossbows. Updated helpfile with new command
+     - Class HP, Mana, Move gain on level works now
+     - QOL Changes (Mortal Regen Rate, Rush Hour Frequency, Class Criticals)
+	 - Bug Fixes
+     - Spell Identify and Auction ID now show average damage on weapons
+     - Consider command updated to be more accurate and have better messages
+	 - Questmaster will no longer assign quests to mobs in NO_DONATE rooms
      - Added Code to try to resolve zone reboot crashing
      - Changed Quest Items able to be bought from Questmaster
      - Changed Quest Items that can be rewarded from Questmaster
@@ -33,30 +38,10 @@ This is in summary form. Te see the latest changes check out 'help changelog'
      - Added new Tailed Race "Saurian" See help race 31 for info.
    &w*&n Zone Update:
      - Fixed path to Glass Cathedral to match the Zone description
-   &w*&n Server Update:
+	&w*&n Server Update:
      - Moved to new Virtual Private Server IP 135.148.148.72
      - New Character Creation closed on old server as of Dec.1 2021
-     - Soft Player Wipe with the server move. (We will reimburse one char/kit)
-
- &W 2021 Summary -
-   &w*&n Code Update: 
-     - Fixed Dancing sword to only transform weapons
-     - Fix ability to load bows/crossbows. Updated helpfile with new command
-     - Class HP, Mana, Move gain on level works now
-     - Druid spell Beastial Transformation mana cost reduced to 150
-     - Mortal regen rate increased by 50 percent
-     - Fixed a password crash bug. Special characters are no longer permitted.
-     - Character creation points to website for class restriction info
-     - Rush Hour has a 40% chance to be a 3x EXP multiplier instead of 2x
-     - Dodge modified to allow chance to actually dodge attacks
-     - Spell Identify and Auction ID now show average damage on weapons
-     - Consider command updated to be more accurate and have betterr messages
-     - Class Criticals % chance increased and now available at level 30
-     - Envenom Weapon gives acid attack instead of Poisonous
-     - Trip skill added for Thiefs and Bash skill modified
-     - Monk Damage bugfix and tweak
-     - Elemental Weapon proc fix
-     - Melee Critical attack fix
+     - Soft Player Wipe with the server move. (We will reimburse one char/kit) 
 
  &W 2007 - 2020 Summary -
    &w*&n Code Update: 
@@ -78,6 +63,3 @@ This is in summary form. Te see the latest changes check out 'help changelog'
        HadesCastle and DarkCastle have had EQ, Rooms and Mobs updated
    &w*&n Questmaster Update:
      - Items changed, Bow/Crossbow(s) have been improved for hold slot
-   &w*&n Rules Update:
-     - Bots are now prohibited on Crimson MUD 2. If you have questions
-     regarding this change see 'help bots'
