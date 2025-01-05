@@ -466,7 +466,7 @@ void at1500_do_bash(struct char_data * ch, char *argument, int cmd)
 	struct char_data *victim;
 	char name[MAX_STRING_LENGTH], buf[MAX_STRING_LENGTH];
 	signed char percent;
-	int block, lv_wait = 2;
+	int block, lv_wait = 3;
 
 	if (GET_LEVEL(ch) > PK_LEV) {
 		bzero(buf, sizeof(buf));
