@@ -35,7 +35,7 @@ order     follow    rent      offer     group     return    visible
 invisible auto      alias     oset      1mskill   1mattack  lrlevel
 zhelp     logview   logsearch war       bless     ignore    incognito
 ghost     clan      meditate  auction   bid       cancel    quest
-mail      oclass    heal      qui       save      backup
+mail      oclass    heal      qui       save      backup    reload
 
 Social commands:
 smile     dance     cackle    laugh     giggle    shake     growl
